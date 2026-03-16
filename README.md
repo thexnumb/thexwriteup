@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 14:42:46 GMT | The Echo Chamber and the Path Less Traveled | The Seeker Project | [Read More](https://medium.com/p/a56de69cf061) |
+| Mon, 16 Mar 2026 14:32:42 GMT | Web Security Series #5 — Exploiting Broken Access Control via Token Misuse in API Endpoints | Laibakashif | [Read More](https://medium.com/p/c0d89ceaadd1) |
+| Mon, 16 Mar 2026 14:21:17 GMT | How I Discovered a $700 CSRF Vulnerability and Recreated It as a Security Lab | C0deRevenant | [Read More](https://medium.com/p/7a2e0a80eb92) |
+| Mon, 16 Mar 2026 14:17:32 GMT | TryHackMe - Vulnerability Capstone | Tega Akperiojire (cyber_with_tega) | [Read More](https://medium.com/p/4f1d970dcbe8) |
+| Mon, 16 Mar 2026 14:15:54 GMT | I Built a Privacy-First Developer Toolkit — Here’s Why It Matters | Gaurav Tayade | [Read More](https://medium.com/p/ca60dcd28669) |
+| Mon, 16 Mar 2026 14:15:15 GMT | In Defence of (Detection) Artists | Tomasz Kojm | [Read More](https://medium.com/p/b7a5442a393a) |
+| Mon, 16 Mar 2026 14:13:49 GMT | CVE-2024–55415 Walkthrough (Proving Ground) | cyber_public_school | [Read More](https://medium.com/p/59184d2f7181) |
+| Mon, 16 Mar 2026 14:12:46 GMT | How to Make Sure Your Life Insurance Policies Get Claimed When You’re Gone | InheritSafe | [Read More](https://medium.com/p/a94bd6ab8bd7) |
+| Mon, 16 Mar 2026 14:04:50 GMT | A Secure Way to Notify Your Executor and Release Important Items If I Die | Olivia Martillo | [Read More](https://medium.com/p/dd9484d4aae3) |
+| Mon, 16 Mar 2026 14:01:08 GMT | Why So Many Of Us Are Either Drowning In Feelings — Or Trying To Feel Nothing At All? | Gurleen Kaur Reel | [Read More](https://medium.com/p/dc9efd6d17ad) |
+| Mon, 16 Mar 2026 14:01:04 GMT | Why SMBs panic at customer security questionnaires — and how to avoid it | Gaurav Shukla | [Read More](https://medium.com/p/c56da68421aa) |
+| Mon, 16 Mar 2026 14:01:04 GMT | Why Hackers Love Small Businesses (And What You Can Do About It) | Sharon Martin | [Read More](https://medium.com/p/8c2fc6ba5b9b) |
+| Mon, 16 Mar 2026 14:01:03 GMT | Cyber Briefing: 2026.03.16 | CyberMaterial | [Read More](https://medium.com/p/e894b61c6a57) |
+| Mon, 16 Mar 2026 13:55:47 GMT | What Is Logster AI Model? | Eman Khalid | [Read More](https://medium.com/p/d3c7e638eb41) |
+| Mon, 16 Mar 2026 13:55:14 GMT | CTF Write-Up — Pickle Rick (TryHackMe) | Hectorlazzari | [Read More](https://medium.com/p/f2b54943ef11) |
+| Mon, 16 Mar 2026 13:40:46 GMT | How does a cyber attack explain the geopolitical conditions of a country? | SerapHim | [Read More](https://medium.com/p/a99df7d29561) |
+| Mon, 16 Mar 2026 13:39:46 GMT | DRILLAPP: Russia-Linked Browser Espionage in Ukraine | Dice | [Read More](https://medium.com/p/58049103ec4b) |
+| Mon, 16 Mar 2026 13:25:08 GMT | AI Engineering Is a Control Problem, Not a Prompt Problem | David Ahmann | [Read More](https://medium.com/p/a37414afa731) |
+| Mon, 16 Mar 2026 13:23:44 GMT | AWS Root MFA: Top 10 Best Practices 2026 | AXIOMIO Social | [Read More](https://medium.com/p/ecf98eafbcd4) |
+| Mon, 16 Mar 2026 13:18:01 GMT | TryHackMe — AD Basic Enumeration (Menembus Active Directory dari Nol) | Rikyhermawan | [Read More](https://medium.com/p/5446322c6034) |
 | Mon, 16 Mar 2026 13:17:21 GMT | La cybercriminalité: | Elghithiyassin | [Read More](https://medium.com/p/113e3b029601) |
 | Mon, 16 Mar 2026 13:16:19 GMT | Why Choose a Cybersecurity Company in Bangalore for VAPT & Cloud Security | devel writer | [Read More](https://medium.com/p/9f5343e76c6f) |
 | Mon, 16 Mar 2026 13:12:35 GMT | Reverse Shells on Windows: Understanding Techniques Used in Security Testing | Kavishka Kalhara | [Read More](https://medium.com/p/3725ef3e701b) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 08:44:50 GMT | Navigate My Blog: All Articles by Topic | Andrey Pautov | [Read More](https://medium.com/p/ffd800ef5480) |
 | Mon, 16 Mar 2026 08:34:11 GMT | From Hospitals to Auto Workshops… How BI-Technology Builds Systems That Save You Time | MESHAL Muhammed | [Read More](https://medium.com/p/f45539d1eaf0) |
 | Mon, 16 Mar 2026 08:28:46 GMT | Secure Model Deployment on AWS SageMaker | Davebhargavi | [Read More](https://medium.com/p/f374b6cd43bd) |
-| Mon, 16 Mar 2026 08:24:31 GMT | Eavesdropper: Privilege Escalation via PATH Hijacking | Roshan Rajbanshi | [Read More](https://medium.com/p/95e270d7c879) |
-| Mon, 16 Mar 2026 08:23:58 GMT | Trusted Security Solutions in Riverside & Beyond | Travel time | [Read More](https://medium.com/p/8a58d01744c8) |
-| Mon, 16 Mar 2026 08:17:48 GMT | I Found an IDOR Worth $20,000 -Here’s What Happened | Mohaseen | [Read More](https://medium.com/p/62d6b8c4f17d) |
-| Mon, 16 Mar 2026 08:17:46 GMT | Static Link Analysis -A Hands-On SOC Lab Walkthrough | Vishvambhar ranoshe | [Read More](https://medium.com/p/d58ef324b50c) |
-| Mon, 16 Mar 2026 08:16:38 GMT | Corridor — TryHackMe Walkthrough | codingbolt | [Read More](https://medium.com/p/935a87083687) |
-| Mon, 16 Mar 2026 08:15:12 GMT | Penetration Testing Methodology: Information Gathering -A Beginner’s Guide | Sanidhya Kafle | [Read More](https://medium.com/p/7ce6aceddec6) |
-| Mon, 16 Mar 2026 08:12:11 GMT | MCP Security Playbook: Auth, Tool Trust, and Prompt-Injection Defenses for Real Systems | Manish Rana | [Read More](https://medium.com/p/e00625517d71) |
-| Mon, 16 Mar 2026 08:09:49 GMT | SOC Investigation: Malicious RTF Exploit Leading to Regsvr32-Based Payload Retrieval | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/39c92eace85d) |
-| Mon, 16 Mar 2026 08:04:07 GMT | Your Email Archive Is a Goldmine. You Just Can’t Search It. | Bash Wheatley | [Read More](https://medium.com/p/35ced1242aaf) |
-| Mon, 16 Mar 2026 08:00:26 GMT | NDR in a Zero Trust World: Securing East-West Traffic in 2026 | NetWitness | [Read More](https://medium.com/p/2c178d462185) |
-| Mon, 16 Mar 2026 07:56:51 GMT | Why I Hate Bugcrowd: When Fighting for a Valid Report Still Gets You Nowhere | Aakash Ahmed | [Read More](https://medium.com/p/7b1070c96d5e) |
-| Mon, 16 Mar 2026 07:50:55 GMT | The 2026 Architecture of High-Concurrency Gaming: A Technical Deep Dive | Andrew - mega888ai | [Read More](https://medium.com/p/af7af140f2c8) |
-| Mon, 16 Mar 2026 07:49:08 GMT | From L3/L4 to L7 Security: How Cilium Reinvents Kubernetes Network Policies | Saurabh Tandon | [Read More](https://medium.com/p/ed1e44bab595) |
-| Mon, 16 Mar 2026 07:47:44 GMT | The Cryptography Concept Journey — Certificate Pinning | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b6f5435de8ca) |
-| Mon, 16 Mar 2026 07:43:56 GMT | Is Snapchat Compromising User Privacy? The Growing Concern Around Social Media Data Usage | Ankit rai | [Read More](https://medium.com/p/ab94c7e234e3) |
-| Mon, 16 Mar 2026 07:43:15 GMT | Day 08: Password Attacks, Types, Techniques, and SOC Detection | Muhammad Kashif | [Read More](https://medium.com/p/1d02a0af9a7d) |
-| Mon, 16 Mar 2026 07:41:38 GMT | Building Smarter Automation Workflows for Growing Businesses | n8ndevelopers | [Read More](https://medium.com/p/f370fb011b92) |
-| Mon, 16 Mar 2026 07:41:00 GMT | API Key Nedir? Nasıl Gönderilir? Gerçekten Güvenli mi? | Burak Kaşıkcı | [Read More](https://medium.com/p/78144158e04b) |
-| Mon, 16 Mar 2026 07:41:00 GMT | The Weight of Open Hands | Khoiru Rizal | [Read More](https://medium.com/p/518487eb590f) |
-| Mon, 16 Mar 2026 07:38:38 GMT | “Digital Democracy” Floating Over Tokyo: Observation Report of the 0-Yen Warp between Akasaka and… | kageyama rai | [Read More](https://medium.com/p/2aef5f61c38b) |
