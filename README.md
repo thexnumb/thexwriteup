@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 04:19:41 GMT | I Replaced Zapier With 3 MCP Servers — Then Discovered 30 Security Vulnerabilities in 60 Days | leokim | [Read More](https://medium.com/p/66e0b6e106c0) |
+| Tue, 17 Mar 2026 04:19:16 GMT | Global Cyber Alert: Russian Hackers Using Fake Chatbots on Signal and WhatsApp | Seikh Suraj | [Read More](https://medium.com/p/ad2fe6acfe87) |
+| Tue, 17 Mar 2026 04:13:32 GMT | Brutal Truth #6: Privilege Is the Real Target | Dr. Shashi Karhail | [Read More](https://medium.com/p/c7612272f61a) |
+| Tue, 17 Mar 2026 03:59:29 GMT | Secure Your Cloud: Explore DevSecOps and Security Tools in Microsoft Azure ☁️ | Everton Araújo | [Read More](https://medium.com/p/3a1e10207046) |
+| Tue, 17 Mar 2026 03:57:24 GMT | Hacking AI Browsers: How i hacked Perplexity | m19o | [Read More](https://medium.com/p/c33afe12c39e) |
+| Tue, 17 Mar 2026 03:49:23 GMT | CVE-2026–3569 事件始末：修復 WordPress Plugin REST API 安全漏洞全紀錄 | Liaison Tw | [Read More](https://medium.com/p/01a6840087bf) |
+| Tue, 17 Mar 2026 03:36:18 GMT | Be Careful With MCP Servers! | Naoufal OUCHKOUK | [Read More](https://medium.com/p/91425d042fee) |
+| Tue, 17 Mar 2026 03:21:19 GMT | Mass IDOR + Race Condition: Sequential Tokens Unlock Millions of Patient Names in a Healthcare… | Samrat Sitaula | [Read More](https://medium.com/p/ea39c20a456a) |
+| Tue, 17 Mar 2026 03:18:39 GMT | Why Invisible Code Is the Next Supply Chain Risk Audit Leaders Should Understand | Zac Moore | [Read More](https://medium.com/p/64cf65482f8f) |
+| Tue, 17 Mar 2026 03:15:52 GMT | The People of Maiduguri Do Not Need Your Condolences
+#InsightByAlkaitawi
+Condolences, at this… | Ibrahim Alkaitawi | [Read More](https://medium.com/p/5f958b449be9) |
+| Tue, 17 Mar 2026 03:12:16 GMT | What Should You Do After Finding a Scam Website? | Cole Barkley | [Read More](https://medium.com/p/3e5a09a181da) |
+| Tue, 17 Mar 2026 03:10:13 GMT | Check Website Security With “shcheck” | Narathama Firmansyah Putra | [Read More](https://medium.com/p/f2074872bb90) |
+| Tue, 17 Mar 2026 03:00:42 GMT | Running a Tabletop Exercise Across the Entire Organisation: A Constellar Story | Kiell Tampubolon | [Read More](https://medium.com/p/6f35b5c3e982) |
+| Tue, 17 Mar 2026 02:59:44 GMT | Digital Technology Information in the Age of Intelligent Systems | Jevast | [Read More](https://medium.com/p/71677f8f5518) |
+| Tue, 17 Mar 2026 02:48:21 GMT | Top Authentication Weaknesses in Fintech Platforms | Mohamed Hamadou - ( ZoeniX ) | [Read More](https://medium.com/p/548f1886e86c) |
+| Tue, 17 Mar 2026 02:46:41 GMT | Building a SOC AI Agent: Automating Security Alert Investigation at Scale | Paritosh | [Read More](https://medium.com/p/787837a1d390) |
+| Tue, 17 Mar 2026 02:31:01 GMT | I Ditched Passwords for Passkeys in Laravel 13. Here’s the Complete Setup Guide. | Sadique Ali | [Read More](https://medium.com/p/b05b43281cfc) |
 | Tue, 17 Mar 2026 02:21:12 GMT | Prompt Injection Is Not a Prompting Problem | Andrew Douma | [Read More](https://medium.com/p/97ac57dccecd) |
 | Tue, 17 Mar 2026 02:14:45 GMT | The Assassination of GOAD | Joshua Goossen | [Read More](https://medium.com/p/8645df5b68fb) |
 | Tue, 17 Mar 2026 02:10:16 GMT | Malware Traffic Analysis Report | Deepthi Reddy | [Read More](https://medium.com/p/948bb4e09541) |
@@ -95,20 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 18:18:36 GMT | Debugging False Positives in Static Analysis (SonarQube, AES/DES Example, and AI Fixes) | Mohit | [Read More](https://medium.com/p/91da7149835e) |
 | Mon, 16 Mar 2026 18:13:44 GMT | A Business Logic Bug That Let Me Remove Platform Fees During Checkout | Ashutosh Anand | [Read More](https://medium.com/p/ac96b7eb7959) |
 | Mon, 16 Mar 2026 18:12:49 GMT | One developer beat every major AI lab to consumer agents. Here’s how! | Grassroots Solutions Pvt Ltd | [Read More](https://medium.com/p/43ea074eec5c) |
-| Mon, 16 Mar 2026 18:05:08 GMT | xss0r V6 is Finally Released! | xss0r | [Read More](https://medium.com/p/7f620892512e) |
-| Mon, 16 Mar 2026 18:01:00 GMT | The Real AI Security Risk Is Permissions | Web3.com Ventures | [Read More](https://medium.com/p/a071ca603692) |
-| Mon, 16 Mar 2026 17:55:29 GMT | Still Missing Critical Pieces | Julien Simon | [Read More](https://medium.com/p/7a78077235e5) |
-| Mon, 16 Mar 2026 17:55:15 GMT | How to Detect Web Attacks: The Complete SOC Analyst Guide | abulenain | [Read More](https://medium.com/p/b551c9eda174) |
-| Mon, 16 Mar 2026 17:52:01 GMT | Understanding Browser Hardware Access: A Security Demonstration Using Web Technologies | Hajrahaseeb | [Read More](https://medium.com/p/c40662f8cdc4) |
-| Mon, 16 Mar 2026 17:49:09 GMT | Hiring an AI-Focused CIO: Ask the Right Questions | Michael McDonald | [Read More](https://medium.com/p/829c075401e2) |
-| Mon, 16 Mar 2026 17:48:24 GMT | Kali Linux | Hamid Aslanov | [Read More](https://medium.com/p/bb180111fb6c) |
-| Mon, 16 Mar 2026 17:47:56 GMT | Every Company Needs an AI-Focused CIO | Michael McDonald | [Read More](https://medium.com/p/0bfa08ee0455) |
-| Mon, 16 Mar 2026 17:37:58 GMT | Most Small Businesses Don’t Have a Security Plan. I’ve Seen What Happens Next | Building Security Services | [Read More](https://medium.com/p/81ba0d9b84c5) |
-| Mon, 16 Mar 2026 17:34:25 GMT | Most Technical Multilingual Prompt Injection: How Code-Switching Exposes LLM Guardrail… | Jaskirat Singh | [Read More](https://medium.com/p/bf989f75b361) |
-| Mon, 16 Mar 2026 17:32:48 GMT | Common Vulnerabilities Businesses Discover During Penetration Testing | Digital Defense | [Read More](https://medium.com/p/f16430784ca1) |
-| Mon, 16 Mar 2026 17:29:34 GMT | EU Cyber Resilience Act: What It Means for Your Codebase and How to Prepare | Eldor Zufarov | [Read More](https://medium.com/p/04d26a42f056) |
-| Mon, 16 Mar 2026 17:26:19 GMT | Is Your Webcam Spying on You? A Simple Webcam Demonstration | Hafsa Shahid | [Read More](https://medium.com/p/0d81f1a2be5f) |
-| Mon, 16 Mar 2026 17:18:02 GMT | Cyber Security Foundation Series — Computer Networking Part-06(How website and Internet works) | Kamal Kishor Mahto | [Read More](https://medium.com/p/2c09b47d503e) |
-| Mon, 16 Mar 2026 17:13:46 GMT | Everyone Is Using AI for Bug Bounty in 2026. Almost Nobody Is Using It Correctly. | R.H Rizvi | [Read More](https://medium.com/p/fe7e3356010e) |
-| Mon, 16 Mar 2026 17:13:34 GMT | The Fresher’s Trap: Why the Most Prepared Beginners Are the Last Ones to Get Paid | R.H Rizvi | [Read More](https://medium.com/p/a69b11c5d9b7) |
-| Mon, 16 Mar 2026 17:11:14 GMT | Why DeFi Needs Vault Infrastructure: From Manual Chasing to Automated Capital Systems | Mukeshrana | [Read More](https://medium.com/p/d9a9c6d3a385) |
