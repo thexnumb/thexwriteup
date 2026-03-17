@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 19:14:24 GMT | Integrating Security Concepts Synthesis: The Comprehension of a Strategy. | Farid Mehtizada | [Read More](https://medium.com/p/886423a835a0) |
+| Tue, 17 Mar 2026 19:11:27 GMT | Factory Acceptance Testing (FAT) for Modern Control Systems | Asad Naeem | [Read More](https://medium.com/p/b13231ba6e42) |
+| Tue, 17 Mar 2026 19:10:59 GMT | How to Secure Vibe Coded Apps: A Practical Guide to AI-Era DevSecOps | Spencer Roffey | [Read More](https://medium.com/p/a30977804f77) |
+| Tue, 17 Mar 2026 19:09:04 GMT | Hands-On Network Security Analysis Using Zeek & Wireshark | Abhijeet M | [Read More](https://medium.com/p/ad708c4d750c) |
+| Tue, 17 Mar 2026 19:08:37 GMT | The 7 Scams Targeting Seniors Right Now | Western Stronghold – Tech Help for Seniors | [Read More](https://medium.com/p/60e158a4d896) |
+| Tue, 17 Mar 2026 19:05:44 GMT | The Norsk Hydro Masterclass: Why “Manual” is the Sexiest Word in OT Security | BlastWave | [Read More](https://medium.com/p/beacda0e09ee) |
+| Tue, 17 Mar 2026 19:04:58 GMT | New Threat On The Horizon: Quantum Computers | Mohammad Javed, Tech Lead | [Read More](https://medium.com/p/5c12e02d0952) |
+| Tue, 17 Mar 2026 19:04:37 GMT | Security by Obscurity: An Effective Second Line of Defense or a False Premise? | Farid Mehtizada | [Read More](https://medium.com/p/73c5e024e0f6) |
+| Tue, 17 Mar 2026 19:01:00 GMT | Automatically Detect New Cyber Threats Before Your Team Reads the News | Neetrox | [Read More](https://medium.com/p/1274f3eebd18) |
+| Tue, 17 Mar 2026 18:57:35 GMT | Secure by Design: Designing Security Before it is a Problem. | Mehtizadehf | [Read More](https://medium.com/p/c4ff7007151d) |
+| Tue, 17 Mar 2026 18:52:51 GMT | AD: Basic Enumeration | Muhammad Idham Cholid | [Read More](https://medium.com/p/6d8523ed999d) |
+| Tue, 17 Mar 2026 18:38:34 GMT | The Dark Web: What Really Exists Beyond Google | Abhijeet kumawat | [Read More](https://medium.com/p/00d2315134be) |
+| Tue, 17 Mar 2026 18:37:58 GMT | Day 28: Emotional intelligence is not enough | Kirstyn Liang | [Read More](https://medium.com/p/04fefb0a64ac) |
+| Tue, 17 Mar 2026 18:34:28 GMT | ☕ You Didn’t Get Hacked. You Logged In. | Shawn micheal | [Read More](https://medium.com/p/e0d2b11d8ba5) |
+| Tue, 17 Mar 2026 18:31:24 GMT | Bug Bounty: Como funciona? | Dayanne Santos | [Read More](https://medium.com/p/777a6a27af39) |
+| Tue, 17 Mar 2026 18:30:00 GMT | URGENT for Every CCTV Owner in India — April 1, 2026 Deadline! | Shiyanthan Shiya | [Read More](https://medium.com/p/ec4ad8ea46ad) |
+| Tue, 17 Mar 2026 18:23:17 GMT | Why the Internet Feels More Fake Than Ever Before | Hafizbilaltariq | [Read More](https://medium.com/p/24a8d1391255) |
+| Tue, 17 Mar 2026 18:17:38 GMT | How We Built a Browser Camera Permission Demo — A Step-by-Step Security Guide | Dania Usman | [Read More](https://medium.com/p/7010b58989aa) |
+| Tue, 17 Mar 2026 18:07:45 GMT | How to Install Fail2Ban on a VPS ? | BuyVPS.us | [Read More](https://medium.com/p/fea3e0d0ed9f) |
+| Tue, 17 Mar 2026 18:02:50 GMT | CPU, Memory and Performance Explained Simply | Aariz Khan | [Read More](https://medium.com/p/c1004d3fd81e) |
 | Tue, 17 Mar 2026 17:43:44 GMT | OWASP Explained: Web Security has a Rulebook. It’s Free. Most People Ignore It. | D3ad_M3m0r13s | [Read More](https://medium.com/p/534f5a4e6459) |
 | Tue, 17 Mar 2026 17:41:43 GMT | Capstone | Agungspace | [Read More](https://medium.com/p/9a593c700620) |
 | Tue, 17 Mar 2026 17:41:09 GMT | TryHackMe — Dev Diaries Solution | Ajay Manivannan | [Read More](https://medium.com/p/1e52c04dbf54) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Mar 2026 13:41:00 GMT | Garage Door Troubleshooting Guide Worcester MA - UAD | Up & Down Garage Door Services | [Read More](https://medium.com/p/57d10647c202) |
 | Tue, 17 Mar 2026 13:40:44 GMT | Writeup TryHackMe: Attacktive Directory — Memahami Alur Eksploitasi Active Directory | Rikyhermawan | [Read More](https://medium.com/p/16dc35afcd02) |
 | Tue, 17 Mar 2026 13:37:18 GMT | The Missing Layer in AI Systems: Verifiable Execution | Arrotu | [Read More](https://medium.com/p/9f2aeb00e0f6) |
-| Tue, 17 Mar 2026 13:31:01 GMT | Shadow IT Was Annoying. Shadow Agents Are Harder to Explain Away. | Clear-Text by Gnani Rahul Nutakki | [Read More](https://medium.com/p/27e74d6b97d9) |
-| Tue, 17 Mar 2026 13:27:55 GMT | How to do LLMNR Poisoning and SMB Relay Attack. | Zoroya | [Read More](https://medium.com/p/10476e96b1bf) |
-| Tue, 17 Mar 2026 13:26:03 GMT | Reflected Cross-Site Scripting (XSS) in Leave Application System (PHP & SQLite3) | Hemant Raj Bhati | [Read More](https://medium.com/p/e7f915fcf21e) |
-| Tue, 17 Mar 2026 13:20:12 GMT | I Learned To Spot Fake Websites In Seconds. Here’s How | Shreya Mehta | [Read More](https://medium.com/p/e3ef83f04d62) |
-| Tue, 17 Mar 2026 13:16:17 GMT | IT Staffing Technology Trends in Canada 2026 | Xwtempsolutions | [Read More](https://medium.com/p/0447df4ad724) |
-| Tue, 17 Mar 2026 13:15:19 GMT | Panduan Verifikasi Domain Resmi Flyingslot Sebelum Login | flyingslot | [Read More](https://medium.com/p/36845aca1ce1) |
-| Tue, 17 Mar 2026 13:07:52 GMT | Why Secure Software Development Is Critical for Modern Infrastructure | Elizabeth Oyeyipo | [Read More](https://medium.com/p/f05f3cb90ae0) |
-| Tue, 17 Mar 2026 13:06:41 GMT | The Ultimate AD Backdoor: Weaponizing a Built-in Windows Feature for Persistence | Onur Civan | [Read More](https://medium.com/p/556a30bfdf30) |
-| Tue, 17 Mar 2026 12:59:36 GMT | Queue dalam Python | Aghnia Azka | [Read More](https://medium.com/p/b3e8bf1b7cab) |
-| Tue, 17 Mar 2026 12:51:46 GMT | Certified in Cybersecurity (CC): Complete Beginner Guide 2026 | Manish Shetty | [Read More](https://medium.com/p/64627fdcd431) |
-| Tue, 17 Mar 2026 12:45:44 GMT | The Importance of Vulnerability Analysis and Penetration Testing Service for Cybersecurity | Janishasoni | [Read More](https://medium.com/p/8c9503d22574) |
-| Tue, 17 Mar 2026 12:42:42 GMT | Cloud Migration Services & Solutions - IFI Techsolutions | IFI Techsolutions | [Read More](https://medium.com/p/fd3c25d87771) |
-| Tue, 17 Mar 2026 12:41:37 GMT | How to Test Your Crypto Keys: Entropy Lab Tutorial - Stop Using Weak Keys! | XPORT.TOP | [Read More](https://medium.com/p/922d8e3ea0a5) |
-| Tue, 17 Mar 2026 12:32:37 GMT | Camfecting and Privacy Breach on Websites | Muhammad Saad Fareed | [Read More](https://medium.com/p/4b6735b33169) |
-| Tue, 17 Mar 2026 12:29:05 GMT | Stop the Brute: Strengthening My Virtual Security Lab with Fail2Ban | James Aboh | [Read More](https://medium.com/p/34c4361d912a) |
-| Tue, 17 Mar 2026 12:27:56 GMT | Linux Basic Operational Commands | Alexious Fiero | [Read More](https://medium.com/p/4604e98adf1f) |
-| Tue, 17 Mar 2026 12:26:00 GMT | Garage Door Cable Repair | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/a5857e3e3725) |
-| Tue, 17 Mar 2026 12:23:23 GMT | 10 OAuth Misconfiguration Exploits Every Pentester Must Master | Candy Wong | [Read More](https://medium.com/p/ef1f71324faf) |
-| Tue, 17 Mar 2026 12:18:14 GMT | ISO 27001 Lead Auditor Salary, Exam & Career Path | Manish Shetty | [Read More](https://medium.com/p/9094708b0999) |
-| Tue, 17 Mar 2026 12:12:35 GMT | Reconnaissance: The Art of Knowing Before Striking | Sukuti.sh | [Read More](https://medium.com/p/50de43f7bda9) |
