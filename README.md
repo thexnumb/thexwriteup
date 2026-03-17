@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 09:24:38 GMT | Write for Us: Share Your Data, AI & Business Insights with a Global Audience | Jeromvq | [Read More](https://medium.com/p/66a5816f50b6) |
+| Tue, 17 Mar 2026 09:18:53 GMT | Web Security Series #6 — Exploiting SQL Injection to Extract Sensitive Data | Laibakashif | [Read More](https://medium.com/p/26c5c11e4779) |
+| Tue, 17 Mar 2026 09:16:16 GMT | OpenClaw Can Leak Your Data — Here Is the Safer Setup | Dibeesh KS | [Read More](https://medium.com/p/66a5d271fb61) |
+| Tue, 17 Mar 2026 09:15:38 GMT | How IT Companies Manage Client Data Securely | Cloudegytechnology | [Read More](https://medium.com/p/708d95c6135b) |
+| Tue, 17 Mar 2026 09:06:13 GMT | Why DeFi Needs Vault Infrastructure | Justfunk | [Read More](https://medium.com/p/7a79eeb2df12) |
+| Tue, 17 Mar 2026 09:04:41 GMT | How Nvidia’s NemoClaw and Enterprise AI Are Changing Workflow Security | Ryan Shrott | [Read More](https://medium.com/p/910c5d65803a) |
+| Tue, 17 Mar 2026 09:04:23 GMT | Our Team Was Getting Scammed on Telegram. Here’s the Architecture That Stopped It | Alex Fomin | [Read More](https://medium.com/p/9251def70d3e) |
+| Tue, 17 Mar 2026 09:00:47 GMT | AI Security: Yapay Zeka Çağında Savunmanın Yeni Kuralları | Arboreturn | [Read More](https://medium.com/p/585f04ebc80d) |
+| Tue, 17 Mar 2026 08:56:00 GMT | TryHackMe Searchlight IMINT Writeup (Easy) - Real OSINT Process, Mistakes & Investigation | Manmath somure | [Read More](https://medium.com/p/18bde2f547c1) |
+| Tue, 17 Mar 2026 08:55:25 GMT | Ethical Hacking Using Socal Engneering Attacks | Muhammad Rafay Tahir | [Read More](https://medium.com/p/bffc5b369a14) |
+| Tue, 17 Mar 2026 08:54:14 GMT | Strategic Remote Staffing Mastery | Rajeeb Ghosh | [Read More](https://medium.com/p/c2c106aa7337) |
+| Tue, 17 Mar 2026 08:53:35 GMT | How GitLab’s Agentic AI is Rewriting the Rules of Vulnerability Remediation | Shailesh Gogate | [Read More](https://medium.com/p/582456c9be27) |
+| Tue, 17 Mar 2026 08:50:08 GMT | The Hollow Victory: Why India’s Internal Security Backbone is Breaking* | VIBHAV KUMAR | [Read More](https://medium.com/p/2443ae707e77) |
+| Tue, 17 Mar 2026 08:38:44 GMT | How I Cut Pentest Report Writing From 4 Hours to 15 Minutes | Sai Ram Muthineni | [Read More](https://medium.com/p/b099898b3fbc) |
+| Tue, 17 Mar 2026 08:34:38 GMT | Hackers Don’t Break In. They Log In. | Devarshi Acharya | [Read More](https://medium.com/p/e7fa77b822d9) |
+| Tue, 17 Mar 2026 08:32:41 GMT | Application Security | J.Dishalan | [Read More](https://medium.com/p/fbf156b67690) |
+| Tue, 17 Mar 2026 08:29:00 GMT | When God writes your love story: Insecure | Joca Rambo | [Read More](https://medium.com/p/ea33d145972c) |
+| Tue, 17 Mar 2026 08:26:15 GMT | How Reconnaissance Leads to Your First Real Vulnerability | Fateyaly | [Read More](https://medium.com/p/5131477e3320) |
+| Tue, 17 Mar 2026 08:20:28 GMT | GlassWorm: The Invisible, Self-Propagating Worm Rewriting Supply Chain Attacks | Dice | [Read More](https://medium.com/p/47ba84db9a2f) |
 | Tue, 17 Mar 2026 07:56:58 GMT | Why Hiring a City Locksmith in London Is Important for Property Security | N1locksmithsltd | [Read More](https://medium.com/p/78235c0c5a4b) |
 | Tue, 17 Mar 2026 07:54:02 GMT | Anatomy of OT Devices in the Electric Power Sector: Every Device, Every Risk | MrDuc | [Read More](https://medium.com/p/8b7e655c030f) |
 | Tue, 17 Mar 2026 07:52:43 GMT | When Redis Turned Rogue: How a Hidden Lua Exploit Crashed Our Docker Infrastructure | Harris khan | [Read More](https://medium.com/p/8cbe93df7bf9) |
@@ -95,22 +114,3 @@ Condolences, at this… | Ibrahim Alkaitawi | [Read More](https://medium.com/p/5
 | Tue, 17 Mar 2026 01:10:33 GMT | Tuesday Morning Threat Report: Mar 17, 2026 | Mark Maguire | [Read More](https://medium.com/p/204b47f48399) |
 | Tue, 17 Mar 2026 01:02:26 GMT | Your Home Office Has a Security Problem. Here’s How to Fix It in 30 Minutes. | Jusjaesho | [Read More](https://medium.com/p/cc25a61905aa) |
 | Tue, 17 Mar 2026 00:54:01 GMT | Disaster Recovery: How Businesses Protect Data and Systems After a Crisis | Techridge Solutions | [Read More](https://medium.com/p/ff57205bd53c) |
-| Tue, 17 Mar 2026 00:47:26 GMT | A Cybersecurity Giant Just Shipped Its Own SSL Private Key in a Public Installer | Jbird | [Read More](https://medium.com/p/89b1961cc062) |
-| Tue, 17 Mar 2026 00:46:57 GMT | Hashable — Cybertalents Web Challenge Write-up | 0xNoob | [Read More](https://medium.com/p/b1eccbff7dac) |
-| Tue, 17 Mar 2026 00:41:08 GMT | First try and I got the EJPT (2026) | Us0lfr | [Read More](https://medium.com/p/23bde909b4c0) |
-| Tue, 17 Mar 2026 00:35:10 GMT | IT Chronicles One Year Later | Susan Brearley | [Read More](https://medium.com/p/d89e0ee3c19e) |
-| Tue, 17 Mar 2026 00:15:50 GMT | Opaque Tokens: The Possible Successor in the Token Era? | Hamit CİBO | [Read More](https://medium.com/p/b1c9610aeb75) |
-| Tue, 17 Mar 2026 00:14:15 GMT | The Dignity of Needing Help | Will Davison Jr. | [Read More](https://medium.com/p/877cd39e47bd) |
-| Mon, 16 Mar 2026 23:43:10 GMT | Crying in public: a proud family tradition | The Truth About Dad | [Read More](https://medium.com/p/07fdbd202dda) |
-| Mon, 16 Mar 2026 23:41:57 GMT | The Second to Stone | Lucious | [Read More](https://medium.com/p/ced6a239c05c) |
-| Mon, 16 Mar 2026 23:16:00 GMT | Meta Sold You “Privacy.” Workers in Kenya Got Your Bedroom. | Ajay Yadav | [Read More](https://medium.com/p/4dbef2cd53c1) |
-| Mon, 16 Mar 2026 23:04:19 GMT | Every Cyber Headline Is a Leadership Test — But Not for the Reason You Think | Harper Knox | [Read More](https://medium.com/p/6a13165b7ef4) |
-| Mon, 16 Mar 2026 22:49:53 GMT | haveibeenpwned-Service von Angreifern | Prtheus | [Read More](https://medium.com/p/1e90fa0c07c3) |
-| Mon, 16 Mar 2026 22:40:15 GMT | TryHackMe SOC Analyst Road Map Part-9 | safa kaya | [Read More](https://medium.com/p/8681a4b9442f) |
-| Mon, 16 Mar 2026 22:33:06 GMT | Least Privilege in Keycloak: Beyond the Default Client Configuration | Ohad Peled | [Read More](https://medium.com/p/bddd9ecedee3) |
-| Mon, 16 Mar 2026 22:27:45 GMT | US–Iran Tensions Increase Cyber Risk: What Western Businesses Should Know | Olga Yakubov | [Read More](https://medium.com/p/358e475b2929) |
-| Mon, 16 Mar 2026 22:20:10 GMT | The Theoretical Floor Just Rose: New Quantum Cryptography Paper Confirms Physics-Enforced Security… | Berend Watchus | [Read More](https://medium.com/p/0e2c99b0b43a) |
-| Mon, 16 Mar 2026 22:15:08 GMT | Sending the User Away: Building a Secure Authorization Request with PKCE | Juwan Hollingsworth | [Read More](https://medium.com/p/b7508e182d03) |
-| Mon, 16 Mar 2026 22:09:30 GMT | F#ck IT! | Melissa Kayce | [Read More](https://medium.com/p/66485bc70c4e) |
-| Mon, 16 Mar 2026 22:03:43 GMT | Securing Event-Sourced Financial Systems: From Encryption to Observability | Krzysztof Słomka | [Read More](https://medium.com/p/1994fd2466c5) |
-| Mon, 16 Mar 2026 22:03:39 GMT | Security Concepts Every Java Developer in Banking Should Master: Part 2 | Kalyani Dagde | [Read More](https://medium.com/p/b507c2ba8cd5) |
