@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 20:59:11 GMT | OWASP Top 10 Explained: What Every Developer Must Know Before They Ship | SHOAIB SHAHRIAR | [Read More](https://medium.com/p/a9a54b669a7d) |
+| Tue, 17 Mar 2026 20:59:00 GMT | The Stryker Wipeout: When Your Own IT Tools Become Weapons of Mass Destruction
+In mid-March 2026… | Shiyanthan Shiya | [Read More](https://medium.com/p/3782cc8f966c) |
+| Tue, 17 Mar 2026 20:58:34 GMT | Dev Diaries — TryHackMe CTF Challenge Walkthrough | Karim Hesham | [Read More](https://medium.com/p/be81a6e17a39) |
+| Tue, 17 Mar 2026 20:52:11 GMT | I Finally Understood Buffer Overflows by Exploiting One Myself | Balazs Banto | [Read More](https://medium.com/p/995ec8ecf5c7) |
+| Tue, 17 Mar 2026 20:44:32 GMT | The Three Most Critical Threats to U.S. National Security in 2026 | Ian McIntire, MPA | [Read More](https://medium.com/p/5049055bea31) |
+| Tue, 17 Mar 2026 20:43:39 GMT | Magnetic Door Sensor Alarm: A Simple Way to Protect Your Home | Criminology Expert | [Read More](https://medium.com/p/acb22963d110) |
+| Tue, 17 Mar 2026 20:41:00 GMT | Data Breaches Are Not Just a Big Company Problem and Small Businesses Are Paying the Price | Empire Cover | [Read More](https://medium.com/p/77f2f33652f6) |
+| Tue, 17 Mar 2026 20:39:50 GMT | 2 Zero-Days in sliver! What if I found your Sliver payload? | skove | [Read More](https://medium.com/p/7b0251849047) |
+| Tue, 17 Mar 2026 20:38:50 GMT | Anton’s Vibe Coding Experience: A Reflection on Risk Decisions | Anton Chuvakin | [Read More](https://medium.com/p/4e936530a650) |
+| Tue, 17 Mar 2026 20:31:01 GMT | ARP Explained: How Devices Discover MAC Addresses in a Network | Ndu | [Read More](https://medium.com/p/02e4db03351c) |
+| Tue, 17 Mar 2026 20:28:20 GMT | Trust Identity Architecture | Joshua Moses | [Read More](https://medium.com/p/d32e6417cd96) |
+| Tue, 17 Mar 2026 20:28:08 GMT | I Built a Network Security Tool in 2 Weeks. I’m Not a Hacker. | Abhramaitra | [Read More](https://medium.com/p/d6d1390397f0) |
+| Tue, 17 Mar 2026 20:24:04 GMT | What to Actually Look for When Hiring a Security Guard Company | Uniworth security | [Read More](https://medium.com/p/d41ca3183960) |
+| Tue, 17 Mar 2026 20:21:28 GMT | JWTs for People Who Hunt Bugs, Not Blog Posts | sin99xx | [Read More](https://medium.com/p/3c7020d2d7d8) |
+| Tue, 17 Mar 2026 20:16:51 GMT | The Global Grift: The Industrialisation of Technical Fraud — Surveying The Estate | Martyn Richard Jones | [Read More](https://medium.com/p/1d57a0e4be12) |
+| Tue, 17 Mar 2026 20:16:16 GMT | Active Directory - Offensive Security Proving Grounds Access Writeup | SilentExploit | [Read More](https://medium.com/p/f11ecf00fb16) |
+| Tue, 17 Mar 2026 20:13:04 GMT | Someone Just Pushed Your API Keys to GitHub. You Have Minutes Before the Bots Find Them. | Yusuf Seyitoğlu | [Read More](https://medium.com/p/42d68b4344e3) |
+| Tue, 17 Mar 2026 20:12:47 GMT | Burp Storage Issue? Here’s the Actual Fix | Likith Teki | [Read More](https://medium.com/p/a4749a0e19ca) |
 | Tue, 17 Mar 2026 19:59:28 GMT | Why Your Indian Business Needs More Than Just a Firewall: A Deep Dive into VAPT Services in India | Shazeb EyeQ | [Read More](https://medium.com/p/c828c4226a9a) |
 | Tue, 17 Mar 2026 19:58:49 GMT | Add Authentication to Next.js With One Line of Code | MonoCloud | [Read More](https://medium.com/p/5bb02046a201) |
 | Tue, 17 Mar 2026 19:56:48 GMT | Best Microsoft 365 Migration Tools (2026) | Mitexpert | [Read More](https://medium.com/p/96205212273d) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Mar 2026 15:22:52 GMT | WhatsApp Isn’t Secure the Way You Think It Is | SHAZZAD HOSSAIN SHAWON | [Read More](https://medium.com/p/d76c604a4482) |
 | Tue, 17 Mar 2026 15:02:33 GMT | How I Found a Critical Information Leak in an Authentication Flow (Bug Bounty Day 3) | Deepanshu Deep | [Read More](https://medium.com/p/0c1eb9e1c5c7) |
 | Tue, 17 Mar 2026 15:01:01 GMT | We Automated Alerts. We Should Have Automated Investigations. | Ehulse | [Read More](https://medium.com/p/de1237cb514d) |
-| Tue, 17 Mar 2026 15:00:38 GMT | Your Roadmap to DPDPA Compliance | Gauntlet Security | [Read More](https://medium.com/p/d9a3c85700e4) |
-| Tue, 17 Mar 2026 14:56:38 GMT | UAE Warns of Cybersecurity Risks from Unsecured Surveillance Cameras | Digital Defense | [Read More](https://medium.com/p/85e22fa422c3) |
-| Tue, 17 Mar 2026 14:56:17 GMT | Clash of Flans — Cómo encadené 4 vulnerabilidades para leer una flag | 1v0t | [Read More](https://medium.com/p/37567f0126b8) |
-| Tue, 17 Mar 2026 14:53:39 GMT | Who Guards the Guardians? The Training Data Problem Nobody Wants to Talk About | Mattijs Moens | [Read More](https://medium.com/p/967fb9e2275f) |
-| Tue, 17 Mar 2026 14:52:28 GMT | Simulating an AS-REP Roasting Attack | Jaachuspace | [Read More](https://medium.com/p/88ea1fbfead5) |
-| Tue, 17 Mar 2026 14:51:45 GMT | Operating Systems for Digital Forensics Investigators | Nexamos | [Read More](https://medium.com/p/8632123b45e8) |
-| Tue, 17 Mar 2026 14:46:54 GMT | Web Application Security: Hands-On Practice (Chapter 17 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/48941f022b5a) |
-| Tue, 17 Mar 2026 14:43:52 GMT | How to Detect a Hacker Inside Your Network | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/c3e8849cbb9d) |
-| Tue, 17 Mar 2026 14:42:58 GMT | AI: The New Frontier in Security -How Artificial Intelligence is Transforming Protection | Alois Gitau | [Read More](https://medium.com/p/655b4c2bbb9a) |
-| Tue, 17 Mar 2026 14:37:49 GMT | AI Empathy Baiting. Czy mamy do czynienia z nowym zjawiskiem manipulacji? | Julia Shestopalov | [Read More](https://medium.com/p/2d5c4730cdff) |
-| Tue, 17 Mar 2026 14:37:48 GMT | Wi-Fi Exploitation III-Break In, Own Everything | Ishant | [Read More](https://medium.com/p/e66b647d759c) |
-| Tue, 17 Mar 2026 14:37:05 GMT | CVE-2025–32101 Attack Walkthrough (Proving Ground) | cyber_public_school | [Read More](https://medium.com/p/1c6861575c82) |
-| Tue, 17 Mar 2026 14:36:19 GMT | Image analysis using Sherloq | Nexamos | [Read More](https://medium.com/p/f2c0b2558f75) |
-| Tue, 17 Mar 2026 14:31:00 GMT | Inside a Real SOC Investigation: How Analysts Catch Suspicious Logins Before It’s Too Late | Manubhav Sharma | [Read More](https://medium.com/p/8a6237ca2a07) |
-| Tue, 17 Mar 2026 14:31:00 GMT | MCP Security — Poisoning an AI Agent Through Tool Responses | OopsSec Store | [Read More](https://medium.com/p/0b5467652f1d) |
-| Tue, 17 Mar 2026 14:27:25 GMT | Tr0ll 2 Walkthrough | Kirito | [Read More](https://medium.com/p/28eeff7300cb) |
-| Tue, 17 Mar 2026 14:23:32 GMT | Every Click You Make, Someone Is Watching | Rashad Edwards | [Read More](https://medium.com/p/4f47d6044883) |
-| Tue, 17 Mar 2026 14:23:32 GMT | “If Your Data Is Accessible, Is It Still Yours? A Look at Meta’s Encryption Shift” | Nimit Shyara | [Read More](https://medium.com/p/7d9a032a262d) |
