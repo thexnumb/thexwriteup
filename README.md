@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 21:47:19 GMT | Intro to LAN: Yerel Ağlara Giriş ve Temel Kavramlar | Onur Öztürk | [Read More](https://medium.com/p/34b1c13735ff) |
+| Tue, 17 Mar 2026 21:40:33 GMT | Unlearning Loneliness | Thoughts In Words | [Read More](https://medium.com/p/5bd393f78fa0) |
+| Tue, 17 Mar 2026 21:35:15 GMT | Your AI Governance Program Has a Shadow AI Problem. Here’s the Framework That Fixes It. | QayyumAwan | [Read More](https://medium.com/p/de1d37f46e01) |
+| Tue, 17 Mar 2026 21:25:47 GMT | 300$ Email Html Injection! | Ali Mojaver | [Read More](https://medium.com/p/48dfc53e6d59) |
+| Tue, 17 Mar 2026 21:23:46 GMT | Reversing a Vulnerable Driver: Discovering a Process Termination Primitive | S12 - 0x12Dark Development | [Read More](https://medium.com/p/34aea14b9563) |
+| Tue, 17 Mar 2026 21:22:15 GMT | The Art of Disappearing: How I Spent Thirty-One Years Teaching People Not to See Me. | Michael Williams | [Read More](https://medium.com/p/91d5844dc1cc) |
+| Tue, 17 Mar 2026 21:11:39 GMT | 5 Contoh Keamanan Informasi Yang Sering Terjadi Di Sekitar Kita | Dewa Ngakan Nyoman Martina Putra | [Read More](https://medium.com/p/b2f5690fc0a8) |
+| Tue, 17 Mar 2026 21:01:13 GMT | From Strategic Depth to Strategic Threat: Pakistan–Afghanistan Relations in the Era of Escalating… | Umer Hussnain Ahmad | [Read More](https://medium.com/p/0c48ae56bd26) |
+| Tue, 17 Mar 2026 21:01:01 GMT | Unfiltered Restart — Day 28+29: Windows Tools | Maximillian Rueda | [Read More](https://medium.com/p/9edf176e0940) |
 | Tue, 17 Mar 2026 20:59:11 GMT | OWASP Top 10 Explained: What Every Developer Must Know Before They Ship | SHOAIB SHAHRIAR | [Read More](https://medium.com/p/a9a54b669a7d) |
 | Tue, 17 Mar 2026 20:59:00 GMT | The Stryker Wipeout: When Your Own IT Tools Become Weapons of Mass Destruction
 In mid-March 2026… | Shiyanthan Shiya | [Read More](https://medium.com/p/3782cc8f966c) |
@@ -104,12 +113,3 @@ In mid-March 2026… | Shiyanthan Shiya | [Read More](https://medium.com/p/3782c
 | Tue, 17 Mar 2026 15:47:27 GMT | How DevOps Is Revolutionizing IT Careers | 2iResourcing | [Read More](https://medium.com/p/8f90b8e20854) |
 | Tue, 17 Mar 2026 15:39:37 GMT | The CISO’s Survival Guide: How to Stay Calm When the Servers are Burning | Ruben Clarke | [Read More](https://medium.com/p/6b2f4cffe8d9) |
 | Tue, 17 Mar 2026 15:36:37 GMT | What Linux Logs Reveal About Real-World Attacks | Uday Singh Chauhan | [Read More](https://medium.com/p/82eb16dc9a80) |
-| Tue, 17 Mar 2026 15:36:11 GMT | Password Attacks — Skill Assessment (HTB Academy) | Moustafa Abdelmaksoud | [Read More](https://medium.com/p/39b1f52e9010) |
-| Tue, 17 Mar 2026 15:35:43 GMT | The ISO 27001 Secret: How to Build a Security Culture That Actually Sticks! | Ruben Clarke | [Read More](https://medium.com/p/77984a4cc6a7) |
-| Tue, 17 Mar 2026 15:32:13 GMT | Passing the Audit, Failing the Attack Path Test | Gary S Mullen | [Read More](https://medium.com/p/a98442e1aba1) |
-| Tue, 17 Mar 2026 15:31:20 GMT | VulHunt: Open-Source Vulnerability Hunting Framework | TechLatest.Net | [Read More](https://medium.com/p/bde9cdb66dab) |
-| Tue, 17 Mar 2026 15:31:00 GMT | SOC 2 Won’t Save You If Your IAM is Broken ️ | Abhishek Pahuja | [Read More](https://medium.com/p/0b5f0553cd41) |
-| Tue, 17 Mar 2026 15:24:57 GMT | If 900 Employee Identities Can Be Compromised, How Secure Is Your Internal Portal? | IT_Engineer | [Read More](https://medium.com/p/07130e320d37) |
-| Tue, 17 Mar 2026 15:22:52 GMT | WhatsApp Isn’t Secure the Way You Think It Is | SHAZZAD HOSSAIN SHAWON | [Read More](https://medium.com/p/d76c604a4482) |
-| Tue, 17 Mar 2026 15:02:33 GMT | How I Found a Critical Information Leak in an Authentication Flow (Bug Bounty Day 3) | Deepanshu Deep | [Read More](https://medium.com/p/0c1eb9e1c5c7) |
-| Tue, 17 Mar 2026 15:01:01 GMT | We Automated Alerts. We Should Have Automated Investigations. | Ehulse | [Read More](https://medium.com/p/de1237cb514d) |
