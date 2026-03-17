@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 19:59:28 GMT | Why Your Indian Business Needs More Than Just a Firewall: A Deep Dive into VAPT Services in India | Shazeb EyeQ | [Read More](https://medium.com/p/c828c4226a9a) |
+| Tue, 17 Mar 2026 19:58:49 GMT | Add Authentication to Next.js With One Line of Code | MonoCloud | [Read More](https://medium.com/p/5bb02046a201) |
+| Tue, 17 Mar 2026 19:56:48 GMT | Best Microsoft 365 Migration Tools (2026) | Mitexpert | [Read More](https://medium.com/p/96205212273d) |
+| Tue, 17 Mar 2026 19:53:38 GMT | Secure Defaults Prevent Downstream Risk | Cipher Citadel (Ci2) | [Read More](https://medium.com/p/e972311b94da) |
+| Tue, 17 Mar 2026 19:46:44 GMT | Secuview 6MP Fixed Lens Outdoor IP Camera Auto Tracking & ONVIF. | secuview | [Read More](https://medium.com/p/2314512a8260) |
+| Tue, 17 Mar 2026 19:46:00 GMT | Secuview 5MP Outdoor AHD Camera with lP66 Waterproof Housing. | secuview | [Read More](https://medium.com/p/d9719045412a) |
+| Tue, 17 Mar 2026 19:44:51 GMT | ZERO TRUST: Beware of the Linkedin Catfish | Theresa McFarlane | [Read More](https://medium.com/p/30c859fb6978) |
+| Tue, 17 Mar 2026 19:43:38 GMT | How I Passed the eJPTv2 with 95% — A Complete Walkthrough of My Experience | Sreeraj S Chandran | [Read More](https://medium.com/p/356c63e71c05) |
+| Tue, 17 Mar 2026 19:43:27 GMT | Behavior as the Primary Substrate: A Framework for Pre-TTP Detection and Absence-Based Signal… | Verity | [Read More](https://medium.com/p/0ea2356c9181) |
+| Tue, 17 Mar 2026 19:43:18 GMT | Basic Cybersecurity Hygiene Is Still the #1 Problem in 2026 | Srinija Puvvula | [Read More](https://medium.com/p/32489547f9de) |
+| Tue, 17 Mar 2026 19:42:43 GMT | Pengantar Keamanan Informasi dalam Sistem Digital: Melindungi Aset Terpenting di Era Modern | Dewa Ngakan Nyoman Martina Putra | [Read More](https://medium.com/p/15ac34c2f06f) |
+| Tue, 17 Mar 2026 19:37:32 GMT | How I Built and Validated a Splunk Log Pipeline in a SOC Lab, And the Silent Failure That Nearly… | Famous Areguamen | [Read More](https://medium.com/p/9f8df3447403) |
+| Tue, 17 Mar 2026 19:28:28 GMT | When Good Binaries Go Bad: Detecting rundll32 Abuse Like a Threat Hunter | Ori Dror | [Read More](https://medium.com/p/893007b581b6) |
+| Tue, 17 Mar 2026 19:26:18 GMT | Best Home Security Systems | AlexBryn | [Read More](https://medium.com/p/415850a2b7e4) |
+| Tue, 17 Mar 2026 19:19:24 GMT | The AI Workforce | Alexious Fiero | [Read More](https://medium.com/p/f98301e1961c) |
+| Tue, 17 Mar 2026 19:15:07 GMT | Why We Brought Ethereum’s Most Important Signing Standard to Casper | Michael Steuer | [Read More](https://medium.com/p/235aab6e24b2) |
 | Tue, 17 Mar 2026 19:14:24 GMT | Integrating Security Concepts Synthesis: The Comprehension of a Strategy. | Farid Mehtizada | [Read More](https://medium.com/p/886423a835a0) |
 | Tue, 17 Mar 2026 19:11:27 GMT | Factory Acceptance Testing (FAT) for Modern Control Systems | Asad Naeem | [Read More](https://medium.com/p/b13231ba6e42) |
 | Tue, 17 Mar 2026 19:10:59 GMT | How to Secure Vibe Coded Apps: A Practical Guide to AI-Era DevSecOps | Spencer Roffey | [Read More](https://medium.com/p/a30977804f77) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Mar 2026 14:27:25 GMT | Tr0ll 2 Walkthrough | Kirito | [Read More](https://medium.com/p/28eeff7300cb) |
 | Tue, 17 Mar 2026 14:23:32 GMT | Every Click You Make, Someone Is Watching | Rashad Edwards | [Read More](https://medium.com/p/4f47d6044883) |
 | Tue, 17 Mar 2026 14:23:32 GMT | “If Your Data Is Accessible, Is It Still Yours? A Look at Meta’s Encryption Shift” | Nimit Shyara | [Read More](https://medium.com/p/7d9a032a262d) |
-| Tue, 17 Mar 2026 14:18:17 GMT | Real Cloud Breach Case Studies Explained | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/06a3e54e421a) |
-| Tue, 17 Mar 2026 14:17:56 GMT | Capstone Blue Team Cyber Security: Analisis Log SIEM & Forensik Digital | Arfan (p4n) | [Read More](https://medium.com/p/5faa632700f2) |
-| Tue, 17 Mar 2026 14:07:29 GMT | A Better Way to Organize All Policies/Accounts So Your Family Doesn’t Have to Search | InheritSafe | [Read More](https://medium.com/p/4409444df702) |
-| Tue, 17 Mar 2026 14:07:20 GMT | The Exhaustion of the Axis | Ali Fakhri | [Read More](https://medium.com/p/74152fc563f0) |
-| Tue, 17 Mar 2026 14:03:47 GMT | Most EKS Clusters Are Secure… Until They Aren’t | Indrajit Dan | [Read More](https://medium.com/p/9da951710815) |
-| Tue, 17 Mar 2026 14:03:20 GMT | What Nobody Tells You About Passwordless OTP with AWS Cognito | Basel Issmail | [Read More](https://medium.com/p/82c6b26e0b47) |
-| Tue, 17 Mar 2026 14:00:28 GMT | Why Some Couples Grow Stronger Through Open Communication — Lessons From SwingersNest Members | Amelia Taylor | [Read More](https://medium.com/p/6425f10be1fe) |
-| Tue, 17 Mar 2026 13:59:38 GMT | The 3-Second Rule: Why 53% of Visitors Leave and How to Stop It | Lisa Murphy | [Read More](https://medium.com/p/51d20128360a) |
-| Tue, 17 Mar 2026 13:53:06 GMT | Choosing a Privacy-First Inheritance Vault That Stays Invisible While You’re Alive | Olivia Martillo | [Read More](https://medium.com/p/6ee2384e4a1c) |
-| Tue, 17 Mar 2026 13:50:53 GMT | How Overconfidence Leads to Security Failures in Companies | Helixsecadvisory | [Read More](https://medium.com/p/6ac033db5d10) |
-| Tue, 17 Mar 2026 13:47:36 GMT | API Hooking | Ali Chisom | [Read More](https://medium.com/p/74251f17a24f) |
-| Tue, 17 Mar 2026 13:44:43 GMT | The Role of Security in Building a Resilient Organization | Helixsecadvisory | [Read More](https://medium.com/p/92b8a4bb7c26) |
-| Tue, 17 Mar 2026 13:41:32 GMT | Why Temporary Email Services Like Maildax Are Gaining Popularity in 2026 | Maildax | [Read More](https://medium.com/p/8512b9a02c20) |
-| Tue, 17 Mar 2026 13:41:00 GMT | Garage Door Troubleshooting Guide Worcester MA - UAD | Up & Down Garage Door Services | [Read More](https://medium.com/p/57d10647c202) |
-| Tue, 17 Mar 2026 13:40:44 GMT | Writeup TryHackMe: Attacktive Directory — Memahami Alur Eksploitasi Active Directory | Rikyhermawan | [Read More](https://medium.com/p/16dc35afcd02) |
-| Tue, 17 Mar 2026 13:37:18 GMT | The Missing Layer in AI Systems: Verifiable Execution | Arrotu | [Read More](https://medium.com/p/9f2aeb00e0f6) |
