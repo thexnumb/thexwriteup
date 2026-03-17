@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 11:52:44 GMT | Best Rotating Residential Proxy Providers (2026 Guide) | Annabelle | [Read More](https://medium.com/p/19adf309ab41) |
+| Tue, 17 Mar 2026 11:52:31 GMT | E-Signature Consent Management: Privacy Compliance in 2026 | Rohitgarg | [Read More](https://medium.com/p/34a98f4a0745) |
+| Tue, 17 Mar 2026 11:52:27 GMT | Starting Out in Cybersecurity and AI as a Business Student — Part 1 | Mina C. | [Read More](https://medium.com/p/0169eb87f1ad) |
+| Tue, 17 Mar 2026 11:42:46 GMT | The AD Breach Chronicles - Part 1: Active Directory Initial Access and Foothold Strategies | Abdulrahman Hassan | [Read More](https://medium.com/p/f337de532f53) |
+| Tue, 17 Mar 2026 11:41:55 GMT | Built-In Windows Security That Stops Exploits Fast | Geoffrey Wenger | [Read More](https://medium.com/p/3bb69f18ed26) |
+| Tue, 17 Mar 2026 11:34:09 GMT | Before You Install OpenClaw AI — Understand the Risks to Your Business | Alex Hughes | [Read More](https://medium.com/p/7fca1145313f) |
+| Tue, 17 Mar 2026 11:34:04 GMT | Quantum AI Part 3: Your Face is the New Password (And That’s Scary! ) | Digital Jasoosi Kavach ️ | [Read More](https://medium.com/p/c138778a782a) |
+| Tue, 17 Mar 2026 11:34:02 GMT | Ethical Hacking & Reverse Engineering — Week 1 | Ayoade Akintayo (PhD) | [Read More](https://medium.com/p/7d36eec9c4de) |
+| Tue, 17 Mar 2026 11:25:33 GMT | How Blockchain, Web3, and AI Will Transform Business in the Future | Maximizesonu | [Read More](https://medium.com/p/80358ffa4524) |
+| Tue, 17 Mar 2026 11:23:09 GMT | Alice left the Wonderland | Costin Raiu | [Read More](https://medium.com/p/41f3988aedb8) |
+| Tue, 17 Mar 2026 11:21:00 GMT | 4 Billion Devices Run His Code. He Said He Was Drowning. A Spy Was Already Inside. | Can Artuc | [Read More](https://medium.com/p/a21f022502bf) |
 | Tue, 17 Mar 2026 11:18:28 GMT | Smarter Automation Starts with the Right Talent | n8ndevelopers | [Read More](https://medium.com/p/64490f9ddf0e) |
+| Tue, 17 Mar 2026 11:17:58 GMT | ️ AI Guardrails: Zero to Hero | Shubham Kakkar | [Read More](https://medium.com/p/e16329b32ccd) |
 | Tue, 17 Mar 2026 11:09:26 GMT | Enterprise Security in 2026 Isn’t Optional — It’s Survival. | Prishusoft | [Read More](https://medium.com/p/e9012ebf1dc2) |
 | Tue, 17 Mar 2026 11:09:08 GMT | Trusted IT Solution Company in Gurgaon for Smart Businesses - Reves Enterprise | Revesenterprise | [Read More](https://medium.com/p/7cd5ab733fc6) |
 | Tue, 17 Mar 2026 11:01:01 GMT | Microsoft 365 Copilot Agents vs. Copilot Studio Agents | Meron | [Read More](https://medium.com/p/123fb5a1ef10) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Mar 2026 06:26:01 GMT | Licensed Security Guards: Why Your Business Needs Certified Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/6c27b2eec367) |
 | Tue, 17 Mar 2026 06:16:00 GMT | How Developers Are Winning the Battle Against Bugs | Ethan Walker | [Read More](https://medium.com/p/8036b811e5e6) |
 | Tue, 17 Mar 2026 06:11:09 GMT | Understanding Black Hat Hacking: The Dark Side of Cybersecurity | Cynox Security LLP. | [Read More](https://medium.com/p/359a792791a1) |
-| Tue, 17 Mar 2026 06:08:45 GMT | My Yii Site Got Hacked: Lessons Learned and How to Protect Your Web App | Pavel Ps | [Read More](https://medium.com/p/c874bdf0a2de) |
-| Tue, 17 Mar 2026 06:06:33 GMT | The Lethal Trifecta: Exposure, Vulnerability, and Privilege | Ashwini Puranik | [Read More](https://medium.com/p/9795bd23be40) |
-| Tue, 17 Mar 2026 05:51:23 GMT | OTP Bypass Part 2: Advanced Logic Flaws and Race Conditions | Arrhenius Paelongan | [Read More](https://medium.com/p/d30ba3b33f07) |
-| Tue, 17 Mar 2026 05:30:25 GMT | A Look at ZeroThreat’s Approach to Agentic AI Pentesting | Kate Bennett | [Read More](https://medium.com/p/a34ba6a05f1a) |
-| Tue, 17 Mar 2026 05:29:52 GMT | IDOR: The Bug That Still Breaks Modern Apps | red_shadow_11 | [Read More](https://medium.com/p/39be2cf42e14) |
-| Tue, 17 Mar 2026 05:24:59 GMT | Community Article of the Week | Imran Umar | [Read More](https://medium.com/p/f1477b040d21) |
-| Tue, 17 Mar 2026 05:22:36 GMT | How We Built a Stealth Webcam Capture App — An Ethical Hacking Experiment | M Hassan | [Read More](https://medium.com/p/8850c4aede93) |
-| Tue, 17 Mar 2026 05:20:10 GMT | Stateless Security: Trust Without Memory | sengom | [Read More](https://medium.com/p/a928031bd99e) |
-| Tue, 17 Mar 2026 05:19:02 GMT | Community Article of the Week | Imran Umar | [Read More](https://medium.com/p/75f5772b8997) |
-| Tue, 17 Mar 2026 05:17:39 GMT | Security That Moves With the Data | sengom | [Read More](https://medium.com/p/df5321ca497c) |
-| Tue, 17 Mar 2026 05:07:55 GMT | Breaking the Model: A Technical Deep Dive into LLM Red Teaming | Sujal Shihani | [Read More](https://medium.com/p/9f5602e20c33) |
-| Tue, 17 Mar 2026 05:01:39 GMT | TryHackMe — Authentication Bypass (Walkthrough) | Hudson Lois Marcus | [Read More](https://medium.com/p/fe0a5b413e07) |
