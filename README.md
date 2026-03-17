@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 23:43:28 GMT | Your AI Assistant Shouldn’t Be Trained on Your Secrets — Here’s the Fix | Azazul | [Read More](https://medium.com/p/0660d8d28e26) |
+| Tue, 17 Mar 2026 23:37:45 GMT | A Robot Got “Arrested”… While Others Learned Kung Fu — Are We Laughing at the Wrong Thing? | Snooptsz | [Read More](https://medium.com/p/bf22286b137b) |
+| Tue, 17 Mar 2026 23:32:35 GMT | Before you plug them in: How to assess a vendor’s security posture | Adeoluwa Obadofin | [Read More](https://medium.com/p/5a4e53945543) |
+| Tue, 17 Mar 2026 23:19:27 GMT | Extract writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/573dd3e2f15e) |
+| Tue, 17 Mar 2026 23:13:05 GMT | From Misconfiguration to SYSTEM: Windows Privilege Escalation in a Real Enterprise Scenario (HTB… | Moustafa Abdelmaksoud | [Read More](https://medium.com/p/b955e96a1d27) |
+| Tue, 17 Mar 2026 23:12:17 GMT | Compliance Is Not Assurance: The Gap No One Owns | Alice Lane | [Read More](https://medium.com/p/62bdc5f9c76d) |
+| Tue, 17 Mar 2026 23:06:00 GMT | Beyond OpenClaw: Protecting Configuration Secrets in Enterprise AI Agent Gateway | Peter Bi | [Read More](https://medium.com/p/ba9d541a9802) |
 | Tue, 17 Mar 2026 22:54:48 GMT | Configuring Burp Proxy, Installing CA Certificates & Intercepting Your First HTTP Request | Yamini Yadav_369 | [Read More](https://medium.com/p/fda2e112c067) |
+| Tue, 17 Mar 2026 22:54:41 GMT | You Need This FREE CyberSecurity Tool | Shahzaib | [Read More](https://medium.com/p/224db1e049a9) |
+| Tue, 17 Mar 2026 22:52:23 GMT | The Dirty Truth About Hiring Armed Security Guards in Los Angeles Nobody Tells You | Uniworth security | [Read More](https://medium.com/p/e881b83aaaf6) |
 | Tue, 17 Mar 2026 22:46:50 GMT | TryHackMe SOC Analyst Road Map Part-12 | safa kaya | [Read More](https://medium.com/p/e2c2f6cf4ddb) |
 | Tue, 17 Mar 2026 22:42:07 GMT | Cyborg — TryHackMe - Complete Walkthrough & Security Analysis | Roshan Rajbanshi | [Read More](https://medium.com/p/225397864cbb) |
 | Tue, 17 Mar 2026 22:36:21 GMT | Digital Signatures | Aj | [Read More](https://medium.com/p/3bf5431acc0a) |
@@ -104,12 +113,3 @@ In mid-March 2026… | Shiyanthan Shiya | [Read More](https://medium.com/p/3782c
 | Tue, 17 Mar 2026 17:24:35 GMT | Vanta: Security Compliance, Made Simple | D3ad_M3m0r13s | [Read More](https://medium.com/p/c061bdf03a26) |
 | Tue, 17 Mar 2026 17:08:51 GMT | Ever wondered how “Unsubscribe” works in emails — without you ever logging in? | Asitwaghmare | [Read More](https://medium.com/p/86a867f69c6b) |
 | Tue, 17 Mar 2026 17:04:18 GMT | 5 Warning Signs Your Company’s Network Is About To Fail | Gaogroupdmi | [Read More](https://medium.com/p/8d8506fc5bf5) |
-| Tue, 17 Mar 2026 16:44:26 GMT | API Security - The Attack Surface Your Team Built But Never Fully Mapped | Rufus Kehinde | [Read More](https://medium.com/p/88073e7f1a93) |
-| Tue, 17 Mar 2026 16:42:07 GMT | Cap — HackTheBox Writeup | Dhia Eddine Marzouki | [Read More](https://medium.com/p/9a4a1d6ef614) |
-| Tue, 17 Mar 2026 16:41:01 GMT | Building a Privacy Mixer in Solidity: Why My Merkle Proofs Were Failing | rdin777 | [Read More](https://medium.com/p/5d0065636308) |
-| Tue, 17 Mar 2026 16:28:39 GMT | Tryhackme : attacktive directory | Boxieee | [Read More](https://medium.com/p/67718d0bbd7d) |
-| Tue, 17 Mar 2026 16:23:58 GMT | Why Dark Web Link Verification Matters for Safer Browsing | Tor BBB | [Read More](https://medium.com/p/3c84134aa936) |
-| Tue, 17 Mar 2026 16:22:10 GMT | Dev Diaries — TryHackMe CTF Writeup | Jatin Gahlot | [Read More](https://medium.com/p/e4425b5dd499) |
-| Tue, 17 Mar 2026 16:21:15 GMT | AI / LLM Pentesting Checklist | Spiritedonion | [Read More](https://medium.com/p/f80e79402daf) |
-| Tue, 17 Mar 2026 16:20:25 GMT | Tryhackme write up : adbasic enumeration | Boxieee | [Read More](https://medium.com/p/5ea50239a54e) |
-| Tue, 17 Mar 2026 16:19:39 GMT | My SC-900 Learning Journey — Understanding Cloud Security Fundamentals (Day 2) | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/24731e734d0d) |
