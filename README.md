@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 05:30:25 GMT | A Look at ZeroThreat’s Approach to Agentic AI Pentesting | Kate Bennett | [Read More](https://medium.com/p/a34ba6a05f1a) |
+| Tue, 17 Mar 2026 05:29:52 GMT | IDOR: The Bug That Still Breaks Modern Apps | red_shadow_11 | [Read More](https://medium.com/p/39be2cf42e14) |
+| Tue, 17 Mar 2026 05:24:59 GMT | Community Article of the Week | Imran Umar | [Read More](https://medium.com/p/f1477b040d21) |
+| Tue, 17 Mar 2026 05:22:36 GMT | How We Built a Stealth Webcam Capture App — An Ethical Hacking Experiment | M Hassan | [Read More](https://medium.com/p/8850c4aede93) |
+| Tue, 17 Mar 2026 05:20:10 GMT | Stateless Security: Trust Without Memory | sengom | [Read More](https://medium.com/p/a928031bd99e) |
+| Tue, 17 Mar 2026 05:19:02 GMT | Community Article of the Week | Imran Umar | [Read More](https://medium.com/p/75f5772b8997) |
+| Tue, 17 Mar 2026 05:17:39 GMT | Security That Moves With the Data | sengom | [Read More](https://medium.com/p/df5321ca497c) |
+| Tue, 17 Mar 2026 05:07:55 GMT | Breaking the Model: A Technical Deep Dive into LLM Red Teaming | Sujal Shihani | [Read More](https://medium.com/p/9f5602e20c33) |
+| Tue, 17 Mar 2026 05:01:39 GMT | TryHackMe — Authentication Bypass (Walkthrough) | Hudson Lois Marcus | [Read More](https://medium.com/p/fe0a5b413e07) |
+| Tue, 17 Mar 2026 05:01:20 GMT | Stealth Webcam Access without User Permission | Muhammad Ahsan Niaz | [Read More](https://medium.com/p/c3f82131677b) |
+| Tue, 17 Mar 2026 05:00:32 GMT | Your Technical Skills Are Expiring — Part 2: A Practical Cybersecurity Routine for Beginners! | Nothing Cyber [NC] | [Read More](https://medium.com/p/b821be7dc5e4) |
+| Tue, 17 Mar 2026 04:58:57 GMT | Why ServiceNow SecOps Requires Ongoing Performance Optimization | Gavin Ellis | [Read More](https://medium.com/p/a3e3fa446ec6) |
+| Tue, 17 Mar 2026 04:54:58 GMT | Project Akhir: Capstone Project | Muhammadnaufalriansyach | [Read More](https://medium.com/p/515225abbe05) |
+| Tue, 17 Mar 2026 04:52:06 GMT | Flu Proving Grounds linux lab | Cyb0rgBytes | [Read More](https://medium.com/p/9e2f2502bfcf) |
+| Tue, 17 Mar 2026 04:50:53 GMT | AI Is Changing Cybersecurity Forever. Are Organizations Ready? | Faraz Weerabangsa | [Read More](https://medium.com/p/d083e5c7eb7f) |
+| Tue, 17 Mar 2026 04:50:08 GMT | Understanding AWS load balancers-How traffic is distributed across servers | unica 02 | [Read More](https://medium.com/p/483b1661a9c9) |
 | Tue, 17 Mar 2026 04:19:41 GMT | I Replaced Zapier With 3 MCP Servers — Then Discovered 30 Security Vulnerabilities in 60 Days | leokim | [Read More](https://medium.com/p/66e0b6e106c0) |
 | Tue, 17 Mar 2026 04:19:16 GMT | Global Cyber Alert: Russian Hackers Using Fake Chatbots on Signal and WhatsApp | Seikh Suraj | [Read More](https://medium.com/p/ad2fe6acfe87) |
 | Tue, 17 Mar 2026 04:13:32 GMT | Brutal Truth #6: Privilege Is the Real Target | Dr. Shashi Karhail | [Read More](https://medium.com/p/c7612272f61a) |
@@ -98,19 +114,3 @@ Condolences, at this… | Ibrahim Alkaitawi | [Read More](https://medium.com/p/5
 | Mon, 16 Mar 2026 19:20:01 GMT | HTB_Academy: Linux Privilege Escalation | Babatunde Ojo | [Read More](https://medium.com/p/4865f62aa19b) |
 | Mon, 16 Mar 2026 19:17:39 GMT | CIA Triad nedir ve ne için kullanılır? | Cagatayonbasioglu | [Read More](https://medium.com/p/53fbcb25d6e8) |
 | Mon, 16 Mar 2026 19:13:28 GMT | Why the Autonomous SOC is the Future of Security Operations | Rajat Dangi ️ | [Read More](https://medium.com/p/23d5eee4f09b) |
-| Mon, 16 Mar 2026 19:08:15 GMT | CyberDefenders — RedLine Lab Writeup | JBXSec | [Read More](https://medium.com/p/b40c087b0b5e) |
-| Mon, 16 Mar 2026 19:00:57 GMT | The Architecture of Digital Dissent: A Comprehensive Forensic and Ecosystem Analysis of the… | ADanielHill | [Read More](https://medium.com/p/df86a84982d8) |
-| Mon, 16 Mar 2026 18:56:25 GMT | Evaluating Non-Human Identities (NHI): Native CSP options vs. SPIFFE/SPIRE | Jay Chetty | [Read More](https://medium.com/p/ccb0087947f3) |
-| Mon, 16 Mar 2026 18:49:29 GMT | Tetris Money Architecture: RUBT Pricing Mechanisms and Strict Compliance Principles | Tetris Money | [Read More](https://medium.com/p/2bee513efcaf) |
-| Mon, 16 Mar 2026 18:48:30 GMT | # IRAN CONFLICT 2026: The 3 SHOCKING Ways It’s Already Destroying Your Wallet (And What Mainstream… | Clwdtt | [Read More](https://medium.com/p/fbccbef8cf6d) |
-| Mon, 16 Mar 2026 18:43:13 GMT | The Door You Are Afraid to Open | Robert Rankin | [Read More](https://medium.com/p/b2a6e9c68783) |
-| Mon, 16 Mar 2026 18:41:00 GMT | Network Address Translation (NAT): How Private Networks Communicate with the Internet | Ndu | [Read More](https://medium.com/p/61094846cfef) |
-| Mon, 16 Mar 2026 18:36:08 GMT | Pyramid of Pain Nedir ? | Arda Kurada | [Read More](https://medium.com/p/429a202e895f) |
-| Mon, 16 Mar 2026 18:33:30 GMT | SPLUNK: STEP BY STEP APPROACH FROM FUNDAMENTALS TO SET-UP AND PRACTICALS | Ephraim Udoye | [Read More](https://medium.com/p/4fb3a356a8db) |
-| Mon, 16 Mar 2026 18:33:12 GMT | HTB Nibbles: File Upload to Root | Onurcan Genç | [Read More](https://medium.com/p/2c3dd62c91df) |
-| Mon, 16 Mar 2026 18:26:04 GMT | 7 DevSecOps Architecture Mistakes That Quietly Destroy Production Security | Rahul Goyal | [Read More](https://medium.com/p/ba0cc4794e66) |
-| Mon, 16 Mar 2026 18:25:43 GMT | Try Hack Me- Baron Samedit Walkthrough | PulseEinher | [Read More](https://medium.com/p/5c6a7dfd9da1) |
-| Mon, 16 Mar 2026 18:21:08 GMT | BlackPearl Walkthrough — Virtual Host Discovery & Navigate CMS RCE | Mohamed Yasser | [Read More](https://medium.com/p/6c06c31d77cc) |
-| Mon, 16 Mar 2026 18:18:36 GMT | Debugging False Positives in Static Analysis (SonarQube, AES/DES Example, and AI Fixes) | Mohit | [Read More](https://medium.com/p/91da7149835e) |
-| Mon, 16 Mar 2026 18:13:44 GMT | A Business Logic Bug That Let Me Remove Platform Fees During Checkout | Ashutosh Anand | [Read More](https://medium.com/p/ac96b7eb7959) |
-| Mon, 16 Mar 2026 18:12:49 GMT | One developer beat every major AI lab to consumer agents. Here’s how! | Grassroots Solutions Pvt Ltd | [Read More](https://medium.com/p/43ea074eec5c) |
