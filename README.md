@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 22:54:48 GMT | Configuring Burp Proxy, Installing CA Certificates & Intercepting Your First HTTP Request | Yamini Yadav_369 | [Read More](https://medium.com/p/fda2e112c067) |
+| Tue, 17 Mar 2026 22:46:50 GMT | TryHackMe SOC Analyst Road Map Part-12 | safa kaya | [Read More](https://medium.com/p/e2c2f6cf4ddb) |
+| Tue, 17 Mar 2026 22:42:07 GMT | Cyborg — TryHackMe - Complete Walkthrough & Security Analysis | Roshan Rajbanshi | [Read More](https://medium.com/p/225397864cbb) |
+| Tue, 17 Mar 2026 22:36:21 GMT | Digital Signatures | Aj | [Read More](https://medium.com/p/3bf5431acc0a) |
+| Tue, 17 Mar 2026 22:30:19 GMT | Short Story: THE MF CREW | Samuel Odekunle | [Read More](https://medium.com/p/d7c35a8abf1f) |
+| Tue, 17 Mar 2026 22:13:00 GMT | What Is It Like to Be a Data Point? | Michael Davis | [Read More](https://medium.com/p/5c93c73af4ce) |
+| Tue, 17 Mar 2026 22:06:13 GMT | California Dealerships Are Losing Millions: Here’s What Security Cameras Can’t Stop | Matthew | [Read More](https://medium.com/p/3402e2a725ac) |
+| Tue, 17 Mar 2026 22:06:02 GMT | Mengenal Cara Kerja Hacker: Dari Reconnaissance hingga Exploitation | Aris Wahyudi | [Read More](https://medium.com/p/b2bbba0952ff) |
+| Tue, 17 Mar 2026 21:59:56 GMT | Hacker Group Linked to $7M Wallet Supply Attack | Twin Peaks Digital | [Read More](https://medium.com/p/c071ee57164e) |
+| Tue, 17 Mar 2026 21:53:22 GMT | Preventing Cascading Failures in AI Agents | Will Velida | [Read More](https://medium.com/p/179e29872646) |
+| Tue, 17 Mar 2026 21:53:12 GMT | PYRAX Mining: Why Separation of Power Matters | PYRAX Network | [Read More](https://medium.com/p/6fec750ada16) |
+| Tue, 17 Mar 2026 21:48:27 GMT | What is a Firewall? | mahammad | [Read More](https://medium.com/p/6237a7e349dc) |
 | Tue, 17 Mar 2026 21:47:19 GMT | Intro to LAN: Yerel Ağlara Giriş ve Temel Kavramlar | Onur Öztürk | [Read More](https://medium.com/p/34b1c13735ff) |
 | Tue, 17 Mar 2026 21:40:33 GMT | Unlearning Loneliness | Thoughts In Words | [Read More](https://medium.com/p/5bd393f78fa0) |
 | Tue, 17 Mar 2026 21:35:15 GMT | Your AI Governance Program Has a Shadow AI Problem. Here’s the Framework That Fixes It. | QayyumAwan | [Read More](https://medium.com/p/de1d37f46e01) |
@@ -101,15 +113,3 @@ In mid-March 2026… | Shiyanthan Shiya | [Read More](https://medium.com/p/3782c
 | Tue, 17 Mar 2026 16:21:15 GMT | AI / LLM Pentesting Checklist | Spiritedonion | [Read More](https://medium.com/p/f80e79402daf) |
 | Tue, 17 Mar 2026 16:20:25 GMT | Tryhackme write up : adbasic enumeration | Boxieee | [Read More](https://medium.com/p/5ea50239a54e) |
 | Tue, 17 Mar 2026 16:19:39 GMT | My SC-900 Learning Journey — Understanding Cloud Security Fundamentals (Day 2) | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/24731e734d0d) |
-| Tue, 17 Mar 2026 16:16:00 GMT | I Let an AI Agent Handle My Spam Texts for a Week. The Scammers Are Now Asking for Therapy. | Ajay Kumar | [Read More](https://medium.com/p/f6b4750108c4) |
-| Tue, 17 Mar 2026 16:13:48 GMT | The Cybersecurity Industry is Failing Ordinary People | SECURE IT! | [Read More](https://medium.com/p/dbc06824524d) |
-| Tue, 17 Mar 2026 16:08:32 GMT | Why I Took the CELTA — and How It Strengthened My Cybersecurity Career | PoetryInformal | [Read More](https://medium.com/p/062ea85cd47a) |
-| Tue, 17 Mar 2026 16:04:56 GMT | Viewer-to-Member Privilege Escalation Through Server-Side Authorization Bypass. | Felofady | [Read More](https://medium.com/p/fdbcc5b3fa46) |
-| Tue, 17 Mar 2026 16:04:18 GMT | Android Application Security: 30 Common Vulnerabilities and How to Fix Them | Spiritedonion | [Read More](https://medium.com/p/f59e6cf0382e) |
-| Tue, 17 Mar 2026 16:04:12 GMT | API Design: Planned, Unplanned, Security and Utter Chaos | Robert Broeckelmann | [Read More](https://medium.com/p/e7c5cf0a4e27) |
-| Tue, 17 Mar 2026 16:04:00 GMT | YOU’VE BEEN WARNED. | Dallen Sadru | [Read More](https://medium.com/p/b75961af9f38) |
-| Tue, 17 Mar 2026 16:03:06 GMT | Phishing Attacks: A Big Deal in Cybersecurity | vineet dixit | [Read More](https://medium.com/p/b14dd756c24a) |
-| Tue, 17 Mar 2026 16:01:01 GMT | That “Summarize with AI” Button Is Not Summarizing Anything. It Is Rewriting Your AI’s Memory | MayhemCode | [Read More](https://medium.com/p/382c1c31018b) |
-| Tue, 17 Mar 2026 15:47:27 GMT | How DevOps Is Revolutionizing IT Careers | 2iResourcing | [Read More](https://medium.com/p/8f90b8e20854) |
-| Tue, 17 Mar 2026 15:39:37 GMT | The CISO’s Survival Guide: How to Stay Calm When the Servers are Burning | Ruben Clarke | [Read More](https://medium.com/p/6b2f4cffe8d9) |
-| Tue, 17 Mar 2026 15:36:37 GMT | What Linux Logs Reveal About Real-World Attacks | Uday Singh Chauhan | [Read More](https://medium.com/p/82eb16dc9a80) |
