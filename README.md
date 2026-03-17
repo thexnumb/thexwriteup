@@ -12,6 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 13:53:06 GMT | Choosing a Privacy-First Inheritance Vault That Stays Invisible While You’re Alive | Olivia Martillo | [Read More](https://medium.com/p/6ee2384e4a1c) |
+| Tue, 17 Mar 2026 13:47:36 GMT | API Hooking | Ali Chisom | [Read More](https://medium.com/p/74251f17a24f) |
+| Tue, 17 Mar 2026 13:44:43 GMT | The Role of Security in Building a Resilient Organization | Helixsecadvisory | [Read More](https://medium.com/p/92b8a4bb7c26) |
+| Tue, 17 Mar 2026 13:41:32 GMT | Why Temporary Email Services Like Maildax Are Gaining Popularity in 2026 | Maildax | [Read More](https://medium.com/p/8512b9a02c20) |
+| Tue, 17 Mar 2026 13:41:00 GMT | Garage Door Troubleshooting Guide Worcester MA - UAD | Up & Down Garage Door Services | [Read More](https://medium.com/p/57d10647c202) |
+| Tue, 17 Mar 2026 13:40:44 GMT | Writeup TryHackMe: Attacktive Directory — Memahami Alur Eksploitasi Active Directory | Rikyhermawan | [Read More](https://medium.com/p/16dc35afcd02) |
+| Tue, 17 Mar 2026 13:37:18 GMT | The Missing Layer in AI Systems: Verifiable Execution | Arrotu | [Read More](https://medium.com/p/9f2aeb00e0f6) |
+| Tue, 17 Mar 2026 13:31:01 GMT | Shadow IT Was Annoying. Shadow Agents Are Harder to Explain Away. | Clear-Text by Gnani Rahul Nutakki | [Read More](https://medium.com/p/27e74d6b97d9) |
+| Tue, 17 Mar 2026 13:27:55 GMT | How to do LLMNR Poisoning and SMB Relay Attack. | Zoroya | [Read More](https://medium.com/p/10476e96b1bf) |
+| Tue, 17 Mar 2026 13:26:03 GMT | Reflected Cross-Site Scripting (XSS) in Leave Application System (PHP & SQLite3) | Hemant Raj Bhati | [Read More](https://medium.com/p/e7f915fcf21e) |
+| Tue, 17 Mar 2026 13:20:12 GMT | I Learned To Spot Fake Websites In Seconds. Here’s How | Shreya Mehta | [Read More](https://medium.com/p/e3ef83f04d62) |
+| Tue, 17 Mar 2026 13:16:17 GMT | IT Staffing Technology Trends in Canada 2026 | Xwtempsolutions | [Read More](https://medium.com/p/0447df4ad724) |
+| Tue, 17 Mar 2026 13:15:19 GMT | Panduan Verifikasi Domain Resmi Flyingslot Sebelum Login | flyingslot | [Read More](https://medium.com/p/36845aca1ce1) |
+| Tue, 17 Mar 2026 13:07:52 GMT | Why Secure Software Development Is Critical for Modern Infrastructure | Elizabeth Oyeyipo | [Read More](https://medium.com/p/f05f3cb90ae0) |
+| Tue, 17 Mar 2026 13:06:41 GMT | The Ultimate AD Backdoor: Weaponizing a Built-in Windows Feature for Persistence | Onur Civan | [Read More](https://medium.com/p/556a30bfdf30) |
+| Tue, 17 Mar 2026 12:59:36 GMT | Queue dalam Python | Aghnia Azka | [Read More](https://medium.com/p/b3e8bf1b7cab) |
+| Tue, 17 Mar 2026 12:51:46 GMT | Certified in Cybersecurity (CC): Complete Beginner Guide 2026 | Manish Shetty | [Read More](https://medium.com/p/64627fdcd431) |
+| Tue, 17 Mar 2026 12:45:44 GMT | The Importance of Vulnerability Analysis and Penetration Testing Service for Cybersecurity | Janishasoni | [Read More](https://medium.com/p/8c9503d22574) |
+| Tue, 17 Mar 2026 12:42:42 GMT | Cloud Migration Services & Solutions - IFI Techsolutions | IFI Techsolutions | [Read More](https://medium.com/p/fd3c25d87771) |
+| Tue, 17 Mar 2026 12:41:37 GMT | How to Test Your Crypto Keys: Entropy Lab Tutorial - Stop Using Weak Keys! | XPORT.TOP | [Read More](https://medium.com/p/922d8e3ea0a5) |
+| Tue, 17 Mar 2026 12:32:37 GMT | Camfecting and Privacy Breach on Websites | Muhammad Saad Fareed | [Read More](https://medium.com/p/4b6735b33169) |
+| Tue, 17 Mar 2026 12:29:05 GMT | Stop the Brute: Strengthening My Virtual Security Lab with Fail2Ban | James Aboh | [Read More](https://medium.com/p/34c4361d912a) |
+| Tue, 17 Mar 2026 12:27:56 GMT | Linux Basic Operational Commands | Alexious Fiero | [Read More](https://medium.com/p/4604e98adf1f) |
+| Tue, 17 Mar 2026 12:26:00 GMT | Garage Door Cable Repair | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/a5857e3e3725) |
+| Tue, 17 Mar 2026 12:23:23 GMT | 10 OAuth Misconfiguration Exploits Every Pentester Must Master | Candy Wong | [Read More](https://medium.com/p/ef1f71324faf) |
+| Tue, 17 Mar 2026 12:18:14 GMT | ISO 27001 Lead Auditor Salary, Exam & Career Path | Manish Shetty | [Read More](https://medium.com/p/9094708b0999) |
+| Tue, 17 Mar 2026 12:12:35 GMT | Reconnaissance: The Art of Knowing Before Striking | Sukuti.sh | [Read More](https://medium.com/p/50de43f7bda9) |
+| Tue, 17 Mar 2026 12:02:06 GMT | 6 Best Practices to Reduce Shadow Data in an Enterprise | Maruti Techlabs | [Read More](https://medium.com/p/911a1df084d0) |
+| Tue, 17 Mar 2026 12:01:30 GMT | How Hackers Discover Exposed IoT Devices on the Internet | ghostyjoe | [Read More](https://medium.com/p/846baf616335) |
+| Tue, 17 Mar 2026 11:58:49 GMT | Information Technology Translation Services in Phoenix for Global Business Success | Phoenix Translation | [Read More](https://medium.com/p/5c73612be7c9) |
+| Tue, 17 Mar 2026 11:57:45 GMT | The CISO’s Secret Weapon That Most Organizations Are Still Missing Today | Niyati Daftary | [Read More](https://medium.com/p/9a15c2b54e65) |
 | Tue, 17 Mar 2026 11:52:44 GMT | Best Rotating Residential Proxy Providers (2026 Guide) | Annabelle | [Read More](https://medium.com/p/19adf309ab41) |
 | Tue, 17 Mar 2026 11:52:31 GMT | E-Signature Consent Management: Privacy Compliance in 2026 | Rohitgarg | [Read More](https://medium.com/p/34a98f4a0745) |
 | Tue, 17 Mar 2026 11:52:27 GMT | Starting Out in Cybersecurity and AI as a Business Student — Part 1 | Mina C. | [Read More](https://medium.com/p/0169eb87f1ad) |
@@ -81,34 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Mar 2026 07:56:58 GMT | Why Hiring a City Locksmith in London Is Important for Property Security | N1locksmithsltd | [Read More](https://medium.com/p/78235c0c5a4b) |
 | Tue, 17 Mar 2026 07:54:02 GMT | Anatomy of OT Devices in the Electric Power Sector: Every Device, Every Risk | MrDuc | [Read More](https://medium.com/p/8b7e655c030f) |
 | Tue, 17 Mar 2026 07:52:43 GMT | When Redis Turned Rogue: How a Hidden Lua Exploit Crashed Our Docker Infrastructure | Harris khan | [Read More](https://medium.com/p/8cbe93df7bf9) |
-| Tue, 17 Mar 2026 07:45:33 GMT | The Identity Crisis: tx.origin vs msg.sender | Tabrez Mukadam | [Read More](https://medium.com/p/df30b1f14b47) |
-| Tue, 17 Mar 2026 07:43:18 GMT | Control Drift: Why Your SOC 2 Compliance Can’t Keep Up With AI Written Code | Jost Faganel | [Read More](https://medium.com/p/9cce4e56e1a3) |
-| Tue, 17 Mar 2026 07:39:14 GMT | Top 5 Real-Life MITM Attacks That Shocked the Cybersecurity World | Shreyashettyctr | [Read More](https://medium.com/p/8044b051c139) |
-| Tue, 17 Mar 2026 07:33:16 GMT | My Journey Through MITM Attacks — Part 3: DHCPv6 Rogue Server & MITM6 | ofek789 | [Read More](https://medium.com/p/4f2afe1a2688) |
-| Tue, 17 Mar 2026 07:32:36 GMT | The Growing Demand for Cyber Security Professionals and How Training Can Help | logging security | [Read More](https://medium.com/p/aa95cd97f7ee) |
-| Tue, 17 Mar 2026 07:30:37 GMT | The Security of Connectivity: Why Integrated Systems Need Robust Cybersecurity in 2026 | AJAY KUMAR | [Read More](https://medium.com/p/84a350136d29) |
-| Tue, 17 Mar 2026 07:30:36 GMT | AI and Practical Training in Cloud Security | Aadarshkumar Jadhav | [Read More](https://medium.com/p/cff8dc997360) |
-| Tue, 17 Mar 2026 07:25:37 GMT | Ethical Hacking for Beginners —Ethical Hacking Learning Series Day 1: Understanding Hackers… | HusnaAnjum | [Read More](https://medium.com/p/fc8fb8713d6a) |
-| Tue, 17 Mar 2026 07:23:55 GMT | The “123456” Epidemic: Why We Still Can’t Quit Bad Passwords in 2026 | Tania Nunes | [Read More](https://medium.com/p/f5b75b53e029) |
-| Tue, 17 Mar 2026 07:15:36 GMT | Do you know where your data is tonight? | Sujon Al Mamun | [Read More](https://medium.com/p/937b0107f1ef) |
-| Tue, 17 Mar 2026 07:15:24 GMT | Tech Staffing That Helps Teams Move Faster Without Compromising Quality | Vbeyond Corporation | [Read More](https://medium.com/p/f513e1b444b6) |
-| Tue, 17 Mar 2026 07:14:27 GMT | Environment Health & Safety Market Size - Forecast 2026–2033 | NIkita Poplai | [Read More](https://medium.com/p/449f1208591f) |
-| Tue, 17 Mar 2026 07:02:51 GMT | Wrapping Sigstore, in-toto, and SLSA: Where Modern Supply-Chain Security Still Fails | Kalyan Tamarapalli | [Read More](https://medium.com/p/f47c53501329) |
-| Tue, 17 Mar 2026 06:56:26 GMT | 10 Common Problems Solved by Access Control Repairs in Naples | Ramco Protective | [Read More](https://medium.com/p/4f1a568e4290) |
-| Tue, 17 Mar 2026 06:47:50 GMT | Digital Public Infrastructure: The Foundation of Modern Digital Societies | Vijayakumar Manjunatha | [Read More](https://medium.com/p/7ecf09c5ab1f) |
-| Tue, 17 Mar 2026 06:47:07 GMT | How Risky Is Integrating AI Agents into Your Codebase? | Rajesh Rawat | [Read More](https://medium.com/p/b968f3a5db58) |
-| Tue, 17 Mar 2026 06:41:32 GMT | Your Password Isn’t Enough Anymore — Here’s What Actually Protects You | Panstag | [Read More](https://medium.com/p/ed5b8549d18d) |
-| Tue, 17 Mar 2026 06:41:14 GMT | Boost Your Website’s Security: A Full Guide to Install TLS Certification | Omax Tech | [Read More](https://medium.com/p/df048090bd75) |
-| Tue, 17 Mar 2026 06:40:25 GMT | Unified Communication as a Service Market Revenue Set for Steady Growth by 2035 | NIkita Poplai | [Read More](https://medium.com/p/5265aad21e54) |
-| Tue, 17 Mar 2026 06:38:13 GMT | When Autonomous AI Agents Go Mainstream: The Hidden Security Risks Behind OpenClaw | John Hawkins | [Read More](https://medium.com/p/c6bb8258d81f) |
-| Tue, 17 Mar 2026 06:35:45 GMT | I Found a Backdoor That Could Log Into Any Account on a Major Web Platform | zoid | [Read More](https://medium.com/p/6e00df505b56) |
-| Tue, 17 Mar 2026 06:35:09 GMT | M‑Pesa Catches Up With the Data Protection Act: The New Number‑Masking Feature | ElviraKHWATENGE | [Read More](https://medium.com/p/22832ae5b864) |
-| Tue, 17 Mar 2026 06:33:41 GMT | The Confused Deputy Vulnerability: When Trusted Systems Betray You | Ashwini Puranik | [Read More](https://medium.com/p/221ae4ced747) |
-| Tue, 17 Mar 2026 06:32:42 GMT | The Difference Between Replaceable Work and Replaceable People | Vijay Kumar Gupta | [Read More](https://medium.com/p/5d68ebda92cb) |
-| Tue, 17 Mar 2026 06:30:42 GMT | BLE Password Injector: A Practical Step Toward Faster and Fully Offline Authentication | Swapnil Ghule | [Read More](https://medium.com/p/dc70ed780143) |
-| Tue, 17 Mar 2026 06:30:01 GMT | Popular trending video links in USA | Mdaponislam | [Read More](https://medium.com/p/5af0fbc57efe) |
-| Tue, 17 Mar 2026 06:29:11 GMT | Build Your IT Security Career: The Cyber Security Course in Alappuzha | Abdulla Faheem | [Read More](https://medium.com/p/c5febfff9b0a) |
-| Tue, 17 Mar 2026 06:28:44 GMT | Menlo Security and Browser Isolation: The New Layer of Web Defense | Amit Gorai | [Read More](https://medium.com/p/c3b90dc12596) |
-| Tue, 17 Mar 2026 06:26:01 GMT | Licensed Security Guards: Why Your Business Needs Certified Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/6c27b2eec367) |
-| Tue, 17 Mar 2026 06:16:00 GMT | How Developers Are Winning the Battle Against Bugs | Ethan Walker | [Read More](https://medium.com/p/8036b811e5e6) |
-| Tue, 17 Mar 2026 06:11:09 GMT | Understanding Black Hat Hacking: The Dark Side of Cybersecurity | Cynox Security LLP. | [Read More](https://medium.com/p/359a792791a1) |
