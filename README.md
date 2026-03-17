@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 10:22:52 GMT | The CVE-2026–3569 Chronicle: My Journey Fixing a WordPress Plugin REST API Vulnerability | Liaison Tw | [Read More](https://medium.com/p/87b16eca2892) |
+| Tue, 17 Mar 2026 10:12:52 GMT | LLM Development Company: Build Scalable AI Solutions for Modern Businesses | Bhavesh Rajpurohit | [Read More](https://medium.com/p/1cc9db22b9bb) |
+| Tue, 17 Mar 2026 10:12:28 GMT | Why DeFi Needs Vault Infrastructure | Brokenbutbeliever | [Read More](https://medium.com/p/ae7876040ca0) |
+| Tue, 17 Mar 2026 10:11:04 GMT | How Bollards Strengthen Security and Enhance Safety | Verge Safety Barriers | [Read More](https://medium.com/p/782ff3608d5b) |
+| Tue, 17 Mar 2026 10:08:42 GMT | Bitcoin Isn’t Just a Coin: Inside Ports 8333, 18333 & 18444 (Hacker’s Guide) | Very Lazy Tech | [Read More](https://medium.com/p/36969446ee16) |
+| Tue, 17 Mar 2026 10:06:20 GMT | SOC vs VAPT: What’s the Difference in Cybersecurity? | Antonyrajvedamanickam | [Read More](https://medium.com/p/33370c03dd8e) |
+| Tue, 17 Mar 2026 10:03:47 GMT | What is the TCP/IP model networking — Day 8 | 0xSmit | [Read More](https://medium.com/p/525e2815deb2) |
+| Tue, 17 Mar 2026 10:03:13 GMT | PLC and Control Panel Manufacturer in India: The Backbone of Smart Industrial Automation | Machinefoxindia | [Read More](https://medium.com/p/a49c9ac27b78) |
+| Tue, 17 Mar 2026 10:01:19 GMT | “Microsoft Defender for Cloud” Bulgularını Dynatrace ile İçe Aktarın ve Zenginleştirin | Perform Yazılım | [Read More](https://medium.com/p/5c45c98519f0) |
+| Tue, 17 Mar 2026 09:56:37 GMT | Cyber Security Analyst v/s Cyber Security Engineer in India 2026 | Ntech Global Solutions | [Read More](https://medium.com/p/6987d6016696) |
+| Tue, 17 Mar 2026 09:51:29 GMT | Security in OutSystems: The Client Shows, the Server Decides | João Marques | [Read More](https://medium.com/p/ab95ad0ec94e) |
+| Tue, 17 Mar 2026 09:44:43 GMT | Security Code Review Basics in Python | Carlos Gutierrez | [Read More](https://medium.com/p/92ef3f4fd9b9) |
+| Tue, 17 Mar 2026 09:34:09 GMT | Cyber Security | Riteshexcellence | [Read More](https://medium.com/p/c79381dbcd9f) |
+| Tue, 17 Mar 2026 09:27:34 GMT | Puddles. | Deborah AdeOluwa | [Read More](https://medium.com/p/d12e9b9afb96) |
 | Tue, 17 Mar 2026 09:24:38 GMT | Write for Us: Share Your Data, AI & Business Insights with a Global Audience | Jeromvq | [Read More](https://medium.com/p/66a5816f50b6) |
+| Tue, 17 Mar 2026 09:23:17 GMT | Provably Fair System: Seed Lifecycle, Nonce Monotonicity, and Public Round Verification | Emma Paułowicz | [Read More](https://medium.com/p/abc9e7de4203) |
 | Tue, 17 Mar 2026 09:18:53 GMT | Web Security Series #6 — Exploiting SQL Injection to Extract Sensitive Data | Laibakashif | [Read More](https://medium.com/p/26c5c11e4779) |
 | Tue, 17 Mar 2026 09:16:16 GMT | OpenClaw Can Leak Your Data — Here Is the Safer Setup | Dibeesh KS | [Read More](https://medium.com/p/66a5d271fb61) |
 | Tue, 17 Mar 2026 09:15:38 GMT | How IT Companies Manage Client Data Securely | Cloudegytechnology | [Read More](https://medium.com/p/708d95c6135b) |
@@ -99,18 +114,3 @@ Condolences, at this… | Ibrahim Alkaitawi | [Read More](https://medium.com/p/5
 | Tue, 17 Mar 2026 03:12:16 GMT | What Should You Do After Finding a Scam Website? | Cole Barkley | [Read More](https://medium.com/p/3e5a09a181da) |
 | Tue, 17 Mar 2026 03:10:13 GMT | Check Website Security With “shcheck” | Narathama Firmansyah Putra | [Read More](https://medium.com/p/f2074872bb90) |
 | Tue, 17 Mar 2026 03:00:42 GMT | Running a Tabletop Exercise Across the Entire Organisation: A Constellar Story | Kiell Tampubolon | [Read More](https://medium.com/p/6f35b5c3e982) |
-| Tue, 17 Mar 2026 02:59:44 GMT | Digital Technology Information in the Age of Intelligent Systems | Jevast | [Read More](https://medium.com/p/71677f8f5518) |
-| Tue, 17 Mar 2026 02:48:21 GMT | Top Authentication Weaknesses in Fintech Platforms | Mohamed Hamadou - ( ZoeniX ) | [Read More](https://medium.com/p/548f1886e86c) |
-| Tue, 17 Mar 2026 02:46:41 GMT | Building a SOC AI Agent: Automating Security Alert Investigation at Scale | Paritosh | [Read More](https://medium.com/p/787837a1d390) |
-| Tue, 17 Mar 2026 02:31:01 GMT | I Ditched Passwords for Passkeys in Laravel 13. Here’s the Complete Setup Guide. | Sadique Ali | [Read More](https://medium.com/p/b05b43281cfc) |
-| Tue, 17 Mar 2026 02:21:12 GMT | Prompt Injection Is Not a Prompting Problem | Andrew Douma | [Read More](https://medium.com/p/97ac57dccecd) |
-| Tue, 17 Mar 2026 02:14:45 GMT | The Assassination of GOAD | Joshua Goossen | [Read More](https://medium.com/p/8645df5b68fb) |
-| Tue, 17 Mar 2026 02:10:16 GMT | Malware Traffic Analysis Report | Deepthi Reddy | [Read More](https://medium.com/p/948bb4e09541) |
-| Tue, 17 Mar 2026 02:09:29 GMT | Malware Traffic Analysis Report | Deepthi Reddy | [Read More](https://medium.com/p/d3bb13cfcde3) |
-| Tue, 17 Mar 2026 01:43:29 GMT | Stop Letting Users Spy on Each Other! ️‍♂️ Building a Smart Media Guard in NestJS | Mehmet Talha Irmak | [Read More](https://medium.com/p/9d7640bd4b98) |
-| Tue, 17 Mar 2026 01:40:16 GMT | AWS Security Cards: Free Offensive Security Reference for 60 AWS Services | Tarek CHEIKH | [Read More](https://medium.com/p/316c3d0719f5) |
-| Tue, 17 Mar 2026 01:33:31 GMT | Zero Trust Security and Its Implementation in Java Microservices | Kaizen Chandra | [Read More](https://medium.com/p/a44f4e031284) |
-| Tue, 17 Mar 2026 01:11:00 GMT | Marriage Crisis Guide: Protect Your Money and Future When Husband Steps Out | Dancemi Clare | [Read More](https://medium.com/p/bccb6be7b835) |
-| Tue, 17 Mar 2026 01:10:33 GMT | Tuesday Morning Threat Report: Mar 17, 2026 | Mark Maguire | [Read More](https://medium.com/p/204b47f48399) |
-| Tue, 17 Mar 2026 01:02:26 GMT | Your Home Office Has a Security Problem. Here’s How to Fix It in 30 Minutes. | Jusjaesho | [Read More](https://medium.com/p/cc25a61905aa) |
-| Tue, 17 Mar 2026 00:54:01 GMT | Disaster Recovery: How Businesses Protect Data and Systems After a Crisis | Techridge Solutions | [Read More](https://medium.com/p/ff57205bd53c) |
