@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 07:02:51 GMT | Wrapping Sigstore, in-toto, and SLSA: Where Modern Supply-Chain Security Still Fails | Kalyan Tamarapalli | [Read More](https://medium.com/p/f47c53501329) |
+| Tue, 17 Mar 2026 06:56:26 GMT | 10 Common Problems Solved by Access Control Repairs in Naples | Ramco Protective | [Read More](https://medium.com/p/4f1a568e4290) |
+| Tue, 17 Mar 2026 06:47:50 GMT | Digital Public Infrastructure: The Foundation of Modern Digital Societies | Vijayakumar Manjunatha | [Read More](https://medium.com/p/7ecf09c5ab1f) |
+| Tue, 17 Mar 2026 06:47:07 GMT | How Risky Is Integrating AI Agents into Your Codebase? | Rajesh Rawat | [Read More](https://medium.com/p/b968f3a5db58) |
+| Tue, 17 Mar 2026 06:41:32 GMT | Your Password Isn’t Enough Anymore — Here’s What Actually Protects You | Panstag | [Read More](https://medium.com/p/ed5b8549d18d) |
+| Tue, 17 Mar 2026 06:41:14 GMT | Boost Your Website’s Security: A Full Guide to Install TLS Certification | Omax Tech | [Read More](https://medium.com/p/df048090bd75) |
+| Tue, 17 Mar 2026 06:40:25 GMT | Unified Communication as a Service Market Revenue Set for Steady Growth by 2035 | NIkita Poplai | [Read More](https://medium.com/p/5265aad21e54) |
+| Tue, 17 Mar 2026 06:38:13 GMT | When Autonomous AI Agents Go Mainstream: The Hidden Security Risks Behind OpenClaw | John Hawkins | [Read More](https://medium.com/p/c6bb8258d81f) |
+| Tue, 17 Mar 2026 06:35:45 GMT | I Found a Backdoor That Could Log Into Any Account on a Major Web Platform | zoid | [Read More](https://medium.com/p/6e00df505b56) |
+| Tue, 17 Mar 2026 06:35:09 GMT | M‑Pesa Catches Up With the Data Protection Act: The New Number‑Masking Feature | ElviraKHWATENGE | [Read More](https://medium.com/p/22832ae5b864) |
+| Tue, 17 Mar 2026 06:33:41 GMT | The Confused Deputy Vulnerability: When Trusted Systems Betray You | Ashwini Puranik | [Read More](https://medium.com/p/221ae4ced747) |
+| Tue, 17 Mar 2026 06:32:42 GMT | The Difference Between Replaceable Work and Replaceable People | Vijay Kumar Gupta | [Read More](https://medium.com/p/5d68ebda92cb) |
+| Tue, 17 Mar 2026 06:30:42 GMT | BLE Password Injector: A Practical Step Toward Faster and Fully Offline Authentication | Swapnil Ghule | [Read More](https://medium.com/p/dc70ed780143) |
+| Tue, 17 Mar 2026 06:30:01 GMT | Popular trending video links in USA | Mdaponislam | [Read More](https://medium.com/p/5af0fbc57efe) |
+| Tue, 17 Mar 2026 06:29:11 GMT | Build Your IT Security Career: The Cyber Security Course in Alappuzha | Abdulla Faheem | [Read More](https://medium.com/p/c5febfff9b0a) |
+| Tue, 17 Mar 2026 06:28:44 GMT | Menlo Security and Browser Isolation: The New Layer of Web Defense | Amit Gorai | [Read More](https://medium.com/p/c3b90dc12596) |
+| Tue, 17 Mar 2026 06:26:01 GMT | Licensed Security Guards: Why Your Business Needs Certified Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/6c27b2eec367) |
+| Tue, 17 Mar 2026 06:16:00 GMT | How Developers Are Winning the Battle Against Bugs | Ethan Walker | [Read More](https://medium.com/p/8036b811e5e6) |
+| Tue, 17 Mar 2026 06:11:09 GMT | Understanding Black Hat Hacking: The Dark Side of Cybersecurity | Cynox Security LLP. | [Read More](https://medium.com/p/359a792791a1) |
+| Tue, 17 Mar 2026 06:08:45 GMT | My Yii Site Got Hacked: Lessons Learned and How to Protect Your Web App | Pavel Ps | [Read More](https://medium.com/p/c874bdf0a2de) |
+| Tue, 17 Mar 2026 06:06:33 GMT | The Lethal Trifecta: Exposure, Vulnerability, and Privilege | Ashwini Puranik | [Read More](https://medium.com/p/9795bd23be40) |
+| Tue, 17 Mar 2026 05:51:23 GMT | OTP Bypass Part 2: Advanced Logic Flaws and Race Conditions | Arrhenius Paelongan | [Read More](https://medium.com/p/d30ba3b33f07) |
 | Tue, 17 Mar 2026 05:30:25 GMT | A Look at ZeroThreat’s Approach to Agentic AI Pentesting | Kate Bennett | [Read More](https://medium.com/p/a34ba6a05f1a) |
 | Tue, 17 Mar 2026 05:29:52 GMT | IDOR: The Bug That Still Breaks Modern Apps | red_shadow_11 | [Read More](https://medium.com/p/39be2cf42e14) |
 | Tue, 17 Mar 2026 05:24:59 GMT | Community Article of the Week | Imran Umar | [Read More](https://medium.com/p/f1477b040d21) |
@@ -92,25 +114,3 @@ Condolences, at this… | Ibrahim Alkaitawi | [Read More](https://medium.com/p/5
 | Mon, 16 Mar 2026 20:59:58 GMT | PYRAX’s TriStream: 3-Stream Consensus Beats Single Validation | PYRAX Network | [Read More](https://medium.com/p/6788b255b3f3) |
 | Mon, 16 Mar 2026 20:46:45 GMT | HackableII: A Purple Team Breakdown from Anonymous FTP to Root and Everything Security Onion Saw. | jrm360sec | [Read More](https://medium.com/p/86424c34b4f9) |
 | Mon, 16 Mar 2026 20:40:55 GMT | SQL Injection - The 25-Year-Old Vulnerability That Is Still Emptying Databases in 2025 | Rufus Kehinde | [Read More](https://medium.com/p/3afc59c31d6e) |
-| Mon, 16 Mar 2026 20:38:53 GMT | ISO 27001 Protects Data. ISO 42001 Protects Intelligence | Sarah | [Read More](https://medium.com/p/19b1c9dbd742) |
-| Mon, 16 Mar 2026 20:26:42 GMT | Your AI agent just sent an email. Did you authorize that? | Viplav Fauzdar | [Read More](https://medium.com/p/edeffe0b7f93) |
-| Mon, 16 Mar 2026 20:23:13 GMT | How I Compromised an Entire Active Directory Domain in 3 Steps | JunoonBro | [Read More](https://medium.com/p/220ba8b550fb) |
-| Mon, 16 Mar 2026 20:06:00 GMT | How Data Analytics Strengthens Cybersecurity | Osiris | [Read More](https://medium.com/p/d49fa51295df) |
-| Mon, 16 Mar 2026 20:02:56 GMT | A Digital Forensics Walkthrough | Jegannagi | [Read More](https://medium.com/p/7533b0f3c9fd) |
-| Mon, 16 Mar 2026 20:02:29 GMT | MCP vs Agentic AI: The Difference Almost Everyone Gets Wrong | Akshat Patel | [Read More](https://medium.com/p/f9b9fb3616a1) |
-| Mon, 16 Mar 2026 20:01:20 GMT | Springer&apos;s Cybersecurity Best Practices: an In-depth Look | cyber tech | [Read More](https://medium.com/p/35738c22bb9a) |
-| Mon, 16 Mar 2026 19:56:43 GMT | The Browser Has Become the Most Overlooked Security Risk in Everyday Life | Shawn micheal | [Read More](https://medium.com/p/3cf4d575ac18) |
-| Mon, 16 Mar 2026 19:52:22 GMT | Modern Security Cameras Explained: Features and Real Capabilities | Teona | [Read More](https://medium.com/p/51f631ad1897) |
-| Mon, 16 Mar 2026 19:50:34 GMT | Cybersecurity Weekly Summary March 9–16, 2026 | Bobbie á Deild | [Read More](https://medium.com/p/979d782e27f5) |
-| Mon, 16 Mar 2026 19:44:11 GMT | I Spent a Week Learning How to Hack APIs and Honestly the Internet Should Be More Scared | Yankho Kamtukulo | [Read More](https://medium.com/p/d3872a4fcbb7) |
-| Mon, 16 Mar 2026 19:40:38 GMT | broker — TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/13bb29d89275) |
-| Mon, 16 Mar 2026 19:36:25 GMT | An AI Broke Into McKinsey’s Platform. Here’s What We Should All Learn From It. | Ana Bildea, PhD | [Read More](https://medium.com/p/4b21dbe48721) |
-| Mon, 16 Mar 2026 19:29:14 GMT | TCP vs UDP: Understanding the Core Transport Protocols of the Internet | Ndu | [Read More](https://medium.com/p/14bd5bea5e6d) |
-| Mon, 16 Mar 2026 19:25:04 GMT | CRTP vs OSCP Tooling on GOAD-Light | Joshua Goossen | [Read More](https://medium.com/p/ccfeb9dcfd9c) |
-| Mon, 16 Mar 2026 19:21:56 GMT | Secuview Wireless IP Solar-powered 4G Dual Lens Security Camera | secuview | [Read More](https://medium.com/p/c8ffb1b37644) |
-| Mon, 16 Mar 2026 19:21:21 GMT | TOTP… what is this thing? | AkumaStack | [Read More](https://medium.com/p/c50032dec146) |
-| Mon, 16 Mar 2026 19:21:06 GMT | Secuview 5MP Indoor AHD CCTV - Sharp Detail & High-Performance Monitoring. | secuview | [Read More](https://medium.com/p/14d55693ee77) |
-| Mon, 16 Mar 2026 19:20:33 GMT | My Introduction to API Security Testing -What I’ve Learned So Far | Adesanya Adebowale | [Read More](https://medium.com/p/54759b9eb2fa) |
-| Mon, 16 Mar 2026 19:20:01 GMT | HTB_Academy: Linux Privilege Escalation | Babatunde Ojo | [Read More](https://medium.com/p/4865f62aa19b) |
-| Mon, 16 Mar 2026 19:17:39 GMT | CIA Triad nedir ve ne için kullanılır? | Cagatayonbasioglu | [Read More](https://medium.com/p/53fbcb25d6e8) |
-| Mon, 16 Mar 2026 19:13:28 GMT | Why the Autonomous SOC is the Future of Security Operations | Rajat Dangi ️ | [Read More](https://medium.com/p/23d5eee4f09b) |
