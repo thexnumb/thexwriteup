@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 11:18:28 GMT | Smarter Automation Starts with the Right Talent | n8ndevelopers | [Read More](https://medium.com/p/64490f9ddf0e) |
+| Tue, 17 Mar 2026 11:09:26 GMT | Enterprise Security in 2026 Isn’t Optional — It’s Survival. | Prishusoft | [Read More](https://medium.com/p/e9012ebf1dc2) |
+| Tue, 17 Mar 2026 11:09:08 GMT | Trusted IT Solution Company in Gurgaon for Smart Businesses - Reves Enterprise | Revesenterprise | [Read More](https://medium.com/p/7cd5ab733fc6) |
+| Tue, 17 Mar 2026 11:01:01 GMT | Microsoft 365 Copilot Agents vs. Copilot Studio Agents | Meron | [Read More](https://medium.com/p/123fb5a1ef10) |
+| Tue, 17 Mar 2026 10:57:13 GMT | Understanding Linux Backdoors: A Practical Learning Experience from TryHackMe | pavani | [Read More](https://medium.com/p/4b1802d67c90) |
+| Tue, 17 Mar 2026 10:53:04 GMT | Understanding Access Packages in Microsoft Entra ID — Part 1 | Udeh Chikamso | [Read More](https://medium.com/p/62e0bf648ea6) |
+| Tue, 17 Mar 2026 10:52:20 GMT | Stealth Webcam Access Demo: What Browser Permissions Really Mean | Ali Murtaza | [Read More](https://medium.com/p/4715e6e12964) |
+| Tue, 17 Mar 2026 10:48:11 GMT | Sensitive Info Deserves Better | RVwv.B | [Read More](https://medium.com/p/13e51c37be52) |
+| Tue, 17 Mar 2026 10:46:00 GMT | I Looked Up How Long It Takes to Crack a Firefox Password in 2026. Then I Changed My Browser. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/f9f705ef4c7e) |
+| Tue, 17 Mar 2026 10:45:31 GMT | Why Cybersecurity Training Is Your Fast Track to a Stable Tech Career | Janbask Training | [Read More](https://medium.com/p/dd8a0dbf409a) |
+| Tue, 17 Mar 2026 10:42:54 GMT | Product Engineering Governance | Gautam Raturi | [Read More](https://medium.com/p/a5cf24fd1528) |
+| Tue, 17 Mar 2026 10:42:00 GMT | 5 Years of GDPR: Successes, Failures, and Lessons Learned | Ritika Prajapati | [Read More](https://medium.com/p/973f7d8213b8) |
+| Tue, 17 Mar 2026 10:41:48 GMT | You Click “Pay Now”… But a Secret Security System Checks Everything First | AartiWrites | [Read More](https://medium.com/p/83313132b1ed) |
+| Tue, 17 Mar 2026 10:41:39 GMT | Researchers Decrypt and Exploit Encrypted Palo Alto Cortex XDR BIOC Rules | Jas | [Read More](https://medium.com/p/c07e67d0afc7) |
+| Tue, 17 Mar 2026 10:39:21 GMT | Wazuh - Detect Password Spray and ESC1 Attacks | Ali Sefer | [Read More](https://medium.com/p/1d56a5c21750) |
+| Tue, 17 Mar 2026 10:34:25 GMT | How to Recover Your RAID Server Data Without Losing a Single File | Techchef Data Recovery Services | [Read More](https://medium.com/p/30b9160e7b93) |
+| Tue, 17 Mar 2026 10:29:34 GMT | TraceMarshal: An Autonomous SOC Agent That Hunts Threats While You Sleep | George Makris | [Read More](https://medium.com/p/f2bd08b70c07) |
+| Tue, 17 Mar 2026 10:28:58 GMT | Data Breach Check & Open Redirect Vulnerability: How Hackers Exploit It (And How You Can Earn… | Bugitrix | [Read More](https://medium.com/p/5a8482a7300e) |
 | Tue, 17 Mar 2026 10:22:52 GMT | The CVE-2026–3569 Chronicle: My Journey Fixing a WordPress Plugin REST API Vulnerability | Liaison Tw | [Read More](https://medium.com/p/87b16eca2892) |
+| Tue, 17 Mar 2026 10:21:51 GMT | Why DeFi Needs Vault Infrastructure | Heysamforyou | [Read More](https://medium.com/p/c695d4d93e9f) |
+| Tue, 17 Mar 2026 10:18:16 GMT | Dedicated Servers for Gaming, Streaming, and High-Traffic Platforms | HostDime India | [Read More](https://medium.com/p/c11a0f22e044) |
 | Tue, 17 Mar 2026 10:12:52 GMT | LLM Development Company: Build Scalable AI Solutions for Modern Businesses | Bhavesh Rajpurohit | [Read More](https://medium.com/p/1cc9db22b9bb) |
 | Tue, 17 Mar 2026 10:12:28 GMT | Why DeFi Needs Vault Infrastructure | Brokenbutbeliever | [Read More](https://medium.com/p/ae7876040ca0) |
 | Tue, 17 Mar 2026 10:11:04 GMT | How Bollards Strengthen Security and Enhance Safety | Verge Safety Barriers | [Read More](https://medium.com/p/782ff3608d5b) |
@@ -92,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Mar 2026 05:17:39 GMT | Security That Moves With the Data | sengom | [Read More](https://medium.com/p/df5321ca497c) |
 | Tue, 17 Mar 2026 05:07:55 GMT | Breaking the Model: A Technical Deep Dive into LLM Red Teaming | Sujal Shihani | [Read More](https://medium.com/p/9f5602e20c33) |
 | Tue, 17 Mar 2026 05:01:39 GMT | TryHackMe — Authentication Bypass (Walkthrough) | Hudson Lois Marcus | [Read More](https://medium.com/p/fe0a5b413e07) |
-| Tue, 17 Mar 2026 05:01:20 GMT | Stealth Webcam Access without User Permission | Muhammad Ahsan Niaz | [Read More](https://medium.com/p/c3f82131677b) |
-| Tue, 17 Mar 2026 05:00:32 GMT | Your Technical Skills Are Expiring — Part 2: A Practical Cybersecurity Routine for Beginners! | Nothing Cyber [NC] | [Read More](https://medium.com/p/b821be7dc5e4) |
-| Tue, 17 Mar 2026 04:58:57 GMT | Why ServiceNow SecOps Requires Ongoing Performance Optimization | Gavin Ellis | [Read More](https://medium.com/p/a3e3fa446ec6) |
-| Tue, 17 Mar 2026 04:54:58 GMT | Project Akhir: Capstone Project | Muhammadnaufalriansyach | [Read More](https://medium.com/p/515225abbe05) |
-| Tue, 17 Mar 2026 04:52:06 GMT | Flu Proving Grounds linux lab | Cyb0rgBytes | [Read More](https://medium.com/p/9e2f2502bfcf) |
-| Tue, 17 Mar 2026 04:50:53 GMT | AI Is Changing Cybersecurity Forever. Are Organizations Ready? | Faraz Weerabangsa | [Read More](https://medium.com/p/d083e5c7eb7f) |
-| Tue, 17 Mar 2026 04:50:08 GMT | Understanding AWS load balancers-How traffic is distributed across servers | unica 02 | [Read More](https://medium.com/p/483b1661a9c9) |
-| Tue, 17 Mar 2026 04:19:41 GMT | I Replaced Zapier With 3 MCP Servers — Then Discovered 30 Security Vulnerabilities in 60 Days | leokim | [Read More](https://medium.com/p/66e0b6e106c0) |
-| Tue, 17 Mar 2026 04:19:16 GMT | Global Cyber Alert: Russian Hackers Using Fake Chatbots on Signal and WhatsApp | Seikh Suraj | [Read More](https://medium.com/p/ad2fe6acfe87) |
-| Tue, 17 Mar 2026 04:13:32 GMT | Brutal Truth #6: Privilege Is the Real Target | Dr. Shashi Karhail | [Read More](https://medium.com/p/c7612272f61a) |
-| Tue, 17 Mar 2026 03:59:29 GMT | Secure Your Cloud: Explore DevSecOps and Security Tools in Microsoft Azure ☁️ | Everton Araújo | [Read More](https://medium.com/p/3a1e10207046) |
-| Tue, 17 Mar 2026 03:57:24 GMT | Hacking AI Browsers: How i hacked Perplexity | m19o | [Read More](https://medium.com/p/c33afe12c39e) |
-| Tue, 17 Mar 2026 03:49:23 GMT | CVE-2026–3569 事件始末：修復 WordPress Plugin REST API 安全漏洞全紀錄 | Liaison Tw | [Read More](https://medium.com/p/01a6840087bf) |
-| Tue, 17 Mar 2026 03:36:18 GMT | Be Careful With MCP Servers! | Naoufal OUCHKOUK | [Read More](https://medium.com/p/91425d042fee) |
-| Tue, 17 Mar 2026 03:21:19 GMT | Mass IDOR + Race Condition: Sequential Tokens Unlock Millions of Patient Names in a Healthcare… | Samrat Sitaula | [Read More](https://medium.com/p/ea39c20a456a) |
-| Tue, 17 Mar 2026 03:18:39 GMT | Why Invisible Code Is the Next Supply Chain Risk Audit Leaders Should Understand | Zac Moore | [Read More](https://medium.com/p/64cf65482f8f) |
-| Tue, 17 Mar 2026 03:15:52 GMT | The People of Maiduguri Do Not Need Your Condolences
-#InsightByAlkaitawi
-Condolences, at this… | Ibrahim Alkaitawi | [Read More](https://medium.com/p/5f958b449be9) |
-| Tue, 17 Mar 2026 03:12:16 GMT | What Should You Do After Finding a Scam Website? | Cole Barkley | [Read More](https://medium.com/p/3e5a09a181da) |
-| Tue, 17 Mar 2026 03:10:13 GMT | Check Website Security With “shcheck” | Narathama Firmansyah Putra | [Read More](https://medium.com/p/f2074872bb90) |
-| Tue, 17 Mar 2026 03:00:42 GMT | Running a Tabletop Exercise Across the Entire Organisation: A Constellar Story | Kiell Tampubolon | [Read More](https://medium.com/p/6f35b5c3e982) |
