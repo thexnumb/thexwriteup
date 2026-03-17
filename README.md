@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 02:21:12 GMT | Prompt Injection Is Not a Prompting Problem | Andrew Douma | [Read More](https://medium.com/p/97ac57dccecd) |
+| Tue, 17 Mar 2026 02:14:45 GMT | The Assassination of GOAD | Joshua Goossen | [Read More](https://medium.com/p/8645df5b68fb) |
+| Tue, 17 Mar 2026 02:10:16 GMT | Malware Traffic Analysis Report | Deepthi Reddy | [Read More](https://medium.com/p/948bb4e09541) |
+| Tue, 17 Mar 2026 02:09:29 GMT | Malware Traffic Analysis Report | Deepthi Reddy | [Read More](https://medium.com/p/d3bb13cfcde3) |
+| Tue, 17 Mar 2026 01:43:29 GMT | Stop Letting Users Spy on Each Other! ️‍♂️ Building a Smart Media Guard in NestJS | Mehmet Talha Irmak | [Read More](https://medium.com/p/9d7640bd4b98) |
+| Tue, 17 Mar 2026 01:40:16 GMT | AWS Security Cards: Free Offensive Security Reference for 60 AWS Services | Tarek CHEIKH | [Read More](https://medium.com/p/316c3d0719f5) |
+| Tue, 17 Mar 2026 01:33:31 GMT | Zero Trust Security and Its Implementation in Java Microservices | Kaizen Chandra | [Read More](https://medium.com/p/a44f4e031284) |
+| Tue, 17 Mar 2026 01:11:00 GMT | Marriage Crisis Guide: Protect Your Money and Future When Husband Steps Out | Dancemi Clare | [Read More](https://medium.com/p/bccb6be7b835) |
+| Tue, 17 Mar 2026 01:10:33 GMT | Tuesday Morning Threat Report: Mar 17, 2026 | Mark Maguire | [Read More](https://medium.com/p/204b47f48399) |
+| Tue, 17 Mar 2026 01:02:26 GMT | Your Home Office Has a Security Problem. Here’s How to Fix It in 30 Minutes. | Jusjaesho | [Read More](https://medium.com/p/cc25a61905aa) |
+| Tue, 17 Mar 2026 00:54:01 GMT | Disaster Recovery: How Businesses Protect Data and Systems After a Crisis | Techridge Solutions | [Read More](https://medium.com/p/ff57205bd53c) |
+| Tue, 17 Mar 2026 00:47:26 GMT | A Cybersecurity Giant Just Shipped Its Own SSL Private Key in a Public Installer | Jbird | [Read More](https://medium.com/p/89b1961cc062) |
+| Tue, 17 Mar 2026 00:46:57 GMT | Hashable — Cybertalents Web Challenge Write-up | 0xNoob | [Read More](https://medium.com/p/b1eccbff7dac) |
+| Tue, 17 Mar 2026 00:41:08 GMT | First try and I got the EJPT (2026) | Us0lfr | [Read More](https://medium.com/p/23bde909b4c0) |
+| Tue, 17 Mar 2026 00:35:10 GMT | IT Chronicles One Year Later | Susan Brearley | [Read More](https://medium.com/p/d89e0ee3c19e) |
+| Tue, 17 Mar 2026 00:15:50 GMT | Opaque Tokens: The Possible Successor in the Token Era? | Hamit CİBO | [Read More](https://medium.com/p/b1c9610aeb75) |
+| Tue, 17 Mar 2026 00:14:15 GMT | The Dignity of Needing Help | Will Davison Jr. | [Read More](https://medium.com/p/877cd39e47bd) |
+| Mon, 16 Mar 2026 23:43:10 GMT | Crying in public: a proud family tradition | The Truth About Dad | [Read More](https://medium.com/p/07fdbd202dda) |
+| Mon, 16 Mar 2026 23:41:57 GMT | The Second to Stone | Lucious | [Read More](https://medium.com/p/ced6a239c05c) |
 | Mon, 16 Mar 2026 23:16:00 GMT | Meta Sold You “Privacy.” Workers in Kenya Got Your Bedroom. | Ajay Yadav | [Read More](https://medium.com/p/4dbef2cd53c1) |
 | Mon, 16 Mar 2026 23:04:19 GMT | Every Cyber Headline Is a Leadership Test — But Not for the Reason You Think | Harper Knox | [Read More](https://medium.com/p/6a13165b7ef4) |
 | Mon, 16 Mar 2026 22:49:53 GMT | haveibeenpwned-Service von Angreifern | Prtheus | [Read More](https://medium.com/p/1e90fa0c07c3) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 17:13:46 GMT | Everyone Is Using AI for Bug Bounty in 2026. Almost Nobody Is Using It Correctly. | R.H Rizvi | [Read More](https://medium.com/p/fe7e3356010e) |
 | Mon, 16 Mar 2026 17:13:34 GMT | The Fresher’s Trap: Why the Most Prepared Beginners Are the Last Ones to Get Paid | R.H Rizvi | [Read More](https://medium.com/p/a69b11c5d9b7) |
 | Mon, 16 Mar 2026 17:11:14 GMT | Why DeFi Needs Vault Infrastructure: From Manual Chasing to Automated Capital Systems | Mukeshrana | [Read More](https://medium.com/p/d9a9c6d3a385) |
-| Mon, 16 Mar 2026 17:07:45 GMT | How I Cleared the Google Cloud Professional Cloud Security Engineer (PCSE) Exam | Rishi | [Read More](https://medium.com/p/f0c2b32a7de3) |
-| Mon, 16 Mar 2026 17:04:16 GMT | Information Security: Protecting Data in the Digital Age | Lavaniasaurav | [Read More](https://medium.com/p/b1d0093c5c60) |
-| Mon, 16 Mar 2026 16:59:15 GMT | They Don’t Need a Warrant. They Just Buy Your Data — And AI Does the Rest. | Robot Crime blog | [Read More](https://medium.com/p/527794db245e) |
-| Mon, 16 Mar 2026 16:53:50 GMT | My SC-900 Journey — Learning Microsoft Security Fundamentals | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/dc90361b7f03) |
-| Mon, 16 Mar 2026 16:53:07 GMT | Understanding OAuth Security by Building a Vulnerable Lab (and Fixing It with PKCE) | Ashutosh Hacks | [Read More](https://medium.com/p/4dd32a3e0960) |
-| Mon, 16 Mar 2026 16:50:59 GMT | Claude Skills & AI-Powered Cybersecurity: The Complete Guide to Building Intelligent Security… | Fazal | [Read More](https://medium.com/p/7bb7e9d14c8e) |
-| Mon, 16 Mar 2026 16:45:33 GMT | Designing Blockchain Systems: What Smart Contract Tutorials Don’t Tell You (Part 2) | Tomasz Klapsia | [Read More](https://medium.com/p/e754c9690ff1) |
-| Mon, 16 Mar 2026 16:35:28 GMT | Hackerlar Nasıl Düşünür? | Ali Yaşe | [Read More](https://medium.com/p/d3a2b31cf4ca) |
-| Mon, 16 Mar 2026 16:31:35 GMT | Veri Sızıntıları Nasıl Olur? | Ali Yaşe | [Read More](https://medium.com/p/458116e5181d) |
-| Mon, 16 Mar 2026 16:29:20 GMT | Data Center Operations Manager Position | Alexious Fiero | [Read More](https://medium.com/p/4d18aedcac2a) |
-| Mon, 16 Mar 2026 16:23:57 GMT | I Thought Cloud Storage Was Safe… Until I Learned These 5 Simple Mistakes | Panstag | [Read More](https://medium.com/p/3eb3740c715a) |
-| Mon, 16 Mar 2026 16:20:34 GMT | HTB CPTS Review 2026 | Charles-Thibault Sanchez | [Read More](https://medium.com/p/849d2e1b9b27) |
-| Mon, 16 Mar 2026 16:17:59 GMT | Why Standard Role Systems Break in Multi-Tenant SaaS and What We Built Instead | Suraj Biswas | [Read More](https://medium.com/p/135c24e1ddcd) |
-| Mon, 16 Mar 2026 16:08:12 GMT | I Investigated a Suspicious Domain and Found Its Entire Infrastructure ! | Paritosh | [Read More](https://medium.com/p/26fb38552680) |
-| Mon, 16 Mar 2026 16:03:26 GMT | Quantifying Cyber Risk: Leveraging CRQ and FAIR for Informed Insurance Decisions | Edwin Covert | [Read More](https://medium.com/p/293a52f73b99) |
-| Mon, 16 Mar 2026 16:03:21 GMT | Before You Hack Anything: The Information Gathering Techniques Every Ethical Hacker Must Know | Chhetrinikita | [Read More](https://medium.com/p/944fdae7f8f7) |
-| Mon, 16 Mar 2026 16:01:02 GMT | Hypervisor Based Defense | Idov31 | [Read More](https://medium.com/p/b235f3d27a59) |
-| Mon, 16 Mar 2026 16:00:49 GMT | Day One of Learning python, Cybersecurity basics(Date:-16 March 2026) | Aman | [Read More](https://medium.com/p/d6491ce953c1) |
-| Mon, 16 Mar 2026 15:53:43 GMT | AI Is Eating Open Source From the Inside | Ahmed Ibrahim | [Read More](https://medium.com/p/aa3234d1dc01) |
