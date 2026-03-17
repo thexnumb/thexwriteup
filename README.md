@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 17:43:44 GMT | OWASP Explained: Web Security has a Rulebook. It’s Free. Most People Ignore It. | D3ad_M3m0r13s | [Read More](https://medium.com/p/534f5a4e6459) |
+| Tue, 17 Mar 2026 17:41:43 GMT | Capstone | Agungspace | [Read More](https://medium.com/p/9a593c700620) |
+| Tue, 17 Mar 2026 17:41:09 GMT | TryHackMe — Dev Diaries Solution | Ajay Manivannan | [Read More](https://medium.com/p/1e52c04dbf54) |
+| Tue, 17 Mar 2026 17:38:16 GMT | “Building a Stealthy Keylogger in Python for System Monitoring” | Akhilswami | [Read More](https://medium.com/p/a6976e4641b4) |
+| Tue, 17 Mar 2026 17:37:09 GMT | what’s is cloud? | Kevin Ronex | [Read More](https://medium.com/p/b1362586c2f6) |
+| Tue, 17 Mar 2026 17:37:08 GMT | How QA Can Help Teams Learn from Mistakes | Higor Mesquita | [Read More](https://medium.com/p/afa202b37682) |
+| Tue, 17 Mar 2026 17:35:47 GMT | Security Company in Mississauga: Reliable Protection for Your Business & Property | Leobarandgrill | [Read More](https://medium.com/p/605fa7eafe0a) |
+| Tue, 17 Mar 2026 17:34:33 GMT | Day Two(2) of Learning python, Cybersecurity basics(Date:-17 March 2026) | Aman | [Read More](https://medium.com/p/c24b5aea53dd) |
+| Tue, 17 Mar 2026 17:34:02 GMT | Yapay Zeka Siber Saldırılarda Kullanılıyor mu? | Ali Yaşe | [Read More](https://medium.com/p/48c7f3b16c1c) |
+| Tue, 17 Mar 2026 17:31:04 GMT | We Needed a Benchmark That Didn’t Exist. So We Built One. | Jost Faganel | [Read More](https://medium.com/p/f9333c9e4a2b) |
+| Tue, 17 Mar 2026 17:30:30 GMT | IDOR: The Simple Parameter Change That Can Expose Someone Else’s Data | Monika sharma | [Read More](https://medium.com/p/4248c634b952) |
+| Tue, 17 Mar 2026 17:29:53 GMT | Siber Savaş Nedir? | Ali Yaşe | [Read More](https://medium.com/p/458d8e332d80) |
+| Tue, 17 Mar 2026 17:27:49 GMT | Zero Trust Is Failing - And Most Organizations Don’t Realize It | Dr. Shashi Karhail | [Read More](https://medium.com/p/70f86ece1b28) |
+| Tue, 17 Mar 2026 17:24:35 GMT | Vanta: Security Compliance, Made Simple | D3ad_M3m0r13s | [Read More](https://medium.com/p/c061bdf03a26) |
+| Tue, 17 Mar 2026 17:08:51 GMT | Ever wondered how “Unsubscribe” works in emails — without you ever logging in? | Asitwaghmare | [Read More](https://medium.com/p/86a867f69c6b) |
+| Tue, 17 Mar 2026 17:04:18 GMT | 5 Warning Signs Your Company’s Network Is About To Fail | Gaogroupdmi | [Read More](https://medium.com/p/8d8506fc5bf5) |
+| Tue, 17 Mar 2026 16:44:26 GMT | API Security - The Attack Surface Your Team Built But Never Fully Mapped | Rufus Kehinde | [Read More](https://medium.com/p/88073e7f1a93) |
+| Tue, 17 Mar 2026 16:42:07 GMT | Cap — HackTheBox Writeup | Dhia Eddine Marzouki | [Read More](https://medium.com/p/9a4a1d6ef614) |
+| Tue, 17 Mar 2026 16:41:01 GMT | Building a Privacy Mixer in Solidity: Why My Merkle Proofs Were Failing | rdin777 | [Read More](https://medium.com/p/5d0065636308) |
 | Tue, 17 Mar 2026 16:28:39 GMT | Tryhackme : attacktive directory | Boxieee | [Read More](https://medium.com/p/67718d0bbd7d) |
 | Tue, 17 Mar 2026 16:23:58 GMT | Why Dark Web Link Verification Matters for Safer Browsing | Tor BBB | [Read More](https://medium.com/p/3c84134aa936) |
 | Tue, 17 Mar 2026 16:22:10 GMT | Dev Diaries — TryHackMe CTF Writeup | Jatin Gahlot | [Read More](https://medium.com/p/e4425b5dd499) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Mar 2026 12:23:23 GMT | 10 OAuth Misconfiguration Exploits Every Pentester Must Master | Candy Wong | [Read More](https://medium.com/p/ef1f71324faf) |
 | Tue, 17 Mar 2026 12:18:14 GMT | ISO 27001 Lead Auditor Salary, Exam & Career Path | Manish Shetty | [Read More](https://medium.com/p/9094708b0999) |
 | Tue, 17 Mar 2026 12:12:35 GMT | Reconnaissance: The Art of Knowing Before Striking | Sukuti.sh | [Read More](https://medium.com/p/50de43f7bda9) |
-| Tue, 17 Mar 2026 12:02:06 GMT | 6 Best Practices to Reduce Shadow Data in an Enterprise | Maruti Techlabs | [Read More](https://medium.com/p/911a1df084d0) |
-| Tue, 17 Mar 2026 12:01:30 GMT | How Hackers Discover Exposed IoT Devices on the Internet | ghostyjoe | [Read More](https://medium.com/p/846baf616335) |
-| Tue, 17 Mar 2026 11:58:49 GMT | Information Technology Translation Services in Phoenix for Global Business Success | Phoenix Translation | [Read More](https://medium.com/p/5c73612be7c9) |
-| Tue, 17 Mar 2026 11:57:45 GMT | The CISO’s Secret Weapon That Most Organizations Are Still Missing Today | Niyati Daftary | [Read More](https://medium.com/p/9a15c2b54e65) |
-| Tue, 17 Mar 2026 11:52:44 GMT | Best Rotating Residential Proxy Providers (2026 Guide) | Annabelle | [Read More](https://medium.com/p/19adf309ab41) |
-| Tue, 17 Mar 2026 11:52:31 GMT | E-Signature Consent Management: Privacy Compliance in 2026 | Rohitgarg | [Read More](https://medium.com/p/34a98f4a0745) |
-| Tue, 17 Mar 2026 11:52:27 GMT | Starting Out in Cybersecurity and AI as a Business Student — Part 1 | Mina C. | [Read More](https://medium.com/p/0169eb87f1ad) |
-| Tue, 17 Mar 2026 11:42:46 GMT | The AD Breach Chronicles - Part 1: Active Directory Initial Access and Foothold Strategies | Abdulrahman Hassan | [Read More](https://medium.com/p/f337de532f53) |
-| Tue, 17 Mar 2026 11:41:55 GMT | Built-In Windows Security That Stops Exploits Fast | Geoffrey Wenger | [Read More](https://medium.com/p/3bb69f18ed26) |
-| Tue, 17 Mar 2026 11:34:09 GMT | Before You Install OpenClaw AI — Understand the Risks to Your Business | Alex Hughes | [Read More](https://medium.com/p/7fca1145313f) |
-| Tue, 17 Mar 2026 11:34:04 GMT | Quantum AI Part 3: Your Face is the New Password (And That’s Scary! ) | Digital Jasoosi Kavach ️ | [Read More](https://medium.com/p/c138778a782a) |
-| Tue, 17 Mar 2026 11:34:02 GMT | Ethical Hacking & Reverse Engineering — Week 1 | Ayoade Akintayo (PhD) | [Read More](https://medium.com/p/7d36eec9c4de) |
-| Tue, 17 Mar 2026 11:25:33 GMT | How Blockchain, Web3, and AI Will Transform Business in the Future | Maximizesonu | [Read More](https://medium.com/p/80358ffa4524) |
-| Tue, 17 Mar 2026 11:23:09 GMT | Alice left the Wonderland | Costin Raiu | [Read More](https://medium.com/p/41f3988aedb8) |
-| Tue, 17 Mar 2026 11:21:00 GMT | 4 Billion Devices Run His Code. He Said He Was Drowning. A Spy Was Already Inside. | Can Artuc | [Read More](https://medium.com/p/a21f022502bf) |
-| Tue, 17 Mar 2026 11:20:41 GMT | Kingdom of Saudi Arabia Cybersecurity Market: Growth, Trends & Future Outlook (2031) | Technology Geek | [Read More](https://medium.com/p/da15bbbf048e) |
-| Tue, 17 Mar 2026 11:18:28 GMT | Smarter Automation Starts with the Right Talent | n8ndevelopers | [Read More](https://medium.com/p/64490f9ddf0e) |
-| Tue, 17 Mar 2026 11:17:58 GMT | ️ AI Guardrails: Zero to Hero | Shubham Kakkar | [Read More](https://medium.com/p/e16329b32ccd) |
-| Tue, 17 Mar 2026 11:09:26 GMT | Enterprise Security in 2026 Isn’t Optional — It’s Survival. | Prishusoft | [Read More](https://medium.com/p/e9012ebf1dc2) |
