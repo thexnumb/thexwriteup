@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Mar 2026 07:56:58 GMT | Why Hiring a City Locksmith in London Is Important for Property Security | N1locksmithsltd | [Read More](https://medium.com/p/78235c0c5a4b) |
+| Tue, 17 Mar 2026 07:54:02 GMT | Anatomy of OT Devices in the Electric Power Sector: Every Device, Every Risk | MrDuc | [Read More](https://medium.com/p/8b7e655c030f) |
+| Tue, 17 Mar 2026 07:52:43 GMT | When Redis Turned Rogue: How a Hidden Lua Exploit Crashed Our Docker Infrastructure | Harris khan | [Read More](https://medium.com/p/8cbe93df7bf9) |
+| Tue, 17 Mar 2026 07:45:33 GMT | The Identity Crisis: tx.origin vs msg.sender | Tabrez Mukadam | [Read More](https://medium.com/p/df30b1f14b47) |
+| Tue, 17 Mar 2026 07:43:18 GMT | Control Drift: Why Your SOC 2 Compliance Can’t Keep Up With AI Written Code | Jost Faganel | [Read More](https://medium.com/p/9cce4e56e1a3) |
+| Tue, 17 Mar 2026 07:39:14 GMT | Top 5 Real-Life MITM Attacks That Shocked the Cybersecurity World | Shreyashettyctr | [Read More](https://medium.com/p/8044b051c139) |
+| Tue, 17 Mar 2026 07:33:16 GMT | My Journey Through MITM Attacks — Part 3: DHCPv6 Rogue Server & MITM6 | ofek789 | [Read More](https://medium.com/p/4f2afe1a2688) |
+| Tue, 17 Mar 2026 07:32:36 GMT | The Growing Demand for Cyber Security Professionals and How Training Can Help | logging security | [Read More](https://medium.com/p/aa95cd97f7ee) |
+| Tue, 17 Mar 2026 07:30:37 GMT | The Security of Connectivity: Why Integrated Systems Need Robust Cybersecurity in 2026 | AJAY KUMAR | [Read More](https://medium.com/p/84a350136d29) |
+| Tue, 17 Mar 2026 07:30:36 GMT | AI and Practical Training in Cloud Security | Aadarshkumar Jadhav | [Read More](https://medium.com/p/cff8dc997360) |
+| Tue, 17 Mar 2026 07:25:37 GMT | Ethical Hacking for Beginners —Ethical Hacking Learning Series Day 1: Understanding Hackers… | HusnaAnjum | [Read More](https://medium.com/p/fc8fb8713d6a) |
+| Tue, 17 Mar 2026 07:23:55 GMT | The “123456” Epidemic: Why We Still Can’t Quit Bad Passwords in 2026 | Tania Nunes | [Read More](https://medium.com/p/f5b75b53e029) |
+| Tue, 17 Mar 2026 07:15:36 GMT | Do you know where your data is tonight? | Sujon Al Mamun | [Read More](https://medium.com/p/937b0107f1ef) |
+| Tue, 17 Mar 2026 07:15:24 GMT | Tech Staffing That Helps Teams Move Faster Without Compromising Quality | Vbeyond Corporation | [Read More](https://medium.com/p/f513e1b444b6) |
+| Tue, 17 Mar 2026 07:14:27 GMT | Environment Health & Safety Market Size - Forecast 2026–2033 | NIkita Poplai | [Read More](https://medium.com/p/449f1208591f) |
 | Tue, 17 Mar 2026 07:02:51 GMT | Wrapping Sigstore, in-toto, and SLSA: Where Modern Supply-Chain Security Still Fails | Kalyan Tamarapalli | [Read More](https://medium.com/p/f47c53501329) |
 | Tue, 17 Mar 2026 06:56:26 GMT | 10 Common Problems Solved by Access Control Repairs in Naples | Ramco Protective | [Read More](https://medium.com/p/4f1a568e4290) |
 | Tue, 17 Mar 2026 06:47:50 GMT | Digital Public Infrastructure: The Foundation of Modern Digital Societies | Vijayakumar Manjunatha | [Read More](https://medium.com/p/7ecf09c5ab1f) |
@@ -99,18 +114,3 @@ Condolences, at this… | Ibrahim Alkaitawi | [Read More](https://medium.com/p/5
 | Mon, 16 Mar 2026 22:09:30 GMT | F#ck IT! | Melissa Kayce | [Read More](https://medium.com/p/66485bc70c4e) |
 | Mon, 16 Mar 2026 22:03:43 GMT | Securing Event-Sourced Financial Systems: From Encryption to Observability | Krzysztof Słomka | [Read More](https://medium.com/p/1994fd2466c5) |
 | Mon, 16 Mar 2026 22:03:39 GMT | Security Concepts Every Java Developer in Banking Should Master: Part 2 | Kalyani Dagde | [Read More](https://medium.com/p/b507c2ba8cd5) |
-| Mon, 16 Mar 2026 22:02:33 GMT | Architecting Security Into any Claw Framework: Isolation, Multi-tenancy & Safety for Enterprise… | Vamshidhar Pandrapagada | [Read More](https://medium.com/p/0c4e523beb71) |
-| Mon, 16 Mar 2026 21:58:02 GMT | From Retention to Retrieval: Managing Data Age with Snowflake Storage Lifecycle Policies | Pascal Pfäffle | [Read More](https://medium.com/p/ce1c0e2bbe10) |
-| Mon, 16 Mar 2026 21:51:59 GMT | Reusing a One-Time Coupon Code Multiple Times (Business Logic Bug) | Tarekmohamed | [Read More](https://medium.com/p/664766230b53) |
-| Mon, 16 Mar 2026 21:51:48 GMT | Beyond Kubernetes Secrets: Hardening EKS with AWS Secrets Manager and CSI | Dickson Victor Omasi | [Read More](https://medium.com/p/b6e31d38e989) |
-| Mon, 16 Mar 2026 21:40:48 GMT | Your AI agent is insecure. | Caleb Cushing | [Read More](https://medium.com/p/579031f530db) |
-| Mon, 16 Mar 2026 21:31:00 GMT | In-House IT vs. Managed Services vs. Hybrid — The Cost Comparison Nobody Shows You | Allison Martin | [Read More](https://medium.com/p/f91bee4cfa49) |
-| Mon, 16 Mar 2026 21:27:32 GMT | The Canada–Japan Cyber Alliance: Inside a New Paradigm for Indo-Pacific Security | Tae Yeon Eom | [Read More](https://medium.com/p/6c0066ddc004) |
-| Mon, 16 Mar 2026 21:27:27 GMT | IDCA Exclusive Inside Look: Exploring the LinkedIn Data Center | International Data Center Authority | [Read More](https://medium.com/p/5d8c8fd38b47) |
-| Mon, 16 Mar 2026 21:26:00 GMT | 35+ and Thriving: Midlife Women’s Safety Net Secrets Smart Women Won’t Tell You | FloraReggie | [Read More](https://medium.com/p/1075eecfab7a) |
-| Mon, 16 Mar 2026 21:22:34 GMT | Standalone/Stack Switch Upgrade Tech Notes | Selcuktufan | [Read More](https://medium.com/p/363d86867f89) |
-| Mon, 16 Mar 2026 21:14:37 GMT | China’s forging chips, OpenAI’s eyeing ads, and Amazon’s wiring the next AI cloud | Qandeel Akhtar | [Read More](https://medium.com/p/ccf44b0e0073) |
-| Mon, 16 Mar 2026 21:12:55 GMT | Final Task — IDN Cyberdefense | Yrddry | [Read More](https://medium.com/p/3e40e59f4631) |
-| Mon, 16 Mar 2026 20:59:58 GMT | PYRAX’s TriStream: 3-Stream Consensus Beats Single Validation | PYRAX Network | [Read More](https://medium.com/p/6788b255b3f3) |
-| Mon, 16 Mar 2026 20:46:45 GMT | HackableII: A Purple Team Breakdown from Anonymous FTP to Root and Everything Security Onion Saw. | jrm360sec | [Read More](https://medium.com/p/86424c34b4f9) |
-| Mon, 16 Mar 2026 20:40:55 GMT | SQL Injection - The 25-Year-Old Vulnerability That Is Still Emptying Databases in 2025 | Rufus Kehinde | [Read More](https://medium.com/p/3afc59c31d6e) |
