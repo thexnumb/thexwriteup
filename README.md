@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 10:56:00 GMT | Cybersecurity is Not What You Think It Is (And It Took Me Too Long to Realize That) | Nancy Muriithi | [Read More](https://medium.com/p/317bc2ad2b49) |
+| Wed, 18 Mar 2026 10:55:45 GMT | A Guide to Server-Side Template Injection (SSTI) | Redfox Security | [Read More](https://medium.com/p/c0d681d74ae5) |
+| Wed, 18 Mar 2026 10:42:13 GMT | How a Small Auth0 Misconfig Can Bankrupt Your Business | toast | [Read More](https://medium.com/p/221cb7640a17) |
+| Wed, 18 Mar 2026 10:40:32 GMT | picoCTF Challenge Writeup: Riddle Registry (Step-by-Step Guide) | Ali Hasil | [Read More](https://medium.com/p/309038603f43) |
+| Wed, 18 Mar 2026 10:36:01 GMT | AI-Powered Malware Network Traffic Analyzer: A Smart Approach to Modern Cybersecurity | Chandan Raj | [Read More](https://medium.com/p/16f204328cf2) |
+| Wed, 18 Mar 2026 10:34:39 GMT | How CCTV System Installation Protects Property | IT Solution Dubai | [Read More](https://medium.com/p/c57e3cdd29e8) |
+| Wed, 18 Mar 2026 10:31:39 GMT | Cyber Security Course in Pune with Placement Support | Tanuja Patil | [Read More](https://medium.com/p/8ba01758ac10) |
+| Wed, 18 Mar 2026 10:31:00 GMT | Lab →ProfileHub →IDOR in User Profile API ; I Found an IDOR Bug That Leaked Admin Data - Here's How | Mauro | [Read More](https://medium.com/p/377468f3edb0) |
+| Wed, 18 Mar 2026 10:08:40 GMT | Storm-2561 VPN Credential Theft Campaign | Dice | [Read More](https://medium.com/p/cbfcbdb31494) |
+| Wed, 18 Mar 2026 10:05:41 GMT | Cheshire Cat Security: WhatsApp View Once Is Completely Broken — And WhatsApp Won’t Fix It | Tal Be'ery | [Read More](https://medium.com/p/e0bbeef15872) |
+| Wed, 18 Mar 2026 10:03:26 GMT | Web Security Series #7 — Exploiting Blind SQL Injection via Session Cookies | Laibakashif | [Read More](https://medium.com/p/8a82bc573211) |
+| Wed, 18 Mar 2026 09:58:47 GMT | picoCTF Keygenme (Reverse Engineering) | Ismail mahmoudi | [Read More](https://medium.com/p/a85703bc0daf) |
+| Wed, 18 Mar 2026 09:58:27 GMT | Integrating Suricata with Wazuh: Monitoring Network Traffic and Detecting ICMP Activity | Richard Akintola | [Read More](https://medium.com/p/45f5f62772b3) |
+| Wed, 18 Mar 2026 09:58:19 GMT | Take Control of Azure Cloud Spend with FinOps and Azure Verified Modules | Brian Veldman | [Read More](https://medium.com/p/15db7be90884) |
+| Wed, 18 Mar 2026 09:58:08 GMT | What is Subnetting and why it matters in security ? Day — 9 | 0xSmit | [Read More](https://medium.com/p/d26655a947b4) |
+| Wed, 18 Mar 2026 09:56:57 GMT | Half of cyberattacks start in your browser; 10 practical protections for UK SMEs in 2026 - Latest… | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/e62b696d1243) |
+| Wed, 18 Mar 2026 09:56:00 GMT | Securing the Autonomous Frontier: A Deep Dive into Multi-Agent Systems Security (MASS) | Alessandro Pignati | [Read More](https://medium.com/p/a3a2f6552455) |
+| Wed, 18 Mar 2026 09:56:00 GMT | How SMEs Can Map Controls Between Frameworks | Gaurav Shukla | [Read More](https://medium.com/p/f33f5630639a) |
 | Wed, 18 Mar 2026 09:51:13 GMT | Cybersecurity Program Development Made Simple for Scaling Companies | Elena Fischer | [Read More](https://medium.com/p/2dee9ebc3a91) |
 | Wed, 18 Mar 2026 09:46:14 GMT | AI vs Cyber Threats: How Smart Routers Protect Your Network | New Trend Computer Networks | [Read More](https://medium.com/p/ab814e0b9990) |
+| Wed, 18 Mar 2026 09:44:30 GMT | VulnHub DC2 | IO | [Read More](https://medium.com/p/9b82731a9593) |
 | Wed, 18 Mar 2026 09:39:42 GMT | Authentication is Not Just Passwords | Mahad Aqeel | [Read More](https://medium.com/p/a652f17d2091) |
 | Wed, 18 Mar 2026 09:27:13 GMT | A Design to Prevent IdP Token Exposure — Introducing the Identity Token Broker (ITB) | Tsubasa A | [Read More](https://medium.com/p/f615d7e96f39) |
 | Wed, 18 Mar 2026 09:25:37 GMT | Paradoks Transparansi: Membedah Siasat Privasi dalam Budaya Kolektif | Kristiara Rinanti | [Read More](https://medium.com/p/095f8afc2035) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 04:14:56 GMT | Insurance CIAM: Considerations & Best Practices | Auth Thoughts Editors | [Read More](https://medium.com/p/52d8d44d6bdc) |
 | Wed, 18 Mar 2026 04:11:17 GMT | How I Found a Critical Authentication Bypass in a Lightning Network SDK (CVSS 9.8) | Hacker MD | [Read More](https://medium.com/p/79f76eda1d84) |
 | Wed, 18 Mar 2026 04:11:10 GMT | How I Discovered a Complete CSRF Protection Bypass on a Major Crypto Exchange And What Happened… | Hacker MD | [Read More](https://medium.com/p/10c7fc794324) |
-| Wed, 18 Mar 2026 04:08:58 GMT | AI Security for Enterprise | Pituphong Yavirach, ISC2 CC | [Read More](https://medium.com/p/592e2ddc8c4e) |
-| Wed, 18 Mar 2026 04:05:49 GMT | CVE-2026-33171: Path Traversal in Statamic CMS | Sneh Bavarva | [Read More](https://medium.com/p/2680edd307cd) |
-| Wed, 18 Mar 2026 04:05:37 GMT | From SOC Analyst to the C-Suite: The Career Translation Problem Nobody Talks About | A.J. Voss | [Read More](https://medium.com/p/5178c20ae14c) |
-| Wed, 18 Mar 2026 04:04:49 GMT | Iran — US/Israel Conflict, how is it impacted Malaysia Organisation? | StampedeOps | [Read More](https://medium.com/p/8ec8e3535959) |
-| Wed, 18 Mar 2026 04:01:21 GMT | Navigating the Cybersecurity Software Market: Top Trends 2026 | cyber tech | [Read More](https://medium.com/p/1fab8fb87f11) |
-| Wed, 18 Mar 2026 04:01:02 GMT | When SQL Injection Hides Behind Encoding — A Blind SQLi That Automation Missed | Xp10it | [Read More](https://medium.com/p/2b74f9bb64e7) |
-| Wed, 18 Mar 2026 04:00:52 GMT | 20260318_AI Security Vulnerability check Using Claude & Kali MCP | MinJün | [Read More](https://medium.com/p/3eed3f49cddb) |
-| Wed, 18 Mar 2026 03:58:02 GMT | Why NVIDIA NemoClaw Matters for Privacy and Security in AI | al ️ | [Read More](https://medium.com/p/9435d7be3f2d) |
-| Wed, 18 Mar 2026 03:51:32 GMT | The vulnerability of writing | Ana Goncalves | [Read More](https://medium.com/p/561f853a30ce) |
-| Wed, 18 Mar 2026 03:48:45 GMT | CyCTF Luxor Reverse Write-up 2026 : CyAuth | VampireXRay | [Read More](https://medium.com/p/c5f7ff993f84) |
-| Wed, 18 Mar 2026 03:38:24 GMT | Why Every Web Developer Must Understand Cybersecurity | Mubashir | [Read More](https://medium.com/p/e2f77c23ca84) |
-| Wed, 18 Mar 2026 02:39:17 GMT | Pentest na prática — Thales (parte 2) | Ryan | [Read More](https://medium.com/p/b1d52a886d68) |
-| Wed, 18 Mar 2026 01:50:45 GMT | Application Gateway vs Front Door vs NVA: como escolher o padrão certo para apps enterprise no… | Leonardo Mariano Côco | [Read More](https://medium.com/p/8d4a74427fe9) |
-| Wed, 18 Mar 2026 01:43:30 GMT | In cybersecurity, every dollar counts. Where should the first $100K go? | Raman | [Read More](https://medium.com/p/7c39b5421f2d) |
-| Wed, 18 Mar 2026 01:27:19 GMT | Dumbest Security Fails #4: Panera Bread’s Neglect | Snarky Lisa | [Read More](https://medium.com/p/354bb1e88b71) |
-| Wed, 18 Mar 2026 01:14:47 GMT | Web Design, App Development, and IT Solutions for Small Businesses, Startups, and Tech Companies in… | Arthour PenDragon | [Read More](https://medium.com/p/6a7d0f41e999) |
-| Wed, 18 Mar 2026 01:11:33 GMT | Detect Malicious Attachment Execution Chain from Office Apps (MITRE ATT&CK T1566) | Bharath Bandari | [Read More](https://medium.com/p/1ef7c82db279) |
-| Wed, 18 Mar 2026 01:05:41 GMT | A True Solution for Low Credit | Richard Gilman | [Read More](https://medium.com/p/2547cf28dae1) |
-| Wed, 18 Mar 2026 01:03:36 GMT | The Volt-Ghost Project — 2026 | Hamza Mahmoud Ahmed | [Read More](https://medium.com/p/40b0956617c3) |
