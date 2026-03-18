@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 04:33:34 GMT | OpenClaw: AI Revolution, Tech Fad, or Security Nightmare? | Aditya Murthy | [Read More](https://medium.com/p/5c671cd74ba5) |
+| Wed, 18 Mar 2026 04:31:36 GMT | TRYHACKME- DEV DIARIES | Longlifegreatcharacter | [Read More](https://medium.com/p/3d7e14afb8bc) |
+| Wed, 18 Mar 2026 04:31:01 GMT | Burp Suite for Beginners: The First Tool You Need to Learn Cybersecurity | Ajay Yadav | [Read More](https://medium.com/p/29cfe04f4c18) |
+| Wed, 18 Mar 2026 04:30:39 GMT | Beyond SaaS: Agentic Systems, AI Factories, and What Comes Next | Dave Patten | [Read More](https://medium.com/p/9b3a6197cd3f) |
+| Wed, 18 Mar 2026 04:30:24 GMT | AI Input Manipulation and Prompt Injection: The #1 Security Vulnerability Nobody Is Fully Solving | Dfaults | [Read More](https://medium.com/p/d824c517a663) |
+| Wed, 18 Mar 2026 04:27:20 GMT | AI Is Making Hackers Faster Than Ever. And Nobody Is Ready. | - Crypto - Health - Cyber - Tech | [Read More](https://medium.com/p/5b7f1c9486f4) |
+| Wed, 18 Mar 2026 04:23:39 GMT | Why Is Independent IT Consultancy the Smartest Investment a Business Can Make Right Now? | Tcitservices | [Read More](https://medium.com/p/841a37425888) |
+| Wed, 18 Mar 2026 04:16:08 GMT | Security System Companies in Oman: Protecting Businesses and Properties with Advanced Technology | Sangeetha | [Read More](https://medium.com/p/cb7748a6b1c0) |
+| Wed, 18 Mar 2026 04:14:56 GMT | Insurance CIAM: Considerations & Best Practices | Auth Thoughts Editors | [Read More](https://medium.com/p/52d8d44d6bdc) |
+| Wed, 18 Mar 2026 04:11:17 GMT | How I Found a Critical Authentication Bypass in a Lightning Network SDK (CVSS 9.8) | Hacker MD | [Read More](https://medium.com/p/79f76eda1d84) |
+| Wed, 18 Mar 2026 04:11:10 GMT | How I Discovered a Complete CSRF Protection Bypass on a Major Crypto Exchange And What Happened… | Hacker MD | [Read More](https://medium.com/p/10c7fc794324) |
+| Wed, 18 Mar 2026 04:08:58 GMT | AI Security for Enterprise | Pituphong Yavirach, ISC2 CC | [Read More](https://medium.com/p/592e2ddc8c4e) |
+| Wed, 18 Mar 2026 04:05:49 GMT | CVE-2026-33171: Path Traversal in Statamic CMS | Sneh Bavarva | [Read More](https://medium.com/p/2680edd307cd) |
+| Wed, 18 Mar 2026 04:05:37 GMT | From SOC Analyst to the C-Suite: The Career Translation Problem Nobody Talks About | A.J. Voss | [Read More](https://medium.com/p/5178c20ae14c) |
+| Wed, 18 Mar 2026 04:04:49 GMT | Iran — US/Israel Conflict, how is it impacted Malaysia Organisation? | StampedeOps | [Read More](https://medium.com/p/8ec8e3535959) |
+| Wed, 18 Mar 2026 04:01:21 GMT | Navigating the Cybersecurity Software Market: Top Trends 2026 | cyber tech | [Read More](https://medium.com/p/1fab8fb87f11) |
+| Wed, 18 Mar 2026 04:01:02 GMT | When SQL Injection Hides Behind Encoding — A Blind SQLi That Automation Missed | Xp10it | [Read More](https://medium.com/p/2b74f9bb64e7) |
+| Wed, 18 Mar 2026 04:00:52 GMT | 20260318_AI Security Vulnerability check Using Claude & Kali MCP | MinJün | [Read More](https://medium.com/p/3eed3f49cddb) |
+| Wed, 18 Mar 2026 03:58:02 GMT | Why NVIDIA NemoClaw Matters for Privacy and Security in AI | al ️ | [Read More](https://medium.com/p/9435d7be3f2d) |
+| Wed, 18 Mar 2026 03:51:32 GMT | The vulnerability of writing | Ana Goncalves | [Read More](https://medium.com/p/561f853a30ce) |
+| Wed, 18 Mar 2026 03:48:45 GMT | CyCTF Luxor Reverse Write-up 2026 : CyAuth | VampireXRay | [Read More](https://medium.com/p/c5f7ff993f84) |
+| Wed, 18 Mar 2026 03:38:24 GMT | Why Every Web Developer Must Understand Cybersecurity | Mubashir | [Read More](https://medium.com/p/e2f77c23ca84) |
+| Wed, 18 Mar 2026 02:39:17 GMT | Pentest na prática — Thales (parte 2) | Ryan | [Read More](https://medium.com/p/b1d52a886d68) |
 | Wed, 18 Mar 2026 01:50:45 GMT | Application Gateway vs Front Door vs NVA: como escolher o padrão certo para apps enterprise no… | Leonardo Mariano Côco | [Read More](https://medium.com/p/8d4a74427fe9) |
 | Wed, 18 Mar 2026 01:43:30 GMT | In cybersecurity, every dollar counts. Where should the first $100K go? | Raman | [Read More](https://medium.com/p/7c39b5421f2d) |
 | Wed, 18 Mar 2026 01:27:19 GMT | Dumbest Security Fails #4: Panera Bread’s Neglect | Snarky Lisa | [Read More](https://medium.com/p/354bb1e88b71) |
@@ -90,26 +113,3 @@ In mid-March 2026… | Shiyanthan Shiya | [Read More](https://medium.com/p/3782c
 | Tue, 17 Mar 2026 19:15:07 GMT | Why We Brought Ethereum’s Most Important Signing Standard to Casper | Michael Steuer | [Read More](https://medium.com/p/235aab6e24b2) |
 | Tue, 17 Mar 2026 19:14:24 GMT | Integrating Security Concepts Synthesis: The Comprehension of a Strategy. | Farid Mehtizada | [Read More](https://medium.com/p/886423a835a0) |
 | Tue, 17 Mar 2026 19:11:27 GMT | Factory Acceptance Testing (FAT) for Modern Control Systems | Asad Naeem | [Read More](https://medium.com/p/b13231ba6e42) |
-| Tue, 17 Mar 2026 19:10:59 GMT | How to Secure Vibe Coded Apps: A Practical Guide to AI-Era DevSecOps | Spencer Roffey | [Read More](https://medium.com/p/a30977804f77) |
-| Tue, 17 Mar 2026 19:09:04 GMT | Hands-On Network Security Analysis Using Zeek & Wireshark | Abhijeet M | [Read More](https://medium.com/p/ad708c4d750c) |
-| Tue, 17 Mar 2026 19:08:37 GMT | The 7 Scams Targeting Seniors Right Now | Western Stronghold – Tech Help for Seniors | [Read More](https://medium.com/p/60e158a4d896) |
-| Tue, 17 Mar 2026 19:05:44 GMT | The Norsk Hydro Masterclass: Why “Manual” is the Sexiest Word in OT Security | BlastWave | [Read More](https://medium.com/p/beacda0e09ee) |
-| Tue, 17 Mar 2026 19:04:58 GMT | New Threat On The Horizon: Quantum Computers | Mohammad Javed, Tech Lead | [Read More](https://medium.com/p/5c12e02d0952) |
-| Tue, 17 Mar 2026 19:04:37 GMT | Security by Obscurity: An Effective Second Line of Defense or a False Premise? | Farid Mehtizada | [Read More](https://medium.com/p/73c5e024e0f6) |
-| Tue, 17 Mar 2026 19:01:00 GMT | Automatically Detect New Cyber Threats Before Your Team Reads the News | Neetrox | [Read More](https://medium.com/p/1274f3eebd18) |
-| Tue, 17 Mar 2026 18:57:35 GMT | Secure by Design: Designing Security Before it is a Problem. | Mehtizadehf | [Read More](https://medium.com/p/c4ff7007151d) |
-| Tue, 17 Mar 2026 18:52:51 GMT | AD: Basic Enumeration | Muhammad Idham Cholid | [Read More](https://medium.com/p/6d8523ed999d) |
-| Tue, 17 Mar 2026 18:38:34 GMT | The Dark Web: What Really Exists Beyond Google | Abhijeet kumawat | [Read More](https://medium.com/p/00d2315134be) |
-| Tue, 17 Mar 2026 18:37:58 GMT | Day 28: Emotional intelligence is not enough | Kirstyn Liang | [Read More](https://medium.com/p/04fefb0a64ac) |
-| Tue, 17 Mar 2026 18:34:28 GMT | ☕ You Didn’t Get Hacked. You Logged In. | Shawn micheal | [Read More](https://medium.com/p/e0d2b11d8ba5) |
-| Tue, 17 Mar 2026 18:31:24 GMT | Bug Bounty: Como funciona? | Dayanne Santos | [Read More](https://medium.com/p/777a6a27af39) |
-| Tue, 17 Mar 2026 18:30:00 GMT | URGENT for Every CCTV Owner in India — April 1, 2026 Deadline! | Shiyanthan Shiya | [Read More](https://medium.com/p/ec4ad8ea46ad) |
-| Tue, 17 Mar 2026 18:23:17 GMT | Why the Internet Feels More Fake Than Ever Before | Hafizbilaltariq | [Read More](https://medium.com/p/24a8d1391255) |
-| Tue, 17 Mar 2026 18:17:38 GMT | How We Built a Browser Camera Permission Demo — A Step-by-Step Security Guide | Dania Usman | [Read More](https://medium.com/p/7010b58989aa) |
-| Tue, 17 Mar 2026 18:07:45 GMT | How to Install Fail2Ban on a VPS ? | BuyVPS.us | [Read More](https://medium.com/p/fea3e0d0ed9f) |
-| Tue, 17 Mar 2026 18:02:50 GMT | CPU, Memory and Performance Explained Simply | Aariz Khan | [Read More](https://medium.com/p/c1004d3fd81e) |
-| Tue, 17 Mar 2026 17:43:44 GMT | OWASP Explained: Web Security has a Rulebook. It’s Free. Most People Ignore It. | D3ad_M3m0r13s | [Read More](https://medium.com/p/534f5a4e6459) |
-| Tue, 17 Mar 2026 17:41:43 GMT | Capstone | Agungspace | [Read More](https://medium.com/p/9a593c700620) |
-| Tue, 17 Mar 2026 17:41:09 GMT | TryHackMe — Dev Diaries Solution | Ajay Manivannan | [Read More](https://medium.com/p/1e52c04dbf54) |
-| Tue, 17 Mar 2026 17:38:16 GMT | “Building a Stealthy Keylogger in Python for System Monitoring” | Akhilswami | [Read More](https://medium.com/p/a6976e4641b4) |
-| Tue, 17 Mar 2026 17:37:09 GMT | what’s is cloud? | Kevin Ronex | [Read More](https://medium.com/p/b1362586c2f6) |
