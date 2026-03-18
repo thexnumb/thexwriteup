@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 18:35:30 GMT | Wenn die Bank Google braucht: Ein Schriftwechsel mit der Bank WIR | David Brenner | [Read More](https://medium.com/p/882c06ff48cf) |
+| Wed, 18 Mar 2026 18:35:28 GMT | OWASP Top 10 for LLM Applications (2025) | SOCFortress | [Read More](https://medium.com/p/7cbb304aabf0) |
+| Wed, 18 Mar 2026 18:31:47 GMT | Chasing Carmen: How a 90s Game Prepared Me for Cyber Intelligence | Revathi Margasagayam | [Read More](https://medium.com/p/c4303ff77770) |
+| Wed, 18 Mar 2026 18:31:01 GMT | picoCTF — byp4ss3d Writeup | Anubhav_bora | [Read More](https://medium.com/p/1f0cdd9ce4a0) |
+| Wed, 18 Mar 2026 18:28:30 GMT | Secure Windows Endpoint Automation: Orchestrating NAS Backups with Ansible and WinRM | Danalache Emanuel | [Read More](https://medium.com/p/bca172084a47) |
+| Wed, 18 Mar 2026 18:27:55 GMT | LeakNet Ransomware: ClickFix to Deno Extortion Chain | Dice | [Read More](https://medium.com/p/f3d4695227a0) |
+| Wed, 18 Mar 2026 18:26:39 GMT | How I Found a CSRF Vulnerability That Could Take Over Student Accounts on an Educational Platform | Secliptor | [Read More](https://medium.com/p/6e65bc70816f) |
+| Wed, 18 Mar 2026 18:26:00 GMT | What I Avoid Writing About and Why | LikhithWrites | [Read More](https://medium.com/p/cac6aeaa9b08) |
+| Wed, 18 Mar 2026 18:22:53 GMT | GDPR: The Law That Changed How the Internet Handles Your Data | D3ad_M3m0r13s | [Read More](https://medium.com/p/4b440c948a3f) |
+| Wed, 18 Mar 2026 18:20:44 GMT | ISO 27001 & 27002: The Gold Standard of Information Security, Explained | D3ad_M3m0r13s | [Read More](https://medium.com/p/c53146947307) |
+| Wed, 18 Mar 2026 18:20:43 GMT | The Inference Inflection: Why NVIDIA’s GTC 2026 Just Rewrote the Rules of the AI Economy | Ana Bildea, PhD | [Read More](https://medium.com/p/045da4750cda) |
+| Wed, 18 Mar 2026 18:11:31 GMT | Cyber Insurance for Your Small Business: Unlock Easy Protection Now | Manishbhatia | [Read More](https://medium.com/p/61ad23ca3546) |
+| Wed, 18 Mar 2026 18:07:13 GMT | Why Codex Security Doesn’t Include SAST — A Shift in Application Security | MD. RASHEDUL ISLAM | [Read More](https://medium.com/p/68ab274951ae) |
+| Wed, 18 Mar 2026 18:01:41 GMT | When Old Breaches Meet New Code: Why Historical Leaks Still Matter | Iski | [Read More](https://medium.com/p/b4e6eb8ac607) |
+| Wed, 18 Mar 2026 17:58:37 GMT | Knowledge Lab Sprint: A Practical Framework for Turning Learning into Execution | Camila Barreto | [Read More](https://medium.com/p/3dcc232892c2) |
 | Wed, 18 Mar 2026 17:26:46 GMT | You Were Never Supposed to See That: A Beginner’s Guide to IDOR Vulnerabilities | Yakoubmaddou | [Read More](https://medium.com/p/b81854f65fdd) |
 | Wed, 18 Mar 2026 17:26:34 GMT | Proving Grounds — Practice — XposedAPI | Makoyi | [Read More](https://medium.com/p/770d48008e3a) |
 | Wed, 18 Mar 2026 17:23:56 GMT | OverTheWire : Wargames — Bandit(0–10) | Pooja J | [Read More](https://medium.com/p/0a6dddb690ae) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 12:37:34 GMT | HackGPT and AI-Powered Penetration Testing: What Enterprise Leaders Need to Know | Technijian | [Read More](https://medium.com/p/412703274ad8) |
 | Wed, 18 Mar 2026 12:32:16 GMT | #  İnsan Beyni Hacklənə bilərmi? Neural Chip, AI və Gələcəyin Kibertəhlükəsizliyi | cybershieldy.com | [Read More](https://medium.com/p/9bd930e2918e) |
 | Wed, 18 Mar 2026 12:27:21 GMT | You are not your bullshit. | Tom Pappalardo | [Read More](https://medium.com/p/6a036be28be5) |
-| Wed, 18 Mar 2026 12:27:03 GMT | Which eKYC Solution Should You Choose | Biometrics Report | [Read More](https://medium.com/p/9a222b3816cd) |
-| Wed, 18 Mar 2026 12:24:31 GMT | Your Repository Is the Runtime Contract for Agents | David Ahmann | [Read More](https://medium.com/p/a06a6d91f3fe) |
-| Wed, 18 Mar 2026 12:18:30 GMT | One Password, Multiple Accounts: A Digital Disaster Waiting to Happen | Harveen Kaur | [Read More](https://medium.com/p/a5aec5cab2bf) |
-| Wed, 18 Mar 2026 12:18:01 GMT | I Tried to Break an AI’s Security Across 8 Levels Here’s What I Learned About Prompt Injection | Swastik | [Read More](https://medium.com/p/83aa1520d343) |
-| Wed, 18 Mar 2026 12:02:19 GMT | Could Iran Paralyze the US with Large-Scale Cyberattacks? | Yuriy Nayda | [Read More](https://medium.com/p/c2c23ddc08ca) |
-| Wed, 18 Mar 2026 12:01:01 GMT | How to Answer the Security Question in Your Series A Pitch | Cyphersilhouette | [Read More](https://medium.com/p/72cab71bff74) |
-| Wed, 18 Mar 2026 12:01:01 GMT | Case Study: Historic Trade Routes and Information Symmetry | Adeline Swires | [Read More](https://medium.com/p/54344935b8ed) |
-| Wed, 18 Mar 2026 11:46:47 GMT | The Way Linux File Permissions Work and How They Can Affect the Security Factor | Raunak Jha | [Read More](https://medium.com/p/0a6eb4a67b98) |
-| Wed, 18 Mar 2026 11:31:32 GMT | picoCTF Writeup — Day 2 - Task 2: Log Hunt (Step-by-Step Walkthrough) | Ali Hasil | [Read More](https://medium.com/p/33e977c44aef) |
-| Wed, 18 Mar 2026 11:30:07 GMT | The AI Arms Race in Cybersecurity: When Attackers and Defenders Both Wield the Same Weapon | Zineb Hidila, PhD | [Read More](https://medium.com/p/76b3f4373acb) |
-| Wed, 18 Mar 2026 11:29:43 GMT | OWASP Top Ten #9 & #10: Finishing Strong | Angela | [Read More](https://medium.com/p/269a38069967) |
-| Wed, 18 Mar 2026 11:27:32 GMT | The real risk isn’t AI identity. It’s permanent biometric infrastructure | Paul Walsh | [Read More](https://medium.com/p/2253daf66cc8) |
-| Wed, 18 Mar 2026 11:22:57 GMT | Everyone Wants Cyber Resilience. Few Want to Fund the Engineering Behind It. | Peter Hillier/Halton | [Read More](https://medium.com/p/a9e4d7d4741d) |
-| Wed, 18 Mar 2026 11:21:39 GMT | 7 Wireshark Filters That Instantly Make You Look Like a Network Expert | Fateyaly | [Read More](https://medium.com/p/e49eab741dfe) |
-| Wed, 18 Mar 2026 11:16:38 GMT | Shift Left Security: Using SCA Early in the Development Lifecycle | Kartiksharma | [Read More](https://medium.com/p/b7f1552dbcc3) |
