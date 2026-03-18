@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 11:31:32 GMT | picoCTF Writeup — Day 2 - Task 2: Log Hunt (Step-by-Step Walkthrough) | Ali Hasil | [Read More](https://medium.com/p/33e977c44aef) |
+| Wed, 18 Mar 2026 11:30:07 GMT | The AI Arms Race in Cybersecurity: When Attackers and Defenders Both Wield the Same Weapon | Zineb Hidila, PhD | [Read More](https://medium.com/p/76b3f4373acb) |
+| Wed, 18 Mar 2026 11:27:32 GMT | The real risk isn’t AI identity. It’s permanent biometric infrastructure | Paul Walsh | [Read More](https://medium.com/p/2253daf66cc8) |
+| Wed, 18 Mar 2026 11:22:57 GMT | Everyone Wants Cyber Resilience. Few Want to Fund the Engineering Behind It. | Peter Hillier/Halton | [Read More](https://medium.com/p/a9e4d7d4741d) |
+| Wed, 18 Mar 2026 11:21:39 GMT | 7 Wireshark Filters That Instantly Make You Look Like a Network Expert | Fateyaly | [Read More](https://medium.com/p/e49eab741dfe) |
+| Wed, 18 Mar 2026 11:16:38 GMT | Shift Left Security: Using SCA Early in the Development Lifecycle | Kartiksharma | [Read More](https://medium.com/p/b7f1552dbcc3) |
+| Wed, 18 Mar 2026 11:16:00 GMT | The First Outbound Connection That Made Me Investigate a “Quiet” Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/0afd897f4711) |
+| Wed, 18 Mar 2026 11:14:05 GMT | Smart Automation That Actually Works | n8ndevelopers | [Read More](https://medium.com/p/b94e3f944f33) |
+| Wed, 18 Mar 2026 11:13:34 GMT | Hospitals Are Running on Borrowed Time — and Hackers Know It | Sazi Dladla | [Read More](https://medium.com/p/ee840ac01920) |
+| Wed, 18 Mar 2026 11:12:48 GMT | 5 Hidden Ways AI Is Controlling Your Daily Life | Nk | [Read More](https://medium.com/p/52bdc9c02aa5) |
+| Wed, 18 Mar 2026 11:07:35 GMT | I Audited 5 AI Chatbot Platforms. Every Single One Had Critical Security Gaps. | Dmitri Surchis | [Read More](https://medium.com/p/e17324ccc65b) |
+| Wed, 18 Mar 2026 11:04:40 GMT | AI Driven Security Operations Gain Momentum as Surf AI Secures Major Funding | Jas | [Read More](https://medium.com/p/36deb51b332e) |
+| Wed, 18 Mar 2026 10:57:19 GMT | Nessus - TryHackMe Answers | Ryca | [Read More](https://medium.com/p/079e41fdc2ec) |
 | Wed, 18 Mar 2026 10:56:00 GMT | Cybersecurity is Not What You Think It Is (And It Took Me Too Long to Realize That) | Nancy Muriithi | [Read More](https://medium.com/p/317bc2ad2b49) |
 | Wed, 18 Mar 2026 10:55:45 GMT | A Guide to Server-Side Template Injection (SSTI) | Redfox Security | [Read More](https://medium.com/p/c0d681d74ae5) |
 | Wed, 18 Mar 2026 10:42:13 GMT | How a Small Auth0 Misconfig Can Bankrupt Your Business | toast | [Read More](https://medium.com/p/221cb7640a17) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 05:05:51 GMT | TryHackMe — LazyAdmin CTF | Daemanic | [Read More](https://medium.com/p/e88cd767850e) |
 | Wed, 18 Mar 2026 05:05:20 GMT | Missing Person — Tryhackme | sivakanesh | [Read More](https://medium.com/p/5aa2db8ba323) |
 | Wed, 18 Mar 2026 04:55:46 GMT | AUTHENTIC DUMPA Tracks 1 2 ATM CC cloned cards Bank Cashapp Wu TRANSFERS Criminal Record cleared… | Gonz | [Read More](https://medium.com/p/d766d0d5f1fa) |
-| Wed, 18 Mar 2026 04:44:49 GMT | Ethical Hacking & Cybersecurity: Defending the Digital Future | Vishnu U | [Read More](https://medium.com/p/24e876f4640f) |
-| Wed, 18 Mar 2026 04:42:31 GMT | Six Basic Acts Every Indian Citizen Must Know | Yogesh Kumar | [Read More](https://medium.com/p/fd24d328704b) |
-| Wed, 18 Mar 2026 04:33:34 GMT | OpenClaw: AI Revolution, Tech Fad, or Security Nightmare? | Aditya Murthy | [Read More](https://medium.com/p/5c671cd74ba5) |
-| Wed, 18 Mar 2026 04:31:36 GMT | TRYHACKME- DEV DIARIES | Longlifegreatcharacter | [Read More](https://medium.com/p/3d7e14afb8bc) |
-| Wed, 18 Mar 2026 04:31:01 GMT | Burp Suite for Beginners: The First Tool You Need to Learn Cybersecurity | Ajay Yadav | [Read More](https://medium.com/p/29cfe04f4c18) |
-| Wed, 18 Mar 2026 04:30:39 GMT | Beyond SaaS: Agentic Systems, AI Factories, and What Comes Next | Dave Patten | [Read More](https://medium.com/p/9b3a6197cd3f) |
-| Wed, 18 Mar 2026 04:30:24 GMT | AI Input Manipulation and Prompt Injection: The #1 Security Vulnerability Nobody Is Fully Solving | Dfaults | [Read More](https://medium.com/p/d824c517a663) |
-| Wed, 18 Mar 2026 04:27:20 GMT | AI Is Making Hackers Faster Than Ever. And Nobody Is Ready. | - Crypto - Health - Cyber - Tech | [Read More](https://medium.com/p/5b7f1c9486f4) |
-| Wed, 18 Mar 2026 04:23:39 GMT | Why Is Independent IT Consultancy the Smartest Investment a Business Can Make Right Now? | Tcitservices | [Read More](https://medium.com/p/841a37425888) |
-| Wed, 18 Mar 2026 04:16:08 GMT | Security System Companies in Oman: Protecting Businesses and Properties with Advanced Technology | Sangeetha | [Read More](https://medium.com/p/cb7748a6b1c0) |
-| Wed, 18 Mar 2026 04:14:56 GMT | Insurance CIAM: Considerations & Best Practices | Auth Thoughts Editors | [Read More](https://medium.com/p/52d8d44d6bdc) |
-| Wed, 18 Mar 2026 04:11:17 GMT | How I Found a Critical Authentication Bypass in a Lightning Network SDK (CVSS 9.8) | Hacker MD | [Read More](https://medium.com/p/79f76eda1d84) |
-| Wed, 18 Mar 2026 04:11:10 GMT | How I Discovered a Complete CSRF Protection Bypass on a Major Crypto Exchange And What Happened… | Hacker MD | [Read More](https://medium.com/p/10c7fc794324) |
