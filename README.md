@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 09:51:13 GMT | Cybersecurity Program Development Made Simple for Scaling Companies | Elena Fischer | [Read More](https://medium.com/p/2dee9ebc3a91) |
+| Wed, 18 Mar 2026 09:46:14 GMT | AI vs Cyber Threats: How Smart Routers Protect Your Network | New Trend Computer Networks | [Read More](https://medium.com/p/ab814e0b9990) |
+| Wed, 18 Mar 2026 09:39:42 GMT | Authentication is Not Just Passwords | Mahad Aqeel | [Read More](https://medium.com/p/a652f17d2091) |
+| Wed, 18 Mar 2026 09:27:13 GMT | A Design to Prevent IdP Token Exposure — Introducing the Identity Token Broker (ITB) | Tsubasa A | [Read More](https://medium.com/p/f615d7e96f39) |
+| Wed, 18 Mar 2026 09:25:37 GMT | Paradoks Transparansi: Membedah Siasat Privasi dalam Budaya Kolektif | Kristiara Rinanti | [Read More](https://medium.com/p/095f8afc2035) |
+| Wed, 18 Mar 2026 09:23:45 GMT | Why Most Phishing Sites Come Back After You Take Them Down | Jay Romer | [Read More](https://medium.com/p/da2eb71974b3) |
+| Wed, 18 Mar 2026 09:21:22 GMT | How to Stop Contact Form Spam in WordPress | Smit Pipaliya | [Read More](https://medium.com/p/59b8f7c93040) |
+| Wed, 18 Mar 2026 09:20:17 GMT | Identifying Critical Security Flaws: A Case Study on a Buggy Web Application | Tooba Siddiqui | [Read More](https://medium.com/p/ea27d03b4fb0) |
+| Wed, 18 Mar 2026 09:20:02 GMT | How We Set Up a Personal VPN With Hiddify on Two Servers in Germany | Alex Fomin | [Read More](https://medium.com/p/fc4f1a5e0273) |
+| Wed, 18 Mar 2026 09:18:04 GMT | Investigating with Splunk — TryHackMe Walkthrough | Md. Saiful Islam Rayhan | [Read More](https://medium.com/p/935bba273408) |
+| Wed, 18 Mar 2026 09:16:00 GMT | Slide to the Right: Strategic Job Sequencing with C# | Namir Sagheenanajar | [Read More](https://medium.com/p/7b1366e718bb) |
+| Wed, 18 Mar 2026 09:15:52 GMT | 5 Free Tools Every Pentester Should Bookmark in 2026 — One of Them Is an AI | Fabian Peña | [Read More](https://medium.com/p/82bc77f25f78) |
+| Wed, 18 Mar 2026 09:13:50 GMT | Cyber Threat Roundup: The 3 Biggest Cyberattacks of March 2026 You Need to Know | Kislay Kumar | [Read More](https://medium.com/p/8f228be7a00e) |
+| Wed, 18 Mar 2026 09:06:59 GMT | OpenClaw Was Never Ready for Production. NVIDIA’s NemoClaw Changes That | Agent Native | [Read More](https://medium.com/p/268ce03ded95) |
+| Wed, 18 Mar 2026 09:01:01 GMT | ️‍♂️ OSINT Investigation Writeup Missing Person (Try Hack Me) | Newt3n | [Read More](https://medium.com/p/ec9948c232db) |
+| Wed, 18 Mar 2026 08:59:27 GMT | How to Test for File Upload Vulnerabilities: A Practical Guide | Wnellygrace | [Read More](https://medium.com/p/6b50e2629a5e) |
 | Wed, 18 Mar 2026 08:44:11 GMT | Your Data Wasn’t “Hacked” — It Was Slowly Collected | Devarshi Acharya | [Read More](https://medium.com/p/3ae1536d35f6) |
 | Wed, 18 Mar 2026 08:42:02 GMT | Post-Quantum Cryptography: What It Means for Hardware, Networks, and Global Security | K. Vijaya Lakshmi | [Read More](https://medium.com/p/3806ca1107b6) |
 | Wed, 18 Mar 2026 08:34:04 GMT | AI-Powered Incident Response: Reducing Detection-to-Containment Time | NetWitness | [Read More](https://medium.com/p/3e0e6e782e1c) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 01:11:33 GMT | Detect Malicious Attachment Execution Chain from Office Apps (MITRE ATT&CK T1566) | Bharath Bandari | [Read More](https://medium.com/p/1ef7c82db279) |
 | Wed, 18 Mar 2026 01:05:41 GMT | A True Solution for Low Credit | Richard Gilman | [Read More](https://medium.com/p/2547cf28dae1) |
 | Wed, 18 Mar 2026 01:03:36 GMT | The Volt-Ghost Project — 2026 | Hamza Mahmoud Ahmed | [Read More](https://medium.com/p/40b0956617c3) |
-| Wed, 18 Mar 2026 01:02:06 GMT | Proving Grounds — Practice — flow | Makoyi | [Read More](https://medium.com/p/9adf7b51d144) |
-| Wed, 18 Mar 2026 01:00:40 GMT | Shielding Your Business from DDoS Attacks with Web Security | Pamela Salon | [Read More](https://medium.com/p/1f512f829862) |
-| Wed, 18 Mar 2026 00:54:01 GMT | ‍ AD Got Cooked: From SMB Enum to Azure AD Connect Abuse | Jabaribrown | [Read More](https://medium.com/p/f6554d2bcafe) |
-| Wed, 18 Mar 2026 00:47:16 GMT | I.T. Study Games, the best way to study for certifications in 2026. | IT Study Games | [Read More](https://medium.com/p/79294ad1583b) |
-| Tue, 17 Mar 2026 23:43:28 GMT | Your AI Assistant Shouldn’t Be Trained on Your Secrets — Here’s the Fix | Azazul | [Read More](https://medium.com/p/0660d8d28e26) |
-| Tue, 17 Mar 2026 23:37:45 GMT | A Robot Got “Arrested”… While Others Learned Kung Fu — Are We Laughing at the Wrong Thing? | Snooptsz | [Read More](https://medium.com/p/bf22286b137b) |
-| Tue, 17 Mar 2026 23:32:35 GMT | Before you plug them in: How to assess a vendor’s security posture | Adeoluwa Obadofin | [Read More](https://medium.com/p/5a4e53945543) |
-| Tue, 17 Mar 2026 23:19:27 GMT | Extract writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/573dd3e2f15e) |
-| Tue, 17 Mar 2026 23:13:05 GMT | From Misconfiguration to SYSTEM: Windows Privilege Escalation in a Real Enterprise Scenario (HTB… | Moustafa Abdelmaksoud | [Read More](https://medium.com/p/b955e96a1d27) |
-| Tue, 17 Mar 2026 23:12:17 GMT | Compliance Is Not Assurance: The Gap No One Owns | Alice Lane | [Read More](https://medium.com/p/62bdc5f9c76d) |
-| Tue, 17 Mar 2026 23:06:00 GMT | Beyond OpenClaw: Protecting Configuration Secrets in Enterprise AI Agent Gateway | Peter Bi | [Read More](https://medium.com/p/ba9d541a9802) |
-| Tue, 17 Mar 2026 22:54:48 GMT | Configuring Burp Proxy, Installing CA Certificates & Intercepting Your First HTTP Request | Yamini Yadav_369 | [Read More](https://medium.com/p/fda2e112c067) |
-| Tue, 17 Mar 2026 22:54:41 GMT | You Need This FREE CyberSecurity Tool | Shahzaib | [Read More](https://medium.com/p/224db1e049a9) |
-| Tue, 17 Mar 2026 22:52:23 GMT | The Dirty Truth About Hiring Armed Security Guards in Los Angeles Nobody Tells You | Uniworth security | [Read More](https://medium.com/p/e881b83aaaf6) |
-| Tue, 17 Mar 2026 22:46:50 GMT | TryHackMe SOC Analyst Road Map Part-12 | safa kaya | [Read More](https://medium.com/p/e2c2f6cf4ddb) |
-| Tue, 17 Mar 2026 22:42:07 GMT | Cyborg — TryHackMe - Complete Walkthrough & Security Analysis | Roshan Rajbanshi | [Read More](https://medium.com/p/225397864cbb) |
