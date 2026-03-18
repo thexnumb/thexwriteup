@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 19:50:21 GMT | The Impact of AI on Cybersecurity | Ronan McGilligan | [Read More](https://medium.com/p/01ac99516d9c) |
+| Wed, 18 Mar 2026 19:47:32 GMT | Secuview 8MP Full HD Outdoor IP Camera - Water-proof & ONVIF. | secuview | [Read More](https://medium.com/p/aa89ff3495c7) |
+| Wed, 18 Mar 2026 19:46:56 GMT | Secuview 6MP Outdoor IP PTZ Camera - Auto-Focus Lens & Weatherproof. | secuview | [Read More](https://medium.com/p/3c1cd6f459cc) |
+| Wed, 18 Mar 2026 19:43:24 GMT | SaaS Apps: The Blind Spot in Enterprise Security | JSOC IT BLOG | [Read More](https://medium.com/p/d47a36d8eaef) |
+| Wed, 18 Mar 2026 19:41:36 GMT | $4 Gas — But a Lot of It | Dima Mikhaylov | [Read More](https://medium.com/p/e409b3d96e1e) |
+| Wed, 18 Mar 2026 19:41:10 GMT | Virtual IPS(DNAT-FORTİGATE) | Selcuktufan | [Read More](https://medium.com/p/8c219938736e) |
+| Wed, 18 Mar 2026 19:41:00 GMT | Infrastructure as a Security Frontier: Winning a 150 XTZ Bounty in the Tezos Ecosystem | rdin777 | [Read More](https://medium.com/p/d7d9cbf17142) |
+| Wed, 18 Mar 2026 19:36:32 GMT | Stop Chaining Tools. Recon Was Never Meant to Work This Way. | Hira Barton | [Read More](https://medium.com/p/57e2104f2463) |
+| Wed, 18 Mar 2026 19:35:36 GMT | Chief Information Security Officer Global Email List — Connect With the Leaders Who Protect the… | Forez Data | [Read More](https://medium.com/p/2c43abcba5fe) |
+| Wed, 18 Mar 2026 19:30:36 GMT | Sensitive Data Exposure - What Your Application Is Leaking Without Anyone Noticing | Rufus Kehinde | [Read More](https://medium.com/p/24e63f2fe157) |
+| Wed, 18 Mar 2026 19:15:32 GMT | When the State Teaches You to Bypass the State | Dan Korovtch | [Read More](https://medium.com/p/eb6c0815004d) |
+| Wed, 18 Mar 2026 19:07:57 GMT | Footprinting and Reconnaissance: The Art of Information Gathering in Ethical Hacking | HeisKris | [Read More](https://medium.com/p/fe27b7ed417d) |
+| Wed, 18 Mar 2026 19:05:48 GMT | OSCP Proving Grounds - Vault - Hard - Active Directory | SilentExploit | [Read More](https://medium.com/p/d97be5a9fff0) |
+| Wed, 18 Mar 2026 19:03:57 GMT | Beyond the 403: Engineering a Generative Time-Sink for Automated Reconnaissance | bhuvannetam | [Read More](https://medium.com/p/b15728f76ac0) |
+| Wed, 18 Mar 2026 18:58:15 GMT | MIT 6.1600: Foundations of Computer Security — My Learning Journey | Hugo | [Read More](https://medium.com/p/8605c4021df2) |
 | Wed, 18 Mar 2026 18:35:30 GMT | Wenn die Bank Google braucht: Ein Schriftwechsel mit der Bank WIR | David Brenner | [Read More](https://medium.com/p/882c06ff48cf) |
 | Wed, 18 Mar 2026 18:35:28 GMT | OWASP Top 10 for LLM Applications (2025) | SOCFortress | [Read More](https://medium.com/p/7cbb304aabf0) |
 | Wed, 18 Mar 2026 18:31:47 GMT | Chasing Carmen: How a 90s Game Prepared Me for Cyber Intelligence | Revathi Margasagayam | [Read More](https://medium.com/p/c4303ff77770) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 13:38:42 GMT | CyberSploit1 — OffSec Proving Grounds Play Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/6615a4ff5b73) |
 | Wed, 18 Mar 2026 13:34:39 GMT | AI is now helping Attackers | Dr. Shashi Karhail | [Read More](https://medium.com/p/0bdc8ad6117d) |
 | Wed, 18 Mar 2026 13:34:03 GMT | Exploiting SQL Injection to Bypass Login Authentication - PortSwigger Lab Write-up | shivam sharma | [Read More](https://medium.com/p/3e5329d8689d) |
-| Wed, 18 Mar 2026 13:27:06 GMT | Warfare | Abdul Sadiq | [Read More](https://medium.com/p/f9af84987cff) |
-| Wed, 18 Mar 2026 13:26:21 GMT | How Hackers Crack Every Single Game | Rahulworkspace | [Read More](https://medium.com/p/46c4d59797df) |
-| Wed, 18 Mar 2026 13:12:50 GMT | TryHackMe Writeup: Pwning the Thompson Machine . | Amrou bekhedda | [Read More](https://medium.com/p/c8a9bf3669e1) |
-| Wed, 18 Mar 2026 13:12:01 GMT | RegPwn: When Accessibility Features Become an Attack Vector | Sharanraju | [Read More](https://medium.com/p/9e9bcd72323b) |
-| Wed, 18 Mar 2026 13:06:11 GMT | What Happens When an AI Agent Has to Post Collateral Before It Acts | Selfradiance | [Read More](https://medium.com/p/28e098198936) |
-| Wed, 18 Mar 2026 13:04:43 GMT | MesaNet (OTP Bypass) (Hard) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/4438695b5330) |
-| Wed, 18 Mar 2026 13:03:35 GMT | ️ HTB Academy Walkthrough: Windows Privilege Escalation — Pillaging (From Foothold to Admin) | Psychopath-Traveler | [Read More](https://medium.com/p/afd9a75e8ccd) |
-| Wed, 18 Mar 2026 13:01:01 GMT | The Air-Gapped Chronicles: The Insurance Gap — Building Liability-Resistant AI Without Coverage | Piyoosh Rai | [Read More](https://medium.com/p/647399637099) |
-| Wed, 18 Mar 2026 13:01:00 GMT | Underrated Cybersecurity Certifications That Can Make Your CV Standout | Tech Skill School | [Read More](https://medium.com/p/e63b284a1702) |
-| Wed, 18 Mar 2026 12:58:40 GMT | Burp Storage Issue? Here’s the Actual Fix | Likith Teki | [Read More](https://medium.com/p/6bea4520da92) |
-| Wed, 18 Mar 2026 12:46:33 GMT | YÜK DENGELEYİCİ(LOAD BALANCER) DÜNYASINDA iRULE FARKI | Mustafa AVDAN | [Read More](https://medium.com/p/29b7f0380ad1) |
-| Wed, 18 Mar 2026 12:44:47 GMT | Track and Trace Technology: Revolutionizing Real-Time Monitoring | Prachiti Appbell | [Read More](https://medium.com/p/1392f461fb37) |
-| Wed, 18 Mar 2026 12:37:34 GMT | HackGPT and AI-Powered Penetration Testing: What Enterprise Leaders Need to Know | Technijian | [Read More](https://medium.com/p/412703274ad8) |
-| Wed, 18 Mar 2026 12:32:16 GMT | #  İnsan Beyni Hacklənə bilərmi? Neural Chip, AI və Gələcəyin Kibertəhlükəsizliyi | cybershieldy.com | [Read More](https://medium.com/p/9bd930e2918e) |
-| Wed, 18 Mar 2026 12:27:21 GMT | You are not your bullshit. | Tom Pappalardo | [Read More](https://medium.com/p/6a036be28be5) |
