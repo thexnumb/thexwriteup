@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 14:34:33 GMT | File Inclusion Zafiyetleri: LFI ve RFI Nedir, Nasıl Çalışır ve Nasıl Önlenir? | Emre | [Read More](https://medium.com/p/eb908ace057d) |
+| Wed, 18 Mar 2026 14:34:00 GMT | From Vulnerability to Resilience: Hardening an Apache Tomcat Server (Hands-on Security Walkthrough) | Umeshpandeybtech | [Read More](https://medium.com/p/efc4d6677052) |
+| Wed, 18 Mar 2026 14:32:44 GMT | 7 Reports, 4 Duplicates, and Zero Bounties — My First 3 Months in Bug Bounty Hunting | Sreenivasan Sivakumar | [Read More](https://medium.com/p/f0fffeaf0844) |
+| Wed, 18 Mar 2026 14:31:23 GMT | Compartmentalizing Psychic Knowledge for National Security | Motion Bloc | [Read More](https://medium.com/p/c7957d5d5c0e) |
+| Wed, 18 Mar 2026 14:25:10 GMT | How Much Is Your Company’s Data Worth? And Can You Prove It? | Chandan Bhattacharya | [Read More](https://medium.com/p/ddfeb78d1d90) |
+| Wed, 18 Mar 2026 14:24:24 GMT | One Sloppy Incident Report Can Cost a Building Owner Millions | Building Security Services | [Read More](https://medium.com/p/7137d02d9e40) |
+| Wed, 18 Mar 2026 14:22:51 GMT | Introducing SafeQuant-SLM: Securing the Future of Compressed AI with the AEGIS-4 Protocol | Jessica  Sciammarelli | [Read More](https://medium.com/p/6f49dee1f2db) |
+| Wed, 18 Mar 2026 14:21:34 GMT | How to Get Experience in Cybersecurity and IT When You Have No Experience | Joshua Moses | [Read More](https://medium.com/p/008e84ad62dc) |
+| Wed, 18 Mar 2026 14:17:27 GMT | My SC-900 Learning Journey (Day 3) — Encryption, Hashing & Data Protection Fundamentals | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/d531df7d60d1) |
+| Wed, 18 Mar 2026 14:11:25 GMT | Medium and Me | Prajna Mohan Jois | [Read More](https://medium.com/p/524eb0b47512) |
+| Wed, 18 Mar 2026 14:10:49 GMT | Agentic AI vs. AI Agents: Cyber Resilience, Risk Surface ve Secure Architecture Yaklaşımı | Gizem Şahin | [Read More](https://medium.com/p/4814f722a5c2) |
+| Wed, 18 Mar 2026 14:09:29 GMT | End-to-End Supply Chain Security with Open Source Tools | Marshall Humble | [Read More](https://medium.com/p/b9f4b8e452e9) |
+| Wed, 18 Mar 2026 14:09:05 GMT | Difference Between Digital Marketing and Social Media Marketing. | Blesson Charles | [Read More](https://medium.com/p/e12f06a9988d) |
+| Wed, 18 Mar 2026 14:07:33 GMT | I Compiled 70+ Hacking Cheatsheets into One Repo | Ilias Georgopoulos | [Read More](https://medium.com/p/27d2d48a9a9c) |
+| Wed, 18 Mar 2026 14:04:33 GMT | Google Shows Websites… Shodan Shows Exposed Systems | Bugitrix | [Read More](https://medium.com/p/1fa29c886507) |
+| Wed, 18 Mar 2026 14:01:57 GMT | Is Your iPhone Really Safe? | Superasystem Inc. | [Read More](https://medium.com/p/d9ce7adcea70) |
+| Wed, 18 Mar 2026 13:53:45 GMT | Robust CI/CD Security on a Zero Dollar Budget | Marshall Humble | [Read More](https://medium.com/p/5f09c03de5a0) |
+| Wed, 18 Mar 2026 13:51:27 GMT | Vibe Coding My Way to a Better Pentesting Workflow | Ilias Georgopoulos | [Read More](https://medium.com/p/8303a6d0c813) |
+| Wed, 18 Mar 2026 13:42:43 GMT | Mr Robot Walkthrough By Ryan Cham | Ryan Cham Rui Yang | [Read More](https://medium.com/p/8e7500ff8d2e) |
+| Wed, 18 Mar 2026 13:38:42 GMT | CyberSploit1 — OffSec Proving Grounds Play Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/6615a4ff5b73) |
+| Wed, 18 Mar 2026 13:34:39 GMT | AI is now helping Attackers | Dr. Shashi Karhail | [Read More](https://medium.com/p/0bdc8ad6117d) |
+| Wed, 18 Mar 2026 13:34:03 GMT | Exploiting SQL Injection to Bypass Login Authentication - PortSwigger Lab Write-up | shivam sharma | [Read More](https://medium.com/p/3e5329d8689d) |
+| Wed, 18 Mar 2026 13:27:06 GMT | Warfare | Abdul Sadiq | [Read More](https://medium.com/p/f9af84987cff) |
+| Wed, 18 Mar 2026 13:26:21 GMT | How Hackers Crack Every Single Game | Rahulworkspace | [Read More](https://medium.com/p/46c4d59797df) |
 | Wed, 18 Mar 2026 13:12:50 GMT | TryHackMe Writeup: Pwning the Thompson Machine . | Amrou bekhedda | [Read More](https://medium.com/p/c8a9bf3669e1) |
 | Wed, 18 Mar 2026 13:12:01 GMT | RegPwn: When Accessibility Features Become an Attack Vector | Sharanraju | [Read More](https://medium.com/p/9e9bcd72323b) |
 | Wed, 18 Mar 2026 13:06:11 GMT | What Happens When an AI Agent Has to Post Collateral Before It Acts | Selfradiance | [Read More](https://medium.com/p/28e098198936) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 08:29:54 GMT | Dev Diaries Walkthrough — TryHackMe | bageera | [Read More](https://medium.com/p/d0c1f2356d72) |
 | Wed, 18 Mar 2026 08:29:38 GMT | What is the CIA Triad — and why every security decision starts here | Fahshadaju | [Read More](https://medium.com/p/e18d9a10a4de) |
 | Wed, 18 Mar 2026 08:28:15 GMT | Modernizing Legacy ERP: Secure Web Access Without a Costly Overhaul | TSplus Academy | [Read More](https://medium.com/p/f81da275f8fd) |
-| Wed, 18 Mar 2026 08:16:48 GMT | Cyber Security Training: Why It Is Essential for the Digital Age | Janbask Training | [Read More](https://medium.com/p/50ad0ef1cc98) |
-| Wed, 18 Mar 2026 08:16:21 GMT | Tugas Week 4 — Capstone | 0w0 | [Read More](https://medium.com/p/ab0f5183bd7d) |
-| Wed, 18 Mar 2026 08:14:15 GMT | Asia Pacific Penetration Testing Market Set for Strong Growth Through 2031 | Sheetalbhusari | [Read More](https://medium.com/p/8ce85df0e539) |
-| Wed, 18 Mar 2026 08:04:45 GMT | TryHackMe write-up: Attacktive Directory - by Rev3x | Rev3x | [Read More](https://medium.com/p/e5126e2a519b) |
-| Wed, 18 Mar 2026 07:55:55 GMT | Why Event Security Guards Are Critical for Large Gatherings | Jane Tang | [Read More](https://medium.com/p/3e5720e84409) |
-| Wed, 18 Mar 2026 07:52:36 GMT | Vibe Coding Got You Hacked? Here Are the 19 Vulnerabilities Nobody Warned You About | Madangopal | [Read More](https://medium.com/p/f0f899d61f78) |
-| Wed, 18 Mar 2026 07:47:48 GMT | The Importance of Cyber Security and protecting yourself online | Apex Digital Tech RSA | [Read More](https://medium.com/p/963fda97166d) |
-| Wed, 18 Mar 2026 07:46:25 GMT | CVE-2025–67031 — Remote Code Execution in ORSEE 3.1.0 | anthrax sec2pwn | [Read More](https://medium.com/p/2bfc71d6d5eb) |
-| Wed, 18 Mar 2026 07:43:53 GMT | Why Your Business Needs VAPT Services in India 2026: Benefits, Process & Cost | Komal Kumari | [Read More](https://medium.com/p/cc61221bd309) |
-| Wed, 18 Mar 2026 07:43:19 GMT | I Spent 3 Months Mapping Every Cybersecurity Career Path - Here Is the Honest Truth Nobody Tells… | SainT - Cybersecurity & Tech | [Read More](https://medium.com/p/829b439ad0ea) |
-| Wed, 18 Mar 2026 07:42:01 GMT | What is a Cyber Range? Complete Guide to Cybersecurity Training Platforms | cyber security Updates | [Read More](https://medium.com/p/e1860452b471) |
-| Wed, 18 Mar 2026 07:40:38 GMT | Enterprise Agentic AI Market Size to Expand Rapidly by 2033 | NIkita Poplai | [Read More](https://medium.com/p/f42bd83cb3a4) |
-| Wed, 18 Mar 2026 07:40:25 GMT | The Cryptography Concept Journey — SPN (Substitution Permutation Networks) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/ca062aa529c9) |
-| Wed, 18 Mar 2026 07:30:37 GMT | Cyber Security Director Database - DemandGridX Guide | Charucherry | [Read More](https://medium.com/p/47af6ea41eff) |
-| Wed, 18 Mar 2026 07:22:40 GMT | I Built a Hacking Tool That Thinks Like a Penetration Tester. Here’s How: | Abhramaitra | [Read More](https://medium.com/p/e98b67443da9) |
-| Wed, 18 Mar 2026 07:07:39 GMT | Why Infrastructure Failures Go Unnoticed Without Expert Monitoring | Gavin Ellis | [Read More](https://medium.com/p/fd81f4f44c75) |
-| Wed, 18 Mar 2026 07:05:34 GMT | Flag Command : HTB challenge (CTF) | Olina Kundu | [Read More](https://medium.com/p/61bd8f67f50d) |
-| Wed, 18 Mar 2026 06:58:15 GMT | Setting Up ML Based Anomaly Detection in Wazuh | Arslan Khawaja | [Read More](https://medium.com/p/badd567fe9da) |
-| Wed, 18 Mar 2026 06:55:02 GMT | Dev Diaries TryHackMe — Full Walkthrough (OSINT + Git History Leak) | m0ro23 | [Read More](https://medium.com/p/d5fb8004493f) |
-| Wed, 18 Mar 2026 06:51:52 GMT | The Rise of the Malicious Agent: Securing the 2026 Agentic Attack Surface | Dilshan Christopher | [Read More](https://medium.com/p/15716a820055) |
-| Wed, 18 Mar 2026 06:50:16 GMT | Detection Engineering in Real SOC: From Alerts to Attack Chains | Paritosh | [Read More](https://medium.com/p/d6da25151453) |
-| Wed, 18 Mar 2026 06:46:50 GMT | “Confused Deputy Attack” on Cloud Run | Aniket Agrawal | [Read More](https://medium.com/p/4e4037d8fc5d) |
-| Wed, 18 Mar 2026 06:46:10 GMT | Using Cloud Armor with an External CDN: Identifying the Real Client IP | mm | [Read More](https://medium.com/p/a34779c015d1) |
-| Wed, 18 Mar 2026 06:43:30 GMT | The Real Reason Companies Fail at Cybersecurity | Cybersphere Official | [Read More](https://medium.com/p/df76f2bd386f) |
