@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 05:51:51 GMT | AI Antivirus is Changing Everything — And It’s Free | Reflex AI | [Read More](https://medium.com/p/524f7c269571) |
+| Wed, 18 Mar 2026 05:50:21 GMT | Cadena Bitcoin vs Web3 Products: A Critical Analysis of Risks, Control, and Security | Cadena Bitcoin | [Read More](https://medium.com/p/7ed6574b34e8) |
+| Wed, 18 Mar 2026 05:49:26 GMT | CyCTF Luxor Reverse Write-up 2026 : BabyBlackBox | VampireXRay | [Read More](https://medium.com/p/6e7820e8ffe4) |
+| Wed, 18 Mar 2026 05:47:49 GMT | Access Token vs Refresh Token: Where to Store Them Securely (Without Breaking UX) | Rifat | [Read More](https://medium.com/p/fab5169506c3) |
+| Wed, 18 Mar 2026 05:42:50 GMT | What Is a SIEM? A Beginner’s Introduction to Security Information and Event Management | Nway Nway Zay Ya | [Read More](https://medium.com/p/0e625f50c038) |
+| Wed, 18 Mar 2026 05:41:57 GMT | Digital Marketing Companies in Dubai: Driving Business Growth in the Digital Era | Deepakglobosoft | [Read More](https://medium.com/p/aee6919bc804) |
+| Wed, 18 Mar 2026 05:36:55 GMT | How to start a career in Cybersecurity | Shanker Goud | [Read More](https://medium.com/p/65af8a3875a2) |
+| Wed, 18 Mar 2026 05:27:34 GMT | The Prime Number secret protecting your credit card | Arjun Hayes | [Read More](https://medium.com/p/20101988772f) |
+| Wed, 18 Mar 2026 05:19:36 GMT | The Bots Are Coming for Bug Bounties - and Nobody Agrees If That’s Good | Chethanmohan | [Read More](https://medium.com/p/32cb69445b8b) |
+| Wed, 18 Mar 2026 05:16:51 GMT | A Complete Guide to installing and configure Splunk Universal Forwarder on Windows (Step- by - Step) | Kola. Yeswanth | [Read More](https://medium.com/p/fb30f8e03eca) |
+| Wed, 18 Mar 2026 05:15:28 GMT | A poem to an unavailable man | Erin Mitchell | [Read More](https://medium.com/p/d1d6a636bbea) |
+| Wed, 18 Mar 2026 05:15:07 GMT | Digital Marketing in Kochi: Driving Business Growth in the Digital Era | Deepakglobosoft | [Read More](https://medium.com/p/ebe7f940c0b3) |
+| Wed, 18 Mar 2026 05:05:51 GMT | TryHackMe — LazyAdmin CTF | Daemanic | [Read More](https://medium.com/p/e88cd767850e) |
+| Wed, 18 Mar 2026 05:05:20 GMT | Missing Person — Tryhackme | sivakanesh | [Read More](https://medium.com/p/5aa2db8ba323) |
+| Wed, 18 Mar 2026 04:55:46 GMT | AUTHENTIC DUMPA Tracks 1 2 ATM CC cloned cards Bank Cashapp Wu TRANSFERS Criminal Record cleared… | Gonz | [Read More](https://medium.com/p/d766d0d5f1fa) |
+| Wed, 18 Mar 2026 04:44:49 GMT | Ethical Hacking & Cybersecurity: Defending the Digital Future | Vishnu U | [Read More](https://medium.com/p/24e876f4640f) |
+| Wed, 18 Mar 2026 04:42:31 GMT | Six Basic Acts Every Indian Citizen Must Know | Yogesh Kumar | [Read More](https://medium.com/p/fd24d328704b) |
 | Wed, 18 Mar 2026 04:33:34 GMT | OpenClaw: AI Revolution, Tech Fad, or Security Nightmare? | Aditya Murthy | [Read More](https://medium.com/p/5c671cd74ba5) |
 | Wed, 18 Mar 2026 04:31:36 GMT | TRYHACKME- DEV DIARIES | Longlifegreatcharacter | [Read More](https://medium.com/p/3d7e14afb8bc) |
 | Wed, 18 Mar 2026 04:31:01 GMT | Burp Suite for Beginners: The First Tool You Need to Learn Cybersecurity | Ajay Yadav | [Read More](https://medium.com/p/29cfe04f4c18) |
@@ -96,20 +113,3 @@ In mid-March 2026… | Shiyanthan Shiya | [Read More](https://medium.com/p/3782c
 | Tue, 17 Mar 2026 20:13:04 GMT | Someone Just Pushed Your API Keys to GitHub. You Have Minutes Before the Bots Find Them. | Yusuf Seyitoğlu | [Read More](https://medium.com/p/42d68b4344e3) |
 | Tue, 17 Mar 2026 20:12:47 GMT | Burp Storage Issue? Here’s the Actual Fix | Likith Teki | [Read More](https://medium.com/p/a4749a0e19ca) |
 | Tue, 17 Mar 2026 19:59:28 GMT | Why Your Indian Business Needs More Than Just a Firewall: A Deep Dive into VAPT Services in India | Shazeb EyeQ | [Read More](https://medium.com/p/c828c4226a9a) |
-| Tue, 17 Mar 2026 19:58:49 GMT | Add Authentication to Next.js With One Line of Code | MonoCloud | [Read More](https://medium.com/p/5bb02046a201) |
-| Tue, 17 Mar 2026 19:56:48 GMT | Best Microsoft 365 Migration Tools (2026) | Mitexpert | [Read More](https://medium.com/p/96205212273d) |
-| Tue, 17 Mar 2026 19:53:38 GMT | Secure Defaults Prevent Downstream Risk | Cipher Citadel (Ci2) | [Read More](https://medium.com/p/e972311b94da) |
-| Tue, 17 Mar 2026 19:46:44 GMT | Secuview 6MP Fixed Lens Outdoor IP Camera Auto Tracking & ONVIF. | secuview | [Read More](https://medium.com/p/2314512a8260) |
-| Tue, 17 Mar 2026 19:46:00 GMT | Secuview 5MP Outdoor AHD Camera with lP66 Waterproof Housing. | secuview | [Read More](https://medium.com/p/d9719045412a) |
-| Tue, 17 Mar 2026 19:44:51 GMT | ZERO TRUST: Beware of the Linkedin Catfish | Theresa McFarlane | [Read More](https://medium.com/p/30c859fb6978) |
-| Tue, 17 Mar 2026 19:43:38 GMT | How I Passed the eJPTv2 with 95% — A Complete Walkthrough of My Experience | Sreeraj S Chandran | [Read More](https://medium.com/p/356c63e71c05) |
-| Tue, 17 Mar 2026 19:43:27 GMT | Behavior as the Primary Substrate: A Framework for Pre-TTP Detection and Absence-Based Signal… | Verity | [Read More](https://medium.com/p/0ea2356c9181) |
-| Tue, 17 Mar 2026 19:43:18 GMT | Basic Cybersecurity Hygiene Is Still the #1 Problem in 2026 | Srinija Puvvula | [Read More](https://medium.com/p/32489547f9de) |
-| Tue, 17 Mar 2026 19:42:43 GMT | Pengantar Keamanan Informasi dalam Sistem Digital: Melindungi Aset Terpenting di Era Modern | Dewa Ngakan Nyoman Martina Putra | [Read More](https://medium.com/p/15ac34c2f06f) |
-| Tue, 17 Mar 2026 19:37:32 GMT | How I Built and Validated a Splunk Log Pipeline in a SOC Lab, And the Silent Failure That Nearly… | Famous Areguamen | [Read More](https://medium.com/p/9f8df3447403) |
-| Tue, 17 Mar 2026 19:28:28 GMT | When Good Binaries Go Bad: Detecting rundll32 Abuse Like a Threat Hunter | Ori Dror | [Read More](https://medium.com/p/893007b581b6) |
-| Tue, 17 Mar 2026 19:26:18 GMT | Best Home Security Systems | AlexBryn | [Read More](https://medium.com/p/415850a2b7e4) |
-| Tue, 17 Mar 2026 19:19:24 GMT | The AI Workforce | Alexious Fiero | [Read More](https://medium.com/p/f98301e1961c) |
-| Tue, 17 Mar 2026 19:15:07 GMT | Why We Brought Ethereum’s Most Important Signing Standard to Casper | Michael Steuer | [Read More](https://medium.com/p/235aab6e24b2) |
-| Tue, 17 Mar 2026 19:14:24 GMT | Integrating Security Concepts Synthesis: The Comprehension of a Strategy. | Farid Mehtizada | [Read More](https://medium.com/p/886423a835a0) |
-| Tue, 17 Mar 2026 19:11:27 GMT | Factory Acceptance Testing (FAT) for Modern Control Systems | Asad Naeem | [Read More](https://medium.com/p/b13231ba6e42) |
