@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 13:12:50 GMT | TryHackMe Writeup: Pwning the Thompson Machine . | Amrou bekhedda | [Read More](https://medium.com/p/c8a9bf3669e1) |
+| Wed, 18 Mar 2026 13:12:01 GMT | RegPwn: When Accessibility Features Become an Attack Vector | Sharanraju | [Read More](https://medium.com/p/9e9bcd72323b) |
+| Wed, 18 Mar 2026 13:06:11 GMT | What Happens When an AI Agent Has to Post Collateral Before It Acts | Selfradiance | [Read More](https://medium.com/p/28e098198936) |
+| Wed, 18 Mar 2026 13:04:43 GMT | MesaNet (OTP Bypass) (Hard) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/4438695b5330) |
+| Wed, 18 Mar 2026 13:03:35 GMT | ️ HTB Academy Walkthrough: Windows Privilege Escalation — Pillaging (From Foothold to Admin) | Psychopath-Traveler | [Read More](https://medium.com/p/afd9a75e8ccd) |
+| Wed, 18 Mar 2026 13:01:01 GMT | The Air-Gapped Chronicles: The Insurance Gap — Building Liability-Resistant AI Without Coverage | Piyoosh Rai | [Read More](https://medium.com/p/647399637099) |
+| Wed, 18 Mar 2026 13:01:00 GMT | Underrated Cybersecurity Certifications That Can Make Your CV Standout | Tech Skill School | [Read More](https://medium.com/p/e63b284a1702) |
+| Wed, 18 Mar 2026 12:58:40 GMT | Burp Storage Issue? Here’s the Actual Fix | Likith Teki | [Read More](https://medium.com/p/6bea4520da92) |
+| Wed, 18 Mar 2026 12:46:33 GMT | YÜK DENGELEYİCİ(LOAD BALANCER) DÜNYASINDA iRULE FARKI | Mustafa AVDAN | [Read More](https://medium.com/p/29b7f0380ad1) |
+| Wed, 18 Mar 2026 12:44:47 GMT | Track and Trace Technology: Revolutionizing Real-Time Monitoring | Prachiti Appbell | [Read More](https://medium.com/p/1392f461fb37) |
+| Wed, 18 Mar 2026 12:37:34 GMT | HackGPT and AI-Powered Penetration Testing: What Enterprise Leaders Need to Know | Technijian | [Read More](https://medium.com/p/412703274ad8) |
+| Wed, 18 Mar 2026 12:32:16 GMT | #  İnsan Beyni Hacklənə bilərmi? Neural Chip, AI və Gələcəyin Kibertəhlükəsizliyi | cybershieldy.com | [Read More](https://medium.com/p/9bd930e2918e) |
+| Wed, 18 Mar 2026 12:27:21 GMT | You are not your bullshit. | Tom Pappalardo | [Read More](https://medium.com/p/6a036be28be5) |
+| Wed, 18 Mar 2026 12:27:03 GMT | Which eKYC Solution Should You Choose | Biometrics Report | [Read More](https://medium.com/p/9a222b3816cd) |
+| Wed, 18 Mar 2026 12:24:31 GMT | Your Repository Is the Runtime Contract for Agents | David Ahmann | [Read More](https://medium.com/p/a06a6d91f3fe) |
+| Wed, 18 Mar 2026 12:18:30 GMT | One Password, Multiple Accounts: A Digital Disaster Waiting to Happen | Harveen Kaur | [Read More](https://medium.com/p/a5aec5cab2bf) |
+| Wed, 18 Mar 2026 12:18:01 GMT | I Tried to Break an AI’s Security Across 8 Levels Here’s What I Learned About Prompt Injection | Swastik | [Read More](https://medium.com/p/83aa1520d343) |
+| Wed, 18 Mar 2026 12:02:19 GMT | Could Iran Paralyze the US with Large-Scale Cyberattacks? | Yuriy Nayda | [Read More](https://medium.com/p/c2c23ddc08ca) |
+| Wed, 18 Mar 2026 12:01:01 GMT | How to Answer the Security Question in Your Series A Pitch | Cyphersilhouette | [Read More](https://medium.com/p/72cab71bff74) |
+| Wed, 18 Mar 2026 12:01:01 GMT | Case Study: Historic Trade Routes and Information Symmetry | Adeline Swires | [Read More](https://medium.com/p/54344935b8ed) |
+| Wed, 18 Mar 2026 11:46:47 GMT | The Way Linux File Permissions Work and How They Can Affect the Security Factor | Raunak Jha | [Read More](https://medium.com/p/0a6eb4a67b98) |
 | Wed, 18 Mar 2026 11:31:32 GMT | picoCTF Writeup — Day 2 - Task 2: Log Hunt (Step-by-Step Walkthrough) | Ali Hasil | [Read More](https://medium.com/p/33e977c44aef) |
 | Wed, 18 Mar 2026 11:30:07 GMT | The AI Arms Race in Cybersecurity: When Attackers and Defenders Both Wield the Same Weapon | Zineb Hidila, PhD | [Read More](https://medium.com/p/76b3f4373acb) |
 | Wed, 18 Mar 2026 11:27:32 GMT | The real risk isn’t AI identity. It’s permanent biometric infrastructure | Paul Walsh | [Read More](https://medium.com/p/2253daf66cc8) |
@@ -73,7 +94,9 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 08:04:45 GMT | TryHackMe write-up: Attacktive Directory - by Rev3x | Rev3x | [Read More](https://medium.com/p/e5126e2a519b) |
 | Wed, 18 Mar 2026 07:55:55 GMT | Why Event Security Guards Are Critical for Large Gatherings | Jane Tang | [Read More](https://medium.com/p/3e5720e84409) |
 | Wed, 18 Mar 2026 07:52:36 GMT | Vibe Coding Got You Hacked? Here Are the 19 Vulnerabilities Nobody Warned You About | Madangopal | [Read More](https://medium.com/p/f0f899d61f78) |
+| Wed, 18 Mar 2026 07:47:48 GMT | The Importance of Cyber Security and protecting yourself online | Apex Digital Tech RSA | [Read More](https://medium.com/p/963fda97166d) |
 | Wed, 18 Mar 2026 07:46:25 GMT | CVE-2025–67031 — Remote Code Execution in ORSEE 3.1.0 | anthrax sec2pwn | [Read More](https://medium.com/p/2bfc71d6d5eb) |
+| Wed, 18 Mar 2026 07:43:53 GMT | Why Your Business Needs VAPT Services in India 2026: Benefits, Process & Cost | Komal Kumari | [Read More](https://medium.com/p/cc61221bd309) |
 | Wed, 18 Mar 2026 07:43:19 GMT | I Spent 3 Months Mapping Every Cybersecurity Career Path - Here Is the Honest Truth Nobody Tells… | SainT - Cybersecurity & Tech | [Read More](https://medium.com/p/829b439ad0ea) |
 | Wed, 18 Mar 2026 07:42:01 GMT | What is a Cyber Range? Complete Guide to Cybersecurity Training Platforms | cyber security Updates | [Read More](https://medium.com/p/e1860452b471) |
 | Wed, 18 Mar 2026 07:40:38 GMT | Enterprise Agentic AI Market Size to Expand Rapidly by 2033 | NIkita Poplai | [Read More](https://medium.com/p/f42bd83cb3a4) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 06:46:50 GMT | “Confused Deputy Attack” on Cloud Run | Aniket Agrawal | [Read More](https://medium.com/p/4e4037d8fc5d) |
 | Wed, 18 Mar 2026 06:46:10 GMT | Using Cloud Armor with an External CDN: Identifying the Real Client IP | mm | [Read More](https://medium.com/p/a34779c015d1) |
 | Wed, 18 Mar 2026 06:43:30 GMT | The Real Reason Companies Fail at Cybersecurity | Cybersphere Official | [Read More](https://medium.com/p/df76f2bd386f) |
-| Wed, 18 Mar 2026 06:38:37 GMT | In a fast-growing and dynamic city like Dubai, safety and security are essential for businesses… | Magnum Security | [Read More](https://medium.com/p/c0301ba7ed8b) |
-| Wed, 18 Mar 2026 06:26:08 GMT | Top AI Security Vulnerabilities Every Developer Should Know | Modern Security | [Read More](https://medium.com/p/927f25c4180f) |
-| Wed, 18 Mar 2026 06:25:41 GMT | Breaking Into a Machine: My TryHackMe “Basic Pentesting” Walkthrough | Abhishek sibi | [Read More](https://medium.com/p/23501b5f6ca1) |
-| Wed, 18 Mar 2026 06:25:14 GMT | The Rise of the “Agentic Era” | Cynox Security LLP. | [Read More](https://medium.com/p/855c9db2128c) |
-| Wed, 18 Mar 2026 06:19:42 GMT | Top-Rated AI Development Companies in California in 2026 | Lily Parker | [Read More](https://medium.com/p/2745d79f0a6c) |
-| Wed, 18 Mar 2026 06:12:54 GMT | 10 IoT Devices Bug Bounty Hunters Should Look For During Recon | ghostyjoe | [Read More](https://medium.com/p/fd852e2511b6) |
-| Wed, 18 Mar 2026 06:10:28 GMT | Role Migration Using the Create Export Package Method | Yashwanth Gowda H R | [Read More](https://medium.com/p/d6aec1d36331) |
-| Wed, 18 Mar 2026 06:04:23 GMT | Master Directory Brute-Forcing: A Guide to Using ffuf | Aditya InfosecTrain | [Read More](https://medium.com/p/f45b496bd308) |
-| Wed, 18 Mar 2026 05:51:51 GMT | AI Antivirus is Changing Everything — And It’s Free | Reflex AI | [Read More](https://medium.com/p/524f7c269571) |
-| Wed, 18 Mar 2026 05:50:21 GMT | Cadena Bitcoin vs Web3 Products: A Critical Analysis of Risks, Control, and Security | Cadena Bitcoin | [Read More](https://medium.com/p/7ed6574b34e8) |
-| Wed, 18 Mar 2026 05:49:26 GMT | CyCTF Luxor Reverse Write-up 2026 : BabyBlackBox | VampireXRay | [Read More](https://medium.com/p/6e7820e8ffe4) |
-| Wed, 18 Mar 2026 05:47:49 GMT | Access Token vs Refresh Token: Where to Store Them Securely (Without Breaking UX) | Rifat | [Read More](https://medium.com/p/fab5169506c3) |
-| Wed, 18 Mar 2026 05:42:50 GMT | What Is a SIEM? A Beginner’s Introduction to Security Information and Event Management | Nway Nway Zay Ya | [Read More](https://medium.com/p/0e625f50c038) |
-| Wed, 18 Mar 2026 05:41:57 GMT | Digital Marketing Companies in Dubai: Driving Business Growth in the Digital Era | Deepakglobosoft | [Read More](https://medium.com/p/aee6919bc804) |
-| Wed, 18 Mar 2026 05:36:55 GMT | How to start a career in Cybersecurity | Shanker Goud | [Read More](https://medium.com/p/65af8a3875a2) |
-| Wed, 18 Mar 2026 05:27:34 GMT | The Prime Number secret protecting your credit card | Arjun Hayes | [Read More](https://medium.com/p/20101988772f) |
-| Wed, 18 Mar 2026 05:19:36 GMT | The Bots Are Coming for Bug Bounties - and Nobody Agrees If That’s Good | Chethanmohan | [Read More](https://medium.com/p/32cb69445b8b) |
-| Wed, 18 Mar 2026 05:16:51 GMT | A Complete Guide to installing and configure Splunk Universal Forwarder on Windows (Step- by - Step) | Kola. Yeswanth | [Read More](https://medium.com/p/fb30f8e03eca) |
-| Wed, 18 Mar 2026 05:15:28 GMT | A poem to an unavailable man | Erin Mitchell | [Read More](https://medium.com/p/d1d6a636bbea) |
-| Wed, 18 Mar 2026 05:15:07 GMT | Digital Marketing in Kochi: Driving Business Growth in the Digital Era | Deepakglobosoft | [Read More](https://medium.com/p/ebe7f940c0b3) |
-| Wed, 18 Mar 2026 05:05:51 GMT | TryHackMe — LazyAdmin CTF | Daemanic | [Read More](https://medium.com/p/e88cd767850e) |
-| Wed, 18 Mar 2026 05:05:20 GMT | Missing Person — Tryhackme | sivakanesh | [Read More](https://medium.com/p/5aa2db8ba323) |
-| Wed, 18 Mar 2026 04:55:46 GMT | AUTHENTIC DUMPA Tracks 1 2 ATM CC cloned cards Bank Cashapp Wu TRANSFERS Criminal Record cleared… | Gonz | [Read More](https://medium.com/p/d766d0d5f1fa) |
