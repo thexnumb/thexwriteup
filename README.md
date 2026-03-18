@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 23:24:23 GMT | How I See and Hear CISOs Select Vendors Today! | Younos Nazarian | [Read More](https://medium.com/p/47d9fd74cbae) |
+| Wed, 18 Mar 2026 22:59:14 GMT | TryHackMe SOC Analyst Road Map Part-13 | safa kaya | [Read More](https://medium.com/p/b02706623b72) |
+| Wed, 18 Mar 2026 22:56:11 GMT | Day 2- Network+ N10–009 Networking Appliances, Applications, and Functions | Hassen Hannachi | [Read More](https://medium.com/p/30d353db61b1) |
+| Wed, 18 Mar 2026 22:52:59 GMT | I Built an AI-Powered SOC Analyst for My MS Capstone — Here’s the Honest Story | Chaitanya Garware | [Read More](https://medium.com/p/5cc07b7a1494) |
+| Wed, 18 Mar 2026 22:49:22 GMT | The US Data Privacy & Data Security Landscape | Financial Poise | [Read More](https://medium.com/p/a2fd0574ec6d) |
+| Wed, 18 Mar 2026 22:48:21 GMT | Migrating Level Up Bank’s Website to AWS S3 | Emile Joseph | [Read More](https://medium.com/p/ee7f08bfa291) |
+| Wed, 18 Mar 2026 22:44:40 GMT | The War Before the War - Shimazaki Sentinel Website | Dr. Thomas Jreige | [Read More](https://medium.com/p/e634e492f9c1) |
+| Wed, 18 Mar 2026 22:44:25 GMT | What If Your CyberSecurity System Knew the Attack Was Coming? | Ansh Saxena | [Read More](https://medium.com/p/f97b82da327d) |
+| Wed, 18 Mar 2026 22:31:00 GMT | The Loudest Messages Are Never Spoken | Abhinav Misra | [Read More](https://medium.com/p/495e5e5ab22b) |
+| Wed, 18 Mar 2026 22:30:36 GMT | How to break any windows or windows server when you have physical access | Mahim Avi | [Read More](https://medium.com/p/d23b42184378) |
 | Wed, 18 Mar 2026 22:21:00 GMT | Your Employees Are the Target: How to Train Your Team to Spot Social Engineering Before It Costs… | Sharon Martin | [Read More](https://medium.com/p/7d72a7d0bb60) |
 | Wed, 18 Mar 2026 22:16:00 GMT | Why Social Engineering: The Science of Human Hacking Should Be Required Reading for Cybersecurity… | Stefan Bargan | [Read More](https://medium.com/p/34dcb74627ed) |
 | Wed, 18 Mar 2026 22:09:07 GMT | Technical Methodologies for Pentesting Industrial Control Systems (ICS) | Ali Elkhouly | [Read More](https://medium.com/p/162b0c1956ce) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 16:08:44 GMT | Why SoHo Is the Hardest Neighborhood in New York to Secure | Building Security Services | [Read More](https://medium.com/p/a05ae4f38db7) |
 | Wed, 18 Mar 2026 16:08:35 GMT | We scanned 900 MCP configs on GitHub. 75% had security problems. | Orchesis | [Read More](https://medium.com/p/537acb7036f7) |
 | Wed, 18 Mar 2026 16:02:59 GMT | APT 29: Attack & Defense Simulation | Christopher Gilbert | [Read More](https://medium.com/p/da17d51dbeb9) |
-| Wed, 18 Mar 2026 15:51:00 GMT | When Refusals Leak Capabilities | Vectorlane | [Read More](https://medium.com/p/dcaf27f6efac) |
-| Wed, 18 Mar 2026 15:51:00 GMT | When Refusals Reveal Too Much | Praxen | [Read More](https://medium.com/p/8aeec5e978a4) |
-| Wed, 18 Mar 2026 15:50:17 GMT | The Zero Day Clock Is Ticking: Why “Patch Faster” Is No Longer a Strategy | Nima Sadeghifard | [Read More](https://medium.com/p/cfb98266c5d2) |
-| Wed, 18 Mar 2026 15:49:36 GMT | Pascal CTF 2026 — GeoGuesser: How I Solved My First GEOINT Challenge | https.vrun | [Read More](https://medium.com/p/b430f9698004) |
-| Wed, 18 Mar 2026 15:46:00 GMT | The Part of Automation the Entire Industry Skips | Ehulse | [Read More](https://medium.com/p/2d0d0517c3c9) |
-| Wed, 18 Mar 2026 15:43:15 GMT | Detection vs. Prevention: The Debate Security Teams Still Get Wrong | JSOC IT BLOG | [Read More](https://medium.com/p/d9c0ffd71aa5) |
-| Wed, 18 Mar 2026 15:37:44 GMT | AI-Powered Cyberattacks Raise Alarm Among IT Leaders | Aura Tech Insights | [Read More](https://medium.com/p/d138a28cb3a5) |
-| Wed, 18 Mar 2026 15:36:11 GMT | Mustacchio CTF — A Clean Walkthrough (TryHackMe) | RCA62X8 | [Read More](https://medium.com/p/dab8b47bfb01) |
-| Wed, 18 Mar 2026 15:35:26 GMT | This Web3 Interview Task Was Actually a Remote Access Trojan | Evgenii | [Read More](https://medium.com/p/6f9c4231202e) |
-| Wed, 18 Mar 2026 15:28:28 GMT | How Social Mining V2 kills speculative "yap-to-earn" tokenomics and replaces them with something… | Mope | [Read More](https://medium.com/p/5b088415aa36) |
