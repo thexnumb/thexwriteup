@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 08:44:11 GMT | Your Data Wasn’t “Hacked” — It Was Slowly Collected | Devarshi Acharya | [Read More](https://medium.com/p/3ae1536d35f6) |
+| Wed, 18 Mar 2026 08:42:02 GMT | Post-Quantum Cryptography: What It Means for Hardware, Networks, and Global Security | K. Vijaya Lakshmi | [Read More](https://medium.com/p/3806ca1107b6) |
+| Wed, 18 Mar 2026 08:34:04 GMT | AI-Powered Incident Response: Reducing Detection-to-Containment Time | NetWitness | [Read More](https://medium.com/p/3e0e6e782e1c) |
+| Wed, 18 Mar 2026 08:32:54 GMT | Memory Allocation in Windows (Malware Perspective) — NIR(2) | TheCyberNirvana | [Read More](https://medium.com/p/67dfb477313d) |
+| Wed, 18 Mar 2026 08:29:54 GMT | Dev Diaries Walkthrough — TryHackMe | bageera | [Read More](https://medium.com/p/d0c1f2356d72) |
+| Wed, 18 Mar 2026 08:29:38 GMT | What is the CIA Triad — and why every security decision starts here | Fahshadaju | [Read More](https://medium.com/p/e18d9a10a4de) |
+| Wed, 18 Mar 2026 08:28:15 GMT | Modernizing Legacy ERP: Secure Web Access Without a Costly Overhaul | TSplus Academy | [Read More](https://medium.com/p/f81da275f8fd) |
+| Wed, 18 Mar 2026 08:16:48 GMT | Cyber Security Training: Why It Is Essential for the Digital Age | Janbask Training | [Read More](https://medium.com/p/50ad0ef1cc98) |
+| Wed, 18 Mar 2026 08:16:21 GMT | Tugas Week 4 — Capstone | 0w0 | [Read More](https://medium.com/p/ab0f5183bd7d) |
+| Wed, 18 Mar 2026 08:14:15 GMT | Asia Pacific Penetration Testing Market Set for Strong Growth Through 2031 | Sheetalbhusari | [Read More](https://medium.com/p/8ce85df0e539) |
+| Wed, 18 Mar 2026 08:04:45 GMT | TryHackMe write-up: Attacktive Directory - by Rev3x | Rev3x | [Read More](https://medium.com/p/e5126e2a519b) |
+| Wed, 18 Mar 2026 07:55:55 GMT | Why Event Security Guards Are Critical for Large Gatherings | Jane Tang | [Read More](https://medium.com/p/3e5720e84409) |
+| Wed, 18 Mar 2026 07:52:36 GMT | Vibe Coding Got You Hacked? Here Are the 19 Vulnerabilities Nobody Warned You About | Madangopal | [Read More](https://medium.com/p/f0f899d61f78) |
+| Wed, 18 Mar 2026 07:46:25 GMT | CVE-2025–67031 — Remote Code Execution in ORSEE 3.1.0 | anthrax sec2pwn | [Read More](https://medium.com/p/2bfc71d6d5eb) |
+| Wed, 18 Mar 2026 07:43:19 GMT | I Spent 3 Months Mapping Every Cybersecurity Career Path - Here Is the Honest Truth Nobody Tells… | SainT - Cybersecurity & Tech | [Read More](https://medium.com/p/829b439ad0ea) |
+| Wed, 18 Mar 2026 07:42:01 GMT | What is a Cyber Range? Complete Guide to Cybersecurity Training Platforms | cyber security Updates | [Read More](https://medium.com/p/e1860452b471) |
+| Wed, 18 Mar 2026 07:40:38 GMT | Enterprise Agentic AI Market Size to Expand Rapidly by 2033 | NIkita Poplai | [Read More](https://medium.com/p/f42bd83cb3a4) |
+| Wed, 18 Mar 2026 07:40:25 GMT | The Cryptography Concept Journey — SPN (Substitution Permutation Networks) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/ca062aa529c9) |
 | Wed, 18 Mar 2026 07:30:37 GMT | Cyber Security Director Database - DemandGridX Guide | Charucherry | [Read More](https://medium.com/p/47af6ea41eff) |
 | Wed, 18 Mar 2026 07:22:40 GMT | I Built a Hacking Tool That Thinks Like a Penetration Tester. Here’s How: | Abhramaitra | [Read More](https://medium.com/p/e98b67443da9) |
 | Wed, 18 Mar 2026 07:07:39 GMT | Why Infrastructure Failures Go Unnoticed Without Expert Monitoring | Gavin Ellis | [Read More](https://medium.com/p/fd81f4f44c75) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Mar 2026 22:52:23 GMT | The Dirty Truth About Hiring Armed Security Guards in Los Angeles Nobody Tells You | Uniworth security | [Read More](https://medium.com/p/e881b83aaaf6) |
 | Tue, 17 Mar 2026 22:46:50 GMT | TryHackMe SOC Analyst Road Map Part-12 | safa kaya | [Read More](https://medium.com/p/e2c2f6cf4ddb) |
 | Tue, 17 Mar 2026 22:42:07 GMT | Cyborg — TryHackMe - Complete Walkthrough & Security Analysis | Roshan Rajbanshi | [Read More](https://medium.com/p/225397864cbb) |
-| Tue, 17 Mar 2026 22:36:21 GMT | Digital Signatures | Aj | [Read More](https://medium.com/p/3bf5431acc0a) |
-| Tue, 17 Mar 2026 22:30:19 GMT | Short Story: THE MF CREW | Samuel Odekunle | [Read More](https://medium.com/p/d7c35a8abf1f) |
-| Tue, 17 Mar 2026 22:13:00 GMT | What Is It Like to Be a Data Point? | Michael Davis | [Read More](https://medium.com/p/5c93c73af4ce) |
-| Tue, 17 Mar 2026 22:06:13 GMT | California Dealerships Are Losing Millions: Here’s What Security Cameras Can’t Stop | Matthew | [Read More](https://medium.com/p/3402e2a725ac) |
-| Tue, 17 Mar 2026 22:06:02 GMT | Mengenal Cara Kerja Hacker: Dari Reconnaissance hingga Exploitation | Aris Wahyudi | [Read More](https://medium.com/p/b2bbba0952ff) |
-| Tue, 17 Mar 2026 21:59:56 GMT | Hacker Group Linked to $7M Wallet Supply Attack | Twin Peaks Digital | [Read More](https://medium.com/p/c071ee57164e) |
-| Tue, 17 Mar 2026 21:53:22 GMT | Preventing Cascading Failures in AI Agents | Will Velida | [Read More](https://medium.com/p/179e29872646) |
-| Tue, 17 Mar 2026 21:53:12 GMT | PYRAX Mining: Why Separation of Power Matters | PYRAX Network | [Read More](https://medium.com/p/6fec750ada16) |
-| Tue, 17 Mar 2026 21:48:27 GMT | What is a Firewall? | mahammad | [Read More](https://medium.com/p/6237a7e349dc) |
-| Tue, 17 Mar 2026 21:47:19 GMT | Intro to LAN: Yerel Ağlara Giriş ve Temel Kavramlar | Onur Öztürk | [Read More](https://medium.com/p/34b1c13735ff) |
-| Tue, 17 Mar 2026 21:40:33 GMT | Unlearning Loneliness | Thoughts In Words | [Read More](https://medium.com/p/5bd393f78fa0) |
-| Tue, 17 Mar 2026 21:35:15 GMT | Your AI Governance Program Has a Shadow AI Problem. Here’s the Framework That Fixes It. | QayyumAwan | [Read More](https://medium.com/p/de1d37f46e01) |
-| Tue, 17 Mar 2026 21:25:47 GMT | 300$ Email Html Injection! | Ali Mojaver | [Read More](https://medium.com/p/48dfc53e6d59) |
-| Tue, 17 Mar 2026 21:23:46 GMT | Reversing a Vulnerable Driver: Discovering a Process Termination Primitive | S12 - 0x12Dark Development | [Read More](https://medium.com/p/34aea14b9563) |
-| Tue, 17 Mar 2026 21:22:15 GMT | The Art of Disappearing: How I Spent Thirty-One Years Teaching People Not to See Me. | Michael Williams | [Read More](https://medium.com/p/91d5844dc1cc) |
-| Tue, 17 Mar 2026 21:11:39 GMT | 5 Contoh Keamanan Informasi Yang Sering Terjadi Di Sekitar Kita | Dewa Ngakan Nyoman Martina Putra | [Read More](https://medium.com/p/b2f5690fc0a8) |
-| Tue, 17 Mar 2026 21:01:13 GMT | From Strategic Depth to Strategic Threat: Pakistan–Afghanistan Relations in the Era of Escalating… | Umer Hussnain Ahmad | [Read More](https://medium.com/p/0c48ae56bd26) |
-| Tue, 17 Mar 2026 21:01:01 GMT | Unfiltered Restart — Day 28+29: Windows Tools | Maximillian Rueda | [Read More](https://medium.com/p/9edf176e0940) |
