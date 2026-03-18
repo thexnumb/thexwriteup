@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 21:33:24 GMT | Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained) | Chioma Halim | [Read More](https://medium.com/p/45c1878352cd) |
+| Wed, 18 Mar 2026 21:29:11 GMT | Bug Bounty: Finding Bugs and Making Money your orange | Nexamos | [Read More](https://medium.com/p/be8fa00ee669) |
+| Wed, 18 Mar 2026 21:26:43 GMT | Exposed AWS AppSync API Key | 1sherlok | [Read More](https://medium.com/p/dcd54ce50a5c) |
+| Wed, 18 Mar 2026 21:19:50 GMT | How to Swap OM token migration to MANTRA Chain mainnet …… | Barman | [Read More](https://medium.com/p/5ea1b361434c) |
+| Wed, 18 Mar 2026 21:18:42 GMT | OM token migration to MANTRA Chain mainnet | Barman | [Read More](https://medium.com/p/0f387530d36e) |
+| Wed, 18 Mar 2026 21:17:05 GMT | CHRONICLES OF A CYBERSECURITY NEWBIE (Pt. 1): CURIOSITY KILLS THE CAT… OR DOES IT? | Ms. X | [Read More](https://medium.com/p/dcc87e72f991) |
+| Wed, 18 Mar 2026 21:16:00 GMT | AI Output Is Easy to Generate. It’s Hard to Verify. | Hira Barton | [Read More](https://medium.com/p/be4300af0d33) |
+| Wed, 18 Mar 2026 21:08:53 GMT | The Digital Iron Curtain: 5 Surprising Realities of Moscow’s Great Internet Blackout | CCD-IS | [Read More](https://medium.com/p/6c38b741efb7) |
+| Wed, 18 Mar 2026 21:06:19 GMT | NFS Server Setup Guide: Configuring, Mounting, and Securing Network File Sharing on Linux | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/d9733bf051a4) |
+| Wed, 18 Mar 2026 21:05:20 GMT | Small Business Cybersecurity On A Budget: 3 Ideal Options To Look For To Maximize Security & Legal… | Christina Martin | [Read More](https://medium.com/p/ac91e0fef2c8) |
+| Wed, 18 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 30: CLI Tools | Maximillian Rueda | [Read More](https://medium.com/p/71126cf2ca57) |
+| Wed, 18 Mar 2026 20:58:26 GMT | LLM Agents Should Never Execute Raw Commands | DBA Labs | [Read More](https://medium.com/p/a80511ef1f82) |
+| Wed, 18 Mar 2026 20:48:08 GMT | Windows Malware Persistence (Tier 1) | oussama | [Read More](https://medium.com/p/92150aadeacc) |
 | Wed, 18 Mar 2026 20:40:55 GMT | Your AI Agent Just Leaked Your API Keys. Its Response? A Perfectly Helpful Summary. | Anuj Kaul | [Read More](https://medium.com/p/e65d20f98188) |
 | Wed, 18 Mar 2026 20:38:26 GMT | How Going for a Run Saved My Crypto | Jerry Chai | [Read More](https://medium.com/p/8994592b84b9) |
 | Wed, 18 Mar 2026 20:31:46 GMT | PDF Malware Analysis Lab: Benign vs. Malicious Samples with PDFiD, pdf-parser & peepdf | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/6765c9e51716) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 14:47:46 GMT | How to make better choices | (T_T) | [Read More](https://medium.com/p/f4456c2b6613) |
 | Wed, 18 Mar 2026 14:45:06 GMT | Stop Renting Your Infrastructure | Doprax | [Read More](https://medium.com/p/71bf602adad8) |
 | Wed, 18 Mar 2026 14:41:43 GMT | BOLA (IDOR) Vulnerability in a Comment Approval System | Muhammet Yasin Ağzıkuru | [Read More](https://medium.com/p/e65678b56546) |
-| Wed, 18 Mar 2026 14:34:33 GMT | File Inclusion Zafiyetleri: LFI ve RFI Nedir, Nasıl Çalışır ve Nasıl Önlenir? | Emre | [Read More](https://medium.com/p/eb908ace057d) |
-| Wed, 18 Mar 2026 14:34:00 GMT | From Vulnerability to Resilience: Hardening an Apache Tomcat Server (Hands-on Security Walkthrough) | Umeshpandeybtech | [Read More](https://medium.com/p/efc4d6677052) |
-| Wed, 18 Mar 2026 14:32:44 GMT | 7 Reports, 4 Duplicates, and Zero Bounties — My First 3 Months in Bug Bounty Hunting | Sreenivasan Sivakumar | [Read More](https://medium.com/p/f0fffeaf0844) |
-| Wed, 18 Mar 2026 14:31:23 GMT | Compartmentalizing Psychic Knowledge for National Security | Motion Bloc | [Read More](https://medium.com/p/c7957d5d5c0e) |
-| Wed, 18 Mar 2026 14:25:10 GMT | How Much Is Your Company’s Data Worth? And Can You Prove It? | Chandan Bhattacharya | [Read More](https://medium.com/p/ddfeb78d1d90) |
-| Wed, 18 Mar 2026 14:24:24 GMT | One Sloppy Incident Report Can Cost a Building Owner Millions | Building Security Services | [Read More](https://medium.com/p/7137d02d9e40) |
-| Wed, 18 Mar 2026 14:22:51 GMT | Introducing SafeQuant-SLM: Securing the Future of Compressed AI with the AEGIS-4 Protocol | Jessica  Sciammarelli | [Read More](https://medium.com/p/6f49dee1f2db) |
-| Wed, 18 Mar 2026 14:21:34 GMT | How to Get Experience in Cybersecurity and IT When You Have No Experience | Joshua Moses | [Read More](https://medium.com/p/008e84ad62dc) |
-| Wed, 18 Mar 2026 14:17:27 GMT | My SC-900 Learning Journey (Day 3) — Encryption, Hashing & Data Protection Fundamentals | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/d531df7d60d1) |
-| Wed, 18 Mar 2026 14:11:25 GMT | Medium and Me | Prajna Mohan Jois | [Read More](https://medium.com/p/524eb0b47512) |
-| Wed, 18 Mar 2026 14:10:49 GMT | Agentic AI vs. AI Agents: Cyber Resilience, Risk Surface ve Secure Architecture Yaklaşımı | Gizem Şahin | [Read More](https://medium.com/p/4814f722a5c2) |
-| Wed, 18 Mar 2026 14:09:29 GMT | End-to-End Supply Chain Security with Open Source Tools | Marshall Humble | [Read More](https://medium.com/p/b9f4b8e452e9) |
-| Wed, 18 Mar 2026 14:09:05 GMT | Difference Between Digital Marketing and Social Media Marketing. | Blesson Charles | [Read More](https://medium.com/p/e12f06a9988d) |
