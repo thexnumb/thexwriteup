@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 22:21:00 GMT | Your Employees Are the Target: How to Train Your Team to Spot Social Engineering Before It Costs… | Sharon Martin | [Read More](https://medium.com/p/7d72a7d0bb60) |
+| Wed, 18 Mar 2026 22:16:00 GMT | Why Social Engineering: The Science of Human Hacking Should Be Required Reading for Cybersecurity… | Stefan Bargan | [Read More](https://medium.com/p/34dcb74627ed) |
+| Wed, 18 Mar 2026 22:09:07 GMT | Technical Methodologies for Pentesting Industrial Control Systems (ICS) | Ali Elkhouly | [Read More](https://medium.com/p/162b0c1956ce) |
+| Wed, 18 Mar 2026 22:06:13 GMT | HTB Academy -API Attacks (Broken Object Property Level Authorization) Exercise Walkthrough | Farouq Hassan | [Read More](https://medium.com/p/6d23e464bf6b) |
+| Wed, 18 Mar 2026 22:04:15 GMT | 1Q 26 Decentr Technologies Company Update | Decentr | [Read More](https://medium.com/p/8bd253b8f7fa) |
+| Wed, 18 Mar 2026 21:49:24 GMT | Let me tell you about the time Target became a cautionary tale in three acts. | Aregbesola kunle | [Read More](https://medium.com/p/fe63e54144c5) |
+| Wed, 18 Mar 2026 21:44:06 GMT | The Windows Security Journey — WPP (Windows Protected Print Mode) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e58f85dc9b05) |
+| Wed, 18 Mar 2026 21:42:18 GMT | ️‍♂️ A Fun HTML Injection Story — When a “File Name” Became My Entry Point | Diwas mundra | [Read More](https://medium.com/p/3cd1f7f1b1bb) |
+| Wed, 18 Mar 2026 21:41:15 GMT | What Makes Private Communities & Gated Estates Worth It? | Monica Fabbio | [Read More](https://medium.com/p/623ea9475542) |
+| Wed, 18 Mar 2026 21:39:03 GMT | THE RANSOM DECISION | Laurence Gill | [Read More](https://medium.com/p/58a247ae187c) |
 | Wed, 18 Mar 2026 21:33:24 GMT | Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained) | Chioma Halim | [Read More](https://medium.com/p/45c1878352cd) |
+| Wed, 18 Mar 2026 21:30:25 GMT | CyCTF Luxor Qualifications 2026 — Mobile Challenges Writeup | Mostafaahmed | [Read More](https://medium.com/p/320638d5b284) |
 | Wed, 18 Mar 2026 21:29:11 GMT | Bug Bounty: Finding Bugs and Making Money your orange | Nexamos | [Read More](https://medium.com/p/be8fa00ee669) |
 | Wed, 18 Mar 2026 21:26:43 GMT | Exposed AWS AppSync API Key | 1sherlok | [Read More](https://medium.com/p/dcd54ce50a5c) |
 | Wed, 18 Mar 2026 21:19:50 GMT | How to Swap OM token migration to MANTRA Chain mainnet …… | Barman | [Read More](https://medium.com/p/5ea1b361434c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 15:36:11 GMT | Mustacchio CTF — A Clean Walkthrough (TryHackMe) | RCA62X8 | [Read More](https://medium.com/p/dab8b47bfb01) |
 | Wed, 18 Mar 2026 15:35:26 GMT | This Web3 Interview Task Was Actually a Remote Access Trojan | Evgenii | [Read More](https://medium.com/p/6f9c4231202e) |
 | Wed, 18 Mar 2026 15:28:28 GMT | How Social Mining V2 kills speculative "yap-to-earn" tokenomics and replaces them with something… | Mope | [Read More](https://medium.com/p/5b088415aa36) |
-| Wed, 18 Mar 2026 15:27:35 GMT | If AI Memory Is a Liability, Why Are We Still Building It This Way? | Leena Thomas | [Read More](https://medium.com/p/923791018c0c) |
-| Wed, 18 Mar 2026 15:23:26 GMT | Gamers Reject DLSS 5, Java 26 Arrives, and BuzzFeed’s AI Slop - The Daily Tech Digest: 18 March… | Souren Stepanyan | [Read More](https://medium.com/p/f7a02797c852) |
-| Wed, 18 Mar 2026 15:23:08 GMT | 10 Ways to Engage Stakeholders in Disinformation Era | Alexis Henderson | [Read More](https://medium.com/p/c5372216fe0a) |
-| Wed, 18 Mar 2026 15:21:25 GMT | The Myth of Offline Security: How CIA Spies Really Hack ‘Untouchable’ Computers | Robert Morton | [Read More](https://medium.com/p/98fdb3203fdd) |
-| Wed, 18 Mar 2026 15:13:20 GMT | Not Our Fault. Part 1: Stupid Names | Just alex | [Read More](https://medium.com/p/ae9a257ee844) |
-| Wed, 18 Mar 2026 15:11:21 GMT | Architecting for Scale: Session Separation in Modern Authentication Platforms | Ido Kislev | [Read More](https://medium.com/p/5c518dac2df5) |
-| Wed, 18 Mar 2026 14:51:58 GMT | The Economics of Exploitation: Understanding Vulnerabilities in Cybersecurity | Digital Defense | [Read More](https://medium.com/p/c540c08c1fab) |
-| Wed, 18 Mar 2026 14:51:06 GMT | CVE-2025–21624 Walkthrough (Proving Groung -OSCP) | cyber_public_school | [Read More](https://medium.com/p/bcddb4185d4e) |
-| Wed, 18 Mar 2026 14:47:46 GMT | How to make better choices | (T_T) | [Read More](https://medium.com/p/f4456c2b6613) |
-| Wed, 18 Mar 2026 14:45:06 GMT | Stop Renting Your Infrastructure | Doprax | [Read More](https://medium.com/p/71bf602adad8) |
-| Wed, 18 Mar 2026 14:41:43 GMT | BOLA (IDOR) Vulnerability in a Comment Approval System | Muhammet Yasin Ağzıkuru | [Read More](https://medium.com/p/e65678b56546) |
