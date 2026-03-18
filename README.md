@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 15:51:00 GMT | When Refusals Leak Capabilities | Vectorlane | [Read More](https://medium.com/p/dcaf27f6efac) |
+| Wed, 18 Mar 2026 15:51:00 GMT | When Refusals Reveal Too Much | Praxen | [Read More](https://medium.com/p/8aeec5e978a4) |
+| Wed, 18 Mar 2026 15:50:17 GMT | The Zero Day Clock Is Ticking: Why “Patch Faster” Is No Longer a Strategy | Nima Sadeghifard | [Read More](https://medium.com/p/cfb98266c5d2) |
+| Wed, 18 Mar 2026 15:49:36 GMT | Pascal CTF 2026 — GeoGuesser: How I Solved My First GEOINT Challenge | https.vrun | [Read More](https://medium.com/p/b430f9698004) |
+| Wed, 18 Mar 2026 15:46:00 GMT | The Part of Automation the Entire Industry Skips | Ehulse | [Read More](https://medium.com/p/2d0d0517c3c9) |
+| Wed, 18 Mar 2026 15:43:15 GMT | Detection vs. Prevention: The Debate Security Teams Still Get Wrong | JSOC IT BLOG | [Read More](https://medium.com/p/d9c0ffd71aa5) |
+| Wed, 18 Mar 2026 15:37:44 GMT | AI-Powered Cyberattacks Raise Alarm Among IT Leaders | Aura Tech Insights | [Read More](https://medium.com/p/d138a28cb3a5) |
+| Wed, 18 Mar 2026 15:36:11 GMT | Mustacchio CTF — A Clean Walkthrough (TryHackMe) | RCA62X8 | [Read More](https://medium.com/p/dab8b47bfb01) |
+| Wed, 18 Mar 2026 15:35:26 GMT | This Web3 Interview Task Was Actually a Remote Access Trojan | Evgenii | [Read More](https://medium.com/p/6f9c4231202e) |
+| Wed, 18 Mar 2026 15:28:28 GMT | How Social Mining V2 kills speculative "yap-to-earn" tokenomics and replaces them with something… | Mope | [Read More](https://medium.com/p/5b088415aa36) |
+| Wed, 18 Mar 2026 15:27:35 GMT | If AI Memory Is a Liability, Why Are We Still Building It This Way? | Leena Thomas | [Read More](https://medium.com/p/923791018c0c) |
+| Wed, 18 Mar 2026 15:23:26 GMT | Gamers Reject DLSS 5, Java 26 Arrives, and BuzzFeed’s AI Slop - The Daily Tech Digest: 18 March… | Souren Stepanyan | [Read More](https://medium.com/p/f7a02797c852) |
+| Wed, 18 Mar 2026 15:23:08 GMT | 10 Ways to Engage Stakeholders in Disinformation Era | Alexis Henderson | [Read More](https://medium.com/p/c5372216fe0a) |
+| Wed, 18 Mar 2026 15:21:25 GMT | The Myth of Offline Security: How CIA Spies Really Hack ‘Untouchable’ Computers | Robert Morton | [Read More](https://medium.com/p/98fdb3203fdd) |
+| Wed, 18 Mar 2026 15:13:20 GMT | Not Our Fault. Part 1: Stupid Names | Just alex | [Read More](https://medium.com/p/ae9a257ee844) |
+| Wed, 18 Mar 2026 15:11:21 GMT | Architecting for Scale: Session Separation in Modern Authentication Platforms | Ido Kislev | [Read More](https://medium.com/p/5c518dac2df5) |
+| Wed, 18 Mar 2026 14:51:58 GMT | The Economics of Exploitation: Understanding Vulnerabilities in Cybersecurity | Digital Defense | [Read More](https://medium.com/p/c540c08c1fab) |
+| Wed, 18 Mar 2026 14:51:06 GMT | CVE-2025–21624 Walkthrough (Proving Groung -OSCP) | cyber_public_school | [Read More](https://medium.com/p/bcddb4185d4e) |
+| Wed, 18 Mar 2026 14:47:46 GMT | How to make better choices | (T_T) | [Read More](https://medium.com/p/f4456c2b6613) |
+| Wed, 18 Mar 2026 14:45:06 GMT | Stop Renting Your Infrastructure | Doprax | [Read More](https://medium.com/p/71bf602adad8) |
+| Wed, 18 Mar 2026 14:41:43 GMT | BOLA (IDOR) Vulnerability in a Comment Approval System | Muhammet Yasin Ağzıkuru | [Read More](https://medium.com/p/e65678b56546) |
 | Wed, 18 Mar 2026 14:34:33 GMT | File Inclusion Zafiyetleri: LFI ve RFI Nedir, Nasıl Çalışır ve Nasıl Önlenir? | Emre | [Read More](https://medium.com/p/eb908ace057d) |
 | Wed, 18 Mar 2026 14:34:00 GMT | From Vulnerability to Resilience: Hardening an Apache Tomcat Server (Hands-on Security Walkthrough) | Umeshpandeybtech | [Read More](https://medium.com/p/efc4d6677052) |
 | Wed, 18 Mar 2026 14:32:44 GMT | 7 Reports, 4 Duplicates, and Zero Bounties — My First 3 Months in Bug Bounty Hunting | Sreenivasan Sivakumar | [Read More](https://medium.com/p/f0fffeaf0844) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 09:51:13 GMT | Cybersecurity Program Development Made Simple for Scaling Companies | Elena Fischer | [Read More](https://medium.com/p/2dee9ebc3a91) |
 | Wed, 18 Mar 2026 09:46:14 GMT | AI vs Cyber Threats: How Smart Routers Protect Your Network | New Trend Computer Networks | [Read More](https://medium.com/p/ab814e0b9990) |
 | Wed, 18 Mar 2026 09:44:30 GMT | VulnHub DC2 | IO | [Read More](https://medium.com/p/9b82731a9593) |
-| Wed, 18 Mar 2026 09:39:42 GMT | Authentication is Not Just Passwords | Mahad Aqeel | [Read More](https://medium.com/p/a652f17d2091) |
-| Wed, 18 Mar 2026 09:27:13 GMT | A Design to Prevent IdP Token Exposure — Introducing the Identity Token Broker (ITB) | Tsubasa A | [Read More](https://medium.com/p/f615d7e96f39) |
-| Wed, 18 Mar 2026 09:25:37 GMT | Paradoks Transparansi: Membedah Siasat Privasi dalam Budaya Kolektif | Kristiara Rinanti | [Read More](https://medium.com/p/095f8afc2035) |
-| Wed, 18 Mar 2026 09:23:45 GMT | Why Most Phishing Sites Come Back After You Take Them Down | Jay Romer | [Read More](https://medium.com/p/da2eb71974b3) |
-| Wed, 18 Mar 2026 09:21:22 GMT | How to Stop Contact Form Spam in WordPress | Smit Pipaliya | [Read More](https://medium.com/p/59b8f7c93040) |
-| Wed, 18 Mar 2026 09:20:17 GMT | Identifying Critical Security Flaws: A Case Study on a Buggy Web Application | Tooba Siddiqui | [Read More](https://medium.com/p/ea27d03b4fb0) |
-| Wed, 18 Mar 2026 09:20:02 GMT | How We Set Up a Personal VPN With Hiddify on Two Servers in Germany | Alex Fomin | [Read More](https://medium.com/p/fc4f1a5e0273) |
-| Wed, 18 Mar 2026 09:18:04 GMT | Investigating with Splunk — TryHackMe Walkthrough | Md. Saiful Islam Rayhan | [Read More](https://medium.com/p/935bba273408) |
-| Wed, 18 Mar 2026 09:16:00 GMT | Slide to the Right: Strategic Job Sequencing with C# | Namir Sagheenanajar | [Read More](https://medium.com/p/7b1366e718bb) |
-| Wed, 18 Mar 2026 09:15:52 GMT | 5 Free Tools Every Pentester Should Bookmark in 2026 — One of Them Is an AI | Fabian Peña | [Read More](https://medium.com/p/82bc77f25f78) |
-| Wed, 18 Mar 2026 09:13:50 GMT | Cyber Threat Roundup: The 3 Biggest Cyberattacks of March 2026 You Need to Know | Kislay Kumar | [Read More](https://medium.com/p/8f228be7a00e) |
-| Wed, 18 Mar 2026 09:06:59 GMT | OpenClaw Was Never Ready for Production. NVIDIA’s NemoClaw Changes That | Agent Native | [Read More](https://medium.com/p/268ce03ded95) |
-| Wed, 18 Mar 2026 09:01:01 GMT | ️‍♂️ OSINT Investigation Writeup Missing Person (Try Hack Me) | Newt3n | [Read More](https://medium.com/p/ec9948c232db) |
-| Wed, 18 Mar 2026 08:59:27 GMT | How to Test for File Upload Vulnerabilities: A Practical Guide | Wnellygrace | [Read More](https://medium.com/p/6b50e2629a5e) |
-| Wed, 18 Mar 2026 08:44:11 GMT | Your Data Wasn’t “Hacked” — It Was Slowly Collected | Devarshi Acharya | [Read More](https://medium.com/p/3ae1536d35f6) |
-| Wed, 18 Mar 2026 08:42:02 GMT | Post-Quantum Cryptography: What It Means for Hardware, Networks, and Global Security | K. Vijaya Lakshmi | [Read More](https://medium.com/p/3806ca1107b6) |
-| Wed, 18 Mar 2026 08:34:04 GMT | AI-Powered Incident Response: Reducing Detection-to-Containment Time | NetWitness | [Read More](https://medium.com/p/3e0e6e782e1c) |
-| Wed, 18 Mar 2026 08:32:54 GMT | Memory Allocation in Windows (Malware Perspective) — NIR(2) | TheCyberNirvana | [Read More](https://medium.com/p/67dfb477313d) |
-| Wed, 18 Mar 2026 08:29:54 GMT | Dev Diaries Walkthrough — TryHackMe | bageera | [Read More](https://medium.com/p/d0c1f2356d72) |
-| Wed, 18 Mar 2026 08:29:38 GMT | What is the CIA Triad — and why every security decision starts here | Fahshadaju | [Read More](https://medium.com/p/e18d9a10a4de) |
-| Wed, 18 Mar 2026 08:28:15 GMT | Modernizing Legacy ERP: Secure Web Access Without a Costly Overhaul | TSplus Academy | [Read More](https://medium.com/p/f81da275f8fd) |
