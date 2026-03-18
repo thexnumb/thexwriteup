@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 07:30:37 GMT | Cyber Security Director Database - DemandGridX Guide | Charucherry | [Read More](https://medium.com/p/47af6ea41eff) |
+| Wed, 18 Mar 2026 07:22:40 GMT | I Built a Hacking Tool That Thinks Like a Penetration Tester. Here’s How: | Abhramaitra | [Read More](https://medium.com/p/e98b67443da9) |
+| Wed, 18 Mar 2026 07:07:39 GMT | Why Infrastructure Failures Go Unnoticed Without Expert Monitoring | Gavin Ellis | [Read More](https://medium.com/p/fd81f4f44c75) |
+| Wed, 18 Mar 2026 07:05:34 GMT | Flag Command : HTB challenge (CTF) | Olina Kundu | [Read More](https://medium.com/p/61bd8f67f50d) |
+| Wed, 18 Mar 2026 06:58:15 GMT | Setting Up ML Based Anomaly Detection in Wazuh | Arslan Khawaja | [Read More](https://medium.com/p/badd567fe9da) |
+| Wed, 18 Mar 2026 06:55:02 GMT | Dev Diaries TryHackMe — Full Walkthrough (OSINT + Git History Leak) | m0ro23 | [Read More](https://medium.com/p/d5fb8004493f) |
+| Wed, 18 Mar 2026 06:51:52 GMT | The Rise of the Malicious Agent: Securing the 2026 Agentic Attack Surface | Dilshan Christopher | [Read More](https://medium.com/p/15716a820055) |
+| Wed, 18 Mar 2026 06:50:16 GMT | Detection Engineering in Real SOC: From Alerts to Attack Chains | Paritosh | [Read More](https://medium.com/p/d6da25151453) |
+| Wed, 18 Mar 2026 06:46:50 GMT | “Confused Deputy Attack” on Cloud Run | Aniket Agrawal | [Read More](https://medium.com/p/4e4037d8fc5d) |
+| Wed, 18 Mar 2026 06:46:10 GMT | Using Cloud Armor with an External CDN: Identifying the Real Client IP | mm | [Read More](https://medium.com/p/a34779c015d1) |
+| Wed, 18 Mar 2026 06:43:30 GMT | The Real Reason Companies Fail at Cybersecurity | Cybersphere Official | [Read More](https://medium.com/p/df76f2bd386f) |
+| Wed, 18 Mar 2026 06:38:37 GMT | In a fast-growing and dynamic city like Dubai, safety and security are essential for businesses… | Magnum Security | [Read More](https://medium.com/p/c0301ba7ed8b) |
+| Wed, 18 Mar 2026 06:26:08 GMT | Top AI Security Vulnerabilities Every Developer Should Know | Modern Security | [Read More](https://medium.com/p/927f25c4180f) |
+| Wed, 18 Mar 2026 06:25:41 GMT | Breaking Into a Machine: My TryHackMe “Basic Pentesting” Walkthrough | Abhishek sibi | [Read More](https://medium.com/p/23501b5f6ca1) |
+| Wed, 18 Mar 2026 06:25:14 GMT | The Rise of the “Agentic Era” | Cynox Security LLP. | [Read More](https://medium.com/p/855c9db2128c) |
+| Wed, 18 Mar 2026 06:19:42 GMT | Top-Rated AI Development Companies in California in 2026 | Lily Parker | [Read More](https://medium.com/p/2745d79f0a6c) |
+| Wed, 18 Mar 2026 06:12:54 GMT | 10 IoT Devices Bug Bounty Hunters Should Look For During Recon | ghostyjoe | [Read More](https://medium.com/p/fd852e2511b6) |
+| Wed, 18 Mar 2026 06:10:28 GMT | Role Migration Using the Create Export Package Method | Yashwanth Gowda H R | [Read More](https://medium.com/p/d6aec1d36331) |
+| Wed, 18 Mar 2026 06:04:23 GMT | Master Directory Brute-Forcing: A Guide to Using ffuf | Aditya InfosecTrain | [Read More](https://medium.com/p/f45b496bd308) |
 | Wed, 18 Mar 2026 05:51:51 GMT | AI Antivirus is Changing Everything — And It’s Free | Reflex AI | [Read More](https://medium.com/p/524f7c269571) |
 | Wed, 18 Mar 2026 05:50:21 GMT | Cadena Bitcoin vs Web3 Products: A Critical Analysis of Risks, Control, and Security | Cadena Bitcoin | [Read More](https://medium.com/p/7ed6574b34e8) |
 | Wed, 18 Mar 2026 05:49:26 GMT | CyCTF Luxor Reverse Write-up 2026 : BabyBlackBox | VampireXRay | [Read More](https://medium.com/p/6e7820e8ffe4) |
@@ -93,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Mar 2026 21:11:39 GMT | 5 Contoh Keamanan Informasi Yang Sering Terjadi Di Sekitar Kita | Dewa Ngakan Nyoman Martina Putra | [Read More](https://medium.com/p/b2f5690fc0a8) |
 | Tue, 17 Mar 2026 21:01:13 GMT | From Strategic Depth to Strategic Threat: Pakistan–Afghanistan Relations in the Era of Escalating… | Umer Hussnain Ahmad | [Read More](https://medium.com/p/0c48ae56bd26) |
 | Tue, 17 Mar 2026 21:01:01 GMT | Unfiltered Restart — Day 28+29: Windows Tools | Maximillian Rueda | [Read More](https://medium.com/p/9edf176e0940) |
-| Tue, 17 Mar 2026 20:59:11 GMT | OWASP Top 10 Explained: What Every Developer Must Know Before They Ship | SHOAIB SHAHRIAR | [Read More](https://medium.com/p/a9a54b669a7d) |
-| Tue, 17 Mar 2026 20:59:00 GMT | The Stryker Wipeout: When Your Own IT Tools Become Weapons of Mass Destruction
-In mid-March 2026… | Shiyanthan Shiya | [Read More](https://medium.com/p/3782cc8f966c) |
-| Tue, 17 Mar 2026 20:58:34 GMT | Dev Diaries — TryHackMe CTF Challenge Walkthrough | Karim Hesham | [Read More](https://medium.com/p/be81a6e17a39) |
-| Tue, 17 Mar 2026 20:52:11 GMT | I Finally Understood Buffer Overflows by Exploiting One Myself | Balazs Banto | [Read More](https://medium.com/p/995ec8ecf5c7) |
-| Tue, 17 Mar 2026 20:44:32 GMT | The Three Most Critical Threats to U.S. National Security in 2026 | Ian McIntire, MPA | [Read More](https://medium.com/p/5049055bea31) |
-| Tue, 17 Mar 2026 20:43:39 GMT | Magnetic Door Sensor Alarm: A Simple Way to Protect Your Home | Criminology Expert | [Read More](https://medium.com/p/acb22963d110) |
-| Tue, 17 Mar 2026 20:41:00 GMT | Data Breaches Are Not Just a Big Company Problem and Small Businesses Are Paying the Price | Empire Cover | [Read More](https://medium.com/p/77f2f33652f6) |
-| Tue, 17 Mar 2026 20:39:50 GMT | 2 Zero-Days in sliver! What if I found your Sliver payload? | skove | [Read More](https://medium.com/p/7b0251849047) |
-| Tue, 17 Mar 2026 20:38:50 GMT | Anton’s Vibe Coding Experience: A Reflection on Risk Decisions | Anton Chuvakin | [Read More](https://medium.com/p/4e936530a650) |
-| Tue, 17 Mar 2026 20:31:01 GMT | ARP Explained: How Devices Discover MAC Addresses in a Network | Ndu | [Read More](https://medium.com/p/02e4db03351c) |
-| Tue, 17 Mar 2026 20:28:20 GMT | Trust Identity Architecture | Joshua Moses | [Read More](https://medium.com/p/d32e6417cd96) |
-| Tue, 17 Mar 2026 20:28:08 GMT | I Built a Network Security Tool in 2 Weeks. I’m Not a Hacker. | Abhramaitra | [Read More](https://medium.com/p/d6d1390397f0) |
-| Tue, 17 Mar 2026 20:24:04 GMT | What to Actually Look for When Hiring a Security Guard Company | Uniworth security | [Read More](https://medium.com/p/d41ca3183960) |
-| Tue, 17 Mar 2026 20:21:28 GMT | JWTs for People Who Hunt Bugs, Not Blog Posts | sin99xx | [Read More](https://medium.com/p/3c7020d2d7d8) |
-| Tue, 17 Mar 2026 20:16:51 GMT | The Global Grift: The Industrialisation of Technical Fraud — Surveying The Estate | Martyn Richard Jones | [Read More](https://medium.com/p/1d57a0e4be12) |
-| Tue, 17 Mar 2026 20:16:16 GMT | Active Directory - Offensive Security Proving Grounds Access Writeup | SilentExploit | [Read More](https://medium.com/p/f11ecf00fb16) |
-| Tue, 17 Mar 2026 20:13:04 GMT | Someone Just Pushed Your API Keys to GitHub. You Have Minutes Before the Bots Find Them. | Yusuf Seyitoğlu | [Read More](https://medium.com/p/42d68b4344e3) |
-| Tue, 17 Mar 2026 20:12:47 GMT | Burp Storage Issue? Here’s the Actual Fix | Likith Teki | [Read More](https://medium.com/p/a4749a0e19ca) |
-| Tue, 17 Mar 2026 19:59:28 GMT | Why Your Indian Business Needs More Than Just a Firewall: A Deep Dive into VAPT Services in India | Shazeb EyeQ | [Read More](https://medium.com/p/c828c4226a9a) |
