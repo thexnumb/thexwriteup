@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 20:40:55 GMT | Your AI Agent Just Leaked Your API Keys. Its Response? A Perfectly Helpful Summary. | Anuj Kaul | [Read More](https://medium.com/p/e65d20f98188) |
+| Wed, 18 Mar 2026 20:38:26 GMT | How Going for a Run Saved My Crypto | Jerry Chai | [Read More](https://medium.com/p/8994592b84b9) |
+| Wed, 18 Mar 2026 20:31:46 GMT | PDF Malware Analysis Lab: Benign vs. Malicious Samples with PDFiD, pdf-parser & peepdf | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/6765c9e51716) |
+| Wed, 18 Mar 2026 20:27:22 GMT | The Privacy We Lost by Default | Del Schlangen | [Read More](https://medium.com/p/e60112eb6712) |
+| Wed, 18 Mar 2026 20:20:44 GMT | Cloudflare: How a Spam-Fighting Idea Became a Core Layer of the Internet | Atlas Meta | [Read More](https://medium.com/p/0e95eb907661) |
+| Wed, 18 Mar 2026 20:06:27 GMT | Conduct Offensive Security Assessments on Large-Scale Web Applications, REST APIs, and Cloud-Backed… | Nazeer | [Read More](https://medium.com/p/3a717825434d) |
+| Wed, 18 Mar 2026 20:04:30 GMT | The 5 Biggest Cybersecurity Blind Spots Small Businesses Face in 2026 — And How to Fix Them | NMA iT Service | [Read More](https://medium.com/p/cb4ce55b9625) |
+| Wed, 18 Mar 2026 20:03:01 GMT | Engineers Don’t Care About Compliance. And Spoiler Alert: They Shouldn’t Need To. | Ali Naqvi | [Read More](https://medium.com/p/ec5e175afca2) |
+| Wed, 18 Mar 2026 19:58:27 GMT | The Aura Breach: Why Identity Protection Isn’t a Magic Bullet for Enterprise Security | Chase Sims | [Read More](https://medium.com/p/587b6d227467) |
 | Wed, 18 Mar 2026 19:50:21 GMT | The Impact of AI on Cybersecurity | Ronan McGilligan | [Read More](https://medium.com/p/01ac99516d9c) |
 | Wed, 18 Mar 2026 19:47:32 GMT | Secuview 8MP Full HD Outdoor IP Camera - Water-proof & ONVIF. | secuview | [Read More](https://medium.com/p/aa89ff3495c7) |
 | Wed, 18 Mar 2026 19:46:56 GMT | Secuview 6MP Outdoor IP PTZ Camera - Auto-Focus Lens & Weatherproof. | secuview | [Read More](https://medium.com/p/3c1cd6f459cc) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 14:10:49 GMT | Agentic AI vs. AI Agents: Cyber Resilience, Risk Surface ve Secure Architecture Yaklaşımı | Gizem Şahin | [Read More](https://medium.com/p/4814f722a5c2) |
 | Wed, 18 Mar 2026 14:09:29 GMT | End-to-End Supply Chain Security with Open Source Tools | Marshall Humble | [Read More](https://medium.com/p/b9f4b8e452e9) |
 | Wed, 18 Mar 2026 14:09:05 GMT | Difference Between Digital Marketing and Social Media Marketing. | Blesson Charles | [Read More](https://medium.com/p/e12f06a9988d) |
-| Wed, 18 Mar 2026 14:07:33 GMT | I Compiled 70+ Hacking Cheatsheets into One Repo | Ilias Georgopoulos | [Read More](https://medium.com/p/27d2d48a9a9c) |
-| Wed, 18 Mar 2026 14:04:33 GMT | Google Shows Websites… Shodan Shows Exposed Systems | Bugitrix | [Read More](https://medium.com/p/1fa29c886507) |
-| Wed, 18 Mar 2026 14:01:57 GMT | Is Your iPhone Really Safe? | Superasystem Inc. | [Read More](https://medium.com/p/d9ce7adcea70) |
-| Wed, 18 Mar 2026 13:53:45 GMT | Robust CI/CD Security on a Zero Dollar Budget | Marshall Humble | [Read More](https://medium.com/p/5f09c03de5a0) |
-| Wed, 18 Mar 2026 13:51:27 GMT | Vibe Coding My Way to a Better Pentesting Workflow | Ilias Georgopoulos | [Read More](https://medium.com/p/8303a6d0c813) |
-| Wed, 18 Mar 2026 13:42:43 GMT | Mr Robot Walkthrough By Ryan Cham | Ryan Cham Rui Yang | [Read More](https://medium.com/p/8e7500ff8d2e) |
-| Wed, 18 Mar 2026 13:38:42 GMT | CyberSploit1 — OffSec Proving Grounds Play Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/6615a4ff5b73) |
-| Wed, 18 Mar 2026 13:34:39 GMT | AI is now helping Attackers | Dr. Shashi Karhail | [Read More](https://medium.com/p/0bdc8ad6117d) |
-| Wed, 18 Mar 2026 13:34:03 GMT | Exploiting SQL Injection to Bypass Login Authentication - PortSwigger Lab Write-up | shivam sharma | [Read More](https://medium.com/p/3e5329d8689d) |
