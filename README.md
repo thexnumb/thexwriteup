@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Mar 2026 01:50:45 GMT | Application Gateway vs Front Door vs NVA: como escolher o padrão certo para apps enterprise no… | Leonardo Mariano Côco | [Read More](https://medium.com/p/8d4a74427fe9) |
+| Wed, 18 Mar 2026 01:43:30 GMT | In cybersecurity, every dollar counts. Where should the first $100K go? | Raman | [Read More](https://medium.com/p/7c39b5421f2d) |
+| Wed, 18 Mar 2026 01:27:19 GMT | Dumbest Security Fails #4: Panera Bread’s Neglect | Snarky Lisa | [Read More](https://medium.com/p/354bb1e88b71) |
+| Wed, 18 Mar 2026 01:14:47 GMT | Web Design, App Development, and IT Solutions for Small Businesses, Startups, and Tech Companies in… | Arthour PenDragon | [Read More](https://medium.com/p/6a7d0f41e999) |
+| Wed, 18 Mar 2026 01:11:33 GMT | Detect Malicious Attachment Execution Chain from Office Apps (MITRE ATT&CK T1566) | Bharath Bandari | [Read More](https://medium.com/p/1ef7c82db279) |
+| Wed, 18 Mar 2026 01:05:41 GMT | A True Solution for Low Credit | Richard Gilman | [Read More](https://medium.com/p/2547cf28dae1) |
+| Wed, 18 Mar 2026 01:03:36 GMT | The Volt-Ghost Project — 2026 | Hamza Mahmoud Ahmed | [Read More](https://medium.com/p/40b0956617c3) |
+| Wed, 18 Mar 2026 01:02:06 GMT | Proving Grounds — Practice — flow | Makoyi | [Read More](https://medium.com/p/9adf7b51d144) |
+| Wed, 18 Mar 2026 01:00:40 GMT | Shielding Your Business from DDoS Attacks with Web Security | Pamela Salon | [Read More](https://medium.com/p/1f512f829862) |
+| Wed, 18 Mar 2026 00:54:01 GMT | ‍ AD Got Cooked: From SMB Enum to Azure AD Connect Abuse | Jabaribrown | [Read More](https://medium.com/p/f6554d2bcafe) |
+| Wed, 18 Mar 2026 00:47:16 GMT | I.T. Study Games, the best way to study for certifications in 2026. | IT Study Games | [Read More](https://medium.com/p/79294ad1583b) |
 | Tue, 17 Mar 2026 23:43:28 GMT | Your AI Assistant Shouldn’t Be Trained on Your Secrets — Here’s the Fix | Azazul | [Read More](https://medium.com/p/0660d8d28e26) |
 | Tue, 17 Mar 2026 23:37:45 GMT | A Robot Got “Arrested”… While Others Learned Kung Fu — Are We Laughing at the Wrong Thing? | Snooptsz | [Read More](https://medium.com/p/bf22286b137b) |
 | Tue, 17 Mar 2026 23:32:35 GMT | Before you plug them in: How to assess a vendor’s security posture | Adeoluwa Obadofin | [Read More](https://medium.com/p/5a4e53945543) |
@@ -102,14 +113,3 @@ In mid-March 2026… | Shiyanthan Shiya | [Read More](https://medium.com/p/3782c
 | Tue, 17 Mar 2026 17:41:09 GMT | TryHackMe — Dev Diaries Solution | Ajay Manivannan | [Read More](https://medium.com/p/1e52c04dbf54) |
 | Tue, 17 Mar 2026 17:38:16 GMT | “Building a Stealthy Keylogger in Python for System Monitoring” | Akhilswami | [Read More](https://medium.com/p/a6976e4641b4) |
 | Tue, 17 Mar 2026 17:37:09 GMT | what’s is cloud? | Kevin Ronex | [Read More](https://medium.com/p/b1362586c2f6) |
-| Tue, 17 Mar 2026 17:37:08 GMT | How QA Can Help Teams Learn from Mistakes | Higor Mesquita | [Read More](https://medium.com/p/afa202b37682) |
-| Tue, 17 Mar 2026 17:35:47 GMT | Security Company in Mississauga: Reliable Protection for Your Business & Property | Leobarandgrill | [Read More](https://medium.com/p/605fa7eafe0a) |
-| Tue, 17 Mar 2026 17:34:33 GMT | Day Two(2) of Learning python, Cybersecurity basics(Date:-17 March 2026) | Aman | [Read More](https://medium.com/p/c24b5aea53dd) |
-| Tue, 17 Mar 2026 17:34:02 GMT | Yapay Zeka Siber Saldırılarda Kullanılıyor mu? | Ali Yaşe | [Read More](https://medium.com/p/48c7f3b16c1c) |
-| Tue, 17 Mar 2026 17:31:04 GMT | We Needed a Benchmark That Didn’t Exist. So We Built One. | Jost Faganel | [Read More](https://medium.com/p/f9333c9e4a2b) |
-| Tue, 17 Mar 2026 17:30:30 GMT | IDOR: The Simple Parameter Change That Can Expose Someone Else’s Data | Monika sharma | [Read More](https://medium.com/p/4248c634b952) |
-| Tue, 17 Mar 2026 17:29:53 GMT | Siber Savaş Nedir? | Ali Yaşe | [Read More](https://medium.com/p/458d8e332d80) |
-| Tue, 17 Mar 2026 17:27:49 GMT | Zero Trust Is Failing - And Most Organizations Don’t Realize It | Dr. Shashi Karhail | [Read More](https://medium.com/p/70f86ece1b28) |
-| Tue, 17 Mar 2026 17:24:35 GMT | Vanta: Security Compliance, Made Simple | D3ad_M3m0r13s | [Read More](https://medium.com/p/c061bdf03a26) |
-| Tue, 17 Mar 2026 17:08:51 GMT | Ever wondered how “Unsubscribe” works in emails — without you ever logging in? | Asitwaghmare | [Read More](https://medium.com/p/86a867f69c6b) |
-| Tue, 17 Mar 2026 17:04:18 GMT | 5 Warning Signs Your Company’s Network Is About To Fail | Gaogroupdmi | [Read More](https://medium.com/p/8d8506fc5bf5) |
