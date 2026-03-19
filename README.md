@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 09:40:11 GMT | The Future of Digital Payments
+Digital payments are transforming how we buy and sell. | Siddharth Somany | [Read More](https://medium.com/p/225529527aea) |
+| Thu, 19 Mar 2026 09:38:02 GMT | Kamu Pikir Aplikasi Aman? | Fikrimuzaki | [Read More](https://medium.com/p/79e40d66b0db) |
+| Thu, 19 Mar 2026 09:33:45 GMT | Best Cyber Range Platform for Beginners and Professionals | cyber security Updates | [Read More](https://medium.com/p/96bfd35d76cc) |
+| Thu, 19 Mar 2026 09:28:21 GMT | Building and Deploying a Product Listing Frontend App with AWS Amplify | Maryammairaj | [Read More](https://medium.com/p/f67ec7a26dc2) |
+| Thu, 19 Mar 2026 09:25:35 GMT | OSI Modeli Nedir ve Nasıl Çalışır? | Onur Öztürk | [Read More](https://medium.com/p/1e8b31484ee4) |
+| Thu, 19 Mar 2026 09:24:02 GMT | The Ultimate Guide to Choosing the Best Cheap Linux Server in 2026 (Without Compromising Security) | Andy | [Read More](https://medium.com/p/106dd3fe5a9e) |
+| Thu, 19 Mar 2026 09:23:53 GMT | Beyond the Inbox — Introducing Web Campaigns | delivr.to | [Read More](https://medium.com/p/ee137d868dc0) |
+| Thu, 19 Mar 2026 09:23:50 GMT | ADFT: Offline Active Directory Investigation with Deterministic Detection and a Local Web UI | Elie.md | [Read More](https://medium.com/p/955e4a75c0f4) |
+| Thu, 19 Mar 2026 09:22:37 GMT | VIP Locksmith Services in London: Premium Security Solutions for Homes and Businesses | N1locksmithsltd | [Read More](https://medium.com/p/fd511d8c6a2b) |
+| Thu, 19 Mar 2026 09:21:42 GMT | Best Practices and Strategies for Data Security Management: | HawkShield | [Read More](https://medium.com/p/5d6913962131) |
+| Thu, 19 Mar 2026 09:21:05 GMT | Detecting AD Lateral Movement Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/2f4eac37ef9a) |
+| Thu, 19 Mar 2026 09:19:07 GMT | Batch Processing for Setting IE Homepage, Trusted Security Zones, Compatibility View, and… | Excalibra | [Read More](https://medium.com/p/b3c016ae7c51) |
+| Thu, 19 Mar 2026 09:14:49 GMT | Ploutus Malware: Uptick in ATM jackpotting incidents prompts FBI warning | Aenosh Rajora | [Read More](https://medium.com/p/554a944847b6) |
+| Thu, 19 Mar 2026 09:03:03 GMT | Cara Mengenali Situs Resmi Flyingslot & Menghindari Phishing (Panduan Video) | flyingslot | [Read More](https://medium.com/p/3433c1f0409f) |
+| Thu, 19 Mar 2026 08:57:40 GMT | The Sky Network: How Drone Logistics and Airspace “Eyes” Are Reshaping the Future of Delivery | Melaine Chan | [Read More](https://medium.com/p/a0ce9b91f055) |
+| Thu, 19 Mar 2026 08:52:54 GMT | “SQL Injection Unleashed: Dari Payload Dasar hingga Automasi dengan SQLMap” | Ahmat Prayoga Sembiring | [Read More](https://medium.com/p/be1ea0a4ff23) |
+| Thu, 19 Mar 2026 08:50:51 GMT | Is DeeptradeX Safe? | 孙Nicky | [Read More](https://medium.com/p/93ff4b1dc3a6) |
 | Thu, 19 Mar 2026 08:44:11 GMT | PKCE Explained: Securing Your App’s Login Flow Without Exposing User Secrets | Tazwarutshas | [Read More](https://medium.com/p/9e289f59bf62) |
 | Thu, 19 Mar 2026 08:42:10 GMT | Incident-Based Facial Recognition & CCTV Trace System | Maramreddy Praveen Reddy | [Read More](https://medium.com/p/4d5a8d3b133e) |
 | Thu, 19 Mar 2026 08:38:26 GMT | Mastering Apache Ranger: Tag-Based Policies | Dinesh kumar | [Read More](https://medium.com/p/c570e52a9dd4) |
@@ -50,6 +68,7 @@ Know What It Did. | abluva-research | [Read More](https://medium.com/p/552534f2b
 | Thu, 19 Mar 2026 06:54:47 GMT | ️ Free Ethical Hacking Certificate — Start Your Cybersecurity Journey | Cyberabhisharma | [Read More](https://medium.com/p/5da460d302a5) |
 | Thu, 19 Mar 2026 06:53:53 GMT | “THE DAY I REALIZED MY DATA WAS NEVER MINE” | Atieclinton | [Read More](https://medium.com/p/796b75236820) |
 | Thu, 19 Mar 2026 06:48:49 GMT | Build Smarter Automation Workflows | n8ndevelopers | [Read More](https://medium.com/p/60342b3a4683) |
+| Thu, 19 Mar 2026 06:43:17 GMT | Analisis Keamanan Information di Era Digital | Ayurisma | [Read More](https://medium.com/p/7a8ae2436538) |
 | Thu, 19 Mar 2026 06:33:21 GMT | Cyber security course in Kerala | Anjanadas | [Read More](https://medium.com/p/19e269f6cf7b) |
 | Thu, 19 Mar 2026 06:31:26 GMT | Top 5 Malware TTPs Every SOC Analyst Should Know in 2026 | Paritosh | [Read More](https://medium.com/p/a4fd06c18d4d) |
 | Thu, 19 Mar 2026 06:24:23 GMT | Behind the Firewall: How Security Teams Detect Threats and Stop Attacks | Miha Stele | [Read More](https://medium.com/p/ef635285518a) |
@@ -96,21 +115,3 @@ Know What It Did. | abluva-research | [Read More](https://medium.com/p/552534f2b
 | Thu, 19 Mar 2026 03:26:12 GMT | AI Agent Security Has a Blind Spot — And It’s Not Prompt Injection | Ryan Goodrich | [Read More](https://medium.com/p/a348f24fb959) |
 | Thu, 19 Mar 2026 02:28:10 GMT | The Resistance: What I’m Really Protecting Myself From When I Hit Snooze | Lisa Deveaux | [Read More](https://medium.com/p/4a13ab4e6706) |
 | Thu, 19 Mar 2026 02:23:52 GMT | SSRF via Unvalidated Preflight Location Header in Turborepo Leads to Auth Token Theft | Aser Ahmed | [Read More](https://medium.com/p/dc69445daee0) |
-| Thu, 19 Mar 2026 01:32:28 GMT | HTB Bank: Chasing Balance Transfers to Root Shell | Onurcan Genç | [Read More](https://medium.com/p/dda06568fce8) |
-| Thu, 19 Mar 2026 01:27:14 GMT | Top IT Certifications by Difficulty (2026): A Strategic Guide for IT Career Growth | AAAdemy | [Read More](https://medium.com/p/f4ad433f22b2) |
-| Thu, 19 Mar 2026 01:03:31 GMT | Go Maldev #2: Notes from another PID(Windows Injector) | Bobby | [Read More](https://medium.com/p/966cdede925d) |
-| Thu, 19 Mar 2026 00:56:00 GMT | Divorce Strategy for Women: Protect Your Assets When He Hides Everything | Misass | [Read More](https://medium.com/p/ac8371d65db6) |
-| Thu, 19 Mar 2026 00:46:40 GMT | Tired of drowning in malware samples? ASD just dropped an open-source lifeline. | The Cyber Ghost | [Read More](https://medium.com/p/31c37cffdde9) |
-| Thu, 19 Mar 2026 00:44:56 GMT | How Captive Portal Detection Powers Secure Agentic AI Workflows | Mammoth Cyber | [Read More](https://medium.com/p/0b279e6ded1b) |
-| Thu, 19 Mar 2026 00:40:52 GMT | What’s a hacker’s favorite type of exercise? Phishing for compliments! | Steven Chin | [Read More](https://medium.com/p/cfbc8d64626f) |
-| Thu, 19 Mar 2026 00:12:34 GMT | Your Git History Is Lying to You: Inside GlassWorm, the Supply Chain Attack That Rewrites Reality | PIXIPACE | [Read More](https://medium.com/p/80abb9289989) |
-| Thu, 19 Mar 2026 00:00:05 GMT | NCAE Cyber Games - UCF’s Overview & How to Prepare - 2026 | Delta | [Read More](https://medium.com/p/ac58e68f9ce3) |
-| Wed, 18 Mar 2026 23:41:59 GMT | What Is HKDF and Why We Use It for End-to-End Encryption at onetimelink.me | Igor Yermakov | [Read More](https://medium.com/p/b8b0444f5fbf) |
-| Wed, 18 Mar 2026 23:37:48 GMT | Stoics Cry Too | Justin Edgar | [Read More](https://medium.com/p/93b79084c924) |
-| Wed, 18 Mar 2026 23:37:22 GMT | How Instagram Accounts Actually Get Hacked (Step-by-Step) | Subrat Mahanta | [Read More](https://medium.com/p/acf2fdd2aa95) |
-| Wed, 18 Mar 2026 23:24:23 GMT | How I See and Hear CISOs Select Vendors Today! | Younos Nazarian | [Read More](https://medium.com/p/47d9fd74cbae) |
-| Wed, 18 Mar 2026 22:59:14 GMT | TryHackMe SOC Analyst Road Map Part-13 | safa kaya | [Read More](https://medium.com/p/b02706623b72) |
-| Wed, 18 Mar 2026 22:56:11 GMT | Day 2- Network+ N10–009 Networking Appliances, Applications, and Functions | Hassen Hannachi | [Read More](https://medium.com/p/30d353db61b1) |
-| Wed, 18 Mar 2026 22:52:59 GMT | I Built an AI-Powered SOC Analyst for My MS Capstone — Here’s the Honest Story | Chaitanya Garware | [Read More](https://medium.com/p/5cc07b7a1494) |
-| Wed, 18 Mar 2026 22:49:22 GMT | The US Data Privacy & Data Security Landscape | Financial Poise | [Read More](https://medium.com/p/a2fd0574ec6d) |
-| Wed, 18 Mar 2026 22:48:21 GMT | Migrating Level Up Bank’s Website to AWS S3 | Emile Joseph | [Read More](https://medium.com/p/ee7f08bfa291) |
