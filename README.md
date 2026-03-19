@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 15:16:33 GMT | 什麼是 DMZ Zone？ — 網絡安全裡的公司接待區 | 思維舞步 MindSteps | [Read More](https://medium.com/p/e8c3ac96a2c4) |
+| Thu, 19 Mar 2026 15:13:22 GMT | From Governance to Sovereignty: The Next Frontier of Agentic AI Systems | Robert Saghafi | [Read More](https://medium.com/p/7fa5288ddc21) |
+| Thu, 19 Mar 2026 15:11:05 GMT | Do you store passwords in your Notes app? That’s exactly what Perseus is hunting for. | Aastha Thakker | [Read More](https://medium.com/p/b06483e77ba7) |
+| Thu, 19 Mar 2026 15:07:07 GMT | The Adversary Has Their Own ChatGPT — Inside the Criminal AI Underground | Bedrettin Cakmak | [Read More](https://medium.com/p/194cbdbd6136) |
+| Thu, 19 Mar 2026 15:04:17 GMT | Introducing HoneyDB AI | Px Mx | [Read More](https://medium.com/p/d15d66717af4) |
+| Thu, 19 Mar 2026 15:02:35 GMT | Conti TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/8571ff89cf51) |
+| Thu, 19 Mar 2026 15:01:00 GMT | Building a Real-Time IDS Lab & Detecting SSH Brute Force Attacks | Jaredleyva | [Read More](https://medium.com/p/01cb2fc8b4b6) |
+| Thu, 19 Mar 2026 14:59:43 GMT | Benign TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/2d2cfee5c9a6) |
+| Thu, 19 Mar 2026 14:57:08 GMT | We Started AnantNetra in 2023. | AnantNetra Technologies | [Read More](https://medium.com/p/74e1faaf27f8) |
+| Thu, 19 Mar 2026 14:57:01 GMT | CORS and CSRF Vulnerabilities | Damilola Faith Ashiedu | [Read More](https://medium.com/p/8794072583c3) |
+| Thu, 19 Mar 2026 14:52:25 GMT | Algernon Walkthrough (Proving Ground-windows) | cyber_public_school | [Read More](https://medium.com/p/5e892ab6098c) |
+| Thu, 19 Mar 2026 14:46:00 GMT | [DEEP RESEARCH] How Malware Uses Solana and EVM Chains to Rotate C2 Without Burning Infrastructure | Wes Young | [Read More](https://medium.com/p/e87b1595b65c) |
+| Thu, 19 Mar 2026 14:42:37 GMT | The Rise of AI-Driven Pentesting: 8 Open-Source Tools Security Teams Should Watch in 2026 | TechLatest.Net | [Read More](https://medium.com/p/e849c8171450) |
+| Thu, 19 Mar 2026 14:41:53 GMT | The Secret is Out: Microsoft Entra is Getting Native Backup (And Why It’s a Massive Win for MSPs) | Chase Sims | [Read More](https://medium.com/p/4a2fdfd4ca51) |
+| Thu, 19 Mar 2026 14:33:42 GMT | Fungsi Agregasi dan Filter Data pada SQL | Aghnia Azka | [Read More](https://medium.com/p/ee8b9d37978f) |
+| Thu, 19 Mar 2026 14:17:22 GMT | MoreLogin Security Incident Summary | MoreLogin Browser | [Read More](https://medium.com/p/e78ffec4762d) |
 | Thu, 19 Mar 2026 14:04:35 GMT | IT in Education | Joan Akao Mary Odwee | [Read More](https://medium.com/p/b2c247629d09) |
 | Thu, 19 Mar 2026 14:01:02 GMT | The biggest myth: “We’re small, we don’t need formal policies.” | Gaurav Shukla | [Read More](https://medium.com/p/a47140dfaf89) |
 | Thu, 19 Mar 2026 14:01:01 GMT | I Passed a Brand New Certification. There Were No Study Materials. So I Built Them. | Kevin P. Heaney | [Read More](https://medium.com/p/2982daefbf32) |
@@ -68,6 +84,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Mar 2026 10:17:34 GMT | Sliver C2 Deep Dive : Installing Sliver On Kali Linux | Maverick | [Read More](https://medium.com/p/d8001b30e15f) |
 | Thu, 19 Mar 2026 10:15:58 GMT | Connected Car Security Market worth $6.99 billion in 2032 | Shubhamchougalessc | [Read More](https://medium.com/p/d2fff7f35259) |
 | Thu, 19 Mar 2026 10:14:23 GMT | Complete Guide to Web Hosting in 2026 (Beginner to Advanced) | Ann Taylor | [Read More](https://medium.com/p/e2cb04acb256) |
+| Thu, 19 Mar 2026 10:13:10 GMT | Cybersécurité au Maroc : en 2026, votre entreprise pourrait-elle survivre à une cyberattaque ? | marwa BELLASFER | [Read More](https://medium.com/p/b1f3957dbbd7) |
 | Thu, 19 Mar 2026 10:11:26 GMT | Platform Security Series [Part 1] | M. Taha Akça | [Read More](https://medium.com/p/f5fe91314295) |
 | Thu, 19 Mar 2026 10:07:23 GMT | Dev Diaries - TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/d67a40b7502b) |
 | Thu, 19 Mar 2026 10:06:01 GMT | What a Good Interim CISO Actually Changes in 90 Days | Tyson Martin | [Read More](https://medium.com/p/ede51232a011) |
@@ -96,22 +113,3 @@ Digital payments are transforming how we buy and sell. | Siddharth Somany | [Rea
 | Thu, 19 Mar 2026 09:21:05 GMT | Detecting AD Lateral Movement Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/2f4eac37ef9a) |
 | Thu, 19 Mar 2026 09:19:07 GMT | Batch Processing for Setting IE Homepage, Trusted Security Zones, Compatibility View, and… | Excalibra | [Read More](https://medium.com/p/b3c016ae7c51) |
 | Thu, 19 Mar 2026 09:14:49 GMT | Ploutus Malware: Uptick in ATM jackpotting incidents prompts FBI warning | Aenosh Rajora | [Read More](https://medium.com/p/554a944847b6) |
-| Thu, 19 Mar 2026 09:03:03 GMT | Cara Mengenali Situs Resmi Flyingslot & Menghindari Phishing (Panduan Video) | flyingslot | [Read More](https://medium.com/p/3433c1f0409f) |
-| Thu, 19 Mar 2026 08:57:40 GMT | The Sky Network: How Drone Logistics and Airspace “Eyes” Are Reshaping the Future of Delivery | Melaine Chan | [Read More](https://medium.com/p/a0ce9b91f055) |
-| Thu, 19 Mar 2026 08:52:54 GMT | “SQL Injection Unleashed: Dari Payload Dasar hingga Automasi dengan SQLMap” | Ahmat Prayoga Sembiring | [Read More](https://medium.com/p/be1ea0a4ff23) |
-| Thu, 19 Mar 2026 08:50:51 GMT | Is DeeptradeX Safe? | 孙Nicky | [Read More](https://medium.com/p/93ff4b1dc3a6) |
-| Thu, 19 Mar 2026 08:44:11 GMT | PKCE Explained: Securing Your App’s Login Flow Without Exposing User Secrets | Tazwarutshas | [Read More](https://medium.com/p/9e289f59bf62) |
-| Thu, 19 Mar 2026 08:42:10 GMT | Incident-Based Facial Recognition & CCTV Trace System | Maramreddy Praveen Reddy | [Read More](https://medium.com/p/4d5a8d3b133e) |
-| Thu, 19 Mar 2026 08:38:26 GMT | Mastering Apache Ranger: Tag-Based Policies | Dinesh kumar | [Read More](https://medium.com/p/c570e52a9dd4) |
-| Thu, 19 Mar 2026 08:34:54 GMT | The Agent Is Already Inside
-Your Database. You Just Don’t
-Know What It Did. | abluva-research | [Read More](https://medium.com/p/552534f2bef8) |
-| Thu, 19 Mar 2026 08:33:48 GMT | Why the “Hacker Mindset” is the most overused phrase in cybersecurity | h@shtalk | [Read More](https://medium.com/p/271f095cde7d) |
-| Thu, 19 Mar 2026 08:26:42 GMT | Navigating the Infinite Loop: Essential Strategies for Robust Multi-Agent Systems | Alessandro Pignati | [Read More](https://medium.com/p/ed3c2cf44c6e) |
-| Thu, 19 Mar 2026 08:21:59 GMT | Running OpenClaw on a Mac Mini: A 2026 Production Setup Guide | BastiaanRudolf | [Read More](https://medium.com/p/582e6f7c2b59) |
-| Thu, 19 Mar 2026 08:19:35 GMT | Middle East & Africa Penetration Testing Market Gains Momentum Amid Rising Cyber Risks | Sheetalbhusari | [Read More](https://medium.com/p/898b19862de0) |
-| Thu, 19 Mar 2026 08:19:04 GMT | Preventing Unexpected Code Execution in AI Agents | Will Velida | [Read More](https://medium.com/p/769091a21c24) |
-| Thu, 19 Mar 2026 08:17:05 GMT | The Cost of PQC Keys and Signatures | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d633c32a341f) |
-| Thu, 19 Mar 2026 08:16:00 GMT | Infrastructure as Code Security Risks: The Hidden Danger in Modern DevOps | Ishita Kapoor | [Read More](https://medium.com/p/2818ebab3a8f) |
-| Thu, 19 Mar 2026 08:13:23 GMT | SoK: Securing Cross-Chain Bridges Attack Vectors, Design Risks, and Defense Strategies | Vygha | [Read More](https://medium.com/p/507d5b9e3b9b) |
-| Thu, 19 Mar 2026 08:08:18 GMT | Preventing Agent Goal Hijack in .NET AI Agents | Will Velida | [Read More](https://medium.com/p/09abcd68af52) |
