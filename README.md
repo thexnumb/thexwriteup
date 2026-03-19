@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 07:29:02 GMT | Build a Code Security Agent in 30 Minutes with Zeron ADK (ZAK) | Snehanjan Chatterjee | [Read More](https://medium.com/p/738de8ab3774) |
+| Thu, 19 Mar 2026 07:28:36 GMT | When Cyber Hits the Real World | Muhammad Ali Khan | [Read More](https://medium.com/p/b8412932d146) |
+| Thu, 19 Mar 2026 07:19:17 GMT | Walkthrough: Building a Real-Time Network Attack Detection & Automated Response System using AI… | Jenishjoel | [Read More](https://medium.com/p/bac362d733e9) |
+| Thu, 19 Mar 2026 07:17:45 GMT | Complete OTP Verification Bypass in Registration Flow via Manipulated Server Response | Maksudur Rahman | [Read More](https://medium.com/p/8c0c69afdad6) |
+| Thu, 19 Mar 2026 07:14:11 GMT | Antivirus Pro Detects Unauthorized Screen Recording During Confidential Mobile Sessions | Rahul yadav | [Read More](https://medium.com/p/d0f290a9390c) |
+| Thu, 19 Mar 2026 07:08:45 GMT | Chapter 12 · The Thaw | Hotoke | [Read More](https://medium.com/p/e5177bba976c) |
+| Thu, 19 Mar 2026 07:06:26 GMT | ⚙️ How to Exploit IoT Misconfigurations (Safely & Legally) | ghostyjoe | [Read More](https://medium.com/p/a147a62406d8) |
+| Thu, 19 Mar 2026 07:05:26 GMT | Missing Person-THM Writeup- | Fahisshehandim | [Read More](https://medium.com/p/67c493cdf618) |
+| Thu, 19 Mar 2026 07:04:54 GMT | Why Your Gateway Should Know Where Traffic is Going (and Why IPs Aren’t Enough) | Wsone | [Read More](https://medium.com/p/66847cdf4ba1) |
+| Thu, 19 Mar 2026 07:01:01 GMT | 17. Securing CI/CD Pipelines like a pro. | Mangesh Muley | [Read More](https://medium.com/p/bb01ed6056c2) |
+| Thu, 19 Mar 2026 06:58:06 GMT | Future of Email Security Solutions 5 Innovations Businesses Can’t Ignore | HawkShield | [Read More](https://medium.com/p/66d8979272cd) |
+| Thu, 19 Mar 2026 06:57:55 GMT | Why Privacy-First AI Is Not a Constraint — It’s a Competitive Advantage for Your Clients | Lekha Mishra | [Read More](https://medium.com/p/942cb47a6947) |
+| Thu, 19 Mar 2026 06:54:47 GMT | ️ Free Ethical Hacking Certificate — Start Your Cybersecurity Journey | Cyberabhisharma | [Read More](https://medium.com/p/5da460d302a5) |
+| Thu, 19 Mar 2026 06:53:53 GMT | “THE DAY I REALIZED MY DATA WAS NEVER MINE” | Atieclinton | [Read More](https://medium.com/p/796b75236820) |
+| Thu, 19 Mar 2026 06:48:49 GMT | Build Smarter Automation Workflows | n8ndevelopers | [Read More](https://medium.com/p/60342b3a4683) |
+| Thu, 19 Mar 2026 06:31:26 GMT | Top 5 Malware TTPs Every SOC Analyst Should Know in 2026 | Paritosh | [Read More](https://medium.com/p/a4fd06c18d4d) |
+| Thu, 19 Mar 2026 06:24:23 GMT | Behind the Firewall: How Security Teams Detect Threats and Stop Attacks | Miha Stele | [Read More](https://medium.com/p/ef635285518a) |
+| Thu, 19 Mar 2026 06:11:23 GMT | Learn Ethical Hacking with Cyber Security Course in Alappuzha | Abdulla Faheem | [Read More](https://medium.com/p/2b5059ea85de) |
+| Thu, 19 Mar 2026 05:58:23 GMT | Constraints Are Not Limits — They Are the Architecture of Intelligence | Michael Kraft | [Read More](https://medium.com/p/68f71764a29d) |
 | Thu, 19 Mar 2026 05:55:20 GMT | I Built a Web Security Lab and Watched SQL Injection Get Blocked in Real Time | Ronak Mishra | [Read More](https://medium.com/p/5f3bc8697dd8) |
 | Thu, 19 Mar 2026 05:54:45 GMT | When You Can’t Trust the Voice: Deepfake Phishing and Real-Time AI Impersonation Threats to… | Cynox Security LLP. | [Read More](https://medium.com/p/c8660ed21f33) |
 | Thu, 19 Mar 2026 05:54:14 GMT | Understanding AWS internet gateway-how cloud networks connect to the internet | unica 02 | [Read More](https://medium.com/p/d6a16f2d097f) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 21:18:42 GMT | OM token migration to MANTRA Chain mainnet | Barman | [Read More](https://medium.com/p/0f387530d36e) |
 | Wed, 18 Mar 2026 21:17:05 GMT | CHRONICLES OF A CYBERSECURITY NEWBIE (Pt. 1): CURIOSITY KILLS THE CAT… OR DOES IT? | Ms. X | [Read More](https://medium.com/p/dcc87e72f991) |
 | Wed, 18 Mar 2026 21:16:00 GMT | AI Output Is Easy to Generate. It’s Hard to Verify. | Hira Barton | [Read More](https://medium.com/p/be4300af0d33) |
-| Wed, 18 Mar 2026 21:08:53 GMT | The Digital Iron Curtain: 5 Surprising Realities of Moscow’s Great Internet Blackout | CCD-IS | [Read More](https://medium.com/p/6c38b741efb7) |
-| Wed, 18 Mar 2026 21:06:19 GMT | NFS Server Setup Guide: Configuring, Mounting, and Securing Network File Sharing on Linux | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/d9733bf051a4) |
-| Wed, 18 Mar 2026 21:05:20 GMT | Small Business Cybersecurity On A Budget: 3 Ideal Options To Look For To Maximize Security & Legal… | Christina Martin | [Read More](https://medium.com/p/ac91e0fef2c8) |
-| Wed, 18 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 30: CLI Tools | Maximillian Rueda | [Read More](https://medium.com/p/71126cf2ca57) |
-| Wed, 18 Mar 2026 20:58:26 GMT | LLM Agents Should Never Execute Raw Commands | DBA Labs | [Read More](https://medium.com/p/a80511ef1f82) |
-| Wed, 18 Mar 2026 20:48:08 GMT | Windows Malware Persistence (Tier 1) | oussama | [Read More](https://medium.com/p/92150aadeacc) |
-| Wed, 18 Mar 2026 20:40:55 GMT | Your AI Agent Just Leaked Your API Keys. Its Response? A Perfectly Helpful Summary. | Anuj Kaul | [Read More](https://medium.com/p/e65d20f98188) |
-| Wed, 18 Mar 2026 20:38:26 GMT | How Going for a Run Saved My Crypto | Jerry Chai | [Read More](https://medium.com/p/8994592b84b9) |
-| Wed, 18 Mar 2026 20:31:46 GMT | PDF Malware Analysis Lab: Benign vs. Malicious Samples with PDFiD, pdf-parser & peepdf | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/6765c9e51716) |
-| Wed, 18 Mar 2026 20:27:22 GMT | The Privacy We Lost by Default | Del Schlangen | [Read More](https://medium.com/p/e60112eb6712) |
-| Wed, 18 Mar 2026 20:20:44 GMT | Cloudflare: How a Spam-Fighting Idea Became a Core Layer of the Internet | Atlas Meta | [Read More](https://medium.com/p/0e95eb907661) |
-| Wed, 18 Mar 2026 20:06:27 GMT | Conduct Offensive Security Assessments on Large-Scale Web Applications, REST APIs, and Cloud-Backed… | Nazeer | [Read More](https://medium.com/p/3a717825434d) |
-| Wed, 18 Mar 2026 20:04:30 GMT | The 5 Biggest Cybersecurity Blind Spots Small Businesses Face in 2026 — And How to Fix Them | NMA iT Service | [Read More](https://medium.com/p/cb4ce55b9625) |
-| Wed, 18 Mar 2026 20:03:01 GMT | Engineers Don’t Care About Compliance. And Spoiler Alert: They Shouldn’t Need To. | Ali Naqvi | [Read More](https://medium.com/p/ec5e175afca2) |
-| Wed, 18 Mar 2026 19:58:27 GMT | The Aura Breach: Why Identity Protection Isn’t a Magic Bullet for Enterprise Security | Chase Sims | [Read More](https://medium.com/p/587b6d227467) |
-| Wed, 18 Mar 2026 19:50:21 GMT | The Impact of AI on Cybersecurity | Ronan McGilligan | [Read More](https://medium.com/p/01ac99516d9c) |
-| Wed, 18 Mar 2026 19:47:32 GMT | Secuview 8MP Full HD Outdoor IP Camera - Water-proof & ONVIF. | secuview | [Read More](https://medium.com/p/aa89ff3495c7) |
-| Wed, 18 Mar 2026 19:46:56 GMT | Secuview 6MP Outdoor IP PTZ Camera - Auto-Focus Lens & Weatherproof. | secuview | [Read More](https://medium.com/p/3c1cd6f459cc) |
-| Wed, 18 Mar 2026 19:43:24 GMT | SaaS Apps: The Blind Spot in Enterprise Security | JSOC IT BLOG | [Read More](https://medium.com/p/d47a36d8eaef) |
