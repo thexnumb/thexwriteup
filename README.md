@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 12:57:12 GMT | The Future of CISA: Industry Trends Every IT Auditor Must Understand | Swapnil Pratap Singh | [Read More](https://medium.com/p/8ea9e61499b4) |
+| Thu, 19 Mar 2026 12:52:42 GMT | I Have So Many Story Children | Words by Egypt | [Read More](https://medium.com/p/65da72ec7fc9) |
+| Thu, 19 Mar 2026 12:32:14 GMT | [Writeup] Captain Nohook | n3k00n3 | [Read More](https://medium.com/p/11daa98abae0) |
+| Thu, 19 Mar 2026 12:29:55 GMT | LPG गैस सिलेंडर नया स्कैम — एडवांस पेमेंट फ्रॉड से कैसे बचें | Cyberjaagruk | [Read More](https://medium.com/p/ae8302b44515) |
+| Thu, 19 Mar 2026 12:29:16 GMT | DuoKey and Kompingo Announce a Partnership to Expand Cybersecurity Reach Across the UK | DuoKey | [Read More](https://medium.com/p/0758d362ea3e) |
+| Thu, 19 Mar 2026 12:24:27 GMT | TryHackMe: Missing Person Writeup (OSINT Investigation) | Atharva | [Read More](https://medium.com/p/179ab1ac7607) |
+| Thu, 19 Mar 2026 12:15:49 GMT | Patching a Chall and a Real iOS App | n3k00n3 | [Read More](https://medium.com/p/1d952b07180e) |
+| Thu, 19 Mar 2026 12:07:46 GMT | How Google Evaluates Page Experience (Complete SEO Guide) | Jellyfr | [Read More](https://medium.com/p/5fe8f40ec3b9) |
+| Thu, 19 Mar 2026 12:06:16 GMT | FBI Buys Location Data, Robinhood’s Social Network, and the Death of Apps - The Daily Tech Digest… | Souren Stepanyan | [Read More](https://medium.com/p/54f67d064531) |
+| Thu, 19 Mar 2026 12:04:04 GMT | Zero-Hour Operations: Tactical Realities of High-Stakes Incident Response | Anna Bejan | [Read More](https://medium.com/p/5eed42e3b2ca) |
+| Thu, 19 Mar 2026 12:01:31 GMT | Top Custom Software Development Trends to Watch in 2026 | Prachi | [Read More](https://medium.com/p/bfe8f908b4e7) |
+| Thu, 19 Mar 2026 12:01:22 GMT | Demystifying Terms: Cybersecurity Vs. Cyber Security — What&apos;s the Difference? | cyber tech | [Read More](https://medium.com/p/4258dbb7ee37) |
+| Thu, 19 Mar 2026 12:00:49 GMT | How to Change Remote Desktop Password: A Complete Guide for Windows 10/11 (2026) | Campaign En | [Read More](https://medium.com/p/96a9df8d248b) |
+| Thu, 19 Mar 2026 12:00:25 GMT | How Niger’s Junta Became Arewa’s Hidden Security Threat | Arewa Edition | [Read More](https://medium.com/p/bbb3edc10b77) |
+| Thu, 19 Mar 2026 11:59:50 GMT | Build Secure Software (An Implementation for Java) | Alberto Hernandez Acosta | [Read More](https://medium.com/p/6fd1485e70fe) |
+| Thu, 19 Mar 2026 11:47:05 GMT | The Ultimate Guide to Ethical Hacking: Protecting the Digital Frontier | Blogmaster | [Read More](https://medium.com/p/29d316ff3b26) |
 | Thu, 19 Mar 2026 11:29:09 GMT | The Impact of Cyber Threats on Software Systems and the Risks of Late Bug Detection | Kenan Bagirov | [Read More](https://medium.com/p/691a52fa66fb) |
 | Thu, 19 Mar 2026 11:28:45 GMT | Don’t Let AI Replace You — Let It Promote You | Aakriti | [Read More](https://medium.com/p/8805c5563a76) |
 | Thu, 19 Mar 2026 11:28:24 GMT | The Real Reason Meta Is Killing Encrypted DMs on Instagram | Shreya Mehta | [Read More](https://medium.com/p/82c4e797d492) |
@@ -99,19 +115,3 @@ Know What It Did. | abluva-research | [Read More](https://medium.com/p/552534f2b
 | Thu, 19 Mar 2026 07:05:26 GMT | Missing Person-THM Writeup- | Fahisshehandim | [Read More](https://medium.com/p/67c493cdf618) |
 | Thu, 19 Mar 2026 07:04:54 GMT | Why Your Gateway Should Know Where Traffic is Going (and Why IPs Aren’t Enough) | Wsone | [Read More](https://medium.com/p/66847cdf4ba1) |
 | Thu, 19 Mar 2026 07:01:01 GMT | 17. Securing CI/CD Pipelines like a pro. | Mangesh Muley | [Read More](https://medium.com/p/bb01ed6056c2) |
-| Thu, 19 Mar 2026 06:58:06 GMT | Future of Email Security Solutions 5 Innovations Businesses Can’t Ignore | HawkShield | [Read More](https://medium.com/p/66d8979272cd) |
-| Thu, 19 Mar 2026 06:57:55 GMT | Why Privacy-First AI Is Not a Constraint — It’s a Competitive Advantage for Your Clients | Lekha Mishra | [Read More](https://medium.com/p/942cb47a6947) |
-| Thu, 19 Mar 2026 06:54:47 GMT | ️ Free Ethical Hacking Certificate — Start Your Cybersecurity Journey | Cyberabhisharma | [Read More](https://medium.com/p/5da460d302a5) |
-| Thu, 19 Mar 2026 06:53:53 GMT | “THE DAY I REALIZED MY DATA WAS NEVER MINE” | Atieclinton | [Read More](https://medium.com/p/796b75236820) |
-| Thu, 19 Mar 2026 06:48:49 GMT | Build Smarter Automation Workflows | n8ndevelopers | [Read More](https://medium.com/p/60342b3a4683) |
-| Thu, 19 Mar 2026 06:43:17 GMT | Analisis Keamanan Information di Era Digital | Ayurisma | [Read More](https://medium.com/p/7a8ae2436538) |
-| Thu, 19 Mar 2026 06:33:21 GMT | Cyber security course in Kerala | Anjanadas | [Read More](https://medium.com/p/19e269f6cf7b) |
-| Thu, 19 Mar 2026 06:31:26 GMT | Top 5 Malware TTPs Every SOC Analyst Should Know in 2026 | Paritosh | [Read More](https://medium.com/p/a4fd06c18d4d) |
-| Thu, 19 Mar 2026 06:24:23 GMT | Behind the Firewall: How Security Teams Detect Threats and Stop Attacks | Miha Stele | [Read More](https://medium.com/p/ef635285518a) |
-| Thu, 19 Mar 2026 06:11:23 GMT | Learn Ethical Hacking with Cyber Security Course in Alappuzha | Abdulla Faheem | [Read More](https://medium.com/p/2b5059ea85de) |
-| Thu, 19 Mar 2026 05:58:23 GMT | Constraints Are Not Limits — They Are the Architecture of Intelligence | Michael Kraft | [Read More](https://medium.com/p/68f71764a29d) |
-| Thu, 19 Mar 2026 05:55:20 GMT | I Built a Web Security Lab and Watched SQL Injection Get Blocked in Real Time | Ronak Mishra | [Read More](https://medium.com/p/5f3bc8697dd8) |
-| Thu, 19 Mar 2026 05:54:45 GMT | When You Can’t Trust the Voice: Deepfake Phishing and Real-Time AI Impersonation Threats to… | Cynox Security LLP. | [Read More](https://medium.com/p/c8660ed21f33) |
-| Thu, 19 Mar 2026 05:54:14 GMT | Understanding AWS internet gateway-how cloud networks connect to the internet | unica 02 | [Read More](https://medium.com/p/d6a16f2d097f) |
-| Thu, 19 Mar 2026 05:52:45 GMT | A Comprehensive Guide to Threat Modeling | Atharva Deshmukh | [Read More](https://medium.com/p/362d3188ddfa) |
-| Thu, 19 Mar 2026 05:51:21 GMT | The OSI Model: Understanding Network Layers for Better Cybersecurity | Ferdi Edogawa | [Read More](https://medium.com/p/9a1c67b195d2) |
