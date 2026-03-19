@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 02:23:52 GMT | SSRF via Unvalidated Preflight Location Header in Turborepo Leads to Auth Token Theft | Aser Ahmed | [Read More](https://medium.com/p/dc69445daee0) |
+| Thu, 19 Mar 2026 01:32:28 GMT | HTB Bank: Chasing Balance Transfers to Root Shell | Onurcan Genç | [Read More](https://medium.com/p/dda06568fce8) |
+| Thu, 19 Mar 2026 01:27:14 GMT | Top IT Certifications by Difficulty (2026): A Strategic Guide for IT Career Growth | AAAdemy | [Read More](https://medium.com/p/f4ad433f22b2) |
+| Thu, 19 Mar 2026 01:03:31 GMT | Go Maldev #2: Notes from another PID(Windows Injector) | Bobby | [Read More](https://medium.com/p/966cdede925d) |
+| Thu, 19 Mar 2026 00:56:00 GMT | Divorce Strategy for Women: Protect Your Assets When He Hides Everything | Misass | [Read More](https://medium.com/p/ac8371d65db6) |
+| Thu, 19 Mar 2026 00:46:40 GMT | Tired of drowning in malware samples? ASD just dropped an open-source lifeline. | The Cyber Ghost | [Read More](https://medium.com/p/31c37cffdde9) |
+| Thu, 19 Mar 2026 00:44:56 GMT | How Captive Portal Detection Powers Secure Agentic AI Workflows | Mammoth Cyber | [Read More](https://medium.com/p/0b279e6ded1b) |
+| Thu, 19 Mar 2026 00:40:52 GMT | What’s a hacker’s favorite type of exercise? Phishing for compliments! | Steven Chin | [Read More](https://medium.com/p/cfbc8d64626f) |
+| Thu, 19 Mar 2026 00:12:34 GMT | Your Git History Is Lying to You: Inside GlassWorm, the Supply Chain Attack That Rewrites Reality | PIXIPACE | [Read More](https://medium.com/p/80abb9289989) |
+| Thu, 19 Mar 2026 00:00:05 GMT | NCAE Cyber Games - UCF’s Overview & How to Prepare - 2026 | Delta | [Read More](https://medium.com/p/ac58e68f9ce3) |
+| Wed, 18 Mar 2026 23:41:59 GMT | What Is HKDF and Why We Use It for End-to-End Encryption at onetimelink.me | Igor Yermakov | [Read More](https://medium.com/p/b8b0444f5fbf) |
+| Wed, 18 Mar 2026 23:37:48 GMT | Stoics Cry Too | Justin Edgar | [Read More](https://medium.com/p/93b79084c924) |
+| Wed, 18 Mar 2026 23:37:22 GMT | How Instagram Accounts Actually Get Hacked (Step-by-Step) | Subrat Mahanta | [Read More](https://medium.com/p/acf2fdd2aa95) |
 | Wed, 18 Mar 2026 23:24:23 GMT | How I See and Hear CISOs Select Vendors Today! | Younos Nazarian | [Read More](https://medium.com/p/47d9fd74cbae) |
 | Wed, 18 Mar 2026 22:59:14 GMT | TryHackMe SOC Analyst Road Map Part-13 | safa kaya | [Read More](https://medium.com/p/b02706623b72) |
 | Wed, 18 Mar 2026 22:56:11 GMT | Day 2- Network+ N10–009 Networking Appliances, Applications, and Functions | Hassen Hannachi | [Read More](https://medium.com/p/30d353db61b1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 16:59:42 GMT | SecurityOnion Crash Course Part 1 AKA, what the hell is that? | HanSolo71 | [Read More](https://medium.com/p/43373ab1976f) |
 | Wed, 18 Mar 2026 16:55:27 GMT | AI and Web Security: The Future of Threat Detection | Mubashir | [Read More](https://medium.com/p/68ce06c70ec5) |
 | Wed, 18 Mar 2026 16:52:21 GMT | Solving the TryHeartMe Web Challenge : Breaking JWT Trust | Abhilash H | [Read More](https://medium.com/p/20ce533e48aa) |
-| Wed, 18 Mar 2026 16:49:53 GMT | Setting up NemoClaw Step-By-Step | Michael Hart | [Read More](https://medium.com/p/e17ad7d4fcc8) |
-| Wed, 18 Mar 2026 16:48:18 GMT | Digital Forensics & Incident Response: Menyelesaikan Tantangan Cyber Defense ID Networkers | M Abdul Hamid A | [Read More](https://medium.com/p/b32a7d9b8db4) |
-| Wed, 18 Mar 2026 16:47:15 GMT | Understanding Keystore, Truststore & Certificates in Simple Terms | Sangitha Karunanithi | [Read More](https://medium.com/p/f6e8d6eb209e) |
-| Wed, 18 Mar 2026 16:45:29 GMT | One Identity, Zero Secrets: A Unified Platform Architecture on Azure, AKS, and Confluent Cloud | Philipp Marinovic-Brünjes | [Read More](https://medium.com/p/b7ac5c90a81a) |
-| Wed, 18 Mar 2026 16:42:10 GMT | Mistral’s New Forge for Enterprises: A New Era of AI Model Training | triggerAll | [Read More](https://medium.com/p/b89602ef5528) |
-| Wed, 18 Mar 2026 16:41:41 GMT | How I learned to connect through vulnerability | Pascale | [Read More](https://medium.com/p/314a81e52a58) |
-| Wed, 18 Mar 2026 16:41:00 GMT | Britain’s Great Gas Deception: Why More Drilling is a Fool’s Errand | Stephen Anderson | [Read More](https://medium.com/p/a925444bb601) |
-| Wed, 18 Mar 2026 16:35:38 GMT | Internal Endpoints Must Have The Same Security Capabilities As External Endpoints | Robert Broeckelmann | [Read More](https://medium.com/p/ffb21de5992b) |
-| Wed, 18 Mar 2026 16:31:08 GMT | How to do Golden Ticket and Silver Ticket Attack | Zoroya | [Read More](https://medium.com/p/9e1a23f2bd22) |
-| Wed, 18 Mar 2026 16:29:48 GMT | Detection and Prevention of Phishing and Social Engineering Attacks in Kazakhstan’s Digital Banking… | Richparen Pro | [Read More](https://medium.com/p/092f68406fb4) |
-| Wed, 18 Mar 2026 16:08:44 GMT | Why SoHo Is the Hardest Neighborhood in New York to Secure | Building Security Services | [Read More](https://medium.com/p/a05ae4f38db7) |
-| Wed, 18 Mar 2026 16:08:35 GMT | We scanned 900 MCP configs on GitHub. 75% had security problems. | Orchesis | [Read More](https://medium.com/p/537acb7036f7) |
-| Wed, 18 Mar 2026 16:02:59 GMT | APT 29: Attack & Defense Simulation | Christopher Gilbert | [Read More](https://medium.com/p/da17d51dbeb9) |
