@@ -12,7 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 18:52:22 GMT | SQL Injection: The Cause, Attack Types & The Fixes | Cbrnex | [Read More](https://medium.com/p/39bddb75ef39) |
+| Thu, 19 Mar 2026 18:48:42 GMT | การผสาน Secure SDLC เข้าไปใน Application Lifecycle Management สำหรับ Microsoft Power Platform | Worawit St | [Read More](https://medium.com/p/b24516f7f719) |
+| Thu, 19 Mar 2026 18:45:02 GMT | Anton’s Security Blog Quarterly Q1 2026 | Anton Chuvakin | [Read More](https://medium.com/p/fc5a1127660d) |
+| Thu, 19 Mar 2026 18:42:37 GMT | I didn’t set out to build a new identity layer for the world—I set out to solve a smaller problem… | B. L. Frost  {^}_Protocol_One | [Read More](https://medium.com/p/51125a36e371) |
+| Thu, 19 Mar 2026 18:39:21 GMT | AI Agents: AthenaGPT and AresGPT Red Team Handbook UFMCS into Action | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/5591b3135bc3) |
+| Thu, 19 Mar 2026 18:36:21 GMT | Mass Assignment - When Your API Lets Users Write Their Own Permission Slip | Rufus Kehinde | [Read More](https://medium.com/p/93c14368c606) |
+| Thu, 19 Mar 2026 18:31:21 GMT | OWASP Top 10 for LLM Applications 2025: Testing Local Models Against Real Attack Scenarios — Part I | SOCFortress | [Read More](https://medium.com/p/76a8606b359a) |
+| Thu, 19 Mar 2026 18:23:57 GMT | The Language Gap Is Costing Building Owners Money | Building Security Services | [Read More](https://medium.com/p/262e80d5ed3e) |
+| Thu, 19 Mar 2026 18:14:14 GMT | Why Hardening Endpoints Matter More Than Ever During a War with Iran | Travis Ray Caverhill | [Read More](https://medium.com/p/eb4ab5064742) |
+| Thu, 19 Mar 2026 18:14:09 GMT | You Can Be the Prettiest Shade of Green | Papered Soul | [Read More](https://medium.com/p/1dc988a930ca) |
+| Thu, 19 Mar 2026 18:13:05 GMT | I’ve Watched Physical Security Go From a Line Item to a Board-Level Conversation | Building Security Services | [Read More](https://medium.com/p/700eb8c2c5ea) |
+| Thu, 19 Mar 2026 18:12:16 GMT | Passkey Nedir?(Şifrelerin Sonu mu Geliyor?) | Ali Yaşe | [Read More](https://medium.com/p/b0a639afd826) |
+| Thu, 19 Mar 2026 18:11:45 GMT | Why Digital Trust Is Quietly Becoming the Most Valuable Part of Technology in 2026 | Srishti Kumari | [Read More](https://medium.com/p/bdd92fb97177) |
+| Thu, 19 Mar 2026 18:08:19 GMT | Investigating Suspicious Process Executions: A SOC Analyst’s Guide | witcher | [Read More](https://medium.com/p/eb9f5d3ef8c2) |
+| Thu, 19 Mar 2026 18:05:37 GMT | A Simple Way to Keep a Private “Where Everything Is” List for Your Executor | InheritSafe | [Read More](https://medium.com/p/6fcb86beb2e0) |
+| Thu, 19 Mar 2026 18:05:22 GMT | Publisher Write-up — Exploiting SPIP and Bypassing AppArmor for Root Access | KeeRoot | [Read More](https://medium.com/p/3e9a38756a09) |
+| Thu, 19 Mar 2026 17:59:45 GMT | Dark Web’de Veriler Nasıl Satılıyor? | Ali Yaşe | [Read More](https://medium.com/p/b99dad6836fd) |
+| Thu, 19 Mar 2026 17:55:16 GMT | Socrates, Adversarial Cognition, and the Limits of Procedural Security Training | Joshua Goossen | [Read More](https://medium.com/p/7811dfd814cb) |
+| Thu, 19 Mar 2026 17:54:42 GMT | Open Systems Interconnection (OSI) Model | Adwait Joshi | [Read More](https://medium.com/p/92b665c46176) |
+| Thu, 19 Mar 2026 17:53:04 GMT | Secure Access After Death: A Safer Way to Pass on Credentials Without Risk | Olivia Martillo | [Read More](https://medium.com/p/63223b24bc41) |
+| Thu, 19 Mar 2026 17:48:03 GMT | Ghizer (THM) WriteUp Only Answer | Lawvye | [Read More](https://medium.com/p/58d11caa78fd) |
+| Thu, 19 Mar 2026 17:41:24 GMT | In an Unstable World the U.S. Loses | Sean Randolph | [Read More](https://medium.com/p/abeb9d09000e) |
+| Thu, 19 Mar 2026 17:34:59 GMT | CRTO Review — My Experience with the Certified Red Team Operator Exam - by Atrox | _ATROX_ | [Read More](https://medium.com/p/57fe56a10af5) |
+| Thu, 19 Mar 2026 17:32:55 GMT | Series Introduction — Will Cyber Threat Intelligence Still be Relevant in a Post-Quantum World? | Leonard Okyere Afeke | [Read More](https://medium.com/p/73e9b7ac4a9c) |
 | Thu, 19 Mar 2026 17:31:04 GMT | Static Analysis on Linux | Huzaifah Tahir | [Read More](https://medium.com/p/67f895fdb9bd) |
+| Thu, 19 Mar 2026 17:27:13 GMT | Walkthrough: Hacking An Enterprise Network | Daryl Brooks | [Read More](https://medium.com/p/543b8f1a95b1) |
 | Thu, 19 Mar 2026 17:27:01 GMT | Assessment Methodologies: Enumeration CTF 1 | R1punjay_Singh | [Read More](https://medium.com/p/aec1e10f9586) |
 | Thu, 19 Mar 2026 17:20:29 GMT | The Era of AI — And Why We Should Pause Before We Celebrate | Divya Bhushan Singh | [Read More](https://medium.com/p/609b9a18219e) |
 | Thu, 19 Mar 2026 17:15:46 GMT | Understanding Dark Web Money Transfer Risks and Realities | Tor BBB | [Read More](https://medium.com/p/4c4a34e42770) |
@@ -44,6 +69,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Mar 2026 15:19:19 GMT | GamingServer CTF — LXD Privilege Escalation Walkthrough | RCA62X8 | [Read More](https://medium.com/p/afc88b7751ab) |
 | Thu, 19 Mar 2026 15:17:06 GMT | Beyond the Passwordless Fortress: Building a Hybrid Passkey Strategy in Symfony 7.4 | Matt Mochalkin | [Read More](https://medium.com/p/855ca4c4b07d) |
 | Thu, 19 Mar 2026 15:16:33 GMT | 什麼是 DMZ Zone？ — 網絡安全裡的公司接待區 | 思維舞步 MindSteps | [Read More](https://medium.com/p/e8c3ac96a2c4) |
+| Thu, 19 Mar 2026 15:16:33 GMT | Was ist GrapheneOS — und warum ist es so besonders? | Michael Beierl | [Read More](https://medium.com/p/16dc957e9454) |
 | Thu, 19 Mar 2026 15:13:22 GMT | From Governance to Sovereignty: The Next Frontier of Agentic AI Systems | Robert Saghafi | [Read More](https://medium.com/p/7fa5288ddc21) |
 | Thu, 19 Mar 2026 15:11:05 GMT | Do you store passwords in your Notes app? That’s exactly what Perseus is hunting for. | Aastha Thakker | [Read More](https://medium.com/p/b06483e77ba7) |
 | Thu, 19 Mar 2026 15:07:07 GMT | The Adversary Has Their Own ChatGPT — Inside the Criminal AI Underground | Bedrettin Cakmak | [Read More](https://medium.com/p/194cbdbd6136) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Mar 2026 12:15:49 GMT | Patching a Chall and a Real iOS App | n3k00n3 | [Read More](https://medium.com/p/1d952b07180e) |
 | Thu, 19 Mar 2026 12:07:46 GMT | How Google Evaluates Page Experience (Complete SEO Guide) | Jellyfr | [Read More](https://medium.com/p/5fe8f40ec3b9) |
 | Thu, 19 Mar 2026 12:06:16 GMT | FBI Buys Location Data, Robinhood’s Social Network, and the Death of Apps - The Daily Tech Digest… | Souren Stepanyan | [Read More](https://medium.com/p/54f67d064531) |
-| Thu, 19 Mar 2026 12:04:04 GMT | Zero-Hour Operations: Tactical Realities of High-Stakes Incident Response | Anna Bejan | [Read More](https://medium.com/p/5eed42e3b2ca) |
-| Thu, 19 Mar 2026 12:01:31 GMT | Top Custom Software Development Trends to Watch in 2026 | Prachi | [Read More](https://medium.com/p/bfe8f908b4e7) |
-| Thu, 19 Mar 2026 12:01:22 GMT | Demystifying Terms: Cybersecurity Vs. Cyber Security — What&apos;s the Difference? | cyber tech | [Read More](https://medium.com/p/4258dbb7ee37) |
-| Thu, 19 Mar 2026 12:00:49 GMT | How to Change Remote Desktop Password: A Complete Guide for Windows 10/11 (2026) | Campaign En | [Read More](https://medium.com/p/96a9df8d248b) |
-| Thu, 19 Mar 2026 12:00:25 GMT | How Niger’s Junta Became Arewa’s Hidden Security Threat | Arewa Edition | [Read More](https://medium.com/p/bbb3edc10b77) |
-| Thu, 19 Mar 2026 11:59:50 GMT | Build Secure Software (An Implementation for Java) | Alberto Hernandez Acosta | [Read More](https://medium.com/p/6fd1485e70fe) |
-| Thu, 19 Mar 2026 11:47:05 GMT | The Ultimate Guide to Ethical Hacking: Protecting the Digital Frontier | Blogmaster | [Read More](https://medium.com/p/29d316ff3b26) |
-| Thu, 19 Mar 2026 11:29:09 GMT | The Impact of Cyber Threats on Software Systems and the Risks of Late Bug Detection | Kenan Bagirov | [Read More](https://medium.com/p/691a52fa66fb) |
-| Thu, 19 Mar 2026 11:28:45 GMT | Don’t Let AI Replace You — Let It Promote You | Aakriti | [Read More](https://medium.com/p/8805c5563a76) |
-| Thu, 19 Mar 2026 11:28:24 GMT | The Real Reason Meta Is Killing Encrypted DMs on Instagram | Shreya Mehta | [Read More](https://medium.com/p/82c4e797d492) |
-| Thu, 19 Mar 2026 11:20:26 GMT | — The “Linguistic” Kill Chain: Why AI Agents Are the New Zero-Trust Frontier | Kapil | [Read More](https://medium.com/p/37b528f8334b) |
-| Thu, 19 Mar 2026 11:11:04 GMT | Explicando el stack, el heap y sus overflows | x02sec | [Read More](https://medium.com/p/7709e41d3620) |
-| Thu, 19 Mar 2026 11:10:06 GMT | OpenClaw Phishing Scam: Fake $5K Airdrop Targets GitHub Crypto Developers | Casi Borg | [Read More](https://medium.com/p/5a429eb3085e) |
-| Thu, 19 Mar 2026 11:06:45 GMT | GRE(Generic Routing Encapsulation) | Selcuktufan | [Read More](https://medium.com/p/69325057b863) |
-| Thu, 19 Mar 2026 11:02:41 GMT | The day Daniel discovered his QR code could think for itself | Lynklens | [Read More](https://medium.com/p/e94881be9e05) |
-| Thu, 19 Mar 2026 11:01:01 GMT | CTF Basics: Understanding JSON Web Tokens (JWTs) | Walter Moar | [Read More](https://medium.com/p/0e05133a6eb3) |
-| Thu, 19 Mar 2026 10:55:50 GMT | Web Application Bug Hunting — XSS, Information Disclosure & Injection | Solankishubham | [Read More](https://medium.com/p/ddd973207fd2) |
-| Thu, 19 Mar 2026 10:54:51 GMT | Stop Calling Prompt Injection a Vulnerability. You’re Wrong. | IdeaGlider | [Read More](https://medium.com/p/fb3abe2aabd3) |
-| Thu, 19 Mar 2026 10:54:06 GMT | How to do Delegation Attacks on Active Directory. | Zoroya | [Read More](https://medium.com/p/a198271aa9ce) |
-| Thu, 19 Mar 2026 10:49:25 GMT | AI is Breaking Bug Bounties: Why 2026 Will Be Absolute Chaos | IdeaGlider | [Read More](https://medium.com/p/3d6154f2cb60) |
-| Thu, 19 Mar 2026 10:48:27 GMT | Chaining CSRF with HTML Injection to Deliver Malicious Links via Trusted Feedback Emails | abhishek sutar | [Read More](https://medium.com/p/33168993d031) |
-| Thu, 19 Mar 2026 10:37:32 GMT | Where Vulnerability Meets Fear | Chetana | [Read More](https://medium.com/p/6eac25b87924) |
-| Thu, 19 Mar 2026 10:35:37 GMT | CVE-2026–33017: How I Found an Unauthenticated RCE in Langflow by Reading the Code They Already… | Aviral Srivastava | [Read More](https://medium.com/p/dc96cdce5896) |
-| Thu, 19 Mar 2026 10:31:00 GMT | 安全的龍蝦來了嗎？ NVIDIA NemoClaw 實測 | JH5 | [Read More](https://medium.com/p/5f484917a700) |
-| Thu, 19 Mar 2026 10:25:22 GMT | DIGITAL TRUST, CYBERSECURITY AND ECONOMIC GROWTH | John Perera | [Read More](https://medium.com/p/ea7ab9443b9c) |
-| Thu, 19 Mar 2026 10:18:01 GMT | Mastering Access Control Vulnerabilities — Practical Exploitation Guide (PortSwigger Labs) | Sharon | [Read More](https://medium.com/p/e40df380a510) |
