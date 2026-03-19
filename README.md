@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 20:36:57 GMT | Client security, runtime tampering, and why SPKI and TLS do not prove trusted execution | Mark Solo | [Read More](https://medium.com/p/6b55bb63c3a1) |
+| Thu, 19 Mar 2026 20:33:29 GMT | The CAPTCHA That Doesn’t Annoy Users: A Better Way to Stop Bots | Lucas Voigt Bueno | [Read More](https://medium.com/p/9be005c8338a) |
+| Thu, 19 Mar 2026 20:26:01 GMT | Understanding HTTP & HTTPS: How the Web Really Works | Ndu | [Read More](https://medium.com/p/a82910b23904) |
+| Thu, 19 Mar 2026 20:25:49 GMT | Cybercriminals are Winning with AI | Matthew.Rosenquist | [Read More](https://medium.com/p/c7e17d5e8332) |
+| Thu, 19 Mar 2026 20:20:19 GMT | I Built a SOC Agent That Disagrees With Itself — Here’s Why That Matters | MoFahdel | [Read More](https://medium.com/p/1686f8e9e9d5) |
+| Thu, 19 Mar 2026 20:10:23 GMT | The Machine That Hacks Back — AI-Powered Cyberattacks in 2026 | Paul Ayegbusi | [Read More](https://medium.com/p/24c8d6e75028) |
+| Thu, 19 Mar 2026 20:05:24 GMT | The AI Arms Race in Cybersecurity: Offence vs. Defence | Roger Millar | [Read More](https://medium.com/p/d65d08d37103) |
+| Thu, 19 Mar 2026 20:03:05 GMT | Top WordPress Security Plugins in 2026: Proactive Hardening vs. Reactive Detection | John Darrel | [Read More](https://medium.com/p/93155dce992f) |
+| Thu, 19 Mar 2026 20:01:16 GMT | Our Partnership with Oasis Security: Securing Access for the Agentic Era | Michael Robinson | [Read More](https://medium.com/p/106e0b1cfbee) |
+| Thu, 19 Mar 2026 19:53:25 GMT | A Signal of an Endless War: Decoding the US and Israel’s Push for Conflict Extension | K. Leoman | [Read More](https://medium.com/p/d3d72d496e6c) |
+| Thu, 19 Mar 2026 19:53:00 GMT | Spotting a Malicious Workday Sign‑In: A Practical Breakdown | Vonte Sewell | [Read More](https://medium.com/p/6beb1a4d93d6) |
+| Thu, 19 Mar 2026 19:49:37 GMT | SSH hardening | Sgaunet | [Read More](https://medium.com/p/0e0740b989b7) |
 | Thu, 19 Mar 2026 19:48:55 GMT | Writeup for OSINT tasks — Pioneers25 CTF. | nwira | [Read More](https://medium.com/p/4382128662d5) |
 | Thu, 19 Mar 2026 19:40:42 GMT | In an Unstable World the U.S. Loses | Sean Randolph | [Read More](https://medium.com/p/600ff8620af4) |
 | Thu, 19 Mar 2026 19:32:19 GMT | The Spy Who Checked Into Paradise | O. J. Okpabi | [Read More](https://medium.com/p/e4b46459d973) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Mar 2026 14:17:22 GMT | MoreLogin Security Incident Summary | MoreLogin Browser | [Read More](https://medium.com/p/e78ffec4762d) |
 | Thu, 19 Mar 2026 14:04:35 GMT | IT in Education | Joan Akao Mary Odwee | [Read More](https://medium.com/p/b2c247629d09) |
 | Thu, 19 Mar 2026 14:01:02 GMT | The biggest myth: “We’re small, we don’t need formal policies.” | Gaurav Shukla | [Read More](https://medium.com/p/a47140dfaf89) |
-| Thu, 19 Mar 2026 14:01:01 GMT | I Passed a Brand New Certification. There Were No Study Materials. So I Built Them. | Kevin P. Heaney | [Read More](https://medium.com/p/2982daefbf32) |
-| Thu, 19 Mar 2026 14:01:01 GMT | Cyber Briefing: 2026.03.19 | CyberMaterial | [Read More](https://medium.com/p/574b2cb3e52d) |
-| Thu, 19 Mar 2026 14:01:01 GMT | Small Businesses Are Drowning in Threat Intelligence They Can’t Use. | Okorieprincegeorge | [Read More](https://medium.com/p/e3f073b24d81) |
-| Thu, 19 Mar 2026 13:57:59 GMT | LLM Vulnerabilities — Data and Model Poisoning : Garak | Tanmay Bhattacharjee | [Read More](https://medium.com/p/a0d3a796e23d) |
-| Thu, 19 Mar 2026 13:49:01 GMT | AI Without Governance Is a Liability: A Leadership Perspective on Responsible Transformation | DrChristina Asare | [Read More](https://medium.com/p/0e5ab850abb5) |
-| Thu, 19 Mar 2026 13:47:51 GMT | My 8-Hour CompTIA SecAI+ Success Story | Corey Farley | [Read More](https://medium.com/p/984838ca17de) |
-| Thu, 19 Mar 2026 13:47:48 GMT | What Happens to Your Data After It’s Stolen? | Digital Defense | [Read More](https://medium.com/p/663f618cf780) |
-| Thu, 19 Mar 2026 13:41:06 GMT | I built a Claude Code plugin that profiles companies like a threat analyst would | Vito Rallo | [Read More](https://medium.com/p/b473385ba9b4) |
-| Thu, 19 Mar 2026 13:41:00 GMT | A Visual Guide for Worcester Homeowners - Up & Down Garage | Up & Down Garage Door Services | [Read More](https://medium.com/p/6ab08c359384) |
-| Thu, 19 Mar 2026 13:38:50 GMT | Wi-Fi Exploitation IV — Lock It Down or Lose It All | Ishant | [Read More](https://medium.com/p/d713220182d7) |
-| Thu, 19 Mar 2026 13:21:33 GMT | From Portuguese Special Forces to International Security: My Journey | Alexramalheiro | [Read More](https://medium.com/p/c6e601057dfe) |
-| Thu, 19 Mar 2026 13:20:49 GMT | A Lesser-Known Windows 11 Artifact: Program Compatibility Assistant (PCA) for Execution Evidence | Sharan Nagaraj Kumar | [Read More](https://medium.com/p/d04fc199b640) |
