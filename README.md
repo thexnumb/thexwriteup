@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 22:10:23 GMT | The Complete Cybersecurity Mastery Roadmap Topics to Cloud Security Specialist | Satender Kumar | [Read More](https://medium.com/p/98c38f268ff0) |
+| Thu, 19 Mar 2026 22:01:37 GMT | Active Directory for Pentesters — Part 2: Active Directory Enumeration | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/b9bc94133353) |
+| Thu, 19 Mar 2026 21:52:13 GMT | What the Fortinet Threat Landscape Course Actually Taught Me (Beyond the Badge) | Lerato Makhasane | [Read More](https://medium.com/p/af693552f824) |
+| Thu, 19 Mar 2026 21:50:22 GMT | ROPA & DPIA: The 2 GDPR Documents Nobody Talks About (But Every Company Needs…) | D3ad_M3m0r13s | [Read More](https://medium.com/p/ef6b54d8d8dc) |
+| Thu, 19 Mar 2026 21:50:13 GMT | ISMS : The Essential Building Blocks of a Secure Organisation | D3ad_M3m0r13s | [Read More](https://medium.com/p/18658cb84b4b) |
+| Thu, 19 Mar 2026 21:39:55 GMT | Curious Minds: Hunter vs. Prey: The Physics of Elite Surveillance | Balajee Viswanatha Rao | [Read More](https://medium.com/p/e3ab6bc932e6) |
 | Thu, 19 Mar 2026 21:30:22 GMT | Abusing a vulnerable driver BYOVD to gain arbitrary kernel R/W and bypass PPL protection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/571552c7efc8) |
 | Thu, 19 Mar 2026 21:24:15 GMT | I Spent 15 Years in Cybersecurity. Here’s Why AI Is Finally Changing Penetration Testing for Real. | Viktor | [Read More](https://medium.com/p/31c04f399885) |
 | Thu, 19 Mar 2026 21:22:20 GMT | Protect your web experience | Charles A.W A | [Read More](https://medium.com/p/d3e52560c0a9) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Mar 2026 15:19:19 GMT | GamingServer CTF — LXD Privilege Escalation Walkthrough | RCA62X8 | [Read More](https://medium.com/p/afc88b7751ab) |
 | Thu, 19 Mar 2026 15:17:06 GMT | Beyond the Passwordless Fortress: Building a Hybrid Passkey Strategy in Symfony 7.4 | Matt Mochalkin | [Read More](https://medium.com/p/855ca4c4b07d) |
 | Thu, 19 Mar 2026 15:16:33 GMT | 什麼是 DMZ Zone？ — 網絡安全裡的公司接待區 | 思維舞步 MindSteps | [Read More](https://medium.com/p/e8c3ac96a2c4) |
-| Thu, 19 Mar 2026 15:16:33 GMT | Was ist GrapheneOS — und warum ist es so besonders? | Michael Beierl | [Read More](https://medium.com/p/16dc957e9454) |
-| Thu, 19 Mar 2026 15:13:22 GMT | From Governance to Sovereignty: The Next Frontier of Agentic AI Systems | Robert Saghafi | [Read More](https://medium.com/p/7fa5288ddc21) |
-| Thu, 19 Mar 2026 15:11:05 GMT | Do you store passwords in your Notes app? That’s exactly what Perseus is hunting for. | Aastha Thakker | [Read More](https://medium.com/p/b06483e77ba7) |
-| Thu, 19 Mar 2026 15:07:07 GMT | The Adversary Has Their Own ChatGPT — Inside the Criminal AI Underground | Bedrettin Cakmak | [Read More](https://medium.com/p/194cbdbd6136) |
-| Thu, 19 Mar 2026 15:04:17 GMT | Introducing HoneyDB AI | Px Mx | [Read More](https://medium.com/p/d15d66717af4) |
-| Thu, 19 Mar 2026 15:02:35 GMT | Conti TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/8571ff89cf51) |
