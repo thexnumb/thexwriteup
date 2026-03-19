@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 23:21:27 GMT | OCI IAM DB Token on Oracle ADB-S: 23 Empirical Tests Across Python, Java, SQL Developer, SQL*Plus —… | Alessandro Moccia | [Read More](https://medium.com/p/ca88a77ae298) |
+| Thu, 19 Mar 2026 23:12:09 GMT | Even Car Companies need Data Protection Impact Assessments?? | Aimee Liu | [Read More](https://medium.com/p/7e8221349093) |
+| Thu, 19 Mar 2026 23:08:53 GMT | From SOC to AI Command Center | Sales | [Read More](https://medium.com/p/f4e54b376728) |
+| Thu, 19 Mar 2026 23:08:33 GMT | Ink Knows Me Better Than People Do. | Prof. AK | [Read More](https://medium.com/p/75808723e030) |
+| Thu, 19 Mar 2026 23:08:18 GMT | İNTERNETTE BİLGİ ERİŞİM | Gözdenur Kahraman | [Read More](https://medium.com/p/0905af8398ef) |
+| Thu, 19 Mar 2026 23:02:03 GMT | Industrial Control System (ICS) Honeypot Lab: Simulating and Analyzing Attacker Reconnaissance with… | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/348a7794dd53) |
+| Thu, 19 Mar 2026 22:59:13 GMT | The Ultimate Guide to HTTPS Decryption in Wireshark: Master Secrets, Key Logs & SNI Explained (With… | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/a796464837dd) |
+| Thu, 19 Mar 2026 22:57:30 GMT | How to Bypass Your College Firewall When VPN Gets Blocked (Shadowsocks + VPS) | Vivek Neeralagi | [Read More](https://medium.com/p/0f4f3184bd6c) |
+| Thu, 19 Mar 2026 22:46:44 GMT | How I Earned $76,000 From a Single Program on Bugcrowd | Sharik Khan | [Read More](https://medium.com/p/adf2a0eeece0) |
+| Thu, 19 Mar 2026 22:38:53 GMT | Hacking SmartCard Only AD Environments | Zumi Yumi | [Read More](https://medium.com/p/b3a794b82e6b) |
+| Thu, 19 Mar 2026 22:33:56 GMT | Voyage writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/8c87b679ccbf) |
+| Thu, 19 Mar 2026 22:33:03 GMT | Identity in GenAI Is Broken by Design — Unless You Fix It | Sébastien Blin | [Read More](https://medium.com/p/4bf261fa30f6) |
+| Thu, 19 Mar 2026 22:25:47 GMT | HTB (Sherlock) — GhostTrace | h4nr1_s3ld0n | [Read More](https://medium.com/p/63c231375248) |
 | Thu, 19 Mar 2026 22:10:23 GMT | The Complete Cybersecurity Mastery Roadmap Topics to Cloud Security Specialist | Satender Kumar | [Read More](https://medium.com/p/98c38f268ff0) |
 | Thu, 19 Mar 2026 22:01:37 GMT | Active Directory for Pentesters — Part 2: Active Directory Enumeration | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/b9bc94133353) |
 | Thu, 19 Mar 2026 21:52:13 GMT | What the Fortinet Threat Landscape Course Actually Taught Me (Beyond the Badge) | Lerato Makhasane | [Read More](https://medium.com/p/af693552f824) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Mar 2026 16:30:58 GMT | Building the Future of Digital Infrastructure: Skills and Strategic Expansion | International Data Center Authority | [Read More](https://medium.com/p/cacd1d3dc7c2) |
 | Thu, 19 Mar 2026 16:28:14 GMT | Want To Hide Your Medium Activity Tab? | Gauraw Singh | [Read More](https://medium.com/p/c0b03e30454c) |
 | Thu, 19 Mar 2026 16:20:54 GMT | RATs: Ethical Hacking & Safety Tips | Ambreen Rehman | [Read More](https://medium.com/p/da2f0229c31e) |
-| Thu, 19 Mar 2026 16:10:27 GMT | The vCIO Advantage: Why 2026 Strategy Outperforms 2025 Tech Spend | IT_Engineer | [Read More](https://medium.com/p/bef4dd20ac12) |
-| Thu, 19 Mar 2026 15:53:18 GMT | ATT&CK as a Working Tool: Theory and Hands-On Practical Usage | Andrey Pautov | [Read More](https://medium.com/p/d63835c9f101) |
-| Thu, 19 Mar 2026 15:51:40 GMT | ML Model Bias & Hallucination Auditing Methodology | gayatri r | [Read More](https://medium.com/p/7ec4a5d9d91f) |
-| Thu, 19 Mar 2026 15:51:07 GMT | When Rate Limiting Fails: Evaluating IP-Based Controls in Authentication Systems | Yeboahromeo | [Read More](https://medium.com/p/6c1de1446fa8) |
-| Thu, 19 Mar 2026 15:50:14 GMT | How to Choose a HIPAA-Compliant IT Provider in Orange County: 10 Questions | Technijian | [Read More](https://medium.com/p/f94c32a17cab) |
-| Thu, 19 Mar 2026 15:47:13 GMT | Global Cybersecurity Outlook 2026: Executive Summary and Critical Analysis | Bishal Poudel | [Read More](https://medium.com/p/53d2d51ec7c3) |
-| Thu, 19 Mar 2026 15:46:51 GMT | Red Team Mindset [Part 3] Exit Strategies | M. John | [Read More](https://medium.com/p/524ee28fb3ed) |
-| Thu, 19 Mar 2026 15:46:25 GMT | GDB Test Drive Picoctf Reverse Engineering | Aun Raza | [Read More](https://medium.com/p/88bed1540a83) |
-| Thu, 19 Mar 2026 15:30:35 GMT | How I Deal with Scope Creep & Unrealistic Client Expectations as a Pentester | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/b1ebc4a0b175) |
-| Thu, 19 Mar 2026 15:19:36 GMT | Building a Hybrid NLP Fraud Detection System with Ensemble Learning and Explainable AI | Tejas R M | [Read More](https://medium.com/p/330d6f55620b) |
-| Thu, 19 Mar 2026 15:19:19 GMT | GamingServer CTF — LXD Privilege Escalation Walkthrough | RCA62X8 | [Read More](https://medium.com/p/afc88b7751ab) |
-| Thu, 19 Mar 2026 15:17:06 GMT | Beyond the Passwordless Fortress: Building a Hybrid Passkey Strategy in Symfony 7.4 | Matt Mochalkin | [Read More](https://medium.com/p/855ca4c4b07d) |
-| Thu, 19 Mar 2026 15:16:33 GMT | 什麼是 DMZ Zone？ — 網絡安全裡的公司接待區 | 思維舞步 MindSteps | [Read More](https://medium.com/p/e8c3ac96a2c4) |
