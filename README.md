@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 10:31:00 GMT | 安全的龍蝦來了嗎？ NVIDIA NemoClaw 實測 | JH5 | [Read More](https://medium.com/p/5f484917a700) |
+| Thu, 19 Mar 2026 10:25:22 GMT | DIGITAL TRUST, CYBERSECURITY AND ECONOMIC GROWTH | John Perera | [Read More](https://medium.com/p/ea7ab9443b9c) |
+| Thu, 19 Mar 2026 10:18:01 GMT | Mastering Access Control Vulnerabilities — Practical Exploitation Guide (PortSwigger Labs) | Sharon | [Read More](https://medium.com/p/e40df380a510) |
+| Thu, 19 Mar 2026 10:17:34 GMT | Sliver C2 Deep Dive : Installing Sliver On Kali Linux | Maverick | [Read More](https://medium.com/p/d8001b30e15f) |
+| Thu, 19 Mar 2026 10:15:58 GMT | Connected Car Security Market worth $6.99 billion in 2032 | Shubhamchougalessc | [Read More](https://medium.com/p/d2fff7f35259) |
+| Thu, 19 Mar 2026 10:14:23 GMT | Complete Guide to Web Hosting in 2026 (Beginner to Advanced) | Ann Taylor | [Read More](https://medium.com/p/e2cb04acb256) |
+| Thu, 19 Mar 2026 10:11:26 GMT | Platform Security Series [Part 1] | M. Taha Akça | [Read More](https://medium.com/p/f5fe91314295) |
+| Thu, 19 Mar 2026 10:07:23 GMT | Dev Diaries - TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/d67a40b7502b) |
+| Thu, 19 Mar 2026 10:06:01 GMT | What a Good Interim CISO Actually Changes in 90 Days | Tyson Martin | [Read More](https://medium.com/p/ede51232a011) |
+| Thu, 19 Mar 2026 10:03:22 GMT | Botnet Infrastructure Exposed Through Open Directory Leak: A Wake Up Call for Cyber Defense | Jas | [Read More](https://medium.com/p/c600a56ad3ff) |
+| Thu, 19 Mar 2026 10:01:48 GMT | Stay Anonymous Online in 2026 | ghostyjoe | [Read More](https://medium.com/p/8d5026e39316) |
+| Thu, 19 Mar 2026 10:01:42 GMT | Hacker101 Write-up: OSUSEC — Escalating Privileges via Logic Bugs and IDOR | Akdn_ahm4t | [Read More](https://medium.com/p/27afb2943202) |
+| Thu, 19 Mar 2026 10:00:45 GMT | A Simple Way to Make Your Home Safer: Magnetic Door Sensor Switch | Criminology Expert | [Read More](https://medium.com/p/09ddd43baa97) |
+| Thu, 19 Mar 2026 09:58:54 GMT | What Hackers Actually Want from You (It’s not What You Think) | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/4c93b129de46) |
+| Thu, 19 Mar 2026 09:57:50 GMT | AI vs Traditional Security: From Static Scanners to Intelligent Security Agents | vipin | [Read More](https://medium.com/p/2bcaf480d876) |
+| Thu, 19 Mar 2026 09:54:06 GMT | From Cryptography to Key Management: Securing Keys in Real-World Systems | Aditya Ramaswamy | [Read More](https://medium.com/p/5e1f71186ddd) |
+| Thu, 19 Mar 2026 09:54:02 GMT | Your Email Is in a Hacker’s Hands — Now What? | Hack Storage | [Read More](https://medium.com/p/1aa264bb246d) |
+| Thu, 19 Mar 2026 09:53:54 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 6 | Haxymad | [Read More](https://medium.com/p/b8162c92d669) |
+| Thu, 19 Mar 2026 09:53:39 GMT | AI security Roadmap | Aniket Kumar | [Read More](https://medium.com/p/48754be614d6) |
+| Thu, 19 Mar 2026 09:49:38 GMT | Top 10 Kali Linux Tools for Ethical Hackers | EINITIAL24 | [Read More](https://medium.com/p/c12f3e804f74) |
 | Thu, 19 Mar 2026 09:40:11 GMT | The Future of Digital Payments
 Digital payments are transforming how we buy and sell. | Siddharth Somany | [Read More](https://medium.com/p/225529527aea) |
 | Thu, 19 Mar 2026 09:38:02 GMT | Kamu Pikir Aplikasi Aman? | Fikrimuzaki | [Read More](https://medium.com/p/79e40d66b0db) |
@@ -95,23 +115,3 @@ Know What It Did. | abluva-research | [Read More](https://medium.com/p/552534f2b
 | Thu, 19 Mar 2026 05:05:59 GMT | Learning Palo Alto Firewall — Introduction and Important Notes | Rouell Mamaril | [Read More](https://medium.com/p/ffd3d4fa398a) |
 | Thu, 19 Mar 2026 04:59:08 GMT | IOT Connect — Android Broadcast Receiver Challenge | Anwer | [Read More](https://medium.com/p/62cb0c1af17e) |
 | Thu, 19 Mar 2026 04:57:10 GMT | OffSec Proving Grounds — Potato | Roshan Rajbanshi | [Read More](https://medium.com/p/b080d38b4bed) |
-| Thu, 19 Mar 2026 04:57:08 GMT | WiFi Pentesting Series— Breaking WEP | Rahul Singh Chauhan | [Read More](https://medium.com/p/dd1597db2e5e) |
-| Thu, 19 Mar 2026 04:55:43 GMT | LazyOwn Goes Agentic: When Your Red Team Framework Decides to Think for Itself (And Actually Pulls… | Lazyown Redteam | [Read More](https://medium.com/p/bd64da800977) |
-| Thu, 19 Mar 2026 04:49:43 GMT | What is NAT ? Networking Day — 10 | 0xSmit | [Read More](https://medium.com/p/7970274d8f60) |
-| Thu, 19 Mar 2026 04:35:54 GMT | How I Built a Real Identity Governance Access Review Lab Using Microsoft Entra ID | Owens Jonelle | [Read More](https://medium.com/p/d355d455ec78) |
-| Thu, 19 Mar 2026 04:31:02 GMT | Read-Only Isn’t Harmless | Vectorlane | [Read More](https://medium.com/p/4bd7d7d0f398) |
-| Thu, 19 Mar 2026 04:26:20 GMT | Why Multi-Factor Authentication Won’t Stop Social Engineering Attacks | Kuboid Secure Layer | [Read More](https://medium.com/p/e01a143e0617) |
-| Thu, 19 Mar 2026 04:23:12 GMT | The Future of AI Security: Why It Matters More Than Ever | Aishwarya Singh | [Read More](https://medium.com/p/250f8ce407e4) |
-| Thu, 19 Mar 2026 04:10:15 GMT | Security Groups and Connection Tracking | Carlos Esteban Ospina Saldarriaga | [Read More](https://medium.com/p/8cfff1b7fb9f) |
-| Thu, 19 Mar 2026 04:01:42 GMT | CCPA Cybersecurity Audit Requirements: Understanding Article 9 of the CalPrivacy Regulations | Lydia F de la Torre | [Read More](https://medium.com/p/a4136318735d) |
-| Thu, 19 Mar 2026 04:01:22 GMT | Community Voices: Why Cybersecurity Matters According to Reddit | cyber tech | [Read More](https://medium.com/p/8f68614ef69f) |
-| Thu, 19 Mar 2026 03:58:42 GMT | Who is winning EPIC Fury  war Economically? | Saiftorabi | [Read More](https://medium.com/p/d27b8b6b46b2) |
-| Thu, 19 Mar 2026 03:58:42 GMT | The London Bridge (THM) WriteUp Only Answer | Lawvye | [Read More](https://medium.com/p/c4577f2fef5e) |
-| Thu, 19 Mar 2026 03:57:18 GMT | Stealth Webcam Access: A Deep Dive into Browser Security Vulnerabilities | Rimsha | [Read More](https://medium.com/p/a7a0a7d3aadc) |
-| Thu, 19 Mar 2026 03:54:59 GMT | Safeguarding the Future — Cyber Security Techniques for Big Data Computing, Blockchain, and DLT… | Nagendra Singh Yadav | [Read More](https://medium.com/p/b112bd256dca) |
-| Thu, 19 Mar 2026 03:54:55 GMT | Securing AI Agents in the Enterprise: A Three-Tier Control Framework | MrDuc | [Read More](https://medium.com/p/6603ecfb798d) |
-| Thu, 19 Mar 2026 03:52:06 GMT | Re-architecting the Blockchain Execution Layer: How the FATE VM Solves EVM’s Fundamental Flaws | Emin Henri Mahrt | [Read More](https://medium.com/p/ddcb8f74b251) |
-| Thu, 19 Mar 2026 03:33:09 GMT | Digital Technology Information in Artificial Intelligence Era | Jevast | [Read More](https://medium.com/p/f2d688c2bcfa) |
-| Thu, 19 Mar 2026 03:26:12 GMT | AI Agent Security Has a Blind Spot — And It’s Not Prompt Injection | Ryan Goodrich | [Read More](https://medium.com/p/a348f24fb959) |
-| Thu, 19 Mar 2026 02:28:10 GMT | The Resistance: What I’m Really Protecting Myself From When I Hit Snooze | Lisa Deveaux | [Read More](https://medium.com/p/4a13ab4e6706) |
-| Thu, 19 Mar 2026 02:23:52 GMT | SSRF via Unvalidated Preflight Location Header in Turborepo Leads to Auth Token Theft | Aser Ahmed | [Read More](https://medium.com/p/dc69445daee0) |
