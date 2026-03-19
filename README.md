@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 19:48:55 GMT | Writeup for OSINT tasks — Pioneers25 CTF. | nwira | [Read More](https://medium.com/p/4382128662d5) |
+| Thu, 19 Mar 2026 19:40:42 GMT | In an Unstable World the U.S. Loses | Sean Randolph | [Read More](https://medium.com/p/600ff8620af4) |
+| Thu, 19 Mar 2026 19:32:19 GMT | The Spy Who Checked Into Paradise | O. J. Okpabi | [Read More](https://medium.com/p/e4b46459d973) |
+| Thu, 19 Mar 2026 19:31:00 GMT | Compliance as a Competitive Edge: Navigating Global iGaming Regulation in 2026 | Microbeekorea | [Read More](https://medium.com/p/106961154e3a) |
+| Thu, 19 Mar 2026 19:24:20 GMT | The Developer Called Me: How an IDOR Leaked 403 Users and Led to Account Takeover | Gaurang Jethva | [Read More](https://medium.com/p/1a2fd1d4a069) |
+| Thu, 19 Mar 2026 19:21:19 GMT | Understanding DHCP: How Devices Automatically Get IP Addresses | Ndu | [Read More](https://medium.com/p/79d35bf4d940) |
+| Thu, 19 Mar 2026 19:16:06 GMT | A Lightweight Wazuh Pipeline Using OCSF and ClickHouse | Yash Patel | [Read More](https://medium.com/p/dca937c83fe6) |
+| Thu, 19 Mar 2026 19:12:02 GMT | CTEM Phase 3: Prioritization - When Security Becomes a Decision | Sahil Malvi | [Read More](https://medium.com/p/32a3b65d90db) |
+| Thu, 19 Mar 2026 19:09:54 GMT | Take the CDDP (Certified DDoS Protection Practitioner) Exam Now! | Jacob Masse | [Read More](https://medium.com/p/cf79732be1c1) |
+| Thu, 19 Mar 2026 19:09:30 GMT | Social Media, Identity, and Control: Why Privacy-Focused Platforms Are Becoming Essential | Decentr | [Read More](https://medium.com/p/6c5f40360157) |
+| Thu, 19 Mar 2026 19:09:00 GMT | DAST on Any Infrastructure: Open Source Dynamic Scanning with a Reproducible Test Environment | Marshall Humble | [Read More](https://medium.com/p/482a9972d1a8) |
+| Thu, 19 Mar 2026 19:08:33 GMT | Assessment Methodologies: Enumeration CTF 1 (2026) | Vanshaj Kumar | [Read More](https://medium.com/p/bbfa4e5b2556) |
+| Thu, 19 Mar 2026 19:07:57 GMT | Writing Semgrep Rules That Actually Matter | Marshall Humble | [Read More](https://medium.com/p/2ef5951e3787) |
 | Thu, 19 Mar 2026 18:52:22 GMT | SQL Injection: The Cause, Attack Types & The Fixes | Cbrnex | [Read More](https://medium.com/p/39bddb75ef39) |
 | Thu, 19 Mar 2026 18:48:42 GMT | การผสาน Secure SDLC เข้าไปใน Application Lifecycle Management สำหรับ Microsoft Power Platform | Worawit St | [Read More](https://medium.com/p/b24516f7f719) |
 | Thu, 19 Mar 2026 18:45:02 GMT | Anton’s Security Blog Quarterly Q1 2026 | Anton Chuvakin | [Read More](https://medium.com/p/fc5a1127660d) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Mar 2026 13:38:50 GMT | Wi-Fi Exploitation IV — Lock It Down or Lose It All | Ishant | [Read More](https://medium.com/p/d713220182d7) |
 | Thu, 19 Mar 2026 13:21:33 GMT | From Portuguese Special Forces to International Security: My Journey | Alexramalheiro | [Read More](https://medium.com/p/c6e601057dfe) |
 | Thu, 19 Mar 2026 13:20:49 GMT | A Lesser-Known Windows 11 Artifact: Program Compatibility Assistant (PCA) for Execution Evidence | Sharan Nagaraj Kumar | [Read More](https://medium.com/p/d04fc199b640) |
-| Thu, 19 Mar 2026 13:17:13 GMT | Detecting Time Manipulation in Windows — You Don’t Always Need Full Forensics | Dean | [Read More](https://medium.com/p/6117c0531f51) |
-| Thu, 19 Mar 2026 13:14:09 GMT | CVSS Scores Demystified: How Ethical Hackers Earn Big in Bug Bounty Programs | Bugitrix | [Read More](https://medium.com/p/5abd0365efe2) |
-| Thu, 19 Mar 2026 13:09:51 GMT | Proving Grounds Billyboss: Writeup (FR) | byL0r3t | [Read More](https://medium.com/p/34386a258757) |
-| Thu, 19 Mar 2026 12:59:23 GMT | This One IT Change Is Transforming Houston Businesses | Lisa Murphy | [Read More](https://medium.com/p/b1c084bbef46) |
-| Thu, 19 Mar 2026 12:57:12 GMT | The Future of CISA: Industry Trends Every IT Auditor Must Understand | Swapnil Pratap Singh | [Read More](https://medium.com/p/8ea9e61499b4) |
-| Thu, 19 Mar 2026 12:52:42 GMT | I Have So Many Story Children | Words by Egypt | [Read More](https://medium.com/p/65da72ec7fc9) |
-| Thu, 19 Mar 2026 12:32:14 GMT | [Writeup] Captain Nohook | n3k00n3 | [Read More](https://medium.com/p/11daa98abae0) |
-| Thu, 19 Mar 2026 12:29:55 GMT | LPG गैस सिलेंडर नया स्कैम — एडवांस पेमेंट फ्रॉड से कैसे बचें | Cyberjaagruk | [Read More](https://medium.com/p/ae8302b44515) |
-| Thu, 19 Mar 2026 12:29:16 GMT | DuoKey and Kompingo Announce a Partnership to Expand Cybersecurity Reach Across the UK | DuoKey | [Read More](https://medium.com/p/0758d362ea3e) |
-| Thu, 19 Mar 2026 12:24:27 GMT | TryHackMe: Missing Person Writeup (OSINT Investigation) | Atharva | [Read More](https://medium.com/p/179ab1ac7607) |
-| Thu, 19 Mar 2026 12:15:49 GMT | Patching a Chall and a Real iOS App | n3k00n3 | [Read More](https://medium.com/p/1d952b07180e) |
-| Thu, 19 Mar 2026 12:07:46 GMT | How Google Evaluates Page Experience (Complete SEO Guide) | Jellyfr | [Read More](https://medium.com/p/5fe8f40ec3b9) |
-| Thu, 19 Mar 2026 12:06:16 GMT | FBI Buys Location Data, Robinhood’s Social Network, and the Death of Apps - The Daily Tech Digest… | Souren Stepanyan | [Read More](https://medium.com/p/54f67d064531) |
