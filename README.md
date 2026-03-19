@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 04:49:43 GMT | What is NAT ? Networking Day — 10 | 0xSmit | [Read More](https://medium.com/p/7970274d8f60) |
+| Thu, 19 Mar 2026 04:35:54 GMT | How I Built a Real Identity Governance Access Review Lab Using Microsoft Entra ID | Owens Jonelle | [Read More](https://medium.com/p/d355d455ec78) |
+| Thu, 19 Mar 2026 04:31:02 GMT | Read-Only Isn’t Harmless | Vectorlane | [Read More](https://medium.com/p/4bd7d7d0f398) |
+| Thu, 19 Mar 2026 04:26:20 GMT | Why Multi-Factor Authentication Won’t Stop Social Engineering Attacks | Kuboid Secure Layer | [Read More](https://medium.com/p/e01a143e0617) |
+| Thu, 19 Mar 2026 04:23:12 GMT | The Future of AI Security: Why It Matters More Than Ever | Aishwarya Singh | [Read More](https://medium.com/p/250f8ce407e4) |
+| Thu, 19 Mar 2026 04:10:15 GMT | Security Groups and Connection Tracking | Carlos Esteban Ospina Saldarriaga | [Read More](https://medium.com/p/8cfff1b7fb9f) |
+| Thu, 19 Mar 2026 04:01:42 GMT | CCPA Cybersecurity Audit Requirements: Understanding Article 9 of the CalPrivacy Regulations | Lydia F de la Torre | [Read More](https://medium.com/p/a4136318735d) |
+| Thu, 19 Mar 2026 04:01:22 GMT | Community Voices: Why Cybersecurity Matters According to Reddit | cyber tech | [Read More](https://medium.com/p/8f68614ef69f) |
+| Thu, 19 Mar 2026 03:58:42 GMT | Who is winning EPIC Fury  war Economically? | Saiftorabi | [Read More](https://medium.com/p/d27b8b6b46b2) |
+| Thu, 19 Mar 2026 03:58:42 GMT | The London Bridge (THM) WriteUp Only Answer | Lawvye | [Read More](https://medium.com/p/c4577f2fef5e) |
+| Thu, 19 Mar 2026 03:57:18 GMT | Stealth Webcam Access: A Deep Dive into Browser Security Vulnerabilities | Rimsha | [Read More](https://medium.com/p/a7a0a7d3aadc) |
+| Thu, 19 Mar 2026 03:54:59 GMT | Safeguarding the Future — Cyber Security Techniques for Big Data Computing, Blockchain, and DLT… | Nagendra Singh Yadav | [Read More](https://medium.com/p/b112bd256dca) |
+| Thu, 19 Mar 2026 03:54:55 GMT | Securing AI Agents in the Enterprise: A Three-Tier Control Framework | MrDuc | [Read More](https://medium.com/p/6603ecfb798d) |
+| Thu, 19 Mar 2026 03:52:06 GMT | Re-architecting the Blockchain Execution Layer: How the FATE VM Solves EVM’s Fundamental Flaws | Emin Henri Mahrt | [Read More](https://medium.com/p/ddcb8f74b251) |
+| Thu, 19 Mar 2026 03:33:09 GMT | Digital Technology Information in Artificial Intelligence Era | Jevast | [Read More](https://medium.com/p/f2d688c2bcfa) |
+| Thu, 19 Mar 2026 03:26:12 GMT | AI Agent Security Has a Blind Spot — And It’s Not Prompt Injection | Ryan Goodrich | [Read More](https://medium.com/p/a348f24fb959) |
+| Thu, 19 Mar 2026 02:28:10 GMT | The Resistance: What I’m Really Protecting Myself From When I Hit Snooze | Lisa Deveaux | [Read More](https://medium.com/p/4a13ab4e6706) |
 | Thu, 19 Mar 2026 02:23:52 GMT | SSRF via Unvalidated Preflight Location Header in Turborepo Leads to Auth Token Theft | Aser Ahmed | [Read More](https://medium.com/p/dc69445daee0) |
 | Thu, 19 Mar 2026 01:32:28 GMT | HTB Bank: Chasing Balance Transfers to Root Shell | Onurcan Genç | [Read More](https://medium.com/p/dda06568fce8) |
 | Thu, 19 Mar 2026 01:27:14 GMT | Top IT Certifications by Difficulty (2026): A Strategic Guide for IT Career Growth | AAAdemy | [Read More](https://medium.com/p/f4ad433f22b2) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 18:20:44 GMT | ISO 27001 & 27002: The Gold Standard of Information Security, Explained | D3ad_M3m0r13s | [Read More](https://medium.com/p/c53146947307) |
 | Wed, 18 Mar 2026 18:20:43 GMT | The Inference Inflection: Why NVIDIA’s GTC 2026 Just Rewrote the Rules of the AI Economy | Ana Bildea, PhD | [Read More](https://medium.com/p/045da4750cda) |
 | Wed, 18 Mar 2026 18:11:31 GMT | Cyber Insurance for Your Small Business: Unlock Easy Protection Now | Manishbhatia | [Read More](https://medium.com/p/61ad23ca3546) |
-| Wed, 18 Mar 2026 18:07:13 GMT | Why Codex Security Doesn’t Include SAST — A Shift in Application Security | MD. RASHEDUL ISLAM | [Read More](https://medium.com/p/68ab274951ae) |
-| Wed, 18 Mar 2026 18:01:41 GMT | When Old Breaches Meet New Code: Why Historical Leaks Still Matter | Iski | [Read More](https://medium.com/p/b4e6eb8ac607) |
-| Wed, 18 Mar 2026 17:58:37 GMT | Knowledge Lab Sprint: A Practical Framework for Turning Learning into Execution | Camila Barreto | [Read More](https://medium.com/p/3dcc232892c2) |
-| Wed, 18 Mar 2026 17:26:46 GMT | You Were Never Supposed to See That: A Beginner’s Guide to IDOR Vulnerabilities | Yakoubmaddou | [Read More](https://medium.com/p/b81854f65fdd) |
-| Wed, 18 Mar 2026 17:26:34 GMT | Proving Grounds — Practice — XposedAPI | Makoyi | [Read More](https://medium.com/p/770d48008e3a) |
-| Wed, 18 Mar 2026 17:23:56 GMT | OverTheWire : Wargames — Bandit(0–10) | Pooja J | [Read More](https://medium.com/p/0a6dddb690ae) |
-| Wed, 18 Mar 2026 17:19:02 GMT | How Modern Gadgets Make Everyday Life Easier (Simple Ways Technology Helps You Daily) | creative vision | [Read More](https://medium.com/p/f875ebc0c28a) |
-| Wed, 18 Mar 2026 17:18:07 GMT | DevSecOps with AI: The Future of Secure Software Delivery | Ashwini Puranik | [Read More](https://medium.com/p/b39fd5d4d8be) |
-| Wed, 18 Mar 2026 17:12:16 GMT | Remote Security Agent Dallas: The Smart Way to Protect Your Business 24/7 | Overwatch Technologies | [Read More](https://medium.com/p/157f9d0e0bcc) |
-| Wed, 18 Mar 2026 17:10:22 GMT | The Stryker Cyber Attack Is a Warning Shot We Are Choosing to Ignore | Len Noe | [Read More](https://medium.com/p/94bd22b1b169) |
-| Wed, 18 Mar 2026 17:08:29 GMT | The Silent Killer in Your Python Code: How a Single Misconfiguration Can Expose Your Entire System | Edgar Milvus | [Read More](https://medium.com/p/6bf512013edf) |
-| Wed, 18 Mar 2026 17:07:23 GMT | The Decentralisation Paradox Was Already Field-Tested — In Porn and webcam sexwork | Berend Watchus | [Read More](https://medium.com/p/889d9fe3896e) |
-| Wed, 18 Mar 2026 17:06:22 GMT | Can Quantum Resistance Technology Compete with Quantum Computers? | Ilhamaldi | [Read More](https://medium.com/p/02b9491c3cbf) |
-| Wed, 18 Mar 2026 17:01:00 GMT | The Curse of Saying No: Why Choosing Yourself Can Make You a Target | Esther Ijewere | [Read More](https://medium.com/p/f5405596fd40) |
-| Wed, 18 Mar 2026 16:59:42 GMT | SecurityOnion Crash Course Part 1 AKA, what the hell is that? | HanSolo71 | [Read More](https://medium.com/p/43373ab1976f) |
-| Wed, 18 Mar 2026 16:55:27 GMT | AI and Web Security: The Future of Threat Detection | Mubashir | [Read More](https://medium.com/p/68ce06c70ec5) |
-| Wed, 18 Mar 2026 16:52:21 GMT | Solving the TryHeartMe Web Challenge : Breaking JWT Trust | Abhilash H | [Read More](https://medium.com/p/20ce533e48aa) |
