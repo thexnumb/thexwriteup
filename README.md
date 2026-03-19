@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 21:30:22 GMT | Abusing a vulnerable driver BYOVD to gain arbitrary kernel R/W and bypass PPL protection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/571552c7efc8) |
+| Thu, 19 Mar 2026 21:24:15 GMT | I Spent 15 Years in Cybersecurity. Here’s Why AI Is Finally Changing Penetration Testing for Real. | Viktor | [Read More](https://medium.com/p/31c04f399885) |
+| Thu, 19 Mar 2026 21:22:20 GMT | Protect your web experience | Charles A.W A | [Read More](https://medium.com/p/d3e52560c0a9) |
+| Thu, 19 Mar 2026 21:19:45 GMT | Rethinking Workstation Security: Lessons from ANSSI’s 2026 Multi-Environment Guide | Séв(aѕтιen) L. ⚠ | [Read More](https://medium.com/p/59a333856f50) |
+| Thu, 19 Mar 2026 21:15:28 GMT | Building a Bulletproof Auth System for Personal AI | Craig Dewar | [Read More](https://medium.com/p/1aa84c746150) |
+| Thu, 19 Mar 2026 21:14:03 GMT | Unraveling the Layers: A Deep Dive into a Multi-Stage .NET Loader Delivering AsyncRAT | Lucas Cobb | [Read More](https://medium.com/p/0f65d1432444) |
+| Thu, 19 Mar 2026 21:11:00 GMT | Secure Resource Access with Tokenization | Kelsey Merten | [Read More](https://medium.com/p/79c1ebd7805a) |
+| Thu, 19 Mar 2026 21:09:46 GMT | Breaking Barriers in Cybersecurity: Professor Whyte and the Cyber Lounge | Seanstechblog | [Read More](https://medium.com/p/fd3d8077bb59) |
+| Thu, 19 Mar 2026 21:05:24 GMT | URGENT: Fake PYRAX Groups Are Draining Wallets Right Now | PYRAX Network | [Read More](https://medium.com/p/394d369bb429) |
+| Thu, 19 Mar 2026 21:02:40 GMT | I Was Told to Try to Break a “Proprietary AI.” It Took Five Minutes. | Leah Manoni | [Read More](https://medium.com/p/598637259e7e) |
+| Thu, 19 Mar 2026 21:01:01 GMT | Stop Treating HTTP Like a Utility. It’s a Control Surface. | Hira Barton | [Read More](https://medium.com/p/c23271db84c7) |
+| Thu, 19 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 31: Windows Sharing | Maximillian Rueda | [Read More](https://medium.com/p/3ba256b22719) |
 | Thu, 19 Mar 2026 20:36:57 GMT | Client security, runtime tampering, and why SPKI and TLS do not prove trusted execution | Mark Solo | [Read More](https://medium.com/p/6b55bb63c3a1) |
 | Thu, 19 Mar 2026 20:33:29 GMT | The CAPTCHA That Doesn’t Annoy Users: A Better Way to Stop Bots | Lucas Voigt Bueno | [Read More](https://medium.com/p/9be005c8338a) |
 | Thu, 19 Mar 2026 20:26:01 GMT | Understanding HTTP & HTTPS: How the Web Really Works | Ndu | [Read More](https://medium.com/p/a82910b23904) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Mar 2026 15:07:07 GMT | The Adversary Has Their Own ChatGPT — Inside the Criminal AI Underground | Bedrettin Cakmak | [Read More](https://medium.com/p/194cbdbd6136) |
 | Thu, 19 Mar 2026 15:04:17 GMT | Introducing HoneyDB AI | Px Mx | [Read More](https://medium.com/p/d15d66717af4) |
 | Thu, 19 Mar 2026 15:02:35 GMT | Conti TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/8571ff89cf51) |
-| Thu, 19 Mar 2026 15:01:00 GMT | Building a Real-Time IDS Lab & Detecting SSH Brute Force Attacks | Jaredleyva | [Read More](https://medium.com/p/01cb2fc8b4b6) |
-| Thu, 19 Mar 2026 14:59:43 GMT | Benign TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/2d2cfee5c9a6) |
-| Thu, 19 Mar 2026 14:57:08 GMT | We Started AnantNetra in 2023. | AnantNetra Technologies | [Read More](https://medium.com/p/74e1faaf27f8) |
-| Thu, 19 Mar 2026 14:57:01 GMT | CORS and CSRF Vulnerabilities | Damilola Faith Ashiedu | [Read More](https://medium.com/p/8794072583c3) |
-| Thu, 19 Mar 2026 14:52:25 GMT | Algernon Walkthrough (Proving Ground-windows) | cyber_public_school | [Read More](https://medium.com/p/5e892ab6098c) |
-| Thu, 19 Mar 2026 14:46:00 GMT | [DEEP RESEARCH] How Malware Uses Solana and EVM Chains to Rotate C2 Without Burning Infrastructure | Wes Young | [Read More](https://medium.com/p/e87b1595b65c) |
-| Thu, 19 Mar 2026 14:42:37 GMT | The Rise of AI-Driven Pentesting: 8 Open-Source Tools Security Teams Should Watch in 2026 | TechLatest.Net | [Read More](https://medium.com/p/e849c8171450) |
-| Thu, 19 Mar 2026 14:41:53 GMT | The Secret is Out: Microsoft Entra is Getting Native Backup (And Why It’s a Massive Win for MSPs) | Chase Sims | [Read More](https://medium.com/p/4a2fdfd4ca51) |
-| Thu, 19 Mar 2026 14:33:42 GMT | Fungsi Agregasi dan Filter Data pada SQL | Aghnia Azka | [Read More](https://medium.com/p/ee8b9d37978f) |
-| Thu, 19 Mar 2026 14:17:22 GMT | MoreLogin Security Incident Summary | MoreLogin Browser | [Read More](https://medium.com/p/e78ffec4762d) |
-| Thu, 19 Mar 2026 14:04:35 GMT | IT in Education | Joan Akao Mary Odwee | [Read More](https://medium.com/p/b2c247629d09) |
-| Thu, 19 Mar 2026 14:01:02 GMT | The biggest myth: “We’re small, we don’t need formal policies.” | Gaurav Shukla | [Read More](https://medium.com/p/a47140dfaf89) |
