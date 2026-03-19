@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 14:04:35 GMT | IT in Education | Joan Akao Mary Odwee | [Read More](https://medium.com/p/b2c247629d09) |
+| Thu, 19 Mar 2026 14:01:02 GMT | The biggest myth: “We’re small, we don’t need formal policies.” | Gaurav Shukla | [Read More](https://medium.com/p/a47140dfaf89) |
+| Thu, 19 Mar 2026 14:01:01 GMT | I Passed a Brand New Certification. There Were No Study Materials. So I Built Them. | Kevin P. Heaney | [Read More](https://medium.com/p/2982daefbf32) |
+| Thu, 19 Mar 2026 14:01:01 GMT | Cyber Briefing: 2026.03.19 | CyberMaterial | [Read More](https://medium.com/p/574b2cb3e52d) |
+| Thu, 19 Mar 2026 14:01:01 GMT | Small Businesses Are Drowning in Threat Intelligence They Can’t Use. | Okorieprincegeorge | [Read More](https://medium.com/p/e3f073b24d81) |
+| Thu, 19 Mar 2026 13:57:59 GMT | LLM Vulnerabilities — Data and Model Poisoning : Garak | Tanmay Bhattacharjee | [Read More](https://medium.com/p/a0d3a796e23d) |
+| Thu, 19 Mar 2026 13:49:01 GMT | AI Without Governance Is a Liability: A Leadership Perspective on Responsible Transformation | DrChristina Asare | [Read More](https://medium.com/p/0e5ab850abb5) |
+| Thu, 19 Mar 2026 13:47:51 GMT | My 8-Hour CompTIA SecAI+ Success Story | Corey Farley | [Read More](https://medium.com/p/984838ca17de) |
+| Thu, 19 Mar 2026 13:47:48 GMT | What Happens to Your Data After It’s Stolen? | Digital Defense | [Read More](https://medium.com/p/663f618cf780) |
+| Thu, 19 Mar 2026 13:41:06 GMT | I built a Claude Code plugin that profiles companies like a threat analyst would | Vito Rallo | [Read More](https://medium.com/p/b473385ba9b4) |
+| Thu, 19 Mar 2026 13:41:00 GMT | A Visual Guide for Worcester Homeowners - Up & Down Garage | Up & Down Garage Door Services | [Read More](https://medium.com/p/6ab08c359384) |
+| Thu, 19 Mar 2026 13:38:50 GMT | Wi-Fi Exploitation IV — Lock It Down or Lose It All | Ishant | [Read More](https://medium.com/p/d713220182d7) |
+| Thu, 19 Mar 2026 13:21:33 GMT | From Portuguese Special Forces to International Security: My Journey | Alexramalheiro | [Read More](https://medium.com/p/c6e601057dfe) |
+| Thu, 19 Mar 2026 13:20:49 GMT | A Lesser-Known Windows 11 Artifact: Program Compatibility Assistant (PCA) for Execution Evidence | Sharan Nagaraj Kumar | [Read More](https://medium.com/p/d04fc199b640) |
+| Thu, 19 Mar 2026 13:17:13 GMT | Detecting Time Manipulation in Windows — You Don’t Always Need Full Forensics | Dean | [Read More](https://medium.com/p/6117c0531f51) |
+| Thu, 19 Mar 2026 13:14:09 GMT | CVSS Scores Demystified: How Ethical Hackers Earn Big in Bug Bounty Programs | Bugitrix | [Read More](https://medium.com/p/5abd0365efe2) |
+| Thu, 19 Mar 2026 13:09:51 GMT | Proving Grounds Billyboss: Writeup (FR) | byL0r3t | [Read More](https://medium.com/p/34386a258757) |
+| Thu, 19 Mar 2026 12:59:23 GMT | This One IT Change Is Transforming Houston Businesses | Lisa Murphy | [Read More](https://medium.com/p/b1c084bbef46) |
 | Thu, 19 Mar 2026 12:57:12 GMT | The Future of CISA: Industry Trends Every IT Auditor Must Understand | Swapnil Pratap Singh | [Read More](https://medium.com/p/8ea9e61499b4) |
 | Thu, 19 Mar 2026 12:52:42 GMT | I Have So Many Story Children | Words by Egypt | [Read More](https://medium.com/p/65da72ec7fc9) |
 | Thu, 19 Mar 2026 12:32:14 GMT | [Writeup] Captain Nohook | n3k00n3 | [Read More](https://medium.com/p/11daa98abae0) |
@@ -97,21 +115,3 @@ Know What It Did. | abluva-research | [Read More](https://medium.com/p/552534f2b
 | Thu, 19 Mar 2026 08:16:00 GMT | Infrastructure as Code Security Risks: The Hidden Danger in Modern DevOps | Ishita Kapoor | [Read More](https://medium.com/p/2818ebab3a8f) |
 | Thu, 19 Mar 2026 08:13:23 GMT | SoK: Securing Cross-Chain Bridges Attack Vectors, Design Risks, and Defense Strategies | Vygha | [Read More](https://medium.com/p/507d5b9e3b9b) |
 | Thu, 19 Mar 2026 08:08:18 GMT | Preventing Agent Goal Hijack in .NET AI Agents | Will Velida | [Read More](https://medium.com/p/09abcd68af52) |
-| Thu, 19 Mar 2026 08:01:00 GMT | Red Hat Enterprise Linux 10: Geçmişten Geleceğe Kurumsal Linux | Onur Girgin | [Read More](https://medium.com/p/3a3f0632b039) |
-| Thu, 19 Mar 2026 07:59:37 GMT | The Vendor Access Problem: Why Third-Party RDP Is the Biggest OT Security Risk You’re Ignoring | MrDuc | [Read More](https://medium.com/p/e0b6bd8729dd) |
-| Thu, 19 Mar 2026 07:50:43 GMT | Best Cryptocurrency Recovery Expert: Top Reviews Visit Cryptera Chain Signals | Rogerstewer | [Read More](https://medium.com/p/6a310fe9a286) |
-| Thu, 19 Mar 2026 07:42:54 GMT | Detecting AD Lateral Movement - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/e5b33ac19b8e) |
-| Thu, 19 Mar 2026 07:42:00 GMT | Self-hosting without panic (10/12): Backups that restore – the only kind that counts | Thomas Byern on Self-Hosting | [Read More](https://medium.com/p/e11c1d08c7d8) |
-| Thu, 19 Mar 2026 07:37:30 GMT | Operational AI for Non-Tech Leaders: A Practical Guide to Driving Measurable Business Impact | sagetitans academy | [Read More](https://medium.com/p/e2b1ddd74d9e) |
-| Thu, 19 Mar 2026 07:31:18 GMT | I Built an Automated CVE Monitor That Sends Exploit Playbooks to Slack — For Free | Razzkr | [Read More](https://medium.com/p/7e17129e7615) |
-| Thu, 19 Mar 2026 07:30:04 GMT | Mobile Patrol Security Services in BC — Cost-Effective Protection That Moves With You | Sukks | [Read More](https://medium.com/p/ac36c86aa9a3) |
-| Thu, 19 Mar 2026 07:29:02 GMT | Build a Code Security Agent in 30 Minutes with Zeron ADK (ZAK) | Snehanjan Chatterjee | [Read More](https://medium.com/p/738de8ab3774) |
-| Thu, 19 Mar 2026 07:28:36 GMT | When Cyber Hits the Real World | Muhammad Ali Khan | [Read More](https://medium.com/p/b8412932d146) |
-| Thu, 19 Mar 2026 07:19:17 GMT | Walkthrough: Building a Real-Time Network Attack Detection & Automated Response System using AI… | Jenishjoel | [Read More](https://medium.com/p/bac362d733e9) |
-| Thu, 19 Mar 2026 07:17:45 GMT | Complete OTP Verification Bypass in Registration Flow via Manipulated Server Response | Maksudur Rahman | [Read More](https://medium.com/p/8c0c69afdad6) |
-| Thu, 19 Mar 2026 07:14:11 GMT | Antivirus Pro Detects Unauthorized Screen Recording During Confidential Mobile Sessions | Rahul yadav | [Read More](https://medium.com/p/d0f290a9390c) |
-| Thu, 19 Mar 2026 07:08:45 GMT | Chapter 12 · The Thaw | Hotoke | [Read More](https://medium.com/p/e5177bba976c) |
-| Thu, 19 Mar 2026 07:06:26 GMT | ⚙️ How to Exploit IoT Misconfigurations (Safely & Legally) | ghostyjoe | [Read More](https://medium.com/p/a147a62406d8) |
-| Thu, 19 Mar 2026 07:05:26 GMT | Missing Person-THM Writeup- | Fahisshehandim | [Read More](https://medium.com/p/67c493cdf618) |
-| Thu, 19 Mar 2026 07:04:54 GMT | Why Your Gateway Should Know Where Traffic is Going (and Why IPs Aren’t Enough) | Wsone | [Read More](https://medium.com/p/66847cdf4ba1) |
-| Thu, 19 Mar 2026 07:01:01 GMT | 17. Securing CI/CD Pipelines like a pro. | Mangesh Muley | [Read More](https://medium.com/p/bb01ed6056c2) |
