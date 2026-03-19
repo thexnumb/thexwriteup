@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 05:55:20 GMT | I Built a Web Security Lab and Watched SQL Injection Get Blocked in Real Time | Ronak Mishra | [Read More](https://medium.com/p/5f3bc8697dd8) |
+| Thu, 19 Mar 2026 05:54:45 GMT | When You Can’t Trust the Voice: Deepfake Phishing and Real-Time AI Impersonation Threats to… | Cynox Security LLP. | [Read More](https://medium.com/p/c8660ed21f33) |
+| Thu, 19 Mar 2026 05:54:14 GMT | Understanding AWS internet gateway-how cloud networks connect to the internet | unica 02 | [Read More](https://medium.com/p/d6a16f2d097f) |
+| Thu, 19 Mar 2026 05:52:45 GMT | A Comprehensive Guide to Threat Modeling | Atharva Deshmukh | [Read More](https://medium.com/p/362d3188ddfa) |
+| Thu, 19 Mar 2026 05:51:21 GMT | The OSI Model: Understanding Network Layers for Better Cybersecurity | Ferdi Edogawa | [Read More](https://medium.com/p/9a1c67b195d2) |
+| Thu, 19 Mar 2026 05:44:41 GMT | Route Optimization Algorithms in Modern Logistics Software Development | Bhoomi Ahuja | [Read More](https://medium.com/p/61b67e117568) |
+| Thu, 19 Mar 2026 05:35:44 GMT | Mobile Application Security: Preserving User Information and Privacy | Mathionix Technologies | [Read More](https://medium.com/p/cdacf3d9d248) |
+| Thu, 19 Mar 2026 05:32:57 GMT | Food Store — SQL Injection Challenge | Anwer | [Read More](https://medium.com/p/7bec9951a3a8) |
+| Thu, 19 Mar 2026 05:31:15 GMT | Guarding the Digital Gates: Is Your Campus Data Truly Secure? | ScAcademic | [Read More](https://medium.com/p/53055da8df77) |
+| Thu, 19 Mar 2026 05:31:00 GMT | I Tested Shannon, AI Pentester by Keygraph on a Vulnerable Node.js App — Here’s What I Found | Shruti Pokale | [Read More](https://medium.com/p/15d80ee6dab8) |
+| Thu, 19 Mar 2026 05:27:34 GMT | Top Notch Cyber Security Course In Kerala | Vishnu U | [Read More](https://medium.com/p/ce80d22f1908) |
+| Thu, 19 Mar 2026 05:24:05 GMT | Learning Palo Alto Firewall — LESSON 1: First Bootup (Initial Setup) | Rouell Mamaril | [Read More](https://medium.com/p/cbc3b76ab44d) |
+| Thu, 19 Mar 2026 05:21:59 GMT | HCDC Technofair 2026: The Shift That Aged Well | Jeo Carlo Lubao | [Read More](https://medium.com/p/b99c1300166f) |
+| Thu, 19 Mar 2026 05:16:24 GMT | Why Your Presale Telegram Community Will Get Attacked Before TGE — And What Actually Stops It | Bershtech | [Read More](https://medium.com/p/94c05852a34b) |
+| Thu, 19 Mar 2026 05:16:23 GMT | Devops | Tharmaradnamsansayan | [Read More](https://medium.com/p/59d740d7667d) |
+| Thu, 19 Mar 2026 05:12:15 GMT | Where Art Starts | Nira | [Read More](https://medium.com/p/c91bf6483a9e) |
+| Thu, 19 Mar 2026 05:10:20 GMT | Blackhole: a mock server with ground truth for testing black-box scanners | Sergey Gordeychik | [Read More](https://medium.com/p/5854a017a06c) |
+| Thu, 19 Mar 2026 05:08:40 GMT | Home Security Without Ownership: Why Renters No Longer Have to Compromise | Marcus Bennett | [Read More](https://medium.com/p/fa6316b6660f) |
+| Thu, 19 Mar 2026 05:05:59 GMT | Learning Palo Alto Firewall — Introduction and Important Notes | Rouell Mamaril | [Read More](https://medium.com/p/ffd3d4fa398a) |
+| Thu, 19 Mar 2026 04:59:08 GMT | IOT Connect — Android Broadcast Receiver Challenge | Anwer | [Read More](https://medium.com/p/62cb0c1af17e) |
+| Thu, 19 Mar 2026 04:57:10 GMT | OffSec Proving Grounds — Potato | Roshan Rajbanshi | [Read More](https://medium.com/p/b080d38b4bed) |
+| Thu, 19 Mar 2026 04:57:08 GMT | WiFi Pentesting Series— Breaking WEP | Rahul Singh Chauhan | [Read More](https://medium.com/p/dd1597db2e5e) |
+| Thu, 19 Mar 2026 04:55:43 GMT | LazyOwn Goes Agentic: When Your Red Team Framework Decides to Think for Itself (And Actually Pulls… | Lazyown Redteam | [Read More](https://medium.com/p/bd64da800977) |
 | Thu, 19 Mar 2026 04:49:43 GMT | What is NAT ? Networking Day — 10 | 0xSmit | [Read More](https://medium.com/p/7970274d8f60) |
 | Thu, 19 Mar 2026 04:35:54 GMT | How I Built a Real Identity Governance Access Review Lab Using Microsoft Entra ID | Owens Jonelle | [Read More](https://medium.com/p/d355d455ec78) |
 | Thu, 19 Mar 2026 04:31:02 GMT | Read-Only Isn’t Harmless | Vectorlane | [Read More](https://medium.com/p/4bd7d7d0f398) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Mar 2026 19:47:32 GMT | Secuview 8MP Full HD Outdoor IP Camera - Water-proof & ONVIF. | secuview | [Read More](https://medium.com/p/aa89ff3495c7) |
 | Wed, 18 Mar 2026 19:46:56 GMT | Secuview 6MP Outdoor IP PTZ Camera - Auto-Focus Lens & Weatherproof. | secuview | [Read More](https://medium.com/p/3c1cd6f459cc) |
 | Wed, 18 Mar 2026 19:43:24 GMT | SaaS Apps: The Blind Spot in Enterprise Security | JSOC IT BLOG | [Read More](https://medium.com/p/d47a36d8eaef) |
-| Wed, 18 Mar 2026 19:41:36 GMT | $4 Gas — But a Lot of It | Dima Mikhaylov | [Read More](https://medium.com/p/e409b3d96e1e) |
-| Wed, 18 Mar 2026 19:41:10 GMT | Virtual IPS(DNAT-FORTİGATE) | Selcuktufan | [Read More](https://medium.com/p/8c219938736e) |
-| Wed, 18 Mar 2026 19:41:00 GMT | Infrastructure as a Security Frontier: Winning a 150 XTZ Bounty in the Tezos Ecosystem | rdin777 | [Read More](https://medium.com/p/d7d9cbf17142) |
-| Wed, 18 Mar 2026 19:36:32 GMT | Stop Chaining Tools. Recon Was Never Meant to Work This Way. | Hira Barton | [Read More](https://medium.com/p/57e2104f2463) |
-| Wed, 18 Mar 2026 19:35:36 GMT | Chief Information Security Officer Global Email List — Connect With the Leaders Who Protect the… | Forez Data | [Read More](https://medium.com/p/2c43abcba5fe) |
-| Wed, 18 Mar 2026 19:30:36 GMT | Sensitive Data Exposure - What Your Application Is Leaking Without Anyone Noticing | Rufus Kehinde | [Read More](https://medium.com/p/24e63f2fe157) |
-| Wed, 18 Mar 2026 19:15:32 GMT | When the State Teaches You to Bypass the State | Dan Korovtch | [Read More](https://medium.com/p/eb6c0815004d) |
-| Wed, 18 Mar 2026 19:07:57 GMT | Footprinting and Reconnaissance: The Art of Information Gathering in Ethical Hacking | HeisKris | [Read More](https://medium.com/p/fe27b7ed417d) |
-| Wed, 18 Mar 2026 19:05:48 GMT | OSCP Proving Grounds - Vault - Hard - Active Directory | SilentExploit | [Read More](https://medium.com/p/d97be5a9fff0) |
-| Wed, 18 Mar 2026 19:03:57 GMT | Beyond the 403: Engineering a Generative Time-Sink for Automated Reconnaissance | bhuvannetam | [Read More](https://medium.com/p/b15728f76ac0) |
-| Wed, 18 Mar 2026 18:58:15 GMT | MIT 6.1600: Foundations of Computer Security — My Learning Journey | Hugo | [Read More](https://medium.com/p/8605c4021df2) |
-| Wed, 18 Mar 2026 18:35:30 GMT | Wenn die Bank Google braucht: Ein Schriftwechsel mit der Bank WIR | David Brenner | [Read More](https://medium.com/p/882c06ff48cf) |
-| Wed, 18 Mar 2026 18:35:28 GMT | OWASP Top 10 for LLM Applications (2025) | SOCFortress | [Read More](https://medium.com/p/7cbb304aabf0) |
-| Wed, 18 Mar 2026 18:31:47 GMT | Chasing Carmen: How a 90s Game Prepared Me for Cyber Intelligence | Revathi Margasagayam | [Read More](https://medium.com/p/c4303ff77770) |
-| Wed, 18 Mar 2026 18:31:01 GMT | picoCTF — byp4ss3d Writeup | Anubhav_bora | [Read More](https://medium.com/p/1f0cdd9ce4a0) |
-| Wed, 18 Mar 2026 18:28:30 GMT | Secure Windows Endpoint Automation: Orchestrating NAS Backups with Ansible and WinRM | Danalache Emanuel | [Read More](https://medium.com/p/bca172084a47) |
-| Wed, 18 Mar 2026 18:27:55 GMT | LeakNet Ransomware: ClickFix to Deno Extortion Chain | Dice | [Read More](https://medium.com/p/f3d4695227a0) |
-| Wed, 18 Mar 2026 18:26:39 GMT | How I Found a CSRF Vulnerability That Could Take Over Student Accounts on an Educational Platform | Secliptor | [Read More](https://medium.com/p/6e65bc70816f) |
-| Wed, 18 Mar 2026 18:26:00 GMT | What I Avoid Writing About and Why | LikhithWrites | [Read More](https://medium.com/p/cac6aeaa9b08) |
-| Wed, 18 Mar 2026 18:22:53 GMT | GDPR: The Law That Changed How the Internet Handles Your Data | D3ad_M3m0r13s | [Read More](https://medium.com/p/4b440c948a3f) |
-| Wed, 18 Mar 2026 18:20:44 GMT | ISO 27001 & 27002: The Gold Standard of Information Security, Explained | D3ad_M3m0r13s | [Read More](https://medium.com/p/c53146947307) |
-| Wed, 18 Mar 2026 18:20:43 GMT | The Inference Inflection: Why NVIDIA’s GTC 2026 Just Rewrote the Rules of the AI Economy | Ana Bildea, PhD | [Read More](https://medium.com/p/045da4750cda) |
-| Wed, 18 Mar 2026 18:11:31 GMT | Cyber Insurance for Your Small Business: Unlock Easy Protection Now | Manishbhatia | [Read More](https://medium.com/p/61ad23ca3546) |
