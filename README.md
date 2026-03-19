@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 16:20:54 GMT | RATs: Ethical Hacking & Safety Tips | Ambreen Rehman | [Read More](https://medium.com/p/da2f0229c31e) |
+| Thu, 19 Mar 2026 16:10:27 GMT | The vCIO Advantage: Why 2026 Strategy Outperforms 2025 Tech Spend | IT_Engineer | [Read More](https://medium.com/p/bef4dd20ac12) |
+| Thu, 19 Mar 2026 15:53:18 GMT | ATT&CK as a Working Tool: Theory and Hands-On Practical Usage | Andrey Pautov | [Read More](https://medium.com/p/d63835c9f101) |
+| Thu, 19 Mar 2026 15:51:40 GMT | ML Model Bias & Hallucination Auditing Methodology | gayatri r | [Read More](https://medium.com/p/7ec4a5d9d91f) |
+| Thu, 19 Mar 2026 15:51:07 GMT | When Rate Limiting Fails: Evaluating IP-Based Controls in Authentication Systems | Yeboahromeo | [Read More](https://medium.com/p/6c1de1446fa8) |
+| Thu, 19 Mar 2026 15:50:14 GMT | How to Choose a HIPAA-Compliant IT Provider in Orange County: 10 Questions | Technijian | [Read More](https://medium.com/p/f94c32a17cab) |
+| Thu, 19 Mar 2026 15:47:13 GMT | Global Cybersecurity Outlook 2026: Executive Summary and Critical Analysis | Bishal Poudel | [Read More](https://medium.com/p/53d2d51ec7c3) |
+| Thu, 19 Mar 2026 15:46:51 GMT | Red Team Mindset [Part 3] Exit Strategies | M. John | [Read More](https://medium.com/p/524ee28fb3ed) |
+| Thu, 19 Mar 2026 15:46:25 GMT | GDB Test Drive Picoctf Reverse Engineering | Aun Raza | [Read More](https://medium.com/p/88bed1540a83) |
+| Thu, 19 Mar 2026 15:30:35 GMT | How I Deal with Scope Creep & Unrealistic Client Expectations as a Pentester | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/b1ebc4a0b175) |
+| Thu, 19 Mar 2026 15:19:36 GMT | Building a Hybrid NLP Fraud Detection System with Ensemble Learning and Explainable AI | Tejas R M | [Read More](https://medium.com/p/330d6f55620b) |
+| Thu, 19 Mar 2026 15:19:19 GMT | GamingServer CTF — LXD Privilege Escalation Walkthrough | RCA62X8 | [Read More](https://medium.com/p/afc88b7751ab) |
+| Thu, 19 Mar 2026 15:17:06 GMT | Beyond the Passwordless Fortress: Building a Hybrid Passkey Strategy in Symfony 7.4 | Matt Mochalkin | [Read More](https://medium.com/p/855ca4c4b07d) |
 | Thu, 19 Mar 2026 15:16:33 GMT | 什麼是 DMZ Zone？ — 網絡安全裡的公司接待區 | 思維舞步 MindSteps | [Read More](https://medium.com/p/e8c3ac96a2c4) |
 | Thu, 19 Mar 2026 15:13:22 GMT | From Governance to Sovereignty: The Next Frontier of Agentic AI Systems | Robert Saghafi | [Read More](https://medium.com/p/7fa5288ddc21) |
 | Thu, 19 Mar 2026 15:11:05 GMT | Do you store passwords in your Notes app? That’s exactly what Perseus is hunting for. | Aastha Thakker | [Read More](https://medium.com/p/b06483e77ba7) |
@@ -99,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Mar 2026 09:53:54 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 6 | Haxymad | [Read More](https://medium.com/p/b8162c92d669) |
 | Thu, 19 Mar 2026 09:53:39 GMT | AI security Roadmap | Aniket Kumar | [Read More](https://medium.com/p/48754be614d6) |
 | Thu, 19 Mar 2026 09:49:38 GMT | Top 10 Kali Linux Tools for Ethical Hackers | EINITIAL24 | [Read More](https://medium.com/p/c12f3e804f74) |
-| Thu, 19 Mar 2026 09:40:11 GMT | The Future of Digital Payments
-Digital payments are transforming how we buy and sell. | Siddharth Somany | [Read More](https://medium.com/p/225529527aea) |
-| Thu, 19 Mar 2026 09:38:02 GMT | Kamu Pikir Aplikasi Aman? | Fikrimuzaki | [Read More](https://medium.com/p/79e40d66b0db) |
-| Thu, 19 Mar 2026 09:33:45 GMT | Best Cyber Range Platform for Beginners and Professionals | cyber security Updates | [Read More](https://medium.com/p/96bfd35d76cc) |
-| Thu, 19 Mar 2026 09:28:21 GMT | Building and Deploying a Product Listing Frontend App with AWS Amplify | Maryammairaj | [Read More](https://medium.com/p/f67ec7a26dc2) |
-| Thu, 19 Mar 2026 09:25:35 GMT | OSI Modeli Nedir ve Nasıl Çalışır? | Onur Öztürk | [Read More](https://medium.com/p/1e8b31484ee4) |
-| Thu, 19 Mar 2026 09:24:02 GMT | The Ultimate Guide to Choosing the Best Cheap Linux Server in 2026 (Without Compromising Security) | Andy | [Read More](https://medium.com/p/106dd3fe5a9e) |
-| Thu, 19 Mar 2026 09:23:53 GMT | Beyond the Inbox — Introducing Web Campaigns | delivr.to | [Read More](https://medium.com/p/ee137d868dc0) |
-| Thu, 19 Mar 2026 09:23:50 GMT | ADFT: Offline Active Directory Investigation with Deterministic Detection and a Local Web UI | Elie.md | [Read More](https://medium.com/p/955e4a75c0f4) |
-| Thu, 19 Mar 2026 09:22:37 GMT | VIP Locksmith Services in London: Premium Security Solutions for Homes and Businesses | N1locksmithsltd | [Read More](https://medium.com/p/fd511d8c6a2b) |
-| Thu, 19 Mar 2026 09:21:42 GMT | Best Practices and Strategies for Data Security Management: | HawkShield | [Read More](https://medium.com/p/5d6913962131) |
-| Thu, 19 Mar 2026 09:21:05 GMT | Detecting AD Lateral Movement Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/2f4eac37ef9a) |
-| Thu, 19 Mar 2026 09:19:07 GMT | Batch Processing for Setting IE Homepage, Trusted Security Zones, Compatibility View, and… | Excalibra | [Read More](https://medium.com/p/b3c016ae7c51) |
-| Thu, 19 Mar 2026 09:14:49 GMT | Ploutus Malware: Uptick in ATM jackpotting incidents prompts FBI warning | Aenosh Rajora | [Read More](https://medium.com/p/554a944847b6) |
