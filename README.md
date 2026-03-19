@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Mar 2026 11:29:09 GMT | The Impact of Cyber Threats on Software Systems and the Risks of Late Bug Detection | Kenan Bagirov | [Read More](https://medium.com/p/691a52fa66fb) |
+| Thu, 19 Mar 2026 11:28:45 GMT | Don’t Let AI Replace You — Let It Promote You | Aakriti | [Read More](https://medium.com/p/8805c5563a76) |
+| Thu, 19 Mar 2026 11:28:24 GMT | The Real Reason Meta Is Killing Encrypted DMs on Instagram | Shreya Mehta | [Read More](https://medium.com/p/82c4e797d492) |
+| Thu, 19 Mar 2026 11:20:26 GMT | — The “Linguistic” Kill Chain: Why AI Agents Are the New Zero-Trust Frontier | Kapil | [Read More](https://medium.com/p/37b528f8334b) |
+| Thu, 19 Mar 2026 11:11:04 GMT | Explicando el stack, el heap y sus overflows | x02sec | [Read More](https://medium.com/p/7709e41d3620) |
+| Thu, 19 Mar 2026 11:10:06 GMT | OpenClaw Phishing Scam: Fake $5K Airdrop Targets GitHub Crypto Developers | Casi Borg | [Read More](https://medium.com/p/5a429eb3085e) |
+| Thu, 19 Mar 2026 11:06:45 GMT | GRE(Generic Routing Encapsulation) | Selcuktufan | [Read More](https://medium.com/p/69325057b863) |
+| Thu, 19 Mar 2026 11:02:41 GMT | The day Daniel discovered his QR code could think for itself | Lynklens | [Read More](https://medium.com/p/e94881be9e05) |
+| Thu, 19 Mar 2026 11:01:01 GMT | CTF Basics: Understanding JSON Web Tokens (JWTs) | Walter Moar | [Read More](https://medium.com/p/0e05133a6eb3) |
+| Thu, 19 Mar 2026 10:55:50 GMT | Web Application Bug Hunting — XSS, Information Disclosure & Injection | Solankishubham | [Read More](https://medium.com/p/ddd973207fd2) |
+| Thu, 19 Mar 2026 10:54:51 GMT | Stop Calling Prompt Injection a Vulnerability. You’re Wrong. | IdeaGlider | [Read More](https://medium.com/p/fb3abe2aabd3) |
+| Thu, 19 Mar 2026 10:54:06 GMT | How to do Delegation Attacks on Active Directory. | Zoroya | [Read More](https://medium.com/p/a198271aa9ce) |
+| Thu, 19 Mar 2026 10:49:25 GMT | AI is Breaking Bug Bounties: Why 2026 Will Be Absolute Chaos | IdeaGlider | [Read More](https://medium.com/p/3d6154f2cb60) |
+| Thu, 19 Mar 2026 10:48:27 GMT | Chaining CSRF with HTML Injection to Deliver Malicious Links via Trusted Feedback Emails | abhishek sutar | [Read More](https://medium.com/p/33168993d031) |
+| Thu, 19 Mar 2026 10:37:32 GMT | Where Vulnerability Meets Fear | Chetana | [Read More](https://medium.com/p/6eac25b87924) |
+| Thu, 19 Mar 2026 10:35:37 GMT | CVE-2026–33017: How I Found an Unauthenticated RCE in Langflow by Reading the Code They Already… | Aviral Srivastava | [Read More](https://medium.com/p/dc96cdce5896) |
 | Thu, 19 Mar 2026 10:31:00 GMT | 安全的龍蝦來了嗎？ NVIDIA NemoClaw 實測 | JH5 | [Read More](https://medium.com/p/5f484917a700) |
 | Thu, 19 Mar 2026 10:25:22 GMT | DIGITAL TRUST, CYBERSECURITY AND ECONOMIC GROWTH | John Perera | [Read More](https://medium.com/p/ea7ab9443b9c) |
 | Thu, 19 Mar 2026 10:18:01 GMT | Mastering Access Control Vulnerabilities — Practical Exploitation Guide (PortSwigger Labs) | Sharon | [Read More](https://medium.com/p/e40df380a510) |
@@ -99,19 +115,3 @@ Know What It Did. | abluva-research | [Read More](https://medium.com/p/552534f2b
 | Thu, 19 Mar 2026 05:54:14 GMT | Understanding AWS internet gateway-how cloud networks connect to the internet | unica 02 | [Read More](https://medium.com/p/d6a16f2d097f) |
 | Thu, 19 Mar 2026 05:52:45 GMT | A Comprehensive Guide to Threat Modeling | Atharva Deshmukh | [Read More](https://medium.com/p/362d3188ddfa) |
 | Thu, 19 Mar 2026 05:51:21 GMT | The OSI Model: Understanding Network Layers for Better Cybersecurity | Ferdi Edogawa | [Read More](https://medium.com/p/9a1c67b195d2) |
-| Thu, 19 Mar 2026 05:44:41 GMT | Route Optimization Algorithms in Modern Logistics Software Development | Bhoomi Ahuja | [Read More](https://medium.com/p/61b67e117568) |
-| Thu, 19 Mar 2026 05:35:44 GMT | Mobile Application Security: Preserving User Information and Privacy | Mathionix Technologies | [Read More](https://medium.com/p/cdacf3d9d248) |
-| Thu, 19 Mar 2026 05:32:57 GMT | Food Store — SQL Injection Challenge | Anwer | [Read More](https://medium.com/p/7bec9951a3a8) |
-| Thu, 19 Mar 2026 05:31:15 GMT | Guarding the Digital Gates: Is Your Campus Data Truly Secure? | ScAcademic | [Read More](https://medium.com/p/53055da8df77) |
-| Thu, 19 Mar 2026 05:31:00 GMT | I Tested Shannon, AI Pentester by Keygraph on a Vulnerable Node.js App — Here’s What I Found | Shruti Pokale | [Read More](https://medium.com/p/15d80ee6dab8) |
-| Thu, 19 Mar 2026 05:27:34 GMT | Top Notch Cyber Security Course In Kerala | Vishnu U | [Read More](https://medium.com/p/ce80d22f1908) |
-| Thu, 19 Mar 2026 05:24:05 GMT | Learning Palo Alto Firewall — LESSON 1: First Bootup (Initial Setup) | Rouell Mamaril | [Read More](https://medium.com/p/cbc3b76ab44d) |
-| Thu, 19 Mar 2026 05:21:59 GMT | HCDC Technofair 2026: The Shift That Aged Well | Jeo Carlo Lubao | [Read More](https://medium.com/p/b99c1300166f) |
-| Thu, 19 Mar 2026 05:16:24 GMT | Why Your Presale Telegram Community Will Get Attacked Before TGE — And What Actually Stops It | Bershtech | [Read More](https://medium.com/p/94c05852a34b) |
-| Thu, 19 Mar 2026 05:16:23 GMT | Devops | Tharmaradnamsansayan | [Read More](https://medium.com/p/59d740d7667d) |
-| Thu, 19 Mar 2026 05:12:15 GMT | Where Art Starts | Nira | [Read More](https://medium.com/p/c91bf6483a9e) |
-| Thu, 19 Mar 2026 05:10:20 GMT | Blackhole: a mock server with ground truth for testing black-box scanners | Sergey Gordeychik | [Read More](https://medium.com/p/5854a017a06c) |
-| Thu, 19 Mar 2026 05:08:40 GMT | Home Security Without Ownership: Why Renters No Longer Have to Compromise | Marcus Bennett | [Read More](https://medium.com/p/fa6316b6660f) |
-| Thu, 19 Mar 2026 05:05:59 GMT | Learning Palo Alto Firewall — Introduction and Important Notes | Rouell Mamaril | [Read More](https://medium.com/p/ffd3d4fa398a) |
-| Thu, 19 Mar 2026 04:59:08 GMT | IOT Connect — Android Broadcast Receiver Challenge | Anwer | [Read More](https://medium.com/p/62cb0c1af17e) |
-| Thu, 19 Mar 2026 04:57:10 GMT | OffSec Proving Grounds — Potato | Roshan Rajbanshi | [Read More](https://medium.com/p/b080d38b4bed) |
