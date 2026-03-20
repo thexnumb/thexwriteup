@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 19:01:07 GMT | Hackviser Write-up [EN-TR] — Stored XSS Vulnerability via Image Upload-Induced | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/0904a3eabb9d) |
+| Fri, 20 Mar 2026 18:57:01 GMT | How Active Directory Misconfigurations Lead to Major Cyber Breaches | Gloria Asuquo | [Read More](https://medium.com/p/7e0ab3acb591) |
+| Fri, 20 Mar 2026 18:49:19 GMT | THM - Dev Diaries | Francesco Pastore | [Read More](https://medium.com/p/6fd2f3a3f2fd) |
+| Fri, 20 Mar 2026 18:46:55 GMT | The Biggest Flex in Cybersecurity? Building Systems That Survive Attacks | Murari Pothuru | [Read More](https://medium.com/p/973cd84c191a) |
+| Fri, 20 Mar 2026 18:43:34 GMT | DarkSword iOS Attack | SOCFortress | [Read More](https://medium.com/p/698b642cf80b) |
+| Fri, 20 Mar 2026 18:40:51 GMT | quiet00 — RamadanCTF 2026 (OSINT) | Hamzeh Alawneh | [Read More](https://medium.com/p/eaa95581df79) |
+| Fri, 20 Mar 2026 18:40:09 GMT | HTB:Certified - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/cd59e0c7a16d) |
+| Fri, 20 Mar 2026 18:36:00 GMT | AI Isn’t Magic — It’s a Skill You Need to Lead (and Defend) in 2026 | Leila Alves | [Read More](https://medium.com/p/c59bfaf988fb) |
+| Fri, 20 Mar 2026 18:33:10 GMT | Why I Built My Own Red Team Payload Obfuscator (And How It Works Under the Hood) | Ilias Georgopoulos | [Read More](https://medium.com/p/d004b19dffd4) |
+| Fri, 20 Mar 2026 18:32:41 GMT | The Cloud Security Blind Spot Isn’t People. | ChennaRao Vemula | [Read More](https://medium.com/p/50fd93143e14) |
+| Fri, 20 Mar 2026 18:32:28 GMT | LexVerify: The AI Watchdog for Authenticity in a Digital Age | Crypto_Wildman | [Read More](https://medium.com/p/08f730178a88) |
+| Fri, 20 Mar 2026 18:26:38 GMT | Post 1 — Is Cyber Threat Intelligence Still Relevant in a Post‑Quantum World? | Leonard Okyere Afeke | [Read More](https://medium.com/p/7ac0095425bb) |
+| Fri, 20 Mar 2026 18:21:02 GMT | Agent T from TryHackMe platform | Tubelight | [Read More](https://medium.com/p/403bc3964709) |
+| Fri, 20 Mar 2026 18:17:58 GMT | Server-Side Request Forgery (SSRF) - When Attackers Use Your Own Server as Their Personal Messenger | Rufus Kehinde | [Read More](https://medium.com/p/3a27b2259b9e) |
+| Fri, 20 Mar 2026 18:12:31 GMT | Hospital Cyberattacks Are No Longer Just an IT Problem — They’re a Patient Safety Crisis | Nazib Khan | [Read More](https://medium.com/p/b83d11a8d409) |
+| Fri, 20 Mar 2026 18:11:59 GMT | Beyond the Basics: A DevOps Expert’s Guide to Advanced Dockerfiles | Pratap Patil | [Read More](https://medium.com/p/133799ca669b) |
+| Fri, 20 Mar 2026 18:05:14 GMT | Is Wireless Access Control Secure? Addressing Common Security Concerns | Joven A Rodrigues | [Read More](https://medium.com/p/3dda553d8bf6) |
+| Fri, 20 Mar 2026 18:01:38 GMT | Simple CTF Writeup—THM Rooms | Ahmed Eldkrory | [Read More](https://medium.com/p/39355900e50a) |
 | Fri, 20 Mar 2026 17:56:01 GMT | Iftar Pie — Ramadan CTF 2026 (MISC) | Hamzeh Alawneh | [Read More](https://medium.com/p/b8b5fd16d24e) |
 | Fri, 20 Mar 2026 17:53:57 GMT | The Next Billion-Dollar Breach Will Come From CI/CD | Yua Mikanana | [Read More](https://medium.com/p/381d5c2a3926) |
 | Fri, 20 Mar 2026 17:45:03 GMT | How a naive compliment became a professional lesson in cybersecurity. | Adebayo Muhammad | [Read More](https://medium.com/p/08b40b67b4df) |
@@ -95,23 +113,3 @@ The DeFi landscape is vast and complex, with hundreds of… | Mercybesthairs | [
 | Fri, 20 Mar 2026 12:39:38 GMT | PENTINGNYA KEAMANAN INFORMASI | Krisdek | [Read More](https://medium.com/p/700b59838fd9) |
 | Fri, 20 Mar 2026 12:36:46 GMT | GraphQL Security Architecture: AST-Level Defense, Resolver Isolation, and Cost Analysis | Emir Kızılarslan | [Read More](https://medium.com/p/ae62a56f2516) |
 | Fri, 20 Mar 2026 12:36:06 GMT | The Day Your iPhone Became a Target: Inside the “DarkSword” Spyware Threat | Sharanraju | [Read More](https://medium.com/p/7686b52c881c) |
-| Fri, 20 Mar 2026 12:33:49 GMT | VAPT Certification in Turkey — Strengthen Your Cybersecurity Today | CertValue | [Read More](https://medium.com/p/c368f7edfe36) |
-| Fri, 20 Mar 2026 12:30:59 GMT | RAPPORTO FORENSE UFFICIALE
-N° RAE-2026-UAP-ORB-003
-ANALISI FORENSE UAP | Giuseppe Sante Iurescia | [Read More](https://medium.com/p/993caa6d421d) |
-| Fri, 20 Mar 2026 12:29:51 GMT | Job-Oriented IT Courses in Mumbai | Ntech Global Solutions | [Read More](https://medium.com/p/7b46750b887e) |
-| Fri, 20 Mar 2026 12:29:03 GMT | Cara Instal Parrot OS 7.1 (Security Edition) | Fixploit03 | [Read More](https://medium.com/p/181d2edb7325) |
-| Fri, 20 Mar 2026 12:26:53 GMT | Top AI E-Wallet App Development Companies in 2026 (Features, Cost & Guide) | Shivam Sharma | [Read More](https://medium.com/p/16b878650902) |
-| Fri, 20 Mar 2026 12:26:37 GMT | picoCTF challange : Hidden Cipher 1 | Orbitz | [Read More](https://medium.com/p/d27adefcff67) |
-| Fri, 20 Mar 2026 12:24:13 GMT | Dev Diaries - TryHackMe - OSINT | Jose Praveen | [Read More](https://medium.com/p/0d8a8e1fb157) |
-| Fri, 20 Mar 2026 12:22:39 GMT | GraphQL Vulnerability Analysis: Schema Misconfigurations, Resolver Abuse, and Backend Injections | Emir Kızılarslan | [Read More](https://medium.com/p/3eac34cacce9) |
-| Fri, 20 Mar 2026 12:15:05 GMT | Why Hands On Practice Is The Only Way To Master Cybersecurity | Alex Carter | [Read More](https://medium.com/p/4bff8136e500) |
-| Fri, 20 Mar 2026 12:10:53 GMT | Kubernetes Security & Access: A Deep Dive | Hristo Stoychev | [Read More](https://medium.com/p/d85cc1525b3b) |
-| Fri, 20 Mar 2026 12:07:45 GMT | MCP Security Is Becoming the Weakest Link in Enterprise AI Agent Architectures | AGAT Software | [Read More](https://medium.com/p/6423053ba73f) |
-| Fri, 20 Mar 2026 12:05:03 GMT | Asset Recovery & Cybersecurity Support in 2026: How to Trace and Protect Your Digital Assets | Andrew Tiedt | [Read More](https://medium.com/p/8cb4a1b34109) |
-| Fri, 20 Mar 2026 12:01:11 GMT | Cyber Range Training for Students: From Beginner to Pro | cyber security Updates | [Read More](https://medium.com/p/03130afc2a88) |
-| Fri, 20 Mar 2026 11:44:04 GMT | #Searchlight OSINT Writeup | Sahithya G15-CS | [Read More](https://medium.com/p/d8cc88e7e783) |
-| Fri, 20 Mar 2026 11:36:52 GMT | Top Recon Techniques That Still Work in 2026 (Bug Bounty) | Deepanshu Deep | [Read More](https://medium.com/p/27ee19c108ca) |
-| Fri, 20 Mar 2026 11:27:30 GMT | Security Requirements Are Not Assurance: The Missing SSE Function on Large Projects | Peter Hillier/Halton | [Read More](https://medium.com/p/391366e85138) |
-| Fri, 20 Mar 2026 11:25:48 GMT | AI Agents Are The New Ad Network (And You Didn’t Consent) | Learn With Hatty | [Read More](https://medium.com/p/cf1bbdc204f1) |
-| Fri, 20 Mar 2026 11:22:39 GMT | Best Cloud Infrastructure Management Services in India | Jameswilliamservices | [Read More](https://medium.com/p/de2f981e9795) |
