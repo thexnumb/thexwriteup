@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 22:19:10 GMT | Sosyal Mühendislik Saldırıları Nasıl Çalışır? | Ali Yaşe | [Read More](https://medium.com/p/078e3acb8fe8) |
+| Fri, 20 Mar 2026 22:16:23 GMT | Stop Pasting Production Logs into ChatGPT. Meet LogDoctor | Shivam Shashank | [Read More](https://medium.com/p/4281624782d2) |
+| Fri, 20 Mar 2026 22:15:15 GMT | My Idea of an Improved Insurance Industry: AI Driven Pre-Adjuster Systems | Korewa | [Read More](https://medium.com/p/a6e7065cc1a4) |
+| Fri, 20 Mar 2026 22:04:46 GMT | Why Standard Zero-Trust Frameworks Fail for Agentic AI Systems | Operate AI | [Read More](https://medium.com/p/b98348f89f35) |
+| Fri, 20 Mar 2026 21:52:15 GMT | What Does Your AI Know About You? | Julie Russell | [Read More](https://medium.com/p/0dbcffa652c3) |
+| Fri, 20 Mar 2026 21:45:02 GMT | TryHackMe Writeup: WhyHackMe | Berkay AĞGÜL | [Read More](https://medium.com/p/299ea4f94220) |
+| Fri, 20 Mar 2026 21:41:00 GMT | Deterministic Network Halt: How a Nil Pointer in BSC Geth Can Stop a Blockchain | rdin777 | [Read More](https://medium.com/p/270db509b502) |
+| Fri, 20 Mar 2026 21:39:07 GMT | A Unified Approach to System Identity and System Ascendancy | Mi'kail Eli'yah | [Read More](https://medium.com/p/bf78a62795c8) |
+| Fri, 20 Mar 2026 21:35:09 GMT | Clone Cards in the UK: How to Spot the Signs and Protect Your Finances in 2026 | Buy Clone Cards | [Read More](https://medium.com/p/627ee4dd407a) |
+| Fri, 20 Mar 2026 21:33:26 GMT | picoCTF 2025 Walkthrough: Event-Viewing (Forensics) | Sriman kundu | [Read More](https://medium.com/p/48d542af4b8a) |
+| Fri, 20 Mar 2026 21:33:18 GMT | How I Built an Offline Cryptographic Evidence Vault (Open Source) | Chethan Vasthaw Tippani | [Read More](https://medium.com/p/781342829021) |
+| Fri, 20 Mar 2026 21:32:26 GMT | Is Linux truly secure? Or is it just a stereotype? | Codersilicon | [Read More](https://medium.com/p/597326da963d) |
 | Fri, 20 Mar 2026 21:16:54 GMT | Transcending the Shadow Conduit: The Critical Vulnerabilities of Remote Desktop Software and Legacy… | Aymaneelyamani | [Read More](https://medium.com/p/22be887f341c) |
 | Fri, 20 Mar 2026 21:14:10 GMT | What Your .NET Exceptions Are Telling Attackers (And How to Stop It) | Adrian Bailador | [Read More](https://medium.com/p/8718f74f0926) |
 | Fri, 20 Mar 2026 21:07:09 GMT | Blind SQL Injection in Yahoo! | ab.infosec | [Read More](https://medium.com/p/93c40b43a8af) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 15:03:09 GMT | Next.js proxy.ts Auth: Migration Guide | SecureStartKit | [Read More](https://medium.com/p/ff7489ec8735) |
 | Fri, 20 Mar 2026 15:01:03 GMT | How I Discover what Developers Forgot to Secure(Bug Bounty) | Deepanshu Deep | [Read More](https://medium.com/p/cce0468031aa) |
 | Fri, 20 Mar 2026 14:59:01 GMT | Part 6 - The Human Factor: Why Zero-Persistence Makes Insider Threats Structurally Impossible | PhantomKey Technologies | [Read More](https://medium.com/p/7b187121792d) |
-| Fri, 20 Mar 2026 14:53:14 GMT | RAG Systems Are Powerful — But Are They Secure? | Nitish Gupta | [Read More](https://medium.com/p/40d2be86a73c) |
-| Fri, 20 Mar 2026 14:51:00 GMT | eJPT v2 : Challenge Lab 31: Wonderland CTF | Dhanushkumar R | [Read More](https://medium.com/p/5569814a5e66) |
-| Fri, 20 Mar 2026 14:48:02 GMT | The OSINT Toolkit: A Definitive Resource Hub for Digital Investigators | Frhn.Isml | [Read More](https://medium.com/p/d57014604efa) |
-| Fri, 20 Mar 2026 14:46:40 GMT | We Got Used to Losing Ourselves | Len Noe | [Read More](https://medium.com/p/e4e7c32adb97) |
-| Fri, 20 Mar 2026 14:40:41 GMT | If I Were an Attacker: Breaking a Login System | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/49c59770cdc1) |
-| Fri, 20 Mar 2026 14:36:52 GMT | osaka walkthrough (proving ground windows) | cyber_public_school | [Read More](https://medium.com/p/71a72ffea5f7) |
-| Fri, 20 Mar 2026 14:33:01 GMT | Anomalous Unencrypted Credential Over HTTP | Vonte Sewell | [Read More](https://medium.com/p/b8f5223c6ad5) |
-| Fri, 20 Mar 2026 14:25:18 GMT | Math.random() is not so random here’s why | VedantShinde | [Read More](https://medium.com/p/0f9497227acb) |
-| Fri, 20 Mar 2026 14:21:50 GMT | Request Signing in iOS: From HMAC to Secure Enclave (A Practical Guide) | Lakshaya Sachdeva | [Read More](https://medium.com/p/0021efbf8b69) |
-| Fri, 20 Mar 2026 14:21:00 GMT | Finding a Locksmith in Stamford, CT - Sure Lock & Key | Sure Lock & Key LLC | [Read More](https://medium.com/p/2d57824f1437) |
-| Fri, 20 Mar 2026 14:19:42 GMT | picoCTF 2026 — Web Exploitation Write-Up | Enes Bayraker | [Read More](https://medium.com/p/76d1dd0406b9) |
-| Fri, 20 Mar 2026 14:19:20 GMT | (Cybersecurity Lab) Authenticator Apps: How They Work and What Students Need to Know for Security+. | Josh Beck | [Read More](https://medium.com/p/ee30277b5495) |
