@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 05:29:39 GMT | Writeup VulnShop — Vulnerable E-Commerce API Penetration Testing Lab | Easpy | [Read More](https://medium.com/p/f71ce845af74) |
+| Fri, 20 Mar 2026 05:26:27 GMT | WorldView Is Not Intelligence. It Is a Dashboard | Sujal Meghwal | [Read More](https://medium.com/p/94bcff910c10) |
+| Fri, 20 Mar 2026 05:21:00 GMT | Best Practices for Securing Oracle APEX Applications | Malek M.Edresi | [Read More](https://medium.com/p/8a35bd0374aa) |
+| Fri, 20 Mar 2026 05:14:46 GMT | How are modern symmetric ciphers secure against quantum algorithms? | Gokul B Alex | [Read More](https://medium.com/p/4839664b6630) |
+| Fri, 20 Mar 2026 05:06:46 GMT | NTLM Is Dead. Your Password Hash Isn’t: Abusing SamrSetInformationUser in Active Directory | A Belous | [Read More](https://medium.com/p/8de03eea29cf) |
+| Fri, 20 Mar 2026 05:03:14 GMT | Implementing the “Atomic Control” — A Beginner-Friendly AppLocker Lab | Harshit Chiwande | [Read More](https://medium.com/p/633de3d88d7b) |
+| Fri, 20 Mar 2026 04:54:55 GMT | From Days to Hours: How GenAI Transformed My Approach to Secure System Integrations | Dineshchandgr - A Top writer in Technology | [Read More](https://medium.com/p/c80942edd60c) |
+| Fri, 20 Mar 2026 04:54:18 GMT | The Biggest Hacks in History — And the Doors They Left Open | Kavyangahathurusinghe | [Read More](https://medium.com/p/368e83151c16) |
+| Fri, 20 Mar 2026 04:51:16 GMT | How to Download and Install VeraCrypt on Windows, Linux, and macOS | Sam Writes Security | [Read More](https://medium.com/p/a648d6643c60) |
+| Fri, 20 Mar 2026 04:35:31 GMT | Cloud, Kubernetes, and CI/CD Best Practices: Secrets Management for Cloud-Native Systems (Part 2) | Silversky Technology | [Read More](https://medium.com/p/2e3860f64dc8) |
+| Fri, 20 Mar 2026 04:35:25 GMT | VeraCrypt Explained: A Complete Beginner’s Guide to Encrypting Your Files and Drives | Sam Writes Security | [Read More](https://medium.com/p/5fd47ed51200) |
+| Fri, 20 Mar 2026 04:34:26 GMT | What is a Man-in-the-middle(MITM) Attack? Networking — Day 12 | 0xSmit | [Read More](https://medium.com/p/7e0d07e51fb6) |
+| Fri, 20 Mar 2026 04:25:56 GMT | [Opinion] Why Gender-Responsive Climate Change Matters | Bridge The Gap Cambodia | [Read More](https://medium.com/p/519baf4196fb) |
 | Fri, 20 Mar 2026 04:20:31 GMT | Most Alerts Are Noise—How SOC Analysts Turn Signals into Real Threats | Dipan | [Read More](https://medium.com/p/1be6bce62421) |
 | Fri, 20 Mar 2026 04:14:53 GMT | The Reality of Breaking Into Cyber Security | Fady Azzi | [Read More](https://medium.com/p/6e5adb2a949f) |
 | Fri, 20 Mar 2026 04:06:10 GMT | SV IT Global Solutions Bangalore | Gayathri Mk | [Read More](https://medium.com/p/172a67ac2102) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Mar 2026 19:09:30 GMT | Social Media, Identity, and Control: Why Privacy-Focused Platforms Are Becoming Essential | Decentr | [Read More](https://medium.com/p/6c5f40360157) |
 | Thu, 19 Mar 2026 19:09:00 GMT | DAST on Any Infrastructure: Open Source Dynamic Scanning with a Reproducible Test Environment | Marshall Humble | [Read More](https://medium.com/p/482a9972d1a8) |
 | Thu, 19 Mar 2026 19:08:33 GMT | Assessment Methodologies: Enumeration CTF 1 (2026) | Vanshaj Kumar | [Read More](https://medium.com/p/bbfa4e5b2556) |
-| Thu, 19 Mar 2026 19:07:57 GMT | Writing Semgrep Rules That Actually Matter | Marshall Humble | [Read More](https://medium.com/p/2ef5951e3787) |
-| Thu, 19 Mar 2026 18:52:22 GMT | SQL Injection: The Cause, Attack Types & The Fixes | Cbrnex | [Read More](https://medium.com/p/39bddb75ef39) |
-| Thu, 19 Mar 2026 18:48:42 GMT | การผสาน Secure SDLC เข้าไปใน Application Lifecycle Management สำหรับ Microsoft Power Platform | Worawit St | [Read More](https://medium.com/p/b24516f7f719) |
-| Thu, 19 Mar 2026 18:45:02 GMT | Anton’s Security Blog Quarterly Q1 2026 | Anton Chuvakin | [Read More](https://medium.com/p/fc5a1127660d) |
-| Thu, 19 Mar 2026 18:42:37 GMT | I didn’t set out to build a new identity layer for the world—I set out to solve a smaller problem… | B. L. Frost  {^}_Protocol_One | [Read More](https://medium.com/p/51125a36e371) |
-| Thu, 19 Mar 2026 18:39:21 GMT | AI Agents: AthenaGPT and AresGPT Red Team Handbook UFMCS into Action | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/5591b3135bc3) |
-| Thu, 19 Mar 2026 18:36:21 GMT | Mass Assignment - When Your API Lets Users Write Their Own Permission Slip | Rufus Kehinde | [Read More](https://medium.com/p/93c14368c606) |
-| Thu, 19 Mar 2026 18:31:21 GMT | OWASP Top 10 for LLM Applications 2025: Testing Local Models Against Real Attack Scenarios — Part I | SOCFortress | [Read More](https://medium.com/p/76a8606b359a) |
-| Thu, 19 Mar 2026 18:23:57 GMT | The Language Gap Is Costing Building Owners Money | Building Security Services | [Read More](https://medium.com/p/262e80d5ed3e) |
-| Thu, 19 Mar 2026 18:14:14 GMT | Why Hardening Endpoints Matter More Than Ever During a War with Iran | Travis Ray Caverhill | [Read More](https://medium.com/p/eb4ab5064742) |
-| Thu, 19 Mar 2026 18:14:09 GMT | You Can Be the Prettiest Shade of Green | Papered Soul | [Read More](https://medium.com/p/1dc988a930ca) |
-| Thu, 19 Mar 2026 18:13:05 GMT | I’ve Watched Physical Security Go From a Line Item to a Board-Level Conversation | Building Security Services | [Read More](https://medium.com/p/700eb8c2c5ea) |
-| Thu, 19 Mar 2026 18:12:16 GMT | Passkey Nedir?(Şifrelerin Sonu mu Geliyor?) | Ali Yaşe | [Read More](https://medium.com/p/b0a639afd826) |
