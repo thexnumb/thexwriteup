@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 16:01:02 GMT | Spring is here. Easter is coming. Experiences are 30% off. | VidhyodayTrips | [Read More](https://medium.com/p/35cebfb158e8) |
+| Fri, 20 Mar 2026 15:45:27 GMT | Why Food Prices Change | Sumedha | [Read More](https://medium.com/p/a82c7b1e258f) |
+| Fri, 20 Mar 2026 15:35:54 GMT | DarkSword: The iPhone Spyware That Steals Everything in Seconds — And You’d Never Know | Hassanimtiaz | [Read More](https://medium.com/p/1e4b38fbe334) |
+| Fri, 20 Mar 2026 15:33:01 GMT | The Password Mistakes That Get Most People Hacked | Mukhtarabdul | [Read More](https://medium.com/p/600828215073) |
+| Fri, 20 Mar 2026 15:23:12 GMT | What To Do In The 10 Minutes After You Click a Phishing Link | Mukhtarabdul | [Read More](https://medium.com/p/ff9933b4c3a3) |
+| Fri, 20 Mar 2026 15:09:09 GMT | Alternate Data Streams (ADS): A Hands-On Guide to Hidden Data & Stealth Execution | Jagadishtripathy | [Read More](https://medium.com/p/96f6f75aa16f) |
+| Fri, 20 Mar 2026 15:07:22 GMT | Hacking, VM, Linux and Networking Introduction | Ajaydev | [Read More](https://medium.com/p/9dda650835ad) |
+| Fri, 20 Mar 2026 15:04:27 GMT | The Role of Firewalls, VPNs & IDS: Essential Tools for Network Protection | Andres Quintero | [Read More](https://medium.com/p/d05c4ce5efde) |
+| Fri, 20 Mar 2026 15:03:09 GMT | Next.js proxy.ts Auth: Migration Guide | SecureStartKit | [Read More](https://medium.com/p/ff7489ec8735) |
 | Fri, 20 Mar 2026 15:01:03 GMT | How I Discover what Developers Forgot to Secure(Bug Bounty) | Deepanshu Deep | [Read More](https://medium.com/p/cce0468031aa) |
+| Fri, 20 Mar 2026 14:59:01 GMT | Part 6 - The Human Factor: Why Zero-Persistence Makes Insider Threats Structurally Impossible | PhantomKey Technologies | [Read More](https://medium.com/p/7b187121792d) |
 | Fri, 20 Mar 2026 14:53:14 GMT | RAG Systems Are Powerful — But Are They Secure? | Nitish Gupta | [Read More](https://medium.com/p/40d2be86a73c) |
 | Fri, 20 Mar 2026 14:51:00 GMT | eJPT v2 : Challenge Lab 31: Wonderland CTF | Dhanushkumar R | [Read More](https://medium.com/p/5569814a5e66) |
 | Fri, 20 Mar 2026 14:48:02 GMT | The OSINT Toolkit: A Definitive Resource Hub for Digital Investigators | Frhn.Isml | [Read More](https://medium.com/p/d57014604efa) |
@@ -105,13 +115,3 @@ ANALISI FORENSE UAP | Giuseppe Sante Iurescia | [Read More](https://medium.com/p
 | Fri, 20 Mar 2026 09:22:23 GMT | Why the 2026 ACM Turing Award for Quantum Cryptography Is a Milestone for Post‑Quantum Security | Shreya Palase | [Read More](https://medium.com/p/a381875d944e) |
 | Fri, 20 Mar 2026 09:21:27 GMT | Roadmap to Cybersecurity for Beginners | Sredivyaa | [Read More](https://medium.com/p/2fd4be01a2a6) |
 | Fri, 20 Mar 2026 09:20:51 GMT | Threat Intelligence is Useless Without Context | Paritosh | [Read More](https://medium.com/p/e8a2db889965) |
-| Fri, 20 Mar 2026 09:14:44 GMT | Opening the can of AI-generated worms — tech and geek news | Chris Chinchilla | [Read More](https://medium.com/p/729402eea364) |
-| Fri, 20 Mar 2026 09:13:24 GMT | GeoEvident | Tasha AI DIR | [Read More](https://medium.com/p/add92956b84c) |
-| Fri, 20 Mar 2026 09:11:22 GMT | Cybersecurity Best Practices: My Real-Life Daily Routine That Keeps Me Safe in 2026 | Noah Sullivan | [Read More](https://medium.com/p/d44ff9fb489a) |
-| Fri, 20 Mar 2026 09:10:32 GMT | The Industrialisation of Ransomware: How UK Mid-Sized Firms Can Reduce Impact and Recover Faster… | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/85b8facdf879) |
-| Fri, 20 Mar 2026 09:06:45 GMT | The Future of Pentesting: Burp Suite + Cursor AI | Shivanisoni | [Read More](https://medium.com/p/b70205ddd4c7) |
-| Fri, 20 Mar 2026 09:05:50 GMT | ⚠️ Compression Side-Channel Attacks | ghostyjoe | [Read More](https://medium.com/p/0809f5caa001) |
-| Fri, 20 Mar 2026 09:05:24 GMT | Cybersecurity Essentials — Start Learning for Free Today! | Cyberabhisharma | [Read More](https://medium.com/p/73b2d5ec72ad) |
-| Fri, 20 Mar 2026 09:04:32 GMT | Securing Azure Storage with Private Endpoints: A Hands-On Cloud Security Lab | Amal Udayanga Basnayake | [Read More](https://medium.com/p/0807397610f8) |
-| Fri, 20 Mar 2026 08:54:28 GMT | Your DNS Might Still Lying to You — And Most Organizations Are Fine With That” | Pankaj negi | [Read More](https://medium.com/p/ceeca5d07920) |
-| Fri, 20 Mar 2026 08:42:42 GMT | The First 15 Minutes of a Manufacturing Incident Are the Only Ones That Matter | Graylog | [Read More](https://medium.com/p/51677ee5dfc7) |
