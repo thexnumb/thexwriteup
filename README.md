@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 09:45:00 GMT | Browser Extensions: The Most Ignored Cyber Threat of 2026 | Lakshita Gulliya | [Read More](https://medium.com/p/47c9f852747a) |
+| Fri, 20 Mar 2026 09:31:00 GMT | When Being Too Good at Your Job Becomes a Replaceable Offense | Namir Sagheenanajar | [Read More](https://medium.com/p/18a46b7f69f9) |
+| Fri, 20 Mar 2026 09:26:49 GMT | These Two Terms Aren’t Interchangeable. Here’s Why It Matters | Redfox Security | [Read More](https://medium.com/p/f21359d9004d) |
+| Fri, 20 Mar 2026 09:22:23 GMT | Why the 2026 ACM Turing Award for Quantum Cryptography Is a Milestone for Post‑Quantum Security | Shreya Palase | [Read More](https://medium.com/p/a381875d944e) |
+| Fri, 20 Mar 2026 09:21:27 GMT | Roadmap to Cybersecurity for Beginners | Sredivyaa | [Read More](https://medium.com/p/2fd4be01a2a6) |
+| Fri, 20 Mar 2026 09:20:51 GMT | Threat Intelligence is Useless Without Context | Paritosh | [Read More](https://medium.com/p/e8a2db889965) |
+| Fri, 20 Mar 2026 09:14:44 GMT | Opening the can of AI-generated worms — tech and geek news | Chris Chinchilla | [Read More](https://medium.com/p/729402eea364) |
+| Fri, 20 Mar 2026 09:13:24 GMT | GeoEvident | Tasha AI DIR | [Read More](https://medium.com/p/add92956b84c) |
+| Fri, 20 Mar 2026 09:11:22 GMT | Cybersecurity Best Practices: My Real-Life Daily Routine That Keeps Me Safe in 2026 | Noah Sullivan | [Read More](https://medium.com/p/d44ff9fb489a) |
+| Fri, 20 Mar 2026 09:10:32 GMT | The Industrialisation of Ransomware: How UK Mid-Sized Firms Can Reduce Impact and Recover Faster… | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/85b8facdf879) |
+| Fri, 20 Mar 2026 09:06:45 GMT | The Future of Pentesting: Burp Suite + Cursor AI | Shivanisoni | [Read More](https://medium.com/p/b70205ddd4c7) |
+| Fri, 20 Mar 2026 09:05:50 GMT | ⚠️ Compression Side-Channel Attacks | ghostyjoe | [Read More](https://medium.com/p/0809f5caa001) |
+| Fri, 20 Mar 2026 09:05:24 GMT | Cybersecurity Essentials — Start Learning for Free Today! | Cyberabhisharma | [Read More](https://medium.com/p/73b2d5ec72ad) |
+| Fri, 20 Mar 2026 09:04:32 GMT | Securing Azure Storage with Private Endpoints: A Hands-On Cloud Security Lab | Amal Udayanga Basnayake | [Read More](https://medium.com/p/0807397610f8) |
+| Fri, 20 Mar 2026 08:54:28 GMT | Your DNS Might Still Lying to You — And Most Organizations Are Fine With That” | Pankaj negi | [Read More](https://medium.com/p/ceeca5d07920) |
+| Fri, 20 Mar 2026 08:42:42 GMT | The First 15 Minutes of a Manufacturing Incident Are the Only Ones That Matter | Graylog | [Read More](https://medium.com/p/51677ee5dfc7) |
+| Fri, 20 Mar 2026 08:41:17 GMT | We Built a Free STIX 2.1 Bundle Viewer — Here’s Why | Threat Landscape | [Read More](https://medium.com/p/8e771e09f029) |
+| Fri, 20 Mar 2026 08:40:32 GMT | Preventing Memory and Context Poisoning in AI Agents | Will Velida | [Read More](https://medium.com/p/e7b98048219a) |
 | Fri, 20 Mar 2026 08:34:34 GMT | Building and Securing a Silly Water Shop with Azure DevOps, Postman, and OWASP ZAP | Jonathan Garcia | [Read More](https://medium.com/p/4b3b67f3867b) |
 | Fri, 20 Mar 2026 08:27:09 GMT | Is Your Office Fully Locked to Stop Hacking? | Behawk Infosec | [Read More](https://medium.com/p/4c693a27eaba) |
 | Fri, 20 Mar 2026 08:25:31 GMT | Attribution Methodology: How to Build, Defend, and Challenge a Threat Actor Attribution | Andrey Pautov | [Read More](https://medium.com/p/071066437ced) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 04:06:10 GMT | SV IT Global Solutions Bangalore | Gayathri Mk | [Read More](https://medium.com/p/172a67ac2102) |
 | Fri, 20 Mar 2026 04:03:32 GMT | Ethical Hacking for Beginners — Day 2: Viruses, Malware, Cyber Attacks & Security Testing | HusnaAnjum | [Read More](https://medium.com/p/3371f3d5ec32) |
 | Fri, 20 Mar 2026 04:01:30 GMT | HTB Cicada: From Password Spraying to Token Abuse | Onurcan Genç | [Read More](https://medium.com/p/6b22f8454488) |
-| Fri, 20 Mar 2026 03:59:48 GMT | IDOR in a JWT-Protected Card Viewer API - CodeReviewLab Writeup | Zaid Arif | [Read More](https://medium.com/p/57d437a5d481) |
-| Fri, 20 Mar 2026 03:51:45 GMT | How to do DCSync Attack | Zoroya | [Read More](https://medium.com/p/524a2a794603) |
-| Fri, 20 Mar 2026 03:44:42 GMT | Deep Barot: The Rising Neural Architect Redefining Digital Strategy and AI Innovation | Deep Barot | [Read More](https://medium.com/p/85f42dd8b57f) |
-| Fri, 20 Mar 2026 03:40:10 GMT | Your AI agent just forwarded your entire inbox to a stranger. | Kaan Timucin Dönmez | [Read More](https://medium.com/p/bc0d7c82b083) |
-| Fri, 20 Mar 2026 03:27:04 GMT | How AI Is Changing Digital Trust | Aishwarya Singh | [Read More](https://medium.com/p/66df929a648e) |
-| Fri, 20 Mar 2026 03:18:37 GMT | A Smarter Way to Measure Developer Efficiency: Beyond Velocity, Beyond Gut Feeling | Virutheprince | [Read More](https://medium.com/p/8f12ea2b6966) |
-| Fri, 20 Mar 2026 03:18:31 GMT | Your Android Apps Know More About You Than You Think | Hisham Hyber | [Read More](https://medium.com/p/54df5daa7aaa) |
-| Fri, 20 Mar 2026 02:46:00 GMT | Informational Trauma and the Deficit of Consciousness | Andrei Mochola | [Read More](https://medium.com/p/98e87c02ff5f) |
-| Fri, 20 Mar 2026 02:33:41 GMT | Why Your Personal Data Is Already at Risk (And What You Can Do About It Right Now) | MrKarthikKN | [Read More](https://medium.com/p/da935029a003) |
-| Fri, 20 Mar 2026 02:32:19 GMT | Kyubi — VulnNyx Writeup -Written by Atrox | _ATROX_ | [Read More](https://medium.com/p/ab839f3b3e1c) |
-| Fri, 20 Mar 2026 02:29:08 GMT | The Ultimate Implication of AI Systems: Invariance as the Medium of Intelligence | Supat Charoensappuech | [Read More](https://medium.com/p/6673581a5144) |
-| Fri, 20 Mar 2026 02:27:56 GMT | Day 64 of Reading Cybersecurity — Keygenning & Reverse Engineering (CyberDucky ) | CyberDucky | [Read More](https://medium.com/p/96189c9f1207) |
-| Fri, 20 Mar 2026 02:07:51 GMT | How I Started Learning Performance Testing with JMeter (From Zero Experience) | Yorn Rothy | [Read More](https://medium.com/p/d3181856fcb0) |
-| Fri, 20 Mar 2026 02:06:45 GMT | THM: Expose | Murad Salem | [Read More](https://medium.com/p/96e39199d610) |
-| Fri, 20 Mar 2026 01:54:48 GMT | What Auditing a Real SME Taught Me About Cybersecurity and Compliance | Akesh Chandrasiri | [Read More](https://medium.com/p/7ef45cab0611) |
-| Fri, 20 Mar 2026 01:46:20 GMT | The “Lobster” Takeover: Why China Just Leapfrogged the US in the AI Agent Wars | Siddhesh Surve | [Read More](https://medium.com/p/f2c732ebf30c) |
-| Fri, 20 Mar 2026 01:44:45 GMT | AI-Driven Cyberattacks: How to Secure Your Code in the Age of Coding Agents | Made Adi Widyananda | [Read More](https://medium.com/p/2fa6c2d1c444) |
-| Fri, 20 Mar 2026 01:36:59 GMT | The (civilian) world at your fingertips | Kate Bandura | [Read More](https://medium.com/p/5fb19a5b35e7) |
