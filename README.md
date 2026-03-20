@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 15:01:03 GMT | How I Discover what Developers Forgot to Secure(Bug Bounty) | Deepanshu Deep | [Read More](https://medium.com/p/cce0468031aa) |
+| Fri, 20 Mar 2026 14:53:14 GMT | RAG Systems Are Powerful — But Are They Secure? | Nitish Gupta | [Read More](https://medium.com/p/40d2be86a73c) |
+| Fri, 20 Mar 2026 14:51:00 GMT | eJPT v2 : Challenge Lab 31: Wonderland CTF | Dhanushkumar R | [Read More](https://medium.com/p/5569814a5e66) |
+| Fri, 20 Mar 2026 14:48:02 GMT | The OSINT Toolkit: A Definitive Resource Hub for Digital Investigators | Frhn.Isml | [Read More](https://medium.com/p/d57014604efa) |
+| Fri, 20 Mar 2026 14:46:40 GMT | We Got Used to Losing Ourselves | Len Noe | [Read More](https://medium.com/p/e4e7c32adb97) |
+| Fri, 20 Mar 2026 14:40:41 GMT | If I Were an Attacker: Breaking a Login System | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/49c59770cdc1) |
+| Fri, 20 Mar 2026 14:36:52 GMT | osaka walkthrough (proving ground windows) | cyber_public_school | [Read More](https://medium.com/p/71a72ffea5f7) |
+| Fri, 20 Mar 2026 14:33:01 GMT | Anomalous Unencrypted Credential Over HTTP | Vonte Sewell | [Read More](https://medium.com/p/b8f5223c6ad5) |
+| Fri, 20 Mar 2026 14:25:18 GMT | Math.random() is not so random here’s why | VedantShinde | [Read More](https://medium.com/p/0f9497227acb) |
+| Fri, 20 Mar 2026 14:21:50 GMT | Request Signing in iOS: From HMAC to Secure Enclave (A Practical Guide) | Lakshaya Sachdeva | [Read More](https://medium.com/p/0021efbf8b69) |
+| Fri, 20 Mar 2026 14:21:00 GMT | Finding a Locksmith in Stamford, CT - Sure Lock & Key | Sure Lock & Key LLC | [Read More](https://medium.com/p/2d57824f1437) |
+| Fri, 20 Mar 2026 14:19:42 GMT | picoCTF 2026 — Web Exploitation Write-Up | Enes Bayraker | [Read More](https://medium.com/p/76d1dd0406b9) |
+| Fri, 20 Mar 2026 14:19:20 GMT | (Cybersecurity Lab) Authenticator Apps: How They Work and What Students Need to Know for Security+. | Josh Beck | [Read More](https://medium.com/p/ee30277b5495) |
+| Fri, 20 Mar 2026 14:18:28 GMT | Verified/Secure Boot and Encryption on Raspberry Pi 4 “from scratch” | Raphael Krauthann | [Read More](https://medium.com/p/2679ba11518e) |
 | Fri, 20 Mar 2026 14:09:44 GMT | PicoCTF 2026 Write-up: General Skills Kategorisinde 6 Soru | Enes Bayraker | [Read More](https://medium.com/p/50ecced1596e) |
 | Fri, 20 Mar 2026 14:08:53 GMT | Modern SSRF — Part 3 (EXPERT EDITION): Advanced Techniques, Real Research, GitHub Tools &… | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/a2a599946037) |
 | Fri, 20 Mar 2026 14:05:08 GMT | Top 5 Skills You Need for the Future | Blesson Charles | [Read More](https://medium.com/p/a258d0b4226f) |
@@ -101,17 +115,3 @@ ANALISI FORENSE UAP | Giuseppe Sante Iurescia | [Read More](https://medium.com/p
 | Fri, 20 Mar 2026 09:04:32 GMT | Securing Azure Storage with Private Endpoints: A Hands-On Cloud Security Lab | Amal Udayanga Basnayake | [Read More](https://medium.com/p/0807397610f8) |
 | Fri, 20 Mar 2026 08:54:28 GMT | Your DNS Might Still Lying to You — And Most Organizations Are Fine With That” | Pankaj negi | [Read More](https://medium.com/p/ceeca5d07920) |
 | Fri, 20 Mar 2026 08:42:42 GMT | The First 15 Minutes of a Manufacturing Incident Are the Only Ones That Matter | Graylog | [Read More](https://medium.com/p/51677ee5dfc7) |
-| Fri, 20 Mar 2026 08:41:17 GMT | We Built a Free STIX 2.1 Bundle Viewer — Here’s Why | Threat Landscape | [Read More](https://medium.com/p/8e771e09f029) |
-| Fri, 20 Mar 2026 08:40:32 GMT | Preventing Memory and Context Poisoning in AI Agents | Will Velida | [Read More](https://medium.com/p/e7b98048219a) |
-| Fri, 20 Mar 2026 08:34:34 GMT | Building and Securing a Silly Water Shop with Azure DevOps, Postman, and OWASP ZAP | Jonathan Garcia | [Read More](https://medium.com/p/4b3b67f3867b) |
-| Fri, 20 Mar 2026 08:27:09 GMT | Is Your Office Fully Locked to Stop Hacking? | Behawk Infosec | [Read More](https://medium.com/p/4c693a27eaba) |
-| Fri, 20 Mar 2026 08:25:31 GMT | Attribution Methodology: How to Build, Defend, and Challenge a Threat Actor Attribution | Andrey Pautov | [Read More](https://medium.com/p/071066437ced) |
-| Fri, 20 Mar 2026 08:16:55 GMT | The AI vs. CAPTCHA Arms Race: Why “Click the Bus” is Dead | Константин Клинов | [Read More](https://medium.com/p/49547af71ca9) |
-| Fri, 20 Mar 2026 08:16:48 GMT | Deep Cover in the Digital Age: Anatomy of Modern Espionage Through the Slovenian Case | Ziya Gokalp | [Read More](https://medium.com/p/c2aa2af3e45c) |
-| Fri, 20 Mar 2026 08:16:00 GMT | Negotiation Chronicles: The Case of the $9 Billion “No” | Sergio Meinardi | [Read More](https://medium.com/p/1a22cde027a3) |
-| Fri, 20 Mar 2026 08:15:28 GMT | Show HN: ClawVault — OpenClaw Security Vault for AI agents | Yejiasheng | [Read More](https://medium.com/p/cb20e91d6231) |
-| Fri, 20 Mar 2026 08:13:38 GMT | Best WAF for Startups: Why SafeLine | John Hawkins | [Read More](https://medium.com/p/adfe381b546f) |
-| Fri, 20 Mar 2026 08:11:47 GMT | “Public WiFi Isn’t Safe: Real Attacks, Case Studies & What You’re Ignoring” | Subrat Mahanta | [Read More](https://medium.com/p/e1da0451c942) |
-| Fri, 20 Mar 2026 08:09:30 GMT | AI Video Analytics Market Outlook 2026–2035 Signals Strong Industry Growth | NIkita Poplai | [Read More](https://medium.com/p/4681d86347f3) |
-| Fri, 20 Mar 2026 08:08:18 GMT | Your AI’s System Prompt Is Not a Security Layer. Here’s Proof. | François Schuers | [Read More](https://medium.com/p/904fcbeb1664) |
-| Fri, 20 Mar 2026 08:08:03 GMT | Your Google API Key Is Showing. Here’s What an Attacker Does Next | Candy Wong | [Read More](https://medium.com/p/e2f65f640521) |
