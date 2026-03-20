@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 08:34:34 GMT | Building and Securing a Silly Water Shop with Azure DevOps, Postman, and OWASP ZAP | Jonathan Garcia | [Read More](https://medium.com/p/4b3b67f3867b) |
+| Fri, 20 Mar 2026 08:27:09 GMT | Is Your Office Fully Locked to Stop Hacking? | Behawk Infosec | [Read More](https://medium.com/p/4c693a27eaba) |
+| Fri, 20 Mar 2026 08:25:31 GMT | Attribution Methodology: How to Build, Defend, and Challenge a Threat Actor Attribution | Andrey Pautov | [Read More](https://medium.com/p/071066437ced) |
+| Fri, 20 Mar 2026 08:16:55 GMT | The AI vs. CAPTCHA Arms Race: Why “Click the Bus” is Dead | Константин Клинов | [Read More](https://medium.com/p/49547af71ca9) |
+| Fri, 20 Mar 2026 08:16:48 GMT | Deep Cover in the Digital Age: Anatomy of Modern Espionage Through the Slovenian Case | Ziya Gokalp | [Read More](https://medium.com/p/c2aa2af3e45c) |
+| Fri, 20 Mar 2026 08:16:00 GMT | Negotiation Chronicles: The Case of the $9 Billion “No” | Sergio Meinardi | [Read More](https://medium.com/p/1a22cde027a3) |
+| Fri, 20 Mar 2026 08:15:28 GMT | Show HN: ClawVault — OpenClaw Security Vault for AI agents | Yejiasheng | [Read More](https://medium.com/p/cb20e91d6231) |
+| Fri, 20 Mar 2026 08:13:38 GMT | Best WAF for Startups: Why SafeLine | John Hawkins | [Read More](https://medium.com/p/adfe381b546f) |
+| Fri, 20 Mar 2026 08:11:47 GMT | “Public WiFi Isn’t Safe: Real Attacks, Case Studies & What You’re Ignoring” | Subrat Mahanta | [Read More](https://medium.com/p/e1da0451c942) |
+| Fri, 20 Mar 2026 08:09:30 GMT | AI Video Analytics Market Outlook 2026–2035 Signals Strong Industry Growth | NIkita Poplai | [Read More](https://medium.com/p/4681d86347f3) |
+| Fri, 20 Mar 2026 08:08:18 GMT | Your AI’s System Prompt Is Not a Security Layer. Here’s Proof. | François Schuers | [Read More](https://medium.com/p/904fcbeb1664) |
+| Fri, 20 Mar 2026 08:08:03 GMT | Your Google API Key Is Showing. Here’s What an Attacker Does Next | Candy Wong | [Read More](https://medium.com/p/e2f65f640521) |
 | Fri, 20 Mar 2026 07:45:54 GMT | Breaking Templates: Solving an SSTI2 Challenge (Jinja2 Exploit Walkthrough) | Hamza Sajid | [Read More](https://medium.com/p/a903e685a353) |
 | Fri, 20 Mar 2026 07:44:50 GMT | Building a Scalable Web in 2026: Solutions for Handling Growing Traffic | Ann R. | [Read More](https://medium.com/p/8622c3bc2393) |
+| Fri, 20 Mar 2026 07:44:19 GMT | Why AI-Powered Localization Is Becoming Essential for Global Businesses | karthik gokul | [Read More](https://medium.com/p/771b34aa492e) |
 | Fri, 20 Mar 2026 07:39:14 GMT | Backup and Recovery for Microsoft Entra | Brian Veldman | [Read More](https://medium.com/p/d4035d812a4c) |
 | Fri, 20 Mar 2026 07:35:55 GMT | How Certified AI Coach Training in India Can Boost Your Career | Academy - Gignaati | [Read More](https://medium.com/p/d1a7df66e822) |
 | Fri, 20 Mar 2026 07:29:45 GMT | AI in Gaming Market Size, Share - Industry Trend & Forecast 2035 | NIkita Poplai | [Read More](https://medium.com/p/a98a0697105c) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 01:46:20 GMT | The “Lobster” Takeover: Why China Just Leapfrogged the US in the AI Agent Wars | Siddhesh Surve | [Read More](https://medium.com/p/f2c732ebf30c) |
 | Fri, 20 Mar 2026 01:44:45 GMT | AI-Driven Cyberattacks: How to Secure Your Code in the Age of Coding Agents | Made Adi Widyananda | [Read More](https://medium.com/p/2fa6c2d1c444) |
 | Fri, 20 Mar 2026 01:36:59 GMT | The (civilian) world at your fingertips | Kate Bandura | [Read More](https://medium.com/p/5fb19a5b35e7) |
-| Fri, 20 Mar 2026 01:32:03 GMT | Cyber5W Certified Digital Forensic Analyst (CCDFA) — a good start for your digital forensics… | Chicken0248 | [Read More](https://medium.com/p/e3779ce15211) |
-| Fri, 20 Mar 2026 01:06:43 GMT | Agentic Threats Require Agentic Defense. | Monzy | [Read More](https://medium.com/p/21ba309f1bee) |
-| Fri, 20 Mar 2026 01:06:15 GMT | The Second Front: The War That Reaches the Mind Before the Battlefield - Shimazaki Sentinel Website | Dr. Thomas Jreige | [Read More](https://medium.com/p/f3124b9cb28b) |
-| Fri, 20 Mar 2026 00:54:22 GMT | YOUR TV IS WATCHING YOU: How Samsung Smart TVs Are Surveilling Your Living Room - And How to Stop… | Rene Fischer-Bernard | [Read More](https://medium.com/p/8fff82f085de) |
-| Fri, 20 Mar 2026 00:47:33 GMT | SANS 542 and GWAPT..Worth? | 0ber1n | [Read More](https://medium.com/p/9e240e0424a3) |
-| Fri, 20 Mar 2026 00:43:46 GMT | The Adorable Lobster in the Room: Why I’m Skipping Openclaw (For Now) | Pei的留學生活 | [Read More](https://medium.com/p/f938368c3e32) |
-| Fri, 20 Mar 2026 00:43:42 GMT | Hacking the “Republic of Valdoria”: Chaining IDOR, Cryptography Cracking, and JWT Bypass in a… | 0xPedrop | [Read More](https://medium.com/p/738cae64f572) |
-| Fri, 20 Mar 2026 00:12:21 GMT | CISO의 67%가 모르는 것 — AI가 회사 안에서 몰래 돌아가고 있다 | 이현종 | [Read More](https://medium.com/p/23d60fb40ab8) |
-| Fri, 20 Mar 2026 00:09:22 GMT | The War Did Not Create This Problem. It Just Turned On the Lights. | Michael Reichstein | [Read More](https://medium.com/p/afd564ff1193) |
-| Fri, 20 Mar 2026 00:01:01 GMT | CrimeWare + IA | Adrian Romanov | [Read More](https://medium.com/p/6f78057d8c1d) |
-| Thu, 19 Mar 2026 23:21:27 GMT | OCI IAM DB Token on Oracle ADB-S: 23 Empirical Tests Across Python, Java, SQL Developer, SQL*Plus —… | Alessandro Moccia | [Read More](https://medium.com/p/ca88a77ae298) |
-| Thu, 19 Mar 2026 23:12:09 GMT | Even Car Companies need Data Protection Impact Assessments?? | Aimee Liu | [Read More](https://medium.com/p/7e8221349093) |
-| Thu, 19 Mar 2026 23:08:53 GMT | From SOC to AI Command Center | Sales | [Read More](https://medium.com/p/f4e54b376728) |
