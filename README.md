@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 04:20:31 GMT | Most Alerts Are Noise—How SOC Analysts Turn Signals into Real Threats | Dipan | [Read More](https://medium.com/p/1be6bce62421) |
+| Fri, 20 Mar 2026 04:14:53 GMT | The Reality of Breaking Into Cyber Security | Fady Azzi | [Read More](https://medium.com/p/6e5adb2a949f) |
+| Fri, 20 Mar 2026 04:06:10 GMT | SV IT Global Solutions Bangalore | Gayathri Mk | [Read More](https://medium.com/p/172a67ac2102) |
+| Fri, 20 Mar 2026 04:03:32 GMT | Ethical Hacking for Beginners — Day 2: Viruses, Malware, Cyber Attacks & Security Testing | HusnaAnjum | [Read More](https://medium.com/p/3371f3d5ec32) |
+| Fri, 20 Mar 2026 04:01:30 GMT | HTB Cicada: From Password Spraying to Token Abuse | Onurcan Genç | [Read More](https://medium.com/p/6b22f8454488) |
+| Fri, 20 Mar 2026 03:59:48 GMT | IDOR in a JWT-Protected Card Viewer API - CodeReviewLab Writeup | Zaid Arif | [Read More](https://medium.com/p/57d437a5d481) |
+| Fri, 20 Mar 2026 03:51:45 GMT | How to do DCSync Attack | Zoroya | [Read More](https://medium.com/p/524a2a794603) |
+| Fri, 20 Mar 2026 03:44:42 GMT | Deep Barot: The Rising Neural Architect Redefining Digital Strategy and AI Innovation | Deep Barot | [Read More](https://medium.com/p/85f42dd8b57f) |
+| Fri, 20 Mar 2026 03:40:10 GMT | Your AI agent just forwarded your entire inbox to a stranger. | Kaan Timucin Dönmez | [Read More](https://medium.com/p/bc0d7c82b083) |
+| Fri, 20 Mar 2026 03:27:04 GMT | How AI Is Changing Digital Trust | Aishwarya Singh | [Read More](https://medium.com/p/66df929a648e) |
+| Fri, 20 Mar 2026 03:18:37 GMT | A Smarter Way to Measure Developer Efficiency: Beyond Velocity, Beyond Gut Feeling | Virutheprince | [Read More](https://medium.com/p/8f12ea2b6966) |
+| Fri, 20 Mar 2026 03:18:31 GMT | Your Android Apps Know More About You Than You Think | Hisham Hyber | [Read More](https://medium.com/p/54df5daa7aaa) |
+| Fri, 20 Mar 2026 02:46:00 GMT | Informational Trauma and the Deficit of Consciousness | Andrei Mochola | [Read More](https://medium.com/p/98e87c02ff5f) |
+| Fri, 20 Mar 2026 02:33:41 GMT | Why Your Personal Data Is Already at Risk (And What You Can Do About It Right Now) | MrKarthikKN | [Read More](https://medium.com/p/da935029a003) |
+| Fri, 20 Mar 2026 02:32:19 GMT | Kyubi — VulnNyx Writeup -Written by Atrox | _ATROX_ | [Read More](https://medium.com/p/ab839f3b3e1c) |
+| Fri, 20 Mar 2026 02:29:08 GMT | The Ultimate Implication of AI Systems: Invariance as the Medium of Intelligence | Supat Charoensappuech | [Read More](https://medium.com/p/6673581a5144) |
+| Fri, 20 Mar 2026 02:27:56 GMT | Day 64 of Reading Cybersecurity — Keygenning & Reverse Engineering (CyberDucky ) | CyberDucky | [Read More](https://medium.com/p/96189c9f1207) |
 | Fri, 20 Mar 2026 02:07:51 GMT | How I Started Learning Performance Testing with JMeter (From Zero Experience) | Yorn Rothy | [Read More](https://medium.com/p/d3181856fcb0) |
 | Fri, 20 Mar 2026 02:06:45 GMT | THM: Expose | Murad Salem | [Read More](https://medium.com/p/96e39199d610) |
 | Fri, 20 Mar 2026 01:54:48 GMT | What Auditing a Real SME Taught Me About Cybersecurity and Compliance | Akesh Chandrasiri | [Read More](https://medium.com/p/7ef45cab0611) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Mar 2026 18:14:09 GMT | You Can Be the Prettiest Shade of Green | Papered Soul | [Read More](https://medium.com/p/1dc988a930ca) |
 | Thu, 19 Mar 2026 18:13:05 GMT | I’ve Watched Physical Security Go From a Line Item to a Board-Level Conversation | Building Security Services | [Read More](https://medium.com/p/700eb8c2c5ea) |
 | Thu, 19 Mar 2026 18:12:16 GMT | Passkey Nedir?(Şifrelerin Sonu mu Geliyor?) | Ali Yaşe | [Read More](https://medium.com/p/b0a639afd826) |
-| Thu, 19 Mar 2026 18:11:45 GMT | Why Digital Trust Is Quietly Becoming the Most Valuable Part of Technology in 2026 | Srishti Kumari | [Read More](https://medium.com/p/bdd92fb97177) |
-| Thu, 19 Mar 2026 18:08:19 GMT | Investigating Suspicious Process Executions: A SOC Analyst’s Guide | witcher | [Read More](https://medium.com/p/eb9f5d3ef8c2) |
-| Thu, 19 Mar 2026 18:05:37 GMT | A Simple Way to Keep a Private “Where Everything Is” List for Your Executor | InheritSafe | [Read More](https://medium.com/p/6fcb86beb2e0) |
-| Thu, 19 Mar 2026 18:05:22 GMT | Publisher Write-up — Exploiting SPIP and Bypassing AppArmor for Root Access | KeeRoot | [Read More](https://medium.com/p/3e9a38756a09) |
-| Thu, 19 Mar 2026 17:59:45 GMT | Dark Web’de Veriler Nasıl Satılıyor? | Ali Yaşe | [Read More](https://medium.com/p/b99dad6836fd) |
-| Thu, 19 Mar 2026 17:55:16 GMT | Socrates, Adversarial Cognition, and the Limits of Procedural Security Training | Joshua Goossen | [Read More](https://medium.com/p/7811dfd814cb) |
-| Thu, 19 Mar 2026 17:54:42 GMT | Open Systems Interconnection (OSI) Model | Adwait Joshi | [Read More](https://medium.com/p/92b665c46176) |
-| Thu, 19 Mar 2026 17:53:04 GMT | Secure Access After Death: A Safer Way to Pass on Credentials Without Risk | Olivia Martillo | [Read More](https://medium.com/p/63223b24bc41) |
-| Thu, 19 Mar 2026 17:48:03 GMT | Ghizer (THM) WriteUp Only Answer | Lawvye | [Read More](https://medium.com/p/58d11caa78fd) |
-| Thu, 19 Mar 2026 17:41:24 GMT | In an Unstable World the U.S. Loses | Sean Randolph | [Read More](https://medium.com/p/abeb9d09000e) |
-| Thu, 19 Mar 2026 17:34:59 GMT | CRTO Review — My Experience with the Certified Red Team Operator Exam - by Atrox | _ATROX_ | [Read More](https://medium.com/p/57fe56a10af5) |
-| Thu, 19 Mar 2026 17:32:55 GMT | Series Introduction — Will Cyber Threat Intelligence Still be Relevant in a Post-Quantum World? | Leonard Okyere Afeke | [Read More](https://medium.com/p/73e9b7ac4a9c) |
-| Thu, 19 Mar 2026 17:31:04 GMT | Static Analysis on Linux | Huzaifah Tahir | [Read More](https://medium.com/p/67f895fdb9bd) |
-| Thu, 19 Mar 2026 17:27:13 GMT | Walkthrough: Hacking An Enterprise Network | Daryl Brooks | [Read More](https://medium.com/p/543b8f1a95b1) |
-| Thu, 19 Mar 2026 17:27:01 GMT | Assessment Methodologies: Enumeration CTF 1 | R1punjay_Singh | [Read More](https://medium.com/p/aec1e10f9586) |
-| Thu, 19 Mar 2026 17:20:29 GMT | The Era of AI — And Why We Should Pause Before We Celebrate | Divya Bhushan Singh | [Read More](https://medium.com/p/609b9a18219e) |
-| Thu, 19 Mar 2026 17:15:46 GMT | Understanding Dark Web Money Transfer Risks and Realities | Tor BBB | [Read More](https://medium.com/p/4c4a34e42770) |
