@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 23:28:15 GMT | Best Google Workspace to Microsoft 365 Migration Tools (2026) | Kaushik Kumar | [Read More](https://medium.com/p/f0474cf219f6) |
+| Fri, 20 Mar 2026 23:19:22 GMT | Modernizing Legacy Government Systems: A Practitioner’s Perspective on Challenges, Strategies, and… | Rabindra Bhandari | [Read More](https://medium.com/p/e15746435c53) |
+| Fri, 20 Mar 2026 23:17:40 GMT | Exchange Online Migration Tools for M&A and Tenant Consolidation (2026) | Juliana Reyes | [Read More](https://medium.com/p/0c3b14274042) |
+| Fri, 20 Mar 2026 23:11:27 GMT | Google Workspace to Microsoft 365 Migration Tools for IT Teams (2026) | Juliana Reyes | [Read More](https://medium.com/p/c91fbaebaa1e) |
+| Fri, 20 Mar 2026 23:01:01 GMT | Apple’s Private AI Claim Breaks if Cloud Fallback Hides the Logs | James Kuhman | [Read More](https://medium.com/p/5ab71627207e) |
+| Fri, 20 Mar 2026 23:01:01 GMT | How I Automated Google Dorking with a Simple Bookmarklet | 5hr33.j11 | [Read More](https://medium.com/p/24acb92a7303) |
+| Fri, 20 Mar 2026 22:59:36 GMT | THM: ToolsRus | Murad Salem | [Read More](https://medium.com/p/56737bd47dd9) |
+| Fri, 20 Mar 2026 22:51:00 GMT | Your Business Wi-Fi Is Probably a Security Disaster (Here’s How to Fix It) | Sharon Martin | [Read More](https://medium.com/p/84a39cad3a86) |
+| Fri, 20 Mar 2026 22:40:02 GMT | مراجعة سريعة لشهادة eWPTXv3: وش تركز عليه وكيف تجهز لها؟ | Baiata Abdelkader | [Read More](https://medium.com/p/1b4859d466a6) |
+| Fri, 20 Mar 2026 22:36:19 GMT | The Master Key Problem: Securing OpenClaw’s Startup | Craig Dewar | [Read More](https://medium.com/p/62f49a6b8fcc) |
+| Fri, 20 Mar 2026 22:33:50 GMT | Audit de Votre Infrastructure IT : Performance, Sécurité et Fiabilité | Digitzsolution Team | [Read More](https://medium.com/p/ccad3f5dea05) |
+| Fri, 20 Mar 2026 22:26:04 GMT | Günlük Hayatta En Büyük 10 Güvenlik Hatası | Ali Yaşe | [Read More](https://medium.com/p/404a8774a06b) |
+| Fri, 20 Mar 2026 22:24:23 GMT | SecurityOnion Crash Course Part 2: Mastering Alerts and Silencing the Noise | HanSolo71 | [Read More](https://medium.com/p/0172ec9caeb3) |
 | Fri, 20 Mar 2026 22:19:10 GMT | Sosyal Mühendislik Saldırıları Nasıl Çalışır? | Ali Yaşe | [Read More](https://medium.com/p/078e3acb8fe8) |
 | Fri, 20 Mar 2026 22:16:23 GMT | Stop Pasting Production Logs into ChatGPT. Meet LogDoctor | Shivam Shashank | [Read More](https://medium.com/p/4281624782d2) |
 | Fri, 20 Mar 2026 22:15:15 GMT | My Idea of an Improved Insurance Industry: AI Driven Pre-Adjuster Systems | Korewa | [Read More](https://medium.com/p/a6e7065cc1a4) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 16:34:06 GMT | TCP, UDP, and the Three-Way Handshake Explained: A Simple Guide for Cybersecurity Beginners | Ferdi Edogawa | [Read More](https://medium.com/p/68ce26435906) |
 | Fri, 20 Mar 2026 16:32:47 GMT | Memory Leak — #44 | Astasia Myers | [Read More](https://medium.com/p/000c27c98c69) |
 | Fri, 20 Mar 2026 16:30:01 GMT | Q-day is coming, ready or not! | Jules May | [Read More](https://medium.com/p/a37d1afa7c63) |
-| Fri, 20 Mar 2026 16:23:51 GMT | Wordpress Hacking | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/599bf729e738) |
-| Fri, 20 Mar 2026 16:01:02 GMT | Spring is here. Easter is coming. Experiences are 30% off. | VidhyodayTrips | [Read More](https://medium.com/p/35cebfb158e8) |
-| Fri, 20 Mar 2026 15:58:23 GMT | From Prevention to Survival: The Rise of Cyber Resilience (2025–2026) | Keyur | [Read More](https://medium.com/p/cb15cb470d11) |
-| Fri, 20 Mar 2026 15:45:27 GMT | Why Food Prices Change | Sumedha | [Read More](https://medium.com/p/a82c7b1e258f) |
-| Fri, 20 Mar 2026 15:35:54 GMT | DarkSword: The iPhone Spyware That Steals Everything in Seconds — And You’d Never Know | Hassanimtiaz | [Read More](https://medium.com/p/1e4b38fbe334) |
-| Fri, 20 Mar 2026 15:33:01 GMT | The Password Mistakes That Get Most People Hacked | Mukhtarabdul | [Read More](https://medium.com/p/600828215073) |
-| Fri, 20 Mar 2026 15:23:12 GMT | What To Do In The 10 Minutes After You Click a Phishing Link | Mukhtarabdul | [Read More](https://medium.com/p/ff9933b4c3a3) |
-| Fri, 20 Mar 2026 15:09:09 GMT | Alternate Data Streams (ADS): A Hands-On Guide to Hidden Data & Stealth Execution | Jagadishtripathy | [Read More](https://medium.com/p/96f6f75aa16f) |
-| Fri, 20 Mar 2026 15:07:22 GMT | Hacking, VM, Linux and Networking Introduction | Ajaydev | [Read More](https://medium.com/p/9dda650835ad) |
-| Fri, 20 Mar 2026 15:04:27 GMT | The Role of Firewalls, VPNs & IDS: Essential Tools for Network Protection | Andres Quintero | [Read More](https://medium.com/p/d05c4ce5efde) |
-| Fri, 20 Mar 2026 15:03:09 GMT | Next.js proxy.ts Auth: Migration Guide | SecureStartKit | [Read More](https://medium.com/p/ff7489ec8735) |
-| Fri, 20 Mar 2026 15:01:03 GMT | How I Discover what Developers Forgot to Secure(Bug Bounty) | Deepanshu Deep | [Read More](https://medium.com/p/cce0468031aa) |
-| Fri, 20 Mar 2026 14:59:01 GMT | Part 6 - The Human Factor: Why Zero-Persistence Makes Insider Threats Structurally Impossible | PhantomKey Technologies | [Read More](https://medium.com/p/7b187121792d) |
