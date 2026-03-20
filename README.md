@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 02:07:51 GMT | How I Started Learning Performance Testing with JMeter (From Zero Experience) | Yorn Rothy | [Read More](https://medium.com/p/d3181856fcb0) |
+| Fri, 20 Mar 2026 02:06:45 GMT | THM: Expose | Murad Salem | [Read More](https://medium.com/p/96e39199d610) |
+| Fri, 20 Mar 2026 01:54:48 GMT | What Auditing a Real SME Taught Me About Cybersecurity and Compliance | Akesh Chandrasiri | [Read More](https://medium.com/p/7ef45cab0611) |
+| Fri, 20 Mar 2026 01:46:20 GMT | The “Lobster” Takeover: Why China Just Leapfrogged the US in the AI Agent Wars | Siddhesh Surve | [Read More](https://medium.com/p/f2c732ebf30c) |
+| Fri, 20 Mar 2026 01:44:45 GMT | AI-Driven Cyberattacks: How to Secure Your Code in the Age of Coding Agents | Made Adi Widyananda | [Read More](https://medium.com/p/2fa6c2d1c444) |
+| Fri, 20 Mar 2026 01:36:59 GMT | The (civilian) world at your fingertips | Kate Bandura | [Read More](https://medium.com/p/5fb19a5b35e7) |
+| Fri, 20 Mar 2026 01:32:03 GMT | Cyber5W Certified Digital Forensic Analyst (CCDFA) — a good start for your digital forensics… | Chicken0248 | [Read More](https://medium.com/p/e3779ce15211) |
+| Fri, 20 Mar 2026 01:06:43 GMT | Agentic Threats Require Agentic Defense. | Monzy | [Read More](https://medium.com/p/21ba309f1bee) |
+| Fri, 20 Mar 2026 00:54:22 GMT | YOUR TV IS WATCHING YOU: How Samsung Smart TVs Are Surveilling Your Living Room - And How to Stop… | Rene Fischer-Bernard | [Read More](https://medium.com/p/8fff82f085de) |
+| Fri, 20 Mar 2026 00:47:33 GMT | SANS 542 and GWAPT..Worth? | 0ber1n | [Read More](https://medium.com/p/9e240e0424a3) |
+| Fri, 20 Mar 2026 00:43:46 GMT | The Adorable Lobster in the Room: Why I’m Skipping Openclaw (For Now) | Pei的留學生活 | [Read More](https://medium.com/p/f938368c3e32) |
+| Fri, 20 Mar 2026 00:43:42 GMT | Hacking the “Republic of Valdoria”: Chaining IDOR, Cryptography Cracking, and JWT Bypass in a… | 0xPedrop | [Read More](https://medium.com/p/738cae64f572) |
+| Fri, 20 Mar 2026 00:12:21 GMT | CISO의 67%가 모르는 것 — AI가 회사 안에서 몰래 돌아가고 있다 | 이현종 | [Read More](https://medium.com/p/23d60fb40ab8) |
+| Fri, 20 Mar 2026 00:09:22 GMT | The War Did Not Create This Problem. It Just Turned On the Lights. | Michael Reichstein | [Read More](https://medium.com/p/afd564ff1193) |
+| Fri, 20 Mar 2026 00:01:01 GMT | CrimeWare + IA | Adrian Romanov | [Read More](https://medium.com/p/6f78057d8c1d) |
 | Thu, 19 Mar 2026 23:21:27 GMT | OCI IAM DB Token on Oracle ADB-S: 23 Empirical Tests Across Python, Java, SQL Developer, SQL*Plus —… | Alessandro Moccia | [Read More](https://medium.com/p/ca88a77ae298) |
 | Thu, 19 Mar 2026 23:12:09 GMT | Even Car Companies need Data Protection Impact Assessments?? | Aimee Liu | [Read More](https://medium.com/p/7e8221349093) |
 | Thu, 19 Mar 2026 23:08:53 GMT | From SOC to AI Command Center | Sales | [Read More](https://medium.com/p/f4e54b376728) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Mar 2026 17:27:01 GMT | Assessment Methodologies: Enumeration CTF 1 | R1punjay_Singh | [Read More](https://medium.com/p/aec1e10f9586) |
 | Thu, 19 Mar 2026 17:20:29 GMT | The Era of AI — And Why We Should Pause Before We Celebrate | Divya Bhushan Singh | [Read More](https://medium.com/p/609b9a18219e) |
 | Thu, 19 Mar 2026 17:15:46 GMT | Understanding Dark Web Money Transfer Risks and Realities | Tor BBB | [Read More](https://medium.com/p/4c4a34e42770) |
-| Thu, 19 Mar 2026 17:15:28 GMT | The Three Guardians of Your Password | Zahidul Islam Ratul | [Read More](https://medium.com/p/53df018dc754) |
-| Thu, 19 Mar 2026 17:11:45 GMT | * Password Security* | CyberRise Institute | [Read More](https://medium.com/p/6fd2a8ffaa58) |
-| Thu, 19 Mar 2026 17:11:18 GMT | Remember Me. Forget MFA | Kayra Öksüz | [Read More](https://medium.com/p/84419f18b46f) |
-| Thu, 19 Mar 2026 17:11:02 GMT | How Your Computer Finds Google Or Any Website? | K. | [Read More](https://medium.com/p/ac35738f10d0) |
-| Thu, 19 Mar 2026 17:09:14 GMT | The Silent Threat We Can No Longer Ignore | Kr. Deepak Sagar | [Read More](https://medium.com/p/822984f1376a) |
-| Thu, 19 Mar 2026 17:08:47 GMT | Strong in Public, Vulnerable in Private | Alice Cutler | [Read More](https://medium.com/p/2c3fbc5fc04a) |
-| Thu, 19 Mar 2026 16:57:34 GMT | Airflow Git Sync: Why SSH is More Secure than Personal Access Tokens (PAT) | Upendra Dixit | [Read More](https://medium.com/p/4a727dc41edc) |
-| Thu, 19 Mar 2026 16:51:29 GMT | Anonymous CTF(TryHackMe) | Iftikharhuseynov | [Read More](https://medium.com/p/b0e168b111b8) |
-| Thu, 19 Mar 2026 16:49:25 GMT | How Commercial Security Systems Protect Local Businesses | AlexBryn | [Read More](https://medium.com/p/51f4f19d077e) |
-| Thu, 19 Mar 2026 16:37:45 GMT | Bots Are Better at Logging In Than Humans | Dr. Shashi Karhail | [Read More](https://medium.com/p/36eb242cf7b1) |
-| Thu, 19 Mar 2026 16:37:38 GMT | Why Cybersecurity Is Often Limited to Documenting Risk Rather Than Shaping Outcomes | Peter Hillier/Halton | [Read More](https://medium.com/p/da16cd32a88d) |
-| Thu, 19 Mar 2026 16:32:04 GMT | WPA2 vs WPA3: Is Your Home Wi-Fi Secure? (2026 Guide) | Temma | [Read More](https://medium.com/p/34aec3018db6) |
-| Thu, 19 Mar 2026 16:30:58 GMT | Building the Future of Digital Infrastructure: Skills and Strategic Expansion | International Data Center Authority | [Read More](https://medium.com/p/cacd1d3dc7c2) |
-| Thu, 19 Mar 2026 16:28:14 GMT | Want To Hide Your Medium Activity Tab? | Gauraw Singh | [Read More](https://medium.com/p/c0b03e30454c) |
-| Thu, 19 Mar 2026 16:20:54 GMT | RATs: Ethical Hacking & Safety Tips | Ambreen Rehman | [Read More](https://medium.com/p/da2f0229c31e) |
