@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 17:56:01 GMT | Iftar Pie — Ramadan CTF 2026 (MISC) | Hamzeh Alawneh | [Read More](https://medium.com/p/b8b5fd16d24e) |
+| Fri, 20 Mar 2026 17:53:57 GMT | The Next Billion-Dollar Breach Will Come From CI/CD | Yua Mikanana | [Read More](https://medium.com/p/381d5c2a3926) |
+| Fri, 20 Mar 2026 17:45:03 GMT | How a naive compliment became a professional lesson in cybersecurity. | Adebayo Muhammad | [Read More](https://medium.com/p/08b40b67b4df) |
+| Fri, 20 Mar 2026 17:44:06 GMT | OverTheWire Bandit Walkthrough — Level 3 → 4 - 30-Day Cybersecurity Learning Journey (Day 4) | William | [Read More](https://medium.com/p/5a159f8f7072) |
+| Fri, 20 Mar 2026 17:35:18 GMT | Apple Warns iPhone Users: DarkSword Spyware Puts Millions at Risk | Ananthuharikumar | [Read More](https://medium.com/p/bf81ddefe237) |
+| Fri, 20 Mar 2026 17:31:00 GMT | Multimodal Safety: 9 Red-Team Prompts for UI Agents | Bhagya Rana | [Read More](https://medium.com/p/d9c8699045fc) |
+| Fri, 20 Mar 2026 17:30:37 GMT | AISVS: the missing standard for AI application security | Alberto Cappellina | [Read More](https://medium.com/p/1563337f0047) |
+| Fri, 20 Mar 2026 17:30:14 GMT | The Hidden Security Risks of RAG Pipelines | Sales | [Read More](https://medium.com/p/fe49691daffb) |
+| Fri, 20 Mar 2026 17:28:08 GMT | Ciberseguridad: más que pantallas verdes y rituales profanos | HaRoldCant | [Read More](https://medium.com/p/58fc03d15711) |
+| Fri, 20 Mar 2026 17:25:24 GMT | Cybersecurity in the AI Era: When Machines Defend Against Machines | Mayank Agrawal | [Read More](https://medium.com/p/87b6d09139ce) |
+| Fri, 20 Mar 2026 17:22:51 GMT | Before the Lights go out!!! | Agnidipta Sarkar | [Read More](https://medium.com/p/cd4b10261d47) |
+| Fri, 20 Mar 2026 17:22:28 GMT | How I Solved SSL Pinning and Interception Issues in a Real Mobile Pentest | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/bbd0bf35538e) |
+| Fri, 20 Mar 2026 17:13:25 GMT | Hacking the Source: The Invisible Threat of Supply Chain Attacks | Axoloth | [Read More](https://medium.com/p/277cc136a8f0) |
+| Fri, 20 Mar 2026 17:11:57 GMT | Security That Cannot Be Proven Will Fail Audits | Dr. Shashi Karhail | [Read More](https://medium.com/p/01bc539faf8c) |
+| Fri, 20 Mar 2026 17:00:42 GMT | # OWASP LLM Top 10: How to Actually Test Your AI Applications | Proscan.one | [Read More](https://medium.com/p/ab2c2cf23ba7) |
 | Fri, 20 Mar 2026 16:57:39 GMT | Exploitation Campaigns and KEV additions Marked an Intensifying Threat Landscape This Week | Loginsoft | [Read More](https://medium.com/p/3a7b665643ca) |
 | Fri, 20 Mar 2026 16:57:15 GMT | Alert Overload in Cybersecurity: Why False Positives Are Slowing Down Real Threat Detection | Chetan Seripally | [Read More](https://medium.com/p/d50aceb880d0) |
 | Fri, 20 Mar 2026 16:52:54 GMT | Capstone Project: Analisis SIEM (Wazuh) & Network/Memory Forensics | satoshi_nakamura | [Read More](https://medium.com/p/2770d1a54570) |
@@ -26,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 16:30:01 GMT | Q-day is coming, ready or not! | Jules May | [Read More](https://medium.com/p/a37d1afa7c63) |
 | Fri, 20 Mar 2026 16:23:51 GMT | Wordpress Hacking | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/599bf729e738) |
 | Fri, 20 Mar 2026 16:01:02 GMT | Spring is here. Easter is coming. Experiences are 30% off. | VidhyodayTrips | [Read More](https://medium.com/p/35cebfb158e8) |
+| Fri, 20 Mar 2026 15:58:23 GMT | From Prevention to Survival: The Rise of Cyber Resilience (2025–2026) | Keyur | [Read More](https://medium.com/p/cb15cb470d11) |
 | Fri, 20 Mar 2026 15:45:27 GMT | Why Food Prices Change | Sumedha | [Read More](https://medium.com/p/a82c7b1e258f) |
 | Fri, 20 Mar 2026 15:35:54 GMT | DarkSword: The iPhone Spyware That Steals Everything in Seconds — And You’d Never Know | Hassanimtiaz | [Read More](https://medium.com/p/1e4b38fbe334) |
 | Fri, 20 Mar 2026 15:33:01 GMT | The Password Mistakes That Get Most People Hacked | Mukhtarabdul | [Read More](https://medium.com/p/600828215073) |
@@ -99,19 +115,3 @@ ANALISI FORENSE UAP | Giuseppe Sante Iurescia | [Read More](https://medium.com/p
 | Fri, 20 Mar 2026 11:27:30 GMT | Security Requirements Are Not Assurance: The Missing SSE Function on Large Projects | Peter Hillier/Halton | [Read More](https://medium.com/p/391366e85138) |
 | Fri, 20 Mar 2026 11:25:48 GMT | AI Agents Are The New Ad Network (And You Didn’t Consent) | Learn With Hatty | [Read More](https://medium.com/p/cf1bbdc204f1) |
 | Fri, 20 Mar 2026 11:22:39 GMT | Best Cloud Infrastructure Management Services in India | Jameswilliamservices | [Read More](https://medium.com/p/de2f981e9795) |
-| Fri, 20 Mar 2026 11:21:50 GMT | CTF Write-Up: Hidden RFI Secret in VendorsKart | mayhack | [Read More](https://medium.com/p/ad8b671f6536) |
-| Fri, 20 Mar 2026 11:20:32 GMT | The Entropy Equation: Why Modern Security Demands Cryptographically Secure Passwords in 2026 | James Robinson | [Read More](https://medium.com/p/33e24a372e11) |
-| Fri, 20 Mar 2026 11:13:30 GMT | Cybersecurity Consulting Services: Protecting Your Business in a Digital-First World | Nihar | [Read More](https://medium.com/p/450970dd1aa3) |
-| Fri, 20 Mar 2026 11:11:34 GMT | Using invariants for Threat Hunting and SOC investigations | N0T3 | [Read More](https://medium.com/p/ddeeb311abcb) |
-| Fri, 20 Mar 2026 11:04:27 GMT | How NetSuite Secures Enterprise Data: A Practical Breakdown of Its Security Architecture | Linkederp | [Read More](https://medium.com/p/cabd611c41ea) |
-| Fri, 20 Mar 2026 11:00:09 GMT | Claudy Day: The Attack Chain That Turns an AI Chat Into a Data-Leak Pipeline | Ilias Armenakis | [Read More](https://medium.com/p/0fdc558aa36b) |
-| Fri, 20 Mar 2026 10:56:16 GMT | Breaking the Checkout: Price Manipulation | Parth Narula | [Read More](https://medium.com/p/a0779eee3af4) |
-| Fri, 20 Mar 2026 10:55:59 GMT | QR codes in 2026: smart use cases and the safety rules most teams ignore | M. James Wilson | [Read More](https://medium.com/p/920cd478f47a) |
-| Fri, 20 Mar 2026 10:52:21 GMT | Cloud Security Solutions: Protect Your Business in the Digital Age | Whizcamp LLC | [Read More](https://medium.com/p/209b892f3a80) |
-| Fri, 20 Mar 2026 10:38:26 GMT | Building a Secure CI/CD Pipeline: SAST, DAST, IaC & Cloud Security (AWS/Azure) | Balayan Mher | [Read More](https://medium.com/p/03db4514236d) |
-| Fri, 20 Mar 2026 10:35:13 GMT | The Winter of Egos | Alexandra Astrid | [Read More](https://medium.com/p/9683187ee9ab) |
-| Fri, 20 Mar 2026 10:13:09 GMT | Dios sí juega a los dados | SYNAPTA | [Read More](https://medium.com/p/9f9d00485866) |
-| Fri, 20 Mar 2026 10:12:59 GMT | Operational Continuity Through Tekkis’s Proactive IT Service and Cyber Defense in Denver | Tekkis | [Read More](https://medium.com/p/8b817ed52571) |
-| Fri, 20 Mar 2026 10:11:20 GMT | Intelligent Workflow Systems for Modern Businesses | n8ndevelopers | [Read More](https://medium.com/p/ab9f467a5afc) |
-| Fri, 20 Mar 2026 10:09:03 GMT | HTTP Protokolü ve Web Mimarisi (HTTP in Detail) | Onur Öztürk | [Read More](https://medium.com/p/4f0865eace5e) |
-| Fri, 20 Mar 2026 10:07:29 GMT | Router, Switch, Firewall ve VPN Nedir? | Onur Öztürk | [Read More](https://medium.com/p/b93b05521459) |
