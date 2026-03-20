@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 20:30:21 GMT | The Era of “Logging In” Instead of Hacking In | Yunusemreozgun | [Read More](https://medium.com/p/9a3d896651f5) |
+| Fri, 20 Mar 2026 20:27:36 GMT | Why Security is the Real Bottleneck for Agentic AI (And How Nvidia Just Fixed It) | Subham Verma | [Read More](https://medium.com/p/b02ef173faed) |
+| Fri, 20 Mar 2026 20:24:12 GMT | Authentication Bypass & Username Enumeration in AdminPanel (Jason2605) | Hemant Raj Bhati | [Read More](https://medium.com/p/061bd7bcea6b) |
+| Fri, 20 Mar 2026 20:21:09 GMT | “The Sky is Falling”: Microsoft Defender for Cloud Apps Edition | Vonte Sewell | [Read More](https://medium.com/p/6a7250ac615d) |
+| Fri, 20 Mar 2026 20:16:00 GMT | How I Chained Mass Assignment and CSV Injection to Exfiltrate Corporate Data | Nebty | [Read More](https://medium.com/p/a48b162e41df) |
+| Fri, 20 Mar 2026 20:16:00 GMT | Two Dangerous Mistakes Every Senior Must Avoid After 60 | Sandy Watt | [Read More](https://medium.com/p/fdce6ff699a3) |
+| Fri, 20 Mar 2026 20:08:43 GMT | TryHackMe: Lookup Write-up — Mastering Username Enumeration and PATH Hijacking | KeeRoot | [Read More](https://medium.com/p/6c8d6b280356) |
+| Fri, 20 Mar 2026 20:08:43 GMT | How I Make Money in Offensive Security in 2026 — Private Programs, Real Payouts, and Why Companies… | Admin | [Read More](https://medium.com/p/ad7d6ef209ea) |
+| Fri, 20 Mar 2026 20:08:09 GMT | ️ I Built an Anti-Phishing CTF Room on TryHackMe — Full Walkthrough | ANEESHA B A | [Read More](https://medium.com/p/a35e08a86780) |
+| Fri, 20 Mar 2026 20:02:56 GMT | AWS — Secure VPC Architecture with S3 VPC Endpoint and Private Access Control | Jaylen Galloway | [Read More](https://medium.com/p/89d145cc0a86) |
+| Fri, 20 Mar 2026 19:50:58 GMT | “If I Could Say One Thing to Perle, It’s This” | Atieclinton | [Read More](https://medium.com/p/78fe115e6ced) |
 | Fri, 20 Mar 2026 19:47:55 GMT | Jupyter Security Sprint March 31st | Joe Lucas | [Read More](https://medium.com/p/5a2293de5cd5) |
 | Fri, 20 Mar 2026 19:41:39 GMT | Why Every Technology Professional Should Teach (At Least Once) | Jay James | [Read More](https://medium.com/p/ea0a450c9b66) |
 | Fri, 20 Mar 2026 19:22:32 GMT | USER-CENTERED RESEARCH AND DESIGN OF A HEALTHCARE WEBSITE APPLICATION PROTOTYPE(HELEPAD) | OKIKIJESU ODELEYE | [Read More](https://medium.com/p/d730bad1ee14) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 The DeFi landscape is vast and complex, with hundreds of… | Mercybesthairs | [Read More](https://medium.com/p/2c3936c4793a) |
 | Fri, 20 Mar 2026 13:56:01 GMT | They Stole My Neighbor’s Crypto Two Years After Hacking LastPass. Here’s the Part Nobody Explains. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/97421d5a4cb2) |
 | Fri, 20 Mar 2026 13:53:29 GMT | When Your Compiler Lies | Hke | [Read More](https://medium.com/p/e522e19b0cec) |
-| Fri, 20 Mar 2026 13:52:20 GMT | SSH — What It Is, Why It Exists, and How It Actually Works Under the Hood | Filip Kosowski | [Read More](https://medium.com/p/5b80a9e3acd1) |
-| Fri, 20 Mar 2026 13:46:53 GMT | JWT Is Not a Session. Stop Treating It Like One. | The Turtle Code | [Read More](https://medium.com/p/5a0d8f35fa9d) |
-| Fri, 20 Mar 2026 13:44:26 GMT | Supply Chain Attacks are the New Default Entry Point | 0xMetaLabs | [Read More](https://medium.com/p/e2282bc7df62) |
-| Fri, 20 Mar 2026 13:43:07 GMT | Why Signature-Based Security Is No Longer Enough and How UEBA Detects What It Misses | Josh | [Read More](https://medium.com/p/24e00700be0b) |
-| Fri, 20 Mar 2026 13:41:11 GMT | Microsoft Paid $1.6 Million to Hackers in a Single Event — Here’s How You Can Get Invited | Bugitrix | [Read More](https://medium.com/p/d33abfb2ad16) |
-| Fri, 20 Mar 2026 13:34:15 GMT | TryHackMe — Windows Fundamentals (Part II) Writeup | Manmath somure | [Read More](https://medium.com/p/f43481f9dff7) |
-| Fri, 20 Mar 2026 13:32:19 GMT | CVE‑2026‑2964: From Prototype Pollution to Remote Code Execution in web‑audio‑recorder‑js | Dipesh Paul | [Read More](https://medium.com/p/395373276d3a) |
-| Fri, 20 Mar 2026 13:27:23 GMT | Chapter 5: The First Security Crisis: Taming the NewDigital Beings | ca | [Read More](https://medium.com/p/8169fe9dab24) |
-| Fri, 20 Mar 2026 13:21:45 GMT | Digital India Needs Digital Awareness | Bhumika | [Read More](https://medium.com/p/a27ae6d526d9) |
-| Fri, 20 Mar 2026 13:20:33 GMT | Enhancing web of things security using Harris hawks optimization with reinforcement learning | Brij Gupta | [Read More](https://medium.com/p/253c0df2f710) |
-| Fri, 20 Mar 2026 13:18:39 GMT | Firefox Adding a Free Built-In VPN. But Is It Actually Useful? | Shreya Mehta | [Read More](https://medium.com/p/205ce1fbb7c0) |
