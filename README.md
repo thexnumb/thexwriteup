@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 21:16:54 GMT | Transcending the Shadow Conduit: The Critical Vulnerabilities of Remote Desktop Software and Legacy… | Aymaneelyamani | [Read More](https://medium.com/p/22be887f341c) |
+| Fri, 20 Mar 2026 21:14:10 GMT | What Your .NET Exceptions Are Telling Attackers (And How to Stop It) | Adrian Bailador | [Read More](https://medium.com/p/8718f74f0926) |
+| Fri, 20 Mar 2026 21:07:09 GMT | Blind SQL Injection in Yahoo! | ab.infosec | [Read More](https://medium.com/p/93c40b43a8af) |
+| Fri, 20 Mar 2026 20:55:07 GMT | G-d Bless these two heroes  of our time! | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/346945e3a5f3) |
+| Fri, 20 Mar 2026 20:54:51 GMT | Why Digital Organization is the Secret to Stress-Free Productivity | Pushcam Solutions | [Read More](https://medium.com/p/e29264c96106) |
+| Fri, 20 Mar 2026 20:50:42 GMT | Why I Spent Weeks Building a Hacking Platform Nobody Asked For | Somesh | [Read More](https://medium.com/p/7b68213caa1a) |
+| Fri, 20 Mar 2026 20:37:54 GMT | The New Axis of Power: National Sovereignty and Algorithmic Robustness in the AI Era | Victor Hugo Violada Pereira | [Read More](https://medium.com/p/409093487460) |
+| Fri, 20 Mar 2026 20:35:35 GMT | AirSnitch: The Wi-Fi Flaw That Completely Breaks Client Isolation | Mr_MalMan | [Read More](https://medium.com/p/cb97247c43e7) |
+| Fri, 20 Mar 2026 20:30:26 GMT | Running Ollama locally? These 5 server misconfigs can expose your instance to the internet | Metric | [Read More](https://medium.com/p/463b523294cf) |
 | Fri, 20 Mar 2026 20:30:21 GMT | The Era of “Logging In” Instead of Hacking In | Yunusemreozgun | [Read More](https://medium.com/p/9a3d896651f5) |
 | Fri, 20 Mar 2026 20:27:36 GMT | Why Security is the Real Bottleneck for Agentic AI (And How Nvidia Just Fixed It) | Subham Verma | [Read More](https://medium.com/p/b02ef173faed) |
 | Fri, 20 Mar 2026 20:24:12 GMT | Authentication Bypass & Username Enumeration in AdminPanel (Jason2605) | Hemant Raj Bhati | [Read More](https://medium.com/p/061bd7bcea6b) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 14:21:00 GMT | Finding a Locksmith in Stamford, CT - Sure Lock & Key | Sure Lock & Key LLC | [Read More](https://medium.com/p/2d57824f1437) |
 | Fri, 20 Mar 2026 14:19:42 GMT | picoCTF 2026 — Web Exploitation Write-Up | Enes Bayraker | [Read More](https://medium.com/p/76d1dd0406b9) |
 | Fri, 20 Mar 2026 14:19:20 GMT | (Cybersecurity Lab) Authenticator Apps: How They Work and What Students Need to Know for Security+. | Josh Beck | [Read More](https://medium.com/p/ee30277b5495) |
-| Fri, 20 Mar 2026 14:18:28 GMT | Verified/Secure Boot and Encryption on Raspberry Pi 4 “from scratch” | Raphael Krauthann | [Read More](https://medium.com/p/2679ba11518e) |
-| Fri, 20 Mar 2026 14:09:44 GMT | PicoCTF 2026 Write-up: General Skills Kategorisinde 6 Soru | Enes Bayraker | [Read More](https://medium.com/p/50ecced1596e) |
-| Fri, 20 Mar 2026 14:08:53 GMT | Modern SSRF — Part 3 (EXPERT EDITION): Advanced Techniques, Real Research, GitHub Tools &… | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/a2a599946037) |
-| Fri, 20 Mar 2026 14:05:08 GMT | Top 5 Skills You Need for the Future | Blesson Charles | [Read More](https://medium.com/p/a258d0b4226f) |
-| Fri, 20 Mar 2026 14:01:01 GMT | How to Test LLM Applications for Prompt Injection | Adam Dryden | [Read More](https://medium.com/p/6836349be3f9) |
-| Fri, 20 Mar 2026 14:01:00 GMT | Cyber Briefing: 2026.03.20 | CyberMaterial | [Read More](https://medium.com/p/d523e0aa218e) |
-| Fri, 20 Mar 2026 13:56:59 GMT | Why DeFi Needs Vault Infrastructure
-The DeFi landscape is vast and complex, with hundreds of… | Mercybesthairs | [Read More](https://medium.com/p/2c3936c4793a) |
-| Fri, 20 Mar 2026 13:56:01 GMT | They Stole My Neighbor’s Crypto Two Years After Hacking LastPass. Here’s the Part Nobody Explains. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/97421d5a4cb2) |
-| Fri, 20 Mar 2026 13:53:29 GMT | When Your Compiler Lies | Hke | [Read More](https://medium.com/p/e522e19b0cec) |
