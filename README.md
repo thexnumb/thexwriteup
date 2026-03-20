@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 10:13:09 GMT | Dios sí juega a los dados | SYNAPTA | [Read More](https://medium.com/p/9f9d00485866) |
+| Fri, 20 Mar 2026 10:12:59 GMT | Operational Continuity Through Tekkis’s Proactive IT Service and Cyber Defense in Denver | Tekkis | [Read More](https://medium.com/p/8b817ed52571) |
+| Fri, 20 Mar 2026 10:11:20 GMT | Intelligent Workflow Systems for Modern Businesses | n8ndevelopers | [Read More](https://medium.com/p/ab9f467a5afc) |
+| Fri, 20 Mar 2026 10:09:03 GMT | HTTP Protokolü ve Web Mimarisi (HTTP in Detail) | Onur Öztürk | [Read More](https://medium.com/p/4f0865eace5e) |
+| Fri, 20 Mar 2026 10:07:29 GMT | Router, Switch, Firewall ve VPN Nedir? | Onur Öztürk | [Read More](https://medium.com/p/b93b05521459) |
+| Fri, 20 Mar 2026 10:01:53 GMT | What Is the Best Cyber Security Course in India for Beginners in 2026? | Cyberdojoyt | [Read More](https://medium.com/p/352b11c818bc) |
+| Fri, 20 Mar 2026 09:56:00 GMT | Why the Policy-First Approach Remains Underrated in SMEs | Gaurav Shukla | [Read More](https://medium.com/p/c020d8b3609b) |
+| Fri, 20 Mar 2026 09:51:06 GMT | The Unprecedented Army Chief and the Military’s Fourth Generation | Naing Min Khant | [Read More](https://medium.com/p/89a09b5b6dd1) |
+| Fri, 20 Mar 2026 09:49:02 GMT | Nepal’s Digital Future Needs Systems, Not Just Software | Saroj | [Read More](https://medium.com/p/4f398e0a89ac) |
+| Fri, 20 Mar 2026 09:48:30 GMT | Why Attackers Love Corporate Complexity | Digital Defense | [Read More](https://medium.com/p/32ee658a9b9b) |
+| Fri, 20 Mar 2026 09:46:27 GMT | DockerLabs Writeup — Wallet (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a003d6ee6cfa) |
 | Fri, 20 Mar 2026 09:45:00 GMT | Browser Extensions: The Most Ignored Cyber Threat of 2026 | Lakshita Gulliya | [Read More](https://medium.com/p/47c9f852747a) |
+| Fri, 20 Mar 2026 09:44:46 GMT | Secrets, Conspiracies, and Area 54: The Hidden World You’re Not Meant to See | H.P.B.Kaveesha | [Read More](https://medium.com/p/9d8de8ffa096) |
 | Fri, 20 Mar 2026 09:31:00 GMT | When Being Too Good at Your Job Becomes a Replaceable Offense | Namir Sagheenanajar | [Read More](https://medium.com/p/18a46b7f69f9) |
 | Fri, 20 Mar 2026 09:26:49 GMT | These Two Terms Aren’t Interchangeable. Here’s Why It Matters | Redfox Security | [Read More](https://medium.com/p/f21359d9004d) |
 | Fri, 20 Mar 2026 09:22:23 GMT | Why the 2026 ACM Turing Award for Quantum Cryptography Is a Milestone for Post‑Quantum Security | Shreya Palase | [Read More](https://medium.com/p/a381875d944e) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 05:14:46 GMT | How are modern symmetric ciphers secure against quantum algorithms? | Gokul B Alex | [Read More](https://medium.com/p/4839664b6630) |
 | Fri, 20 Mar 2026 05:06:46 GMT | NTLM Is Dead. Your Password Hash Isn’t: Abusing SamrSetInformationUser in Active Directory | A Belous | [Read More](https://medium.com/p/8de03eea29cf) |
 | Fri, 20 Mar 2026 05:03:14 GMT | Implementing the “Atomic Control” — A Beginner-Friendly AppLocker Lab | Harshit Chiwande | [Read More](https://medium.com/p/633de3d88d7b) |
-| Fri, 20 Mar 2026 04:54:55 GMT | From Days to Hours: How GenAI Transformed My Approach to Secure System Integrations | Dineshchandgr - A Top writer in Technology | [Read More](https://medium.com/p/c80942edd60c) |
-| Fri, 20 Mar 2026 04:54:18 GMT | The Biggest Hacks in History — And the Doors They Left Open | Kavyangahathurusinghe | [Read More](https://medium.com/p/368e83151c16) |
-| Fri, 20 Mar 2026 04:51:16 GMT | How to Download and Install VeraCrypt on Windows, Linux, and macOS | Sam Writes Security | [Read More](https://medium.com/p/a648d6643c60) |
-| Fri, 20 Mar 2026 04:35:31 GMT | Cloud, Kubernetes, and CI/CD Best Practices: Secrets Management for Cloud-Native Systems (Part 2) | Silversky Technology | [Read More](https://medium.com/p/2e3860f64dc8) |
-| Fri, 20 Mar 2026 04:35:25 GMT | VeraCrypt Explained: A Complete Beginner’s Guide to Encrypting Your Files and Drives | Sam Writes Security | [Read More](https://medium.com/p/5fd47ed51200) |
-| Fri, 20 Mar 2026 04:34:26 GMT | What is a Man-in-the-middle(MITM) Attack? Networking — Day 12 | 0xSmit | [Read More](https://medium.com/p/7e0d07e51fb6) |
-| Fri, 20 Mar 2026 04:25:56 GMT | [Opinion] Why Gender-Responsive Climate Change Matters | Bridge The Gap Cambodia | [Read More](https://medium.com/p/519baf4196fb) |
-| Fri, 20 Mar 2026 04:20:31 GMT | Most Alerts Are Noise—How SOC Analysts Turn Signals into Real Threats | Dipan | [Read More](https://medium.com/p/1be6bce62421) |
-| Fri, 20 Mar 2026 04:14:53 GMT | The Reality of Breaking Into Cyber Security | Fady Azzi | [Read More](https://medium.com/p/6e5adb2a949f) |
-| Fri, 20 Mar 2026 04:06:10 GMT | SV IT Global Solutions Bangalore | Gayathri Mk | [Read More](https://medium.com/p/172a67ac2102) |
-| Fri, 20 Mar 2026 04:03:32 GMT | Ethical Hacking for Beginners — Day 2: Viruses, Malware, Cyber Attacks & Security Testing | HusnaAnjum | [Read More](https://medium.com/p/3371f3d5ec32) |
-| Fri, 20 Mar 2026 04:01:30 GMT | HTB Cicada: From Password Spraying to Token Abuse | Onurcan Genç | [Read More](https://medium.com/p/6b22f8454488) |
