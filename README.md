@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 19:47:55 GMT | Jupyter Security Sprint March 31st | Joe Lucas | [Read More](https://medium.com/p/5a2293de5cd5) |
+| Fri, 20 Mar 2026 19:41:39 GMT | Why Every Technology Professional Should Teach (At Least Once) | Jay James | [Read More](https://medium.com/p/ea0a450c9b66) |
+| Fri, 20 Mar 2026 19:22:32 GMT | USER-CENTERED RESEARCH AND DESIGN OF A HEALTHCARE WEBSITE APPLICATION PROTOTYPE(HELEPAD) | OKIKIJESU ODELEYE | [Read More](https://medium.com/p/d730bad1ee14) |
+| Fri, 20 Mar 2026 19:20:51 GMT | Car 360 Camera: The Ultimate Guide to Surround View Systems | Seoalrowad | [Read More](https://medium.com/p/58f8816db93c) |
+| Fri, 20 Mar 2026 19:19:03 GMT | 10 Million IoT Devices Hacked: Is Yours Next? | BLE Advertiser | [Read More](https://medium.com/p/769f47f578dc) |
+| Fri, 20 Mar 2026 19:16:36 GMT | $500 in just a single IDOR | Muhammad Wageh | [Read More](https://medium.com/p/b13e9df22f4a) |
+| Fri, 20 Mar 2026 19:11:40 GMT | Multi-AZ Isn’t Enough: Lessons from the AWS Middle East Drone Strikes | Saurabh Yadav | [Read More](https://medium.com/p/95ca57cded0a) |
+| Fri, 20 Mar 2026 19:03:31 GMT | “Detecting Hidden Messages in Images using Deep Learning” | A sai shivanand | [Read More](https://medium.com/p/aab4b1f35395) |
+| Fri, 20 Mar 2026 19:03:19 GMT | The Best IT Teams Aren’t Bulletproof — They’re Resilient | G.W. Johnston | [Read More](https://medium.com/p/24868cf75063) |
+| Fri, 20 Mar 2026 19:02:32 GMT | Digital Sovereignty as Security Responsibility: A Resilience Test for European Cyber Defense | Parviz Salmanov | [Read More](https://medium.com/p/2b92fb9cb8b8) |
 | Fri, 20 Mar 2026 19:01:07 GMT | Hackviser Write-up [EN-TR] — Stored XSS Vulnerability via Image Upload-Induced | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/0904a3eabb9d) |
 | Fri, 20 Mar 2026 18:57:01 GMT | How Active Directory Misconfigurations Lead to Major Cyber Breaches | Gloria Asuquo | [Read More](https://medium.com/p/7e0ab3acb591) |
 | Fri, 20 Mar 2026 18:49:19 GMT | THM - Dev Diaries | Francesco Pastore | [Read More](https://medium.com/p/6fd2f3a3f2fd) |
@@ -103,13 +113,3 @@ The DeFi landscape is vast and complex, with hundreds of… | Mercybesthairs | [
 | Fri, 20 Mar 2026 13:21:45 GMT | Digital India Needs Digital Awareness | Bhumika | [Read More](https://medium.com/p/a27ae6d526d9) |
 | Fri, 20 Mar 2026 13:20:33 GMT | Enhancing web of things security using Harris hawks optimization with reinforcement learning | Brij Gupta | [Read More](https://medium.com/p/253c0df2f710) |
 | Fri, 20 Mar 2026 13:18:39 GMT | Firefox Adding a Free Built-In VPN. But Is It Actually Useful? | Shreya Mehta | [Read More](https://medium.com/p/205ce1fbb7c0) |
-| Fri, 20 Mar 2026 13:15:50 GMT | Broken Code/ TryHackMe Write-up | Khalida | [Read More](https://medium.com/p/93fb20d146f6) |
-| Fri, 20 Mar 2026 13:09:25 GMT | Nobody Told Me CTF Would Feel Like This — So I’m Telling You | Muhammad Bilal | [Read More](https://medium.com/p/a86559974ac8) |
-| Fri, 20 Mar 2026 13:05:26 GMT | Managed Security Awareness: Building a Human Firewall Against Cyber Threats | Singular Security Inc. | [Read More](https://medium.com/p/6ccc05cf3698) |
-| Fri, 20 Mar 2026 12:59:15 GMT | CTF Write-Up: Midnight Mishap — Exposed Vim Swap Files | mayhack | [Read More](https://medium.com/p/0a481dc9b03d) |
-| Fri, 20 Mar 2026 12:56:14 GMT | The Complete Guide to Website Monitoring Tools | Ulagiofficial | [Read More](https://medium.com/p/3d07fa927a8c) |
-| Fri, 20 Mar 2026 12:54:59 GMT | Reasons To Engage Expert-Security Team For Corporate Events | Seoteamwxt | [Read More](https://medium.com/p/bb16246ca9d8) |
-| Fri, 20 Mar 2026 12:44:27 GMT | Для чего криптовалюта в 2026 году | Bit Team | [Read More](https://medium.com/p/35dce9e104a7) |
-| Fri, 20 Mar 2026 12:39:38 GMT | PENTINGNYA KEAMANAN INFORMASI | Krisdek | [Read More](https://medium.com/p/700b59838fd9) |
-| Fri, 20 Mar 2026 12:36:46 GMT | GraphQL Security Architecture: AST-Level Defense, Resolver Isolation, and Cost Analysis | Emir Kızılarslan | [Read More](https://medium.com/p/ae62a56f2516) |
-| Fri, 20 Mar 2026 12:36:06 GMT | The Day Your iPhone Became a Target: Inside the “DarkSword” Spyware Threat | Sharanraju | [Read More](https://medium.com/p/7686b52c881c) |
