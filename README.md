@@ -12,12 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 14:09:44 GMT | PicoCTF 2026 Write-up: General Skills Kategorisinde 6 Soru | Enes Bayraker | [Read More](https://medium.com/p/50ecced1596e) |
+| Fri, 20 Mar 2026 14:08:53 GMT | Modern SSRF — Part 3 (EXPERT EDITION): Advanced Techniques, Real Research, GitHub Tools &… | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/a2a599946037) |
+| Fri, 20 Mar 2026 14:05:08 GMT | Top 5 Skills You Need for the Future | Blesson Charles | [Read More](https://medium.com/p/a258d0b4226f) |
+| Fri, 20 Mar 2026 14:01:01 GMT | How to Test LLM Applications for Prompt Injection | Adam Dryden | [Read More](https://medium.com/p/6836349be3f9) |
+| Fri, 20 Mar 2026 14:01:00 GMT | Cyber Briefing: 2026.03.20 | CyberMaterial | [Read More](https://medium.com/p/d523e0aa218e) |
+| Fri, 20 Mar 2026 13:56:59 GMT | Why DeFi Needs Vault Infrastructure
+The DeFi landscape is vast and complex, with hundreds of… | Mercybesthairs | [Read More](https://medium.com/p/2c3936c4793a) |
+| Fri, 20 Mar 2026 13:56:01 GMT | They Stole My Neighbor’s Crypto Two Years After Hacking LastPass. Here’s the Part Nobody Explains. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/97421d5a4cb2) |
+| Fri, 20 Mar 2026 13:53:29 GMT | When Your Compiler Lies | Hke | [Read More](https://medium.com/p/e522e19b0cec) |
+| Fri, 20 Mar 2026 13:52:20 GMT | SSH — What It Is, Why It Exists, and How It Actually Works Under the Hood | Filip Kosowski | [Read More](https://medium.com/p/5b80a9e3acd1) |
+| Fri, 20 Mar 2026 13:46:53 GMT | JWT Is Not a Session. Stop Treating It Like One. | The Turtle Code | [Read More](https://medium.com/p/5a0d8f35fa9d) |
+| Fri, 20 Mar 2026 13:44:26 GMT | Supply Chain Attacks are the New Default Entry Point | 0xMetaLabs | [Read More](https://medium.com/p/e2282bc7df62) |
+| Fri, 20 Mar 2026 13:43:07 GMT | Why Signature-Based Security Is No Longer Enough and How UEBA Detects What It Misses | Josh | [Read More](https://medium.com/p/24e00700be0b) |
+| Fri, 20 Mar 2026 13:41:11 GMT | Microsoft Paid $1.6 Million to Hackers in a Single Event — Here’s How You Can Get Invited | Bugitrix | [Read More](https://medium.com/p/d33abfb2ad16) |
+| Fri, 20 Mar 2026 13:34:15 GMT | TryHackMe — Windows Fundamentals (Part II) Writeup | Manmath somure | [Read More](https://medium.com/p/f43481f9dff7) |
+| Fri, 20 Mar 2026 13:32:19 GMT | CVE‑2026‑2964: From Prototype Pollution to Remote Code Execution in web‑audio‑recorder‑js | Dipesh Paul | [Read More](https://medium.com/p/395373276d3a) |
+| Fri, 20 Mar 2026 13:27:23 GMT | Chapter 5: The First Security Crisis: Taming the NewDigital Beings | ca | [Read More](https://medium.com/p/8169fe9dab24) |
+| Fri, 20 Mar 2026 13:21:45 GMT | Digital India Needs Digital Awareness | Bhumika | [Read More](https://medium.com/p/a27ae6d526d9) |
+| Fri, 20 Mar 2026 13:20:33 GMT | Enhancing web of things security using Harris hawks optimization with reinforcement learning | Brij Gupta | [Read More](https://medium.com/p/253c0df2f710) |
+| Fri, 20 Mar 2026 13:18:39 GMT | Firefox Adding a Free Built-In VPN. But Is It Actually Useful? | Shreya Mehta | [Read More](https://medium.com/p/205ce1fbb7c0) |
+| Fri, 20 Mar 2026 13:15:50 GMT | Broken Code/ TryHackMe Write-up | Khalida | [Read More](https://medium.com/p/93fb20d146f6) |
+| Fri, 20 Mar 2026 13:09:25 GMT | Nobody Told Me CTF Would Feel Like This — So I’m Telling You | Muhammad Bilal | [Read More](https://medium.com/p/a86559974ac8) |
+| Fri, 20 Mar 2026 13:05:26 GMT | Managed Security Awareness: Building a Human Firewall Against Cyber Threats | Singular Security Inc. | [Read More](https://medium.com/p/6ccc05cf3698) |
 | Fri, 20 Mar 2026 12:59:15 GMT | CTF Write-Up: Midnight Mishap — Exposed Vim Swap Files | mayhack | [Read More](https://medium.com/p/0a481dc9b03d) |
 | Fri, 20 Mar 2026 12:56:14 GMT | The Complete Guide to Website Monitoring Tools | Ulagiofficial | [Read More](https://medium.com/p/3d07fa927a8c) |
 | Fri, 20 Mar 2026 12:54:59 GMT | Reasons To Engage Expert-Security Team For Corporate Events | Seoteamwxt | [Read More](https://medium.com/p/bb16246ca9d8) |
 | Fri, 20 Mar 2026 12:44:27 GMT | Для чего криптовалюта в 2026 году | Bit Team | [Read More](https://medium.com/p/35dce9e104a7) |
+| Fri, 20 Mar 2026 12:39:38 GMT | PENTINGNYA KEAMANAN INFORMASI | Krisdek | [Read More](https://medium.com/p/700b59838fd9) |
 | Fri, 20 Mar 2026 12:36:46 GMT | GraphQL Security Architecture: AST-Level Defense, Resolver Isolation, and Cost Analysis | Emir Kızılarslan | [Read More](https://medium.com/p/ae62a56f2516) |
 | Fri, 20 Mar 2026 12:36:06 GMT | The Day Your iPhone Became a Target: Inside the “DarkSword” Spyware Threat | Sharanraju | [Read More](https://medium.com/p/7686b52c881c) |
+| Fri, 20 Mar 2026 12:33:49 GMT | VAPT Certification in Turkey — Strengthen Your Cybersecurity Today | CertValue | [Read More](https://medium.com/p/c368f7edfe36) |
 | Fri, 20 Mar 2026 12:30:59 GMT | RAPPORTO FORENSE UFFICIALE
 N° RAE-2026-UAP-ORB-003
 ANALISI FORENSE UAP | Giuseppe Sante Iurescia | [Read More](https://medium.com/p/993caa6d421d) |
@@ -90,27 +115,3 @@ ANALISI FORENSE UAP | Giuseppe Sante Iurescia | [Read More](https://medium.com/p
 | Fri, 20 Mar 2026 08:09:30 GMT | AI Video Analytics Market Outlook 2026–2035 Signals Strong Industry Growth | NIkita Poplai | [Read More](https://medium.com/p/4681d86347f3) |
 | Fri, 20 Mar 2026 08:08:18 GMT | Your AI’s System Prompt Is Not a Security Layer. Here’s Proof. | François Schuers | [Read More](https://medium.com/p/904fcbeb1664) |
 | Fri, 20 Mar 2026 08:08:03 GMT | Your Google API Key Is Showing. Here’s What an Attacker Does Next | Candy Wong | [Read More](https://medium.com/p/e2f65f640521) |
-| Fri, 20 Mar 2026 07:45:54 GMT | Breaking Templates: Solving an SSTI2 Challenge (Jinja2 Exploit Walkthrough) | Hamza Sajid | [Read More](https://medium.com/p/a903e685a353) |
-| Fri, 20 Mar 2026 07:44:50 GMT | Building a Scalable Web in 2026: Solutions for Handling Growing Traffic | Ann R. | [Read More](https://medium.com/p/8622c3bc2393) |
-| Fri, 20 Mar 2026 07:44:19 GMT | Why AI-Powered Localization Is Becoming Essential for Global Businesses | karthik gokul | [Read More](https://medium.com/p/771b34aa492e) |
-| Fri, 20 Mar 2026 07:39:14 GMT | Backup and Recovery for Microsoft Entra | Brian Veldman | [Read More](https://medium.com/p/d4035d812a4c) |
-| Fri, 20 Mar 2026 07:35:55 GMT | How Certified AI Coach Training in India Can Boost Your Career | Academy - Gignaati | [Read More](https://medium.com/p/d1a7df66e822) |
-| Fri, 20 Mar 2026 07:29:45 GMT | AI in Gaming Market Size, Share - Industry Trend & Forecast 2035 | NIkita Poplai | [Read More](https://medium.com/p/a98a0697105c) |
-| Fri, 20 Mar 2026 07:28:31 GMT | The Dark Business Behind Location Tracking Apps: a look into Life360. | Anuvamilansingh | [Read More](https://medium.com/p/f25ee9142fa7) |
-| Fri, 20 Mar 2026 07:28:28 GMT | who_is_this: Axiom CTF 2026 osint writeup | tnmXspark | [Read More](https://medium.com/p/45b519e1f0b7) |
-| Fri, 20 Mar 2026 07:28:15 GMT | Balancing Military Expenditures With Spending For A Nation’s Citizens During Conflict | Zain Anwaar | [Read More](https://medium.com/p/a9848a9e16e3) |
-| Fri, 20 Mar 2026 07:25:46 GMT | Why Your Network Security is Still Failing | Dhanush N | [Read More](https://medium.com/p/608abf1c1298) |
-| Fri, 20 Mar 2026 07:25:41 GMT | How and Why to Fix the New Activity Feature | Lizzie Lizard Brain | [Read More](https://medium.com/p/772fce8c2c15) |
-| Fri, 20 Mar 2026 07:23:15 GMT | 7 Reasons VAPT Testing Should Be Your #1 Security Priority | networsys | [Read More](https://medium.com/p/6f7bb463f6af) |
-| Fri, 20 Mar 2026 07:22:46 GMT | What the 2026 Agentic Coding Trends Report Means for Cybersecurity | Taimur Ijlal | [Read More](https://medium.com/p/381ce9b6c322) |
-| Fri, 20 Mar 2026 07:21:38 GMT | A Day in the Life of a Cyber Security Analyst in Mumbai | Sudarshan Drivedi | [Read More](https://medium.com/p/bbb4834ad204) |
-| Fri, 20 Mar 2026 07:20:31 GMT | The AI Trap More Companies Will Fall Into In 2026: | Shakeel Misgar | [Read More](https://medium.com/p/7b6ba3b245fe) |
-| Fri, 20 Mar 2026 07:17:16 GMT | How does your computer gets an IP on the network? | K. | [Read More](https://medium.com/p/fe76ba1f2a87) |
-| Fri, 20 Mar 2026 07:16:21 GMT | Top Industries Hiring for Ethical Hackers | Giribabu V | [Read More](https://medium.com/p/61d34a869dab) |
-| Fri, 20 Mar 2026 07:14:32 GMT | AI Security Booms in 2026: Why Safety & Compliance Are Must-Haves? | aibookmarks.net | [Read More](https://medium.com/p/10c3c407fadb) |
-| Fri, 20 Mar 2026 07:10:09 GMT | Keep Your Smartphone Running Like New with Antivirus Pro Mobile | Rahul yadav | [Read More](https://medium.com/p/f8052fbd0a91) |
-| Fri, 20 Mar 2026 07:08:21 GMT | 10 Proven Security Camera Business Benefits for 2026 | Doris William | [Read More](https://medium.com/p/e677ab344e80) |
-| Fri, 20 Mar 2026 07:03:52 GMT | Building an OpenClaw Security Vault for AI Agents | one Z | [Read More](https://medium.com/p/ef787a6175d6) |
-| Fri, 20 Mar 2026 07:01:29 GMT | Capstone Cyber Defense Bootcamp by ID-Networkers | Rozid | [Read More](https://medium.com/p/2dcbc6955b97) |
-| Fri, 20 Mar 2026 07:01:00 GMT | Hackerato il router più venduto su Temu. Cosa emerge? | Pejone | [Read More](https://medium.com/p/fbbcd39d7453) |
-| Fri, 20 Mar 2026 07:00:02 GMT | How to Start Your SOC Analyst Career for Free — A Complete Guide for Freshers | Thangaprakash | [Read More](https://medium.com/p/bf468c98cfe8) |
