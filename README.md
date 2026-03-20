@@ -12,10 +12,35 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 12:59:15 GMT | CTF Write-Up: Midnight Mishap — Exposed Vim Swap Files | mayhack | [Read More](https://medium.com/p/0a481dc9b03d) |
+| Fri, 20 Mar 2026 12:56:14 GMT | The Complete Guide to Website Monitoring Tools | Ulagiofficial | [Read More](https://medium.com/p/3d07fa927a8c) |
+| Fri, 20 Mar 2026 12:54:59 GMT | Reasons To Engage Expert-Security Team For Corporate Events | Seoteamwxt | [Read More](https://medium.com/p/bb16246ca9d8) |
+| Fri, 20 Mar 2026 12:44:27 GMT | Для чего криптовалюта в 2026 году | Bit Team | [Read More](https://medium.com/p/35dce9e104a7) |
+| Fri, 20 Mar 2026 12:36:46 GMT | GraphQL Security Architecture: AST-Level Defense, Resolver Isolation, and Cost Analysis | Emir Kızılarslan | [Read More](https://medium.com/p/ae62a56f2516) |
+| Fri, 20 Mar 2026 12:36:06 GMT | The Day Your iPhone Became a Target: Inside the “DarkSword” Spyware Threat | Sharanraju | [Read More](https://medium.com/p/7686b52c881c) |
+| Fri, 20 Mar 2026 12:30:59 GMT | RAPPORTO FORENSE UFFICIALE
+N° RAE-2026-UAP-ORB-003
+ANALISI FORENSE UAP | Giuseppe Sante Iurescia | [Read More](https://medium.com/p/993caa6d421d) |
+| Fri, 20 Mar 2026 12:29:51 GMT | Job-Oriented IT Courses in Mumbai | Ntech Global Solutions | [Read More](https://medium.com/p/7b46750b887e) |
+| Fri, 20 Mar 2026 12:29:03 GMT | Cara Instal Parrot OS 7.1 (Security Edition) | Fixploit03 | [Read More](https://medium.com/p/181d2edb7325) |
+| Fri, 20 Mar 2026 12:26:53 GMT | Top AI E-Wallet App Development Companies in 2026 (Features, Cost & Guide) | Shivam Sharma | [Read More](https://medium.com/p/16b878650902) |
+| Fri, 20 Mar 2026 12:26:37 GMT | picoCTF challange : Hidden Cipher 1 | Orbitz | [Read More](https://medium.com/p/d27adefcff67) |
+| Fri, 20 Mar 2026 12:24:13 GMT | Dev Diaries - TryHackMe - OSINT | Jose Praveen | [Read More](https://medium.com/p/0d8a8e1fb157) |
+| Fri, 20 Mar 2026 12:22:39 GMT | GraphQL Vulnerability Analysis: Schema Misconfigurations, Resolver Abuse, and Backend Injections | Emir Kızılarslan | [Read More](https://medium.com/p/3eac34cacce9) |
+| Fri, 20 Mar 2026 12:15:05 GMT | Why Hands On Practice Is The Only Way To Master Cybersecurity | Alex Carter | [Read More](https://medium.com/p/4bff8136e500) |
+| Fri, 20 Mar 2026 12:10:53 GMT | Kubernetes Security & Access: A Deep Dive | Hristo Stoychev | [Read More](https://medium.com/p/d85cc1525b3b) |
+| Fri, 20 Mar 2026 12:07:45 GMT | MCP Security Is Becoming the Weakest Link in Enterprise AI Agent Architectures | AGAT Software | [Read More](https://medium.com/p/6423053ba73f) |
+| Fri, 20 Mar 2026 12:05:03 GMT | Asset Recovery & Cybersecurity Support in 2026: How to Trace and Protect Your Digital Assets | Andrew Tiedt | [Read More](https://medium.com/p/8cb4a1b34109) |
+| Fri, 20 Mar 2026 12:01:11 GMT | Cyber Range Training for Students: From Beginner to Pro | cyber security Updates | [Read More](https://medium.com/p/03130afc2a88) |
+| Fri, 20 Mar 2026 11:44:04 GMT | #Searchlight OSINT Writeup | Sahithya G15-CS | [Read More](https://medium.com/p/d8cc88e7e783) |
+| Fri, 20 Mar 2026 11:36:52 GMT | Top Recon Techniques That Still Work in 2026 (Bug Bounty) | Deepanshu Deep | [Read More](https://medium.com/p/27ee19c108ca) |
+| Fri, 20 Mar 2026 11:27:30 GMT | Security Requirements Are Not Assurance: The Missing SSE Function on Large Projects | Peter Hillier/Halton | [Read More](https://medium.com/p/391366e85138) |
+| Fri, 20 Mar 2026 11:25:48 GMT | AI Agents Are The New Ad Network (And You Didn’t Consent) | Learn With Hatty | [Read More](https://medium.com/p/cf1bbdc204f1) |
 | Fri, 20 Mar 2026 11:22:39 GMT | Best Cloud Infrastructure Management Services in India | Jameswilliamservices | [Read More](https://medium.com/p/de2f981e9795) |
 | Fri, 20 Mar 2026 11:21:50 GMT | CTF Write-Up: Hidden RFI Secret in VendorsKart | mayhack | [Read More](https://medium.com/p/ad8b671f6536) |
 | Fri, 20 Mar 2026 11:20:32 GMT | The Entropy Equation: Why Modern Security Demands Cryptographically Secure Passwords in 2026 | James Robinson | [Read More](https://medium.com/p/33e24a372e11) |
 | Fri, 20 Mar 2026 11:13:30 GMT | Cybersecurity Consulting Services: Protecting Your Business in a Digital-First World | Nihar | [Read More](https://medium.com/p/450970dd1aa3) |
+| Fri, 20 Mar 2026 11:11:34 GMT | Using invariants for Threat Hunting and SOC investigations | N0T3 | [Read More](https://medium.com/p/ddeeb311abcb) |
 | Fri, 20 Mar 2026 11:04:27 GMT | How NetSuite Secures Enterprise Data: A Practical Breakdown of Its Security Architecture | Linkederp | [Read More](https://medium.com/p/cabd611c41ea) |
 | Fri, 20 Mar 2026 11:00:09 GMT | Claudy Day: The Attack Chain That Turns an AI Chat Into a Data-Leak Pipeline | Ilias Armenakis | [Read More](https://medium.com/p/0fdc558aa36b) |
 | Fri, 20 Mar 2026 10:56:16 GMT | Breaking the Checkout: Price Manipulation | Parth Narula | [Read More](https://medium.com/p/a0779eee3af4) |
@@ -89,26 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 07:01:29 GMT | Capstone Cyber Defense Bootcamp by ID-Networkers | Rozid | [Read More](https://medium.com/p/2dcbc6955b97) |
 | Fri, 20 Mar 2026 07:01:00 GMT | Hackerato il router più venduto su Temu. Cosa emerge? | Pejone | [Read More](https://medium.com/p/fbbcd39d7453) |
 | Fri, 20 Mar 2026 07:00:02 GMT | How to Start Your SOC Analyst Career for Free — A Complete Guide for Freshers | Thangaprakash | [Read More](https://medium.com/p/bf468c98cfe8) |
-| Fri, 20 Mar 2026 06:56:57 GMT | SOC (Day 1)- Investigation — PCAP Analysis | Adithya Hettiarachchi | [Read More](https://medium.com/p/b1925c1284de) |
-| Fri, 20 Mar 2026 06:54:35 GMT | Why You Should Build Outside Your Cybersecurity Job | EINITIAL24 | [Read More](https://medium.com/p/fa9f70a8e27c) |
-| Fri, 20 Mar 2026 06:54:12 GMT | Why Data Lakes Are Replacing Traditional SIEM Architectures | NetWitness | [Read More](https://medium.com/p/cd84ab6d75bf) |
-| Fri, 20 Mar 2026 06:52:32 GMT | Buy Car Dashcams, Body Cams & Jumpstarters Online — Camstore India | Support CAMSTORE | [Read More](https://medium.com/p/e86a17436dbc) |
-| Fri, 20 Mar 2026 06:50:09 GMT | The DoJ Just Hit the Botnets Behind a 31.4 Tbps DDoS Attack — | Germano Costi | [Read More](https://medium.com/p/185b5723cd80) |
-| Fri, 20 Mar 2026 06:44:01 GMT | It's Everywhere: A Kutty Bug Bounty Story | Rajiii | [Read More](https://medium.com/p/cddcffefec54) |
-| Fri, 20 Mar 2026 06:43:14 GMT | Your Social Media Is a Goldmine for Hackers (Here’s How They Use It Against You) | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/7e6352a3e6c7) |
-| Fri, 20 Mar 2026 06:42:09 GMT | Cybersecurity Basics Every Developer Should Know (Without the Jargon) | Velspark Technologies | [Read More](https://medium.com/p/470ce88d630c) |
-| Fri, 20 Mar 2026 06:41:53 GMT | What Does an Apartment Doorman Do? | Doris William | [Read More](https://medium.com/p/33f2213c5892) |
-| Fri, 20 Mar 2026 06:39:38 GMT | Comment élaborer une bonne Stratégie Cyber en 3 étapes | Waide Danko | [Read More](https://medium.com/p/43ff1b83eeff) |
-| Fri, 20 Mar 2026 06:33:44 GMT | Secure Notes — Android Content Provider Challenge | Anwer | [Read More](https://medium.com/p/f8334364949d) |
-| Fri, 20 Mar 2026 06:33:18 GMT | Guess Me — Android Deep Link Challenge | Anwer | [Read More](https://medium.com/p/5f97ea8ebdab) |
-| Fri, 20 Mar 2026 06:29:30 GMT | Offensive AI Security: Essentials You Should Know | Ryan Brooks | [Read More](https://medium.com/p/9176530decf6) |
-| Fri, 20 Mar 2026 06:28:02 GMT | The Corix Partners Friday Reading List — March 20, 2026 | JC Gaillard | [Read More](https://medium.com/p/2e128485268b) |
-| Fri, 20 Mar 2026 06:24:52 GMT | Pentingnya Keamanan Informasi (Mengacu pada Mark Stamp Chapter 1) | Kaila Aura | [Read More](https://medium.com/p/8175d5fb8307) |
-| Fri, 20 Mar 2026 06:23:06 GMT | Beginner’s Guide to AWS IAM: Understanding Permissions and Security | Om Dnyaneshwar Bhamare | [Read More](https://medium.com/p/9955e8ba675f) |
-| Fri, 20 Mar 2026 06:22:06 GMT | What Actually happens When You Click “Login With Google”? | Rishav Kapil | [Read More](https://medium.com/p/296f0c548185) |
-| Fri, 20 Mar 2026 06:21:02 GMT | Automation Bug Bounty: From Recon to Real Bugs Using Powerful Tools & Smart Workflows | Monika sharma | [Read More](https://medium.com/p/ad6913949125) |
-| Fri, 20 Mar 2026 06:14:09 GMT | Write-Up CyberDefenders — WebStrike Lab | ToikZakiyudin | [Read More](https://medium.com/p/c821102e6cdc) |
-| Fri, 20 Mar 2026 06:11:27 GMT | A Diamond at 10: The Transparency of Truth and the Wind at My Back | Magmastar | [Read More](https://medium.com/p/3b2cf9b84894) |
-| Fri, 20 Mar 2026 06:09:35 GMT | Machine-Speed Attacks: The 2026 Era of Zero-Hour Exploitation | Cynox Security LLP. | [Read More](https://medium.com/p/58fa5fc6c6a4) |
-| Fri, 20 Mar 2026 06:01:55 GMT | Write-Up HackTheBox — AoTR 1 & AoTR 2 | ToikZakiyudin | [Read More](https://medium.com/p/c99a6e950be5) |
-| Fri, 20 Mar 2026 05:54:35 GMT | Stop Scattering Guardrails: Centralize Your AI Agent Security with ClawVault | Shujia Ye | [Read More](https://medium.com/p/aaca2bf0c545) |
