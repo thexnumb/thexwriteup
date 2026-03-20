@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 11:22:39 GMT | Best Cloud Infrastructure Management Services in India | Jameswilliamservices | [Read More](https://medium.com/p/de2f981e9795) |
+| Fri, 20 Mar 2026 11:21:50 GMT | CTF Write-Up: Hidden RFI Secret in VendorsKart | mayhack | [Read More](https://medium.com/p/ad8b671f6536) |
+| Fri, 20 Mar 2026 11:20:32 GMT | The Entropy Equation: Why Modern Security Demands Cryptographically Secure Passwords in 2026 | James Robinson | [Read More](https://medium.com/p/33e24a372e11) |
+| Fri, 20 Mar 2026 11:13:30 GMT | Cybersecurity Consulting Services: Protecting Your Business in a Digital-First World | Nihar | [Read More](https://medium.com/p/450970dd1aa3) |
+| Fri, 20 Mar 2026 11:04:27 GMT | How NetSuite Secures Enterprise Data: A Practical Breakdown of Its Security Architecture | Linkederp | [Read More](https://medium.com/p/cabd611c41ea) |
+| Fri, 20 Mar 2026 11:00:09 GMT | Claudy Day: The Attack Chain That Turns an AI Chat Into a Data-Leak Pipeline | Ilias Armenakis | [Read More](https://medium.com/p/0fdc558aa36b) |
+| Fri, 20 Mar 2026 10:56:16 GMT | Breaking the Checkout: Price Manipulation | Parth Narula | [Read More](https://medium.com/p/a0779eee3af4) |
+| Fri, 20 Mar 2026 10:55:59 GMT | QR codes in 2026: smart use cases and the safety rules most teams ignore | M. James Wilson | [Read More](https://medium.com/p/920cd478f47a) |
+| Fri, 20 Mar 2026 10:52:21 GMT | Cloud Security Solutions: Protect Your Business in the Digital Age | Whizcamp LLC | [Read More](https://medium.com/p/209b892f3a80) |
+| Fri, 20 Mar 2026 10:38:26 GMT | Building a Secure CI/CD Pipeline: SAST, DAST, IaC & Cloud Security (AWS/Azure) | Balayan Mher | [Read More](https://medium.com/p/03db4514236d) |
+| Fri, 20 Mar 2026 10:35:13 GMT | The Winter of Egos | Alexandra Astrid | [Read More](https://medium.com/p/9683187ee9ab) |
 | Fri, 20 Mar 2026 10:13:09 GMT | Dios sí juega a los dados | SYNAPTA | [Read More](https://medium.com/p/9f9d00485866) |
 | Fri, 20 Mar 2026 10:12:59 GMT | Operational Continuity Through Tekkis’s Proactive IT Service and Cyber Defense in Denver | Tekkis | [Read More](https://medium.com/p/8b817ed52571) |
 | Fri, 20 Mar 2026 10:11:20 GMT | Intelligent Workflow Systems for Modern Businesses | n8ndevelopers | [Read More](https://medium.com/p/ab9f467a5afc) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 06:09:35 GMT | Machine-Speed Attacks: The 2026 Era of Zero-Hour Exploitation | Cynox Security LLP. | [Read More](https://medium.com/p/58fa5fc6c6a4) |
 | Fri, 20 Mar 2026 06:01:55 GMT | Write-Up HackTheBox — AoTR 1 & AoTR 2 | ToikZakiyudin | [Read More](https://medium.com/p/c99a6e950be5) |
 | Fri, 20 Mar 2026 05:54:35 GMT | Stop Scattering Guardrails: Centralize Your AI Agent Security with ClawVault | Shujia Ye | [Read More](https://medium.com/p/aaca2bf0c545) |
-| Fri, 20 Mar 2026 05:54:08 GMT | AI Made Easy: Your AI Agent Can Be Silently Hijacked | Universal_Photon | [Read More](https://medium.com/p/9d9354d72c5e) |
-| Fri, 20 Mar 2026 05:45:47 GMT | Cloudflare WAF Bypass Leading to Reflected XSS via SVG Injection | Md Saikat | [Read More](https://medium.com/p/8712de3830ae) |
-| Fri, 20 Mar 2026 05:33:31 GMT | Weekly Threat Intelligence Report 16 Mar 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/662346fed3fc) |
-| Fri, 20 Mar 2026 05:31:00 GMT | Is Ali Larijani a “Shadow Leader”? | Gökçen Kunukcu | [Read More](https://medium.com/p/9f50175520d6) |
-| Fri, 20 Mar 2026 05:29:39 GMT | Writeup VulnShop — Vulnerable E-Commerce API Penetration Testing Lab | Easpy | [Read More](https://medium.com/p/f71ce845af74) |
-| Fri, 20 Mar 2026 05:26:27 GMT | WorldView Is Not Intelligence. It Is a Dashboard | Sujal Meghwal | [Read More](https://medium.com/p/94bcff910c10) |
-| Fri, 20 Mar 2026 05:21:57 GMT | Why Proactive Cyber Defense Is the Future of Enterprise Security? | Microscan Communications | [Read More](https://medium.com/p/a6a1ab055d2a) |
-| Fri, 20 Mar 2026 05:21:00 GMT | Best Practices for Securing Oracle APEX Applications | Malek M.Edresi | [Read More](https://medium.com/p/8a35bd0374aa) |
-| Fri, 20 Mar 2026 05:14:46 GMT | How are modern symmetric ciphers secure against quantum algorithms? | Gokul B Alex | [Read More](https://medium.com/p/4839664b6630) |
-| Fri, 20 Mar 2026 05:06:46 GMT | NTLM Is Dead. Your Password Hash Isn’t: Abusing SamrSetInformationUser in Active Directory | A Belous | [Read More](https://medium.com/p/8de03eea29cf) |
-| Fri, 20 Mar 2026 05:03:14 GMT | Implementing the “Atomic Control” — A Beginner-Friendly AppLocker Lab | Harshit Chiwande | [Read More](https://medium.com/p/633de3d88d7b) |
