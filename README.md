@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Mar 2026 16:57:39 GMT | Exploitation Campaigns and KEV additions Marked an Intensifying Threat Landscape This Week | Loginsoft | [Read More](https://medium.com/p/3a7b665643ca) |
+| Fri, 20 Mar 2026 16:57:15 GMT | Alert Overload in Cybersecurity: Why False Positives Are Slowing Down Real Threat Detection | Chetan Seripally | [Read More](https://medium.com/p/d50aceb880d0) |
+| Fri, 20 Mar 2026 16:52:54 GMT | Capstone Project: Analisis SIEM (Wazuh) & Network/Memory Forensics | satoshi_nakamura | [Read More](https://medium.com/p/2770d1a54570) |
+| Fri, 20 Mar 2026 16:52:12 GMT | # How to Consolidate Your AppSec Tools Into One Platform | Proscan.one | [Read More](https://medium.com/p/07759f9b7e6f) |
+| Fri, 20 Mar 2026 16:51:11 GMT | Wardrobe Portal | DharmaRizky | [Read More](https://medium.com/p/826dd53e3593) |
+| Fri, 20 Mar 2026 16:49:59 GMT | TUGAS MINGGU KEDUA | Sumantaraiketut | [Read More](https://medium.com/p/962cfcdf1eda) |
+| Fri, 20 Mar 2026 16:45:33 GMT | We’re Building a SOC — Here’s What’s Happening So Far | Aditya Wibowo | [Read More](https://medium.com/p/d7e7e12538ad) |
+| Fri, 20 Mar 2026 16:45:14 GMT | The Silence Before the Breach: How AI Became Crime’s Most Obedient Servant | Vasant Bhadauria | [Read More](https://medium.com/p/fa8004710ee7) |
+| Fri, 20 Mar 2026 16:37:02 GMT | AI Safety Without Running Code Is Just a Slide Deck | Mattijs Moens | [Read More](https://medium.com/p/236df13c38b3) |
+| Fri, 20 Mar 2026 16:34:06 GMT | TCP, UDP, and the Three-Way Handshake Explained: A Simple Guide for Cybersecurity Beginners | Ferdi Edogawa | [Read More](https://medium.com/p/68ce26435906) |
+| Fri, 20 Mar 2026 16:32:47 GMT | Memory Leak — #44 | Astasia Myers | [Read More](https://medium.com/p/000c27c98c69) |
+| Fri, 20 Mar 2026 16:30:01 GMT | Q-day is coming, ready or not! | Jules May | [Read More](https://medium.com/p/a37d1afa7c63) |
+| Fri, 20 Mar 2026 16:23:51 GMT | Wordpress Hacking | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/599bf729e738) |
 | Fri, 20 Mar 2026 16:01:02 GMT | Spring is here. Easter is coming. Experiences are 30% off. | VidhyodayTrips | [Read More](https://medium.com/p/35cebfb158e8) |
 | Fri, 20 Mar 2026 15:45:27 GMT | Why Food Prices Change | Sumedha | [Read More](https://medium.com/p/a82c7b1e258f) |
 | Fri, 20 Mar 2026 15:35:54 GMT | DarkSword: The iPhone Spyware That Steals Everything in Seconds — And You’d Never Know | Hassanimtiaz | [Read More](https://medium.com/p/1e4b38fbe334) |
@@ -102,16 +115,3 @@ ANALISI FORENSE UAP | Giuseppe Sante Iurescia | [Read More](https://medium.com/p
 | Fri, 20 Mar 2026 10:11:20 GMT | Intelligent Workflow Systems for Modern Businesses | n8ndevelopers | [Read More](https://medium.com/p/ab9f467a5afc) |
 | Fri, 20 Mar 2026 10:09:03 GMT | HTTP Protokolü ve Web Mimarisi (HTTP in Detail) | Onur Öztürk | [Read More](https://medium.com/p/4f0865eace5e) |
 | Fri, 20 Mar 2026 10:07:29 GMT | Router, Switch, Firewall ve VPN Nedir? | Onur Öztürk | [Read More](https://medium.com/p/b93b05521459) |
-| Fri, 20 Mar 2026 10:01:53 GMT | What Is the Best Cyber Security Course in India for Beginners in 2026? | Cyberdojoyt | [Read More](https://medium.com/p/352b11c818bc) |
-| Fri, 20 Mar 2026 09:56:00 GMT | Why the Policy-First Approach Remains Underrated in SMEs | Gaurav Shukla | [Read More](https://medium.com/p/c020d8b3609b) |
-| Fri, 20 Mar 2026 09:51:06 GMT | The Unprecedented Army Chief and the Military’s Fourth Generation | Naing Min Khant | [Read More](https://medium.com/p/89a09b5b6dd1) |
-| Fri, 20 Mar 2026 09:49:02 GMT | Nepal’s Digital Future Needs Systems, Not Just Software | Saroj | [Read More](https://medium.com/p/4f398e0a89ac) |
-| Fri, 20 Mar 2026 09:48:30 GMT | Why Attackers Love Corporate Complexity | Digital Defense | [Read More](https://medium.com/p/32ee658a9b9b) |
-| Fri, 20 Mar 2026 09:46:27 GMT | DockerLabs Writeup — Wallet (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a003d6ee6cfa) |
-| Fri, 20 Mar 2026 09:45:00 GMT | Browser Extensions: The Most Ignored Cyber Threat of 2026 | Lakshita Gulliya | [Read More](https://medium.com/p/47c9f852747a) |
-| Fri, 20 Mar 2026 09:44:46 GMT | Secrets, Conspiracies, and Area 54: The Hidden World You’re Not Meant to See | H.P.B.Kaveesha | [Read More](https://medium.com/p/9d8de8ffa096) |
-| Fri, 20 Mar 2026 09:31:00 GMT | When Being Too Good at Your Job Becomes a Replaceable Offense | Namir Sagheenanajar | [Read More](https://medium.com/p/18a46b7f69f9) |
-| Fri, 20 Mar 2026 09:26:49 GMT | These Two Terms Aren’t Interchangeable. Here’s Why It Matters | Redfox Security | [Read More](https://medium.com/p/f21359d9004d) |
-| Fri, 20 Mar 2026 09:22:23 GMT | Why the 2026 ACM Turing Award for Quantum Cryptography Is a Milestone for Post‑Quantum Security | Shreya Palase | [Read More](https://medium.com/p/a381875d944e) |
-| Fri, 20 Mar 2026 09:21:27 GMT | Roadmap to Cybersecurity for Beginners | Sredivyaa | [Read More](https://medium.com/p/2fd4be01a2a6) |
-| Fri, 20 Mar 2026 09:20:51 GMT | Threat Intelligence is Useless Without Context | Paritosh | [Read More](https://medium.com/p/e8a2db889965) |
