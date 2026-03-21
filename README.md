@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 19:19:38 GMT | Direksiyon Gerçekten Sizin Elinizde mi? Yeni Nesil Otomobilleri Hacklemek | Efe Cengiz | [Read More](https://medium.com/p/3988e90f4e42) |
+| Sat, 21 Mar 2026 19:18:58 GMT | How I Find the Real IP Behind Cloudflare (When It’s Not Supposed to Be Visible) | Sonu Chaudhary | [Read More](https://medium.com/p/cd48e2ce5e62) |
+| Sat, 21 Mar 2026 19:05:31 GMT | Resolviendo “El Amigo” en The Hackers Labs | IgnoranzaSolare | [Read More](https://medium.com/p/6441385bb347) |
+| Sat, 21 Mar 2026 19:00:07 GMT | A.I. Governance, Risk, and Compliance (GRC): Why Most People Still Don’t Get It | Regan Temudo | [Read More](https://medium.com/p/429cc1506342) |
+| Sat, 21 Mar 2026 18:48:55 GMT | JWT vs Session Authentication: When Should You Use Each? | Anjali Garg | [Read More](https://medium.com/p/4c76d5b5cba0) |
+| Sat, 21 Mar 2026 18:42:33 GMT | Cybersecurity: AI’s Impact | Andrew Hanson | [Read More](https://medium.com/p/003504f8b0d7) |
 | Sat, 21 Mar 2026 18:34:00 GMT | Why DeFi Needs Vault Infrastructure | Kryptolord | [Read More](https://medium.com/p/eae088dcd973) |
 | Sat, 21 Mar 2026 18:33:59 GMT | Title: “The Silent Breach — 2026” | Topudhan | [Read More](https://medium.com/p/135d38173e36) |
 | Sat, 21 Mar 2026 18:31:27 GMT | IP Ünvanlamasının İşləmə Prinsipi | Hamid Aslanov | [Read More](https://medium.com/p/bcf936b71501) |
+| Sat, 21 Mar 2026 18:31:00 GMT | Where are the robots — robots.txt Enumeration | recoxy_rangers | [Read More](https://medium.com/p/e824ac8d95d0) |
 | Sat, 21 Mar 2026 18:27:38 GMT | Understanding ISP Traffic Shaping: A Practical Analysis of Bandwidth Limits | Abdelnour Osman (DarkT) | [Read More](https://medium.com/p/ad91bfcc9c46) |
 | Sat, 21 Mar 2026 18:21:31 GMT | How to Setup a Completely Secure Home Network From Scratch (2026 Guide) | Temma | [Read More](https://medium.com/p/c28c1d76c78e) |
 | Sat, 21 Mar 2026 18:21:02 GMT | Windows Event Logs | Hitesh kumar | [Read More](https://medium.com/p/a779bfff0048) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 11:45:49 GMT | The Hacker’s guide to meaningful work | Abhinav Jain | [Read More](https://medium.com/p/beed6fe21943) |
 | Sat, 21 Mar 2026 11:33:41 GMT | Breaking the Wall: A Deep Dive Into WAF Detection and Bypass Techniques | Sonu Chaudhary | [Read More](https://medium.com/p/e880be92d0c0) |
 | Sat, 21 Mar 2026 11:33:28 GMT | Cross Side Scripting | Abbhi | [Read More](https://medium.com/p/92e41471fe84) |
-| Sat, 21 Mar 2026 11:31:12 GMT | The Ultimate Growth Engine for Modern Businesses: HY Gravity Solutions | Hygravity | [Read More](https://medium.com/p/fdaf0daf0dc1) |
-| Sat, 21 Mar 2026 11:29:10 GMT | Myanmar’s Min Aung Hlaing struggles for political longevity | Naing Min Khant | [Read More](https://medium.com/p/cde5491f676f) |
-| Sat, 21 Mar 2026 11:27:12 GMT | Myanmar’s Min Aung Hlaing sets the groundwork for a possible political exit | Naing Min Khant | [Read More](https://medium.com/p/d7c3cc89b9dc) |
-| Sat, 21 Mar 2026 11:22:16 GMT | The Offsec Ninjas | The Cyber Student | [Read More](https://medium.com/p/9ec3d5371612) |
-| Sat, 21 Mar 2026 11:20:04 GMT | Not every heart knows how to hold your.. | Chanchal Sharma | [Read More](https://medium.com/p/6f3fe95f259e) |
-| Sat, 21 Mar 2026 11:16:34 GMT | SharePoint Online Monitoring - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/a13bcb87cd9d) |
-| Sat, 21 Mar 2026 11:15:17 GMT | When Security Tools Are Compromised: Trivy Incident Highlights Hidden Risks in DevSecOps Pipelines | Jas | [Read More](https://medium.com/p/6f9aebeb050e) |
