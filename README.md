@@ -14,6 +14,7 @@ A list of the latest fetched articles from RSS feeds.
 |------|-------|--------|------|
 | Sat, 21 Mar 2026 17:21:27 GMT | Why Choosing the Right App Development Company in India Can Transform Your Business | LoudOwls | [Read More](https://medium.com/p/2f8fa8316e98) |
 | Sat, 21 Mar 2026 17:21:17 GMT | Reapersec | Federalbrother | [Read More](https://medium.com/p/90ff8b7c8e06) |
+| Sat, 21 Mar 2026 17:20:22 GMT | 29 Million Secrets Leaked on GitHub — Detect Secret Leaks in AI-Generated Code (Part 1) | Prince Bharti | [Read More](https://medium.com/p/5e3037e43c89) |
 | Sat, 21 Mar 2026 17:14:52 GMT | Malicious Script Injection in Trivy Exposes Critical Risks in CI/CD Supply Chains | Chetan Seripally | [Read More](https://medium.com/p/efcb1dd20647) |
 | Sat, 21 Mar 2026 17:10:46 GMT | CVE-2026–22812: How I Got RCE on a 71k-Star AI Coding Tool With Zero Authentication | Dharanis | [Read More](https://medium.com/p/7524fbc3317f) |
 | Sat, 21 Mar 2026 17:09:24 GMT | Hunting Threats in Microsoft Defender XDR: What Actually Works — Pt 2 | Defend Microsoft365 now! | [Read More](https://medium.com/p/4100621f05e1) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 10:43:52 GMT | The Hidden Attack Surface: Why AI Skill Files Need Security Auditing | Sourav Mukherjee | [Read More](https://medium.com/p/cc205d9d0df5) |
 | Sat, 21 Mar 2026 10:43:50 GMT | JWT: A Deep Dive into Algorithm Confusion | Redfox Security | [Read More](https://medium.com/p/1f1d52e7ed89) |
 | Sat, 21 Mar 2026 10:42:54 GMT | Lost in the Vertical City: How My Journey to Chongqing Led to a Modern-Day Nightmare | Jeedaa | [Read More](https://medium.com/p/d5a743729bfa) |
-| Sat, 21 Mar 2026 10:40:28 GMT | Unauthenticated to Full DB Dump: FreePBX tizimidagi CVE-2025–57819 zaifligi real caseda | 3c7000 | [Read More](https://medium.com/p/f578ad195f1e) |
