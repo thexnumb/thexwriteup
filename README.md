@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 21:20:35 GMT | XML and JSON Injection - When the Data Your Payment Gateway Trusts Is Lying to It | Rufus Kehinde | [Read More](https://medium.com/p/1d1ee017bdf6) |
+| Sat, 21 Mar 2026 21:13:22 GMT | Entwickler alexgamingdev kündigt technische Lösung für Windows 11-Kompatibilität an | Alexander Dennhoven | [Read More](https://medium.com/p/55cb568cc941) |
+| Sat, 21 Mar 2026 21:12:42 GMT | Designing Security Controls into SaaS Applications: Beyond Login and MFA | Foluso Olateju | [Read More](https://medium.com/p/96a5b9b47d45) |
+| Sat, 21 Mar 2026 21:08:35 GMT | The Complete OpenSSL & TLS Debugging Guide: From Root CA to Kubernetes | Amolpratap Singh | [Read More](https://medium.com/p/b0d9f9dfcda3) |
+| Sat, 21 Mar 2026 21:00:45 GMT | Why I’m Starting This Blog: AI for Real-World, Security-Critical Systems | Aditya Ladage | [Read More](https://medium.com/p/617e6cdb7db1) |
 | Sat, 21 Mar 2026 20:43:52 GMT | Hello World: A New Beginning and Three Distinct Journeys 
 Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p/0d2e2d0387cc) |
 | Sat, 21 Mar 2026 20:37:31 GMT | Using Nmap | Kiran Limbu Phudong | [Read More](https://medium.com/p/0ed6143fccaa) |
@@ -108,8 +113,3 @@ Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p
 | Sat, 21 Mar 2026 13:00:19 GMT | APIs Explained Like Traveling Abroad to Get Over Your Ex | Varichmaes Pongparnich | [Read More](https://medium.com/p/8fb94f1b657d) |
 | Sat, 21 Mar 2026 12:56:49 GMT | The Ultimate Cybersecurity Learning Roadmap (With Discounted Courses) | CyberBruhArmy | [Read More](https://medium.com/p/df0023b3000d) |
 | Sat, 21 Mar 2026 12:52:21 GMT | Otonom Yapay Zeka Ajanları Şirketleri Zarara Uğratabilir Mi? “Agent of Chaos” Deneyi | Tuğkan Özkan | [Read More](https://medium.com/p/307654b3e6ee) |
-| Sat, 21 Mar 2026 12:48:29 GMT | Unprotected Admin Functionality — Portswiger writeups | Anonymousd | [Read More](https://medium.com/p/71578d8da906) |
-| Sat, 21 Mar 2026 12:48:04 GMT | How to Build Our Own Fortified Ray Kingdom on GKE | Kateryna Hrytsaienko | [Read More](https://medium.com/p/881e31d0f386) |
-| Sat, 21 Mar 2026 12:39:25 GMT | Cybersecurity: Why It’s the Backbone of Every Organization. | Karen | [Read More](https://medium.com/p/4a5b8642ee46) |
-| Sat, 21 Mar 2026 12:30:25 GMT | KerBug — the simplest Linux-Binary Debugger ever build | Kernel Phantom | [Read More](https://medium.com/p/21e44962a0a5) |
-| Sat, 21 Mar 2026 12:27:23 GMT | HTB Administrator Walkthrough | Hollacosta | [Read More](https://medium.com/p/a98065c793a4) |
