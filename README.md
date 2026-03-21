@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 16:22:28 GMT | Understanding TCP & UDP: The Backbone of Data Communication | Ndu | [Read More](https://medium.com/p/6623e47a4acb) |
+| Sat, 21 Mar 2026 16:17:15 GMT | AI-Assisted Security Engineering | Ayomide Odukoya | [Read More](https://medium.com/p/37b2ca7044e9) |
+| Sat, 21 Mar 2026 16:07:04 GMT | “The Interface Leverage Principle: First Documentation of Epistemic Substrate Loading, Submaximal… | Berend Watchus | [Read More](https://medium.com/p/5e79a5adc162) |
+| Sat, 21 Mar 2026 16:05:41 GMT | From DevOps to DevSecOps: How I Used AI to Detect Vulnerabilities Faster | pradip khatale | [Read More](https://medium.com/p/328ad4a4603d) |
+| Sat, 21 Mar 2026 16:04:31 GMT | The Security Risk Nobody Talks About With AI Agents | Subhan Ali | [Read More](https://medium.com/p/94dde71e6905) |
+| Sat, 21 Mar 2026 15:58:07 GMT | BARZAKH-521: A Novel CSPRNG via Quadratic Torsion and Anti-Linear Dispersion over a Mersenne Prime… | A.Khettany | [Read More](https://medium.com/p/cbb0ed6741c8) |
+| Sat, 21 Mar 2026 15:54:20 GMT | Avoiding reporting false positive impossible travel alerts | Osama Elghazaly | [Read More](https://medium.com/p/41f3bcb58a17) |
+| Sat, 21 Mar 2026 15:50:55 GMT | Internet-Exposed ICS and Electricity Systems in 2026: Real Exposure, Real Noise, and Why Careful… | Heinrihs Skrodelis | [Read More](https://medium.com/p/48af601ecdc6) |
+| Sat, 21 Mar 2026 15:50:11 GMT | We built an encrypted email client with post-quantum cryptography | Aster | [Read More](https://medium.com/p/63b34be2faf3) |
+| Sat, 21 Mar 2026 15:47:20 GMT | Everyone Told Me DNS is a Phonebook. They Lied. | Varnith Yemula | [Read More](https://medium.com/p/0ff7a1023248) |
 | Sat, 21 Mar 2026 15:43:44 GMT | Cloud Technology for Small Businesses | Eyitayoit | [Read More](https://medium.com/p/d338db749c92) |
+| Sat, 21 Mar 2026 15:43:18 GMT | Module 1: Introduction to Cybersecurity Quiz Answers — Fortinet | Harshikachauhan | [Read More](https://medium.com/p/97d2fbb8e3d1) |
 | Sat, 21 Mar 2026 15:35:31 GMT | Conversor Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/8826d24b8b0b) |
 | Sat, 21 Mar 2026 15:31:01 GMT | Why Your DevOps Pipeline Is Actually Your Most Critical Security Boundary | Abhishek Pahuja | [Read More](https://medium.com/p/935f7f5598fa) |
 | Sat, 21 Mar 2026 15:25:02 GMT | StegoRSA Picoctf | Khanakifali | [Read More](https://medium.com/p/401fa9346987) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 09:27:57 GMT | The Future of Dark Web Threat Intelligence, Market Dynamics, Technological Commoditization, and… | David SEHYEON Baek | [Read More](https://medium.com/p/e973640756f7) |
 | Sat, 21 Mar 2026 09:23:58 GMT | The Most Dangerous Things in Your AWS Account | Sena Yakut | [Read More](https://medium.com/p/524758aba94a) |
 | Sat, 21 Mar 2026 09:19:10 GMT | Managing Every Digital Identity: A Look at WSO2 Access Manager | Ayorafernando | [Read More](https://medium.com/p/42cbe26052af) |
-| Sat, 21 Mar 2026 09:18:49 GMT | Mr Robot Simulation: Initial Access | Allen Ace | [Read More](https://medium.com/p/e26982a7eede) |
-| Sat, 21 Mar 2026 09:17:12 GMT | LetsDefend - SOC135 — Multiple FTP Connection Attempt | ocharek | [Read More](https://medium.com/p/aa067275ee6c) |
-| Sat, 21 Mar 2026 09:16:39 GMT | Startups Pause Amid Geopolitical Conflict | Abhijit Freelancepreneur | [Read More](https://medium.com/p/110fb172649b) |
-| Sat, 21 Mar 2026 09:16:00 GMT | Why LLMs Hallucinate Vulnerabilities Part One: The Model Ghost | Aadith Sukumar | [Read More](https://medium.com/p/08ebbae80127) |
-| Sat, 21 Mar 2026 09:10:51 GMT | Ubuntu Server vs Debian: A Beginner’s Guide to Two of Linux’s Most Powerful Server Operating… | Crispusadrian | [Read More](https://medium.com/p/8725096adf62) |
-| Sat, 21 Mar 2026 09:07:32 GMT | Cyber Security | Riteshexcellence | [Read More](https://medium.com/p/7eff31c46cbc) |
-| Sat, 21 Mar 2026 09:06:23 GMT | Top Dark Web Intelligence & Monitoring Tools | EINITIAL24 | [Read More](https://medium.com/p/e7a10d93228b) |
-| Sat, 21 Mar 2026 09:05:20 GMT | Bitwon.exchange investment scam: File a claim | Robert | [Read More](https://medium.com/p/4d6cbff9d379) |
-| Sat, 21 Mar 2026 09:01:01 GMT | Why hiding data in a JPEG is harder than you think | Daniel Iwugo | [Read More](https://medium.com/p/11a9ebedb69e) |
-| Sat, 21 Mar 2026 09:00:39 GMT | Security Challenges in Microservices and Their Counter Measures. | Omsiddhrane | [Read More](https://medium.com/p/a810b41b05d0) |
-| Sat, 21 Mar 2026 08:58:34 GMT | The Shocking Password Reset Loopholes Letting Attackers Steal Privileges in Minutes!!! | cybrNK | [Read More](https://medium.com/p/1ec2922b8ce0) |
