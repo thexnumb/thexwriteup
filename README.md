@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 20:43:52 GMT | Hello World: A New Beginning and Three Distinct Journeys 
+Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p/0d2e2d0387cc) |
+| Sat, 21 Mar 2026 20:37:31 GMT | Using Nmap | Kiran Limbu Phudong | [Read More](https://medium.com/p/0ed6143fccaa) |
 | Sat, 21 Mar 2026 20:21:17 GMT | Microsoft Intune Monitoring TryHackMe Super Detailed Walkthrough - THM Motion Graphics Writeup -… | Sunny Singh Verma [ SuNnY ] | [Read More](https://medium.com/p/ef10f85661b9) |
 | Sat, 21 Mar 2026 20:14:10 GMT | Data Strategy and Data Governance, reimagined. | Mohammed Brückner | [Read More](https://medium.com/p/22121d19dd35) |
 | Sat, 21 Mar 2026 20:11:44 GMT | Wake-up Call: Best practices for securing Microsoft Intune | SOCFortress | [Read More](https://medium.com/p/d87d1c3b10d1) |
@@ -110,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 12:39:25 GMT | Cybersecurity: Why It’s the Backbone of Every Organization. | Karen | [Read More](https://medium.com/p/4a5b8642ee46) |
 | Sat, 21 Mar 2026 12:30:25 GMT | KerBug — the simplest Linux-Binary Debugger ever build | Kernel Phantom | [Read More](https://medium.com/p/21e44962a0a5) |
 | Sat, 21 Mar 2026 12:27:23 GMT | HTB Administrator Walkthrough | Hollacosta | [Read More](https://medium.com/p/a98065c793a4) |
-| Sat, 21 Mar 2026 12:26:39 GMT | Unguarded Intelligence: The AI Pretense | Shireesh Sharma | [Read More](https://medium.com/p/48c0ac6a808e) |
-| Sat, 21 Mar 2026 12:21:00 GMT | FortiGate Under the AI Microscope: When Recon Becomes Autonomous | Ilias Armenakis | [Read More](https://medium.com/p/137af9500659) |
