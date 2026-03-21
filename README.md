@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 10:43:52 GMT | The Hidden Attack Surface: Why AI Skill Files Need Security Auditing | Sourav Mukherjee | [Read More](https://medium.com/p/cc205d9d0df5) |
+| Sat, 21 Mar 2026 10:43:50 GMT | JWT: A Deep Dive into Algorithm Confusion | Redfox Security | [Read More](https://medium.com/p/1f1d52e7ed89) |
+| Sat, 21 Mar 2026 10:42:54 GMT | Lost in the Vertical City: How My Journey to Chongqing Led to a Modern-Day Nightmare | Jeedaa | [Read More](https://medium.com/p/d5a743729bfa) |
+| Sat, 21 Mar 2026 10:40:28 GMT | Unauthenticated to Full DB Dump: FreePBX tizimidagi CVE-2025–57819 zaifligi real caseda | 3c7000 | [Read More](https://medium.com/p/f578ad195f1e) |
+| Sat, 21 Mar 2026 10:37:23 GMT | The CIA Triad in Cybersecurity | Yuwandisandanayake | [Read More](https://medium.com/p/8daef8cc18d7) |
+| Sat, 21 Mar 2026 10:26:56 GMT | What is the Best Training for Cyber Security? | Cyberlancer | [Read More](https://medium.com/p/35d62767bb58) |
 | Sat, 21 Mar 2026 10:26:40 GMT | A Vendor DMZ Pattern | Robert Broeckelmann | [Read More](https://medium.com/p/2ec17d9a92b0) |
+| Sat, 21 Mar 2026 10:26:15 GMT | Preventing Rogue AI Agents | Will Velida | [Read More](https://medium.com/p/62742da65aeb) |
 | Sat, 21 Mar 2026 10:21:00 GMT | The Seven Words That Kill Accountability in a Crisis: “We Thought Someone Else Owned It” | Tyson Martin | [Read More](https://medium.com/p/9f23ef09d1d2) |
 | Sat, 21 Mar 2026 10:14:13 GMT | How fast could you actually be hacked? Most companies don’t know the answer | Marc Rabadan | [Read More](https://medium.com/p/71a2c019f62d) |
 | Sat, 21 Mar 2026 10:01:01 GMT | AI and Security: The Good, the Bad, and the Terrible | Irene Basaglia | [Read More](https://medium.com/p/5b9134660445) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 00:25:06 GMT | Resolute - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/f16d494d8721) |
 | Sat, 21 Mar 2026 00:02:24 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / HIRE A HACKER WHO CAN HELP YOU IN RECOVERY YOUR STOLEN FUNDS | Kristof janssens | [Read More](https://medium.com/p/443abefce10b) |
 | Fri, 20 Mar 2026 23:39:31 GMT | Exchange Online Migration Tools for MSPs (2026) | Marc-André Hallé | [Read More](https://medium.com/p/270e8dd20307) |
-| Fri, 20 Mar 2026 23:36:20 GMT | Google Workspace to Microsoft 365: Comparing Migration Tools for MSPs (2026) | Marc-André Hallé | [Read More](https://medium.com/p/a0084848cca7) |
-| Fri, 20 Mar 2026 23:32:08 GMT | Globiance investment scam: File a Claim | David A Jones | [Read More](https://medium.com/p/aaa90b705dc7) |
-| Fri, 20 Mar 2026 23:31:50 GMT | Exchange Online Mailbox Migration Tools: Cross-Tenant Comparison (2026) | Kaushik Kumar | [Read More](https://medium.com/p/3b15df922805) |
-| Fri, 20 Mar 2026 23:31:00 GMT | Why Authorization Breaks When AI Agents Start Acting on Behalf of Users | Viraj Lakshitha Bandara | [Read More](https://medium.com/p/11e28ab83242) |
-| Fri, 20 Mar 2026 23:28:15 GMT | Best Google Workspace to Microsoft 365 Migration Tools (2026) | Kaushik Kumar | [Read More](https://medium.com/p/f0474cf219f6) |
-| Fri, 20 Mar 2026 23:27:07 GMT | Bitunix: Instant Crypto Purchase With No Verification Barrier While SEC-CFTC Joint Framework… | Cyptalily | [Read More](https://medium.com/p/a27b2f47ed93) |
-| Fri, 20 Mar 2026 23:19:22 GMT | Modernizing Legacy Government Systems: A Practitioner’s Perspective on Challenges, Strategies, and… | Rabindra Bhandari | [Read More](https://medium.com/p/e15746435c53) |
