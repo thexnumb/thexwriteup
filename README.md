@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 14:47:05 GMT | Postman Pre-Requisite Scripts 101 | Mohammed Shine | [Read More](https://medium.com/p/2750185d9e0c) |
+| Sat, 21 Mar 2026 14:45:43 GMT | Introduction to Modern AI: The Best Way to Start Your AI Journey | Cyberabhisharma | [Read More](https://medium.com/p/b8cc79c97525) |
+| Sat, 21 Mar 2026 14:31:52 GMT | The 1GB Quota | Chetan Kumar | [Read More](https://medium.com/p/3de76cd25f1e) |
+| Sat, 21 Mar 2026 14:30:31 GMT | The Best IT Leaders Don’t Try to Be the Smartest Person in the Room | Chris Geier | [Read More](https://medium.com/p/105bce7f41db) |
+| Sat, 21 Mar 2026 14:25:59 GMT | LAB Portswigger Unprotected Admin Functionality with Unpredictable URL — Full Writeup | Anonymousd | [Read More](https://medium.com/p/c918de4fd697) |
+| Sat, 21 Mar 2026 14:22:43 GMT | The End of the Password? Passwords vs. Passkeys Explained | Steven Chin | [Read More](https://medium.com/p/3e82d1746a5a) |
 | Sat, 21 Mar 2026 14:22:18 GMT | You Found a Vulnerability… But It’s Worth $0 | Deepanshu Deep | [Read More](https://medium.com/p/1e5a8cd5e32a) |
 | Sat, 21 Mar 2026 14:21:06 GMT | Overpass : An Easy [Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/d964ad2d6818) |
 | Sat, 21 Mar 2026 14:16:00 GMT | Firebase Security Rules #1: Never Trust the Client | James Allan | [Read More](https://medium.com/p/53cbdfe0e149) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 08:17:12 GMT | Migrating Bitcoin to a Quantum-Resistant World — Meet BIP 360 | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/2ffd27cb2f4a) |
 | Sat, 21 Mar 2026 08:16:16 GMT | From ₦1.5 Million Mechanic Nightmare to Africa’s Mobility Trust Revolution: Why I’m Building YNow… | PROF JOBS THE GEN Z FOUNDER | [Read More](https://medium.com/p/3fd601f1dd3a) |
 | Sat, 21 Mar 2026 08:08:43 GMT | The Linux Concept Journey — Cron | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b39f2cff60f5) |
-| Sat, 21 Mar 2026 08:07:51 GMT | Malware Development Part 14: Vectored Exception Handling (VEH) Injection Technique | Malforge Academy | [Read More](https://medium.com/p/98d804adac5c) |
-| Sat, 21 Mar 2026 08:06:41 GMT | Why Dental Compliance & Cybersecurity Are No Longer Optional (And How Cytek Helps) | Cytek Dental Compliance Cybersecurity | [Read More](https://medium.com/p/07b25b245940) |
-| Sat, 21 Mar 2026 08:02:08 GMT | Dasar Keamanan Informasi | Marsya Agsandina | [Read More](https://medium.com/p/ffd79789b89e) |
-| Sat, 21 Mar 2026 07:48:05 GMT | Advanced cyber range platform for red team blue team exercises | cyber security Updates | [Read More](https://medium.com/p/7dd578449aee) |
-| Sat, 21 Mar 2026 07:29:18 GMT | Multi-Factor Authentication (MFA) Is Supposed to Protect You. But What If It Locks You Out? | Tarikbouari | [Read More](https://medium.com/p/e69d49cf1151) |
-| Sat, 21 Mar 2026 07:19:22 GMT | Building a Production-Grade Authentication Flow with Keycloak (OAuth2 + PKCE + Token Lifecycle) | Rajesh Raman | [Read More](https://medium.com/p/e24948f15b8d) |
