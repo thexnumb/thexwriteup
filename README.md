@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 22:30:55 GMT | Dijital Güvenlik Rehberi: İnternette Kendini Korumak İçin Baştan Sona Bilmen Gereken Her Şey | Ali Yaşe | [Read More](https://medium.com/p/5ed084f34ab4) |
+| Sat, 21 Mar 2026 22:24:51 GMT | mTLS is future | Hüseyin Mert | [Read More](https://medium.com/p/37427d55d558) |
 | Sat, 21 Mar 2026 22:23:22 GMT | Hacklenirsem Ne Yapmalıyım? | Ali Yaşe | [Read More](https://medium.com/p/4c9b4f24658d) |
 | Sat, 21 Mar 2026 22:19:15 GMT | Why Cybersecurity Is the One B2B Category That will Survive the AI Revolution | Shauli | [Read More](https://medium.com/p/9daf8de59f67) |
 | Sat, 21 Mar 2026 22:19:13 GMT | AI Agentic System Harnesses for Enterprise-Grade Autonomous Workflows | Valdez Ladd | [Read More](https://medium.com/p/a3b2853b5c2a) |
@@ -111,5 +113,3 @@ Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p
 | Sat, 21 Mar 2026 13:16:02 GMT | Initial Access Series 2 : Designing and Delivering a Phishing Campaign | redteamblog101 | [Read More](https://medium.com/p/f1ed46087e85) |
 | Sat, 21 Mar 2026 13:15:25 GMT | Stored DOM XSS to Account Takeover | 0xRedFox29 | [Read More](https://medium.com/p/268ef3869da0) |
 | Sat, 21 Mar 2026 13:12:09 GMT | The Modern Mobile Pentesting Stack in 2026: Tools, Trends & Practical Workflows | TechLatest.Net | [Read More](https://medium.com/p/c6a61aa01a36) |
-| Sat, 21 Mar 2026 13:06:20 GMT | Cyber Security Awareness | Sanjayprasath | [Read More](https://medium.com/p/6d3a64396b82) |
-| Sat, 21 Mar 2026 13:06:04 GMT | Notes on Bruce Schneier’s Lecture on Integrous AI | David Cottingham | [Read More](https://medium.com/p/2ce478183ccf) |
