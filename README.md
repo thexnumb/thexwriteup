@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 23:37:59 GMT | Modern Espionage: The IT Worker Scam | Investigator515 | [Read More](https://medium.com/p/99fbce6076ec) |
+| Sat, 21 Mar 2026 23:35:34 GMT | T-Pot Local Installation and Use From Zero to Hero | Mohamed Ehab | [Read More](https://medium.com/p/405570dd68de) |
+| Sat, 21 Mar 2026 23:35:29 GMT | Pare de expor seu bucket! (S3 AWS, R2 Cloudflare e outros….) | Adriano Junior | [Read More](https://medium.com/p/8c3f1835c0e3) |
+| Sat, 21 Mar 2026 23:26:00 GMT | Your AI Tools Are Lying to You (And Each Other) | Stevo Ledbetter | [Read More](https://medium.com/p/b576c7774fd4) |
+| Sat, 21 Mar 2026 23:24:14 GMT | 7 States Want to Restrict AI Datacenters. Developers Already Found the Workaround. | James Dickey | [Read More](https://medium.com/p/035825f37f89) |
 | Sat, 21 Mar 2026 23:16:30 GMT | CTI-Ops: From ‘Cyber Gossip’ to Operational Excellence | Philip C | [Read More](https://medium.com/p/5d384a5a3e11) |
 | Sat, 21 Mar 2026 23:08:21 GMT | Krylov Complexity as a Cryptographic Resource: Eavesdropper Detection in QKD via Operator-Growth… | Daniel Suess | [Read More](https://medium.com/p/038361b66a9c) |
 | Sat, 21 Mar 2026 23:04:10 GMT | Multi-Cloud Red Team Analyst (MCRTA) by CyberWarfare Labs — Eine praktische Einführung ins Cloud… | Emmanuel LEONIDAS Z. P. | [Read More](https://medium.com/p/ca96be319dba) |
@@ -108,8 +113,3 @@ Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p
 | Sat, 21 Mar 2026 14:22:18 GMT | You Found a Vulnerability… But It’s Worth $0 | Deepanshu Deep | [Read More](https://medium.com/p/1e5a8cd5e32a) |
 | Sat, 21 Mar 2026 14:21:06 GMT | Overpass : An Easy [Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/d964ad2d6818) |
 | Sat, 21 Mar 2026 14:16:00 GMT | Firebase Security Rules #1: Never Trust the Client | James Allan | [Read More](https://medium.com/p/53cbdfe0e149) |
-| Sat, 21 Mar 2026 14:05:51 GMT | The Importance of Managed Cybersecurity Services in Dubai for Modern Businesses | oadtechnologies | [Read More](https://medium.com/p/371dc683725b) |
-| Sat, 21 Mar 2026 14:01:01 GMT | Threat Hunting for Web Attacks Backup Exposure— LetsDefend [Part 3] | 0verRida | [Read More](https://medium.com/p/9bf9c3e559fb) |
-| Sat, 21 Mar 2026 13:57:11 GMT | Infrastructure Pivoting: How CTI Analysts Expand From a Single IOC to a Full Attacker Network | Andrey Pautov | [Read More](https://medium.com/p/1295d50ec29c) |
-| Sat, 21 Mar 2026 13:46:28 GMT | The Rise of AI-Driven Security Operations Centers (SOC): Transforming Modern Cyber Defence | Cynox Security LLP. | [Read More](https://medium.com/p/a0e753e61873) |
-| Sat, 21 Mar 2026 13:45:43 GMT | A Day in My Life as a Smart Contract Security Researcher | Abraham | [Read More](https://medium.com/p/5fed9be2c009) |
