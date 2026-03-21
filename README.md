@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 01:45:27 GMT | SDR + Raspberry Pi Projects That Go Beyond Hobby Level | Michael Preston | [Read More](https://medium.com/p/46a70d75dcd8) |
+| Sat, 21 Mar 2026 01:25:58 GMT | Agency Debt: Why AI Agents Are Changing Enterprise Security Models | Rupali Sharma | [Read More](https://medium.com/p/56add06a8f98) |
+| Sat, 21 Mar 2026 01:08:46 GMT | ARK Project: Official Interconnected Ecosystem Protocol & Verified Digital Nodes | Apollonas Soben | [Read More](https://medium.com/p/49cb9dddd9db) |
+| Sat, 21 Mar 2026 01:01:21 GMT | Hacking NASA Without a Login: How One Clojure Function Gave Me Root Access | Obaskly | [Read More](https://medium.com/p/b1ccdc0684ac) |
+| Sat, 21 Mar 2026 00:57:17 GMT | An Introduction to Infostealer Malware: How They Work, Main Families, and Technical Breakdown | Luis Santiago | [Read More](https://medium.com/p/0a755e7283da) |
+| Sat, 21 Mar 2026 00:49:46 GMT | How HTTPS security Works | Venkateshkasani | [Read More](https://medium.com/p/481e5b794368) |
+| Sat, 21 Mar 2026 00:25:06 GMT | Resolute - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/f16d494d8721) |
+| Sat, 21 Mar 2026 00:02:24 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / HIRE A HACKER WHO CAN HELP YOU IN RECOVERY YOUR STOLEN FUNDS | Kristof janssens | [Read More](https://medium.com/p/443abefce10b) |
+| Fri, 20 Mar 2026 23:39:31 GMT | Exchange Online Migration Tools for MSPs (2026) | Marc-André Hallé | [Read More](https://medium.com/p/270e8dd20307) |
+| Fri, 20 Mar 2026 23:36:20 GMT | Google Workspace to Microsoft 365: Comparing Migration Tools for MSPs (2026) | Marc-André Hallé | [Read More](https://medium.com/p/a0084848cca7) |
+| Fri, 20 Mar 2026 23:31:50 GMT | Exchange Online Mailbox Migration Tools: Cross-Tenant Comparison (2026) | Kaushik Kumar | [Read More](https://medium.com/p/3b15df922805) |
+| Fri, 20 Mar 2026 23:31:00 GMT | Why Authorization Breaks When AI Agents Start Acting on Behalf of Users | Viraj Lakshitha Bandara | [Read More](https://medium.com/p/11e28ab83242) |
 | Fri, 20 Mar 2026 23:28:15 GMT | Best Google Workspace to Microsoft 365 Migration Tools (2026) | Kaushik Kumar | [Read More](https://medium.com/p/f0474cf219f6) |
+| Fri, 20 Mar 2026 23:27:07 GMT | Bitunix: Instant Crypto Purchase With No Verification Barrier While SEC-CFTC Joint Framework… | Cyptalily | [Read More](https://medium.com/p/a27b2f47ed93) |
 | Fri, 20 Mar 2026 23:19:22 GMT | Modernizing Legacy Government Systems: A Practitioner’s Perspective on Challenges, Strategies, and… | Rabindra Bhandari | [Read More](https://medium.com/p/e15746435c53) |
 | Fri, 20 Mar 2026 23:17:40 GMT | Exchange Online Migration Tools for M&A and Tenant Consolidation (2026) | Juliana Reyes | [Read More](https://medium.com/p/0c3b14274042) |
 | Fri, 20 Mar 2026 23:11:27 GMT | Google Workspace to Microsoft 365 Migration Tools for IT Teams (2026) | Juliana Reyes | [Read More](https://medium.com/p/c91fbaebaa1e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 17:22:28 GMT | How I Solved SSL Pinning and Interception Issues in a Real Mobile Pentest | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/bbd0bf35538e) |
 | Fri, 20 Mar 2026 17:13:25 GMT | Hacking the Source: The Invisible Threat of Supply Chain Attacks | Axoloth | [Read More](https://medium.com/p/277cc136a8f0) |
 | Fri, 20 Mar 2026 17:11:57 GMT | Security That Cannot Be Proven Will Fail Audits | Dr. Shashi Karhail | [Read More](https://medium.com/p/01bc539faf8c) |
-| Fri, 20 Mar 2026 17:00:42 GMT | # OWASP LLM Top 10: How to Actually Test Your AI Applications | Proscan.one | [Read More](https://medium.com/p/ab2c2cf23ba7) |
-| Fri, 20 Mar 2026 16:57:39 GMT | Exploitation Campaigns and KEV additions Marked an Intensifying Threat Landscape This Week | Loginsoft | [Read More](https://medium.com/p/3a7b665643ca) |
-| Fri, 20 Mar 2026 16:57:15 GMT | Alert Overload in Cybersecurity: Why False Positives Are Slowing Down Real Threat Detection | Chetan Seripally | [Read More](https://medium.com/p/d50aceb880d0) |
-| Fri, 20 Mar 2026 16:52:54 GMT | Capstone Project: Analisis SIEM (Wazuh) & Network/Memory Forensics | satoshi_nakamura | [Read More](https://medium.com/p/2770d1a54570) |
-| Fri, 20 Mar 2026 16:52:12 GMT | # How to Consolidate Your AppSec Tools Into One Platform | Proscan.one | [Read More](https://medium.com/p/07759f9b7e6f) |
-| Fri, 20 Mar 2026 16:51:11 GMT | Wardrobe Portal | DharmaRizky | [Read More](https://medium.com/p/826dd53e3593) |
-| Fri, 20 Mar 2026 16:49:59 GMT | TUGAS MINGGU KEDUA | Sumantaraiketut | [Read More](https://medium.com/p/962cfcdf1eda) |
-| Fri, 20 Mar 2026 16:45:33 GMT | We’re Building a SOC — Here’s What’s Happening So Far | Aditya Wibowo | [Read More](https://medium.com/p/d7e7e12538ad) |
-| Fri, 20 Mar 2026 16:45:14 GMT | The Silence Before the Breach: How AI Became Crime’s Most Obedient Servant | Vasant Bhadauria | [Read More](https://medium.com/p/fa8004710ee7) |
-| Fri, 20 Mar 2026 16:37:02 GMT | AI Safety Without Running Code Is Just a Slide Deck | Mattijs Moens | [Read More](https://medium.com/p/236df13c38b3) |
-| Fri, 20 Mar 2026 16:34:06 GMT | TCP, UDP, and the Three-Way Handshake Explained: A Simple Guide for Cybersecurity Beginners | Ferdi Edogawa | [Read More](https://medium.com/p/68ce26435906) |
-| Fri, 20 Mar 2026 16:32:47 GMT | Memory Leak — #44 | Astasia Myers | [Read More](https://medium.com/p/000c27c98c69) |
-| Fri, 20 Mar 2026 16:30:01 GMT | Q-day is coming, ready or not! | Jules May | [Read More](https://medium.com/p/a37d1afa7c63) |
