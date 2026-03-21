@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 08:31:50 GMT | The Three Protocols That Could Bring Down The Internet (And Life as We Know It): DNS, PKI and BGP | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/178a779c2bf5) |
+| Sat, 21 Mar 2026 08:17:58 GMT | DC-3 VulnHub CTF Walkthrough | Satyamsatyarthi | [Read More](https://medium.com/p/505c071673a1) |
+| Sat, 21 Mar 2026 08:17:12 GMT | Migrating Bitcoin to a Quantum-Resistant World — Meet BIP 360 | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/2ffd27cb2f4a) |
+| Sat, 21 Mar 2026 08:16:16 GMT | From ₦1.5 Million Mechanic Nightmare to Africa’s Mobility Trust Revolution: Why I’m Building YNow… | PROF JOBS THE GEN Z FOUNDER | [Read More](https://medium.com/p/3fd601f1dd3a) |
+| Sat, 21 Mar 2026 08:08:43 GMT | The Linux Concept Journey — Cron | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b39f2cff60f5) |
+| Sat, 21 Mar 2026 08:07:51 GMT | Malware Development Part 14: Vectored Exception Handling (VEH) Injection Technique | Malforge Academy | [Read More](https://medium.com/p/98d804adac5c) |
+| Sat, 21 Mar 2026 08:06:41 GMT | Why Dental Compliance & Cybersecurity Are No Longer Optional (And How Cytek Helps) | Cytek Dental Compliance Cybersecurity | [Read More](https://medium.com/p/07b25b245940) |
+| Sat, 21 Mar 2026 08:02:08 GMT | Dasar Keamanan Informasi | Marsya Agsandina | [Read More](https://medium.com/p/ffd79789b89e) |
 | Sat, 21 Mar 2026 07:48:05 GMT | Advanced cyber range platform for red team blue team exercises | cyber security Updates | [Read More](https://medium.com/p/7dd578449aee) |
 | Sat, 21 Mar 2026 07:29:18 GMT | Multi-Factor Authentication (MFA) Is Supposed to Protect You. But What If It Locks You Out? | Tarikbouari | [Read More](https://medium.com/p/e69d49cf1151) |
 | Sat, 21 Mar 2026 07:19:22 GMT | Building a Production-Grade Authentication Flow with Keycloak (OAuth2 + PKCE + Token Lifecycle) | Rajesh Raman | [Read More](https://medium.com/p/e24948f15b8d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 21:16:54 GMT | Transcending the Shadow Conduit: The Critical Vulnerabilities of Remote Desktop Software and Legacy… | Aymaneelyamani | [Read More](https://medium.com/p/22be887f341c) |
 | Fri, 20 Mar 2026 21:14:10 GMT | What Your .NET Exceptions Are Telling Attackers (And How to Stop It) | Adrian Bailador | [Read More](https://medium.com/p/8718f74f0926) |
 | Fri, 20 Mar 2026 21:07:09 GMT | Blind SQL Injection in Yahoo! | ab.infosec | [Read More](https://medium.com/p/93c40b43a8af) |
-| Fri, 20 Mar 2026 20:55:07 GMT | G-d Bless these two heroes  of our time! | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/346945e3a5f3) |
-| Fri, 20 Mar 2026 20:54:51 GMT | Why Digital Organization is the Secret to Stress-Free Productivity | Pushcam Solutions | [Read More](https://medium.com/p/e29264c96106) |
-| Fri, 20 Mar 2026 20:50:42 GMT | Why I Spent Weeks Building a Hacking Platform Nobody Asked For | Somesh | [Read More](https://medium.com/p/7b68213caa1a) |
-| Fri, 20 Mar 2026 20:37:54 GMT | The New Axis of Power: National Sovereignty and Algorithmic Robustness in the AI Era | Victor Hugo Violada Pereira | [Read More](https://medium.com/p/409093487460) |
-| Fri, 20 Mar 2026 20:35:35 GMT | AirSnitch: The Wi-Fi Flaw That Completely Breaks Client Isolation | Mr_MalMan | [Read More](https://medium.com/p/cb97247c43e7) |
-| Fri, 20 Mar 2026 20:30:26 GMT | Running Ollama locally? These 5 server misconfigs can expose your instance to the internet | Metric | [Read More](https://medium.com/p/463b523294cf) |
-| Fri, 20 Mar 2026 20:30:21 GMT | The Era of “Logging In” Instead of Hacking In | Yunusemreozgun | [Read More](https://medium.com/p/9a3d896651f5) |
-| Fri, 20 Mar 2026 20:27:36 GMT | Why Security is the Real Bottleneck for Agentic AI (And How Nvidia Just Fixed It) | Subham Verma | [Read More](https://medium.com/p/b02ef173faed) |
