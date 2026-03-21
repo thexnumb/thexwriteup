@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 07:48:05 GMT | Advanced cyber range platform for red team blue team exercises | cyber security Updates | [Read More](https://medium.com/p/7dd578449aee) |
+| Sat, 21 Mar 2026 07:29:18 GMT | Multi-Factor Authentication (MFA) Is Supposed to Protect You. But What If It Locks You Out? | Tarikbouari | [Read More](https://medium.com/p/e69d49cf1151) |
+| Sat, 21 Mar 2026 07:19:22 GMT | Building a Production-Grade Authentication Flow with Keycloak (OAuth2 + PKCE + Token Lifecycle) | Rajesh Raman | [Read More](https://medium.com/p/e24948f15b8d) |
+| Sat, 21 Mar 2026 07:14:36 GMT | Meta Built a Social Network for AI Agents. Then One of Them Triggered a Security Breach. | thisistfy | [Read More](https://medium.com/p/d48c79d4da5c) |
+| Sat, 21 Mar 2026 07:11:00 GMT | Uncovering the Hidden Threats: How Cyber Investigations Protect Your Business and Reputation | Ivona Jovanovic | [Read More](https://medium.com/p/2883f483e288) |
 | Sat, 21 Mar 2026 07:04:33 GMT | Cybersecurity course in Nagercoil | Anugrah Business | [Read More](https://medium.com/p/8bdab90fbee4) |
+| Sat, 21 Mar 2026 07:01:01 GMT | 20. Designing Approval-Based Deployment Flow | Mangesh Muley | [Read More](https://medium.com/p/f6d8d94a379f) |
 | Sat, 21 Mar 2026 07:01:00 GMT | TryHackMe:Searchlight IMINT | Adabaladhatri | [Read More](https://medium.com/p/328618ad6c82) |
+| Sat, 21 Mar 2026 07:00:21 GMT | Hospital Industry Guards: Ensuring Safety, Trust, and 24/7 Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/8cfdb4d88ab6) |
 | Sat, 21 Mar 2026 07:00:16 GMT | Data Privacy vs Cybersecurity: What Businesses in KSA Should Prioritize | Rahman Iqbal | [Read More](https://medium.com/p/c75b72c8db94) |
 | Sat, 21 Mar 2026 06:54:25 GMT | Antivirus Antivirus Pro Mobile: Professional Care for Your Most Used Device | Rahul yadav | [Read More](https://medium.com/p/101726b97bc5) |
 | Sat, 21 Mar 2026 06:44:25 GMT | Safer Event Security Guards in San Antonio | Matrix Security Guard Services LLC | [Read More](https://medium.com/p/21a631c50c2b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 20:30:26 GMT | Running Ollama locally? These 5 server misconfigs can expose your instance to the internet | Metric | [Read More](https://medium.com/p/463b523294cf) |
 | Fri, 20 Mar 2026 20:30:21 GMT | The Era of “Logging In” Instead of Hacking In | Yunusemreozgun | [Read More](https://medium.com/p/9a3d896651f5) |
 | Fri, 20 Mar 2026 20:27:36 GMT | Why Security is the Real Bottleneck for Agentic AI (And How Nvidia Just Fixed It) | Subham Verma | [Read More](https://medium.com/p/b02ef173faed) |
-| Fri, 20 Mar 2026 20:24:12 GMT | Authentication Bypass & Username Enumeration in AdminPanel (Jason2605) | Hemant Raj Bhati | [Read More](https://medium.com/p/061bd7bcea6b) |
-| Fri, 20 Mar 2026 20:21:09 GMT | “The Sky is Falling”: Microsoft Defender for Cloud Apps Edition | Vonte Sewell | [Read More](https://medium.com/p/6a7250ac615d) |
-| Fri, 20 Mar 2026 20:16:00 GMT | How I Chained Mass Assignment and CSV Injection to Exfiltrate Corporate Data | Nebty | [Read More](https://medium.com/p/a48b162e41df) |
-| Fri, 20 Mar 2026 20:16:00 GMT | Two Dangerous Mistakes Every Senior Must Avoid After 60 | Sandy Watt | [Read More](https://medium.com/p/fdce6ff699a3) |
-| Fri, 20 Mar 2026 20:08:43 GMT | TryHackMe: Lookup Write-up — Mastering Username Enumeration and PATH Hijacking | KeeRoot | [Read More](https://medium.com/p/6c8d6b280356) |
-| Fri, 20 Mar 2026 20:08:43 GMT | How I Make Money in Offensive Security in 2026 — Private Programs, Real Payouts, and Why Companies… | Admin | [Read More](https://medium.com/p/ad7d6ef209ea) |
-| Fri, 20 Mar 2026 20:08:09 GMT | ️ I Built an Anti-Phishing CTF Room on TryHackMe — Full Walkthrough | ANEESHA B A | [Read More](https://medium.com/p/a35e08a86780) |
