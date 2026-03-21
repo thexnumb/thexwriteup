@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 22:23:22 GMT | Hacklenirsem Ne Yapmalıyım? | Ali Yaşe | [Read More](https://medium.com/p/4c9b4f24658d) |
+| Sat, 21 Mar 2026 22:19:15 GMT | Why Cybersecurity Is the One B2B Category That will Survive the AI Revolution | Shauli | [Read More](https://medium.com/p/9daf8de59f67) |
+| Sat, 21 Mar 2026 22:19:13 GMT | AI Agentic System Harnesses for Enterprise-Grade Autonomous Workflows | Valdez Ladd | [Read More](https://medium.com/p/a3b2853b5c2a) |
+| Sat, 21 Mar 2026 22:17:32 GMT | The Question That Made Me Start a Security Company | Shauli | [Read More](https://medium.com/p/c90273934fda) |
 | Sat, 21 Mar 2026 21:20:35 GMT | XML and JSON Injection - When the Data Your Payment Gateway Trusts Is Lying to It | Rufus Kehinde | [Read More](https://medium.com/p/1d1ee017bdf6) |
 | Sat, 21 Mar 2026 21:13:22 GMT | Entwickler alexgamingdev kündigt technische Lösung für Windows 11-Kompatibilität an | Alexander Dennhoven | [Read More](https://medium.com/p/55cb568cc941) |
 | Sat, 21 Mar 2026 21:12:42 GMT | Designing Security Controls into SaaS Applications: Beyond Login and MFA | Foluso Olateju | [Read More](https://medium.com/p/96a5b9b47d45) |
@@ -109,7 +113,3 @@ Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p
 | Sat, 21 Mar 2026 13:12:09 GMT | The Modern Mobile Pentesting Stack in 2026: Tools, Trends & Practical Workflows | TechLatest.Net | [Read More](https://medium.com/p/c6a61aa01a36) |
 | Sat, 21 Mar 2026 13:06:20 GMT | Cyber Security Awareness | Sanjayprasath | [Read More](https://medium.com/p/6d3a64396b82) |
 | Sat, 21 Mar 2026 13:06:04 GMT | Notes on Bruce Schneier’s Lecture on Integrous AI | David Cottingham | [Read More](https://medium.com/p/2ce478183ccf) |
-| Sat, 21 Mar 2026 13:02:14 GMT | I Built a Lie Detector for AI Security Tools. Here’s What I Found. | Jeff Flynt | [Read More](https://medium.com/p/773302edde1a) |
-| Sat, 21 Mar 2026 13:00:19 GMT | APIs Explained Like Traveling Abroad to Get Over Your Ex | Varichmaes Pongparnich | [Read More](https://medium.com/p/8fb94f1b657d) |
-| Sat, 21 Mar 2026 12:56:49 GMT | The Ultimate Cybersecurity Learning Roadmap (With Discounted Courses) | CyberBruhArmy | [Read More](https://medium.com/p/df0023b3000d) |
-| Sat, 21 Mar 2026 12:52:21 GMT | Otonom Yapay Zeka Ajanları Şirketleri Zarara Uğratabilir Mi? “Agent of Chaos” Deneyi | Tuğkan Özkan | [Read More](https://medium.com/p/307654b3e6ee) |
