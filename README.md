@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 07:04:33 GMT | Cybersecurity course in Nagercoil | Anugrah Business | [Read More](https://medium.com/p/8bdab90fbee4) |
+| Sat, 21 Mar 2026 07:01:00 GMT | TryHackMe:Searchlight IMINT | Adabaladhatri | [Read More](https://medium.com/p/328618ad6c82) |
+| Sat, 21 Mar 2026 07:00:16 GMT | Data Privacy vs Cybersecurity: What Businesses in KSA Should Prioritize | Rahman Iqbal | [Read More](https://medium.com/p/c75b72c8db94) |
+| Sat, 21 Mar 2026 06:54:25 GMT | Antivirus Antivirus Pro Mobile: Professional Care for Your Most Used Device | Rahul yadav | [Read More](https://medium.com/p/101726b97bc5) |
+| Sat, 21 Mar 2026 06:44:25 GMT | Safer Event Security Guards in San Antonio | Matrix Security Guard Services LLC | [Read More](https://medium.com/p/21a631c50c2b) |
+| Sat, 21 Mar 2026 06:42:39 GMT | I Was Quiet. The Machine Wasn’t. | Munyaradzi Muzuva | [Read More](https://medium.com/p/c55b09e38eba) |
+| Sat, 21 Mar 2026 06:41:39 GMT | TryHackMe Writeup - Searchlight-IMINT | Rakeshsrinivas | [Read More](https://medium.com/p/333c74ceff93) |
+| Sat, 21 Mar 2026 06:40:33 GMT | Cybersecurity Tips Everyone Should Know | CodeZen | [Read More](https://medium.com/p/8772c342bca4) |
+| Sat, 21 Mar 2026 06:35:12 GMT | Inspect HTML | recoxy_rangers | [Read More](https://medium.com/p/82de2f059cb6) |
+| Sat, 21 Mar 2026 06:29:11 GMT | PalsForLife (THM) Tryhackme WriteUp With Answer | Lawvye | [Read More](https://medium.com/p/2836d1da2f05) |
+| Sat, 21 Mar 2026 06:27:36 GMT | The Vault and The Castle: Demystifying Data Security vs. Cybersecurity | Supreet Nagi | [Read More](https://medium.com/p/b5bc3ba65316) |
+| Sat, 21 Mar 2026 06:26:26 GMT | A Hidden Google Ad Could Steal Everything You Ever Typed Into Claude | Soumyadipta Birabar | [Read More](https://medium.com/p/1690d6b37664) |
+| Sat, 21 Mar 2026 06:24:14 GMT | Cyber Conflict in South Asia: Inside the India–Pakistan APT Campaigns | Vatsamistry | [Read More](https://medium.com/p/41c8682f17f9) |
+| Sat, 21 Mar 2026 06:19:28 GMT | How Hackers Stay Anonymous Online | Abhinsubej | [Read More](https://medium.com/p/981073f09452) |
+| Sat, 21 Mar 2026 06:17:40 GMT | How I Secured Wazuh Dashboard with 2FA Using Keycloak SSO + Google Authenticator | Hacktify | [Read More](https://medium.com/p/59eb4b3db41c) |
+| Sat, 21 Mar 2026 06:08:15 GMT | What Is OSINT & How Hackers Use It ️ | loopXvedant | [Read More](https://medium.com/p/9c3b9313b82e) |
+| Sat, 21 Mar 2026 06:04:43 GMT | Building a GitOps Drift Detection & Auto-Remediation Pipeline with ArgoCD, GitHub Actions, and… | Coding_Karma | [Read More](https://medium.com/p/f72545c63fdf) |
 | Sat, 21 Mar 2026 05:47:24 GMT | DPDP Readiness in India: Why Compliance Alone Isn’t Enough | Aanchal Sharma | [Read More](https://medium.com/p/0853f981ec10) |
 | Sat, 21 Mar 2026 05:47:01 GMT | No Malware Required | Albert D. Jee | [Read More](https://medium.com/p/ab73a54fbd95) |
 | Sat, 21 Mar 2026 05:13:13 GMT | AI Agents Are Breaking Security: Why Access Control Might Become Obsolete | Yash Maheshwari | [Read More](https://medium.com/p/bec92048d0b2) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 20:08:43 GMT | TryHackMe: Lookup Write-up — Mastering Username Enumeration and PATH Hijacking | KeeRoot | [Read More](https://medium.com/p/6c8d6b280356) |
 | Fri, 20 Mar 2026 20:08:43 GMT | How I Make Money in Offensive Security in 2026 — Private Programs, Real Payouts, and Why Companies… | Admin | [Read More](https://medium.com/p/ad7d6ef209ea) |
 | Fri, 20 Mar 2026 20:08:09 GMT | ️ I Built an Anti-Phishing CTF Room on TryHackMe — Full Walkthrough | ANEESHA B A | [Read More](https://medium.com/p/a35e08a86780) |
-| Fri, 20 Mar 2026 20:02:56 GMT | AWS — Secure VPC Architecture with S3 VPC Endpoint and Private Access Control | Jaylen Galloway | [Read More](https://medium.com/p/89d145cc0a86) |
-| Fri, 20 Mar 2026 19:50:58 GMT | “If I Could Say One Thing to Perle, It’s This” | Atieclinton | [Read More](https://medium.com/p/78fe115e6ced) |
-| Fri, 20 Mar 2026 19:47:55 GMT | Jupyter Security Sprint March 31st | Joe Lucas | [Read More](https://medium.com/p/5a2293de5cd5) |
-| Fri, 20 Mar 2026 19:41:39 GMT | Why Every Technology Professional Should Teach (At Least Once) | Jay James | [Read More](https://medium.com/p/ea0a450c9b66) |
-| Fri, 20 Mar 2026 19:22:32 GMT | USER-CENTERED RESEARCH AND DESIGN OF A HEALTHCARE WEBSITE APPLICATION PROTOTYPE(HELEPAD) | OKIKIJESU ODELEYE | [Read More](https://medium.com/p/d730bad1ee14) |
-| Fri, 20 Mar 2026 19:20:51 GMT | Car 360 Camera: The Ultimate Guide to Surround View Systems | Seoalrowad | [Read More](https://medium.com/p/58f8816db93c) |
-| Fri, 20 Mar 2026 19:19:03 GMT | 10 Million IoT Devices Hacked: Is Yours Next? | BLE Advertiser | [Read More](https://medium.com/p/769f47f578dc) |
-| Fri, 20 Mar 2026 19:16:36 GMT | $500 in just a single IDOR | Muhammad Wageh | [Read More](https://medium.com/p/b13e9df22f4a) |
-| Fri, 20 Mar 2026 19:11:40 GMT | Multi-AZ Isn’t Enough: Lessons from the AWS Middle East Drone Strikes | Saurabh Yadav | [Read More](https://medium.com/p/95ca57cded0a) |
-| Fri, 20 Mar 2026 19:03:31 GMT | “Detecting Hidden Messages in Images using Deep Learning” | A sai shivanand | [Read More](https://medium.com/p/aab4b1f35395) |
-| Fri, 20 Mar 2026 19:03:19 GMT | The Best IT Teams Aren’t Bulletproof — They’re Resilient | G.W. Johnston | [Read More](https://medium.com/p/24868cf75063) |
-| Fri, 20 Mar 2026 19:02:32 GMT | Digital Sovereignty as Security Responsibility: A Resilience Test for European Cyber Defense | Parviz Salmanov | [Read More](https://medium.com/p/2b92fb9cb8b8) |
-| Fri, 20 Mar 2026 19:01:07 GMT | Hackviser Write-up [EN-TR] — Stored XSS Vulnerability via Image Upload-Induced | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/0904a3eabb9d) |
-| Fri, 20 Mar 2026 18:57:01 GMT | How Active Directory Misconfigurations Lead to Major Cyber Breaches | Gloria Asuquo | [Read More](https://medium.com/p/7e0ab3acb591) |
-| Fri, 20 Mar 2026 18:49:19 GMT | THM - Dev Diaries | Francesco Pastore | [Read More](https://medium.com/p/6fd2f3a3f2fd) |
-| Fri, 20 Mar 2026 18:46:55 GMT | The Biggest Flex in Cybersecurity? Building Systems That Survive Attacks | Murari Pothuru | [Read More](https://medium.com/p/973cd84c191a) |
-| Fri, 20 Mar 2026 18:43:34 GMT | DarkSword iOS Attack | SOCFortress | [Read More](https://medium.com/p/698b642cf80b) |
