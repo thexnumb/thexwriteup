@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 15:25:02 GMT | StegoRSA Picoctf | Khanakifali | [Read More](https://medium.com/p/401fa9346987) |
+| Sat, 21 Mar 2026 15:20:44 GMT | 29 Million Secrets Leaked on GitHub — Detect Secret Leaks in AI-Generated Code (Part 1) | Prince Bharti | [Read More](https://medium.com/p/f3aa15799355) |
+| Sat, 21 Mar 2026 15:07:54 GMT | DNS Protokolü Derinlemesine İncelemesi (DNS in Detail) | Onur Öztürk | [Read More](https://medium.com/p/91e0b0d293d3) |
+| Sat, 21 Mar 2026 15:04:55 GMT | Your Red Team Lab Is Too Fat. Here’s How I Fixed Mine. | RedAdmin | [Read More](https://medium.com/p/32053403a276) |
 | Sat, 21 Mar 2026 14:47:05 GMT | Postman Pre-Requisite Scripts 101 | Mohammed Shine | [Read More](https://medium.com/p/2750185d9e0c) |
 | Sat, 21 Mar 2026 14:45:43 GMT | Introduction to Modern AI: The Best Way to Start Your AI Journey | Cyberabhisharma | [Read More](https://medium.com/p/b8cc79c97525) |
 | Sat, 21 Mar 2026 14:31:52 GMT | The 1GB Quota | Chetan Kumar | [Read More](https://medium.com/p/3de76cd25f1e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 08:54:30 GMT | AI Security for Boise Businesses: Protecting AI-Powered Operations with MicroTech Systems | Microtechsystems | [Read More](https://medium.com/p/b68cdd453ca5) |
 | Sat, 21 Mar 2026 08:46:29 GMT | How We Cracked a Ransomware That Encrypted My Friend’s Entire Server | LETCHU PKT | [Read More](https://medium.com/p/81323754a634) |
 | Sat, 21 Mar 2026 08:31:50 GMT | The Three Protocols That Could Bring Down The Internet (And Life as We Know It): DNS, PKI and BGP | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/178a779c2bf5) |
-| Sat, 21 Mar 2026 08:17:58 GMT | DC-3 VulnHub CTF Walkthrough | Satyamsatyarthi | [Read More](https://medium.com/p/505c071673a1) |
-| Sat, 21 Mar 2026 08:17:12 GMT | Migrating Bitcoin to a Quantum-Resistant World — Meet BIP 360 | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/2ffd27cb2f4a) |
-| Sat, 21 Mar 2026 08:16:16 GMT | From ₦1.5 Million Mechanic Nightmare to Africa’s Mobility Trust Revolution: Why I’m Building YNow… | PROF JOBS THE GEN Z FOUNDER | [Read More](https://medium.com/p/3fd601f1dd3a) |
-| Sat, 21 Mar 2026 08:08:43 GMT | The Linux Concept Journey — Cron | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b39f2cff60f5) |
