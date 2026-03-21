@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 04:09:12 GMT | SQLMap Meets AI: Skynet + Ollama Security Workflow | Pentester Club | [Read More](https://medium.com/p/a9902b2019e9) |
+| Sat, 21 Mar 2026 03:57:53 GMT | the invisible pressure | Somya Pawar | [Read More](https://medium.com/p/52928edc937d) |
+| Sat, 21 Mar 2026 03:33:03 GMT | Why Every CISO Needs a Cyber Risk Quantification Agent (And How to Build One in 30 Minutes) | Snehanjan Chatterjee | [Read More](https://medium.com/p/e3ee9957f1a9) |
+| Sat, 21 Mar 2026 03:26:24 GMT | From Active Directory to Internal Apps: Why This Project Started | ZeroScorpion | [Read More](https://medium.com/p/a641634a4151) |
+| Sat, 21 Mar 2026 03:22:12 GMT | Your AI Agent Has Root Access to Your Machine — NVIDIA’s OpenShell Is Here to Fix That | ThamizhElango Natarajan | [Read More](https://medium.com/p/5ad219bdc288) |
+| Sat, 21 Mar 2026 03:05:26 GMT | Passing the AWS AI Practitioner and Seeing the Bigger Picture | Incidalus | [Read More](https://medium.com/p/e5df22fbadda) |
+| Sat, 21 Mar 2026 03:04:11 GMT | I made a free VAPT report template | Yosherif | [Read More](https://medium.com/p/6839e4410d5e) |
+| Sat, 21 Mar 2026 02:58:52 GMT | The Psychology Behind Every Successful Scam. | Pat Weber | [Read More](https://medium.com/p/96331bd4da0b) |
+| Sat, 21 Mar 2026 02:48:25 GMT | Connecticut’s Speed Camera Rollout: Safety Measure or Slippery Slope? | Matthew Looney | [Read More](https://medium.com/p/aae1fdf6f1cb) |
+| Sat, 21 Mar 2026 02:48:12 GMT | HTB Irked Writeup: UnrealIRCd Backdoor to Root via SUID Abuse | Onurcan Genç | [Read More](https://medium.com/p/154c4a243eec) |
+| Sat, 21 Mar 2026 02:25:18 GMT | Authorized to Act: Secure Agentic AI with Auth0 Token Vault | Jayapragash | [Read More](https://medium.com/p/36d2e77fc8b8) |
+| Sat, 21 Mar 2026 02:23:39 GMT | The $300 Million Illusion: Inside the Startup Accused of Faking SOC 2 Compliance | Aaron | [Read More](https://medium.com/p/877c8ba326f8) |
+| Sat, 21 Mar 2026 02:12:51 GMT | You Need This Secret Weapon Against Open Source Malware Now! | cybrNK | [Read More](https://medium.com/p/3920384bff34) |
+| Sat, 21 Mar 2026 02:11:46 GMT | I Rebuilt a Real North Korean Malware Attack in My Lab — Here’s Everything | Cyber-30 | [Read More](https://medium.com/p/49923f264af6) |
+| Sat, 21 Mar 2026 02:07:52 GMT | Willow — From NFS to Root - TryHackMe CTF Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/e11c1997ae1f) |
 | Sat, 21 Mar 2026 01:45:27 GMT | SDR + Raspberry Pi Projects That Go Beyond Hobby Level | Michael Preston | [Read More](https://medium.com/p/46a70d75dcd8) |
 | Sat, 21 Mar 2026 01:25:58 GMT | Agency Debt: Why AI Agents Are Changing Enterprise Security Models | Rupali Sharma | [Read More](https://medium.com/p/56add06a8f98) |
 | Sat, 21 Mar 2026 01:08:46 GMT | ARK Project: Official Interconnected Ecosystem Protocol & Verified Digital Nodes | Apollonas Soben | [Read More](https://medium.com/p/49cb9dddd9db) |
@@ -22,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 00:02:24 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / HIRE A HACKER WHO CAN HELP YOU IN RECOVERY YOUR STOLEN FUNDS | Kristof janssens | [Read More](https://medium.com/p/443abefce10b) |
 | Fri, 20 Mar 2026 23:39:31 GMT | Exchange Online Migration Tools for MSPs (2026) | Marc-André Hallé | [Read More](https://medium.com/p/270e8dd20307) |
 | Fri, 20 Mar 2026 23:36:20 GMT | Google Workspace to Microsoft 365: Comparing Migration Tools for MSPs (2026) | Marc-André Hallé | [Read More](https://medium.com/p/a0084848cca7) |
+| Fri, 20 Mar 2026 23:32:08 GMT | Globiance investment scam: File a Claim | David A Jones | [Read More](https://medium.com/p/aaa90b705dc7) |
 | Fri, 20 Mar 2026 23:31:50 GMT | Exchange Online Mailbox Migration Tools: Cross-Tenant Comparison (2026) | Kaushik Kumar | [Read More](https://medium.com/p/3b15df922805) |
 | Fri, 20 Mar 2026 23:31:00 GMT | Why Authorization Breaks When AI Agents Start Acting on Behalf of Users | Viraj Lakshitha Bandara | [Read More](https://medium.com/p/11e28ab83242) |
 | Fri, 20 Mar 2026 23:28:15 GMT | Best Google Workspace to Microsoft 365 Migration Tools (2026) | Kaushik Kumar | [Read More](https://medium.com/p/f0474cf219f6) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 18:17:58 GMT | Server-Side Request Forgery (SSRF) - When Attackers Use Your Own Server as Their Personal Messenger | Rufus Kehinde | [Read More](https://medium.com/p/3a27b2259b9e) |
 | Fri, 20 Mar 2026 18:12:31 GMT | Hospital Cyberattacks Are No Longer Just an IT Problem — They’re a Patient Safety Crisis | Nazib Khan | [Read More](https://medium.com/p/b83d11a8d409) |
 | Fri, 20 Mar 2026 18:11:59 GMT | Beyond the Basics: A DevOps Expert’s Guide to Advanced Dockerfiles | Pratap Patil | [Read More](https://medium.com/p/133799ca669b) |
-| Fri, 20 Mar 2026 18:05:14 GMT | Is Wireless Access Control Secure? Addressing Common Security Concerns | Joven A Rodrigues | [Read More](https://medium.com/p/3dda553d8bf6) |
-| Fri, 20 Mar 2026 18:01:38 GMT | Simple CTF Writeup—THM Rooms | Ahmed Eldkrory | [Read More](https://medium.com/p/39355900e50a) |
-| Fri, 20 Mar 2026 17:56:01 GMT | Iftar Pie — Ramadan CTF 2026 (MISC) | Hamzeh Alawneh | [Read More](https://medium.com/p/b8b5fd16d24e) |
-| Fri, 20 Mar 2026 17:53:57 GMT | The Next Billion-Dollar Breach Will Come From CI/CD | Yua Mikanana | [Read More](https://medium.com/p/381d5c2a3926) |
-| Fri, 20 Mar 2026 17:45:03 GMT | How a naive compliment became a professional lesson in cybersecurity. | Adebayo Muhammad | [Read More](https://medium.com/p/08b40b67b4df) |
-| Fri, 20 Mar 2026 17:44:06 GMT | OverTheWire Bandit Walkthrough — Level 3 → 4 - 30-Day Cybersecurity Learning Journey (Day 4) | William | [Read More](https://medium.com/p/5a159f8f7072) |
-| Fri, 20 Mar 2026 17:35:18 GMT | Apple Warns iPhone Users: DarkSword Spyware Puts Millions at Risk | Ananthuharikumar | [Read More](https://medium.com/p/bf81ddefe237) |
-| Fri, 20 Mar 2026 17:31:00 GMT | Multimodal Safety: 9 Red-Team Prompts for UI Agents | Bhagya Rana | [Read More](https://medium.com/p/d9c8699045fc) |
-| Fri, 20 Mar 2026 17:30:37 GMT | AISVS: the missing standard for AI application security | Alberto Cappellina | [Read More](https://medium.com/p/1563337f0047) |
-| Fri, 20 Mar 2026 17:30:14 GMT | The Hidden Security Risks of RAG Pipelines | Sales | [Read More](https://medium.com/p/fe49691daffb) |
-| Fri, 20 Mar 2026 17:28:08 GMT | Ciberseguridad: más que pantallas verdes y rituales profanos | HaRoldCant | [Read More](https://medium.com/p/58fc03d15711) |
-| Fri, 20 Mar 2026 17:25:24 GMT | Cybersecurity in the AI Era: When Machines Defend Against Machines | Mayank Agrawal | [Read More](https://medium.com/p/87b6d09139ce) |
-| Fri, 20 Mar 2026 17:22:51 GMT | Before the Lights go out!!! | Agnidipta Sarkar | [Read More](https://medium.com/p/cd4b10261d47) |
-| Fri, 20 Mar 2026 17:22:28 GMT | How I Solved SSL Pinning and Interception Issues in a Real Mobile Pentest | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/bbd0bf35538e) |
-| Fri, 20 Mar 2026 17:13:25 GMT | Hacking the Source: The Invisible Threat of Supply Chain Attacks | Axoloth | [Read More](https://medium.com/p/277cc136a8f0) |
-| Fri, 20 Mar 2026 17:11:57 GMT | Security That Cannot Be Proven Will Fail Audits | Dr. Shashi Karhail | [Read More](https://medium.com/p/01bc539faf8c) |
