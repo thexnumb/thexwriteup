@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 11:45:49 GMT | The Hacker’s guide to meaningful work | Abhinav Jain | [Read More](https://medium.com/p/beed6fe21943) |
+| Sat, 21 Mar 2026 11:33:41 GMT | Breaking the Wall: A Deep Dive Into WAF Detection and Bypass Techniques | Sonu Chaudhary | [Read More](https://medium.com/p/e880be92d0c0) |
+| Sat, 21 Mar 2026 11:31:12 GMT | The Ultimate Growth Engine for Modern Businesses: HY Gravity Solutions | Hygravity | [Read More](https://medium.com/p/fdaf0daf0dc1) |
+| Sat, 21 Mar 2026 11:29:10 GMT | Myanmar’s Min Aung Hlaing struggles for political longevity | Naing Min Khant | [Read More](https://medium.com/p/cde5491f676f) |
+| Sat, 21 Mar 2026 11:27:12 GMT | Myanmar’s Min Aung Hlaing sets the groundwork for a possible political exit | Naing Min Khant | [Read More](https://medium.com/p/d7c3cc89b9dc) |
+| Sat, 21 Mar 2026 11:22:16 GMT | The Offsec Ninjas | The Cyber Student | [Read More](https://medium.com/p/9ec3d5371612) |
+| Sat, 21 Mar 2026 11:20:04 GMT | Not every heart knows how to hold your.. | Chanchal Sharma | [Read More](https://medium.com/p/6f3fe95f259e) |
 | Sat, 21 Mar 2026 11:16:34 GMT | SharePoint Online Monitoring - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/a13bcb87cd9d) |
 | Sat, 21 Mar 2026 11:15:17 GMT | When Security Tools Are Compromised: Trivy Incident Highlights Hidden Risks in DevSecOps Pipelines | Jas | [Read More](https://medium.com/p/6f9aebeb050e) |
 | Sat, 21 Mar 2026 11:11:39 GMT | Clearing OSCP with 0 pentesting experience, from a blue teamer’s POV | extraGravy | [Read More](https://medium.com/p/9291764c3364) |
@@ -20,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 11:04:34 GMT | 7 Tableau Techniques That Took My Dashboards From Reported to Remembered — And One Embarrassing… | Deep Chatterjee | [Read More](https://medium.com/p/43df7e22b66b) |
 | Sat, 21 Mar 2026 10:56:56 GMT | Prompt Injection With Gandalf | Marco Nappi | [Read More](https://medium.com/p/3d909876af6f) |
 | Sat, 21 Mar 2026 10:53:07 GMT | Beyond Borders: Why Nigeria’s Security Depends on a Stable Sahel | Know Afrika | [Read More](https://medium.com/p/1fd51a413557) |
+| Sat, 21 Mar 2026 10:52:56 GMT | Digital Footprint: Your Online Identity | Gargvedant | [Read More](https://medium.com/p/7ada5e47ff7d) |
 | Sat, 21 Mar 2026 10:51:06 GMT | Free Alternatives to Modr8ai for Web3 Telegram Security And Why Free Isn’t Enough Before TGE | Bershtech | [Read More](https://medium.com/p/53a57d237806) |
 | Sat, 21 Mar 2026 10:43:52 GMT | The Hidden Attack Surface: Why AI Skill Files Need Security Auditing | Sourav Mukherjee | [Read More](https://medium.com/p/cc205d9d0df5) |
 | Sat, 21 Mar 2026 10:43:50 GMT | JWT: A Deep Dive into Algorithm Confusion | Redfox Security | [Read More](https://medium.com/p/1f1d52e7ed89) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 03:22:12 GMT | Your AI Agent Has Root Access to Your Machine — NVIDIA’s OpenShell Is Here to Fix That | ThamizhElango Natarajan | [Read More](https://medium.com/p/5ad219bdc288) |
 | Sat, 21 Mar 2026 03:05:26 GMT | Passing the AWS AI Practitioner and Seeing the Bigger Picture | Incidalus | [Read More](https://medium.com/p/e5df22fbadda) |
 | Sat, 21 Mar 2026 03:04:11 GMT | I made a free VAPT report template | Yosherif | [Read More](https://medium.com/p/6839e4410d5e) |
-| Sat, 21 Mar 2026 02:58:52 GMT | The Psychology Behind Every Successful Scam. | Pat Weber | [Read More](https://medium.com/p/96331bd4da0b) |
-| Sat, 21 Mar 2026 02:48:25 GMT | Connecticut’s Speed Camera Rollout: Safety Measure or Slippery Slope? | Matthew Looney | [Read More](https://medium.com/p/aae1fdf6f1cb) |
-| Sat, 21 Mar 2026 02:48:12 GMT | HTB Irked Writeup: UnrealIRCd Backdoor to Root via SUID Abuse | Onurcan Genç | [Read More](https://medium.com/p/154c4a243eec) |
-| Sat, 21 Mar 2026 02:25:18 GMT | Authorized to Act: Secure Agentic AI with Auth0 Token Vault | Jayapragash | [Read More](https://medium.com/p/36d2e77fc8b8) |
-| Sat, 21 Mar 2026 02:23:39 GMT | The $300 Million Illusion: Inside the Startup Accused of Faking SOC 2 Compliance | Aaron | [Read More](https://medium.com/p/877c8ba326f8) |
-| Sat, 21 Mar 2026 02:12:51 GMT | You Need This Secret Weapon Against Open Source Malware Now! | cybrNK | [Read More](https://medium.com/p/3920384bff34) |
-| Sat, 21 Mar 2026 02:11:46 GMT | I Rebuilt a Real North Korean Malware Attack in My Lab — Here’s Everything | Cyber-30 | [Read More](https://medium.com/p/49923f264af6) |
-| Sat, 21 Mar 2026 02:07:52 GMT | Willow — From NFS to Root - TryHackMe CTF Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/e11c1997ae1f) |
