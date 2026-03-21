@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 05:13:13 GMT | AI Agents Are Breaking Security: Why Access Control Might Become Obsolete | Yash Maheshwari | [Read More](https://medium.com/p/bec92048d0b2) |
+| Sat, 21 Mar 2026 05:06:00 GMT | Your AI Agent Is Leaking Your Data. We Built a Privacy Firewall to Stop It. | Srini Anant | [Read More](https://medium.com/p/cc5ea27d2589) |
+| Sat, 21 Mar 2026 05:02:52 GMT | Cybersecurity Doesn’t Fail Because Controls Are Missing — It Fails Because Decisions Are Not… | Nataliia Stashevska | [Read More](https://medium.com/p/64366993bd6c) |
+| Sat, 21 Mar 2026 05:01:00 GMT | Why Understanding Attacker Methodology Makes You Better at Security. | Abraham | [Read More](https://medium.com/p/567c3318ad16) |
+| Sat, 21 Mar 2026 05:01:00 GMT | I built a tool because I was Tired of sharing .env files on Slack | Sumit Khanna | [Read More](https://medium.com/p/5272a923d933) |
+| Sat, 21 Mar 2026 05:00:08 GMT | The XZ Backdoor and What It Revealed About the Fragility of Open Source Infrastructure | Edits Com Com Com | [Read More](https://medium.com/p/4b860ef4d613) |
+| Sat, 21 Mar 2026 04:48:22 GMT | Cross-Site Scripting Explained With Real Examples | 0xSmit | [Read More](https://medium.com/p/5b5aa9f1f40e) |
+| Sat, 21 Mar 2026 04:40:10 GMT | What is Network Sniffing? Tools & Risks Explained Networking — Day 13 | 0xSmit | [Read More](https://medium.com/p/f88e1b040fd6) |
+| Sat, 21 Mar 2026 04:31:01 GMT | Tooling Safety: 11 Logs That Prove Agent Actions | Vectorlane | [Read More](https://medium.com/p/c824cc5cccf2) |
 | Sat, 21 Mar 2026 04:09:12 GMT | SQLMap Meets AI: Skynet + Ollama Security Workflow | Pentester Club | [Read More](https://medium.com/p/a9902b2019e9) |
 | Sat, 21 Mar 2026 03:57:53 GMT | the invisible pressure | Somya Pawar | [Read More](https://medium.com/p/52928edc937d) |
 | Sat, 21 Mar 2026 03:33:03 GMT | Why Every CISO Needs a Cyber Risk Quantification Agent (And How to Build One in 30 Minutes) | Snehanjan Chatterjee | [Read More](https://medium.com/p/e3ee9957f1a9) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 18:43:34 GMT | DarkSword iOS Attack | SOCFortress | [Read More](https://medium.com/p/698b642cf80b) |
 | Fri, 20 Mar 2026 18:40:51 GMT | quiet00 — RamadanCTF 2026 (OSINT) | Hamzeh Alawneh | [Read More](https://medium.com/p/eaa95581df79) |
 | Fri, 20 Mar 2026 18:40:09 GMT | HTB:Certified - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/cd59e0c7a16d) |
-| Fri, 20 Mar 2026 18:36:00 GMT | AI Isn’t Magic — It’s a Skill You Need to Lead (and Defend) in 2026 | Leila Alves | [Read More](https://medium.com/p/c59bfaf988fb) |
-| Fri, 20 Mar 2026 18:33:10 GMT | Why I Built My Own Red Team Payload Obfuscator (And How It Works Under the Hood) | Ilias Georgopoulos | [Read More](https://medium.com/p/d004b19dffd4) |
-| Fri, 20 Mar 2026 18:32:41 GMT | The Cloud Security Blind Spot Isn’t People. | ChennaRao Vemula | [Read More](https://medium.com/p/50fd93143e14) |
-| Fri, 20 Mar 2026 18:32:28 GMT | LexVerify: The AI Watchdog for Authenticity in a Digital Age | Crypto_Wildman | [Read More](https://medium.com/p/08f730178a88) |
-| Fri, 20 Mar 2026 18:26:38 GMT | Post 1 — Is Cyber Threat Intelligence Still Relevant in a Post‑Quantum World? | Leonard Okyere Afeke | [Read More](https://medium.com/p/7ac0095425bb) |
-| Fri, 20 Mar 2026 18:21:02 GMT | Agent T from TryHackMe platform | Tubelight | [Read More](https://medium.com/p/403bc3964709) |
-| Fri, 20 Mar 2026 18:17:58 GMT | Server-Side Request Forgery (SSRF) - When Attackers Use Your Own Server as Their Personal Messenger | Rufus Kehinde | [Read More](https://medium.com/p/3a27b2259b9e) |
-| Fri, 20 Mar 2026 18:12:31 GMT | Hospital Cyberattacks Are No Longer Just an IT Problem — They’re a Patient Safety Crisis | Nazib Khan | [Read More](https://medium.com/p/b83d11a8d409) |
-| Fri, 20 Mar 2026 18:11:59 GMT | Beyond the Basics: A DevOps Expert’s Guide to Advanced Dockerfiles | Pratap Patil | [Read More](https://medium.com/p/133799ca669b) |
