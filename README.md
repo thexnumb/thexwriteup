@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 23:16:30 GMT | CTI-Ops: From ‘Cyber Gossip’ to Operational Excellence | Philip C | [Read More](https://medium.com/p/5d384a5a3e11) |
+| Sat, 21 Mar 2026 23:08:21 GMT | Krylov Complexity as a Cryptographic Resource: Eavesdropper Detection in QKD via Operator-Growth… | Daniel Suess | [Read More](https://medium.com/p/038361b66a9c) |
+| Sat, 21 Mar 2026 23:04:10 GMT | Multi-Cloud Red Team Analyst (MCRTA) by CyberWarfare Labs — Eine praktische Einführung ins Cloud… | Emmanuel LEONIDAS Z. P. | [Read More](https://medium.com/p/ca96be319dba) |
+| Sat, 21 Mar 2026 23:01:01 GMT | The Air-Gapped Chronicles: The Model Zoo Ambush — When Your ‘Pretrained’ AI Ships the Attack | Piyoosh Rai | [Read More](https://medium.com/p/b42899640e65) |
+| Sat, 21 Mar 2026 22:52:47 GMT | NVIDIA or Envidia? — How Big Tech’s Infrastructure Squeeze is Killing the Self-Built Future | Sage Khan | [Read More](https://medium.com/p/28436267ddd6) |
+| Sat, 21 Mar 2026 22:42:21 GMT | Roblox Scripts: The Underground History Nobody Talks About (2009–2026) | heapleak | [Read More](https://medium.com/p/7888459771f9) |
+| Sat, 21 Mar 2026 22:40:48 GMT | Do you ever find it hard to ask for help? | ToluPhilips | [Read More](https://medium.com/p/c95544c4bc20) |
 | Sat, 21 Mar 2026 22:30:55 GMT | Dijital Güvenlik Rehberi: İnternette Kendini Korumak İçin Baştan Sona Bilmen Gereken Her Şey | Ali Yaşe | [Read More](https://medium.com/p/5ed084f34ab4) |
 | Sat, 21 Mar 2026 22:24:51 GMT | mTLS is future | Hüseyin Mert | [Read More](https://medium.com/p/37427d55d558) |
 | Sat, 21 Mar 2026 22:23:22 GMT | Hacklenirsem Ne Yapmalıyım? | Ali Yaşe | [Read More](https://medium.com/p/4c9b4f24658d) |
@@ -106,10 +113,3 @@ Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p
 | Sat, 21 Mar 2026 13:57:11 GMT | Infrastructure Pivoting: How CTI Analysts Expand From a Single IOC to a Full Attacker Network | Andrey Pautov | [Read More](https://medium.com/p/1295d50ec29c) |
 | Sat, 21 Mar 2026 13:46:28 GMT | The Rise of AI-Driven Security Operations Centers (SOC): Transforming Modern Cyber Defence | Cynox Security LLP. | [Read More](https://medium.com/p/a0e753e61873) |
 | Sat, 21 Mar 2026 13:45:43 GMT | A Day in My Life as a Smart Contract Security Researcher | Abraham | [Read More](https://medium.com/p/5fed9be2c009) |
-| Sat, 21 Mar 2026 13:35:12 GMT | The pile-on, the ghost and the professional who breathes first | Abhinav Jain | [Read More](https://medium.com/p/88e8accf11ce) |
-| Sat, 21 Mar 2026 13:33:04 GMT | Neighbour Tryhackme | Harilakshman | [Read More](https://medium.com/p/c41b78fb92db) |
-| Sat, 21 Mar 2026 13:30:17 GMT | Cybersecurity for the Voiceless: Understanding AI-Driven Data Exploitation in Vulnerable… | Rohitraj | [Read More](https://medium.com/p/a9fe2771b5c2) |
-| Sat, 21 Mar 2026 13:21:00 GMT | In the Most Selfish Way, I Want to Witness Your Becoming. | Mariko Evt | [Read More](https://medium.com/p/c4e1e9c459c9) |
-| Sat, 21 Mar 2026 13:16:02 GMT | Initial Access Series 2 : Designing and Delivering a Phishing Campaign | redteamblog101 | [Read More](https://medium.com/p/f1ed46087e85) |
-| Sat, 21 Mar 2026 13:15:25 GMT | Stored DOM XSS to Account Takeover | 0xRedFox29 | [Read More](https://medium.com/p/268ef3869da0) |
-| Sat, 21 Mar 2026 13:12:09 GMT | The Modern Mobile Pentesting Stack in 2026: Tools, Trends & Practical Workflows | TechLatest.Net | [Read More](https://medium.com/p/c6a61aa01a36) |
