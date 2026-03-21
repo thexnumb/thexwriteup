@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 19:27:35 GMT | What Is a Website Security Check and Does Your Small Business Need One? | Sitescanly | [Read More](https://medium.com/p/954f2a2fa505) |
 | Sat, 21 Mar 2026 19:19:38 GMT | Direksiyon Gerçekten Sizin Elinizde mi? Yeni Nesil Otomobilleri Hacklemek | Efe Cengiz | [Read More](https://medium.com/p/3988e90f4e42) |
 | Sat, 21 Mar 2026 19:18:58 GMT | How I Find the Real IP Behind Cloudflare (When It’s Not Supposed to Be Visible) | Sonu Chaudhary | [Read More](https://medium.com/p/cd48e2ce5e62) |
 | Sat, 21 Mar 2026 19:05:31 GMT | Resolviendo “El Amigo” en The Hackers Labs | IgnoranzaSolare | [Read More](https://medium.com/p/6441385bb347) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 11:50:47 GMT | Building Our Own PaaS Infrastructure: From Scratch to Production (Part 0: Introduction) | Muhammet İkbal Yakupoglu | [Read More](https://medium.com/p/74c7e9f1da35) |
 | Sat, 21 Mar 2026 11:45:49 GMT | The Hacker’s guide to meaningful work | Abhinav Jain | [Read More](https://medium.com/p/beed6fe21943) |
 | Sat, 21 Mar 2026 11:33:41 GMT | Breaking the Wall: A Deep Dive Into WAF Detection and Bypass Techniques | Sonu Chaudhary | [Read More](https://medium.com/p/e880be92d0c0) |
-| Sat, 21 Mar 2026 11:33:28 GMT | Cross Side Scripting | Abbhi | [Read More](https://medium.com/p/92e41471fe84) |
