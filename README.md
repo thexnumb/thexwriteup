@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 17:21:27 GMT | Why Choosing the Right App Development Company in India Can Transform Your Business | LoudOwls | [Read More](https://medium.com/p/2f8fa8316e98) |
+| Sat, 21 Mar 2026 17:21:17 GMT | Reapersec | Federalbrother | [Read More](https://medium.com/p/90ff8b7c8e06) |
+| Sat, 21 Mar 2026 17:14:52 GMT | Malicious Script Injection in Trivy Exposes Critical Risks in CI/CD Supply Chains | Chetan Seripally | [Read More](https://medium.com/p/efcb1dd20647) |
+| Sat, 21 Mar 2026 17:10:46 GMT | CVE-2026–22812: How I Got RCE on a 71k-Star AI Coding Tool With Zero Authentication | Dharanis | [Read More](https://medium.com/p/7524fbc3317f) |
+| Sat, 21 Mar 2026 17:09:24 GMT | Hunting Threats in Microsoft Defender XDR: What Actually Works — Pt 2 | Defend Microsoft365 now! | [Read More](https://medium.com/p/4100621f05e1) |
+| Sat, 21 Mar 2026 17:01:30 GMT | Cómo los hackers leen archivos que no deberían: LFI explicado para tu abuela. | HaRoldCant | [Read More](https://medium.com/p/db950600f6d6) |
+| Sat, 21 Mar 2026 17:00:32 GMT | How I Earned $1,000 Bounty by Exploiting a Simple Misconfiguration | Deepanshu Deep | [Read More](https://medium.com/p/18c25356caf3) |
+| Sat, 21 Mar 2026 16:58:30 GMT | Walkthrough HTB Active | Telynor | [Read More](https://medium.com/p/1cd091ea1a2f) |
+| Sat, 21 Mar 2026 16:56:22 GMT | How I Found a Security Misconfiguration in Max Healthcare’s PACS System — and Got Recognized for It | Dharanis | [Read More](https://medium.com/p/dcc2e44dc1b4) |
+| Sat, 21 Mar 2026 16:47:41 GMT | The $32 Million Compliance Fraud That Should Reshape How We Think About AI Governance | Jason Shotwell | [Read More](https://medium.com/p/7aa8e3183ad7) |
+| Sat, 21 Mar 2026 16:45:20 GMT | Deterministic AppSec: From Probabilistic Risk to Enforceable Invariants | Eldor Zufarov | [Read More](https://medium.com/p/16b7180b50cc) |
+| Sat, 21 Mar 2026 16:44:04 GMT | The Memory Paradox: Are We Outsourcing Our Minds to the Cloud? | Alex Stevens | [Read More](https://medium.com/p/edb69aac25de) |
+| Sat, 21 Mar 2026 16:43:45 GMT | Your ISP gives you one public IP. I took 200. | Wael Hasnaoui | [Read More](https://medium.com/p/912b7e3f630c) |
+| Sat, 21 Mar 2026 16:37:43 GMT | TTPs vs IOCs: Shift Your Detection Mindset | Paritosh | [Read More](https://medium.com/p/b12dc122b1a8) |
+| Sat, 21 Mar 2026 16:31:00 GMT | Why AI Makes Scam Emails Impossible to Spot Now | Mukhtarabdul | [Read More](https://medium.com/p/ae093f03ee1e) |
+| Sat, 21 Mar 2026 16:24:17 GMT | How I Found a Million Dollars’ Worth of Unlocked Doors | Fahedkhan | [Read More](https://medium.com/p/76650c1e0b4d) |
 | Sat, 21 Mar 2026 16:22:28 GMT | Understanding TCP & UDP: The Backbone of Data Communication | Ndu | [Read More](https://medium.com/p/6623e47a4acb) |
 | Sat, 21 Mar 2026 16:17:15 GMT | AI-Assisted Security Engineering | Ayomide Odukoya | [Read More](https://medium.com/p/37b2ca7044e9) |
 | Sat, 21 Mar 2026 16:07:04 GMT | “The Interface Leverage Principle: First Documentation of Epistemic Substrate Loading, Submaximal… | Berend Watchus | [Read More](https://medium.com/p/5e79a5adc162) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 10:43:50 GMT | JWT: A Deep Dive into Algorithm Confusion | Redfox Security | [Read More](https://medium.com/p/1f1d52e7ed89) |
 | Sat, 21 Mar 2026 10:42:54 GMT | Lost in the Vertical City: How My Journey to Chongqing Led to a Modern-Day Nightmare | Jeedaa | [Read More](https://medium.com/p/d5a743729bfa) |
 | Sat, 21 Mar 2026 10:40:28 GMT | Unauthenticated to Full DB Dump: FreePBX tizimidagi CVE-2025–57819 zaifligi real caseda | 3c7000 | [Read More](https://medium.com/p/f578ad195f1e) |
-| Sat, 21 Mar 2026 10:37:23 GMT | The CIA Triad in Cybersecurity | Yuwandisandanayake | [Read More](https://medium.com/p/8daef8cc18d7) |
-| Sat, 21 Mar 2026 10:26:56 GMT | What is the Best Training for Cyber Security? | Cyberlancer | [Read More](https://medium.com/p/35d62767bb58) |
-| Sat, 21 Mar 2026 10:26:40 GMT | A Vendor DMZ Pattern | Robert Broeckelmann | [Read More](https://medium.com/p/2ec17d9a92b0) |
-| Sat, 21 Mar 2026 10:26:15 GMT | Preventing Rogue AI Agents | Will Velida | [Read More](https://medium.com/p/62742da65aeb) |
-| Sat, 21 Mar 2026 10:21:00 GMT | The Seven Words That Kill Accountability in a Crisis: “We Thought Someone Else Owned It” | Tyson Martin | [Read More](https://medium.com/p/9f23ef09d1d2) |
-| Sat, 21 Mar 2026 10:14:13 GMT | How fast could you actually be hacked? Most companies don’t know the answer | Marc Rabadan | [Read More](https://medium.com/p/71a2c019f62d) |
-| Sat, 21 Mar 2026 10:01:01 GMT | AI and Security: The Good, the Bad, and the Terrible | Irene Basaglia | [Read More](https://medium.com/p/5b9134660445) |
-| Sat, 21 Mar 2026 10:01:01 GMT | Why Small Teams Achieve ISO 27001 Compliance Faster Than Large Organizations | Gaurav Shukla | [Read More](https://medium.com/p/930387250c0f) |
-| Sat, 21 Mar 2026 09:57:27 GMT | Arasaka (Easy) — HackSmarter (Assumed Breach) Write-up | yamish marshall | [Read More](https://medium.com/p/b0e0be945161) |
-| Sat, 21 Mar 2026 09:51:12 GMT | Ottergram (websockets) Bugforge | 7s26Simon | [Read More](https://medium.com/p/6b20e5ab664c) |
-| Sat, 21 Mar 2026 09:50:13 GMT | HashGate — Pico Ctf | Ishant | [Read More](https://medium.com/p/fa590d670130) |
-| Sat, 21 Mar 2026 09:31:57 GMT | NVIDIA OpenShell Technical Deep Dive: Building Secure Runtime for Autonomous AI Agents | Siddharth Tiwari | [Read More](https://medium.com/p/41c6af0b06eb) |
-| Sat, 21 Mar 2026 09:30:28 GMT | Ringkasan chapter 1 - intruduction (mark stamp) | Maytaandani | [Read More](https://medium.com/p/04d006decb2a) |
-| Sat, 21 Mar 2026 09:27:57 GMT | The Future of Dark Web Threat Intelligence, Market Dynamics, Technological Commoditization, and… | David SEHYEON Baek | [Read More](https://medium.com/p/e973640756f7) |
-| Sat, 21 Mar 2026 09:23:58 GMT | The Most Dangerous Things in Your AWS Account | Sena Yakut | [Read More](https://medium.com/p/524758aba94a) |
-| Sat, 21 Mar 2026 09:19:10 GMT | Managing Every Digital Identity: A Look at WSO2 Access Manager | Ayorafernando | [Read More](https://medium.com/p/42cbe26052af) |
