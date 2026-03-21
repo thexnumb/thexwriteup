@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 18:34:00 GMT | Why DeFi Needs Vault Infrastructure | Kryptolord | [Read More](https://medium.com/p/eae088dcd973) |
+| Sat, 21 Mar 2026 18:33:59 GMT | Title: “The Silent Breach — 2026” | Topudhan | [Read More](https://medium.com/p/135d38173e36) |
+| Sat, 21 Mar 2026 18:31:27 GMT | IP Ünvanlamasının İşləmə Prinsipi | Hamid Aslanov | [Read More](https://medium.com/p/bcf936b71501) |
+| Sat, 21 Mar 2026 18:27:38 GMT | Understanding ISP Traffic Shaping: A Practical Analysis of Bandwidth Limits | Abdelnour Osman (DarkT) | [Read More](https://medium.com/p/ad91bfcc9c46) |
+| Sat, 21 Mar 2026 18:21:31 GMT | How to Setup a Completely Secure Home Network From Scratch (2026 Guide) | Temma | [Read More](https://medium.com/p/c28c1d76c78e) |
+| Sat, 21 Mar 2026 18:21:02 GMT | Windows Event Logs | Hitesh kumar | [Read More](https://medium.com/p/a779bfff0048) |
+| Sat, 21 Mar 2026 18:20:30 GMT | Breaking RSA for CTFs: Complete Attack Guide with Python - Cryptography - By Alham Rizvi | Alham Rizvi | [Read More](https://medium.com/p/b151835e30db) |
+| Sat, 21 Mar 2026 18:16:00 GMT | OCI Bastion Service: Secure Access to Private Resources Without a Jump Box | Pavan Madduri | [Read More](https://medium.com/p/06cb7233b6d0) |
+| Sat, 21 Mar 2026 18:14:54 GMT | I Hacked a Drone Swarm With a Chatbot — Here’s Why That Should Worry You | @3odat | [Read More](https://medium.com/p/db3bb65f62ea) |
+| Sat, 21 Mar 2026 18:06:25 GMT | TryHackMe - Microsoft Intune Monitoring - WriteUp | Axoloth | [Read More](https://medium.com/p/01bcc7c85679) |
+| Sat, 21 Mar 2026 17:45:32 GMT | CVE-2025–66034 POC | Muhammad Arafat | [Read More](https://medium.com/p/112bfb1b7044) |
 | Sat, 21 Mar 2026 17:21:27 GMT | Why Choosing the Right App Development Company in India Can Transform Your Business | LoudOwls | [Read More](https://medium.com/p/2f8fa8316e98) |
 | Sat, 21 Mar 2026 17:21:17 GMT | Reapersec | Federalbrother | [Read More](https://medium.com/p/90ff8b7c8e06) |
 | Sat, 21 Mar 2026 17:20:22 GMT | 29 Million Secrets Leaked on GitHub — Detect Secret Leaks in AI-Generated Code (Part 1) | Prince Bharti | [Read More](https://medium.com/p/5e3037e43c89) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 11:20:04 GMT | Not every heart knows how to hold your.. | Chanchal Sharma | [Read More](https://medium.com/p/6f3fe95f259e) |
 | Sat, 21 Mar 2026 11:16:34 GMT | SharePoint Online Monitoring - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/a13bcb87cd9d) |
 | Sat, 21 Mar 2026 11:15:17 GMT | When Security Tools Are Compromised: Trivy Incident Highlights Hidden Risks in DevSecOps Pipelines | Jas | [Read More](https://medium.com/p/6f9aebeb050e) |
-| Sat, 21 Mar 2026 11:11:39 GMT | Clearing OSCP with 0 pentesting experience, from a blue teamer’s POV | extraGravy | [Read More](https://medium.com/p/9291764c3364) |
-| Sat, 21 Mar 2026 11:10:51 GMT | What Secret Scanners Actually Catch: Developer Error, Not Adversary Action | André Ataíde | [Read More](https://medium.com/p/22cd19de05c2) |
-| Sat, 21 Mar 2026 11:06:03 GMT | SQL Injection, DDoS and Phishing — What They Are and Why You Should Know About Them | Fahshadaju | [Read More](https://medium.com/p/4c42ba536eeb) |
-| Sat, 21 Mar 2026 11:04:34 GMT | 7 Tableau Techniques That Took My Dashboards From Reported to Remembered — And One Embarrassing… | Deep Chatterjee | [Read More](https://medium.com/p/43df7e22b66b) |
-| Sat, 21 Mar 2026 10:56:56 GMT | Prompt Injection With Gandalf | Marco Nappi | [Read More](https://medium.com/p/3d909876af6f) |
-| Sat, 21 Mar 2026 10:53:07 GMT | Beyond Borders: Why Nigeria’s Security Depends on a Stable Sahel | Know Afrika | [Read More](https://medium.com/p/1fd51a413557) |
-| Sat, 21 Mar 2026 10:52:56 GMT | Digital Footprint: Your Online Identity | Gargvedant | [Read More](https://medium.com/p/7ada5e47ff7d) |
-| Sat, 21 Mar 2026 10:51:06 GMT | Free Alternatives to Modr8ai for Web3 Telegram Security And Why Free Isn’t Enough Before TGE | Bershtech | [Read More](https://medium.com/p/53a57d237806) |
-| Sat, 21 Mar 2026 10:43:52 GMT | The Hidden Attack Surface: Why AI Skill Files Need Security Auditing | Sourav Mukherjee | [Read More](https://medium.com/p/cc205d9d0df5) |
-| Sat, 21 Mar 2026 10:43:50 GMT | JWT: A Deep Dive into Algorithm Confusion | Redfox Security | [Read More](https://medium.com/p/1f1d52e7ed89) |
-| Sat, 21 Mar 2026 10:42:54 GMT | Lost in the Vertical City: How My Journey to Chongqing Led to a Modern-Day Nightmare | Jeedaa | [Read More](https://medium.com/p/d5a743729bfa) |
