@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 11:16:34 GMT | SharePoint Online Monitoring - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/a13bcb87cd9d) |
+| Sat, 21 Mar 2026 11:15:17 GMT | When Security Tools Are Compromised: Trivy Incident Highlights Hidden Risks in DevSecOps Pipelines | Jas | [Read More](https://medium.com/p/6f9aebeb050e) |
+| Sat, 21 Mar 2026 11:11:39 GMT | Clearing OSCP with 0 pentesting experience, from a blue teamer’s POV | extraGravy | [Read More](https://medium.com/p/9291764c3364) |
+| Sat, 21 Mar 2026 11:10:51 GMT | What Secret Scanners Actually Catch: Developer Error, Not Adversary Action | André Ataíde | [Read More](https://medium.com/p/22cd19de05c2) |
+| Sat, 21 Mar 2026 11:06:03 GMT | SQL Injection, DDoS and Phishing — What They Are and Why You Should Know About Them | Fahshadaju | [Read More](https://medium.com/p/4c42ba536eeb) |
+| Sat, 21 Mar 2026 11:04:34 GMT | 7 Tableau Techniques That Took My Dashboards From Reported to Remembered — And One Embarrassing… | Deep Chatterjee | [Read More](https://medium.com/p/43df7e22b66b) |
+| Sat, 21 Mar 2026 10:56:56 GMT | Prompt Injection With Gandalf | Marco Nappi | [Read More](https://medium.com/p/3d909876af6f) |
+| Sat, 21 Mar 2026 10:53:07 GMT | Beyond Borders: Why Nigeria’s Security Depends on a Stable Sahel | Know Afrika | [Read More](https://medium.com/p/1fd51a413557) |
+| Sat, 21 Mar 2026 10:51:06 GMT | Free Alternatives to Modr8ai for Web3 Telegram Security And Why Free Isn’t Enough Before TGE | Bershtech | [Read More](https://medium.com/p/53a57d237806) |
 | Sat, 21 Mar 2026 10:43:52 GMT | The Hidden Attack Surface: Why AI Skill Files Need Security Auditing | Sourav Mukherjee | [Read More](https://medium.com/p/cc205d9d0df5) |
 | Sat, 21 Mar 2026 10:43:50 GMT | JWT: A Deep Dive into Algorithm Confusion | Redfox Security | [Read More](https://medium.com/p/1f1d52e7ed89) |
 | Sat, 21 Mar 2026 10:42:54 GMT | Lost in the Vertical City: How My Journey to Chongqing Led to a Modern-Day Nightmare | Jeedaa | [Read More](https://medium.com/p/d5a743729bfa) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 02:12:51 GMT | You Need This Secret Weapon Against Open Source Malware Now! | cybrNK | [Read More](https://medium.com/p/3920384bff34) |
 | Sat, 21 Mar 2026 02:11:46 GMT | I Rebuilt a Real North Korean Malware Attack in My Lab — Here’s Everything | Cyber-30 | [Read More](https://medium.com/p/49923f264af6) |
 | Sat, 21 Mar 2026 02:07:52 GMT | Willow — From NFS to Root - TryHackMe CTF Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/e11c1997ae1f) |
-| Sat, 21 Mar 2026 01:45:27 GMT | SDR + Raspberry Pi Projects That Go Beyond Hobby Level | Michael Preston | [Read More](https://medium.com/p/46a70d75dcd8) |
-| Sat, 21 Mar 2026 01:25:58 GMT | Agency Debt: Why AI Agents Are Changing Enterprise Security Models | Rupali Sharma | [Read More](https://medium.com/p/56add06a8f98) |
-| Sat, 21 Mar 2026 01:08:46 GMT | ARK Project: Official Interconnected Ecosystem Protocol & Verified Digital Nodes | Apollonas Soben | [Read More](https://medium.com/p/49cb9dddd9db) |
-| Sat, 21 Mar 2026 01:01:21 GMT | Hacking NASA Without a Login: How One Clojure Function Gave Me Root Access | Obaskly | [Read More](https://medium.com/p/b1ccdc0684ac) |
-| Sat, 21 Mar 2026 00:57:17 GMT | An Introduction to Infostealer Malware: How They Work, Main Families, and Technical Breakdown | Luis Santiago | [Read More](https://medium.com/p/0a755e7283da) |
-| Sat, 21 Mar 2026 00:49:46 GMT | How HTTPS security Works | Venkateshkasani | [Read More](https://medium.com/p/481e5b794368) |
-| Sat, 21 Mar 2026 00:25:06 GMT | Resolute - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/f16d494d8721) |
-| Sat, 21 Mar 2026 00:02:24 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / HIRE A HACKER WHO CAN HELP YOU IN RECOVERY YOUR STOLEN FUNDS | Kristof janssens | [Read More](https://medium.com/p/443abefce10b) |
-| Fri, 20 Mar 2026 23:39:31 GMT | Exchange Online Migration Tools for MSPs (2026) | Marc-André Hallé | [Read More](https://medium.com/p/270e8dd20307) |
