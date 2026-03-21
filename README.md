@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 05:47:24 GMT | DPDP Readiness in India: Why Compliance Alone Isn’t Enough | Aanchal Sharma | [Read More](https://medium.com/p/0853f981ec10) |
+| Sat, 21 Mar 2026 05:47:01 GMT | No Malware Required | Albert D. Jee | [Read More](https://medium.com/p/ab73a54fbd95) |
 | Sat, 21 Mar 2026 05:13:13 GMT | AI Agents Are Breaking Security: Why Access Control Might Become Obsolete | Yash Maheshwari | [Read More](https://medium.com/p/bec92048d0b2) |
 | Sat, 21 Mar 2026 05:06:00 GMT | Your AI Agent Is Leaking Your Data. We Built a Privacy Firewall to Stop It. | Srini Anant | [Read More](https://medium.com/p/cc5ea27d2589) |
 | Sat, 21 Mar 2026 05:02:52 GMT | Cybersecurity Doesn’t Fail Because Controls Are Missing — It Fails Because Decisions Are Not… | Nataliia Stashevska | [Read More](https://medium.com/p/64366993bd6c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 18:49:19 GMT | THM - Dev Diaries | Francesco Pastore | [Read More](https://medium.com/p/6fd2f3a3f2fd) |
 | Fri, 20 Mar 2026 18:46:55 GMT | The Biggest Flex in Cybersecurity? Building Systems That Survive Attacks | Murari Pothuru | [Read More](https://medium.com/p/973cd84c191a) |
 | Fri, 20 Mar 2026 18:43:34 GMT | DarkSword iOS Attack | SOCFortress | [Read More](https://medium.com/p/698b642cf80b) |
-| Fri, 20 Mar 2026 18:40:51 GMT | quiet00 — RamadanCTF 2026 (OSINT) | Hamzeh Alawneh | [Read More](https://medium.com/p/eaa95581df79) |
-| Fri, 20 Mar 2026 18:40:09 GMT | HTB:Certified - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/cd59e0c7a16d) |
