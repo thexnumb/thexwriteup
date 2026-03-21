@@ -12,8 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 12:48:29 GMT | Unprotected Admin Functionality — Portswiger writeups | Anonymousd | [Read More](https://medium.com/p/71578d8da906) |
+| Sat, 21 Mar 2026 12:39:25 GMT | Cybersecurity: Why It’s the Backbone of Every Organization. | Karen | [Read More](https://medium.com/p/4a5b8642ee46) |
+| Sat, 21 Mar 2026 12:30:25 GMT | KerBug — the simplest Linux-Binary Debugger ever build | Kernel Phantom | [Read More](https://medium.com/p/21e44962a0a5) |
+| Sat, 21 Mar 2026 12:27:23 GMT | HTB Administrator Walkthrough | Hollacosta | [Read More](https://medium.com/p/a98065c793a4) |
+| Sat, 21 Mar 2026 12:26:39 GMT | Unguarded Intelligence: The AI Pretense | Shireesh Sharma | [Read More](https://medium.com/p/48c0ac6a808e) |
+| Sat, 21 Mar 2026 12:21:00 GMT | FortiGate Under the AI Microscope: When Recon Becomes Autonomous | Ilias Armenakis | [Read More](https://medium.com/p/137af9500659) |
+| Sat, 21 Mar 2026 12:19:07 GMT | Funboxeasy writeup | sabR | [Read More](https://medium.com/p/b5453daaec94) |
+| Sat, 21 Mar 2026 12:15:14 GMT | Day 81 — SSL in AI Projects: Why It Matters, How It is TLS, and a Practical OpenSSL Walkthrough | Alok Rahul | [Read More](https://medium.com/p/f6d18aa54b15) |
+| Sat, 21 Mar 2026 12:13:41 GMT | The Odyssey of a Small-Scale Contractor | Moschonas Georgios | [Read More](https://medium.com/p/7e7eaa2c040a) |
+| Sat, 21 Mar 2026 12:12:32 GMT | KDM: The Digital Lock That Controls Every Movie You Watch | Shantanu Singh | [Read More](https://medium.com/p/764c85c66b38) |
+| Sat, 21 Mar 2026 12:07:06 GMT | OSINT Isn’t About Skill Anymore. It’s About Systems | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6246b2cf8332) |
+| Sat, 21 Mar 2026 12:06:37 GMT | SOC-Level Bash Scripts Every Linux SysAdmin Should Have Ready | Namrata Dandgawal | [Read More](https://medium.com/p/da699b1c110a) |
+| Sat, 21 Mar 2026 11:57:20 GMT | Securing Jeff’s Juice Shop: A Guide to Bastion Hosts and IAP on Google Cloud (Challenge Lab) | Douglas Francis | [Read More](https://medium.com/p/1c2beea86c04) |
+| Sat, 21 Mar 2026 11:57:05 GMT | Deploying SecObserve on Kubernetes: A Complete Guide | Gleb Wam | [Read More](https://medium.com/p/950a55a28e95) |
+| Sat, 21 Mar 2026 11:50:49 GMT | Web Application Security: Hands-On Practice (Chapter 18 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/ae48ebccd919) |
+| Sat, 21 Mar 2026 11:50:47 GMT | Building Our Own PaaS Infrastructure: From Scratch to Production (Part 0: Introduction) | Muhammet İkbal Yakupoglu | [Read More](https://medium.com/p/74c7e9f1da35) |
 | Sat, 21 Mar 2026 11:45:49 GMT | The Hacker’s guide to meaningful work | Abhinav Jain | [Read More](https://medium.com/p/beed6fe21943) |
 | Sat, 21 Mar 2026 11:33:41 GMT | Breaking the Wall: A Deep Dive Into WAF Detection and Bypass Techniques | Sonu Chaudhary | [Read More](https://medium.com/p/e880be92d0c0) |
+| Sat, 21 Mar 2026 11:33:28 GMT | Cross Side Scripting | Abbhi | [Read More](https://medium.com/p/92e41471fe84) |
 | Sat, 21 Mar 2026 11:31:12 GMT | The Ultimate Growth Engine for Modern Businesses: HY Gravity Solutions | Hygravity | [Read More](https://medium.com/p/fdaf0daf0dc1) |
 | Sat, 21 Mar 2026 11:29:10 GMT | Myanmar’s Min Aung Hlaing struggles for political longevity | Naing Min Khant | [Read More](https://medium.com/p/cde5491f676f) |
 | Sat, 21 Mar 2026 11:27:12 GMT | Myanmar’s Min Aung Hlaing sets the groundwork for a possible political exit | Naing Min Khant | [Read More](https://medium.com/p/d7c3cc89b9dc) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 06:08:15 GMT | What Is OSINT & How Hackers Use It ️ | loopXvedant | [Read More](https://medium.com/p/9c3b9313b82e) |
 | Sat, 21 Mar 2026 06:04:43 GMT | Building a GitOps Drift Detection & Auto-Remediation Pipeline with ArgoCD, GitHub Actions, and… | Coding_Karma | [Read More](https://medium.com/p/f72545c63fdf) |
 | Sat, 21 Mar 2026 05:47:24 GMT | DPDP Readiness in India: Why Compliance Alone Isn’t Enough | Aanchal Sharma | [Read More](https://medium.com/p/0853f981ec10) |
-| Sat, 21 Mar 2026 05:47:01 GMT | No Malware Required | Albert D. Jee | [Read More](https://medium.com/p/ab73a54fbd95) |
-| Sat, 21 Mar 2026 05:13:13 GMT | AI Agents Are Breaking Security: Why Access Control Might Become Obsolete | Yash Maheshwari | [Read More](https://medium.com/p/bec92048d0b2) |
-| Sat, 21 Mar 2026 05:06:00 GMT | Your AI Agent Is Leaking Your Data. We Built a Privacy Firewall to Stop It. | Srini Anant | [Read More](https://medium.com/p/cc5ea27d2589) |
-| Sat, 21 Mar 2026 05:02:52 GMT | Cybersecurity Doesn’t Fail Because Controls Are Missing — It Fails Because Decisions Are Not… | Nataliia Stashevska | [Read More](https://medium.com/p/64366993bd6c) |
-| Sat, 21 Mar 2026 05:01:00 GMT | Why Understanding Attacker Methodology Makes You Better at Security. | Abraham | [Read More](https://medium.com/p/567c3318ad16) |
-| Sat, 21 Mar 2026 05:01:00 GMT | I built a tool because I was Tired of sharing .env files on Slack | Sumit Khanna | [Read More](https://medium.com/p/5272a923d933) |
-| Sat, 21 Mar 2026 05:00:08 GMT | The XZ Backdoor and What It Revealed About the Fragility of Open Source Infrastructure | Edits Com Com Com | [Read More](https://medium.com/p/4b860ef4d613) |
-| Sat, 21 Mar 2026 04:48:22 GMT | Cross-Site Scripting Explained With Real Examples | 0xSmit | [Read More](https://medium.com/p/5b5aa9f1f40e) |
-| Sat, 21 Mar 2026 04:40:10 GMT | What is Network Sniffing? Tools & Risks Explained Networking — Day 13 | 0xSmit | [Read More](https://medium.com/p/f88e1b040fd6) |
-| Sat, 21 Mar 2026 04:31:01 GMT | Tooling Safety: 11 Logs That Prove Agent Actions | Vectorlane | [Read More](https://medium.com/p/c824cc5cccf2) |
-| Sat, 21 Mar 2026 04:09:12 GMT | SQLMap Meets AI: Skynet + Ollama Security Workflow | Pentester Club | [Read More](https://medium.com/p/a9902b2019e9) |
-| Sat, 21 Mar 2026 03:57:53 GMT | the invisible pressure | Somya Pawar | [Read More](https://medium.com/p/52928edc937d) |
-| Sat, 21 Mar 2026 03:33:03 GMT | Why Every CISO Needs a Cyber Risk Quantification Agent (And How to Build One in 30 Minutes) | Snehanjan Chatterjee | [Read More](https://medium.com/p/e3ee9957f1a9) |
-| Sat, 21 Mar 2026 03:26:24 GMT | From Active Directory to Internal Apps: Why This Project Started | ZeroScorpion | [Read More](https://medium.com/p/a641634a4151) |
-| Sat, 21 Mar 2026 03:22:12 GMT | Your AI Agent Has Root Access to Your Machine — NVIDIA’s OpenShell Is Here to Fix That | ThamizhElango Natarajan | [Read More](https://medium.com/p/5ad219bdc288) |
-| Sat, 21 Mar 2026 03:05:26 GMT | Passing the AWS AI Practitioner and Seeing the Bigger Picture | Incidalus | [Read More](https://medium.com/p/e5df22fbadda) |
-| Sat, 21 Mar 2026 03:04:11 GMT | I made a free VAPT report template | Yosherif | [Read More](https://medium.com/p/6839e4410d5e) |
