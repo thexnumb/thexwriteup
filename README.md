@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 20:21:17 GMT | Microsoft Intune Monitoring TryHackMe Super Detailed Walkthrough - THM Motion Graphics Writeup -… | Sunny Singh Verma [ SuNnY ] | [Read More](https://medium.com/p/ef10f85661b9) |
+| Sat, 21 Mar 2026 20:14:10 GMT | Data Strategy and Data Governance, reimagined. | Mohammed Brückner | [Read More](https://medium.com/p/22121d19dd35) |
+| Sat, 21 Mar 2026 20:11:44 GMT | Wake-up Call: Best practices for securing Microsoft Intune | SOCFortress | [Read More](https://medium.com/p/d87d1c3b10d1) |
+| Sat, 21 Mar 2026 20:05:16 GMT | Hackers Are Already Knocking !! | Abdelhalim Yahya | [Read More](https://medium.com/p/5d02b4bab358) |
+| Sat, 21 Mar 2026 20:04:26 GMT | Critical Browser Vulnerability Alert (Act Now!) | CyberRise Institute | [Read More](https://medium.com/p/21b152ffc628) |
+| Sat, 21 Mar 2026 19:57:31 GMT | Uncovering Hidden Data: Solving Root-Me “Acropalypse” Forensics Challenge (CVE-2023–28303) | Vbdelrvhmvnx | [Read More](https://medium.com/p/10844f07edcc) |
+| Sat, 21 Mar 2026 19:54:19 GMT | Cybersecurity Awareness and Human Factor Vulnerability in Kazakhstan | Richparen Pro | [Read More](https://medium.com/p/8eeb343eaf64) |
+| Sat, 21 Mar 2026 19:54:15 GMT | Your Codebase Deserves a Reviewer That Actually Knows It | Hemanth Gokavarapu | [Read More](https://medium.com/p/d353df7b4cde) |
+| Sat, 21 Mar 2026 19:46:24 GMT | Why I Built a Native C Forensic Agent to Replace My System Monitor | shresth paul | [Read More](https://medium.com/p/241797b47b0a) |
+| Sat, 21 Mar 2026 19:46:00 GMT | OWASP API Top 10 Explained With Real Stories, Not Boring Docs | Yamini Yadav_369 | [Read More](https://medium.com/p/e7b6ca8ed6be) |
+| Sat, 21 Mar 2026 19:44:34 GMT | SQL Injection: Listing Database Contents (Non-Oracle) — PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/6aa4e9f86b68) |
+| Sat, 21 Mar 2026 19:41:00 GMT | Microsoft Intune Monitoring - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/2cf288fc0953) |
 | Sat, 21 Mar 2026 19:27:35 GMT | What Is a Website Security Check and Does Your Small Business Need One? | Sitescanly | [Read More](https://medium.com/p/954f2a2fa505) |
 | Sat, 21 Mar 2026 19:19:38 GMT | Direksiyon Gerçekten Sizin Elinizde mi? Yeni Nesil Otomobilleri Hacklemek | Efe Cengiz | [Read More](https://medium.com/p/3988e90f4e42) |
 | Sat, 21 Mar 2026 19:18:58 GMT | How I Find the Real IP Behind Cloudflare (When It’s Not Supposed to Be Visible) | Sonu Chaudhary | [Read More](https://medium.com/p/cd48e2ce5e62) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 12:27:23 GMT | HTB Administrator Walkthrough | Hollacosta | [Read More](https://medium.com/p/a98065c793a4) |
 | Sat, 21 Mar 2026 12:26:39 GMT | Unguarded Intelligence: The AI Pretense | Shireesh Sharma | [Read More](https://medium.com/p/48c0ac6a808e) |
 | Sat, 21 Mar 2026 12:21:00 GMT | FortiGate Under the AI Microscope: When Recon Becomes Autonomous | Ilias Armenakis | [Read More](https://medium.com/p/137af9500659) |
-| Sat, 21 Mar 2026 12:19:07 GMT | Funboxeasy writeup | sabR | [Read More](https://medium.com/p/b5453daaec94) |
-| Sat, 21 Mar 2026 12:15:14 GMT | Day 81 — SSL in AI Projects: Why It Matters, How It is TLS, and a Practical OpenSSL Walkthrough | Alok Rahul | [Read More](https://medium.com/p/f6d18aa54b15) |
-| Sat, 21 Mar 2026 12:13:41 GMT | The Odyssey of a Small-Scale Contractor | Moschonas Georgios | [Read More](https://medium.com/p/7e7eaa2c040a) |
-| Sat, 21 Mar 2026 12:12:32 GMT | KDM: The Digital Lock That Controls Every Movie You Watch | Shantanu Singh | [Read More](https://medium.com/p/764c85c66b38) |
-| Sat, 21 Mar 2026 12:07:06 GMT | OSINT Isn’t About Skill Anymore. It’s About Systems | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6246b2cf8332) |
-| Sat, 21 Mar 2026 12:06:37 GMT | SOC-Level Bash Scripts Every Linux SysAdmin Should Have Ready | Namrata Dandgawal | [Read More](https://medium.com/p/da699b1c110a) |
-| Sat, 21 Mar 2026 11:57:20 GMT | Securing Jeff’s Juice Shop: A Guide to Bastion Hosts and IAP on Google Cloud (Challenge Lab) | Douglas Francis | [Read More](https://medium.com/p/1c2beea86c04) |
-| Sat, 21 Mar 2026 11:57:05 GMT | Deploying SecObserve on Kubernetes: A Complete Guide | Gleb Wam | [Read More](https://medium.com/p/950a55a28e95) |
-| Sat, 21 Mar 2026 11:50:49 GMT | Web Application Security: Hands-On Practice (Chapter 18 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/ae48ebccd919) |
-| Sat, 21 Mar 2026 11:50:47 GMT | Building Our Own PaaS Infrastructure: From Scratch to Production (Part 0: Introduction) | Muhammet İkbal Yakupoglu | [Read More](https://medium.com/p/74c7e9f1da35) |
-| Sat, 21 Mar 2026 11:45:49 GMT | The Hacker’s guide to meaningful work | Abhinav Jain | [Read More](https://medium.com/p/beed6fe21943) |
-| Sat, 21 Mar 2026 11:33:41 GMT | Breaking the Wall: A Deep Dive Into WAF Detection and Bypass Techniques | Sonu Chaudhary | [Read More](https://medium.com/p/e880be92d0c0) |
