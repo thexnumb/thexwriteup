@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 10:26:40 GMT | A Vendor DMZ Pattern | Robert Broeckelmann | [Read More](https://medium.com/p/2ec17d9a92b0) |
+| Sat, 21 Mar 2026 10:21:00 GMT | The Seven Words That Kill Accountability in a Crisis: “We Thought Someone Else Owned It” | Tyson Martin | [Read More](https://medium.com/p/9f23ef09d1d2) |
+| Sat, 21 Mar 2026 10:14:13 GMT | How fast could you actually be hacked? Most companies don’t know the answer | Marc Rabadan | [Read More](https://medium.com/p/71a2c019f62d) |
+| Sat, 21 Mar 2026 10:01:01 GMT | AI and Security: The Good, the Bad, and the Terrible | Irene Basaglia | [Read More](https://medium.com/p/5b9134660445) |
+| Sat, 21 Mar 2026 10:01:01 GMT | Why Small Teams Achieve ISO 27001 Compliance Faster Than Large Organizations | Gaurav Shukla | [Read More](https://medium.com/p/930387250c0f) |
+| Sat, 21 Mar 2026 09:57:27 GMT | Arasaka (Easy) — HackSmarter (Assumed Breach) Write-up | yamish marshall | [Read More](https://medium.com/p/b0e0be945161) |
+| Sat, 21 Mar 2026 09:51:12 GMT | Ottergram (websockets) Bugforge | 7s26Simon | [Read More](https://medium.com/p/6b20e5ab664c) |
+| Sat, 21 Mar 2026 09:50:13 GMT | HashGate — Pico Ctf | Ishant | [Read More](https://medium.com/p/fa590d670130) |
+| Sat, 21 Mar 2026 09:31:57 GMT | NVIDIA OpenShell Technical Deep Dive: Building Secure Runtime for Autonomous AI Agents | Siddharth Tiwari | [Read More](https://medium.com/p/41c6af0b06eb) |
+| Sat, 21 Mar 2026 09:30:28 GMT | Ringkasan chapter 1 - intruduction (mark stamp) | Maytaandani | [Read More](https://medium.com/p/04d006decb2a) |
 | Sat, 21 Mar 2026 09:27:57 GMT | The Future of Dark Web Threat Intelligence, Market Dynamics, Technological Commoditization, and… | David SEHYEON Baek | [Read More](https://medium.com/p/e973640756f7) |
 | Sat, 21 Mar 2026 09:23:58 GMT | The Most Dangerous Things in Your AWS Account | Sena Yakut | [Read More](https://medium.com/p/524758aba94a) |
 | Sat, 21 Mar 2026 09:19:10 GMT | Managing Every Digital Identity: A Look at WSO2 Access Manager | Ayorafernando | [Read More](https://medium.com/p/42cbe26052af) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 23:28:15 GMT | Best Google Workspace to Microsoft 365 Migration Tools (2026) | Kaushik Kumar | [Read More](https://medium.com/p/f0474cf219f6) |
 | Fri, 20 Mar 2026 23:27:07 GMT | Bitunix: Instant Crypto Purchase With No Verification Barrier While SEC-CFTC Joint Framework… | Cyptalily | [Read More](https://medium.com/p/a27b2f47ed93) |
 | Fri, 20 Mar 2026 23:19:22 GMT | Modernizing Legacy Government Systems: A Practitioner’s Perspective on Challenges, Strategies, and… | Rabindra Bhandari | [Read More](https://medium.com/p/e15746435c53) |
-| Fri, 20 Mar 2026 23:17:40 GMT | Exchange Online Migration Tools for M&A and Tenant Consolidation (2026) | Juliana Reyes | [Read More](https://medium.com/p/0c3b14274042) |
-| Fri, 20 Mar 2026 23:11:27 GMT | Google Workspace to Microsoft 365 Migration Tools for IT Teams (2026) | Juliana Reyes | [Read More](https://medium.com/p/c91fbaebaa1e) |
-| Fri, 20 Mar 2026 23:01:01 GMT | Apple’s Private AI Claim Breaks if Cloud Fallback Hides the Logs | James Kuhman | [Read More](https://medium.com/p/5ab71627207e) |
-| Fri, 20 Mar 2026 23:01:01 GMT | How I Automated Google Dorking with a Simple Bookmarklet | 5hr33.j11 | [Read More](https://medium.com/p/24acb92a7303) |
-| Fri, 20 Mar 2026 22:59:36 GMT | THM: ToolsRus | Murad Salem | [Read More](https://medium.com/p/56737bd47dd9) |
-| Fri, 20 Mar 2026 22:51:00 GMT | Your Business Wi-Fi Is Probably a Security Disaster (Here’s How to Fix It) | Sharon Martin | [Read More](https://medium.com/p/84a39cad3a86) |
-| Fri, 20 Mar 2026 22:40:02 GMT | مراجعة سريعة لشهادة eWPTXv3: وش تركز عليه وكيف تجهز لها؟ | Baiata Abdelkader | [Read More](https://medium.com/p/1b4859d466a6) |
-| Fri, 20 Mar 2026 22:36:19 GMT | The Master Key Problem: Securing OpenClaw’s Startup | Craig Dewar | [Read More](https://medium.com/p/62f49a6b8fcc) |
-| Fri, 20 Mar 2026 22:33:50 GMT | Audit de Votre Infrastructure IT : Performance, Sécurité et Fiabilité | Digitzsolution Team | [Read More](https://medium.com/p/ccad3f5dea05) |
-| Fri, 20 Mar 2026 22:26:04 GMT | Günlük Hayatta En Büyük 10 Güvenlik Hatası | Ali Yaşe | [Read More](https://medium.com/p/404a8774a06b) |
