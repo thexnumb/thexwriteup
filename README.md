@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 09:27:57 GMT | The Future of Dark Web Threat Intelligence, Market Dynamics, Technological Commoditization, and… | David SEHYEON Baek | [Read More](https://medium.com/p/e973640756f7) |
+| Sat, 21 Mar 2026 09:23:58 GMT | The Most Dangerous Things in Your AWS Account | Sena Yakut | [Read More](https://medium.com/p/524758aba94a) |
+| Sat, 21 Mar 2026 09:19:10 GMT | Managing Every Digital Identity: A Look at WSO2 Access Manager | Ayorafernando | [Read More](https://medium.com/p/42cbe26052af) |
+| Sat, 21 Mar 2026 09:18:49 GMT | Mr Robot Simulation: Initial Access | Allen Ace | [Read More](https://medium.com/p/e26982a7eede) |
+| Sat, 21 Mar 2026 09:17:12 GMT | LetsDefend - SOC135 — Multiple FTP Connection Attempt | ocharek | [Read More](https://medium.com/p/aa067275ee6c) |
+| Sat, 21 Mar 2026 09:16:39 GMT | Startups Pause Amid Geopolitical Conflict | Abhijit Freelancepreneur | [Read More](https://medium.com/p/110fb172649b) |
+| Sat, 21 Mar 2026 09:16:00 GMT | Why LLMs Hallucinate Vulnerabilities Part One: The Model Ghost | Aadith Sukumar | [Read More](https://medium.com/p/08ebbae80127) |
+| Sat, 21 Mar 2026 09:10:51 GMT | Ubuntu Server vs Debian: A Beginner’s Guide to Two of Linux’s Most Powerful Server Operating… | Crispusadrian | [Read More](https://medium.com/p/8725096adf62) |
+| Sat, 21 Mar 2026 09:07:32 GMT | Cyber Security | Riteshexcellence | [Read More](https://medium.com/p/7eff31c46cbc) |
+| Sat, 21 Mar 2026 09:06:23 GMT | Top Dark Web Intelligence & Monitoring Tools | EINITIAL24 | [Read More](https://medium.com/p/e7a10d93228b) |
+| Sat, 21 Mar 2026 09:05:20 GMT | Bitwon.exchange investment scam: File a claim | Robert | [Read More](https://medium.com/p/4d6cbff9d379) |
+| Sat, 21 Mar 2026 09:01:01 GMT | Why hiding data in a JPEG is harder than you think | Daniel Iwugo | [Read More](https://medium.com/p/11a9ebedb69e) |
+| Sat, 21 Mar 2026 09:00:39 GMT | Security Challenges in Microservices and Their Counter Measures. | Omsiddhrane | [Read More](https://medium.com/p/a810b41b05d0) |
+| Sat, 21 Mar 2026 08:58:34 GMT | The Shocking Password Reset Loopholes Letting Attackers Steal Privileges in Minutes!!! | cybrNK | [Read More](https://medium.com/p/1ec2922b8ce0) |
+| Sat, 21 Mar 2026 08:54:30 GMT | AI Security for Boise Businesses: Protecting AI-Powered Operations with MicroTech Systems | Microtechsystems | [Read More](https://medium.com/p/b68cdd453ca5) |
+| Sat, 21 Mar 2026 08:46:29 GMT | How We Cracked a Ransomware That Encrypted My Friend’s Entire Server | LETCHU PKT | [Read More](https://medium.com/p/81323754a634) |
 | Sat, 21 Mar 2026 08:31:50 GMT | The Three Protocols That Could Bring Down The Internet (And Life as We Know It): DNS, PKI and BGP | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/178a779c2bf5) |
 | Sat, 21 Mar 2026 08:17:58 GMT | DC-3 VulnHub CTF Walkthrough | Satyamsatyarthi | [Read More](https://medium.com/p/505c071673a1) |
 | Sat, 21 Mar 2026 08:17:12 GMT | Migrating Bitcoin to a Quantum-Resistant World — Meet BIP 360 | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/2ffd27cb2f4a) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Mar 2026 22:36:19 GMT | The Master Key Problem: Securing OpenClaw’s Startup | Craig Dewar | [Read More](https://medium.com/p/62f49a6b8fcc) |
 | Fri, 20 Mar 2026 22:33:50 GMT | Audit de Votre Infrastructure IT : Performance, Sécurité et Fiabilité | Digitzsolution Team | [Read More](https://medium.com/p/ccad3f5dea05) |
 | Fri, 20 Mar 2026 22:26:04 GMT | Günlük Hayatta En Büyük 10 Güvenlik Hatası | Ali Yaşe | [Read More](https://medium.com/p/404a8774a06b) |
-| Fri, 20 Mar 2026 22:24:23 GMT | SecurityOnion Crash Course Part 2: Mastering Alerts and Silencing the Noise | HanSolo71 | [Read More](https://medium.com/p/0172ec9caeb3) |
-| Fri, 20 Mar 2026 22:19:10 GMT | Sosyal Mühendislik Saldırıları Nasıl Çalışır? | Ali Yaşe | [Read More](https://medium.com/p/078e3acb8fe8) |
-| Fri, 20 Mar 2026 22:16:23 GMT | Stop Pasting Production Logs into ChatGPT. Meet LogDoctor | Shivam Shashank | [Read More](https://medium.com/p/4281624782d2) |
-| Fri, 20 Mar 2026 22:15:15 GMT | My Idea of an Improved Insurance Industry: AI Driven Pre-Adjuster Systems | Korewa | [Read More](https://medium.com/p/a6e7065cc1a4) |
-| Fri, 20 Mar 2026 22:04:46 GMT | Why Standard Zero-Trust Frameworks Fail for Agentic AI Systems | Operate AI | [Read More](https://medium.com/p/b98348f89f35) |
-| Fri, 20 Mar 2026 21:52:15 GMT | What Does Your AI Know About You? | Julie Russell | [Read More](https://medium.com/p/0dbcffa652c3) |
-| Fri, 20 Mar 2026 21:45:02 GMT | TryHackMe Writeup: WhyHackMe | Berkay AĞGÜL | [Read More](https://medium.com/p/299ea4f94220) |
-| Fri, 20 Mar 2026 21:41:00 GMT | Deterministic Network Halt: How a Nil Pointer in BSC Geth Can Stop a Blockchain | rdin777 | [Read More](https://medium.com/p/270db509b502) |
-| Fri, 20 Mar 2026 21:39:07 GMT | A Unified Approach to System Identity and System Ascendancy | Mi'kail Eli'yah | [Read More](https://medium.com/p/bf78a62795c8) |
-| Fri, 20 Mar 2026 21:35:09 GMT | Clone Cards in the UK: How to Spot the Signs and Protect Your Finances in 2026 | Buy Clone Cards | [Read More](https://medium.com/p/627ee4dd407a) |
-| Fri, 20 Mar 2026 21:33:26 GMT | picoCTF 2025 Walkthrough: Event-Viewing (Forensics) | Sriman kundu | [Read More](https://medium.com/p/48d542af4b8a) |
-| Fri, 20 Mar 2026 21:33:18 GMT | How I Built an Offline Cryptographic Evidence Vault (Open Source) | Chethan Vasthaw Tippani | [Read More](https://medium.com/p/781342829021) |
-| Fri, 20 Mar 2026 21:32:26 GMT | Is Linux truly secure? Or is it just a stereotype? | Codersilicon | [Read More](https://medium.com/p/597326da963d) |
-| Fri, 20 Mar 2026 21:16:54 GMT | Transcending the Shadow Conduit: The Critical Vulnerabilities of Remote Desktop Software and Legacy… | Aymaneelyamani | [Read More](https://medium.com/p/22be887f341c) |
-| Fri, 20 Mar 2026 21:14:10 GMT | What Your .NET Exceptions Are Telling Attackers (And How to Stop It) | Adrian Bailador | [Read More](https://medium.com/p/8718f74f0926) |
-| Fri, 20 Mar 2026 21:07:09 GMT | Blind SQL Injection in Yahoo! | ab.infosec | [Read More](https://medium.com/p/93c40b43a8af) |
