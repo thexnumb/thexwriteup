@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 14:22:18 GMT | You Found a Vulnerability… But It’s Worth $0 | Deepanshu Deep | [Read More](https://medium.com/p/1e5a8cd5e32a) |
+| Sat, 21 Mar 2026 14:21:06 GMT | Overpass : An Easy [Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/d964ad2d6818) |
+| Sat, 21 Mar 2026 14:16:00 GMT | Firebase Security Rules #1: Never Trust the Client | James Allan | [Read More](https://medium.com/p/53cbdfe0e149) |
+| Sat, 21 Mar 2026 14:05:51 GMT | The Importance of Managed Cybersecurity Services in Dubai for Modern Businesses | oadtechnologies | [Read More](https://medium.com/p/371dc683725b) |
+| Sat, 21 Mar 2026 14:01:01 GMT | Threat Hunting for Web Attacks Backup Exposure— LetsDefend [Part 3] | 0verRida | [Read More](https://medium.com/p/9bf9c3e559fb) |
+| Sat, 21 Mar 2026 13:57:11 GMT | Infrastructure Pivoting: How CTI Analysts Expand From a Single IOC to a Full Attacker Network | Andrey Pautov | [Read More](https://medium.com/p/1295d50ec29c) |
+| Sat, 21 Mar 2026 13:46:28 GMT | The Rise of AI-Driven Security Operations Centers (SOC): Transforming Modern Cyber Defence | Cynox Security LLP. | [Read More](https://medium.com/p/a0e753e61873) |
+| Sat, 21 Mar 2026 13:45:43 GMT | A Day in My Life as a Smart Contract Security Researcher | Abraham | [Read More](https://medium.com/p/5fed9be2c009) |
 | Sat, 21 Mar 2026 13:35:12 GMT | The pile-on, the ghost and the professional who breathes first | Abhinav Jain | [Read More](https://medium.com/p/88e8accf11ce) |
 | Sat, 21 Mar 2026 13:33:04 GMT | Neighbour Tryhackme | Harilakshman | [Read More](https://medium.com/p/c41b78fb92db) |
 | Sat, 21 Mar 2026 13:30:17 GMT | Cybersecurity for the Voiceless: Understanding AI-Driven Data Exploitation in Vulnerable… | Rohitraj | [Read More](https://medium.com/p/a9fe2771b5c2) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 07:48:05 GMT | Advanced cyber range platform for red team blue team exercises | cyber security Updates | [Read More](https://medium.com/p/7dd578449aee) |
 | Sat, 21 Mar 2026 07:29:18 GMT | Multi-Factor Authentication (MFA) Is Supposed to Protect You. But What If It Locks You Out? | Tarikbouari | [Read More](https://medium.com/p/e69d49cf1151) |
 | Sat, 21 Mar 2026 07:19:22 GMT | Building a Production-Grade Authentication Flow with Keycloak (OAuth2 + PKCE + Token Lifecycle) | Rajesh Raman | [Read More](https://medium.com/p/e24948f15b8d) |
-| Sat, 21 Mar 2026 07:14:36 GMT | Meta Built a Social Network for AI Agents. Then One of Them Triggered a Security Breach. | thisistfy | [Read More](https://medium.com/p/d48c79d4da5c) |
-| Sat, 21 Mar 2026 07:11:00 GMT | Uncovering the Hidden Threats: How Cyber Investigations Protect Your Business and Reputation | Ivona Jovanovic | [Read More](https://medium.com/p/2883f483e288) |
-| Sat, 21 Mar 2026 07:04:33 GMT | Cybersecurity course in Nagercoil | Anugrah Business | [Read More](https://medium.com/p/8bdab90fbee4) |
-| Sat, 21 Mar 2026 07:01:01 GMT | 20. Designing Approval-Based Deployment Flow | Mangesh Muley | [Read More](https://medium.com/p/f6d8d94a379f) |
-| Sat, 21 Mar 2026 07:01:00 GMT | TryHackMe:Searchlight IMINT | Adabaladhatri | [Read More](https://medium.com/p/328618ad6c82) |
-| Sat, 21 Mar 2026 07:00:21 GMT | Hospital Industry Guards: Ensuring Safety, Trust, and 24/7 Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/8cfdb4d88ab6) |
-| Sat, 21 Mar 2026 07:00:16 GMT | Data Privacy vs Cybersecurity: What Businesses in KSA Should Prioritize | Rahman Iqbal | [Read More](https://medium.com/p/c75b72c8db94) |
-| Sat, 21 Mar 2026 06:54:25 GMT | Antivirus Antivirus Pro Mobile: Professional Care for Your Most Used Device | Rahul yadav | [Read More](https://medium.com/p/101726b97bc5) |
