@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Mar 2026 13:35:12 GMT | The pile-on, the ghost and the professional who breathes first | Abhinav Jain | [Read More](https://medium.com/p/88e8accf11ce) |
+| Sat, 21 Mar 2026 13:33:04 GMT | Neighbour Tryhackme | Harilakshman | [Read More](https://medium.com/p/c41b78fb92db) |
+| Sat, 21 Mar 2026 13:30:17 GMT | Cybersecurity for the Voiceless: Understanding AI-Driven Data Exploitation in Vulnerable… | Rohitraj | [Read More](https://medium.com/p/a9fe2771b5c2) |
+| Sat, 21 Mar 2026 13:21:00 GMT | In the Most Selfish Way, I Want to Witness Your Becoming. | Mariko Evt | [Read More](https://medium.com/p/c4e1e9c459c9) |
+| Sat, 21 Mar 2026 13:16:02 GMT | Initial Access Series 2 : Designing and Delivering a Phishing Campaign | redteamblog101 | [Read More](https://medium.com/p/f1ed46087e85) |
+| Sat, 21 Mar 2026 13:15:25 GMT | Stored DOM XSS to Account Takeover | 0xRedFox29 | [Read More](https://medium.com/p/268ef3869da0) |
+| Sat, 21 Mar 2026 13:12:09 GMT | The Modern Mobile Pentesting Stack in 2026: Tools, Trends & Practical Workflows | TechLatest.Net | [Read More](https://medium.com/p/c6a61aa01a36) |
+| Sat, 21 Mar 2026 13:06:20 GMT | Cyber Security Awareness | Sanjayprasath | [Read More](https://medium.com/p/6d3a64396b82) |
+| Sat, 21 Mar 2026 13:06:04 GMT | Notes on Bruce Schneier’s Lecture on Integrous AI | David Cottingham | [Read More](https://medium.com/p/2ce478183ccf) |
+| Sat, 21 Mar 2026 13:02:14 GMT | I Built a Lie Detector for AI Security Tools. Here’s What I Found. | Jeff Flynt | [Read More](https://medium.com/p/773302edde1a) |
+| Sat, 21 Mar 2026 13:00:19 GMT | APIs Explained Like Traveling Abroad to Get Over Your Ex | Varichmaes Pongparnich | [Read More](https://medium.com/p/8fb94f1b657d) |
+| Sat, 21 Mar 2026 12:56:49 GMT | The Ultimate Cybersecurity Learning Roadmap (With Discounted Courses) | CyberBruhArmy | [Read More](https://medium.com/p/df0023b3000d) |
+| Sat, 21 Mar 2026 12:52:21 GMT | Otonom Yapay Zeka Ajanları Şirketleri Zarara Uğratabilir Mi? “Agent of Chaos” Deneyi | Tuğkan Özkan | [Read More](https://medium.com/p/307654b3e6ee) |
 | Sat, 21 Mar 2026 12:48:29 GMT | Unprotected Admin Functionality — Portswiger writeups | Anonymousd | [Read More](https://medium.com/p/71578d8da906) |
+| Sat, 21 Mar 2026 12:48:04 GMT | How to Build Our Own Fortified Ray Kingdom on GKE | Kateryna Hrytsaienko | [Read More](https://medium.com/p/881e31d0f386) |
 | Sat, 21 Mar 2026 12:39:25 GMT | Cybersecurity: Why It’s the Backbone of Every Organization. | Karen | [Read More](https://medium.com/p/4a5b8642ee46) |
 | Sat, 21 Mar 2026 12:30:25 GMT | KerBug — the simplest Linux-Binary Debugger ever build | Kernel Phantom | [Read More](https://medium.com/p/21e44962a0a5) |
 | Sat, 21 Mar 2026 12:27:23 GMT | HTB Administrator Walkthrough | Hollacosta | [Read More](https://medium.com/p/a98065c793a4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Mar 2026 07:00:21 GMT | Hospital Industry Guards: Ensuring Safety, Trust, and 24/7 Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/8cfdb4d88ab6) |
 | Sat, 21 Mar 2026 07:00:16 GMT | Data Privacy vs Cybersecurity: What Businesses in KSA Should Prioritize | Rahman Iqbal | [Read More](https://medium.com/p/c75b72c8db94) |
 | Sat, 21 Mar 2026 06:54:25 GMT | Antivirus Antivirus Pro Mobile: Professional Care for Your Most Used Device | Rahul yadav | [Read More](https://medium.com/p/101726b97bc5) |
-| Sat, 21 Mar 2026 06:44:25 GMT | Safer Event Security Guards in San Antonio | Matrix Security Guard Services LLC | [Read More](https://medium.com/p/21a631c50c2b) |
-| Sat, 21 Mar 2026 06:42:39 GMT | I Was Quiet. The Machine Wasn’t. | Munyaradzi Muzuva | [Read More](https://medium.com/p/c55b09e38eba) |
-| Sat, 21 Mar 2026 06:41:39 GMT | TryHackMe Writeup - Searchlight-IMINT | Rakeshsrinivas | [Read More](https://medium.com/p/333c74ceff93) |
-| Sat, 21 Mar 2026 06:40:33 GMT | Cybersecurity Tips Everyone Should Know | CodeZen | [Read More](https://medium.com/p/8772c342bca4) |
-| Sat, 21 Mar 2026 06:35:12 GMT | Inspect HTML | recoxy_rangers | [Read More](https://medium.com/p/82de2f059cb6) |
-| Sat, 21 Mar 2026 06:29:11 GMT | PalsForLife (THM) Tryhackme WriteUp With Answer | Lawvye | [Read More](https://medium.com/p/2836d1da2f05) |
-| Sat, 21 Mar 2026 06:27:36 GMT | The Vault and The Castle: Demystifying Data Security vs. Cybersecurity | Supreet Nagi | [Read More](https://medium.com/p/b5bc3ba65316) |
-| Sat, 21 Mar 2026 06:26:26 GMT | A Hidden Google Ad Could Steal Everything You Ever Typed Into Claude | Soumyadipta Birabar | [Read More](https://medium.com/p/1690d6b37664) |
-| Sat, 21 Mar 2026 06:24:14 GMT | Cyber Conflict in South Asia: Inside the India–Pakistan APT Campaigns | Vatsamistry | [Read More](https://medium.com/p/41c8682f17f9) |
-| Sat, 21 Mar 2026 06:19:28 GMT | How Hackers Stay Anonymous Online | Abhinsubej | [Read More](https://medium.com/p/981073f09452) |
-| Sat, 21 Mar 2026 06:17:40 GMT | How I Secured Wazuh Dashboard with 2FA Using Keycloak SSO + Google Authenticator | Hacktify | [Read More](https://medium.com/p/59eb4b3db41c) |
-| Sat, 21 Mar 2026 06:08:15 GMT | What Is OSINT & How Hackers Use It ️ | loopXvedant | [Read More](https://medium.com/p/9c3b9313b82e) |
-| Sat, 21 Mar 2026 06:04:43 GMT | Building a GitOps Drift Detection & Auto-Remediation Pipeline with ArgoCD, GitHub Actions, and… | Coding_Karma | [Read More](https://medium.com/p/f72545c63fdf) |
-| Sat, 21 Mar 2026 05:47:24 GMT | DPDP Readiness in India: Why Compliance Alone Isn’t Enough | Aanchal Sharma | [Read More](https://medium.com/p/0853f981ec10) |
