@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 22:26:58 GMT | Why LLMs Hallucinate Rather Than Say “I Don’t Know” | Joe El Khoury - AI Engineer | [Read More](https://medium.com/p/f25eee829172) |
+| Sun, 22 Mar 2026 22:08:08 GMT | Self-host LLM Won’t Save Data Privacy: Why Companies Still Move to the Cloud | Denis Urayev | [Read More](https://medium.com/p/d4771993865f) |
+| Sun, 22 Mar 2026 22:03:18 GMT | ️ INE Skill Check Lab: Enumeration | 0xRoot | [Read More](https://medium.com/p/019da58aa620) |
+| Sun, 22 Mar 2026 22:01:09 GMT | Your AI agents send money. To which address? | Alfa | [Read More](https://medium.com/p/5fb1bd5b3ccb) |
+| Sun, 22 Mar 2026 22:00:47 GMT | Making a multi-OS VM sandbox for LAN/WLAN-based cyber attacks and reconnaissance techniques. | Aaradhya Desai | [Read More](https://medium.com/p/d6e479717071) |
 | Sun, 22 Mar 2026 21:33:07 GMT | CTF Pwn103 @ TryHackMe | Rafael David | [Read More](https://medium.com/p/ac7aa60206b7) |
 | Sun, 22 Mar 2026 21:32:37 GMT | The SolarWinds Breach: Why Supply Chain Attacks Changed Cybersecurity Forever | Deniz Vural | [Read More](https://medium.com/p/9a5f03ffcfb6) |
 | Sun, 22 Mar 2026 21:17:12 GMT | A quiet account of who I am now… | One Quiet Voice | [Read More](https://medium.com/p/d8d84e07bb09) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 14:16:19 GMT | How a Developer Machine Got Compromised (Twice) — A “Shai-Hulud 2.0” | Kushagradevgon | [Read More](https://medium.com/p/2023a80b6d84) |
 | Sun, 22 Mar 2026 14:16:00 GMT | From Autonomous to Lightweight: The Architectural Evolution of Enterprise Wi-Fi | Network Knowledge Hub | [Read More](https://medium.com/p/30b25b99b620) |
 | Sun, 22 Mar 2026 14:14:08 GMT | How to Scan and Test Private Network IP Camera Security | Мартин. | [Read More](https://medium.com/p/bb9aa3219958) |
-| Sun, 22 Mar 2026 14:12:49 GMT | The Legal Hacking Tools You Can Buy on Amazon (And What They Actually Do) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c1688dcad5c0) |
-| Sun, 22 Mar 2026 14:07:25 GMT | JWT Authentication Flow — From Login to a Protected API | Mitesh Singh Jat | [Read More](https://medium.com/p/63532af6efa2) |
-| Sun, 22 Mar 2026 14:01:09 GMT | The $0 Supply Chain Hack: Hijacking Microsoft's Setup.exe (And Broke Their Bounty Policy) | Aman Kumar (ak) | [Read More](https://medium.com/p/f05eb6fedcff) |
-| Sun, 22 Mar 2026 13:57:13 GMT | Sunday Funnies | Rebecca Trocki | [Read More](https://medium.com/p/f52291a2a75a) |
-| Sun, 22 Mar 2026 13:57:01 GMT | Golden SAML — Forging Identity from On-Premises AD FS to Azure AD | Ajay Majukar | [Read More](https://medium.com/p/06bbf98d92fc) |
