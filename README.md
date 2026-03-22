@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 09:27:08 GMT | ️ How I Resurrected a Broken Wazuh SIEM: From Timeout Failures to a Fully Running Dashboard | Hamza Zulfiqar | [Read More](https://medium.com/p/0d46b0eb55dd) |
+| Sun, 22 Mar 2026 09:19:58 GMT | Overpowering BurpSuite with Claude AI: Future of Pentesting | rihanna0xf | [Read More](https://medium.com/p/8c19a09eac29) |
+| Sun, 22 Mar 2026 09:19:35 GMT | Oracle CVE-2026–21992: Critical Unauthenticated RCE in Identity Manager Demands Immediate Action | Germano Costi | [Read More](https://medium.com/p/333bf9c41467) |
+| Sun, 22 Mar 2026 09:18:58 GMT | After Five Decades, The Merkle Tree Still Reigns Supreme | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d7efd3e69a75) |
+| Sun, 22 Mar 2026 09:05:13 GMT | ️ Ethical Hacking Essentials (EHE): Is It Worth It for Beginners? | Cyberabhisharma | [Read More](https://medium.com/p/2973f21907ba) |
+| Sun, 22 Mar 2026 09:04:26 GMT | Russian Hackers Launch Mass Attacks on WhatsApp and Signal | Patrik Žák | [Read More](https://medium.com/p/8e48a542d1f5) |
+| Sun, 22 Mar 2026 09:01:00 GMT | Your Azure Subscription Is a
+Security Disaster Waiting to Happen — And Microsoft Never Told You | Silicon | [Read More](https://medium.com/p/ce721e38d792) |
+| Sun, 22 Mar 2026 08:41:24 GMT | PHP Closure Bug-The Silent Killer | Kirinyet Brian | [Read More](https://medium.com/p/bae800d9744a) |
+| Sun, 22 Mar 2026 08:39:36 GMT | OpenClaw Is the Fastest-Growing Open Source Project in History — NemoClaw Is Why Enterprises Will… | ThamizhElango Natarajan | [Read More](https://medium.com/p/ee47b1ab1dc9) |
+| Sun, 22 Mar 2026 08:35:54 GMT | From Logs to Rootkits: A Complete Linux Forensic Analysis Breakdown | Devansh Patel | [Read More](https://medium.com/p/48a011d7ce0c) |
+| Sun, 22 Mar 2026 08:35:37 GMT | Agent Hijacking: Why Agentic AI Introduces Risks That Traditional AppSec Can’t Catch | logtide | [Read More](https://medium.com/p/d73b45e7f2aa) |
 | Sun, 22 Mar 2026 08:33:43 GMT | I Found a Valid Bug Bounty With This One Simple Check | ghostyjoe | [Read More](https://medium.com/p/0b3ae8b05b9b) |
 | Sun, 22 Mar 2026 08:24:13 GMT | FBI Seizes Handala Domains After Stryker Wiper Attack: Anatomy of an MOIS Cyber Operation | TheRedSheep | [Read More](https://medium.com/p/6e8150a22918) |
 | Sun, 22 Mar 2026 08:24:06 GMT | Chief Incident Scapegoat Officer: The attack surface moved. The blame didn’t. | Jayal Yadav | [Read More](https://medium.com/p/32a6e43c6d28) |
@@ -103,14 +115,3 @@ They Hack You. | ADITYA GUPTA | [Read More](https://medium.com/p/7fbc8646252a) |
 Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p/0d2e2d0387cc) |
 | Sat, 21 Mar 2026 20:37:31 GMT | Using Nmap | Kiran Limbu Phudong | [Read More](https://medium.com/p/0ed6143fccaa) |
 | Sat, 21 Mar 2026 20:21:17 GMT | Microsoft Intune Monitoring TryHackMe Super Detailed Walkthrough - THM Motion Graphics Writeup -… | Sunny Singh Verma [ SuNnY ] | [Read More](https://medium.com/p/ef10f85661b9) |
-| Sat, 21 Mar 2026 20:14:10 GMT | Data Strategy and Data Governance, reimagined. | Mohammed Brückner | [Read More](https://medium.com/p/22121d19dd35) |
-| Sat, 21 Mar 2026 20:11:44 GMT | Wake-up Call: Best practices for securing Microsoft Intune | SOCFortress | [Read More](https://medium.com/p/d87d1c3b10d1) |
-| Sat, 21 Mar 2026 20:05:16 GMT | Hackers Are Already Knocking !! | Abdelhalim Yahya | [Read More](https://medium.com/p/5d02b4bab358) |
-| Sat, 21 Mar 2026 20:04:26 GMT | Critical Browser Vulnerability Alert (Act Now!) | CyberRise Institute | [Read More](https://medium.com/p/21b152ffc628) |
-| Sat, 21 Mar 2026 19:57:31 GMT | Uncovering Hidden Data: Solving Root-Me “Acropalypse” Forensics Challenge (CVE-2023–28303) | Vbdelrvhmvnx | [Read More](https://medium.com/p/10844f07edcc) |
-| Sat, 21 Mar 2026 19:54:19 GMT | Cybersecurity Awareness and Human Factor Vulnerability in Kazakhstan | Richparen Pro | [Read More](https://medium.com/p/8eeb343eaf64) |
-| Sat, 21 Mar 2026 19:54:15 GMT | Your Codebase Deserves a Reviewer That Actually Knows It | Hemanth Gokavarapu | [Read More](https://medium.com/p/d353df7b4cde) |
-| Sat, 21 Mar 2026 19:46:24 GMT | Why I Built a Native C Forensic Agent to Replace My System Monitor | shresth paul | [Read More](https://medium.com/p/241797b47b0a) |
-| Sat, 21 Mar 2026 19:46:00 GMT | OWASP API Top 10 Explained With Real Stories, Not Boring Docs | Yamini Yadav_369 | [Read More](https://medium.com/p/e7b6ca8ed6be) |
-| Sat, 21 Mar 2026 19:44:34 GMT | SQL Injection: Listing Database Contents (Non-Oracle) — PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/6aa4e9f86b68) |
-| Sat, 21 Mar 2026 19:41:00 GMT | Microsoft Intune Monitoring - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/2cf288fc0953) |
