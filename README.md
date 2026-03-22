@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 17:18:54 GMT | Day 0 — Starting My Cybersecurity Journey From Basics To Advance | Suyash Gargote | [Read More](https://medium.com/p/53eb61be9d78) |
+| Sun, 22 Mar 2026 17:06:07 GMT | Breaking into Cyber Threat Intelligence: A Curious Engineer’s Honest First Take | Mariaxmaria | [Read More](https://medium.com/p/c381d141fd1d) |
+| Sun, 22 Mar 2026 16:56:16 GMT | Scapy 101 — Bir Etik Hacker’ın Gözünden Ağ Paketleri | Exript | [Read More](https://medium.com/p/d8f33c389b97) |
+| Sun, 22 Mar 2026 16:54:30 GMT | Ağ Yönetiminin Görünmez Kahramanı: DHCP Nedir, Nasıl Çalışır? (Derinlemesine İnceleme) | Remzi Cenk BOZTEPE | [Read More](https://medium.com/p/bd638b3c3a76) |
+| Sun, 22 Mar 2026 16:54:12 GMT | Insecure Output Handling: Exploiting XSS in LLM Applications (Part 1) | Irem Bezci | [Read More](https://medium.com/p/ad8b992f7e42) |
+| Sun, 22 Mar 2026 16:50:01 GMT | Why Open Source Contributions Matter for Your Career | Theepansutharsan | [Read More](https://medium.com/p/73773b969d4e) |
+| Sun, 22 Mar 2026 16:46:58 GMT | You Accidentally Pushed Your .env File to GitHub — Here's How to Actually Fix It (2026 Guide) | Diwash Bhandari - Software Developer | [Read More](https://medium.com/p/ad6befdca991) |
+| Sun, 22 Mar 2026 16:45:16 GMT | Ditch the Subscriptions: How to Build Your Own VPN from Scratch (and Why You Should) | Monaf Bayoud | [Read More](https://medium.com/p/c86b25a4a5ac) |
+| Sun, 22 Mar 2026 16:44:34 GMT | Slightly Off Center | Joseph Minton | [Read More](https://medium.com/p/a7fecb6526b3) |
+| Sun, 22 Mar 2026 16:39:48 GMT | Vulnerable leadership and emotional availability are the same | Candy @ Arras Healing | [Read More](https://medium.com/p/e681d1693b31) |
+| Sun, 22 Mar 2026 16:36:34 GMT | Exploiting vsftpd 2.3.4 Using Metasploit: A Simple 20-Step FTP Exploitation Walkthrough | Abhinabo Roy | [Read More](https://medium.com/p/81ef015d2dcf) |
+| Sun, 22 Mar 2026 16:34:25 GMT | The Monoculture will Kill You | Missbe777 | [Read More](https://medium.com/p/f37fb3ac87a1) |
+| Sun, 22 Mar 2026 16:32:26 GMT | AI in Cybersecurity: Protecting the Digital World Smarter Than Ever | Boomika | [Read More](https://medium.com/p/ea30a899fea3) |
 | Sun, 22 Mar 2026 16:23:54 GMT | The Security Threat Your IT Team Cannot Protect You From | MayhemCode | [Read More](https://medium.com/p/7610a8127ff4) |
 | Sun, 22 Mar 2026 16:21:00 GMT | Technical Advisory: Docker Swarm | Portainer.io | [Read More](https://medium.com/p/b85580021e27) |
 | Sun, 22 Mar 2026 16:20:54 GMT | Welcome to My Editorial Index | Ed-it Editions | [Read More](https://medium.com/p/b00319c8a29b) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 10:29:54 GMT | InfoSec Prep: OSCP | Psalm Endozo | [Read More](https://medium.com/p/42219ccb3300) |
 | Sun, 22 Mar 2026 10:25:53 GMT | Your AI Agent Has a Dirty Secret: It Can’t Log In | Danny Gerst | [Read More](https://medium.com/p/7fc868f9f124) |
 | Sun, 22 Mar 2026 10:19:44 GMT | Headless Server Management on Fedora Using Cockpit | 17eelnur | [Read More](https://medium.com/p/532ec3b27892) |
-| Sun, 22 Mar 2026 10:18:26 GMT | Kali Linux: A Convenience, Not a Necessity | Shimalka Yohan | [Read More](https://medium.com/p/5c0ca2a8d004) |
-| Sun, 22 Mar 2026 10:11:41 GMT | Overlord RAT | SenseiWhou | [Read More](https://medium.com/p/e80e3938a3be) |
-| Sun, 22 Mar 2026 10:11:34 GMT | OWASP LLM03:2025 — Supply Chain Vulnerabilities : The Threat That Arrives Before You Write a Single… | Harsh Kahate | [Read More](https://medium.com/p/7c1079bf12e4) |
-| Sun, 22 Mar 2026 10:05:41 GMT | TCP/IP Model Explained: Layers, Protocols & Cybersecurity Attacks | Adwait Joshi | [Read More](https://medium.com/p/3600cb5a25d1) |
-| Sun, 22 Mar 2026 10:04:24 GMT | Security Monitoring Platform in My Home Lab — Series 1 ~Building a Multi-Source Threat Detection… | Takahiro Oda | [Read More](https://medium.com/p/2d751af082da) |
-| Sun, 22 Mar 2026 10:01:00 GMT | Cybersecurity Leadership Development: Building Future Leaders | Victoria Coker | [Read More](https://medium.com/p/d2eff523320d) |
-| Sun, 22 Mar 2026 10:01:00 GMT | The Future of SME Security Documentation | Gaurav Shukla | [Read More](https://medium.com/p/2f126c25d5f0) |
-| Sun, 22 Mar 2026 09:41:24 GMT | Havenlon Series: Execution Control in the Age of AI (1/15) | Havenlon | [Read More](https://medium.com/p/29fb6ec04a1a) |
-| Sun, 22 Mar 2026 09:39:22 GMT | Privacy vs Child Safety: The EU’s Encryption and CSAM Debate Explained | Imtiaz Laskar | [Read More](https://medium.com/p/049b5eb928f5) |
-| Sun, 22 Mar 2026 09:27:08 GMT | ️ How I Resurrected a Broken Wazuh SIEM: From Timeout Failures to a Fully Running Dashboard | Hamza Zulfiqar | [Read More](https://medium.com/p/0d46b0eb55dd) |
-| Sun, 22 Mar 2026 09:19:58 GMT | Overpowering BurpSuite with Claude AI: Future of Pentesting | rihanna0xf | [Read More](https://medium.com/p/8c19a09eac29) |
-| Sun, 22 Mar 2026 09:19:35 GMT | Oracle CVE-2026–21992: Critical Unauthenticated RCE in Identity Manager Demands Immediate Action | Germano Costi | [Read More](https://medium.com/p/333bf9c41467) |
-| Sun, 22 Mar 2026 09:18:58 GMT | After Five Decades, The Merkle Tree Still Reigns Supreme | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d7efd3e69a75) |
