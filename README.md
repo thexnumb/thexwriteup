@@ -12,11 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 11:42:28 GMT | Day 21: Endpoint Security Basics (AV/EDR Overview) | Siddhesh Patil | [Read More](https://medium.com/p/ae21e983716a) |
+| Sun, 22 Mar 2026 11:37:35 GMT | Google Dorking: The Most Underrated Bug Bounty Skill | Bugitrix | [Read More](https://medium.com/p/bd548cac235c) |
+| Sun, 22 Mar 2026 11:26:40 GMT | Defensive Architectures Against Prompt Injection: Moving Beyond Whack-A-Mole | Anandhu krishna | [Read More](https://medium.com/p/be41db3665a6) |
+| Sun, 22 Mar 2026 11:24:55 GMT | ASUR CTF — Season 1: Maya | Patildamodar | [Read More](https://medium.com/p/dfb81cd6957b) |
+| Sun, 22 Mar 2026 11:21:00 GMT | Satoshi’s $440 Billion Bitcoin Wallet Is Quantum Computing’s Most Tempting Target and Nobody Agrees… | Akintibubo Timilehin | [Read More](https://medium.com/p/0d1dd6f2e5a2) |
+| Sun, 22 Mar 2026 11:15:37 GMT | The Hidden Risks of Sharing Data with AI | Abolfazl Vaziri | [Read More](https://medium.com/p/f4b22fe19f62) |
 | Sun, 22 Mar 2026 11:10:28 GMT | Amazon Bedrock CRIS와 Global endpoint 사용 시 SCP 설정 고려사항 | Martin Choi | [Read More](https://medium.com/p/747fcf06ac7a) |
 | Sun, 22 Mar 2026 11:05:18 GMT | It Started as a Security. It Doesn’t Have to Stay One. | CryptoNite | [Read More](https://medium.com/p/bfc58607a3e3) |
 | Sun, 22 Mar 2026 11:01:00 GMT | My Linux Server Was Attacked 3,427 Times in One Day (Real Logs) | Faruk Ahmed | [Read More](https://medium.com/p/1d48931ecb9e) |
 | Sun, 22 Mar 2026 10:58:43 GMT | Part 2: Cybersecurity On A Budget — Log Analysis and Attack Detection | Uduak Nyong | [Read More](https://medium.com/p/885ff0468146) |
 | Sun, 22 Mar 2026 10:55:15 GMT | Remote Cybersecurity Jobs: Where to Find Them & How to Stand Out in 2026 | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/4de4356182a0) |
+| Sun, 22 Mar 2026 10:40:15 GMT | DVWA: File Inclusion Vulnerability (Low Security) | Kamal S | [Read More](https://medium.com/p/496a50fd12dc) |
 | Sun, 22 Mar 2026 10:39:51 GMT | Defending Data in a Hacker’s World | Dhanashree | [Read More](https://medium.com/p/9e745b0fb385) |
 | Sun, 22 Mar 2026 10:38:54 GMT | Breaking Role Boundaries in a Norse-Themed Web CTF | Veersanghvi | [Read More](https://medium.com/p/164f487f9f53) |
 | Sun, 22 Mar 2026 10:32:26 GMT | How I Solved a Malicious Word Doc CTF Challenge | Veersanghvi | [Read More](https://medium.com/p/ad435206593c) |
@@ -41,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 09:04:26 GMT | Russian Hackers Launch Mass Attacks on WhatsApp and Signal | Patrik Žák | [Read More](https://medium.com/p/8e48a542d1f5) |
 | Sun, 22 Mar 2026 09:01:00 GMT | Your Azure Subscription Is a
 Security Disaster Waiting to Happen — And Microsoft Never Told You | Silicon | [Read More](https://medium.com/p/ce721e38d792) |
+| Sun, 22 Mar 2026 08:54:46 GMT | Fixing VAPT Findings in Oracle ORDS 24+: A Practical Guide | Tokishi | [Read More](https://medium.com/p/213a65a1e563) |
 | Sun, 22 Mar 2026 08:41:24 GMT | PHP Closure Bug-The Silent Killer | Kirinyet Brian | [Read More](https://medium.com/p/bae800d9744a) |
 | Sun, 22 Mar 2026 08:39:36 GMT | OpenClaw Is the Fastest-Growing Open Source Project in History — NemoClaw Is Why Enterprises Will… | ThamizhElango Natarajan | [Read More](https://medium.com/p/ee47b1ab1dc9) |
 | Sun, 22 Mar 2026 08:35:54 GMT | From Logs to Rootkits: A Complete Linux Forensic Analysis Breakdown | Devansh Patel | [Read More](https://medium.com/p/48a011d7ce0c) |
@@ -69,6 +77,7 @@ They Hack You. | ADITYA GUPTA | [Read More](https://medium.com/p/7fbc8646252a) |
 | Sun, 22 Mar 2026 06:36:17 GMT | The Falcon Fleet Blackout | Nathan Moraes | [Read More](https://medium.com/p/f96598412c55) |
 | Sun, 22 Mar 2026 06:34:28 GMT | The Collapse of Commoditized Trust; Killed by the Subsidized Audit | Ian Yip | [Read More](https://medium.com/p/bb07406e9735) |
 | Sun, 22 Mar 2026 06:31:30 GMT | Transparent Data Encryption(TDE) Oracle Database 26ai | Preetampd | [Read More](https://medium.com/p/f87ae21af3e5) |
+| Sun, 22 Mar 2026 06:20:33 GMT | Neighbour Walkthrough [THM Easy Machine] | Maro_Medhat | [Read More](https://medium.com/p/050c7b4ff770) |
 | Sun, 22 Mar 2026 06:19:06 GMT | Dripping Blues Vuln Machine — Walkthrough. | Oluwasemipe Aransiola | [Read More](https://medium.com/p/d3d91e18b7cc) |
 | Sun, 22 Mar 2026 06:10:59 GMT | I Didn’t Hack You — But I Know 5 Things About You Already | 0xAbhiSec | [Read More](https://medium.com/p/5b83ea512a25) |
 | Sun, 22 Mar 2026 06:08:42 GMT | # SAST vs DAST vs SCA — What You Actually Need | Proscan.one | [Read More](https://medium.com/p/360fba4848aa) |
@@ -105,12 +114,3 @@ They Hack You. | ADITYA GUPTA | [Read More](https://medium.com/p/7fbc8646252a) |
 | Sun, 22 Mar 2026 00:52:36 GMT | Les Bases en Python | Donald | [Read More](https://medium.com/p/62262df3b140) |
 | Sun, 22 Mar 2026 00:42:45 GMT | Introducing RAISELUX: Responsible AI Security Excellence | Dr Praveen Naidu VUMMADISETTY | [Read More](https://medium.com/p/7011b0b3aa1d) |
 | Sun, 22 Mar 2026 00:35:20 GMT | OpenClaw Is Impressive. It’s Also the Kind of Tool That Can Quietly Wreck Your Data | JustinWang | [Read More](https://medium.com/p/3af21904c9ea) |
-| Sun, 22 Mar 2026 00:31:08 GMT | Animating XSS: Making Payloads Move for Fun & Profit… | Sandeep Singh Sethi | [Read More](https://medium.com/p/f5eeecc34705) |
-| Sun, 22 Mar 2026 00:31:00 GMT | Scavenger Hunt — Improper Asset Exposure | recoxy_rangers | [Read More](https://medium.com/p/be6c45534eb2) |
-| Sun, 22 Mar 2026 00:30:02 GMT | DFIR Analizinde Yeni Nesil Yaklaşım: Hayabusa ve Chainsaw Korelasyonu ile “DİZ” (Dijital İz Driver) | Recep Şenel | [Read More](https://medium.com/p/84b9604791a7) |
-| Sat, 21 Mar 2026 23:54:46 GMT | Lessons from Delve’s Faked Compliance Debacle: The Discipline of Taking Your Time | R-Squared Cyber | [Read More](https://medium.com/p/445279455055) |
-| Sat, 21 Mar 2026 23:37:59 GMT | Modern Espionage: The IT Worker Scam | Investigator515 | [Read More](https://medium.com/p/99fbce6076ec) |
-| Sat, 21 Mar 2026 23:35:34 GMT | T-Pot Local Installation and Use From Zero to Hero | Mohamed Ehab | [Read More](https://medium.com/p/405570dd68de) |
-| Sat, 21 Mar 2026 23:35:29 GMT | Pare de expor seu bucket! (S3 AWS, R2 Cloudflare e outros….) | Adriano Junior | [Read More](https://medium.com/p/8c3f1835c0e3) |
-| Sat, 21 Mar 2026 23:26:00 GMT | Your AI Tools Are Lying to You (And Each Other) | Stevo Ledbetter | [Read More](https://medium.com/p/b576c7774fd4) |
-| Sat, 21 Mar 2026 23:24:14 GMT | 7 States Want to Restrict AI Datacenters. Developers Already Found the Workaround. | James Dickey | [Read More](https://medium.com/p/035825f37f89) |
