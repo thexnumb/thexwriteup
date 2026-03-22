@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 19:42:54 GMT | Atomic Red Team Setup on Windows | Shailesh Patil | [Read More](https://medium.com/p/727899883edf) |
+| Sun, 22 Mar 2026 19:36:52 GMT | 13.1 Lab: Reflected XSS into HTML context with nothing encoded | Durgesh | [Read More](https://medium.com/p/f188adf3d933) |
+| Sun, 22 Mar 2026 19:31:52 GMT | XSS skill assessment HTB walkthrough | Mazen Hassane | [Read More](https://medium.com/p/cc6390482a68) |
+| Sun, 22 Mar 2026 19:28:38 GMT | Stop Chasing IOCs, Focus on Behavior | Ori Dror | [Read More](https://medium.com/p/c8193b5cb726) |
 | Sun, 22 Mar 2026 19:23:55 GMT | Securing My Homelab With Tailscale | Hugh Evans | [Read More](https://medium.com/p/b6835268e9cd) |
+| Sun, 22 Mar 2026 19:18:20 GMT | Polyfill[.]io: The Day a “Helpful CDN” Became a Mass Redirect Machine | Ilias Armenakis | [Read More](https://medium.com/p/b015a3fa21f9) |
 | Sun, 22 Mar 2026 19:07:08 GMT | IT Organization as Science and Engineering | Shubjeet Pal | [Read More](https://medium.com/p/3917f2d8933e) |
 | Sun, 22 Mar 2026 18:56:46 GMT | Understanding Local File Inclusion (LFI) and Remote File Inclusion (RFI): Exploitation and Defense | HexNative Blog | [Read More](https://medium.com/p/5921bc19d153) |
 | Sun, 22 Mar 2026 18:43:26 GMT | Exposed Endpoints Lead To Leak PII | 1sherlok | [Read More](https://medium.com/p/96a581c37081) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 13:08:03 GMT | TryHackMe Windows PowerShell | Birdv | [Read More](https://medium.com/p/1be546105c8c) |
 | Sun, 22 Mar 2026 13:01:36 GMT | Palantir Just Got $10 Billion to Run the Pentagon’s AI — Here’s What Nobody’s Talking About | Crafty | [Read More](https://medium.com/p/6cb22a7953e8) |
 | Sun, 22 Mar 2026 13:01:01 GMT | [Seven] The Existential System Failure of the Urban OS | MonoEssay | [Read More](https://medium.com/p/2dbe1c6225bf) |
-| Sun, 22 Mar 2026 12:55:55 GMT | The Complete Toolkit Every Developer Needs for Passwords, Tokens, and Data Security | Krishna Tadi | [Read More](https://medium.com/p/857a3d4a3bc2) |
-| Sun, 22 Mar 2026 12:40:55 GMT | AWS Cloudwatch to Grafana (WAF and Other Services) | Aakash Rathee | [Read More](https://medium.com/p/c1430ec2c832) |
-| Sun, 22 Mar 2026 12:31:17 GMT | Peeling Back Obfuscated JavaScript: A Practical Reverse Engineering Guide | Roee Mayerowicz | [Read More](https://medium.com/p/c7c7aab02c43) |
-| Sun, 22 Mar 2026 12:28:33 GMT | Passwords Are Dead: Yours Might Already Be Compromised | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/34e75c4f28de) |
-| Sun, 22 Mar 2026 12:12:21 GMT | TRYHACKME ICE | Yiğit İbis | [Read More](https://medium.com/p/0eb2a3ccb588) |
