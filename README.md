@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 08:33:43 GMT | I Found a Valid Bug Bounty With This One Simple Check | ghostyjoe | [Read More](https://medium.com/p/0b3ae8b05b9b) |
+| Sun, 22 Mar 2026 08:24:13 GMT | FBI Seizes Handala Domains After Stryker Wiper Attack: Anatomy of an MOIS Cyber Operation | TheRedSheep | [Read More](https://medium.com/p/6e8150a22918) |
+| Sun, 22 Mar 2026 08:24:06 GMT | Chief Incident Scapegoat Officer: The attack surface moved. The blame didn’t. | Jayal Yadav | [Read More](https://medium.com/p/32a6e43c6d28) |
+| Sun, 22 Mar 2026 08:22:24 GMT | Self-Governed Infrastructure: The Only AI Strategy That Survives 2026 | Jayal Yadav | [Read More](https://medium.com/p/7fc1763fc514) |
+| Sun, 22 Mar 2026 08:08:15 GMT | The Fastest Way Into Tech Is a Shovel | Kyle Thrasher | [Read More](https://medium.com/p/f589dd464c4a) |
+| Sun, 22 Mar 2026 08:07:06 GMT | Zero-Click Exploit Attack | appsecwarrior | [Read More](https://medium.com/p/54fca244db8a) |
+| Sun, 22 Mar 2026 08:03:09 GMT | Beast Ransomware Gang’s OPSEC Collapse: Exposed Server Reveals Full Attack Toolkit | TheRedSheep | [Read More](https://medium.com/p/7c63e5df7b00) |
+| Sun, 22 Mar 2026 07:53:05 GMT | MISP Threat Intelligence Project: Docker Deployment, APT18 Analysis, Automation, and Visualization | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/8a7488277e6a) |
+| Sun, 22 Mar 2026 07:50:49 GMT | The Architect’s Blueprint: Hardening Azure DevOps for Enterprise Scale | Chaluvadisuryachaithanya | [Read More](https://medium.com/p/0410c66777ee) |
+| Sun, 22 Mar 2026 07:44:35 GMT | Open-Source Intelligence (OSINT): Techniques & Tools — A Complete Guide (2026) | EINITIAL24 | [Read More](https://medium.com/p/c0c4e463b587) |
 | Sun, 22 Mar 2026 07:28:48 GMT | Best Cyber Range Platform in India for Hands-On Training | cyber security Updates | [Read More](https://medium.com/p/d7f4d8eeef5f) |
 | Sun, 22 Mar 2026 07:16:10 GMT | They Don’t Hack Your Bank.
 They Hack You. | ADITYA GUPTA | [Read More](https://medium.com/p/7fbc8646252a) |
@@ -104,13 +114,3 @@ Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p
 | Sat, 21 Mar 2026 19:46:00 GMT | OWASP API Top 10 Explained With Real Stories, Not Boring Docs | Yamini Yadav_369 | [Read More](https://medium.com/p/e7b6ca8ed6be) |
 | Sat, 21 Mar 2026 19:44:34 GMT | SQL Injection: Listing Database Contents (Non-Oracle) — PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/6aa4e9f86b68) |
 | Sat, 21 Mar 2026 19:41:00 GMT | Microsoft Intune Monitoring - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/2cf288fc0953) |
-| Sat, 21 Mar 2026 19:27:35 GMT | What Is a Website Security Check and Does Your Small Business Need One? | Sitescanly | [Read More](https://medium.com/p/954f2a2fa505) |
-| Sat, 21 Mar 2026 19:19:38 GMT | Direksiyon Gerçekten Sizin Elinizde mi? Yeni Nesil Otomobilleri Hacklemek | Efe Cengiz | [Read More](https://medium.com/p/3988e90f4e42) |
-| Sat, 21 Mar 2026 19:18:58 GMT | How I Find the Real IP Behind Cloudflare (When It’s Not Supposed to Be Visible) | Sonu Chaudhary | [Read More](https://medium.com/p/cd48e2ce5e62) |
-| Sat, 21 Mar 2026 19:05:31 GMT | Resolviendo “El Amigo” en The Hackers Labs | IgnoranzaSolare | [Read More](https://medium.com/p/6441385bb347) |
-| Sat, 21 Mar 2026 19:00:07 GMT | A.I. Governance, Risk, and Compliance (GRC): Why Most People Still Don’t Get It | Regan Temudo | [Read More](https://medium.com/p/429cc1506342) |
-| Sat, 21 Mar 2026 18:48:55 GMT | JWT vs Session Authentication: When Should You Use Each? | Anjali Garg | [Read More](https://medium.com/p/4c76d5b5cba0) |
-| Sat, 21 Mar 2026 18:42:33 GMT | Cybersecurity: AI’s Impact | Andrew Hanson | [Read More](https://medium.com/p/003504f8b0d7) |
-| Sat, 21 Mar 2026 18:34:00 GMT | Why DeFi Needs Vault Infrastructure | Kryptolord | [Read More](https://medium.com/p/eae088dcd973) |
-| Sat, 21 Mar 2026 18:33:59 GMT | Title: “The Silent Breach — 2026” | Topudhan | [Read More](https://medium.com/p/135d38173e36) |
-| Sat, 21 Mar 2026 18:31:27 GMT | IP Ünvanlamasının İşləmə Prinsipi | Hamid Aslanov | [Read More](https://medium.com/p/bcf936b71501) |
