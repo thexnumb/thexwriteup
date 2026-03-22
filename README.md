@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 21:33:07 GMT | CTF Pwn103 @ TryHackMe | Rafael David | [Read More](https://medium.com/p/ac7aa60206b7) |
+| Sun, 22 Mar 2026 21:32:37 GMT | The SolarWinds Breach: Why Supply Chain Attacks Changed Cybersecurity Forever | Deniz Vural | [Read More](https://medium.com/p/9a5f03ffcfb6) |
 | Sun, 22 Mar 2026 21:17:12 GMT | A quiet account of who I am now… | One Quiet Voice | [Read More](https://medium.com/p/d8d84e07bb09) |
 | Sun, 22 Mar 2026 21:09:39 GMT | The Self-Custody Illusion: Why Most Wallets Still Fail the User | Corwin Goldman_Dibbs | [Read More](https://medium.com/p/546392c01467) |
 | Sun, 22 Mar 2026 21:08:58 GMT | Vibeware & DDoD: Detecting AI-Mutated Attack Agents Through Structural Analysis | 5r4v4n | [Read More](https://medium.com/p/7ec05c3f972c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 14:01:09 GMT | The $0 Supply Chain Hack: Hijacking Microsoft's Setup.exe (And Broke Their Bounty Policy) | Aman Kumar (ak) | [Read More](https://medium.com/p/f05eb6fedcff) |
 | Sun, 22 Mar 2026 13:57:13 GMT | Sunday Funnies | Rebecca Trocki | [Read More](https://medium.com/p/f52291a2a75a) |
 | Sun, 22 Mar 2026 13:57:01 GMT | Golden SAML — Forging Identity from On-Premises AD FS to Azure AD | Ajay Majukar | [Read More](https://medium.com/p/06bbf98d92fc) |
-| Sun, 22 Mar 2026 13:56:43 GMT | Galaxy Dash (BAC) Walkthrough (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/4323bd2d6fd7) |
-| Sun, 22 Mar 2026 13:53:03 GMT | The Invisible Code: How Your Browser Secretly Talks Back to Big Tech | Rohit Yadav | [Read More](https://medium.com/p/81e6427198f3) |
