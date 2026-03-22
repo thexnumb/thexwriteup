@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 10:19:44 GMT | Headless Server Management on Fedora Using Cockpit | 17eelnur | [Read More](https://medium.com/p/532ec3b27892) |
+| Sun, 22 Mar 2026 10:18:26 GMT | Kali Linux: A Convenience, Not a Necessity | Shimalka Yohan | [Read More](https://medium.com/p/5c0ca2a8d004) |
+| Sun, 22 Mar 2026 10:11:41 GMT | Overlord RAT | SenseiWhou | [Read More](https://medium.com/p/e80e3938a3be) |
+| Sun, 22 Mar 2026 10:11:34 GMT | OWASP LLM03:2025 — Supply Chain Vulnerabilities : The Threat That Arrives Before You Write a Single… | Harsh Kahate | [Read More](https://medium.com/p/7c1079bf12e4) |
+| Sun, 22 Mar 2026 10:05:41 GMT | TCP/IP Model Explained: Layers, Protocols & Cybersecurity Attacks | Adwait Joshi | [Read More](https://medium.com/p/3600cb5a25d1) |
+| Sun, 22 Mar 2026 10:04:24 GMT | Security Monitoring Platform in My Home Lab — Series 1 ~Building a Multi-Source Threat Detection… | Takahiro Oda | [Read More](https://medium.com/p/2d751af082da) |
+| Sun, 22 Mar 2026 10:01:00 GMT | Cybersecurity Leadership Development: Building Future Leaders | Victoria Coker | [Read More](https://medium.com/p/d2eff523320d) |
+| Sun, 22 Mar 2026 10:01:00 GMT | The Future of SME Security Documentation | Gaurav Shukla | [Read More](https://medium.com/p/2f126c25d5f0) |
+| Sun, 22 Mar 2026 09:41:24 GMT | Havenlon Series: Execution Control in the Age of AI (1/15) | Havenlon | [Read More](https://medium.com/p/29fb6ec04a1a) |
+| Sun, 22 Mar 2026 09:39:22 GMT | Privacy vs Child Safety: The EU’s Encryption and CSAM Debate Explained | Imtiaz Laskar | [Read More](https://medium.com/p/049b5eb928f5) |
 | Sun, 22 Mar 2026 09:27:08 GMT | ️ How I Resurrected a Broken Wazuh SIEM: From Timeout Failures to a Fully Running Dashboard | Hamza Zulfiqar | [Read More](https://medium.com/p/0d46b0eb55dd) |
 | Sun, 22 Mar 2026 09:19:58 GMT | Overpowering BurpSuite with Claude AI: Future of Pentesting | rihanna0xf | [Read More](https://medium.com/p/8c19a09eac29) |
 | Sun, 22 Mar 2026 09:19:35 GMT | Oracle CVE-2026–21992: Critical Unauthenticated RCE in Identity Manager Demands Immediate Action | Germano Costi | [Read More](https://medium.com/p/333bf9c41467) |
@@ -104,14 +114,3 @@ They Hack You. | ADITYA GUPTA | [Read More](https://medium.com/p/7fbc8646252a) |
 | Sat, 21 Mar 2026 22:24:51 GMT | mTLS is future | Hüseyin Mert | [Read More](https://medium.com/p/37427d55d558) |
 | Sat, 21 Mar 2026 22:23:22 GMT | Hacklenirsem Ne Yapmalıyım? | Ali Yaşe | [Read More](https://medium.com/p/4c9b4f24658d) |
 | Sat, 21 Mar 2026 22:19:15 GMT | Why Cybersecurity Is the One B2B Category That will Survive the AI Revolution | Shauli | [Read More](https://medium.com/p/9daf8de59f67) |
-| Sat, 21 Mar 2026 22:19:13 GMT | AI Agentic System Harnesses for Enterprise-Grade Autonomous Workflows | Valdez Ladd | [Read More](https://medium.com/p/a3b2853b5c2a) |
-| Sat, 21 Mar 2026 22:17:32 GMT | The Question That Made Me Start a Security Company | Shauli | [Read More](https://medium.com/p/c90273934fda) |
-| Sat, 21 Mar 2026 21:20:35 GMT | XML and JSON Injection - When the Data Your Payment Gateway Trusts Is Lying to It | Rufus Kehinde | [Read More](https://medium.com/p/1d1ee017bdf6) |
-| Sat, 21 Mar 2026 21:13:22 GMT | Entwickler alexgamingdev kündigt technische Lösung für Windows 11-Kompatibilität an | Alexander Dennhoven | [Read More](https://medium.com/p/55cb568cc941) |
-| Sat, 21 Mar 2026 21:12:42 GMT | Designing Security Controls into SaaS Applications: Beyond Login and MFA | Foluso Olateju | [Read More](https://medium.com/p/96a5b9b47d45) |
-| Sat, 21 Mar 2026 21:08:35 GMT | The Complete OpenSSL & TLS Debugging Guide: From Root CA to Kubernetes | Amolpratap Singh | [Read More](https://medium.com/p/b0d9f9dfcda3) |
-| Sat, 21 Mar 2026 21:00:45 GMT | Why I’m Starting This Blog: AI for Real-World, Security-Critical Systems | Aditya Ladage | [Read More](https://medium.com/p/617e6cdb7db1) |
-| Sat, 21 Mar 2026 20:43:52 GMT | Hello World: A New Beginning and Three Distinct Journeys 
-Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p/0d2e2d0387cc) |
-| Sat, 21 Mar 2026 20:37:31 GMT | Using Nmap | Kiran Limbu Phudong | [Read More](https://medium.com/p/0ed6143fccaa) |
-| Sat, 21 Mar 2026 20:21:17 GMT | Microsoft Intune Monitoring TryHackMe Super Detailed Walkthrough - THM Motion Graphics Writeup -… | Sunny Singh Verma [ SuNnY ] | [Read More](https://medium.com/p/ef10f85661b9) |
