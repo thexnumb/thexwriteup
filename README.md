@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 15:41:47 GMT | Between Dignity and Deterrence | Sigrid Gladstone | [Read More](https://medium.com/p/c56defc56c07) |
+| Sun, 22 Mar 2026 15:40:15 GMT | Understanding and Exploiting CVE-2025–32462: A Local Privilege Escalation Vulnerability in Sudo | Awais Akbar | [Read More](https://medium.com/p/3d611279b263) |
+| Sun, 22 Mar 2026 15:37:34 GMT | Keamanan Informasi: Bukan Cuma Urusan Hacker dan IT | Hari Premadasa | [Read More](https://medium.com/p/8f94880f574e) |
+| Sun, 22 Mar 2026 15:37:31 GMT | Quantum Scrambler Picoctf Reverse Engineering | Aun Raza | [Read More](https://medium.com/p/4796e8c03d67) |
+| Sun, 22 Mar 2026 15:34:04 GMT | Assessment Methodologies: Information Gathering CTF 1 — EJPT — INE | Bader Alzoubi | [Read More](https://medium.com/p/7694fbb2a17b) |
+| Sun, 22 Mar 2026 15:23:05 GMT | Vibe Coding Is a Security Disaster That Is About to Happen | Jost Faganel | [Read More](https://medium.com/p/9f72f39756e9) |
 | Sun, 22 Mar 2026 15:23:00 GMT | Uma noite Ninja | Montagem Cinema | [Read More](https://medium.com/p/8ec594cf43a9) |
 | Sun, 22 Mar 2026 15:20:20 GMT | ‍Bulldog: 2 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/85fc947a4276) |
 | Sun, 22 Mar 2026 15:18:33 GMT | The Best Cybersecurity Interview Prep Websites of 2026 [ Detailed Review ] | The Daily Cyber News | [Read More](https://medium.com/p/459c9280e323) |
@@ -107,9 +113,3 @@ Security Disaster Waiting to Happen — And Microsoft Never Told You | Silicon |
 | Sun, 22 Mar 2026 08:24:13 GMT | FBI Seizes Handala Domains After Stryker Wiper Attack: Anatomy of an MOIS Cyber Operation | TheRedSheep | [Read More](https://medium.com/p/6e8150a22918) |
 | Sun, 22 Mar 2026 08:24:06 GMT | Chief Incident Scapegoat Officer: The attack surface moved. The blame didn’t. | Jayal Yadav | [Read More](https://medium.com/p/32a6e43c6d28) |
 | Sun, 22 Mar 2026 08:22:24 GMT | Self-Governed Infrastructure: The Only AI Strategy That Survives 2026 | Jayal Yadav | [Read More](https://medium.com/p/7fc1763fc514) |
-| Sun, 22 Mar 2026 08:08:15 GMT | The Fastest Way Into Tech Is a Shovel | Kyle Thrasher | [Read More](https://medium.com/p/f589dd464c4a) |
-| Sun, 22 Mar 2026 08:07:06 GMT | Zero-Click Exploit Attack | appsecwarrior | [Read More](https://medium.com/p/54fca244db8a) |
-| Sun, 22 Mar 2026 08:03:09 GMT | Beast Ransomware Gang’s OPSEC Collapse: Exposed Server Reveals Full Attack Toolkit | TheRedSheep | [Read More](https://medium.com/p/7c63e5df7b00) |
-| Sun, 22 Mar 2026 07:53:05 GMT | MISP Threat Intelligence Project: Docker Deployment, APT18 Analysis, Automation, and Visualization | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/8a7488277e6a) |
-| Sun, 22 Mar 2026 07:50:49 GMT | The Architect’s Blueprint: Hardening Azure DevOps for Enterprise Scale | Chaluvadisuryachaithanya | [Read More](https://medium.com/p/0410c66777ee) |
-| Sun, 22 Mar 2026 07:44:35 GMT | Open-Source Intelligence (OSINT): Techniques & Tools — A Complete Guide (2026) | EINITIAL24 | [Read More](https://medium.com/p/c0c4e463b587) |
