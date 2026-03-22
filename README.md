@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 05:27:14 GMT | Microsoft Promises Slew of Windows 11 Changes in Response to Microslop, Criticisms | Sr | [Read More](https://medium.com/p/1878a33a25f1) |
+| Sun, 22 Mar 2026 05:21:00 GMT | How I Built CareerCraftAI: A 12-Part Engineering Series (Part 2) | Philip Mutua | [Read More](https://medium.com/p/3820a5b6aa84) |
+| Sun, 22 Mar 2026 04:59:28 GMT | Windows Architecture — NIR(3) | TheCyberNirvana | [Read More](https://medium.com/p/16c5669510fd) |
+| Sun, 22 Mar 2026 04:55:38 GMT | How I Built a Real-Time Anonymous Chat App for Free — Architecture Deep Dive | Jishnu Ec | [Read More](https://medium.com/p/f6d73b11434e) |
 | Sun, 22 Mar 2026 04:11:37 GMT | AI Should Not Have Execution Rights | Hello Havenlon | [Read More](https://medium.com/p/7d65c994be34) |
 | Sun, 22 Mar 2026 04:00:16 GMT | Why Lightsail is the Best Way for Beginners to Deploy OpenClaw | Eddie Chan | [Read More](https://medium.com/p/fee1870447f4) |
 | Sun, 22 Mar 2026 03:56:00 GMT | What is GRC? | Dipan | [Read More](https://medium.com/p/4b49f15659e9) |
@@ -109,7 +113,3 @@ Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p
 | Sat, 21 Mar 2026 16:58:30 GMT | Walkthrough HTB Active | Telynor | [Read More](https://medium.com/p/1cd091ea1a2f) |
 | Sat, 21 Mar 2026 16:56:22 GMT | How I Found a Security Misconfiguration in Max Healthcare’s PACS System — and Got Recognized for It | Dharanis | [Read More](https://medium.com/p/dcc2e44dc1b4) |
 | Sat, 21 Mar 2026 16:47:41 GMT | The $32 Million Compliance Fraud That Should Reshape How We Think About AI Governance | Jason Shotwell | [Read More](https://medium.com/p/7aa8e3183ad7) |
-| Sat, 21 Mar 2026 16:45:20 GMT | Deterministic AppSec: From Probabilistic Risk to Enforceable Invariants | Eldor Zufarov | [Read More](https://medium.com/p/16b7180b50cc) |
-| Sat, 21 Mar 2026 16:44:04 GMT | The Memory Paradox: Are We Outsourcing Our Minds to the Cloud? | Alex Stevens | [Read More](https://medium.com/p/edb69aac25de) |
-| Sat, 21 Mar 2026 16:43:45 GMT | Your ISP gives you one public IP. I took 200. | Wael Hasnaoui | [Read More](https://medium.com/p/912b7e3f630c) |
-| Sat, 21 Mar 2026 16:37:43 GMT | TTPs vs IOCs: Shift Your Detection Mindset | Paritosh | [Read More](https://medium.com/p/b12dc122b1a8) |
