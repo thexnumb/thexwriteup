@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 19:23:55 GMT | Securing My Homelab With Tailscale | Hugh Evans | [Read More](https://medium.com/p/b6835268e9cd) |
+| Sun, 22 Mar 2026 19:07:08 GMT | IT Organization as Science and Engineering | Shubjeet Pal | [Read More](https://medium.com/p/3917f2d8933e) |
+| Sun, 22 Mar 2026 18:56:46 GMT | Understanding Local File Inclusion (LFI) and Remote File Inclusion (RFI): Exploitation and Defense | HexNative Blog | [Read More](https://medium.com/p/5921bc19d153) |
+| Sun, 22 Mar 2026 18:43:26 GMT | Exposed Endpoints Lead To Leak PII | 1sherlok | [Read More](https://medium.com/p/96a581c37081) |
+| Sun, 22 Mar 2026 18:40:55 GMT | Network Address Translation (NAT): How the Internet Handles Billions of Devices | Ndu | [Read More](https://medium.com/p/208116a183c9) |
+| Sun, 22 Mar 2026 18:38:53 GMT | Firewalls Explained: The First Line of Defense in Network Security | Ndu | [Read More](https://medium.com/p/34d14292d35b) |
 | Sun, 22 Mar 2026 18:31:29 GMT | Zero Trust: Stop Trusting Your Own Network | Moksh S | [Read More](https://medium.com/p/e3602aa19efc) |
 | Sun, 22 Mar 2026 18:28:11 GMT | SQL Injection: Listing Database Contents on Oracle — PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/65bad29440ec) |
 | Sun, 22 Mar 2026 18:27:42 GMT | Lab Title Insecure Direct Object Reference (IDOR) — Accessing Administrator Account | Anonymousd | [Read More](https://medium.com/p/540a45cbe7c4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 12:31:17 GMT | Peeling Back Obfuscated JavaScript: A Practical Reverse Engineering Guide | Roee Mayerowicz | [Read More](https://medium.com/p/c7c7aab02c43) |
 | Sun, 22 Mar 2026 12:28:33 GMT | Passwords Are Dead: Yours Might Already Be Compromised | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/34e75c4f28de) |
 | Sun, 22 Mar 2026 12:12:21 GMT | TRYHACKME ICE | Yiğit İbis | [Read More](https://medium.com/p/0eb2a3ccb588) |
-| Sun, 22 Mar 2026 12:12:03 GMT | LLM APIs are now the #1 attack surface in AI systems. | Neuralcoretech | [Read More](https://medium.com/p/fffe42539574) |
-| Sun, 22 Mar 2026 11:48:28 GMT | Slient Stream Picoctf Reverse Engineering | Aun Raza | [Read More](https://medium.com/p/94874741399b) |
-| Sun, 22 Mar 2026 11:42:28 GMT | Day 21: Endpoint Security Basics (AV/EDR Overview) | Siddhesh Patil | [Read More](https://medium.com/p/ae21e983716a) |
-| Sun, 22 Mar 2026 11:39:45 GMT | THE GOWERS FALLACY: ANOTHER KASPAROV MOMENT — WHY THE HARD PROBLEM OF AUTONOMOUS AI SCIENTISTS WAS… | Berend Watchus | [Read More](https://medium.com/p/ad7d14709fac) |
-| Sun, 22 Mar 2026 11:37:35 GMT | Google Dorking: The Most Underrated Bug Bounty Skill | Bugitrix | [Read More](https://medium.com/p/bd548cac235c) |
-| Sun, 22 Mar 2026 11:26:40 GMT | Defensive Architectures Against Prompt Injection: Moving Beyond Whack-A-Mole | Anandhu krishna | [Read More](https://medium.com/p/be41db3665a6) |
