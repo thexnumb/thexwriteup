@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 07:28:48 GMT | Best Cyber Range Platform in India for Hands-On Training | cyber security Updates | [Read More](https://medium.com/p/d7f4d8eeef5f) |
+| Sun, 22 Mar 2026 07:16:10 GMT | They Don’t Hack Your Bank.
+They Hack You. | ADITYA GUPTA | [Read More](https://medium.com/p/7fbc8646252a) |
+| Sun, 22 Mar 2026 07:11:35 GMT | The Linux Process Journey — run-parts (Run Scripts or Programs in a Directory) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b111b9ae12ee) |
+| Sun, 22 Mar 2026 07:10:53 GMT | “Why You Can’t Stop Scrolling (Even When You Want To)” | Shanaya Shelkar | [Read More](https://medium.com/p/2581f51f1929) |
+| Sun, 22 Mar 2026 07:08:53 GMT | Amass Cheat Sheet — Subdomain Enumeration | Dhruv | [Read More](https://medium.com/p/40c2ef6adca7) |
+| Sun, 22 Mar 2026 07:06:24 GMT | The Future of Technology in 2026 | CodeZen | [Read More](https://medium.com/p/fece4f5131e3) |
+| Sun, 22 Mar 2026 07:01:00 GMT | Information Is Water: Why You Can’t Stop It | Oleh Cheslavskyi | [Read More](https://medium.com/p/0f9050d0c36e) |
 | Sun, 22 Mar 2026 06:50:38 GMT | The Golden Gate Illusion: Why Sparse Autoencoders (SAEs) Misunderstand the Physics of AI | Supat Charoensappuech | [Read More](https://medium.com/p/8bf6cdc52928) |
 | Sun, 22 Mar 2026 06:38:48 GMT | Multi-Stage Vehicles Are the Edge Case That Exposes Weak Compliance Architecture | Xeeniq Intelligence | [Read More](https://medium.com/p/0b3d60799e5c) |
 | Sun, 22 Mar 2026 06:38:29 GMT | AI Is Creating More Cybersecurity Jobs Than Ever Before | Vijay Kumar Gupta | [Read More](https://medium.com/p/82d35613f9ca) |
@@ -106,10 +114,3 @@ Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p
 | Sat, 21 Mar 2026 18:34:00 GMT | Why DeFi Needs Vault Infrastructure | Kryptolord | [Read More](https://medium.com/p/eae088dcd973) |
 | Sat, 21 Mar 2026 18:33:59 GMT | Title: “The Silent Breach — 2026” | Topudhan | [Read More](https://medium.com/p/135d38173e36) |
 | Sat, 21 Mar 2026 18:31:27 GMT | IP Ünvanlamasının İşləmə Prinsipi | Hamid Aslanov | [Read More](https://medium.com/p/bcf936b71501) |
-| Sat, 21 Mar 2026 18:31:00 GMT | Where are the robots — robots.txt Enumeration | recoxy_rangers | [Read More](https://medium.com/p/e824ac8d95d0) |
-| Sat, 21 Mar 2026 18:27:38 GMT | Understanding ISP Traffic Shaping: A Practical Analysis of Bandwidth Limits | Abdelnour Osman (DarkT) | [Read More](https://medium.com/p/ad91bfcc9c46) |
-| Sat, 21 Mar 2026 18:21:31 GMT | How to Setup a Completely Secure Home Network From Scratch (2026 Guide) | Temma | [Read More](https://medium.com/p/c28c1d76c78e) |
-| Sat, 21 Mar 2026 18:21:02 GMT | Windows Event Logs | Hitesh kumar | [Read More](https://medium.com/p/a779bfff0048) |
-| Sat, 21 Mar 2026 18:20:30 GMT | Breaking RSA for CTFs: Complete Attack Guide with Python - Cryptography - By Alham Rizvi | Alham Rizvi | [Read More](https://medium.com/p/b151835e30db) |
-| Sat, 21 Mar 2026 18:16:00 GMT | OCI Bastion Service: Secure Access to Private Resources Without a Jump Box | Pavan Madduri | [Read More](https://medium.com/p/06cb7233b6d0) |
-| Sat, 21 Mar 2026 18:14:54 GMT | I Hacked a Drone Swarm With a Chatbot — Here’s Why That Should Worry You | @3odat | [Read More](https://medium.com/p/db3bb65f62ea) |
