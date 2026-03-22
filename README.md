@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 18:31:29 GMT | Zero Trust: Stop Trusting Your Own Network | Moksh S | [Read More](https://medium.com/p/e3602aa19efc) |
+| Sun, 22 Mar 2026 18:28:11 GMT | SQL Injection: Listing Database Contents on Oracle — PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/65bad29440ec) |
+| Sun, 22 Mar 2026 18:27:42 GMT | Lab Title Insecure Direct Object Reference (IDOR) — Accessing Administrator Account | Anonymousd | [Read More](https://medium.com/p/540a45cbe7c4) |
+| Sun, 22 Mar 2026 18:17:50 GMT | How Technology Is Enhancing Patient-Doctor Communication | Sirini Sreeram | [Read More](https://medium.com/p/349e203d594b) |
+| Sun, 22 Mar 2026 18:16:03 GMT | When Zero Trust Meets Reality: Securing IT and OT in Critical Infrastructure | WayneReidUK | [Read More](https://medium.com/p/29ccadbae1b9) |
+| Sun, 22 Mar 2026 18:13:35 GMT | “The Future of AI Will Be Owned — Or It Will Be Broken” | Atieclinton | [Read More](https://medium.com/p/092d63d8b9f6) |
+| Sun, 22 Mar 2026 18:11:00 GMT | No Visibility, No Trust: A Lesson for New Smart Contract Security Researchers | Abraham | [Read More](https://medium.com/p/7882099e63ed) |
+| Sun, 22 Mar 2026 18:08:25 GMT | You Hacked Yourself -And You Didn’t Even Know It | Heet Rajesh Gala | [Read More](https://medium.com/p/4817203c8d78) |
+| Sun, 22 Mar 2026 17:52:50 GMT | Cryptographic Entropy, Chi‑Square, and Serial Correlation: What One Key Can Reveal - Understanding… | XPORT.TOP | [Read More](https://medium.com/p/ca39cd170bc5) |
+| Sun, 22 Mar 2026 17:50:06 GMT | Helpdesk ( Əsas bilməli olduğunuz məqamlar) | Kamalatluxanov | [Read More](https://medium.com/p/a4bb9823f027) |
 | Sun, 22 Mar 2026 17:43:04 GMT | AI IN CYBERSECURITY : The Silent Battle You Don’t See | Nair Swethasuresh | [Read More](https://medium.com/p/7bfc17dcc8b1) |
 | Sun, 22 Mar 2026 17:31:00 GMT | “Globally Disabling the Assessment System” on macOS? Here’s What It Means | Jenny Zeng | [Read More](https://medium.com/p/0c07c4e93a9b) |
 | Sun, 22 Mar 2026 17:27:14 GMT | Building Mini Security Lab: pfSense + Suricata + OpenVPN + pfBlockerNG | n4v33nm | [Read More](https://medium.com/p/bfd60184fab3) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 11:39:45 GMT | THE GOWERS FALLACY: ANOTHER KASPAROV MOMENT — WHY THE HARD PROBLEM OF AUTONOMOUS AI SCIENTISTS WAS… | Berend Watchus | [Read More](https://medium.com/p/ad7d14709fac) |
 | Sun, 22 Mar 2026 11:37:35 GMT | Google Dorking: The Most Underrated Bug Bounty Skill | Bugitrix | [Read More](https://medium.com/p/bd548cac235c) |
 | Sun, 22 Mar 2026 11:26:40 GMT | Defensive Architectures Against Prompt Injection: Moving Beyond Whack-A-Mole | Anandhu krishna | [Read More](https://medium.com/p/be41db3665a6) |
-| Sun, 22 Mar 2026 11:24:55 GMT | ASUR CTF — Season 1: Maya | Patildamodar | [Read More](https://medium.com/p/dfb81cd6957b) |
-| Sun, 22 Mar 2026 11:21:00 GMT | Satoshi’s $440 Billion Bitcoin Wallet Is Quantum Computing’s Most Tempting Target and Nobody Agrees… | Akintibubo Timilehin | [Read More](https://medium.com/p/0d1dd6f2e5a2) |
-| Sun, 22 Mar 2026 11:15:37 GMT | The Hidden Risks of Sharing Data with AI | Abolfazl Vaziri | [Read More](https://medium.com/p/f4b22fe19f62) |
-| Sun, 22 Mar 2026 11:10:28 GMT | Amazon Bedrock CRIS와 Global endpoint 사용 시 SCP 설정 고려사항 | Martin Choi | [Read More](https://medium.com/p/747fcf06ac7a) |
-| Sun, 22 Mar 2026 11:05:18 GMT | It Started as a Security. It Doesn’t Have to Stay One. | CryptoNite | [Read More](https://medium.com/p/bfc58607a3e3) |
-| Sun, 22 Mar 2026 11:01:00 GMT | My Linux Server Was Attacked 3,427 Times in One Day (Real Logs) | Faruk Ahmed | [Read More](https://medium.com/p/1d48931ecb9e) |
-| Sun, 22 Mar 2026 10:58:43 GMT | Part 2: Cybersecurity On A Budget — Log Analysis and Attack Detection | Uduak Nyong | [Read More](https://medium.com/p/885ff0468146) |
-| Sun, 22 Mar 2026 10:55:15 GMT | Remote Cybersecurity Jobs: Where to Find Them & How to Stand Out in 2026 | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/4de4356182a0) |
-| Sun, 22 Mar 2026 10:40:15 GMT | DVWA: File Inclusion Vulnerability (Low Security) | Kamal S | [Read More](https://medium.com/p/496a50fd12dc) |
-| Sun, 22 Mar 2026 10:39:51 GMT | Defending Data in a Hacker’s World | Dhanashree | [Read More](https://medium.com/p/9e745b0fb385) |
