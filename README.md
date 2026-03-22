@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 14:25:42 GMT | I Never Thought Home Security Would Matter This Much… Until It Did | Life,health And Technology | [Read More](https://medium.com/p/c90841d1f892) |
+| Sun, 22 Mar 2026 14:25:33 GMT | My First Malware Analysis: What I Learned From a Banking Trojan | Gilang Swandaru | [Read More](https://medium.com/p/d3a2480ab34b) |
+| Sun, 22 Mar 2026 14:25:09 GMT | How to Become a Smart Contract Auditor in 2026 | Abraham | [Read More](https://medium.com/p/dcd677f73caa) |
+| Sun, 22 Mar 2026 14:23:08 GMT | The Fear Underneath Every AI Transformation | Vlad Sterngold | [Read More](https://medium.com/p/a6ed9ee446af) |
+| Sun, 22 Mar 2026 14:19:47 GMT | What Every Cybersecurity Enthusiast Needs to Know About Log Files | Djihane GUERAICHE | [Read More](https://medium.com/p/ae86ad12a154) |
+| Sun, 22 Mar 2026 14:16:19 GMT | How a Developer Machine Got Compromised (Twice) — A “Shai-Hulud 2.0” | Kushagradevgon | [Read More](https://medium.com/p/2023a80b6d84) |
+| Sun, 22 Mar 2026 14:16:00 GMT | From Autonomous to Lightweight: The Architectural Evolution of Enterprise Wi-Fi | Network Knowledge Hub | [Read More](https://medium.com/p/30b25b99b620) |
+| Sun, 22 Mar 2026 14:14:08 GMT | How to Scan and Test Private Network IP Camera Security | Мартин. | [Read More](https://medium.com/p/bb9aa3219958) |
+| Sun, 22 Mar 2026 14:12:49 GMT | The Legal Hacking Tools You Can Buy on Amazon (And What They Actually Do) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c1688dcad5c0) |
+| Sun, 22 Mar 2026 14:07:25 GMT | JWT Authentication Flow — From Login to a Protected API | Mitesh Singh Jat | [Read More](https://medium.com/p/63532af6efa2) |
+| Sun, 22 Mar 2026 14:01:09 GMT | The $0 Supply Chain Hack: Hijacking Microsoft's Setup.exe (And Broke Their Bounty Policy) | Aman Kumar (ak) | [Read More](https://medium.com/p/f05eb6fedcff) |
+| Sun, 22 Mar 2026 13:57:13 GMT | Sunday Funnies | Rebecca Trocki | [Read More](https://medium.com/p/f52291a2a75a) |
+| Sun, 22 Mar 2026 13:57:01 GMT | Golden SAML — Forging Identity from On-Premises AD FS to Azure AD | Ajay Majukar | [Read More](https://medium.com/p/06bbf98d92fc) |
+| Sun, 22 Mar 2026 13:56:43 GMT | Galaxy Dash (BAC) Walkthrough (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/4323bd2d6fd7) |
+| Sun, 22 Mar 2026 13:53:03 GMT | The Invisible Code: How Your Browser Secretly Talks Back to Big Tech | Rohit Yadav | [Read More](https://medium.com/p/81e6427198f3) |
+| Sun, 22 Mar 2026 13:47:37 GMT | From SYSVOL to Sector Zero: Dissecting the Handala Wiper | Naor Evgi | [Read More](https://medium.com/p/f1b6f1c99b87) |
 | Sun, 22 Mar 2026 13:39:43 GMT | Write-up HTB Sauna | Telynor | [Read More](https://medium.com/p/8c517d0aee43) |
 | Sun, 22 Mar 2026 13:38:41 GMT | ARP Poisoning və Man-in-the-Middle Hücumlarının Texniki Analizi | Behbud Behbudov | [Read More](https://medium.com/p/41ead6e0335a) |
 | Sun, 22 Mar 2026 13:36:18 GMT | Web Siteleri Nasıl Çalışır? (Temel Kavramlar ve Güvenlik Zafiyetleri) | Onur Öztürk | [Read More](https://medium.com/p/0bf8c4aaf0b7) |
@@ -26,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 13:16:39 GMT | Governance Artifacts Without Governance | Edward Meyman | [Read More](https://medium.com/p/626c1a7a63ff) |
 | Sun, 22 Mar 2026 13:08:03 GMT | TryHackMe Windows PowerShell | Birdv | [Read More](https://medium.com/p/1be546105c8c) |
 | Sun, 22 Mar 2026 13:01:36 GMT | Palantir Just Got $10 Billion to Run the Pentagon’s AI — Here’s What Nobody’s Talking About | Crafty | [Read More](https://medium.com/p/6cb22a7953e8) |
+| Sun, 22 Mar 2026 13:01:01 GMT | [Seven] The Existential System Failure of the Urban OS | MonoEssay | [Read More](https://medium.com/p/2dbe1c6225bf) |
 | Sun, 22 Mar 2026 12:55:55 GMT | The Complete Toolkit Every Developer Needs for Passwords, Tokens, and Data Security | Krishna Tadi | [Read More](https://medium.com/p/857a3d4a3bc2) |
 | Sun, 22 Mar 2026 12:40:55 GMT | AWS Cloudwatch to Grafana (WAF and Other Services) | Aakash Rathee | [Read More](https://medium.com/p/c1430ec2c832) |
 | Sun, 22 Mar 2026 12:31:17 GMT | Peeling Back Obfuscated JavaScript: A Practical Reverse Engineering Guide | Roee Mayerowicz | [Read More](https://medium.com/p/c7c7aab02c43) |
@@ -97,20 +114,3 @@ They Hack You. | ADITYA GUPTA | [Read More](https://medium.com/p/7fbc8646252a) |
 | Sun, 22 Mar 2026 06:38:48 GMT | Multi-Stage Vehicles Are the Edge Case That Exposes Weak Compliance Architecture | Xeeniq Intelligence | [Read More](https://medium.com/p/0b3d60799e5c) |
 | Sun, 22 Mar 2026 06:38:29 GMT | AI Is Creating More Cybersecurity Jobs Than Ever Before | Vijay Kumar Gupta | [Read More](https://medium.com/p/82d35613f9ca) |
 | Sun, 22 Mar 2026 06:36:17 GMT | The Falcon Fleet Blackout | Nathan Moraes | [Read More](https://medium.com/p/f96598412c55) |
-| Sun, 22 Mar 2026 06:34:28 GMT | The Collapse of Commoditized Trust; Killed by the Subsidized Audit | Ian Yip | [Read More](https://medium.com/p/bb07406e9735) |
-| Sun, 22 Mar 2026 06:31:30 GMT | Transparent Data Encryption(TDE) Oracle Database 26ai | Preetampd | [Read More](https://medium.com/p/f87ae21af3e5) |
-| Sun, 22 Mar 2026 06:20:33 GMT | Neighbour Walkthrough [THM Easy Machine] | Maro_Medhat | [Read More](https://medium.com/p/050c7b4ff770) |
-| Sun, 22 Mar 2026 06:19:06 GMT | Dripping Blues Vuln Machine — Walkthrough. | Oluwasemipe Aransiola | [Read More](https://medium.com/p/d3d91e18b7cc) |
-| Sun, 22 Mar 2026 06:10:59 GMT | I Didn’t Hack You — But I Know 5 Things About You Already | 0xAbhiSec | [Read More](https://medium.com/p/5b83ea512a25) |
-| Sun, 22 Mar 2026 06:08:42 GMT | # SAST vs DAST vs SCA — What You Actually Need | Proscan.one | [Read More](https://medium.com/p/360fba4848aa) |
-| Sun, 22 Mar 2026 06:07:55 GMT | DNS as a Weapon | Adam DiStefano | [Read More](https://medium.com/p/26ad80eb7326) |
-| Sun, 22 Mar 2026 06:04:53 GMT | Why You’re Not Finding Bugs (And How Hackers Actually ) | Uday | [Read More](https://medium.com/p/8b456bacfaf6) |
-| Sun, 22 Mar 2026 05:56:53 GMT | Welcome to a Security Program Architect’s blog | Aparna Ash Himmatramka | [Read More](https://medium.com/p/c4030256946e) |
-| Sun, 22 Mar 2026 05:54:59 GMT | Microsoft Intune Monitoring (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/9d7f529e839b) |
-| Sun, 22 Mar 2026 05:27:14 GMT | Microsoft Promises Slew of Windows 11 Changes in Response to Microslop, Criticisms | Sr | [Read More](https://medium.com/p/1878a33a25f1) |
-| Sun, 22 Mar 2026 05:21:00 GMT | How I Built CareerCraftAI: A 12-Part Engineering Series (Part 2) | Philip Mutua | [Read More](https://medium.com/p/3820a5b6aa84) |
-| Sun, 22 Mar 2026 04:59:28 GMT | Windows Architecture — NIR(3) | TheCyberNirvana | [Read More](https://medium.com/p/16c5669510fd) |
-| Sun, 22 Mar 2026 04:55:38 GMT | How I Built a Real-Time Anonymous Chat App for Free — Architecture Deep Dive | Jishnu Ec | [Read More](https://medium.com/p/f6d73b11434e) |
-| Sun, 22 Mar 2026 04:11:37 GMT | AI Should Not Have Execution Rights | Hello Havenlon | [Read More](https://medium.com/p/7d65c994be34) |
-| Sun, 22 Mar 2026 04:00:16 GMT | Why Lightsail is the Best Way for Beginners to Deploy OpenClaw | Eddie Chan | [Read More](https://medium.com/p/fee1870447f4) |
-| Sun, 22 Mar 2026 03:56:00 GMT | What is GRC? | Dipan | [Read More](https://medium.com/p/4b49f15659e9) |
