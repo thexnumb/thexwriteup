@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 06:50:38 GMT | The Golden Gate Illusion: Why Sparse Autoencoders (SAEs) Misunderstand the Physics of AI | Supat Charoensappuech | [Read More](https://medium.com/p/8bf6cdc52928) |
+| Sun, 22 Mar 2026 06:38:48 GMT | Multi-Stage Vehicles Are the Edge Case That Exposes Weak Compliance Architecture | Xeeniq Intelligence | [Read More](https://medium.com/p/0b3d60799e5c) |
+| Sun, 22 Mar 2026 06:38:29 GMT | AI Is Creating More Cybersecurity Jobs Than Ever Before | Vijay Kumar Gupta | [Read More](https://medium.com/p/82d35613f9ca) |
+| Sun, 22 Mar 2026 06:36:17 GMT | The Falcon Fleet Blackout | Nathan Moraes | [Read More](https://medium.com/p/f96598412c55) |
+| Sun, 22 Mar 2026 06:34:28 GMT | The Collapse of Commoditized Trust; Killed by the Subsidized Audit | Ian Yip | [Read More](https://medium.com/p/bb07406e9735) |
+| Sun, 22 Mar 2026 06:31:30 GMT | Transparent Data Encryption(TDE) Oracle Database 26ai | Preetampd | [Read More](https://medium.com/p/f87ae21af3e5) |
+| Sun, 22 Mar 2026 06:19:06 GMT | Dripping Blues Vuln Machine — Walkthrough. | Oluwasemipe Aransiola | [Read More](https://medium.com/p/d3d91e18b7cc) |
+| Sun, 22 Mar 2026 06:10:59 GMT | I Didn’t Hack You — But I Know 5 Things About You Already | 0xAbhiSec | [Read More](https://medium.com/p/5b83ea512a25) |
+| Sun, 22 Mar 2026 06:08:42 GMT | # SAST vs DAST vs SCA — What You Actually Need | Proscan.one | [Read More](https://medium.com/p/360fba4848aa) |
+| Sun, 22 Mar 2026 06:07:55 GMT | DNS as a Weapon | Adam DiStefano | [Read More](https://medium.com/p/26ad80eb7326) |
+| Sun, 22 Mar 2026 06:04:53 GMT | Why You’re Not Finding Bugs (And How Hackers Actually ) | Uday | [Read More](https://medium.com/p/8b456bacfaf6) |
+| Sun, 22 Mar 2026 05:56:53 GMT | Welcome to a Security Program Architect’s blog | Aparna Ash Himmatramka | [Read More](https://medium.com/p/c4030256946e) |
+| Sun, 22 Mar 2026 05:54:59 GMT | Microsoft Intune Monitoring (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/9d7f529e839b) |
 | Sun, 22 Mar 2026 05:27:14 GMT | Microsoft Promises Slew of Windows 11 Changes in Response to Microslop, Criticisms | Sr | [Read More](https://medium.com/p/1878a33a25f1) |
 | Sun, 22 Mar 2026 05:21:00 GMT | How I Built CareerCraftAI: A 12-Part Engineering Series (Part 2) | Philip Mutua | [Read More](https://medium.com/p/3820a5b6aa84) |
 | Sun, 22 Mar 2026 04:59:28 GMT | Windows Architecture — NIR(3) | TheCyberNirvana | [Read More](https://medium.com/p/16c5669510fd) |
@@ -100,16 +113,3 @@ Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p
 | Sat, 21 Mar 2026 18:20:30 GMT | Breaking RSA for CTFs: Complete Attack Guide with Python - Cryptography - By Alham Rizvi | Alham Rizvi | [Read More](https://medium.com/p/b151835e30db) |
 | Sat, 21 Mar 2026 18:16:00 GMT | OCI Bastion Service: Secure Access to Private Resources Without a Jump Box | Pavan Madduri | [Read More](https://medium.com/p/06cb7233b6d0) |
 | Sat, 21 Mar 2026 18:14:54 GMT | I Hacked a Drone Swarm With a Chatbot — Here’s Why That Should Worry You | @3odat | [Read More](https://medium.com/p/db3bb65f62ea) |
-| Sat, 21 Mar 2026 18:06:25 GMT | TryHackMe - Microsoft Intune Monitoring - WriteUp | Axoloth | [Read More](https://medium.com/p/01bcc7c85679) |
-| Sat, 21 Mar 2026 17:45:32 GMT | CVE-2025–66034 POC | Muhammad Arafat | [Read More](https://medium.com/p/112bfb1b7044) |
-| Sat, 21 Mar 2026 17:21:27 GMT | Why Choosing the Right App Development Company in India Can Transform Your Business | LoudOwls | [Read More](https://medium.com/p/2f8fa8316e98) |
-| Sat, 21 Mar 2026 17:21:17 GMT | Reapersec | Federalbrother | [Read More](https://medium.com/p/90ff8b7c8e06) |
-| Sat, 21 Mar 2026 17:20:22 GMT | 29 Million Secrets Leaked on GitHub — Detect Secret Leaks in AI-Generated Code (Part 1) | Prince Bharti | [Read More](https://medium.com/p/5e3037e43c89) |
-| Sat, 21 Mar 2026 17:14:52 GMT | Malicious Script Injection in Trivy Exposes Critical Risks in CI/CD Supply Chains | Chetan Seripally | [Read More](https://medium.com/p/efcb1dd20647) |
-| Sat, 21 Mar 2026 17:10:46 GMT | CVE-2026–22812: How I Got RCE on a 71k-Star AI Coding Tool With Zero Authentication | Dharanis | [Read More](https://medium.com/p/7524fbc3317f) |
-| Sat, 21 Mar 2026 17:09:24 GMT | Hunting Threats in Microsoft Defender XDR: What Actually Works — Pt 2 | Defend Microsoft365 now! | [Read More](https://medium.com/p/4100621f05e1) |
-| Sat, 21 Mar 2026 17:01:30 GMT | Cómo los hackers leen archivos que no deberían: LFI explicado para tu abuela. | HaRoldCant | [Read More](https://medium.com/p/db950600f6d6) |
-| Sat, 21 Mar 2026 17:00:32 GMT | How I Earned $1,000 Bounty by Exploiting a Simple Misconfiguration | Deepanshu Deep | [Read More](https://medium.com/p/18c25356caf3) |
-| Sat, 21 Mar 2026 16:58:30 GMT | Walkthrough HTB Active | Telynor | [Read More](https://medium.com/p/1cd091ea1a2f) |
-| Sat, 21 Mar 2026 16:56:22 GMT | How I Found a Security Misconfiguration in Max Healthcare’s PACS System — and Got Recognized for It | Dharanis | [Read More](https://medium.com/p/dcc2e44dc1b4) |
-| Sat, 21 Mar 2026 16:47:41 GMT | The $32 Million Compliance Fraud That Should Reshape How We Think About AI Governance | Jason Shotwell | [Read More](https://medium.com/p/7aa8e3183ad7) |
