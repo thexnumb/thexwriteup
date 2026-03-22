@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 21:17:12 GMT | A quiet account of who I am now… | One Quiet Voice | [Read More](https://medium.com/p/d8d84e07bb09) |
+| Sun, 22 Mar 2026 21:09:39 GMT | The Self-Custody Illusion: Why Most Wallets Still Fail the User | Corwin Goldman_Dibbs | [Read More](https://medium.com/p/546392c01467) |
+| Sun, 22 Mar 2026 21:08:58 GMT | Vibeware & DDoD: Detecting AI-Mutated Attack Agents Through Structural Analysis | 5r4v4n | [Read More](https://medium.com/p/7ec05c3f972c) |
+| Sun, 22 Mar 2026 20:51:23 GMT | Beyond Linux and Windows: A Technical Analysis for the Modern Professional | Murilo Giatti | [Read More](https://medium.com/p/b5277a7732b1) |
+| Sun, 22 Mar 2026 20:48:24 GMT | Detection Engineering (Part 1 of 3) | Andrew Blooman | [Read More](https://medium.com/p/443e26eb6ef4) |
+| Sun, 22 Mar 2026 20:45:59 GMT | CTF Writeup: SeaPanda — Investigating a Maritime Shipping Intrusion | Yassineet | [Read More](https://medium.com/p/a89e21b046f3) |
+| Sun, 22 Mar 2026 20:45:14 GMT | Wireless Attack with Aircrack-ng : A Complete Guide from A to Z | Yurichi Tamaki | [Read More](https://medium.com/p/17b5a3de94f6) |
+| Sun, 22 Mar 2026 20:41:26 GMT | Command Injection - When an Attacker Stops Talking to Your App and Starts Talking to Your Server… | Rufus Kehinde | [Read More](https://medium.com/p/99f8d77e70d3) |
+| Sun, 22 Mar 2026 20:38:49 GMT | CTF Writeup: OpenClaw — Compromising an ML Platform Through a Chain of Vulnerabilities | Yassineet | [Read More](https://medium.com/p/0b3d875908aa) |
+| Sun, 22 Mar 2026 20:36:00 GMT | ROAD- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/8b6002c3c7c2) |
 | Sun, 22 Mar 2026 20:27:29 GMT | From a Silent Math Error to Certificate Bypass: Uncovering an Integer Overflow in a TLS Parser | Hacker MD | [Read More](https://medium.com/p/b73b86696f74) |
 | Sun, 22 Mar 2026 20:22:01 GMT | Zero to Red Team: Master Shodan Dorking in One Read | Shubham Gupta | [Read More](https://medium.com/p/24df16f2b84e) |
 | Sun, 22 Mar 2026 20:08:20 GMT | Mobile App Security Testing Guide 2026 Part 1: The Blueprint | mohanrajmdev | [Read More](https://medium.com/p/c28e8d355a27) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 13:57:01 GMT | Golden SAML — Forging Identity from On-Premises AD FS to Azure AD | Ajay Majukar | [Read More](https://medium.com/p/06bbf98d92fc) |
 | Sun, 22 Mar 2026 13:56:43 GMT | Galaxy Dash (BAC) Walkthrough (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/4323bd2d6fd7) |
 | Sun, 22 Mar 2026 13:53:03 GMT | The Invisible Code: How Your Browser Secretly Talks Back to Big Tech | Rohit Yadav | [Read More](https://medium.com/p/81e6427198f3) |
-| Sun, 22 Mar 2026 13:47:37 GMT | From SYSVOL to Sector Zero: Dissecting the Handala Wiper | Naor Evgi | [Read More](https://medium.com/p/f1b6f1c99b87) |
-| Sun, 22 Mar 2026 13:39:43 GMT | Write-up HTB Sauna | Telynor | [Read More](https://medium.com/p/8c517d0aee43) |
-| Sun, 22 Mar 2026 13:38:41 GMT | ARP Poisoning və Man-in-the-Middle Hücumlarının Texniki Analizi | Behbud Behbudov | [Read More](https://medium.com/p/41ead6e0335a) |
-| Sun, 22 Mar 2026 13:36:18 GMT | Web Siteleri Nasıl Çalışır? (Temel Kavramlar ve Güvenlik Zafiyetleri) | Onur Öztürk | [Read More](https://medium.com/p/0bf8c4aaf0b7) |
-| Sun, 22 Mar 2026 13:34:26 GMT | Right Here, Right Now | Tara | [Read More](https://medium.com/p/5086ce1860d8) |
-| Sun, 22 Mar 2026 13:32:20 GMT | The Infrastructure Shift: How Technology Is Becoming the Foundation of Social Impact | Heliusnetwork | [Read More](https://medium.com/p/e7d327b7e902) |
-| Sun, 22 Mar 2026 13:23:53 GMT | HackerMD Elite Bug Bounty Recon Toolkit The Only Tool You Need in 2026 | Hacker MD | [Read More](https://medium.com/p/63a8945318f4) |
-| Sun, 22 Mar 2026 13:23:03 GMT | Firmware Hacking: Learn How 12 Real Devices Were Owned by Hackers | Very Lazy Tech | [Read More](https://medium.com/p/6c454076f491) |
-| Sun, 22 Mar 2026 13:21:00 GMT | Nobody warns you about tool permission creep: 9 slow failures | Yamishift | [Read More](https://medium.com/p/574f59ff263d) |
-| Sun, 22 Mar 2026 13:20:18 GMT | Stop Guessing Production Bugs: Track JavaScript Errors with Screenshots, API Logs & User Feedback | Jainprashuk | [Read More](https://medium.com/p/aaec659877dd) |
