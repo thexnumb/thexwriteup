@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 20:27:29 GMT | From a Silent Math Error to Certificate Bypass: Uncovering an Integer Overflow in a TLS Parser | Hacker MD | [Read More](https://medium.com/p/b73b86696f74) |
+| Sun, 22 Mar 2026 20:22:01 GMT | Zero to Red Team: Master Shodan Dorking in One Read | Shubham Gupta | [Read More](https://medium.com/p/24df16f2b84e) |
+| Sun, 22 Mar 2026 20:08:20 GMT | Mobile App Security Testing Guide 2026 Part 1: The Blueprint | mohanrajmdev | [Read More](https://medium.com/p/c28e8d355a27) |
+| Sun, 22 Mar 2026 20:03:59 GMT | Dirb — a single command to penetrate websites and find hidden things. | Dprannav | [Read More](https://medium.com/p/5062ccdd368d) |
+| Sun, 22 Mar 2026 20:01:00 GMT | Detecting AD Post-Exploitation - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/ebf079bebf17) |
+| Sun, 22 Mar 2026 19:57:21 GMT | Offensive MCP Server with Docker for Claude Desktop: Build Your Own Pentesting Tools (Step-by-Step) | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/8cdcf140d4f7) |
 | Sun, 22 Mar 2026 19:42:54 GMT | Atomic Red Team Setup on Windows | Shailesh Patil | [Read More](https://medium.com/p/727899883edf) |
 | Sun, 22 Mar 2026 19:36:52 GMT | 13.1 Lab: Reflected XSS into HTML context with nothing encoded | Durgesh | [Read More](https://medium.com/p/f188adf3d933) |
 | Sun, 22 Mar 2026 19:31:52 GMT | XSS skill assessment HTB walkthrough | Mazen Hassane | [Read More](https://medium.com/p/cc6390482a68) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 13:23:03 GMT | Firmware Hacking: Learn How 12 Real Devices Were Owned by Hackers | Very Lazy Tech | [Read More](https://medium.com/p/6c454076f491) |
 | Sun, 22 Mar 2026 13:21:00 GMT | Nobody warns you about tool permission creep: 9 slow failures | Yamishift | [Read More](https://medium.com/p/574f59ff263d) |
 | Sun, 22 Mar 2026 13:20:18 GMT | Stop Guessing Production Bugs: Track JavaScript Errors with Screenshots, API Logs & User Feedback | Jainprashuk | [Read More](https://medium.com/p/aaec659877dd) |
-| Sun, 22 Mar 2026 13:20:00 GMT | Unlocking the Huawei E3372h-607: Firmware Flashing, Debug Mode, and AT Command Access | Ajay Majukar | [Read More](https://medium.com/p/6f3b9617efc1) |
-| Sun, 22 Mar 2026 13:17:34 GMT | UAC Bypass in 2026: Why Everyone Talks About It — But Almost No One Truly Understands It | Yua Mikanana | [Read More](https://medium.com/p/27f55eee16c1) |
-| Sun, 22 Mar 2026 13:16:39 GMT | Governance Artifacts Without Governance | Edward Meyman | [Read More](https://medium.com/p/626c1a7a63ff) |
-| Sun, 22 Mar 2026 13:08:03 GMT | TryHackMe Windows PowerShell | Birdv | [Read More](https://medium.com/p/1be546105c8c) |
-| Sun, 22 Mar 2026 13:01:36 GMT | Palantir Just Got $10 Billion to Run the Pentagon’s AI — Here’s What Nobody’s Talking About | Crafty | [Read More](https://medium.com/p/6cb22a7953e8) |
-| Sun, 22 Mar 2026 13:01:01 GMT | [Seven] The Existential System Failure of the Urban OS | MonoEssay | [Read More](https://medium.com/p/2dbe1c6225bf) |
