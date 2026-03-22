@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 02:31:00 GMT | SQL Injection Explained Simply | loopXvedant | [Read More](https://medium.com/p/4a244bb05bfb) |
+| Sun, 22 Mar 2026 02:22:03 GMT | AD105 — Forest Trust Exploitation | _ | [Read More](https://medium.com/p/464af10fffee) |
+| Sun, 22 Mar 2026 02:14:37 GMT | Hackers Are Using AI Now — And Beginners Are Not Ready | Satyam Pathania | [Read More](https://medium.com/p/5d522b941c17) |
+| Sun, 22 Mar 2026 02:01:37 GMT | Hacker Tool Series #1: CUPP — The Art of the Personalized Wordlist | quehackss | [Read More](https://medium.com/p/1a4b56857ab3) |
+| Sun, 22 Mar 2026 01:36:06 GMT | Crusher - CVE-2025–31161 | 0xDolphin | [Read More](https://medium.com/p/6a21d36af548) |
+| Sun, 22 Mar 2026 01:34:46 GMT | Spec-Driven and FedRAMP-Ready: A Different Kind of AI Coding Assistant for Regulated Cloud | Swapnil Panchal | [Read More](https://medium.com/p/ee8a2f94f4ac) |
+| Sun, 22 Mar 2026 00:54:00 GMT | Russian Phishing Campaign Targeting Signal/WhatsApp | Dice | [Read More](https://medium.com/p/8da66bd178b8) |
+| Sun, 22 Mar 2026 00:52:36 GMT | Les Bases en Python | Donald | [Read More](https://medium.com/p/62262df3b140) |
+| Sun, 22 Mar 2026 00:42:45 GMT | Introducing RAISELUX: Responsible AI Security Excellence | Dr Praveen Naidu VUMMADISETTY | [Read More](https://medium.com/p/7011b0b3aa1d) |
+| Sun, 22 Mar 2026 00:35:20 GMT | OpenClaw Is Impressive. It’s Also the Kind of Tool That Can Quietly Wreck Your Data | JustinWang | [Read More](https://medium.com/p/3af21904c9ea) |
+| Sun, 22 Mar 2026 00:31:08 GMT | Animating XSS: Making Payloads Move for Fun & Profit… | Sandeep Singh Sethi | [Read More](https://medium.com/p/f5eeecc34705) |
+| Sun, 22 Mar 2026 00:31:00 GMT | Scavenger Hunt — Improper Asset Exposure | recoxy_rangers | [Read More](https://medium.com/p/be6c45534eb2) |
+| Sun, 22 Mar 2026 00:30:02 GMT | DFIR Analizinde Yeni Nesil Yaklaşım: Hayabusa ve Chainsaw Korelasyonu ile “DİZ” (Dijital İz Driver) | Recep Şenel | [Read More](https://medium.com/p/84b9604791a7) |
+| Sat, 21 Mar 2026 23:54:46 GMT | Lessons from Delve’s Faked Compliance Debacle: The Discipline of Taking Your Time | R-Squared Cyber | [Read More](https://medium.com/p/445279455055) |
 | Sat, 21 Mar 2026 23:37:59 GMT | Modern Espionage: The IT Worker Scam | Investigator515 | [Read More](https://medium.com/p/99fbce6076ec) |
 | Sat, 21 Mar 2026 23:35:34 GMT | T-Pot Local Installation and Use From Zero to Hero | Mohamed Ehab | [Read More](https://medium.com/p/405570dd68de) |
 | Sat, 21 Mar 2026 23:35:29 GMT | Pare de expor seu bucket! (S3 AWS, R2 Cloudflare e outros….) | Adriano Junior | [Read More](https://medium.com/p/8c3f1835c0e3) |
@@ -99,17 +113,3 @@ Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p
 | Sat, 21 Mar 2026 15:43:44 GMT | Cloud Technology for Small Businesses | Eyitayoit | [Read More](https://medium.com/p/d338db749c92) |
 | Sat, 21 Mar 2026 15:43:18 GMT | Module 1: Introduction to Cybersecurity Quiz Answers — Fortinet | Harshikachauhan | [Read More](https://medium.com/p/97d2fbb8e3d1) |
 | Sat, 21 Mar 2026 15:35:31 GMT | Conversor Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/8826d24b8b0b) |
-| Sat, 21 Mar 2026 15:31:01 GMT | Why Your DevOps Pipeline Is Actually Your Most Critical Security Boundary | Abhishek Pahuja | [Read More](https://medium.com/p/935f7f5598fa) |
-| Sat, 21 Mar 2026 15:25:02 GMT | StegoRSA Picoctf | Khanakifali | [Read More](https://medium.com/p/401fa9346987) |
-| Sat, 21 Mar 2026 15:20:44 GMT | 29 Million Secrets Leaked on GitHub — Detect Secret Leaks in AI-Generated Code (Part 1) | Prince Bharti | [Read More](https://medium.com/p/f3aa15799355) |
-| Sat, 21 Mar 2026 15:07:54 GMT | DNS Protokolü Derinlemesine İncelemesi (DNS in Detail) | Onur Öztürk | [Read More](https://medium.com/p/91e0b0d293d3) |
-| Sat, 21 Mar 2026 15:04:55 GMT | Your Red Team Lab Is Too Fat. Here’s How I Fixed Mine. | RedAdmin | [Read More](https://medium.com/p/32053403a276) |
-| Sat, 21 Mar 2026 14:47:05 GMT | Postman Pre-Requisite Scripts 101 | Mohammed Shine | [Read More](https://medium.com/p/2750185d9e0c) |
-| Sat, 21 Mar 2026 14:45:43 GMT | Introduction to Modern AI: The Best Way to Start Your AI Journey | Cyberabhisharma | [Read More](https://medium.com/p/b8cc79c97525) |
-| Sat, 21 Mar 2026 14:31:52 GMT | The 1GB Quota | Chetan Kumar | [Read More](https://medium.com/p/3de76cd25f1e) |
-| Sat, 21 Mar 2026 14:30:31 GMT | The Best IT Leaders Don’t Try to Be the Smartest Person in the Room | Chris Geier | [Read More](https://medium.com/p/105bce7f41db) |
-| Sat, 21 Mar 2026 14:25:59 GMT | LAB Portswigger Unprotected Admin Functionality with Unpredictable URL — Full Writeup | Anonymousd | [Read More](https://medium.com/p/c918de4fd697) |
-| Sat, 21 Mar 2026 14:22:43 GMT | The End of the Password? Passwords vs. Passkeys Explained | Steven Chin | [Read More](https://medium.com/p/3e82d1746a5a) |
-| Sat, 21 Mar 2026 14:22:18 GMT | You Found a Vulnerability… But It’s Worth $0 | Deepanshu Deep | [Read More](https://medium.com/p/1e5a8cd5e32a) |
-| Sat, 21 Mar 2026 14:21:06 GMT | Overpass : An Easy [Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/d964ad2d6818) |
-| Sat, 21 Mar 2026 14:16:00 GMT | Firebase Security Rules #1: Never Trust the Client | James Allan | [Read More](https://medium.com/p/53cbdfe0e149) |
