@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 11:10:28 GMT | Amazon Bedrock CRIS와 Global endpoint 사용 시 SCP 설정 고려사항 | Martin Choi | [Read More](https://medium.com/p/747fcf06ac7a) |
+| Sun, 22 Mar 2026 11:05:18 GMT | It Started as a Security. It Doesn’t Have to Stay One. | CryptoNite | [Read More](https://medium.com/p/bfc58607a3e3) |
+| Sun, 22 Mar 2026 11:01:00 GMT | My Linux Server Was Attacked 3,427 Times in One Day (Real Logs) | Faruk Ahmed | [Read More](https://medium.com/p/1d48931ecb9e) |
+| Sun, 22 Mar 2026 10:58:43 GMT | Part 2: Cybersecurity On A Budget — Log Analysis and Attack Detection | Uduak Nyong | [Read More](https://medium.com/p/885ff0468146) |
+| Sun, 22 Mar 2026 10:55:15 GMT | Remote Cybersecurity Jobs: Where to Find Them & How to Stand Out in 2026 | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/4de4356182a0) |
+| Sun, 22 Mar 2026 10:39:51 GMT | Defending Data in a Hacker’s World | Dhanashree | [Read More](https://medium.com/p/9e745b0fb385) |
+| Sun, 22 Mar 2026 10:38:54 GMT | Breaking Role Boundaries in a Norse-Themed Web CTF | Veersanghvi | [Read More](https://medium.com/p/164f487f9f53) |
+| Sun, 22 Mar 2026 10:32:26 GMT | How I Solved a Malicious Word Doc CTF Challenge | Veersanghvi | [Read More](https://medium.com/p/ad435206593c) |
+| Sun, 22 Mar 2026 10:31:00 GMT | Why Most Tabletop Exercises Create Confidence Instead of Readiness | Tyson Martin | [Read More](https://medium.com/p/46b06950ce97) |
+| Sun, 22 Mar 2026 10:29:54 GMT | InfoSec Prep: OSCP | Psalm Endozo | [Read More](https://medium.com/p/42219ccb3300) |
+| Sun, 22 Mar 2026 10:25:53 GMT | Your AI Agent Has a Dirty Secret: It Can’t Log In | Danny Gerst | [Read More](https://medium.com/p/7fc868f9f124) |
 | Sun, 22 Mar 2026 10:19:44 GMT | Headless Server Management on Fedora Using Cockpit | 17eelnur | [Read More](https://medium.com/p/532ec3b27892) |
 | Sun, 22 Mar 2026 10:18:26 GMT | Kali Linux: A Convenience, Not a Necessity | Shimalka Yohan | [Read More](https://medium.com/p/5c0ca2a8d004) |
 | Sun, 22 Mar 2026 10:11:41 GMT | Overlord RAT | SenseiWhou | [Read More](https://medium.com/p/e80e3938a3be) |
@@ -103,14 +114,3 @@ They Hack You. | ADITYA GUPTA | [Read More](https://medium.com/p/7fbc8646252a) |
 | Sat, 21 Mar 2026 23:35:29 GMT | Pare de expor seu bucket! (S3 AWS, R2 Cloudflare e outros….) | Adriano Junior | [Read More](https://medium.com/p/8c3f1835c0e3) |
 | Sat, 21 Mar 2026 23:26:00 GMT | Your AI Tools Are Lying to You (And Each Other) | Stevo Ledbetter | [Read More](https://medium.com/p/b576c7774fd4) |
 | Sat, 21 Mar 2026 23:24:14 GMT | 7 States Want to Restrict AI Datacenters. Developers Already Found the Workaround. | James Dickey | [Read More](https://medium.com/p/035825f37f89) |
-| Sat, 21 Mar 2026 23:16:30 GMT | CTI-Ops: From ‘Cyber Gossip’ to Operational Excellence | Philip C | [Read More](https://medium.com/p/5d384a5a3e11) |
-| Sat, 21 Mar 2026 23:08:21 GMT | Krylov Complexity as a Cryptographic Resource: Eavesdropper Detection in QKD via Operator-Growth… | Daniel Suess | [Read More](https://medium.com/p/038361b66a9c) |
-| Sat, 21 Mar 2026 23:04:10 GMT | Multi-Cloud Red Team Analyst (MCRTA) by CyberWarfare Labs — Eine praktische Einführung ins Cloud… | Emmanuel LEONIDAS Z. P. | [Read More](https://medium.com/p/ca96be319dba) |
-| Sat, 21 Mar 2026 23:01:01 GMT | The Air-Gapped Chronicles: The Model Zoo Ambush — When Your ‘Pretrained’ AI Ships the Attack | Piyoosh Rai | [Read More](https://medium.com/p/b42899640e65) |
-| Sat, 21 Mar 2026 22:52:47 GMT | NVIDIA or Envidia? — How Big Tech’s Infrastructure Squeeze is Killing the Self-Built Future | Sage Khan | [Read More](https://medium.com/p/28436267ddd6) |
-| Sat, 21 Mar 2026 22:42:21 GMT | Roblox Scripts: The Underground History Nobody Talks About (2009–2026) | heapleak | [Read More](https://medium.com/p/7888459771f9) |
-| Sat, 21 Mar 2026 22:40:48 GMT | Do you ever find it hard to ask for help? | ToluPhilips | [Read More](https://medium.com/p/c95544c4bc20) |
-| Sat, 21 Mar 2026 22:30:55 GMT | Dijital Güvenlik Rehberi: İnternette Kendini Korumak İçin Baştan Sona Bilmen Gereken Her Şey | Ali Yaşe | [Read More](https://medium.com/p/5ed084f34ab4) |
-| Sat, 21 Mar 2026 22:24:51 GMT | mTLS is future | Hüseyin Mert | [Read More](https://medium.com/p/37427d55d558) |
-| Sat, 21 Mar 2026 22:23:22 GMT | Hacklenirsem Ne Yapmalıyım? | Ali Yaşe | [Read More](https://medium.com/p/4c9b4f24658d) |
-| Sat, 21 Mar 2026 22:19:15 GMT | Why Cybersecurity Is the One B2B Category That will Survive the AI Revolution | Shauli | [Read More](https://medium.com/p/9daf8de59f67) |
