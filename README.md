@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 04:11:37 GMT | AI Should Not Have Execution Rights | Hello Havenlon | [Read More](https://medium.com/p/7d65c994be34) |
+| Sun, 22 Mar 2026 04:00:16 GMT | Why Lightsail is the Best Way for Beginners to Deploy OpenClaw | Eddie Chan | [Read More](https://medium.com/p/fee1870447f4) |
+| Sun, 22 Mar 2026 03:56:00 GMT | What is GRC? | Dipan | [Read More](https://medium.com/p/4b49f15659e9) |
+| Sun, 22 Mar 2026 03:52:13 GMT | The Brazilian General Data Protection Law in Health Information Systems and Telemedicine | Renato Marcos Endrizzi Sabbatini, PhD | [Read More](https://medium.com/p/76a4b71cc4f3) |
+| Sun, 22 Mar 2026 03:49:12 GMT | TRYHACKME SEARCHLIGHT- IMINT | Dhakshanyamangagcs | [Read More](https://medium.com/p/8e4f762462a1) |
+| Sun, 22 Mar 2026 03:46:36 GMT | Claude Code in the Enterprise: The Hidden Security Risks of AI Pair Programming at Scale | Rakeshkhanduja | [Read More](https://medium.com/p/d877c6ef8d6b) |
+| Sun, 22 Mar 2026 03:45:57 GMT | Weekly Crypto & Web3 Safety Digest — CW12 2026 (5-Minute Edition) | 5-minute digital safety power-ups | [Read More](https://medium.com/p/573b0cca65a2) |
+| Sun, 22 Mar 2026 03:37:17 GMT | LLM Security: A Threat Hiding in Plain Sight | Kamalmeet Singh | [Read More](https://medium.com/p/712fa6f4ac28) |
+| Sun, 22 Mar 2026 03:32:26 GMT | 2026 Tech Trends in State and Local Government Technology | Alex Gutscher | [Read More](https://medium.com/p/143d7b8218c0) |
+| Sun, 22 Mar 2026 03:25:07 GMT | XSS in the Frontend: Why your ‘dangerouslySetInnerHTML’ is a Security Sink | Luan Rodrigues | [Read More](https://medium.com/p/d6f787450c59) |
+| Sun, 22 Mar 2026 03:22:20 GMT | Bringing 100,000+ Hosts Up to Security Standards in 6 Months | OpsWerks | [Read More](https://medium.com/p/d8d56c21485d) |
+| Sun, 22 Mar 2026 03:15:33 GMT | Vulnerability Isn’t a Costume | Win | [Read More](https://medium.com/p/edb70ae2421a) |
+| Sun, 22 Mar 2026 02:55:23 GMT | Beginner’s Guide to Nmap: How I Actually Use It | Nehaal | [Read More](https://medium.com/p/8bc0b7d3e5a7) |
+| Sun, 22 Mar 2026 02:46:29 GMT | Hardening Git CLI for multi-agent setup | Martin Alexander | [Read More](https://medium.com/p/eef024192917) |
+| Sun, 22 Mar 2026 02:32:15 GMT | Day 3- Network+ N10–009 Cloud Concepts & Connectivity Options | Hassen Hannachi | [Read More](https://medium.com/p/aa8785463e49) |
 | Sun, 22 Mar 2026 02:31:00 GMT | SQL Injection Explained Simply | loopXvedant | [Read More](https://medium.com/p/4a244bb05bfb) |
 | Sun, 22 Mar 2026 02:22:03 GMT | AD105 — Forest Trust Exploitation | _ | [Read More](https://medium.com/p/464af10fffee) |
 | Sun, 22 Mar 2026 02:14:37 GMT | Hackers Are Using AI Now — And Beginners Are Not Ready | Satyam Pathania | [Read More](https://medium.com/p/5d522b941c17) |
@@ -98,18 +113,3 @@ Hello, dear Medium community! | Dagilmapipetg | [Read More](https://medium.com/p
 | Sat, 21 Mar 2026 16:44:04 GMT | The Memory Paradox: Are We Outsourcing Our Minds to the Cloud? | Alex Stevens | [Read More](https://medium.com/p/edb69aac25de) |
 | Sat, 21 Mar 2026 16:43:45 GMT | Your ISP gives you one public IP. I took 200. | Wael Hasnaoui | [Read More](https://medium.com/p/912b7e3f630c) |
 | Sat, 21 Mar 2026 16:37:43 GMT | TTPs vs IOCs: Shift Your Detection Mindset | Paritosh | [Read More](https://medium.com/p/b12dc122b1a8) |
-| Sat, 21 Mar 2026 16:31:00 GMT | Why AI Makes Scam Emails Impossible to Spot Now | Mukhtarabdul | [Read More](https://medium.com/p/ae093f03ee1e) |
-| Sat, 21 Mar 2026 16:24:17 GMT | How I Found a Million Dollars’ Worth of Unlocked Doors | Fahedkhan | [Read More](https://medium.com/p/76650c1e0b4d) |
-| Sat, 21 Mar 2026 16:22:28 GMT | Understanding TCP & UDP: The Backbone of Data Communication | Ndu | [Read More](https://medium.com/p/6623e47a4acb) |
-| Sat, 21 Mar 2026 16:17:15 GMT | AI-Assisted Security Engineering | Ayomide Odukoya | [Read More](https://medium.com/p/37b2ca7044e9) |
-| Sat, 21 Mar 2026 16:07:04 GMT | “The Interface Leverage Principle: First Documentation of Epistemic Substrate Loading, Submaximal… | Berend Watchus | [Read More](https://medium.com/p/5e79a5adc162) |
-| Sat, 21 Mar 2026 16:05:41 GMT | From DevOps to DevSecOps: How I Used AI to Detect Vulnerabilities Faster | pradip khatale | [Read More](https://medium.com/p/328ad4a4603d) |
-| Sat, 21 Mar 2026 16:04:31 GMT | The Security Risk Nobody Talks About With AI Agents | Subhan Ali | [Read More](https://medium.com/p/94dde71e6905) |
-| Sat, 21 Mar 2026 15:58:07 GMT | BARZAKH-521: A Novel CSPRNG via Quadratic Torsion and Anti-Linear Dispersion over a Mersenne Prime… | A.Khettany | [Read More](https://medium.com/p/cbb0ed6741c8) |
-| Sat, 21 Mar 2026 15:54:20 GMT | Avoiding reporting false positive impossible travel alerts | Osama Elghazaly | [Read More](https://medium.com/p/41f3bcb58a17) |
-| Sat, 21 Mar 2026 15:50:55 GMT | Internet-Exposed ICS and Electricity Systems in 2026: Real Exposure, Real Noise, and Why Careful… | Heinrihs Skrodelis | [Read More](https://medium.com/p/48af601ecdc6) |
-| Sat, 21 Mar 2026 15:50:11 GMT | We built an encrypted email client with post-quantum cryptography | Aster | [Read More](https://medium.com/p/63b34be2faf3) |
-| Sat, 21 Mar 2026 15:47:20 GMT | Everyone Told Me DNS is a Phonebook. They Lied. | Varnith Yemula | [Read More](https://medium.com/p/0ff7a1023248) |
-| Sat, 21 Mar 2026 15:43:44 GMT | Cloud Technology for Small Businesses | Eyitayoit | [Read More](https://medium.com/p/d338db749c92) |
-| Sat, 21 Mar 2026 15:43:18 GMT | Module 1: Introduction to Cybersecurity Quiz Answers — Fortinet | Harshikachauhan | [Read More](https://medium.com/p/97d2fbb8e3d1) |
-| Sat, 21 Mar 2026 15:35:31 GMT | Conversor Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/8826d24b8b0b) |
