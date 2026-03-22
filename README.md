@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 17:43:04 GMT | AI IN CYBERSECURITY : The Silent Battle You Don’t See | Nair Swethasuresh | [Read More](https://medium.com/p/7bfc17dcc8b1) |
+| Sun, 22 Mar 2026 17:31:00 GMT | “Globally Disabling the Assessment System” on macOS? Here’s What It Means | Jenny Zeng | [Read More](https://medium.com/p/0c07c4e93a9b) |
+| Sun, 22 Mar 2026 17:27:14 GMT | Building Mini Security Lab: pfSense + Suricata + OpenVPN + pfBlockerNG | n4v33nm | [Read More](https://medium.com/p/bfd60184fab3) |
+| Sun, 22 Mar 2026 17:20:07 GMT | The Silent Threat in the Cloud: Why Your MDM is the CISO’s New Nightmare | Stuardo Rodriguez | [Read More](https://medium.com/p/10598fbe4e4a) |
 | Sun, 22 Mar 2026 17:18:54 GMT | Day 0 — Starting My Cybersecurity Journey From Basics To Advance | Suyash Gargote | [Read More](https://medium.com/p/53eb61be9d78) |
+| Sun, 22 Mar 2026 17:15:27 GMT | Your Employees Are Already Leaking Your Secrets to ChatGPT — Banning It Only Made Things Worse | Ashutosh Singhal | [Read More](https://medium.com/p/a0a93a0fb327) |
 | Sun, 22 Mar 2026 17:06:07 GMT | Breaking into Cyber Threat Intelligence: A Curious Engineer’s Honest First Take | Mariaxmaria | [Read More](https://medium.com/p/c381d141fd1d) |
 | Sun, 22 Mar 2026 16:56:16 GMT | Scapy 101 — Bir Etik Hacker’ın Gözünden Ağ Paketleri | Exript | [Read More](https://medium.com/p/d8f33c389b97) |
 | Sun, 22 Mar 2026 16:54:30 GMT | Ağ Yönetiminin Görünmez Kahramanı: DHCP Nedir, Nasıl Çalışır? (Derinlemesine İnceleme) | Remzi Cenk BOZTEPE | [Read More](https://medium.com/p/bd638b3c3a76) |
@@ -35,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 16:07:49 GMT | The Invisible Story in Your Files: Understanding Metadata and ExifTool | HITESH MAHARJAN | [Read More](https://medium.com/p/265627e5dd4b) |
 | Sun, 22 Mar 2026 16:05:09 GMT | OverTheWire : Wargames — Bandit(11–20) | Pooja J | [Read More](https://medium.com/p/9705763f9bc7) |
 | Sun, 22 Mar 2026 16:00:46 GMT | Challenges as a Security Analyst: Before and After Getting the Job | Antonyrajvedamanickam | [Read More](https://medium.com/p/ac555c75b490) |
+| Sun, 22 Mar 2026 15:57:18 GMT | How to fix the crash of the Medium plugin for WordPress with PHP 8.x | Antonio Troise | [Read More](https://medium.com/p/ea5e15660978) |
 | Sun, 22 Mar 2026 15:48:07 GMT | Secure Password Database- PICO ctf | aaruth | [Read More](https://medium.com/p/bf72a60a7a9a) |
 | Sun, 22 Mar 2026 15:47:18 GMT | Crushing the GRC Analyst Interview: The 2026 “No-Robots” Guide | The Daily Cyber News | [Read More](https://medium.com/p/913dee0ecb28) |
 | Sun, 22 Mar 2026 15:41:47 GMT | Between Dignity and Deterrence | Sigrid Gladstone | [Read More](https://medium.com/p/c56defc56c07) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 10:55:15 GMT | Remote Cybersecurity Jobs: Where to Find Them & How to Stand Out in 2026 | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/4de4356182a0) |
 | Sun, 22 Mar 2026 10:40:15 GMT | DVWA: File Inclusion Vulnerability (Low Security) | Kamal S | [Read More](https://medium.com/p/496a50fd12dc) |
 | Sun, 22 Mar 2026 10:39:51 GMT | Defending Data in a Hacker’s World | Dhanashree | [Read More](https://medium.com/p/9e745b0fb385) |
-| Sun, 22 Mar 2026 10:38:54 GMT | Breaking Role Boundaries in a Norse-Themed Web CTF | Veersanghvi | [Read More](https://medium.com/p/164f487f9f53) |
-| Sun, 22 Mar 2026 10:32:26 GMT | How I Solved a Malicious Word Doc CTF Challenge | Veersanghvi | [Read More](https://medium.com/p/ad435206593c) |
-| Sun, 22 Mar 2026 10:31:00 GMT | Why Most Tabletop Exercises Create Confidence Instead of Readiness | Tyson Martin | [Read More](https://medium.com/p/46b06950ce97) |
-| Sun, 22 Mar 2026 10:29:54 GMT | InfoSec Prep: OSCP | Psalm Endozo | [Read More](https://medium.com/p/42219ccb3300) |
-| Sun, 22 Mar 2026 10:25:53 GMT | Your AI Agent Has a Dirty Secret: It Can’t Log In | Danny Gerst | [Read More](https://medium.com/p/7fc868f9f124) |
-| Sun, 22 Mar 2026 10:19:44 GMT | Headless Server Management on Fedora Using Cockpit | 17eelnur | [Read More](https://medium.com/p/532ec3b27892) |
