@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 23:12:57 GMT | Phishing Sites That Mimic Popular Platforms: How They Work and How to Spot Them | John Evora | [Read More](https://medium.com/p/49a460fcf7fd) |
+| Sun, 22 Mar 2026 23:07:17 GMT | Revolutionizing Identity in the AI Era: Continuous Entropy Factor Authentication — The… | SecureX Blockchain Solutions | [Read More](https://medium.com/p/8668ec22eee6) |
+| Sun, 22 Mar 2026 23:06:42 GMT | How Turkey’s BTK Blocks Websites: A Technical Deep Dive | Pablo Williams | [Read More](https://medium.com/p/1e1574a02ca5) |
+| Sun, 22 Mar 2026 23:04:19 GMT | BloodHound Tool Exposes Hidden Active Directory Risk | SOCFortress | [Read More](https://medium.com/p/40e11b626766) |
+| Sun, 22 Mar 2026 23:01:01 GMT | LetsDefend: MemLoot Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/5e1ded6ca8da) |
+| Sun, 22 Mar 2026 22:59:19 GMT | AI Is No Longer a Tool, It’s a Teammate | Julian Johnson | [Read More](https://medium.com/p/fb2694b97d5e) |
+| Sun, 22 Mar 2026 22:53:29 GMT | Overpass — THM Writeup | res4ad | [Read More](https://medium.com/p/d5d49c5deca5) |
 | Sun, 22 Mar 2026 22:50:54 GMT | APT Recon - Bug Hunter’s Guide | 3L173 H4CK3R 1337 (Elite Hacker 1337) | [Read More](https://medium.com/p/5ba269bce538) |
 | Sun, 22 Mar 2026 22:26:58 GMT | Why LLMs Hallucinate Rather Than Say “I Don’t Know” | Joe El Khoury - AI Engineer | [Read More](https://medium.com/p/f25eee829172) |
 | Sun, 22 Mar 2026 22:08:08 GMT | Self-host LLM Won’t Save Data Privacy: Why Companies Still Move to the Cloud | Denis Urayev | [Read More](https://medium.com/p/d4771993865f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 14:45:16 GMT | Understanding the APT Attack Lifecycle | Ashwini Puranik | [Read More](https://medium.com/p/42e8a1aeb5e3) |
 | Sun, 22 Mar 2026 14:39:16 GMT | Ever Connected to Hotel WiFi and Thought “This is Fast”? | Pranav | [Read More](https://medium.com/p/187a9c8062e3) |
 | Sun, 22 Mar 2026 14:36:28 GMT | Keep Your Home Safe with the BESDER 10MP Dual Screen AI WiFi Camera — 2026 Review | Ms maleesha | [Read More](https://medium.com/p/84420d4aeb06) |
-| Sun, 22 Mar 2026 14:25:42 GMT | I Never Thought Home Security Would Matter This Much… Until It Did | Life,health And Technology | [Read More](https://medium.com/p/c90841d1f892) |
-| Sun, 22 Mar 2026 14:25:33 GMT | My First Malware Analysis: What I Learned From a Banking Trojan | Gilang Swandaru | [Read More](https://medium.com/p/d3a2480ab34b) |
-| Sun, 22 Mar 2026 14:25:09 GMT | How to Become a Smart Contract Auditor in 2026 | Abraham | [Read More](https://medium.com/p/dcd677f73caa) |
-| Sun, 22 Mar 2026 14:23:08 GMT | The Fear Underneath Every AI Transformation | Vlad Sterngold | [Read More](https://medium.com/p/a6ed9ee446af) |
-| Sun, 22 Mar 2026 14:19:47 GMT | What Every Cybersecurity Enthusiast Needs to Know About Log Files | Djihane GUERAICHE | [Read More](https://medium.com/p/ae86ad12a154) |
-| Sun, 22 Mar 2026 14:16:19 GMT | How a Developer Machine Got Compromised (Twice) — A “Shai-Hulud 2.0” | Kushagradevgon | [Read More](https://medium.com/p/2023a80b6d84) |
-| Sun, 22 Mar 2026 14:16:00 GMT | From Autonomous to Lightweight: The Architectural Evolution of Enterprise Wi-Fi | Network Knowledge Hub | [Read More](https://medium.com/p/30b25b99b620) |
