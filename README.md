@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 16:23:54 GMT | The Security Threat Your IT Team Cannot Protect You From | MayhemCode | [Read More](https://medium.com/p/7610a8127ff4) |
+| Sun, 22 Mar 2026 16:21:00 GMT | Technical Advisory: Docker Swarm | Portainer.io | [Read More](https://medium.com/p/b85580021e27) |
+| Sun, 22 Mar 2026 16:20:54 GMT | Welcome to My Editorial Index | Ed-it Editions | [Read More](https://medium.com/p/b00319c8a29b) |
+| Sun, 22 Mar 2026 16:20:42 GMT | Your Wins Build Image. Your Failures Build Trust. | Abhinav Misra | [Read More](https://medium.com/p/d640a2732e55) |
+| Sun, 22 Mar 2026 16:19:48 GMT | STRATEGIC PROSPECTUS: THE ARCHITECTURE OF CARE | Corinna Brown | [Read More](https://medium.com/p/13d620357f42) |
+| Sun, 22 Mar 2026 16:16:13 GMT | The Hidden Weapon: How I Turn Mass Assignment into Bounties | @0xuserm9 | [Read More](https://medium.com/p/459d7c35a727) |
+| Sun, 22 Mar 2026 16:09:27 GMT | I Turned a Cyber Attack Into a Graph — Using Kali Linux, Wireshark, and Neo4j | Sai kiran | [Read More](https://medium.com/p/443acb71a325) |
+| Sun, 22 Mar 2026 16:07:49 GMT | The Invisible Story in Your Files: Understanding Metadata and ExifTool | HITESH MAHARJAN | [Read More](https://medium.com/p/265627e5dd4b) |
+| Sun, 22 Mar 2026 16:05:09 GMT | OverTheWire : Wargames — Bandit(11–20) | Pooja J | [Read More](https://medium.com/p/9705763f9bc7) |
+| Sun, 22 Mar 2026 16:00:46 GMT | Challenges as a Security Analyst: Before and After Getting the Job | Antonyrajvedamanickam | [Read More](https://medium.com/p/ac555c75b490) |
+| Sun, 22 Mar 2026 15:48:07 GMT | Secure Password Database- PICO ctf | aaruth | [Read More](https://medium.com/p/bf72a60a7a9a) |
+| Sun, 22 Mar 2026 15:47:18 GMT | Crushing the GRC Analyst Interview: The 2026 “No-Robots” Guide | The Daily Cyber News | [Read More](https://medium.com/p/913dee0ecb28) |
 | Sun, 22 Mar 2026 15:41:47 GMT | Between Dignity and Deterrence | Sigrid Gladstone | [Read More](https://medium.com/p/c56defc56c07) |
 | Sun, 22 Mar 2026 15:40:15 GMT | Understanding and Exploiting CVE-2025–32462: A Local Privilege Escalation Vulnerability in Sudo | Awais Akbar | [Read More](https://medium.com/p/3d611279b263) |
 | Sun, 22 Mar 2026 15:37:34 GMT | Keamanan Informasi: Bukan Cuma Urusan Hacker dan IT | Hari Premadasa | [Read More](https://medium.com/p/8f94880f574e) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 09:19:58 GMT | Overpowering BurpSuite with Claude AI: Future of Pentesting | rihanna0xf | [Read More](https://medium.com/p/8c19a09eac29) |
 | Sun, 22 Mar 2026 09:19:35 GMT | Oracle CVE-2026–21992: Critical Unauthenticated RCE in Identity Manager Demands Immediate Action | Germano Costi | [Read More](https://medium.com/p/333bf9c41467) |
 | Sun, 22 Mar 2026 09:18:58 GMT | After Five Decades, The Merkle Tree Still Reigns Supreme | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d7efd3e69a75) |
-| Sun, 22 Mar 2026 09:05:13 GMT | ️ Ethical Hacking Essentials (EHE): Is It Worth It for Beginners? | Cyberabhisharma | [Read More](https://medium.com/p/2973f21907ba) |
-| Sun, 22 Mar 2026 09:04:26 GMT | Russian Hackers Launch Mass Attacks on WhatsApp and Signal | Patrik Žák | [Read More](https://medium.com/p/8e48a542d1f5) |
-| Sun, 22 Mar 2026 09:01:00 GMT | Your Azure Subscription Is a
-Security Disaster Waiting to Happen — And Microsoft Never Told You | Silicon | [Read More](https://medium.com/p/ce721e38d792) |
-| Sun, 22 Mar 2026 08:54:46 GMT | Fixing VAPT Findings in Oracle ORDS 24+: A Practical Guide | Tokishi | [Read More](https://medium.com/p/213a65a1e563) |
-| Sun, 22 Mar 2026 08:41:24 GMT | PHP Closure Bug-The Silent Killer | Kirinyet Brian | [Read More](https://medium.com/p/bae800d9744a) |
-| Sun, 22 Mar 2026 08:39:36 GMT | OpenClaw Is the Fastest-Growing Open Source Project in History — NemoClaw Is Why Enterprises Will… | ThamizhElango Natarajan | [Read More](https://medium.com/p/ee47b1ab1dc9) |
-| Sun, 22 Mar 2026 08:35:54 GMT | From Logs to Rootkits: A Complete Linux Forensic Analysis Breakdown | Devansh Patel | [Read More](https://medium.com/p/48a011d7ce0c) |
-| Sun, 22 Mar 2026 08:35:37 GMT | Agent Hijacking: Why Agentic AI Introduces Risks That Traditional AppSec Can’t Catch | logtide | [Read More](https://medium.com/p/d73b45e7f2aa) |
-| Sun, 22 Mar 2026 08:33:43 GMT | I Found a Valid Bug Bounty With This One Simple Check | ghostyjoe | [Read More](https://medium.com/p/0b3ae8b05b9b) |
-| Sun, 22 Mar 2026 08:24:13 GMT | FBI Seizes Handala Domains After Stryker Wiper Attack: Anatomy of an MOIS Cyber Operation | TheRedSheep | [Read More](https://medium.com/p/6e8150a22918) |
-| Sun, 22 Mar 2026 08:24:06 GMT | Chief Incident Scapegoat Officer: The attack surface moved. The blame didn’t. | Jayal Yadav | [Read More](https://medium.com/p/32a6e43c6d28) |
-| Sun, 22 Mar 2026 08:22:24 GMT | Self-Governed Infrastructure: The Only AI Strategy That Survives 2026 | Jayal Yadav | [Read More](https://medium.com/p/7fc1763fc514) |
