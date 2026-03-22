@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 12:40:55 GMT | AWS Cloudwatch to Grafana (WAF and Other Services) | Aakash Rathee | [Read More](https://medium.com/p/c1430ec2c832) |
+| Sun, 22 Mar 2026 12:31:17 GMT | Peeling Back Obfuscated JavaScript: A Practical Reverse Engineering Guide | Roee Mayerowicz | [Read More](https://medium.com/p/c7c7aab02c43) |
+| Sun, 22 Mar 2026 12:28:33 GMT | Passwords Are Dead: Yours Might Already Be Compromised | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/34e75c4f28de) |
+| Sun, 22 Mar 2026 12:12:21 GMT | TRYHACKME ICE | Yiğit İbis | [Read More](https://medium.com/p/0eb2a3ccb588) |
+| Sun, 22 Mar 2026 12:12:03 GMT | LLM APIs are now the #1 attack surface in AI systems. | Neuralcoretech | [Read More](https://medium.com/p/fffe42539574) |
+| Sun, 22 Mar 2026 11:48:28 GMT | Slient Stream Picoctf Reverse Engineering | Aun Raza | [Read More](https://medium.com/p/94874741399b) |
 | Sun, 22 Mar 2026 11:42:28 GMT | Day 21: Endpoint Security Basics (AV/EDR Overview) | Siddhesh Patil | [Read More](https://medium.com/p/ae21e983716a) |
 | Sun, 22 Mar 2026 11:37:35 GMT | Google Dorking: The Most Underrated Bug Bounty Skill | Bugitrix | [Read More](https://medium.com/p/bd548cac235c) |
 | Sun, 22 Mar 2026 11:26:40 GMT | Defensive Architectures Against Prompt Injection: Moving Beyond Whack-A-Mole | Anandhu krishna | [Read More](https://medium.com/p/be41db3665a6) |
@@ -108,9 +114,3 @@ They Hack You. | ADITYA GUPTA | [Read More](https://medium.com/p/7fbc8646252a) |
 | Sun, 22 Mar 2026 02:22:03 GMT | AD105 — Forest Trust Exploitation | _ | [Read More](https://medium.com/p/464af10fffee) |
 | Sun, 22 Mar 2026 02:14:37 GMT | Hackers Are Using AI Now — And Beginners Are Not Ready | Satyam Pathania | [Read More](https://medium.com/p/5d522b941c17) |
 | Sun, 22 Mar 2026 02:01:37 GMT | Hacker Tool Series #1: CUPP — The Art of the Personalized Wordlist | quehackss | [Read More](https://medium.com/p/1a4b56857ab3) |
-| Sun, 22 Mar 2026 01:36:06 GMT | Crusher - CVE-2025–31161 | 0xDolphin | [Read More](https://medium.com/p/6a21d36af548) |
-| Sun, 22 Mar 2026 01:34:46 GMT | Spec-Driven and FedRAMP-Ready: A Different Kind of AI Coding Assistant for Regulated Cloud | Swapnil Panchal | [Read More](https://medium.com/p/ee8a2f94f4ac) |
-| Sun, 22 Mar 2026 00:54:00 GMT | Russian Phishing Campaign Targeting Signal/WhatsApp | Dice | [Read More](https://medium.com/p/8da66bd178b8) |
-| Sun, 22 Mar 2026 00:52:36 GMT | Les Bases en Python | Donald | [Read More](https://medium.com/p/62262df3b140) |
-| Sun, 22 Mar 2026 00:42:45 GMT | Introducing RAISELUX: Responsible AI Security Excellence | Dr Praveen Naidu VUMMADISETTY | [Read More](https://medium.com/p/7011b0b3aa1d) |
-| Sun, 22 Mar 2026 00:35:20 GMT | OpenClaw Is Impressive. It’s Also the Kind of Tool That Can Quietly Wreck Your Data | JustinWang | [Read More](https://medium.com/p/3af21904c9ea) |
