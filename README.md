@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Mar 2026 15:23:00 GMT | Uma noite Ninja | Montagem Cinema | [Read More](https://medium.com/p/8ec594cf43a9) |
+| Sun, 22 Mar 2026 15:20:20 GMT | ‍Bulldog: 2 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/85fc947a4276) |
+| Sun, 22 Mar 2026 15:18:33 GMT | The Best Cybersecurity Interview Prep Websites of 2026 [ Detailed Review ] | The Daily Cyber News | [Read More](https://medium.com/p/459c9280e323) |
+| Sun, 22 Mar 2026 15:05:00 GMT | Cyber Security Services - eShield IT Services | Kanahaiya singh | [Read More](https://medium.com/p/10c0534b74f0) |
+| Sun, 22 Mar 2026 15:00:33 GMT | I Pen-Tested a Production AI Agent. It Took 5 Minutes to Own It. | Don Zurbrick | [Read More](https://medium.com/p/e53a2ebab482) |
+| Sun, 22 Mar 2026 14:58:32 GMT | We build the walls we beg to break | Irfan Majeed | [Read More](https://medium.com/p/247aa8032982) |
+| Sun, 22 Mar 2026 14:53:56 GMT | Source code disclosure via backup files - Lab-03 | M o $ t a | [Read More](https://medium.com/p/fb1670dac1a8) |
+| Sun, 22 Mar 2026 14:49:22 GMT | SOLVING CYBER HEROS TRYHACKME | Harilakshman | [Read More](https://medium.com/p/a3a917fa8324) |
+| Sun, 22 Mar 2026 14:45:16 GMT | Understanding the APT Attack Lifecycle | Ashwini Puranik | [Read More](https://medium.com/p/42e8a1aeb5e3) |
+| Sun, 22 Mar 2026 14:39:16 GMT | Ever Connected to Hotel WiFi and Thought “This is Fast”? | Pranav | [Read More](https://medium.com/p/187a9c8062e3) |
+| Sun, 22 Mar 2026 14:36:28 GMT | Keep Your Home Safe with the BESDER 10MP Dual Screen AI WiFi Camera — 2026 Review | Ms maleesha | [Read More](https://medium.com/p/84420d4aeb06) |
 | Sun, 22 Mar 2026 14:25:42 GMT | I Never Thought Home Security Would Matter This Much… Until It Did | Life,health And Technology | [Read More](https://medium.com/p/c90841d1f892) |
 | Sun, 22 Mar 2026 14:25:33 GMT | My First Malware Analysis: What I Learned From a Banking Trojan | Gilang Swandaru | [Read More](https://medium.com/p/d3a2480ab34b) |
 | Sun, 22 Mar 2026 14:25:09 GMT | How to Become a Smart Contract Auditor in 2026 | Abraham | [Read More](https://medium.com/p/dcd677f73caa) |
@@ -102,15 +113,3 @@ Security Disaster Waiting to Happen — And Microsoft Never Told You | Silicon |
 | Sun, 22 Mar 2026 07:53:05 GMT | MISP Threat Intelligence Project: Docker Deployment, APT18 Analysis, Automation, and Visualization | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/8a7488277e6a) |
 | Sun, 22 Mar 2026 07:50:49 GMT | The Architect’s Blueprint: Hardening Azure DevOps for Enterprise Scale | Chaluvadisuryachaithanya | [Read More](https://medium.com/p/0410c66777ee) |
 | Sun, 22 Mar 2026 07:44:35 GMT | Open-Source Intelligence (OSINT): Techniques & Tools — A Complete Guide (2026) | EINITIAL24 | [Read More](https://medium.com/p/c0c4e463b587) |
-| Sun, 22 Mar 2026 07:28:48 GMT | Best Cyber Range Platform in India for Hands-On Training | cyber security Updates | [Read More](https://medium.com/p/d7f4d8eeef5f) |
-| Sun, 22 Mar 2026 07:16:10 GMT | They Don’t Hack Your Bank.
-They Hack You. | ADITYA GUPTA | [Read More](https://medium.com/p/7fbc8646252a) |
-| Sun, 22 Mar 2026 07:11:35 GMT | The Linux Process Journey — run-parts (Run Scripts or Programs in a Directory) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b111b9ae12ee) |
-| Sun, 22 Mar 2026 07:10:53 GMT | “Why You Can’t Stop Scrolling (Even When You Want To)” | Shanaya Shelkar | [Read More](https://medium.com/p/2581f51f1929) |
-| Sun, 22 Mar 2026 07:08:53 GMT | Amass Cheat Sheet — Subdomain Enumeration | Dhruv | [Read More](https://medium.com/p/40c2ef6adca7) |
-| Sun, 22 Mar 2026 07:06:24 GMT | The Future of Technology in 2026 | CodeZen | [Read More](https://medium.com/p/fece4f5131e3) |
-| Sun, 22 Mar 2026 07:01:00 GMT | Information Is Water: Why You Can’t Stop It | Oleh Cheslavskyi | [Read More](https://medium.com/p/0f9050d0c36e) |
-| Sun, 22 Mar 2026 06:50:38 GMT | The Golden Gate Illusion: Why Sparse Autoencoders (SAEs) Misunderstand the Physics of AI | Supat Charoensappuech | [Read More](https://medium.com/p/8bf6cdc52928) |
-| Sun, 22 Mar 2026 06:38:48 GMT | Multi-Stage Vehicles Are the Edge Case That Exposes Weak Compliance Architecture | Xeeniq Intelligence | [Read More](https://medium.com/p/0b3d60799e5c) |
-| Sun, 22 Mar 2026 06:38:29 GMT | AI Is Creating More Cybersecurity Jobs Than Ever Before | Vijay Kumar Gupta | [Read More](https://medium.com/p/82d35613f9ca) |
-| Sun, 22 Mar 2026 06:36:17 GMT | The Falcon Fleet Blackout | Nathan Moraes | [Read More](https://medium.com/p/f96598412c55) |
