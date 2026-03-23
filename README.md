@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 10:47:57 GMT | Best Free Anonymous Email Services in 2026 (Tested & Ranked) | Warren Smith | [Read More](https://medium.com/p/c78aeef9159d) |
+| Mon, 23 Mar 2026 10:46:07 GMT | Linux Hosting Explained: Benefits, Security & Why It Powers Most Websites? | Janet Watson | [Read More](https://medium.com/p/71c89ca230ef) |
+| Mon, 23 Mar 2026 10:40:37 GMT | Enterprise IT Is Not Failing at AI — It’s Failing at Change | Séв(aѕтιen) L. ⚠ | [Read More](https://medium.com/p/cdccfdefb75d) |
+| Mon, 23 Mar 2026 10:39:25 GMT | My AWS Cloud Practitioner Experience (CLF-C02) — How I Passed in 2 Days | Christopher Ryan | [Read More](https://medium.com/p/005bbc13b742) |
+| Mon, 23 Mar 2026 10:36:18 GMT | a change in your heart | tania | [Read More](https://medium.com/p/2e88ddb4f0ff) |
+| Mon, 23 Mar 2026 10:35:52 GMT | Cyber Security Course with Placement in Mumbai | Ntech Global Solutions | [Read More](https://medium.com/p/2f2ce780eb76) |
+| Mon, 23 Mar 2026 10:29:38 GMT | Malware Analysis: Cold… | SenseiWhou | [Read More](https://medium.com/p/6c544ed8c298) |
+| Mon, 23 Mar 2026 10:29:26 GMT | Best Cybersecurity Monitoring Services Company - CERT-In | Mathewneelan | [Read More](https://medium.com/p/e2c09892eef2) |
+| Mon, 23 Mar 2026 10:28:36 GMT | Securing Your CI/CD Pipeline: 5 Things I Fixed After Realizing How Easy It Is to Break Everything | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/2b1b0f7f6df9) |
+| Mon, 23 Mar 2026 10:28:04 GMT | Is DeeptradeX Safe? Security, Fees, and What You Need to Know | 孙Nicky | [Read More](https://medium.com/p/5f1c434067fd) |
+| Mon, 23 Mar 2026 10:27:18 GMT | How AI Improves Physical Security in the Oil & Gas Industry | Spotem | [Read More](https://medium.com/p/de786fe5ff37) |
+| Mon, 23 Mar 2026 10:22:31 GMT | Introduction To EDR Evasion: API Hooking | Redfox Security | [Read More](https://medium.com/p/35dc6f4e65d2) |
+| Mon, 23 Mar 2026 10:20:28 GMT | Cybersecurity Data Backup & Recovery: The Backbone of Modern Business Continuity | Tekkis | [Read More](https://medium.com/p/8c43363f0ffc) |
+| Mon, 23 Mar 2026 10:19:03 GMT | Beyond the Quantum Horizon: A Technical Roadmap for PQC Digital Signature Migration | Raja Guduru | [Read More](https://medium.com/p/bfdb6ae34126) |
+| Mon, 23 Mar 2026 10:16:21 GMT | AI Threats Require Human Defenders: The Cybersecurity Paradox | Vijay Kumar Gupta | [Read More](https://medium.com/p/51d19ccd1ff9) |
+| Mon, 23 Mar 2026 10:11:48 GMT | Cybersecurity Is No Longer an IT Problem — It’s a Boardroom Responsibility | Sanjiv Cherian | [Read More](https://medium.com/p/2446e553d5c4) |
+| Mon, 23 Mar 2026 10:11:29 GMT | “DMCA Ignored Hosting Sounds Great… Until This Happens” | Rakshita Mishra | [Read More](https://medium.com/p/0b9b0a2a311a) |
+| Mon, 23 Mar 2026 09:45:18 GMT | Advanced Penetration Testing Strategies for Modern Cyber Security | Black Lock | [Read More](https://medium.com/p/4da3e78d2002) |
+| Mon, 23 Mar 2026 09:42:01 GMT | How to Rate Limit Next.js Server Actions | SecureStartKit | [Read More](https://medium.com/p/b1fd855ed906) |
 | Mon, 23 Mar 2026 09:31:30 GMT | Security Operations Centre Insights — Q4 Threat Update | MTI Technology UK | [Read More](https://medium.com/p/86f3d9a158e7) |
 | Mon, 23 Mar 2026 09:31:00 GMT | Your AI Incident Response Plan Doesn’t Exist. It Just Looks Like It Does. | Yash Gorasiya | [Read More](https://medium.com/p/48afaa833c06) |
 | Mon, 23 Mar 2026 09:23:51 GMT | Why Data Security Is Important for Businesses (2026 Guide) | Cloudegytechnology | [Read More](https://medium.com/p/8e0d359996f2) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 04:18:52 GMT | The Architecture of High-Performance Mobile Frameworks in 2026 | Lucas - mega888today | [Read More](https://medium.com/p/ecc7f986779e) |
 | Mon, 23 Mar 2026 04:17:09 GMT | The 5 Fundamental Rules of Thumb for Windows Server Hardening | Vinay Vyas | [Read More](https://medium.com/p/3cb9d04dadc3) |
 | Mon, 23 Mar 2026 04:15:01 GMT | MacKeeper: The Ultimate Mac Protection and Optimization Tool | Bhawana Sharma | [Read More](https://medium.com/p/c61789849df3) |
-| Mon, 23 Mar 2026 04:14:05 GMT | HMCS Brandon Day Sail | Kate Bandura | [Read More](https://medium.com/p/dcf967db564d) |
-| Mon, 23 Mar 2026 03:59:47 GMT | Why I Stopped Writing Auth Code for Every Project and Built AuthShield | Rgupta | [Read More](https://medium.com/p/52fefa938c54) |
-| Mon, 23 Mar 2026 03:56:44 GMT | What Happens When You Click a Fake Installer? I Built One to Find Out | Mohankrishnaotikunta | [Read More](https://medium.com/p/0d8fc7cb5a98) |
-| Mon, 23 Mar 2026 03:33:57 GMT | Understanding SQL Injection: A Practical Guide | Mubashir | [Read More](https://medium.com/p/a27b9775a9e7) |
-| Mon, 23 Mar 2026 03:19:01 GMT | MCP Security Risks No One Is Talking About (Yet) | Diptendu Das | [Read More](https://medium.com/p/d954a1e7a007) |
-| Mon, 23 Mar 2026 03:04:22 GMT | eJPT INE: Information Gathering CTF 1  Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/4122e8079858) |
-| Mon, 23 Mar 2026 02:41:00 GMT | The Science Behind Handling Abrasive Fluids | Antlia Engineering Works | [Read More](https://medium.com/p/262994f4402d) |
-| Mon, 23 Mar 2026 02:30:09 GMT | Is Privacy a Myth? | Nithin | [Read More](https://medium.com/p/9a5c06179252) |
-| Mon, 23 Mar 2026 02:06:00 GMT | Identity Governance Beyond the Firewall: The New Perimeter | Gabriel Mahia | [Read More](https://medium.com/p/053fcc0dbf33) |
-| Mon, 23 Mar 2026 02:03:22 GMT | HTB Oopsie Writeup Español | Us0lfr | [Read More](https://medium.com/p/e163c3557e3b) |
-| Mon, 23 Mar 2026 02:02:12 GMT | How Darknet Vendors Work: A Clear, Practical Overview | Tor BBB | [Read More](https://medium.com/p/c93f08de40bc) |
-| Mon, 23 Mar 2026 01:58:42 GMT | ทำไมคนเรียน IoT ต้องเริ่มที่ Embedded Systems | ICT MAHIDOL | [Read More](https://medium.com/p/66a602c35124) |
-| Mon, 23 Mar 2026 01:23:22 GMT | LDAP: The Digital Bouncer Standing at Every Corporate Door | Kamlesh Singh | [Read More](https://medium.com/p/fc90977d2610) |
-| Mon, 23 Mar 2026 01:20:12 GMT | Week 2 of HAWD API Security Bootcamp — What I Now Know About Securing APIs | Adesanya Adebowale | [Read More](https://medium.com/p/d4ea9ce4e7ce) |
-| Mon, 23 Mar 2026 01:19:28 GMT | GenAI Security Threats Demystified: Defending against the Confused Deputy -Identity, Authorization… | Mallikarjun Hangargi | [Read More](https://medium.com/p/6c9252f0dbd4) |
-| Mon, 23 Mar 2026 01:07:29 GMT | Blackwall LLM Shield -Because “Hope It Doesn’t Jailbreak” Isn’t a Security Strategy | Devarajanvishnu | [Read More](https://medium.com/p/0074c842be03) |
-| Mon, 23 Mar 2026 01:06:52 GMT | 當全網都在「養龍蝦」 | David Lien | [Read More](https://medium.com/p/1c9e194e4454) |
-| Mon, 23 Mar 2026 01:01:00 GMT | [Fight Club] The Strategic Reclamation of Existential Admin Rights | MonoEssay | [Read More](https://medium.com/p/afc31cb11a24) |
-| Mon, 23 Mar 2026 00:53:19 GMT | Can Using Unlicensed Software Pose a Cyber Threat? | Kavachcyber | [Read More](https://medium.com/p/016e535ce178) |
