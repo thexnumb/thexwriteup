@@ -12,8 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 07:59:45 GMT | Top 15 Kali Linux Tools Used by Ethical Hackers | cyber security Updates | [Read More](https://medium.com/p/8124a60f54c3) |
+| Mon, 23 Mar 2026 07:50:49 GMT | Apple App Attest: A Hardware-Backed Defense Against Bots and Tampered Apps | Tazwarutshas | [Read More](https://medium.com/p/0cd9e1d70a8c) |
+| Mon, 23 Mar 2026 07:48:35 GMT | Gitleaks Killer Unleashed: Scan Secrets 10x Faster Before Hackers Do! | cybrNK | [Read More](https://medium.com/p/20726285d94a) |
+| Mon, 23 Mar 2026 07:46:39 GMT | OSCP to Real-World Pentesting: 15 Lessons Learned for Practical Success | Very Lazy Tech | [Read More](https://medium.com/p/c14ae69d8e19) |
+| Mon, 23 Mar 2026 07:43:13 GMT | The Complete SQLMap Workflow: Step-by-Step | Mohammad Sheeraz | [Read More](https://medium.com/p/1b3b335e1ee4) |
+| Mon, 23 Mar 2026 07:41:25 GMT | The 2026 Mobile Ecosystem: A Technical Audit of High-Performance Application Architecture | Retronaut | [Read More](https://medium.com/p/09f994aa58ef) |
+| Mon, 23 Mar 2026 07:40:08 GMT | Top Cybersecurity Training and Certification Programs to Boost Your Career | Janbask Training | [Read More](https://medium.com/p/f8cacd011181) |
+| Mon, 23 Mar 2026 07:35:37 GMT | Global Security Governance in the Era of Hybrid Warfare: The Role of the United Nations and the… | Ziya Gokalp | [Read More](https://medium.com/p/e47a1bf4cb38) |
+| Mon, 23 Mar 2026 07:33:48 GMT | The Future of Cloud Security and Compliance in the MENA Region | Aligned Tech | [Read More](https://medium.com/p/2a54d38d7a80) |
+| Mon, 23 Mar 2026 07:32:25 GMT | This section used to be miamuze.com/additional-skills | Mia Muze© The Urban Shaman | [Read More](https://medium.com/p/466629f089c4) |
+| Mon, 23 Mar 2026 07:31:25 GMT | What technologies are used by mobile app development companies in Qatar? | Lily Parker | [Read More](https://medium.com/p/2d05c41c632b) |
+| Mon, 23 Mar 2026 07:31:00 GMT | Top 10 Security Mistakes Developers Still Make in 2026 | Velspark Technologies | [Read More](https://medium.com/p/b4dcbec1bab0) |
+| Mon, 23 Mar 2026 07:28:28 GMT | RWA Protocol Audit: How a Missing Multiplier Could Drain $1B in Assets | 周伟 | [Read More](https://medium.com/p/42b92e5cb48b) |
+| Mon, 23 Mar 2026 07:26:24 GMT | Modern Cybersecurity Trends in 2026: How Splunk Enterprise Security and Splunk ITSI Help You Stay… | bitsIO | [Read More](https://medium.com/p/8b5f6f02e3e3) |
+| Mon, 23 Mar 2026 07:26:14 GMT | Passive Fire Protection vs Active Fire Protection: What You Need to Know | Fsie Mumbai | [Read More](https://medium.com/p/89ec508f699d) |
+| Mon, 23 Mar 2026 07:22:35 GMT | Windows Artefact ve Loglama Yapılandırması | Meliksah Bayrak | [Read More](https://medium.com/p/71e0b431a6b9) |
+| Mon, 23 Mar 2026 07:21:52 GMT | Know Yourself, Know Your Enemy: The 3 Pillars of a Robust Cybersecurity Strategy | Waide Danko | [Read More](https://medium.com/p/b7e03b1c1b73) |
+| Mon, 23 Mar 2026 07:21:09 GMT | The Linux Process Journey — dbus-monitor (Debug Probe to Print Message Bus Messages) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f6599374677b) |
+| Mon, 23 Mar 2026 07:14:32 GMT | PicoCTF (practice) — c0rrupt | hecker | [Read More](https://medium.com/p/d4407dbc2401) |
+| Mon, 23 Mar 2026 07:12:27 GMT | AI-Powered Ethical Hacking: How Hackers & Defenders Use AI | Offensotech | [Read More](https://medium.com/p/1235dfc44dc4) |
+| Mon, 23 Mar 2026 07:08:52 GMT | Pcap Analysis Report: Attribution and Identification of an Infected Host | RD | [Read More](https://medium.com/p/300085168a3c) |
+| Mon, 23 Mar 2026 07:07:42 GMT | Why the UAE Golden Visa Is More Valuable Than You Think in 2026 | Emiratesdirectory | [Read More](https://medium.com/p/dd46a58eb670) |
+| Mon, 23 Mar 2026 07:01:01 GMT | Forecasting the Information Ecosystem: What the Water Model Predicts | Oleh Cheslavskyi | [Read More](https://medium.com/p/0e910c920dbc) |
+| Mon, 23 Mar 2026 07:00:43 GMT | Video Streaming Market Size, Share & Growth Analysis | NIkita Poplai | [Read More](https://medium.com/p/76210a349d11) |
+| Mon, 23 Mar 2026 06:57:06 GMT | IAM vs PAM: Understanding the Backbone of Access Security | Latha | [Read More](https://medium.com/p/079d26f27101) |
+| Mon, 23 Mar 2026 06:52:28 GMT | Weaponized Browser Extensions: The Silent Insider Threat in Organizations | Cynox Security LLP. | [Read More](https://medium.com/p/cb0af9b74df6) |
+| Mon, 23 Mar 2026 06:46:55 GMT | Deception Technology Market: The Silent Shift Toward Proactive Cyber Defense | Prathyusha | [Read More](https://medium.com/p/700bd9fb6948) |
 | Mon, 23 Mar 2026 06:41:12 GMT | How much storage is lost on RAID 1? | Shreya Loyal | [Read More](https://medium.com/p/921e66ef96db) |
 | Mon, 23 Mar 2026 06:40:01 GMT | 0 click Account Takeover (ATO) via Cross-Event Identity Confusion | 0Xmannaf | [Read More](https://medium.com/p/12a42a84f027) |
+| Mon, 23 Mar 2026 06:38:33 GMT | On-Device AI Market Size, Share, Industry Growth — 2033 | NIkita Poplai | [Read More](https://medium.com/p/4c30e6c57aa1) |
 | Mon, 23 Mar 2026 06:37:32 GMT | Basic server-side template injection | Ⓥ | [Read More](https://medium.com/p/28bb9ac638e3) |
 | Mon, 23 Mar 2026 06:33:51 GMT | If I Were an Attacker: Breaking Password Reset Flows | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/7b6a2fb38832) |
 | Mon, 23 Mar 2026 06:32:32 GMT | What Is Remote Code Execution (RCE)? How It Works, Risks & Prevention Guide | Smit Pipaliya | [Read More](https://medium.com/p/9789c7231d82) |
@@ -84,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 21:33:07 GMT | CTF Pwn103 @ TryHackMe | Rafael David | [Read More](https://medium.com/p/ac7aa60206b7) |
 | Sun, 22 Mar 2026 21:32:37 GMT | The SolarWinds Breach: Why Supply Chain Attacks Changed Cybersecurity Forever | Deniz Vural | [Read More](https://medium.com/p/9a5f03ffcfb6) |
 | Sun, 22 Mar 2026 21:17:12 GMT | A quiet account of who I am now… | One Quiet Voice | [Read More](https://medium.com/p/d8d84e07bb09) |
-| Sun, 22 Mar 2026 21:09:39 GMT | The Self-Custody Illusion: Why Most Wallets Still Fail the User | Corwin Goldman_Dibbs | [Read More](https://medium.com/p/546392c01467) |
-| Sun, 22 Mar 2026 21:08:58 GMT | Vibeware & DDoD: Detecting AI-Mutated Attack Agents Through Structural Analysis | 5r4v4n | [Read More](https://medium.com/p/7ec05c3f972c) |
-| Sun, 22 Mar 2026 20:51:23 GMT | Beyond Linux and Windows: A Technical Analysis for the Modern Professional | Murilo Giatti | [Read More](https://medium.com/p/b5277a7732b1) |
-| Sun, 22 Mar 2026 20:48:24 GMT | Detection Engineering (Part 1 of 3) | Andrew Blooman | [Read More](https://medium.com/p/443e26eb6ef4) |
-| Sun, 22 Mar 2026 20:45:59 GMT | CTF Writeup: SeaPanda — Investigating a Maritime Shipping Intrusion | Yassineet | [Read More](https://medium.com/p/a89e21b046f3) |
-| Sun, 22 Mar 2026 20:45:14 GMT | Wireless Attack with Aircrack-ng : A Complete Guide from A to Z | Yurichi Tamaki | [Read More](https://medium.com/p/17b5a3de94f6) |
-| Sun, 22 Mar 2026 20:41:26 GMT | Command Injection - When an Attacker Stops Talking to Your App and Starts Talking to Your Server… | Rufus Kehinde | [Read More](https://medium.com/p/99f8d77e70d3) |
-| Sun, 22 Mar 2026 20:38:49 GMT | CTF Writeup: OpenClaw — Compromising an ML Platform Through a Chain of Vulnerabilities | Yassineet | [Read More](https://medium.com/p/0b3d875908aa) |
-| Sun, 22 Mar 2026 20:36:00 GMT | ROAD- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/8b6002c3c7c2) |
-| Sun, 22 Mar 2026 20:27:29 GMT | From a Silent Math Error to Certificate Bypass: Uncovering an Integer Overflow in a TLS Parser | Hacker MD | [Read More](https://medium.com/p/b73b86696f74) |
-| Sun, 22 Mar 2026 20:22:01 GMT | Zero to Red Team: Master Shodan Dorking in One Read | Shubham Gupta | [Read More](https://medium.com/p/24df16f2b84e) |
-| Sun, 22 Mar 2026 20:08:20 GMT | Mobile App Security Testing Guide 2026 Part 1: The Blueprint | mohanrajmdev | [Read More](https://medium.com/p/c28e8d355a27) |
-| Sun, 22 Mar 2026 20:03:59 GMT | Dirb — a single command to penetrate websites and find hidden things. | Dprannav | [Read More](https://medium.com/p/5062ccdd368d) |
-| Sun, 22 Mar 2026 20:01:00 GMT | Detecting AD Post-Exploitation - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/ebf079bebf17) |
-| Sun, 22 Mar 2026 19:57:21 GMT | Offensive MCP Server with Docker for Claude Desktop: Build Your Own Pentesting Tools (Step-by-Step) | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/8cdcf140d4f7) |
-| Sun, 22 Mar 2026 19:42:54 GMT | Atomic Red Team Setup on Windows | Shailesh Patil | [Read More](https://medium.com/p/727899883edf) |
-| Sun, 22 Mar 2026 19:36:52 GMT | 13.1 Lab: Reflected XSS into HTML context with nothing encoded | Durgesh | [Read More](https://medium.com/p/f188adf3d933) |
-| Sun, 22 Mar 2026 19:31:52 GMT | XSS skill assessment HTB walkthrough | Mazen Hassane | [Read More](https://medium.com/p/cc6390482a68) |
-| Sun, 22 Mar 2026 19:28:38 GMT | Stop Chasing IOCs, Focus on Behavior | Ori Dror | [Read More](https://medium.com/p/c8193b5cb726) |
-| Sun, 22 Mar 2026 19:23:55 GMT | Securing My Homelab With Tailscale | Hugh Evans | [Read More](https://medium.com/p/b6835268e9cd) |
-| Sun, 22 Mar 2026 19:18:20 GMT | Polyfill[.]io: The Day a “Helpful CDN” Became a Mass Redirect Machine | Ilias Armenakis | [Read More](https://medium.com/p/b015a3fa21f9) |
-| Sun, 22 Mar 2026 19:07:08 GMT | IT Organization as Science and Engineering | Shubjeet Pal | [Read More](https://medium.com/p/3917f2d8933e) |
-| Sun, 22 Mar 2026 18:56:46 GMT | Understanding Local File Inclusion (LFI) and Remote File Inclusion (RFI): Exploitation and Defense | HexNative Blog | [Read More](https://medium.com/p/5921bc19d153) |
-| Sun, 22 Mar 2026 18:43:26 GMT | Exposed Endpoints Lead To Leak PII | 1sherlok | [Read More](https://medium.com/p/96a581c37081) |
-| Sun, 22 Mar 2026 18:40:55 GMT | Network Address Translation (NAT): How the Internet Handles Billions of Devices | Ndu | [Read More](https://medium.com/p/208116a183c9) |
-| Sun, 22 Mar 2026 18:38:53 GMT | Firewalls Explained: The First Line of Defense in Network Security | Ndu | [Read More](https://medium.com/p/34d14292d35b) |
-| Sun, 22 Mar 2026 18:31:29 GMT | Zero Trust: Stop Trusting Your Own Network | Moksh S | [Read More](https://medium.com/p/e3602aa19efc) |
-| Sun, 22 Mar 2026 18:28:11 GMT | SQL Injection: Listing Database Contents on Oracle — PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/65bad29440ec) |
