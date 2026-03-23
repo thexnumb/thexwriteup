@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 11:36:09 GMT | HTB Academy -API Attacks (Unrestricted Resource Consumption) Exercise Walkthrough | Farouq Hassan | [Read More](https://medium.com/p/8c5f32c9f48e) |
+| Mon, 23 Mar 2026 11:29:00 GMT | I Built a Local AI Agent to Watch My Network — Then It Caught a Shadow I Missed | NetDefender | [Read More](https://medium.com/p/d895fb22d9bd) |
+| Mon, 23 Mar 2026 11:26:00 GMT | If I Were an Attacker: Breaking Signup & Account Creation Systems | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/7594b65105e9) |
+| Mon, 23 Mar 2026 11:23:34 GMT | Why Every Business Needs a Cybersecurity Solutions Provider in 2026 | Boisttechsolutions | [Read More](https://medium.com/p/84cb5b2cd725) |
+| Mon, 23 Mar 2026 11:20:04 GMT | The Ultimate Guide to Cheap Web Hosting in India (2026 Edition) | Mary Thomas | [Read More](https://medium.com/p/4ad9d30b9d90) |
+| Mon, 23 Mar 2026 11:16:00 GMT | I Passed PenTest+ on My 4th Attempt, Here’s What It Actually Took | Brittney Ginther | [Read More](https://medium.com/p/079f6b69d413) |
+| Mon, 23 Mar 2026 11:13:54 GMT | Dynatrace ile GitHub Gelişmiş Güvenlik Açığı Bulgularını Alın ve Zenginleştirin | Perform Yazılım | [Read More](https://medium.com/p/8bb8f055a47f) |
+| Mon, 23 Mar 2026 11:11:57 GMT | RediShell Unmasked: Escaping the Redis Lua Sandbox (CVE-2025–49844) | Makhtar Diop | [Read More](https://medium.com/p/185509897900) |
+| Mon, 23 Mar 2026 11:01:00 GMT | ISO 27001 for Software Engineers | Ruslan Ora | [Read More](https://medium.com/p/3472151fc907) |
+| Mon, 23 Mar 2026 11:01:00 GMT | ANY.RUN at RootedCON 2026: Meeting Security Teams and Showcasing New Capabilities | ANY.RUN | [Read More](https://medium.com/p/eed3afb67013) |
+| Mon, 23 Mar 2026 11:01:00 GMT | Understanding CWE-256: Plaintext Storage of a Password | Walter Moar | [Read More](https://medium.com/p/a0b670a981f9) |
+| Mon, 23 Mar 2026 10:58:18 GMT | Why Success Feels Like a Performance | Hugo Pan | [Read More](https://medium.com/p/90b55a4f4f09) |
+| Mon, 23 Mar 2026 10:58:06 GMT | SharePoint Online Monitoring Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/daecd552b9a9) |
 | Mon, 23 Mar 2026 10:47:57 GMT | Best Free Anonymous Email Services in 2026 (Tested & Ranked) | Warren Smith | [Read More](https://medium.com/p/c78aeef9159d) |
 | Mon, 23 Mar 2026 10:46:07 GMT | Linux Hosting Explained: Benefits, Security & Why It Powers Most Websites? | Janet Watson | [Read More](https://medium.com/p/71c89ca230ef) |
 | Mon, 23 Mar 2026 10:40:37 GMT | Enterprise IT Is Not Failing at AI — It’s Failing at Change | Séв(aѕтιen) L. ⚠ | [Read More](https://medium.com/p/cdccfdefb75d) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 05:27:28 GMT | Air Handlers & Chiller Cleaning Services in New Zealand | Airrestore | [Read More](https://medium.com/p/7e0d44cc82ac) |
 | Mon, 23 Mar 2026 05:08:52 GMT | The Ghost in the Vault: How we cracked the “Data Residency” Deadlock | Avi Jain | [Read More](https://medium.com/p/6be8b3445f8b) |
 | Mon, 23 Mar 2026 05:01:02 GMT | Cybersecurity in India: Growing Threats in 2026 | Ravalrachana | [Read More](https://medium.com/p/0228b536b256) |
-| Mon, 23 Mar 2026 05:00:15 GMT | The Attack Cost Escalation Model: Why Physical Security Changes Adversary Economics | Kalyan Tamarapalli | [Read More](https://medium.com/p/558a124a9407) |
-| Mon, 23 Mar 2026 04:59:52 GMT | Quick Locksmith — Fast, Reliable Security Solutions When You Need Them Most | N1locksmithsltd | [Read More](https://medium.com/p/d9a5ce6160a5) |
-| Mon, 23 Mar 2026 04:53:47 GMT | I Built an AI-Powered Code Security Auditor That Doesn’t Just Find Bugs — It Fixes Them | Vijay Rachamalla | [Read More](https://medium.com/p/a9a68be63cdd) |
-| Mon, 23 Mar 2026 04:42:32 GMT | What is SSL/TLS and why HTTPS matters networking — Day 14 | 0xSmit | [Read More](https://medium.com/p/c582e7a9117f) |
-| Mon, 23 Mar 2026 04:40:04 GMT | Lineage of Lattice Crypto—Learning With Errors and Rounds | Gokul B Alex | [Read More](https://medium.com/p/c6cb93bea4a9) |
-| Mon, 23 Mar 2026 04:39:45 GMT | What is a proxy server and how it’s used in attacks ? networking — Day 11 | 0xSmit | [Read More](https://medium.com/p/56318bc16fce) |
-| Mon, 23 Mar 2026 04:39:03 GMT | How I Dumped Hundreds of Admin PII in 10 Minutes | Delta | [Read More](https://medium.com/p/868a45efea54) |
-| Mon, 23 Mar 2026 04:35:30 GMT | Security in Fintech: How Companies Protect Your Money Online | Chloe Johnson | [Read More](https://medium.com/p/68c449bf2782) |
-| Mon, 23 Mar 2026 04:32:12 GMT | How Websites Track You (It’s Not Just Cookies) | Hameedduke | [Read More](https://medium.com/p/8dbd4a6b9483) |
-| Mon, 23 Mar 2026 04:25:24 GMT | Why VIPRE Antivirus Is a Trusted Choice for Mac Protection | Bhawana Sharma | [Read More](https://medium.com/p/1c93a2e8255e) |
-| Mon, 23 Mar 2026 04:18:52 GMT | The Architecture of High-Performance Mobile Frameworks in 2026 | Lucas - mega888today | [Read More](https://medium.com/p/ecc7f986779e) |
-| Mon, 23 Mar 2026 04:17:09 GMT | The 5 Fundamental Rules of Thumb for Windows Server Hardening | Vinay Vyas | [Read More](https://medium.com/p/3cb9d04dadc3) |
-| Mon, 23 Mar 2026 04:15:01 GMT | MacKeeper: The Ultimate Mac Protection and Optimization Tool | Bhawana Sharma | [Read More](https://medium.com/p/c61789849df3) |
