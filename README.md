@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 18:00:39 GMT | Where Data Lives: Exploring the Locations of Data Centers Behind Social Media Apps | Shavvon Cintron | [Read More](https://medium.com/p/c0d8568f1ab9) |
+| Mon, 23 Mar 2026 17:56:53 GMT | Singapore: The Smart Nation and the Future of QR Security ️ | Crypton Official App | [Read More](https://medium.com/p/2b9c5e8f3335) |
+| Mon, 23 Mar 2026 17:56:15 GMT | The AI Revolution is Here: Are You Ready to Be Left Behind? | Nazib Khan | [Read More](https://medium.com/p/4bbca96402f5) |
+| Mon, 23 Mar 2026 17:53:56 GMT | Cybersecurity in 2026: How Conflict, AI, and Global Threats Are Redefining Digital Risk | TechDemocracy | [Read More](https://medium.com/p/ce7469bffddf) |
+| Mon, 23 Mar 2026 17:47:00 GMT | How 3M Promotes Innovation | Anwarul A.K.M | [Read More](https://medium.com/p/7dc7ffbab8a1) |
+| Mon, 23 Mar 2026 17:39:36 GMT | I Spent a Day Hacking My Own Security Camera. It Gave Up Its Secrets by Midnight. | Mehdi | [Read More](https://medium.com/p/e982be933d89) |
+| Mon, 23 Mar 2026 17:36:16 GMT | Stryker Attack — Handala Group | Hemant Patkar, CISSP | [Read More](https://medium.com/p/ac3f32785f7f) |
+| Mon, 23 Mar 2026 17:36:06 GMT | The Magic Under the Hood: How Concrete Vaults Actually Work | Mukeshrana | [Read More](https://medium.com/p/ba58afe87885) |
+| Mon, 23 Mar 2026 17:34:58 GMT | Web Application Penetration Testing CTF 1 | R1punjay_Singh | [Read More](https://medium.com/p/6a188e29140e) |
+| Mon, 23 Mar 2026 17:32:44 GMT | When Copilot Arrives at the Company… and No One Knows What to Do with It | Suri Services Marketing | [Read More](https://medium.com/p/4acdb762bd6f) |
+| Mon, 23 Mar 2026 17:32:13 GMT | Your Password Is “123456”? AI Noticed — So Did the Hacker. | Swetha S Nair | [Read More](https://medium.com/p/d24f18cfa894) |
+| Mon, 23 Mar 2026 17:32:06 GMT | The Hidden World of Sodium-Ion Batteries: Why They're About to Change Your Phone (and Planet) | The Interface | [Read More](https://medium.com/p/cdcfae0c1899) |
+| Mon, 23 Mar 2026 17:31:27 GMT | How I Stay Ahead in Cyber with Glance: My Self-Hosted Intelligence Dashboard | Michael | [Read More](https://medium.com/p/7409a62d0c45) |
+| Mon, 23 Mar 2026 17:30:47 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 5 | Haxymad | [Read More](https://medium.com/p/a23cce2a6da8) |
+| Mon, 23 Mar 2026 17:16:37 GMT | Spring Security Internals: How Filter Chain Works | Hüsna POYRAZ | [Read More](https://medium.com/p/f296f9bf8f5d) |
 | Mon, 23 Mar 2026 17:13:11 GMT | XSS Attacks Explained Simply (And How to Stop Them) | Mubashir | [Read More](https://medium.com/p/053a1ed0aa33) |
 | Mon, 23 Mar 2026 17:12:45 GMT | Assessment Methodologies: Vulnerability Assessment CTF 1 (eJPT) | Vanshaj Kumar | [Read More](https://medium.com/p/5915f999c942) |
 | Mon, 23 Mar 2026 17:12:00 GMT | The Invisible Pipeline: A Guide to Compilation, Linking, and Execution | Vishwas Adhikari | [Read More](https://medium.com/p/280862202770) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 12:59:20 GMT | BFSI Cybersecurity Market Emerging Trends, Application Scope, Status, Analysis And Forecast To 2030 | Technology Geek | [Read More](https://medium.com/p/a2d08fcc626c) |
 | Mon, 23 Mar 2026 12:57:02 GMT | Why Smart Businesses Hire N8N Experts to Automate Workflows and Scale Faster in 2026 | n8ndevelopers | [Read More](https://medium.com/p/a5d5f778bf83) |
 | Mon, 23 Mar 2026 12:56:37 GMT | How to Fix the Missing Checkbox “ in Netplwiz: ”Users must enter a user name and password to use… | Ümit Berber | [Read More](https://medium.com/p/f9a18e9120a0) |
-| Mon, 23 Mar 2026 12:50:23 GMT | Brazil Cybersecurity Market Opportunities, Share, Trends, And Forecasted Growth For 2026–2030 | Technology Geek | [Read More](https://medium.com/p/b4235e64aa99) |
-| Mon, 23 Mar 2026 12:46:00 GMT | Cyber Risk Doesn’t Stay in IT — Last Week Proved It Again | Harper Knox | [Read More](https://medium.com/p/79adfb759b34) |
-| Mon, 23 Mar 2026 12:40:28 GMT | CRA Uyum 101: Üreticilerin Teknik Yükümlülükleri | Duygu Fidancıoğlu | [Read More](https://medium.com/p/07cdd3c5fcf4) |
-| Mon, 23 Mar 2026 12:32:45 GMT | TLS Demystified — If You’ve Ever Watched a Spy Movie, You Already Understand TLS | Sushobhit Khanna | [Read More](https://medium.com/p/d1a7c2804c84) |
-| Mon, 23 Mar 2026 12:30:03 GMT | Security IP Market Gains Momentum | David H. Deans | [Read More](https://medium.com/p/e35b854af0da) |
-| Mon, 23 Mar 2026 12:29:42 GMT | OnlyMonster’s Big Security Hole Exposed: Scammer Wins, Devs Beg for Bug Bounty! Rundalya’s Rage | Rundalya Brown | [Read More](https://medium.com/p/4b2145484c80) |
-| Mon, 23 Mar 2026 12:29:42 GMT | OWASP GenAI Data Security: Why Data Is the New Perimeter for AI | Ashwini Puranik | [Read More](https://medium.com/p/fc6555382a2f) |
-| Mon, 23 Mar 2026 12:29:07 GMT | Building a Pro SOC Home Lab for Advanced Threat Hunting: A Hands-on Journey | Welart | [Read More](https://medium.com/p/84f203fd9fbc) |
-| Mon, 23 Mar 2026 12:27:13 GMT | EvilHID: Circuit Python + RP2040-Zero for a Home-Made Rubber Ducky | Sam Rothlisberger | [Read More](https://medium.com/p/18465d9734c8) |
-| Mon, 23 Mar 2026 12:26:19 GMT | Day 64: Agent Auth Protocol, and the tooling landscape (testing the hypothesis) | LAKSHMI VENKATESH | [Read More](https://medium.com/p/39fb58572774) |
-| Mon, 23 Mar 2026 12:22:36 GMT | TryHackMe: Regular Expressions Walkthrough | Anonymousd | [Read More](https://medium.com/p/2c519593dc48) |
-| Mon, 23 Mar 2026 12:20:23 GMT | Mistakes Learned From Reports Rejections | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/f9f9f80d6ba4) |
-| Mon, 23 Mar 2026 12:19:26 GMT | Systems Security Engineering Is a Decision Discipline, Not a Technical Specialty | Peter Hillier/Halton | [Read More](https://medium.com/p/d9bc02ea15f8) |
-| Mon, 23 Mar 2026 12:17:09 GMT | Boosting Security: Integrating SAST into Your DevSecOps CI/CD Pipelines | Ashwitha Halemat | [Read More](https://medium.com/p/8d7f6811ab6b) |
-| Mon, 23 Mar 2026 12:14:02 GMT | IntelOwl: Tehdit İstihbaratını Tek Çatı Altında Toplamak | Kerem Demircan | [Read More](https://medium.com/p/9e8c44614a34) |
