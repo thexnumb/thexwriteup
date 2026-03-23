@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 19:16:41 GMT | Building a Prompt Guard That Stops Prompt Injection Before It Touches Your LLM | SoulPie | [Read More](https://medium.com/p/d99c1354714c) |
+| Mon, 23 Mar 2026 19:11:39 GMT | Nuclei Cheat Sheet (Basic → Advanced) | Dhruv | [Read More](https://medium.com/p/a1a80374c0ff) |
+| Mon, 23 Mar 2026 19:07:34 GMT | They Trained Him, He Stole From Them, He Cashed Out. | O. J. Okpabi | [Read More](https://medium.com/p/00b02da2ef70) |
+| Mon, 23 Mar 2026 19:01:46 GMT | Ways to catch cheating husband in marriage? | Michael Parks | [Read More](https://medium.com/p/6e983bd88622) |
+| Mon, 23 Mar 2026 19:01:23 GMT | How to Destroy Your Linux System in 13 Characters (Bash Fork Bomb) | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/c477fac2338e) |
+| Mon, 23 Mar 2026 18:59:35 GMT | COURAGE: A Guide to Psychological Safety and Fulfillment | Bryan Niederhelm | [Read More](https://medium.com/p/94fd1076c3fc) |
+| Mon, 23 Mar 2026 18:42:39 GMT | URGENT SECURITY ALERT: Global Phishing Network & The Systematic Failure of Digital Justice | Apollonas Soben | [Read More](https://medium.com/p/20f70aef4925) |
+| Mon, 23 Mar 2026 18:41:22 GMT | Hello… Hi… Welcome… | Tara's Thought Book | [Read More](https://medium.com/p/4cb24a58eb6c) |
+| Mon, 23 Mar 2026 18:40:08 GMT | Why Cheap PCI Compliance Software Can Cost Your Small Business More | Emory French | [Read More](https://medium.com/p/90633bc39753) |
+| Mon, 23 Mar 2026 18:40:02 GMT | Access Control List’i Kurcalamak — Part 2 | Umuteren | [Read More](https://medium.com/p/b41e21f5e21d) |
+| Mon, 23 Mar 2026 18:36:46 GMT | Why I Chose Cybersecurity: A Purpose Bigger Than Myself | Nidya Alexandra Quinto | [Read More](https://medium.com/p/17aef7b9e732) |
+| Mon, 23 Mar 2026 18:08:51 GMT | From Input Filtering to Data Exfiltration: Exploiting CSV Injection in a Real Pentest | Cyber Tamarin | [Read More](https://medium.com/p/6b2909c9282d) |
 | Mon, 23 Mar 2026 18:00:39 GMT | Where Data Lives: Exploring the Locations of Data Centers Behind Social Media Apps | Shavvon Cintron | [Read More](https://medium.com/p/c0d8568f1ab9) |
 | Mon, 23 Mar 2026 17:56:53 GMT | Singapore: The Smart Nation and the Future of QR Security ️ | Crypton Official App | [Read More](https://medium.com/p/2b9c5e8f3335) |
 | Mon, 23 Mar 2026 17:56:15 GMT | The AI Revolution is Here: Are You Ready to Be Left Behind? | Nazib Khan | [Read More](https://medium.com/p/4bbca96402f5) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 13:34:54 GMT | Y Combinator Just Celebrated Building a Generation of Insecure Startups. Nobody Noticed. | Jost Faganel | [Read More](https://medium.com/p/3e94039aaf2d) |
 | Mon, 23 Mar 2026 13:32:46 GMT | Chocolate Factory [Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/cf9c3893f44e) |
 | Mon, 23 Mar 2026 13:27:34 GMT | The Missing Record in Security Systems | Shumpei Imazu | [Read More](https://medium.com/p/2845cf3a61be) |
-| Mon, 23 Mar 2026 13:26:00 GMT | West Hartford Locksmiths: How to Pick the Right One - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/3784b68bf2eb) |
-| Mon, 23 Mar 2026 13:18:27 GMT | I Audited a Popular AI Browser Tool and Found 4 Critical Vulnerabilities | Jason Anderson | [Read More](https://medium.com/p/9b6ad396e3ec) |
-| Mon, 23 Mar 2026 13:12:38 GMT | HTB Academy -API Attacks (Broken Function Level Authorization) Exercise Walkthrough | Farouq Hassan | [Read More](https://medium.com/p/51824006f250) |
-| Mon, 23 Mar 2026 13:11:54 GMT | Exploiting Apache CouchDB: RCE Vulnerability Walkthrough (CVE-2017–12636) | Berzan Unsal | [Read More](https://medium.com/p/149f50f86a4f) |
-| Mon, 23 Mar 2026 13:11:51 GMT | Strix: The Open-Source Hacker That Tests Your App Like a Real Attacker | TechLatest.Net | [Read More](https://medium.com/p/4217e0c9e843) |
-| Mon, 23 Mar 2026 13:06:31 GMT | The Rise of Advanced Refractory Solutions in India: Innovation, Performance & Future Trends. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/0606fd4e4954) |
-| Mon, 23 Mar 2026 13:01:52 GMT | AI-Driven Threat Detection in Cybersecurity | cloudseccurity | [Read More](https://medium.com/p/1a7efe87ac79) |
-| Mon, 23 Mar 2026 13:01:01 GMT | THM Room Writeup — Zeno | Kostas Ereksonas | [Read More](https://medium.com/p/725abe4bdc52) |
-| Mon, 23 Mar 2026 13:01:00 GMT | Fedora Asahi Remix 43 Features and Download | Emilyharbord | [Read More](https://medium.com/p/c8e9effc2e07) |
-| Mon, 23 Mar 2026 12:59:20 GMT | BFSI Cybersecurity Market Emerging Trends, Application Scope, Status, Analysis And Forecast To 2030 | Technology Geek | [Read More](https://medium.com/p/a2d08fcc626c) |
-| Mon, 23 Mar 2026 12:57:02 GMT | Why Smart Businesses Hire N8N Experts to Automate Workflows and Scale Faster in 2026 | n8ndevelopers | [Read More](https://medium.com/p/a5d5f778bf83) |
-| Mon, 23 Mar 2026 12:56:37 GMT | How to Fix the Missing Checkbox “ in Netplwiz: ”Users must enter a user name and password to use… | Ümit Berber | [Read More](https://medium.com/p/f9a18e9120a0) |
