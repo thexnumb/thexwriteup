@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 02:30:09 GMT | Is Privacy a Myth? | Nithin | [Read More](https://medium.com/p/9a5c06179252) |
+| Mon, 23 Mar 2026 02:06:00 GMT | Identity Governance Beyond the Firewall: The New Perimeter | Gabriel Mahia | [Read More](https://medium.com/p/053fcc0dbf33) |
+| Mon, 23 Mar 2026 02:03:22 GMT | HTB Oopsie Writeup Español | Us0lfr | [Read More](https://medium.com/p/e163c3557e3b) |
+| Mon, 23 Mar 2026 02:02:12 GMT | How Darknet Vendors Work: A Clear, Practical Overview | Tor BBB | [Read More](https://medium.com/p/c93f08de40bc) |
+| Mon, 23 Mar 2026 01:58:42 GMT | ทำไมคนเรียน IoT ต้องเริ่มที่ Embedded Systems | ICT MAHIDOL | [Read More](https://medium.com/p/66a602c35124) |
+| Mon, 23 Mar 2026 01:23:22 GMT | LDAP: The Digital Bouncer Standing at Every Corporate Door | Kamlesh Singh | [Read More](https://medium.com/p/fc90977d2610) |
+| Mon, 23 Mar 2026 01:20:12 GMT | Week 2 of HAWD API Security Bootcamp — What I Now Know About Securing APIs | Adesanya Adebowale | [Read More](https://medium.com/p/d4ea9ce4e7ce) |
+| Mon, 23 Mar 2026 01:19:28 GMT | GenAI Security Threats Demystified: Defending against the Confused Deputy -Identity, Authorization… | Mallikarjun Hangargi | [Read More](https://medium.com/p/6c9252f0dbd4) |
+| Mon, 23 Mar 2026 01:07:29 GMT | Blackwall LLM Shield -Because “Hope It Doesn’t Jailbreak” Isn’t a Security Strategy | Devarajanvishnu | [Read More](https://medium.com/p/0074c842be03) |
+| Mon, 23 Mar 2026 01:06:52 GMT | 當全網都在「養龍蝦」 | David Lien | [Read More](https://medium.com/p/1c9e194e4454) |
+| Mon, 23 Mar 2026 01:01:00 GMT | [Fight Club] The Strategic Reclamation of Existential Admin Rights | MonoEssay | [Read More](https://medium.com/p/afc31cb11a24) |
+| Mon, 23 Mar 2026 00:53:19 GMT | Can Using Unlicensed Software Pose a Cyber Threat? | Kavachcyber | [Read More](https://medium.com/p/016e535ce178) |
+| Mon, 23 Mar 2026 00:50:42 GMT | Microsoft Intune Monitoring — TryHackMe | Alejandro Gonzalez | [Read More](https://medium.com/p/d17f1619e87d) |
+| Mon, 23 Mar 2026 00:47:39 GMT | XSS Isn’t a Hacker Problem, it’s a Developer Responsibility | Kehinde Ridwan Onifade | [Read More](https://medium.com/p/0a90b6d68d32) |
+| Mon, 23 Mar 2026 00:43:09 GMT | How I Accidentally Found an Integer Overflow in wolfSSL While Building a Cert Chain (CVE-2026–3229) | MostReal | [Read More](https://medium.com/p/b9fe453682a9) |
+| Sun, 22 Mar 2026 23:20:00 GMT | Part 4 of 10: “The Day the World’s Gas Supply Burned.” | Vogon Slayer | [Read More](https://medium.com/p/2ee2afd4bdb1) |
 | Sun, 22 Mar 2026 23:12:57 GMT | Phishing Sites That Mimic Popular Platforms: How They Work and How to Spot Them | John Evora | [Read More](https://medium.com/p/49a460fcf7fd) |
 | Sun, 22 Mar 2026 23:07:17 GMT | Revolutionizing Identity in the AI Era: Continuous Entropy Factor Authentication — The… | SecureX Blockchain Solutions | [Read More](https://medium.com/p/8668ec22eee6) |
 | Sun, 22 Mar 2026 23:06:42 GMT | How Turkey’s BTK Blocks Websites: A Technical Deep Dive | Pablo Williams | [Read More](https://medium.com/p/1e1574a02ca5) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 15:48:07 GMT | Secure Password Database- PICO ctf | aaruth | [Read More](https://medium.com/p/bf72a60a7a9a) |
 | Sun, 22 Mar 2026 15:47:18 GMT | Crushing the GRC Analyst Interview: The 2026 “No-Robots” Guide | The Daily Cyber News | [Read More](https://medium.com/p/913dee0ecb28) |
 | Sun, 22 Mar 2026 15:41:47 GMT | Between Dignity and Deterrence | Sigrid Gladstone | [Read More](https://medium.com/p/c56defc56c07) |
-| Sun, 22 Mar 2026 15:40:15 GMT | Understanding and Exploiting CVE-2025–32462: A Local Privilege Escalation Vulnerability in Sudo | Awais Akbar | [Read More](https://medium.com/p/3d611279b263) |
-| Sun, 22 Mar 2026 15:37:34 GMT | Keamanan Informasi: Bukan Cuma Urusan Hacker dan IT | Hari Premadasa | [Read More](https://medium.com/p/8f94880f574e) |
-| Sun, 22 Mar 2026 15:37:31 GMT | Quantum Scrambler Picoctf Reverse Engineering | Aun Raza | [Read More](https://medium.com/p/4796e8c03d67) |
-| Sun, 22 Mar 2026 15:34:04 GMT | Assessment Methodologies: Information Gathering CTF 1 — EJPT — INE | Bader Alzoubi | [Read More](https://medium.com/p/7694fbb2a17b) |
-| Sun, 22 Mar 2026 15:23:05 GMT | Vibe Coding Is a Security Disaster That Is About to Happen | Jost Faganel | [Read More](https://medium.com/p/9f72f39756e9) |
-| Sun, 22 Mar 2026 15:23:00 GMT | Uma noite Ninja | Montagem Cinema | [Read More](https://medium.com/p/8ec594cf43a9) |
-| Sun, 22 Mar 2026 15:20:20 GMT | ‍Bulldog: 2 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/85fc947a4276) |
-| Sun, 22 Mar 2026 15:18:33 GMT | The Best Cybersecurity Interview Prep Websites of 2026 [ Detailed Review ] | The Daily Cyber News | [Read More](https://medium.com/p/459c9280e323) |
-| Sun, 22 Mar 2026 15:05:00 GMT | Cyber Security Services - eShield IT Services | Kanahaiya singh | [Read More](https://medium.com/p/10c0534b74f0) |
-| Sun, 22 Mar 2026 15:00:33 GMT | I Pen-Tested a Production AI Agent. It Took 5 Minutes to Own It. | Don Zurbrick | [Read More](https://medium.com/p/e53a2ebab482) |
-| Sun, 22 Mar 2026 14:58:32 GMT | We build the walls we beg to break | Irfan Majeed | [Read More](https://medium.com/p/247aa8032982) |
-| Sun, 22 Mar 2026 14:53:56 GMT | Source code disclosure via backup files - Lab-03 | M o $ t a | [Read More](https://medium.com/p/fb1670dac1a8) |
-| Sun, 22 Mar 2026 14:49:22 GMT | SOLVING CYBER HEROS TRYHACKME | Harilakshman | [Read More](https://medium.com/p/a3a917fa8324) |
-| Sun, 22 Mar 2026 14:45:16 GMT | Understanding the APT Attack Lifecycle | Ashwini Puranik | [Read More](https://medium.com/p/42e8a1aeb5e3) |
-| Sun, 22 Mar 2026 14:39:16 GMT | Ever Connected to Hotel WiFi and Thought “This is Fast”? | Pranav | [Read More](https://medium.com/p/187a9c8062e3) |
-| Sun, 22 Mar 2026 14:36:28 GMT | Keep Your Home Safe with the BESDER 10MP Dual Screen AI WiFi Camera — 2026 Review | Ms maleesha | [Read More](https://medium.com/p/84420d4aeb06) |
