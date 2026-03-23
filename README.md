@@ -12,8 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 06:41:12 GMT | How much storage is lost on RAID 1? | Shreya Loyal | [Read More](https://medium.com/p/921e66ef96db) |
+| Mon, 23 Mar 2026 06:40:01 GMT | 0 click Account Takeover (ATO) via Cross-Event Identity Confusion | 0Xmannaf | [Read More](https://medium.com/p/12a42a84f027) |
+| Mon, 23 Mar 2026 06:37:32 GMT | Basic server-side template injection | Ⓥ | [Read More](https://medium.com/p/28bb9ac638e3) |
+| Mon, 23 Mar 2026 06:33:51 GMT | If I Were an Attacker: Breaking Password Reset Flows | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/7b6a2fb38832) |
+| Mon, 23 Mar 2026 06:32:32 GMT | What Is Remote Code Execution (RCE)? How It Works, Risks & Prevention Guide | Smit Pipaliya | [Read More](https://medium.com/p/9789c7231d82) |
+| Mon, 23 Mar 2026 06:32:01 GMT | Investigating a Brute-Force Attack on a Server — Brutus Sherlock (HTB) | Misbah Ur Rehman | [Read More](https://medium.com/p/639f6e5ff1ee) |
+| Mon, 23 Mar 2026 06:31:22 GMT | Jordak Linux Lab Proving Grounds | Cyb0rgBytes | [Read More](https://medium.com/p/d07b6c12900a) |
+| Mon, 23 Mar 2026 06:31:00 GMT | The Governance of Autonomous Weapons | Vihaan Jain | [Read More](https://medium.com/p/34273a36810d) |
+| Mon, 23 Mar 2026 06:29:31 GMT | Managing Business Operations Made Easy with an All-in-One Business Suite | Gayathri Mk | [Read More](https://medium.com/p/991fce28ee17) |
+| Mon, 23 Mar 2026 06:24:04 GMT | From iframe Injection to Account Takeover (Full Exploit Chain) | 0xRedFox29 | [Read More](https://medium.com/p/424db44a1167) |
+| Mon, 23 Mar 2026 06:22:18 GMT | Most Organisations Reward the Wrong Kind of CISO | Thian Chin | [Read More](https://medium.com/p/08c65f567586) |
+| Mon, 23 Mar 2026 06:15:50 GMT | UAE Foils Massive AI Cyber Attack Targeting Government Systems | Taiyab Lokhandwala | [Read More](https://medium.com/p/c1db9d06b8dd) |
+| Mon, 23 Mar 2026 06:11:25 GMT | RST TI Report Digest: 23 Mar 2026 | RST Cloud | [Read More](https://medium.com/p/007c6447d9bf) |
+| Mon, 23 Mar 2026 06:05:55 GMT | Reliable Cybersecurity Partner for Businesses in Singapore | Black Lock | [Read More](https://medium.com/p/0c2e28110bb7) |
+| Mon, 23 Mar 2026 06:05:25 GMT | Night Patrol Services: Ensuring Safety When the World Sleeps | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/852070a224fb) |
+| Mon, 23 Mar 2026 06:04:44 GMT | OWASP Top 10 2025: Everything That Changed and What It Means for Developers | Kuboid Secure Layer | [Read More](https://medium.com/p/0952b4b9ebbf) |
+| Mon, 23 Mar 2026 06:01:20 GMT | toc2 (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/baa2a9b67d2c) |
+| Mon, 23 Mar 2026 05:48:48 GMT | Online Ho? Toh Secure Bhi Ho! | Dhanashree | [Read More](https://medium.com/p/20d5fc5cd2a0) |
+| Mon, 23 Mar 2026 05:27:28 GMT | Air Handlers & Chiller Cleaning Services in New Zealand | Airrestore | [Read More](https://medium.com/p/7e0d44cc82ac) |
+| Mon, 23 Mar 2026 05:08:52 GMT | The Ghost in the Vault: How we cracked the “Data Residency” Deadlock | Avi Jain | [Read More](https://medium.com/p/6be8b3445f8b) |
 | Mon, 23 Mar 2026 05:01:02 GMT | Cybersecurity in India: Growing Threats in 2026 | Ravalrachana | [Read More](https://medium.com/p/0228b536b256) |
 | Mon, 23 Mar 2026 05:00:15 GMT | The Attack Cost Escalation Model: Why Physical Security Changes Adversary Economics | Kalyan Tamarapalli | [Read More](https://medium.com/p/558a124a9407) |
+| Mon, 23 Mar 2026 04:59:52 GMT | Quick Locksmith — Fast, Reliable Security Solutions When You Need Them Most | N1locksmithsltd | [Read More](https://medium.com/p/d9a5ce6160a5) |
 | Mon, 23 Mar 2026 04:53:47 GMT | I Built an AI-Powered Code Security Auditor That Doesn’t Just Find Bugs — It Fixes Them | Vijay Rachamalla | [Read More](https://medium.com/p/a9a68be63cdd) |
 | Mon, 23 Mar 2026 04:42:32 GMT | What is SSL/TLS and why HTTPS matters networking — Day 14 | 0xSmit | [Read More](https://medium.com/p/c582e7a9117f) |
 | Mon, 23 Mar 2026 04:40:04 GMT | Lineage of Lattice Crypto—Learning With Errors and Rounds | Gokul B Alex | [Read More](https://medium.com/p/c6cb93bea4a9) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 18:38:53 GMT | Firewalls Explained: The First Line of Defense in Network Security | Ndu | [Read More](https://medium.com/p/34d14292d35b) |
 | Sun, 22 Mar 2026 18:31:29 GMT | Zero Trust: Stop Trusting Your Own Network | Moksh S | [Read More](https://medium.com/p/e3602aa19efc) |
 | Sun, 22 Mar 2026 18:28:11 GMT | SQL Injection: Listing Database Contents on Oracle — PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/65bad29440ec) |
-| Sun, 22 Mar 2026 18:27:42 GMT | Lab Title Insecure Direct Object Reference (IDOR) — Accessing Administrator Account | Anonymousd | [Read More](https://medium.com/p/540a45cbe7c4) |
-| Sun, 22 Mar 2026 18:17:50 GMT | How Technology Is Enhancing Patient-Doctor Communication | Sirini Sreeram | [Read More](https://medium.com/p/349e203d594b) |
-| Sun, 22 Mar 2026 18:16:03 GMT | When Zero Trust Meets Reality: Securing IT and OT in Critical Infrastructure | WayneReidUK | [Read More](https://medium.com/p/29ccadbae1b9) |
-| Sun, 22 Mar 2026 18:13:35 GMT | “The Future of AI Will Be Owned — Or It Will Be Broken” | Atieclinton | [Read More](https://medium.com/p/092d63d8b9f6) |
-| Sun, 22 Mar 2026 18:11:00 GMT | No Visibility, No Trust: A Lesson for New Smart Contract Security Researchers | Abraham | [Read More](https://medium.com/p/7882099e63ed) |
-| Sun, 22 Mar 2026 18:08:25 GMT | You Hacked Yourself -And You Didn’t Even Know It | Heet Rajesh Gala | [Read More](https://medium.com/p/4817203c8d78) |
-| Sun, 22 Mar 2026 17:52:50 GMT | Cryptographic Entropy, Chi‑Square, and Serial Correlation: What One Key Can Reveal - Understanding… | XPORT.TOP | [Read More](https://medium.com/p/ca39cd170bc5) |
-| Sun, 22 Mar 2026 17:50:06 GMT | Helpdesk ( Əsas bilməli olduğunuz məqamlar) | Kamalatluxanov | [Read More](https://medium.com/p/a4bb9823f027) |
-| Sun, 22 Mar 2026 17:43:04 GMT | AI IN CYBERSECURITY : The Silent Battle You Don’t See | Nair Swethasuresh | [Read More](https://medium.com/p/7bfc17dcc8b1) |
-| Sun, 22 Mar 2026 17:31:00 GMT | “Globally Disabling the Assessment System” on macOS? Here’s What It Means | Jenny Zeng | [Read More](https://medium.com/p/0c07c4e93a9b) |
-| Sun, 22 Mar 2026 17:27:14 GMT | Building Mini Security Lab: pfSense + Suricata + OpenVPN + pfBlockerNG | n4v33nm | [Read More](https://medium.com/p/bfd60184fab3) |
-| Sun, 22 Mar 2026 17:20:07 GMT | The Silent Threat in the Cloud: Why Your MDM is the CISO’s New Nightmare | Stuardo Rodriguez | [Read More](https://medium.com/p/10598fbe4e4a) |
-| Sun, 22 Mar 2026 17:18:54 GMT | Day 0 — Starting My Cybersecurity Journey From Basics To Advance | Suyash Gargote | [Read More](https://medium.com/p/53eb61be9d78) |
-| Sun, 22 Mar 2026 17:15:27 GMT | Your Employees Are Already Leaking Your Secrets to ChatGPT — Banning It Only Made Things Worse | Ashutosh Singhal | [Read More](https://medium.com/p/a0a93a0fb327) |
-| Sun, 22 Mar 2026 17:06:07 GMT | Breaking into Cyber Threat Intelligence: A Curious Engineer’s Honest First Take | Mariaxmaria | [Read More](https://medium.com/p/c381d141fd1d) |
-| Sun, 22 Mar 2026 16:56:16 GMT | Scapy 101 — Bir Etik Hacker’ın Gözünden Ağ Paketleri | Exript | [Read More](https://medium.com/p/d8f33c389b97) |
-| Sun, 22 Mar 2026 16:54:30 GMT | Ağ Yönetiminin Görünmez Kahramanı: DHCP Nedir, Nasıl Çalışır? (Derinlemesine İnceleme) | Remzi Cenk BOZTEPE | [Read More](https://medium.com/p/bd638b3c3a76) |
-| Sun, 22 Mar 2026 16:54:12 GMT | Insecure Output Handling: Exploiting XSS in LLM Applications (Part 1) | Irem Bezci | [Read More](https://medium.com/p/ad8b992f7e42) |
-| Sun, 22 Mar 2026 16:50:01 GMT | Why Open Source Contributions Matter for Your Career | Theepansutharsan | [Read More](https://medium.com/p/73773b969d4e) |
-| Sun, 22 Mar 2026 16:46:58 GMT | You Accidentally Pushed Your .env File to GitHub — Here's How to Actually Fix It (2026 Guide) | Diwash Bhandari - Software Developer | [Read More](https://medium.com/p/ad6befdca991) |
-| Sun, 22 Mar 2026 16:45:16 GMT | Ditch the Subscriptions: How to Build Your Own VPN from Scratch (and Why You Should) | Monaf Bayoud | [Read More](https://medium.com/p/c86b25a4a5ac) |
