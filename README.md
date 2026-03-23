@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 09:31:30 GMT | Security Operations Centre Insights — Q4 Threat Update | MTI Technology UK | [Read More](https://medium.com/p/86f3d9a158e7) |
+| Mon, 23 Mar 2026 09:31:00 GMT | Your AI Incident Response Plan Doesn’t Exist. It Just Looks Like It Does. | Yash Gorasiya | [Read More](https://medium.com/p/48afaa833c06) |
+| Mon, 23 Mar 2026 09:23:51 GMT | Why Data Security Is Important for Businesses (2026 Guide) | Cloudegytechnology | [Read More](https://medium.com/p/8e0d359996f2) |
+| Mon, 23 Mar 2026 09:20:16 GMT | OverTheWire: Bandit — Level 0 | Studyun | [Read More](https://medium.com/p/b4e36328e7bc) |
+| Mon, 23 Mar 2026 09:13:48 GMT | Fixit — Try Hack Me | Nway Nway Zay Ya | [Read More](https://medium.com/p/2f177c18e2bc) |
+| Mon, 23 Mar 2026 09:10:48 GMT | SCAMLAND CHRONICLES 2: Alex Merry. | Isabel Crenshaw | [Read More](https://medium.com/p/28ad7004ad17) |
+| Mon, 23 Mar 2026 09:10:07 GMT | How to build a custom router and firewall with Opnsense in your Homelab | George Ezejiofor | [Read More](https://medium.com/p/f514472b06e2) |
+| Mon, 23 Mar 2026 09:08:21 GMT | PASETO vs JWT: A Practical, Developer-Friendly Comparison | Vedant Patel | [Read More](https://medium.com/p/8b2fe1373574) |
+| Mon, 23 Mar 2026 09:01:08 GMT | Why Cybersecurity is Critical for Modern Businesses | Jagruti | [Read More](https://medium.com/p/19de7db10907) |
+| Mon, 23 Mar 2026 09:01:00 GMT | My First Encounter With A Computer — And How I Nearly Destroyed It | Alan OGorman | [Read More](https://medium.com/p/b82a1fdf9b98) |
+| Mon, 23 Mar 2026 09:01:00 GMT | USA TikTok Acquisition | Aleia Knight | [Read More](https://medium.com/p/ead90318be9b) |
+| Mon, 23 Mar 2026 08:58:32 GMT | Celebrities Are Human Too: Rethinking Online Behavior | Word Alchemy Studio | [Read More](https://medium.com/p/a9bf201d6344) |
+| Mon, 23 Mar 2026 08:57:01 GMT | A Sneaky LOAP Session Balance Bug That Made Funds Look Missing in TempWallets | TempWallets | [Read More](https://medium.com/p/312adaf230be) |
+| Mon, 23 Mar 2026 08:56:33 GMT | The Dark Side of npm install: How a Fake Job Interview Can Compromise Your Entire System | Ogün Kırıkçı | [Read More](https://medium.com/p/d44536a11ae1) |
+| Mon, 23 Mar 2026 08:47:10 GMT | Here’s What Programming and Technology Taught Me | James Mokaya | [Read More](https://medium.com/p/4a3c030c589f) |
+| Mon, 23 Mar 2026 08:39:28 GMT | How a Forgotten Apache Tomcat Instance Led to Session Hijacking on a Government Server | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/daa0656c8e9e) |
+| Mon, 23 Mar 2026 08:29:07 GMT | Penetration Testing in 2026: The Evolving Landscape of Ethical Hacking | Shreyashettyctr | [Read More](https://medium.com/p/7903f6eff469) |
+| Mon, 23 Mar 2026 08:00:47 GMT | Cicada - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/521426f1cc8a) |
 | Mon, 23 Mar 2026 07:59:45 GMT | Top 15 Kali Linux Tools Used by Ethical Hackers | cyber security Updates | [Read More](https://medium.com/p/8124a60f54c3) |
 | Mon, 23 Mar 2026 07:50:49 GMT | Apple App Attest: A Hardware-Backed Defense Against Bots and Tampered Apps | Tazwarutshas | [Read More](https://medium.com/p/0cd9e1d70a8c) |
 | Mon, 23 Mar 2026 07:48:35 GMT | Gitleaks Killer Unleashed: Scan Secrets 10x Faster Before Hackers Do! | cybrNK | [Read More](https://medium.com/p/20726285d94a) |
@@ -33,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 07:14:32 GMT | PicoCTF (practice) — c0rrupt | hecker | [Read More](https://medium.com/p/d4407dbc2401) |
 | Mon, 23 Mar 2026 07:12:27 GMT | AI-Powered Ethical Hacking: How Hackers & Defenders Use AI | Offensotech | [Read More](https://medium.com/p/1235dfc44dc4) |
 | Mon, 23 Mar 2026 07:08:52 GMT | Pcap Analysis Report: Attribution and Identification of an Infected Host | RD | [Read More](https://medium.com/p/300085168a3c) |
+| Mon, 23 Mar 2026 07:08:33 GMT | Corporate Security Training Fatigue: Why Your Employees Click “Complete” and Learn Absolutely… | Travis Ray Caverhill | [Read More](https://medium.com/p/cf5955c86017) |
 | Mon, 23 Mar 2026 07:07:42 GMT | Why the UAE Golden Visa Is More Valuable Than You Think in 2026 | Emiratesdirectory | [Read More](https://medium.com/p/dd46a58eb670) |
 | Mon, 23 Mar 2026 07:01:01 GMT | Forecasting the Information Ecosystem: What the Water Model Predicts | Oleh Cheslavskyi | [Read More](https://medium.com/p/0e910c920dbc) |
 | Mon, 23 Mar 2026 07:00:43 GMT | Video Streaming Market Size, Share & Growth Analysis | NIkita Poplai | [Read More](https://medium.com/p/76210a349d11) |
@@ -76,6 +95,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 04:15:01 GMT | MacKeeper: The Ultimate Mac Protection and Optimization Tool | Bhawana Sharma | [Read More](https://medium.com/p/c61789849df3) |
 | Mon, 23 Mar 2026 04:14:05 GMT | HMCS Brandon Day Sail | Kate Bandura | [Read More](https://medium.com/p/dcf967db564d) |
 | Mon, 23 Mar 2026 03:59:47 GMT | Why I Stopped Writing Auth Code for Every Project and Built AuthShield | Rgupta | [Read More](https://medium.com/p/52fefa938c54) |
+| Mon, 23 Mar 2026 03:56:44 GMT | What Happens When You Click a Fake Installer? I Built One to Find Out | Mohankrishnaotikunta | [Read More](https://medium.com/p/0d8fc7cb5a98) |
 | Mon, 23 Mar 2026 03:33:57 GMT | Understanding SQL Injection: A Practical Guide | Mubashir | [Read More](https://medium.com/p/a27b9775a9e7) |
 | Mon, 23 Mar 2026 03:19:01 GMT | MCP Security Risks No One Is Talking About (Yet) | Diptendu Das | [Read More](https://medium.com/p/d954a1e7a007) |
 | Mon, 23 Mar 2026 03:04:22 GMT | eJPT INE: Information Gathering CTF 1  Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/4122e8079858) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 01:06:52 GMT | 當全網都在「養龍蝦」 | David Lien | [Read More](https://medium.com/p/1c9e194e4454) |
 | Mon, 23 Mar 2026 01:01:00 GMT | [Fight Club] The Strategic Reclamation of Existential Admin Rights | MonoEssay | [Read More](https://medium.com/p/afc31cb11a24) |
 | Mon, 23 Mar 2026 00:53:19 GMT | Can Using Unlicensed Software Pose a Cyber Threat? | Kavachcyber | [Read More](https://medium.com/p/016e535ce178) |
-| Mon, 23 Mar 2026 00:50:42 GMT | Microsoft Intune Monitoring — TryHackMe | Alejandro Gonzalez | [Read More](https://medium.com/p/d17f1619e87d) |
-| Mon, 23 Mar 2026 00:47:39 GMT | XSS Isn’t a Hacker Problem, it’s a Developer Responsibility | Kehinde Ridwan Onifade | [Read More](https://medium.com/p/0a90b6d68d32) |
-| Mon, 23 Mar 2026 00:43:09 GMT | How I Accidentally Found an Integer Overflow in wolfSSL While Building a Cert Chain (CVE-2026–3229) | MostReal | [Read More](https://medium.com/p/b9fe453682a9) |
-| Sun, 22 Mar 2026 23:20:00 GMT | Part 4 of 10: “The Day the World’s Gas Supply Burned.” | Vogon Slayer | [Read More](https://medium.com/p/2ee2afd4bdb1) |
-| Sun, 22 Mar 2026 23:12:57 GMT | Phishing Sites That Mimic Popular Platforms: How They Work and How to Spot Them | John Evora | [Read More](https://medium.com/p/49a460fcf7fd) |
-| Sun, 22 Mar 2026 23:07:17 GMT | Revolutionizing Identity in the AI Era: Continuous Entropy Factor Authentication — The… | SecureX Blockchain Solutions | [Read More](https://medium.com/p/8668ec22eee6) |
-| Sun, 22 Mar 2026 23:06:42 GMT | How Turkey’s BTK Blocks Websites: A Technical Deep Dive | Pablo Williams | [Read More](https://medium.com/p/1e1574a02ca5) |
-| Sun, 22 Mar 2026 23:04:19 GMT | BloodHound Tool Exposes Hidden Active Directory Risk | SOCFortress | [Read More](https://medium.com/p/40e11b626766) |
-| Sun, 22 Mar 2026 23:01:01 GMT | LetsDefend: MemLoot Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/5e1ded6ca8da) |
-| Sun, 22 Mar 2026 22:59:19 GMT | AI Is No Longer a Tool, It’s a Teammate | Julian Johnson | [Read More](https://medium.com/p/fb2694b97d5e) |
-| Sun, 22 Mar 2026 22:53:29 GMT | Overpass — THM Writeup | res4ad | [Read More](https://medium.com/p/d5d49c5deca5) |
-| Sun, 22 Mar 2026 22:50:54 GMT | APT Recon - Bug Hunter’s Guide | 3L173 H4CK3R 1337 (Elite Hacker 1337) | [Read More](https://medium.com/p/5ba269bce538) |
-| Sun, 22 Mar 2026 22:26:58 GMT | Why LLMs Hallucinate Rather Than Say “I Don’t Know” | Joe El Khoury - AI Engineer | [Read More](https://medium.com/p/f25eee829172) |
-| Sun, 22 Mar 2026 22:08:08 GMT | Self-host LLM Won’t Save Data Privacy: Why Companies Still Move to the Cloud | Denis Urayev | [Read More](https://medium.com/p/d4771993865f) |
-| Sun, 22 Mar 2026 22:03:18 GMT | ️ INE Skill Check Lab: Enumeration | 0xRoot | [Read More](https://medium.com/p/019da58aa620) |
-| Sun, 22 Mar 2026 22:01:09 GMT | Your AI agents send money. To which address? | Alfa | [Read More](https://medium.com/p/5fb1bd5b3ccb) |
-| Sun, 22 Mar 2026 22:00:47 GMT | Making a multi-OS VM sandbox for LAN/WLAN-based cyber attacks and reconnaissance techniques. | Aaradhya Desai | [Read More](https://medium.com/p/d6e479717071) |
-| Sun, 22 Mar 2026 21:33:07 GMT | CTF Pwn103 @ TryHackMe | Rafael David | [Read More](https://medium.com/p/ac7aa60206b7) |
-| Sun, 22 Mar 2026 21:32:37 GMT | The SolarWinds Breach: Why Supply Chain Attacks Changed Cybersecurity Forever | Deniz Vural | [Read More](https://medium.com/p/9a5f03ffcfb6) |
-| Sun, 22 Mar 2026 21:17:12 GMT | A quiet account of who I am now… | One Quiet Voice | [Read More](https://medium.com/p/d8d84e07bb09) |
