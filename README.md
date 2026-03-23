@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 21:51:14 GMT | Building a SOC Lab From Scratch (Part 1) | Tyrone Green | [Read More](https://medium.com/p/1b43cbd51e1d) |
+| Mon, 23 Mar 2026 21:50:25 GMT | General Purpose HSM Vs Payment HSM | Langlaiseric | [Read More](https://medium.com/p/c674678c8a4a) |
+| Mon, 23 Mar 2026 21:34:30 GMT | The Shift From Bad Domains to Trusted Platforms | Chris Zhang | [Read More](https://medium.com/p/a688541399e5) |
+| Mon, 23 Mar 2026 21:14:36 GMT | The Linux Race That Wouldn’t Die: CVE-2025–38617 and the Cost of “Old” Bugs | Ilias Armenakis | [Read More](https://medium.com/p/911a537cf8ad) |
+| Mon, 23 Mar 2026 21:13:09 GMT | PYRAX’s Multi-Layer Defense: Bulletproof Crypto Security | PYRAX Network | [Read More](https://medium.com/p/b48ceef6541e) |
+| Mon, 23 Mar 2026 21:12:03 GMT | Best SharePoint Migration Tools for Microsoft 365 (2026) | Kaushik Kumar | [Read More](https://medium.com/p/46581bcfcf55) |
+| Mon, 23 Mar 2026 21:09:15 GMT | The Hidden Volatility: Anatomy of a Prompt Injection Attack on Dynamic Pricing Engines | Gajjela suryateja | [Read More](https://medium.com/p/205a68ce1b00) |
+| Mon, 23 Mar 2026 21:07:06 GMT | Best Microsoft Teams Migration Tools (2026) | Kaushik Kumar | [Read More](https://medium.com/p/e21dddbf1f14) |
+| Mon, 23 Mar 2026 21:02:12 GMT | Sandboxing OpenAI’s Symphony | Jordane Michon | [Read More](https://medium.com/p/4f091f2ecea3) |
+| Mon, 23 Mar 2026 21:01:53 GMT | C2Lab: Building a Command & Control Infrastructure with Sliver on Azure (IaC + Terraform) | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/f304d1223b02) |
+| Mon, 23 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 32: macOS & Linux | Maximillian Rueda | [Read More](https://medium.com/p/e9ec8cad5e0d) |
 | Mon, 23 Mar 2026 20:45:19 GMT | Splunk vs. Elastic: Which SIEM Is Right for Your Organization? | Andres M | [Read More](https://medium.com/p/1c7f40b15a6d) |
 | Mon, 23 Mar 2026 20:36:53 GMT | OAuth for SaaS: What Every Developer and Technical Leader Needs to Know | MonoCloud | [Read More](https://medium.com/p/37d0a2af7067) |
 | Mon, 23 Mar 2026 20:30:29 GMT | Kali Linux on WSL | Ryan Jay | [Read More](https://medium.com/p/3eccf07550a4) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 15:35:10 GMT | Poisoned Pipeline Execution (PPE) in GitHub Actions | Jarrit Hosking | [Read More](https://medium.com/p/482e671b847c) |
 | Mon, 23 Mar 2026 15:34:30 GMT | When Machines Begin to Think: Will Human Intelligence Still Matter? | Ghaosya | [Read More](https://medium.com/p/6f31d6528215) |
 | Mon, 23 Mar 2026 15:30:03 GMT | The Silent Front: Cyber Warfare in the 2026 Middle East Crisis | Ali Elkhouly | [Read More](https://medium.com/p/cd829af9d0c3) |
-| Mon, 23 Mar 2026 15:27:54 GMT | Arbitrary File Write via Path Traversal in Exported WebView Activity | Mustafa Mohamed | [Read More](https://medium.com/p/01858c67d01e) |
-| Mon, 23 Mar 2026 15:25:53 GMT | CMMC is Here: Making Physical Activity Audit-Ready | Litum | [Read More](https://medium.com/p/c4e458477c06) |
-| Mon, 23 Mar 2026 15:21:01 GMT | Kubernetes Common Issues #13: Pod Security Policy Violation | Nilkanth mistry | [Read More](https://medium.com/p/c79a49c07fb5) |
-| Mon, 23 Mar 2026 15:20:20 GMT | How I Found a Critical Account Takeover Vulnerability in a Password Reset Flow | Ferdus Alam | [Read More](https://medium.com/p/a48d7079fdd7) |
-| Mon, 23 Mar 2026 15:17:42 GMT | Kinsing Miner — how to find and neutralise | Aliaksei Saskevich | [Read More](https://medium.com/p/aac18c58d7a6) |
-| Mon, 23 Mar 2026 15:17:39 GMT | The Conflict Between IT Speed and Security Stability in Modern Digital Enterprises | Digital Defense | [Read More](https://medium.com/p/eb3e9b0221a6) |
-| Mon, 23 Mar 2026 15:17:01 GMT | I Clicked One Email — And That’s All It Took | Hunter.X | [Read More](https://medium.com/p/8d7ade18f549) |
-| Mon, 23 Mar 2026 15:15:47 GMT | Advanced Twitter Automation Safety Strategies Explained | Martina Novakova | [Read More](https://medium.com/p/6066510f7190) |
-| Mon, 23 Mar 2026 15:08:11 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #9 | Antonio Formato | [Read More](https://medium.com/p/72842e8b88f5) |
-| Mon, 23 Mar 2026 15:01:01 GMT | Agents Seem Smart Until Memory Leaks | Velorum | [Read More](https://medium.com/p/471a9ff83a4b) |
-| Mon, 23 Mar 2026 15:00:31 GMT | Kenobi Write-Up - TryHackMe | Nazeer Rassed | [Read More](https://medium.com/p/240a63234d1a) |
