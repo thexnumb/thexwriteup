@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 17:13:11 GMT | XSS Attacks Explained Simply (And How to Stop Them) | Mubashir | [Read More](https://medium.com/p/053a1ed0aa33) |
+| Mon, 23 Mar 2026 17:12:45 GMT | Assessment Methodologies: Vulnerability Assessment CTF 1 (eJPT) | Vanshaj Kumar | [Read More](https://medium.com/p/5915f999c942) |
+| Mon, 23 Mar 2026 17:12:00 GMT | The Invisible Pipeline: A Guide to Compilation, Linking, and Execution | Vishwas Adhikari | [Read More](https://medium.com/p/280862202770) |
+| Mon, 23 Mar 2026 17:02:56 GMT | Catching Trickbot in the Act — Live Credential Theft via HTTP POST | Himanshukumar Modi | [Read More](https://medium.com/p/d4f4aacd6133) |
+| Mon, 23 Mar 2026 17:02:20 GMT | Beyond CVSS: Why Your AI Agents Need a New Kind of Security Scoring | Alessandro Pignati | [Read More](https://medium.com/p/bb50ce5d94f4) |
+| Mon, 23 Mar 2026 17:01:30 GMT | ZombieClaw: The AI Botnet Nobody Is Talking About | Eric Elliott | [Read More](https://medium.com/p/04b0dbf5ed1b) |
+| Mon, 23 Mar 2026 17:01:24 GMT | Failing EJPTv2 Taught Me More Than Passing From 68% to Certified 93% | Randykurtg | [Read More](https://medium.com/p/ccac753820c7) |
+| Mon, 23 Mar 2026 17:01:01 GMT | SOC Analistinin Bilmesi Gereken Araçlar | Arda Kurada | [Read More](https://medium.com/p/eb5c53def93d) |
+| Mon, 23 Mar 2026 16:58:45 GMT | Forget Email Phishing: The 5 Tech Scams Actually Hitting Charlotte Businesses in 2026 | Paradise technologies Inc | [Read More](https://medium.com/p/632f8a2286cb) |
+| Mon, 23 Mar 2026 16:56:18 GMT | 2026 Making money from the other side. | Mr. Bones | [Read More](https://medium.com/p/ac6417467e81) |
+| Mon, 23 Mar 2026 16:53:10 GMT | How to Choose the Best Security Company in Alberta | Hundalprotects | [Read More](https://medium.com/p/b1795032d8f6) |
+| Mon, 23 Mar 2026 16:49:17 GMT | React - HackMyVM Writeup | Cillia | [Read More](https://medium.com/p/809f5596a82f) |
+| Mon, 23 Mar 2026 16:44:42 GMT | Day 1 — Starting My Cybersecurity Journey From Basics To Advance | Suyash Gargote | [Read More](https://medium.com/p/e377e0995d7b) |
+| Mon, 23 Mar 2026 16:39:43 GMT | Ursnif Malware — Reconstructing a 6-Stage Infection Chain from a PCAP | Himanshukumar Modi | [Read More](https://medium.com/p/46b6486c9622) |
+| Mon, 23 Mar 2026 16:39:29 GMT | How Attackers Actually Break Identity Systems | Dr. Shashi Karhail | [Read More](https://medium.com/p/90164b3b36b0) |
+| Mon, 23 Mar 2026 16:39:06 GMT | Commercial Security Camera Trends in Fast-Growing Suburbs like Forney | TrueProtection | [Read More](https://medium.com/p/6be16226ad30) |
+| Mon, 23 Mar 2026 16:33:31 GMT | Net Cat — The swiss knife army tool of networking (hackers Tool) | Akhilswami | [Read More](https://medium.com/p/0c9e9985fb42) |
+| Mon, 23 Mar 2026 16:28:00 GMT | Critical DarkSword Spyware Threat Targets iPhones: Agencies Urge Immediate Patching | Ananthuharikumar | [Read More](https://medium.com/p/f42c655dc211) |
+| Mon, 23 Mar 2026 16:27:13 GMT | Bots and spam? | Richard Banguiz | [Read More](https://medium.com/p/915c9a63eae9) |
+| Mon, 23 Mar 2026 16:19:09 GMT | Why HTTPS Alone Is Not Enough for Sensitive Android Payloads | James Cullimore | [Read More](https://medium.com/p/9ce0bfb99279) |
+| Mon, 23 Mar 2026 16:18:26 GMT | From Execution to Enforcement: Build OpenClaw + NeMoClaw with Code | Jennifer Fu | [Read More](https://medium.com/p/707ddc039e3b) |
+| Mon, 23 Mar 2026 16:14:33 GMT | From Theory to Practice — Azure Authentication in Action | Chris Bao | [Read More](https://medium.com/p/7f04b44c4019) |
+| Mon, 23 Mar 2026 16:13:42 GMT | ISO/IEC 27001:2022 Rehberi (Derinlemesine İnceleme) | Remzi Cenk BOZTEPE | [Read More](https://medium.com/p/846ff53718a2) |
+| Mon, 23 Mar 2026 16:06:56 GMT | Fast Nmap Scanning Script for Pentesting (Optimized for Speed & Accuracy) | elim | [Read More](https://medium.com/p/f9827a4622bb) |
+| Mon, 23 Mar 2026 16:01:52 GMT | Automated Network Recon Workflow for OSCP (Fast & Practical Guide) | elim | [Read More](https://medium.com/p/57e863747091) |
+| Mon, 23 Mar 2026 15:56:00 GMT | How Hackers Use AI to Attack You (And How AI Is Fighting Back) | Mukhtarabdul | [Read More](https://medium.com/p/0dee5c743ca4) |
+| Mon, 23 Mar 2026 15:54:13 GMT | ​Broken Authentication ability to ATO via JWT Algorithm Manipulation | Skysenz | [Read More](https://medium.com/p/bfc2ba500787) |
 | Mon, 23 Mar 2026 15:53:37 GMT | Understanding Credential Exposure Through Memory Analysis (Educational Walkthrough) | zerodaystudios | [Read More](https://medium.com/p/685b5a039a62) |
 | Mon, 23 Mar 2026 15:50:10 GMT | Even Experinced Devs Ignore Security: 10 Best Practices for Production Flutter Apps (Android &… | Akash Senthil | [Read More](https://medium.com/p/e2a34b944ac3) |
 | Mon, 23 Mar 2026 15:49:19 GMT | TryHackMe: Missing Person Writeup | Melisa Nyamukondiwa | [Read More](https://medium.com/p/39936af243e6) |
@@ -32,6 +59,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 15:08:11 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #9 | Antonio Formato | [Read More](https://medium.com/p/72842e8b88f5) |
 | Mon, 23 Mar 2026 15:01:01 GMT | Agents Seem Smart Until Memory Leaks | Velorum | [Read More](https://medium.com/p/471a9ff83a4b) |
 | Mon, 23 Mar 2026 15:00:31 GMT | Kenobi Write-Up - TryHackMe | Nazeer Rassed | [Read More](https://medium.com/p/240a63234d1a) |
+| Mon, 23 Mar 2026 14:52:44 GMT | Cloud 3.0 & Geopatriation: Why Your Data is Moving Back to Canada & the USA | IT_Engineer | [Read More](https://medium.com/p/bcac43403234) |
 | Mon, 23 Mar 2026 14:36:00 GMT | ClamAV ile Spring Boot’ta Virüs Taraması | Yunus Emre Alpu | [Read More](https://medium.com/p/5f57c19c93a2) |
 | Mon, 23 Mar 2026 14:33:54 GMT | Probabilistic Actors in a Deterministic World: The Risks of Enterprise Agentic AI | Namir Sagheenanajar | [Read More](https://medium.com/p/4a792bb72751) |
 | Mon, 23 Mar 2026 14:31:00 GMT | Cyber Insurance Explained: What It Actually Covers, What It Doesn’t, and Whether Your Small… | Sharon Martin | [Read More](https://medium.com/p/eba196f3c857) |
@@ -84,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 12:19:26 GMT | Systems Security Engineering Is a Decision Discipline, Not a Technical Specialty | Peter Hillier/Halton | [Read More](https://medium.com/p/d9bc02ea15f8) |
 | Mon, 23 Mar 2026 12:17:09 GMT | Boosting Security: Integrating SAST into Your DevSecOps CI/CD Pipelines | Ashwitha Halemat | [Read More](https://medium.com/p/8d7f6811ab6b) |
 | Mon, 23 Mar 2026 12:14:02 GMT | IntelOwl: Tehdit İstihbaratını Tek Çatı Altında Toplamak | Kerem Demircan | [Read More](https://medium.com/p/9e8c44614a34) |
-| Mon, 23 Mar 2026 12:12:22 GMT | Platform Security Series [Part 2] | M. Taha Akça | [Read More](https://medium.com/p/a420915133a9) |
-| Mon, 23 Mar 2026 12:06:20 GMT | The Information Game: Who Really Controls the Advantage | Ktiria | [Read More](https://medium.com/p/27a4d085519b) |
-| Mon, 23 Mar 2026 12:05:52 GMT | Affordable Web Servers Explained: Shared vs VPS vs Dedicated — What’s Best for Your Business? | Andy | [Read More](https://medium.com/p/abe8a89f285a) |
-| Mon, 23 Mar 2026 11:59:17 GMT | $8.5 Million Shai Hulud Trust Wallet Crypto Hack | Oran F | [Read More](https://medium.com/p/a89b8745424a) |
-| Mon, 23 Mar 2026 11:57:00 GMT | Best Managed WordPress Hosting for Beginners: Why You Should Skip Shared Hosting | Bandile.T | [Read More](https://medium.com/p/1fafc356a977) |
-| Mon, 23 Mar 2026 11:46:38 GMT | Conquer Services - Professional Security Services Noida | Conquerservices | [Read More](https://medium.com/p/4ca781b685a9) |
-| Mon, 23 Mar 2026 11:36:09 GMT | HTB Academy -API Attacks (Unrestricted Resource Consumption) Exercise Walkthrough | Farouq Hassan | [Read More](https://medium.com/p/8c5f32c9f48e) |
-| Mon, 23 Mar 2026 11:29:00 GMT | I Built a Local AI Agent to Watch My Network — Then It Caught a Shadow I Missed | NetDefender | [Read More](https://medium.com/p/d895fb22d9bd) |
-| Mon, 23 Mar 2026 11:26:00 GMT | If I Were an Attacker: Breaking Signup & Account Creation Systems | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/7594b65105e9) |
-| Mon, 23 Mar 2026 11:23:34 GMT | Why Every Business Needs a Cybersecurity Solutions Provider in 2026 | Boisttechsolutions | [Read More](https://medium.com/p/84cb5b2cd725) |
-| Mon, 23 Mar 2026 11:20:04 GMT | The Ultimate Guide to Cheap Web Hosting in India (2026 Edition) | Mary Thomas | [Read More](https://medium.com/p/4ad9d30b9d90) |
-| Mon, 23 Mar 2026 11:16:00 GMT | I Passed PenTest+ on My 4th Attempt, Here’s What It Actually Took | Brittney Ginther | [Read More](https://medium.com/p/079f6b69d413) |
-| Mon, 23 Mar 2026 11:13:54 GMT | Dynatrace ile GitHub Gelişmiş Güvenlik Açığı Bulgularını Alın ve Zenginleştirin | Perform Yazılım | [Read More](https://medium.com/p/8bb8f055a47f) |
-| Mon, 23 Mar 2026 11:11:57 GMT | RediShell Unmasked: Escaping the Redis Lua Sandbox (CVE-2025–49844) | Makhtar Diop | [Read More](https://medium.com/p/185509897900) |
-| Mon, 23 Mar 2026 11:01:00 GMT | ISO 27001 for Software Engineers | Ruslan Ora | [Read More](https://medium.com/p/3472151fc907) |
-| Mon, 23 Mar 2026 11:01:00 GMT | ANY.RUN at RootedCON 2026: Meeting Security Teams and Showcasing New Capabilities | ANY.RUN | [Read More](https://medium.com/p/eed3afb67013) |
-| Mon, 23 Mar 2026 11:01:00 GMT | Understanding CWE-256: Plaintext Storage of a Password | Walter Moar | [Read More](https://medium.com/p/a0b670a981f9) |
-| Mon, 23 Mar 2026 10:58:18 GMT | Why Success Feels Like a Performance | Hugo Pan | [Read More](https://medium.com/p/90b55a4f4f09) |
-| Mon, 23 Mar 2026 10:58:06 GMT | SharePoint Online Monitoring Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/daecd552b9a9) |
-| Mon, 23 Mar 2026 10:47:57 GMT | Best Free Anonymous Email Services in 2026 (Tested & Ranked) | Warren Smith | [Read More](https://medium.com/p/c78aeef9159d) |
-| Mon, 23 Mar 2026 10:46:07 GMT | Linux Hosting Explained: Benefits, Security & Why It Powers Most Websites? | Janet Watson | [Read More](https://medium.com/p/71c89ca230ef) |
-| Mon, 23 Mar 2026 10:40:37 GMT | Enterprise IT Is Not Failing at AI — It’s Failing at Change | Séв(aѕтιen) L. ⚠ | [Read More](https://medium.com/p/cdccfdefb75d) |
-| Mon, 23 Mar 2026 10:39:25 GMT | My AWS Cloud Practitioner Experience (CLF-C02) — How I Passed in 2 Days | Christopher Ryan | [Read More](https://medium.com/p/005bbc13b742) |
-| Mon, 23 Mar 2026 10:36:18 GMT | a change in your heart | tania | [Read More](https://medium.com/p/2e88ddb4f0ff) |
-| Mon, 23 Mar 2026 10:35:52 GMT | Cyber Security Course with Placement in Mumbai | Ntech Global Solutions | [Read More](https://medium.com/p/2f2ce780eb76) |
-| Mon, 23 Mar 2026 10:29:38 GMT | Malware Analysis: Cold… | SenseiWhou | [Read More](https://medium.com/p/6c544ed8c298) |
-| Mon, 23 Mar 2026 10:29:26 GMT | Best Cybersecurity Monitoring Services Company - CERT-In | Mathewneelan | [Read More](https://medium.com/p/e2c09892eef2) |
-| Mon, 23 Mar 2026 10:28:36 GMT | Securing Your CI/CD Pipeline: 5 Things I Fixed After Realizing How Easy It Is to Break Everything | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/2b1b0f7f6df9) |
