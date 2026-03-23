@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 23:19:00 GMT | Bir Hacker WordPress ve Laravele nasıl saldırır? | Zekikayaalp | [Read More](https://medium.com/p/be7390209ae2) |
+| Mon, 23 Mar 2026 23:03:27 GMT | Hands | Dr Josh Whitman | [Read More](https://medium.com/p/e8078c5c4376) |
 | Mon, 23 Mar 2026 22:32:49 GMT | Using AI for research? SOUP it up | Jonathan Seyfried | [Read More](https://medium.com/p/8bceaf306743) |
 | Mon, 23 Mar 2026 22:30:59 GMT | What happens when airport security becomes a political tool? | Ava Marie Thompson | [Read More](https://medium.com/p/6c3aae5304e7) |
 | Mon, 23 Mar 2026 22:25:46 GMT | How I failed and then conquered the PT1 exam by TryHackMe | Srihari N Narayan | [Read More](https://medium.com/p/2aec7573a2fa) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 16:06:56 GMT | Fast Nmap Scanning Script for Pentesting (Optimized for Speed & Accuracy) | elim | [Read More](https://medium.com/p/f9827a4622bb) |
 | Mon, 23 Mar 2026 16:01:52 GMT | Automated Network Recon Workflow for OSCP (Fast & Practical Guide) | elim | [Read More](https://medium.com/p/57e863747091) |
 | Mon, 23 Mar 2026 15:56:00 GMT | How Hackers Use AI to Attack You (And How AI Is Fighting Back) | Mukhtarabdul | [Read More](https://medium.com/p/0dee5c743ca4) |
-| Mon, 23 Mar 2026 15:55:33 GMT | Kioptrix Level 2 (Kioptrix 1.1) - 03/100 | Veetaragpatil | [Read More](https://medium.com/p/556b1b578296) |
-| Mon, 23 Mar 2026 15:54:13 GMT | ​Broken Authentication ability to ATO via JWT Algorithm Manipulation | Skysenz | [Read More](https://medium.com/p/bfc2ba500787) |
