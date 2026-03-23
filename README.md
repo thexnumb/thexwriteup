@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 05:01:02 GMT | Cybersecurity in India: Growing Threats in 2026 | Ravalrachana | [Read More](https://medium.com/p/0228b536b256) |
+| Mon, 23 Mar 2026 05:00:15 GMT | The Attack Cost Escalation Model: Why Physical Security Changes Adversary Economics | Kalyan Tamarapalli | [Read More](https://medium.com/p/558a124a9407) |
+| Mon, 23 Mar 2026 04:53:47 GMT | I Built an AI-Powered Code Security Auditor That Doesn’t Just Find Bugs — It Fixes Them | Vijay Rachamalla | [Read More](https://medium.com/p/a9a68be63cdd) |
+| Mon, 23 Mar 2026 04:42:32 GMT | What is SSL/TLS and why HTTPS matters networking — Day 14 | 0xSmit | [Read More](https://medium.com/p/c582e7a9117f) |
+| Mon, 23 Mar 2026 04:40:04 GMT | Lineage of Lattice Crypto—Learning With Errors and Rounds | Gokul B Alex | [Read More](https://medium.com/p/c6cb93bea4a9) |
+| Mon, 23 Mar 2026 04:39:45 GMT | What is a proxy server and how it’s used in attacks ? networking — Day 11 | 0xSmit | [Read More](https://medium.com/p/56318bc16fce) |
+| Mon, 23 Mar 2026 04:39:03 GMT | How I Dumped Hundreds of Admin PII in 10 Minutes | Delta | [Read More](https://medium.com/p/868a45efea54) |
+| Mon, 23 Mar 2026 04:35:30 GMT | Security in Fintech: How Companies Protect Your Money Online | Chloe Johnson | [Read More](https://medium.com/p/68c449bf2782) |
+| Mon, 23 Mar 2026 04:32:12 GMT | How Websites Track You (It’s Not Just Cookies) | Hameedduke | [Read More](https://medium.com/p/8dbd4a6b9483) |
+| Mon, 23 Mar 2026 04:25:24 GMT | Why VIPRE Antivirus Is a Trusted Choice for Mac Protection | Bhawana Sharma | [Read More](https://medium.com/p/1c93a2e8255e) |
+| Mon, 23 Mar 2026 04:18:52 GMT | The Architecture of High-Performance Mobile Frameworks in 2026 | Lucas - mega888today | [Read More](https://medium.com/p/ecc7f986779e) |
+| Mon, 23 Mar 2026 04:17:09 GMT | The 5 Fundamental Rules of Thumb for Windows Server Hardening | Vinay Vyas | [Read More](https://medium.com/p/3cb9d04dadc3) |
+| Mon, 23 Mar 2026 04:15:01 GMT | MacKeeper: The Ultimate Mac Protection and Optimization Tool | Bhawana Sharma | [Read More](https://medium.com/p/c61789849df3) |
+| Mon, 23 Mar 2026 04:14:05 GMT | HMCS Brandon Day Sail | Kate Bandura | [Read More](https://medium.com/p/dcf967db564d) |
+| Mon, 23 Mar 2026 03:59:47 GMT | Why I Stopped Writing Auth Code for Every Project and Built AuthShield | Rgupta | [Read More](https://medium.com/p/52fefa938c54) |
+| Mon, 23 Mar 2026 03:33:57 GMT | Understanding SQL Injection: A Practical Guide | Mubashir | [Read More](https://medium.com/p/a27b9775a9e7) |
+| Mon, 23 Mar 2026 03:19:01 GMT | MCP Security Risks No One Is Talking About (Yet) | Diptendu Das | [Read More](https://medium.com/p/d954a1e7a007) |
+| Mon, 23 Mar 2026 03:04:22 GMT | eJPT INE: Information Gathering CTF 1  Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/4122e8079858) |
+| Mon, 23 Mar 2026 02:41:00 GMT | The Science Behind Handling Abrasive Fluids | Antlia Engineering Works | [Read More](https://medium.com/p/262994f4402d) |
 | Mon, 23 Mar 2026 02:30:09 GMT | Is Privacy a Myth? | Nithin | [Read More](https://medium.com/p/9a5c06179252) |
 | Mon, 23 Mar 2026 02:06:00 GMT | Identity Governance Beyond the Firewall: The New Perimeter | Gabriel Mahia | [Read More](https://medium.com/p/053fcc0dbf33) |
 | Mon, 23 Mar 2026 02:03:22 GMT | HTB Oopsie Writeup Español | Us0lfr | [Read More](https://medium.com/p/e163c3557e3b) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Mar 2026 16:50:01 GMT | Why Open Source Contributions Matter for Your Career | Theepansutharsan | [Read More](https://medium.com/p/73773b969d4e) |
 | Sun, 22 Mar 2026 16:46:58 GMT | You Accidentally Pushed Your .env File to GitHub — Here's How to Actually Fix It (2026 Guide) | Diwash Bhandari - Software Developer | [Read More](https://medium.com/p/ad6befdca991) |
 | Sun, 22 Mar 2026 16:45:16 GMT | Ditch the Subscriptions: How to Build Your Own VPN from Scratch (and Why You Should) | Monaf Bayoud | [Read More](https://medium.com/p/c86b25a4a5ac) |
-| Sun, 22 Mar 2026 16:44:34 GMT | Slightly Off Center | Joseph Minton | [Read More](https://medium.com/p/a7fecb6526b3) |
-| Sun, 22 Mar 2026 16:39:48 GMT | Vulnerable leadership and emotional availability are the same | Candy @ Arras Healing | [Read More](https://medium.com/p/e681d1693b31) |
-| Sun, 22 Mar 2026 16:36:34 GMT | Exploiting vsftpd 2.3.4 Using Metasploit: A Simple 20-Step FTP Exploitation Walkthrough | Abhinabo Roy | [Read More](https://medium.com/p/81ef015d2dcf) |
-| Sun, 22 Mar 2026 16:34:25 GMT | The Monoculture will Kill You | Missbe777 | [Read More](https://medium.com/p/f37fb3ac87a1) |
-| Sun, 22 Mar 2026 16:32:26 GMT | AI in Cybersecurity: Protecting the Digital World Smarter Than Ever | Boomika | [Read More](https://medium.com/p/ea30a899fea3) |
-| Sun, 22 Mar 2026 16:23:54 GMT | The Security Threat Your IT Team Cannot Protect You From | MayhemCode | [Read More](https://medium.com/p/7610a8127ff4) |
-| Sun, 22 Mar 2026 16:21:00 GMT | Technical Advisory: Docker Swarm | Portainer.io | [Read More](https://medium.com/p/b85580021e27) |
-| Sun, 22 Mar 2026 16:20:54 GMT | Welcome to My Editorial Index | Ed-it Editions | [Read More](https://medium.com/p/b00319c8a29b) |
-| Sun, 22 Mar 2026 16:20:42 GMT | Your Wins Build Image. Your Failures Build Trust. | Abhinav Misra | [Read More](https://medium.com/p/d640a2732e55) |
-| Sun, 22 Mar 2026 16:19:48 GMT | STRATEGIC PROSPECTUS: THE ARCHITECTURE OF CARE | Corinna Brown | [Read More](https://medium.com/p/13d620357f42) |
-| Sun, 22 Mar 2026 16:16:13 GMT | The Hidden Weapon: How I Turn Mass Assignment into Bounties | @0xuserm9 | [Read More](https://medium.com/p/459d7c35a727) |
-| Sun, 22 Mar 2026 16:09:27 GMT | I Turned a Cyber Attack Into a Graph — Using Kali Linux, Wireshark, and Neo4j | Sai kiran | [Read More](https://medium.com/p/443acb71a325) |
-| Sun, 22 Mar 2026 16:07:49 GMT | The Invisible Story in Your Files: Understanding Metadata and ExifTool | HITESH MAHARJAN | [Read More](https://medium.com/p/265627e5dd4b) |
-| Sun, 22 Mar 2026 16:05:09 GMT | OverTheWire : Wargames — Bandit(11–20) | Pooja J | [Read More](https://medium.com/p/9705763f9bc7) |
-| Sun, 22 Mar 2026 16:00:46 GMT | Challenges as a Security Analyst: Before and After Getting the Job | Antonyrajvedamanickam | [Read More](https://medium.com/p/ac555c75b490) |
-| Sun, 22 Mar 2026 15:57:18 GMT | How to fix the crash of the Medium plugin for WordPress with PHP 8.x | Antonio Troise | [Read More](https://medium.com/p/ea5e15660978) |
-| Sun, 22 Mar 2026 15:48:07 GMT | Secure Password Database- PICO ctf | aaruth | [Read More](https://medium.com/p/bf72a60a7a9a) |
-| Sun, 22 Mar 2026 15:47:18 GMT | Crushing the GRC Analyst Interview: The 2026 “No-Robots” Guide | The Daily Cyber News | [Read More](https://medium.com/p/913dee0ecb28) |
-| Sun, 22 Mar 2026 15:41:47 GMT | Between Dignity and Deterrence | Sigrid Gladstone | [Read More](https://medium.com/p/c56defc56c07) |
