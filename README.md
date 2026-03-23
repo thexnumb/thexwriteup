@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 20:45:19 GMT | Splunk vs. Elastic: Which SIEM Is Right for Your Organization? | Andres M | [Read More](https://medium.com/p/1c7f40b15a6d) |
+| Mon, 23 Mar 2026 20:36:53 GMT | OAuth for SaaS: What Every Developer and Technical Leader Needs to Know | MonoCloud | [Read More](https://medium.com/p/37d0a2af7067) |
+| Mon, 23 Mar 2026 20:30:29 GMT | Kali Linux on WSL | Ryan Jay | [Read More](https://medium.com/p/3eccf07550a4) |
+| Mon, 23 Mar 2026 20:28:08 GMT | The Devices That Teach You How Networks Really Work | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f7eeb828e4a1) |
+| Mon, 23 Mar 2026 20:27:44 GMT | 5 Real Technology Mysteries That Actually Happened | Himanshu Chaudhary | [Read More](https://medium.com/p/3f923e54433e) |
+| Mon, 23 Mar 2026 20:27:20 GMT | File Share to SharePoint Online Migration Tools (2026) | Juliana Reyes | [Read More](https://medium.com/p/bdf52440c1b9) |
+| Mon, 23 Mar 2026 20:25:30 GMT | From Hallucinations to Determinism: Securing RAG Pipelines with n8n and Anthropic Prompt… | Kayra AKTAŞ | [Read More](https://medium.com/p/39f3c68b6ef8) |
+| Mon, 23 Mar 2026 20:24:44 GMT | The Moment You Realize a Network Is Watching You | M_BgBang | [Read More](https://medium.com/p/e0b832ec7fa1) |
+| Mon, 23 Mar 2026 20:24:41 GMT | What He Thinks Vulnerable Means | Elle Beau ❇︎ | [Read More](https://medium.com/p/08ce3303e4e8) |
+| Mon, 23 Mar 2026 20:23:42 GMT | Microsoft Teams Migration for M&A: Tool Comparison (2026) | Juliana Reyes | [Read More](https://medium.com/p/22f5a05ed761) |
+| Mon, 23 Mar 2026 20:22:03 GMT | RDP Üzerinden Gelen Brute Force Saldırısı | Alevdenizakca | [Read More](https://medium.com/p/100da6b52f24) |
+| Mon, 23 Mar 2026 20:16:04 GMT | Microsoft 365 Migration Tools: Complete Comparison (2026) | Marc-André Hallé | [Read More](https://medium.com/p/ba1b06d1077f) |
+| Mon, 23 Mar 2026 20:11:41 GMT | What is SIEM? A Plain-English Guide for IT Teams | Andres M | [Read More](https://medium.com/p/0685c90eb1d9) |
+| Mon, 23 Mar 2026 20:06:47 GMT | Microsoft Teams Migration Tools for MSPs (2026) | Marc-André Hallé | [Read More](https://medium.com/p/315bbbeb604f) |
+| Mon, 23 Mar 2026 20:03:17 GMT | SQL Injection UNION Attack: Determining Number of Columns — PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/b45edf8da5ba) |
+| Mon, 23 Mar 2026 19:57:41 GMT | Compliant but Vulnerable: Why Cyber Resilience Is No Longer a Privilege for Morocco’s OIVs | Aymaneelyamani | [Read More](https://medium.com/p/ec7c0c24de27) |
+| Mon, 23 Mar 2026 19:53:41 GMT | “Not a Security Issue” in PFSense Firewall(Netgate) | dark-haxor | [Read More](https://medium.com/p/dc6957a3f191) |
 | Mon, 23 Mar 2026 19:51:41 GMT | Write-Ups for challenges I created at CAT CTF 26 — Entry Level | db1M | [Read More](https://medium.com/p/7bcfc745956e) |
 | Mon, 23 Mar 2026 19:48:20 GMT | Can We Still Trust What We See? How SynthID Fights the Rise of Deepfakes | Soumyadeep Dey | [Read More](https://medium.com/p/d5e49abeacdc) |
 | Mon, 23 Mar 2026 19:43:06 GMT | I Thought It Was a Container… It Was a Whole Azure VM (RCE Story) | Utkarsh Srivastava | [Read More](https://medium.com/p/7d99d30d5a4a) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 15:08:11 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #9 | Antonio Formato | [Read More](https://medium.com/p/72842e8b88f5) |
 | Mon, 23 Mar 2026 15:01:01 GMT | Agents Seem Smart Until Memory Leaks | Velorum | [Read More](https://medium.com/p/471a9ff83a4b) |
 | Mon, 23 Mar 2026 15:00:31 GMT | Kenobi Write-Up - TryHackMe | Nazeer Rassed | [Read More](https://medium.com/p/240a63234d1a) |
-| Mon, 23 Mar 2026 14:52:44 GMT | Cloud 3.0 & Geopatriation: Why Your Data is Moving Back to Canada & the USA | IT_Engineer | [Read More](https://medium.com/p/bcac43403234) |
-| Mon, 23 Mar 2026 14:36:00 GMT | ClamAV ile Spring Boot’ta Virüs Taraması | Yunus Emre Alpu | [Read More](https://medium.com/p/5f57c19c93a2) |
-| Mon, 23 Mar 2026 14:33:54 GMT | Probabilistic Actors in a Deterministic World: The Risks of Enterprise Agentic AI | Namir Sagheenanajar | [Read More](https://medium.com/p/4a792bb72751) |
-| Mon, 23 Mar 2026 14:31:00 GMT | Cyber Insurance Explained: What It Actually Covers, What It Doesn’t, and Whether Your Small… | Sharon Martin | [Read More](https://medium.com/p/eba196f3c857) |
-| Mon, 23 Mar 2026 14:27:07 GMT | macOS Is No Longer “Safe by Default” – It’s a Prime Target Now | Sharanraju | [Read More](https://medium.com/p/2af4ee1dae4f) |
-| Mon, 23 Mar 2026 14:27:06 GMT | “Compliant” in 4 Hours: The Fake Compliance Scandal That Should Terrify Every Startup | Dhanush N | [Read More](https://medium.com/p/40307cc0aaf8) |
-| Mon, 23 Mar 2026 14:25:35 GMT | Admin Panel Bypass via Unverified Email | Rahimahaq | [Read More](https://medium.com/p/2a50b262d48f) |
-| Mon, 23 Mar 2026 14:25:04 GMT | Why Your Linux VPS Becomes Unresponsive: Inside the Perfctl Malware Attack | Vishath Amarasinghe | [Read More](https://medium.com/p/5771ae2db800) |
-| Mon, 23 Mar 2026 14:24:43 GMT | Ahhhh o Inspect Mode do browser… como me fazes passar vergonha | Joel Jorge Marinho | [Read More](https://medium.com/p/e9d332101727) |
-| Mon, 23 Mar 2026 14:24:02 GMT | The Chinese Government Is Warning Citizens About ‘Raising Lobsters.’ | Menna Adly | [Read More](https://medium.com/p/8c61ea82225f) |
-| Mon, 23 Mar 2026 14:17:58 GMT | My SC-900 Learning Journey (Day 4) — Understanding Identity & Access with Microsoft Entra ID | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/f8e68c386b3c) |
-| Mon, 23 Mar 2026 14:17:48 GMT | Authentication bypass via information disclosure - Lab-04 | M o $ t a | [Read More](https://medium.com/p/b6777b27058f) |
-| Mon, 23 Mar 2026 14:14:30 GMT | Corporate life got me thinking lately… | Palpasa Manandhar | [Read More](https://medium.com/p/4addcec931ff) |
-| Mon, 23 Mar 2026 14:11:25 GMT | CVE-2025–30208 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/3b09fac911a3) |
-| Mon, 23 Mar 2026 14:08:20 GMT | The CORS Wildcard Habit AI Code Assistants Can’t Seem to Break | Support | [Read More](https://medium.com/p/6d1030fceaee) |
-| Mon, 23 Mar 2026 14:05:54 GMT | Web Security Series #8 — Exploiting UNION-Based SQL Injection (SQLi) to Extract User Credentials -… | Laibakashif | [Read More](https://medium.com/p/99bb79cdd2c0) |
-| Mon, 23 Mar 2026 14:01:45 GMT | How does goal-line technology work ? | Jeff Bernard | [Read More](https://medium.com/p/8b4f0f70c12c) |
