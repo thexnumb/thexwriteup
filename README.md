@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 19:51:41 GMT | Write-Ups for challenges I created at CAT CTF 26 — Entry Level | db1M | [Read More](https://medium.com/p/7bcfc745956e) |
+| Mon, 23 Mar 2026 19:48:20 GMT | Can We Still Trust What We See? How SynthID Fights the Rise of Deepfakes | Soumyadeep Dey | [Read More](https://medium.com/p/d5e49abeacdc) |
+| Mon, 23 Mar 2026 19:43:06 GMT | I Thought It Was a Container… It Was a Whole Azure VM (RCE Story) | Utkarsh Srivastava | [Read More](https://medium.com/p/7d99d30d5a4a) |
+| Mon, 23 Mar 2026 19:41:20 GMT | Positive vs Negative Security Model: Which One Actually Scales in 2026? | Hrishidev K V | [Read More](https://medium.com/p/23d3735f438e) |
+| Mon, 23 Mar 2026 19:37:41 GMT | Walkthrough: Sql Map1 (picoCTF 2026) — Bypassing Filters and Cracking Hashes | Sriman kundu | [Read More](https://medium.com/p/d81490724125) |
+| Mon, 23 Mar 2026 19:36:30 GMT | Cross-Site Scripting (XSS ) - When Your Own Website Becomes the Attacker’s Delivery System | Rufus Kehinde | [Read More](https://medium.com/p/19976a0b1251) |
+| Mon, 23 Mar 2026 19:28:38 GMT | Daily Cybersecurity News You Need to Know This Week | Rayhanuddinkhan | [Read More](https://medium.com/p/cfd2c10bd79f) |
+| Mon, 23 Mar 2026 19:26:35 GMT | JSEveryWhere (FlaGyard) | IgnoranzaSolare | [Read More](https://medium.com/p/4b9e638d9b78) |
+| Mon, 23 Mar 2026 19:26:20 GMT | Google’s rewriting headlines, China’s filling orbit, and Musk wants his own chips | Qandeel Akhtar | [Read More](https://medium.com/p/c62a3555989a) |
 | Mon, 23 Mar 2026 19:16:41 GMT | Building a Prompt Guard That Stops Prompt Injection Before It Touches Your LLM | SoulPie | [Read More](https://medium.com/p/d99c1354714c) |
 | Mon, 23 Mar 2026 19:11:39 GMT | Nuclei Cheat Sheet (Basic → Advanced) | Dhruv | [Read More](https://medium.com/p/a1a80374c0ff) |
 | Mon, 23 Mar 2026 19:07:34 GMT | They Trained Him, He Stole From Them, He Cashed Out. | O. J. Okpabi | [Read More](https://medium.com/p/00b02da2ef70) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 14:08:20 GMT | The CORS Wildcard Habit AI Code Assistants Can’t Seem to Break | Support | [Read More](https://medium.com/p/6d1030fceaee) |
 | Mon, 23 Mar 2026 14:05:54 GMT | Web Security Series #8 — Exploiting UNION-Based SQL Injection (SQLi) to Extract User Credentials -… | Laibakashif | [Read More](https://medium.com/p/99bb79cdd2c0) |
 | Mon, 23 Mar 2026 14:01:45 GMT | How does goal-line technology work ? | Jeff Bernard | [Read More](https://medium.com/p/8b4f0f70c12c) |
-| Mon, 23 Mar 2026 13:59:18 GMT | What’s it like working at Accenture Technology as a software engineer? | Jeff Bernard | [Read More](https://medium.com/p/15d2a04782d8) |
-| Mon, 23 Mar 2026 13:55:32 GMT | Don’t feed logs directly to AI systems | Kavish Baghel | [Read More](https://medium.com/p/a0b44cc7f373) |
-| Mon, 23 Mar 2026 13:46:29 GMT | Why Modern Businesses Can’t Ignore Proactive Cybersecurity in 2026 | Sandy Lewis | [Read More](https://medium.com/p/f676605733d5) |
-| Mon, 23 Mar 2026 13:46:23 GMT | Everybody needs love and adventure | Erik Kvam | [Read More](https://medium.com/p/914691713e27) |
-| Mon, 23 Mar 2026 13:37:51 GMT | Grafana Unauthenticated Directory Traversal Exploit (CVE-2021–43798) | Berzan Unsal | [Read More](https://medium.com/p/866f0703717f) |
-| Mon, 23 Mar 2026 13:35:05 GMT | Kraken Account Hacked Without Phishing — Serious Security Failure? | kraken_victim | [Read More](https://medium.com/p/5592e01f5f14) |
-| Mon, 23 Mar 2026 13:34:54 GMT | Y Combinator Just Celebrated Building a Generation of Insecure Startups. Nobody Noticed. | Jost Faganel | [Read More](https://medium.com/p/3e94039aaf2d) |
-| Mon, 23 Mar 2026 13:32:46 GMT | Chocolate Factory [Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/cf9c3893f44e) |
-| Mon, 23 Mar 2026 13:27:34 GMT | The Missing Record in Security Systems | Shumpei Imazu | [Read More](https://medium.com/p/2845cf3a61be) |
