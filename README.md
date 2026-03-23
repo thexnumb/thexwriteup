@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 13:01:52 GMT | AI-Driven Threat Detection in Cybersecurity | cloudseccurity | [Read More](https://medium.com/p/1a7efe87ac79) |
+| Mon, 23 Mar 2026 13:01:01 GMT | THM Room Writeup — Zeno | Kostas Ereksonas | [Read More](https://medium.com/p/725abe4bdc52) |
+| Mon, 23 Mar 2026 12:59:20 GMT | BFSI Cybersecurity Market Emerging Trends, Application Scope, Status, Analysis And Forecast To 2030 | Technology Geek | [Read More](https://medium.com/p/a2d08fcc626c) |
+| Mon, 23 Mar 2026 12:57:02 GMT | Why Smart Businesses Hire N8N Experts to Automate Workflows and Scale Faster in 2026 | n8ndevelopers | [Read More](https://medium.com/p/a5d5f778bf83) |
+| Mon, 23 Mar 2026 12:56:37 GMT | How to Fix the Missing Checkbox “ in Netplwiz: ”Users must enter a user name and password to use… | Ümit Berber | [Read More](https://medium.com/p/f9a18e9120a0) |
+| Mon, 23 Mar 2026 12:50:23 GMT | Brazil Cybersecurity Market Opportunities, Share, Trends, And Forecasted Growth For 2026–2030 | Technology Geek | [Read More](https://medium.com/p/b4235e64aa99) |
+| Mon, 23 Mar 2026 12:46:00 GMT | Cyber Risk Doesn’t Stay in IT — Last Week Proved It Again | Harper Knox | [Read More](https://medium.com/p/79adfb759b34) |
+| Mon, 23 Mar 2026 12:40:28 GMT | CRA Uyum 101: Üreticilerin Teknik Yükümlülükleri | Duygu Fidancıoğlu | [Read More](https://medium.com/p/07cdd3c5fcf4) |
+| Mon, 23 Mar 2026 12:32:45 GMT | TLS Demystified — If You’ve Ever Watched a Spy Movie, You Already Understand TLS | Sushobhit Khanna | [Read More](https://medium.com/p/d1a7c2804c84) |
+| Mon, 23 Mar 2026 12:30:03 GMT | Security IP Market Gains Momentum | David H. Deans | [Read More](https://medium.com/p/e35b854af0da) |
+| Mon, 23 Mar 2026 12:29:42 GMT | OnlyMonster’s Big Security Hole Exposed: Scammer Wins, Devs Beg for Bug Bounty! Rundalya’s Rage | Rundalya Brown | [Read More](https://medium.com/p/4b2145484c80) |
+| Mon, 23 Mar 2026 12:29:42 GMT | OWASP GenAI Data Security: Why Data Is the New Perimeter for AI | Ashwini Puranik | [Read More](https://medium.com/p/fc6555382a2f) |
+| Mon, 23 Mar 2026 12:29:07 GMT | Building a Pro SOC Home Lab for Advanced Threat Hunting: A Hands-on Journey | Welart | [Read More](https://medium.com/p/84f203fd9fbc) |
+| Mon, 23 Mar 2026 12:27:13 GMT | EvilHID: Circuit Python + RP2040-Zero for a Home-Made Rubber Ducky | Sam Rothlisberger | [Read More](https://medium.com/p/18465d9734c8) |
+| Mon, 23 Mar 2026 12:26:19 GMT | Day 64: Agent Auth Protocol, and the tooling landscape (testing the hypothesis) | LAKSHMI VENKATESH | [Read More](https://medium.com/p/39fb58572774) |
+| Mon, 23 Mar 2026 12:22:36 GMT | TryHackMe: Regular Expressions Walkthrough | Anonymousd | [Read More](https://medium.com/p/2c519593dc48) |
+| Mon, 23 Mar 2026 12:20:23 GMT | Mistakes Learned From Reports Rejections | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/f9f9f80d6ba4) |
+| Mon, 23 Mar 2026 12:19:26 GMT | Systems Security Engineering Is a Decision Discipline, Not a Technical Specialty | Peter Hillier/Halton | [Read More](https://medium.com/p/d9bc02ea15f8) |
+| Mon, 23 Mar 2026 12:17:09 GMT | Boosting Security: Integrating SAST into Your DevSecOps CI/CD Pipelines | Ashwitha Halemat | [Read More](https://medium.com/p/8d7f6811ab6b) |
+| Mon, 23 Mar 2026 12:14:02 GMT | IntelOwl: Tehdit İstihbaratını Tek Çatı Altında Toplamak | Kerem Demircan | [Read More](https://medium.com/p/9e8c44614a34) |
+| Mon, 23 Mar 2026 12:12:22 GMT | Platform Security Series [Part 2] | M. Taha Akça | [Read More](https://medium.com/p/a420915133a9) |
+| Mon, 23 Mar 2026 12:06:20 GMT | The Information Game: Who Really Controls the Advantage | Ktiria | [Read More](https://medium.com/p/27a4d085519b) |
+| Mon, 23 Mar 2026 12:05:52 GMT | Affordable Web Servers Explained: Shared vs VPS vs Dedicated — What’s Best for Your Business? | Andy | [Read More](https://medium.com/p/abe8a89f285a) |
+| Mon, 23 Mar 2026 11:59:17 GMT | $8.5 Million Shai Hulud Trust Wallet Crypto Hack | Oran F | [Read More](https://medium.com/p/a89b8745424a) |
+| Mon, 23 Mar 2026 11:57:00 GMT | Best Managed WordPress Hosting for Beginners: Why You Should Skip Shared Hosting | Bandile.T | [Read More](https://medium.com/p/1fafc356a977) |
+| Mon, 23 Mar 2026 11:46:38 GMT | Conquer Services - Professional Security Services Noida | Conquerservices | [Read More](https://medium.com/p/4ca781b685a9) |
 | Mon, 23 Mar 2026 11:36:09 GMT | HTB Academy -API Attacks (Unrestricted Resource Consumption) Exercise Walkthrough | Farouq Hassan | [Read More](https://medium.com/p/8c5f32c9f48e) |
 | Mon, 23 Mar 2026 11:29:00 GMT | I Built a Local AI Agent to Watch My Network — Then It Caught a Shadow I Missed | NetDefender | [Read More](https://medium.com/p/d895fb22d9bd) |
 | Mon, 23 Mar 2026 11:26:00 GMT | If I Were an Attacker: Breaking Signup & Account Creation Systems | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/7594b65105e9) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 07:08:33 GMT | Corporate Security Training Fatigue: Why Your Employees Click “Complete” and Learn Absolutely… | Travis Ray Caverhill | [Read More](https://medium.com/p/cf5955c86017) |
 | Mon, 23 Mar 2026 07:07:42 GMT | Why the UAE Golden Visa Is More Valuable Than You Think in 2026 | Emiratesdirectory | [Read More](https://medium.com/p/dd46a58eb670) |
 | Mon, 23 Mar 2026 07:01:01 GMT | Forecasting the Information Ecosystem: What the Water Model Predicts | Oleh Cheslavskyi | [Read More](https://medium.com/p/0e910c920dbc) |
-| Mon, 23 Mar 2026 07:00:43 GMT | Video Streaming Market Size, Share & Growth Analysis | NIkita Poplai | [Read More](https://medium.com/p/76210a349d11) |
-| Mon, 23 Mar 2026 06:57:06 GMT | IAM vs PAM: Understanding the Backbone of Access Security | Latha | [Read More](https://medium.com/p/079d26f27101) |
-| Mon, 23 Mar 2026 06:52:28 GMT | Weaponized Browser Extensions: The Silent Insider Threat in Organizations | Cynox Security LLP. | [Read More](https://medium.com/p/cb0af9b74df6) |
-| Mon, 23 Mar 2026 06:46:55 GMT | Deception Technology Market: The Silent Shift Toward Proactive Cyber Defense | Prathyusha | [Read More](https://medium.com/p/700bd9fb6948) |
-| Mon, 23 Mar 2026 06:41:12 GMT | How much storage is lost on RAID 1? | Shreya Loyal | [Read More](https://medium.com/p/921e66ef96db) |
-| Mon, 23 Mar 2026 06:40:01 GMT | 0 click Account Takeover (ATO) via Cross-Event Identity Confusion | 0Xmannaf | [Read More](https://medium.com/p/12a42a84f027) |
-| Mon, 23 Mar 2026 06:38:33 GMT | On-Device AI Market Size, Share, Industry Growth — 2033 | NIkita Poplai | [Read More](https://medium.com/p/4c30e6c57aa1) |
-| Mon, 23 Mar 2026 06:37:32 GMT | Basic server-side template injection | Ⓥ | [Read More](https://medium.com/p/28bb9ac638e3) |
-| Mon, 23 Mar 2026 06:33:51 GMT | If I Were an Attacker: Breaking Password Reset Flows | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/7b6a2fb38832) |
-| Mon, 23 Mar 2026 06:32:32 GMT | What Is Remote Code Execution (RCE)? How It Works, Risks & Prevention Guide | Smit Pipaliya | [Read More](https://medium.com/p/9789c7231d82) |
-| Mon, 23 Mar 2026 06:32:01 GMT | Investigating a Brute-Force Attack on a Server — Brutus Sherlock (HTB) | Misbah Ur Rehman | [Read More](https://medium.com/p/639f6e5ff1ee) |
-| Mon, 23 Mar 2026 06:31:22 GMT | Jordak Linux Lab Proving Grounds | Cyb0rgBytes | [Read More](https://medium.com/p/d07b6c12900a) |
-| Mon, 23 Mar 2026 06:31:00 GMT | The Governance of Autonomous Weapons | Vihaan Jain | [Read More](https://medium.com/p/34273a36810d) |
-| Mon, 23 Mar 2026 06:29:31 GMT | Managing Business Operations Made Easy with an All-in-One Business Suite | Gayathri Mk | [Read More](https://medium.com/p/991fce28ee17) |
-| Mon, 23 Mar 2026 06:24:04 GMT | From iframe Injection to Account Takeover (Full Exploit Chain) | 0xRedFox29 | [Read More](https://medium.com/p/424db44a1167) |
-| Mon, 23 Mar 2026 06:22:18 GMT | Most Organisations Reward the Wrong Kind of CISO | Thian Chin | [Read More](https://medium.com/p/08c65f567586) |
-| Mon, 23 Mar 2026 06:15:50 GMT | UAE Foils Massive AI Cyber Attack Targeting Government Systems | Taiyab Lokhandwala | [Read More](https://medium.com/p/c1db9d06b8dd) |
-| Mon, 23 Mar 2026 06:11:25 GMT | RST TI Report Digest: 23 Mar 2026 | RST Cloud | [Read More](https://medium.com/p/007c6447d9bf) |
-| Mon, 23 Mar 2026 06:05:55 GMT | Reliable Cybersecurity Partner for Businesses in Singapore | Black Lock | [Read More](https://medium.com/p/0c2e28110bb7) |
-| Mon, 23 Mar 2026 06:05:25 GMT | Night Patrol Services: Ensuring Safety When the World Sleeps | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/852070a224fb) |
-| Mon, 23 Mar 2026 06:04:44 GMT | OWASP Top 10 2025: Everything That Changed and What It Means for Developers | Kuboid Secure Layer | [Read More](https://medium.com/p/0952b4b9ebbf) |
-| Mon, 23 Mar 2026 06:01:20 GMT | toc2 (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/baa2a9b67d2c) |
-| Mon, 23 Mar 2026 05:48:48 GMT | Online Ho? Toh Secure Bhi Ho! | Dhanashree | [Read More](https://medium.com/p/20d5fc5cd2a0) |
-| Mon, 23 Mar 2026 05:27:28 GMT | Air Handlers & Chiller Cleaning Services in New Zealand | Airrestore | [Read More](https://medium.com/p/7e0d44cc82ac) |
-| Mon, 23 Mar 2026 05:08:52 GMT | The Ghost in the Vault: How we cracked the “Data Residency” Deadlock | Avi Jain | [Read More](https://medium.com/p/6be8b3445f8b) |
-| Mon, 23 Mar 2026 05:01:02 GMT | Cybersecurity in India: Growing Threats in 2026 | Ravalrachana | [Read More](https://medium.com/p/0228b536b256) |
