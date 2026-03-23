@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Mar 2026 22:32:49 GMT | Using AI for research? SOUP it up | Jonathan Seyfried | [Read More](https://medium.com/p/8bceaf306743) |
+| Mon, 23 Mar 2026 22:30:59 GMT | What happens when airport security becomes a political tool? | Ava Marie Thompson | [Read More](https://medium.com/p/6c3aae5304e7) |
+| Mon, 23 Mar 2026 22:25:46 GMT | How I failed and then conquered the PT1 exam by TryHackMe | Srihari N Narayan | [Read More](https://medium.com/p/2aec7573a2fa) |
+| Mon, 23 Mar 2026 22:21:00 GMT | How Does the Spring Boot App Manages Secrets in Production | Vikas Taank | [Read More](https://medium.com/p/7ee036d67960) |
+| Mon, 23 Mar 2026 22:06:19 GMT | Logic Over Locks: How I Unlocked Premium Features on a Free Account | amen | [Read More](https://medium.com/p/7e7859527fe5) |
 | Mon, 23 Mar 2026 21:51:14 GMT | Building a SOC Lab From Scratch (Part 1) | Tyrone Green | [Read More](https://medium.com/p/1b43cbd51e1d) |
 | Mon, 23 Mar 2026 21:50:25 GMT | General Purpose HSM Vs Payment HSM | Langlaiseric | [Read More](https://medium.com/p/c674678c8a4a) |
 | Mon, 23 Mar 2026 21:34:30 GMT | The Shift From Bad Domains to Trusted Platforms | Chris Zhang | [Read More](https://medium.com/p/a688541399e5) |
@@ -20,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 21:12:03 GMT | Best SharePoint Migration Tools for Microsoft 365 (2026) | Kaushik Kumar | [Read More](https://medium.com/p/46581bcfcf55) |
 | Mon, 23 Mar 2026 21:09:15 GMT | The Hidden Volatility: Anatomy of a Prompt Injection Attack on Dynamic Pricing Engines | Gajjela suryateja | [Read More](https://medium.com/p/205a68ce1b00) |
 | Mon, 23 Mar 2026 21:07:06 GMT | Best Microsoft Teams Migration Tools (2026) | Kaushik Kumar | [Read More](https://medium.com/p/e21dddbf1f14) |
+| Mon, 23 Mar 2026 21:03:28 GMT | SOC129 — Successful Local File Inclusion (EventID: 63) | CipherX9F Security | [Read More](https://medium.com/p/439688b7b3ce) |
 | Mon, 23 Mar 2026 21:02:12 GMT | Sandboxing OpenAI’s Symphony | Jordane Michon | [Read More](https://medium.com/p/4f091f2ecea3) |
 | Mon, 23 Mar 2026 21:01:53 GMT | C2Lab: Building a Command & Control Infrastructure with Sliver on Azure (IaC + Terraform) | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/f304d1223b02) |
 | Mon, 23 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 32: macOS & Linux | Maximillian Rueda | [Read More](https://medium.com/p/e9ec8cad5e0d) |
@@ -60,6 +66,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 18:40:08 GMT | Why Cheap PCI Compliance Software Can Cost Your Small Business More | Emory French | [Read More](https://medium.com/p/90633bc39753) |
 | Mon, 23 Mar 2026 18:40:02 GMT | Access Control List’i Kurcalamak — Part 2 | Umuteren | [Read More](https://medium.com/p/b41e21f5e21d) |
 | Mon, 23 Mar 2026 18:36:46 GMT | Why I Chose Cybersecurity: A Purpose Bigger Than Myself | Nidya Alexandra Quinto | [Read More](https://medium.com/p/17aef7b9e732) |
+| Mon, 23 Mar 2026 18:12:08 GMT | The Lab Measured What the Field Already Witnessed: AI Psychosis, Freakshow, and the Architecture… | Berend Watchus | [Read More](https://medium.com/p/5c42889b8ef8) |
 | Mon, 23 Mar 2026 18:08:51 GMT | From Input Filtering to Data Exfiltration: Exploiting CSV Injection in a Real Pentest | Cyber Tamarin | [Read More](https://medium.com/p/6b2909c9282d) |
 | Mon, 23 Mar 2026 18:00:39 GMT | Where Data Lives: Exploring the Locations of Data Centers Behind Social Media Apps | Shavvon Cintron | [Read More](https://medium.com/p/c0d8568f1ab9) |
 | Mon, 23 Mar 2026 17:56:53 GMT | Singapore: The Smart Nation and the Future of QR Security ️ | Crypton Official App | [Read More](https://medium.com/p/2b9c5e8f3335) |
@@ -76,6 +83,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 17:31:27 GMT | How I Stay Ahead in Cyber with Glance: My Self-Hosted Intelligence Dashboard | Michael | [Read More](https://medium.com/p/7409a62d0c45) |
 | Mon, 23 Mar 2026 17:30:47 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 5 | Haxymad | [Read More](https://medium.com/p/a23cce2a6da8) |
 | Mon, 23 Mar 2026 17:16:37 GMT | Spring Security Internals: How Filter Chain Works | Hüsna POYRAZ | [Read More](https://medium.com/p/f296f9bf8f5d) |
+| Mon, 23 Mar 2026 17:15:37 GMT | The Most Critical Vulnerabilities Are Often the Simplest to Exploit | Aniket Singh | [Read More](https://medium.com/p/9b864be1e28d) |
 | Mon, 23 Mar 2026 17:13:11 GMT | XSS Attacks Explained Simply (And How to Stop Them) | Mubashir | [Read More](https://medium.com/p/053a1ed0aa33) |
 | Mon, 23 Mar 2026 17:12:45 GMT | Assessment Methodologies: Vulnerability Assessment CTF 1 (eJPT) | Vanshaj Kumar | [Read More](https://medium.com/p/5915f999c942) |
 | Mon, 23 Mar 2026 17:12:00 GMT | The Invisible Pipeline: A Guide to Compilation, Linking, and Execution | Vishwas Adhikari | [Read More](https://medium.com/p/280862202770) |
@@ -102,13 +110,5 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 16:06:56 GMT | Fast Nmap Scanning Script for Pentesting (Optimized for Speed & Accuracy) | elim | [Read More](https://medium.com/p/f9827a4622bb) |
 | Mon, 23 Mar 2026 16:01:52 GMT | Automated Network Recon Workflow for OSCP (Fast & Practical Guide) | elim | [Read More](https://medium.com/p/57e863747091) |
 | Mon, 23 Mar 2026 15:56:00 GMT | How Hackers Use AI to Attack You (And How AI Is Fighting Back) | Mukhtarabdul | [Read More](https://medium.com/p/0dee5c743ca4) |
+| Mon, 23 Mar 2026 15:55:33 GMT | Kioptrix Level 2 (Kioptrix 1.1) - 03/100 | Veetaragpatil | [Read More](https://medium.com/p/556b1b578296) |
 | Mon, 23 Mar 2026 15:54:13 GMT | ​Broken Authentication ability to ATO via JWT Algorithm Manipulation | Skysenz | [Read More](https://medium.com/p/bfc2ba500787) |
-| Mon, 23 Mar 2026 15:53:37 GMT | Understanding Credential Exposure Through Memory Analysis (Educational Walkthrough) | zerodaystudios | [Read More](https://medium.com/p/685b5a039a62) |
-| Mon, 23 Mar 2026 15:50:10 GMT | Even Experinced Devs Ignore Security: 10 Best Practices for Production Flutter Apps (Android &… | Akash Senthil | [Read More](https://medium.com/p/e2a34b944ac3) |
-| Mon, 23 Mar 2026 15:49:19 GMT | TryHackMe: Missing Person Writeup | Melisa Nyamukondiwa | [Read More](https://medium.com/p/39936af243e6) |
-| Mon, 23 Mar 2026 15:48:45 GMT | Spring Security: A Complete Guide from Basics to Database Authentication | Deepakraj S | [Read More](https://medium.com/p/5dfc740ee3e4) |
-| Mon, 23 Mar 2026 15:38:31 GMT | Most Cybersecurity “Beginners” Are Learning the Wrong Way | Hunter.X | [Read More](https://medium.com/p/d7e985787148) |
-| Mon, 23 Mar 2026 15:36:44 GMT | The Add/On Trap Picoctf Reverse Engineering | Aun Raza | [Read More](https://medium.com/p/4f22f34b8896) |
-| Mon, 23 Mar 2026 15:35:10 GMT | Poisoned Pipeline Execution (PPE) in GitHub Actions | Jarrit Hosking | [Read More](https://medium.com/p/482e671b847c) |
-| Mon, 23 Mar 2026 15:34:30 GMT | When Machines Begin to Think: Will Human Intelligence Still Matter? | Ghaosya | [Read More](https://medium.com/p/6f31d6528215) |
-| Mon, 23 Mar 2026 15:30:03 GMT | The Silent Front: Cyber Warfare in the 2026 Middle East Crisis | Ali Elkhouly | [Read More](https://medium.com/p/cd829af9d0c3) |
