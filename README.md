@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 17:49:15 GMT | TRYHACKME BREAKING RSA | Yiğit İbis | [Read More](https://medium.com/p/7e9f5d435cc2) |
+| Tue, 24 Mar 2026 17:48:00 GMT | The Ultimate Bug Bounty Course: From Zero to Advanced Hacker | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/269160fa6518) |
+| Tue, 24 Mar 2026 17:44:53 GMT | El valor de la complicidad | Diana Santodomingo Soto | [Read More](https://medium.com/p/2c97cf179f1c) |
+| Tue, 24 Mar 2026 17:41:28 GMT | What Comes Next for Healthcare IoT Security? Rethinking AI Beyond Accuracy in Real-World Systems | Naga Prem Sai Nellure | [Read More](https://medium.com/p/288305790376) |
+| Tue, 24 Mar 2026 17:40:42 GMT | The Most Dangerous Cyber Attacks Are Never Fired | Muhammad Ali Khan | [Read More](https://medium.com/p/7815fb3c95b8) |
+| Tue, 24 Mar 2026 17:39:19 GMT | Packets Primer-PicoCTF | Vishnu Vardhan | [Read More](https://medium.com/p/ad7f3f399f95) |
+| Tue, 24 Mar 2026 17:38:54 GMT | Why location.href Isn’t Just a Redirect: | Marduk I Am | [Read More](https://medium.com/p/f7c77c0e4bcd) |
+| Tue, 24 Mar 2026 17:36:53 GMT | Android Hacking: RAW & REAL — AgniOps Security | Un9nplayer | [Read More](https://medium.com/p/0252b5638836) |
+| Tue, 24 Mar 2026 17:33:13 GMT | I helped build a fintech platform. It taught me more about cybersecurity than I expected. | Iwalade Adio | [Read More](https://medium.com/p/2955085c282f) |
+| Tue, 24 Mar 2026 17:23:03 GMT | Android Hacking: RAW & REAL— AgniOps Security | AgniOps | [Read More](https://medium.com/p/a354d3057847) |
+| Tue, 24 Mar 2026 17:21:57 GMT | Why Woodland, CA Residents and Business Owners Are Rethinking Their Security Strategy in 2026 | Uniworth security Editorial | [Read More](https://medium.com/p/602559fa3c35) |
+| Tue, 24 Mar 2026 17:20:41 GMT | Windows Defender’s Dirty Secret: Steal Passwords in Seconds! | cybrNK | [Read More](https://medium.com/p/c70e1637b1c6) |
+| Tue, 24 Mar 2026 17:19:59 GMT | İnternetin Temelleri: İstemci ve Sunucu Mimarisi (Client-Server Basics) | Onur Öztürk | [Read More](https://medium.com/p/dd0125c35a4b) |
+| Tue, 24 Mar 2026 17:18:06 GMT | Is Your Phone Camera Safe? A Cybersecurity Awareness Demo | Nithish vaduganathan | [Read More](https://medium.com/p/af02f611f223) |
+| Tue, 24 Mar 2026 17:17:50 GMT | How Attackers Actually Break Identity Systems | Dr. Shashi Karhail | [Read More](https://medium.com/p/5e46a441b56d) |
+| Tue, 24 Mar 2026 17:12:21 GMT | The Future of Crypto Security Isn’t More Complexity, It’s Better Design | Robert Schmidt | [Read More](https://medium.com/p/0db7b40c3741) |
+| Tue, 24 Mar 2026 17:08:44 GMT | How I Made Over $72,000 From a Single Private Bug Bounty Program Without Chasing Hundreds of… | Ferdus Alam | [Read More](https://medium.com/p/ce014773522c) |
+| Tue, 24 Mar 2026 16:59:30 GMT | Beyond the Eye: The Reality of IDN Homograph Attacks | Muhammad Zeeshan | [Read More](https://medium.com/p/12457b337dee) |
+| Tue, 24 Mar 2026 16:56:00 GMT | Most Bugs Aren’t Bugs. They’re Mismatched Assumptions | Prem Chandak | [Read More](https://medium.com/p/891af941dcb7) |
+| Tue, 24 Mar 2026 16:53:59 GMT | A Lava Lamp Is Protecting Your Password Right Now | Prasanna Brabourame | [Read More](https://medium.com/p/103fcc713c93) |
+| Tue, 24 Mar 2026 16:37:13 GMT | I Followed the Data Trail — It Led Straight to a Production Server | Iski | [Read More](https://medium.com/p/a4ee78a160c0) |
 | Tue, 24 Mar 2026 16:23:34 GMT | Understanding Routing & Routers: How Data Finds Its Path Across Networks | Ndu | [Read More](https://medium.com/p/a4d3c4f5b684) |
 | Tue, 24 Mar 2026 16:23:14 GMT | Understanding VPN: How Secure Communication Works Over the Internet | Ndu | [Read More](https://medium.com/p/559b1f245b5c) |
 | Tue, 24 Mar 2026 16:18:20 GMT | Certified Threat Intelligence Analyst (CTIA): A Complete Guide | Bluecodesecurity | [Read More](https://medium.com/p/937a0a07d439) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 11:40:27 GMT | DES: The Encryption Dinosaur That Still Teaches Us a Lot | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/54936b455e84) |
 | Tue, 24 Mar 2026 11:30:18 GMT | RDP vs. Proprietary Protocols: Which Offers Better Security for Enterprise Access? | Campaign En | [Read More](https://medium.com/p/b38cfbeea6e2) |
 | Tue, 24 Mar 2026 11:29:27 GMT | TryHackMe — Déjà Vu — Ramya Radjesh | Ramya Radjesh | [Read More](https://medium.com/p/bf05c5dbf41d) |
-| Tue, 24 Mar 2026 11:24:44 GMT | Cybersecurity Compliance for Businesses | joe lotus | [Read More](https://medium.com/p/c7d04ed0dc43) |
-| Tue, 24 Mar 2026 11:22:30 GMT | MrRobot Lab — CyberDefenders | M Haq | [Read More](https://medium.com/p/ca1fc920991a) |
-| Tue, 24 Mar 2026 11:19:27 GMT | From Curious to Hired: Practical Entry Level Paths Into IT | TheAWSTrainer | [Read More](https://medium.com/p/07528b9d16cf) |
-| Tue, 24 Mar 2026 11:19:22 GMT | Application Security Testing Best Practices: What Actually Holds Up in Production | I T IDOL Technologies | [Read More](https://medium.com/p/97267aaba5c9) |
-| Tue, 24 Mar 2026 11:12:52 GMT | Building a Lightweight File Integrity Monitor: A Security Journey with Bash, SQLite, and Docker | Alan Varghese | [Read More](https://medium.com/p/80d9889208e6) |
-| Tue, 24 Mar 2026 11:10:34 GMT | Your IT Org Chart Was Designed for 2006. Your Problems Are 2026. | Krishna Vardhan Reddy Seshampally | [Read More](https://medium.com/p/8604d5764349) |
-| Tue, 24 Mar 2026 11:01:00 GMT | NemoClaw 實測憑證竊取 vs 資料外洩 | JH5 | [Read More](https://medium.com/p/2c05595bc971) |
-| Tue, 24 Mar 2026 11:00:50 GMT | Chapter 1: The Great Human Masquerade: Why Your Favorite Brands are Middle School Bullies | Bundled | [Read More](https://medium.com/p/061bec7e0c3e) |
-| Tue, 24 Mar 2026 11:00:47 GMT | Website Maintenance South Africa: The Key to Long-Term Digital Success | Ava Jones | [Read More](https://medium.com/p/677e278b96e6) |
-| Tue, 24 Mar 2026 11:00:09 GMT | OpenAI’s Own AI Agents tried to kill it’s monitoring agent. | Arpit solanki | [Read More](https://medium.com/p/b2b55e470da3) |
-| Tue, 24 Mar 2026 10:59:44 GMT | Get Powerful Retail Success Through Systems For Inventory Management | Somberg | [Read More](https://medium.com/p/1e2513e49e88) |
-| Tue, 24 Mar 2026 10:59:15 GMT | How Much Does Security Camera Monitoring Service Cost? | Doris William | [Read More](https://medium.com/p/7631f30f5dd1) |
-| Tue, 24 Mar 2026 10:53:51 GMT | How Culture Predicts Breach Probability: The Hidden Risk Inside Your Organization | Digital Defense | [Read More](https://medium.com/p/5e044f173263) |
-| Tue, 24 Mar 2026 10:51:53 GMT | How to fix a hacked WordPress site | Andrei | [Read More](https://medium.com/p/130ac0d2436d) |
-| Tue, 24 Mar 2026 10:46:00 GMT | Nice Compliment, You Got There! | Bob Withers | [Read More](https://medium.com/p/d18a878ed294) |
-| Tue, 24 Mar 2026 10:43:34 GMT | Stock Photography Market Outlook 2026–2033 Signals Consistent Growth | NIkita Poplai | [Read More](https://medium.com/p/3d6cd97d185d) |
-| Tue, 24 Mar 2026 10:41:23 GMT | PicoCTF Gatekeeper Writeup | Spandhan Panta | [Read More](https://medium.com/p/c933c1b1aa6a) |
-| Tue, 24 Mar 2026 10:37:45 GMT | Data Breaches Are Rising: Why Your Email Could Be the Next Target. | Pafora Technologies | [Read More](https://medium.com/p/5fb1d1c8efba) |
-| Tue, 24 Mar 2026 10:34:43 GMT | eJPT Footprinting and Scanning CTF 1 Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/d4a662fe0bbd) |
-| Tue, 24 Mar 2026 10:27:32 GMT | AI in Insurance Market Size, Share, Industry Growth — 2033 | NIkita Poplai | [Read More](https://medium.com/p/65a0f3b0ead6) |
-| Tue, 24 Mar 2026 10:20:41 GMT | Artificial Intelligence Trends in 2026: From Experimentation to Real-World Impact | Drmusa | [Read More](https://medium.com/p/ba0d847345f5) |
