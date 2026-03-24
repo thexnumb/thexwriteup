@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 23:32:54 GMT | picoCTF Writeup — Fool the Lockout (Web Exploitation) | mayhack | [Read More](https://medium.com/p/ae1dd6a3d038) |
+| Tue, 24 Mar 2026 23:30:40 GMT | picoCTF Writeup — Failure Failure | mayhack | [Read More](https://medium.com/p/e629a92c3b6f) |
+| Tue, 24 Mar 2026 23:30:09 GMT | The Quiet Siege of Ransomware | Zul Arifin | [Read More](https://medium.com/p/548736129442) |
+| Tue, 24 Mar 2026 23:22:32 GMT | Trezor Customer Service: What Users Should Know | Trezorhelpdesk | [Read More](https://medium.com/p/a4227014de86) |
+| Tue, 24 Mar 2026 23:12:00 GMT | Preventing Overposting in ASP.NET Core JSON Patch APIs | Derek Ji | [Read More](https://medium.com/p/ca19837fe6a5) |
+| Tue, 24 Mar 2026 23:01:02 GMT | Another “Terrifying” Hacker Tool Dropped. I Put a Trap on Port 21 and Went Back to Work. | Hafiq Iqmal | [Read More](https://medium.com/p/72c770e62522) |
+| Tue, 24 Mar 2026 23:00:25 GMT | The 2026 AI Pilot Trap: Why Enterprise Adoption is Scaling While Execution Splinters | Enterprise AI Briefs | [Read More](https://medium.com/p/e28ae398afda) |
+| Tue, 24 Mar 2026 22:52:42 GMT | best tool for online malware detaction | Shahrukhalix | [Read More](https://medium.com/p/afe160b92a2b) |
 | Tue, 24 Mar 2026 22:49:14 GMT | How to Choose the Right Security Guard Company for Your Business | Rsralh | [Read More](https://medium.com/p/a45c4a264ab5) |
 | Tue, 24 Mar 2026 22:44:28 GMT | Securing Your Startup: Strategies for Cybersecurity and Compliance | Iain White | [Read More](https://medium.com/p/af93f70a25ed) |
 | Tue, 24 Mar 2026 22:42:43 GMT | S2S Secrets Management | Desislava Nikolaeva | [Read More](https://medium.com/p/caadee57c859) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 16:23:14 GMT | Understanding VPN: How Secure Communication Works Over the Internet | Ndu | [Read More](https://medium.com/p/559b1f245b5c) |
 | Tue, 24 Mar 2026 16:18:20 GMT | Certified Threat Intelligence Analyst (CTIA): A Complete Guide | Bluecodesecurity | [Read More](https://medium.com/p/937a0a07d439) |
 | Tue, 24 Mar 2026 16:14:33 GMT | Ghizer — LimeSurvey RCE, JDWP on Ghidra, and a Python Import Hijack to Root - TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/0dc31bbcfcac) |
-| Tue, 24 Mar 2026 16:13:24 GMT | The New Industrial Power | In All Media | [Read More](https://medium.com/p/c82952b47e1d) |
-| Tue, 24 Mar 2026 16:03:32 GMT | From Hype to Hardened AI: The End of Agentic Chaos. | Clarencer R. Mercer | [Read More](https://medium.com/p/18460d05eb7d) |
-| Tue, 24 Mar 2026 16:03:12 GMT | OAuth2 Login with Spring Boot: Google & GitHub Integration (Complete Guide) | Deepakraj S | [Read More](https://medium.com/p/66f1116f7326) |
-| Tue, 24 Mar 2026 15:54:36 GMT | Reducing Enterprise Cloud Security Incidents by 60%: An Adaptive Framework for Cyber Risk Modeling… | Taslimmirza Mansur | [Read More](https://medium.com/p/e6c6fe58bb37) |
-| Tue, 24 Mar 2026 15:45:22 GMT | Is AI quietly making your software supply chain less secure? | Cloudsmith | [Read More](https://medium.com/p/e1364de33f9a) |
-| Tue, 24 Mar 2026 15:39:13 GMT | Passkey Management and Account Recovery in Symfony | Matt Mochalkin | [Read More](https://medium.com/p/485c39ac53c0) |
-| Tue, 24 Mar 2026 15:38:02 GMT | TryHackMe: Extract — Writeup | Hikmat Gasimov | [Read More](https://medium.com/p/cb463881d6b3) |
-| Tue, 24 Mar 2026 15:35:58 GMT | Así es como realmente hackean a las pymes (Ciberseguridad para Pymes) | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/82508d6967cb) |
