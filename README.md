@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 08:51:41 GMT | Understanding IP Address and Its Classes (Beginner-Friendly Guide) | Raju | [Read More](https://medium.com/p/c5de2402defb) |
+| Tue, 24 Mar 2026 08:49:30 GMT | TryHackMe Built an AI Pentester Using Your Data : Here’s Why I’m Not Deleting My Account (Yet) | Motasem Hamdan | [Read More](https://medium.com/p/6f967433a883) |
+| Tue, 24 Mar 2026 08:47:00 GMT | Why Fear Sells Better Than Facts: The AI Layoff Narrative | Vijay Kumar Gupta | [Read More](https://medium.com/p/ce9a20839bc4) |
+| Tue, 24 Mar 2026 08:42:52 GMT | Who Will Qatar Blame for Ras Laffan? (And Who Will Actually Get Away With It) | Vogon Slayer | [Read More](https://medium.com/p/791bd6459d0b) |
+| Tue, 24 Mar 2026 08:37:58 GMT | The Lethal Trifecta: The Hidden Attack Surface of Autonomous Assistants | Lokesh Talagatla | [Read More](https://medium.com/p/6cc22680d10e) |
+| Tue, 24 Mar 2026 08:36:24 GMT | วิวัฒนาการของซอฟต์แวร์ความบันเทิงบนมือถือและการปรับปรุงความปลอดภัยในเอเชียตะวันออกเฉียงใต้ 2026 | Joker123 CO TH | [Read More](https://medium.com/p/975a64520a6c) |
+| Tue, 24 Mar 2026 08:20:58 GMT | # ⚠️ DDoS Hücumu Nədir? Sistem Necə Çökür və Niyə Bu Qədər Təhlükəlidir? | cybershieldy.com | [Read More](https://medium.com/p/d9183e123f54) |
+| Tue, 24 Mar 2026 08:10:49 GMT | Emergency Call Bell System for Department Stores: Real-Time Response Solution | Tobetech | [Read More](https://medium.com/p/797c5754208c) |
+| Tue, 24 Mar 2026 08:07:23 GMT | HTTP Basic Auth-LetsDefend Challenge | PhishMonger | [Read More](https://medium.com/p/9f954dfd1774) |
+| Tue, 24 Mar 2026 08:06:33 GMT | Nmap Complete Cheat Sheet 2026: A Practical Guide to Network Scanning and Security | Dargslan | [Read More](https://medium.com/p/4544f759a9c7) |
+| Tue, 24 Mar 2026 08:01:01 GMT | Your iPhone Updated Itself Last Night and You Did Not — Here Is Why That Should Scare You a Little | MayhemCode | [Read More](https://medium.com/p/92bd4ac7b4da) |
+| Tue, 24 Mar 2026 07:58:18 GMT | Unlocking the Web3 Vault: Exposing Sensitive Data via Unprotected debug_traceBlockByNumber | Hacker MD | [Read More](https://medium.com/p/71329b2844a2) |
+| Tue, 24 Mar 2026 07:54:32 GMT | How to Identify, Analyze, and Treat Risks Using ISO/IEC 27005 | Asmeen S D | [Read More](https://medium.com/p/7958a66d12ae) |
+| Tue, 24 Mar 2026 07:53:42 GMT | CVSS v4.0: The Practical Field Guide for Vulnerability Management | Andrey Pautov | [Read More](https://medium.com/p/5b5a59728456) |
+| Tue, 24 Mar 2026 07:47:00 GMT | Practical Guide to SIEM Architecture: Building Scalable, Secure, and Intelligent Security… | Majidbasharat | [Read More](https://medium.com/p/c232cae119b8) |
+| Tue, 24 Mar 2026 07:35:54 GMT | How Can IT Support Improve Business Efficiency? | Rx Technology | [Read More](https://medium.com/p/1c97f36dcffc) |
+| Tue, 24 Mar 2026 07:35:12 GMT | Why Beginners Quit Wireshark Too Early, And What They’re Missing | Fateyaly | [Read More](https://medium.com/p/6ff42a5d1d59) |
 | Tue, 24 Mar 2026 07:28:30 GMT | Infidelity signs in men | Michael Parks | [Read More](https://medium.com/p/770d8bf1409f) |
 | Tue, 24 Mar 2026 07:23:51 GMT | Cloud Data Security in 2026: Risks, Challenges, and Best Practices | Maruti Techlabs | [Read More](https://medium.com/p/8e6f162513dd) |
 | Tue, 24 Mar 2026 07:11:00 GMT | What Really Protects You Isn’t the Deal — It’s Who You’re Dealing With | Ivona Jovanovic | [Read More](https://medium.com/p/4cee7f591d4d) |
@@ -96,20 +113,3 @@ In today’s digital world, relying on just a… | CyberRise Institute | [Read M
 | Mon, 23 Mar 2026 21:51:14 GMT | Building a SOC Lab From Scratch (Part 1) | Tyrone Green | [Read More](https://medium.com/p/1b43cbd51e1d) |
 | Mon, 23 Mar 2026 21:50:25 GMT | General Purpose HSM Vs Payment HSM | Langlaiseric | [Read More](https://medium.com/p/c674678c8a4a) |
 | Mon, 23 Mar 2026 21:34:30 GMT | The Shift From Bad Domains to Trusted Platforms | Chris Zhang | [Read More](https://medium.com/p/a688541399e5) |
-| Mon, 23 Mar 2026 21:14:36 GMT | The Linux Race That Wouldn’t Die: CVE-2025–38617 and the Cost of “Old” Bugs | Ilias Armenakis | [Read More](https://medium.com/p/911a537cf8ad) |
-| Mon, 23 Mar 2026 21:13:09 GMT | PYRAX’s Multi-Layer Defense: Bulletproof Crypto Security | PYRAX Network | [Read More](https://medium.com/p/b48ceef6541e) |
-| Mon, 23 Mar 2026 21:12:03 GMT | Best SharePoint Migration Tools for Microsoft 365 (2026) | Kaushik Kumar | [Read More](https://medium.com/p/46581bcfcf55) |
-| Mon, 23 Mar 2026 21:09:15 GMT | The Hidden Volatility: Anatomy of a Prompt Injection Attack on Dynamic Pricing Engines | Gajjela suryateja | [Read More](https://medium.com/p/205a68ce1b00) |
-| Mon, 23 Mar 2026 21:07:06 GMT | Best Microsoft Teams Migration Tools (2026) | Kaushik Kumar | [Read More](https://medium.com/p/e21dddbf1f14) |
-| Mon, 23 Mar 2026 21:03:28 GMT | SOC129 — Successful Local File Inclusion (EventID: 63) | CipherX9F Security | [Read More](https://medium.com/p/439688b7b3ce) |
-| Mon, 23 Mar 2026 21:02:12 GMT | Sandboxing OpenAI’s Symphony | Jordane Michon | [Read More](https://medium.com/p/4f091f2ecea3) |
-| Mon, 23 Mar 2026 21:01:53 GMT | C2Lab: Building a Command & Control Infrastructure with Sliver on Azure (IaC + Terraform) | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/f304d1223b02) |
-| Mon, 23 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 32: macOS & Linux | Maximillian Rueda | [Read More](https://medium.com/p/e9ec8cad5e0d) |
-| Mon, 23 Mar 2026 20:45:19 GMT | Splunk vs. Elastic: Which SIEM Is Right for Your Organization? | Andres M | [Read More](https://medium.com/p/1c7f40b15a6d) |
-| Mon, 23 Mar 2026 20:36:53 GMT | OAuth for SaaS: What Every Developer and Technical Leader Needs to Know | MonoCloud | [Read More](https://medium.com/p/37d0a2af7067) |
-| Mon, 23 Mar 2026 20:30:29 GMT | Kali Linux on WSL | Ryan Jay | [Read More](https://medium.com/p/3eccf07550a4) |
-| Mon, 23 Mar 2026 20:28:08 GMT | The Devices That Teach You How Networks Really Work | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f7eeb828e4a1) |
-| Mon, 23 Mar 2026 20:27:44 GMT | 5 Real Technology Mysteries That Actually Happened | Himanshu Chaudhary | [Read More](https://medium.com/p/3f923e54433e) |
-| Mon, 23 Mar 2026 20:27:20 GMT | File Share to SharePoint Online Migration Tools (2026) | Juliana Reyes | [Read More](https://medium.com/p/bdf52440c1b9) |
-| Mon, 23 Mar 2026 20:25:30 GMT | From Hallucinations to Determinism: Securing RAG Pipelines with n8n and Anthropic Prompt… | Kayra AKTAŞ | [Read More](https://medium.com/p/39f3c68b6ef8) |
-| Mon, 23 Mar 2026 20:24:44 GMT | The Moment You Realize a Network Is Watching You | M_BgBang | [Read More](https://medium.com/p/e0b832ec7fa1) |
