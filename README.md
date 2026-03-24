@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 09:54:58 GMT | Build a Prompt Injection Tester Agent — An AI Red Team Agent with Zeron ADK (ZAK) | Sakshi | [Read More](https://medium.com/p/a380e6ca8395) |
+| Tue, 24 Mar 2026 09:47:36 GMT | Cybersecurity Crisis Looms as Public iPhone Exploit Kit Leak Threatens Millions | Impact Newswire | [Read More](https://medium.com/p/4a6d2a3e0105) |
+| Tue, 24 Mar 2026 09:39:11 GMT | A.I will make work easy yet | Si Murray | [Read More](https://medium.com/p/35a511fc5240) |
+| Tue, 24 Mar 2026 09:38:24 GMT | CMSpit (THM) Tryhackme WriteUp Only Answer | Lawvye | [Read More](https://medium.com/p/3c5e8f04414d) |
+| Tue, 24 Mar 2026 09:37:09 GMT | Your Governance Program Does Not Need to Wait for IAM Modernization | Openiam | [Read More](https://medium.com/p/7ef508fa8437) |
+| Tue, 24 Mar 2026 09:36:00 GMT | VPN Efsaneleri ve Gerçekler: Gerçekten Görünmez misiniz? | Fatih Yuksektepe | [Read More](https://medium.com/p/5695f1994b61) |
+| Tue, 24 Mar 2026 09:31:00 GMT | ProtonVPN vs TunnelBear: One of These Will Cut You Off. The Other Won’t. | Ed O. - TechEd Shield - TechEd Publishers | [Read More](https://medium.com/p/d794e8a7478f) |
+| Tue, 24 Mar 2026 09:29:01 GMT | Android Application Security: Real-World Vulnerabilities, Exploits & Secure Coding Practices | Kavarhardik | [Read More](https://medium.com/p/582bc532a1d1) |
+| Tue, 24 Mar 2026 09:26:57 GMT | Tinder OSINT Guide: How to Investigate and Expose Catfish Profiles | EINITIAL24 | [Read More](https://medium.com/p/35a8e385c1aa) |
+| Tue, 24 Mar 2026 09:26:15 GMT | Ethernaut00-Hello Ethernaut | DevOZ | [Read More](https://medium.com/p/9160a1a8f9ea) |
+| Tue, 24 Mar 2026 09:25:06 GMT | The Remote Work Surge: Navigating the UAE’s New Cybersecurity Frontier | Atheeafaaf | [Read More](https://medium.com/p/39284955b1fb) |
+| Tue, 24 Mar 2026 09:13:05 GMT | The 2038 Problem: Why Some Computers Could Crash in 2038 | Bilal Ahmad | [Read More](https://medium.com/p/860e4753a5eb) |
+| Tue, 24 Mar 2026 09:04:59 GMT | AI Can Be Hacked With Words — The New Attack Surface Nobody Is Securing | Nisarg Patel | [Read More](https://medium.com/p/2053d1ff4dab) |
+| Tue, 24 Mar 2026 09:04:25 GMT | We Are Not Afraid of AI. We Are Afraid of Losing Control | The Diary of the Next World | [Read More](https://medium.com/p/0f8f62b24f9f) |
 | Tue, 24 Mar 2026 08:51:41 GMT | Understanding IP Address and Its Classes (Beginner-Friendly Guide) | Raju | [Read More](https://medium.com/p/c5de2402defb) |
 | Tue, 24 Mar 2026 08:49:30 GMT | TryHackMe Built an AI Pentester Using Your Data : Here’s Why I’m Not Deleting My Account (Yet) | Motasem Hamdan | [Read More](https://medium.com/p/6f967433a883) |
 | Tue, 24 Mar 2026 08:47:00 GMT | Why Fear Sells Better Than Facts: The AI Layoff Narrative | Vijay Kumar Gupta | [Read More](https://medium.com/p/ce9a20839bc4) |
@@ -99,17 +113,3 @@ In today’s digital world, relying on just a… | CyberRise Institute | [Read M
 | Tue, 24 Mar 2026 01:01:00 GMT | [Dead Poets Society] The Strategic Reclamation of Cognitive Admin Rights | MonoEssay | [Read More](https://medium.com/p/9fc3897f0eda) |
 | Tue, 24 Mar 2026 00:14:10 GMT | How I Stole the Admin’s Cookie — Intigriti challenge-0326 | Mahendra Purbia (Mah3Sec) | [Read More](https://medium.com/p/5a503902d9a0) |
 | Tue, 24 Mar 2026 00:10:30 GMT | The illusion of simple app: what writing test cases taught me about QA | selvas | [Read More](https://medium.com/p/fe5828269d52) |
-| Tue, 24 Mar 2026 00:05:55 GMT | Cloudgoat SNS Secrets Walkthrough | Derek Sneddon | [Read More](https://medium.com/p/dcf85594bec5) |
-| Tue, 24 Mar 2026 00:01:01 GMT | The orWhere Trap: How SQL Operator Precedence Breaks Multi-Tenant Data Isolation in Laravel | Hafiq Iqmal | [Read More](https://medium.com/p/ec598f5a0f27) |
-| Mon, 23 Mar 2026 23:56:57 GMT | The Definitive SQLMap Playbook | Mohammad Sheeraz | [Read More](https://medium.com/p/2101a26aaf90) |
-| Mon, 23 Mar 2026 23:35:15 GMT | Cloudgoat Beanstalk_secrets with Pacu Walkthrough | Derek Sneddon | [Read More](https://medium.com/p/7c23b338052e) |
-| Mon, 23 Mar 2026 23:19:00 GMT | Bir Hacker WordPress ve Laravele nasıl saldırır? | Zekikayaalp | [Read More](https://medium.com/p/be7390209ae2) |
-| Mon, 23 Mar 2026 23:03:27 GMT | Hands | Dr Josh Whitman | [Read More](https://medium.com/p/e8078c5c4376) |
-| Mon, 23 Mar 2026 22:32:49 GMT | Using AI for research? SOUP it up | Jonathan Seyfried | [Read More](https://medium.com/p/8bceaf306743) |
-| Mon, 23 Mar 2026 22:30:59 GMT | What happens when airport security becomes a political tool? | Ava Marie Thompson | [Read More](https://medium.com/p/6c3aae5304e7) |
-| Mon, 23 Mar 2026 22:25:46 GMT | How I failed and then conquered the PT1 exam by TryHackMe | Srihari N Narayan | [Read More](https://medium.com/p/2aec7573a2fa) |
-| Mon, 23 Mar 2026 22:21:00 GMT | How Does the Spring Boot App Manages Secrets in Production | Vikas Taank | [Read More](https://medium.com/p/7ee036d67960) |
-| Mon, 23 Mar 2026 22:06:19 GMT | Logic Over Locks: How I Unlocked Premium Features on a Free Account | amen | [Read More](https://medium.com/p/7e7859527fe5) |
-| Mon, 23 Mar 2026 21:51:14 GMT | Building a SOC Lab From Scratch (Part 1) | Tyrone Green | [Read More](https://medium.com/p/1b43cbd51e1d) |
-| Mon, 23 Mar 2026 21:50:25 GMT | General Purpose HSM Vs Payment HSM | Langlaiseric | [Read More](https://medium.com/p/c674678c8a4a) |
-| Mon, 23 Mar 2026 21:34:30 GMT | The Shift From Bad Domains to Trusted Platforms | Chris Zhang | [Read More](https://medium.com/p/a688541399e5) |
