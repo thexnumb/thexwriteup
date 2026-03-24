@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 10:53:51 GMT | How Culture Predicts Breach Probability: The Hidden Risk Inside Your Organization | Digital Defense | [Read More](https://medium.com/p/5e044f173263) |
+| Tue, 24 Mar 2026 10:51:53 GMT | How to fix a hacked WordPress site | Andrei | [Read More](https://medium.com/p/130ac0d2436d) |
+| Tue, 24 Mar 2026 10:46:00 GMT | Nice Compliment, You Got There! | Bob Withers | [Read More](https://medium.com/p/d18a878ed294) |
+| Tue, 24 Mar 2026 10:43:34 GMT | Stock Photography Market Outlook 2026–2033 Signals Consistent Growth | NIkita Poplai | [Read More](https://medium.com/p/3d6cd97d185d) |
+| Tue, 24 Mar 2026 10:41:23 GMT | PicoCTF Gatekeeper Writeup | Spandhan Panta | [Read More](https://medium.com/p/c933c1b1aa6a) |
+| Tue, 24 Mar 2026 10:37:45 GMT | Data Breaches Are Rising: Why Your Email Could Be the Next Target. | Pafora Technologies | [Read More](https://medium.com/p/5fb1d1c8efba) |
+| Tue, 24 Mar 2026 10:34:43 GMT | eJPT Footprinting and Scanning CTF 1 Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/d4a662fe0bbd) |
+| Tue, 24 Mar 2026 10:27:32 GMT | AI in Insurance Market Size, Share, Industry Growth — 2033 | NIkita Poplai | [Read More](https://medium.com/p/65a0f3b0ead6) |
+| Tue, 24 Mar 2026 10:20:41 GMT | Artificial Intelligence Trends in 2026: From Experimentation to Real-World Impact | Drmusa | [Read More](https://medium.com/p/ba0d847345f5) |
+| Tue, 24 Mar 2026 10:16:00 GMT | The Real Job of a Fractional CISO Is Not to “Advise” | Tyson Martin | [Read More](https://medium.com/p/664bf534c99a) |
+| Tue, 24 Mar 2026 10:14:29 GMT | # HackTheBox vs TryHackMe: Are They Actually Good for Beginners Or Just Popular? | Regan | [Read More](https://medium.com/p/a7f04e997ae1) |
+| Tue, 24 Mar 2026 10:08:43 GMT | Top VAPT Services Provider in India - CERT-In Company | Gowthammathiew | [Read More](https://medium.com/p/ef63d2290147) |
+| Tue, 24 Mar 2026 10:05:15 GMT | Ethernaut01-Fallback | DevOZ | [Read More](https://medium.com/p/43e020161da2) |
+| Tue, 24 Mar 2026 10:03:26 GMT | The Hidden Danger of eval() in Python (and Safer Alternatives) | Arun Mahara | [Read More](https://medium.com/p/0707401e7c9c) |
+| Tue, 24 Mar 2026 10:01:01 GMT | Top 10 Java Security Mistakes You Must Fix in 2026 | Furkan Alnıak | [Read More](https://medium.com/p/6d653b86376a) |
+| Tue, 24 Mar 2026 10:01:01 GMT | The Intern’s Laptop That Exposed an Entire Engineering Team | Alexandre Vandamme | [Read More](https://medium.com/p/9d8d97bb3b10) |
+| Tue, 24 Mar 2026 10:01:01 GMT | What a good Access Control Policy actually covers | Gaurav Shukla | [Read More](https://medium.com/p/bf12c91a9b29) |
+| Tue, 24 Mar 2026 10:00:55 GMT | How I Built a C2 Server in a Few Hours — Part II | entony tocco | [Read More](https://medium.com/p/f2b85a045cb2) |
+| Tue, 24 Mar 2026 09:54:59 GMT | The Moment Secrets Stop Being Configuration | Raymon Epping | [Read More](https://medium.com/p/d9407b9fbf64) |
 | Tue, 24 Mar 2026 09:54:58 GMT | Build a Prompt Injection Tester Agent — An AI Red Team Agent with Zeron ADK (ZAK) | Sakshi | [Read More](https://medium.com/p/a380e6ca8395) |
 | Tue, 24 Mar 2026 09:47:36 GMT | Cybersecurity Crisis Looms as Public iPhone Exploit Kit Leak Threatens Millions | Impact Newswire | [Read More](https://medium.com/p/4a6d2a3e0105) |
 | Tue, 24 Mar 2026 09:39:11 GMT | A.I will make work easy yet | Si Murray | [Read More](https://medium.com/p/35a511fc5240) |
@@ -94,22 +113,3 @@ In today’s digital world, relying on just a… | CyberRise Institute | [Read M
 | Tue, 24 Mar 2026 02:51:01 GMT | Zero Trust Architecture: Why Modern Security Requires “Never Trust, Always Verify” | Azizul maqsud | [Read More](https://medium.com/p/40dfe61cefe5) |
 | Tue, 24 Mar 2026 02:50:00 GMT | checkm8 vs DarkSword: Why the iOS Exploit Everyone Is Talking About Is Not a Jailbreak | 24Rows | [Read More](https://medium.com/p/8584509437e3) |
 | Tue, 24 Mar 2026 02:48:26 GMT | DarkSword: New iOS Exploit Kit Used by Suspected Russian Hackers Steals Passwords, Crypto &… | 24Rows | [Read More](https://medium.com/p/69310b259ab6) |
-| Tue, 24 Mar 2026 02:36:21 GMT | DMZ and MZ — The Security Concepts You’re Already Using in the Cloud (Without Knowing It) | Vansh Uppal | [Read More](https://medium.com/p/fe0042668c63) |
-| Tue, 24 Mar 2026 02:31:00 GMT | Broken Access Control — The #1 Vulnerability on the Web | loopXvedant | [Read More](https://medium.com/p/e54b306c546b) |
-| Tue, 24 Mar 2026 02:17:14 GMT | Unlock Telegram’s Darkest Secrets with This 5-Min Setup Tool! | cybrNK | [Read More](https://medium.com/p/333f6b30fff8) |
-| Tue, 24 Mar 2026 02:16:57 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 7) | Raymond Ebonine | [Read More](https://medium.com/p/7571034fc5b0) |
-| Tue, 24 Mar 2026 02:16:09 GMT | Mastering the Repeater — Your Most Powerful Manual Hacking Weapon | Yamini Yadav_369 | [Read More](https://medium.com/p/0a4644e33c6e) |
-| Tue, 24 Mar 2026 02:14:47 GMT | How to Setup the Wazuh Tool in Ubuntu - Complete Guide | Shahzaib | [Read More](https://medium.com/p/0c2fcb76c1c2) |
-| Tue, 24 Mar 2026 02:07:12 GMT | The Security Scanner turned Spy: GitHub Actions Supply Chain Attacks and the Fix That Works | jason poley | [Read More](https://medium.com/p/19ddf3107593) |
-| Tue, 24 Mar 2026 02:03:12 GMT | When the Fine Is a Joke and the Joke Is on Everyone | Security Memo | [Read More](https://medium.com/p/ed5f7de303da) |
-| Tue, 24 Mar 2026 02:01:44 GMT | The Digital Evolution: A History of Mobile Gaming Culture in Malaysia | Planestupid | [Read More](https://medium.com/p/cc53ba0d7d10) |
-| Tue, 24 Mar 2026 02:01:00 GMT | I Built an AI That Hacks Itself — And It Found 3 Real CVEs in 20 Minutes | Bugitrix | [Read More](https://medium.com/p/25785735199a) |
-| Tue, 24 Mar 2026 01:40:39 GMT | Linux Commands That Reveal Intruders | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/0fc011e3e1a2) |
-| Tue, 24 Mar 2026 01:31:00 GMT | Linux Fundamentals | Anubhav_bora | [Read More](https://medium.com/p/37278c56e9ef) |
-| Tue, 24 Mar 2026 01:27:50 GMT | أحدث قرار هيئة الاتصالات الفيدرالية الأمريكية (FCC) صدمة في سوق أجهزة الشبكات المنزلية بعد إدراج… | Joseph Torvalds | [Read More](https://medium.com/p/c3e342c97ea9) |
-| Tue, 24 Mar 2026 01:17:20 GMT | Navigating the Dark Web: Emerging Market Trends | Tor BBB | [Read More](https://medium.com/p/e7004d0193e9) |
-| Tue, 24 Mar 2026 01:09:22 GMT | From Stored XSS to Cookie Tossing into Credit Card Theft | 3NVZ | [Read More](https://medium.com/p/396b59b49326) |
-| Tue, 24 Mar 2026 01:04:21 GMT | Return - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/8d811ed19bb2) |
-| Tue, 24 Mar 2026 01:01:00 GMT | [Dead Poets Society] The Strategic Reclamation of Cognitive Admin Rights | MonoEssay | [Read More](https://medium.com/p/9fc3897f0eda) |
-| Tue, 24 Mar 2026 00:14:10 GMT | How I Stole the Admin’s Cookie — Intigriti challenge-0326 | Mahendra Purbia (Mah3Sec) | [Read More](https://medium.com/p/5a503902d9a0) |
-| Tue, 24 Mar 2026 00:10:30 GMT | The illusion of simple app: what writing test cases taught me about QA | selvas | [Read More](https://medium.com/p/fe5828269d52) |
