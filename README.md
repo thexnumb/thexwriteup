@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 22:49:14 GMT | How to Choose the Right Security Guard Company for Your Business | Rsralh | [Read More](https://medium.com/p/a45c4a264ab5) |
+| Tue, 24 Mar 2026 22:44:28 GMT | Securing Your Startup: Strategies for Cybersecurity and Compliance | Iain White | [Read More](https://medium.com/p/af93f70a25ed) |
+| Tue, 24 Mar 2026 22:42:43 GMT | S2S Secrets Management | Desislava Nikolaeva | [Read More](https://medium.com/p/caadee57c859) |
+| Tue, 24 Mar 2026 22:36:03 GMT | How to Install a Splunk Developer License in Your Splunk Enterprise Instance | Tijan Hydara | [Read More](https://medium.com/p/e97ec071ea4e) |
+| Tue, 24 Mar 2026 22:32:25 GMT | 5 Signs Your IT Team Needs a Log Management Tool | Andres M | [Read More](https://medium.com/p/081160cc40ab) |
+| Tue, 24 Mar 2026 22:24:34 GMT | Try Hack Me- CyberCrafted CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/633c8bb1f547) |
+| Tue, 24 Mar 2026 22:19:05 GMT | Beyond the Checkbox: 6 Hard-Hitting Truths from the FBI’s “Operation Winter SHIELD” | CCD-IS | [Read More](https://medium.com/p/d78df729e74a) |
+| Tue, 24 Mar 2026 22:15:14 GMT | From IDOR to Admin Takeover: How I Accidentally Walked Into an ATO | El Professor Qais | [Read More](https://medium.com/p/8ec9f7b034c8) |
+| Tue, 24 Mar 2026 22:12:36 GMT | I Tested PentAGI. Here’s What Actually Happened. | Faizan Ahmad Khan | [Read More](https://medium.com/p/e83756580719) |
+| Tue, 24 Mar 2026 22:11:27 GMT | Why Writing More Code Wasn’t Making You Smarter | Hirepentester | [Read More](https://medium.com/p/75de47c47d18) |
+| Tue, 24 Mar 2026 22:01:57 GMT | Ağ İletişimini Anlamanın En Kolay Yolu: OSI ve TCP/IP Modelleri | Onur Yaylalı | [Read More](https://medium.com/p/4d1c072fa97a) |
 | Tue, 24 Mar 2026 21:51:00 GMT | AI-Powered Cyber Attacks and Their Defense | Joshua Moses | [Read More](https://medium.com/p/afa464b4aae4) |
 | Tue, 24 Mar 2026 21:50:42 GMT | A Guide to Cyber Security Governance for Australian Business Owners | Future IT Services | [Read More](https://medium.com/p/eebb6fed2da3) |
 | Tue, 24 Mar 2026 21:50:20 GMT | How does it feel when you are a penetration tester? | Hirepentester | [Read More](https://medium.com/p/91be2f83c433) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 15:39:13 GMT | Passkey Management and Account Recovery in Symfony | Matt Mochalkin | [Read More](https://medium.com/p/485c39ac53c0) |
 | Tue, 24 Mar 2026 15:38:02 GMT | TryHackMe: Extract — Writeup | Hikmat Gasimov | [Read More](https://medium.com/p/cb463881d6b3) |
 | Tue, 24 Mar 2026 15:35:58 GMT | Así es como realmente hackean a las pymes (Ciberseguridad para Pymes) | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/82508d6967cb) |
-| Tue, 24 Mar 2026 15:34:05 GMT | Why Most Startups Have Never Been Pentested | Mikuláš Třos | [Read More](https://medium.com/p/41dd5a882995) |
-| Tue, 24 Mar 2026 15:31:00 GMT | How I Investigated a Credential Stuffing Attack That Almost Nobody Noticed | Manubhav Sharma | [Read More](https://medium.com/p/c67288777843) |
-| Tue, 24 Mar 2026 15:12:14 GMT | *Infinite+ Free Developer Tools — No Signup, No Tracking* | Shahmeer farhan | [Read More](https://medium.com/p/c64ece82fcd3) |
-| Tue, 24 Mar 2026 15:11:00 GMT | How Ask Linc Protects Your Financial Data | Ethan Teng | [Read More](https://medium.com/p/3da0fc8dc7b2) |
-| Tue, 24 Mar 2026 15:10:20 GMT | I Thought I Understood Vulnerability Scanning. Then I Actually Did It. | FıratCan Bekar | [Read More](https://medium.com/p/4a0bc8c1b95f) |
-| Tue, 24 Mar 2026 15:09:46 GMT | ️ TryHackMe Write-up: From SQL Injection to Root Access | Rayenhafsawy | [Read More](https://medium.com/p/6b6b9e92705a) |
-| Tue, 24 Mar 2026 15:01:01 GMT | Assisted Continuous Assurance: If I Were Building an AppSec Program That Matched Engineering Speed… | Aparna Ash Himmatramka | [Read More](https://medium.com/p/08ff8afd9153) |
-| Tue, 24 Mar 2026 15:00:05 GMT | Vulnhub DC-1 Walkthrough | Bazil Brohi | [Read More](https://medium.com/p/939303a5b70a) |
-| Tue, 24 Mar 2026 14:57:30 GMT | Misconfigured SSO Led to a Critical Issue | Rahul Singh Chauhan | [Read More](https://medium.com/p/81c4c11d1a48) |
-| Tue, 24 Mar 2026 14:51:27 GMT | XPFarm: Top 10 AI Tools for Cybersecurity Automation | Pentester Club | [Read More](https://medium.com/p/2fc6363bea74) |
-| Tue, 24 Mar 2026 14:48:08 GMT | How Trivy — A Tool Built to Find Vulnerabilities — Became One | Om Khard | [Read More](https://medium.com/p/08d40c178070) |
