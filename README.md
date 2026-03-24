@@ -12,6 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 13:51:42 GMT | GDPR-Compliant Contact Form APIs: A Beginner-Friendly Guide | ContactFormToAnyAPI | [Read More](https://medium.com/p/6aa7547a5730) |
+| Tue, 24 Mar 2026 13:46:43 GMT | Securing Your Ollama Instance with Caddy Bearer Authentication | Dmitry Maslov | [Read More](https://medium.com/p/a2f131ae0101) |
+| Tue, 24 Mar 2026 13:46:00 GMT | Garage Door Repair Guide Stamford CT - Up & Down Garage Door | Up & Down Garage Door Services | [Read More](https://medium.com/p/04c6acf516df) |
+| Tue, 24 Mar 2026 13:43:15 GMT | Secuview WiFi Indoor 2K PTZ Baby Monitor Camera | secuview | [Read More](https://medium.com/p/faa460e1ce9d) |
+| Tue, 24 Mar 2026 13:42:32 GMT | Secuview 8Mp indoor IP Camera - Smart Detection & ONVIF Support. | secuview | [Read More](https://medium.com/p/0a644730ef84) |
+| Tue, 24 Mar 2026 13:35:08 GMT | How Cybersecurity Services Solve Hidden Cyber Risks in Daily Business Operations | Ancrew Global Services | [Read More](https://medium.com/p/8c222553ff81) |
+| Tue, 24 Mar 2026 13:32:36 GMT | Uncontrolled Access in Your Agentic Automation Is a Breach Waiting to Happen | Frank Kresse | [Read More](https://medium.com/p/df89e8ff7b85) |
+| Tue, 24 Mar 2026 13:31:01 GMT | How RFID Wristbands Enhance Event and Access Control Systems | Abby Qiu | [Read More](https://medium.com/p/0ccbb07743bd) |
+| Tue, 24 Mar 2026 13:31:00 GMT | VPAT and Accessibility The Hidden Risks in Digital Compliance | Cyber Aries | [Read More](https://medium.com/p/54bdf811cf23) |
+| Tue, 24 Mar 2026 13:27:30 GMT | FTP Enumeration to Exploitation (vsFTPd 2.3.4) — Metasploitable2 Walkthrough | Subrat Samantaray | [Read More](https://medium.com/p/4aad0ba78c2b) |
+| Tue, 24 Mar 2026 13:26:14 GMT | How Hackers Break Into Security Cameras (And How to Protect Yours) | Temma | [Read More](https://medium.com/p/422b937e9e86) |
+| Tue, 24 Mar 2026 13:22:08 GMT | Forget the Model War: China Just Won the AI Agent Race — And It Started With a Lobster | Tatsuru Okada | [Read More](https://medium.com/p/3af488a4bc0b) |
+| Tue, 24 Mar 2026 13:22:02 GMT | Dav [Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/2468f635ce72) |
+| Tue, 24 Mar 2026 13:18:44 GMT | Information disclosure in version control history - Lab-05 | M o $ t a | [Read More](https://medium.com/p/60090c5f3b42) |
+| Tue, 24 Mar 2026 13:16:05 GMT | CRA Uyum 101 : Teknik Yükümlülükleri Nasıl Uygulayalım? | Duygu Fidancıoğlu | [Read More](https://medium.com/p/59eff4d6c40e) |
+| Tue, 24 Mar 2026 13:12:11 GMT | The Next Bitcoin Mining Boom Has Already Started, Most People Haven’t Noticed Yet | OneMiners | [Read More](https://medium.com/p/c404a0b7ce45) |
+| Tue, 24 Mar 2026 13:06:39 GMT | THE WORLD IS SPENDING TRILLIONS ON WAR AND WONDERING WHY BIRTH RATES ARE FALLING | Dreams On Gasoline | [Read More](https://medium.com/p/7ea00d465253) |
+| Tue, 24 Mar 2026 13:03:26 GMT | Bug Bounty Kya Hota Hai? Bilkul Zero Se Samjho (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/d48c5d126759) |
+| Tue, 24 Mar 2026 13:02:07 GMT | Not Just Artificial Intelligence, It’s AI + U(You) | Gamuchirai | [Read More](https://medium.com/p/9550d50345ad) |
+| Tue, 24 Mar 2026 13:01:03 GMT | [V for Vendetta] The Decentralized Network of Ideas | MonoEssay | [Read More](https://medium.com/p/ae65cfe097be) |
+| Tue, 24 Mar 2026 12:51:00 GMT | Why DIY Garage Door Spring Tools Fail - 24H Garage Doors | 24H Garage Doors | [Read More](https://medium.com/p/cc66b42ec769) |
+| Tue, 24 Mar 2026 12:28:24 GMT | Thick Client Security Testing — Static Analysis PART-2 | Madhumathi chamarthi | [Read More](https://medium.com/p/8c03b1301e0b) |
+| Tue, 24 Mar 2026 12:26:00 GMT | Garage Door Tune-Up and Inspection | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/d6ca1c097f0c) |
+| Tue, 24 Mar 2026 12:25:20 GMT | Best Free CCTV App for Android Old Phone: Turn Your Device into a Security Camera (Free) | CCTV Mobile Camera | [Read More](https://medium.com/p/78ad092c29b3) |
+| Tue, 24 Mar 2026 12:23:29 GMT | What is the wifi hacking, and how can you protect yourself | Nagendra - cybersecurity & Tech writer | [Read More](https://medium.com/p/202b5c56ecbb) |
+| Tue, 24 Mar 2026 12:19:08 GMT | On-Path Attacks Explained: How Hackers Secretly Intercept Your Internet Traffic | Rishav Kapil | [Read More](https://medium.com/p/3ff169e2e729) |
+| Tue, 24 Mar 2026 12:11:33 GMT | The Quiet Architecture of Resilience | Iman Ahmed | [Read More](https://medium.com/p/e792de6354a5) |
+| Tue, 24 Mar 2026 12:10:24 GMT | I Didn’t Need Another AI Tool — Until Kling AI Changed How I Tell Stories | The Informed Mind | [Read More](https://medium.com/p/35c60a7789a5) |
+| Tue, 24 Mar 2026 12:10:10 GMT | OverTheWire Bandit Walkthrough — Level 4 → 5 - 30-Day Cybersecurity Learning Journey (Day 5) | William | [Read More](https://medium.com/p/eed8de277f30) |
+| Tue, 24 Mar 2026 12:10:00 GMT | Secrets Management in 2026: Things I Learned After Almost Leaking Production Access | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/95b8a526e199) |
+| Tue, 24 Mar 2026 12:05:27 GMT | Historical CVE Record Date and Timestamp Normalization Complete! | CVE Program Blog | [Read More](https://medium.com/p/9795b7b85c34) |
 | Tue, 24 Mar 2026 11:48:17 GMT | How to Write a PoC as a Smart Contract Security Researcher | Abraham | [Read More](https://medium.com/p/fb1a7792925c) |
 | Tue, 24 Mar 2026 11:47:21 GMT | Recovering Deleted Files Using Digital Forensics | Damilola Kolade | [Read More](https://medium.com/p/126a6800dfc9) |
 | Tue, 24 Mar 2026 11:44:43 GMT | Step-by-Step Guide to Integrating NAKIVO with Impossible Cloud | NAKIVO | [Read More](https://medium.com/p/8add51ec94a9) |
@@ -81,35 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 07:53:42 GMT | CVSS v4.0: The Practical Field Guide for Vulnerability Management | Andrey Pautov | [Read More](https://medium.com/p/5b5a59728456) |
 | Tue, 24 Mar 2026 07:47:00 GMT | Practical Guide to SIEM Architecture: Building Scalable, Secure, and Intelligent Security… | Majidbasharat | [Read More](https://medium.com/p/c232cae119b8) |
 | Tue, 24 Mar 2026 07:35:54 GMT | How Can IT Support Improve Business Efficiency? | Rx Technology | [Read More](https://medium.com/p/1c97f36dcffc) |
-| Tue, 24 Mar 2026 07:35:12 GMT | Why Beginners Quit Wireshark Too Early, And What They’re Missing | Fateyaly | [Read More](https://medium.com/p/6ff42a5d1d59) |
-| Tue, 24 Mar 2026 07:28:30 GMT | Infidelity signs in men | Michael Parks | [Read More](https://medium.com/p/770d8bf1409f) |
-| Tue, 24 Mar 2026 07:23:51 GMT | Cloud Data Security in 2026: Risks, Challenges, and Best Practices | Maruti Techlabs | [Read More](https://medium.com/p/8e6f162513dd) |
-| Tue, 24 Mar 2026 07:11:00 GMT | What Really Protects You Isn’t the Deal — It’s Who You’re Dealing With | Ivona Jovanovic | [Read More](https://medium.com/p/4cee7f591d4d) |
-| Tue, 24 Mar 2026 07:04:23 GMT | Add Enterprise SSO to Your Next.js App in Minutes Using Claude Code & Scalekit | Saif Ali Shaik | [Read More](https://medium.com/p/f7d2e01c1189) |
-| Tue, 24 Mar 2026 07:04:04 GMT | Your Technical Skills Are Expiring — Part 3: A Practical Cybersecurity Routine for Managers! | Nothing Cyber [NC] | [Read More](https://medium.com/p/defdd96a355d) |
-| Tue, 24 Mar 2026 06:58:52 GMT | Thick Client Security Testing on Linux: A Beginner’s Guide to AppImage Applications | Rohini Sawant | [Read More](https://medium.com/p/7e6a0109fa4e) |
-| Tue, 24 Mar 2026 06:55:13 GMT | Unlock Total Control Over Your PC Permissions with Antivirus Pro | Rahul yadav | [Read More](https://medium.com/p/d48ca5b43ac6) |
-| Tue, 24 Mar 2026 06:54:40 GMT | 2FA vs MFA: Why Passwords Alone Are No Longer Enough
-In today’s digital world, relying on just a… | CyberRise Institute | [Read More](https://medium.com/p/5eae582ba51e) |
-| Tue, 24 Mar 2026 06:52:22 GMT | ️   SQL Injection for Beginners: The Complete Guide | Krishna Kumar | [Read More](https://medium.com/p/2750907b095b) |
-| Tue, 24 Mar 2026 06:50:56 GMT | Why “Syncing” Your Systems Isn’t the Same as Integration | i95Dev | [Read More](https://medium.com/p/be4f90513070) |
-| Tue, 24 Mar 2026 06:41:01 GMT | Gain Competitive Edge with Cyber Security Certification Cost in India | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/24358c7805c1) |
-| Tue, 24 Mar 2026 06:37:05 GMT | Cybersecurity Measures Modern Business Should Understand | Programmingoneonone | [Read More](https://medium.com/p/4444e9dcc54f) |
-| Tue, 24 Mar 2026 06:36:28 GMT | Event Security Providers: Ensuring Safety and Success for Every Event | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/f3b41f84f3ce) |
-| Tue, 24 Mar 2026 06:35:00 GMT | OverTheWire: Bandit — Walkthrough | Mayank Ningania | [Read More](https://medium.com/p/5b4e06b43181) |
-| Tue, 24 Mar 2026 06:34:58 GMT | Every Sliver C2 Tutorial Was Outdated. So I Wrote My Own | RedAdmin | [Read More](https://medium.com/p/cd47c50add3f) |
-| Tue, 24 Mar 2026 06:29:25 GMT | RSAC 2026 Day 1: Navigating the Shift to Agentic Defense and Executive Resilience | Seema Gupta | [Read More](https://medium.com/p/cdfeb31a313f) |
-| Tue, 24 Mar 2026 06:15:58 GMT | CSRF EXPLOITATION: Make Victims Hack Themselves | Dallen Sadru | [Read More](https://medium.com/p/7d0e487e4a95) |
-| Tue, 24 Mar 2026 06:14:10 GMT | :  … | Sonali Roy | [Read More](https://medium.com/p/eec943bc95d1) |
-| Tue, 24 Mar 2026 06:13:06 GMT | Router vs Switch:Security Differences networking — Day 15 | 0xSmit | [Read More](https://medium.com/p/93a009ce4be7) |
-| Tue, 24 Mar 2026 06:08:43 GMT | Windows Architecture: How Windows Executes API Calls — NIR(4) | TheCyberNirvana | [Read More](https://medium.com/p/ced348909335) |
-| Tue, 24 Mar 2026 06:07:35 GMT | Intigriti March 2026 XSS Challenge Writeup: Chaining 3 Bypasses to Steal Admin Cookies | Mrunal chawda | [Read More](https://medium.com/p/4e1910864582) |
-| Tue, 24 Mar 2026 06:06:59 GMT | Two-Factor Authentication (2FA): Why it’s Critical for Security. | 0xSmit | [Read More](https://medium.com/p/dc116b13d333) |
-| Tue, 24 Mar 2026 06:06:11 GMT | 99$ Cybersecurity Ebook for Free | Anonymous Traiger | [Read More](https://medium.com/p/dec628d30c79) |
-| Tue, 24 Mar 2026 05:44:42 GMT | eJPT Information Gathering CTF 1 Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/07aa6767fbab) |
-| Tue, 24 Mar 2026 05:41:54 GMT | Agentic AI for AppSec: Hype or a Real Security Breakthrough? | James Miller | [Read More](https://medium.com/p/e3f1710e7a47) |
-| Tue, 24 Mar 2026 05:31:32 GMT | Windows Endpoint Detection PsExec With accepteula Flag | Gopicb | [Read More](https://medium.com/p/05e088f277e3) |
-| Tue, 24 Mar 2026 05:19:12 GMT | Snowflake SQL in a Nutshell: Open Trust Center Severities in your Organization | NadirDoctor | [Read More](https://medium.com/p/8418524d7739) |
-| Tue, 24 Mar 2026 05:16:35 GMT | Nmap Lab 1 — Basic & Important Scans | Hemaprasadpotnuru | [Read More](https://medium.com/p/4359f736d1b2) |
-| Tue, 24 Mar 2026 05:16:00 GMT | I Thought My Flutter Code Was Safe… Until I Learned About Obfuscation | Yash Patel | [Read More](https://medium.com/p/2e8c08f7d051) |
-| Tue, 24 Mar 2026 05:05:08 GMT | Multi-Agent AI Security: When AI Systems Attack Each Other | Cynox Security LLP. | [Read More](https://medium.com/p/26ec8d3a413c) |
