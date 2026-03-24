@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 18:59:40 GMT | I Thought I Was Just Being Careful | emberlines | [Read More](https://medium.com/p/c8aeaaed5e3c) |
+| Tue, 24 Mar 2026 18:58:42 GMT | Junior Security Analyst Intro — TryHackMe Walkthrough | Taylor Wavra | [Read More](https://medium.com/p/0494f3519e31) |
+| Tue, 24 Mar 2026 18:58:11 GMT | I Built a Firefox Extension That Uses AI to Detect Bot Protection Systems Hidden in HTTP Headers | Dima Kynal | [Read More](https://medium.com/p/465857fcb22c) |
+| Tue, 24 Mar 2026 18:56:31 GMT | Why Online Privacy Matters More Than Ever (And How to Protect Yours in 2026) | Warren Smith | [Read More](https://medium.com/p/af7ee39f15ed) |
+| Tue, 24 Mar 2026 18:50:25 GMT | Group-Based Authorization Is Not Role Assignment — It Is an Authority Contract | Salwan Mohamed | [Read More](https://medium.com/p/1fa423ec7926) |
+| Tue, 24 Mar 2026 18:49:22 GMT | How I Passed Three TCM Certs in eight months. | Originalshadowforge | [Read More](https://medium.com/p/b8d76211263a) |
+| Tue, 24 Mar 2026 18:48:02 GMT | The Message That Didn’t Look Suspicious | Cyber Safety Zone | [Read More](https://medium.com/p/feca502d4c89) |
+| Tue, 24 Mar 2026 18:38:40 GMT | Rising Security Concerns Drive Demand for Advanced, Customized AI-based Protection Solutions | Jonathan Kendall | [Read More](https://medium.com/p/a59f6bd4faba) |
+| Tue, 24 Mar 2026 18:26:12 GMT | TryHackMe — Threat Intelligence Tools room | Mohammad Zghoul | [Read More](https://medium.com/p/0b683abb6d26) |
+| Tue, 24 Mar 2026 18:24:09 GMT | TOMCAT: CVE-2024–50379 VULNERABILITY ANALYSIS AND EXPLOITATION(TryHackMe Room) | Sakthiramesh | [Read More](https://medium.com/p/13b59ac5093a) |
+| Tue, 24 Mar 2026 18:20:57 GMT | From SOC to AI Command Center | Sales | [Read More](https://medium.com/p/4bd770aae2e7) |
+| Tue, 24 Mar 2026 18:19:20 GMT | Using Claude Code for a security review — a short story from a humble developer | Christoffer Pedersen | [Read More](https://medium.com/p/172c0b40ffbf) |
+| Tue, 24 Mar 2026 18:17:21 GMT | Alert Fatigue Is a Symptom. Prevention-First Cloud Security Is the Fix. | Okan Yıldız | [Read More](https://medium.com/p/5204fac1bdb2) |
+| Tue, 24 Mar 2026 18:16:05 GMT | Who Needs VPN?? SSRF Already inside | 0xTyrion404 | [Read More](https://medium.com/p/fae7c6f8844b) |
+| Tue, 24 Mar 2026 18:16:00 GMT | The Security Checklist for Every AI Agent That Calls External APIs | Wisdomademiju | [Read More](https://medium.com/p/287273373e5c) |
+| Tue, 24 Mar 2026 18:12:11 GMT | Top Network Monitoring Tools Every IT Team Should Know | Grace | [Read More](https://medium.com/p/45de21fbe058) |
+| Tue, 24 Mar 2026 18:04:49 GMT | The Ultimate Bug Bounty Course: From Zero to Advanced Hacker 2 | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/5835235bac0d) |
+| Tue, 24 Mar 2026 18:02:29 GMT | Some questions from the hot seat : First VAPT interview experience | Sarvesh Sd | [Read More](https://medium.com/p/369d21dffc4e) |
+| Tue, 24 Mar 2026 17:59:04 GMT | AW! Snap: Looting EBS Snapshots with Ease. | Jinendar Kothari | [Read More](https://medium.com/p/800031c2c505) |
 | Tue, 24 Mar 2026 17:49:15 GMT | TRYHACKME BREAKING RSA | Yiğit İbis | [Read More](https://medium.com/p/7e9f5d435cc2) |
 | Tue, 24 Mar 2026 17:48:00 GMT | The Ultimate Bug Bounty Course: From Zero to Advanced Hacker | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/269160fa6518) |
 | Tue, 24 Mar 2026 17:44:53 GMT | El valor de la complicidad | Diana Santodomingo Soto | [Read More](https://medium.com/p/2c97cf179f1c) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 13:03:26 GMT | Bug Bounty Kya Hota Hai? Bilkul Zero Se Samjho (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/d48c5d126759) |
 | Tue, 24 Mar 2026 13:02:07 GMT | Not Just Artificial Intelligence, It’s AI + U(You) | Gamuchirai | [Read More](https://medium.com/p/9550d50345ad) |
 | Tue, 24 Mar 2026 13:01:03 GMT | [V for Vendetta] The Decentralized Network of Ideas | MonoEssay | [Read More](https://medium.com/p/ae65cfe097be) |
-| Tue, 24 Mar 2026 12:51:00 GMT | Why DIY Garage Door Spring Tools Fail - 24H Garage Doors | 24H Garage Doors | [Read More](https://medium.com/p/cc66b42ec769) |
-| Tue, 24 Mar 2026 12:28:24 GMT | Thick Client Security Testing — Static Analysis PART-2 | Madhumathi chamarthi | [Read More](https://medium.com/p/8c03b1301e0b) |
-| Tue, 24 Mar 2026 12:26:00 GMT | Garage Door Tune-Up and Inspection | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/d6ca1c097f0c) |
-| Tue, 24 Mar 2026 12:25:20 GMT | Best Free CCTV App for Android Old Phone: Turn Your Device into a Security Camera (Free) | CCTV Mobile Camera | [Read More](https://medium.com/p/78ad092c29b3) |
-| Tue, 24 Mar 2026 12:23:29 GMT | What is the wifi hacking, and how can you protect yourself | Nagendra - cybersecurity & Tech writer | [Read More](https://medium.com/p/202b5c56ecbb) |
-| Tue, 24 Mar 2026 12:19:08 GMT | On-Path Attacks Explained: How Hackers Secretly Intercept Your Internet Traffic | Rishav Kapil | [Read More](https://medium.com/p/3ff169e2e729) |
-| Tue, 24 Mar 2026 12:11:33 GMT | The Quiet Architecture of Resilience | Iman Ahmed | [Read More](https://medium.com/p/e792de6354a5) |
-| Tue, 24 Mar 2026 12:10:24 GMT | I Didn’t Need Another AI Tool — Until Kling AI Changed How I Tell Stories | The Informed Mind | [Read More](https://medium.com/p/35c60a7789a5) |
-| Tue, 24 Mar 2026 12:10:10 GMT | OverTheWire Bandit Walkthrough — Level 4 → 5 - 30-Day Cybersecurity Learning Journey (Day 5) | William | [Read More](https://medium.com/p/eed8de277f30) |
-| Tue, 24 Mar 2026 12:10:00 GMT | Secrets Management in 2026: Things I Learned After Almost Leaking Production Access | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/95b8a526e199) |
-| Tue, 24 Mar 2026 12:05:27 GMT | Historical CVE Record Date and Timestamp Normalization Complete! | CVE Program Blog | [Read More](https://medium.com/p/9795b7b85c34) |
-| Tue, 24 Mar 2026 11:48:17 GMT | How to Write a PoC as a Smart Contract Security Researcher | Abraham | [Read More](https://medium.com/p/fb1a7792925c) |
-| Tue, 24 Mar 2026 11:47:21 GMT | Recovering Deleted Files Using Digital Forensics | Damilola Kolade | [Read More](https://medium.com/p/126a6800dfc9) |
-| Tue, 24 Mar 2026 11:44:43 GMT | Step-by-Step Guide to Integrating NAKIVO with Impossible Cloud | NAKIVO | [Read More](https://medium.com/p/8add51ec94a9) |
-| Tue, 24 Mar 2026 11:44:17 GMT | Femmes journalistes: les outils indispensables pour sécuriser votre présence numérique | WanaData | [Read More](https://medium.com/p/23470b071388) |
-| Tue, 24 Mar 2026 11:44:13 GMT | Exploiting CSRF in Account Settings for Profile Manipulation | Osama Alaa | [Read More](https://medium.com/p/de71b6ba7adf) |
-| Tue, 24 Mar 2026 11:40:27 GMT | DES: The Encryption Dinosaur That Still Teaches Us a Lot | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/54936b455e84) |
-| Tue, 24 Mar 2026 11:30:18 GMT | RDP vs. Proprietary Protocols: Which Offers Better Security for Enterprise Access? | Campaign En | [Read More](https://medium.com/p/b38cfbeea6e2) |
-| Tue, 24 Mar 2026 11:29:27 GMT | TryHackMe — Déjà Vu — Ramya Radjesh | Ramya Radjesh | [Read More](https://medium.com/p/bf05c5dbf41d) |
