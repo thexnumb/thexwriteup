@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 04:25:00 GMT | Understanding AWS subnets-how networks are divided in the cloud | unica 02 | [Read More](https://medium.com/p/367db728c91b) |
+| Tue, 24 Mar 2026 04:23:10 GMT | What’s What? Library OS vs. Immutable OS: The “How to Build a Hacker-Proof House” Edition | Worawit St | [Read More](https://medium.com/p/17b710756dd2) |
+| Tue, 24 Mar 2026 04:21:00 GMT | The Myth of the “Leapfrog” in Digital Security | Gabriel Mahia | [Read More](https://medium.com/p/b2cb3694fc3a) |
+| Tue, 24 Mar 2026 04:20:50 GMT | Native Tools for Admin to Adversary [Living off the Land] | M. John | [Read More](https://medium.com/p/473b06b1f733) |
+| Tue, 24 Mar 2026 04:19:23 GMT | Public WiFi Is a Trap: Here’s How to Stay Safe | Aynun Nipa | [Read More](https://medium.com/p/5437692b805d) |
+| Tue, 24 Mar 2026 04:17:18 GMT | Building a SOC Lab with Wazuh: SIEM Setup & Log Analysis | Juhaina.K | [Read More](https://medium.com/p/e8e5761eb7b0) |
+| Tue, 24 Mar 2026 04:05:53 GMT | Hunting APT29 in 196,071 Logs: What I Found in EventID 1 | Manish Rawat | [Read More](https://medium.com/p/65a5d850a21d) |
+| Tue, 24 Mar 2026 04:05:17 GMT | Drovenio Latest Technology News 2026: AI, Automation, Cybersecurity, and Future Tech Trends | revathi msr | [Read More](https://medium.com/p/7ca0f0c8b894) |
+| Tue, 24 Mar 2026 04:01:00 GMT | Rigging the Odds: The Illusion of On-Chain Randomness | Tabrez Mukadam | [Read More](https://medium.com/p/552f2d29177a) |
+| Tue, 24 Mar 2026 03:59:19 GMT | SQL Injection UNION Attack: Finding a Column Containing Text — PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/3b935a7d740d) |
+| Tue, 24 Mar 2026 03:44:36 GMT | Agent Safety & Bounded Autonomy — Engineering the Agent That Knows When to Stop | Maneesh Kumar | [Read More](https://medium.com/p/3857bdf7f916) |
+| Tue, 24 Mar 2026 02:50:00 GMT | checkm8 vs DarkSword: Why the iOS Exploit Everyone Is Talking About Is Not a Jailbreak | 24Rows | [Read More](https://medium.com/p/8584509437e3) |
+| Tue, 24 Mar 2026 02:48:26 GMT | DarkSword: New iOS Exploit Kit Used by Suspected Russian Hackers Steals Passwords, Crypto &… | 24Rows | [Read More](https://medium.com/p/69310b259ab6) |
+| Tue, 24 Mar 2026 02:36:21 GMT | DMZ and MZ — The Security Concepts You’re Already Using in the Cloud (Without Knowing It) | Vansh Uppal | [Read More](https://medium.com/p/fe0042668c63) |
+| Tue, 24 Mar 2026 02:31:00 GMT | Broken Access Control — The #1 Vulnerability on the Web | loopXvedant | [Read More](https://medium.com/p/e54b306c546b) |
 | Tue, 24 Mar 2026 02:17:14 GMT | Unlock Telegram’s Darkest Secrets with This 5-Min Setup Tool! | cybrNK | [Read More](https://medium.com/p/333f6b30fff8) |
 | Tue, 24 Mar 2026 02:16:57 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 7) | Raymond Ebonine | [Read More](https://medium.com/p/7571034fc5b0) |
 | Tue, 24 Mar 2026 02:16:09 GMT | Mastering the Repeater — Your Most Powerful Manual Hacking Weapon | Yamini Yadav_369 | [Read More](https://medium.com/p/0a4644e33c6e) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 17:53:56 GMT | Cybersecurity in 2026: How Conflict, AI, and Global Threats Are Redefining Digital Risk | TechDemocracy | [Read More](https://medium.com/p/ce7469bffddf) |
 | Mon, 23 Mar 2026 17:47:00 GMT | How 3M Promotes Innovation | Anwarul A.K.M | [Read More](https://medium.com/p/7dc7ffbab8a1) |
 | Mon, 23 Mar 2026 17:39:36 GMT | I Spent a Day Hacking My Own Security Camera. It Gave Up Its Secrets by Midnight. | Mehdi | [Read More](https://medium.com/p/e982be933d89) |
-| Mon, 23 Mar 2026 17:36:16 GMT | Stryker Attack — Handala Group | Hemant Patkar, CISSP | [Read More](https://medium.com/p/ac3f32785f7f) |
-| Mon, 23 Mar 2026 17:36:06 GMT | The Magic Under the Hood: How Concrete Vaults Actually Work | Mukeshrana | [Read More](https://medium.com/p/ba58afe87885) |
-| Mon, 23 Mar 2026 17:34:58 GMT | Web Application Penetration Testing CTF 1 | R1punjay_Singh | [Read More](https://medium.com/p/6a188e29140e) |
-| Mon, 23 Mar 2026 17:32:44 GMT | When Copilot Arrives at the Company… and No One Knows What to Do with It | Suri Services Marketing | [Read More](https://medium.com/p/4acdb762bd6f) |
-| Mon, 23 Mar 2026 17:32:13 GMT | Your Password Is “123456”? AI Noticed — So Did the Hacker. | Swetha S Nair | [Read More](https://medium.com/p/d24f18cfa894) |
-| Mon, 23 Mar 2026 17:32:06 GMT | The Hidden World of Sodium-Ion Batteries: Why They're About to Change Your Phone (and Planet) | The Interface | [Read More](https://medium.com/p/cdcfae0c1899) |
-| Mon, 23 Mar 2026 17:31:27 GMT | How I Stay Ahead in Cyber with Glance: My Self-Hosted Intelligence Dashboard | Michael | [Read More](https://medium.com/p/7409a62d0c45) |
-| Mon, 23 Mar 2026 17:30:47 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 5 | Haxymad | [Read More](https://medium.com/p/a23cce2a6da8) |
-| Mon, 23 Mar 2026 17:16:37 GMT | Spring Security Internals: How Filter Chain Works | Hüsna POYRAZ | [Read More](https://medium.com/p/f296f9bf8f5d) |
-| Mon, 23 Mar 2026 17:15:37 GMT | The Most Critical Vulnerabilities Are Often the Simplest to Exploit | Aniket Singh | [Read More](https://medium.com/p/9b864be1e28d) |
-| Mon, 23 Mar 2026 17:13:11 GMT | XSS Attacks Explained Simply (And How to Stop Them) | Mubashir | [Read More](https://medium.com/p/053a1ed0aa33) |
-| Mon, 23 Mar 2026 17:12:45 GMT | Assessment Methodologies: Vulnerability Assessment CTF 1 (eJPT) | Vanshaj Kumar | [Read More](https://medium.com/p/5915f999c942) |
-| Mon, 23 Mar 2026 17:12:00 GMT | The Invisible Pipeline: A Guide to Compilation, Linking, and Execution | Vishwas Adhikari | [Read More](https://medium.com/p/280862202770) |
-| Mon, 23 Mar 2026 17:02:56 GMT | Catching Trickbot in the Act — Live Credential Theft via HTTP POST | Himanshukumar Modi | [Read More](https://medium.com/p/d4f4aacd6133) |
-| Mon, 23 Mar 2026 17:02:20 GMT | Beyond CVSS: Why Your AI Agents Need a New Kind of Security Scoring | Alessandro Pignati | [Read More](https://medium.com/p/bb50ce5d94f4) |
