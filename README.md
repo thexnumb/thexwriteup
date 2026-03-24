@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 07:28:30 GMT | Infidelity signs in men | Michael Parks | [Read More](https://medium.com/p/770d8bf1409f) |
+| Tue, 24 Mar 2026 07:23:51 GMT | Cloud Data Security in 2026: Risks, Challenges, and Best Practices | Maruti Techlabs | [Read More](https://medium.com/p/8e6f162513dd) |
+| Tue, 24 Mar 2026 07:11:00 GMT | What Really Protects You Isn’t the Deal — It’s Who You’re Dealing With | Ivona Jovanovic | [Read More](https://medium.com/p/4cee7f591d4d) |
+| Tue, 24 Mar 2026 07:04:23 GMT | Add Enterprise SSO to Your Next.js App in Minutes Using Claude Code & Scalekit | Saif Ali Shaik | [Read More](https://medium.com/p/f7d2e01c1189) |
+| Tue, 24 Mar 2026 07:04:04 GMT | Your Technical Skills Are Expiring — Part 3: A Practical Cybersecurity Routine for Managers! | Nothing Cyber [NC] | [Read More](https://medium.com/p/defdd96a355d) |
+| Tue, 24 Mar 2026 06:58:52 GMT | Thick Client Security Testing on Linux: A Beginner’s Guide to AppImage Applications | Rohini Sawant | [Read More](https://medium.com/p/7e6a0109fa4e) |
+| Tue, 24 Mar 2026 06:55:13 GMT | Unlock Total Control Over Your PC Permissions with Antivirus Pro | Rahul yadav | [Read More](https://medium.com/p/d48ca5b43ac6) |
+| Tue, 24 Mar 2026 06:54:40 GMT | 2FA vs MFA: Why Passwords Alone Are No Longer Enough
+In today’s digital world, relying on just a… | CyberRise Institute | [Read More](https://medium.com/p/5eae582ba51e) |
+| Tue, 24 Mar 2026 06:52:22 GMT | ️   SQL Injection for Beginners: The Complete Guide | Krishna Kumar | [Read More](https://medium.com/p/2750907b095b) |
+| Tue, 24 Mar 2026 06:50:56 GMT | Why “Syncing” Your Systems Isn’t the Same as Integration | i95Dev | [Read More](https://medium.com/p/be4f90513070) |
+| Tue, 24 Mar 2026 06:41:01 GMT | Gain Competitive Edge with Cyber Security Certification Cost in India | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/24358c7805c1) |
+| Tue, 24 Mar 2026 06:37:05 GMT | Cybersecurity Measures Modern Business Should Understand | Programmingoneonone | [Read More](https://medium.com/p/4444e9dcc54f) |
+| Tue, 24 Mar 2026 06:36:28 GMT | Event Security Providers: Ensuring Safety and Success for Every Event | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/f3b41f84f3ce) |
+| Tue, 24 Mar 2026 06:35:00 GMT | OverTheWire: Bandit — Walkthrough | Mayank Ningania | [Read More](https://medium.com/p/5b4e06b43181) |
+| Tue, 24 Mar 2026 06:34:58 GMT | Every Sliver C2 Tutorial Was Outdated. So I Wrote My Own | RedAdmin | [Read More](https://medium.com/p/cd47c50add3f) |
+| Tue, 24 Mar 2026 06:29:25 GMT | RSAC 2026 Day 1: Navigating the Shift to Agentic Defense and Executive Resilience | Seema Gupta | [Read More](https://medium.com/p/cdfeb31a313f) |
+| Tue, 24 Mar 2026 06:15:58 GMT | CSRF EXPLOITATION: Make Victims Hack Themselves | Dallen Sadru | [Read More](https://medium.com/p/7d0e487e4a95) |
+| Tue, 24 Mar 2026 06:14:10 GMT | :  … | Sonali Roy | [Read More](https://medium.com/p/eec943bc95d1) |
+| Tue, 24 Mar 2026 06:13:06 GMT | Router vs Switch:Security Differences networking — Day 15 | 0xSmit | [Read More](https://medium.com/p/93a009ce4be7) |
+| Tue, 24 Mar 2026 06:08:43 GMT | Windows Architecture: How Windows Executes API Calls — NIR(4) | TheCyberNirvana | [Read More](https://medium.com/p/ced348909335) |
+| Tue, 24 Mar 2026 06:07:35 GMT | Intigriti March 2026 XSS Challenge Writeup: Chaining 3 Bypasses to Steal Admin Cookies | Mrunal chawda | [Read More](https://medium.com/p/4e1910864582) |
+| Tue, 24 Mar 2026 06:06:59 GMT | Two-Factor Authentication (2FA): Why it’s Critical for Security. | 0xSmit | [Read More](https://medium.com/p/dc116b13d333) |
+| Tue, 24 Mar 2026 06:06:11 GMT | 99$ Cybersecurity Ebook for Free | Anonymous Traiger | [Read More](https://medium.com/p/dec628d30c79) |
 | Tue, 24 Mar 2026 05:44:42 GMT | eJPT Information Gathering CTF 1 Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/07aa6767fbab) |
 | Tue, 24 Mar 2026 05:41:54 GMT | Agentic AI for AppSec: Hype or a Real Security Breakthrough? | James Miller | [Read More](https://medium.com/p/e3f1710e7a47) |
 | Tue, 24 Mar 2026 05:31:32 GMT | Windows Endpoint Detection PsExec With accepteula Flag | Gopicb | [Read More](https://medium.com/p/05e088f277e3) |
@@ -36,6 +60,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 04:01:00 GMT | Rigging the Odds: The Illusion of On-Chain Randomness | Tabrez Mukadam | [Read More](https://medium.com/p/552f2d29177a) |
 | Tue, 24 Mar 2026 03:59:19 GMT | SQL Injection UNION Attack: Finding a Column Containing Text — PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/3b935a7d740d) |
 | Tue, 24 Mar 2026 03:44:36 GMT | Agent Safety & Bounded Autonomy — Engineering the Agent That Knows When to Stop | Maneesh Kumar | [Read More](https://medium.com/p/3857bdf7f916) |
+| Tue, 24 Mar 2026 02:51:01 GMT | Zero Trust Architecture: Why Modern Security Requires “Never Trust, Always Verify” | Azizul maqsud | [Read More](https://medium.com/p/40dfe61cefe5) |
 | Tue, 24 Mar 2026 02:50:00 GMT | checkm8 vs DarkSword: Why the iOS Exploit Everyone Is Talking About Is Not a Jailbreak | 24Rows | [Read More](https://medium.com/p/8584509437e3) |
 | Tue, 24 Mar 2026 02:48:26 GMT | DarkSword: New iOS Exploit Kit Used by Suspected Russian Hackers Steals Passwords, Crypto &… | 24Rows | [Read More](https://medium.com/p/69310b259ab6) |
 | Tue, 24 Mar 2026 02:36:21 GMT | DMZ and MZ — The Security Concepts You’re Already Using in the Cloud (Without Knowing It) | Vansh Uppal | [Read More](https://medium.com/p/fe0042668c63) |
@@ -88,27 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 20:27:20 GMT | File Share to SharePoint Online Migration Tools (2026) | Juliana Reyes | [Read More](https://medium.com/p/bdf52440c1b9) |
 | Mon, 23 Mar 2026 20:25:30 GMT | From Hallucinations to Determinism: Securing RAG Pipelines with n8n and Anthropic Prompt… | Kayra AKTAŞ | [Read More](https://medium.com/p/39f3c68b6ef8) |
 | Mon, 23 Mar 2026 20:24:44 GMT | The Moment You Realize a Network Is Watching You | M_BgBang | [Read More](https://medium.com/p/e0b832ec7fa1) |
-| Mon, 23 Mar 2026 20:24:41 GMT | What He Thinks Vulnerable Means | Elle Beau ❇︎ | [Read More](https://medium.com/p/08ce3303e4e8) |
-| Mon, 23 Mar 2026 20:23:42 GMT | Microsoft Teams Migration for M&A: Tool Comparison (2026) | Juliana Reyes | [Read More](https://medium.com/p/22f5a05ed761) |
-| Mon, 23 Mar 2026 20:22:03 GMT | RDP Üzerinden Gelen Brute Force Saldırısı | Alevdenizakca | [Read More](https://medium.com/p/100da6b52f24) |
-| Mon, 23 Mar 2026 20:16:04 GMT | Microsoft 365 Migration Tools: Complete Comparison (2026) | Marc-André Hallé | [Read More](https://medium.com/p/ba1b06d1077f) |
-| Mon, 23 Mar 2026 20:11:41 GMT | What is SIEM? A Plain-English Guide for IT Teams | Andres M | [Read More](https://medium.com/p/0685c90eb1d9) |
-| Mon, 23 Mar 2026 20:06:47 GMT | Microsoft Teams Migration Tools for MSPs (2026) | Marc-André Hallé | [Read More](https://medium.com/p/315bbbeb604f) |
-| Mon, 23 Mar 2026 20:03:17 GMT | SQL Injection UNION Attack: Determining Number of Columns — PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/b45edf8da5ba) |
-| Mon, 23 Mar 2026 19:57:41 GMT | Compliant but Vulnerable: Why Cyber Resilience Is No Longer a Privilege for Morocco’s OIVs | Aymaneelyamani | [Read More](https://medium.com/p/ec7c0c24de27) |
-| Mon, 23 Mar 2026 19:53:41 GMT | “Not a Security Issue” in PFSense Firewall(Netgate) | dark-haxor | [Read More](https://medium.com/p/dc6957a3f191) |
-| Mon, 23 Mar 2026 19:51:41 GMT | Write-Ups for challenges I created at CAT CTF 26 — Entry Level | db1M | [Read More](https://medium.com/p/7bcfc745956e) |
-| Mon, 23 Mar 2026 19:48:20 GMT | Can We Still Trust What We See? How SynthID Fights the Rise of Deepfakes | Soumyadeep Dey | [Read More](https://medium.com/p/d5e49abeacdc) |
-| Mon, 23 Mar 2026 19:43:06 GMT | I Thought It Was a Container… It Was a Whole Azure VM (RCE Story) | Utkarsh Srivastava | [Read More](https://medium.com/p/7d99d30d5a4a) |
-| Mon, 23 Mar 2026 19:41:20 GMT | Positive vs Negative Security Model: Which One Actually Scales in 2026? | Hrishidev K V | [Read More](https://medium.com/p/23d3735f438e) |
-| Mon, 23 Mar 2026 19:37:41 GMT | Walkthrough: Sql Map1 (picoCTF 2026) — Bypassing Filters and Cracking Hashes | Sriman kundu | [Read More](https://medium.com/p/d81490724125) |
-| Mon, 23 Mar 2026 19:36:30 GMT | Cross-Site Scripting (XSS ) - When Your Own Website Becomes the Attacker’s Delivery System | Rufus Kehinde | [Read More](https://medium.com/p/19976a0b1251) |
-| Mon, 23 Mar 2026 19:28:38 GMT | Daily Cybersecurity News You Need to Know This Week | Rayhanuddinkhan | [Read More](https://medium.com/p/cfd2c10bd79f) |
-| Mon, 23 Mar 2026 19:26:35 GMT | JSEveryWhere (FlaGyard) | IgnoranzaSolare | [Read More](https://medium.com/p/4b9e638d9b78) |
-| Mon, 23 Mar 2026 19:26:20 GMT | Google’s rewriting headlines, China’s filling orbit, and Musk wants his own chips | Qandeel Akhtar | [Read More](https://medium.com/p/c62a3555989a) |
-| Mon, 23 Mar 2026 19:16:41 GMT | Building a Prompt Guard That Stops Prompt Injection Before It Touches Your LLM | SoulPie | [Read More](https://medium.com/p/d99c1354714c) |
-| Mon, 23 Mar 2026 19:11:39 GMT | Nuclei Cheat Sheet (Basic → Advanced) | Dhruv | [Read More](https://medium.com/p/a1a80374c0ff) |
-| Mon, 23 Mar 2026 19:07:34 GMT | They Trained Him, He Stole From Them, He Cashed Out. | O. J. Okpabi | [Read More](https://medium.com/p/00b02da2ef70) |
-| Mon, 23 Mar 2026 19:01:46 GMT | Ways to catch cheating husband in marriage? | Michael Parks | [Read More](https://medium.com/p/6e983bd88622) |
-| Mon, 23 Mar 2026 19:01:23 GMT | How to Destroy Your Linux System in 13 Characters (Bash Fork Bomb) | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/c477fac2338e) |
-| Mon, 23 Mar 2026 18:59:35 GMT | COURAGE: A Guide to Psychological Safety and Fulfillment | Bryan Niederhelm | [Read More](https://medium.com/p/94fd1076c3fc) |
