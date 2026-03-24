@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 21:51:00 GMT | AI-Powered Cyber Attacks and Their Defense | Joshua Moses | [Read More](https://medium.com/p/afa464b4aae4) |
+| Tue, 24 Mar 2026 21:50:42 GMT | A Guide to Cyber Security Governance for Australian Business Owners | Future IT Services | [Read More](https://medium.com/p/eebb6fed2da3) |
+| Tue, 24 Mar 2026 21:50:20 GMT | How does it feel when you are a penetration tester? | Hirepentester | [Read More](https://medium.com/p/91be2f83c433) |
+| Tue, 24 Mar 2026 21:42:30 GMT | How to Find Onion Sites Safely: A Practical Guide | Tor BBB | [Read More](https://medium.com/p/ba7b263c6280) |
+| Tue, 24 Mar 2026 21:38:08 GMT | ActiveProcessLinks in EPROCESS Structure | S12 - 0x12Dark Development | [Read More](https://medium.com/p/80d84985c77c) |
+| Tue, 24 Mar 2026 21:19:33 GMT | Sitting in the Lava: On Vulnerability and Shattered Trust | Saghar Mirzaei | [Read More](https://medium.com/p/3d80459c2e95) |
+| Tue, 24 Mar 2026 21:17:44 GMT | “Supplier ADP Pilot” — CVE Program to Explore Benefits of Supporting VEX-like, Product Status… | CVE Program Blog | [Read More](https://medium.com/p/852587bc9546) |
+| Tue, 24 Mar 2026 21:17:13 GMT | Consensus Security: Why Your Crypto Transactions Can Be Trusted | PYRAX Network | [Read More](https://medium.com/p/aa398de34df6) |
+| Tue, 24 Mar 2026 21:12:27 GMT | SecurityOnion Crash Course Part 3: Active Directory, DNS, and DHCP, logs oh my! | HanSolo71 | [Read More](https://medium.com/p/8e90a700e34a) |
+| Tue, 24 Mar 2026 21:06:00 GMT | Most People Don’t Realize How Exposed Their Email Really Is | Warren Smith | [Read More](https://medium.com/p/ef6b0f8df1da) |
+| Tue, 24 Mar 2026 21:03:24 GMT | Market Assessment: Autonomous Penetration Testing Platforms | Joshua Goossen | [Read More](https://medium.com/p/38bb7843a0ee) |
+| Tue, 24 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 33: Cloud-Working & AI | Maximillian Rueda | [Read More](https://medium.com/p/b85cc768dd96) |
+| Tue, 24 Mar 2026 20:59:34 GMT | The Linux Forensic Journey — LiME (Linux Memory Extractor) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3d13bf6514e4) |
 | Tue, 24 Mar 2026 20:53:43 GMT | ARP Spoofing | KN | [Read More](https://medium.com/p/7f51c61ef02e) |
 | Tue, 24 Mar 2026 20:47:45 GMT | How I Investigated a Suspicious File Using Threat Intelligence Tools: A SOC Analyst’s Approach | Becca | [Read More](https://medium.com/p/cdb7613d51ac) |
 | Tue, 24 Mar 2026 20:44:28 GMT | How I Detected an SSH Brute-Force Attack Using Splunk (Step-by-Step SOC Analysis) | Becca | [Read More](https://medium.com/p/a289105ae5cf) |
@@ -73,6 +86,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 16:59:30 GMT | Beyond the Eye: The Reality of IDN Homograph Attacks | Muhammad Zeeshan | [Read More](https://medium.com/p/12457b337dee) |
 | Tue, 24 Mar 2026 16:56:00 GMT | Most Bugs Aren’t Bugs. They’re Mismatched Assumptions | Prem Chandak | [Read More](https://medium.com/p/891af941dcb7) |
 | Tue, 24 Mar 2026 16:53:59 GMT | A Lava Lamp Is Protecting Your Password Right Now | Prasanna Brabourame | [Read More](https://medium.com/p/103fcc713c93) |
+| Tue, 24 Mar 2026 16:47:04 GMT | TuesdayTool 42: Domain Digger, One-Stop Interface For Domain Investigation | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/0e1fbf5266a0) |
 | Tue, 24 Mar 2026 16:45:06 GMT | Most AI Agents in production are one prompt-injection away from draining their own wallets. | Alfa | [Read More](https://medium.com/p/e9545bc66c40) |
 | Tue, 24 Mar 2026 16:37:13 GMT | I Followed the Data Trail — It Led Straight to a Production Server | Iski | [Read More](https://medium.com/p/a4ee78a160c0) |
 | Tue, 24 Mar 2026 16:23:34 GMT | Understanding Routing & Routers: How Data Finds Its Path Across Networks | Ndu | [Read More](https://medium.com/p/a4d3c4f5b684) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 14:57:30 GMT | Misconfigured SSO Led to a Critical Issue | Rahul Singh Chauhan | [Read More](https://medium.com/p/81c4c11d1a48) |
 | Tue, 24 Mar 2026 14:51:27 GMT | XPFarm: Top 10 AI Tools for Cybersecurity Automation | Pentester Club | [Read More](https://medium.com/p/2fc6363bea74) |
 | Tue, 24 Mar 2026 14:48:08 GMT | How Trivy — A Tool Built to Find Vulnerabilities — Became One | Om Khard | [Read More](https://medium.com/p/08d40c178070) |
-| Tue, 24 Mar 2026 14:46:00 GMT | [FORECAST] Will RedNovember be publicly reported to exploit at least one zero-day vulnerability in… | Wes Young | [Read More](https://medium.com/p/4c4acd05ea9d) |
-| Tue, 24 Mar 2026 14:45:10 GMT | Secure Communication — Strengthening Trust and Privacy in Modern Chat Management | Hajirpro | [Read More](https://medium.com/p/74faa05c3f63) |
-| Tue, 24 Mar 2026 14:43:49 GMT | Cybersecurity Expert Uncovers Major Flaw in NVIDIA Nemoclaw Security | Jim Clyde Monge | [Read More](https://medium.com/p/60993c3a40bb) |
-| Tue, 24 Mar 2026 14:41:18 GMT | TEBRİKLER DARKSWORD KAZANDINIZ. | Özlem Ozan | [Read More](https://medium.com/p/208ed1519f4b) |
-| Tue, 24 Mar 2026 14:36:13 GMT | The New Security Perimeter: Identity | Cuneyt TAS | [Read More](https://medium.com/p/932d381dc89c) |
-| Tue, 24 Mar 2026 14:35:04 GMT | What You Didn’t Know About Maritime Security Services in the UK | MaritimusHub | [Read More](https://medium.com/p/144a9cd53f8a) |
-| Tue, 24 Mar 2026 14:31:21 GMT | How to Plan and Execute Event Logistics in London for a Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/a5708bc5e6f6) |
-| Tue, 24 Mar 2026 14:28:03 GMT | Security Policy vs. Security Posture | Frank Leitner | [Read More](https://medium.com/p/f06233f2f072) |
-| Tue, 24 Mar 2026 14:27:19 GMT | Ataraxia : Menemukan Tenang di Tengah Badai | Marcellius | [Read More](https://medium.com/p/895754defd3d) |
-| Tue, 24 Mar 2026 14:26:01 GMT | PolyShell: How a PHP File Can Be Uploaded to a Server via the Magento 2 REST API | Freento | [Read More](https://medium.com/p/87d43c349f7f) |
-| Tue, 24 Mar 2026 14:22:50 GMT | How path traversal exploit using the burp suite? | Bilal Shaikh | [Read More](https://medium.com/p/89b0ee0ba459) |
-| Tue, 24 Mar 2026 14:22:06 GMT | 15 Key Differences Between Pentesting & Red Teaming (Tool-Based): Learn the Practical Gaps | Very Lazy Tech | [Read More](https://medium.com/p/064e9f16c7d3) |
-| Tue, 24 Mar 2026 14:12:39 GMT | A Hands-On Guide to Penetration Testing with Metasploit and EternalBlue | Faslanrizni | [Read More](https://medium.com/p/45a1dd431688) |
-| Tue, 24 Mar 2026 13:59:12 GMT | fish walkthrough (proving ground -windows) | cyber_public_school | [Read More](https://medium.com/p/a0f88e3fdffc) |
