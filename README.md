@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 19:54:22 GMT | Cross-Site Request Forgery (CSRF) - When an Attacker Turns a Logged-In User Into an Unknowing… | Rufus Kehinde | [Read More](https://medium.com/p/e26ba6beaf01) |
+| Tue, 24 Mar 2026 19:46:26 GMT | Who Can Actually Read Your Digital Journal? | Didrik Hellman | [Read More](https://medium.com/p/f0337c443cdd) |
+| Tue, 24 Mar 2026 19:46:25 GMT | The Nemucod False Positive Hitting Microsoft Teams Users Today | UK Cyber Defence | [Read More](https://medium.com/p/d5e11193ae1b) |
+| Tue, 24 Mar 2026 19:44:24 GMT | CTF Writeup: CMC MCP — Command Injection via MCP Tool (150pts) | Yassineet | [Read More](https://medium.com/p/2b0c430f5b43) |
+| Tue, 24 Mar 2026 19:40:49 GMT | Why you must change your appsec program to fit the AI model! | Andrew Blooman | [Read More](https://medium.com/p/16331d851636) |
+| Tue, 24 Mar 2026 19:40:40 GMT | Collection of Healthcare Technology/Medtech Industry News and Biomedical Engineering Development —… | Willies Wu | [Read More](https://medium.com/p/9301dfb86b6a) |
+| Tue, 24 Mar 2026 19:37:19 GMT | Dev Diaries (THM) Tryhackme Walkthrough With Answer | Lawvye | [Read More](https://medium.com/p/aa16e4a9fb64) |
+| Tue, 24 Mar 2026 19:30:09 GMT | HTB - Administrator - OSCP Prep | SilentExploit | [Read More](https://medium.com/p/bbd3b099ce9b) |
+| Tue, 24 Mar 2026 19:29:45 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/2a140b67d9a0) |
+| Tue, 24 Mar 2026 19:26:10 GMT | From Insecure to Secure: How Two-Factor Authentication Actually Keeps You Secure | Joel Orie | [Read More](https://medium.com/p/e7c8bd7767fc) |
+| Tue, 24 Mar 2026 19:19:08 GMT | How to Achieve SOC 2 Compliance (Step-by-Step Guide for Startups) | Ross | [Read More](https://medium.com/p/db9f38bc4037) |
+| Tue, 24 Mar 2026 19:12:36 GMT | Before You Touch Nmap: Networking Fundamentals Every Beginner Must Understand | Suraj Apar | [Read More](https://medium.com/p/b65ea907ca87) |
+| Tue, 24 Mar 2026 19:06:46 GMT | Atenção, nem todo Event ID 4625 é igual | Jordano Mazzoni | [Read More](https://medium.com/p/f6c430505e3f) |
 | Tue, 24 Mar 2026 18:59:40 GMT | I Thought I Was Just Being Careful | emberlines | [Read More](https://medium.com/p/c8aeaaed5e3c) |
 | Tue, 24 Mar 2026 18:58:42 GMT | Junior Security Analyst Intro — TryHackMe Walkthrough | Taylor Wavra | [Read More](https://medium.com/p/0494f3519e31) |
 | Tue, 24 Mar 2026 18:58:11 GMT | I Built a Firefox Extension That Uses AI to Detect Bot Protection Systems Hidden in HTTP Headers | Dima Kynal | [Read More](https://medium.com/p/465857fcb22c) |
@@ -40,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 17:38:54 GMT | Why location.href Isn’t Just a Redirect: | Marduk I Am | [Read More](https://medium.com/p/f7c77c0e4bcd) |
 | Tue, 24 Mar 2026 17:36:53 GMT | Android Hacking: RAW & REAL — AgniOps Security | Un9nplayer | [Read More](https://medium.com/p/0252b5638836) |
 | Tue, 24 Mar 2026 17:33:13 GMT | I helped build a fintech platform. It taught me more about cybersecurity than I expected. | Iwalade Adio | [Read More](https://medium.com/p/2955085c282f) |
+| Tue, 24 Mar 2026 17:28:07 GMT | The DarkSword Leak Proves Something Dangerous: | Asuquo Levy Eyo Jr | [Read More](https://medium.com/p/ab3c495b32ee) |
 | Tue, 24 Mar 2026 17:23:03 GMT | Android Hacking: RAW & REAL— AgniOps Security | AgniOps | [Read More](https://medium.com/p/a354d3057847) |
 | Tue, 24 Mar 2026 17:21:57 GMT | Why Woodland, CA Residents and Business Owners Are Rethinking Their Security Strategy in 2026 | Uniworth security Editorial | [Read More](https://medium.com/p/602559fa3c35) |
 | Tue, 24 Mar 2026 17:20:41 GMT | Windows Defender’s Dirty Secret: Steal Passwords in Seconds! | cybrNK | [Read More](https://medium.com/p/c70e1637b1c6) |
@@ -51,6 +65,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 16:59:30 GMT | Beyond the Eye: The Reality of IDN Homograph Attacks | Muhammad Zeeshan | [Read More](https://medium.com/p/12457b337dee) |
 | Tue, 24 Mar 2026 16:56:00 GMT | Most Bugs Aren’t Bugs. They’re Mismatched Assumptions | Prem Chandak | [Read More](https://medium.com/p/891af941dcb7) |
 | Tue, 24 Mar 2026 16:53:59 GMT | A Lava Lamp Is Protecting Your Password Right Now | Prasanna Brabourame | [Read More](https://medium.com/p/103fcc713c93) |
+| Tue, 24 Mar 2026 16:45:06 GMT | Most AI Agents in production are one prompt-injection away from draining their own wallets. | Alfa | [Read More](https://medium.com/p/e9545bc66c40) |
 | Tue, 24 Mar 2026 16:37:13 GMT | I Followed the Data Trail — It Led Straight to a Production Server | Iski | [Read More](https://medium.com/p/a4ee78a160c0) |
 | Tue, 24 Mar 2026 16:23:34 GMT | Understanding Routing & Routers: How Data Finds Its Path Across Networks | Ndu | [Read More](https://medium.com/p/a4d3c4f5b684) |
 | Tue, 24 Mar 2026 16:23:14 GMT | Understanding VPN: How Secure Communication Works Over the Internet | Ndu | [Read More](https://medium.com/p/559b1f245b5c) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 13:46:00 GMT | Garage Door Repair Guide Stamford CT - Up & Down Garage Door | Up & Down Garage Door Services | [Read More](https://medium.com/p/04c6acf516df) |
 | Tue, 24 Mar 2026 13:43:15 GMT | Secuview WiFi Indoor 2K PTZ Baby Monitor Camera | secuview | [Read More](https://medium.com/p/faa460e1ce9d) |
 | Tue, 24 Mar 2026 13:42:32 GMT | Secuview 8Mp indoor IP Camera - Smart Detection & ONVIF Support. | secuview | [Read More](https://medium.com/p/0a644730ef84) |
-| Tue, 24 Mar 2026 13:35:08 GMT | How Cybersecurity Services Solve Hidden Cyber Risks in Daily Business Operations | Ancrew Global Services | [Read More](https://medium.com/p/8c222553ff81) |
-| Tue, 24 Mar 2026 13:32:36 GMT | Uncontrolled Access in Your Agentic Automation Is a Breach Waiting to Happen | Frank Kresse | [Read More](https://medium.com/p/df89e8ff7b85) |
-| Tue, 24 Mar 2026 13:31:01 GMT | How RFID Wristbands Enhance Event and Access Control Systems | Abby Qiu | [Read More](https://medium.com/p/0ccbb07743bd) |
-| Tue, 24 Mar 2026 13:31:00 GMT | VPAT and Accessibility The Hidden Risks in Digital Compliance | Cyber Aries | [Read More](https://medium.com/p/54bdf811cf23) |
-| Tue, 24 Mar 2026 13:27:30 GMT | FTP Enumeration to Exploitation (vsFTPd 2.3.4) — Metasploitable2 Walkthrough | Subrat Samantaray | [Read More](https://medium.com/p/4aad0ba78c2b) |
-| Tue, 24 Mar 2026 13:26:14 GMT | How Hackers Break Into Security Cameras (And How to Protect Yours) | Temma | [Read More](https://medium.com/p/422b937e9e86) |
-| Tue, 24 Mar 2026 13:22:08 GMT | Forget the Model War: China Just Won the AI Agent Race — And It Started With a Lobster | Tatsuru Okada | [Read More](https://medium.com/p/3af488a4bc0b) |
-| Tue, 24 Mar 2026 13:22:02 GMT | Dav [Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/2468f635ce72) |
-| Tue, 24 Mar 2026 13:18:44 GMT | Information disclosure in version control history - Lab-05 | M o $ t a | [Read More](https://medium.com/p/60090c5f3b42) |
-| Tue, 24 Mar 2026 13:16:05 GMT | CRA Uyum 101 : Teknik Yükümlülükleri Nasıl Uygulayalım? | Duygu Fidancıoğlu | [Read More](https://medium.com/p/59eff4d6c40e) |
-| Tue, 24 Mar 2026 13:12:11 GMT | The Next Bitcoin Mining Boom Has Already Started, Most People Haven’t Noticed Yet | OneMiners | [Read More](https://medium.com/p/c404a0b7ce45) |
-| Tue, 24 Mar 2026 13:06:39 GMT | THE WORLD IS SPENDING TRILLIONS ON WAR AND WONDERING WHY BIRTH RATES ARE FALLING | Dreams On Gasoline | [Read More](https://medium.com/p/7ea00d465253) |
-| Tue, 24 Mar 2026 13:03:26 GMT | Bug Bounty Kya Hota Hai? Bilkul Zero Se Samjho (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/d48c5d126759) |
-| Tue, 24 Mar 2026 13:02:07 GMT | Not Just Artificial Intelligence, It’s AI + U(You) | Gamuchirai | [Read More](https://medium.com/p/9550d50345ad) |
-| Tue, 24 Mar 2026 13:01:03 GMT | [V for Vendetta] The Decentralized Network of Ideas | MonoEssay | [Read More](https://medium.com/p/ae65cfe097be) |
