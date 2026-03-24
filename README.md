@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 20:53:43 GMT | ARP Spoofing | KN | [Read More](https://medium.com/p/7f51c61ef02e) |
+| Tue, 24 Mar 2026 20:47:45 GMT | How I Investigated a Suspicious File Using Threat Intelligence Tools: A SOC Analyst’s Approach | Becca | [Read More](https://medium.com/p/cdb7613d51ac) |
+| Tue, 24 Mar 2026 20:44:28 GMT | How I Detected an SSH Brute-Force Attack Using Splunk (Step-by-Step SOC Analysis) | Becca | [Read More](https://medium.com/p/a289105ae5cf) |
+| Tue, 24 Mar 2026 20:36:48 GMT | how a single JSON parameter allowed unauthorized manipulation(IDOR) | Georgezakary | [Read More](https://medium.com/p/842c5ef30110) |
+| Tue, 24 Mar 2026 20:15:35 GMT | I Built a Hacking Lab on My PC. Here’s How You Can Too. | Nikhil Shakya | [Read More](https://medium.com/p/d81c2e37222e) |
+| Tue, 24 Mar 2026 20:08:49 GMT | I Hacked an S3 Bucket in Under 10 Minutes — Here’s Exactly How | Aditya Bhardwaj | [Read More](https://medium.com/p/55379107c45f) |
+| Tue, 24 Mar 2026 19:55:06 GMT | Agent Security in Production: Threat Models, Abuse Cases, and Simple Defenses That Work | Sopan Deole | [Read More](https://medium.com/p/aadca521c2f8) |
 | Tue, 24 Mar 2026 19:54:22 GMT | Cross-Site Request Forgery (CSRF) - When an Attacker Turns a Logged-In User Into an Unknowing… | Rufus Kehinde | [Read More](https://medium.com/p/e26ba6beaf01) |
+| Tue, 24 Mar 2026 19:52:07 GMT | How a Crypto Miner Owned My Brand-New Server — And the 9-Layer Cleanup That Followed | Ismaililhan | [Read More](https://medium.com/p/b26e2c5ff3ae) |
 | Tue, 24 Mar 2026 19:46:26 GMT | Who Can Actually Read Your Digital Journal? | Didrik Hellman | [Read More](https://medium.com/p/f0337c443cdd) |
 | Tue, 24 Mar 2026 19:46:25 GMT | The Nemucod False Positive Hitting Microsoft Teams Users Today | UK Cyber Defence | [Read More](https://medium.com/p/d5e11193ae1b) |
 | Tue, 24 Mar 2026 19:44:24 GMT | CTF Writeup: CMC MCP — Command Injection via MCP Tool (150pts) | Yassineet | [Read More](https://medium.com/p/2b0c430f5b43) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 14:22:06 GMT | 15 Key Differences Between Pentesting & Red Teaming (Tool-Based): Learn the Practical Gaps | Very Lazy Tech | [Read More](https://medium.com/p/064e9f16c7d3) |
 | Tue, 24 Mar 2026 14:12:39 GMT | A Hands-On Guide to Penetration Testing with Metasploit and EternalBlue | Faslanrizni | [Read More](https://medium.com/p/45a1dd431688) |
 | Tue, 24 Mar 2026 13:59:12 GMT | fish walkthrough (proving ground -windows) | cyber_public_school | [Read More](https://medium.com/p/a0f88e3fdffc) |
-| Tue, 24 Mar 2026 13:52:16 GMT | TLS 1.3 Deep Dive — The Modern Shield of the Internet | Jothiprakash | [Read More](https://medium.com/p/32815fcb1b9c) |
-| Tue, 24 Mar 2026 13:52:04 GMT | Building Strong Tech Teams with Smart IT & Technology Recruitment Solutions | Vbeyond Corporation | [Read More](https://medium.com/p/5487e7228b25) |
-| Tue, 24 Mar 2026 13:51:42 GMT | GDPR-Compliant Contact Form APIs: A Beginner-Friendly Guide | ContactFormToAnyAPI | [Read More](https://medium.com/p/6aa7547a5730) |
-| Tue, 24 Mar 2026 13:47:55 GMT | How I Found Account take over via (“Host header injection Bypass”) | Skysenz | [Read More](https://medium.com/p/4ebea4faf20b) |
-| Tue, 24 Mar 2026 13:46:43 GMT | Securing Your Ollama Instance with Caddy Bearer Authentication | Dmitry Maslov | [Read More](https://medium.com/p/a2f131ae0101) |
-| Tue, 24 Mar 2026 13:46:00 GMT | Garage Door Repair Guide Stamford CT - Up & Down Garage Door | Up & Down Garage Door Services | [Read More](https://medium.com/p/04c6acf516df) |
-| Tue, 24 Mar 2026 13:43:15 GMT | Secuview WiFi Indoor 2K PTZ Baby Monitor Camera | secuview | [Read More](https://medium.com/p/faa460e1ce9d) |
-| Tue, 24 Mar 2026 13:42:32 GMT | Secuview 8Mp indoor IP Camera - Smart Detection & ONVIF Support. | secuview | [Read More](https://medium.com/p/0a644730ef84) |
