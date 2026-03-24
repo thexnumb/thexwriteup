@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 16:23:34 GMT | Understanding Routing & Routers: How Data Finds Its Path Across Networks | Ndu | [Read More](https://medium.com/p/a4d3c4f5b684) |
+| Tue, 24 Mar 2026 16:23:14 GMT | Understanding VPN: How Secure Communication Works Over the Internet | Ndu | [Read More](https://medium.com/p/559b1f245b5c) |
+| Tue, 24 Mar 2026 16:18:20 GMT | Certified Threat Intelligence Analyst (CTIA): A Complete Guide | Bluecodesecurity | [Read More](https://medium.com/p/937a0a07d439) |
+| Tue, 24 Mar 2026 16:14:33 GMT | Ghizer — LimeSurvey RCE, JDWP on Ghidra, and a Python Import Hijack to Root - TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/0dc31bbcfcac) |
+| Tue, 24 Mar 2026 16:13:24 GMT | The New Industrial Power | In All Media | [Read More](https://medium.com/p/c82952b47e1d) |
+| Tue, 24 Mar 2026 16:03:32 GMT | From Hype to Hardened AI: The End of Agentic Chaos. | Clarencer R. Mercer | [Read More](https://medium.com/p/18460d05eb7d) |
+| Tue, 24 Mar 2026 16:03:12 GMT | OAuth2 Login with Spring Boot: Google & GitHub Integration (Complete Guide) | Deepakraj S | [Read More](https://medium.com/p/66f1116f7326) |
+| Tue, 24 Mar 2026 15:54:36 GMT | Reducing Enterprise Cloud Security Incidents by 60%: An Adaptive Framework for Cyber Risk Modeling… | Taslimmirza Mansur | [Read More](https://medium.com/p/e6c6fe58bb37) |
+| Tue, 24 Mar 2026 15:45:22 GMT | Is AI quietly making your software supply chain less secure? | Cloudsmith | [Read More](https://medium.com/p/e1364de33f9a) |
+| Tue, 24 Mar 2026 15:39:13 GMT | Passkey Management and Account Recovery in Symfony | Matt Mochalkin | [Read More](https://medium.com/p/485c39ac53c0) |
+| Tue, 24 Mar 2026 15:38:02 GMT | TryHackMe: Extract — Writeup | Hikmat Gasimov | [Read More](https://medium.com/p/cb463881d6b3) |
+| Tue, 24 Mar 2026 15:35:58 GMT | Así es como realmente hackean a las pymes (Ciberseguridad para Pymes) | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/82508d6967cb) |
+| Tue, 24 Mar 2026 15:34:05 GMT | Why Most Startups Have Never Been Pentested | Mikuláš Třos | [Read More](https://medium.com/p/41dd5a882995) |
+| Tue, 24 Mar 2026 15:31:00 GMT | How I Investigated a Credential Stuffing Attack That Almost Nobody Noticed | Manubhav Sharma | [Read More](https://medium.com/p/c67288777843) |
+| Tue, 24 Mar 2026 15:12:14 GMT | *Infinite+ Free Developer Tools — No Signup, No Tracking* | Shahmeer farhan | [Read More](https://medium.com/p/c64ece82fcd3) |
+| Tue, 24 Mar 2026 15:11:00 GMT | How Ask Linc Protects Your Financial Data | Ethan Teng | [Read More](https://medium.com/p/3da0fc8dc7b2) |
+| Tue, 24 Mar 2026 15:10:20 GMT | I Thought I Understood Vulnerability Scanning. Then I Actually Did It. | FıratCan Bekar | [Read More](https://medium.com/p/4a0bc8c1b95f) |
+| Tue, 24 Mar 2026 15:09:46 GMT | ️ TryHackMe Write-up: From SQL Injection to Root Access | Rayenhafsawy | [Read More](https://medium.com/p/6b6b9e92705a) |
+| Tue, 24 Mar 2026 15:01:01 GMT | Assisted Continuous Assurance: If I Were Building an AppSec Program That Matched Engineering Speed… | Aparna Ash Himmatramka | [Read More](https://medium.com/p/08ff8afd9153) |
 | Tue, 24 Mar 2026 15:00:05 GMT | Vulnhub DC-1 Walkthrough | Bazil Brohi | [Read More](https://medium.com/p/939303a5b70a) |
 | Tue, 24 Mar 2026 14:57:30 GMT | Misconfigured SSO Led to a Critical Issue | Rahul Singh Chauhan | [Read More](https://medium.com/p/81c4c11d1a48) |
 | Tue, 24 Mar 2026 14:51:27 GMT | XPFarm: Top 10 AI Tools for Cybersecurity Automation | Pentester Club | [Read More](https://medium.com/p/2fc6363bea74) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 10:34:43 GMT | eJPT Footprinting and Scanning CTF 1 Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/d4a662fe0bbd) |
 | Tue, 24 Mar 2026 10:27:32 GMT | AI in Insurance Market Size, Share, Industry Growth — 2033 | NIkita Poplai | [Read More](https://medium.com/p/65a0f3b0ead6) |
 | Tue, 24 Mar 2026 10:20:41 GMT | Artificial Intelligence Trends in 2026: From Experimentation to Real-World Impact | Drmusa | [Read More](https://medium.com/p/ba0d847345f5) |
-| Tue, 24 Mar 2026 10:16:00 GMT | The Real Job of a Fractional CISO Is Not to “Advise” | Tyson Martin | [Read More](https://medium.com/p/664bf534c99a) |
-| Tue, 24 Mar 2026 10:14:29 GMT | # HackTheBox vs TryHackMe: Are They Actually Good for Beginners Or Just Popular? | Regan | [Read More](https://medium.com/p/a7f04e997ae1) |
-| Tue, 24 Mar 2026 10:08:43 GMT | Top VAPT Services Provider in India - CERT-In Company | Gowthammathiew | [Read More](https://medium.com/p/ef63d2290147) |
-| Tue, 24 Mar 2026 10:05:15 GMT | Ethernaut01-Fallback | DevOZ | [Read More](https://medium.com/p/43e020161da2) |
-| Tue, 24 Mar 2026 10:03:26 GMT | The Hidden Danger of eval() in Python (and Safer Alternatives) | Arun Mahara | [Read More](https://medium.com/p/0707401e7c9c) |
-| Tue, 24 Mar 2026 10:01:01 GMT | Top 10 Java Security Mistakes You Must Fix in 2026 | Furkan Alnıak | [Read More](https://medium.com/p/6d653b86376a) |
-| Tue, 24 Mar 2026 10:01:01 GMT | The Intern’s Laptop That Exposed an Entire Engineering Team | Alexandre Vandamme | [Read More](https://medium.com/p/9d8d97bb3b10) |
-| Tue, 24 Mar 2026 10:01:01 GMT | What a good Access Control Policy actually covers | Gaurav Shukla | [Read More](https://medium.com/p/bf12c91a9b29) |
-| Tue, 24 Mar 2026 10:00:55 GMT | How I Built a C2 Server in a Few Hours — Part II | entony tocco | [Read More](https://medium.com/p/f2b85a045cb2) |
-| Tue, 24 Mar 2026 09:54:59 GMT | The Moment Secrets Stop Being Configuration | Raymon Epping | [Read More](https://medium.com/p/d9407b9fbf64) |
-| Tue, 24 Mar 2026 09:54:58 GMT | Build a Prompt Injection Tester Agent — An AI Red Team Agent with Zeron ADK (ZAK) | Sakshi | [Read More](https://medium.com/p/a380e6ca8395) |
-| Tue, 24 Mar 2026 09:47:36 GMT | Cybersecurity Crisis Looms as Public iPhone Exploit Kit Leak Threatens Millions | Impact Newswire | [Read More](https://medium.com/p/4a6d2a3e0105) |
-| Tue, 24 Mar 2026 09:39:11 GMT | A.I will make work easy yet | Si Murray | [Read More](https://medium.com/p/35a511fc5240) |
-| Tue, 24 Mar 2026 09:38:24 GMT | CMSpit (THM) Tryhackme WriteUp Only Answer | Lawvye | [Read More](https://medium.com/p/3c5e8f04414d) |
-| Tue, 24 Mar 2026 09:37:09 GMT | Your Governance Program Does Not Need to Wait for IAM Modernization | Openiam | [Read More](https://medium.com/p/7ef508fa8437) |
-| Tue, 24 Mar 2026 09:36:00 GMT | VPN Efsaneleri ve Gerçekler: Gerçekten Görünmez misiniz? | Fatih Yuksektepe | [Read More](https://medium.com/p/5695f1994b61) |
-| Tue, 24 Mar 2026 09:31:00 GMT | ProtonVPN vs TunnelBear: One of These Will Cut You Off. The Other Won’t. | Ed O. - TechEd Shield - TechEd Publishers | [Read More](https://medium.com/p/d794e8a7478f) |
-| Tue, 24 Mar 2026 09:29:01 GMT | Android Application Security: Real-World Vulnerabilities, Exploits & Secure Coding Practices | Kavarhardik | [Read More](https://medium.com/p/582bc532a1d1) |
-| Tue, 24 Mar 2026 09:26:57 GMT | Tinder OSINT Guide: How to Investigate and Expose Catfish Profiles | EINITIAL24 | [Read More](https://medium.com/p/35a8e385c1aa) |
