@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 15:00:05 GMT | Vulnhub DC-1 Walkthrough | Bazil Brohi | [Read More](https://medium.com/p/939303a5b70a) |
+| Tue, 24 Mar 2026 14:57:30 GMT | Misconfigured SSO Led to a Critical Issue | Rahul Singh Chauhan | [Read More](https://medium.com/p/81c4c11d1a48) |
+| Tue, 24 Mar 2026 14:51:27 GMT | XPFarm: Top 10 AI Tools for Cybersecurity Automation | Pentester Club | [Read More](https://medium.com/p/2fc6363bea74) |
+| Tue, 24 Mar 2026 14:48:08 GMT | How Trivy — A Tool Built to Find Vulnerabilities — Became One | Om Khard | [Read More](https://medium.com/p/08d40c178070) |
+| Tue, 24 Mar 2026 14:46:00 GMT | [FORECAST] Will RedNovember be publicly reported to exploit at least one zero-day vulnerability in… | Wes Young | [Read More](https://medium.com/p/4c4acd05ea9d) |
+| Tue, 24 Mar 2026 14:45:10 GMT | Secure Communication — Strengthening Trust and Privacy in Modern Chat Management | Hajirpro | [Read More](https://medium.com/p/74faa05c3f63) |
+| Tue, 24 Mar 2026 14:43:49 GMT | Cybersecurity Expert Uncovers Major Flaw in NVIDIA Nemoclaw Security | Jim Clyde Monge | [Read More](https://medium.com/p/60993c3a40bb) |
+| Tue, 24 Mar 2026 14:41:18 GMT | TEBRİKLER DARKSWORD KAZANDINIZ. | Özlem Ozan | [Read More](https://medium.com/p/208ed1519f4b) |
+| Tue, 24 Mar 2026 14:36:13 GMT | The New Security Perimeter: Identity | Cuneyt TAS | [Read More](https://medium.com/p/932d381dc89c) |
+| Tue, 24 Mar 2026 14:35:04 GMT | What You Didn’t Know About Maritime Security Services in the UK | MaritimusHub | [Read More](https://medium.com/p/144a9cd53f8a) |
+| Tue, 24 Mar 2026 14:31:21 GMT | How to Plan and Execute Event Logistics in London for a Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/a5708bc5e6f6) |
+| Tue, 24 Mar 2026 14:28:03 GMT | Security Policy vs. Security Posture | Frank Leitner | [Read More](https://medium.com/p/f06233f2f072) |
+| Tue, 24 Mar 2026 14:27:19 GMT | Ataraxia : Menemukan Tenang di Tengah Badai | Marcellius | [Read More](https://medium.com/p/895754defd3d) |
+| Tue, 24 Mar 2026 14:26:01 GMT | PolyShell: How a PHP File Can Be Uploaded to a Server via the Magento 2 REST API | Freento | [Read More](https://medium.com/p/87d43c349f7f) |
+| Tue, 24 Mar 2026 14:22:50 GMT | How path traversal exploit using the burp suite? | Bilal Shaikh | [Read More](https://medium.com/p/89b0ee0ba459) |
+| Tue, 24 Mar 2026 14:22:06 GMT | 15 Key Differences Between Pentesting & Red Teaming (Tool-Based): Learn the Practical Gaps | Very Lazy Tech | [Read More](https://medium.com/p/064e9f16c7d3) |
+| Tue, 24 Mar 2026 14:12:39 GMT | A Hands-On Guide to Penetration Testing with Metasploit and EternalBlue | Faslanrizni | [Read More](https://medium.com/p/45a1dd431688) |
+| Tue, 24 Mar 2026 13:59:12 GMT | fish walkthrough (proving ground -windows) | cyber_public_school | [Read More](https://medium.com/p/a0f88e3fdffc) |
+| Tue, 24 Mar 2026 13:52:16 GMT | TLS 1.3 Deep Dive — The Modern Shield of the Internet | Jothiprakash | [Read More](https://medium.com/p/32815fcb1b9c) |
+| Tue, 24 Mar 2026 13:52:04 GMT | Building Strong Tech Teams with Smart IT & Technology Recruitment Solutions | Vbeyond Corporation | [Read More](https://medium.com/p/5487e7228b25) |
 | Tue, 24 Mar 2026 13:51:42 GMT | GDPR-Compliant Contact Form APIs: A Beginner-Friendly Guide | ContactFormToAnyAPI | [Read More](https://medium.com/p/6aa7547a5730) |
+| Tue, 24 Mar 2026 13:47:55 GMT | How I Found Account take over via (“Host header injection Bypass”) | Skysenz | [Read More](https://medium.com/p/4ebea4faf20b) |
 | Tue, 24 Mar 2026 13:46:43 GMT | Securing Your Ollama Instance with Caddy Bearer Authentication | Dmitry Maslov | [Read More](https://medium.com/p/a2f131ae0101) |
 | Tue, 24 Mar 2026 13:46:00 GMT | Garage Door Repair Guide Stamford CT - Up & Down Garage Door | Up & Down Garage Door Services | [Read More](https://medium.com/p/04c6acf516df) |
 | Tue, 24 Mar 2026 13:43:15 GMT | Secuview WiFi Indoor 2K PTZ Baby Monitor Camera | secuview | [Read More](https://medium.com/p/faa460e1ce9d) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 09:31:00 GMT | ProtonVPN vs TunnelBear: One of These Will Cut You Off. The Other Won’t. | Ed O. - TechEd Shield - TechEd Publishers | [Read More](https://medium.com/p/d794e8a7478f) |
 | Tue, 24 Mar 2026 09:29:01 GMT | Android Application Security: Real-World Vulnerabilities, Exploits & Secure Coding Practices | Kavarhardik | [Read More](https://medium.com/p/582bc532a1d1) |
 | Tue, 24 Mar 2026 09:26:57 GMT | Tinder OSINT Guide: How to Investigate and Expose Catfish Profiles | EINITIAL24 | [Read More](https://medium.com/p/35a8e385c1aa) |
-| Tue, 24 Mar 2026 09:26:15 GMT | Ethernaut00-Hello Ethernaut | DevOZ | [Read More](https://medium.com/p/9160a1a8f9ea) |
-| Tue, 24 Mar 2026 09:25:06 GMT | The Remote Work Surge: Navigating the UAE’s New Cybersecurity Frontier | Atheeafaaf | [Read More](https://medium.com/p/39284955b1fb) |
-| Tue, 24 Mar 2026 09:13:05 GMT | The 2038 Problem: Why Some Computers Could Crash in 2038 | Bilal Ahmad | [Read More](https://medium.com/p/860e4753a5eb) |
-| Tue, 24 Mar 2026 09:04:59 GMT | AI Can Be Hacked With Words — The New Attack Surface Nobody Is Securing | Nisarg Patel | [Read More](https://medium.com/p/2053d1ff4dab) |
-| Tue, 24 Mar 2026 09:04:25 GMT | We Are Not Afraid of AI. We Are Afraid of Losing Control | The Diary of the Next World | [Read More](https://medium.com/p/0f8f62b24f9f) |
-| Tue, 24 Mar 2026 08:51:41 GMT | Understanding IP Address and Its Classes (Beginner-Friendly Guide) | Raju | [Read More](https://medium.com/p/c5de2402defb) |
-| Tue, 24 Mar 2026 08:49:30 GMT | TryHackMe Built an AI Pentester Using Your Data : Here’s Why I’m Not Deleting My Account (Yet) | Motasem Hamdan | [Read More](https://medium.com/p/6f967433a883) |
-| Tue, 24 Mar 2026 08:47:00 GMT | Why Fear Sells Better Than Facts: The AI Layoff Narrative | Vijay Kumar Gupta | [Read More](https://medium.com/p/ce9a20839bc4) |
-| Tue, 24 Mar 2026 08:42:52 GMT | Who Will Qatar Blame for Ras Laffan? (And Who Will Actually Get Away With It) | Vogon Slayer | [Read More](https://medium.com/p/791bd6459d0b) |
-| Tue, 24 Mar 2026 08:37:58 GMT | The Lethal Trifecta: The Hidden Attack Surface of Autonomous Assistants | Lokesh Talagatla | [Read More](https://medium.com/p/6cc22680d10e) |
-| Tue, 24 Mar 2026 08:36:24 GMT | วิวัฒนาการของซอฟต์แวร์ความบันเทิงบนมือถือและการปรับปรุงความปลอดภัยในเอเชียตะวันออกเฉียงใต้ 2026 | Joker123 CO TH | [Read More](https://medium.com/p/975a64520a6c) |
-| Tue, 24 Mar 2026 08:20:58 GMT | # ⚠️ DDoS Hücumu Nədir? Sistem Necə Çökür və Niyə Bu Qədər Təhlükəlidir? | cybershieldy.com | [Read More](https://medium.com/p/d9183e123f54) |
-| Tue, 24 Mar 2026 08:10:49 GMT | Emergency Call Bell System for Department Stores: Real-Time Response Solution | Tobetech | [Read More](https://medium.com/p/797c5754208c) |
-| Tue, 24 Mar 2026 08:07:23 GMT | HTTP Basic Auth-LetsDefend Challenge | PhishMonger | [Read More](https://medium.com/p/9f954dfd1774) |
-| Tue, 24 Mar 2026 08:06:33 GMT | Nmap Complete Cheat Sheet 2026: A Practical Guide to Network Scanning and Security | Dargslan | [Read More](https://medium.com/p/4544f759a9c7) |
-| Tue, 24 Mar 2026 08:01:01 GMT | Your iPhone Updated Itself Last Night and You Did Not — Here Is Why That Should Scare You a Little | MayhemCode | [Read More](https://medium.com/p/92bd4ac7b4da) |
-| Tue, 24 Mar 2026 07:58:18 GMT | Unlocking the Web3 Vault: Exposing Sensitive Data via Unprotected debug_traceBlockByNumber | Hacker MD | [Read More](https://medium.com/p/71329b2844a2) |
-| Tue, 24 Mar 2026 07:54:32 GMT | How to Identify, Analyze, and Treat Risks Using ISO/IEC 27005 | Asmeen S D | [Read More](https://medium.com/p/7958a66d12ae) |
-| Tue, 24 Mar 2026 07:53:42 GMT | CVSS v4.0: The Practical Field Guide for Vulnerability Management | Andrey Pautov | [Read More](https://medium.com/p/5b5a59728456) |
-| Tue, 24 Mar 2026 07:47:00 GMT | Practical Guide to SIEM Architecture: Building Scalable, Secure, and Intelligent Security… | Majidbasharat | [Read More](https://medium.com/p/c232cae119b8) |
-| Tue, 24 Mar 2026 07:35:54 GMT | How Can IT Support Improve Business Efficiency? | Rx Technology | [Read More](https://medium.com/p/1c97f36dcffc) |
