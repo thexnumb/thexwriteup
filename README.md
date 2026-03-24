@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Mar 2026 05:44:42 GMT | eJPT Information Gathering CTF 1 Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/07aa6767fbab) |
+| Tue, 24 Mar 2026 05:41:54 GMT | Agentic AI for AppSec: Hype or a Real Security Breakthrough? | James Miller | [Read More](https://medium.com/p/e3f1710e7a47) |
+| Tue, 24 Mar 2026 05:31:32 GMT | Windows Endpoint Detection PsExec With accepteula Flag | Gopicb | [Read More](https://medium.com/p/05e088f277e3) |
+| Tue, 24 Mar 2026 05:19:12 GMT | Snowflake SQL in a Nutshell: Open Trust Center Severities in your Organization | NadirDoctor | [Read More](https://medium.com/p/8418524d7739) |
+| Tue, 24 Mar 2026 05:16:35 GMT | Nmap Lab 1 — Basic & Important Scans | Hemaprasadpotnuru | [Read More](https://medium.com/p/4359f736d1b2) |
+| Tue, 24 Mar 2026 05:16:00 GMT | I Thought My Flutter Code Was Safe… Until I Learned About Obfuscation | Yash Patel | [Read More](https://medium.com/p/2e8c08f7d051) |
+| Tue, 24 Mar 2026 05:05:08 GMT | Multi-Agent AI Security: When AI Systems Attack Each Other | Cynox Security LLP. | [Read More](https://medium.com/p/26ec8d3a413c) |
+| Tue, 24 Mar 2026 05:05:07 GMT | Async Bugs in Flutter: The Problems You Don’t See Coming | Pravin | [Read More](https://medium.com/p/ccbfaac13fd2) |
+| Tue, 24 Mar 2026 05:04:02 GMT | The “Free WiFi” | Meyta Zenis Taliti | [Read More](https://medium.com/p/75714f666c25) |
+| Tue, 24 Mar 2026 05:03:24 GMT | How to Write Predictable Async Code in Flutter | Pravin | [Read More](https://medium.com/p/5c1b5da70e3c) |
+| Tue, 24 Mar 2026 04:56:16 GMT | IP SPOOFING ATTACK | Subrat Mahanta | [Read More](https://medium.com/p/22f3f057ff21) |
+| Tue, 24 Mar 2026 04:37:00 GMT | How to Choose the Best High-Quality Hologram Label for Your Products | Unicube | [Read More](https://medium.com/p/807e070d2ff5) |
+| Tue, 24 Mar 2026 04:35:25 GMT | Security Teams HATE This One Weird Claude Trick | Paritosh | [Read More](https://medium.com/p/96175cf64f5b) |
 | Tue, 24 Mar 2026 04:25:00 GMT | Understanding AWS subnets-how networks are divided in the cloud | unica 02 | [Read More](https://medium.com/p/367db728c91b) |
 | Tue, 24 Mar 2026 04:23:10 GMT | What’s What? Library OS vs. Immutable OS: The “How to Build a Hacker-Proof House” Edition | Worawit St | [Read More](https://medium.com/p/17b710756dd2) |
 | Tue, 24 Mar 2026 04:21:00 GMT | The Myth of the “Leapfrog” in Digital Security | Gabriel Mahia | [Read More](https://medium.com/p/b2cb3694fc3a) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Mar 2026 19:01:46 GMT | Ways to catch cheating husband in marriage? | Michael Parks | [Read More](https://medium.com/p/6e983bd88622) |
 | Mon, 23 Mar 2026 19:01:23 GMT | How to Destroy Your Linux System in 13 Characters (Bash Fork Bomb) | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/c477fac2338e) |
 | Mon, 23 Mar 2026 18:59:35 GMT | COURAGE: A Guide to Psychological Safety and Fulfillment | Bryan Niederhelm | [Read More](https://medium.com/p/94fd1076c3fc) |
-| Mon, 23 Mar 2026 18:42:39 GMT | URGENT SECURITY ALERT: Global Phishing Network & The Systematic Failure of Digital Justice | Apollonas Soben | [Read More](https://medium.com/p/20f70aef4925) |
-| Mon, 23 Mar 2026 18:41:22 GMT | Hello… Hi… Welcome… | Tara's Thought Book | [Read More](https://medium.com/p/4cb24a58eb6c) |
-| Mon, 23 Mar 2026 18:40:08 GMT | Why Cheap PCI Compliance Software Can Cost Your Small Business More | Emory French | [Read More](https://medium.com/p/90633bc39753) |
-| Mon, 23 Mar 2026 18:40:02 GMT | Access Control List’i Kurcalamak — Part 2 | Umuteren | [Read More](https://medium.com/p/b41e21f5e21d) |
-| Mon, 23 Mar 2026 18:36:46 GMT | Why I Chose Cybersecurity: A Purpose Bigger Than Myself | Nidya Alexandra Quinto | [Read More](https://medium.com/p/17aef7b9e732) |
-| Mon, 23 Mar 2026 18:12:08 GMT | The Lab Measured What the Field Already Witnessed: AI Psychosis, Freakshow, and the Architecture… | Berend Watchus | [Read More](https://medium.com/p/5c42889b8ef8) |
-| Mon, 23 Mar 2026 18:08:51 GMT | From Input Filtering to Data Exfiltration: Exploiting CSV Injection in a Real Pentest | Cyber Tamarin | [Read More](https://medium.com/p/6b2909c9282d) |
-| Mon, 23 Mar 2026 18:00:39 GMT | Where Data Lives: Exploring the Locations of Data Centers Behind Social Media Apps | Shavvon Cintron | [Read More](https://medium.com/p/c0d8568f1ab9) |
-| Mon, 23 Mar 2026 17:56:53 GMT | Singapore: The Smart Nation and the Future of QR Security ️ | Crypton Official App | [Read More](https://medium.com/p/2b9c5e8f3335) |
-| Mon, 23 Mar 2026 17:56:15 GMT | The AI Revolution is Here: Are You Ready to Be Left Behind? | Nazib Khan | [Read More](https://medium.com/p/4bbca96402f5) |
-| Mon, 23 Mar 2026 17:53:56 GMT | Cybersecurity in 2026: How Conflict, AI, and Global Threats Are Redefining Digital Risk | TechDemocracy | [Read More](https://medium.com/p/ce7469bffddf) |
-| Mon, 23 Mar 2026 17:47:00 GMT | How 3M Promotes Innovation | Anwarul A.K.M | [Read More](https://medium.com/p/7dc7ffbab8a1) |
-| Mon, 23 Mar 2026 17:39:36 GMT | I Spent a Day Hacking My Own Security Camera. It Gave Up Its Secrets by Midnight. | Mehdi | [Read More](https://medium.com/p/e982be933d89) |
