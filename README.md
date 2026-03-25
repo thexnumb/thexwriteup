@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Mar 2026 02:13:04 GMT | Kinetic FinOps: Intercepting the Token-Burn at the Speed of Inference | Thiago Nazario | [Read More](https://medium.com/p/6f2f9f7d1baf) |
+| Wed, 25 Mar 2026 02:07:09 GMT | It’ll always be you | dwntwng1rl | [Read More](https://medium.com/p/7123672da1fd) |
+| Wed, 25 Mar 2026 02:04:06 GMT | Phishing Didn’t Just Get Smarter. It Got Personal! | Ben   Olufemi akintounde | [Read More](https://medium.com/p/439ed0195bac) |
+| Wed, 25 Mar 2026 02:03:26 GMT | Building a Telegram-Based AI Troubleshooter for Wazuh SIEM | yzw.joel | [Read More](https://medium.com/p/46930a70c475) |
+| Wed, 25 Mar 2026 01:59:24 GMT | Threat Intelligence Tools: A TryHackMe Walkthrough | Alemayehu Teferra | [Read More](https://medium.com/p/0aa3aeb6a6b4) |
+| Wed, 25 Mar 2026 01:51:00 GMT | Endpoint Security: Why Your Antivirus Is a Bouncer With a Photo List (And What You Actually Need) | Sharon Martin | [Read More](https://medium.com/p/bfe559c2f366) |
+| Wed, 25 Mar 2026 01:51:00 GMT | Vendor Risk: Your Business Is Only as Secure as the Weakest Company You Trust | Sharon Martin | [Read More](https://medium.com/p/507e1003de81) |
+| Wed, 25 Mar 2026 01:50:03 GMT | 6 Secret Linux Commands That Can Save You Hours of Work (or Days) | Arti Verma | [Read More](https://medium.com/p/d0919fb09a46) |
+| Wed, 25 Mar 2026 01:49:28 GMT | 60 Essential Linux Commands You Should Know (Beginners and Intermediate) | Arti Verma | [Read More](https://medium.com/p/7cfba838f00f) |
+| Wed, 25 Mar 2026 01:44:51 GMT | The Five Step Roadmap for Tackling CMMC | Emory French | [Read More](https://medium.com/p/ef332bdb9ecf) |
+| Wed, 25 Mar 2026 01:23:08 GMT | Your AI Agent Just Got a Master Key. Here’s How to Take It Back. | Faisal Feroz | [Read More](https://medium.com/p/3e33a1f7ee91) |
+| Wed, 25 Mar 2026 01:19:55 GMT | HackTheBox Cap Writeup | xux | [Read More](https://medium.com/p/b6abe2512ddb) |
+| Wed, 25 Mar 2026 01:14:45 GMT | Architecting a Multi-Layered Security Stack: Beyond Basic IAM in Google Cloud | Arnaud Redon | [Read More](https://medium.com/p/6098e648c343) |
+| Wed, 25 Mar 2026 01:09:58 GMT | Good vs Bad Threat Intelligence — Can You Tell the Difference? | Paritosh | [Read More](https://medium.com/p/002e968e1263) |
+| Wed, 25 Mar 2026 01:01:00 GMT | [Tenet] Survival Manual for Disabling Backdoor Attacks from the Future | MonoEssay | [Read More](https://medium.com/p/49aa75477079) |
+| Wed, 25 Mar 2026 00:44:36 GMT | Beyond Cognitive Warfare: Why the Real Battle Is Over the Structure of Perception | Shidenkai-Alpha | [Read More](https://medium.com/p/0e143df059ba) |
+| Wed, 25 Mar 2026 00:03:08 GMT | Keeping Valuables Secure — Why your home may not be the best option | Kuber Vaults | [Read More](https://medium.com/p/076375d30642) |
+| Wed, 25 Mar 2026 00:01:01 GMT | Guardrails vs Security in LLM Systems: A Confusion That Many AI Teams Still Have | Madhan Karthik Ramasamy | [Read More](https://medium.com/p/7f9cc0cca3d4) |
+| Tue, 24 Mar 2026 23:54:01 GMT | DVIUS AI: The End of Cybersecurity as We Know It | Charles Burke | [Read More](https://medium.com/p/f41877355fa6) |
 | Tue, 24 Mar 2026 23:32:54 GMT | picoCTF Writeup — Fool the Lockout (Web Exploitation) | mayhack | [Read More](https://medium.com/p/ae1dd6a3d038) |
 | Tue, 24 Mar 2026 23:30:40 GMT | picoCTF Writeup — Failure Failure | mayhack | [Read More](https://medium.com/p/e629a92c3b6f) |
 | Tue, 24 Mar 2026 23:30:09 GMT | The Quiet Siege of Ransomware | Zul Arifin | [Read More](https://medium.com/p/548736129442) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 17:38:54 GMT | Why location.href Isn’t Just a Redirect: | Marduk I Am | [Read More](https://medium.com/p/f7c77c0e4bcd) |
 | Tue, 24 Mar 2026 17:36:53 GMT | Android Hacking: RAW & REAL — AgniOps Security | Un9nplayer | [Read More](https://medium.com/p/0252b5638836) |
 | Tue, 24 Mar 2026 17:33:13 GMT | I helped build a fintech platform. It taught me more about cybersecurity than I expected. | Iwalade Adio | [Read More](https://medium.com/p/2955085c282f) |
-| Tue, 24 Mar 2026 17:28:07 GMT | The DarkSword Leak Proves Something Dangerous: | Asuquo Levy Eyo Jr | [Read More](https://medium.com/p/ab3c495b32ee) |
-| Tue, 24 Mar 2026 17:23:03 GMT | Android Hacking: RAW & REAL— AgniOps Security | AgniOps | [Read More](https://medium.com/p/a354d3057847) |
-| Tue, 24 Mar 2026 17:21:57 GMT | Why Woodland, CA Residents and Business Owners Are Rethinking Their Security Strategy in 2026 | Uniworth security Editorial | [Read More](https://medium.com/p/602559fa3c35) |
-| Tue, 24 Mar 2026 17:20:41 GMT | Windows Defender’s Dirty Secret: Steal Passwords in Seconds! | cybrNK | [Read More](https://medium.com/p/c70e1637b1c6) |
-| Tue, 24 Mar 2026 17:19:59 GMT | İnternetin Temelleri: İstemci ve Sunucu Mimarisi (Client-Server Basics) | Onur Öztürk | [Read More](https://medium.com/p/dd0125c35a4b) |
-| Tue, 24 Mar 2026 17:18:06 GMT | Is Your Phone Camera Safe? A Cybersecurity Awareness Demo | Nithish vaduganathan | [Read More](https://medium.com/p/af02f611f223) |
-| Tue, 24 Mar 2026 17:17:50 GMT | How Attackers Actually Break Identity Systems | Dr. Shashi Karhail | [Read More](https://medium.com/p/5e46a441b56d) |
-| Tue, 24 Mar 2026 17:12:21 GMT | The Future of Crypto Security Isn’t More Complexity, It’s Better Design | Robert Schmidt | [Read More](https://medium.com/p/0db7b40c3741) |
-| Tue, 24 Mar 2026 17:08:44 GMT | How I Made Over $72,000 From a Single Private Bug Bounty Program Without Chasing Hundreds of… | Ferdus Alam | [Read More](https://medium.com/p/ce014773522c) |
-| Tue, 24 Mar 2026 16:59:30 GMT | Beyond the Eye: The Reality of IDN Homograph Attacks | Muhammad Zeeshan | [Read More](https://medium.com/p/12457b337dee) |
-| Tue, 24 Mar 2026 16:56:00 GMT | Most Bugs Aren’t Bugs. They’re Mismatched Assumptions | Prem Chandak | [Read More](https://medium.com/p/891af941dcb7) |
-| Tue, 24 Mar 2026 16:53:59 GMT | A Lava Lamp Is Protecting Your Password Right Now | Prasanna Brabourame | [Read More](https://medium.com/p/103fcc713c93) |
-| Tue, 24 Mar 2026 16:47:04 GMT | TuesdayTool 42: Domain Digger, One-Stop Interface For Domain Investigation | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/0e1fbf5266a0) |
-| Tue, 24 Mar 2026 16:45:06 GMT | Most AI Agents in production are one prompt-injection away from draining their own wallets. | Alfa | [Read More](https://medium.com/p/e9545bc66c40) |
-| Tue, 24 Mar 2026 16:37:13 GMT | I Followed the Data Trail — It Led Straight to a Production Server | Iski | [Read More](https://medium.com/p/a4ee78a160c0) |
-| Tue, 24 Mar 2026 16:23:34 GMT | Understanding Routing & Routers: How Data Finds Its Path Across Networks | Ndu | [Read More](https://medium.com/p/a4d3c4f5b684) |
-| Tue, 24 Mar 2026 16:23:14 GMT | Understanding VPN: How Secure Communication Works Over the Internet | Ndu | [Read More](https://medium.com/p/559b1f245b5c) |
-| Tue, 24 Mar 2026 16:18:20 GMT | Certified Threat Intelligence Analyst (CTIA): A Complete Guide | Bluecodesecurity | [Read More](https://medium.com/p/937a0a07d439) |
-| Tue, 24 Mar 2026 16:14:33 GMT | Ghizer — LimeSurvey RCE, JDWP on Ghidra, and a Python Import Hijack to Root - TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/0dc31bbcfcac) |
