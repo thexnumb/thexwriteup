@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Mar 2026 04:21:35 GMT | Not Every Joint Chief of Staff Becomes Commander-in-Chief | Naing Min Khant | [Read More](https://medium.com/p/d7abe3f6cae1) |
+| Wed, 25 Mar 2026 04:13:25 GMT | The Hidden Impact of War on UI/UX | Rahul Kumar | [Read More](https://medium.com/p/28d9fb088557) |
+| Wed, 25 Mar 2026 03:53:19 GMT | Obfuscation Isn’t Security — And Attackers Love That | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/b9a5cf90a9fc) |
+| Wed, 25 Mar 2026 03:50:15 GMT | The Day I Realized JWT Isn’t Always Safe And Discovered PASETO | Parth Dadhich | [Read More](https://medium.com/p/e74675509d48) |
+| Wed, 25 Mar 2026 03:45:24 GMT | Selectel ограничивает доступ к адресам сервисов Госуслуг с 30 марта 2026 года | Chernousov Anton | [Read More](https://medium.com/p/a335b4a099c7) |
+| Wed, 25 Mar 2026 03:37:33 GMT | From Circuits to Ciphers: My Journey into Cybersecurity | Diptava Dey | [Read More](https://medium.com/p/497494b6c802) |
+| Wed, 25 Mar 2026 03:33:33 GMT | Shelob’s Lair: Why Your Next Cybersecurity Strategy Needs More Legs and Less Logic | misselbereth | [Read More](https://medium.com/p/6451f64979c6) |
+| Wed, 25 Mar 2026 03:32:56 GMT | How One of Toyota’s Suppliers Was Hit by a Supply Chain Cyberattack and Brought Its Entire… | David SEHYEON Baek | [Read More](https://medium.com/p/d2132da917b2) |
+| Wed, 25 Mar 2026 03:27:48 GMT | We Detonated the Real LiteLLM Malware on EC2: Here’s What Happened | Tarek CHEIKH | [Read More](https://medium.com/p/e937c77c26b7) |
+| Wed, 25 Mar 2026 03:27:01 GMT | Anatomy of a Supply Chain Attack: How LiteLLM Was Weaponized in 6 Hours | Tarek CHEIKH | [Read More](https://medium.com/p/d5b8cdbde347) |
+| Wed, 25 Mar 2026 03:26:27 GMT | Akhuwat Loan Apply Online (2026 Guide) – Eligibility, Application Process, and Approval Tips | Akhuwat Loan Guide | [Read More](https://medium.com/p/b74e345f6882) |
+| Wed, 25 Mar 2026 03:17:50 GMT | AI Security & Safe Design Using Novita AI | Kiran Kumar Reddy | [Read More](https://medium.com/p/a6120730fc99) |
+| Wed, 25 Mar 2026 03:13:33 GMT | The Phish Inside the House: How Hackers Hijacked Microsoft’s Own Alert System | SOCFortress | [Read More](https://medium.com/p/4bb7883e1302) |
+| Wed, 25 Mar 2026 02:29:02 GMT | APT41 Turns Google Calendar Into a Covert C2 Channel With TOUGHPROGRESS Malware | TheRedSheep | [Read More](https://medium.com/p/a3628f4a3946) |
+| Wed, 25 Mar 2026 02:25:14 GMT | Handala’s DICOM Obsession: Iranian State Hackers Zero In on Medical Imaging Systems | TheRedSheep | [Read More](https://medium.com/p/6832c6e8a86e) |
 | Wed, 25 Mar 2026 02:13:04 GMT | Kinetic FinOps: Intercepting the Token-Burn at the Speed of Inference | Thiago Nazario | [Read More](https://medium.com/p/6f2f9f7d1baf) |
 | Wed, 25 Mar 2026 02:07:09 GMT | It’ll always be you | dwntwng1rl | [Read More](https://medium.com/p/7123672da1fd) |
 | Wed, 25 Mar 2026 02:04:06 GMT | Phishing Didn’t Just Get Smarter. It Got Personal! | Ben   Olufemi akintounde | [Read More](https://medium.com/p/439ed0195bac) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 18:20:57 GMT | From SOC to AI Command Center | Sales | [Read More](https://medium.com/p/4bd770aae2e7) |
 | Tue, 24 Mar 2026 18:19:20 GMT | Using Claude Code for a security review — a short story from a humble developer | Christoffer Pedersen | [Read More](https://medium.com/p/172c0b40ffbf) |
 | Tue, 24 Mar 2026 18:17:21 GMT | Alert Fatigue Is a Symptom. Prevention-First Cloud Security Is the Fix. | Okan Yıldız | [Read More](https://medium.com/p/5204fac1bdb2) |
-| Tue, 24 Mar 2026 18:16:05 GMT | Who Needs VPN?? SSRF Already inside | 0xTyrion404 | [Read More](https://medium.com/p/fae7c6f8844b) |
-| Tue, 24 Mar 2026 18:16:00 GMT | The Security Checklist for Every AI Agent That Calls External APIs | Wisdomademiju | [Read More](https://medium.com/p/287273373e5c) |
-| Tue, 24 Mar 2026 18:12:11 GMT | Top Network Monitoring Tools Every IT Team Should Know | Grace | [Read More](https://medium.com/p/45de21fbe058) |
-| Tue, 24 Mar 2026 18:04:49 GMT | The Ultimate Bug Bounty Course: From Zero to Advanced Hacker 2 | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/5835235bac0d) |
-| Tue, 24 Mar 2026 18:02:29 GMT | Some questions from the hot seat : First VAPT interview experience | Sarvesh Sd | [Read More](https://medium.com/p/369d21dffc4e) |
-| Tue, 24 Mar 2026 17:59:04 GMT | AW! Snap: Looting EBS Snapshots with Ease. | Jinendar Kothari | [Read More](https://medium.com/p/800031c2c505) |
-| Tue, 24 Mar 2026 17:49:15 GMT | TRYHACKME BREAKING RSA | Yiğit İbis | [Read More](https://medium.com/p/7e9f5d435cc2) |
-| Tue, 24 Mar 2026 17:48:00 GMT | The Ultimate Bug Bounty Course: From Zero to Advanced Hacker | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/269160fa6518) |
-| Tue, 24 Mar 2026 17:44:53 GMT | El valor de la complicidad | Diana Santodomingo Soto | [Read More](https://medium.com/p/2c97cf179f1c) |
-| Tue, 24 Mar 2026 17:41:28 GMT | What Comes Next for Healthcare IoT Security? Rethinking AI Beyond Accuracy in Real-World Systems | Naga Prem Sai Nellure | [Read More](https://medium.com/p/288305790376) |
-| Tue, 24 Mar 2026 17:40:42 GMT | The Most Dangerous Cyber Attacks Are Never Fired | Muhammad Ali Khan | [Read More](https://medium.com/p/7815fb3c95b8) |
-| Tue, 24 Mar 2026 17:39:19 GMT | Packets Primer-PicoCTF | Vishnu Vardhan | [Read More](https://medium.com/p/ad7f3f399f95) |
-| Tue, 24 Mar 2026 17:38:54 GMT | Why location.href Isn’t Just a Redirect: | Marduk I Am | [Read More](https://medium.com/p/f7c77c0e4bcd) |
-| Tue, 24 Mar 2026 17:36:53 GMT | Android Hacking: RAW & REAL — AgniOps Security | Un9nplayer | [Read More](https://medium.com/p/0252b5638836) |
-| Tue, 24 Mar 2026 17:33:13 GMT | I helped build a fintech platform. It taught me more about cybersecurity than I expected. | Iwalade Adio | [Read More](https://medium.com/p/2955085c282f) |
