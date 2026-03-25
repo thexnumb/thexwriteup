@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Mar 2026 08:46:11 GMT | A Lawyer’s Guide to Digital Confidentiality: How to Secure Legal Files in 3 Simple Steps | Crypton Official App | [Read More](https://medium.com/p/bf35fa387208) |
+| Wed, 25 Mar 2026 08:45:03 GMT | WordPress Hacked Redirect: Your Ultimate Fix Guide | John Hawkins | [Read More](https://medium.com/p/b09608a0277e) |
+| Wed, 25 Mar 2026 08:34:39 GMT | Best Network Solution Providers in Jaipur - Solve The Network | Tushar M Kumawat | [Read More](https://medium.com/p/6ce2eb8842b0) |
+| Wed, 25 Mar 2026 08:34:09 GMT | Improper Input Handling Leading to Client Side Code Execution and Backend Information Disclosure | Aditya Bhatt | [Read More](https://medium.com/p/fe58853f9f0c) |
+| Wed, 25 Mar 2026 08:32:28 GMT | Why Businesses Prefer Outsourcing Software Development to Pune Companies | Adiasquare_software_solutions | [Read More](https://medium.com/p/c3d10f15dc05) |
+| Wed, 25 Mar 2026 08:30:57 GMT | CVE-2024–51482 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/9d6bbe3b8432) |
+| Wed, 25 Mar 2026 08:30:00 GMT | Session Hijacking: The Attack That Doesn’t Need Your Password | Cybersphere Official | [Read More](https://medium.com/p/5078c4cd412e) |
+| Wed, 25 Mar 2026 08:24:50 GMT | Implementation is easy. Integration is what drives transformation | Jose Salgado | [Read More](https://medium.com/p/7509cce3e91e) |
+| Wed, 25 Mar 2026 08:23:04 GMT | The LiteLLM Supply Chain Attack: How a Security Scanner Became the Weapon | Candy Wong | [Read More](https://medium.com/p/495a6de9c7c5) |
+| Wed, 25 Mar 2026 08:21:12 GMT | AI Supply Chain Attacks: The Next SolarWinds? | RedSnap Defense | [Read More](https://medium.com/p/0d54a41b60ec) |
+| Wed, 25 Mar 2026 08:18:26 GMT | AMAXG: ZIOW Token Monthly Distribution for March 2026 | BizAuto l AMAXG | [Read More](https://medium.com/p/37c5c7d49135) |
+| Wed, 25 Mar 2026 08:14:57 GMT | Dark Web Intelligence reports an attack on Turkish SCADA/HMI systems | Bobswallower | [Read More](https://medium.com/p/9bc20f38fec7) |
+| Wed, 25 Mar 2026 08:14:47 GMT | SQL Injection Attacks | Aaravsrivastava | [Read More](https://medium.com/p/152b71a85c60) |
+| Wed, 25 Mar 2026 08:08:11 GMT | WordPress Core Security 2026 — Part 5 | Leetsec Sarwar | [Read More](https://medium.com/p/3def2e36ceb2) |
+| Wed, 25 Mar 2026 08:07:05 GMT | Advanced and Affordable Cybersecurity Course with Placement Support | Infosyst | [Read More](https://medium.com/p/bc65c9aff21c) |
+| Wed, 25 Mar 2026 08:06:22 GMT | India’s New Data Law: A Simple Guide | Saurav Kumar | [Read More](https://medium.com/p/e3927dfbbf3c) |
+| Wed, 25 Mar 2026 08:05:27 GMT | How HTTPS Really Works Behind the Scenes | Mubashir | [Read More](https://medium.com/p/4424b55f0c14) |
+| Wed, 25 Mar 2026 08:02:41 GMT | Open Source Intelligence (OSINT): Power, Process, and the Hidden Risk of Digital Exposure | Prasadi Niroopama Kumarasinghe | [Read More](https://medium.com/p/86786885210b) |
+| Wed, 25 Mar 2026 07:56:10 GMT | Escape - HTB - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/13f4bebd1c4f) |
+| Wed, 25 Mar 2026 07:55:32 GMT | Locksmith Specialist -Expert Solutions for Secure Living in London | N1locksmithsltd | [Read More](https://medium.com/p/8167b0828ed3) |
+| Wed, 25 Mar 2026 07:51:54 GMT | How to Build an Ethical Hacking Portfolio and Get Your First Job | cyber security Updates | [Read More](https://medium.com/p/b60309b4bc2c) |
+| Wed, 25 Mar 2026 07:44:25 GMT | Side Hustles for Cybersecurity Professionals: Bug Bounties, Consulting, Content & Training | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/72817fabf296) |
+| Wed, 25 Mar 2026 07:38:43 GMT | Why Reliability is the Missing Layer in Modern AI Systems (and How Distributed Systems Can Fix It) | Ugur Karimov | [Read More](https://medium.com/p/683baa893efb) |
+| Wed, 25 Mar 2026 07:35:37 GMT | Cyber Security Consulting in 2026: Why Strategy Matters More Than Ever | Advanta Advisory | [Read More](https://medium.com/p/fa97a44c0815) |
 | Wed, 25 Mar 2026 07:26:29 GMT | I Run OpenClaw AI Agent on a USB Drive | Hareem Fatima | [Read More](https://medium.com/p/e4c72c77da09) |
 | Wed, 25 Mar 2026 07:23:14 GMT | Hackviser Unrestricted File Upload Labs — MIME Type Filter Bypass | Sefersalih | [Read More](https://medium.com/p/f72adb7c4731) |
 | Wed, 25 Mar 2026 07:21:16 GMT | What’s the Best Security Monitoring Company? | Doris William | [Read More](https://medium.com/p/67739816b473) |
@@ -29,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Mar 2026 07:01:01 GMT | The Moment HashiCorp Vault Becomes Something Else | Raymon Epping | [Read More](https://medium.com/p/c40743ee6c32) |
 | Wed, 25 Mar 2026 06:59:54 GMT | Cloud Load Balancers: How Cloud Platforms Handle Traffic at Massive Scale | Kalana De Silva | [Read More](https://medium.com/p/15cdb4c943b9) |
 | Wed, 25 Mar 2026 06:51:03 GMT | Shared vs VPS vs Dedicated Hosting — Which One Should You Choose? | Ann Taylor | [Read More](https://medium.com/p/d7b1202d85ed) |
+| Wed, 25 Mar 2026 06:44:56 GMT | 10 Everyday Cybersecurity Mistakes (You Probably Make) | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/a1d38dbb6d77) |
 | Wed, 25 Mar 2026 06:41:52 GMT | The Fear Of Being Seen | DABBY | [Read More](https://medium.com/p/c532798e37bb) |
 | Wed, 25 Mar 2026 06:37:12 GMT | SQL Injection Explained: How Hackers Steal Database Data | 0xSmit | [Read More](https://medium.com/p/16f7a0434619) |
 | Wed, 25 Mar 2026 06:19:58 GMT | What is a DMZ in networking ? networking —Day 16 | 0xSmit | [Read More](https://medium.com/p/96dac3a37568) |
@@ -88,28 +113,3 @@ Part 2: Users and Groups | Pooja Verma | [Read More](https://medium.com/p/aad2d8
 | Tue, 24 Mar 2026 23:32:54 GMT | picoCTF Writeup — Fool the Lockout (Web Exploitation) | mayhack | [Read More](https://medium.com/p/ae1dd6a3d038) |
 | Tue, 24 Mar 2026 23:30:40 GMT | picoCTF Writeup — Failure Failure | mayhack | [Read More](https://medium.com/p/e629a92c3b6f) |
 | Tue, 24 Mar 2026 23:30:09 GMT | The Quiet Siege of Ransomware | Zul Arifin | [Read More](https://medium.com/p/548736129442) |
-| Tue, 24 Mar 2026 23:22:32 GMT | Trezor Customer Service: What Users Should Know | Trezorhelpdesk | [Read More](https://medium.com/p/a4227014de86) |
-| Tue, 24 Mar 2026 23:12:00 GMT | Preventing Overposting in ASP.NET Core JSON Patch APIs | Derek Ji | [Read More](https://medium.com/p/ca19837fe6a5) |
-| Tue, 24 Mar 2026 23:01:02 GMT | Another “Terrifying” Hacker Tool Dropped. I Put a Trap on Port 21 and Went Back to Work. | Hafiq Iqmal | [Read More](https://medium.com/p/72c770e62522) |
-| Tue, 24 Mar 2026 23:00:25 GMT | The 2026 AI Pilot Trap: Why Enterprise Adoption is Scaling While Execution Splinters | Enterprise AI Briefs | [Read More](https://medium.com/p/e28ae398afda) |
-| Tue, 24 Mar 2026 22:52:42 GMT | best tool for online malware detaction | Shahrukhalix | [Read More](https://medium.com/p/afe160b92a2b) |
-| Tue, 24 Mar 2026 22:49:14 GMT | How to Choose the Right Security Guard Company for Your Business | Rsralh | [Read More](https://medium.com/p/a45c4a264ab5) |
-| Tue, 24 Mar 2026 22:44:28 GMT | Securing Your Startup: Strategies for Cybersecurity and Compliance | Iain White | [Read More](https://medium.com/p/af93f70a25ed) |
-| Tue, 24 Mar 2026 22:42:43 GMT | S2S Secrets Management | Desislava Nikolaeva | [Read More](https://medium.com/p/caadee57c859) |
-| Tue, 24 Mar 2026 22:36:03 GMT | How to Install a Splunk Developer License in Your Splunk Enterprise Instance | Tijan Hydara | [Read More](https://medium.com/p/e97ec071ea4e) |
-| Tue, 24 Mar 2026 22:32:25 GMT | 5 Signs Your IT Team Needs a Log Management Tool | Andres M | [Read More](https://medium.com/p/081160cc40ab) |
-| Tue, 24 Mar 2026 22:24:34 GMT | Try Hack Me- CyberCrafted CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/633c8bb1f547) |
-| Tue, 24 Mar 2026 22:19:05 GMT | Beyond the Checkbox: 6 Hard-Hitting Truths from the FBI’s “Operation Winter SHIELD” | CCD-IS | [Read More](https://medium.com/p/d78df729e74a) |
-| Tue, 24 Mar 2026 22:15:14 GMT | From IDOR to Admin Takeover: How I Accidentally Walked Into an ATO | El Professor Qais | [Read More](https://medium.com/p/8ec9f7b034c8) |
-| Tue, 24 Mar 2026 22:12:36 GMT | I Tested PentAGI. Here’s What Actually Happened. | Faizan Ahmad Khan | [Read More](https://medium.com/p/e83756580719) |
-| Tue, 24 Mar 2026 22:11:27 GMT | Why Writing More Code Wasn’t Making You Smarter | Hirepentester | [Read More](https://medium.com/p/75de47c47d18) |
-| Tue, 24 Mar 2026 22:01:57 GMT | Ağ İletişimini Anlamanın En Kolay Yolu: OSI ve TCP/IP Modelleri | Onur Yaylalı | [Read More](https://medium.com/p/4d1c072fa97a) |
-| Tue, 24 Mar 2026 21:51:00 GMT | AI-Powered Cyber Attacks and Their Defense | Joshua Moses | [Read More](https://medium.com/p/afa464b4aae4) |
-| Tue, 24 Mar 2026 21:50:42 GMT | A Guide to Cyber Security Governance for Australian Business Owners | Future IT Services | [Read More](https://medium.com/p/eebb6fed2da3) |
-| Tue, 24 Mar 2026 21:50:20 GMT | How does it feel when you are a penetration tester? | Hirepentester | [Read More](https://medium.com/p/91be2f83c433) |
-| Tue, 24 Mar 2026 21:42:30 GMT | How to Find Onion Sites Safely: A Practical Guide | Tor BBB | [Read More](https://medium.com/p/ba7b263c6280) |
-| Tue, 24 Mar 2026 21:38:08 GMT | ActiveProcessLinks in EPROCESS Structure | S12 - 0x12Dark Development | [Read More](https://medium.com/p/80d84985c77c) |
-| Tue, 24 Mar 2026 21:19:33 GMT | Sitting in the Lava: On Vulnerability and Shattered Trust | Saghar Mirzaei | [Read More](https://medium.com/p/3d80459c2e95) |
-| Tue, 24 Mar 2026 21:17:44 GMT | “Supplier ADP Pilot” — CVE Program to Explore Benefits of Supporting VEX-like, Product Status… | CVE Program Blog | [Read More](https://medium.com/p/852587bc9546) |
-| Tue, 24 Mar 2026 21:17:13 GMT | Consensus Security: Why Your Crypto Transactions Can Be Trusted | PYRAX Network | [Read More](https://medium.com/p/aa398de34df6) |
-| Tue, 24 Mar 2026 21:12:27 GMT | SecurityOnion Crash Course Part 3: Active Directory, DNS, and DHCP, logs oh my! | HanSolo71 | [Read More](https://medium.com/p/8e90a700e34a) |
