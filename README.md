@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Mar 2026 22:21:11 GMT | Insecure Storage in Mobile Banking Apps - The Sensitive Data Sitting Quietly on Your Phone | Rufus Kehinde | [Read More](https://medium.com/p/55d1f9f1fb10) |
+| Wed, 25 Mar 2026 22:19:04 GMT | The Theft Industry: The Mechanics of Cybercrime and the Hijacking of Human Agency in Fintech | Mila Agius | [Read More](https://medium.com/p/afcd4f19f3c3) |
+| Wed, 25 Mar 2026 22:05:00 GMT | Autonomous AI Agents: Productivity Gains or Security Risks? | Avijit Roy | [Read More](https://medium.com/p/978426a6452c) |
+| Wed, 25 Mar 2026 21:53:50 GMT | New Cyber Threat Alert: Fake Job | Cybersecure | [Read More](https://medium.com/p/951549546dbf) |
 | Wed, 25 Mar 2026 21:40:11 GMT | The Way Of IT — Issue: 100 | THE WAY OF IT | [Read More](https://medium.com/p/734d0f639ed4) |
+| Wed, 25 Mar 2026 21:39:37 GMT | Why Blockchain Networks Die Without Network Security | PYRAX Network | [Read More](https://medium.com/p/fd7c4dd22ddf) |
+| Wed, 25 Mar 2026 21:39:01 GMT | Technology Ages, But Cyber Security Endures: The hidden truth | Umar Al-Mahfuz | [Read More](https://medium.com/p/6feafc350733) |
 | Wed, 25 Mar 2026 21:33:15 GMT | Reddit Is Doing What Every Platform Should Have Done Years Ago | Pauleta | [Read More](https://medium.com/p/eb3067ad626b) |
 | Wed, 25 Mar 2026 21:31:55 GMT | Information Diet | Mario Servin Espinosa | [Read More](https://medium.com/p/a47f18e009e4) |
 | Wed, 25 Mar 2026 21:29:44 GMT | I Stopped Fixing Bugs Myself and Built an AI to Do It Instead | Chella Kamina | [Read More](https://medium.com/p/de92d4323446) |
@@ -108,9 +114,3 @@ Software | Stalinkumar | [Read More](https://medium.com/p/ac98a4361d3f) |
 | Wed, 25 Mar 2026 15:58:18 GMT | Strategic Industrial Cyber Warfare Analysis — Briefing 04 | Muhammad Ali Khan | [Read More](https://medium.com/p/f89595b2ae70) |
 | Wed, 25 Mar 2026 15:57:58 GMT | Business Logic: Bypassing Free Plan Team Invitations | Essam Ezzat | [Read More](https://medium.com/p/4183309809e5) |
 | Wed, 25 Mar 2026 15:57:24 GMT | How to Handle Sensitive Data Securely in Terraform | Grace Zawadi | [Read More](https://medium.com/p/7bdc90701986) |
-| Wed, 25 Mar 2026 15:53:04 GMT | TryHackMe-Room1-Offensive Security Intro | Hafsa Sarfraz | [Read More](https://medium.com/p/ecffebbcf5fb) |
-| Wed, 25 Mar 2026 15:48:52 GMT | The Quiet Fear Behind Every AI Prompt: A Security Consultant’s Honest Confession | Saginuma Southern Studio | [Read More](https://medium.com/p/35f8557a5660) |
-| Wed, 25 Mar 2026 15:47:32 GMT | FCC Bans New Foreign-Made Routers: A Turning Point in Infrastructure-Level Cybersecurity | Chetan Seripally | [Read More](https://medium.com/p/e6356d17d916) |
-| Wed, 25 Mar 2026 15:46:26 GMT | Security That Actually Acts. | NanoChain | [Read More](https://medium.com/p/1f38ac1e7313) |
-| Wed, 25 Mar 2026 15:41:54 GMT | 101 Emerging Effects of Cybersecurity: Ideas, Trends, Tips, Tricks & Tools in 2026 | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/ee671771ff71) |
-| Wed, 25 Mar 2026 15:38:59 GMT | Retour sur le webinaire WanaData : la sécurité en ligne des femmes journalistes | Balkiss Ouedraogo/ Adja Digitale | [Read More](https://medium.com/p/8d67ce141a67) |
