@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Mar 2026 13:03:24 GMT | INTRODUCTION TO CYBER SECURITY: DEFENSIVE SECURITY LINUXENICORP WRITEUP | hihipro | [Read More](https://medium.com/p/09a5f0f0efb3) |
+| Wed, 25 Mar 2026 13:01:01 GMT | [Ex Machina] The Algorithmic Hijacking of Human Admin Rights | MonoEssay | [Read More](https://medium.com/p/6627e1e8ead5) |
+| Wed, 25 Mar 2026 13:01:01 GMT | Stop Designing, Start Securing: How to Instantly Upgrade Your Cybersecurity Branding | Alice Ararau | [Read More](https://medium.com/p/1212ccc64a76) |
+| Wed, 25 Mar 2026 12:59:24 GMT | Brené Brown: La crisis que reveló un superpoder mundial | Silvana Pereyra | [Read More](https://medium.com/p/35db835aedd3) |
+| Wed, 25 Mar 2026 12:58:18 GMT | Digital Immune System Market: Strengthening Enterprise Cyber Resilience in a Digital Era | Desouza Nancy | [Read More](https://medium.com/p/01856767836a) |
+| Wed, 25 Mar 2026 12:58:16 GMT | Beyond Sector Zero: HANDALA’s Linux Wiper — 20 Rounds of laziness | Michael Reder | [Read More](https://medium.com/p/0537d5aae5c0) |
+| Wed, 25 Mar 2026 12:56:18 GMT | My first baby steps in the world of cybersecurity | DevLox | [Read More](https://medium.com/p/21fde8cd6bb3) |
+| Wed, 25 Mar 2026 12:49:30 GMT | Autonomous Agent Overreach in AI Agents A Security Deep Dive | Ashwini Puranik | [Read More](https://medium.com/p/ce8d927d88c3) |
+| Wed, 25 Mar 2026 12:46:45 GMT | The LiteLLM Supply Chain Attack: How a Poisoned Security Scanner Stole Credentials from Thousands… | Jason Anderson | [Read More](https://medium.com/p/ea0177dc470a) |
+| Wed, 25 Mar 2026 12:46:27 GMT | whoami | Zach Davis | [Read More](https://medium.com/p/f322183dedbd) |
+| Wed, 25 Mar 2026 12:43:21 GMT | Stop Giving Your Real Email to Every Website: The Smartest Disposable Email Services in 2026 | BumbleBEE | [Read More](https://medium.com/p/8397c2a7a650) |
+| Wed, 25 Mar 2026 12:35:39 GMT | How Cloudflare and Web Application Firewalls Verify You’re Human: A Deep Dive into Bot Mitigation… | Jothiprakash | [Read More](https://medium.com/p/78270e1f93a1) |
+| Wed, 25 Mar 2026 12:31:59 GMT | CredSnare — Angry Likho APT Lab | Samyak Jeevane | [Read More](https://medium.com/p/93f8cbabe9aa) |
+| Wed, 25 Mar 2026 12:30:03 GMT | Why 60% of Small Businesses Close Within 6 Months of a Cyberattack | Temma | [Read More](https://medium.com/p/36c3a9db30ea) |
+| Wed, 25 Mar 2026 12:27:09 GMT | Why one misconfigured Ansible Playbook could take down thousands of servers | XLAB Steampunk | [Read More](https://medium.com/p/06853df3e545) |
+| Wed, 25 Mar 2026 12:26:55 GMT | How the LiteLLM Incident Unfolded | Dreamwalker(박제창) | [Read More](https://medium.com/p/921050f8b5d8) |
+| Wed, 25 Mar 2026 12:17:47 GMT | The CIA Triad in Cybersecurity: The Hidden System Behind Digital Safety | Rashad Edwards | [Read More](https://medium.com/p/cfde5fd3a90f) |
+| Wed, 25 Mar 2026 12:14:43 GMT | Hack Snapchat — Paragon 5.0 Tool 2026 | The Hacker | [Read More](https://medium.com/p/76fdae751407) |
+| Wed, 25 Mar 2026 12:06:00 GMT | Autorize: The Burp Suite Extension That Finds Broken Access Control While You Browse | Ajay Yadav | [Read More](https://medium.com/p/4d9064b47baf) |
+| Wed, 25 Mar 2026 12:01:01 GMT | Digital Residue: Why “Closed”, “Old” and “Inactive” Still Expose You | Ingvar Pavlovich | [Read More](https://medium.com/p/50af811aa8ba) |
+| Wed, 25 Mar 2026 11:58:38 GMT | Retour sur le webinaire: Femmes journalistes :
+sécuriser votre présence numérique | WanaData | [Read More](https://medium.com/p/6d6b82483fbd) |
+| Wed, 25 Mar 2026 11:44:29 GMT | Spring Cleaning for Websites | Accent Design | [Read More](https://medium.com/p/7845a69186a4) |
+| Wed, 25 Mar 2026 11:43:20 GMT | Tryhackme- Chocolate Factory | Goutham a nair | [Read More](https://medium.com/p/af4294ad2c0b) |
 | Wed, 25 Mar 2026 11:31:04 GMT | Claude Code Permissions: A Simple Guide for Safer AI Development | Nitin Pathak | [Read More](https://medium.com/p/6c84c674daae) |
 | Wed, 25 Mar 2026 11:28:51 GMT | Pico-Ctf challenge walkthrough {Reverse Engineering} | Arka Priya Das | [Read More](https://medium.com/p/7f440ad1db4f) |
 | Wed, 25 Mar 2026 11:27:33 GMT | Shared vs VPS vs Reseller Hosting: Which One Is Right for Your Business? | Mary Thomas | [Read More](https://medium.com/p/824e49287bf2) |
@@ -89,26 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Mar 2026 08:05:27 GMT | How HTTPS Really Works Behind the Scenes | Mubashir | [Read More](https://medium.com/p/4424b55f0c14) |
 | Wed, 25 Mar 2026 08:02:41 GMT | Open Source Intelligence (OSINT): Power, Process, and the Hidden Risk of Digital Exposure | Prasadi Niroopama Kumarasinghe | [Read More](https://medium.com/p/86786885210b) |
 | Wed, 25 Mar 2026 07:56:10 GMT | Escape - HTB - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/13f4bebd1c4f) |
-| Wed, 25 Mar 2026 07:55:32 GMT | Locksmith Specialist -Expert Solutions for Secure Living in London | N1locksmithsltd | [Read More](https://medium.com/p/8167b0828ed3) |
-| Wed, 25 Mar 2026 07:51:54 GMT | How to Build an Ethical Hacking Portfolio and Get Your First Job | cyber security Updates | [Read More](https://medium.com/p/b60309b4bc2c) |
-| Wed, 25 Mar 2026 07:44:25 GMT | Side Hustles for Cybersecurity Professionals: Bug Bounties, Consulting, Content & Training | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/72817fabf296) |
-| Wed, 25 Mar 2026 07:38:43 GMT | Why Reliability is the Missing Layer in Modern AI Systems (and How Distributed Systems Can Fix It) | Ugur Karimov | [Read More](https://medium.com/p/683baa893efb) |
-| Wed, 25 Mar 2026 07:35:37 GMT | Cyber Security Consulting in 2026: Why Strategy Matters More Than Ever | Advanta Advisory | [Read More](https://medium.com/p/fa97a44c0815) |
-| Wed, 25 Mar 2026 07:26:29 GMT | I Run OpenClaw AI Agent on a USB Drive | Hareem Fatima | [Read More](https://medium.com/p/e4c72c77da09) |
-| Wed, 25 Mar 2026 07:23:14 GMT | Hackviser Unrestricted File Upload Labs — MIME Type Filter Bypass | Sefersalih | [Read More](https://medium.com/p/f72adb7c4731) |
-| Wed, 25 Mar 2026 07:21:16 GMT | What’s the Best Security Monitoring Company? | Doris William | [Read More](https://medium.com/p/67739816b473) |
-| Wed, 25 Mar 2026 07:16:04 GMT | Data security issues? Here’s How IT Experts Solve Them | Nijoe | [Read More](https://medium.com/p/d99cbba0a8b1) |
-| Wed, 25 Mar 2026 07:14:05 GMT | How Behawk Infosec Secures Your Business Data Before Hackers Even Try | Behawk Infosec | [Read More](https://medium.com/p/53325d376236) |
-| Wed, 25 Mar 2026 07:13:45 GMT | How Algorithms Are Quietly Shaping Our Democracy | Saurav Kumar | [Read More](https://medium.com/p/9e4883b5a9be) |
-| Wed, 25 Mar 2026 07:11:47 GMT | Cross-Site Scripting (XSS) Attack | Priyanka Behera | [Read More](https://medium.com/p/2b7c9849d185) |
-| Wed, 25 Mar 2026 07:09:17 GMT | AI Compliance Auditor | Srinivassundar | [Read More](https://medium.com/p/f28880b54884) |
-| Wed, 25 Mar 2026 07:05:50 GMT | Autonomous Response Agents: The Rise of AI-Driven Playbooks in Incident Management | NetWitness | [Read More](https://medium.com/p/581a8e60b467) |
-| Wed, 25 Mar 2026 07:03:53 GMT | FunboxRookie — Anonymous FTP, Zip-Cracked SSH Keys, and a Password Hidden in MySQL History - OffSec… | Roshan Rajbanshi | [Read More](https://medium.com/p/4df4fedb3473) |
-| Wed, 25 Mar 2026 07:02:02 GMT | You Don’t Hack AI. You Convince It. | Sunit Guldas | [Read More](https://medium.com/p/d9d9a0ab4ef1) |
-| Wed, 25 Mar 2026 07:01:57 GMT | OverTheWire: Bandit — Level 1 -> 2 | Studyun | [Read More](https://medium.com/p/603b6afbf1ba) |
-| Wed, 25 Mar 2026 07:01:22 GMT | NGINX as a Load Balancer: Practical Implementation and Concepts | Kalana De Silva | [Read More](https://medium.com/p/1d29b58f4662) |
-| Wed, 25 Mar 2026 07:01:15 GMT | Your AI Isn’t Hallucinating. It’s Poisoned. | Sukumar Muthusamy | [Read More](https://medium.com/p/6fc494db4459) |
-| Wed, 25 Mar 2026 07:01:01 GMT | The Moment HashiCorp Vault Becomes Something Else | Raymon Epping | [Read More](https://medium.com/p/c40743ee6c32) |
-| Wed, 25 Mar 2026 06:59:54 GMT | Cloud Load Balancers: How Cloud Platforms Handle Traffic at Massive Scale | Kalana De Silva | [Read More](https://medium.com/p/15cdb4c943b9) |
-| Wed, 25 Mar 2026 06:51:03 GMT | Shared vs VPS vs Dedicated Hosting — Which One Should You Choose? | Ann Taylor | [Read More](https://medium.com/p/d7b1202d85ed) |
-| Wed, 25 Mar 2026 06:44:56 GMT | 10 Everyday Cybersecurity Mistakes (You Probably Make) | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/a1d38dbb6d77) |
