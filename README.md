@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Mar 2026 18:55:53 GMT | كيف اكتشفتُ ثغرات أمنية قبل اختراق الحساب عدة مرات — دليل سهل للمبتدئين | montaser mohsen | [Read More](https://medium.com/p/c86f68feece2) |
+| Wed, 25 Mar 2026 18:51:59 GMT | I Hit a Dead End Halfway Through This HTB Machine — Here’s How I Got Root Anyway | Aditya Bhardwaj | [Read More](https://medium.com/p/531540e2845c) |
+| Wed, 25 Mar 2026 18:51:30 GMT | HTB Cicada | Dipesh Paul | [Read More](https://medium.com/p/ba9a14ebfd1d) |
+| Wed, 25 Mar 2026 18:45:34 GMT | The Fight That Changed Everything | Mr. Papageno | [Read More](https://medium.com/p/79f9f07c2e0d) |
+| Wed, 25 Mar 2026 18:42:28 GMT | Protecting Your Tech: Recognizing and Avoiding Common Digital Threats | Magdaline Arianda | [Read More](https://medium.com/p/2f69912efbf2) |
+| Wed, 25 Mar 2026 18:42:08 GMT | Honored to have served as a Program Committee Member & Reviewer at the 2nd International Conference… | Khandakar Rabbi Ahmed (Sanjid) | [Read More](https://medium.com/p/0caf7b2fb8e6) |
+| Wed, 25 Mar 2026 18:39:48 GMT | Trust the Tunnel, Get the Trojan: Inside Silver Fox’s AtlasCross Campaign | Maurice Fielenbach | [Read More](https://medium.com/p/424dda12834e) |
+| Wed, 25 Mar 2026 18:36:10 GMT | AI-Powered Cyberattacks Are Exploding in 2026: What You Need to Know Now | Rayhanuddinkhan | [Read More](https://medium.com/p/b286de830f57) |
+| Wed, 25 Mar 2026 18:27:41 GMT | Suricata 7.0 Deep Dive: From “Permission Denied” to Production-Ready IDS | James Aboh | [Read More](https://medium.com/p/3e4458e830a9) |
+| Wed, 25 Mar 2026 18:27:05 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | Vanshaj Kumar | [Read More](https://medium.com/p/c75775ba22cb) |
+| Wed, 25 Mar 2026 18:20:20 GMT | Understanding Switching & VLANs: How Local Networks Communicate Efficiently | Ndu | [Read More](https://medium.com/p/3a39bece2846) |
+| Wed, 25 Mar 2026 18:19:44 GMT | Day 1: Architecting the CIA Triad — The Unbreakable Foundation of Enterprise Security | Ndu | [Read More](https://medium.com/p/6f362c11dc66) |
+| Wed, 25 Mar 2026 18:18:51 GMT | The Bug That Only Happened in Production (And What It Taught Me About Engineering) | TheOptimizationKing | [Read More](https://medium.com/p/1b1de8c44b26) |
+| Wed, 25 Mar 2026 18:11:55 GMT | Dimona: No One Is Untouchable Anymore | Gökçen Kunukcu | [Read More](https://medium.com/p/7da88a9302bf) |
+| Wed, 25 Mar 2026 18:10:35 GMT | Arrival Fallacy: A Personal Reflection | Corey Farley | [Read More](https://medium.com/p/e41d046af486) |
+| Wed, 25 Mar 2026 18:07:44 GMT | Don’t Get Hacked: 8 Cybersecurity Tips to Secure Your Digital Life | The Tips and Tops | [Read More](https://medium.com/p/813cc66c1c43) |
+| Wed, 25 Mar 2026 18:00:10 GMT | Why QSR Operators Who Trust Their Drive-Thru Timers Are Managing Symptoms, Not Problems | Tec-Tel Communications | [Read More](https://medium.com/p/1b40918d4ae1) |
+| Wed, 25 Mar 2026 17:55:36 GMT | CISSP: My Top 10 Insights After 2 Months of Studying | Max Kristmann | [Read More](https://medium.com/p/33bc105d28e9) |
+| Wed, 25 Mar 2026 17:54:28 GMT | The Ultimate Bug Bounty Course: From Zero to Advanced Hacker 3 | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/3fc6d1e59cfe) |
+| Wed, 25 Mar 2026 17:51:00 GMT | Your AI agent has an alibi problem | Jonna Fassbender | [Read More](https://medium.com/p/deb991ee5b3b) |
+| Wed, 25 Mar 2026 17:42:38 GMT | ️ scan_pii: Catch PII in Your Code Before It Escapes | Peter Ayad | [Read More](https://medium.com/p/a59ce8a29fa5) |
+| Wed, 25 Mar 2026 17:38:41 GMT | The Trust Collapse at the Heart of AI -And Why Impact Organisations Can’t Afford to Ignore It | Heliusnetwork | [Read More](https://medium.com/p/140ae5fb9fa7) |
+| Wed, 25 Mar 2026 17:37:53 GMT | A House Without Windows. | Max Menthol | [Read More](https://medium.com/p/d44eabefe3e9) |
+| Wed, 25 Mar 2026 17:36:04 GMT | Why Linux Servers Fail at the Worst Time (And How to Fix Them) | Aiman Zafar | [Read More](https://medium.com/p/623e904775b4) |
+| Wed, 25 Mar 2026 17:34:04 GMT | How to Land an IT Job in Canada as a New Immigrant in 2026 | 2iResourcing | [Read More](https://medium.com/p/14136462fd1e) |
 | Wed, 25 Mar 2026 17:15:55 GMT | How I Built a Complete Security Product in 61 Hours with Claude Code | Ageddes | [Read More](https://medium.com/p/e09bc60a40ba) |
 | Wed, 25 Mar 2026 17:06:57 GMT | How Attackers Actually Break Identity Systems (Step by Step) | Dr. Shashi Karhail | [Read More](https://medium.com/p/e2cc5d64e34d) |
 | Wed, 25 Mar 2026 17:01:00 GMT | Decrypting TLS Traffic Without a Private Key Using SSLKEYLOGFILE (Client-Side Key Export) | Carlos Minda | [Read More](https://medium.com/p/c60ff6cce567) |
@@ -88,29 +113,3 @@ Software | Stalinkumar | [Read More](https://medium.com/p/ac98a4361d3f) |
 | Wed, 25 Mar 2026 13:19:20 GMT | Alarm Security Systems Orlando | Globalalarmsus | [Read More](https://medium.com/p/1f59ee1ce601) |
 | Wed, 25 Mar 2026 13:18:09 GMT | The Predator Didn’t Wait — It Poisoned the Water | Ahmet Akan | [Read More](https://medium.com/p/e1dd70aad0b8) |
 | Wed, 25 Mar 2026 13:12:55 GMT | Hackers Don’t Need Malware Anymore — Just Your Browser (Why MFA Isn’t Saving You Anymore) | Yua Mikanana | [Read More](https://medium.com/p/5c5285d677db) |
-| Wed, 25 Mar 2026 13:10:53 GMT | Your API Is Leaking Source Fingerprints. Here’s How to Stop It. | Ioan Istrate | [Read More](https://medium.com/p/140d74eba728) |
-| Wed, 25 Mar 2026 13:03:24 GMT | INTRODUCTION TO CYBER SECURITY: DEFENSIVE SECURITY LINUXENICORP WRITEUP | hihipro | [Read More](https://medium.com/p/09a5f0f0efb3) |
-| Wed, 25 Mar 2026 13:01:01 GMT | [Ex Machina] The Algorithmic Hijacking of Human Admin Rights | MonoEssay | [Read More](https://medium.com/p/6627e1e8ead5) |
-| Wed, 25 Mar 2026 13:01:01 GMT | Stop Designing, Start Securing: How to Instantly Upgrade Your Cybersecurity Branding | Alice Ararau | [Read More](https://medium.com/p/1212ccc64a76) |
-| Wed, 25 Mar 2026 12:59:24 GMT | Brené Brown: La crisis que reveló un superpoder mundial | Silvana Pereyra | [Read More](https://medium.com/p/35db835aedd3) |
-| Wed, 25 Mar 2026 12:58:18 GMT | Digital Immune System Market: Strengthening Enterprise Cyber Resilience in a Digital Era | Desouza Nancy | [Read More](https://medium.com/p/01856767836a) |
-| Wed, 25 Mar 2026 12:58:16 GMT | Beyond Sector Zero: HANDALA’s Linux Wiper — 20 Rounds of laziness | Michael Reder | [Read More](https://medium.com/p/0537d5aae5c0) |
-| Wed, 25 Mar 2026 12:56:18 GMT | My first baby steps in the world of cybersecurity | DevLox | [Read More](https://medium.com/p/21fde8cd6bb3) |
-| Wed, 25 Mar 2026 12:49:30 GMT | Autonomous Agent Overreach in AI Agents A Security Deep Dive | Ashwini Puranik | [Read More](https://medium.com/p/ce8d927d88c3) |
-| Wed, 25 Mar 2026 12:46:45 GMT | The LiteLLM Supply Chain Attack: How a Poisoned Security Scanner Stole Credentials from Thousands… | Jason Anderson | [Read More](https://medium.com/p/ea0177dc470a) |
-| Wed, 25 Mar 2026 12:46:27 GMT | whoami | Zach Davis | [Read More](https://medium.com/p/f322183dedbd) |
-| Wed, 25 Mar 2026 12:43:21 GMT | Stop Giving Your Real Email to Every Website: The Smartest Disposable Email Services in 2026 | BumbleBEE | [Read More](https://medium.com/p/8397c2a7a650) |
-| Wed, 25 Mar 2026 12:35:39 GMT | How Cloudflare and Web Application Firewalls Verify You’re Human: A Deep Dive into Bot Mitigation… | Jothiprakash | [Read More](https://medium.com/p/78270e1f93a1) |
-| Wed, 25 Mar 2026 12:31:59 GMT | CredSnare — Angry Likho APT Lab | Samyak Jeevane | [Read More](https://medium.com/p/93f8cbabe9aa) |
-| Wed, 25 Mar 2026 12:30:03 GMT | Why 60% of Small Businesses Close Within 6 Months of a Cyberattack | Temma | [Read More](https://medium.com/p/36c3a9db30ea) |
-| Wed, 25 Mar 2026 12:27:09 GMT | Why one misconfigured Ansible Playbook could take down thousands of servers | XLAB Steampunk | [Read More](https://medium.com/p/06853df3e545) |
-| Wed, 25 Mar 2026 12:26:55 GMT | How the LiteLLM Incident Unfolded | Dreamwalker(박제창) | [Read More](https://medium.com/p/921050f8b5d8) |
-| Wed, 25 Mar 2026 12:17:47 GMT | The CIA Triad in Cybersecurity: The Hidden System Behind Digital Safety | Rashad Edwards | [Read More](https://medium.com/p/cfde5fd3a90f) |
-| Wed, 25 Mar 2026 12:14:43 GMT | Hack Snapchat — Paragon 5.0 Tool 2026 | The Hacker | [Read More](https://medium.com/p/76fdae751407) |
-| Wed, 25 Mar 2026 12:06:00 GMT | Autorize: The Burp Suite Extension That Finds Broken Access Control While You Browse | Ajay Yadav | [Read More](https://medium.com/p/4d9064b47baf) |
-| Wed, 25 Mar 2026 12:01:01 GMT | Digital Residue: Why “Closed”, “Old” and “Inactive” Still Expose You | Ingvar Pavlovich | [Read More](https://medium.com/p/50af811aa8ba) |
-| Wed, 25 Mar 2026 11:58:38 GMT | Retour sur le webinaire: Femmes journalistes :
-sécuriser votre présence numérique | WanaData | [Read More](https://medium.com/p/6d6b82483fbd) |
-| Wed, 25 Mar 2026 11:49:32 GMT | Why Cybersecurity Services Decide Startup Survival in 2026 | Codedrivenlabs | [Read More](https://medium.com/p/fa9ef2fb5160) |
-| Wed, 25 Mar 2026 11:44:29 GMT | Spring Cleaning for Websites | Accent Design | [Read More](https://medium.com/p/7845a69186a4) |
-| Wed, 25 Mar 2026 11:43:20 GMT | Tryhackme- Chocolate Factory | Goutham a nair | [Read More](https://medium.com/p/af4294ad2c0b) |
