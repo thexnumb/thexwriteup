@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Mar 2026 23:36:03 GMT | How to Tell If Someone Is Catfishing You: 15 Red Flags I Learned the Hard Way | Amir Sharifian | [Read More](https://medium.com/p/5aa92569c433) |
+| Wed, 25 Mar 2026 23:22:24 GMT | CVE-2024–12029 Walkthrough (Proving Ground -OSCP) | cyber_public_school | [Read More](https://medium.com/p/022dac482b38) |
+| Wed, 25 Mar 2026 23:16:19 GMT | The Future of AI in Business Automation | Teo Door | [Read More](https://medium.com/p/f44009e11eab) |
+| Wed, 25 Mar 2026 23:14:11 GMT | Stop Copy-Pasting Confidential Documents Into ChatGPT. Seriously. | Zsearchai | [Read More](https://medium.com/p/8e317c25c992) |
+| Wed, 25 Mar 2026 23:02:31 GMT | CRTO 2026 Review and Preparation Guide | Sneh Bavarva | [Read More](https://medium.com/p/6bbcc9077828) |
+| Wed, 25 Mar 2026 23:01:44 GMT | How I Confirmed a Phishing Email Using Real SOC Techniques | Famous Areguamen | [Read More](https://medium.com/p/a8c760023718) |
+| Wed, 25 Mar 2026 22:49:10 GMT | Breaking the Black Box: Reverse Engineering Twitter’s Play Integrity Attestation Pipeline | Berk Dedekargınoğlu | [Read More](https://medium.com/p/d3dbd2cf37ae) |
+| Wed, 25 Mar 2026 22:43:27 GMT | Before They Even Need to Hack the AI: The litellm Supply Chain Attack and What Comes Next | EntheoSoul | [Read More](https://medium.com/p/3e00aa15f24b) |
 | Wed, 25 Mar 2026 22:21:11 GMT | Insecure Storage in Mobile Banking Apps - The Sensitive Data Sitting Quietly on Your Phone | Rufus Kehinde | [Read More](https://medium.com/p/55d1f9f1fb10) |
 | Wed, 25 Mar 2026 22:19:04 GMT | The Theft Industry: The Mechanics of Cybercrime and the Hijacking of Human Agency in Fintech | Mila Agius | [Read More](https://medium.com/p/afcd4f19f3c3) |
 | Wed, 25 Mar 2026 22:05:00 GMT | Autonomous AI Agents: Productivity Gains or Security Risks? | Avijit Roy | [Read More](https://medium.com/p/978426a6452c) |
@@ -106,11 +114,3 @@ Software | Stalinkumar | [Read More](https://medium.com/p/ac98a4361d3f) |
 | Wed, 25 Mar 2026 16:17:36 GMT | RCE Isn’t Dead — It Just Learned to Hide | Erenik Limani | [Read More](https://medium.com/p/57922e3ee4f4) |
 | Wed, 25 Mar 2026 16:17:17 GMT | What if the real battlefield against terrorism isn’t on the ground but in bank transfers? | Ava Marie Thompson | [Read More](https://medium.com/p/7f7f230d0ff7) |
 | Wed, 25 Mar 2026 16:14:40 GMT | When Encryption Isn’t the Problem: The Human Side of Modern Cyber Attacks | Sharanraju | [Read More](https://medium.com/p/dd114aed75c2) |
-| Wed, 25 Mar 2026 16:10:29 GMT | The LiteLLM Supply Chain Attack: What Every Python and AI/ML Developer Needs to Know Right Now | satyaraj dhulipudi | [Read More](https://medium.com/p/3dbdad2fae7c) |
-| Wed, 25 Mar 2026 16:07:21 GMT | SecFlowX Story No: 1 — Vulnerable Packages Without CVE | PeakCyber Technologies | [Read More](https://medium.com/p/0c69d9ebea9c) |
-| Wed, 25 Mar 2026 16:07:18 GMT | Nanotechnology | J.Dishalan | [Read More](https://medium.com/p/a0d8371ec0c9) |
-| Wed, 25 Mar 2026 15:59:48 GMT | Active Directory Lab: Simulating a Kerberoasting Attack and Troubleshooting Kerberos Failures | Jaachuspace | [Read More](https://medium.com/p/af523e482b2d) |
-| Wed, 25 Mar 2026 15:59:03 GMT | Why Smart Contract Exploits Are Still Happening in 2025 (And How We Can Fix It) | AuditSmart | [Read More](https://medium.com/p/dd769f380687) |
-| Wed, 25 Mar 2026 15:58:18 GMT | Strategic Industrial Cyber Warfare Analysis — Briefing 04 | Muhammad Ali Khan | [Read More](https://medium.com/p/f89595b2ae70) |
-| Wed, 25 Mar 2026 15:57:58 GMT | Business Logic: Bypassing Free Plan Team Invitations | Essam Ezzat | [Read More](https://medium.com/p/4183309809e5) |
-| Wed, 25 Mar 2026 15:57:24 GMT | How to Handle Sensitive Data Securely in Terraform | Grace Zawadi | [Read More](https://medium.com/p/7bdc90701986) |
