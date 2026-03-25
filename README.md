@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Mar 2026 21:40:11 GMT | The Way Of IT — Issue: 100 | THE WAY OF IT | [Read More](https://medium.com/p/734d0f639ed4) |
+| Wed, 25 Mar 2026 21:33:15 GMT | Reddit Is Doing What Every Platform Should Have Done Years Ago | Pauleta | [Read More](https://medium.com/p/eb3067ad626b) |
+| Wed, 25 Mar 2026 21:31:55 GMT | Information Diet | Mario Servin Espinosa | [Read More](https://medium.com/p/a47f18e009e4) |
+| Wed, 25 Mar 2026 21:29:44 GMT | I Stopped Fixing Bugs Myself and Built an AI to Do It Instead | Chella Kamina | [Read More](https://medium.com/p/de92d4323446) |
+| Wed, 25 Mar 2026 21:26:42 GMT | HTB Academy -API Attacks (Security Misconfiguration) Exercise Walkthrough | Farouq Hassan | [Read More](https://medium.com/p/161bd2ceb693) |
+| Wed, 25 Mar 2026 21:18:29 GMT | Open Source Is Not Enough and Why You Need Attestation | ijlal | [Read More](https://medium.com/p/ebc1153dc53d) |
+| Wed, 25 Mar 2026 21:18:07 GMT | What Is the Dark Web? A Simple 2026 Explanation | Abby Morkel | [Read More](https://medium.com/p/2a8da0286246) |
+| Wed, 25 Mar 2026 21:09:20 GMT | Invoke RE’s Introduction to Malware Binary Triage Review | grepStrength | [Read More](https://medium.com/p/ff482d5228be) |
+| Wed, 25 Mar 2026 21:05:34 GMT | The Blue Checkmark Plan for 2026: Why Digital Identity Is the New Currency. | Djouzi Mohammed | [Read More](https://medium.com/p/ea14f10f1828) |
+| Wed, 25 Mar 2026 21:05:16 GMT | NFC for Penetration Testers: Real-World Techniques | Jorge Bustos | [Read More](https://medium.com/p/5377ba9b1b2c) |
+| Wed, 25 Mar 2026 21:02:24 GMT | Title:
+I got scammed… what should I do next? | Decode Help | [Read More](https://medium.com/p/09c404159d0c) |
+| Wed, 25 Mar 2026 21:01:13 GMT | Can You Track Stolen Crypto? | Decode Help | [Read More](https://medium.com/p/d86489873707) |
+| Wed, 25 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 34: Security Marathon Day 1 | Maximillian Rueda | [Read More](https://medium.com/p/c1bf3837e374) |
+| Wed, 25 Mar 2026 20:55:44 GMT | Lessons in Vibe-Coding as a PM | Steven Gripshover | [Read More](https://medium.com/p/393dd2d90d71) |
+| Wed, 25 Mar 2026 20:44:30 GMT | What Happens to Your Online Accounts When You Die? | AiNeow | [Read More](https://medium.com/p/98b8f10f1b9f) |
 | Wed, 25 Mar 2026 20:23:43 GMT | On Vulnerability, Strength, and Honest Hope | @Tistje | [Read More](https://medium.com/p/ed036cded2f2) |
 | Wed, 25 Mar 2026 20:21:00 GMT | Security best practices every B2B product should implement early. | Flux Creative Technologies | [Read More](https://medium.com/p/605df1c191fb) |
 | Wed, 25 Mar 2026 20:18:31 GMT | How to Send an Anonymous Email Without Being Traced (2026 Guide) | Warren Smith | [Read More](https://medium.com/p/3e92aa94a18a) |
@@ -98,18 +114,3 @@ Software | Stalinkumar | [Read More](https://medium.com/p/ac98a4361d3f) |
 | Wed, 25 Mar 2026 15:46:26 GMT | Security That Actually Acts. | NanoChain | [Read More](https://medium.com/p/1f38ac1e7313) |
 | Wed, 25 Mar 2026 15:41:54 GMT | 101 Emerging Effects of Cybersecurity: Ideas, Trends, Tips, Tricks & Tools in 2026 | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/ee671771ff71) |
 | Wed, 25 Mar 2026 15:38:59 GMT | Retour sur le webinaire WanaData : la sécurité en ligne des femmes journalistes | Balkiss Ouedraogo/ Adja Digitale | [Read More](https://medium.com/p/8d67ce141a67) |
-| Wed, 25 Mar 2026 15:32:01 GMT | Cyber Security: ডিজিটাল দুনিয়ায় নিরাপদ থাকা - | Ahnaf Tahmid Hasan | [Read More](https://medium.com/p/e5b124423f7f) |
-| Wed, 25 Mar 2026 15:31:02 GMT | Fake LiteLLM Poisoned Supply Chains — The Hack on March 24, 2026 | Julie Ann Collins | [Read More](https://medium.com/p/df7bb453af43) |
-| Wed, 25 Mar 2026 15:30:32 GMT | Zahid Zahoor – Rising Tech Creator from Bandipora, Kashmir | Zb | [Read More](https://medium.com/p/363c0c5f58ff) |
-| Wed, 25 Mar 2026 15:29:47 GMT | Windows Event Logs in Digital Forensics: What Investigators Look For | Ritujaa Kelaskar | [Read More](https://medium.com/p/cd297d54dfee) |
-| Wed, 25 Mar 2026 15:26:39 GMT | Encrypting API Payloads with Middleware: Why It Matters, How to Build It, and When to Skip It | Kuldeep Modh | [Read More](https://medium.com/p/ae527544d155) |
-| Wed, 25 Mar 2026 15:26:23 GMT | Kerem Proulx and Kyle Bhiro | Everywhere Ventures | [Read More](https://medium.com/p/a004e4dc3f71) |
-| Wed, 25 Mar 2026 15:24:23 GMT | Secure. Trace. Recover. The Future of Crypto Asset Recovery with Mighty Hacker Recovery | Darkweb Bitcoin Expert Mighty Hacker Recovery | [Read More](https://medium.com/p/93670e8e6eac) |
-| Wed, 25 Mar 2026 15:22:48 GMT | Container Carnage: How Attackers Abuse SMB — and How SOCs Actually Catch Them | Pablo Echeverria | [Read More](https://medium.com/p/b42f4af67775) |
-| Wed, 25 Mar 2026 15:21:50 GMT | Mobile Number Hacked? How to Recover and Secure Your SIM Card Quickly | Quick tech Fix | [Read More](https://medium.com/p/014d8ef8834a) |
-| Wed, 25 Mar 2026 15:14:32 GMT | GlassWorm Malware: How Attackers Used Solana Dead Drops to Steal Data and Deploy RATs | Ananthuharikumar | [Read More](https://medium.com/p/443d6168e0ea) |
-| Wed, 25 Mar 2026 15:05:23 GMT | Understanding Darknet Market Escrow: How It Protects Buyers and Sellers | Tor BBB | [Read More](https://medium.com/p/2a9f2f5cbea7) |
-| Wed, 25 Mar 2026 15:04:59 GMT | Web Security Series #9 — Exploiting Second-Order SQL Injection via Stored User Input | Laibakashif | [Read More](https://medium.com/p/32b89387e86b) |
-| Wed, 25 Mar 2026 15:02:08 GMT | Data Validation Is Not a QA Task — It’s a System Responsibility | Mohsin Muhammad Ali | [Read More](https://medium.com/p/e831b119ed60) |
-| Wed, 25 Mar 2026 14:57:46 GMT | The Hidden Cost of “Vibe Coding”: Is Your AI-Generated App Actually Safe to Deploy? | Marine DEPOORTER | [Read More](https://medium.com/p/3a0e75820d76) |
-| Wed, 25 Mar 2026 14:45:35 GMT | Fiziksel Sızma Testi - 12 Adımda (REDTEAMOPSEC) Metodolojisi | Hazar Taspinar | [Read More](https://medium.com/p/6ad3a56674b5) |
