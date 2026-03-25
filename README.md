@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Mar 2026 05:55:45 GMT | Best Network Vulnerability Scanners for Small Businesses | Bindu Dhingra | [Read More](https://medium.com/p/ed698ca1cbf6) |
+| Wed, 25 Mar 2026 05:55:00 GMT | Step-by-Step Guide to Start a Cyber Security Career in Chhatrapati Sambhajinagar | Suraj Rajput | [Read More](https://medium.com/p/9e415a25fe2d) |
+| Wed, 25 Mar 2026 05:48:10 GMT | The Open Source Truth Every Beginner Gets Wrong | The Cyber Student | [Read More](https://medium.com/p/5b8790c53680) |
+| Wed, 25 Mar 2026 05:45:34 GMT | Okta Beginner Series 
+Part 2: Users and Groups | Pooja Verma | [Read More](https://medium.com/p/aad2d8d178cc) |
+| Wed, 25 Mar 2026 05:40:20 GMT | Fixing VAPT Findings Using OCI Application Load Balancer: Host Header Injection, CORS Vulnerability… | Tokishi | [Read More](https://medium.com/p/b5aa0406aa72) |
+| Wed, 25 Mar 2026 05:31:00 GMT | TryHackMe Walkthrough: AI/ML Security Threats | Prateekpulastya | [Read More](https://medium.com/p/0a8c42a7555e) |
+| Wed, 25 Mar 2026 05:28:11 GMT | The Rise of AI-Powered Phishing Attacks in 2026: Why Traditional Defenses Are Failing | Lakshita Gulliya | [Read More](https://medium.com/p/a749a6a2e294) |
+| Wed, 25 Mar 2026 05:26:44 GMT | Why API Security Is the Most Valuable Skill You’re Not Learning | Cyberbali | [Read More](https://medium.com/p/4d1cedb936eb) |
+| Wed, 25 Mar 2026 05:22:35 GMT | The SharePoint RCE Patch Race of March 2026 | Sanjaya Kumar | [Read More](https://medium.com/p/8f2b75d9ef75) |
+| Wed, 25 Mar 2026 05:06:34 GMT | Even HackerOne Gets Caught Out by Supply Chain Risk | UK Cyber Defence | [Read More](https://medium.com/p/6cfca8ef2d63) |
+| Wed, 25 Mar 2026 04:58:00 GMT | Why Moving to Cloudflare Is the Smartest $0 Upgrade You’ll Make This Year | Toni Maxx | [Read More](https://medium.com/p/cd41553255f8) |
+| Wed, 25 Mar 2026 04:49:40 GMT | The 2026 wealth rankings highlights. | Sair E Malak | [Read More](https://medium.com/p/6af8e3dad7b8) |
+| Wed, 25 Mar 2026 04:48:38 GMT | Top Vulnerability Assessment Tools for Enterprises in 2026 | Meerab Khan | [Read More](https://medium.com/p/e0ae9b676333) |
+| Wed, 25 Mar 2026 04:41:46 GMT | Tips & Strategy to Pass CompTIA PenTest+ (PT0–003) | Shubhomrawat | [Read More](https://medium.com/p/e9cbef948be5) |
 | Wed, 25 Mar 2026 04:21:35 GMT | Not Every Joint Chief of Staff Becomes Commander-in-Chief | Naing Min Khant | [Read More](https://medium.com/p/d7abe3f6cae1) |
 | Wed, 25 Mar 2026 04:13:25 GMT | The Hidden Impact of War on UI/UX | Rahul Kumar | [Read More](https://medium.com/p/28d9fb088557) |
 | Wed, 25 Mar 2026 03:53:19 GMT | Obfuscation Isn’t Security — And Attackers Love That | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/b9a5cf90a9fc) |
@@ -98,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Mar 2026 19:26:10 GMT | From Insecure to Secure: How Two-Factor Authentication Actually Keeps You Secure | Joel Orie | [Read More](https://medium.com/p/e7c8bd7767fc) |
 | Tue, 24 Mar 2026 19:19:08 GMT | How to Achieve SOC 2 Compliance (Step-by-Step Guide for Startups) | Ross | [Read More](https://medium.com/p/db9f38bc4037) |
 | Tue, 24 Mar 2026 19:12:36 GMT | Before You Touch Nmap: Networking Fundamentals Every Beginner Must Understand | Suraj Apar | [Read More](https://medium.com/p/b65ea907ca87) |
-| Tue, 24 Mar 2026 19:06:46 GMT | Atenção, nem todo Event ID 4625 é igual | Jordano Mazzoni | [Read More](https://medium.com/p/f6c430505e3f) |
-| Tue, 24 Mar 2026 18:59:40 GMT | I Thought I Was Just Being Careful | emberlines | [Read More](https://medium.com/p/c8aeaaed5e3c) |
-| Tue, 24 Mar 2026 18:58:42 GMT | Junior Security Analyst Intro — TryHackMe Walkthrough | Taylor Wavra | [Read More](https://medium.com/p/0494f3519e31) |
-| Tue, 24 Mar 2026 18:58:11 GMT | I Built a Firefox Extension That Uses AI to Detect Bot Protection Systems Hidden in HTTP Headers | Dima Kynal | [Read More](https://medium.com/p/465857fcb22c) |
-| Tue, 24 Mar 2026 18:56:31 GMT | Why Online Privacy Matters More Than Ever (And How to Protect Yours in 2026) | Warren Smith | [Read More](https://medium.com/p/af7ee39f15ed) |
-| Tue, 24 Mar 2026 18:50:25 GMT | Group-Based Authorization Is Not Role Assignment — It Is an Authority Contract | Salwan Mohamed | [Read More](https://medium.com/p/1fa423ec7926) |
-| Tue, 24 Mar 2026 18:49:22 GMT | How I Passed Three TCM Certs in eight months. | Originalshadowforge | [Read More](https://medium.com/p/b8d76211263a) |
-| Tue, 24 Mar 2026 18:48:02 GMT | The Message That Didn’t Look Suspicious | Cyber Safety Zone | [Read More](https://medium.com/p/feca502d4c89) |
-| Tue, 24 Mar 2026 18:38:40 GMT | Rising Security Concerns Drive Demand for Advanced, Customized AI-based Protection Solutions | Jonathan Kendall | [Read More](https://medium.com/p/a59f6bd4faba) |
-| Tue, 24 Mar 2026 18:26:12 GMT | TryHackMe — Threat Intelligence Tools room | Mohammad Zghoul | [Read More](https://medium.com/p/0b683abb6d26) |
-| Tue, 24 Mar 2026 18:24:09 GMT | TOMCAT: CVE-2024–50379 VULNERABILITY ANALYSIS AND EXPLOITATION(TryHackMe Room) | Sakthiramesh | [Read More](https://medium.com/p/13b59ac5093a) |
-| Tue, 24 Mar 2026 18:20:57 GMT | From SOC to AI Command Center | Sales | [Read More](https://medium.com/p/4bd770aae2e7) |
-| Tue, 24 Mar 2026 18:19:20 GMT | Using Claude Code for a security review — a short story from a humble developer | Christoffer Pedersen | [Read More](https://medium.com/p/172c0b40ffbf) |
-| Tue, 24 Mar 2026 18:17:21 GMT | Alert Fatigue Is a Symptom. Prevention-First Cloud Security Is the Fix. | Okan Yıldız | [Read More](https://medium.com/p/5204fac1bdb2) |
