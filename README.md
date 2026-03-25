@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Mar 2026 15:59:48 GMT | Active Directory Lab: Simulating a Kerberoasting Attack and Troubleshooting Kerberos Failures | Jaachuspace | [Read More](https://medium.com/p/af523e482b2d) |
+| Wed, 25 Mar 2026 15:59:03 GMT | Why Smart Contract Exploits Are Still Happening in 2025 (And How We Can Fix It) | AuditSmart | [Read More](https://medium.com/p/dd769f380687) |
+| Wed, 25 Mar 2026 15:58:18 GMT | Strategic Industrial Cyber Warfare Analysis — Briefing 04 | Muhammad Ali Khan | [Read More](https://medium.com/p/f89595b2ae70) |
+| Wed, 25 Mar 2026 15:57:58 GMT | Business Logic: Bypassing Free Plan Team Invitations | Essam Ezzat | [Read More](https://medium.com/p/4183309809e5) |
+| Wed, 25 Mar 2026 15:57:24 GMT | How to Handle Sensitive Data Securely in Terraform | Grace Zawadi | [Read More](https://medium.com/p/7bdc90701986) |
+| Wed, 25 Mar 2026 15:53:04 GMT | TryHackMe-Room1-Offensive Security Intro | Hafsa Sarfraz | [Read More](https://medium.com/p/ecffebbcf5fb) |
+| Wed, 25 Mar 2026 15:48:52 GMT | The Quiet Fear Behind Every AI Prompt: A Security Consultant’s Honest Confession | Saginuma Southern Studio | [Read More](https://medium.com/p/35f8557a5660) |
+| Wed, 25 Mar 2026 15:47:32 GMT | FCC Bans New Foreign-Made Routers: A Turning Point in Infrastructure-Level Cybersecurity | Chetan Seripally | [Read More](https://medium.com/p/e6356d17d916) |
+| Wed, 25 Mar 2026 15:46:26 GMT | Security That Actually Acts. | NanoChain | [Read More](https://medium.com/p/1f38ac1e7313) |
+| Wed, 25 Mar 2026 15:32:01 GMT | Cyber Security: ডিজিটাল দুনিয়ায় নিরাপদ থাকা - | Ahnaf Tahmid Hasan | [Read More](https://medium.com/p/e5b124423f7f) |
+| Wed, 25 Mar 2026 15:31:02 GMT | Fake LiteLLM Poisoned Supply Chains — The Hack on March 24, 2026 | Julie Ann Collins | [Read More](https://medium.com/p/df7bb453af43) |
+| Wed, 25 Mar 2026 15:30:32 GMT | Zahid Zahoor – Rising Tech Creator from Bandipora, Kashmir | Zb | [Read More](https://medium.com/p/363c0c5f58ff) |
+| Wed, 25 Mar 2026 15:29:47 GMT | Windows Event Logs in Digital Forensics: What Investigators Look For | Ritujaa Kelaskar | [Read More](https://medium.com/p/cd297d54dfee) |
+| Wed, 25 Mar 2026 15:26:39 GMT | Encrypting API Payloads with Middleware: Why It Matters, How to Build It, and When to Skip It | Kuldeep Modh | [Read More](https://medium.com/p/ae527544d155) |
+| Wed, 25 Mar 2026 15:26:23 GMT | Kerem Proulx and Kyle Bhiro | Everywhere Ventures | [Read More](https://medium.com/p/a004e4dc3f71) |
+| Wed, 25 Mar 2026 15:24:23 GMT | Secure. Trace. Recover. The Future of Crypto Asset Recovery with Mighty Hacker Recovery | Darkweb Bitcoin Expert Mighty Hacker Recovery | [Read More](https://medium.com/p/93670e8e6eac) |
+| Wed, 25 Mar 2026 15:22:48 GMT | Container Carnage: How Attackers Abuse SMB — and How SOCs Actually Catch Them | Pablo Echeverria | [Read More](https://medium.com/p/b42f4af67775) |
+| Wed, 25 Mar 2026 15:21:50 GMT | Mobile Number Hacked? How to Recover and Secure Your SIM Card Quickly | Quick tech Fix | [Read More](https://medium.com/p/014d8ef8834a) |
+| Wed, 25 Mar 2026 15:14:32 GMT | GlassWorm Malware: How Attackers Used Solana Dead Drops to Steal Data and Deploy RATs | Ananthuharikumar | [Read More](https://medium.com/p/443d6168e0ea) |
+| Wed, 25 Mar 2026 15:05:23 GMT | Understanding Darknet Market Escrow: How It Protects Buyers and Sellers | Tor BBB | [Read More](https://medium.com/p/2a9f2f5cbea7) |
+| Wed, 25 Mar 2026 15:04:59 GMT | Web Security Series #9 — Exploiting Second-Order SQL Injection via Stored User Input | Laibakashif | [Read More](https://medium.com/p/32b89387e86b) |
+| Wed, 25 Mar 2026 15:02:08 GMT | Data Validation Is Not a QA Task — It’s a System Responsibility | Mohsin Muhammad Ali | [Read More](https://medium.com/p/e831b119ed60) |
+| Wed, 25 Mar 2026 14:57:46 GMT | The Hidden Cost of “Vibe Coding”: Is Your AI-Generated App Actually Safe to Deploy? | Marine DEPOORTER | [Read More](https://medium.com/p/3a0e75820d76) |
+| Wed, 25 Mar 2026 14:45:35 GMT | Fiziksel Sızma Testi - 12 Adımda (REDTEAMOPSEC) Metodolojisi | Hazar Taspinar | [Read More](https://medium.com/p/6ad3a56674b5) |
 | Wed, 25 Mar 2026 14:39:51 GMT | Why General Telegram Bots are Failing Web3 Communities: A 2026 Security Analysis | Bershtech | [Read More](https://medium.com/p/eef71f5f0bca) |
 | Wed, 25 Mar 2026 14:39:18 GMT | Closing the “Experience-Insight Gap” in Modern Casino Management | Scadea Solutions | [Read More](https://medium.com/p/395131f81921) |
 | Wed, 25 Mar 2026 14:35:09 GMT | Active Directory: Şirket Ağlarının Görünmez Güvenlik Katmanı | Anıl Özgül | [Read More](https://medium.com/p/1998d559518b) |
@@ -89,27 +113,3 @@ sécuriser votre présence numérique | WanaData | [Read More](https://medium.co
 | Wed, 25 Mar 2026 10:42:55 GMT | The AI Mess Roundup: Wi-Fi X-Ray, Synthetic Heists, and the 2030 Workplace | UncovAI | [Read More](https://medium.com/p/4cc6a9fc84ff) |
 | Wed, 25 Mar 2026 10:42:26 GMT | Cybersecurity Training and Certification: A Complete Career Guide | Akshay Patil | [Read More](https://medium.com/p/7ea2a1af8315) |
 | Wed, 25 Mar 2026 10:40:59 GMT | War Thunder Vehicle Ownership Bypass: Bypassing the Shop Interface and Unlocking Test Drives | Firas CHAIB | [Read More](https://medium.com/p/6f4281e72698) |
-| Wed, 25 Mar 2026 10:34:50 GMT | Cloud Migration Service Providers How to Choose the Right Partner (Without Risk & Downtime) | IFI Techsolutions | [Read More](https://medium.com/p/6a13a768f09f) |
-| Wed, 25 Mar 2026 10:34:46 GMT | Securing Mainframes - Top Threats & Solutions in 2026 | Impronics Technologies | [Read More](https://medium.com/p/a8807866de00) |
-| Wed, 25 Mar 2026 10:33:32 GMT | SSL RC4 Cipher Suites Supported (Bar Mitzvah) — Understanding and Exploiting the Vulnerability | EternalSec | [Read More](https://medium.com/p/a336d05b8dd7) |
-| Wed, 25 Mar 2026 10:29:54 GMT | How to Build a Secure Website on a Budget: Smart Hosting Strategies for Growing Businesses? | Andy | [Read More](https://medium.com/p/14dc484b90cf) |
-| Wed, 25 Mar 2026 10:26:00 GMT | Phishing Alerts Made Simple: How to analyze and triage a phishing alert | Abija Joyce | [Read More](https://medium.com/p/0a1e4c86c649) |
-| Wed, 25 Mar 2026 10:24:32 GMT | Iran-Linked Hack Hits Stryker: What It Means for Cybersecurity Professionals | Avigdor CyberTech | [Read More](https://medium.com/p/5d2b6656774e) |
-| Wed, 25 Mar 2026 10:24:29 GMT | I Ran a Full OWASP Security Audit on My GPT-4o Deployment. It Failed 9 Out of 26 Tests. | Ali Cheaib | [Read More](https://medium.com/p/36115d6901ed) |
-| Wed, 25 Mar 2026 10:21:16 GMT | After AO Arena: AI in security feels important, but not yet operationally accessible | SIRV - AI for people safety & security | [Read More](https://medium.com/p/ea1377441ea6) |
-| Wed, 25 Mar 2026 10:15:21 GMT | Imagine Losing All Your Data Tomorrow — What Would You Do? | Deepa | [Read More](https://medium.com/p/e73becc979cd) |
-| Wed, 25 Mar 2026 10:14:18 GMT | Never Miss a Renewal: Why Proactive License Management is Critical for Continuity | Secure1 | [Read More](https://medium.com/p/1dbb9d2baa1b) |
-| Wed, 25 Mar 2026 10:13:23 GMT | Risk Protection: InvestigBot Security Features That Serious CFD Traders Demand | Investigbot | [Read More](https://medium.com/p/960103e53804) |
-| Wed, 25 Mar 2026 10:12:31 GMT | Securing Autonomous AI: A Step-by-Step Guide to Running OpenClaw with NVIDIA NemoClaw | Zakaria Hamane | [Read More](https://medium.com/p/08f8049e300d) |
-| Wed, 25 Mar 2026 10:08:46 GMT | The LiteLLM PyPI Supply Chain Attack: From pip install to API Keys Stolen | Candy Wong | [Read More](https://medium.com/p/cdd0941a0b84) |
-| Wed, 25 Mar 2026 10:08:12 GMT | CEH vs CSA Certification (EC-Council): Which One Should You Choose in 2026? | Shreyashettyctr | [Read More](https://medium.com/p/7166ec1a0174) |
-| Wed, 25 Mar 2026 10:06:38 GMT | A New Approach to Public Safety and Crime Reporting in India | Citizen COP | [Read More](https://medium.com/p/349cb44ae0a3) |
-| Wed, 25 Mar 2026 10:02:33 GMT | What the Recent PayPal Breach Says About Modern Web Risk | Oran F | [Read More](https://medium.com/p/3e8bf1d5c490) |
-| Wed, 25 Mar 2026 09:50:43 GMT | FLEETTRACK 4G 3-Ch Dashcam Vehicle Surveillance Camera System - Dash Camera with GPS | Support CAMSTORE | [Read More](https://medium.com/p/8dbe73ce6143) |
-| Wed, 25 Mar 2026 09:47:02 GMT | HackThisSite Basic Levels 1–11 — Complete Walkthrough | Abhijeet Mahendrakar | [Read More](https://medium.com/p/189ad64bb69e) |
-| Wed, 25 Mar 2026 09:42:21 GMT | I Built Enterprise Security Monitoring at Home for Free — Here's How | Andrew Viant | [Read More](https://medium.com/p/f335644e571b) |
-| Wed, 25 Mar 2026 09:38:32 GMT | What Is VAPT and Why Does Your Business Need It? | Vinod Senthil | [Read More](https://medium.com/p/529f95ea5182) |
-| Wed, 25 Mar 2026 09:31:37 GMT | Industrial Security Services: Safeguarding Modern Industries with Smart Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/0652f65b8b9f) |
-| Wed, 25 Mar 2026 09:31:00 GMT | Security Testing vs. Security Verification | Frank Leitner | [Read More](https://medium.com/p/807a44fc5ad3) |
-| Wed, 25 Mar 2026 09:29:40 GMT | The Dark Side of AI in Web3: How Hackers Are Automating Blockchain Exploits | Vatsamistry | [Read More](https://medium.com/p/9905ab7904f0) |
-| Wed, 25 Mar 2026 09:27:29 GMT | The Tab You Left Open… Never Really Closed | Devarshi Acharya | [Read More](https://medium.com/p/7960e5bd3dda) |
