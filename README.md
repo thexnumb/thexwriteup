@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Mar 2026 11:31:04 GMT | Claude Code Permissions: A Simple Guide for Safer AI Development | Nitin Pathak | [Read More](https://medium.com/p/6c84c674daae) |
+| Wed, 25 Mar 2026 11:28:51 GMT | Pico-Ctf challenge walkthrough {Reverse Engineering} | Arka Priya Das | [Read More](https://medium.com/p/7f440ad1db4f) |
+| Wed, 25 Mar 2026 11:27:33 GMT | Shared vs VPS vs Reseller Hosting: Which One Is Right for Your Business? | Mary Thomas | [Read More](https://medium.com/p/824e49287bf2) |
+| Wed, 25 Mar 2026 11:26:38 GMT | HTTP vs HTTPS vs SOCKS Proxies: What’s the Difference? | Redd | [Read More](https://medium.com/p/0d0de1d43027) |
+| Wed, 25 Mar 2026 11:25:00 GMT | Automating Short-Lived Token Authentication using Postman and Burp Suite — Part 2 | Mohammed Shine | [Read More](https://medium.com/p/4efa4906bdee) |
+| Wed, 25 Mar 2026 11:18:42 GMT | Supply Chain Security for AI Agents: We Built a Scanner at a Hackathon | Dr. Florian Steiner | [Read More](https://medium.com/p/2f9b58937470) |
+| Wed, 25 Mar 2026 11:14:34 GMT | From Delaying Certifications to Passing eJPT: My Real Journey | Ehtesham Ul Haq | [Read More](https://medium.com/p/5dbebaf5b8c0) |
+| Wed, 25 Mar 2026 11:10:23 GMT | Strengthening Critical Infrastructure: Insights from the DoE’s 5 Year Energy Security Plan | Jas | [Read More](https://medium.com/p/4b186763b04e) |
+| Wed, 25 Mar 2026 11:05:46 GMT | Best Data Security Management Guide 2025 Strategies Trends and Best Practices | HawkShield | [Read More](https://medium.com/p/9a62235b96ca) |
+| Wed, 25 Mar 2026 11:04:52 GMT | Why Mature Organizations Need Systems Security Engineering | Peter Hillier/Halton | [Read More](https://medium.com/p/f493af7b5039) |
+| Wed, 25 Mar 2026 11:01:31 GMT | The Digital Transformation Hangover: Why I’m Done With “Seamless” | Mohit | [Read More](https://medium.com/p/140b50559f04) |
+| Wed, 25 Mar 2026 11:01:01 GMT | Investigating Suspicious Domains: A Structured Threat Hunting Methodology | Varul Arora | [Read More](https://medium.com/p/951b5a006ed4) |
+| Wed, 25 Mar 2026 11:01:00 GMT | Nobody Mentions the Apple Loop Until Risk Hits | James Kuhman | [Read More](https://medium.com/p/0eea0cd25c53) |
+| Wed, 25 Mar 2026 10:57:54 GMT | Flutter Biometric Authentication with local_auth | Rugved Apraj | [Read More](https://medium.com/p/608a2fefe072) |
+| Wed, 25 Mar 2026 10:57:26 GMT | Your Voice Is Now a Hacker’s Master Key — How Deepfake Audio Is Bypassing Every Security System in… | Bugitrix | [Read More](https://medium.com/p/7ac76c380a45) |
+| Wed, 25 Mar 2026 10:56:36 GMT | Decoding the Elder Plinius Repository: An Autopsy of the AI Control Plane | Juhani Merilehto | [Read More](https://medium.com/p/88c503224940) |
+| Wed, 25 Mar 2026 10:56:04 GMT | Why Active Directory Attracts Attackers: A Technical Overview of Structural Flaws | Shoaib Mohammad Ankon | [Read More](https://medium.com/p/d788deac1c9d) |
+| Wed, 25 Mar 2026 10:49:40 GMT | Mobile Pentesting with Frida: A Practical Guide | Tandelpruthvi | [Read More](https://medium.com/p/0cadd8bcf730) |
 | Wed, 25 Mar 2026 10:48:17 GMT | Apna Hacker Lab Setup Karo Kali Linux + VirtualBox + Burp Suite (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/59a3adb74b97) |
 | Wed, 25 Mar 2026 10:46:50 GMT | What is SME Cybersecurity? | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/6b601db982d0) |
+| Wed, 25 Mar 2026 10:43:23 GMT | Pay TV Market Revenue Set for Modest Expansion by 2035 | NIkita Poplai | [Read More](https://medium.com/p/d23e093ac440) |
 | Wed, 25 Mar 2026 10:42:55 GMT | The AI Mess Roundup: Wi-Fi X-Ray, Synthetic Heists, and the 2030 Workplace | UncovAI | [Read More](https://medium.com/p/4cc6a9fc84ff) |
 | Wed, 25 Mar 2026 10:42:26 GMT | Cybersecurity Training and Certification: A Complete Career Guide | Akshay Patil | [Read More](https://medium.com/p/7ea2a1af8315) |
 | Wed, 25 Mar 2026 10:40:59 GMT | War Thunder Vehicle Ownership Bypass: Bypassing the Shop Interface and Unlocking Test Drives | Firas CHAIB | [Read More](https://medium.com/p/6f4281e72698) |
@@ -93,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Mar 2026 06:59:54 GMT | Cloud Load Balancers: How Cloud Platforms Handle Traffic at Massive Scale | Kalana De Silva | [Read More](https://medium.com/p/15cdb4c943b9) |
 | Wed, 25 Mar 2026 06:51:03 GMT | Shared vs VPS vs Dedicated Hosting — Which One Should You Choose? | Ann Taylor | [Read More](https://medium.com/p/d7b1202d85ed) |
 | Wed, 25 Mar 2026 06:44:56 GMT | 10 Everyday Cybersecurity Mistakes (You Probably Make) | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/a1d38dbb6d77) |
-| Wed, 25 Mar 2026 06:41:52 GMT | The Fear Of Being Seen | DABBY | [Read More](https://medium.com/p/c532798e37bb) |
-| Wed, 25 Mar 2026 06:37:12 GMT | SQL Injection Explained: How Hackers Steal Database Data | 0xSmit | [Read More](https://medium.com/p/16f7a0434619) |
-| Wed, 25 Mar 2026 06:19:58 GMT | What is a DMZ in networking ? networking —Day 16 | 0xSmit | [Read More](https://medium.com/p/96dac3a37568) |
-| Wed, 25 Mar 2026 06:15:07 GMT | How Airport Security Guards Ensure A Smooth And Stress-Free Journey | Kimberly Powell | [Read More](https://medium.com/p/dd27e85562e4) |
-| Wed, 25 Mar 2026 06:07:41 GMT | 6 Wireshark Habits That Instantly Level Up Your Analysis Skills | Fateyaly | [Read More](https://medium.com/p/03ac26a72fca) |
-| Wed, 25 Mar 2026 06:06:38 GMT | Privilege Persistence via Reusable Role-Change Request Leads to Full Store Takeover | DrRobik | [Read More](https://medium.com/p/c3c2e1b38b0e) |
-| Wed, 25 Mar 2026 06:01:20 GMT | Deep Learning Development Services for Smart, Scalable AI Solutions | Bhavesh Rajpurohit | [Read More](https://medium.com/p/81adddb4b144) |
-| Wed, 25 Mar 2026 05:55:45 GMT | Best Network Vulnerability Scanners for Small Businesses | Bindu Dhingra | [Read More](https://medium.com/p/ed698ca1cbf6) |
-| Wed, 25 Mar 2026 05:55:00 GMT | Step-by-Step Guide to Start a Cyber Security Career in Chhatrapati Sambhajinagar | Suraj Rajput | [Read More](https://medium.com/p/9e415a25fe2d) |
-| Wed, 25 Mar 2026 05:48:10 GMT | The Open Source Truth Every Beginner Gets Wrong | The Cyber Student | [Read More](https://medium.com/p/5b8790c53680) |
-| Wed, 25 Mar 2026 05:45:34 GMT | Okta Beginner Series 
-Part 2: Users and Groups | Pooja Verma | [Read More](https://medium.com/p/aad2d8d178cc) |
-| Wed, 25 Mar 2026 05:40:20 GMT | Fixing VAPT Findings Using OCI Application Load Balancer: Host Header Injection, CORS Vulnerability… | Tokishi | [Read More](https://medium.com/p/b5aa0406aa72) |
-| Wed, 25 Mar 2026 05:31:00 GMT | TryHackMe Walkthrough: AI/ML Security Threats | Prateekpulastya | [Read More](https://medium.com/p/0a8c42a7555e) |
-| Wed, 25 Mar 2026 05:28:11 GMT | The Rise of AI-Powered Phishing Attacks in 2026: Why Traditional Defenses Are Failing | Lakshita Gulliya | [Read More](https://medium.com/p/a749a6a2e294) |
-| Wed, 25 Mar 2026 05:26:44 GMT | Why API Security Is the Most Valuable Skill You’re Not Learning | Cyberbali | [Read More](https://medium.com/p/4d1cedb936eb) |
-| Wed, 25 Mar 2026 05:22:35 GMT | The SharePoint RCE Patch Race of March 2026 | Sanjaya Kumar | [Read More](https://medium.com/p/8f2b75d9ef75) |
-| Wed, 25 Mar 2026 05:06:34 GMT | Even HackerOne Gets Caught Out by Supply Chain Risk | UK Cyber Defence | [Read More](https://medium.com/p/6cfca8ef2d63) |
-| Wed, 25 Mar 2026 04:58:00 GMT | Why Moving to Cloudflare Is the Smartest $0 Upgrade You’ll Make This Year | Toni Maxx | [Read More](https://medium.com/p/cd41553255f8) |
-| Wed, 25 Mar 2026 04:49:40 GMT | The 2026 wealth rankings highlights. | Sair E Malak | [Read More](https://medium.com/p/6af8e3dad7b8) |
