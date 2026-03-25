@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Mar 2026 20:23:43 GMT | On Vulnerability, Strength, and Honest Hope | @Tistje | [Read More](https://medium.com/p/ed036cded2f2) |
+| Wed, 25 Mar 2026 20:21:00 GMT | Security best practices every B2B product should implement early. | Flux Creative Technologies | [Read More](https://medium.com/p/605df1c191fb) |
+| Wed, 25 Mar 2026 20:18:31 GMT | How to Send an Anonymous Email Without Being Traced (2026 Guide) | Warren Smith | [Read More](https://medium.com/p/3e92aa94a18a) |
+| Wed, 25 Mar 2026 20:17:28 GMT | The Rising Risk of AI Security Threats, What’s Actually Happening…… | Kolabs | [Read More](https://medium.com/p/657b0d155b64) |
+| Wed, 25 Mar 2026 20:16:59 GMT | somewhere in LA there is a man who steals vacuums | Azra Valani | [Read More](https://medium.com/p/4a21d28fcc67) |
+| Wed, 25 Mar 2026 20:13:53 GMT | Instagram DM’lerde Uçtan Uca Şifreleme Kalkıyor: Bu Ne Anlama Geliyor? | Ali Yaşe | [Read More](https://medium.com/p/47e53b8c97ee) |
+| Wed, 25 Mar 2026 20:13:22 GMT | AI Isn’t Just a Tool, It’s Changing Who Wins and Who Loses | Core Focus | [Read More](https://medium.com/p/9bf2476deffb) |
+| Wed, 25 Mar 2026 20:10:09 GMT | Monteverde - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/18fc010f68ee) |
+| Wed, 25 Mar 2026 20:09:06 GMT | You Don’t Want Money as Much as You Think You Do | Dan Trainer | [Read More](https://medium.com/p/7a5355bf1311) |
+| Wed, 25 Mar 2026 20:07:37 GMT | What Triaging Five Phishing Alerts Taught Me About Thinking Like a SOC Analyst | Robert Perez | [Read More](https://medium.com/p/c08917f2b06a) |
+| Wed, 25 Mar 2026 20:06:44 GMT | Trivy Supply Chain Attack: Technical Breakdown | RealSec.io | [Read More](https://medium.com/p/f0ce1fee1472) |
+| Wed, 25 Mar 2026 20:02:19 GMT | Does Storage Encryption Play a Role in Securing an Oracle Database? | Josephoracle | [Read More](https://medium.com/p/f65b97ec934c) |
+| Wed, 25 Mar 2026 19:56:06 GMT | Microsoft Authenticator’s Unclaimed Deep Link: A Full Account Takeover Story (CVE-2026–26123) | Khaled Mohamed | [Read More](https://medium.com/p/e0409a920a02) |
 | Wed, 25 Mar 2026 19:33:47 GMT | The AI Ecosystem | Shahbaz Ahmed | [Read More](https://medium.com/p/3af56522003f) |
 | Wed, 25 Mar 2026 19:31:00 GMT | Detecting AD Credential Attacks | Jose Praveen | [Read More](https://medium.com/p/2c6374ce49cd) |
 | Wed, 25 Mar 2026 19:22:42 GMT | HTB Academy -API Attacks (Server Side Request Forgery) Exercise Walkthrough | Farouq Hassan | [Read More](https://medium.com/p/f27cfee30ab6) |
@@ -100,16 +113,3 @@ Software | Stalinkumar | [Read More](https://medium.com/p/ac98a4361d3f) |
 | Wed, 25 Mar 2026 15:02:08 GMT | Data Validation Is Not a QA Task — It’s a System Responsibility | Mohsin Muhammad Ali | [Read More](https://medium.com/p/e831b119ed60) |
 | Wed, 25 Mar 2026 14:57:46 GMT | The Hidden Cost of “Vibe Coding”: Is Your AI-Generated App Actually Safe to Deploy? | Marine DEPOORTER | [Read More](https://medium.com/p/3a0e75820d76) |
 | Wed, 25 Mar 2026 14:45:35 GMT | Fiziksel Sızma Testi - 12 Adımda (REDTEAMOPSEC) Metodolojisi | Hazar Taspinar | [Read More](https://medium.com/p/6ad3a56674b5) |
-| Wed, 25 Mar 2026 14:39:51 GMT | Why General Telegram Bots are Failing Web3 Communities: A 2026 Security Analysis | Bershtech | [Read More](https://medium.com/p/eef71f5f0bca) |
-| Wed, 25 Mar 2026 14:39:18 GMT | Closing the “Experience-Insight Gap” in Modern Casino Management | Scadea Solutions | [Read More](https://medium.com/p/395131f81921) |
-| Wed, 25 Mar 2026 14:35:09 GMT | Active Directory: Şirket Ağlarının Görünmez Güvenlik Katmanı | Anıl Özgül | [Read More](https://medium.com/p/1998d559518b) |
-| Wed, 25 Mar 2026 14:33:55 GMT | The Wallet Was Never Really Gone: Inside the Clifton Collins Bitcoin Recovery | Dice | [Read More](https://medium.com/p/cfd439df2490) |
-| Wed, 25 Mar 2026 14:33:29 GMT | That Security Alert in Your Inbox Could Be the Real Attack | Karl Buhl | [Read More](https://medium.com/p/0861cf5dbbcc) |
-| Wed, 25 Mar 2026 14:31:00 GMT | That Update You Keep Clicking ‘Remind Me Later’ On? It’s Probably a Wide-Open Door. | Sharon Martin | [Read More](https://medium.com/p/31b2eb52dd22) |
-| Wed, 25 Mar 2026 14:31:00 GMT | The Air-Gapped Chronicles: The SOC Blindspot — When Your Own AI Becomes the New Insider Threat | Piyoosh Rai | [Read More](https://medium.com/p/5d31f406ee86) |
-| Wed, 25 Mar 2026 14:26:46 GMT | The Invisible Front Door: Is Your Azure Tenant Talking Too Much? Part 2 | Chisom | [Read More](https://medium.com/p/d16015dbe637) |
-| Wed, 25 Mar 2026 14:26:33 GMT | The Lost Generation | Maya | [Read More](https://medium.com/p/e534be86d15c) |
-| Wed, 25 Mar 2026 14:24:38 GMT | They Said Packet Injection on QCACLD-3.0 Was Impossible. I Proved Them Wrong | Wael Hasnaoui | [Read More](https://medium.com/p/588fa55ee702) |
-| Wed, 25 Mar 2026 14:23:11 GMT | Automotive Cybersecurity Market: Innovation, Risks, and Strategic Outlook | Mohit Insightful | [Read More](https://medium.com/p/8a7a141d4709) |
-| Wed, 25 Mar 2026 14:22:31 GMT | AI Can Write Code. But Can It Reduce Risk? | Scottcmcmahan | [Read More](https://medium.com/p/d5024749c8bc) |
-| Wed, 25 Mar 2026 14:20:48 GMT | Just One Moment to Fall Apart | MJ-1604 | [Read More](https://medium.com/p/5b7cc5d51bff) |
