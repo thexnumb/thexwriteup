@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Mar 2026 10:48:17 GMT | Apna Hacker Lab Setup Karo Kali Linux + VirtualBox + Burp Suite (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/59a3adb74b97) |
+| Wed, 25 Mar 2026 10:46:50 GMT | What is SME Cybersecurity? | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/6b601db982d0) |
+| Wed, 25 Mar 2026 10:42:55 GMT | The AI Mess Roundup: Wi-Fi X-Ray, Synthetic Heists, and the 2030 Workplace | UncovAI | [Read More](https://medium.com/p/4cc6a9fc84ff) |
+| Wed, 25 Mar 2026 10:42:26 GMT | Cybersecurity Training and Certification: A Complete Career Guide | Akshay Patil | [Read More](https://medium.com/p/7ea2a1af8315) |
+| Wed, 25 Mar 2026 10:40:59 GMT | War Thunder Vehicle Ownership Bypass: Bypassing the Shop Interface and Unlocking Test Drives | Firas CHAIB | [Read More](https://medium.com/p/6f4281e72698) |
+| Wed, 25 Mar 2026 10:34:50 GMT | Cloud Migration Service Providers How to Choose the Right Partner (Without Risk & Downtime) | IFI Techsolutions | [Read More](https://medium.com/p/6a13a768f09f) |
+| Wed, 25 Mar 2026 10:33:32 GMT | SSL RC4 Cipher Suites Supported (Bar Mitzvah) — Understanding and Exploiting the Vulnerability | EternalSec | [Read More](https://medium.com/p/a336d05b8dd7) |
+| Wed, 25 Mar 2026 10:29:54 GMT | How to Build a Secure Website on a Budget: Smart Hosting Strategies for Growing Businesses? | Andy | [Read More](https://medium.com/p/14dc484b90cf) |
+| Wed, 25 Mar 2026 10:26:00 GMT | Phishing Alerts Made Simple: How to analyze and triage a phishing alert | Abija Joyce | [Read More](https://medium.com/p/0a1e4c86c649) |
+| Wed, 25 Mar 2026 10:24:32 GMT | Iran-Linked Hack Hits Stryker: What It Means for Cybersecurity Professionals | Avigdor CyberTech | [Read More](https://medium.com/p/5d2b6656774e) |
+| Wed, 25 Mar 2026 10:24:29 GMT | I Ran a Full OWASP Security Audit on My GPT-4o Deployment. It Failed 9 Out of 26 Tests. | Ali Cheaib | [Read More](https://medium.com/p/36115d6901ed) |
+| Wed, 25 Mar 2026 10:21:16 GMT | After AO Arena: AI in security feels important, but not yet operationally accessible | SIRV - AI for people safety & security | [Read More](https://medium.com/p/ea1377441ea6) |
+| Wed, 25 Mar 2026 10:15:21 GMT | Imagine Losing All Your Data Tomorrow — What Would You Do? | Deepa | [Read More](https://medium.com/p/e73becc979cd) |
+| Wed, 25 Mar 2026 10:14:18 GMT | Never Miss a Renewal: Why Proactive License Management is Critical for Continuity | Secure1 | [Read More](https://medium.com/p/1dbb9d2baa1b) |
+| Wed, 25 Mar 2026 10:13:23 GMT | Risk Protection: InvestigBot Security Features That Serious CFD Traders Demand | Investigbot | [Read More](https://medium.com/p/960103e53804) |
+| Wed, 25 Mar 2026 10:12:31 GMT | Securing Autonomous AI: A Step-by-Step Guide to Running OpenClaw with NVIDIA NemoClaw | Zakaria Hamane | [Read More](https://medium.com/p/08f8049e300d) |
+| Wed, 25 Mar 2026 10:08:46 GMT | The LiteLLM PyPI Supply Chain Attack: From pip install to API Keys Stolen | Candy Wong | [Read More](https://medium.com/p/cdd0941a0b84) |
+| Wed, 25 Mar 2026 10:08:12 GMT | CEH vs CSA Certification (EC-Council): Which One Should You Choose in 2026? | Shreyashettyctr | [Read More](https://medium.com/p/7166ec1a0174) |
+| Wed, 25 Mar 2026 10:02:33 GMT | What the Recent PayPal Breach Says About Modern Web Risk | Oran F | [Read More](https://medium.com/p/3e8bf1d5c490) |
+| Wed, 25 Mar 2026 09:50:43 GMT | FLEETTRACK 4G 3-Ch Dashcam Vehicle Surveillance Camera System - Dash Camera with GPS | Support CAMSTORE | [Read More](https://medium.com/p/8dbe73ce6143) |
 | Wed, 25 Mar 2026 09:47:02 GMT | HackThisSite Basic Levels 1–11 — Complete Walkthrough | Abhijeet Mahendrakar | [Read More](https://medium.com/p/189ad64bb69e) |
 | Wed, 25 Mar 2026 09:42:21 GMT | I Built Enterprise Security Monitoring at Home for Free — Here's How | Andrew Viant | [Read More](https://medium.com/p/f335644e571b) |
 | Wed, 25 Mar 2026 09:38:32 GMT | What Is VAPT and Why Does Your Business Need It? | Vinod Senthil | [Read More](https://medium.com/p/529f95ea5182) |
@@ -93,23 +113,3 @@ Part 2: Users and Groups | Pooja Verma | [Read More](https://medium.com/p/aad2d8
 | Wed, 25 Mar 2026 05:06:34 GMT | Even HackerOne Gets Caught Out by Supply Chain Risk | UK Cyber Defence | [Read More](https://medium.com/p/6cfca8ef2d63) |
 | Wed, 25 Mar 2026 04:58:00 GMT | Why Moving to Cloudflare Is the Smartest $0 Upgrade You’ll Make This Year | Toni Maxx | [Read More](https://medium.com/p/cd41553255f8) |
 | Wed, 25 Mar 2026 04:49:40 GMT | The 2026 wealth rankings highlights. | Sair E Malak | [Read More](https://medium.com/p/6af8e3dad7b8) |
-| Wed, 25 Mar 2026 04:48:38 GMT | Top Vulnerability Assessment Tools for Enterprises in 2026 | Meerab Khan | [Read More](https://medium.com/p/e0ae9b676333) |
-| Wed, 25 Mar 2026 04:41:46 GMT | Tips & Strategy to Pass CompTIA PenTest+ (PT0–003) | Shubhomrawat | [Read More](https://medium.com/p/e9cbef948be5) |
-| Wed, 25 Mar 2026 04:21:35 GMT | Not Every Joint Chief of Staff Becomes Commander-in-Chief | Naing Min Khant | [Read More](https://medium.com/p/d7abe3f6cae1) |
-| Wed, 25 Mar 2026 04:13:25 GMT | The Hidden Impact of War on UI/UX | Rahul Kumar | [Read More](https://medium.com/p/28d9fb088557) |
-| Wed, 25 Mar 2026 03:53:19 GMT | Obfuscation Isn’t Security — And Attackers Love That | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/b9a5cf90a9fc) |
-| Wed, 25 Mar 2026 03:50:15 GMT | The Day I Realized JWT Isn’t Always Safe And Discovered PASETO | Parth Dadhich | [Read More](https://medium.com/p/e74675509d48) |
-| Wed, 25 Mar 2026 03:45:24 GMT | Selectel ограничивает доступ к адресам сервисов Госуслуг с 30 марта 2026 года | Chernousov Anton | [Read More](https://medium.com/p/a335b4a099c7) |
-| Wed, 25 Mar 2026 03:37:33 GMT | From Circuits to Ciphers: My Journey into Cybersecurity | Diptava Dey | [Read More](https://medium.com/p/497494b6c802) |
-| Wed, 25 Mar 2026 03:33:33 GMT | Shelob’s Lair: Why Your Next Cybersecurity Strategy Needs More Legs and Less Logic | misselbereth | [Read More](https://medium.com/p/6451f64979c6) |
-| Wed, 25 Mar 2026 03:32:56 GMT | How One of Toyota’s Suppliers Was Hit by a Supply Chain Cyberattack and Brought Its Entire… | David SEHYEON Baek | [Read More](https://medium.com/p/d2132da917b2) |
-| Wed, 25 Mar 2026 03:27:48 GMT | We Detonated the Real LiteLLM Malware on EC2: Here’s What Happened | Tarek CHEIKH | [Read More](https://medium.com/p/e937c77c26b7) |
-| Wed, 25 Mar 2026 03:27:01 GMT | Anatomy of a Supply Chain Attack: How LiteLLM Was Weaponized in 6 Hours | Tarek CHEIKH | [Read More](https://medium.com/p/d5b8cdbde347) |
-| Wed, 25 Mar 2026 03:26:27 GMT | Akhuwat Loan Apply Online (2026 Guide) – Eligibility, Application Process, and Approval Tips | Akhuwat Loan Guide | [Read More](https://medium.com/p/b74e345f6882) |
-| Wed, 25 Mar 2026 03:17:50 GMT | AI Security & Safe Design Using Novita AI | Kiran Kumar Reddy | [Read More](https://medium.com/p/a6120730fc99) |
-| Wed, 25 Mar 2026 03:13:33 GMT | The Phish Inside the House: How Hackers Hijacked Microsoft’s Own Alert System | SOCFortress | [Read More](https://medium.com/p/4bb7883e1302) |
-| Wed, 25 Mar 2026 02:29:02 GMT | APT41 Turns Google Calendar Into a Covert C2 Channel With TOUGHPROGRESS Malware | TheRedSheep | [Read More](https://medium.com/p/a3628f4a3946) |
-| Wed, 25 Mar 2026 02:25:14 GMT | Handala’s DICOM Obsession: Iranian State Hackers Zero In on Medical Imaging Systems | TheRedSheep | [Read More](https://medium.com/p/6832c6e8a86e) |
-| Wed, 25 Mar 2026 02:13:04 GMT | Kinetic FinOps: Intercepting the Token-Burn at the Speed of Inference | Thiago Nazario | [Read More](https://medium.com/p/6f2f9f7d1baf) |
-| Wed, 25 Mar 2026 02:07:09 GMT | It’ll always be you | dwntwng1rl | [Read More](https://medium.com/p/7123672da1fd) |
-| Wed, 25 Mar 2026 02:04:06 GMT | Phishing Didn’t Just Get Smarter. It Got Personal! | Ben   Olufemi akintounde | [Read More](https://medium.com/p/439ed0195bac) |
