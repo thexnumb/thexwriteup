@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Mar 2026 13:13:59 GMT | Understanding of inference attacks / privacy risk / secure data environments | Sudha Rani Maddala | [Read More](https://medium.com/p/1a63d9cf2582) |
+| Thu, 26 Mar 2026 13:13:21 GMT | Autonomous Red Teaming with Phantom AI - Cybersecurity Future | Pentester Club | [Read More](https://medium.com/p/42fda06bc7dd) |
+| Thu, 26 Mar 2026 13:12:47 GMT | $630 Billion in Infrastructure. $7,700 in Architecture. Only One of Them Works. | Seven Cubed Seven Labs | [Read More](https://medium.com/p/ac641cb84527) |
+| Thu, 26 Mar 2026 13:05:20 GMT | Why I Stopped Relying on Distro-Specific Commands, and Started Thinking in Systems | Gbolahan Idowu | [Read More](https://medium.com/p/6d1339c6371a) |
+| Thu, 26 Mar 2026 13:03:40 GMT | How to install Kali Linux on a Mac M1 (Apple Silicon) using UTM — Complete and updated guide | Edward Ramos | [Read More](https://medium.com/p/6c9dbaebc216) |
+| Thu, 26 Mar 2026 13:01:03 GMT | [After the Hunt] The Existential System Errors of Hidden Data | MonoEssay | [Read More](https://medium.com/p/b401929fbb17) |
+| Thu, 26 Mar 2026 13:01:01 GMT | TSA Can’t Get Worse? Challenge Accepted | Anthony Bialy | [Read More](https://medium.com/p/e8502851e903) |
+| Thu, 26 Mar 2026 13:01:00 GMT | When Your AI Agent Fabricates Board Numbers, Is It a Bug or a Breach? | Nwosu Rosemary | [Read More](https://medium.com/p/c7ac908a9961) |
+| Thu, 26 Mar 2026 12:51:50 GMT | RedLine Malware Case Moves Forward: Extradition Signals Stronger Global Cybercrime Enforcement | Jas | [Read More](https://medium.com/p/3cbc830b8267) |
+| Thu, 26 Mar 2026 12:50:02 GMT | Threat Modeling: Build Secure Code with Hands-On Guide& CI/CD Automation | Syedazainabhassan | [Read More](https://medium.com/p/7636bafd3eac) |
+| Thu, 26 Mar 2026 12:48:49 GMT | More Than a Conference: My Women in Cybersecurity (WiCyS) Experience in Washington, D.C. | Jeythasahanav | [Read More](https://medium.com/p/6d5010760afb) |
+| Thu, 26 Mar 2026 12:46:27 GMT | How We Found a Hidden REST API Endpoint in Magento 2 That Bots Use to Test Stolen Cards | Freento | [Read More](https://medium.com/p/f5f161c45d1b) |
+| Thu, 26 Mar 2026 12:36:00 GMT | The Commit Is Not Recoverable | André Ataíde | [Read More](https://medium.com/p/40d4daf7a020) |
+| Thu, 26 Mar 2026 12:32:04 GMT | Hacked Security Camera Websites: What They Are and How to Stop Them | Temma | [Read More](https://medium.com/p/42c455023b1a) |
+| Thu, 26 Mar 2026 12:19:15 GMT | I know nothing. So let’s start over. | Naana Sarkodie | [Read More](https://medium.com/p/4176b032db90) |
+| Thu, 26 Mar 2026 12:04:27 GMT | How to Live Smarter, Happier, and More Creatively Every Day | Abdullah Naqvi | [Read More](https://medium.com/p/9fe47a4a2ed6) |
+| Thu, 26 Mar 2026 12:02:23 GMT | How to set up a basic Home lab for Network Security practice — Day 17 | 0xSmit | [Read More](https://medium.com/p/a2d266c40f4a) |
+| Thu, 26 Mar 2026 11:59:24 GMT | I Changed One Word in a URL and Got Admin Access | Teachnolen | [Read More](https://medium.com/p/03dd1fc07f89) |
+| Thu, 26 Mar 2026 11:54:24 GMT | Creating CVE Detection Pipeline with Nuclei for Bug Bounty | Spectat0rguy | [Read More](https://medium.com/p/d1fd1b637507) |
+| Thu, 26 Mar 2026 11:53:24 GMT | Post Board — WebView Challenge | Anwer | [Read More](https://medium.com/p/0ebf57d620ef) |
+| Thu, 26 Mar 2026 11:53:04 GMT | How Security Master Planning Defines the Success of Mega Developments | Info | [Read More](https://medium.com/p/ca1df163a2c0) |
+| Thu, 26 Mar 2026 11:51:58 GMT | Kioptrix Level 5 Walkthrough: From Enumeration to Root | Charitymkakina | [Read More](https://medium.com/p/7b929ea6d919) |
 | Thu, 26 Mar 2026 11:36:21 GMT | Kali Linux 2026.1 Just Dropped — Here’s What Actually Matters | Techrefreshing | [Read More](https://medium.com/p/3c0f35ac5ba0) |
 | Thu, 26 Mar 2026 11:35:30 GMT | 5 Common Myths About Private Browsing You Should Know | Naveed Ahmed 《内维德》 | [Read More](https://medium.com/p/65ba842bdb00) |
 | Thu, 26 Mar 2026 11:34:20 GMT | I Built a Gmail Security Monitor Using Wazuh SIEM — Without Any Official Integration | Muhammad Zeeshan | [Read More](https://medium.com/p/7185873a104e) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Mar 2026 07:27:03 GMT | Observability vs Monitoring Explained: A Practical DevOps Guide | Majidbasharat | [Read More](https://medium.com/p/1640e4a8a883) |
 | Thu, 26 Mar 2026 07:24:32 GMT | Securing Remote MCP Servers: OAuth 2.1, CIMD and DCR | Dave Patten | [Read More](https://medium.com/p/07d72c036d7f) |
 | Thu, 26 Mar 2026 07:20:07 GMT | How to pick a Web3 Bug Bounty Program to hunt on? (in 2026) | infosec_us_team | [Read More](https://medium.com/p/75bdfa523c47) |
-| Thu, 26 Mar 2026 07:13:44 GMT | The Digital Front Door: Why Verified Access Hubs are Crucial for Online Platform Security | iGaming Strategy & Security Analyst | [Read More](https://medium.com/p/6d986d3f0f74) |
-| Thu, 26 Mar 2026 07:13:42 GMT | How Technical Support Services Provide Multi-Channel Support for End Users | Gavin Ellis | [Read More](https://medium.com/p/7386f09a1b2e) |
-| Thu, 26 Mar 2026 07:10:22 GMT | Security Guidelines for AI Projects | Darshana Sangwan | [Read More](https://medium.com/p/996ad9e3e62a) |
-| Thu, 26 Mar 2026 07:08:02 GMT | How I Started Learning Cybersecurity (No Experience). | Femintee | [Read More](https://medium.com/p/86694a01f759) |
-| Thu, 26 Mar 2026 07:05:53 GMT | Agentic AI Security 2026: Why Traditional Security Fails | Neuralcoretech | [Read More](https://medium.com/p/a03ba600507b) |
-| Thu, 26 Mar 2026 07:02:33 GMT | Microservices Security Patterns Every Backend Engineer Must Know in 2026 | Md Sanwar Hossain | [Read More](https://medium.com/p/61d61be6f20f) |
-| Thu, 26 Mar 2026 07:01:24 GMT | Harden WordPress Login Security Without Performance Loss | Vpshosting | [Read More](https://medium.com/p/10f841860139) |
-| Thu, 26 Mar 2026 06:45:44 GMT | Rolling Your Own DRM: A Case Study in Why You Shouldn’t | Felix Hans | [Read More](https://medium.com/p/c495f3631ea0) |
-| Thu, 26 Mar 2026 06:44:41 GMT | Building Real Skills in RF Security Without a Fancy Lab | Michael Preston | [Read More](https://medium.com/p/34360782e55d) |
-| Thu, 26 Mar 2026 06:43:02 GMT | QSA-Certified Companies Providing PCI DSS Services in India (March 2026 Research Report) | Varunrajput | [Read More](https://medium.com/p/18421e2a07d3) |
-| Thu, 26 Mar 2026 06:40:50 GMT | OSINT INDUSTRIES CTF WRITEUP: THE MASKED MAN | Robert Nyinge | [Read More](https://medium.com/p/20bae2ab7f39) |
-| Thu, 26 Mar 2026 06:40:16 GMT | Most Cybersecurity Professionals Are Using Claude Code Wrong (And Don’t Realize It) | Taimur Ijlal | [Read More](https://medium.com/p/c3e7936b36b3) |
-| Thu, 26 Mar 2026 06:32:03 GMT | Governing the Sky (Part III): Infrastructure, Cybersecurity, and the Reality of Operating a Sky… | Melaine Chan | [Read More](https://medium.com/p/0d3ed242a051) |
-| Thu, 26 Mar 2026 06:21:03 GMT | Introduction to Cybersecurity: Basics, Threats & Why It Matters in 2026 | Hira Digital Insights | [Read More](https://medium.com/p/2feada01d234) |
-| Thu, 26 Mar 2026 06:20:33 GMT | https://www.inscriben.com/Remote Work Revolution & Rise of Digital Documentation | Shagunkaurr | [Read More](https://medium.com/p/9e9fc3e0739c) |
-| Thu, 26 Mar 2026 06:19:23 GMT | How I Used Wireshark to Debug a Problem No Logs Could Explain | Fateyaly | [Read More](https://medium.com/p/75c395823add) |
-| Thu, 26 Mar 2026 06:18:49 GMT | Building QuantumLedger-CBOM Tool: A Practical CBOM Scanner for Cybersecurity and Post-Quantum… | BnHany | [Read More](https://medium.com/p/7cbd748a4573) |
-| Thu, 26 Mar 2026 06:17:18 GMT | CyberOps Associate certification: A Guide for Beginners | khadeeja | [Read More](https://medium.com/p/c05ac573192e) |
-| Thu, 26 Mar 2026 06:16:25 GMT | Investigating Unauthorized Access & Lateral Movement Using Splunk | Juhaina.K | [Read More](https://medium.com/p/4d3518bf0940) |
-| Thu, 26 Mar 2026 06:15:22 GMT | How Hackers Can Steal Your Password in 60 Seconds | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/763eb9efb040) |
-| Thu, 26 Mar 2026 06:13:58 GMT | Why Compliance Does Not Equal Security | Cybersphere Official | [Read More](https://medium.com/p/596e7af34d61) |
-| Thu, 26 Mar 2026 06:12:40 GMT | eJPT Vulnerability Assessment CTF 1 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/c3d25233b2be) |
