@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Mar 2026 17:27:18 GMT | A Critical Langflow Vulnerability Was Weaponized Within 20 Hours of Disclosure. | Sohail Saifi | [Read More](https://medium.com/p/5eca90114027) |
+| Thu, 26 Mar 2026 17:21:36 GMT | Why Cybersecurity Needs Storytellers, Not Just Coders | Srishti Kumari | [Read More](https://medium.com/p/37ce9abe6cc8) |
+| Thu, 26 Mar 2026 17:19:41 GMT | OpenClaw AI Agent Flaws: When Prompt Injection Becomes a Data Exfiltration Engine | Meravytes | [Read More](https://medium.com/p/375d92348ca0) |
+| Thu, 26 Mar 2026 17:16:21 GMT | Kali Linux 2026.1 is OUT! | campuscryte | [Read More](https://medium.com/p/e9302f12cec0) |
+| Thu, 26 Mar 2026 17:16:15 GMT | How OSINT Investigators Track Disinformation Campaigns | SSarswat | [Read More](https://medium.com/p/129f9594989b) |
+| Thu, 26 Mar 2026 17:16:00 GMT | How I Fix the “App Is Damaged and Cannot Be Opened” Error on Mac | Jenny Zeng | [Read More](https://medium.com/p/152463406737) |
+| Thu, 26 Mar 2026 17:15:56 GMT | IDOR Leading to Unauthorized Video Deletion via Video ID Disclosure | Peter S Halem | [Read More](https://medium.com/p/4fc54a6088ad) |
+| Thu, 26 Mar 2026 17:14:52 GMT | Why Every Cybersecurity Beginner Must Learn Nmap First | Cyber-X Protocol | [Read More](https://medium.com/p/2b8a4f416cd1) |
+| Thu, 26 Mar 2026 17:14:00 GMT | SecFlowX Story No: 1 — Vulnerable Packages Without CVE | PeakCyber Technologies | [Read More](https://medium.com/p/f0511941d467) |
+| Thu, 26 Mar 2026 17:07:28 GMT | Choosing the Right Security System for Your Business | AlexBryn | [Read More](https://medium.com/p/7753b39bdfd9) |
+| Thu, 26 Mar 2026 17:05:16 GMT | Why Cybersecurity Consulting Services Are Essential for Modern Businesses | Nihar | [Read More](https://medium.com/p/ef5da3ffd583) |
+| Thu, 26 Mar 2026 17:05:10 GMT | How I Would Build a Secure SOHO Network for a Content Creator (2026) | John Hall | [Read More](https://medium.com/p/4ebd3225a82d) |
+| Thu, 26 Mar 2026 17:02:40 GMT | The Shattered Sandbox — The Age of Agentic AI Demand a Security Revolution | jensbecker-dev | [Read More](https://medium.com/p/5021345916c7) |
+| Thu, 26 Mar 2026 16:59:09 GMT | AI Agents Need Better Guardrails | Dorian Smiley | [Read More](https://medium.com/p/f4669c7b7254) |
+| Thu, 26 Mar 2026 16:58:22 GMT | Why Most People Who Study Cybersecurity Never Become Real Hackers | Orbitz | [Read More](https://medium.com/p/e546d7fedbf7) |
+| Thu, 26 Mar 2026 16:52:06 GMT | Stay Safe and Confident with Foxy Alarm: My Honest Experience | Life,health And Technology | [Read More](https://medium.com/p/80ccc7702e62) |
+| Thu, 26 Mar 2026 16:46:58 GMT | Buds Don’t Mean Failure | Alizabeth Amelia Rose | [Read More](https://medium.com/p/941b59272ee4) |
+| Thu, 26 Mar 2026 16:46:43 GMT | Weaponized Finance and Sovereign Resilience: Rethinking Cybersecurity in an Age of Geopolitical… | Yunus Emre Özgün | [Read More](https://medium.com/p/ad11ed299558) |
+| Thu, 26 Mar 2026 16:40:29 GMT | Your AI coding agent might be silently following a hacker’s instructions — and it won’t even… | Vardhan Chauhan | [Read More](https://medium.com/p/986db44e15b6) |
+| Thu, 26 Mar 2026 16:37:31 GMT | Next-Generation Property Security with Smart Technologies | Sanjana | [Read More](https://medium.com/p/3c477f8cacb9) |
+| Thu, 26 Mar 2026 16:29:34 GMT | Beyond the Domain Admin: Hacking Enterprise Identity in 2026 | Axoloth | [Read More](https://medium.com/p/b58921615a7a) |
+| Thu, 26 Mar 2026 16:17:28 GMT | Exploiting Polkit (CVE-2021-3560): A Race Condition to Root on Linux | Amirhossein Roustaei | [Read More](https://medium.com/p/6d6d6d028dce) |
+| Thu, 26 Mar 2026 16:10:24 GMT | How to hack AI? | Bilal Shaikh | [Read More](https://medium.com/p/235ca3ac8160) |
 | Thu, 26 Mar 2026 15:58:14 GMT | Best Exchange Online Migration Tools for IT Admins (2026) | Jaskirn Basra | [Read More](https://medium.com/p/9eee425421e1) |
 | Thu, 26 Mar 2026 15:54:17 GMT | SQL Injection: Understanding the Threat and Protecting Your Applications | Shamir Ajmir Khan | [Read More](https://medium.com/p/f6ad40b6e723) |
 | Thu, 26 Mar 2026 15:54:02 GMT | Google Workspace to Microsoft 365 Migration: Tool Comparison (2026) | Jaskirn Basra | [Read More](https://medium.com/p/902eaac463ba) |
@@ -31,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Mar 2026 15:31:00 GMT | The Guide I Needed when I was trying to break into an IT Job (Help Desk) | Jbird | [Read More](https://medium.com/p/45598e8fe172) |
 | Thu, 26 Mar 2026 15:30:57 GMT | Understanding the Darknet Market Lifecycle: From Launch to Shutdown | Tor BBB | [Read More](https://medium.com/p/8db1ea864650) |
 | Thu, 26 Mar 2026 15:20:56 GMT | Ern Launches Bug Bounty Program on Immunefi with Rewards up to $50,000 | Ern | [Read More](https://medium.com/p/8a6c632895a9) |
+| Thu, 26 Mar 2026 15:16:20 GMT | I Spent Way Too Long Getting Bitwarden to Work as an SSH Agent on macOS | Jon Witherspoon | [Read More](https://medium.com/p/506e4261c920) |
 | Thu, 26 Mar 2026 15:13:22 GMT | The Internet Forgot It Belonged to You. We’re Taking It Back. | Cthulhu | [Read More](https://medium.com/p/28f7c3a6c3f1) |
 | Thu, 26 Mar 2026 15:08:19 GMT | Breaking Into a Govee Smart Display: From UART Shell to Device Impersonation | Kulkan Security | [Read More](https://medium.com/p/6572a691cb6f) |
 | Thu, 26 Mar 2026 15:06:26 GMT | So You Want To Take the AWS SCS-C03 Exam? | Andru Estes | [Read More](https://medium.com/p/01838c7e08db) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Mar 2026 11:34:20 GMT | I Built a Gmail Security Monitor Using Wazuh SIEM — Without Any Official Integration | Muhammad Zeeshan | [Read More](https://medium.com/p/7185873a104e) |
 | Thu, 26 Mar 2026 11:33:22 GMT | How AI is Changing Cybersecurity in 2026 | Haridasgbusiness | [Read More](https://medium.com/p/917f15008fa5) |
 | Thu, 26 Mar 2026 11:31:01 GMT | CRA Presumption of Conformity: What It Means and Why IEC 62443 Is the Right Implementation Path | Frank Leitner | [Read More](https://medium.com/p/b6795d49b29e) |
-| Thu, 26 Mar 2026 11:31:00 GMT | I Changed One Small Habit on My Linux Server… And It Exposed a Silent Attack | Faruk Ahmed | [Read More](https://medium.com/p/6ed3c87a899f) |
-| Thu, 26 Mar 2026 11:30:49 GMT | Quishing ? Don’t Scan that QR | Kevin Kelly | [Read More](https://medium.com/p/65dd9814c125) |
-| Thu, 26 Mar 2026 11:26:09 GMT | “Mirrors of the Unseen” | Tara | [Read More](https://medium.com/p/bbf4f3553c69) |
-| Thu, 26 Mar 2026 11:25:16 GMT | China Cybersecurity Market Key Players, Trends, Segmentation, Forecast & Opportunities 2030 | Technology Geek | [Read More](https://medium.com/p/660e0c481425) |
-| Thu, 26 Mar 2026 11:24:50 GMT | HTB_Academy: Linux Local Privilege Escalation — Skills Assessment | Babatunde Ojo | [Read More](https://medium.com/p/2a2b398ddd45) |
-| Thu, 26 Mar 2026 11:23:33 GMT | Tracking File Changes with Wazuh: File Integrity Monitoring Setup (Part 2) | Augustine Sito | [Read More](https://medium.com/p/0cdc5b265cd6) |
-| Thu, 26 Mar 2026 11:23:06 GMT | Unmasking the Malware Supermarket: A Multi-Platform C2 Empire Built on Open Directory Listing and… | Connecting Lines | [Read More](https://medium.com/p/c93e9d47f6d5) |
-| Thu, 26 Mar 2026 11:19:37 GMT | Samson & Delilah: The Pitfalls of Pillow Talk | Rhee Moody | [Read More](https://medium.com/p/12b423739cf1) |
-| Thu, 26 Mar 2026 11:11:18 GMT | The Door Didn’t Lock | Fearless Forward | [Read More](https://medium.com/p/bdab60ed8779) |
-| Thu, 26 Mar 2026 11:07:42 GMT | The Dawn of the AI Worm: How Self-Replicating Malware is Hijacking Multi-Agent Systems | Alessandro Pignati | [Read More](https://medium.com/p/8c9280fc0ac0) |
-| Thu, 26 Mar 2026 11:01:12 GMT | Why AI Won’t STOP Hackers in 2026 (Truth) | Shahzaib | [Read More](https://medium.com/p/0ce208771c5c) |
-| Thu, 26 Mar 2026 11:01:00 GMT | Understanding CWE-916: Use of Password Hash With Insufficient Computational Effort | Walter Moar | [Read More](https://medium.com/p/17819a2476f9) |
-| Thu, 26 Mar 2026 10:58:51 GMT | The Evolution of Hackers in the AI Era: Threat Models, Attacks, and Defences | Shashikanta Parida | [Read More](https://medium.com/p/642c8dc4bc7d) |
-| Thu, 26 Mar 2026 10:50:29 GMT | API Pentesting Made Simple: A Practical Guide for Beginners | Sana Jalil | [Read More](https://medium.com/p/c5b56a2bb796) |
-| Thu, 26 Mar 2026 10:44:21 GMT | Intelligent Defense Implementation Guide: Transitioning from Traditional SOAR to the Agentic SOC | Yaya | [Read More](https://medium.com/p/9683a949ae4c) |
-| Thu, 26 Mar 2026 10:42:07 GMT | Kiba (THM) Tryhackme Walkthrough All Answer With Update Python3 Payload | Lawvye | [Read More](https://medium.com/p/6c074fe54650) |
-| Thu, 26 Mar 2026 10:41:24 GMT | How Hackers Hack — Explained for Beginner | Vishnu U | [Read More](https://medium.com/p/85795470cbae) |
-| Thu, 26 Mar 2026 10:41:05 GMT | Is Cyber Security a Good Career in 2026? | networkerschamp | [Read More](https://medium.com/p/55f2fd07b74e) |
-| Thu, 26 Mar 2026 10:41:02 GMT | Roblox Cheat Scripts & Executors Are Becoming Malware Delivery Platforms | Dice | [Read More](https://medium.com/p/82b7c62550eb) |
-| Thu, 26 Mar 2026 10:36:00 GMT | Your Vendor Risk Program Is Probably Checking the Wrong Things | Tyson Martin | [Read More](https://medium.com/p/df5eb013dbf2) |
-| Thu, 26 Mar 2026 10:35:57 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 2 | Vanshaj Kumar | [Read More](https://medium.com/p/8cee37d3ff78) |
-| Thu, 26 Mar 2026 10:27:52 GMT | Your OpenClaw Deployment Is Probably Illegal in Europe. | Chainweb.Solutions | [Read More](https://medium.com/p/7ad44fcd4301) |
-| Thu, 26 Mar 2026 10:25:04 GMT | The Day Maya Clicked a Link She Shouldn’t Have | Lynklens | [Read More](https://medium.com/p/8396a9a0b237) |
-| Thu, 26 Mar 2026 10:22:28 GMT | Privacy at Risk: Why Mumbai Businesses Need Professional TSCM Services | MASS | [Read More](https://medium.com/p/e3fc3581abdc) |
