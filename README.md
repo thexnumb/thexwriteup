@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Mar 2026 19:41:43 GMT | File Upload Bypass to Remote Code Execution (RCE) HEXAPHP | Aland Dlshad (HexaPhp) | [Read More](https://medium.com/p/cbb7e5f09175) |
+| Thu, 26 Mar 2026 19:39:15 GMT | The 10-Line File That Could Quietly Influence Every Project You Touch | Saket S | [Read More](https://medium.com/p/869f72559c85) |
+| Thu, 26 Mar 2026 19:38:07 GMT | Adeus Port Forwarding: Como usei Cloudflare Tunnels para acessar meu Proxmox com segurança | Wellington Lima | [Read More](https://medium.com/p/3bbf5cd88045) |
+| Thu, 26 Mar 2026 19:37:34 GMT | Day 3: Jailbreaking LLMs — Breaking AI Safety Systems | Nisarg Patel | [Read More](https://medium.com/p/a9f9b19ebf25) |
+| Thu, 26 Mar 2026 19:36:00 GMT | Exchange Online Monitoring - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/35d6be3d0698) |
+| Thu, 26 Mar 2026 19:32:29 GMT | Prompt Injection Is Real. “Nothing Works” Is Not. | Jim Grusendorf | [Read More](https://medium.com/p/b95a7172d652) |
+| Thu, 26 Mar 2026 19:31:56 GMT | SOC Workbooks and Lookups | Taylor Wavra | [Read More](https://medium.com/p/dd40e22c0279) |
+| Thu, 26 Mar 2026 19:31:32 GMT | Coffee with eWPTx Exam: 18 Hours, 45 Questions | rihanna0xf | [Read More](https://medium.com/p/905185fd04fd) |
+| Thu, 26 Mar 2026 19:24:53 GMT | Part 2: The Whiteboard, the Workflow, and the Win | Venkat | [Read More](https://medium.com/p/c4c91572a619) |
+| Thu, 26 Mar 2026 19:17:31 GMT | LEDGER - TryHackMe -Hard - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/1ba6e76c7459) |
+| Thu, 26 Mar 2026 19:14:28 GMT | Let OT Be. Modern Security Is What’s Putting It at Risk. | BlastWave | [Read More](https://medium.com/p/6dc616e45134) |
+| Thu, 26 Mar 2026 19:13:10 GMT | Why Security Matters in Digital Asset Trading Infrastructure | Future Exchange | [Read More](https://medium.com/p/72f1d19aaded) |
+| Thu, 26 Mar 2026 19:07:38 GMT | Crack The Hash Level 2 | Ahmed Elbadry | [Read More](https://medium.com/p/565ad17b404e) |
+| Thu, 26 Mar 2026 19:06:43 GMT | TryHackMe - Conti — Walk Through | ocharek | [Read More](https://medium.com/p/747ed3d76cd8) |
+| Thu, 26 Mar 2026 19:06:08 GMT | The Ultimate Bug Bounty Course: From Zero to Advanced Hacker 6 | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/b04ffdb9278f) |
 | Thu, 26 Mar 2026 18:56:09 GMT | Wifi Hacking 101 TryHackMe Walkthrough | Dipesh Fuse | [Read More](https://medium.com/p/d1078b3c47d6) |
 | Thu, 26 Mar 2026 18:49:30 GMT | Post 2 — Harvest Now, Decrypt Later: The Quantum Threat That Already Exists | Leonard Okyere Afeke | [Read More](https://medium.com/p/f335adea189f) |
 | Thu, 26 Mar 2026 18:47:56 GMT | Guide to Secure Your Self-Hosted Stacks like Nginx, SSH, & Vaultwarden with Fail2ban | Nirjas Jakilim | [Read More](https://medium.com/p/6e1a0e65e891) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Mar 2026 14:24:48 GMT | A Comprehensive VAPT Methodology Applied in Practical Security Assessments | Ayushmohansah | [Read More](https://medium.com/p/20057a71112d) |
 | Thu, 26 Mar 2026 14:20:53 GMT | How You Can Use AI Today — And How It Can Help You Succeed | Keeler | [Read More](https://medium.com/p/27361160682f) |
 | Thu, 26 Mar 2026 14:19:18 GMT | What Job Does An Ethical Hacker Perform: The Defensive Strategies Unveiled | Richardkhoib | [Read More](https://medium.com/p/a672716926ee) |
-| Thu, 26 Mar 2026 14:18:03 GMT | ISO 42001 Governs Your AI. AIUC-1 Tests It. You Will Need Both. | Cathal Devilly | [Read More](https://medium.com/p/78f166c5f918) |
-| Thu, 26 Mar 2026 14:07:24 GMT | The World in Focus: A Global Perspective | Adrian Daisley | [Read More](https://medium.com/p/ff0affcbc3d1) |
-| Thu, 26 Mar 2026 14:04:47 GMT | AI Development and Reliability | Keeler | [Read More](https://medium.com/p/a93e533adcc8) |
-| Thu, 26 Mar 2026 14:02:19 GMT | AI Threat Intelligence Is Changing Security Faster Than Most Teams Realize | Scottcmcmahan | [Read More](https://medium.com/p/8715bf51e4ca) |
-| Thu, 26 Mar 2026 14:01:33 GMT | TryHackMe — h4cked | Abraamadel | [Read More](https://medium.com/p/195908aff5dc) |
-| Thu, 26 Mar 2026 13:58:34 GMT | The Gap Between Knowing a Command and Knowing When to Use It | Mbcyberworks | [Read More](https://medium.com/p/1a990d240534) |
-| Thu, 26 Mar 2026 13:52:10 GMT | How Often Should VAPT Be Done? A Complete Guide for Businesses | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/5ceb54fecfcc) |
-| Thu, 26 Mar 2026 13:46:00 GMT | Your Stamford Homeowner’s Guide to Garage Door - UAD | Up & Down Garage Door Services | [Read More](https://medium.com/p/acb2e2509b6e) |
-| Thu, 26 Mar 2026 13:43:10 GMT | Analysing the impact of the incident— Blizzard — Part 1 (THM) | Misbah Ur Rehman | [Read More](https://medium.com/p/4d76c0843739) |
-| Thu, 26 Mar 2026 13:38:59 GMT | LiteLLM Attack: How a Security Scanner Backdoored AI | Ana Bildea, PhD | [Read More](https://medium.com/p/5e05f3e101ef) |
-| Thu, 26 Mar 2026 13:31:47 GMT | Đánh giá kỹ thuật hệ thống 28bet: nên nhìn vào đâu trong năm 2026? | 報數十一員 | [Read More](https://medium.com/p/00a5ece9a6ab) |
-| Thu, 26 Mar 2026 13:31:00 GMT | Bridging SAST and DAST: An Autonomous Pentesting Workflow with Gemini, Cline, and Burp Suite | Ayomide Odukoya | [Read More](https://medium.com/p/d318ccc48c76) |
-| Thu, 26 Mar 2026 13:30:31 GMT | How a $32,500 Bug Let Anyone Take Over Your Instagram — A Review of Youssef Sammouda’s Meta Pixel… | Vivek PS | [Read More](https://medium.com/p/cc4b6295456a) |
-| Thu, 26 Mar 2026 13:22:40 GMT | Cybersecurity Assessment: Risks, Process and Benefits | Hoplon InfoSec | [Read More](https://medium.com/p/ab7d1998382e) |
-| Thu, 26 Mar 2026 13:13:59 GMT | Understanding of inference attacks / privacy risk / secure data environments | Sudha Rani Maddala | [Read More](https://medium.com/p/1a63d9cf2582) |
