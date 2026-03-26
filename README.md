@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Mar 2026 22:27:59 GMT | HTB Academy -API Attacks Skills Assessment | Farouq Hassan | [Read More](https://medium.com/p/fcc527629406) |
+| Thu, 26 Mar 2026 22:19:11 GMT | What If You Could Break Your API Design Before Writing a Single Line of Code? | Selfradiance | [Read More](https://medium.com/p/8138e7022cd2) |
+| Thu, 26 Mar 2026 22:10:48 GMT | How to Earn Money in 2026: | Saif Ur Rehman | [Read More](https://medium.com/p/279295668085) |
+| Thu, 26 Mar 2026 22:06:06 GMT | Attestation Tells You What Is Running, It Doesn’t Tell You Whether to Trust It. | ijlal | [Read More](https://medium.com/p/bf1527b62303) |
+| Thu, 26 Mar 2026 22:00:16 GMT | The Quietest Threat in Cybersecurity Is Sitting Right Next to the Water Dispenser | Antoniy Kanu | [Read More](https://medium.com/p/56c7aa64a401) |
+| Thu, 26 Mar 2026 21:59:48 GMT | CVE-2024–56145 Walkthrough (Proving Ground -OSCP) | cyber_public_school | [Read More](https://medium.com/p/dc114ad4baec) |
+| Thu, 26 Mar 2026 21:49:30 GMT | OpenClaw ve Veri Sızıntısı Tehdidi | Ömer Kaan Kurt | [Read More](https://medium.com/p/5dc406939301) |
+| Thu, 26 Mar 2026 21:47:03 GMT | Part 2: Paved Paths — Fixing the Highest-Leverage Investment That Keeps Rotting | Aparna Ash Himmatramka | [Read More](https://medium.com/p/e814ad1fc2d8) |
+| Thu, 26 Mar 2026 21:44:35 GMT | Network Operation Center VS Security Operation Center | Ritikpatel | [Read More](https://medium.com/p/04ce37a8e5c4) |
 | Thu, 26 Mar 2026 21:32:03 GMT | How Much Does SOC 2 Cost? (Real Breakdown for Startups) | Ross | [Read More](https://medium.com/p/343edf248382) |
 | Thu, 26 Mar 2026 21:31:43 GMT | Appel WebKit CVE-2026–20643 | Ömer Kaan Kurt | [Read More](https://medium.com/p/5196786c3d96) |
 | Thu, 26 Mar 2026 21:13:21 GMT | Bypassing Code Integrity Using BYOVD for Kernel R/W Primitives | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8135087e1c1e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Mar 2026 15:40:29 GMT | Best Microsoft 365 Tenant-to-Tenant Migration Tools (2026) | Marc-André Hallé | [Read More](https://medium.com/p/d7edce3cd31b) |
 | Thu, 26 Mar 2026 15:37:33 GMT | JWT Is Dead. I Switched to PASETO in a .NET REST API. | CodeWithYog | [Read More](https://medium.com/p/9fa004fde42b) |
 | Thu, 26 Mar 2026 15:34:26 GMT | Tenant-to-Tenant Microsoft 365 Migration: Choosing the Right Tool for M&A (2026) | Kaushik Kumar | [Read More](https://medium.com/p/1f1c4396a9ee) |
-| Thu, 26 Mar 2026 15:33:42 GMT | Web Security Series #10 — Exploiting DOM-Based Cross-Site Scripting (XSS) | Laibakashif | [Read More](https://medium.com/p/adecb5097cac) |
-| Thu, 26 Mar 2026 15:31:18 GMT | AI Powered Ransomware: The Shift from Scripts to Autonomous Kill Chains | Magic | [Read More](https://medium.com/p/231e910d3f0f) |
-| Thu, 26 Mar 2026 15:31:09 GMT | Introducing Avalw Shield, the world’s first Mac app that locks when you leave and hides when… | Cronos Browser | [Read More](https://medium.com/p/e397b4942993) |
-| Thu, 26 Mar 2026 15:31:00 GMT | The Guide I Needed when I was trying to break into an IT Job (Help Desk) | Jbird | [Read More](https://medium.com/p/45598e8fe172) |
-| Thu, 26 Mar 2026 15:30:57 GMT | Understanding the Darknet Market Lifecycle: From Launch to Shutdown | Tor BBB | [Read More](https://medium.com/p/8db1ea864650) |
-| Thu, 26 Mar 2026 15:20:56 GMT | Ern Launches Bug Bounty Program on Immunefi with Rewards up to $50,000 | Ern | [Read More](https://medium.com/p/8a6c632895a9) |
-| Thu, 26 Mar 2026 15:16:20 GMT | I Spent Way Too Long Getting Bitwarden to Work as an SSH Agent on macOS | Jon Witherspoon | [Read More](https://medium.com/p/506e4261c920) |
-| Thu, 26 Mar 2026 15:13:22 GMT | The Internet Forgot It Belonged to You. We’re Taking It Back. | Cthulhu | [Read More](https://medium.com/p/28f7c3a6c3f1) |
-| Thu, 26 Mar 2026 15:08:19 GMT | Breaking Into a Govee Smart Display: From UART Shell to Device Impersonation | Kulkan Security | [Read More](https://medium.com/p/6572a691cb6f) |
