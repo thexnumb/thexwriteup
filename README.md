@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Mar 2026 23:18:08 GMT | A True Solution for Low Credit | Amanda Hires | [Read More](https://medium.com/p/1e2c6101afc0) |
+| Thu, 26 Mar 2026 23:17:33 GMT | I Hated Securing My Wi-Fi… and My Router Nearly Drove Me Crazy | Daniel Dulude | [Read More](https://medium.com/p/59da9de7e00e) |
+| Thu, 26 Mar 2026 23:06:05 GMT | Active Directory Attacks Part 3: AS-REP Roasting | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/c6458d72a265) |
+| Thu, 26 Mar 2026 23:01:01 GMT | Your Web App Is Naked Without These HTTP Headers | Hafiq Iqmal | [Read More](https://medium.com/p/0c8b03e26dde) |
+| Thu, 26 Mar 2026 23:01:01 GMT | Why GitHub Copilot Can Turn a Fast Patch Into a Costly Rollback | James Kuhman | [Read More](https://medium.com/p/fdb1e13d13a4) |
+| Thu, 26 Mar 2026 22:58:00 GMT | LEARNING TO THINK LIKE AN ATTACKER: MITRE ATT&CK (TryHackMe) | Orem Gitonga | [Read More](https://medium.com/p/73e507b96d01) |
+| Thu, 26 Mar 2026 22:43:41 GMT | Hardening Básico — Part 02 — System Services — XBox | Jordano Mazzoni | [Read More](https://medium.com/p/b8b59aeed586) |
+| Thu, 26 Mar 2026 22:37:47 GMT | V32: A Black Forest Signal is the Mysterious Farsi Numbers Station | James Marinero, MSc, MBA | [Read More](https://medium.com/p/60e46259da9b) |
+| Thu, 26 Mar 2026 22:29:46 GMT | Phishing Email Analysis: A SOC-Based Investigation Using Open-Source Intelligence Tools | Babatunde David Oluwole | [Read More](https://medium.com/p/cec7a14f9ca5) |
+| Thu, 26 Mar 2026 22:28:42 GMT | Simulating a TCP SYN Flood Attack | Shreya Patil | [Read More](https://medium.com/p/bd2fdcf1e04b) |
 | Thu, 26 Mar 2026 22:27:59 GMT | HTB Academy -API Attacks Skills Assessment | Farouq Hassan | [Read More](https://medium.com/p/fcc527629406) |
+| Thu, 26 Mar 2026 22:27:46 GMT | HTB Academy - API Attacks (Unsafe Consumption of APIs) Exercise Walkthrough | Farouq Hassan | [Read More](https://medium.com/p/2e345f4599d8) |
 | Thu, 26 Mar 2026 22:19:11 GMT | What If You Could Break Your API Design Before Writing a Single Line of Code? | Selfradiance | [Read More](https://medium.com/p/8138e7022cd2) |
 | Thu, 26 Mar 2026 22:10:48 GMT | How to Earn Money in 2026: | Saif Ur Rehman | [Read More](https://medium.com/p/279295668085) |
 | Thu, 26 Mar 2026 22:06:06 GMT | Attestation Tells You What Is Running, It Doesn’t Tell You Whether to Trust It. | ijlal | [Read More](https://medium.com/p/bf1527b62303) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Mar 2026 16:10:24 GMT | How to hack AI? | Bilal Shaikh | [Read More](https://medium.com/p/235ca3ac8160) |
 | Thu, 26 Mar 2026 15:58:14 GMT | Best Exchange Online Migration Tools for IT Admins (2026) | Jaskirn Basra | [Read More](https://medium.com/p/9eee425421e1) |
 | Thu, 26 Mar 2026 15:54:17 GMT | SQL Injection: Understanding the Threat and Protecting Your Applications | Shamir Ajmir Khan | [Read More](https://medium.com/p/f6ad40b6e723) |
-| Thu, 26 Mar 2026 15:54:02 GMT | Google Workspace to Microsoft 365 Migration: Tool Comparison (2026) | Jaskirn Basra | [Read More](https://medium.com/p/902eaac463ba) |
-| Thu, 26 Mar 2026 15:52:47 GMT | How to answer (almost) every difficult CRA question | Sarah Fluchs | [Read More](https://medium.com/p/535760a98b68) |
-| Thu, 26 Mar 2026 15:49:28 GMT | hifox: Turning Firefox Hardening From a Static Config Into an Enforcement Workflow | Giorgi Kishmareia | [Read More](https://medium.com/p/429cd8c39980) |
-| Thu, 26 Mar 2026 15:47:33 GMT | Vulnerability Management as a Feedback System | George Chen | [Read More](https://medium.com/p/b77564073351) |
-| Thu, 26 Mar 2026 15:46:15 GMT | The Double-Edged Sword: Why AI is Both the Protector and the Threat in the 6G Era Subtitle… | Aun Raza | [Read More](https://medium.com/p/6d0dbd140879) |
-| Thu, 26 Mar 2026 15:45:44 GMT | GitHub Expands Application Security with AI-Powered Detections | Ashwini Puranik | [Read More](https://medium.com/p/78f3368cb34a) |
-| Thu, 26 Mar 2026 15:45:01 GMT | Microsoft 365 Migration Tools for Small and Mid-Size Businesses (2026) | Juliana Reyes | [Read More](https://medium.com/p/2065df69d33f) |
-| Thu, 26 Mar 2026 15:43:43 GMT | The New Literacy: Knowing What Not to Trust | Shondita Dey | [Read More](https://medium.com/p/5ca9db4d855f) |
-| Thu, 26 Mar 2026 15:40:29 GMT | Best Microsoft 365 Tenant-to-Tenant Migration Tools (2026) | Marc-André Hallé | [Read More](https://medium.com/p/d7edce3cd31b) |
-| Thu, 26 Mar 2026 15:37:33 GMT | JWT Is Dead. I Switched to PASETO in a .NET REST API. | CodeWithYog | [Read More](https://medium.com/p/9fa004fde42b) |
-| Thu, 26 Mar 2026 15:34:26 GMT | Tenant-to-Tenant Microsoft 365 Migration: Choosing the Right Tool for M&A (2026) | Kaushik Kumar | [Read More](https://medium.com/p/1f1c4396a9ee) |
