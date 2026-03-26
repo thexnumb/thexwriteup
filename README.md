@@ -12,9 +12,35 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Mar 2026 18:56:09 GMT | Wifi Hacking 101 TryHackMe Walkthrough | Dipesh Fuse | [Read More](https://medium.com/p/d1078b3c47d6) |
+| Thu, 26 Mar 2026 18:49:30 GMT | Post 2 — Harvest Now, Decrypt Later: The Quantum Threat That Already Exists | Leonard Okyere Afeke | [Read More](https://medium.com/p/f335adea189f) |
+| Thu, 26 Mar 2026 18:47:56 GMT | Guide to Secure Your Self-Hosted Stacks like Nginx, SSH, & Vaultwarden with Fail2ban | Nirjas Jakilim | [Read More](https://medium.com/p/6e1a0e65e891) |
+| Thu, 26 Mar 2026 18:47:03 GMT | Defining Similarity Thresholds to Prevent AI Hallucinations in RAG Systems | Ni Ederveen | [Read More](https://medium.com/p/23bb0dfef2ae) |
+| Thu, 26 Mar 2026 18:44:24 GMT | Economics, Information and AI | Renata Barcelos | [Read More](https://medium.com/p/5152e1de6559) |
+| Thu, 26 Mar 2026 18:43:55 GMT | How to Pass CompTIA Security+ SY0–701 on the First Try in 2026 | Rich Chen | [Read More](https://medium.com/p/55dacb35be0f) |
+| Thu, 26 Mar 2026 18:43:40 GMT | The Ultimate Bug Bounty Course: From Zero to Advanced Hacker 5 | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/eede90bf7f84) |
+| Thu, 26 Mar 2026 18:41:00 GMT | The Long Tail of Web3 Vulnerabilities: What Happens After the Headlines Fade | Exploitless | [Read More](https://medium.com/p/e54d55c45c11) |
+| Thu, 26 Mar 2026 18:35:15 GMT | Certificate Pinning Failures and Man-in-the-Middle Attacks - When the Connection Your App Trusts Is… | Rufus Kehinde | [Read More](https://medium.com/p/8c5eefa30c63) |
+| Thu, 26 Mar 2026 18:33:45 GMT | From Recon to Critical: Finding an Unauthenticated Security Dashboard ($1895 Bug Bounty) | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/247cb07c5568) |
+| Thu, 26 Mar 2026 18:31:18 GMT | Cyber Security Internship Washington: Build Skills with Real-World Experience | Qriyalowe | [Read More](https://medium.com/p/e2b02fb7505f) |
+| Thu, 26 Mar 2026 18:30:23 GMT | IoT in Utilities: A Game‑Changer for Energy Efficiency, Reliability, and Modern Infrastructure | tanisha khiara | [Read More](https://medium.com/p/a2387ea52bc6) |
+| Thu, 26 Mar 2026 18:28:24 GMT | Bypassing Email Verification in Node.js with a Simple Logic Flaw | Youssef Ezzat | [Read More](https://medium.com/p/1591da4eb7b7) |
+| Thu, 26 Mar 2026 18:24:49 GMT | Understanding Wireless Networking & Wi-Fi Security: How Modern Connectivity Works | Ndu | [Read More](https://medium.com/p/280b629029e3) |
+| Thu, 26 Mar 2026 18:22:21 GMT | CVE-2025–4123 Grafana Open Redirect & SSRF — Full PoC — CVSS 7.6 HIGH | Dharanis | [Read More](https://medium.com/p/8a61c7fd675c) |
+| Thu, 26 Mar 2026 18:07:25 GMT | Your sensitivity is only a weakness in the wrong place. | Ana Caggiano | [Read More](https://medium.com/p/b94cfa8b0385) |
+| Thu, 26 Mar 2026 18:07:17 GMT | The power of “role”: “admin” | Deepanshu Deep | [Read More](https://medium.com/p/c84cfeab2333) |
+| Thu, 26 Mar 2026 18:06:58 GMT | The Hidden Attack Surface of APIs in Modern Systems | Can Akkaya | [Read More](https://medium.com/p/010bc6d2f8c5) |
+| Thu, 26 Mar 2026 18:06:00 GMT | Stop Storing MQTT Passwords — Use OAuth 2.0 With Keycloak Instead | Florian Röser | [Read More](https://medium.com/p/fa7b11e618b9) |
+| Thu, 26 Mar 2026 18:05:47 GMT | The Comprehensive Framework for Engineering Leadership: What It Really Takes to Lead a Tech Team | Khizar Ali | [Read More](https://medium.com/p/c4e6b01cf48a) |
+| Thu, 26 Mar 2026 18:04:46 GMT | Your Employees Are Drowning in Information. ServiceNow’s AI Search Might Be the Lifeline. | GOHAR | [Read More](https://medium.com/p/7baf26d815ed) |
+| Thu, 26 Mar 2026 17:54:04 GMT | The Compliance Industry Has a Trust Problem. Here’s How We Fix It. | Sasha Sinkevich | [Read More](https://medium.com/p/c04150cf1d74) |
+| Thu, 26 Mar 2026 17:53:03 GMT | I Used 4G for Years, Then Switched to 5G — The Real Difference in Daily Life | creative vision | [Read More](https://medium.com/p/bf1f2122bfd0) |
+| Thu, 26 Mar 2026 17:47:17 GMT | Hardening Nginx: A Practical Guide to Modular Security Configuration | Nirjas Jakilim | [Read More](https://medium.com/p/33c9621021d2) |
+| Thu, 26 Mar 2026 17:37:28 GMT | Don’t Fall Victim to AI Voice Cloning Scams: What You Need to Know | MrKarthikKN | [Read More](https://medium.com/p/72bf9c273010) |
 | Thu, 26 Mar 2026 17:27:18 GMT | A Critical Langflow Vulnerability Was Weaponized Within 20 Hours of Disclosure. | Sohail Saifi | [Read More](https://medium.com/p/5eca90114027) |
 | Thu, 26 Mar 2026 17:21:36 GMT | Why Cybersecurity Needs Storytellers, Not Just Coders | Srishti Kumari | [Read More](https://medium.com/p/37ce9abe6cc8) |
 | Thu, 26 Mar 2026 17:19:41 GMT | OpenClaw AI Agent Flaws: When Prompt Injection Becomes a Data Exfiltration Engine | Meravytes | [Read More](https://medium.com/p/375d92348ca0) |
+| Thu, 26 Mar 2026 17:17:23 GMT | Venus Protocol, IoTeX, and SOF Token Exploits: $6.65M | Olympix | [Read More](https://medium.com/p/5c7c99d2530d) |
 | Thu, 26 Mar 2026 17:16:21 GMT | Kali Linux 2026.1 is OUT! | campuscryte | [Read More](https://medium.com/p/e9302f12cec0) |
 | Thu, 26 Mar 2026 17:16:15 GMT | How OSINT Investigators Track Disinformation Campaigns | SSarswat | [Read More](https://medium.com/p/129f9594989b) |
 | Thu, 26 Mar 2026 17:16:00 GMT | How I Fix the “App Is Damaged and Cannot Be Opened” Error on Mac | Jenny Zeng | [Read More](https://medium.com/p/152463406737) |
@@ -25,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Mar 2026 17:05:16 GMT | Why Cybersecurity Consulting Services Are Essential for Modern Businesses | Nihar | [Read More](https://medium.com/p/ef5da3ffd583) |
 | Thu, 26 Mar 2026 17:05:10 GMT | How I Would Build a Secure SOHO Network for a Content Creator (2026) | John Hall | [Read More](https://medium.com/p/4ebd3225a82d) |
 | Thu, 26 Mar 2026 17:02:40 GMT | The Shattered Sandbox — The Age of Agentic AI Demand a Security Revolution | jensbecker-dev | [Read More](https://medium.com/p/5021345916c7) |
+| Thu, 26 Mar 2026 17:02:10 GMT | How Attackers Actually Break Identity Systems | Dr. Shashi Karhail | [Read More](https://medium.com/p/b7e197ab5596) |
 | Thu, 26 Mar 2026 16:59:09 GMT | AI Agents Need Better Guardrails | Dorian Smiley | [Read More](https://medium.com/p/f4669c7b7254) |
 | Thu, 26 Mar 2026 16:58:22 GMT | Why Most People Who Study Cybersecurity Never Become Real Hackers | Orbitz | [Read More](https://medium.com/p/e546d7fedbf7) |
 | Thu, 26 Mar 2026 16:52:06 GMT | Stay Safe and Confident with Foxy Alarm: My Honest Experience | Life,health And Technology | [Read More](https://medium.com/p/80ccc7702e62) |
@@ -33,6 +60,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Mar 2026 16:40:29 GMT | Your AI coding agent might be silently following a hacker’s instructions — and it won’t even… | Vardhan Chauhan | [Read More](https://medium.com/p/986db44e15b6) |
 | Thu, 26 Mar 2026 16:37:31 GMT | Next-Generation Property Security with Smart Technologies | Sanjana | [Read More](https://medium.com/p/3c477f8cacb9) |
 | Thu, 26 Mar 2026 16:29:34 GMT | Beyond the Domain Admin: Hacking Enterprise Identity in 2026 | Axoloth | [Read More](https://medium.com/p/b58921615a7a) |
+| Thu, 26 Mar 2026 16:17:55 GMT | Beyond ECDSA: The Full-Stack Guide to Curves, Hashes, and ZK-Primitives | Pedro Savelis (@psavelis) | [Read More](https://medium.com/p/f67781b5fe82) |
 | Thu, 26 Mar 2026 16:17:28 GMT | Exploiting Polkit (CVE-2021-3560): A Race Condition to Root on Linux | Amirhossein Roustaei | [Read More](https://medium.com/p/6d6d6d028dce) |
 | Thu, 26 Mar 2026 16:10:24 GMT | How to hack AI? | Bilal Shaikh | [Read More](https://medium.com/p/235ca3ac8160) |
 | Thu, 26 Mar 2026 15:58:14 GMT | Best Exchange Online Migration Tools for IT Admins (2026) | Jaskirn Basra | [Read More](https://medium.com/p/9eee425421e1) |
@@ -84,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Mar 2026 13:30:31 GMT | How a $32,500 Bug Let Anyone Take Over Your Instagram — A Review of Youssef Sammouda’s Meta Pixel… | Vivek PS | [Read More](https://medium.com/p/cc4b6295456a) |
 | Thu, 26 Mar 2026 13:22:40 GMT | Cybersecurity Assessment: Risks, Process and Benefits | Hoplon InfoSec | [Read More](https://medium.com/p/ab7d1998382e) |
 | Thu, 26 Mar 2026 13:13:59 GMT | Understanding of inference attacks / privacy risk / secure data environments | Sudha Rani Maddala | [Read More](https://medium.com/p/1a63d9cf2582) |
-| Thu, 26 Mar 2026 13:13:21 GMT | Autonomous Red Teaming with Phantom AI - Cybersecurity Future | Pentester Club | [Read More](https://medium.com/p/42fda06bc7dd) |
-| Thu, 26 Mar 2026 13:12:47 GMT | $630 Billion in Infrastructure. $7,700 in Architecture. Only One of Them Works. | Seven Cubed Seven Labs | [Read More](https://medium.com/p/ac641cb84527) |
-| Thu, 26 Mar 2026 13:05:20 GMT | Why I Stopped Relying on Distro-Specific Commands, and Started Thinking in Systems | Gbolahan Idowu | [Read More](https://medium.com/p/6d1339c6371a) |
-| Thu, 26 Mar 2026 13:03:40 GMT | How to install Kali Linux on a Mac M1 (Apple Silicon) using UTM — Complete and updated guide | Edward Ramos | [Read More](https://medium.com/p/6c9dbaebc216) |
-| Thu, 26 Mar 2026 13:01:03 GMT | [After the Hunt] The Existential System Errors of Hidden Data | MonoEssay | [Read More](https://medium.com/p/b401929fbb17) |
-| Thu, 26 Mar 2026 13:01:01 GMT | TSA Can’t Get Worse? Challenge Accepted | Anthony Bialy | [Read More](https://medium.com/p/e8502851e903) |
-| Thu, 26 Mar 2026 13:01:00 GMT | When Your AI Agent Fabricates Board Numbers, Is It a Bug or a Breach? | Nwosu Rosemary | [Read More](https://medium.com/p/c7ac908a9961) |
-| Thu, 26 Mar 2026 12:51:50 GMT | RedLine Malware Case Moves Forward: Extradition Signals Stronger Global Cybercrime Enforcement | Jas | [Read More](https://medium.com/p/3cbc830b8267) |
-| Thu, 26 Mar 2026 12:50:02 GMT | Threat Modeling: Build Secure Code with Hands-On Guide& CI/CD Automation | Syedazainabhassan | [Read More](https://medium.com/p/7636bafd3eac) |
-| Thu, 26 Mar 2026 12:48:49 GMT | More Than a Conference: My Women in Cybersecurity (WiCyS) Experience in Washington, D.C. | Jeythasahanav | [Read More](https://medium.com/p/6d5010760afb) |
-| Thu, 26 Mar 2026 12:46:27 GMT | How We Found a Hidden REST API Endpoint in Magento 2 That Bots Use to Test Stolen Cards | Freento | [Read More](https://medium.com/p/f5f161c45d1b) |
-| Thu, 26 Mar 2026 12:36:00 GMT | The Commit Is Not Recoverable | André Ataíde | [Read More](https://medium.com/p/40d4daf7a020) |
-| Thu, 26 Mar 2026 12:32:04 GMT | Hacked Security Camera Websites: What They Are and How to Stop Them | Temma | [Read More](https://medium.com/p/42c455023b1a) |
-| Thu, 26 Mar 2026 12:28:34 GMT | Como instalar Kali Linux no Mac M1 (Apple Silicon) usando UTM — Guia completo e atualizado | Edward Ramos | [Read More](https://medium.com/p/7b61173af376) |
-| Thu, 26 Mar 2026 12:19:15 GMT | I know nothing. So let’s start over. | Naana Sarkodie | [Read More](https://medium.com/p/4176b032db90) |
-| Thu, 26 Mar 2026 12:04:27 GMT | How to Live Smarter, Happier, and More Creatively Every Day | Abdullah Naqvi | [Read More](https://medium.com/p/9fe47a4a2ed6) |
-| Thu, 26 Mar 2026 12:02:23 GMT | How to set up a basic Home lab for Network Security practice — Day 17 | 0xSmit | [Read More](https://medium.com/p/a2d266c40f4a) |
-| Thu, 26 Mar 2026 11:59:24 GMT | I Changed One Word in a URL and Got Admin Access | Teachnolen | [Read More](https://medium.com/p/03dd1fc07f89) |
-| Thu, 26 Mar 2026 11:54:24 GMT | Creating CVE Detection Pipeline with Nuclei for Bug Bounty | Spectat0rguy | [Read More](https://medium.com/p/d1fd1b637507) |
-| Thu, 26 Mar 2026 11:53:24 GMT | Post Board — WebView Challenge | Anwer | [Read More](https://medium.com/p/0ebf57d620ef) |
-| Thu, 26 Mar 2026 11:53:04 GMT | How Security Master Planning Defines the Success of Mega Developments | Info | [Read More](https://medium.com/p/ca1df163a2c0) |
-| Thu, 26 Mar 2026 11:51:58 GMT | Kioptrix Level 5 Walkthrough: From Enumeration to Root | Charitymkakina | [Read More](https://medium.com/p/7b929ea6d919) |
-| Thu, 26 Mar 2026 11:47:58 GMT | ISO 27001 Audits in 2026: Key Changes You Must Know | Digital Duffer | [Read More](https://medium.com/p/f5ce5f0efb14) |
-| Thu, 26 Mar 2026 11:36:21 GMT | Kali Linux 2026.1 Just Dropped — Here’s What Actually Matters | Techrefreshing | [Read More](https://medium.com/p/3c0f35ac5ba0) |
-| Thu, 26 Mar 2026 11:35:30 GMT | 5 Common Myths About Private Browsing You Should Know | Naveed Ahmed 《内维德》 | [Read More](https://medium.com/p/65ba842bdb00) |
-| Thu, 26 Mar 2026 11:34:20 GMT | I Built a Gmail Security Monitor Using Wazuh SIEM — Without Any Official Integration | Muhammad Zeeshan | [Read More](https://medium.com/p/7185873a104e) |
-| Thu, 26 Mar 2026 11:33:22 GMT | How AI is Changing Cybersecurity in 2026 | Haridasgbusiness | [Read More](https://medium.com/p/917f15008fa5) |
-| Thu, 26 Mar 2026 11:31:01 GMT | CRA Presumption of Conformity: What It Means and Why IEC 62443 Is the Right Implementation Path | Frank Leitner | [Read More](https://medium.com/p/b6795d49b29e) |
