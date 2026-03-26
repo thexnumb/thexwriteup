@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Mar 2026 21:32:03 GMT | How Much Does SOC 2 Cost? (Real Breakdown for Startups) | Ross | [Read More](https://medium.com/p/343edf248382) |
+| Thu, 26 Mar 2026 21:31:43 GMT | Appel WebKit CVE-2026–20643 | Ömer Kaan Kurt | [Read More](https://medium.com/p/5196786c3d96) |
+| Thu, 26 Mar 2026 21:13:21 GMT | Bypassing Code Integrity Using BYOVD for Kernel R/W Primitives | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8135087e1c1e) |
+| Thu, 26 Mar 2026 21:07:31 GMT | Windows — Hardening Básico — Part 01 — Remote Assistance | Jordano Mazzoni | [Read More](https://medium.com/p/2506c16300b2) |
+| Thu, 26 Mar 2026 21:05:38 GMT | TryHackMe SOC Analyst Road Map Part-15 | safa kaya | [Read More](https://medium.com/p/8dcd35db24af) |
+| Thu, 26 Mar 2026 21:02:52 GMT | Why Point in Time Active Directory Scans Miss Active Directory Attacks | GuardiansoftheDirectory | [Read More](https://medium.com/p/aab3cbb6107b) |
+| Thu, 26 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 35: Security Marathon Day 2 | Maximillian Rueda | [Read More](https://medium.com/p/874d847350ee) |
 | Thu, 26 Mar 2026 20:55:04 GMT | Least privilege as a service for Azure deployments — part 1 | Jonny Diamond | [Read More](https://medium.com/p/4374f70c75bd) |
 | Thu, 26 Mar 2026 20:44:25 GMT | Vulnhub digitalworld.local: snakeoil | Luke Gearty | [Read More](https://medium.com/p/327c5acc9f48) |
 | Thu, 26 Mar 2026 20:43:55 GMT | How Security Analysts Investigate Phishing Emails | Jorge Ruiz | [Read More](https://medium.com/p/e931ce399a91) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Mar 2026 15:16:20 GMT | I Spent Way Too Long Getting Bitwarden to Work as an SSH Agent on macOS | Jon Witherspoon | [Read More](https://medium.com/p/506e4261c920) |
 | Thu, 26 Mar 2026 15:13:22 GMT | The Internet Forgot It Belonged to You. We’re Taking It Back. | Cthulhu | [Read More](https://medium.com/p/28f7c3a6c3f1) |
 | Thu, 26 Mar 2026 15:08:19 GMT | Breaking Into a Govee Smart Display: From UART Shell to Device Impersonation | Kulkan Security | [Read More](https://medium.com/p/6572a691cb6f) |
-| Thu, 26 Mar 2026 15:06:26 GMT | So You Want To Take the AWS SCS-C03 Exam? | Andru Estes | [Read More](https://medium.com/p/01838c7e08db) |
-| Thu, 26 Mar 2026 14:46:00 GMT | [FORECASTS] From Password Sprays to Tenant Sabotage: The 8-Week Iran Cyber Risk for U.S. | Wes Young | [Read More](https://medium.com/p/d0750a7d0a91) |
-| Thu, 26 Mar 2026 14:46:00 GMT | Your Vulnerability Scanner Is Lying to You. Here’s Why CVSS Alone Is a Broken Strategy in 2026. | Chukwuebuka Okorie | [Read More](https://medium.com/p/8a47fe89c684) |
-| Thu, 26 Mar 2026 14:44:14 GMT | Still Running HTTP/1.1 in 2026? Your Website Might Be Exposed to HTTP Request Smuggling Attack. | Candy Wong | [Read More](https://medium.com/p/335633ca9766) |
-| Thu, 26 Mar 2026 14:43:01 GMT | Beyond the Payload: 5 Counter-Intuitive Secrets from a Professional Bug Hunting Checklist | HackerDemy | [Read More](https://medium.com/p/617ee41dce68) |
-| Thu, 26 Mar 2026 14:37:07 GMT | Thompson — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/7d100d92220a) |
-| Thu, 26 Mar 2026 14:35:48 GMT | Why Being a Programmer Makes You a Bigger Target for Cyberattacks | Shalitha Suranga | [Read More](https://medium.com/p/495eb6d83358) |
