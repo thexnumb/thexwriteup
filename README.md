@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Mar 2026 20:55:04 GMT | Least privilege as a service for Azure deployments — part 1 | Jonny Diamond | [Read More](https://medium.com/p/4374f70c75bd) |
+| Thu, 26 Mar 2026 20:44:25 GMT | Vulnhub digitalworld.local: snakeoil | Luke Gearty | [Read More](https://medium.com/p/327c5acc9f48) |
+| Thu, 26 Mar 2026 20:43:55 GMT | How Security Analysts Investigate Phishing Emails | Jorge Ruiz | [Read More](https://medium.com/p/e931ce399a91) |
+| Thu, 26 Mar 2026 20:25:32 GMT | I Tried to Trick an AI Agent. Here’s What Happened. | Sumit Giri | [Read More](https://medium.com/p/a089cb4a975b) |
+| Thu, 26 Mar 2026 20:14:10 GMT | Indirect Prompt Injection: The Attack Most AI Teams Are Shipping to Production | Kartikeya Mishra | [Read More](https://medium.com/p/312fa205f36a) |
 | Thu, 26 Mar 2026 19:41:43 GMT | File Upload Bypass to Remote Code Execution (RCE) HEXAPHP | Aland Dlshad (HexaPhp) | [Read More](https://medium.com/p/cbb7e5f09175) |
 | Thu, 26 Mar 2026 19:39:15 GMT | The 10-Line File That Could Quietly Influence Every Project You Touch | Saket S | [Read More](https://medium.com/p/869f72559c85) |
 | Thu, 26 Mar 2026 19:38:07 GMT | Adeus Port Forwarding: Como usei Cloudflare Tunnels para acessar meu Proxmox com segurança | Wellington Lima | [Read More](https://medium.com/p/3bbf5cd88045) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Mar 2026 14:43:01 GMT | Beyond the Payload: 5 Counter-Intuitive Secrets from a Professional Bug Hunting Checklist | HackerDemy | [Read More](https://medium.com/p/617ee41dce68) |
 | Thu, 26 Mar 2026 14:37:07 GMT | Thompson — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/7d100d92220a) |
 | Thu, 26 Mar 2026 14:35:48 GMT | Why Being a Programmer Makes You a Bigger Target for Cyberattacks | Shalitha Suranga | [Read More](https://medium.com/p/495eb6d83358) |
-| Thu, 26 Mar 2026 14:34:39 GMT | Ice‑keeper: Automated Table Maintenance for Apache Iceberg | Jean-Claude Cote | [Read More](https://medium.com/p/bc3e114e9eec) |
-| Thu, 26 Mar 2026 14:29:57 GMT | Your SSH Keys, API Credentials, and AI Secrets Are at Risk — The Shocking LiteLLM Backdoor Attack | Muhammad Faisal Ishfaq | [Read More](https://medium.com/p/e51b80e98c47) |
-| Thu, 26 Mar 2026 14:24:48 GMT | A Comprehensive VAPT Methodology Applied in Practical Security Assessments | Ayushmohansah | [Read More](https://medium.com/p/20057a71112d) |
-| Thu, 26 Mar 2026 14:20:53 GMT | How You Can Use AI Today — And How It Can Help You Succeed | Keeler | [Read More](https://medium.com/p/27361160682f) |
-| Thu, 26 Mar 2026 14:19:18 GMT | What Job Does An Ethical Hacker Perform: The Defensive Strategies Unveiled | Richardkhoib | [Read More](https://medium.com/p/a672716926ee) |
