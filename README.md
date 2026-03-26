@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Mar 2026 11:36:21 GMT | Kali Linux 2026.1 Just Dropped — Here’s What Actually Matters | Techrefreshing | [Read More](https://medium.com/p/3c0f35ac5ba0) |
+| Thu, 26 Mar 2026 11:35:30 GMT | 5 Common Myths About Private Browsing You Should Know | Naveed Ahmed 《内维德》 | [Read More](https://medium.com/p/65ba842bdb00) |
+| Thu, 26 Mar 2026 11:34:20 GMT | I Built a Gmail Security Monitor Using Wazuh SIEM — Without Any Official Integration | Muhammad Zeeshan | [Read More](https://medium.com/p/7185873a104e) |
+| Thu, 26 Mar 2026 11:33:22 GMT | How AI is Changing Cybersecurity in 2026 | Haridasgbusiness | [Read More](https://medium.com/p/917f15008fa5) |
+| Thu, 26 Mar 2026 11:31:01 GMT | CRA Presumption of Conformity: What It Means and Why IEC 62443 Is the Right Implementation Path | Frank Leitner | [Read More](https://medium.com/p/b6795d49b29e) |
+| Thu, 26 Mar 2026 11:31:00 GMT | I Changed One Small Habit on My Linux Server… And It Exposed a Silent Attack | Faruk Ahmed | [Read More](https://medium.com/p/6ed3c87a899f) |
+| Thu, 26 Mar 2026 11:30:49 GMT | Quishing ? Don’t Scan that QR | Kevin Kelly | [Read More](https://medium.com/p/65dd9814c125) |
+| Thu, 26 Mar 2026 11:26:09 GMT | “Mirrors of the Unseen” | Tara | [Read More](https://medium.com/p/bbf4f3553c69) |
+| Thu, 26 Mar 2026 11:25:16 GMT | China Cybersecurity Market Key Players, Trends, Segmentation, Forecast & Opportunities 2030 | Technology Geek | [Read More](https://medium.com/p/660e0c481425) |
+| Thu, 26 Mar 2026 11:24:50 GMT | HTB_Academy: Linux Local Privilege Escalation — Skills Assessment | Babatunde Ojo | [Read More](https://medium.com/p/2a2b398ddd45) |
+| Thu, 26 Mar 2026 11:23:33 GMT | Tracking File Changes with Wazuh: File Integrity Monitoring Setup (Part 2) | Augustine Sito | [Read More](https://medium.com/p/0cdc5b265cd6) |
+| Thu, 26 Mar 2026 11:23:06 GMT | Unmasking the Malware Supermarket: A Multi-Platform C2 Empire Built on Open Directory Listing and… | Connecting Lines | [Read More](https://medium.com/p/c93e9d47f6d5) |
+| Thu, 26 Mar 2026 11:19:37 GMT | Samson & Delilah: The Pitfalls of Pillow Talk | Rhee Moody | [Read More](https://medium.com/p/12b423739cf1) |
+| Thu, 26 Mar 2026 11:11:18 GMT | The Door Didn’t Lock | Fearless Forward | [Read More](https://medium.com/p/bdab60ed8779) |
+| Thu, 26 Mar 2026 11:07:42 GMT | The Dawn of the AI Worm: How Self-Replicating Malware is Hijacking Multi-Agent Systems | Alessandro Pignati | [Read More](https://medium.com/p/8c9280fc0ac0) |
+| Thu, 26 Mar 2026 11:01:12 GMT | Why AI Won’t STOP Hackers in 2026 (Truth) | Shahzaib | [Read More](https://medium.com/p/0ce208771c5c) |
+| Thu, 26 Mar 2026 11:01:00 GMT | Understanding CWE-916: Use of Password Hash With Insufficient Computational Effort | Walter Moar | [Read More](https://medium.com/p/17819a2476f9) |
+| Thu, 26 Mar 2026 10:58:51 GMT | The Evolution of Hackers in the AI Era: Threat Models, Attacks, and Defences | Shashikanta Parida | [Read More](https://medium.com/p/642c8dc4bc7d) |
 | Thu, 26 Mar 2026 10:50:29 GMT | API Pentesting Made Simple: A Practical Guide for Beginners | Sana Jalil | [Read More](https://medium.com/p/c5b56a2bb796) |
 | Thu, 26 Mar 2026 10:44:21 GMT | Intelligent Defense Implementation Guide: Transitioning from Traditional SOAR to the Agentic SOC | Yaya | [Read More](https://medium.com/p/9683a949ae4c) |
 | Thu, 26 Mar 2026 10:42:07 GMT | Kiba (THM) Tryhackme Walkthrough All Answer With Update Python3 Payload | Lawvye | [Read More](https://medium.com/p/6c074fe54650) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Mar 2026 06:15:22 GMT | How Hackers Can Steal Your Password in 60 Seconds | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/763eb9efb040) |
 | Thu, 26 Mar 2026 06:13:58 GMT | Why Compliance Does Not Equal Security | Cybersphere Official | [Read More](https://medium.com/p/596e7af34d61) |
 | Thu, 26 Mar 2026 06:12:40 GMT | eJPT Vulnerability Assessment CTF 1 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/c3d25233b2be) |
-| Thu, 26 Mar 2026 06:07:47 GMT | Security Guard Companies Near Me: How to Choose the Right Protection for Your Needs | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/d9fe05c7538a) |
-| Thu, 26 Mar 2026 06:05:07 GMT | My Nmap Learning Journey — Lab 2 (Real Scanning with scanme.nmap.org) | Hemaprasadpotnuru | [Read More](https://medium.com/p/e2df98d7785e) |
-| Thu, 26 Mar 2026 06:00:07 GMT | Prompt Injection Attacks: The New SQL Injection of the AI Era | Cynox Security LLP. | [Read More](https://medium.com/p/86310ddddd1d) |
-| Thu, 26 Mar 2026 05:59:19 GMT | eJPT Enumeration CTF 1 Lab - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/8818eb135818) |
-| Thu, 26 Mar 2026 05:55:54 GMT | Career Path for a Junior Cybersecurity Analyst in 2026 | Amber Amjad | [Read More](https://medium.com/p/81a26b8b1cec) |
-| Thu, 26 Mar 2026 05:55:24 GMT | SSL Certificate Cannot Be Trusted - Understanding and Exploiting the Vulnerability | EternalSec | [Read More](https://medium.com/p/49250fe43acf) |
-| Thu, 26 Mar 2026 05:51:48 GMT | SPARK Matrix™: 4G and 5G Private Mobile Network Services | Umangp | [Read More](https://medium.com/p/eb0170952c12) |
-| Thu, 26 Mar 2026 05:46:34 GMT | From Awareness to Apathy: The Real Water Crisis | Paul Floren | [Read More](https://medium.com/p/d7b63e88ef72) |
-| Thu, 26 Mar 2026 05:31:00 GMT | The God Mode of Web3: How to Borrow $100 Million for Zero Seconds ⚡ | Tabrez Mukadam | [Read More](https://medium.com/p/d1490bc60345) |
-| Thu, 26 Mar 2026 05:29:21 GMT | One pip install Could Have Compromised Your Entire Company | Shubham Choudhary | [Read More](https://medium.com/p/115226392934) |
-| Thu, 26 Mar 2026 05:16:00 GMT | Linux File Permissions & Ownership Demystified | Suyash Adhikari | [Read More](https://medium.com/p/e16e91f5589d) |
-| Thu, 26 Mar 2026 05:10:30 GMT | Challenges of Using AI in Cybersecurity | Antonyrajvedamanickam | [Read More](https://medium.com/p/c26e2104b611) |
-| Thu, 26 Mar 2026 05:10:23 GMT | How I Made $47,000 on HackerOne This Year Without a Degree — The Exact Playbook | Bugitrix | [Read More](https://medium.com/p/a242bafce70f) |
-| Thu, 26 Mar 2026 04:57:01 GMT | How a 30-Year IT Veteran Got Pwned by a Telegram Phishing Link (And Took Their Account Back) | Roman Kulish | [Read More](https://medium.com/p/e193569b35f8) |
-| Thu, 26 Mar 2026 04:50:58 GMT | This War Might Not End on the Battlefield | Gökçen Kunukcu | [Read More](https://medium.com/p/dd3e0f2e3f4a) |
-| Thu, 26 Mar 2026 04:50:51 GMT | Meta’s Autonomous AI Agents Are Going Rogue — Should We All Be Worried? | Better Mindset | [Read More](https://medium.com/p/d29f1736fca7) |
-| Thu, 26 Mar 2026 04:49:20 GMT | From “Scary Scores” to Real Risk: Rethinking Vulnerability Management in the Age of AI | ARUN JAISANKAR | [Read More](https://medium.com/p/49c0d385b1d8) |
-| Thu, 26 Mar 2026 04:49:16 GMT | Why Threat Intel APIs Need Stricter Validation Than Regular APIs | Manik | [Read More](https://medium.com/p/1c0e7d075037) |
