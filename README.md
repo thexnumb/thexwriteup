@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 11:58:55 GMT | Why Beginners Fail in Bug Bounty (And How to Fix It in 2026) | Sukhveer Singh | [Read More](https://medium.com/p/456bb7dd4f8d) |
+| Fri, 27 Mar 2026 11:57:52 GMT | Otomotivde Bilgi Güvenliği ve TISAX | Cagri Polat | [Read More](https://medium.com/p/accf3815909d) |
+| Fri, 27 Mar 2026 11:48:43 GMT | Suspicious MX Record to Confirmed Phishing Attack | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/69ec85471526) |
+| Fri, 27 Mar 2026 11:35:41 GMT | Nahmstay: The Approach | Nahmstay | [Read More](https://medium.com/p/521bbbbd8c38) |
+| Fri, 27 Mar 2026 11:33:53 GMT | Your Email Address Is More Dangerous Than You Think: How Hackers Use It (and How to Stay Safe) | BumbleBEE | [Read More](https://medium.com/p/4d1c2672284e) |
+| Fri, 27 Mar 2026 11:33:43 GMT | API1: Broken Object Level Authorization — The Vulnerability Hiding in Plain Sight | Cyberbali | [Read More](https://medium.com/p/e2507c382ad1) |
+| Fri, 27 Mar 2026 11:31:24 GMT | How to Report Sextortion Online and File a Cybercrime Complaint in India | Ketki Shah | [Read More](https://medium.com/p/ccc3c8c59c66) |
+| Fri, 27 Mar 2026 11:31:00 GMT | This One Command Helped Me Detect a Silent Intrusion on My Server | Faruk Ahmed | [Read More](https://medium.com/p/408e9dd85846) |
+| Fri, 27 Mar 2026 11:30:49 GMT | Cyber In Space: A New Era Requires A New Strategy | Investigator515 | [Read More](https://medium.com/p/1bae70c663d7) |
+| Fri, 27 Mar 2026 11:28:54 GMT | Git 101: My Journey Learning Version Control | A Emir Deli | [Read More](https://medium.com/p/ff1280b83e28) |
+| Fri, 27 Mar 2026 11:24:59 GMT | How to Protect Yourself from Phishing Emails. | James Smith | [Read More](https://medium.com/p/a3544074b37b) |
+| Fri, 27 Mar 2026 11:23:28 GMT | The Agentic Enterprise is No Longer a Future State | Mourtaza Moise Fazlehoussen | [Read More](https://medium.com/p/1333fb807ed7) |
+| Fri, 27 Mar 2026 11:22:31 GMT | AMP vs Non-AMP SEO Comparison: Which One is Better for Your Website? | Jellyfr | [Read More](https://medium.com/p/5095b6a82f17) |
+| Fri, 27 Mar 2026 11:22:03 GMT | Breaking a Healthcare API: What I Discovered While Testing Zero-Health | Cyb3rzee | [Read More](https://medium.com/p/e6bdd7063f76) |
+| Fri, 27 Mar 2026 11:18:29 GMT | Micro Lending Market Size, Share, Industry Growth — 2033 | NIkita Poplai | [Read More](https://medium.com/p/7b7e57b62e0f) |
+| Fri, 27 Mar 2026 11:16:02 GMT | What Actually Happens When You Type a URL in Your Browser? | Kavita Prajapati | [Read More](https://medium.com/p/62f4cbe16d02) |
 | Fri, 27 Mar 2026 11:11:24 GMT | Top Tips for Selecting Reliable Security Seal Tape for Your Business | Unicube | [Read More](https://medium.com/p/1ec7a80c53c4) |
 | Fri, 27 Mar 2026 11:10:37 GMT | From <script>alert(1)</script> to Full Account Takeover: A Deep Dive into XSS by Mert Baykal | Mert Baykal | [Read More](https://medium.com/p/6594df45e92f) |
 | Fri, 27 Mar 2026 11:09:19 GMT | Why Most Summer Training Programs Are a Scam — And How to Choose the Right One | Ankit rai | [Read More](https://medium.com/p/2c57c56cbcd7) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 06:32:52 GMT | 드라이버 개발자도 몰랐던 레지스트리의 두 얼굴 — 흑백 레지스트리 | Jung-Hyun Choi | [Read More](https://medium.com/p/b371b9f809ed) |
 | Fri, 27 Mar 2026 06:28:46 GMT | How I Found a Vulnerability at NASA at Age 13 | Divya Prakash | [Read More](https://medium.com/p/3867333f16a1) |
 | Fri, 27 Mar 2026 06:25:10 GMT | Hypervisor Cracks Explained:Denuvo Bypass, VBS Disable, FitGirl & DODI Repacks Explained | Ankit Nayak | [Read More](https://medium.com/p/ee1006c0fac1) |
-| Fri, 27 Mar 2026 06:22:50 GMT | AI Panic vs. Skill Evolution Reality | Vijay Kumar Gupta | [Read More](https://medium.com/p/c2701d566ab9) |
-| Fri, 27 Mar 2026 06:22:02 GMT | The Encryption You Trust Right Now Is Already Dead — Quantum Hackers Just Don’t Know It Yet | Bugitrix | [Read More](https://medium.com/p/2e3a8def6b2e) |
-| Fri, 27 Mar 2026 06:11:56 GMT | RedWeaver: Building an Autonomous AI-Powered Penetration Testing Platform | Ori Ashkenazi | [Read More](https://medium.com/p/61209861b88e) |
-| Fri, 27 Mar 2026 06:09:02 GMT | CI/CD Pipeline Exploitation: 10 Vulnerabilities Every Pentester Should Check (With Real Examples) | Very Lazy Tech | [Read More](https://medium.com/p/38f9d9359dbd) |
-| Fri, 27 Mar 2026 06:08:39 GMT | India Cybersecurity Market 2026–2034 - Trends, Growth and Forecast | Pragati Bharadwaj | [Read More](https://medium.com/p/647b9dac32f6) |
-| Fri, 27 Mar 2026 06:03:34 GMT | Beyond the Firewall: Why Identity is the Only True Perimeter in 2026 | Dilshan Christopher | [Read More](https://medium.com/p/e7de25d1701f) |
-| Fri, 27 Mar 2026 06:03:30 GMT | How a $62,500 Self-XSS Became a Full Facebook and Instagram Account Takeover — A Review of Youssef… | Vivek PS | [Read More](https://medium.com/p/2d574854a3ef) |
-| Fri, 27 Mar 2026 06:01:39 GMT | Your app works perfectly… until the browser screams CORS ERROR  Time to understand what’s… | Lakshitha Samod | [Read More](https://medium.com/p/5dafbaae5341) |
-| Fri, 27 Mar 2026 06:01:00 GMT | Teknik Verileri Finansal Olarak Okuyabiliyor Musunuz? | ODYA Teknoloji | [Read More](https://medium.com/p/b189e5104c28) |
-| Fri, 27 Mar 2026 05:57:51 GMT | Which companies offer AI security certification programs suitable for beginners? | 101 BlockChains | [Read More](https://medium.com/p/fc854767c0a2) |
-| Fri, 27 Mar 2026 05:55:41 GMT | 28bet có an toàn không? Nên kiểm tra gì trước khi truy cập | 報數十一員 | [Read More](https://medium.com/p/7d0b52e3ad19) |
-| Fri, 27 Mar 2026 05:53:03 GMT | Kubernetes Registry Mirror Authentication: The Secret Weapon for Multi-Tenant Security | Ramesh | [Read More](https://medium.com/p/b938bfd8d73e) |
-| Fri, 27 Mar 2026 05:45:33 GMT | The Night Everything Changed at a Construction Site in Sydney | Australiasf Marketing | [Read More](https://medium.com/p/36d811eff283) |
-| Fri, 27 Mar 2026 05:42:33 GMT | SPARK Matrix™: Cloud Security Gateway Software | Umangp | [Read More](https://medium.com/p/5401924f4c06) |
-| Fri, 27 Mar 2026 05:36:38 GMT | AVG Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/d6c09860a8a0) |
-| Fri, 27 Mar 2026 05:31:24 GMT | Yahoo Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/2852865fbe6e) |
