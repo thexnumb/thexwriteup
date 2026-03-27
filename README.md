@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 08:56:55 GMT | PicoCTF — Hidden Cipher 1 Writeup | Spandhan Panta | [Read More](https://medium.com/p/07bca6648827) |
+| Fri, 27 Mar 2026 08:47:29 GMT | How I Started Learning Cybersecurity (And What I Did Wrong) | Gechsec | [Read More](https://medium.com/p/9edd678698a2) |
+| Fri, 27 Mar 2026 08:43:22 GMT | Zero Trust Security: Why It’s the Future of Cyber Defense | RamsWritings | [Read More](https://medium.com/p/743f6ba74dcb) |
+| Fri, 27 Mar 2026 08:39:58 GMT | Think You’re Too Smart to Get Scammed? Think Again. | Amna Rehan | [Read More](https://medium.com/p/240ae07f01bc) |
+| Fri, 27 Mar 2026 08:31:35 GMT | Why Every Organization Needs a Cloud Security Risk Assessment | Ryan Williamson | [Read More](https://medium.com/p/6220de561842) |
+| Fri, 27 Mar 2026 08:31:23 GMT | Splunk 2 TryHackMe Writeup (Part 2) — BOTS v2 SOC Investigation (300 & 400 Series) | Citadel Cybersec | [Read More](https://medium.com/p/62c933f1a0fe) |
+| Fri, 27 Mar 2026 08:28:46 GMT | eJPT  System-Host Based Attacks CTF 1 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/03a927fd19fc) |
+| Fri, 27 Mar 2026 08:23:15 GMT | Automation Series: Theory of Implementing AI in Risk Management | Umar Farouk | [Read More](https://medium.com/p/12aeb584c15e) |
+| Fri, 27 Mar 2026 08:20:13 GMT | Claude Mythos : Leaked post from Anthropic on the most advanced models | Nikhil | [Read More](https://medium.com/p/2fe0712dc9f6) |
+| Fri, 27 Mar 2026 08:16:54 GMT | The Foxhole and the Fire | Ozan Ozkara | [Read More](https://medium.com/p/60d5947b0a1e) |
+| Fri, 27 Mar 2026 08:06:30 GMT | The Dark Truth About “Free Software” | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/71c08669f17a) |
+| Fri, 27 Mar 2026 08:00:22 GMT | I Almost Exposed My Client’s Data Using AI Tools (And You Might Be Too) | Irfanullah | [Read More](https://medium.com/p/e118edfc3a14) |
+| Fri, 27 Mar 2026 08:00:06 GMT | Patrolling with Purpose: The Story of Smart Mobile Security & Rapid Response Protection | Grdsnscrt | [Read More](https://medium.com/p/f98da8a1540e) |
+| Fri, 27 Mar 2026 07:58:07 GMT | Why the Stronger Power Fears War More: The Hidden Logic of the U.S.–Iran Conflict | The World Decoded | [Read More](https://medium.com/p/2ad32fb782fe) |
 | Fri, 27 Mar 2026 07:51:36 GMT | How AI Can Make DevSecOps Truly Secure, Governed, and Compliant | Appar | [Read More](https://medium.com/p/37162caa09b8) |
 | Fri, 27 Mar 2026 07:51:20 GMT | How I Weaponized a Simple PDF Upload and Executed Code on the Target | Cookiebug | [Read More](https://medium.com/p/a22044c28904) |
 | Fri, 27 Mar 2026 07:51:07 GMT | The Day Wireshark Made Me Question My Own Network | Fateyaly | [Read More](https://medium.com/p/bdeaea7fe128) |
@@ -99,17 +113,3 @@ on NASA’s .nasa.gov Subdomain | Aashutosh devkota | [Read More](https://medium
 | Fri, 27 Mar 2026 01:38:29 GMT | The Next Evolution of the Internet Is Already Being Built | Andre Ross | [Read More](https://medium.com/p/efffe040e1f2) |
 | Fri, 27 Mar 2026 01:37:30 GMT | Top Tech Skills in Demand in 2026 | Jukirthan. | [Read More](https://medium.com/p/d2e1eb13c119) |
 | Fri, 27 Mar 2026 01:34:51 GMT | You Signed the NDA. Then You Pasted It Into ChatGPT. | Zsearchai | [Read More](https://medium.com/p/971387f5f677) |
-| Fri, 27 Mar 2026 01:34:32 GMT | How Does Tor Work? A Simple Guide for Beginners (2026) | Abby Morkel | [Read More](https://medium.com/p/c895c9820ef6) |
-| Fri, 27 Mar 2026 01:27:10 GMT | Why 6-month Cybersecurity Bootcamps Can’t Replace Foundational Knowledge | Taulan Zauzanov | [Read More](https://medium.com/p/35a1d7522389) |
-| Fri, 27 Mar 2026 01:10:01 GMT | AuthBy Walkthrough (Proving Groung- windows oscp) | cyber_public_school | [Read More](https://medium.com/p/e2a94ba2e2cf) |
-| Fri, 27 Mar 2026 01:08:15 GMT | Plan 2026 Practical | Xyver | [Read More](https://medium.com/p/bcf6bb6f5db3) |
-| Fri, 27 Mar 2026 00:28:54 GMT | Proving Grounds — Practice — Nagoya | Makoyi | [Read More](https://medium.com/p/19eec0a917a1) |
-| Fri, 27 Mar 2026 00:24:37 GMT | How to Protect Your Data When Using Cloud Storage | Cloudbric VPN | [Read More](https://medium.com/p/c938d3c6bc5a) |
-| Fri, 27 Mar 2026 00:19:51 GMT | Spring (THM) Tryhackme WriteUp Only Answer | Lawvye | [Read More](https://medium.com/p/7e7431b44a2c) |
-| Fri, 27 Mar 2026 00:07:58 GMT | Good TypeScript Isn’t About Catching Bugs. It’s About Making Them Impossible. | Elijah Soladoye | [Read More](https://medium.com/p/0fc661b44e4e) |
-| Thu, 26 Mar 2026 23:30:23 GMT | Red Teaming Wi-Fi: How to Build Custom Wordlists & Master Crunch (Like a Pro) | ghostyjoe | [Read More](https://medium.com/p/c6e15012e495) |
-| Thu, 26 Mar 2026 23:18:08 GMT | A True Solution for Low Credit | Amanda Hires | [Read More](https://medium.com/p/1e2c6101afc0) |
-| Thu, 26 Mar 2026 23:17:33 GMT | I Hated Securing My Wi-Fi… and My Router Nearly Drove Me Crazy | Daniel Dulude | [Read More](https://medium.com/p/59da9de7e00e) |
-| Thu, 26 Mar 2026 23:06:05 GMT | Active Directory Attacks Part 3: AS-REP Roasting | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/c6458d72a265) |
-| Thu, 26 Mar 2026 23:01:01 GMT | Your Web App Is Naked Without These HTTP Headers | Hafiq Iqmal | [Read More](https://medium.com/p/0c8b03e26dde) |
-| Thu, 26 Mar 2026 23:01:01 GMT | Why GitHub Copilot Can Turn a Fast Patch Into a Costly Rollback | James Kuhman | [Read More](https://medium.com/p/fdb1e13d13a4) |
