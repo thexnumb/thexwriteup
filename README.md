@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 10:08:54 GMT | The Afternoon That Almost Stayed | roseey | [Read More](https://medium.com/p/917196d280c0) |
+| Fri, 27 Mar 2026 10:05:46 GMT | How to Actually Use LinkedIn If You Work in IT or Cybersecurity | Jbird | [Read More](https://medium.com/p/8a4b84f070bb) |
+| Fri, 27 Mar 2026 10:01:01 GMT | Why Auditors Quietly Appreciate Automated Tools | Gaurav Shukla | [Read More](https://medium.com/p/a167656cdd78) |
+| Fri, 27 Mar 2026 09:56:12 GMT | I Find Hidden APIs Before I Even Touch Burp Suite | ghostyjoe | [Read More](https://medium.com/p/266361142f78) |
+| Fri, 27 Mar 2026 09:55:26 GMT | SQL Injection UNION Attack: Retrieving Data from Other Tables-PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/7e4ca8d41207) |
+| Fri, 27 Mar 2026 09:52:52 GMT | IPTV Premium Service: Ultimate Guide to Unlimited Streaming | Iptvsouq | [Read More](https://medium.com/p/14753b9011b7) |
+| Fri, 27 Mar 2026 09:50:49 GMT | Threatcop Is Now Certified by the Texas DIR. Here Is Why That Matters More Than You Think. | threatcop | [Read More](https://medium.com/p/2347906ebdfe) |
+| Fri, 27 Mar 2026 09:37:25 GMT | Behind the Breach:Deloitte 2017 Breach | Dorathy Christopher | [Read More](https://medium.com/p/fca8012a55f1) |
+| Fri, 27 Mar 2026 09:35:40 GMT | Digital Forensics | Justin Randy Hartono | [Read More](https://medium.com/p/a3db77336b3f) |
+| Fri, 27 Mar 2026 09:23:32 GMT | Cyber Security Services Isle of Man: Smart Protection with Reliable IT Solutions | Just Technology Consulting Ltd | [Read More](https://medium.com/p/c938276619cf) |
+| Fri, 27 Mar 2026 09:22:48 GMT | From Rejection to CVE: My Journey Discovering a Wi-Fi Credential Leak in a Tuya IoT Device (CB3L) | Aaronjjose | [Read More](https://medium.com/p/a7f31ff736d1) |
+| Fri, 27 Mar 2026 09:19:06 GMT | How Vallot Helps You Manage Environment Variables Without Storing Plain-Text Secrets | SOVANNARO | [Read More](https://medium.com/p/6bcb081441de) |
+| Fri, 27 Mar 2026 09:12:51 GMT | Transforming OSWAN with SD-WAN: Building a Secure & Scalable Government Network | Omnilink Technology | [Read More](https://medium.com/p/48ad56d2f374) |
+| Fri, 27 Mar 2026 09:11:10 GMT | How to address the challenges of arbitration involving crypto-assets ? | Sébastien Martin | [Read More](https://medium.com/p/27561e8efa76) |
+| Fri, 27 Mar 2026 09:10:23 GMT | Why Big Tech Demands Automated Snyk & SonarQube Scans (And How to Setup in 5 Mins) | Pau Dang | [Read More](https://medium.com/p/6f80a2cfc1b0) |
 | Fri, 27 Mar 2026 08:56:55 GMT | PicoCTF — Hidden Cipher 1 Writeup | Spandhan Panta | [Read More](https://medium.com/p/07bca6648827) |
 | Fri, 27 Mar 2026 08:47:29 GMT | How I Started Learning Cybersecurity (And What I Did Wrong) | Gechsec | [Read More](https://medium.com/p/9edd678698a2) |
 | Fri, 27 Mar 2026 08:43:22 GMT | Zero Trust Security: Why It’s the Future of Cyber Defense | RamsWritings | [Read More](https://medium.com/p/743f6ba74dcb) |
@@ -98,18 +113,3 @@ on NASA’s .nasa.gov Subdomain | Aashutosh devkota | [Read More](https://medium
 | Fri, 27 Mar 2026 03:37:42 GMT | Azure Blob Storage Misconfigurations: Attacker’s Gateway to Data | Avyukt Security | [Read More](https://medium.com/p/b7d8e957440e) |
 | Fri, 27 Mar 2026 03:37:31 GMT | The ongoing Israel-Palestine conflict has created a horrific reality for the people of Palestine, a… | Simi Rose | [Read More](https://medium.com/p/dd6d6277ca08) |
 | Fri, 27 Mar 2026 03:34:08 GMT | Lab: Exploiting LLM APIs with excessive agency | Deleonaguilarjosue | [Read More](https://medium.com/p/3b2da6d28285) |
-| Fri, 27 Mar 2026 03:29:10 GMT | TryHackMe — File Inclusion (Walkthrough) | Hudson Lois Marcus | [Read More](https://medium.com/p/3f688fc945cf) |
-| Fri, 27 Mar 2026 03:24:09 GMT | The Fluent Teacher Who Couldn’t Order A Coffee | PassionForLanguages | [Read More](https://medium.com/p/0d9404356ace) |
-| Fri, 27 Mar 2026 03:10:36 GMT | How to Password Protect a PDF for Free (AES-256, No Desktop App) | Shaishavap | [Read More](https://medium.com/p/00a9439cf6b8) |
-| Fri, 27 Mar 2026 03:09:02 GMT | VulnHub DC-7 Walkthrough: Advanced Drupal Exploitation | Kalash Kundaliya | [Read More](https://medium.com/p/cb85338e6352) |
-| Fri, 27 Mar 2026 03:05:16 GMT | “Roadmap Belajar Cyber Security Paling Seru: Lewat Capture The Flag” | Ahmat Prayoga Sembiring | [Read More](https://medium.com/p/4910ccdd22a9) |
-| Fri, 27 Mar 2026 02:17:39 GMT | Weekly Threat Intelligence Report 23 Mar 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/649b1112e60b) |
-| Fri, 27 Mar 2026 02:13:55 GMT | 2025 Information and Communications Industry Cyber Threat Landscape | NSHC ThreatRecon Team | [Read More](https://medium.com/p/aaffaa8d13c2) |
-| Fri, 27 Mar 2026 02:13:23 GMT | Decrypt Sophos SafeStore qurantined file | Alessandrolupini | [Read More](https://medium.com/p/f2dce42f8af0) |
-| Fri, 27 Mar 2026 02:12:58 GMT | Academy Windows-Privilege-Escalation ‘Windows Server’ Walkthrough | Psychopath-Traveler | [Read More](https://medium.com/p/027aa2be5552) |
-| Fri, 27 Mar 2026 02:03:50 GMT | Skeeters and Spiders and Ants, Oh My! | Holly J See 〰️editor fairy | [Read More](https://medium.com/p/b1a8cb4398f3) |
-| Fri, 27 Mar 2026 01:57:54 GMT | DarkSword: A Sophisticated iPhone Spyware Threat Targeting Malaysia | y0tz | [Read More](https://medium.com/p/bbc1e8ad08d2) |
-| Fri, 27 Mar 2026 01:45:51 GMT | But he sounded and looked like my CFO! | Ben   Olufemi akintounde | [Read More](https://medium.com/p/166d72bc886a) |
-| Fri, 27 Mar 2026 01:38:29 GMT | The Next Evolution of the Internet Is Already Being Built | Andre Ross | [Read More](https://medium.com/p/efffe040e1f2) |
-| Fri, 27 Mar 2026 01:37:30 GMT | Top Tech Skills in Demand in 2026 | Jukirthan. | [Read More](https://medium.com/p/d2e1eb13c119) |
-| Fri, 27 Mar 2026 01:34:51 GMT | You Signed the NDA. Then You Pasted It Into ChatGPT. | Zsearchai | [Read More](https://medium.com/p/971387f5f677) |
