@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 07:51:36 GMT | How AI Can Make DevSecOps Truly Secure, Governed, and Compliant | Appar | [Read More](https://medium.com/p/37162caa09b8) |
+| Fri, 27 Mar 2026 07:51:20 GMT | How I Weaponized a Simple PDF Upload and Executed Code on the Target | Cookiebug | [Read More](https://medium.com/p/a22044c28904) |
+| Fri, 27 Mar 2026 07:51:07 GMT | The Day Wireshark Made Me Question My Own Network | Fateyaly | [Read More](https://medium.com/p/bdeaea7fe128) |
+| Fri, 27 Mar 2026 07:50:35 GMT | Top 10 Highest paid Cyber Security jobs in india | cyber security Updates | [Read More](https://medium.com/p/6b2d27450420) |
+| Fri, 27 Mar 2026 07:41:19 GMT | [IT Trends] Even Telegram Isn’t Perfect: Why We Need to Switch to a ‘Zero-Storage’ Messenger | Quantarium | [Read More](https://medium.com/p/cc1871d14cec) |
+| Fri, 27 Mar 2026 07:41:00 GMT | How People Actually Stay Anonymous Online in 2026 (It’s Not What You Think) | Warren Smith | [Read More](https://medium.com/p/58a03258484e) |
+| Fri, 27 Mar 2026 07:39:53 GMT | Telegram Channel Monitor Gets Keyword Scanning and Archive Search | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/1628b4122920) |
+| Fri, 27 Mar 2026 07:38:21 GMT | How Insecure APIs Allow Hackers to Break Subscription Logic and Unlock Premium Features? | Ashik Mohamed ( ashikmd7 ) | [Read More](https://medium.com/p/606dd10fbcff) |
+| Fri, 27 Mar 2026 07:36:33 GMT | Kali Linux 2026.1 Is Here — 8 New Hacking Tools and a Nostalgic BackTrack Mode | Subhan Ali | [Read More](https://medium.com/p/2f36f9846d33) |
+| Fri, 27 Mar 2026 07:34:29 GMT | The Front Door — The NEW Back Door | Jarad DeLorenzo | [Read More](https://medium.com/p/38e41762a476) |
+| Fri, 27 Mar 2026 07:32:22 GMT | วิวัฒนาการของการติดตั้งแอปพลิเคชันนอกสโตร์ (Sideloading)… | Ironammonite | [Read More](https://medium.com/p/1ea28ce0afd7) |
+| Fri, 27 Mar 2026 07:31:20 GMT | IRCTC Typosquatting Exposed: Inside the Deceptive Ad Trap at ircts[.]co[.]in | Chandan Hittalamani | [Read More](https://medium.com/p/df714064ec16) |
+| Fri, 27 Mar 2026 07:30:40 GMT | EDR vs XDR: Evolution of Endpoint Security | Majidbasharat | [Read More](https://medium.com/p/fb8b6001291d) |
+| Fri, 27 Mar 2026 07:26:46 GMT | I Loved Too Deeply, and It Scared Me More Than Losing Them | Dhruvanshii | [Read More](https://medium.com/p/1520e883867f) |
+| Fri, 27 Mar 2026 07:16:36 GMT | My Bug Bounty Journey #1: Lessons from 3 Years in the Field | awchjimmy | [Read More](https://medium.com/p/069ea5e96fe7) |
+| Fri, 27 Mar 2026 07:14:38 GMT | Best Practices for Cloud Security Posture Management | Gehnasingh | [Read More](https://medium.com/p/d82561b9426f) |
+| Fri, 27 Mar 2026 07:07:40 GMT | Best Free AI Tools Everyone Should Use | Wasifnavttc Dm | [Read More](https://medium.com/p/9f78c5bbd623) |
+| Fri, 27 Mar 2026 07:02:30 GMT | Top 10 AI Pentesting Tools in 2026 | Bindu Dhingra | [Read More](https://medium.com/p/7200058eb10b) |
+| Fri, 27 Mar 2026 06:58:35 GMT | The Day an AI Tool Became a Security Nightmare (And What It Taught Me) | Shishir Sharma | [Read More](https://medium.com/p/eda21392f31e) |
+| Fri, 27 Mar 2026 06:54:03 GMT | Beginner’s Guide to Network Security for Developers | Mubashir | [Read More](https://medium.com/p/6161ea42741d) |
+| Fri, 27 Mar 2026 06:53:49 GMT | WhatsApp may launch new privacy settings for secure messaging | Azaadsaad | [Read More](https://medium.com/p/1b835c08f30e) |
+| Fri, 27 Mar 2026 06:52:14 GMT | Construction Site Security: Why It’s Essential for Every Project | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/4794ac663c0b) |
+| Fri, 27 Mar 2026 06:47:36 GMT | Best Website Troubleshooting Services in Pakistan (2026 Guide) | Wasifnavttc Dm | [Read More](https://medium.com/p/a4097fcc2e98) |
+| Fri, 27 Mar 2026 06:39:57 GMT | How to Choose the Right IT Service Provider for Senior Living Communities | Exordiumnetworks | [Read More](https://medium.com/p/73fbcdec260a) |
 | Fri, 27 Mar 2026 06:37:43 GMT | When the Watchman is Compromised: Deconstructing the Trivy Supply Chain Attack | Rommel Jay Gadil | [Read More](https://medium.com/p/67c2e7f6a109) |
 | Fri, 27 Mar 2026 06:32:52 GMT | 드라이버 개발자도 몰랐던 레지스트리의 두 얼굴 — 흑백 레지스트리 | Jung-Hyun Choi | [Read More](https://medium.com/p/b371b9f809ed) |
 | Fri, 27 Mar 2026 06:28:46 GMT | How I Found a Vulnerability at NASA at Age 13 | Divya Prakash | [Read More](https://medium.com/p/3867333f16a1) |
@@ -89,27 +113,3 @@ on NASA’s .nasa.gov Subdomain | Aashutosh devkota | [Read More](https://medium
 | Thu, 26 Mar 2026 23:06:05 GMT | Active Directory Attacks Part 3: AS-REP Roasting | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/c6458d72a265) |
 | Thu, 26 Mar 2026 23:01:01 GMT | Your Web App Is Naked Without These HTTP Headers | Hafiq Iqmal | [Read More](https://medium.com/p/0c8b03e26dde) |
 | Thu, 26 Mar 2026 23:01:01 GMT | Why GitHub Copilot Can Turn a Fast Patch Into a Costly Rollback | James Kuhman | [Read More](https://medium.com/p/fdb1e13d13a4) |
-| Thu, 26 Mar 2026 22:58:00 GMT | LEARNING TO THINK LIKE AN ATTACKER: MITRE ATT&CK (TryHackMe) | Orem Gitonga | [Read More](https://medium.com/p/73e507b96d01) |
-| Thu, 26 Mar 2026 22:43:41 GMT | Hardening Básico — Part 02 — System Services — XBox | Jordano Mazzoni | [Read More](https://medium.com/p/b8b59aeed586) |
-| Thu, 26 Mar 2026 22:37:47 GMT | V32: A Black Forest Signal is the Mysterious Farsi Numbers Station | James Marinero, MSc, MBA | [Read More](https://medium.com/p/60e46259da9b) |
-| Thu, 26 Mar 2026 22:34:47 GMT | Someone Almost Got Away With It. The LiteLLM Supply Chain Attack, Explained. | Abhinav varma vathadi | [Read More](https://medium.com/p/0828731bee0d) |
-| Thu, 26 Mar 2026 22:29:46 GMT | Phishing Email Analysis: A SOC-Based Investigation Using Open-Source Intelligence Tools | Babatunde David Oluwole | [Read More](https://medium.com/p/cec7a14f9ca5) |
-| Thu, 26 Mar 2026 22:28:42 GMT | Simulating a TCP SYN Flood Attack | Shreya Patil | [Read More](https://medium.com/p/bd2fdcf1e04b) |
-| Thu, 26 Mar 2026 22:27:59 GMT | HTB Academy -API Attacks Skills Assessment | Farouq Hassan | [Read More](https://medium.com/p/fcc527629406) |
-| Thu, 26 Mar 2026 22:27:46 GMT | HTB Academy - API Attacks (Unsafe Consumption of APIs) Exercise Walkthrough | Farouq Hassan | [Read More](https://medium.com/p/2e345f4599d8) |
-| Thu, 26 Mar 2026 22:19:11 GMT | What If You Could Break Your API Design Before Writing a Single Line of Code? | Selfradiance | [Read More](https://medium.com/p/8138e7022cd2) |
-| Thu, 26 Mar 2026 22:10:48 GMT | How to Earn Money in 2026: | Saif Ur Rehman | [Read More](https://medium.com/p/279295668085) |
-| Thu, 26 Mar 2026 22:06:06 GMT | Attestation Tells You What Is Running, It Doesn’t Tell You Whether to Trust It. | ijlal | [Read More](https://medium.com/p/bf1527b62303) |
-| Thu, 26 Mar 2026 22:00:16 GMT | The Quietest Threat in Cybersecurity Is Sitting Right Next to the Water Dispenser | Antoniy Kanu | [Read More](https://medium.com/p/56c7aa64a401) |
-| Thu, 26 Mar 2026 21:59:48 GMT | CVE-2024–56145 Walkthrough (Proving Ground -OSCP) | cyber_public_school | [Read More](https://medium.com/p/dc114ad4baec) |
-| Thu, 26 Mar 2026 21:49:30 GMT | OpenClaw ve Veri Sızıntısı Tehdidi | Ömer Kaan Kurt | [Read More](https://medium.com/p/5dc406939301) |
-| Thu, 26 Mar 2026 21:47:03 GMT | Part 2: Paved Paths — Fixing the Highest-Leverage Investment That Keeps Rotting | Aparna Ash Himmatramka | [Read More](https://medium.com/p/e814ad1fc2d8) |
-| Thu, 26 Mar 2026 21:44:35 GMT | Network Operation Center VS Security Operation Center | Ritikpatel | [Read More](https://medium.com/p/04ce37a8e5c4) |
-| Thu, 26 Mar 2026 21:32:03 GMT | How Much Does SOC 2 Cost? (Real Breakdown for Startups) | Ross | [Read More](https://medium.com/p/343edf248382) |
-| Thu, 26 Mar 2026 21:31:43 GMT | Appel WebKit CVE-2026–20643 | Ömer Kaan Kurt | [Read More](https://medium.com/p/5196786c3d96) |
-| Thu, 26 Mar 2026 21:13:21 GMT | Bypassing Code Integrity Using BYOVD for Kernel R/W Primitives | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8135087e1c1e) |
-| Thu, 26 Mar 2026 21:07:31 GMT | Windows — Hardening Básico — Part 01 — Remote Assistance | Jordano Mazzoni | [Read More](https://medium.com/p/2506c16300b2) |
-| Thu, 26 Mar 2026 21:05:38 GMT | TryHackMe SOC Analyst Road Map Part-15 | safa kaya | [Read More](https://medium.com/p/8dcd35db24af) |
-| Thu, 26 Mar 2026 21:02:52 GMT | Why Point in Time Active Directory Scans Miss Active Directory Attacks | GuardiansoftheDirectory | [Read More](https://medium.com/p/aab3cbb6107b) |
-| Thu, 26 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 35: Security Marathon Day 2 | Maximillian Rueda | [Read More](https://medium.com/p/874d847350ee) |
-| Thu, 26 Mar 2026 20:55:04 GMT | Least privilege as a service for Azure deployments — part 1 | Jonny Diamond | [Read More](https://medium.com/p/4374f70c75bd) |
