@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 22:27:31 GMT | HELLO : Aj main ap logon lo “5 CYBER SECURITY TOOLS” btanay wala hoon or unke “BASIC USES” kay bhi. | Saim Chiriya | [Read More](https://medium.com/p/3e2dae138cf9) |
+| Fri, 27 Mar 2026 22:24:44 GMT | Prompt-Layer Recommendation Manipulation: The Next Supply‑Chain Vector Security Teams Need to Track | Lugo Jr Misael | [Read More](https://medium.com/p/13184b531184) |
+| Fri, 27 Mar 2026 22:21:00 GMT | Imposter Syndrome in Cybersecurity: Why You Know More Than You Think | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/7cfb9d3868a6) |
+| Fri, 27 Mar 2026 22:12:28 GMT | The Silent War Inside Your Favorite Games: How Anti-Cheat Systems Work | Esra Oznen | [Read More](https://medium.com/p/4425469b482b) |
+| Fri, 27 Mar 2026 22:11:27 GMT | Why Most Healthcare Organizations Fail Their HIPAA Security Risk Analysis | Joegellatly | [Read More](https://medium.com/p/9d1a7fe43ce8) |
+| Fri, 27 Mar 2026 22:05:35 GMT | OWASP LLM Top 10 — Part 1: When the Model Becomes the Attack Surface | Derick Johnson | [Read More](https://medium.com/p/2188a2a672fc) |
+| Fri, 27 Mar 2026 22:03:10 GMT | System Configuration: File Shares & Offline Caching | Dean | [Read More](https://medium.com/p/e0ad9096b3a7) |
+| Fri, 27 Mar 2026 21:43:17 GMT | Network Assets in the Cloud: The structure | TheP3@rl | [Read More](https://medium.com/p/fbb920b4079e) |
+| Fri, 27 Mar 2026 21:40:39 GMT | Upcoming proposed framework (CIFM) | Professor Kilroy | [Read More](https://medium.com/p/44938c56e6eb) |
+| Fri, 27 Mar 2026 21:39:37 GMT | Old Session — picoCTF2026 | Ayman Hany | [Read More](https://medium.com/p/4580982c44cf) |
+| Fri, 27 Mar 2026 21:35:38 GMT | The Personal Perimeter: How Officials Become Targets | CCD-IS | [Read More](https://medium.com/p/7c51a5ef1962) |
 | Fri, 27 Mar 2026 21:32:45 GMT | Career Path: Information Technology to Cloud Engineer | Simran Singh | [Read More](https://medium.com/p/135dce2280e1) |
 | Fri, 27 Mar 2026 21:13:18 GMT | Analyze Header Like a Pro: Boost SEO Rankings Fast (2026 Guide) | Wijay | [Read More](https://medium.com/p/151b71e1a32b) |
 | Fri, 27 Mar 2026 21:12:25 GMT | CYBERDUDEBIVASH Sentinel APEX™ — Building a Real-Time AI Cyber Threat Intelligence Platform from… | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/8e0cec61cf2d) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 16:14:22 GMT | Week 1 of Offensive Security | Muhammad Uzair | [Read More](https://medium.com/p/8779adcdcf0a) |
 | Fri, 27 Mar 2026 16:14:17 GMT | How Attackers Actually Break Identity Systems | Dr. Shashi Karhail | [Read More](https://medium.com/p/1aac57376f93) |
 | Fri, 27 Mar 2026 16:11:40 GMT | HTTP Request Smuggling Explained: The Hidden Vulnerability Hackers Love✨ - kidnapshadow | Kidnapshadow | [Read More](https://medium.com/p/4c4e62766111) |
-| Fri, 27 Mar 2026 16:10:51 GMT | Your API Checks Who Users Are — But Not What They’re Allowed to See | OopsSec Store | [Read More](https://medium.com/p/fa98ae7562c6) |
-| Fri, 27 Mar 2026 16:09:01 GMT | What Your Firewall Logs Aren’t Telling You | JSOC IT BLOG | [Read More](https://medium.com/p/ed239fd48a71) |
-| Fri, 27 Mar 2026 16:03:39 GMT | The UAE has rapidly transformed into a digital-first economy where businesses rely heavily on… | Vastechoffpage | [Read More](https://medium.com/p/d943a68c8ae2) |
-| Fri, 27 Mar 2026 16:00:36 GMT | From Drift to Enforcement: A Self-Healing Security and Compliance Engine for OpenShift | Phil Duncan | [Read More](https://medium.com/p/3e3c160eba7b) |
-| Fri, 27 Mar 2026 15:59:18 GMT | OS AUTOMATION | Gopangopikrishnan | [Read More](https://medium.com/p/4f7cc0b0bf41) |
-| Fri, 27 Mar 2026 15:53:27 GMT | How to Use Claude Code for FREE with OpenRouter (Step-by-Step Guide) | Aman Bhuiyan | [Read More](https://medium.com/p/3544a1049b5a) |
-| Fri, 27 Mar 2026 15:47:36 GMT | Proving Grounds — Practice — Access | Makoyi | [Read More](https://medium.com/p/a6e6a89f4ae6) |
-| Fri, 27 Mar 2026 15:44:17 GMT | HTB_Academy: LD_PRELOAD Privilege Escalation | Babatunde Ojo | [Read More](https://medium.com/p/290b1d821e74) |
-| Fri, 27 Mar 2026 15:43:19 GMT | I Spent 3 Months Failing at Bug Bounty — This Roadmap Fixed Everything | Vivek PS | [Read More](https://medium.com/p/907218fb5f05) |
-| Fri, 27 Mar 2026 15:37:00 GMT | The OpenClaw Security Crisis: What ClawHavoc Revealed About AI Agent Risk — and Why NemoClaw Isn’t… | M. Zaib | [Read More](https://medium.com/p/99dff5f68c8d) |
-| Fri, 27 Mar 2026 15:29:12 GMT | Network Traffic Analysis of an IcedID (BokBot) Infection — Reconstruction (Part 1) | kbxsrc | [Read More](https://medium.com/p/e6633d927a0e) |
