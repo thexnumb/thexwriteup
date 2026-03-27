@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 20:13:51 GMT | Hackers Don’t Need Malware Anymore — Just Victims Browser | Cybersectoworld | [Read More](https://medium.com/p/4f27cbe34bf9) |
+| Fri, 27 Mar 2026 20:10:28 GMT | QA and Security: Why Deterministic Validation Can’t Wait | Joaquin Moreira | [Read More](https://medium.com/p/faac41b50fdb) |
+| Fri, 27 Mar 2026 20:03:31 GMT | I STOPPED CRYING FOR SEVENTEEN YEARS. | Saint Kay Media | [Read More](https://medium.com/p/f4d7fce3af24) |
+| Fri, 27 Mar 2026 20:01:01 GMT | Building a Hacker Assistant with Python + Ollama | Ryan Maxie | [Read More](https://medium.com/p/a320cef495cb) |
+| Fri, 27 Mar 2026 20:00:23 GMT | EU GDPR — Article 36 (Prior Consultation) | MDM Team | [Read More](https://medium.com/p/4bebdfbac633) |
+| Fri, 27 Mar 2026 19:52:03 GMT | I Built a Secure Multi-Tenant RAG System on AWS | Chakrinee Ayalasomayajula | [Read More](https://medium.com/p/9f1bb7e25f20) |
+| Fri, 27 Mar 2026 19:51:41 GMT | Securing Kubernetes Deployments with Cosign Image Signing & Kyverno Policy Enforcement | Mayank Yadav | [Read More](https://medium.com/p/e51cfad1b19e) |
+| Fri, 27 Mar 2026 19:49:20 GMT | Suggestion to Apple. | mim Armand | [Read More](https://medium.com/p/a4e4fd410288) |
 | Fri, 27 Mar 2026 19:38:18 GMT | Email Security Guide 2026: Find Your Risks Before Attackers Do | Cordula Boeck | [Read More](https://medium.com/p/d74c3e135fd9) |
+| Fri, 27 Mar 2026 19:38:01 GMT | Eğer Tüm Sosyal Medya Uygulamalarında Uçtan Uca Şifreleme Kalkarsa Ne Olur? | Ali Yaşe | [Read More](https://medium.com/p/378357cba2f3) |
 | Fri, 27 Mar 2026 19:36:48 GMT | Containerizing Claude | Martin Larsson | [Read More](https://medium.com/p/ef722831fb10) |
 | Fri, 27 Mar 2026 19:35:09 GMT | Constraining Claude? | Martin Larsson | [Read More](https://medium.com/p/514a7eed9fc7) |
 | Fri, 27 Mar 2026 19:24:05 GMT | The Agentic Auth Problem Nobody Is Actually Solving | Venkat Peri | [Read More](https://medium.com/p/8f7d364ae3e3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 15:00:07 GMT | PowerShell — Convert NTFS Folder Security Permissions to Corresponding Share Permissions (Project) | Excalibra | [Read More](https://medium.com/p/8f8715c721ad) |
 | Fri, 27 Mar 2026 14:59:26 GMT | Career Paths in Software Engineering | Nimsara Lakshan | [Read More](https://medium.com/p/c5b4f11c1858) |
 | Fri, 27 Mar 2026 14:58:09 GMT | The ChatGPT Mirror: What RSA 2026 Revealed About AI Expectations | Ehulse | [Read More](https://medium.com/p/2dfbf334c1d7) |
-| Fri, 27 Mar 2026 14:56:21 GMT | Ra Writeup (TryHackMe Hard Machine) | Ivan Daňo | [Read More](https://medium.com/p/aa12e3bdc69c) |
-| Fri, 27 Mar 2026 14:49:28 GMT | Rainbow tables and hash tables are not the same | TimTrademark | [Read More](https://medium.com/p/5d7293cdacc9) |
-| Fri, 27 Mar 2026 14:46:10 GMT | SQL Injection in PHP Reservation System — Breaking Access Control via a Single Parameter | Cyber Tamarin | [Read More](https://medium.com/p/46dcd6a8a8e9) |
-| Fri, 27 Mar 2026 14:46:10 GMT | I Found a Path Traversal in InvenTree’s Report Engine — Here’s How It Works (CVE-2026–33531) | Alon Akirav | [Read More](https://medium.com/p/02a8cee24d8c) |
-| Fri, 27 Mar 2026 14:30:27 GMT | Your Rails JWT Auth Is Probably Insecure — Here’s What Most Devs Miss | Raza Hussain | [Read More](https://medium.com/p/da238a802098) |
-| Fri, 27 Mar 2026 14:27:07 GMT | WIZ Bug Bounty Master Class: SSRF Vulnerability on Major Gaming Company | Jared Douville | [Read More](https://medium.com/p/abd846fcf291) |
-| Fri, 27 Mar 2026 14:26:19 GMT | Local File Inclusion in a PHP Reservation System — From Parameter Abuse to Source Code Disclosure | Cyber Tamarin | [Read More](https://medium.com/p/f1ac55dd6178) |
-| Fri, 27 Mar 2026 14:22:38 GMT | End-to-end encryption in video calls: what it actually protects (and what it doesn’t) | Digital Samba | [Read More](https://medium.com/p/ad0fc9229c45) |
-| Fri, 27 Mar 2026 14:22:14 GMT | The LiteLLM Attack Should Worry Every AI Developer | Keerthi Kumar | [Read More](https://medium.com/p/b6120b0bede1) |
