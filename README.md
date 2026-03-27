@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 14:46:10 GMT | SQL Injection in PHP Reservation System — Breaking Access Control via a Single Parameter | Cyber Tamarin | [Read More](https://medium.com/p/46dcd6a8a8e9) |
+| Fri, 27 Mar 2026 14:30:27 GMT | Your Rails JWT Auth Is Probably Insecure — Here’s What Most Devs Miss | Raza Hussain | [Read More](https://medium.com/p/da238a802098) |
+| Fri, 27 Mar 2026 14:27:07 GMT | WIZ Bug Bounty Master Class: SSRF Vulnerability on Major Gaming Company | Jared Douville | [Read More](https://medium.com/p/abd846fcf291) |
+| Fri, 27 Mar 2026 14:26:19 GMT | Local File Inclusion in a PHP Reservation System — From Parameter Abuse to Source Code Disclosure | Cyber Tamarin | [Read More](https://medium.com/p/f1ac55dd6178) |
+| Fri, 27 Mar 2026 14:22:38 GMT | End-to-end encryption in video calls: what it actually protects (and what it doesn’t) | Digital Samba | [Read More](https://medium.com/p/ad0fc9229c45) |
+| Fri, 27 Mar 2026 14:22:14 GMT | The LiteLLM Attack Should Worry Every AI Developer | Keerthi Kumar | [Read More](https://medium.com/p/b6120b0bede1) |
+| Fri, 27 Mar 2026 14:21:02 GMT | Creative — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/ad73763dc639) |
+| Fri, 27 Mar 2026 14:19:59 GMT | Looking for a Security Guard Company Near You? Here’s Why Pinnacle Security Is a Smart Choice | Pinnacle Security Guards | [Read More](https://medium.com/p/62d81488ff17) |
+| Fri, 27 Mar 2026 14:15:59 GMT | Is Your Small Business One Cyber Attack Away from Shutdown? | Game With Life | [Read More](https://medium.com/p/e08860692080) |
+| Fri, 27 Mar 2026 14:13:14 GMT | Stop SSHing Into Servers. Talk to Them Instead. | Karine | [Read More](https://medium.com/p/a3a6ce31ee3f) |
+| Fri, 27 Mar 2026 14:06:00 GMT | 4 Warning Signs He Doesn’t Love You Anymore — Relationship Red Flags | Laura Miller | [Read More](https://medium.com/p/1f10f9de8eea) |
+| Fri, 27 Mar 2026 14:06:00 GMT | The Shadow Heart of Business | Alexey Rubtsov | [Read More](https://medium.com/p/40ae49a2decf) |
+| Fri, 27 Mar 2026 14:03:36 GMT | Beyond the Scan: What Enumeration Really Looks Like in Real-World Red Teaming | Daniel Isaac E | [Read More](https://medium.com/p/5c2fbf403991) |
+| Fri, 27 Mar 2026 14:02:13 GMT | My eCPPTv3 Exam Review | Qais Hammad | [Read More](https://medium.com/p/e5d57dc1ff78) |
+| Fri, 27 Mar 2026 14:01:04 GMT | Why Professional Security Services Help UK Businesses Win Client Trust | Rapport Security | [Read More](https://medium.com/p/da3560515738) |
+| Fri, 27 Mar 2026 14:00:03 GMT | We Warned Chicago About This Scam. It Didn’t Stop. It Escalated. | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/401a9e426004) |
+| Fri, 27 Mar 2026 13:57:43 GMT | What Is a VLAN and Why Every Home Network Needs One in 2026 | Temma | [Read More](https://medium.com/p/5a8f479f71fc) |
+| Fri, 27 Mar 2026 13:56:06 GMT | Securing the Quantum Channel: How BB84, QBER, and Timing-Based Authentication Protect Quantum… | BnHany | [Read More](https://medium.com/p/5b5eaf1a066b) |
+| Fri, 27 Mar 2026 13:55:25 GMT | The LiteLLM Supply Chain Attack: A Wake-Up Call for Modern Infrastructure Security | MindDigitalsea | [Read More](https://medium.com/p/35e850d4754a) |
+| Fri, 27 Mar 2026 13:49:16 GMT | AISVS: C1 Training Data Integrity & Traceability. The real weak point of AI is not the model. | Alberto Cappellina | [Read More](https://medium.com/p/3babac003b26) |
+| Fri, 27 Mar 2026 13:46:25 GMT | Project Alert — How I Solved One of Cloud Networking’s Most Stubborn Problems: Overlapping VPC… | Gbolahan Idowu | [Read More](https://medium.com/p/b4867614bfd5) |
 | Fri, 27 Mar 2026 13:39:20 GMT | Once a Quarter, I Walk Into a Business That’s Counting on Me | Luke Appleby | [Read More](https://medium.com/p/54a5e9cca5b3) |
 | Fri, 27 Mar 2026 13:36:49 GMT | The Insurance Gap: Where Businesses Get Caught Out | Ruben Clarke | [Read More](https://medium.com/p/3a2b26a2357d) |
 | Fri, 27 Mar 2026 13:33:15 GMT | Feminine Urge in Me | Asmi | [Read More](https://medium.com/p/bd70911b4378) |
@@ -32,12 +53,15 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 12:47:34 GMT | Beginner Bug Bounty Roadmap (2026) — Step-by-Step Guide to Start Finding Bugs | Riya Limba | [Read More](https://medium.com/p/7e549f6e2bb9) |
 | Fri, 27 Mar 2026 12:41:09 GMT | Build Scalable Automation Systems with Expert Workflow Engineers | n8ndevelopers | [Read More](https://medium.com/p/a4e93ded9118) |
 | Fri, 27 Mar 2026 12:40:31 GMT | Living-off-the-Land Attacks: How Adversaries Use Legitimate Tools to Stay Invisible | Cynox Security LLP. | [Read More](https://medium.com/p/d8e0011bade8) |
+| Fri, 27 Mar 2026 12:35:04 GMT | Kingdom of Saudi Arabia Cybersecurity Market Key Growth Drivers, Challenges, Leading Key Players… | Technology Geek | [Read More](https://medium.com/p/9de3ebc93b4c) |
 | Fri, 27 Mar 2026 12:21:36 GMT | The Broken Loop: When Cybersecurity and Auditing Don’t Talk | Sumit Jain | [Read More](https://medium.com/p/ea85ee12e071) |
 | Fri, 27 Mar 2026 12:21:09 GMT | Automating Bug Bounty Workflows Using Claude AI | Pentester Club | [Read More](https://medium.com/p/6ab4f7dfeae2) |
 | Fri, 27 Mar 2026 12:19:47 GMT | The Windows Security Journey — RDP Public Mode | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c4f3125c0293) |
 | Fri, 27 Mar 2026 12:18:12 GMT | The Thing We Don’t Talk About — But Carries the Most Weight | Bernard Boey | [Read More](https://medium.com/p/0c59ea4de12d) |
+| Fri, 27 Mar 2026 12:17:49 GMT | The Social Engineering Evolution | Star Petal AI Solutions | [Read More](https://medium.com/p/63bc3ec898b5) |
 | Fri, 27 Mar 2026 12:16:05 GMT | Yuan113 -HackMyVM Writeup | Cillia | [Read More](https://medium.com/p/90fe7d682fc3) |
 | Fri, 27 Mar 2026 12:16:02 GMT | Why Hiding Your Admin Panel Isn’t Enough: A Lesson in Predictable Secrets | Ayeshaaghafoor | [Read More](https://medium.com/p/e2a91f266a9f) |
+| Fri, 27 Mar 2026 12:15:09 GMT | How Do We Verify What’s Real in the AI Era | Tanmay Bansal | [Read More](https://medium.com/p/684a94aa59cb) |
 | Fri, 27 Mar 2026 12:14:00 GMT | Lab Walkthrough: User Role Controlled by Request Parameter | Ayeshaaghafoor | [Read More](https://medium.com/p/25bcca1404ad) |
 | Fri, 27 Mar 2026 12:10:13 GMT | IoT Pentesting: 12 Devices You Can Hack in 2026 — A Practical Guide for Ethical Hackers | Very Lazy Tech | [Read More](https://medium.com/p/57ef53332fcd) |
 | Fri, 27 Mar 2026 12:08:15 GMT | Deepfake Scams: The New Face of Social Engineering in India | BHARATH M R-RM 21RM914 | [Read More](https://medium.com/p/626c1b2667e9) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 10:01:01 GMT | Why Auditors Quietly Appreciate Automated Tools | Gaurav Shukla | [Read More](https://medium.com/p/a167656cdd78) |
 | Fri, 27 Mar 2026 09:56:12 GMT | I Find Hidden APIs Before I Even Touch Burp Suite | ghostyjoe | [Read More](https://medium.com/p/266361142f78) |
 | Fri, 27 Mar 2026 09:55:26 GMT | SQL Injection UNION Attack: Retrieving Data from Other Tables-PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/7e4ca8d41207) |
-| Fri, 27 Mar 2026 09:53:45 GMT | Небольшая шпаргалка по Vue.js + Vite | Chernousov Anton | [Read More](https://medium.com/p/2132aba1820f) |
-| Fri, 27 Mar 2026 09:52:52 GMT | IPTV Premium Service: Ultimate Guide to Unlimited Streaming | Iptvsouq | [Read More](https://medium.com/p/14753b9011b7) |
-| Fri, 27 Mar 2026 09:50:49 GMT | Threatcop Is Now Certified by the Texas DIR. Here Is Why That Matters More Than You Think. | threatcop | [Read More](https://medium.com/p/2347906ebdfe) |
-| Fri, 27 Mar 2026 09:37:25 GMT | Behind the Breach:Deloitte 2017 Breach | Dorathy Christopher | [Read More](https://medium.com/p/fca8012a55f1) |
-| Fri, 27 Mar 2026 09:35:40 GMT | Digital Forensics | Justin Randy Hartono | [Read More](https://medium.com/p/a3db77336b3f) |
-| Fri, 27 Mar 2026 09:23:32 GMT | Cyber Security Services Isle of Man: Smart Protection with Reliable IT Solutions | Just Technology Consulting Ltd | [Read More](https://medium.com/p/c938276619cf) |
-| Fri, 27 Mar 2026 09:22:48 GMT | From Rejection to CVE: My Journey Discovering a Wi-Fi Credential Leak in a Tuya IoT Device (CB3L) | Aaronjjose | [Read More](https://medium.com/p/a7f31ff736d1) |
-| Fri, 27 Mar 2026 09:19:06 GMT | How Vallot Helps You Manage Environment Variables Without Storing Plain-Text Secrets | SOVANNARO | [Read More](https://medium.com/p/6bcb081441de) |
-| Fri, 27 Mar 2026 09:12:51 GMT | Transforming OSWAN with SD-WAN: Building a Secure & Scalable Government Network | Omnilink Technology | [Read More](https://medium.com/p/48ad56d2f374) |
-| Fri, 27 Mar 2026 09:11:10 GMT | How to address the challenges of arbitration involving crypto-assets ? | Sébastien Martin | [Read More](https://medium.com/p/27561e8efa76) |
-| Fri, 27 Mar 2026 09:10:23 GMT | Why Big Tech Demands Automated Snyk & SonarQube Scans (And How to Setup in 5 Mins) | Pau Dang | [Read More](https://medium.com/p/6f80a2cfc1b0) |
-| Fri, 27 Mar 2026 08:56:55 GMT | PicoCTF — Hidden Cipher 1 Writeup | Spandhan Panta | [Read More](https://medium.com/p/07bca6648827) |
-| Fri, 27 Mar 2026 08:47:29 GMT | How I Started Learning Cybersecurity (And What I Did Wrong) | Gechsec | [Read More](https://medium.com/p/9edd678698a2) |
-| Fri, 27 Mar 2026 08:43:22 GMT | Zero Trust Security: Why It’s the Future of Cyber Defense | RamsWritings | [Read More](https://medium.com/p/743f6ba74dcb) |
-| Fri, 27 Mar 2026 08:39:58 GMT | Think You’re Too Smart to Get Scammed? Think Again. | Amna Rehan | [Read More](https://medium.com/p/240ae07f01bc) |
-| Fri, 27 Mar 2026 08:31:35 GMT | Why Every Organization Needs a Cloud Security Risk Assessment | Ryan Williamson | [Read More](https://medium.com/p/6220de561842) |
-| Fri, 27 Mar 2026 08:31:23 GMT | Splunk 2 TryHackMe Writeup (Part 2) — BOTS v2 SOC Investigation (300 & 400 Series) | Citadel Cybersec | [Read More](https://medium.com/p/62c933f1a0fe) |
-| Fri, 27 Mar 2026 08:28:46 GMT | eJPT  System-Host Based Attacks CTF 1 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/03a927fd19fc) |
-| Fri, 27 Mar 2026 08:23:15 GMT | Automation Series: Theory of Implementing AI in Risk Management | Umar Farouk | [Read More](https://medium.com/p/12aeb584c15e) |
-| Fri, 27 Mar 2026 08:20:13 GMT | Claude Mythos : Leaked post from Anthropic on the most advanced models | Nikhil | [Read More](https://medium.com/p/2fe0712dc9f6) |
-| Fri, 27 Mar 2026 08:16:54 GMT | The Foxhole and the Fire | Ozan Ozkara | [Read More](https://medium.com/p/60d5947b0a1e) |
-| Fri, 27 Mar 2026 08:06:30 GMT | The Dark Truth About “Free Software” | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/71c08669f17a) |
-| Fri, 27 Mar 2026 08:00:22 GMT | I Almost Exposed My Client’s Data Using AI Tools (And You Might Be Too) | Irfanullah | [Read More](https://medium.com/p/e118edfc3a14) |
-| Fri, 27 Mar 2026 08:00:06 GMT | Patrolling with Purpose: The Story of Smart Mobile Security & Rapid Response Protection | Grdsnscrt | [Read More](https://medium.com/p/f98da8a1540e) |
