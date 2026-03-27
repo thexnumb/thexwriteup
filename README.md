@@ -12,6 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 04:59:44 GMT | 4 LLM Gateway Alternatives to Consider After the LiteLLM Supply Chain Attack | Pranay Batta | [Read More](https://medium.com/p/24ee38835355) |
+| Fri, 27 Mar 2026 04:59:39 GMT | Critical Admin Access Vulnerability
+on NASA’s .nasa.gov Subdomain | Aashutosh devkota | [Read More](https://medium.com/p/0586a00ce5f0) |
+| Fri, 27 Mar 2026 04:56:33 GMT | Why You Should Start Using a Password Manager Today (And How They Actually Work) | Sam Writes Security | [Read More](https://medium.com/p/c995951276c6) |
+| Fri, 27 Mar 2026 04:53:27 GMT | The LiteLLM Security Alert: How One Popular Tool Exposed Millions of Secrets | Rajes Reddy | [Read More](https://medium.com/p/ce44241a5e6e) |
+| Fri, 27 Mar 2026 04:48:31 GMT | ¿Era un mejor hacker sin la IA? | 1v0ot | [Read More](https://medium.com/p/cb0f3c222007) |
+| Fri, 27 Mar 2026 04:44:33 GMT | How Weak Password Practices Continue to Expose Corporations to Cyber Attacks | Sanista Ramphal | [Read More](https://medium.com/p/e97610f6f6d9) |
+| Fri, 27 Mar 2026 04:42:50 GMT | Why Application Security Is No Longer Optional in 2026 | Digital Defense | [Read More](https://medium.com/p/a96e6b754586) |
+| Fri, 27 Mar 2026 04:35:42 GMT | Common Network Vulnerabilities Beginners Should Understand (Bonus)— Day 18 | 0xSmit | [Read More](https://medium.com/p/bee6ceee4f43) |
+| Fri, 27 Mar 2026 04:35:37 GMT | I Tried Sending Anonymous Emails — Here’s What Actually Works (And What Doesn’t) | Warren Smith | [Read More](https://medium.com/p/375d48707adf) |
+| Fri, 27 Mar 2026 04:31:02 GMT | Prompt Injection: The Security Flaw Hidden in Plain Sight | Prathamesh Raut | [Read More](https://medium.com/p/5828fc1b7345) |
+| Fri, 27 Mar 2026 04:25:52 GMT | The LiteLLM Supply Chain Attack Explained: What Happened, Who’s Affected, and What to Do Now | Kuboid Secure Layer | [Read More](https://medium.com/p/0e200a8254f6) |
+| Fri, 27 Mar 2026 04:22:10 GMT | What If the Thing That Needs Protecting Is You? | Younos Nazarian | [Read More](https://medium.com/p/7c32aff4dec2) |
+| Fri, 27 Mar 2026 04:16:31 GMT | Made a Web Based CTF Site | Aaronashley | [Read More](https://medium.com/p/e6d811db5e46) |
+| Fri, 27 Mar 2026 04:11:09 GMT | Basic Threat Hunting Playbooks Every Beginner Should Know | Paritosh | [Read More](https://medium.com/p/46bf67a2ef70) |
+| Fri, 27 Mar 2026 04:08:01 GMT | FastAPI Security Made Easy: JWT, OAuth2, CORS, Rate-Limiting, and HTTPS | Pravin | [Read More](https://medium.com/p/4c1130ee5a9f) |
+| Fri, 27 Mar 2026 04:03:01 GMT | The Expansion of Brazil’s PCC and the Challenge of Identifying Its Members Abroad | Alessandro Nunes Pereira | [Read More](https://medium.com/p/7e3b814fff9a) |
+| Fri, 27 Mar 2026 04:00:05 GMT | Social, Mobile, Analytics, and Cloud (SMAC) | Jerry Grzegorzek (SuperBusinessManager.com) | [Read More](https://medium.com/p/19684f805fa4) |
+| Fri, 27 Mar 2026 03:43:20 GMT | Reentrancy Vulnerability Drains Entire Pool | 0x9527 | [Read More](https://medium.com/p/4ef0b1c5e07f) |
+| Fri, 27 Mar 2026 03:41:00 GMT | Next-Gen SIEM in Modern SOC Operations | NetWitness | [Read More](https://medium.com/p/f5c854c24433) |
+| Fri, 27 Mar 2026 03:39:50 GMT | Bleeding Edge or Bleeding Heart? The Hilarious Horror of Using Latest-Version Software | Harsh Dadiya | [Read More](https://medium.com/p/da0c6fd24c88) |
+| Fri, 27 Mar 2026 03:38:44 GMT | Online Harassment / cyber bulling | Simi Rose | [Read More](https://medium.com/p/83bb9ac00a82) |
+| Fri, 27 Mar 2026 03:37:42 GMT | Azure Blob Storage Misconfigurations: Attacker’s Gateway to Data | Avyukt Security | [Read More](https://medium.com/p/b7d8e957440e) |
+| Fri, 27 Mar 2026 03:37:31 GMT | The ongoing Israel-Palestine conflict has created a horrific reality for the people of Palestine, a… | Simi Rose | [Read More](https://medium.com/p/dd6d6277ca08) |
+| Fri, 27 Mar 2026 03:34:08 GMT | Lab: Exploiting LLM APIs with excessive agency | Deleonaguilarjosue | [Read More](https://medium.com/p/3b2da6d28285) |
+| Fri, 27 Mar 2026 03:29:10 GMT | TryHackMe — File Inclusion (Walkthrough) | Hudson Lois Marcus | [Read More](https://medium.com/p/3f688fc945cf) |
+| Fri, 27 Mar 2026 03:24:09 GMT | The Fluent Teacher Who Couldn’t Order A Coffee | PassionForLanguages | [Read More](https://medium.com/p/0d9404356ace) |
+| Fri, 27 Mar 2026 03:10:36 GMT | How to Password Protect a PDF for Free (AES-256, No Desktop App) | Shaishavap | [Read More](https://medium.com/p/00a9439cf6b8) |
+| Fri, 27 Mar 2026 03:09:02 GMT | VulnHub DC-7 Walkthrough: Advanced Drupal Exploitation | Kalash Kundaliya | [Read More](https://medium.com/p/cb85338e6352) |
+| Fri, 27 Mar 2026 03:05:16 GMT | “Roadmap Belajar Cyber Security Paling Seru: Lewat Capture The Flag” | Ahmat Prayoga Sembiring | [Read More](https://medium.com/p/4910ccdd22a9) |
 | Fri, 27 Mar 2026 02:17:39 GMT | Weekly Threat Intelligence Report 23 Mar 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/649b1112e60b) |
 | Fri, 27 Mar 2026 02:13:55 GMT | 2025 Information and Communications Industry Cyber Threat Landscape | NSHC ThreatRecon Team | [Read More](https://medium.com/p/aaffaa8d13c2) |
 | Fri, 27 Mar 2026 02:13:23 GMT | Decrypt Sophos SafeStore qurantined file | Alessandrolupini | [Read More](https://medium.com/p/f2dce42f8af0) |
@@ -39,6 +69,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Mar 2026 22:58:00 GMT | LEARNING TO THINK LIKE AN ATTACKER: MITRE ATT&CK (TryHackMe) | Orem Gitonga | [Read More](https://medium.com/p/73e507b96d01) |
 | Thu, 26 Mar 2026 22:43:41 GMT | Hardening Básico — Part 02 — System Services — XBox | Jordano Mazzoni | [Read More](https://medium.com/p/b8b59aeed586) |
 | Thu, 26 Mar 2026 22:37:47 GMT | V32: A Black Forest Signal is the Mysterious Farsi Numbers Station | James Marinero, MSc, MBA | [Read More](https://medium.com/p/60e46259da9b) |
+| Thu, 26 Mar 2026 22:34:47 GMT | Someone Almost Got Away With It. The LiteLLM Supply Chain Attack, Explained. | Abhinav varma vathadi | [Read More](https://medium.com/p/0828731bee0d) |
 | Thu, 26 Mar 2026 22:29:46 GMT | Phishing Email Analysis: A SOC-Based Investigation Using Open-Source Intelligence Tools | Babatunde David Oluwole | [Read More](https://medium.com/p/cec7a14f9ca5) |
 | Thu, 26 Mar 2026 22:28:42 GMT | Simulating a TCP SYN Flood Attack | Shreya Patil | [Read More](https://medium.com/p/bd2fdcf1e04b) |
 | Thu, 26 Mar 2026 22:27:59 GMT | HTB Academy -API Attacks Skills Assessment | Farouq Hassan | [Read More](https://medium.com/p/fcc527629406) |
@@ -82,33 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Mar 2026 18:49:30 GMT | Post 2 — Harvest Now, Decrypt Later: The Quantum Threat That Already Exists | Leonard Okyere Afeke | [Read More](https://medium.com/p/f335adea189f) |
 | Thu, 26 Mar 2026 18:47:56 GMT | Guide to Secure Your Self-Hosted Stacks like Nginx, SSH, & Vaultwarden with Fail2ban | Nirjas Jakilim | [Read More](https://medium.com/p/6e1a0e65e891) |
 | Thu, 26 Mar 2026 18:47:03 GMT | Defining Similarity Thresholds to Prevent AI Hallucinations in RAG Systems | Ni Ederveen | [Read More](https://medium.com/p/23bb0dfef2ae) |
-| Thu, 26 Mar 2026 18:44:24 GMT | Economics, Information and AI | Renata Barcelos | [Read More](https://medium.com/p/5152e1de6559) |
-| Thu, 26 Mar 2026 18:43:55 GMT | How to Pass CompTIA Security+ SY0–701 on the First Try in 2026 | Rich Chen | [Read More](https://medium.com/p/55dacb35be0f) |
-| Thu, 26 Mar 2026 18:43:40 GMT | The Ultimate Bug Bounty Course: From Zero to Advanced Hacker 5 | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/eede90bf7f84) |
-| Thu, 26 Mar 2026 18:41:00 GMT | The Long Tail of Web3 Vulnerabilities: What Happens After the Headlines Fade | Exploitless | [Read More](https://medium.com/p/e54d55c45c11) |
-| Thu, 26 Mar 2026 18:35:15 GMT | Certificate Pinning Failures and Man-in-the-Middle Attacks - When the Connection Your App Trusts Is… | Rufus Kehinde | [Read More](https://medium.com/p/8c5eefa30c63) |
-| Thu, 26 Mar 2026 18:33:45 GMT | From Recon to Critical: Finding an Unauthenticated Security Dashboard ($1895 Bug Bounty) | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/247cb07c5568) |
-| Thu, 26 Mar 2026 18:31:18 GMT | Cyber Security Internship Washington: Build Skills with Real-World Experience | Qriyalowe | [Read More](https://medium.com/p/e2b02fb7505f) |
-| Thu, 26 Mar 2026 18:30:23 GMT | IoT in Utilities: A Game‑Changer for Energy Efficiency, Reliability, and Modern Infrastructure | tanisha khiara | [Read More](https://medium.com/p/a2387ea52bc6) |
-| Thu, 26 Mar 2026 18:28:24 GMT | Bypassing Email Verification in Node.js with a Simple Logic Flaw | Youssef Ezzat | [Read More](https://medium.com/p/1591da4eb7b7) |
-| Thu, 26 Mar 2026 18:24:49 GMT | Understanding Wireless Networking & Wi-Fi Security: How Modern Connectivity Works | Ndu | [Read More](https://medium.com/p/280b629029e3) |
-| Thu, 26 Mar 2026 18:22:21 GMT | CVE-2025–4123 Grafana Open Redirect & SSRF — Full PoC — CVSS 7.6 HIGH | Dharanis | [Read More](https://medium.com/p/8a61c7fd675c) |
-| Thu, 26 Mar 2026 18:07:25 GMT | Your sensitivity is only a weakness in the wrong place. | Ana Caggiano | [Read More](https://medium.com/p/b94cfa8b0385) |
-| Thu, 26 Mar 2026 18:07:17 GMT | The power of “role”: “admin” | Deepanshu Deep | [Read More](https://medium.com/p/c84cfeab2333) |
-| Thu, 26 Mar 2026 18:06:58 GMT | The Hidden Attack Surface of APIs in Modern Systems | Can Akkaya | [Read More](https://medium.com/p/010bc6d2f8c5) |
-| Thu, 26 Mar 2026 18:06:00 GMT | Stop Storing MQTT Passwords — Use OAuth 2.0 With Keycloak Instead | Florian Röser | [Read More](https://medium.com/p/fa7b11e618b9) |
-| Thu, 26 Mar 2026 18:05:47 GMT | The Comprehensive Framework for Engineering Leadership: What It Really Takes to Lead a Tech Team | Khizar Ali | [Read More](https://medium.com/p/c4e6b01cf48a) |
-| Thu, 26 Mar 2026 18:04:46 GMT | Your Employees Are Drowning in Information. ServiceNow’s AI Search Might Be the Lifeline. | GOHAR | [Read More](https://medium.com/p/7baf26d815ed) |
-| Thu, 26 Mar 2026 17:54:04 GMT | The Compliance Industry Has a Trust Problem. Here’s How We Fix It. | Sasha Sinkevich | [Read More](https://medium.com/p/c04150cf1d74) |
-| Thu, 26 Mar 2026 17:53:03 GMT | I Used 4G for Years, Then Switched to 5G — The Real Difference in Daily Life | creative vision | [Read More](https://medium.com/p/bf1f2122bfd0) |
-| Thu, 26 Mar 2026 17:47:17 GMT | Hardening Nginx: A Practical Guide to Modular Security Configuration | Nirjas Jakilim | [Read More](https://medium.com/p/33c9621021d2) |
-| Thu, 26 Mar 2026 17:37:28 GMT | Don’t Fall Victim to AI Voice Cloning Scams: What You Need to Know | MrKarthikKN | [Read More](https://medium.com/p/72bf9c273010) |
-| Thu, 26 Mar 2026 17:27:18 GMT | A Critical Langflow Vulnerability Was Weaponized Within 20 Hours of Disclosure. | Sohail Saifi | [Read More](https://medium.com/p/5eca90114027) |
-| Thu, 26 Mar 2026 17:21:36 GMT | Why Cybersecurity Needs Storytellers, Not Just Coders | Srishti Kumari | [Read More](https://medium.com/p/37ce9abe6cc8) |
-| Thu, 26 Mar 2026 17:19:41 GMT | OpenClaw AI Agent Flaws: When Prompt Injection Becomes a Data Exfiltration Engine | Meravytes | [Read More](https://medium.com/p/375d92348ca0) |
-| Thu, 26 Mar 2026 17:17:23 GMT | Venus Protocol, IoTeX, and SOF Token Exploits: $6.65M | Olympix | [Read More](https://medium.com/p/5c7c99d2530d) |
-| Thu, 26 Mar 2026 17:16:21 GMT | Kali Linux 2026.1 is OUT! | campuscryte | [Read More](https://medium.com/p/e9302f12cec0) |
-| Thu, 26 Mar 2026 17:16:15 GMT | How OSINT Investigators Track Disinformation Campaigns | SSarswat | [Read More](https://medium.com/p/129f9594989b) |
-| Thu, 26 Mar 2026 17:16:00 GMT | How I Fix the “App Is Damaged and Cannot Be Opened” Error on Mac | Jenny Zeng | [Read More](https://medium.com/p/152463406737) |
-| Thu, 26 Mar 2026 17:15:56 GMT | IDOR Leading to Unauthorized Video Deletion via Video ID Disclosure | Peter S Halem | [Read More](https://medium.com/p/4fc54a6088ad) |
-| Thu, 26 Mar 2026 17:14:52 GMT | Why Every Cybersecurity Beginner Must Learn Nmap First | Cyber-X Protocol | [Read More](https://medium.com/p/2b8a4f416cd1) |
