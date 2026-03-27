@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 06:37:43 GMT | When the Watchman is Compromised: Deconstructing the Trivy Supply Chain Attack | Rommel Jay Gadil | [Read More](https://medium.com/p/67c2e7f6a109) |
+| Fri, 27 Mar 2026 06:32:52 GMT | 드라이버 개발자도 몰랐던 레지스트리의 두 얼굴 — 흑백 레지스트리 | Jung-Hyun Choi | [Read More](https://medium.com/p/b371b9f809ed) |
+| Fri, 27 Mar 2026 06:28:46 GMT | How I Found a Vulnerability at NASA at Age 13 | Divya Prakash | [Read More](https://medium.com/p/3867333f16a1) |
+| Fri, 27 Mar 2026 06:25:10 GMT | Hypervisor Cracks Explained:Denuvo Bypass, VBS Disable, FitGirl & DODI Repacks Explained | Ankit Nayak | [Read More](https://medium.com/p/ee1006c0fac1) |
+| Fri, 27 Mar 2026 06:22:50 GMT | AI Panic vs. Skill Evolution Reality | Vijay Kumar Gupta | [Read More](https://medium.com/p/c2701d566ab9) |
+| Fri, 27 Mar 2026 06:22:02 GMT | The Encryption You Trust Right Now Is Already Dead — Quantum Hackers Just Don’t Know It Yet | Bugitrix | [Read More](https://medium.com/p/2e3a8def6b2e) |
+| Fri, 27 Mar 2026 06:11:56 GMT | RedWeaver: Building an Autonomous AI-Powered Penetration Testing Platform | Ori Ashkenazi | [Read More](https://medium.com/p/61209861b88e) |
+| Fri, 27 Mar 2026 06:09:02 GMT | CI/CD Pipeline Exploitation: 10 Vulnerabilities Every Pentester Should Check (With Real Examples) | Very Lazy Tech | [Read More](https://medium.com/p/38f9d9359dbd) |
+| Fri, 27 Mar 2026 06:08:39 GMT | India Cybersecurity Market 2026–2034 - Trends, Growth and Forecast | Pragati Bharadwaj | [Read More](https://medium.com/p/647b9dac32f6) |
+| Fri, 27 Mar 2026 06:03:34 GMT | Beyond the Firewall: Why Identity is the Only True Perimeter in 2026 | Dilshan Christopher | [Read More](https://medium.com/p/e7de25d1701f) |
+| Fri, 27 Mar 2026 06:03:30 GMT | How a $62,500 Self-XSS Became a Full Facebook and Instagram Account Takeover — A Review of Youssef… | Vivek PS | [Read More](https://medium.com/p/2d574854a3ef) |
+| Fri, 27 Mar 2026 06:01:39 GMT | Your app works perfectly… until the browser screams CORS ERROR  Time to understand what’s… | Lakshitha Samod | [Read More](https://medium.com/p/5dafbaae5341) |
+| Fri, 27 Mar 2026 06:01:00 GMT | Teknik Verileri Finansal Olarak Okuyabiliyor Musunuz? | ODYA Teknoloji | [Read More](https://medium.com/p/b189e5104c28) |
+| Fri, 27 Mar 2026 05:57:51 GMT | Which companies offer AI security certification programs suitable for beginners? | 101 BlockChains | [Read More](https://medium.com/p/fc854767c0a2) |
+| Fri, 27 Mar 2026 05:55:41 GMT | 28bet có an toàn không? Nên kiểm tra gì trước khi truy cập | 報數十一員 | [Read More](https://medium.com/p/7d0b52e3ad19) |
+| Fri, 27 Mar 2026 05:53:03 GMT | Kubernetes Registry Mirror Authentication: The Secret Weapon for Multi-Tenant Security | Ramesh | [Read More](https://medium.com/p/b938bfd8d73e) |
+| Fri, 27 Mar 2026 05:45:33 GMT | The Night Everything Changed at a Construction Site in Sydney | Australiasf Marketing | [Read More](https://medium.com/p/36d811eff283) |
+| Fri, 27 Mar 2026 05:42:33 GMT | SPARK Matrix™: Cloud Security Gateway Software | Umangp | [Read More](https://medium.com/p/5401924f4c06) |
+| Fri, 27 Mar 2026 05:36:38 GMT | AVG Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/d6c09860a8a0) |
+| Fri, 27 Mar 2026 05:31:24 GMT | Yahoo Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/2852865fbe6e) |
+| Fri, 27 Mar 2026 05:26:28 GMT | AVG Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/ef62ca1db04f) |
+| Fri, 27 Mar 2026 05:26:03 GMT | Middle East & Africa Penetration Testing Market Size Projected to Hit $0.37 billion by 2031 | Sheetalbhusari | [Read More](https://medium.com/p/a0cd9db5af36) |
+| Fri, 27 Mar 2026 05:17:53 GMT | From Death by Bullet Points to Standing Ovation: How to Create a Technical PowerPoint Presentation… | Sr | [Read More](https://medium.com/p/6d9308f8c1df) |
 | Fri, 27 Mar 2026 04:59:44 GMT | 4 LLM Gateway Alternatives to Consider After the LiteLLM Supply Chain Attack | Pranay Batta | [Read More](https://medium.com/p/24ee38835355) |
 | Fri, 27 Mar 2026 04:59:39 GMT | Critical Admin Access Vulnerability
 on NASA’s .nasa.gov Subdomain | Aashutosh devkota | [Read More](https://medium.com/p/0586a00ce5f0) |
@@ -90,26 +113,3 @@ on NASA’s .nasa.gov Subdomain | Aashutosh devkota | [Read More](https://medium
 | Thu, 26 Mar 2026 21:02:52 GMT | Why Point in Time Active Directory Scans Miss Active Directory Attacks | GuardiansoftheDirectory | [Read More](https://medium.com/p/aab3cbb6107b) |
 | Thu, 26 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 35: Security Marathon Day 2 | Maximillian Rueda | [Read More](https://medium.com/p/874d847350ee) |
 | Thu, 26 Mar 2026 20:55:04 GMT | Least privilege as a service for Azure deployments — part 1 | Jonny Diamond | [Read More](https://medium.com/p/4374f70c75bd) |
-| Thu, 26 Mar 2026 20:44:25 GMT | Vulnhub digitalworld.local: snakeoil | Luke Gearty | [Read More](https://medium.com/p/327c5acc9f48) |
-| Thu, 26 Mar 2026 20:43:55 GMT | How Security Analysts Investigate Phishing Emails | Jorge Ruiz | [Read More](https://medium.com/p/e931ce399a91) |
-| Thu, 26 Mar 2026 20:25:32 GMT | I Tried to Trick an AI Agent. Here’s What Happened. | Sumit Giri | [Read More](https://medium.com/p/a089cb4a975b) |
-| Thu, 26 Mar 2026 20:14:10 GMT | Indirect Prompt Injection: The Attack Most AI Teams Are Shipping to Production | Kartikeya Mishra | [Read More](https://medium.com/p/312fa205f36a) |
-| Thu, 26 Mar 2026 19:41:43 GMT | File Upload Bypass to Remote Code Execution (RCE) HEXAPHP | Aland Dlshad (HexaPhp) | [Read More](https://medium.com/p/cbb7e5f09175) |
-| Thu, 26 Mar 2026 19:39:15 GMT | The 10-Line File That Could Quietly Influence Every Project You Touch | Saket S | [Read More](https://medium.com/p/869f72559c85) |
-| Thu, 26 Mar 2026 19:38:07 GMT | Adeus Port Forwarding: Como usei Cloudflare Tunnels para acessar meu Proxmox com segurança | Wellington Lima | [Read More](https://medium.com/p/3bbf5cd88045) |
-| Thu, 26 Mar 2026 19:37:34 GMT | Day 3: Jailbreaking LLMs — Breaking AI Safety Systems | Nisarg Patel | [Read More](https://medium.com/p/a9f9b19ebf25) |
-| Thu, 26 Mar 2026 19:36:00 GMT | Exchange Online Monitoring - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/35d6be3d0698) |
-| Thu, 26 Mar 2026 19:32:29 GMT | Prompt Injection Is Real. “Nothing Works” Is Not. | Jim Grusendorf | [Read More](https://medium.com/p/b95a7172d652) |
-| Thu, 26 Mar 2026 19:31:56 GMT | SOC Workbooks and Lookups | Taylor Wavra | [Read More](https://medium.com/p/dd40e22c0279) |
-| Thu, 26 Mar 2026 19:31:32 GMT | Coffee with eWPTx Exam: 18 Hours, 45 Questions | rihanna0xf | [Read More](https://medium.com/p/905185fd04fd) |
-| Thu, 26 Mar 2026 19:24:53 GMT | Part 2: The Whiteboard, the Workflow, and the Win | Venkat | [Read More](https://medium.com/p/c4c91572a619) |
-| Thu, 26 Mar 2026 19:17:31 GMT | LEDGER - TryHackMe -Hard - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/1ba6e76c7459) |
-| Thu, 26 Mar 2026 19:14:28 GMT | Let OT Be. Modern Security Is What’s Putting It at Risk. | BlastWave | [Read More](https://medium.com/p/6dc616e45134) |
-| Thu, 26 Mar 2026 19:13:10 GMT | Why Security Matters in Digital Asset Trading Infrastructure | Future Exchange | [Read More](https://medium.com/p/72f1d19aaded) |
-| Thu, 26 Mar 2026 19:07:38 GMT | Crack The Hash Level 2 | Ahmed Elbadry | [Read More](https://medium.com/p/565ad17b404e) |
-| Thu, 26 Mar 2026 19:06:43 GMT | TryHackMe - Conti — Walk Through | ocharek | [Read More](https://medium.com/p/747ed3d76cd8) |
-| Thu, 26 Mar 2026 19:06:08 GMT | The Ultimate Bug Bounty Course: From Zero to Advanced Hacker 6 | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/b04ffdb9278f) |
-| Thu, 26 Mar 2026 18:56:09 GMT | Wifi Hacking 101 TryHackMe Walkthrough | Dipesh Fuse | [Read More](https://medium.com/p/d1078b3c47d6) |
-| Thu, 26 Mar 2026 18:49:30 GMT | Post 2 — Harvest Now, Decrypt Later: The Quantum Threat That Already Exists | Leonard Okyere Afeke | [Read More](https://medium.com/p/f335adea189f) |
-| Thu, 26 Mar 2026 18:47:56 GMT | Guide to Secure Your Self-Hosted Stacks like Nginx, SSH, & Vaultwarden with Fail2ban | Nirjas Jakilim | [Read More](https://medium.com/p/6e1a0e65e891) |
-| Thu, 26 Mar 2026 18:47:03 GMT | Defining Similarity Thresholds to Prevent AI Hallucinations in RAG Systems | Ni Ederveen | [Read More](https://medium.com/p/23bb0dfef2ae) |
