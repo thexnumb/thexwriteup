@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 23:32:01 GMT | AI Is Not Replacing Cybersecurity Jobs. But It Is Changing Which Ones Actually Matter. | Jbird | [Read More](https://medium.com/p/645372af1c53) |
+| Fri, 27 Mar 2026 23:30:40 GMT | When Is Panic Hardware Required? A Practical Guide for Commercial Projects | PRL Style | [Read More](https://medium.com/p/7d5d08d27d4f) |
+| Fri, 27 Mar 2026 23:26:13 GMT | SSL Pinning in Mobile Applications: From Threat Vectors to a Dynamic Solution | Denis | [Read More](https://medium.com/p/a57f46ca0f2c) |
+| Fri, 27 Mar 2026 23:19:40 GMT | Hutch -windows Walkthrough (oscp-active directory) | cyber_public_school | [Read More](https://medium.com/p/d1598c67f1cf) |
+| Fri, 27 Mar 2026 23:18:58 GMT | Web Exploitation with PicoCTF: Broken Access Control & Server-Side Template Injection | marwoevsky | [Read More](https://medium.com/p/cbb1f0269350) |
+| Fri, 27 Mar 2026 23:16:45 GMT | Iran’s Cyber Retaliation Hits Home: Hackers Linked to Tehran Breach FBI Director Kash Patel’s… | Iram Ahmed | [Read More](https://medium.com/p/d5856f1a2568) |
+| Fri, 27 Mar 2026 23:14:37 GMT | Risk/Reward | Marshall Jung | [Read More](https://medium.com/p/c7db51a0ad3b) |
+| Fri, 27 Mar 2026 23:13:46 GMT | IPv6 | Progsky | [Read More](https://medium.com/p/43225b7f2750) |
+| Fri, 27 Mar 2026 22:49:13 GMT | Cybersecurity in 2026: The Trends That Touch Everyone, Not Just IT Teams | Oluwagbenga Ogungbemi | [Read More](https://medium.com/p/34754f89ad0a) |
+| Fri, 27 Mar 2026 22:45:21 GMT | whoami : My First Medium Post | Choubikhoussam | [Read More](https://medium.com/p/f7d457b53787) |
+| Fri, 27 Mar 2026 22:39:49 GMT | Digital Forensics with PicoCTF: Metadata, Steganography & Encodings | marwoevsky | [Read More](https://medium.com/p/fdefcd5bef60) |
 | Fri, 27 Mar 2026 22:27:31 GMT | HELLO : Aj main ap logon lo “5 CYBER SECURITY TOOLS” btanay wala hoon or unke “BASIC USES” kay bhi. | Saim Chiriya | [Read More](https://medium.com/p/3e2dae138cf9) |
 | Fri, 27 Mar 2026 22:24:44 GMT | Prompt-Layer Recommendation Manipulation: The Next Supply‑Chain Vector Security Teams Need to Track | Lugo Jr Misael | [Read More](https://medium.com/p/13184b531184) |
 | Fri, 27 Mar 2026 22:21:00 GMT | Imposter Syndrome in Cybersecurity: Why You Know More Than You Think | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/7cfb9d3868a6) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 16:45:59 GMT | The Real Reason You Can’t Take Action (And No, It’s Not Laziness) | Mounir Boudeken | [Read More](https://medium.com/p/b28addd6e156) |
 | Fri, 27 Mar 2026 16:43:50 GMT | Hybrid Cloud SOC Lab: Detecting AWS IAM Abuse with Wazuh | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/b53c4bac5880) |
 | Fri, 27 Mar 2026 16:35:10 GMT | Too Powerful to Release? Inside the Claude Mythos Leak That’s Quietly Alarming the AI Industry | Shubham Choudhary | [Read More](https://medium.com/p/48ce61795493) |
-| Fri, 27 Mar 2026 16:34:55 GMT | When a Hacked Door Becomes a Breach | Teona | [Read More](https://medium.com/p/25e0cc6b8418) |
-| Fri, 27 Mar 2026 16:32:24 GMT | I am love, and that is my ache | Muskan Priya | [Read More](https://medium.com/p/cd0f4f029728) |
-| Fri, 27 Mar 2026 16:30:41 GMT | Six Machines Down: Hunting BlackSuit Ransomware Through Splunk Logs | Ezechi Jeremiah Chigozie | [Read More](https://medium.com/p/cbab3e166842) |
-| Fri, 27 Mar 2026 16:27:11 GMT | CMMC Levels Explained: Why Most Contractors Misunderstand the Path From Level 1 to Level 5 | Siddiquiazeem | [Read More](https://medium.com/p/8b2b3b81d811) |
-| Fri, 27 Mar 2026 16:23:20 GMT | Getting Started with Your First Homelab: A Practical Guide for IT Beginners | Henry Leenstra | [Read More](https://medium.com/p/acf125575b34) |
-| Fri, 27 Mar 2026 16:22:16 GMT | Understanding the Linux File System — A Beginner-Friendly Guide | R1punjay_Singh | [Read More](https://medium.com/p/9e75a5490056) |
-| Fri, 27 Mar 2026 16:20:06 GMT | What Are Residential Proxies? (Simple Explanation for Beginners) | Redd | [Read More](https://medium.com/p/3912eb63e308) |
-| Fri, 27 Mar 2026 16:19:41 GMT | Penny for Your Thoughts — Stress | The Witness | [Read More](https://medium.com/p/99e6d3f77ca9) |
-| Fri, 27 Mar 2026 16:14:22 GMT | Week 1 of Offensive Security | Muhammad Uzair | [Read More](https://medium.com/p/8779adcdcf0a) |
-| Fri, 27 Mar 2026 16:14:17 GMT | How Attackers Actually Break Identity Systems | Dr. Shashi Karhail | [Read More](https://medium.com/p/1aac57376f93) |
-| Fri, 27 Mar 2026 16:11:40 GMT | HTTP Request Smuggling Explained: The Hidden Vulnerability Hackers Love✨ - kidnapshadow | Kidnapshadow | [Read More](https://medium.com/p/4c4e62766111) |
