@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 17:46:39 GMT | # The Cybersecurity Crisis Nobody Is Talking About (And The One Project Solving It) | Sebastien | [Read More](https://medium.com/p/529d9a5cb1a0) |
+| Fri, 27 Mar 2026 17:45:39 GMT | Week 2 of Offensive Security | Muhammad Uzair | [Read More](https://medium.com/p/c565246fc0eb) |
+| Fri, 27 Mar 2026 17:43:18 GMT | Introducing GhostIntel: Your Open-Source OSINT & Reconnaissance Toolkit️ | Ruyynn | [Read More](https://medium.com/p/d95d40eb8e2a) |
+| Fri, 27 Mar 2026 17:41:38 GMT | I Built an AI Agent That Runs Penetration Tests Autonomously — Here’s What I Learned | Krishnendu De | [Read More](https://medium.com/p/714cf252b2de) |
+| Fri, 27 Mar 2026 17:41:03 GMT | Secure File Upload in Go: 7 Attacks on File Upload and How We Mitigated Them | Dmitriy Petrakov | [Read More](https://medium.com/p/ddc4771c03b1) |
+| Fri, 27 Mar 2026 17:36:41 GMT | Cara Menggunakan Teknologi dan Internet dengan Baik dan Bermanfaat | JasminMedia | [Read More](https://medium.com/p/5ecce4741685) |
+| Fri, 27 Mar 2026 17:32:50 GMT | The Silent Threat: How AI Systems Are Becoming the New Attack Surface | Thiyagu Arunachalam | [Read More](https://medium.com/p/4f7b6e6d2ddd) |
+| Fri, 27 Mar 2026 17:30:03 GMT | Report Writing for SOC L2 - TryHackMe Answers | Ryca | [Read More](https://medium.com/p/07ccb9006bc8) |
+| Fri, 27 Mar 2026 17:21:55 GMT | Mobile App Security Testing Guide 2026 Part 2: The Action | mohanrajmdev | [Read More](https://medium.com/p/7639a056e688) |
+| Fri, 27 Mar 2026 17:16:00 GMT | How Darknet Market Reputation Systems Work | Tor BBB | [Read More](https://medium.com/p/9fbb2c7bd2c9) |
+| Fri, 27 Mar 2026 17:14:55 GMT | How Does a Switch Learn MAC Addresses and Create a CAM Table? | Sandunsandeepa | [Read More](https://medium.com/p/b3ec2f0feda7) |
+| Fri, 27 Mar 2026 17:14:45 GMT | Part 4: Beyond Passwords — The Passkey Revolution | Sivavishnu | [Read More](https://medium.com/p/793ea2f291fe) |
+| Fri, 27 Mar 2026 17:12:30 GMT | Cybersecurity Consulting Services: Building a Resilient Digital Defense for Businesses | Nihar | [Read More](https://medium.com/p/a6e4e5c5cd3c) |
+| Fri, 27 Mar 2026 17:04:31 GMT | Cross-Site Scripting (XSS) Explained: How a “Low Severity” Vulnerability Leads to Enterprise… | Err0rr0rre | [Read More](https://medium.com/p/0912288727aa) |
+| Fri, 27 Mar 2026 17:03:00 GMT | How a Routine Security Review Turned Into a Full Supply Chain Risk Discovery | Samantha Mills | [Read More](https://medium.com/p/02cac53fe174) |
+| Fri, 27 Mar 2026 16:58:27 GMT | My week in the trenches: network security, ethical hacking, and a career talk that stuck | AGABA JOSHUA BARUNGI | [Read More](https://medium.com/p/ca1ab68b241f) |
 | Fri, 27 Mar 2026 16:57:17 GMT | Phishing Email Analysis SOC Analyst Guide Part-2 Setting Up Lab. | Vaibhavrajsahu | [Read More](https://medium.com/p/260c8bdc92bf) |
 | Fri, 27 Mar 2026 16:56:43 GMT | From Phish to Persistence: A Threat Hunting Case Study | Enes Cayvarli | [Read More](https://medium.com/p/f0479793fb92) |
 | Fri, 27 Mar 2026 16:55:19 GMT | AI-Red Teaming — As I know it | Mayuresh Joshi | [Read More](https://medium.com/p/db6acd5a7b95) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 12:41:09 GMT | Build Scalable Automation Systems with Expert Workflow Engineers | n8ndevelopers | [Read More](https://medium.com/p/a4e93ded9118) |
 | Fri, 27 Mar 2026 12:40:31 GMT | Living-off-the-Land Attacks: How Adversaries Use Legitimate Tools to Stay Invisible | Cynox Security LLP. | [Read More](https://medium.com/p/d8e0011bade8) |
 | Fri, 27 Mar 2026 12:35:04 GMT | Kingdom of Saudi Arabia Cybersecurity Market Key Growth Drivers, Challenges, Leading Key Players… | Technology Geek | [Read More](https://medium.com/p/9de3ebc93b4c) |
-| Fri, 27 Mar 2026 12:21:36 GMT | The Broken Loop: When Cybersecurity and Auditing Don’t Talk | Sumit Jain | [Read More](https://medium.com/p/ea85ee12e071) |
-| Fri, 27 Mar 2026 12:21:09 GMT | Automating Bug Bounty Workflows Using Claude AI | Pentester Club | [Read More](https://medium.com/p/6ab4f7dfeae2) |
-| Fri, 27 Mar 2026 12:19:47 GMT | The Windows Security Journey — RDP Public Mode | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c4f3125c0293) |
-| Fri, 27 Mar 2026 12:18:12 GMT | The Thing We Don’t Talk About — But Carries the Most Weight | Bernard Boey | [Read More](https://medium.com/p/0c59ea4de12d) |
-| Fri, 27 Mar 2026 12:17:49 GMT | The Social Engineering Evolution | Star Petal AI Solutions | [Read More](https://medium.com/p/63bc3ec898b5) |
-| Fri, 27 Mar 2026 12:16:05 GMT | Yuan113 -HackMyVM Writeup | Cillia | [Read More](https://medium.com/p/90fe7d682fc3) |
-| Fri, 27 Mar 2026 12:16:02 GMT | Why Hiding Your Admin Panel Isn’t Enough: A Lesson in Predictable Secrets | Ayeshaaghafoor | [Read More](https://medium.com/p/e2a91f266a9f) |
-| Fri, 27 Mar 2026 12:15:09 GMT | How Do We Verify What’s Real in the AI Era | Tanmay Bansal | [Read More](https://medium.com/p/684a94aa59cb) |
-| Fri, 27 Mar 2026 12:14:00 GMT | Lab Walkthrough: User Role Controlled by Request Parameter | Ayeshaaghafoor | [Read More](https://medium.com/p/25bcca1404ad) |
-| Fri, 27 Mar 2026 12:10:13 GMT | IoT Pentesting: 12 Devices You Can Hack in 2026 — A Practical Guide for Ethical Hackers | Very Lazy Tech | [Read More](https://medium.com/p/57ef53332fcd) |
-| Fri, 27 Mar 2026 12:08:15 GMT | Deepfake Scams: The New Face of Social Engineering in India | BHARATH M R-RM 21RM914 | [Read More](https://medium.com/p/626c1b2667e9) |
-| Fri, 27 Mar 2026 11:58:55 GMT | Why Beginners Fail in Bug Bounty (And How to Fix It in 2026) | Sukhveer Singh | [Read More](https://medium.com/p/456bb7dd4f8d) |
-| Fri, 27 Mar 2026 11:57:52 GMT | Otomotivde Bilgi Güvenliği ve TISAX | Cagri Polat | [Read More](https://medium.com/p/accf3815909d) |
-| Fri, 27 Mar 2026 11:48:43 GMT | Suspicious MX Record to Confirmed Phishing Attack | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/69ec85471526) |
-| Fri, 27 Mar 2026 11:35:41 GMT | Nahmstay: The Approach | Nahmstay | [Read More](https://medium.com/p/521bbbbd8c38) |
-| Fri, 27 Mar 2026 11:33:53 GMT | Your Email Address Is More Dangerous Than You Think: How Hackers Use It (and How to Stay Safe) | BumbleBEE | [Read More](https://medium.com/p/4d1c2672284e) |
