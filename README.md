@@ -12,6 +12,35 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 13:39:20 GMT | Once a Quarter, I Walk Into a Business That’s Counting on Me | Luke Appleby | [Read More](https://medium.com/p/54a5e9cca5b3) |
+| Fri, 27 Mar 2026 13:36:49 GMT | The Insurance Gap: Where Businesses Get Caught Out | Ruben Clarke | [Read More](https://medium.com/p/3a2b26a2357d) |
+| Fri, 27 Mar 2026 13:33:15 GMT | Feminine Urge in Me | Asmi | [Read More](https://medium.com/p/bd70911b4378) |
+| Fri, 27 Mar 2026 13:31:42 GMT | Weekly Threat Landscape: Thursday Roundup #1 | Josh Johnson | [Read More](https://medium.com/p/8bb3b980d1fa) |
+| Fri, 27 Mar 2026 13:31:00 GMT | DPDP Act 2023 Explained: India’s Data Protection Law Simplified | Cyber Aries | [Read More](https://medium.com/p/c5f573d7f7fa) |
+| Fri, 27 Mar 2026 13:26:00 GMT | Smart Tips for Choosing a Locksmith in Greenwich, CT - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/a65c0e3145a3) |
+| Fri, 27 Mar 2026 13:25:58 GMT | I Built an Open-Source Tool That Simulates Nation-State Cyberattacks | Kakashi | [Read More](https://medium.com/p/e430e17cba66) |
+| Fri, 27 Mar 2026 13:15:14 GMT | From Key Distribution Problem to Diffi Hellman: A Practical Cryptographic Journey | ShudarsanRegmi | [Read More](https://medium.com/p/cb7999c2b868) |
+| Fri, 27 Mar 2026 13:15:09 GMT | Same Tool, Different Hands | Gaya Kim | [Read More](https://medium.com/p/eb718b9fff5a) |
+| Fri, 27 Mar 2026 13:14:49 GMT | 9‎ What is the most recent technology news? | Miraal Elliott | [Read More](https://medium.com/p/84f1e0ab2951) |
+| Fri, 27 Mar 2026 13:12:01 GMT | How Smart Access Control Software Improves Security | Semieta | [Read More](https://medium.com/p/72e9dd6c9b2b) |
+| Fri, 27 Mar 2026 13:11:15 GMT | From Code to Cloud: Production-Ready Apps on Google Cloud-Part 2 | Renu Khandelwal | [Read More](https://medium.com/p/086aa155b54a) |
+| Fri, 27 Mar 2026 13:09:05 GMT | Investigating with Splunk CTF Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/09ed5823e40e) |
+| Fri, 27 Mar 2026 13:04:36 GMT | Cybersecurity Risks in Virtual and Immersive Environments | Codearies | [Read More](https://medium.com/p/3f7e76545806) |
+| Fri, 27 Mar 2026 13:02:23 GMT | My SC-900 Learning Journey (Day 6) — What I Learned About Zero Trust, PIM, and Identity Protection… | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/9bda4b740377) |
+| Fri, 27 Mar 2026 13:01:03 GMT | Kioptrix Level 4(Kioptrix 1.3) - 04/100 | Veetaragpatil | [Read More](https://medium.com/p/c6477d8efb41) |
+| Fri, 27 Mar 2026 13:01:02 GMT | Linux Firewalls & System Hardening: Building Secure, Maintainable Linux Systems | Secured By Sebastion | [Read More](https://medium.com/p/decf77704676) |
+| Fri, 27 Mar 2026 12:47:34 GMT | Beginner Bug Bounty Roadmap (2026) — Step-by-Step Guide to Start Finding Bugs | Riya Limba | [Read More](https://medium.com/p/7e549f6e2bb9) |
+| Fri, 27 Mar 2026 12:41:09 GMT | Build Scalable Automation Systems with Expert Workflow Engineers | n8ndevelopers | [Read More](https://medium.com/p/a4e93ded9118) |
+| Fri, 27 Mar 2026 12:40:31 GMT | Living-off-the-Land Attacks: How Adversaries Use Legitimate Tools to Stay Invisible | Cynox Security LLP. | [Read More](https://medium.com/p/d8e0011bade8) |
+| Fri, 27 Mar 2026 12:21:36 GMT | The Broken Loop: When Cybersecurity and Auditing Don’t Talk | Sumit Jain | [Read More](https://medium.com/p/ea85ee12e071) |
+| Fri, 27 Mar 2026 12:21:09 GMT | Automating Bug Bounty Workflows Using Claude AI | Pentester Club | [Read More](https://medium.com/p/6ab4f7dfeae2) |
+| Fri, 27 Mar 2026 12:19:47 GMT | The Windows Security Journey — RDP Public Mode | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c4f3125c0293) |
+| Fri, 27 Mar 2026 12:18:12 GMT | The Thing We Don’t Talk About — But Carries the Most Weight | Bernard Boey | [Read More](https://medium.com/p/0c59ea4de12d) |
+| Fri, 27 Mar 2026 12:16:05 GMT | Yuan113 -HackMyVM Writeup | Cillia | [Read More](https://medium.com/p/90fe7d682fc3) |
+| Fri, 27 Mar 2026 12:16:02 GMT | Why Hiding Your Admin Panel Isn’t Enough: A Lesson in Predictable Secrets | Ayeshaaghafoor | [Read More](https://medium.com/p/e2a91f266a9f) |
+| Fri, 27 Mar 2026 12:14:00 GMT | Lab Walkthrough: User Role Controlled by Request Parameter | Ayeshaaghafoor | [Read More](https://medium.com/p/25bcca1404ad) |
+| Fri, 27 Mar 2026 12:10:13 GMT | IoT Pentesting: 12 Devices You Can Hack in 2026 — A Practical Guide for Ethical Hackers | Very Lazy Tech | [Read More](https://medium.com/p/57ef53332fcd) |
+| Fri, 27 Mar 2026 12:08:15 GMT | Deepfake Scams: The New Face of Social Engineering in India | BHARATH M R-RM 21RM914 | [Read More](https://medium.com/p/626c1b2667e9) |
 | Fri, 27 Mar 2026 11:58:55 GMT | Why Beginners Fail in Bug Bounty (And How to Fix It in 2026) | Sukhveer Singh | [Read More](https://medium.com/p/456bb7dd4f8d) |
 | Fri, 27 Mar 2026 11:57:52 GMT | Otomotivde Bilgi Güvenliği ve TISAX | Cagri Polat | [Read More](https://medium.com/p/accf3815909d) |
 | Fri, 27 Mar 2026 11:48:43 GMT | Suspicious MX Record to Confirmed Phishing Attack | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/69ec85471526) |
@@ -83,32 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 08:06:30 GMT | The Dark Truth About “Free Software” | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/71c08669f17a) |
 | Fri, 27 Mar 2026 08:00:22 GMT | I Almost Exposed My Client’s Data Using AI Tools (And You Might Be Too) | Irfanullah | [Read More](https://medium.com/p/e118edfc3a14) |
 | Fri, 27 Mar 2026 08:00:06 GMT | Patrolling with Purpose: The Story of Smart Mobile Security & Rapid Response Protection | Grdsnscrt | [Read More](https://medium.com/p/f98da8a1540e) |
-| Fri, 27 Mar 2026 07:58:07 GMT | Why the Stronger Power Fears War More: The Hidden Logic of the U.S.–Iran Conflict | The World Decoded | [Read More](https://medium.com/p/2ad32fb782fe) |
-| Fri, 27 Mar 2026 07:51:36 GMT | How AI Can Make DevSecOps Truly Secure, Governed, and Compliant | Appar | [Read More](https://medium.com/p/37162caa09b8) |
-| Fri, 27 Mar 2026 07:51:20 GMT | How I Weaponized a Simple PDF Upload and Executed Code on the Target | Cookiebug | [Read More](https://medium.com/p/a22044c28904) |
-| Fri, 27 Mar 2026 07:51:07 GMT | The Day Wireshark Made Me Question My Own Network | Fateyaly | [Read More](https://medium.com/p/bdeaea7fe128) |
-| Fri, 27 Mar 2026 07:50:35 GMT | Top 10 Highest paid Cyber Security jobs in india | cyber security Updates | [Read More](https://medium.com/p/6b2d27450420) |
-| Fri, 27 Mar 2026 07:41:19 GMT | [IT Trends] Even Telegram Isn’t Perfect: Why We Need to Switch to a ‘Zero-Storage’ Messenger | Quantarium | [Read More](https://medium.com/p/cc1871d14cec) |
-| Fri, 27 Mar 2026 07:41:00 GMT | How People Actually Stay Anonymous Online in 2026 (It’s Not What You Think) | Warren Smith | [Read More](https://medium.com/p/58a03258484e) |
-| Fri, 27 Mar 2026 07:39:53 GMT | Telegram Channel Monitor Gets Keyword Scanning and Archive Search | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/1628b4122920) |
-| Fri, 27 Mar 2026 07:38:21 GMT | How Insecure APIs Allow Hackers to Break Subscription Logic and Unlock Premium Features? | Ashik Mohamed ( ashikmd7 ) | [Read More](https://medium.com/p/606dd10fbcff) |
-| Fri, 27 Mar 2026 07:36:33 GMT | Kali Linux 2026.1 Is Here — 8 New Hacking Tools and a Nostalgic BackTrack Mode | Subhan Ali | [Read More](https://medium.com/p/2f36f9846d33) |
-| Fri, 27 Mar 2026 07:34:29 GMT | The Front Door — The NEW Back Door | Jarad DeLorenzo | [Read More](https://medium.com/p/38e41762a476) |
-| Fri, 27 Mar 2026 07:32:22 GMT | วิวัฒนาการของการติดตั้งแอปพลิเคชันนอกสโตร์ (Sideloading)… | Ironammonite | [Read More](https://medium.com/p/1ea28ce0afd7) |
-| Fri, 27 Mar 2026 07:31:20 GMT | IRCTC Typosquatting Exposed: Inside the Deceptive Ad Trap at ircts[.]co[.]in | Chandan Hittalamani | [Read More](https://medium.com/p/df714064ec16) |
-| Fri, 27 Mar 2026 07:30:40 GMT | EDR vs XDR: Evolution of Endpoint Security | Majidbasharat | [Read More](https://medium.com/p/fb8b6001291d) |
-| Fri, 27 Mar 2026 07:26:46 GMT | I Loved Too Deeply, and It Scared Me More Than Losing Them | Dhruvanshii | [Read More](https://medium.com/p/1520e883867f) |
-| Fri, 27 Mar 2026 07:16:36 GMT | My Bug Bounty Journey #1: Lessons from 3 Years in the Field | awchjimmy | [Read More](https://medium.com/p/069ea5e96fe7) |
-| Fri, 27 Mar 2026 07:14:38 GMT | Best Practices for Cloud Security Posture Management | Gehnasingh | [Read More](https://medium.com/p/d82561b9426f) |
-| Fri, 27 Mar 2026 07:07:40 GMT | Best Free AI Tools Everyone Should Use | Wasifnavttc Dm | [Read More](https://medium.com/p/9f78c5bbd623) |
-| Fri, 27 Mar 2026 07:02:30 GMT | Top 10 AI Pentesting Tools in 2026 | Bindu Dhingra | [Read More](https://medium.com/p/7200058eb10b) |
-| Fri, 27 Mar 2026 06:58:35 GMT | The Day an AI Tool Became a Security Nightmare (And What It Taught Me) | Shishir Sharma | [Read More](https://medium.com/p/eda21392f31e) |
-| Fri, 27 Mar 2026 06:54:03 GMT | Beginner’s Guide to Network Security for Developers | Mubashir | [Read More](https://medium.com/p/6161ea42741d) |
-| Fri, 27 Mar 2026 06:53:49 GMT | WhatsApp may launch new privacy settings for secure messaging | Azaadsaad | [Read More](https://medium.com/p/1b835c08f30e) |
-| Fri, 27 Mar 2026 06:52:14 GMT | Construction Site Security: Why It’s Essential for Every Project | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/4794ac663c0b) |
-| Fri, 27 Mar 2026 06:47:36 GMT | Best Website Troubleshooting Services in Pakistan (2026 Guide) | Wasifnavttc Dm | [Read More](https://medium.com/p/a4097fcc2e98) |
-| Fri, 27 Mar 2026 06:39:57 GMT | How to Choose the Right IT Service Provider for Senior Living Communities | Exordiumnetworks | [Read More](https://medium.com/p/73fbcdec260a) |
-| Fri, 27 Mar 2026 06:37:43 GMT | When the Watchman is Compromised: Deconstructing the Trivy Supply Chain Attack | Rommel Jay Gadil | [Read More](https://medium.com/p/67c2e7f6a109) |
-| Fri, 27 Mar 2026 06:32:52 GMT | 드라이버 개발자도 몰랐던 레지스트리의 두 얼굴 — 흑백 레지스트리 | Jung-Hyun Choi | [Read More](https://medium.com/p/b371b9f809ed) |
-| Fri, 27 Mar 2026 06:28:46 GMT | How I Found a Vulnerability at NASA at Age 13 | Divya Prakash | [Read More](https://medium.com/p/3867333f16a1) |
-| Fri, 27 Mar 2026 06:25:10 GMT | Hypervisor Cracks Explained:Denuvo Bypass, VBS Disable, FitGirl & DODI Repacks Explained | Ankit Nayak | [Read More](https://medium.com/p/ee1006c0fac1) |
