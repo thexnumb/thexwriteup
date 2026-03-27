@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 19:38:18 GMT | Email Security Guide 2026: Find Your Risks Before Attackers Do | Cordula Boeck | [Read More](https://medium.com/p/d74c3e135fd9) |
+| Fri, 27 Mar 2026 19:36:48 GMT | Containerizing Claude | Martin Larsson | [Read More](https://medium.com/p/ef722831fb10) |
+| Fri, 27 Mar 2026 19:35:09 GMT | Constraining Claude? | Martin Larsson | [Read More](https://medium.com/p/514a7eed9fc7) |
+| Fri, 27 Mar 2026 19:24:05 GMT | The Agentic Auth Problem Nobody Is Actually Solving | Venkat Peri | [Read More](https://medium.com/p/8f7d364ae3e3) |
+| Fri, 27 Mar 2026 19:16:55 GMT | Demystifying eBPF: Writing Your First Kernel-Level Command Blocker in Go | Asiagijoseph | [Read More](https://medium.com/p/ceeaf93e6ca2) |
+| Fri, 27 Mar 2026 19:16:00 GMT | Everyone Says “Nothing to Hide” — Until They Actually Need Privacy | Mark | [Read More](https://medium.com/p/c0780f509e27) |
+| Fri, 27 Mar 2026 19:09:26 GMT | Reverse Engineering Mobile Apps - When Attackers Read the Code You Thought Nobody Could See | Rufus Kehinde | [Read More](https://medium.com/p/7619efa3404a) |
+| Fri, 27 Mar 2026 19:09:26 GMT | RSAC Focuses Cybersecurity Insights, Tech, and Community in One Place | Matthew.Rosenquist | [Read More](https://medium.com/p/2b00c4a36c4b) |
+| Fri, 27 Mar 2026 19:08:53 GMT | FAT CAT (Forensics)— KJSSE CTF 3.0 | Vedant Pillai | [Read More](https://medium.com/p/389909256dc5) |
+| Fri, 27 Mar 2026 19:06:55 GMT | Professional Data Center Manager Course - IDCA | International Data Center Authority | [Read More](https://medium.com/p/670993d290ce) |
+| Fri, 27 Mar 2026 19:05:38 GMT | Tomghost [Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/7e1c4a2cd602) |
+| Fri, 27 Mar 2026 19:03:21 GMT | Pentest Chronicles: My Web App Journey Day #1 | fwoba | [Read More](https://medium.com/p/a07d4337bc8a) |
+| Fri, 27 Mar 2026 19:03:08 GMT | TeamPCP Hack Explained: AI Supply Chain Attack Hits 95 Million Developers | Technijian | [Read More](https://medium.com/p/4e5c4bd09cba) |
 | Fri, 27 Mar 2026 18:56:50 GMT | Network #4 | Umid Nagiyev | [Read More](https://medium.com/p/f765e1ba3f28) |
 | Fri, 27 Mar 2026 18:56:00 GMT | EU Cyber Resilience Act: What Product Teams Should Do Now | Frank Leitner | [Read More](https://medium.com/p/a6734ab15136) |
 | Fri, 27 Mar 2026 18:55:56 GMT | The Ultimate Bug Bounty Course: From Zero to Advanced Hacker 7 | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/e641733d998c) |
@@ -56,6 +69,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 16:45:59 GMT | The Real Reason You Can’t Take Action (And No, It’s Not Laziness) | Mounir Boudeken | [Read More](https://medium.com/p/b28addd6e156) |
 | Fri, 27 Mar 2026 16:43:50 GMT | Hybrid Cloud SOC Lab: Detecting AWS IAM Abuse with Wazuh | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/b53c4bac5880) |
 | Fri, 27 Mar 2026 16:35:10 GMT | Too Powerful to Release? Inside the Claude Mythos Leak That’s Quietly Alarming the AI Industry | Shubham Choudhary | [Read More](https://medium.com/p/48ce61795493) |
+| Fri, 27 Mar 2026 16:34:55 GMT | When a Hacked Door Becomes a Breach | Teona | [Read More](https://medium.com/p/25e0cc6b8418) |
 | Fri, 27 Mar 2026 16:32:24 GMT | I am love, and that is my ache | Muskan Priya | [Read More](https://medium.com/p/cd0f4f029728) |
 | Fri, 27 Mar 2026 16:30:41 GMT | Six Machines Down: Hunting BlackSuit Ransomware Through Splunk Logs | Ezechi Jeremiah Chigozie | [Read More](https://medium.com/p/cbab3e166842) |
 | Fri, 27 Mar 2026 16:27:11 GMT | CMMC Levels Explained: Why Most Contractors Misunderstand the Path From Level 1 to Level 5 | Siddiquiazeem | [Read More](https://medium.com/p/8b2b3b81d811) |
@@ -64,6 +78,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 16:20:06 GMT | What Are Residential Proxies? (Simple Explanation for Beginners) | Redd | [Read More](https://medium.com/p/3912eb63e308) |
 | Fri, 27 Mar 2026 16:19:41 GMT | Penny for Your Thoughts — Stress | The Witness | [Read More](https://medium.com/p/99e6d3f77ca9) |
 | Fri, 27 Mar 2026 16:14:22 GMT | Week 1 of Offensive Security | Muhammad Uzair | [Read More](https://medium.com/p/8779adcdcf0a) |
+| Fri, 27 Mar 2026 16:14:17 GMT | How Attackers Actually Break Identity Systems | Dr. Shashi Karhail | [Read More](https://medium.com/p/1aac57376f93) |
 | Fri, 27 Mar 2026 16:11:40 GMT | HTTP Request Smuggling Explained: The Hidden Vulnerability Hackers Love✨ - kidnapshadow | Kidnapshadow | [Read More](https://medium.com/p/4c4e62766111) |
 | Fri, 27 Mar 2026 16:10:51 GMT | Your API Checks Who Users Are — But Not What They’re Allowed to See | OopsSec Store | [Read More](https://medium.com/p/fa98ae7562c6) |
 | Fri, 27 Mar 2026 16:09:01 GMT | What Your Firewall Logs Aren’t Telling You | JSOC IT BLOG | [Read More](https://medium.com/p/ed239fd48a71) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 14:26:19 GMT | Local File Inclusion in a PHP Reservation System — From Parameter Abuse to Source Code Disclosure | Cyber Tamarin | [Read More](https://medium.com/p/f1ac55dd6178) |
 | Fri, 27 Mar 2026 14:22:38 GMT | End-to-end encryption in video calls: what it actually protects (and what it doesn’t) | Digital Samba | [Read More](https://medium.com/p/ad0fc9229c45) |
 | Fri, 27 Mar 2026 14:22:14 GMT | The LiteLLM Attack Should Worry Every AI Developer | Keerthi Kumar | [Read More](https://medium.com/p/b6120b0bede1) |
-| Fri, 27 Mar 2026 14:21:02 GMT | Creative — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/ad73763dc639) |
-| Fri, 27 Mar 2026 14:19:59 GMT | Looking for a Security Guard Company Near You? Here’s Why Pinnacle Security Is a Smart Choice | Pinnacle Security Guards | [Read More](https://medium.com/p/62d81488ff17) |
-| Fri, 27 Mar 2026 14:15:59 GMT | Is Your Small Business One Cyber Attack Away from Shutdown? | Game With Life | [Read More](https://medium.com/p/e08860692080) |
-| Fri, 27 Mar 2026 14:13:14 GMT | Stop SSHing Into Servers. Talk to Them Instead. | Karine | [Read More](https://medium.com/p/a3a6ce31ee3f) |
-| Fri, 27 Mar 2026 14:06:00 GMT | 4 Warning Signs He Doesn’t Love You Anymore — Relationship Red Flags | Laura Miller | [Read More](https://medium.com/p/1f10f9de8eea) |
-| Fri, 27 Mar 2026 14:06:00 GMT | The Shadow Heart of Business | Alexey Rubtsov | [Read More](https://medium.com/p/40ae49a2decf) |
-| Fri, 27 Mar 2026 14:03:36 GMT | Beyond the Scan: What Enumeration Really Looks Like in Real-World Red Teaming | Daniel Isaac E | [Read More](https://medium.com/p/5c2fbf403991) |
-| Fri, 27 Mar 2026 14:02:13 GMT | My eCPPTv3 Exam Review | Qais Hammad | [Read More](https://medium.com/p/e5d57dc1ff78) |
-| Fri, 27 Mar 2026 14:01:04 GMT | Why Professional Security Services Help UK Businesses Win Client Trust | Rapport Security | [Read More](https://medium.com/p/da3560515738) |
-| Fri, 27 Mar 2026 14:00:03 GMT | We Warned Chicago About This Scam. It Didn’t Stop. It Escalated. | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/401a9e426004) |
-| Fri, 27 Mar 2026 13:57:43 GMT | What Is a VLAN and Why Every Home Network Needs One in 2026 | Temma | [Read More](https://medium.com/p/5a8f479f71fc) |
-| Fri, 27 Mar 2026 13:56:06 GMT | Securing the Quantum Channel: How BB84, QBER, and Timing-Based Authentication Protect Quantum… | BnHany | [Read More](https://medium.com/p/5b5eaf1a066b) |
-| Fri, 27 Mar 2026 13:55:25 GMT | The LiteLLM Supply Chain Attack: A Wake-Up Call for Modern Infrastructure Security | MindDigitalsea | [Read More](https://medium.com/p/35e850d4754a) |
-| Fri, 27 Mar 2026 13:49:16 GMT | AISVS: C1 Training Data Integrity & Traceability. The real weak point of AI is not the model. | Alberto Cappellina | [Read More](https://medium.com/p/3babac003b26) |
-| Fri, 27 Mar 2026 13:46:25 GMT | Project Alert — How I Solved One of Cloud Networking’s Most Stubborn Problems: Overlapping VPC… | Gbolahan Idowu | [Read More](https://medium.com/p/b4867614bfd5) |
