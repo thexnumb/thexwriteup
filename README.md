@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 21:32:45 GMT | Career Path: Information Technology to Cloud Engineer | Simran Singh | [Read More](https://medium.com/p/135dce2280e1) |
+| Fri, 27 Mar 2026 21:13:18 GMT | Analyze Header Like a Pro: Boost SEO Rankings Fast (2026 Guide) | Wijay | [Read More](https://medium.com/p/151b71e1a32b) |
+| Fri, 27 Mar 2026 21:12:25 GMT | CYBERDUDEBIVASH Sentinel APEX™ — Building a Real-Time AI Cyber Threat Intelligence Platform from… | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/8e0cec61cf2d) |
+| Fri, 27 Mar 2026 21:06:19 GMT | TryHackMe MITRE ATT&CK Framework Walkthrough | Kamal Kishor Mahto | [Read More](https://medium.com/p/24a85492e3ee) |
+| Fri, 27 Mar 2026 21:03:28 GMT | The Hidden Risk in AI-Assisted Development (And Why a Firewall Might Be the Missing Layer) | Developwithkrishn | [Read More](https://medium.com/p/6957ed211301) |
+| Fri, 27 Mar 2026 21:01:00 GMT | 8 Shocking Truths About Marrying a Handsome Man: Women Reveal All | UnaTolkien | [Read More](https://medium.com/p/14de966ab610) |
+| Fri, 27 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 36: Security Marathon Day 3 | Maximillian Rueda | [Read More](https://medium.com/p/3cc0f583eb73) |
+| Fri, 27 Mar 2026 20:56:15 GMT | Estratégia de Lab Híbrido. Performance vs Anonimato em Cybersecurity. | Neurix | [Read More](https://medium.com/p/a988ecf73089) |
+| Fri, 27 Mar 2026 20:54:36 GMT | The AI Gold Rush Is Broken: A View from RSA Conference 2026 | Len Noe | [Read More](https://medium.com/p/d1a6b2fdfec3) |
+| Fri, 27 Mar 2026 20:31:00 GMT | Report Writing for SOC L2 - TryHackMe | Jose Praveen | [Read More](https://medium.com/p/16f1aa8c44e7) |
 | Fri, 27 Mar 2026 20:13:51 GMT | Hackers Don’t Need Malware Anymore — Just Victims Browser | Cybersectoworld | [Read More](https://medium.com/p/4f27cbe34bf9) |
 | Fri, 27 Mar 2026 20:10:28 GMT | QA and Security: Why Deterministic Validation Can’t Wait | Joaquin Moreira | [Read More](https://medium.com/p/faac41b50fdb) |
 | Fri, 27 Mar 2026 20:03:31 GMT | I STOPPED CRYING FOR SEVENTEEN YEARS. | Saint Kay Media | [Read More](https://medium.com/p/f4d7fce3af24) |
@@ -52,6 +62,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 18:05:20 GMT | We Don’t Understand the Code We Ship Anymore. VibeSec in Vibe-Coding Era | Zuzanna Mówińska | [Read More](https://medium.com/p/5a2ad8aea158) |
 | Fri, 27 Mar 2026 18:03:30 GMT | ChatGPT: “I am not as free as I appear” | Hajnalka Dudás | [Read More](https://medium.com/p/41650f631148) |
 | Fri, 27 Mar 2026 17:59:05 GMT | Why Smart Developers Use SAST to Prevent Security Issues Early? | Neha Singh | [Read More](https://medium.com/p/070874c78adc) |
+| Fri, 27 Mar 2026 17:58:18 GMT | Broken Access Control: The Most Dangerous Vulnerability Is Not a Bug, It Is a Design Decision | Vinithkalikar | [Read More](https://medium.com/p/775d30cfe478) |
 | Fri, 27 Mar 2026 17:54:42 GMT | ROOTME — TryHackMe (Clear Explanation) | Maries-07 | [Read More](https://medium.com/p/333f67b611e8) |
 | Fri, 27 Mar 2026 17:50:40 GMT | Seen and Unseen: The Tension Between Privacy, Fear, and Transparency in Senior Community Life | Mark Sanford, Ph.D. | [Read More](https://medium.com/p/0a627ef48414) |
 | Fri, 27 Mar 2026 17:49:39 GMT | AI Agents Are Repeating an Old Browser Security Mistake | Hammad Abbasi | [Read More](https://medium.com/p/0a86f08d4356) |
@@ -64,6 +75,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 17:32:50 GMT | The Silent Threat: How AI Systems Are Becoming the New Attack Surface | Thiyagu Arunachalam | [Read More](https://medium.com/p/4f7b6e6d2ddd) |
 | Fri, 27 Mar 2026 17:30:03 GMT | Report Writing for SOC L2 - TryHackMe Answers | Ryca | [Read More](https://medium.com/p/07ccb9006bc8) |
 | Fri, 27 Mar 2026 17:21:55 GMT | Mobile App Security Testing Guide 2026 Part 2: The Action | mohanrajmdev | [Read More](https://medium.com/p/7639a056e688) |
+| Fri, 27 Mar 2026 17:20:49 GMT | End-to-End File Handling in Angular and ASP.NET Core | Shiwachy | [Read More](https://medium.com/p/ed760e8f9c8a) |
 | Fri, 27 Mar 2026 17:16:00 GMT | How Darknet Market Reputation Systems Work | Tor BBB | [Read More](https://medium.com/p/9fbb2c7bd2c9) |
 | Fri, 27 Mar 2026 17:14:55 GMT | How Does a Switch Learn MAC Addresses and Create a CAM Table? | Sandunsandeepa | [Read More](https://medium.com/p/b3ec2f0feda7) |
 | Fri, 27 Mar 2026 17:14:45 GMT | Part 4: Beyond Passwords — The Passkey Revolution | Sivavishnu | [Read More](https://medium.com/p/793ea2f291fe) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 15:43:19 GMT | I Spent 3 Months Failing at Bug Bounty — This Roadmap Fixed Everything | Vivek PS | [Read More](https://medium.com/p/907218fb5f05) |
 | Fri, 27 Mar 2026 15:37:00 GMT | The OpenClaw Security Crisis: What ClawHavoc Revealed About AI Agent Risk — and Why NemoClaw Isn’t… | M. Zaib | [Read More](https://medium.com/p/99dff5f68c8d) |
 | Fri, 27 Mar 2026 15:29:12 GMT | Network Traffic Analysis of an IcedID (BokBot) Infection — Reconstruction (Part 1) | kbxsrc | [Read More](https://medium.com/p/e6633d927a0e) |
-| Fri, 27 Mar 2026 15:27:19 GMT | How to Write Good Prompts for Offensive Security | Candy Wong | [Read More](https://medium.com/p/0d47415f4a1b) |
-| Fri, 27 Mar 2026 15:25:34 GMT | Memory Leak — #45 | Astasia Myers | [Read More](https://medium.com/p/30618c72d973) |
-| Fri, 27 Mar 2026 15:22:49 GMT | CS Fundamentals for Cyber Security: The Complete Foundation Guide | Kishor K. | [Read More](https://medium.com/p/d5ba101962ac) |
-| Fri, 27 Mar 2026 15:16:08 GMT | 10 Recon Wordlists Every Pentester Must Know | Candy Wong | [Read More](https://medium.com/p/484499d2ce9c) |
-| Fri, 27 Mar 2026 15:13:40 GMT | Cyber Briefing: 2026.03.27 | CyberMaterial | [Read More](https://medium.com/p/01f90506d06c) |
-| Fri, 27 Mar 2026 15:13:15 GMT | From Directory Listing to Breaking Logins | 0x0meowsec | [Read More](https://medium.com/p/02f15533eed7) |
-| Fri, 27 Mar 2026 15:12:45 GMT | Removing WinRAR License Pop-up using x64dbg | Zorai | [Read More](https://medium.com/p/2076df422c55) |
-| Fri, 27 Mar 2026 15:10:30 GMT | PicoCTF — Hidden Cipher 2 Writeup | Spandhan Panta | [Read More](https://medium.com/p/9acd43338c01) |
-| Fri, 27 Mar 2026 15:01:01 GMT | Clawdbot Didn’t Just Read My .env — It Understood What Every Secret Could Do | The Speed Engineer | [Read More](https://medium.com/p/730d8dc3e5b8) |
-| Fri, 27 Mar 2026 15:00:07 GMT | PowerShell — Convert NTFS Folder Security Permissions to Corresponding Share Permissions (Project) | Excalibra | [Read More](https://medium.com/p/8f8715c721ad) |
-| Fri, 27 Mar 2026 14:59:26 GMT | Career Paths in Software Engineering | Nimsara Lakshan | [Read More](https://medium.com/p/c5b4f11c1858) |
-| Fri, 27 Mar 2026 14:58:09 GMT | The ChatGPT Mirror: What RSA 2026 Revealed About AI Expectations | Ehulse | [Read More](https://medium.com/p/2dfbf334c1d7) |
