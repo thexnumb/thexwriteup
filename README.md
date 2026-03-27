@@ -12,11 +12,38 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 11:11:24 GMT | Top Tips for Selecting Reliable Security Seal Tape for Your Business | Unicube | [Read More](https://medium.com/p/1ec7a80c53c4) |
+| Fri, 27 Mar 2026 11:10:37 GMT | From <script>alert(1)</script> to Full Account Takeover: A Deep Dive into XSS by Mert Baykal | Mert Baykal | [Read More](https://medium.com/p/6594df45e92f) |
+| Fri, 27 Mar 2026 11:09:19 GMT | Why Most Summer Training Programs Are a Scam — And How to Choose the Right One | Ankit rai | [Read More](https://medium.com/p/2c57c56cbcd7) |
+| Fri, 27 Mar 2026 11:06:34 GMT | Sustained Exploitation Activity and KEV Updates Marked This Week’s Threat Landscape | Loginsoft | [Read More](https://medium.com/p/ffec96a8bcbb) |
+| Fri, 27 Mar 2026 11:06:05 GMT | What to do if someone leaks your private photos | Mayankh Thapa | [Read More](https://medium.com/p/69ff8d4eb023) |
+| Fri, 27 Mar 2026 11:02:53 GMT | Sumo — Shellshock on a CGI Script and Dirty COW on a 2012 Kernel - OffSec PG | Roshan Rajbanshi | [Read More](https://medium.com/p/32fefefe55fd) |
+| Fri, 27 Mar 2026 11:02:23 GMT | Microsoft Power BI API Credential Exposure: From Public Postman Workspace to Data Exfiltration in… | Dzianis Skliar | [Read More](https://medium.com/p/849d2335f330) |
+| Fri, 27 Mar 2026 11:01:58 GMT | How Security Cameras Prevent Crime? Real Benefits for Homes & Businesses | Ultraprotectsecurity | [Read More](https://medium.com/p/ead1589c1586) |
+| Fri, 27 Mar 2026 11:01:08 GMT | Finding XSS Through HTML Injection — Without Fuzzing Tools | Windasunny | [Read More](https://medium.com/p/56e12143aff7) |
+| Fri, 27 Mar 2026 11:00:34 GMT | DeFi Isn’t About Liquidity Anymore — It’s About Execution | Ibrahim Dajin | [Read More](https://medium.com/p/0436f7b75c9d) |
+| Fri, 27 Mar 2026 11:00:20 GMT | The End of “Just Buy an iPhone” as Security Advice | Ujjwal Sharma | [Read More](https://medium.com/p/eac8f819542f) |
+| Fri, 27 Mar 2026 10:59:33 GMT | Scope Kya Hota Hai? Target Decide Karna Sikhte Hain! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/1f29aa17c7da) |
+| Fri, 27 Mar 2026 10:58:47 GMT | E-learning Services Market Outlook & Industry Trends 2033 | NIkita Poplai | [Read More](https://medium.com/p/e6be02740fe7) |
+| Fri, 27 Mar 2026 10:57:22 GMT | CRA vs UNECE R155/R156: Suppliers Now Need Two Cybersecurity Programs, Not One | Xeeniq Intelligence | [Read More](https://medium.com/p/e6158ab57f3b) |
+| Fri, 27 Mar 2026 10:56:35 GMT | The Small Security Gaps That Cause Big Problems | Periscope Tech | [Read More](https://medium.com/p/4c7cf61fb0f4) |
+| Fri, 27 Mar 2026 10:56:00 GMT | How Go Prevents Supply Chain Attacks | huizhou92 | [Read More](https://medium.com/p/bbb6b57155e1) |
+| Fri, 27 Mar 2026 10:55:53 GMT | Why Building Agentic AI SOC is Hard? | HarkX | [Read More](https://medium.com/p/a5f5292f3aae) |
+| Fri, 27 Mar 2026 10:54:28 GMT | The Dirty Secrets of “Secure” Hardware Wallets | kapKap | [Read More](https://medium.com/p/499192f41604) |
+| Fri, 27 Mar 2026 10:47:37 GMT | In-depth articles on "Post-Quantum Cryptography" (cybersecurity in the quantum age). | Djouzi Mohammed | [Read More](https://medium.com/p/22bcae79c30a) |
+| Fri, 27 Mar 2026 10:45:54 GMT | Affordable & Secure Hosting Solutions for Small Businesses | Ann Taylor | [Read More](https://medium.com/p/e061ec38ee03) |
+| Fri, 27 Mar 2026 10:38:54 GMT | HackerOne aur Bugcrowd Pehla Program Choose Karo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/297d19c89bfd) |
+| Fri, 27 Mar 2026 10:36:58 GMT | Why PECB Information Security Certifications Matter in Today’s Digital World | Gpramita | [Read More](https://medium.com/p/4971efaad739) |
+| Fri, 27 Mar 2026 10:29:38 GMT | DockerLabs Writeup — Mapache2 (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/bfad18852309) |
+| Fri, 27 Mar 2026 10:21:23 GMT | Struggling to Scale? The IT Services Your Business Actually Needs | Top Remotely | [Read More](https://medium.com/p/5288666b03ec) |
+| Fri, 27 Mar 2026 10:21:09 GMT | What is a Video Doorbell? Everything You Need to Know | Zentrol Home | [Read More](https://medium.com/p/acfbc3be52a8) |
+| Fri, 27 Mar 2026 10:20:34 GMT | Building Safer Workspaces: Security Services for Commercial Buildings in Delhi | Find Security Service | [Read More](https://medium.com/p/86db109d22f2) |
 | Fri, 27 Mar 2026 10:08:54 GMT | The Afternoon That Almost Stayed | roseey | [Read More](https://medium.com/p/917196d280c0) |
 | Fri, 27 Mar 2026 10:05:46 GMT | How to Actually Use LinkedIn If You Work in IT or Cybersecurity | Jbird | [Read More](https://medium.com/p/8a4b84f070bb) |
 | Fri, 27 Mar 2026 10:01:01 GMT | Why Auditors Quietly Appreciate Automated Tools | Gaurav Shukla | [Read More](https://medium.com/p/a167656cdd78) |
 | Fri, 27 Mar 2026 09:56:12 GMT | I Find Hidden APIs Before I Even Touch Burp Suite | ghostyjoe | [Read More](https://medium.com/p/266361142f78) |
 | Fri, 27 Mar 2026 09:55:26 GMT | SQL Injection UNION Attack: Retrieving Data from Other Tables-PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/7e4ca8d41207) |
+| Fri, 27 Mar 2026 09:53:45 GMT | Небольшая шпаргалка по Vue.js + Vite | Chernousov Anton | [Read More](https://medium.com/p/2132aba1820f) |
 | Fri, 27 Mar 2026 09:52:52 GMT | IPTV Premium Service: Ultimate Guide to Unlimited Streaming | Iptvsouq | [Read More](https://medium.com/p/14753b9011b7) |
 | Fri, 27 Mar 2026 09:50:49 GMT | Threatcop Is Now Certified by the Texas DIR. Here Is Why That Matters More Than You Think. | threatcop | [Read More](https://medium.com/p/2347906ebdfe) |
 | Fri, 27 Mar 2026 09:37:25 GMT | Behind the Breach:Deloitte 2017 Breach | Dorathy Christopher | [Read More](https://medium.com/p/fca8012a55f1) |
@@ -85,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 05:42:33 GMT | SPARK Matrix™: Cloud Security Gateway Software | Umangp | [Read More](https://medium.com/p/5401924f4c06) |
 | Fri, 27 Mar 2026 05:36:38 GMT | AVG Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/d6c09860a8a0) |
 | Fri, 27 Mar 2026 05:31:24 GMT | Yahoo Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/2852865fbe6e) |
-| Fri, 27 Mar 2026 05:26:28 GMT | AVG Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/ef62ca1db04f) |
-| Fri, 27 Mar 2026 05:26:03 GMT | Middle East & Africa Penetration Testing Market Size Projected to Hit $0.37 billion by 2031 | Sheetalbhusari | [Read More](https://medium.com/p/a0cd9db5af36) |
-| Fri, 27 Mar 2026 05:17:53 GMT | From Death by Bullet Points to Standing Ovation: How to Create a Technical PowerPoint Presentation… | Sr | [Read More](https://medium.com/p/6d9308f8c1df) |
-| Fri, 27 Mar 2026 04:59:44 GMT | 4 LLM Gateway Alternatives to Consider After the LiteLLM Supply Chain Attack | Pranay Batta | [Read More](https://medium.com/p/24ee38835355) |
-| Fri, 27 Mar 2026 04:59:39 GMT | Critical Admin Access Vulnerability
-on NASA’s .nasa.gov Subdomain | Aashutosh devkota | [Read More](https://medium.com/p/0586a00ce5f0) |
-| Fri, 27 Mar 2026 04:56:33 GMT | Why You Should Start Using a Password Manager Today (And How They Actually Work) | Sam Writes Security | [Read More](https://medium.com/p/c995951276c6) |
-| Fri, 27 Mar 2026 04:53:27 GMT | The LiteLLM Security Alert: How One Popular Tool Exposed Millions of Secrets | Rajes Reddy | [Read More](https://medium.com/p/ce44241a5e6e) |
-| Fri, 27 Mar 2026 04:48:31 GMT | ¿Era un mejor hacker sin la IA? | 1v0ot | [Read More](https://medium.com/p/cb0f3c222007) |
-| Fri, 27 Mar 2026 04:44:33 GMT | How Weak Password Practices Continue to Expose Corporations to Cyber Attacks | Sanista Ramphal | [Read More](https://medium.com/p/e97610f6f6d9) |
-| Fri, 27 Mar 2026 04:42:50 GMT | Why Application Security Is No Longer Optional in 2026 | Digital Defense | [Read More](https://medium.com/p/a96e6b754586) |
-| Fri, 27 Mar 2026 04:35:42 GMT | Common Network Vulnerabilities Beginners Should Understand (Bonus)— Day 18 | 0xSmit | [Read More](https://medium.com/p/bee6ceee4f43) |
-| Fri, 27 Mar 2026 04:35:37 GMT | I Tried Sending Anonymous Emails — Here’s What Actually Works (And What Doesn’t) | Warren Smith | [Read More](https://medium.com/p/375d48707adf) |
-| Fri, 27 Mar 2026 04:31:02 GMT | Prompt Injection: The Security Flaw Hidden in Plain Sight | Prathamesh Raut | [Read More](https://medium.com/p/5828fc1b7345) |
-| Fri, 27 Mar 2026 04:25:52 GMT | The LiteLLM Supply Chain Attack Explained: What Happened, Who’s Affected, and What to Do Now | Kuboid Secure Layer | [Read More](https://medium.com/p/0e200a8254f6) |
-| Fri, 27 Mar 2026 04:22:10 GMT | What If the Thing That Needs Protecting Is You? | Younos Nazarian | [Read More](https://medium.com/p/7c32aff4dec2) |
-| Fri, 27 Mar 2026 04:16:31 GMT | Made a Web Based CTF Site | Aaronashley | [Read More](https://medium.com/p/e6d811db5e46) |
-| Fri, 27 Mar 2026 04:11:09 GMT | Basic Threat Hunting Playbooks Every Beginner Should Know | Paritosh | [Read More](https://medium.com/p/46bf67a2ef70) |
-| Fri, 27 Mar 2026 04:08:01 GMT | FastAPI Security Made Easy: JWT, OAuth2, CORS, Rate-Limiting, and HTTPS | Pravin | [Read More](https://medium.com/p/4c1130ee5a9f) |
-| Fri, 27 Mar 2026 04:03:01 GMT | The Expansion of Brazil’s PCC and the Challenge of Identifying Its Members Abroad | Alessandro Nunes Pereira | [Read More](https://medium.com/p/7e3b814fff9a) |
-| Fri, 27 Mar 2026 04:00:05 GMT | Social, Mobile, Analytics, and Cloud (SMAC) | Jerry Grzegorzek (SuperBusinessManager.com) | [Read More](https://medium.com/p/19684f805fa4) |
-| Fri, 27 Mar 2026 03:43:20 GMT | Reentrancy Vulnerability Drains Entire Pool | 0x9527 | [Read More](https://medium.com/p/4ef0b1c5e07f) |
-| Fri, 27 Mar 2026 03:41:00 GMT | Next-Gen SIEM in Modern SOC Operations | NetWitness | [Read More](https://medium.com/p/f5c854c24433) |
-| Fri, 27 Mar 2026 03:39:50 GMT | Bleeding Edge or Bleeding Heart? The Hilarious Horror of Using Latest-Version Software | Harsh Dadiya | [Read More](https://medium.com/p/da0c6fd24c88) |
-| Fri, 27 Mar 2026 03:38:44 GMT | Online Harassment / cyber bulling | Simi Rose | [Read More](https://medium.com/p/83bb9ac00a82) |
-| Fri, 27 Mar 2026 03:37:42 GMT | Azure Blob Storage Misconfigurations: Attacker’s Gateway to Data | Avyukt Security | [Read More](https://medium.com/p/b7d8e957440e) |
-| Fri, 27 Mar 2026 03:37:31 GMT | The ongoing Israel-Palestine conflict has created a horrific reality for the people of Palestine, a… | Simi Rose | [Read More](https://medium.com/p/dd6d6277ca08) |
-| Fri, 27 Mar 2026 03:34:08 GMT | Lab: Exploiting LLM APIs with excessive agency | Deleonaguilarjosue | [Read More](https://medium.com/p/3b2da6d28285) |
