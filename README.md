@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 16:57:17 GMT | Phishing Email Analysis SOC Analyst Guide Part-2 Setting Up Lab. | Vaibhavrajsahu | [Read More](https://medium.com/p/260c8bdc92bf) |
+| Fri, 27 Mar 2026 16:56:43 GMT | From Phish to Persistence: A Threat Hunting Case Study | Enes Cayvarli | [Read More](https://medium.com/p/f0479793fb92) |
+| Fri, 27 Mar 2026 16:55:19 GMT | AI-Red Teaming — As I know it | Mayuresh Joshi | [Read More](https://medium.com/p/db6acd5a7b95) |
+| Fri, 27 Mar 2026 16:48:59 GMT | From Spaghetti Code to Slop Code | Ayoub Nainia | [Read More](https://medium.com/p/54f835c84e48) |
+| Fri, 27 Mar 2026 16:45:59 GMT | The Real Reason You Can’t Take Action (And No, It’s Not Laziness) | Mounir Boudeken | [Read More](https://medium.com/p/b28addd6e156) |
+| Fri, 27 Mar 2026 16:43:50 GMT | Hybrid Cloud SOC Lab: Detecting AWS IAM Abuse with Wazuh | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/b53c4bac5880) |
+| Fri, 27 Mar 2026 16:35:10 GMT | Too Powerful to Release? Inside the Claude Mythos Leak That’s Quietly Alarming the AI Industry | Shubham Choudhary | [Read More](https://medium.com/p/48ce61795493) |
+| Fri, 27 Mar 2026 16:32:24 GMT | I am love, and that is my ache | Muskan Priya | [Read More](https://medium.com/p/cd0f4f029728) |
+| Fri, 27 Mar 2026 16:30:41 GMT | Six Machines Down: Hunting BlackSuit Ransomware Through Splunk Logs | Ezechi Jeremiah Chigozie | [Read More](https://medium.com/p/cbab3e166842) |
+| Fri, 27 Mar 2026 16:27:11 GMT | CMMC Levels Explained: Why Most Contractors Misunderstand the Path From Level 1 to Level 5 | Siddiquiazeem | [Read More](https://medium.com/p/8b2b3b81d811) |
+| Fri, 27 Mar 2026 16:23:20 GMT | Getting Started with Your First Homelab: A Practical Guide for IT Beginners | Henry Leenstra | [Read More](https://medium.com/p/acf125575b34) |
+| Fri, 27 Mar 2026 16:22:16 GMT | Understanding the Linux File System — A Beginner-Friendly Guide | R1punjay_Singh | [Read More](https://medium.com/p/9e75a5490056) |
+| Fri, 27 Mar 2026 16:20:06 GMT | What Are Residential Proxies? (Simple Explanation for Beginners) | Redd | [Read More](https://medium.com/p/3912eb63e308) |
+| Fri, 27 Mar 2026 16:19:41 GMT | Penny for Your Thoughts — Stress | The Witness | [Read More](https://medium.com/p/99e6d3f77ca9) |
+| Fri, 27 Mar 2026 16:14:22 GMT | Week 1 of Offensive Security | Muhammad Uzair | [Read More](https://medium.com/p/8779adcdcf0a) |
+| Fri, 27 Mar 2026 16:11:40 GMT | HTTP Request Smuggling Explained: The Hidden Vulnerability Hackers Love✨ - kidnapshadow | Kidnapshadow | [Read More](https://medium.com/p/4c4e62766111) |
+| Fri, 27 Mar 2026 16:10:51 GMT | Your API Checks Who Users Are — But Not What They’re Allowed to See | OopsSec Store | [Read More](https://medium.com/p/fa98ae7562c6) |
+| Fri, 27 Mar 2026 16:09:01 GMT | What Your Firewall Logs Aren’t Telling You | JSOC IT BLOG | [Read More](https://medium.com/p/ed239fd48a71) |
+| Fri, 27 Mar 2026 16:03:39 GMT | The UAE has rapidly transformed into a digital-first economy where businesses rely heavily on… | Vastechoffpage | [Read More](https://medium.com/p/d943a68c8ae2) |
+| Fri, 27 Mar 2026 16:00:36 GMT | From Drift to Enforcement: A Self-Healing Security and Compliance Engine for OpenShift | Phil Duncan | [Read More](https://medium.com/p/3e3c160eba7b) |
+| Fri, 27 Mar 2026 15:59:18 GMT | OS AUTOMATION | Gopangopikrishnan | [Read More](https://medium.com/p/4f7cc0b0bf41) |
+| Fri, 27 Mar 2026 15:53:27 GMT | How to Use Claude Code for FREE with OpenRouter (Step-by-Step Guide) | Aman Bhuiyan | [Read More](https://medium.com/p/3544a1049b5a) |
 | Fri, 27 Mar 2026 15:47:36 GMT | Proving Grounds — Practice — Access | Makoyi | [Read More](https://medium.com/p/a6e6a89f4ae6) |
 | Fri, 27 Mar 2026 15:44:17 GMT | HTB_Academy: LD_PRELOAD Privilege Escalation | Babatunde Ojo | [Read More](https://medium.com/p/290b1d821e74) |
 | Fri, 27 Mar 2026 15:43:19 GMT | I Spent 3 Months Failing at Bug Bounty — This Roadmap Fixed Everything | Vivek PS | [Read More](https://medium.com/p/907218fb5f05) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 11:48:43 GMT | Suspicious MX Record to Confirmed Phishing Attack | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/69ec85471526) |
 | Fri, 27 Mar 2026 11:35:41 GMT | Nahmstay: The Approach | Nahmstay | [Read More](https://medium.com/p/521bbbbd8c38) |
 | Fri, 27 Mar 2026 11:33:53 GMT | Your Email Address Is More Dangerous Than You Think: How Hackers Use It (and How to Stay Safe) | BumbleBEE | [Read More](https://medium.com/p/4d1c2672284e) |
-| Fri, 27 Mar 2026 11:33:43 GMT | API1: Broken Object Level Authorization — The Vulnerability Hiding in Plain Sight | Cyberbali | [Read More](https://medium.com/p/e2507c382ad1) |
-| Fri, 27 Mar 2026 11:31:24 GMT | How to Report Sextortion Online and File a Cybercrime Complaint in India | Ketki Shah | [Read More](https://medium.com/p/ccc3c8c59c66) |
-| Fri, 27 Mar 2026 11:31:00 GMT | This One Command Helped Me Detect a Silent Intrusion on My Server | Faruk Ahmed | [Read More](https://medium.com/p/408e9dd85846) |
-| Fri, 27 Mar 2026 11:30:49 GMT | Cyber In Space: A New Era Requires A New Strategy | Investigator515 | [Read More](https://medium.com/p/1bae70c663d7) |
-| Fri, 27 Mar 2026 11:28:54 GMT | Git 101: My Journey Learning Version Control | A Emir Deli | [Read More](https://medium.com/p/ff1280b83e28) |
-| Fri, 27 Mar 2026 11:24:59 GMT | How to Protect Yourself from Phishing Emails. | James Smith | [Read More](https://medium.com/p/a3544074b37b) |
-| Fri, 27 Mar 2026 11:23:28 GMT | The Agentic Enterprise is No Longer a Future State | Mourtaza Moise Fazlehoussen | [Read More](https://medium.com/p/1333fb807ed7) |
-| Fri, 27 Mar 2026 11:22:31 GMT | AMP vs Non-AMP SEO Comparison: Which One is Better for Your Website? | Jellyfr | [Read More](https://medium.com/p/5095b6a82f17) |
-| Fri, 27 Mar 2026 11:22:03 GMT | Breaking a Healthcare API: What I Discovered While Testing Zero-Health | Cyb3rzee | [Read More](https://medium.com/p/e6bdd7063f76) |
-| Fri, 27 Mar 2026 11:18:29 GMT | Micro Lending Market Size, Share, Industry Growth — 2033 | NIkita Poplai | [Read More](https://medium.com/p/7b7e57b62e0f) |
-| Fri, 27 Mar 2026 11:16:02 GMT | What Actually Happens When You Type a URL in Your Browser? | Kavita Prajapati | [Read More](https://medium.com/p/62f4cbe16d02) |
-| Fri, 27 Mar 2026 11:11:24 GMT | Top Tips for Selecting Reliable Security Seal Tape for Your Business | Unicube | [Read More](https://medium.com/p/1ec7a80c53c4) |
-| Fri, 27 Mar 2026 11:10:37 GMT | From <script>alert(1)</script> to Full Account Takeover: A Deep Dive into XSS by Mert Baykal | Mert Baykal | [Read More](https://medium.com/p/6594df45e92f) |
-| Fri, 27 Mar 2026 11:09:19 GMT | Why Most Summer Training Programs Are a Scam — And How to Choose the Right One | Ankit rai | [Read More](https://medium.com/p/2c57c56cbcd7) |
-| Fri, 27 Mar 2026 11:06:34 GMT | Sustained Exploitation Activity and KEV Updates Marked This Week’s Threat Landscape | Loginsoft | [Read More](https://medium.com/p/ffec96a8bcbb) |
-| Fri, 27 Mar 2026 11:06:05 GMT | What to do if someone leaks your private photos | Mayankh Thapa | [Read More](https://medium.com/p/69ff8d4eb023) |
-| Fri, 27 Mar 2026 11:02:53 GMT | Sumo — Shellshock on a CGI Script and Dirty COW on a 2012 Kernel - OffSec PG | Roshan Rajbanshi | [Read More](https://medium.com/p/32fefefe55fd) |
-| Fri, 27 Mar 2026 11:02:23 GMT | Microsoft Power BI API Credential Exposure: From Public Postman Workspace to Data Exfiltration in… | Dzianis Skliar | [Read More](https://medium.com/p/849d2335f330) |
-| Fri, 27 Mar 2026 11:01:58 GMT | How Security Cameras Prevent Crime? Real Benefits for Homes & Businesses | Ultraprotectsecurity | [Read More](https://medium.com/p/ead1589c1586) |
-| Fri, 27 Mar 2026 11:01:08 GMT | Finding XSS Through HTML Injection — Without Fuzzing Tools | Windasunny | [Read More](https://medium.com/p/56e12143aff7) |
-| Fri, 27 Mar 2026 11:00:34 GMT | DeFi Isn’t About Liquidity Anymore — It’s About Execution | Ibrahim Dajin | [Read More](https://medium.com/p/0436f7b75c9d) |
-| Fri, 27 Mar 2026 11:00:20 GMT | The End of “Just Buy an iPhone” as Security Advice | Ujjwal Sharma | [Read More](https://medium.com/p/eac8f819542f) |
