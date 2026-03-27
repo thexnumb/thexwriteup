@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 18:56:50 GMT | Network #4 | Umid Nagiyev | [Read More](https://medium.com/p/f765e1ba3f28) |
+| Fri, 27 Mar 2026 18:56:00 GMT | EU Cyber Resilience Act: What Product Teams Should Do Now | Frank Leitner | [Read More](https://medium.com/p/a6734ab15136) |
+| Fri, 27 Mar 2026 18:55:56 GMT | The Ultimate Bug Bounty Course: From Zero to Advanced Hacker 7 | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/e641733d998c) |
+| Fri, 27 Mar 2026 18:50:06 GMT | Your Python Install Runs Code You Never Imported | Matthew Joseph Taylor | [Read More](https://medium.com/p/b8bffa62f87d) |
+| Fri, 27 Mar 2026 18:46:15 GMT | HTB_Academy: Windows Privilege Escalation — SeImpersonate | Babatunde Ojo | [Read More](https://medium.com/p/56f5830e0377) |
+| Fri, 27 Mar 2026 18:45:02 GMT | Understanding UAC and How Hackers Bypass It | Cybersectoworld | [Read More](https://medium.com/p/aac78cfb1012) |
+| Fri, 27 Mar 2026 18:42:54 GMT | Math, Not Trust: Introducing VerixID | VerixID | [Read More](https://medium.com/p/503cf70edc54) |
+| Fri, 27 Mar 2026 18:37:08 GMT | Host & Network Penetration Testing: Network-Based Attacks CTF 1 | Vanshaj Kumar | [Read More](https://medium.com/p/5c5d4fa417e5) |
+| Fri, 27 Mar 2026 18:28:31 GMT | Hands-On Splunk: SPL Techniques for Log Analysis | Alihajipour It | [Read More](https://medium.com/p/e5dbf5560251) |
+| Fri, 27 Mar 2026 18:27:12 GMT | Day 2: Demystifying IAM — The Architect’s Guide to Authentication, Authorization, and Zero Trust | Ndu | [Read More](https://medium.com/p/122ff11a83fb) |
+| Fri, 27 Mar 2026 18:26:36 GMT | Understanding DNS & DHCP: The Backbone of Network Communication | Ndu | [Read More](https://medium.com/p/bf05a9556610) |
+| Fri, 27 Mar 2026 18:21:36 GMT | Your Energy System Is Now a Cybersecurity Risk | Nashville Solar Works | [Read More](https://medium.com/p/0363b23a62c6) |
+| Fri, 27 Mar 2026 18:21:01 GMT | Building a Fully Local LLM-Powered Security Assistant Using RAG (No APIs Required) | Gowtham Revanur | [Read More](https://medium.com/p/55d1e3b07502) |
+| Fri, 27 Mar 2026 18:11:17 GMT | Microsoft 365 Migration Tools for Enterprise IT (2026) | Jaskirn Basra | [Read More](https://medium.com/p/09c89e5f32d0) |
+| Fri, 27 Mar 2026 18:06:46 GMT | SharePoint On-Premises to SharePoint Online Migration Tools (2026) | Jaskirn Basra | [Read More](https://medium.com/p/de5b1059666f) |
+| Fri, 27 Mar 2026 18:05:20 GMT | We Don’t Understand the Code We Ship Anymore. VibeSec in Vibe-Coding Era | Zuzanna Mówińska | [Read More](https://medium.com/p/5a2ad8aea158) |
+| Fri, 27 Mar 2026 18:03:30 GMT | ChatGPT: “I am not as free as I appear” | Hajnalka Dudás | [Read More](https://medium.com/p/41650f631148) |
+| Fri, 27 Mar 2026 17:59:05 GMT | Why Smart Developers Use SAST to Prevent Security Issues Early? | Neha Singh | [Read More](https://medium.com/p/070874c78adc) |
+| Fri, 27 Mar 2026 17:54:42 GMT | ROOTME — TryHackMe (Clear Explanation) | Maries-07 | [Read More](https://medium.com/p/333f67b611e8) |
+| Fri, 27 Mar 2026 17:50:40 GMT | Seen and Unseen: The Tension Between Privacy, Fear, and Transparency in Senior Community Life | Mark Sanford, Ph.D. | [Read More](https://medium.com/p/0a627ef48414) |
+| Fri, 27 Mar 2026 17:49:39 GMT | AI Agents Are Repeating an Old Browser Security Mistake | Hammad Abbasi | [Read More](https://medium.com/p/0a86f08d4356) |
 | Fri, 27 Mar 2026 17:46:39 GMT | # The Cybersecurity Crisis Nobody Is Talking About (And The One Project Solving It) | Sebastien | [Read More](https://medium.com/p/529d9a5cb1a0) |
 | Fri, 27 Mar 2026 17:45:39 GMT | Week 2 of Offensive Security | Muhammad Uzair | [Read More](https://medium.com/p/c565246fc0eb) |
 | Fri, 27 Mar 2026 17:43:18 GMT | Introducing GhostIntel: Your Open-Source OSINT & Reconnaissance Toolkit️ | Ruyynn | [Read More](https://medium.com/p/d95d40eb8e2a) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 13:55:25 GMT | The LiteLLM Supply Chain Attack: A Wake-Up Call for Modern Infrastructure Security | MindDigitalsea | [Read More](https://medium.com/p/35e850d4754a) |
 | Fri, 27 Mar 2026 13:49:16 GMT | AISVS: C1 Training Data Integrity & Traceability. The real weak point of AI is not the model. | Alberto Cappellina | [Read More](https://medium.com/p/3babac003b26) |
 | Fri, 27 Mar 2026 13:46:25 GMT | Project Alert — How I Solved One of Cloud Networking’s Most Stubborn Problems: Overlapping VPC… | Gbolahan Idowu | [Read More](https://medium.com/p/b4867614bfd5) |
-| Fri, 27 Mar 2026 13:39:20 GMT | Once a Quarter, I Walk Into a Business That’s Counting on Me | Luke Appleby | [Read More](https://medium.com/p/54a5e9cca5b3) |
-| Fri, 27 Mar 2026 13:36:49 GMT | The Insurance Gap: Where Businesses Get Caught Out | Ruben Clarke | [Read More](https://medium.com/p/3a2b26a2357d) |
-| Fri, 27 Mar 2026 13:33:15 GMT | Feminine Urge in Me | Asmi | [Read More](https://medium.com/p/bd70911b4378) |
-| Fri, 27 Mar 2026 13:31:42 GMT | Weekly Threat Landscape: Thursday Roundup #1 | Josh Johnson | [Read More](https://medium.com/p/8bb3b980d1fa) |
-| Fri, 27 Mar 2026 13:31:00 GMT | DPDP Act 2023 Explained: India’s Data Protection Law Simplified | Cyber Aries | [Read More](https://medium.com/p/c5f573d7f7fa) |
-| Fri, 27 Mar 2026 13:26:00 GMT | Smart Tips for Choosing a Locksmith in Greenwich, CT - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/a65c0e3145a3) |
-| Fri, 27 Mar 2026 13:25:58 GMT | I Built an Open-Source Tool That Simulates Nation-State Cyberattacks | Kakashi | [Read More](https://medium.com/p/e430e17cba66) |
-| Fri, 27 Mar 2026 13:15:14 GMT | From Key Distribution Problem to Diffi Hellman: A Practical Cryptographic Journey | ShudarsanRegmi | [Read More](https://medium.com/p/cb7999c2b868) |
-| Fri, 27 Mar 2026 13:15:09 GMT | Same Tool, Different Hands | Gaya Kim | [Read More](https://medium.com/p/eb718b9fff5a) |
-| Fri, 27 Mar 2026 13:14:49 GMT | 9‎ What is the most recent technology news? | Miraal Elliott | [Read More](https://medium.com/p/84f1e0ab2951) |
-| Fri, 27 Mar 2026 13:12:01 GMT | How Smart Access Control Software Improves Security | Semieta | [Read More](https://medium.com/p/72e9dd6c9b2b) |
-| Fri, 27 Mar 2026 13:11:15 GMT | From Code to Cloud: Production-Ready Apps on Google Cloud-Part 2 | Renu Khandelwal | [Read More](https://medium.com/p/086aa155b54a) |
-| Fri, 27 Mar 2026 13:09:05 GMT | Investigating with Splunk CTF Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/09ed5823e40e) |
-| Fri, 27 Mar 2026 13:04:36 GMT | Cybersecurity Risks in Virtual and Immersive Environments | Codearies | [Read More](https://medium.com/p/3f7e76545806) |
-| Fri, 27 Mar 2026 13:02:23 GMT | My SC-900 Learning Journey (Day 6) — What I Learned About Zero Trust, PIM, and Identity Protection… | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/9bda4b740377) |
-| Fri, 27 Mar 2026 13:01:03 GMT | Kioptrix Level 4(Kioptrix 1.3) - 04/100 | Veetaragpatil | [Read More](https://medium.com/p/c6477d8efb41) |
-| Fri, 27 Mar 2026 13:01:02 GMT | Linux Firewalls & System Hardening: Building Secure, Maintainable Linux Systems | Secured By Sebastion | [Read More](https://medium.com/p/decf77704676) |
-| Fri, 27 Mar 2026 12:47:34 GMT | Beginner Bug Bounty Roadmap (2026) — Step-by-Step Guide to Start Finding Bugs | Riya Limba | [Read More](https://medium.com/p/7e549f6e2bb9) |
-| Fri, 27 Mar 2026 12:41:09 GMT | Build Scalable Automation Systems with Expert Workflow Engineers | n8ndevelopers | [Read More](https://medium.com/p/a4e93ded9118) |
-| Fri, 27 Mar 2026 12:40:31 GMT | Living-off-the-Land Attacks: How Adversaries Use Legitimate Tools to Stay Invisible | Cynox Security LLP. | [Read More](https://medium.com/p/d8e0011bade8) |
-| Fri, 27 Mar 2026 12:35:04 GMT | Kingdom of Saudi Arabia Cybersecurity Market Key Growth Drivers, Challenges, Leading Key Players… | Technology Geek | [Read More](https://medium.com/p/9de3ebc93b4c) |
