@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Mar 2026 15:47:36 GMT | Proving Grounds — Practice — Access | Makoyi | [Read More](https://medium.com/p/a6e6a89f4ae6) |
+| Fri, 27 Mar 2026 15:44:17 GMT | HTB_Academy: LD_PRELOAD Privilege Escalation | Babatunde Ojo | [Read More](https://medium.com/p/290b1d821e74) |
+| Fri, 27 Mar 2026 15:43:19 GMT | I Spent 3 Months Failing at Bug Bounty — This Roadmap Fixed Everything | Vivek PS | [Read More](https://medium.com/p/907218fb5f05) |
+| Fri, 27 Mar 2026 15:37:00 GMT | The OpenClaw Security Crisis: What ClawHavoc Revealed About AI Agent Risk — and Why NemoClaw Isn’t… | M. Zaib | [Read More](https://medium.com/p/99dff5f68c8d) |
+| Fri, 27 Mar 2026 15:29:12 GMT | Network Traffic Analysis of an IcedID (BokBot) Infection — Reconstruction (Part 1) | kbxsrc | [Read More](https://medium.com/p/e6633d927a0e) |
+| Fri, 27 Mar 2026 15:27:19 GMT | How to Write Good Prompts for Offensive Security | Candy Wong | [Read More](https://medium.com/p/0d47415f4a1b) |
+| Fri, 27 Mar 2026 15:25:34 GMT | Memory Leak — #45 | Astasia Myers | [Read More](https://medium.com/p/30618c72d973) |
+| Fri, 27 Mar 2026 15:22:49 GMT | CS Fundamentals for Cyber Security: The Complete Foundation Guide | Kishor K. | [Read More](https://medium.com/p/d5ba101962ac) |
+| Fri, 27 Mar 2026 15:16:08 GMT | 10 Recon Wordlists Every Pentester Must Know | Candy Wong | [Read More](https://medium.com/p/484499d2ce9c) |
+| Fri, 27 Mar 2026 15:13:40 GMT | Cyber Briefing: 2026.03.27 | CyberMaterial | [Read More](https://medium.com/p/01f90506d06c) |
+| Fri, 27 Mar 2026 15:13:15 GMT | From Directory Listing to Breaking Logins | 0x0meowsec | [Read More](https://medium.com/p/02f15533eed7) |
+| Fri, 27 Mar 2026 15:12:45 GMT | Removing WinRAR License Pop-up using x64dbg | Zorai | [Read More](https://medium.com/p/2076df422c55) |
+| Fri, 27 Mar 2026 15:10:30 GMT | PicoCTF — Hidden Cipher 2 Writeup | Spandhan Panta | [Read More](https://medium.com/p/9acd43338c01) |
+| Fri, 27 Mar 2026 15:01:01 GMT | Clawdbot Didn’t Just Read My .env — It Understood What Every Secret Could Do | The Speed Engineer | [Read More](https://medium.com/p/730d8dc3e5b8) |
+| Fri, 27 Mar 2026 15:00:07 GMT | PowerShell — Convert NTFS Folder Security Permissions to Corresponding Share Permissions (Project) | Excalibra | [Read More](https://medium.com/p/8f8715c721ad) |
+| Fri, 27 Mar 2026 14:59:26 GMT | Career Paths in Software Engineering | Nimsara Lakshan | [Read More](https://medium.com/p/c5b4f11c1858) |
+| Fri, 27 Mar 2026 14:58:09 GMT | The ChatGPT Mirror: What RSA 2026 Revealed About AI Expectations | Ehulse | [Read More](https://medium.com/p/2dfbf334c1d7) |
+| Fri, 27 Mar 2026 14:56:21 GMT | Ra Writeup (TryHackMe Hard Machine) | Ivan Daňo | [Read More](https://medium.com/p/aa12e3bdc69c) |
+| Fri, 27 Mar 2026 14:49:28 GMT | Rainbow tables and hash tables are not the same | TimTrademark | [Read More](https://medium.com/p/5d7293cdacc9) |
 | Fri, 27 Mar 2026 14:46:10 GMT | SQL Injection in PHP Reservation System — Breaking Access Control via a Single Parameter | Cyber Tamarin | [Read More](https://medium.com/p/46dcd6a8a8e9) |
+| Fri, 27 Mar 2026 14:46:10 GMT | I Found a Path Traversal in InvenTree’s Report Engine — Here’s How It Works (CVE-2026–33531) | Alon Akirav | [Read More](https://medium.com/p/02a8cee24d8c) |
 | Fri, 27 Mar 2026 14:30:27 GMT | Your Rails JWT Auth Is Probably Insecure — Here’s What Most Devs Miss | Raza Hussain | [Read More](https://medium.com/p/da238a802098) |
 | Fri, 27 Mar 2026 14:27:07 GMT | WIZ Bug Bounty Master Class: SSRF Vulnerability on Major Gaming Company | Jared Douville | [Read More](https://medium.com/p/abd846fcf291) |
 | Fri, 27 Mar 2026 14:26:19 GMT | Local File Inclusion in a PHP Reservation System — From Parameter Abuse to Source Code Disclosure | Cyber Tamarin | [Read More](https://medium.com/p/f1ac55dd6178) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 11:01:08 GMT | Finding XSS Through HTML Injection — Without Fuzzing Tools | Windasunny | [Read More](https://medium.com/p/56e12143aff7) |
 | Fri, 27 Mar 2026 11:00:34 GMT | DeFi Isn’t About Liquidity Anymore — It’s About Execution | Ibrahim Dajin | [Read More](https://medium.com/p/0436f7b75c9d) |
 | Fri, 27 Mar 2026 11:00:20 GMT | The End of “Just Buy an iPhone” as Security Advice | Ujjwal Sharma | [Read More](https://medium.com/p/eac8f819542f) |
-| Fri, 27 Mar 2026 10:59:33 GMT | Scope Kya Hota Hai? Target Decide Karna Sikhte Hain! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/1f29aa17c7da) |
-| Fri, 27 Mar 2026 10:58:47 GMT | E-learning Services Market Outlook & Industry Trends 2033 | NIkita Poplai | [Read More](https://medium.com/p/e6be02740fe7) |
-| Fri, 27 Mar 2026 10:57:22 GMT | CRA vs UNECE R155/R156: Suppliers Now Need Two Cybersecurity Programs, Not One | Xeeniq Intelligence | [Read More](https://medium.com/p/e6158ab57f3b) |
-| Fri, 27 Mar 2026 10:56:35 GMT | The Small Security Gaps That Cause Big Problems | Periscope Tech | [Read More](https://medium.com/p/4c7cf61fb0f4) |
-| Fri, 27 Mar 2026 10:56:00 GMT | How Go Prevents Supply Chain Attacks | huizhou92 | [Read More](https://medium.com/p/bbb6b57155e1) |
-| Fri, 27 Mar 2026 10:55:53 GMT | Why Building Agentic AI SOC is Hard? | HarkX | [Read More](https://medium.com/p/a5f5292f3aae) |
-| Fri, 27 Mar 2026 10:54:28 GMT | The Dirty Secrets of “Secure” Hardware Wallets | kapKap | [Read More](https://medium.com/p/499192f41604) |
-| Fri, 27 Mar 2026 10:47:37 GMT | In-depth articles on "Post-Quantum Cryptography" (cybersecurity in the quantum age). | Djouzi Mohammed | [Read More](https://medium.com/p/22bcae79c30a) |
-| Fri, 27 Mar 2026 10:45:54 GMT | Affordable & Secure Hosting Solutions for Small Businesses | Ann Taylor | [Read More](https://medium.com/p/e061ec38ee03) |
-| Fri, 27 Mar 2026 10:38:54 GMT | HackerOne aur Bugcrowd Pehla Program Choose Karo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/297d19c89bfd) |
-| Fri, 27 Mar 2026 10:36:58 GMT | Why PECB Information Security Certifications Matter in Today’s Digital World | Gpramita | [Read More](https://medium.com/p/4971efaad739) |
-| Fri, 27 Mar 2026 10:29:38 GMT | DockerLabs Writeup — Mapache2 (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/bfad18852309) |
-| Fri, 27 Mar 2026 10:21:23 GMT | Struggling to Scale? The IT Services Your Business Actually Needs | Top Remotely | [Read More](https://medium.com/p/5288666b03ec) |
-| Fri, 27 Mar 2026 10:21:09 GMT | What is a Video Doorbell? Everything You Need to Know | Zentrol Home | [Read More](https://medium.com/p/acfbc3be52a8) |
-| Fri, 27 Mar 2026 10:20:34 GMT | Building Safer Workspaces: Security Services for Commercial Buildings in Delhi | Find Security Service | [Read More](https://medium.com/p/86db109d22f2) |
-| Fri, 27 Mar 2026 10:08:54 GMT | The Afternoon That Almost Stayed | roseey | [Read More](https://medium.com/p/917196d280c0) |
-| Fri, 27 Mar 2026 10:05:46 GMT | How to Actually Use LinkedIn If You Work in IT or Cybersecurity | Jbird | [Read More](https://medium.com/p/8a4b84f070bb) |
-| Fri, 27 Mar 2026 10:01:01 GMT | Why Auditors Quietly Appreciate Automated Tools | Gaurav Shukla | [Read More](https://medium.com/p/a167656cdd78) |
-| Fri, 27 Mar 2026 09:56:12 GMT | I Find Hidden APIs Before I Even Touch Burp Suite | ghostyjoe | [Read More](https://medium.com/p/266361142f78) |
-| Fri, 27 Mar 2026 09:55:26 GMT | SQL Injection UNION Attack: Retrieving Data from Other Tables-PortSwigger Write-up | shivam sharma | [Read More](https://medium.com/p/7e4ca8d41207) |
