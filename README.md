@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 18:38:23 GMT | Evil-GPT Walkthrough | Sachin Borse | [Read More](https://medium.com/p/6a551f2c952a) |
+| Sat, 28 Mar 2026 18:31:00 GMT | Why Blue Team Field Manual (BTFM) Should Be Required Reading for Cybersecurity Defenders | Stefan Bargan | [Read More](https://medium.com/p/88995a802749) |
+| Sat, 28 Mar 2026 18:29:26 GMT | Proxmox Port Mirroring: How to Send SPAN Traffic to a Suricata IDS VM Using Open vSwitch | David | [Read More](https://medium.com/p/dab7309f52e0) |
+| Sat, 28 Mar 2026 18:27:03 GMT | How Nuclei and Interactsh Work Together for Out-of-Band Vulnerability Testing: A Technical Deep… | Pulkit Mital | [Read More](https://medium.com/p/0d3c3939800f) |
+| Sat, 28 Mar 2026 18:21:59 GMT | Why Most Companies Fail at Cyber Defense | Shahzaib | [Read More](https://medium.com/p/76533e5eaa4a) |
+| Sat, 28 Mar 2026 18:21:44 GMT | CCTV - HTB - OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/1d146c687a48) |
+| Sat, 28 Mar 2026 18:18:30 GMT | I Built an AI Security Agent That Hunts Vulnerabilities Across Your Entire Microservices Org, Not… | Roshan | [Read More](https://medium.com/p/ba689e91d329) |
+| Sat, 28 Mar 2026 18:16:40 GMT | What Your Custody Insurance Carrier Can’t Verify | Heartlin Machado | [Read More](https://medium.com/p/f5788c2b66d6) |
+| Sat, 28 Mar 2026 18:12:35 GMT | You Can Find This Bug in ANY Website (How I Changed P5 to P1 Using Chain Vulnerability) | Tamilselvan A K | [Read More](https://medium.com/p/87f08fab35fa) |
+| Sat, 28 Mar 2026 18:11:43 GMT | Detecting Web Attacks: Common Client-Side attacks and How to detect them. | Ahmad Khaled | [Read More](https://medium.com/p/b77459df1527) |
+| Sat, 28 Mar 2026 18:01:40 GMT | 10x Smaller, 100x Safer: Building Secure & Compressed Microservices in Symfony | Matt Mochalkin | [Read More](https://medium.com/p/f63739a6c906) |
+| Sat, 28 Mar 2026 18:01:02 GMT | TLS Trafik Analizi | Hamid Aslanov | [Read More](https://medium.com/p/96320928e133) |
+| Sat, 28 Mar 2026 17:51:21 GMT | OverTheWire — Natas Walkthrough(0–10) | 0x77 | [Read More](https://medium.com/p/c9af82278654) |
+| Sat, 28 Mar 2026 17:38:25 GMT | The Tool That Was Supposed to Protect You | Mateen Anjum | [Read More](https://medium.com/p/23eabdc23cdb) |
+| Sat, 28 Mar 2026 17:37:54 GMT | Hackers, Spies, and Digital Ghosts: 14 Cybersecurity Documentaries You’ve Got to Watch | Namrata Dandgawal | [Read More](https://medium.com/p/e7af99f79278) |
+| Sat, 28 Mar 2026 17:35:22 GMT | How to Handle Sensitive Data Securely in Terraform | Winjoyntinyari | [Read More](https://medium.com/p/c2caf09d0fe8) |
+| Sat, 28 Mar 2026 17:24:05 GMT | Network Security: A Comprehensive Walkthrough of the NetSec Try Hack Me Challenge | Mohamed Elshamsi | [Read More](https://medium.com/p/6128b74651fd) |
 | Sat, 28 Mar 2026 17:09:27 GMT | The Email You Never Sent: Inside a Clever Email Bounce Attack | Clay Jones | [Read More](https://medium.com/p/9d79024bb502) |
 | Sat, 28 Mar 2026 17:08:35 GMT | Introduction to Network Analysis — Security Blue Team | Yrddry | [Read More](https://medium.com/p/0e52aaa5f501) |
 | Sat, 28 Mar 2026 17:06:28 GMT | Building the Blueprint: Why ‘Secure by Design’ is the Future of Tech | Hikmat Mammadov | [Read More](https://medium.com/p/f15b7926de5c) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 11:31:01 GMT | Vibe Coding Delivers. It Also Ships Vulnerabilities. Here’s the Data. | AI Transfer Lab | [Read More](https://medium.com/p/3ff78f5a71a3) |
 | Sat, 28 Mar 2026 11:31:00 GMT | The Most Dangerous Vulnerability Isn’t in Your Code — It’s in Your Assumptions | Gaurav Kashyap | [Read More](https://medium.com/p/0c7436ff38b5) |
 | Sat, 28 Mar 2026 11:28:11 GMT | RESTFUL API PENTEST — (Part 1) | 0bat.exe1 | [Read More](https://medium.com/p/4c09e63eedb2) |
-| Sat, 28 Mar 2026 11:26:49 GMT | ‍ My Cybersecurity Journey | Beetea Soc | [Read More](https://medium.com/p/353e61a3de82) |
-| Sat, 28 Mar 2026 11:25:02 GMT | Active Directory for Pentesters — Part 4: Kerberoasting Attack | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/466abcc0daaa) |
-| Sat, 28 Mar 2026 11:11:45 GMT | Types of Hackers — White Hat, Black Hat, Grey Hat and everything in between (2026) | Varun Papnai | [Read More](https://medium.com/p/004e67cb2b41) |
-| Sat, 28 Mar 2026 11:08:19 GMT | Understanding Ethernet: The Complete Wired Network Guide (2026) | Cyber-X Protocol | [Read More](https://medium.com/p/2a7576dafb97) |
-| Sat, 28 Mar 2026 10:51:50 GMT | Cloud Misconfiguration Risks in Focus After European Commission Cyber Incident | Jas | [Read More](https://medium.com/p/e8ac777002cb) |
-| Sat, 28 Mar 2026 10:51:34 GMT | AI Agents are Fragile. Stop your AI Agents from crashing: The 6-Layer Security Mesh | Heerj | [Read More](https://medium.com/p/3abdff0924d4) |
-| Sat, 28 Mar 2026 10:49:31 GMT | The Hidden Ways GDPR Affects Your Daily Life Online | AartiWrites | [Read More](https://medium.com/p/e4e7a4462020) |
-| Sat, 28 Mar 2026 10:49:12 GMT | True Satoshi-Maximalist Alternatives: Ditch the Brands, Build Your Own Air-Gapped Setup | kapKap | [Read More](https://medium.com/p/c4db922df78f) |
-| Sat, 28 Mar 2026 10:48:50 GMT | SSH-Secure Shell! | S.Sparshika | [Read More](https://medium.com/p/6eb742fdcc69) |
-| Sat, 28 Mar 2026 10:46:35 GMT | PicoCTF 2026 — JITFP Writeup | Spandhan Panta | [Read More](https://medium.com/p/738b3668dafd) |
-| Sat, 28 Mar 2026 10:43:50 GMT | How to Protect Aging Parents from AI Voice Scams and Identity Theft: A 2026 Family Safety Checklist | Avish Gokhool | [Read More](https://medium.com/p/570fdb50c37e) |
-| Sat, 28 Mar 2026 10:42:16 GMT | Implementing Secure Server-Side Authentication in Next.js 16 with HttpOnly Cookies | Aman Goyal | [Read More](https://medium.com/p/9b64461119f4) |
-| Sat, 28 Mar 2026 10:41:03 GMT | Subfinder Subdomains Dhundho Like an Elite Hacker! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/8ba60ce89dd0) |
-| Sat, 28 Mar 2026 10:35:21 GMT | Your Authenticator App Is Not Talking to the Server: How TOTP MFA Actually Works | Manish Rana | [Read More](https://medium.com/p/73cbbc3ac716) |
-| Sat, 28 Mar 2026 10:31:00 GMT | You Don’t Get Hacked All at Once — It Happens in Small Steps | Gaurav Kashyap | [Read More](https://medium.com/p/32c809056547) |
-| Sat, 28 Mar 2026 10:29:19 GMT | The Day Your Phone Knows More About You Than Your Family | Devarshi Acharya | [Read More](https://medium.com/p/75dccb468181) |
-| Sat, 28 Mar 2026 10:25:01 GMT | PYTHON ONE LINERS FOR H@CK3R$ | Arka Priya Das | [Read More](https://medium.com/p/ceaf46db1e5e) |
