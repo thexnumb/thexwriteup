@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 20:20:22 GMT | Centralizing OCI Service Access: A Hybrid PSA + HAProxy Architecture for Enterprise Environments | Alessandro Moccia | [Read More](https://medium.com/p/a9940795adab) |
+| Sat, 28 Mar 2026 20:09:10 GMT | The RAG Security Gap Nobody’s Talking About — And How I Built a Tool to Fix It | Ashwin Raj | [Read More](https://medium.com/p/b6d58ec9368d) |
+| Sat, 28 Mar 2026 20:05:14 GMT | Each of us works for one of the richest companies in the world every single day, without pay or… | Igor Berner | [Read More](https://medium.com/p/14f318216eb1) |
+| Sat, 28 Mar 2026 20:01:42 GMT | The Hidden Cost of Giving Away Your Email Address (And Why It Matters More Than You Think) | Mark | [Read More](https://medium.com/p/d6c4ff3e0b6b) |
+| Sat, 28 Mar 2026 20:01:12 GMT | I Exploit BYOVD for a Living, and Even I Think This Rollout Is Going to Cause More Harm Than Good | Anthony Cihan | [Read More](https://medium.com/p/f03ed26cc870) |
+| Sat, 28 Mar 2026 20:01:00 GMT | When AI Trusts Too Much — The Danger of Compromised Tools | NeaByteLab | [Read More](https://medium.com/p/d2c383ef650d) |
+| Sat, 28 Mar 2026 20:00:40 GMT | Quantum-Safe Security: What Happens to Cryptography When Quantum Computers + AI Collide | David Kljajo | [Read More](https://medium.com/p/b9c3c4a3e49b) |
+| Sat, 28 Mar 2026 19:55:28 GMT | Solución CTF — Team | SatoBlack | [Read More](https://medium.com/p/e96971daee31) |
+| Sat, 28 Mar 2026 19:41:12 GMT | How I Validated a Log Pipeline in Splunk as a SOC Analyst | Becca | [Read More](https://medium.com/p/78e8f1537a88) |
+| Sat, 28 Mar 2026 19:39:27 GMT | I Watched My Computer “Talk” to the Internet -Here’s What I Discovered (DNS Analysis with… | Becca | [Read More](https://medium.com/p/09babf05b50a) |
+| Sat, 28 Mar 2026 19:36:34 GMT | Burpsuite Tool-u nədir və onun praktiki izahı | Kamalatluxanov | [Read More](https://medium.com/p/77d13dbff1c9) |
+| Sat, 28 Mar 2026 19:35:20 GMT | Try Hack Me- Fusion Corp CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/47421f4bd3c0) |
 | Sat, 28 Mar 2026 19:14:25 GMT | HTB: EscapeTwo | Dipesh Paul | [Read More](https://medium.com/p/51e2afcfbac5) |
 | Sat, 28 Mar 2026 19:13:46 GMT | Anthropic Just Accidentally Leaked Their Most Dangerous AI Model — And Wall Street Is Panicking | Anup Karanjkar | [Read More](https://medium.com/p/4a60d25b939e) |
 | Sat, 28 Mar 2026 19:11:54 GMT | Security Tools & Defense Systems: Building Strong Network Protection | Ndu | [Read More](https://medium.com/p/0da1a8ebc9fe) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 13:08:55 GMT | 5 Agentic AI Workflows That Will Power Autonomous SOCs in 2026 | Garvit Haswani | [Read More](https://medium.com/p/76acc11967fc) |
 | Sat, 28 Mar 2026 13:06:52 GMT | Vulnerability | paper trails | [Read More](https://medium.com/p/118036cf6cee) |
 | Sat, 28 Mar 2026 13:02:42 GMT | Most Common TCP/UDP Ports and Protocols Every Security Professional Should Know | Ferdi Edogawa | [Read More](https://medium.com/p/6fe0959a746b) |
-| Sat, 28 Mar 2026 12:58:54 GMT | Securing Your APIs with Apache APISIX: A Practical Guide | Md Saikat | [Read More](https://medium.com/p/c08c090c79d0) |
-| Sat, 28 Mar 2026 12:49:17 GMT | Credentials Route. Identity Confirms. Agent Discovery Has It Backwards. | Douglas Borthwick | [Read More](https://medium.com/p/26d385101540) |
-| Sat, 28 Mar 2026 12:46:00 GMT | If You Truly Understand These 8 Things, You’ll Never Be Confused About Auth Again | Lets Learn Now | [Read More](https://medium.com/p/6206042f212f) |
-| Sat, 28 Mar 2026 12:23:40 GMT | CVE-2026–24061 GNU InetUtils Telnetd Authentication Bypass Vulnerability — RCE as Root | Eternal Edge | [Read More](https://medium.com/p/95b60f8cafbe) |
-| Sat, 28 Mar 2026 12:22:39 GMT | API2: Broken Authentication — It’s Not Just About Passwords | Cyberbali | [Read More](https://medium.com/p/52d723d5b785) |
-| Sat, 28 Mar 2026 12:22:03 GMT | How to Save Data from Telegram | Dr. Viktor Sirotin | [Read More](https://medium.com/p/9db79ba8ed4f) |
-| Sat, 28 Mar 2026 12:16:00 GMT | Speech, Law, and Mercy: An Islamic Framework for Free and Safe Societies | Mohamed, Ph.D | [Read More](https://medium.com/p/f6067ba1d4ca) |
-| Sat, 28 Mar 2026 12:11:34 GMT | How to Protect Your Business from Cyber Attacks (2026 Complete Guide) | Samshtechtechnologies | [Read More](https://medium.com/p/16fc9d9479db) |
-| Sat, 28 Mar 2026 12:06:55 GMT | Content-Type, Digest, and Signature: The Trio That Secures Modern Financial APIs | The Fintech Engineer | [Read More](https://medium.com/p/b02ab4ee97ce) |
-| Sat, 28 Mar 2026 12:05:57 GMT | Alpha Raid Command: Operational information for early detection. Who are we? | Qzorq | [Read More](https://medium.com/p/15d94ec8d18e) |
-| Sat, 28 Mar 2026 12:01:05 GMT | TCP/IP Five-Layer Network Model | Rafasetiaawaan | [Read More](https://medium.com/p/e028ce6c1152) |
-| Sat, 28 Mar 2026 12:00:39 GMT | I Recommended Banning AI at Work. It Backfired Spectacularly. | Lisa Honda | [Read More](https://medium.com/p/ff2a57e81859) |
