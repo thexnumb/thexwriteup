@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 07:01:00 GMT | 23. Designing Production-Ready CI/CD Architecture | Mangesh Muley | [Read More](https://medium.com/p/e923178bc535) |
+| Sat, 28 Mar 2026 06:42:00 GMT | Introducing Leevium: My IT, tech & computing blog | Kent Lee | [Read More](https://medium.com/p/f22b193c9953) |
+| Sat, 28 Mar 2026 06:33:21 GMT | 5 Signs You’re About to Get Scammed (What Scammers Don’t Want You to Know) | Decode Help | [Read More](https://medium.com/p/7788c75df7c6) |
+| Sat, 28 Mar 2026 06:31:37 GMT | Hackviser Unrestricted File Upload Labs — File Extension Improved Filter Bypass | s4l1hs | [Read More](https://medium.com/p/af986279d644) |
+| Sat, 28 Mar 2026 06:28:37 GMT | Working Inside OpenAI | Nizamuddin Siddiqui | [Read More](https://medium.com/p/30193c96a10d) |
+| Sat, 28 Mar 2026 06:26:07 GMT | Web App Pen Test: What I Check in the First 10 Minutes of Every Engagement | Kuboid Secure Layer | [Read More](https://medium.com/p/1f7638431386) |
+| Sat, 28 Mar 2026 06:18:33 GMT | Warehouse Security Guards: The Backbone of Safe and Efficient Logistics | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/ddc07ad34476) |
+| Sat, 28 Mar 2026 06:16:00 GMT | What APIs Really Do (And Why Everything Breaks Without Them) | Aiman Zafar | [Read More](https://medium.com/p/835416df8b91) |
+| Sat, 28 Mar 2026 06:08:01 GMT | The Ultimate Guide to Secure Payment Gateways in India (2026 Edition) | Seocreativity | [Read More](https://medium.com/p/ace391b49b2a) |
+| Sat, 28 Mar 2026 06:07:55 GMT | Eavesdropping on Starlink: How Researchers Turned Internet Satellites into a Stealth GPS… | James Marinero, MSc, MBA | [Read More](https://medium.com/p/71cb0b4c9c03) |
+| Sat, 28 Mar 2026 05:56:32 GMT | Strategic Industrial Cyber Warfare Analysis — Briefing 06 | Muhammad Ali Khan | [Read More](https://medium.com/p/e36eb085b01c) |
 | Sat, 28 Mar 2026 05:37:50 GMT | How Artificial Intelligence Is Changing Cybersecurity (For Better and Worse) | Nisa | [Read More](https://medium.com/p/d91d0381dc90) |
 | Sat, 28 Mar 2026 05:36:26 GMT | How I Bypassed SSO to Access Sony’s Internal AI Chat Assistant (Broken Access Control) | ᲼᲼᲼᲼᲼᲼᲼᲼᲼ | [Read More](https://medium.com/p/6f0c62426d9b) |
 | Sat, 28 Mar 2026 05:36:16 GMT | Hackviser Unrestricted File Upload Labs — File Extension Filter Bypass | s4l1hs | [Read More](https://medium.com/p/c4d104b93212) |
@@ -103,14 +114,3 @@ Cryptera Chain… | Cryptera Chain Signals | [Read More](https://medium.com/p/ef
 | Fri, 27 Mar 2026 19:36:48 GMT | Containerizing Claude | Martin Larsson | [Read More](https://medium.com/p/ef722831fb10) |
 | Fri, 27 Mar 2026 19:35:09 GMT | Constraining Claude? | Martin Larsson | [Read More](https://medium.com/p/514a7eed9fc7) |
 | Fri, 27 Mar 2026 19:24:05 GMT | The Agentic Auth Problem Nobody Is Actually Solving | Venkat Peri | [Read More](https://medium.com/p/8f7d364ae3e3) |
-| Fri, 27 Mar 2026 19:16:55 GMT | Demystifying eBPF: Writing Your First Kernel-Level Command Blocker in Go | Asiagijoseph | [Read More](https://medium.com/p/ceeaf93e6ca2) |
-| Fri, 27 Mar 2026 19:16:00 GMT | Everyone Says “Nothing to Hide” — Until They Actually Need Privacy | Mark | [Read More](https://medium.com/p/c0780f509e27) |
-| Fri, 27 Mar 2026 19:09:26 GMT | Reverse Engineering Mobile Apps - When Attackers Read the Code You Thought Nobody Could See | Rufus Kehinde | [Read More](https://medium.com/p/7619efa3404a) |
-| Fri, 27 Mar 2026 19:09:26 GMT | RSAC Focuses Cybersecurity Insights, Tech, and Community in One Place | Matthew.Rosenquist | [Read More](https://medium.com/p/2b00c4a36c4b) |
-| Fri, 27 Mar 2026 19:08:53 GMT | FAT CAT (Forensics)— KJSSE CTF 3.0 | Vedant Pillai | [Read More](https://medium.com/p/389909256dc5) |
-| Fri, 27 Mar 2026 19:06:55 GMT | Professional Data Center Manager Course - IDCA | International Data Center Authority | [Read More](https://medium.com/p/670993d290ce) |
-| Fri, 27 Mar 2026 19:05:38 GMT | Tomghost [Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/7e1c4a2cd602) |
-| Fri, 27 Mar 2026 19:03:21 GMT | Pentest Chronicles: My Web App Journey Day #1 | fwoba | [Read More](https://medium.com/p/a07d4337bc8a) |
-| Fri, 27 Mar 2026 19:03:08 GMT | TeamPCP Hack Explained: AI Supply Chain Attack Hits 95 Million Developers | Technijian | [Read More](https://medium.com/p/4e5c4bd09cba) |
-| Fri, 27 Mar 2026 18:56:50 GMT | Network #4 | Umid Nagiyev | [Read More](https://medium.com/p/f765e1ba3f28) |
-| Fri, 27 Mar 2026 18:56:00 GMT | EU Cyber Resilience Act: What Product Teams Should Do Now | Frank Leitner | [Read More](https://medium.com/p/a6734ab15136) |
