@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 05:37:50 GMT | How Artificial Intelligence Is Changing Cybersecurity (For Better and Worse) | Nisa | [Read More](https://medium.com/p/d91d0381dc90) |
+| Sat, 28 Mar 2026 05:36:26 GMT | How I Bypassed SSO to Access Sony’s Internal AI Chat Assistant (Broken Access Control) | ᲼᲼᲼᲼᲼᲼᲼᲼᲼ | [Read More](https://medium.com/p/6f0c62426d9b) |
+| Sat, 28 Mar 2026 05:36:16 GMT | Hackviser Unrestricted File Upload Labs — File Extension Filter Bypass | s4l1hs | [Read More](https://medium.com/p/c4d104b93212) |
+| Sat, 28 Mar 2026 05:33:59 GMT | Google Dorking for Bug Bounty — How Hackers Find Hidden Vulnerabilities | Riya Limba | [Read More](https://medium.com/p/5fcc3a1089da) |
+| Sat, 28 Mar 2026 05:31:00 GMT | How to Investigate a Phishing Alert Step-by-Step (A Beginner’s SOC Playbook) | Manubhav Sharma | [Read More](https://medium.com/p/8a655ef2121e) |
+| Sat, 28 Mar 2026 05:25:48 GMT | Practical Cybersecurity Learning: Setting Up My Home Lab Using Wireshark | CyberRise Institute | [Read More](https://medium.com/p/77d6a963c4ee) |
+| Sat, 28 Mar 2026 05:15:05 GMT | Kali NetHunter 2026 Updates: The Future of Mobile Ethical Hacking | Allcrack | [Read More](https://medium.com/p/8958d2c9c8f9) |
+| Sat, 28 Mar 2026 05:13:11 GMT | The Claude Model That Wasn’t
+Supposed to Be Seen | Faisal haque | [Read More](https://medium.com/p/148155820416) |
+| Sat, 28 Mar 2026 05:07:25 GMT | LiteLLM vs Bifrost in 2026: An Honest Comparison After the Supply Chain Wake-Up Call | Pranay Batta | [Read More](https://medium.com/p/f53911ced0f2) |
+| Sat, 28 Mar 2026 05:02:17 GMT | Locksmith Door Lock — Expert Solutions for Safe, Secure & Hassle-Free Access in London | N1locksmithsltd | [Read More](https://medium.com/p/ed26f63ae29d) |
+| Sat, 28 Mar 2026 04:59:38 GMT | Building the Backbone of Trust: Data Center Security in UAE | Tekhabeeb | [Read More](https://medium.com/p/a482d64ff36b) |
+| Sat, 28 Mar 2026 04:56:00 GMT | End-to-End Security for Android APIs: Best Practices & Architecture | Parita Dey | [Read More](https://medium.com/p/f54f4300067d) |
+| Sat, 28 Mar 2026 04:44:37 GMT | Zero-Day, Zero Panic: How to Buy Time with AWS WAF Virtual Patching | Karthik Renganathan | [Read More](https://medium.com/p/e23e57095b9d) |
+| Sat, 28 Mar 2026 04:34:01 GMT | The Full Acquisition: What It Really Looks Like to Sell Your IT Company | Sudiip Maathur | [Read More](https://medium.com/p/e12e206cb488) |
 | Sat, 28 Mar 2026 04:28:38 GMT | How a Switch Actually “Learns”: Demystifying MAC Addresses and the CAM Table | Chamodudayangau | [Read More](https://medium.com/p/995304a235cf) |
 | Sat, 28 Mar 2026 04:21:03 GMT | The Line Between Tool and Exploit Is Getting Thin | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6bd23b9e57c9) |
 | Sat, 28 Mar 2026 04:18:33 GMT | Part 7: The Iron-Clad Security Protocol — A Developer’s Midnight Reflection ️✨ | Bilal Writes | [Read More](https://medium.com/p/b3f8b26a333c) |
@@ -99,17 +114,3 @@ Cryptera Chain… | Cryptera Chain Signals | [Read More](https://medium.com/p/ef
 | Fri, 27 Mar 2026 19:03:08 GMT | TeamPCP Hack Explained: AI Supply Chain Attack Hits 95 Million Developers | Technijian | [Read More](https://medium.com/p/4e5c4bd09cba) |
 | Fri, 27 Mar 2026 18:56:50 GMT | Network #4 | Umid Nagiyev | [Read More](https://medium.com/p/f765e1ba3f28) |
 | Fri, 27 Mar 2026 18:56:00 GMT | EU Cyber Resilience Act: What Product Teams Should Do Now | Frank Leitner | [Read More](https://medium.com/p/a6734ab15136) |
-| Fri, 27 Mar 2026 18:55:56 GMT | The Ultimate Bug Bounty Course: From Zero to Advanced Hacker 7 | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/e641733d998c) |
-| Fri, 27 Mar 2026 18:50:06 GMT | Your Python Install Runs Code You Never Imported | Matthew Joseph Taylor | [Read More](https://medium.com/p/b8bffa62f87d) |
-| Fri, 27 Mar 2026 18:46:15 GMT | HTB_Academy: Windows Privilege Escalation — SeImpersonate | Babatunde Ojo | [Read More](https://medium.com/p/56f5830e0377) |
-| Fri, 27 Mar 2026 18:45:02 GMT | Understanding UAC and How Hackers Bypass It | Cybersectoworld | [Read More](https://medium.com/p/aac78cfb1012) |
-| Fri, 27 Mar 2026 18:42:54 GMT | Math, Not Trust: Introducing VerixID | VerixID | [Read More](https://medium.com/p/503cf70edc54) |
-| Fri, 27 Mar 2026 18:37:08 GMT | Host & Network Penetration Testing: Network-Based Attacks CTF 1 | Vanshaj Kumar | [Read More](https://medium.com/p/5c5d4fa417e5) |
-| Fri, 27 Mar 2026 18:28:31 GMT | Hands-On Splunk: SPL Techniques for Log Analysis | Alihajipour It | [Read More](https://medium.com/p/e5dbf5560251) |
-| Fri, 27 Mar 2026 18:27:12 GMT | Day 2: Demystifying IAM — The Architect’s Guide to Authentication, Authorization, and Zero Trust | Ndu | [Read More](https://medium.com/p/122ff11a83fb) |
-| Fri, 27 Mar 2026 18:26:36 GMT | Understanding DNS & DHCP: The Backbone of Network Communication | Ndu | [Read More](https://medium.com/p/bf05a9556610) |
-| Fri, 27 Mar 2026 18:21:36 GMT | Your Energy System Is Now a Cybersecurity Risk | Nashville Solar Works | [Read More](https://medium.com/p/0363b23a62c6) |
-| Fri, 27 Mar 2026 18:21:01 GMT | Building a Fully Local LLM-Powered Security Assistant Using RAG (No APIs Required) | Gowtham Revanur | [Read More](https://medium.com/p/55d1e3b07502) |
-| Fri, 27 Mar 2026 18:11:17 GMT | Microsoft 365 Migration Tools for Enterprise IT (2026) | Jaskirn Basra | [Read More](https://medium.com/p/09c89e5f32d0) |
-| Fri, 27 Mar 2026 18:06:46 GMT | SharePoint On-Premises to SharePoint Online Migration Tools (2026) | Jaskirn Basra | [Read More](https://medium.com/p/de5b1059666f) |
-| Fri, 27 Mar 2026 18:05:20 GMT | We Don’t Understand the Code We Ship Anymore. VibeSec in Vibe-Coding Era | Zuzanna Mówińska | [Read More](https://medium.com/p/5a2ad8aea158) |
