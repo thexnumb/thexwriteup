@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 12:22:39 GMT | API2: Broken Authentication — It’s Not Just About Passwords | Cyberbali | [Read More](https://medium.com/p/52d723d5b785) |
+| Sat, 28 Mar 2026 12:22:03 GMT | How to Save Data from Telegram | Dr. Viktor Sirotin | [Read More](https://medium.com/p/9db79ba8ed4f) |
+| Sat, 28 Mar 2026 12:16:00 GMT | Speech, Law, and Mercy: An Islamic Framework for Free and Safe Societies | Mohamed, Ph.D | [Read More](https://medium.com/p/f6067ba1d4ca) |
+| Sat, 28 Mar 2026 12:11:34 GMT | How to Protect Your Business from Cyber Attacks (2026 Complete Guide) | Samshtechtechnologies | [Read More](https://medium.com/p/16fc9d9479db) |
+| Sat, 28 Mar 2026 12:06:55 GMT | Content-Type, Digest, and Signature: The Trio That Secures Modern Financial APIs | The Fintech Engineer | [Read More](https://medium.com/p/b02ab4ee97ce) |
+| Sat, 28 Mar 2026 12:05:57 GMT | Alpha Raid Command: Operational information for early detection. Who are we? | Qzorq | [Read More](https://medium.com/p/15d94ec8d18e) |
+| Sat, 28 Mar 2026 12:01:05 GMT | TCP/IP Five-Layer Network Model | Rafasetiaawaan | [Read More](https://medium.com/p/e028ce6c1152) |
+| Sat, 28 Mar 2026 12:00:39 GMT | I Recommended Banning AI at Work. It Backfired Spectacularly. | Lisa Honda | [Read More](https://medium.com/p/ff2a57e81859) |
+| Sat, 28 Mar 2026 11:56:18 GMT | Taking a leap into Splunk | Techwin Cyber | [Read More](https://medium.com/p/e06a9e5a1c69) |
+| Sat, 28 Mar 2026 11:51:08 GMT | Gimme Shelter | John Yenne | [Read More](https://medium.com/p/630901a6f806) |
+| Sat, 28 Mar 2026 11:45:59 GMT | CYBER WARFARE AND STATE RESPONSIBILITY UNDER INTERNATIONAL LAW | Xamrayeva E'zoza | [Read More](https://medium.com/p/4aeda2e3c828) |
+| Sat, 28 Mar 2026 11:45:34 GMT | Defending " Data Exfiltration via Microsoft Graph " : Living Off the API | Ranjith A | [Read More](https://medium.com/p/7e4aaea976ca) |
+| Sat, 28 Mar 2026 11:43:24 GMT | Will GitHub’s AI training give rise to a new type of hacker attack? | Jack Green | [Read More](https://medium.com/p/70b1286b958c) |
+| Sat, 28 Mar 2026 11:36:00 GMT | Malware Isn’t the Threat — It’s the Business Model Behind It | Err0rr0rre | [Read More](https://medium.com/p/7f9ede0eaa4e) |
 | Sat, 28 Mar 2026 11:31:01 GMT | Vibe Coding Delivers. It Also Ships Vulnerabilities. Here’s the Data. | AI Transfer Lab | [Read More](https://medium.com/p/3ff78f5a71a3) |
 | Sat, 28 Mar 2026 11:31:00 GMT | The Most Dangerous Vulnerability Isn’t in Your Code — It’s in Your Assumptions | Gaurav Kashyap | [Read More](https://medium.com/p/0c7436ff38b5) |
 | Sat, 28 Mar 2026 11:28:11 GMT | RESTFUL API PENTEST — (Part 1) | 0bat.exe1 | [Read More](https://medium.com/p/4c09e63eedb2) |
@@ -98,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 05:36:16 GMT | Hackviser Unrestricted File Upload Labs — File Extension Filter Bypass | s4l1hs | [Read More](https://medium.com/p/c4d104b93212) |
 | Sat, 28 Mar 2026 05:33:59 GMT | Google Dorking for Bug Bounty — How Hackers Find Hidden Vulnerabilities | Riya Limba | [Read More](https://medium.com/p/5fcc3a1089da) |
 | Sat, 28 Mar 2026 05:31:00 GMT | How to Investigate a Phishing Alert Step-by-Step (A Beginner’s SOC Playbook) | Manubhav Sharma | [Read More](https://medium.com/p/8a655ef2121e) |
-| Sat, 28 Mar 2026 05:25:48 GMT | Practical Cybersecurity Learning: Setting Up My Home Lab Using Wireshark | CyberRise Institute | [Read More](https://medium.com/p/77d6a963c4ee) |
-| Sat, 28 Mar 2026 05:15:09 GMT | LLM Vulnerability to Internet Source Manipulation | NeaByteLab | [Read More](https://medium.com/p/ad8c762c8033) |
-| Sat, 28 Mar 2026 05:15:05 GMT | Kali NetHunter 2026 Updates: The Future of Mobile Ethical Hacking | Allcrack | [Read More](https://medium.com/p/8958d2c9c8f9) |
-| Sat, 28 Mar 2026 05:13:11 GMT | The Claude Model That Wasn’t
-Supposed to Be Seen | Faisal haque | [Read More](https://medium.com/p/148155820416) |
-| Sat, 28 Mar 2026 05:07:25 GMT | LiteLLM vs Bifrost in 2026: An Honest Comparison After the Supply Chain Wake-Up Call | Pranay Batta | [Read More](https://medium.com/p/f53911ced0f2) |
-| Sat, 28 Mar 2026 05:02:17 GMT | Locksmith Door Lock — Expert Solutions for Safe, Secure & Hassle-Free Access in London | N1locksmithsltd | [Read More](https://medium.com/p/ed26f63ae29d) |
-| Sat, 28 Mar 2026 04:59:38 GMT | Building the Backbone of Trust: Data Center Security in UAE | Tekhabeeb | [Read More](https://medium.com/p/a482d64ff36b) |
-| Sat, 28 Mar 2026 04:56:00 GMT | End-to-End Security for Android APIs: Best Practices & Architecture | Parita Dey | [Read More](https://medium.com/p/f54f4300067d) |
-| Sat, 28 Mar 2026 04:44:37 GMT | Zero-Day, Zero Panic: How to Buy Time with AWS WAF Virtual Patching | Karthik Renganathan | [Read More](https://medium.com/p/e23e57095b9d) |
-| Sat, 28 Mar 2026 04:34:01 GMT | The Full Acquisition: What It Really Looks Like to Sell Your IT Company | Sudiip Maathur | [Read More](https://medium.com/p/e12e206cb488) |
-| Sat, 28 Mar 2026 04:28:38 GMT | How a Switch Actually “Learns”: Demystifying MAC Addresses and the CAM Table | Chamodudayangau | [Read More](https://medium.com/p/995304a235cf) |
-| Sat, 28 Mar 2026 04:21:03 GMT | The Line Between Tool and Exploit Is Getting Thin | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6bd23b9e57c9) |
-| Sat, 28 Mar 2026 04:18:33 GMT | Part 7: The Iron-Clad Security Protocol — A Developer’s Midnight Reflection ️✨ | Bilal Writes | [Read More](https://medium.com/p/b3f8b26a333c) |
-| Sat, 28 Mar 2026 04:17:30 GMT | When One Update Breaks the World: Why Quality Engineering Is Critical to Modern Systems | Elizabeth Oyeyipo | [Read More](https://medium.com/p/5d7fd827b029) |
