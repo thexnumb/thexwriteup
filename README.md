@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 21:16:50 GMT | Add Pre-Signature Policy Enforcement to AWS KMS Signing in 10 Minutes | Heartlin Machado | [Read More](https://medium.com/p/275a04efc642) |
+| Sat, 28 Mar 2026 21:14:46 GMT | Google Confirms High-Risk Update For 3.5 Billion Chrome Users | Moni | [Read More](https://medium.com/p/e91ee6def979) |
+| Sat, 28 Mar 2026 21:08:47 GMT | Apple Home Key vs. UniFi Touch Pass: A Deep Technical Breakdown of How Your Phone Unlocks Doors | Dipak Parmar | [Read More](https://medium.com/p/e9823e450dc3) |
+| Sat, 28 Mar 2026 21:05:28 GMT | OverTheWire Bandit Walkthrough for Beginners Part 1: Levels 0–1 | Bhumijofficial | [Read More](https://medium.com/p/d9051e70c862) |
+| Sat, 28 Mar 2026 20:51:00 GMT | $STRK at Risk: Why Dismissing Security Reports as “AI Slop” is a Critical Mistake | rdin777 | [Read More](https://medium.com/p/3838f2b13b47) |
+| Sat, 28 Mar 2026 20:48:26 GMT | Fedora Linux Ships With an Ultra-Powerful Tool Most People Never Even Open | Rayhanuddinkhan | [Read More](https://medium.com/p/f9e6424d600f) |
+| Sat, 28 Mar 2026 20:39:54 GMT | Knife Machine — HackTheBox Writeup | William Shively | [Read More](https://medium.com/p/cc8600ce3328) |
+| Sat, 28 Mar 2026 20:39:38 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 1 | Vanshaj Kumar | [Read More](https://medium.com/p/c9611a1a3814) |
+| Sat, 28 Mar 2026 20:38:54 GMT | This Is Why Nothing Changes in Nigeria — Even When We Think It Will | Calvin | [Read More](https://medium.com/p/861ea905057c) |
 | Sat, 28 Mar 2026 20:20:22 GMT | Centralizing OCI Service Access: A Hybrid PSA + HAProxy Architecture for Enterprise Environments | Alessandro Moccia | [Read More](https://medium.com/p/a9940795adab) |
 | Sat, 28 Mar 2026 20:09:10 GMT | The RAG Security Gap Nobody’s Talking About — And How I Built a Tool to Fix It | Ashwin Raj | [Read More](https://medium.com/p/b6d58ec9368d) |
 | Sat, 28 Mar 2026 20:05:14 GMT | Each of us works for one of the richest companies in the world every single day, without pay or… | Igor Berner | [Read More](https://medium.com/p/14f318216eb1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 13:50:25 GMT | How to Send an Anonymous Email in 2026 (Without Being Traced) | Warren Smith | [Read More](https://medium.com/p/1fb94a8af61b) |
 | Sat, 28 Mar 2026 13:48:02 GMT | How to fix zsh memory corruption: corrupt history file /home/kali/.zsh_history | Albertstive | [Read More](https://medium.com/p/59b01bcd5a4f) |
 | Sat, 28 Mar 2026 13:32:51 GMT | The iPhone That Doesn’t Really Turn Off: How Apple’s Find My Network Keeps Tracking | Def | [Read More](https://medium.com/p/4277f7103831) |
-| Sat, 28 Mar 2026 13:31:00 GMT | Home lab: Building a Secure Small Office Network from Scratch | Mayank Bhagwat | [Read More](https://medium.com/p/88ccbc522d80) |
-| Sat, 28 Mar 2026 13:30:23 GMT | C# & Powershell AMSI Bypass 2026 | Syphrx | [Read More](https://medium.com/p/90b588c513e2) |
-| Sat, 28 Mar 2026 13:26:43 GMT | How Easily Our Devices Can Be Hacked — And Why Safe Browsing Matters More Than Ever | Jjumbajulius | [Read More](https://medium.com/p/690ab9be4716) |
-| Sat, 28 Mar 2026 13:17:50 GMT | When Digital Platforms Control Everything: The Risk of Centralized Digital Power | Dr. Anil Tiwari | [Read More](https://medium.com/p/218d8cb0c155) |
-| Sat, 28 Mar 2026 13:17:40 GMT | One Update Away From Disaster: The Dark Side of Browser Extensions | Abhishek Chougule | [Read More](https://medium.com/p/7f9a94e41b22) |
-| Sat, 28 Mar 2026 13:12:53 GMT | Historical Accuracy of Airport Ticket Purchases Without Reservations Pre-9/11 Examined | Olivia Davis | [Read More](https://medium.com/p/53cb508f9143) |
-| Sat, 28 Mar 2026 13:08:55 GMT | 5 Agentic AI Workflows That Will Power Autonomous SOCs in 2026 | Garvit Haswani | [Read More](https://medium.com/p/76acc11967fc) |
-| Sat, 28 Mar 2026 13:06:52 GMT | Vulnerability | paper trails | [Read More](https://medium.com/p/118036cf6cee) |
-| Sat, 28 Mar 2026 13:02:42 GMT | Most Common TCP/UDP Ports and Protocols Every Security Professional Should Know | Ferdi Edogawa | [Read More](https://medium.com/p/6fe0959a746b) |
