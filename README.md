@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 15:21:00 GMT | The Day Your AI Agent Deletes Production — What Will You Show in Court? | GuardClaw | [Read More](https://medium.com/p/b59df76d8c44) |
+| Sat, 28 Mar 2026 15:17:56 GMT | We are the minority online. The AI Traffic & Cyberthreat data proving Dead Internet Theory | Rohit Kumar Thakur | [Read More](https://medium.com/p/46ab3730f249) |
+| Sat, 28 Mar 2026 15:16:49 GMT | Detecting SSH Brute-Force Attack and Suspected Compromise Using Splunk And OpenSSH Logs | Myra Moses Gomba | [Read More](https://medium.com/p/a42ac70f85e2) |
+| Sat, 28 Mar 2026 15:16:09 GMT | Simple Cybersecurity Tips Everyone Should Know | Aissadah | [Read More](https://medium.com/p/1db34573a2c6) |
+| Sat, 28 Mar 2026 15:06:12 GMT | U.A. High School — TryHackMe Walkthrough | Rayenhafsawy | [Read More](https://medium.com/p/ab3a0170a5d0) |
+| Sat, 28 Mar 2026 15:03:09 GMT | The Mindset of a Modern Penetration Tester: More Than Just Hacking | Charlesiheke | [Read More](https://medium.com/p/dacac24025cb) |
+| Sat, 28 Mar 2026 15:02:59 GMT | The Illusion of Consent: Why Online Privacy Still Fails Users — Joseph Sides | Joseph Sides | [Read More](https://medium.com/p/1cdfe858b24f) |
+| Sat, 28 Mar 2026 15:02:46 GMT | Exploiting Second-Order SQL Injection to Retrieve the Flag | recoxy | [Read More](https://medium.com/p/7a2f8d544ab6) |
+| Sat, 28 Mar 2026 15:01:00 GMT | Un jurado declaró a Meta y YouTube negligentes por diseñar plataformas adictivas que dañaron a una… | Tiziano Mass | [Read More](https://medium.com/p/218028500200) |
+| Sat, 28 Mar 2026 14:59:13 GMT | Anthropic Leaks (New) Claude Mythos (And Might Be Too Dangerous to Release) | Joe Njenga | [Read More](https://medium.com/p/16f2d30ea592) |
+| Sat, 28 Mar 2026 14:47:32 GMT | The 43-minute silence inside every SOC | Sumit Chouhan | [Read More](https://medium.com/p/5533963198f0) |
+| Sat, 28 Mar 2026 14:46:00 GMT | Quantum Computers Might Already Be Breaking Your Encryption | David Rodenas PhD | [Read More](https://medium.com/p/05a702e3d29c) |
+| Sat, 28 Mar 2026 14:36:56 GMT | I Thought Hacking Was About Skill, Until I Learned It Starts With the Operating System | Faraz Weerabangsa - BSc in MIS (Special) | [Read More](https://medium.com/p/c5c23cbc2d10) |
+| Sat, 28 Mar 2026 14:24:25 GMT | What Virus Databases Reveal About the Future of Cyber Warfare | Makhtar Diop | [Read More](https://medium.com/p/868fd29919a2) |
 | Sat, 28 Mar 2026 14:24:23 GMT | Critical n8n Vulnerability CVE-2026–33696: Prototype Pollution Leads to RCE in XML and GSuiteAdmin… | Lakshan Sameera | [Read More](https://medium.com/p/49833ed5e54a) |
 | Sat, 28 Mar 2026 14:11:00 GMT | Your Employees Are Already Using AI You’ve Never Approved | Ben Pickett | [Read More](https://medium.com/p/e6016ea52986) |
 | Sat, 28 Mar 2026 14:04:40 GMT | Formal Verification Techniques for Ensuring Correctness in Large-Scale Distributed Systems | John Ali | [Read More](https://medium.com/p/fc83eec9384c) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 08:58:22 GMT | Cybersecurity Spotlight: Inside Google’s Project Zero | Amanuzzaman M | [Read More](https://medium.com/p/eed7543d1860) |
 | Sat, 28 Mar 2026 08:57:59 GMT | Web Security Series #11 — Exploiting Stored Cross-Site Scripting (Stored XSS) | Laibakashif | [Read More](https://medium.com/p/739aa3b1ad95) |
 | Sat, 28 Mar 2026 08:57:53 GMT | Bandit Level 0–5 Walkthrough (Beginner Friendly Cybersecurity Practice). | Femintee | [Read More](https://medium.com/p/25fb5938c457) |
-| Sat, 28 Mar 2026 08:46:48 GMT | Security and Privacy with Wicrypt OS: What Operators and Users Need to Know | Gerald Ezenwaka | [Read More](https://medium.com/p/061505dda0cf) |
-| Sat, 28 Mar 2026 08:45:35 GMT | Hands-On with Hacking: My Week of Network Recon, Credential Sniffing, and Full System Compromise | Joshua Otim | [Read More](https://medium.com/p/4e452de7fe84) |
-| Sat, 28 Mar 2026 08:39:44 GMT | How to Reduce Customer Waiting Time in 2026 (Complete Guide for Businesses) | MyTurn | [Read More](https://medium.com/p/d114d81ba502) |
-| Sat, 28 Mar 2026 08:39:07 GMT | The Dark Art of Linux Permissions: A C++ Developer’s Guide | Akhil Pathania | [Read More](https://medium.com/p/4a7f0074cd52) |
-| Sat, 28 Mar 2026 08:32:27 GMT | NymVPN-এর জন্য Taler: নজরদারিবিহীন ডিজিটাল পেমেন্ট ব্যবস্থা | S. M. Abdullah | [Read More](https://medium.com/p/8b72768f63a4) |
-| Sat, 28 Mar 2026 08:28:23 GMT | What is hashing? | Nivethabaskar | [Read More](https://medium.com/p/98e7bd425fb9) |
-| Sat, 28 Mar 2026 08:25:24 GMT | What is phishing? | Nivethabaskar | [Read More](https://medium.com/p/2593bb419ca9) |
-| Sat, 28 Mar 2026 08:25:17 GMT | I Opened Wireshark for 10 Minutes, And Didn’t Like What I Saw | Fateyaly | [Read More](https://medium.com/p/12575a7c450f) |
-| Sat, 28 Mar 2026 08:22:12 GMT | One Simple Change That Made Managing My Car Stress-Free | Shagunkaurr | [Read More](https://medium.com/p/046917edcbe1) |
-| Sat, 28 Mar 2026 08:13:46 GMT | How Exposed n8n Webhooks Become an Attack Surface | Jorge Jarne | [Read More](https://medium.com/p/bf3c7cd97bc2) |
-| Sat, 28 Mar 2026 08:04:47 GMT | What Is a RAT (Remote Access Trojan)? | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/84e21c777781) |
-| Sat, 28 Mar 2026 07:56:07 GMT | The Linux Security Journey — nosuid (No Set UID) File System Support | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7eb042c1dcbd) |
-| Sat, 28 Mar 2026 07:53:15 GMT | How to choose the best cyber range solution for cybersecurity skill development? | cyber security Updates | [Read More](https://medium.com/p/61bdaaa7b79b) |
-| Sat, 28 Mar 2026 07:46:24 GMT | The Hidden Cost of AI Adoption: Data Leakage, Compliance, and Risk | Nishthaanand | [Read More](https://medium.com/p/db2c0c439895) |
