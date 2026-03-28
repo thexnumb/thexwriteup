@@ -12,9 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 09:44:54 GMT | Is Windows Defender Enough? | Alison | [Read More](https://medium.com/p/8957261c8443) |
+| Sat, 28 Mar 2026 09:41:19 GMT | Three Malware in One: XWorm, a Custom Stealer, and an Unknown RAT | SenseiWhou | [Read More](https://medium.com/p/35466d99f27e) |
+| Sat, 28 Mar 2026 09:40:47 GMT | Detecting Malicious PowerShell Activity in Splunk | Nedheesh Hasija | [Read More](https://medium.com/p/766025dab0a5) |
+| Sat, 28 Mar 2026 09:39:25 GMT | Networking Essentials Part 2: Understanding ARP with Practical Examples | Namratamali | [Read More](https://medium.com/p/1a89ab13aebf) |
+| Sat, 28 Mar 2026 09:37:23 GMT | — Rethinking Threat Modeling for Agentic AI — The Shift to Cognitive Security | Kapil | [Read More](https://medium.com/p/ca0fc6fdf50c) |
+| Sat, 28 Mar 2026 09:36:09 GMT | Your API Is Public — You Just Don’t Realize It | Gaurav - Digital Marketing Intern | [Read More](https://medium.com/p/1faaf86f6e22) |
+| Sat, 28 Mar 2026 09:34:35 GMT | The Security Tool Designed to Protect Your AI Stack Just Became the Weapon That Destroyed It | Arthi Rajendran | [Read More](https://medium.com/p/628a2b37e061) |
+| Sat, 28 Mar 2026 09:31:36 GMT | Citrix NetScaler CVE-2026–3055: Why Security Teams Need to Patch Before Recon Turns Into Breach | Germano Costi | [Read More](https://medium.com/p/febc9f36ffe6) |
+| Sat, 28 Mar 2026 09:31:00 GMT | I Almost Signed a Network Security Contract That Would Have Cost My Team 50% More Than Advertised | Ed O. - TechEd Shield - TechEd Publishers | [Read More](https://medium.com/p/ab3ae591010b) |
+| Sat, 28 Mar 2026 09:25:10 GMT | How I Made Our AWS Infrastructure SOC2 Compliant in 6 Weeks Using Prowler | Pranav Patel | [Read More](https://medium.com/p/d2950c5cc215) |
+| Sat, 28 Mar 2026 09:23:05 GMT | Week as an Attacker, Defender, and Auditor: Lessons from a Cybersecurity Bootcamp | Mugisha Alvin Allan | [Read More](https://medium.com/p/85b2e7d186ff) |
+| Sat, 28 Mar 2026 09:16:51 GMT | Ottergram (Stored XSS) | Federico Pascuale | [Read More](https://medium.com/p/0bdad113f354) |
+| Sat, 28 Mar 2026 09:15:06 GMT | Can We Actually Trust What AI Agents Did? | GuardClaw | [Read More](https://medium.com/p/bf10755f85e7) |
+| Sat, 28 Mar 2026 09:06:00 GMT | Beyond Exploitation: What I Found Testing API4 to API10 in Damn Vulnerable Bank | Odunlade Adeola | [Read More](https://medium.com/p/9687d463585d) |
 | Sat, 28 Mar 2026 09:02:20 GMT | Project Risk Is Budgeted. Security Risk Is Debated | Xiaoning Sun | [Read More](https://medium.com/p/1c95199f20c9) |
 | Sat, 28 Mar 2026 09:01:54 GMT | Iran-Linked Handala Hacked the FBI Director’s Personal Email. | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/a8958f57bb07) |
 | Sat, 28 Mar 2026 09:01:21 GMT | Your Startup Isn’t Too Small to Be Hacked — It’s Actually the Easiest Target | Gaurav kashyap | [Read More](https://medium.com/p/cb6116ec90a1) |
+| Sat, 28 Mar 2026 08:59:22 GMT | Convenient Morality Is Not Morality: Rebuilding Virtue in the Age of AI | Bibhu Ashish Panda | [Read More](https://medium.com/p/5311fbae1298) |
 | Sat, 28 Mar 2026 08:58:22 GMT | Cybersecurity Spotlight: Inside Google’s Project Zero | Amanuzzaman M | [Read More](https://medium.com/p/eed7543d1860) |
 | Sat, 28 Mar 2026 08:57:59 GMT | Web Security Series #11 — Exploiting Stored Cross-Site Scripting (Stored XSS) | Laibakashif | [Read More](https://medium.com/p/739aa3b1ad95) |
 | Sat, 28 Mar 2026 08:57:53 GMT | Bandit Level 0–5 Walkthrough (Beginner Friendly Cybersecurity Practice). | Femintee | [Read More](https://medium.com/p/25fb5938c457) |
@@ -99,18 +114,3 @@ Cryptera Chain… | Cryptera Chain Signals | [Read More](https://medium.com/p/ef
 | Fri, 27 Mar 2026 23:55:18 GMT | How a Cyberattack Shut Down the Rising Startup 23andMe, and Why It Must Be Treated as a Business… | David SEHYEON Baek | [Read More](https://medium.com/p/0d831d78fa02) |
 | Fri, 27 Mar 2026 23:43:01 GMT | Forensics (THM) Tryhackme DFIR WriteUp Only Answer | Lawvye | [Read More](https://medium.com/p/c75517f2b044) |
 | Fri, 27 Mar 2026 23:32:01 GMT | AI Is Not Replacing Cybersecurity Jobs. But It Is Changing Which Ones Actually Matter. | Jbird | [Read More](https://medium.com/p/645372af1c53) |
-| Fri, 27 Mar 2026 23:30:40 GMT | When Is Panic Hardware Required? A Practical Guide for Commercial Projects | PRL Style | [Read More](https://medium.com/p/7d5d08d27d4f) |
-| Fri, 27 Mar 2026 23:26:13 GMT | SSL Pinning in Mobile Applications: From Threat Vectors to a Dynamic Solution | Denis | [Read More](https://medium.com/p/a57f46ca0f2c) |
-| Fri, 27 Mar 2026 23:19:40 GMT | Hutch -windows Walkthrough (oscp-active directory) | cyber_public_school | [Read More](https://medium.com/p/d1598c67f1cf) |
-| Fri, 27 Mar 2026 23:18:58 GMT | Web Exploitation with PicoCTF: Broken Access Control & Server-Side Template Injection | marwoevsky | [Read More](https://medium.com/p/cbb1f0269350) |
-| Fri, 27 Mar 2026 23:16:45 GMT | Iran’s Cyber Retaliation Hits Home: Hackers Linked to Tehran Breach FBI Director Kash Patel’s… | Iram Ahmed | [Read More](https://medium.com/p/d5856f1a2568) |
-| Fri, 27 Mar 2026 23:14:37 GMT | Risk/Reward | Marshall Jung | [Read More](https://medium.com/p/c7db51a0ad3b) |
-| Fri, 27 Mar 2026 23:13:46 GMT | IPv6 | Progsky | [Read More](https://medium.com/p/43225b7f2750) |
-| Fri, 27 Mar 2026 22:49:13 GMT | Cybersecurity in 2026: The Trends That Touch Everyone, Not Just IT Teams | Oluwagbenga Ogungbemi | [Read More](https://medium.com/p/34754f89ad0a) |
-| Fri, 27 Mar 2026 22:45:21 GMT | whoami : My First Medium Post | Choubikhoussam | [Read More](https://medium.com/p/f7d457b53787) |
-| Fri, 27 Mar 2026 22:39:49 GMT | Digital Forensics with PicoCTF: Metadata, Steganography & Encodings | marwoevsky | [Read More](https://medium.com/p/fdefcd5bef60) |
-| Fri, 27 Mar 2026 22:27:31 GMT | HELLO : Aj main ap logon lo “5 CYBER SECURITY TOOLS” btanay wala hoon or unke “BASIC USES” kay bhi. | Saim Chiriya | [Read More](https://medium.com/p/3e2dae138cf9) |
-| Fri, 27 Mar 2026 22:24:44 GMT | Prompt-Layer Recommendation Manipulation: The Next Supply‑Chain Vector Security Teams Need to Track | Lugo Jr Misael | [Read More](https://medium.com/p/13184b531184) |
-| Fri, 27 Mar 2026 22:21:00 GMT | Imposter Syndrome in Cybersecurity: Why You Know More Than You Think | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/7cfb9d3868a6) |
-| Fri, 27 Mar 2026 22:12:28 GMT | The Silent War Inside Your Favorite Games: How Anti-Cheat Systems Work | Esra Oznen | [Read More](https://medium.com/p/4425469b482b) |
-| Fri, 27 Mar 2026 22:11:27 GMT | Why Most Healthcare Organizations Fail Their HIPAA Security Risk Analysis | Joegellatly | [Read More](https://medium.com/p/9d1a7fe43ce8) |
