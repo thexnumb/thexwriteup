@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 07:56:07 GMT | The Linux Security Journey — nosuid (No Set UID) File System Support | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7eb042c1dcbd) |
+| Sat, 28 Mar 2026 07:53:15 GMT | How to choose the best cyber range solution for cybersecurity skill development? | cyber security Updates | [Read More](https://medium.com/p/61bdaaa7b79b) |
+| Sat, 28 Mar 2026 07:46:24 GMT | The Hidden Cost of AI Adoption: Data Leakage, Compliance, and Risk | Nishthaanand | [Read More](https://medium.com/p/db2c0c439895) |
+| Sat, 28 Mar 2026 07:41:31 GMT | From Heidegger’s Technological Gestell to Algorithmic Sovereignty | Ziya Gokalp | [Read More](https://medium.com/p/556561a9e5f8) |
+| Sat, 28 Mar 2026 07:41:01 GMT | No Mind Is An Island: The Rise of Agentic AI | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/9548cb39a2fa) |
+| Sat, 28 Mar 2026 07:38:44 GMT | ORDER ORDER — PicoCTF Writeup | Vedant Pillai | [Read More](https://medium.com/p/b7c7de44f296) |
+| Sat, 28 Mar 2026 07:32:35 GMT | What Every Business Needs to Know About Deception Technology | UK Cyber Defence | [Read More](https://medium.com/p/4932b423efb8) |
+| Sat, 28 Mar 2026 07:30:44 GMT | Why Choosing the Right Cybersecurity Services Provider in Dubai is Crucial for Business Success? | oadtechnologies | [Read More](https://medium.com/p/db9c458e96bb) |
+| Sat, 28 Mar 2026 07:29:06 GMT | How to Secure Your Phone with Antivirus Pro Against Malicious APKs | Rahul yadav | [Read More](https://medium.com/p/f8f22781de1f) |
+| Sat, 28 Mar 2026 07:27:09 GMT | Automated Identity Lifecycle Management for Secure Onboarding & Offboarding - Rails A. | Railsdevabam | [Read More](https://medium.com/p/bb0cb8f7561e) |
+| Sat, 28 Mar 2026 07:24:42 GMT | Hackers Don’t Need Your Password — Here’s Why | Sooraj Pandey | [Read More](https://medium.com/p/c6e01ee2434f) |
+| Sat, 28 Mar 2026 07:18:20 GMT | Apple Just Made a $599 Laptop That Puts $1,000 MacBooks to Shame | Ziadi Lotfi | [Read More](https://medium.com/p/cc4f24b167da) |
 | Sat, 28 Mar 2026 07:01:00 GMT | 23. Designing Production-Ready CI/CD Architecture | Mangesh Muley | [Read More](https://medium.com/p/e923178bc535) |
 | Sat, 28 Mar 2026 06:42:00 GMT | Introducing Leevium: My IT, tech & computing blog | Kent Lee | [Read More](https://medium.com/p/f22b193c9953) |
 | Sat, 28 Mar 2026 06:33:21 GMT | 5 Signs You’re About to Get Scammed (What Scammers Don’t Want You to Know) | Decode Help | [Read More](https://medium.com/p/7788c75df7c6) |
@@ -29,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 05:33:59 GMT | Google Dorking for Bug Bounty — How Hackers Find Hidden Vulnerabilities | Riya Limba | [Read More](https://medium.com/p/5fcc3a1089da) |
 | Sat, 28 Mar 2026 05:31:00 GMT | How to Investigate a Phishing Alert Step-by-Step (A Beginner’s SOC Playbook) | Manubhav Sharma | [Read More](https://medium.com/p/8a655ef2121e) |
 | Sat, 28 Mar 2026 05:25:48 GMT | Practical Cybersecurity Learning: Setting Up My Home Lab Using Wireshark | CyberRise Institute | [Read More](https://medium.com/p/77d6a963c4ee) |
+| Sat, 28 Mar 2026 05:15:09 GMT | LLM Vulnerability to Internet Source Manipulation | NeaByteLab | [Read More](https://medium.com/p/ad8c762c8033) |
 | Sat, 28 Mar 2026 05:15:05 GMT | Kali NetHunter 2026 Updates: The Future of Mobile Ethical Hacking | Allcrack | [Read More](https://medium.com/p/8958d2c9c8f9) |
 | Sat, 28 Mar 2026 05:13:11 GMT | The Claude Model That Wasn’t
 Supposed to Be Seen | Faisal haque | [Read More](https://medium.com/p/148155820416) |
@@ -101,16 +114,3 @@ Cryptera Chain… | Cryptera Chain Signals | [Read More](https://medium.com/p/ef
 | Fri, 27 Mar 2026 20:56:15 GMT | Estratégia de Lab Híbrido. Performance vs Anonimato em Cybersecurity. | Neurix | [Read More](https://medium.com/p/a988ecf73089) |
 | Fri, 27 Mar 2026 20:54:36 GMT | The AI Gold Rush Is Broken: A View from RSA Conference 2026 | Len Noe | [Read More](https://medium.com/p/d1a6b2fdfec3) |
 | Fri, 27 Mar 2026 20:31:00 GMT | Report Writing for SOC L2 - TryHackMe | Jose Praveen | [Read More](https://medium.com/p/16f1aa8c44e7) |
-| Fri, 27 Mar 2026 20:13:51 GMT | Hackers Don’t Need Malware Anymore — Just Victims Browser | Cybersectoworld | [Read More](https://medium.com/p/4f27cbe34bf9) |
-| Fri, 27 Mar 2026 20:10:28 GMT | QA and Security: Why Deterministic Validation Can’t Wait | Joaquin Moreira | [Read More](https://medium.com/p/faac41b50fdb) |
-| Fri, 27 Mar 2026 20:03:31 GMT | I STOPPED CRYING FOR SEVENTEEN YEARS. | Saint Kay Media | [Read More](https://medium.com/p/f4d7fce3af24) |
-| Fri, 27 Mar 2026 20:01:01 GMT | Building a Hacker Assistant with Python + Ollama | Ryan Maxie | [Read More](https://medium.com/p/a320cef495cb) |
-| Fri, 27 Mar 2026 20:00:23 GMT | EU GDPR — Article 36 (Prior Consultation) | MDM Team | [Read More](https://medium.com/p/4bebdfbac633) |
-| Fri, 27 Mar 2026 19:52:03 GMT | I Built a Secure Multi-Tenant RAG System on AWS | Chakrinee Ayalasomayajula | [Read More](https://medium.com/p/9f1bb7e25f20) |
-| Fri, 27 Mar 2026 19:51:41 GMT | Securing Kubernetes Deployments with Cosign Image Signing & Kyverno Policy Enforcement | Mayank Yadav | [Read More](https://medium.com/p/e51cfad1b19e) |
-| Fri, 27 Mar 2026 19:49:20 GMT | Suggestion to Apple. | mim Armand | [Read More](https://medium.com/p/a4e4fd410288) |
-| Fri, 27 Mar 2026 19:38:18 GMT | Email Security Guide 2026: Find Your Risks Before Attackers Do | Cordula Boeck | [Read More](https://medium.com/p/d74c3e135fd9) |
-| Fri, 27 Mar 2026 19:38:01 GMT | Eğer Tüm Sosyal Medya Uygulamalarında Uçtan Uca Şifreleme Kalkarsa Ne Olur? | Ali Yaşe | [Read More](https://medium.com/p/378357cba2f3) |
-| Fri, 27 Mar 2026 19:36:48 GMT | Containerizing Claude | Martin Larsson | [Read More](https://medium.com/p/ef722831fb10) |
-| Fri, 27 Mar 2026 19:35:09 GMT | Constraining Claude? | Martin Larsson | [Read More](https://medium.com/p/514a7eed9fc7) |
-| Fri, 27 Mar 2026 19:24:05 GMT | The Agentic Auth Problem Nobody Is Actually Solving | Venkat Peri | [Read More](https://medium.com/p/8f7d364ae3e3) |
