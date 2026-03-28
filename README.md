@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 11:31:01 GMT | Vibe Coding Delivers. It Also Ships Vulnerabilities. Here’s the Data. | AI Transfer Lab | [Read More](https://medium.com/p/3ff78f5a71a3) |
+| Sat, 28 Mar 2026 11:31:00 GMT | The Most Dangerous Vulnerability Isn’t in Your Code — It’s in Your Assumptions | Gaurav Kashyap | [Read More](https://medium.com/p/0c7436ff38b5) |
+| Sat, 28 Mar 2026 11:28:11 GMT | RESTFUL API PENTEST — (Part 1) | 0bat.exe1 | [Read More](https://medium.com/p/4c09e63eedb2) |
+| Sat, 28 Mar 2026 11:26:49 GMT | ‍ My Cybersecurity Journey | Beetea Soc | [Read More](https://medium.com/p/353e61a3de82) |
+| Sat, 28 Mar 2026 11:25:02 GMT | Active Directory for Pentesters — Part 4: Kerberoasting Attack | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/466abcc0daaa) |
+| Sat, 28 Mar 2026 11:11:45 GMT | Types of Hackers — White Hat, Black Hat, Grey Hat and everything in between (2026) | Varun Papnai | [Read More](https://medium.com/p/004e67cb2b41) |
+| Sat, 28 Mar 2026 11:08:19 GMT | Understanding Ethernet: The Complete Wired Network Guide (2026) | Cyber-X Protocol | [Read More](https://medium.com/p/2a7576dafb97) |
+| Sat, 28 Mar 2026 10:51:50 GMT | Cloud Misconfiguration Risks in Focus After European Commission Cyber Incident | Jas | [Read More](https://medium.com/p/e8ac777002cb) |
+| Sat, 28 Mar 2026 10:51:34 GMT | AI Agents are Fragile. Stop your AI Agents from crashing: The 6-Layer Security Mesh | Heerj | [Read More](https://medium.com/p/3abdff0924d4) |
 | Sat, 28 Mar 2026 10:49:31 GMT | The Hidden Ways GDPR Affects Your Daily Life Online | AartiWrites | [Read More](https://medium.com/p/e4e7a4462020) |
+| Sat, 28 Mar 2026 10:48:50 GMT | SSH-Secure Shell! | S.Sparshika | [Read More](https://medium.com/p/6eb742fdcc69) |
+| Sat, 28 Mar 2026 10:46:35 GMT | PicoCTF 2026 — JITFP Writeup | Spandhan Panta | [Read More](https://medium.com/p/738b3668dafd) |
 | Sat, 28 Mar 2026 10:43:50 GMT | How to Protect Aging Parents from AI Voice Scams and Identity Theft: A 2026 Family Safety Checklist | Avish Gokhool | [Read More](https://medium.com/p/570fdb50c37e) |
 | Sat, 28 Mar 2026 10:42:16 GMT | Implementing Secure Server-Side Authentication in Next.js 16 with HttpOnly Cookies | Aman Goyal | [Read More](https://medium.com/p/9b64461119f4) |
 | Sat, 28 Mar 2026 10:41:03 GMT | Subfinder Subdomains Dhundho Like an Elite Hacker! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/8ba60ce89dd0) |
@@ -102,14 +113,3 @@ Supposed to Be Seen | Faisal haque | [Read More](https://medium.com/p/1481558204
 | Sat, 28 Mar 2026 04:21:03 GMT | The Line Between Tool and Exploit Is Getting Thin | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6bd23b9e57c9) |
 | Sat, 28 Mar 2026 04:18:33 GMT | Part 7: The Iron-Clad Security Protocol — A Developer’s Midnight Reflection ️✨ | Bilal Writes | [Read More](https://medium.com/p/b3f8b26a333c) |
 | Sat, 28 Mar 2026 04:17:30 GMT | When One Update Breaks the World: Why Quality Engineering Is Critical to Modern Systems | Elizabeth Oyeyipo | [Read More](https://medium.com/p/5d7fd827b029) |
-| Sat, 28 Mar 2026 04:14:21 GMT | You Built a ₹20 Crore IT Company. Now What? | Sudiip Maathur | [Read More](https://medium.com/p/adc55bdd47ef) |
-| Sat, 28 Mar 2026 04:00:44 GMT | VirusTotal Deep Dive: Not Just Basics | Paritosh | [Read More](https://medium.com/p/168ac0966a58) |
-| Sat, 28 Mar 2026 03:50:34 GMT | How Does a Switch Learn MAC Addresses and Create a CAM Table? | Priyashan Gamacharige | [Read More](https://medium.com/p/55413d1c4b51) |
-| Sat, 28 Mar 2026 03:13:33 GMT | Chrome Remote Desktop RMM Investigation | Chicken0248 | [Read More](https://medium.com/p/c61f8545da26) |
-| Sat, 28 Mar 2026 02:53:29 GMT | Iranian Hackers Breached FBI Director Kash Patel’s Personal Gmail. | Soumyadipta Birabar | [Read More](https://medium.com/p/1af8df6e35ec) |
-| Sat, 28 Mar 2026 02:31:00 GMT | Security Misconfiguration — The #2 Vulnerability on the Web ⚙️ | loopXvedant | [Read More](https://medium.com/p/dcb9ac87a443) |
-| Sat, 28 Mar 2026 02:22:05 GMT | Microsegmentation is the fabric that stitches together a comprehensive cyber resilience posture | Agnidipta Sarkar | [Read More](https://medium.com/p/70c66f5947c3) |
-| Sat, 28 Mar 2026 02:19:07 GMT | How to Detect Shadow AI Across the Enterprise | Sales | [Read More](https://medium.com/p/f88d14298ce7) |
-| Sat, 28 Mar 2026 02:11:39 GMT | How to Start Bug Bounty with Zero Experience (Cybersecurity Beginner Guide) | Sukhveer Singh | [Read More](https://medium.com/p/661a197b71dc) |
-| Sat, 28 Mar 2026 02:02:34 GMT | "The Uncomfortable Contradictions Inside Anthropic's Constitution for Claude You. | AIWitch | [Read More](https://medium.com/p/803ef52f74a5) |
-| Sat, 28 Mar 2026 01:58:52 GMT | Understanding Hacking, Virtual Machines, Linux, and Networking | Salvinsebastian | [Read More](https://medium.com/p/ccd8aa287100) |
