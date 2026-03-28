@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 09:02:20 GMT | Project Risk Is Budgeted. Security Risk Is Debated | Xiaoning Sun | [Read More](https://medium.com/p/1c95199f20c9) |
+| Sat, 28 Mar 2026 09:01:54 GMT | Iran-Linked Handala Hacked the FBI Director’s Personal Email. | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/a8958f57bb07) |
+| Sat, 28 Mar 2026 09:01:21 GMT | Your Startup Isn’t Too Small to Be Hacked — It’s Actually the Easiest Target | Gaurav kashyap | [Read More](https://medium.com/p/cb6116ec90a1) |
+| Sat, 28 Mar 2026 08:58:22 GMT | Cybersecurity Spotlight: Inside Google’s Project Zero | Amanuzzaman M | [Read More](https://medium.com/p/eed7543d1860) |
+| Sat, 28 Mar 2026 08:57:59 GMT | Web Security Series #11 — Exploiting Stored Cross-Site Scripting (Stored XSS) | Laibakashif | [Read More](https://medium.com/p/739aa3b1ad95) |
+| Sat, 28 Mar 2026 08:57:53 GMT | Bandit Level 0–5 Walkthrough (Beginner Friendly Cybersecurity Practice). | Femintee | [Read More](https://medium.com/p/25fb5938c457) |
+| Sat, 28 Mar 2026 08:46:48 GMT | Security and Privacy with Wicrypt OS: What Operators and Users Need to Know | Gerald Ezenwaka | [Read More](https://medium.com/p/061505dda0cf) |
+| Sat, 28 Mar 2026 08:45:35 GMT | Hands-On with Hacking: My Week of Network Recon, Credential Sniffing, and Full System Compromise | Joshua Otim | [Read More](https://medium.com/p/4e452de7fe84) |
+| Sat, 28 Mar 2026 08:39:44 GMT | How to Reduce Customer Waiting Time in 2026 (Complete Guide for Businesses) | MyTurn | [Read More](https://medium.com/p/d114d81ba502) |
+| Sat, 28 Mar 2026 08:39:07 GMT | The Dark Art of Linux Permissions: A C++ Developer’s Guide | Akhil Pathania | [Read More](https://medium.com/p/4a7f0074cd52) |
+| Sat, 28 Mar 2026 08:32:27 GMT | NymVPN-এর জন্য Taler: নজরদারিবিহীন ডিজিটাল পেমেন্ট ব্যবস্থা | S. M. Abdullah | [Read More](https://medium.com/p/8b72768f63a4) |
+| Sat, 28 Mar 2026 08:28:23 GMT | What is hashing? | Nivethabaskar | [Read More](https://medium.com/p/98e7bd425fb9) |
+| Sat, 28 Mar 2026 08:25:24 GMT | What is phishing? | Nivethabaskar | [Read More](https://medium.com/p/2593bb419ca9) |
+| Sat, 28 Mar 2026 08:25:17 GMT | I Opened Wireshark for 10 Minutes, And Didn’t Like What I Saw | Fateyaly | [Read More](https://medium.com/p/12575a7c450f) |
+| Sat, 28 Mar 2026 08:22:12 GMT | One Simple Change That Made Managing My Car Stress-Free | Shagunkaurr | [Read More](https://medium.com/p/046917edcbe1) |
+| Sat, 28 Mar 2026 08:04:47 GMT | What Is a RAT (Remote Access Trojan)? | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/84e21c777781) |
 | Sat, 28 Mar 2026 07:56:07 GMT | The Linux Security Journey — nosuid (No Set UID) File System Support | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7eb042c1dcbd) |
 | Sat, 28 Mar 2026 07:53:15 GMT | How to choose the best cyber range solution for cybersecurity skill development? | cyber security Updates | [Read More](https://medium.com/p/61bdaaa7b79b) |
 | Sat, 28 Mar 2026 07:46:24 GMT | The Hidden Cost of AI Adoption: Data Leakage, Compliance, and Risk | Nishthaanand | [Read More](https://medium.com/p/db2c0c439895) |
@@ -98,19 +114,3 @@ Cryptera Chain… | Cryptera Chain Signals | [Read More](https://medium.com/p/ef
 | Fri, 27 Mar 2026 22:21:00 GMT | Imposter Syndrome in Cybersecurity: Why You Know More Than You Think | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/7cfb9d3868a6) |
 | Fri, 27 Mar 2026 22:12:28 GMT | The Silent War Inside Your Favorite Games: How Anti-Cheat Systems Work | Esra Oznen | [Read More](https://medium.com/p/4425469b482b) |
 | Fri, 27 Mar 2026 22:11:27 GMT | Why Most Healthcare Organizations Fail Their HIPAA Security Risk Analysis | Joegellatly | [Read More](https://medium.com/p/9d1a7fe43ce8) |
-| Fri, 27 Mar 2026 22:05:35 GMT | OWASP LLM Top 10 — Part 1: When the Model Becomes the Attack Surface | Derick Johnson | [Read More](https://medium.com/p/2188a2a672fc) |
-| Fri, 27 Mar 2026 22:03:10 GMT | System Configuration: File Shares & Offline Caching | Dean | [Read More](https://medium.com/p/e0ad9096b3a7) |
-| Fri, 27 Mar 2026 21:43:17 GMT | Network Assets in the Cloud: The structure | TheP3@rl | [Read More](https://medium.com/p/fbb920b4079e) |
-| Fri, 27 Mar 2026 21:40:39 GMT | Upcoming proposed framework (CIFM) | Professor Kilroy | [Read More](https://medium.com/p/44938c56e6eb) |
-| Fri, 27 Mar 2026 21:39:37 GMT | Old Session — picoCTF2026 | Ayman Hany | [Read More](https://medium.com/p/4580982c44cf) |
-| Fri, 27 Mar 2026 21:35:38 GMT | The Personal Perimeter: How Officials Become Targets | CCD-IS | [Read More](https://medium.com/p/7c51a5ef1962) |
-| Fri, 27 Mar 2026 21:32:45 GMT | Career Path: Information Technology to Cloud Engineer | Simran Singh | [Read More](https://medium.com/p/135dce2280e1) |
-| Fri, 27 Mar 2026 21:13:18 GMT | Analyze Header Like a Pro: Boost SEO Rankings Fast (2026 Guide) | Wijay | [Read More](https://medium.com/p/151b71e1a32b) |
-| Fri, 27 Mar 2026 21:12:25 GMT | CYBERDUDEBIVASH Sentinel APEX™ — Building a Real-Time AI Cyber Threat Intelligence Platform from… | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/8e0cec61cf2d) |
-| Fri, 27 Mar 2026 21:06:19 GMT | TryHackMe MITRE ATT&CK Framework Walkthrough | Kamal Kishor Mahto | [Read More](https://medium.com/p/24a85492e3ee) |
-| Fri, 27 Mar 2026 21:03:28 GMT | The Hidden Risk in AI-Assisted Development (And Why a Firewall Might Be the Missing Layer) | Developwithkrishn | [Read More](https://medium.com/p/6957ed211301) |
-| Fri, 27 Mar 2026 21:01:00 GMT | 8 Shocking Truths About Marrying a Handsome Man: Women Reveal All | UnaTolkien | [Read More](https://medium.com/p/14de966ab610) |
-| Fri, 27 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 36: Security Marathon Day 3 | Maximillian Rueda | [Read More](https://medium.com/p/3cc0f583eb73) |
-| Fri, 27 Mar 2026 20:56:15 GMT | Estratégia de Lab Híbrido. Performance vs Anonimato em Cybersecurity. | Neurix | [Read More](https://medium.com/p/a988ecf73089) |
-| Fri, 27 Mar 2026 20:54:36 GMT | The AI Gold Rush Is Broken: A View from RSA Conference 2026 | Len Noe | [Read More](https://medium.com/p/d1a6b2fdfec3) |
-| Fri, 27 Mar 2026 20:31:00 GMT | Report Writing for SOC L2 - TryHackMe | Jose Praveen | [Read More](https://medium.com/p/16f1aa8c44e7) |
