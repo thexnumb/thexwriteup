@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 19:14:25 GMT | HTB: EscapeTwo | Dipesh Paul | [Read More](https://medium.com/p/51e2afcfbac5) |
+| Sat, 28 Mar 2026 19:13:46 GMT | Anthropic Just Accidentally Leaked Their Most Dangerous AI Model — And Wall Street Is Panicking | Anup Karanjkar | [Read More](https://medium.com/p/4a60d25b939e) |
+| Sat, 28 Mar 2026 19:11:54 GMT | Security Tools & Defense Systems: Building Strong Network Protection | Ndu | [Read More](https://medium.com/p/0da1a8ebc9fe) |
+| Sat, 28 Mar 2026 19:11:30 GMT | Understanding Network Security Threats & Attacks: How Systems Get Compromised | Ndu | [Read More](https://medium.com/p/66843b874ced) |
+| Sat, 28 Mar 2026 19:10:01 GMT | I Taught Microsoft Sentinel to Stop Cryptojacking Attacks Automatically | Camilla Santoro | [Read More](https://medium.com/p/14b821c0e155) |
+| Sat, 28 Mar 2026 18:57:52 GMT | Why I Choosed Medium; My First Story | Aftab Writes | [Read More](https://medium.com/p/af70fd1d0c37) |
+| Sat, 28 Mar 2026 18:56:00 GMT | EU GDPR — Article 37 (Designation of the Data Protection Officer (DPO)) | MDM Team | [Read More](https://medium.com/p/8f6753827d0c) |
+| Sat, 28 Mar 2026 18:53:58 GMT | From $500 to $1,500 Email Verification Bypass: Impact Chaining | tinopreter | [Read More](https://medium.com/p/3efd55b24f23) |
+| Sat, 28 Mar 2026 18:47:53 GMT | How I Built an AI Agent to Generate Portfolio Projects and Draft Medium Articles | Victoria | [Read More](https://medium.com/p/582bb22feef1) |
 | Sat, 28 Mar 2026 18:38:23 GMT | Evil-GPT Walkthrough | Sachin Borse | [Read More](https://medium.com/p/6a551f2c952a) |
 | Sat, 28 Mar 2026 18:31:00 GMT | Why Blue Team Field Manual (BTFM) Should Be Required Reading for Cybersecurity Defenders | Stefan Bargan | [Read More](https://medium.com/p/88995a802749) |
 | Sat, 28 Mar 2026 18:29:26 GMT | Proxmox Port Mirroring: How to Send SPAN Traffic to a Suricata IDS VM Using Open vSwitch | David | [Read More](https://medium.com/p/dab7309f52e0) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 12:05:57 GMT | Alpha Raid Command: Operational information for early detection. Who are we? | Qzorq | [Read More](https://medium.com/p/15d94ec8d18e) |
 | Sat, 28 Mar 2026 12:01:05 GMT | TCP/IP Five-Layer Network Model | Rafasetiaawaan | [Read More](https://medium.com/p/e028ce6c1152) |
 | Sat, 28 Mar 2026 12:00:39 GMT | I Recommended Banning AI at Work. It Backfired Spectacularly. | Lisa Honda | [Read More](https://medium.com/p/ff2a57e81859) |
-| Sat, 28 Mar 2026 11:56:18 GMT | Taking a leap into Splunk | Techwin Cyber | [Read More](https://medium.com/p/e06a9e5a1c69) |
-| Sat, 28 Mar 2026 11:51:08 GMT | Gimme Shelter | John Yenne | [Read More](https://medium.com/p/630901a6f806) |
-| Sat, 28 Mar 2026 11:45:59 GMT | CYBER WARFARE AND STATE RESPONSIBILITY UNDER INTERNATIONAL LAW | Xamrayeva E'zoza | [Read More](https://medium.com/p/4aeda2e3c828) |
-| Sat, 28 Mar 2026 11:45:34 GMT | Defending " Data Exfiltration via Microsoft Graph " : Living Off the API | Ranjith A | [Read More](https://medium.com/p/7e4aaea976ca) |
-| Sat, 28 Mar 2026 11:43:24 GMT | Will GitHub’s AI training give rise to a new type of hacker attack? | Jack Green | [Read More](https://medium.com/p/70b1286b958c) |
-| Sat, 28 Mar 2026 11:36:00 GMT | Malware Isn’t the Threat — It’s the Business Model Behind It | Err0rr0rre | [Read More](https://medium.com/p/7f9ede0eaa4e) |
-| Sat, 28 Mar 2026 11:31:01 GMT | Vibe Coding Delivers. It Also Ships Vulnerabilities. Here’s the Data. | AI Transfer Lab | [Read More](https://medium.com/p/3ff78f5a71a3) |
-| Sat, 28 Mar 2026 11:31:00 GMT | The Most Dangerous Vulnerability Isn’t in Your Code — It’s in Your Assumptions | Gaurav Kashyap | [Read More](https://medium.com/p/0c7436ff38b5) |
-| Sat, 28 Mar 2026 11:28:11 GMT | RESTFUL API PENTEST — (Part 1) | 0bat.exe1 | [Read More](https://medium.com/p/4c09e63eedb2) |
