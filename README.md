@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 10:49:31 GMT | The Hidden Ways GDPR Affects Your Daily Life Online | AartiWrites | [Read More](https://medium.com/p/e4e7a4462020) |
+| Sat, 28 Mar 2026 10:43:50 GMT | How to Protect Aging Parents from AI Voice Scams and Identity Theft: A 2026 Family Safety Checklist | Avish Gokhool | [Read More](https://medium.com/p/570fdb50c37e) |
+| Sat, 28 Mar 2026 10:42:16 GMT | Implementing Secure Server-Side Authentication in Next.js 16 with HttpOnly Cookies | Aman Goyal | [Read More](https://medium.com/p/9b64461119f4) |
+| Sat, 28 Mar 2026 10:41:03 GMT | Subfinder Subdomains Dhundho Like an Elite Hacker! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/8ba60ce89dd0) |
+| Sat, 28 Mar 2026 10:35:21 GMT | Your Authenticator App Is Not Talking to the Server: How TOTP MFA Actually Works | Manish Rana | [Read More](https://medium.com/p/73cbbc3ac716) |
+| Sat, 28 Mar 2026 10:31:00 GMT | You Don’t Get Hacked All at Once — It Happens in Small Steps | Gaurav Kashyap | [Read More](https://medium.com/p/32c809056547) |
+| Sat, 28 Mar 2026 10:29:19 GMT | The Day Your Phone Knows More About You Than Your Family | Devarshi Acharya | [Read More](https://medium.com/p/75dccb468181) |
+| Sat, 28 Mar 2026 10:25:01 GMT | PYTHON ONE LINERS FOR H@CK3R$ | Arka Priya Das | [Read More](https://medium.com/p/ceaf46db1e5e) |
+| Sat, 28 Mar 2026 10:22:49 GMT | If I Had to Learn Cyber Security Again | Little_Sun4lower | [Read More](https://medium.com/p/8fce725cd4eb) |
+| Sat, 28 Mar 2026 10:20:58 GMT | Building a Cybersecurity Toolkit Using Python (Beginner to Practical) | Solankishubham | [Read More](https://medium.com/p/b27a0e8426a3) |
+| Sat, 28 Mar 2026 10:15:21 GMT | Over-The-Counter (OTC) Crypto Trading, Explained? | Steve Wright | [Read More](https://medium.com/p/9298ec3ed13d) |
+| Sat, 28 Mar 2026 10:12:02 GMT | What I Learned About Network Sniffing (And Why HTTPS Matters) | Nivedhitha K S | [Read More](https://medium.com/p/92c9e68f5ceb) |
+| Sat, 28 Mar 2026 10:11:00 GMT | Basic Cyber Hygiene Every Website Owner Should Know | Andrei | [Read More](https://medium.com/p/0a0abd0bb75e) |
+| Sat, 28 Mar 2026 10:07:14 GMT | I Used to Write the Vulnerable Code. Now I Find It. | ShadowForge | [Read More](https://medium.com/p/01f8b08b6178) |
+| Sat, 28 Mar 2026 09:58:47 GMT | Uninstalling OpenClaw Doesn’t Clear the Risk | JIN | [Read More](https://medium.com/p/c37f89f9d14b) |
+| Sat, 28 Mar 2026 09:47:47 GMT | Perfectionism: The Murderer of My Words | Samriddhi Srivastava | [Read More](https://medium.com/p/6619385d328a) |
 | Sat, 28 Mar 2026 09:44:54 GMT | Is Windows Defender Enough? | Alison | [Read More](https://medium.com/p/8957261c8443) |
 | Sat, 28 Mar 2026 09:41:19 GMT | Three Malware in One: XWorm, a Custom Stealer, and an Unknown RAT | SenseiWhou | [Read More](https://medium.com/p/35466d99f27e) |
 | Sat, 28 Mar 2026 09:40:47 GMT | Detecting Malicious PowerShell Activity in Splunk | Nedheesh Hasija | [Read More](https://medium.com/p/766025dab0a5) |
@@ -97,20 +113,3 @@ Supposed to Be Seen | Faisal haque | [Read More](https://medium.com/p/1481558204
 | Sat, 28 Mar 2026 02:11:39 GMT | How to Start Bug Bounty with Zero Experience (Cybersecurity Beginner Guide) | Sukhveer Singh | [Read More](https://medium.com/p/661a197b71dc) |
 | Sat, 28 Mar 2026 02:02:34 GMT | "The Uncomfortable Contradictions Inside Anthropic's Constitution for Claude You. | AIWitch | [Read More](https://medium.com/p/803ef52f74a5) |
 | Sat, 28 Mar 2026 01:58:52 GMT | Understanding Hacking, Virtual Machines, Linux, and Networking | Salvinsebastian | [Read More](https://medium.com/p/ccd8aa287100) |
-| Sat, 28 Mar 2026 01:38:15 GMT | HackTheBox Sau Walkthrough | xux | [Read More](https://medium.com/p/c226e64a6d7b) |
-| Sat, 28 Mar 2026 01:33:26 GMT | How to Build an Audit Trail for AI Agents | Sales | [Read More](https://medium.com/p/647f6b975f4c) |
-| Sat, 28 Mar 2026 01:32:24 GMT | I Thought I Was in Control Until the Logs Said Otherwise | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/28a5e6a62c37) |
-| Sat, 28 Mar 2026 01:01:00 GMT | [Pillion] The Survival Protocols of Physical Contact in a Post-Tactile Era | MonoEssay | [Read More](https://medium.com/p/31acf012e163) |
-| Sat, 28 Mar 2026 00:59:57 GMT | In Depth Review of Cryptera Chain Signals: A Legitimate Crypto Recovery Company
-Cryptera Chain… | Cryptera Chain Signals | [Read More](https://medium.com/p/ef4e06c4e23a) |
-| Sat, 28 Mar 2026 00:59:50 GMT | Your Daughter’s Voice is not a Proof of Identity! | Ben   Olufemi akintounde | [Read More](https://medium.com/p/37111a3ed9bb) |
-| Sat, 28 Mar 2026 00:37:10 GMT | LetsDefendWalkthrough: SOC170 — Passwd Found in Requested URL — Possible LFI Attack | Uduak Nyong | [Read More](https://medium.com/p/f5c4d519f933) |
-| Sat, 28 Mar 2026 00:19:23 GMT | Google Confirms High-Risk Update For 3.5 Billion Chrome Users | Moni | [Read More](https://medium.com/p/9b3a8d553017) |
-| Sat, 28 Mar 2026 00:18:47 GMT | Before Your Agent Pays, It Needs to Prove Who It Is | Aclickgogo | [Read More](https://medium.com/p/3735cbc7fc6e) |
-| Sat, 28 Mar 2026 00:18:17 GMT | IBM Thinkpad 701C | B Nitz | [Read More](https://medium.com/p/d513cc800018) |
-| Sat, 28 Mar 2026 00:11:16 GMT | Learn to Fight Back: Master Cyber Defense with Tony Capo | Admin | [Read More](https://medium.com/p/664d8301cbe8) |
-| Sat, 28 Mar 2026 00:01:55 GMT | Essential Steps to Recover Lost Cryptocurrency Funds | Cryptera Chain Signals | [Read More](https://medium.com/p/30fcef10b520) |
-| Sat, 28 Mar 2026 00:00:08 GMT | Lloyds Exposed 447,936 Customers Then Asked Nicely to Delete Screenshots | Blackout VPN | [Read More](https://medium.com/p/2877d3ad8204) |
-| Fri, 27 Mar 2026 23:55:18 GMT | How a Cyberattack Shut Down the Rising Startup 23andMe, and Why It Must Be Treated as a Business… | David SEHYEON Baek | [Read More](https://medium.com/p/0d831d78fa02) |
-| Fri, 27 Mar 2026 23:43:01 GMT | Forensics (THM) Tryhackme DFIR WriteUp Only Answer | Lawvye | [Read More](https://medium.com/p/c75517f2b044) |
-| Fri, 27 Mar 2026 23:32:01 GMT | AI Is Not Replacing Cybersecurity Jobs. But It Is Changing Which Ones Actually Matter. | Jbird | [Read More](https://medium.com/p/645372af1c53) |
