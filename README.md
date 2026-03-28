@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 04:28:38 GMT | How a Switch Actually “Learns”: Demystifying MAC Addresses and the CAM Table | Chamodudayangau | [Read More](https://medium.com/p/995304a235cf) |
+| Sat, 28 Mar 2026 04:21:03 GMT | The Line Between Tool and Exploit Is Getting Thin | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6bd23b9e57c9) |
+| Sat, 28 Mar 2026 04:18:33 GMT | Part 7: The Iron-Clad Security Protocol — A Developer’s Midnight Reflection ️✨ | Bilal Writes | [Read More](https://medium.com/p/b3f8b26a333c) |
+| Sat, 28 Mar 2026 04:17:30 GMT | When One Update Breaks the World: Why Quality Engineering Is Critical to Modern Systems | Elizabeth Oyeyipo | [Read More](https://medium.com/p/5d7fd827b029) |
+| Sat, 28 Mar 2026 04:14:21 GMT | You Built a ₹20 Crore IT Company. Now What? | Sudiip Maathur | [Read More](https://medium.com/p/adc55bdd47ef) |
+| Sat, 28 Mar 2026 04:00:44 GMT | VirusTotal Deep Dive: Not Just Basics | Paritosh | [Read More](https://medium.com/p/168ac0966a58) |
+| Sat, 28 Mar 2026 03:50:34 GMT | How Does a Switch Learn MAC Addresses and Create a CAM Table? | Priyashan Gamacharige | [Read More](https://medium.com/p/55413d1c4b51) |
+| Sat, 28 Mar 2026 03:13:33 GMT | Chrome Remote Desktop RMM Investigation | Chicken0248 | [Read More](https://medium.com/p/c61f8545da26) |
+| Sat, 28 Mar 2026 02:53:29 GMT | Iranian Hackers Breached FBI Director Kash Patel’s Personal Gmail. | Soumyadipta Birabar | [Read More](https://medium.com/p/1af8df6e35ec) |
+| Sat, 28 Mar 2026 02:31:00 GMT | Security Misconfiguration — The #2 Vulnerability on the Web ⚙️ | loopXvedant | [Read More](https://medium.com/p/dcb9ac87a443) |
+| Sat, 28 Mar 2026 02:22:05 GMT | Microsegmentation is the fabric that stitches together a comprehensive cyber resilience posture | Agnidipta Sarkar | [Read More](https://medium.com/p/70c66f5947c3) |
+| Sat, 28 Mar 2026 02:19:07 GMT | How to Detect Shadow AI Across the Enterprise | Sales | [Read More](https://medium.com/p/f88d14298ce7) |
 | Sat, 28 Mar 2026 02:11:39 GMT | How to Start Bug Bounty with Zero Experience (Cybersecurity Beginner Guide) | Sukhveer Singh | [Read More](https://medium.com/p/661a197b71dc) |
 | Sat, 28 Mar 2026 02:02:34 GMT | "The Uncomfortable Contradictions Inside Anthropic's Constitution for Claude You. | AIWitch | [Read More](https://medium.com/p/803ef52f74a5) |
 | Sat, 28 Mar 2026 01:58:52 GMT | Understanding Hacking, Virtual Machines, Linux, and Networking | Salvinsebastian | [Read More](https://medium.com/p/ccd8aa287100) |
@@ -28,6 +40,7 @@ Cryptera Chain… | Cryptera Chain Signals | [Read More](https://medium.com/p/ef
 | Sat, 28 Mar 2026 00:18:17 GMT | IBM Thinkpad 701C | B Nitz | [Read More](https://medium.com/p/d513cc800018) |
 | Sat, 28 Mar 2026 00:11:16 GMT | Learn to Fight Back: Master Cyber Defense with Tony Capo | Admin | [Read More](https://medium.com/p/664d8301cbe8) |
 | Sat, 28 Mar 2026 00:01:55 GMT | Essential Steps to Recover Lost Cryptocurrency Funds | Cryptera Chain Signals | [Read More](https://medium.com/p/30fcef10b520) |
+| Sat, 28 Mar 2026 00:00:08 GMT | Lloyds Exposed 447,936 Customers Then Asked Nicely to Delete Screenshots | Blackout VPN | [Read More](https://medium.com/p/2877d3ad8204) |
 | Fri, 27 Mar 2026 23:55:18 GMT | How a Cyberattack Shut Down the Rising Startup 23andMe, and Why It Must Be Treated as a Business… | David SEHYEON Baek | [Read More](https://medium.com/p/0d831d78fa02) |
 | Fri, 27 Mar 2026 23:43:01 GMT | Forensics (THM) Tryhackme DFIR WriteUp Only Answer | Lawvye | [Read More](https://medium.com/p/c75517f2b044) |
 | Fri, 27 Mar 2026 23:32:01 GMT | AI Is Not Replacing Cybersecurity Jobs. But It Is Changing Which Ones Actually Matter. | Jbird | [Read More](https://medium.com/p/645372af1c53) |
@@ -100,16 +113,3 @@ Cryptera Chain… | Cryptera Chain Signals | [Read More](https://medium.com/p/ef
 | Fri, 27 Mar 2026 18:11:17 GMT | Microsoft 365 Migration Tools for Enterprise IT (2026) | Jaskirn Basra | [Read More](https://medium.com/p/09c89e5f32d0) |
 | Fri, 27 Mar 2026 18:06:46 GMT | SharePoint On-Premises to SharePoint Online Migration Tools (2026) | Jaskirn Basra | [Read More](https://medium.com/p/de5b1059666f) |
 | Fri, 27 Mar 2026 18:05:20 GMT | We Don’t Understand the Code We Ship Anymore. VibeSec in Vibe-Coding Era | Zuzanna Mówińska | [Read More](https://medium.com/p/5a2ad8aea158) |
-| Fri, 27 Mar 2026 18:03:30 GMT | ChatGPT: “I am not as free as I appear” | Hajnalka Dudás | [Read More](https://medium.com/p/41650f631148) |
-| Fri, 27 Mar 2026 17:59:05 GMT | Why Smart Developers Use SAST to Prevent Security Issues Early? | Neha Singh | [Read More](https://medium.com/p/070874c78adc) |
-| Fri, 27 Mar 2026 17:58:18 GMT | Broken Access Control: The Most Dangerous Vulnerability Is Not a Bug, It Is a Design Decision | Vinithkalikar | [Read More](https://medium.com/p/775d30cfe478) |
-| Fri, 27 Mar 2026 17:54:42 GMT | ROOTME — TryHackMe (Clear Explanation) | Maries-07 | [Read More](https://medium.com/p/333f67b611e8) |
-| Fri, 27 Mar 2026 17:50:40 GMT | Seen and Unseen: The Tension Between Privacy, Fear, and Transparency in Senior Community Life | Mark Sanford, Ph.D. | [Read More](https://medium.com/p/0a627ef48414) |
-| Fri, 27 Mar 2026 17:49:39 GMT | AI Agents Are Repeating an Old Browser Security Mistake | Hammad Abbasi | [Read More](https://medium.com/p/0a86f08d4356) |
-| Fri, 27 Mar 2026 17:46:39 GMT | # The Cybersecurity Crisis Nobody Is Talking About (And The One Project Solving It) | Sebastien | [Read More](https://medium.com/p/529d9a5cb1a0) |
-| Fri, 27 Mar 2026 17:45:39 GMT | Week 2 of Offensive Security | Muhammad Uzair | [Read More](https://medium.com/p/c565246fc0eb) |
-| Fri, 27 Mar 2026 17:43:18 GMT | Introducing GhostIntel: Your Open-Source OSINT & Reconnaissance Toolkit️ | Ruyynn | [Read More](https://medium.com/p/d95d40eb8e2a) |
-| Fri, 27 Mar 2026 17:41:38 GMT | I Built an AI Agent That Runs Penetration Tests Autonomously — Here’s What I Learned | Krishnendu De | [Read More](https://medium.com/p/714cf252b2de) |
-| Fri, 27 Mar 2026 17:41:03 GMT | Secure File Upload in Go: 7 Attacks on File Upload and How We Mitigated Them | Dmitriy Petrakov | [Read More](https://medium.com/p/ddc4771c03b1) |
-| Fri, 27 Mar 2026 17:36:41 GMT | Cara Menggunakan Teknologi dan Internet dengan Baik dan Bermanfaat | JasminMedia | [Read More](https://medium.com/p/5ecce4741685) |
-| Fri, 27 Mar 2026 17:32:50 GMT | The Silent Threat: How AI Systems Are Becoming the New Attack Surface | Thiyagu Arunachalam | [Read More](https://medium.com/p/4f7b6e6d2ddd) |
