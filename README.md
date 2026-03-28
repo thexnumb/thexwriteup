@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 17:09:27 GMT | The Email You Never Sent: Inside a Clever Email Bounce Attack | Clay Jones | [Read More](https://medium.com/p/9d79024bb502) |
+| Sat, 28 Mar 2026 17:08:35 GMT | Introduction to Network Analysis — Security Blue Team | Yrddry | [Read More](https://medium.com/p/0e52aaa5f501) |
+| Sat, 28 Mar 2026 17:06:28 GMT | Building the Blueprint: Why ‘Secure by Design’ is the Future of Tech | Hikmat Mammadov | [Read More](https://medium.com/p/f15b7926de5c) |
+| Sat, 28 Mar 2026 17:04:27 GMT | The Lie We Tell Ourselves in the Age of AI | Donnie Gibbs | [Read More](https://medium.com/p/7c8235120b54) |
+| Sat, 28 Mar 2026 17:03:40 GMT | Sysmon — TryHackMe Writeup | Hitesh kumar | [Read More](https://medium.com/p/a60335dd1c69) |
+| Sat, 28 Mar 2026 17:01:01 GMT | The Bug That Slipped: Stale Balance Accounting in YieldBasis (Sherlock Contest) | Talfao | [Read More](https://medium.com/p/ea98a2806346) |
+| Sat, 28 Mar 2026 17:01:01 GMT | gRPC-Go Critical Auth Bypass: How a Missing Slash Broke Your Security (CVE-2026–33186) | Wesley Wei | [Read More](https://medium.com/p/463c428e3572) |
+| Sat, 28 Mar 2026 17:00:10 GMT | Threat Intelligence Tools: A Hands-On TryHackMe Walkthrough | Seid kahsay | [Read More](https://medium.com/p/5944df256a9c) |
+| Sat, 28 Mar 2026 16:58:32 GMT | THM — SNORT Room | Pranav kumar | [Read More](https://medium.com/p/444d98722bbf) |
+| Sat, 28 Mar 2026 16:55:19 GMT | Dividing the Power: Why Separation of Duties is Your Ultimate Safety Net | Hikmat Mammadov | [Read More](https://medium.com/p/5b27f57a8357) |
+| Sat, 28 Mar 2026 16:52:57 GMT | The Book Of Kali: Basics | Seccult | [Read More](https://medium.com/p/a2e83d7d8f58) |
+| Sat, 28 Mar 2026 16:46:30 GMT | Proof of Life: The New Ritual of Proving You’re Human | Joanne Griffin | [Read More](https://medium.com/p/cc824524dd5d) |
+| Sat, 28 Mar 2026 16:42:20 GMT | A Yawning Conjecture | Niktism | [Read More](https://medium.com/p/a7bf5a208532) |
+| Sat, 28 Mar 2026 16:39:46 GMT | How Linux Boot Access Can Become a Backdoor | Arcy | [Read More](https://medium.com/p/da933cb3b683) |
 | Sat, 28 Mar 2026 16:34:23 GMT | The Human Firewall: Why People Are the Weakest Link in Cybersecurity | Asymmetric | [Read More](https://medium.com/p/8609510c958e) |
 | Sat, 28 Mar 2026 16:30:59 GMT | HackTheBox: Kobold | Adhilbinmujeeb | [Read More](https://medium.com/p/03e7bc1ec32e) |
 | Sat, 28 Mar 2026 16:27:33 GMT | Finding Security in God's Grip | SoulfulPaces | [Read More](https://medium.com/p/8f3b6cc6e396) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 10:31:00 GMT | You Don’t Get Hacked All at Once — It Happens in Small Steps | Gaurav Kashyap | [Read More](https://medium.com/p/32c809056547) |
 | Sat, 28 Mar 2026 10:29:19 GMT | The Day Your Phone Knows More About You Than Your Family | Devarshi Acharya | [Read More](https://medium.com/p/75dccb468181) |
 | Sat, 28 Mar 2026 10:25:01 GMT | PYTHON ONE LINERS FOR H@CK3R$ | Arka Priya Das | [Read More](https://medium.com/p/ceaf46db1e5e) |
-| Sat, 28 Mar 2026 10:22:49 GMT | If I Had to Learn Cyber Security Again | Little_Sun4lower | [Read More](https://medium.com/p/8fce725cd4eb) |
-| Sat, 28 Mar 2026 10:20:58 GMT | Building a Cybersecurity Toolkit Using Python (Beginner to Practical) | Solankishubham | [Read More](https://medium.com/p/b27a0e8426a3) |
-| Sat, 28 Mar 2026 10:15:21 GMT | Over-The-Counter (OTC) Crypto Trading, Explained? | Steve Wright | [Read More](https://medium.com/p/9298ec3ed13d) |
-| Sat, 28 Mar 2026 10:12:02 GMT | What I Learned About Network Sniffing (And Why HTTPS Matters) | Nivedhitha K S | [Read More](https://medium.com/p/92c9e68f5ceb) |
-| Sat, 28 Mar 2026 10:11:00 GMT | Basic Cyber Hygiene Every Website Owner Should Know | Andrei | [Read More](https://medium.com/p/0a0abd0bb75e) |
-| Sat, 28 Mar 2026 10:07:14 GMT | I Used to Write the Vulnerable Code. Now I Find It. | ShadowForge | [Read More](https://medium.com/p/01f8b08b6178) |
-| Sat, 28 Mar 2026 09:58:47 GMT | Uninstalling OpenClaw Doesn’t Clear the Risk | JIN | [Read More](https://medium.com/p/c37f89f9d14b) |
-| Sat, 28 Mar 2026 09:47:47 GMT | Perfectionism: The Murderer of My Words | Samriddhi Srivastava | [Read More](https://medium.com/p/6619385d328a) |
-| Sat, 28 Mar 2026 09:44:54 GMT | Is Windows Defender Enough? | Alison | [Read More](https://medium.com/p/8957261c8443) |
-| Sat, 28 Mar 2026 09:41:19 GMT | Three Malware in One: XWorm, a Custom Stealer, and an Unknown RAT | SenseiWhou | [Read More](https://medium.com/p/35466d99f27e) |
-| Sat, 28 Mar 2026 09:40:47 GMT | Detecting Malicious PowerShell Activity in Splunk | Nedheesh Hasija | [Read More](https://medium.com/p/766025dab0a5) |
-| Sat, 28 Mar 2026 09:39:25 GMT | Networking Essentials Part 2: Understanding ARP with Practical Examples | Namratamali | [Read More](https://medium.com/p/1a89ab13aebf) |
-| Sat, 28 Mar 2026 09:37:23 GMT | — Rethinking Threat Modeling for Agentic AI — The Shift to Cognitive Security | Kapil | [Read More](https://medium.com/p/ca0fc6fdf50c) |
-| Sat, 28 Mar 2026 09:36:09 GMT | Your API Is Public — You Just Don’t Realize It | Gaurav - Digital Marketing Intern | [Read More](https://medium.com/p/1faaf86f6e22) |
