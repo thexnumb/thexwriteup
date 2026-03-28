@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 22:27:53 GMT | Insecure Deeplinks and Intent Hijacking - When a Malicious App on the Same Device Intercepts Your… | Rufus Kehinde | [Read More](https://medium.com/p/1bf394b4863b) |
+| Sat, 28 Mar 2026 22:21:22 GMT | Hacking Isn’t What You Think… | Francis Precious Wagonda | [Read More](https://medium.com/p/3a2422058574) |
+| Sat, 28 Mar 2026 22:10:26 GMT | OS Command Injection Vulnerability | ANXS3C | [Read More](https://medium.com/p/1a2b7b6dd4a3) |
+| Sat, 28 Mar 2026 22:02:13 GMT | Best Firewall for Small Business in 2026: Expert Guide to Network Security | Game With Life | [Read More](https://medium.com/p/dfc775e30f03) |
+| Sat, 28 Mar 2026 21:58:25 GMT | I Tracked 7,381 Cyber Attacks in 30 Days. | Before The Curve | [Read More](https://medium.com/p/c0963d5f3ead) |
+| Sat, 28 Mar 2026 21:55:24 GMT | Building Safe AI Agents — Implementing Security Guard using Microsoft Agent Framework’s Safety… | Sai Nitesh Palamakula | [Read More](https://medium.com/p/733f02d6008f) |
+| Sat, 28 Mar 2026 21:51:00 GMT | $210 Bounty — The Ghost in the API: How I Scraped “Deleted” Users (And Survived a 2-Month Triage… | Zer0Figure | [Read More](https://medium.com/p/f77daafcc6fe) |
+| Sat, 28 Mar 2026 21:34:31 GMT | TryHackMe — Threat Intelligence Tools Walkthrough with answers | Marc-André Poulin | [Read More](https://medium.com/p/36bd0a6b575a) |
+| Sat, 28 Mar 2026 21:33:42 GMT | I Compared AI, Data, and Cybersecurity — One Clearly Wins | Bonface Juma - Career Transition Expert & Writer | [Read More](https://medium.com/p/82d3e97bc20a) |
 | Sat, 28 Mar 2026 21:16:50 GMT | Add Pre-Signature Policy Enforcement to AWS KMS Signing in 10 Minutes | Heartlin Machado | [Read More](https://medium.com/p/275a04efc642) |
 | Sat, 28 Mar 2026 21:14:46 GMT | Google Confirms High-Risk Update For 3.5 Billion Chrome Users | Moni | [Read More](https://medium.com/p/e91ee6def979) |
 | Sat, 28 Mar 2026 21:08:47 GMT | Apple Home Key vs. UniFi Touch Pass: A Deep Technical Breakdown of How Your Phone Unlocks Doors | Dipak Parmar | [Read More](https://medium.com/p/e9823e450dc3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 14:36:56 GMT | I Thought Hacking Was About Skill, Until I Learned It Starts With the Operating System | Faraz Weerabangsa - BSc in MIS (Special) | [Read More](https://medium.com/p/c5c23cbc2d10) |
 | Sat, 28 Mar 2026 14:24:25 GMT | What Virus Databases Reveal About the Future of Cyber Warfare | Makhtar Diop | [Read More](https://medium.com/p/868fd29919a2) |
 | Sat, 28 Mar 2026 14:24:23 GMT | Critical n8n Vulnerability CVE-2026–33696: Prototype Pollution Leads to RCE in XML and GSuiteAdmin… | Lakshan Sameera | [Read More](https://medium.com/p/49833ed5e54a) |
-| Sat, 28 Mar 2026 14:11:00 GMT | Your Employees Are Already Using AI You’ve Never Approved | Ben Pickett | [Read More](https://medium.com/p/e6016ea52986) |
-| Sat, 28 Mar 2026 14:04:40 GMT | Formal Verification Techniques for Ensuring Correctness in Large-Scale Distributed Systems | John Ali | [Read More](https://medium.com/p/fc83eec9384c) |
-| Sat, 28 Mar 2026 14:02:29 GMT | The Internet Was Weeks Away From Disaster | jaeson Bernardsha | [Read More](https://medium.com/p/56dd1ead12cc) |
-| Sat, 28 Mar 2026 14:01:00 GMT | Threat Hunting for DNS Tunneling Activities — LetsDefend | 0verRida | [Read More](https://medium.com/p/ad5c7818676a) |
-| Sat, 28 Mar 2026 13:52:22 GMT | WordPress Core Security 2026 — Part 6 (Final) | Leetsec Sarwar | [Read More](https://medium.com/p/167e1e595ee9) |
-| Sat, 28 Mar 2026 13:50:56 GMT | Pretexting Attacks: Designing Realistic Attack Scenarios in Human-Centric Red Teaming | Cynox Security LLP. | [Read More](https://medium.com/p/5a8ed729f455) |
-| Sat, 28 Mar 2026 13:50:25 GMT | How to Send an Anonymous Email in 2026 (Without Being Traced) | Warren Smith | [Read More](https://medium.com/p/1fb94a8af61b) |
-| Sat, 28 Mar 2026 13:48:02 GMT | How to fix zsh memory corruption: corrupt history file /home/kali/.zsh_history | Albertstive | [Read More](https://medium.com/p/59b01bcd5a4f) |
-| Sat, 28 Mar 2026 13:32:51 GMT | The iPhone That Doesn’t Really Turn Off: How Apple’s Find My Network Keeps Tracking | Def | [Read More](https://medium.com/p/4277f7103831) |
