@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 23:07:56 GMT | PortSwigger Lab Write-up: Bypassing Brute-Force Protection via JSON Arrays | GhostX_101 | [Read More](https://medium.com/p/e23b1dc4abee) |
+| Sat, 28 Mar 2026 23:06:00 GMT | Why “Free” Online Tools Are Costing You More Than You Realize | Mark | [Read More](https://medium.com/p/28ec7f6add7e) |
+| Sat, 28 Mar 2026 23:05:48 GMT | Inside njRAT: A Static Analysis of One of the Most Persistent RATs in the Wild | Khush Pachani | [Read More](https://medium.com/p/79793eebeb7c) |
+| Sat, 28 Mar 2026 23:03:58 GMT | Deploying IAM Technologies. | Albert Jones - CISM | [Read More](https://medium.com/p/ae445c2324d5) |
+| Sat, 28 Mar 2026 22:55:44 GMT | The log that cried wolf! | Aboelrous | [Read More](https://medium.com/p/8055b5809bf9) |
+| Sat, 28 Mar 2026 22:44:55 GMT | Nine AI Agents, Three Attack Teams, Zero Breakthroughs: What Swarm Pressure Taught Me About AI… | Selfradiance | [Read More](https://medium.com/p/17071abc547d) |
+| Sat, 28 Mar 2026 22:43:08 GMT | PicoCTF Writeup — Absolute Nano | Aman Barolia | [Read More](https://medium.com/p/16154388aa45) |
+| Sat, 28 Mar 2026 22:33:16 GMT | Building a Bitcoin-Native Pay-Per-Call API Gateway with Ark and Bark | PiHiker | [Read More](https://medium.com/p/4c21a7e956b6) |
 | Sat, 28 Mar 2026 22:27:53 GMT | Insecure Deeplinks and Intent Hijacking - When a Malicious App on the Same Device Intercepts Your… | Rufus Kehinde | [Read More](https://medium.com/p/1bf394b4863b) |
 | Sat, 28 Mar 2026 22:21:22 GMT | Hacking Isn’t What You Think… | Francis Precious Wagonda | [Read More](https://medium.com/p/3a2422058574) |
 | Sat, 28 Mar 2026 22:10:26 GMT | OS Command Injection Vulnerability | ANXS3C | [Read More](https://medium.com/p/1a2b7b6dd4a3) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 15:06:12 GMT | U.A. High School — TryHackMe Walkthrough | Rayenhafsawy | [Read More](https://medium.com/p/ab3a0170a5d0) |
 | Sat, 28 Mar 2026 15:03:09 GMT | The Mindset of a Modern Penetration Tester: More Than Just Hacking | Charlesiheke | [Read More](https://medium.com/p/dacac24025cb) |
 | Sat, 28 Mar 2026 15:02:59 GMT | The Illusion of Consent: Why Online Privacy Still Fails Users — Joseph Sides | Joseph Sides | [Read More](https://medium.com/p/1cdfe858b24f) |
-| Sat, 28 Mar 2026 15:02:46 GMT | Exploiting Second-Order SQL Injection to Retrieve the Flag | recoxy | [Read More](https://medium.com/p/7a2f8d544ab6) |
-| Sat, 28 Mar 2026 15:01:00 GMT | Un jurado declaró a Meta y YouTube negligentes por diseñar plataformas adictivas que dañaron a una… | Tiziano Mass | [Read More](https://medium.com/p/218028500200) |
-| Sat, 28 Mar 2026 14:59:13 GMT | Anthropic Leaks (New) Claude Mythos (And Might Be Too Dangerous to Release) | Joe Njenga | [Read More](https://medium.com/p/16f2d30ea592) |
-| Sat, 28 Mar 2026 14:47:32 GMT | The 43-minute silence inside every SOC | Sumit Chouhan | [Read More](https://medium.com/p/5533963198f0) |
-| Sat, 28 Mar 2026 14:46:00 GMT | Quantum Computers Might Already Be Breaking Your Encryption | David Rodenas PhD | [Read More](https://medium.com/p/05a702e3d29c) |
-| Sat, 28 Mar 2026 14:36:56 GMT | I Thought Hacking Was About Skill, Until I Learned It Starts With the Operating System | Faraz Weerabangsa - BSc in MIS (Special) | [Read More](https://medium.com/p/c5c23cbc2d10) |
-| Sat, 28 Mar 2026 14:24:25 GMT | What Virus Databases Reveal About the Future of Cyber Warfare | Makhtar Diop | [Read More](https://medium.com/p/868fd29919a2) |
-| Sat, 28 Mar 2026 14:24:23 GMT | Critical n8n Vulnerability CVE-2026–33696: Prototype Pollution Leads to RCE in XML and GSuiteAdmin… | Lakshan Sameera | [Read More](https://medium.com/p/49833ed5e54a) |
