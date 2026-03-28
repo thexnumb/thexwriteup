@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 14:24:23 GMT | Critical n8n Vulnerability CVE-2026–33696: Prototype Pollution Leads to RCE in XML and GSuiteAdmin… | Lakshan Sameera | [Read More](https://medium.com/p/49833ed5e54a) |
+| Sat, 28 Mar 2026 14:11:00 GMT | Your Employees Are Already Using AI You’ve Never Approved | Ben Pickett | [Read More](https://medium.com/p/e6016ea52986) |
+| Sat, 28 Mar 2026 14:04:40 GMT | Formal Verification Techniques for Ensuring Correctness in Large-Scale Distributed Systems | John Ali | [Read More](https://medium.com/p/fc83eec9384c) |
+| Sat, 28 Mar 2026 14:02:29 GMT | The Internet Was Weeks Away From Disaster | jaeson Bernardsha | [Read More](https://medium.com/p/56dd1ead12cc) |
+| Sat, 28 Mar 2026 14:01:00 GMT | Threat Hunting for DNS Tunneling Activities — LetsDefend | 0verRida | [Read More](https://medium.com/p/ad5c7818676a) |
+| Sat, 28 Mar 2026 13:52:22 GMT | WordPress Core Security 2026 — Part 6 (Final) | Leetsec Sarwar | [Read More](https://medium.com/p/167e1e595ee9) |
+| Sat, 28 Mar 2026 13:50:56 GMT | Pretexting Attacks: Designing Realistic Attack Scenarios in Human-Centric Red Teaming | Cynox Security LLP. | [Read More](https://medium.com/p/5a8ed729f455) |
+| Sat, 28 Mar 2026 13:50:25 GMT | How to Send an Anonymous Email in 2026 (Without Being Traced) | Warren Smith | [Read More](https://medium.com/p/1fb94a8af61b) |
 | Sat, 28 Mar 2026 13:48:02 GMT | How to fix zsh memory corruption: corrupt history file /home/kali/.zsh_history | Albertstive | [Read More](https://medium.com/p/59b01bcd5a4f) |
 | Sat, 28 Mar 2026 13:32:51 GMT | The iPhone That Doesn’t Really Turn Off: How Apple’s Find My Network Keeps Tracking | Def | [Read More](https://medium.com/p/4277f7103831) |
 | Sat, 28 Mar 2026 13:31:00 GMT | Home lab: Building a Secure Small Office Network from Scratch | Mayank Bhagwat | [Read More](https://medium.com/p/88ccbc522d80) |
@@ -26,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 12:58:54 GMT | Securing Your APIs with Apache APISIX: A Practical Guide | Md Saikat | [Read More](https://medium.com/p/c08c090c79d0) |
 | Sat, 28 Mar 2026 12:49:17 GMT | Credentials Route. Identity Confirms. Agent Discovery Has It Backwards. | Douglas Borthwick | [Read More](https://medium.com/p/26d385101540) |
 | Sat, 28 Mar 2026 12:46:00 GMT | If You Truly Understand These 8 Things, You’ll Never Be Confused About Auth Again | Lets Learn Now | [Read More](https://medium.com/p/6206042f212f) |
+| Sat, 28 Mar 2026 12:23:40 GMT | CVE-2026–24061 GNU InetUtils Telnetd Authentication Bypass Vulnerability — RCE as Root | Eternal Edge | [Read More](https://medium.com/p/95b60f8cafbe) |
 | Sat, 28 Mar 2026 12:22:39 GMT | API2: Broken Authentication — It’s Not Just About Passwords | Cyberbali | [Read More](https://medium.com/p/52d723d5b785) |
 | Sat, 28 Mar 2026 12:22:03 GMT | How to Save Data from Telegram | Dr. Viktor Sirotin | [Read More](https://medium.com/p/9db79ba8ed4f) |
 | Sat, 28 Mar 2026 12:16:00 GMT | Speech, Law, and Mercy: An Islamic Framework for Free and Safe Societies | Mohamed, Ph.D | [Read More](https://medium.com/p/f6067ba1d4ca) |
@@ -50,6 +59,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 10:51:50 GMT | Cloud Misconfiguration Risks in Focus After European Commission Cyber Incident | Jas | [Read More](https://medium.com/p/e8ac777002cb) |
 | Sat, 28 Mar 2026 10:51:34 GMT | AI Agents are Fragile. Stop your AI Agents from crashing: The 6-Layer Security Mesh | Heerj | [Read More](https://medium.com/p/3abdff0924d4) |
 | Sat, 28 Mar 2026 10:49:31 GMT | The Hidden Ways GDPR Affects Your Daily Life Online | AartiWrites | [Read More](https://medium.com/p/e4e7a4462020) |
+| Sat, 28 Mar 2026 10:49:12 GMT | True Satoshi-Maximalist Alternatives: Ditch the Brands, Build Your Own Air-Gapped Setup | kapKap | [Read More](https://medium.com/p/c4db922df78f) |
 | Sat, 28 Mar 2026 10:48:50 GMT | SSH-Secure Shell! | S.Sparshika | [Read More](https://medium.com/p/6eb742fdcc69) |
 | Sat, 28 Mar 2026 10:46:35 GMT | PicoCTF 2026 — JITFP Writeup | Spandhan Panta | [Read More](https://medium.com/p/738b3668dafd) |
 | Sat, 28 Mar 2026 10:43:50 GMT | How to Protect Aging Parents from AI Voice Scams and Identity Theft: A 2026 Family Safety Checklist | Avish Gokhool | [Read More](https://medium.com/p/570fdb50c37e) |
@@ -97,18 +107,8 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 08:25:24 GMT | What is phishing? | Nivethabaskar | [Read More](https://medium.com/p/2593bb419ca9) |
 | Sat, 28 Mar 2026 08:25:17 GMT | I Opened Wireshark for 10 Minutes, And Didn’t Like What I Saw | Fateyaly | [Read More](https://medium.com/p/12575a7c450f) |
 | Sat, 28 Mar 2026 08:22:12 GMT | One Simple Change That Made Managing My Car Stress-Free | Shagunkaurr | [Read More](https://medium.com/p/046917edcbe1) |
+| Sat, 28 Mar 2026 08:13:46 GMT | How Exposed n8n Webhooks Become an Attack Surface | Jorge Jarne | [Read More](https://medium.com/p/bf3c7cd97bc2) |
 | Sat, 28 Mar 2026 08:04:47 GMT | What Is a RAT (Remote Access Trojan)? | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/84e21c777781) |
 | Sat, 28 Mar 2026 07:56:07 GMT | The Linux Security Journey — nosuid (No Set UID) File System Support | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7eb042c1dcbd) |
 | Sat, 28 Mar 2026 07:53:15 GMT | How to choose the best cyber range solution for cybersecurity skill development? | cyber security Updates | [Read More](https://medium.com/p/61bdaaa7b79b) |
 | Sat, 28 Mar 2026 07:46:24 GMT | The Hidden Cost of AI Adoption: Data Leakage, Compliance, and Risk | Nishthaanand | [Read More](https://medium.com/p/db2c0c439895) |
-| Sat, 28 Mar 2026 07:41:31 GMT | From Heidegger’s Technological Gestell to Algorithmic Sovereignty | Ziya Gokalp | [Read More](https://medium.com/p/556561a9e5f8) |
-| Sat, 28 Mar 2026 07:41:01 GMT | No Mind Is An Island: The Rise of Agentic AI | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/9548cb39a2fa) |
-| Sat, 28 Mar 2026 07:38:44 GMT | ORDER ORDER — PicoCTF Writeup | Vedant Pillai | [Read More](https://medium.com/p/b7c7de44f296) |
-| Sat, 28 Mar 2026 07:32:35 GMT | What Every Business Needs to Know About Deception Technology | UK Cyber Defence | [Read More](https://medium.com/p/4932b423efb8) |
-| Sat, 28 Mar 2026 07:30:44 GMT | Why Choosing the Right Cybersecurity Services Provider in Dubai is Crucial for Business Success? | oadtechnologies | [Read More](https://medium.com/p/db9c458e96bb) |
-| Sat, 28 Mar 2026 07:29:06 GMT | How to Secure Your Phone with Antivirus Pro Against Malicious APKs | Rahul yadav | [Read More](https://medium.com/p/f8f22781de1f) |
-| Sat, 28 Mar 2026 07:27:09 GMT | Automated Identity Lifecycle Management for Secure Onboarding & Offboarding - Rails A. | Railsdevabam | [Read More](https://medium.com/p/bb0cb8f7561e) |
-| Sat, 28 Mar 2026 07:24:42 GMT | Hackers Don’t Need Your Password — Here’s Why | Sooraj Pandey | [Read More](https://medium.com/p/c6e01ee2434f) |
-| Sat, 28 Mar 2026 07:18:20 GMT | Apple Just Made a $599 Laptop That Puts $1,000 MacBooks to Shame | Ziadi Lotfi | [Read More](https://medium.com/p/cc4f24b167da) |
-| Sat, 28 Mar 2026 07:01:00 GMT | 23. Designing Production-Ready CI/CD Architecture | Mangesh Muley | [Read More](https://medium.com/p/e923178bc535) |
-| Sat, 28 Mar 2026 06:42:00 GMT | Introducing Leevium: My IT, tech & computing blog | Kent Lee | [Read More](https://medium.com/p/f22b193c9953) |
