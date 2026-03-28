@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 13:48:02 GMT | How to fix zsh memory corruption: corrupt history file /home/kali/.zsh_history | Albertstive | [Read More](https://medium.com/p/59b01bcd5a4f) |
+| Sat, 28 Mar 2026 13:32:51 GMT | The iPhone That Doesn’t Really Turn Off: How Apple’s Find My Network Keeps Tracking | Def | [Read More](https://medium.com/p/4277f7103831) |
+| Sat, 28 Mar 2026 13:31:00 GMT | Home lab: Building a Secure Small Office Network from Scratch | Mayank Bhagwat | [Read More](https://medium.com/p/88ccbc522d80) |
+| Sat, 28 Mar 2026 13:30:23 GMT | C# & Powershell AMSI Bypass 2026 | Syphrx | [Read More](https://medium.com/p/90b588c513e2) |
+| Sat, 28 Mar 2026 13:26:43 GMT | How Easily Our Devices Can Be Hacked — And Why Safe Browsing Matters More Than Ever | Jjumbajulius | [Read More](https://medium.com/p/690ab9be4716) |
+| Sat, 28 Mar 2026 13:17:50 GMT | When Digital Platforms Control Everything: The Risk of Centralized Digital Power | Dr. Anil Tiwari | [Read More](https://medium.com/p/218d8cb0c155) |
+| Sat, 28 Mar 2026 13:17:40 GMT | One Update Away From Disaster: The Dark Side of Browser Extensions | Abhishek Chougule | [Read More](https://medium.com/p/7f9a94e41b22) |
+| Sat, 28 Mar 2026 13:12:53 GMT | Historical Accuracy of Airport Ticket Purchases Without Reservations Pre-9/11 Examined | Olivia Davis | [Read More](https://medium.com/p/53cb508f9143) |
+| Sat, 28 Mar 2026 13:08:55 GMT | 5 Agentic AI Workflows That Will Power Autonomous SOCs in 2026 | Garvit Haswani | [Read More](https://medium.com/p/76acc11967fc) |
+| Sat, 28 Mar 2026 13:06:52 GMT | Vulnerability | paper trails | [Read More](https://medium.com/p/118036cf6cee) |
+| Sat, 28 Mar 2026 13:02:42 GMT | Most Common TCP/UDP Ports and Protocols Every Security Professional Should Know | Ferdi Edogawa | [Read More](https://medium.com/p/6fe0959a746b) |
+| Sat, 28 Mar 2026 12:58:54 GMT | Securing Your APIs with Apache APISIX: A Practical Guide | Md Saikat | [Read More](https://medium.com/p/c08c090c79d0) |
+| Sat, 28 Mar 2026 12:49:17 GMT | Credentials Route. Identity Confirms. Agent Discovery Has It Backwards. | Douglas Borthwick | [Read More](https://medium.com/p/26d385101540) |
+| Sat, 28 Mar 2026 12:46:00 GMT | If You Truly Understand These 8 Things, You’ll Never Be Confused About Auth Again | Lets Learn Now | [Read More](https://medium.com/p/6206042f212f) |
 | Sat, 28 Mar 2026 12:22:39 GMT | API2: Broken Authentication — It’s Not Just About Passwords | Cyberbali | [Read More](https://medium.com/p/52d723d5b785) |
 | Sat, 28 Mar 2026 12:22:03 GMT | How to Save Data from Telegram | Dr. Viktor Sirotin | [Read More](https://medium.com/p/9db79ba8ed4f) |
 | Sat, 28 Mar 2026 12:16:00 GMT | Speech, Law, and Mercy: An Islamic Framework for Free and Safe Societies | Mohamed, Ph.D | [Read More](https://medium.com/p/f6067ba1d4ca) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 07:18:20 GMT | Apple Just Made a $599 Laptop That Puts $1,000 MacBooks to Shame | Ziadi Lotfi | [Read More](https://medium.com/p/cc4f24b167da) |
 | Sat, 28 Mar 2026 07:01:00 GMT | 23. Designing Production-Ready CI/CD Architecture | Mangesh Muley | [Read More](https://medium.com/p/e923178bc535) |
 | Sat, 28 Mar 2026 06:42:00 GMT | Introducing Leevium: My IT, tech & computing blog | Kent Lee | [Read More](https://medium.com/p/f22b193c9953) |
-| Sat, 28 Mar 2026 06:33:21 GMT | 5 Signs You’re About to Get Scammed (What Scammers Don’t Want You to Know) | Decode Help | [Read More](https://medium.com/p/7788c75df7c6) |
-| Sat, 28 Mar 2026 06:31:37 GMT | Hackviser Unrestricted File Upload Labs — File Extension Improved Filter Bypass | s4l1hs | [Read More](https://medium.com/p/af986279d644) |
-| Sat, 28 Mar 2026 06:28:37 GMT | Working Inside OpenAI | Nizamuddin Siddiqui | [Read More](https://medium.com/p/30193c96a10d) |
-| Sat, 28 Mar 2026 06:26:07 GMT | Web App Pen Test: What I Check in the First 10 Minutes of Every Engagement | Kuboid Secure Layer | [Read More](https://medium.com/p/1f7638431386) |
-| Sat, 28 Mar 2026 06:18:33 GMT | Warehouse Security Guards: The Backbone of Safe and Efficient Logistics | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/ddc07ad34476) |
-| Sat, 28 Mar 2026 06:16:00 GMT | What APIs Really Do (And Why Everything Breaks Without Them) | Aiman Zafar | [Read More](https://medium.com/p/835416df8b91) |
-| Sat, 28 Mar 2026 06:08:01 GMT | The Ultimate Guide to Secure Payment Gateways in India (2026 Edition) | Seocreativity | [Read More](https://medium.com/p/ace391b49b2a) |
-| Sat, 28 Mar 2026 06:07:55 GMT | Eavesdropping on Starlink: How Researchers Turned Internet Satellites into a Stealth GPS… | James Marinero, MSc, MBA | [Read More](https://medium.com/p/71cb0b4c9c03) |
-| Sat, 28 Mar 2026 05:56:32 GMT | Strategic Industrial Cyber Warfare Analysis — Briefing 06 | Muhammad Ali Khan | [Read More](https://medium.com/p/e36eb085b01c) |
-| Sat, 28 Mar 2026 05:37:50 GMT | How Artificial Intelligence Is Changing Cybersecurity (For Better and Worse) | Nisa | [Read More](https://medium.com/p/d91d0381dc90) |
-| Sat, 28 Mar 2026 05:36:26 GMT | How I Bypassed SSO to Access Sony’s Internal AI Chat Assistant (Broken Access Control) | ᲼᲼᲼᲼᲼᲼᲼᲼᲼ | [Read More](https://medium.com/p/6f0c62426d9b) |
-| Sat, 28 Mar 2026 05:36:16 GMT | Hackviser Unrestricted File Upload Labs — File Extension Filter Bypass | s4l1hs | [Read More](https://medium.com/p/c4d104b93212) |
-| Sat, 28 Mar 2026 05:33:59 GMT | Google Dorking for Bug Bounty — How Hackers Find Hidden Vulnerabilities | Riya Limba | [Read More](https://medium.com/p/5fcc3a1089da) |
-| Sat, 28 Mar 2026 05:31:00 GMT | How to Investigate a Phishing Alert Step-by-Step (A Beginner’s SOC Playbook) | Manubhav Sharma | [Read More](https://medium.com/p/8a655ef2121e) |
