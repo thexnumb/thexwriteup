@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 16:34:23 GMT | The Human Firewall: Why People Are the Weakest Link in Cybersecurity | Asymmetric | [Read More](https://medium.com/p/8609510c958e) |
+| Sat, 28 Mar 2026 16:30:59 GMT | HackTheBox: Kobold | Adhilbinmujeeb | [Read More](https://medium.com/p/03e7bc1ec32e) |
+| Sat, 28 Mar 2026 16:27:33 GMT | Finding Security in God's Grip | SoulfulPaces | [Read More](https://medium.com/p/8f3b6cc6e396) |
+| Sat, 28 Mar 2026 16:12:11 GMT | The Most Annoying Part of Android APK Workflow — And How I Fixed It | Dmitry Yarygin | [Read More](https://medium.com/p/757a0799287a) |
+| Sat, 28 Mar 2026 16:10:39 GMT | Unpacking the New White House App | Learn With Hatty | [Read More](https://medium.com/p/0bdcf8e36f75) |
+| Sat, 28 Mar 2026 16:08:41 GMT | Finding an IDOR in User Profile API: A $15,000 Journey to Critical | Krishna Kumar | [Read More](https://medium.com/p/0f05e583c00b) |
+| Sat, 28 Mar 2026 16:06:47 GMT | Dynamic SSL Pinning: Server Architecture, Signed Key Registry, and Full Deployment | Denis | [Read More](https://medium.com/p/e7405528d9d2) |
+| Sat, 28 Mar 2026 16:00:09 GMT | GPU Dedicated Server Security: A Practical Checklist for DevOps and ML Engineers | Emilyharbord | [Read More](https://medium.com/p/74822e5086f8) |
+| Sat, 28 Mar 2026 15:59:03 GMT | $10,000 Bug Bounty: How a Malicious USB Drive Can Jailbreak PlayStation | Monika sharma | [Read More](https://medium.com/p/8fe7acc68ac7) |
+| Sat, 28 Mar 2026 15:56:05 GMT | CVE-2026–0766: Remote Code Execution in OpenWebUI | Pradeep Pillai | [Read More](https://medium.com/p/e1fc7a45ded8) |
+| Sat, 28 Mar 2026 15:52:58 GMT | Introduction to Hacking, Virtual Machines, Linux, and Networking | Joana Maria Biju | [Read More](https://medium.com/p/63928d5bf122) |
+| Sat, 28 Mar 2026 15:42:42 GMT | What is JWT? How is a Token Created Internally — Built Manually with Python. | Mangal_dev | [Read More](https://medium.com/p/fc05e6401069) |
+| Sat, 28 Mar 2026 15:41:42 GMT | Cheap Security Cameras Are Sending Your Footage Overseas — Here’s Why | Game With Life | [Read More](https://medium.com/p/fbea26664eb7) |
+| Sat, 28 Mar 2026 15:38:57 GMT | PhantomRaven and the New npm Trick: When the Malware Isn’t in the Package | Ilias Armenakis | [Read More](https://medium.com/p/d4cf7e33e50c) |
+| Sat, 28 Mar 2026 15:33:09 GMT | AI Doesn’t Need More Intelligence — It Needs an Immune System | Roalstoney | [Read More](https://medium.com/p/8d67ad6c4525) |
 | Sat, 28 Mar 2026 15:21:00 GMT | The Day Your AI Agent Deletes Production — What Will You Show in Court? | GuardClaw | [Read More](https://medium.com/p/b59df76d8c44) |
 | Sat, 28 Mar 2026 15:17:56 GMT | We are the minority online. The AI Traffic & Cyberthreat data proving Dead Internet Theory | Rohit Kumar Thakur | [Read More](https://medium.com/p/46ab3730f249) |
 | Sat, 28 Mar 2026 15:16:49 GMT | Detecting SSH Brute-Force Attack and Suspected Compromise Using Splunk And OpenSSH Logs | Myra Moses Gomba | [Read More](https://medium.com/p/a42ac70f85e2) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 09:39:25 GMT | Networking Essentials Part 2: Understanding ARP with Practical Examples | Namratamali | [Read More](https://medium.com/p/1a89ab13aebf) |
 | Sat, 28 Mar 2026 09:37:23 GMT | — Rethinking Threat Modeling for Agentic AI — The Shift to Cognitive Security | Kapil | [Read More](https://medium.com/p/ca0fc6fdf50c) |
 | Sat, 28 Mar 2026 09:36:09 GMT | Your API Is Public — You Just Don’t Realize It | Gaurav - Digital Marketing Intern | [Read More](https://medium.com/p/1faaf86f6e22) |
-| Sat, 28 Mar 2026 09:34:35 GMT | The Security Tool Designed to Protect Your AI Stack Just Became the Weapon That Destroyed It | Arthi Rajendran | [Read More](https://medium.com/p/628a2b37e061) |
-| Sat, 28 Mar 2026 09:31:36 GMT | Citrix NetScaler CVE-2026–3055: Why Security Teams Need to Patch Before Recon Turns Into Breach | Germano Costi | [Read More](https://medium.com/p/febc9f36ffe6) |
-| Sat, 28 Mar 2026 09:31:00 GMT | I Almost Signed a Network Security Contract That Would Have Cost My Team 50% More Than Advertised | Ed O. - TechEd Shield - TechEd Publishers | [Read More](https://medium.com/p/ab3ae591010b) |
-| Sat, 28 Mar 2026 09:25:10 GMT | How I Made Our AWS Infrastructure SOC2 Compliant in 6 Weeks Using Prowler | Pranav Patel | [Read More](https://medium.com/p/d2950c5cc215) |
-| Sat, 28 Mar 2026 09:23:05 GMT | Week as an Attacker, Defender, and Auditor: Lessons from a Cybersecurity Bootcamp | Mugisha Alvin Allan | [Read More](https://medium.com/p/85b2e7d186ff) |
-| Sat, 28 Mar 2026 09:16:51 GMT | Ottergram (Stored XSS) | Federico Pascuale | [Read More](https://medium.com/p/0bdad113f354) |
-| Sat, 28 Mar 2026 09:15:06 GMT | Can We Actually Trust What AI Agents Did? | GuardClaw | [Read More](https://medium.com/p/bf10755f85e7) |
-| Sat, 28 Mar 2026 09:06:00 GMT | Beyond Exploitation: What I Found Testing API4 to API10 in Damn Vulnerable Bank | Odunlade Adeola | [Read More](https://medium.com/p/9687d463585d) |
-| Sat, 28 Mar 2026 09:02:20 GMT | Project Risk Is Budgeted. Security Risk Is Debated | Xiaoning Sun | [Read More](https://medium.com/p/1c95199f20c9) |
-| Sat, 28 Mar 2026 09:01:54 GMT | Iran-Linked Handala Hacked the FBI Director’s Personal Email. | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/a8958f57bb07) |
-| Sat, 28 Mar 2026 09:01:21 GMT | Your Startup Isn’t Too Small to Be Hacked — It’s Actually the Easiest Target | Gaurav kashyap | [Read More](https://medium.com/p/cb6116ec90a1) |
-| Sat, 28 Mar 2026 08:59:22 GMT | Convenient Morality Is Not Morality: Rebuilding Virtue in the Age of AI | Bibhu Ashish Panda | [Read More](https://medium.com/p/5311fbae1298) |
-| Sat, 28 Mar 2026 08:58:22 GMT | Cybersecurity Spotlight: Inside Google’s Project Zero | Amanuzzaman M | [Read More](https://medium.com/p/eed7543d1860) |
-| Sat, 28 Mar 2026 08:57:59 GMT | Web Security Series #11 — Exploiting Stored Cross-Site Scripting (Stored XSS) | Laibakashif | [Read More](https://medium.com/p/739aa3b1ad95) |
-| Sat, 28 Mar 2026 08:57:53 GMT | Bandit Level 0–5 Walkthrough (Beginner Friendly Cybersecurity Practice). | Femintee | [Read More](https://medium.com/p/25fb5938c457) |
