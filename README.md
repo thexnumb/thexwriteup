@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Mar 2026 02:11:39 GMT | How to Start Bug Bounty with Zero Experience (Cybersecurity Beginner Guide) | Sukhveer Singh | [Read More](https://medium.com/p/661a197b71dc) |
+| Sat, 28 Mar 2026 02:02:34 GMT | "The Uncomfortable Contradictions Inside Anthropic's Constitution for Claude You. | AIWitch | [Read More](https://medium.com/p/803ef52f74a5) |
+| Sat, 28 Mar 2026 01:58:52 GMT | Understanding Hacking, Virtual Machines, Linux, and Networking | Salvinsebastian | [Read More](https://medium.com/p/ccd8aa287100) |
+| Sat, 28 Mar 2026 01:38:15 GMT | HackTheBox Sau Walkthrough | xux | [Read More](https://medium.com/p/c226e64a6d7b) |
+| Sat, 28 Mar 2026 01:33:26 GMT | How to Build an Audit Trail for AI Agents | Sales | [Read More](https://medium.com/p/647f6b975f4c) |
+| Sat, 28 Mar 2026 01:32:24 GMT | I Thought I Was in Control Until the Logs Said Otherwise | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/28a5e6a62c37) |
+| Sat, 28 Mar 2026 01:01:00 GMT | [Pillion] The Survival Protocols of Physical Contact in a Post-Tactile Era | MonoEssay | [Read More](https://medium.com/p/31acf012e163) |
+| Sat, 28 Mar 2026 00:59:57 GMT | In Depth Review of Cryptera Chain Signals: A Legitimate Crypto Recovery Company
+Cryptera Chain… | Cryptera Chain Signals | [Read More](https://medium.com/p/ef4e06c4e23a) |
+| Sat, 28 Mar 2026 00:59:50 GMT | Your Daughter’s Voice is not a Proof of Identity! | Ben   Olufemi akintounde | [Read More](https://medium.com/p/37111a3ed9bb) |
+| Sat, 28 Mar 2026 00:37:10 GMT | LetsDefendWalkthrough: SOC170 — Passwd Found in Requested URL — Possible LFI Attack | Uduak Nyong | [Read More](https://medium.com/p/f5c4d519f933) |
+| Sat, 28 Mar 2026 00:19:23 GMT | Google Confirms High-Risk Update For 3.5 Billion Chrome Users | Moni | [Read More](https://medium.com/p/9b3a8d553017) |
+| Sat, 28 Mar 2026 00:18:47 GMT | Before Your Agent Pays, It Needs to Prove Who It Is | Aclickgogo | [Read More](https://medium.com/p/3735cbc7fc6e) |
+| Sat, 28 Mar 2026 00:18:17 GMT | IBM Thinkpad 701C | B Nitz | [Read More](https://medium.com/p/d513cc800018) |
+| Sat, 28 Mar 2026 00:11:16 GMT | Learn to Fight Back: Master Cyber Defense with Tony Capo | Admin | [Read More](https://medium.com/p/664d8301cbe8) |
+| Sat, 28 Mar 2026 00:01:55 GMT | Essential Steps to Recover Lost Cryptocurrency Funds | Cryptera Chain Signals | [Read More](https://medium.com/p/30fcef10b520) |
+| Fri, 27 Mar 2026 23:55:18 GMT | How a Cyberattack Shut Down the Rising Startup 23andMe, and Why It Must Be Treated as a Business… | David SEHYEON Baek | [Read More](https://medium.com/p/0d831d78fa02) |
+| Fri, 27 Mar 2026 23:43:01 GMT | Forensics (THM) Tryhackme DFIR WriteUp Only Answer | Lawvye | [Read More](https://medium.com/p/c75517f2b044) |
 | Fri, 27 Mar 2026 23:32:01 GMT | AI Is Not Replacing Cybersecurity Jobs. But It Is Changing Which Ones Actually Matter. | Jbird | [Read More](https://medium.com/p/645372af1c53) |
 | Fri, 27 Mar 2026 23:30:40 GMT | When Is Panic Hardware Required? A Practical Guide for Commercial Projects | PRL Style | [Read More](https://medium.com/p/7d5d08d27d4f) |
 | Fri, 27 Mar 2026 23:26:13 GMT | SSL Pinning in Mobile Applications: From Threat Vectors to a Dynamic Solution | Denis | [Read More](https://medium.com/p/a57f46ca0f2c) |
@@ -95,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Mar 2026 17:41:03 GMT | Secure File Upload in Go: 7 Attacks on File Upload and How We Mitigated Them | Dmitriy Petrakov | [Read More](https://medium.com/p/ddc4771c03b1) |
 | Fri, 27 Mar 2026 17:36:41 GMT | Cara Menggunakan Teknologi dan Internet dengan Baik dan Bermanfaat | JasminMedia | [Read More](https://medium.com/p/5ecce4741685) |
 | Fri, 27 Mar 2026 17:32:50 GMT | The Silent Threat: How AI Systems Are Becoming the New Attack Surface | Thiyagu Arunachalam | [Read More](https://medium.com/p/4f7b6e6d2ddd) |
-| Fri, 27 Mar 2026 17:30:03 GMT | Report Writing for SOC L2 - TryHackMe Answers | Ryca | [Read More](https://medium.com/p/07ccb9006bc8) |
-| Fri, 27 Mar 2026 17:21:55 GMT | Mobile App Security Testing Guide 2026 Part 2: The Action | mohanrajmdev | [Read More](https://medium.com/p/7639a056e688) |
-| Fri, 27 Mar 2026 17:20:49 GMT | End-to-End File Handling in Angular and ASP.NET Core | Shiwachy | [Read More](https://medium.com/p/ed760e8f9c8a) |
-| Fri, 27 Mar 2026 17:16:00 GMT | How Darknet Market Reputation Systems Work | Tor BBB | [Read More](https://medium.com/p/9fbb2c7bd2c9) |
-| Fri, 27 Mar 2026 17:14:55 GMT | How Does a Switch Learn MAC Addresses and Create a CAM Table? | Sandunsandeepa | [Read More](https://medium.com/p/b3ec2f0feda7) |
-| Fri, 27 Mar 2026 17:14:45 GMT | Part 4: Beyond Passwords — The Passkey Revolution | Sivavishnu | [Read More](https://medium.com/p/793ea2f291fe) |
-| Fri, 27 Mar 2026 17:12:30 GMT | Cybersecurity Consulting Services: Building a Resilient Digital Defense for Businesses | Nihar | [Read More](https://medium.com/p/a6e4e5c5cd3c) |
-| Fri, 27 Mar 2026 17:04:31 GMT | Cross-Site Scripting (XSS) Explained: How a “Low Severity” Vulnerability Leads to Enterprise… | Err0rr0rre | [Read More](https://medium.com/p/0912288727aa) |
-| Fri, 27 Mar 2026 17:03:00 GMT | How a Routine Security Review Turned Into a Full Supply Chain Risk Discovery | Samantha Mills | [Read More](https://medium.com/p/02cac53fe174) |
-| Fri, 27 Mar 2026 16:58:27 GMT | My week in the trenches: network security, ethical hacking, and a career talk that stuck | AGABA JOSHUA BARUNGI | [Read More](https://medium.com/p/ca1ab68b241f) |
-| Fri, 27 Mar 2026 16:57:17 GMT | Phishing Email Analysis SOC Analyst Guide Part-2 Setting Up Lab. | Vaibhavrajsahu | [Read More](https://medium.com/p/260c8bdc92bf) |
-| Fri, 27 Mar 2026 16:56:43 GMT | From Phish to Persistence: A Threat Hunting Case Study | Enes Cayvarli | [Read More](https://medium.com/p/f0479793fb92) |
-| Fri, 27 Mar 2026 16:55:19 GMT | AI-Red Teaming — As I know it | Mayuresh Joshi | [Read More](https://medium.com/p/db6acd5a7b95) |
-| Fri, 27 Mar 2026 16:48:59 GMT | From Spaghetti Code to Slop Code | Ayoub Nainia | [Read More](https://medium.com/p/54f835c84e48) |
-| Fri, 27 Mar 2026 16:45:59 GMT | The Real Reason You Can’t Take Action (And No, It’s Not Laziness) | Mounir Boudeken | [Read More](https://medium.com/p/b28addd6e156) |
-| Fri, 27 Mar 2026 16:43:50 GMT | Hybrid Cloud SOC Lab: Detecting AWS IAM Abuse with Wazuh | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/b53c4bac5880) |
-| Fri, 27 Mar 2026 16:35:10 GMT | Too Powerful to Release? Inside the Claude Mythos Leak That’s Quietly Alarming the AI Industry | Shubham Choudhary | [Read More](https://medium.com/p/48ce61795493) |
