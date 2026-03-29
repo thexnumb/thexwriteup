@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 07:38:07 GMT | Opus Has Been Dethroned — Meet the AI That Even Anthropic Is Afraid to Release | Dinmay kumar Brahma | [Read More](https://medium.com/p/76803c6893f4) |
+| Sun, 29 Mar 2026 07:36:07 GMT | Exploiting SQL Injection on DVWA — From Beginner to Blind | Akshaysuresh | [Read More](https://medium.com/p/50c585534dd0) |
+| Sun, 29 Mar 2026 07:36:01 GMT | The Dangerous Truth About Women Over 40 Who Can’t Support Themselves | Quentina | [Read More](https://medium.com/p/7d4a494b1416) |
+| Sun, 29 Mar 2026 07:33:08 GMT | AI Security 101: Why Your Product Team Needs to Care Now | Vaibhav Tiwari | [Read More](https://medium.com/p/aaaa2b58daa5) |
+| Sun, 29 Mar 2026 07:31:54 GMT | Securing Belongings in U-Haul Trucks During Cross-Country Moves: Overnight Parking Solutions | Olivia Davis | [Read More](https://medium.com/p/3469bf07018c) |
+| Sun, 29 Mar 2026 07:21:23 GMT | The Smart Home Revolution in Oman: How Local Companies Are Transforming the Way We Live | hardin s | [Read More](https://medium.com/p/bb1e452aabe2) |
+| Sun, 29 Mar 2026 07:19:55 GMT | Surviving the AWS OpenSearch TLS Upgrade: How to Update, What Breaks, and the “Escape Hatch” | Shubham Aggarwal | [Read More](https://medium.com/p/59c01cbb5811) |
+| Sun, 29 Mar 2026 07:17:38 GMT | Expanse Surveyor: Dead-Drop C2 & Silent Data Exfiltration | Ritesh Ekbote | [Read More](https://medium.com/p/13bfb13dda11) |
+| Sun, 29 Mar 2026 07:16:03 GMT | TryHackMe — Threat Intelligence Tools Walkthrough with Screenshots & Answers | Sadnan Saquif | [Read More](https://medium.com/p/c77c45da6ace) |
+| Sun, 29 Mar 2026 07:07:48 GMT | Zero Trust Security Reference Architecture for Agentic AI | Praveen Karunakaran CISS, CISSP-ISSAP, CCSP. CISM | [Read More](https://medium.com/p/f8b3d4ba88b6) |
+| Sun, 29 Mar 2026 07:07:36 GMT | How I Turn Recon Into Real Bug Bounty Reports | ghostyjoe | [Read More](https://medium.com/p/daa77e9cbedc) |
+| Sun, 29 Mar 2026 07:04:18 GMT | The FBI Director Was Just Hacked: Inside the Handala Cyber Warfare Offensive | Aaron | [Read More](https://medium.com/p/aab3648db0ec) |
+| Sun, 29 Mar 2026 07:01:15 GMT | ️Log Injection & sshguard Bypass in pfSense 2.8.0 — A Security Analysis | Meghnine Islem | [Read More](https://medium.com/p/80334c56c496) |
+| Sun, 29 Mar 2026 06:59:27 GMT | LiteLLM Supply Chain Attack: 3 Million Developers Got Backdoored in 3 Hours | Abhi | [Read More](https://medium.com/p/f9a665efc680) |
+| Sun, 29 Mar 2026 06:49:08 GMT | What I Look for After httpx | ghostyjoe | [Read More](https://medium.com/p/a462dc0c649c) |
+| Sun, 29 Mar 2026 06:45:50 GMT | picoCTF Writeup — Undo Challenge (Linux Transformations Walkthrough)  Overview | Ali Hasil | [Read More](https://medium.com/p/09d26d219e39) |
 | Sun, 29 Mar 2026 06:37:27 GMT | If You’re Starting Cyber Security, Start With These 5 Tools | MilanGiri Gosai | [Read More](https://medium.com/p/10e12f8df7be) |
 | Sun, 29 Mar 2026 06:36:51 GMT | How I Made $1,200 by Finding a Hidden XSS in a “Secure” Web App (Full Walkthrough) | Sukhveer Singh | [Read More](https://medium.com/p/77fa787d06b2) |
 | Sun, 29 Mar 2026 06:33:55 GMT | The Confused Deputy: How a Linux Security Tool Was Weaponized to Grant Root Access | Aaron | [Read More](https://medium.com/p/b658a6175322) |
@@ -98,19 +114,3 @@ That Compute Is Valuable | Senaaravichandran A | [Read More](https://medium.com/
 | Sat, 28 Mar 2026 20:39:38 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 1 | Vanshaj Kumar | [Read More](https://medium.com/p/c9611a1a3814) |
 | Sat, 28 Mar 2026 20:38:54 GMT | This Is Why Nothing Changes in Nigeria — Even When We Think It Will | Calvin | [Read More](https://medium.com/p/861ea905057c) |
 | Sat, 28 Mar 2026 20:20:22 GMT | Centralizing OCI Service Access: A Hybrid PSA + HAProxy Architecture for Enterprise Environments | Alessandro Moccia | [Read More](https://medium.com/p/a9940795adab) |
-| Sat, 28 Mar 2026 20:09:10 GMT | The RAG Security Gap Nobody’s Talking About — And How I Built a Tool to Fix It | Ashwin Raj | [Read More](https://medium.com/p/b6d58ec9368d) |
-| Sat, 28 Mar 2026 20:05:14 GMT | Each of us works for one of the richest companies in the world every single day, without pay or… | Igor Berner | [Read More](https://medium.com/p/14f318216eb1) |
-| Sat, 28 Mar 2026 20:01:42 GMT | The Hidden Cost of Giving Away Your Email Address (And Why It Matters More Than You Think) | Mark | [Read More](https://medium.com/p/d6c4ff3e0b6b) |
-| Sat, 28 Mar 2026 20:01:12 GMT | I Exploit BYOVD for a Living, and Even I Think This Rollout Is Going to Cause More Harm Than Good | Anthony Cihan | [Read More](https://medium.com/p/f03ed26cc870) |
-| Sat, 28 Mar 2026 20:01:00 GMT | When AI Trusts Too Much — The Danger of Compromised Tools | NeaByteLab | [Read More](https://medium.com/p/d2c383ef650d) |
-| Sat, 28 Mar 2026 20:00:40 GMT | Quantum-Safe Security: What Happens to Cryptography When Quantum Computers + AI Collide | David Kljajo | [Read More](https://medium.com/p/b9c3c4a3e49b) |
-| Sat, 28 Mar 2026 19:55:28 GMT | Solución CTF — Team | SatoBlack | [Read More](https://medium.com/p/e96971daee31) |
-| Sat, 28 Mar 2026 19:41:12 GMT | How I Validated a Log Pipeline in Splunk as a SOC Analyst | Becca | [Read More](https://medium.com/p/78e8f1537a88) |
-| Sat, 28 Mar 2026 19:39:27 GMT | I Watched My Computer “Talk” to the Internet -Here’s What I Discovered (DNS Analysis with… | Becca | [Read More](https://medium.com/p/09babf05b50a) |
-| Sat, 28 Mar 2026 19:36:34 GMT | Burpsuite Tool-u nədir və onun praktiki izahı | Kamalatluxanov | [Read More](https://medium.com/p/77d13dbff1c9) |
-| Sat, 28 Mar 2026 19:35:20 GMT | Try Hack Me- Fusion Corp CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/47421f4bd3c0) |
-| Sat, 28 Mar 2026 19:14:25 GMT | HTB: EscapeTwo | Dipesh Paul | [Read More](https://medium.com/p/51e2afcfbac5) |
-| Sat, 28 Mar 2026 19:13:46 GMT | Anthropic Just Accidentally Leaked Their Most Dangerous AI Model — And Wall Street Is Panicking | Anup Karanjkar | [Read More](https://medium.com/p/4a60d25b939e) |
-| Sat, 28 Mar 2026 19:11:54 GMT | Security Tools & Defense Systems: Building Strong Network Protection | Ndu | [Read More](https://medium.com/p/0da1a8ebc9fe) |
-| Sat, 28 Mar 2026 19:11:30 GMT | Understanding Network Security Threats & Attacks: How Systems Get Compromised | Ndu | [Read More](https://medium.com/p/66843b874ced) |
-| Sat, 28 Mar 2026 19:10:01 GMT | I Taught Microsoft Sentinel to Stop Cryptojacking Attacks Automatically | Camilla Santoro | [Read More](https://medium.com/p/14b821c0e155) |
