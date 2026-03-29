@@ -12,7 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 06:37:27 GMT | If You’re Starting Cyber Security, Start With These 5 Tools | MilanGiri Gosai | [Read More](https://medium.com/p/10e12f8df7be) |
+| Sun, 29 Mar 2026 06:36:51 GMT | How I Made $1,200 by Finding a Hidden XSS in a “Secure” Web App (Full Walkthrough) | Sukhveer Singh | [Read More](https://medium.com/p/77fa787d06b2) |
+| Sun, 29 Mar 2026 06:33:55 GMT | The Confused Deputy: How a Linux Security Tool Was Weaponized to Grant Root Access | Aaron | [Read More](https://medium.com/p/b658a6175322) |
+| Sun, 29 Mar 2026 06:31:00 GMT | How Do Hackers Break Into your account: Credential Stuffing and Password spraying | Sanista Ramphal | [Read More](https://medium.com/p/47686cfaa84a) |
+| Sun, 29 Mar 2026 06:30:57 GMT | SIM Swap Attacks: Don’t Let Hackers Steal Your Phone Number | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/4198c86e6f74) |
+| Sun, 29 Mar 2026 06:26:48 GMT | The Linux Concept Journey — Extended File Attributes (xattr) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/179daa4f1b92) |
+| Sun, 29 Mar 2026 06:26:00 GMT | Nobody Told It To.
+It Just Figured Out
+That Compute Is Valuable | Senaaravichandran A | [Read More](https://medium.com/p/7f93f6478bf9) |
+| Sun, 29 Mar 2026 06:18:46 GMT | How to Become an OSINT Investigator (2026 Guide): Skills, Salary, Career Path & Future Scope | EINITIAL24 | [Read More](https://medium.com/p/1c3b266413d5) |
+| Sun, 29 Mar 2026 06:13:46 GMT | What Is XSS (Cross-Site Scripting)? A Beginner-Friendly Guide for Developers & Hackers | Bugitrix | [Read More](https://medium.com/p/934e65e3b9c1) |
+| Sun, 29 Mar 2026 06:09:24 GMT | Zero Trust Security: What It Means for Developers | Mubashir | [Read More](https://medium.com/p/505070c81794) |
+| Sun, 29 Mar 2026 06:02:18 GMT | The Most Dangerous Bugs Don’t Throw Errors | Prem Chandak | [Read More](https://medium.com/p/72933646a802) |
+| Sun, 29 Mar 2026 05:56:00 GMT | Hackers Stole 350 GB of European Commission Data | Patrik Žák | [Read More](https://medium.com/p/228ebc9da0fb) |
+| Sun, 29 Mar 2026 05:42:21 GMT | The Difference Between Displacement and Destruction | Vijay Kumar Gupta | [Read More](https://medium.com/p/7533b687c094) |
+| Sun, 29 Mar 2026 05:40:33 GMT | The Role of Firewalls in Modern Web Applications | Mubashir | [Read More](https://medium.com/p/31c4d6705161) |
+| Sun, 29 Mar 2026 05:37:12 GMT | The Showmanship of Realness | Eleni Stephanides | [Read More](https://medium.com/p/d1eeb7837af0) |
+| Sun, 29 Mar 2026 05:37:11 GMT | What is the Best Way to Securely Backup 20TB of Data? | Louis OConnor | [Read More](https://medium.com/p/1b162d4785fc) |
+| Sun, 29 Mar 2026 05:27:24 GMT | Browsed Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/a8a9b7021d0d) |
+| Sun, 29 Mar 2026 05:27:08 GMT | Race Condition in Comments: Last Vote Matters | Vignesh | [Read More](https://medium.com/p/2d10edf382cc) |
+| Sun, 29 Mar 2026 05:24:06 GMT | Dark Web Hunting & Monitoring: A Practical Guide for Pentesters & Red Teamers — Part 1 | Siva Sankar | [Read More](https://medium.com/p/b958abcdb4fe) |
+| Sun, 29 Mar 2026 05:17:58 GMT | Badge Cloned in Seconds: The Ongoing Failure of RFID Access Control | Travis Ray Caverhill | [Read More](https://medium.com/p/9f095c86031d) |
+| Sun, 29 Mar 2026 05:15:54 GMT | The 23 Open Doors: The “Digital Disaster” | Kiconco Precious Kellen | [Read More](https://medium.com/p/a586ca85fdc4) |
 | Sun, 29 Mar 2026 05:06:37 GMT | Static analysis of JS file | Nitya Singh | [Read More](https://medium.com/p/32b25ab7bba3) |
+| Sun, 29 Mar 2026 05:04:26 GMT | How to protect a Pega REST API through network security, authentication and authorisation? | Sandeep Pamidamarri | [Read More](https://medium.com/p/1711e2f15a71) |
 | Sun, 29 Mar 2026 04:53:18 GMT | Edge Wallet-এ $NYM ইন্টিগ্রেশন: প্রাইভেসি-ফার্স্ট ক্রিপ্টো ব্যবহারে নতুন অধ্যায় | Rabib Bin Nur | [Read More](https://medium.com/p/4b7202c8e23e) |
 | Sun, 29 Mar 2026 04:50:31 GMT | Breaking Authentication: Exploiting Session Management Like a Hacker | Devansh Patel | [Read More](https://medium.com/p/d7b7cd3473a9) |
 | Sun, 29 Mar 2026 04:48:11 GMT | How We Made Webhooks Boring in Production | Mary Olowu | [Read More](https://medium.com/p/e03f6d10eb00) |
@@ -90,25 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 19:11:54 GMT | Security Tools & Defense Systems: Building Strong Network Protection | Ndu | [Read More](https://medium.com/p/0da1a8ebc9fe) |
 | Sat, 28 Mar 2026 19:11:30 GMT | Understanding Network Security Threats & Attacks: How Systems Get Compromised | Ndu | [Read More](https://medium.com/p/66843b874ced) |
 | Sat, 28 Mar 2026 19:10:01 GMT | I Taught Microsoft Sentinel to Stop Cryptojacking Attacks Automatically | Camilla Santoro | [Read More](https://medium.com/p/14b821c0e155) |
-| Sat, 28 Mar 2026 18:57:52 GMT | Why I Choosed Medium; My First Story | Aftab Writes | [Read More](https://medium.com/p/af70fd1d0c37) |
-| Sat, 28 Mar 2026 18:56:00 GMT | EU GDPR — Article 37 (Designation of the Data Protection Officer (DPO)) | MDM Team | [Read More](https://medium.com/p/8f6753827d0c) |
-| Sat, 28 Mar 2026 18:53:58 GMT | From $500 to $1,500 Email Verification Bypass: Impact Chaining | tinopreter | [Read More](https://medium.com/p/3efd55b24f23) |
-| Sat, 28 Mar 2026 18:47:53 GMT | How I Built an AI Agent to Generate Portfolio Projects and Draft Medium Articles | Victoria | [Read More](https://medium.com/p/582bb22feef1) |
-| Sat, 28 Mar 2026 18:38:23 GMT | Evil-GPT Walkthrough | Sachin Borse | [Read More](https://medium.com/p/6a551f2c952a) |
-| Sat, 28 Mar 2026 18:31:00 GMT | Why Blue Team Field Manual (BTFM) Should Be Required Reading for Cybersecurity Defenders | Stefan Bargan | [Read More](https://medium.com/p/88995a802749) |
-| Sat, 28 Mar 2026 18:29:26 GMT | Proxmox Port Mirroring: How to Send SPAN Traffic to a Suricata IDS VM Using Open vSwitch | David | [Read More](https://medium.com/p/dab7309f52e0) |
-| Sat, 28 Mar 2026 18:27:03 GMT | How Nuclei and Interactsh Work Together for Out-of-Band Vulnerability Testing: A Technical Deep… | Pulkit Mital | [Read More](https://medium.com/p/0d3c3939800f) |
-| Sat, 28 Mar 2026 18:21:59 GMT | Why Most Companies Fail at Cyber Defense | Shahzaib | [Read More](https://medium.com/p/76533e5eaa4a) |
-| Sat, 28 Mar 2026 18:21:44 GMT | CCTV - HTB - OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/1d146c687a48) |
-| Sat, 28 Mar 2026 18:18:30 GMT | I Built an AI Security Agent That Hunts Vulnerabilities Across Your Entire Microservices Org, Not… | Roshan | [Read More](https://medium.com/p/ba689e91d329) |
-| Sat, 28 Mar 2026 18:16:40 GMT | What Your Custody Insurance Carrier Can’t Verify | Heartlin Machado | [Read More](https://medium.com/p/f5788c2b66d6) |
-| Sat, 28 Mar 2026 18:12:35 GMT | You Can Find This Bug in ANY Website (How I Changed P5 to P1 Using Chain Vulnerability) | Tamilselvan A K | [Read More](https://medium.com/p/87f08fab35fa) |
-| Sat, 28 Mar 2026 18:11:43 GMT | Detecting Web Attacks: Common Client-Side attacks and How to detect them. | Ahmad Khaled | [Read More](https://medium.com/p/b77459df1527) |
-| Sat, 28 Mar 2026 18:01:40 GMT | 10x Smaller, 100x Safer: Building Secure & Compressed Microservices in Symfony | Matt Mochalkin | [Read More](https://medium.com/p/f63739a6c906) |
-| Sat, 28 Mar 2026 18:01:02 GMT | TLS Trafik Analizi | Hamid Aslanov | [Read More](https://medium.com/p/96320928e133) |
-| Sat, 28 Mar 2026 17:51:21 GMT | OverTheWire — Natas Walkthrough(0–10) | 0x77 | [Read More](https://medium.com/p/c9af82278654) |
-| Sat, 28 Mar 2026 17:38:25 GMT | The Tool That Was Supposed to Protect You | Mateen Anjum | [Read More](https://medium.com/p/23eabdc23cdb) |
-| Sat, 28 Mar 2026 17:37:54 GMT | Hackers, Spies, and Digital Ghosts: 14 Cybersecurity Documentaries You’ve Got to Watch | Namrata Dandgawal | [Read More](https://medium.com/p/e7af99f79278) |
-| Sat, 28 Mar 2026 17:35:22 GMT | How to Handle Sensitive Data Securely in Terraform | Winjoyntinyari | [Read More](https://medium.com/p/c2caf09d0fe8) |
-| Sat, 28 Mar 2026 17:24:05 GMT | Network Security: A Comprehensive Walkthrough of the NetSec Try Hack Me Challenge | Mohamed Elshamsi | [Read More](https://medium.com/p/6128b74651fd) |
-| Sat, 28 Mar 2026 17:09:27 GMT | The Email You Never Sent: Inside a Clever Email Bounce Attack | Clay Jones | [Read More](https://medium.com/p/9d79024bb502) |
