@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 18:43:16 GMT | Detecting a Brute-Force Attack Using SSH Logs | Oyindamola Oladele | [Read More](https://medium.com/p/9e4b382394fb) |
+| Sun, 29 Mar 2026 18:43:14 GMT | AI Only Writes the "Happy Path": Why Defensive Programming is Making a Comeback | Andrew Chadwick | [Read More](https://medium.com/p/5a0dad01b210) |
+| Sun, 29 Mar 2026 18:24:50 GMT | Detection Engineering (Part 2 of 3) | Andrew Blooman | [Read More](https://medium.com/p/15e3de846935) |
+| Sun, 29 Mar 2026 18:21:27 GMT | Databricks LakeWatch is not all as it SIEMs | Hugo Lu | [Read More](https://medium.com/p/d99066ddfc77) |
+| Sun, 29 Mar 2026 18:18:25 GMT | How DNS Works? | Rehimovmahmud | [Read More](https://medium.com/p/04f70c240d27) |
+| Sun, 29 Mar 2026 18:16:56 GMT | Let’s Defend SOC 137 Lab: Responding to a Malicious File Alert with SIEM | mubarak abdulganiy | [Read More](https://medium.com/p/f7a68fef024f) |
+| Sun, 29 Mar 2026 18:16:27 GMT | My OSINT Journey Solving the OhSINT Challenge on TryHackMe | Engosa | [Read More](https://medium.com/p/050d02cfa177) |
+| Sun, 29 Mar 2026 18:13:38 GMT | SSRF to Admin Access: When a “Harmless URL” Took Me Straight to the Kingdom | Iski | [Read More](https://medium.com/p/000815d0725d) |
+| Sun, 29 Mar 2026 18:09:03 GMT | Where Happiness Feels Like a Warning ⚠️ | ziyoo  ݁ ˖ ── .✦ | [Read More](https://medium.com/p/098bd4c56970) |
+| Sun, 29 Mar 2026 17:57:47 GMT | I’m excited to officially begin my journey here on Medium. | David Chimburuoma Odum | [Read More](https://medium.com/p/e002af1c5448) |
+| Sun, 29 Mar 2026 17:57:24 GMT | Static Analysis on Windows | Huzaifah Tahir | [Read More](https://medium.com/p/94a24fb214f0) |
+| Sun, 29 Mar 2026 17:54:55 GMT | Red Teaming vs. Blue Teaming: The Ultimate Guide to Cybersecurity’s Main Event | Ishant | [Read More](https://medium.com/p/67e6d9c194a5) |
+| Sun, 29 Mar 2026 17:44:11 GMT | The Biggest Myth in Travel: Why “Incognito Mode” Won’t Save You Money | Bharatfare | [Read More](https://medium.com/p/d986a6fc2e80) |
+| Sun, 29 Mar 2026 17:37:14 GMT | Filters in ASP.NET Core (.NET) — Complete Deep Dive | Bishesh Dhiman | [Read More](https://medium.com/p/b3fd88827132) |
 | Sun, 29 Mar 2026 17:25:13 GMT | Building a Cloud‑Hosted Honeypot with T‑Pot on Microsoft Azure: A Hands‑On Cybersecurity Project | Abhishek Vaidya | [Read More](https://medium.com/p/8af5fd57ed4a) |
 | Sun, 29 Mar 2026 17:22:30 GMT | Responsible AI isn’t slowing you down. The absence of it is.. | Akanksha Masurkar | [Read More](https://medium.com/p/13f079bfea82) |
 | Sun, 29 Mar 2026 17:22:01 GMT | From Packets to Payloads: My Week Inside the Cyber security Lab | Nalinda Precious Grace | [Read More](https://medium.com/p/1042b563da97) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 11:48:49 GMT | Critical ($100k) bug that could allow an attacker to drain the entire pool in under an Hour | 0 day exploit | [Read More](https://medium.com/p/962b7e4e2ba4) |
 | Sun, 29 Mar 2026 11:39:41 GMT | The Space Between You and the Reader Is Where the Writing Lives | Seven Cubed Seven Labs | [Read More](https://medium.com/p/b7e10d11f50e) |
 | Sun, 29 Mar 2026 11:37:55 GMT | Threat Intel & Containment - TryHackMe Answers | Ryca | [Read More](https://medium.com/p/93df37dd1a9c) |
-| Sun, 29 Mar 2026 11:28:44 GMT | How I Built My First Network Vulnerability Scanner | saloni chaurasiya | [Read More](https://medium.com/p/463443aaa8fd) |
-| Sun, 29 Mar 2026 11:24:07 GMT | What Nobody Tells You About Software Development | Kamarunga Tabitha Judith | [Read More](https://medium.com/p/bdaa784c4bdf) |
-| Sun, 29 Mar 2026 11:16:54 GMT | I Started Taking Security Seriously This Year. These 7 Open Source Tools Actually Helped. | Raviteja Nekkalapu | [Read More](https://medium.com/p/6ae2dbb51d69) |
-| Sun, 29 Mar 2026 11:11:31 GMT | Bypass Disable Functions PHP REV(THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/f31e237ed815) |
-| Sun, 29 Mar 2026 11:11:21 GMT | Secrets Management: How Senior Engineers Protect Credentials in Production | Akum Blaise Acha | [Read More](https://medium.com/p/7a5eef963f44) |
-| Sun, 29 Mar 2026 11:05:53 GMT | Building Agents for Pentesting using LangGraph | 0r | [Read More](https://medium.com/p/0cf0b96de779) |
-| Sun, 29 Mar 2026 11:05:22 GMT | Brute Forcing SMTP Authentication: A Technical Analysis | Dulitha Wickramasinghe | [Read More](https://medium.com/p/0e19a42a786b) |
-| Sun, 29 Mar 2026 11:01:28 GMT | Exploring ZoreonX: Innovations in the Crypto Tech Landscape, Specifically DePin | Oviela | [Read More](https://medium.com/p/94ea0a626d18) |
-| Sun, 29 Mar 2026 11:00:29 GMT | You Can’t Protect What You Don’t See — Part1 of Series | Man Of Truth | [Read More](https://medium.com/p/6031dd26d3d9) |
-| Sun, 29 Mar 2026 10:49:44 GMT | Enhancing Network Visibility with Pi-hole: Beyond Traditional Firewalls | Araibirfan | [Read More](https://medium.com/p/0445d4ee198e) |
-| Sun, 29 Mar 2026 10:42:29 GMT | PSFuzz: Rethinking Web Fuzzing in the Age of AI | Proviesec | [Read More](https://medium.com/p/9fe0c2df0952) |
-| Sun, 29 Mar 2026 10:38:21 GMT | How to Write SEO-Friendly Content | Anwesha Bhattacharya | [Read More](https://medium.com/p/5c3cbe4a782d) |
-| Sun, 29 Mar 2026 10:24:54 GMT | Suspicious PowerShell Execution — Full Incident Report | Bishu Biswas | [Read More](https://medium.com/p/ff37af26cb6b) |
-| Sun, 29 Mar 2026 10:24:29 GMT | The Entropy Squeeze: Mapping 256-bit Cryptographic Hashes to 8-Digit OTPs | 周伟 | [Read More](https://medium.com/p/cc6a407c037a) |
