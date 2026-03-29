@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 23:27:36 GMT | Pro Bono Cybersecurity for Pre-Seed Startups | Taulan Zauzanov | [Read More](https://medium.com/p/732c1f863831) |
+| Sun, 29 Mar 2026 23:05:32 GMT | Dev Day with Sam: Episode 1: The Beginning of Something Big | Nsirim Samuel Eberechi | [Read More](https://medium.com/p/7598b860f4fc) |
+| Sun, 29 Mar 2026 23:01:01 GMT | LetsDefend: AI-Powered Ransomware Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/2ff9dc95801b) |
+| Sun, 29 Mar 2026 23:00:29 GMT | AI Governance Is Broken. The Real Problem Is Execution | Dan Evans | [Read More](https://medium.com/p/1a77757c0801) |
+| Sun, 29 Mar 2026 22:52:54 GMT | Season - Luxor Finals CTF | 00xCanelo | [Read More](https://medium.com/p/602d1a64da4b) |
+| Sun, 29 Mar 2026 22:51:49 GMT | The Intern Who Read the Layoff List: Why Your RAG Stack is a Security Liability | Aashish Ravi | [Read More](https://medium.com/p/2db897be050d) |
+| Sun, 29 Mar 2026 22:41:14 GMT | WebGuard for Next.js: The Best Security Tool to Protect Your App (FireAPI) | FireAPI.io | [Read More](https://medium.com/p/dbcfe758ed11) |
+| Sun, 29 Mar 2026 22:27:03 GMT | Cyber Trolling on Substack | Cappelli, MFA, JD, PhD | [Read More](https://medium.com/p/bd42a0377903) |
 | Sun, 29 Mar 2026 22:26:56 GMT | Third-Party SDK Supply Chain Risk - The Security Vulnerability You Imported Without Knowing | Rufus Kehinde | [Read More](https://medium.com/p/b8ca571e4093) |
 | Sun, 29 Mar 2026 22:20:39 GMT | I Got Tired of Gmail’s Fake Encryption — So I Built My Own | Alain Picard | [Read More](https://medium.com/p/91fe32fc0687) |
 | Sun, 29 Mar 2026 22:14:42 GMT | Jacko windowsWalkthrough (Proving Ground -OSCP) | cyber_public_school | [Read More](https://medium.com/p/b944aa5a20eb) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 15:50:15 GMT | AI Has a Dirty Secret, And It’s About to Become Your Problem Too | Er.Muruganantham | [Read More](https://medium.com/p/b6e8382f743f) |
 | Sun, 29 Mar 2026 15:49:40 GMT | CTF day 02- PicoCTF Login Bypass (Cookie Tampering) | Adithya Hettiarachchi | [Read More](https://medium.com/p/d8b00753f35c) |
 | Sun, 29 Mar 2026 15:47:43 GMT | Fresh Paint, Deep Roots. | Irene Basaglia | [Read More](https://medium.com/p/869408041522) |
-| Sun, 29 Mar 2026 15:47:27 GMT | Nigeria’s Secret Police Has a Secret Problem — It Doesn’t Actually Do Intelligence | Damilare Isese-Daniels | [Read More](https://medium.com/p/c47bb591927a) |
-| Sun, 29 Mar 2026 15:29:30 GMT | Check which shared folders a user has relevant permissions on, and remove those permissions | Excalibra | [Read More](https://medium.com/p/eaea13c8a7f7) |
-| Sun, 29 Mar 2026 15:23:34 GMT | SİBER GÜVENLİK DÜNYASINDA YANLIŞ BİLİNENLER | Sakarya Üniversitesi Siber Güvenlik Topluluğu | [Read More](https://medium.com/p/282da207f265) |
-| Sun, 29 Mar 2026 15:21:24 GMT | Plant Photographer — TryHackMe Writeup | Amimerayoub | [Read More](https://medium.com/p/b15182370af5) |
-| Sun, 29 Mar 2026 15:17:37 GMT | Why Cybersecurity Renewals is Broken — and How to Fix It | thatsampoh | [Read More](https://medium.com/p/a9e72cb73461) |
-| Sun, 29 Mar 2026 15:13:52 GMT | How Russia’s Dual-Use Cyber Infrastructure Fuels a Destructive Shadow War | SIMKRA | [Read More](https://medium.com/p/7acbbeaa2dc2) |
-| Sun, 29 Mar 2026 15:13:29 GMT | Why Post-training quizzes Improve Information Retention | Suj | [Read More](https://medium.com/p/27b2d7e8152e) |
-| Sun, 29 Mar 2026 15:12:03 GMT | Anthropic’s Claude Mythos Leak: Why This Secret AI Model Changes Cybersecurity, AI Safety, and… | TONI RAMCHANDANI | [Read More](https://medium.com/p/3009e475facb) |
