@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 05:06:37 GMT | Static analysis of JS file | Nitya Singh | [Read More](https://medium.com/p/32b25ab7bba3) |
+| Sun, 29 Mar 2026 04:53:18 GMT | Edge Wallet-এ $NYM ইন্টিগ্রেশন: প্রাইভেসি-ফার্স্ট ক্রিপ্টো ব্যবহারে নতুন অধ্যায় | Rabib Bin Nur | [Read More](https://medium.com/p/4b7202c8e23e) |
+| Sun, 29 Mar 2026 04:50:31 GMT | Breaking Authentication: Exploiting Session Management Like a Hacker | Devansh Patel | [Read More](https://medium.com/p/d7b7cd3473a9) |
+| Sun, 29 Mar 2026 04:48:11 GMT | How We Made Webhooks Boring in Production | Mary Olowu | [Read More](https://medium.com/p/e03f6d10eb00) |
+| Sun, 29 Mar 2026 04:37:05 GMT | From Static Findings to Working Exploits: Runtime Testing of MCP Servers | Agentseal | [Read More](https://medium.com/p/8783572d45e7) |
+| Sun, 29 Mar 2026 04:35:47 GMT | I locked unlimited subdomains on a SaaS platform without even finishing registration — and the… | BugWraith (Lokesh) | [Read More](https://medium.com/p/4b5fb24ebd5d) |
+| Sun, 29 Mar 2026 04:31:28 GMT | Part 3: Smarter Input Funnel — Who Decides What Needs an AppSec Review? | Aparna Ash Himmatramka | [Read More](https://medium.com/p/ce9abee342b1) |
+| Sun, 29 Mar 2026 04:14:41 GMT | FristiLeaks 1.3 — VulnHub Writeup | Abacusready | [Read More](https://medium.com/p/6d1d114d285d) |
+| Sun, 29 Mar 2026 04:05:29 GMT | How Changing 401 to 200 Lead to Full Account Takeover | KhaledAhmed107 | [Read More](https://medium.com/p/f264fdc51044) |
+| Sun, 29 Mar 2026 03:33:01 GMT | How DNS Rebinding Turns SSRF Into a Cloud Takeover | Muhammad Zeeshan | [Read More](https://medium.com/p/c14015d17468) |
+| Sun, 29 Mar 2026 03:31:00 GMT | JWT vs PASETO: Why Developers Are Moving Beyond JSON Web Tokens | Jenil Sojitra | [Read More](https://medium.com/p/ffa448934d5c) |
+| Sun, 29 Mar 2026 03:28:49 GMT | How the FBI Director Became a Cyber Trophy | Travis Ray Caverhill | [Read More](https://medium.com/p/3e0b3df49fcf) |
+| Sun, 29 Mar 2026 03:25:34 GMT | $100 Bounty Unauthenticated Varnish Cache Purge | Muhammad Zeeshan | [Read More](https://medium.com/p/14e007399870) |
+| Sun, 29 Mar 2026 03:23:57 GMT | Shodan for Beginners — How Hackers Find Exposed Devices (Beginner Guide) | Riya Limba | [Read More](https://medium.com/p/1dba687340e5) |
+| Sun, 29 Mar 2026 03:13:08 GMT | Web Application Penetration Testing: A Complete Guide for Developers and Founders | Kuboid Secure Layer | [Read More](https://medium.com/p/9e48b2004ed4) |
+| Sun, 29 Mar 2026 02:42:09 GMT | Top 5 Free Tools Every SOC Analyst Must Know (And Actually Use) | Paritosh | [Read More](https://medium.com/p/f0fb89e5233b) |
 | Sun, 29 Mar 2026 02:15:05 GMT | Normalisation of Deviation | Andy Macready | [Read More](https://medium.com/p/398c2ac83d22) |
 | Sun, 29 Mar 2026 02:10:48 GMT | Your AI Agent Isn’t as Secure as You Think It Is | Ozgur | [Read More](https://medium.com/p/6b42c569d2b7) |
 | Sun, 29 Mar 2026 01:56:18 GMT | Case Study: The PikaBot Infection Chain | Niharika Umrani | [Read More](https://medium.com/p/8a5411be5025) |
@@ -27,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 00:45:48 GMT | The Invariance Medium: A Non-Derived Condition in AI Systems | Supat Charoensappuech | [Read More](https://medium.com/p/ae526ff879f3) |
 | Sun, 29 Mar 2026 00:36:29 GMT | Modifying the Assembly of Binaries and Shellcode for Evasion | lainkusanagi | [Read More](https://medium.com/p/687874c5eb00) |
 | Sun, 29 Mar 2026 00:31:29 GMT | No FA — picoCTF 2026 | Ayman Hany | [Read More](https://medium.com/p/05853d5593bb) |
+| Sun, 29 Mar 2026 00:00:25 GMT | Your Photos Leak Your Address. Here’s How to Stop It. | Blackout VPN | [Read More](https://medium.com/p/efcdf4c504b0) |
 | Sat, 28 Mar 2026 23:37:53 GMT | Arbitrary Process Termination via Vulnerable Driver: BYOVD Advanced Nim Edition with Full In-Memory… | Mr_MalMan | [Read More](https://medium.com/p/9ac0a4139a5c) |
 | Sat, 28 Mar 2026 23:32:30 GMT | Ottergram (XSS) Bugforge (Live Stream) | 7s26Simon | [Read More](https://medium.com/p/7983f06fdb6c) |
 | Sat, 28 Mar 2026 23:31:51 GMT | C2 Agent Communication: Explaining How My Agents Work | Tyreek Haynes | [Read More](https://medium.com/p/0c9168152139) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 17:35:22 GMT | How to Handle Sensitive Data Securely in Terraform | Winjoyntinyari | [Read More](https://medium.com/p/c2caf09d0fe8) |
 | Sat, 28 Mar 2026 17:24:05 GMT | Network Security: A Comprehensive Walkthrough of the NetSec Try Hack Me Challenge | Mohamed Elshamsi | [Read More](https://medium.com/p/6128b74651fd) |
 | Sat, 28 Mar 2026 17:09:27 GMT | The Email You Never Sent: Inside a Clever Email Bounce Attack | Clay Jones | [Read More](https://medium.com/p/9d79024bb502) |
-| Sat, 28 Mar 2026 17:08:35 GMT | Introduction to Network Analysis — Security Blue Team | Yrddry | [Read More](https://medium.com/p/0e52aaa5f501) |
-| Sat, 28 Mar 2026 17:06:28 GMT | Building the Blueprint: Why ‘Secure by Design’ is the Future of Tech | Hikmat Mammadov | [Read More](https://medium.com/p/f15b7926de5c) |
-| Sat, 28 Mar 2026 17:04:27 GMT | The Lie We Tell Ourselves in the Age of AI | Donnie Gibbs | [Read More](https://medium.com/p/7c8235120b54) |
-| Sat, 28 Mar 2026 17:03:40 GMT | Sysmon — TryHackMe Writeup | Hitesh kumar | [Read More](https://medium.com/p/a60335dd1c69) |
-| Sat, 28 Mar 2026 17:01:01 GMT | The Bug That Slipped: Stale Balance Accounting in YieldBasis (Sherlock Contest) | Talfao | [Read More](https://medium.com/p/ea98a2806346) |
-| Sat, 28 Mar 2026 17:01:01 GMT | gRPC-Go Critical Auth Bypass: How a Missing Slash Broke Your Security (CVE-2026–33186) | Wesley Wei | [Read More](https://medium.com/p/463c428e3572) |
-| Sat, 28 Mar 2026 17:00:10 GMT | Threat Intelligence Tools: A Hands-On TryHackMe Walkthrough | Seid kahsay | [Read More](https://medium.com/p/5944df256a9c) |
-| Sat, 28 Mar 2026 16:58:32 GMT | THM — SNORT Room | Pranav kumar | [Read More](https://medium.com/p/444d98722bbf) |
-| Sat, 28 Mar 2026 16:55:19 GMT | Dividing the Power: Why Separation of Duties is Your Ultimate Safety Net | Hikmat Mammadov | [Read More](https://medium.com/p/5b27f57a8357) |
-| Sat, 28 Mar 2026 16:52:57 GMT | The Book Of Kali: Basics | Seccult | [Read More](https://medium.com/p/a2e83d7d8f58) |
-| Sat, 28 Mar 2026 16:46:30 GMT | Proof of Life: The New Ritual of Proving You’re Human | Joanne Griffin | [Read More](https://medium.com/p/cc824524dd5d) |
-| Sat, 28 Mar 2026 16:42:20 GMT | A Yawning Conjecture | Niktism | [Read More](https://medium.com/p/a7bf5a208532) |
-| Sat, 28 Mar 2026 16:39:46 GMT | How Linux Boot Access Can Become a Backdoor | Arcy | [Read More](https://medium.com/p/da933cb3b683) |
-| Sat, 28 Mar 2026 16:36:04 GMT | Secure API Development Techniques for Vibe Coders | Terry Power | [Read More](https://medium.com/p/48bd8134d49a) |
-| Sat, 28 Mar 2026 16:34:23 GMT | The Human Firewall: Why People Are the Weakest Link in Cybersecurity | Asymmetric | [Read More](https://medium.com/p/8609510c958e) |
-| Sat, 28 Mar 2026 16:30:59 GMT | HackTheBox: Kobold | Adhilbinmujeeb | [Read More](https://medium.com/p/03e7bc1ec32e) |
-| Sat, 28 Mar 2026 16:27:33 GMT | Finding Security in God's Grip | SoulfulPaces | [Read More](https://medium.com/p/8f3b6cc6e396) |
