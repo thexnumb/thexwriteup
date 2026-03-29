@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 02:15:05 GMT | Normalisation of Deviation | Andy Macready | [Read More](https://medium.com/p/398c2ac83d22) |
+| Sun, 29 Mar 2026 02:10:48 GMT | Your AI Agent Isn’t as Secure as You Think It Is | Ozgur | [Read More](https://medium.com/p/6b42c569d2b7) |
+| Sun, 29 Mar 2026 01:56:18 GMT | Case Study: The PikaBot Infection Chain | Niharika Umrani | [Read More](https://medium.com/p/8a5411be5025) |
+| Sun, 29 Mar 2026 01:46:12 GMT | How to Actually Get a Help Desk Job in 2026 | Jbird | [Read More](https://medium.com/p/48390f6257d9) |
+| Sun, 29 Mar 2026 01:44:50 GMT | What I Learned Building and Running a Platform Protection Program From the Ground Up | Gayatri Nakar | [Read More](https://medium.com/p/005206d6926e) |
+| Sun, 29 Mar 2026 01:39:46 GMT | DevSecOps: Modern Yazılım Geliştirmede Güvenliği Otomatikleştirmek | Yiğit Ataman | [Read More](https://medium.com/p/f2de9222ffdf) |
+| Sun, 29 Mar 2026 01:33:52 GMT | Hosting my next Honeypot on Ubuntu Server | Satyam Pathania | [Read More](https://medium.com/p/6958112c2013) |
+| Sun, 29 Mar 2026 01:32:53 GMT | Four Beginner Web Hacking Vulnerabilities You Need to Learn in 2026 | Shahzaib | [Read More](https://medium.com/p/f26ff8d49c95) |
+| Sun, 29 Mar 2026 01:31:11 GMT | How Primotech is Transforming Businesses as an AI Development Company in India | Primotech | [Read More](https://medium.com/p/e8869eae8a85) |
+| Sun, 29 Mar 2026 01:22:21 GMT | 5 Tool To Build Now in AI Era | MainEkHacker | [Read More](https://medium.com/p/f0a6d1806839) |
+| Sun, 29 Mar 2026 01:01:00 GMT | [The Hangover] Existential Debugging Manual for the Hyper-Logged Era | MonoEssay | [Read More](https://medium.com/p/54994d14d99b) |
+| Sun, 29 Mar 2026 00:57:08 GMT | Making Cowrie Honeypots More Believable | Daniel | [Read More](https://medium.com/p/7c88bab853c1) |
+| Sun, 29 Mar 2026 00:45:48 GMT | The Invariance Medium: A Non-Derived Condition in AI Systems | Supat Charoensappuech | [Read More](https://medium.com/p/ae526ff879f3) |
+| Sun, 29 Mar 2026 00:36:29 GMT | Modifying the Assembly of Binaries and Shellcode for Evasion | lainkusanagi | [Read More](https://medium.com/p/687874c5eb00) |
+| Sun, 29 Mar 2026 00:31:29 GMT | No FA — picoCTF 2026 | Ayman Hany | [Read More](https://medium.com/p/05853d5593bb) |
+| Sat, 28 Mar 2026 23:37:53 GMT | Arbitrary Process Termination via Vulnerable Driver: BYOVD Advanced Nim Edition with Full In-Memory… | Mr_MalMan | [Read More](https://medium.com/p/9ac0a4139a5c) |
+| Sat, 28 Mar 2026 23:32:30 GMT | Ottergram (XSS) Bugforge (Live Stream) | 7s26Simon | [Read More](https://medium.com/p/7983f06fdb6c) |
+| Sat, 28 Mar 2026 23:31:51 GMT | C2 Agent Communication: Explaining How My Agents Work | Tyreek Haynes | [Read More](https://medium.com/p/0c9168152139) |
 | Sat, 28 Mar 2026 23:07:56 GMT | PortSwigger Lab Write-up: Bypassing Brute-Force Protection via JSON Arrays | GhostX_101 | [Read More](https://medium.com/p/e23b1dc4abee) |
 | Sat, 28 Mar 2026 23:06:00 GMT | Why “Free” Online Tools Are Costing You More Than You Realize | Mark | [Read More](https://medium.com/p/28ec7f6add7e) |
 | Sat, 28 Mar 2026 23:05:48 GMT | Inside njRAT: A Static Analysis of One of the Most Persistent RATs in the Wild | Khush Pachani | [Read More](https://medium.com/p/79793eebeb7c) |
@@ -90,25 +108,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Mar 2026 16:46:30 GMT | Proof of Life: The New Ritual of Proving You’re Human | Joanne Griffin | [Read More](https://medium.com/p/cc824524dd5d) |
 | Sat, 28 Mar 2026 16:42:20 GMT | A Yawning Conjecture | Niktism | [Read More](https://medium.com/p/a7bf5a208532) |
 | Sat, 28 Mar 2026 16:39:46 GMT | How Linux Boot Access Can Become a Backdoor | Arcy | [Read More](https://medium.com/p/da933cb3b683) |
+| Sat, 28 Mar 2026 16:36:04 GMT | Secure API Development Techniques for Vibe Coders | Terry Power | [Read More](https://medium.com/p/48bd8134d49a) |
 | Sat, 28 Mar 2026 16:34:23 GMT | The Human Firewall: Why People Are the Weakest Link in Cybersecurity | Asymmetric | [Read More](https://medium.com/p/8609510c958e) |
 | Sat, 28 Mar 2026 16:30:59 GMT | HackTheBox: Kobold | Adhilbinmujeeb | [Read More](https://medium.com/p/03e7bc1ec32e) |
 | Sat, 28 Mar 2026 16:27:33 GMT | Finding Security in God's Grip | SoulfulPaces | [Read More](https://medium.com/p/8f3b6cc6e396) |
-| Sat, 28 Mar 2026 16:12:11 GMT | The Most Annoying Part of Android APK Workflow — And How I Fixed It | Dmitry Yarygin | [Read More](https://medium.com/p/757a0799287a) |
-| Sat, 28 Mar 2026 16:10:39 GMT | Unpacking the New White House App | Learn With Hatty | [Read More](https://medium.com/p/0bdcf8e36f75) |
-| Sat, 28 Mar 2026 16:08:41 GMT | Finding an IDOR in User Profile API: A $15,000 Journey to Critical | Krishna Kumar | [Read More](https://medium.com/p/0f05e583c00b) |
-| Sat, 28 Mar 2026 16:06:47 GMT | Dynamic SSL Pinning: Server Architecture, Signed Key Registry, and Full Deployment | Denis | [Read More](https://medium.com/p/e7405528d9d2) |
-| Sat, 28 Mar 2026 16:00:09 GMT | GPU Dedicated Server Security: A Practical Checklist for DevOps and ML Engineers | Emilyharbord | [Read More](https://medium.com/p/74822e5086f8) |
-| Sat, 28 Mar 2026 15:59:03 GMT | $10,000 Bug Bounty: How a Malicious USB Drive Can Jailbreak PlayStation | Monika sharma | [Read More](https://medium.com/p/8fe7acc68ac7) |
-| Sat, 28 Mar 2026 15:56:05 GMT | CVE-2026–0766: Remote Code Execution in OpenWebUI | Pradeep Pillai | [Read More](https://medium.com/p/e1fc7a45ded8) |
-| Sat, 28 Mar 2026 15:52:58 GMT | Introduction to Hacking, Virtual Machines, Linux, and Networking | Joana Maria Biju | [Read More](https://medium.com/p/63928d5bf122) |
-| Sat, 28 Mar 2026 15:42:42 GMT | What is JWT? How is a Token Created Internally — Built Manually with Python. | Mangal_dev | [Read More](https://medium.com/p/fc05e6401069) |
-| Sat, 28 Mar 2026 15:41:42 GMT | Cheap Security Cameras Are Sending Your Footage Overseas — Here’s Why | Game With Life | [Read More](https://medium.com/p/fbea26664eb7) |
-| Sat, 28 Mar 2026 15:38:57 GMT | PhantomRaven and the New npm Trick: When the Malware Isn’t in the Package | Ilias Armenakis | [Read More](https://medium.com/p/d4cf7e33e50c) |
-| Sat, 28 Mar 2026 15:33:09 GMT | AI Doesn’t Need More Intelligence — It Needs an Immune System | Roalstoney | [Read More](https://medium.com/p/8d67ad6c4525) |
-| Sat, 28 Mar 2026 15:21:00 GMT | The Day Your AI Agent Deletes Production — What Will You Show in Court? | GuardClaw | [Read More](https://medium.com/p/b59df76d8c44) |
-| Sat, 28 Mar 2026 15:17:56 GMT | We are the minority online. The AI Traffic & Cyberthreat data proving Dead Internet Theory | Rohit Kumar Thakur | [Read More](https://medium.com/p/46ab3730f249) |
-| Sat, 28 Mar 2026 15:16:49 GMT | Detecting SSH Brute-Force Attack and Suspected Compromise Using Splunk And OpenSSH Logs | Myra Moses Gomba | [Read More](https://medium.com/p/a42ac70f85e2) |
-| Sat, 28 Mar 2026 15:16:09 GMT | Simple Cybersecurity Tips Everyone Should Know | Aissadah | [Read More](https://medium.com/p/1db34573a2c6) |
-| Sat, 28 Mar 2026 15:06:12 GMT | U.A. High School — TryHackMe Walkthrough | Rayenhafsawy | [Read More](https://medium.com/p/ab3a0170a5d0) |
-| Sat, 28 Mar 2026 15:03:09 GMT | The Mindset of a Modern Penetration Tester: More Than Just Hacking | Charlesiheke | [Read More](https://medium.com/p/dacac24025cb) |
-| Sat, 28 Mar 2026 15:02:59 GMT | The Illusion of Consent: Why Online Privacy Still Fails Users — Joseph Sides | Joseph Sides | [Read More](https://medium.com/p/1cdfe858b24f) |
