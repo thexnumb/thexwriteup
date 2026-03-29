@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 19:26:32 GMT | I Built a Placement Portal. Then I Realised It Was Lying. | TheDecryptionist | [Read More](https://medium.com/p/bdc25b3a82ed) |
+| Sun, 29 Mar 2026 19:23:43 GMT | Top 5 Microsoft 365 Security Missteps I See in Organizations | Robert Hogan | [Read More](https://medium.com/p/2df93a4d9544) |
+| Sun, 29 Mar 2026 19:19:03 GMT | CMDB Nedir? | Murat Bilici | [Read More](https://medium.com/p/df6fc18a51c0) |
+| Sun, 29 Mar 2026 19:11:16 GMT | Dark Web vs Darknet: What’s the Real Difference? | Tor BBB | [Read More](https://medium.com/p/785130a9d155) |
+| Sun, 29 Mar 2026 19:09:33 GMT | TryHackMe - Plant Photographer Walkthrough | Hada Manash | [Read More](https://medium.com/p/0bb9e38c45d1) |
+| Sun, 29 Mar 2026 19:08:08 GMT | They Didn’t Hack Stryker. They Became the Administrator. | Albert D. Jee | [Read More](https://medium.com/p/4980e2546f05) |
+| Sun, 29 Mar 2026 18:59:59 GMT | HackTheBox: CAP Walkthrough | VR | [Read More](https://medium.com/p/1a336d820097) |
+| Sun, 29 Mar 2026 18:59:17 GMT | Version Control for Vector Embeddings: Securing Data Lineage in AI Pipelines | Ni Ederveen | [Read More](https://medium.com/p/599be2941dcf) |
+| Sun, 29 Mar 2026 18:56:00 GMT | EU GDPR — Article 38 (Position of the Data Protection Officer (DPO)) | MDM Team | [Read More](https://medium.com/p/91aafa651dae) |
+| Sun, 29 Mar 2026 18:54:09 GMT | Armored as knights | Denny K. Schuldt | [Read More](https://medium.com/p/9fcd01d735e1) |
+| Sun, 29 Mar 2026 18:53:31 GMT | Bir Sistem Çalışıyorsa Gerçekten Doğru Mu Çalışıyordur? | Ali Yıldızoğlu | [Read More](https://medium.com/p/70a0e216b68e) |
+| Sun, 29 Mar 2026 18:51:22 GMT | Windows Defender Not Working? Here’s How to Fix It Quickly (2026 Guide) | Sam | [Read More](https://medium.com/p/3686787d3d94) |
+| Sun, 29 Mar 2026 18:49:18 GMT | How​‍​‌‍​‍‌ Python’s Hidden Powers Can Automate Half Your Job | Brock stone | [Read More](https://medium.com/p/97bcce5eec19) |
+| Sun, 29 Mar 2026 18:45:49 GMT | The Vulnerability Challenge | Jeff Gibbard | [Read More](https://medium.com/p/eb3c36299bfb) |
 | Sun, 29 Mar 2026 18:43:16 GMT | Detecting a Brute-Force Attack Using SSH Logs | Oyindamola Oladele | [Read More](https://medium.com/p/9e4b382394fb) |
 | Sun, 29 Mar 2026 18:43:14 GMT | AI Only Writes the "Happy Path": Why Defensive Programming is Making a Comeback | Andrew Chadwick | [Read More](https://medium.com/p/5a0dad01b210) |
 | Sun, 29 Mar 2026 18:24:50 GMT | Detection Engineering (Part 2 of 3) | Andrew Blooman | [Read More](https://medium.com/p/15e3de846935) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 13:11:36 GMT | Hunting in the Logs: Analyzing a Distributed SSH Brute-Force Attack with Splunk | Bello Shadia | [Read More](https://medium.com/p/56213b63f831) |
 | Sun, 29 Mar 2026 13:08:51 GMT | I Built a Phishing Simulation Lab from Scratch | HEKKO | [Read More](https://medium.com/p/c81a7a2e3215) |
 | Sun, 29 Mar 2026 13:01:00 GMT | Invulnerability and Its Costs | Erik Victor Reed | [Read More](https://medium.com/p/9ed2d17af8b5) |
-| Sun, 29 Mar 2026 13:01:00 GMT | [The Family Plan] Life-Packing Strategies to Reboot Your Stealthed Existence | MonoEssay | [Read More](https://medium.com/p/26ac23416c69) |
-| Sun, 29 Mar 2026 12:54:46 GMT | AI Delegation Safety: Why Families Need Agentic Literacy | Jorge Aviles, MA | [Read More](https://medium.com/p/c65be73e068b) |
-| Sun, 29 Mar 2026 12:50:12 GMT | There Is No Key: Condition-Based Access Without Passwords or Secrets | Douglas Borthwick | [Read More](https://medium.com/p/d5b15a608f31) |
-| Sun, 29 Mar 2026 12:40:51 GMT | How to See Your Forgotten Wi-Fi Password on Windows (No Reset Needed) | Alex Selin | [Read More](https://medium.com/p/c495ba6d038e) |
-| Sun, 29 Mar 2026 12:36:26 GMT | Maximizing Your Time: The Benefits of Listening to Podcasts in a Busy World | CyberCraft | [Read More](https://medium.com/p/684100f041f2) |
-| Sun, 29 Mar 2026 12:25:55 GMT | The Panic Button | O. J. Okpabi | [Read More](https://medium.com/p/b63bfb230eb4) |
-| Sun, 29 Mar 2026 12:25:10 GMT | I Tested 10 AI Tools for Accountants. Here’s What Actually Works in 2026 | marupark | [Read More](https://medium.com/p/58de166bbfd4) |
-| Sun, 29 Mar 2026 12:21:52 GMT | Windows Memory Management — NIR(5) | TheCyberNirvana | [Read More](https://medium.com/p/5460da66aa72) |
-| Sun, 29 Mar 2026 12:18:15 GMT | From Beginner to Linux Explorer: My Journey Through OverTheWire Bandit Levels 1–33 | Oluwatise Alao | [Read More](https://medium.com/p/63a7cc4feaa2) |
-| Sun, 29 Mar 2026 12:01:00 GMT | Your Data Has a Price. | Rodrigo Madriz | [Read More](https://medium.com/p/416803a426c6) |
-| Sun, 29 Mar 2026 11:55:10 GMT | Claude in Chrome: Your Browser’s New AI Agent (and Its Hidden Security Risks) | Nisal Renuja Palliyaguru | [Read More](https://medium.com/p/8e50e4a15e09) |
-| Sun, 29 Mar 2026 11:48:49 GMT | Critical ($100k) bug that could allow an attacker to drain the entire pool in under an Hour | 0 day exploit | [Read More](https://medium.com/p/962b7e4e2ba4) |
-| Sun, 29 Mar 2026 11:39:41 GMT | The Space Between You and the Reader Is Where the Writing Lives | Seven Cubed Seven Labs | [Read More](https://medium.com/p/b7e10d11f50e) |
-| Sun, 29 Mar 2026 11:37:55 GMT | Threat Intel & Containment - TryHackMe Answers | Ryca | [Read More](https://medium.com/p/93df37dd1a9c) |
