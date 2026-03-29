@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 11:24:07 GMT | What Nobody Tells You About Software Development | Kamarunga Tabitha Judith | [Read More](https://medium.com/p/bdaa784c4bdf) |
+| Sun, 29 Mar 2026 11:16:54 GMT | I Started Taking Security Seriously This Year. These 7 Open Source Tools Actually Helped. | Raviteja Nekkalapu | [Read More](https://medium.com/p/6ae2dbb51d69) |
+| Sun, 29 Mar 2026 11:11:31 GMT | Bypass Disable Functions PHP REV(THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/f31e237ed815) |
+| Sun, 29 Mar 2026 11:11:21 GMT | Secrets Management: How Senior Engineers Protect Credentials in Production | Akum Blaise Acha | [Read More](https://medium.com/p/7a5eef963f44) |
+| Sun, 29 Mar 2026 11:05:53 GMT | Building Agents for Pentesting using LangGraph | 0r | [Read More](https://medium.com/p/0cf0b96de779) |
+| Sun, 29 Mar 2026 11:05:22 GMT | Brute Forcing SMTP Authentication: A Technical Analysis | Dulitha Wickramasinghe | [Read More](https://medium.com/p/0e19a42a786b) |
+| Sun, 29 Mar 2026 11:01:28 GMT | Exploring ZoreonX: Innovations in the Crypto Tech Landscape, Specifically DePin | Oviela | [Read More](https://medium.com/p/94ea0a626d18) |
+| Sun, 29 Mar 2026 11:00:29 GMT | You Can’t Protect What You Don’t See — Part1 of Series | Man Of Truth | [Read More](https://medium.com/p/6031dd26d3d9) |
+| Sun, 29 Mar 2026 10:49:44 GMT | Enhancing Network Visibility with Pi-hole: Beyond Traditional Firewalls | Araibirfan | [Read More](https://medium.com/p/0445d4ee198e) |
+| Sun, 29 Mar 2026 10:42:29 GMT | PSFuzz: Rethinking Web Fuzzing in the Age of AI | Proviesec | [Read More](https://medium.com/p/9fe0c2df0952) |
+| Sun, 29 Mar 2026 10:38:21 GMT | How to Write SEO-Friendly Content | Anwesha Bhattacharya | [Read More](https://medium.com/p/5c3cbe4a782d) |
 | Sun, 29 Mar 2026 10:24:54 GMT | Suspicious PowerShell Execution — Full Incident Report | Bishu Biswas | [Read More](https://medium.com/p/ff37af26cb6b) |
 | Sun, 29 Mar 2026 10:24:29 GMT | The Entropy Squeeze: Mapping 256-bit Cryptographic Hashes to 8-Digit OTPs | 周伟 | [Read More](https://medium.com/p/cc6a407c037a) |
 | Sun, 29 Mar 2026 10:22:23 GMT | If Your Company Gets Hit by a Cyberattack, Can It Get Back Up? | Superasystem Inc. | [Read More](https://medium.com/p/dd1fc1050553) |
@@ -103,14 +114,3 @@ That Compute Is Valuable | Senaaravichandran A | [Read More](https://medium.com/
 | Sun, 29 Mar 2026 04:14:41 GMT | FristiLeaks 1.3 — VulnHub Writeup | Abacusready | [Read More](https://medium.com/p/6d1d114d285d) |
 | Sun, 29 Mar 2026 04:05:29 GMT | How Changing 401 to 200 Lead to Full Account Takeover | KhaledAhmed107 | [Read More](https://medium.com/p/f264fdc51044) |
 | Sun, 29 Mar 2026 03:33:01 GMT | How DNS Rebinding Turns SSRF Into a Cloud Takeover | Muhammad Zeeshan | [Read More](https://medium.com/p/c14015d17468) |
-| Sun, 29 Mar 2026 03:31:00 GMT | JWT vs PASETO: Why Developers Are Moving Beyond JSON Web Tokens | Jenil Sojitra | [Read More](https://medium.com/p/ffa448934d5c) |
-| Sun, 29 Mar 2026 03:28:49 GMT | How the FBI Director Became a Cyber Trophy | Travis Ray Caverhill | [Read More](https://medium.com/p/3e0b3df49fcf) |
-| Sun, 29 Mar 2026 03:25:34 GMT | $100 Bounty Unauthenticated Varnish Cache Purge | Muhammad Zeeshan | [Read More](https://medium.com/p/14e007399870) |
-| Sun, 29 Mar 2026 03:23:57 GMT | Shodan for Beginners — How Hackers Find Exposed Devices (Beginner Guide) | Riya Limba | [Read More](https://medium.com/p/1dba687340e5) |
-| Sun, 29 Mar 2026 03:13:08 GMT | Web Application Penetration Testing: A Complete Guide for Developers and Founders | Kuboid Secure Layer | [Read More](https://medium.com/p/9e48b2004ed4) |
-| Sun, 29 Mar 2026 02:42:09 GMT | Top 5 Free Tools Every SOC Analyst Must Know (And Actually Use) | Paritosh | [Read More](https://medium.com/p/f0fb89e5233b) |
-| Sun, 29 Mar 2026 02:15:05 GMT | Normalisation of Deviation | Andy Macready | [Read More](https://medium.com/p/398c2ac83d22) |
-| Sun, 29 Mar 2026 02:10:48 GMT | Your AI Agent Isn’t as Secure as You Think It Is | Ozgur | [Read More](https://medium.com/p/6b42c569d2b7) |
-| Sun, 29 Mar 2026 01:56:18 GMT | Case Study: The PikaBot Infection Chain | Niharika Umrani | [Read More](https://medium.com/p/8a5411be5025) |
-| Sun, 29 Mar 2026 01:46:12 GMT | How to Actually Get a Help Desk Job in 2026 | Jbird | [Read More](https://medium.com/p/48390f6257d9) |
-| Sun, 29 Mar 2026 01:44:50 GMT | What I Learned Building and Running a Platform Protection Program From the Ground Up | Gayatri Nakar | [Read More](https://medium.com/p/005206d6926e) |
