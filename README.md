@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 15:29:30 GMT | Check which shared folders a user has relevant permissions on, and remove those permissions | Excalibra | [Read More](https://medium.com/p/eaea13c8a7f7) |
+| Sun, 29 Mar 2026 15:23:34 GMT | SİBER GÜVENLİK DÜNYASINDA YANLIŞ BİLİNENLER | Sakarya Üniversitesi Siber Güvenlik Topluluğu | [Read More](https://medium.com/p/282da207f265) |
+| Sun, 29 Mar 2026 15:21:24 GMT | Plant Photographer — TryHackMe Writeup | Amimerayoub | [Read More](https://medium.com/p/b15182370af5) |
+| Sun, 29 Mar 2026 15:17:37 GMT | Why Cybersecurity Renewals is Broken — and How to Fix It | thatsampoh | [Read More](https://medium.com/p/a9e72cb73461) |
+| Sun, 29 Mar 2026 15:13:52 GMT | How Russia’s Dual-Use Cyber Infrastructure Fuels a Destructive Shadow War | SIMKRA | [Read More](https://medium.com/p/7acbbeaa2dc2) |
+| Sun, 29 Mar 2026 15:13:29 GMT | Why Post-training quizzes Improve Information Retention | Suj | [Read More](https://medium.com/p/27b2d7e8152e) |
+| Sun, 29 Mar 2026 15:12:03 GMT | Anthropic’s Claude Mythos Leak: Why This Secret AI Model Changes Cybersecurity, AI Safety, and… | TONI RAMCHANDANI | [Read More](https://medium.com/p/3009e475facb) |
+| Sun, 29 Mar 2026 15:07:50 GMT | Building a C2 on AWS: Lessons Learned the Hard Way | Tyreek Haynes | [Read More](https://medium.com/p/1c13f7b3dc5b) |
+| Sun, 29 Mar 2026 15:06:00 GMT | Career Paths in Software Engineering | Dulitha Samadith | [Read More](https://medium.com/p/4e1eb80ee84b) |
+| Sun, 29 Mar 2026 14:58:28 GMT | I Built a Read-Only kubectl So AI Agents Can’t Break My Cluster | Mustafa Veysi Soyvural | [Read More](https://medium.com/p/7d40ee820f4a) |
+| Sun, 29 Mar 2026 14:53:03 GMT | “You don’t need to learn programming anymore” — Reality Check from a CTO | Muhammadali Shaduli | [Read More](https://medium.com/p/e908b544720f) |
 | Sun, 29 Mar 2026 14:43:19 GMT | Windows Defender Bypass in 2026 with Rust PELoader | Yua Mikanana | [Read More](https://medium.com/p/ab9176c8b5ea) |
 | Sun, 29 Mar 2026 14:38:55 GMT | Detecting PureLog Stealer Campaigns with Wazuh Rules | Oliver Roca | [Read More](https://medium.com/p/474b6b650040) |
 | Sun, 29 Mar 2026 14:36:56 GMT | When JWT Is Not Enough: Why Valid Tokens Still Fail in Modern Systems | Shwetha Narayan | [Read More](https://medium.com/p/8414bb654b47) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 08:31:46 GMT | How to Translate Bug Impact into Business Risk | Abhishek meena | [Read More](https://medium.com/p/50d6efe525d7) |
 | Sun, 29 Mar 2026 08:26:28 GMT | The Ghost in the Wire: How Attackers Intercept Your Data Without You Ever Knowing | Crispusadrian | [Read More](https://medium.com/p/8eb77b8586e7) |
 | Sun, 29 Mar 2026 08:19:20 GMT | From IPA to Exploit: The Complete Offensive Methodology for iOS Application Testing — Part 1 | Shubham Gupta | [Read More](https://medium.com/p/50d0ee48835a) |
-| Sun, 29 Mar 2026 08:16:02 GMT | Intel in a nutshell. | Mohammed Brückner | [Read More](https://medium.com/p/6ec96e823380) |
-| Sun, 29 Mar 2026 08:11:50 GMT | Building a Production-Ready DevSecOps Pipeline on AWS (EKS + Jenkins + Trivy + SonarQube) | Shivani Kumari @CloudDevOps Engineer | [Read More](https://medium.com/p/12f60a5d711a) |
-| Sun, 29 Mar 2026 08:01:00 GMT | The Model That Leaked Itself: Anthropic’s Claude Mythos and the Cybersecurity Stocks It Rattled | MayhemCode | [Read More](https://medium.com/p/0aee52aa2dac) |
-| Sun, 29 Mar 2026 07:59:18 GMT | This past week offered me a deeper, more practical perspective on cybersecurity and what it truly… | Ghai Mach | [Read More](https://medium.com/p/d0eaeb4490ed) |
-| Sun, 29 Mar 2026 07:55:40 GMT | Top Skills You Gain from Linux Training Explained in Detail | cyber security Updates | [Read More](https://medium.com/p/ca5aa0d470e0) |
-| Sun, 29 Mar 2026 07:52:35 GMT | AI Can Write Your Code — But It Can’t Secure It (Yet) | Developwithkrishn | [Read More](https://medium.com/p/e8c00a17e2ce) |
-| Sun, 29 Mar 2026 07:48:28 GMT | What is Endpoint Security? (And Why Most Growing Businesses Ignore It Until It’s Too Late) | NILESH GOSWAMI | [Read More](https://medium.com/p/749c2c987ef9) |
-| Sun, 29 Mar 2026 07:40:35 GMT | SECURITY SHOULD NOT BE OPTIONAL. | NanoChain | [Read More](https://medium.com/p/4de3274e6c62) |
-| Sun, 29 Mar 2026 07:38:07 GMT | Opus Has Been Dethroned — Meet the AI That Even Anthropic Is Afraid to Release | Dinmay kumar Brahma | [Read More](https://medium.com/p/76803c6893f4) |
-| Sun, 29 Mar 2026 07:36:07 GMT | Exploiting SQL Injection on DVWA — From Beginner to Blind | Akshaysuresh | [Read More](https://medium.com/p/50c585534dd0) |
-| Sun, 29 Mar 2026 07:36:01 GMT | The Dangerous Truth About Women Over 40 Who Can’t Support Themselves | Quentina | [Read More](https://medium.com/p/7d4a494b1416) |
