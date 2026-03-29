@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 17:25:13 GMT | Building a Cloud‑Hosted Honeypot with T‑Pot on Microsoft Azure: A Hands‑On Cybersecurity Project | Abhishek Vaidya | [Read More](https://medium.com/p/8af5fd57ed4a) |
+| Sun, 29 Mar 2026 17:22:30 GMT | Responsible AI isn’t slowing you down. The absence of it is.. | Akanksha Masurkar | [Read More](https://medium.com/p/13f079bfea82) |
+| Sun, 29 Mar 2026 17:22:01 GMT | From Packets to Payloads: My Week Inside the Cyber security Lab | Nalinda Precious Grace | [Read More](https://medium.com/p/1042b563da97) |
+| Sun, 29 Mar 2026 17:22:00 GMT | From Segmentation Fault to Shell: Understanding Your First Buffer Overflow Exploit | Ori Dror | [Read More](https://medium.com/p/724c49358cb6) |
+| Sun, 29 Mar 2026 17:20:03 GMT | The Rise of Cyber-Physical Attacks in Global Conflicts | Ananthuharikumar | [Read More](https://medium.com/p/01f69f134e70) |
+| Sun, 29 Mar 2026 17:19:42 GMT | Understanding How Spring Security Works | Ramzi Bouzaiene | [Read More](https://medium.com/p/1cf957ef601e) |
+| Sun, 29 Mar 2026 17:19:28 GMT | TryHackMe — Neighbour write-up | Ziya Shalbuzov | [Read More](https://medium.com/p/1ae5e46100d2) |
+| Sun, 29 Mar 2026 17:19:06 GMT | Claude Cowork: Safety checklist for delegating tasks to an AI agent | Mihailo Zoin | [Read More](https://medium.com/p/57f6a2ecbc0f) |
+| Sun, 29 Mar 2026 17:14:00 GMT | The Cargo Cult of IT Hiring | Taulan Zauzanov | [Read More](https://medium.com/p/e41784b50d77) |
+| Sun, 29 Mar 2026 17:13:58 GMT | API Key Authentication in .NET 10 | Ed Curtin | [Read More](https://medium.com/p/42becc5c7edf) |
+| Sun, 29 Mar 2026 17:11:46 GMT | From Zero to Web Pentester: Setting Up OWASP Juice Shop | ~ Jeff ~ | [Read More](https://medium.com/p/40af44ca9dc0) |
+| Sun, 29 Mar 2026 17:06:36 GMT | How I Stopped Losing Track of My Cybersecurity Studies | CyberCraft | [Read More](https://medium.com/p/022a2f122294) |
+| Sun, 29 Mar 2026 17:04:36 GMT | Setup Your Threat Hunting Lab in 30 mins… | Mheboobkhan | [Read More](https://medium.com/p/60d9e9c6d0d2) |
+| Sun, 29 Mar 2026 17:01:00 GMT | AI Can’t Read Malicious Minds — Why Smart Robots Are Easy to Deceive | NeaByteLab | [Read More](https://medium.com/p/f2da57f1f9f9) |
+| Sun, 29 Mar 2026 16:55:31 GMT | How I Pwned N8N: From Exposed Credentials to Root via Docker Escape - DGSSI National CTF | M3H47D1 | [Read More](https://medium.com/p/c45d68c37558) |
+| Sun, 29 Mar 2026 16:51:00 GMT | You’re debugging what you can see — not what’s actually wrong | Prem Chandak | [Read More](https://medium.com/p/24cfa1200807) |
+| Sun, 29 Mar 2026 16:43:44 GMT | Planning: The Secret to a Smooth Project | Favour Mulungi | [Read More](https://medium.com/p/28598fa5da85) |
 | Sun, 29 Mar 2026 16:27:01 GMT | Day 56: Cosign — Signing and Verifying Your Work | Prakshal Doshi | [Read More](https://medium.com/p/cc28fb405413) |
 | Sun, 29 Mar 2026 16:23:20 GMT | Writeup PicoCTF: Menyelesaikan Tantangan “Old Sessions” (Web Exploitation) | Malvin Wijaya | [Read More](https://medium.com/p/ef7b6dc419f1) |
 | Sun, 29 Mar 2026 16:19:59 GMT | My research | Olga Gladosz | [Read More](https://medium.com/p/00e68cb24596) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 10:38:21 GMT | How to Write SEO-Friendly Content | Anwesha Bhattacharya | [Read More](https://medium.com/p/5c3cbe4a782d) |
 | Sun, 29 Mar 2026 10:24:54 GMT | Suspicious PowerShell Execution — Full Incident Report | Bishu Biswas | [Read More](https://medium.com/p/ff37af26cb6b) |
 | Sun, 29 Mar 2026 10:24:29 GMT | The Entropy Squeeze: Mapping 256-bit Cryptographic Hashes to 8-Digit OTPs | 周伟 | [Read More](https://medium.com/p/cc6a407c037a) |
-| Sun, 29 Mar 2026 10:22:23 GMT | If Your Company Gets Hit by a Cyberattack, Can It Get Back Up? | Superasystem Inc. | [Read More](https://medium.com/p/dd1fc1050553) |
-| Sun, 29 Mar 2026 10:21:30 GMT | What is an API? A Beginner-Friendly Guide | Anwesha Bhattacharya | [Read More](https://medium.com/p/4f2daca6fe3a) |
-| Sun, 29 Mar 2026 10:20:00 GMT | From OSCP Prep to HTB CPTS: How I Conquered the Exam in 7 Days | Rahul Singh Chauhan | [Read More](https://medium.com/p/350b6f692bd5) |
-| Sun, 29 Mar 2026 10:16:00 GMT | We build AI systems for a living. | Technovate Global | [Read More](https://medium.com/p/febd907b6a19) |
-| Sun, 29 Mar 2026 10:15:36 GMT | OWASP Top 10 for LLMs: What Every Beginner in AI & Cybersecurity Must Know | Yamini Yadav_369 | [Read More](https://medium.com/p/4e83729725f6) |
-| Sun, 29 Mar 2026 10:01:01 GMT | Turning Points from Our Latest Cybersecurity Cohort | Victoria Coker | [Read More](https://medium.com/p/dcf0273f0563) |
-| Sun, 29 Mar 2026 09:57:22 GMT | HTB DFIR Sherlock: WorkFromHome | WildPasta | [Read More](https://medium.com/p/c16282b0bd0f) |
-| Sun, 29 Mar 2026 09:56:56 GMT | Learning HTML, BootStrap and CSS-Trevon Maina Kiragu | Kiragutrevon | [Read More](https://medium.com/p/cece37c37cb2) |
-| Sun, 29 Mar 2026 09:47:21 GMT | Kali Linux: A Heart of Hackers | Othieno David | [Read More](https://medium.com/p/f7bac44db8a6) |
-| Sun, 29 Mar 2026 09:42:43 GMT | Volume 2, Post 9: Automating Recon with Bash Scripting (Building Your Recon Engine) | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/9aa5ac5e34e5) |
-| Sun, 29 Mar 2026 09:36:00 GMT | Why Decision Rights Matter More Than Incident Playbooks | Tyson Martin | [Read More](https://medium.com/p/f0e04a9a4c1b) |
-| Sun, 29 Mar 2026 09:22:44 GMT | Volume 2, Post 8: Hunting for Information Leaks & Secrets (The Art of Digital Scavenging) | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/b7f6ffbd1e76) |
-| Sun, 29 Mar 2026 09:11:50 GMT | From Curious Student to Cyber Security Explorer | Karen | [Read More](https://medium.com/p/ea34ec46be9a) |
-| Sun, 29 Mar 2026 09:09:59 GMT | From Kali Labs to Real-World Threats: Why One Click on an Unofficial Download Can Hand Over Your… | Mordecai Corey Kwezi | [Read More](https://medium.com/p/93ce8e99dd2b) |
-| Sun, 29 Mar 2026 09:08:59 GMT | Guys pls a question:my MetaMask wallet holds 5,850. USDT, and I have the 12 seed phrase: | Jina | [Read More](https://medium.com/p/c5a8b3144270) |
-| Sun, 29 Mar 2026 09:06:00 GMT | HackTheBox Mobile Exploitation Series — Machine 2 “Manager” | Jananimahalakshmi | [Read More](https://medium.com/p/ae5fac49ee88) |
-| Sun, 29 Mar 2026 09:03:54 GMT | I Built a Clipboard Manager for Linux with AES-256 Encryption | freerave | [Read More](https://medium.com/p/1a08c0bdb1ae) |
