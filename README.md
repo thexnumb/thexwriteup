@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 12:54:46 GMT | AI Delegation Safety: Why Families Need Agentic Literacy | Jorge Aviles, MA | [Read More](https://medium.com/p/c65be73e068b) |
+| Sun, 29 Mar 2026 12:50:12 GMT | There Is No Key: Condition-Based Access Without Passwords or Secrets | Douglas Borthwick | [Read More](https://medium.com/p/d5b15a608f31) |
+| Sun, 29 Mar 2026 12:40:51 GMT | How to See Your Forgotten Wi-Fi Password on Windows (No Reset Needed) | Alex Selin | [Read More](https://medium.com/p/c495ba6d038e) |
+| Sun, 29 Mar 2026 12:36:26 GMT | Maximizing Your Time: The Benefits of Listening to Podcasts in a Busy World | CyberCraft | [Read More](https://medium.com/p/684100f041f2) |
+| Sun, 29 Mar 2026 12:25:55 GMT | The Panic Button | O. J. Okpabi | [Read More](https://medium.com/p/b63bfb230eb4) |
+| Sun, 29 Mar 2026 12:25:10 GMT | I Tested 10 AI Tools for Accountants. Here’s What Actually Works in 2026 | marupark | [Read More](https://medium.com/p/58de166bbfd4) |
+| Sun, 29 Mar 2026 12:21:52 GMT | Windows Memory Management — NIR(5) | TheCyberNirvana | [Read More](https://medium.com/p/5460da66aa72) |
+| Sun, 29 Mar 2026 12:18:15 GMT | From Beginner to Linux Explorer: My Journey Through OverTheWire Bandit Levels 1–33 | Oluwatise Alao | [Read More](https://medium.com/p/63a7cc4feaa2) |
+| Sun, 29 Mar 2026 12:01:00 GMT | Your Data Has a Price. | Rodrigo Madriz | [Read More](https://medium.com/p/416803a426c6) |
+| Sun, 29 Mar 2026 11:55:10 GMT | Claude in Chrome: Your Browser’s New AI Agent (and Its Hidden Security Risks) | Nisal Renuja Palliyaguru | [Read More](https://medium.com/p/8e50e4a15e09) |
+| Sun, 29 Mar 2026 11:48:49 GMT | Critical ($100k) bug that could allow an attacker to drain the entire pool in under an Hour | 0 day exploit | [Read More](https://medium.com/p/962b7e4e2ba4) |
+| Sun, 29 Mar 2026 11:39:41 GMT | The Space Between You and the Reader Is Where the Writing Lives | Seven Cubed Seven Labs | [Read More](https://medium.com/p/b7e10d11f50e) |
+| Sun, 29 Mar 2026 11:37:55 GMT | Threat Intel & Containment - TryHackMe Answers | Ryca | [Read More](https://medium.com/p/93df37dd1a9c) |
+| Sun, 29 Mar 2026 11:28:44 GMT | How I Built My First Network Vulnerability Scanner | saloni chaurasiya | [Read More](https://medium.com/p/463443aaa8fd) |
 | Sun, 29 Mar 2026 11:24:07 GMT | What Nobody Tells You About Software Development | Kamarunga Tabitha Judith | [Read More](https://medium.com/p/bdaa784c4bdf) |
 | Sun, 29 Mar 2026 11:16:54 GMT | I Started Taking Security Seriously This Year. These 7 Open Source Tools Actually Helped. | Raviteja Nekkalapu | [Read More](https://medium.com/p/6ae2dbb51d69) |
 | Sun, 29 Mar 2026 11:11:31 GMT | Bypass Disable Functions PHP REV(THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/f31e237ed815) |
@@ -100,17 +114,3 @@ That Compute Is Valuable | Senaaravichandran A | [Read More](https://medium.com/
 | Sun, 29 Mar 2026 05:37:11 GMT | What is the Best Way to Securely Backup 20TB of Data? | Louis OConnor | [Read More](https://medium.com/p/1b162d4785fc) |
 | Sun, 29 Mar 2026 05:27:24 GMT | Browsed Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/a8a9b7021d0d) |
 | Sun, 29 Mar 2026 05:27:08 GMT | Race Condition in Comments: Last Vote Matters | Vignesh | [Read More](https://medium.com/p/2d10edf382cc) |
-| Sun, 29 Mar 2026 05:24:06 GMT | Dark Web Hunting & Monitoring: A Practical Guide for Pentesters & Red Teamers — Part 1 | Siva Sankar | [Read More](https://medium.com/p/b958abcdb4fe) |
-| Sun, 29 Mar 2026 05:17:58 GMT | Badge Cloned in Seconds: The Ongoing Failure of RFID Access Control | Travis Ray Caverhill | [Read More](https://medium.com/p/9f095c86031d) |
-| Sun, 29 Mar 2026 05:15:54 GMT | The 23 Open Doors: The “Digital Disaster” | Kiconco Precious Kellen | [Read More](https://medium.com/p/a586ca85fdc4) |
-| Sun, 29 Mar 2026 05:06:37 GMT | Static analysis of JS file | Nitya Singh | [Read More](https://medium.com/p/32b25ab7bba3) |
-| Sun, 29 Mar 2026 05:04:26 GMT | How to protect a Pega REST API through network security, authentication and authorisation? | Sandeep Pamidamarri | [Read More](https://medium.com/p/1711e2f15a71) |
-| Sun, 29 Mar 2026 04:53:18 GMT | Edge Wallet-এ $NYM ইন্টিগ্রেশন: প্রাইভেসি-ফার্স্ট ক্রিপ্টো ব্যবহারে নতুন অধ্যায় | Rabib Bin Nur | [Read More](https://medium.com/p/4b7202c8e23e) |
-| Sun, 29 Mar 2026 04:50:31 GMT | Breaking Authentication: Exploiting Session Management Like a Hacker | Devansh Patel | [Read More](https://medium.com/p/d7b7cd3473a9) |
-| Sun, 29 Mar 2026 04:48:11 GMT | How We Made Webhooks Boring in Production | Mary Olowu | [Read More](https://medium.com/p/e03f6d10eb00) |
-| Sun, 29 Mar 2026 04:37:05 GMT | From Static Findings to Working Exploits: Runtime Testing of MCP Servers | Agentseal | [Read More](https://medium.com/p/8783572d45e7) |
-| Sun, 29 Mar 2026 04:35:47 GMT | I locked unlimited subdomains on a SaaS platform without even finishing registration — and the… | BugWraith (Lokesh) | [Read More](https://medium.com/p/4b5fb24ebd5d) |
-| Sun, 29 Mar 2026 04:31:28 GMT | Part 3: Smarter Input Funnel — Who Decides What Needs an AppSec Review? | Aparna Ash Himmatramka | [Read More](https://medium.com/p/ce9abee342b1) |
-| Sun, 29 Mar 2026 04:14:41 GMT | FristiLeaks 1.3 — VulnHub Writeup | Abacusready | [Read More](https://medium.com/p/6d1d114d285d) |
-| Sun, 29 Mar 2026 04:05:29 GMT | How Changing 401 to 200 Lead to Full Account Takeover | KhaledAhmed107 | [Read More](https://medium.com/p/f264fdc51044) |
-| Sun, 29 Mar 2026 03:33:01 GMT | How DNS Rebinding Turns SSRF Into a Cloud Takeover | Muhammad Zeeshan | [Read More](https://medium.com/p/c14015d17468) |
