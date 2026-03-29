@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 13:55:03 GMT | How a Switch Learns MAC Addresses and Creates a CAM Table: A Deep Dive | Suresh Bhanuka | [Read More](https://medium.com/p/811bb6e5a22f) |
+| Sun, 29 Mar 2026 13:53:48 GMT | The Secret Life of DLLs: Memory, Modules, and Address Resolution | Vishwas Adhikari | [Read More](https://medium.com/p/852f02eec24f) |
+| Sun, 29 Mar 2026 13:49:43 GMT | Mariah Rucker Verified Multidisciplinary Career. | Mariah Rucker | [Read More](https://medium.com/p/32587996fbca) |
+| Sun, 29 Mar 2026 13:48:39 GMT | “Security Risk-Free” Is a Myth — Here’s How Real Systems Actually Stay Secure in 2026 | Syed Hassan Fida | [Read More](https://medium.com/p/9145b9697aca) |
+| Sun, 29 Mar 2026 13:43:11 GMT | Stop Guessing Your Firestore Rules: 5 Authorization Patterns You Should Know | James Allan | [Read More](https://medium.com/p/900b05324e72) |
+| Sun, 29 Mar 2026 13:35:14 GMT | The War Had an Owner. The Next One Might Not. | Kim Mara | [Read More](https://medium.com/p/ba23cd81696b) |
+| Sun, 29 Mar 2026 13:25:33 GMT | Dynamic SSL Pinning on Android: Integrating the SDK and Walking Through the Implementation | Denis | [Read More](https://medium.com/p/20334233416c) |
+| Sun, 29 Mar 2026 13:22:59 GMT | From a Tiny Parameter to XSS — Hunting CVE-2020–17453 in a Public VDP - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/f6de9b690c3c) |
+| Sun, 29 Mar 2026 13:22:15 GMT | The Era of Mythos: Have We Reached the Threshold of “Scary AI” in Cybersecurity? | Mohammad Gamal | [Read More](https://medium.com/p/357aa20a29b4) |
+| Sun, 29 Mar 2026 13:21:08 GMT | DVWA Reflected XSS Walkthrough | ~ Jeff ~ | [Read More](https://medium.com/p/a758ed80f0c2) |
+| Sun, 29 Mar 2026 13:18:28 GMT | StrongKey Introduces Unprecedented Security Defenses for Small and Medium Businesses/Enterprises | Arshad Noor | [Read More](https://medium.com/p/51a02e1a0f4c) |
+| Sun, 29 Mar 2026 13:16:17 GMT | Quantum Computing Isn’t Your Problem Yet – But Your Infrastructure Might Be | Pankaj negi | [Read More](https://medium.com/p/3e827917344e) |
+| Sun, 29 Mar 2026 13:11:36 GMT | Hunting in the Logs: Analyzing a Distributed SSH Brute-Force Attack with Splunk | Bello Shadia | [Read More](https://medium.com/p/56213b63f831) |
+| Sun, 29 Mar 2026 13:08:51 GMT | I Built a Phishing Simulation Lab from Scratch | HEKKO | [Read More](https://medium.com/p/c81a7a2e3215) |
+| Sun, 29 Mar 2026 13:01:00 GMT | Invulnerability and Its Costs | Erik Victor Reed | [Read More](https://medium.com/p/9ed2d17af8b5) |
+| Sun, 29 Mar 2026 13:01:00 GMT | [The Family Plan] Life-Packing Strategies to Reboot Your Stealthed Existence | MonoEssay | [Read More](https://medium.com/p/26ac23416c69) |
 | Sun, 29 Mar 2026 12:54:46 GMT | AI Delegation Safety: Why Families Need Agentic Literacy | Jorge Aviles, MA | [Read More](https://medium.com/p/c65be73e068b) |
 | Sun, 29 Mar 2026 12:50:12 GMT | There Is No Key: Condition-Based Access Without Passwords or Secrets | Douglas Borthwick | [Read More](https://medium.com/p/d5b15a608f31) |
 | Sun, 29 Mar 2026 12:40:51 GMT | How to See Your Forgotten Wi-Fi Password on Windows (No Reset Needed) | Alex Selin | [Read More](https://medium.com/p/c495ba6d038e) |
@@ -96,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 06:45:50 GMT | picoCTF Writeup — Undo Challenge (Linux Transformations Walkthrough)  Overview | Ali Hasil | [Read More](https://medium.com/p/09d26d219e39) |
 | Sun, 29 Mar 2026 06:37:27 GMT | If You’re Starting Cyber Security, Start With These 5 Tools | MilanGiri Gosai | [Read More](https://medium.com/p/10e12f8df7be) |
 | Sun, 29 Mar 2026 06:36:51 GMT | How I Made $1,200 by Finding a Hidden XSS in a “Secure” Web App (Full Walkthrough) | Sukhveer Singh | [Read More](https://medium.com/p/77fa787d06b2) |
-| Sun, 29 Mar 2026 06:33:55 GMT | The Confused Deputy: How a Linux Security Tool Was Weaponized to Grant Root Access | Aaron | [Read More](https://medium.com/p/b658a6175322) |
-| Sun, 29 Mar 2026 06:31:00 GMT | How Do Hackers Break Into your account: Credential Stuffing and Password spraying | Sanista Ramphal | [Read More](https://medium.com/p/47686cfaa84a) |
-| Sun, 29 Mar 2026 06:30:57 GMT | SIM Swap Attacks: Don’t Let Hackers Steal Your Phone Number | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/4198c86e6f74) |
-| Sun, 29 Mar 2026 06:26:48 GMT | The Linux Concept Journey — Extended File Attributes (xattr) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/179daa4f1b92) |
-| Sun, 29 Mar 2026 06:26:00 GMT | Nobody Told It To.
-It Just Figured Out
-That Compute Is Valuable | Senaaravichandran A | [Read More](https://medium.com/p/7f93f6478bf9) |
-| Sun, 29 Mar 2026 06:18:46 GMT | How to Become an OSINT Investigator (2026 Guide): Skills, Salary, Career Path & Future Scope | EINITIAL24 | [Read More](https://medium.com/p/1c3b266413d5) |
-| Sun, 29 Mar 2026 06:13:46 GMT | What Is XSS (Cross-Site Scripting)? A Beginner-Friendly Guide for Developers & Hackers | Bugitrix | [Read More](https://medium.com/p/934e65e3b9c1) |
-| Sun, 29 Mar 2026 06:09:24 GMT | Zero Trust Security: What It Means for Developers | Mubashir | [Read More](https://medium.com/p/505070c81794) |
-| Sun, 29 Mar 2026 06:02:18 GMT | The Most Dangerous Bugs Don’t Throw Errors | Prem Chandak | [Read More](https://medium.com/p/72933646a802) |
-| Sun, 29 Mar 2026 05:56:00 GMT | Hackers Stole 350 GB of European Commission Data | Patrik Žák | [Read More](https://medium.com/p/228ebc9da0fb) |
-| Sun, 29 Mar 2026 05:42:21 GMT | The Difference Between Displacement and Destruction | Vijay Kumar Gupta | [Read More](https://medium.com/p/7533b687c094) |
-| Sun, 29 Mar 2026 05:40:33 GMT | The Role of Firewalls in Modern Web Applications | Mubashir | [Read More](https://medium.com/p/31c4d6705161) |
-| Sun, 29 Mar 2026 05:37:12 GMT | The Showmanship of Realness | Eleni Stephanides | [Read More](https://medium.com/p/d1eeb7837af0) |
-| Sun, 29 Mar 2026 05:37:11 GMT | What is the Best Way to Securely Backup 20TB of Data? | Louis OConnor | [Read More](https://medium.com/p/1b162d4785fc) |
-| Sun, 29 Mar 2026 05:27:24 GMT | Browsed Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/a8a9b7021d0d) |
-| Sun, 29 Mar 2026 05:27:08 GMT | Race Condition in Comments: Last Vote Matters | Vignesh | [Read More](https://medium.com/p/2d10edf382cc) |
