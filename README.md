@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 16:27:01 GMT | Day 56: Cosign — Signing and Verifying Your Work | Prakshal Doshi | [Read More](https://medium.com/p/cc28fb405413) |
+| Sun, 29 Mar 2026 16:23:20 GMT | Writeup PicoCTF: Menyelesaikan Tantangan “Old Sessions” (Web Exploitation) | Malvin Wijaya | [Read More](https://medium.com/p/ef7b6dc419f1) |
+| Sun, 29 Mar 2026 16:19:59 GMT | My research | Olga Gladosz | [Read More](https://medium.com/p/00e68cb24596) |
+| Sun, 29 Mar 2026 16:11:48 GMT | PDA Seed Collision: How a Sequential Counter Affected Account Isolation on Solana | Talfao | [Read More](https://medium.com/p/3cbf6d30ea3b) |
+| Sun, 29 Mar 2026 16:11:34 GMT | Threat Intelligence Tools Walkthrough: TryHackMe Practical Analysis | Sawjor | [Read More](https://medium.com/p/a1598cfd7e85) |
+| Sun, 29 Mar 2026 16:07:50 GMT | I Spent a Week Thinking Like a Hacker and It Changed Everything | Cynthiafavour | [Read More](https://medium.com/p/5d9c52d78b00) |
+| Sun, 29 Mar 2026 15:57:18 GMT | TryHackMe Attacktive Directory Walkthrough By Ryan Cham | Ryan Cham Rui Yang | [Read More](https://medium.com/p/0bcb9f66edfa) |
+| Sun, 29 Mar 2026 15:52:16 GMT | This AI Is Learning Your Weaknesses And It’s Not Your Boss | Shantun Parmar | [Read More](https://medium.com/p/439b8df6d66b) |
+| Sun, 29 Mar 2026 15:51:28 GMT | AI vs Hacker: Who Wins in Cybersecurity? - kidnapshadow | Kidnapshadow | [Read More](https://medium.com/p/a5e3f595b5cd) |
+| Sun, 29 Mar 2026 15:50:18 GMT | Top Cyber Security Trends in 2026: How to Stay Protected in a Digital-First World | Indomitech Insights | [Read More](https://medium.com/p/7f88cee2b83d) |
+| Sun, 29 Mar 2026 15:50:15 GMT | AI Has a Dirty Secret, And It’s About to Become Your Problem Too | Er.Muruganantham | [Read More](https://medium.com/p/b6e8382f743f) |
+| Sun, 29 Mar 2026 15:49:40 GMT | CTF day 02- PicoCTF Login Bypass (Cookie Tampering) | Adithya Hettiarachchi | [Read More](https://medium.com/p/d8b00753f35c) |
+| Sun, 29 Mar 2026 15:47:43 GMT | Fresh Paint, Deep Roots. | Irene Basaglia | [Read More](https://medium.com/p/869408041522) |
+| Sun, 29 Mar 2026 15:47:27 GMT | Nigeria’s Secret Police Has a Secret Problem — It Doesn’t Actually Do Intelligence | Damilare Isese-Daniels | [Read More](https://medium.com/p/c47bb591927a) |
 | Sun, 29 Mar 2026 15:29:30 GMT | Check which shared folders a user has relevant permissions on, and remove those permissions | Excalibra | [Read More](https://medium.com/p/eaea13c8a7f7) |
 | Sun, 29 Mar 2026 15:23:34 GMT | SİBER GÜVENLİK DÜNYASINDA YANLIŞ BİLİNENLER | Sakarya Üniversitesi Siber Güvenlik Topluluğu | [Read More](https://medium.com/p/282da207f265) |
 | Sun, 29 Mar 2026 15:21:24 GMT | Plant Photographer — TryHackMe Writeup | Amimerayoub | [Read More](https://medium.com/p/b15182370af5) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 09:08:59 GMT | Guys pls a question:my MetaMask wallet holds 5,850. USDT, and I have the 12 seed phrase: | Jina | [Read More](https://medium.com/p/c5a8b3144270) |
 | Sun, 29 Mar 2026 09:06:00 GMT | HackTheBox Mobile Exploitation Series — Machine 2 “Manager” | Jananimahalakshmi | [Read More](https://medium.com/p/ae5fac49ee88) |
 | Sun, 29 Mar 2026 09:03:54 GMT | I Built a Clipboard Manager for Linux with AES-256 Encryption | freerave | [Read More](https://medium.com/p/1a08c0bdb1ae) |
-| Sun, 29 Mar 2026 09:03:13 GMT | Midnight Flag CTF Writeups (Forensics, Web3, Crypto, Reverse) | Shoaib Bin Rashid | [Read More](https://medium.com/p/9e8e49e36153) |
-| Sun, 29 Mar 2026 08:59:11 GMT | SSH Log Analysis: Detecting Brute-Force Attacks Using Splunk | Beetea Soc | [Read More](https://medium.com/p/949424014cd9) |
-| Sun, 29 Mar 2026 08:57:26 GMT | FTP Log Analysis Using Splunk | suraj | [Read More](https://medium.com/p/cd0f6dd829f8) |
-| Sun, 29 Mar 2026 08:56:33 GMT | Hardcoded Credentials — Mobile Apps Security Static Analysis Part I | ./Rey~ | [Read More](https://medium.com/p/0f990ece8664) |
-| Sun, 29 Mar 2026 08:55:26 GMT | 7 Wireshark Filters That Instantly Make You Look Like a Network Expert | Fateyaly | [Read More](https://medium.com/p/63791284578d) |
-| Sun, 29 Mar 2026 08:55:16 GMT | What If AI Came to You? | Zsearchai | [Read More](https://medium.com/p/ab52303b04bb) |
-| Sun, 29 Mar 2026 08:52:49 GMT | How the Dark Web Continues to Enable Serious Crimes — and Why Anonymity Is Not Absolute | Hacksgreek | [Read More](https://medium.com/p/7e043b39101c) |
-| Sun, 29 Mar 2026 08:49:26 GMT | Introductions | Charmaine Coleman | [Read More](https://medium.com/p/d984d680a31d) |
-| Sun, 29 Mar 2026 08:45:17 GMT | Wazuh & Apache: Web Saldırıları Simülasyonu ve Analizi | Mustafa Mansur Mamus | [Read More](https://medium.com/p/3d8267ffec3a) |
-| Sun, 29 Mar 2026 08:39:34 GMT | Exploit Dev Notes Part 1 : How I Finally Understood Buffer Overflow | Misfit | [Read More](https://medium.com/p/fba8c578e63e) |
-| Sun, 29 Mar 2026 08:34:18 GMT | A Practical Guide to Bug Hunting with Tools & Command-Line Automation | Monika sharma | [Read More](https://medium.com/p/0d4bc3b98f9b) |
-| Sun, 29 Mar 2026 08:31:46 GMT | How to Translate Bug Impact into Business Risk | Abhishek meena | [Read More](https://medium.com/p/50d6efe525d7) |
-| Sun, 29 Mar 2026 08:26:28 GMT | The Ghost in the Wire: How Attackers Intercept Your Data Without You Ever Knowing | Crispusadrian | [Read More](https://medium.com/p/8eb77b8586e7) |
-| Sun, 29 Mar 2026 08:19:20 GMT | From IPA to Exploit: The Complete Offensive Methodology for iOS Application Testing — Part 1 | Shubham Gupta | [Read More](https://medium.com/p/50d0ee48835a) |
