@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 14:43:19 GMT | Windows Defender Bypass in 2026 with Rust PELoader | Yua Mikanana | [Read More](https://medium.com/p/ab9176c8b5ea) |
+| Sun, 29 Mar 2026 14:38:55 GMT | Detecting PureLog Stealer Campaigns with Wazuh Rules | Oliver Roca | [Read More](https://medium.com/p/474b6b650040) |
+| Sun, 29 Mar 2026 14:36:56 GMT | When JWT Is Not Enough: Why Valid Tokens Still Fail in Modern Systems | Shwetha Narayan | [Read More](https://medium.com/p/8414bb654b47) |
+| Sun, 29 Mar 2026 14:36:38 GMT | How Logster Uses eBPF for Kernel-Level Threat Detection | Eman Khalid | [Read More](https://medium.com/p/16205e842d05) |
+| Sun, 29 Mar 2026 14:34:14 GMT | TryHackMe-Room2-Defensive Security Intro | Hafsa Sarfraz | [Read More](https://medium.com/p/945c4a7bc6fc) |
+| Sun, 29 Mar 2026 14:30:52 GMT | India’s Cyber Guardian: How CERT-In is Protecting the Nation’s Digital Future | Creativeyouth26 | [Read More](https://medium.com/p/064245e9c2ef) |
+| Sun, 29 Mar 2026 14:30:21 GMT | DLL Injection:  How Code Hijacks Trusted Processes | Vishwas Adhikari | [Read More](https://medium.com/p/8b36e6f0d8d2) |
+| Sun, 29 Mar 2026 14:28:51 GMT | What Happens When You Sign Up With Your Real Email on Random Websites | BumbleBEE | [Read More](https://medium.com/p/21feb6fd6f5f) |
+| Sun, 29 Mar 2026 14:28:12 GMT | Beyond Recon: Using AI for Real Exploitation in Pentesting | Serhat ÇİÇEK | [Read More](https://medium.com/p/2791416e4ebd) |
+| Sun, 29 Mar 2026 14:25:37 GMT | Google Chrome Full Power Unlock - ২১ Super Useful Hidden Features - “Why didn’t I know these… | Ruher_Safar_Tech | [Read More](https://medium.com/p/2acef1afd1c1) |
+| Sun, 29 Mar 2026 14:23:26 GMT | The Biggest Lie in Bug Bounty Tutorials | Vivek PS | [Read More](https://medium.com/p/4727df5b8cfb) |
+| Sun, 29 Mar 2026 14:17:11 GMT | Wayback Machine | Anonymousd | [Read More](https://medium.com/p/2ac94876a1e1) |
+| Sun, 29 Mar 2026 14:14:15 GMT | Hashgate — picoCTF 2026 | Ayman Hany | [Read More](https://medium.com/p/0d5e03af8a7a) |
+| Sun, 29 Mar 2026 14:09:11 GMT | Top Challenges in Delivery Centre Security and How to Overcome Them | Kirti Labs | [Read More](https://medium.com/p/61fd1f2d7078) |
+| Sun, 29 Mar 2026 14:01:04 GMT | I Built a Phone Security App in One Day That Catches Intruders Red-Handed — Here’s How | Likhith Garapati | [Read More](https://medium.com/p/b4a9cc92b2ac) |
 | Sun, 29 Mar 2026 13:55:03 GMT | How a Switch Learns MAC Addresses and Creates a CAM Table: A Deep Dive | Suresh Bhanuka | [Read More](https://medium.com/p/811bb6e5a22f) |
 | Sun, 29 Mar 2026 13:53:48 GMT | The Secret Life of DLLs: Memory, Modules, and Address Resolution | Vishwas Adhikari | [Read More](https://medium.com/p/852f02eec24f) |
 | Sun, 29 Mar 2026 13:49:43 GMT | Mariah Rucker Verified Multidisciplinary Career. | Mariah Rucker | [Read More](https://medium.com/p/32587996fbca) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 07:38:07 GMT | Opus Has Been Dethroned — Meet the AI That Even Anthropic Is Afraid to Release | Dinmay kumar Brahma | [Read More](https://medium.com/p/76803c6893f4) |
 | Sun, 29 Mar 2026 07:36:07 GMT | Exploiting SQL Injection on DVWA — From Beginner to Blind | Akshaysuresh | [Read More](https://medium.com/p/50c585534dd0) |
 | Sun, 29 Mar 2026 07:36:01 GMT | The Dangerous Truth About Women Over 40 Who Can’t Support Themselves | Quentina | [Read More](https://medium.com/p/7d4a494b1416) |
-| Sun, 29 Mar 2026 07:33:08 GMT | AI Security 101: Why Your Product Team Needs to Care Now | Vaibhav Tiwari | [Read More](https://medium.com/p/aaaa2b58daa5) |
-| Sun, 29 Mar 2026 07:31:54 GMT | Securing Belongings in U-Haul Trucks During Cross-Country Moves: Overnight Parking Solutions | Olivia Davis | [Read More](https://medium.com/p/3469bf07018c) |
-| Sun, 29 Mar 2026 07:21:23 GMT | The Smart Home Revolution in Oman: How Local Companies Are Transforming the Way We Live | hardin s | [Read More](https://medium.com/p/bb1e452aabe2) |
-| Sun, 29 Mar 2026 07:19:55 GMT | Surviving the AWS OpenSearch TLS Upgrade: How to Update, What Breaks, and the “Escape Hatch” | Shubham Aggarwal | [Read More](https://medium.com/p/59c01cbb5811) |
-| Sun, 29 Mar 2026 07:17:38 GMT | Expanse Surveyor: Dead-Drop C2 & Silent Data Exfiltration | Ritesh Ekbote | [Read More](https://medium.com/p/13bfb13dda11) |
-| Sun, 29 Mar 2026 07:16:03 GMT | TryHackMe — Threat Intelligence Tools Walkthrough with Screenshots & Answers | Sadnan Saquif | [Read More](https://medium.com/p/c77c45da6ace) |
-| Sun, 29 Mar 2026 07:07:48 GMT | Zero Trust Security Reference Architecture for Agentic AI | Praveen Karunakaran CISS, CISSP-ISSAP, CCSP. CISM | [Read More](https://medium.com/p/f8b3d4ba88b6) |
-| Sun, 29 Mar 2026 07:07:36 GMT | How I Turn Recon Into Real Bug Bounty Reports | ghostyjoe | [Read More](https://medium.com/p/daa77e9cbedc) |
-| Sun, 29 Mar 2026 07:04:18 GMT | The FBI Director Was Just Hacked: Inside the Handala Cyber Warfare Offensive | Aaron | [Read More](https://medium.com/p/aab3648db0ec) |
-| Sun, 29 Mar 2026 07:01:15 GMT | ️Log Injection & sshguard Bypass in pfSense 2.8.0 — A Security Analysis | Meghnine Islem | [Read More](https://medium.com/p/80334c56c496) |
-| Sun, 29 Mar 2026 06:59:27 GMT | LiteLLM Supply Chain Attack: 3 Million Developers Got Backdoored in 3 Hours | Abhi | [Read More](https://medium.com/p/f9a665efc680) |
-| Sun, 29 Mar 2026 06:49:08 GMT | What I Look for After httpx | ghostyjoe | [Read More](https://medium.com/p/a462dc0c649c) |
-| Sun, 29 Mar 2026 06:45:50 GMT | picoCTF Writeup — Undo Challenge (Linux Transformations Walkthrough)  Overview | Ali Hasil | [Read More](https://medium.com/p/09d26d219e39) |
-| Sun, 29 Mar 2026 06:37:27 GMT | If You’re Starting Cyber Security, Start With These 5 Tools | MilanGiri Gosai | [Read More](https://medium.com/p/10e12f8df7be) |
-| Sun, 29 Mar 2026 06:36:51 GMT | How I Made $1,200 by Finding a Hidden XSS in a “Secure” Web App (Full Walkthrough) | Sukhveer Singh | [Read More](https://medium.com/p/77fa787d06b2) |
