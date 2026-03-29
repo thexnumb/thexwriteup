@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 21:24:46 GMT | Sign of cheating man | Michael Parks | [Read More](https://medium.com/p/e4959969f8f9) |
+| Sun, 29 Mar 2026 21:20:07 GMT | Manus AI: Hidden Telemetry, Proxied APIs, and the Irony of a Security Tool That Spied on Its Own… | H3k | [Read More](https://medium.com/p/9a34fe0a3090) |
+| Sun, 29 Mar 2026 20:56:00 GMT | Microsoft Just Killed WDS for Windows 11 & Server 2025 Over a Critical RCE | Sohan Kanna | [Read More](https://medium.com/p/948322066fea) |
+| Sun, 29 Mar 2026 20:50:10 GMT | What Are Some Legitimate Recovery Companies That Help Victims Of Investment Scams To Recover Their… | Steve Wright | [Read More](https://medium.com/p/1197d7633a3a) |
+| Sun, 29 Mar 2026 20:45:41 GMT | Building a Jailbroken iOS 26 VM for Penetration Testing on Apple Silicon | Sunain | [Read More](https://medium.com/p/e18147be8626) |
+| Sun, 29 Mar 2026 20:36:30 GMT | LLM Pentesting on AWS: A Practical Offensive Security Playbook for Bedrock-Centric Stacks | Ali Murat Tava | [Read More](https://medium.com/p/0d1c565b4b51) |
+| Sun, 29 Mar 2026 20:36:11 GMT | XSS (Cross-Site Scripting) | Mevlüt Kamalı | [Read More](https://medium.com/p/5b1336c80c32) |
+| Sun, 29 Mar 2026 20:34:49 GMT | Persistence via Startup Directory | S12 - 0x12Dark Development | [Read More](https://medium.com/p/3202a7a8c0ed) |
 | Sun, 29 Mar 2026 20:22:51 GMT | Anthropic, Claude Mythos et l’échec des belles promesses sur l’IA | Frederic LOHBRUNNER | [Read More](https://medium.com/p/6b9407ddcf4b) |
 | Sun, 29 Mar 2026 20:20:53 GMT | Solución CTF — Startup | SatoBlack | [Read More](https://medium.com/p/21d8885af448) |
 | Sun, 29 Mar 2026 20:20:43 GMT | My Week 6 Takeaways from “Begin Ethical Hacking with Python” by Sanjib Sinha(Final Part) | Kalkidan | [Read More](https://medium.com/p/d673ce01225f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 14:36:38 GMT | How Logster Uses eBPF for Kernel-Level Threat Detection | Eman Khalid | [Read More](https://medium.com/p/16205e842d05) |
 | Sun, 29 Mar 2026 14:34:14 GMT | TryHackMe-Room2-Defensive Security Intro | Hafsa Sarfraz | [Read More](https://medium.com/p/945c4a7bc6fc) |
 | Sun, 29 Mar 2026 14:30:52 GMT | India’s Cyber Guardian: How CERT-In is Protecting the Nation’s Digital Future | Creativeyouth26 | [Read More](https://medium.com/p/064245e9c2ef) |
-| Sun, 29 Mar 2026 14:30:21 GMT | DLL Injection:  How Code Hijacks Trusted Processes | Vishwas Adhikari | [Read More](https://medium.com/p/8b36e6f0d8d2) |
-| Sun, 29 Mar 2026 14:28:51 GMT | What Happens When You Sign Up With Your Real Email on Random Websites | BumbleBEE | [Read More](https://medium.com/p/21feb6fd6f5f) |
-| Sun, 29 Mar 2026 14:28:12 GMT | Beyond Recon: Using AI for Real Exploitation in Pentesting | Serhat ÇİÇEK | [Read More](https://medium.com/p/2791416e4ebd) |
-| Sun, 29 Mar 2026 14:25:37 GMT | Google Chrome Full Power Unlock - ২১ Super Useful Hidden Features - “Why didn’t I know these… | Ruher_Safar_Tech | [Read More](https://medium.com/p/2acef1afd1c1) |
-| Sun, 29 Mar 2026 14:23:26 GMT | The Biggest Lie in Bug Bounty Tutorials | Vivek PS | [Read More](https://medium.com/p/4727df5b8cfb) |
-| Sun, 29 Mar 2026 14:17:11 GMT | Wayback Machine | Anonymousd | [Read More](https://medium.com/p/2ac94876a1e1) |
-| Sun, 29 Mar 2026 14:14:15 GMT | Hashgate — picoCTF 2026 | Ayman Hany | [Read More](https://medium.com/p/0d5e03af8a7a) |
-| Sun, 29 Mar 2026 14:09:11 GMT | Top Challenges in Delivery Centre Security and How to Overcome Them | Kirti Labs | [Read More](https://medium.com/p/61fd1f2d7078) |
