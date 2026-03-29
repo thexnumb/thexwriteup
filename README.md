@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 08:39:34 GMT | Exploit Dev Notes Part 1 : How I Finally Understood Buffer Overflow | Misfit | [Read More](https://medium.com/p/fba8c578e63e) |
+| Sun, 29 Mar 2026 08:34:18 GMT | A Practical Guide to Bug Hunting with Tools & Command-Line Automation | Monika sharma | [Read More](https://medium.com/p/0d4bc3b98f9b) |
+| Sun, 29 Mar 2026 08:31:46 GMT | How to Translate Bug Impact into Business Risk | Abhishek meena | [Read More](https://medium.com/p/50d6efe525d7) |
+| Sun, 29 Mar 2026 08:26:28 GMT | The Ghost in the Wire: How Attackers Intercept Your Data Without You Ever Knowing | Crispusadrian | [Read More](https://medium.com/p/8eb77b8586e7) |
+| Sun, 29 Mar 2026 08:19:20 GMT | From IPA to Exploit: The Complete Offensive Methodology for iOS Application Testing — Part 1 | Shubham Gupta | [Read More](https://medium.com/p/50d0ee48835a) |
+| Sun, 29 Mar 2026 08:16:02 GMT | Intel in a nutshell. | Mohammed Brückner | [Read More](https://medium.com/p/6ec96e823380) |
+| Sun, 29 Mar 2026 08:11:50 GMT | Building a Production-Ready DevSecOps Pipeline on AWS (EKS + Jenkins + Trivy + SonarQube) | Shivani Kumari @CloudDevOps Engineer | [Read More](https://medium.com/p/12f60a5d711a) |
+| Sun, 29 Mar 2026 08:01:00 GMT | The Model That Leaked Itself: Anthropic’s Claude Mythos and the Cybersecurity Stocks It Rattled | MayhemCode | [Read More](https://medium.com/p/0aee52aa2dac) |
+| Sun, 29 Mar 2026 07:59:18 GMT | This past week offered me a deeper, more practical perspective on cybersecurity and what it truly… | Ghai Mach | [Read More](https://medium.com/p/d0eaeb4490ed) |
+| Sun, 29 Mar 2026 07:55:40 GMT | Top Skills You Gain from Linux Training Explained in Detail | cyber security Updates | [Read More](https://medium.com/p/ca5aa0d470e0) |
+| Sun, 29 Mar 2026 07:52:35 GMT | AI Can Write Your Code — But It Can’t Secure It (Yet) | Developwithkrishn | [Read More](https://medium.com/p/e8c00a17e2ce) |
+| Sun, 29 Mar 2026 07:48:28 GMT | What is Endpoint Security? (And Why Most Growing Businesses Ignore It Until It’s Too Late) | NILESH GOSWAMI | [Read More](https://medium.com/p/749c2c987ef9) |
+| Sun, 29 Mar 2026 07:40:35 GMT | SECURITY SHOULD NOT BE OPTIONAL. | NanoChain | [Read More](https://medium.com/p/4de3274e6c62) |
 | Sun, 29 Mar 2026 07:38:07 GMT | Opus Has Been Dethroned — Meet the AI That Even Anthropic Is Afraid to Release | Dinmay kumar Brahma | [Read More](https://medium.com/p/76803c6893f4) |
 | Sun, 29 Mar 2026 07:36:07 GMT | Exploiting SQL Injection on DVWA — From Beginner to Blind | Akshaysuresh | [Read More](https://medium.com/p/50c585534dd0) |
 | Sun, 29 Mar 2026 07:36:01 GMT | The Dangerous Truth About Women Over 40 Who Can’t Support Themselves | Quentina | [Read More](https://medium.com/p/7d4a494b1416) |
@@ -101,16 +114,3 @@ That Compute Is Valuable | Senaaravichandran A | [Read More](https://medium.com/
 | Sat, 28 Mar 2026 22:02:13 GMT | Best Firewall for Small Business in 2026: Expert Guide to Network Security | Game With Life | [Read More](https://medium.com/p/dfc775e30f03) |
 | Sat, 28 Mar 2026 21:58:25 GMT | I Tracked 7,381 Cyber Attacks in 30 Days. | Before The Curve | [Read More](https://medium.com/p/c0963d5f3ead) |
 | Sat, 28 Mar 2026 21:55:24 GMT | Building Safe AI Agents — Implementing Security Guard using Microsoft Agent Framework’s Safety… | Sai Nitesh Palamakula | [Read More](https://medium.com/p/733f02d6008f) |
-| Sat, 28 Mar 2026 21:51:00 GMT | $210 Bounty — The Ghost in the API: How I Scraped “Deleted” Users (And Survived a 2-Month Triage… | Zer0Figure | [Read More](https://medium.com/p/f77daafcc6fe) |
-| Sat, 28 Mar 2026 21:34:31 GMT | TryHackMe — Threat Intelligence Tools Walkthrough with answers | Marc-André Poulin | [Read More](https://medium.com/p/36bd0a6b575a) |
-| Sat, 28 Mar 2026 21:33:42 GMT | I Compared AI, Data, and Cybersecurity — One Clearly Wins | Bonface Juma - Career Transition Expert & Writer | [Read More](https://medium.com/p/82d3e97bc20a) |
-| Sat, 28 Mar 2026 21:16:50 GMT | Add Pre-Signature Policy Enforcement to AWS KMS Signing in 10 Minutes | Heartlin Machado | [Read More](https://medium.com/p/275a04efc642) |
-| Sat, 28 Mar 2026 21:14:46 GMT | Google Confirms High-Risk Update For 3.5 Billion Chrome Users | Moni | [Read More](https://medium.com/p/e91ee6def979) |
-| Sat, 28 Mar 2026 21:08:47 GMT | Apple Home Key vs. UniFi Touch Pass: A Deep Technical Breakdown of How Your Phone Unlocks Doors | Dipak Parmar | [Read More](https://medium.com/p/e9823e450dc3) |
-| Sat, 28 Mar 2026 21:05:28 GMT | OverTheWire Bandit Walkthrough for Beginners Part 1: Levels 0–1 | Bhumijofficial | [Read More](https://medium.com/p/d9051e70c862) |
-| Sat, 28 Mar 2026 20:51:00 GMT | $STRK at Risk: Why Dismissing Security Reports as “AI Slop” is a Critical Mistake | rdin777 | [Read More](https://medium.com/p/3838f2b13b47) |
-| Sat, 28 Mar 2026 20:48:26 GMT | Fedora Linux Ships With an Ultra-Powerful Tool Most People Never Even Open | Rayhanuddinkhan | [Read More](https://medium.com/p/f9e6424d600f) |
-| Sat, 28 Mar 2026 20:39:54 GMT | Knife Machine — HackTheBox Writeup | William Shively | [Read More](https://medium.com/p/cc8600ce3328) |
-| Sat, 28 Mar 2026 20:39:38 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 1 | Vanshaj Kumar | [Read More](https://medium.com/p/c9611a1a3814) |
-| Sat, 28 Mar 2026 20:38:54 GMT | This Is Why Nothing Changes in Nigeria — Even When We Think It Will | Calvin | [Read More](https://medium.com/p/861ea905057c) |
-| Sat, 28 Mar 2026 20:20:22 GMT | Centralizing OCI Service Access: A Hybrid PSA + HAProxy Architecture for Enterprise Environments | Alessandro Moccia | [Read More](https://medium.com/p/a9940795adab) |
