@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 09:22:44 GMT | Volume 2, Post 8: Hunting for Information Leaks & Secrets (The Art of Digital Scavenging) | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/b7f6ffbd1e76) |
+| Sun, 29 Mar 2026 09:11:50 GMT | From Curious Student to Cyber Security Explorer | Karen | [Read More](https://medium.com/p/ea34ec46be9a) |
+| Sun, 29 Mar 2026 09:09:59 GMT | From Kali Labs to Real-World Threats: Why One Click on an Unofficial Download Can Hand Over Your… | Mordecai Corey Kwezi | [Read More](https://medium.com/p/93ce8e99dd2b) |
+| Sun, 29 Mar 2026 09:08:59 GMT | Guys pls a question:my MetaMask wallet holds 5,850. USDT, and I have the 12 seed phrase: | Jina | [Read More](https://medium.com/p/c5a8b3144270) |
+| Sun, 29 Mar 2026 09:06:00 GMT | HackTheBox Mobile Exploitation Series — Machine 2 “Manager” | Jananimahalakshmi | [Read More](https://medium.com/p/ae5fac49ee88) |
+| Sun, 29 Mar 2026 09:03:54 GMT | I Built a Clipboard Manager for Linux with AES-256 Encryption | freerave | [Read More](https://medium.com/p/1a08c0bdb1ae) |
+| Sun, 29 Mar 2026 09:03:13 GMT | Midnight Flag CTF Writeups (Forensics, Web3, Crypto, Reverse) | Shoaib Bin Rashid | [Read More](https://medium.com/p/9e8e49e36153) |
+| Sun, 29 Mar 2026 08:59:11 GMT | SSH Log Analysis: Detecting Brute-Force Attacks Using Splunk | Beetea Soc | [Read More](https://medium.com/p/949424014cd9) |
+| Sun, 29 Mar 2026 08:57:26 GMT | FTP Log Analysis Using Splunk | suraj | [Read More](https://medium.com/p/cd0f6dd829f8) |
+| Sun, 29 Mar 2026 08:55:26 GMT | 7 Wireshark Filters That Instantly Make You Look Like a Network Expert | Fateyaly | [Read More](https://medium.com/p/63791284578d) |
+| Sun, 29 Mar 2026 08:55:16 GMT | What If AI Came to You? | Zsearchai | [Read More](https://medium.com/p/ab52303b04bb) |
+| Sun, 29 Mar 2026 08:52:49 GMT | How the Dark Web Continues to Enable Serious Crimes — and Why Anonymity Is Not Absolute | Hacksgreek | [Read More](https://medium.com/p/7e043b39101c) |
+| Sun, 29 Mar 2026 08:49:26 GMT | Introductions | Charmaine Coleman | [Read More](https://medium.com/p/d984d680a31d) |
+| Sun, 29 Mar 2026 08:45:17 GMT | Wazuh & Apache: Web Saldırıları Simülasyonu ve Analizi | Mustafa Mansur Mamus | [Read More](https://medium.com/p/3d8267ffec3a) |
 | Sun, 29 Mar 2026 08:39:34 GMT | Exploit Dev Notes Part 1 : How I Finally Understood Buffer Overflow | Misfit | [Read More](https://medium.com/p/fba8c578e63e) |
 | Sun, 29 Mar 2026 08:34:18 GMT | A Practical Guide to Bug Hunting with Tools & Command-Line Automation | Monika sharma | [Read More](https://medium.com/p/0d4bc3b98f9b) |
 | Sun, 29 Mar 2026 08:31:46 GMT | How to Translate Bug Impact into Business Risk | Abhishek meena | [Read More](https://medium.com/p/50d6efe525d7) |
@@ -100,17 +114,3 @@ That Compute Is Valuable | Senaaravichandran A | [Read More](https://medium.com/
 | Sat, 28 Mar 2026 23:37:53 GMT | Arbitrary Process Termination via Vulnerable Driver: BYOVD Advanced Nim Edition with Full In-Memory… | Mr_MalMan | [Read More](https://medium.com/p/9ac0a4139a5c) |
 | Sat, 28 Mar 2026 23:32:30 GMT | Ottergram (XSS) Bugforge (Live Stream) | 7s26Simon | [Read More](https://medium.com/p/7983f06fdb6c) |
 | Sat, 28 Mar 2026 23:31:51 GMT | C2 Agent Communication: Explaining How My Agents Work | Tyreek Haynes | [Read More](https://medium.com/p/0c9168152139) |
-| Sat, 28 Mar 2026 23:07:56 GMT | PortSwigger Lab Write-up: Bypassing Brute-Force Protection via JSON Arrays | GhostX_101 | [Read More](https://medium.com/p/e23b1dc4abee) |
-| Sat, 28 Mar 2026 23:06:00 GMT | Why “Free” Online Tools Are Costing You More Than You Realize | Mark | [Read More](https://medium.com/p/28ec7f6add7e) |
-| Sat, 28 Mar 2026 23:05:48 GMT | Inside njRAT: A Static Analysis of One of the Most Persistent RATs in the Wild | Khush Pachani | [Read More](https://medium.com/p/79793eebeb7c) |
-| Sat, 28 Mar 2026 23:03:58 GMT | Deploying IAM Technologies. | Albert Jones - CISM | [Read More](https://medium.com/p/ae445c2324d5) |
-| Sat, 28 Mar 2026 22:55:44 GMT | The log that cried wolf! | Aboelrous | [Read More](https://medium.com/p/8055b5809bf9) |
-| Sat, 28 Mar 2026 22:44:55 GMT | Nine AI Agents, Three Attack Teams, Zero Breakthroughs: What Swarm Pressure Taught Me About AI… | Selfradiance | [Read More](https://medium.com/p/17071abc547d) |
-| Sat, 28 Mar 2026 22:43:08 GMT | PicoCTF Writeup — Absolute Nano | Aman Barolia | [Read More](https://medium.com/p/16154388aa45) |
-| Sat, 28 Mar 2026 22:33:16 GMT | Building a Bitcoin-Native Pay-Per-Call API Gateway with Ark and Bark | PiHiker | [Read More](https://medium.com/p/4c21a7e956b6) |
-| Sat, 28 Mar 2026 22:27:53 GMT | Insecure Deeplinks and Intent Hijacking - When a Malicious App on the Same Device Intercepts Your… | Rufus Kehinde | [Read More](https://medium.com/p/1bf394b4863b) |
-| Sat, 28 Mar 2026 22:21:22 GMT | Hacking Isn’t What You Think… | Francis Precious Wagonda | [Read More](https://medium.com/p/3a2422058574) |
-| Sat, 28 Mar 2026 22:10:26 GMT | OS Command Injection Vulnerability | ANXS3C | [Read More](https://medium.com/p/1a2b7b6dd4a3) |
-| Sat, 28 Mar 2026 22:02:13 GMT | Best Firewall for Small Business in 2026: Expert Guide to Network Security | Game With Life | [Read More](https://medium.com/p/dfc775e30f03) |
-| Sat, 28 Mar 2026 21:58:25 GMT | I Tracked 7,381 Cyber Attacks in 30 Days. | Before The Curve | [Read More](https://medium.com/p/c0963d5f3ead) |
-| Sat, 28 Mar 2026 21:55:24 GMT | Building Safe AI Agents — Implementing Security Guard using Microsoft Agent Framework’s Safety… | Sai Nitesh Palamakula | [Read More](https://medium.com/p/733f02d6008f) |
