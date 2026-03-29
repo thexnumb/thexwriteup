@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 22:26:56 GMT | Third-Party SDK Supply Chain Risk - The Security Vulnerability You Imported Without Knowing | Rufus Kehinde | [Read More](https://medium.com/p/b8ca571e4093) |
+| Sun, 29 Mar 2026 22:20:39 GMT | I Got Tired of Gmail’s Fake Encryption — So I Built My Own | Alain Picard | [Read More](https://medium.com/p/91fe32fc0687) |
+| Sun, 29 Mar 2026 22:14:42 GMT | Jacko windowsWalkthrough (Proving Ground -OSCP) | cyber_public_school | [Read More](https://medium.com/p/b944aa5a20eb) |
+| Sun, 29 Mar 2026 22:02:00 GMT | Spy on a cheating spouse | Michael Parks | [Read More](https://medium.com/p/d4f7f1559732) |
+| Sun, 29 Mar 2026 22:01:00 GMT | The road to agentic AI | DiUS | [Read More](https://medium.com/p/866db570e0f6) |
+| Sun, 29 Mar 2026 21:54:33 GMT | Account Takeover via Old Password Reset Link (A Critical Security Flaw) | Umer Yousuf | [Read More](https://medium.com/p/1e00072f7a80) |
+| Sun, 29 Mar 2026 21:53:01 GMT | Houthi forces enter Iran conflict with missile attacks on Israeli military sites | KoranDunia | [Read More](https://medium.com/p/27918bae6f53) |
+| Sun, 29 Mar 2026 21:50:14 GMT | Pornhub Got Hacked. 200 Million Viewing Histories Leaked. Here’s What Was Exposed. | o a (Oarcom) | [Read More](https://medium.com/p/afce9cf8ac23) |
+| Sun, 29 Mar 2026 21:49:53 GMT | LAN Security: CDP Attack & Mitigation | Ahmed Eid Mohammed | [Read More](https://medium.com/p/500aa2bd6061) |
+| Sun, 29 Mar 2026 21:41:57 GMT | Stop Running Tools. Start Thinking Like an Operator. | Jesse Ridley | [Read More](https://medium.com/p/c3c3d6777d8c) |
 | Sun, 29 Mar 2026 21:24:46 GMT | Sign of cheating man | Michael Parks | [Read More](https://medium.com/p/e4959969f8f9) |
 | Sun, 29 Mar 2026 21:20:07 GMT | Manus AI: Hidden Telemetry, Proxied APIs, and the Irony of a Security Tool That Spied on Its Own… | H3k | [Read More](https://medium.com/p/9a34fe0a3090) |
 | Sun, 29 Mar 2026 20:56:00 GMT | Microsoft Just Killed WDS for Windows 11 & Server 2025 Over a Critical RCE | Sohan Kanna | [Read More](https://medium.com/p/948322066fea) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 15:13:52 GMT | How Russia’s Dual-Use Cyber Infrastructure Fuels a Destructive Shadow War | SIMKRA | [Read More](https://medium.com/p/7acbbeaa2dc2) |
 | Sun, 29 Mar 2026 15:13:29 GMT | Why Post-training quizzes Improve Information Retention | Suj | [Read More](https://medium.com/p/27b2d7e8152e) |
 | Sun, 29 Mar 2026 15:12:03 GMT | Anthropic’s Claude Mythos Leak: Why This Secret AI Model Changes Cybersecurity, AI Safety, and… | TONI RAMCHANDANI | [Read More](https://medium.com/p/3009e475facb) |
-| Sun, 29 Mar 2026 15:07:50 GMT | Building a C2 on AWS: Lessons Learned the Hard Way | Tyreek Haynes | [Read More](https://medium.com/p/1c13f7b3dc5b) |
-| Sun, 29 Mar 2026 15:06:00 GMT | Career Paths in Software Engineering | Dulitha Samadith | [Read More](https://medium.com/p/4e1eb80ee84b) |
-| Sun, 29 Mar 2026 14:58:28 GMT | I Built a Read-Only kubectl So AI Agents Can’t Break My Cluster | Mustafa Veysi Soyvural | [Read More](https://medium.com/p/7d40ee820f4a) |
-| Sun, 29 Mar 2026 14:53:03 GMT | “You don’t need to learn programming anymore” — Reality Check from a CTO | Muhammadali Shaduli | [Read More](https://medium.com/p/e908b544720f) |
-| Sun, 29 Mar 2026 14:43:19 GMT | Windows Defender Bypass in 2026 with Rust PELoader | Yua Mikanana | [Read More](https://medium.com/p/ab9176c8b5ea) |
-| Sun, 29 Mar 2026 14:38:55 GMT | Detecting PureLog Stealer Campaigns with Wazuh Rules | Oliver Roca | [Read More](https://medium.com/p/474b6b650040) |
-| Sun, 29 Mar 2026 14:36:56 GMT | When JWT Is Not Enough: Why Valid Tokens Still Fail in Modern Systems | Shwetha Narayan | [Read More](https://medium.com/p/8414bb654b47) |
-| Sun, 29 Mar 2026 14:36:38 GMT | How Logster Uses eBPF for Kernel-Level Threat Detection | Eman Khalid | [Read More](https://medium.com/p/16205e842d05) |
-| Sun, 29 Mar 2026 14:34:14 GMT | TryHackMe-Room2-Defensive Security Intro | Hafsa Sarfraz | [Read More](https://medium.com/p/945c4a7bc6fc) |
-| Sun, 29 Mar 2026 14:30:52 GMT | India’s Cyber Guardian: How CERT-In is Protecting the Nation’s Digital Future | Creativeyouth26 | [Read More](https://medium.com/p/064245e9c2ef) |
