@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 29 Mar 2026 10:24:54 GMT | Suspicious PowerShell Execution — Full Incident Report | Bishu Biswas | [Read More](https://medium.com/p/ff37af26cb6b) |
+| Sun, 29 Mar 2026 10:24:29 GMT | The Entropy Squeeze: Mapping 256-bit Cryptographic Hashes to 8-Digit OTPs | 周伟 | [Read More](https://medium.com/p/cc6a407c037a) |
+| Sun, 29 Mar 2026 10:22:23 GMT | If Your Company Gets Hit by a Cyberattack, Can It Get Back Up? | Superasystem Inc. | [Read More](https://medium.com/p/dd1fc1050553) |
+| Sun, 29 Mar 2026 10:21:30 GMT | What is an API? A Beginner-Friendly Guide | Anwesha Bhattacharya | [Read More](https://medium.com/p/4f2daca6fe3a) |
+| Sun, 29 Mar 2026 10:20:00 GMT | From OSCP Prep to HTB CPTS: How I Conquered the Exam in 7 Days | Rahul Singh Chauhan | [Read More](https://medium.com/p/350b6f692bd5) |
+| Sun, 29 Mar 2026 10:16:00 GMT | We build AI systems for a living. | Technovate Global | [Read More](https://medium.com/p/febd907b6a19) |
+| Sun, 29 Mar 2026 10:15:36 GMT | OWASP Top 10 for LLMs: What Every Beginner in AI & Cybersecurity Must Know | Yamini Yadav_369 | [Read More](https://medium.com/p/4e83729725f6) |
+| Sun, 29 Mar 2026 10:01:01 GMT | Turning Points from Our Latest Cybersecurity Cohort | Victoria Coker | [Read More](https://medium.com/p/dcf0273f0563) |
+| Sun, 29 Mar 2026 09:57:22 GMT | HTB DFIR Sherlock: WorkFromHome | WildPasta | [Read More](https://medium.com/p/c16282b0bd0f) |
+| Sun, 29 Mar 2026 09:56:56 GMT | Learning HTML, BootStrap and CSS-Trevon Maina Kiragu | Kiragutrevon | [Read More](https://medium.com/p/cece37c37cb2) |
+| Sun, 29 Mar 2026 09:47:21 GMT | Kali Linux: A Heart of Hackers | Othieno David | [Read More](https://medium.com/p/f7bac44db8a6) |
+| Sun, 29 Mar 2026 09:42:43 GMT | Volume 2, Post 9: Automating Recon with Bash Scripting (Building Your Recon Engine) | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/9aa5ac5e34e5) |
+| Sun, 29 Mar 2026 09:36:00 GMT | Why Decision Rights Matter More Than Incident Playbooks | Tyson Martin | [Read More](https://medium.com/p/f0e04a9a4c1b) |
 | Sun, 29 Mar 2026 09:22:44 GMT | Volume 2, Post 8: Hunting for Information Leaks & Secrets (The Art of Digital Scavenging) | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/b7f6ffbd1e76) |
 | Sun, 29 Mar 2026 09:11:50 GMT | From Curious Student to Cyber Security Explorer | Karen | [Read More](https://medium.com/p/ea34ec46be9a) |
 | Sun, 29 Mar 2026 09:09:59 GMT | From Kali Labs to Real-World Threats: Why One Click on an Unofficial Download Can Hand Over Your… | Mordecai Corey Kwezi | [Read More](https://medium.com/p/93ce8e99dd2b) |
@@ -21,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 09:03:13 GMT | Midnight Flag CTF Writeups (Forensics, Web3, Crypto, Reverse) | Shoaib Bin Rashid | [Read More](https://medium.com/p/9e8e49e36153) |
 | Sun, 29 Mar 2026 08:59:11 GMT | SSH Log Analysis: Detecting Brute-Force Attacks Using Splunk | Beetea Soc | [Read More](https://medium.com/p/949424014cd9) |
 | Sun, 29 Mar 2026 08:57:26 GMT | FTP Log Analysis Using Splunk | suraj | [Read More](https://medium.com/p/cd0f6dd829f8) |
+| Sun, 29 Mar 2026 08:56:33 GMT | Hardcoded Credentials — Mobile Apps Security Static Analysis Part I | ./Rey~ | [Read More](https://medium.com/p/0f990ece8664) |
 | Sun, 29 Mar 2026 08:55:26 GMT | 7 Wireshark Filters That Instantly Make You Look Like a Network Expert | Fateyaly | [Read More](https://medium.com/p/63791284578d) |
 | Sun, 29 Mar 2026 08:55:16 GMT | What If AI Came to You? | Zsearchai | [Read More](https://medium.com/p/ab52303b04bb) |
 | Sun, 29 Mar 2026 08:52:49 GMT | How the Dark Web Continues to Enable Serious Crimes — and Why Anonymity Is Not Absolute | Hacksgreek | [Read More](https://medium.com/p/7e043b39101c) |
@@ -100,17 +114,3 @@ That Compute Is Valuable | Senaaravichandran A | [Read More](https://medium.com/
 | Sun, 29 Mar 2026 01:56:18 GMT | Case Study: The PikaBot Infection Chain | Niharika Umrani | [Read More](https://medium.com/p/8a5411be5025) |
 | Sun, 29 Mar 2026 01:46:12 GMT | How to Actually Get a Help Desk Job in 2026 | Jbird | [Read More](https://medium.com/p/48390f6257d9) |
 | Sun, 29 Mar 2026 01:44:50 GMT | What I Learned Building and Running a Platform Protection Program From the Ground Up | Gayatri Nakar | [Read More](https://medium.com/p/005206d6926e) |
-| Sun, 29 Mar 2026 01:39:46 GMT | DevSecOps: Modern Yazılım Geliştirmede Güvenliği Otomatikleştirmek | Yiğit Ataman | [Read More](https://medium.com/p/f2de9222ffdf) |
-| Sun, 29 Mar 2026 01:33:52 GMT | Hosting my next Honeypot on Ubuntu Server | Satyam Pathania | [Read More](https://medium.com/p/6958112c2013) |
-| Sun, 29 Mar 2026 01:32:53 GMT | Four Beginner Web Hacking Vulnerabilities You Need to Learn in 2026 | Shahzaib | [Read More](https://medium.com/p/f26ff8d49c95) |
-| Sun, 29 Mar 2026 01:31:11 GMT | How Primotech is Transforming Businesses as an AI Development Company in India | Primotech | [Read More](https://medium.com/p/e8869eae8a85) |
-| Sun, 29 Mar 2026 01:22:21 GMT | 5 Tool To Build Now in AI Era | MainEkHacker | [Read More](https://medium.com/p/f0a6d1806839) |
-| Sun, 29 Mar 2026 01:01:00 GMT | [The Hangover] Existential Debugging Manual for the Hyper-Logged Era | MonoEssay | [Read More](https://medium.com/p/54994d14d99b) |
-| Sun, 29 Mar 2026 00:57:08 GMT | Making Cowrie Honeypots More Believable | Daniel | [Read More](https://medium.com/p/7c88bab853c1) |
-| Sun, 29 Mar 2026 00:45:48 GMT | The Invariance Medium: A Non-Derived Condition in AI Systems | Supat Charoensappuech | [Read More](https://medium.com/p/ae526ff879f3) |
-| Sun, 29 Mar 2026 00:36:29 GMT | Modifying the Assembly of Binaries and Shellcode for Evasion | lainkusanagi | [Read More](https://medium.com/p/687874c5eb00) |
-| Sun, 29 Mar 2026 00:31:29 GMT | No FA — picoCTF 2026 | Ayman Hany | [Read More](https://medium.com/p/05853d5593bb) |
-| Sun, 29 Mar 2026 00:00:25 GMT | Your Photos Leak Your Address. Here’s How to Stop It. | Blackout VPN | [Read More](https://medium.com/p/efcdf4c504b0) |
-| Sat, 28 Mar 2026 23:37:53 GMT | Arbitrary Process Termination via Vulnerable Driver: BYOVD Advanced Nim Edition with Full In-Memory… | Mr_MalMan | [Read More](https://medium.com/p/9ac0a4139a5c) |
-| Sat, 28 Mar 2026 23:32:30 GMT | Ottergram (XSS) Bugforge (Live Stream) | 7s26Simon | [Read More](https://medium.com/p/7983f06fdb6c) |
-| Sat, 28 Mar 2026 23:31:51 GMT | C2 Agent Communication: Explaining How My Agents Work | Tyreek Haynes | [Read More](https://medium.com/p/0c9168152139) |
