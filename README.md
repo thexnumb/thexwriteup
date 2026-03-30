@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Mar 2026 11:31:00 GMT | When Admin Power Becomes Enterprise Risk | Harper Knox | [Read More](https://medium.com/p/4abf9975b03b) |
+| Mon, 30 Mar 2026 11:22:54 GMT | What the LiteLLM Attack Taught Us: Hardening Our Python Supply Chain Before a Product Release | Ian Jempson | [Read More](https://medium.com/p/388505d8c5c5) |
+| Mon, 30 Mar 2026 11:20:54 GMT | Why Most AI Systems Fail in Production (And How We Built a Zero-Trust Solution) | Sharmila M | [Read More](https://medium.com/p/a7fcbb0ec85e) |
+| Mon, 30 Mar 2026 11:16:58 GMT | Where to Find Reliable Information About BCT Trading: Top Resources for Traders | Nakashimi Rukawa | [Read More](https://medium.com/p/87cbccd7914f) |
+| Mon, 30 Mar 2026 11:16:17 GMT | Security Theatre at Passover | S. Cohen | [Read More](https://medium.com/p/325c0b15405d) |
+| Mon, 30 Mar 2026 11:09:13 GMT | Weaponized Job Offers: From a LinkedIn DM to a Multi-Stage Malware | Mohit Burkule | [Read More](https://medium.com/p/c41b71471422) |
+| Mon, 30 Mar 2026 11:01:01 GMT | CTF Basics: Understanding Password Hashing | Walter Moar | [Read More](https://medium.com/p/7dbd292e2cba) |
+| Mon, 30 Mar 2026 10:52:45 GMT | Laravel Rate Limiting: Why It Matters More Than Most Developers Think | Noureddinezn | [Read More](https://medium.com/p/791729055060) |
+| Mon, 30 Mar 2026 10:50:53 GMT | $14.5B Wiped Out in a Day: A Signal the Cybersecurity Market Can’t Ignore | Periscope Tech | [Read More](https://medium.com/p/9555ed987856) |
+| Mon, 30 Mar 2026 10:48:43 GMT | Mastering Microsoft Technologies for Enterprise Solutions: A Certification-Driven Approach | IPSpecialist | [Read More](https://medium.com/p/11e2694ff037) |
+| Mon, 30 Mar 2026 10:48:25 GMT | How to Build an Enterprise GRC Program at a Nigerian Fintech — From Scratch | Official khaleelajibola | [Read More](https://medium.com/p/9fbaa480944c) |
+| Mon, 30 Mar 2026 10:47:56 GMT | Creating Safer First Impressions: The Story of Professional Concierge Security Services | Grdsnscrt | [Read More](https://medium.com/p/94c08c14b7fb) |
+| Mon, 30 Mar 2026 10:47:54 GMT | Cross Site Scripting (XSS): Real Examples and Security Guide | Application Security Master | [Read More](https://medium.com/p/683875df3cce) |
+| Mon, 30 Mar 2026 10:46:55 GMT | Marketplace Payment Gateways: How Clone App Payments Work | Allclonescript | [Read More](https://medium.com/p/9ed3cfbe059e) |
+| Mon, 30 Mar 2026 10:45:31 GMT | Empowering Clients with Smarter Cloud Monitoring and Self-Service Infrastructure | Gareth Brown | [Read More](https://medium.com/p/fb5873e05f32) |
+| Mon, 30 Mar 2026 10:44:25 GMT | Introduction to Performance Testing: A Beginner’s Guide for QA Engineers | Hafsa Sarfraz | [Read More](https://medium.com/p/cb87fc100c98) |
+| Mon, 30 Mar 2026 10:44:00 GMT | Bir Switch’in Akıllı Olduğunu Sanıyordum — Ta ki SDN Deneyene Kadar | Sabir Süleymanlı | [Read More](https://medium.com/p/55dea85e63a0) |
+| Mon, 30 Mar 2026 10:43:06 GMT | When an LLM Becomes the Logic: Prompt Injection, Stored Injection, and Profile Enumeration in Baudr | Danielelpsy | [Read More](https://medium.com/p/974d7686df0a) |
+| Mon, 30 Mar 2026 10:42:17 GMT | How to Choose the Best Hosting Plan for Your Business? | Ann Taylor | [Read More](https://medium.com/p/d1e3747b0f72) |
+| Mon, 30 Mar 2026 10:39:44 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 2 | Vanshaj Kumar | [Read More](https://medium.com/p/5853d281296c) |
+| Mon, 30 Mar 2026 10:34:00 GMT | How to Leverage TPRM Technology According to Gartner | Oran F | [Read More](https://medium.com/p/aa16141cd91a) |
+| Mon, 30 Mar 2026 10:33:13 GMT | AI Agent Code Execution Sandboxes: Isolation from Containers to MicroVMs | Addo Zhang | [Read More](https://medium.com/p/e80848effea5) |
+| Mon, 30 Mar 2026 10:32:16 GMT | Mitigate Threats and Vulnerabilities with Security Command Center: Challenge Lab | Puy P | [Read More](https://medium.com/p/666cf3168623) |
+| Mon, 30 Mar 2026 10:25:57 GMT | How Virtualization Solutions Drive Zero Trust Adoption | Michael Goldshtein | [Read More](https://medium.com/p/2cddab427070) |
 | Mon, 30 Mar 2026 10:18:05 GMT | Penetration Test Web Application Best Security Guide | Application Security Master | [Read More](https://medium.com/p/715ccf44f129) |
 | Mon, 30 Mar 2026 10:06:28 GMT | Is CISM Certification Worth It in 2026? The Honest Truth | Eliana | [Read More](https://medium.com/p/fa3db3bd7487) |
 | Mon, 30 Mar 2026 10:04:47 GMT | The Invisible Privatisation of Sovereignty. | Felix Heuner | [Read More](https://medium.com/p/6d8566bb814e) |
@@ -28,6 +52,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Mar 2026 09:31:01 GMT | I’ve Been Using VPNs on Public WiFi for Years. I Just Found Out I’ve Been Doing It Wrong. | Ed O. - TechEd Shield - TechEd Publishers | [Read More](https://medium.com/p/407fa9568097) |
 | Mon, 30 Mar 2026 09:23:16 GMT | Bypassing 2FA: When Logic is the Weakest Link | Ayeshaaghafoor | [Read More](https://medium.com/p/47ccd0170b7f) |
 | Mon, 30 Mar 2026 09:22:54 GMT | Third-Party Vendor Attacks Are Now the Dominant Breach Vector — And Cerballiance Just Proved Why… | pranav patil | [Read More](https://medium.com/p/86414ecf7034) |
+| Mon, 30 Mar 2026 09:21:44 GMT | Perkembangan Game Online di Indonesia: Dari Era Warnet hingga Mobile Gaming Modern | Felly4d | [Read More](https://medium.com/p/430f0a2e0850) |
 | Mon, 30 Mar 2026 09:20:36 GMT | Securing Your Assets: Why Alpha Visions is the Best CCTV Supplier in Dubai | Princy Sizcomm | [Read More](https://medium.com/p/a15aee47b5a3) |
 | Mon, 30 Mar 2026 09:19:24 GMT | Nothing Phone (3) Review: The Truth About Its Camera, Battery & Performance Will Surprise You | techcirclehub | [Read More](https://medium.com/p/973a3cbb1d10) |
 | Mon, 30 Mar 2026 09:16:22 GMT | Cracking the Code: A Hands-On Guide to Username Enumeration & Password Brute-Forcing | Ayeshaaghafoor | [Read More](https://medium.com/p/6fe8c6acca26) |
@@ -89,28 +114,3 @@ We’ve Known Since 1994. | bitsofmannn | [Read More](https://medium.com/p/2b19b
 | Mon, 30 Mar 2026 06:04:03 GMT | Prompt Injection in Microsoft 365 Copilot: What EchoLeak Revealed | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/3770f535b2eb) |
 | Mon, 30 Mar 2026 06:01:28 GMT | Trust Is the Biggest Vulnerability in Your System | Devarshi Acharya | [Read More](https://medium.com/p/2bb25e9eb8ba) |
 | Mon, 30 Mar 2026 05:51:46 GMT | How I Started Learning Cybersecurity (Beginner Journey) | Riya Limba | [Read More](https://medium.com/p/79480b5265c1) |
-| Mon, 30 Mar 2026 05:50:11 GMT | How a Network Switch Gets Smart: The Secret of MAC Addresses and CAM Tables | Pkaumini | [Read More](https://medium.com/p/ccefe07c615f) |
-| Mon, 30 Mar 2026 05:46:19 GMT | Understanding Ports and Protocols in Cybersecurity | Rohitreddy | [Read More](https://medium.com/p/39dd4ba2f89c) |
-| Mon, 30 Mar 2026 05:27:51 GMT | Protecting Digital Businesses from Distributed Denial of Service Attacks: SPARK Matrix | Gauri Kale | [Read More](https://medium.com/p/407294fe97c6) |
-| Mon, 30 Mar 2026 05:23:01 GMT | I Used Claude Sonnet to Attack GPT-4.1 — Here’s What Leaked | Pratyush Anjan Sarangi | [Read More](https://medium.com/p/af183bb2caf4) |
-| Mon, 30 Mar 2026 05:19:55 GMT | Security and Compliance in Web Development: Minimizing Business Risk | Wings Design Studio | [Read More](https://medium.com/p/0f2ec42772b4) |
-| Mon, 30 Mar 2026 05:16:17 GMT | SPARK Matrix™: Identity Fabric | Umangp | [Read More](https://medium.com/p/540a6e9e70a8) |
-| Mon, 30 Mar 2026 05:14:56 GMT | Introduction to Ethical Hacking | Kp | [Read More](https://medium.com/p/6b5b95926be3) |
-| Mon, 30 Mar 2026 05:12:15 GMT | Resume Template for Tech Jobs | Kamalika | [Read More](https://medium.com/p/91191a6da155) |
-| Mon, 30 Mar 2026 05:11:23 GMT | Trust Without Identity | sengom | [Read More](https://medium.com/p/6e2ad55a7b91) |
-| Mon, 30 Mar 2026 05:07:52 GMT | Security That Moves With the Data | sengom | [Read More](https://medium.com/p/808af9121c03) |
-| Mon, 30 Mar 2026 05:06:38 GMT | Why Cybersecurity for Australian Small Businesses Can No Longer Be an Afterthought in 2026 | Byte Way | [Read More](https://medium.com/p/162476b484c1) |
-| Mon, 30 Mar 2026 05:04:05 GMT | ประจำวันจันทร์ที่ 30 มีนาคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/f07f934e916f) |
-| Mon, 30 Mar 2026 04:58:31 GMT | No SDK? No Problem: Architecting a Secure Web-to-Mobile Payment Bridge | Jon Colque | [Read More](https://medium.com/p/93e9d6481d90) |
-| Mon, 30 Mar 2026 04:51:52 GMT | Locking Down the World’s Data: Inside the Fast-Growing Data Center Physical Security Market | Arunkumar | [Read More](https://medium.com/p/634fbe04b18d) |
-| Mon, 30 Mar 2026 04:48:31 GMT | Why Automated Vulnerability Scanners Miss Most Real Security Vulnerabilities | Kuboid Secure Layer | [Read More](https://medium.com/p/144696b6b92d) |
-| Mon, 30 Mar 2026 04:44:18 GMT | Fake Websites & Domains: How Scammers Trick You | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/ba4b47dfdfb8) |
-| Mon, 30 Mar 2026 04:41:36 GMT | OverTheWire Bandit Level 2 → 3 Walkthrough (Beginner Friendly Guide) | Naveen kumbhare | [Read More](https://medium.com/p/dd48566161aa) |
-| Mon, 30 Mar 2026 04:40:27 GMT | How to Install and Run Zphisher | Rohith Reddy | [Read More](https://medium.com/p/e33f36c1ff23) |
-| Mon, 30 Mar 2026 04:31:59 GMT | Broken Authentication:How attackers take over accounts | 0xSmit | [Read More](https://medium.com/p/554d90d27fc1) |
-| Mon, 30 Mar 2026 04:31:00 GMT | Dark Web Hunting & Monitoring: A Practical Guide for Pentesters & Red Teamers — Part 2 | Siva Sankar | [Read More](https://medium.com/p/d79fbb475d38) |
-| Mon, 30 Mar 2026 04:27:54 GMT | Beginner’s Guide to Wireshark for Network Analysis — Day 19 | 0xSmit | [Read More](https://medium.com/p/4778488e964b) |
-| Mon, 30 Mar 2026 04:25:01 GMT | What Is CEH and Why Do Companies Ask for It | Navamivs | [Read More](https://medium.com/p/55d1b87ee94b) |
-| Mon, 30 Mar 2026 04:11:05 GMT | VolgaCTF 2026 — Directory - LDAP Injection Writeup | mayhack | [Read More](https://medium.com/p/315a71bded37) |
-| Mon, 30 Mar 2026 04:03:33 GMT | Cyber Security: Staying Safe in a Digital World. | Ahnaf Tahmid Hasan | [Read More](https://medium.com/p/9e2ed68b19b7) |
-| Mon, 30 Mar 2026 03:51:11 GMT | Prompt Injection Is the New SQL Injection: What AppSec Teams Need to Know | Pavan Paidy | [Read More](https://medium.com/p/a8d9d3db1c86) |
