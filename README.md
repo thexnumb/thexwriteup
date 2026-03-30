@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Mar 2026 19:42:48 GMT | Amazon Expands Into Robotics and Chips, Google Tests AI in Space, and OpenAI Retreats From Commerce | Qandeel Akhtar | [Read More](https://medium.com/p/c7079d32b723) |
+| Mon, 30 Mar 2026 19:35:40 GMT | TryHackMe - Vulnerability Scanning Tools - WriteUp | Axoloth | [Read More](https://medium.com/p/e67a128bcfc9) |
+| Mon, 30 Mar 2026 19:31:56 GMT | Cheap Security Cameras Are Sending Your Footage Overseas — Here’s Why | Temma | [Read More](https://medium.com/p/3deb42f9ec61) |
+| Mon, 30 Mar 2026 19:30:35 GMT | Cyber Security Introduction: A Beginner’s Guide to Ethical Hacking, Kali Linux & Basic Commands | Vardhan reddy Dronadula | [Read More](https://medium.com/p/297345656912) |
+| Mon, 30 Mar 2026 19:29:22 GMT | More Creeps Use AI Nudes — But Webcam Sextortion Is Still Skyrocketing | Kalen Smith | [Read More](https://medium.com/p/48245ce42ef7) |
+| Mon, 30 Mar 2026 19:24:53 GMT | Planning, Management and Relevance to Practice | Olga Gladosz | [Read More](https://medium.com/p/a29deff1f1fc) |
+| Mon, 30 Mar 2026 19:24:27 GMT | CTF day 03– 2FA Bypass using Burp Suite (Intro To Burp — PicoCTF) | Adithya Hettiarachchi | [Read More](https://medium.com/p/d7352550db7a) |
+| Mon, 30 Mar 2026 19:23:59 GMT | Choosing My Research Methods | Olga Gladosz | [Read More](https://medium.com/p/e9e8f445a762) |
+| Mon, 30 Mar 2026 19:23:52 GMT | Iran’s Cyber Playbook Isn’t Sophisticated, and That’s the Risk for New Zealand | Chris Buxton | [Read More](https://medium.com/p/d5b4d5c6b9ff) |
+| Mon, 30 Mar 2026 19:19:29 GMT | Part 2: The “Ghost” Installation — Turning Your Old PC into a Silent Video Vault in 15 Minutes! | Zoningxtr | [Read More](https://medium.com/p/fedfb5e3bb16) |
+| Mon, 30 Mar 2026 19:18:38 GMT | Juice Shop Write-up: DOM XSS Challenge | ~ Jeff ~ | [Read More](https://medium.com/p/f9df43452312) |
+| Mon, 30 Mar 2026 19:12:34 GMT | Try Hack Me- Sudo Buffer Overflow Walkthrough | PulseEinher | [Read More](https://medium.com/p/293e97e6d0b4) |
+| Mon, 30 Mar 2026 19:08:50 GMT | Vulnerability Scanning Tools — Full TryHackMe Walkthrough (Nmap, Nikto, OpenVAS) | m0ro23 | [Read More](https://medium.com/p/36c77a22b070) |
+| Mon, 30 Mar 2026 18:56:01 GMT | EU GDPR — Article 39 (Tasks of the Data Protection Officer) | MDM Team | [Read More](https://medium.com/p/381fd3a676b3) |
+| Mon, 30 Mar 2026 18:51:54 GMT | The Line Between Research and Surveillance Is Gone | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/50e846f0454e) |
+| Mon, 30 Mar 2026 18:46:01 GMT | Plan 2026 Philosophy | Xyver | [Read More](https://medium.com/p/90b021077ea5) |
+| Mon, 30 Mar 2026 18:36:08 GMT | Vulnerability Scanning Tools (THM) Tryhackme Full Walkthrough | Lawvye | [Read More](https://medium.com/p/dc908a327b49) |
 | Mon, 30 Mar 2026 18:27:54 GMT | The Cybersecurity Sentinel (April 2026) | Franklin Rhodes | [Read More](https://medium.com/p/caba30f717e7) |
 | Mon, 30 Mar 2026 18:25:20 GMT | Anthropic’s Claude Mythos Leak: When a CMS Misconfiguration Becomes a $Billion Lesson in Secrets… | Krishna | [Read More](https://medium.com/p/c1c3aa08bbe6) |
 | Mon, 30 Mar 2026 18:24:05 GMT | When War Goes Digital: Inside the Latest Iran-Linked Cyber Attacks | Sharanraju | [Read More](https://medium.com/p/686ef81cb2d8) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Mar 2026 14:37:46 GMT | Understanding OT Cybersecurity: A Practical Guide to Asset Inventory for Industrial Control… | Krishna Kumar | [Read More](https://medium.com/p/65dc8b4e3f4d) |
 | Mon, 30 Mar 2026 14:37:11 GMT | The Kubernetes Secrets Rotation Mistake That Breaks Production (And How to Fix It in 15 Minutes) | Zudonu Osomudeya | [Read More](https://medium.com/p/90d9d37917a5) |
 | Mon, 30 Mar 2026 14:34:11 GMT | Ultimate GitHub Repository List to Learn Cybersecurity for Free | Dhanush N | [Read More](https://medium.com/p/b12d1019c602) |
-| Mon, 30 Mar 2026 14:33:58 GMT | CRACKARMOR: WHEN LINUX ARMOR CRACKS AND ROOT BLEEDS THROUGH | Len Noe | [Read More](https://medium.com/p/9e1d4c448d05) |
-| Mon, 30 Mar 2026 14:33:03 GMT | Cyber Risk Management & Transformation | IT_Engineer | [Read More](https://medium.com/p/1d51e5deab94) |
-| Mon, 30 Mar 2026 14:32:24 GMT | Adding Friction — When There are No Perfect Solutions to Security | LookOut | [Read More](https://medium.com/p/691d8e81a346) |
-| Mon, 30 Mar 2026 14:17:40 GMT | Credential Stuffing — picoCTF 2026 | Ayman Hany | [Read More](https://medium.com/p/ffb93bb6281a) |
-| Mon, 30 Mar 2026 14:16:00 GMT | BeatBanker: The Android Crypto Trojan That “Stays Alive” by Playing Silence | Ilias Armenakis | [Read More](https://medium.com/p/56688e6581eb) |
-| Mon, 30 Mar 2026 14:14:32 GMT | Analyzing DNS Logs Using Splunk for Threat Detection and Traffic Monitoring | suraj | [Read More](https://medium.com/p/2f9c8a21491f) |
-| Mon, 30 Mar 2026 14:11:13 GMT | AndroRAT Explained - Android Security Awareness & Defense | Pentester Club | [Read More](https://medium.com/p/16d79b311e15) |
-| Mon, 30 Mar 2026 14:09:13 GMT | The Art of Hacking AI Chatbots | black_virus | [Read More](https://medium.com/p/5ec611551874) |
-| Mon, 30 Mar 2026 14:01:01 GMT | LM Gate - Securing Self-Hosted AI | Jeremy Cheng | [Read More](https://medium.com/p/8876d53db1c4) |
-| Mon, 30 Mar 2026 13:54:25 GMT | TryHackMe Medium Windows AD Writeup | Tusharmumbre | [Read More](https://medium.com/p/71981f81da02) |
-| Mon, 30 Mar 2026 13:46:22 GMT | Critical Flight HTB | Tom | [Read More](https://medium.com/p/3f825f3f0259) |
-| Mon, 30 Mar 2026 13:44:57 GMT | How to Explore a New Project | Oviela | [Read More](https://medium.com/p/7ff1664564c0) |
-| Mon, 30 Mar 2026 13:41:36 GMT | The Ultimate Pentester’s Cheat Sheet: From Recon to Active Directory | Eugene Softley (softsec) | [Read More](https://medium.com/p/106534d4fc67) |
-| Mon, 30 Mar 2026 13:32:19 GMT | Token Leakage in JSON Response Breaking httpOnly Protection | Youssef Ezzat | [Read More](https://medium.com/p/f7e2f08cbfd4) |
-| Mon, 30 Mar 2026 13:29:06 GMT | insect repellent, mosquito repellent, tick repellent, picaridin, DEET alternative, bug spray… | The Modest Edit by Salma | [Read More](https://medium.com/p/ab7f2c2dc3f3) |
-| Mon, 30 Mar 2026 13:27:17 GMT | How Professional Security Services Prevent Business Losses in the UK | Rapport Security | [Read More](https://medium.com/p/9b84228bd6b2) |
-| Mon, 30 Mar 2026 13:26:00 GMT | Expert Locksmith Services in New Haven - Sure Lock & Key | Sure Lock & Key LLC | [Read More](https://medium.com/p/ffe07e736900) |
