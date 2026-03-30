@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Mar 2026 21:34:53 GMT | The Chrome Extension That Almost Cost a Freelancer Everything | Cyber Safety Zone | [Read More](https://medium.com/p/341f8b76dccd) |
+| Mon, 30 Mar 2026 21:18:02 GMT | Most people think Microsoft 365 is just email and Office apps. | Paul Charnin | [Read More](https://medium.com/p/9f75c3574ce6) |
+| Mon, 30 Mar 2026 21:13:36 GMT | What Actually Happens When You Type google.com and Press Enter. | SainT - Cybersecurity & Tech | [Read More](https://medium.com/p/a35011ace2a2) |
+| Mon, 30 Mar 2026 21:10:39 GMT | Have you ever felt why we always trust people and later regret on same? | Bhawnakapoormailbox | [Read More](https://medium.com/p/20c072342af5) |
+| Mon, 30 Mar 2026 21:09:23 GMT | Business Logic Vulnerabilities - The Bugs That Pass Every Security Scanner and Still Break Your… | Rufus Kehinde | [Read More](https://medium.com/p/e799e17ce076) |
+| Mon, 30 Mar 2026 21:06:21 GMT | The 2026 Sovereign Protocol | Stickman Capital | [Read More](https://medium.com/p/7abdbd12995f) |
+| Mon, 30 Mar 2026 21:01:02 GMT | Unfiltered Restart — Day 37: Security Marathon Day 4 | Maximillian Rueda | [Read More](https://medium.com/p/662e341a5de0) |
+| Mon, 30 Mar 2026 20:53:54 GMT | Adım Adım Network: OSI ve TCP/IP Modellerini Anlamak | Hümeyra Karakılınç | [Read More](https://medium.com/p/b3da6eddc4c3) |
+| Mon, 30 Mar 2026 20:46:57 GMT | CE SentinelOne Assistant : New Features | Dean | [Read More](https://medium.com/p/0d63bd9b0fbb) |
+| Mon, 30 Mar 2026 20:46:54 GMT | CyberLens THM Walkthrough: Enumeration, Exploitation & Privilege Escalation with video walk through. | Mohammed Umeruddin | [Read More](https://medium.com/p/e2132a3a3a19) |
+| Mon, 30 Mar 2026 20:45:59 GMT | How to Learn Smart Contract Auditing Without Experience in 2026 | Abraham | [Read More](https://medium.com/p/de0a2c24e83a) |
 | Mon, 30 Mar 2026 20:32:24 GMT | Cyber Security Foundation Series — Computer Networking Part- 07(HTTPS Methods and Status Codes) | Kamal Kishor Mahto | [Read More](https://medium.com/p/7f33b031ee9b) |
 | Mon, 30 Mar 2026 20:30:21 GMT | Splunk BOTS Walkthrough: Ransomware Analysis | Hariharan | [Read More](https://medium.com/p/3ef78e0365f6) |
 | Mon, 30 Mar 2026 20:23:55 GMT | 5 PDF Tools That Never Upload Your Files | Shakeel Skl | [Read More](https://medium.com/p/ff16757266bf) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Mar 2026 15:32:59 GMT | Why Outsourced SOCs Accelerate Cybersecurity Learning | UMAR MUSA | [Read More](https://medium.com/p/29f85499e293) |
 | Mon, 30 Mar 2026 15:32:30 GMT | I Almost Got Scammed by a ‘Good Samaritan’ in Disguise | CyberGirlie | [Read More](https://medium.com/p/13e19d276520) |
 | Mon, 30 Mar 2026 15:31:00 GMT | Guardrails for the GenAI Age | Stephen Thursby | [Read More](https://medium.com/p/922f24ce126e) |
-| Mon, 30 Mar 2026 15:28:11 GMT | Notes For Nmap | Vyomamshetty | [Read More](https://medium.com/p/9560ef0fce7d) |
-| Mon, 30 Mar 2026 15:27:31 GMT | When Should an AI Act? | Drupad H Sachania | [Read More](https://medium.com/p/fcf28579a4ee) |
-| Mon, 30 Mar 2026 15:21:58 GMT | How a Memory Corruption Bug Almost Drained $800M From the Polygon Bridge | Officer's Notes | [Read More](https://medium.com/p/6aad2cc0baa6) |
-| Mon, 30 Mar 2026 15:20:29 GMT | source: https://thecybrdef.com/canisterworm-malware-attack-docker-k8s-redis-to-gain-access/ | Cybrdef | [Read More](https://medium.com/p/bcd603ad97ad) |
-| Mon, 30 Mar 2026 15:16:50 GMT | BPFdoor-Telecom Networks: Sleeper Cells in the Backbone | Cybrdef | [Read More](https://medium.com/p/e5b6005393e9) |
-| Mon, 30 Mar 2026 15:13:31 GMT | Your Vendor Website Is Failing Enterprise Buyers, Before You Ever Get on a Call | Serhat Oypan | [Read More](https://medium.com/p/516dabf2125c) |
-| Mon, 30 Mar 2026 15:08:42 GMT | Secret Box — picoCTF 2026 | Ayman Hany | [Read More](https://medium.com/p/89ed7f435c06) |
-| Mon, 30 Mar 2026 15:08:38 GMT | A Hybrid Multi-Agent Approach to Automated Vulnerability Detection Using LLMs | noNameDS | [Read More](https://medium.com/p/ce0a17eca16e) |
-| Mon, 30 Mar 2026 15:04:53 GMT | [Deadpool & Wolverine] Hacking the Persona from the Multiversal Scrapyard | MonoEssay | [Read More](https://medium.com/p/31a085dbff92) |
-| Mon, 30 Mar 2026 14:53:03 GMT | [Old Sessions]{picoCTF 2026} Web Exploitation Write-up & Walkthrough | Anggarizmi | [Read More](https://medium.com/p/c4851b06c377) |
-| Mon, 30 Mar 2026 14:52:31 GMT | Linux Made Simple: The Ultimate Beginner’s Guide to Essential Usage | Sami ST | [Read More](https://medium.com/p/bc21cdd6cbad) |
