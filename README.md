@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Mar 2026 15:42:31 GMT | Network Technician: A Great Entry Point into IT Networking | Cyberabhisharma | [Read More](https://medium.com/p/7b432d4d0609) |
+| Mon, 30 Mar 2026 15:41:04 GMT | Hackers from the Armenian Code group gained access to a Turkish heat generator | Bobswallower | [Read More](https://medium.com/p/95c6e1ad825f) |
+| Mon, 30 Mar 2026 15:37:15 GMT | How I Passed the TryHackMe PT1 — Tips That Actually Matter | Contact Aryan Here | [Read More](https://medium.com/p/7176d12ddf90) |
+| Mon, 30 Mar 2026 15:35:13 GMT | Pristine… or am I? (Disheveled… or am I?) | Ajee writes | [Read More](https://medium.com/p/d0be899ab370) |
+| Mon, 30 Mar 2026 15:32:59 GMT | Why Outsourced SOCs Accelerate Cybersecurity Learning | UMAR MUSA | [Read More](https://medium.com/p/29f85499e293) |
+| Mon, 30 Mar 2026 15:32:30 GMT | I Almost Got Scammed by a ‘Good Samaritan’ in Disguise | CyberGirlie | [Read More](https://medium.com/p/13e19d276520) |
+| Mon, 30 Mar 2026 15:31:00 GMT | Guardrails for the GenAI Age | Stephen Thursby | [Read More](https://medium.com/p/922f24ce126e) |
+| Mon, 30 Mar 2026 15:28:11 GMT | Notes For Nmap | Vyomamshetty | [Read More](https://medium.com/p/9560ef0fce7d) |
+| Mon, 30 Mar 2026 15:27:31 GMT | When Should an AI Act? | Drupad H Sachania | [Read More](https://medium.com/p/fcf28579a4ee) |
+| Mon, 30 Mar 2026 15:21:58 GMT | How a Memory Corruption Bug Almost Drained $800M From the Polygon Bridge | Officer's Notes | [Read More](https://medium.com/p/6aad2cc0baa6) |
+| Mon, 30 Mar 2026 15:20:29 GMT | source: https://thecybrdef.com/canisterworm-malware-attack-docker-k8s-redis-to-gain-access/ | Cybrdef | [Read More](https://medium.com/p/bcd603ad97ad) |
+| Mon, 30 Mar 2026 15:16:50 GMT | BPFdoor-Telecom Networks: Sleeper Cells in the Backbone | Cybrdef | [Read More](https://medium.com/p/e5b6005393e9) |
+| Mon, 30 Mar 2026 15:08:42 GMT | Secret Box — picoCTF 2026 | Ayman Hany | [Read More](https://medium.com/p/89ed7f435c06) |
+| Mon, 30 Mar 2026 15:08:38 GMT | A Hybrid Multi-Agent Approach to Automated Vulnerability Detection Using LLMs | noNameDS | [Read More](https://medium.com/p/ce0a17eca16e) |
+| Mon, 30 Mar 2026 15:04:53 GMT | [Deadpool & Wolverine] Hacking the Persona from the Multiversal Scrapyard | MonoEssay | [Read More](https://medium.com/p/31a085dbff92) |
+| Mon, 30 Mar 2026 14:53:03 GMT | [Old Sessions]{picoCTF 2026} Web Exploitation Write-up & Walkthrough | Anggarizmi | [Read More](https://medium.com/p/c4851b06c377) |
+| Mon, 30 Mar 2026 14:52:31 GMT | Linux Made Simple: The Ultimate Beginner’s Guide to Essential Usage | Sami ST | [Read More](https://medium.com/p/bc21cdd6cbad) |
+| Mon, 30 Mar 2026 14:51:20 GMT | Between Alignment and Geography | Sigrid Gladstone | [Read More](https://medium.com/p/d241f9c229f9) |
+| Mon, 30 Mar 2026 14:48:56 GMT | Secure and Centralized IT Management with Active Directory | Smartup Network | [Read More](https://medium.com/p/9da27bb549d5) |
+| Mon, 30 Mar 2026 14:48:41 GMT | How I Would Restart My Cyber Security Career From Scratch in 2026 | Jbird | [Read More](https://medium.com/p/f0ec00c0abce) |
+| Mon, 30 Mar 2026 14:45:53 GMT | 5 XSS at xyz.com lead to 5000€ — Shivang Maurya | Shivang Maurya | [Read More](https://medium.com/p/05e55fba7536) |
+| Mon, 30 Mar 2026 14:45:24 GMT | Mobile CTF: Cracking an Android App PIN with ADB Brute-Forcing | Bejiamen | [Read More](https://medium.com/p/ee53aea94097) |
 | Mon, 30 Mar 2026 14:39:25 GMT | the feeling I couldn’t name | Samrah's diary | [Read More](https://medium.com/p/675e20e158eb) |
 | Mon, 30 Mar 2026 14:38:45 GMT | Don’t Cry Like a Girl: The Lie Men Were Taught About Strength | Angella Writes | [Read More](https://medium.com/p/1caf9d04efce) |
 | Mon, 30 Mar 2026 14:37:58 GMT | FOOTPRINTING AND RECONNAISSANCE IN CYBER SECURITY | Sabhashaik | [Read More](https://medium.com/p/16e13ebfe3b2) |
@@ -91,25 +113,3 @@ And Your Analysts Are Tired of It | Dishanth C A | [Read More](https://medium.co
 | Mon, 30 Mar 2026 10:33:13 GMT | AI Agent Code Execution Sandboxes: Isolation from Containers to MicroVMs | Addo Zhang | [Read More](https://medium.com/p/e80848effea5) |
 | Mon, 30 Mar 2026 10:32:16 GMT | Mitigate Threats and Vulnerabilities with Security Command Center: Challenge Lab | Puy P | [Read More](https://medium.com/p/666cf3168623) |
 | Mon, 30 Mar 2026 10:25:57 GMT | How Virtualization Solutions Drive Zero Trust Adoption | Michael Goldshtein | [Read More](https://medium.com/p/2cddab427070) |
-| Mon, 30 Mar 2026 10:18:05 GMT | Penetration Test Web Application Best Security Guide | Application Security Master | [Read More](https://medium.com/p/715ccf44f129) |
-| Mon, 30 Mar 2026 10:06:28 GMT | Is CISM Certification Worth It in 2026? The Honest Truth | Eliana | [Read More](https://medium.com/p/fa3db3bd7487) |
-| Mon, 30 Mar 2026 10:04:47 GMT | The Invisible Privatisation of Sovereignty. | Felix Heuner | [Read More](https://medium.com/p/6d8566bb814e) |
-| Mon, 30 Mar 2026 10:03:59 GMT | There contradiction at the heart of how regulators, banks, and payment companies are handling… | Paul Walsh | [Read More](https://medium.com/p/1268d331157a) |
-| Mon, 30 Mar 2026 10:00:35 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #10 | Antonio Formato | [Read More](https://medium.com/p/ea94a461bdfb) |
-| Mon, 30 Mar 2026 09:50:41 GMT | Step-by-Step Cybersecurity Learning Path for Beginners in 2026 | Manish Shetty | [Read More](https://medium.com/p/898b34e8e232) |
-| Mon, 30 Mar 2026 09:48:57 GMT | SQL injection with filter bypass via XML encoding | Songül Kızılay Özügürler | [Read More](https://medium.com/p/3f11ae985906) |
-| Mon, 30 Mar 2026 09:48:42 GMT | My SC-900 Learning Journey (Day 7) — How Microsoft Security Copilot is Changing Cybersecurity… | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/892f0eb23197) |
-| Mon, 30 Mar 2026 09:45:28 GMT | Why a Cheap Linux Server Can Still Be Fast and Secure in 2026? | Andy | [Read More](https://medium.com/p/9a70465d5a5e) |
-| Mon, 30 Mar 2026 09:42:44 GMT | Android APK Analysis Tool: AI-Powered Static Malware Analysis in Your Terminal | Andrey Pautov | [Read More](https://medium.com/p/4beb239dad12) |
-| Mon, 30 Mar 2026 09:39:05 GMT | Learn the fundamentals of linux | Sami ST | [Read More](https://medium.com/p/122a3f77a7f1) |
-| Mon, 30 Mar 2026 09:34:34 GMT | $2.6 Trillion Won’t Win the Next War — Intelligence Will, and the Most Dangerous War Is Already… | Pankajj Ghode | [Read More](https://medium.com/p/5ba9010de54b) |
-| Mon, 30 Mar 2026 09:31:02 GMT | The Locksmith Who Lived Inside Your Firewall | Bindu-s-reddy | [Read More](https://medium.com/p/ce29b823c4a0) |
-| Mon, 30 Mar 2026 09:31:01 GMT | I’ve Been Using VPNs on Public WiFi for Years. I Just Found Out I’ve Been Doing It Wrong. | Ed O. - TechEd Shield - TechEd Publishers | [Read More](https://medium.com/p/407fa9568097) |
-| Mon, 30 Mar 2026 09:23:16 GMT | Bypassing 2FA: When Logic is the Weakest Link | Ayeshaaghafoor | [Read More](https://medium.com/p/47ccd0170b7f) |
-| Mon, 30 Mar 2026 09:22:54 GMT | Third-Party Vendor Attacks Are Now the Dominant Breach Vector — And Cerballiance Just Proved Why… | pranav patil | [Read More](https://medium.com/p/86414ecf7034) |
-| Mon, 30 Mar 2026 09:21:44 GMT | Perkembangan Game Online di Indonesia: Dari Era Warnet hingga Mobile Gaming Modern | Felly4d | [Read More](https://medium.com/p/430f0a2e0850) |
-| Mon, 30 Mar 2026 09:20:36 GMT | Securing Your Assets: Why Alpha Visions is the Best CCTV Supplier in Dubai | Princy Sizcomm | [Read More](https://medium.com/p/a15aee47b5a3) |
-| Mon, 30 Mar 2026 09:19:24 GMT | Nothing Phone (3) Review: The Truth About Its Camera, Battery & Performance Will Surprise You | techcirclehub | [Read More](https://medium.com/p/973a3cbb1d10) |
-| Mon, 30 Mar 2026 09:16:22 GMT | Cracking the Code: A Hands-On Guide to Username Enumeration & Password Brute-Forcing | Ayeshaaghafoor | [Read More](https://medium.com/p/6fe8c6acca26) |
-| Mon, 30 Mar 2026 09:12:49 GMT | Beyond the Password: A Strategic Guide to Modern API Authentication | Lh Mohammed | [Read More](https://medium.com/p/04f1ff2dc4c0) |
-| Mon, 30 Mar 2026 09:00:31 GMT | Why Smart People Still Fall for “Harmless” Emails | CW Fong | [Read More](https://medium.com/p/5feeb3fed0ec) |
