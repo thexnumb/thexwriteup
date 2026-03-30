@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Mar 2026 23:16:46 GMT | How Microsoft Defender for Cloud Secures Your Containers on Azure | Josiah McCarthy | [Read More](https://medium.com/p/23bf7b16fe77) |
+| Mon, 30 Mar 2026 23:12:52 GMT | Designing a 2FA Flow with Four Methods: A Product Designer’s Guide | Moneam Hessen | [Read More](https://medium.com/p/8dff495c648b) |
+| Mon, 30 Mar 2026 23:11:23 GMT | I Shipped Broken JWT Auth to 80,000 Users. Here’s Exactly What Went Wrong. | Software Interview Rules | [Read More](https://medium.com/p/483838f35c44) |
+| Mon, 30 Mar 2026 23:06:58 GMT | MCP Gave AI Agents a Universal Plug But, It Forgot the Fuse Box. | Anvayasharma | [Read More](https://medium.com/p/6349d0be1800) |
+| Mon, 30 Mar 2026 23:01:02 GMT | The Air-Gapped Chronicles: The Agentic Ecosystem — When Your AI Agents Become Your Loudest Shadow… | Piyoosh Rai | [Read More](https://medium.com/p/b0fa58f136d0) |
 | Mon, 30 Mar 2026 22:25:15 GMT | Dynamic SSL Pinning on iOS and macOS: Integrating the SDK and Walking Through the Implementation | Denis | [Read More](https://medium.com/p/ceae2ee8bd84) |
 | Mon, 30 Mar 2026 22:22:10 GMT | Engine Inside Engine: How JavaScript Really Executes Regular Expressions | Héla Ben Khalfallah | [Read More](https://medium.com/p/23fcd6f6aa6b) |
 | Mon, 30 Mar 2026 22:05:33 GMT | Identifying the AWS account ID from a public S3 bucket | Ronaldsecurit | [Read More](https://medium.com/p/5b3d55bccf86) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Mar 2026 16:16:13 GMT | CTF Writeup: PowerAnalysis: Warmup | wan chu | [Read More](https://medium.com/p/9a791c678a04) |
 | Mon, 30 Mar 2026 16:08:58 GMT | VulnNet: Node (THM) Tryhackme WriteUp | Lawvye | [Read More](https://medium.com/p/1cefd12e4cfd) |
 | Mon, 30 Mar 2026 16:07:39 GMT | A Practical Approach To Graphing The Planet | Tom O'Neill | [Read More](https://medium.com/p/1d43b28b8f63) |
-| Mon, 30 Mar 2026 16:05:39 GMT | Cybersecurity AI (CAI): The Future of AI-Powered Security Automation | TechLatest.Net | [Read More](https://medium.com/p/b7ffd25b5c93) |
-| Mon, 30 Mar 2026 16:05:14 GMT | There was a day I’ll never forget. | Abdul Qadir | [Read More](https://medium.com/p/409f01bf3d47) |
-| Mon, 30 Mar 2026 16:01:01 GMT | Your LLM Can Be 95% Accurate… and Still Leak Sensitive Data | Venkatkumar (VK) | [Read More](https://medium.com/p/c74d60cb964e) |
-| Mon, 30 Mar 2026 16:00:22 GMT | Day 57: HashiCorp Vault — Beyond Kubernetes Secrets | Prakshal Doshi | [Read More](https://medium.com/p/0cd7b88cd9d4) |
-| Mon, 30 Mar 2026 15:42:31 GMT | Network Technician: A Great Entry Point into IT Networking | Cyberabhisharma | [Read More](https://medium.com/p/7b432d4d0609) |
