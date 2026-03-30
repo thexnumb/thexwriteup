@@ -12,8 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Mar 2026 05:16:17 GMT | SPARK Matrix™: Identity Fabric | Umangp | [Read More](https://medium.com/p/540a6e9e70a8) |
+| Mon, 30 Mar 2026 05:14:56 GMT | Introduction to Ethical Hacking | Kp | [Read More](https://medium.com/p/6b5b95926be3) |
+| Mon, 30 Mar 2026 05:12:15 GMT | Resume Template for Tech Jobs | Kamalika | [Read More](https://medium.com/p/91191a6da155) |
+| Mon, 30 Mar 2026 05:11:23 GMT | Trust Without Identity | sengom | [Read More](https://medium.com/p/6e2ad55a7b91) |
+| Mon, 30 Mar 2026 05:07:52 GMT | Security That Moves With the Data | sengom | [Read More](https://medium.com/p/808af9121c03) |
+| Mon, 30 Mar 2026 05:06:38 GMT | Why Cybersecurity for Australian Small Businesses Can No Longer Be an Afterthought in 2026 | Byte Way | [Read More](https://medium.com/p/162476b484c1) |
+| Mon, 30 Mar 2026 05:04:05 GMT | ประจำวันจันทร์ที่ 30 มีนาคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/f07f934e916f) |
+| Mon, 30 Mar 2026 04:58:31 GMT | No SDK? No Problem: Architecting a Secure Web-to-Mobile Payment Bridge | Jon Colque | [Read More](https://medium.com/p/93e9d6481d90) |
+| Mon, 30 Mar 2026 04:51:52 GMT | Locking Down the World’s Data: Inside the Fast-Growing Data Center Physical Security Market | Arunkumar | [Read More](https://medium.com/p/634fbe04b18d) |
+| Mon, 30 Mar 2026 04:48:31 GMT | Why Automated Vulnerability Scanners Miss Most Real Security Vulnerabilities | Kuboid Secure Layer | [Read More](https://medium.com/p/144696b6b92d) |
+| Mon, 30 Mar 2026 04:44:18 GMT | Fake Websites & Domains: How Scammers Trick You | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/ba4b47dfdfb8) |
+| Mon, 30 Mar 2026 04:41:36 GMT | OverTheWire Bandit Level 2 → 3 Walkthrough (Beginner Friendly Guide) | Naveen kumbhare | [Read More](https://medium.com/p/dd48566161aa) |
+| Mon, 30 Mar 2026 04:40:27 GMT | How to Install and Run Zphisher | Rohith Reddy | [Read More](https://medium.com/p/e33f36c1ff23) |
+| Mon, 30 Mar 2026 04:31:59 GMT | Broken Authentication:How attackers take over accounts | 0xSmit | [Read More](https://medium.com/p/554d90d27fc1) |
+| Mon, 30 Mar 2026 04:31:00 GMT | Dark Web Hunting & Monitoring: A Practical Guide for Pentesters & Red Teamers — Part 2 | Siva Sankar | [Read More](https://medium.com/p/d79fbb475d38) |
+| Mon, 30 Mar 2026 04:27:54 GMT | Beginner’s Guide to Wireshark for Network Analysis — Day 19 | 0xSmit | [Read More](https://medium.com/p/4778488e964b) |
+| Mon, 30 Mar 2026 04:25:01 GMT | What Is CEH and Why Do Companies Ask for It | Navamivs | [Read More](https://medium.com/p/55d1b87ee94b) |
+| Mon, 30 Mar 2026 04:11:05 GMT | VolgaCTF 2026 — Directory - LDAP Injection Writeup | mayhack | [Read More](https://medium.com/p/315a71bded37) |
+| Mon, 30 Mar 2026 03:51:11 GMT | Prompt Injection Is the New SQL Injection: What AppSec Teams Need to Know | Pavan Paidy | [Read More](https://medium.com/p/a8d9d3db1c86) |
+| Mon, 30 Mar 2026 03:48:54 GMT | This Free GitHub AI Agent Hacks Like a Pro -Offline, No Keys Needed (Install in 20 Min) | cybrNK | [Read More](https://medium.com/p/16d16e7c9330) |
+| Mon, 30 Mar 2026 03:41:34 GMT | How I Passed the PJPT — My Preparation Journey | Shubhomrawat | [Read More](https://medium.com/p/f5a62de31b32) |
+| Mon, 30 Mar 2026 03:33:05 GMT | SQL Injection in WHERE Clause: Retrieving Hidden Data | Shayaan Khan | [Read More](https://medium.com/p/f1811dfef9ae) |
+| Mon, 30 Mar 2026 03:31:03 GMT | Natas Level 0 → 1 Walkthrough (Beginner Web Hacking Guide) | Naveen kumbhare | [Read More](https://medium.com/p/e9390199f6b7) |
+| Mon, 30 Mar 2026 03:22:17 GMT | I Thought OAuth Was Just Adding a Google Button. | Rgupta | [Read More](https://medium.com/p/983e81ef86c7) |
+| Mon, 30 Mar 2026 02:56:42 GMT | Hackers Don’t Break In Anymore — They Log In: 7 Cyber Attacks That Will Define the Future | Paritosh | [Read More](https://medium.com/p/bd990e098c7d) |
 | Mon, 30 Mar 2026 02:28:29 GMT | Learning Palo Alto Firewall — LESSON 2: Internet Access (Basic Config) | Rouell Mamaril | [Read More](https://medium.com/p/1a8d37aaeeb4) |
 | Mon, 30 Mar 2026 02:24:49 GMT | API4: Unrestricted Resource Consumption — When Valid Users Become Your Biggest Threat | Cyberbali | [Read More](https://medium.com/p/ba4c2c5b8eef) |
+| Mon, 30 Mar 2026 02:24:14 GMT | Conference Whispers: ISC West 2026 | Doreen Galli, Ph.D. MBA | [Read More](https://medium.com/p/3beb0d6e9619) |
 | Mon, 30 Mar 2026 02:23:58 GMT | Technical Analysis of Enterprise Certificate Handshaking and Low-Latency Data Stream… | Ryan - Kiss918client | [Read More](https://medium.com/p/eee2eb2cfdb3) |
 | Mon, 30 Mar 2026 02:13:29 GMT | My Bug Bounty Journey #2: The First Valid RCE Report | awchjimmy | [Read More](https://medium.com/p/7cf1cb402b3e) |
 | Mon, 30 Mar 2026 02:12:15 GMT | We Lost 20% of Our Users Because Our Login Flow Was Too “Secure” | Rafi zimraan arjuna wijaya | [Read More](https://medium.com/p/98178b9f4974) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 19:19:03 GMT | CMDB Nedir? | Murat Bilici | [Read More](https://medium.com/p/df6fc18a51c0) |
 | Sun, 29 Mar 2026 19:11:16 GMT | Dark Web vs Darknet: What’s the Real Difference? | Tor BBB | [Read More](https://medium.com/p/785130a9d155) |
 | Sun, 29 Mar 2026 19:09:33 GMT | TryHackMe - Plant Photographer Walkthrough | Hada Manash | [Read More](https://medium.com/p/0bb9e38c45d1) |
-| Sun, 29 Mar 2026 19:08:08 GMT | They Didn’t Hack Stryker. They Became the Administrator. | Albert D. Jee | [Read More](https://medium.com/p/4980e2546f05) |
-| Sun, 29 Mar 2026 18:59:59 GMT | HackTheBox: CAP Walkthrough | VR | [Read More](https://medium.com/p/1a336d820097) |
-| Sun, 29 Mar 2026 18:59:17 GMT | Version Control for Vector Embeddings: Securing Data Lineage in AI Pipelines | Ni Ederveen | [Read More](https://medium.com/p/599be2941dcf) |
-| Sun, 29 Mar 2026 18:56:00 GMT | EU GDPR — Article 38 (Position of the Data Protection Officer (DPO)) | MDM Team | [Read More](https://medium.com/p/91aafa651dae) |
-| Sun, 29 Mar 2026 18:54:09 GMT | Armored as knights | Denny K. Schuldt | [Read More](https://medium.com/p/9fcd01d735e1) |
-| Sun, 29 Mar 2026 18:53:31 GMT | Bir Sistem Çalışıyorsa Gerçekten Doğru Mu Çalışıyordur? | Ali Yıldızoğlu | [Read More](https://medium.com/p/70a0e216b68e) |
-| Sun, 29 Mar 2026 18:51:22 GMT | Windows Defender Not Working? Here’s How to Fix It Quickly (2026 Guide) | Sam | [Read More](https://medium.com/p/3686787d3d94) |
-| Sun, 29 Mar 2026 18:49:18 GMT | How​‍​‌‍​‍‌ Python’s Hidden Powers Can Automate Half Your Job | Brock stone | [Read More](https://medium.com/p/97bcce5eec19) |
-| Sun, 29 Mar 2026 18:45:49 GMT | The Vulnerability Challenge | Jeff Gibbard | [Read More](https://medium.com/p/eb3c36299bfb) |
-| Sun, 29 Mar 2026 18:43:16 GMT | Detecting a Brute-Force Attack Using SSH Logs | Oyindamola Oladele | [Read More](https://medium.com/p/9e4b382394fb) |
-| Sun, 29 Mar 2026 18:43:14 GMT | AI Only Writes the "Happy Path": Why Defensive Programming is Making a Comeback | Andrew Chadwick | [Read More](https://medium.com/p/5a0dad01b210) |
-| Sun, 29 Mar 2026 18:24:50 GMT | Detection Engineering (Part 2 of 3) | Andrew Blooman | [Read More](https://medium.com/p/15e3de846935) |
-| Sun, 29 Mar 2026 18:21:27 GMT | Databricks LakeWatch is not all as it SIEMs | Hugo Lu | [Read More](https://medium.com/p/d99066ddfc77) |
-| Sun, 29 Mar 2026 18:18:25 GMT | How DNS Works? | Rehimovmahmud | [Read More](https://medium.com/p/04f70c240d27) |
-| Sun, 29 Mar 2026 18:16:56 GMT | Let’s Defend SOC 137 Lab: Responding to a Malicious File Alert with SIEM | mubarak abdulganiy | [Read More](https://medium.com/p/f7a68fef024f) |
-| Sun, 29 Mar 2026 18:16:27 GMT | My OSINT Journey Solving the OhSINT Challenge on TryHackMe | Engosa | [Read More](https://medium.com/p/050d02cfa177) |
-| Sun, 29 Mar 2026 18:13:38 GMT | SSRF to Admin Access: When a “Harmless URL” Took Me Straight to the Kingdom | Iski | [Read More](https://medium.com/p/000815d0725d) |
-| Sun, 29 Mar 2026 18:09:03 GMT | Where Happiness Feels Like a Warning ⚠️ | ziyoo  ݁ ˖ ── .✦ | [Read More](https://medium.com/p/098bd4c56970) |
-| Sun, 29 Mar 2026 17:57:47 GMT | I’m excited to officially begin my journey here on Medium. | David Chimburuoma Odum | [Read More](https://medium.com/p/e002af1c5448) |
-| Sun, 29 Mar 2026 17:57:24 GMT | Static Analysis on Windows | Huzaifah Tahir | [Read More](https://medium.com/p/94a24fb214f0) |
-| Sun, 29 Mar 2026 17:54:55 GMT | Red Teaming vs. Blue Teaming: The Ultimate Guide to Cybersecurity’s Main Event | Ishant | [Read More](https://medium.com/p/67e6d9c194a5) |
-| Sun, 29 Mar 2026 17:44:11 GMT | The Biggest Myth in Travel: Why “Incognito Mode” Won’t Save You Money | Bharatfare | [Read More](https://medium.com/p/d986a6fc2e80) |
-| Sun, 29 Mar 2026 17:37:14 GMT | Filters in ASP.NET Core (.NET) — Complete Deep Dive | Bishesh Dhiman | [Read More](https://medium.com/p/b3fd88827132) |
-| Sun, 29 Mar 2026 17:25:13 GMT | Building a Cloud‑Hosted Honeypot with T‑Pot on Microsoft Azure: A Hands‑On Cybersecurity Project | Abhishek Vaidya | [Read More](https://medium.com/p/8af5fd57ed4a) |
-| Sun, 29 Mar 2026 17:22:30 GMT | Responsible AI isn’t slowing you down. The absence of it is.. | Akanksha Masurkar | [Read More](https://medium.com/p/13f079bfea82) |
-| Sun, 29 Mar 2026 17:22:01 GMT | From Packets to Payloads: My Week Inside the Cyber security Lab | Nalinda Precious Grace | [Read More](https://medium.com/p/1042b563da97) |
