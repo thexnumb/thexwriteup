@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Mar 2026 20:32:24 GMT | Cyber Security Foundation Series — Computer Networking Part- 07(HTTPS Methods and Status Codes) | Kamal Kishor Mahto | [Read More](https://medium.com/p/7f33b031ee9b) |
+| Mon, 30 Mar 2026 20:30:21 GMT | Splunk BOTS Walkthrough: Ransomware Analysis | Hariharan | [Read More](https://medium.com/p/3ef78e0365f6) |
+| Mon, 30 Mar 2026 20:23:55 GMT | 5 PDF Tools That Never Upload Your Files | Shakeel Skl | [Read More](https://medium.com/p/ff16757266bf) |
+| Mon, 30 Mar 2026 20:15:26 GMT | I Built a Tool that Autonomously Detects and Remediates Overprivileged Identities in Azure | Julian S. | [Read More](https://medium.com/p/02b88f61f638) |
+| Mon, 30 Mar 2026 20:08:44 GMT | The Myth of the Safe Default Setting: | Mithrais | [Read More](https://medium.com/p/fe444b7664f5) |
+| Mon, 30 Mar 2026 20:08:43 GMT | Ledger — TryHackMe Write-up | SaAby | [Read More](https://medium.com/p/0c07ed1654df) |
+| Mon, 30 Mar 2026 20:07:49 GMT | SOC 2 Compliance Demystified: A Founder’s Practical Guide | Parathan Thiyagalingam | [Read More](https://medium.com/p/697272834b66) |
+| Mon, 30 Mar 2026 20:06:20 GMT | The Linux Security Journey — SSH Authentication Keys | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f25da21bfdb0) |
+| Mon, 30 Mar 2026 19:55:18 GMT | AI-Powered Firewalls vs Human Managed Security: What Will Lead in 2026? | Temma | [Read More](https://medium.com/p/6393d0ade33c) |
+| Mon, 30 Mar 2026 19:54:06 GMT | RSAC 2026: AI Agents Just Entered the Cybersecurity Workforce. | Sooraj Jha | [Read More](https://medium.com/p/7580c07d644b) |
+| Mon, 30 Mar 2026 19:46:49 GMT | Device Code Phishing: A Lab Walkthrough | Frezyauyar | [Read More](https://medium.com/p/3b2b0f92e39e) |
 | Mon, 30 Mar 2026 19:42:48 GMT | Amazon Expands Into Robotics and Chips, Google Tests AI in Space, and OpenAI Retreats From Commerce | Qandeel Akhtar | [Read More](https://medium.com/p/c7079d32b723) |
+| Mon, 30 Mar 2026 19:40:51 GMT | The Complete Guide to SSL Certificates on Deploynix: Let’s Encrypt, Wildcards & Vanity Domains | Deploynix | [Read More](https://medium.com/p/447a5e4887a0) |
 | Mon, 30 Mar 2026 19:35:40 GMT | TryHackMe - Vulnerability Scanning Tools - WriteUp | Axoloth | [Read More](https://medium.com/p/e67a128bcfc9) |
 | Mon, 30 Mar 2026 19:31:56 GMT | Cheap Security Cameras Are Sending Your Footage Overseas — Here’s Why | Temma | [Read More](https://medium.com/p/3deb42f9ec61) |
 | Mon, 30 Mar 2026 19:30:35 GMT | Cyber Security Introduction: A Beginner’s Guide to Ethical Hacking, Kali Linux & Basic Commands | Vardhan reddy Dronadula | [Read More](https://medium.com/p/297345656912) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Mar 2026 15:04:53 GMT | [Deadpool & Wolverine] Hacking the Persona from the Multiversal Scrapyard | MonoEssay | [Read More](https://medium.com/p/31a085dbff92) |
 | Mon, 30 Mar 2026 14:53:03 GMT | [Old Sessions]{picoCTF 2026} Web Exploitation Write-up & Walkthrough | Anggarizmi | [Read More](https://medium.com/p/c4851b06c377) |
 | Mon, 30 Mar 2026 14:52:31 GMT | Linux Made Simple: The Ultimate Beginner’s Guide to Essential Usage | Sami ST | [Read More](https://medium.com/p/bc21cdd6cbad) |
-| Mon, 30 Mar 2026 14:51:20 GMT | Between Alignment and Geography | Sigrid Gladstone | [Read More](https://medium.com/p/d241f9c229f9) |
-| Mon, 30 Mar 2026 14:48:56 GMT | Secure and Centralized IT Management with Active Directory | Smartup Network | [Read More](https://medium.com/p/9da27bb549d5) |
-| Mon, 30 Mar 2026 14:48:41 GMT | How I Would Restart My Cyber Security Career From Scratch in 2026 | Jbird | [Read More](https://medium.com/p/f0ec00c0abce) |
-| Mon, 30 Mar 2026 14:45:53 GMT | 5 XSS at xyz.com lead to 5000€ — Shivang Maurya | Shivang Maurya | [Read More](https://medium.com/p/05e55fba7536) |
-| Mon, 30 Mar 2026 14:45:24 GMT | Mobile CTF: Cracking an Android App PIN with ADB Brute-Forcing | Bejiamen | [Read More](https://medium.com/p/ee53aea94097) |
-| Mon, 30 Mar 2026 14:43:45 GMT | If Hackers Targeted Only One Department, Which Would It Be? | Digital Defense | [Read More](https://medium.com/p/f7c02dca9c5c) |
-| Mon, 30 Mar 2026 14:39:25 GMT | the feeling I couldn’t name | Samrah's diary | [Read More](https://medium.com/p/675e20e158eb) |
-| Mon, 30 Mar 2026 14:38:45 GMT | Don’t Cry Like a Girl: The Lie Men Were Taught About Strength | Angella Writes | [Read More](https://medium.com/p/1caf9d04efce) |
-| Mon, 30 Mar 2026 14:37:58 GMT | FOOTPRINTING AND RECONNAISSANCE IN CYBER SECURITY | Sabhashaik | [Read More](https://medium.com/p/16e13ebfe3b2) |
-| Mon, 30 Mar 2026 14:37:46 GMT | Understanding OT Cybersecurity: A Practical Guide to Asset Inventory for Industrial Control… | Krishna Kumar | [Read More](https://medium.com/p/65dc8b4e3f4d) |
-| Mon, 30 Mar 2026 14:37:11 GMT | The Kubernetes Secrets Rotation Mistake That Breaks Production (And How to Fix It in 15 Minutes) | Zudonu Osomudeya | [Read More](https://medium.com/p/90d9d37917a5) |
-| Mon, 30 Mar 2026 14:34:11 GMT | Ultimate GitHub Repository List to Learn Cybersecurity for Free | Dhanush N | [Read More](https://medium.com/p/b12d1019c602) |
