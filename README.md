@@ -12,6 +12,35 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Mar 2026 06:54:20 GMT | Wazuh Agentless Monitoring: A Practical SOC Lab Walkthrough | ɧrιsнi rajeeѵ | [Read More](https://medium.com/p/00fe6d1fd587) |
+| Mon, 30 Mar 2026 06:52:44 GMT | DevSecOps : intégrer la sécurité au cœur du développement, pas à la fin | Ala Eddine JEBALI | [Read More](https://medium.com/p/bc52bf27f32a) |
+| Mon, 30 Mar 2026 06:49:52 GMT | iOS 26.4 Is Here — And It’s a Bigger Deal Than You Think | Manik Goel | [Read More](https://medium.com/p/45797f51ee6b) |
+| Mon, 30 Mar 2026 06:47:12 GMT | I Got 5 Bug Bounty Reports Rejected… Then This One Bug Paid Me $800 | Sukhveer Singh | [Read More](https://medium.com/p/8da5f22ea7d7) |
+| Mon, 30 Mar 2026 06:46:02 GMT | Malicious PowerShell De-obfuscation | Liam Goddard | [Read More](https://medium.com/p/0ef8ce7daf21) |
+| Mon, 30 Mar 2026 06:41:00 GMT | Click to Compromise: Investigating a Successful Phishing Attack | Abija Joyce | [Read More](https://medium.com/p/d1d693e2b82d) |
+| Mon, 30 Mar 2026 06:40:57 GMT | Pen Testing vs Bug Bounty — Which Cybersecurity Strategy Is Right for Your Organization? | Redfox Security | [Read More](https://medium.com/p/af9510e3abed) |
+| Mon, 30 Mar 2026 06:39:43 GMT | WWDC 2026: What apple didn’t say matters the most | Ajay Kumar Bakkashetti | [Read More](https://medium.com/p/9e18419b6575) |
+| Mon, 30 Mar 2026 06:39:31 GMT | Hosting Security Checklist for Website Owners in 2026 | Janet Watson | [Read More](https://medium.com/p/3896d9be7094) |
+| Mon, 30 Mar 2026 06:36:17 GMT | JWT Is Not Secure — And Most Developers Misunderstand It | The Fintech Engineer | [Read More](https://medium.com/p/f6b0dd188031) |
+| Mon, 30 Mar 2026 06:36:06 GMT | Navigating the 2026 Sideloading Architecture: A Guide to Enterprise App Integrity | Benjamin - mega888support | [Read More](https://medium.com/p/c713e8b5d68d) |
+| Mon, 30 Mar 2026 06:35:23 GMT | The Lock the Internet Runs On
+Is About to Be Broken.
+We’ve Known Since 1994. | bitsofmannn | [Read More](https://medium.com/p/2b19bdcf2745) |
+| Mon, 30 Mar 2026 06:35:01 GMT | Threat Hunting Cheatsheet: 15 Techniques Every SOC Analyst Should Master | Very Lazy Tech | [Read More](https://medium.com/p/56340234fccb) |
+| Mon, 30 Mar 2026 06:31:00 GMT | Pourquoi la sécurité côté client ne suffit pas (Client-Side Security) ? | ADJE MICHEL | [Read More](https://medium.com/p/93f847b625d9) |
+| Mon, 30 Mar 2026 06:25:10 GMT | How Hackers Think: Lessons Every Developer Should Learn | Mubashir | [Read More](https://medium.com/p/9a93b7adc755) |
+| Mon, 30 Mar 2026 06:22:57 GMT | You Can’t Afford Splunk. Can Wazuh Actually Fill the Gap? | Francisco Agballog | [Read More](https://medium.com/p/4a7dbae30b8a) |
+| Mon, 30 Mar 2026 06:17:57 GMT | Building a Security Fortress: From OWASP Analysis to Mitigating Enumeration Vulnerabilities | Vincent Davis Leonard | [Read More](https://medium.com/p/e286ffbfe031) |
+| Mon, 30 Mar 2026 06:11:58 GMT | VPNs and Zero Trust Are Not Opposites. They Solve Different Problems. | Mahfuzur Rahman | [Read More](https://medium.com/p/050dfceb62ed) |
+| Mon, 30 Mar 2026 06:10:23 GMT | Is Your IT Infrastructure Ready for the Future? - Complete Guide to Enterprise System Integration | Omnilink Technology | [Read More](https://medium.com/p/0e639e6a3102) |
+| Mon, 30 Mar 2026 06:04:03 GMT | Prompt Injection in Microsoft 365 Copilot: What EchoLeak Revealed | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/3770f535b2eb) |
+| Mon, 30 Mar 2026 06:01:28 GMT | Trust Is the Biggest Vulnerability in Your System | Devarshi Acharya | [Read More](https://medium.com/p/2bb25e9eb8ba) |
+| Mon, 30 Mar 2026 05:51:46 GMT | How I Started Learning Cybersecurity (Beginner Journey) | Riya Limba | [Read More](https://medium.com/p/79480b5265c1) |
+| Mon, 30 Mar 2026 05:50:11 GMT | How a Network Switch Gets Smart: The Secret of MAC Addresses and CAM Tables | Pkaumini | [Read More](https://medium.com/p/ccefe07c615f) |
+| Mon, 30 Mar 2026 05:46:19 GMT | Understanding Ports and Protocols in Cybersecurity | Rohitreddy | [Read More](https://medium.com/p/39dd4ba2f89c) |
+| Mon, 30 Mar 2026 05:27:51 GMT | Protecting Digital Businesses from Distributed Denial of Service Attacks: SPARK Matrix | Gauri Kale | [Read More](https://medium.com/p/407294fe97c6) |
+| Mon, 30 Mar 2026 05:23:01 GMT | I Used Claude Sonnet to Attack GPT-4.1 — Here’s What Leaked | Pratyush Anjan Sarangi | [Read More](https://medium.com/p/af183bb2caf4) |
+| Mon, 30 Mar 2026 05:19:55 GMT | Security and Compliance in Web Development: Minimizing Business Risk | Wings Design Studio | [Read More](https://medium.com/p/0f2ec42772b4) |
 | Mon, 30 Mar 2026 05:16:17 GMT | SPARK Matrix™: Identity Fabric | Umangp | [Read More](https://medium.com/p/540a6e9e70a8) |
 | Mon, 30 Mar 2026 05:14:56 GMT | Introduction to Ethical Hacking | Kp | [Read More](https://medium.com/p/6b5b95926be3) |
 | Mon, 30 Mar 2026 05:12:15 GMT | Resume Template for Tech Jobs | Kamalika | [Read More](https://medium.com/p/91191a6da155) |
@@ -30,11 +59,14 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Mar 2026 04:27:54 GMT | Beginner’s Guide to Wireshark for Network Analysis — Day 19 | 0xSmit | [Read More](https://medium.com/p/4778488e964b) |
 | Mon, 30 Mar 2026 04:25:01 GMT | What Is CEH and Why Do Companies Ask for It | Navamivs | [Read More](https://medium.com/p/55d1b87ee94b) |
 | Mon, 30 Mar 2026 04:11:05 GMT | VolgaCTF 2026 — Directory - LDAP Injection Writeup | mayhack | [Read More](https://medium.com/p/315a71bded37) |
+| Mon, 30 Mar 2026 04:03:33 GMT | Cyber Security: Staying Safe in a Digital World. | Ahnaf Tahmid Hasan | [Read More](https://medium.com/p/9e2ed68b19b7) |
 | Mon, 30 Mar 2026 03:51:11 GMT | Prompt Injection Is the New SQL Injection: What AppSec Teams Need to Know | Pavan Paidy | [Read More](https://medium.com/p/a8d9d3db1c86) |
 | Mon, 30 Mar 2026 03:48:54 GMT | This Free GitHub AI Agent Hacks Like a Pro -Offline, No Keys Needed (Install in 20 Min) | cybrNK | [Read More](https://medium.com/p/16d16e7c9330) |
+| Mon, 30 Mar 2026 03:45:51 GMT | Roadmap Belajar Hacking untuk Pemula | Rendy Almaheri | [Read More](https://medium.com/p/0d87d8a4a04f) |
 | Mon, 30 Mar 2026 03:41:34 GMT | How I Passed the PJPT — My Preparation Journey | Shubhomrawat | [Read More](https://medium.com/p/f5a62de31b32) |
 | Mon, 30 Mar 2026 03:33:05 GMT | SQL Injection in WHERE Clause: Retrieving Hidden Data | Shayaan Khan | [Read More](https://medium.com/p/f1811dfef9ae) |
 | Mon, 30 Mar 2026 03:31:03 GMT | Natas Level 0 → 1 Walkthrough (Beginner Web Hacking Guide) | Naveen kumbhare | [Read More](https://medium.com/p/e9390199f6b7) |
+| Mon, 30 Mar 2026 03:28:04 GMT | Understanding API Security by Building, Exploiting, and Hardening a Vulnerable API | Ashutosh Hacks | [Read More](https://medium.com/p/1215f3c7affa) |
 | Mon, 30 Mar 2026 03:22:17 GMT | I Thought OAuth Was Just Adding a Google Button. | Rgupta | [Read More](https://medium.com/p/983e81ef86c7) |
 | Mon, 30 Mar 2026 02:56:42 GMT | Hackers Don’t Break In Anymore — They Log In: 7 Cyber Attacks That Will Define the Future | Paritosh | [Read More](https://medium.com/p/bd990e098c7d) |
 | Mon, 30 Mar 2026 02:28:29 GMT | Learning Palo Alto Firewall — LESSON 2: Internet Access (Basic Config) | Rouell Mamaril | [Read More](https://medium.com/p/1a8d37aaeeb4) |
@@ -51,6 +83,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Mar 2026 01:43:58 GMT | Zero-shot, Few-shot, and Chain-of-Thought: How to Choose the Right Technique for More Useful… | Pablo Nicholas | [Read More](https://medium.com/p/d07166d571c1) |
 | Mon, 30 Mar 2026 01:43:19 GMT | McAfee Customer Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/5b0837ed7d9e) |
 | Mon, 30 Mar 2026 01:35:36 GMT | Yahoo Customer Support Australia | Customer Support Information | [Read More](https://medium.com/p/f747dd33e520) |
+| Mon, 30 Mar 2026 01:35:13 GMT | HackerDNA Writeup: Chaining IDOR and LFI to Compromise ClearDesk API | okta | [Read More](https://medium.com/p/633ed9fd813c) |
 | Mon, 30 Mar 2026 01:34:24 GMT | OpenClaw Installation Guide: From Zero to “Hatched” | SDNTechForum | [Read More](https://medium.com/p/0b10a22cfd59) |
 | Mon, 30 Mar 2026 01:30:52 GMT | AVG Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/4b892267fd16) |
 | Mon, 30 Mar 2026 01:29:24 GMT | Supabase Is Retiring anon and service role Keys — Here's Everything You Need to Know | Sanskarbhushankar | [Read More](https://medium.com/p/eb94659978b2) |
@@ -81,34 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 21:54:33 GMT | Account Takeover via Old Password Reset Link (A Critical Security Flaw) | Umer Yousuf | [Read More](https://medium.com/p/1e00072f7a80) |
 | Sun, 29 Mar 2026 21:53:01 GMT | Houthi forces enter Iran conflict with missile attacks on Israeli military sites | KoranDunia | [Read More](https://medium.com/p/27918bae6f53) |
 | Sun, 29 Mar 2026 21:50:14 GMT | Pornhub Got Hacked. 200 Million Viewing Histories Leaked. Here’s What Was Exposed. | o a (Oarcom) | [Read More](https://medium.com/p/afce9cf8ac23) |
-| Sun, 29 Mar 2026 21:49:53 GMT | LAN Security: CDP Attack & Mitigation | Ahmed Eid Mohammed | [Read More](https://medium.com/p/500aa2bd6061) |
-| Sun, 29 Mar 2026 21:41:57 GMT | Stop Running Tools. Start Thinking Like an Operator. | Jesse Ridley | [Read More](https://medium.com/p/c3c3d6777d8c) |
-| Sun, 29 Mar 2026 21:24:46 GMT | Sign of cheating man | Michael Parks | [Read More](https://medium.com/p/e4959969f8f9) |
-| Sun, 29 Mar 2026 21:20:07 GMT | Manus AI: Hidden Telemetry, Proxied APIs, and the Irony of a Security Tool That Spied on Its Own… | H3k | [Read More](https://medium.com/p/9a34fe0a3090) |
-| Sun, 29 Mar 2026 20:56:00 GMT | Microsoft Just Killed WDS for Windows 11 & Server 2025 Over a Critical RCE | Sohan Kanna | [Read More](https://medium.com/p/948322066fea) |
-| Sun, 29 Mar 2026 20:50:10 GMT | What Are Some Legitimate Recovery Companies That Help Victims Of Investment Scams To Recover Their… | Steve Wright | [Read More](https://medium.com/p/1197d7633a3a) |
-| Sun, 29 Mar 2026 20:45:41 GMT | Building a Jailbroken iOS 26 VM for Penetration Testing on Apple Silicon | Sunain | [Read More](https://medium.com/p/e18147be8626) |
-| Sun, 29 Mar 2026 20:36:30 GMT | LLM Pentesting on AWS: A Practical Offensive Security Playbook for Bedrock-Centric Stacks | Ali Murat Tava | [Read More](https://medium.com/p/0d1c565b4b51) |
-| Sun, 29 Mar 2026 20:36:11 GMT | XSS (Cross-Site Scripting) | Mevlüt Kamalı | [Read More](https://medium.com/p/5b1336c80c32) |
-| Sun, 29 Mar 2026 20:34:49 GMT | Persistence via Startup Directory | S12 - 0x12Dark Development | [Read More](https://medium.com/p/3202a7a8c0ed) |
-| Sun, 29 Mar 2026 20:22:51 GMT | Anthropic, Claude Mythos et l’échec des belles promesses sur l’IA | Frederic LOHBRUNNER | [Read More](https://medium.com/p/6b9407ddcf4b) |
-| Sun, 29 Mar 2026 20:20:53 GMT | Solución CTF — Startup | SatoBlack | [Read More](https://medium.com/p/21d8885af448) |
-| Sun, 29 Mar 2026 20:20:43 GMT | My Week 6 Takeaways from “Begin Ethical Hacking with Python” by Sanjib Sinha(Final Part) | Kalkidan | [Read More](https://medium.com/p/d673ce01225f) |
-| Sun, 29 Mar 2026 20:06:11 GMT | Understanding CORS: The Gatekeeper of Web Security | Adnan Hossain Addro | [Read More](https://medium.com/p/5d1ac9b87ef5) |
-| Sun, 29 Mar 2026 20:05:23 GMT | TLS traffic analysis | Ali Alizada | [Read More](https://medium.com/p/2c398c08ba84) |
-| Sun, 29 Mar 2026 20:01:29 GMT | CTF Write-Up : NCSA AI CTF 2026 (EASY) Token Breaker | Reonomu | [Read More](https://medium.com/p/2f935e83bfde) |
-| Sun, 29 Mar 2026 19:58:48 GMT | Tryhackme: Plant Photographer Walkthrough | nithunwilson | [Read More](https://medium.com/p/e225b99bd095) |
-| Sun, 29 Mar 2026 19:57:12 GMT | How I Found a PII Leak Using BAC and Got $$$ | Thomas Youssef | [Read More](https://medium.com/p/f660d37deb5a) |
-| Sun, 29 Mar 2026 19:54:36 GMT | Claude Blocked All 164 Attacks. GPT-4o-mini Failed 53%. Here's the Difference. | Kevin Haochuan Wang | [Read More](https://medium.com/p/ed6be41493fe) |
-| Sun, 29 Mar 2026 19:53:42 GMT | Try Hack Me- VulnNet: dotpy CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/0a1636b8d45c) |
-| Sun, 29 Mar 2026 19:51:28 GMT | Behind Every Great Firewall Is a Wife Who Can’t Open Facebook | Tarango Thomas | [Read More](https://medium.com/p/9847e07a38dc) |
-| Sun, 29 Mar 2026 19:48:06 GMT | Managing Open Source Risk Under the CRA: What Manufacturers Need to Know | CRA Decoded | [Read More](https://medium.com/p/b92f0efb1d5b) |
-| Sun, 29 Mar 2026 19:44:46 GMT | The Ghost in the Ledger: How AI agents are hollowing out the ERP | Fayez A. Alhargan, PhD | [Read More](https://medium.com/p/680c5588b49f) |
-| Sun, 29 Mar 2026 19:43:55 GMT | How SOC Analysts Actually Analyze Phishing Emails From Start to Finish | Jbird | [Read More](https://medium.com/p/0f52330c1602) |
-| Sun, 29 Mar 2026 19:41:45 GMT | Day 3 Learning Cybersecurity: Things Are Finally Starting to Make Sense | Gechsec | [Read More](https://medium.com/p/39ea78798974) |
-| Sun, 29 Mar 2026 19:33:29 GMT | The Responsible Disclosure Gap in the Nonprofit Sector: A Practitioner’s Analysis | Jared Medeiros | [Read More](https://medium.com/p/c7d78b2ef813) |
-| Sun, 29 Mar 2026 19:26:32 GMT | I Built a Placement Portal. Then I Realised It Was Lying. | TheDecryptionist | [Read More](https://medium.com/p/bdc25b3a82ed) |
-| Sun, 29 Mar 2026 19:23:43 GMT | Top 5 Microsoft 365 Security Missteps I See in Organizations | Robert Hogan | [Read More](https://medium.com/p/2df93a4d9544) |
-| Sun, 29 Mar 2026 19:19:03 GMT | CMDB Nedir? | Murat Bilici | [Read More](https://medium.com/p/df6fc18a51c0) |
-| Sun, 29 Mar 2026 19:11:16 GMT | Dark Web vs Darknet: What’s the Real Difference? | Tor BBB | [Read More](https://medium.com/p/785130a9d155) |
-| Sun, 29 Mar 2026 19:09:33 GMT | TryHackMe - Plant Photographer Walkthrough | Hada Manash | [Read More](https://medium.com/p/0bb9e38c45d1) |
