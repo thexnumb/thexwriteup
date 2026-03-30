@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Mar 2026 02:28:29 GMT | Learning Palo Alto Firewall — LESSON 2: Internet Access (Basic Config) | Rouell Mamaril | [Read More](https://medium.com/p/1a8d37aaeeb4) |
+| Mon, 30 Mar 2026 02:24:49 GMT | API4: Unrestricted Resource Consumption — When Valid Users Become Your Biggest Threat | Cyberbali | [Read More](https://medium.com/p/ba4c2c5b8eef) |
+| Mon, 30 Mar 2026 02:23:58 GMT | Technical Analysis of Enterprise Certificate Handshaking and Low-Latency Data Stream… | Ryan - Kiss918client | [Read More](https://medium.com/p/eee2eb2cfdb3) |
+| Mon, 30 Mar 2026 02:13:29 GMT | My Bug Bounty Journey #2: The First Valid RCE Report | awchjimmy | [Read More](https://medium.com/p/7cf1cb402b3e) |
+| Mon, 30 Mar 2026 02:12:15 GMT | We Lost 20% of Our Users Because Our Login Flow Was Too “Secure” | Rafi zimraan arjuna wijaya | [Read More](https://medium.com/p/98178b9f4974) |
+| Mon, 30 Mar 2026 02:09:50 GMT | The Zero Trust Chains | James Kittle | [Read More](https://medium.com/p/56d28ff6e4fb) |
+| Mon, 30 Mar 2026 02:06:17 GMT | My OSED journey | Lukasz Wierzbicki | [Read More](https://medium.com/p/04252376372f) |
+| Mon, 30 Mar 2026 02:02:02 GMT | How Hackers Crack Logins, Find Hidden Pages, and Break APIs — Burp Intruder Explained | Yamini Yadav_369 | [Read More](https://medium.com/p/a2a9864d17bc) |
+| Mon, 30 Mar 2026 02:01:48 GMT | Our Security Scanner Was the Hacker. I Spent Last Week Cleaning Up. | Ujjwal Sharma | [Read More](https://medium.com/p/7df4410a76b1) |
+| Mon, 30 Mar 2026 01:51:12 GMT | The Invisible Digital Campus: Navigating IT Operations Across 5 Locations | Vitor Matos | [Read More](https://medium.com/p/989c5d8e355e) |
+| Mon, 30 Mar 2026 01:43:58 GMT | Zero-shot, Few-shot, and Chain-of-Thought: How to Choose the Right Technique for More Useful… | Pablo Nicholas | [Read More](https://medium.com/p/d07166d571c1) |
+| Mon, 30 Mar 2026 01:43:19 GMT | McAfee Customer Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/5b0837ed7d9e) |
+| Mon, 30 Mar 2026 01:35:36 GMT | Yahoo Customer Support Australia | Customer Support Information | [Read More](https://medium.com/p/f747dd33e520) |
+| Mon, 30 Mar 2026 01:34:24 GMT | OpenClaw Installation Guide: From Zero to “Hatched” | SDNTechForum | [Read More](https://medium.com/p/0b10a22cfd59) |
+| Mon, 30 Mar 2026 01:30:52 GMT | AVG Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/4b892267fd16) |
+| Mon, 30 Mar 2026 01:29:24 GMT | Supabase Is Retiring anon and service role Keys — Here's Everything You Need to Know | Sanskarbhushankar | [Read More](https://medium.com/p/eb94659978b2) |
+| Mon, 30 Mar 2026 01:11:17 GMT | What Is a Hash and Why Do Developers Use MD5, SHA-256, and SHA-512? | Shaishavap | [Read More](https://medium.com/p/95dfce25b742) |
+| Mon, 30 Mar 2026 01:11:00 GMT | The 3–2–1 Backup Rule: How to Make Sure Ransomware Doesn’t Delete Your Business | Sharon Martin | [Read More](https://medium.com/p/29c09a0a5d8b) |
+| Mon, 30 Mar 2026 01:07:23 GMT | HackMyVM: Hommie Walkthrough | Antonio | [Read More](https://medium.com/p/a6f63044fc55) |
+| Mon, 30 Mar 2026 01:02:54 GMT | Panduan Lengkap Platform CTF untuk Pemula | Rendy Almaheri | [Read More](https://medium.com/p/38e2d1a9db4d) |
+| Mon, 30 Mar 2026 00:54:55 GMT | I Killed My Little Artist (And today, I ask for her forgiveness) | BeluLand | [Read More](https://medium.com/p/e53a21eabd60) |
+| Mon, 30 Mar 2026 00:38:50 GMT | I Bypassed an Admin Panel With One Burp Suite Rule | Mohamed Adel | [Read More](https://medium.com/p/c478d1f31e6c) |
+| Mon, 30 Mar 2026 00:29:03 GMT | Plant Photographer TryHackMe Walkthrough (2026) - SSRF to RCE via Werkzeug Console | m0ro23 | [Read More](https://medium.com/p/a546bfb93ad2) |
+| Mon, 30 Mar 2026 00:22:12 GMT | I Found a Bug That Could Delete Anyone’s Profile on a U.S. Navy Website | Mohamed Adel | [Read More](https://medium.com/p/d5c822f73bba) |
+| Mon, 30 Mar 2026 00:15:12 GMT | How One Misconfigured CI Line Backdoor-ed Millions of AI Apps | Humming Batman | [Read More](https://medium.com/p/36bfcc8ee1fe) |
+| Mon, 30 Mar 2026 00:08:38 GMT | Building ClawClamp: Autonomous AI Agents Without Losing Sleep | Stevo Ledbetter | [Read More](https://medium.com/p/091d79c8029e) |
+| Mon, 30 Mar 2026 00:06:47 GMT | Proving Grounds — Practice — Heist | Makoyi | [Read More](https://medium.com/p/ed0bef92cc02) |
 | Sun, 29 Mar 2026 23:27:36 GMT | Pro Bono Cybersecurity for Pre-Seed Startups | Taulan Zauzanov | [Read More](https://medium.com/p/732c1f863831) |
 | Sun, 29 Mar 2026 23:05:32 GMT | Dev Day with Sam: Episode 1: The Beginning of Something Big | Nsirim Samuel Eberechi | [Read More](https://medium.com/p/7598b860f4fc) |
 | Sun, 29 Mar 2026 23:01:01 GMT | LetsDefend: AI-Powered Ransomware Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/2ff9dc95801b) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 29 Mar 2026 17:25:13 GMT | Building a Cloud‑Hosted Honeypot with T‑Pot on Microsoft Azure: A Hands‑On Cybersecurity Project | Abhishek Vaidya | [Read More](https://medium.com/p/8af5fd57ed4a) |
 | Sun, 29 Mar 2026 17:22:30 GMT | Responsible AI isn’t slowing you down. The absence of it is.. | Akanksha Masurkar | [Read More](https://medium.com/p/13f079bfea82) |
 | Sun, 29 Mar 2026 17:22:01 GMT | From Packets to Payloads: My Week Inside the Cyber security Lab | Nalinda Precious Grace | [Read More](https://medium.com/p/1042b563da97) |
-| Sun, 29 Mar 2026 17:22:00 GMT | From Segmentation Fault to Shell: Understanding Your First Buffer Overflow Exploit | Ori Dror | [Read More](https://medium.com/p/724c49358cb6) |
-| Sun, 29 Mar 2026 17:20:03 GMT | The Rise of Cyber-Physical Attacks in Global Conflicts | Ananthuharikumar | [Read More](https://medium.com/p/01f69f134e70) |
-| Sun, 29 Mar 2026 17:19:42 GMT | Understanding How Spring Security Works | Ramzi Bouzaiene | [Read More](https://medium.com/p/1cf957ef601e) |
-| Sun, 29 Mar 2026 17:19:28 GMT | TryHackMe — Neighbour write-up | Ziya Shalbuzov | [Read More](https://medium.com/p/1ae5e46100d2) |
-| Sun, 29 Mar 2026 17:19:06 GMT | Claude Cowork: Safety checklist for delegating tasks to an AI agent | Mihailo Zoin | [Read More](https://medium.com/p/57f6a2ecbc0f) |
-| Sun, 29 Mar 2026 17:14:00 GMT | The Cargo Cult of IT Hiring | Taulan Zauzanov | [Read More](https://medium.com/p/e41784b50d77) |
-| Sun, 29 Mar 2026 17:13:58 GMT | API Key Authentication in .NET 10 | Ed Curtin | [Read More](https://medium.com/p/42becc5c7edf) |
-| Sun, 29 Mar 2026 17:11:46 GMT | From Zero to Web Pentester: Setting Up OWASP Juice Shop | ~ Jeff ~ | [Read More](https://medium.com/p/40af44ca9dc0) |
-| Sun, 29 Mar 2026 17:06:36 GMT | How I Stopped Losing Track of My Cybersecurity Studies | CyberCraft | [Read More](https://medium.com/p/022a2f122294) |
-| Sun, 29 Mar 2026 17:04:36 GMT | Setup Your Threat Hunting Lab in 30 mins… | Mheboobkhan | [Read More](https://medium.com/p/60d9e9c6d0d2) |
-| Sun, 29 Mar 2026 17:01:00 GMT | AI Can’t Read Malicious Minds — Why Smart Robots Are Easy to Deceive | NeaByteLab | [Read More](https://medium.com/p/f2da57f1f9f9) |
-| Sun, 29 Mar 2026 16:55:31 GMT | How I Pwned N8N: From Exposed Credentials to Root via Docker Escape - DGSSI National CTF | M3H47D1 | [Read More](https://medium.com/p/c45d68c37558) |
-| Sun, 29 Mar 2026 16:51:00 GMT | You’re debugging what you can see — not what’s actually wrong | Prem Chandak | [Read More](https://medium.com/p/24cfa1200807) |
-| Sun, 29 Mar 2026 16:43:44 GMT | Planning: The Secret to a Smooth Project | Favour Mulungi | [Read More](https://medium.com/p/28598fa5da85) |
-| Sun, 29 Mar 2026 16:27:01 GMT | Day 56: Cosign — Signing and Verifying Your Work | Prakshal Doshi | [Read More](https://medium.com/p/cc28fb405413) |
-| Sun, 29 Mar 2026 16:23:20 GMT | Writeup PicoCTF: Menyelesaikan Tantangan “Old Sessions” (Web Exploitation) | Malvin Wijaya | [Read More](https://medium.com/p/ef7b6dc419f1) |
-| Sun, 29 Mar 2026 16:19:59 GMT | My research | Olga Gladosz | [Read More](https://medium.com/p/00e68cb24596) |
-| Sun, 29 Mar 2026 16:11:48 GMT | PDA Seed Collision: How a Sequential Counter Affected Account Isolation on Solana | Talfao | [Read More](https://medium.com/p/3cbf6d30ea3b) |
-| Sun, 29 Mar 2026 16:11:34 GMT | Threat Intelligence Tools Walkthrough: TryHackMe Practical Analysis | Sawjor | [Read More](https://medium.com/p/a1598cfd7e85) |
-| Sun, 29 Mar 2026 16:07:50 GMT | I Spent a Week Thinking Like a Hacker and It Changed Everything | Cynthiafavour | [Read More](https://medium.com/p/5d9c52d78b00) |
-| Sun, 29 Mar 2026 15:57:18 GMT | TryHackMe Attacktive Directory Walkthrough By Ryan Cham | Ryan Cham Rui Yang | [Read More](https://medium.com/p/0bcb9f66edfa) |
-| Sun, 29 Mar 2026 15:52:16 GMT | This AI Is Learning Your Weaknesses And It’s Not Your Boss | Shantun Parmar | [Read More](https://medium.com/p/439b8df6d66b) |
-| Sun, 29 Mar 2026 15:51:28 GMT | AI vs Hacker: Who Wins in Cybersecurity? - kidnapshadow | Kidnapshadow | [Read More](https://medium.com/p/a5e3f595b5cd) |
-| Sun, 29 Mar 2026 15:50:18 GMT | Top Cyber Security Trends in 2026: How to Stay Protected in a Digital-First World | Indomitech Insights | [Read More](https://medium.com/p/7f88cee2b83d) |
-| Sun, 29 Mar 2026 15:50:15 GMT | AI Has a Dirty Secret, And It’s About to Become Your Problem Too | Er.Muruganantham | [Read More](https://medium.com/p/b6e8382f743f) |
-| Sun, 29 Mar 2026 15:49:40 GMT | CTF day 02- PicoCTF Login Bypass (Cookie Tampering) | Adithya Hettiarachchi | [Read More](https://medium.com/p/d8b00753f35c) |
-| Sun, 29 Mar 2026 15:47:43 GMT | Fresh Paint, Deep Roots. | Irene Basaglia | [Read More](https://medium.com/p/869408041522) |
