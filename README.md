@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 30 Mar 2026 22:25:15 GMT | Dynamic SSL Pinning on iOS and macOS: Integrating the SDK and Walking Through the Implementation | Denis | [Read More](https://medium.com/p/ceae2ee8bd84) |
+| Mon, 30 Mar 2026 22:22:10 GMT | Engine Inside Engine: How JavaScript Really Executes Regular Expressions | Héla Ben Khalfallah | [Read More](https://medium.com/p/23fcd6f6aa6b) |
+| Mon, 30 Mar 2026 22:05:33 GMT | Identifying the AWS account ID from a public S3 bucket | Ronaldsecurit | [Read More](https://medium.com/p/5b3d55bccf86) |
+| Mon, 30 Mar 2026 22:05:29 GMT | Proving Grounds — Practice — Billyboss | Makoyi | [Read More](https://medium.com/p/fd566d8b74e3) |
+| Mon, 30 Mar 2026 21:44:24 GMT | CTF Write-Up : NCSA AI CTF 2026 (MEDIUM) The Hallucinating Debugger | Reonomu | [Read More](https://medium.com/p/45c051e6ab46) |
+| Mon, 30 Mar 2026 21:42:59 GMT | The Model Is Not the Perimeter: Why Enterprise AI Security Must Protect Synthetic Trust | Juan Pablo Castro | [Read More](https://medium.com/p/0e10b1021637) |
 | Mon, 30 Mar 2026 21:34:53 GMT | The Chrome Extension That Almost Cost a Freelancer Everything | Cyber Safety Zone | [Read More](https://medium.com/p/341f8b76dccd) |
 | Mon, 30 Mar 2026 21:18:02 GMT | Most people think Microsoft 365 is just email and Office apps. | Paul Charnin | [Read More](https://medium.com/p/9f75c3574ce6) |
 | Mon, 30 Mar 2026 21:13:36 GMT | What Actually Happens When You Type google.com and Press Enter. | SainT - Cybersecurity & Tech | [Read More](https://medium.com/p/a35011ace2a2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Mar 2026 16:01:01 GMT | Your LLM Can Be 95% Accurate… and Still Leak Sensitive Data | Venkatkumar (VK) | [Read More](https://medium.com/p/c74d60cb964e) |
 | Mon, 30 Mar 2026 16:00:22 GMT | Day 57: HashiCorp Vault — Beyond Kubernetes Secrets | Prakshal Doshi | [Read More](https://medium.com/p/0cd7b88cd9d4) |
 | Mon, 30 Mar 2026 15:42:31 GMT | Network Technician: A Great Entry Point into IT Networking | Cyberabhisharma | [Read More](https://medium.com/p/7b432d4d0609) |
-| Mon, 30 Mar 2026 15:41:04 GMT | Hackers from the Armenian Code group gained access to a Turkish heat generator | Bobswallower | [Read More](https://medium.com/p/95c6e1ad825f) |
-| Mon, 30 Mar 2026 15:37:15 GMT | How I Passed the TryHackMe PT1 — Tips That Actually Matter | Contact Aryan Here | [Read More](https://medium.com/p/7176d12ddf90) |
-| Mon, 30 Mar 2026 15:35:13 GMT | Pristine… or am I? (Disheveled… or am I?) | Ajee writes | [Read More](https://medium.com/p/d0be899ab370) |
-| Mon, 30 Mar 2026 15:32:59 GMT | Why Outsourced SOCs Accelerate Cybersecurity Learning | UMAR MUSA | [Read More](https://medium.com/p/29f85499e293) |
-| Mon, 30 Mar 2026 15:32:30 GMT | I Almost Got Scammed by a ‘Good Samaritan’ in Disguise | CyberGirlie | [Read More](https://medium.com/p/13e19d276520) |
-| Mon, 30 Mar 2026 15:31:00 GMT | Guardrails for the GenAI Age | Stephen Thursby | [Read More](https://medium.com/p/922f24ce126e) |
