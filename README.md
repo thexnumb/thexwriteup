@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 31 Mar 2026 21:36:43 GMT | The npm Supply Chain Attack Affecting Millions: How to Check If You’re Impacted | Ajeesh Garg | [Read More](https://medium.com/p/b8aa0b60960e) |
+| Tue, 31 Mar 2026 21:33:04 GMT | The Hidden Reason Your Pest Problem Keeps Coming Back (And How to Actually Fix It) | C4pest Control | [Read More](https://medium.com/p/ddc823026afe) |
+| Tue, 31 Mar 2026 21:32:38 GMT | Accelerating Growth with digital infrastructure investment and digital infrastructure services | International Data Center Authority | [Read More](https://medium.com/p/f498158cc516) |
+| Tue, 31 Mar 2026 21:27:00 GMT | Claude Code’s Entire Source Just Leaked. There’s a Tamagotchi Inside. | Sumit Pandey | [Read More](https://medium.com/p/5f223738447c) |
+| Tue, 31 Mar 2026 21:23:46 GMT | The Most Dangerous Hack of 2026: The Axios Supply Chain Attack | Syed Talha Ahmed | [Read More](https://medium.com/p/9861ad017111) |
+| Tue, 31 Mar 2026 21:04:00 GMT | Sigea Cloud Storage vs Google Drive vs Dropbox: What Actually Changes? | Sigea Cloud Labs | [Read More](https://medium.com/p/c6afca6e382a) |
+| Tue, 31 Mar 2026 21:03:22 GMT | The Hidden Power of Metadata — Turning Context into Competitive Advantage | Monika Łyżwa-Dembska | [Read More](https://medium.com/p/f8138add74c9) |
+| Tue, 31 Mar 2026 21:02:32 GMT | Is Sigea Cloud Storage Legit? A Real Breakdown | Sigea Cloud Labs | [Read More](https://medium.com/p/9e7a381698e4) |
+| Tue, 31 Mar 2026 21:01:01 GMT | Unfiltered Restart — Day 38: Security Marathon Day 5 + Others | Maximillian Rueda | [Read More](https://medium.com/p/40c81eb01934) |
+| Tue, 31 Mar 2026 21:00:54 GMT | Why AI Breaks — and the Leadership Playbook to Prevent It | Mehdi Kazmie | [Read More](https://medium.com/p/0f5b606a6890) |
 | Tue, 31 Mar 2026 20:38:05 GMT | Local Privilege Escalation through BYOVD with Kernel R/W Primitives | S12 - 0x12Dark Development | [Read More](https://medium.com/p/2e27878725a2) |
 | Tue, 31 Mar 2026 20:37:45 GMT | Wazuh, Zeek and Pi-hole DNS Sinkhole on Repurposed Hardware (TV Box) | m0us3r | [Read More](https://medium.com/p/d6ea39bfdeb3) |
 | Tue, 31 Mar 2026 20:09:15 GMT | mKingdom — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/8905dfc58cdf) |
@@ -106,13 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 31 Mar 2026 14:26:03 GMT | Anti-Money Laundering (AML) Overview: Grasping the Battle Against Financial Crime | Lenna Mustik | [Read More](https://medium.com/p/7e858341b522) |
 | Tue, 31 Mar 2026 14:23:19 GMT | TryHackMe - Splunk 3 - Complete Walkthrough | VolenSec | [Read More](https://medium.com/p/9743e1293c49) |
 | Tue, 31 Mar 2026 14:22:35 GMT | Digital Identity Verification Explained: How My Online Identity Gets Confirmed | Lenna Mustik | [Read More](https://medium.com/p/e20c7c0d96b3) |
-| Tue, 31 Mar 2026 14:20:49 GMT | Step-by-Step Guide: How to Check if a Website is Safe Using ScamAlerts.com | James Smith | [Read More](https://medium.com/p/9f2dcd4b7ada) |
-| Tue, 31 Mar 2026 14:18:51 GMT | Sliver C2 Deep Dive : Creating and Reversing Your First Sliver Implant | Maverick | [Read More](https://medium.com/p/52c8c1567fcd) |
-| Tue, 31 Mar 2026 14:14:45 GMT | Capturing a Real Network Attack in My Home Lab (Using Wireshark) | Akanniolasunkanmi | [Read More](https://medium.com/p/176a3861b820) |
-| Tue, 31 Mar 2026 14:14:39 GMT | I Tried 5 Crypto Exchanges as a Beginner — Here’s What I Learned | 孙Nicky | [Read More](https://medium.com/p/2350fff7f74f) |
-| Tue, 31 Mar 2026 14:07:41 GMT | The Part of Automation the Entire Industry Skips | Ehulse | [Read More](https://medium.com/p/09519c78af09) |
-| Tue, 31 Mar 2026 14:07:19 GMT | PentestAgent: AI Agent for Penetration Testing & Bug Bounty | Pentester Club | [Read More](https://medium.com/p/f6c6f29b7462) |
-| Tue, 31 Mar 2026 14:01:02 GMT | Why Blindly Shipping AI-Generated Infrastructure Will Burn You | Shravanth v | [Read More](https://medium.com/p/0189ec1a2d18) |
-| Tue, 31 Mar 2026 14:01:02 GMT | Fine Tuning a Small LLM with LoRA | 喂美女你好! | [Read More](https://medium.com/p/ef87e2c16102) |
-| Tue, 31 Mar 2026 14:01:02 GMT | Cyber Briefing: 2026.03.31 | CyberMaterial | [Read More](https://medium.com/p/ec9b224905d7) |
-| Tue, 31 Mar 2026 14:00:30 GMT | OverTheWire Bandit Walkthrough — Level 5 → 6 - 30-Day Cybersecurity Learning Journey (Day 6) | William | [Read More](https://medium.com/p/497850094774) |
