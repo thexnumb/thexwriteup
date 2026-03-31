@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 31 Mar 2026 20:04:36 GMT | Language is the Attack Surface: What We Learned Breaking a Bank With Text | Daniel Alarcón Sánchez | [Read More](https://medium.com/p/a3401ccc2ec6) |
+| Tue, 31 Mar 2026 20:03:18 GMT | In a world where everyone is chasing the next course, the next badge, the next “proof” of… | Ayomide Familusi | [Read More](https://medium.com/p/5fa0ce8835d5) |
+| Tue, 31 Mar 2026 19:57:43 GMT | <!DOCTYPE html>
+<html lang=”en”>
+<head>
+<meta charset=”UTF-8">
+<meta name=”viewport”… | Cloud_Truck | [Read More](https://medium.com/p/f5a59f762f72) |
+| Tue, 31 Mar 2026 19:54:54 GMT | You Don’t Need More Chemistry — You Need Emotional Intimacy | Tamara Nanakumo | [Read More](https://medium.com/p/63e5842f42f0) |
+| Tue, 31 Mar 2026 19:54:31 GMT | The Tool That Automatically Hacks Binaries and Generates Working RCE Exploits in Seconds — Meet… | AncientEncoder | [Read More](https://medium.com/p/51ed28009a97) |
+| Tue, 31 Mar 2026 19:51:13 GMT | Claude Code’s Source Code Leaked. | Yasas Banu | [Read More](https://medium.com/p/c2bde89edc83) |
+| Tue, 31 Mar 2026 19:41:59 GMT | Good News, PC RAM Prices Are Finally Dropping — Here’s What It Means for You in 2026 | Rayhanuddinkhan | [Read More](https://medium.com/p/84996dc0ad83) |
+| Tue, 31 Mar 2026 19:37:03 GMT | The “Manual Mess”: Why Your Compliance Spreadsheet is a Cybersecurity Liability? | Codin Alex Iancu | [Read More](https://medium.com/p/4bc00aaf9f85) |
+| Tue, 31 Mar 2026 19:36:01 GMT | Vulnerability Scanning Tools - TryHackMe | Jose Praveen | [Read More](https://medium.com/p/06832055243a) |
+| Tue, 31 Mar 2026 19:35:48 GMT | The Hidden Risk in Every npm install Command (And the Simple Config Change That Helps) | Rusiru Gunaratne | [Read More](https://medium.com/p/a69defe1dfa4) |
+| Tue, 31 Mar 2026 19:34:57 GMT | Anthropic Just Leaked 512,000 Lines of Claude Code’s Source And What’s Inside Is Wild | ThinkBeyond | [Read More](https://medium.com/p/d276cb37b7fa) |
+| Tue, 31 Mar 2026 19:29:19 GMT | Axios Got Hacked and Honestly I’m Tired | Samrat Dutta | [Read More](https://medium.com/p/66c13495033f) |
+| Tue, 31 Mar 2026 19:26:51 GMT | Strategy, Standards, and Success Cases of Cybersecurity Frameworks | Xcelplex | [Read More](https://medium.com/p/7e71299d0220) |
+| Tue, 31 Mar 2026 19:14:16 GMT | Security Camera Systems in Fayetteville GA: Protecting What Matters in a Rapidly Changing World | BNS ReadyTech | [Read More](https://medium.com/p/0d01bafa60d9) |
 | Tue, 31 Mar 2026 18:56:20 GMT | OpenClaw Security in 2026: Network-Level Threat Detection with Suricata | Senturkselim | [Read More](https://medium.com/p/bd4170969b99) |
 | Tue, 31 Mar 2026 18:56:01 GMT | EU GDPR — Article 40 (Codes of Conduct) | MDM Team | [Read More](https://medium.com/p/6f3796528b02) |
 | Tue, 31 Mar 2026 18:53:07 GMT | The 57MB Blunder: What the Claude Code Leak Actually Reveals | Shashwat | [Read More](https://medium.com/p/b42ab06dcb1b) |
@@ -53,10 +71,12 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 31 Mar 2026 16:49:58 GMT | Critical memory overread vulnerability in Citrix NetScaler CVE-2026–3055 | Laxman Hariharan | [Read More](https://medium.com/p/edfa90da227c) |
 | Tue, 31 Mar 2026 16:45:05 GMT | AWS Security Agent Broke Into Juice Shop So I Didn’t Have To | Pragnya Ambekar | [Read More](https://medium.com/p/9d758be6d997) |
 | Tue, 31 Mar 2026 16:43:38 GMT | Your Identity Is Becoming Code — And You Didn’t Vote for It | LifeHack | [Read More](https://medium.com/p/e7d291fcc65d) |
+| Tue, 31 Mar 2026 16:37:30 GMT | How Attackers Actually Break Identity Systems (Step by Step) | Dr. Shashi Karhail | [Read More](https://medium.com/p/bd94dd97aa95) |
 | Tue, 31 Mar 2026 16:27:33 GMT | Affordable Photography and Videography Services in London for All Events | waeventservices.co.uk/ | [Read More](https://medium.com/p/bd9302cfdda3) |
 | Tue, 31 Mar 2026 16:12:41 GMT | Lab: SQL injection attack, listing the database contents on non-Oracle databases | Songül Kızılay Özügürler | [Read More](https://medium.com/p/e4141d7ffe2a) |
 | Tue, 31 Mar 2026 16:11:42 GMT | The Machines Are Making Decisions. Who Is Governing the Machines? | Younos Nazarian | [Read More](https://medium.com/p/977057ba2d78) |
 | Tue, 31 Mar 2026 16:10:48 GMT | A Deep Dive into Azure Virtual Network Routing Appliance | ZimCanIT | [Read More](https://medium.com/p/466a6f3feacb) |
+| Tue, 31 Mar 2026 16:04:52 GMT | Your phone is now one of the biggest attack surfaces in your life | Ted Tahquechi | [Read More](https://medium.com/p/2d37b0d07260) |
 | Tue, 31 Mar 2026 16:00:31 GMT | Building a powerful SIEM with Clickhouse and Clickdetect | Vinicius Morais | [Read More](https://medium.com/p/ae68a4495a76) |
 | Tue, 31 Mar 2026 15:57:36 GMT | Cybersecurity Consulting Services for the Digital Age: Strengthening Business Defense with… | Nihar | [Read More](https://medium.com/p/1d4c02ba9f24) |
 | Tue, 31 Mar 2026 15:53:53 GMT | TPM — Trusted Platform Module | Gabriel Carrijo | [Read More](https://medium.com/p/fcc83d9db4db) |
@@ -74,7 +94,9 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 31 Mar 2026 14:49:48 GMT | eJPT Network-Based Attacks CTF 1 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/5561484e1d2b) |
 | Tue, 31 Mar 2026 14:47:06 GMT | Web Security Series #13 — Command Injection Exploitation (Reverse Shell) | Laibakashif | [Read More](https://medium.com/p/35b8604e6549) |
 | Tue, 31 Mar 2026 14:37:59 GMT | UDF-Fantom is a cross-platform MySQL local/remote UDF privilege escalation tool, designed for… | Мартин. | [Read More](https://medium.com/p/9bf8f810fcb2) |
+| Tue, 31 Mar 2026 14:35:23 GMT | Case Study: How Synergy IT Built a “Self-Healing” SOC for a Canada Enterprise | IT_Engineer | [Read More](https://medium.com/p/258d378b3650) |
 | Tue, 31 Mar 2026 14:34:49 GMT | Stop Your AI From Installing Malware: Supply Chain Security for Claude Code | David Veselý | [Read More](https://medium.com/p/e5afac5f4caa) |
+| Tue, 31 Mar 2026 14:33:06 GMT | Anthropic’s Claude Code CLI Source Map Leak: A 60MB Packaging Blunder That Exposed 1,900+… | BBSRGUY | [Read More](https://medium.com/p/54d760acb620) |
 | Tue, 31 Mar 2026 14:29:55 GMT | The People Who Thrived After AI Arrived Had One Thing in Common. It Was Not Skill | Rishabh Singh | [Read More](https://medium.com/p/969b1e56360f) |
 | Tue, 31 Mar 2026 14:29:19 GMT | Is your husband cheating on you? | Michael Parks | [Read More](https://medium.com/p/592ad17d89c5) |
 | Tue, 31 Mar 2026 14:26:03 GMT | Anti-Money Laundering (AML) Overview: Grasping the Battle Against Financial Crime | Lenna Mustik | [Read More](https://medium.com/p/7e858341b522) |
@@ -94,21 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 31 Mar 2026 13:46:01 GMT | Essential Garage Door Repair Advice - Up & Down Garage Doors | Up & Down Garage Door Services | [Read More](https://medium.com/p/35ffacf2ab70) |
 | Tue, 31 Mar 2026 13:37:14 GMT | Gaining Cybersecurity Knowledge as a Cybersecurity Student (Day 2): Introduction to Cybersecurity | Samatham mahesh | [Read More](https://medium.com/p/f4fc225e4807) |
 | Tue, 31 Mar 2026 13:26:11 GMT | Anthropic’s Claude Code Source Code Leaked: The npm .map Blunder That Exposed Everything | Shri | [Read More](https://medium.com/p/85d554a77178) |
-| Tue, 31 Mar 2026 13:24:58 GMT | Why Your .env Secrets Shouldn’t Be Plaintext on Disk | Mihai Bojin | [Read More](https://medium.com/p/db662db2d77e) |
-| Tue, 31 Mar 2026 13:23:56 GMT | Cerita Alvin tentang Belajar Instalasi dan Konfigurasi GitLab Menggunakan Docker | alvin aura | [Read More](https://medium.com/p/bf590c488492) |
-| Tue, 31 Mar 2026 13:16:08 GMT | Investigating the Change Healthcare Cyberattack: A Digital Forensics Case Study | Mooki W | [Read More](https://medium.com/p/b53f811a22ab) |
-| Tue, 31 Mar 2026 13:13:24 GMT | Nym Roadmap 2026: গোপনীয়তা অবকাঠামোর ভবিষ্যৎ নির্মাণ | S. M. Abdullah | [Read More](https://medium.com/p/194cb9cd72b6) |
-| Tue, 31 Mar 2026 13:09:06 GMT | An Open Door for Attackers. Lock It with CSP. | Asrarul Hoque Eusha | [Read More](https://medium.com/p/237be7749bd5) |
-| Tue, 31 Mar 2026 13:01:03 GMT | [Inglourious Basterds] Survival Logic of Information Asymmetry | MonoEssay | [Read More](https://medium.com/p/5cb0dfa3d0cb) |
-| Tue, 31 Mar 2026 12:56:01 GMT | How to Replace a Garage Door Spring - 24H Garage Doors | 24H Garage Doors | [Read More](https://medium.com/p/23dd79fdcd64) |
-| Tue, 31 Mar 2026 12:55:37 GMT | AI agents can delete your production database. | Rudson Kiyoshi Carvalho | [Read More](https://medium.com/p/079c4b8b8444) |
-| Tue, 31 Mar 2026 12:54:22 GMT | UK energy policy has a trust problem | Moh. Wahyu Syafi'ul Mubarok | [Read More](https://medium.com/p/f9b1646d7a86) |
-| Tue, 31 Mar 2026 12:54:00 GMT | Why Your AI-Powered Security Tools Are Still Missing the Real Threats | Sandra Blake, Consumer Finance Writer | [Read More](https://medium.com/p/2e3ff2869de2) |
-| Tue, 31 Mar 2026 12:50:27 GMT | Reverse Shell vs Bind Shell: A Complete Guide with Examples | Sami ST | [Read More](https://medium.com/p/18545c0b503d) |
-| Tue, 31 Mar 2026 12:45:08 GMT | A Critical Technical Mistake by Anthropic Exposed Claude Code — What Happened? | Marwan Maythem | [Read More](https://medium.com/p/8f1959973219) |
-| Tue, 31 Mar 2026 12:42:02 GMT | On Being Held | Priya Krishnamoorthy | [Read More](https://medium.com/p/15f7ad76a55b) |
-| Tue, 31 Mar 2026 12:40:10 GMT | The missing half of energy security is demand discipline | Moh. Wahyu Syafi'ul Mubarok | [Read More](https://medium.com/p/bd738d7ee3e7) |
-| Tue, 31 Mar 2026 12:38:23 GMT | The Code of Reality: Building the Possibilist Universe | Jim Whitescarver | [Read More](https://medium.com/p/e94238d882ff) |
-| Tue, 31 Mar 2026 12:33:32 GMT | How to Spot and Avoid AI-Generated Scams and Deepfakes | Miles John Carter | [Read More](https://medium.com/p/66ca3fbfe20e) |
-| Tue, 31 Mar 2026 12:31:01 GMT | 5 Reasons Why You Should Change Your Old Electric Garage Door Opener | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/83ce8e7b64d0) |
-| Tue, 31 Mar 2026 12:29:56 GMT | The Loop: How an AI Swarm Surfaced a Governance Limitation, Then Tested the Fix | Selfradiance | [Read More](https://medium.com/p/c3442adab66c) |
