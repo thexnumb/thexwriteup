@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 31 Mar 2026 05:07:08 GMT | The Hidden Security Risks in Small Business Websites Most Owners Ignore | Cloud Software Solution | [Read More](https://medium.com/p/de0498cfe6de) |
+| Tue, 31 Mar 2026 04:56:30 GMT | What is a sandbox in cybersecurity? | Nivethabaskar | [Read More](https://medium.com/p/0a8caa9ad15f) |
+| Tue, 31 Mar 2026 04:54:47 GMT | You Use The Technology, Not Let The Technology Use You | Blossomlily | [Read More](https://medium.com/p/29f39d32499d) |
+| Tue, 31 Mar 2026 04:53:09 GMT | Cyber Essentials Certification: A Plain-English Guide for UK Small Businesses | UK Cyber Defence | [Read More](https://medium.com/p/e3a6b3909da9) |
+| Tue, 31 Mar 2026 04:47:12 GMT | Harvest Now, Decrypt Later: The Quiet Crisis in Post-Quantum Cryptography | CCD-IS | [Read More](https://medium.com/p/0900e5c4d156) |
+| Tue, 31 Mar 2026 04:45:22 GMT | Anthropic’s Most Powerful AI Just Leaked — And It Could Be a Cybersecurity Nightmare | Crafty | [Read More](https://medium.com/p/6d0d246c342f) |
+| Tue, 31 Mar 2026 04:41:53 GMT | ️‍♂️ Cybersecurity & Bug Bounty Cheat Sheet — Recon, Enumeration & Initial Access | Eugene Softley (softsec) | [Read More](https://medium.com/p/55218034f804) |
+| Tue, 31 Mar 2026 04:41:09 GMT | Relationship is Not an Add Free Tier Subscription | Sanya Jovanovic | [Read More](https://medium.com/p/44fa6754ce40) |
+| Tue, 31 Mar 2026 04:38:14 GMT | Claude Code Everywhere: The AWS Playbook for Modern Engineering Teams | Ashish Kasaudhan | [Read More](https://medium.com/p/7dad2633b18f) |
+| Tue, 31 Mar 2026 04:36:01 GMT | Your IAM Policy Is an Open Door — And Attackers Are Already Walking Through It | Dishanth C A | [Read More](https://medium.com/p/10c8c6927c4e) |
+| Tue, 31 Mar 2026 04:31:03 GMT | Automating GRC: How Technology is Streamlining Compliance Audits | Cyber Aries | [Read More](https://medium.com/p/51d0d9416917) |
+| Tue, 31 Mar 2026 04:24:24 GMT | Footprinting and Reconnaissance in Cybersecurity: The First Step of Ethical Hacking | Rohitreddy | [Read More](https://medium.com/p/dd783e6ff999) |
+| Tue, 31 Mar 2026 04:22:59 GMT | If You Still Trust Your Network, You’re Already Hacked | Zefai Insights | [Read More](https://medium.com/p/f8d270cbf85b) |
+| Tue, 31 Mar 2026 04:16:26 GMT | How to Delete Your YouTube Search History (And Why You Should Do It) | MD. RASHEDUL ISLAM | [Read More](https://medium.com/p/2107c4558cd3) |
+| Tue, 31 Mar 2026 04:14:50 GMT | How I Started Learning Ethical Hacking (And What Actually Worked) | SecurityElites – Ethical Hacking & Bug Bounty | [Read More](https://medium.com/p/f3a5b76f2058) |
+| Tue, 31 Mar 2026 03:54:13 GMT | Why Learning AI Basics Is Important for Cybersecurity Students | Antonyrajvedamanickam | [Read More](https://medium.com/p/2e47eb6a2d88) |
+| Tue, 31 Mar 2026 03:51:54 GMT | Pen Testing Tools Explained: Nessus, Burp Suite, Nmap, Metasploit — What They Do and What They Miss | Kuboid Secure Layer | [Read More](https://medium.com/p/d8c212aa6c34) |
+| Tue, 31 Mar 2026 03:51:39 GMT | My Bug Bounty Journey #3: Bypassing SSO Lockout Protection | awchjimmy | [Read More](https://medium.com/p/83b7ee6e4522) |
+| Tue, 31 Mar 2026 03:50:40 GMT | How Do I Call McAfee Support Number Australia | Customer Support Information | [Read More](https://medium.com/p/657f55f6b955) |
+| Tue, 31 Mar 2026 03:46:54 GMT | Gattuso’s Passion Meets Barbarez’s Structure: The Apple Home Key Showdown. | Lockshrewd | [Read More](https://medium.com/p/360228eb6284) |
+| Tue, 31 Mar 2026 03:31:01 GMT | Thick Client Security Testing — Static Analysis (Tools Explanation) | Madhumathi chamarthi | [Read More](https://medium.com/p/4e841ca3bc8f) |
+| Tue, 31 Mar 2026 03:26:35 GMT | Model Denial of Service Turns Your Cloud Bill Into a Weapon | ToxSec | [Read More](https://medium.com/p/be2b43c115d6) |
+| Tue, 31 Mar 2026 03:18:28 GMT | “I Watch Him Breathe” — Mia’s Story | DMack | [Read More](https://medium.com/p/a8d2c53e9f4f) |
+| Tue, 31 Mar 2026 03:07:47 GMT | Operationalizing Threat Intelligence for Pentesting with AI | Yoel Apu | [Read More](https://medium.com/p/f595c132971d) |
+| Tue, 31 Mar 2026 03:03:45 GMT | Think Beyond Linting: Deep Static Analysis for Dockerfiles and Docker Compose with Code-Pathfinder | Shivasurya Sankar | [Read More](https://medium.com/p/fce9d95ca254) |
+| Tue, 31 Mar 2026 02:40:31 GMT | Beyond the Firewall: Why Behavioral Analysis is the New Standard in Cybersecurity | Akash Das | [Read More](https://medium.com/p/d0faa78fabfe) |
+| Tue, 31 Mar 2026 02:32:16 GMT | I Built a Security Scanner That Goes Beyond Regex — Here’s Why (and How) | Parag Bagade | [Read More](https://medium.com/p/0713f64d03ae) |
 | Tue, 31 Mar 2026 02:31:14 GMT | AWS Docs Show You Features. These 60 Security Cards Show You How Everything Breaks. | Eddie Chan | [Read More](https://medium.com/p/b628e58e4e56) |
 | Tue, 31 Mar 2026 02:31:01 GMT | Update or Be Hacked: The truth behind the new “Critical Software” lock screen warning. | apple insides | [Read More](https://medium.com/p/016a6af0f60f) |
 | Tue, 31 Mar 2026 02:25:03 GMT | The SMB Guide to vCISO, CaaS, and Audit Roles | Zac Moore | [Read More](https://medium.com/p/c18075118d6d) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Mar 2026 18:36:08 GMT | Vulnerability Scanning Tools (THM) Tryhackme Full Walkthrough | Lawvye | [Read More](https://medium.com/p/dc908a327b49) |
 | Mon, 30 Mar 2026 18:27:54 GMT | The Cybersecurity Sentinel (April 2026) | Franklin Rhodes | [Read More](https://medium.com/p/caba30f717e7) |
 | Mon, 30 Mar 2026 18:25:20 GMT | Anthropic’s Claude Mythos Leak: When a CMS Misconfiguration Becomes a $Billion Lesson in Secrets… | Krishna | [Read More](https://medium.com/p/c1c3aa08bbe6) |
-| Mon, 30 Mar 2026 18:24:05 GMT | When War Goes Digital: Inside the Latest Iran-Linked Cyber Attacks | Sharanraju | [Read More](https://medium.com/p/686ef81cb2d8) |
-| Mon, 30 Mar 2026 18:19:42 GMT | This Viral “Deep fake Detection Trick” Might Actually Make You Easier to Scam | Mia Kotalik | [Read More](https://medium.com/p/dfac27a3a76d) |
-| Mon, 30 Mar 2026 18:17:27 GMT | How can Cybersecurity be exploited in Finance? | Tristian Julius | [Read More](https://medium.com/p/0a09d431e136) |
-| Mon, 30 Mar 2026 18:16:08 GMT | The 27-Second Collapse: Why Zero Trust Fails in the Era of Weaponized AI | Tae Yeon Eom | [Read More](https://medium.com/p/99b8631f4b11) |
-| Mon, 30 Mar 2026 18:14:59 GMT | Value and Policy-driven Samsung Serves for Global Recognition | Anwarul A.K.M | [Read More](https://medium.com/p/82266e74b7ec) |
-| Mon, 30 Mar 2026 18:11:00 GMT | Assessment Methodologies: Vulnerability Assessment CTF 1 | R1punjay_Singh | [Read More](https://medium.com/p/2fae57a7c03b) |
-| Mon, 30 Mar 2026 18:08:28 GMT | Cloud Cybersecurity Best Practices Powered by OAD Technologies | oadtechnologies | [Read More](https://medium.com/p/f5f386b5e39c) |
-| Mon, 30 Mar 2026 18:08:08 GMT | SPF, DKIM, and DMARC: The 3 DNS Records That Stop Email Spoofing | Usmanghanichaudhry | [Read More](https://medium.com/p/2eb4cbe48cf2) |
-| Mon, 30 Mar 2026 18:01:25 GMT | AI That Acts Can Be Tricked to Act Against You | Navinda Dissanayake | [Read More](https://medium.com/p/a7c05d98621f) |
-| Mon, 30 Mar 2026 18:00:08 GMT | Inside Look at 2026 Cyber Workforce | Luke | [Read More](https://medium.com/p/a16eececea46) |
-| Mon, 30 Mar 2026 17:54:01 GMT | Day 30 — Networking Fundamentals Series | Ndu | [Read More](https://medium.com/p/072c64a1c0e2) |
-| Mon, 30 Mar 2026 17:53:21 GMT | Own your data. Own your freedom | The Architect | [Read More](https://medium.com/p/8e299826e73f) |
-| Mon, 30 Mar 2026 17:53:15 GMT | Finding Common Ground in Times of Need | thehiddenhazards | [Read More](https://medium.com/p/d7fba0a75a3b) |
-| Mon, 30 Mar 2026 17:53:12 GMT | Zero Trust & Modern Security Models: Rethinking Network Security in the Digital Age | Ndu | [Read More](https://medium.com/p/1ed51c7a8b6d) |
-| Mon, 30 Mar 2026 17:52:58 GMT | Juice Shop Write-up: Score Board Challenge | ~ Jeff ~ | [Read More](https://medium.com/p/625a2c53bdac) |
-| Mon, 30 Mar 2026 17:52:13 GMT | “Agent Auth” Is Not One Problem | Venkat Peri | [Read More](https://medium.com/p/ded39a3f00f8) |
-| Mon, 30 Mar 2026 17:48:38 GMT | CyberDefenders — Tusk Infostealer Lab Writeup | JBXSec | [Read More](https://medium.com/p/d8c5e7c4019c) |
-| Mon, 30 Mar 2026 17:42:50 GMT | Life Paradox: Mask & Vulnerability | Nagesh Sahu | [Read More](https://medium.com/p/a98f96d70d82) |
-| Mon, 30 Mar 2026 17:31:22 GMT | ️ The 50-Year Vault: How to Record Security Cameras Forever Without Deleting a Single Second | Zoningxtr | [Read More](https://medium.com/p/1c96a1e9bc1f) |
-| Mon, 30 Mar 2026 17:28:05 GMT | Guia Definitivo: O que significam as nomenclaturas de Cheats no CS2? | Cheats para CS2 - HueCheats.com.br | [Read More](https://medium.com/p/310d6b8cdae2) |
-| Mon, 30 Mar 2026 17:20:23 GMT | AI vs Hackers The Future of Cybersecurity Uncovered | Dbmrworkin24 | [Read More](https://medium.com/p/840b9e40e903) |
-| Mon, 30 Mar 2026 17:19:23 GMT | OPHI: A Geometry-Native Cognitive Architecture | luis ayala | [Read More](https://medium.com/p/319dab8070b4) |
-| Mon, 30 Mar 2026 17:11:49 GMT | DefenseClaw + OpenObscure: Why Agent Security Needs Both a Governance Layer and a Privacy Layer | Srini Anant | [Read More](https://medium.com/p/a5ba429cb61e) |
-| Mon, 30 Mar 2026 17:11:48 GMT | Why AI Still Can’t Catch Criminals on the Blockchain (And What Needs to Change) | Harshal Goswami | [Read More](https://medium.com/p/c4b57c18a4b2) |
-| Mon, 30 Mar 2026 17:07:44 GMT | Start Here: What Sigea Cloud Labs Is Building | Sigea Cloud Labs | [Read More](https://medium.com/p/44c8f4614789) |
-| Mon, 30 Mar 2026 17:04:46 GMT | Whistleblowing in the Digital Age: Why Anonymity Can Be the Difference Between Speaking Up and… | Mark | [Read More](https://medium.com/p/5951c194d23b) |
-| Mon, 30 Mar 2026 17:01:41 GMT | Why Anonymous Email Is Becoming Essential in 2026 | Mark | [Read More](https://medium.com/p/cda62e92ce17) |
