@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 31 Mar 2026 22:51:40 GMT | Security Detective: How We Used AI to Automate Security Reviews at Scale | Ryan Black | [Read More](https://medium.com/p/44a89da5aba4) |
+| Tue, 31 Mar 2026 22:50:24 GMT | I Tried Breaking My Own LLM App — That’s When I Realised It Wasn’t Safe | Ethan | [Read More](https://medium.com/p/a91655286b5b) |
+| Tue, 31 Mar 2026 22:32:46 GMT | Earning the ISC2 Certified in Cybersecurity (CC): What I Learned and Why I Started Here | sree | [Read More](https://medium.com/p/5ab8db1523f0) |
+| Tue, 31 Mar 2026 22:30:57 GMT | TryHackMe SOC Analyst Road Map Part-17 | safa kaya | [Read More](https://medium.com/p/e86a76f9685c) |
+| Tue, 31 Mar 2026 22:23:16 GMT | A Nation Bleeding, A People Watching | Okpe Linus adams | [Read More](https://medium.com/p/8ca26526402e) |
+| Tue, 31 Mar 2026 22:17:59 GMT | I Ran ‘chmod 777’ to Fix Permissions — Locked Everyone Out Instead | Coding Stories & Tips | [Read More](https://medium.com/p/11a08ff1a405) |
+| Tue, 31 Mar 2026 22:17:34 GMT | Emotional Intimacy: Being Seen for Who You Really Are | Tamara Nanakumo | [Read More](https://medium.com/p/d9c5c3c6ce55) |
+| Tue, 31 Mar 2026 22:14:54 GMT | Beneath the Kernel Lies the Kingdom | Thomas F McGeehan V | [Read More](https://medium.com/p/36e56b6005c3) |
+| Tue, 31 Mar 2026 22:11:14 GMT | Chat Control Didn’t End, It Just Leveled Up. | RVwv.B | [Read More](https://medium.com/p/9c95508f688f) |
+| Tue, 31 Mar 2026 22:07:35 GMT | 500+ Organizations Now Participating as CVE Numbering Authorities (CNAs) | CVE Program Blog | [Read More](https://medium.com/p/5422e46f209d) |
+| Tue, 31 Mar 2026 22:01:01 GMT | Identity Security and Zero Trust in a Post-Perimeter World | Joshua Moses | [Read More](https://medium.com/p/835d1888097c) |
+| Tue, 31 Mar 2026 22:00:45 GMT | Axios Gets 100 Million Downloads a Week. Today, Two Came With a Trojan. | Aditya Agarwal | [Read More](https://medium.com/p/070ecbd38142) |
+| Tue, 31 Mar 2026 21:59:48 GMT | Least Privilege for AI Agents: The Security Principle Your LLM Deployment Is Probably Violating | Robert Saghafi | [Read More](https://medium.com/p/9042a4763d94) |
+| Tue, 31 Mar 2026 21:57:05 GMT | Rate Limiting Failures - When Your API Has No Memory and Attackers Have All the Time They Need | Rufus Kehinde | [Read More](https://medium.com/p/debcfad3efc9) |
 | Tue, 31 Mar 2026 21:36:43 GMT | The npm Supply Chain Attack Affecting Millions: How to Check If You’re Impacted | Ajeesh Garg | [Read More](https://medium.com/p/b8aa0b60960e) |
 | Tue, 31 Mar 2026 21:33:04 GMT | The Hidden Reason Your Pest Problem Keeps Coming Back (And How to Actually Fix It) | C4pest Control | [Read More](https://medium.com/p/ddc823026afe) |
 | Tue, 31 Mar 2026 21:32:38 GMT | Accelerating Growth with digital infrastructure investment and digital infrastructure services | International Data Center Authority | [Read More](https://medium.com/p/f498158cc516) |
@@ -102,17 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 31 Mar 2026 15:24:55 GMT | Zero Trust Architecture and Its Importance | National Security Institute | [Read More](https://medium.com/p/e38775567728) |
 | Tue, 31 Mar 2026 15:19:28 GMT | What happens when you type a command in a Linux terminal! | Amrsmooke | [Read More](https://medium.com/p/3983155154f7) |
 | Tue, 31 Mar 2026 15:17:13 GMT | Regulatory Excellence in Digital Finance: A Case Study of SafiPay’s European Operations | Sana Jan | [Read More](https://medium.com/p/5f9a6a1845ad) |
-| Tue, 31 Mar 2026 15:17:09 GMT | Why Technology is no longer an IT issue: Reflections from SheLeadsTech Conference by ISACA 2026 | The Digital Trust Journal | [Read More](https://medium.com/p/3c59ee3d0455) |
-| Tue, 31 Mar 2026 15:11:28 GMT | OhSINT Report | Mohammed Jehad | [Read More](https://medium.com/p/faffe5a2c0ed) |
-| Tue, 31 Mar 2026 14:59:25 GMT | Deep Dive into Vidar Stealer: Multi-Layer Shellcode, Native API Injection, and Stealth Persistence | Kaan | [Read More](https://medium.com/p/a6a8c6854665) |
-| Tue, 31 Mar 2026 14:49:48 GMT | eJPT Network-Based Attacks CTF 1 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/5561484e1d2b) |
-| Tue, 31 Mar 2026 14:47:06 GMT | Web Security Series #13 — Command Injection Exploitation (Reverse Shell) | Laibakashif | [Read More](https://medium.com/p/35b8604e6549) |
-| Tue, 31 Mar 2026 14:37:59 GMT | UDF-Fantom is a cross-platform MySQL local/remote UDF privilege escalation tool, designed for… | Мартин. | [Read More](https://medium.com/p/9bf8f810fcb2) |
-| Tue, 31 Mar 2026 14:35:23 GMT | Case Study: How Synergy IT Built a “Self-Healing” SOC for a Canada Enterprise | IT_Engineer | [Read More](https://medium.com/p/258d378b3650) |
-| Tue, 31 Mar 2026 14:34:49 GMT | Stop Your AI From Installing Malware: Supply Chain Security for Claude Code | David Veselý | [Read More](https://medium.com/p/e5afac5f4caa) |
-| Tue, 31 Mar 2026 14:33:06 GMT | Anthropic’s Claude Code CLI Source Map Leak: A 60MB Packaging Blunder That Exposed 1,900+… | BBSRGUY | [Read More](https://medium.com/p/54d760acb620) |
-| Tue, 31 Mar 2026 14:29:55 GMT | The People Who Thrived After AI Arrived Had One Thing in Common. It Was Not Skill | Rishabh Singh | [Read More](https://medium.com/p/969b1e56360f) |
-| Tue, 31 Mar 2026 14:29:19 GMT | Is your husband cheating on you? | Michael Parks | [Read More](https://medium.com/p/592ad17d89c5) |
-| Tue, 31 Mar 2026 14:26:03 GMT | Anti-Money Laundering (AML) Overview: Grasping the Battle Against Financial Crime | Lenna Mustik | [Read More](https://medium.com/p/7e858341b522) |
-| Tue, 31 Mar 2026 14:23:19 GMT | TryHackMe - Splunk 3 - Complete Walkthrough | VolenSec | [Read More](https://medium.com/p/9743e1293c49) |
-| Tue, 31 Mar 2026 14:22:35 GMT | Digital Identity Verification Explained: How My Online Identity Gets Confirmed | Lenna Mustik | [Read More](https://medium.com/p/e20c7c0d96b3) |
