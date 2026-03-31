@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 31 Mar 2026 14:37:59 GMT | UDF-Fantom is a cross-platform MySQL local/remote UDF privilege escalation tool, designed for… | Мартин. | [Read More](https://medium.com/p/9bf8f810fcb2) |
+| Tue, 31 Mar 2026 14:29:55 GMT | The People Who Thrived After AI Arrived Had One Thing in Common. It Was Not Skill | Rishabh Singh | [Read More](https://medium.com/p/969b1e56360f) |
+| Tue, 31 Mar 2026 14:29:19 GMT | Is your husband cheating on you? | Michael Parks | [Read More](https://medium.com/p/592ad17d89c5) |
+| Tue, 31 Mar 2026 14:26:03 GMT | Anti-Money Laundering (AML) Overview: Grasping the Battle Against Financial Crime | Lenna Mustik | [Read More](https://medium.com/p/7e858341b522) |
+| Tue, 31 Mar 2026 14:23:19 GMT | TryHackMe - Splunk 3 - Complete Walkthrough | VolenSec | [Read More](https://medium.com/p/9743e1293c49) |
+| Tue, 31 Mar 2026 14:22:35 GMT | Digital Identity Verification Explained: How My Online Identity Gets Confirmed | Lenna Mustik | [Read More](https://medium.com/p/e20c7c0d96b3) |
+| Tue, 31 Mar 2026 14:20:49 GMT | Step-by-Step Guide: How to Check if a Website is Safe Using ScamAlerts.com | James Smith | [Read More](https://medium.com/p/9f2dcd4b7ada) |
+| Tue, 31 Mar 2026 14:18:51 GMT | Sliver C2 Deep Dive : Creating and Reversing Your First Sliver Implant | Maverick | [Read More](https://medium.com/p/52c8c1567fcd) |
+| Tue, 31 Mar 2026 14:14:45 GMT | Capturing a Real Network Attack in My Home Lab (Using Wireshark) | Akanniolasunkanmi | [Read More](https://medium.com/p/176a3861b820) |
+| Tue, 31 Mar 2026 14:14:39 GMT | I Tried 5 Crypto Exchanges as a Beginner — Here’s What I Learned | 孙Nicky | [Read More](https://medium.com/p/2350fff7f74f) |
+| Tue, 31 Mar 2026 14:07:41 GMT | The Part of Automation the Entire Industry Skips | Ehulse | [Read More](https://medium.com/p/09519c78af09) |
+| Tue, 31 Mar 2026 14:07:19 GMT | PentestAgent: AI Agent for Penetration Testing & Bug Bounty | Pentester Club | [Read More](https://medium.com/p/f6c6f29b7462) |
+| Tue, 31 Mar 2026 14:01:02 GMT | Why Blindly Shipping AI-Generated Infrastructure Will Burn You | Shravanth v | [Read More](https://medium.com/p/0189ec1a2d18) |
+| Tue, 31 Mar 2026 14:01:02 GMT | Fine Tuning a Small LLM with LoRA | 喂美女你好! | [Read More](https://medium.com/p/ef87e2c16102) |
+| Tue, 31 Mar 2026 14:01:02 GMT | Cyber Briefing: 2026.03.31 | CyberMaterial | [Read More](https://medium.com/p/ec9b224905d7) |
+| Tue, 31 Mar 2026 14:00:30 GMT | OverTheWire Bandit Walkthrough — Level 5 → 6 - 30-Day Cybersecurity Learning Journey (Day 6) | William | [Read More](https://medium.com/p/497850094774) |
+| Tue, 31 Mar 2026 13:58:16 GMT | INVESTIGATING AN SSH BRUTE FORCE ATTACK: A SOC ANALYST CASE STUDY | UMAR MUSA | [Read More](https://medium.com/p/3516918d29ae) |
+| Tue, 31 Mar 2026 13:46:01 GMT | Essential Garage Door Repair Advice - Up & Down Garage Doors | Up & Down Garage Door Services | [Read More](https://medium.com/p/35ffacf2ab70) |
+| Tue, 31 Mar 2026 13:37:14 GMT | Gaining Cybersecurity Knowledge as a Cybersecurity Student (Day 2): Introduction to Cybersecurity | Samatham mahesh | [Read More](https://medium.com/p/f4fc225e4807) |
+| Tue, 31 Mar 2026 13:26:11 GMT | Anthropic’s Claude Code Source Code Leaked: The npm .map Blunder That Exposed Everything | Shri | [Read More](https://medium.com/p/85d554a77178) |
+| Tue, 31 Mar 2026 13:24:58 GMT | Why Your .env Secrets Shouldn’t Be Plaintext on Disk | Mihai Bojin | [Read More](https://medium.com/p/db662db2d77e) |
+| Tue, 31 Mar 2026 13:23:56 GMT | Cerita Alvin tentang Belajar Instalasi dan Konfigurasi GitLab Menggunakan Docker | alvin aura | [Read More](https://medium.com/p/bf590c488492) |
+| Tue, 31 Mar 2026 13:16:08 GMT | Investigating the Change Healthcare Cyberattack: A Digital Forensics Case Study | Mooki W | [Read More](https://medium.com/p/b53f811a22ab) |
 | Tue, 31 Mar 2026 13:13:24 GMT | Nym Roadmap 2026: গোপনীয়তা অবকাঠামোর ভবিষ্যৎ নির্মাণ | S. M. Abdullah | [Read More](https://medium.com/p/194cb9cd72b6) |
 | Tue, 31 Mar 2026 13:09:06 GMT | An Open Door for Attackers. Lock It with CSP. | Asrarul Hoque Eusha | [Read More](https://medium.com/p/237be7749bd5) |
 | Tue, 31 Mar 2026 13:01:03 GMT | [Inglourious Basterds] Survival Logic of Information Asymmetry | MonoEssay | [Read More](https://medium.com/p/5cb0dfa3d0cb) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 31 Mar 2026 09:01:57 GMT | How Bug Bounty Hunters Are Using Claude Code. | Abhishek meena | [Read More](https://medium.com/p/a94d6ceb056a) |
 | Tue, 31 Mar 2026 09:01:04 GMT | The difference between compliance, risk management, and security. | Gaurav Shukla | [Read More](https://medium.com/p/bab981396957) |
 | Tue, 31 Mar 2026 09:00:38 GMT | What Your MDR Isn’t Telling You About Threats | Graylog | [Read More](https://medium.com/p/0a809dccbecb) |
-| Tue, 31 Mar 2026 08:56:19 GMT | Cyber Security | Riteshexcellence | [Read More](https://medium.com/p/f0f029ad8522) |
-| Tue, 31 Mar 2026 08:52:16 GMT | Why Most Companies Fail at Security (And It’s Not What You Think) | Andreas Bourakis | [Read More](https://medium.com/p/fcc9907563e7) |
-| Tue, 31 Mar 2026 08:50:27 GMT | Email Spoofing & BEC: The Attack You Can’t See | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/b1c314b3d07e) |
-| Tue, 31 Mar 2026 08:40:12 GMT | Driving ISO 27001:2022 Readiness: From Chaos to Control | Sudhanshu Barua | [Read More](https://medium.com/p/0505ddd48611) |
-| Tue, 31 Mar 2026 08:38:34 GMT | eJPT System-Host Based Attacks CTF 2  - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/22efcd3475cb) |
-| Tue, 31 Mar 2026 08:33:09 GMT | Cyber Security Services in Perth: Protecting Perth Businesses from the 2026 Threat Landscape | Inspired IT | [Read More](https://medium.com/p/1141faad7f36) |
-| Tue, 31 Mar 2026 08:27:41 GMT | DLL Proxying: The Stealthy Middleman | Vishwas Adhikari | [Read More](https://medium.com/p/17e69ff2e8b4) |
-| Tue, 31 Mar 2026 08:25:26 GMT | I Could Block Ads. I Had No Idea What Else Was Happening. | Siddesh Bathi | [Read More](https://medium.com/p/2a08b98846f0) |
-| Tue, 31 Mar 2026 08:18:54 GMT | DLL Hijacking: The Art of Being Found | Vishwas Adhikari | [Read More](https://medium.com/p/2d65e4deacbe) |
-| Tue, 31 Mar 2026 08:17:14 GMT | Exploiting OData Wildcards: How I Scraped Tesla’s Internal Employee Directory for a $2,000 Bounty | Cyberrado | [Read More](https://medium.com/p/3fe19887f18d) |
-| Tue, 31 Mar 2026 08:16:12 GMT | Securing Multi-Tenant SaaS Applications: A Complete Guide to CSP, Nonce-Based Security, and API… | Ashok Kumar Sand | [Read More](https://medium.com/p/dfb8de2e307b) |
-| Tue, 31 Mar 2026 08:11:28 GMT | What Actually Happens When You Leave an ESP32 Running 24/7 | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/986ee5bfa38d) |
-| Tue, 31 Mar 2026 08:08:40 GMT | Why Security Awareness Training Fails (And What Actually Works) | Christian | [Read More](https://medium.com/p/fb8b063fcfac) |
-| Tue, 31 Mar 2026 07:58:44 GMT | Walking Dead, Hobbes, and the Fragility of Order: Are We Forgetting What the State Is For? | Klaudia Koxha, PhD. | [Read More](https://medium.com/p/7e8d07b85e23) |
-| Tue, 31 Mar 2026 07:57:14 GMT | How I Test API Keys Using Only Burp Suite | Udeshna | [Read More](https://medium.com/p/e028e87d610f) |
-| Tue, 31 Mar 2026 07:48:18 GMT | Network Pentesting: 15 Tools to Map Internal Infrastructure Like a Pro | Very Lazy Tech | [Read More](https://medium.com/p/7f5a00ae04ae) |
-| Tue, 31 Mar 2026 07:38:30 GMT | Personal Bodyguard Services: Ensuring Safety, Privacy, and Peace of Mind | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/eb5e4d2cc612) |
-| Tue, 31 Mar 2026 07:35:34 GMT | No Vulnerabilities ≠ Secure: A Practical Guide to Network Hardening | Emrecan Sadikogullari | [Read More](https://medium.com/p/1758945574e3) |
-| Tue, 31 Mar 2026 07:34:23 GMT | Daily Life of a Cyber Security Analyst: Roles, Tools & Responsibilities | Nusrath Hami | [Read More](https://medium.com/p/7b341a191ace) |
-| Tue, 31 Mar 2026 07:34:01 GMT | The Biggest Engineering Mistakes Early Stage Startups Make | AcmeMinds | [Read More](https://medium.com/p/6a69794e04de) |
-| Tue, 31 Mar 2026 07:31:37 GMT | The Security Model Of Shared Households | Kay | [Read More](https://medium.com/p/53c2c7441e35) |
-| Tue, 31 Mar 2026 07:28:12 GMT | Top 5 Recon Techniques for Bug Bounty | Riya Limba | [Read More](https://medium.com/p/21b7b9497a65) |
-| Tue, 31 Mar 2026 07:28:10 GMT | CSRF Attacks: When Your Browser Becomes the Attacker | Cybersphere Official | [Read More](https://medium.com/p/53ab91732b4a) |
