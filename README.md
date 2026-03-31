@@ -12,6 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 31 Mar 2026 06:48:07 GMT | Behind the firewalls of a Global MNC | Sarvesh Sd | [Read More](https://medium.com/p/3f555ac9e3ba) |
+| Tue, 31 Mar 2026 06:43:36 GMT | How I Attacked Active Directory During OSCP Labs (And What Tools Actually Worked) | Got Root? | [Read More](https://medium.com/p/8a10e12930a4) |
+| Tue, 31 Mar 2026 06:37:04 GMT | Writeup for picoCTF challenge “No FA” | Walter Moar | [Read More](https://medium.com/p/e8ebbab71c4b) |
+| Tue, 31 Mar 2026 06:34:32 GMT | Stop Overpaying for Hosting: Here’s What You Actually Need? | Mary Thomas | [Read More](https://medium.com/p/111179c9c017) |
+| Tue, 31 Mar 2026 06:32:28 GMT | Dream Job-2 - HackTheBox Writeup | Solvenite | [Read More](https://medium.com/p/7ec8589fda36) |
+| Tue, 31 Mar 2026 06:31:27 GMT | The Day I Realized “Anonymous” Online Doesn’t Mean What I Thought It Did | Warren Smith | [Read More](https://medium.com/p/2f3208c9b532) |
+| Tue, 31 Mar 2026 06:31:01 GMT | Hook, Line, and… You, Are You the Catch of This Phish? | Sanista Ramphal | [Read More](https://medium.com/p/5405059b7c15) |
+| Tue, 31 Mar 2026 06:30:57 GMT | Camunda 8 Identity & User Management: Authentication, Authorization & Access Control Explained… | Shikha Nirankari | [Read More](https://medium.com/p/481ea9e6b392) |
+| Tue, 31 Mar 2026 06:30:33 GMT | Why Cybersecurity Companies Need SEO to Protect Their Growth | Sabina Ahmed | [Read More](https://medium.com/p/70f18a1d1afc) |
+| Tue, 31 Mar 2026 06:30:24 GMT | Introduction to Docker | Nissan Subedi | [Read More](https://medium.com/p/1e1b7da7a089) |
+| Tue, 31 Mar 2026 06:24:29 GMT | Netdata, Wireshark and mitmproxy: Choosing the Right Lens for Network Security | Sangam Subedi | [Read More](https://medium.com/p/e83a976be9e9) |
+| Tue, 31 Mar 2026 06:18:56 GMT | Dark Web Hunting & Monitoring: A Practical Guide for Pentesters & Red Teamers — Part 3 | Siva Sankar | [Read More](https://medium.com/p/a446e487ddaf) |
+| Tue, 31 Mar 2026 06:18:16 GMT | Privilege Escalation in Windows & Linux Environments | Cynox Security LLP. | [Read More](https://medium.com/p/e6f8afaf93f4) |
+| Tue, 31 Mar 2026 06:17:02 GMT | “Not Applicable” to Victory: How I Escalated a P2 DoS Vulnerability on Bugcrowd | Hacker MD | [Read More](https://medium.com/p/c5fa05ab4727) |
+| Tue, 31 Mar 2026 06:16:51 GMT | Critical ATO to P5 ‘Informational’: A Lesson in Threat Models & Bug Bounty Reality | Hacker MD | [Read More](https://medium.com/p/ef1dffd827b9) |
+| Tue, 31 Mar 2026 06:10:38 GMT | Cybersecurity Awareness Training for Employees in the Philippines | Trainosys | [Read More](https://medium.com/p/501244f2721a) |
+| Tue, 31 Mar 2026 06:09:35 GMT | What is Cyber Security? Why Cybersecurity is Important in Today’s Digital World | Shahana Tv | [Read More](https://medium.com/p/77caba7c3fba) |
+| Tue, 31 Mar 2026 06:05:16 GMT | Best Armed Security Services in San Antonio | Matrix Security Guard Services LLC | [Read More](https://medium.com/p/1bc89b5a2e5b) |
+| Tue, 31 Mar 2026 05:53:50 GMT | Breaking Autoregressive Limits: Why Multi-Token Prediction Matters | Datavex AI Pvt Ltd | [Read More](https://medium.com/p/416e27959aaa) |
+| Tue, 31 Mar 2026 05:53:44 GMT | Authentication Vulnerabilities | Mohammed Fahad | [Read More](https://medium.com/p/938cb10c9477) |
+| Tue, 31 Mar 2026 05:37:38 GMT | ️ This Vulnerability Was Sitting in Front of Everyone — But No One Noticed | Sukhveer Singh | [Read More](https://medium.com/p/b41d2fe059aa) |
+| Tue, 31 Mar 2026 05:37:12 GMT | Get Unarmed Security Service San Antonio | Matrix Security Guard Services LLC | [Read More](https://medium.com/p/bce8f37c5cb4) |
+| Tue, 31 Mar 2026 05:37:04 GMT | How I Found a Login Brute-Force Vulnerability Due to Missing Rate Limiting | PradyumnTiwareNexus | [Read More](https://medium.com/p/6daa6f76efb3) |
+| Tue, 31 Mar 2026 05:31:18 GMT | Stop watching cybersecurity tutorials. Start thinking like a real pentester. | Dallen Sadru | [Read More](https://medium.com/p/2e372c14deea) |
+| Tue, 31 Mar 2026 05:28:44 GMT | AI is Making Hackers Smarter — But Also Easier to Catch | Paritosh | [Read More](https://medium.com/p/68efa37476b2) |
+| Tue, 31 Mar 2026 05:28:03 GMT | Understanding TLS Certificates and HTTPS Protocol: How Web Security Really Works | codingsprints | [Read More](https://medium.com/p/a03266d94915) |
+| Tue, 31 Mar 2026 05:27:01 GMT | Hard Wallet vs. Exchange: How to Securely Invest in Cryptocurrency in 2026 | Phemex | [Read More](https://medium.com/p/b12c172a9528) |
+| Tue, 31 Mar 2026 05:26:01 GMT | How to Learn Web & API Hacking in 2026: The Complete Roadmap | Krishna Kumar | [Read More](https://medium.com/p/4225510adf4d) |
+| Tue, 31 Mar 2026 05:25:11 GMT | The Email Trap: A Guide for Indian Internet Users | Vishvambhar ranoshe | [Read More](https://medium.com/p/055d62c73edb) |
+| Tue, 31 Mar 2026 05:11:15 GMT | Bug Bounty Roadmap for Beginners (2026): From Zero to Your First Vulnerability | Swarup Mahato | [Read More](https://medium.com/p/7c97569e847d) |
+| Tue, 31 Mar 2026 05:07:09 GMT | OpenClaw Made AI Agents Feel Real. It Also Made Their Limits Harder to Ignore | Xinjie Li | [Read More](https://medium.com/p/51dd5795a9aa) |
 | Tue, 31 Mar 2026 05:07:08 GMT | The Hidden Security Risks in Small Business Websites Most Owners Ignore | Cloud Software Solution | [Read More](https://medium.com/p/de0498cfe6de) |
 | Tue, 31 Mar 2026 04:56:30 GMT | What is a sandbox in cybersecurity? | Nivethabaskar | [Read More](https://medium.com/p/0a8caa9ad15f) |
 | Tue, 31 Mar 2026 04:54:47 GMT | You Use The Technology, Not Let The Technology Use You | Blossomlily | [Read More](https://medium.com/p/29f39d32499d) |
@@ -81,34 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 30 Mar 2026 20:46:57 GMT | CE SentinelOne Assistant : New Features | Dean | [Read More](https://medium.com/p/0d63bd9b0fbb) |
 | Mon, 30 Mar 2026 20:46:54 GMT | CyberLens THM Walkthrough: Enumeration, Exploitation & Privilege Escalation with video walk through. | Mohammed Umeruddin | [Read More](https://medium.com/p/e2132a3a3a19) |
 | Mon, 30 Mar 2026 20:45:59 GMT | How to Learn Smart Contract Auditing Without Experience in 2026 | Abraham | [Read More](https://medium.com/p/de0a2c24e83a) |
-| Mon, 30 Mar 2026 20:32:24 GMT | Cyber Security Foundation Series — Computer Networking Part- 07(HTTPS Methods and Status Codes) | Kamal Kishor Mahto | [Read More](https://medium.com/p/7f33b031ee9b) |
-| Mon, 30 Mar 2026 20:30:21 GMT | Splunk BOTS Walkthrough: Ransomware Analysis | Hariharan | [Read More](https://medium.com/p/3ef78e0365f6) |
-| Mon, 30 Mar 2026 20:23:55 GMT | 5 PDF Tools That Never Upload Your Files | Shakeel Skl | [Read More](https://medium.com/p/ff16757266bf) |
-| Mon, 30 Mar 2026 20:15:26 GMT | I Built a Tool that Autonomously Detects and Remediates Overprivileged Identities in Azure | Julian S. | [Read More](https://medium.com/p/02b88f61f638) |
-| Mon, 30 Mar 2026 20:08:44 GMT | The Myth of the Safe Default Setting: | Mithrais | [Read More](https://medium.com/p/fe444b7664f5) |
-| Mon, 30 Mar 2026 20:08:43 GMT | Ledger — TryHackMe Write-up | SaAby | [Read More](https://medium.com/p/0c07ed1654df) |
-| Mon, 30 Mar 2026 20:07:49 GMT | SOC 2 Compliance Demystified: A Founder’s Practical Guide | Parathan Thiyagalingam | [Read More](https://medium.com/p/697272834b66) |
-| Mon, 30 Mar 2026 20:06:20 GMT | The Linux Security Journey — SSH Authentication Keys | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f25da21bfdb0) |
-| Mon, 30 Mar 2026 19:55:18 GMT | AI-Powered Firewalls vs Human Managed Security: What Will Lead in 2026? | Temma | [Read More](https://medium.com/p/6393d0ade33c) |
-| Mon, 30 Mar 2026 19:54:06 GMT | RSAC 2026: AI Agents Just Entered the Cybersecurity Workforce. | Sooraj Jha | [Read More](https://medium.com/p/7580c07d644b) |
-| Mon, 30 Mar 2026 19:46:49 GMT | Device Code Phishing: A Lab Walkthrough | Frezyauyar | [Read More](https://medium.com/p/3b2b0f92e39e) |
-| Mon, 30 Mar 2026 19:42:48 GMT | Amazon Expands Into Robotics and Chips, Google Tests AI in Space, and OpenAI Retreats From Commerce | Qandeel Akhtar | [Read More](https://medium.com/p/c7079d32b723) |
-| Mon, 30 Mar 2026 19:40:51 GMT | The Complete Guide to SSL Certificates on Deploynix: Let’s Encrypt, Wildcards & Vanity Domains | Deploynix | [Read More](https://medium.com/p/447a5e4887a0) |
-| Mon, 30 Mar 2026 19:35:40 GMT | TryHackMe - Vulnerability Scanning Tools - WriteUp | Axoloth | [Read More](https://medium.com/p/e67a128bcfc9) |
-| Mon, 30 Mar 2026 19:31:56 GMT | Cheap Security Cameras Are Sending Your Footage Overseas — Here’s Why | Temma | [Read More](https://medium.com/p/3deb42f9ec61) |
-| Mon, 30 Mar 2026 19:30:35 GMT | Cyber Security Introduction: A Beginner’s Guide to Ethical Hacking, Kali Linux & Basic Commands | Vardhan reddy Dronadula | [Read More](https://medium.com/p/297345656912) |
-| Mon, 30 Mar 2026 19:29:22 GMT | More Creeps Use AI Nudes — But Webcam Sextortion Is Still Skyrocketing | Kalen Smith | [Read More](https://medium.com/p/48245ce42ef7) |
-| Mon, 30 Mar 2026 19:24:53 GMT | Planning, Management and Relevance to Practice | Olga Gladosz | [Read More](https://medium.com/p/a29deff1f1fc) |
-| Mon, 30 Mar 2026 19:24:27 GMT | CTF day 03– 2FA Bypass using Burp Suite (Intro To Burp — PicoCTF) | Adithya Hettiarachchi | [Read More](https://medium.com/p/d7352550db7a) |
-| Mon, 30 Mar 2026 19:23:59 GMT | Choosing My Research Methods | Olga Gladosz | [Read More](https://medium.com/p/e9e8f445a762) |
-| Mon, 30 Mar 2026 19:23:52 GMT | Iran’s Cyber Playbook Isn’t Sophisticated, and That’s the Risk for New Zealand | Chris Buxton | [Read More](https://medium.com/p/d5b4d5c6b9ff) |
-| Mon, 30 Mar 2026 19:19:29 GMT | Part 2: The “Ghost” Installation — Turning Your Old PC into a Silent Video Vault in 15 Minutes! | Zoningxtr | [Read More](https://medium.com/p/fedfb5e3bb16) |
-| Mon, 30 Mar 2026 19:18:38 GMT | Juice Shop Write-up: DOM XSS Challenge | ~ Jeff ~ | [Read More](https://medium.com/p/f9df43452312) |
-| Mon, 30 Mar 2026 19:12:34 GMT | Try Hack Me- Sudo Buffer Overflow Walkthrough | PulseEinher | [Read More](https://medium.com/p/293e97e6d0b4) |
-| Mon, 30 Mar 2026 19:08:50 GMT | Vulnerability Scanning Tools — Full TryHackMe Walkthrough (Nmap, Nikto, OpenVAS) | m0ro23 | [Read More](https://medium.com/p/36c77a22b070) |
-| Mon, 30 Mar 2026 18:56:01 GMT | EU GDPR — Article 39 (Tasks of the Data Protection Officer) | MDM Team | [Read More](https://medium.com/p/381fd3a676b3) |
-| Mon, 30 Mar 2026 18:51:54 GMT | The Line Between Research and Surveillance Is Gone | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/50e846f0454e) |
-| Mon, 30 Mar 2026 18:46:01 GMT | Plan 2026 Philosophy | Xyver | [Read More](https://medium.com/p/90b021077ea5) |
-| Mon, 30 Mar 2026 18:36:08 GMT | Vulnerability Scanning Tools (THM) Tryhackme Full Walkthrough | Lawvye | [Read More](https://medium.com/p/dc908a327b49) |
-| Mon, 30 Mar 2026 18:27:54 GMT | The Cybersecurity Sentinel (April 2026) | Franklin Rhodes | [Read More](https://medium.com/p/caba30f717e7) |
-| Mon, 30 Mar 2026 18:25:20 GMT | Anthropic’s Claude Mythos Leak: When a CMS Misconfiguration Becomes a $Billion Lesson in Secrets… | Krishna | [Read More](https://medium.com/p/c1c3aa08bbe6) |
