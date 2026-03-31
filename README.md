@@ -12,12 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 31 Mar 2026 10:51:24 GMT | Beyond the Lift & Shift: A Security-First Guide to the Cloud Migration Strategies | Rams-Tech | [Read More](https://medium.com/p/f96dbc7ffa51) |
+| Tue, 31 Mar 2026 10:41:45 GMT | Passive Surveillance vs Intelligent AI Monitoring: What’s the Difference? | Spotem | [Read More](https://medium.com/p/5eba10eafafd) |
+| Tue, 31 Mar 2026 10:31:01 GMT | Supply Chain Attacks in Cybersecurity: Why Hackers Target Your Vendors, Not You — The Supply Chain… | Ishant | [Read More](https://medium.com/p/21858c552c8f) |
+| Tue, 31 Mar 2026 10:27:32 GMT | OpenSSH GSSAPI Flaw (CVE-2026–3497): When a Small SSH Bug Creates Bigger Security Risks | Bachchan James | [Read More](https://medium.com/p/bd4b65014415) |
+| Tue, 31 Mar 2026 10:27:06 GMT | solana | Binay Saha | [Read More](https://medium.com/p/1bf6b142a89e) |
+| Tue, 31 Mar 2026 10:23:56 GMT | Beyond the Iceberg: How Data Travels the Internet, Explained Simply | Loveday Ikegbulam | [Read More](https://medium.com/p/1c3a4817b084) |
+| Tue, 31 Mar 2026 10:22:11 GMT | The Invisible War Beneath the Ocean: How US–Iran Tensions Could Disrupt AI and the Internet | Hruthvik HB | [Read More](https://medium.com/p/ee937a9f413b) |
+| Tue, 31 Mar 2026 10:21:01 GMT | Why Most Post-Incident Reviews Change Almost Nothing | Tyson Martin | [Read More](https://medium.com/p/94f11f5047db) |
+| Tue, 31 Mar 2026 10:21:01 GMT | Passwordless Life 1.0: Parolaların Sonu Mu Geldi? | Agit Rubar Demir | [Read More](https://medium.com/p/e6ae061500f3) |
+| Tue, 31 Mar 2026 10:20:10 GMT | The Axios Supply Chain Attack: How One Compromised npm Account Threatened 100 Million Developers | Ankit Kumar | [Read More](https://medium.com/p/cad61826cdae) |
+| Tue, 31 Mar 2026 10:16:01 GMT | iptables: The Firewall You’re Already Running But Probably Not Using Right | Suyash Adhikari | [Read More](https://medium.com/p/6667a547d4ad) |
+| Tue, 31 Mar 2026 10:14:20 GMT | JWT Authentication Explained: How Misconfigurations Lead to Critical Vulnerabilities | Jackson | [Read More](https://medium.com/p/e01a78b40e7c) |
+| Tue, 31 Mar 2026 10:10:20 GMT | MY GIT — picoCTF 2026 | Abisha Shetty | [Read More](https://medium.com/p/3fe17dd06a52) |
+| Tue, 31 Mar 2026 10:06:01 GMT | 95 Million Downloads. Poisoned by Its Own Security Scanner. | Can Artuc | [Read More](https://medium.com/p/e0f91a63f981) |
+| Tue, 31 Mar 2026 10:06:01 GMT | The Cost-Center Lobotomy: Why Leadership Thinks IT Is a Utility to Be Minimized | Namir Sagheenanajar | [Read More](https://medium.com/p/35b8f971527f) |
+| Tue, 31 Mar 2026 09:38:13 GMT | Networking Essentials 2: Build Strong Networking Fundamentals | Cyberabhisharma | [Read More](https://medium.com/p/b4f43d900bc2) |
 | Tue, 31 Mar 2026 09:31:38 GMT | I Gave My AI Agent the Keys to My Business. Then I Could Not Sleep. | Helenmireille | [Read More](https://medium.com/p/81c3fc71d56e) |
 | Tue, 31 Mar 2026 09:24:18 GMT | Prompt Injection vs Jailbreaking — They’re Not the Same Attack | Nisarg Patel | [Read More](https://medium.com/p/3eb9039c8aa8) |
 | Tue, 31 Mar 2026 09:17:52 GMT | Someone Walked Into the European Commission and Took 350 Gigabytes. They Haven’t Said Who. | VirtCIRT | [Read More](https://medium.com/p/9cef354892f7) |
 | Tue, 31 Mar 2026 09:16:41 GMT | ประจำวันอังคารที่ 31 มีนาคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/db0523908153) |
 | Tue, 31 Mar 2026 09:16:34 GMT | What Is Clickjacking? Real Attack Examples, Risks & How to Prevent It in WordPress | Smit Pipaliya | [Read More](https://medium.com/p/691a62ab19f1) |
 | Tue, 31 Mar 2026 09:16:20 GMT | Building a Robust Business Network Infrastructure A Complete Guide for Modern Enterprises | Boisttechsolutions | [Read More](https://medium.com/p/dd1955889e3f) |
+| Tue, 31 Mar 2026 09:13:12 GMT | Cloudflare pro security blocking plugins installation : solution | Prakash | [Read More](https://medium.com/p/bcab0c56c462) |
 | Tue, 31 Mar 2026 09:06:33 GMT | Reputation Management and Cybersecurity | Cybersectoworld | [Read More](https://medium.com/p/76e872d6132c) |
 | Tue, 31 Mar 2026 09:02:27 GMT | Securing the Edges: A Practical Way to Handle XSS in Modern Apps | Dogukan Batal | [Read More](https://medium.com/p/21bab25f9de1) |
 | Tue, 31 Mar 2026 09:01:57 GMT | How Bug Bounty Hunters Are Using Claude Code. | Abhishek meena | [Read More](https://medium.com/p/a94d6ceb056a) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 31 Mar 2026 05:28:03 GMT | Understanding TLS Certificates and HTTPS Protocol: How Web Security Really Works | codingsprints | [Read More](https://medium.com/p/a03266d94915) |
 | Tue, 31 Mar 2026 05:27:01 GMT | Hard Wallet vs. Exchange: How to Securely Invest in Cryptocurrency in 2026 | Phemex | [Read More](https://medium.com/p/b12c172a9528) |
 | Tue, 31 Mar 2026 05:26:01 GMT | How to Learn Web & API Hacking in 2026: The Complete Roadmap | Krishna Kumar | [Read More](https://medium.com/p/4225510adf4d) |
-| Tue, 31 Mar 2026 05:25:11 GMT | The Email Trap: A Guide for Indian Internet Users | Vishvambhar ranoshe | [Read More](https://medium.com/p/055d62c73edb) |
-| Tue, 31 Mar 2026 05:11:15 GMT | Bug Bounty Roadmap for Beginners (2026): From Zero to Your First Vulnerability | Swarup Mahato | [Read More](https://medium.com/p/7c97569e847d) |
-| Tue, 31 Mar 2026 05:07:09 GMT | OpenClaw Made AI Agents Feel Real. It Also Made Their Limits Harder to Ignore | Xinjie Li | [Read More](https://medium.com/p/51dd5795a9aa) |
-| Tue, 31 Mar 2026 05:07:08 GMT | The Hidden Security Risks in Small Business Websites Most Owners Ignore | Cloud Software Solution | [Read More](https://medium.com/p/de0498cfe6de) |
-| Tue, 31 Mar 2026 04:56:30 GMT | What is a sandbox in cybersecurity? | Nivethabaskar | [Read More](https://medium.com/p/0a8caa9ad15f) |
-| Tue, 31 Mar 2026 04:54:47 GMT | You Use The Technology, Not Let The Technology Use You | Blossomlily | [Read More](https://medium.com/p/29f39d32499d) |
-| Tue, 31 Mar 2026 04:53:09 GMT | Cyber Essentials Certification: A Plain-English Guide for UK Small Businesses | UK Cyber Defence | [Read More](https://medium.com/p/e3a6b3909da9) |
-| Tue, 31 Mar 2026 04:47:12 GMT | Harvest Now, Decrypt Later: The Quiet Crisis in Post-Quantum Cryptography | CCD-IS | [Read More](https://medium.com/p/0900e5c4d156) |
-| Tue, 31 Mar 2026 04:45:22 GMT | Anthropic’s Most Powerful AI Just Leaked — And It Could Be a Cybersecurity Nightmare | Crafty | [Read More](https://medium.com/p/6d0d246c342f) |
-| Tue, 31 Mar 2026 04:41:53 GMT | ️‍♂️ Cybersecurity & Bug Bounty Cheat Sheet — Recon, Enumeration & Initial Access | Eugene Softley (softsec) | [Read More](https://medium.com/p/55218034f804) |
-| Tue, 31 Mar 2026 04:41:09 GMT | Relationship is Not an Add Free Tier Subscription | Sanya Jovanovic | [Read More](https://medium.com/p/44fa6754ce40) |
-| Tue, 31 Mar 2026 04:38:14 GMT | Claude Code Everywhere: The AWS Playbook for Modern Engineering Teams | Ashish Kasaudhan | [Read More](https://medium.com/p/7dad2633b18f) |
-| Tue, 31 Mar 2026 04:36:01 GMT | Your IAM Policy Is an Open Door — And Attackers Are Already Walking Through It | Dishanth C A | [Read More](https://medium.com/p/10c8c6927c4e) |
-| Tue, 31 Mar 2026 04:31:03 GMT | Automating GRC: How Technology is Streamlining Compliance Audits | Cyber Aries | [Read More](https://medium.com/p/51d0d9416917) |
-| Tue, 31 Mar 2026 04:24:24 GMT | Footprinting and Reconnaissance in Cybersecurity: The First Step of Ethical Hacking | Rohitreddy | [Read More](https://medium.com/p/dd783e6ff999) |
-| Tue, 31 Mar 2026 04:22:59 GMT | If You Still Trust Your Network, You’re Already Hacked | Zefai Insights | [Read More](https://medium.com/p/f8d270cbf85b) |
-| Tue, 31 Mar 2026 04:16:26 GMT | How to Delete Your YouTube Search History (And Why You Should Do It) | MD. RASHEDUL ISLAM | [Read More](https://medium.com/p/2107c4558cd3) |
