@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 31 Mar 2026 16:00:31 GMT | Building a powerful SIEM with Clickhouse and Clickdetect | Vinicius Morais | [Read More](https://medium.com/p/ae68a4495a76) |
+| Tue, 31 Mar 2026 15:57:36 GMT | Cybersecurity Consulting Services for the Digital Age: Strengthening Business Defense with… | Nihar | [Read More](https://medium.com/p/1d4c02ba9f24) |
+| Tue, 31 Mar 2026 15:53:53 GMT | TPM — Trusted Platform Module | Gabriel Carrijo | [Read More](https://medium.com/p/fcc83d9db4db) |
+| Tue, 31 Mar 2026 15:51:21 GMT | What are “ballistic” briefcases? | Soniya Singh | [Read More](https://medium.com/p/7767fb453d5b) |
+| Tue, 31 Mar 2026 15:45:51 GMT | If You Use @Transactional in Spring Boot, Read This Before It’s Too Late | Rahul Soni | [Read More](https://medium.com/p/fc1051f5a37d) |
+| Tue, 31 Mar 2026 15:43:25 GMT | What I Found When I Mapped the Surveillance Infrastructure of an 1,100-Year-Old City | Roberto Pinna | [Read More](https://medium.com/p/275aac09bd18) |
+| Tue, 31 Mar 2026 15:41:49 GMT | IP Address explained in depth by a Hacker | NeverFound | [Read More](https://medium.com/p/7214b40fdaf4) |
+| Tue, 31 Mar 2026 15:41:43 GMT | Part 10: The Staff Interview — System Design Mastery | Sivavishnu | [Read More](https://medium.com/p/d758710ac7a4) |
+| Tue, 31 Mar 2026 15:24:55 GMT | Zero Trust Architecture and Its Importance | National Security Institute | [Read More](https://medium.com/p/e38775567728) |
+| Tue, 31 Mar 2026 15:19:28 GMT | What happens when you type a command in a Linux terminal! | Amrsmooke | [Read More](https://medium.com/p/3983155154f7) |
+| Tue, 31 Mar 2026 15:17:13 GMT | Regulatory Excellence in Digital Finance: A Case Study of SafiPay’s European Operations | Sana Jan | [Read More](https://medium.com/p/5f9a6a1845ad) |
+| Tue, 31 Mar 2026 15:17:09 GMT | Why Technology is no longer an IT issue: Reflections from SheLeadsTech Conference by ISACA 2026 | The Digital Trust Journal | [Read More](https://medium.com/p/3c59ee3d0455) |
+| Tue, 31 Mar 2026 15:11:28 GMT | OhSINT Report | Mohammed Jehad | [Read More](https://medium.com/p/faffe5a2c0ed) |
+| Tue, 31 Mar 2026 14:59:25 GMT | Deep Dive into Vidar Stealer: Multi-Layer Shellcode, Native API Injection, and Stealth Persistence | Kaan | [Read More](https://medium.com/p/a6a8c6854665) |
+| Tue, 31 Mar 2026 14:49:48 GMT | eJPT Network-Based Attacks CTF 1 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/5561484e1d2b) |
+| Tue, 31 Mar 2026 14:47:06 GMT | Web Security Series #13 — Command Injection Exploitation (Reverse Shell) | Laibakashif | [Read More](https://medium.com/p/35b8604e6549) |
 | Tue, 31 Mar 2026 14:37:59 GMT | UDF-Fantom is a cross-platform MySQL local/remote UDF privilege escalation tool, designed for… | Мартин. | [Read More](https://medium.com/p/9bf8f810fcb2) |
+| Tue, 31 Mar 2026 14:34:49 GMT | Stop Your AI From Installing Malware: Supply Chain Security for Claude Code | David Veselý | [Read More](https://medium.com/p/e5afac5f4caa) |
 | Tue, 31 Mar 2026 14:29:55 GMT | The People Who Thrived After AI Arrived Had One Thing in Common. It Was Not Skill | Rishabh Singh | [Read More](https://medium.com/p/969b1e56360f) |
 | Tue, 31 Mar 2026 14:29:19 GMT | Is your husband cheating on you? | Michael Parks | [Read More](https://medium.com/p/592ad17d89c5) |
 | Tue, 31 Mar 2026 14:26:03 GMT | Anti-Money Laundering (AML) Overview: Grasping the Battle Against Financial Crime | Lenna Mustik | [Read More](https://medium.com/p/7e858341b522) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 31 Mar 2026 10:21:01 GMT | Passwordless Life 1.0: Parolaların Sonu Mu Geldi? | Agit Rubar Demir | [Read More](https://medium.com/p/e6ae061500f3) |
 | Tue, 31 Mar 2026 10:20:10 GMT | The Axios Supply Chain Attack: How One Compromised npm Account Threatened 100 Million Developers | Ankit Kumar | [Read More](https://medium.com/p/cad61826cdae) |
 | Tue, 31 Mar 2026 10:16:01 GMT | iptables: The Firewall You’re Already Running But Probably Not Using Right | Suyash Adhikari | [Read More](https://medium.com/p/6667a547d4ad) |
-| Tue, 31 Mar 2026 10:14:20 GMT | JWT Authentication Explained: How Misconfigurations Lead to Critical Vulnerabilities | Jackson | [Read More](https://medium.com/p/e01a78b40e7c) |
-| Tue, 31 Mar 2026 10:10:20 GMT | MY GIT — picoCTF 2026 | Abisha Shetty | [Read More](https://medium.com/p/3fe17dd06a52) |
-| Tue, 31 Mar 2026 10:06:01 GMT | 95 Million Downloads. Poisoned by Its Own Security Scanner. | Can Artuc | [Read More](https://medium.com/p/e0f91a63f981) |
-| Tue, 31 Mar 2026 10:06:01 GMT | The Cost-Center Lobotomy: Why Leadership Thinks IT Is a Utility to Be Minimized | Namir Sagheenanajar | [Read More](https://medium.com/p/35b8f971527f) |
-| Tue, 31 Mar 2026 09:38:13 GMT | Networking Essentials 2: Build Strong Networking Fundamentals | Cyberabhisharma | [Read More](https://medium.com/p/b4f43d900bc2) |
-| Tue, 31 Mar 2026 09:31:38 GMT | I Gave My AI Agent the Keys to My Business. Then I Could Not Sleep. | Helenmireille | [Read More](https://medium.com/p/81c3fc71d56e) |
-| Tue, 31 Mar 2026 09:24:18 GMT | Prompt Injection vs Jailbreaking — They’re Not the Same Attack | Nisarg Patel | [Read More](https://medium.com/p/3eb9039c8aa8) |
-| Tue, 31 Mar 2026 09:17:52 GMT | Someone Walked Into the European Commission and Took 350 Gigabytes. They Haven’t Said Who. | VirtCIRT | [Read More](https://medium.com/p/9cef354892f7) |
-| Tue, 31 Mar 2026 09:16:41 GMT | ประจำวันอังคารที่ 31 มีนาคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/db0523908153) |
-| Tue, 31 Mar 2026 09:16:34 GMT | What Is Clickjacking? Real Attack Examples, Risks & How to Prevent It in WordPress | Smit Pipaliya | [Read More](https://medium.com/p/691a62ab19f1) |
-| Tue, 31 Mar 2026 09:16:20 GMT | Building a Robust Business Network Infrastructure A Complete Guide for Modern Enterprises | Boisttechsolutions | [Read More](https://medium.com/p/dd1955889e3f) |
-| Tue, 31 Mar 2026 09:13:12 GMT | Cloudflare pro security blocking plugins installation : solution | Prakash | [Read More](https://medium.com/p/bcab0c56c462) |
-| Tue, 31 Mar 2026 09:06:33 GMT | Reputation Management and Cybersecurity | Cybersectoworld | [Read More](https://medium.com/p/76e872d6132c) |
-| Tue, 31 Mar 2026 09:02:27 GMT | Securing the Edges: A Practical Way to Handle XSS in Modern Apps | Dogukan Batal | [Read More](https://medium.com/p/21bab25f9de1) |
-| Tue, 31 Mar 2026 09:01:57 GMT | How Bug Bounty Hunters Are Using Claude Code. | Abhishek meena | [Read More](https://medium.com/p/a94d6ceb056a) |
-| Tue, 31 Mar 2026 09:01:04 GMT | The difference between compliance, risk management, and security. | Gaurav Shukla | [Read More](https://medium.com/p/bab981396957) |
-| Tue, 31 Mar 2026 09:00:38 GMT | What Your MDR Isn’t Telling You About Threats | Graylog | [Read More](https://medium.com/p/0a809dccbecb) |
