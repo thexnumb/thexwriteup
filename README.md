@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 31 Mar 2026 20:38:05 GMT | Local Privilege Escalation through BYOVD with Kernel R/W Primitives | S12 - 0x12Dark Development | [Read More](https://medium.com/p/2e27878725a2) |
+| Tue, 31 Mar 2026 20:37:45 GMT | Wazuh, Zeek and Pi-hole DNS Sinkhole on Repurposed Hardware (TV Box) | m0us3r | [Read More](https://medium.com/p/d6ea39bfdeb3) |
+| Tue, 31 Mar 2026 20:09:15 GMT | mKingdom — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/8905dfc58cdf) |
+| Tue, 31 Mar 2026 20:06:01 GMT | Cybersecurity Career Expectations vs. Reality: 3 Things I Wish Someone Told Me | Jbird | [Read More](https://medium.com/p/102bdd12c0a3) |
 | Tue, 31 Mar 2026 20:04:36 GMT | Language is the Attack Surface: What We Learned Breaking a Bank With Text | Daniel Alarcón Sánchez | [Read More](https://medium.com/p/a3401ccc2ec6) |
 | Tue, 31 Mar 2026 20:03:18 GMT | In a world where everyone is chasing the next course, the next badge, the next “proof” of… | Ayomide Familusi | [Read More](https://medium.com/p/5fa0ce8835d5) |
 | Tue, 31 Mar 2026 19:57:43 GMT | <!DOCTYPE html>
@@ -112,7 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 31 Mar 2026 14:01:02 GMT | Fine Tuning a Small LLM with LoRA | 喂美女你好! | [Read More](https://medium.com/p/ef87e2c16102) |
 | Tue, 31 Mar 2026 14:01:02 GMT | Cyber Briefing: 2026.03.31 | CyberMaterial | [Read More](https://medium.com/p/ec9b224905d7) |
 | Tue, 31 Mar 2026 14:00:30 GMT | OverTheWire Bandit Walkthrough — Level 5 → 6 - 30-Day Cybersecurity Learning Journey (Day 6) | William | [Read More](https://medium.com/p/497850094774) |
-| Tue, 31 Mar 2026 13:58:16 GMT | INVESTIGATING AN SSH BRUTE FORCE ATTACK: A SOC ANALYST CASE STUDY | UMAR MUSA | [Read More](https://medium.com/p/3516918d29ae) |
-| Tue, 31 Mar 2026 13:46:01 GMT | Essential Garage Door Repair Advice - Up & Down Garage Doors | Up & Down Garage Door Services | [Read More](https://medium.com/p/35ffacf2ab70) |
-| Tue, 31 Mar 2026 13:37:14 GMT | Gaining Cybersecurity Knowledge as a Cybersecurity Student (Day 2): Introduction to Cybersecurity | Samatham mahesh | [Read More](https://medium.com/p/f4fc225e4807) |
-| Tue, 31 Mar 2026 13:26:11 GMT | Anthropic’s Claude Code Source Code Leaked: The npm .map Blunder That Exposed Everything | Shri | [Read More](https://medium.com/p/85d554a77178) |
