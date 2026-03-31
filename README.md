@@ -12,7 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 31 Mar 2026 11:45:47 GMT | Taking Flight: TryHackMe Bebop Writeup | jensbecker-dev | [Read More](https://medium.com/p/cd7ad7016408) |
+| Tue, 31 Mar 2026 11:45:45 GMT | Boosting Threat Protection Using Managed SIEM for SMBs and SIEM as a Service for Small Businesses | Vijilan | [Read More](https://medium.com/p/ed51969046f4) |
+| Tue, 31 Mar 2026 11:43:24 GMT | The Axios npm Compromise Is a Warning to Every JavaScript Team⚠️ | Yunus Emre Salcan | [Read More](https://medium.com/p/5df8b824751f) |
+| Tue, 31 Mar 2026 11:39:45 GMT | OTP Scams Explained: How People Lose Money in Seconds | Harveen Kaur | [Read More](https://medium.com/p/72b795e52b54) |
+| Tue, 31 Mar 2026 11:39:36 GMT | Authorization Tells the Agent What It Can Do. It Says Nothing About Whether It Should. | Venkat Peri | [Read More](https://medium.com/p/2224b79d93ca) |
+| Tue, 31 Mar 2026 11:37:55 GMT | How to Create Strong Passwords You’ll Actually Remember | Harveen Kaur | [Read More](https://medium.com/p/d0c7328e32cb) |
+| Tue, 31 Mar 2026 11:36:06 GMT | Inside the Claude Code Leak: Architecture, Hidden Systems, and What Anthropic Actually Built | sathwick | [Read More](https://medium.com/p/9d27ce4975f6) |
+| Tue, 31 Mar 2026 11:31:01 GMT | The One-Command Linux Security Snapshot I Take Before Assuming a Server Is Clean | Faruk Ahmed | [Read More](https://medium.com/p/5eb4c9c7e37a) |
+| Tue, 31 Mar 2026 11:23:16 GMT | Unlocking True Security: Beyond Passwords and Firewalls | Steave Ray | [Read More](https://medium.com/p/ccdfd708ef45) |
+| Tue, 31 Mar 2026 11:22:25 GMT | Critical NVIDIA Vulnerabilities Enable RCE and DoS Attacks — What You Need to Know | EternalSec | [Read More](https://medium.com/p/ceaa9b722b7b) |
+| Tue, 31 Mar 2026 11:16:35 GMT | Top 5 Web Development Trends Every Business Must Watch in 2026 | Sumannischla | [Read More](https://medium.com/p/faf5553e2705) |
+| Tue, 31 Mar 2026 11:13:12 GMT | The Real AI Risk Isn’t the Model. It’s What It Can Access | Suny Choudhary | [Read More](https://medium.com/p/155d25f33d17) |
+| Tue, 31 Mar 2026 11:10:30 GMT | About Me: Navigating Technology in a World That Never Slows Down | James Mokaya | [Read More](https://medium.com/p/3ba0a1d39770) |
+| Tue, 31 Mar 2026 11:09:44 GMT | Cybersecurity Course in Kannur - Offenso Academy Training Program | Anandunanduk | [Read More](https://medium.com/p/f552bcd59ac0) |
+| Tue, 31 Mar 2026 11:04:53 GMT | How securely push data to AWS, Azure or SAP for just 300 Euros? | DataTalk | [Read More](https://medium.com/p/9b18082145d0) |
+| Tue, 31 Mar 2026 11:03:25 GMT | Not blind transactions. Real consent. | NanoChain | [Read More](https://medium.com/p/c473939208ee) |
+| Tue, 31 Mar 2026 11:02:33 GMT | From Tech Support to Project Role: Where Project+ Actually Helps | Manish Shetty | [Read More](https://medium.com/p/1a623b64783c) |
+| Tue, 31 Mar 2026 11:01:28 GMT | I Didn’t Hack the System. It Let Me In. | Abdullah Hammad | [Read More](https://medium.com/p/a31707736152) |
+| Tue, 31 Mar 2026 11:01:02 GMT | Openwall’s xz 5.6.x Trail Exposed a Maintainer Bottleneck | James Kuhman | [Read More](https://medium.com/p/3f70e425d104) |
+| Tue, 31 Mar 2026 10:57:37 GMT | Is CAP_SYS_ADMIN Alone Enough to Mount? | 쿠키 | [Read More](https://medium.com/p/617f3582a149) |
+| Tue, 31 Mar 2026 10:51:49 GMT | HackStar Is the USB Automation Device Developers Have Been Waiting For | Harshal Vij | [Read More](https://medium.com/p/5dcf81d4e1ad) |
 | Tue, 31 Mar 2026 10:51:24 GMT | Beyond the Lift & Shift: A Security-First Guide to the Cloud Migration Strategies | Rams-Tech | [Read More](https://medium.com/p/f96dbc7ffa51) |
+| Tue, 31 Mar 2026 10:48:04 GMT | [Tomghost] — Apache Tomcat Ghostcat Exploit (CVE-2020-1938) to Root via AJP Misconfiguration | Bash Overflow | [Read More](https://medium.com/p/b0122b33d881) |
+| Tue, 31 Mar 2026 10:47:12 GMT | Six Beginner Web Hacking Vulnerabilities to Learn in 2026 | Cybersectoworld | [Read More](https://medium.com/p/7483bd4c9649) |
 | Tue, 31 Mar 2026 10:41:45 GMT | Passive Surveillance vs Intelligent AI Monitoring: What’s the Difference? | Spotem | [Read More](https://medium.com/p/5eba10eafafd) |
 | Tue, 31 Mar 2026 10:31:01 GMT | Supply Chain Attacks in Cybersecurity: Why Hackers Target Your Vendors, Not You — The Supply Chain… | Ishant | [Read More](https://medium.com/p/21858c552c8f) |
 | Tue, 31 Mar 2026 10:27:32 GMT | OpenSSH GSSAPI Flaw (CVE-2026–3497): When a Small SSH Bug Creates Bigger Security Risks | Bachchan James | [Read More](https://medium.com/p/bd4b65014415) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 31 Mar 2026 06:34:32 GMT | Stop Overpaying for Hosting: Here’s What You Actually Need? | Mary Thomas | [Read More](https://medium.com/p/111179c9c017) |
 | Tue, 31 Mar 2026 06:32:28 GMT | Dream Job-2 - HackTheBox Writeup | Solvenite | [Read More](https://medium.com/p/7ec8589fda36) |
 | Tue, 31 Mar 2026 06:31:27 GMT | The Day I Realized “Anonymous” Online Doesn’t Mean What I Thought It Did | Warren Smith | [Read More](https://medium.com/p/2f3208c9b532) |
-| Tue, 31 Mar 2026 06:31:01 GMT | Hook, Line, and… You, Are You the Catch of This Phish? | Sanista Ramphal | [Read More](https://medium.com/p/5405059b7c15) |
-| Tue, 31 Mar 2026 06:30:57 GMT | Camunda 8 Identity & User Management: Authentication, Authorization & Access Control Explained… | Shikha Nirankari | [Read More](https://medium.com/p/481ea9e6b392) |
-| Tue, 31 Mar 2026 06:30:33 GMT | Why Cybersecurity Companies Need SEO to Protect Their Growth | Sabina Ahmed | [Read More](https://medium.com/p/70f18a1d1afc) |
-| Tue, 31 Mar 2026 06:30:24 GMT | Introduction to Docker | Nissan Subedi | [Read More](https://medium.com/p/1e1b7da7a089) |
-| Tue, 31 Mar 2026 06:24:29 GMT | Netdata, Wireshark and mitmproxy: Choosing the Right Lens for Network Security | Sangam Subedi | [Read More](https://medium.com/p/e83a976be9e9) |
-| Tue, 31 Mar 2026 06:18:56 GMT | Dark Web Hunting & Monitoring: A Practical Guide for Pentesters & Red Teamers — Part 3 | Siva Sankar | [Read More](https://medium.com/p/a446e487ddaf) |
-| Tue, 31 Mar 2026 06:18:16 GMT | Privilege Escalation in Windows & Linux Environments | Cynox Security LLP. | [Read More](https://medium.com/p/e6f8afaf93f4) |
-| Tue, 31 Mar 2026 06:17:26 GMT | Neighbour Walkthrough - TryHackMe | Kanakpbansal | [Read More](https://medium.com/p/833d97c826c3) |
-| Tue, 31 Mar 2026 06:17:02 GMT | “Not Applicable” to Victory: How I Escalated a P2 DoS Vulnerability on Bugcrowd | Hacker MD | [Read More](https://medium.com/p/c5fa05ab4727) |
-| Tue, 31 Mar 2026 06:16:51 GMT | Critical ATO to P5 ‘Informational’: A Lesson in Threat Models & Bug Bounty Reality | Hacker MD | [Read More](https://medium.com/p/ef1dffd827b9) |
-| Tue, 31 Mar 2026 06:10:38 GMT | Cybersecurity Awareness Training for Employees in the Philippines | Trainosys | [Read More](https://medium.com/p/501244f2721a) |
-| Tue, 31 Mar 2026 06:09:35 GMT | What is Cyber Security? Why Cybersecurity is Important in Today’s Digital World | Shahana Tv | [Read More](https://medium.com/p/77caba7c3fba) |
-| Tue, 31 Mar 2026 06:05:16 GMT | Best Armed Security Services in San Antonio | Matrix Security Guard Services LLC | [Read More](https://medium.com/p/1bc89b5a2e5b) |
-| Tue, 31 Mar 2026 05:53:50 GMT | Breaking Autoregressive Limits: Why Multi-Token Prediction Matters | Datavex AI Pvt Ltd | [Read More](https://medium.com/p/416e27959aaa) |
-| Tue, 31 Mar 2026 05:53:44 GMT | Authentication Vulnerabilities | Mohammed Fahad | [Read More](https://medium.com/p/938cb10c9477) |
-| Tue, 31 Mar 2026 05:37:38 GMT | ️ This Vulnerability Was Sitting in Front of Everyone — But No One Noticed | Sukhveer Singh | [Read More](https://medium.com/p/b41d2fe059aa) |
-| Tue, 31 Mar 2026 05:37:12 GMT | Get Unarmed Security Service San Antonio | Matrix Security Guard Services LLC | [Read More](https://medium.com/p/bce8f37c5cb4) |
-| Tue, 31 Mar 2026 05:37:04 GMT | How I Found a Login Brute-Force Vulnerability Due to Missing Rate Limiting | PradyumnTiwareNexus | [Read More](https://medium.com/p/6daa6f76efb3) |
-| Tue, 31 Mar 2026 05:31:18 GMT | Stop watching cybersecurity tutorials. Start thinking like a real pentester. | Dallen Sadru | [Read More](https://medium.com/p/2e372c14deea) |
-| Tue, 31 Mar 2026 05:28:44 GMT | AI is Making Hackers Smarter — But Also Easier to Catch | Paritosh | [Read More](https://medium.com/p/68efa37476b2) |
-| Tue, 31 Mar 2026 05:28:03 GMT | Understanding TLS Certificates and HTTPS Protocol: How Web Security Really Works | codingsprints | [Read More](https://medium.com/p/a03266d94915) |
-| Tue, 31 Mar 2026 05:27:01 GMT | Hard Wallet vs. Exchange: How to Securely Invest in Cryptocurrency in 2026 | Phemex | [Read More](https://medium.com/p/b12c172a9528) |
-| Tue, 31 Mar 2026 05:26:01 GMT | How to Learn Web & API Hacking in 2026: The Complete Roadmap | Krishna Kumar | [Read More](https://medium.com/p/4225510adf4d) |
