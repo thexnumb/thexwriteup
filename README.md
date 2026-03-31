@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 31 Mar 2026 23:29:57 GMT | The Accidental Army. | Garythatcher | [Read More](https://medium.com/p/6bd9a8ca7db0) |
+| Tue, 31 Mar 2026 23:09:27 GMT | I Tried Breaking My Own LLM Defense System — Here’s What Happened | Adil Shafiq | [Read More](https://medium.com/p/c72ce81ae7e4) |
+| Tue, 31 Mar 2026 23:01:02 GMT | Most Homeowners Ignore Garage Door Safety — Until This Happens | Izhak Levi | [Read More](https://medium.com/p/d285c5646a52) |
+| Tue, 31 Mar 2026 22:56:41 GMT | The Reality Check Week for AI: What It Means for Project Managers, Tech Strategists, and Economists | CCL Montante | [Read More](https://medium.com/p/b99b60d955c0) |
+| Tue, 31 Mar 2026 22:53:18 GMT | Why Most Beginners Fail at Smart Contract Security | Abraham | [Read More](https://medium.com/p/0603d6f782fa) |
 | Tue, 31 Mar 2026 22:51:40 GMT | Security Detective: How We Used AI to Automate Security Reviews at Scale | Ryan Black | [Read More](https://medium.com/p/44a89da5aba4) |
 | Tue, 31 Mar 2026 22:50:24 GMT | I Tried Breaking My Own LLM App — That’s When I Realised It Wasn’t Safe | Ethan | [Read More](https://medium.com/p/a91655286b5b) |
 | Tue, 31 Mar 2026 22:32:46 GMT | Earning the ISC2 Certified in Cybersecurity (CC): What I Learned and Why I Started Here | sree | [Read More](https://medium.com/p/5ab8db1523f0) |
@@ -111,8 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 31 Mar 2026 15:51:21 GMT | What are “ballistic” briefcases? | Soniya Singh | [Read More](https://medium.com/p/7767fb453d5b) |
 | Tue, 31 Mar 2026 15:45:51 GMT | If You Use @Transactional in Spring Boot, Read This Before It’s Too Late | Rahul Soni | [Read More](https://medium.com/p/fc1051f5a37d) |
 | Tue, 31 Mar 2026 15:43:25 GMT | What I Found When I Mapped the Surveillance Infrastructure of an 1,100-Year-Old City | Roberto Pinna | [Read More](https://medium.com/p/275aac09bd18) |
-| Tue, 31 Mar 2026 15:41:49 GMT | IP Address explained in depth by a Hacker | NeverFound | [Read More](https://medium.com/p/7214b40fdaf4) |
-| Tue, 31 Mar 2026 15:41:43 GMT | Part 10: The Staff Interview — System Design Mastery | Sivavishnu | [Read More](https://medium.com/p/d758710ac7a4) |
-| Tue, 31 Mar 2026 15:24:55 GMT | Zero Trust Architecture and Its Importance | National Security Institute | [Read More](https://medium.com/p/e38775567728) |
-| Tue, 31 Mar 2026 15:19:28 GMT | What happens when you type a command in a Linux terminal! | Amrsmooke | [Read More](https://medium.com/p/3983155154f7) |
-| Tue, 31 Mar 2026 15:17:13 GMT | Regulatory Excellence in Digital Finance: A Case Study of SafiPay’s European Operations | Sana Jan | [Read More](https://medium.com/p/5f9a6a1845ad) |
