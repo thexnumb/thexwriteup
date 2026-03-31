@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 31 Mar 2026 17:21:04 GMT | What Is Artificial Intelligence, Really? | ByteMind | [Read More](https://medium.com/p/efaa325217c6) |
+| Tue, 31 Mar 2026 17:17:38 GMT | The Package That Stole Your Secrets: Inside the axios npm Attack | Shashi Kant | [Read More](https://medium.com/p/5da0052d9620) |
+| Tue, 31 Mar 2026 17:14:03 GMT | NEWSLETTER: Latest in AI, TikTok, Cybersecurity and “AWS Middle East Cloud Region Hit by a Drone: A… | Nitin Garg | [Read More](https://medium.com/p/be90b9b89562) |
+| Tue, 31 Mar 2026 17:13:07 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/058b93631098) |
+| Tue, 31 Mar 2026 17:07:25 GMT | Axios Was Not The Real Story — JavaScript’s Trust Model Just Broke In Public | The Atomic Architect | [Read More](https://medium.com/p/3ae7b64161ef) |
+| Tue, 31 Mar 2026 17:01:43 GMT | Mapping a Phishing Campaign Using Graph Analysis | Sai kiran | [Read More](https://medium.com/p/7f3f025d7944) |
+| Tue, 31 Mar 2026 16:58:45 GMT | Axios Got Compromised, that Should Worry Every Security Team | Srinija Puvvula | [Read More](https://medium.com/p/7ecc1af5a44a) |
+| Tue, 31 Mar 2026 16:58:19 GMT | Data Diodes: Uma introdução | Gabriel Carrijo | [Read More](https://medium.com/p/6d0d3853f876) |
+| Tue, 31 Mar 2026 16:57:45 GMT | Stop Installing Blindly: Why Developers Must Rethink Dependencies in 2026 | abhipnair | [Read More](https://medium.com/p/86965672cd1d) |
+| Tue, 31 Mar 2026 16:57:21 GMT | Wazuh: CVE-2026–25769 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/a75fff256b11) |
+| Tue, 31 Mar 2026 16:55:35 GMT | Anatomy of the Axios Supply Chain Attack: A Full Technical Breakdown | Easin Arafat | [Read More](https://medium.com/p/650ad88e7865) |
+| Tue, 31 Mar 2026 16:50:45 GMT | Everyone Is Installing OpenClaw | Allen M | [Read More](https://medium.com/p/91e24f522758) |
+| Tue, 31 Mar 2026 16:50:36 GMT | I Said Ingress NGINX Was a Governance Failure. | Heinan Cabouly | [Read More](https://medium.com/p/027e47890b72) |
+| Tue, 31 Mar 2026 16:49:58 GMT | Critical memory overread vulnerability in Citrix NetScaler CVE-2026–3055 | Laxman Hariharan | [Read More](https://medium.com/p/edfa90da227c) |
+| Tue, 31 Mar 2026 16:45:05 GMT | AWS Security Agent Broke Into Juice Shop So I Didn’t Have To | Pragnya Ambekar | [Read More](https://medium.com/p/9d758be6d997) |
+| Tue, 31 Mar 2026 16:43:38 GMT | Your Identity Is Becoming Code — And You Didn’t Vote for It | LifeHack | [Read More](https://medium.com/p/e7d291fcc65d) |
+| Tue, 31 Mar 2026 16:27:33 GMT | Affordable Photography and Videography Services in London for All Events | waeventservices.co.uk/ | [Read More](https://medium.com/p/bd9302cfdda3) |
+| Tue, 31 Mar 2026 16:12:41 GMT | Lab: SQL injection attack, listing the database contents on non-Oracle databases | Songül Kızılay Özügürler | [Read More](https://medium.com/p/e4141d7ffe2a) |
+| Tue, 31 Mar 2026 16:11:42 GMT | The Machines Are Making Decisions. Who Is Governing the Machines? | Younos Nazarian | [Read More](https://medium.com/p/977057ba2d78) |
+| Tue, 31 Mar 2026 16:10:48 GMT | A Deep Dive into Azure Virtual Network Routing Appliance | ZimCanIT | [Read More](https://medium.com/p/466a6f3feacb) |
 | Tue, 31 Mar 2026 16:00:31 GMT | Building a powerful SIEM with Clickhouse and Clickdetect | Vinicius Morais | [Read More](https://medium.com/p/ae68a4495a76) |
 | Tue, 31 Mar 2026 15:57:36 GMT | Cybersecurity Consulting Services for the Digital Age: Strengthening Business Defense with… | Nihar | [Read More](https://medium.com/p/1d4c02ba9f24) |
 | Tue, 31 Mar 2026 15:53:53 GMT | TPM — Trusted Platform Module | Gabriel Carrijo | [Read More](https://medium.com/p/fcc83d9db4db) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 31 Mar 2026 11:10:30 GMT | About Me: Navigating Technology in a World That Never Slows Down | James Mokaya | [Read More](https://medium.com/p/3ba0a1d39770) |
 | Tue, 31 Mar 2026 11:09:44 GMT | Cybersecurity Course in Kannur - Offenso Academy Training Program | Anandunanduk | [Read More](https://medium.com/p/f552bcd59ac0) |
 | Tue, 31 Mar 2026 11:04:53 GMT | How securely push data to AWS, Azure or SAP for just 300 Euros? | DataTalk | [Read More](https://medium.com/p/9b18082145d0) |
-| Tue, 31 Mar 2026 11:03:25 GMT | Not blind transactions. Real consent. | NanoChain | [Read More](https://medium.com/p/c473939208ee) |
-| Tue, 31 Mar 2026 11:02:33 GMT | From Tech Support to Project Role: Where Project+ Actually Helps | Manish Shetty | [Read More](https://medium.com/p/1a623b64783c) |
-| Tue, 31 Mar 2026 11:01:28 GMT | I Didn’t Hack the System. It Let Me In. | Abdullah Hammad | [Read More](https://medium.com/p/a31707736152) |
-| Tue, 31 Mar 2026 11:01:02 GMT | Openwall’s xz 5.6.x Trail Exposed a Maintainer Bottleneck | James Kuhman | [Read More](https://medium.com/p/3f70e425d104) |
-| Tue, 31 Mar 2026 10:57:37 GMT | Is CAP_SYS_ADMIN Alone Enough to Mount? | 쿠키 | [Read More](https://medium.com/p/617f3582a149) |
-| Tue, 31 Mar 2026 10:51:49 GMT | HackStar Is the USB Automation Device Developers Have Been Waiting For | Harshal Vij | [Read More](https://medium.com/p/5dcf81d4e1ad) |
-| Tue, 31 Mar 2026 10:51:24 GMT | Beyond the Lift & Shift: A Security-First Guide to the Cloud Migration Strategies | Rams-Tech | [Read More](https://medium.com/p/f96dbc7ffa51) |
-| Tue, 31 Mar 2026 10:48:04 GMT | [Tomghost] — Apache Tomcat Ghostcat Exploit (CVE-2020-1938) to Root via AJP Misconfiguration | Bash Overflow | [Read More](https://medium.com/p/b0122b33d881) |
-| Tue, 31 Mar 2026 10:47:12 GMT | Six Beginner Web Hacking Vulnerabilities to Learn in 2026 | Cybersectoworld | [Read More](https://medium.com/p/7483bd4c9649) |
-| Tue, 31 Mar 2026 10:46:01 GMT | Cross-Platform Threat Analysis with macOS, SSL Decryption, and 1,300+ New Detections: Release Notes | ANY.RUN | [Read More](https://medium.com/p/1aff379eef5e) |
-| Tue, 31 Mar 2026 10:41:45 GMT | Passive Surveillance vs Intelligent AI Monitoring: What’s the Difference? | Spotem | [Read More](https://medium.com/p/5eba10eafafd) |
-| Tue, 31 Mar 2026 10:31:01 GMT | Supply Chain Attacks in Cybersecurity: Why Hackers Target Your Vendors, Not You — The Supply Chain… | Ishant | [Read More](https://medium.com/p/21858c552c8f) |
-| Tue, 31 Mar 2026 10:27:32 GMT | OpenSSH GSSAPI Flaw (CVE-2026–3497): When a Small SSH Bug Creates Bigger Security Risks | Bachchan James | [Read More](https://medium.com/p/bd4b65014415) |
-| Tue, 31 Mar 2026 10:27:06 GMT | solana | Binay Saha | [Read More](https://medium.com/p/1bf6b142a89e) |
-| Tue, 31 Mar 2026 10:23:56 GMT | Beyond the Iceberg: How Data Travels the Internet, Explained Simply | Loveday Ikegbulam | [Read More](https://medium.com/p/1c3a4817b084) |
-| Tue, 31 Mar 2026 10:22:11 GMT | The Invisible War Beneath the Ocean: How US–Iran Tensions Could Disrupt AI and the Internet | Hruthvik HB | [Read More](https://medium.com/p/ee937a9f413b) |
-| Tue, 31 Mar 2026 10:21:01 GMT | Why Most Post-Incident Reviews Change Almost Nothing | Tyson Martin | [Read More](https://medium.com/p/94f11f5047db) |
-| Tue, 31 Mar 2026 10:21:01 GMT | Passwordless Life 1.0: Parolaların Sonu Mu Geldi? | Agit Rubar Demir | [Read More](https://medium.com/p/e6ae061500f3) |
-| Tue, 31 Mar 2026 10:20:10 GMT | The Axios Supply Chain Attack: How One Compromised npm Account Threatened 100 Million Developers | Ankit Kumar | [Read More](https://medium.com/p/cad61826cdae) |
-| Tue, 31 Mar 2026 10:16:01 GMT | iptables: The Firewall You’re Already Running But Probably Not Using Right | Suyash Adhikari | [Read More](https://medium.com/p/6667a547d4ad) |
