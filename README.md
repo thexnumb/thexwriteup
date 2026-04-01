@@ -12,8 +12,43 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Apr 2026 13:55:37 GMT | Your Software Remembers When You Cursed at It | Jana Diamond | [Read More](https://medium.com/p/3e582318d005) |
+| Wed, 01 Apr 2026 13:54:29 GMT | AI-powered ransomware attack vs AI-driven cybersecurity defense showing automated threat detection… | Sandra Blake, Consumer Finance Writer | [Read More](https://medium.com/p/fd59b376d090) |
+| Wed, 01 Apr 2026 13:47:33 GMT | Basic Pentesting | Yash | [Read More](https://medium.com/p/d252b86f4769) |
+| Wed, 01 Apr 2026 13:44:34 GMT | A 3-Hour npm Breach Put Millions of JavaScript Projects at Risk: Inside the Axios RAT Attack | Rownok Bosunia | [Read More](https://medium.com/p/993c2705a040) |
+| Wed, 01 Apr 2026 13:40:29 GMT | Why Cyber-Insurance and SOC 2 Audits Struggle with Small Tech Teams — And What a Structured… | Eldor Zufarov | [Read More](https://medium.com/p/c9c5cb77206a) |
+| Wed, 01 Apr 2026 13:39:32 GMT | Plant Photographer: TryHackMe | Octacore | [Read More](https://medium.com/p/da47f7a647e7) |
+| Wed, 01 Apr 2026 13:34:39 GMT | Principal: HachTheBox - Difficulty: Medium - Written by Atrox | _ATROX_ | [Read More](https://medium.com/p/08ab7c83e38a) |
+| Wed, 01 Apr 2026 13:31:02 GMT | From Key to Chaos: How a JS Key Breaks Notification Security | Rushikesh Kaware | [Read More](https://medium.com/p/deba6efac8e1) |
+| Wed, 01 Apr 2026 13:31:01 GMT | Common Problems Clients Face with Close Protection | Ricardo Figueroa | [Read More](https://medium.com/p/e98b2ec180b6) |
+| Wed, 01 Apr 2026 13:31:01 GMT | An AI Company Leaked Its Own Code. Why That Should Worry Us | Rekha Pankaj Kumar | [Read More](https://medium.com/p/29a0053c0515) |
+| Wed, 01 Apr 2026 13:31:01 GMT | Quantum Revolution in Cryptography. | Loveneet Singh kalsi | [Read More](https://medium.com/p/7e491640cbe6) |
+| Wed, 01 Apr 2026 13:28:51 GMT | The 2026 AI Meltdown: Claude Mythos Leaks, “Brain Fry,” and the Forensic Fight for Truth | UncovAI | [Read More](https://medium.com/p/8cdc57bfe51f) |
+| Wed, 01 Apr 2026 13:11:32 GMT | Python Security Toolkit Every Developer Needs in 2026 | Er.Muruganantham | [Read More](https://medium.com/p/666d812c3439) |
+| Wed, 01 Apr 2026 13:07:21 GMT | CafeClub writeup (IDOR) Bugforge | 7s26Simon | [Read More](https://medium.com/p/6d8bb8ac3088) |
+| Wed, 01 Apr 2026 13:05:31 GMT | Every Click, Every Search, Every Secret — Google Is Watching | Viplovethakran | [Read More](https://medium.com/p/4262ce9e275a) |
+| Wed, 01 Apr 2026 13:01:02 GMT | [The Prestige] Survival Manual for the Sovereign Individual | MonoEssay | [Read More](https://medium.com/p/ae36341a8de1) |
+| Wed, 01 Apr 2026 13:00:30 GMT | Claude Code’s 500k+ Lines Source Leaked — And the Community Is Already Rewriting It in Rust | Tohju Domo | [Read More](https://medium.com/p/9f29f88ac097) |
+| Wed, 01 Apr 2026 12:52:56 GMT | CAP — HackTheBox WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/499d8716c78d) |
+| Wed, 01 Apr 2026 12:49:58 GMT | Axios NPM Library Delivering Malware Attack | Manmohan J Mundhra, Bangalore, India | [Read More](https://medium.com/p/f4117ee0d0b0) |
+| Wed, 01 Apr 2026 12:45:32 GMT | Content Security Policy (CSP) in Modern Web Apps: The Practical Guide to Preventing XSS | Gregoris Bachtsevanos | [Read More](https://medium.com/p/5111a963670b) |
+| Wed, 01 Apr 2026 12:43:24 GMT | What the Claude Code Leak Teaches Us About AI Supply-Chain Security | Umang Mishra | [Read More](https://medium.com/p/cd687f2ee5ce) |
+| Wed, 01 Apr 2026 12:36:55 GMT | Corridor IDOR 5 Min Challange (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/2fb3c378e52d) |
+| Wed, 01 Apr 2026 12:35:29 GMT | Portal - CyCTF Luxor Finals 2026 | 0xAmIn | [Read More](https://medium.com/p/be4b6cb8f7ab) |
+| Wed, 01 Apr 2026 12:34:40 GMT | Boost Your Tech Team with IT Staff Augmentation - IFI Techsolutions | IFI Techsolutions | [Read More](https://medium.com/p/80e5b8d1a78a) |
+| Wed, 01 Apr 2026 12:34:28 GMT | NS Indian Cyber Army’s: Building the Future of Cybersecurity in India | Naitiksoni | [Read More](https://medium.com/p/6b8a1bd2edf9) |
+| Wed, 01 Apr 2026 12:33:20 GMT | Scanned a Vulnerable Machine — Found 68 Security Flaws in 14 Minutes (Here’s What Happened) | Pacosmic | [Read More](https://medium.com/p/4a9a0ad8f929) |
+| Wed, 01 Apr 2026 12:32:30 GMT | Best Ethical Hacking Tools Being Used By Professionals And Where to Learn Them (2026) | Varun Papnai | [Read More](https://medium.com/p/26c1a07de065) |
+| Wed, 01 Apr 2026 12:30:16 GMT | Evolving IT Support From Ticket Resolution to Business Outcomes | David | [Read More](https://medium.com/p/a176e36afbce) |
+| Wed, 01 Apr 2026 12:29:34 GMT | Why Your iOS App Goes “Dark” on Public Wi-Fi: A Feature, Not a Bug | Nourgweda | [Read More](https://medium.com/p/37eb7a3a6ae2) |
+| Wed, 01 Apr 2026 12:07:56 GMT | LAST CHANCE — Virtual and In-Person Registration for “CVE/FIRST VulnCon 2026” Closes April 6 | CVE Program Blog | [Read More](https://medium.com/p/cb4c1db5c42e) |
+| Wed, 01 Apr 2026 12:01:03 GMT | What is a Cyber Range? | Hannah Adam | [Read More](https://medium.com/p/a46f88a3c8ee) |
+| Wed, 01 Apr 2026 12:01:02 GMT | Param Miner: The Burp Suite Extension That Finds Parameters Nobody Told You Existed | Ajay Yadav | [Read More](https://medium.com/p/8366e793124c) |
+| Wed, 01 Apr 2026 12:01:02 GMT | The Age of Infinite Tabs | Dr Jill | [Read More](https://medium.com/p/32daf9cbcad7) |
+| Wed, 01 Apr 2026 11:58:57 GMT | Can AI Help Prevent Another Jos? | Jefferson C Daniel | [Read More](https://medium.com/p/a726a6beceab) |
 | Wed, 01 Apr 2026 11:54:05 GMT | SOC Investigation Report: Endpoint Compromise (Boogeyman) | chicorax | [Read More](https://medium.com/p/52c37a7ac580) |
 | Wed, 01 Apr 2026 11:49:32 GMT | 7deadbone labs #001 — The lab wakes up | 7deadbone | [Read More](https://medium.com/p/2daddf501b7e) |
+| Wed, 01 Apr 2026 11:47:57 GMT | The Day Anthropic Accidentally Open-Sourced Their Crown Jewel | Sachin Sharma - Cloud & Business Transformation | [Read More](https://medium.com/p/01a50f03a390) |
 | Wed, 01 Apr 2026 11:47:47 GMT | Most companies in India collect personal data every single day. | Vinod Senthil | [Read More](https://medium.com/p/3a9ac9a6374c) |
 | Wed, 01 Apr 2026 11:41:01 GMT | Your AI Secrets Aren’t Safe — The Axios npm Hack Proved It in 3 Hours | Abhinav | [Read More](https://medium.com/p/da19a804b48d) |
 | Wed, 01 Apr 2026 11:40:40 GMT | Cómo usar una VPN solo en el navegador con Docker (WireGuard + Proxy) | Manuel Alejandro Bouza Lavoy | [Read More](https://medium.com/p/3a0642b7bdc5) |
@@ -71,44 +106,9 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Apr 2026 08:45:25 GMT | The npm Install That Handed Hackers Your Entire System in 1.1 Seconds | Muhammad Haider Tallal | [Read More](https://medium.com/p/39d6f713196d) |
 | Wed, 01 Apr 2026 08:44:49 GMT | From Exposure to RCE: Inside the Wing FTP Server Attack Chain | Criminal IP | [Read More](https://medium.com/p/b45ed732dbaa) |
 | Wed, 01 Apr 2026 08:42:56 GMT | Cybersecurity & Bug Bounty Cheat Sheet — Active Directory Attacks & Post-Exploitation | Eugene Softley (softsec) | [Read More](https://medium.com/p/92ab81c1947a) |
+| Wed, 01 Apr 2026 08:38:36 GMT | WordPress Royal Elementor Addons: RCE Zafiyet Analizi (CVE-2023–5360) | Erdem Ceylan | [Read More](https://medium.com/p/c58b9a083941) |
 | Wed, 01 Apr 2026 08:31:29 GMT | Information security has more to do with management than with technology | Mudiuth | [Read More](https://medium.com/p/229b4b19f5a0) |
 | Wed, 01 Apr 2026 08:27:19 GMT | Shellcoding for aarch64 (MacOS & Linux) | Keiran Smith | [Read More](https://medium.com/p/3b06e7839900) |
 | Wed, 01 Apr 2026 08:20:54 GMT | Platform Security Series [Part 3] | M. Taha Akça | [Read More](https://medium.com/p/4718903db33d) |
 | Wed, 01 Apr 2026 08:20:22 GMT | Why Saudi Enterprises Are Rethinking Identity Security — The Case for MFA and SSO in 2026 | Bluechip-Saudi | [Read More](https://medium.com/p/ad4b61c3a5b7) |
 | Wed, 01 Apr 2026 08:17:49 GMT | Square WooCommerce Integration | SKUPlugs | [Read More](https://medium.com/p/2c50f3cc5a9f) |
-| Wed, 01 Apr 2026 08:17:26 GMT | Set up your first lab using VM or Docker | Cy3erS@up | [Read More](https://medium.com/p/68ba2eaa0640) |
-| Wed, 01 Apr 2026 08:14:08 GMT | Clickjacking Attacks Explained with examples | 0xSmit | [Read More](https://medium.com/p/6d31563ee97f) |
-| Wed, 01 Apr 2026 08:12:59 GMT | Session Hijaking Explained: How Cookies Get Stolen | 0xSmit | [Read More](https://medium.com/p/2070e0ea88ad) |
-| Wed, 01 Apr 2026 08:01:02 GMT | Claude Code’s Source Code Just Leaked — Here’s What Actually Happened | MayhemCode | [Read More](https://medium.com/p/a26c29a6b2f0) |
-| Wed, 01 Apr 2026 07:55:42 GMT | CVE-2026–24018: A Logic flaw to Local Privilege Escalation 0day $$$ | Febin | [Read More](https://medium.com/p/ff3a3b5bba69) |
-| Wed, 01 Apr 2026 07:51:23 GMT | Patching an Android App: Decompile, Modify, Rebuild | Pablo Ajo | [Read More](https://medium.com/p/3fdfbb0377ad) |
-| Wed, 01 Apr 2026 07:50:29 GMT | Top Benefits of Hiring Mobile Patrol Security for Commercial Properties | Vitalsecuritysolutions | [Read More](https://medium.com/p/1f6e0eefe1c1) |
-| Wed, 01 Apr 2026 07:48:36 GMT | Anthropic Just Accidentally Showed the World Its Secret Sauce, And It Is Wilder Than Anyone… | Arthi Rajendran | [Read More](https://medium.com/p/e60c59e2ebef) |
-| Wed, 01 Apr 2026 07:48:35 GMT | Implementing RBAC and ABAC at Scale: A Practical Guide for Secure, Scalable Access Control | Majidbasharat | [Read More](https://medium.com/p/b358623cf353) |
-| Wed, 01 Apr 2026 07:47:04 GMT | The Point of Friday was Sunday?: A DFIR Case Report | Patrick Malicsi | [Read More](https://medium.com/p/72022ba65381) |
-| Wed, 01 Apr 2026 07:46:45 GMT | Best Ethical hacking course after 12th for beginners with certification | cyber security Updates | [Read More](https://medium.com/p/4701021cb6c5) |
-| Wed, 01 Apr 2026 07:45:51 GMT | Axios Security Breach: What Happened | Andreas Bourakis | [Read More](https://medium.com/p/c73cbeabbb66) |
-| Wed, 01 Apr 2026 07:43:12 GMT | Your DevSecOps Pipeline is Generating Alerts, Not Fixing Risk | Pranav Dixit | [Read More](https://medium.com/p/11c0cf742d26) |
-| Wed, 01 Apr 2026 07:34:27 GMT | Total Security Antivirus Guide: Lockdown Your Laptop Camera Now | Rahul yadav | [Read More](https://medium.com/p/0d2c43629b38) |
-| Wed, 01 Apr 2026 07:31:24 GMT | EHS Compliance Services: Ensuring Workplace Safety and Regulatory Excellence | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/e4212d81ff86) |
-| Wed, 01 Apr 2026 07:30:04 GMT | Building a Modular WiFi Stress Testing Toolkit with Python & mdk4 | Panggil Aku Paman | [Read More](https://medium.com/p/0adf0d63ace6) |
-| Wed, 01 Apr 2026 07:20:24 GMT | ประจำวันพุธที่ 1 เมษายน 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ed703b9b0b52) |
-| Wed, 01 Apr 2026 07:17:18 GMT | Discover Hidden Attack Surfaces with FFUF Fuzzing | Cyb3rV0lt | [Read More](https://medium.com/p/57936859e2f4) |
-| Wed, 01 Apr 2026 07:15:25 GMT | Understanding AI Agents and the Top 10 OWASP Security Risks | Kaustubh Kalyankar | [Read More](https://medium.com/p/14b446c0087a) |
-| Wed, 01 Apr 2026 07:15:06 GMT | Security And Compliance | Amego | [Read More](https://medium.com/p/4b933d79161d) |
-| Wed, 01 Apr 2026 07:10:17 GMT | Antropic’s Claude Code leaked and Axios NPM Infiltration | Rahul Joshi | [Read More](https://medium.com/p/98ca340cd331) |
-| Wed, 01 Apr 2026 07:10:00 GMT | My Journey Through picoCTF: Lessons, Challenges, and Growth | Murari Pothuru | [Read More](https://medium.com/p/f908f42fbb59) |
-| Wed, 01 Apr 2026 07:01:24 GMT | Network Traffic Basics — Walkthrough | Sesandu Ramath | [Read More](https://medium.com/p/c2a51c94da68) |
-| Wed, 01 Apr 2026 07:01:19 GMT | Harrier-OSS-v1: A Quiet Shift That Could Redefine Embeddings | Datavex AI Pvt Ltd | [Read More](https://medium.com/p/f9dafd276953) |
-| Wed, 01 Apr 2026 06:51:08 GMT | “Are We Vulnerable?” — Why Most Teams Still Don’t Know | Gaurav Arora | [Read More](https://medium.com/p/89cae90f23ad) |
-| Wed, 01 Apr 2026 06:41:11 GMT | Anthropic’s Two Leaks in Five Days: What Enterprise Security Leaders Must Do Now | Ben Pickett | [Read More](https://medium.com/p/668e33b720df) |
-| Wed, 01 Apr 2026 06:40:14 GMT | BAC: THE Money-making Machine | Rajveer | [Read More](https://medium.com/p/ba1bed9418ca) |
-| Wed, 01 Apr 2026 06:39:35 GMT | Common Mistakes to Avoid When Hiring Flutter Developers | Telepathy Infotech | [Read More](https://medium.com/p/5bcaf32e0ff9) |
-| Wed, 01 Apr 2026 06:39:33 GMT | The Pattern That Repeats Before Every Network Problem | Fateyaly | [Read More](https://medium.com/p/93272503110a) |
-| Wed, 01 Apr 2026 06:36:17 GMT | 10 Recent Exploits Every Cybersecurity Professional Should Know | Very Lazy Tech | [Read More](https://medium.com/p/29969abec4ba) |
-| Wed, 01 Apr 2026 06:35:22 GMT | Latest Cybersecurity Statistics in Australia Every Business Should Know | Elevate | [Read More](https://medium.com/p/64cbd6c58e31) |
-| Wed, 01 Apr 2026 06:33:19 GMT | The Supply Chain War Just Came Home | Andrew Horton | [Read More](https://medium.com/p/fe24b829286e) |
-| Wed, 01 Apr 2026 06:33:18 GMT | I Vibe Coded an App in a day and Realized Why We Still Need Humans in the Loop | Lokesh Talagatla | [Read More](https://medium.com/p/24f9695e21b9) |
-| Wed, 01 Apr 2026 06:33:15 GMT | My First Bug Bounty Report: | Ayub Ansari | [Read More](https://medium.com/p/526f34c83ea3) |
-| Wed, 01 Apr 2026 06:32:51 GMT | Dark Web Hunting & Monitoring: A Practical Guide for Pentesters & Red Teamers — Part 4 | Siva Sankar | [Read More](https://medium.com/p/cd6bf33118af) |
-| Wed, 01 Apr 2026 06:31:01 GMT | Why AI Agents Are a Security Nightmare (And Why Nobody Is Ready for It) | Maximilian Richter | [Read More](https://medium.com/p/4decfb3c0a24) |
