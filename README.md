@@ -12,6 +12,39 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Apr 2026 06:51:08 GMT | “Are We Vulnerable?” — Why Most Teams Still Don’t Know | Gaurav Arora | [Read More](https://medium.com/p/89cae90f23ad) |
+| Wed, 01 Apr 2026 06:41:11 GMT | Anthropic’s Two Leaks in Five Days: What Enterprise Security Leaders Must Do Now | Ben Pickett | [Read More](https://medium.com/p/668e33b720df) |
+| Wed, 01 Apr 2026 06:40:14 GMT | BAC: THE Money-making Machine | Rajveer | [Read More](https://medium.com/p/ba1bed9418ca) |
+| Wed, 01 Apr 2026 06:39:35 GMT | Common Mistakes to Avoid When Hiring Flutter Developers | Telepathy Infotech | [Read More](https://medium.com/p/5bcaf32e0ff9) |
+| Wed, 01 Apr 2026 06:39:33 GMT | The Pattern That Repeats Before Every Network Problem | Fateyaly | [Read More](https://medium.com/p/93272503110a) |
+| Wed, 01 Apr 2026 06:36:17 GMT | 10 Recent Exploits Every Cybersecurity Professional Should Know | Very Lazy Tech | [Read More](https://medium.com/p/29969abec4ba) |
+| Wed, 01 Apr 2026 06:35:22 GMT | Latest Cybersecurity Statistics in Australia Every Business Should Know | Elevate | [Read More](https://medium.com/p/64cbd6c58e31) |
+| Wed, 01 Apr 2026 06:33:19 GMT | The Supply Chain War Just Came Home | Andrew Horton | [Read More](https://medium.com/p/fe24b829286e) |
+| Wed, 01 Apr 2026 06:33:18 GMT | I Vibe Coded an App in a day and Realized Why We Still Need Humans in the Loop | Lokesh Talagatla | [Read More](https://medium.com/p/24f9695e21b9) |
+| Wed, 01 Apr 2026 06:33:15 GMT | My First Bug Bounty Report: | Ayub Ansari | [Read More](https://medium.com/p/526f34c83ea3) |
+| Wed, 01 Apr 2026 06:32:51 GMT | Dark Web Hunting & Monitoring: A Practical Guide for Pentesters & Red Teamers — Part 4 | Siva Sankar | [Read More](https://medium.com/p/cd6bf33118af) |
+| Wed, 01 Apr 2026 06:31:01 GMT | Why AI Agents Are a Security Nightmare (And Why Nobody Is Ready for It) | Maximilian Richter | [Read More](https://medium.com/p/4decfb3c0a24) |
+| Wed, 01 Apr 2026 06:28:18 GMT | How to Secure REST APIs Properly | Mubashir | [Read More](https://medium.com/p/a61859d6da6f) |
+| Wed, 01 Apr 2026 06:27:24 GMT | The Architect’s Blueprint: Building Resilient Infrastructure for Modern Threats | Aditya InfosecTrain | [Read More](https://medium.com/p/9a81afd5669d) |
+| Wed, 01 Apr 2026 06:24:47 GMT | If You Want to Learn Cybersecurity in 2026, Start With These 10 Books | Faraz Weerabangsa - BSc in MIS (Special) | [Read More](https://medium.com/p/e1cab70a58b1) |
+| Wed, 01 Apr 2026 06:13:50 GMT | LIVE SESSION TODAY — Host Header Injection Attack Chaining | Dallen Sadru | [Read More](https://medium.com/p/8483a848630d) |
+| Wed, 01 Apr 2026 06:10:52 GMT | Vishing Attacks in Modern Cybersecurity | Cynox Security LLP. | [Read More](https://medium.com/p/c94bc6ad1d9e) |
+| Wed, 01 Apr 2026 06:10:42 GMT | Authentication Vulnerabilities Lab 02 | Mohammed Fahad | [Read More](https://medium.com/p/98c131237a13) |
+| Wed, 01 Apr 2026 06:03:12 GMT | AI Reconnaissance — Fingerprinting an LLM Before You Attack It | Nisarg Patel | [Read More](https://medium.com/p/7fdaad5e6e1a) |
+| Wed, 01 Apr 2026 05:57:40 GMT | Cyber Security Talent, Skills, and Leadership: Why Building Cyber Security Careers Is Now a… | Gisec | [Read More](https://medium.com/p/b748e8199455) |
+| Wed, 01 Apr 2026 05:48:20 GMT | The Bug That Hid in Plain Sight: Fixing a Timezone Problem in an Analytics Dashboard | Sufian | [Read More](https://medium.com/p/705b5d5b9ce8) |
+| Wed, 01 Apr 2026 05:47:33 GMT | Anthropic Didn’t Get Hacked. They Got Configured — here’s how | Toni Maxx | [Read More](https://medium.com/p/949a330e16d9) |
+| Wed, 01 Apr 2026 05:40:40 GMT | YouTube vs. A Paid Ethical Hacking Course Online: Why 90% of Self-Taught Hackers Fail | Varun Papnai | [Read More](https://medium.com/p/25b3557433b3) |
+| Wed, 01 Apr 2026 05:40:10 GMT | Why Your Current Security Tool is Missing Critical Business Logic Flaws | Kate Bennett | [Read More](https://medium.com/p/6a4a5a9f1e97) |
+| Wed, 01 Apr 2026 05:40:10 GMT | The 2026 Axios npm Supply Chain Attack: A Warning to Developers | Newt3n | [Read More](https://medium.com/p/de8ff220c010) |
+| Wed, 01 Apr 2026 05:37:40 GMT | Axios Was Compromised: How a 3-Hour Attack Put 100M+ Systems at Risk | A K M Fahim Kabir | [Read More](https://medium.com/p/5f890b5af7b0) |
+| Wed, 01 Apr 2026 05:36:00 GMT | Designing Privacy at Scale — WhatsApp’s End-to-End Encryption (Signal Protocol) | Vansh Singhal | [Read More](https://medium.com/p/8b7d50cd9cdb) |
+| Wed, 01 Apr 2026 05:33:50 GMT | How I Achieved a “Critical Hit” on a Bug Bounty Platform: Bypassing OTP via Response Manipulation | Evangeliux | [Read More](https://medium.com/p/c0e6d8416589) |
+| Wed, 01 Apr 2026 05:33:29 GMT | Footprinting & Reconnaissance | Vardhan Reddy Dronadula | [Read More](https://medium.com/p/fe4db8054dbd) |
+| Wed, 01 Apr 2026 05:30:50 GMT | Starting in Pentesting? These Free Tools Are All You Need | Maharshi Patel | [Read More](https://medium.com/p/5a7be042b919) |
+| Wed, 01 Apr 2026 05:30:25 GMT | What Are the Most Common Cyber Threats for Beginners to Know? | Eternity Ocean University | [Read More](https://medium.com/p/233536af5d4c) |
+| Wed, 01 Apr 2026 05:28:52 GMT | Inside a Hacker’s Mind: The 5-Step Attack Process | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/bbf33b5311f3) |
+| Wed, 01 Apr 2026 05:27:40 GMT | Debug —PHP Deserialization RCE and a Root-Owned MOTD Script I Could Rewrite - TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/cafdea4ae55e) |
 | Wed, 01 Apr 2026 05:19:51 GMT | IAM vs PAM: Which One Does Your Enterprise Actually Need? | Maruti Techlabs | [Read More](https://medium.com/p/710e34f51f15) |
 | Wed, 01 Apr 2026 05:18:23 GMT | You Cannot Hack What You Cannot See—Mapping the Full Attack Surface with Burp Suite | Yamini Yadav_369 | [Read More](https://medium.com/p/1156d1987f68) |
 | Wed, 01 Apr 2026 05:12:51 GMT | What a Fake Hackable VoIP Server Taught Me About Real Product Risk | Deokbeom Jeong(Tiger) | [Read More](https://medium.com/p/c8f2f3fb3471) |
@@ -23,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 Here’s Everything That Was Inside. | Senaaravichandran A | [Read More](https://medium.com/p/2ed7f4fd8334) |
 | Wed, 01 Apr 2026 04:53:35 GMT | Why Cloud Security Needs More Attention in 2026 | Maruti Techlabs | [Read More](https://medium.com/p/803b1303bb82) |
 | Wed, 01 Apr 2026 04:49:43 GMT | You Won’t Believe What This Free Tool Reveals About Your Surroundings!!! | cybrNK | [Read More](https://medium.com/p/d65798f1da1b) |
+| Wed, 01 Apr 2026 04:37:58 GMT | Part 9: Predictive Analytics & The Grand Data Warehouse | Bilal Writes | [Read More](https://medium.com/p/9ae471c0d681) |
 | Wed, 01 Apr 2026 04:24:12 GMT | SPARK Matrix™: Workforce IAM | Umangp | [Read More](https://medium.com/p/1236722a7b70) |
 | Wed, 01 Apr 2026 04:19:37 GMT | How Google Cloud Armor Helps Close OWASP Top 10 Risks in 2026 | Aleksei Aleinikov | [Read More](https://medium.com/p/7432518f8a27) |
 | Wed, 01 Apr 2026 04:15:45 GMT | Yahoo Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/5cb2b2843bb3) |
@@ -79,41 +113,3 @@ Here’s Everything That Was Inside. | Senaaravichandran A | [Read More](https:/
 | Tue, 31 Mar 2026 22:51:40 GMT | Security Detective: How We Used AI to Automate Security Reviews at Scale | Ryan Black | [Read More](https://medium.com/p/44a89da5aba4) |
 | Tue, 31 Mar 2026 22:50:24 GMT | I Tried Breaking My Own LLM App — That’s When I Realised It Wasn’t Safe | Ethan | [Read More](https://medium.com/p/a91655286b5b) |
 | Tue, 31 Mar 2026 22:32:46 GMT | Earning the ISC2 Certified in Cybersecurity (CC): What I Learned and Why I Started Here | sree | [Read More](https://medium.com/p/5ab8db1523f0) |
-| Tue, 31 Mar 2026 22:30:57 GMT | TryHackMe SOC Analyst Road Map Part-17 | safa kaya | [Read More](https://medium.com/p/e86a76f9685c) |
-| Tue, 31 Mar 2026 22:23:16 GMT | A Nation Bleeding, A People Watching | Okpe Linus adams | [Read More](https://medium.com/p/8ca26526402e) |
-| Tue, 31 Mar 2026 22:17:59 GMT | I Ran ‘chmod 777’ to Fix Permissions — Locked Everyone Out Instead | Coding Stories & Tips | [Read More](https://medium.com/p/11a08ff1a405) |
-| Tue, 31 Mar 2026 22:17:34 GMT | Emotional Intimacy: Being Seen for Who You Really Are | Tamara Nanakumo | [Read More](https://medium.com/p/d9c5c3c6ce55) |
-| Tue, 31 Mar 2026 22:14:54 GMT | Beneath the Kernel Lies the Kingdom | Thomas F McGeehan V | [Read More](https://medium.com/p/36e56b6005c3) |
-| Tue, 31 Mar 2026 22:11:14 GMT | Chat Control Didn’t End, It Just Leveled Up. | RVwv.B | [Read More](https://medium.com/p/9c95508f688f) |
-| Tue, 31 Mar 2026 22:07:35 GMT | 500+ Organizations Now Participating as CVE Numbering Authorities (CNAs) | CVE Program Blog | [Read More](https://medium.com/p/5422e46f209d) |
-| Tue, 31 Mar 2026 22:01:01 GMT | Identity Security and Zero Trust in a Post-Perimeter World | Joshua Moses | [Read More](https://medium.com/p/835d1888097c) |
-| Tue, 31 Mar 2026 22:00:45 GMT | Axios Gets 100 Million Downloads a Week. Today, Two Came With a Trojan. | Aditya Agarwal | [Read More](https://medium.com/p/070ecbd38142) |
-| Tue, 31 Mar 2026 21:59:48 GMT | Least Privilege for AI Agents: The Security Principle Your LLM Deployment Is Probably Violating | Robert Saghafi | [Read More](https://medium.com/p/9042a4763d94) |
-| Tue, 31 Mar 2026 21:57:05 GMT | Rate Limiting Failures - When Your API Has No Memory and Attackers Have All the Time They Need | Rufus Kehinde | [Read More](https://medium.com/p/debcfad3efc9) |
-| Tue, 31 Mar 2026 21:36:43 GMT | The npm Supply Chain Attack Affecting Millions: How to Check If You’re Impacted | Ajeesh Garg | [Read More](https://medium.com/p/b8aa0b60960e) |
-| Tue, 31 Mar 2026 21:33:04 GMT | The Hidden Reason Your Pest Problem Keeps Coming Back (And How to Actually Fix It) | C4pest Control | [Read More](https://medium.com/p/ddc823026afe) |
-| Tue, 31 Mar 2026 21:32:38 GMT | Accelerating Growth with digital infrastructure investment and digital infrastructure services | International Data Center Authority | [Read More](https://medium.com/p/f498158cc516) |
-| Tue, 31 Mar 2026 21:27:00 GMT | Claude Code’s Entire Source Just Leaked. There’s a Tamagotchi Inside. | Sumit Pandey | [Read More](https://medium.com/p/5f223738447c) |
-| Tue, 31 Mar 2026 21:23:46 GMT | The Most Dangerous Hack of 2026: The Axios Supply Chain Attack | Syed Talha Ahmed | [Read More](https://medium.com/p/9861ad017111) |
-| Tue, 31 Mar 2026 21:04:00 GMT | Sigea Cloud Storage vs Google Drive vs Dropbox: What Actually Changes? | Sigea Cloud Labs | [Read More](https://medium.com/p/c6afca6e382a) |
-| Tue, 31 Mar 2026 21:03:22 GMT | The Hidden Power of Metadata — Turning Context into Competitive Advantage | Monika Łyżwa-Dembska | [Read More](https://medium.com/p/f8138add74c9) |
-| Tue, 31 Mar 2026 21:02:32 GMT | Is Sigea Cloud Storage Legit? A Real Breakdown | Sigea Cloud Labs | [Read More](https://medium.com/p/9e7a381698e4) |
-| Tue, 31 Mar 2026 21:01:01 GMT | Unfiltered Restart — Day 38: Security Marathon Day 5 + Others | Maximillian Rueda | [Read More](https://medium.com/p/40c81eb01934) |
-| Tue, 31 Mar 2026 21:00:54 GMT | Why AI Breaks — and the Leadership Playbook to Prevent It | Mehdi Kazmie | [Read More](https://medium.com/p/0f5b606a6890) |
-| Tue, 31 Mar 2026 20:38:05 GMT | Local Privilege Escalation through BYOVD with Kernel R/W Primitives | S12 - 0x12Dark Development | [Read More](https://medium.com/p/2e27878725a2) |
-| Tue, 31 Mar 2026 20:37:45 GMT | Wazuh, Zeek and Pi-hole DNS Sinkhole on Repurposed Hardware (TV Box) | m0us3r | [Read More](https://medium.com/p/d6ea39bfdeb3) |
-| Tue, 31 Mar 2026 20:09:15 GMT | mKingdom — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/8905dfc58cdf) |
-| Tue, 31 Mar 2026 20:06:01 GMT | Cybersecurity Career Expectations vs. Reality: 3 Things I Wish Someone Told Me | Jbird | [Read More](https://medium.com/p/102bdd12c0a3) |
-| Tue, 31 Mar 2026 20:04:36 GMT | Language is the Attack Surface: What We Learned Breaking a Bank With Text | Daniel Alarcón Sánchez | [Read More](https://medium.com/p/a3401ccc2ec6) |
-| Tue, 31 Mar 2026 20:03:18 GMT | In a world where everyone is chasing the next course, the next badge, the next “proof” of… | Ayomide Familusi | [Read More](https://medium.com/p/5fa0ce8835d5) |
-| Tue, 31 Mar 2026 19:57:43 GMT | <!DOCTYPE html>
-<html lang=”en”>
-<head>
-<meta charset=”UTF-8">
-<meta name=”viewport”… | Cloud_Truck | [Read More](https://medium.com/p/f5a59f762f72) |
-| Tue, 31 Mar 2026 19:54:54 GMT | You Don’t Need More Chemistry — You Need Emotional Intimacy | Tamara Nanakumo | [Read More](https://medium.com/p/63e5842f42f0) |
-| Tue, 31 Mar 2026 19:54:31 GMT | The Tool That Automatically Hacks Binaries and Generates Working RCE Exploits in Seconds — Meet… | AncientEncoder | [Read More](https://medium.com/p/51ed28009a97) |
-| Tue, 31 Mar 2026 19:51:13 GMT | Claude Code’s Source Code Leaked. | Yasas Banu | [Read More](https://medium.com/p/c2bde89edc83) |
-| Tue, 31 Mar 2026 19:41:59 GMT | Good News, PC RAM Prices Are Finally Dropping — Here’s What It Means for You in 2026 | Rayhanuddinkhan | [Read More](https://medium.com/p/84996dc0ad83) |
-| Tue, 31 Mar 2026 19:37:03 GMT | The “Manual Mess”: Why Your Compliance Spreadsheet is a Cybersecurity Liability? | Codin Alex Iancu | [Read More](https://medium.com/p/4bc00aaf9f85) |
-| Tue, 31 Mar 2026 19:36:01 GMT | Vulnerability Scanning Tools - TryHackMe | Jose Praveen | [Read More](https://medium.com/p/06832055243a) |
