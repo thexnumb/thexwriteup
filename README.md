@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Apr 2026 16:22:45 GMT | How Attackers Actually Break Identity Systems (Step by Step) | Dr. Shashi Karhail | [Read More](https://medium.com/p/0377fb6f6c0c) |
+| Wed, 01 Apr 2026 16:20:31 GMT | TRYHACKME - WATER BOTTLE | ANWAR1 | [Read More](https://medium.com/p/13bc2ee69b42) |
+| Wed, 01 Apr 2026 16:17:34 GMT | Using Hydra to Identify Weak Passwords | Binyaminszahid | [Read More](https://medium.com/p/8effec48c24b) |
+| Wed, 01 Apr 2026 16:11:35 GMT | I Was Good at Everything, Except One Thing | Zeynep Sude Imamoglu | [Read More](https://medium.com/p/c281dff9acfe) |
+| Wed, 01 Apr 2026 16:06:00 GMT | ChatGPT Vulnerability: The Silent Leakage of Prompts and Sensitive Data | Xaltius | [Read More](https://medium.com/p/24a4ae24a6df) |
+| Wed, 01 Apr 2026 16:02:51 GMT | Cybersecurity Consulting Services for Modern Business Protection | Nihar | [Read More](https://medium.com/p/88136f058906) |
+| Wed, 01 Apr 2026 16:01:41 GMT | Why Custom Software Development Is the Future of Digital Transformation | Violette Labs | [Read More](https://medium.com/p/3efdb354bd18) |
+| Wed, 01 Apr 2026 16:01:22 GMT | Pre-Account Takeover + Account Lockout | Mohamed_Farghly | [Read More](https://medium.com/p/6f917b6c4ad0) |
+| Wed, 01 Apr 2026 15:54:25 GMT | Your npm Install Last Night May Have Run Malware — The axios Attack Explained | MayhemCode | [Read More](https://medium.com/p/344ede2ab6f5) |
+| Wed, 01 Apr 2026 15:52:02 GMT | The ANY.RUN Public Submission Problem | James Bishop | [Read More](https://medium.com/p/5d3f69db78e7) |
+| Wed, 01 Apr 2026 15:43:40 GMT | Progress Report on Fixing our 1.2 | Haley Mancini | [Read More](https://medium.com/p/d82f1698cc19) |
+| Wed, 01 Apr 2026 15:41:58 GMT | Strategic Analysis: The 2026 Initial Access Broker (IAB) Ecosystem | Aether-Intel | [Read More](https://medium.com/p/746692dad9c6) |
+| Wed, 01 Apr 2026 15:40:12 GMT | Data Encryption and Key Exchange | Mahdi | [Read More](https://medium.com/p/87185c47f693) |
+| Wed, 01 Apr 2026 15:28:29 GMT | How Fintech Data Leaks Actually Happen | Roman Fedytskyi | [Read More](https://medium.com/p/bde34325adbe) |
+| Wed, 01 Apr 2026 15:27:42 GMT | Data Exfiltration | Omarani | [Read More](https://medium.com/p/ddd8ea2c3bfd) |
+| Wed, 01 Apr 2026 15:18:54 GMT | Cryptography Failures - When the Encryption Protecting Financial Data Is Weaker Than Everyone… | Rufus Kehinde | [Read More](https://medium.com/p/355089bf765e) |
+| Wed, 01 Apr 2026 15:17:11 GMT | One Helm chart for every microservice | Talgotrajatin | [Read More](https://medium.com/p/64ed36019a1f) |
+| Wed, 01 Apr 2026 15:14:53 GMT | Mighty Hacker Recovery: Advanced Solutions for Cryptocurrency Asset Retrieval +13439473496 Canada… | Phrasekeyrecovery | [Read More](https://medium.com/p/7e9a97c30e4b) |
+| Wed, 01 Apr 2026 15:11:43 GMT | The Linux Security Journey — SSH Certificates | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/055acbf8a7b2) |
 | Wed, 01 Apr 2026 15:06:24 GMT | Real Stories: How Users Avoided Losing Money Using ScamAlerts.com | James Smith | [Read More](https://medium.com/p/ed95c574b111) |
 | Wed, 01 Apr 2026 15:01:02 GMT | Threat Modelling & AI: Are We Still Part of the Conversation? | Danielle | [Read More](https://medium.com/p/c6d4b9d55ac5) |
 | Wed, 01 Apr 2026 15:01:02 GMT | The Hollow Middle: How We Started to Gutted the SOC Analyst Pipeline Before AI Ever Showed Up | Ehulse | [Read More](https://medium.com/p/6c0aab958649) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Apr 2026 10:42:01 GMT | Der Butler, der die Tür öffnet | Manuela Frenzel,  unabhängige Publizistin. | [Read More](https://medium.com/p/45a936628b5a) |
 | Wed, 01 Apr 2026 10:41:35 GMT | Cap — HackTheBox Writeup | Abhishek sibi | [Read More](https://medium.com/p/df8aa0e17867) |
 | Wed, 01 Apr 2026 10:39:55 GMT | Anthroic’s Claude Code leaked: the accidental source-code exposure that revealed how fragile AI… | TONI RAMCHANDANI | [Read More](https://medium.com/p/55dc38a059e2) |
-| Wed, 01 Apr 2026 10:38:53 GMT | The Top 10 Most Critical CVEs for Healthcare in 2026 | Travis Ray Caverhill | [Read More](https://medium.com/p/4ce577e684c9) |
-| Wed, 01 Apr 2026 10:37:46 GMT | ️ Part 3: The “Camera Whisperer” — Finalizing Your 50-Year Digital Legacy! ✨ | Zoningxtr | [Read More](https://medium.com/p/fed4e5779ef1) |
-| Wed, 01 Apr 2026 10:37:46 GMT | Axios NPM Supply Chain Compromise: What It Teaches About Modern Software Risk | Xccelera | [Read More](https://medium.com/p/78820d50ce35) |
-| Wed, 01 Apr 2026 10:31:29 GMT | ️ From 512K Lines of Leaked Code: How Claude Code Achieves “Security First” | GoPlus Security | [Read More](https://medium.com/p/fb17ac52f4f5) |
-| Wed, 01 Apr 2026 10:28:58 GMT | Microsoft Defender for Endpoint: Beyond the Basics | Zaynab Rouis | [Read More](https://medium.com/p/2c399fb5c70b) |
-| Wed, 01 Apr 2026 10:23:48 GMT | Is my boyfriend cheating signs? | Michael Parks | [Read More](https://medium.com/p/3a99593dbc84) |
-| Wed, 01 Apr 2026 10:05:11 GMT | The Day I Finally Let the Mask Slip | Zargul | [Read More](https://medium.com/p/fa4da403ced8) |
-| Wed, 01 Apr 2026 10:01:39 GMT | 4 reasons Apple banned vibe coding apps and why innovation isn’t one of them | Paul Walsh | [Read More](https://medium.com/p/1d2dd88a9397) |
-| Wed, 01 Apr 2026 10:01:07 GMT | Magento PolyShell: What It Is, Why It Matters, and How to Protect Your Store | On Tap | [Read More](https://medium.com/p/7839e1a8e081) |
-| Wed, 01 Apr 2026 09:57:18 GMT | Build Scalable Workflows with the Right Experts | n8ndevelopers | [Read More](https://medium.com/p/b7f593827c53) |
-| Wed, 01 Apr 2026 09:51:09 GMT | What Do DevOps Service Providers Do? Benefits, Services & How to Choose the Right One | Quadrant IT Services | [Read More](https://medium.com/p/ec5e1dc4e96e) |
-| Wed, 01 Apr 2026 09:51:07 GMT | The 2-Second Hack: How 100 Million Developers Were Just Targeted on npm | Dhanush N | [Read More](https://medium.com/p/48d3359b63b7) |
-| Wed, 01 Apr 2026 09:46:59 GMT | ️‍♂️ The Complete Beginner’s Guide to Bug Bounty Reconnaissance: Live Hunting on PayPal | Krishna Kumar | [Read More](https://medium.com/p/ddb2b0abecd3) |
-| Wed, 01 Apr 2026 09:33:58 GMT | How to earn VDS in Vadeus Network [Rewards Center] | Vadeus Network | [Read More](https://medium.com/p/3f3fb53a124b) |
-| Wed, 01 Apr 2026 09:33:09 GMT | How I Find Open Redirects | Riya Limba | [Read More](https://medium.com/p/3a0195f2064b) |
-| Wed, 01 Apr 2026 09:32:59 GMT | Is WAF Enough for Modern Security? API and AI Agent Risks You Can’t Ignore | John Hawkins | [Read More](https://medium.com/p/5f5f1101b751) |
-| Wed, 01 Apr 2026 09:31:33 GMT | 从51.2万行泄露代码看，ClaudeCode 是如何做到”安全优先”！ | GoPlus中文社区 | [Read More](https://medium.com/p/c2113cdef4cf) |
-| Wed, 01 Apr 2026 09:21:10 GMT | Introduction to Vulnerability Assessment and Security Scanning Tools | Adithya Hettiarachchi | [Read More](https://medium.com/p/c996aa7728ec) |
-| Wed, 01 Apr 2026 09:11:00 GMT | Inside the Claude Code Leak: How a 59.8 MB Source Map Exposed Anthropic’s Agent Architecture | Parminder Kumar Sharma | [Read More](https://medium.com/p/fd270bda75b3) |
