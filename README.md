@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Apr 2026 23:48:13 GMT | This One Mistake Can Break Your Entire Security System | Dibeesh KS | [Read More](https://medium.com/p/fd5a2a0e1a38) |
+| Wed, 01 Apr 2026 23:45:14 GMT | AWS Frontier Agents Dissected: What Security Agent and DevOps Agent Actually Do Under the Hood | Erick Mancz | [Read More](https://medium.com/p/e97b49feabb6) |
+| Wed, 01 Apr 2026 23:42:00 GMT | Burp-Only IDOR Hunting — Find Broken Authorization Without Fancy Tools | ghostyjoe | [Read More](https://medium.com/p/efc9f9f4cc52) |
+| Wed, 01 Apr 2026 23:33:52 GMT | Stop Fighting Chaos in the Age of AI | Donnie Gibbs | [Read More](https://medium.com/p/9426111803ef) |
+| Wed, 01 Apr 2026 23:24:30 GMT | GoatseLinux vulnhub machine writeup | Dexter Morgan | [Read More](https://medium.com/p/76cbbb6d142f) |
+| Wed, 01 Apr 2026 23:16:47 GMT | cybertalents: Admin has the power | D_A_R_K | [Read More](https://medium.com/p/61e4f3dcfdfc) |
+| Wed, 01 Apr 2026 23:00:30 GMT | How to Hunt IDORs When IDs Are UUIDs (Not Integers) Lab: User ID controlled by request parameter… | morgan_hack | [Read More](https://medium.com/p/4c54aa5cc650) |
+| Wed, 01 Apr 2026 23:00:06 GMT | The Most Valuable Thing You Type Isn’t Your Password | Zsearchai | [Read More](https://medium.com/p/124ae154065b) |
 | Wed, 01 Apr 2026 22:58:26 GMT | Claude Code’s Source Didn’t Leak. It Was Already Public for Years. | Nikita Savchenko | [Read More](https://medium.com/p/5b6276c44d75) |
 | Wed, 01 Apr 2026 22:42:29 GMT | Containerized Pipeline Security Assessment Framework: A Strategic Hardening Guide | Chungwon So | [Read More](https://medium.com/p/6431734d31a1) |
 | Wed, 01 Apr 2026 22:40:15 GMT | How can you stop someone from blackmailing you? | ZeroTracee | [Read More](https://medium.com/p/7159274d257b) |
@@ -77,6 +85,7 @@ Dynamic Location Metadata… | Yahya Ahmed | [Read More](https://medium.com/p/f7
 | Wed, 01 Apr 2026 18:16:01 GMT | Have you ever seen the emails and folders that Outlook itself doesn’t really want you to see? | Yasser Hussien | [Read More](https://medium.com/p/79f68463c5e2) |
 | Wed, 01 Apr 2026 18:12:20 GMT | What the 2024 CrowdStrike Outage Taught Us About Building Reliable Systems | Shalinisaloni | [Read More](https://medium.com/p/0fd9649b688a) |
 | Wed, 01 Apr 2026 18:11:32 GMT | Claude Code’un Sızan Kaynak Kodunda Neler Var | Mehmet Aras | [Read More](https://medium.com/p/e9fe90f39a1a) |
+| Wed, 01 Apr 2026 18:11:30 GMT | The Dark Side of Online Interviews in the AI Era: Why We Need a Verified Hiring System | Ramakrishna Gedala | [Read More](https://medium.com/p/ae6676452f74) |
 | Wed, 01 Apr 2026 18:07:10 GMT | My Cybersecurity Journey (Day-2) | Priyesh Patware | [Read More](https://medium.com/p/5bcefebde789) |
 | Wed, 01 Apr 2026 18:05:59 GMT | 512,000 lines of secrets: inside the Claude Code leak | Vishwajeet Barve | [Read More](https://medium.com/p/fa5435c9aed2) |
 | Wed, 01 Apr 2026 18:01:27 GMT | Signal Intelligence Emerging from Properly Designed Systems | balik | [Read More](https://medium.com/p/354732d1902a) |
@@ -105,12 +114,3 @@ The Samsung Breach and What It Means for Every Developer | Swadhasingh | [Read M
 | Wed, 01 Apr 2026 16:49:54 GMT | Why New Bug Bounty Hunters Get Stuck — And How to Fix It | B-Vain | [Read More](https://medium.com/p/0239ad40d6cb) |
 | Wed, 01 Apr 2026 16:45:41 GMT | Trust Isn’t Forever: Why Digital Credentials Need to Fade | Aamir Hameed | [Read More](https://medium.com/p/6b95fa1c168c) |
 | Wed, 01 Apr 2026 16:45:14 GMT | 1Password Sızıntısı: Şifreleriniz Gerçekten Güvende mi ? | Ömer Faruk Kurt | [Read More](https://medium.com/p/bac03bc2a5c9) |
-| Wed, 01 Apr 2026 16:42:44 GMT | Help Desk in Corporate America IT | Brian Fischer | [Read More](https://medium.com/p/a50c95e12a1e) |
-| Wed, 01 Apr 2026 16:41:22 GMT | Day 3: Defending the Perimeter — The Architecture of Network Security Devices | Ndu | [Read More](https://medium.com/p/c89583004d89) |
-| Wed, 01 Apr 2026 16:40:56 GMT | The 3 Biggest Travel “Hacks” That Are Actually Scamming You | BharatFare | [Read More](https://medium.com/p/6ba98adebee6) |
-| Wed, 01 Apr 2026 16:40:54 GMT | Understanding Customer Due Diligence Principles: The Backbone of Modern Financial Security | Lenna Mustik | [Read More](https://medium.com/p/0716200b0a0b) |
-| Wed, 01 Apr 2026 16:38:11 GMT | Best KYC Verification Platforms: Comprehensive Comparison and Guide | Lenna Mustik | [Read More](https://medium.com/p/c129192d8d96) |
-| Wed, 01 Apr 2026 16:36:57 GMT | Why Data-Driven Security Is Finally Making Sense | Teona | [Read More](https://medium.com/p/8ba12c09aa45) |
-| Wed, 01 Apr 2026 16:22:45 GMT | How Attackers Actually Break Identity Systems (Step by Step) | Dr. Shashi Karhail | [Read More](https://medium.com/p/0377fb6f6c0c) |
-| Wed, 01 Apr 2026 16:20:31 GMT | TRYHACKME - WATER BOTTLE | ANWAR1 | [Read More](https://medium.com/p/13bc2ee69b42) |
-| Wed, 01 Apr 2026 16:17:34 GMT | Using Hydra to Identify Weak Passwords | Binyaminszahid | [Read More](https://medium.com/p/8effec48c24b) |
