@@ -12,6 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Apr 2026 05:19:51 GMT | IAM vs PAM: Which One Does Your Enterprise Actually Need? | Maruti Techlabs | [Read More](https://medium.com/p/710e34f51f15) |
+| Wed, 01 Apr 2026 05:18:23 GMT | You Cannot Hack What You Cannot See—Mapping the Full Attack Surface with Burp Suite | Yamini Yadav_369 | [Read More](https://medium.com/p/1156d1987f68) |
+| Wed, 01 Apr 2026 05:12:51 GMT | What a Fake Hackable VoIP Server Taught Me About Real Product Risk | Deokbeom Jeong(Tiger) | [Read More](https://medium.com/p/c8f2f3fb3471) |
+| Wed, 01 Apr 2026 05:12:04 GMT | THE AXIOS BACKDOOR: How 173,000 Packages Just Got Quietly Compromised | Rishi Raam | [Read More](https://medium.com/p/7f378a4d7425) |
+| Wed, 01 Apr 2026 05:00:34 GMT | Network Testing: Core Networking (Foundation) part 3 | JEETPAL | [Read More](https://medium.com/p/f48808cf3f13) |
+| Wed, 01 Apr 2026 04:59:03 GMT | Privilege Escalation in Practice: Moving Beyond Initial Access | Daniel Isaac E | [Read More](https://medium.com/p/d396ae160e02) |
+| Wed, 01 Apr 2026 04:58:11 GMT | The Architecture of the Void | 乛 ᎫᏅᎩཐི༏ཋྀ࿐ | [Read More](https://medium.com/p/0d6fe306e123) |
+| Wed, 01 Apr 2026 04:55:14 GMT | Anthropic Accidentally Open-Sourced Their Most Valuable Product.
+Here’s Everything That Was Inside. | Senaaravichandran A | [Read More](https://medium.com/p/2ed7f4fd8334) |
+| Wed, 01 Apr 2026 04:53:35 GMT | Why Cloud Security Needs More Attention in 2026 | Maruti Techlabs | [Read More](https://medium.com/p/803b1303bb82) |
+| Wed, 01 Apr 2026 04:49:43 GMT | You Won’t Believe What This Free Tool Reveals About Your Surroundings!!! | cybrNK | [Read More](https://medium.com/p/d65798f1da1b) |
+| Wed, 01 Apr 2026 04:24:12 GMT | SPARK Matrix™: Workforce IAM | Umangp | [Read More](https://medium.com/p/1236722a7b70) |
+| Wed, 01 Apr 2026 04:19:37 GMT | How Google Cloud Armor Helps Close OWASP Top 10 Risks in 2026 | Aleksei Aleinikov | [Read More](https://medium.com/p/7432518f8a27) |
+| Wed, 01 Apr 2026 04:15:45 GMT | Yahoo Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/5cb2b2843bb3) |
+| Wed, 01 Apr 2026 04:09:35 GMT | McAfee Antivirus Customer Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/effb82776a39) |
+| Wed, 01 Apr 2026 04:02:26 GMT | McAfee Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/6cc84f36aa58) |
+| Wed, 01 Apr 2026 03:52:03 GMT | Yahoo Customer Service Australia | Customer Support Information | [Read More](https://medium.com/p/98cae1805662) |
+| Wed, 01 Apr 2026 03:47:49 GMT | SPARK Matrix™: Mobile Threat Management (MTM) | Umangp | [Read More](https://medium.com/p/fd266ced4e52) |
+| Wed, 01 Apr 2026 03:46:02 GMT | What Is ASN and How It Helps Security: A Practical Guide for Engineers | John Hawkins | [Read More](https://medium.com/p/c8fa1afc6687) |
+| Wed, 01 Apr 2026 03:44:07 GMT | ChongmingLab - Weekly Blockchain Security News (March 23-29) | Chongming lab | [Read More](https://medium.com/p/2618300eed0b) |
+| Wed, 01 Apr 2026 03:35:00 GMT | The Trout Moment | Sarah Neylon | [Read More](https://medium.com/p/e6d3daa21f4c) |
+| Wed, 01 Apr 2026 03:32:31 GMT | From Dependency to Domain Compromise: How One Install Can Take Down Everything | Paritosh | [Read More](https://medium.com/p/800365def469) |
+| Wed, 01 Apr 2026 03:15:19 GMT | What I Have To Offer | Kosi Nwosisi | [Read More](https://medium.com/p/b633e2ada171) |
+| Wed, 01 Apr 2026 03:08:36 GMT | Oracle’s Mass Layoff: What Happened, Why It Happened, And What It Means For You | Sorab Ghaswalla | [Read More](https://medium.com/p/5754ad44ca09) |
+| Wed, 01 Apr 2026 03:03:34 GMT | Your AI Got an A+. It Also Just Read the CEO’s Payroll Spreadsheet. | Jeff Flynt | [Read More](https://medium.com/p/b6ecb4909fd5) |
+| Wed, 01 Apr 2026 03:01:09 GMT | Building a Truly Offline Password Manager | Clifford Cheefoon | [Read More](https://medium.com/p/5c8b5c458ad9) |
+| Wed, 01 Apr 2026 02:55:28 GMT | Why the most dangerous thing about AI isn’t that it’s wrong | Jason Romito | [Read More](https://medium.com/p/a8686c706d74) |
+| Wed, 01 Apr 2026 02:52:05 GMT | XSS: How Attackers Steal Sessions Silently | Cybersphere Official | [Read More](https://medium.com/p/617a17849782) |
+| Wed, 01 Apr 2026 02:48:13 GMT | The Performance Cost of WordPress Security: Building a Low-Bloat Architecture | Fachremy Putra | [Read More](https://medium.com/p/6a7484ac2f6d) |
+| Wed, 01 Apr 2026 02:46:54 GMT | How I Found an IDOR That Exposed Cancer Patient Identities on a Government Healthcare Portal | ABO3JRAM | [Read More](https://medium.com/p/d109fc6ffe08) |
+| Wed, 01 Apr 2026 02:45:27 GMT | Your App Is Probably Vulnerable — And It’s Not Where You Think | Dimas Pratama | [Read More](https://medium.com/p/e70ae3637b2a) |
 | Wed, 01 Apr 2026 02:28:45 GMT | The Silent War: How India is Cracking the Code of GPS Jamming and Spoofing | The Tech Navigator | [Read More](https://medium.com/p/7d36cec1da31) |
 | Wed, 01 Apr 2026 02:27:37 GMT | State Without Storage: Systems That Remember Nothing | sengom | [Read More](https://medium.com/p/b50fa313cad8) |
 | Wed, 01 Apr 2026 02:25:08 GMT | Computation Without Exposure: When Execution Reveals Nothing | sengom | [Read More](https://medium.com/p/5bbbc9336f2b) |
@@ -86,33 +117,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 31 Mar 2026 19:41:59 GMT | Good News, PC RAM Prices Are Finally Dropping — Here’s What It Means for You in 2026 | Rayhanuddinkhan | [Read More](https://medium.com/p/84996dc0ad83) |
 | Tue, 31 Mar 2026 19:37:03 GMT | The “Manual Mess”: Why Your Compliance Spreadsheet is a Cybersecurity Liability? | Codin Alex Iancu | [Read More](https://medium.com/p/4bc00aaf9f85) |
 | Tue, 31 Mar 2026 19:36:01 GMT | Vulnerability Scanning Tools - TryHackMe | Jose Praveen | [Read More](https://medium.com/p/06832055243a) |
-| Tue, 31 Mar 2026 19:35:48 GMT | The Hidden Risk in Every npm install Command (And the Simple Config Change That Helps) | Rusiru Gunaratne | [Read More](https://medium.com/p/a69defe1dfa4) |
-| Tue, 31 Mar 2026 19:34:57 GMT | Anthropic Just Leaked 512,000 Lines of Claude Code’s Source And What’s Inside Is Wild | ThinkBeyond | [Read More](https://medium.com/p/d276cb37b7fa) |
-| Tue, 31 Mar 2026 19:29:19 GMT | Axios Got Hacked and Honestly I’m Tired | Samrat Dutta | [Read More](https://medium.com/p/66c13495033f) |
-| Tue, 31 Mar 2026 19:26:51 GMT | Strategy, Standards, and Success Cases of Cybersecurity Frameworks | Xcelplex | [Read More](https://medium.com/p/7e71299d0220) |
-| Tue, 31 Mar 2026 19:14:16 GMT | Security Camera Systems in Fayetteville GA: Protecting What Matters in a Rapidly Changing World | BNS ReadyTech | [Read More](https://medium.com/p/0d01bafa60d9) |
-| Tue, 31 Mar 2026 18:56:20 GMT | OpenClaw Security in 2026: Network-Level Threat Detection with Suricata | Senturkselim | [Read More](https://medium.com/p/bd4170969b99) |
-| Tue, 31 Mar 2026 18:56:01 GMT | EU GDPR — Article 40 (Codes of Conduct) | MDM Team | [Read More](https://medium.com/p/6f3796528b02) |
-| Tue, 31 Mar 2026 18:53:07 GMT | The 57MB Blunder: What the Claude Code Leak Actually Reveals | Shashwat | [Read More](https://medium.com/p/b42ab06dcb1b) |
-| Tue, 31 Mar 2026 18:50:38 GMT | Zero Trust in 2026: Why Small Teams Are Finally Adopting It | NMA iT Service | [Read More](https://medium.com/p/5510c72d9659) |
-| Tue, 31 Mar 2026 18:48:04 GMT | Axios NPM Package Compromised in Supply Chain Attack | RealSec.io | [Read More](https://medium.com/p/abb0ae0a225f) |
-| Tue, 31 Mar 2026 18:41:36 GMT | Governing the “Agentic” Workforce: The Next Frontier of Identity Security | Yashasvi Sharma | [Read More](https://medium.com/p/d7ed39b79821) |
-| Tue, 31 Mar 2026 18:36:26 GMT | PE Dateien & Malware - Data Directorys (OPTIONAL_IMAGE_HEADER) #6 | Nick Vidovic | [Read More](https://medium.com/p/ef2ac6ae5999) |
-| Tue, 31 Mar 2026 18:36:09 GMT | Scanning the Shadows: Exploiting SSRF Against Internal Back-End System | Ayeshaaghafoor | [Read More](https://medium.com/p/4b6f58fc8bb1) |
-| Tue, 31 Mar 2026 18:35:50 GMT | The Jos Massacre: A Government That Cannot Protect Its People Has Lost the Right to Rule | Joseph Igoche | [Read More](https://medium.com/p/aa4fd91a425b) |
-| Tue, 31 Mar 2026 18:35:41 GMT | Is Claude Code Open Source Now? Not Exactly. Here’s the Truth — Beware on X Scam. | Christopher Saez | [Read More](https://medium.com/p/15d5ee8132d5) |
-| Tue, 31 Mar 2026 18:34:30 GMT | Lab: Remote Code Execution via Web Shell Upload | Ayeshaaghafoor | [Read More](https://medium.com/p/ba8c916d0ce1) |
-| Tue, 31 Mar 2026 18:33:11 GMT | Security Concepts Every Java Developer in Banking Should Master: Part 3 | Kalyani Dagde | [Read More](https://medium.com/p/532dc8a9b515) |
-| Tue, 31 Mar 2026 18:33:03 GMT | CyberDefenders — DanaBot Banking Trojan Lab Writeup | JBXSec | [Read More](https://medium.com/p/2c046aa7b6ec) |
-| Tue, 31 Mar 2026 18:13:50 GMT | Case Study: The Equifax Breach — Or, How to Lose 147 Million Identities with One Missed Update | Vasant Bhadauria | [Read More](https://medium.com/p/356b4ff13a2a) |
-| Tue, 31 Mar 2026 18:03:11 GMT | When The Black Mist Takes Everything | Liora Bloom | [Read More](https://medium.com/p/b2ee0ee8719b) |
-| Tue, 31 Mar 2026 18:01:13 GMT | Before You Learn Hacking, Read This About Networking | Priyesh Patware | [Read More](https://medium.com/p/57fa0c9601d1) |
-| Tue, 31 Mar 2026 18:00:45 GMT | You Are the Product. Here’s What That Actually Means. | The Architect | [Read More](https://medium.com/p/6559e1839cf7) |
-| Tue, 31 Mar 2026 17:58:26 GMT | The Cadence of Digital Hygiene: Reclaiming Focus in an Age of Constant Output | Ed-it Editions | [Read More](https://medium.com/p/d08d0d94199d) |
-| Tue, 31 Mar 2026 17:58:16 GMT | Carding? The Dark Side of Darkweb | Abhijeet kumawat | [Read More](https://medium.com/p/8216f04b4c0d) |
-| Tue, 31 Mar 2026 17:56:45 GMT | The Axios Hack That Wasn’t? Why Developers Panicked Overnight | Muhammad Shehroz | [Read More](https://medium.com/p/487a2f0b301d) |
-| Tue, 31 Mar 2026 17:41:29 GMT | Urgent Security Alert: NPM Hacked – Protect Your Applications | Siddhartha Singh | [Read More](https://medium.com/p/7beaee540ee8) |
-| Tue, 31 Mar 2026 17:37:02 GMT | Eyes Everywhere: The New Era of Intelligent Surveillance | Teona | [Read More](https://medium.com/p/1f9a19c3586a) |
-| Tue, 31 Mar 2026 17:36:15 GMT | ️ Fraud Detection in Banking Systems (Theory + .NET Implementation) | Neupanebibek | [Read More](https://medium.com/p/8f5d280f299e) |
-| Tue, 31 Mar 2026 17:34:30 GMT | I Stopped Hiring the “Most Qualified” Cybersecurity Candidate. Here’s Who I Hire Instead. | Jbird | [Read More](https://medium.com/p/26adaa7e08f3) |
-| Tue, 31 Mar 2026 17:27:44 GMT | The Axios Attack: Why Your "Modern" Workflow is a Security Nightmare | Ozan Ozkara | [Read More](https://medium.com/p/d8cc3e1a6b8d) |
