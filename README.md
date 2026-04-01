@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Apr 2026 11:54:05 GMT | SOC Investigation Report: Endpoint Compromise (Boogeyman) | chicorax | [Read More](https://medium.com/p/52c37a7ac580) |
+| Wed, 01 Apr 2026 11:49:32 GMT | 7deadbone labs #001 — The lab wakes up | 7deadbone | [Read More](https://medium.com/p/2daddf501b7e) |
+| Wed, 01 Apr 2026 11:47:47 GMT | Most companies in India collect personal data every single day. | Vinod Senthil | [Read More](https://medium.com/p/3a9ac9a6374c) |
+| Wed, 01 Apr 2026 11:41:01 GMT | Your AI Secrets Aren’t Safe — The Axios npm Hack Proved It in 3 Hours | Abhinav | [Read More](https://medium.com/p/da19a804b48d) |
+| Wed, 01 Apr 2026 11:40:40 GMT | Cómo usar una VPN solo en el navegador con Docker (WireGuard + Proxy) | Manuel Alejandro Bouza Lavoy | [Read More](https://medium.com/p/3a0642b7bdc5) |
+| Wed, 01 Apr 2026 11:38:52 GMT | Three Words That Run the Entire Internet (And Most People Have Never Heard of Them) | Nehaal | [Read More](https://medium.com/p/7de170ab388a) |
+| Wed, 01 Apr 2026 11:38:32 GMT | Booking Systems Under Attack: How Hackers Are Exploiting Hotel Workflows to Scam Guests | Jas | [Read More](https://medium.com/p/88b01db27002) |
+| Wed, 01 Apr 2026 11:35:14 GMT | AI Is Reshaping the Workforce And Driving Quiet Layoffs | Preplink.ai | [Read More](https://medium.com/p/5bc7f585a9c9) |
+| Wed, 01 Apr 2026 11:33:35 GMT | Axios got hacked through another supply chain attack on npm. | zack | [Read More](https://medium.com/p/44b8f2e19546) |
+| Wed, 01 Apr 2026 11:31:01 GMT | The Subtle Sign #1 That Made Me Recheck My Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/57576f9a1f25) |
+| Wed, 01 Apr 2026 11:31:00 GMT | How I Mapped an Entire Website’s Infrastructure Without Touching a Single Server | Pacosmic | [Read More](https://medium.com/p/7ae7f48ae6b7) |
+| Wed, 01 Apr 2026 11:29:31 GMT | The Axios Supply Chain Attack: How One npm Install Compromised Thousands of Systems | Rizwanhoda | [Read More](https://medium.com/p/6d1ef38af158) |
+| Wed, 01 Apr 2026 11:25:21 GMT | Find the Masked Man — 3: How I Tracked a Hooded Figure Across Paris Using Only a Blurry Storefront… | mayhack | [Read More](https://medium.com/p/d563f76e861b) |
+| Wed, 01 Apr 2026 11:20:14 GMT | Ethical Hacking and Penetration Testing Trends | Vishal Uttam Mane | [Read More](https://medium.com/p/dbb7eb68cc11) |
+| Wed, 01 Apr 2026 11:11:15 GMT | What a Data Scientist Sees When You Post a Photo | Dominion | [Read More](https://medium.com/p/c7312f0cbc2e) |
+| Wed, 01 Apr 2026 11:06:25 GMT | AWS— Security Groups vs Network Access Control List (NACL) | Richa Shukla | [Read More](https://medium.com/p/a8a4d8d13a33) |
+| Wed, 01 Apr 2026 11:01:42 GMT | Choose the Best Program For Cybersecurity Certified course in Nepal | Techno Infosys | [Read More](https://medium.com/p/756b623c1ce0) |
 | Wed, 01 Apr 2026 10:56:18 GMT | ادراج حديد للملفات: الحل المثالي لتنظيم المستندات وحمايتها في بيئة العمل | Gulf Safes | [Read More](https://medium.com/p/cee84b7a2cb9) |
 | Wed, 01 Apr 2026 10:53:20 GMT | Best Remote Help Desk Services Provider in India - Net Access India Limited | Mathewneelan | [Read More](https://medium.com/p/209aab0070bd) |
 | Wed, 01 Apr 2026 10:51:51 GMT | Digital Arrest, Deepfakes, and the Cyber Storm India Isn’t Ready For | Shiv Chopra | [Read More](https://medium.com/p/bbf6b6ba6c81) |
@@ -36,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Apr 2026 09:51:09 GMT | What Do DevOps Service Providers Do? Benefits, Services & How to Choose the Right One | Quadrant IT Services | [Read More](https://medium.com/p/ec5e1dc4e96e) |
 | Wed, 01 Apr 2026 09:51:07 GMT | The 2-Second Hack: How 100 Million Developers Were Just Targeted on npm | Dhanush N | [Read More](https://medium.com/p/48d3359b63b7) |
 | Wed, 01 Apr 2026 09:46:59 GMT | ️‍♂️ The Complete Beginner’s Guide to Bug Bounty Reconnaissance: Live Hunting on PayPal | Krishna Kumar | [Read More](https://medium.com/p/ddb2b0abecd3) |
+| Wed, 01 Apr 2026 09:33:58 GMT | How to earn VDS in Vadeus Network [Rewards Center] | Vadeus Network | [Read More](https://medium.com/p/3f3fb53a124b) |
 | Wed, 01 Apr 2026 09:33:09 GMT | How I Find Open Redirects | Riya Limba | [Read More](https://medium.com/p/3a0195f2064b) |
 | Wed, 01 Apr 2026 09:32:59 GMT | Is WAF Enough for Modern Security? API and AI Agent Risks You Can’t Ignore | John Hawkins | [Read More](https://medium.com/p/5f5f1101b751) |
 | Wed, 01 Apr 2026 09:31:33 GMT | 从51.2万行泄露代码看，ClaudeCode 是如何做到”安全优先”！ | GoPlus中文社区 | [Read More](https://medium.com/p/c2113cdef4cf) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Apr 2026 06:33:15 GMT | My First Bug Bounty Report: | Ayub Ansari | [Read More](https://medium.com/p/526f34c83ea3) |
 | Wed, 01 Apr 2026 06:32:51 GMT | Dark Web Hunting & Monitoring: A Practical Guide for Pentesters & Red Teamers — Part 4 | Siva Sankar | [Read More](https://medium.com/p/cd6bf33118af) |
 | Wed, 01 Apr 2026 06:31:01 GMT | Why AI Agents Are a Security Nightmare (And Why Nobody Is Ready for It) | Maximilian Richter | [Read More](https://medium.com/p/4decfb3c0a24) |
-| Wed, 01 Apr 2026 06:28:18 GMT | How to Secure REST APIs Properly | Mubashir | [Read More](https://medium.com/p/a61859d6da6f) |
-| Wed, 01 Apr 2026 06:27:24 GMT | The Architect’s Blueprint: Building Resilient Infrastructure for Modern Threats | Aditya InfosecTrain | [Read More](https://medium.com/p/9a81afd5669d) |
-| Wed, 01 Apr 2026 06:24:47 GMT | If You Want to Learn Cybersecurity in 2026, Start With These 10 Books | Faraz Weerabangsa - BSc in MIS (Special) | [Read More](https://medium.com/p/e1cab70a58b1) |
-| Wed, 01 Apr 2026 06:13:50 GMT | LIVE SESSION TODAY — Host Header Injection Attack Chaining | Dallen Sadru | [Read More](https://medium.com/p/8483a848630d) |
-| Wed, 01 Apr 2026 06:10:52 GMT | Vishing Attacks in Modern Cybersecurity | Cynox Security LLP. | [Read More](https://medium.com/p/c94bc6ad1d9e) |
-| Wed, 01 Apr 2026 06:10:42 GMT | Authentication Vulnerabilities Lab 02 | Mohammed Fahad | [Read More](https://medium.com/p/98c131237a13) |
-| Wed, 01 Apr 2026 06:03:12 GMT | AI Reconnaissance — Fingerprinting an LLM Before You Attack It | Nisarg Patel | [Read More](https://medium.com/p/7fdaad5e6e1a) |
-| Wed, 01 Apr 2026 05:57:40 GMT | Cyber Security Talent, Skills, and Leadership: Why Building Cyber Security Careers Is Now a… | Gisec | [Read More](https://medium.com/p/b748e8199455) |
-| Wed, 01 Apr 2026 05:48:20 GMT | The Bug That Hid in Plain Sight: Fixing a Timezone Problem in an Analytics Dashboard | Sufian | [Read More](https://medium.com/p/705b5d5b9ce8) |
-| Wed, 01 Apr 2026 05:47:33 GMT | Anthropic Didn’t Get Hacked. They Got Configured — here’s how | Toni Maxx | [Read More](https://medium.com/p/949a330e16d9) |
-| Wed, 01 Apr 2026 05:40:40 GMT | YouTube vs. A Paid Ethical Hacking Course Online: Why 90% of Self-Taught Hackers Fail | Varun Papnai | [Read More](https://medium.com/p/25b3557433b3) |
-| Wed, 01 Apr 2026 05:40:10 GMT | Why Your Current Security Tool is Missing Critical Business Logic Flaws | Kate Bennett | [Read More](https://medium.com/p/6a4a5a9f1e97) |
-| Wed, 01 Apr 2026 05:40:10 GMT | The 2026 Axios npm Supply Chain Attack: A Warning to Developers | Newt3n | [Read More](https://medium.com/p/de8ff220c010) |
-| Wed, 01 Apr 2026 05:37:40 GMT | Axios Was Compromised: How a 3-Hour Attack Put 100M+ Systems at Risk | A K M Fahim Kabir | [Read More](https://medium.com/p/5f890b5af7b0) |
-| Wed, 01 Apr 2026 05:36:00 GMT | Designing Privacy at Scale — WhatsApp’s End-to-End Encryption (Signal Protocol) | Vansh Singhal | [Read More](https://medium.com/p/8b7d50cd9cdb) |
-| Wed, 01 Apr 2026 05:33:50 GMT | How I Achieved a “Critical Hit” on a Bug Bounty Platform: Bypassing OTP via Response Manipulation | Evangeliux | [Read More](https://medium.com/p/c0e6d8416589) |
-| Wed, 01 Apr 2026 05:33:29 GMT | Footprinting & Reconnaissance | Vardhan Reddy Dronadula | [Read More](https://medium.com/p/fe4db8054dbd) |
-| Wed, 01 Apr 2026 05:30:50 GMT | Starting in Pentesting? These Free Tools Are All You Need | Maharshi Patel | [Read More](https://medium.com/p/5a7be042b919) |
