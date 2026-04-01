@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Apr 2026 18:59:21 GMT | What I Wish I Knew Before Bug Bounty | Hania Khan | [Read More](https://medium.com/p/f41a28b70122) |
+| Wed, 01 Apr 2026 18:55:43 GMT | Offsec “OnSystemShellDredd” CTF Writeup | sabR | [Read More](https://medium.com/p/96a4d28d2056) |
+| Wed, 01 Apr 2026 18:50:39 GMT | Introducing StegaShield | Jude Canady | [Read More](https://medium.com/p/8922e67fa324) |
+| Wed, 01 Apr 2026 18:50:08 GMT | The Rise of OSINT | Cyber Canion | [Read More](https://medium.com/p/2e00a7f8f55d) |
+| Wed, 01 Apr 2026 18:48:04 GMT | I Thought I Was Mysterious, But Maybe I Was Just Afraid of Being Seen | Feyi | [Read More](https://medium.com/p/04005e5eb3e2) |
+| Wed, 01 Apr 2026 18:43:56 GMT | Lab: SQL injection attack, listing the database contents on Oracle | Songül Kızılay Özügürler | [Read More](https://medium.com/p/f16cac8cdeef) |
+| Wed, 01 Apr 2026 18:42:35 GMT | AI Red Teaming Part 01 : SQL Injection Was Easy — Try Social Engineering a LLM | HallucinationHunter | [Read More](https://medium.com/p/38ad808f44df) |
+| Wed, 01 Apr 2026 18:32:42 GMT | Every File Claude Code Reads Gets Sent to Anthropic | Abhinav Gupta | [Read More](https://medium.com/p/89ddf1695076) |
+| Wed, 01 Apr 2026 18:31:47 GMT | The Hidden Threat Inside Your AI: Indirect Prompt Injection | Aaseem Mhaskar | [Read More](https://medium.com/p/ba28cfb1d1ce) |
+| Wed, 01 Apr 2026 18:21:10 GMT | Windows Persistence Techniques | wremad | [Read More](https://medium.com/p/0e5735740c9c) |
+| Wed, 01 Apr 2026 18:20:14 GMT | The Meta-Attack: How AI Gateways and Security Scanners Became the Latest Supply Chain Backdoors | SavyAi | [Read More](https://medium.com/p/ba0428a303da) |
+| Wed, 01 Apr 2026 18:16:01 GMT | Have you ever seen the emails and folders that Outlook itself doesn’t really want you to see? | Yasser Hussien | [Read More](https://medium.com/p/79f68463c5e2) |
+| Wed, 01 Apr 2026 18:12:20 GMT | What the 2024 CrowdStrike Outage Taught Us About Building Reliable Systems | Shalinisaloni | [Read More](https://medium.com/p/0fd9649b688a) |
+| Wed, 01 Apr 2026 18:11:32 GMT | Claude Code’un Sızan Kaynak Kodunda Neler Var | Mehmet Aras | [Read More](https://medium.com/p/e9fe90f39a1a) |
+| Wed, 01 Apr 2026 18:07:10 GMT | My Cybersecurity Journey (Day-2) | Priyesh Patware | [Read More](https://medium.com/p/5bcefebde789) |
+| Wed, 01 Apr 2026 18:05:59 GMT | 512,000 lines of secrets: inside the Claude Code leak | Vishwajeet Barve | [Read More](https://medium.com/p/fa5435c9aed2) |
+| Wed, 01 Apr 2026 18:01:27 GMT | Signal Intelligence Emerging from Properly Designed Systems | balik | [Read More](https://medium.com/p/354732d1902a) |
+| Wed, 01 Apr 2026 17:47:50 GMT | Zero-Trust Access to EKS and RDS with Teleport | Justin Gorny | [Read More](https://medium.com/p/e0ea4221bf0e) |
 | Wed, 01 Apr 2026 17:41:51 GMT | Cheating spouse spying | Michael Parks | [Read More](https://medium.com/p/bc9375458547) |
 | Wed, 01 Apr 2026 17:39:50 GMT | Belajar Cybersecurity dari Nol untuk Pemula (2026 Guide Lengkap & Realistis) | Azmy Hanif Abdurrahman | [Read More](https://medium.com/p/98f92710780b) |
 | Wed, 01 Apr 2026 17:38:42 GMT | Web Security Series #14 — Blind Command Injection Exploitation | Laibakashif | [Read More](https://medium.com/p/c307820b6748) |
@@ -95,21 +113,3 @@ The Samsung Breach and What It Means for Every Developer | Swadhasingh | [Read M
 | Wed, 01 Apr 2026 13:07:21 GMT | CafeClub writeup (IDOR) Bugforge | 7s26Simon | [Read More](https://medium.com/p/6d8bb8ac3088) |
 | Wed, 01 Apr 2026 13:05:31 GMT | Every Click, Every Search, Every Secret — Google Is Watching | Viplovethakran | [Read More](https://medium.com/p/4262ce9e275a) |
 | Wed, 01 Apr 2026 13:01:02 GMT | [The Prestige] Survival Manual for the Sovereign Individual | MonoEssay | [Read More](https://medium.com/p/ae36341a8de1) |
-| Wed, 01 Apr 2026 13:00:30 GMT | Claude Code’s 500k+ Lines Source Leaked — And the Community Is Already Rewriting It in Rust | Tohju Domo | [Read More](https://medium.com/p/9f29f88ac097) |
-| Wed, 01 Apr 2026 12:52:56 GMT | CAP — HackTheBox WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/499d8716c78d) |
-| Wed, 01 Apr 2026 12:49:58 GMT | Axios NPM Library Delivering Malware Attack | Manmohan J Mundhra, Bangalore, India | [Read More](https://medium.com/p/f4117ee0d0b0) |
-| Wed, 01 Apr 2026 12:45:32 GMT | Content Security Policy (CSP) in Modern Web Apps: The Practical Guide to Preventing XSS | Gregoris Bachtsevanos | [Read More](https://medium.com/p/5111a963670b) |
-| Wed, 01 Apr 2026 12:43:24 GMT | What the Claude Code Leak Teaches Us About AI Supply-Chain Security | Umang Mishra | [Read More](https://medium.com/p/cd687f2ee5ce) |
-| Wed, 01 Apr 2026 12:36:55 GMT | Corridor IDOR 5 Min Challange (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/2fb3c378e52d) |
-| Wed, 01 Apr 2026 12:35:29 GMT | Portal - CyCTF Luxor Finals 2026 | 0xAmIn | [Read More](https://medium.com/p/be4b6cb8f7ab) |
-| Wed, 01 Apr 2026 12:34:40 GMT | Boost Your Tech Team with IT Staff Augmentation - IFI Techsolutions | IFI Techsolutions | [Read More](https://medium.com/p/80e5b8d1a78a) |
-| Wed, 01 Apr 2026 12:34:28 GMT | NS Indian Cyber Army’s: Building the Future of Cybersecurity in India | Naitiksoni | [Read More](https://medium.com/p/6b8a1bd2edf9) |
-| Wed, 01 Apr 2026 12:33:20 GMT | Scanned a Vulnerable Machine — Found 68 Security Flaws in 14 Minutes (Here’s What Happened) | Pacosmic | [Read More](https://medium.com/p/4a9a0ad8f929) |
-| Wed, 01 Apr 2026 12:32:30 GMT | Best Ethical Hacking Tools Being Used By Professionals And Where to Learn Them (2026) | Varun Papnai | [Read More](https://medium.com/p/26c1a07de065) |
-| Wed, 01 Apr 2026 12:30:16 GMT | Evolving IT Support From Ticket Resolution to Business Outcomes | David | [Read More](https://medium.com/p/a176e36afbce) |
-| Wed, 01 Apr 2026 12:29:34 GMT | Why Your iOS App Goes “Dark” on Public Wi-Fi: A Feature, Not a Bug | Nourgweda | [Read More](https://medium.com/p/37eb7a3a6ae2) |
-| Wed, 01 Apr 2026 12:07:56 GMT | LAST CHANCE — Virtual and In-Person Registration for “CVE/FIRST VulnCon 2026” Closes April 6 | CVE Program Blog | [Read More](https://medium.com/p/cb4c1db5c42e) |
-| Wed, 01 Apr 2026 12:01:03 GMT | What is a Cyber Range? | Hannah Adam | [Read More](https://medium.com/p/a46f88a3c8ee) |
-| Wed, 01 Apr 2026 12:01:02 GMT | Param Miner: The Burp Suite Extension That Finds Parameters Nobody Told You Existed | Ajay Yadav | [Read More](https://medium.com/p/8366e793124c) |
-| Wed, 01 Apr 2026 12:01:02 GMT | The Age of Infinite Tabs | Dr Jill | [Read More](https://medium.com/p/32daf9cbcad7) |
-| Wed, 01 Apr 2026 11:58:57 GMT | Can AI Help Prevent Another Jos? | Jefferson C Daniel | [Read More](https://medium.com/p/a726a6beceab) |
