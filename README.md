@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Apr 2026 09:33:09 GMT | How I Find Open Redirects | Riya Limba | [Read More](https://medium.com/p/3a0195f2064b) |
+| Wed, 01 Apr 2026 09:32:59 GMT | Is WAF Enough for Modern Security? API and AI Agent Risks You Can’t Ignore | John Hawkins | [Read More](https://medium.com/p/5f5f1101b751) |
+| Wed, 01 Apr 2026 09:31:33 GMT | 从51.2万行泄露代码看，ClaudeCode 是如何做到”安全优先”！ | GoPlus中文社区 | [Read More](https://medium.com/p/c2113cdef4cf) |
+| Wed, 01 Apr 2026 09:21:10 GMT | Introduction to Vulnerability Assessment and Security Scanning Tools | Adithya Hettiarachchi | [Read More](https://medium.com/p/c996aa7728ec) |
+| Wed, 01 Apr 2026 09:11:00 GMT | Inside the Claude Code Leak: How a 59.8 MB Source Map Exposed Anthropic’s Agent Architecture | Parminder Kumar Sharma | [Read More](https://medium.com/p/fd270bda75b3) |
+| Wed, 01 Apr 2026 09:10:40 GMT | CCTV System Installation for Strong Security | IT Solution Dubai | [Read More](https://medium.com/p/11feeac31af2) |
+| Wed, 01 Apr 2026 09:06:47 GMT | Do Security Cameras Actually Prevent Crime? The Real Data (2026) | Temma | [Read More](https://medium.com/p/c2c31d155953) |
+| Wed, 01 Apr 2026 09:02:53 GMT | eJPT The Metasploit Framework CTF 1  - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/364cb102abc9) |
+| Wed, 01 Apr 2026 09:01:04 GMT | AI just killed your Cyber Security | Johannes Wenzel | [Read More](https://medium.com/p/781bd891a8bd) |
+| Wed, 01 Apr 2026 08:46:01 GMT | How to Implement Authentication in Node.js Apps | Gulshan Yadav | [Read More](https://medium.com/p/ee0c86f7e728) |
+| Wed, 01 Apr 2026 08:46:01 GMT | UFO-1 - HackTheBox Sherlocks Writeup | Solvenite | [Read More](https://medium.com/p/22862e78ded9) |
+| Wed, 01 Apr 2026 08:46:01 GMT | I Got ̶H̶a̶c̶k̶e̶d̶ Educated — Then I Learned firewall-cmd Properly. | Suyash Adhikari | [Read More](https://medium.com/p/c51fce210671) |
+| Wed, 01 Apr 2026 08:45:48 GMT | Beyond the Chatbot: How NVIDIA NemoClaw is Hardening the Agentic Frontier | Alessandro Pignati | [Read More](https://medium.com/p/7c4e88a7694b) |
+| Wed, 01 Apr 2026 08:45:27 GMT | Axios Got Hacked. 100 Million Downloads. One Malicious Package. | Manubhav Sharma | [Read More](https://medium.com/p/3044dd66d660) |
+| Wed, 01 Apr 2026 08:45:25 GMT | The npm Install That Handed Hackers Your Entire System in 1.1 Seconds | Muhammad Haider Tallal | [Read More](https://medium.com/p/39d6f713196d) |
+| Wed, 01 Apr 2026 08:44:49 GMT | From Exposure to RCE: Inside the Wing FTP Server Attack Chain | Criminal IP | [Read More](https://medium.com/p/b45ed732dbaa) |
+| Wed, 01 Apr 2026 08:42:56 GMT | Cybersecurity & Bug Bounty Cheat Sheet — Active Directory Attacks & Post-Exploitation | Eugene Softley (softsec) | [Read More](https://medium.com/p/92ab81c1947a) |
+| Wed, 01 Apr 2026 08:31:29 GMT | Information security has more to do with management than with technology | Mudiuth | [Read More](https://medium.com/p/229b4b19f5a0) |
+| Wed, 01 Apr 2026 08:27:19 GMT | Shellcoding for aarch64 (MacOS & Linux) | Keiran Smith | [Read More](https://medium.com/p/3b06e7839900) |
+| Wed, 01 Apr 2026 08:20:54 GMT | Platform Security Series [Part 3] | M. Taha Akça | [Read More](https://medium.com/p/4718903db33d) |
+| Wed, 01 Apr 2026 08:20:22 GMT | Why Saudi Enterprises Are Rethinking Identity Security — The Case for MFA and SSO in 2026 | Bluechip-Saudi | [Read More](https://medium.com/p/ad4b61c3a5b7) |
+| Wed, 01 Apr 2026 08:17:49 GMT | Square WooCommerce Integration | SKUPlugs | [Read More](https://medium.com/p/2c50f3cc5a9f) |
 | Wed, 01 Apr 2026 08:17:26 GMT | Set up your first lab using VM or Docker | Cy3erS@up | [Read More](https://medium.com/p/68ba2eaa0640) |
 | Wed, 01 Apr 2026 08:14:08 GMT | Clickjacking Attacks Explained with examples | 0xSmit | [Read More](https://medium.com/p/6d31563ee97f) |
 | Wed, 01 Apr 2026 08:12:59 GMT | Session Hijaking Explained: How Cookies Get Stolen | 0xSmit | [Read More](https://medium.com/p/2070e0ea88ad) |
@@ -91,25 +113,3 @@ Here’s Everything That Was Inside. | Senaaravichandran A | [Read More](https:/
 | Wed, 01 Apr 2026 03:46:02 GMT | What Is ASN and How It Helps Security: A Practical Guide for Engineers | John Hawkins | [Read More](https://medium.com/p/c8fa1afc6687) |
 | Wed, 01 Apr 2026 03:44:07 GMT | ChongmingLab - Weekly Blockchain Security News (March 23-29) | Chongming lab | [Read More](https://medium.com/p/2618300eed0b) |
 | Wed, 01 Apr 2026 03:35:00 GMT | The Trout Moment | Sarah Neylon | [Read More](https://medium.com/p/e6d3daa21f4c) |
-| Wed, 01 Apr 2026 03:32:31 GMT | From Dependency to Domain Compromise: How One Install Can Take Down Everything | Paritosh | [Read More](https://medium.com/p/800365def469) |
-| Wed, 01 Apr 2026 03:15:19 GMT | What I Have To Offer | Kosi Nwosisi | [Read More](https://medium.com/p/b633e2ada171) |
-| Wed, 01 Apr 2026 03:08:36 GMT | Oracle’s Mass Layoff: What Happened, Why It Happened, And What It Means For You | Sorab Ghaswalla | [Read More](https://medium.com/p/5754ad44ca09) |
-| Wed, 01 Apr 2026 03:03:34 GMT | Your AI Got an A+. It Also Just Read the CEO’s Payroll Spreadsheet. | Jeff Flynt | [Read More](https://medium.com/p/b6ecb4909fd5) |
-| Wed, 01 Apr 2026 03:01:09 GMT | Building a Truly Offline Password Manager | Clifford Cheefoon | [Read More](https://medium.com/p/5c8b5c458ad9) |
-| Wed, 01 Apr 2026 02:55:28 GMT | Why the most dangerous thing about AI isn’t that it’s wrong | Jason Romito | [Read More](https://medium.com/p/a8686c706d74) |
-| Wed, 01 Apr 2026 02:52:05 GMT | XSS: How Attackers Steal Sessions Silently | Cybersphere Official | [Read More](https://medium.com/p/617a17849782) |
-| Wed, 01 Apr 2026 02:48:13 GMT | The Performance Cost of WordPress Security: Building a Low-Bloat Architecture | Fachremy Putra | [Read More](https://medium.com/p/6a7484ac2f6d) |
-| Wed, 01 Apr 2026 02:46:54 GMT | How I Found an IDOR That Exposed Cancer Patient Identities on a Government Healthcare Portal | ABO3JRAM | [Read More](https://medium.com/p/d109fc6ffe08) |
-| Wed, 01 Apr 2026 02:45:27 GMT | Your App Is Probably Vulnerable — And It’s Not Where You Think | Dimas Pratama | [Read More](https://medium.com/p/e70ae3637b2a) |
-| Wed, 01 Apr 2026 02:39:07 GMT | Exploiting vulnerabilities in LLM APIs walkthrough | Deleonaguilarjosue | [Read More](https://medium.com/p/92be66624f5f) |
-| Wed, 01 Apr 2026 02:28:45 GMT | The Silent War: How India is Cracking the Code of GPS Jamming and Spoofing | The Tech Navigator | [Read More](https://medium.com/p/7d36cec1da31) |
-| Wed, 01 Apr 2026 02:27:37 GMT | State Without Storage: Systems That Remember Nothing | sengom | [Read More](https://medium.com/p/b50fa313cad8) |
-| Wed, 01 Apr 2026 02:25:08 GMT | Computation Without Exposure: When Execution Reveals Nothing | sengom | [Read More](https://medium.com/p/5bbbc9336f2b) |
-| Wed, 01 Apr 2026 02:23:27 GMT | React Security Alert: How Businesses Can Mitigate Risk | Pamela Salon | [Read More](https://medium.com/p/1d743f3b61dc) |
-| Wed, 01 Apr 2026 02:22:23 GMT | AWS Security Hub CSPM — Building Cloud Security Posture Management That Actually Works | amiyapradhan | [Read More](https://medium.com/p/cc5922877fac) |
-| Wed, 01 Apr 2026 02:20:14 GMT | RedCross — HTB Writeup | William Shively | [Read More](https://medium.com/p/a2a23551fbc4) |
-| Wed, 01 Apr 2026 02:17:13 GMT | To My Younger Self, Cowering Behind Mother | Hyebon | [Read More](https://medium.com/p/1ba2b3047a97) |
-| Wed, 01 Apr 2026 02:14:13 GMT | Hunting APT29 Part 2: I Searched One ProcessID. 1,129 Events Came Back. | Manish Rawat | [Read More](https://medium.com/p/4ceb53d9e3b7) |
-| Wed, 01 Apr 2026 02:06:03 GMT | HTB Antarctica walk-through | Ashton Curtis | [Read More](https://medium.com/p/731666560347) |
-| Wed, 01 Apr 2026 02:04:06 GMT | Zero Trust Security Explained in Simple Terms | Pulasthi Ranabahu | [Read More](https://medium.com/p/53c62032c6cb) |
-| Wed, 01 Apr 2026 01:51:01 GMT | Simple Object Access Protocol (SOAP) — A Hacker’s POV | Indigo Shadow | [Read More](https://medium.com/p/dbceca3312aa) |
