@@ -12,6 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Apr 2026 17:41:51 GMT | Cheating spouse spying | Michael Parks | [Read More](https://medium.com/p/bc9375458547) |
+| Wed, 01 Apr 2026 17:39:50 GMT | Belajar Cybersecurity dari Nol untuk Pemula (2026 Guide Lengkap & Realistis) | Azmy Hanif Abdurrahman | [Read More](https://medium.com/p/98f92710780b) |
+| Wed, 01 Apr 2026 17:38:42 GMT | Web Security Series #14 — Blind Command Injection Exploitation | Laibakashif | [Read More](https://medium.com/p/c307820b6748) |
+| Wed, 01 Apr 2026 17:36:25 GMT | Why SED Cyber Security Matters for Modern Data Protection | Fidelity Height | [Read More](https://medium.com/p/efe772317716) |
+| Wed, 01 Apr 2026 17:35:42 GMT | If My Thoughts Had a Voice, What Would They Say? | Kirushalini | [Read More](https://medium.com/p/6219604ce303) |
+| Wed, 01 Apr 2026 17:34:00 GMT | From Anonymous FTP to Root — Dance-Samba Writeup | D4nYeD | [Read More](https://medium.com/p/456071824a29) |
+| Wed, 01 Apr 2026 17:32:39 GMT | Without An Iranian Spy | O. J. Okpabi | [Read More](https://medium.com/p/b2b37d25998a) |
+| Wed, 01 Apr 2026 17:31:06 GMT | OPHI Unified Cognition Architecture | luis ayala | [Read More](https://medium.com/p/0cf732ab66a1) |
+| Wed, 01 Apr 2026 17:30:55 GMT | Understanding Dark Web Cryptocurrency Payments and Their Risks | Tor BBB | [Read More](https://medium.com/p/33713ed9bdf9) |
+| Wed, 01 Apr 2026 17:30:01 GMT | The “Silicon Shield”: Analyzing India’s Unified Cyber Command (IUCC) | Saranyo Deyasi | [Read More](https://medium.com/p/e686b75c0498) |
+| Wed, 01 Apr 2026 17:29:05 GMT | The Missing ACL in GitHub Actions: Securing pull_request_target with ok-to-test | Mohammad Zaki | [Read More](https://medium.com/p/3298682655dd) |
+| Wed, 01 Apr 2026 17:27:39 GMT | Web3 Exploits in March 2026 | Rangashree Rangaraja | [Read More](https://medium.com/p/7afd73ba37be) |
+| Wed, 01 Apr 2026 17:21:23 GMT | Report: March 25 — April 1, 2026 | CCTT INC. | [Read More](https://medium.com/p/0f08f75fd723) |
+| Wed, 01 Apr 2026 17:21:09 GMT | Introduction of CCTT INC. | CCTT INC. | [Read More](https://medium.com/p/be82e5bb88dd) |
+| Wed, 01 Apr 2026 17:17:27 GMT | My Docker Secret Tool Broke in Production. Here’s What I Fixed in v3. | Md Umair | [Read More](https://medium.com/p/24c6d3f3f17e) |
+| Wed, 01 Apr 2026 17:11:37 GMT | Why I Started Writing About Cybersecurity | __ | [Read More](https://medium.com/p/a32691613aba) |
+| Wed, 01 Apr 2026 17:06:59 GMT | Ha Joker CTF — TryHackme | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/7e63352bbc0d) |
+| Wed, 01 Apr 2026 17:02:49 GMT | Career Paths in Software Engineering | Sithashi Ganege | [Read More](https://medium.com/p/663da95cde69) |
+| Wed, 01 Apr 2026 17:01:03 GMT | Claud: The Ultimate Game Changer for Bug Fixing | Himanshu Singour | [Read More](https://medium.com/p/3023ac60af7c) |
+| Wed, 01 Apr 2026 16:50:32 GMT | When Your AI Goes Rogue:
+The Samsung Breach and What It Means for Every Developer | Swadhasingh | [Read More](https://medium.com/p/9c1af17c16a7) |
+| Wed, 01 Apr 2026 16:49:54 GMT | Why New Bug Bounty Hunters Get Stuck — And How to Fix It | B-Vain | [Read More](https://medium.com/p/0239ad40d6cb) |
+| Wed, 01 Apr 2026 16:45:41 GMT | Trust Isn’t Forever: Why Digital Credentials Need to Fade | Aamir Hameed | [Read More](https://medium.com/p/6b95fa1c168c) |
+| Wed, 01 Apr 2026 16:45:14 GMT | 1Password Sızıntısı: Şifreleriniz Gerçekten Güvende mi ? | Ömer Faruk Kurt | [Read More](https://medium.com/p/bac03bc2a5c9) |
+| Wed, 01 Apr 2026 16:42:44 GMT | Help Desk in Corporate America IT | Brian Fischer | [Read More](https://medium.com/p/a50c95e12a1e) |
+| Wed, 01 Apr 2026 16:41:22 GMT | Day 3: Defending the Perimeter — The Architecture of Network Security Devices | Ndu | [Read More](https://medium.com/p/c89583004d89) |
+| Wed, 01 Apr 2026 16:40:56 GMT | The 3 Biggest Travel “Hacks” That Are Actually Scamming You | BharatFare | [Read More](https://medium.com/p/6ba98adebee6) |
+| Wed, 01 Apr 2026 16:40:54 GMT | Understanding Customer Due Diligence Principles: The Backbone of Modern Financial Security | Lenna Mustik | [Read More](https://medium.com/p/0716200b0a0b) |
+| Wed, 01 Apr 2026 16:38:11 GMT | Best KYC Verification Platforms: Comprehensive Comparison and Guide | Lenna Mustik | [Read More](https://medium.com/p/c129192d8d96) |
+| Wed, 01 Apr 2026 16:36:57 GMT | Why Data-Driven Security Is Finally Making Sense | Teona | [Read More](https://medium.com/p/8ba12c09aa45) |
 | Wed, 01 Apr 2026 16:22:45 GMT | How Attackers Actually Break Identity Systems (Step by Step) | Dr. Shashi Karhail | [Read More](https://medium.com/p/0377fb6f6c0c) |
 | Wed, 01 Apr 2026 16:20:31 GMT | TRYHACKME - WATER BOTTLE | ANWAR1 | [Read More](https://medium.com/p/13bc2ee69b42) |
 | Wed, 01 Apr 2026 16:17:34 GMT | Using Hydra to Identify Weak Passwords | Binyaminszahid | [Read More](https://medium.com/p/8effec48c24b) |
@@ -83,32 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Apr 2026 12:01:02 GMT | Param Miner: The Burp Suite Extension That Finds Parameters Nobody Told You Existed | Ajay Yadav | [Read More](https://medium.com/p/8366e793124c) |
 | Wed, 01 Apr 2026 12:01:02 GMT | The Age of Infinite Tabs | Dr Jill | [Read More](https://medium.com/p/32daf9cbcad7) |
 | Wed, 01 Apr 2026 11:58:57 GMT | Can AI Help Prevent Another Jos? | Jefferson C Daniel | [Read More](https://medium.com/p/a726a6beceab) |
-| Wed, 01 Apr 2026 11:54:05 GMT | SOC Investigation Report: Endpoint Compromise (Boogeyman) | chicorax | [Read More](https://medium.com/p/52c37a7ac580) |
-| Wed, 01 Apr 2026 11:49:32 GMT | 7deadbone labs #001 — The lab wakes up | 7deadbone | [Read More](https://medium.com/p/2daddf501b7e) |
-| Wed, 01 Apr 2026 11:47:57 GMT | The Day Anthropic Accidentally Open-Sourced Their Crown Jewel | Sachin Sharma - Cloud & Business Transformation | [Read More](https://medium.com/p/01a50f03a390) |
-| Wed, 01 Apr 2026 11:47:47 GMT | Most companies in India collect personal data every single day. | Vinod Senthil | [Read More](https://medium.com/p/3a9ac9a6374c) |
-| Wed, 01 Apr 2026 11:41:01 GMT | Your AI Secrets Aren’t Safe — The Axios npm Hack Proved It in 3 Hours | Abhinav | [Read More](https://medium.com/p/da19a804b48d) |
-| Wed, 01 Apr 2026 11:40:40 GMT | Cómo usar una VPN solo en el navegador con Docker (WireGuard + Proxy) | Manuel Alejandro Bouza Lavoy | [Read More](https://medium.com/p/3a0642b7bdc5) |
-| Wed, 01 Apr 2026 11:38:52 GMT | Three Words That Run the Entire Internet (And Most People Have Never Heard of Them) | Nehaal | [Read More](https://medium.com/p/7de170ab388a) |
-| Wed, 01 Apr 2026 11:38:32 GMT | Booking Systems Under Attack: How Hackers Are Exploiting Hotel Workflows to Scam Guests | Jas | [Read More](https://medium.com/p/88b01db27002) |
-| Wed, 01 Apr 2026 11:35:14 GMT | AI Is Reshaping the Workforce And Driving Quiet Layoffs | Preplink.ai | [Read More](https://medium.com/p/5bc7f585a9c9) |
-| Wed, 01 Apr 2026 11:33:35 GMT | Axios got hacked through another supply chain attack on npm. | zack | [Read More](https://medium.com/p/44b8f2e19546) |
-| Wed, 01 Apr 2026 11:31:01 GMT | The Subtle Sign #1 That Made Me Recheck My Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/57576f9a1f25) |
-| Wed, 01 Apr 2026 11:31:00 GMT | How I Mapped an Entire Website’s Infrastructure Without Touching a Single Server | Pacosmic | [Read More](https://medium.com/p/7ae7f48ae6b7) |
-| Wed, 01 Apr 2026 11:29:31 GMT | The Axios Supply Chain Attack: How One npm Install Compromised Thousands of Systems | Rizwanhoda | [Read More](https://medium.com/p/6d1ef38af158) |
-| Wed, 01 Apr 2026 11:25:21 GMT | Find the Masked Man — 3: How I Tracked a Hooded Figure Across Paris Using Only a Blurry Storefront… | mayhack | [Read More](https://medium.com/p/d563f76e861b) |
-| Wed, 01 Apr 2026 11:20:14 GMT | Ethical Hacking and Penetration Testing Trends | Vishal Uttam Mane | [Read More](https://medium.com/p/dbb7eb68cc11) |
-| Wed, 01 Apr 2026 11:11:15 GMT | What a Data Scientist Sees When You Post a Photo | Dominion | [Read More](https://medium.com/p/c7312f0cbc2e) |
-| Wed, 01 Apr 2026 11:06:25 GMT | AWS— Security Groups vs Network Access Control List (NACL) | Richa Shukla | [Read More](https://medium.com/p/a8a4d8d13a33) |
-| Wed, 01 Apr 2026 11:01:42 GMT | Choose the Best Program For Cybersecurity Certified course in Nepal | Techno Infosys | [Read More](https://medium.com/p/756b623c1ce0) |
-| Wed, 01 Apr 2026 10:56:18 GMT | ادراج حديد للملفات: الحل المثالي لتنظيم المستندات وحمايتها في بيئة العمل | Gulf Safes | [Read More](https://medium.com/p/cee84b7a2cb9) |
-| Wed, 01 Apr 2026 10:53:20 GMT | Best Remote Help Desk Services Provider in India - Net Access India Limited | Mathewneelan | [Read More](https://medium.com/p/209aab0070bd) |
-| Wed, 01 Apr 2026 10:51:51 GMT | Digital Arrest, Deepfakes, and the Cyber Storm India Isn’t Ready For | Shiv Chopra | [Read More](https://medium.com/p/bbf6b6ba6c81) |
-| Wed, 01 Apr 2026 10:51:01 GMT | ‘EU-hosted’ doesn’t mean what you think it means | Digital Samba | [Read More](https://medium.com/p/2dd5af2e20c3) |
-| Wed, 01 Apr 2026 10:50:02 GMT | Volume 3, Post 10: Demystifying Cross-Site Scripting (XSS) | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/f585228b55b9) |
-| Wed, 01 Apr 2026 10:49:15 GMT | I Scanned a Machine… and It Said Nothing Back: The Story Behind “Filtered Ports” | pavani | [Read More](https://medium.com/p/46b84e835717) |
-| Wed, 01 Apr 2026 10:49:04 GMT | The axios npm Supply Chain Compromise | Solvenite | [Read More](https://medium.com/p/6e221ad97a96) |
-| Wed, 01 Apr 2026 10:44:57 GMT | A Practical Guide to Threat Modelling: From Fundamentals to Real-World Application | Adetutu Deborah | [Read More](https://medium.com/p/42a08deed652) |
-| Wed, 01 Apr 2026 10:42:01 GMT | Der Butler, der die Tür öffnet | Manuela Frenzel,  unabhängige Publizistin. | [Read More](https://medium.com/p/45a936628b5a) |
-| Wed, 01 Apr 2026 10:41:35 GMT | Cap — HackTheBox Writeup | Abhishek sibi | [Read More](https://medium.com/p/df8aa0e17867) |
-| Wed, 01 Apr 2026 10:39:55 GMT | Anthroic’s Claude Code leaked: the accidental source-code exposure that revealed how fragile AI… | TONI RAMCHANDANI | [Read More](https://medium.com/p/55dc38a059e2) |
