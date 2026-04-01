@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Apr 2026 22:58:26 GMT | Claude Code’s Source Didn’t Leak. It Was Already Public for Years. | Nikita Savchenko | [Read More](https://medium.com/p/5b6276c44d75) |
+| Wed, 01 Apr 2026 22:42:29 GMT | Containerized Pipeline Security Assessment Framework: A Strategic Hardening Guide | Chungwon So | [Read More](https://medium.com/p/6431734d31a1) |
+| Wed, 01 Apr 2026 22:40:15 GMT | How can you stop someone from blackmailing you? | ZeroTracee | [Read More](https://medium.com/p/7159274d257b) |
+| Wed, 01 Apr 2026 22:36:57 GMT | Stop Flexing Domain Admin — It’s Not Impressive Anymore | Yua Mikanana | [Read More](https://medium.com/p/715e39667b8f) |
+| Wed, 01 Apr 2026 22:36:48 GMT | I almost lost my Bitcoin to scammers | ZeroTracee | [Read More](https://medium.com/p/6b51ab8271da) |
+| Wed, 01 Apr 2026 22:34:14 GMT | SQL Injection Attack | Arunoday Tiwari | [Read More](https://medium.com/p/b8d62197119f) |
+| Wed, 01 Apr 2026 22:27:02 GMT | Axios: The Package You Trusted Was Already Compromised | Travis Ray Caverhill | [Read More](https://medium.com/p/4f0ff5ee44d5) |
+| Wed, 01 Apr 2026 22:07:11 GMT | How to Detect Brute Force Attacks from Logs (Step-by-Step Guide) | Nauman Aslam | [Read More](https://medium.com/p/0898b24c9d39) |
 | Wed, 01 Apr 2026 22:01:01 GMT | Practicing speech with kindness: building a human-centred AI companion | DiUS | [Read More](https://medium.com/p/cde491e502a9) |
+| Wed, 01 Apr 2026 21:59:04 GMT | The Half-Million Line Mistake: What the Anthropic Leak Teaches Us About AI Data Security | Mammoth Cyber | [Read More](https://medium.com/p/9d874be95b8e) |
 | Wed, 01 Apr 2026 21:48:23 GMT | Why AI Agents Shouldn’t Hold Credentials | Jayapragash | [Read More](https://medium.com/p/5ccdcf744c68) |
 | Wed, 01 Apr 2026 21:46:30 GMT | Bir Word Dosyasına Gizli Talimat Gömdüm, 3 LLM’den Kaçı Fark Etti? | Emre Koca | [Read More](https://medium.com/p/0367de609e3b) |
 | Wed, 01 Apr 2026 21:44:20 GMT | The Governance Gap: Why AI Outpaces Your Infrastructure | James Word | [Read More](https://medium.com/p/cefffb195176) |
@@ -105,12 +114,3 @@ The Samsung Breach and What It Means for Every Developer | Swadhasingh | [Read M
 | Wed, 01 Apr 2026 16:22:45 GMT | How Attackers Actually Break Identity Systems (Step by Step) | Dr. Shashi Karhail | [Read More](https://medium.com/p/0377fb6f6c0c) |
 | Wed, 01 Apr 2026 16:20:31 GMT | TRYHACKME - WATER BOTTLE | ANWAR1 | [Read More](https://medium.com/p/13bc2ee69b42) |
 | Wed, 01 Apr 2026 16:17:34 GMT | Using Hydra to Identify Weak Passwords | Binyaminszahid | [Read More](https://medium.com/p/8effec48c24b) |
-| Wed, 01 Apr 2026 16:11:35 GMT | I Was Good at Everything, Except One Thing | Zeynep Sude Imamoglu | [Read More](https://medium.com/p/c281dff9acfe) |
-| Wed, 01 Apr 2026 16:06:00 GMT | ChatGPT Vulnerability: The Silent Leakage of Prompts and Sensitive Data | Xaltius | [Read More](https://medium.com/p/24a4ae24a6df) |
-| Wed, 01 Apr 2026 16:02:51 GMT | Cybersecurity Consulting Services for Modern Business Protection | Nihar | [Read More](https://medium.com/p/88136f058906) |
-| Wed, 01 Apr 2026 16:01:41 GMT | Why Custom Software Development Is the Future of Digital Transformation | Violette Labs | [Read More](https://medium.com/p/3efdb354bd18) |
-| Wed, 01 Apr 2026 16:01:22 GMT | Pre-Account Takeover + Account Lockout | Mohamed_Farghly | [Read More](https://medium.com/p/6f917b6c4ad0) |
-| Wed, 01 Apr 2026 15:54:25 GMT | Your npm Install Last Night May Have Run Malware — The axios Attack Explained | MayhemCode | [Read More](https://medium.com/p/344ede2ab6f5) |
-| Wed, 01 Apr 2026 15:52:02 GMT | The ANY.RUN Public Submission Problem | James Bishop | [Read More](https://medium.com/p/5d3f69db78e7) |
-| Wed, 01 Apr 2026 15:43:40 GMT | Progress Report on Fixing our 1.2 | Haley Mancini | [Read More](https://medium.com/p/d82f1698cc19) |
-| Wed, 01 Apr 2026 15:41:58 GMT | Strategic Analysis: The 2026 Initial Access Broker (IAB) Ecosystem | Aether-Intel | [Read More](https://medium.com/p/746692dad9c6) |
