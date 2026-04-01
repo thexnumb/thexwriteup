@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Apr 2026 21:06:53 GMT | Axios Supply Chain Attack: The Day JavaScript Developers Got Owned | Navod Dilshan | [Read More](https://medium.com/p/3ebef3ca7ef4) |
+| Wed, 01 Apr 2026 20:43:25 GMT | CPL Writeups | BL4CKD3V0P5 | [Read More](https://medium.com/p/3bb6984c53ed) |
+| Wed, 01 Apr 2026 20:36:02 GMT | What No One Tells You About AI Risk in the Enterprise | Mark Lynd | [Read More](https://medium.com/p/6c72d38d9031) |
+| Wed, 01 Apr 2026 20:35:31 GMT | Siber Güvenlik: Sadece Büyük Şirketlerin Değil, Herkesin Meselesi | HSD Topkapı | [Read More](https://medium.com/p/53fa48c29f7f) |
+| Wed, 01 Apr 2026 20:31:02 GMT | Common Mistakes Made by Cybersecurity Beginners | PriOFF | [Read More](https://medium.com/p/f55264e88c9f) |
+| Wed, 01 Apr 2026 20:29:00 GMT | Host & Network Penetration Testing: Exploitation CTF 3 | Vanshaj Kumar | [Read More](https://medium.com/p/92f5bab98a05) |
+| Wed, 01 Apr 2026 20:26:32 GMT | Why Ransomware Recovery Often Matters More Than Prevention | Mark Lynd | [Read More](https://medium.com/p/0e8d9e53a776) |
+| Wed, 01 Apr 2026 20:25:28 GMT | Claude Found a Kernel Zero-Day. Nobody Expected That Was Possible Yet. | Ryann - Digital Systems Architect | [Read More](https://medium.com/p/2407e703a0f7) |
+| Wed, 01 Apr 2026 20:16:17 GMT | From AiTM to Endpoint: Dissecting a Multi-Stage Microsoft 365 Credential Harvesting and… | Rhishav Kanjilal | [Read More](https://medium.com/p/c0a2c1409e37) |
+| Wed, 01 Apr 2026 20:13:27 GMT | The “Peon-er Chithi” from Hell: How a 50KB JSON Payload Nearly Toppled a Visa Booking System | Mohammad Abir Abbas | [Read More](https://medium.com/p/3efc3ca64315) |
+| Wed, 01 Apr 2026 20:11:51 GMT | Where the Wild Things Are: How to Become the King of AI Agents by Embracing the Chaos | MITRE Engage | [Read More](https://medium.com/p/6674ad3ce3b8) |
+| Wed, 01 Apr 2026 20:08:39 GMT | Breaking It During a Hackathon | debang5hu | [Read More](https://medium.com/p/bb2f56da2ab7) |
 | Wed, 01 Apr 2026 19:51:12 GMT | Security Is Not a Feature You Add at the End. | Rituraj | [Read More](https://medium.com/p/b1dc46f54749) |
 | Wed, 01 Apr 2026 19:51:01 GMT | 512,000 Lines of Secret AI Code Were Public on npm — No Hacking Required | Abhinav | [Read More](https://medium.com/p/16291cfd70bf) |
 | Wed, 01 Apr 2026 19:51:01 GMT | Wazuh: CVE-2026–25769 - TryHackMe | Jose Praveen | [Read More](https://medium.com/p/25caf857338b) |
@@ -101,15 +113,3 @@ The Samsung Breach and What It Means for Every Developer | Swadhasingh | [Read M
 | Wed, 01 Apr 2026 14:55:33 GMT | NymVPN-এ Taler-এর সংযোজন: নজরদারিমুক্ত ডিজিটাল পেমেন্টের নতুন যুগ | Rabib Bin Nur | [Read More](https://medium.com/p/a5df618aaca8) |
 | Wed, 01 Apr 2026 14:52:22 GMT | The Silent Countdown: Is Your Codebase Prepared for Q-Day? | George Witt | [Read More](https://medium.com/p/1da22781db0e) |
 | Wed, 01 Apr 2026 14:50:33 GMT | Architecting an Ultra-Minimal Linux VM with Buildroot - Part 1: Build, Break, Fix | Niklas Heringer | [Read More](https://medium.com/p/3fe94faea325) |
-| Wed, 01 Apr 2026 14:48:29 GMT | Stored XSS into HTML Context with Nothing Encoded Writeup— PortSwigger | Electroprotector | [Read More](https://medium.com/p/29ce8fc6b072) |
-| Wed, 01 Apr 2026 14:47:57 GMT | What Really Happens When You Run npm install? — JavaScript Under The Hood | Muhammad Zubair Asim | [Read More](https://medium.com/p/bde061ce047c) |
-| Wed, 01 Apr 2026 14:47:47 GMT | Your Frends Access Control Isn’t Broken. It’s Hiding Things on Purpose. | Ossi Galkin | [Read More](https://medium.com/p/72a61314f41d) |
-| Wed, 01 Apr 2026 14:47:16 GMT | Two Leaks in Five Days: Anthropic’s Claude Code Source Exposed via npm — 512,000 Lines, Hidden… | Krishna | [Read More](https://medium.com/p/b67abf3a22ef) |
-| Wed, 01 Apr 2026 14:44:39 GMT | Part 1: How Axios, a Package With 100 Million Downloads, Was Turned Into a Weapon | Muhammed Faris | [Read More](https://medium.com/p/553a4b0cf024) |
-| Wed, 01 Apr 2026 14:42:47 GMT | Ruby Hash Inconsistency Bug Story | Mohamad Ahmadi | [Read More](https://medium.com/p/69d26dfaed10) |
-| Wed, 01 Apr 2026 14:40:33 GMT | From Bundles to Breaches: The Hidden Risks in Modern Frontend frameworks/libraries | Mr. Robot.txt | [Read More](https://medium.com/p/75c08e06c279) |
-| Wed, 01 Apr 2026 14:38:55 GMT | “Bug Bounty Bootcamp #29: Boolean Blind SQL Injection Part 2 — Extracting Usernames and Passwords… | Aman Sharma | [Read More](https://medium.com/p/13447abeb6d6) |
-| Wed, 01 Apr 2026 14:38:44 GMT | Stop Reacting to Security Incidents — I Built Decisive to Prevent Them Before Execution | Paramittaniputu | [Read More](https://medium.com/p/bc7212033df2) |
-| Wed, 01 Apr 2026 14:27:23 GMT | The Quiet Exit: How a Private Lab May Have Already Broken Blockchain Cryptography — and Why You… | Berend Watchus | [Read More](https://medium.com/p/e7de1f9ebcfd) |
-| Wed, 01 Apr 2026 14:10:31 GMT | How to Find a CTF Team (and the Platform I Built to Solve It) | WhiteSombrero | [Read More](https://medium.com/p/d0a982f1f388) |
-| Wed, 01 Apr 2026 13:55:37 GMT | Your Software Remembers When You Cursed at It | Jana Diamond | [Read More](https://medium.com/p/3e582318d005) |
