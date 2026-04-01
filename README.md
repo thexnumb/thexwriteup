@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Apr 2026 22:01:01 GMT | Practicing speech with kindness: building a human-centred AI companion | DiUS | [Read More](https://medium.com/p/cde491e502a9) |
+| Wed, 01 Apr 2026 21:48:23 GMT | Why AI Agents Shouldn’t Hold Credentials | Jayapragash | [Read More](https://medium.com/p/5ccdcf744c68) |
+| Wed, 01 Apr 2026 21:46:30 GMT | Bir Word Dosyasına Gizli Talimat Gömdüm, 3 LLM’den Kaçı Fark Etti? | Emre Koca | [Read More](https://medium.com/p/0367de609e3b) |
+| Wed, 01 Apr 2026 21:44:20 GMT | The Governance Gap: Why AI Outpaces Your Infrastructure | James Word | [Read More](https://medium.com/p/cefffb195176) |
+| Wed, 01 Apr 2026 21:35:38 GMT | I Reverse-Engineered My Xiaomi Band 7 Pro Using Only a Browser | Wael Hasnaoui | [Read More](https://medium.com/p/966f88c32f4e) |
+| Wed, 01 Apr 2026 21:29:03 GMT | Dynamic Analysis — Behavioral Dissection | Huzaifah Tahir | [Read More](https://medium.com/p/d5f0173d4bc4) |
+| Wed, 01 Apr 2026 21:27:22 GMT | Demystifying Zero Trust | Jake | [Read More](https://medium.com/p/1829409aeec7) |
+| Wed, 01 Apr 2026 21:22:11 GMT | Silent Privacy Leak: How Chrome Metadata Discloses Your Location via CCM
+Dynamic Location Metadata… | Yahya Ahmed | [Read More](https://medium.com/p/f76ad37ad268) |
 | Wed, 01 Apr 2026 21:06:53 GMT | Axios Supply Chain Attack: The Day JavaScript Developers Got Owned | Navod Dilshan | [Read More](https://medium.com/p/3ebef3ca7ef4) |
+| Wed, 01 Apr 2026 21:05:12 GMT | Scaling Identity: How I Built a Multi-Tenant MFA Service for 60+ Enterprise Tenants for <$200/Month | Kalidas Palanisamy | [Read More](https://medium.com/p/672e7643f3f1) |
+| Wed, 01 Apr 2026 21:03:37 GMT | How I Got My First Bounty $$$ | Emad Saad | [Read More](https://medium.com/p/e79e0e0887bf) |
+| Wed, 01 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 39: Miscellaneous IT | Maximillian Rueda | [Read More](https://medium.com/p/e127b68e9ed7) |
+| Wed, 01 Apr 2026 20:57:59 GMT | Understanding ISO 27001: Clause 4 | Roland R. Puiestik | [Read More](https://medium.com/p/807a1b5abf9f) |
 | Wed, 01 Apr 2026 20:43:25 GMT | CPL Writeups | BL4CKD3V0P5 | [Read More](https://medium.com/p/3bb6984c53ed) |
 | Wed, 01 Apr 2026 20:36:02 GMT | What No One Tells You About AI Risk in the Enterprise | Mark Lynd | [Read More](https://medium.com/p/6c72d38d9031) |
 | Wed, 01 Apr 2026 20:35:31 GMT | Siber Güvenlik: Sadece Büyük Şirketlerin Değil, Herkesin Meselesi | HSD Topkapı | [Read More](https://medium.com/p/53fa48c29f7f) |
@@ -23,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Apr 2026 20:16:17 GMT | From AiTM to Endpoint: Dissecting a Multi-Stage Microsoft 365 Credential Harvesting and… | Rhishav Kanjilal | [Read More](https://medium.com/p/c0a2c1409e37) |
 | Wed, 01 Apr 2026 20:13:27 GMT | The “Peon-er Chithi” from Hell: How a 50KB JSON Payload Nearly Toppled a Visa Booking System | Mohammad Abir Abbas | [Read More](https://medium.com/p/3efc3ca64315) |
 | Wed, 01 Apr 2026 20:11:51 GMT | Where the Wild Things Are: How to Become the King of AI Agents by Embracing the Chaos | MITRE Engage | [Read More](https://medium.com/p/6674ad3ce3b8) |
+| Wed, 01 Apr 2026 20:11:46 GMT | One Mobile Number = Full Wishlist Takeover (No Authentication Required) | Aya Ayman(GERR4Y) | [Read More](https://medium.com/p/16f92ac74e2d) |
 | Wed, 01 Apr 2026 20:08:39 GMT | Breaking It During a Hackathon | debang5hu | [Read More](https://medium.com/p/bb2f56da2ab7) |
 | Wed, 01 Apr 2026 19:51:12 GMT | Security Is Not a Feature You Add at the End. | Rituraj | [Read More](https://medium.com/p/b1dc46f54749) |
 | Wed, 01 Apr 2026 19:51:01 GMT | 512,000 Lines of Secret AI Code Were Public on npm — No Hacking Required | Abhinav | [Read More](https://medium.com/p/16291cfd70bf) |
@@ -100,16 +114,3 @@ The Samsung Breach and What It Means for Every Developer | Swadhasingh | [Read M
 | Wed, 01 Apr 2026 15:52:02 GMT | The ANY.RUN Public Submission Problem | James Bishop | [Read More](https://medium.com/p/5d3f69db78e7) |
 | Wed, 01 Apr 2026 15:43:40 GMT | Progress Report on Fixing our 1.2 | Haley Mancini | [Read More](https://medium.com/p/d82f1698cc19) |
 | Wed, 01 Apr 2026 15:41:58 GMT | Strategic Analysis: The 2026 Initial Access Broker (IAB) Ecosystem | Aether-Intel | [Read More](https://medium.com/p/746692dad9c6) |
-| Wed, 01 Apr 2026 15:40:12 GMT | Data Encryption and Key Exchange | Mahdi | [Read More](https://medium.com/p/87185c47f693) |
-| Wed, 01 Apr 2026 15:28:29 GMT | How Fintech Data Leaks Actually Happen | Roman Fedytskyi | [Read More](https://medium.com/p/bde34325adbe) |
-| Wed, 01 Apr 2026 15:27:42 GMT | Data Exfiltration | Omarani | [Read More](https://medium.com/p/ddd8ea2c3bfd) |
-| Wed, 01 Apr 2026 15:18:54 GMT | Cryptography Failures - When the Encryption Protecting Financial Data Is Weaker Than Everyone… | Rufus Kehinde | [Read More](https://medium.com/p/355089bf765e) |
-| Wed, 01 Apr 2026 15:17:11 GMT | One Helm chart for every microservice | Talgotrajatin | [Read More](https://medium.com/p/64ed36019a1f) |
-| Wed, 01 Apr 2026 15:14:53 GMT | Mighty Hacker Recovery: Advanced Solutions for Cryptocurrency Asset Retrieval +13439473496 Canada… | Phrasekeyrecovery | [Read More](https://medium.com/p/7e9a97c30e4b) |
-| Wed, 01 Apr 2026 15:11:43 GMT | The Linux Security Journey — SSH Certificates | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/055acbf8a7b2) |
-| Wed, 01 Apr 2026 15:06:24 GMT | Real Stories: How Users Avoided Losing Money Using ScamAlerts.com | James Smith | [Read More](https://medium.com/p/ed95c574b111) |
-| Wed, 01 Apr 2026 15:01:02 GMT | Threat Modelling & AI: Are We Still Part of the Conversation? | Danielle | [Read More](https://medium.com/p/c6d4b9d55ac5) |
-| Wed, 01 Apr 2026 15:01:02 GMT | The Hollow Middle: How We Started to Gutted the SOC Analyst Pipeline Before AI Ever Showed Up | Ehulse | [Read More](https://medium.com/p/6c0aab958649) |
-| Wed, 01 Apr 2026 14:55:33 GMT | NymVPN-এ Taler-এর সংযোজন: নজরদারিমুক্ত ডিজিটাল পেমেন্টের নতুন যুগ | Rabib Bin Nur | [Read More](https://medium.com/p/a5df618aaca8) |
-| Wed, 01 Apr 2026 14:52:22 GMT | The Silent Countdown: Is Your Codebase Prepared for Q-Day? | George Witt | [Read More](https://medium.com/p/1da22781db0e) |
-| Wed, 01 Apr 2026 14:50:33 GMT | Architecting an Ultra-Minimal Linux VM with Buildroot - Part 1: Build, Break, Fix | Niklas Heringer | [Read More](https://medium.com/p/3fe94faea325) |
