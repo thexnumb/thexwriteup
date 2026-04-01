@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Apr 2026 19:51:12 GMT | Security Is Not a Feature You Add at the End. | Rituraj | [Read More](https://medium.com/p/b1dc46f54749) |
+| Wed, 01 Apr 2026 19:51:01 GMT | 512,000 Lines of Secret AI Code Were Public on npm — No Hacking Required | Abhinav | [Read More](https://medium.com/p/16291cfd70bf) |
+| Wed, 01 Apr 2026 19:51:01 GMT | Wazuh: CVE-2026–25769 - TryHackMe | Jose Praveen | [Read More](https://medium.com/p/25caf857338b) |
+| Wed, 01 Apr 2026 19:46:01 GMT | AI Didn’t Fail. The Release Process Did: Lessons from the Anthropic Claude Code Exposure | Anshita Bhasin | [Read More](https://medium.com/p/053f03f77ca5) |
+| Wed, 01 Apr 2026 19:41:12 GMT | The Axios Compromise: Anatomy of a Massive Supply Chain Attack | Iam Tariq Bashir | [Read More](https://medium.com/p/ded23bf352c4) |
+| Wed, 01 Apr 2026 19:35:43 GMT | Host & Network Penetration Testing: Exploitation CTF 2 | Vanshaj Kumar | [Read More](https://medium.com/p/97d5f0a902e5) |
+| Wed, 01 Apr 2026 19:20:15 GMT | Remote Work Didn’t Break Security — Bad Architecture Did | JSOC IT BLOG | [Read More](https://medium.com/p/1b04646a75c2) |
+| Wed, 01 Apr 2026 19:18:26 GMT | Claude Code Just Got Leaked. Here’s Why It Might Be the Smartest “Accident” in AI History. | Pauleta | [Read More](https://medium.com/p/1491bc7498cd) |
+| Wed, 01 Apr 2026 19:10:38 GMT | Best VPN in 2026? Test This First Before You Buy | Theodore Uzun | [Read More](https://medium.com/p/58986a3589cf) |
+| Wed, 01 Apr 2026 19:10:34 GMT | Signal Dilution Breaks Prompt Injection Classifiers. We Tested 9 Models to Prove It. | IB Security | [Read More](https://medium.com/p/b1d3c71836a5) |
+| Wed, 01 Apr 2026 19:08:44 GMT | Your AI Coding Stack is Already Compromised — You Just Don’t Know It Yet | Sandeep Kumar | [Read More](https://medium.com/p/5a160cb689d0) |
+| Wed, 01 Apr 2026 19:04:04 GMT | ️ Designing a Resilient Multi-Site SIEM Architecture | Y_NeXRo | [Read More](https://medium.com/p/51619acbf61d) |
+| Wed, 01 Apr 2026 19:03:47 GMT | SentriAI — Agentic AI That Fixes the Code You Ship | Pavithrankb | [Read More](https://medium.com/p/1e7b507caffd) |
+| Wed, 01 Apr 2026 19:03:24 GMT | Why a First Class Philosophy Graduate is Learning to Hunt Threats | Fagbemi Elisha Kehinde | [Read More](https://medium.com/p/386a13e00acb) |
+| Wed, 01 Apr 2026 19:01:09 GMT | The Ultimate Guide to Exploring the Internet Safely in 2026 | Journeyquestm | [Read More](https://medium.com/p/9f01ac387fb1) |
+| Wed, 01 Apr 2026 19:01:01 GMT | The Silicon Protocol: The Identity Crisis — When Machine Accounts Become Your Real Super-Users | Piyoosh Rai | [Read More](https://medium.com/p/5a0a695e3f6c) |
 | Wed, 01 Apr 2026 18:59:21 GMT | What I Wish I Knew Before Bug Bounty | Hania Khan | [Read More](https://medium.com/p/f41a28b70122) |
 | Wed, 01 Apr 2026 18:55:43 GMT | Offsec “OnSystemShellDredd” CTF Writeup | sabR | [Read More](https://medium.com/p/96a4d28d2056) |
 | Wed, 01 Apr 2026 18:50:39 GMT | Introducing StegaShield | Jude Canady | [Read More](https://medium.com/p/8922e67fa324) |
@@ -97,19 +113,3 @@ The Samsung Breach and What It Means for Every Developer | Swadhasingh | [Read M
 | Wed, 01 Apr 2026 14:27:23 GMT | The Quiet Exit: How a Private Lab May Have Already Broken Blockchain Cryptography — and Why You… | Berend Watchus | [Read More](https://medium.com/p/e7de1f9ebcfd) |
 | Wed, 01 Apr 2026 14:10:31 GMT | How to Find a CTF Team (and the Platform I Built to Solve It) | WhiteSombrero | [Read More](https://medium.com/p/d0a982f1f388) |
 | Wed, 01 Apr 2026 13:55:37 GMT | Your Software Remembers When You Cursed at It | Jana Diamond | [Read More](https://medium.com/p/3e582318d005) |
-| Wed, 01 Apr 2026 13:55:29 GMT | How Do Smart Locks Improve Home Safety? | Leadautomationtechnology | [Read More](https://medium.com/p/265454f4a977) |
-| Wed, 01 Apr 2026 13:54:29 GMT | AI-powered ransomware attack vs AI-driven cybersecurity defense showing automated threat detection… | Sandra Blake, Consumer Finance Writer | [Read More](https://medium.com/p/fd59b376d090) |
-| Wed, 01 Apr 2026 13:47:33 GMT | Basic Pentesting | Yash | [Read More](https://medium.com/p/d252b86f4769) |
-| Wed, 01 Apr 2026 13:44:34 GMT | A 3-Hour npm Breach Put Millions of JavaScript Projects at Risk: Inside the Axios RAT Attack | Rownok Bosunia | [Read More](https://medium.com/p/993c2705a040) |
-| Wed, 01 Apr 2026 13:40:29 GMT | Why Cyber-Insurance and SOC 2 Audits Struggle with Small Tech Teams — And What a Structured… | Eldor Zufarov | [Read More](https://medium.com/p/c9c5cb77206a) |
-| Wed, 01 Apr 2026 13:39:32 GMT | Plant Photographer: TryHackMe | Octacore | [Read More](https://medium.com/p/da47f7a647e7) |
-| Wed, 01 Apr 2026 13:34:39 GMT | Principal: HachTheBox - Difficulty: Medium - Written by Atrox | _ATROX_ | [Read More](https://medium.com/p/08ab7c83e38a) |
-| Wed, 01 Apr 2026 13:31:02 GMT | From Key to Chaos: How a JS Key Breaks Notification Security | Rushikesh Kaware | [Read More](https://medium.com/p/deba6efac8e1) |
-| Wed, 01 Apr 2026 13:31:01 GMT | Common Problems Clients Face with Close Protection | Ricardo Figueroa | [Read More](https://medium.com/p/e98b2ec180b6) |
-| Wed, 01 Apr 2026 13:31:01 GMT | An AI Company Leaked Its Own Code. Why That Should Worry Us | Rekha Pankaj Kumar | [Read More](https://medium.com/p/29a0053c0515) |
-| Wed, 01 Apr 2026 13:31:01 GMT | Quantum Revolution in Cryptography. | Loveneet Singh kalsi | [Read More](https://medium.com/p/7e491640cbe6) |
-| Wed, 01 Apr 2026 13:28:51 GMT | The 2026 AI Meltdown: Claude Mythos Leaks, “Brain Fry,” and the Forensic Fight for Truth | UncovAI | [Read More](https://medium.com/p/8cdc57bfe51f) |
-| Wed, 01 Apr 2026 13:11:32 GMT | Python Security Toolkit Every Developer Needs in 2026 | Er.Muruganantham | [Read More](https://medium.com/p/666d812c3439) |
-| Wed, 01 Apr 2026 13:07:21 GMT | CafeClub writeup (IDOR) Bugforge | 7s26Simon | [Read More](https://medium.com/p/6d8bb8ac3088) |
-| Wed, 01 Apr 2026 13:05:31 GMT | Every Click, Every Search, Every Secret — Google Is Watching | Viplovethakran | [Read More](https://medium.com/p/4262ce9e275a) |
-| Wed, 01 Apr 2026 13:01:02 GMT | [The Prestige] Survival Manual for the Sovereign Individual | MonoEssay | [Read More](https://medium.com/p/ae36341a8de1) |
