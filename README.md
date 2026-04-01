@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 01 Apr 2026 10:56:18 GMT | ادراج حديد للملفات: الحل المثالي لتنظيم المستندات وحمايتها في بيئة العمل | Gulf Safes | [Read More](https://medium.com/p/cee84b7a2cb9) |
+| Wed, 01 Apr 2026 10:53:20 GMT | Best Remote Help Desk Services Provider in India - Net Access India Limited | Mathewneelan | [Read More](https://medium.com/p/209aab0070bd) |
+| Wed, 01 Apr 2026 10:51:51 GMT | Digital Arrest, Deepfakes, and the Cyber Storm India Isn’t Ready For | Shiv Chopra | [Read More](https://medium.com/p/bbf6b6ba6c81) |
+| Wed, 01 Apr 2026 10:51:01 GMT | ‘EU-hosted’ doesn’t mean what you think it means | Digital Samba | [Read More](https://medium.com/p/2dd5af2e20c3) |
+| Wed, 01 Apr 2026 10:50:02 GMT | Volume 3, Post 10: Demystifying Cross-Site Scripting (XSS) | Dasiel Ramirez Hernandez | [Read More](https://medium.com/p/f585228b55b9) |
+| Wed, 01 Apr 2026 10:49:15 GMT | I Scanned a Machine… and It Said Nothing Back: The Story Behind “Filtered Ports” | pavani | [Read More](https://medium.com/p/46b84e835717) |
+| Wed, 01 Apr 2026 10:49:04 GMT | The axios npm Supply Chain Compromise | Solvenite | [Read More](https://medium.com/p/6e221ad97a96) |
+| Wed, 01 Apr 2026 10:44:57 GMT | A Practical Guide to Threat Modelling: From Fundamentals to Real-World Application | Adetutu Deborah | [Read More](https://medium.com/p/42a08deed652) |
+| Wed, 01 Apr 2026 10:42:01 GMT | Der Butler, der die Tür öffnet | Manuela Frenzel,  unabhängige Publizistin. | [Read More](https://medium.com/p/45a936628b5a) |
+| Wed, 01 Apr 2026 10:41:35 GMT | Cap — HackTheBox Writeup | Abhishek sibi | [Read More](https://medium.com/p/df8aa0e17867) |
+| Wed, 01 Apr 2026 10:39:55 GMT | Anthroic’s Claude Code leaked: the accidental source-code exposure that revealed how fragile AI… | TONI RAMCHANDANI | [Read More](https://medium.com/p/55dc38a059e2) |
+| Wed, 01 Apr 2026 10:38:53 GMT | The Top 10 Most Critical CVEs for Healthcare in 2026 | Travis Ray Caverhill | [Read More](https://medium.com/p/4ce577e684c9) |
+| Wed, 01 Apr 2026 10:37:46 GMT | ️ Part 3: The “Camera Whisperer” — Finalizing Your 50-Year Digital Legacy! ✨ | Zoningxtr | [Read More](https://medium.com/p/fed4e5779ef1) |
+| Wed, 01 Apr 2026 10:37:46 GMT | Axios NPM Supply Chain Compromise: What It Teaches About Modern Software Risk | Xccelera | [Read More](https://medium.com/p/78820d50ce35) |
+| Wed, 01 Apr 2026 10:31:29 GMT | ️ From 512K Lines of Leaked Code: How Claude Code Achieves “Security First” | GoPlus Security | [Read More](https://medium.com/p/fb17ac52f4f5) |
+| Wed, 01 Apr 2026 10:28:58 GMT | Microsoft Defender for Endpoint: Beyond the Basics | Zaynab Rouis | [Read More](https://medium.com/p/2c399fb5c70b) |
+| Wed, 01 Apr 2026 10:23:48 GMT | Is my boyfriend cheating signs? | Michael Parks | [Read More](https://medium.com/p/3a99593dbc84) |
+| Wed, 01 Apr 2026 10:05:11 GMT | The Day I Finally Let the Mask Slip | Zargul | [Read More](https://medium.com/p/fa4da403ced8) |
+| Wed, 01 Apr 2026 10:01:39 GMT | 4 reasons Apple banned vibe coding apps and why innovation isn’t one of them | Paul Walsh | [Read More](https://medium.com/p/1d2dd88a9397) |
+| Wed, 01 Apr 2026 10:01:07 GMT | Magento PolyShell: What It Is, Why It Matters, and How to Protect Your Store | On Tap | [Read More](https://medium.com/p/7839e1a8e081) |
+| Wed, 01 Apr 2026 09:57:18 GMT | Build Scalable Workflows with the Right Experts | n8ndevelopers | [Read More](https://medium.com/p/b7f593827c53) |
+| Wed, 01 Apr 2026 09:51:09 GMT | What Do DevOps Service Providers Do? Benefits, Services & How to Choose the Right One | Quadrant IT Services | [Read More](https://medium.com/p/ec5e1dc4e96e) |
+| Wed, 01 Apr 2026 09:51:07 GMT | The 2-Second Hack: How 100 Million Developers Were Just Targeted on npm | Dhanush N | [Read More](https://medium.com/p/48d3359b63b7) |
+| Wed, 01 Apr 2026 09:46:59 GMT | ️‍♂️ The Complete Beginner’s Guide to Bug Bounty Reconnaissance: Live Hunting on PayPal | Krishna Kumar | [Read More](https://medium.com/p/ddb2b0abecd3) |
 | Wed, 01 Apr 2026 09:33:09 GMT | How I Find Open Redirects | Riya Limba | [Read More](https://medium.com/p/3a0195f2064b) |
 | Wed, 01 Apr 2026 09:32:59 GMT | Is WAF Enough for Modern Security? API and AI Agent Risks You Can’t Ignore | John Hawkins | [Read More](https://medium.com/p/5f5f1101b751) |
 | Wed, 01 Apr 2026 09:31:33 GMT | 从51.2万行泄露代码看，ClaudeCode 是如何做到”安全优先”！ | GoPlus中文社区 | [Read More](https://medium.com/p/c2113cdef4cf) |
@@ -88,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Apr 2026 05:33:50 GMT | How I Achieved a “Critical Hit” on a Bug Bounty Platform: Bypassing OTP via Response Manipulation | Evangeliux | [Read More](https://medium.com/p/c0e6d8416589) |
 | Wed, 01 Apr 2026 05:33:29 GMT | Footprinting & Reconnaissance | Vardhan Reddy Dronadula | [Read More](https://medium.com/p/fe4db8054dbd) |
 | Wed, 01 Apr 2026 05:30:50 GMT | Starting in Pentesting? These Free Tools Are All You Need | Maharshi Patel | [Read More](https://medium.com/p/5a7be042b919) |
-| Wed, 01 Apr 2026 05:30:25 GMT | What Are the Most Common Cyber Threats for Beginners to Know? | Eternity Ocean University | [Read More](https://medium.com/p/233536af5d4c) |
-| Wed, 01 Apr 2026 05:28:52 GMT | Inside a Hacker’s Mind: The 5-Step Attack Process | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/bbf33b5311f3) |
-| Wed, 01 Apr 2026 05:27:40 GMT | Debug —PHP Deserialization RCE and a Root-Owned MOTD Script I Could Rewrite - TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/cafdea4ae55e) |
-| Wed, 01 Apr 2026 05:19:51 GMT | IAM vs PAM: Which One Does Your Enterprise Actually Need? | Maruti Techlabs | [Read More](https://medium.com/p/710e34f51f15) |
-| Wed, 01 Apr 2026 05:18:23 GMT | You Cannot Hack What You Cannot See—Mapping the Full Attack Surface with Burp Suite | Yamini Yadav_369 | [Read More](https://medium.com/p/1156d1987f68) |
-| Wed, 01 Apr 2026 05:12:51 GMT | What a Fake Hackable VoIP Server Taught Me About Real Product Risk | Deokbeom Jeong(Tiger) | [Read More](https://medium.com/p/c8f2f3fb3471) |
-| Wed, 01 Apr 2026 05:12:04 GMT | THE AXIOS BACKDOOR: How 173,000 Packages Just Got Quietly Compromised | Rishi Raam | [Read More](https://medium.com/p/7f378a4d7425) |
-| Wed, 01 Apr 2026 05:00:34 GMT | Network Testing: Core Networking (Foundation) part 3 | JEETPAL | [Read More](https://medium.com/p/f48808cf3f13) |
-| Wed, 01 Apr 2026 04:59:03 GMT | Privilege Escalation in Practice: Moving Beyond Initial Access | Daniel Isaac E | [Read More](https://medium.com/p/d396ae160e02) |
-| Wed, 01 Apr 2026 04:58:11 GMT | The Architecture of the Void | 乛 ᎫᏅᎩཐི༏ཋྀ࿐ | [Read More](https://medium.com/p/0d6fe306e123) |
-| Wed, 01 Apr 2026 04:55:14 GMT | Anthropic Accidentally Open-Sourced Their Most Valuable Product.
-Here’s Everything That Was Inside. | Senaaravichandran A | [Read More](https://medium.com/p/2ed7f4fd8334) |
-| Wed, 01 Apr 2026 04:53:35 GMT | Why Cloud Security Needs More Attention in 2026 | Maruti Techlabs | [Read More](https://medium.com/p/803b1303bb82) |
-| Wed, 01 Apr 2026 04:49:43 GMT | You Won’t Believe What This Free Tool Reveals About Your Surroundings!!! | cybrNK | [Read More](https://medium.com/p/d65798f1da1b) |
-| Wed, 01 Apr 2026 04:37:58 GMT | Part 9: Predictive Analytics & The Grand Data Warehouse | Bilal Writes | [Read More](https://medium.com/p/9ae471c0d681) |
-| Wed, 01 Apr 2026 04:24:12 GMT | SPARK Matrix™: Workforce IAM | Umangp | [Read More](https://medium.com/p/1236722a7b70) |
-| Wed, 01 Apr 2026 04:19:37 GMT | How Google Cloud Armor Helps Close OWASP Top 10 Risks in 2026 | Aleksei Aleinikov | [Read More](https://medium.com/p/7432518f8a27) |
-| Wed, 01 Apr 2026 04:15:45 GMT | Yahoo Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/5cb2b2843bb3) |
-| Wed, 01 Apr 2026 04:09:35 GMT | McAfee Antivirus Customer Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/effb82776a39) |
-| Wed, 01 Apr 2026 04:02:26 GMT | McAfee Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/6cc84f36aa58) |
-| Wed, 01 Apr 2026 03:52:03 GMT | Yahoo Customer Service Australia | Customer Support Information | [Read More](https://medium.com/p/98cae1805662) |
-| Wed, 01 Apr 2026 03:47:49 GMT | SPARK Matrix™: Mobile Threat Management (MTM) | Umangp | [Read More](https://medium.com/p/fd266ced4e52) |
-| Wed, 01 Apr 2026 03:46:02 GMT | What Is ASN and How It Helps Security: A Practical Guide for Engineers | John Hawkins | [Read More](https://medium.com/p/c8fa1afc6687) |
-| Wed, 01 Apr 2026 03:44:07 GMT | ChongmingLab - Weekly Blockchain Security News (March 23-29) | Chongming lab | [Read More](https://medium.com/p/2618300eed0b) |
-| Wed, 01 Apr 2026 03:35:00 GMT | The Trout Moment | Sarah Neylon | [Read More](https://medium.com/p/e6d3daa21f4c) |
