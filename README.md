@@ -12,8 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 10:51:01 GMT | The Year 2038 Problem: The Next “Y2K” Waiting to Happen? | Shubham Vartak | [Read More](https://medium.com/p/2ba3fdc72ea5) |
+| Thu, 02 Apr 2026 10:43:30 GMT | The “Remind Me Later” Lie: Why Software Updates Are the Digital Vegetable You Actually Need | Tania Nunes | [Read More](https://medium.com/p/58ae3dc6fc7c) |
+| Thu, 02 Apr 2026 10:41:01 GMT | Your Business Continuity Plan Is Not the Test, Recovery Under Pressure Is | Tyson Martin | [Read More](https://medium.com/p/50b50752ae50) |
+| Thu, 02 Apr 2026 10:38:22 GMT | From Alerts to Actions: How Chat-Native Workflows Are Transforming Security Operations | NetWitness | [Read More](https://medium.com/p/634cc33e5245) |
+| Thu, 02 Apr 2026 10:36:51 GMT | Best End User Support and Help Desk Services in India | Jameswilliamservices | [Read More](https://medium.com/p/8272c7539c22) |
+| Thu, 02 Apr 2026 10:36:00 GMT | When One Compromised NPM Library Forced Us to Rotate Every Secret | Deepa Singh | [Read More](https://medium.com/p/41b7d2738a0f) |
+| Thu, 02 Apr 2026 10:32:36 GMT | How to Build a Zero-Trust Dedicated Server-2026 - BytesRack | BytesRack | [Read More](https://medium.com/p/afe14c8b4b87) |
+| Thu, 02 Apr 2026 10:31:01 GMT | Supply Chain Attacks in Cybersecurity: How They Work, Real-World Cases, and Defense Strategies | Ishant | [Read More](https://medium.com/p/152f9e10838c) |
+| Thu, 02 Apr 2026 10:30:36 GMT | How CCTV Cameras Helped Me Improve My Home Security | IT Solution Dubai | [Read More](https://medium.com/p/24bbe9b60f75) |
+| Thu, 02 Apr 2026 10:24:05 GMT | When Your Body Becomes a Password | Darwin Gosal | [Read More](https://medium.com/p/1d957f06cd88) |
+| Thu, 02 Apr 2026 10:20:55 GMT | 3D Audio Market Outlook & Industry Trends 2035 | NIkita Poplai | [Read More](https://medium.com/p/0550f425f0e4) |
+| Thu, 02 Apr 2026 10:20:49 GMT | Security Services Tamil Nadu - Trusted Protection Solutions | zara hannah | [Read More](https://medium.com/p/1c1052146ae9) |
+| Thu, 02 Apr 2026 10:19:54 GMT | The 2026 AI Renaissance: How NVIDIA NemoClaw is Turning “OpenClaw” into the World’s First Personal… | Hitesh Rohilla | [Read More](https://medium.com/p/cf89d0a08173) |
+| Thu, 02 Apr 2026 10:19:00 GMT | TryHackMe Snort Task 1 to Task 6 | Birdv | [Read More](https://medium.com/p/54ee6c080462) |
+| Thu, 02 Apr 2026 10:15:29 GMT | Detecting the Axios Supply Chain Attack Using Wazuh and FortiGate (Without EDR) | Dileep Kumar Ch | [Read More](https://medium.com/p/5e80667fddbf) |
+| Thu, 02 Apr 2026 10:11:46 GMT | Bestkaam — Job Portal in India for Employers & Job Seekers - Hire & Find Jobs Online | Bestkaam BK | [Read More](https://medium.com/p/645e1ef54da7) |
+| Thu, 02 Apr 2026 10:11:33 GMT | City Council — Chaining Misconfigurations to Domain Admin | GauthamV | [Read More](https://medium.com/p/4370e2d0239d) |
+| Thu, 02 Apr 2026 10:03:10 GMT | Cybersecurity Alone vs With Mentorship: Why Most Beginners Stay Stuck | Riya Limba | [Read More](https://medium.com/p/13947d626337) |
+| Thu, 02 Apr 2026 10:01:26 GMT | Powering E-Commerce Growth: Custom Development Services from Ornate TechnoServices | Ornate TechnoServices | [Read More](https://medium.com/p/cc517914fc98) |
+| Thu, 02 Apr 2026 10:00:53 GMT | Healthy or Harmful? The Scientific Truth About Traditional Ghee and Oxidative Stress | oRegion | [Read More](https://medium.com/p/f936bb00c157) |
+| Thu, 02 Apr 2026 09:58:27 GMT | Unlocking Growth Through Digital Marketing Excellence at Ornate TechnoServices | Ornate TechnoServices | [Read More](https://medium.com/p/56349b4e7279) |
+| Thu, 02 Apr 2026 09:58:26 GMT | How a simple login issue revealed deeper problems in system design and security. | Jeevagan | [Read More](https://medium.com/p/577d0f5f4c10) |
+| Thu, 02 Apr 2026 09:36:01 GMT | Why Most AI Projects Fail in Operations | AQUNAMA | [Read More](https://medium.com/p/1c9d930bc583) |
 | Thu, 02 Apr 2026 09:32:56 GMT | The Infinite Money Glitch: Exploiting a Race Condition in a Fintech App | 0xHer0 | [Read More](https://medium.com/p/de84d1f954be) |
+| Thu, 02 Apr 2026 09:31:44 GMT | Breaking into CCTV: SQL Injection to Root on HackTheBox | Kipngeno kendrick | [Read More](https://medium.com/p/7e0f8f9f56ce) |
+| Thu, 02 Apr 2026 09:26:50 GMT | Make your Android phone bloatware free | Siddhpura Amitkumar | [Read More](https://medium.com/p/b8350969ba0f) |
 | Thu, 02 Apr 2026 09:21:48 GMT | The future runs on AI and data. | Datavex AI Pvt Ltd | [Read More](https://medium.com/p/35471451c4ef) |
+| Thu, 02 Apr 2026 09:20:31 GMT | Why GuardianWatch Is the Best Personal Safety App Everyone Should Be Using in 2026 | Sylvesternnoli | [Read More](https://medium.com/p/ada29d62fd53) |
 | Thu, 02 Apr 2026 09:13:15 GMT | Simulating Real Network Attacks in a Virtual Lab: From Scanning to Detection | Bansari patel | [Read More](https://medium.com/p/9a4703863fe9) |
 | Thu, 02 Apr 2026 09:09:30 GMT | The Code You Trust Isn’t Yours Anymore — Welcome to Software Supply Chain Security | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/b9c30f1474ec) |
 | Thu, 02 Apr 2026 09:01:03 GMT | Breaking down NIST CSF v2.0 in plain English. | Gaurav Shukla | [Read More](https://medium.com/p/eec2675b9fe3) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 04:28:36 GMT | ⚡ JavaScript 2: Improve Your Web Development Skills | Cyberabhisharma | [Read More](https://medium.com/p/3fe8ba2d0091) |
 | Thu, 02 Apr 2026 04:28:35 GMT | From Electricity to Exploits: Understanding Hardware and How Hackers Break It | PRiTi.EX | [Read More](https://medium.com/p/cdba0f5f442a) |
 | Thu, 02 Apr 2026 04:28:07 GMT | Real-Life Examples of AI in Cybersecurity Tools | Antonyrajvedamanickam | [Read More](https://medium.com/p/dabc067fdf56) |
-| Thu, 02 Apr 2026 04:25:09 GMT | Time Attendance System Dubai: Features, Benefits & Pricing Explained - Proswift Security Solutions | Proswift Security Solutions | [Read More](https://medium.com/p/990207520489) |
-| Thu, 02 Apr 2026 04:21:41 GMT | We Let Untrusted JavaScript Into Our GIS Platform Without Giving It the Browser | Basel Issmail | [Read More](https://medium.com/p/d2024333445b) |
-| Thu, 02 Apr 2026 04:20:38 GMT | McAfee Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/159f546cc223) |
-| Thu, 02 Apr 2026 04:20:22 GMT | TryHackMe Walkthrough: Linux Fundamentals Part 3 | Shubham Khirwadkar | [Read More](https://medium.com/p/b6d9725c20a8) |
-| Thu, 02 Apr 2026 04:14:13 GMT | Build an Unhackable Password Strategy | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/17fac8d348d8) |
-| Thu, 02 Apr 2026 04:13:55 GMT | Yahoo Customer Service UK | Zuerevalexander | [Read More](https://medium.com/p/7d143d29360c) |
-| Thu, 02 Apr 2026 04:06:42 GMT | McAfee Customer Service Australia | Customer Support Information | [Read More](https://medium.com/p/15c25d60cee1) |
-| Thu, 02 Apr 2026 03:58:00 GMT | Yahoo Customer Service Australia | Customer Support Information | [Read More](https://medium.com/p/d8fce389be85) |
-| Thu, 02 Apr 2026 03:43:26 GMT | How to Prevent Your Project from Leaking Like Anthropic’s Claude Code | MD Maruf Hasan | [Read More](https://medium.com/p/6245029118c4) |
-| Thu, 02 Apr 2026 02:41:59 GMT | Detecting Web attacks: Common Server-Side attacks, How to detect and prevent them | Ahmad Khaled | [Read More](https://medium.com/p/454a519d99dd) |
-| Thu, 02 Apr 2026 02:40:41 GMT | From APK to Firebase Tokens: Analyzing a Hardcoded API Key in an Android App | @escoeascape | [Read More](https://medium.com/p/486dadfeb0a5) |
-| Thu, 02 Apr 2026 02:34:06 GMT | Non-Human Identities Are the New Attack Surface Nobody Is Watching | Vijaybhasker Pagidoju | [Read More](https://medium.com/p/5382378d28d0) |
-| Thu, 02 Apr 2026 02:27:44 GMT | Verification Without Interaction: Trust Without Communication | sengom | [Read More](https://medium.com/p/89dfa49045d0) |
-| Thu, 02 Apr 2026 02:27:42 GMT | Understanding Security by Structure: From Complexity to Clarity | sengom | [Read More](https://medium.com/p/a4e9a9193692) |
-| Thu, 02 Apr 2026 02:19:28 GMT | From Smartwatch to Strategic Intelligence | Eryk Budi Pratama | [Read More](https://medium.com/p/fd6d70f2ab02) |
-| Thu, 02 Apr 2026 02:12:08 GMT | Common AI-Based Cyber Attacks (2026 Guide) | Abhinsubej | [Read More](https://medium.com/p/28497f2d9315) |
-| Thu, 02 Apr 2026 01:58:15 GMT | SOC Role in Blue Team — TryHackMe Walkthrough | Taylor Wavra | [Read More](https://medium.com/p/a37cfe18d799) |
-| Thu, 02 Apr 2026 01:56:15 GMT | The Resume Got Them the Interview. This Mistake Lost Them the Job. | Jbird | [Read More](https://medium.com/p/32bd819d7cd6) |
-| Thu, 02 Apr 2026 01:50:44 GMT | Juice Shop Write-up: Login Admin Challenge | ~ Jeff ~ | [Read More](https://medium.com/p/999ca89fcaa5) |
-| Thu, 02 Apr 2026 01:47:52 GMT | Supply Chain Guard: An Agent Skill That Audits Your Code for Compromised Dependencies | Daniel Avila | [Read More](https://medium.com/p/9be39c7edcbb) |
-| Thu, 02 Apr 2026 01:41:01 GMT | Don’t Stay Empty-Handed: How to Protect Yourself When Your Husband Cheats | Austi Gene | [Read More](https://medium.com/p/eec099bce6f1) |
-| Thu, 02 Apr 2026 01:32:57 GMT | My Bug Bounty Journey #5: Changing Page Content with HTML Injection | awchjimmy | [Read More](https://medium.com/p/338bb843396d) |
-| Thu, 02 Apr 2026 01:29:40 GMT | Juice Shop Write-up: Error Handling Challenge | ~ Jeff ~ | [Read More](https://medium.com/p/e88e5df1a468) |
-| Thu, 02 Apr 2026 01:27:06 GMT | CVE-2025–50946 Walkthrough (Proving ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/02457e13a0b1) |
-| Thu, 02 Apr 2026 01:23:40 GMT | TryHackMe — Water Bottle Write-up | G1assioS | [Read More](https://medium.com/p/38c94bab78f9) |
-| Thu, 02 Apr 2026 01:23:17 GMT | I replaced Audible with a Raspberry Pi! | ZeakPeak | [Read More](https://medium.com/p/4d9e92497a47) |
