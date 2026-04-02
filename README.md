@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 19:07:50 GMT | A Realistic 7-Day Timeline of a Cyberattack | Digital Defense | [Read More](https://medium.com/p/4e0c88608b82) |
+| Thu, 02 Apr 2026 19:06:13 GMT | Operation Shadow Proxy: A Walkthrough Of Tracing a Ransomware Using OSINT | Azutech | [Read More](https://medium.com/p/5bb676e049eb) |
+| Thu, 02 Apr 2026 19:03:43 GMT | How I Found a Critical SAML Authentication Bypasson a Major Automotive Company's Dealer Portal | Ousski | [Read More](https://medium.com/p/848b1a33172e) |
+| Thu, 02 Apr 2026 18:55:22 GMT | The Leak Was Never About the Code | Akansha Sukhija | [Read More](https://medium.com/p/75ac96eb5a42) |
+| Thu, 02 Apr 2026 18:34:50 GMT | AmassAdvanced Recon Mastery: Attack Surface Ko Poora Expose Karo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/7469d748a990) |
+| Thu, 02 Apr 2026 18:30:57 GMT | Exploiting Certificates for Lateral Movement | Pentester Club | [Read More](https://medium.com/p/a2e5c4b0e155) |
+| Thu, 02 Apr 2026 18:27:50 GMT | Catch my cheating boyfriend | Michael Parks | [Read More](https://medium.com/p/64544bbe5c53) |
+| Thu, 02 Apr 2026 18:25:45 GMT | Our Submission to NIST on AI Agent Identity and Authorization | Douglas Borthwick | [Read More](https://medium.com/p/57a9bb6317da) |
+| Thu, 02 Apr 2026 18:22:08 GMT | Detecting PII Data using Splunk and AI — Part 1 | Sondhi Varun | [Read More](https://medium.com/p/4c202732ccde) |
+| Thu, 02 Apr 2026 18:19:31 GMT | The Quantum Revolution: 5 Things You Must Know About the Future of Cryptography | Cygnus Consulting | [Read More](https://medium.com/p/c2ab6f123175) |
+| Thu, 02 Apr 2026 18:09:56 GMT | Building my own password manager to learn security | Fahisshehandim | [Read More](https://medium.com/p/847952ced763) |
+| Thu, 02 Apr 2026 18:08:47 GMT | Ethical Hacking: Where to Start Legally | Mubashir | [Read More](https://medium.com/p/842081ba2ad9) |
 | Thu, 02 Apr 2026 17:58:47 GMT | In a concerning development, attackers have demonstrated how even security tools themselves can… | Chetan Seripally | [Read More](https://medium.com/p/20e1107db4af) |
 | Thu, 02 Apr 2026 17:57:55 GMT | Encryption & Decryption Explained: The Ultimate Guide to Data Privacy (Plus a Free Tool) | Needlecodedev | [Read More](https://medium.com/p/e82c61157771) |
 | Thu, 02 Apr 2026 17:52:19 GMT | HOW CAN I RECOVER MY LOST OR HACKED CRYPTO FUNDS? CONTACT MALICE CYBER RECOVERY SPECIALIST | Leon Noa | [Read More](https://medium.com/p/130fbb855bca) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 13:42:47 GMT | How I Found Internal Products Exposed via API | Dheeraj | [Read More](https://medium.com/p/ae2582ea9498) |
 | Thu, 02 Apr 2026 13:36:56 GMT | Your Photos Are Exposing You — Here’s How to Stop It | Aamir sidque | [Read More](https://medium.com/p/88afad7476f5) |
 | Thu, 02 Apr 2026 13:31:20 GMT | Hot Wheels Shopify Store Growth: 11 Proven Hacks to Increase Sales Fast | A1castcar | [Read More](https://medium.com/p/1be819c973a5) |
-| Thu, 02 Apr 2026 13:31:01 GMT | 7 Key Features to Have in Custom EHR Software 2026 | Thinkitive Inc | [Read More](https://medium.com/p/e1241e1c6e52) |
-| Thu, 02 Apr 2026 13:31:01 GMT | How I Built SecureVault: Encryption, Silent Failures, and Everything I Wish Someone Had Told Me | Pavithraa Deenadayalan | [Read More](https://medium.com/p/6733d6d1ddc0) |
-| Thu, 02 Apr 2026 13:29:16 GMT | SUID Misconfigurations -> Root Access | Devansh Patel | [Read More](https://medium.com/p/b64a61795702) |
-| Thu, 02 Apr 2026 13:28:45 GMT | AI Can Sound Smarter Than You — And That’s Exactly Why It’s Dangerous | Jacques Van Der Merwe | [Read More](https://medium.com/p/56f779985522) |
-| Thu, 02 Apr 2026 13:28:35 GMT | Dynamic Neo4j Security with Cypher Powered Attribute Based Access Control (ABAC) | Ian McCloy | [Read More](https://medium.com/p/031c064fe2a0) |
-| Thu, 02 Apr 2026 13:27:42 GMT | Data Hostage: How a Preprint Bartered 100,000 Bulk Unreleased Cybersecurity Scenarios for Peer… | Berend Watchus | [Read More](https://medium.com/p/f370234511cd) |
-| Thu, 02 Apr 2026 13:22:39 GMT | Stop Coding, Start Architecting: Why Your AI Strategy is Increasing Your Technical Debt | Bhawna_Thakur_Bhawie | [Read More](https://medium.com/p/2e8f9ef9e5d1) |
-| Thu, 02 Apr 2026 13:16:55 GMT | How Attackers Actually Break Identity Systems and Why Most Organizations Can’t Prove It | Dr. Shashi Karhail | [Read More](https://medium.com/p/d174db7d78ca) |
-| Thu, 02 Apr 2026 13:08:54 GMT | Light — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/c0c1a69e8ae8) |
-| Thu, 02 Apr 2026 13:08:34 GMT | Clocky — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/c624bf320320) |
-| Thu, 02 Apr 2026 13:06:19 GMT | Workflow automation process showing automated tasks, software integration, and end-to-end business… | Sandra Blake, Consumer Finance Writer | [Read More](https://medium.com/p/f73776c7fb6b) |
-| Thu, 02 Apr 2026 13:04:58 GMT | Pengenalan SELinux | Wafa | [Read More](https://medium.com/p/4e97fb4eab0b) |
