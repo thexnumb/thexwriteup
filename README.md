@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 04:55:49 GMT | Becomes the Entry Point: Inside the Latest Chrome Zero-Day | Sharanraju | [Read More](https://medium.com/p/d2782b4487f3) |
+| Thu, 02 Apr 2026 04:44:02 GMT | Beyond MFA: Detecting “Identity Teleportation” in the Age of AI | Shubham Waghilkar | [Read More](https://medium.com/p/551c3f77e6d5) |
+| Thu, 02 Apr 2026 04:42:37 GMT | VaultMind Session 4: Going Live — Railway, Vercel, and Zero Commands Forever | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/fb84078c06cc) |
+| Thu, 02 Apr 2026 04:42:16 GMT | VaultMind Session 3: Building the Face — React Dashboard, Vault UI, and Login | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/c28c479300b5) |
+| Thu, 02 Apr 2026 04:41:24 GMT | Beyond the Breach: What the Anthropic Leak Reveals About Source Code Integrity. | Hardik Thaker | [Read More](https://medium.com/p/99eaa38aaece) |
+| Thu, 02 Apr 2026 04:38:35 GMT | When a Church Loses Its Website — and Its Reputation. | Benjaminmcguire | [Read More](https://medium.com/p/dd82d912a7d5) |
+| Thu, 02 Apr 2026 04:30:02 GMT | Hunting for IDORs: How I Accessed PII on a Popular Ticketing Site! | Vanshrathore | [Read More](https://medium.com/p/d7aa5f9542f2) |
+| Thu, 02 Apr 2026 04:28:36 GMT | ⚡ JavaScript 2: Improve Your Web Development Skills | Cyberabhisharma | [Read More](https://medium.com/p/3fe8ba2d0091) |
+| Thu, 02 Apr 2026 04:28:35 GMT | From Electricity to Exploits: Understanding Hardware and How Hackers Break It | PRiTi.EX | [Read More](https://medium.com/p/cdba0f5f442a) |
+| Thu, 02 Apr 2026 04:28:07 GMT | Real-Life Examples of AI in Cybersecurity Tools | Antonyrajvedamanickam | [Read More](https://medium.com/p/dabc067fdf56) |
+| Thu, 02 Apr 2026 04:25:09 GMT | Time Attendance System Dubai: Features, Benefits & Pricing Explained - Proswift Security Solutions | Proswift Security Solutions | [Read More](https://medium.com/p/990207520489) |
+| Thu, 02 Apr 2026 04:21:41 GMT | We Let Untrusted JavaScript Into Our GIS Platform Without Giving It the Browser | Basel Issmail | [Read More](https://medium.com/p/d2024333445b) |
+| Thu, 02 Apr 2026 04:20:38 GMT | McAfee Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/159f546cc223) |
+| Thu, 02 Apr 2026 04:20:22 GMT | TryHackMe Walkthrough: Linux Fundamentals Part 3 | Shubham Khirwadkar | [Read More](https://medium.com/p/b6d9725c20a8) |
+| Thu, 02 Apr 2026 04:14:13 GMT | Build an Unhackable Password Strategy | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/17fac8d348d8) |
+| Thu, 02 Apr 2026 04:13:55 GMT | Yahoo Customer Service UK | Zuerevalexander | [Read More](https://medium.com/p/7d143d29360c) |
+| Thu, 02 Apr 2026 04:06:42 GMT | McAfee Customer Service Australia | Customer Support Information | [Read More](https://medium.com/p/15c25d60cee1) |
+| Thu, 02 Apr 2026 03:58:00 GMT | Yahoo Customer Service Australia | Customer Support Information | [Read More](https://medium.com/p/d8fce389be85) |
+| Thu, 02 Apr 2026 03:43:26 GMT | How to Prevent Your Project from Leaking Like Anthropic’s Claude Code | MD Maruf Hasan | [Read More](https://medium.com/p/6245029118c4) |
 | Thu, 02 Apr 2026 02:41:59 GMT | Detecting Web attacks: Common Server-Side attacks, How to detect and prevent them | Ahmad Khaled | [Read More](https://medium.com/p/454a519d99dd) |
 | Thu, 02 Apr 2026 02:40:41 GMT | From APK to Firebase Tokens: Analyzing a Hardcoded API Key in an Android App | @escoeascape | [Read More](https://medium.com/p/486dadfeb0a5) |
 | Thu, 02 Apr 2026 02:34:06 GMT | Non-Human Identities Are the New Attack Surface Nobody Is Watching | Vijaybhasker Pagidoju | [Read More](https://medium.com/p/5382378d28d0) |
@@ -94,22 +113,3 @@ Dynamic Location Metadata… | Yahya Ahmed | [Read More](https://medium.com/p/f7
 | Wed, 01 Apr 2026 19:04:04 GMT | ️ Designing a Resilient Multi-Site SIEM Architecture | Y_NeXRo | [Read More](https://medium.com/p/51619acbf61d) |
 | Wed, 01 Apr 2026 19:03:47 GMT | SentriAI — Agentic AI That Fixes the Code You Ship | Pavithrankb | [Read More](https://medium.com/p/1e7b507caffd) |
 | Wed, 01 Apr 2026 19:03:24 GMT | Why a First Class Philosophy Graduate is Learning to Hunt Threats | Fagbemi Elisha Kehinde | [Read More](https://medium.com/p/386a13e00acb) |
-| Wed, 01 Apr 2026 19:01:09 GMT | The Ultimate Guide to Exploring the Internet Safely in 2026 | Journeyquestm | [Read More](https://medium.com/p/9f01ac387fb1) |
-| Wed, 01 Apr 2026 19:01:01 GMT | The Silicon Protocol: The Identity Crisis — When Machine Accounts Become Your Real Super-Users | Piyoosh Rai | [Read More](https://medium.com/p/5a0a695e3f6c) |
-| Wed, 01 Apr 2026 18:59:21 GMT | What I Wish I Knew Before Bug Bounty | Hania Khan | [Read More](https://medium.com/p/f41a28b70122) |
-| Wed, 01 Apr 2026 18:55:43 GMT | Offsec “OnSystemShellDredd” CTF Writeup | sabR | [Read More](https://medium.com/p/96a4d28d2056) |
-| Wed, 01 Apr 2026 18:50:39 GMT | Introducing StegaShield | Jude Canady | [Read More](https://medium.com/p/8922e67fa324) |
-| Wed, 01 Apr 2026 18:50:08 GMT | The Rise of OSINT | Cyber Canion | [Read More](https://medium.com/p/2e00a7f8f55d) |
-| Wed, 01 Apr 2026 18:48:04 GMT | I Thought I Was Mysterious, But Maybe I Was Just Afraid of Being Seen | Feyi | [Read More](https://medium.com/p/04005e5eb3e2) |
-| Wed, 01 Apr 2026 18:43:56 GMT | Lab: SQL injection attack, listing the database contents on Oracle | Songül Kızılay Özügürler | [Read More](https://medium.com/p/f16cac8cdeef) |
-| Wed, 01 Apr 2026 18:42:35 GMT | AI Red Teaming Part 01 : SQL Injection Was Easy — Try Social Engineering a LLM | HallucinationHunter | [Read More](https://medium.com/p/38ad808f44df) |
-| Wed, 01 Apr 2026 18:32:42 GMT | Every File Claude Code Reads Gets Sent to Anthropic | Abhinav Gupta | [Read More](https://medium.com/p/89ddf1695076) |
-| Wed, 01 Apr 2026 18:31:47 GMT | The Hidden Threat Inside Your AI: Indirect Prompt Injection | Aaseem Mhaskar | [Read More](https://medium.com/p/ba28cfb1d1ce) |
-| Wed, 01 Apr 2026 18:21:10 GMT | Windows Persistence Techniques | wremad | [Read More](https://medium.com/p/0e5735740c9c) |
-| Wed, 01 Apr 2026 18:20:14 GMT | The Meta-Attack: How AI Gateways and Security Scanners Became the Latest Supply Chain Backdoors | SavyAi | [Read More](https://medium.com/p/ba0428a303da) |
-| Wed, 01 Apr 2026 18:16:01 GMT | Have you ever seen the emails and folders that Outlook itself doesn’t really want you to see? | Yasser Hussien | [Read More](https://medium.com/p/79f68463c5e2) |
-| Wed, 01 Apr 2026 18:12:20 GMT | What the 2024 CrowdStrike Outage Taught Us About Building Reliable Systems | Shalinisaloni | [Read More](https://medium.com/p/0fd9649b688a) |
-| Wed, 01 Apr 2026 18:11:32 GMT | Claude Code’un Sızan Kaynak Kodunda Neler Var | Mehmet Aras | [Read More](https://medium.com/p/e9fe90f39a1a) |
-| Wed, 01 Apr 2026 18:11:30 GMT | The Dark Side of Online Interviews in the AI Era: Why We Need a Verified Hiring System | Ramakrishna Gedala | [Read More](https://medium.com/p/ae6676452f74) |
-| Wed, 01 Apr 2026 18:07:10 GMT | My Cybersecurity Journey (Day-2) | Priyesh Patware | [Read More](https://medium.com/p/5bcefebde789) |
-| Wed, 01 Apr 2026 18:05:59 GMT | 512,000 lines of secrets: inside the Claude Code leak | Vishwajeet Barve | [Read More](https://medium.com/p/fa5435c9aed2) |
