@@ -12,6 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 17:14:44 GMT | From Axios NPM Supply Chain Attack to Tracking DPRK’s BlueNoroff | DCSO CyTec Blog | [Read More](https://medium.com/p/c9080c9b4ce3) |
+| Thu, 02 Apr 2026 17:11:12 GMT | The 12 Months Nobody Reads | Stuardo Rodriguez | [Read More](https://medium.com/p/e72d9ffe9578) |
+| Thu, 02 Apr 2026 17:08:25 GMT | CVE-2026–23416-POC (affecting linux kernel 6.17-linux kernel 7.0 rc 5) | Antonius W1sdom | [Read More](https://medium.com/p/457afc9ad9e3) |
+| Thu, 02 Apr 2026 17:05:23 GMT | LLM Output Attacks: Skill Assessment (HackTheBox) | Hacker_soprano | [Read More](https://medium.com/p/337311d82d4b) |
+| Thu, 02 Apr 2026 17:04:48 GMT | The War Nobody Sees: When the Hackers and the Guards Are Both Machines | Shrutika Mokashi | [Read More](https://medium.com/p/097e3cbbe3c0) |
+| Thu, 02 Apr 2026 17:04:35 GMT | Your Gmail is no longer your identity. Google just broke a few OSINT workflows and nobody noticed. | 1v0ot | [Read More](https://medium.com/p/ff8b271ac31f) |
+| Thu, 02 Apr 2026 17:00:32 GMT | Hidden Cost of Shipping Faster | Aryaman Khandelwal | [Read More](https://medium.com/p/60a95b662591) |
+| Thu, 02 Apr 2026 16:57:47 GMT | From Confusion to Capture: My First Man-in-the-Middle Attack Using Bettercap | Becca | [Read More](https://medium.com/p/8a2e4e009cf0) |
+| Thu, 02 Apr 2026 16:55:28 GMT | Swiper Mobile API — Full Exploitation Chain | Amimerayoub | [Read More](https://medium.com/p/389f94faeb93) |
+| Thu, 02 Apr 2026 16:52:42 GMT | Gmail’s New Rename Feature Could Add Spam and Phishing to Your Inbox | Matthew.Rosenquist | [Read More](https://medium.com/p/9426259aaaac) |
+| Thu, 02 Apr 2026 16:49:41 GMT | Why Music Students Belong at Hackathons | DurHack | [Read More](https://medium.com/p/d5224ed61b49) |
+| Thu, 02 Apr 2026 16:47:22 GMT | An AI Grader Was Tricked Into Giving a Perfect Score Here’s How Prompt Injection Works | Tanmay Bhattacharjee | [Read More](https://medium.com/p/613df9411584) |
+| Thu, 02 Apr 2026 16:45:42 GMT | A Human Guide to Modern Cybersecurity | Aravind sathyajith | [Read More](https://medium.com/p/843eb3c166ce) |
+| Thu, 02 Apr 2026 16:42:45 GMT | The Price of Keeping it together All by Yourself | Hugo Pan | [Read More](https://medium.com/p/61749833dc93) |
+| Thu, 02 Apr 2026 16:37:14 GMT | Solución CTF — Year of the Rabbit | SatoBlack | [Read More](https://medium.com/p/d9b29fa79c1b) |
+| Thu, 02 Apr 2026 16:35:14 GMT | Ataque Crítico no PAN-OS! | Otávio Alves | [Read More](https://medium.com/p/e9f45768e947) |
+| Thu, 02 Apr 2026 16:33:44 GMT | Solución CTF — LazyAdmin | SatoBlack | [Read More](https://medium.com/p/c14da02f163c) |
+| Thu, 02 Apr 2026 16:30:01 GMT | Password Hacking -- Gain Unauthorized Access -- Hire Hacker Today | BlackHat | [Read More](https://medium.com/p/4a8087eb07a6) |
+| Thu, 02 Apr 2026 16:25:47 GMT | Why Most Recon Pipelines Break After a Week | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/75c51e25a261) |
+| Thu, 02 Apr 2026 16:23:17 GMT | The Axios npm Supply Chain Attack (March 2026): A 2-Second Breach Window That Compromised the… | Yug Jadvani | [Read More](https://medium.com/p/77ee33e9ca39) |
+| Thu, 02 Apr 2026 16:20:00 GMT | PentAGI: Autonomous AI Agents for Cybersecurity Testing | Pentester Club | [Read More](https://medium.com/p/1d8e6bc70667) |
+| Thu, 02 Apr 2026 16:18:25 GMT | How Sharing What I Feel Turned Out to be My Biggest Mistake | Ashna Geete | [Read More](https://medium.com/p/d280d465e104) |
+| Thu, 02 Apr 2026 16:16:01 GMT | Building secure workflow systems requires strong authentication, clear authorization rules, and… | Shikha Nirankari | [Read More](https://medium.com/p/22e95edae220) |
+| Thu, 02 Apr 2026 16:15:06 GMT | How a Public Anon Key Led to Full Database Compromise | Tyreek Haynes | [Read More](https://medium.com/p/a58f065d367e) |
+| Thu, 02 Apr 2026 16:11:18 GMT | What Nobody Tells You When You’re Looking for a Security Guard Company in Oakland | Uniworth security Editorial | [Read More](https://medium.com/p/20b300d20bde) |
+| Thu, 02 Apr 2026 16:07:49 GMT | Exploiting path mapping for web cache deception attack | Mohakgrover | [Read More](https://medium.com/p/5574f1983c4a) |
+| Thu, 02 Apr 2026 16:03:48 GMT | Reverse Engineering a WhatsApp 0-Click Vulnerability: A Deep Dive into CVE-2025–43300 | Krishna Kumar | [Read More](https://medium.com/p/d8d425644fe9) |
+| Thu, 02 Apr 2026 16:02:23 GMT | The Architect of Shadows: Lyudvig Aslanyan — Elite Infrastructure Security | Starlingkids | [Read More](https://medium.com/p/763db5b6625a) |
 | Thu, 02 Apr 2026 16:00:39 GMT | CyberDefenders — Reveal Lab Writeup | JBXSec | [Read More](https://medium.com/p/35f4f4e1a1f2) |
 | Thu, 02 Apr 2026 15:54:46 GMT | The ‘Jew Tax’ | Dave Schechter | [Read More](https://medium.com/p/4763c1911eda) |
 | Thu, 02 Apr 2026 15:54:38 GMT | The Linux Security Journey — noexec (No Execute) Filesystem Support | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/95ea57f2d4c0) |
@@ -84,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 12:08:47 GMT | The Compliance and Security Debate in Healthcare | Sparkle Web | [Read More](https://medium.com/p/ea7a2a35f8cd) |
 | Thu, 02 Apr 2026 12:05:48 GMT | IoT Cihazlar: Evinizde ki Yabancı | Deniz | [Read More](https://medium.com/p/e095873428f7) |
 | Thu, 02 Apr 2026 12:02:48 GMT | Breaking into new groups of people | Erik Kvam | [Read More](https://medium.com/p/c582dae71f7a) |
-| Thu, 02 Apr 2026 11:56:24 GMT | Blind SQL Injection with Conditional Errors — PortSwigger Lab Writeup | Hitesh kumar | [Read More](https://medium.com/p/f2ba839a4f67) |
-| Thu, 02 Apr 2026 11:56:01 GMT | Keep It Classy, Oracle: 30,000 Pink Slips Delivered by Automation | Namir Sagheenanajar | [Read More](https://medium.com/p/64e0cb1e6845) |
-| Thu, 02 Apr 2026 11:52:54 GMT | TryHackMe — Metasploit: Meterpreter Walkthrough | Mohamed Elshamsi | [Read More](https://medium.com/p/3c3fb2c6f960) |
-| Thu, 02 Apr 2026 11:52:11 GMT | 5 PDF tools that don’t upload your files — and one that gets it completely right | Aservus | [Read More](https://medium.com/p/d600a586b6c4) |
-| Thu, 02 Apr 2026 11:49:23 GMT | Top 15 Mobile App Development Trends 2026 | Mathionix Technologies | [Read More](https://medium.com/p/ea779fd3ac1f) |
-| Thu, 02 Apr 2026 11:48:27 GMT | 【Windows】從網路封包角度了解內網攻擊-LLMNR／NBT-NS Poisoning | segalee | [Read More](https://medium.com/p/082803c0646f) |
-| Thu, 02 Apr 2026 11:44:38 GMT | Claude Code and the Illusion of Safe AI Assistants | Anuradha Sharma | [Read More](https://medium.com/p/c7a0ce01f186) |
-| Thu, 02 Apr 2026 11:41:26 GMT | Piece by Piece — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/b40d45a71411) |
-| Thu, 02 Apr 2026 11:41:01 GMT | AI vs AI Is a Distraction. | Periscope Tech | [Read More](https://medium.com/p/ea627aeae5bf) |
-| Thu, 02 Apr 2026 11:38:26 GMT | AI as the Organizational Black Box: Replacing Human‑Dependent Judgment with Auditable Decisions | Taro  Yamada | [Read More](https://medium.com/p/4c772f1830b4) |
-| Thu, 02 Apr 2026 11:37:16 GMT | Light vs Radio: The War for Wireless | Lumina | [Read More](https://medium.com/p/db5ba4cb74c6) |
-| Thu, 02 Apr 2026 11:26:30 GMT | Is Your Fintech App Truly Secure? Why DPDP Compliance Can’t Be Ignored in India | Anupriya | [Read More](https://medium.com/p/d82807b4b0ed) |
-| Thu, 02 Apr 2026 11:25:02 GMT | npm Black Tuesday: The Day Three Threats Converged on the Same Package Manager | Lakshmi narayana .U | [Read More](https://medium.com/p/8b77791efe59) |
-| Thu, 02 Apr 2026 11:13:21 GMT | The Art of Making Mistakes: A Deep Dive into Dark Web Operator OPSEC Failures | Aether-Intel | [Read More](https://medium.com/p/a46cdd9be204) |
-| Thu, 02 Apr 2026 11:08:43 GMT | The 60 FPS Security Crisis: Why Cloud VMs Are Failing at Real-Time Deepfake Detection | iRexta | [Read More](https://medium.com/p/89f16be8bced) |
-| Thu, 02 Apr 2026 11:08:15 GMT | Digital Safety in 2026: What Everyone Should Know | Deepa | [Read More](https://medium.com/p/753325450f9a) |
-| Thu, 02 Apr 2026 11:07:22 GMT | OSINT Briefing April 2, 2026 — Global Intelligence Analysis, Cyber Threats & Geopolitical Signals | Gianluca Galimberti | [Read More](https://medium.com/p/85de7c3395f0) |
-| Thu, 02 Apr 2026 11:04:36 GMT | WebAssembly Hacking: 7 Practical Examples Every Ethical Hacker Should Master | Very Lazy Tech | [Read More](https://medium.com/p/7e76c6b04073) |
-| Thu, 02 Apr 2026 11:01:17 GMT | Tripod Turnstile by eTradeFia: The Smart Choice for Reliable Access Control | Etradefia | [Read More](https://medium.com/p/7b681e05b607) |
-| Thu, 02 Apr 2026 11:01:01 GMT | Understanding CWE-862: Missing Authorization | Walter Moar | [Read More](https://medium.com/p/eb9f4637d729) |
-| Thu, 02 Apr 2026 11:00:29 GMT | Axios npm compromise—Recreation & PoC write-up | Akshatshirsat | [Read More](https://medium.com/p/302ee17e659b) |
-| Thu, 02 Apr 2026 10:51:01 GMT | The Year 2038 Problem: The Next “Y2K” Waiting to Happen? | Shubham Vartak | [Read More](https://medium.com/p/2ba3fdc72ea5) |
-| Thu, 02 Apr 2026 10:49:06 GMT | Building 7 Lambda Scanners That Find GDPR Violations in 70 Seconds (Part 2) | Roman Ceresnak, PhD | [Read More](https://medium.com/p/8c76b06d6366) |
-| Thu, 02 Apr 2026 10:44:42 GMT | Best Cyber Security Training & Courses in Hyderabad - Online & Corporate Programs | Saikiranversionit | [Read More](https://medium.com/p/b27bbc64eb8d) |
-| Thu, 02 Apr 2026 10:43:30 GMT | The “Remind Me Later” Lie: Why Software Updates Are the Digital Vegetable You Actually Need | Tania Nunes | [Read More](https://medium.com/p/58ae3dc6fc7c) |
-| Thu, 02 Apr 2026 10:41:01 GMT | Your Business Continuity Plan Is Not the Test, Recovery Under Pressure Is | Tyson Martin | [Read More](https://medium.com/p/50b50752ae50) |
-| Thu, 02 Apr 2026 10:38:22 GMT | From Alerts to Actions: How Chat-Native Workflows Are Transforming Security Operations | NetWitness | [Read More](https://medium.com/p/634cc33e5245) |
-| Thu, 02 Apr 2026 10:36:51 GMT | Best End User Support and Help Desk Services in India | Jameswilliamservices | [Read More](https://medium.com/p/8272c7539c22) |
