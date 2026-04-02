@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 22:52:39 GMT | Signal and WhatsApp Don’t Get “Hacked” — People Do | Ilias Armenakis | [Read More](https://medium.com/p/f45ab844cda8) |
+| Thu, 02 Apr 2026 22:45:30 GMT | What to Know About Shareware (and Other Downloadables) | Spokeo People Search | [Read More](https://medium.com/p/62279ea7a64b) |
+| Thu, 02 Apr 2026 22:41:39 GMT | Home Security Company in Houston | AlexBryn | [Read More](https://medium.com/p/a05dbd05698a) |
+| Thu, 02 Apr 2026 22:41:14 GMT | Try Hack Me- Linux Server Forensics Walkthrough | PulseEinher | [Read More](https://medium.com/p/1ca33873e47f) |
+| Thu, 02 Apr 2026 22:35:49 GMT | HIPAA Compliance Checklist (2026): What You Actually Need | Ross | [Read More](https://medium.com/p/fafbc129129e) |
+| Thu, 02 Apr 2026 22:32:31 GMT | TCP/UDP Socket - Paket Manipülasyonu & Online Oyun Güvenliği | Onur Tazefidan | [Read More](https://medium.com/p/ce9ed6359cbe) |
+| Thu, 02 Apr 2026 22:30:10 GMT | Cross-Enterprise Persistence: When Trusted Infrastructure Becomes the Threat | Verity | [Read More](https://medium.com/p/15c5d13114b4) |
+| Thu, 02 Apr 2026 22:12:56 GMT | The Data Embassy: How Small States Are Reinventing Sovereignty in the Digital Age | CCD-IS | [Read More](https://medium.com/p/c84c13fe6ca3) |
+| Thu, 02 Apr 2026 22:07:53 GMT | The Axios NPM Supply Chain Attack: When the Water Supply Gets Poisoned | NeerajB | [Read More](https://medium.com/p/e62ee3b77558) |
+| Thu, 02 Apr 2026 22:07:00 GMT | The Great Browser Heist: Inside BrowserGate, LinkedIn’s Silent 6,000-Extension Surveillance Machine | Mehmet Turgay AKALIN | [Read More](https://medium.com/p/c731898363ea) |
+| Thu, 02 Apr 2026 22:06:44 GMT | The NSA is More Dangerous than Ever Under Trump — Avoid Its Dragnet | Kalen Smith | [Read More](https://medium.com/p/2ba75c4b56b0) |
+| Thu, 02 Apr 2026 21:55:01 GMT | From Idea to Capability: Making Living Off the Land Repeatable | Maretta Morovitz | [Read More](https://medium.com/p/9133e5359736) |
+| Thu, 02 Apr 2026 21:54:07 GMT | Finding the Spark Again: A Cybersecurity Reflection | Rich Hupe | [Read More](https://medium.com/p/db788a6e4eb5) |
 | Thu, 02 Apr 2026 21:50:34 GMT | OverTheWire Bandit Walkthrough — Level 6 → 7 - 30-Day Cybersecurity Learning Journey (Day 7) | William | [Read More](https://medium.com/p/91a5ece54f8f) |
 | Thu, 02 Apr 2026 21:50:11 GMT | How to Install Metasploitable 2 on Mac M1 Using UTM (Complete Guide) | Edward Ramos | [Read More](https://medium.com/p/f62096ef5a53) |
 | Thu, 02 Apr 2026 21:35:01 GMT | The Day the Wallet Went Silent: A Real Look at Blockchain Fraud in Switzerland | Ivona Jovanovic | [Read More](https://medium.com/p/f5ffa5f05e14) |
@@ -51,6 +64,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 19:07:50 GMT | A Realistic 7-Day Timeline of a Cyberattack | Digital Defense | [Read More](https://medium.com/p/4e0c88608b82) |
 | Thu, 02 Apr 2026 19:06:13 GMT | Operation Shadow Proxy: A Walkthrough Of Tracing a Ransomware Using OSINT | Azutech | [Read More](https://medium.com/p/5bb676e049eb) |
 | Thu, 02 Apr 2026 19:03:43 GMT | How I Found a Critical SAML Authentication Bypasson a Major Automotive Company's Dealer Portal | Ousski | [Read More](https://medium.com/p/848b1a33172e) |
+| Thu, 02 Apr 2026 18:59:50 GMT | File Inclusion (LFI/RFI) — Extracting Sensitive Data from config.php - Hackviser Question | Manohar T H | [Read More](https://medium.com/p/021b20180f8e) |
 | Thu, 02 Apr 2026 18:55:22 GMT | The Leak Was Never About the Code | Akansha Sukhija | [Read More](https://medium.com/p/75ac96eb5a42) |
 | Thu, 02 Apr 2026 18:34:50 GMT | AmassAdvanced Recon Mastery: Attack Surface Ko Poora Expose Karo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/7469d748a990) |
 | Thu, 02 Apr 2026 18:30:57 GMT | Exploiting Certificates for Lateral Movement | Pentester Club | [Read More](https://medium.com/p/a2e5c4b0e155) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 16:33:44 GMT | Solución CTF — LazyAdmin | SatoBlack | [Read More](https://medium.com/p/c14da02f163c) |
 | Thu, 02 Apr 2026 16:30:01 GMT | Password Hacking -- Gain Unauthorized Access -- Hire Hacker Today | BlackHat | [Read More](https://medium.com/p/4a8087eb07a6) |
 | Thu, 02 Apr 2026 16:25:47 GMT | Why Most Recon Pipelines Break After a Week | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/75c51e25a261) |
-| Thu, 02 Apr 2026 16:23:17 GMT | The Axios npm Supply Chain Attack (March 2026): A 2-Second Breach Window That Compromised the… | Yug Jadvani | [Read More](https://medium.com/p/77ee33e9ca39) |
-| Thu, 02 Apr 2026 16:20:00 GMT | PentAGI: Autonomous AI Agents for Cybersecurity Testing | Pentester Club | [Read More](https://medium.com/p/1d8e6bc70667) |
-| Thu, 02 Apr 2026 16:18:25 GMT | How Sharing What I Feel Turned Out to be My Biggest Mistake | Ashna Geete | [Read More](https://medium.com/p/d280d465e104) |
-| Thu, 02 Apr 2026 16:16:01 GMT | Building secure workflow systems requires strong authentication, clear authorization rules, and… | Shikha Nirankari | [Read More](https://medium.com/p/22e95edae220) |
-| Thu, 02 Apr 2026 16:15:06 GMT | How a Public Anon Key Led to Full Database Compromise | Tyreek Haynes | [Read More](https://medium.com/p/a58f065d367e) |
-| Thu, 02 Apr 2026 16:11:18 GMT | What Nobody Tells You When You’re Looking for a Security Guard Company in Oakland | Uniworth security Editorial | [Read More](https://medium.com/p/20b300d20bde) |
-| Thu, 02 Apr 2026 16:07:49 GMT | Exploiting path mapping for web cache deception attack | Mohakgrover | [Read More](https://medium.com/p/5574f1983c4a) |
-| Thu, 02 Apr 2026 16:05:42 GMT | MVVM 是什麼？與 MVC 的分別 | 思維舞步 MindSteps | [Read More](https://medium.com/p/ad0895699e39) |
-| Thu, 02 Apr 2026 16:03:48 GMT | Reverse Engineering a WhatsApp 0-Click Vulnerability: A Deep Dive into CVE-2025–43300 | Krishna Kumar | [Read More](https://medium.com/p/d8d425644fe9) |
-| Thu, 02 Apr 2026 16:02:23 GMT | The Architect of Shadows: Lyudvig Aslanyan — Elite Infrastructure Security | Starlingkids | [Read More](https://medium.com/p/763db5b6625a) |
-| Thu, 02 Apr 2026 16:00:39 GMT | CyberDefenders — Reveal Lab Writeup | JBXSec | [Read More](https://medium.com/p/35f4f4e1a1f2) |
-| Thu, 02 Apr 2026 15:54:46 GMT | The ‘Jew Tax’ | Dave Schechter | [Read More](https://medium.com/p/4763c1911eda) |
-| Thu, 02 Apr 2026 15:54:38 GMT | The Linux Security Journey — noexec (No Execute) Filesystem Support | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/95ea57f2d4c0) |
-| Thu, 02 Apr 2026 15:52:53 GMT | Understanding New Dark Web Marketplaces and Emerging Trends | Tor BBB | [Read More](https://medium.com/p/807d28f872af) |
