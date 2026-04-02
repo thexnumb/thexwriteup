@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 09:32:56 GMT | The Infinite Money Glitch: Exploiting a Race Condition in a Fintech App | 0xHer0 | [Read More](https://medium.com/p/de84d1f954be) |
+| Thu, 02 Apr 2026 09:21:48 GMT | The future runs on AI and data. | Datavex AI Pvt Ltd | [Read More](https://medium.com/p/35471451c4ef) |
+| Thu, 02 Apr 2026 09:13:15 GMT | Simulating Real Network Attacks in a Virtual Lab: From Scanning to Detection | Bansari patel | [Read More](https://medium.com/p/9a4703863fe9) |
+| Thu, 02 Apr 2026 09:09:30 GMT | The Code You Trust Isn’t Yours Anymore — Welcome to Software Supply Chain Security | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/b9c30f1474ec) |
+| Thu, 02 Apr 2026 09:01:03 GMT | Breaking down NIST CSF v2.0 in plain English. | Gaurav Shukla | [Read More](https://medium.com/p/eec2675b9fe3) |
+| Thu, 02 Apr 2026 08:59:06 GMT | Why GuardianWatch Is the Best Personal Safety App Everyone Should Be Using in 2026 | SYLVESTER | [Read More](https://medium.com/p/636793e6fc12) |
+| Thu, 02 Apr 2026 08:52:43 GMT | Why Businesses Need Sustainability Services Today | Digital Duffer | [Read More](https://medium.com/p/d9be81709967) |
+| Thu, 02 Apr 2026 08:52:04 GMT | Compliance vs Security: Why Audits Still Miss Breaches | Pentest_Testing_Corp | [Read More](https://medium.com/p/6412f7228a7b) |
+| Thu, 02 Apr 2026 08:51:04 GMT | Manned Hourly Services: Flexible Security Solutions for Modern Businesses | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/cafa1d7d13a9) |
+| Thu, 02 Apr 2026 08:43:14 GMT | Perplexity AI Is Allegedly Sharing Your Private Conversations with Meta and Google. | Utkarsh Agrawal | [Read More](https://medium.com/p/debd8d5dfd18) |
+| Thu, 02 Apr 2026 08:40:56 GMT | Why Businesses Need Reliable ESG Reporting to Meet Growing Compliance Demands | Digital Duffer | [Read More](https://medium.com/p/483af423ee70) |
+| Thu, 02 Apr 2026 08:30:17 GMT | I Got Tired of Trusting Strangers With My Passwords — So I Built My Own Vault | Pavithraa Deenadayalan | [Read More](https://medium.com/p/c0f173411539) |
+| Thu, 02 Apr 2026 08:28:07 GMT | ISMS Policy vs. Product Security Policy | Frank Leitner | [Read More](https://medium.com/p/d1f982919506) |
+| Thu, 02 Apr 2026 08:23:39 GMT | Cross-Site Scripting (XSS) Deep Dive: Türleri, Senaryoları ve Etkileri | Mevlüt Kamalı | [Read More](https://medium.com/p/1c73d455e11a) |
+| Thu, 02 Apr 2026 08:18:53 GMT | Is AI Our Ultimate Tool or a New Rival ? | Barvadiyavaidik | [Read More](https://medium.com/p/d8f05373fd0b) |
+| Thu, 02 Apr 2026 08:18:24 GMT | The Axios Supply Chain Attack of 2026: Why Your package.json is a Security Time Bomb | Kushal | [Read More](https://medium.com/p/b326ec826a09) |
+| Thu, 02 Apr 2026 08:16:21 GMT | Solana Drift Protocol Exploit (April 2026) | Dinar Kadri | [Read More](https://medium.com/p/e5aaa5b3c38f) |
+| Thu, 02 Apr 2026 08:15:57 GMT | The Axios Supply Chain Attack | Vasu Sharma | [Read More](https://medium.com/p/a7659f2bd698) |
+| Thu, 02 Apr 2026 08:12:50 GMT | Best Cyber Security Certification Courses After 12th for Beginners | cyber security Updates | [Read More](https://medium.com/p/df8486732b10) |
+| Thu, 02 Apr 2026 08:05:10 GMT | How to Handle Sensitive Data Securely in Terraform | SarahCanCode | [Read More](https://medium.com/p/817850c7972e) |
+| Thu, 02 Apr 2026 08:01:31 GMT | CYBER PREMIUM LEAGUE (CPL) QUALIFIERS CTF WRITEUP -- CYBERSIMBA INITIATIVE | XOBlackburn | [Read More](https://medium.com/p/da59c551ebdd) |
 | Thu, 02 Apr 2026 07:58:32 GMT | Is Voice AI Safe to Use in Your Business? What You Need to Know Before Deploying | AI for Call Centers | [Read More](https://medium.com/p/fb4f6f61702a) |
 | Thu, 02 Apr 2026 07:56:43 GMT | AI 也有家規？OpenAI 發表 Model Spec，揭秘 AI 如何學會「守規矩」 | Penguin Voice | [Read More](https://medium.com/p/e29e5f2289a0) |
 | Thu, 02 Apr 2026 07:52:41 GMT | Vim’s Partial Patch Problem: 14+ Heap Overflows Left Behind After CVE-2026–28421 | FengNing_Architect | [Read More](https://medium.com/p/95c3b6863642) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 01:27:06 GMT | CVE-2025–50946 Walkthrough (Proving ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/02457e13a0b1) |
 | Thu, 02 Apr 2026 01:23:40 GMT | TryHackMe — Water Bottle Write-up | G1assioS | [Read More](https://medium.com/p/38c94bab78f9) |
 | Thu, 02 Apr 2026 01:23:17 GMT | I replaced Audible with a Raspberry Pi! | ZeakPeak | [Read More](https://medium.com/p/4d9e92497a47) |
-| Thu, 02 Apr 2026 01:14:22 GMT | Convite BSides RJ: Carimbei minha Presença | DevSecOps from Zero‍️ | [Read More](https://medium.com/p/3727a9655cc1) |
-| Thu, 02 Apr 2026 01:12:48 GMT | From Chaos to System: Lessons from Building Structure in Security Operations | feanneb | [Read More](https://medium.com/p/f872b08b6e76) |
-| Thu, 02 Apr 2026 01:10:04 GMT | How South Korea’s Geography Affects Its Security | Saiakshar Manimaran | [Read More](https://medium.com/p/3839c7a5ffa2) |
-| Thu, 02 Apr 2026 01:01:40 GMT | Hackers Can Bypass Your MFA In 2026 (And How To Stop It) | Shahzaib | [Read More](https://medium.com/p/3c44d71e63c0) |
-| Thu, 02 Apr 2026 01:01:02 GMT | [Dune: Part One] Survival Strategies for Resource Wars and Environmental Adaptation | MonoEssay | [Read More](https://medium.com/p/2ac48f869802) |
-| Thu, 02 Apr 2026 00:08:02 GMT | Cybersecurity Can Learn from the Artemis Launch | Matthew.Rosenquist | [Read More](https://medium.com/p/84a7f663f5aa) |
-| Thu, 02 Apr 2026 00:06:36 GMT | Can Old Ladies Find Love? | Yredewill | [Read More](https://medium.com/p/16ea849b2159) |
-| Thu, 02 Apr 2026 00:00:49 GMT | NoVoice Rootkit Hits Google Play | Blackout VPN | [Read More](https://medium.com/p/f489ca873e60) |
-| Wed, 01 Apr 2026 23:48:13 GMT | This One Mistake Can Break Your Entire Security System | Dibeesh KS | [Read More](https://medium.com/p/fd5a2a0e1a38) |
-| Wed, 01 Apr 2026 23:45:14 GMT | AWS Frontier Agents Dissected: What Security Agent and DevOps Agent Actually Do Under the Hood | Erick Mancz | [Read More](https://medium.com/p/e97b49feabb6) |
-| Wed, 01 Apr 2026 23:42:00 GMT | Burp-Only IDOR Hunting — Find Broken Authorization Without Fancy Tools | ghostyjoe | [Read More](https://medium.com/p/efc9f9f4cc52) |
-| Wed, 01 Apr 2026 23:33:52 GMT | Stop Fighting Chaos in the Age of AI | Donnie Gibbs | [Read More](https://medium.com/p/9426111803ef) |
-| Wed, 01 Apr 2026 23:24:30 GMT | GoatseLinux vulnhub machine writeup | Dexter Morgan | [Read More](https://medium.com/p/76cbbb6d142f) |
-| Wed, 01 Apr 2026 23:16:47 GMT | cybertalents: Admin has the power | D_A_R_K | [Read More](https://medium.com/p/61e4f3dcfdfc) |
-| Wed, 01 Apr 2026 23:00:30 GMT | How to Hunt IDORs When IDs Are UUIDs (Not Integers) Lab: User ID controlled by request parameter… | morgan_hack | [Read More](https://medium.com/p/4c54aa5cc650) |
-| Wed, 01 Apr 2026 23:00:06 GMT | The Most Valuable Thing You Type Isn’t Your Password | Zsearchai | [Read More](https://medium.com/p/124ae154065b) |
-| Wed, 01 Apr 2026 22:58:26 GMT | Claude Code’s Source Didn’t Leak. It Was Already Public for Years. | Nikita Savchenko | [Read More](https://medium.com/p/5b6276c44d75) |
-| Wed, 01 Apr 2026 22:42:29 GMT | Containerized Pipeline Security Assessment Framework: A Strategic Hardening Guide | Chungwon So | [Read More](https://medium.com/p/6431734d31a1) |
-| Wed, 01 Apr 2026 22:40:15 GMT | How can you stop someone from blackmailing you? | ZeroTracee | [Read More](https://medium.com/p/7159274d257b) |
-| Wed, 01 Apr 2026 22:36:57 GMT | Stop Flexing Domain Admin — It’s Not Impressive Anymore | Yua Mikanana | [Read More](https://medium.com/p/715e39667b8f) |
-| Wed, 01 Apr 2026 22:36:48 GMT | I almost lost my Bitcoin to scammers | ZeroTracee | [Read More](https://medium.com/p/6b51ab8271da) |
