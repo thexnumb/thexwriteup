@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 21:50:34 GMT | OverTheWire Bandit Walkthrough — Level 6 → 7 - 30-Day Cybersecurity Learning Journey (Day 7) | William | [Read More](https://medium.com/p/91a5ece54f8f) |
+| Thu, 02 Apr 2026 21:50:11 GMT | How to Install Metasploitable 2 on Mac M1 Using UTM (Complete Guide) | Edward Ramos | [Read More](https://medium.com/p/f62096ef5a53) |
+| Thu, 02 Apr 2026 21:35:01 GMT | The Day the Wallet Went Silent: A Real Look at Blockchain Fraud in Switzerland | Ivona Jovanovic | [Read More](https://medium.com/p/f5ffa5f05e14) |
+| Thu, 02 Apr 2026 21:33:19 GMT | Weaponizing BYOVD to Kill and Evade Windows Defender | S12 - 0x12Dark Development | [Read More](https://medium.com/p/535ad94652b0) |
+| Thu, 02 Apr 2026 21:31:01 GMT | The LPG Shortage Trap: How Scammers Use Panic to Empty Your Wallet. | Lalit Tech Savvy | [Read More](https://medium.com/p/c6d7540cb26b) |
+| Thu, 02 Apr 2026 21:23:59 GMT | Who is Ömer Akın? Founder of Quantum Intelligence Hub and International Trade Strategist | Omer Akin | [Read More](https://medium.com/p/ac96ae066119) |
+| Thu, 02 Apr 2026 21:22:48 GMT | When Smart Isn’t Enough: The Real Bar for AI in Enterprise and Security-Critical Systems | Aditya Ladage | [Read More](https://medium.com/p/7db998c8b950) |
+| Thu, 02 Apr 2026 21:20:28 GMT | What Every Cyber Security Analyst Should Be Monitoring Daily | Nauman Aslam | [Read More](https://medium.com/p/e603d357f9f1) |
+| Thu, 02 Apr 2026 21:17:38 GMT | CVE-2023–6019 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/067cae70085d) |
+| Thu, 02 Apr 2026 21:11:03 GMT | Building a security program for edtech when your customers are the auditors | Nicolas Corder | [Read More](https://medium.com/p/b00f03b2b475) |
+| Thu, 02 Apr 2026 21:07:52 GMT | Bypass de Certificate Pinning em Android Sem Frida usando apk-mitm | Isaac Louzeiro | [Read More](https://medium.com/p/5593c53825f2) |
+| Thu, 02 Apr 2026 21:03:19 GMT | OWASP ASVS is one of the best things in AppSec. Most engineering teams will never use it properly. | Kay A | [Read More](https://medium.com/p/2a21b14c92eb) |
+| Thu, 02 Apr 2026 21:02:40 GMT | I Refused to Put OpenClaw on My Local Machine, So I Offshored to AWS Instead | Janet Xiu Shi | [Read More](https://medium.com/p/90ca441750ee) |
 | Thu, 02 Apr 2026 21:01:02 GMT | Unfiltered Restart — Day 40: Troubleshooting | Maximillian Rueda | [Read More](https://medium.com/p/0e1b84fecd77) |
+| Thu, 02 Apr 2026 21:01:01 GMT | Extending Snowflake Trust Center — Native Security Posture Management | Samir Kakkar | [Read More](https://medium.com/p/75a2d268a292) |
+| Thu, 02 Apr 2026 20:58:47 GMT | Things Fall Apart | Marshall Jung | [Read More](https://medium.com/p/c5ed14cf8e76) |
+| Thu, 02 Apr 2026 20:56:05 GMT | RSAC 2026: Industry Shifts Toward Autonomous SOC and AI Security | Vladislav Babiuk | [Read More](https://medium.com/p/46fe2bc0d9b0) |
 | Thu, 02 Apr 2026 20:45:57 GMT | “You’re So Diligent” and “You’re Useless” — Heard on the Same Day, at the Same Job | masa tatsumura | [Read More](https://medium.com/p/687165d95db9) |
 | Thu, 02 Apr 2026 20:37:54 GMT | Anthropic Accidentally Leaked 512,000 Lines of Claude Code | Abhi | [Read More](https://medium.com/p/c4ba1cbf0d4b) |
 | Thu, 02 Apr 2026 20:30:57 GMT | Undercover mode, decoy tools, and a 3,167-line function: inside Claude Code’s leaked source | Liran Baba | [Read More](https://medium.com/p/26573fec2c12) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 15:54:46 GMT | The ‘Jew Tax’ | Dave Schechter | [Read More](https://medium.com/p/4763c1911eda) |
 | Thu, 02 Apr 2026 15:54:38 GMT | The Linux Security Journey — noexec (No Execute) Filesystem Support | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/95ea57f2d4c0) |
 | Thu, 02 Apr 2026 15:52:53 GMT | Understanding New Dark Web Marketplaces and Emerging Trends | Tor BBB | [Read More](https://medium.com/p/807d28f872af) |
-| Thu, 02 Apr 2026 15:46:23 GMT | S1: Security Is a Design Decision | Kavita Mittal | [Read More](https://medium.com/p/b7f2784639da) |
-| Thu, 02 Apr 2026 15:46:01 GMT | The Blessing of a Closed Port: How CGNAT Forced Me to Build a Better Homelab | Aidan Leddy | [Read More](https://medium.com/p/19a42a07b5a2) |
-| Thu, 02 Apr 2026 15:43:06 GMT | Signs husband is cheating at work? | Michael Parks | [Read More](https://medium.com/p/0332d150e8c4) |
-| Thu, 02 Apr 2026 15:42:57 GMT | Who Needs PCI DSS Certification in Europe? | 7secGMBH | [Read More](https://medium.com/p/e6728b238c5b) |
-| Thu, 02 Apr 2026 15:40:12 GMT | Anthropic Accidentally Shipped Their Entire Source Code in an npm Package. | Dhanush N | [Read More](https://medium.com/p/36e5f993c1c2) |
-| Thu, 02 Apr 2026 15:39:03 GMT | Cybersecurity in Retail: Key Threats & Defense Mechanisms | Auth Thoughts Editors | [Read More](https://medium.com/p/e51b5f718731) |
-| Thu, 02 Apr 2026 15:28:31 GMT | O Primeiro passo é o mais importante! | Philipe Monterrazo | [Read More](https://medium.com/p/208de7c3c5d2) |
-| Thu, 02 Apr 2026 15:27:55 GMT | HaskHell (THM) Tryhackme WriteUp Only Answer | Lawvye | [Read More](https://medium.com/p/b47fb39434e0) |
-| Thu, 02 Apr 2026 15:25:37 GMT | Why MFA and passkeys are your first line of defence in 2026 | Static Computers | [Read More](https://medium.com/p/fe382ddc3cb0) |
-| Thu, 02 Apr 2026 15:18:59 GMT | Design First. Secure First. Code Later. | Kavita Mittal | [Read More](https://medium.com/p/6a528ae50d07) |
-| Thu, 02 Apr 2026 15:18:36 GMT | ️Unmasking the Battlefield: Understanding the Professional Hacker Mindset | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/f74362a42014) |
-| Thu, 02 Apr 2026 15:12:50 GMT | AI agents are no longer tools. They are autonomous actors inside enterprise systems. | Neuralcoretech | [Read More](https://medium.com/p/1c89c0363279) |
-| Thu, 02 Apr 2026 15:03:44 GMT | How to Build a Simple Proxy Pool for Automation (Developer Guide) | Patricia Morales | [Read More](https://medium.com/p/324d2191a1b1) |
-| Thu, 02 Apr 2026 14:59:14 GMT | Building a Sustainable Future with alternative energy sources | International Data Center Authority | [Read More](https://medium.com/p/b7f4f801ddcb) |
-| Thu, 02 Apr 2026 14:54:28 GMT | Trust, It’s a Bitch to Get Back | Jackie Waters | [Read More](https://medium.com/p/96a797d454a4) |
-| Thu, 02 Apr 2026 14:53:46 GMT | Phishing Email Analysis SOC Analyst Guide Part-3 Understanding the Email Flow-1. | Vaibhavrajsahu | [Read More](https://medium.com/p/86379c28c02e) |
