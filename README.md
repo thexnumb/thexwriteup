@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 23:16:03 GMT | Would You Rather Be Free, or Be Loved? | Monjolajesu Jawo | [Read More](https://medium.com/p/f4f46eadaf7e) |
+| Thu, 02 Apr 2026 23:15:22 GMT | The Story of Josiah Dhev: From a Challenging Upbringing to Teen Tech Visionary | DevPulseJournal | [Read More](https://medium.com/p/7fa9e079acb6) |
+| Thu, 02 Apr 2026 22:56:54 GMT | How SSO Supports Zero Trust | Jake | [Read More](https://medium.com/p/84eb243c2159) |
+| Thu, 02 Apr 2026 22:56:26 GMT | leapstack.vn: Data Breach Approximately 100 GB of health insurance claims accidentally exposed | chum1ng0 | [Read More](https://medium.com/p/c8f4da4b76f2) |
 | Thu, 02 Apr 2026 22:52:39 GMT | Signal and WhatsApp Don’t Get “Hacked” — People Do | Ilias Armenakis | [Read More](https://medium.com/p/f45ab844cda8) |
 | Thu, 02 Apr 2026 22:45:30 GMT | What to Know About Shareware (and Other Downloadables) | Spokeo People Search | [Read More](https://medium.com/p/62279ea7a64b) |
 | Thu, 02 Apr 2026 22:41:39 GMT | Home Security Company in Houston | AlexBryn | [Read More](https://medium.com/p/a05dbd05698a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 16:45:42 GMT | A Human Guide to Modern Cybersecurity | Aravind sathyajith | [Read More](https://medium.com/p/843eb3c166ce) |
 | Thu, 02 Apr 2026 16:42:45 GMT | The Price of Keeping it together All by Yourself | Hugo Pan | [Read More](https://medium.com/p/61749833dc93) |
 | Thu, 02 Apr 2026 16:37:14 GMT | Solución CTF — Year of the Rabbit | SatoBlack | [Read More](https://medium.com/p/d9b29fa79c1b) |
-| Thu, 02 Apr 2026 16:35:14 GMT | Ataque Crítico no PAN-OS! | Otávio Alves | [Read More](https://medium.com/p/e9f45768e947) |
-| Thu, 02 Apr 2026 16:33:44 GMT | Solución CTF — LazyAdmin | SatoBlack | [Read More](https://medium.com/p/c14da02f163c) |
-| Thu, 02 Apr 2026 16:30:01 GMT | Password Hacking -- Gain Unauthorized Access -- Hire Hacker Today | BlackHat | [Read More](https://medium.com/p/4a8087eb07a6) |
-| Thu, 02 Apr 2026 16:25:47 GMT | Why Most Recon Pipelines Break After a Week | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/75c51e25a261) |
