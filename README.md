@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 19:59:43 GMT | What if your Linux system is already under attack — and you don’t even know it? | Farahejaz | [Read More](https://medium.com/p/62a7f3db132d) |
+| Thu, 02 Apr 2026 19:49:42 GMT | Warehouse Security Services in Dallas, TX | Twin City Security Dallas | [Read More](https://medium.com/p/a44ee8448bb3) |
+| Thu, 02 Apr 2026 19:45:00 GMT | Insecure File Upload in KYC Systems - When the Document Verification Process Becomes an Open Door | Rufus Kehinde | [Read More](https://medium.com/p/4e13dac469e6) |
+| Thu, 02 Apr 2026 19:42:40 GMT | The Upgrade Problem: Why Proxy Safety Is Still One of Web3’s Most Misunderstood Risks | Exploitless | [Read More](https://medium.com/p/76617a1c9fec) |
+| Thu, 02 Apr 2026 19:37:57 GMT | The CIA is so scared of AI it is reviving old-school, Cold War Era Spycraft… | BizTech Weekly | [Read More](https://medium.com/p/53d6f485311c) |
+| Thu, 02 Apr 2026 19:35:26 GMT | Your Cookie Scanner Just Doubled Its Price. Here’s What It Still Doesn’t Check. | Steven - TrustYourWebsite | [Read More](https://medium.com/p/03647d148aae) |
+| Thu, 02 Apr 2026 19:28:26 GMT | The Axios Attack Happened Because of One npm install. Here is How to Protect Yourself | faydevlop | [Read More](https://medium.com/p/83a039bbbd25) |
+| Thu, 02 Apr 2026 19:24:17 GMT | AI Agent Traps: New War for the Web | Mayur Jain | [Read More](https://medium.com/p/0fd7dfc5dce6) |
+| Thu, 02 Apr 2026 19:23:39 GMT | Analysis of Password Managers | DISHA GUPTA | [Read More](https://medium.com/p/a593bae00898) |
 | Thu, 02 Apr 2026 19:07:50 GMT | A Realistic 7-Day Timeline of a Cyberattack | Digital Defense | [Read More](https://medium.com/p/4e0c88608b82) |
 | Thu, 02 Apr 2026 19:06:13 GMT | Operation Shadow Proxy: A Walkthrough Of Tracing a Ransomware Using OSINT | Azutech | [Read More](https://medium.com/p/5bb676e049eb) |
 | Thu, 02 Apr 2026 19:03:43 GMT | How I Found a Critical SAML Authentication Bypasson a Major Automotive Company's Dealer Portal | Ousski | [Read More](https://medium.com/p/848b1a33172e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 14:01:52 GMT | From Reactive to Proactive: 5 Steps to SOC Maturity with Threat Intelligence | ANY.RUN | [Read More](https://medium.com/p/1fdf5d33e6e9) |
 | Thu, 02 Apr 2026 14:01:02 GMT | Cyber Briefing: 2026.04.02 | CyberMaterial | [Read More](https://medium.com/p/5791f7cefff3) |
 | Thu, 02 Apr 2026 14:00:26 GMT | Beyond the Chat: WhatsApp as a Gateway for MSI Backdoors | Φiriki Intelligence | [Read More](https://medium.com/p/d32e9b634caf) |
-| Thu, 02 Apr 2026 13:59:44 GMT | Your AI Agent Has a Security Problem You Haven’t Thought About | CyberRaya | [Read More](https://medium.com/p/5f21331f36fd) |
-| Thu, 02 Apr 2026 13:59:18 GMT | Getting In Is Not the Same as Having Access | Rashad Edwards | [Read More](https://medium.com/p/acce8cbdbc8a) |
-| Thu, 02 Apr 2026 13:56:02 GMT | We Cried About Our Exes on a First Date. She Came Back for a Second. | Zach Hain | [Read More](https://medium.com/p/d36f7aa4f128) |
-| Thu, 02 Apr 2026 13:55:52 GMT | The Minimum Security Baseline for MicroSaaS in 2026 | Madhuranga Rathnayaka | [Read More](https://medium.com/p/64800d58b59a) |
-| Thu, 02 Apr 2026 13:54:41 GMT | The Human Aftermath of Fraud: Psychological, Emotional, and Behavioral Impact | Dr Mehmet Yildiz | [Read More](https://medium.com/p/46801a647a87) |
-| Thu, 02 Apr 2026 13:51:40 GMT | Securing the Remote Workforce: How Meraki Teleworker Gateways Deliver | Novbox | [Read More](https://medium.com/p/84a9003843e1) |
-| Thu, 02 Apr 2026 13:42:47 GMT | How I Found Internal Products Exposed via API | Dheeraj | [Read More](https://medium.com/p/ae2582ea9498) |
-| Thu, 02 Apr 2026 13:36:56 GMT | Your Photos Are Exposing You — Here’s How to Stop It | Aamir sidque | [Read More](https://medium.com/p/88afad7476f5) |
-| Thu, 02 Apr 2026 13:31:20 GMT | Hot Wheels Shopify Store Growth: 11 Proven Hacks to Increase Sales Fast | A1castcar | [Read More](https://medium.com/p/1be819c973a5) |
