@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 06:36:37 GMT | Building AI Agents That Actually Work: A Practical Guide with Nanobot | Datavex AI Pvt Ltd | [Read More](https://medium.com/p/3a5b8574715c) |
+| Thu, 02 Apr 2026 06:35:58 GMT | Anthropic Built an “Undercover Mode” to Ghost-Write Open Source Commits. | Aayush Pandey | [Read More](https://medium.com/p/8e1ab97035ff) |
+| Thu, 02 Apr 2026 06:33:34 GMT | The Hidden Layer of the Internet You Only See Through Wireshark | Fateyaly | [Read More](https://medium.com/p/8e64d19cef21) |
+| Thu, 02 Apr 2026 06:32:09 GMT | Beyond the Dashboard: What It Really Takes to Excel as a SOC Analyst | Aditya InfosecTrain | [Read More](https://medium.com/p/70ff4599bc28) |
+| Thu, 02 Apr 2026 06:31:01 GMT | How AI Agents Are Scaling Credential Stuffing in SaaS Environments | Sanista Ramphal | [Read More](https://medium.com/p/1bcc23684ff4) |
+| Thu, 02 Apr 2026 06:29:51 GMT | Beyond the IP: The Hidden World of ARP and the “Invisible” Middleman | Sriranjan Kapilan | [Read More](https://medium.com/p/b943f08927c3) |
+| Thu, 02 Apr 2026 06:25:15 GMT | Admin Portal Hijacking — Bug Bounty Writeup | Mostafa Alrefai | [Read More](https://medium.com/p/9c2afc43dcea) |
+| Thu, 02 Apr 2026 06:24:12 GMT | Why Your WordPress Security is Failing in the AI Era: A DevOps Perspective | Momenul Ahmad | [Read More](https://medium.com/p/7a59fc5067ee) |
+| Thu, 02 Apr 2026 06:24:02 GMT | ประจำวันพฤหัสบดีที่ 2 เมษายน 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/4996aa212255) |
+| Thu, 02 Apr 2026 06:22:27 GMT | Cheapest Google Workspace Pricing in India | amyntas media works | [Read More](https://medium.com/p/008aa6e2cacf) |
+| Thu, 02 Apr 2026 06:22:26 GMT | What is Firewall? Cyber Security Training with Hands-on Configuration & Labs | Network Kings | [Read More](https://medium.com/p/373ed58cd602) |
+| Thu, 02 Apr 2026 06:21:37 GMT | Everything I Run… on a $150 Home Server | Nithish Kumar Gattu Ashok | [Read More](https://medium.com/p/6d9bf9957497) |
+| Thu, 02 Apr 2026 06:04:10 GMT | Penetration Testing Statistics 2026: Why Testing Matters | Atamzid | [Read More](https://medium.com/p/e55ddeb979d4) |
+| Thu, 02 Apr 2026 06:01:02 GMT | No One Owned Security… And That Was the Problem | Hazel Chirinda | [Read More](https://medium.com/p/358049c1a2ec) |
+| Thu, 02 Apr 2026 05:59:24 GMT | Microsoft Warns of WhatsApp-Delivered VBS Malware That Hijacks Windows Through UAC Bypass | Germano Costi | [Read More](https://medium.com/p/16f2bd394717) |
+| Thu, 02 Apr 2026 05:51:01 GMT | Critical Thinking Frameworks and Tools (Part 1) | Taania | [Read More](https://medium.com/p/fb15b2089de6) |
+| Thu, 02 Apr 2026 05:38:35 GMT | Anthropic Accidentally Leaked All of Claude Code’s Source Code | Rachana Gupta | [Read More](https://medium.com/p/c875ef9d2ced) |
+| Thu, 02 Apr 2026 05:35:20 GMT | My VAPT Intern Interview Experience — From LinkedIn Application to Selection | Sumit Raj | [Read More](https://medium.com/p/5d5c6949e1af) |
+| Thu, 02 Apr 2026 05:27:38 GMT | I Spent 25 Years Looking for the Right Leadership Style. There Isn’t One. | Sakti Bagchi | [Read More](https://medium.com/p/447886d7baec) |
+| Thu, 02 Apr 2026 05:16:01 GMT | I’m Playing with the Eastern Mediterranean Like It’s a Jigsaw Puzzle — Part II | Gökçen Kunukcu | [Read More](https://medium.com/p/16b26de9137e) |
+| Thu, 02 Apr 2026 05:10:59 GMT | TryHackMe · Nmap: The Basics | ArtF412 | [Read More](https://medium.com/p/6883d7334691) |
 | Thu, 02 Apr 2026 04:55:49 GMT | Becomes the Entry Point: Inside the Latest Chrome Zero-Day | Sharanraju | [Read More](https://medium.com/p/d2782b4487f3) |
 | Thu, 02 Apr 2026 04:44:02 GMT | Beyond MFA: Detecting “Identity Teleportation” in the Age of AI | Shubham Waghilkar | [Read More](https://medium.com/p/551c3f77e6d5) |
 | Thu, 02 Apr 2026 04:42:37 GMT | VaultMind Session 4: Going Live — Railway, Vercel, and Zero Commands Forever | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/fb84078c06cc) |
@@ -92,24 +113,3 @@ Dynamic Location Metadata… | Yahya Ahmed | [Read More](https://medium.com/p/f7
 | Wed, 01 Apr 2026 20:35:31 GMT | Siber Güvenlik: Sadece Büyük Şirketlerin Değil, Herkesin Meselesi | HSD Topkapı | [Read More](https://medium.com/p/53fa48c29f7f) |
 | Wed, 01 Apr 2026 20:31:02 GMT | Common Mistakes Made by Cybersecurity Beginners | PriOFF | [Read More](https://medium.com/p/f55264e88c9f) |
 | Wed, 01 Apr 2026 20:29:00 GMT | Host & Network Penetration Testing: Exploitation CTF 3 | Vanshaj Kumar | [Read More](https://medium.com/p/92f5bab98a05) |
-| Wed, 01 Apr 2026 20:26:32 GMT | Why Ransomware Recovery Often Matters More Than Prevention | Mark Lynd | [Read More](https://medium.com/p/0e8d9e53a776) |
-| Wed, 01 Apr 2026 20:25:28 GMT | Claude Found a Kernel Zero-Day. Nobody Expected That Was Possible Yet. | Ryann - Digital Systems Architect | [Read More](https://medium.com/p/2407e703a0f7) |
-| Wed, 01 Apr 2026 20:16:17 GMT | From AiTM to Endpoint: Dissecting a Multi-Stage Microsoft 365 Credential Harvesting and… | Rhishav Kanjilal | [Read More](https://medium.com/p/c0a2c1409e37) |
-| Wed, 01 Apr 2026 20:13:27 GMT | The “Peon-er Chithi” from Hell: How a 50KB JSON Payload Nearly Toppled a Visa Booking System | Mohammad Abir Abbas | [Read More](https://medium.com/p/3efc3ca64315) |
-| Wed, 01 Apr 2026 20:11:51 GMT | Where the Wild Things Are: How to Become the King of AI Agents by Embracing the Chaos | MITRE Engage | [Read More](https://medium.com/p/6674ad3ce3b8) |
-| Wed, 01 Apr 2026 20:11:46 GMT | One Mobile Number = Full Wishlist Takeover (No Authentication Required) | Aya Ayman(GERR4Y) | [Read More](https://medium.com/p/16f92ac74e2d) |
-| Wed, 01 Apr 2026 20:08:39 GMT | Breaking It During a Hackathon | debang5hu | [Read More](https://medium.com/p/bb2f56da2ab7) |
-| Wed, 01 Apr 2026 19:51:12 GMT | Security Is Not a Feature You Add at the End. | Rituraj | [Read More](https://medium.com/p/b1dc46f54749) |
-| Wed, 01 Apr 2026 19:51:01 GMT | 512,000 Lines of Secret AI Code Were Public on npm — No Hacking Required | Abhinav | [Read More](https://medium.com/p/16291cfd70bf) |
-| Wed, 01 Apr 2026 19:51:01 GMT | Wazuh: CVE-2026–25769 - TryHackMe | Jose Praveen | [Read More](https://medium.com/p/25caf857338b) |
-| Wed, 01 Apr 2026 19:46:01 GMT | AI Didn’t Fail. The Release Process Did: Lessons from the Anthropic Claude Code Exposure | Anshita Bhasin | [Read More](https://medium.com/p/053f03f77ca5) |
-| Wed, 01 Apr 2026 19:41:12 GMT | The Axios Compromise: Anatomy of a Massive Supply Chain Attack | Iam Tariq Bashir | [Read More](https://medium.com/p/ded23bf352c4) |
-| Wed, 01 Apr 2026 19:35:43 GMT | Host & Network Penetration Testing: Exploitation CTF 2 | Vanshaj Kumar | [Read More](https://medium.com/p/97d5f0a902e5) |
-| Wed, 01 Apr 2026 19:20:15 GMT | Remote Work Didn’t Break Security — Bad Architecture Did | JSOC IT BLOG | [Read More](https://medium.com/p/1b04646a75c2) |
-| Wed, 01 Apr 2026 19:18:26 GMT | Claude Code Just Got Leaked. Here’s Why It Might Be the Smartest “Accident” in AI History. | Pauleta | [Read More](https://medium.com/p/1491bc7498cd) |
-| Wed, 01 Apr 2026 19:10:38 GMT | Best VPN in 2026? Test This First Before You Buy | Theodore Uzun | [Read More](https://medium.com/p/58986a3589cf) |
-| Wed, 01 Apr 2026 19:10:34 GMT | Signal Dilution Breaks Prompt Injection Classifiers. We Tested 9 Models to Prove It. | IB Security | [Read More](https://medium.com/p/b1d3c71836a5) |
-| Wed, 01 Apr 2026 19:08:44 GMT | Your AI Coding Stack is Already Compromised — You Just Don’t Know It Yet | Sandeep Kumar | [Read More](https://medium.com/p/5a160cb689d0) |
-| Wed, 01 Apr 2026 19:04:04 GMT | ️ Designing a Resilient Multi-Site SIEM Architecture | Y_NeXRo | [Read More](https://medium.com/p/51619acbf61d) |
-| Wed, 01 Apr 2026 19:03:47 GMT | SentriAI — Agentic AI That Fixes the Code You Ship | Pavithrankb | [Read More](https://medium.com/p/1e7b507caffd) |
-| Wed, 01 Apr 2026 19:03:24 GMT | Why a First Class Philosophy Graduate is Learning to Hunt Threats | Fagbemi Elisha Kehinde | [Read More](https://medium.com/p/386a13e00acb) |
