@@ -12,7 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 16:00:39 GMT | CyberDefenders — Reveal Lab Writeup | JBXSec | [Read More](https://medium.com/p/35f4f4e1a1f2) |
+| Thu, 02 Apr 2026 15:54:46 GMT | The ‘Jew Tax’ | Dave Schechter | [Read More](https://medium.com/p/4763c1911eda) |
+| Thu, 02 Apr 2026 15:54:38 GMT | The Linux Security Journey — noexec (No Execute) Filesystem Support | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/95ea57f2d4c0) |
+| Thu, 02 Apr 2026 15:52:53 GMT | Understanding New Dark Web Marketplaces and Emerging Trends | Tor BBB | [Read More](https://medium.com/p/807d28f872af) |
+| Thu, 02 Apr 2026 15:46:23 GMT | S1: Security Is a Design Decision | Kavita Mittal | [Read More](https://medium.com/p/b7f2784639da) |
+| Thu, 02 Apr 2026 15:46:01 GMT | The Blessing of a Closed Port: How CGNAT Forced Me to Build a Better Homelab | Aidan Leddy | [Read More](https://medium.com/p/19a42a07b5a2) |
+| Thu, 02 Apr 2026 15:43:06 GMT | Signs husband is cheating at work? | Michael Parks | [Read More](https://medium.com/p/0332d150e8c4) |
+| Thu, 02 Apr 2026 15:42:57 GMT | Who Needs PCI DSS Certification in Europe? | 7secGMBH | [Read More](https://medium.com/p/e6728b238c5b) |
+| Thu, 02 Apr 2026 15:40:12 GMT | Anthropic Accidentally Shipped Their Entire Source Code in an npm Package. | Dhanush N | [Read More](https://medium.com/p/36e5f993c1c2) |
+| Thu, 02 Apr 2026 15:39:03 GMT | Cybersecurity in Retail: Key Threats & Defense Mechanisms | Auth Thoughts Editors | [Read More](https://medium.com/p/e51b5f718731) |
+| Thu, 02 Apr 2026 15:28:31 GMT | O Primeiro passo é o mais importante! | Philipe Monterrazo | [Read More](https://medium.com/p/208de7c3c5d2) |
+| Thu, 02 Apr 2026 15:27:55 GMT | HaskHell (THM) Tryhackme WriteUp Only Answer | Lawvye | [Read More](https://medium.com/p/b47fb39434e0) |
+| Thu, 02 Apr 2026 15:25:37 GMT | Why MFA and passkeys are your first line of defence in 2026 | Static Computers | [Read More](https://medium.com/p/fe382ddc3cb0) |
+| Thu, 02 Apr 2026 15:18:59 GMT | Design First. Secure First. Code Later. | Kavita Mittal | [Read More](https://medium.com/p/6a528ae50d07) |
+| Thu, 02 Apr 2026 15:18:36 GMT | ️Unmasking the Battlefield: Understanding the Professional Hacker Mindset | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/f74362a42014) |
+| Thu, 02 Apr 2026 15:12:50 GMT | AI agents are no longer tools. They are autonomous actors inside enterprise systems. | Neuralcoretech | [Read More](https://medium.com/p/1c89c0363279) |
+| Thu, 02 Apr 2026 15:03:44 GMT | How to Build a Simple Proxy Pool for Automation (Developer Guide) | Patricia Morales | [Read More](https://medium.com/p/324d2191a1b1) |
+| Thu, 02 Apr 2026 14:59:14 GMT | Building a Sustainable Future with alternative energy sources | International Data Center Authority | [Read More](https://medium.com/p/b7f4f801ddcb) |
+| Thu, 02 Apr 2026 14:54:28 GMT | Trust, It’s a Bitch to Get Back | Jackie Waters | [Read More](https://medium.com/p/96a797d454a4) |
+| Thu, 02 Apr 2026 14:53:46 GMT | Phishing Email Analysis SOC Analyst Guide Part-3 Understanding the Email Flow-1. | Vaibhavrajsahu | [Read More](https://medium.com/p/86379c28c02e) |
+| Thu, 02 Apr 2026 14:49:44 GMT | Building AI Agents That Actually Do the Work | Rachit Arora | [Read More](https://medium.com/p/ff649ba65823) |
 | Thu, 02 Apr 2026 14:37:55 GMT | SOC 2 Compliance: The Invisible “Trust Code” That’s Quietly Powering the World’s Most Successful… | Lalit kumar | [Read More](https://medium.com/p/41cb1ae4f20f) |
+| Thu, 02 Apr 2026 14:37:44 GMT | Beyond Awareness: Why Cybersecurity Training Must Become Behaviour-Led | Andrew Longhurst | [Read More](https://medium.com/p/45eab97ea954) |
 | Thu, 02 Apr 2026 14:27:04 GMT | Bypassing File Path Traversal: When Absolute Paths Lead to Secret Files | Ayeshaaghafoor | [Read More](https://medium.com/p/ecf64ab27631) |
 | Thu, 02 Apr 2026 14:25:54 GMT | Bypassing Path Validation: Solving Directory Traversal with Prefix Logic | Ayeshaaghafoor | [Read More](https://medium.com/p/6861ab856906) |
 | Thu, 02 Apr 2026 14:13:17 GMT | AI Model Risk Management Is Now a Security Problem | Scottcmcmahan | [Read More](https://medium.com/p/428f5be8c88d) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 10:41:01 GMT | Your Business Continuity Plan Is Not the Test, Recovery Under Pressure Is | Tyson Martin | [Read More](https://medium.com/p/50b50752ae50) |
 | Thu, 02 Apr 2026 10:38:22 GMT | From Alerts to Actions: How Chat-Native Workflows Are Transforming Security Operations | NetWitness | [Read More](https://medium.com/p/634cc33e5245) |
 | Thu, 02 Apr 2026 10:36:51 GMT | Best End User Support and Help Desk Services in India | Jameswilliamservices | [Read More](https://medium.com/p/8272c7539c22) |
-| Thu, 02 Apr 2026 10:36:00 GMT | When One Compromised NPM Library Forced Us to Rotate Every Secret | Deepa Singh | [Read More](https://medium.com/p/41b7d2738a0f) |
-| Thu, 02 Apr 2026 10:32:36 GMT | How to Build a Zero-Trust Dedicated Server-2026 - BytesRack | BytesRack | [Read More](https://medium.com/p/afe14c8b4b87) |
-| Thu, 02 Apr 2026 10:31:01 GMT | Supply Chain Attacks in Cybersecurity: How They Work, Real-World Cases, and Defense Strategies | Ishant | [Read More](https://medium.com/p/152f9e10838c) |
-| Thu, 02 Apr 2026 10:30:36 GMT | How CCTV Cameras Helped Me Improve My Home Security | IT Solution Dubai | [Read More](https://medium.com/p/24bbe9b60f75) |
-| Thu, 02 Apr 2026 10:24:05 GMT | When Your Body Becomes a Password | Darwin Gosal | [Read More](https://medium.com/p/1d957f06cd88) |
-| Thu, 02 Apr 2026 10:20:55 GMT | 3D Audio Market Outlook & Industry Trends 2035 | NIkita Poplai | [Read More](https://medium.com/p/0550f425f0e4) |
-| Thu, 02 Apr 2026 10:20:49 GMT | Security Services Tamil Nadu - Trusted Protection Solutions | zara hannah | [Read More](https://medium.com/p/1c1052146ae9) |
-| Thu, 02 Apr 2026 10:19:54 GMT | The 2026 AI Renaissance: How NVIDIA NemoClaw is Turning “OpenClaw” into the World’s First Personal… | Hitesh Rohilla | [Read More](https://medium.com/p/cf89d0a08173) |
-| Thu, 02 Apr 2026 10:19:00 GMT | TryHackMe Snort Task 1 to Task 6 | Birdv | [Read More](https://medium.com/p/54ee6c080462) |
-| Thu, 02 Apr 2026 10:15:29 GMT | Detecting the Axios Supply Chain Attack Using Wazuh and FortiGate (Without EDR) | Dileep Kumar Ch | [Read More](https://medium.com/p/5e80667fddbf) |
-| Thu, 02 Apr 2026 10:11:46 GMT | Bestkaam — Job Portal in India for Employers & Job Seekers - Hire & Find Jobs Online | Bestkaam BK | [Read More](https://medium.com/p/645e1ef54da7) |
-| Thu, 02 Apr 2026 10:11:33 GMT | City Council — Chaining Misconfigurations to Domain Admin | GauthamV | [Read More](https://medium.com/p/4370e2d0239d) |
-| Thu, 02 Apr 2026 10:03:10 GMT | Cybersecurity Alone vs With Mentorship: Why Most Beginners Stay Stuck | Riya Limba | [Read More](https://medium.com/p/13947d626337) |
-| Thu, 02 Apr 2026 10:01:26 GMT | Powering E-Commerce Growth: Custom Development Services from Ornate TechnoServices | Ornate TechnoServices | [Read More](https://medium.com/p/cc517914fc98) |
-| Thu, 02 Apr 2026 10:00:53 GMT | Healthy or Harmful? The Scientific Truth About Traditional Ghee and Oxidative Stress | oRegion | [Read More](https://medium.com/p/f936bb00c157) |
-| Thu, 02 Apr 2026 09:58:27 GMT | Unlocking Growth Through Digital Marketing Excellence at Ornate TechnoServices | Ornate TechnoServices | [Read More](https://medium.com/p/56349b4e7279) |
-| Thu, 02 Apr 2026 09:58:26 GMT | How a simple login issue revealed deeper problems in system design and security. | Jeevagan | [Read More](https://medium.com/p/577d0f5f4c10) |
-| Thu, 02 Apr 2026 09:36:01 GMT | Why Most AI Projects Fail in Operations | AQUNAMA | [Read More](https://medium.com/p/1c9d930bc583) |
-| Thu, 02 Apr 2026 09:32:56 GMT | The Infinite Money Glitch: Exploiting a Race Condition in a Fintech App | 0xHer0 | [Read More](https://medium.com/p/de84d1f954be) |
-| Thu, 02 Apr 2026 09:31:44 GMT | Breaking into CCTV: SQL Injection to Root on HackTheBox | Kipngeno kendrick | [Read More](https://medium.com/p/7e0f8f9f56ce) |
-| Thu, 02 Apr 2026 09:26:50 GMT | Make your Android phone bloatware free | Siddhpura Amitkumar | [Read More](https://medium.com/p/b8350969ba0f) |
-| Thu, 02 Apr 2026 09:21:48 GMT | The future runs on AI and data. | Datavex AI Pvt Ltd | [Read More](https://medium.com/p/35471451c4ef) |
