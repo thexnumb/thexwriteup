@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 13:08:54 GMT | Light — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/c0c1a69e8ae8) |
+| Thu, 02 Apr 2026 13:08:34 GMT | Clocky — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/c624bf320320) |
+| Thu, 02 Apr 2026 13:06:19 GMT | Workflow automation process showing automated tasks, software integration, and end-to-end business… | Sandra Blake, Consumer Finance Writer | [Read More](https://medium.com/p/f73776c7fb6b) |
+| Thu, 02 Apr 2026 13:04:58 GMT | Pengenalan SELinux | Wafa | [Read More](https://medium.com/p/4e97fb4eab0b) |
+| Thu, 02 Apr 2026 13:04:12 GMT | Why Executive Protection Is Really About Risk — Not Status | Anna Liza Alum | [Read More](https://medium.com/p/f408e5ed4472) |
+| Thu, 02 Apr 2026 13:03:05 GMT | Real-Time Threat Intelligence API: How DentiGrid Detects Phishing at Zero-Hour | Sam Walker | [Read More](https://medium.com/p/9cae7565db4c) |
+| Thu, 02 Apr 2026 13:01:01 GMT | From Rogue to Inert: What Happened When We Fixed Our Autonomous Agent and Ran It for 3 Weeks | Nwosu Rosemary | [Read More](https://medium.com/p/bc3c328f7a15) |
+| Thu, 02 Apr 2026 12:58:07 GMT | Reverse Apk Algorithm To analyze security of Android Apk #SecurityAudit | Mohammad Muddasir | [Read More](https://medium.com/p/e539159c5eec) |
+| Thu, 02 Apr 2026 12:56:47 GMT | Static Analysis Is Broken: Until You Use Semgrep Like This | Manmeet Kalra | [Read More](https://medium.com/p/4e2fa9ecc08a) |
+| Thu, 02 Apr 2026 12:50:46 GMT | This War Isn’t Happening Where You Think It Is | owen | [Read More](https://medium.com/p/465d7c79999f) |
+| Thu, 02 Apr 2026 12:47:25 GMT | Silent Churn: The Hidden Renewal Risk Costing You Customers | Graylog | [Read More](https://medium.com/p/d11cd8a06333) |
+| Thu, 02 Apr 2026 12:42:34 GMT | 12 AI Tools for YouTubers That Will Skyrocket Your Channel in 2026 (Even If You’re Starting From… | Toolverse | [Read More](https://medium.com/p/5eeaa07f8309) |
+| Thu, 02 Apr 2026 12:41:30 GMT | Threat and Vulnerabilities Report-March 2026 | Loginsoft | [Read More](https://medium.com/p/6509b2a9d659) |
+| Thu, 02 Apr 2026 12:39:35 GMT | The Internet Remembers Everything — But AI Finds It First: The Future of OSINT Investigations | Paritosh | [Read More](https://medium.com/p/c1c924cd8c82) |
+| Thu, 02 Apr 2026 12:38:07 GMT | 200+ ATTACKS. 0 BREACH. Here’s What I Found in 48 Hours of Threat Hunting… | Chisom | [Read More](https://medium.com/p/a09fa385f8c9) |
+| Thu, 02 Apr 2026 12:37:12 GMT | How Hackers See Your Website | owen | [Read More](https://medium.com/p/2576b0a8153d) |
+| Thu, 02 Apr 2026 12:34:34 GMT | I Was Tired of Switching Between My Password Manager and My Notes App — So I Built One App That… | Varinder Singh | [Read More](https://medium.com/p/3f8ca3606ee6) |
+| Thu, 02 Apr 2026 12:28:45 GMT | The Future of Crypto Exchanges: Security, Speed, and User Control | ARMUP | [Read More](https://medium.com/p/c999128d6227) |
+| Thu, 02 Apr 2026 12:25:26 GMT | Mobile App Risks in Focus: FBI Warns of Potential Data Exposure from Foreign Applications | Jas | [Read More](https://medium.com/p/d93b473a0754) |
+| Thu, 02 Apr 2026 12:12:39 GMT | StegoRSA — picoCTF Writeup (Steganography + RSA Deep Dive) | mayhack | [Read More](https://medium.com/p/99b2008c5494) |
+| Thu, 02 Apr 2026 12:10:11 GMT | What lies in the future of consultancy | Souritraroysuku | [Read More](https://medium.com/p/8df4928d1a19) |
+| Thu, 02 Apr 2026 12:08:47 GMT | The Compliance and Security Debate in Healthcare | Sparkle Web | [Read More](https://medium.com/p/ea7a2a35f8cd) |
+| Thu, 02 Apr 2026 12:02:48 GMT | Breaking into new groups of people | Erik Kvam | [Read More](https://medium.com/p/c582dae71f7a) |
+| Thu, 02 Apr 2026 11:56:01 GMT | Keep It Classy, Oracle: 30,000 Pink Slips Delivered by Automation | Namir Sagheenanajar | [Read More](https://medium.com/p/64e0cb1e6845) |
+| Thu, 02 Apr 2026 11:52:54 GMT | TryHackMe — Metasploit: Meterpreter Walkthrough | Mohamed Elshamsi | [Read More](https://medium.com/p/3c3fb2c6f960) |
+| Thu, 02 Apr 2026 11:52:11 GMT | 5 PDF tools that don’t upload your files — and one that gets it completely right | Aservus | [Read More](https://medium.com/p/d600a586b6c4) |
+| Thu, 02 Apr 2026 11:49:23 GMT | Top 15 Mobile App Development Trends 2026 | Mathionix Technologies | [Read More](https://medium.com/p/ea779fd3ac1f) |
 | Thu, 02 Apr 2026 11:44:38 GMT | Claude Code and the Illusion of Safe AI Assistants | Anuradha Sharma | [Read More](https://medium.com/p/c7a0ce01f186) |
 | Thu, 02 Apr 2026 11:41:26 GMT | Piece by Piece — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/b40d45a71411) |
 | Thu, 02 Apr 2026 11:41:01 GMT | AI vs AI Is a Distraction. | Periscope Tech | [Read More](https://medium.com/p/ea627aeae5bf) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 07:46:03 GMT | AWS Architecture Series: Security Best Practices for Production Environments in AWS | Husain Sardhariya | [Read More](https://medium.com/p/0a2c5fb6ed4a) |
 | Thu, 02 Apr 2026 07:44:22 GMT | SeedLab: Cross-Site Scripting(XXS) Attack Writeup | Roman Zaib | [Read More](https://medium.com/p/f01654aab2fc) |
 | Thu, 02 Apr 2026 07:44:12 GMT | Don’t use Google Wallet: Multi use of your ticket Fraud alert | Yahya Ahmed | [Read More](https://medium.com/p/563124737812) |
-| Thu, 02 Apr 2026 07:38:33 GMT | Secure CI/CD Pipeline Architecture: A Practical Guide for Building Resilient Software Delivery | Majidbasharat | [Read More](https://medium.com/p/8e856d19c384) |
-| Thu, 02 Apr 2026 07:31:01 GMT | 29M GitHub Secrets Leaked. AI Tools Made It Worse. | Before The Curve | [Read More](https://medium.com/p/b4eb728b6596) |
-| Thu, 02 Apr 2026 07:26:53 GMT | Anatomy of a Cookie Heist — Reverse Engineering an Info-Stealer | Pratik Dabhi | [Read More](https://medium.com/p/58ba655554a5) |
-| Thu, 02 Apr 2026 07:24:26 GMT | Cross Site Scripting (XSS): | Sandeeppavan | [Read More](https://medium.com/p/18f08f1bc0cb) |
-| Thu, 02 Apr 2026 07:23:44 GMT | From Zero to CEH — Best Month-by-Month Breakdown of an Ethical Hacking Course in Delhi 26′ | Varun Papnai | [Read More](https://medium.com/p/a80df2944aa0) |
-| Thu, 02 Apr 2026 07:22:03 GMT | Why I Started Medium | Monas | [Read More](https://medium.com/p/061c6b9248fe) |
-| Thu, 02 Apr 2026 07:20:03 GMT | AI Agents with Memory: The Hidden Risk of Persistent Context Leakage in Enterprise Systems | Cynox Security LLP. | [Read More](https://medium.com/p/86b3e37cb2f1) |
-| Thu, 02 Apr 2026 07:14:03 GMT | What the Claude Code Leak Teaches Us: What Not to Do (And How It Happened) | Granth Gharewal | [Read More](https://medium.com/p/14065a5f1dd8) |
-| Thu, 02 Apr 2026 07:01:03 GMT | Safe and Secure Ways to Buy Bitcoin in 2026: An Investor’s Guide | Cocacolapeeltoenter | [Read More](https://medium.com/p/9e08bc17ee68) |
-| Thu, 02 Apr 2026 06:56:52 GMT | Inside CVE-2024-4367: Arbitrary JavaScript Execution via PDF.js | Vansh | [Read More](https://medium.com/p/abb4afff4141) |
-| Thu, 02 Apr 2026 06:56:02 GMT | Axios Just Got Hacked? NPM Supply Chain Attack Installs RAT | pyTuner | [Read More](https://medium.com/p/132d55c3ce38) |
-| Thu, 02 Apr 2026 06:49:42 GMT | Top 7 Secure IAM Patterns in GCP: How to Eliminate Editor, Long-Lived Keys, and Standing Privileges… | Aleksei Aleinikov | [Read More](https://medium.com/p/6cf84e8b9d88) |
-| Thu, 02 Apr 2026 06:36:37 GMT | Building AI Agents That Actually Work: A Practical Guide with Nanobot | Datavex AI Pvt Ltd | [Read More](https://medium.com/p/3a5b8574715c) |
-| Thu, 02 Apr 2026 06:35:58 GMT | Anthropic Built an “Undercover Mode” to Ghost-Write Open Source Commits. | Aayush Pandey | [Read More](https://medium.com/p/8e1ab97035ff) |
-| Thu, 02 Apr 2026 06:33:34 GMT | The Hidden Layer of the Internet You Only See Through Wireshark | Fateyaly | [Read More](https://medium.com/p/8e64d19cef21) |
-| Thu, 02 Apr 2026 06:32:09 GMT | Beyond the Dashboard: What It Really Takes to Excel as a SOC Analyst | Aditya InfosecTrain | [Read More](https://medium.com/p/70ff4599bc28) |
-| Thu, 02 Apr 2026 06:31:01 GMT | How AI Agents Are Scaling Credential Stuffing in SaaS Environments | Sanista Ramphal | [Read More](https://medium.com/p/1bcc23684ff4) |
-| Thu, 02 Apr 2026 06:29:51 GMT | Beyond the IP: The Hidden World of ARP and the “Invisible” Middleman | Sriranjan Kapilan | [Read More](https://medium.com/p/b943f08927c3) |
-| Thu, 02 Apr 2026 06:25:15 GMT | Admin Portal Hijacking — Bug Bounty Writeup | Mostafa Alrefai | [Read More](https://medium.com/p/9c2afc43dcea) |
-| Thu, 02 Apr 2026 06:24:12 GMT | Why Your WordPress Security is Failing in the AI Era: A DevOps Perspective | Momenul Ahmad | [Read More](https://medium.com/p/7a59fc5067ee) |
-| Thu, 02 Apr 2026 06:24:02 GMT | ประจำวันพฤหัสบดีที่ 2 เมษายน 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/4996aa212255) |
-| Thu, 02 Apr 2026 06:22:27 GMT | Cheapest Google Workspace Pricing in India | amyntas media works | [Read More](https://medium.com/p/008aa6e2cacf) |
-| Thu, 02 Apr 2026 06:22:26 GMT | What is Firewall? Cyber Security Training with Hands-on Configuration & Labs | Network Kings | [Read More](https://medium.com/p/373ed58cd602) |
-| Thu, 02 Apr 2026 06:21:37 GMT | Everything I Run… on a $150 Home Server | Nithish Kumar Gattu Ashok | [Read More](https://medium.com/p/6d9bf9957497) |
-| Thu, 02 Apr 2026 06:04:10 GMT | Penetration Testing Statistics 2026: Why Testing Matters | Atamzid | [Read More](https://medium.com/p/e55ddeb979d4) |
-| Thu, 02 Apr 2026 06:01:02 GMT | No One Owned Security… And That Was the Problem | Hazel Chirinda | [Read More](https://medium.com/p/358049c1a2ec) |
-| Thu, 02 Apr 2026 05:59:24 GMT | Microsoft Warns of WhatsApp-Delivered VBS Malware That Hijacks Windows Through UAC Bypass | Germano Costi | [Read More](https://medium.com/p/16f2bd394717) |
