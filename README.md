@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 21:01:02 GMT | Unfiltered Restart — Day 40: Troubleshooting | Maximillian Rueda | [Read More](https://medium.com/p/0e1b84fecd77) |
+| Thu, 02 Apr 2026 20:45:57 GMT | “You’re So Diligent” and “You’re Useless” — Heard on the Same Day, at the Same Job | masa tatsumura | [Read More](https://medium.com/p/687165d95db9) |
+| Thu, 02 Apr 2026 20:37:54 GMT | Anthropic Accidentally Leaked 512,000 Lines of Claude Code | Abhi | [Read More](https://medium.com/p/c4ba1cbf0d4b) |
+| Thu, 02 Apr 2026 20:30:57 GMT | Undercover mode, decoy tools, and a 3,167-line function: inside Claude Code’s leaked source | Liran Baba | [Read More](https://medium.com/p/26573fec2c12) |
+| Thu, 02 Apr 2026 20:24:52 GMT | TryHackMe Water Bottle Writeup - OSINT Walkthrough | Priyam chauhan | [Read More](https://medium.com/p/e8d7ea3d5463) |
+| Thu, 02 Apr 2026 20:20:02 GMT | What a Real Autonomous Recon Pipeline Looks Like | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0cd3352d486a) |
+| Thu, 02 Apr 2026 20:16:56 GMT | Advanced IDOR Guide: How to Find and Exploit Broken Access Control in Modern APIs | ExploitX | [Read More](https://medium.com/p/47bdd952fbd2) |
+| Thu, 02 Apr 2026 20:09:25 GMT | Hackers Are Hijacking AI — Prompt Injection Attacks Explained (2026) | SecurityElites – Ethical Hacking & Bug Bounty | [Read More](https://medium.com/p/6b4717211764) |
+| Thu, 02 Apr 2026 20:04:44 GMT | LinkedIn Has Been Secretly Scanning Your Computer. Here’s What They Found. | Sidhanth Pandey | [Read More](https://medium.com/p/7bcba8584c82) |
 | Thu, 02 Apr 2026 19:59:43 GMT | What if your Linux system is already under attack — and you don’t even know it? | Farahejaz | [Read More](https://medium.com/p/62a7f3db132d) |
+| Thu, 02 Apr 2026 19:57:05 GMT | Örnek Phishing Playbook | Murat TURGUT | [Read More](https://medium.com/p/835a2c7914b6) |
+| Thu, 02 Apr 2026 19:52:40 GMT | Bastion Hosts: The Bouncer of Your Infrastructure | Vivek Yadav | [Read More](https://medium.com/p/19b9292d0645) |
 | Thu, 02 Apr 2026 19:49:42 GMT | Warehouse Security Services in Dallas, TX | Twin City Security Dallas | [Read More](https://medium.com/p/a44ee8448bb3) |
 | Thu, 02 Apr 2026 19:45:00 GMT | Insecure File Upload in KYC Systems - When the Document Verification Process Becomes an Open Door | Rufus Kehinde | [Read More](https://medium.com/p/4e13dac469e6) |
 | Thu, 02 Apr 2026 19:42:40 GMT | The Upgrade Problem: Why Proxy Safety Is Still One of Web3’s Most Misunderstood Risks | Exploitless | [Read More](https://medium.com/p/76617a1c9fec) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 14:59:14 GMT | Building a Sustainable Future with alternative energy sources | International Data Center Authority | [Read More](https://medium.com/p/b7f4f801ddcb) |
 | Thu, 02 Apr 2026 14:54:28 GMT | Trust, It’s a Bitch to Get Back | Jackie Waters | [Read More](https://medium.com/p/96a797d454a4) |
 | Thu, 02 Apr 2026 14:53:46 GMT | Phishing Email Analysis SOC Analyst Guide Part-3 Understanding the Email Flow-1. | Vaibhavrajsahu | [Read More](https://medium.com/p/86379c28c02e) |
-| Thu, 02 Apr 2026 14:49:44 GMT | Building AI Agents That Actually Do the Work | Rachit Arora | [Read More](https://medium.com/p/ff649ba65823) |
-| Thu, 02 Apr 2026 14:37:55 GMT | SOC 2 Compliance: The Invisible “Trust Code” That’s Quietly Powering the World’s Most Successful… | Lalit kumar | [Read More](https://medium.com/p/41cb1ae4f20f) |
-| Thu, 02 Apr 2026 14:37:44 GMT | Beyond Awareness: Why Cybersecurity Training Must Become Behaviour-Led | Andrew Longhurst | [Read More](https://medium.com/p/45eab97ea954) |
-| Thu, 02 Apr 2026 14:27:04 GMT | Bypassing File Path Traversal: When Absolute Paths Lead to Secret Files | Ayeshaaghafoor | [Read More](https://medium.com/p/ecf64ab27631) |
-| Thu, 02 Apr 2026 14:25:54 GMT | Bypassing Path Validation: Solving Directory Traversal with Prefix Logic | Ayeshaaghafoor | [Read More](https://medium.com/p/6861ab856906) |
-| Thu, 02 Apr 2026 14:13:17 GMT | AI Model Risk Management Is Now a Security Problem | Scottcmcmahan | [Read More](https://medium.com/p/428f5be8c88d) |
-| Thu, 02 Apr 2026 14:05:21 GMT | What You Need to Know About Coding and Cybersecurity Careers in 2026 | FlymingoTech | [Read More](https://medium.com/p/1615adaf9f55) |
-| Thu, 02 Apr 2026 14:05:08 GMT | North-South — picoCTF 2026 | Ayman Hany | [Read More](https://medium.com/p/16b80f4ebf23) |
-| Thu, 02 Apr 2026 14:01:52 GMT | From Reactive to Proactive: 5 Steps to SOC Maturity with Threat Intelligence | ANY.RUN | [Read More](https://medium.com/p/1fdf5d33e6e9) |
-| Thu, 02 Apr 2026 14:01:02 GMT | Cyber Briefing: 2026.04.02 | CyberMaterial | [Read More](https://medium.com/p/5791f7cefff3) |
-| Thu, 02 Apr 2026 14:00:26 GMT | Beyond the Chat: WhatsApp as a Gateway for MSI Backdoors | Φiriki Intelligence | [Read More](https://medium.com/p/d32e9b634caf) |
