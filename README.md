@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 11:44:38 GMT | Claude Code and the Illusion of Safe AI Assistants | Anuradha Sharma | [Read More](https://medium.com/p/c7a0ce01f186) |
+| Thu, 02 Apr 2026 11:41:26 GMT | Piece by Piece — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/b40d45a71411) |
+| Thu, 02 Apr 2026 11:41:01 GMT | AI vs AI Is a Distraction. | Periscope Tech | [Read More](https://medium.com/p/ea627aeae5bf) |
+| Thu, 02 Apr 2026 11:38:26 GMT | AI as the Organizational Black Box: Replacing Human‑Dependent Judgment with Auditable Decisions | Taro  Yamada | [Read More](https://medium.com/p/4c772f1830b4) |
+| Thu, 02 Apr 2026 11:37:16 GMT | Light vs Radio: The War for Wireless | Lumina | [Read More](https://medium.com/p/db5ba4cb74c6) |
+| Thu, 02 Apr 2026 11:26:30 GMT | Is Your Fintech App Truly Secure? Why DPDP Compliance Can’t Be Ignored in India | Anupriya | [Read More](https://medium.com/p/d82807b4b0ed) |
+| Thu, 02 Apr 2026 11:25:02 GMT | npm Black Tuesday: The Day Three Threats Converged on the Same Package Manager | Lakshmi narayana .U | [Read More](https://medium.com/p/8b77791efe59) |
+| Thu, 02 Apr 2026 11:13:21 GMT | The Art of Making Mistakes: A Deep Dive into Dark Web Operator OPSEC Failures | Aether-Intel | [Read More](https://medium.com/p/a46cdd9be204) |
+| Thu, 02 Apr 2026 11:08:43 GMT | The 60 FPS Security Crisis: Why Cloud VMs Are Failing at Real-Time Deepfake Detection | iRexta | [Read More](https://medium.com/p/89f16be8bced) |
+| Thu, 02 Apr 2026 11:08:15 GMT | Digital Safety in 2026: What Everyone Should Know | Deepa | [Read More](https://medium.com/p/753325450f9a) |
+| Thu, 02 Apr 2026 11:07:22 GMT | OSINT Briefing April 2, 2026 — Global Intelligence Analysis, Cyber Threats & Geopolitical Signals | Gianluca Galimberti | [Read More](https://medium.com/p/85de7c3395f0) |
+| Thu, 02 Apr 2026 11:04:36 GMT | WebAssembly Hacking: 7 Practical Examples Every Ethical Hacker Should Master | Very Lazy Tech | [Read More](https://medium.com/p/7e76c6b04073) |
+| Thu, 02 Apr 2026 11:01:17 GMT | Tripod Turnstile by eTradeFia: The Smart Choice for Reliable Access Control | Etradefia | [Read More](https://medium.com/p/7b681e05b607) |
+| Thu, 02 Apr 2026 11:01:01 GMT | Understanding CWE-862: Missing Authorization | Walter Moar | [Read More](https://medium.com/p/eb9f4637d729) |
+| Thu, 02 Apr 2026 11:00:29 GMT | Axios npm compromise—Recreation & PoC write-up | Akshatshirsat | [Read More](https://medium.com/p/302ee17e659b) |
 | Thu, 02 Apr 2026 10:51:01 GMT | The Year 2038 Problem: The Next “Y2K” Waiting to Happen? | Shubham Vartak | [Read More](https://medium.com/p/2ba3fdc72ea5) |
+| Thu, 02 Apr 2026 10:49:06 GMT | Building 7 Lambda Scanners That Find GDPR Violations in 70 Seconds (Part 2) | Roman Ceresnak, PhD | [Read More](https://medium.com/p/8c76b06d6366) |
 | Thu, 02 Apr 2026 10:43:30 GMT | The “Remind Me Later” Lie: Why Software Updates Are the Digital Vegetable You Actually Need | Tania Nunes | [Read More](https://medium.com/p/58ae3dc6fc7c) |
 | Thu, 02 Apr 2026 10:41:01 GMT | Your Business Continuity Plan Is Not the Test, Recovery Under Pressure Is | Tyson Martin | [Read More](https://medium.com/p/50b50752ae50) |
 | Thu, 02 Apr 2026 10:38:22 GMT | From Alerts to Actions: How Chat-Native Workflows Are Transforming Security Operations | NetWitness | [Read More](https://medium.com/p/634cc33e5245) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 06:04:10 GMT | Penetration Testing Statistics 2026: Why Testing Matters | Atamzid | [Read More](https://medium.com/p/e55ddeb979d4) |
 | Thu, 02 Apr 2026 06:01:02 GMT | No One Owned Security… And That Was the Problem | Hazel Chirinda | [Read More](https://medium.com/p/358049c1a2ec) |
 | Thu, 02 Apr 2026 05:59:24 GMT | Microsoft Warns of WhatsApp-Delivered VBS Malware That Hijacks Windows Through UAC Bypass | Germano Costi | [Read More](https://medium.com/p/16f2bd394717) |
-| Thu, 02 Apr 2026 05:51:01 GMT | Critical Thinking Frameworks and Tools (Part 1) | Taania | [Read More](https://medium.com/p/fb15b2089de6) |
-| Thu, 02 Apr 2026 05:38:35 GMT | Anthropic Accidentally Leaked All of Claude Code’s Source Code | Rachana Gupta | [Read More](https://medium.com/p/c875ef9d2ced) |
-| Thu, 02 Apr 2026 05:35:20 GMT | My VAPT Intern Interview Experience — From LinkedIn Application to Selection | Sumit Raj | [Read More](https://medium.com/p/5d5c6949e1af) |
-| Thu, 02 Apr 2026 05:27:38 GMT | I Spent 25 Years Looking for the Right Leadership Style. There Isn’t One. | Sakti Bagchi | [Read More](https://medium.com/p/447886d7baec) |
-| Thu, 02 Apr 2026 05:16:01 GMT | I’m Playing with the Eastern Mediterranean Like It’s a Jigsaw Puzzle — Part II | Gökçen Kunukcu | [Read More](https://medium.com/p/16b26de9137e) |
-| Thu, 02 Apr 2026 05:10:59 GMT | TryHackMe · Nmap: The Basics | ArtF412 | [Read More](https://medium.com/p/6883d7334691) |
-| Thu, 02 Apr 2026 04:55:49 GMT | Becomes the Entry Point: Inside the Latest Chrome Zero-Day | Sharanraju | [Read More](https://medium.com/p/d2782b4487f3) |
-| Thu, 02 Apr 2026 04:44:02 GMT | Beyond MFA: Detecting “Identity Teleportation” in the Age of AI | Shubham Waghilkar | [Read More](https://medium.com/p/551c3f77e6d5) |
-| Thu, 02 Apr 2026 04:42:37 GMT | VaultMind Session 4: Going Live — Railway, Vercel, and Zero Commands Forever | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/fb84078c06cc) |
-| Thu, 02 Apr 2026 04:42:16 GMT | VaultMind Session 3: Building the Face — React Dashboard, Vault UI, and Login | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/c28c479300b5) |
-| Thu, 02 Apr 2026 04:41:24 GMT | Beyond the Breach: What the Anthropic Leak Reveals About Source Code Integrity. | Hardik Thaker | [Read More](https://medium.com/p/99eaa38aaece) |
-| Thu, 02 Apr 2026 04:38:35 GMT | When a Church Loses Its Website — and Its Reputation. | Benjaminmcguire | [Read More](https://medium.com/p/dd82d912a7d5) |
-| Thu, 02 Apr 2026 04:30:02 GMT | Hunting for IDORs: How I Accessed PII on a Popular Ticketing Site! | Vanshrathore | [Read More](https://medium.com/p/d7aa5f9542f2) |
-| Thu, 02 Apr 2026 04:28:36 GMT | ⚡ JavaScript 2: Improve Your Web Development Skills | Cyberabhisharma | [Read More](https://medium.com/p/3fe8ba2d0091) |
-| Thu, 02 Apr 2026 04:28:35 GMT | From Electricity to Exploits: Understanding Hardware and How Hackers Break It | PRiTi.EX | [Read More](https://medium.com/p/cdba0f5f442a) |
-| Thu, 02 Apr 2026 04:28:07 GMT | Real-Life Examples of AI in Cybersecurity Tools | Antonyrajvedamanickam | [Read More](https://medium.com/p/dabc067fdf56) |
