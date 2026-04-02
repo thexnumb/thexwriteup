@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 02 Apr 2026 07:58:32 GMT | Is Voice AI Safe to Use in Your Business? What You Need to Know Before Deploying | AI for Call Centers | [Read More](https://medium.com/p/fb4f6f61702a) |
+| Thu, 02 Apr 2026 07:56:43 GMT | AI 也有家規？OpenAI 發表 Model Spec，揭秘 AI 如何學會「守規矩」 | Penguin Voice | [Read More](https://medium.com/p/e29e5f2289a0) |
+| Thu, 02 Apr 2026 07:52:41 GMT | Vim’s Partial Patch Problem: 14+ Heap Overflows Left Behind After CVE-2026–28421 | FengNing_Architect | [Read More](https://medium.com/p/95c3b6863642) |
+| Thu, 02 Apr 2026 07:50:44 GMT | Malicious VBA — Desafio Lets Defend | Fabricio | [Read More](https://medium.com/p/f49d426d36e0) |
+| Thu, 02 Apr 2026 07:49:05 GMT | Are free VPNs safe? Here’s what you need to know | EVA VPN | [Read More](https://medium.com/p/5a3ef3d1f471) |
+| Thu, 02 Apr 2026 07:47:25 GMT | Top Dedicated Development Teams for Hong Kong | Kyanon Digital Blog | [Read More](https://medium.com/p/1fff1a888df5) |
+| Thu, 02 Apr 2026 07:46:30 GMT | A Brief Introduction to Threat Modelling | Praneeth | [Read More](https://medium.com/p/768215cb76f8) |
+| Thu, 02 Apr 2026 07:46:03 GMT | AWS Architecture Series: Security Best Practices for Production Environments in AWS | Husain Sardhariya | [Read More](https://medium.com/p/0a2c5fb6ed4a) |
+| Thu, 02 Apr 2026 07:44:22 GMT | SeedLab: Cross-Site Scripting(XXS) Attack Writeup | Roman Zaib | [Read More](https://medium.com/p/f01654aab2fc) |
+| Thu, 02 Apr 2026 07:44:12 GMT | Don’t use Google Wallet: Multi use of your ticket Fraud alert | Yahya Ahmed | [Read More](https://medium.com/p/563124737812) |
+| Thu, 02 Apr 2026 07:38:33 GMT | Secure CI/CD Pipeline Architecture: A Practical Guide for Building Resilient Software Delivery | Majidbasharat | [Read More](https://medium.com/p/8e856d19c384) |
+| Thu, 02 Apr 2026 07:31:01 GMT | 29M GitHub Secrets Leaked. AI Tools Made It Worse. | Before The Curve | [Read More](https://medium.com/p/b4eb728b6596) |
+| Thu, 02 Apr 2026 07:26:53 GMT | Anatomy of a Cookie Heist — Reverse Engineering an Info-Stealer | Pratik Dabhi | [Read More](https://medium.com/p/58ba655554a5) |
+| Thu, 02 Apr 2026 07:24:26 GMT | Cross Site Scripting (XSS): | Sandeeppavan | [Read More](https://medium.com/p/18f08f1bc0cb) |
+| Thu, 02 Apr 2026 07:23:44 GMT | From Zero to CEH — Best Month-by-Month Breakdown of an Ethical Hacking Course in Delhi 26′ | Varun Papnai | [Read More](https://medium.com/p/a80df2944aa0) |
+| Thu, 02 Apr 2026 07:22:03 GMT | Why I Started Medium | Monas | [Read More](https://medium.com/p/061c6b9248fe) |
+| Thu, 02 Apr 2026 07:20:03 GMT | AI Agents with Memory: The Hidden Risk of Persistent Context Leakage in Enterprise Systems | Cynox Security LLP. | [Read More](https://medium.com/p/86b3e37cb2f1) |
+| Thu, 02 Apr 2026 07:14:03 GMT | What the Claude Code Leak Teaches Us: What Not to Do (And How It Happened) | Granth Gharewal | [Read More](https://medium.com/p/14065a5f1dd8) |
+| Thu, 02 Apr 2026 07:01:03 GMT | Safe and Secure Ways to Buy Bitcoin in 2026: An Investor’s Guide | Cocacolapeeltoenter | [Read More](https://medium.com/p/9e08bc17ee68) |
+| Thu, 02 Apr 2026 06:56:52 GMT | Inside CVE-2024-4367: Arbitrary JavaScript Execution via PDF.js | Vansh | [Read More](https://medium.com/p/abb4afff4141) |
+| Thu, 02 Apr 2026 06:56:02 GMT | Axios Just Got Hacked? NPM Supply Chain Attack Installs RAT | pyTuner | [Read More](https://medium.com/p/132d55c3ce38) |
+| Thu, 02 Apr 2026 06:49:42 GMT | Top 7 Secure IAM Patterns in GCP: How to Eliminate Editor, Long-Lived Keys, and Standing Privileges… | Aleksei Aleinikov | [Read More](https://medium.com/p/6cf84e8b9d88) |
 | Thu, 02 Apr 2026 06:36:37 GMT | Building AI Agents That Actually Work: A Practical Guide with Nanobot | Datavex AI Pvt Ltd | [Read More](https://medium.com/p/3a5b8574715c) |
 | Thu, 02 Apr 2026 06:35:58 GMT | Anthropic Built an “Undercover Mode” to Ghost-Write Open Source Commits. | Aayush Pandey | [Read More](https://medium.com/p/8e1ab97035ff) |
 | Thu, 02 Apr 2026 06:33:34 GMT | The Hidden Layer of the Internet You Only See Through Wireshark | Fateyaly | [Read More](https://medium.com/p/8e64d19cef21) |
@@ -76,6 +98,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 01:01:02 GMT | [Dune: Part One] Survival Strategies for Resource Wars and Environmental Adaptation | MonoEssay | [Read More](https://medium.com/p/2ac48f869802) |
 | Thu, 02 Apr 2026 00:08:02 GMT | Cybersecurity Can Learn from the Artemis Launch | Matthew.Rosenquist | [Read More](https://medium.com/p/84a7f663f5aa) |
 | Thu, 02 Apr 2026 00:06:36 GMT | Can Old Ladies Find Love? | Yredewill | [Read More](https://medium.com/p/16ea849b2159) |
+| Thu, 02 Apr 2026 00:00:49 GMT | NoVoice Rootkit Hits Google Play | Blackout VPN | [Read More](https://medium.com/p/f489ca873e60) |
 | Wed, 01 Apr 2026 23:48:13 GMT | This One Mistake Can Break Your Entire Security System | Dibeesh KS | [Read More](https://medium.com/p/fd5a2a0e1a38) |
 | Wed, 01 Apr 2026 23:45:14 GMT | AWS Frontier Agents Dissected: What Security Agent and DevOps Agent Actually Do Under the Hood | Erick Mancz | [Read More](https://medium.com/p/e97b49feabb6) |
 | Wed, 01 Apr 2026 23:42:00 GMT | Burp-Only IDOR Hunting — Find Broken Authorization Without Fancy Tools | ghostyjoe | [Read More](https://medium.com/p/efc9f9f4cc52) |
@@ -89,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 01 Apr 2026 22:40:15 GMT | How can you stop someone from blackmailing you? | ZeroTracee | [Read More](https://medium.com/p/7159274d257b) |
 | Wed, 01 Apr 2026 22:36:57 GMT | Stop Flexing Domain Admin — It’s Not Impressive Anymore | Yua Mikanana | [Read More](https://medium.com/p/715e39667b8f) |
 | Wed, 01 Apr 2026 22:36:48 GMT | I almost lost my Bitcoin to scammers | ZeroTracee | [Read More](https://medium.com/p/6b51ab8271da) |
-| Wed, 01 Apr 2026 22:34:14 GMT | SQL Injection Attack | Arunoday Tiwari | [Read More](https://medium.com/p/b8d62197119f) |
-| Wed, 01 Apr 2026 22:27:02 GMT | Axios: The Package You Trusted Was Already Compromised | Travis Ray Caverhill | [Read More](https://medium.com/p/4f0ff5ee44d5) |
-| Wed, 01 Apr 2026 22:07:11 GMT | How to Detect Brute Force Attacks from Logs (Step-by-Step Guide) | Nauman Aslam | [Read More](https://medium.com/p/0898b24c9d39) |
-| Wed, 01 Apr 2026 22:03:38 GMT | Axios Just Got Weaponized — And Your npm install Pulled the Trigger | Itz.sanskarr | [Read More](https://medium.com/p/8ba05aac905e) |
-| Wed, 01 Apr 2026 22:01:01 GMT | Practicing speech with kindness: building a human-centred AI companion | DiUS | [Read More](https://medium.com/p/cde491e502a9) |
-| Wed, 01 Apr 2026 21:59:04 GMT | The Half-Million Line Mistake: What the Anthropic Leak Teaches Us About AI Data Security | Mammoth Cyber | [Read More](https://medium.com/p/9d874be95b8e) |
-| Wed, 01 Apr 2026 21:48:23 GMT | Why AI Agents Shouldn’t Hold Credentials | Jayapragash | [Read More](https://medium.com/p/5ccdcf744c68) |
-| Wed, 01 Apr 2026 21:46:30 GMT | Bir Word Dosyasına Gizli Talimat Gömdüm, 3 LLM’den Kaçı Fark Etti? | Emre Koca | [Read More](https://medium.com/p/0367de609e3b) |
-| Wed, 01 Apr 2026 21:44:20 GMT | The Governance Gap: Why AI Outpaces Your Infrastructure | James Word | [Read More](https://medium.com/p/cefffb195176) |
-| Wed, 01 Apr 2026 21:35:38 GMT | I Reverse-Engineered My Xiaomi Band 7 Pro Using Only a Browser | Wael Hasnaoui | [Read More](https://medium.com/p/966f88c32f4e) |
-| Wed, 01 Apr 2026 21:29:03 GMT | Dynamic Analysis — Behavioral Dissection | Huzaifah Tahir | [Read More](https://medium.com/p/d5f0173d4bc4) |
-| Wed, 01 Apr 2026 21:27:22 GMT | Demystifying Zero Trust | Jake | [Read More](https://medium.com/p/1829409aeec7) |
-| Wed, 01 Apr 2026 21:22:11 GMT | Silent Privacy Leak: How Chrome Metadata Discloses Your Location via CCM
-Dynamic Location Metadata… | Yahya Ahmed | [Read More](https://medium.com/p/f76ad37ad268) |
-| Wed, 01 Apr 2026 21:06:53 GMT | Axios Supply Chain Attack: The Day JavaScript Developers Got Owned | Navod Dilshan | [Read More](https://medium.com/p/3ebef3ca7ef4) |
-| Wed, 01 Apr 2026 21:05:12 GMT | Scaling Identity: How I Built a Multi-Tenant MFA Service for 60+ Enterprise Tenants for <$200/Month | Kalidas Palanisamy | [Read More](https://medium.com/p/672e7643f3f1) |
-| Wed, 01 Apr 2026 21:03:37 GMT | How I Got My First Bounty $$$ | Emad Saad | [Read More](https://medium.com/p/e79e0e0887bf) |
-| Wed, 01 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 39: Miscellaneous IT | Maximillian Rueda | [Read More](https://medium.com/p/e127b68e9ed7) |
-| Wed, 01 Apr 2026 20:57:59 GMT | Understanding ISO 27001: Clause 4 | Roland R. Puiestik | [Read More](https://medium.com/p/807a1b5abf9f) |
-| Wed, 01 Apr 2026 20:43:25 GMT | CPL Writeups | BL4CKD3V0P5 | [Read More](https://medium.com/p/3bb6984c53ed) |
-| Wed, 01 Apr 2026 20:36:02 GMT | What No One Tells You About AI Risk in the Enterprise | Mark Lynd | [Read More](https://medium.com/p/6c72d38d9031) |
-| Wed, 01 Apr 2026 20:35:31 GMT | Siber Güvenlik: Sadece Büyük Şirketlerin Değil, Herkesin Meselesi | HSD Topkapı | [Read More](https://medium.com/p/53fa48c29f7f) |
-| Wed, 01 Apr 2026 20:31:02 GMT | Common Mistakes Made by Cybersecurity Beginners | PriOFF | [Read More](https://medium.com/p/f55264e88c9f) |
-| Wed, 01 Apr 2026 20:29:00 GMT | Host & Network Penetration Testing: Exploitation CTF 3 | Vanshaj Kumar | [Read More](https://medium.com/p/92f5bab98a05) |
