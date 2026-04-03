@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 17:25:10 GMT | Driving Innovation with idca and alternative energy sources | International Data Center Authority | [Read More](https://medium.com/p/f1d2b81cfda1) |
+| Fri, 03 Apr 2026 17:22:27 GMT | Attack Surface to Exploitation: A Practical Web App Pentest Walkthrough | Tyreek Haynes | [Read More](https://medium.com/p/0ace0948a24b) |
+| Fri, 03 Apr 2026 17:16:46 GMT | I Bypassed a Company Login Without Knowing Any Password — My First SQL Injection Story | Blessing | [Read More](https://medium.com/p/a33fec18e480) |
+| Fri, 03 Apr 2026 17:05:35 GMT | How to Choose the Best Cloud Hosting for Higher Education in 2026 | Concourse Hosting | [Read More](https://medium.com/p/09aa8ee4144f) |
+| Fri, 03 Apr 2026 17:02:08 GMT | AI Security Just Got Real | Jason Hishmeh | [Read More](https://medium.com/p/d1885e8da624) |
+| Fri, 03 Apr 2026 16:59:03 GMT | Day 6: The Incident Response Lifecycle — Architecting Enterprise Resilience Under Fire | Ndu | [Read More](https://medium.com/p/461d2c2bd380) |
+| Fri, 03 Apr 2026 16:55:38 GMT | APNs Token Registration Issues on iOS A Complete Debugging Journey | Obioma Godswill Michael | [Read More](https://medium.com/p/ca23c26b36fa) |
+| Fri, 03 Apr 2026 16:42:02 GMT | Identity Defense is Broken-Rainbow Secure Is Redefining It | Dr. Shashi Karhail | [Read More](https://medium.com/p/fa8105d67862) |
+| Fri, 03 Apr 2026 16:41:54 GMT | The VPN Myth: Why Most People Don’t Need One Anymore | Mithrais | [Read More](https://medium.com/p/d48723938795) |
+| Fri, 03 Apr 2026 16:41:52 GMT | IP-Vortex Deep Dive - IP Rotation & Anonymity for Cybersecurity | Pentester Club | [Read More](https://medium.com/p/836b34487ebb) |
 | Fri, 03 Apr 2026 16:28:52 GMT | The Bugs No Scanner Will Ever Find | Burak Tülüceoğlu | [Read More](https://medium.com/p/5f7fb93d270b) |
 | Fri, 03 Apr 2026 16:24:42 GMT | How to Generate a Strong Password Online for Free (Nothing Saved, Nothing Sent) | Shaishavap | [Read More](https://medium.com/p/d37847033579) |
 | Fri, 03 Apr 2026 16:23:06 GMT | Your Account May Be Gone. Your Identity May Already Be Everywhere. | RVwv.B | [Read More](https://medium.com/p/bea76d09a004) |
@@ -104,13 +114,3 @@ Most… | Kingdipszy | [Read More](https://medium.com/p/bdba69893ae3) |
 | Fri, 03 Apr 2026 11:31:14 GMT | AWS Isn’t a SIEM Strategy — It’s a Procurement Default | Graylog | [Read More](https://medium.com/p/15ff761a887d) |
 | Fri, 03 Apr 2026 11:31:01 GMT | The SSH Access That Didn’t Trigger a Single Alert | Faruk Ahmed | [Read More](https://medium.com/p/f1f1cd6d9d15) |
 | Fri, 03 Apr 2026 11:28:11 GMT | CTF Write-up Crptography(13) | Blacklotus | [Read More](https://medium.com/p/b17adaf8bafa) |
-| Fri, 03 Apr 2026 11:22:48 GMT | Practical Cybersecurity for SMBs – Part 2 | Man Of Truth | [Read More](https://medium.com/p/8fad4d12f6ea) |
-| Fri, 03 Apr 2026 11:22:38 GMT | How to Set Up a Fast VPN in 2026: Complete Guide for iPhone, Android, Mac & Windows | EVA VPN | [Read More](https://medium.com/p/06d8ccb6df04) |
-| Fri, 03 Apr 2026 11:22:34 GMT | How I Use AI to Write Pentest Reports in Half the Time (And Sound More Professional Doing It) | Cyberaiprompts | [Read More](https://medium.com/p/6c76ac662830) |
-| Fri, 03 Apr 2026 11:16:41 GMT | The Hackers Labs Writeup — Stars Wars I (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/61dfe17dfec8) |
-| Fri, 03 Apr 2026 11:11:40 GMT | Build Scalable Automation Systems with Skilled Workflow Engineers | n8ndevelopers | [Read More](https://medium.com/p/98779c66942f) |
-| Fri, 03 Apr 2026 11:09:27 GMT | CCTV Monitoring for Hospitals | Doris William | [Read More](https://medium.com/p/d7cfd1f31cfd) |
-| Fri, 03 Apr 2026 11:04:54 GMT | The Future of High-Performance Steelmaking: A Deep Dive into India’s Refractory Revolution. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/f12ba01e1a3e) |
-| Fri, 03 Apr 2026 11:00:05 GMT | Juice Shop Write-up: Empty Registration Challenge | ~ Jeff ~ | [Read More](https://medium.com/p/82647beda530) |
-| Fri, 03 Apr 2026 10:53:51 GMT | Cyber Security vs Ethical Hacking — Which Career is Better? | Ntech Global Solutions | [Read More](https://medium.com/p/ac0b585946c3) |
-| Fri, 03 Apr 2026 10:51:35 GMT | Best Security Practices for Cisco Network Devices | Mohammed Naseef | [Read More](https://medium.com/p/e9a14d8edc52) |
