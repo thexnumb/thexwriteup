@@ -12,9 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 16:28:52 GMT | The Bugs No Scanner Will Ever Find | Burak Tülüceoğlu | [Read More](https://medium.com/p/5f7fb93d270b) |
+| Fri, 03 Apr 2026 16:24:42 GMT | How to Generate a Strong Password Online for Free (Nothing Saved, Nothing Sent) | Shaishavap | [Read More](https://medium.com/p/d37847033579) |
+| Fri, 03 Apr 2026 16:23:06 GMT | Your Account May Be Gone. Your Identity May Already Be Everywhere. | RVwv.B | [Read More](https://medium.com/p/bea76d09a004) |
+| Fri, 03 Apr 2026 16:18:18 GMT | Why Uploading Your Bank Statements to Free PDF Converters is a Massive Security Risk (And How to Do… | Doctijori | [Read More](https://medium.com/p/2e17d997ffaa) |
+| Fri, 03 Apr 2026 16:10:16 GMT | Reshuffling the Cards in the Eastern Mediterranean | Gökçen Kunukcu | [Read More](https://medium.com/p/a7c158ea3b71) |
+| Fri, 03 Apr 2026 16:06:01 GMT | How to Hide Photos on iPhone in 2026 (Complete Guide) | Rasty | [Read More](https://medium.com/p/51e1e30f2497) |
+| Fri, 03 Apr 2026 16:00:06 GMT | A cow broke loose on a busy highway. Do we call the police or a cowboy? | Prince Lassey | [Read More](https://medium.com/p/ed4c654bf128) |
+| Fri, 03 Apr 2026 15:56:05 GMT | Nightlife Security in 2026: Trends Every Door Supervisor Should Prepare For | courses4u | [Read More](https://medium.com/p/872a878b6709) |
+| Fri, 03 Apr 2026 15:54:04 GMT | I Found a HIPAA Violation in a $400M Startup. They Paid Me $1,000 and Forgot the NDA. | Caleb Bacher | [Read More](https://medium.com/p/f5ff002733e3) |
+| Fri, 03 Apr 2026 15:48:00 GMT | When Even the FBI Gets Hacked: What This Cyberattack Means for All of Us | Sharanraju | [Read More](https://medium.com/p/71607351bd3d) |
+| Fri, 03 Apr 2026 15:42:27 GMT | Building Secure Web Apps From Day One | Mubashir | [Read More](https://medium.com/p/f8faffe5e1ad) |
 | Fri, 03 Apr 2026 15:34:46 GMT | Top Crypto Recovery Services in 2026 | Manonjamesq | [Read More](https://medium.com/p/14e862ce0d7c) |
 | Fri, 03 Apr 2026 15:32:07 GMT | Bebop - TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/4c883b6e392f) |
 | Fri, 03 Apr 2026 15:31:40 GMT | TryHackMe - Spring AI: CVE-2026–22738 - WriteUp | Axoloth | [Read More](https://medium.com/p/354db657d620) |
+| Fri, 03 Apr 2026 15:31:02 GMT | Autonomy Without Control: The Next Enterprise Security Crisis | Oscar Antonangelo | [Read More](https://medium.com/p/209e852c9204) |
 | Fri, 03 Apr 2026 15:21:17 GMT | Enterprise Security Audit Tool for Dynamics 365 in XrmToolBox — Role Privilege Analyzer | Moamen Ashraf | [Read More](https://medium.com/p/02c45e3c3b6d) |
 | Fri, 03 Apr 2026 15:19:54 GMT | Step-by-Step HTTP Log Analysis in Splunk: Detecting Vulnerability Scanning and Unauthorized Access… | suraj | [Read More](https://medium.com/p/9eb855c6dae7) |
 | Fri, 03 Apr 2026 15:13:54 GMT | The “Claude Leak Code” Controversy: What Happened, Why It Matters, and All Possible Scenarios | Software Developer | [Read More](https://medium.com/p/4313f7da2edf) |
@@ -102,15 +114,3 @@ Most… | Kingdipszy | [Read More](https://medium.com/p/bdba69893ae3) |
 | Fri, 03 Apr 2026 11:00:05 GMT | Juice Shop Write-up: Empty Registration Challenge | ~ Jeff ~ | [Read More](https://medium.com/p/82647beda530) |
 | Fri, 03 Apr 2026 10:53:51 GMT | Cyber Security vs Ethical Hacking — Which Career is Better? | Ntech Global Solutions | [Read More](https://medium.com/p/ac0b585946c3) |
 | Fri, 03 Apr 2026 10:51:35 GMT | Best Security Practices for Cisco Network Devices | Mohammed Naseef | [Read More](https://medium.com/p/e9a14d8edc52) |
-| Fri, 03 Apr 2026 10:43:43 GMT | SOC Analyst vs Ethical Hacker: Best Cybersecurity Jobs In Delhi (2026) | Varun Papnai | [Read More](https://medium.com/p/b77983947622) |
-| Fri, 03 Apr 2026 10:36:52 GMT | Complete Data Compliance Monitoring Guide 2026 | EzSecure | [Read More](https://medium.com/p/ee278e22e4ff) |
-| Fri, 03 Apr 2026 10:36:13 GMT | Implementing repeating-key XOR cipher | Sagnik Ghosh | [Read More](https://medium.com/p/5cb8dd00a16b) |
-| Fri, 03 Apr 2026 10:33:21 GMT | Day 1 · Origin Story | Diptava Dey | [Read More](https://medium.com/p/f570ca9c818c) |
-| Fri, 03 Apr 2026 10:30:59 GMT | SMB Signing Not Required: The Silent Door Your Network Left Open | EternalSec | [Read More](https://medium.com/p/ae65777f23db) |
-| Fri, 03 Apr 2026 10:30:10 GMT | TryHackMe Secrets Within - Write-up | Priyam chauhan | [Read More](https://medium.com/p/bf14926a8448) |
-| Fri, 03 Apr 2026 10:29:18 GMT | Cybersecurity for Medical Practices & Cloud Solutions for Healthcare B2B: A Strategic Guide for… | Tekkis | [Read More](https://medium.com/p/9c089f8acec3) |
-| Fri, 03 Apr 2026 10:25:38 GMT | Why Every Online Dater Needs a Tea Checker in 2026 | Davidsonjosephkhan | [Read More](https://medium.com/p/49ebabf0d568) |
-| Fri, 03 Apr 2026 10:23:56 GMT | Safest Game Trainer for PC in 2026: The Hardcore Gamer’s Security Guide | Catherine - PC Gaming Editor | [Read More](https://medium.com/p/d0f6dac05422) |
-| Fri, 03 Apr 2026 10:14:01 GMT | TC-ACN Incident Mapper Tool v2.0 | cub01d5 | [Read More](https://medium.com/p/8489eb3bfbd9) |
-| Fri, 03 Apr 2026 10:03:17 GMT | CVE-2026–21643: FortiClient EMS Critical SQL Injection — Actively Exploited, No Credentials… | Ali Dak | [Read More](https://medium.com/p/5eb081f2a044) |
-| Fri, 03 Apr 2026 10:01:02 GMT | The Deep Web Is Not What You Think It Is | Juan M. Vazquez | [Read More](https://medium.com/p/c87bfe3fa18b) |
