@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 15:34:46 GMT | Top Crypto Recovery Services in 2026 | Manonjamesq | [Read More](https://medium.com/p/14e862ce0d7c) |
+| Fri, 03 Apr 2026 15:32:07 GMT | Bebop - TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/4c883b6e392f) |
+| Fri, 03 Apr 2026 15:31:40 GMT | TryHackMe - Spring AI: CVE-2026–22738 - WriteUp | Axoloth | [Read More](https://medium.com/p/354db657d620) |
+| Fri, 03 Apr 2026 15:21:17 GMT | Enterprise Security Audit Tool for Dynamics 365 in XrmToolBox — Role Privilege Analyzer | Moamen Ashraf | [Read More](https://medium.com/p/02c45e3c3b6d) |
+| Fri, 03 Apr 2026 15:19:54 GMT | Step-by-Step HTTP Log Analysis in Splunk: Detecting Vulnerability Scanning and Unauthorized Access… | suraj | [Read More](https://medium.com/p/9eb855c6dae7) |
+| Fri, 03 Apr 2026 15:13:54 GMT | The “Claude Leak Code” Controversy: What Happened, Why It Matters, and All Possible Scenarios | Software Developer | [Read More](https://medium.com/p/4313f7da2edf) |
+| Fri, 03 Apr 2026 15:11:13 GMT | Beginner Recon Checklist (Step-by-Step Guide for Bug Bounty & Pentesting) | Riya Limba | [Read More](https://medium.com/p/212fa880cb0a) |
+| Fri, 03 Apr 2026 15:11:10 GMT | Exposed .env File Leads To API Key Leak & Financial Impact | 1sherlok | [Read More](https://medium.com/p/3886bf375367) |
+| Fri, 03 Apr 2026 15:02:14 GMT | Prompt Injection Is Still the #1 AI Vulnerability in 2026 — And We’re Running Out of Excuses | Suleiman Tawil | [Read More](https://medium.com/p/288e3e5cb303) |
+| Fri, 03 Apr 2026 14:47:09 GMT | API10: Unsafe Consumption of APIs — The Supply Chain Problem Nobody Is Solving | Cyberbali | [Read More](https://medium.com/p/f074a7f2207f) |
 | Fri, 03 Apr 2026 14:42:21 GMT | The Bouncer Who Never Checked IDs | 0xStxrless | [Read More](https://medium.com/p/2fc95942e990) |
+| Fri, 03 Apr 2026 14:42:10 GMT | The Era of the Governed Agent: Why Agentic AI Security is Extremely Important in 2026 | evoailabs | [Read More](https://medium.com/p/f437e8719843) |
 | Fri, 03 Apr 2026 14:41:47 GMT | Hacking 101: The art of Hacking | Code 33 | [Read More](https://medium.com/p/00ad63cb4d56) |
 | Fri, 03 Apr 2026 14:39:20 GMT | Laporan Praktikum Struktur Data : Searching | Cahyoadi | [Read More](https://medium.com/p/c4868c5b2f12) |
 | Fri, 03 Apr 2026 14:37:04 GMT | Browsed — HackTheBox Writeup | 0xStxrless | [Read More](https://medium.com/p/9c01476e4228) |
@@ -103,14 +114,3 @@ Most… | Kingdipszy | [Read More](https://medium.com/p/bdba69893ae3) |
 | Fri, 03 Apr 2026 10:14:01 GMT | TC-ACN Incident Mapper Tool v2.0 | cub01d5 | [Read More](https://medium.com/p/8489eb3bfbd9) |
 | Fri, 03 Apr 2026 10:03:17 GMT | CVE-2026–21643: FortiClient EMS Critical SQL Injection — Actively Exploited, No Credentials… | Ali Dak | [Read More](https://medium.com/p/5eb081f2a044) |
 | Fri, 03 Apr 2026 10:01:02 GMT | The Deep Web Is Not What You Think It Is | Juan M. Vazquez | [Read More](https://medium.com/p/c87bfe3fa18b) |
-| Fri, 03 Apr 2026 09:56:32 GMT | My Cybersecurity Journey (Day-3) | Priyesh Patware | [Read More](https://medium.com/p/aa2f2fefa24e) |
-| Fri, 03 Apr 2026 09:52:30 GMT | I Thought Learning Cybersecurity Would Be Simple — I Was Wrong | Sharif Hassan | [Read More](https://medium.com/p/7684727b22e3) |
-| Fri, 03 Apr 2026 09:51:11 GMT | Raspberry Pi Server: Fortifying Your Digital Fortress with Safeline WAF Protection | John Hawkins | [Read More](https://medium.com/p/f36784b45986) |
-| Fri, 03 Apr 2026 09:45:30 GMT | From Zero to SIA Ready: The Fastest Way to Start a Security Career in 2026 | courses4u | [Read More](https://medium.com/p/720fa6dffb55) |
-| Fri, 03 Apr 2026 09:43:38 GMT | Claude Code Leak: A Wake-Up Call Every Developer Should Pay Attention To | Dibeesh KS | [Read More](https://medium.com/p/203a6c3dfa84) |
-| Fri, 03 Apr 2026 09:41:01 GMT | Threat Intelligence Is About Reducing Surprise, Not Preventing All Attacks | Rishika Desai | [Read More](https://medium.com/p/9b2660b84cea) |
-| Fri, 03 Apr 2026 09:39:56 GMT | Do we always need a backend? : Peer-to-peer device data transfer | Karol Burdziński | [Read More](https://medium.com/p/ae3da6c1aa67) |
-| Fri, 03 Apr 2026 09:36:37 GMT | Inside the TeamPCP LiteLLM Supply Chain Attack and What to Do Right Now | Owadokun Tosin Tobi | [Read More](https://medium.com/p/b6162bb21dbb) |
-| Fri, 03 Apr 2026 09:34:09 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/92843cc4995f) |
-| Fri, 03 Apr 2026 09:26:29 GMT | STRATEGIC CYBERSECURITY AUDIT 2026 | Glorenaspeaks | [Read More](https://medium.com/p/72e94c757795) |
-| Fri, 03 Apr 2026 09:17:16 GMT | Why Active Directory is the Most Critical Skill in Cybersecurity | Glorenaspeaks | [Read More](https://medium.com/p/7f7e11bbdec2) |
