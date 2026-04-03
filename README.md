@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 11:04:54 GMT | The Future of High-Performance Steelmaking: A Deep Dive into India’s Refractory Revolution. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/f12ba01e1a3e) |
+| Fri, 03 Apr 2026 11:00:05 GMT | Juice Shop Write-up: Empty Registration Challenge | ~ Jeff ~ | [Read More](https://medium.com/p/82647beda530) |
+| Fri, 03 Apr 2026 10:53:51 GMT | Cyber Security vs Ethical Hacking — Which Career is Better? | Ntech Global Solutions | [Read More](https://medium.com/p/ac0b585946c3) |
+| Fri, 03 Apr 2026 10:51:35 GMT | Best Security Practices for Cisco Network Devices | Mohammed Naseef | [Read More](https://medium.com/p/e9a14d8edc52) |
+| Fri, 03 Apr 2026 10:43:43 GMT | SOC Analyst vs Ethical Hacker: Best Cybersecurity Jobs In Delhi (2026) | Varun Papnai | [Read More](https://medium.com/p/b77983947622) |
+| Fri, 03 Apr 2026 10:36:52 GMT | Complete Data Compliance Monitoring Guide 2026 | EzSecure | [Read More](https://medium.com/p/ee278e22e4ff) |
+| Fri, 03 Apr 2026 10:36:13 GMT | Implementing repeating-key XOR cipher | Sagnik Ghosh | [Read More](https://medium.com/p/5cb8dd00a16b) |
+| Fri, 03 Apr 2026 10:33:21 GMT | Day 1 · Origin Story | Diptava Dey | [Read More](https://medium.com/p/f570ca9c818c) |
+| Fri, 03 Apr 2026 10:30:59 GMT | SMB Signing Not Required: The Silent Door Your Network Left Open | EternalSec | [Read More](https://medium.com/p/ae65777f23db) |
+| Fri, 03 Apr 2026 10:30:10 GMT | TryHackMe Secrets Within - Write-up | Priyam chauhan | [Read More](https://medium.com/p/bf14926a8448) |
+| Fri, 03 Apr 2026 10:29:18 GMT | Cybersecurity for Medical Practices & Cloud Solutions for Healthcare B2B: A Strategic Guide for… | Tekkis | [Read More](https://medium.com/p/9c089f8acec3) |
+| Fri, 03 Apr 2026 10:25:38 GMT | Why Every Online Dater Needs a Tea Checker in 2026 | Davidsonjosephkhan | [Read More](https://medium.com/p/49ebabf0d568) |
+| Fri, 03 Apr 2026 10:23:56 GMT | Safest Game Trainer for PC in 2026: The Hardcore Gamer’s Security Guide | Catherine - PC Gaming Editor | [Read More](https://medium.com/p/d0f6dac05422) |
+| Fri, 03 Apr 2026 10:14:01 GMT | TC-ACN Incident Mapper Tool v2.0 | cub01d5 | [Read More](https://medium.com/p/8489eb3bfbd9) |
 | Fri, 03 Apr 2026 10:03:17 GMT | CVE-2026–21643: FortiClient EMS Critical SQL Injection — Actively Exploited, No Credentials… | Ali Dak | [Read More](https://medium.com/p/5eb081f2a044) |
 | Fri, 03 Apr 2026 10:01:02 GMT | The Deep Web Is Not What You Think It Is | Juan M. Vazquez | [Read More](https://medium.com/p/c87bfe3fa18b) |
 | Fri, 03 Apr 2026 09:56:32 GMT | My Cybersecurity Journey (Day-3) | Priyesh Patware | [Read More](https://medium.com/p/aa2f2fefa24e) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 04:56:34 GMT | Why Explainable AI is Critical for Misinformation Detection | Bright Duffour | [Read More](https://medium.com/p/fa4c1f06c93d) |
 | Fri, 03 Apr 2026 04:55:25 GMT | Burp Suite vs. Caido: Which Web App Pentesting Proxy Should You Learn First? | Dfaults | [Read More](https://medium.com/p/ff4a4093a7af) |
 | Fri, 03 Apr 2026 04:53:35 GMT | Drovenio IT Certification Guide: Best IT Certifications, Career Paths, Costs, and How to Choose the… | Tycoonstories | [Read More](https://medium.com/p/b908a90c19bd) |
-| Fri, 03 Apr 2026 04:39:12 GMT | Sahte Baz İstasyonu Nedir? | Ali Yaşe | [Read More](https://medium.com/p/792295e4bd5e) |
-| Fri, 03 Apr 2026 04:36:18 GMT | CYBERDUDEBIVASH® AI SECURITY HUB — OFFICIAL GLOBAL LAUNCH (NOW LIVE) | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/d39c5905d84f) |
-| Fri, 03 Apr 2026 04:32:43 GMT | DHCP Explained: From the DORA Process to Preventing DoS Attacks | Sriranjan Kapilan | [Read More](https://medium.com/p/f1a369fccb2d) |
-| Fri, 03 Apr 2026 04:31:04 GMT | Webhook Security Explained (Signatures, Validation) | Hasan Chinthaka | [Read More](https://medium.com/p/97f4d364e517) |
-| Fri, 03 Apr 2026 04:27:33 GMT | Mobile Deep Link Exploitation: The Hidden Attack Surface Nobody Talks About | Being_brutlix | [Read More](https://medium.com/p/d2cae2e64c0e) |
-| Fri, 03 Apr 2026 04:23:50 GMT | AI in Cyber Security 101 | Param Dave | [Read More](https://medium.com/p/8ae0258fbcd1) |
-| Fri, 03 Apr 2026 03:37:24 GMT | Zero Trust Chains: Securing AI Tools in the Enterprise | James Kittle | [Read More](https://medium.com/p/af252f3adf2b) |
-| Fri, 03 Apr 2026 03:19:20 GMT | The Dark Side of LLM | Yevhenivashchenko | [Read More](https://medium.com/p/4f1d15327d35) |
-| Fri, 03 Apr 2026 03:10:29 GMT | The Heist Inside Your Dependencies | Abinesh Solairaj | [Read More](https://medium.com/p/39035301933f) |
-| Fri, 03 Apr 2026 03:02:16 GMT | picoCTF 2026 Writeup: Credential Stuffing | Abisha Shetty | [Read More](https://medium.com/p/f5465c0895fc) |
-| Fri, 03 Apr 2026 02:48:02 GMT | Prioritizing Risk: Why Context Matters in API Security | John Hawkins | [Read More](https://medium.com/p/bb8a6ff47c38) |
-| Fri, 03 Apr 2026 02:47:17 GMT | picoCTF 2026 Writeup: ABSOLUTE NANO (Privilege Escalation via nano) | Abisha Shetty | [Read More](https://medium.com/p/98f9d5ce62b4) |
-| Fri, 03 Apr 2026 02:39:15 GMT | OTP Bombing | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/b8ef3763b327) |
-| Fri, 03 Apr 2026 02:26:14 GMT | SQL Injection: How a Single Line of Code Can Make Your Website Vulnerable | Dalila Zitouni | [Read More](https://medium.com/p/058fd005b3ba) |
