@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 21:23:52 GMT | Booyegeman 1: My Personified Experience | Cyber-sam01 | [Read More](https://medium.com/p/537c7372b3bc) |
+| Fri, 03 Apr 2026 21:02:34 GMT | I Reverse-Engineered My Gmail Login and Found Something Unexpected | Akshat Tiwari | [Read More](https://medium.com/p/6d3d326f7cc6) |
+| Fri, 03 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 41: Conclusion + Pre-Practice | Maximillian Rueda | [Read More](https://medium.com/p/10be97d933f5) |
+| Fri, 03 Apr 2026 20:59:12 GMT | The Structural Failure of the “AI Company” | Nathan Sigworth | [Read More](https://medium.com/p/a808eac7552d) |
+| Fri, 03 Apr 2026 20:53:56 GMT | Network Scanning with Nmap | Binyamin zahid | [Read More](https://medium.com/p/931acda7a963) |
+| Fri, 03 Apr 2026 20:40:04 GMT | How to Build a Wazuh SIEM Home Lab with a Windows 11 Agent | Muhammad Danish | [Read More](https://medium.com/p/c770d69ac3d9) |
 | Fri, 03 Apr 2026 20:08:40 GMT | Watching Hackers in Real-Time: Building My Own Honeypot (VenomHive) | Yasinovaydin | [Read More](https://medium.com/p/1744c3d5b961) |
 | Fri, 03 Apr 2026 20:00:25 GMT | Pivoting with Metasploit: A Beginner’s Guide to Network Pivoting | Mawira Victor | [Read More](https://medium.com/p/a263fd7c3283) |
 | Fri, 03 Apr 2026 19:49:44 GMT | Patterns That Cut AI Security Pipeline Costs | Shimon Ben | [Read More](https://medium.com/p/010fcc25fda8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 13:01:12 GMT | 5 VPNs That Were Caught Lying About Their No-Log Policy | Maryamwarisali | [Read More](https://medium.com/p/470dbb972d54) |
 | Fri, 03 Apr 2026 13:01:02 GMT | Inherited Infrastructure: Building a Homelab the Way Real IT Works | Vincent Do | [Read More](https://medium.com/p/bb44aefb3631) |
 | Fri, 03 Apr 2026 13:01:02 GMT | [Oppenheimer] Survival Logic of the Sovereign Individual within Mega-Systems | MonoEssay | [Read More](https://medium.com/p/013240493e7a) |
-| Fri, 03 Apr 2026 12:51:01 GMT | How Hackers Steal Browser Passwords - Attack Chain Explained & How to Stay Safe | MainEkHacker | [Read More](https://medium.com/p/f518455d3bf5) |
-| Fri, 03 Apr 2026 12:50:20 GMT | AI OR Human Mind — choice is yours | Nolan Stark | [Read More](https://medium.com/p/8c12fb17f5c9) |
-| Fri, 03 Apr 2026 12:44:17 GMT | The Internet’s Landlord Problem | Brennan Kenneth Brown | [Read More](https://medium.com/p/39221e7e69af) |
-| Fri, 03 Apr 2026 12:43:31 GMT | How to Maneuver a GoDaddy Cpanel | Percy Jobs | [Read More](https://medium.com/p/9cbf76a2fee3) |
-| Fri, 03 Apr 2026 12:41:42 GMT | Bagaimana Karir Saya Hampir Hancur Gara-Gara Memperbarui Versi Axios. | Alx | [Read More](https://medium.com/p/ca5f66e37506) |
-| Fri, 03 Apr 2026 12:40:48 GMT | How I Found a P1 Bug in a Bug Bounty Program (Step-by-Step Guide) | Pradeeptadi | [Read More](https://medium.com/p/7a3fb5ed60ac) |
