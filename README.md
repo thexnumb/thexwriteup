@@ -12,12 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 09:17:16 GMT | Why Active Directory is the Most Critical Skill in Cybersecurity | Glorenaspeaks | [Read More](https://medium.com/p/7f7e11bbdec2) |
+| Fri, 03 Apr 2026 09:16:48 GMT | Prevenção a fraudes na era digital: | Yo | [Read More](https://medium.com/p/fef0954a240f) |
+| Fri, 03 Apr 2026 09:15:38 GMT | JR Academy Chrome Extension “求职匠 Job Hunter” Silently Uploads Every LinkedIn Profile You Visit | JusNull | [Read More](https://medium.com/p/9cf53245d71e) |
+| Fri, 03 Apr 2026 09:14:58 GMT | How a Dumb Typo Exposed a Global Spam Ring (And Why Your 2FA Won’t Save Your Inbox) | Jo Mans | [Read More](https://medium.com/p/ac002310a139) |
+| Fri, 03 Apr 2026 09:09:53 GMT | OSINT Briefjng — April 3, 2026: How OSINT is Used in Criminal Investigations | Gianluca Galimberti | [Read More](https://medium.com/p/d8873ee24081) |
+| Fri, 03 Apr 2026 09:07:35 GMT | IDOR / BOLA: The Vulnerability That Keeps Leaking Everyone’s Data | Tarun Jaswani | [Read More](https://medium.com/p/df607b07c26c) |
+| Fri, 03 Apr 2026 09:06:25 GMT | Which Antivirus Should We Trust? An Analysis of Windows, Mac, and Android with AV-TEST Data | Ömer Faruk Kurt | [Read More](https://medium.com/p/42865a4b48c2) |
+| Fri, 03 Apr 2026 09:04:37 GMT | Think Two-Factor Authentication Makes You Safe? Think Again. | Dallen Sadru | [Read More](https://medium.com/p/c87fe0d51843) |
+| Fri, 03 Apr 2026 09:01:02 GMT | هجوم سلسلة توريد على Axios: كيف تحمي مشروع Node.js من إصدارات npm المخترقة | Rynbsd | [Read More](https://medium.com/p/411f1f3d174c) |
+| Fri, 03 Apr 2026 08:59:36 GMT | [CONFIDENTIAL] Exposure of Raytheon Cybersecurity Executive Position Recruitment on the Dark Web | Excalibra | [Read More](https://medium.com/p/2fbecd098b4f) |
+| Fri, 03 Apr 2026 08:58:24 GMT | Why Your 2025 Password Strategy is Obsolete Against 2026 AI Voice Scams | Avish Gokhool | [Read More](https://medium.com/p/8704fec4aa17) |
+| Fri, 03 Apr 2026 08:56:38 GMT | Spring AI: CVE-2026–22738 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/69d286956697) |
+| Fri, 03 Apr 2026 08:54:47 GMT | CTFs in the Age of AI: Are We Still Learning or Just Scoring? | Abilash B | [Read More](https://medium.com/p/10431c66c669) |
+| Fri, 03 Apr 2026 08:50:47 GMT | I Got Tired of Just Reading Bug Bounty Writeups. So I Built This. | Vivek PS | [Read More](https://medium.com/p/05ba1d799b44) |
+| Fri, 03 Apr 2026 08:49:34 GMT | Building a Browser-Based Payload Transformation Toolkit for Web Security Testing | Ilias Georgopoulos | [Read More](https://medium.com/p/c3e4a3372c75) |
+| Fri, 03 Apr 2026 08:45:35 GMT | GraphQL Security: How I Found and Exploited Critical IDOR and Authorization Bypass in a… | Krishna Kumar | [Read More](https://medium.com/p/42ab78e13642) |
+| Fri, 03 Apr 2026 08:30:09 GMT | Inside The Vault Sentry — How We Detect and Stop API Key Leaks | Thevaultsentry | [Read More](https://medium.com/p/08d4c172bb7c) |
+| Fri, 03 Apr 2026 08:23:50 GMT | How Cybersecurity Can Change the World | Tarun Jaswani | [Read More](https://medium.com/p/dd4cd368c346) |
+| Fri, 03 Apr 2026 08:20:18 GMT | Cybersecurity Basics for Individuals: Protecting Your Digital Life in 2026 | Vishal S | [Read More](https://medium.com/p/e66b0e11cd4b) |
+| Fri, 03 Apr 2026 08:19:32 GMT | Why API Key Security Should Be Your Startup’s First Priority | Thevaultsentry | [Read More](https://medium.com/p/774543486248) |
+| Fri, 03 Apr 2026 08:17:18 GMT | Cyber Security roadmap for beginners after 12th | cyber security Updates | [Read More](https://medium.com/p/2174c9c6a3ad) |
+| Fri, 03 Apr 2026 08:17:01 GMT | Someone Could Be Using Your Computer Right Now. You’d Never Know | Vishwas R | [Read More](https://medium.com/p/b27962cdcb08) |
+| Fri, 03 Apr 2026 08:10:44 GMT | Your code didn’t break. Europe changed the time: the bug that only shows up twice a year | H2bm | [Read More](https://medium.com/p/71087c89278a) |
 | Fri, 03 Apr 2026 07:40:21 GMT | Can Someone Access Your Phone Camera Without You Knowing? | Kratika | [Read More](https://medium.com/p/9e8006c34473) |
 | Fri, 03 Apr 2026 07:35:51 GMT | 7 Subfinder Tricks That Instantly Expand Your Attack Surface | Fateyaly | [Read More](https://medium.com/p/8c4de803fa26) |
 | Fri, 03 Apr 2026 07:35:38 GMT | YOU DONT EVEN KNOW WHAT INSTAGRAM DID. | Teghpreet Singh Puri | [Read More](https://medium.com/p/ea74a405e8f0) |
 | Fri, 03 Apr 2026 07:32:50 GMT | CCTV System Installation for Everyday Safety | IT Solution Dubai | [Read More](https://medium.com/p/b1bc04f18da9) |
 | Fri, 03 Apr 2026 07:28:12 GMT | Vision-Guided Web AI Agents: The End of Fragile Automation | Datavex AI Pvt Ltd | [Read More](https://medium.com/p/345fe5754404) |
 | Fri, 03 Apr 2026 07:23:43 GMT | Anthropic Accidentally Open-Sourced Claude Code. Here’s What No One Is Talking About. | AIEngine | [Read More](https://medium.com/p/88f2789f1936) |
+| Fri, 03 Apr 2026 07:21:16 GMT | Why API Key Security Should Be Your Startup’s First Priority | Geshna Boddepalli | [Read More](https://medium.com/p/42ca3f34e49f) |
 | Fri, 03 Apr 2026 07:19:56 GMT | Red Team Automation: 12 Scripts That Save Hours (and Win Real Engagements) | Very Lazy Tech | [Read More](https://medium.com/p/4e52c49579bc) |
 | Fri, 03 Apr 2026 07:10:47 GMT | Thorbok Tech Introduces Next-Generation Cybersecurity and Human-Computer Interface Systems for… | Mason Ewing | [Read More](https://medium.com/p/7f42d685c9f2) |
 | Fri, 03 Apr 2026 07:09:44 GMT | Week 3: Understanding Linux File & Directory Permissions for Hackers | Nishant kumar | [Read More](https://medium.com/p/1d1d3a43c5c9) |
@@ -85,30 +109,6 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 00:40:39 GMT | Business VPN vs. Personal VPN: What’s the Difference? | Cloudbric VPN | [Read More](https://medium.com/p/9dcc7b5ef89e) |
 | Fri, 03 Apr 2026 00:19:47 GMT | Let Yourself Be Held | maria ｡๑ ° | [Read More](https://medium.com/p/3758195c1977) |
 | Fri, 03 Apr 2026 00:00:15 GMT | Decoder & Comparer — Reading What Applications Hide Inside Encoded Data | Yamini Yadav_369 | [Read More](https://medium.com/p/ea1fe1a93a08) |
+| Thu, 02 Apr 2026 23:56:22 GMT | Situasi Peperangan di Timur Tengah — 3 April 2026 | KoranDunia | [Read More](https://medium.com/p/1b90511e0283) |
 | Thu, 02 Apr 2026 23:16:03 GMT | Would You Rather Be Free, or Be Loved? | Monjolajesu Jawo | [Read More](https://medium.com/p/f4f46eadaf7e) |
 | Thu, 02 Apr 2026 23:15:22 GMT | The Story of Josiah Dhev: From a Challenging Upbringing to Teen Tech Visionary | DevPulseJournal | [Read More](https://medium.com/p/7fa9e079acb6) |
-| Thu, 02 Apr 2026 22:56:54 GMT | How SSO Supports Zero Trust | Jake | [Read More](https://medium.com/p/84eb243c2159) |
-| Thu, 02 Apr 2026 22:56:26 GMT | leapstack.vn: Data Breach Approximately 100 GB of health insurance claims accidentally exposed | chum1ng0 | [Read More](https://medium.com/p/c8f4da4b76f2) |
-| Thu, 02 Apr 2026 22:52:39 GMT | Signal and WhatsApp Don’t Get “Hacked” — People Do | Ilias Armenakis | [Read More](https://medium.com/p/f45ab844cda8) |
-| Thu, 02 Apr 2026 22:45:30 GMT | What to Know About Shareware (and Other Downloadables) | Spokeo People Search | [Read More](https://medium.com/p/62279ea7a64b) |
-| Thu, 02 Apr 2026 22:41:39 GMT | Home Security Company in Houston | AlexBryn | [Read More](https://medium.com/p/a05dbd05698a) |
-| Thu, 02 Apr 2026 22:41:14 GMT | Try Hack Me- Linux Server Forensics Walkthrough | PulseEinher | [Read More](https://medium.com/p/1ca33873e47f) |
-| Thu, 02 Apr 2026 22:35:49 GMT | HIPAA Compliance Checklist (2026): What You Actually Need | Ross | [Read More](https://medium.com/p/fafbc129129e) |
-| Thu, 02 Apr 2026 22:32:31 GMT | TCP/UDP Socket - Paket Manipülasyonu & Online Oyun Güvenliği | Onur Tazefidan | [Read More](https://medium.com/p/ce9ed6359cbe) |
-| Thu, 02 Apr 2026 22:30:10 GMT | Cross-Enterprise Persistence: When Trusted Infrastructure Becomes the Threat | Verity | [Read More](https://medium.com/p/15c5d13114b4) |
-| Thu, 02 Apr 2026 22:12:56 GMT | The Data Embassy: How Small States Are Reinventing Sovereignty in the Digital Age | CCD-IS | [Read More](https://medium.com/p/c84c13fe6ca3) |
-| Thu, 02 Apr 2026 22:07:53 GMT | The Axios NPM Supply Chain Attack: When the Water Supply Gets Poisoned | NeerajB | [Read More](https://medium.com/p/e62ee3b77558) |
-| Thu, 02 Apr 2026 22:07:00 GMT | The Great Browser Heist: Inside BrowserGate, LinkedIn’s Silent 6,000-Extension Surveillance Machine | Mehmet Turgay AKALIN | [Read More](https://medium.com/p/c731898363ea) |
-| Thu, 02 Apr 2026 22:06:44 GMT | The NSA is More Dangerous than Ever Under Trump — Avoid Its Dragnet | Kalen Smith | [Read More](https://medium.com/p/2ba75c4b56b0) |
-| Thu, 02 Apr 2026 21:55:01 GMT | From Idea to Capability: Making Living Off the Land Repeatable | Maretta Morovitz | [Read More](https://medium.com/p/9133e5359736) |
-| Thu, 02 Apr 2026 21:54:07 GMT | Finding the Spark Again: A Cybersecurity Reflection | Rich Hupe | [Read More](https://medium.com/p/db788a6e4eb5) |
-| Thu, 02 Apr 2026 21:50:34 GMT | OverTheWire Bandit Walkthrough — Level 6 → 7 - 30-Day Cybersecurity Learning Journey (Day 7) | William | [Read More](https://medium.com/p/91a5ece54f8f) |
-| Thu, 02 Apr 2026 21:50:11 GMT | How to Install Metasploitable 2 on Mac M1 Using UTM (Complete Guide) | Edward Ramos | [Read More](https://medium.com/p/f62096ef5a53) |
-| Thu, 02 Apr 2026 21:35:01 GMT | The Day the Wallet Went Silent: A Real Look at Blockchain Fraud in Switzerland | Ivona Jovanovic | [Read More](https://medium.com/p/f5ffa5f05e14) |
-| Thu, 02 Apr 2026 21:33:19 GMT | Weaponizing BYOVD to Kill and Evade Windows Defender | S12 - 0x12Dark Development | [Read More](https://medium.com/p/535ad94652b0) |
-| Thu, 02 Apr 2026 21:31:01 GMT | The LPG Shortage Trap: How Scammers Use Panic to Empty Your Wallet. | Lalit Tech Savvy | [Read More](https://medium.com/p/c6d7540cb26b) |
-| Thu, 02 Apr 2026 21:23:59 GMT | Who is Ömer Akın? Founder of Quantum Intelligence Hub and International Trade Strategist | Omer Akin | [Read More](https://medium.com/p/ac96ae066119) |
-| Thu, 02 Apr 2026 21:22:48 GMT | When Smart Isn’t Enough: The Real Bar for AI in Enterprise and Security-Critical Systems | Aditya Ladage | [Read More](https://medium.com/p/7db998c8b950) |
-| Thu, 02 Apr 2026 21:20:28 GMT | What Every Cyber Security Analyst Should Be Monitoring Daily | Nauman Aslam | [Read More](https://medium.com/p/e603d357f9f1) |
-| Thu, 02 Apr 2026 21:17:38 GMT | CVE-2023–6019 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/067cae70085d) |
-| Thu, 02 Apr 2026 21:11:03 GMT | Building a security program for edtech when your customers are the auditors | Nicolas Corder | [Read More](https://medium.com/p/b00f03b2b475) |
