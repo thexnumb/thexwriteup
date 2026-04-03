@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 19:32:15 GMT | PCI-DSS 4.0: What Test Engineers Are Missing — A System-Level Perspective | Rajeshkumar Rajaseakaran Nair | [Read More](https://medium.com/p/8356cc10a514) |
+| Fri, 03 Apr 2026 19:24:34 GMT | Transforming Modern Businesses with ERP: Why Systems Like HCM Byte Are Essential in the Digital Era | S Hassanabbas | [Read More](https://medium.com/p/5f9d6e6f59b5) |
+| Fri, 03 Apr 2026 19:06:01 GMT | Digital Forensics-[Ali Hadi — Web Server Case #3] | whoami | [Read More](https://medium.com/p/ce041cc8692d) |
+| Fri, 03 Apr 2026 18:48:18 GMT | Can Cybersecurity Washington DC Save Your Business | Qriyalowe | [Read More](https://medium.com/p/c665c9bde092) |
+| Fri, 03 Apr 2026 18:47:16 GMT | Emotet + Cobalt Strike — Dissecting a Multi-Stage Attack in Wireshark | Himanshukumar Modi | [Read More](https://medium.com/p/5c8df1fd54d5) |
+| Fri, 03 Apr 2026 18:44:36 GMT | This Is What a Personal Surveillance System Actually Looks Like | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/5416fdd27d2c) |
 | Fri, 03 Apr 2026 18:44:35 GMT | CompTIA Security+ (SY0–701): Explicar a importância dos processos de gestão de mudanças e o impacto… | Davi Loyola | [Read More](https://medium.com/p/02c21b3745af) |
+| Fri, 03 Apr 2026 18:43:00 GMT | The Neural Crucible: Architecting Zero-Trust in the Age of Generative AI | Rohit Sumbrui | [Read More](https://medium.com/p/24732400d3e8) |
 | Fri, 03 Apr 2026 18:33:29 GMT | Beyond Grep: Building Custom AST Parsers for 0-Day Hunting | Funcybot | [Read More](https://medium.com/p/56fe9f6f91f5) |
 | Fri, 03 Apr 2026 18:32:52 GMT | The Linux Security Journey — nodev (No Device) File System Support | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2cae7be4e3a3) |
 | Fri, 03 Apr 2026 18:23:08 GMT | Your Card Details Don’t Travel Alone | Fintech By Tanu | [Read More](https://medium.com/p/d24019c2eb8e) |
@@ -105,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 12:23:17 GMT | XSS Is Not Just <script>alert(1)</script> — Here's What Actually Makes It Fire | WolfSec | [Read More](https://medium.com/p/b599a0cb4578) |
 | Fri, 03 Apr 2026 12:09:34 GMT | I Hacked a Windows Machine — Then Watched Myself Get Caught by a SIEM | Sandeepduseja | [Read More](https://medium.com/p/5dff0dcd848f) |
 | Fri, 03 Apr 2026 12:07:45 GMT | Understanding OTP Verification Bypass via Client-Side Response Manipulation | 0xKemzx | [Read More](https://medium.com/p/a6d2960c95aa) |
-| Fri, 03 Apr 2026 12:07:42 GMT | PicoCTF 2026 — The Add/On Trap Writeup | Spandhan Panta | [Read More](https://medium.com/p/f16155143d49) |
-| Fri, 03 Apr 2026 12:07:00 GMT | PLATFORM GUIDE - CRYPTO WALLETS
-Beginner’s Guide to MetaMask — Beyond Just Setting It Up
-Most… | Kingdipszy | [Read More](https://medium.com/p/bdba69893ae3) |
-| Fri, 03 Apr 2026 12:06:01 GMT | Bytemancy 0 — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/7cee4cb45102) |
-| Fri, 03 Apr 2026 12:04:30 GMT | SOC as a Service (SOCaaS) Market Report & Forecast 2035 | NIkita Poplai | [Read More](https://medium.com/p/97bae3c0c2a0) |
-| Fri, 03 Apr 2026 12:03:34 GMT | Modern Siber Savaşın Anatomisi: SentinelOne 2026 Tehdit Raporu ve Savunmacının Yeni Yol Haritası | AltHack Security | [Read More](https://medium.com/p/6f3e31f1e88d) |
-| Fri, 03 Apr 2026 11:51:49 GMT | Telegram number disclosure vulnerability | Shahmeer Amir | [Read More](https://medium.com/p/aaff4c891bf2) |
-| Fri, 03 Apr 2026 11:51:19 GMT | Meta just open-sourced a model that reads your brain. | Kais Ben Daamech | [Read More](https://medium.com/p/ba0d0574bd13) |
