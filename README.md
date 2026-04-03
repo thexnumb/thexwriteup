@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 14:42:21 GMT | The Bouncer Who Never Checked IDs | 0xStxrless | [Read More](https://medium.com/p/2fc95942e990) |
+| Fri, 03 Apr 2026 14:41:47 GMT | Hacking 101: The art of Hacking | Code 33 | [Read More](https://medium.com/p/00ad63cb4d56) |
+| Fri, 03 Apr 2026 14:39:20 GMT | Laporan Praktikum Struktur Data : Searching | Cahyoadi | [Read More](https://medium.com/p/c4868c5b2f12) |
+| Fri, 03 Apr 2026 14:37:04 GMT | Browsed — HackTheBox Writeup | 0xStxrless | [Read More](https://medium.com/p/9c01476e4228) |
+| Fri, 03 Apr 2026 14:35:08 GMT | Weekly Cyber Threat Bulletin: 26 March 2026 | Marcelle Lee | [Read More](https://medium.com/p/ae388c5c0d7e) |
+| Fri, 03 Apr 2026 14:34:43 GMT | How 1 Missing Line of Code Cost Anthropic $340 Billion | Syed Ahmer Shah | [Read More](https://medium.com/p/074db31fae55) |
+| Fri, 03 Apr 2026 14:33:45 GMT | I Analyzed 4.5 | Alex Chicilo | [Read More](https://medium.com/p/a05211bb7225) |
+| Fri, 03 Apr 2026 14:31:58 GMT | Weekly Cyber Threat Bulletin: 2 April 2026 | Marcelle Lee | [Read More](https://medium.com/p/b8911a6f1023) |
+| Fri, 03 Apr 2026 14:29:54 GMT | The War on Synthetic Identity Started and Denmark Fired First | Len Noe | [Read More](https://medium.com/p/4c9fbfbff630) |
+| Fri, 03 Apr 2026 14:29:16 GMT | Windows Artefact Analizi: Sistem Üzerinde Bırakılan İzlerin İncelenmesi | Meliksah Bayrak | [Read More](https://medium.com/p/668bc821d922) |
+| Fri, 03 Apr 2026 14:28:04 GMT | AI Is Compressing Cyberattacks — Most Teams Aren’t Built for the Speed | Shawn Singleton, II | [Read More](https://medium.com/p/a64f46c7615e) |
+| Fri, 03 Apr 2026 14:25:49 GMT | The $100 Billion Parlor Trick | Hezha Veisi | [Read More](https://medium.com/p/dfa8ebda58b3) |
+| Fri, 03 Apr 2026 14:20:54 GMT | Buffer Overflows: Memory Safety | madsl0w | [Read More](https://medium.com/p/18d4e8ba985c) |
+| Fri, 03 Apr 2026 14:19:27 GMT | DKIM Is Byte-Exact: A Header Folding Edge Case That Breaks Trust | Rakesh Goswami | [Read More](https://medium.com/p/b1b51c1f5a26) |
+| Fri, 03 Apr 2026 14:13:22 GMT | AI vs AI: ২০২৬ সালে সাইবার যুদ্ধের নতুন রূপ | Root Death Shell | [Read More](https://medium.com/p/390a8a86656d) |
+| Fri, 03 Apr 2026 14:11:52 GMT | I Didn’t Wake Up, I Simply Surrendered to the Day | Hugo Pan | [Read More](https://medium.com/p/ec93b970dcce) |
+| Fri, 03 Apr 2026 14:03:24 GMT | How to Choose the Right Graphics Card in 2025: A Practical Buyer’s Guide | Tech Godzilla | [Read More](https://medium.com/p/a6d6b5307e4c) |
+| Fri, 03 Apr 2026 13:56:02 GMT | Russia Sent A Tanker To Cuba. | The Analyst Umar. | [Read More](https://medium.com/p/3d3b9b98a86f) |
+| Fri, 03 Apr 2026 13:54:30 GMT | Week 3 — DevSecOps, API Documentation, and Why Security is Everyone’s Problem | Adesanya Adebowale | [Read More](https://medium.com/p/dc5f8140a9f9) |
+| Fri, 03 Apr 2026 13:44:16 GMT | Is JWT really Dead?? | Nikhil Kshirsagar | [Read More](https://medium.com/p/bf4dc1fe6f21) |
+| Fri, 03 Apr 2026 13:43:49 GMT | picoCTF North-South Writeup | Mysterior | [Read More](https://medium.com/p/ac46f01ef0f6) |
+| Fri, 03 Apr 2026 13:43:39 GMT | Our Journey in Search of Digital Security | Root Death Shell | [Read More](https://medium.com/p/af69f7532b9e) |
 | Fri, 03 Apr 2026 13:35:18 GMT | Why Cybersecurity Role in IT 2026? | kamal aryal | [Read More](https://medium.com/p/08fee679d6a3) |
 | Fri, 03 Apr 2026 13:33:07 GMT | The Quiet Security Risk Most Companies Don’t See Until It’s Too Late | Geeksforless | [Read More](https://medium.com/p/2aab79be92c0) |
 | Fri, 03 Apr 2026 13:31:01 GMT | How the Digital Personal Data Protection Act (DPDPA) 2023 Will Reshape India’s SaaS and FinTech… | Cyber Aries | [Read More](https://medium.com/p/e35bd5f10c97) |
@@ -31,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 12:44:17 GMT | The Internet’s Landlord Problem | Brennan Kenneth Brown | [Read More](https://medium.com/p/39221e7e69af) |
 | Fri, 03 Apr 2026 12:43:31 GMT | How to Maneuver a GoDaddy Cpanel | Percy Jobs | [Read More](https://medium.com/p/9cbf76a2fee3) |
 | Fri, 03 Apr 2026 12:41:42 GMT | Bagaimana Karir Saya Hampir Hancur Gara-Gara Memperbarui Versi Axios. | Alx | [Read More](https://medium.com/p/ca5f66e37506) |
+| Fri, 03 Apr 2026 12:40:48 GMT | How I Found a P1 Bug in a Bug Bounty Program (Step-by-Step Guide) | Pradeeptadi | [Read More](https://medium.com/p/7a3fb5ed60ac) |
 | Fri, 03 Apr 2026 12:37:48 GMT | Wazuh: CVE-2026-25769 (THM) Tryhackme WriteUp All Answer | Lawvye | [Read More](https://medium.com/p/a466fb14e7a3) |
 | Fri, 03 Apr 2026 12:32:34 GMT | Trusted Security Solutions for Every Situation: Expert Locksmith Support in Philadelphia | Local City Locksmith | [Read More](https://medium.com/p/5b4c1ff5cdd6) |
 | Fri, 03 Apr 2026 12:32:21 GMT | Secure Authentication, OTP, and Account Recovery Best Practices | Oluwajuwonlo Iroayo | [Read More](https://medium.com/p/063156d951ee) |
@@ -91,26 +114,3 @@ Most… | Kingdipszy | [Read More](https://medium.com/p/bdba69893ae3) |
 | Fri, 03 Apr 2026 09:34:09 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/92843cc4995f) |
 | Fri, 03 Apr 2026 09:26:29 GMT | STRATEGIC CYBERSECURITY AUDIT 2026 | Glorenaspeaks | [Read More](https://medium.com/p/72e94c757795) |
 | Fri, 03 Apr 2026 09:17:16 GMT | Why Active Directory is the Most Critical Skill in Cybersecurity | Glorenaspeaks | [Read More](https://medium.com/p/7f7e11bbdec2) |
-| Fri, 03 Apr 2026 09:16:48 GMT | Prevenção a fraudes na era digital: | Yo | [Read More](https://medium.com/p/fef0954a240f) |
-| Fri, 03 Apr 2026 09:15:38 GMT | JR Academy Chrome Extension “求职匠 Job Hunter” Silently Uploads Every LinkedIn Profile You Visit | JusNull | [Read More](https://medium.com/p/9cf53245d71e) |
-| Fri, 03 Apr 2026 09:14:58 GMT | How a Dumb Typo Exposed a Global Spam Ring (And Why Your 2FA Won’t Save Your Inbox) | Jo Mans | [Read More](https://medium.com/p/ac002310a139) |
-| Fri, 03 Apr 2026 09:09:53 GMT | OSINT Briefjng — April 3, 2026: How OSINT is Used in Criminal Investigations | Gianluca Galimberti | [Read More](https://medium.com/p/d8873ee24081) |
-| Fri, 03 Apr 2026 09:07:35 GMT | IDOR / BOLA: The Vulnerability That Keeps Leaking Everyone’s Data | Tarun Jaswani | [Read More](https://medium.com/p/df607b07c26c) |
-| Fri, 03 Apr 2026 09:06:25 GMT | Which Antivirus Should We Trust? An Analysis of Windows, Mac, and Android with AV-TEST Data | Ömer Faruk Kurt | [Read More](https://medium.com/p/42865a4b48c2) |
-| Fri, 03 Apr 2026 09:04:37 GMT | Think Two-Factor Authentication Makes You Safe? Think Again. | Dallen Sadru | [Read More](https://medium.com/p/c87fe0d51843) |
-| Fri, 03 Apr 2026 09:01:02 GMT | هجوم سلسلة توريد على Axios: كيف تحمي مشروع Node.js من إصدارات npm المخترقة | Rynbsd | [Read More](https://medium.com/p/411f1f3d174c) |
-| Fri, 03 Apr 2026 08:59:36 GMT | [CONFIDENTIAL] Exposure of Raytheon Cybersecurity Executive Position Recruitment on the Dark Web | Excalibra | [Read More](https://medium.com/p/2fbecd098b4f) |
-| Fri, 03 Apr 2026 08:58:24 GMT | Why Your 2025 Password Strategy is Obsolete Against 2026 AI Voice Scams | Avish Gokhool | [Read More](https://medium.com/p/8704fec4aa17) |
-| Fri, 03 Apr 2026 08:56:38 GMT | Spring AI: CVE-2026–22738 Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/69d286956697) |
-| Fri, 03 Apr 2026 08:54:47 GMT | CTFs in the Age of AI: Are We Still Learning or Just Scoring? | Abilash B | [Read More](https://medium.com/p/10431c66c669) |
-| Fri, 03 Apr 2026 08:50:47 GMT | I Got Tired of Just Reading Bug Bounty Writeups. So I Built This. | Vivek PS | [Read More](https://medium.com/p/05ba1d799b44) |
-| Fri, 03 Apr 2026 08:49:34 GMT | Building a Browser-Based Payload Transformation Toolkit for Web Security Testing | Ilias Georgopoulos | [Read More](https://medium.com/p/c3e4a3372c75) |
-| Fri, 03 Apr 2026 08:45:35 GMT | GraphQL Security: How I Found and Exploited Critical IDOR and Authorization Bypass in a… | Krishna Kumar | [Read More](https://medium.com/p/42ab78e13642) |
-| Fri, 03 Apr 2026 08:30:09 GMT | Inside The Vault Sentry — How We Detect and Stop API Key Leaks | Thevaultsentry | [Read More](https://medium.com/p/08d4c172bb7c) |
-| Fri, 03 Apr 2026 08:23:50 GMT | How Cybersecurity Can Change the World | Tarun Jaswani | [Read More](https://medium.com/p/dd4cd368c346) |
-| Fri, 03 Apr 2026 08:20:18 GMT | Cybersecurity Basics for Individuals: Protecting Your Digital Life in 2026 | Vishal S | [Read More](https://medium.com/p/e66b0e11cd4b) |
-| Fri, 03 Apr 2026 08:19:32 GMT | Why API Key Security Should Be Your Startup’s First Priority | Thevaultsentry | [Read More](https://medium.com/p/774543486248) |
-| Fri, 03 Apr 2026 08:17:18 GMT | Cyber Security roadmap for beginners after 12th | cyber security Updates | [Read More](https://medium.com/p/2174c9c6a3ad) |
-| Fri, 03 Apr 2026 08:17:01 GMT | Someone Could Be Using Your Computer Right Now. You’d Never Know | Vishwas R | [Read More](https://medium.com/p/b27962cdcb08) |
-| Fri, 03 Apr 2026 08:10:44 GMT | Your code didn’t break. Europe changed the time: the bug that only shows up twice a year | H2bm | [Read More](https://medium.com/p/71087c89278a) |
-| Fri, 03 Apr 2026 07:40:21 GMT | Can Someone Access Your Phone Camera Without You Knowing? | Kratika | [Read More](https://medium.com/p/9e8006c34473) |
