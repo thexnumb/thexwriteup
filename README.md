@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 05:01:02 GMT | HTTPX + DNSX Live Hosts Filter Karo aur DNS Secrets Nikalo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/64e80ba0ff14) |
+| Fri, 03 Apr 2026 04:57:38 GMT | CWD-Based Module Hijacking in Python pymanager (CVE-2026-5271) | LETCHU PKT | [Read More](https://medium.com/p/2fb57bbc65eb) |
+| Fri, 03 Apr 2026 04:57:19 GMT | Vulnerability Chaining: How Attackers Combine Low-Severity Bugs Into Critical Breaches | Kuboid Secure Layer | [Read More](https://medium.com/p/e74f0cb35dc5) |
+| Fri, 03 Apr 2026 04:56:34 GMT | Why Explainable AI is Critical for Misinformation Detection | Bright Duffour | [Read More](https://medium.com/p/fa4c1f06c93d) |
+| Fri, 03 Apr 2026 04:55:25 GMT | Burp Suite vs. Caido: Which Web App Pentesting Proxy Should You Learn First? | Dfaults | [Read More](https://medium.com/p/ff4a4093a7af) |
+| Fri, 03 Apr 2026 04:53:35 GMT | Drovenio IT Certification Guide: Best IT Certifications, Career Paths, Costs, and How to Choose the… | Tycoonstories | [Read More](https://medium.com/p/b908a90c19bd) |
+| Fri, 03 Apr 2026 04:39:12 GMT | Sahte Baz İstasyonu Nedir? | Ali Yaşe | [Read More](https://medium.com/p/792295e4bd5e) |
+| Fri, 03 Apr 2026 04:36:18 GMT | CYBERDUDEBIVASH® AI SECURITY HUB — OFFICIAL GLOBAL LAUNCH (NOW LIVE) | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/d39c5905d84f) |
+| Fri, 03 Apr 2026 04:32:43 GMT | DHCP Explained: From the DORA Process to Preventing DoS Attacks | Sriranjan Kapilan | [Read More](https://medium.com/p/f1a369fccb2d) |
+| Fri, 03 Apr 2026 04:31:04 GMT | Webhook Security Explained (Signatures, Validation) | Hasan Chinthaka | [Read More](https://medium.com/p/97f4d364e517) |
+| Fri, 03 Apr 2026 04:27:33 GMT | Mobile Deep Link Exploitation: The Hidden Attack Surface Nobody Talks About | Being_brutlix | [Read More](https://medium.com/p/d2cae2e64c0e) |
+| Fri, 03 Apr 2026 04:23:50 GMT | AI in Cyber Security 101 | Param Dave | [Read More](https://medium.com/p/8ae0258fbcd1) |
+| Fri, 03 Apr 2026 03:37:24 GMT | Zero Trust Chains: Securing AI Tools in the Enterprise | James Kittle | [Read More](https://medium.com/p/af252f3adf2b) |
+| Fri, 03 Apr 2026 03:19:20 GMT | The Dark Side of LLM | Yevhenivashchenko | [Read More](https://medium.com/p/4f1d15327d35) |
+| Fri, 03 Apr 2026 03:10:29 GMT | The Heist Inside Your Dependencies | Abinesh Solairaj | [Read More](https://medium.com/p/39035301933f) |
+| Fri, 03 Apr 2026 03:02:16 GMT | picoCTF 2026 Writeup: Credential Stuffing | Abisha Shetty | [Read More](https://medium.com/p/f5465c0895fc) |
+| Fri, 03 Apr 2026 02:48:02 GMT | Prioritizing Risk: Why Context Matters in API Security | John Hawkins | [Read More](https://medium.com/p/bb8a6ff47c38) |
+| Fri, 03 Apr 2026 02:47:17 GMT | picoCTF 2026 Writeup: ABSOLUTE NANO (Privilege Escalation via nano) | Abisha Shetty | [Read More](https://medium.com/p/98f9d5ce62b4) |
+| Fri, 03 Apr 2026 02:39:15 GMT | OTP Bombing | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/b8ef3763b327) |
 | Fri, 03 Apr 2026 02:26:14 GMT | SQL Injection: How a Single Line of Code Can Make Your Website Vulnerable | Dalila Zitouni | [Read More](https://medium.com/p/058fd005b3ba) |
 | Fri, 03 Apr 2026 02:16:27 GMT | Weekly Threat Intelligence Report 30 Mar 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/d811e5508cba) |
 | Fri, 03 Apr 2026 02:10:21 GMT | From Benchmarks to Blast Radius: Governing Agentic Systems at Runtime | Yassien Shaalan | [Read More](https://medium.com/p/cd49cba71c11) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 17:52:19 GMT | HOW CAN I RECOVER MY LOST OR HACKED CRYPTO FUNDS? CONTACT MALICE CYBER RECOVERY SPECIALIST | Leon Noa | [Read More](https://medium.com/p/130fbb855bca) |
 | Thu, 02 Apr 2026 17:49:48 GMT | Types of SSL/TLS Certificate and their Conversions in the Linux | Itstars | [Read More](https://medium.com/p/b23024f276e6) |
 | Thu, 02 Apr 2026 17:47:20 GMT | Python Security Toolkit Every Developer Needs (Before It’s Too Late) | Er.Muruganantham | [Read More](https://medium.com/p/6bbc0bdd244d) |
-| Thu, 02 Apr 2026 17:42:03 GMT | There’s a new reality… | Taryn Kay Talley | [Read More](https://medium.com/p/531791295731) |
-| Thu, 02 Apr 2026 17:41:29 GMT | Stop Letting AI Agents Raw-Dog Your Terminal: Building an MCP Firewall in Rust | Dainwi Choudhary | [Read More](https://medium.com/p/d3355492217c) |
-| Thu, 02 Apr 2026 17:39:25 GMT | How did 100 million people have their data breached? A case study. | Andrewlewis | [Read More](https://medium.com/p/055a64d7fb53) |
-| Thu, 02 Apr 2026 17:35:36 GMT | How I Found a Subdomain Takeover via BetterUptime | Rahimahaq | [Read More](https://medium.com/p/3035952a6722) |
-| Thu, 02 Apr 2026 17:35:34 GMT | *124* An environment never Saturation Isn’t a Failure — It’s a Transition | Alexios G. | [Read More](https://medium.com/p/d60759cebfd0) |
-| Thu, 02 Apr 2026 17:35:24 GMT | Weekly Threat Landscape: Thursday Roundup #2 | Josh Johnson | [Read More](https://medium.com/p/a6d83e2e6956) |
-| Thu, 02 Apr 2026 17:33:25 GMT | Navigating Financial Compliance Regulations: Strategies and Best Practices for 2026 | Lenna Mustik | [Read More](https://medium.com/p/79b4dbae9470) |
-| Thu, 02 Apr 2026 17:29:24 GMT | Biometric Authentication Fundamentals: How My Body Became the Key | Lenna Mustik | [Read More](https://medium.com/p/61bb6ce7ec2a) |
-| Thu, 02 Apr 2026 17:27:02 GMT | Humans as Attack Vectors — TryHackMe Walkthrough | Taylor Wavra | [Read More](https://medium.com/p/953fb8577eb8) |
-| Thu, 02 Apr 2026 17:25:43 GMT | Inside TeamPCP’s Shell Arsenal | Rakesh Krishnan | [Read More](https://medium.com/p/b452d7c096ac) |
-| Thu, 02 Apr 2026 17:23:56 GMT | IRGC Names 17 US Tech Firms as Targets: A Kinetic and Cyber Threat Hits the Private Sector | TheRedSheep | [Read More](https://medium.com/p/56d6c506a7cd) |
-| Thu, 02 Apr 2026 17:22:24 GMT | Episode 12: Security Controls Explained: Technical, Managerial & Physical | Yash Kitey | [Read More](https://medium.com/p/e6c4980bab3d) |
-| Thu, 02 Apr 2026 17:22:14 GMT | G0DM0D3: The Battle‑Royale Interface That Exposes What AI Guardrails Really Do | pyschx | [Read More](https://medium.com/p/58b769845344) |
-| Thu, 02 Apr 2026 17:22:06 GMT | The Developer’s Secret Weapon: Mastering CLAUDE.md for Claude Code | The Daily Cyber News | [Read More](https://medium.com/p/48c97dfaeaa3) |
-| Thu, 02 Apr 2026 17:14:44 GMT | From Axios NPM Supply Chain Attack to Tracking DPRK’s BlueNoroff | DCSO CyTec Blog | [Read More](https://medium.com/p/c9080c9b4ce3) |
-| Thu, 02 Apr 2026 17:11:12 GMT | The 12 Months Nobody Reads | Stuardo Rodriguez | [Read More](https://medium.com/p/e72d9ffe9578) |
-| Thu, 02 Apr 2026 17:08:25 GMT | CVE-2026–23416-POC (affecting linux kernel 6.17-linux kernel 7.0 rc 5) | Antonius W1sdom | [Read More](https://medium.com/p/457afc9ad9e3) |
-| Thu, 02 Apr 2026 17:05:23 GMT | LLM Output Attacks: Skill Assessment (HackTheBox) | Hacker_soprano | [Read More](https://medium.com/p/337311d82d4b) |
-| Thu, 02 Apr 2026 17:04:48 GMT | The War Nobody Sees: When the Hackers and the Guards Are Both Machines | Shrutika Mokashi | [Read More](https://medium.com/p/097e3cbbe3c0) |
