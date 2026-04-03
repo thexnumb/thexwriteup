@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 22:10:38 GMT | Open Intelligence Lab v0.5.0: From Research Platform to Production CI/CD Pipeline | Alborz Nazari | [Read More](https://medium.com/p/4fb56cd21cd7) |
+| Fri, 03 Apr 2026 22:03:43 GMT | How I Simulated a Supply Chain Attack on Thousands of Servers — and Made $25K | Arshad Kazmi | [Read More](https://medium.com/p/7d36647cbf36) |
+| Fri, 03 Apr 2026 21:49:29 GMT | Quantum Computing and the Future of Cybersecurity: Why RSA and ECC Can’t Be Trusted Forever | BnHany | [Read More](https://medium.com/p/5572f9dee26f) |
+| Fri, 03 Apr 2026 21:49:00 GMT | Visibility Begins at the Edge: A SOC Analyst’s Guide to XDR Agent Deployment | Abhishek Nayak | [Read More](https://medium.com/p/b6c72094fd2c) |
+| Fri, 03 Apr 2026 21:46:44 GMT | Code Container: Isolating AI Coding Harnesses Without Losing Your Mind | Mike Crowe | [Read More](https://medium.com/p/133eee89023f) |
+| Fri, 03 Apr 2026 21:41:59 GMT | Denial of Service - When the Goal Is Not to Break In but to Shut Everything Down | Rufus Kehinde | [Read More](https://medium.com/p/f5c1526c0127) |
+| Fri, 03 Apr 2026 21:36:38 GMT | Axios npm compromise — macOS triage and mitigation guide (supply chain attack — april 2026) | Andrey Dolya | [Read More](https://medium.com/p/b168bb253780) |
+| Fri, 03 Apr 2026 21:30:51 GMT | IoT Cihazlar: Evinizde ki Yabancı | Zerioth Cypher Evidence | [Read More](https://medium.com/p/00d1d75c8d93) |
 | Fri, 03 Apr 2026 21:23:52 GMT | Booyegeman 1: My Personified Experience | Cyber-sam01 | [Read More](https://medium.com/p/537c7372b3bc) |
 | Fri, 03 Apr 2026 21:02:34 GMT | I Reverse-Engineered My Gmail Login and Found Something Unexpected | Akshat Tiwari | [Read More](https://medium.com/p/6d3d326f7cc6) |
 | Fri, 03 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 41: Conclusion + Pre-Practice | Maximillian Rueda | [Read More](https://medium.com/p/10be97d933f5) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 13:27:39 GMT | Couch — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/85ca0e3f2b37) |
 | Fri, 03 Apr 2026 13:27:20 GMT | Iran’s War Is Also a Cyber War | Travis Ray Caverhill | [Read More](https://medium.com/p/091a869f24c4) |
 | Fri, 03 Apr 2026 13:27:05 GMT | The Ultimate Bug Bounty Recon Guide: From Zero to Finding Critical Vulnerabilities | WolfSec | [Read More](https://medium.com/p/6f8e9a264fc6) |
-| Fri, 03 Apr 2026 13:21:47 GMT | Necromancers Notebook (JWT) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/41d6754fb2ff) |
-| Fri, 03 Apr 2026 13:13:07 GMT | Networking Basics for Cybersecurity Beginners: Start Here | Pathakraj | [Read More](https://medium.com/p/4a035dcbca92) |
-| Fri, 03 Apr 2026 13:07:15 GMT | EmDash CloudflareEmDash built a safer web but WordPress owns the market | Md. Mehedi Hasan Rakib | [Read More](https://medium.com/p/79bbcaadd394) |
-| Fri, 03 Apr 2026 13:05:51 GMT | Why Choose Associative as Your Trusted Kotlin Application Development Company | Chaitanyachavan | [Read More](https://medium.com/p/8077662589d2) |
-| Fri, 03 Apr 2026 13:05:32 GMT | Replicating the Legend: The Mitnick Attack | Saadan ashraf | [Read More](https://medium.com/p/e6d6dd30e274) |
-| Fri, 03 Apr 2026 13:01:12 GMT | 5 VPNs That Were Caught Lying About Their No-Log Policy | Maryamwarisali | [Read More](https://medium.com/p/470dbb972d54) |
-| Fri, 03 Apr 2026 13:01:02 GMT | Inherited Infrastructure: Building a Homelab the Way Real IT Works | Vincent Do | [Read More](https://medium.com/p/bb44aefb3631) |
-| Fri, 03 Apr 2026 13:01:02 GMT | [Oppenheimer] Survival Logic of the Sovereign Individual within Mega-Systems | MonoEssay | [Read More](https://medium.com/p/013240493e7a) |
