@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 02:26:14 GMT | SQL Injection: How a Single Line of Code Can Make Your Website Vulnerable | Dalila Zitouni | [Read More](https://medium.com/p/058fd005b3ba) |
+| Fri, 03 Apr 2026 02:16:27 GMT | Weekly Threat Intelligence Report 30 Mar 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/d811e5508cba) |
+| Fri, 03 Apr 2026 02:10:21 GMT | From Benchmarks to Blast Radius: Governing Agentic Systems at Runtime | Yassien Shaalan | [Read More](https://medium.com/p/cd49cba71c11) |
+| Fri, 03 Apr 2026 02:03:17 GMT | How Hackers Steal Your Password (And How to Stop Them) | Aqila N | [Read More](https://medium.com/p/4c95b1e38465) |
+| Fri, 03 Apr 2026 01:44:07 GMT | How to Download PC Game Mods Safely Without Risking Malware | Sitirukoyah | [Read More](https://medium.com/p/23f1509e6a33) |
+| Fri, 03 Apr 2026 01:33:43 GMT | They Didn’t Hack a System. They Hacked Trust. | Bhumijofficial | [Read More](https://medium.com/p/1eb9a9903f07) |
+| Fri, 03 Apr 2026 01:14:56 GMT | What Claude Code’s Leaked Permission Classifier Misses — And What Fills the Gap | Chiradeep Chhaya | [Read More](https://medium.com/p/c6dd3650163c) |
+| Fri, 03 Apr 2026 00:40:39 GMT | Business VPN vs. Personal VPN: What’s the Difference? | Cloudbric VPN | [Read More](https://medium.com/p/9dcc7b5ef89e) |
+| Fri, 03 Apr 2026 00:19:47 GMT | Let Yourself Be Held | maria ｡๑ ° | [Read More](https://medium.com/p/3758195c1977) |
+| Fri, 03 Apr 2026 00:00:15 GMT | Decoder & Comparer — Reading What Applications Hide Inside Encoded Data | Yamini Yadav_369 | [Read More](https://medium.com/p/ea1fe1a93a08) |
 | Thu, 02 Apr 2026 23:16:03 GMT | Would You Rather Be Free, or Be Loved? | Monjolajesu Jawo | [Read More](https://medium.com/p/f4f46eadaf7e) |
 | Thu, 02 Apr 2026 23:15:22 GMT | The Story of Josiah Dhev: From a Challenging Upbringing to Teen Tech Visionary | DevPulseJournal | [Read More](https://medium.com/p/7fa9e079acb6) |
 | Thu, 02 Apr 2026 22:56:54 GMT | How SSO Supports Zero Trust | Jake | [Read More](https://medium.com/p/84eb243c2159) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 17:08:25 GMT | CVE-2026–23416-POC (affecting linux kernel 6.17-linux kernel 7.0 rc 5) | Antonius W1sdom | [Read More](https://medium.com/p/457afc9ad9e3) |
 | Thu, 02 Apr 2026 17:05:23 GMT | LLM Output Attacks: Skill Assessment (HackTheBox) | Hacker_soprano | [Read More](https://medium.com/p/337311d82d4b) |
 | Thu, 02 Apr 2026 17:04:48 GMT | The War Nobody Sees: When the Hackers and the Guards Are Both Machines | Shrutika Mokashi | [Read More](https://medium.com/p/097e3cbbe3c0) |
-| Thu, 02 Apr 2026 17:04:35 GMT | Your Gmail is no longer your identity. Google just broke a few OSINT workflows and nobody noticed. | 1v0ot | [Read More](https://medium.com/p/ff8b271ac31f) |
-| Thu, 02 Apr 2026 17:00:32 GMT | Hidden Cost of Shipping Faster | Aryaman Khandelwal | [Read More](https://medium.com/p/60a95b662591) |
-| Thu, 02 Apr 2026 16:57:47 GMT | From Confusion to Capture: My First Man-in-the-Middle Attack Using Bettercap | Becca | [Read More](https://medium.com/p/8a2e4e009cf0) |
-| Thu, 02 Apr 2026 16:55:28 GMT | Swiper Mobile API — Full Exploitation Chain | Amimerayoub | [Read More](https://medium.com/p/389f94faeb93) |
-| Thu, 02 Apr 2026 16:52:42 GMT | Gmail’s New Rename Feature Could Add Spam and Phishing to Your Inbox | Matthew.Rosenquist | [Read More](https://medium.com/p/9426259aaaac) |
-| Thu, 02 Apr 2026 16:49:41 GMT | Why Music Students Belong at Hackathons | DurHack | [Read More](https://medium.com/p/d5224ed61b49) |
-| Thu, 02 Apr 2026 16:47:22 GMT | An AI Grader Was Tricked Into Giving a Perfect Score Here’s How Prompt Injection Works | Tanmay Bhattacharjee | [Read More](https://medium.com/p/613df9411584) |
-| Thu, 02 Apr 2026 16:45:42 GMT | A Human Guide to Modern Cybersecurity | Aravind sathyajith | [Read More](https://medium.com/p/843eb3c166ce) |
-| Thu, 02 Apr 2026 16:42:45 GMT | The Price of Keeping it together All by Yourself | Hugo Pan | [Read More](https://medium.com/p/61749833dc93) |
-| Thu, 02 Apr 2026 16:37:14 GMT | Solución CTF — Year of the Rabbit | SatoBlack | [Read More](https://medium.com/p/d9b29fa79c1b) |
