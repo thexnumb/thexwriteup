@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 18:44:35 GMT | CompTIA Security+ (SY0–701): Explicar a importância dos processos de gestão de mudanças e o impacto… | Davi Loyola | [Read More](https://medium.com/p/02c21b3745af) |
+| Fri, 03 Apr 2026 18:33:29 GMT | Beyond Grep: Building Custom AST Parsers for 0-Day Hunting | Funcybot | [Read More](https://medium.com/p/56fe9f6f91f5) |
+| Fri, 03 Apr 2026 18:32:52 GMT | The Linux Security Journey — nodev (No Device) File System Support | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2cae7be4e3a3) |
+| Fri, 03 Apr 2026 18:23:08 GMT | Your Card Details Don’t Travel Alone | Fintech By Tanu | [Read More](https://medium.com/p/d24019c2eb8e) |
+| Fri, 03 Apr 2026 18:21:34 GMT | Bug Hunting Without Touching the Target: The Power of External Intelligence | Iski | [Read More](https://medium.com/p/c40d0b0c4d27) |
+| Fri, 03 Apr 2026 18:09:42 GMT | MY GIT — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/52beb242b3b2) |
+| Fri, 03 Apr 2026 18:06:05 GMT | Smoke and Mirrors | Moe Magic | [Read More](https://medium.com/p/d308babed7cb) |
+| Fri, 03 Apr 2026 18:04:06 GMT | Address Poisoning: The New Frontier of Inattention-Based Theft | CryptDocker | [Read More](https://medium.com/p/da304be36e7a) |
+| Fri, 03 Apr 2026 17:55:34 GMT | HackTools++ : How to Use the Captured Requests Feature (Like BurpSuite, Inside Your Browser) | Priyanshi Pawar | [Read More](https://medium.com/p/51935c0c70f8) |
+| Fri, 03 Apr 2026 17:31:09 GMT | The Real Security Surface: Why AI Internals Matter More Than Outputs | Anindya Mishra | [Read More](https://medium.com/p/7a35c766e202) |
 | Fri, 03 Apr 2026 17:25:10 GMT | Driving Innovation with idca and alternative energy sources | International Data Center Authority | [Read More](https://medium.com/p/f1d2b81cfda1) |
 | Fri, 03 Apr 2026 17:22:27 GMT | Attack Surface to Exploitation: A Practical Web App Pentest Walkthrough | Tyreek Haynes | [Read More](https://medium.com/p/0ace0948a24b) |
 | Fri, 03 Apr 2026 17:16:46 GMT | I Bypassed a Company Login Without Knowing Any Password — My First SQL Injection Story | Blessing | [Read More](https://medium.com/p/a33fec18e480) |
@@ -104,13 +114,3 @@ Most… | Kingdipszy | [Read More](https://medium.com/p/bdba69893ae3) |
 | Fri, 03 Apr 2026 12:03:34 GMT | Modern Siber Savaşın Anatomisi: SentinelOne 2026 Tehdit Raporu ve Savunmacının Yeni Yol Haritası | AltHack Security | [Read More](https://medium.com/p/6f3e31f1e88d) |
 | Fri, 03 Apr 2026 11:51:49 GMT | Telegram number disclosure vulnerability | Shahmeer Amir | [Read More](https://medium.com/p/aaff4c891bf2) |
 | Fri, 03 Apr 2026 11:51:19 GMT | Meta just open-sourced a model that reads your brain. | Kais Ben Daamech | [Read More](https://medium.com/p/ba0d0574bd13) |
-| Fri, 03 Apr 2026 11:50:52 GMT | I Built a Free Curated Library of 2,600+ Application Security Resources | Carl Sampson | [Read More](https://medium.com/p/eccf49443f6f) |
-| Fri, 03 Apr 2026 11:50:48 GMT | Anthropic’s Most Powerful Mythos/Capybara Model Releasing Soon | Kevin O'Shaughnessy | [Read More](https://medium.com/p/b4b3af69ef10) |
-| Fri, 03 Apr 2026 11:49:32 GMT | The Future of Deepfake Technology Is Already Here — And Most People Are Completely Unprepared | Techrefreshing | [Read More](https://medium.com/p/e4013346088a) |
-| Fri, 03 Apr 2026 11:41:18 GMT | Web Penjelajah CyberSecurity Publish | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/e014cc6d4063) |
-| Fri, 03 Apr 2026 11:39:50 GMT | IT Support and Services: Why Every Business Needs Reliable Tech Help Today | Sparklecode Technologies | [Read More](https://medium.com/p/2d42d8c7eae9) |
-| Fri, 03 Apr 2026 11:37:57 GMT | Supply Chain Attack Hits Popular Axios npm Package, Raising Alarm Across Developer Ecosystems | Jas | [Read More](https://medium.com/p/aeef3bf21dc9) |
-| Fri, 03 Apr 2026 11:33:28 GMT | SameSite Strict Bypass via Sibling Domain (CSWSH) — Practical Walkthrough | PRiTi.EX | [Read More](https://medium.com/p/469b20416156) |
-| Fri, 03 Apr 2026 11:31:14 GMT | AWS Isn’t a SIEM Strategy — It’s a Procurement Default | Graylog | [Read More](https://medium.com/p/15ff761a887d) |
-| Fri, 03 Apr 2026 11:31:01 GMT | The SSH Access That Didn’t Trigger a Single Alert | Faruk Ahmed | [Read More](https://medium.com/p/f1f1cd6d9d15) |
-| Fri, 03 Apr 2026 11:28:11 GMT | CTF Write-up Crptography(13) | Blacklotus | [Read More](https://medium.com/p/b17adaf8bafa) |
