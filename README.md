@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 20:08:40 GMT | Watching Hackers in Real-Time: Building My Own Honeypot (VenomHive) | Yasinovaydin | [Read More](https://medium.com/p/1744c3d5b961) |
+| Fri, 03 Apr 2026 20:00:25 GMT | Pivoting with Metasploit: A Beginner’s Guide to Network Pivoting | Mawira Victor | [Read More](https://medium.com/p/a263fd7c3283) |
+| Fri, 03 Apr 2026 19:49:44 GMT | Patterns That Cut AI Security Pipeline Costs | Shimon Ben | [Read More](https://medium.com/p/010fcc25fda8) |
+| Fri, 03 Apr 2026 19:49:18 GMT | Understanding Dark Web Trends and How They Are Changing | Tor BBB | [Read More](https://medium.com/p/62ab87219039) |
+| Fri, 03 Apr 2026 19:49:06 GMT | What Actually Happens When You Go Looking for API Keys in JavaScript | DrRobik | [Read More](https://medium.com/p/196428fdb8ff) |
+| Fri, 03 Apr 2026 19:46:35 GMT | Gender Stereotyping and the Dilemma: My Perspectives | Farzana Kalam | [Read More](https://medium.com/p/820e0350f0ec) |
+| Fri, 03 Apr 2026 19:43:00 GMT | When we are talking about security within LLM harnesses like OpenClaw, we have to remember the… | David E | [Read More](https://medium.com/p/71fdb4ccbd8e) |
+| Fri, 03 Apr 2026 19:35:59 GMT | What Two Celebrity Security Incidents Reveal About Liability, Conduct, and Risk | Christian Cuevas | [Read More](https://medium.com/p/bca772cdb6af) |
 | Fri, 03 Apr 2026 19:32:15 GMT | PCI-DSS 4.0: What Test Engineers Are Missing — A System-Level Perspective | Rajeshkumar Rajaseakaran Nair | [Read More](https://medium.com/p/8356cc10a514) |
 | Fri, 03 Apr 2026 19:24:34 GMT | Transforming Modern Businesses with ERP: Why Systems Like HCM Byte Are Essential in the Digital Era | S Hassanabbas | [Read More](https://medium.com/p/5f9d6e6f59b5) |
 | Fri, 03 Apr 2026 19:06:01 GMT | Digital Forensics-[Ali Hadi — Web Server Case #3] | whoami | [Read More](https://medium.com/p/ce041cc8692d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 12:43:31 GMT | How to Maneuver a GoDaddy Cpanel | Percy Jobs | [Read More](https://medium.com/p/9cbf76a2fee3) |
 | Fri, 03 Apr 2026 12:41:42 GMT | Bagaimana Karir Saya Hampir Hancur Gara-Gara Memperbarui Versi Axios. | Alx | [Read More](https://medium.com/p/ca5f66e37506) |
 | Fri, 03 Apr 2026 12:40:48 GMT | How I Found a P1 Bug in a Bug Bounty Program (Step-by-Step Guide) | Pradeeptadi | [Read More](https://medium.com/p/7a3fb5ed60ac) |
-| Fri, 03 Apr 2026 12:37:48 GMT | Wazuh: CVE-2026-25769 (THM) Tryhackme WriteUp All Answer | Lawvye | [Read More](https://medium.com/p/a466fb14e7a3) |
-| Fri, 03 Apr 2026 12:32:34 GMT | Trusted Security Solutions for Every Situation: Expert Locksmith Support in Philadelphia | Local City Locksmith | [Read More](https://medium.com/p/5b4c1ff5cdd6) |
-| Fri, 03 Apr 2026 12:32:21 GMT | Secure Authentication, OTP, and Account Recovery Best Practices | Oluwajuwonlo Iroayo | [Read More](https://medium.com/p/063156d951ee) |
-| Fri, 03 Apr 2026 12:30:00 GMT | Enterprise Writeup (TryHackMe Hard Machine) | Ivan Daňo | [Read More](https://medium.com/p/509f35fdd571) |
-| Fri, 03 Apr 2026 12:28:47 GMT | AI: A Better Metaphor than Frankenstein | Tony Vila | [Read More](https://medium.com/p/12f14fb17322) |
-| Fri, 03 Apr 2026 12:23:17 GMT | XSS Is Not Just <script>alert(1)</script> — Here's What Actually Makes It Fire | WolfSec | [Read More](https://medium.com/p/b599a0cb4578) |
-| Fri, 03 Apr 2026 12:09:34 GMT | I Hacked a Windows Machine — Then Watched Myself Get Caught by a SIEM | Sandeepduseja | [Read More](https://medium.com/p/5dff0dcd848f) |
-| Fri, 03 Apr 2026 12:07:45 GMT | Understanding OTP Verification Bypass via Client-Side Response Manipulation | 0xKemzx | [Read More](https://medium.com/p/a6d2960c95aa) |
