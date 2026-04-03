@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 23:30:20 GMT | Security Advisory: QuickLaunch SSO Platform — Unauthenticated Customer Information Disclosure… | Tyreek Haynes | [Read More](https://medium.com/p/1b7c8720ce53) |
+| Fri, 03 Apr 2026 23:11:31 GMT | POS, ERP, Automation, and Web Apps: Understanding Overlap and Choosing the Right Solution | Charunya Dissanayake | [Read More](https://medium.com/p/2f57d47f28eb) |
+| Fri, 03 Apr 2026 23:07:55 GMT | Midnight Terror: How Bandits Abducted 9 People in Sokoto | GazillionNews | [Read More](https://medium.com/p/bcea96e4ff08) |
+| Fri, 03 Apr 2026 23:06:32 GMT | Hardcoded Secrets in AI-Generated Code: Catch Them Before Git Does | ToxSec | [Read More](https://medium.com/p/91586bcc13a5) |
+| Fri, 03 Apr 2026 22:35:22 GMT | CVE-2025–32375 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/efd60fd695cd) |
+| Fri, 03 Apr 2026 22:29:52 GMT | Google Just Accidentally Made the Best Case for Bitcoin in Years | Shoeb Ali (Orchestrating Agentic AI) | [Read More](https://medium.com/p/45ad570aea57) |
 | Fri, 03 Apr 2026 22:10:38 GMT | Open Intelligence Lab v0.5.0: From Research Platform to Production CI/CD Pipeline | Alborz Nazari | [Read More](https://medium.com/p/4fb56cd21cd7) |
 | Fri, 03 Apr 2026 22:03:43 GMT | How I Simulated a Supply Chain Attack on Thousands of Servers — and Made $25K | Arshad Kazmi | [Read More](https://medium.com/p/7d36647cbf36) |
 | Fri, 03 Apr 2026 21:49:29 GMT | Quantum Computing and the Future of Cybersecurity: Why RSA and ECC Can’t Be Trusted Forever | BnHany | [Read More](https://medium.com/p/5572f9dee26f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 13:44:16 GMT | Is JWT really Dead?? | Nikhil Kshirsagar | [Read More](https://medium.com/p/bf4dc1fe6f21) |
 | Fri, 03 Apr 2026 13:43:49 GMT | picoCTF North-South Writeup | Mysterior | [Read More](https://medium.com/p/ac46f01ef0f6) |
 | Fri, 03 Apr 2026 13:43:39 GMT | Our Journey in Search of Digital Security | Root Death Shell | [Read More](https://medium.com/p/af69f7532b9e) |
-| Fri, 03 Apr 2026 13:35:18 GMT | Why Cybersecurity Role in IT 2026? | kamal aryal | [Read More](https://medium.com/p/08fee679d6a3) |
-| Fri, 03 Apr 2026 13:33:07 GMT | The Quiet Security Risk Most Companies Don’t See Until It’s Too Late | Geeksforless | [Read More](https://medium.com/p/2aab79be92c0) |
-| Fri, 03 Apr 2026 13:31:01 GMT | How the Digital Personal Data Protection Act (DPDPA) 2023 Will Reshape India’s SaaS and FinTech… | Cyber Aries | [Read More](https://medium.com/p/e35bd5f10c97) |
-| Fri, 03 Apr 2026 13:27:39 GMT | Couch — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/85ca0e3f2b37) |
-| Fri, 03 Apr 2026 13:27:20 GMT | Iran’s War Is Also a Cyber War | Travis Ray Caverhill | [Read More](https://medium.com/p/091a869f24c4) |
-| Fri, 03 Apr 2026 13:27:05 GMT | The Ultimate Bug Bounty Recon Guide: From Zero to Finding Critical Vulnerabilities | WolfSec | [Read More](https://medium.com/p/6f8e9a264fc6) |
