@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 11:51:49 GMT | Telegram number disclosure vulnerability | Shahmeer Amir | [Read More](https://medium.com/p/aaff4c891bf2) |
+| Fri, 03 Apr 2026 11:51:19 GMT | Meta just open-sourced a model that reads your brain. | Kais Ben Daamech | [Read More](https://medium.com/p/ba0d0574bd13) |
+| Fri, 03 Apr 2026 11:50:52 GMT | I Built a Free Curated Library of 2,600+ Application Security Resources | Carl Sampson | [Read More](https://medium.com/p/eccf49443f6f) |
+| Fri, 03 Apr 2026 11:50:48 GMT | Anthropic’s Most Powerful Mythos/Capybara Model Releasing Soon | Kevin O'Shaughnessy | [Read More](https://medium.com/p/b4b3af69ef10) |
+| Fri, 03 Apr 2026 11:49:32 GMT | The Future of Deepfake Technology Is Already Here — And Most People Are Completely Unprepared | Techrefreshing | [Read More](https://medium.com/p/e4013346088a) |
+| Fri, 03 Apr 2026 11:41:18 GMT | Web Penjelajah CyberSecurity Publish | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/e014cc6d4063) |
+| Fri, 03 Apr 2026 11:39:50 GMT | IT Support and Services: Why Every Business Needs Reliable Tech Help Today | Sparklecode Technologies | [Read More](https://medium.com/p/2d42d8c7eae9) |
+| Fri, 03 Apr 2026 11:37:57 GMT | Supply Chain Attack Hits Popular Axios npm Package, Raising Alarm Across Developer Ecosystems | Jas | [Read More](https://medium.com/p/aeef3bf21dc9) |
+| Fri, 03 Apr 2026 11:33:28 GMT | SameSite Strict Bypass via Sibling Domain (CSWSH) — Practical Walkthrough | PRiTi.EX | [Read More](https://medium.com/p/469b20416156) |
+| Fri, 03 Apr 2026 11:31:14 GMT | AWS Isn’t a SIEM Strategy — It’s a Procurement Default | Graylog | [Read More](https://medium.com/p/15ff761a887d) |
+| Fri, 03 Apr 2026 11:31:01 GMT | The SSH Access That Didn’t Trigger a Single Alert | Faruk Ahmed | [Read More](https://medium.com/p/f1f1cd6d9d15) |
+| Fri, 03 Apr 2026 11:28:11 GMT | CTF Write-up Crptography(13) | Blacklotus | [Read More](https://medium.com/p/b17adaf8bafa) |
+| Fri, 03 Apr 2026 11:22:48 GMT | Practical Cybersecurity for SMBs – Part 2 | Man Of Truth | [Read More](https://medium.com/p/8fad4d12f6ea) |
+| Fri, 03 Apr 2026 11:22:38 GMT | How to Set Up a Fast VPN in 2026: Complete Guide for iPhone, Android, Mac & Windows | EVA VPN | [Read More](https://medium.com/p/06d8ccb6df04) |
+| Fri, 03 Apr 2026 11:22:34 GMT | How I Use AI to Write Pentest Reports in Half the Time (And Sound More Professional Doing It) | Cyberaiprompts | [Read More](https://medium.com/p/6c76ac662830) |
+| Fri, 03 Apr 2026 11:16:41 GMT | The Hackers Labs Writeup — Stars Wars I (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/61dfe17dfec8) |
+| Fri, 03 Apr 2026 11:11:40 GMT | Build Scalable Automation Systems with Skilled Workflow Engineers | n8ndevelopers | [Read More](https://medium.com/p/98779c66942f) |
+| Fri, 03 Apr 2026 11:09:27 GMT | CCTV Monitoring for Hospitals | Doris William | [Read More](https://medium.com/p/d7cfd1f31cfd) |
 | Fri, 03 Apr 2026 11:04:54 GMT | The Future of High-Performance Steelmaking: A Deep Dive into India’s Refractory Revolution. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/f12ba01e1a3e) |
 | Fri, 03 Apr 2026 11:00:05 GMT | Juice Shop Write-up: Empty Registration Challenge | ~ Jeff ~ | [Read More](https://medium.com/p/82647beda530) |
 | Fri, 03 Apr 2026 10:53:51 GMT | Cyber Security vs Ethical Hacking — Which Career is Better? | Ntech Global Solutions | [Read More](https://medium.com/p/ac0b585946c3) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 05:57:08 GMT | Solana Audit Arena — Week#2 — MissionX | Zuhaib Mohammed | [Read More](https://medium.com/p/534eb46b02ac) |
 | Fri, 03 Apr 2026 05:56:25 GMT | Prompt Engineering for AI Security: The Skill Every Cybersecurity Fresher Must Learn in 2026 | Yamini Yadav_369 | [Read More](https://medium.com/p/048f60ca20e4) |
 | Fri, 03 Apr 2026 05:46:23 GMT | Designing IT Operations for Trusted Supply Chains | Sarbajira Software | [Read More](https://medium.com/p/673bb7da0a9c) |
-| Fri, 03 Apr 2026 05:42:34 GMT | Cisco’s New 9.8 Vulnerabilities Put IMC and SSM On-Prem at Center of a Full-System Compromise Risk | Germano Costi | [Read More](https://medium.com/p/e1429a45819a) |
-| Fri, 03 Apr 2026 05:35:50 GMT | File upload vulnerabilities:How Hackers Upload Web shells | 0xSmit | [Read More](https://medium.com/p/b159a18504f5) |
-| Fri, 03 Apr 2026 05:31:52 GMT | Kerberos Authentication Write-up - Root-Me (Pre-Auth Attack) | csm24 | [Read More](https://medium.com/p/6430aebf1ad9) |
-| Fri, 03 Apr 2026 05:31:39 GMT | Common Network Protocols Networking Basics — Day 20 | 0xSmit | [Read More](https://medium.com/p/4f374324e691) |
-| Fri, 03 Apr 2026 05:30:30 GMT | $50 Million USDT for Just $36,000 in AAVE: The Security Awakening Behind a DeFi “Legal Disaster” | Digital Shield Offcial | [Read More](https://medium.com/p/be4b10c705a2) |
-| Fri, 03 Apr 2026 05:26:10 GMT | Behind AI and Tokenization: Why You Need Digital Shield | Digital Shield Offcial | [Read More](https://medium.com/p/a5ef7e1e3695) |
-| Fri, 03 Apr 2026 05:25:48 GMT | Emergency House Locksmith Services by N1 Locksmiths | N1locksmithsltd | [Read More](https://medium.com/p/485f7dc7576d) |
-| Fri, 03 Apr 2026 05:21:04 GMT | $50 Million USDT for Just $36,000 in AAVE: The Security Awakening Behind a DeFi “Legal Disaster” | Digital Shield | [Read More](https://medium.com/p/821dcd7f50c7) |
-| Fri, 03 Apr 2026 05:15:54 GMT | HTB: Meow Box Walkthrough | Coldstart Coder | [Read More](https://medium.com/p/774089deacd0) |
-| Fri, 03 Apr 2026 05:10:59 GMT | Behind AI and Tokenization: Why You Need Digital Shield | Digital Shield | [Read More](https://medium.com/p/5902536094f9) |
-| Fri, 03 Apr 2026 05:10:53 GMT | Logout Vulnerabilities Explained: 13 Critical Security Tests Every Hacker Must Know | PradyumnTiwareNexus | [Read More](https://medium.com/p/46db9038540a) |
-| Fri, 03 Apr 2026 05:05:42 GMT | Dark Web Monitoring for Beginners: Tools, Techniques, and Tips | Paritosh | [Read More](https://medium.com/p/a28c361d4031) |
-| Fri, 03 Apr 2026 05:01:02 GMT | HTTPX + DNSX Live Hosts Filter Karo aur DNS Secrets Nikalo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/64e80ba0ff14) |
-| Fri, 03 Apr 2026 04:57:38 GMT | CWD-Based Module Hijacking in Python pymanager (CVE-2026-5271) | LETCHU PKT | [Read More](https://medium.com/p/2fb57bbc65eb) |
-| Fri, 03 Apr 2026 04:57:19 GMT | Vulnerability Chaining: How Attackers Combine Low-Severity Bugs Into Critical Breaches | Kuboid Secure Layer | [Read More](https://medium.com/p/e74f0cb35dc5) |
-| Fri, 03 Apr 2026 04:56:34 GMT | Why Explainable AI is Critical for Misinformation Detection | Bright Duffour | [Read More](https://medium.com/p/fa4c1f06c93d) |
-| Fri, 03 Apr 2026 04:55:25 GMT | Burp Suite vs. Caido: Which Web App Pentesting Proxy Should You Learn First? | Dfaults | [Read More](https://medium.com/p/ff4a4093a7af) |
-| Fri, 03 Apr 2026 04:53:35 GMT | Drovenio IT Certification Guide: Best IT Certifications, Career Paths, Costs, and How to Choose the… | Tycoonstories | [Read More](https://medium.com/p/b908a90c19bd) |
