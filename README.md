@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 07:40:21 GMT | Can Someone Access Your Phone Camera Without You Knowing? | Kratika | [Read More](https://medium.com/p/9e8006c34473) |
+| Fri, 03 Apr 2026 07:35:51 GMT | 7 Subfinder Tricks That Instantly Expand Your Attack Surface | Fateyaly | [Read More](https://medium.com/p/8c4de803fa26) |
+| Fri, 03 Apr 2026 07:35:38 GMT | YOU DONT EVEN KNOW WHAT INSTAGRAM DID. | Teghpreet Singh Puri | [Read More](https://medium.com/p/ea74a405e8f0) |
+| Fri, 03 Apr 2026 07:32:50 GMT | CCTV System Installation for Everyday Safety | IT Solution Dubai | [Read More](https://medium.com/p/b1bc04f18da9) |
+| Fri, 03 Apr 2026 07:28:12 GMT | Vision-Guided Web AI Agents: The End of Fragile Automation | Datavex AI Pvt Ltd | [Read More](https://medium.com/p/345fe5754404) |
+| Fri, 03 Apr 2026 07:23:43 GMT | Anthropic Accidentally Open-Sourced Claude Code. Here’s What No One Is Talking About. | AIEngine | [Read More](https://medium.com/p/88f2789f1936) |
+| Fri, 03 Apr 2026 07:19:56 GMT | Red Team Automation: 12 Scripts That Save Hours (and Win Real Engagements) | Very Lazy Tech | [Read More](https://medium.com/p/4e52c49579bc) |
+| Fri, 03 Apr 2026 07:10:47 GMT | Thorbok Tech Introduces Next-Generation Cybersecurity and Human-Computer Interface Systems for… | Mason Ewing | [Read More](https://medium.com/p/7f42d685c9f2) |
+| Fri, 03 Apr 2026 07:09:44 GMT | Week 3: Understanding Linux File & Directory Permissions for Hackers | Nishant kumar | [Read More](https://medium.com/p/1d1d3a43c5c9) |
+| Fri, 03 Apr 2026 07:04:49 GMT | We Built a Trillion-Dollar Industry on Making You Feel Right | Dr. Thomas Jreige | [Read More](https://medium.com/p/578bf143632a) |
+| Fri, 03 Apr 2026 07:02:31 GMT | Vettra: What Happens When You Actually Try to Control an AI Agent | Wiqi Lee | [Read More](https://medium.com/p/5dea9357634c) |
+| Fri, 03 Apr 2026 07:01:27 GMT | Claude Code Leaked: What Happened, Risks, and What It Means for AI Security | Mandra H B | [Read More](https://medium.com/p/9bc0069f0f39) |
+| Fri, 03 Apr 2026 06:59:49 GMT | What Is Application Security and Why Do Modern Enterprises Need It? | Maruti Techlabs | [Read More](https://medium.com/p/562c0035ff68) |
+| Fri, 03 Apr 2026 06:58:19 GMT | Your Next Virus Won’t Be Code. It Will Be an AI Agent | Rahul Gaur | [Read More](https://medium.com/p/20c6ed70628e) |
+| Fri, 03 Apr 2026 06:46:25 GMT | Password Strength Policy Bypass via Server-Side Validation Flaw | rozzen | [Read More](https://medium.com/p/2279c2e167db) |
+| Fri, 03 Apr 2026 06:45:24 GMT | Build a Successful Career as a Database Administrator in Australia (2026 Guide) | CDR for Australia | [Read More](https://medium.com/p/7ccee12f946a) |
 | Fri, 03 Apr 2026 06:43:02 GMT | Residential Security Guards: Ensuring Safety and Peace of Mind for Your Home | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/3bc5013b3355) |
 | Fri, 03 Apr 2026 06:31:01 GMT | Red Flags That Your Password Has Been Stolen | Sanista Ramphal | [Read More](https://medium.com/p/ab05c2b32ddf) |
 | Fri, 03 Apr 2026 06:25:48 GMT | 8 Smart Ways to Improve Data Security for DPDP and GDPR | GRC³ | [Read More](https://medium.com/p/fa7f97bae60f) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 21:20:28 GMT | What Every Cyber Security Analyst Should Be Monitoring Daily | Nauman Aslam | [Read More](https://medium.com/p/e603d357f9f1) |
 | Thu, 02 Apr 2026 21:17:38 GMT | CVE-2023–6019 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/067cae70085d) |
 | Thu, 02 Apr 2026 21:11:03 GMT | Building a security program for edtech when your customers are the auditors | Nicolas Corder | [Read More](https://medium.com/p/b00f03b2b475) |
-| Thu, 02 Apr 2026 21:07:52 GMT | Bypass de Certificate Pinning em Android Sem Frida usando apk-mitm | Isaac Louzeiro | [Read More](https://medium.com/p/5593c53825f2) |
-| Thu, 02 Apr 2026 21:03:19 GMT | OWASP ASVS is one of the best things in AppSec. Most engineering teams will never use it properly. | Kay A | [Read More](https://medium.com/p/2a21b14c92eb) |
-| Thu, 02 Apr 2026 21:02:40 GMT | I Refused to Put OpenClaw on My Local Machine, So I Offshored to AWS Instead | Janet Xiu Shi | [Read More](https://medium.com/p/90ca441750ee) |
-| Thu, 02 Apr 2026 21:01:02 GMT | Unfiltered Restart — Day 40: Troubleshooting | Maximillian Rueda | [Read More](https://medium.com/p/0e1b84fecd77) |
-| Thu, 02 Apr 2026 21:01:01 GMT | Extending Snowflake Trust Center — Native Security Posture Management | Samir Kakkar | [Read More](https://medium.com/p/75a2d268a292) |
-| Thu, 02 Apr 2026 20:58:47 GMT | Things Fall Apart | Marshall Jung | [Read More](https://medium.com/p/c5ed14cf8e76) |
-| Thu, 02 Apr 2026 20:56:05 GMT | RSAC 2026: Industry Shifts Toward Autonomous SOC and AI Security | Vladislav Babiuk | [Read More](https://medium.com/p/46fe2bc0d9b0) |
-| Thu, 02 Apr 2026 20:45:57 GMT | “You’re So Diligent” and “You’re Useless” — Heard on the Same Day, at the Same Job | masa tatsumura | [Read More](https://medium.com/p/687165d95db9) |
-| Thu, 02 Apr 2026 20:37:54 GMT | Anthropic Accidentally Leaked 512,000 Lines of Claude Code | Abhi | [Read More](https://medium.com/p/c4ba1cbf0d4b) |
-| Thu, 02 Apr 2026 20:30:57 GMT | Undercover mode, decoy tools, and a 3,167-line function: inside Claude Code’s leaked source | Liran Baba | [Read More](https://medium.com/p/26573fec2c12) |
-| Thu, 02 Apr 2026 20:24:52 GMT | TryHackMe Water Bottle Writeup - OSINT Walkthrough | Priyam chauhan | [Read More](https://medium.com/p/e8d7ea3d5463) |
-| Thu, 02 Apr 2026 20:20:02 GMT | What a Real Autonomous Recon Pipeline Looks Like | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0cd3352d486a) |
-| Thu, 02 Apr 2026 20:16:56 GMT | Advanced IDOR Guide: How to Find and Exploit Broken Access Control in Modern APIs | ExploitX | [Read More](https://medium.com/p/47bdd952fbd2) |
-| Thu, 02 Apr 2026 20:09:25 GMT | Hackers Are Hijacking AI — Prompt Injection Attacks Explained (2026) | SecurityElites – Ethical Hacking & Bug Bounty | [Read More](https://medium.com/p/6b4717211764) |
-| Thu, 02 Apr 2026 20:04:44 GMT | LinkedIn Has Been Secretly Scanning Your Computer. Here’s What They Found. | Sidhanth Pandey | [Read More](https://medium.com/p/7bcba8584c82) |
-| Thu, 02 Apr 2026 19:59:43 GMT | What if your Linux system is already under attack — and you don’t even know it? | Farahejaz | [Read More](https://medium.com/p/62a7f3db132d) |
