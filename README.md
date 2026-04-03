@@ -12,6 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 06:43:02 GMT | Residential Security Guards: Ensuring Safety and Peace of Mind for Your Home | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/3bc5013b3355) |
+| Fri, 03 Apr 2026 06:31:01 GMT | Red Flags That Your Password Has Been Stolen | Sanista Ramphal | [Read More](https://medium.com/p/ab05c2b32ddf) |
+| Fri, 03 Apr 2026 06:25:48 GMT | 8 Smart Ways to Improve Data Security for DPDP and GDPR | GRC³ | [Read More](https://medium.com/p/fa7f97bae60f) |
+| Fri, 03 Apr 2026 06:22:15 GMT | Google Just Made Cracking Bitcoin 20× Easier | Before The Curve | [Read More](https://medium.com/p/cbdda7f7bd4e) |
+| Fri, 03 Apr 2026 06:19:06 GMT | The Corix Partners Friday Reading List — April 3, 2026 | JC Gaillard | [Read More](https://medium.com/p/420ba974825b) |
+| Fri, 03 Apr 2026 06:16:26 GMT | How to Protect Your Business Data from Hackers | Adiasquare_software_solutions | [Read More](https://medium.com/p/f3861d87f580) |
+| Fri, 03 Apr 2026 06:15:00 GMT | Browser-in-the-Browser (BitB) Attacks: When Fake Login Windows Look Completely Real | Cynox Security LLP. | [Read More](https://medium.com/p/e5b7f04dafe2) |
+| Fri, 03 Apr 2026 06:12:24 GMT | Passwords Are Dying. Here’s What’s Replacing Them — And Why Your Website Needs to Catch Up | Vikas Bhardwaj | [Read More](https://medium.com/p/6e7600a52782) |
+| Fri, 03 Apr 2026 06:10:27 GMT | Docker Hardening Best Practices: A Complete Guide to Securing Containers in Production | Redfox Security | [Read More](https://medium.com/p/789b1a0c5afd) |
+| Fri, 03 Apr 2026 06:00:21 GMT | Top IT System Integrator Companies in India: Driving Digital Transformation in 2026 | Omnilink Technology | [Read More](https://medium.com/p/272c9d467a2b) |
+| Fri, 03 Apr 2026 06:00:20 GMT | Gaara — SSH Brute Force + SUID gdb Shell Escape - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/c760afb66e6d) |
+| Fri, 03 Apr 2026 06:00:05 GMT | CompTIA Network+ Vs. | Sajid Khan | [Read More](https://medium.com/p/185018a5e9c2) |
+| Fri, 03 Apr 2026 05:58:03 GMT | 2FA vs SMS: Use Authenticator Apps Instead | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/c0975da87d82) |
+| Fri, 03 Apr 2026 05:57:08 GMT | Solana Audit Arena — Week#2 — MissionX | Zuhaib Mohammed | [Read More](https://medium.com/p/534eb46b02ac) |
+| Fri, 03 Apr 2026 05:56:25 GMT | Prompt Engineering for AI Security: The Skill Every Cybersecurity Fresher Must Learn in 2026 | Yamini Yadav_369 | [Read More](https://medium.com/p/048f60ca20e4) |
+| Fri, 03 Apr 2026 05:46:23 GMT | Designing IT Operations for Trusted Supply Chains | Sarbajira Software | [Read More](https://medium.com/p/673bb7da0a9c) |
+| Fri, 03 Apr 2026 05:42:34 GMT | Cisco’s New 9.8 Vulnerabilities Put IMC and SSM On-Prem at Center of a Full-System Compromise Risk | Germano Costi | [Read More](https://medium.com/p/e1429a45819a) |
+| Fri, 03 Apr 2026 05:35:50 GMT | File upload vulnerabilities:How Hackers Upload Web shells | 0xSmit | [Read More](https://medium.com/p/b159a18504f5) |
+| Fri, 03 Apr 2026 05:31:52 GMT | Kerberos Authentication Write-up - Root-Me (Pre-Auth Attack) | csm24 | [Read More](https://medium.com/p/6430aebf1ad9) |
+| Fri, 03 Apr 2026 05:31:39 GMT | Common Network Protocols Networking Basics — Day 20 | 0xSmit | [Read More](https://medium.com/p/4f374324e691) |
+| Fri, 03 Apr 2026 05:30:30 GMT | $50 Million USDT for Just $36,000 in AAVE: The Security Awakening Behind a DeFi “Legal Disaster” | Digital Shield Offcial | [Read More](https://medium.com/p/be4b10c705a2) |
+| Fri, 03 Apr 2026 05:26:10 GMT | Behind AI and Tokenization: Why You Need Digital Shield | Digital Shield Offcial | [Read More](https://medium.com/p/a5ef7e1e3695) |
+| Fri, 03 Apr 2026 05:25:48 GMT | Emergency House Locksmith Services by N1 Locksmiths | N1locksmithsltd | [Read More](https://medium.com/p/485f7dc7576d) |
+| Fri, 03 Apr 2026 05:21:04 GMT | $50 Million USDT for Just $36,000 in AAVE: The Security Awakening Behind a DeFi “Legal Disaster” | Digital Shield | [Read More](https://medium.com/p/821dcd7f50c7) |
+| Fri, 03 Apr 2026 05:15:54 GMT | HTB: Meow Box Walkthrough | Coldstart Coder | [Read More](https://medium.com/p/774089deacd0) |
+| Fri, 03 Apr 2026 05:10:59 GMT | Behind AI and Tokenization: Why You Need Digital Shield | Digital Shield | [Read More](https://medium.com/p/5902536094f9) |
+| Fri, 03 Apr 2026 05:10:53 GMT | Logout Vulnerabilities Explained: 13 Critical Security Tests Every Hacker Must Know | PradyumnTiwareNexus | [Read More](https://medium.com/p/46db9038540a) |
+| Fri, 03 Apr 2026 05:05:42 GMT | Dark Web Monitoring for Beginners: Tools, Techniques, and Tips | Paritosh | [Read More](https://medium.com/p/a28c361d4031) |
 | Fri, 03 Apr 2026 05:01:02 GMT | HTTPX + DNSX Live Hosts Filter Karo aur DNS Secrets Nikalo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/64e80ba0ff14) |
 | Fri, 03 Apr 2026 04:57:38 GMT | CWD-Based Module Hijacking in Python pymanager (CVE-2026-5271) | LETCHU PKT | [Read More](https://medium.com/p/2fb57bbc65eb) |
 | Fri, 03 Apr 2026 04:57:19 GMT | Vulnerability Chaining: How Attackers Combine Low-Severity Bugs Into Critical Breaches | Kuboid Secure Layer | [Read More](https://medium.com/p/e74f0cb35dc5) |
@@ -84,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 02 Apr 2026 20:09:25 GMT | Hackers Are Hijacking AI — Prompt Injection Attacks Explained (2026) | SecurityElites – Ethical Hacking & Bug Bounty | [Read More](https://medium.com/p/6b4717211764) |
 | Thu, 02 Apr 2026 20:04:44 GMT | LinkedIn Has Been Secretly Scanning Your Computer. Here’s What They Found. | Sidhanth Pandey | [Read More](https://medium.com/p/7bcba8584c82) |
 | Thu, 02 Apr 2026 19:59:43 GMT | What if your Linux system is already under attack — and you don’t even know it? | Farahejaz | [Read More](https://medium.com/p/62a7f3db132d) |
-| Thu, 02 Apr 2026 19:57:05 GMT | Örnek Phishing Playbook | Murat TURGUT | [Read More](https://medium.com/p/835a2c7914b6) |
-| Thu, 02 Apr 2026 19:52:40 GMT | Bastion Hosts: The Bouncer of Your Infrastructure | Vivek Yadav | [Read More](https://medium.com/p/19b9292d0645) |
-| Thu, 02 Apr 2026 19:49:42 GMT | Warehouse Security Services in Dallas, TX | Twin City Security Dallas | [Read More](https://medium.com/p/a44ee8448bb3) |
-| Thu, 02 Apr 2026 19:45:00 GMT | Insecure File Upload in KYC Systems - When the Document Verification Process Becomes an Open Door | Rufus Kehinde | [Read More](https://medium.com/p/4e13dac469e6) |
-| Thu, 02 Apr 2026 19:42:40 GMT | The Upgrade Problem: Why Proxy Safety Is Still One of Web3’s Most Misunderstood Risks | Exploitless | [Read More](https://medium.com/p/76617a1c9fec) |
-| Thu, 02 Apr 2026 19:37:57 GMT | The CIA is so scared of AI it is reviving old-school, Cold War Era Spycraft… | BizTech Weekly | [Read More](https://medium.com/p/53d6f485311c) |
-| Thu, 02 Apr 2026 19:35:26 GMT | Your Cookie Scanner Just Doubled Its Price. Here’s What It Still Doesn’t Check. | Steven - TrustYourWebsite | [Read More](https://medium.com/p/03647d148aae) |
-| Thu, 02 Apr 2026 19:28:26 GMT | The Axios Attack Happened Because of One npm install. Here is How to Protect Yourself | faydevlop | [Read More](https://medium.com/p/83a039bbbd25) |
-| Thu, 02 Apr 2026 19:24:17 GMT | AI Agent Traps: New War for the Web | Mayur Jain | [Read More](https://medium.com/p/0fd7dfc5dce6) |
-| Thu, 02 Apr 2026 19:23:39 GMT | Analysis of Password Managers | DISHA GUPTA | [Read More](https://medium.com/p/a593bae00898) |
-| Thu, 02 Apr 2026 19:07:50 GMT | A Realistic 7-Day Timeline of a Cyberattack | Digital Defense | [Read More](https://medium.com/p/4e0c88608b82) |
-| Thu, 02 Apr 2026 19:06:13 GMT | Operation Shadow Proxy: A Walkthrough Of Tracing a Ransomware Using OSINT | Azutech | [Read More](https://medium.com/p/5bb676e049eb) |
-| Thu, 02 Apr 2026 19:03:43 GMT | How I Found a Critical SAML Authentication Bypasson a Major Automotive Company's Dealer Portal | Ousski | [Read More](https://medium.com/p/848b1a33172e) |
-| Thu, 02 Apr 2026 18:59:50 GMT | File Inclusion (LFI/RFI) — Extracting Sensitive Data from config.php - Hackviser Question | Manohar T H | [Read More](https://medium.com/p/021b20180f8e) |
-| Thu, 02 Apr 2026 18:55:22 GMT | The Leak Was Never About the Code | Akansha Sukhija | [Read More](https://medium.com/p/75ac96eb5a42) |
-| Thu, 02 Apr 2026 18:34:50 GMT | AmassAdvanced Recon Mastery: Attack Surface Ko Poora Expose Karo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/7469d748a990) |
-| Thu, 02 Apr 2026 18:30:57 GMT | Exploiting Certificates for Lateral Movement | Pentester Club | [Read More](https://medium.com/p/a2e5c4b0e155) |
-| Thu, 02 Apr 2026 18:27:50 GMT | Catch my cheating boyfriend | Michael Parks | [Read More](https://medium.com/p/64544bbe5c53) |
-| Thu, 02 Apr 2026 18:25:45 GMT | Our Submission to NIST on AI Agent Identity and Authorization | Douglas Borthwick | [Read More](https://medium.com/p/57a9bb6317da) |
-| Thu, 02 Apr 2026 18:22:08 GMT | Detecting PII Data using Splunk and AI — Part 1 | Sondhi Varun | [Read More](https://medium.com/p/4c202732ccde) |
-| Thu, 02 Apr 2026 18:19:31 GMT | The Quantum Revolution: 5 Things You Must Know About the Future of Cryptography | Cygnus Consulting | [Read More](https://medium.com/p/c2ab6f123175) |
-| Thu, 02 Apr 2026 18:09:56 GMT | Building my own password manager to learn security | Fahisshehandim | [Read More](https://medium.com/p/847952ced763) |
-| Thu, 02 Apr 2026 18:08:47 GMT | Ethical Hacking: Where to Start Legally | Mubashir | [Read More](https://medium.com/p/842081ba2ad9) |
-| Thu, 02 Apr 2026 17:58:47 GMT | In a concerning development, attackers have demonstrated how even security tools themselves can… | Chetan Seripally | [Read More](https://medium.com/p/20e1107db4af) |
-| Thu, 02 Apr 2026 17:57:55 GMT | Encryption & Decryption Explained: The Ultimate Guide to Data Privacy (Plus a Free Tool) | Needlecodedev | [Read More](https://medium.com/p/e82c61157771) |
-| Thu, 02 Apr 2026 17:52:19 GMT | HOW CAN I RECOVER MY LOST OR HACKED CRYPTO FUNDS? CONTACT MALICE CYBER RECOVERY SPECIALIST | Leon Noa | [Read More](https://medium.com/p/130fbb855bca) |
-| Thu, 02 Apr 2026 17:49:48 GMT | Types of SSL/TLS Certificate and their Conversions in the Linux | Itstars | [Read More](https://medium.com/p/b23024f276e6) |
-| Thu, 02 Apr 2026 17:47:20 GMT | Python Security Toolkit Every Developer Needs (Before It’s Too Late) | Er.Muruganantham | [Read More](https://medium.com/p/6bbc0bdd244d) |
