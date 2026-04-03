@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 03 Apr 2026 10:03:17 GMT | CVE-2026–21643: FortiClient EMS Critical SQL Injection — Actively Exploited, No Credentials… | Ali Dak | [Read More](https://medium.com/p/5eb081f2a044) |
+| Fri, 03 Apr 2026 10:01:02 GMT | The Deep Web Is Not What You Think It Is | Juan M. Vazquez | [Read More](https://medium.com/p/c87bfe3fa18b) |
+| Fri, 03 Apr 2026 09:56:32 GMT | My Cybersecurity Journey (Day-3) | Priyesh Patware | [Read More](https://medium.com/p/aa2f2fefa24e) |
+| Fri, 03 Apr 2026 09:52:30 GMT | I Thought Learning Cybersecurity Would Be Simple — I Was Wrong | Sharif Hassan | [Read More](https://medium.com/p/7684727b22e3) |
+| Fri, 03 Apr 2026 09:51:11 GMT | Raspberry Pi Server: Fortifying Your Digital Fortress with Safeline WAF Protection | John Hawkins | [Read More](https://medium.com/p/f36784b45986) |
+| Fri, 03 Apr 2026 09:45:30 GMT | From Zero to SIA Ready: The Fastest Way to Start a Security Career in 2026 | courses4u | [Read More](https://medium.com/p/720fa6dffb55) |
+| Fri, 03 Apr 2026 09:43:38 GMT | Claude Code Leak: A Wake-Up Call Every Developer Should Pay Attention To | Dibeesh KS | [Read More](https://medium.com/p/203a6c3dfa84) |
+| Fri, 03 Apr 2026 09:41:01 GMT | Threat Intelligence Is About Reducing Surprise, Not Preventing All Attacks | Rishika Desai | [Read More](https://medium.com/p/9b2660b84cea) |
+| Fri, 03 Apr 2026 09:39:56 GMT | Do we always need a backend? : Peer-to-peer device data transfer | Karol Burdziński | [Read More](https://medium.com/p/ae3da6c1aa67) |
+| Fri, 03 Apr 2026 09:36:37 GMT | Inside the TeamPCP LiteLLM Supply Chain Attack and What to Do Right Now | Owadokun Tosin Tobi | [Read More](https://medium.com/p/b6162bb21dbb) |
+| Fri, 03 Apr 2026 09:34:09 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/92843cc4995f) |
+| Fri, 03 Apr 2026 09:26:29 GMT | STRATEGIC CYBERSECURITY AUDIT 2026 | Glorenaspeaks | [Read More](https://medium.com/p/72e94c757795) |
 | Fri, 03 Apr 2026 09:17:16 GMT | Why Active Directory is the Most Critical Skill in Cybersecurity | Glorenaspeaks | [Read More](https://medium.com/p/7f7e11bbdec2) |
 | Fri, 03 Apr 2026 09:16:48 GMT | Prevenção a fraudes na era digital: | Yo | [Read More](https://medium.com/p/fef0954a240f) |
 | Fri, 03 Apr 2026 09:15:38 GMT | JR Academy Chrome Extension “求职匠 Job Hunter” Silently Uploads Every LinkedIn Profile You Visit | JusNull | [Read More](https://medium.com/p/9cf53245d71e) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 02:47:17 GMT | picoCTF 2026 Writeup: ABSOLUTE NANO (Privilege Escalation via nano) | Abisha Shetty | [Read More](https://medium.com/p/98f9d5ce62b4) |
 | Fri, 03 Apr 2026 02:39:15 GMT | OTP Bombing | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/b8ef3763b327) |
 | Fri, 03 Apr 2026 02:26:14 GMT | SQL Injection: How a Single Line of Code Can Make Your Website Vulnerable | Dalila Zitouni | [Read More](https://medium.com/p/058fd005b3ba) |
-| Fri, 03 Apr 2026 02:16:27 GMT | Weekly Threat Intelligence Report 30 Mar 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/d811e5508cba) |
-| Fri, 03 Apr 2026 02:10:21 GMT | From Benchmarks to Blast Radius: Governing Agentic Systems at Runtime | Yassien Shaalan | [Read More](https://medium.com/p/cd49cba71c11) |
-| Fri, 03 Apr 2026 02:03:17 GMT | How Hackers Steal Your Password (And How to Stop Them) | Aqila N | [Read More](https://medium.com/p/4c95b1e38465) |
-| Fri, 03 Apr 2026 01:44:07 GMT | How to Download PC Game Mods Safely Without Risking Malware | Sitirukoyah | [Read More](https://medium.com/p/23f1509e6a33) |
-| Fri, 03 Apr 2026 01:33:43 GMT | They Didn’t Hack a System. They Hacked Trust. | Bhumijofficial | [Read More](https://medium.com/p/1eb9a9903f07) |
-| Fri, 03 Apr 2026 01:14:56 GMT | What Claude Code’s Leaked Permission Classifier Misses — And What Fills the Gap | Chiradeep Chhaya | [Read More](https://medium.com/p/c6dd3650163c) |
-| Fri, 03 Apr 2026 00:40:39 GMT | Business VPN vs. Personal VPN: What’s the Difference? | Cloudbric VPN | [Read More](https://medium.com/p/9dcc7b5ef89e) |
-| Fri, 03 Apr 2026 00:19:47 GMT | Let Yourself Be Held | maria ｡๑ ° | [Read More](https://medium.com/p/3758195c1977) |
-| Fri, 03 Apr 2026 00:00:15 GMT | Decoder & Comparer — Reading What Applications Hide Inside Encoded Data | Yamini Yadav_369 | [Read More](https://medium.com/p/ea1fe1a93a08) |
-| Thu, 02 Apr 2026 23:56:22 GMT | Situasi Peperangan di Timur Tengah — 3 April 2026 | KoranDunia | [Read More](https://medium.com/p/1b90511e0283) |
-| Thu, 02 Apr 2026 23:16:03 GMT | Would You Rather Be Free, or Be Loved? | Monjolajesu Jawo | [Read More](https://medium.com/p/f4f46eadaf7e) |
-| Thu, 02 Apr 2026 23:15:22 GMT | The Story of Josiah Dhev: From a Challenging Upbringing to Teen Tech Visionary | DevPulseJournal | [Read More](https://medium.com/p/7fa9e079acb6) |
