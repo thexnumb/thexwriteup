@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 04:18:25 GMT | Can I See Your ID? | Ben   Olufemi akintounde | [Read More](https://medium.com/p/e89afa1a6dc8) |
+| Sat, 04 Apr 2026 04:14:08 GMT | Your LangChain Agent Can Send Emails, Read Files, and Hit APIs — Who’s Checking What It Actually… | hellocosmos | [Read More](https://medium.com/p/ba4850856119) |
+| Sat, 04 Apr 2026 04:11:26 GMT | Why Small Businesses Need a Managed Service Provider in Los Angeles | Mobilecomputerrepairus | [Read More](https://medium.com/p/6c5a18606872) |
+| Sat, 04 Apr 2026 03:53:01 GMT | I Built a Chrome Extension That Finds Exposed Secrets in JavaScript Files | Chidubem Chukwu | [Read More](https://medium.com/p/bdbefe94f0ab) |
+| Sat, 04 Apr 2026 03:49:46 GMT | …    ? | Mohamed Amaan | [Read More](https://medium.com/p/93a0f39773cd) |
+| Sat, 04 Apr 2026 03:29:03 GMT | AI as Your Cybersecurity Team Member — Step-by-step | Zac Smith | [Read More](https://medium.com/p/459953c2a8b0) |
+| Sat, 04 Apr 2026 03:22:08 GMT | AWS IAM Yanılgıları: Güvenli Sanılan 7 Riskli Tasarım | Muammer Hardal | [Read More](https://medium.com/p/509e4a82188f) |
+| Sat, 04 Apr 2026 03:22:03 GMT | How I Built a Wi-Fi Security Testing Tool Using Bash (Architecture Deep Dive With Real Command… | dhiraj deshmukh | [Read More](https://medium.com/p/dc198aa35f8c) |
+| Sat, 04 Apr 2026 03:12:28 GMT | Democratizing Cyber Defense | Creepus | [Read More](https://medium.com/p/0c5fdb4f287b) |
+| Sat, 04 Apr 2026 03:12:18 GMT | How Wi-Fi Attacks Actually Work (And What Building One Taught Me About Real Cybersecurity) — Part 1 | dhiraj deshmukh | [Read More](https://medium.com/p/873d38ba71b5) |
+| Sat, 04 Apr 2026 03:07:26 GMT | Google Issues Zero-Day Attack Alert For 3.5 Billion Chrome Users | Moni | [Read More](https://medium.com/p/5990c9241d25) |
 | Sat, 04 Apr 2026 02:06:06 GMT | What Happens to Your Data After You Delete It? | Atharv Ambade | [Read More](https://medium.com/p/49da43320cc1) |
 | Sat, 04 Apr 2026 02:04:02 GMT | SSRF Unleashed: Accessing the Unreachable via Local Server Attacks | Ayeshaaghafoor | [Read More](https://medium.com/p/7c71c1178a53) |
 | Sat, 04 Apr 2026 02:03:15 GMT | The Silent Killer: Bypassing Extension Validation with Null Bytes | Ayeshaaghafoor | [Read More](https://medium.com/p/75b50f7bc322) |
@@ -23,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 01:38:45 GMT | HTB Season 10 — Facts Walkthrough | Jesse Ridley | [Read More](https://medium.com/p/8f25da5d7c47) |
 | Sat, 04 Apr 2026 01:33:40 GMT | You Can Type the Right Website… and Still Get Hacked | Adwait Joshi | [Read More](https://medium.com/p/b833558d8342) |
 | Sat, 04 Apr 2026 01:01:01 GMT | [Blade Runner] Sovereign Struggle to Reclaim Primary Memory | MonoEssay | [Read More](https://medium.com/p/0ac96969cebd) |
+| Sat, 04 Apr 2026 01:00:10 GMT | When Your Boss’s Voice Isn’t Your Boss | scofield lori | [Read More](https://medium.com/p/d9bc9a6e36cc) |
 | Sat, 04 Apr 2026 00:53:46 GMT | Why Digital Transformation Fails Without Operational Clarity. | Sunny Okonkwo | [Read More](https://medium.com/p/b3e4ba70014b) |
 | Sat, 04 Apr 2026 00:48:24 GMT | What Cyber Insurance Underwriters Already Know About Your Organization — — And What You Should Do… | Oluwagbenga Ogungbemi | [Read More](https://medium.com/p/7d42030923db) |
 | Sat, 04 Apr 2026 00:44:42 GMT | File and Directory Operations | Aj | [Read More](https://medium.com/p/05e529cfaddd) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 15:31:02 GMT | Autonomy Without Control: The Next Enterprise Security Crisis | Oscar Antonangelo | [Read More](https://medium.com/p/209e852c9204) |
 | Fri, 03 Apr 2026 15:21:17 GMT | Enterprise Security Audit Tool for Dynamics 365 in XrmToolBox — Role Privilege Analyzer | Moamen Ashraf | [Read More](https://medium.com/p/02c45e3c3b6d) |
 | Fri, 03 Apr 2026 15:19:54 GMT | Step-by-Step HTTP Log Analysis in Splunk: Detecting Vulnerability Scanning and Unauthorized Access… | suraj | [Read More](https://medium.com/p/9eb855c6dae7) |
-| Fri, 03 Apr 2026 15:13:54 GMT | The “Claude Leak Code” Controversy: What Happened, Why It Matters, and All Possible Scenarios | Software Developer | [Read More](https://medium.com/p/4313f7da2edf) |
-| Fri, 03 Apr 2026 15:11:13 GMT | Beginner Recon Checklist (Step-by-Step Guide for Bug Bounty & Pentesting) | Riya Limba | [Read More](https://medium.com/p/212fa880cb0a) |
-| Fri, 03 Apr 2026 15:11:10 GMT | Exposed .env File Leads To API Key Leak & Financial Impact | 1sherlok | [Read More](https://medium.com/p/3886bf375367) |
-| Fri, 03 Apr 2026 15:02:14 GMT | Prompt Injection Is Still the #1 AI Vulnerability in 2026 — And We’re Running Out of Excuses | Suleiman Tawil | [Read More](https://medium.com/p/288e3e5cb303) |
-| Fri, 03 Apr 2026 14:47:09 GMT | API10: Unsafe Consumption of APIs — The Supply Chain Problem Nobody Is Solving | Cyberbali | [Read More](https://medium.com/p/f074a7f2207f) |
-| Fri, 03 Apr 2026 14:42:21 GMT | The Bouncer Who Never Checked IDs | 0xStxrless | [Read More](https://medium.com/p/2fc95942e990) |
-| Fri, 03 Apr 2026 14:42:10 GMT | The Era of the Governed Agent: Why Agentic AI Security is Extremely Important in 2026 | evoailabs | [Read More](https://medium.com/p/f437e8719843) |
-| Fri, 03 Apr 2026 14:41:47 GMT | Hacking 101: The art of Hacking | Code 33 | [Read More](https://medium.com/p/00ad63cb4d56) |
-| Fri, 03 Apr 2026 14:39:20 GMT | Laporan Praktikum Struktur Data : Searching | Cahyoadi | [Read More](https://medium.com/p/c4868c5b2f12) |
-| Fri, 03 Apr 2026 14:37:04 GMT | Browsed — HackTheBox Writeup | 0xStxrless | [Read More](https://medium.com/p/9c01476e4228) |
-| Fri, 03 Apr 2026 14:35:08 GMT | Weekly Cyber Threat Bulletin: 26 March 2026 | Marcelle Lee | [Read More](https://medium.com/p/ae388c5c0d7e) |
-| Fri, 03 Apr 2026 14:34:43 GMT | How 1 Missing Line of Code Cost Anthropic $340 Billion | Syed Ahmer Shah | [Read More](https://medium.com/p/074db31fae55) |
