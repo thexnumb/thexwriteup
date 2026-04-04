@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 10:55:08 GMT | HTTP vs HTTPS 為什麼多一個 S 這麼重要？ | Chiayu | [Read More](https://medium.com/p/0eaaaea09b97) |
+| Sat, 04 Apr 2026 10:50:01 GMT | Vectra AI: The Cybersecurity Platform That Finally Speaks Human | Anirudh Singh | [Read More](https://medium.com/p/9ac2743f6e11) |
+| Sat, 04 Apr 2026 10:39:51 GMT | TryHackMe Write-Up: Investigating Windows | cyberwriter | [Read More](https://medium.com/p/d21096dfe44c) |
+| Sat, 04 Apr 2026 10:37:54 GMT | Building My First Wazuh SIEM Home Lab for SOC Practice | Yugandhar CH | [Read More](https://medium.com/p/e6b8e01e3deb) |
+| Sat, 04 Apr 2026 10:31:01 GMT | What is Nmap? A Beginner’s Guide to Network Scanning | Chulanka Lakmana Thabrew | [Read More](https://medium.com/p/253d433fd5ae) |
+| Sat, 04 Apr 2026 10:31:01 GMT | Mastering Nmap: The Ultimate Guide to Network Discovery, Port Scanning, and Security Auditing | Ishant | [Read More](https://medium.com/p/5bbbac4db08e) |
+| Sat, 04 Apr 2026 10:25:35 GMT | AI Security, Trust & Governance: A Complete Guide for 2026 | Xeer Technology | [Read More](https://medium.com/p/93e45edc8bbb) |
+| Sat, 04 Apr 2026 10:19:37 GMT | The Free SIEM That Enterprises Actually Use: A Beginner's Complete Guide to Wazuh | Shewag Bhattarai | [Read More](https://medium.com/p/619918e9655c) |
+| Sat, 04 Apr 2026 10:14:45 GMT | Mastering Attack Surface Mapping — The Skill That Separates Top Bug Hunters | Pradeeptadi | [Read More](https://medium.com/p/5ac4c2aaf7b9) |
+| Sat, 04 Apr 2026 10:10:17 GMT | Buffer Overflow Attacks | Abutalibov Umud | [Read More](https://medium.com/p/c875a8a70b40) |
 | Sat, 04 Apr 2026 09:54:43 GMT | eJPT Assessment Methodologies: Enumeration CTF 1 Walk Through | gauravgrox | [Read More](https://medium.com/p/962e06510dd6) |
+| Sat, 04 Apr 2026 09:54:37 GMT | Commercial Security Services: Protecting Businesses with Professional Excellence | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/6d693f039adc) |
 | Sat, 04 Apr 2026 09:51:44 GMT | Cooctus-Stories TryHackMe Walkthrough - by Yoel Yosief | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/30a63b9786ff) |
 | Sat, 04 Apr 2026 09:51:36 GMT | CTF Writeup · Digital CyberHunt 2026 — My 9th Place Writeup | PIYUSH DHARIWAL | [Read More](https://medium.com/p/089aca17ce02) |
 | Sat, 04 Apr 2026 09:50:57 GMT | AI Governance Framework for Enterprises in 2026 | Imran Hashmi | [Read More](https://medium.com/p/90fcea90e65e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 03:53:01 GMT | I Built a Chrome Extension That Finds Exposed Secrets in JavaScript Files | Chidubem Chukwu | [Read More](https://medium.com/p/bdbefe94f0ab) |
 | Sat, 04 Apr 2026 03:49:46 GMT | …    ? | Mohamed Amaan | [Read More](https://medium.com/p/93a0f39773cd) |
 | Sat, 04 Apr 2026 03:29:03 GMT | AI as Your Cybersecurity Team Member — Step-by-step | Zac Smith | [Read More](https://medium.com/p/459953c2a8b0) |
-| Sat, 04 Apr 2026 03:22:08 GMT | AWS IAM Yanılgıları: Güvenli Sanılan 7 Riskli Tasarım | Muammer Hardal | [Read More](https://medium.com/p/509e4a82188f) |
-| Sat, 04 Apr 2026 03:22:03 GMT | How I Built a Wi-Fi Security Testing Tool Using Bash (Architecture Deep Dive With Real Command… | dhiraj deshmukh | [Read More](https://medium.com/p/dc198aa35f8c) |
-| Sat, 04 Apr 2026 03:12:28 GMT | Democratizing Cyber Defense | Creepus | [Read More](https://medium.com/p/0c5fdb4f287b) |
-| Sat, 04 Apr 2026 03:12:18 GMT | How Wi-Fi Attacks Actually Work (And What Building One Taught Me About Real Cybersecurity) — Part 1 | dhiraj deshmukh | [Read More](https://medium.com/p/873d38ba71b5) |
-| Sat, 04 Apr 2026 03:07:26 GMT | Google Issues Zero-Day Attack Alert For 3.5 Billion Chrome Users | Moni | [Read More](https://medium.com/p/5990c9241d25) |
-| Sat, 04 Apr 2026 02:06:06 GMT | What Happens to Your Data After You Delete It? | Atharv Ambade | [Read More](https://medium.com/p/49da43320cc1) |
-| Sat, 04 Apr 2026 02:04:02 GMT | SSRF Unleashed: Accessing the Unreachable via Local Server Attacks | Ayeshaaghafoor | [Read More](https://medium.com/p/7c71c1178a53) |
-| Sat, 04 Apr 2026 02:03:15 GMT | The Silent Killer: Bypassing Extension Validation with Null Bytes | Ayeshaaghafoor | [Read More](https://medium.com/p/75b50f7bc322) |
-| Sat, 04 Apr 2026 02:01:01 GMT | Boardroom Strategy: Cybersecurity in Corporate Governance | Anilesh Mukherjee | [Read More](https://medium.com/p/e9b6de8b0f12) |
-| Sat, 04 Apr 2026 01:57:50 GMT | Software Supply Chain Security After Axios | Jeremy longshore | [Read More](https://medium.com/p/d5095666a54f) |
-| Sat, 04 Apr 2026 01:56:17 GMT | Building Your Own Attack Surface Monitoring Script (Python) | Paritosh | [Read More](https://medium.com/p/b7e5a3a88114) |
