@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 21:31:21 GMT | Staying Cautious in the Age of AI Adoption - BSides Bristol 2025 | Meera Tamboli | [Read More](https://medium.com/p/9f50c965d776) |
+| Sat, 04 Apr 2026 21:25:29 GMT | Security Misconfigurations in Cloud Fintech Deployments - When the Infrastructure Is Running, but… | Rufus Kehinde | [Read More](https://medium.com/p/9a23362a0d6f) |
+| Sat, 04 Apr 2026 20:52:36 GMT | Server-Side Fingerprinting Without a Single Line of JavaScript | Даниил Петрушевский | [Read More](https://medium.com/p/8506d77f1429) |
+| Sat, 04 Apr 2026 20:46:51 GMT | What attackers see when they scan your SaaS domain | Threatlocator | [Read More](https://medium.com/p/97b6c9e62c0f) |
+| Sat, 04 Apr 2026 20:46:16 GMT | Old Parser Bugs Survive Because “Header Checked” Feels Safer Than It Is | Lukasjohannesmoeller | [Read More](https://medium.com/p/80b368d1ac04) |
+| Sat, 04 Apr 2026 20:46:06 GMT | The Evolution of the “Impossible” | R. F. Dace ♘ | [Read More](https://medium.com/p/d4eb670ee213) |
+| Sat, 04 Apr 2026 20:45:59 GMT | Linux Kernel SIP Parsing Bugs Are Sometimes Just Integer Bugs in Disguise | Lukasjohannesmoeller | [Read More](https://medium.com/p/951c12fd5a05) |
+| Sat, 04 Apr 2026 20:39:00 GMT | Protecting Critical Infrastructure in the Age of Cyber Warfare | Omer Akin | [Read More](https://medium.com/p/6984f5376164) |
 | Sat, 04 Apr 2026 20:28:45 GMT | Integrating gRPC with Mendix | Gurumoorthy J | [Read More](https://medium.com/p/90a276af5758) |
 | Sat, 04 Apr 2026 20:21:22 GMT | Disclose Facebook Private Groups Appealed Content | Mustafa | [Read More](https://medium.com/p/a37231d9bb72) |
 | Sat, 04 Apr 2026 20:21:17 GMT | Cisco Just Patched a 9.8/10 Severity Flaw That Let Hackers Take Over Servers Without a Password | Decoding Daily Tech News | [Read More](https://medium.com/p/7603b0d49271) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 13:31:01 GMT | Modern Ransomware Doesn’t Start With Encryption — It Starts by Killing Your EDR | Faris Afdhil Fawwaz | [Read More](https://medium.com/p/f4575f108da5) |
 | Sat, 04 Apr 2026 13:16:07 GMT | ReactOOPs Challenge Write-Up — React2Shell (CVE-2025–55182) | hicham outagra | [Read More](https://medium.com/p/6113cdb88c38) |
 | Sat, 04 Apr 2026 13:14:38 GMT | Conquering the Buffer: Journey into Memory Vulnerabilities | Telman Hajibutayev | [Read More](https://medium.com/p/21d3aad529a8) |
-| Sat, 04 Apr 2026 13:13:00 GMT | PicoCTF : bytemancy 0 | Utsav Thakur | [Read More](https://medium.com/p/2a894d56b3fc) |
-| Sat, 04 Apr 2026 13:11:29 GMT | Pan India Cybersecurity Services by Solve the Network — Protect Your Business 24x7 | Tushar M Kumawat | [Read More](https://medium.com/p/7123489f708a) |
-| Sat, 04 Apr 2026 13:01:01 GMT | Why Hackers Target You (Even If You’re “Nobody”) | Renzo | [Read More](https://medium.com/p/9e27ac80c8f5) |
-| Sat, 04 Apr 2026 13:01:01 GMT | [The Dark Knight] Survival Logic of Transcending Systemic “Bugs” | MonoEssay | [Read More](https://medium.com/p/5d7c4ec9fdad) |
-| Sat, 04 Apr 2026 12:59:02 GMT | I Watched a $25 Million Deepfake Heist — Why 2026 Phishing Is Your New Reality | Cyber-X Protocol | [Read More](https://medium.com/p/301e261506bb) |
-| Sat, 04 Apr 2026 12:49:08 GMT | Cyber Security Solutions for Businesses in 2026: Protect Your Data, Protect Your Future | Ethicalsolution | [Read More](https://medium.com/p/8e890259fdd2) |
-| Sat, 04 Apr 2026 12:47:17 GMT | How Hackers Are Using AI in 2025 — And How to Protect Yourself | Dereje Deressa | [Read More](https://medium.com/p/7864c30410ee) |
-| Sat, 04 Apr 2026 12:45:49 GMT | Anthropic Just Leaked Its Own Code — Here Is What Actually Happened | Plain Logic | [Read More](https://medium.com/p/0ce2b544b86a) |
