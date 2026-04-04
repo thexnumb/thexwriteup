@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 23:33:05 GMT | The Great Home Network War: A Certified Network Engineer vs. One Cheeky Boy ⚔️ | Karlsen Park | [Read More](https://medium.com/p/10bad1e75596) |
+| Sat, 04 Apr 2026 23:05:31 GMT | If you need secure your ssh server then use onuion-sshd AI Agent. | Nihaddev | [Read More](https://medium.com/p/07c4d306174a) |
+| Sat, 04 Apr 2026 23:02:22 GMT | CVE-2023–40582 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/8188b631f010) |
+| Sat, 04 Apr 2026 23:01:01 GMT | 2020 SolarWinds Turned Artifact Lineage Into a Customer-Facing Delay | James Kuhman | [Read More](https://medium.com/p/6484ffd705c4) |
+| Sat, 04 Apr 2026 22:49:43 GMT | TryHackMe LazyAdmin Walkthrough: Step-by-Step Writeup | 5um1t0x | [Read More](https://medium.com/p/9c213eb66f08) |
+| Sat, 04 Apr 2026 22:46:16 GMT | Novčanik (Wallet) | Beşir Alkaya | [Read More](https://medium.com/p/45a7ccaf7284) |
+| Sat, 04 Apr 2026 22:45:19 GMT | Everything You Think You Know About 
+Tech Privacy Is Wrong | 0x88CK | [Read More](https://medium.com/p/23aaf0c9b2e7) |
+| Sat, 04 Apr 2026 22:42:21 GMT | Critical Cybersecurity and DevOps News Updates - 2026.04.04 - April 4th, 2026 | MrComputerScience | [Read More](https://medium.com/p/8b47b22bbe1c) |
+| Sat, 04 Apr 2026 22:41:14 GMT | North Korea Just Backdoored the Axios npm Package in 80% of Your Projects | Tech Trends by Tähīr | [Read More](https://medium.com/p/950e7785687e) |
+| Sat, 04 Apr 2026 22:39:36 GMT | You Can’t Build Intimacy If You Won’t Let Anyone Support You | Sophy Chunge | [Read More](https://medium.com/p/3ab52a6de6a2) |
 | Sat, 04 Apr 2026 22:23:06 GMT | DOUBLE HOP | Roberto Oliveira | [Read More](https://medium.com/p/7ad148930778) |
+| Sat, 04 Apr 2026 22:21:37 GMT | The Overlooked Clue in the Axios npm Supply Chain Attack | Mark Parry | [Read More](https://medium.com/p/c5db1f1117a5) |
 | Sat, 04 Apr 2026 22:14:15 GMT | TryHackMe Attacktive Directory Writeup (Step-by-Step Deep Dive) | Mohammed Umeruddin | [Read More](https://medium.com/p/8417412eb878) |
 | Sat, 04 Apr 2026 22:04:14 GMT | Supply Chain Security - SANS CyberThreat Summit 2025 | Meera Tamboli | [Read More](https://medium.com/p/2fc153635d96) |
 | Sat, 04 Apr 2026 22:01:43 GMT | ️ Beyond the Visual: The Technical Reality of Homoglyph Attacks | Tooba Siddiqui | [Read More](https://medium.com/p/0c5040c64ba6) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 14:15:35 GMT | They Already Have Your Password. Now They’re Spamming Your Phone Until You Break. | scofield lori | [Read More](https://medium.com/p/75704d95a466) |
 | Sat, 04 Apr 2026 14:14:33 GMT | Your AI Agent Has Read Your Secrets. Here’s How to Stop It From Exposing Them | Jayanth Sattineni | [Read More](https://medium.com/p/a45d96e278fa) |
 | Sat, 04 Apr 2026 14:07:30 GMT | Strategic Industrial Cyber Warfare Analysis — Briefing 10 / Series Final | Muhammad Ali Khan | [Read More](https://medium.com/p/f95e8f7eec65) |
-| Sat, 04 Apr 2026 14:07:23 GMT | Spring AI: CVE-2026-22738 (THM) Tryhackme WriteUp All Answer | Lawvye | [Read More](https://medium.com/p/0ba1d92380fd) |
-| Sat, 04 Apr 2026 14:04:38 GMT | M&A Is Where Security Breaks: How to Survive Integration Without Getting Breached | Iacopo Boaron Otero | [Read More](https://medium.com/p/8ae85379d064) |
-| Sat, 04 Apr 2026 14:03:16 GMT | Conversor [H.T.B] machine Writeup : | Amrou bekhedda | [Read More](https://medium.com/p/0026ef3ddf8d) |
-| Sat, 04 Apr 2026 13:58:40 GMT | Predicting the Unpredictable: The Rise of Proactive, AI-Powered Security Ecosystems | Abhijit Freelancepreneur | [Read More](https://medium.com/p/3c1f255c8af0) |
-| Sat, 04 Apr 2026 13:51:15 GMT | Secure Facebook & Social Apps in 5 Minutes | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/ed442f8c1a4e) |
-| Sat, 04 Apr 2026 13:50:03 GMT | Security should not be an afterthought in Web3. It should be part of the protocol itself. | NanoChain | [Read More](https://medium.com/p/4faf531df6d8) |
-| Sat, 04 Apr 2026 13:45:09 GMT | Growing Fast Is Exciting. It’s Also When Most Businesses Get Hacked. | AnantNetra Technologies | [Read More](https://medium.com/p/d3f416be3df4) |
-| Sat, 04 Apr 2026 13:43:50 GMT | The Silent Threat: Understanding Buffer Overflow Attacks | Elmir | [Read More](https://medium.com/p/a650a829ddec) |
-| Sat, 04 Apr 2026 13:43:08 GMT | Claude Cowork: Memory Poisoning Changes Everything | Mihailo Zoin | [Read More](https://medium.com/p/860aac21614c) |
-| Sat, 04 Apr 2026 13:42:48 GMT | The Hospital Is the New Battlefield | Travis Ray Caverhill | [Read More](https://medium.com/p/235899b4f853) |
-| Sat, 04 Apr 2026 13:38:10 GMT | PicoCTF : bytemancy 1 | Utsav Thakur | [Read More](https://medium.com/p/e021eb3b55db) |
