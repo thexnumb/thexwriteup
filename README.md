@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 02:06:06 GMT | What Happens to Your Data After You Delete It? | Atharv Ambade | [Read More](https://medium.com/p/49da43320cc1) |
+| Sat, 04 Apr 2026 02:04:02 GMT | SSRF Unleashed: Accessing the Unreachable via Local Server Attacks | Ayeshaaghafoor | [Read More](https://medium.com/p/7c71c1178a53) |
+| Sat, 04 Apr 2026 02:03:15 GMT | The Silent Killer: Bypassing Extension Validation with Null Bytes | Ayeshaaghafoor | [Read More](https://medium.com/p/75b50f7bc322) |
+| Sat, 04 Apr 2026 02:01:01 GMT | Boardroom Strategy: Cybersecurity in Corporate Governance | Anilesh Mukherjee | [Read More](https://medium.com/p/e9b6de8b0f12) |
+| Sat, 04 Apr 2026 01:57:50 GMT | Software Supply Chain Security After Axios | Jeremy longshore | [Read More](https://medium.com/p/d5095666a54f) |
+| Sat, 04 Apr 2026 01:56:17 GMT | Building Your Own Attack Surface Monitoring Script (Python) | Paritosh | [Read More](https://medium.com/p/b7e5a3a88114) |
+| Sat, 04 Apr 2026 01:44:48 GMT | Can AI Replace SOC Analysts? The Truth About Automation in Cybersecurity | Dipan | [Read More](https://medium.com/p/9cbe966803aa) |
+| Sat, 04 Apr 2026 01:44:44 GMT | Securing Tomorrow’s Digital World: My Journey with Tosinkuzzy Secure IT Services | Adeleye Ayomide Tosin | [Read More](https://medium.com/p/9abe76ff0394) |
+| Sat, 04 Apr 2026 01:38:45 GMT | HTB Season 10 — Facts Walkthrough | Jesse Ridley | [Read More](https://medium.com/p/8f25da5d7c47) |
+| Sat, 04 Apr 2026 01:33:40 GMT | You Can Type the Right Website… and Still Get Hacked | Adwait Joshi | [Read More](https://medium.com/p/b833558d8342) |
+| Sat, 04 Apr 2026 01:01:01 GMT | [Blade Runner] Sovereign Struggle to Reclaim Primary Memory | MonoEssay | [Read More](https://medium.com/p/0ac96969cebd) |
+| Sat, 04 Apr 2026 00:53:46 GMT | Why Digital Transformation Fails Without Operational Clarity. | Sunny Okonkwo | [Read More](https://medium.com/p/b3e4ba70014b) |
+| Sat, 04 Apr 2026 00:48:24 GMT | What Cyber Insurance Underwriters Already Know About Your Organization — — And What You Should Do… | Oluwagbenga Ogungbemi | [Read More](https://medium.com/p/7d42030923db) |
+| Sat, 04 Apr 2026 00:44:42 GMT | File and Directory Operations | Aj | [Read More](https://medium.com/p/05e529cfaddd) |
+| Sat, 04 Apr 2026 00:26:33 GMT | SSH Brute-Force Attacks Explained (Hydra & Patator) — What to Test & How to Defend | ghostyjoe | [Read More](https://medium.com/p/294f4c71a4de) |
+| Sat, 04 Apr 2026 00:20:31 GMT | SQL Injection UNION Attack: Retrieving Multiple Values in a Single Column | Mohamed Ahmed | [Read More](https://medium.com/p/fb67cebc9e68) |
 | Fri, 03 Apr 2026 23:30:20 GMT | Security Advisory: QuickLaunch SSO Platform — Unauthenticated Customer Information Disclosure… | Tyreek Haynes | [Read More](https://medium.com/p/1b7c8720ce53) |
 | Fri, 03 Apr 2026 23:11:31 GMT | POS, ERP, Automation, and Web Apps: Understanding Overlap and Choosing the Right Solution | Charunya Dissanayake | [Read More](https://medium.com/p/2f57d47f28eb) |
 | Fri, 03 Apr 2026 23:07:55 GMT | Midnight Terror: How Bandits Abducted 9 People in Sokoto | GazillionNews | [Read More](https://medium.com/p/bcea96e4ff08) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 14:37:04 GMT | Browsed — HackTheBox Writeup | 0xStxrless | [Read More](https://medium.com/p/9c01476e4228) |
 | Fri, 03 Apr 2026 14:35:08 GMT | Weekly Cyber Threat Bulletin: 26 March 2026 | Marcelle Lee | [Read More](https://medium.com/p/ae388c5c0d7e) |
 | Fri, 03 Apr 2026 14:34:43 GMT | How 1 Missing Line of Code Cost Anthropic $340 Billion | Syed Ahmer Shah | [Read More](https://medium.com/p/074db31fae55) |
-| Fri, 03 Apr 2026 14:33:45 GMT | I Analyzed 4.5 | Alex Chicilo | [Read More](https://medium.com/p/a05211bb7225) |
-| Fri, 03 Apr 2026 14:31:58 GMT | Weekly Cyber Threat Bulletin: 2 April 2026 | Marcelle Lee | [Read More](https://medium.com/p/b8911a6f1023) |
-| Fri, 03 Apr 2026 14:29:54 GMT | The War on Synthetic Identity Started and Denmark Fired First | Len Noe | [Read More](https://medium.com/p/4c9fbfbff630) |
-| Fri, 03 Apr 2026 14:29:16 GMT | Windows Artefact Analizi: Sistem Üzerinde Bırakılan İzlerin İncelenmesi | Meliksah Bayrak | [Read More](https://medium.com/p/668bc821d922) |
-| Fri, 03 Apr 2026 14:28:04 GMT | AI Is Compressing Cyberattacks — Most Teams Aren’t Built for the Speed | Shawn Singleton, II | [Read More](https://medium.com/p/a64f46c7615e) |
-| Fri, 03 Apr 2026 14:25:49 GMT | The $100 Billion Parlor Trick | Hezha Veisi | [Read More](https://medium.com/p/dfa8ebda58b3) |
-| Fri, 03 Apr 2026 14:20:54 GMT | Buffer Overflows: Memory Safety | madsl0w | [Read More](https://medium.com/p/18d4e8ba985c) |
-| Fri, 03 Apr 2026 14:19:27 GMT | DKIM Is Byte-Exact: A Header Folding Edge Case That Breaks Trust | Rakesh Goswami | [Read More](https://medium.com/p/b1b51c1f5a26) |
-| Fri, 03 Apr 2026 14:13:22 GMT | AI vs AI: ২০২৬ সালে সাইবার যুদ্ধের নতুন রূপ | Root Death Shell | [Read More](https://medium.com/p/390a8a86656d) |
-| Fri, 03 Apr 2026 14:11:52 GMT | I Didn’t Wake Up, I Simply Surrendered to the Day | Hugo Pan | [Read More](https://medium.com/p/ec93b970dcce) |
-| Fri, 03 Apr 2026 14:03:24 GMT | How to Choose the Right Graphics Card in 2025: A Practical Buyer’s Guide | Tech Godzilla | [Read More](https://medium.com/p/a6d6b5307e4c) |
-| Fri, 03 Apr 2026 13:56:02 GMT | Russia Sent A Tanker To Cuba. | The Analyst Umar. | [Read More](https://medium.com/p/3d3b9b98a86f) |
-| Fri, 03 Apr 2026 13:54:30 GMT | Week 3 — DevSecOps, API Documentation, and Why Security is Everyone’s Problem | Adesanya Adebowale | [Read More](https://medium.com/p/dc5f8140a9f9) |
-| Fri, 03 Apr 2026 13:44:16 GMT | Is JWT really Dead?? | Nikhil Kshirsagar | [Read More](https://medium.com/p/bf4dc1fe6f21) |
-| Fri, 03 Apr 2026 13:43:49 GMT | picoCTF North-South Writeup | Mysterior | [Read More](https://medium.com/p/ac46f01ef0f6) |
-| Fri, 03 Apr 2026 13:43:39 GMT | Our Journey in Search of Digital Security | Root Death Shell | [Read More](https://medium.com/p/af69f7532b9e) |
