@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 06:52:10 GMT | Dark Web Hunting & Monitoring: A Practical Guide for Pentesters & Red Teamers — Part 5 | Siva Sankar | [Read More](https://medium.com/p/2c367000b7d0) |
+| Sat, 04 Apr 2026 06:51:37 GMT | The Cryptic Ledger: What a CTF Challenge Taught Me About Hashing | Kunal Kejriwal | [Read More](https://medium.com/p/5276eabc0608) |
+| Sat, 04 Apr 2026 06:50:06 GMT | How Much Data Can You Lose? Calculating Asset Risk Post-VAPT | Cynox Security LLP. | [Read More](https://medium.com/p/36cd41245318) |
+| Sat, 04 Apr 2026 06:41:47 GMT | From Zero to eJPT: My Honest Experience, Lessons Learned & What Nobody Tells You | Amitishacked | [Read More](https://medium.com/p/3149a75cba99) |
+| Sat, 04 Apr 2026 06:38:07 GMT | Fear is a signal in security | Anton Minin Baranovskii | [Read More](https://medium.com/p/a178310ffec8) |
+| Sat, 04 Apr 2026 06:33:39 GMT | Authentication Vulnerabilities Lab 03 | Mohammed Fahad | [Read More](https://medium.com/p/0548bde2e65e) |
+| Sat, 04 Apr 2026 06:33:03 GMT | Stop Wasting Time on Scanners — This Is How Real Hackers Find Vulnerabilities | 0xAbhiSec | [Read More](https://medium.com/p/3ace6b7d9062) |
+| Sat, 04 Apr 2026 06:32:31 GMT | Cyber Commando CTF-Write-up | Tanishkshrivastava | [Read More](https://medium.com/p/0272110c6326) |
+| Sat, 04 Apr 2026 06:30:58 GMT | AI in Cybersecurity (2026): How to Stay Relevant, Get Hired, and Survive the Next Wave | pavani | [Read More](https://medium.com/p/15f833c50422) |
+| Sat, 04 Apr 2026 06:29:08 GMT | Introduction to DHI | Daniel Pepuho | [Read More](https://medium.com/p/0213b33fe8f1) |
+| Sat, 04 Apr 2026 06:12:21 GMT | AI vs. AI: Why Humans Still Control the Battlefield | Vijay Kumar Gupta | [Read More](https://medium.com/p/6753d5c5adc7) |
+| Sat, 04 Apr 2026 05:50:50 GMT | WHY MOST RECON IS USELESS | Lazyhackerbd | [Read More](https://medium.com/p/44365c4ad6e3) |
+| Sat, 04 Apr 2026 05:49:24 GMT | Why You’re Failing IT Certification Exams (And It’s Not Because You Didn’t Study Enough) | Certlabz | [Read More](https://medium.com/p/b5b80d170efd) |
+| Sat, 04 Apr 2026 05:35:52 GMT | The Illusion of Accuracy: Risks Lurking in Salesforce Pipelines | Yatin Kalra | [Read More](https://medium.com/p/f286da071bbd) |
 | Sat, 04 Apr 2026 05:31:01 GMT | Shodan + Censys Internet Ka X-Ray: Bina Scan Kiye Sab Kuch Dekho! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/becb216523f9) |
 | Sat, 04 Apr 2026 05:16:03 GMT | Windows — LDAP User Kerberoastable (Root-Me) Write-up | csm24 | [Read More](https://medium.com/p/1abe591ba584) |
 | Sat, 04 Apr 2026 05:10:08 GMT | Bandit Level 0 → 1: Your First Step into Cybersecurity | Salahamaralhmady | [Read More](https://medium.com/p/537a9ba432b8) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 18:09:42 GMT | MY GIT — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/52beb242b3b2) |
 | Fri, 03 Apr 2026 18:06:05 GMT | Smoke and Mirrors | Moe Magic | [Read More](https://medium.com/p/d308babed7cb) |
 | Fri, 03 Apr 2026 18:04:06 GMT | Address Poisoning: The New Frontier of Inattention-Based Theft | CryptDocker | [Read More](https://medium.com/p/da304be36e7a) |
-| Fri, 03 Apr 2026 17:55:34 GMT | HackTools++ : How to Use the Captured Requests Feature (Like BurpSuite, Inside Your Browser) | Priyanshi Pawar | [Read More](https://medium.com/p/51935c0c70f8) |
-| Fri, 03 Apr 2026 17:31:09 GMT | The Real Security Surface: Why AI Internals Matter More Than Outputs | Anindya Mishra | [Read More](https://medium.com/p/7a35c766e202) |
-| Fri, 03 Apr 2026 17:25:10 GMT | Driving Innovation with idca and alternative energy sources | International Data Center Authority | [Read More](https://medium.com/p/f1d2b81cfda1) |
-| Fri, 03 Apr 2026 17:22:27 GMT | Attack Surface to Exploitation: A Practical Web App Pentest Walkthrough | Tyreek Haynes | [Read More](https://medium.com/p/0ace0948a24b) |
-| Fri, 03 Apr 2026 17:16:46 GMT | I Bypassed a Company Login Without Knowing Any Password — My First SQL Injection Story | Blessing | [Read More](https://medium.com/p/a33fec18e480) |
-| Fri, 03 Apr 2026 17:05:35 GMT | How to Choose the Best Cloud Hosting for Higher Education in 2026 | Concourse Hosting | [Read More](https://medium.com/p/09aa8ee4144f) |
-| Fri, 03 Apr 2026 17:02:08 GMT | AI Security Just Got Real | Jason Hishmeh | [Read More](https://medium.com/p/d1885e8da624) |
-| Fri, 03 Apr 2026 16:59:03 GMT | Day 6: The Incident Response Lifecycle — Architecting Enterprise Resilience Under Fire | Ndu | [Read More](https://medium.com/p/461d2c2bd380) |
-| Fri, 03 Apr 2026 16:55:38 GMT | APNs Token Registration Issues on iOS A Complete Debugging Journey | Obioma Godswill Michael | [Read More](https://medium.com/p/ca23c26b36fa) |
-| Fri, 03 Apr 2026 16:42:02 GMT | Identity Defense is Broken-Rainbow Secure Is Redefining It | Dr. Shashi Karhail | [Read More](https://medium.com/p/fa8105d67862) |
-| Fri, 03 Apr 2026 16:41:54 GMT | The VPN Myth: Why Most People Don’t Need One Anymore | Mithrais | [Read More](https://medium.com/p/d48723938795) |
-| Fri, 03 Apr 2026 16:41:52 GMT | IP-Vortex Deep Dive - IP Rotation & Anonymity for Cybersecurity | Pentester Club | [Read More](https://medium.com/p/836b34487ebb) |
-| Fri, 03 Apr 2026 16:28:52 GMT | The Bugs No Scanner Will Ever Find | Burak Tülüceoğlu | [Read More](https://medium.com/p/5f7fb93d270b) |
-| Fri, 03 Apr 2026 16:24:42 GMT | How to Generate a Strong Password Online for Free (Nothing Saved, Nothing Sent) | Shaishavap | [Read More](https://medium.com/p/d37847033579) |
