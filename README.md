@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 14:42:36 GMT | Smag Grotto — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/50e8947b1d5f) |
+| Sat, 04 Apr 2026 14:36:39 GMT | June 2026: The Secure Boot Problem Nobody Wants on Their Calendar | Travis Ray Caverhill | [Read More](https://medium.com/p/2c527eb03e2b) |
+| Sat, 04 Apr 2026 14:34:23 GMT | When Protection Becomes Necessary: Documenting Escalation, Safety Concerns, and Standing My Ground | Esther Ijewere | [Read More](https://medium.com/p/e5730a03b867) |
+| Sat, 04 Apr 2026 14:32:32 GMT | The 2029 Deadline: Google’s Quantum Leap and the End of Bitcoin as We Know It | Tuğrul Gedikli | [Read More](https://medium.com/p/84d91140c61f) |
+| Sat, 04 Apr 2026 14:29:21 GMT | BUG BOUNTY from Zero To Hero! All secrects finally revealed !! @lazyhackerbd | Lazyhackerbd | [Read More](https://medium.com/p/d3be5f754a4a) |
+| Sat, 04 Apr 2026 14:21:01 GMT | Why LLMs Hallucinate Vulnerabilities Part Two: Evolution of AI Red Teaming | Aadith Sukumar | [Read More](https://medium.com/p/8ee8d63c57c9) |
+| Sat, 04 Apr 2026 14:19:07 GMT | When Attackers Use AI Better Than Developers | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/9f049f2dfcb2) |
+| Sat, 04 Apr 2026 14:16:43 GMT | Agentic AI- Lessons and takeaways from the litellm attacks | AKLI ILIAS | [Read More](https://medium.com/p/affe623d0255) |
+| Sat, 04 Apr 2026 14:15:35 GMT | They Already Have Your Password. Now They’re Spamming Your Phone Until You Break. | scofield lori | [Read More](https://medium.com/p/75704d95a466) |
+| Sat, 04 Apr 2026 14:14:33 GMT | Your AI Agent Has Read Your Secrets. Here’s How to Stop It From Exposing Them | Jayanth Sattineni | [Read More](https://medium.com/p/a45d96e278fa) |
+| Sat, 04 Apr 2026 14:07:30 GMT | Strategic Industrial Cyber Warfare Analysis — Briefing 10 / Series Final | Muhammad Ali Khan | [Read More](https://medium.com/p/f95e8f7eec65) |
+| Sat, 04 Apr 2026 14:07:23 GMT | Spring AI: CVE-2026-22738 (THM) Tryhackme WriteUp All Answer | Lawvye | [Read More](https://medium.com/p/0ba1d92380fd) |
+| Sat, 04 Apr 2026 14:04:38 GMT | M&A Is Where Security Breaks: How to Survive Integration Without Getting Breached | Iacopo Boaron Otero | [Read More](https://medium.com/p/8ae85379d064) |
 | Sat, 04 Apr 2026 14:03:16 GMT | Conversor [H.T.B] machine Writeup : | Amrou bekhedda | [Read More](https://medium.com/p/0026ef3ddf8d) |
 | Sat, 04 Apr 2026 13:58:40 GMT | Predicting the Unpredictable: The Rise of Proactive, AI-Powered Security Ecosystems | Abhijit Freelancepreneur | [Read More](https://medium.com/p/3c1f255c8af0) |
 | Sat, 04 Apr 2026 13:51:15 GMT | Secure Facebook & Social Apps in 5 Minutes | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/ed442f8c1a4e) |
@@ -28,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 13:16:07 GMT | ReactOOPs Challenge Write-Up — React2Shell (CVE-2025–55182) | hicham outagra | [Read More](https://medium.com/p/6113cdb88c38) |
 | Sat, 04 Apr 2026 13:14:38 GMT | Conquering the Buffer: Journey into Memory Vulnerabilities | Telman Hajibutayev | [Read More](https://medium.com/p/21d3aad529a8) |
 | Sat, 04 Apr 2026 13:13:00 GMT | PicoCTF : bytemancy 0 | Utsav Thakur | [Read More](https://medium.com/p/2a894d56b3fc) |
+| Sat, 04 Apr 2026 13:11:29 GMT | Pan India Cybersecurity Services by Solve the Network — Protect Your Business 24x7 | Tushar M Kumawat | [Read More](https://medium.com/p/7123489f708a) |
 | Sat, 04 Apr 2026 13:01:01 GMT | Why Hackers Target You (Even If You’re “Nobody”) | Renzo | [Read More](https://medium.com/p/9e27ac80c8f5) |
 | Sat, 04 Apr 2026 13:01:01 GMT | [The Dark Knight] Survival Logic of Transcending Systemic “Bugs” | MonoEssay | [Read More](https://medium.com/p/5d7c4ec9fdad) |
 | Sat, 04 Apr 2026 12:59:02 GMT | I Watched a $25 Million Deepfake Heist — Why 2026 Phishing Is Your New Reality | Cyber-X Protocol | [Read More](https://medium.com/p/301e261506bb) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 09:10:35 GMT | We’ve messed up, a lot. Here’s Why Scribble Still Exists to celebrate it’s 2nd Birthday | Tanmaytarte | [Read More](https://medium.com/p/e413340def89) |
 | Sat, 04 Apr 2026 09:09:33 GMT | Payment Security in 2026: What Businesses Must Know | Sharda | [Read More](https://medium.com/p/c7e7c0a27322) |
 | Sat, 04 Apr 2026 09:04:07 GMT | We Skipped the $50K Firewall. Here’s What We Built Instead. | CloudConsultant.services | [Read More](https://medium.com/p/186554da49a5) |
-| Sat, 04 Apr 2026 09:01:01 GMT | The one clause in ISO 27001 that everyone skips — but auditors never do. | Gaurav Shukla | [Read More](https://medium.com/p/843e23b6b02e) |
-| Sat, 04 Apr 2026 08:45:32 GMT | Dijital Esaretin Anatomisi: Modern Savaşlarda Teknoloji Bağımlılığı, İstihbarat Ortaklıkları ve… | Fatih Yuksektepe | [Read More](https://medium.com/p/3632a18c6f5e) |
-| Sat, 04 Apr 2026 08:44:59 GMT | PortSwigger Lab : Unprotected Admin Functionality | Olina Kundu | [Read More](https://medium.com/p/e123fc512fe9) |
-| Sat, 04 Apr 2026 08:43:20 GMT | PortSwigger: CSRF Labs (part 1) | Abdelhamid Elbouz | [Read More](https://medium.com/p/53cff3f7ea8a) |
-| Sat, 04 Apr 2026 08:36:01 GMT | When AI Takes Your Mouse: A Safety Playbook for Claude Computer Use and Perplexity Personal… | Ravi | [Read More](https://medium.com/p/d22109d3ae1a) |
-| Sat, 04 Apr 2026 08:31:01 GMT | Visualizing Threats: Using Dynamic Dashboards in SIEM | Joanorifha | [Read More](https://medium.com/p/5b2a61c3157f) |
-| Sat, 04 Apr 2026 08:31:01 GMT | Why most cybersecurity resumes fail (and how to fix yours step-by-step) | Manubhav Sharma | [Read More](https://medium.com/p/d331f6237044) |
-| Sat, 04 Apr 2026 08:18:15 GMT | The Future of Threat Hunting: When AI Becomes Your Hunting Partner | Somesh | [Read More](https://medium.com/p/f9745265db58) |
-| Sat, 04 Apr 2026 08:16:36 GMT | Why Standard HTTP Libraries Are Dead for Web Scraping (And How to Fix It) | nikhil bajaj | [Read More](https://medium.com/p/48fd559b4aa2) |
-| Sat, 04 Apr 2026 08:14:51 GMT | Fake Links, Real Danger Stay Safe as a Freelancer or Online Earner | Mr How | [Read More](https://medium.com/p/170a9fa4f449) |
-| Sat, 04 Apr 2026 08:13:07 GMT | DVWA: File Upload Vulnerability (Low Security) | Kamal S | [Read More](https://medium.com/p/a8601593e552) |
-| Sat, 04 Apr 2026 08:11:01 GMT | Lockdown Mode: Engineering a Near-Zero Attack Surface on iOS | Samyakgoel | [Read More](https://medium.com/p/c4a277d3be80) |
-| Sat, 04 Apr 2026 08:10:11 GMT | How to Know If Your Phone Has Been Hacked in 2026 + What to Do Next | Doossal | [Read More](https://medium.com/p/38de66e697d4) |
-| Sat, 04 Apr 2026 08:07:30 GMT | It Took Fifteen Years and a War | tara rogers-ellis | [Read More](https://medium.com/p/eacf92e6fad7) |
