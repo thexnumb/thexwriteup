@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 15:25:29 GMT | We Are All Desperate to Be Loved and Terrified to Be Known. And We Call That Intimacy | Nokwanda Biyela | [Read More](https://medium.com/p/f53cb8352952) |
+| Sat, 04 Apr 2026 15:23:02 GMT | TryHackMe SOC Analyst Road Map Part-18 | safa kaya | [Read More](https://medium.com/p/cc260e1e9e7b) |
+| Sat, 04 Apr 2026 15:14:13 GMT | Leaking Secrets Through Error Messages: Exploiting a Verbose API Debug Response | OopsSec Store | [Read More](https://medium.com/p/872ab9df7458) |
+| Sat, 04 Apr 2026 15:09:50 GMT | SOC Investigation Report: Windows Endpoint Breach Leading to Remote Shell Access and Data… | chicorax | [Read More](https://medium.com/p/e09bf23ac2cb) |
+| Sat, 04 Apr 2026 15:09:38 GMT | Understanding Buffer Overflows: From Fundamentals to Real-World Impact | Ayxan Amirov | [Read More](https://medium.com/p/4e720b189e91) |
+| Sat, 04 Apr 2026 15:03:08 GMT | Anthropic confirma haber filtrado accidentalmente el código fuente de Claude Code | Tiziano Mass | [Read More](https://medium.com/p/5c5929e62554) |
+| Sat, 04 Apr 2026 15:01:01 GMT | Internet Story #2 — From the BBS’ to Internet | 'Wine' Roland Mucciarelli | [Read More](https://medium.com/p/5598eff70df5) |
+| Sat, 04 Apr 2026 15:00:21 GMT | Top 10 Google Dorks for Bug Bounty (Beginner to Pro Guide) | Riya Limba | [Read More](https://medium.com/p/35678b3d0524) |
+| Sat, 04 Apr 2026 14:49:51 GMT | How the axios supply chain attack worked — and how OS-level sandboxing stops it | Claudexlabs | [Read More](https://medium.com/p/dc6c3110d36b) |
+| Sat, 04 Apr 2026 14:45:24 GMT | The Anatomy of a Romance Scam: How Trust Becomes a Weapon | Ana Dolores | [Read More](https://medium.com/p/a18450d1ceb3) |
 | Sat, 04 Apr 2026 14:42:36 GMT | Smag Grotto — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/50e8947b1d5f) |
 | Sat, 04 Apr 2026 14:36:39 GMT | June 2026: The Secure Boot Problem Nobody Wants on Their Calendar | Travis Ray Caverhill | [Read More](https://medium.com/p/2c527eb03e2b) |
 | Sat, 04 Apr 2026 14:34:23 GMT | When Protection Becomes Necessary: Documenting Escalation, Safety Concerns, and Standing My Ground | Esther Ijewere | [Read More](https://medium.com/p/e5730a03b867) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 09:46:01 GMT | Insider Lab - CyberDefenders Writeup | Solvenite | [Read More](https://medium.com/p/6e9126695806) |
 | Sat, 04 Apr 2026 09:40:13 GMT | From Passenger to CEO in One API Call: The Magic of Broken Access Control | YusriAhamed | [Read More](https://medium.com/p/dbb9acf1dcdb) |
 | Sat, 04 Apr 2026 09:38:32 GMT | CVE-2024–25180 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/76a277467e77) |
-| Sat, 04 Apr 2026 09:35:32 GMT | PortSwigger Lab: Unprotected admin functionality with unpredictable URL | Olina Kundu | [Read More](https://medium.com/p/0fa0b5648c61) |
-| Sat, 04 Apr 2026 09:31:01 GMT | The VPN You’re Using on Public WiFi Might Be Giving You a False Sense of Security | Ed O. - TechEd Shield - TechEd Publishers | [Read More](https://medium.com/p/6ae8e07f5d41) |
-| Sat, 04 Apr 2026 09:26:34 GMT | How Behavioral Biometrics Catches Lead Fraud (Complete Guide to Lead Verification) | Argus101 | [Read More](https://medium.com/p/5c8fd3b6b116) |
-| Sat, 04 Apr 2026 09:24:43 GMT | Turning Vision into Reality: Delivering Urbaneigh’s E-Commerce Experience | A2Solution | [Read More](https://medium.com/p/2ce7346a2ee5) |
-| Sat, 04 Apr 2026 09:15:42 GMT | Slopsquatting, Typosquatting, and the New Software Supply Chain Attacks: How AI and Vibe Coding Are… | Sébastien Dubois | [Read More](https://medium.com/p/27aaa46e7ab1) |
-| Sat, 04 Apr 2026 09:13:48 GMT | Five Persistent Cybersecurity Gaps in Mobile Networks | Josue Martins | [Read More](https://medium.com/p/bf04b7c3cc15) |
-| Sat, 04 Apr 2026 09:11:24 GMT | I Audited 50 Websites. Nearly Half Were Silently Broken. | Nicky Christensen | [Read More](https://medium.com/p/ac5d434796b9) |
-| Sat, 04 Apr 2026 09:10:35 GMT | We’ve messed up, a lot. Here’s Why Scribble Still Exists to celebrate it’s 2nd Birthday | Tanmaytarte | [Read More](https://medium.com/p/e413340def89) |
-| Sat, 04 Apr 2026 09:09:33 GMT | Payment Security in 2026: What Businesses Must Know | Sharda | [Read More](https://medium.com/p/c7e7c0a27322) |
-| Sat, 04 Apr 2026 09:04:07 GMT | We Skipped the $50K Firewall. Here’s What We Built Instead. | CloudConsultant.services | [Read More](https://medium.com/p/186554da49a5) |
