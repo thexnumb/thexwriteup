@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 09:54:43 GMT | eJPT Assessment Methodologies: Enumeration CTF 1 Walk Through | gauravgrox | [Read More](https://medium.com/p/962e06510dd6) |
+| Sat, 04 Apr 2026 09:51:44 GMT | Cooctus-Stories TryHackMe Walkthrough - by Yoel Yosief | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/30a63b9786ff) |
+| Sat, 04 Apr 2026 09:51:36 GMT | CTF Writeup · Digital CyberHunt 2026 — My 9th Place Writeup | PIYUSH DHARIWAL | [Read More](https://medium.com/p/089aca17ce02) |
+| Sat, 04 Apr 2026 09:50:57 GMT | AI Governance Framework for Enterprises in 2026 | Imran Hashmi | [Read More](https://medium.com/p/90fcea90e65e) |
+| Sat, 04 Apr 2026 09:46:01 GMT | A Cybersecurity Strategy Should Help the Business Move Faster | Tyson Martin | [Read More](https://medium.com/p/ed0571994dac) |
+| Sat, 04 Apr 2026 09:46:01 GMT | Insider Lab - CyberDefenders Writeup | Solvenite | [Read More](https://medium.com/p/6e9126695806) |
+| Sat, 04 Apr 2026 09:40:13 GMT | From Passenger to CEO in One API Call: The Magic of Broken Access Control | YusriAhamed | [Read More](https://medium.com/p/dbb9acf1dcdb) |
+| Sat, 04 Apr 2026 09:38:32 GMT | CVE-2024–25180 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/76a277467e77) |
+| Sat, 04 Apr 2026 09:35:32 GMT | PortSwigger Lab: Unprotected admin functionality with unpredictable URL | Olina Kundu | [Read More](https://medium.com/p/0fa0b5648c61) |
+| Sat, 04 Apr 2026 09:31:01 GMT | The VPN You’re Using on Public WiFi Might Be Giving You a False Sense of Security | Ed O. - TechEd Shield - TechEd Publishers | [Read More](https://medium.com/p/6ae8e07f5d41) |
+| Sat, 04 Apr 2026 09:26:34 GMT | How Behavioral Biometrics Catches Lead Fraud (Complete Guide to Lead Verification) | Argus101 | [Read More](https://medium.com/p/5c8fd3b6b116) |
+| Sat, 04 Apr 2026 09:24:43 GMT | Turning Vision into Reality: Delivering Urbaneigh’s E-Commerce Experience | A2Solution | [Read More](https://medium.com/p/2ce7346a2ee5) |
+| Sat, 04 Apr 2026 09:15:42 GMT | Slopsquatting, Typosquatting, and the New Software Supply Chain Attacks: How AI and Vibe Coding Are… | Sébastien Dubois | [Read More](https://medium.com/p/27aaa46e7ab1) |
+| Sat, 04 Apr 2026 09:13:48 GMT | Five Persistent Cybersecurity Gaps in Mobile Networks | Josue Martins | [Read More](https://medium.com/p/bf04b7c3cc15) |
+| Sat, 04 Apr 2026 09:11:24 GMT | I Audited 50 Websites. Nearly Half Were Silently Broken. | Nicky Christensen | [Read More](https://medium.com/p/ac5d434796b9) |
+| Sat, 04 Apr 2026 09:09:33 GMT | Payment Security in 2026: What Businesses Must Know | Sharda | [Read More](https://medium.com/p/c7e7c0a27322) |
+| Sat, 04 Apr 2026 09:04:07 GMT | We Skipped the $50K Firewall. Here’s What We Built Instead. | CloudConsultant.services | [Read More](https://medium.com/p/186554da49a5) |
+| Sat, 04 Apr 2026 09:01:01 GMT | The one clause in ISO 27001 that everyone skips — but auditors never do. | Gaurav Shukla | [Read More](https://medium.com/p/843e23b6b02e) |
 | Sat, 04 Apr 2026 08:45:32 GMT | Dijital Esaretin Anatomisi: Modern Savaşlarda Teknoloji Bağımlılığı, İstihbarat Ortaklıkları ve… | Fatih Yuksektepe | [Read More](https://medium.com/p/3632a18c6f5e) |
 | Sat, 04 Apr 2026 08:44:59 GMT | PortSwigger Lab : Unprotected Admin Functionality | Olina Kundu | [Read More](https://medium.com/p/e123fc512fe9) |
 | Sat, 04 Apr 2026 08:43:20 GMT | PortSwigger: CSRF Labs (part 1) | Abdelhamid Elbouz | [Read More](https://medium.com/p/53cff3f7ea8a) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 02:01:01 GMT | Boardroom Strategy: Cybersecurity in Corporate Governance | Anilesh Mukherjee | [Read More](https://medium.com/p/e9b6de8b0f12) |
 | Sat, 04 Apr 2026 01:57:50 GMT | Software Supply Chain Security After Axios | Jeremy longshore | [Read More](https://medium.com/p/d5095666a54f) |
 | Sat, 04 Apr 2026 01:56:17 GMT | Building Your Own Attack Surface Monitoring Script (Python) | Paritosh | [Read More](https://medium.com/p/b7e5a3a88114) |
-| Sat, 04 Apr 2026 01:44:48 GMT | Can AI Replace SOC Analysts? The Truth About Automation in Cybersecurity | Dipan | [Read More](https://medium.com/p/9cbe966803aa) |
-| Sat, 04 Apr 2026 01:44:44 GMT | Securing Tomorrow’s Digital World: My Journey with Tosinkuzzy Secure IT Services | Adeleye Ayomide Tosin | [Read More](https://medium.com/p/9abe76ff0394) |
-| Sat, 04 Apr 2026 01:38:45 GMT | HTB Season 10 — Facts Walkthrough | Jesse Ridley | [Read More](https://medium.com/p/8f25da5d7c47) |
-| Sat, 04 Apr 2026 01:33:40 GMT | You Can Type the Right Website… and Still Get Hacked | Adwait Joshi | [Read More](https://medium.com/p/b833558d8342) |
-| Sat, 04 Apr 2026 01:01:01 GMT | [Blade Runner] Sovereign Struggle to Reclaim Primary Memory | MonoEssay | [Read More](https://medium.com/p/0ac96969cebd) |
-| Sat, 04 Apr 2026 01:00:10 GMT | When Your Boss’s Voice Isn’t Your Boss | scofield lori | [Read More](https://medium.com/p/d9bc9a6e36cc) |
-| Sat, 04 Apr 2026 00:53:46 GMT | Why Digital Transformation Fails Without Operational Clarity. | Sunny Okonkwo | [Read More](https://medium.com/p/b3e4ba70014b) |
-| Sat, 04 Apr 2026 00:48:24 GMT | What Cyber Insurance Underwriters Already Know About Your Organization — — And What You Should Do… | Oluwagbenga Ogungbemi | [Read More](https://medium.com/p/7d42030923db) |
-| Sat, 04 Apr 2026 00:44:42 GMT | File and Directory Operations | Aj | [Read More](https://medium.com/p/05e529cfaddd) |
-| Sat, 04 Apr 2026 00:26:33 GMT | SSH Brute-Force Attacks Explained (Hydra & Patator) — What to Test & How to Defend | ghostyjoe | [Read More](https://medium.com/p/294f4c71a4de) |
-| Sat, 04 Apr 2026 00:20:31 GMT | SQL Injection UNION Attack: Retrieving Multiple Values in a Single Column | Mohamed Ahmed | [Read More](https://medium.com/p/fb67cebc9e68) |
-| Fri, 03 Apr 2026 23:30:20 GMT | Security Advisory: QuickLaunch SSO Platform — Unauthenticated Customer Information Disclosure… | Tyreek Haynes | [Read More](https://medium.com/p/1b7c8720ce53) |
-| Fri, 03 Apr 2026 23:11:31 GMT | POS, ERP, Automation, and Web Apps: Understanding Overlap and Choosing the Right Solution | Charunya Dissanayake | [Read More](https://medium.com/p/2f57d47f28eb) |
-| Fri, 03 Apr 2026 23:07:55 GMT | Midnight Terror: How Bandits Abducted 9 People in Sokoto | GazillionNews | [Read More](https://medium.com/p/bcea96e4ff08) |
-| Fri, 03 Apr 2026 23:06:32 GMT | Hardcoded Secrets in AI-Generated Code: Catch Them Before Git Does | ToxSec | [Read More](https://medium.com/p/91586bcc13a5) |
-| Fri, 03 Apr 2026 22:35:22 GMT | CVE-2025–32375 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/efd60fd695cd) |
-| Fri, 03 Apr 2026 22:29:52 GMT | Google Just Accidentally Made the Best Case for Bitcoin in Years | Shoeb Ali (Orchestrating Agentic AI) | [Read More](https://medium.com/p/45ad570aea57) |
-| Fri, 03 Apr 2026 22:10:38 GMT | Open Intelligence Lab v0.5.0: From Research Platform to Production CI/CD Pipeline | Alborz Nazari | [Read More](https://medium.com/p/4fb56cd21cd7) |
