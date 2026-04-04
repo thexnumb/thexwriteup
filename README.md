@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 18:46:50 GMT | Scapy 102 — Ağı Aktif Olarak Sorgulamak | Exript | [Read More](https://medium.com/p/4feb2063307b) |
+| Sat, 04 Apr 2026 18:39:04 GMT | The Hidden Risk in Active Directory: How One Misconfiguration Led to a Major Cyber Breach | Nathalietchoumi | [Read More](https://medium.com/p/acac3c647dab) |
+| Sat, 04 Apr 2026 18:38:33 GMT | The Complete Guide to SSH: Password, Keys, Agent & Config | Vellalacheruvu Raviteja | [Read More](https://medium.com/p/bb75d93ff945) |
+| Sat, 04 Apr 2026 18:34:57 GMT | Blind SQL Injection in Private Program Leads to $2,100 Bounty | Sachin Aneja | [Read More](https://medium.com/p/a7e11e775919) |
+| Sat, 04 Apr 2026 18:23:26 GMT | Built an Automated Network Scanner That Updates Itself Every 10 Minutes (Real-Time Cyber… | Pa1cosmic | [Read More](https://medium.com/p/488b4ed2285a) |
+| Sat, 04 Apr 2026 18:20:14 GMT | Threat Hunting Case Study: LOLBins, Registry Staging & Fileless C2 Attack | Vidhi patel | [Read More](https://medium.com/p/079d850284f0) |
+| Sat, 04 Apr 2026 18:18:17 GMT | Underlying Malware: Remcos RAT | Nitya Singh | [Read More](https://medium.com/p/bdacc12dcdcc) |
+| Sat, 04 Apr 2026 18:13:09 GMT | Pro-tips for better bug bounty reports | Pablo Vergara | [Read More](https://medium.com/p/c461d23e6f7e) |
+| Sat, 04 Apr 2026 18:06:05 GMT | Open Source SIEM with SOAR vs. Traditional SIEM: A Modern SOC Perspective | UTMStack | [Read More](https://medium.com/p/3160ca56c333) |
+| Sat, 04 Apr 2026 18:05:37 GMT | The Weakest Link in Cybersecurity: Humans as Gatekeepers | Dreampursuiters | [Read More](https://medium.com/p/c8c518af1d48) |
+| Sat, 04 Apr 2026 18:01:01 GMT | ثغرة CVE-2026–20093 في Cisco IMC: تخطٍ كامل للمصادقة بصلاحيات Admin (CVSS 9.8) | Rynbsd | [Read More](https://medium.com/p/4418286f3fa8) |
+| Sat, 04 Apr 2026 17:55:52 GMT | LinkedIn Threat Landscape 2026: What Every Professional Needs to Know Right Now | Michael | [Read More](https://medium.com/p/0856e14bf622) |
+| Sat, 04 Apr 2026 17:55:44 GMT | Windows Notepad’de Kritik RCE: Markdown Linkleri Üzerinden Komut Çalıştırma (CVE-2026–20841) | AltHack Security | [Read More](https://medium.com/p/70cdc4bfe5ab) |
+| Sat, 04 Apr 2026 17:55:18 GMT | PhantomInject: How I Built a Prompt Injection Engine for AI Systems | Nisarg Patel | [Read More](https://medium.com/p/26750f001fc8) |
+| Sat, 04 Apr 2026 17:46:46 GMT | THM CTF: Defensive Security | Paulo Melo | [Read More](https://medium.com/p/d1ff2f5d70c0) |
+| Sat, 04 Apr 2026 17:44:14 GMT | Xalgorix: The Most Powerful Open-Source AI Pentesting Agent You Need to Know About | Krishna Kumar | [Read More](https://medium.com/p/35ccd23c6407) |
+| Sat, 04 Apr 2026 17:42:19 GMT | Penetration Testing on Metasploitable 2: A Beginner’s Complete Walkthrough | Pa1cosmic | [Read More](https://medium.com/p/1ba0e556047b) |
+| Sat, 04 Apr 2026 17:39:49 GMT | How I Built an AI-Powered Vulnerability Monitor — From Batch Job to Developer Dashboard | Satyaraj Dhulipudi | [Read More](https://medium.com/p/94fc8f89282c) |
 | Sat, 04 Apr 2026 17:32:35 GMT | How I Earned $200 in 5 Minutes Using a Simple Broken Link Hijacking Bug | Pradeeptadi | [Read More](https://medium.com/p/41821fb41b1e) |
 | Sat, 04 Apr 2026 17:27:29 GMT | THM CTF: Offensive Security | Paulo Melo | [Read More](https://medium.com/p/a310ef09f212) |
 | Sat, 04 Apr 2026 17:25:09 GMT | How to Find Security Bugs in Source Code: A Complete Code Review Guide | WolfSec | [Read More](https://medium.com/p/c858645f70ba) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 11:57:41 GMT | Easter Message from GuardianWatch | GuardianWatch | [Read More](https://medium.com/p/85fd1e4d657f) |
 | Sat, 04 Apr 2026 11:55:37 GMT | IP Addressing Explained for Beginners (IPv4 vs IPv6) | Pathakraj | [Read More](https://medium.com/p/9bff8e2812db) |
 | Sat, 04 Apr 2026 11:55:14 GMT | Beyond Borders: Why the Ojowa Empire Cannot Ignore the Iran Escalation | Know Afrika | [Read More](https://medium.com/p/8630df8ed27b) |
-| Sat, 04 Apr 2026 11:53:42 GMT | API Key Security Patterns for GenLayer Intelligent Contracts: A Developer’s Guide | Kolofah Kolofah Kelvin | [Read More](https://medium.com/p/ca38fdf8dfe4) |
-| Sat, 04 Apr 2026 11:52:12 GMT | PortSwigger: CSRF Labs (part 2) | Abdelhamid Elbouz | [Read More](https://medium.com/p/28b1987b99c7) |
-| Sat, 04 Apr 2026 11:49:40 GMT | I Failed Security+. Then I Switched from Cybrary to a Hands-On Platform. Here’s What Happened | Sharon Borradaile, CISSP | [Read More](https://medium.com/p/ef7cfc9f870e) |
-| Sat, 04 Apr 2026 11:46:28 GMT | Generative AI Security: A Leader’s Framework for Protection | Neetu Verma | [Read More](https://medium.com/p/b8a52cca240b) |
-| Sat, 04 Apr 2026 11:38:31 GMT | Your IoT Device Has a Backdoor. The Manufacturer Put It There. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/8e7a8b76d0c5) |
-| Sat, 04 Apr 2026 11:37:47 GMT | Part 2: WAVESHAPER.V2 — The North Korean RAT That Came With Your npm Install | Muhammed Faris | [Read More](https://medium.com/p/b77cd670af13) |
-| Sat, 04 Apr 2026 11:33:15 GMT | The Global Shift in Steelmaking: Why India is Now the Hub for Advanced Refractories. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/775e8520b559) |
-| Sat, 04 Apr 2026 11:23:08 GMT | Physical Security Meets Cybersecurity: Why UAE Businesses Need a Unified Approach in 2026 | Powerlink IT & Security Solutions LLC | [Read More](https://medium.com/p/6d0984439f00) |
-| Sat, 04 Apr 2026 11:16:20 GMT | Trivy Supply Chain Attack Leads to European Commission Data Breach: A Critical Wake Up Call | Jas | [Read More](https://medium.com/p/01286c87dd49) |
-| Sat, 04 Apr 2026 11:10:16 GMT | TryHackMe CTF — CupidBot | IdoD | [Read More](https://medium.com/p/f5d3768405bf) |
-| Sat, 04 Apr 2026 11:09:34 GMT | Axios NPM Supply Chain Attack | Laxman Hariharan | [Read More](https://medium.com/p/df647fbccf33) |
-| Sat, 04 Apr 2026 11:07:02 GMT | Someone Hid a Spy Program Inside a Package You Probably Use Every Day | Ravi Sankar | [Read More](https://medium.com/p/677bcf7849db) |
-| Sat, 04 Apr 2026 11:04:31 GMT | How System Integrators Are Powering IoT-Driven Digital Transformation in 2026 | Omnilink Technology | [Read More](https://medium.com/p/6212b1ad4bbc) |
-| Sat, 04 Apr 2026 11:03:19 GMT | Difference Between Ethical Hacking and Cybersecurity: A Complete Guide | Kunal Arora | [Read More](https://medium.com/p/cce18face654) |
-| Sat, 04 Apr 2026 11:02:37 GMT | Web Red Team Analyst (Web‑RTA) Exam Write‑Up & Overview | 0x7ipher | [Read More](https://medium.com/p/4e31d6fee075) |
-| Sat, 04 Apr 2026 11:01:01 GMT | My SC-900 Learning Journey (Day 9) — What Microsoft Defender for Cloud and Sentinel Taught Me About… | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/ad141b3fac8d) |
-| Sat, 04 Apr 2026 11:00:35 GMT | Government Jobs After Ethical Hacking Course in Delhi — Opportunities Most Students Miss (2026) | Varun Papnai | [Read More](https://medium.com/p/f1dbc125e242) |
-| Sat, 04 Apr 2026 10:55:08 GMT | HTTP vs HTTPS 為什麼多一個 S 這麼重要？ | Chiayu | [Read More](https://medium.com/p/0eaaaea09b97) |
