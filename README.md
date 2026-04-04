@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 14:03:16 GMT | Conversor [H.T.B] machine Writeup : | Amrou bekhedda | [Read More](https://medium.com/p/0026ef3ddf8d) |
+| Sat, 04 Apr 2026 13:58:40 GMT | Predicting the Unpredictable: The Rise of Proactive, AI-Powered Security Ecosystems | Abhijit Freelancepreneur | [Read More](https://medium.com/p/3c1f255c8af0) |
+| Sat, 04 Apr 2026 13:51:15 GMT | Secure Facebook & Social Apps in 5 Minutes | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/ed442f8c1a4e) |
+| Sat, 04 Apr 2026 13:50:03 GMT | Security should not be an afterthought in Web3. It should be part of the protocol itself. | NanoChain | [Read More](https://medium.com/p/4faf531df6d8) |
+| Sat, 04 Apr 2026 13:45:09 GMT | Growing Fast Is Exciting. It’s Also When Most Businesses Get Hacked. | AnantNetra Technologies | [Read More](https://medium.com/p/d3f416be3df4) |
+| Sat, 04 Apr 2026 13:43:50 GMT | The Silent Threat: Understanding Buffer Overflow Attacks | Elmir | [Read More](https://medium.com/p/a650a829ddec) |
+| Sat, 04 Apr 2026 13:43:08 GMT | Claude Cowork: Memory Poisoning Changes Everything | Mihailo Zoin | [Read More](https://medium.com/p/860aac21614c) |
+| Sat, 04 Apr 2026 13:42:48 GMT | The Hospital Is the New Battlefield | Travis Ray Caverhill | [Read More](https://medium.com/p/235899b4f853) |
+| Sat, 04 Apr 2026 13:38:10 GMT | PicoCTF : bytemancy 1 | Utsav Thakur | [Read More](https://medium.com/p/e021eb3b55db) |
+| Sat, 04 Apr 2026 13:37:48 GMT | Applications of AI Agents in Cybersecurity | codingbolt | [Read More](https://medium.com/p/d059284405e6) |
+| Sat, 04 Apr 2026 13:37:05 GMT | Boogeyman 2: The HR Dilemma | Cyber-sam01 | [Read More](https://medium.com/p/dd900e97435a) |
+| Sat, 04 Apr 2026 13:32:58 GMT | I Just Wanted to Rename 500 Files: That’s When I Discovered Scripting | Gajanan Tayde | [Read More](https://medium.com/p/aca7d55aeefa) |
+| Sat, 04 Apr 2026 13:31:01 GMT | Modern Ransomware Doesn’t Start With Encryption — It Starts by Killing Your EDR | Faris Afdhil Fawwaz | [Read More](https://medium.com/p/f4575f108da5) |
+| Sat, 04 Apr 2026 13:16:07 GMT | ReactOOPs Challenge Write-Up — React2Shell (CVE-2025–55182) | hicham outagra | [Read More](https://medium.com/p/6113cdb88c38) |
+| Sat, 04 Apr 2026 13:14:38 GMT | Conquering the Buffer: Journey into Memory Vulnerabilities | Telman Hajibutayev | [Read More](https://medium.com/p/21d3aad529a8) |
+| Sat, 04 Apr 2026 13:13:00 GMT | PicoCTF : bytemancy 0 | Utsav Thakur | [Read More](https://medium.com/p/2a894d56b3fc) |
+| Sat, 04 Apr 2026 13:01:01 GMT | Why Hackers Target You (Even If You’re “Nobody”) | Renzo | [Read More](https://medium.com/p/9e27ac80c8f5) |
+| Sat, 04 Apr 2026 13:01:01 GMT | [The Dark Knight] Survival Logic of Transcending Systemic “Bugs” | MonoEssay | [Read More](https://medium.com/p/5d7c4ec9fdad) |
 | Sat, 04 Apr 2026 12:59:02 GMT | I Watched a $25 Million Deepfake Heist — Why 2026 Phishing Is Your New Reality | Cyber-X Protocol | [Read More](https://medium.com/p/301e261506bb) |
 | Sat, 04 Apr 2026 12:49:08 GMT | Cyber Security Solutions for Businesses in 2026: Protect Your Data, Protect Your Future | Ethicalsolution | [Read More](https://medium.com/p/8e890259fdd2) |
 | Sat, 04 Apr 2026 12:47:17 GMT | How Hackers Are Using AI in 2025 — And How to Protect Yourself | Dereje Deressa | [Read More](https://medium.com/p/7864c30410ee) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 08:11:01 GMT | Lockdown Mode: Engineering a Near-Zero Attack Surface on iOS | Samyakgoel | [Read More](https://medium.com/p/c4a277d3be80) |
 | Sat, 04 Apr 2026 08:10:11 GMT | How to Know If Your Phone Has Been Hacked in 2026 + What to Do Next | Doossal | [Read More](https://medium.com/p/38de66e697d4) |
 | Sat, 04 Apr 2026 08:07:30 GMT | It Took Fifteen Years and a War | tara rogers-ellis | [Read More](https://medium.com/p/eacf92e6fad7) |
-| Sat, 04 Apr 2026 08:04:58 GMT | Best ChatGPT Export Tools for Easy Migration | Ritikkungwani | [Read More](https://medium.com/p/4e2863cb8dd3) |
-| Sat, 04 Apr 2026 08:01:30 GMT | How I Secured 2nd Rank in The Reign of Spades ♠️ Cyber Challenge Event | Titocodes | [Read More](https://medium.com/p/a0b16daca5d4) |
-| Sat, 04 Apr 2026 08:01:03 GMT | Why “Good Enough” Security Will Get Your SaaS Hacked (And How Hybrid Pentesting Fixes It) | Gaurav | [Read More](https://medium.com/p/98adc6cb4de2) |
-| Sat, 04 Apr 2026 08:00:47 GMT | Critical Cybersecurity Mistakes That Put Your Data at Risk | RAAYA | [Read More](https://medium.com/p/9798f22ac409) |
-| Sat, 04 Apr 2026 07:54:28 GMT | Slopsquatting is real — and your AI coding agent is the attack vector | Hammad Tariq | [Read More](https://medium.com/p/363dd094af58) |
-| Sat, 04 Apr 2026 07:52:37 GMT | Revision of the Cybersecurity Act: Structural Shift in the EU Cybersecurity Model | Viktor Davydych | [Read More](https://medium.com/p/ed7862cce5a6) |
-| Sat, 04 Apr 2026 07:48:51 GMT | User-per-Process: Making DAC Work | 쿠키 | [Read More](https://medium.com/p/0036a3d53ae1) |
-| Sat, 04 Apr 2026 07:47:28 GMT | Am I Dreaming? — Sleep, the Secret Source in Space and Security. | Thomas "Tom" Biege | [Read More](https://medium.com/p/e05d848a36b8) |
-| Sat, 04 Apr 2026 07:44:08 GMT | Architecture Principles, Revisited. | Mohammed Brückner | [Read More](https://medium.com/p/def3b76f489f) |
-| Sat, 04 Apr 2026 07:39:48 GMT | The EU Cyber Resilience Act: Why Your SaaS Might Legally Be a Hardware Component | Souvick | [Read More](https://medium.com/p/745af22d5643) |
-| Sat, 04 Apr 2026 07:33:43 GMT | Global Mix Paint — Smart Digital Solutions for Software, Security & Health, Tech | Global Mix Point | [Read More](https://medium.com/p/a8384d122ef4) |
-| Sat, 04 Apr 2026 07:32:32 GMT | North Korean Linked Hackers Just Infected a Tool Used by 100 Million Developers — Here’s What… | Decoding Daily Tech News | [Read More](https://medium.com/p/e47cf2e89d31) |
-| Sat, 04 Apr 2026 07:29:19 GMT | The Rise of AI Phishing — Why It’s Getting Harder to Detect | Satyam Pathania | [Read More](https://medium.com/p/2eb286845c85) |
-| Sat, 04 Apr 2026 07:20:50 GMT | Your Application Could Be Compromised If You Use This npm Package | Neha Gupta | [Read More](https://medium.com/p/5b3bf059b9b0) |
-| Sat, 04 Apr 2026 07:15:32 GMT | What Is Computer Forensic Investigation and Why Is It Important in India? | Everence | [Read More](https://medium.com/p/be596cf4ada3) |
-| Sat, 04 Apr 2026 07:11:29 GMT | Beyond the CVE: What I Learned While Hunting Bugs and Jobs Simultaneously | RuslanSemchenko | [Read More](https://medium.com/p/26f64fae3eeb) |
-| Sat, 04 Apr 2026 07:09:51 GMT | How Technology Is Changing CCTV System Installation | IT Solution Dubai | [Read More](https://medium.com/p/8818ba82102b) |
-| Sat, 04 Apr 2026 07:08:25 GMT | Part 5: Output Funnel: Rethinking What “Secure Enough to Deploy” Actually Means | Aparna Ash Himmatramka | [Read More](https://medium.com/p/33cdd654c143) |
