@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 22:23:06 GMT | DOUBLE HOP | Roberto Oliveira | [Read More](https://medium.com/p/7ad148930778) |
+| Sat, 04 Apr 2026 22:14:15 GMT | TryHackMe Attacktive Directory Writeup (Step-by-Step Deep Dive) | Mohammed Umeruddin | [Read More](https://medium.com/p/8417412eb878) |
+| Sat, 04 Apr 2026 22:04:14 GMT | Supply Chain Security - SANS CyberThreat Summit 2025 | Meera Tamboli | [Read More](https://medium.com/p/2fc153635d96) |
+| Sat, 04 Apr 2026 22:01:43 GMT | ️ Beyond the Visual: The Technical Reality of Homoglyph Attacks | Tooba Siddiqui | [Read More](https://medium.com/p/0c5040c64ba6) |
+| Sat, 04 Apr 2026 21:50:46 GMT | When the Container Becomes the Weapon: Tailscale C2 via Docker Escape | Harshit Bhardwaj | [Read More](https://medium.com/p/97697f752724) |
 | Sat, 04 Apr 2026 21:31:21 GMT | Staying Cautious in the Age of AI Adoption - BSides Bristol 2025 | Meera Tamboli | [Read More](https://medium.com/p/9f50c965d776) |
+| Sat, 04 Apr 2026 21:26:18 GMT | Módulo 2 — Redes, Protocolos y Superficie de Ataque (Visión Hacker) | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/259f6a470e99) |
 | Sat, 04 Apr 2026 21:25:29 GMT | Security Misconfigurations in Cloud Fintech Deployments - When the Infrastructure Is Running, but… | Rufus Kehinde | [Read More](https://medium.com/p/9a23362a0d6f) |
 | Sat, 04 Apr 2026 20:52:36 GMT | Server-Side Fingerprinting Without a Single Line of JavaScript | Даниил Петрушевский | [Read More](https://medium.com/p/8506d77f1429) |
 | Sat, 04 Apr 2026 20:46:51 GMT | What attackers see when they scan your SaaS domain | Threatlocator | [Read More](https://medium.com/p/97b6c9e62c0f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 13:43:08 GMT | Claude Cowork: Memory Poisoning Changes Everything | Mihailo Zoin | [Read More](https://medium.com/p/860aac21614c) |
 | Sat, 04 Apr 2026 13:42:48 GMT | The Hospital Is the New Battlefield | Travis Ray Caverhill | [Read More](https://medium.com/p/235899b4f853) |
 | Sat, 04 Apr 2026 13:38:10 GMT | PicoCTF : bytemancy 1 | Utsav Thakur | [Read More](https://medium.com/p/e021eb3b55db) |
-| Sat, 04 Apr 2026 13:37:48 GMT | Applications of AI Agents in Cybersecurity | codingbolt | [Read More](https://medium.com/p/d059284405e6) |
-| Sat, 04 Apr 2026 13:37:05 GMT | Boogeyman 2: The HR Dilemma | Cyber-sam01 | [Read More](https://medium.com/p/dd900e97435a) |
-| Sat, 04 Apr 2026 13:32:58 GMT | I Just Wanted to Rename 500 Files: That’s When I Discovered Scripting | Gajanan Tayde | [Read More](https://medium.com/p/aca7d55aeefa) |
-| Sat, 04 Apr 2026 13:31:01 GMT | Modern Ransomware Doesn’t Start With Encryption — It Starts by Killing Your EDR | Faris Afdhil Fawwaz | [Read More](https://medium.com/p/f4575f108da5) |
-| Sat, 04 Apr 2026 13:16:07 GMT | ReactOOPs Challenge Write-Up — React2Shell (CVE-2025–55182) | hicham outagra | [Read More](https://medium.com/p/6113cdb88c38) |
-| Sat, 04 Apr 2026 13:14:38 GMT | Conquering the Buffer: Journey into Memory Vulnerabilities | Telman Hajibutayev | [Read More](https://medium.com/p/21d3aad529a8) |
