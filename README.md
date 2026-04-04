@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 11:33:15 GMT | The Global Shift in Steelmaking: Why India is Now the Hub for Advanced Refractories. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/775e8520b559) |
+| Sat, 04 Apr 2026 11:23:08 GMT | Physical Security Meets Cybersecurity: Why UAE Businesses Need a Unified Approach in 2026 | Powerlink IT & Security Solutions LLC | [Read More](https://medium.com/p/6d0984439f00) |
+| Sat, 04 Apr 2026 11:16:20 GMT | Trivy Supply Chain Attack Leads to European Commission Data Breach: A Critical Wake Up Call | Jas | [Read More](https://medium.com/p/01286c87dd49) |
+| Sat, 04 Apr 2026 11:10:16 GMT | TryHackMe CTF — CupidBot | IdoD | [Read More](https://medium.com/p/f5d3768405bf) |
+| Sat, 04 Apr 2026 11:09:34 GMT | Axios NPM Supply Chain Attack | Laxman Hariharan | [Read More](https://medium.com/p/df647fbccf33) |
+| Sat, 04 Apr 2026 11:07:02 GMT | Someone Hid a Spy Program Inside a Package You Probably Use Every Day | Ravi Sankar | [Read More](https://medium.com/p/677bcf7849db) |
+| Sat, 04 Apr 2026 11:04:31 GMT | How System Integrators Are Powering IoT-Driven Digital Transformation in 2026 | Omnilink Technology | [Read More](https://medium.com/p/6212b1ad4bbc) |
+| Sat, 04 Apr 2026 11:03:19 GMT | Difference Between Ethical Hacking and Cybersecurity: A Complete Guide | Kunal Arora | [Read More](https://medium.com/p/cce18face654) |
+| Sat, 04 Apr 2026 11:02:37 GMT | Web Red Team Analyst (Web‑RTA) Exam Write‑Up & Overview | 0x7ipher | [Read More](https://medium.com/p/4e31d6fee075) |
+| Sat, 04 Apr 2026 11:01:01 GMT | My SC-900 Learning Journey (Day 9) — What Microsoft Defender for Cloud and Sentinel Taught Me About… | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/ad141b3fac8d) |
+| Sat, 04 Apr 2026 11:00:35 GMT | Government Jobs After Ethical Hacking Course in Delhi — Opportunities Most Students Miss (2026) | Varun Papnai | [Read More](https://medium.com/p/f1dbc125e242) |
 | Sat, 04 Apr 2026 10:55:08 GMT | HTTP vs HTTPS 為什麼多一個 S 這麼重要？ | Chiayu | [Read More](https://medium.com/p/0eaaaea09b97) |
 | Sat, 04 Apr 2026 10:50:01 GMT | Vectra AI: The Cybersecurity Platform That Finally Speaks Human | Anirudh Singh | [Read More](https://medium.com/p/9ac2743f6e11) |
 | Sat, 04 Apr 2026 10:39:51 GMT | TryHackMe Write-Up: Investigating Windows | cyberwriter | [Read More](https://medium.com/p/d21096dfe44c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 04:51:28 GMT | Analyzing a High-Severity SQL Injection Vulnerability in a Production Environment (Silently… | Vanshrathore | [Read More](https://medium.com/p/7533210c7125) |
 | Sat, 04 Apr 2026 04:46:58 GMT | Ethical Foundations in Cyber Security | Bibekchy | [Read More](https://medium.com/p/372c1354a534) |
 | Sat, 04 Apr 2026 04:37:12 GMT | Google Just Warned 3.5 Billion Chrome Users. Here’s What’s Actually Happening. | EternalSec | [Read More](https://medium.com/p/b85397e8238b) |
-| Sat, 04 Apr 2026 04:36:31 GMT | How I Got Unauthorized Access to Staging Environments via Search API Misconfiguration | sunny561 | [Read More](https://medium.com/p/27688f4d750a) |
-| Sat, 04 Apr 2026 04:31:02 GMT | Nmap Port Scanning Zero Se Advanced: Target Ka Poora X-Ray Nikalo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/b612f42f7eea) |
-| Sat, 04 Apr 2026 04:31:02 GMT | Why Sharing Files Securely Still Feels More Fragile Than It Should | Sharan Iyengar | [Read More](https://medium.com/p/2bb3f347640a) |
-| Sat, 04 Apr 2026 04:31:01 GMT | Saily eSIM Review 2026: Worth the Price? | Cavern Saga | [Read More](https://medium.com/p/c2230e7c3afa) |
-| Sat, 04 Apr 2026 04:28:08 GMT | Zero-Party Data vs GDPR: The Future of Trust-Driven Fintech Growth | AartiWrites | [Read More](https://medium.com/p/48a64d5c2406) |
-| Sat, 04 Apr 2026 04:18:25 GMT | Can I See Your ID? | Ben   Olufemi akintounde | [Read More](https://medium.com/p/e89afa1a6dc8) |
-| Sat, 04 Apr 2026 04:14:08 GMT | Your LangChain Agent Can Send Emails, Read Files, and Hit APIs — Who’s Checking What It Actually… | hellocosmos | [Read More](https://medium.com/p/ba4850856119) |
-| Sat, 04 Apr 2026 04:11:26 GMT | Why Small Businesses Need a Managed Service Provider in Los Angeles | Mobilecomputerrepairus | [Read More](https://medium.com/p/6c5a18606872) |
-| Sat, 04 Apr 2026 03:53:01 GMT | I Built a Chrome Extension That Finds Exposed Secrets in JavaScript Files | Chidubem Chukwu | [Read More](https://medium.com/p/bdbefe94f0ab) |
-| Sat, 04 Apr 2026 03:49:46 GMT | …    ? | Mohamed Amaan | [Read More](https://medium.com/p/93a0f39773cd) |
-| Sat, 04 Apr 2026 03:29:03 GMT | AI as Your Cybersecurity Team Member — Step-by-step | Zac Smith | [Read More](https://medium.com/p/459953c2a8b0) |
