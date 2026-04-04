@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 08:45:32 GMT | Dijital Esaretin Anatomisi: Modern Savaşlarda Teknoloji Bağımlılığı, İstihbarat Ortaklıkları ve… | Fatih Yuksektepe | [Read More](https://medium.com/p/3632a18c6f5e) |
+| Sat, 04 Apr 2026 08:44:59 GMT | PortSwigger Lab : Unprotected Admin Functionality | Olina Kundu | [Read More](https://medium.com/p/e123fc512fe9) |
+| Sat, 04 Apr 2026 08:43:20 GMT | PortSwigger: CSRF Labs (part 1) | Abdelhamid Elbouz | [Read More](https://medium.com/p/53cff3f7ea8a) |
+| Sat, 04 Apr 2026 08:36:01 GMT | When AI Takes Your Mouse: A Safety Playbook for Claude Computer Use and Perplexity Personal… | Ravi | [Read More](https://medium.com/p/d22109d3ae1a) |
+| Sat, 04 Apr 2026 08:31:01 GMT | Visualizing Threats: Using Dynamic Dashboards in SIEM | Joanorifha | [Read More](https://medium.com/p/5b2a61c3157f) |
+| Sat, 04 Apr 2026 08:31:01 GMT | Why most cybersecurity resumes fail (and how to fix yours step-by-step) | Manubhav Sharma | [Read More](https://medium.com/p/d331f6237044) |
+| Sat, 04 Apr 2026 08:18:15 GMT | The Future of Threat Hunting: When AI Becomes Your Hunting Partner | Somesh | [Read More](https://medium.com/p/f9745265db58) |
+| Sat, 04 Apr 2026 08:16:36 GMT | Why Standard HTTP Libraries Are Dead for Web Scraping (And How to Fix It) | nikhil bajaj | [Read More](https://medium.com/p/48fd559b4aa2) |
+| Sat, 04 Apr 2026 08:14:51 GMT | Fake Links, Real Danger Stay Safe as a Freelancer or Online Earner | Mr How | [Read More](https://medium.com/p/170a9fa4f449) |
+| Sat, 04 Apr 2026 08:13:07 GMT | DVWA: File Upload Vulnerability (Low Security) | Kamal S | [Read More](https://medium.com/p/a8601593e552) |
+| Sat, 04 Apr 2026 08:11:01 GMT | Lockdown Mode: Engineering a Near-Zero Attack Surface on iOS | Samyakgoel | [Read More](https://medium.com/p/c4a277d3be80) |
+| Sat, 04 Apr 2026 08:10:11 GMT | How to Know If Your Phone Has Been Hacked in 2026 + What to Do Next | Doossal | [Read More](https://medium.com/p/38de66e697d4) |
+| Sat, 04 Apr 2026 08:07:30 GMT | It Took Fifteen Years and a War | tara rogers-ellis | [Read More](https://medium.com/p/eacf92e6fad7) |
+| Sat, 04 Apr 2026 08:04:58 GMT | Best ChatGPT Export Tools for Easy Migration | Ritikkungwani | [Read More](https://medium.com/p/4e2863cb8dd3) |
+| Sat, 04 Apr 2026 08:01:30 GMT | How I Secured 2nd Rank in The Reign of Spades ♠️ Cyber Challenge Event | Titocodes | [Read More](https://medium.com/p/a0b16daca5d4) |
+| Sat, 04 Apr 2026 08:01:03 GMT | Why “Good Enough” Security Will Get Your SaaS Hacked (And How Hybrid Pentesting Fixes It) | Gaurav | [Read More](https://medium.com/p/98adc6cb4de2) |
+| Sat, 04 Apr 2026 08:00:47 GMT | Critical Cybersecurity Mistakes That Put Your Data at Risk | RAAYA | [Read More](https://medium.com/p/9798f22ac409) |
 | Sat, 04 Apr 2026 07:54:28 GMT | Slopsquatting is real — and your AI coding agent is the attack vector | Hammad Tariq | [Read More](https://medium.com/p/363dd094af58) |
 | Sat, 04 Apr 2026 07:52:37 GMT | Revision of the Cybersecurity Act: Structural Shift in the EU Cybersecurity Model | Viktor Davydych | [Read More](https://medium.com/p/ed7862cce5a6) |
 | Sat, 04 Apr 2026 07:48:51 GMT | User-per-Process: Making DAC Work | 쿠키 | [Read More](https://medium.com/p/0036a3d53ae1) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 22:35:22 GMT | CVE-2025–32375 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/efd60fd695cd) |
 | Fri, 03 Apr 2026 22:29:52 GMT | Google Just Accidentally Made the Best Case for Bitcoin in Years | Shoeb Ali (Orchestrating Agentic AI) | [Read More](https://medium.com/p/45ad570aea57) |
 | Fri, 03 Apr 2026 22:10:38 GMT | Open Intelligence Lab v0.5.0: From Research Platform to Production CI/CD Pipeline | Alborz Nazari | [Read More](https://medium.com/p/4fb56cd21cd7) |
-| Fri, 03 Apr 2026 22:03:43 GMT | How I Simulated a Supply Chain Attack on Thousands of Servers — and Made $25K | Arshad Kazmi | [Read More](https://medium.com/p/7d36647cbf36) |
-| Fri, 03 Apr 2026 21:49:29 GMT | Quantum Computing and the Future of Cybersecurity: Why RSA and ECC Can’t Be Trusted Forever | BnHany | [Read More](https://medium.com/p/5572f9dee26f) |
-| Fri, 03 Apr 2026 21:49:00 GMT | Visibility Begins at the Edge: A SOC Analyst’s Guide to XDR Agent Deployment | Abhishek Nayak | [Read More](https://medium.com/p/b6c72094fd2c) |
-| Fri, 03 Apr 2026 21:46:44 GMT | Code Container: Isolating AI Coding Harnesses Without Losing Your Mind | Mike Crowe | [Read More](https://medium.com/p/133eee89023f) |
-| Fri, 03 Apr 2026 21:41:59 GMT | Denial of Service - When the Goal Is Not to Break In but to Shut Everything Down | Rufus Kehinde | [Read More](https://medium.com/p/f5c1526c0127) |
-| Fri, 03 Apr 2026 21:36:38 GMT | Axios npm compromise — macOS triage and mitigation guide (supply chain attack — april 2026) | Andrey Dolya | [Read More](https://medium.com/p/b168bb253780) |
-| Fri, 03 Apr 2026 21:30:51 GMT | IoT Cihazlar: Evinizde ki Yabancı | Zerioth Cypher Evidence | [Read More](https://medium.com/p/00d1d75c8d93) |
-| Fri, 03 Apr 2026 21:23:52 GMT | Booyegeman 1: My Personified Experience | Cyber-sam01 | [Read More](https://medium.com/p/537c7372b3bc) |
-| Fri, 03 Apr 2026 21:02:34 GMT | I Reverse-Engineered My Gmail Login and Found Something Unexpected | Akshat Tiwari | [Read More](https://medium.com/p/6d3d326f7cc6) |
-| Fri, 03 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 41: Conclusion + Pre-Practice | Maximillian Rueda | [Read More](https://medium.com/p/10be97d933f5) |
-| Fri, 03 Apr 2026 20:59:12 GMT | The Structural Failure of the “AI Company” | Nathan Sigworth | [Read More](https://medium.com/p/a808eac7552d) |
-| Fri, 03 Apr 2026 20:53:56 GMT | Network Scanning with Nmap | Binyamin zahid | [Read More](https://medium.com/p/931acda7a963) |
-| Fri, 03 Apr 2026 20:40:04 GMT | How to Build a Wazuh SIEM Home Lab with a Windows 11 Agent | Muhammad Danish | [Read More](https://medium.com/p/c770d69ac3d9) |
-| Fri, 03 Apr 2026 20:08:40 GMT | Watching Hackers in Real-Time: Building My Own Honeypot (VenomHive) | Yasinovaydin | [Read More](https://medium.com/p/1744c3d5b961) |
-| Fri, 03 Apr 2026 20:00:25 GMT | Pivoting with Metasploit: A Beginner’s Guide to Network Pivoting | Mawira Victor | [Read More](https://medium.com/p/a263fd7c3283) |
-| Fri, 03 Apr 2026 19:49:44 GMT | Patterns That Cut AI Security Pipeline Costs | Shimon Ben | [Read More](https://medium.com/p/010fcc25fda8) |
-| Fri, 03 Apr 2026 19:49:18 GMT | Understanding Dark Web Trends and How They Are Changing | Tor BBB | [Read More](https://medium.com/p/62ab87219039) |
