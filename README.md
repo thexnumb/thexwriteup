@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 05:31:01 GMT | Shodan + Censys Internet Ka X-Ray: Bina Scan Kiye Sab Kuch Dekho! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/becb216523f9) |
+| Sat, 04 Apr 2026 05:16:03 GMT | Windows — LDAP User Kerberoastable (Root-Me) Write-up | csm24 | [Read More](https://medium.com/p/1abe591ba584) |
+| Sat, 04 Apr 2026 05:10:08 GMT | Bandit Level 0 → 1: Your First Step into Cybersecurity | Salahamaralhmady | [Read More](https://medium.com/p/537a9ba432b8) |
+| Sat, 04 Apr 2026 05:08:07 GMT | The Attack on Amazon’s Data Center Just Created 5 of the Hottest Tech Jobs of 2026 | Nikhilvatsathakur | [Read More](https://medium.com/p/93de38b3cc8f) |
+| Sat, 04 Apr 2026 05:04:11 GMT | AWS KMS Security: Deep Dive — Part 1 | Rick Yang | [Read More](https://medium.com/p/2f31ebbd6486) |
+| Sat, 04 Apr 2026 05:03:30 GMT | The Investment Committee Architecture | Datavex AI Pvt Ltd | [Read More](https://medium.com/p/0824a812d7cc) |
+| Sat, 04 Apr 2026 04:52:50 GMT | Toqen.app Mobile - closed testing on Google Play | Anton Minin Baranovskii | [Read More](https://medium.com/p/110d02cef4e5) |
+| Sat, 04 Apr 2026 04:51:28 GMT | Analyzing a High-Severity SQL Injection Vulnerability in a Production Environment (Silently… | Vanshrathore | [Read More](https://medium.com/p/7533210c7125) |
+| Sat, 04 Apr 2026 04:46:58 GMT | Ethical Foundations in Cyber Security | Bibekchy | [Read More](https://medium.com/p/372c1354a534) |
+| Sat, 04 Apr 2026 04:37:12 GMT | Google Just Warned 3.5 Billion Chrome Users. Here’s What’s Actually Happening. | EternalSec | [Read More](https://medium.com/p/b85397e8238b) |
+| Sat, 04 Apr 2026 04:36:31 GMT | How I Got Unauthorized Access to Staging Environments via Search API Misconfiguration | sunny561 | [Read More](https://medium.com/p/27688f4d750a) |
+| Sat, 04 Apr 2026 04:31:02 GMT | Nmap Port Scanning Zero Se Advanced: Target Ka Poora X-Ray Nikalo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/b612f42f7eea) |
+| Sat, 04 Apr 2026 04:31:02 GMT | Why Sharing Files Securely Still Feels More Fragile Than It Should | Sharan Iyengar | [Read More](https://medium.com/p/2bb3f347640a) |
+| Sat, 04 Apr 2026 04:31:01 GMT | Saily eSIM Review 2026: Worth the Price? | Cavern Saga | [Read More](https://medium.com/p/c2230e7c3afa) |
+| Sat, 04 Apr 2026 04:28:08 GMT | Zero-Party Data vs GDPR: The Future of Trust-Driven Fintech Growth | AartiWrites | [Read More](https://medium.com/p/48a64d5c2406) |
 | Sat, 04 Apr 2026 04:18:25 GMT | Can I See Your ID? | Ben   Olufemi akintounde | [Read More](https://medium.com/p/e89afa1a6dc8) |
 | Sat, 04 Apr 2026 04:14:08 GMT | Your LangChain Agent Can Send Emails, Read Files, and Hit APIs — Who’s Checking What It Actually… | hellocosmos | [Read More](https://medium.com/p/ba4850856119) |
 | Sat, 04 Apr 2026 04:11:26 GMT | Why Small Businesses Need a Managed Service Provider in Los Angeles | Mobilecomputerrepairus | [Read More](https://medium.com/p/6c5a18606872) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 03 Apr 2026 16:41:52 GMT | IP-Vortex Deep Dive - IP Rotation & Anonymity for Cybersecurity | Pentester Club | [Read More](https://medium.com/p/836b34487ebb) |
 | Fri, 03 Apr 2026 16:28:52 GMT | The Bugs No Scanner Will Ever Find | Burak Tülüceoğlu | [Read More](https://medium.com/p/5f7fb93d270b) |
 | Fri, 03 Apr 2026 16:24:42 GMT | How to Generate a Strong Password Online for Free (Nothing Saved, Nothing Sent) | Shaishavap | [Read More](https://medium.com/p/d37847033579) |
-| Fri, 03 Apr 2026 16:23:06 GMT | Your Account May Be Gone. Your Identity May Already Be Everywhere. | RVwv.B | [Read More](https://medium.com/p/bea76d09a004) |
-| Fri, 03 Apr 2026 16:18:18 GMT | Why Uploading Your Bank Statements to Free PDF Converters is a Massive Security Risk (And How to Do… | Doctijori | [Read More](https://medium.com/p/2e17d997ffaa) |
-| Fri, 03 Apr 2026 16:10:16 GMT | Reshuffling the Cards in the Eastern Mediterranean | Gökçen Kunukcu | [Read More](https://medium.com/p/a7c158ea3b71) |
-| Fri, 03 Apr 2026 16:06:01 GMT | How to Hide Photos on iPhone in 2026 (Complete Guide) | Rasty | [Read More](https://medium.com/p/51e1e30f2497) |
-| Fri, 03 Apr 2026 16:00:06 GMT | A cow broke loose on a busy highway. Do we call the police or a cowboy? | Prince Lassey | [Read More](https://medium.com/p/ed4c654bf128) |
-| Fri, 03 Apr 2026 15:56:05 GMT | Nightlife Security in 2026: Trends Every Door Supervisor Should Prepare For | courses4u | [Read More](https://medium.com/p/872a878b6709) |
-| Fri, 03 Apr 2026 15:54:04 GMT | I Found a HIPAA Violation in a $400M Startup. They Paid Me $1,000 and Forgot the NDA. | Caleb Bacher | [Read More](https://medium.com/p/f5ff002733e3) |
-| Fri, 03 Apr 2026 15:48:00 GMT | When Even the FBI Gets Hacked: What This Cyberattack Means for All of Us | Sharanraju | [Read More](https://medium.com/p/71607351bd3d) |
-| Fri, 03 Apr 2026 15:42:27 GMT | Building Secure Web Apps From Day One | Mubashir | [Read More](https://medium.com/p/f8faffe5e1ad) |
-| Fri, 03 Apr 2026 15:34:46 GMT | Top Crypto Recovery Services in 2026 | Manonjamesq | [Read More](https://medium.com/p/14e862ce0d7c) |
-| Fri, 03 Apr 2026 15:32:07 GMT | Bebop - TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/4c883b6e392f) |
-| Fri, 03 Apr 2026 15:31:40 GMT | TryHackMe - Spring AI: CVE-2026–22738 - WriteUp | Axoloth | [Read More](https://medium.com/p/354db657d620) |
-| Fri, 03 Apr 2026 15:31:02 GMT | Autonomy Without Control: The Next Enterprise Security Crisis | Oscar Antonangelo | [Read More](https://medium.com/p/209e852c9204) |
-| Fri, 03 Apr 2026 15:21:17 GMT | Enterprise Security Audit Tool for Dynamics 365 in XrmToolBox — Role Privilege Analyzer | Moamen Ashraf | [Read More](https://medium.com/p/02c45e3c3b6d) |
-| Fri, 03 Apr 2026 15:19:54 GMT | Step-by-Step HTTP Log Analysis in Splunk: Detecting Vulnerability Scanning and Unauthorized Access… | suraj | [Read More](https://medium.com/p/9eb855c6dae7) |
