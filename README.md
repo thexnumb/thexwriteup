@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 19:29:42 GMT | Threat hunting — Popular process misbehaving | jkb | [Read More](https://medium.com/p/38528d9df366) |
+| Sat, 04 Apr 2026 19:28:10 GMT | The Model Of Secrets: Replicating a $32 Billion Corporate Security Model in My Spare Bedroom | Rafael Ben-Ari | [Read More](https://medium.com/p/85337d5cd9af) |
+| Sat, 04 Apr 2026 19:16:18 GMT | Defensive Perspective: Where Can We Stop Ransomware? | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/46be05e5156e) |
+| Sat, 04 Apr 2026 19:16:17 GMT | The recent CyHawk Africa advisory on the ByteToBreach incident is not just another breach report… | Adeola James Aderonmu | [Read More](https://medium.com/p/3bcac3546328) |
+| Sat, 04 Apr 2026 18:57:15 GMT | The Linux Security Journey — nosymfollow (No Symbolic Link Follow) File System Support | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/693c193e7ac7) |
+| Sat, 04 Apr 2026 18:52:34 GMT | Day 22: Vulnerabilities, CVE, and Patching | Siddhesh Patil | [Read More](https://medium.com/p/9e9de422fa8f) |
+| Sat, 04 Apr 2026 18:47:27 GMT | Path Traversal Vulnerability in Go: From Source Code Review to Exploitation | Sanaullah Aman Korai | [Read More](https://medium.com/p/692ae3c3a2d7) |
 | Sat, 04 Apr 2026 18:46:50 GMT | Scapy 102 — Ağı Aktif Olarak Sorgulamak | Exript | [Read More](https://medium.com/p/4feb2063307b) |
+| Sat, 04 Apr 2026 18:44:42 GMT | Smart Living Starts Here: Why a Home Assistant Door Sensor Is a Must-Have | Criminology Expert | [Read More](https://medium.com/p/31de410a6e90) |
 | Sat, 04 Apr 2026 18:39:04 GMT | The Hidden Risk in Active Directory: How One Misconfiguration Led to a Major Cyber Breach | Nathalietchoumi | [Read More](https://medium.com/p/acac3c647dab) |
 | Sat, 04 Apr 2026 18:38:33 GMT | The Complete Guide to SSH: Password, Keys, Agent & Config | Vellalacheruvu Raviteja | [Read More](https://medium.com/p/bb75d93ff945) |
 | Sat, 04 Apr 2026 18:34:57 GMT | Blind SQL Injection in Private Program Leads to $2,100 Bounty | Sachin Aneja | [Read More](https://medium.com/p/a7e11e775919) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 12:19:31 GMT | TLS vs mTLS in Kubernetes: The Difference That Could Save Your Cluster | Ramesh | [Read More](https://medium.com/p/6cabcdcda66e) |
 | Sat, 04 Apr 2026 12:12:30 GMT | Advanced Social Engineering: 15 Case Studies to Sharpen Your Cybersecurity Skills | Very Lazy Tech | [Read More](https://medium.com/p/41d0d543c244) |
 | Sat, 04 Apr 2026 12:09:01 GMT | SaaS Is More Relevant Than Ever in the Age of AI | Tarun Chandragiri | [Read More](https://medium.com/p/9513e71b5d1c) |
-| Sat, 04 Apr 2026 12:07:01 GMT | Security Guard vs Bouncer vs Surveillance: What’s Best in Punjab? | Arrow | [Read More](https://medium.com/p/d4076deced61) |
-| Sat, 04 Apr 2026 12:06:25 GMT | A Simple CI Gate Against Go Dependency Supply Chain Attacks | fchimpan | [Read More](https://medium.com/p/91d16398084a) |
-| Sat, 04 Apr 2026 12:05:07 GMT | Partner with a Leading Laravel Application Development Company: Welcome to Associative | Chavanchaitanya | [Read More](https://medium.com/p/ab7625a104f2) |
-| Sat, 04 Apr 2026 12:04:21 GMT | I Walked Into an Admin Panel -Without Being an Admin | Darshil Dhandhukia | [Read More](https://medium.com/p/1ae8a0122aaa) |
-| Sat, 04 Apr 2026 11:58:35 GMT | Learning Broken Access Control — My Journey with PortSwigger Academy | Deepak | [Read More](https://medium.com/p/b96656e8d023) |
-| Sat, 04 Apr 2026 11:57:41 GMT | Easter Message from GuardianWatch | GuardianWatch | [Read More](https://medium.com/p/85fd1e4d657f) |
-| Sat, 04 Apr 2026 11:55:37 GMT | IP Addressing Explained for Beginners (IPv4 vs IPv6) | Pathakraj | [Read More](https://medium.com/p/9bff8e2812db) |
-| Sat, 04 Apr 2026 11:55:14 GMT | Beyond Borders: Why the Ojowa Empire Cannot Ignore the Iran Escalation | Know Afrika | [Read More](https://medium.com/p/8630df8ed27b) |
