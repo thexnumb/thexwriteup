@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 16:17:37 GMT | Stored XSS via iframe Injection Leads to $505 Bounty | Sachin Aneja | [Read More](https://medium.com/p/07580e9489fb) |
+| Sat, 04 Apr 2026 16:06:32 GMT | Cybersecurity Consulting Services for U.S. Businesses | Gladius Help Desk Support | [Read More](https://medium.com/p/b3352e2a9efc) |
+| Sat, 04 Apr 2026 15:30:26 GMT | This Phishing EML is Really Creative: Edition 1.0 | lukewago | [Read More](https://medium.com/p/836f938bf0dd) |
+| Sat, 04 Apr 2026 15:30:19 GMT | TryHackMe: Blue Writeup | Manushya | [Read More](https://medium.com/p/9921506f9f72) |
 | Sat, 04 Apr 2026 15:25:29 GMT | We Are All Desperate to Be Loved and Terrified to Be Known. And We Call That Intimacy | Nokwanda Biyela | [Read More](https://medium.com/p/f53cb8352952) |
 | Sat, 04 Apr 2026 15:23:02 GMT | TryHackMe SOC Analyst Road Map Part-18 | safa kaya | [Read More](https://medium.com/p/cc260e1e9e7b) |
 | Sat, 04 Apr 2026 15:14:13 GMT | Leaking Secrets Through Error Messages: Exploiting a Verbose API Debug Response | OopsSec Store | [Read More](https://medium.com/p/872ab9df7458) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 09:51:44 GMT | Cooctus-Stories TryHackMe Walkthrough - by Yoel Yosief | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/30a63b9786ff) |
 | Sat, 04 Apr 2026 09:51:36 GMT | CTF Writeup · Digital CyberHunt 2026 — My 9th Place Writeup | PIYUSH DHARIWAL | [Read More](https://medium.com/p/089aca17ce02) |
 | Sat, 04 Apr 2026 09:50:57 GMT | AI Governance Framework for Enterprises in 2026 | Imran Hashmi | [Read More](https://medium.com/p/90fcea90e65e) |
-| Sat, 04 Apr 2026 09:46:01 GMT | A Cybersecurity Strategy Should Help the Business Move Faster | Tyson Martin | [Read More](https://medium.com/p/ed0571994dac) |
-| Sat, 04 Apr 2026 09:46:01 GMT | Insider Lab - CyberDefenders Writeup | Solvenite | [Read More](https://medium.com/p/6e9126695806) |
-| Sat, 04 Apr 2026 09:40:13 GMT | From Passenger to CEO in One API Call: The Magic of Broken Access Control | YusriAhamed | [Read More](https://medium.com/p/dbb9acf1dcdb) |
-| Sat, 04 Apr 2026 09:38:32 GMT | CVE-2024–25180 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/76a277467e77) |
