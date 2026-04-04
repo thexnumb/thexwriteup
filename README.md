@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 20:28:45 GMT | Integrating gRPC with Mendix | Gurumoorthy J | [Read More](https://medium.com/p/90a276af5758) |
+| Sat, 04 Apr 2026 20:21:22 GMT | Disclose Facebook Private Groups Appealed Content | Mustafa | [Read More](https://medium.com/p/a37231d9bb72) |
+| Sat, 04 Apr 2026 20:21:17 GMT | Cisco Just Patched a 9.8/10 Severity Flaw That Let Hackers Take Over Servers Without a Password | Decoding Daily Tech News | [Read More](https://medium.com/p/7603b0d49271) |
+| Sat, 04 Apr 2026 20:11:03 GMT | How AI Is Changing Cybersecurity | Mubashir | [Read More](https://medium.com/p/97a6f9ad67e0) |
+| Sat, 04 Apr 2026 20:06:01 GMT | Ch-Ch-Ch… Pass-Pass-Pass: My Friday the 13th Journey to eJPT | 5kullk3r | [Read More](https://medium.com/p/752eb51972ee) |
+| Sat, 04 Apr 2026 19:57:06 GMT | Finding Unique Fingerprint Keywords for FOFA, Shodan, ZoomEye, Censys, MODAT & Hunter.how | WolfSec | [Read More](https://medium.com/p/5198993c1bca) |
+| Sat, 04 Apr 2026 19:39:09 GMT | Reverse Engineering Basics | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/efc70af8deb1) |
+| Sat, 04 Apr 2026 19:38:47 GMT | No title | Thomas Perry | [Read More](https://medium.com/p/2baed80886bb) |
+| Sat, 04 Apr 2026 19:32:11 GMT | Which Machine Learning Algorithm Works Best for Intrusion Detection Systems? | Shadabpatel | [Read More](https://medium.com/p/1060f0edf1c1) |
 | Sat, 04 Apr 2026 19:29:42 GMT | Threat hunting — Popular process misbehaving | jkb | [Read More](https://medium.com/p/38528d9df366) |
 | Sat, 04 Apr 2026 19:28:10 GMT | The Model Of Secrets: Replicating a $32 Billion Corporate Security Model in My Spare Bedroom | Rafael Ben-Ari | [Read More](https://medium.com/p/85337d5cd9af) |
+| Sat, 04 Apr 2026 19:28:10 GMT | PEP Talk #2 -​ PEP 750: Template Strings | Gigi Sayfan | [Read More](https://medium.com/p/dbb95f54f686) |
 | Sat, 04 Apr 2026 19:16:18 GMT | Defensive Perspective: Where Can We Stop Ransomware? | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/46be05e5156e) |
 | Sat, 04 Apr 2026 19:16:17 GMT | The recent CyHawk Africa advisory on the ByteToBreach incident is not just another breach report… | Adeola James Aderonmu | [Read More](https://medium.com/p/3bcac3546328) |
 | Sat, 04 Apr 2026 18:57:15 GMT | The Linux Security Journey — nosymfollow (No Symbolic Link Follow) File System Support | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/693c193e7ac7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 12:49:08 GMT | Cyber Security Solutions for Businesses in 2026: Protect Your Data, Protect Your Future | Ethicalsolution | [Read More](https://medium.com/p/8e890259fdd2) |
 | Sat, 04 Apr 2026 12:47:17 GMT | How Hackers Are Using AI in 2025 — And How to Protect Yourself | Dereje Deressa | [Read More](https://medium.com/p/7864c30410ee) |
 | Sat, 04 Apr 2026 12:45:49 GMT | Anthropic Just Leaked Its Own Code — Here Is What Actually Happened | Plain Logic | [Read More](https://medium.com/p/0ce2b544b86a) |
-| Sat, 04 Apr 2026 12:45:29 GMT | How Bot Attacks Cost Us Revenue — And How We Built a Zero-Friction Auth System to Stop It | Kievin Abdirrohman | [Read More](https://medium.com/p/bf3907ccd9a4) |
-| Sat, 04 Apr 2026 12:41:42 GMT | 5 Tools For Wireless Investigations | Investigator515 | [Read More](https://medium.com/p/fd284b12f060) |
-| Sat, 04 Apr 2026 12:34:32 GMT | Part 04 — Building a Security Operations Center Homelab (Setting up Pi Hole and Unbound) | Sean Nelson | [Read More](https://medium.com/p/87babc859ea4) |
-| Sat, 04 Apr 2026 12:33:25 GMT | CSRF Bypass via Cookie Refresh (SameSite Lax) — Practical Walkthrough | PRiTi.EX | [Read More](https://medium.com/p/053b4ad77c18) |
-| Sat, 04 Apr 2026 12:31:01 GMT | Do Webcam Sites Really Require ID Verification? Here’s What’s Going On | devlin | [Read More](https://medium.com/p/5512645c221f) |
-| Sat, 04 Apr 2026 12:30:50 GMT | The Hidden Cost of Video-Based IT Training for Your Business | Certlabz | [Read More](https://medium.com/p/e6a97e56fcce) |
-| Sat, 04 Apr 2026 12:22:29 GMT | Cybersecurity in Mobile Banking Systems | joe lotus | [Read More](https://medium.com/p/d40ee6dfc883) |
-| Sat, 04 Apr 2026 12:19:31 GMT | TLS vs mTLS in Kubernetes: The Difference That Could Save Your Cluster | Ramesh | [Read More](https://medium.com/p/6cabcdcda66e) |
-| Sat, 04 Apr 2026 12:12:30 GMT | Advanced Social Engineering: 15 Case Studies to Sharpen Your Cybersecurity Skills | Very Lazy Tech | [Read More](https://medium.com/p/41d0d543c244) |
-| Sat, 04 Apr 2026 12:09:01 GMT | SaaS Is More Relevant Than Ever in the Age of AI | Tarun Chandragiri | [Read More](https://medium.com/p/9513e71b5d1c) |
