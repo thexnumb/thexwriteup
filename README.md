@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 04 Apr 2026 17:32:35 GMT | How I Earned $200 in 5 Minutes Using a Simple Broken Link Hijacking Bug | Pradeeptadi | [Read More](https://medium.com/p/41821fb41b1e) |
+| Sat, 04 Apr 2026 17:27:29 GMT | THM CTF: Offensive Security | Paulo Melo | [Read More](https://medium.com/p/a310ef09f212) |
+| Sat, 04 Apr 2026 17:25:09 GMT | How to Find Security Bugs in Source Code: A Complete Code Review Guide | WolfSec | [Read More](https://medium.com/p/c858645f70ba) |
+| Sat, 04 Apr 2026 17:23:33 GMT | Building my own password manager to learn security — Part 3 | Fahisshehandim | [Read More](https://medium.com/p/b85d10f9b37b) |
+| Sat, 04 Apr 2026 17:22:49 GMT | If HTTPS is Secure, How Do Hackers Still Steal Your Data? | AMAN KUMAR | [Read More](https://medium.com/p/a0bc24e66427) |
+| Sat, 04 Apr 2026 17:22:37 GMT | eMAPT: ALL You Need to Know | Mostafa Sharaf | [Read More](https://medium.com/p/8d38cc004613) |
+| Sat, 04 Apr 2026 17:22:30 GMT | The AI-enabled Society of the future must be Breach Ready! | Agnidipta Sarkar | [Read More](https://medium.com/p/bd99c944b9bf) |
+| Sat, 04 Apr 2026 17:14:38 GMT | The SOC 2 Compliance Checklist That Actually Makes Sense | Mahim Patil | [Read More](https://medium.com/p/4aafee627f24) |
+| Sat, 04 Apr 2026 17:11:32 GMT | Modern Fraud Attacks Are Evolving Fast: From Bot Signups to Account Takeovers | Chetan Seripally | [Read More](https://medium.com/p/d277104fddd2) |
+| Sat, 04 Apr 2026 17:10:34 GMT | Day 8: Elevating Resilience — The Architecture of Business Continuity Planning (BCP) | Ndu | [Read More](https://medium.com/p/41e20ce16036) |
+| Sat, 04 Apr 2026 17:09:23 GMT | Day 7: Digital Forensics & The Chain of Custody — Preserving Truth in the Aftermath of a Breach | Ndu | [Read More](https://medium.com/p/0ad6f3a95baf) |
+| Sat, 04 Apr 2026 17:08:32 GMT | Threat Intelligence for SOC — TryHackMe | Nway Nway Zay Ya | [Read More](https://medium.com/p/2c16450b94d2) |
+| Sat, 04 Apr 2026 17:05:54 GMT | From Low-Privileged User to Domain Admin: Active Directory Privilege Escalation Using BloodHound | Ishanchowdhury | [Read More](https://medium.com/p/6082e8376c41) |
+| Sat, 04 Apr 2026 16:55:36 GMT | 37 Percent of Companies Plan to Cut IT Jobs by the End of 2026. | Hazel | [Read More](https://medium.com/p/e7d26388e96d) |
 | Sat, 04 Apr 2026 16:17:37 GMT | Stored XSS via iframe Injection Leads to $505 Bounty | Sachin Aneja | [Read More](https://medium.com/p/07580e9489fb) |
 | Sat, 04 Apr 2026 16:06:32 GMT | Cybersecurity Consulting Services for U.S. Businesses | Gladius Help Desk Support | [Read More](https://medium.com/p/b3352e2a9efc) |
 | Sat, 04 Apr 2026 15:30:26 GMT | This Phishing EML is Really Creative: Edition 1.0 | lukewago | [Read More](https://medium.com/p/836f938bf0dd) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 11:01:01 GMT | My SC-900 Learning Journey (Day 9) — What Microsoft Defender for Cloud and Sentinel Taught Me About… | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/ad141b3fac8d) |
 | Sat, 04 Apr 2026 11:00:35 GMT | Government Jobs After Ethical Hacking Course in Delhi — Opportunities Most Students Miss (2026) | Varun Papnai | [Read More](https://medium.com/p/f1dbc125e242) |
 | Sat, 04 Apr 2026 10:55:08 GMT | HTTP vs HTTPS 為什麼多一個 S 這麼重要？ | Chiayu | [Read More](https://medium.com/p/0eaaaea09b97) |
-| Sat, 04 Apr 2026 10:50:01 GMT | Vectra AI: The Cybersecurity Platform That Finally Speaks Human | Anirudh Singh | [Read More](https://medium.com/p/9ac2743f6e11) |
-| Sat, 04 Apr 2026 10:39:51 GMT | TryHackMe Write-Up: Investigating Windows | cyberwriter | [Read More](https://medium.com/p/d21096dfe44c) |
-| Sat, 04 Apr 2026 10:37:54 GMT | Building My First Wazuh SIEM Home Lab for SOC Practice | Yugandhar CH | [Read More](https://medium.com/p/e6b8e01e3deb) |
-| Sat, 04 Apr 2026 10:31:01 GMT | What is Nmap? A Beginner’s Guide to Network Scanning | Chulanka Lakmana Thabrew | [Read More](https://medium.com/p/253d433fd5ae) |
-| Sat, 04 Apr 2026 10:31:01 GMT | Mastering Nmap: The Ultimate Guide to Network Discovery, Port Scanning, and Security Auditing | Ishant | [Read More](https://medium.com/p/5bbbac4db08e) |
-| Sat, 04 Apr 2026 10:25:35 GMT | AI Security, Trust & Governance: A Complete Guide for 2026 | Xeer Technology | [Read More](https://medium.com/p/93e45edc8bbb) |
-| Sat, 04 Apr 2026 10:19:37 GMT | The Free SIEM That Enterprises Actually Use: A Beginner's Complete Guide to Wazuh | Shewag Bhattarai | [Read More](https://medium.com/p/619918e9655c) |
-| Sat, 04 Apr 2026 10:14:45 GMT | Mastering Attack Surface Mapping — The Skill That Separates Top Bug Hunters | Pradeeptadi | [Read More](https://medium.com/p/5ac4c2aaf7b9) |
-| Sat, 04 Apr 2026 10:10:17 GMT | Buffer Overflow Attacks | Abutalibov Umud | [Read More](https://medium.com/p/c875a8a70b40) |
-| Sat, 04 Apr 2026 09:54:43 GMT | eJPT Assessment Methodologies: Enumeration CTF 1 Walk Through | gauravgrox | [Read More](https://medium.com/p/962e06510dd6) |
-| Sat, 04 Apr 2026 09:54:37 GMT | Commercial Security Services: Protecting Businesses with Professional Excellence | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/6d693f039adc) |
-| Sat, 04 Apr 2026 09:51:44 GMT | Cooctus-Stories TryHackMe Walkthrough - by Yoel Yosief | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/30a63b9786ff) |
-| Sat, 04 Apr 2026 09:51:36 GMT | CTF Writeup · Digital CyberHunt 2026 — My 9th Place Writeup | PIYUSH DHARIWAL | [Read More](https://medium.com/p/089aca17ce02) |
-| Sat, 04 Apr 2026 09:50:57 GMT | AI Governance Framework for Enterprises in 2026 | Imran Hashmi | [Read More](https://medium.com/p/90fcea90e65e) |
