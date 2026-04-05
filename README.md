@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 16:38:48 GMT | Machine Wallets & Programmable Spending: Inside AI-Driven Payment Infrastructure | Anmol Gupta | [Read More](https://medium.com/p/97586374f30f) |
+| Sun, 05 Apr 2026 16:20:34 GMT | Dime tu ADN | Roberto Sánchez V. | [Read More](https://medium.com/p/b7b466725069) |
+| Sun, 05 Apr 2026 16:17:58 GMT | PRDA: A Pre-Response Governance Framework for AI Systems | Dimitra St. Athanasopoulou | [Read More](https://medium.com/p/913e372e41ac) |
+| Sun, 05 Apr 2026 16:17:51 GMT | Introduction to Portable Executable — NIR(6) | 0xNirSec | [Read More](https://medium.com/p/4187050a7111) |
+| Sun, 05 Apr 2026 16:14:53 GMT | The LinkedIn “BrowserGate” Scandal: Are You the Product? | Brent DeRouen | [Read More](https://medium.com/p/828350921c4a) |
+| Sun, 05 Apr 2026 16:11:17 GMT | Europe’s Arctic dilemma is bigger than drilling | Moh. Wahyu Syafi'ul Mubarok | [Read More](https://medium.com/p/3f73ad2be849) |
+| Sun, 05 Apr 2026 16:11:01 GMT | The Rules of Intimacy: How to Build Unshakeable Principles in Relationships | Kay Young | [Read More](https://medium.com/p/418b8a486862) |
+| Sun, 05 Apr 2026 16:07:33 GMT | The Lazarus Playbook: How North Korea Launders Billions in Stolen Crypto — and What the Drift Hack… | Idris Oguntoye | [Read More](https://medium.com/p/86be0eeac689) |
+| Sun, 05 Apr 2026 16:01:01 GMT | Part 6: Feedback Loops: Wiring Your AppSec Pipeline to Learn from Itself | Aparna Ash Himmatramka | [Read More](https://medium.com/p/f1c2bd9d6768) |
+| Sun, 05 Apr 2026 16:00:41 GMT | Windows Fundamental Test | Khaerul Muhaemin | [Read More](https://medium.com/p/b5b33039bcfc) |
+| Sun, 05 Apr 2026 16:00:02 GMT | Redis ACL enforcement without downtime | Nicolai Antiferov | [Read More](https://medium.com/p/1f2343c3ed6c) |
 | Sun, 05 Apr 2026 15:53:14 GMT | HTB Support | Dipesh Paul | [Read More](https://medium.com/p/22733beccb19) |
 | Sun, 05 Apr 2026 15:48:10 GMT | Burp Suite for Beginners: A Complete Guide to Web Security Testing | Riya Limba | [Read More](https://medium.com/p/29b6dfdc208c) |
 | Sun, 05 Apr 2026 15:47:42 GMT | CPTS İmtahanını Necə Keçdim? 10 Günlük Marafon və Qızıl Məsləhətlər | Natig Mammadli | [Read More](https://medium.com/p/b92dcc1c97a9) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 10:05:39 GMT | Why is it so difficult to assassinate Vladimir Putin? | Deepak Choudhary | [Read More](https://medium.com/p/9edc30590393) |
 | Sun, 05 Apr 2026 10:01:04 GMT | How a Non-Technical Graduate Became a Cybersecurity Engineer in 5 Months | Victoria Coker | [Read More](https://medium.com/p/6ca158bb2287) |
 | Sun, 05 Apr 2026 10:00:47 GMT | CVE-2024–48061 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/c1bd3c16daef) |
-| Sun, 05 Apr 2026 09:52:08 GMT | OffSec Proving Grounds Lab: Loly | LIKITH GAJULA | [Read More](https://medium.com/p/069ff2cce01d) |
-| Sun, 05 Apr 2026 09:52:02 GMT | A Responsible Disclosure Story: Finding a Publicly Exposed Government AI Chatbot Through Google… | Godsent | [Read More](https://medium.com/p/899fdc86aab2) |
-| Sun, 05 Apr 2026 09:29:20 GMT | SQL Injection in GraphQL WebSocket Escalated to PII & Document Leak | Ahmed Ghadban | [Read More](https://medium.com/p/09ba7ad2800a) |
-| Sun, 05 Apr 2026 09:21:17 GMT | The Art of Finding Endpoints: A Developer’s Field Guide | Fx03 | [Read More](https://medium.com/p/6edbec6b6a03) |
-| Sun, 05 Apr 2026 09:18:43 GMT | CafeClub (Business Logic) (Bugforge.io) | 7s26Simon | [Read More](https://medium.com/p/7431d6537759) |
-| Sun, 05 Apr 2026 09:18:34 GMT | How to Spot a Fake Website Instantly (Before It Steals Your Data) | Aqila N | [Read More](https://medium.com/p/b0377a216fd7) |
-| Sun, 05 Apr 2026 09:15:37 GMT | Exploiting MCPJam Inspector: Understanding RCE via /api/mcp/connect | Raj Kumar M | [Read More](https://medium.com/p/2f2791166d2a) |
-| Sun, 05 Apr 2026 09:07:10 GMT | Zero-Day Incident Response: First 72 Hours | Pentest_Testing_Corp | [Read More](https://medium.com/p/5558b6860b87) |
-| Sun, 05 Apr 2026 09:01:01 GMT | I Tried to Hack a Bank (In My Head). I Didn’t Get Very Far. | The Fintech Engineer | [Read More](https://medium.com/p/6de827a346bf) |
-| Sun, 05 Apr 2026 08:50:51 GMT | AWS Certified Security Specialty SCS-C03: Ultimate 2026 Guide to Pass on First Attempt | Content Researcher - Community Contributor - Priya | [Read More](https://medium.com/p/7ef75d1a2127) |
-| Sun, 05 Apr 2026 08:50:08 GMT | Cyber Hygiene for Your Business: A Simple Checklist | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/8141d1e7394c) |
