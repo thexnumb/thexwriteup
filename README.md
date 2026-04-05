@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 02:32:19 GMT | Every time we click the little checkbox that says “I am not a robot,” it feels almost ironic. | Samriddhi | [Read More](https://medium.com/p/48b6ee8222d8) |
+| Sun, 05 Apr 2026 01:38:33 GMT | Felly4D Login Resmi: Cara Daftar & Main Slot Gacor Mudah | Ngebut 88 | [Read More](https://medium.com/p/42c25f070977) |
+| Sun, 05 Apr 2026 01:15:09 GMT | Hey everyone, I just wanted to share my experience in case any of you have ever run into the same… | Amit Yadav | [Read More](https://medium.com/p/b4dfe636253b) |
+| Sun, 05 Apr 2026 01:09:06 GMT | Python Playground TryHackMe Writeup — cat0x01 | cat0x01 | [Read More](https://medium.com/p/b9f9aa83f31e) |
+| Sun, 05 Apr 2026 01:03:29 GMT | In today’s post, I’m pulling back the curtain on my recent Macrofx experience and sharing here’s… | Wilson County | [Read More](https://medium.com/p/2f13f229f956) |
+| Sun, 05 Apr 2026 00:56:35 GMT | Microsoft Is Quietly Killing Local Account Lateral Movement (And Many Hackers Missed It) | Yua Mikanana | [Read More](https://medium.com/p/41bfc4b9c123) |
+| Sun, 05 Apr 2026 00:55:37 GMT | Let me walk you through my journey: Here’s how I recover my money from CaMarkets after an… | James Wake | [Read More](https://medium.com/p/96d5b5be1861) |
+| Sun, 05 Apr 2026 00:47:14 GMT | Many users face challenges when transactions don’t complete as expected on Flasherex. | Madison | [Read More](https://medium.com/p/8d73704c96e4) |
+| Sun, 05 Apr 2026 00:45:12 GMT | 4.8 Million Cybersecurity Jobs Are Open. Here’s Why You Still Can’t Get Hired. | Jbird | [Read More](https://medium.com/p/bd1fbce493be) |
+| Sun, 05 Apr 2026 00:44:01 GMT | Why Panic Is Powerful: Confessions From the Help Desk | Roger | [Read More](https://medium.com/p/a4e94da824fd) |
+| Sun, 05 Apr 2026 00:17:02 GMT | Stop Hunting Blind: Build a Structured Bug Bounty Workflow | baler3ion | [Read More](https://medium.com/p/620b16887368) |
+| Sun, 05 Apr 2026 00:04:26 GMT | Breaking Into Cybersecurity in 2026: What Changed, What Still Matters, and Where to Focus | Jason Lawrence | [Read More](https://medium.com/p/ffc08afc16fd) |
 | Sat, 04 Apr 2026 23:33:05 GMT | The Great Home Network War: A Certified Network Engineer vs. One Cheeky Boy ⚔️ | Karlsen Park | [Read More](https://medium.com/p/10bad1e75596) |
 | Sat, 04 Apr 2026 23:05:31 GMT | If you need secure your ssh server then use onuion-sshd AI Agent. | Nihaddev | [Read More](https://medium.com/p/07c4d306174a) |
 | Sat, 04 Apr 2026 23:02:22 GMT | CVE-2023–40582 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/8188b631f010) |
@@ -101,15 +113,3 @@ Tech Privacy Is Wrong | 0x88CK | [Read More](https://medium.com/p/23aaf0c9b2e7) 
 | Sat, 04 Apr 2026 15:01:01 GMT | Internet Story #2 — From the BBS’ to Internet | 'Wine' Roland Mucciarelli | [Read More](https://medium.com/p/5598eff70df5) |
 | Sat, 04 Apr 2026 15:00:21 GMT | Top 10 Google Dorks for Bug Bounty (Beginner to Pro Guide) | Riya Limba | [Read More](https://medium.com/p/35678b3d0524) |
 | Sat, 04 Apr 2026 14:49:51 GMT | How the axios supply chain attack worked — and how OS-level sandboxing stops it | Claudexlabs | [Read More](https://medium.com/p/dc6c3110d36b) |
-| Sat, 04 Apr 2026 14:45:24 GMT | The Anatomy of a Romance Scam: How Trust Becomes a Weapon | Ana Dolores | [Read More](https://medium.com/p/a18450d1ceb3) |
-| Sat, 04 Apr 2026 14:42:36 GMT | Smag Grotto — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/50e8947b1d5f) |
-| Sat, 04 Apr 2026 14:36:39 GMT | June 2026: The Secure Boot Problem Nobody Wants on Their Calendar | Travis Ray Caverhill | [Read More](https://medium.com/p/2c527eb03e2b) |
-| Sat, 04 Apr 2026 14:34:23 GMT | When Protection Becomes Necessary: Documenting Escalation, Safety Concerns, and Standing My Ground | Esther Ijewere | [Read More](https://medium.com/p/e5730a03b867) |
-| Sat, 04 Apr 2026 14:32:32 GMT | The 2029 Deadline: Google’s Quantum Leap and the End of Bitcoin as We Know It | Tuğrul Gedikli | [Read More](https://medium.com/p/84d91140c61f) |
-| Sat, 04 Apr 2026 14:29:21 GMT | BUG BOUNTY from Zero To Hero! All secrects finally revealed !! @lazyhackerbd | Lazyhackerbd | [Read More](https://medium.com/p/d3be5f754a4a) |
-| Sat, 04 Apr 2026 14:21:01 GMT | Why LLMs Hallucinate Vulnerabilities Part Two: Evolution of AI Red Teaming | Aadith Sukumar | [Read More](https://medium.com/p/8ee8d63c57c9) |
-| Sat, 04 Apr 2026 14:19:07 GMT | When Attackers Use AI Better Than Developers | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/9f049f2dfcb2) |
-| Sat, 04 Apr 2026 14:16:43 GMT | Agentic AI- Lessons and takeaways from the litellm attacks | AKLI ILIAS | [Read More](https://medium.com/p/affe623d0255) |
-| Sat, 04 Apr 2026 14:15:35 GMT | They Already Have Your Password. Now They’re Spamming Your Phone Until You Break. | scofield lori | [Read More](https://medium.com/p/75704d95a466) |
-| Sat, 04 Apr 2026 14:14:33 GMT | Your AI Agent Has Read Your Secrets. Here’s How to Stop It From Exposing Them | Jayanth Sattineni | [Read More](https://medium.com/p/a45d96e278fa) |
-| Sat, 04 Apr 2026 14:07:30 GMT | Strategic Industrial Cyber Warfare Analysis — Briefing 10 / Series Final | Muhammad Ali Khan | [Read More](https://medium.com/p/f95e8f7eec65) |
