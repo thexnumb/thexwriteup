@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 12:44:05 GMT | ☁️ From SSRF to Full AWS Takeover: A Hands-On Cloud Security Lab | Ashutosh Hacks | [Read More](https://medium.com/p/641a48e0eb02) |
+| Sun, 05 Apr 2026 12:43:33 GMT | I Was Gaming ChatGPT for Free. Here’s Why I Stopped. | jitt | [Read More](https://medium.com/p/055dd7940b96) |
+| Sun, 05 Apr 2026 12:40:26 GMT | Stop Leaking Your Code Secrets: A Beginner’s Guide to Gitleaks | Abhishek Singh | [Read More](https://medium.com/p/4014258557bc) |
+| Sun, 05 Apr 2026 12:39:35 GMT | How Smart Contract Security Researchers Make Money | Abraham | [Read More](https://medium.com/p/f619764ce318) |
+| Sun, 05 Apr 2026 12:37:40 GMT | eJPT The Metasploit Framework CTF 2 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/e69ce0cc0b0c) |
+| Sun, 05 Apr 2026 12:31:27 GMT | Client-Side Authentication: Tarayıcıda Saklanan Şifreler Neden Tehlikelidir? | MertErenAİ | [Read More](https://medium.com/p/047a48043d02) |
+| Sun, 05 Apr 2026 12:28:52 GMT | Why the Axios attack wasn’t about frameworks, it was about the dependency model. | Mete Han | [Read More](https://medium.com/p/7dfba3cda741) |
+| Sun, 05 Apr 2026 12:28:40 GMT | Ignite — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/37319c7e255c) |
+| Sun, 05 Apr 2026 12:28:25 GMT | Metode Searching dalam Python | Azka | [Read More](https://medium.com/p/80665656e707) |
+| Sun, 05 Apr 2026 12:26:13 GMT | TeamPCP Tedarik Zinciri İhlali Analizi: Bulut Güvenliğinde Gizli Tehlikeler | AltHack Security | [Read More](https://medium.com/p/6566d55663d0) |
+| Sun, 05 Apr 2026 12:13:42 GMT | Digital Exchange #1x03: A 25‑Character Recovery Code and a Medical App That Forgot How Humans Work | Tetsuji Kondo | [Read More](https://medium.com/p/181d31ccb700) |
+| Sun, 05 Apr 2026 12:10:00 GMT | The Claude Code Leak: What’s Now Publicly Usable (and Abusable) — And Why Anthropic’s Containment… | Berend Watchus | [Read More](https://medium.com/p/22891da6ff7c) |
+| Sun, 05 Apr 2026 12:07:12 GMT | The Claude Code Leak: What’s Now Publicly Usable (and Abusable) — And Why Anthropic’s Containment… | Berend Watchus | [Read More](https://medium.com/p/023677bb4f42) |
+| Sun, 05 Apr 2026 11:59:16 GMT | Day 3 of Gaining Cybersecurity Knowledge as a Cybersecurity Student | Samatham mahesh | [Read More](https://medium.com/p/408517b3d7f5) |
+| Sun, 05 Apr 2026 11:52:27 GMT | Post 3 — What CTI Teams Can Do Today to Prepare for Quantum Risk | Leonard Okyere Afeke | [Read More](https://medium.com/p/43e6ace102d5) |
+| Sun, 05 Apr 2026 11:48:27 GMT | FlareVM: Arsenal of Tools | Aakash Rajput | [Read More](https://medium.com/p/3ce6a8cd0da0) |
+| Sun, 05 Apr 2026 11:43:08 GMT | Anthropic Leaked Its Own Nuclear Option. | Seven Cubed Seven Labs | [Read More](https://medium.com/p/47bdc04c0866) |
+| Sun, 05 Apr 2026 11:41:48 GMT | Why Multi-Cloud Is the Smartest Move Your Business Can Make Today | Modern Vision | [Read More](https://medium.com/p/a7a5b06112bc) |
+| Sun, 05 Apr 2026 11:37:24 GMT | Introduction to cloud computing and google cloud platform(GCP) | unica 02 | [Read More](https://medium.com/p/3f7df9bc3de6) |
+| Sun, 05 Apr 2026 11:37:10 GMT | Chrome Has Been Hacked Four Times This Year, And It’s Only April. Are You Safe Online? | CyberSamm | [Read More](https://medium.com/p/15500471d688) |
+| Sun, 05 Apr 2026 11:35:29 GMT | CSRF (Cross-Site Request Forgery) Writeup | some guy | [Read More](https://medium.com/p/926b0908d05c) |
+| Sun, 05 Apr 2026 11:35:04 GMT | Managing and Securing Environment Variables (.env): A Look at evnx | Suchismita Maharana | [Read More](https://medium.com/p/a62bf8c4fafb) |
+| Sun, 05 Apr 2026 11:30:45 GMT | I Was Running Away for Years. Then One Phone Call Broke the Pattern. | Farhad | [Read More](https://medium.com/p/e3a43091797a) |
 | Sun, 05 Apr 2026 11:29:04 GMT | TryHackMe-Room3-Search Skills (Mastering the Most Underrated Skill in Cybersecurity) | Hafsa Sarfraz | [Read More](https://medium.com/p/0a4648edbd92) |
 | Sun, 05 Apr 2026 11:11:40 GMT | How Threat Actors Use GitHub (And Why Most People Miss It) | Paritosh | [Read More](https://medium.com/p/fdc76f10c6d7) |
 | Sun, 05 Apr 2026 11:06:01 GMT | The Security Industry Has a Pricing Problem. I'm Building the Fix. | Saint Zero Day | [Read More](https://medium.com/p/791db8efb4d6) |
@@ -89,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 04:12:52 GMT | Quantum Computing Advances Accelerate Encryption Threat | Valentin Podkamennyi | [Read More](https://medium.com/p/869428f33565) |
 | Sun, 05 Apr 2026 03:40:37 GMT | Bot Hesaplar Nedir? | Ali Yaşe | [Read More](https://medium.com/p/9c412fe58f38) |
 | Sun, 05 Apr 2026 03:15:33 GMT | How I got my first Hall of Fame — A stepping stone in bug bounty | Khajafaiz | [Read More](https://medium.com/p/04a51047e30d) |
-| Sun, 05 Apr 2026 03:10:54 GMT | Auth Mistakes Every Vibe Coder Ships to Production | Sanath R | [Read More](https://medium.com/p/e37f73647e64) |
-| Sun, 05 Apr 2026 03:05:10 GMT | He Only Clicked Once And Lost $9,800 in 12 Minutes | Security Signals | [Read More](https://medium.com/p/1e34c32bca16) |
-| Sun, 05 Apr 2026 03:01:02 GMT | Fundamentals of Information Security — Chapter 03 | Mani Gayathri | [Read More](https://medium.com/p/32ce9b5799c2) |
-| Sun, 05 Apr 2026 02:32:19 GMT | Every time we click the little checkbox that says “I am not a robot,” it feels almost ironic. | Samriddhi | [Read More](https://medium.com/p/48b6ee8222d8) |
-| Sun, 05 Apr 2026 01:38:33 GMT | Felly4D Login Resmi: Cara Daftar & Main Slot Gacor Mudah | Ngebut 88 | [Read More](https://medium.com/p/42c25f070977) |
-| Sun, 05 Apr 2026 01:15:09 GMT | Hey everyone, I just wanted to share my experience in case any of you have ever run into the same… | Amit Yadav | [Read More](https://medium.com/p/b4dfe636253b) |
-| Sun, 05 Apr 2026 01:09:06 GMT | Python Playground TryHackMe Writeup — cat0x01 | cat0x01 | [Read More](https://medium.com/p/b9f9aa83f31e) |
-| Sun, 05 Apr 2026 01:03:29 GMT | In today’s post, I’m pulling back the curtain on my recent Macrofx experience and sharing here’s… | Wilson County | [Read More](https://medium.com/p/2f13f229f956) |
-| Sun, 05 Apr 2026 00:56:35 GMT | Microsoft Is Quietly Killing Local Account Lateral Movement (And Many Hackers Missed It) | Yua Mikanana | [Read More](https://medium.com/p/41bfc4b9c123) |
-| Sun, 05 Apr 2026 00:55:37 GMT | Let me walk you through my journey: Here’s how I recover my money from CaMarkets after an… | James Wake | [Read More](https://medium.com/p/96d5b5be1861) |
-| Sun, 05 Apr 2026 00:47:14 GMT | Many users face challenges when transactions don’t complete as expected on Flasherex. | Madison | [Read More](https://medium.com/p/8d73704c96e4) |
-| Sun, 05 Apr 2026 00:45:12 GMT | 4.8 Million Cybersecurity Jobs Are Open. Here’s Why You Still Can’t Get Hired. | Jbird | [Read More](https://medium.com/p/bd1fbce493be) |
-| Sun, 05 Apr 2026 00:44:01 GMT | Why Panic Is Powerful: Confessions From the Help Desk | Roger | [Read More](https://medium.com/p/a4e94da824fd) |
-| Sun, 05 Apr 2026 00:17:02 GMT | Stop Hunting Blind: Build a Structured Bug Bounty Workflow | baler3ion | [Read More](https://medium.com/p/620b16887368) |
-| Sun, 05 Apr 2026 00:04:26 GMT | Breaking Into Cybersecurity in 2026: What Changed, What Still Matters, and Where to Focus | Jason Lawrence | [Read More](https://medium.com/p/ffc08afc16fd) |
-| Sat, 04 Apr 2026 23:33:05 GMT | The Great Home Network War: A Certified Network Engineer vs. One Cheeky Boy ⚔️ | Karlsen Park | [Read More](https://medium.com/p/10bad1e75596) |
-| Sat, 04 Apr 2026 23:05:31 GMT | If you need secure your ssh server then use onuion-sshd AI Agent. | Nihaddev | [Read More](https://medium.com/p/07c4d306174a) |
-| Sat, 04 Apr 2026 23:02:22 GMT | CVE-2023–40582 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/8188b631f010) |
-| Sat, 04 Apr 2026 23:01:01 GMT | 2020 SolarWinds Turned Artifact Lineage Into a Customer-Facing Delay | James Kuhman | [Read More](https://medium.com/p/6484ffd705c4) |
-| Sat, 04 Apr 2026 22:49:43 GMT | TryHackMe LazyAdmin Walkthrough: Step-by-Step Writeup | 5um1t0x | [Read More](https://medium.com/p/9c213eb66f08) |
-| Sat, 04 Apr 2026 22:46:16 GMT | Novčanik (Wallet) | Beşir Alkaya | [Read More](https://medium.com/p/45a7ccaf7284) |
-| Sat, 04 Apr 2026 22:45:19 GMT | Everything You Think You Know About 
-Tech Privacy Is Wrong | 0x88CK | [Read More](https://medium.com/p/23aaf0c9b2e7) |
-| Sat, 04 Apr 2026 22:42:21 GMT | Critical Cybersecurity and DevOps News Updates - 2026.04.04 - April 4th, 2026 | MrComputerScience | [Read More](https://medium.com/p/8b47b22bbe1c) |
