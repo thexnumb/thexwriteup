@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 09:29:20 GMT | SQL Injection in GraphQL WebSocket Escalated to PII & Document Leak | Ahmed Ghadban | [Read More](https://medium.com/p/09ba7ad2800a) |
+| Sun, 05 Apr 2026 09:21:17 GMT | The Art of Finding Endpoints: A Developer’s Field Guide | Fx03 | [Read More](https://medium.com/p/6edbec6b6a03) |
+| Sun, 05 Apr 2026 09:18:43 GMT | CafeClub (Business Logic) (Bugforge.io) | 7s26Simon | [Read More](https://medium.com/p/7431d6537759) |
+| Sun, 05 Apr 2026 09:18:34 GMT | How to Spot a Fake Website Instantly (Before It Steals Your Data) | Aqila N | [Read More](https://medium.com/p/b0377a216fd7) |
+| Sun, 05 Apr 2026 09:15:37 GMT | Exploiting MCPJam Inspector: Understanding RCE via /api/mcp/connect | Raj Kumar M | [Read More](https://medium.com/p/2f2791166d2a) |
+| Sun, 05 Apr 2026 09:07:10 GMT | Zero-Day Incident Response: First 72 Hours | Pentest_Testing_Corp | [Read More](https://medium.com/p/5558b6860b87) |
+| Sun, 05 Apr 2026 09:01:01 GMT | I Tried to Hack a Bank (In My Head). I Didn’t Get Very Far. | The Fintech Engineer | [Read More](https://medium.com/p/6de827a346bf) |
+| Sun, 05 Apr 2026 08:50:51 GMT | AWS Certified Security Specialty SCS-C03: Ultimate 2026 Guide to Pass on First Attempt | Content Researcher - Community Contributor - Priya | [Read More](https://medium.com/p/7ef75d1a2127) |
+| Sun, 05 Apr 2026 08:50:08 GMT | Cyber Hygiene for Your Business: A Simple Checklist | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/8141d1e7394c) |
 | Sun, 05 Apr 2026 08:37:46 GMT | How to Leverage TPRM Technology According to Gartner | Oran F | [Read More](https://medium.com/p/d50784f6b3d3) |
 | Sun, 05 Apr 2026 08:22:50 GMT | What I Learned From Earning 32+ IT Certifications | Jhon Arzu-Gil | [Read More](https://medium.com/p/ed05573b50fd) |
 | Sun, 05 Apr 2026 08:21:45 GMT | How to Start Linux Career After 12th — Complete Guide | cyber security Updates | [Read More](https://medium.com/p/ebc223049eef) |
@@ -104,12 +113,3 @@ Tech Privacy Is Wrong | 0x88CK | [Read More](https://medium.com/p/23aaf0c9b2e7) 
 | Sat, 04 Apr 2026 20:06:01 GMT | Ch-Ch-Ch… Pass-Pass-Pass: My Friday the 13th Journey to eJPT | 5kullk3r | [Read More](https://medium.com/p/752eb51972ee) |
 | Sat, 04 Apr 2026 19:57:06 GMT | Finding Unique Fingerprint Keywords for FOFA, Shodan, ZoomEye, Censys, MODAT & Hunter.how | WolfSec | [Read More](https://medium.com/p/5198993c1bca) |
 | Sat, 04 Apr 2026 19:39:09 GMT | Reverse Engineering Basics | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/efc70af8deb1) |
-| Sat, 04 Apr 2026 19:38:47 GMT | No title | Thomas Perry | [Read More](https://medium.com/p/2baed80886bb) |
-| Sat, 04 Apr 2026 19:32:11 GMT | Which Machine Learning Algorithm Works Best for Intrusion Detection Systems? | Shadabpatel | [Read More](https://medium.com/p/1060f0edf1c1) |
-| Sat, 04 Apr 2026 19:29:42 GMT | Threat hunting — Popular process misbehaving | jkb | [Read More](https://medium.com/p/38528d9df366) |
-| Sat, 04 Apr 2026 19:28:10 GMT | The Model Of Secrets: Replicating a $32 Billion Corporate Security Model in My Spare Bedroom | Rafael Ben-Ari | [Read More](https://medium.com/p/85337d5cd9af) |
-| Sat, 04 Apr 2026 19:28:10 GMT | PEP Talk #2 -​ PEP 750: Template Strings | Gigi Sayfan | [Read More](https://medium.com/p/dbb95f54f686) |
-| Sat, 04 Apr 2026 19:16:18 GMT | Defensive Perspective: Where Can We Stop Ransomware? | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/46be05e5156e) |
-| Sat, 04 Apr 2026 19:16:17 GMT | The recent CyHawk Africa advisory on the ByteToBreach incident is not just another breach report… | Adeola James Aderonmu | [Read More](https://medium.com/p/3bcac3546328) |
-| Sat, 04 Apr 2026 18:57:15 GMT | The Linux Security Journey — nosymfollow (No Symbolic Link Follow) File System Support | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/693c193e7ac7) |
-| Sat, 04 Apr 2026 18:52:34 GMT | Day 22: Vulnerabilities, CVE, and Patching | Siddhesh Patil | [Read More](https://medium.com/p/9e9de422fa8f) |
