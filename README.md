@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 06:24:08 GMT | CyberDefenders — DumpMe Lab Writeup | JBXSec | [Read More](https://medium.com/p/d2a69476cf95) |
+| Sun, 05 Apr 2026 06:22:38 GMT | Lab 1 — Windows Event Viewer Basics (SOC Level 1 Journey ) | Hemaprasadpotnuru | [Read More](https://medium.com/p/2cf84b6d4a0e) |
+| Sun, 05 Apr 2026 06:19:16 GMT | First Look inside Databricks Lakewatch: A Modern, Open, Agentic SIEM for the Agentic Era | hitesh sahni | [Read More](https://medium.com/p/05f07e0250f9) |
+| Sun, 05 Apr 2026 06:18:59 GMT | RidoMovies 2026: Complete Guide to Features, Safety, and Alternatives | Infoblessings | [Read More](https://medium.com/p/28b18fd53109) |
+| Sun, 05 Apr 2026 06:09:37 GMT | Anthropic Didn’t Fail at AI Safety. It Was Only Selling One Kind. | Bloom | [Read More](https://medium.com/p/8cdff184e28c) |
+| Sun, 05 Apr 2026 06:05:32 GMT | Beyond JWTs: Preventing API Replay Attacks in React Native & .NET (Financial-Grade Security) | Muhammad Saad Bin Nadeem | [Read More](https://medium.com/p/5873603f03ef) |
+| Sun, 05 Apr 2026 05:58:17 GMT | What actually keeps your office network secure when you’re working from home? | PacketRoute | [Read More](https://medium.com/p/2d1b7e8a9f27) |
+| Sun, 05 Apr 2026 05:57:35 GMT | Your Coffee Machine Just Became a Hacker’s Best Friend | UK Cyber Defence | [Read More](https://medium.com/p/2289c4a22985) |
+| Sun, 05 Apr 2026 05:56:01 GMT | 27 Seconds from Breach to Lateral Movement | Patrik Žák | [Read More](https://medium.com/p/f30d3e19593d) |
+| Sun, 05 Apr 2026 05:52:32 GMT | My biggest cybersecurity fails… | Stanislav Klevtsov | [Read More](https://medium.com/p/3cadc8ad08ee) |
+| Sun, 05 Apr 2026 05:50:40 GMT | Anthropic Handed the World Its Secret Sauce — By Accident. Let’s Stop Pretending That’s Okay. | StackedThoughts | [Read More](https://medium.com/p/d1f2d6dc1875) |
+| Sun, 05 Apr 2026 05:47:44 GMT | Shifting the Blue Team Mindset — Architecting Prevention & Detection, not just response | Raymond | [Read More](https://medium.com/p/4c32b99c6d52) |
+| Sun, 05 Apr 2026 05:44:34 GMT | The Invisible War | 1v0t | [Read More](https://medium.com/p/25dde4d47912) |
+| Sun, 05 Apr 2026 05:36:20 GMT | I Stopped Reading Cybersecurity News — And Built an AI That Does It For Me | Soumyakhaskel21 | [Read More](https://medium.com/p/4fbd75df6541) |
+| Sun, 05 Apr 2026 05:35:32 GMT | The Rise of AI Security Analysts | Vijay Kumar Gupta | [Read More](https://medium.com/p/67ca41062144) |
 | Sun, 05 Apr 2026 05:06:11 GMT | ATO in Bug Bounty: From Passive Recon to an ATO and a Reward | Vanshrathore | [Read More](https://medium.com/p/8ab9cae4e90f) |
 | Sun, 05 Apr 2026 05:05:15 GMT | Philosophy and Information Technology,Philosophy of Information Technology,Philosophy of Forms | Haruka Matsukasa | [Read More](https://medium.com/p/d2234e6af265) |
 | Sun, 05 Apr 2026 05:04:05 GMT | 99.2% AND A BROKEN DREAM: WHY I STOPPED TELLING PEOPLE MY GOALS | Sweet Candy | [Read More](https://medium.com/p/bd48827f04a6) |
@@ -98,18 +113,3 @@ Tech Privacy Is Wrong | 0x88CK | [Read More](https://medium.com/p/23aaf0c9b2e7) 
 | Sat, 04 Apr 2026 17:55:52 GMT | LinkedIn Threat Landscape 2026: What Every Professional Needs to Know Right Now | Michael | [Read More](https://medium.com/p/0856e14bf622) |
 | Sat, 04 Apr 2026 17:55:44 GMT | Windows Notepad’de Kritik RCE: Markdown Linkleri Üzerinden Komut Çalıştırma (CVE-2026–20841) | AltHack Security | [Read More](https://medium.com/p/70cdc4bfe5ab) |
 | Sat, 04 Apr 2026 17:55:18 GMT | PhantomInject: How I Built a Prompt Injection Engine for AI Systems | Nisarg Patel | [Read More](https://medium.com/p/26750f001fc8) |
-| Sat, 04 Apr 2026 17:46:46 GMT | THM CTF: Defensive Security | Paulo Melo | [Read More](https://medium.com/p/d1ff2f5d70c0) |
-| Sat, 04 Apr 2026 17:44:14 GMT | Xalgorix: The Most Powerful Open-Source AI Pentesting Agent You Need to Know About | Krishna Kumar | [Read More](https://medium.com/p/35ccd23c6407) |
-| Sat, 04 Apr 2026 17:42:19 GMT | Penetration Testing on Metasploitable 2: A Beginner’s Complete Walkthrough | Pa1cosmic | [Read More](https://medium.com/p/1ba0e556047b) |
-| Sat, 04 Apr 2026 17:39:49 GMT | How I Built an AI-Powered Vulnerability Monitor — From Batch Job to Developer Dashboard | Satyaraj Dhulipudi | [Read More](https://medium.com/p/94fc8f89282c) |
-| Sat, 04 Apr 2026 17:32:35 GMT | How I Earned $200 in 5 Minutes Using a Simple Broken Link Hijacking Bug | Pradeeptadi | [Read More](https://medium.com/p/41821fb41b1e) |
-| Sat, 04 Apr 2026 17:27:29 GMT | THM CTF: Offensive Security | Paulo Melo | [Read More](https://medium.com/p/a310ef09f212) |
-| Sat, 04 Apr 2026 17:25:09 GMT | How to Find Security Bugs in Source Code: A Complete Code Review Guide | WolfSec | [Read More](https://medium.com/p/c858645f70ba) |
-| Sat, 04 Apr 2026 17:23:33 GMT | Building my own password manager to learn security — Part 3 | Fahisshehandim | [Read More](https://medium.com/p/b85d10f9b37b) |
-| Sat, 04 Apr 2026 17:22:49 GMT | If HTTPS is Secure, How Do Hackers Still Steal Your Data? | AMAN KUMAR | [Read More](https://medium.com/p/a0bc24e66427) |
-| Sat, 04 Apr 2026 17:22:37 GMT | eMAPT: ALL You Need to Know | Mostafa Sharaf | [Read More](https://medium.com/p/8d38cc004613) |
-| Sat, 04 Apr 2026 17:22:30 GMT | The AI-enabled Society of the future must be Breach Ready! | Agnidipta Sarkar | [Read More](https://medium.com/p/bd99c944b9bf) |
-| Sat, 04 Apr 2026 17:14:38 GMT | The SOC 2 Compliance Checklist That Actually Makes Sense | Mahim Patil | [Read More](https://medium.com/p/4aafee627f24) |
-| Sat, 04 Apr 2026 17:11:32 GMT | Modern Fraud Attacks Are Evolving Fast: From Bot Signups to Account Takeovers | Chetan Seripally | [Read More](https://medium.com/p/d277104fddd2) |
-| Sat, 04 Apr 2026 17:10:34 GMT | Day 8: Elevating Resilience — The Architecture of Business Continuity Planning (BCP) | Ndu | [Read More](https://medium.com/p/41e20ce16036) |
-| Sat, 04 Apr 2026 17:09:23 GMT | Day 7: Digital Forensics & The Chain of Custody — Preserving Truth in the Aftermath of a Breach | Ndu | [Read More](https://medium.com/p/0ad6f3a95baf) |
