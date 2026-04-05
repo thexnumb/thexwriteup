@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 07:22:06 GMT | The Invisible Threat: Detecting Early-Stage Phishing & Scam Campaigns | ThreatWatch360 | [Read More](https://medium.com/p/c5d36ef97336) |
+| Sun, 05 Apr 2026 07:10:01 GMT | Some weird things about me | Vinod Bhardwaj | [Read More](https://medium.com/p/ae51f530158c) |
+| Sun, 05 Apr 2026 07:06:59 GMT | Have A Break — TryHackMe OSINT CTF Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/4f631667fc7e) |
+| Sun, 05 Apr 2026 07:02:11 GMT | Phishing Toolkit Review: 15 Tools in 2026 Every Cybersecurity Pro Should Know | Very Lazy Tech | [Read More](https://medium.com/p/d0a97262f890) |
+| Sun, 05 Apr 2026 07:01:02 GMT | Kerberoasting: Kurumsal Ağların Sessiz Katili | Fatih Yuksektepe | [Read More](https://medium.com/p/9c236c6e59c6) |
+| Sun, 05 Apr 2026 06:54:16 GMT | From Zero to Full Recon: How Subfinder Starts the Hunt | Fateyaly | [Read More](https://medium.com/p/d73034b27523) |
+| Sun, 05 Apr 2026 06:49:25 GMT | Iam new to crypto. how to send my 5,000 USDT from my Metamask wallet to binance ? | Jina | [Read More](https://medium.com/p/ebe342a333cc) |
+| Sun, 05 Apr 2026 06:45:49 GMT | System 0: Privacy Before Processing | Irisprotocol | [Read More](https://medium.com/p/f1736a7c81de) |
 | Sun, 05 Apr 2026 06:24:08 GMT | CyberDefenders — DumpMe Lab Writeup | JBXSec | [Read More](https://medium.com/p/d2a69476cf95) |
 | Sun, 05 Apr 2026 06:22:38 GMT | Lab 1 — Windows Event Viewer Basics (SOC Level 1 Journey ) | Hemaprasadpotnuru | [Read More](https://medium.com/p/2cf84b6d4a0e) |
 | Sun, 05 Apr 2026 06:19:16 GMT | First Look inside Databricks Lakewatch: A Modern, Open, Agentic SIEM for the Agentic Era | hitesh sahni | [Read More](https://medium.com/p/05f07e0250f9) |
@@ -105,11 +113,3 @@ Tech Privacy Is Wrong | 0x88CK | [Read More](https://medium.com/p/23aaf0c9b2e7) 
 | Sat, 04 Apr 2026 18:34:57 GMT | Blind SQL Injection in Private Program Leads to $2,100 Bounty | Sachin Aneja | [Read More](https://medium.com/p/a7e11e775919) |
 | Sat, 04 Apr 2026 18:23:26 GMT | Built an Automated Network Scanner That Updates Itself Every 10 Minutes (Real-Time Cyber… | Pa1cosmic | [Read More](https://medium.com/p/488b4ed2285a) |
 | Sat, 04 Apr 2026 18:20:14 GMT | Threat Hunting Case Study: LOLBins, Registry Staging & Fileless C2 Attack | Vidhi patel | [Read More](https://medium.com/p/079d850284f0) |
-| Sat, 04 Apr 2026 18:18:17 GMT | Underlying Malware: Remcos RAT | Nitya Singh | [Read More](https://medium.com/p/bdacc12dcdcc) |
-| Sat, 04 Apr 2026 18:13:09 GMT | Pro-tips for better bug bounty reports | Pablo Vergara | [Read More](https://medium.com/p/c461d23e6f7e) |
-| Sat, 04 Apr 2026 18:06:05 GMT | Open Source SIEM with SOAR vs. Traditional SIEM: A Modern SOC Perspective | UTMStack | [Read More](https://medium.com/p/3160ca56c333) |
-| Sat, 04 Apr 2026 18:05:37 GMT | The Weakest Link in Cybersecurity: Humans as Gatekeepers | Dreampursuiters | [Read More](https://medium.com/p/c8c518af1d48) |
-| Sat, 04 Apr 2026 18:01:01 GMT | ثغرة CVE-2026–20093 في Cisco IMC: تخطٍ كامل للمصادقة بصلاحيات Admin (CVSS 9.8) | Rynbsd | [Read More](https://medium.com/p/4418286f3fa8) |
-| Sat, 04 Apr 2026 17:55:52 GMT | LinkedIn Threat Landscape 2026: What Every Professional Needs to Know Right Now | Michael | [Read More](https://medium.com/p/0856e14bf622) |
-| Sat, 04 Apr 2026 17:55:44 GMT | Windows Notepad’de Kritik RCE: Markdown Linkleri Üzerinden Komut Çalıştırma (CVE-2026–20841) | AltHack Security | [Read More](https://medium.com/p/70cdc4bfe5ab) |
-| Sat, 04 Apr 2026 17:55:18 GMT | PhantomInject: How I Built a Prompt Injection Engine for AI Systems | Nisarg Patel | [Read More](https://medium.com/p/26750f001fc8) |
