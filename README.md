@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 15:53:14 GMT | HTB Support | Dipesh Paul | [Read More](https://medium.com/p/22733beccb19) |
+| Sun, 05 Apr 2026 15:48:10 GMT | Burp Suite for Beginners: A Complete Guide to Web Security Testing | Riya Limba | [Read More](https://medium.com/p/29b6dfdc208c) |
+| Sun, 05 Apr 2026 15:47:42 GMT | CPTS İmtahanını Necə Keçdim? 10 Günlük Marafon və Qızıl Məsləhətlər | Natig Mammadli | [Read More](https://medium.com/p/b92dcc1c97a9) |
+| Sun, 05 Apr 2026 15:40:02 GMT | Forget JWT: Paseto Solved the 4 Security Holes Nobody Warned You About | The Thread Whisperer | [Read More](https://medium.com/p/f4d80efff4cf) |
+| Sun, 05 Apr 2026 15:37:36 GMT | Anatomy of a Keystroke Injection Attack : Building and Defending with ESP32 | Aadhityan Thiyagaraj | [Read More](https://medium.com/p/5dedb95b72bd) |
+| Sun, 05 Apr 2026 15:36:24 GMT | Water Bottle (THM) Tryhackme Walkthrough and Answer | Lawvye | [Read More](https://medium.com/p/323d15773389) |
+| Sun, 05 Apr 2026 15:35:42 GMT | Broken Authentication — How Simple Login Flaws Lead to Account Takeover (P1 Guide) | Pradeeptadi | [Read More](https://medium.com/p/e141106493e3) |
+| Sun, 05 Apr 2026 15:34:26 GMT | From LSASS Access to BYOVD: A DragonForce Attack Chain Analysis | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/ae1654cd1eb9) |
+| Sun, 05 Apr 2026 15:32:08 GMT | ️ API Pentesting Mastery Series - Part 1: Essential Tools for Interacting with APIs ️ | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/4acfc912caa7) |
+| Sun, 05 Apr 2026 15:31:38 GMT | Building an Operating System from Scratch — Part 0: Introduction | Hack-Bat | [Read More](https://medium.com/p/06577755c68d) |
+| Sun, 05 Apr 2026 15:22:38 GMT | Open Source Does Not Have a PR Problem Anymore. It Has a Trust Problem | The Atomic Architect | [Read More](https://medium.com/p/be54c2a20e44) |
+| Sun, 05 Apr 2026 15:13:47 GMT | Windows Basic Command Assessment | Khaerul Muhaemin | [Read More](https://medium.com/p/0309d4ddd83b) |
+| Sun, 05 Apr 2026 15:08:00 GMT | Your AI Assistant Is a Security Incident Waiting to Happen. Here’s What OWASP Says to Do About It. | Akshat Yadav | [Read More](https://medium.com/p/c2739c4966ed) |
+| Sun, 05 Apr 2026 15:00:35 GMT | A Practitioner’s Guide to Organizational Visibility | Jose Carlos (JC) Ruiz Jr | [Read More](https://medium.com/p/bef3730c0052) |
+| Sun, 05 Apr 2026 14:59:23 GMT | AI Governance Is Not Data Privacy | Amritha George | [Read More](https://medium.com/p/fad4b5fa7951) |
 | Sun, 05 Apr 2026 14:46:38 GMT | IDOR Vulnerabilities: A Full-Stack Developer’s Guide to Finding and Fixing Them | Jpparedesm | [Read More](https://medium.com/p/a2e0ad6776e1) |
 | Sun, 05 Apr 2026 14:46:01 GMT | Lockdown Lab - CyberDefenders Writeup | Solvenite | [Read More](https://medium.com/p/73a96ea01eb9) |
 | Sun, 05 Apr 2026 14:45:38 GMT | Lab: Stored XSS into HTML context with nothing encoded | Mohamed Jemmari | [Read More](https://medium.com/p/9a4e16c547d7) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 09:01:01 GMT | I Tried to Hack a Bank (In My Head). I Didn’t Get Very Far. | The Fintech Engineer | [Read More](https://medium.com/p/6de827a346bf) |
 | Sun, 05 Apr 2026 08:50:51 GMT | AWS Certified Security Specialty SCS-C03: Ultimate 2026 Guide to Pass on First Attempt | Content Researcher - Community Contributor - Priya | [Read More](https://medium.com/p/7ef75d1a2127) |
 | Sun, 05 Apr 2026 08:50:08 GMT | Cyber Hygiene for Your Business: A Simple Checklist | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/8141d1e7394c) |
-| Sun, 05 Apr 2026 08:37:46 GMT | How to Leverage TPRM Technology According to Gartner | Oran F | [Read More](https://medium.com/p/d50784f6b3d3) |
-| Sun, 05 Apr 2026 08:22:50 GMT | What I Learned From Earning 32+ IT Certifications | Jhon Arzu-Gil | [Read More](https://medium.com/p/ed05573b50fd) |
-| Sun, 05 Apr 2026 08:21:45 GMT | How to Start Linux Career After 12th — Complete Guide | cyber security Updates | [Read More](https://medium.com/p/ebc223049eef) |
-| Sun, 05 Apr 2026 08:17:15 GMT | Broken Authentication & Password Reset Vulnerabilities | Sureshbabu | [Read More](https://medium.com/p/6a33770980c0) |
-| Sun, 05 Apr 2026 08:08:21 GMT | How I Built an Automated Recon Pipeline for Bug Bounty Hunting | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/bed3cb545317) |
-| Sun, 05 Apr 2026 08:07:35 GMT | What to Do When Your Password Gets Hacked | Sanista Ramphal | [Read More](https://medium.com/p/fd2ffdc118f0) |
-| Sun, 05 Apr 2026 08:05:18 GMT | I Just Open-Sourced My Entire SOC Training Curriculum — And It’s Free | Shewag Bhattarai | [Read More](https://medium.com/p/4dcd1f1f72a8) |
-| Sun, 05 Apr 2026 07:49:42 GMT | Your API Can DDoS Itself | Think Data | [Read More](https://medium.com/p/81fd4d42e3e8) |
-| Sun, 05 Apr 2026 07:22:06 GMT | The Invisible Threat: Detecting Early-Stage Phishing & Scam Campaigns | ThreatWatch360 | [Read More](https://medium.com/p/c5d36ef97336) |
-| Sun, 05 Apr 2026 07:10:01 GMT | Some weird things about me | Vinod Bhardwaj | [Read More](https://medium.com/p/ae51f530158c) |
-| Sun, 05 Apr 2026 07:06:59 GMT | Have A Break — TryHackMe OSINT CTF Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/4f631667fc7e) |
-| Sun, 05 Apr 2026 07:02:11 GMT | Phishing Toolkit Review: 15 Tools in 2026 Every Cybersecurity Pro Should Know | Very Lazy Tech | [Read More](https://medium.com/p/d0a97262f890) |
-| Sun, 05 Apr 2026 07:01:02 GMT | Kerberoasting: Kurumsal Ağların Sessiz Katili | Fatih Yuksektepe | [Read More](https://medium.com/p/9c236c6e59c6) |
-| Sun, 05 Apr 2026 06:54:16 GMT | From Zero to Full Recon: How Subfinder Starts the Hunt | Fateyaly | [Read More](https://medium.com/p/d73034b27523) |
-| Sun, 05 Apr 2026 06:49:25 GMT | Iam new to crypto. how to send my 5,000 USDT from my Metamask wallet to binance ? | Jina | [Read More](https://medium.com/p/ebe342a333cc) |
