@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 18:45:13 GMT | Penetration Testing Contract Agreement (Beginner-Friendly Guide + Open Template) | Busari Mukhtar | [Read More](https://medium.com/p/5833b6de07c9) |
+| Sun, 05 Apr 2026 18:35:46 GMT | Can a attack start without Malware: A small use-case by CrowdStrike in 2026 | Iftikhar Zaidi | [Read More](https://medium.com/p/3a5e031eb2d0) |
+| Sun, 05 Apr 2026 18:34:00 GMT | What Building AI for Goverment Client Taught Me About the Future of Cybersecurity | Ritulraj Cyber | [Read More](https://medium.com/p/dee75f7564de) |
+| Sun, 05 Apr 2026 18:33:38 GMT | The most convenient way to authenticate | Anton Minin Baranovskii | [Read More](https://medium.com/p/1906eb264fdb) |
+| Sun, 05 Apr 2026 18:29:40 GMT | ReconOverlay: Catching CVEs, Exploit Paths, and Version Clues in Real Time | HRK | [Read More](https://medium.com/p/2def7dcfd558) |
+| Sun, 05 Apr 2026 18:29:40 GMT | The Rise of the Agentic SOC | Varunbindra | [Read More](https://medium.com/p/f84afd3853bc) |
+| Sun, 05 Apr 2026 18:20:30 GMT | From Code to Consequence: Executing a Selective Forwarding Attack and Measuring Its True Cost | Shreya Gajjar | [Read More](https://medium.com/p/db92683a4fec) |
+| Sun, 05 Apr 2026 18:17:02 GMT | The 10-Year Reset: From Comfort Zone to Cybersecurity Frontlines | Mohamed Abdelhamied | [Read More](https://medium.com/p/5cf7c7b53ea2) |
+| Sun, 05 Apr 2026 18:15:24 GMT | How IT Support Uses Ticketing Systems: A Simple Jira Walkthrough | Declan | [Read More](https://medium.com/p/90400b60446c) |
+| Sun, 05 Apr 2026 18:12:27 GMT | The Stego Chronicles: TeamPCP Gettin’ Sneaky with Audio-based Steganography | z3r0trust | [Read More](https://medium.com/p/0853eb3e9d98) |
+| Sun, 05 Apr 2026 18:11:17 GMT | Information Disclosure Through Unrestricted API Endpoints | DrRobik | [Read More](https://medium.com/p/f56f94480b9c) |
+| Sun, 05 Apr 2026 18:00:07 GMT | The Agentic SOC: How Autonomous AI Will Reshape Detection, Investigation, and Response | Varunbindra | [Read More](https://medium.com/p/616bd5cba16f) |
+| Sun, 05 Apr 2026 17:59:49 GMT | Your Azure Environment Has No Guardrails. Here’s How to Fix That. | Ibrahim Yusuf | [Read More](https://medium.com/p/9536a6e90c29) |
+| Sun, 05 Apr 2026 17:58:49 GMT | How I Rooted LazyAdmin CTF (The Admin Really Was Lazy) | VxOM | [Read More](https://medium.com/p/ad75c0fc8d38) |
+| Sun, 05 Apr 2026 17:47:50 GMT | Lab: Web Shell Upload via Content-Type Restriction Bypass | Ayeshaaghafoor | [Read More](https://medium.com/p/5de163639b72) |
+| Sun, 05 Apr 2026 17:47:07 GMT | Before You Wire: What the Drift Hack Reveals About Web3 Due Diligence | Tim Ryan | [Read More](https://medium.com/p/3b0c4e54afe7) |
+| Sun, 05 Apr 2026 17:47:03 GMT | Cracking the Code: Bypassing Whitelist-Based SSRF Filters | Ayeshaaghafoor | [Read More](https://medium.com/p/87610e127c61) |
+| Sun, 05 Apr 2026 17:45:19 GMT | I thought I had a P1, but… the second paid valid bug in 2026 | Hoi Huynh | [Read More](https://medium.com/p/e59e2b6b0659) |
 | Sun, 05 Apr 2026 17:26:30 GMT | Left Security Testing (DevSecQA) | Savithasjois | [Read More](https://medium.com/p/2006404e59a0) |
 | Sun, 05 Apr 2026 17:21:40 GMT | Digital India (डिजिटल इंडिया) : व्यापारियों के लिए 'इनाम' या बिना गलती की 'सजा' ❓️ | Yash Agrawal | [Read More](https://medium.com/p/ccb4751b22c2) |
 | Sun, 05 Apr 2026 17:16:17 GMT | [stylesheet-group="0"]{} body{margin:0;}… | Penfoldjames | [Read More](https://medium.com/p/d752b180446f) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 12:28:25 GMT | Metode Searching dalam Python | Azka | [Read More](https://medium.com/p/80665656e707) |
 | Sun, 05 Apr 2026 12:26:13 GMT | TeamPCP Tedarik Zinciri İhlali Analizi: Bulut Güvenliğinde Gizli Tehlikeler | AltHack Security | [Read More](https://medium.com/p/6566d55663d0) |
 | Sun, 05 Apr 2026 12:13:42 GMT | Digital Exchange #1x03: A 25‑Character Recovery Code and a Medical App That Forgot How Humans Work | Tetsuji Kondo | [Read More](https://medium.com/p/181d31ccb700) |
-| Sun, 05 Apr 2026 12:10:00 GMT | The Claude Code Leak: What’s Now Publicly Usable (and Abusable) — And Why Anthropic’s Containment… | Berend Watchus | [Read More](https://medium.com/p/22891da6ff7c) |
-| Sun, 05 Apr 2026 12:07:12 GMT | The Claude Code Leak: What’s Now Publicly Usable (and Abusable) — And Why Anthropic’s Containment… | Berend Watchus | [Read More](https://medium.com/p/023677bb4f42) |
-| Sun, 05 Apr 2026 11:59:16 GMT | Day 3 of Gaining Cybersecurity Knowledge as a Cybersecurity Student | Samatham mahesh | [Read More](https://medium.com/p/408517b3d7f5) |
-| Sun, 05 Apr 2026 11:52:27 GMT | Post 3 — What CTI Teams Can Do Today to Prepare for Quantum Risk | Leonard Okyere Afeke | [Read More](https://medium.com/p/43e6ace102d5) |
-| Sun, 05 Apr 2026 11:48:27 GMT | FlareVM: Arsenal of Tools | Aakash Rajput | [Read More](https://medium.com/p/3ce6a8cd0da0) |
-| Sun, 05 Apr 2026 11:43:08 GMT | Anthropic Leaked Its Own Nuclear Option. | Seven Cubed Seven Labs | [Read More](https://medium.com/p/47bdc04c0866) |
-| Sun, 05 Apr 2026 11:41:48 GMT | Why Multi-Cloud Is the Smartest Move Your Business Can Make Today | Modern Vision | [Read More](https://medium.com/p/a7a5b06112bc) |
-| Sun, 05 Apr 2026 11:37:24 GMT | Introduction to cloud computing and google cloud platform(GCP) | unica 02 | [Read More](https://medium.com/p/3f7df9bc3de6) |
-| Sun, 05 Apr 2026 11:37:10 GMT | Chrome Has Been Hacked Four Times This Year, And It’s Only April. Are You Safe Online? | CyberSamm | [Read More](https://medium.com/p/15500471d688) |
-| Sun, 05 Apr 2026 11:35:29 GMT | CSRF (Cross-Site Request Forgery) Writeup | some guy | [Read More](https://medium.com/p/926b0908d05c) |
-| Sun, 05 Apr 2026 11:35:04 GMT | Managing and Securing Environment Variables (.env): A Look at evnx | Suchismita Maharana | [Read More](https://medium.com/p/a62bf8c4fafb) |
-| Sun, 05 Apr 2026 11:30:45 GMT | I Was Running Away for Years. Then One Phone Call Broke the Pattern. | Farhad | [Read More](https://medium.com/p/e3a43091797a) |
-| Sun, 05 Apr 2026 11:29:04 GMT | TryHackMe-Room3-Search Skills (Mastering the Most Underrated Skill in Cybersecurity) | Hafsa Sarfraz | [Read More](https://medium.com/p/0a4648edbd92) |
-| Sun, 05 Apr 2026 11:11:40 GMT | How Threat Actors Use GitHub (And Why Most People Miss It) | Paritosh | [Read More](https://medium.com/p/fdc76f10c6d7) |
-| Sun, 05 Apr 2026 11:06:01 GMT | The Security Industry Has a Pricing Problem. I'm Building the Fix. | Saint Zero Day | [Read More](https://medium.com/p/791db8efb4d6) |
-| Sun, 05 Apr 2026 11:05:27 GMT | HOW TO DEAL WITH CYBERBULLYING: PROTECTING YOUR PEACE IN A DIGITAL WORLD | Manmita Adhikary | [Read More](https://medium.com/p/2790db30c6c8) |
-| Sun, 05 Apr 2026 11:00:39 GMT | Simulation of Meltdown (CVE-2017–5754) | Saadan ashraf | [Read More](https://medium.com/p/8ba8c2bfb6ac) |
-| Sun, 05 Apr 2026 10:57:19 GMT | AWS WAF From a Cybersecurity Engineer’s Perspective | Josiah McCarthy | [Read More](https://medium.com/p/8c81d5708da6) |
