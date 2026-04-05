@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 05:06:11 GMT | ATO in Bug Bounty: From Passive Recon to an ATO and a Reward | Vanshrathore | [Read More](https://medium.com/p/8ab9cae4e90f) |
+| Sun, 05 Apr 2026 05:05:15 GMT | Philosophy and Information Technology,Philosophy of Information Technology,Philosophy of Forms | Haruka Matsukasa | [Read More](https://medium.com/p/d2234e6af265) |
+| Sun, 05 Apr 2026 05:04:05 GMT | 99.2% AND A BROKEN DREAM: WHY I STOPPED TELLING PEOPLE MY GOALS | Sweet Candy | [Read More](https://medium.com/p/bd48827f04a6) |
+| Sun, 05 Apr 2026 05:02:34 GMT | Exploiting an IPv6 Remote Code Execution Vulnerability: A Practical Lab Walkthrough | Praveera Arosh | [Read More](https://medium.com/p/cdd3a2df4143) |
+| Sun, 05 Apr 2026 04:47:44 GMT | When Authentication Succeeds — But Trust Fails | Prakhar Gupta | [Read More](https://medium.com/p/a612de7d8c8e) |
+| Sun, 05 Apr 2026 04:36:04 GMT | ✨ HAPPY EASTER FROM STEVE HERBAL VENTURES ✨ | Steve Herbal Ventures | [Read More](https://medium.com/p/ba84b65ed922) |
+| Sun, 05 Apr 2026 04:31:23 GMT | Exploiting AD Certificate Templates - TryHackMe Walkthrough (AD CS Attack) | Pathakraj | [Read More](https://medium.com/p/17c8b89f1c8b) |
+| Sun, 05 Apr 2026 04:31:15 GMT | IDOR: Unauthorized Invoice Access on a Major Job Portal | Robi Mohamad subagja | [Read More](https://medium.com/p/6509f0a3be07) |
+| Sun, 05 Apr 2026 04:26:43 GMT | Insecure Logging — Mobile Apps Security Static Analysis Part II | ./Rey~ | [Read More](https://medium.com/p/fbec8ce82053) |
+| Sun, 05 Apr 2026 04:24:01 GMT | The Free Movie App That Was Robbing You Blind | Vishwas Adhikari | [Read More](https://medium.com/p/eeefe9c5e65c) |
+| Sun, 05 Apr 2026 04:12:52 GMT | Quantum Computing Advances Accelerate Encryption Threat | Valentin Podkamennyi | [Read More](https://medium.com/p/869428f33565) |
+| Sun, 05 Apr 2026 03:40:37 GMT | Bot Hesaplar Nedir? | Ali Yaşe | [Read More](https://medium.com/p/9c412fe58f38) |
+| Sun, 05 Apr 2026 03:15:33 GMT | How I got my first Hall of Fame — A stepping stone in bug bounty | Khajafaiz | [Read More](https://medium.com/p/04a51047e30d) |
+| Sun, 05 Apr 2026 03:10:54 GMT | Auth Mistakes Every Vibe Coder Ships to Production | Sanath R | [Read More](https://medium.com/p/e37f73647e64) |
+| Sun, 05 Apr 2026 03:05:10 GMT | He Only Clicked Once And Lost $9,800 in 12 Minutes | Security Signals | [Read More](https://medium.com/p/1e34c32bca16) |
+| Sun, 05 Apr 2026 03:01:02 GMT | Fundamentals of Information Security — Chapter 03 | Mani Gayathri | [Read More](https://medium.com/p/32ce9b5799c2) |
 | Sun, 05 Apr 2026 02:32:19 GMT | Every time we click the little checkbox that says “I am not a robot,” it feels almost ironic. | Samriddhi | [Read More](https://medium.com/p/48b6ee8222d8) |
 | Sun, 05 Apr 2026 01:38:33 GMT | Felly4D Login Resmi: Cara Daftar & Main Slot Gacor Mudah | Ngebut 88 | [Read More](https://medium.com/p/42c25f070977) |
 | Sun, 05 Apr 2026 01:15:09 GMT | Hey everyone, I just wanted to share my experience in case any of you have ever run into the same… | Amit Yadav | [Read More](https://medium.com/p/b4dfe636253b) |
@@ -97,19 +113,3 @@ Tech Privacy Is Wrong | 0x88CK | [Read More](https://medium.com/p/23aaf0c9b2e7) 
 | Sat, 04 Apr 2026 17:11:32 GMT | Modern Fraud Attacks Are Evolving Fast: From Bot Signups to Account Takeovers | Chetan Seripally | [Read More](https://medium.com/p/d277104fddd2) |
 | Sat, 04 Apr 2026 17:10:34 GMT | Day 8: Elevating Resilience — The Architecture of Business Continuity Planning (BCP) | Ndu | [Read More](https://medium.com/p/41e20ce16036) |
 | Sat, 04 Apr 2026 17:09:23 GMT | Day 7: Digital Forensics & The Chain of Custody — Preserving Truth in the Aftermath of a Breach | Ndu | [Read More](https://medium.com/p/0ad6f3a95baf) |
-| Sat, 04 Apr 2026 17:08:32 GMT | Threat Intelligence for SOC — TryHackMe | Nway Nway Zay Ya | [Read More](https://medium.com/p/2c16450b94d2) |
-| Sat, 04 Apr 2026 17:05:54 GMT | From Low-Privileged User to Domain Admin: Active Directory Privilege Escalation Using BloodHound | Ishanchowdhury | [Read More](https://medium.com/p/6082e8376c41) |
-| Sat, 04 Apr 2026 16:55:36 GMT | 37 Percent of Companies Plan to Cut IT Jobs by the End of 2026. | Hazel | [Read More](https://medium.com/p/e7d26388e96d) |
-| Sat, 04 Apr 2026 16:17:37 GMT | Stored XSS via iframe Injection Leads to $505 Bounty | Sachin Aneja | [Read More](https://medium.com/p/07580e9489fb) |
-| Sat, 04 Apr 2026 16:06:32 GMT | Cybersecurity Consulting Services for U.S. Businesses | Gladius Help Desk Support | [Read More](https://medium.com/p/b3352e2a9efc) |
-| Sat, 04 Apr 2026 15:30:26 GMT | This Phishing EML is Really Creative: Edition 1.0 | lukewago | [Read More](https://medium.com/p/836f938bf0dd) |
-| Sat, 04 Apr 2026 15:30:19 GMT | TryHackMe: Blue Writeup | Manushya | [Read More](https://medium.com/p/9921506f9f72) |
-| Sat, 04 Apr 2026 15:25:29 GMT | We Are All Desperate to Be Loved and Terrified to Be Known. And We Call That Intimacy | Nokwanda Biyela | [Read More](https://medium.com/p/f53cb8352952) |
-| Sat, 04 Apr 2026 15:23:02 GMT | TryHackMe SOC Analyst Road Map Part-18 | safa kaya | [Read More](https://medium.com/p/cc260e1e9e7b) |
-| Sat, 04 Apr 2026 15:14:13 GMT | Leaking Secrets Through Error Messages: Exploiting a Verbose API Debug Response | OopsSec Store | [Read More](https://medium.com/p/872ab9df7458) |
-| Sat, 04 Apr 2026 15:09:50 GMT | SOC Investigation Report: Windows Endpoint Breach Leading to Remote Shell Access and Data… | chicorax | [Read More](https://medium.com/p/e09bf23ac2cb) |
-| Sat, 04 Apr 2026 15:09:38 GMT | Understanding Buffer Overflows: From Fundamentals to Real-World Impact | Ayxan Amirov | [Read More](https://medium.com/p/4e720b189e91) |
-| Sat, 04 Apr 2026 15:03:08 GMT | Anthropic confirma haber filtrado accidentalmente el código fuente de Claude Code | Tiziano Mass | [Read More](https://medium.com/p/5c5929e62554) |
-| Sat, 04 Apr 2026 15:01:01 GMT | Internet Story #2 — From the BBS’ to Internet | 'Wine' Roland Mucciarelli | [Read More](https://medium.com/p/5598eff70df5) |
-| Sat, 04 Apr 2026 15:00:21 GMT | Top 10 Google Dorks for Bug Bounty (Beginner to Pro Guide) | Riya Limba | [Read More](https://medium.com/p/35678b3d0524) |
-| Sat, 04 Apr 2026 14:49:51 GMT | How the axios supply chain attack worked — and how OS-level sandboxing stops it | Claudexlabs | [Read More](https://medium.com/p/dc6c3110d36b) |
