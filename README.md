@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 14:46:38 GMT | IDOR Vulnerabilities: A Full-Stack Developer’s Guide to Finding and Fixing Them | Jpparedesm | [Read More](https://medium.com/p/a2e0ad6776e1) |
+| Sun, 05 Apr 2026 14:46:01 GMT | Lockdown Lab - CyberDefenders Writeup | Solvenite | [Read More](https://medium.com/p/73a96ea01eb9) |
+| Sun, 05 Apr 2026 14:45:38 GMT | Lab: Stored XSS into HTML context with nothing encoded | Mohamed Jemmari | [Read More](https://medium.com/p/9a4e16c547d7) |
+| Sun, 05 Apr 2026 14:43:57 GMT | Building a Unified Cybersecurity Strategy: Where Principles Become Practice | Aliyev Rinad Code | [Read More](https://medium.com/p/607d2c560e50) |
+| Sun, 05 Apr 2026 14:38:56 GMT | Security Through Obscurity: Hidden… But Is It Secure? | Hezeyan Nw | [Read More](https://medium.com/p/081f161943e1) |
+| Sun, 05 Apr 2026 14:34:03 GMT | Secure by Design: Building Security Into the Foundation | Hezeyan Nw | [Read More](https://medium.com/p/3c54aea246e2) |
+| Sun, 05 Apr 2026 14:33:41 GMT | How I Solved ColddBox TryHackMe /Vulnhub Machine Writeup | Shuhaib N C | [Read More](https://medium.com/p/9fd6926d74f2) |
+| Sun, 05 Apr 2026 14:30:52 GMT | LinkedIn’s Extension Scans Raise Bigger Trust Questions | Geoffrey Wenger | [Read More](https://medium.com/p/56d05973e387) |
+| Sun, 05 Apr 2026 14:30:45 GMT | SunsetNoontide — UnrealIRCd Backdoor + Default Root Password - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/8f3c5864527c) |
+| Sun, 05 Apr 2026 14:30:02 GMT | Lab: Reflected XSS into HTML context with nothing encoded | Mohamed Jemmari | [Read More](https://medium.com/p/16ca81ea3f52) |
+| Sun, 05 Apr 2026 14:23:11 GMT | The Invisible Chain: How Threat Actors Profile Your Company Before the Attack | Aether-Intel | [Read More](https://medium.com/p/fd5dfbef783c) |
+| Sun, 05 Apr 2026 14:22:11 GMT | Least Privilege: The Art of Giving Just Enough Access | Rinad | [Read More](https://medium.com/p/a25877a23f00) |
+| Sun, 05 Apr 2026 14:13:12 GMT | Struktur Data : Searching dalam Python | Nabilla Paraswati | [Read More](https://medium.com/p/17486dccd3f3) |
+| Sun, 05 Apr 2026 14:11:01 GMT | Cloudflare: Revolutionizing the Internet’s Security, Speed, and Scalability | Suneth Madhuwantha | [Read More](https://medium.com/p/371d4f3d0ece) |
 | Sun, 05 Apr 2026 13:45:39 GMT | Top 10 Best Places to Learn Cybersecurity in Nigeria (2026 Guide) | Miaztechacademy | [Read More](https://medium.com/p/393d165900f8) |
 | Sun, 05 Apr 2026 13:41:58 GMT | The Post-Human Web: Why 2026 is the Year the Internet Stopped Belonging to Us | Muhammad Awais | [Read More](https://medium.com/p/c80b59df3ff8) |
 | Sun, 05 Apr 2026 13:31:24 GMT | Race Condition | Ghost | [Read More](https://medium.com/p/7552aa278630) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 07:01:02 GMT | Kerberoasting: Kurumsal Ağların Sessiz Katili | Fatih Yuksektepe | [Read More](https://medium.com/p/9c236c6e59c6) |
 | Sun, 05 Apr 2026 06:54:16 GMT | From Zero to Full Recon: How Subfinder Starts the Hunt | Fateyaly | [Read More](https://medium.com/p/d73034b27523) |
 | Sun, 05 Apr 2026 06:49:25 GMT | Iam new to crypto. how to send my 5,000 USDT from my Metamask wallet to binance ? | Jina | [Read More](https://medium.com/p/ebe342a333cc) |
-| Sun, 05 Apr 2026 06:45:49 GMT | System 0: Privacy Before Processing | Irisprotocol | [Read More](https://medium.com/p/f1736a7c81de) |
-| Sun, 05 Apr 2026 06:24:08 GMT | CyberDefenders — DumpMe Lab Writeup | JBXSec | [Read More](https://medium.com/p/d2a69476cf95) |
-| Sun, 05 Apr 2026 06:22:38 GMT | Lab 1 — Windows Event Viewer Basics (SOC Level 1 Journey ) | Hemaprasadpotnuru | [Read More](https://medium.com/p/2cf84b6d4a0e) |
-| Sun, 05 Apr 2026 06:19:16 GMT | First Look inside Databricks Lakewatch: A Modern, Open, Agentic SIEM for the Agentic Era | hitesh sahni | [Read More](https://medium.com/p/05f07e0250f9) |
-| Sun, 05 Apr 2026 06:18:59 GMT | RidoMovies 2026: Complete Guide to Features, Safety, and Alternatives | Infoblessings | [Read More](https://medium.com/p/28b18fd53109) |
-| Sun, 05 Apr 2026 06:09:37 GMT | Anthropic Didn’t Fail at AI Safety. It Was Only Selling One Kind. | Bloom | [Read More](https://medium.com/p/8cdff184e28c) |
-| Sun, 05 Apr 2026 06:05:32 GMT | Beyond JWTs: Preventing API Replay Attacks in React Native & .NET (Financial-Grade Security) | Muhammad Saad Bin Nadeem | [Read More](https://medium.com/p/5873603f03ef) |
-| Sun, 05 Apr 2026 05:58:17 GMT | What actually keeps your office network secure when you’re working from home? | PacketRoute | [Read More](https://medium.com/p/2d1b7e8a9f27) |
-| Sun, 05 Apr 2026 05:57:35 GMT | Your Coffee Machine Just Became a Hacker’s Best Friend | UK Cyber Defence | [Read More](https://medium.com/p/2289c4a22985) |
-| Sun, 05 Apr 2026 05:56:01 GMT | 27 Seconds from Breach to Lateral Movement | Patrik Žák | [Read More](https://medium.com/p/f30d3e19593d) |
-| Sun, 05 Apr 2026 05:52:32 GMT | My biggest cybersecurity fails… | Stanislav Klevtsov | [Read More](https://medium.com/p/3cadc8ad08ee) |
-| Sun, 05 Apr 2026 05:50:40 GMT | Anthropic Handed the World Its Secret Sauce — By Accident. Let’s Stop Pretending That’s Okay. | StackedThoughts | [Read More](https://medium.com/p/d1f2d6dc1875) |
-| Sun, 05 Apr 2026 05:47:44 GMT | Shifting the Blue Team Mindset — Architecting Prevention & Detection, not just response | Raymond | [Read More](https://medium.com/p/4c32b99c6d52) |
-| Sun, 05 Apr 2026 05:44:34 GMT | The Invisible War | 1v0t | [Read More](https://medium.com/p/25dde4d47912) |
