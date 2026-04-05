@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 13:45:39 GMT | Top 10 Best Places to Learn Cybersecurity in Nigeria (2026 Guide) | Miaztechacademy | [Read More](https://medium.com/p/393d165900f8) |
+| Sun, 05 Apr 2026 13:41:58 GMT | The Post-Human Web: Why 2026 is the Year the Internet Stopped Belonging to Us | Muhammad Awais | [Read More](https://medium.com/p/c80b59df3ff8) |
+| Sun, 05 Apr 2026 13:31:24 GMT | Race Condition | Ghost | [Read More](https://medium.com/p/7552aa278630) |
+| Sun, 05 Apr 2026 13:30:41 GMT | [Green Code Chronicles] #1: That One File Killed Us | Utsav Moradiya | [Read More](https://medium.com/p/1b4f7569c4f5) |
+| Sun, 05 Apr 2026 13:30:27 GMT | Building a Culture of Security with the Vault Sentry | Thevaultsentry | [Read More](https://medium.com/p/bf9fe5ae2a82) |
+| Sun, 05 Apr 2026 13:28:26 GMT | WireTapper Tool Explained - Wireless Device Detection & OSINT | Pentester Club | [Read More](https://medium.com/p/955c8511cef9) |
+| Sun, 05 Apr 2026 13:27:30 GMT | The Vault Sentry — A Startup’s Strategic Edge in Cybersecurity | Thevaultsentry | [Read More](https://medium.com/p/80d30792ff12) |
+| Sun, 05 Apr 2026 13:27:17 GMT | Environment Variables You’re Leaking to the Frontend Without Knowing It | Saandeep Baansod | [Read More](https://medium.com/p/1a406bed8c86) |
+| Sun, 05 Apr 2026 13:26:43 GMT | AI Basics for Cybersecurity (No Math, Just What You Need) | CyberQuestor | [Read More](https://medium.com/p/93cc9e8c3a6f) |
+| Sun, 05 Apr 2026 13:25:05 GMT | What is Ethical Hacking? A Beginner-Friendly Guide (2026) | Atul A Patil | [Read More](https://medium.com/p/a3b9cfdb66fc) |
+| Sun, 05 Apr 2026 13:13:49 GMT | The Rise of ‘ClickFix’ Attacks: Turns Users Into Their Own Attackers | Candy Wong | [Read More](https://medium.com/p/142f2ef8151c) |
+| Sun, 05 Apr 2026 13:13:48 GMT | The Reign of Spades ♠️ — Part 1 : Breaking h4k-it CTF Challenges | 3xploiter | [Read More](https://medium.com/p/281985335a23) |
+| Sun, 05 Apr 2026 13:08:31 GMT | Unlimited Invites via Race Condition, invite limit bypass writeup | Mohamed Mostafa (0xHafez) | [Read More](https://medium.com/p/c907d21be060) |
+| Sun, 05 Apr 2026 13:01:01 GMT | [Gladiator] Survival Logic of Somatic “Grit” | MonoEssay | [Read More](https://medium.com/p/3df441b33bf3) |
+| Sun, 05 Apr 2026 12:57:13 GMT | The AI Arms Race in Ransomware: How Attackers and Defenders Are Evolving in 2026 | Sandra Blake, Tech & Consumer Intelligence Analyst | [Read More](https://medium.com/p/03a86d4c9e3a) |
 | Sun, 05 Apr 2026 12:44:05 GMT | ☁️ From SSRF to Full AWS Takeover: A Hands-On Cloud Security Lab | Ashutosh Hacks | [Read More](https://medium.com/p/641a48e0eb02) |
 | Sun, 05 Apr 2026 12:43:33 GMT | I Was Gaming ChatGPT for Free. Here’s Why I Stopped. | jitt | [Read More](https://medium.com/p/055dd7940b96) |
 | Sun, 05 Apr 2026 12:40:26 GMT | Stop Leaking Your Code Secrets: A Beginner’s Guide to Gitleaks | Abhishek Singh | [Read More](https://medium.com/p/4014258557bc) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 05:50:40 GMT | Anthropic Handed the World Its Secret Sauce — By Accident. Let’s Stop Pretending That’s Okay. | StackedThoughts | [Read More](https://medium.com/p/d1f2d6dc1875) |
 | Sun, 05 Apr 2026 05:47:44 GMT | Shifting the Blue Team Mindset — Architecting Prevention & Detection, not just response | Raymond | [Read More](https://medium.com/p/4c32b99c6d52) |
 | Sun, 05 Apr 2026 05:44:34 GMT | The Invisible War | 1v0t | [Read More](https://medium.com/p/25dde4d47912) |
-| Sun, 05 Apr 2026 05:36:20 GMT | I Stopped Reading Cybersecurity News — And Built an AI That Does It For Me | Soumyakhaskel21 | [Read More](https://medium.com/p/4fbd75df6541) |
-| Sun, 05 Apr 2026 05:35:32 GMT | The Rise of AI Security Analysts | Vijay Kumar Gupta | [Read More](https://medium.com/p/67ca41062144) |
-| Sun, 05 Apr 2026 05:06:11 GMT | ATO in Bug Bounty: From Passive Recon to an ATO and a Reward | Vanshrathore | [Read More](https://medium.com/p/8ab9cae4e90f) |
-| Sun, 05 Apr 2026 05:05:15 GMT | Philosophy and Information Technology,Philosophy of Information Technology,Philosophy of Forms | Haruka Matsukasa | [Read More](https://medium.com/p/d2234e6af265) |
-| Sun, 05 Apr 2026 05:04:05 GMT | 99.2% AND A BROKEN DREAM: WHY I STOPPED TELLING PEOPLE MY GOALS | Sweet Candy | [Read More](https://medium.com/p/bd48827f04a6) |
-| Sun, 05 Apr 2026 05:02:34 GMT | Exploiting an IPv6 Remote Code Execution Vulnerability: A Practical Lab Walkthrough | Praveera Arosh | [Read More](https://medium.com/p/cdd3a2df4143) |
-| Sun, 05 Apr 2026 04:47:44 GMT | When Authentication Succeeds — But Trust Fails | Prakhar Gupta | [Read More](https://medium.com/p/a612de7d8c8e) |
-| Sun, 05 Apr 2026 04:36:04 GMT | ✨ HAPPY EASTER FROM STEVE HERBAL VENTURES ✨ | Steve Herbal Ventures | [Read More](https://medium.com/p/ba84b65ed922) |
-| Sun, 05 Apr 2026 04:31:23 GMT | Exploiting AD Certificate Templates - TryHackMe Walkthrough (AD CS Attack) | Pathakraj | [Read More](https://medium.com/p/17c8b89f1c8b) |
-| Sun, 05 Apr 2026 04:31:15 GMT | IDOR: Unauthorized Invoice Access on a Major Job Portal | Robi Mohamad subagja | [Read More](https://medium.com/p/6509f0a3be07) |
-| Sun, 05 Apr 2026 04:26:43 GMT | Insecure Logging — Mobile Apps Security Static Analysis Part II | ./Rey~ | [Read More](https://medium.com/p/fbec8ce82053) |
-| Sun, 05 Apr 2026 04:24:01 GMT | The Free Movie App That Was Robbing You Blind | Vishwas Adhikari | [Read More](https://medium.com/p/eeefe9c5e65c) |
-| Sun, 05 Apr 2026 04:12:52 GMT | Quantum Computing Advances Accelerate Encryption Threat | Valentin Podkamennyi | [Read More](https://medium.com/p/869428f33565) |
-| Sun, 05 Apr 2026 03:40:37 GMT | Bot Hesaplar Nedir? | Ali Yaşe | [Read More](https://medium.com/p/9c412fe58f38) |
-| Sun, 05 Apr 2026 03:15:33 GMT | How I got my first Hall of Fame — A stepping stone in bug bounty | Khajafaiz | [Read More](https://medium.com/p/04a51047e30d) |
