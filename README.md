@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 17:26:30 GMT | Left Security Testing (DevSecQA) | Savithasjois | [Read More](https://medium.com/p/2006404e59a0) |
+| Sun, 05 Apr 2026 17:21:40 GMT | Digital India (डिजिटल इंडिया) : व्यापारियों के लिए 'इनाम' या बिना गलती की 'सजा' ❓️ | Yash Agrawal | [Read More](https://medium.com/p/ccb4751b22c2) |
+| Sun, 05 Apr 2026 17:16:17 GMT | [stylesheet-group="0"]{} body{margin:0;}… | Penfoldjames | [Read More](https://medium.com/p/d752b180446f) |
+| Sun, 05 Apr 2026 17:10:50 GMT | How to Install Claude AI on Kali Linux | Fx03 | [Read More](https://medium.com/p/0d68ee0f0ea9) |
+| Sun, 05 Apr 2026 17:10:42 GMT | HTB Timelapse | Dipesh Paul | [Read More](https://medium.com/p/c3f510d7b150) |
+| Sun, 05 Apr 2026 17:07:08 GMT | Cybersecurity in the Modern World | Abdul Rehman Furqan | [Read More](https://medium.com/p/5f3b333bb8a7) |
+| Sun, 05 Apr 2026 17:06:12 GMT | My Next Passion Project | The Husky Hacker | [Read More](https://medium.com/p/e1f94bf60058) |
+| Sun, 05 Apr 2026 17:01:02 GMT | Cybersecurity 101: Defending the Digital World | Kavitesh Kamboj | [Read More](https://medium.com/p/7827352f4d46) |
+| Sun, 05 Apr 2026 16:53:27 GMT | The TeamPCP Incident, the European Commission, and Why SOC Alone Is No Longer Enough: The Case for… | Juan Pablo Castro | [Read More](https://medium.com/p/59fea903f2ef) |
+| Sun, 05 Apr 2026 16:46:36 GMT | From Uploading a “PDF” To Owning The Admin Account | Rehan Ansari | [Read More](https://medium.com/p/5ce88286087d) |
+| Sun, 05 Apr 2026 16:46:03 GMT | The Fastest Way to Audit Your Python Dependencies | Chris Dare | [Read More](https://medium.com/p/2e1661d91cc3) |
+| Sun, 05 Apr 2026 16:44:49 GMT | The 2026 Cyber Arms Race: Why Resilience is the New Strategy for Survival | Aun Raza | [Read More](https://medium.com/p/1e225dc913db) |
+| Sun, 05 Apr 2026 16:44:36 GMT | You Didn’t Click a Bad Link. You Just Ran npm install. | DayDr3am3r | [Read More](https://medium.com/p/8ea9e85d1109) |
+| Sun, 05 Apr 2026 16:44:27 GMT | Learning Palo AltoFirewall — LESSON 4: DNAT & Port Forwarding LAB | Rouell Mamaril | [Read More](https://medium.com/p/44b663a8421f) |
+| Sun, 05 Apr 2026 16:42:46 GMT | How to Use ChatGPT for Bug Bounty (The Intelligent Way, NOT The Lazy One) - kidnapshadow | Kidnapshadow | [Read More](https://medium.com/p/9e98cb8100fa) |
+| Sun, 05 Apr 2026 16:41:22 GMT | If I Were an Attacker: Breaking OTP Authentication Systems | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/ca385b7213f7) |
 | Sun, 05 Apr 2026 16:38:48 GMT | Machine Wallets & Programmable Spending: Inside AI-Driven Payment Infrastructure | Anmol Gupta | [Read More](https://medium.com/p/97586374f30f) |
 | Sun, 05 Apr 2026 16:20:34 GMT | Dime tu ADN | Roberto Sánchez V. | [Read More](https://medium.com/p/b7b466725069) |
 | Sun, 05 Apr 2026 16:17:58 GMT | PRDA: A Pre-Response Governance Framework for AI Systems | Dimitra St. Athanasopoulou | [Read More](https://medium.com/p/913e372e41ac) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 11:05:27 GMT | HOW TO DEAL WITH CYBERBULLYING: PROTECTING YOUR PEACE IN A DIGITAL WORLD | Manmita Adhikary | [Read More](https://medium.com/p/2790db30c6c8) |
 | Sun, 05 Apr 2026 11:00:39 GMT | Simulation of Meltdown (CVE-2017–5754) | Saadan ashraf | [Read More](https://medium.com/p/8ba8c2bfb6ac) |
 | Sun, 05 Apr 2026 10:57:19 GMT | AWS WAF From a Cybersecurity Engineer’s Perspective | Josiah McCarthy | [Read More](https://medium.com/p/8c81d5708da6) |
-| Sun, 05 Apr 2026 10:51:01 GMT | What a Website Learns About You Before You Even Try Anything | ZeroScorpion | [Read More](https://medium.com/p/d6cc656ee507) |
-| Sun, 05 Apr 2026 10:49:06 GMT | Pembuatan Aplikasi Quiz (Quiz App) | Zurichsabil | [Read More](https://medium.com/p/9834d54219d8) |
-| Sun, 05 Apr 2026 10:41:19 GMT | How did ancient people lock their doors? | Ritu Singh | [Read More](https://medium.com/p/fe2d05cc9c2a) |
-| Sun, 05 Apr 2026 10:37:16 GMT | The Ghost in the Machine: Privacy in the Era of Agentic AI | Dhanashree | [Read More](https://medium.com/p/d34cfb055018) |
-| Sun, 05 Apr 2026 10:26:05 GMT | Creating a mini SOC environment in Azure. | byL0r3t | [Read More](https://medium.com/p/84ed13d75473) |
-| Sun, 05 Apr 2026 10:20:38 GMT | Cracking the KitKat Heist: A Comprehensive Walkthrough of TryHackMe’s ‘Have a Break’ OSINT Room | Somesh | [Read More](https://medium.com/p/e69f8e8530f1) |
-| Sun, 05 Apr 2026 10:18:19 GMT | Why Can Enterprises and Universities in Mainland China Still Be Compromised Despite Foreign IP… | Мартин. | [Read More](https://medium.com/p/1048a8e864bf) |
-| Sun, 05 Apr 2026 10:16:55 GMT | I Asked 3 Exes to Tell Me My Worst Trait. The Answers Weren't What I Expected. | Archie James | [Read More](https://medium.com/p/73fc318f924b) |
-| Sun, 05 Apr 2026 10:16:30 GMT | Best Commercial Security Systems in Nebraska: What Business Leaders Must Know in 2026 | ASI Systems Pro | [Read More](https://medium.com/p/1ae0e58506c6) |
-| Sun, 05 Apr 2026 10:11:25 GMT | The Art of Knowing Everything Before You Hack Anything part 1 | Yousef Elsheikh | [Read More](https://medium.com/p/14fad1e575f3) |
-| Sun, 05 Apr 2026 10:11:20 GMT | The “Free Internship” Trap: Why the VOIS Cybersecurity Program is a Phishing Goldmine | Hacky | [Read More](https://medium.com/p/c327530b916c) |
-| Sun, 05 Apr 2026 10:10:39 GMT | When AppSec Means Everything: A Practical Survival Guide | Kerkroups | [Read More](https://medium.com/p/7977db38d5e3) |
-| Sun, 05 Apr 2026 10:07:34 GMT | Mastering SQLMAP: A Step-by-Step Walkthrough of the TryHackMe Lab | Md Nuhas Mahmud | [Read More](https://medium.com/p/00b38af7899b) |
-| Sun, 05 Apr 2026 10:05:39 GMT | Why is it so difficult to assassinate Vladimir Putin? | Deepak Choudhary | [Read More](https://medium.com/p/9edc30590393) |
-| Sun, 05 Apr 2026 10:01:04 GMT | How a Non-Technical Graduate Became a Cybersecurity Engineer in 5 Months | Victoria Coker | [Read More](https://medium.com/p/6ca158bb2287) |
-| Sun, 05 Apr 2026 10:00:47 GMT | CVE-2024–48061 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/c1bd3c16daef) |
