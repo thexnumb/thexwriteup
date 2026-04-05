@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 11:29:04 GMT | TryHackMe-Room3-Search Skills (Mastering the Most Underrated Skill in Cybersecurity) | Hafsa Sarfraz | [Read More](https://medium.com/p/0a4648edbd92) |
+| Sun, 05 Apr 2026 11:11:40 GMT | How Threat Actors Use GitHub (And Why Most People Miss It) | Paritosh | [Read More](https://medium.com/p/fdc76f10c6d7) |
+| Sun, 05 Apr 2026 11:06:01 GMT | The Security Industry Has a Pricing Problem. I'm Building the Fix. | Saint Zero Day | [Read More](https://medium.com/p/791db8efb4d6) |
+| Sun, 05 Apr 2026 11:05:27 GMT | HOW TO DEAL WITH CYBERBULLYING: PROTECTING YOUR PEACE IN A DIGITAL WORLD | Manmita Adhikary | [Read More](https://medium.com/p/2790db30c6c8) |
+| Sun, 05 Apr 2026 11:00:39 GMT | Simulation of Meltdown (CVE-2017–5754) | Saadan ashraf | [Read More](https://medium.com/p/8ba8c2bfb6ac) |
+| Sun, 05 Apr 2026 10:57:19 GMT | AWS WAF From a Cybersecurity Engineer’s Perspective | Josiah McCarthy | [Read More](https://medium.com/p/8c81d5708da6) |
+| Sun, 05 Apr 2026 10:51:01 GMT | What a Website Learns About You Before You Even Try Anything | ZeroScorpion | [Read More](https://medium.com/p/d6cc656ee507) |
+| Sun, 05 Apr 2026 10:49:06 GMT | Pembuatan Aplikasi Quiz (Quiz App) | Zurichsabil | [Read More](https://medium.com/p/9834d54219d8) |
+| Sun, 05 Apr 2026 10:41:19 GMT | How did ancient people lock their doors? | Ritu Singh | [Read More](https://medium.com/p/fe2d05cc9c2a) |
+| Sun, 05 Apr 2026 10:37:16 GMT | The Ghost in the Machine: Privacy in the Era of Agentic AI | Dhanashree | [Read More](https://medium.com/p/d34cfb055018) |
 | Sun, 05 Apr 2026 10:26:05 GMT | Creating a mini SOC environment in Azure. | byL0r3t | [Read More](https://medium.com/p/84ed13d75473) |
 | Sun, 05 Apr 2026 10:20:38 GMT | Cracking the KitKat Heist: A Comprehensive Walkthrough of TryHackMe’s ‘Have a Break’ OSINT Room | Somesh | [Read More](https://medium.com/p/e69f8e8530f1) |
 | Sun, 05 Apr 2026 10:18:19 GMT | Why Can Enterprises and Universities in Mainland China Still Be Compromised Despite Foreign IP… | Мартин. | [Read More](https://medium.com/p/1048a8e864bf) |
@@ -25,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 10:01:04 GMT | How a Non-Technical Graduate Became a Cybersecurity Engineer in 5 Months | Victoria Coker | [Read More](https://medium.com/p/6ca158bb2287) |
 | Sun, 05 Apr 2026 10:00:47 GMT | CVE-2024–48061 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/c1bd3c16daef) |
 | Sun, 05 Apr 2026 09:52:08 GMT | OffSec Proving Grounds Lab: Loly | LIKITH GAJULA | [Read More](https://medium.com/p/069ff2cce01d) |
+| Sun, 05 Apr 2026 09:52:02 GMT | A Responsible Disclosure Story: Finding a Publicly Exposed Government AI Chatbot Through Google… | Godsent | [Read More](https://medium.com/p/899fdc86aab2) |
 | Sun, 05 Apr 2026 09:29:20 GMT | SQL Injection in GraphQL WebSocket Escalated to PII & Document Leak | Ahmed Ghadban | [Read More](https://medium.com/p/09ba7ad2800a) |
 | Sun, 05 Apr 2026 09:21:17 GMT | The Art of Finding Endpoints: A Developer’s Field Guide | Fx03 | [Read More](https://medium.com/p/6edbec6b6a03) |
 | Sun, 05 Apr 2026 09:18:43 GMT | CafeClub (Business Logic) (Bugforge.io) | 7s26Simon | [Read More](https://medium.com/p/7431d6537759) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 04 Apr 2026 22:45:19 GMT | Everything You Think You Know About 
 Tech Privacy Is Wrong | 0x88CK | [Read More](https://medium.com/p/23aaf0c9b2e7) |
 | Sat, 04 Apr 2026 22:42:21 GMT | Critical Cybersecurity and DevOps News Updates - 2026.04.04 - April 4th, 2026 | MrComputerScience | [Read More](https://medium.com/p/8b47b22bbe1c) |
-| Sat, 04 Apr 2026 22:41:14 GMT | North Korea Just Backdoored the Axios npm Package in 80% of Your Projects | Tech Trends by Tähīr | [Read More](https://medium.com/p/950e7785687e) |
-| Sat, 04 Apr 2026 22:39:36 GMT | You Can’t Build Intimacy If You Won’t Let Anyone Support You | Sophy Chunge | [Read More](https://medium.com/p/3ab52a6de6a2) |
-| Sat, 04 Apr 2026 22:23:06 GMT | DOUBLE HOP | Roberto Oliveira | [Read More](https://medium.com/p/7ad148930778) |
-| Sat, 04 Apr 2026 22:21:37 GMT | The Overlooked Clue in the Axios npm Supply Chain Attack | Mark Parry | [Read More](https://medium.com/p/c5db1f1117a5) |
-| Sat, 04 Apr 2026 22:14:15 GMT | TryHackMe Attacktive Directory Writeup (Step-by-Step Deep Dive) | Mohammed Umeruddin | [Read More](https://medium.com/p/8417412eb878) |
-| Sat, 04 Apr 2026 22:04:14 GMT | Supply Chain Security - SANS CyberThreat Summit 2025 | Meera Tamboli | [Read More](https://medium.com/p/2fc153635d96) |
-| Sat, 04 Apr 2026 22:01:43 GMT | ️ Beyond the Visual: The Technical Reality of Homoglyph Attacks | Tooba Siddiqui | [Read More](https://medium.com/p/0c5040c64ba6) |
-| Sat, 04 Apr 2026 21:50:46 GMT | When the Container Becomes the Weapon: Tailscale C2 via Docker Escape | Harshit Bhardwaj | [Read More](https://medium.com/p/97697f752724) |
-| Sat, 04 Apr 2026 21:31:21 GMT | Staying Cautious in the Age of AI Adoption - BSides Bristol 2025 | Meera Tamboli | [Read More](https://medium.com/p/9f50c965d776) |
-| Sat, 04 Apr 2026 21:26:18 GMT | Módulo 2 — Redes, Protocolos y Superficie de Ataque (Visión Hacker) | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/259f6a470e99) |
-| Sat, 04 Apr 2026 21:25:29 GMT | Security Misconfigurations in Cloud Fintech Deployments - When the Infrastructure Is Running, but… | Rufus Kehinde | [Read More](https://medium.com/p/9a23362a0d6f) |
