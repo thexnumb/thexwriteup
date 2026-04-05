@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 20:21:01 GMT | How I Found a Critical Precision Loss in Kuru Labs Using Foundry Fuzzin | rdin777 | [Read More](https://medium.com/p/cc0b0cf1a615) |
+| Sun, 05 Apr 2026 20:20:08 GMT | Advanced Reconnaissance : Expanding the Attack Surface | Maro | [Read More](https://medium.com/p/fded20b62d85) |
+| Sun, 05 Apr 2026 20:11:41 GMT | I Tried Logging In… and Accidentally Did Responsible Disclosure | Sahal | [Read More](https://medium.com/p/70cf467506db) |
+| Sun, 05 Apr 2026 20:11:13 GMT | Best identity verification SDKs for mobile apps | Lenna Mustik | [Read More](https://medium.com/p/9016fb963b4f) |
+| Sun, 05 Apr 2026 20:06:35 GMT | The Complete Guide to Implementing Biometric Liveness Detection Checks | Lenna Mustik | [Read More](https://medium.com/p/b04b45f2027f) |
+| Sun, 05 Apr 2026 20:05:23 GMT | Built a cloud-based SOC lab using Microsoft Azure and Sentinel | Christopher Cheng Wing | [Read More](https://medium.com/p/fa59b933663b) |
+| Sun, 05 Apr 2026 20:03:01 GMT | Zero-Trust Architecture for AI-Integrated Systems | Shivanidanwe | [Read More](https://medium.com/p/5335f3edf120) |
+| Sun, 05 Apr 2026 19:55:11 GMT | I think I’ve had it with Siege for now | Dogtor Flashbank | [Read More](https://medium.com/p/0f9a8fb19340) |
+| Sun, 05 Apr 2026 19:52:10 GMT | Going in Circles: Fourier, Primes, and the Quantum Threat to Cryptography | Khalid Syed | [Read More](https://medium.com/p/0e163cf4ea04) |
+| Sun, 05 Apr 2026 19:51:39 GMT | Critical Logic Vulnerability : Authentication Downgrade | Mshamy | [Read More](https://medium.com/p/143ddda29ab2) |
+| Sun, 05 Apr 2026 19:48:50 GMT | ARP Poisoning | Nikhil Shakya | [Read More](https://medium.com/p/3f414400f022) |
+| Sun, 05 Apr 2026 19:46:01 GMT | The “Vibe Coding” Security Crisis: | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/38b368e15f03) |
+| Sun, 05 Apr 2026 19:44:45 GMT | Audited Smart Contracts: The Foundation of Responsible Web3 Growth. | Bitcos Pro (BOS) | [Read More](https://medium.com/p/8036553a3a2c) |
+| Sun, 05 Apr 2026 19:44:16 GMT | Insights from My CPTS Journey: A Practical Network Pivoting Scenario | Crowx01 | [Read More](https://medium.com/p/2bde761410ee) |
+| Sun, 05 Apr 2026 19:42:22 GMT | Can You Detect an Attack Without a Process? | OMPSHUNYAYA | [Read More](https://medium.com/p/7c034fe621fe) |
+| Sun, 05 Apr 2026 19:40:22 GMT | Cybersecurity Deep Dive: The Complete Guide to Protecting Modern Applications | Kaizen Chandra | [Read More](https://medium.com/p/a442efc3fb06) |
+| Sun, 05 Apr 2026 19:31:16 GMT | SentryQ — How I Built a Local-AI Powered Security Scanner | Gaurav Jha | [Read More](https://medium.com/p/bc791e67e396) |
 | Sun, 05 Apr 2026 19:20:23 GMT | When Static Analysis Turns Dangerous: Command Injection in NASA’s Cobra Tool | dark-haxor | [Read More](https://medium.com/p/f54e3f9f8725) |
 | Sun, 05 Apr 2026 19:19:46 GMT | Empire: Breakout (VulnHub) — Complete Walkthrough & System Compromise | Sahuteman | [Read More](https://medium.com/p/c5dade66ef6f) |
 | Sun, 05 Apr 2026 19:12:38 GMT | Anthropic Accidentally Leaked Claude Code’s Source Code — And the Internet Had a Field Day | Vishnu Vardhan Theegela | [Read More](https://medium.com/p/2d5a9ec1cd4c) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 14:22:11 GMT | Least Privilege: The Art of Giving Just Enough Access | Rinad | [Read More](https://medium.com/p/a25877a23f00) |
 | Sun, 05 Apr 2026 14:14:29 GMT | Cybersecurity Job Market and Skill Acquisition in 2026 | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/e3409c6053dd) |
 | Sun, 05 Apr 2026 14:13:12 GMT | Struktur Data : Searching dalam Python | Nabilla Paraswati | [Read More](https://medium.com/p/17486dccd3f3) |
-| Sun, 05 Apr 2026 14:11:01 GMT | Cloudflare: Revolutionizing the Internet’s Security, Speed, and Scalability | Suneth Madhuwantha | [Read More](https://medium.com/p/371d4f3d0ece) |
-| Sun, 05 Apr 2026 13:45:39 GMT | Top 10 Best Places to Learn Cybersecurity in Nigeria (2026 Guide) | Miaztechacademy | [Read More](https://medium.com/p/393d165900f8) |
-| Sun, 05 Apr 2026 13:41:58 GMT | The Post-Human Web: Why 2026 is the Year the Internet Stopped Belonging to Us | Muhammad Awais | [Read More](https://medium.com/p/c80b59df3ff8) |
-| Sun, 05 Apr 2026 13:31:24 GMT | Race Condition | Ghost | [Read More](https://medium.com/p/7552aa278630) |
-| Sun, 05 Apr 2026 13:30:41 GMT | [Green Code Chronicles] #1: That One File Killed Us | Utsav Moradiya | [Read More](https://medium.com/p/1b4f7569c4f5) |
-| Sun, 05 Apr 2026 13:30:27 GMT | Building a Culture of Security with the Vault Sentry | Thevaultsentry | [Read More](https://medium.com/p/bf9fe5ae2a82) |
-| Sun, 05 Apr 2026 13:28:26 GMT | WireTapper Tool Explained - Wireless Device Detection & OSINT | Pentester Club | [Read More](https://medium.com/p/955c8511cef9) |
-| Sun, 05 Apr 2026 13:27:30 GMT | The Vault Sentry — A Startup’s Strategic Edge in Cybersecurity | Thevaultsentry | [Read More](https://medium.com/p/80d30792ff12) |
-| Sun, 05 Apr 2026 13:27:17 GMT | Environment Variables You’re Leaking to the Frontend Without Knowing It | Saandeep Baansod | [Read More](https://medium.com/p/1a406bed8c86) |
-| Sun, 05 Apr 2026 13:26:43 GMT | AI Basics for Cybersecurity (No Math, Just What You Need) | CyberQuestor | [Read More](https://medium.com/p/93cc9e8c3a6f) |
-| Sun, 05 Apr 2026 13:25:05 GMT | What is Ethical Hacking? A Beginner-Friendly Guide (2026) | Atul A Patil | [Read More](https://medium.com/p/a3b9cfdb66fc) |
-| Sun, 05 Apr 2026 13:13:49 GMT | The Rise of ‘ClickFix’ Attacks: Turns Users Into Their Own Attackers | Candy Wong | [Read More](https://medium.com/p/142f2ef8151c) |
-| Sun, 05 Apr 2026 13:13:48 GMT | The Reign of Spades ♠️ — Part 1 : Breaking h4k-it CTF Challenges | 3xploiter | [Read More](https://medium.com/p/281985335a23) |
-| Sun, 05 Apr 2026 13:08:31 GMT | Unlimited Invites via Race Condition, invite limit bypass writeup | Mohamed Mostafa (0xHafez) | [Read More](https://medium.com/p/c907d21be060) |
-| Sun, 05 Apr 2026 13:01:01 GMT | [Gladiator] Survival Logic of Somatic “Grit” | MonoEssay | [Read More](https://medium.com/p/3df441b33bf3) |
-| Sun, 05 Apr 2026 12:57:13 GMT | The AI Arms Race in Ransomware: How Attackers and Defenders Are Evolving in 2026 | Sandra Blake, Tech & Consumer Intelligence Analyst | [Read More](https://medium.com/p/03a86d4c9e3a) |
-| Sun, 05 Apr 2026 12:44:05 GMT | ☁️ From SSRF to Full AWS Takeover: A Hands-On Cloud Security Lab | Ashutosh Hacks | [Read More](https://medium.com/p/641a48e0eb02) |
