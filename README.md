@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 23:25:32 GMT | From Bash Script to Security Tool: Engineering Lessons From Building a Wi-Fi Testing Automation… | dhiraj deshmukh | [Read More](https://medium.com/p/e001a28bdb0c) |
+| Sun, 05 Apr 2026 23:18:39 GMT | Spor Verileriyle Modern Casusluk: Askerî Gizliliğin Yeni Tehdidi | 1Zek | [Read More](https://medium.com/p/ebbb54500437) |
+| Sun, 05 Apr 2026 22:31:01 GMT | From IPA to Exploit: The Complete Offensive Methodology for iOS Application Testing — Part 2 | Shubham Gupta | [Read More](https://medium.com/p/b739f0b7372b) |
 | Sun, 05 Apr 2026 22:24:10 GMT | Linux Feels Impossible… Until You Learn These 7 Secrets Hackers Never Tell You | Krish_cyber | [Read More](https://medium.com/p/28c954126937) |
 | Sun, 05 Apr 2026 22:23:43 GMT | Become an AI HACKER (It’s Easier Than You Think) | Shahzaib | [Read More](https://medium.com/p/9f309fc8fe94) |
 | Sun, 05 Apr 2026 22:20:26 GMT | How AI Consulting Company in USA for Businesses Looking to Scale with Data, Automation, and… | Primotech | [Read More](https://medium.com/p/fad98b479a60) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 15:32:08 GMT | ️ API Pentesting Mastery Series - Part 1: Essential Tools for Interacting with APIs ️ | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/4acfc912caa7) |
 | Sun, 05 Apr 2026 15:31:38 GMT | Building an Operating System from Scratch — Part 0: Introduction | Hack-Bat | [Read More](https://medium.com/p/06577755c68d) |
 | Sun, 05 Apr 2026 15:22:38 GMT | Open Source Does Not Have a PR Problem Anymore. It Has a Trust Problem | The Atomic Architect | [Read More](https://medium.com/p/be54c2a20e44) |
-| Sun, 05 Apr 2026 15:13:47 GMT | Windows Basic Command Assessment | Khaerul Muhaemin | [Read More](https://medium.com/p/0309d4ddd83b) |
-| Sun, 05 Apr 2026 15:08:00 GMT | Your AI Assistant Is a Security Incident Waiting to Happen. Here’s What OWASP Says to Do About It. | Akshat Yadav | [Read More](https://medium.com/p/c2739c4966ed) |
-| Sun, 05 Apr 2026 15:03:48 GMT | QIH Corporate Overview (Short Version) | Omer Akin | [Read More](https://medium.com/p/8b60c1f8063d) |
