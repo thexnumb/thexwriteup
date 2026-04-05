@@ -12,12 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 19:20:23 GMT | When Static Analysis Turns Dangerous: Command Injection in NASA’s Cobra Tool | dark-haxor | [Read More](https://medium.com/p/f54e3f9f8725) |
+| Sun, 05 Apr 2026 19:19:46 GMT | Empire: Breakout (VulnHub) — Complete Walkthrough & System Compromise | Sahuteman | [Read More](https://medium.com/p/c5dade66ef6f) |
+| Sun, 05 Apr 2026 19:12:38 GMT | Anthropic Accidentally Leaked Claude Code’s Source Code — And the Internet Had a Field Day | Vishnu Vardhan Theegela | [Read More](https://medium.com/p/2d5a9ec1cd4c) |
+| Sun, 05 Apr 2026 19:10:03 GMT | AI as the New Frontier for Espionage | Rolando Santamaría Masó | [Read More](https://medium.com/p/2d3e5c6e244d) |
+| Sun, 05 Apr 2026 19:01:35 GMT | A casa vazia | Yvesklavdian | [Read More](https://medium.com/p/de36c512b27b) |
 | Sun, 05 Apr 2026 18:45:13 GMT | Penetration Testing Contract Agreement (Beginner-Friendly Guide + Open Template) | Busari Mukhtar | [Read More](https://medium.com/p/5833b6de07c9) |
+| Sun, 05 Apr 2026 18:40:56 GMT | Zero Trust Starts Here: Meet the Gatekeeper Behind Every Microsoft Login | Jithmi Hasari | [Read More](https://medium.com/p/bc44b8cab522) |
+| Sun, 05 Apr 2026 18:38:40 GMT | The 33% Oversight: What Data Centers Can Learn from the World’s Largest IT Outage | David Ryan | [Read More](https://medium.com/p/7163b8c5ddee) |
 | Sun, 05 Apr 2026 18:35:46 GMT | Can a attack start without Malware: A small use-case by CrowdStrike in 2026 | Iftikhar Zaidi | [Read More](https://medium.com/p/3a5e031eb2d0) |
 | Sun, 05 Apr 2026 18:34:00 GMT | What Building AI for Goverment Client Taught Me About the Future of Cybersecurity | Ritulraj Cyber | [Read More](https://medium.com/p/dee75f7564de) |
 | Sun, 05 Apr 2026 18:33:38 GMT | The most convenient way to authenticate | Anton Minin Baranovskii | [Read More](https://medium.com/p/1906eb264fdb) |
 | Sun, 05 Apr 2026 18:29:40 GMT | ReconOverlay: Catching CVEs, Exploit Paths, and Version Clues in Real Time | HRK | [Read More](https://medium.com/p/2def7dcfd558) |
 | Sun, 05 Apr 2026 18:29:40 GMT | The Rise of the Agentic SOC | Varunbindra | [Read More](https://medium.com/p/f84afd3853bc) |
+| Sun, 05 Apr 2026 18:27:40 GMT | DC-3 Walkthrough (VulnHub) — Step-by-Step Detailed Guide, Solve -By NA.. | Nikhil Armal | [Read More](https://medium.com/p/0e831bbd28b9) |
 | Sun, 05 Apr 2026 18:20:30 GMT | From Code to Consequence: Executing a Selective Forwarding Attack and Measuring Its True Cost | Shreya Gajjar | [Read More](https://medium.com/p/db92683a4fec) |
 | Sun, 05 Apr 2026 18:17:02 GMT | The 10-Year Reset: From Comfort Zone to Cybersecurity Frontlines | Mohamed Abdelhamied | [Read More](https://medium.com/p/5cf7c7b53ea2) |
 | Sun, 05 Apr 2026 18:15:24 GMT | How IT Support Uses Ticketing Systems: A Simple Jira Walkthrough | Declan | [Read More](https://medium.com/p/90400b60446c) |
@@ -70,6 +78,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 15:22:38 GMT | Open Source Does Not Have a PR Problem Anymore. It Has a Trust Problem | The Atomic Architect | [Read More](https://medium.com/p/be54c2a20e44) |
 | Sun, 05 Apr 2026 15:13:47 GMT | Windows Basic Command Assessment | Khaerul Muhaemin | [Read More](https://medium.com/p/0309d4ddd83b) |
 | Sun, 05 Apr 2026 15:08:00 GMT | Your AI Assistant Is a Security Incident Waiting to Happen. Here’s What OWASP Says to Do About It. | Akshat Yadav | [Read More](https://medium.com/p/c2739c4966ed) |
+| Sun, 05 Apr 2026 15:03:48 GMT | QIH Corporate Overview (Short Version) | Omer Akin | [Read More](https://medium.com/p/8b60c1f8063d) |
 | Sun, 05 Apr 2026 15:00:35 GMT | A Practitioner’s Guide to Organizational Visibility | Jose Carlos (JC) Ruiz Jr | [Read More](https://medium.com/p/bef3730c0052) |
 | Sun, 05 Apr 2026 14:59:23 GMT | AI Governance Is Not Data Privacy | Amritha George | [Read More](https://medium.com/p/fad4b5fa7951) |
 | Sun, 05 Apr 2026 14:46:38 GMT | IDOR Vulnerabilities: A Full-Stack Developer’s Guide to Finding and Fixing Them | Jpparedesm | [Read More](https://medium.com/p/a2e0ad6776e1) |
@@ -84,6 +93,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 14:30:02 GMT | Lab: Reflected XSS into HTML context with nothing encoded | Mohamed Jemmari | [Read More](https://medium.com/p/16ca81ea3f52) |
 | Sun, 05 Apr 2026 14:23:11 GMT | The Invisible Chain: How Threat Actors Profile Your Company Before the Attack | Aether-Intel | [Read More](https://medium.com/p/fd5dfbef783c) |
 | Sun, 05 Apr 2026 14:22:11 GMT | Least Privilege: The Art of Giving Just Enough Access | Rinad | [Read More](https://medium.com/p/a25877a23f00) |
+| Sun, 05 Apr 2026 14:14:29 GMT | Cybersecurity Job Market and Skill Acquisition in 2026 | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/e3409c6053dd) |
 | Sun, 05 Apr 2026 14:13:12 GMT | Struktur Data : Searching dalam Python | Nabilla Paraswati | [Read More](https://medium.com/p/17486dccd3f3) |
 | Sun, 05 Apr 2026 14:11:01 GMT | Cloudflare: Revolutionizing the Internet’s Security, Speed, and Scalability | Suneth Madhuwantha | [Read More](https://medium.com/p/371d4f3d0ece) |
 | Sun, 05 Apr 2026 13:45:39 GMT | Top 10 Best Places to Learn Cybersecurity in Nigeria (2026 Guide) | Miaztechacademy | [Read More](https://medium.com/p/393d165900f8) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 13:01:01 GMT | [Gladiator] Survival Logic of Somatic “Grit” | MonoEssay | [Read More](https://medium.com/p/3df441b33bf3) |
 | Sun, 05 Apr 2026 12:57:13 GMT | The AI Arms Race in Ransomware: How Attackers and Defenders Are Evolving in 2026 | Sandra Blake, Tech & Consumer Intelligence Analyst | [Read More](https://medium.com/p/03a86d4c9e3a) |
 | Sun, 05 Apr 2026 12:44:05 GMT | ☁️ From SSRF to Full AWS Takeover: A Hands-On Cloud Security Lab | Ashutosh Hacks | [Read More](https://medium.com/p/641a48e0eb02) |
-| Sun, 05 Apr 2026 12:43:33 GMT | I Was Gaming ChatGPT for Free. Here’s Why I Stopped. | jitt | [Read More](https://medium.com/p/055dd7940b96) |
-| Sun, 05 Apr 2026 12:40:26 GMT | Stop Leaking Your Code Secrets: A Beginner’s Guide to Gitleaks | Abhishek Singh | [Read More](https://medium.com/p/4014258557bc) |
-| Sun, 05 Apr 2026 12:39:35 GMT | How Smart Contract Security Researchers Make Money | Abraham | [Read More](https://medium.com/p/f619764ce318) |
-| Sun, 05 Apr 2026 12:37:40 GMT | eJPT The Metasploit Framework CTF 2 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/e69ce0cc0b0c) |
-| Sun, 05 Apr 2026 12:31:27 GMT | Client-Side Authentication: Tarayıcıda Saklanan Şifreler Neden Tehlikelidir? | MertErenAİ | [Read More](https://medium.com/p/047a48043d02) |
-| Sun, 05 Apr 2026 12:28:52 GMT | Why the Axios attack wasn’t about frameworks, it was about the dependency model. | Mete Han | [Read More](https://medium.com/p/7dfba3cda741) |
-| Sun, 05 Apr 2026 12:28:40 GMT | Ignite — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/37319c7e255c) |
-| Sun, 05 Apr 2026 12:28:25 GMT | Metode Searching dalam Python | Azka | [Read More](https://medium.com/p/80665656e707) |
-| Sun, 05 Apr 2026 12:26:13 GMT | TeamPCP Tedarik Zinciri İhlali Analizi: Bulut Güvenliğinde Gizli Tehlikeler | AltHack Security | [Read More](https://medium.com/p/6566d55663d0) |
-| Sun, 05 Apr 2026 12:13:42 GMT | Digital Exchange #1x03: A 25‑Character Recovery Code and a Medical App That Forgot How Humans Work | Tetsuji Kondo | [Read More](https://medium.com/p/181d31ccb700) |
