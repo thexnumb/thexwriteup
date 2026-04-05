@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 22:24:10 GMT | Linux Feels Impossible… Until You Learn These 7 Secrets Hackers Never Tell You | Krish_cyber | [Read More](https://medium.com/p/28c954126937) |
+| Sun, 05 Apr 2026 22:23:43 GMT | Become an AI HACKER (It’s Easier Than You Think) | Shahzaib | [Read More](https://medium.com/p/9f309fc8fe94) |
+| Sun, 05 Apr 2026 22:20:26 GMT | How AI Consulting Company in USA for Businesses Looking to Scale with Data, Automation, and… | Primotech | [Read More](https://medium.com/p/fad98b479a60) |
+| Sun, 05 Apr 2026 22:16:05 GMT | Stop Leaking Sensitive Data in Your .NET Logs — Introducing Moongazing.Veil | Tunahan Ali Ozturk | [Read More](https://medium.com/p/85321c667df3) |
+| Sun, 05 Apr 2026 21:58:24 GMT | Hardening Node Exporter: A Production-Ready Standard | Rachit Sheth | [Read More](https://medium.com/p/f102a1dafd39) |
+| Sun, 05 Apr 2026 21:40:06 GMT | Kioptrix Level 1 Vulnhub MachineWriteup | Dexter Morgan | [Read More](https://medium.com/p/31e13816717e) |
+| Sun, 05 Apr 2026 21:36:25 GMT | Easter Message from GuardianWatch | GuardianWatch | [Read More](https://medium.com/p/dfd77205daf0) |
+| Sun, 05 Apr 2026 21:35:38 GMT | How I Use AI for Penetration Testing | Teri Radichel | [Read More](https://medium.com/p/a6b9dd8d926a) |
 | Sun, 05 Apr 2026 21:31:23 GMT | Zero Trust Security: Why Perimeter-Based Cybersecurity Is No Longer Effective | Mauricio Leandro Momi | [Read More](https://medium.com/p/83126f8c1892) |
 | Sun, 05 Apr 2026 21:17:05 GMT | Reversing a Vulnerable Driver: Discovering a Kernel Memory Allocation Primitive | S12 - 0x12Dark Development | [Read More](https://medium.com/p/6fed8383fefc) |
 | Sun, 05 Apr 2026 21:16:10 GMT | What Are Flash Loan Attacks? The DeFi Exploit Behind Billion Dollar Hacks | Abraham | [Read More](https://medium.com/p/db79142e489d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 15:13:47 GMT | Windows Basic Command Assessment | Khaerul Muhaemin | [Read More](https://medium.com/p/0309d4ddd83b) |
 | Sun, 05 Apr 2026 15:08:00 GMT | Your AI Assistant Is a Security Incident Waiting to Happen. Here’s What OWASP Says to Do About It. | Akshat Yadav | [Read More](https://medium.com/p/c2739c4966ed) |
 | Sun, 05 Apr 2026 15:03:48 GMT | QIH Corporate Overview (Short Version) | Omer Akin | [Read More](https://medium.com/p/8b60c1f8063d) |
-| Sun, 05 Apr 2026 15:00:35 GMT | A Practitioner’s Guide to Organizational Visibility | Jose Carlos (JC) Ruiz Jr | [Read More](https://medium.com/p/bef3730c0052) |
-| Sun, 05 Apr 2026 14:59:23 GMT | AI Governance Is Not Data Privacy | Amritha George | [Read More](https://medium.com/p/fad4b5fa7951) |
-| Sun, 05 Apr 2026 14:46:38 GMT | IDOR Vulnerabilities: A Full-Stack Developer’s Guide to Finding and Fixing Them | Jpparedesm | [Read More](https://medium.com/p/a2e0ad6776e1) |
-| Sun, 05 Apr 2026 14:46:01 GMT | Lockdown Lab - CyberDefenders Writeup | Solvenite | [Read More](https://medium.com/p/73a96ea01eb9) |
-| Sun, 05 Apr 2026 14:45:38 GMT | Lab: Stored XSS into HTML context with nothing encoded | Mohamed Jemmari | [Read More](https://medium.com/p/9a4e16c547d7) |
-| Sun, 05 Apr 2026 14:43:57 GMT | Building a Unified Cybersecurity Strategy: Where Principles Become Practice | Aliyev Rinad Code | [Read More](https://medium.com/p/607d2c560e50) |
-| Sun, 05 Apr 2026 14:38:56 GMT | Security Through Obscurity: Hidden… But Is It Secure? | Hezeyan Nw | [Read More](https://medium.com/p/081f161943e1) |
-| Sun, 05 Apr 2026 14:34:03 GMT | Secure by Design: Building Security Into the Foundation | Hezeyan Nw | [Read More](https://medium.com/p/3c54aea246e2) |
