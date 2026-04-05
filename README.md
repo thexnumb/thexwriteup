@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 08:37:46 GMT | How to Leverage TPRM Technology According to Gartner | Oran F | [Read More](https://medium.com/p/d50784f6b3d3) |
+| Sun, 05 Apr 2026 08:22:50 GMT | What I Learned From Earning 32+ IT Certifications | Jhon Arzu-Gil | [Read More](https://medium.com/p/ed05573b50fd) |
+| Sun, 05 Apr 2026 08:21:45 GMT | How to Start Linux Career After 12th — Complete Guide | cyber security Updates | [Read More](https://medium.com/p/ebc223049eef) |
+| Sun, 05 Apr 2026 08:17:15 GMT | Broken Authentication & Password Reset Vulnerabilities | Sureshbabu | [Read More](https://medium.com/p/6a33770980c0) |
+| Sun, 05 Apr 2026 08:08:21 GMT | How I Built an Automated Recon Pipeline for Bug Bounty Hunting | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/bed3cb545317) |
+| Sun, 05 Apr 2026 08:07:35 GMT | What to Do When Your Password Gets Hacked | Sanista Ramphal | [Read More](https://medium.com/p/fd2ffdc118f0) |
+| Sun, 05 Apr 2026 08:05:18 GMT | I Just Open-Sourced My Entire SOC Training Curriculum — And It’s Free | Shewag Bhattarai | [Read More](https://medium.com/p/4dcd1f1f72a8) |
+| Sun, 05 Apr 2026 07:49:42 GMT | Your API Can DDoS Itself | Think Data | [Read More](https://medium.com/p/81fd4d42e3e8) |
 | Sun, 05 Apr 2026 07:22:06 GMT | The Invisible Threat: Detecting Early-Stage Phishing & Scam Campaigns | ThreatWatch360 | [Read More](https://medium.com/p/c5d36ef97336) |
 | Sun, 05 Apr 2026 07:10:01 GMT | Some weird things about me | Vinod Bhardwaj | [Read More](https://medium.com/p/ae51f530158c) |
 | Sun, 05 Apr 2026 07:06:59 GMT | Have A Break — TryHackMe OSINT CTF Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/4f631667fc7e) |
@@ -105,11 +113,3 @@ Tech Privacy Is Wrong | 0x88CK | [Read More](https://medium.com/p/23aaf0c9b2e7) 
 | Sat, 04 Apr 2026 19:16:17 GMT | The recent CyHawk Africa advisory on the ByteToBreach incident is not just another breach report… | Adeola James Aderonmu | [Read More](https://medium.com/p/3bcac3546328) |
 | Sat, 04 Apr 2026 18:57:15 GMT | The Linux Security Journey — nosymfollow (No Symbolic Link Follow) File System Support | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/693c193e7ac7) |
 | Sat, 04 Apr 2026 18:52:34 GMT | Day 22: Vulnerabilities, CVE, and Patching | Siddhesh Patil | [Read More](https://medium.com/p/9e9de422fa8f) |
-| Sat, 04 Apr 2026 18:47:27 GMT | Path Traversal Vulnerability in Go: From Source Code Review to Exploitation | Sanaullah Aman Korai | [Read More](https://medium.com/p/692ae3c3a2d7) |
-| Sat, 04 Apr 2026 18:46:50 GMT | Scapy 102 — Ağı Aktif Olarak Sorgulamak | Exript | [Read More](https://medium.com/p/4feb2063307b) |
-| Sat, 04 Apr 2026 18:44:42 GMT | Smart Living Starts Here: Why a Home Assistant Door Sensor Is a Must-Have | Criminology Expert | [Read More](https://medium.com/p/31de410a6e90) |
-| Sat, 04 Apr 2026 18:39:04 GMT | The Hidden Risk in Active Directory: How One Misconfiguration Led to a Major Cyber Breach | Nathalietchoumi | [Read More](https://medium.com/p/acac3c647dab) |
-| Sat, 04 Apr 2026 18:38:33 GMT | The Complete Guide to SSH: Password, Keys, Agent & Config | Vellalacheruvu Raviteja | [Read More](https://medium.com/p/bb75d93ff945) |
-| Sat, 04 Apr 2026 18:34:57 GMT | Blind SQL Injection in Private Program Leads to $2,100 Bounty | Sachin Aneja | [Read More](https://medium.com/p/a7e11e775919) |
-| Sat, 04 Apr 2026 18:23:26 GMT | Built an Automated Network Scanner That Updates Itself Every 10 Minutes (Real-Time Cyber… | Pa1cosmic | [Read More](https://medium.com/p/488b4ed2285a) |
-| Sat, 04 Apr 2026 18:20:14 GMT | Threat Hunting Case Study: LOLBins, Registry Staging & Fileless C2 Attack | Vidhi patel | [Read More](https://medium.com/p/079d850284f0) |
