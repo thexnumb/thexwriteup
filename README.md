@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 21:31:23 GMT | Zero Trust Security: Why Perimeter-Based Cybersecurity Is No Longer Effective | Mauricio Leandro Momi | [Read More](https://medium.com/p/83126f8c1892) |
+| Sun, 05 Apr 2026 21:17:05 GMT | Reversing a Vulnerable Driver: Discovering a Kernel Memory Allocation Primitive | S12 - 0x12Dark Development | [Read More](https://medium.com/p/6fed8383fefc) |
+| Sun, 05 Apr 2026 21:16:10 GMT | What Are Flash Loan Attacks? The DeFi Exploit Behind Billion Dollar Hacks | Abraham | [Read More](https://medium.com/p/db79142e489d) |
+| Sun, 05 Apr 2026 21:08:08 GMT | Everything Changed When I Stepped on Stage, Grabbed the Mic, Told My First Joke, and Heard the… | Quamster0328 | [Read More](https://medium.com/p/118419f61456) |
+| Sun, 05 Apr 2026 21:04:34 GMT | Stop Performing Your Perfection: Why Your Messy, Unfinished Self Is the One They’ve Been Waiting… | Lumierae | [Read More](https://medium.com/p/fd601690a83f) |
+| Sun, 05 Apr 2026 20:41:36 GMT | Insider Threats - When the Most Dangerous Person in the Room Already Has a Badge | Rufus Kehinde | [Read More](https://medium.com/p/d799ba754816) |
+| Sun, 05 Apr 2026 20:36:57 GMT | Cyber Kill Chain Room — TryHackMe | Reem Ahmed | [Read More](https://medium.com/p/016fd4455241) |
+| Sun, 05 Apr 2026 20:33:13 GMT | How I Built an Active Directory Lab From Scratch | Will Giles - Cybersecurity | [Read More](https://medium.com/p/5612e116b0f1) |
 | Sun, 05 Apr 2026 20:21:01 GMT | How I Found a Critical Precision Loss in Kuru Labs Using Foundry Fuzzin | rdin777 | [Read More](https://medium.com/p/cc0b0cf1a615) |
 | Sun, 05 Apr 2026 20:20:08 GMT | Advanced Reconnaissance : Expanding the Attack Surface | Maro | [Read More](https://medium.com/p/fded20b62d85) |
 | Sun, 05 Apr 2026 20:11:41 GMT | I Tried Logging In… and Accidentally Did Responsible Disclosure | Sahal | [Read More](https://medium.com/p/70cf467506db) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 14:43:57 GMT | Building a Unified Cybersecurity Strategy: Where Principles Become Practice | Aliyev Rinad Code | [Read More](https://medium.com/p/607d2c560e50) |
 | Sun, 05 Apr 2026 14:38:56 GMT | Security Through Obscurity: Hidden… But Is It Secure? | Hezeyan Nw | [Read More](https://medium.com/p/081f161943e1) |
 | Sun, 05 Apr 2026 14:34:03 GMT | Secure by Design: Building Security Into the Foundation | Hezeyan Nw | [Read More](https://medium.com/p/3c54aea246e2) |
-| Sun, 05 Apr 2026 14:33:41 GMT | How I Solved ColddBox TryHackMe /Vulnhub Machine Writeup | Shuhaib N C | [Read More](https://medium.com/p/9fd6926d74f2) |
-| Sun, 05 Apr 2026 14:30:52 GMT | LinkedIn’s Extension Scans Raise Bigger Trust Questions | Geoffrey Wenger | [Read More](https://medium.com/p/56d05973e387) |
-| Sun, 05 Apr 2026 14:30:45 GMT | SunsetNoontide — UnrealIRCd Backdoor + Default Root Password - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/8f3c5864527c) |
-| Sun, 05 Apr 2026 14:30:02 GMT | Lab: Reflected XSS into HTML context with nothing encoded | Mohamed Jemmari | [Read More](https://medium.com/p/16ca81ea3f52) |
-| Sun, 05 Apr 2026 14:23:11 GMT | The Invisible Chain: How Threat Actors Profile Your Company Before the Attack | Aether-Intel | [Read More](https://medium.com/p/fd5dfbef783c) |
-| Sun, 05 Apr 2026 14:22:11 GMT | Least Privilege: The Art of Giving Just Enough Access | Rinad | [Read More](https://medium.com/p/a25877a23f00) |
-| Sun, 05 Apr 2026 14:14:29 GMT | Cybersecurity Job Market and Skill Acquisition in 2026 | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/e3409c6053dd) |
-| Sun, 05 Apr 2026 14:13:12 GMT | Struktur Data : Searching dalam Python | Nabilla Paraswati | [Read More](https://medium.com/p/17486dccd3f3) |
