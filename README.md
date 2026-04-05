@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 05 Apr 2026 10:26:05 GMT | Creating a mini SOC environment in Azure. | byL0r3t | [Read More](https://medium.com/p/84ed13d75473) |
+| Sun, 05 Apr 2026 10:20:38 GMT | Cracking the KitKat Heist: A Comprehensive Walkthrough of TryHackMe’s ‘Have a Break’ OSINT Room | Somesh | [Read More](https://medium.com/p/e69f8e8530f1) |
+| Sun, 05 Apr 2026 10:18:19 GMT | Why Can Enterprises and Universities in Mainland China Still Be Compromised Despite Foreign IP… | Мартин. | [Read More](https://medium.com/p/1048a8e864bf) |
+| Sun, 05 Apr 2026 10:16:55 GMT | I Asked 3 Exes to Tell Me My Worst Trait. The Answers Weren't What I Expected. | Archie James | [Read More](https://medium.com/p/73fc318f924b) |
+| Sun, 05 Apr 2026 10:16:30 GMT | Best Commercial Security Systems in Nebraska: What Business Leaders Must Know in 2026 | ASI Systems Pro | [Read More](https://medium.com/p/1ae0e58506c6) |
+| Sun, 05 Apr 2026 10:11:25 GMT | The Art of Knowing Everything Before You Hack Anything part 1 | Yousef Elsheikh | [Read More](https://medium.com/p/14fad1e575f3) |
+| Sun, 05 Apr 2026 10:11:20 GMT | The “Free Internship” Trap: Why the VOIS Cybersecurity Program is a Phishing Goldmine | Hacky | [Read More](https://medium.com/p/c327530b916c) |
+| Sun, 05 Apr 2026 10:10:39 GMT | When AppSec Means Everything: A Practical Survival Guide | Kerkroups | [Read More](https://medium.com/p/7977db38d5e3) |
+| Sun, 05 Apr 2026 10:07:34 GMT | Mastering SQLMAP: A Step-by-Step Walkthrough of the TryHackMe Lab | Md Nuhas Mahmud | [Read More](https://medium.com/p/00b38af7899b) |
+| Sun, 05 Apr 2026 10:05:39 GMT | Why is it so difficult to assassinate Vladimir Putin? | Deepak Choudhary | [Read More](https://medium.com/p/9edc30590393) |
+| Sun, 05 Apr 2026 10:01:04 GMT | How a Non-Technical Graduate Became a Cybersecurity Engineer in 5 Months | Victoria Coker | [Read More](https://medium.com/p/6ca158bb2287) |
+| Sun, 05 Apr 2026 10:00:47 GMT | CVE-2024–48061 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/c1bd3c16daef) |
+| Sun, 05 Apr 2026 09:52:08 GMT | OffSec Proving Grounds Lab: Loly | LIKITH GAJULA | [Read More](https://medium.com/p/069ff2cce01d) |
 | Sun, 05 Apr 2026 09:29:20 GMT | SQL Injection in GraphQL WebSocket Escalated to PII & Document Leak | Ahmed Ghadban | [Read More](https://medium.com/p/09ba7ad2800a) |
 | Sun, 05 Apr 2026 09:21:17 GMT | The Art of Finding Endpoints: A Developer’s Field Guide | Fx03 | [Read More](https://medium.com/p/6edbec6b6a03) |
 | Sun, 05 Apr 2026 09:18:43 GMT | CafeClub (Business Logic) (Bugforge.io) | 7s26Simon | [Read More](https://medium.com/p/7431d6537759) |
@@ -100,16 +113,3 @@ Tech Privacy Is Wrong | 0x88CK | [Read More](https://medium.com/p/23aaf0c9b2e7) 
 | Sat, 04 Apr 2026 21:31:21 GMT | Staying Cautious in the Age of AI Adoption - BSides Bristol 2025 | Meera Tamboli | [Read More](https://medium.com/p/9f50c965d776) |
 | Sat, 04 Apr 2026 21:26:18 GMT | Módulo 2 — Redes, Protocolos y Superficie de Ataque (Visión Hacker) | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/259f6a470e99) |
 | Sat, 04 Apr 2026 21:25:29 GMT | Security Misconfigurations in Cloud Fintech Deployments - When the Infrastructure Is Running, but… | Rufus Kehinde | [Read More](https://medium.com/p/9a23362a0d6f) |
-| Sat, 04 Apr 2026 20:52:36 GMT | Server-Side Fingerprinting Without a Single Line of JavaScript | Даниил Петрушевский | [Read More](https://medium.com/p/8506d77f1429) |
-| Sat, 04 Apr 2026 20:46:51 GMT | What attackers see when they scan your SaaS domain | Threatlocator | [Read More](https://medium.com/p/97b6c9e62c0f) |
-| Sat, 04 Apr 2026 20:46:16 GMT | Old Parser Bugs Survive Because “Header Checked” Feels Safer Than It Is | Lukasjohannesmoeller | [Read More](https://medium.com/p/80b368d1ac04) |
-| Sat, 04 Apr 2026 20:46:06 GMT | The Evolution of the “Impossible” | R. F. Dace ♘ | [Read More](https://medium.com/p/d4eb670ee213) |
-| Sat, 04 Apr 2026 20:45:59 GMT | Linux Kernel SIP Parsing Bugs Are Sometimes Just Integer Bugs in Disguise | Lukasjohannesmoeller | [Read More](https://medium.com/p/951c12fd5a05) |
-| Sat, 04 Apr 2026 20:39:00 GMT | Protecting Critical Infrastructure in the Age of Cyber Warfare | Omer Akin | [Read More](https://medium.com/p/6984f5376164) |
-| Sat, 04 Apr 2026 20:28:45 GMT | Integrating gRPC with Mendix | Gurumoorthy J | [Read More](https://medium.com/p/90a276af5758) |
-| Sat, 04 Apr 2026 20:21:22 GMT | Disclose Facebook Private Groups Appealed Content | Mustafa | [Read More](https://medium.com/p/a37231d9bb72) |
-| Sat, 04 Apr 2026 20:21:17 GMT | Cisco Just Patched a 9.8/10 Severity Flaw That Let Hackers Take Over Servers Without a Password | Decoding Daily Tech News | [Read More](https://medium.com/p/7603b0d49271) |
-| Sat, 04 Apr 2026 20:11:03 GMT | How AI Is Changing Cybersecurity | Mubashir | [Read More](https://medium.com/p/97a6f9ad67e0) |
-| Sat, 04 Apr 2026 20:06:01 GMT | Ch-Ch-Ch… Pass-Pass-Pass: My Friday the 13th Journey to eJPT | 5kullk3r | [Read More](https://medium.com/p/752eb51972ee) |
-| Sat, 04 Apr 2026 19:57:06 GMT | Finding Unique Fingerprint Keywords for FOFA, Shodan, ZoomEye, Censys, MODAT & Hunter.how | WolfSec | [Read More](https://medium.com/p/5198993c1bca) |
-| Sat, 04 Apr 2026 19:39:09 GMT | Reverse Engineering Basics | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/efc70af8deb1) |
