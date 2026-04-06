@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Apr 2026 21:48:24 GMT | He Got Ignored… So He Leaked a Windows Zero-Day! | Venkata Nagasai Kesani | [Read More](https://medium.com/p/e1ae3ec94c34) |
+| Mon, 06 Apr 2026 21:45:53 GMT | Cookie(Çerez) Türleri ve Pentest Açısından Önemi | Zeki Kayaalp | [Read More](https://medium.com/p/2d2c4aca63f9) |
+| Mon, 06 Apr 2026 21:43:47 GMT | Smart Contract Security: The Overlooked Skill That Can Change Your Life | Abraham | [Read More](https://medium.com/p/1d5ae41246e9) |
+| Mon, 06 Apr 2026 21:40:14 GMT | Introduction to Assembly Language | Y Team | [Read More](https://medium.com/p/d421ee5ab53a) |
+| Mon, 06 Apr 2026 21:37:15 GMT | Walkthrough: Executing Local File Inclusion and Remote Code Execution with Burp Suite! | Daryl Brooks | [Read More](https://medium.com/p/78cd1d653ca0) |
+| Mon, 06 Apr 2026 21:35:18 GMT | How Secure Are Your Login & Register Forms? A Practical Guide for Developers | N5tty | [Read More](https://medium.com/p/7787dcef12e6) |
+| Mon, 06 Apr 2026 21:34:39 GMT | The Scariest Malware Isn’t Loud Anymore, It’s Invisible! | Venkata Nagasai Kesani | [Read More](https://medium.com/p/03375c54dacb) |
+| Mon, 06 Apr 2026 21:30:27 GMT | AI Driven Threat Intelligence Report: A Pet Project | Matt Cox | [Read More](https://medium.com/p/e3172de146d4) |
+| Mon, 06 Apr 2026 21:20:45 GMT | HTB: Execute (challange) | Alex Alexander | [Read More](https://medium.com/p/846cae0156dc) |
+| Mon, 06 Apr 2026 21:18:18 GMT | CVE-2024–27292 Walkthrough (Proving Ground-OSCP) | Cyber Public School | [Read More](https://medium.com/p/138396041ec7) |
+| Mon, 06 Apr 2026 21:17:28 GMT | Can your vector database actually leak your data? I built a project to find out. | Sunanda | [Read More](https://medium.com/p/42855c613561) |
+| Mon, 06 Apr 2026 21:16:31 GMT | Cybersecurity Is a Mindset We Practiced Even Before Word Existed | Bhumijofficial | [Read More](https://medium.com/p/76e6070c2d97) |
+| Mon, 06 Apr 2026 21:12:21 GMT | Building a Full Attack Chain: HID Injection, Payload Delivery, Evasion & Persistence Techniques | Omar Ahmed | [Read More](https://medium.com/p/3fd87ca1faf9) |
 | Mon, 06 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 43: Test Prep, Day 2 | Maximillian Rueda | [Read More](https://medium.com/p/ffb333f2a647) |
 | Mon, 06 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 42: Test Prep, Day 1 | Maximillian Rueda | [Read More](https://medium.com/p/c5061dc9488c) |
 | Mon, 06 Apr 2026 20:59:45 GMT | A scientist and artist refuses to “pick one” | Luci Clary | [Read More](https://medium.com/p/cb01331ee68d) |
+| Mon, 06 Apr 2026 20:57:50 GMT | ASP.NET Core Data Protection’ı Kuantum Çağına Hazırlamak: QuantumDataProtection | Tansel Dinçkaya | [Read More](https://medium.com/p/85405521a0fc) |
 | Mon, 06 Apr 2026 20:49:44 GMT | The Enemy in Your Terminal: Why OpenClaw was the Perfect Trojan Horse | Syed Ahmer Shah | [Read More](https://medium.com/p/804df981f89b) |
 | Mon, 06 Apr 2026 20:47:26 GMT | DISKO 4… picoCTF | Configx | [Read More](https://medium.com/p/ea6ed47e6aab) |
 | Mon, 06 Apr 2026 20:47:15 GMT | The Psychology of Grief: What Losing a Pure Soul Taught Me About Life | Binte Habib | [Read More](https://medium.com/p/a07edaa4b51b) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 16:16:38 GMT | Why Digital Forensic Services Are Essential for Modern Businesses | Drona Cyber Solutions | [Read More](https://medium.com/p/6379a6b20e6d) |
 | Mon, 06 Apr 2026 16:16:00 GMT | Warning: Malicious Polymarket Copy Trading Bots Are Stealing Private Keys | Данил Шадрин | [Read More](https://medium.com/p/fcd3803dc173) |
 | Mon, 06 Apr 2026 16:10:25 GMT | SIEM Without Limits: Managing Logs, Metrics, and Traces in 2026 | NetWitness | [Read More](https://medium.com/p/062d5c4188fb) |
-| Mon, 06 Apr 2026 16:03:35 GMT | THM: Poison | Murad Salem | [Read More](https://medium.com/p/b231e58a0faf) |
-| Mon, 06 Apr 2026 16:01:33 GMT | Melonity V2: Лучший чит для Dota 2 в 2026 году — Честный обзор | Aurelivoines | [Read More](https://medium.com/p/8b2e666e9091) |
-| Mon, 06 Apr 2026 15:57:06 GMT | I Tried Hacking Myself Like a Bug Hunter for 24 Hours — Here’s the Vulnerability I Found… | Kidnapshadow | [Read More](https://medium.com/p/8a58ba45bc1a) |
-| Mon, 06 Apr 2026 15:54:30 GMT | Identity is Under Siege. Rainbow Secure is Redefining the Defense. | Dr. Shashi Karhail | [Read More](https://medium.com/p/4819b739bb51) |
-| Mon, 06 Apr 2026 15:49:21 GMT | Integrating Azure Bastion in Azure Virtual WAN setup | Brian Veldman | [Read More](https://medium.com/p/2d4e61712dc6) |
-| Mon, 06 Apr 2026 15:49:01 GMT | O que a Escola não Ensina | Hailé Cruz | [Read More](https://medium.com/p/9d90960097e8) |
-| Mon, 06 Apr 2026 15:48:09 GMT | Brigita Cyber Security Solutions | Brigita | [Read More](https://medium.com/p/17447d34ca3f) |
-| Mon, 06 Apr 2026 15:42:27 GMT | Sudan’s Sovereignty vs. The Brotherhood’s Ideology | Know Afrika | [Read More](https://medium.com/p/d601e1fe268c) |
-| Mon, 06 Apr 2026 15:41:45 GMT | You Cannot Procure Your Way to AI Act Compliance | Henry Bravo | [Read More](https://medium.com/p/3c699e36e77e) |
-| Mon, 06 Apr 2026 15:39:02 GMT | I Got the Admin Password by Changing One Word in a URL — This Bug Pays Up to $10,000 Another step… | morgan_hack | [Read More](https://medium.com/p/94459cd5acb5) |
-| Mon, 06 Apr 2026 15:38:58 GMT | Streamlit Authentication in Practice: Microsoft Entra ID Integration & Real-World Limitations | Simon Corde | [Read More](https://medium.com/p/66171ab88555) |
-| Mon, 06 Apr 2026 15:36:18 GMT | Build your Billion-dollar security company | Nachiketh Rao | [Read More](https://medium.com/p/64ce0663c401) |
-| Mon, 06 Apr 2026 15:36:11 GMT | Spring Cloud Config Can Be a Security Problem You Don’t Notice Until It Is Public | The Atomic Architect | [Read More](https://medium.com/p/d40e5b1ac72f) |
-| Mon, 06 Apr 2026 15:32:42 GMT | The Founder’s Blindspot: What Being Hacked Taught Us About Emotion and Security | My Life in Comics | [Read More](https://medium.com/p/a181ca84901c) |
