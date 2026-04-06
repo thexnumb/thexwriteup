@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Apr 2026 20:04:45 GMT | Tracking USB Activity Through Event Logs: Every Plug Tells a Story | Dean | [Read More](https://medium.com/p/1248d7820678) |
+| Mon, 06 Apr 2026 20:03:13 GMT | Authenticated Multi-Privilege DAST with OWASP ZAP in CI/CD in Gitlab | Med Yeslem Med Lekhlive | [Read More](https://medium.com/p/d300fdc94c43) |
+| Mon, 06 Apr 2026 19:56:01 GMT | Using AI to Strengthen Cybersecurity and Reduce Business Costs | Osiris | [Read More](https://medium.com/p/0eaf3eba4070) |
+| Mon, 06 Apr 2026 19:53:28 GMT | You Delivered a Threat Model : They Slipped a Sprint | Mallikarjun Hangargi | [Read More](https://medium.com/p/4148878d9b85) |
+| Mon, 06 Apr 2026 19:51:50 GMT | The Invisible Wiring Problem Inside Siemens-Style Substation Factories | Abdulrahman Alqady | [Read More](https://medium.com/p/dec9ae624691) |
+| Mon, 06 Apr 2026 19:45:23 GMT | How to Master Dependency Intelligence in Ruby | Stéphane Paquet | [Read More](https://medium.com/p/5e22fc60b17d) |
+| Mon, 06 Apr 2026 19:44:18 GMT | Vulnerability Assessment of a Live Web Application: A Practical Case Study | Chinedum Udenkwo | [Read More](https://medium.com/p/92e8d705a136) |
+| Mon, 06 Apr 2026 19:43:55 GMT | AI vs. Hackers: The New Cybersecurity Battlefield | Mughira Ahmed | [Read More](https://medium.com/p/6fe9d26297c5) |
+| Mon, 06 Apr 2026 19:37:59 GMT | How Qilin and Warlock Ransomware Disable 300+ Security Tools Using Vulnerable Drivers | Diyatk | [Read More](https://medium.com/p/cbbd00c56f75) |
+| Mon, 06 Apr 2026 19:31:01 GMT | The 24-Hour Wake-Up Call: Why Sam Altman’s AI Blueprint Changes Everything | Analyst Uttam | [Read More](https://medium.com/p/3e8856bcf150) |
+| Mon, 06 Apr 2026 19:30:29 GMT | Technology Didn’t Get Worse by Accident | Introspection Down Under | [Read More](https://medium.com/p/207ce1ddac1f) |
+| Mon, 06 Apr 2026 19:28:24 GMT | The Security Symphony: Orchestrating a Cohesive Cybersecurity Strategy | Hikmat Mammadov | [Read More](https://medium.com/p/3056be38d47f) |
+| Mon, 06 Apr 2026 19:26:47 GMT | Are containers really isolated? (Part 2 — Mount Namespaces) | Alhousseini Mohamed Sori | [Read More](https://medium.com/p/59866edba66a) |
+| Mon, 06 Apr 2026 19:25:35 GMT | COMouflage: Surrogate Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/cfb93e15afcd) |
+| Mon, 06 Apr 2026 19:24:36 GMT | From a Movie Download to a macOS Info-Stealer: Dissecting a Fake GitHub Phishing Campaign | Hammad Iftikhar | [Read More](https://medium.com/p/ae2d0a7d4eec) |
+| Mon, 06 Apr 2026 19:23:13 GMT | Startup MVP Development: Build Scalable Products Without Hiring a Tech Team | Defenate Labs | [Read More](https://medium.com/p/0c622af9f2d1) |
+| Mon, 06 Apr 2026 19:22:10 GMT | The Hacker Methodology | Axidion | [Read More](https://medium.com/p/7cfe903dc1e8) |
+| Mon, 06 Apr 2026 19:20:23 GMT | The Hidden Trap: Rethinking Security Through Obscurity | Hikmat Mammadov | [Read More](https://medium.com/p/6b477132e5f3) |
+| Mon, 06 Apr 2026 19:20:11 GMT | You Might Already Be a Victim of a Cyber Attack — Without Realising It | Ritujaa Kelaskar | [Read More](https://medium.com/p/d168aa1af91a) |
 | Mon, 06 Apr 2026 19:02:59 GMT | Integrasi Git, Jenkins, dan Docker pada Ubuntu 24.04 LTS | ndrozz | [Read More](https://medium.com/p/f6095a1acff6) |
 | Mon, 06 Apr 2026 18:58:02 GMT | Bug Bounty Journey — Valid Report Part 11 | 0xF3r4t | [Read More](https://medium.com/p/07c949581b4d) |
 | Mon, 06 Apr 2026 18:54:04 GMT | The Chip and the Treaty: Technology Sanctions as the New Language of Digital Statecraft | CCD-IS | [Read More](https://medium.com/p/fb6a9a74de83) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 14:51:46 GMT | CVE-2026–4931: How Spearbit’s Cantina Denied a Critical Vulnerability Using Verifiably False… | Donnyoregon | [Read More](https://medium.com/p/0a27b92ac2db) |
 | Mon, 06 Apr 2026 14:50:52 GMT | The Truth About Background Checks for Cheating Partners | Sergio Hunter | [Read More](https://medium.com/p/9d710b674cca) |
 | Mon, 06 Apr 2026 14:49:00 GMT | Understanding Dark Web Forums and Their Role in Online Communities | Tor BBB | [Read More](https://medium.com/p/00527f06fa27) |
-| Mon, 06 Apr 2026 14:38:09 GMT | Data Loss Prevention (DLP): A Complete Beginner-to-Advanced Guide - Part — 1 | rootRS7 | [Read More](https://medium.com/p/fa476567ae0e) |
-| Mon, 06 Apr 2026 14:36:45 GMT | Building an Android App Analysis Lab on Ubuntu: A Practical Setup Guide | Andrey Pautov | [Read More](https://medium.com/p/4a09fff37622) |
-| Mon, 06 Apr 2026 14:34:29 GMT | Webinar: Integrating SAST into DevSecOps — Key points | Unicorn Developer | [Read More](https://medium.com/p/5a611f414749) |
-| Mon, 06 Apr 2026 14:32:56 GMT | Passwordless Login Needs Less Than Passkeys | Aris | [Read More](https://medium.com/p/f7351c0f9ced) |
-| Mon, 06 Apr 2026 14:31:03 GMT | The Impedance Mismatch: Analyzing the Architectural Flaw in Cybersecurity Talent Pipelines | Funcybot | [Read More](https://medium.com/p/a318050ce388) |
-| Mon, 06 Apr 2026 14:29:38 GMT | The Drift Protocol Hack Is the Scariest Hack in 2026 | Patrick Collins | [Read More](https://medium.com/p/025359b87b5a) |
-| Mon, 06 Apr 2026 14:26:38 GMT | Microsoft Copilot for M365 Setup Guide: What OC Enterprises Must Get Right Before Flipping the… | Technijian | [Read More](https://medium.com/p/5655d3217b3a) |
-| Mon, 06 Apr 2026 14:19:14 GMT | Why “Just Use a Burner Email” Isn’t Real Privacy Anymore | Mark | [Read More](https://medium.com/p/0ed00fc2b6e2) |
-| Mon, 06 Apr 2026 14:17:37 GMT | The Biggest Privacy Mistake People Make Online (Without Realizing It) | Warren Smith | [Read More](https://medium.com/p/c9e11fc5a4cf) |
-| Mon, 06 Apr 2026 14:15:36 GMT | Exploiting BOLA and Broken Authentication in DVRA API | Gamuchirai | [Read More](https://medium.com/p/2efd31a592a3) |
-| Mon, 06 Apr 2026 14:14:02 GMT | Why are some people in tech earning 2x more than others? | Hachion | [Read More](https://medium.com/p/ef8e854f3b43) |
-| Mon, 06 Apr 2026 14:10:52 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #11 | Antonio Formato | [Read More](https://medium.com/p/08155fe545b1) |
-| Mon, 06 Apr 2026 14:01:02 GMT | Cyber Briefing: 2026.04.06 | CyberMaterial | [Read More](https://medium.com/p/ced7b08db477) |
-| Mon, 06 Apr 2026 14:01:02 GMT | The Livewire v3 RCE That Broke the Magic: Understanding CVE-2025–54068 | Hafiq Iqmal | [Read More](https://medium.com/p/155c5e820799) |
-| Mon, 06 Apr 2026 13:55:29 GMT | The 7 Golden Rules of Vulnerability Scanning | Dhanush N | [Read More](https://medium.com/p/a4d24181cc4c) |
-| Mon, 06 Apr 2026 13:53:19 GMT | The Skill That Makes Writers More Valuable in the AI Age | Lance Cummings PhD | [Read More](https://medium.com/p/74a6f0789dca) |
-| Mon, 06 Apr 2026 13:42:38 GMT | Tips on hiring a Professional Ethical Hacker. | Professional Ethical Hacker | [Read More](https://medium.com/p/bfea69f31210) |
-| Mon, 06 Apr 2026 13:40:44 GMT | Digital Forensics for Beginners: How to Image a Disk, Carve Deleted Files, and Document Everything… | Niklas Heringer | [Read More](https://medium.com/p/6ee472fc5091) |
-| Mon, 06 Apr 2026 13:37:40 GMT | Windows DLL Execution Techniques: Abuse, Detection, and Mitigation | Pentester Club | [Read More](https://medium.com/p/5d98bd78c2d5) |
