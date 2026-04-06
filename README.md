@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Apr 2026 17:47:36 GMT | NetSuite Application and Operational Security: Building a Strong Foundation for Business Protection | Linkederp | [Read More](https://medium.com/p/a5469ea7ca9e) |
+| Mon, 06 Apr 2026 17:46:14 GMT | 6 Nmap Concepts the CySA+ Exam Will Actually Test You On | Jbird | [Read More](https://medium.com/p/905abeb18dc5) |
+| Mon, 06 Apr 2026 17:38:05 GMT | HF2019 Hacker Fest 2019 VulnHub Writeup | Shuhaib N C | [Read More](https://medium.com/p/123d1e25b832) |
+| Mon, 06 Apr 2026 17:34:43 GMT | Shub Stealers Fake Crypto Apps | Jason Reaves | [Read More](https://medium.com/p/d5e2a65618b7) |
+| Mon, 06 Apr 2026 17:33:38 GMT | Mapping Ottercookie Infrastructure | Jason Reaves | [Read More](https://medium.com/p/1c49f0cd3883) |
+| Mon, 06 Apr 2026 17:33:21 GMT | The AI Trust Amplification Problem: Why Fake Claude Code Packages Are So Effective | AIThinkerLab | [Read More](https://medium.com/p/b165ec657dba) |
+| Mon, 06 Apr 2026 17:31:48 GMT | A Practical Workflow for Fuzzing & Scanning in Bug Bounty | Fx03 | [Read More](https://medium.com/p/50f3a73ded22) |
+| Mon, 06 Apr 2026 17:30:46 GMT | विषय: माहिती तंत्रज्ञान आणि विद्यार्थ्यांचे भविष्य | Sonusalve | [Read More](https://medium.com/p/4924a8ab7f90) |
+| Mon, 06 Apr 2026 17:28:40 GMT | Axios Supply Chain Attack 2026: When Trust Became the Attack Vector | Natarajan C K | [Read More](https://medium.com/p/26ced1596d7d) |
+| Mon, 06 Apr 2026 17:27:09 GMT | Fuzzing LLMs Like Binaries: Building a Coverage-Guided Prompt Fuzzer in Rust | Shubhangi Choudhary | [Read More](https://medium.com/p/9f40401226ff) |
+| Mon, 06 Apr 2026 17:25:59 GMT | eJPT Exploitation CTF 1 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/4e11457c1e42) |
+| Mon, 06 Apr 2026 17:18:13 GMT | Inside the Mind of a Hacker, Why Your Passwords Are Failing and How to Fix Them | Sam Roy | [Read More](https://medium.com/p/8a0c8188abe4) |
+| Mon, 06 Apr 2026 17:16:17 GMT | How to Become a Cybersecurity Analyst in Nigeria (2026 Step-by-Step Guide) | Miaztechacademy | [Read More](https://medium.com/p/fd24f30bb86f) |
+| Mon, 06 Apr 2026 17:14:57 GMT | Your Business Got Hacked. Here’s the First Hour. | Jusjaesho | [Read More](https://medium.com/p/70c9f57126e3) |
+| Mon, 06 Apr 2026 17:08:58 GMT | Careers in Cyber - TryHackMe Writeup | Hkrdz | [Read More](https://medium.com/p/50fcbc407e5b) |
+| Mon, 06 Apr 2026 17:05:11 GMT | The Mask of Being Fine | Priydarshi | [Read More](https://medium.com/p/3fa7a0fdd9cc) |
+| Mon, 06 Apr 2026 17:04:08 GMT | The Invisible Crisis in Agentic AI: Why We Need a “Proof Layer” (and How We Built It with Auth0) | Priyanshu Agrawal | [Read More](https://medium.com/p/2d4b4e8ceacf) |
+| Mon, 06 Apr 2026 16:53:13 GMT | Cybersecurity Trends Businesses Can’t Ignore in 2026 | Clarkjoesph | [Read More](https://medium.com/p/fc2c5729d1ec) |
+| Mon, 06 Apr 2026 16:48:51 GMT | Fixed Root password — what about rotation? | Vinay Babu Umesh | [Read More](https://medium.com/p/179da2609102) |
 | Mon, 06 Apr 2026 16:46:18 GMT | 2026 Global Threat Report: | Mammoth Cyber | [Read More](https://medium.com/p/850e8ec6098a) |
 | Mon, 06 Apr 2026 16:39:09 GMT | Attack → Detect → Govern: The Practitioner’s Mindset for Modern Security | DarkLightSec | [Read More](https://medium.com/p/480a9b237ba9) |
 | Mon, 06 Apr 2026 16:37:35 GMT | AI Jailbreak Nedir ? | Kadir Çamoğlu | [Read More](https://medium.com/p/ab55d97960cb) |
@@ -28,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 16:03:35 GMT | THM: Poison | Murad Salem | [Read More](https://medium.com/p/b231e58a0faf) |
 | Mon, 06 Apr 2026 16:01:33 GMT | Melonity V2: Лучший чит для Dota 2 в 2026 году — Честный обзор | Aurelivoines | [Read More](https://medium.com/p/8b2e666e9091) |
 | Mon, 06 Apr 2026 15:57:06 GMT | I Tried Hacking Myself Like a Bug Hunter for 24 Hours — Here’s the Vulnerability I Found… | Kidnapshadow | [Read More](https://medium.com/p/8a58ba45bc1a) |
+| Mon, 06 Apr 2026 15:54:30 GMT | Identity is Under Siege. Rainbow Secure is Redefining the Defense. | Dr. Shashi Karhail | [Read More](https://medium.com/p/4819b739bb51) |
 | Mon, 06 Apr 2026 15:49:21 GMT | Integrating Azure Bastion in Azure Virtual WAN setup | Brian Veldman | [Read More](https://medium.com/p/2d4e61712dc6) |
 | Mon, 06 Apr 2026 15:49:01 GMT | O que a Escola não Ensina | Hailé Cruz | [Read More](https://medium.com/p/9d90960097e8) |
 | Mon, 06 Apr 2026 15:48:09 GMT | Brigita Cyber Security Solutions | Brigita | [Read More](https://medium.com/p/17447d34ca3f) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 12:52:07 GMT | Building a Secure Command Sandbox in Python | Mani vidyadhar | [Read More](https://medium.com/p/6077aa45bc97) |
 | Mon, 06 Apr 2026 12:46:08 GMT | The Invisible Traps Your AI Agent Won’t See | Dr Tyrone Grandison | [Read More](https://medium.com/p/e0f6c04798b8) |
 | Mon, 06 Apr 2026 12:39:25 GMT | Why VAPT Testing is No Longer Optional for Businesses in 2026: A Deep Dive with Qualysec | Sunil Qualysec | [Read More](https://medium.com/p/4fd790541f20) |
-| Mon, 06 Apr 2026 12:35:21 GMT | Best Cyber Security Institute in Tilak Nagar, West Delhi — Cyberyaan (2026) | Varun Papnai | [Read More](https://medium.com/p/e5eaf249fba7) |
-| Mon, 06 Apr 2026 12:34:27 GMT | New Password Stealer Bypasses 2FA Chrome Edge And Firefox Targeted | Moni | [Read More](https://medium.com/p/55db1e3f637a) |
-| Mon, 06 Apr 2026 12:31:05 GMT | CVE-2026–32186 - Microsoft Bing Elevation of Privilege Vulnerability | Aakash Rahsi | [Read More](https://medium.com/p/253011ff24a3) |
-| Mon, 06 Apr 2026 12:24:24 GMT | The No-Nonsense Guide to Cybersecurity Vulnerabilities | Dhanush N | [Read More](https://medium.com/p/936ecc7d571e) |
-| Mon, 06 Apr 2026 12:20:41 GMT | Simulating Golden Ticket Attack on Active Directory : A SOC Lab Walkthrough | ɧrιsнi rajeeѵ | [Read More](https://medium.com/p/5e6735edea6c) |
-| Mon, 06 Apr 2026 12:20:10 GMT | What DeFi Looks Like When the Infrastructure Gets Serious: Canton Network and OneSwap | Sisi | [Read More](https://medium.com/p/571145d7ea28) |
-| Mon, 06 Apr 2026 12:07:46 GMT | How Businesses Can Prevent Data Breaches in 2026 | Codearies | [Read More](https://medium.com/p/363519790949) |
-| Mon, 06 Apr 2026 12:06:35 GMT | $285 million stolen in 12 minutes. Through social engineering and patience. | Stanislav Klevtsov | [Read More](https://medium.com/p/383ddfda933d) |
-| Mon, 06 Apr 2026 12:01:02 GMT | Exploiting Remote Inference Microservices and Programmable Guardrails for Open-Source AI | Soham Jani | [Read More](https://medium.com/p/9762d2674eaf) |
-| Mon, 06 Apr 2026 12:01:02 GMT | The Leaders Who Win With AI All Have One Thing in Common | Donnie Gibbs | [Read More](https://medium.com/p/f10f574b2b40) |
-| Mon, 06 Apr 2026 12:01:01 GMT | Unified Security Posture Management: Building a Data Warehouse That Finally Connects the Dots | Ryan Black | [Read More](https://medium.com/p/62b4693065c2) |
-| Mon, 06 Apr 2026 12:01:01 GMT | Strong Enough to Be Soft | Evelyn Foreman | [Read More](https://medium.com/p/315a4429c022) |
-| Mon, 06 Apr 2026 11:53:20 GMT | Weekly Scam Alert: Websites to Watch Out for This Month | James Smith | [Read More](https://medium.com/p/12df098c74de) |
-| Mon, 06 Apr 2026 11:50:37 GMT | Silahlar Sustu, Kodlar Konuşuyor: Siber Savaşlar | Leyla | [Read More](https://medium.com/p/f5e60c55bd16) |
-| Mon, 06 Apr 2026 11:50:14 GMT | Cybersecurity Newsletter for the week of March 24–31, 20261. | Bobbie á Deild | [Read More](https://medium.com/p/5ed97e0a663c) |
-| Mon, 06 Apr 2026 11:49:40 GMT | The Humble Doorbell Has a Big Problem — And Most People Don’t Realise It | Discreet solution Pvt ltd | [Read More](https://medium.com/p/97a3a5c5fcca) |
-| Mon, 06 Apr 2026 11:49:22 GMT | How to Increase Your Azure Secure Score and Strengthen Your Cloud Security | Nilesh A. | [Read More](https://medium.com/p/bb49b4199e95) |
-| Mon, 06 Apr 2026 11:47:56 GMT | Is PAM the Next Big Thing — Again? Why Next-Gen PAM Will Be the New Firewall | Gökay Pekşen - Hello I’m GP | [Read More](https://medium.com/p/fbb6437046d0) |
-| Mon, 06 Apr 2026 11:46:43 GMT | Trusted 24/7 Security Solutions in Riverside & Greater LA | Travel time | [Read More](https://medium.com/p/bed7f5e43a6c) |
-| Mon, 06 Apr 2026 11:46:13 GMT | Why Substack Is Becoming the Center of My Cybersecurity Solopreneur Business in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/dea9d7b2e941) |
