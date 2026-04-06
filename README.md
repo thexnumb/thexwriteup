@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Apr 2026 02:40:23 GMT | I’ve Always Been the Tech Person. I Just Never Had the Paper to Prove It. | Don Rivera Diaz | [Read More](https://medium.com/p/b602f0830dcc) |
+| Mon, 06 Apr 2026 02:39:23 GMT | Google Patches Fourth Chrome Zero-Day of 2026, but Millions Remain Exposed | Jim Manzon | [Read More](https://medium.com/p/ecfd15d9365b) |
+| Mon, 06 Apr 2026 02:36:04 GMT | Writeup OSINT (THL) | IgnoranzaSolare | [Read More](https://medium.com/p/48bf039b6821) |
+| Mon, 06 Apr 2026 02:18:43 GMT | Agentic AI Just Created a New Attack Surface…Here’s the Security Playbook (2026)” | Zahra Bibi | [Read More](https://medium.com/p/f0367ebc4d08) |
+| Mon, 06 Apr 2026 02:15:35 GMT | The Real AI Skill in 2026 Isn’t Coding — It’s Thinking | Aayushi Sinha | [Read More](https://medium.com/p/5b52f006b1ee) |
+| Mon, 06 Apr 2026 02:12:35 GMT | Inside TeamPCP: The Supply Chain Attack That Didn’t Stop at Cisco | Decoding Daily Tech News | [Read More](https://medium.com/p/ecee83a54142) |
+| Mon, 06 Apr 2026 02:12:14 GMT | Building a Powerful Blue Team SOC Dashboard with Python & Streamlit | Sidhantchaurasiya | [Read More](https://medium.com/p/6441bbea80ff) |
+| Mon, 06 Apr 2026 02:10:58 GMT | How I Balance Web Development, AI, and Cybersecurity | Mubashir | [Read More](https://medium.com/p/2c5a488043b9) |
+| Mon, 06 Apr 2026 01:55:11 GMT | HTB CCTV: Chaining Recent CVEs for Root Access | Chaitanya Garware | [Read More](https://medium.com/p/79d5a98d6bba) |
+| Mon, 06 Apr 2026 01:52:35 GMT | Server Side Traversal : Path Traversal | nelff_ | [Read More](https://medium.com/p/bb3b3481a009) |
+| Mon, 06 Apr 2026 01:21:55 GMT | The Illusion of “Secure” Cloud Storage — And Why It Matters More Than You Think | AvenStudios | [Read More](https://medium.com/p/f270beb88091) |
+| Mon, 06 Apr 2026 01:11:01 GMT | How to Win a Midlife Woman’s Heart: Attention, Understanding, Presence, Security | Eilen Lexus | [Read More](https://medium.com/p/d638962734aa) |
+| Mon, 06 Apr 2026 01:01:01 GMT | [Joker] Systemic Errors, Social “Bugs,” and the Strategy to Redefine Your Personal OS | MonoEssay | [Read More](https://medium.com/p/28f32a73fc39) |
+| Mon, 06 Apr 2026 00:57:03 GMT | Men on Threads were asked “What Makes a Woman Instantly Unattractive?” | Elephant Journal | [Read More](https://medium.com/p/e9e7434215a4) |
+| Mon, 06 Apr 2026 00:53:32 GMT | Strengthening Digital Literacy: Telkom Launches “Cybersecurity Goes to School” to Shield… | TJSL Telkom Indonesia | [Read More](https://medium.com/p/84d10522464c) |
+| Mon, 06 Apr 2026 00:51:36 GMT | Sprint 7, Week 1 Change Log (The System Was Running, I Just Stopped Posting) | Al Dungo | [Read More](https://medium.com/p/1e57961f8717) |
+| Mon, 06 Apr 2026 00:41:06 GMT | The Two-Domain Problem | Benedikt Thurn-Taxis | [Read More](https://medium.com/p/fd316678355f) |
+| Mon, 06 Apr 2026 00:40:00 GMT | Forensic Analysis Write-Up | Ishanchowdhury | [Read More](https://medium.com/p/153b3f05a5b4) |
+| Mon, 06 Apr 2026 00:27:44 GMT | Google DeepMind Just Mapped Every Way the Web Can Hijack Your AI Agent | Mandar Karhade, MD. PhD. | [Read More](https://medium.com/p/6814bb268cb0) |
+| Mon, 06 Apr 2026 00:01:01 GMT | The Audit Asked If We Had SSDLC. I Had to Google It. Here Is What It Means. | Hafiq Iqmal | [Read More](https://medium.com/p/b6c4d99a815c) |
+| Sun, 05 Apr 2026 23:38:15 GMT | TryHackMe — Startup CTF Write-up | Lazzaro_404 | [Read More](https://medium.com/p/6d544efec1e0) |
 | Sun, 05 Apr 2026 23:25:32 GMT | From Bash Script to Security Tool: Engineering Lessons From Building a Wi-Fi Testing Automation… | dhiraj deshmukh | [Read More](https://medium.com/p/e001a28bdb0c) |
 | Sun, 05 Apr 2026 23:18:39 GMT | Spor Verileriyle Modern Casusluk: Askerî Gizliliğin Yeni Tehdidi | 1Zek | [Read More](https://medium.com/p/ebbb54500437) |
 | Sun, 05 Apr 2026 22:31:01 GMT | From IPA to Exploit: The Complete Offensive Methodology for iOS Application Testing — Part 2 | Shubham Gupta | [Read More](https://medium.com/p/b739f0b7372b) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 16:42:46 GMT | How to Use ChatGPT for Bug Bounty (The Intelligent Way, NOT The Lazy One) - kidnapshadow | Kidnapshadow | [Read More](https://medium.com/p/9e98cb8100fa) |
 | Sun, 05 Apr 2026 16:41:22 GMT | If I Were an Attacker: Breaking OTP Authentication Systems | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/ca385b7213f7) |
 | Sun, 05 Apr 2026 16:38:48 GMT | Machine Wallets & Programmable Spending: Inside AI-Driven Payment Infrastructure | Anmol Gupta | [Read More](https://medium.com/p/97586374f30f) |
-| Sun, 05 Apr 2026 16:20:34 GMT | Dime tu ADN | Roberto Sánchez V. | [Read More](https://medium.com/p/b7b466725069) |
-| Sun, 05 Apr 2026 16:17:58 GMT | PRDA: A Pre-Response Governance Framework for AI Systems | Dimitra St. Athanasopoulou | [Read More](https://medium.com/p/913e372e41ac) |
-| Sun, 05 Apr 2026 16:17:51 GMT | Introduction to Portable Executable — NIR(6) | 0xNirSec | [Read More](https://medium.com/p/4187050a7111) |
-| Sun, 05 Apr 2026 16:14:53 GMT | The LinkedIn “BrowserGate” Scandal: Are You the Product? | Brent DeRouen | [Read More](https://medium.com/p/828350921c4a) |
-| Sun, 05 Apr 2026 16:11:17 GMT | Europe’s Arctic dilemma is bigger than drilling | Moh. Wahyu Syafi'ul Mubarok | [Read More](https://medium.com/p/3f73ad2be849) |
-| Sun, 05 Apr 2026 16:11:01 GMT | The Rules of Intimacy: How to Build Unshakeable Principles in Relationships | Kay Young | [Read More](https://medium.com/p/418b8a486862) |
-| Sun, 05 Apr 2026 16:07:33 GMT | The Lazarus Playbook: How North Korea Launders Billions in Stolen Crypto — and What the Drift Hack… | Idris Oguntoye | [Read More](https://medium.com/p/86be0eeac689) |
-| Sun, 05 Apr 2026 16:01:01 GMT | Part 6: Feedback Loops: Wiring Your AppSec Pipeline to Learn from Itself | Aparna Ash Himmatramka | [Read More](https://medium.com/p/f1c2bd9d6768) |
-| Sun, 05 Apr 2026 16:00:41 GMT | Windows Fundamental Test | Khaerul Muhaemin | [Read More](https://medium.com/p/b5b33039bcfc) |
-| Sun, 05 Apr 2026 16:00:02 GMT | Redis ACL enforcement without downtime | Nicolai Antiferov | [Read More](https://medium.com/p/1f2343c3ed6c) |
-| Sun, 05 Apr 2026 15:53:14 GMT | HTB Support | Dipesh Paul | [Read More](https://medium.com/p/22733beccb19) |
-| Sun, 05 Apr 2026 15:48:10 GMT | Burp Suite for Beginners: A Complete Guide to Web Security Testing | Riya Limba | [Read More](https://medium.com/p/29b6dfdc208c) |
-| Sun, 05 Apr 2026 15:47:42 GMT | CPTS İmtahanını Necə Keçdim? 10 Günlük Marafon və Qızıl Məsləhətlər | Natig Mammadli | [Read More](https://medium.com/p/b92dcc1c97a9) |
-| Sun, 05 Apr 2026 15:40:02 GMT | Forget JWT: Paseto Solved the 4 Security Holes Nobody Warned You About | The Thread Whisperer | [Read More](https://medium.com/p/f4d80efff4cf) |
-| Sun, 05 Apr 2026 15:37:36 GMT | Anatomy of a Keystroke Injection Attack : Building and Defending with ESP32 | Aadhityan Thiyagaraj | [Read More](https://medium.com/p/5dedb95b72bd) |
-| Sun, 05 Apr 2026 15:36:24 GMT | Water Bottle (THM) Tryhackme Walkthrough and Answer | Lawvye | [Read More](https://medium.com/p/323d15773389) |
-| Sun, 05 Apr 2026 15:35:42 GMT | Broken Authentication — How Simple Login Flaws Lead to Account Takeover (P1 Guide) | Pradeeptadi | [Read More](https://medium.com/p/e141106493e3) |
-| Sun, 05 Apr 2026 15:34:26 GMT | From LSASS Access to BYOVD: A DragonForce Attack Chain Analysis | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/ae1654cd1eb9) |
-| Sun, 05 Apr 2026 15:32:08 GMT | ️ API Pentesting Mastery Series - Part 1: Essential Tools for Interacting with APIs ️ | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/4acfc912caa7) |
-| Sun, 05 Apr 2026 15:31:38 GMT | Building an Operating System from Scratch — Part 0: Introduction | Hack-Bat | [Read More](https://medium.com/p/06577755c68d) |
-| Sun, 05 Apr 2026 15:22:38 GMT | Open Source Does Not Have a PR Problem Anymore. It Has a Trust Problem | The Atomic Architect | [Read More](https://medium.com/p/be54c2a20e44) |
