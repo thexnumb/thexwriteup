@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Apr 2026 15:49:01 GMT | O que a Escola não Ensina | Hailé Cruz | [Read More](https://medium.com/p/9d90960097e8) |
+| Mon, 06 Apr 2026 15:42:27 GMT | Sudan’s Sovereignty vs. The Brotherhood’s Ideology | Know Afrika | [Read More](https://medium.com/p/d601e1fe268c) |
+| Mon, 06 Apr 2026 15:41:45 GMT | You Cannot Procure Your Way to AI Act Compliance | Henry Bravo | [Read More](https://medium.com/p/3c699e36e77e) |
+| Mon, 06 Apr 2026 15:39:02 GMT | I Got the Admin Password by Changing One Word in a URL — This Bug Pays Up to $10,000 Another step… | morgan_hack | [Read More](https://medium.com/p/94459cd5acb5) |
+| Mon, 06 Apr 2026 15:38:58 GMT | Streamlit Authentication in Practice: Microsoft Entra ID Integration & Real-World Limitations | Simon Corde | [Read More](https://medium.com/p/66171ab88555) |
+| Mon, 06 Apr 2026 15:36:18 GMT | Build your Billion-dollar security company | Nachiketh Rao | [Read More](https://medium.com/p/64ce0663c401) |
+| Mon, 06 Apr 2026 15:36:11 GMT | Spring Cloud Config Can Be a Security Problem You Don’t Notice Until It Is Public | The Atomic Architect | [Read More](https://medium.com/p/d40e5b1ac72f) |
+| Mon, 06 Apr 2026 15:32:42 GMT | The Founder’s Blindspot: What Being Hacked Taught Us About Emotion and Security | My Life in Comics | [Read More](https://medium.com/p/a181ca84901c) |
+| Mon, 06 Apr 2026 15:32:17 GMT | Wolves of Turan: a new name in the world of cybercrime | anthony recherh | [Read More](https://medium.com/p/f0a0d3a0e7ec) |
+| Mon, 06 Apr 2026 15:28:21 GMT | Best ELV Company in Dubai for Residential, Commercial & Industrial ELV Systems | Vastechoffpage | [Read More](https://medium.com/p/41554dee75e7) |
+| Mon, 06 Apr 2026 15:25:01 GMT | What’s changing in IoT strategy from Industry 4.0 to 6.0 and beyond | Shanika Wickramasinghe | [Read More](https://medium.com/p/a48f0f15d637) |
+| Mon, 06 Apr 2026 15:22:15 GMT | The Inflection Point: How AI and Supply Chain Threats Are Rewriting The Rules Of Modern Software… | Joe Christian | [Read More](https://medium.com/p/dd1d79d966bb) |
+| Mon, 06 Apr 2026 15:21:37 GMT | EXTENDING YOUR NETWORK:FIREWALL CONFIGURATION LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/8fb4f3f996b0) |
+| Mon, 06 Apr 2026 15:10:43 GMT | How to Actually Detect Threats in Kubernetes: The Runtime Security Stack No One Talks About | Ramesh | [Read More](https://medium.com/p/b595cffd40aa) |
+| Mon, 06 Apr 2026 15:08:02 GMT | From Basics Of Cyber Sec to AI: Everything I Learned About AI & ML. | Siddhant Chaudhary | [Read More](https://medium.com/p/fc5d9f66d325) |
+| Mon, 06 Apr 2026 15:06:25 GMT | Building Odaram — Security beyond system prompts. | Princewill Onyenanu | [Read More](https://medium.com/p/963df4d5d0b9) |
+| Mon, 06 Apr 2026 15:01:04 GMT | Subnetting or Network Segmentation | Aesha Mehveen | [Read More](https://medium.com/p/d181a0fca859) |
+| Mon, 06 Apr 2026 14:59:09 GMT | Scaling Intelligence | Camilla Siggaard Andersen | [Read More](https://medium.com/p/b0370d7cfb47) |
+| Mon, 06 Apr 2026 14:59:00 GMT | CVE-2026-5610: Critical Belkin F9K1015 Router Flaw Allows Remote Code Execution | Cybrdef | [Read More](https://medium.com/p/46bf0e40dc54) |
+| Mon, 06 Apr 2026 14:57:10 GMT | Belkin F9K1122 Buffer Overflow CVE-2026-5608 Exploitable | Cybrdef | [Read More](https://medium.com/p/51e29d036087) |
+| Mon, 06 Apr 2026 14:53:24 GMT | Everyone Is Saying “Agentic.” But What Really Changed in Security Automation? | Oscar Antonangelo | [Read More](https://medium.com/p/29492c3ceabd) |
+| Mon, 06 Apr 2026 14:51:46 GMT | CVE-2026–4931: How Spearbit’s Cantina Denied a Critical Vulnerability Using Verifiably False… | Donnyoregon | [Read More](https://medium.com/p/0a27b92ac2db) |
+| Mon, 06 Apr 2026 14:50:52 GMT | The Truth About Background Checks for Cheating Partners | Sergio Hunter | [Read More](https://medium.com/p/9d710b674cca) |
 | Mon, 06 Apr 2026 14:49:00 GMT | Understanding Dark Web Forums and Their Role in Online Communities | Tor BBB | [Read More](https://medium.com/p/00527f06fa27) |
 | Mon, 06 Apr 2026 14:38:09 GMT | Data Loss Prevention (DLP): A Complete Beginner-to-Advanced Guide - Part — 1 | rootRS7 | [Read More](https://medium.com/p/fa476567ae0e) |
 | Mon, 06 Apr 2026 14:36:45 GMT | Building an Android App Analysis Lab on Ubuntu: A Practical Setup Guide | Andrey Pautov | [Read More](https://medium.com/p/4a09fff37622) |
@@ -89,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 11:14:29 GMT | Was Anthropic’s Claude Source Code Leak Actually a Marketing Stunt? | Yug Jadvani | [Read More](https://medium.com/p/0c6c90a34ec4) |
 | Mon, 06 Apr 2026 11:11:16 GMT | How Small Businesses Are Using AI to 10X Revenue (Step-by-Step) | Mark Whitman | [Read More](https://medium.com/p/bdf243575b36) |
 | Mon, 06 Apr 2026 11:07:59 GMT | The Future of Heat: How Industry 4.0 is Transforming India’s Refractory Landscape in 2026. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/2ff8e53c51a1) |
-| Mon, 06 Apr 2026 11:07:43 GMT | How to Crack Passwords Using Kali Linux (John & Hashcat ) | Fx03 | [Read More](https://medium.com/p/00d014988bdd) |
-| Mon, 06 Apr 2026 11:01:01 GMT | NRF and Appriss Retail Expose the Refund-Before-Inspection Fraud Bill | James Kuhman | [Read More](https://medium.com/p/6ddb834c7c47) |
-| Mon, 06 Apr 2026 11:01:01 GMT | Understanding CWE-613: Insufficient Session Expiration | Walter Moar | [Read More](https://medium.com/p/4d6b5fe5f5f6) |
-| Mon, 06 Apr 2026 11:01:01 GMT | This Week I Learned — Hacking DVDs, Mussolini’s Documents, Which AI to Use | Alberto Piras | [Read More](https://medium.com/p/a1803ba982eb) |
-| Mon, 06 Apr 2026 10:58:47 GMT | Why RD Services Are Essential for Secure Biometric Authentication in India | Sashank shirod | [Read More](https://medium.com/p/d25d8196ba28) |
-| Mon, 06 Apr 2026 10:51:23 GMT | Understanding CVE, CVSS and Real Security | Little_Sun4lower | [Read More](https://medium.com/p/937692f2f6fc) |
-| Mon, 06 Apr 2026 10:48:53 GMT | The 8-Character Illusion: Why Your “Complex” Password is a 48-Minute Entryway on Normal GPU laptop | Devendra Singh | [Read More](https://medium.com/p/ac318033926b) |
-| Mon, 06 Apr 2026 10:46:02 GMT | How a Simple GraphQL Query Exposed Facebook Page Admins and Their Personal Emails — A $15,000 Bug… | Vivek PS | [Read More](https://medium.com/p/e76f2ff8fd5e) |
-| Mon, 06 Apr 2026 10:45:47 GMT | War of Progress: AI vs Our Jobs | Sabhariprasad Muthiah | [Read More](https://medium.com/p/75d5797421a2) |
-| Mon, 06 Apr 2026 10:42:11 GMT | PowerShell Profiles as Attack Vectors — Deep dive into Event Triggered Execution T1546.013 | Sami ST | [Read More](https://medium.com/p/13a830c822dd) |
-| Mon, 06 Apr 2026 10:41:47 GMT | Asset Tracing in Switzerland: Private Investigator & Cyber Investigation Services | Ivona Jovanovic | [Read More](https://medium.com/p/3ef6bbb28173) |
-| Mon, 06 Apr 2026 10:39:59 GMT | Bug Bounty / Web Application Security Hunting Checklist - 2026 XSS Rat version | Thexssrat | [Read More](https://medium.com/p/1886138a8200) |
-| Mon, 06 Apr 2026 10:37:08 GMT | Alarm Response Security: Why Rapid Reaction Matters for Complete Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/1e98712f0c21) |
-| Mon, 06 Apr 2026 10:31:01 GMT | The Fear Premium: Why Security is Your Most Unchecked Expense | Procurement Unlocked | [Read More](https://medium.com/p/39eba4d7bc9f) |
-| Mon, 06 Apr 2026 10:30:14 GMT | Sometimes all you need is a 16 and not a 12. | Metagnecharnelle | [Read More](https://medium.com/p/b6777700447c) |
-| Mon, 06 Apr 2026 10:24:41 GMT | CSRF Bypass via Missing Referer Header (PortSwigger Lab Walkthrough) | PRiTi.EX | [Read More](https://medium.com/p/29ccffb86c89) |
-| Mon, 06 Apr 2026 10:20:00 GMT | CAP | Enoch Root | [Read More](https://medium.com/p/ab9f1c08995d) |
-| Mon, 06 Apr 2026 10:18:20 GMT | This One-Word URL Change Paid Bug Bounty Hunters $10,000 — Here’s How They Did It | morgan_hack | [Read More](https://medium.com/p/db0a7072e148) |
-| Mon, 06 Apr 2026 10:12:21 GMT | Hunting an Exposed ClickHouse Database — From Recon to Data Exfiltration | Yadvesh yadav | [Read More](https://medium.com/p/8ec922e64b33) |
-| Mon, 06 Apr 2026 10:09:01 GMT | The Pedagogy of Uncertainty: Integrating Security Analysis and Critical Training for… | LEIAIC | [Read More](https://medium.com/p/c91e6fa74fcc) |
-| Mon, 06 Apr 2026 10:07:34 GMT | Penetration Test Report | Abdulmalik Adebayo | [Read More](https://medium.com/p/6c51e0af4cef) |
-| Mon, 06 Apr 2026 09:56:52 GMT | ️ Why AVG Antivirus is a Top Choice in Australia | Customer Support Information | [Read More](https://medium.com/p/7d7fdf29a4aa) |
-| Mon, 06 Apr 2026 09:56:42 GMT | Beyond ChaCha20 and AES: Exploring Rational Quadratic 
- Functions for Cryptographic Randomness | A.Khettany | [Read More](https://medium.com/p/7f9cd0dc47e1) |
