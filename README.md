@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Apr 2026 16:46:18 GMT | 2026 Global Threat Report: | Mammoth Cyber | [Read More](https://medium.com/p/850e8ec6098a) |
+| Mon, 06 Apr 2026 16:39:09 GMT | Attack → Detect → Govern: The Practitioner’s Mindset for Modern Security | DarkLightSec | [Read More](https://medium.com/p/480a9b237ba9) |
+| Mon, 06 Apr 2026 16:37:35 GMT | AI Jailbreak Nedir ? | Kadir Çamoğlu | [Read More](https://medium.com/p/ab55d97960cb) |
+| Mon, 06 Apr 2026 16:36:04 GMT | OverTheWire : Wargames — Bandit(Final Destination) | Pooja J | [Read More](https://medium.com/p/c313eb1a569b) |
+| Mon, 06 Apr 2026 16:31:01 GMT | De un PPT malicioso a exfiltración de credenciales en minutos | D4nYeD | [Read More](https://medium.com/p/52ebc33a613b) |
+| Mon, 06 Apr 2026 16:29:05 GMT | I Secure Enterprise Databases for a Living. Here’s How I Protect My Own Family Online. | Adam Frąckowiak | [Read More](https://medium.com/p/8acb5478566b) |
+| Mon, 06 Apr 2026 16:23:47 GMT | Your Agentic AI Platform Covers 60% of What the Regulator Expects - Here Is the Other 40% | Henry Bravo | [Read More](https://medium.com/p/a4894fe4c8e7) |
+| Mon, 06 Apr 2026 16:22:12 GMT | AI Agents Are the New Attack Surface | Tanmay Bansal | [Read More](https://medium.com/p/d9650052ed5b) |
+| Mon, 06 Apr 2026 16:21:08 GMT | OverTheWire Bandit — Complete Write-Up: 12 Levels to Get Started in Cybersecurity | Rajaelbahraouy | [Read More](https://medium.com/p/6026bbdf56cc) |
+| Mon, 06 Apr 2026 16:18:27 GMT | How to Find Security Vulnerabilities in C# with Claude Code | Adam Adamczyk | [Read More](https://medium.com/p/db499da363dc) |
+| Mon, 06 Apr 2026 16:16:38 GMT | Why Digital Forensic Services Are Essential for Modern Businesses | Drona Cyber Solutions | [Read More](https://medium.com/p/6379a6b20e6d) |
+| Mon, 06 Apr 2026 16:16:00 GMT | Warning: Malicious Polymarket Copy Trading Bots Are Stealing Private Keys | Данил Шадрин | [Read More](https://medium.com/p/fcd3803dc173) |
+| Mon, 06 Apr 2026 16:10:25 GMT | SIEM Without Limits: Managing Logs, Metrics, and Traces in 2026 | NetWitness | [Read More](https://medium.com/p/062d5c4188fb) |
+| Mon, 06 Apr 2026 16:03:35 GMT | THM: Poison | Murad Salem | [Read More](https://medium.com/p/b231e58a0faf) |
+| Mon, 06 Apr 2026 16:01:33 GMT | Melonity V2: Лучший чит для Dota 2 в 2026 году — Честный обзор | Aurelivoines | [Read More](https://medium.com/p/8b2e666e9091) |
+| Mon, 06 Apr 2026 15:57:06 GMT | I Tried Hacking Myself Like a Bug Hunter for 24 Hours — Here’s the Vulnerability I Found… | Kidnapshadow | [Read More](https://medium.com/p/8a58ba45bc1a) |
+| Mon, 06 Apr 2026 15:49:21 GMT | Integrating Azure Bastion in Azure Virtual WAN setup | Brian Veldman | [Read More](https://medium.com/p/2d4e61712dc6) |
 | Mon, 06 Apr 2026 15:49:01 GMT | O que a Escola não Ensina | Hailé Cruz | [Read More](https://medium.com/p/9d90960097e8) |
+| Mon, 06 Apr 2026 15:48:09 GMT | Brigita Cyber Security Solutions | Brigita | [Read More](https://medium.com/p/17447d34ca3f) |
 | Mon, 06 Apr 2026 15:42:27 GMT | Sudan’s Sovereignty vs. The Brotherhood’s Ideology | Know Afrika | [Read More](https://medium.com/p/d601e1fe268c) |
 | Mon, 06 Apr 2026 15:41:45 GMT | You Cannot Procure Your Way to AI Act Compliance | Henry Bravo | [Read More](https://medium.com/p/3c699e36e77e) |
 | Mon, 06 Apr 2026 15:39:02 GMT | I Got the Admin Password by Changing One Word in a URL — This Bug Pays Up to $10,000 Another step… | morgan_hack | [Read More](https://medium.com/p/94459cd5acb5) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 11:47:56 GMT | Is PAM the Next Big Thing — Again? Why Next-Gen PAM Will Be the New Firewall | Gökay Pekşen - Hello I’m GP | [Read More](https://medium.com/p/fbb6437046d0) |
 | Mon, 06 Apr 2026 11:46:43 GMT | Trusted 24/7 Security Solutions in Riverside & Greater LA | Travel time | [Read More](https://medium.com/p/bed7f5e43a6c) |
 | Mon, 06 Apr 2026 11:46:13 GMT | Why Substack Is Becoming the Center of My Cybersecurity Solopreneur Business in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/dea9d7b2e941) |
-| Mon, 06 Apr 2026 11:46:01 GMT | If I Were an Attacker: Breaking Session Management Systems | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/3165a13867bc) |
-| Mon, 06 Apr 2026 11:41:28 GMT | Yahoo Customer Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/336d7ee707a9) |
-| Mon, 06 Apr 2026 11:40:37 GMT | Drift Protocol lost $285M to a phishing attack that should never have worked | Paul Walsh | [Read More](https://medium.com/p/b81f91937a3a) |
-| Mon, 06 Apr 2026 11:40:14 GMT | The Cybersecurity Chessboard: AI’s 2026 Gambit | Sanket Baraiya | [Read More](https://medium.com/p/f3a057f2f349) |
-| Mon, 06 Apr 2026 11:37:45 GMT | 2FA Bypass Techniques: 13 Ways Weak Implementations Break Authentication | Lovelesh Gangil | [Read More](https://medium.com/p/db55bd5a73c9) |
-| Mon, 06 Apr 2026 11:37:41 GMT | The Bug Bounty Checklist That Turns Beginners Into Hackers The Day I Missed a $500 Bug… | Krish_cyber | [Read More](https://medium.com/p/e65cf644a915) |
-| Mon, 06 Apr 2026 11:36:24 GMT | CTF — Kali Linux & Serveur Vulnérable | Karmendra Mungrah | [Read More](https://medium.com/p/58a73f36a692) |
-| Mon, 06 Apr 2026 11:34:56 GMT | 2026 Top 10 Chrome Extensions Every Bug Bounty Hunter Must Use | Pradeeptadi | [Read More](https://medium.com/p/ccc369382771) |
-| Mon, 06 Apr 2026 11:33:37 GMT | ️ When Even the FBI Gets Hacked: What This “Major Incident” Really Means | Sharanraju | [Read More](https://medium.com/p/e833747715e7) |
-| Mon, 06 Apr 2026 11:28:13 GMT | McAfee Support UK: 24/7 Help, Virus Protection & Complete Cybersecurity | Zuerevalexander | [Read More](https://medium.com/p/8aed920db760) |
-| Mon, 06 Apr 2026 11:24:01 GMT | 30 Best Free Chrome Extensions for Privacy & Security 2 | Uncle Drew | [Read More](https://medium.com/p/127c3bb50a09) |
-| Mon, 06 Apr 2026 11:22:39 GMT | Does Offshore Hosting Protect You from EU Copyright Laws in 2026 | Rakshita Mishra | [Read More](https://medium.com/p/c043b09d2257) |
-| Mon, 06 Apr 2026 11:19:11 GMT | Lab: CSRF with broken Referer validation | PRiTi.EX | [Read More](https://medium.com/p/1b95c8515645) |
-| Mon, 06 Apr 2026 11:18:18 GMT | The Complete Penetration Testing Process: Step-by-Step Guide (Beginner to Pro) | Tejas Kamble | [Read More](https://medium.com/p/96cfe51c7eb8) |
-| Mon, 06 Apr 2026 11:14:59 GMT | What is Cloud Security? A Complete Guide to Protecting Data, Applications & Infrastructure (2026) | Cloudegytechnology | [Read More](https://medium.com/p/c2ce356beac6) |
-| Mon, 06 Apr 2026 11:14:29 GMT | Was Anthropic’s Claude Source Code Leak Actually a Marketing Stunt? | Yug Jadvani | [Read More](https://medium.com/p/0c6c90a34ec4) |
-| Mon, 06 Apr 2026 11:11:16 GMT | How Small Businesses Are Using AI to 10X Revenue (Step-by-Step) | Mark Whitman | [Read More](https://medium.com/p/bdf243575b36) |
-| Mon, 06 Apr 2026 11:07:59 GMT | The Future of Heat: How Industry 4.0 is Transforming India’s Refractory Landscape in 2026. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/2ff8e53c51a1) |
