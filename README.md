@@ -12,7 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Apr 2026 12:01:02 GMT | Exploiting Remote Inference Microservices and Programmable Guardrails for Open-Source AI | Soham Jani | [Read More](https://medium.com/p/9762d2674eaf) |
+| Mon, 06 Apr 2026 12:01:02 GMT | The Leaders Who Win With AI All Have One Thing in Common | Donnie Gibbs | [Read More](https://medium.com/p/f10f574b2b40) |
+| Mon, 06 Apr 2026 12:01:01 GMT | Unified Security Posture Management: Building a Data Warehouse That Finally Connects the Dots | Ryan Black | [Read More](https://medium.com/p/62b4693065c2) |
+| Mon, 06 Apr 2026 11:53:20 GMT | Weekly Scam Alert: Websites to Watch Out for This Month | James Smith | [Read More](https://medium.com/p/12df098c74de) |
+| Mon, 06 Apr 2026 11:50:37 GMT | Silahlar Sustu, Kodlar Konuşuyor: Siber Savaşlar | Leyla | [Read More](https://medium.com/p/f5e60c55bd16) |
+| Mon, 06 Apr 2026 11:50:14 GMT | Cybersecurity Newsletter for the week of March 24–31, 20261. | Bobbie á Deild | [Read More](https://medium.com/p/5ed97e0a663c) |
+| Mon, 06 Apr 2026 11:49:40 GMT | The Humble Doorbell Has a Big Problem — And Most People Don’t Realise It | Discreet solution Pvt ltd | [Read More](https://medium.com/p/97a3a5c5fcca) |
+| Mon, 06 Apr 2026 11:49:22 GMT | How to Increase Your Azure Secure Score and Strengthen Your Cloud Security | Nilesh A. | [Read More](https://medium.com/p/bb49b4199e95) |
+| Mon, 06 Apr 2026 11:47:56 GMT | Is PAM the Next Big Thing — Again? Why Next-Gen PAM Will Be the New Firewall | Gökay Pekşen - Hello I’m GP | [Read More](https://medium.com/p/fbb6437046d0) |
+| Mon, 06 Apr 2026 11:46:43 GMT | Trusted 24/7 Security Solutions in Riverside & Greater LA | Travel time | [Read More](https://medium.com/p/bed7f5e43a6c) |
+| Mon, 06 Apr 2026 11:46:13 GMT | Why Substack Is Becoming the Center of My Cybersecurity Solopreneur Business in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/dea9d7b2e941) |
+| Mon, 06 Apr 2026 11:46:01 GMT | If I Were an Attacker: Breaking Session Management Systems | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/3165a13867bc) |
+| Mon, 06 Apr 2026 11:41:28 GMT | Yahoo Customer Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/336d7ee707a9) |
+| Mon, 06 Apr 2026 11:40:37 GMT | Drift Protocol lost $285M to a phishing attack that should never have worked | Paul Walsh | [Read More](https://medium.com/p/b81f91937a3a) |
+| Mon, 06 Apr 2026 11:40:14 GMT | The Cybersecurity Chessboard: AI’s 2026 Gambit | Sanket Baraiya | [Read More](https://medium.com/p/f3a057f2f349) |
+| Mon, 06 Apr 2026 11:37:45 GMT | 2FA Bypass Techniques: 13 Ways Weak Implementations Break Authentication | Lovelesh Gangil | [Read More](https://medium.com/p/db55bd5a73c9) |
+| Mon, 06 Apr 2026 11:37:41 GMT | The Bug Bounty Checklist That Turns Beginners Into Hackers The Day I Missed a $500 Bug… | Krish_cyber | [Read More](https://medium.com/p/e65cf644a915) |
+| Mon, 06 Apr 2026 11:36:24 GMT | CTF — Kali Linux & Serveur Vulnérable | Karmendra Mungrah | [Read More](https://medium.com/p/58a73f36a692) |
+| Mon, 06 Apr 2026 11:34:56 GMT | 2026 Top 10 Chrome Extensions Every Bug Bounty Hunter Must Use | Pradeeptadi | [Read More](https://medium.com/p/ccc369382771) |
+| Mon, 06 Apr 2026 11:33:37 GMT | ️ When Even the FBI Gets Hacked: What This “Major Incident” Really Means | Sharanraju | [Read More](https://medium.com/p/e833747715e7) |
+| Mon, 06 Apr 2026 11:28:13 GMT | McAfee Support UK: 24/7 Help, Virus Protection & Complete Cybersecurity | Zuerevalexander | [Read More](https://medium.com/p/8aed920db760) |
+| Mon, 06 Apr 2026 11:24:01 GMT | 30 Best Free Chrome Extensions for Privacy & Security 2 | Uncle Drew | [Read More](https://medium.com/p/127c3bb50a09) |
+| Mon, 06 Apr 2026 11:22:39 GMT | Does Offshore Hosting Protect You from EU Copyright Laws in 2026 | Rakshita Mishra | [Read More](https://medium.com/p/c043b09d2257) |
+| Mon, 06 Apr 2026 11:19:11 GMT | Lab: CSRF with broken Referer validation | PRiTi.EX | [Read More](https://medium.com/p/1b95c8515645) |
+| Mon, 06 Apr 2026 11:18:18 GMT | The Complete Penetration Testing Process: Step-by-Step Guide (Beginner to Pro) | Tejas Kamble | [Read More](https://medium.com/p/96cfe51c7eb8) |
 | Mon, 06 Apr 2026 11:14:59 GMT | What is Cloud Security? A Complete Guide to Protecting Data, Applications & Infrastructure (2026) | Cloudegytechnology | [Read More](https://medium.com/p/c2ce356beac6) |
+| Mon, 06 Apr 2026 11:14:29 GMT | Was Anthropic’s Claude Source Code Leak Actually a Marketing Stunt? | Yug Jadvani | [Read More](https://medium.com/p/0c6c90a34ec4) |
 | Mon, 06 Apr 2026 11:11:16 GMT | How Small Businesses Are Using AI to 10X Revenue (Step-by-Step) | Mark Whitman | [Read More](https://medium.com/p/bdf243575b36) |
 | Mon, 06 Apr 2026 11:07:59 GMT | The Future of Heat: How Industry 4.0 is Transforming India’s Refractory Landscape in 2026. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/2ff8e53c51a1) |
 | Mon, 06 Apr 2026 11:07:43 GMT | How to Crack Passwords Using Kali Linux (John & Hashcat ) | Fx03 | [Read More](https://medium.com/p/00d014988bdd) |
@@ -35,6 +61,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 10:18:20 GMT | This One-Word URL Change Paid Bug Bounty Hunters $10,000 — Here’s How They Did It | morgan_hack | [Read More](https://medium.com/p/db0a7072e148) |
 | Mon, 06 Apr 2026 10:12:21 GMT | Hunting an Exposed ClickHouse Database — From Recon to Data Exfiltration | Yadvesh yadav | [Read More](https://medium.com/p/8ec922e64b33) |
 | Mon, 06 Apr 2026 10:09:01 GMT | The Pedagogy of Uncertainty: Integrating Security Analysis and Critical Training for… | LEIAIC | [Read More](https://medium.com/p/c91e6fa74fcc) |
+| Mon, 06 Apr 2026 10:07:34 GMT | Penetration Test Report | Abdulmalik Adebayo | [Read More](https://medium.com/p/6c51e0af4cef) |
 | Mon, 06 Apr 2026 09:56:52 GMT | ️ Why AVG Antivirus is a Top Choice in Australia | Customer Support Information | [Read More](https://medium.com/p/7d7fdf29a4aa) |
 | Mon, 06 Apr 2026 09:56:42 GMT | Beyond ChaCha20 and AES: Exploring Rational Quadratic 
  Functions for Cryptographic Randomness | A.Khettany | [Read More](https://medium.com/p/7f9cd0dc47e1) |
@@ -86,30 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 06:52:46 GMT | System 0 — The Last Prerequisite Before AGI | Irisprotocol | [Read More](https://medium.com/p/bf44682de680) |
 | Mon, 06 Apr 2026 06:51:23 GMT | Your Monitoring Isn’t Broken. Your Thinking About It Is | Fedir Kompaniiets | [Read More](https://medium.com/p/ffb1001d2d01) |
 | Mon, 06 Apr 2026 06:51:12 GMT | The Best Total Security Antivirus Features for Safer Internet Navigation | Rahul yadav | [Read More](https://medium.com/p/005a911ef79a) |
-| Mon, 06 Apr 2026 06:46:14 GMT | AI-Driven Clinical Trials: Transforming the Future of Research & Development | Eric | [Read More](https://medium.com/p/a6d39fee8a80) |
-| Mon, 06 Apr 2026 06:44:47 GMT | SPARK Matrix™: IoT Identity & Access Management (IoT IAM) | Umangp | [Read More](https://medium.com/p/21e25da70f2c) |
-| Mon, 06 Apr 2026 06:43:37 GMT | Best Laravel Packages to Improve Security, Performance, and SEO | Smit Pipaliya | [Read More](https://medium.com/p/f9e24d7e38fa) |
-| Mon, 06 Apr 2026 06:42:53 GMT | System 0 at the Hardware Layer | Irisprotocol | [Read More](https://medium.com/p/a8cec52757cb) |
-| Mon, 06 Apr 2026 06:38:35 GMT | The Asset You Forgot Is the One Subfinder Will Find First | Fateyaly | [Read More](https://medium.com/p/ff9af97aecce) |
-| Mon, 06 Apr 2026 06:38:21 GMT | Directory Traversal Attacks: How Hackers Read Server Files | 0xSmit | [Read More](https://medium.com/p/8a4dca90f110) |
-| Mon, 06 Apr 2026 06:34:54 GMT | Top Cybersecurity consultant in Bangalore - karnataka | Cyberlancer | [Read More](https://medium.com/p/eb86defb8c4b) |
-| Mon, 06 Apr 2026 06:34:40 GMT | Importance of Good Scoping in Penetration Testing | Redfox Security | [Read More](https://medium.com/p/4d3c365de639) |
-| Mon, 06 Apr 2026 06:28:09 GMT | Top Mobile App Development Company in Navi Mumbai | Marckstraining | [Read More](https://medium.com/p/924873041299) |
-| Mon, 06 Apr 2026 06:27:18 GMT | Win32 API vs Native API: What’s the Difference and Why Attackers Care | Nimesh nakum | [Read More](https://medium.com/p/03eaf302ea44) |
-| Mon, 06 Apr 2026 06:26:03 GMT | [CMSpit] — Cockpit CMS RCE, MongoDB Exposure and Privilege Escalation via Vulnerable ExifTool | Bash Overflow | [Read More](https://medium.com/p/d4838c44c2a7) |
-| Mon, 06 Apr 2026 06:25:23 GMT | ICT Security Specialist Australia — Skills Assessment & Career Guide (2026) | CDR for Australia | [Read More](https://medium.com/p/5be671fdd8c5) |
-| Mon, 06 Apr 2026 06:22:38 GMT | Bug Bounty: JSONP Callback Vulnerability Explained | MD Mehedi Hasan | [Read More](https://medium.com/p/d59b39a89067) |
-| Mon, 06 Apr 2026 06:10:47 GMT | Apple Surprises Consumers with Its Most Affordable Devices Yet | Ottomavin | [Read More](https://medium.com/p/b9a58e331752) |
-| Mon, 06 Apr 2026 06:01:54 GMT | Security Misconfiguration: The Silent Killer of Web Security | 0xSmit | [Read More](https://medium.com/p/fdc7526e7c81) |
-| Mon, 06 Apr 2026 05:58:40 GMT | Let Them See. | Blackscar | [Read More](https://medium.com/p/fe935182ff9f) |
-| Mon, 06 Apr 2026 05:55:47 GMT | Living Off the SaaS: How Attackers Abuse Trusted Applications to Stay Invisible | Cynox Security LLP. | [Read More](https://medium.com/p/8904141c52eb) |
-| Mon, 06 Apr 2026 05:32:38 GMT | How IT Support Remotes Into a User’s Machine: A Simple Beginner Walkthrough | Declan | [Read More](https://medium.com/p/9226af917efd) |
-| Mon, 06 Apr 2026 05:31:01 GMT | How to Secure Java Applications and Workflows with Spring Security and Camunda 8 | Shikha Nirankari | [Read More](https://medium.com/p/22f306cf6a82) |
-| Mon, 06 Apr 2026 05:30:06 GMT | Bug Bounties in the AI Era: New Attack Surfaces, New Opportunities | Vijay Kumar Gupta | [Read More](https://medium.com/p/633903136b0b) |
-| Mon, 06 Apr 2026 05:18:22 GMT | Somewhere Between Backpropagation and Budget Approvals, AI Engineering Quietly Changed | Datavex AI Pvt Ltd | [Read More](https://medium.com/p/61b59525507c) |
-| Mon, 06 Apr 2026 05:13:23 GMT | Challan for Driving in Restricted Military Zones | Car | [Read More](https://medium.com/p/0ba7f406783c) |
-| Mon, 06 Apr 2026 05:09:03 GMT | Burp, AI, and you! | Alex Thines | [Read More](https://medium.com/p/031464285cd1) |
-| Mon, 06 Apr 2026 05:04:54 GMT | 2026 Enterprise Cyber Liability & Ransomware Trends: A Strategic Risk Mitigation Guide | Zzz | [Read More](https://medium.com/p/8a2362ecabdc) |
-| Mon, 06 Apr 2026 05:03:39 GMT | a single operational law that you can apply immediately. | SonOfClawDraws | [Read More](https://medium.com/p/5f6075be99f3) |
-| Mon, 06 Apr 2026 04:59:59 GMT | Best Free VPNs in 2026 (Safe, Fast & Tested Options) | Monibshahzad | [Read More](https://medium.com/p/50926da176bd) |
-| Mon, 06 Apr 2026 04:53:22 GMT | Windows Lab 2: Login Success & Failure Monitoring | Hemaprasadpotnuru | [Read More](https://medium.com/p/5c402a56c6e9) |
