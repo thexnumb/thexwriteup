@@ -12,6 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Apr 2026 07:02:35 GMT | Fragile Fear | Sakura Yamamuchi | [Read More](https://medium.com/p/7338ddacea47) |
+| Mon, 06 Apr 2026 07:02:32 GMT | I Don’t Feel Safe Anymore | Peace Ikechi | [Read More](https://medium.com/p/38a86529f08c) |
+| Mon, 06 Apr 2026 07:01:26 GMT | CKA Study Notes — Part 5: Security in Kubernetes | alihan | [Read More](https://medium.com/p/012bd54f46af) |
+| Mon, 06 Apr 2026 07:01:01 GMT | AWS Lambda PII Handling in Production: DynamoDB Field Encryption with KMS | Matia Rašetina | [Read More](https://medium.com/p/e2b8b4eca651) |
+| Mon, 06 Apr 2026 06:52:46 GMT | System 0 — The Last Prerequisite Before AGI | Irisprotocol | [Read More](https://medium.com/p/bf44682de680) |
+| Mon, 06 Apr 2026 06:51:23 GMT | Your Monitoring Isn’t Broken. Your Thinking About It Is | Fedir Kompaniiets | [Read More](https://medium.com/p/ffb1001d2d01) |
+| Mon, 06 Apr 2026 06:51:12 GMT | The Best Total Security Antivirus Features for Safer Internet Navigation | Rahul yadav | [Read More](https://medium.com/p/005a911ef79a) |
+| Mon, 06 Apr 2026 06:46:14 GMT | AI-Driven Clinical Trials: Transforming the Future of Research & Development | Eric | [Read More](https://medium.com/p/a6d39fee8a80) |
+| Mon, 06 Apr 2026 06:44:47 GMT | SPARK Matrix™: IoT Identity & Access Management (IoT IAM) | Umangp | [Read More](https://medium.com/p/21e25da70f2c) |
+| Mon, 06 Apr 2026 06:43:37 GMT | Best Laravel Packages to Improve Security, Performance, and SEO | Smit Pipaliya | [Read More](https://medium.com/p/f9e24d7e38fa) |
+| Mon, 06 Apr 2026 06:42:53 GMT | System 0 at the Hardware Layer | Irisprotocol | [Read More](https://medium.com/p/a8cec52757cb) |
+| Mon, 06 Apr 2026 06:38:35 GMT | The Asset You Forgot Is the One Subfinder Will Find First | Fateyaly | [Read More](https://medium.com/p/ff9af97aecce) |
+| Mon, 06 Apr 2026 06:38:21 GMT | Directory Traversal Attacks: How Hackers Read Server Files | 0xSmit | [Read More](https://medium.com/p/8a4dca90f110) |
+| Mon, 06 Apr 2026 06:34:54 GMT | Top Cybersecurity consultant in Bangalore - karnataka | Cyberlancer | [Read More](https://medium.com/p/eb86defb8c4b) |
+| Mon, 06 Apr 2026 06:34:40 GMT | Importance of Good Scoping in Penetration Testing | Redfox Security | [Read More](https://medium.com/p/4d3c365de639) |
+| Mon, 06 Apr 2026 06:28:09 GMT | Top Mobile App Development Company in Navi Mumbai | Marckstraining | [Read More](https://medium.com/p/924873041299) |
+| Mon, 06 Apr 2026 06:27:18 GMT | Win32 API vs Native API: What’s the Difference and Why Attackers Care | Nimesh nakum | [Read More](https://medium.com/p/03eaf302ea44) |
+| Mon, 06 Apr 2026 06:26:03 GMT | [CMSpit] — Cockpit CMS RCE, MongoDB Exposure and Privilege Escalation via Vulnerable ExifTool | Bash Overflow | [Read More](https://medium.com/p/d4838c44c2a7) |
+| Mon, 06 Apr 2026 06:25:23 GMT | ICT Security Specialist Australia — Skills Assessment & Career Guide (2026) | CDR for Australia | [Read More](https://medium.com/p/5be671fdd8c5) |
+| Mon, 06 Apr 2026 06:22:38 GMT | Bug Bounty: JSONP Callback Vulnerability Explained | MD Mehedi Hasan | [Read More](https://medium.com/p/d59b39a89067) |
+| Mon, 06 Apr 2026 06:10:47 GMT | Apple Surprises Consumers with Its Most Affordable Devices Yet | Ottomavin | [Read More](https://medium.com/p/b9a58e331752) |
+| Mon, 06 Apr 2026 06:01:54 GMT | Security Misconfiguration: The Silent Killer of Web Security | 0xSmit | [Read More](https://medium.com/p/fdc7526e7c81) |
+| Mon, 06 Apr 2026 05:58:40 GMT | Let Them See. | Blackscar | [Read More](https://medium.com/p/fe935182ff9f) |
+| Mon, 06 Apr 2026 05:55:47 GMT | Living Off the SaaS: How Attackers Abuse Trusted Applications to Stay Invisible | Cynox Security LLP. | [Read More](https://medium.com/p/8904141c52eb) |
+| Mon, 06 Apr 2026 05:32:38 GMT | How IT Support Remotes Into a User’s Machine: A Simple Beginner Walkthrough | Declan | [Read More](https://medium.com/p/9226af917efd) |
+| Mon, 06 Apr 2026 05:31:01 GMT | How to Secure Java Applications and Workflows with Spring Security and Camunda 8 | Shikha Nirankari | [Read More](https://medium.com/p/22f306cf6a82) |
+| Mon, 06 Apr 2026 05:30:06 GMT | Bug Bounties in the AI Era: New Attack Surfaces, New Opportunities | Vijay Kumar Gupta | [Read More](https://medium.com/p/633903136b0b) |
+| Mon, 06 Apr 2026 05:18:22 GMT | Somewhere Between Backpropagation and Budget Approvals, AI Engineering Quietly Changed | Datavex AI Pvt Ltd | [Read More](https://medium.com/p/61b59525507c) |
 | Mon, 06 Apr 2026 05:13:23 GMT | Challan for Driving in Restricted Military Zones | Car | [Read More](https://medium.com/p/0ba7f406783c) |
 | Mon, 06 Apr 2026 05:09:03 GMT | Burp, AI, and you! | Alex Thines | [Read More](https://medium.com/p/031464285cd1) |
 | Mon, 06 Apr 2026 05:04:54 GMT | 2026 Enterprise Cyber Liability & Ransomware Trends: A Strategic Risk Mitigation Guide | Zzz | [Read More](https://medium.com/p/8a2362ecabdc) |
@@ -84,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 19:52:10 GMT | Going in Circles: Fourier, Primes, and the Quantum Threat to Cryptography | Khalid Syed | [Read More](https://medium.com/p/0e163cf4ea04) |
 | Sun, 05 Apr 2026 19:51:39 GMT | Critical Logic Vulnerability : Authentication Downgrade | Mshamy | [Read More](https://medium.com/p/143ddda29ab2) |
 | Sun, 05 Apr 2026 19:48:50 GMT | ARP Poisoning | Nikhil Shakya | [Read More](https://medium.com/p/3f414400f022) |
-| Sun, 05 Apr 2026 19:46:01 GMT | The “Vibe Coding” Security Crisis: | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/38b368e15f03) |
-| Sun, 05 Apr 2026 19:44:45 GMT | Audited Smart Contracts: The Foundation of Responsible Web3 Growth. | Bitcos Pro (BOS) | [Read More](https://medium.com/p/8036553a3a2c) |
-| Sun, 05 Apr 2026 19:44:16 GMT | Insights from My CPTS Journey: A Practical Network Pivoting Scenario | Crowx01 | [Read More](https://medium.com/p/2bde761410ee) |
-| Sun, 05 Apr 2026 19:42:22 GMT | Can You Detect an Attack Without a Process? | OMPSHUNYAYA | [Read More](https://medium.com/p/7c034fe621fe) |
-| Sun, 05 Apr 2026 19:40:22 GMT | Cybersecurity Deep Dive: The Complete Guide to Protecting Modern Applications | Kaizen Chandra | [Read More](https://medium.com/p/a442efc3fb06) |
-| Sun, 05 Apr 2026 19:31:16 GMT | SentryQ — How I Built a Local-AI Powered Security Scanner | Gaurav Jha | [Read More](https://medium.com/p/bc791e67e396) |
-| Sun, 05 Apr 2026 19:20:23 GMT | When Static Analysis Turns Dangerous: Command Injection in NASA’s Cobra Tool | dark-haxor | [Read More](https://medium.com/p/f54e3f9f8725) |
-| Sun, 05 Apr 2026 19:19:46 GMT | Empire: Breakout (VulnHub) — Complete Walkthrough & System Compromise | Sahuteman | [Read More](https://medium.com/p/c5dade66ef6f) |
-| Sun, 05 Apr 2026 19:12:38 GMT | Anthropic Accidentally Leaked Claude Code’s Source Code — And the Internet Had a Field Day | Vishnu Vardhan Theegela | [Read More](https://medium.com/p/2d5a9ec1cd4c) |
-| Sun, 05 Apr 2026 19:10:03 GMT | AI as the New Frontier for Espionage | Rolando Santamaría Masó | [Read More](https://medium.com/p/2d3e5c6e244d) |
-| Sun, 05 Apr 2026 19:01:35 GMT | A casa vazia | Yvesklavdian | [Read More](https://medium.com/p/de36c512b27b) |
-| Sun, 05 Apr 2026 18:45:13 GMT | Penetration Testing Contract Agreement (Beginner-Friendly Guide + Open Template) | Busari Mukhtar | [Read More](https://medium.com/p/5833b6de07c9) |
-| Sun, 05 Apr 2026 18:40:56 GMT | Zero Trust Starts Here: Meet the Gatekeeper Behind Every Microsoft Login | Jithmi Hasari | [Read More](https://medium.com/p/bc44b8cab522) |
-| Sun, 05 Apr 2026 18:38:40 GMT | The 33% Oversight: What Data Centers Can Learn from the World’s Largest IT Outage | David Ryan | [Read More](https://medium.com/p/7163b8c5ddee) |
-| Sun, 05 Apr 2026 18:35:46 GMT | Can a attack start without Malware: A small use-case by CrowdStrike in 2026 | Iftikhar Zaidi | [Read More](https://medium.com/p/3a5e031eb2d0) |
-| Sun, 05 Apr 2026 18:34:00 GMT | What Building AI for Goverment Client Taught Me About the Future of Cybersecurity | Ritulraj Cyber | [Read More](https://medium.com/p/dee75f7564de) |
-| Sun, 05 Apr 2026 18:33:38 GMT | The most convenient way to authenticate | Anton Minin Baranovskii | [Read More](https://medium.com/p/1906eb264fdb) |
-| Sun, 05 Apr 2026 18:29:40 GMT | ReconOverlay: Catching CVEs, Exploit Paths, and Version Clues in Real Time | HRK | [Read More](https://medium.com/p/2def7dcfd558) |
-| Sun, 05 Apr 2026 18:29:40 GMT | The Rise of the Agentic SOC | Varunbindra | [Read More](https://medium.com/p/f84afd3853bc) |
-| Sun, 05 Apr 2026 18:27:40 GMT | DC-3 Walkthrough (VulnHub) — Step-by-Step Detailed Guide, Solve -By NA.. | Nikhil Armal | [Read More](https://medium.com/p/0e831bbd28b9) |
-| Sun, 05 Apr 2026 18:20:30 GMT | From Code to Consequence: Executing a Selective Forwarding Attack and Measuring Its True Cost | Shreya Gajjar | [Read More](https://medium.com/p/db92683a4fec) |
-| Sun, 05 Apr 2026 18:17:02 GMT | The 10-Year Reset: From Comfort Zone to Cybersecurity Frontlines | Mohamed Abdelhamied | [Read More](https://medium.com/p/5cf7c7b53ea2) |
-| Sun, 05 Apr 2026 18:15:24 GMT | How IT Support Uses Ticketing Systems: A Simple Jira Walkthrough | Declan | [Read More](https://medium.com/p/90400b60446c) |
-| Sun, 05 Apr 2026 18:12:27 GMT | The Stego Chronicles: TeamPCP Gettin’ Sneaky with Audio-based Steganography | z3r0trust | [Read More](https://medium.com/p/0853eb3e9d98) |
-| Sun, 05 Apr 2026 18:11:17 GMT | Information Disclosure Through Unrestricted API Endpoints | DrRobik | [Read More](https://medium.com/p/f56f94480b9c) |
-| Sun, 05 Apr 2026 18:00:07 GMT | The Agentic SOC: How Autonomous AI Will Reshape Detection, Investigation, and Response | Varunbindra | [Read More](https://medium.com/p/616bd5cba16f) |
-| Sun, 05 Apr 2026 17:59:49 GMT | Your Azure Environment Has No Guardrails. Here’s How to Fix That. | Ibrahim Yusuf | [Read More](https://medium.com/p/9536a6e90c29) |
-| Sun, 05 Apr 2026 17:58:49 GMT | How I Rooted LazyAdmin CTF (The Admin Really Was Lazy) | VxOM | [Read More](https://medium.com/p/ad75c0fc8d38) |
