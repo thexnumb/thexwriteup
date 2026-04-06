@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 43: Test Prep, Day 2 | Maximillian Rueda | [Read More](https://medium.com/p/ffb333f2a647) |
+| Mon, 06 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 42: Test Prep, Day 1 | Maximillian Rueda | [Read More](https://medium.com/p/c5061dc9488c) |
+| Mon, 06 Apr 2026 20:59:45 GMT | A scientist and artist refuses to “pick one” | Luci Clary | [Read More](https://medium.com/p/cb01331ee68d) |
+| Mon, 06 Apr 2026 20:49:44 GMT | The Enemy in Your Terminal: Why OpenClaw was the Perfect Trojan Horse | Syed Ahmer Shah | [Read More](https://medium.com/p/804df981f89b) |
+| Mon, 06 Apr 2026 20:47:26 GMT | DISKO 4… picoCTF | Configx | [Read More](https://medium.com/p/ea6ed47e6aab) |
+| Mon, 06 Apr 2026 20:47:15 GMT | The Psychology of Grief: What Losing a Pure Soul Taught Me About Life | Binte Habib | [Read More](https://medium.com/p/a07edaa4b51b) |
+| Mon, 06 Apr 2026 20:46:01 GMT | CVE-2026–3888: Deep Rooted Components Expose Ubuntu Desktop to Local Privilege Escalation | Sohan Kanna | [Read More](https://medium.com/p/f167fe449732) |
+| Mon, 06 Apr 2026 20:45:41 GMT | The Hidden Threat in Your Inbox: Understanding Phishing Attacks and How to Avoid Them | Ejbennett | [Read More](https://medium.com/p/555ba6c31503) |
+| Mon, 06 Apr 2026 20:45:06 GMT | From 10-Year Gap to The Architecture of Re-Learning: Building a Study Lab Through Python | Mohamed Abdelhamied | [Read More](https://medium.com/p/0cd637df83ce) |
+| Mon, 06 Apr 2026 20:43:16 GMT | Basic Process Injection — Ashbo3n | Ashbo3n | [Read More](https://medium.com/p/cdafb662338d) |
+| Mon, 06 Apr 2026 20:34:45 GMT | Gap Analysis and Readiness Assessment: Not the Same Thing | Frank Leitner | [Read More](https://medium.com/p/3e9d4c7cd67e) |
+| Mon, 06 Apr 2026 20:16:15 GMT | How I Conduct Enhanced Due Diligence Correctly | Lenna Mustik | [Read More](https://medium.com/p/d8351af53b08) |
+| Mon, 06 Apr 2026 20:16:01 GMT | Attack Against a Major Open-Source Library was Social Engineering | Matthew.Rosenquist | [Read More](https://medium.com/p/2e9b32f61f2c) |
+| Mon, 06 Apr 2026 20:15:01 GMT | The Magic Checkbox: Deconstructing Disk Encryption from AWS KMS to Formally Verified AES-XTS | Rafal Ligmann | [Read More](https://medium.com/p/d8cb16a7d971) |
+| Mon, 06 Apr 2026 20:09:21 GMT | One Backpack, One Talk, and a Room Full of People Who Should Be Speaking | Ehulse | [Read More](https://medium.com/p/e40245f5d34d) |
+| Mon, 06 Apr 2026 20:05:10 GMT | Cyber Threat Intelligence: Understanding the Digital Battlefield | Omer Akin | [Read More](https://medium.com/p/e3f1c6025ddf) |
 | Mon, 06 Apr 2026 20:04:45 GMT | Tracking USB Activity Through Event Logs: Every Plug Tells a Story | Dean | [Read More](https://medium.com/p/1248d7820678) |
 | Mon, 06 Apr 2026 20:03:13 GMT | Authenticated Multi-Privilege DAST with OWASP ZAP in CI/CD in Gitlab | Med Yeslem Med Lekhlive | [Read More](https://medium.com/p/d300fdc94c43) |
 | Mon, 06 Apr 2026 19:56:01 GMT | Using AI to Strengthen Cybersecurity and Reduce Business Costs | Osiris | [Read More](https://medium.com/p/0eaf3eba4070) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 15:36:18 GMT | Build your Billion-dollar security company | Nachiketh Rao | [Read More](https://medium.com/p/64ce0663c401) |
 | Mon, 06 Apr 2026 15:36:11 GMT | Spring Cloud Config Can Be a Security Problem You Don’t Notice Until It Is Public | The Atomic Architect | [Read More](https://medium.com/p/d40e5b1ac72f) |
 | Mon, 06 Apr 2026 15:32:42 GMT | The Founder’s Blindspot: What Being Hacked Taught Us About Emotion and Security | My Life in Comics | [Read More](https://medium.com/p/a181ca84901c) |
-| Mon, 06 Apr 2026 15:32:17 GMT | Wolves of Turan: a new name in the world of cybercrime | anthony recherh | [Read More](https://medium.com/p/f0a0d3a0e7ec) |
-| Mon, 06 Apr 2026 15:28:21 GMT | Best ELV Company in Dubai for Residential, Commercial & Industrial ELV Systems | Vastechoffpage | [Read More](https://medium.com/p/41554dee75e7) |
-| Mon, 06 Apr 2026 15:25:01 GMT | What’s changing in IoT strategy from Industry 4.0 to 6.0 and beyond | Shanika Wickramasinghe | [Read More](https://medium.com/p/a48f0f15d637) |
-| Mon, 06 Apr 2026 15:22:15 GMT | The Inflection Point: How AI and Supply Chain Threats Are Rewriting The Rules Of Modern Software… | Joe Christian | [Read More](https://medium.com/p/dd1d79d966bb) |
-| Mon, 06 Apr 2026 15:21:37 GMT | EXTENDING YOUR NETWORK:FIREWALL CONFIGURATION LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/8fb4f3f996b0) |
-| Mon, 06 Apr 2026 15:10:43 GMT | How to Actually Detect Threats in Kubernetes: The Runtime Security Stack No One Talks About | Ramesh | [Read More](https://medium.com/p/b595cffd40aa) |
-| Mon, 06 Apr 2026 15:08:02 GMT | From Basics Of Cyber Sec to AI: Everything I Learned About AI & ML. | Siddhant Chaudhary | [Read More](https://medium.com/p/fc5d9f66d325) |
-| Mon, 06 Apr 2026 15:06:25 GMT | Building Odaram — Security beyond system prompts. | Princewill Onyenanu | [Read More](https://medium.com/p/963df4d5d0b9) |
-| Mon, 06 Apr 2026 15:01:04 GMT | Subnetting or Network Segmentation | Aesha Mehveen | [Read More](https://medium.com/p/d181a0fca859) |
-| Mon, 06 Apr 2026 14:59:09 GMT | Scaling Intelligence | Camilla Siggaard Andersen | [Read More](https://medium.com/p/b0370d7cfb47) |
-| Mon, 06 Apr 2026 14:59:00 GMT | CVE-2026-5610: Critical Belkin F9K1015 Router Flaw Allows Remote Code Execution | Cybrdef | [Read More](https://medium.com/p/46bf0e40dc54) |
-| Mon, 06 Apr 2026 14:57:10 GMT | Belkin F9K1122 Buffer Overflow CVE-2026-5608 Exploitable | Cybrdef | [Read More](https://medium.com/p/51e29d036087) |
-| Mon, 06 Apr 2026 14:53:24 GMT | Everyone Is Saying “Agentic.” But What Really Changed in Security Automation? | Oscar Antonangelo | [Read More](https://medium.com/p/29492c3ceabd) |
-| Mon, 06 Apr 2026 14:51:46 GMT | CVE-2026–4931: How Spearbit’s Cantina Denied a Critical Vulnerability Using Verifiably False… | Donnyoregon | [Read More](https://medium.com/p/0a27b92ac2db) |
-| Mon, 06 Apr 2026 14:50:52 GMT | The Truth About Background Checks for Cheating Partners | Sergio Hunter | [Read More](https://medium.com/p/9d710b674cca) |
-| Mon, 06 Apr 2026 14:49:00 GMT | Understanding Dark Web Forums and Their Role in Online Communities | Tor BBB | [Read More](https://medium.com/p/00527f06fa27) |
