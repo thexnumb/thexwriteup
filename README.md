@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Apr 2026 22:32:13 GMT | Why Businesses in Houston Need Professional Security Services | AlexBryn | [Read More](https://medium.com/p/a8e5f4eefc01) |
+| Mon, 06 Apr 2026 22:31:43 GMT | Intercepting HTTPS Traffic in Flutter Applications on iOS | n3k00n3 | [Read More](https://medium.com/p/5dbf765ac6f6) |
+| Mon, 06 Apr 2026 22:28:22 GMT | Interceptando tráfego Flutter | n3k00n3 | [Read More](https://medium.com/p/0c3ab77e47f4) |
+| Mon, 06 Apr 2026 22:13:12 GMT | Can a 16-Year-Old Build a Better AI Security Engine in 70 Days? The Countdown Starts Now. | Ariel david | [Read More](https://medium.com/p/d4543f564a0d) |
+| Mon, 06 Apr 2026 21:58:41 GMT | Alert Fatigue is Real. So I Built an AI Tool to Help. | Gitika Babbar | [Read More](https://medium.com/p/47636be25949) |
 | Mon, 06 Apr 2026 21:48:24 GMT | He Got Ignored… So He Leaked a Windows Zero-Day! | Venkata Nagasai Kesani | [Read More](https://medium.com/p/e1ae3ec94c34) |
 | Mon, 06 Apr 2026 21:45:53 GMT | Cookie(Çerez) Türleri ve Pentest Açısından Önemi | Zeki Kayaalp | [Read More](https://medium.com/p/2d2c4aca63f9) |
 | Mon, 06 Apr 2026 21:43:47 GMT | Smart Contract Security: The Overlooked Skill That Can Change Your Life | Abraham | [Read More](https://medium.com/p/1d5ae41246e9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 16:29:05 GMT | I Secure Enterprise Databases for a Living. Here’s How I Protect My Own Family Online. | Adam Frąckowiak | [Read More](https://medium.com/p/8acb5478566b) |
 | Mon, 06 Apr 2026 16:23:47 GMT | Your Agentic AI Platform Covers 60% of What the Regulator Expects - Here Is the Other 40% | Henry Bravo | [Read More](https://medium.com/p/a4894fe4c8e7) |
 | Mon, 06 Apr 2026 16:22:12 GMT | AI Agents Are the New Attack Surface | Tanmay Bansal | [Read More](https://medium.com/p/d9650052ed5b) |
-| Mon, 06 Apr 2026 16:21:08 GMT | OverTheWire Bandit — Complete Write-Up: 12 Levels to Get Started in Cybersecurity | Rajaelbahraouy | [Read More](https://medium.com/p/6026bbdf56cc) |
-| Mon, 06 Apr 2026 16:18:27 GMT | How to Find Security Vulnerabilities in C# with Claude Code | Adam Adamczyk | [Read More](https://medium.com/p/db499da363dc) |
-| Mon, 06 Apr 2026 16:16:38 GMT | Why Digital Forensic Services Are Essential for Modern Businesses | Drona Cyber Solutions | [Read More](https://medium.com/p/6379a6b20e6d) |
-| Mon, 06 Apr 2026 16:16:00 GMT | Warning: Malicious Polymarket Copy Trading Bots Are Stealing Private Keys | Данил Шадрин | [Read More](https://medium.com/p/fcd3803dc173) |
-| Mon, 06 Apr 2026 16:10:25 GMT | SIEM Without Limits: Managing Logs, Metrics, and Traces in 2026 | NetWitness | [Read More](https://medium.com/p/062d5c4188fb) |
