@@ -12,9 +12,38 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Apr 2026 13:42:38 GMT | Tips on hiring a Professional Ethical Hacker. | Professional Ethical Hacker | [Read More](https://medium.com/p/bfea69f31210) |
+| Mon, 06 Apr 2026 13:40:44 GMT | Digital Forensics for Beginners: How to Image a Disk, Carve Deleted Files, and Document Everything… | Niklas Heringer | [Read More](https://medium.com/p/6ee472fc5091) |
+| Mon, 06 Apr 2026 13:37:40 GMT | Windows DLL Execution Techniques: Abuse, Detection, and Mitigation | Pentester Club | [Read More](https://medium.com/p/5d98bd78c2d5) |
+| Mon, 06 Apr 2026 13:37:08 GMT | Encryption and Decryption explained | David Ajuzie | [Read More](https://medium.com/p/343da0fbbad0) |
+| Mon, 06 Apr 2026 13:36:32 GMT | APTeens: The Threat That Could Cost You Your Career - SANS CyberThreat Summit 2025 Takeaways III | Meera Tamboli | [Read More](https://medium.com/p/7dfe7bc067ad) |
+| Mon, 06 Apr 2026 13:34:53 GMT | Copilot: Bestie or Worst Enemy? Weaponised LLMs - SANS CyberThreat Summit 2025 Takeaways II | Meera Tamboli | [Read More](https://medium.com/p/b3535e259ac2) |
+| Mon, 06 Apr 2026 13:33:28 GMT | CVE-2026–32211 - Azure MCP Server Information Disclosure Vulnerability | Aakash Rahsi | [Read More](https://medium.com/p/13146a8e0fd7) |
+| Mon, 06 Apr 2026 13:31:01 GMT | Ask Gemini in Chrome: Convenient Feature or Forced Surveillance? | Shreya Dutta | [Read More](https://medium.com/p/711edab3d663) |
+| Mon, 06 Apr 2026 13:18:23 GMT | This Is What Independence Really Looks Like When You’re a Woman | Anna Akunne | [Read More](https://medium.com/p/23bb7cbfff63) |
+| Mon, 06 Apr 2026 13:12:57 GMT | What the Rockefeller Family Knew About Wealth That You Don’t | Tejas Sengupta | [Read More](https://medium.com/p/a0a16896bc31) |
+| Mon, 06 Apr 2026 13:10:18 GMT | Biteme (THM) Tryhackme WriteUp Only Answer | Lawvye | [Read More](https://medium.com/p/c599bd1d249c) |
+| Mon, 06 Apr 2026 13:09:16 GMT | The Digital Partisans: How the Invasion of Ukraine Reshaped Eastern European Cybercrime | Aether-Intel | [Read More](https://medium.com/p/d884bb8e5140) |
+| Mon, 06 Apr 2026 13:04:50 GMT | #  Bad USB: İnternetsiz Hücum — Sadə USB ilə Sistemə Sızmaq Mümkündürmü? | cybershieldy.com | [Read More](https://medium.com/p/9ce8f21a6671) |
+| Mon, 06 Apr 2026 13:03:04 GMT | Simulating SilverTicket Attack on Active Directory : A SOC Lab Walkthrough | ɧrιsнi rajeeѵ | [Read More](https://medium.com/p/9738e3f2269f) |
+| Mon, 06 Apr 2026 13:01:01 GMT | CVE-2026-35394: Pwning Androids via AI Prompt Injection | Manthan Ghasadiya | [Read More](https://medium.com/p/bae9b7ff9654) |
+| Mon, 06 Apr 2026 13:01:01 GMT | Axios Hack: How It Impacts Your Laravel Apps | Coder Manjeet | [Read More](https://medium.com/p/d763293bb00d) |
+| Mon, 06 Apr 2026 12:56:41 GMT | What is IDOR? (Insecure Direct Object Reference) — With Simple Examples | Riya Limba | [Read More](https://medium.com/p/0ca518b723bf) |
+| Mon, 06 Apr 2026 12:52:07 GMT | Building a Secure Command Sandbox in Python | Mani vidyadhar | [Read More](https://medium.com/p/6077aa45bc97) |
+| Mon, 06 Apr 2026 12:46:08 GMT | The Invisible Traps Your AI Agent Won’t See | Dr Tyrone Grandison | [Read More](https://medium.com/p/e0f6c04798b8) |
+| Mon, 06 Apr 2026 12:39:25 GMT | Why VAPT Testing is No Longer Optional for Businesses in 2026: A Deep Dive with Qualysec | Sunil Qualysec | [Read More](https://medium.com/p/4fd790541f20) |
+| Mon, 06 Apr 2026 12:35:21 GMT | Best Cyber Security Institute in Tilak Nagar, West Delhi — Cyberyaan (2026) | Varun Papnai | [Read More](https://medium.com/p/e5eaf249fba7) |
+| Mon, 06 Apr 2026 12:34:27 GMT | New Password Stealer Bypasses 2FA Chrome Edge And Firefox Targeted | Moni | [Read More](https://medium.com/p/55db1e3f637a) |
+| Mon, 06 Apr 2026 12:31:05 GMT | CVE-2026–32186 - Microsoft Bing Elevation of Privilege Vulnerability | Aakash Rahsi | [Read More](https://medium.com/p/253011ff24a3) |
+| Mon, 06 Apr 2026 12:24:24 GMT | The No-Nonsense Guide to Cybersecurity Vulnerabilities | Dhanush N | [Read More](https://medium.com/p/936ecc7d571e) |
+| Mon, 06 Apr 2026 12:20:41 GMT | Simulating Golden Ticket Attack on Active Directory : A SOC Lab Walkthrough | ɧrιsнi rajeeѵ | [Read More](https://medium.com/p/5e6735edea6c) |
+| Mon, 06 Apr 2026 12:20:10 GMT | What DeFi Looks Like When the Infrastructure Gets Serious: Canton Network and OneSwap | Sisi | [Read More](https://medium.com/p/571145d7ea28) |
+| Mon, 06 Apr 2026 12:07:46 GMT | How Businesses Can Prevent Data Breaches in 2026 | Codearies | [Read More](https://medium.com/p/363519790949) |
+| Mon, 06 Apr 2026 12:06:35 GMT | $285 million stolen in 12 minutes. Through social engineering and patience. | Stanislav Klevtsov | [Read More](https://medium.com/p/383ddfda933d) |
 | Mon, 06 Apr 2026 12:01:02 GMT | Exploiting Remote Inference Microservices and Programmable Guardrails for Open-Source AI | Soham Jani | [Read More](https://medium.com/p/9762d2674eaf) |
 | Mon, 06 Apr 2026 12:01:02 GMT | The Leaders Who Win With AI All Have One Thing in Common | Donnie Gibbs | [Read More](https://medium.com/p/f10f574b2b40) |
 | Mon, 06 Apr 2026 12:01:01 GMT | Unified Security Posture Management: Building a Data Warehouse That Finally Connects the Dots | Ryan Black | [Read More](https://medium.com/p/62b4693065c2) |
+| Mon, 06 Apr 2026 12:01:01 GMT | Strong Enough to Be Soft | Evelyn Foreman | [Read More](https://medium.com/p/315a4429c022) |
 | Mon, 06 Apr 2026 11:53:20 GMT | Weekly Scam Alert: Websites to Watch Out for This Month | James Smith | [Read More](https://medium.com/p/12df098c74de) |
 | Mon, 06 Apr 2026 11:50:37 GMT | Silahlar Sustu, Kodlar Konuşuyor: Siber Savaşlar | Leyla | [Read More](https://medium.com/p/f5e60c55bd16) |
 | Mon, 06 Apr 2026 11:50:14 GMT | Cybersecurity Newsletter for the week of March 24–31, 20261. | Bobbie á Deild | [Read More](https://medium.com/p/5ed97e0a663c) |
@@ -84,32 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 08:39:28 GMT | When Intelligence Agencies Agree on AI: The 8-Nation Supply Chain Shift | Tae Yeon Eom | [Read More](https://medium.com/p/3381e5ea14f3) |
 | Mon, 06 Apr 2026 08:36:49 GMT | How Threat Intelligence Helps Security Teams Stay Ahead of Attackers | Victor Olawale | [Read More](https://medium.com/p/1bd8e36c4676) |
 | Mon, 06 Apr 2026 08:36:27 GMT | When the Tool Is the Weapon: Security Lessons from Agent Skills | Siddhant Mishra | [Read More](https://medium.com/p/d4c561f4c8b0) |
-| Mon, 06 Apr 2026 08:35:43 GMT | One of the Most Notorious Child Sexual Abuse Material Platforms, DarkScandals, Collapsed with Its… | David SEHYEON Baek | [Read More](https://medium.com/p/d560024db557) |
-| Mon, 06 Apr 2026 08:33:58 GMT | When Energy AI Quantum and Cyber Threats Collide | David SEHYEON Baek | [Read More](https://medium.com/p/c932fb658eb7) |
-| Mon, 06 Apr 2026 08:26:35 GMT | Never Miss a Customer Again: Why Every Business Needs a Door Sensor Chime | Criminology Expert | [Read More](https://medium.com/p/591829c3c82e) |
-| Mon, 06 Apr 2026 08:24:42 GMT | Boogeyman 3: The Shift | Cyber-sam01 | [Read More](https://medium.com/p/4a0155377bdc) |
-| Mon, 06 Apr 2026 08:15:44 GMT | From Espresso to Exposure: Coffee Machine Hack Exposes Corporate Network Vulnerabilities | Anjalikashyapakk | [Read More](https://medium.com/p/7147158cd28e) |
-| Mon, 06 Apr 2026 08:12:51 GMT | 30 One-Liner Bash Scripts That Automate 80% of Your Bug Bounty Recon | BugHunter’s Journal | [Read More](https://medium.com/p/f8dcd14f3055) |
-| Mon, 06 Apr 2026 08:11:12 GMT | Phishing Analysis Fundamentals - THM Walkthrough | Deepika  B | [Read More](https://medium.com/p/b798a3ad960e) |
-| Mon, 06 Apr 2026 08:10:48 GMT | From HTTP to Hacking: How the Web Really Works (Cookies, Sessions & Attacks Explained)… | Deepika  B | [Read More](https://medium.com/p/fe59f76c8ebc) |
-| Mon, 06 Apr 2026 08:10:05 GMT | The Deceptive Marketplace: Unveiling the Truth Behind Telegram Hacking Apps | Kratika | [Read More](https://medium.com/p/a69c3a1d0a49) |
-| Mon, 06 Apr 2026 08:07:08 GMT | Ethical Hacking - What the Syllabus Looked Like in 2020 vs What It Should Look Like in 2026 | Varun Papnai | [Read More](https://medium.com/p/21c13ba32412) |
-| Mon, 06 Apr 2026 08:04:46 GMT | Password Spraying Campaigns: 12 Lessons Learned to Outsmart Attackers and Secure Your Org | Very Lazy Tech | [Read More](https://medium.com/p/ed22a658e75e) |
-| Mon, 06 Apr 2026 08:01:46 GMT | When Math Kills: What I Found in November and What Balancer’s Shutdown Confirms | Sisi | [Read More](https://medium.com/p/edc53ebb7434) |
-| Mon, 06 Apr 2026 07:53:35 GMT | Professional Security Guard Services in Noida for Office, Factory & Residential Society | Absngroup | [Read More](https://medium.com/p/c8a1c32e33c5) |
-| Mon, 06 Apr 2026 07:46:00 GMT | A Beginner’s Roadmap to CompTIA Security+ (From Non-Tech to Certified) | Ghost | [Read More](https://medium.com/p/4b061f807a14) |
-| Mon, 06 Apr 2026 07:32:10 GMT | DPDP Consent Management Requirements in India | GRC³ | [Read More](https://medium.com/p/b25567cfc4d9) |
-| Mon, 06 Apr 2026 07:30:23 GMT | ✨ Why Quality Matters More Than Ever :)) | Manish Yadav | [Read More](https://medium.com/p/1c74b1d37e87) |
-| Mon, 06 Apr 2026 07:30:16 GMT | Assessment Methodologies: Vulnerability Assessment CTF 1 Walk through | gauravgrox | [Read More](https://medium.com/p/792c9e1cf0f6) |
-| Mon, 06 Apr 2026 07:29:46 GMT | AI-Powered Repository Security Check with Antigravity Workflow | Alexander Tyutin | [Read More](https://medium.com/p/8408eb4d9269) |
-| Mon, 06 Apr 2026 07:20:28 GMT | Why Your CCTV Installation Might Not Be Working Properly | IT Solution Dubai | [Read More](https://medium.com/p/e658c371061f) |
-| Mon, 06 Apr 2026 07:19:24 GMT | Protect Your Phone: Guard the One You Can’t Live Without | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/c0706d415796) |
-| Mon, 06 Apr 2026 07:13:13 GMT | The Global Push for Sustainable IT | Abraham Karikari | [Read More](https://medium.com/p/d39e22f270f6) |
-| Mon, 06 Apr 2026 07:12:08 GMT | AI Made Everyone a Builder and That’s a Problem | Ran Isenberg | [Read More](https://medium.com/p/da1a560cc8ad) |
-| Mon, 06 Apr 2026 07:02:35 GMT | Fragile Fear | Sakura Yamamuchi | [Read More](https://medium.com/p/7338ddacea47) |
-| Mon, 06 Apr 2026 07:02:32 GMT | I Don’t Feel Safe Anymore | Peace Ikechi | [Read More](https://medium.com/p/38a86529f08c) |
-| Mon, 06 Apr 2026 07:01:26 GMT | CKA Study Notes — Part 5: Security in Kubernetes | alihan | [Read More](https://medium.com/p/012bd54f46af) |
-| Mon, 06 Apr 2026 07:01:01 GMT | AWS Lambda PII Handling in Production: DynamoDB Field Encryption with KMS | Matia Rašetina | [Read More](https://medium.com/p/e2b8b4eca651) |
-| Mon, 06 Apr 2026 06:52:46 GMT | System 0 — The Last Prerequisite Before AGI | Irisprotocol | [Read More](https://medium.com/p/bf44682de680) |
-| Mon, 06 Apr 2026 06:51:23 GMT | Your Monitoring Isn’t Broken. Your Thinking About It Is | Fedir Kompaniiets | [Read More](https://medium.com/p/ffb1001d2d01) |
-| Mon, 06 Apr 2026 06:51:12 GMT | The Best Total Security Antivirus Features for Safer Internet Navigation | Rahul yadav | [Read More](https://medium.com/p/005a911ef79a) |
