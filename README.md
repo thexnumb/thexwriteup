@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Apr 2026 23:20:38 GMT | No Special Prep. Top 75 Nationally. My TCS HackQuest S10 Story. | Yuvaraja | [Read More](https://medium.com/p/3e3fa9716685) |
+| Mon, 06 Apr 2026 23:18:04 GMT | Find Social Media Profiles: A Complete Verification Guide | Amir Sharifian | [Read More](https://medium.com/p/b9ba66639fe3) |
+| Mon, 06 Apr 2026 23:14:38 GMT | Hiçbir Sınırı Olmayan Güçlü Bir Yapay Zekayı İnternette Serbest Bırakırsak Ne Olur? | Ali Yaşe | [Read More](https://medium.com/p/53c30be12bec) |
+| Mon, 06 Apr 2026 23:08:39 GMT | DAY 1: Dissecting the AI Brain — Can We See a “Lie” Before It’s Spoken? | Ariel david | [Read More](https://medium.com/p/51164988c3a8) |
+| Mon, 06 Apr 2026 23:01:01 GMT | What AI Really Means for Cybersecurity — An Architect’s Honest View | Ujjwal Sharma | [Read More](https://medium.com/p/d463e622a66d) |
+| Mon, 06 Apr 2026 22:51:22 GMT | Building a Cloud SOC Honeypot in Azure: Observing Real Cyber Attacks with Microsoft Sentinel and… | Couragetikum | [Read More](https://medium.com/p/50cdb57bf3ae) |
+| Mon, 06 Apr 2026 22:47:30 GMT | InfosecPrep Walkthrough (Proving Ground-play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/72fac174c4bd) |
 | Mon, 06 Apr 2026 22:32:13 GMT | Why Businesses in Houston Need Professional Security Services | AlexBryn | [Read More](https://medium.com/p/a8e5f4eefc01) |
 | Mon, 06 Apr 2026 22:31:43 GMT | Intercepting HTTPS Traffic in Flutter Applications on iOS | n3k00n3 | [Read More](https://medium.com/p/5dbf765ac6f6) |
 | Mon, 06 Apr 2026 22:28:22 GMT | Interceptando tráfego Flutter | n3k00n3 | [Read More](https://medium.com/p/0c3ab77e47f4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 16:53:13 GMT | Cybersecurity Trends Businesses Can’t Ignore in 2026 | Clarkjoesph | [Read More](https://medium.com/p/fc2c5729d1ec) |
 | Mon, 06 Apr 2026 16:48:51 GMT | Fixed Root password — what about rotation? | Vinay Babu Umesh | [Read More](https://medium.com/p/179da2609102) |
 | Mon, 06 Apr 2026 16:46:18 GMT | 2026 Global Threat Report: | Mammoth Cyber | [Read More](https://medium.com/p/850e8ec6098a) |
-| Mon, 06 Apr 2026 16:39:09 GMT | Attack → Detect → Govern: The Practitioner’s Mindset for Modern Security | DarkLightSec | [Read More](https://medium.com/p/480a9b237ba9) |
-| Mon, 06 Apr 2026 16:37:35 GMT | AI Jailbreak Nedir ? | Kadir Çamoğlu | [Read More](https://medium.com/p/ab55d97960cb) |
-| Mon, 06 Apr 2026 16:36:04 GMT | OverTheWire : Wargames — Bandit(Final Destination) | Pooja J | [Read More](https://medium.com/p/c313eb1a569b) |
-| Mon, 06 Apr 2026 16:31:01 GMT | De un PPT malicioso a exfiltración de credenciales en minutos | D4nYeD | [Read More](https://medium.com/p/52ebc33a613b) |
-| Mon, 06 Apr 2026 16:29:05 GMT | I Secure Enterprise Databases for a Living. Here’s How I Protect My Own Family Online. | Adam Frąckowiak | [Read More](https://medium.com/p/8acb5478566b) |
-| Mon, 06 Apr 2026 16:23:47 GMT | Your Agentic AI Platform Covers 60% of What the Regulator Expects - Here Is the Other 40% | Henry Bravo | [Read More](https://medium.com/p/a4894fe4c8e7) |
-| Mon, 06 Apr 2026 16:22:12 GMT | AI Agents Are the New Attack Surface | Tanmay Bansal | [Read More](https://medium.com/p/d9650052ed5b) |
