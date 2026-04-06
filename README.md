@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Apr 2026 09:56:52 GMT | ️ Why AVG Antivirus is a Top Choice in Australia | Customer Support Information | [Read More](https://medium.com/p/7d7fdf29a4aa) |
+| Mon, 06 Apr 2026 09:56:42 GMT | Beyond ChaCha20 and AES: Exploring Rational Quadratic 
+ Functions for Cryptographic Randomness | A.Khettany | [Read More](https://medium.com/p/7f9cd0dc47e1) |
+| Mon, 06 Apr 2026 09:49:46 GMT | Scanning Power Platform Toolbox for Governance Compliance | Mustaque Ehiya | [Read More](https://medium.com/p/8ab5bd9fc856) |
+| Mon, 06 Apr 2026 09:48:34 GMT | Firewall and Cyber Security Services for Enterprises: Zero Trust, Cloud Security, Endpoint Security | Imperium Digital Network Pvt Ltd. | [Read More](https://medium.com/p/cfe42494e526) |
+| Mon, 06 Apr 2026 09:43:16 GMT | Ransomware Protection for Global Teams: EDR, Backups, Patching, Awareness Training | Imperium Digital Network Pvt Ltd. | [Read More](https://medium.com/p/3ad7e230d391) |
+| Mon, 06 Apr 2026 09:43:05 GMT | How IT Services Improve Customer Experience | Enlighten Infosystems | [Read More](https://medium.com/p/173157daf546) |
+| Mon, 06 Apr 2026 09:43:04 GMT | GamingServer — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/857d39a74860) |
+| Mon, 06 Apr 2026 09:41:01 GMT | AWS Managed Policies and Why They Are Trickier Than They Look | Hilda Machando | [Read More](https://medium.com/p/7528d60b6be4) |
+| Mon, 06 Apr 2026 09:38:55 GMT | One Tool to Rule Them All: Dumping SPI Flash with J-Link Ultra | CipherX1802 | [Read More](https://medium.com/p/2834cde88acd) |
+| Mon, 06 Apr 2026 09:35:42 GMT | DLL Hijacking Analysis Using Process Monitor | ZeroDay-Security-Services | [Read More](https://medium.com/p/6e6d60c0ab6b) |
+| Mon, 06 Apr 2026 09:32:43 GMT | The Dark Side of “Cheap Flight” Ads: How to Spot a Travel Booking Scam | BharatFare | [Read More](https://medium.com/p/4328c8ac712a) |
+| Mon, 06 Apr 2026 09:32:22 GMT | How to Contact McAfee Support in Australia | Customer Support Information | [Read More](https://medium.com/p/f045b453b577) |
+| Mon, 06 Apr 2026 09:22:06 GMT | The Zero-Day Misinformation Campaign | Toomas Ormisson | [Read More](https://medium.com/p/8e7c89efd8ef) |
+| Mon, 06 Apr 2026 09:08:36 GMT | [RT EP.1] — HTB Support | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/7ce7a7a8dcec) |
+| Mon, 06 Apr 2026 09:01:01 GMT | Why companies overspend on controls and underspend on documentation | Gaurav Shukla | [Read More](https://medium.com/p/ed47e6216a89) |
+| Mon, 06 Apr 2026 08:53:04 GMT | I Built a SOC on My MacBook — Here’s How I Designed It | Kalyan | [Read More](https://medium.com/p/2c944adfc96b) |
+| Mon, 06 Apr 2026 08:51:01 GMT | Things I Learned the Hard Way in Production (Java + Microservices) — And How They Changed the Way I… | Shubham Vartak | [Read More](https://medium.com/p/736b48c08fc2) |
+| Mon, 06 Apr 2026 08:48:15 GMT | IAM Governance: Building Automated Access Reviews with AWS Lambda & IAM Access Analyzer | Davebhargavi | [Read More](https://medium.com/p/d185931d6d11) |
 | Mon, 06 Apr 2026 08:39:28 GMT | When Intelligence Agencies Agree on AI: The 8-Nation Supply Chain Shift | Tae Yeon Eom | [Read More](https://medium.com/p/3381e5ea14f3) |
 | Mon, 06 Apr 2026 08:36:49 GMT | How Threat Intelligence Helps Security Teams Stay Ahead of Attackers | Victor Olawale | [Read More](https://medium.com/p/1bd8e36c4676) |
 | Mon, 06 Apr 2026 08:36:27 GMT | When the Tool Is the Weapon: Security Lessons from Agent Skills | Siddhant Mishra | [Read More](https://medium.com/p/d4c561f4c8b0) |
@@ -23,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 08:12:51 GMT | 30 One-Liner Bash Scripts That Automate 80% of Your Bug Bounty Recon | BugHunter’s Journal | [Read More](https://medium.com/p/f8dcd14f3055) |
 | Mon, 06 Apr 2026 08:11:12 GMT | Phishing Analysis Fundamentals - THM Walkthrough | Deepika  B | [Read More](https://medium.com/p/b798a3ad960e) |
 | Mon, 06 Apr 2026 08:10:48 GMT | From HTTP to Hacking: How the Web Really Works (Cookies, Sessions & Attacks Explained)… | Deepika  B | [Read More](https://medium.com/p/fe59f76c8ebc) |
+| Mon, 06 Apr 2026 08:10:05 GMT | The Deceptive Marketplace: Unveiling the Truth Behind Telegram Hacking Apps | Kratika | [Read More](https://medium.com/p/a69c3a1d0a49) |
 | Mon, 06 Apr 2026 08:07:08 GMT | Ethical Hacking - What the Syllabus Looked Like in 2020 vs What It Should Look Like in 2026 | Varun Papnai | [Read More](https://medium.com/p/21c13ba32412) |
 | Mon, 06 Apr 2026 08:04:46 GMT | Password Spraying Campaigns: 12 Lessons Learned to Outsmart Attackers and Secure Your Org | Very Lazy Tech | [Read More](https://medium.com/p/ed22a658e75e) |
 | Mon, 06 Apr 2026 08:01:46 GMT | When Math Kills: What I Found in November and What Balancer’s Shutdown Confirms | Sisi | [Read More](https://medium.com/p/edc53ebb7434) |
@@ -82,6 +102,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 03:20:53 GMT | Secure By Design — Building Production AI Applications | Anuj Paryemalani | [Read More](https://medium.com/p/0bce001363ec) |
 | Mon, 06 Apr 2026 03:17:05 GMT | Dev Day with Sam #2: Claude AI as a Developer System — Beyond Prompt Engineering | Nsirim Samuel Eberechi | [Read More](https://medium.com/p/dbd0ccc3e9c2) |
 | Mon, 06 Apr 2026 03:16:01 GMT | I Thought JWTs Were Stateless. Turns Out Logout Made Me Build a Stateful Layer Anyway. | Rgupta | [Read More](https://medium.com/p/7160b20fb43c) |
+| Mon, 06 Apr 2026 03:12:21 GMT | Cómo prepararse para el eJPT v2: Guía práctica desde la experiencia real | Adrian León | [Read More](https://medium.com/p/b2b6343df249) |
 | Mon, 06 Apr 2026 03:11:13 GMT | Ethical Hacking: The Smart Way to Fight Cybercrime | khadeeja | [Read More](https://medium.com/p/8eacc4f02058) |
 | Mon, 06 Apr 2026 03:01:01 GMT | Fundamentals of Information Security — Chapter 04 | Mani Gayathri | [Read More](https://medium.com/p/5937671eb663) |
 | Mon, 06 Apr 2026 02:51:35 GMT | What I Do After Gaining Initial Access (SSH → Real Impact) | ghostyjoe | [Read More](https://medium.com/p/0492d9f15bdf) |
@@ -92,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 02:15:35 GMT | The Real AI Skill in 2026 Isn’t Coding — It’s Thinking | Aayushi Sinha | [Read More](https://medium.com/p/5b52f006b1ee) |
 | Mon, 06 Apr 2026 02:12:35 GMT | Inside TeamPCP: The Supply Chain Attack That Didn’t Stop at Cisco | Decoding Daily Tech News | [Read More](https://medium.com/p/ecee83a54142) |
 | Mon, 06 Apr 2026 02:12:14 GMT | Building a Powerful Blue Team SOC Dashboard with Python & Streamlit | Sidhantchaurasiya | [Read More](https://medium.com/p/6441bbea80ff) |
-| Mon, 06 Apr 2026 02:10:58 GMT | How I Balance Web Development, AI, and Cybersecurity | Mubashir | [Read More](https://medium.com/p/2c5a488043b9) |
-| Mon, 06 Apr 2026 01:55:11 GMT | HTB CCTV: Chaining Recent CVEs for Root Access | Chaitanya Garware | [Read More](https://medium.com/p/79d5a98d6bba) |
-| Mon, 06 Apr 2026 01:52:35 GMT | Server Side Traversal : Path Traversal | nelff_ | [Read More](https://medium.com/p/bb3b3481a009) |
-| Mon, 06 Apr 2026 01:21:55 GMT | The Illusion of “Secure” Cloud Storage — And Why It Matters More Than You Think | AvenStudios | [Read More](https://medium.com/p/f270beb88091) |
-| Mon, 06 Apr 2026 01:11:01 GMT | How to Win a Midlife Woman’s Heart: Attention, Understanding, Presence, Security | Eilen Lexus | [Read More](https://medium.com/p/d638962734aa) |
-| Mon, 06 Apr 2026 01:01:01 GMT | [Joker] Systemic Errors, Social “Bugs,” and the Strategy to Redefine Your Personal OS | MonoEssay | [Read More](https://medium.com/p/28f32a73fc39) |
-| Mon, 06 Apr 2026 00:57:03 GMT | Men on Threads were asked “What Makes a Woman Instantly Unattractive?” | Elephant Journal | [Read More](https://medium.com/p/e9e7434215a4) |
-| Mon, 06 Apr 2026 00:53:32 GMT | Strengthening Digital Literacy: Telkom Launches “Cybersecurity Goes to School” to Shield… | TJSL Telkom Indonesia | [Read More](https://medium.com/p/84d10522464c) |
-| Mon, 06 Apr 2026 00:51:36 GMT | Sprint 7, Week 1 Change Log (The System Was Running, I Just Stopped Posting) | Al Dungo | [Read More](https://medium.com/p/1e57961f8717) |
-| Mon, 06 Apr 2026 00:41:06 GMT | The Two-Domain Problem | Benedikt Thurn-Taxis | [Read More](https://medium.com/p/fd316678355f) |
-| Mon, 06 Apr 2026 00:40:00 GMT | Forensic Analysis Write-Up | Ishanchowdhury | [Read More](https://medium.com/p/153b3f05a5b4) |
-| Mon, 06 Apr 2026 00:27:44 GMT | Google DeepMind Just Mapped Every Way the Web Can Hijack Your AI Agent | Mandar Karhade, MD. PhD. | [Read More](https://medium.com/p/6814bb268cb0) |
-| Mon, 06 Apr 2026 00:01:01 GMT | The Audit Asked If We Had SSDLC. I Had to Google It. Here Is What It Means. | Hafiq Iqmal | [Read More](https://medium.com/p/b6c4d99a815c) |
-| Sun, 05 Apr 2026 23:38:15 GMT | TryHackMe — Startup CTF Write-up | Lazzaro_404 | [Read More](https://medium.com/p/6d544efec1e0) |
-| Sun, 05 Apr 2026 23:25:32 GMT | From Bash Script to Security Tool: Engineering Lessons From Building a Wi-Fi Testing Automation… | dhiraj deshmukh | [Read More](https://medium.com/p/e001a28bdb0c) |
-| Sun, 05 Apr 2026 23:18:39 GMT | Spor Verileriyle Modern Casusluk: Askerî Gizliliğin Yeni Tehdidi | 1Zek | [Read More](https://medium.com/p/ebbb54500437) |
-| Sun, 05 Apr 2026 22:31:01 GMT | From IPA to Exploit: The Complete Offensive Methodology for iOS Application Testing — Part 2 | Shubham Gupta | [Read More](https://medium.com/p/b739f0b7372b) |
-| Sun, 05 Apr 2026 22:24:10 GMT | Linux Feels Impossible… Until You Learn These 7 Secrets Hackers Never Tell You | Krish_cyber | [Read More](https://medium.com/p/28c954126937) |
-| Sun, 05 Apr 2026 22:23:43 GMT | Become an AI HACKER (It’s Easier Than You Think) | Shahzaib | [Read More](https://medium.com/p/9f309fc8fe94) |
-| Sun, 05 Apr 2026 22:20:26 GMT | How AI Consulting Company in USA for Businesses Looking to Scale with Data, Automation, and… | Primotech | [Read More](https://medium.com/p/fad98b479a60) |
