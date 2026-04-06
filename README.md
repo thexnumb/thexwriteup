@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 06 Apr 2026 05:13:23 GMT | Challan for Driving in Restricted Military Zones | Car | [Read More](https://medium.com/p/0ba7f406783c) |
+| Mon, 06 Apr 2026 05:09:03 GMT | Burp, AI, and you! | Alex Thines | [Read More](https://medium.com/p/031464285cd1) |
+| Mon, 06 Apr 2026 05:04:54 GMT | 2026 Enterprise Cyber Liability & Ransomware Trends: A Strategic Risk Mitigation Guide | Zzz | [Read More](https://medium.com/p/8a2362ecabdc) |
+| Mon, 06 Apr 2026 05:03:39 GMT | a single operational law that you can apply immediately. | SonOfClawDraws | [Read More](https://medium.com/p/5f6075be99f3) |
+| Mon, 06 Apr 2026 04:59:59 GMT | Best Free VPNs in 2026 (Safe, Fast & Tested Options) | Monibshahzad | [Read More](https://medium.com/p/50926da176bd) |
+| Mon, 06 Apr 2026 04:53:22 GMT | Windows Lab 2: Login Success & Failure Monitoring | Hemaprasadpotnuru | [Read More](https://medium.com/p/5c402a56c6e9) |
+| Mon, 06 Apr 2026 04:47:32 GMT | Husky Hack Labs is now up! | The Husky Hacker | [Read More](https://medium.com/p/0f03b3c0c254) |
+| Mon, 06 Apr 2026 04:35:51 GMT | I Bypassed an AI Paywall in 5 Minutes. Here's What That Tells Us About AI Security in 2026. | Akpareva Innocent | [Read More](https://medium.com/p/8fb9fbe93f25) |
+| Mon, 06 Apr 2026 04:33:12 GMT | “Men Don’t Cry”: The Three Words That Built a Monster Guy | Tim James | [Read More](https://medium.com/p/9876a23c717e) |
+| Mon, 06 Apr 2026 04:31:03 GMT | Android Security Deep Dive: 100 Questions to Build Secure Apps- PART 1 | Karishma Agrawal | [Read More](https://medium.com/p/60e1e665bd46) |
+| Mon, 06 Apr 2026 04:28:41 GMT | Data Protection in India: Software-Level Readiness under the Digital Personal Data Protection Act | Geeky Vartika | [Read More](https://medium.com/p/56611b9e810c) |
+| Mon, 06 Apr 2026 04:19:20 GMT | The Day I Realized “Secure Systems” Don’t Exist | EternalSec | [Read More](https://medium.com/p/afe3042b1e5a) |
+| Mon, 06 Apr 2026 04:11:37 GMT | Customer IAM in Banking: Considerations & Best Practices | Auth Thoughts Editors | [Read More](https://medium.com/p/94f9ed54b53a) |
+| Mon, 06 Apr 2026 04:06:46 GMT | My Go-To Threat Hunting Playbook (That Actually Works in Real Environments) | Paritosh | [Read More](https://medium.com/p/74c5c2a8e05c) |
+| Mon, 06 Apr 2026 03:47:30 GMT | Workload Identity in GCP: How to Replace Service Account Keys with Federated, Short-Lived Access | Aleksei Aleinikov | [Read More](https://medium.com/p/750cfb397e1d) |
+| Mon, 06 Apr 2026 03:20:53 GMT | Secure By Design — Building Production AI Applications | Anuj Paryemalani | [Read More](https://medium.com/p/0bce001363ec) |
+| Mon, 06 Apr 2026 03:17:05 GMT | Dev Day with Sam #2: Claude AI as a Developer System — Beyond Prompt Engineering | Nsirim Samuel Eberechi | [Read More](https://medium.com/p/dbd0ccc3e9c2) |
+| Mon, 06 Apr 2026 03:16:01 GMT | I Thought JWTs Were Stateless. Turns Out Logout Made Me Build a Stateful Layer Anyway. | Rgupta | [Read More](https://medium.com/p/7160b20fb43c) |
+| Mon, 06 Apr 2026 03:11:13 GMT | Ethical Hacking: The Smart Way to Fight Cybercrime | khadeeja | [Read More](https://medium.com/p/8eacc4f02058) |
+| Mon, 06 Apr 2026 03:01:01 GMT | Fundamentals of Information Security — Chapter 04 | Mani Gayathri | [Read More](https://medium.com/p/5937671eb663) |
+| Mon, 06 Apr 2026 02:51:35 GMT | What I Do After Gaining Initial Access (SSH → Real Impact) | ghostyjoe | [Read More](https://medium.com/p/0492d9f15bdf) |
 | Mon, 06 Apr 2026 02:40:23 GMT | I’ve Always Been the Tech Person. I Just Never Had the Paper to Prove It. | Don Rivera Diaz | [Read More](https://medium.com/p/b602f0830dcc) |
 | Mon, 06 Apr 2026 02:39:23 GMT | Google Patches Fourth Chrome Zero-Day of 2026, but Millions Remain Exposed | Jim Manzon | [Read More](https://medium.com/p/ecfd15d9365b) |
 | Mon, 06 Apr 2026 02:36:04 GMT | Writeup OSINT (THL) | IgnoranzaSolare | [Read More](https://medium.com/p/48bf039b6821) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 05 Apr 2026 18:00:07 GMT | The Agentic SOC: How Autonomous AI Will Reshape Detection, Investigation, and Response | Varunbindra | [Read More](https://medium.com/p/616bd5cba16f) |
 | Sun, 05 Apr 2026 17:59:49 GMT | Your Azure Environment Has No Guardrails. Here’s How to Fix That. | Ibrahim Yusuf | [Read More](https://medium.com/p/9536a6e90c29) |
 | Sun, 05 Apr 2026 17:58:49 GMT | How I Rooted LazyAdmin CTF (The Admin Really Was Lazy) | VxOM | [Read More](https://medium.com/p/ad75c0fc8d38) |
-| Sun, 05 Apr 2026 17:47:50 GMT | Lab: Web Shell Upload via Content-Type Restriction Bypass | Ayeshaaghafoor | [Read More](https://medium.com/p/5de163639b72) |
-| Sun, 05 Apr 2026 17:47:07 GMT | Before You Wire: What the Drift Hack Reveals About Web3 Due Diligence | Tim Ryan | [Read More](https://medium.com/p/3b0c4e54afe7) |
-| Sun, 05 Apr 2026 17:47:03 GMT | Cracking the Code: Bypassing Whitelist-Based SSRF Filters | Ayeshaaghafoor | [Read More](https://medium.com/p/87610e127c61) |
-| Sun, 05 Apr 2026 17:45:19 GMT | I thought I had a P1, but… the second paid valid bug in 2026 | Hoi Huynh | [Read More](https://medium.com/p/e59e2b6b0659) |
-| Sun, 05 Apr 2026 17:26:30 GMT | Left Security Testing (DevSecQA) | Savithasjois | [Read More](https://medium.com/p/2006404e59a0) |
-| Sun, 05 Apr 2026 17:21:40 GMT | Digital India (डिजिटल इंडिया) : व्यापारियों के लिए 'इनाम' या बिना गलती की 'सजा' ❓️ | Yash Agrawal | [Read More](https://medium.com/p/ccb4751b22c2) |
-| Sun, 05 Apr 2026 17:16:17 GMT | [stylesheet-group="0"]{} body{margin:0;}… | Penfoldjames | [Read More](https://medium.com/p/d752b180446f) |
-| Sun, 05 Apr 2026 17:10:50 GMT | How to Install Claude AI on Kali Linux | Fx03 | [Read More](https://medium.com/p/0d68ee0f0ea9) |
-| Sun, 05 Apr 2026 17:10:42 GMT | HTB Timelapse | Dipesh Paul | [Read More](https://medium.com/p/c3f510d7b150) |
-| Sun, 05 Apr 2026 17:07:08 GMT | Cybersecurity in the Modern World | Abdul Rehman Furqan | [Read More](https://medium.com/p/5f3b333bb8a7) |
-| Sun, 05 Apr 2026 17:06:12 GMT | My Next Passion Project | The Husky Hacker | [Read More](https://medium.com/p/e1f94bf60058) |
-| Sun, 05 Apr 2026 17:01:02 GMT | Cybersecurity 101: Defending the Digital World | Kavitesh Kamboj | [Read More](https://medium.com/p/7827352f4d46) |
-| Sun, 05 Apr 2026 16:53:27 GMT | The TeamPCP Incident, the European Commission, and Why SOC Alone Is No Longer Enough: The Case for… | Juan Pablo Castro | [Read More](https://medium.com/p/59fea903f2ef) |
-| Sun, 05 Apr 2026 16:46:36 GMT | From Uploading a “PDF” To Owning The Admin Account | Rehan Ansari | [Read More](https://medium.com/p/5ce88286087d) |
-| Sun, 05 Apr 2026 16:46:03 GMT | The Fastest Way to Audit Your Python Dependencies | Chris Dare | [Read More](https://medium.com/p/2e1661d91cc3) |
-| Sun, 05 Apr 2026 16:44:49 GMT | The 2026 Cyber Arms Race: Why Resilience is the New Strategy for Survival | Aun Raza | [Read More](https://medium.com/p/1e225dc913db) |
-| Sun, 05 Apr 2026 16:44:36 GMT | You Didn’t Click a Bad Link. You Just Ran npm install. | DayDr3am3r | [Read More](https://medium.com/p/8ea9e85d1109) |
-| Sun, 05 Apr 2026 16:44:27 GMT | Learning Palo AltoFirewall — LESSON 4: DNAT & Port Forwarding LAB | Rouell Mamaril | [Read More](https://medium.com/p/44b663a8421f) |
-| Sun, 05 Apr 2026 16:42:46 GMT | How to Use ChatGPT for Bug Bounty (The Intelligent Way, NOT The Lazy One) - kidnapshadow | Kidnapshadow | [Read More](https://medium.com/p/9e98cb8100fa) |
-| Sun, 05 Apr 2026 16:41:22 GMT | If I Were an Attacker: Breaking OTP Authentication Systems | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/ca385b7213f7) |
-| Sun, 05 Apr 2026 16:38:48 GMT | Machine Wallets & Programmable Spending: Inside AI-Driven Payment Infrastructure | Anmol Gupta | [Read More](https://medium.com/p/97586374f30f) |
