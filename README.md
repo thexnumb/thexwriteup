@@ -12,6 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Apr 2026 16:31:24 GMT | How to Start Bug Bounty Without Coding (Step-by-Step Guide for Beginners) | Riya Limba | [Read More](https://medium.com/p/1f55509b80ec) |
+| Tue, 07 Apr 2026 16:31:01 GMT | ⚙️ 13. — Broken Brute-Force Protection, Multiple Credentials per Request | The4v1 | [Read More](https://medium.com/p/ee6045d2f66a) |
+| Tue, 07 Apr 2026 16:28:58 GMT | Your MFA Just Became a Liability. Here’s What Replaced It. | S6 Tech | [Read More](https://medium.com/p/6ac297efdbfa) |
+| Tue, 07 Apr 2026 16:27:38 GMT | AI-Driven Fraud Detection and Cybersecurity for SMEs: How Small Businesses Can Stop Cyber Attacks… | Hafiz Ali Ahmed | [Read More](https://medium.com/p/08e5e60bee73) |
+| Tue, 07 Apr 2026 16:21:27 GMT | Basis Data: Relasi Antar Tabel — Join | Nabilla Paraswati | [Read More](https://medium.com/p/005cd3aeea61) |
+| Tue, 07 Apr 2026 16:19:20 GMT | Raising a bug report is easy! | Peter Wilson | [Read More](https://medium.com/p/c1af68ca6d4d) |
+| Tue, 07 Apr 2026 16:17:07 GMT | How to Find Lookalike Domains Using ZoneFeeds | Eman Khalid | [Read More](https://medium.com/p/056fad7b7acc) |
+| Tue, 07 Apr 2026 16:12:11 GMT | Breaking WPA/WPA2 Without a Handshake: A Deep Dive into the PMKID Attack | CipherX1802 | [Read More](https://medium.com/p/176f5275a52c) |
+| Tue, 07 Apr 2026 16:03:32 GMT | Day 4: Understanding Types of Hackers, Network & Networking Basics | Samatham mahesh | [Read More](https://medium.com/p/d08ad417da94) |
+| Tue, 07 Apr 2026 16:01:01 GMT | ⚙️ 12. — Password Brute-Force via Password Change | The4v1 | [Read More](https://medium.com/p/e50deafee78a) |
+| Tue, 07 Apr 2026 15:59:50 GMT | CCD Cohort 01 Room 5-PART A | Abdulsalaamm | [Read More](https://medium.com/p/e99f84a9afb0) |
+| Tue, 07 Apr 2026 15:56:12 GMT | Why Cybersecurity Homepages Lose Buyers in 8 Seconds | Ayan Wakil | [Read More](https://medium.com/p/71782efc0dd0) |
+| Tue, 07 Apr 2026 15:55:33 GMT | Why Cybersecurity Is a Growing Field | Hania Khan | [Read More](https://medium.com/p/720ece401042) |
+| Tue, 07 Apr 2026 15:55:20 GMT | The Ghost in the Router: Building an Undetectable Network Implant | Tyreek Haynes | [Read More](https://medium.com/p/176475000029) |
+| Tue, 07 Apr 2026 15:52:47 GMT | Penggunaan Dasar Nmap untuk Discovery Network | Wiyandra Syaiful Abidin | [Read More](https://medium.com/p/3b44b8d89578) |
+| Tue, 07 Apr 2026 15:51:30 GMT | A recent disruption affecting a major social media platform caused widespread issues with posting… | John Doe 007 | [Read More](https://medium.com/p/f5c34d7f035f) |
+| Tue, 07 Apr 2026 15:50:27 GMT | Prompt Caching: Giving AI Agents a Working Memory for Performance and Scale | Alessandro Pignati | [Read More](https://medium.com/p/ffb8a80200b2) |
+| Tue, 07 Apr 2026 15:46:05 GMT | [HackSmarter.org Write-up] BankSmarter (SNMP, Unix Socket, PATH Hijacking) | Chicken0248 | [Read More](https://medium.com/p/5c73478f562a) |
+| Tue, 07 Apr 2026 15:45:47 GMT | [HackSmarter.org Write-up] ShareThePain (NTLM Theft, Ligolo-ng, MSSQL, SeImpersonatePrivilege) | Chicken0248 | [Read More](https://medium.com/p/b7042895e95a) |
+| Tue, 07 Apr 2026 15:44:57 GMT | Is Your IT Setup Holding Back Growth? 7 Signs Business Owners Often Ignore | IT_Engineer | [Read More](https://medium.com/p/b54eb221f507) |
+| Tue, 07 Apr 2026 15:42:08 GMT | I Survived HTB CAPE as an Incident Responder — Here’s My Honest Review (2026) | Chayanin Khawsanit | [Read More](https://medium.com/p/df57e01f3c83) |
+| Tue, 07 Apr 2026 15:40:29 GMT | Top CTF Platforms for Universities in 2026 | Hannah Adam | [Read More](https://medium.com/p/d91c5f3053bd) |
+| Tue, 07 Apr 2026 15:31:01 GMT | ⚙️ 11. — Password Reset Poisoning via Middleware | The4v1 | [Read More](https://medium.com/p/f529e2b5efbb) |
+| Tue, 07 Apr 2026 15:30:39 GMT | You’re Reading Bug Bounty Writeups Wrong | Vivek PS | [Read More](https://medium.com/p/e2485f087f86) |
+| Tue, 07 Apr 2026 15:25:23 GMT | Shattering “Security by Obscurity”: Uncovering Hidden Admin Panels | Sahil | [Read More](https://medium.com/p/c34bd7e74f46) |
+| Tue, 07 Apr 2026 15:23:33 GMT | Idor in “track your order” page | Onepunchf | [Read More](https://medium.com/p/a42b6d58c1bb) |
+| Tue, 07 Apr 2026 15:23:32 GMT | DHCP Starvation: | KN | [Read More](https://medium.com/p/16872cbce1d2) |
+| Tue, 07 Apr 2026 15:09:31 GMT | Patterns Without End: Complexity | Mark Doknjas | [Read More](https://medium.com/p/b77551620b44) |
+| Tue, 07 Apr 2026 15:05:45 GMT | The IPv6 Shadow: Chaining Open Proxies | Tyreek Haynes | [Read More](https://medium.com/p/e47a9ad3568c) |
+| Tue, 07 Apr 2026 15:03:23 GMT | Inside a Real Cybercrime Investigation | Hariomsingh | [Read More](https://medium.com/p/19cd83bd8fdc) |
 | Tue, 07 Apr 2026 15:01:03 GMT | ⚙️ 10. — Offline Password Cracking | The4v1 | [Read More](https://medium.com/p/51d2033bf2ce) |
 | Tue, 07 Apr 2026 15:00:46 GMT | Authentication vs Authorization in AI/ML: What’s the Difference and Why It Matters | sairamesh | [Read More](https://medium.com/p/f6469241981f) |
 | Tue, 07 Apr 2026 14:59:05 GMT | VulnNet: Roasted Tryhackme ctf walkthrough | Aniket Nayak | [Read More](https://medium.com/p/0f30563c58f7) |
@@ -84,33 +114,3 @@ Then I Found Everything. | Drash Tyagi | [Read More](https://medium.com/p/0377a3
 | Tue, 07 Apr 2026 11:54:17 GMT | TryHackMe Room Write-up: Lookback | Jeffrey Jedele | [Read More](https://medium.com/p/3eace42303b8) |
 | Tue, 07 Apr 2026 11:53:28 GMT | I Completed 10 Cisco Packet Tracer Labs — Here’s Everything I Learned | Pa1cosmic | [Read More](https://medium.com/p/ada8140b79ad) |
 | Tue, 07 Apr 2026 11:52:40 GMT | FICOBA Bank Account Records Exposure (France,2026) case study | Nasir Ali | [Read More](https://medium.com/p/1ee3e774a047) |
-| Tue, 07 Apr 2026 11:45:16 GMT | Inside My Malware Analysis Lab: Static & Dynamic Analysis in Action | Ilolo Kerry | [Read More](https://medium.com/p/7956da2f567e) |
-| Tue, 07 Apr 2026 11:41:51 GMT | Understanding AI Dark Web Cybercrime: Emerging Risks and Trends | Tor BBB | [Read More](https://medium.com/p/3c3b8ece8ff4) |
-| Tue, 07 Apr 2026 11:38:53 GMT | A CAN-Classic Node Can Permanently Disable Every CAN-FD ECU on the Bus | Vscorza | [Read More](https://medium.com/p/62cf1fdb1f4d) |
-| Tue, 07 Apr 2026 11:31:01 GMT | ⚙️ 03. — Password Reset Broken Logic | The4v1 | [Read More](https://medium.com/p/b44c9897848e) |
-| Tue, 07 Apr 2026 11:31:01 GMT | 4. Transporte de contexto: headers como contrato | Rudson Ribeiro Alves | [Read More](https://medium.com/p/194eef056d78) |
-| Tue, 07 Apr 2026 11:30:29 GMT | How I Bypassed a “Secure” API and Found an IDOR Using HTTP Method Tricks | Fx03 | [Read More](https://medium.com/p/f68302f52430) |
-| Tue, 07 Apr 2026 11:29:52 GMT | Creative — TryHackMe Write-up | Monas | [Read More](https://medium.com/p/2505df42345a) |
-| Tue, 07 Apr 2026 11:25:07 GMT | Poster — TryHackme | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/babe56a11713) |
-| Tue, 07 Apr 2026 11:21:38 GMT | Azure Managed Services - Microsoft Azure Expert MSP — IFI Techsolutions | IFI Techsolutions | [Read More](https://medium.com/p/4582f20a5bf0) |
-| Tue, 07 Apr 2026 11:15:48 GMT | Platform Security Series [Part 4] — FINAL | M. Taha Akça | [Read More](https://medium.com/p/3a3f4977fa68) |
-| Tue, 07 Apr 2026 11:08:55 GMT | How Startups Can Build a Mobile App with a Small Budget? | Premier Apps | [Read More](https://medium.com/p/5147bd6b1270) |
-| Tue, 07 Apr 2026 11:08:34 GMT | The Quiet Collapse Behind Composure | Ankita Sharma | [Read More](https://medium.com/p/056923c793ae) |
-| Tue, 07 Apr 2026 11:07:44 GMT | The Center of Philosophy | Haruka Matsukasa | [Read More](https://medium.com/p/5420f48576a8) |
-| Tue, 07 Apr 2026 11:03:15 GMT | at kung sa tingin mo pagod ka na. | glympses | [Read More](https://medium.com/p/0d8af73ceb7c) |
-| Tue, 07 Apr 2026 11:01:01 GMT | ⚙️ 02. — 2FA Simple Bypass | The4v1 | [Read More](https://medium.com/p/ae316228dff5) |
-| Tue, 07 Apr 2026 10:53:24 GMT | Global Law Enforcement Breakthrough: REvil Ransomware Leader Identified | Jas | [Read More](https://medium.com/p/70824665d20b) |
-| Tue, 07 Apr 2026 10:53:14 GMT | Mastering the 12 Highest-Paying Programming Languages | Tutort Academy | [Read More](https://medium.com/p/69724ba2fe79) |
-| Tue, 07 Apr 2026 10:35:55 GMT | Top Cloud Security Threats in 2026: Hidden Risks Every Business Must Prepare For | Cloudegytechnology | [Read More](https://medium.com/p/42d054b8200a) |
-| Tue, 07 Apr 2026 10:31:01 GMT | ⚙️ 01. — Username and Password Enumeration via Different Responses | The4v1 | [Read More](https://medium.com/p/8b851a03c767) |
-| Tue, 07 Apr 2026 10:29:51 GMT | Fake Claude Code Page Is Stealing Your Data Thru Google Advertising | Motasem Hamdan | [Read More](https://medium.com/p/cc980fc4f4e2) |
-| Tue, 07 Apr 2026 10:29:04 GMT | mart Cyber Security Training for Smart Organizations | Kanahaiya singh | [Read More](https://medium.com/p/96c7ccbc6b1a) |
-| Tue, 07 Apr 2026 10:27:43 GMT | CSPT (Client-Side Path Traversal) | Shady Farouk | [Read More](https://medium.com/p/d7d446a88da1) |
-| Tue, 07 Apr 2026 10:26:01 GMT | Why Security Versus Speed Is Usually a Leadership Design Failure | Tyson Martin | [Read More](https://medium.com/p/7d095fe51836) |
-| Tue, 07 Apr 2026 10:26:01 GMT | The Most Dangerous Sentence in a Cyber Briefing: “We’re Covered” | Tyson Martin | [Read More](https://medium.com/p/1fe2fb16c872) |
-| Tue, 07 Apr 2026 10:22:17 GMT | My My 1st 2 weeks At EY Mena and the Cybersecurity Journey That Led Me to EY✨ | Osharaky | [Read More](https://medium.com/p/69ecc9911dfe) |
-| Tue, 07 Apr 2026 10:20:41 GMT | JWT & Refresh Token Authentication in Spring Boot — Simplified! | Abdellah_chatioui | [Read More](https://medium.com/p/643b378def43) |
-| Tue, 07 Apr 2026 10:19:51 GMT | نشرة أخبار تقنية 7 أبريل 2026: ثغرة حرجة في FortiClient وسلوك غامض لنماذج الذكاء الاصطناعي | Rynbsd | [Read More](https://medium.com/p/03eeee174f56) |
-| Tue, 07 Apr 2026 10:18:01 GMT | Your Password is Weak. Fix It in 5 Minutes. | Emory French | [Read More](https://medium.com/p/3aedd906c52e) |
-| Tue, 07 Apr 2026 10:17:49 GMT | Interactive Ethical Hacking Roadmap (No Textbooks Required) | Anil Poudyal | [Read More](https://medium.com/p/2d7f664b9815) |
-| Tue, 07 Apr 2026 10:17:26 GMT | 1 VM, Banyak Container, Docker Pakai Sudoers + Public IP: Resep Bencana | Lukman Bahar Ap | [Read More](https://medium.com/p/9b7c60447ac2) |
