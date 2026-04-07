@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Apr 2026 02:22:53 GMT | Cyber Security Services in Calgary: Protecting Your Business in a Digital-First World | Digistarai | [Read More](https://medium.com/p/2b233fe601d9) |
+| Tue, 07 Apr 2026 02:10:11 GMT | My Bug Bounty Journey #6: The Critical Bug That Was a Duplicate | awchjimmy | [Read More](https://medium.com/p/fc9f28fa3c12) |
+| Tue, 07 Apr 2026 02:07:03 GMT | OffSec “Photographer” Writeup | sabR | [Read More](https://medium.com/p/edf6fc0e30c7) |
+| Tue, 07 Apr 2026 01:45:32 GMT | Windows — LDAP User AS-REP Roastable (Root-Me) Write-up | csm24 | [Read More](https://medium.com/p/a384d8a5a364) |
+| Tue, 07 Apr 2026 01:35:49 GMT | How to detect keylogger on your machine | Techwizs | [Read More](https://medium.com/p/b579df2f1afc) |
+| Tue, 07 Apr 2026 01:34:29 GMT | OverTheWire: Leviathan Level 0 → Level 1 Walkthrough | Salahamaralhmady | [Read More](https://medium.com/p/97904657e129) |
+| Tue, 07 Apr 2026 01:33:02 GMT | AI Stack Is the New Attack Surface | Pratik Kumar | [Read More](https://medium.com/p/9fc7afc2c9ab) |
+| Tue, 07 Apr 2026 01:30:47 GMT | Active Directory | Kamalatluxanov | [Read More](https://medium.com/p/a550716fb8d4) |
+| Tue, 07 Apr 2026 01:23:43 GMT | [RT EP.2] — HTB Baby | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/9a77b393d67f) |
+| Tue, 07 Apr 2026 01:02:00 GMT | Love Surpasses Seasons | felala | [Read More](https://medium.com/p/4aa9fcf0881e) |
+| Tue, 07 Apr 2026 00:57:13 GMT | Logs That Reveal Attackers | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/79a11b22357f) |
+| Tue, 07 Apr 2026 00:55:07 GMT | Session 與 Cookie 的分別：網站如何記住你 | 思維舞步 MindSteps | [Read More](https://medium.com/p/e76e2e857ef2) |
+| Tue, 07 Apr 2026 00:33:32 GMT | 40분의 틈, 15조의 대가 — LiteLLM 공급망 공격과 머코어 해킹이 드러낸 AI 학습 파이프라인의 민낯 | 이현종 | [Read More](https://medium.com/p/5c3b423aa87b) |
+| Tue, 07 Apr 2026 00:31:14 GMT | The security program that passes every audit and still fails the business | Rafat Yazdani | [Read More](https://medium.com/p/9f9f45302c62) |
+| Tue, 07 Apr 2026 00:29:36 GMT | How I Got AI Running Locally on Devices That Shouldn’t Handle It | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/32d46a4252c4) |
+| Tue, 07 Apr 2026 00:28:11 GMT | The Mechanics of Shellcode: A Blueprint for Exploitation | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/14d61d435bc4) |
+| Tue, 07 Apr 2026 00:27:51 GMT | Operational Resilience in Digital Asset Infrastructure | CipherBC | [Read More](https://medium.com/p/f6e3b0a7b5ae) |
+| Tue, 07 Apr 2026 00:25:49 GMT | The Difference Between a Security Camera and a Surveillance System | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/79e05f983160) |
+| Tue, 07 Apr 2026 00:09:36 GMT | Secure Your Data — Before Your Data Secures Your Downfall | Zsearchai | [Read More](https://medium.com/p/6e284b6ff7fb) |
+| Tue, 07 Apr 2026 00:06:49 GMT | Blocking External Navigation with iframe sandbox | Joo Hee Paige Kim | [Read More](https://medium.com/p/fe69ff64d6d1) |
+| Tue, 07 Apr 2026 00:04:30 GMT | Front-End Security Is Not Optional: A Developer’s Field Guide | Nuwa | [Read More](https://medium.com/p/930591b37d02) |
+| Tue, 07 Apr 2026 00:01:02 GMT | Stuxnet: El Virus que Saboteó el Programa Nuclear de Irán y el Futuro de la Ciberguerrra | JPablo13 | [Read More](https://medium.com/p/c46214964e5d) |
+| Mon, 06 Apr 2026 23:55:09 GMT | Why Identity Management | Jake | [Read More](https://medium.com/p/2a14a2ab0092) |
 | Mon, 06 Apr 2026 23:20:38 GMT | No Special Prep. Top 75 Nationally. My TCS HackQuest S10 Story. | Yuvaraja | [Read More](https://medium.com/p/3e3fa9716685) |
 | Mon, 06 Apr 2026 23:18:04 GMT | Find Social Media Profiles: A Complete Verification Guide | Amir Sharifian | [Read More](https://medium.com/p/b9ba66639fe3) |
 | Mon, 06 Apr 2026 23:14:38 GMT | Hiçbir Sınırı Olmayan Güçlü Bir Yapay Zekayı İnternette Serbest Bırakırsak Ne Olur? | Ali Yaşe | [Read More](https://medium.com/p/53c30be12bec) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 18:22:08 GMT | HTML Injection Bug Bounty: How I Found a Persistent Vulnerability on a Government of India Portal | Vanshrathore | [Read More](https://medium.com/p/68b81fbe7748) |
 | Mon, 06 Apr 2026 18:18:03 GMT | What happens when someone attacks your AI agent? | Rahul Kumar | [Read More](https://medium.com/p/427629bd4db0) |
 | Mon, 06 Apr 2026 18:17:39 GMT | HTB Lab: Web Proxies with Metasploit and Burp Suite. | Vinay | [Read More](https://medium.com/p/f5d806ff9de0) |
-| Mon, 06 Apr 2026 18:01:01 GMT | CPTS Lab Notes: Surviving the Pivot | Crowx01 | [Read More](https://medium.com/p/4eb6a1cbfc7a) |
-| Mon, 06 Apr 2026 17:54:49 GMT | What If Breaches Were Public in Real Time? | Digital Defense | [Read More](https://medium.com/p/c7f8eca26ea9) |
-| Mon, 06 Apr 2026 17:50:29 GMT | The Critical Role of Phase I & Phase II Environmental Site Assessments in Modern Construction | Olivia Rose | [Read More](https://medium.com/p/426a7d66f04b) |
-| Mon, 06 Apr 2026 17:47:36 GMT | NetSuite Application and Operational Security: Building a Strong Foundation for Business Protection | Linkederp | [Read More](https://medium.com/p/a5469ea7ca9e) |
-| Mon, 06 Apr 2026 17:46:14 GMT | 6 Nmap Concepts the CySA+ Exam Will Actually Test You On | Jbird | [Read More](https://medium.com/p/905abeb18dc5) |
-| Mon, 06 Apr 2026 17:38:05 GMT | HF2019 Hacker Fest 2019 VulnHub Writeup | Shuhaib N C | [Read More](https://medium.com/p/123d1e25b832) |
-| Mon, 06 Apr 2026 17:34:43 GMT | Shub Stealers Fake Crypto Apps | Jason Reaves | [Read More](https://medium.com/p/d5e2a65618b7) |
-| Mon, 06 Apr 2026 17:33:38 GMT | Mapping Ottercookie Infrastructure | Jason Reaves | [Read More](https://medium.com/p/1c49f0cd3883) |
-| Mon, 06 Apr 2026 17:33:21 GMT | The AI Trust Amplification Problem: Why Fake Claude Code Packages Are So Effective | AIThinkerLab | [Read More](https://medium.com/p/b165ec657dba) |
-| Mon, 06 Apr 2026 17:31:48 GMT | A Practical Workflow for Fuzzing & Scanning in Bug Bounty | Fx03 | [Read More](https://medium.com/p/50f3a73ded22) |
-| Mon, 06 Apr 2026 17:30:46 GMT | विषय: माहिती तंत्रज्ञान आणि विद्यार्थ्यांचे भविष्य | Sonusalve | [Read More](https://medium.com/p/4924a8ab7f90) |
-| Mon, 06 Apr 2026 17:28:40 GMT | Axios Supply Chain Attack 2026: When Trust Became the Attack Vector | Natarajan C K | [Read More](https://medium.com/p/26ced1596d7d) |
-| Mon, 06 Apr 2026 17:27:09 GMT | Fuzzing LLMs Like Binaries: Building a Coverage-Guided Prompt Fuzzer in Rust | Shubhangi Choudhary | [Read More](https://medium.com/p/9f40401226ff) |
-| Mon, 06 Apr 2026 17:25:59 GMT | eJPT Exploitation CTF 1 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/4e11457c1e42) |
-| Mon, 06 Apr 2026 17:18:13 GMT | Inside the Mind of a Hacker, Why Your Passwords Are Failing and How to Fix Them | Sam Roy | [Read More](https://medium.com/p/8a0c8188abe4) |
-| Mon, 06 Apr 2026 17:16:17 GMT | How to Become a Cybersecurity Analyst in Nigeria (2026 Step-by-Step Guide) | Miaztechacademy | [Read More](https://medium.com/p/fd24f30bb86f) |
-| Mon, 06 Apr 2026 17:14:57 GMT | Your Business Got Hacked. Here’s the First Hour. | Jusjaesho | [Read More](https://medium.com/p/70c9f57126e3) |
-| Mon, 06 Apr 2026 17:08:58 GMT | Careers in Cyber - TryHackMe Writeup | Hkrdz | [Read More](https://medium.com/p/50fcbc407e5b) |
-| Mon, 06 Apr 2026 17:05:11 GMT | The Mask of Being Fine | Priydarshi | [Read More](https://medium.com/p/3fa7a0fdd9cc) |
-| Mon, 06 Apr 2026 17:04:08 GMT | The Invisible Crisis in Agentic AI: Why We Need a “Proof Layer” (and How We Built It with Auth0) | Priyanshu Agrawal | [Read More](https://medium.com/p/2d4b4e8ceacf) |
-| Mon, 06 Apr 2026 16:53:13 GMT | Cybersecurity Trends Businesses Can’t Ignore in 2026 | Clarkjoesph | [Read More](https://medium.com/p/fc2c5729d1ec) |
-| Mon, 06 Apr 2026 16:48:51 GMT | Fixed Root password — what about rotation? | Vinay Babu Umesh | [Read More](https://medium.com/p/179da2609102) |
-| Mon, 06 Apr 2026 16:46:18 GMT | 2026 Global Threat Report: | Mammoth Cyber | [Read More](https://medium.com/p/850e8ec6098a) |
