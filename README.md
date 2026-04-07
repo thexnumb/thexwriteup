@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Apr 2026 10:53:24 GMT | Global Law Enforcement Breakthrough: REvil Ransomware Leader Identified | Jas | [Read More](https://medium.com/p/70824665d20b) |
+| Tue, 07 Apr 2026 10:35:55 GMT | Top Cloud Security Threats in 2026: Hidden Risks Every Business Must Prepare For | Cloudegytechnology | [Read More](https://medium.com/p/42d054b8200a) |
+| Tue, 07 Apr 2026 10:31:01 GMT | ⚙️ 01. — Username and Password Enumeration via Different Responses | The4v1 | [Read More](https://medium.com/p/8b851a03c767) |
+| Tue, 07 Apr 2026 10:29:51 GMT | Fake Claude Code Page Is Stealing Your Data Thru Google Advertising | Motasem Hamdan | [Read More](https://medium.com/p/cc980fc4f4e2) |
+| Tue, 07 Apr 2026 10:29:04 GMT | mart Cyber Security Training for Smart Organizations | Kanahaiya singh | [Read More](https://medium.com/p/96c7ccbc6b1a) |
+| Tue, 07 Apr 2026 10:27:43 GMT | CSPT (Client-Side Path Traversal) | Shady Farouk | [Read More](https://medium.com/p/d7d446a88da1) |
+| Tue, 07 Apr 2026 10:26:01 GMT | Why Security Versus Speed Is Usually a Leadership Design Failure | Tyson Martin | [Read More](https://medium.com/p/7d095fe51836) |
+| Tue, 07 Apr 2026 10:26:01 GMT | The Most Dangerous Sentence in a Cyber Briefing: “We’re Covered” | Tyson Martin | [Read More](https://medium.com/p/1fe2fb16c872) |
+| Tue, 07 Apr 2026 10:22:17 GMT | My My 1st 2 weeks At EY Mena and the Cybersecurity Journey That Led Me to EY✨ | Osharaky | [Read More](https://medium.com/p/69ecc9911dfe) |
+| Tue, 07 Apr 2026 10:20:41 GMT | JWT & Refresh Token Authentication in Spring Boot — Simplified! | Abdellah_chatioui | [Read More](https://medium.com/p/643b378def43) |
+| Tue, 07 Apr 2026 10:19:51 GMT | نشرة أخبار تقنية 7 أبريل 2026: ثغرة حرجة في FortiClient وسلوك غامض لنماذج الذكاء الاصطناعي | Rynbsd | [Read More](https://medium.com/p/03eeee174f56) |
+| Tue, 07 Apr 2026 10:18:01 GMT | Your Password is Weak. Fix It in 5 Minutes. | Emory French | [Read More](https://medium.com/p/3aedd906c52e) |
+| Tue, 07 Apr 2026 10:17:49 GMT | Interactive Ethical Hacking Roadmap (No Textbooks Required) | Anil Poudyal | [Read More](https://medium.com/p/2d7f664b9815) |
+| Tue, 07 Apr 2026 10:16:23 GMT | How to turn on the monitor mode | Anuradha Kelum | [Read More](https://medium.com/p/1acdbe4fd5e9) |
+| Tue, 07 Apr 2026 10:09:21 GMT | DeepMind’s Warning: AI Agents Hijacked by Web Poison | Techsankar | [Read More](https://medium.com/p/fb4d4b787cd4) |
+| Tue, 07 Apr 2026 10:02:00 GMT | The AI Trust Crisis Isn’t Sam Altman — It’s Your Codebase | Simon Mestdagh | [Read More](https://medium.com/p/8b8c20a9637f) |
+| Tue, 07 Apr 2026 09:47:20 GMT | How I Built a Spam Classifier to Crack an HTB Academy Lab (And Why It Took Way More Attempts Than I… | Tanmay Bhattacharjee | [Read More](https://medium.com/p/299c2ca010c3) |
+| Tue, 07 Apr 2026 09:46:46 GMT | Enterprise Application Integration Solutions: The Complete Guide for 2026 | Quadrant IT Services | [Read More](https://medium.com/p/c12adb86e433) |
 | Tue, 07 Apr 2026 09:38:30 GMT | Praise me! | Storiews | [Read More](https://medium.com/p/597ec39591cd) |
 | Tue, 07 Apr 2026 09:33:29 GMT | XSS without HTML: CSTI with AngularJS | 13v! ⚔️ | [Read More](https://medium.com/p/9e1a7da50c2d) |
 | Tue, 07 Apr 2026 09:33:09 GMT | Cybersecurity as the Engine of Digital Transformation | Taptue Russel | [Read More](https://medium.com/p/58f7a0294578) |
@@ -95,21 +113,3 @@ BlueHammer Turns Windows Defender Against You | Taylor Smith | [Read More](https
 | Tue, 07 Apr 2026 04:55:38 GMT | Passkeys Under Attack: Are Passwordless Authentication Systems Really Secure? | Cynox Security LLP. | [Read More](https://medium.com/p/e4dec8a4abc7) |
 | Tue, 07 Apr 2026 04:54:51 GMT | Beyond Trading: Why ARMUP’s Security-First Ecosystem is Redefining Crypto Exchanges | ARMUP | [Read More](https://medium.com/p/1aa3de9a55b7) |
 | Tue, 07 Apr 2026 04:51:48 GMT | We Are Not Replacing Humans. We Are Becoming Something New Together. | Shikha | [Read More](https://medium.com/p/babbc0f7a58b) |
-| Tue, 07 Apr 2026 04:47:15 GMT | Thinking Like an Operator: From Cookie Manipulation to Root Shell | Jesse Ridley | [Read More](https://medium.com/p/f38ed6eb7ea4) |
-| Tue, 07 Apr 2026 04:46:34 GMT | SOC Journey — Lab 3: Exploring Brute Force Detection Step by Step | Hemaprasadpotnuru | [Read More](https://medium.com/p/f7e421d628df) |
-| Tue, 07 Apr 2026 04:42:05 GMT | Docker Day 01: The Article That Hit Different | Muhammad Kashif | [Read More](https://medium.com/p/e6047b0f6d5c) |
-| Tue, 07 Apr 2026 04:36:39 GMT | SSH Keys Explained Simply: How to Securely Connect to Servers & GitHub (Without Passwords) | Zaeem Muhammad Yaseen | [Read More](https://medium.com/p/8f1e68c573bf) |
-| Tue, 07 Apr 2026 04:24:19 GMT | I Work a Night Shift. I Study SOC at Noon. I Post Content at 4 PM.This Is Why. | Shewag Bhattarai | [Read More](https://medium.com/p/22b1800156b0) |
-| Tue, 07 Apr 2026 04:17:24 GMT | Authentication Vulnerabilities | The4v1 | [Read More](https://medium.com/p/d20c8b9fdbef) |
-| Tue, 07 Apr 2026 04:14:07 GMT | How to Detect Insider Threats Using SIEM Logs | Paritosh | [Read More](https://medium.com/p/8598861fb269) |
-| Tue, 07 Apr 2026 04:09:33 GMT | From Weeks to Hours: Rethinking Traditional Penetration Testing Workflows | Reema K.R | [Read More](https://medium.com/p/bf8be66cc67e) |
-| Tue, 07 Apr 2026 04:01:01 GMT | Decoding Firmware Attacks & Quantum Data Harvesting | jioai | [Read More](https://medium.com/p/725e53912c7b) |
-| Tue, 07 Apr 2026 03:56:28 GMT | News Roundup: April (1–7) | RoddyT3ch | [Read More](https://medium.com/p/99d5380ac9e4) |
-| Tue, 07 Apr 2026 03:56:06 GMT | Hunting APT29 Part 3: I Traced the Process Tree Back to the Beginning | Manish Rawat | [Read More](https://medium.com/p/faf3c9bf4644) |
-| Tue, 07 Apr 2026 03:38:53 GMT | The Plugin That Stayed: How an Unused Joomla Extension Became a Security Risk | Shamini Nirodya | [Read More](https://medium.com/p/9e249e947e59) |
-| Tue, 07 Apr 2026 03:34:00 GMT | TryHackMe — Intro to Cross-site Scripting (Walkthrough) | Hudson Lois Marcus | [Read More](https://medium.com/p/91d2e814ea5a) |
-| Tue, 07 Apr 2026 03:28:11 GMT | Trivy Breach Exposes Trusted Security Tool Risk | Geoffrey Wenger | [Read More](https://medium.com/p/261592ca35ec) |
-| Tue, 07 Apr 2026 03:25:50 GMT | Web Application Security Checklist Before Production Deployment | Trustlayerlabs | [Read More](https://medium.com/p/3f1acad65416) |
-| Tue, 07 Apr 2026 02:35:10 GMT | “You Can’t Screenshot This” — How Apps Like BookMyShow Protect Your Data | Yash Patel | [Read More](https://medium.com/p/143e3d945bdc) |
-| Tue, 07 Apr 2026 02:22:53 GMT | Cyber Security Services in Calgary: Protecting Your Business in a Digital-First World | Digistarai | [Read More](https://medium.com/p/2b233fe601d9) |
-| Tue, 07 Apr 2026 02:10:11 GMT | My Bug Bounty Journey #6: The Critical Bug That Was a Duplicate | awchjimmy | [Read More](https://medium.com/p/fc9f28fa3c12) |
