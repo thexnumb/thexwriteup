@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Apr 2026 19:12:50 GMT | Attacking common services-skill assesment HTB | Muhammad Mateen | [Read More](https://medium.com/p/a70df0fb427c) |
+| Tue, 07 Apr 2026 19:11:25 GMT | How I Tracked Down A Photo’s Location in Kiffa Using OSINT Techniques | Justusday | [Read More](https://medium.com/p/c7df91019188) |
+| Tue, 07 Apr 2026 19:06:22 GMT | The Little Token That Runs the Internet | Roaming Roadster | [Read More](https://medium.com/p/a18001867adb) |
+| Tue, 07 Apr 2026 19:02:16 GMT | Incident Response for Small Businesses: Why Preparation Matters More Than Size | Dargslan | [Read More](https://medium.com/p/400797e67604) |
+| Tue, 07 Apr 2026 18:47:31 GMT | When ICMP Turns Lethal (again): Deep Dive into CVE-2026–23398 | KeyboardSamurai | [Read More](https://medium.com/p/88e3642b5fdf) |
+| Tue, 07 Apr 2026 18:46:32 GMT | Day 11: Deciphering the Adversary — Threat Intelligence and Advanced Persistent Threats (APTs) | Ndu | [Read More](https://medium.com/p/4447dc3b6a24) |
+| Tue, 07 Apr 2026 18:42:14 GMT | Agentic Product Manager Webinars for April 2026 | Rich Chen | [Read More](https://medium.com/p/d3e31cd79f29) |
+| Tue, 07 Apr 2026 18:41:34 GMT | Project Glasswing:
+The AI That Broke Cybersecurity | Faisal haque | [Read More](https://medium.com/p/1dbda9008f7a) |
+| Tue, 07 Apr 2026 18:34:45 GMT | Windows 10 Is Becoming a Business Risk — What SMEs Should Do Now | Cordula Boeck | [Read More](https://medium.com/p/f0af91eb5d5c) |
+| Tue, 07 Apr 2026 18:31:01 GMT | Logging for Accountability | Starscream | [Read More](https://medium.com/p/2e58691906ac) |
+| Tue, 07 Apr 2026 18:18:13 GMT | “Bug Bounty Bootcamp #30: Time-Based Blind SQL Injection — When Silence Speaks Through Delays” | Aman Sharma | [Read More](https://medium.com/p/7e2107b6dc18) |
+| Tue, 07 Apr 2026 18:11:52 GMT | Věděli jste, že až 80% webů může být zranitelných na clickjacking? | Kybernet | [Read More](https://medium.com/p/713981c65661) |
+| Tue, 07 Apr 2026 18:10:50 GMT | 7 Mistakes That Are Killing Your Bug Bounty Progress (Fix Them Now) | Sukhveer Singh | [Read More](https://medium.com/p/20705a39a59f) |
+| Tue, 07 Apr 2026 18:09:42 GMT | WEAPONIZING YOUR FEED: How to Build a Threat Intel C2 (and Stop Crying in Ghidra) | Muslim | [Read More](https://medium.com/p/f70a4e35a54a) |
+| Tue, 07 Apr 2026 18:07:26 GMT | Basis Data: Relasi Antar Tabel | RosifaAulia | [Read More](https://medium.com/p/a7e7e82a4ce6) |
+| Tue, 07 Apr 2026 18:01:01 GMT | [MM’s] Boot Notes — The Day Zero Blueprint — API & Security That Scales | Matej Marconak | [Read More](https://medium.com/p/08f478b109a8) |
+| Tue, 07 Apr 2026 17:52:53 GMT | Article: Beyond the Bootloader: The 2025 Era of UEFI and Firmware Exploitation | Funcybot | [Read More](https://medium.com/p/630007bd8286) |
 | Tue, 07 Apr 2026 17:47:02 GMT | Why strip_tags() Does Not Protect You From XSS in PHP/Laravel | Hafiq Iqmal | [Read More](https://medium.com/p/c97d0e805213) |
 | Tue, 07 Apr 2026 17:45:04 GMT | 6+ Ways to Spot a Phishing Email in 2026 | Lily C | [Read More](https://medium.com/p/c6a5d614a32e) |
 | Tue, 07 Apr 2026 17:43:04 GMT | Vegeta: 1 — Morse Code Audio Recon + Writable /etc/passwd to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/75fa1b9ae08e) |
@@ -30,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Apr 2026 17:04:06 GMT | Most SOC Analyst Candidates Can’t Read a Windows Event Log. Here’s How. | Jbird | [Read More](https://medium.com/p/4b228bb18618) |
 | Tue, 07 Apr 2026 17:01:01 GMT | ⚙️ 14. — 2FA Bypass Using a Brute-Force Attack | The4v1 | [Read More](https://medium.com/p/527a65b0f349) |
 | Tue, 07 Apr 2026 16:53:14 GMT | I Quit TikTok for Personal Security Purposes. I am Transgender. | Dylan Thomas Cotter ️‍⚧️ ️‍ | [Read More](https://medium.com/p/091861a453b3) |
+| Tue, 07 Apr 2026 16:37:56 GMT | Portafolio de Ciberseguridad — Andrei Querol | Andreiquerol | [Read More](https://medium.com/p/c45c89c51127) |
 | Tue, 07 Apr 2026 16:36:25 GMT | Learning Palo AltoFirewall — LESSON 5: UTurn NAT | Rouell Mamaril | [Read More](https://medium.com/p/559e46e4e8b1) |
 | Tue, 07 Apr 2026 16:31:24 GMT | How to Start Bug Bounty Without Coding (Step-by-Step Guide for Beginners) | Riya Limba | [Read More](https://medium.com/p/1f55509b80ec) |
 | Tue, 07 Apr 2026 16:31:01 GMT | ⚙️ 13. — Broken Brute-Force Protection, Multiple Credentials per Request | The4v1 | [Read More](https://medium.com/p/ee6045d2f66a) |
@@ -94,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Apr 2026 13:40:04 GMT | Escaping VMware Cost Increases: A Technical Demo Showing How to Migrate Your VMs to Kubernetes | LiveWyer | [Read More](https://medium.com/p/9465ca7fb7d9) |
 | Tue, 07 Apr 2026 13:38:30 GMT | Behind the Breach: The DAO Hack (How $60M was stolen through reentrancy) | Dorathy Christopher | [Read More](https://medium.com/p/4fd9528c894b) |
 | Tue, 07 Apr 2026 13:31:01 GMT | ⚙️ 07. — Username Enumeration via Account Lock | The4v1 | [Read More](https://medium.com/p/fd9ec72fe252) |
-| Tue, 07 Apr 2026 13:27:12 GMT | Building Intelligent Workspaces: How Cisco Meraki Unifies Cameras, Sen | Novbox | [Read More](https://medium.com/p/f2e8ecd8b6d0) |
-| Tue, 07 Apr 2026 13:26:22 GMT | [RT EP.3] — HTB Lock | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/014323d88f99) |
-| Tue, 07 Apr 2026 13:21:11 GMT | ️ 5 Rails Security Gems You Can’t Deploy Without | Adarsh Mishra | [Read More](https://medium.com/p/2260082e8172) |
-| Tue, 07 Apr 2026 13:21:01 GMT | Ontological Foundations of Quantum Information: Reconciling Physics and Computation | David Goldman | [Read More](https://medium.com/p/315b7e95e86a) |
-| Tue, 07 Apr 2026 13:19:53 GMT | CyberDefenders — XWorm Lab- Malware Analysis- Challenge Writeup | Kittie | [Read More](https://medium.com/p/48e08accbef7) |
-| Tue, 07 Apr 2026 13:19:19 GMT | Incident Report: HTTP Flood Denial of Service (DoS) Attack
-1. | zulaya | [Read More](https://medium.com/p/4a5cca1d5fb3) |
-| Tue, 07 Apr 2026 13:15:39 GMT | The Edge of the Abyss: How APTs Reverse Engineer Corporate Firewalls for 0-Days | Funcybot | [Read More](https://medium.com/p/980e1e3255bc) |
-| Tue, 07 Apr 2026 13:06:37 GMT | SDUI- Server Driven UI | harendra pratap singh | [Read More](https://medium.com/p/0a24cb630237) |
-| Tue, 07 Apr 2026 13:06:24 GMT | How I Found a SQL Injection on an IP in Just 20 Minutes | Amber sharma | [Read More](https://medium.com/p/b6034edf81cb) |
-| Tue, 07 Apr 2026 13:06:23 GMT | SSH, Container Images, AI, With Slices Of Potatoes - A Detailed Breakdown Of My Project DevBox | Ace | [Read More](https://medium.com/p/30c330393195) |
-| Tue, 07 Apr 2026 13:06:01 GMT | Your Own AI Secretary, Butler & IT Team for ~$15/Month | Kusunoki | [Read More](https://medium.com/p/9566c7cfd238) |
-| Tue, 07 Apr 2026 13:05:37 GMT | Is Your Hotel Making Money — Or Just Making Revenue? | roommaster | [Read More](https://medium.com/p/97a21f854b6a) |
-| Tue, 07 Apr 2026 13:03:57 GMT | Wolves of Turan and BD Anonymous group Armenia is being attacked for supporting Israel | Anthony Recherh | [Read More](https://medium.com/p/d080fa3ecdd1) |
-| Tue, 07 Apr 2026 13:01:03 GMT | ⚙️ 06. — Broken Brute-Force Protection, IP Block | The4v1 | [Read More](https://medium.com/p/9b68136de811) |
-| Tue, 07 Apr 2026 12:54:19 GMT | The Pillars of Modern Steelmaking: How India’s Refractory Sector is Powering the 2026 Industrial… | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/2481eb7efff0) |
-| Tue, 07 Apr 2026 12:52:54 GMT | Corporate Security Guard Duties in Doha, Qatar — What Businesses Need to Know | Trust Force Security and Guarding  Doha Qatar | [Read More](https://medium.com/p/2172f1fcd624) |
-| Tue, 07 Apr 2026 12:51:13 GMT | TryHackMe: CSRF Introduction — Full Walkthrough | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/c97c1a94e575) |
-| Tue, 07 Apr 2026 12:50:48 GMT | Why Your Company Should Block Ads: Security, Resources, and Productivity | CacheGuard Technologies | [Read More](https://medium.com/p/9a71075c539e) |
