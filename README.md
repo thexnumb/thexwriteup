@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Apr 2026 04:56:32 GMT | Top 3 Mistakes I Made Before I Believed in Change Management | Meg B. | [Read More](https://medium.com/p/2627e41236b8) |
+| Tue, 07 Apr 2026 04:55:38 GMT | Passkeys Under Attack: Are Passwordless Authentication Systems Really Secure? | Cynox Security LLP. | [Read More](https://medium.com/p/e4dec8a4abc7) |
+| Tue, 07 Apr 2026 04:54:51 GMT | Beyond Trading: Why ARMUP’s Security-First Ecosystem is Redefining Crypto Exchanges | ARMUP | [Read More](https://medium.com/p/1aa3de9a55b7) |
+| Tue, 07 Apr 2026 04:51:48 GMT | We Are Not Replacing Humans. We Are Becoming Something New Together. | Shikha | [Read More](https://medium.com/p/babbc0f7a58b) |
+| Tue, 07 Apr 2026 04:47:15 GMT | Thinking Like an Operator: From Cookie Manipulation to Root Shell | Jesse Ridley | [Read More](https://medium.com/p/f38ed6eb7ea4) |
+| Tue, 07 Apr 2026 04:46:34 GMT | SOC Journey — Lab 3: Exploring Brute Force Detection Step by Step | Hemaprasadpotnuru | [Read More](https://medium.com/p/f7e421d628df) |
+| Tue, 07 Apr 2026 04:42:05 GMT | Docker Day 01: The Article That Hit Different | Muhammad Kashif | [Read More](https://medium.com/p/e6047b0f6d5c) |
+| Tue, 07 Apr 2026 04:36:39 GMT | SSH Keys Explained Simply: How to Securely Connect to Servers & GitHub (Without Passwords) | Zaeem Muhammad Yaseen | [Read More](https://medium.com/p/8f1e68c573bf) |
+| Tue, 07 Apr 2026 04:24:19 GMT | I Work a Night Shift. I Study SOC at Noon. I Post Content at 4 PM.This Is Why. | Shewag Bhattarai | [Read More](https://medium.com/p/22b1800156b0) |
+| Tue, 07 Apr 2026 04:17:24 GMT | Authentication Vulnerabilities | The4v1 | [Read More](https://medium.com/p/d20c8b9fdbef) |
+| Tue, 07 Apr 2026 04:14:07 GMT | How to Detect Insider Threats Using SIEM Logs | Paritosh | [Read More](https://medium.com/p/8598861fb269) |
+| Tue, 07 Apr 2026 04:09:33 GMT | From Weeks to Hours: Rethinking Traditional Penetration Testing Workflows | Reema K.R | [Read More](https://medium.com/p/bf8be66cc67e) |
+| Tue, 07 Apr 2026 04:01:01 GMT | Decoding Firmware Attacks & Quantum Data Harvesting | jioai | [Read More](https://medium.com/p/725e53912c7b) |
+| Tue, 07 Apr 2026 03:56:28 GMT | News Roundup: April (1–7) | RoddyT3ch | [Read More](https://medium.com/p/99d5380ac9e4) |
+| Tue, 07 Apr 2026 03:56:06 GMT | Hunting APT29 Part 3: I Traced the Process Tree Back to the Beginning | Manish Rawat | [Read More](https://medium.com/p/faf3c9bf4644) |
+| Tue, 07 Apr 2026 03:38:53 GMT | The Plugin That Stayed: How an Unused Joomla Extension Became a Security Risk | Shamini Nirodya | [Read More](https://medium.com/p/9e249e947e59) |
+| Tue, 07 Apr 2026 03:34:00 GMT | TryHackMe — Intro to Cross-site Scripting (Walkthrough) | Hudson Lois Marcus | [Read More](https://medium.com/p/91d2e814ea5a) |
+| Tue, 07 Apr 2026 03:28:11 GMT | Trivy Breach Exposes Trusted Security Tool Risk | Geoffrey Wenger | [Read More](https://medium.com/p/261592ca35ec) |
+| Tue, 07 Apr 2026 03:25:50 GMT | Web Application Security Checklist Before Production Deployment | Trustlayerlabs | [Read More](https://medium.com/p/3f1acad65416) |
+| Tue, 07 Apr 2026 02:35:10 GMT | “You Can’t Screenshot This” — How Apps Like BookMyShow Protect Your Data | Yash Patel | [Read More](https://medium.com/p/143e3d945bdc) |
 | Tue, 07 Apr 2026 02:22:53 GMT | Cyber Security Services in Calgary: Protecting Your Business in a Digital-First World | Digistarai | [Read More](https://medium.com/p/2b233fe601d9) |
 | Tue, 07 Apr 2026 02:10:11 GMT | My Bug Bounty Journey #6: The Critical Bug That Was a Duplicate | awchjimmy | [Read More](https://medium.com/p/fc9f28fa3c12) |
 | Tue, 07 Apr 2026 02:07:03 GMT | OffSec “Photographer” Writeup | sabR | [Read More](https://medium.com/p/edf6fc0e30c7) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 06 Apr 2026 19:26:47 GMT | Are containers really isolated? (Part 2 — Mount Namespaces) | Alhousseini Mohamed Sori | [Read More](https://medium.com/p/59866edba66a) |
 | Mon, 06 Apr 2026 19:25:35 GMT | COMouflage: Surrogate Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/cfb93e15afcd) |
 | Mon, 06 Apr 2026 19:24:36 GMT | From a Movie Download to a macOS Info-Stealer: Dissecting a Fake GitHub Phishing Campaign | Hammad Iftikhar | [Read More](https://medium.com/p/ae2d0a7d4eec) |
-| Mon, 06 Apr 2026 19:23:13 GMT | Startup MVP Development: Build Scalable Products Without Hiring a Tech Team | Defenate Labs | [Read More](https://medium.com/p/0c622af9f2d1) |
-| Mon, 06 Apr 2026 19:22:10 GMT | The Hacker Methodology | Axidion | [Read More](https://medium.com/p/7cfe903dc1e8) |
-| Mon, 06 Apr 2026 19:20:23 GMT | The Hidden Trap: Rethinking Security Through Obscurity | Hikmat Mammadov | [Read More](https://medium.com/p/6b477132e5f3) |
-| Mon, 06 Apr 2026 19:20:11 GMT | You Might Already Be a Victim of a Cyber Attack — Without Realising It | Ritujaa Kelaskar | [Read More](https://medium.com/p/d168aa1af91a) |
-| Mon, 06 Apr 2026 19:02:59 GMT | Integrasi Git, Jenkins, dan Docker pada Ubuntu 24.04 LTS | ndrozz | [Read More](https://medium.com/p/f6095a1acff6) |
-| Mon, 06 Apr 2026 18:58:02 GMT | Bug Bounty Journey — Valid Report Part 11 | 0xF3r4t | [Read More](https://medium.com/p/07c949581b4d) |
-| Mon, 06 Apr 2026 18:54:04 GMT | The Chip and the Treaty: Technology Sanctions as the New Language of Digital Statecraft | CCD-IS | [Read More](https://medium.com/p/fb6a9a74de83) |
-| Mon, 06 Apr 2026 18:47:47 GMT | Why Scammers Target Older People — And It’s Not Because We’re Weak | Susan Robbie | [Read More](https://medium.com/p/82b2035c98be) |
-| Mon, 06 Apr 2026 18:44:40 GMT | ️ | Zulqarnain Ahmed | [Read More](https://medium.com/p/4b0c1906aa15) |
-| Mon, 06 Apr 2026 18:35:18 GMT | Threat Hunting with Splunk: RDP Brute Force to Domain Compromise | Enes Cayvarli | [Read More](https://medium.com/p/a611574a3215) |
-| Mon, 06 Apr 2026 18:35:09 GMT | Manual vs Automated Security Testing in the Age of AI: A Security Auditor’s Perspective | Shruti Patil | [Read More](https://medium.com/p/e40e10a3f748) |
-| Mon, 06 Apr 2026 18:32:49 GMT | THE 3 LEVELS OF CYBER THREAT INTEL (Or: Why Your 50 Open Tabs Are Ruining Your Life) | Muslim | [Read More](https://medium.com/p/58f543852a89) |
-| Mon, 06 Apr 2026 18:31:16 GMT | Day 9: Disaster Recovery Planning (DRP) — Architecting IT Resilience and Data Salvation | Ndu | [Read More](https://medium.com/p/ee36882d83cc) |
-| Mon, 06 Apr 2026 18:31:06 GMT | CyberDefenders — Phishy Lab Writeup | JBXSec | [Read More](https://medium.com/p/de7da2001417) |
-| Mon, 06 Apr 2026 18:30:08 GMT | Your Digital Life Is Under Attack Every Day: Here’s How to Fight Back in 2026 | Sreenusampati | [Read More](https://medium.com/p/b916f0591972) |
-| Mon, 06 Apr 2026 18:23:14 GMT | Lab: DOM XSS in document.write sink using source location.search | Mohamed Jemmari | [Read More](https://medium.com/p/c4fec35fc9d7) |
-| Mon, 06 Apr 2026 18:22:15 GMT | My AI Agent Taught My Daughter to 3D Print — While I Was Out Snorkelling | Manoj Damodaran | [Read More](https://medium.com/p/47616b57d1c3) |
-| Mon, 06 Apr 2026 18:22:08 GMT | HTML Injection Bug Bounty: How I Found a Persistent Vulnerability on a Government of India Portal | Vanshrathore | [Read More](https://medium.com/p/68b81fbe7748) |
-| Mon, 06 Apr 2026 18:18:03 GMT | What happens when someone attacks your AI agent? | Rahul Kumar | [Read More](https://medium.com/p/427629bd4db0) |
-| Mon, 06 Apr 2026 18:17:39 GMT | HTB Lab: Web Proxies with Metasploit and Burp Suite. | Vinay | [Read More](https://medium.com/p/f5d806ff9de0) |
