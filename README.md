@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Apr 2026 23:01:50 GMT | DAY 2: Teaching the Guardian to Think — From Simple Math to Machine Learning | Ariel david | [Read More](https://medium.com/p/8e37985105f9) |
+| Tue, 07 Apr 2026 23:01:02 GMT | GitHub’s Incident Queue Starts Where the Green Checks End | James Kuhman | [Read More](https://medium.com/p/6542608cd836) |
+| Tue, 07 Apr 2026 22:56:01 GMT | The Future of Payments Must Work Offline | Wesley S Favarin | [Read More](https://medium.com/p/01a9aec8bacd) |
+| Tue, 07 Apr 2026 22:55:30 GMT | Your Android App’s API Keys Are Not Safe - Here’s What to Do Instead | Bhagirath Devmurari | [Read More](https://medium.com/p/2dd892eff1f5) |
+| Tue, 07 Apr 2026 22:44:53 GMT | Vulnerability Data Enrichment for CVE Records: 258 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/e52a969fe3f0) |
+| Tue, 07 Apr 2026 22:39:40 GMT | AI Knows More About Us Than Ever — Why Privacy Needs a Spotlight | Adith Narasimhan Kumar | [Read More](https://medium.com/p/572a4ef340d9) |
+| Tue, 07 Apr 2026 22:35:22 GMT | The First Real Counterattack | Cristian Sarmiento | [Read More](https://medium.com/p/8299efe05d02) |
+| Tue, 07 Apr 2026 22:27:40 GMT | Cybersecurity for Smart Home Security: How Hackers Can Target Your System & What to Do | Compare Home Security | [Read More](https://medium.com/p/4fc7c3303b36) |
+| Tue, 07 Apr 2026 22:27:25 GMT | Web Uygulamalarında Veri Giriş Güvenliği: HTML Injection ve XSS Analizi | Adar Aydinoglu | [Read More](https://medium.com/p/42af09d17e1a) |
+| Tue, 07 Apr 2026 22:21:58 GMT | How I Built NullScore: Combining CVSS, EPSS, KEV, and PoC Into One Vulnerability Risk Score | Sam0t | [Read More](https://medium.com/p/a874b4b0e60b) |
+| Tue, 07 Apr 2026 22:11:26 GMT | RITSEC CTF-2026: Zipped Up writeup - by wireshark.pcap | Dargham Ali | [Read More](https://medium.com/p/b2979b696bae) |
+| Tue, 07 Apr 2026 22:07:18 GMT | Secured by STM, huh? | Isaac Privett | [Read More](https://medium.com/p/5209def405ba) |
+| Tue, 07 Apr 2026 22:06:01 GMT | Cloud Security and SaaS Supply Chain Attacks | Joshua Moses | [Read More](https://medium.com/p/97582b7b4cb1) |
 | Tue, 07 Apr 2026 22:01:15 GMT | The journey of building secure agents | Anjana Sarkar | [Read More](https://medium.com/p/3e6b18c5a3a2) |
 | Tue, 07 Apr 2026 22:00:17 GMT | Trezor Not Connecting: What Actually Causes It and How to Fix It | Crypto Wallet Support | [Read More](https://medium.com/p/984191462f51) |
 | Tue, 07 Apr 2026 21:44:35 GMT | The Problem With Security Certifications No One Talks About | JSOC IT BLOG | [Read More](https://medium.com/p/94dbaa724622) |
@@ -100,16 +113,3 @@ The AI That Broke Cybersecurity | Faisal haque | [Read More](https://medium.com/
 | Tue, 07 Apr 2026 16:19:20 GMT | Raising a bug report is easy! | Peter Wilson | [Read More](https://medium.com/p/c1af68ca6d4d) |
 | Tue, 07 Apr 2026 16:17:07 GMT | How to Find Lookalike Domains Using ZoneFeeds | Eman Khalid | [Read More](https://medium.com/p/056fad7b7acc) |
 | Tue, 07 Apr 2026 16:12:11 GMT | Breaking WPA/WPA2 Without a Handshake: A Deep Dive into the PMKID Attack | CipherX1802 | [Read More](https://medium.com/p/176f5275a52c) |
-| Tue, 07 Apr 2026 16:03:32 GMT | Day 4: Understanding Types of Hackers, Network & Networking Basics | Samatham mahesh | [Read More](https://medium.com/p/d08ad417da94) |
-| Tue, 07 Apr 2026 16:01:01 GMT | ⚙️ 12. — Password Brute-Force via Password Change | The4v1 | [Read More](https://medium.com/p/e50deafee78a) |
-| Tue, 07 Apr 2026 15:59:50 GMT | CCD Cohort 01 Room 5-PART A | Abdulsalaamm | [Read More](https://medium.com/p/e99f84a9afb0) |
-| Tue, 07 Apr 2026 15:56:12 GMT | Why Cybersecurity Homepages Lose Buyers in 8 Seconds | Ayan Wakil | [Read More](https://medium.com/p/71782efc0dd0) |
-| Tue, 07 Apr 2026 15:55:33 GMT | Why Cybersecurity Is a Growing Field | Hania Khan | [Read More](https://medium.com/p/720ece401042) |
-| Tue, 07 Apr 2026 15:55:20 GMT | The Ghost in the Router: Building an Undetectable Network Implant | Tyreek Haynes | [Read More](https://medium.com/p/176475000029) |
-| Tue, 07 Apr 2026 15:52:47 GMT | Penggunaan Dasar Nmap untuk Discovery Network | Wiyandra Syaiful Abidin | [Read More](https://medium.com/p/3b44b8d89578) |
-| Tue, 07 Apr 2026 15:51:30 GMT | A recent disruption affecting a major social media platform caused widespread issues with posting… | John Doe 007 | [Read More](https://medium.com/p/f5c34d7f035f) |
-| Tue, 07 Apr 2026 15:50:27 GMT | Prompt Caching: Giving AI Agents a Working Memory for Performance and Scale | Alessandro Pignati | [Read More](https://medium.com/p/ffb8a80200b2) |
-| Tue, 07 Apr 2026 15:46:05 GMT | [HackSmarter.org Write-up] BankSmarter (SNMP, Unix Socket, PATH Hijacking) | Chicken0248 | [Read More](https://medium.com/p/5c73478f562a) |
-| Tue, 07 Apr 2026 15:45:47 GMT | [HackSmarter.org Write-up] ShareThePain (NTLM Theft, Ligolo-ng, MSSQL, SeImpersonatePrivilege) | Chicken0248 | [Read More](https://medium.com/p/b7042895e95a) |
-| Tue, 07 Apr 2026 15:44:57 GMT | Is Your IT Setup Holding Back Growth? 7 Signs Business Owners Often Ignore | IT_Engineer | [Read More](https://medium.com/p/b54eb221f507) |
-| Tue, 07 Apr 2026 15:42:08 GMT | I Survived HTB CAPE as an Incident Responder — Here’s My Honest Review (2026) | Chayanin Khawsanit | [Read More](https://medium.com/p/df57e01f3c83) |
