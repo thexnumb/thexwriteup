@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Apr 2026 19:59:11 GMT | Formal Proof of the BLE KNOB Attack: The Feature Exchange Was Never Authenticated | Vscorza | [Read More](https://medium.com/p/5b3e84e4b5fc) |
+| Tue, 07 Apr 2026 19:54:47 GMT | FTP Enumeration & Exploitation: A Complete Step-by-Step Guide (HTB) | Mert Baykal | [Read More](https://medium.com/p/4a2b5fd57078) |
+| Tue, 07 Apr 2026 19:44:57 GMT | You like OpenClaw, right? It’s cool, gets the job done… Guidance Injection | Sebastian Obara | [Read More](https://medium.com/p/18f02ac77da1) |
+| Tue, 07 Apr 2026 19:42:27 GMT | Fingerprint First: A Structured Web App Recon-to-Exploit Framework | WolfSec | [Read More](https://medium.com/p/434487602ff2) |
+| Tue, 07 Apr 2026 19:35:59 GMT | ClamAV - Proving Grounds | Abel M | [Read More](https://medium.com/p/cc2ab93de5c5) |
+| Tue, 07 Apr 2026 19:32:58 GMT | Building a Secure Bank Network Using VLANs and Inter-VLAN Routing | Samuel Ochoche Peter | [Read More](https://medium.com/p/4a4ccfa1665d) |
+| Tue, 07 Apr 2026 19:31:17 GMT | SIM Information System Pakistan 2026 — How to Check SIM Owner Details, Number Codes & More | Siminfos | [Read More](https://medium.com/p/b18934460944) |
+| Tue, 07 Apr 2026 19:25:59 GMT | Jerry - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/920606169a9f) |
+| Tue, 07 Apr 2026 19:22:24 GMT | The Drift Compromise and North Korea’s Cyber Revenue Machine | Josh Johnson | [Read More](https://medium.com/p/6c5427ad02d8) |
+| Tue, 07 Apr 2026 19:21:48 GMT | pip install Was Enough: Dissecting the LiteLLM Supply Chain Attack | Ralian.ENG | [Read More](https://medium.com/p/ba9b305bac51) |
 | Tue, 07 Apr 2026 19:12:50 GMT | Attacking common services-skill assesment HTB | Muhammad Mateen | [Read More](https://medium.com/p/a70df0fb427c) |
 | Tue, 07 Apr 2026 19:11:25 GMT | How I Tracked Down A Photo’s Location in Kiffa Using OSINT Techniques | Justusday | [Read More](https://medium.com/p/c7df91019188) |
 | Tue, 07 Apr 2026 19:06:22 GMT | The Little Token That Runs the Internet | Roaming Roadster | [Read More](https://medium.com/p/a18001867adb) |
@@ -103,13 +113,3 @@ The AI That Broke Cybersecurity | Faisal haque | [Read More](https://medium.com/
 | Tue, 07 Apr 2026 14:20:01 GMT | CSRF Introduction (THM) Tryhackme Full Walkthrough With Answer | Lawvye | [Read More](https://medium.com/p/92c4e4428eb3) |
 | Tue, 07 Apr 2026 14:13:33 GMT | We don’t count our paper We are giving it away | Erik Kvam | [Read More](https://medium.com/p/7954f777caf0) |
 | Tue, 07 Apr 2026 14:12:20 GMT | Nmap: Service Enumeration, NSE, Performance Optimization & Firewall/IDS/IPS Evasion (Complete… | Mert Baykal | [Read More](https://medium.com/p/815389c4b7ac) |
-| Tue, 07 Apr 2026 14:11:35 GMT | Secrets That Survive Everything: The Runtime Security Gap Left Unguarded | Kumar G | [Read More](https://medium.com/p/554260569665) |
-| Tue, 07 Apr 2026 14:01:19 GMT | Finding Our Footing in an Anxious World | Tom Kehner | [Read More](https://medium.com/p/261b8e3c0e26) |
-| Tue, 07 Apr 2026 14:01:02 GMT | ⚙️ 08. — 2FA Broken Logic | The4v1 | [Read More](https://medium.com/p/99d68ad3d8bf) |
-| Tue, 07 Apr 2026 14:01:02 GMT | The Evolution of a Side Project: Transitioning to a Multi-Tenant SaaS on AWS | Eric Rodríguez Pacheco | [Read More](https://medium.com/p/27db537ce11c) |
-| Tue, 07 Apr 2026 13:50:13 GMT | Incident Response Failures - When How You Handle a Breach Causes More Damage Than the Breach Itself | Rufus Kehinde | [Read More](https://medium.com/p/efefc8de97fc) |
-| Tue, 07 Apr 2026 13:45:23 GMT | ⚠️ Developers Beware: Fake VS Code Extension Uses Solana Blockchain to Deliver Malware | Harshit Nagila | [Read More](https://medium.com/p/132718ec4f5b) |
-| Tue, 07 Apr 2026 13:41:46 GMT | Architecting an IDS with CUDA | Heliman | [Read More](https://medium.com/p/77b4ff90b413) |
-| Tue, 07 Apr 2026 13:40:04 GMT | Escaping VMware Cost Increases: A Technical Demo Showing How to Migrate Your VMs to Kubernetes | LiveWyer | [Read More](https://medium.com/p/9465ca7fb7d9) |
-| Tue, 07 Apr 2026 13:38:30 GMT | Behind the Breach: The DAO Hack (How $60M was stolen through reentrancy) | Dorathy Christopher | [Read More](https://medium.com/p/4fd9528c894b) |
-| Tue, 07 Apr 2026 13:31:01 GMT | ⚙️ 07. — Username Enumeration via Account Lock | The4v1 | [Read More](https://medium.com/p/fd9ec72fe252) |
