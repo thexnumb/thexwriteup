@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Apr 2026 21:04:05 GMT | Why Security Guard Services in Houston TX are Essential for Your Safety and Peace of Mind | F. W. Security llc | [Read More](https://medium.com/p/5ae0a08ecb0f) |
+| Tue, 07 Apr 2026 20:58:56 GMT | Armed Security Guards in Houston TX | F. W. Security llc | [Read More](https://medium.com/p/6b9f261b5919) |
+| Tue, 07 Apr 2026 20:49:02 GMT | How to Build a Voice AI Career Mentor in 28 Minutes: The “Agentic PM” Playbook | Rich Chen | [Read More](https://medium.com/p/5bcf7f987c45) |
+| Tue, 07 Apr 2026 20:48:30 GMT | Intelligent Network Security Automation: ML-Driven Anomaly Detection, Zero-Trust Enforcement, and… | Naushik Beladiya | [Read More](https://medium.com/p/80d41505ee3f) |
+| Tue, 07 Apr 2026 20:40:36 GMT | Anthropic Built Mythos, So Good, They Refused to Release It. Here is the Reality Check. | Shubham | [Read More](https://medium.com/p/8982a72e54d6) |
+| Tue, 07 Apr 2026 20:37:11 GMT | Special Edition: ActiveState’s 2025 State of Vulnerability Management & Remediation Report-Another… | Eric Gallagher | [Read More](https://medium.com/p/c20a8ed93e70) |
+| Tue, 07 Apr 2026 20:34:07 GMT | Securing the Backbone — Issue #6: The Role of Software Bills of Materials (SBOMs) in Critical… | Eric Gallagher | [Read More](https://medium.com/p/179a7706c3f9) |
+| Tue, 07 Apr 2026 20:26:04 GMT | Reflected XSS in HTML Context: A Simple Yet Dangerous Vulnerability (Portswigger) | Shayaan Khan | [Read More](https://medium.com/p/9c4d20664bd1) |
+| Tue, 07 Apr 2026 20:21:51 GMT | Production’da Yaşanan Bir Bug Nasıl Günlerce Bulunamaz? | Hakan Cengiz | [Read More](https://medium.com/p/cd0607ce3b9a) |
+| Tue, 07 Apr 2026 20:18:42 GMT | MCP Security for Enterprise Part 2: The Red Team Playbook | Tunahan TEKEOGLU | [Read More](https://medium.com/p/0611abe8d806) |
+| Tue, 07 Apr 2026 20:14:25 GMT | Security requirement traceability vs. security requirement coverage | Frank Leitner | [Read More](https://medium.com/p/abdf5dad94a6) |
+| Tue, 07 Apr 2026 20:13:12 GMT | Smart Contract Backdoors: Learning from the $137M DeFi Losses. | CryptDocker | [Read More](https://medium.com/p/073b308285c8) |
+| Tue, 07 Apr 2026 20:08:08 GMT | Lab: DOM XSS in jQuery anchor href attribute sink using location.search source | Mohamed Jemmari | [Read More](https://medium.com/p/26da87ca16d3) |
+| Tue, 07 Apr 2026 20:07:13 GMT | Security Debt in Web3: The Hidden Risk That Compounds Faster Than TVL | Exploitless | [Read More](https://medium.com/p/89e29f42ced0) |
 | Tue, 07 Apr 2026 19:59:11 GMT | Formal Proof of the BLE KNOB Attack: The Feature Exchange Was Never Authenticated | Vscorza | [Read More](https://medium.com/p/5b3e84e4b5fc) |
+| Tue, 07 Apr 2026 19:57:06 GMT | Dynamic Claims in Keycloak — Stop Hard-Coding Token Permissions | Florian Röser | [Read More](https://medium.com/p/8832ad63bc9c) |
 | Tue, 07 Apr 2026 19:54:47 GMT | FTP Enumeration & Exploitation: A Complete Step-by-Step Guide (HTB) | Mert Baykal | [Read More](https://medium.com/p/4a2b5fd57078) |
 | Tue, 07 Apr 2026 19:44:57 GMT | You like OpenClaw, right? It’s cool, gets the job done… Guidance Injection | Sebastian Obara | [Read More](https://medium.com/p/18f02ac77da1) |
 | Tue, 07 Apr 2026 19:42:27 GMT | Fingerprint First: A Structured Web App Recon-to-Exploit Framework | WolfSec | [Read More](https://medium.com/p/434487602ff2) |
@@ -98,18 +113,3 @@ The AI That Broke Cybersecurity | Faisal haque | [Read More](https://medium.com/
 | Tue, 07 Apr 2026 14:51:09 GMT | Security Operations Center (SOC): Complete Guide to SOC Services | Digital Defense | [Read More](https://medium.com/p/49b5474a810e) |
 | Tue, 07 Apr 2026 14:51:01 GMT | I Built an AI-Powered Vulnerability Scanner - Here’s What It Found | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/e6c232e8fe6a) |
 | Tue, 07 Apr 2026 14:49:56 GMT | AI and Cybersecurity: Understanding the Basics | CyberQuestor | [Read More](https://medium.com/p/9343bac19c1f) |
-| Tue, 07 Apr 2026 14:48:44 GMT | O redirect que você não pediu: SSRF silencioso em clientes HTTP | Arthur Carvalho | [Read More](https://medium.com/p/d0086220602d) |
-| Tue, 07 Apr 2026 14:48:11 GMT | Searching For Jobs Can Be Demoralizing | Ikenna Obichukwu | [Read More](https://medium.com/p/3b23a2c209aa) |
-| Tue, 07 Apr 2026 14:47:32 GMT | LDAP Enumeration in Active Directory: From Anonymous Bind to Credentialed Recon | Aditya Bhatt | [Read More](https://medium.com/p/253261385b9d) |
-| Tue, 07 Apr 2026 14:46:57 GMT | The Compliance Trap: Why 90% of Security Scans are Technically Correct but Strategically Worthless | Eldor Zufarov | [Read More](https://medium.com/p/54d9c1c6387e) |
-| Tue, 07 Apr 2026 14:46:01 GMT | [DEEP RESEARCH] TeamPCP’s CI/CD Trust Inversion: When “Pinned” Actions Become Initial Access | Wes Young | [Read More](https://medium.com/p/eb62b83b125a) |
-| Tue, 07 Apr 2026 14:39:04 GMT | Drones: Flying Pieces of Malware - SANS CyberThreat Summit 2025 Takeaways V | Meera Tamboli | [Read More](https://medium.com/p/b72c83218392) |
-| Tue, 07 Apr 2026 14:38:00 GMT | When the Dark Web Talks, the World Pays: The Hellcat Story - SANS CyberThreat Summit 2025 Takeaways… | Meera Tamboli | [Read More](https://medium.com/p/6e4df00c1077) |
-| Tue, 07 Apr 2026 14:37:24 GMT | Making Users Strong Again: How Rainbow Secure is Redefining Identity Security | Dr. Shashi Karhail | [Read More](https://medium.com/p/b23d47da0e31) |
-| Tue, 07 Apr 2026 14:36:01 GMT | How to Build an Industry-Standard SOC Analyst Lab (Step-by-Step Guide: Beginner to Advanced) | Harsh Katiyar | [Read More](https://medium.com/p/1d6166b680e1) |
-| Tue, 07 Apr 2026 14:31:01 GMT | ⚙️ 09. — Brute-forcing a Stay-Logged-In Cookie | The4v1 | [Read More](https://medium.com/p/0e29a32d7b86) |
-| Tue, 07 Apr 2026 14:27:07 GMT | Own Your Data: AI Automation Without Sacrificing Data Sovereignty | Isaacdonnelson | [Read More](https://medium.com/p/63b017ad6fc1) |
-| Tue, 07 Apr 2026 14:23:44 GMT | Ethical Hacking and Cyber Defense | Ankushnirmal | [Read More](https://medium.com/p/ae80558c34f2) |
-| Tue, 07 Apr 2026 14:20:01 GMT | CSRF Introduction (THM) Tryhackme Full Walkthrough With Answer | Lawvye | [Read More](https://medium.com/p/92c4e4428eb3) |
-| Tue, 07 Apr 2026 14:13:33 GMT | We don’t count our paper We are giving it away | Erik Kvam | [Read More](https://medium.com/p/7954f777caf0) |
-| Tue, 07 Apr 2026 14:12:20 GMT | Nmap: Service Enumeration, NSE, Performance Optimization & Firewall/IDS/IPS Evasion (Complete… | Mert Baykal | [Read More](https://medium.com/p/815389c4b7ac) |
