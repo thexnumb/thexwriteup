@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Apr 2026 17:47:02 GMT | Why strip_tags() Does Not Protect You From XSS in PHP/Laravel | Hafiq Iqmal | [Read More](https://medium.com/p/c97d0e805213) |
+| Tue, 07 Apr 2026 17:45:04 GMT | 6+ Ways to Spot a Phishing Email in 2026 | Lily C | [Read More](https://medium.com/p/c6a5d614a32e) |
+| Tue, 07 Apr 2026 17:43:04 GMT | Vegeta: 1 — Morse Code Audio Recon + Writable /etc/passwd to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/75fa1b9ae08e) |
+| Tue, 07 Apr 2026 17:42:25 GMT | Writeup for picoCTF challenge “Old Sessions” | Walter Moar | [Read More](https://medium.com/p/8d59f82aedc2) |
+| Tue, 07 Apr 2026 17:41:27 GMT | How to Choose Everyday Items for Better Comfort and Productivity | creative vision | [Read More](https://medium.com/p/7ce3767c9a1c) |
+| Tue, 07 Apr 2026 17:39:45 GMT | TuesdayTool 43: OSINT.club — A Hub for Modern Open-Source Intelligence Practitioners | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/cbc94ebe92a0) |
+| Tue, 07 Apr 2026 17:33:08 GMT | Escalation in the Middle East: The Decay of Diplomacy and the Clash of Ambitions | Бахромжон Суванов | [Read More](https://medium.com/p/a411c43637ed) |
+| Tue, 07 Apr 2026 17:32:32 GMT | How JWT Really Works Internally — A Deep Dive with Diagrams | Salauddin Ansari | [Read More](https://medium.com/p/7ab94745b62b) |
+| Tue, 07 Apr 2026 17:30:31 GMT | The Truth About Anonymous Email in 2026 (And How to Actually Stay Private) | Warren Smith | [Read More](https://medium.com/p/d27b3b09ec43) |
+| Tue, 07 Apr 2026 17:26:00 GMT | Understanding Web Vulnerabilities - Bug Bounty Practice Lab | Pentester Club | [Read More](https://medium.com/p/6ba9ed1ab640) |
+| Tue, 07 Apr 2026 17:21:21 GMT | Segurança Informática: Guia Prático para Evitar Problemas Online | Infwork Media | [Read More](https://medium.com/p/108598c88e52) |
+| Tue, 07 Apr 2026 17:17:34 GMT | The Most Dangerous Bugs Don’t Throw Errors | CodeWithIshwar -  Ishwar Chandra Tiwari | [Read More](https://medium.com/p/2825c6ed74c1) |
+| Tue, 07 Apr 2026 17:14:56 GMT | The Company Fixed the Breach… but Forgot the Root Cause | Iski | [Read More](https://medium.com/p/ed2c3a82e4e2) |
+| Tue, 07 Apr 2026 17:09:08 GMT | The Complexity of Digital Transactions and the Struggles of the Rural Economy | Yash Agrawal | [Read More](https://medium.com/p/66c552f0939e) |
+| Tue, 07 Apr 2026 17:08:34 GMT | Stop Asking Your AI to “Write Secure Code” | Kay A | [Read More](https://medium.com/p/a87069d86d44) |
+| Tue, 07 Apr 2026 17:04:06 GMT | Most SOC Analyst Candidates Can’t Read a Windows Event Log. Here’s How. | Jbird | [Read More](https://medium.com/p/4b228bb18618) |
+| Tue, 07 Apr 2026 17:01:01 GMT | ⚙️ 14. — 2FA Bypass Using a Brute-Force Attack | The4v1 | [Read More](https://medium.com/p/527a65b0f349) |
+| Tue, 07 Apr 2026 16:53:14 GMT | I Quit TikTok for Personal Security Purposes. I am Transgender. | Dylan Thomas Cotter ️‍⚧️ ️‍ | [Read More](https://medium.com/p/091861a453b3) |
+| Tue, 07 Apr 2026 16:36:25 GMT | Learning Palo AltoFirewall — LESSON 5: UTurn NAT | Rouell Mamaril | [Read More](https://medium.com/p/559e46e4e8b1) |
 | Tue, 07 Apr 2026 16:31:24 GMT | How to Start Bug Bounty Without Coding (Step-by-Step Guide for Beginners) | Riya Limba | [Read More](https://medium.com/p/1f55509b80ec) |
 | Tue, 07 Apr 2026 16:31:01 GMT | ⚙️ 13. — Broken Brute-Force Protection, Multiple Credentials per Request | The4v1 | [Read More](https://medium.com/p/ee6045d2f66a) |
 | Tue, 07 Apr 2026 16:28:58 GMT | Your MFA Just Became a Liability. Here’s What Replaced It. | S6 Tech | [Read More](https://medium.com/p/6ac297efdbfa) |
@@ -94,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Apr 2026 12:52:54 GMT | Corporate Security Guard Duties in Doha, Qatar — What Businesses Need to Know | Trust Force Security and Guarding  Doha Qatar | [Read More](https://medium.com/p/2172f1fcd624) |
 | Tue, 07 Apr 2026 12:51:13 GMT | TryHackMe: CSRF Introduction — Full Walkthrough | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/c97c1a94e575) |
 | Tue, 07 Apr 2026 12:50:48 GMT | Why Your Company Should Block Ads: Security, Resources, and Productivity | CacheGuard Technologies | [Read More](https://medium.com/p/9a71075c539e) |
-| Tue, 07 Apr 2026 12:49:05 GMT | Unauthenticated API Abuse via Missing Origin Validation and Replay Vulnerability leading to Apdex… | Harish muthyala | [Read More](https://medium.com/p/e7d31e7fbde6) |
-| Tue, 07 Apr 2026 12:46:01 GMT | Widespread Exposure of F5 BIG-IP APM: An Analysis of CVE-2025–53521 | Priyanka Behera | [Read More](https://medium.com/p/3d9e90a5c836) |
-| Tue, 07 Apr 2026 12:41:25 GMT | How UPI and Tap-to-Pay Process Your Money in Milliseconds | Miles John Carter | [Read More](https://medium.com/p/fe22f82ef1ad) |
-| Tue, 07 Apr 2026 12:31:01 GMT | ⚙️ 05. — Username Enumeration via Response Timing | The4v1 | [Read More](https://medium.com/p/6489d0d7d2b1) |
-| Tue, 07 Apr 2026 12:27:39 GMT | Chapter 3 — Alice and Bob Improving Security | Mohamed A Abotir | [Read More](https://medium.com/p/1fc2bfe379f5) |
-| Tue, 07 Apr 2026 12:27:35 GMT | Why Smart Hiring is the Real Secret Behind Scaling Engineering Teams | natalieconsultants | [Read More](https://medium.com/p/ea6815f31b4d) |
-| Tue, 07 Apr 2026 12:26:38 GMT | Penetration testing | Aniket Deshmukh | [Read More](https://medium.com/p/cc075045647d) |
-| Tue, 07 Apr 2026 12:24:21 GMT | The Day the “NPM Install” Became a Weapon: The Axios Attack | Muhammad Haris | [Read More](https://medium.com/p/02920b1ca9ba) |
-| Tue, 07 Apr 2026 12:21:19 GMT | Bypassing SSRF Blacklists: A Walkthrough of PortSwigger’s Practitioner Lab | Ayeshaaghafoor | [Read More](https://medium.com/p/00eb7832c621) |
-| Tue, 07 Apr 2026 12:19:59 GMT | Lab: Web shell upload via path traversal | Ayeshaaghafoor | [Read More](https://medium.com/p/c70dfb90985f) |
-| Tue, 07 Apr 2026 12:18:46 GMT | I Changed One Number.
-Then I Found Everything. | Drash Tyagi | [Read More](https://medium.com/p/0377a3b10752) |
-| Tue, 07 Apr 2026 12:17:26 GMT | The Identity Perimeter: Lessons from the 2026 Midnight Blizzard Breach | Uswafatima | [Read More](https://medium.com/p/cf902b9edafd) |
-| Tue, 07 Apr 2026 12:17:18 GMT | What This Cyber Attack Teaches About Supply Chain Security in 2026 | Zahid Hussain | [Read More](https://medium.com/p/c4e6977f841d) |
-| Tue, 07 Apr 2026 12:15:16 GMT | Why Using a VPN Is Becoming Essential in the Modern Internet | Alisafdar Mirza | [Read More](https://medium.com/p/edf8b62689b6) |
-| Tue, 07 Apr 2026 12:11:42 GMT | All in One — TryHackMe Write-up | Rayenhafsawy | [Read More](https://medium.com/p/d767010b2fe3) |
-| Tue, 07 Apr 2026 12:01:01 GMT | ⚙️ 04. — Username Enumeration via Subtly Different Responses | The4v1 | [Read More](https://medium.com/p/af394d67fa04) |
-| Tue, 07 Apr 2026 11:54:17 GMT | TryHackMe Room Write-up: Lookback | Jeffrey Jedele | [Read More](https://medium.com/p/3eace42303b8) |
-| Tue, 07 Apr 2026 11:53:28 GMT | I Completed 10 Cisco Packet Tracer Labs — Here’s Everything I Learned | Pa1cosmic | [Read More](https://medium.com/p/ada8140b79ad) |
-| Tue, 07 Apr 2026 11:52:40 GMT | FICOBA Bank Account Records Exposure (France,2026) case study | Nasir Ali | [Read More](https://medium.com/p/1ee3e774a047) |
