@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 07 Apr 2026 22:01:15 GMT | The journey of building secure agents | Anjana Sarkar | [Read More](https://medium.com/p/3e6b18c5a3a2) |
+| Tue, 07 Apr 2026 22:00:17 GMT | Trezor Not Connecting: What Actually Causes It and How to Fix It | Crypto Wallet Support | [Read More](https://medium.com/p/984191462f51) |
+| Tue, 07 Apr 2026 21:44:35 GMT | The Problem With Security Certifications No One Talks About | JSOC IT BLOG | [Read More](https://medium.com/p/94dbaa724622) |
+| Tue, 07 Apr 2026 21:41:40 GMT | Writeup : Command & Control — Niveau 2 | Gnahorewilfried | [Read More](https://medium.com/p/4d355d2cbcdb) |
+| Tue, 07 Apr 2026 21:37:42 GMT | OWASP Top 10 (2025) — Tryhackme (FR) | Khalil | [Read More](https://medium.com/p/21fff4ce7bc2) |
+| Tue, 07 Apr 2026 21:36:04 GMT | Home Network Hardening — Part 1 | David S. Ingram | [Read More](https://medium.com/p/09e38c7c7b3d) |
+| Tue, 07 Apr 2026 21:35:07 GMT | What “Agent Operating System” Actually Means | R. Demetri Vallejos | [Read More](https://medium.com/p/d412de273a1e) |
+| Tue, 07 Apr 2026 21:31:06 GMT | Anthropic unveils Project Glasswing — and hunts software vulnerabilities at scale | Rishi Chhabra | [Read More](https://medium.com/p/99fa026d5bad) |
+| Tue, 07 Apr 2026 21:31:05 GMT | Anthropic’s Mythos: The AI Model Too Dangerous to Release | Vamshi Kumar Reddy Kovvuri | [Read More](https://medium.com/p/d1e83ed2b094) |
+| Tue, 07 Apr 2026 21:27:46 GMT | Why Outsourcing to Cyber Security Managed Service Providers Is a Smart Business Decision | Fortnexs Shield | [Read More](https://medium.com/p/90d39ccd9916) |
+| Tue, 07 Apr 2026 21:23:13 GMT | FunboxEasy Walkthrough (Proving Ground-Play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/374fd761579a) |
+| Tue, 07 Apr 2026 21:16:26 GMT | From AI Demo to Secure System: What Engineers Miss | Sreedhar Busanelli | [Read More](https://medium.com/p/d6c9126a10f9) |
+| Tue, 07 Apr 2026 21:15:54 GMT | The Most Dangerous Hacker in the World Just Switched Sides | Sparsh Gupta | [Read More](https://medium.com/p/c138948c7bff) |
+| Tue, 07 Apr 2026 21:13:17 GMT | I’m Done Trying to Be a “Real Writer” | Jo | [Read More](https://medium.com/p/856c9e23033a) |
+| Tue, 07 Apr 2026 21:11:20 GMT | How to Build a One‑Person Content Machine: AppSumo AI Tools + Digital Notebooks + E‑book Sales… | Homiesdeals4u | [Read More](https://medium.com/p/df479d4a1fb3) |
+| Tue, 07 Apr 2026 21:09:49 GMT | TryHackMe — TakeOver CTF Writeup | Aryan Vij | [Read More](https://medium.com/p/4e7fc91b547c) |
+| Tue, 07 Apr 2026 21:08:21 GMT | Want More Profit? Here’s Why the Standard 5 Steps to Success Will Lead You to Collapse and Crisis | Oksana Ivanova | [Read More](https://medium.com/p/c8769ce6aa0f) |
 | Tue, 07 Apr 2026 21:04:05 GMT | Why Security Guard Services in Houston TX are Essential for Your Safety and Peace of Mind | F. W. Security llc | [Read More](https://medium.com/p/5ae0a08ecb0f) |
 | Tue, 07 Apr 2026 20:58:56 GMT | Armed Security Guards in Houston TX | F. W. Security llc | [Read More](https://medium.com/p/6b9f261b5919) |
 | Tue, 07 Apr 2026 20:49:02 GMT | How to Build a Voice AI Career Mentor in 28 Minutes: The “Agentic PM” Playbook | Rich Chen | [Read More](https://medium.com/p/5bcf7f987c45) |
@@ -96,20 +113,3 @@ The AI That Broke Cybersecurity | Faisal haque | [Read More](https://medium.com/
 | Tue, 07 Apr 2026 15:45:47 GMT | [HackSmarter.org Write-up] ShareThePain (NTLM Theft, Ligolo-ng, MSSQL, SeImpersonatePrivilege) | Chicken0248 | [Read More](https://medium.com/p/b7042895e95a) |
 | Tue, 07 Apr 2026 15:44:57 GMT | Is Your IT Setup Holding Back Growth? 7 Signs Business Owners Often Ignore | IT_Engineer | [Read More](https://medium.com/p/b54eb221f507) |
 | Tue, 07 Apr 2026 15:42:08 GMT | I Survived HTB CAPE as an Incident Responder — Here’s My Honest Review (2026) | Chayanin Khawsanit | [Read More](https://medium.com/p/df57e01f3c83) |
-| Tue, 07 Apr 2026 15:40:29 GMT | Top CTF Platforms for Universities in 2026 | Hannah Adam | [Read More](https://medium.com/p/d91c5f3053bd) |
-| Tue, 07 Apr 2026 15:31:01 GMT | ⚙️ 11. — Password Reset Poisoning via Middleware | The4v1 | [Read More](https://medium.com/p/f529e2b5efbb) |
-| Tue, 07 Apr 2026 15:30:39 GMT | You’re Reading Bug Bounty Writeups Wrong | Vivek PS | [Read More](https://medium.com/p/e2485f087f86) |
-| Tue, 07 Apr 2026 15:25:23 GMT | Shattering “Security by Obscurity”: Uncovering Hidden Admin Panels | Sahil | [Read More](https://medium.com/p/c34bd7e74f46) |
-| Tue, 07 Apr 2026 15:23:33 GMT | Idor in “track your order” page | Onepunchf | [Read More](https://medium.com/p/a42b6d58c1bb) |
-| Tue, 07 Apr 2026 15:23:32 GMT | DHCP Starvation: | KN | [Read More](https://medium.com/p/16872cbce1d2) |
-| Tue, 07 Apr 2026 15:09:31 GMT | Patterns Without End: Complexity | Mark Doknjas | [Read More](https://medium.com/p/b77551620b44) |
-| Tue, 07 Apr 2026 15:05:45 GMT | The IPv6 Shadow: Chaining Open Proxies | Tyreek Haynes | [Read More](https://medium.com/p/e47a9ad3568c) |
-| Tue, 07 Apr 2026 15:03:23 GMT | Inside a Real Cybercrime Investigation | Hariomsingh | [Read More](https://medium.com/p/19cd83bd8fdc) |
-| Tue, 07 Apr 2026 15:01:03 GMT | ⚙️ 10. — Offline Password Cracking | The4v1 | [Read More](https://medium.com/p/51d2033bf2ce) |
-| Tue, 07 Apr 2026 15:00:46 GMT | Authentication vs Authorization in AI/ML: What’s the Difference and Why It Matters | sairamesh | [Read More](https://medium.com/p/f6469241981f) |
-| Tue, 07 Apr 2026 14:59:05 GMT | VulnNet: Roasted Tryhackme ctf walkthrough | Aniket Nayak | [Read More](https://medium.com/p/0f30563c58f7) |
-| Tue, 07 Apr 2026 14:57:04 GMT | OSINT SPYREX | Vishwanth | [Read More](https://medium.com/p/d0e9f48d36a9) |
-| Tue, 07 Apr 2026 14:51:29 GMT | An introduction to linux privilege escalation | Alexandrupp | [Read More](https://medium.com/p/eef57022655d) |
-| Tue, 07 Apr 2026 14:51:09 GMT | Security Operations Center (SOC): Complete Guide to SOC Services | Digital Defense | [Read More](https://medium.com/p/49b5474a810e) |
-| Tue, 07 Apr 2026 14:51:01 GMT | I Built an AI-Powered Vulnerability Scanner - Here’s What It Found | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/e6c232e8fe6a) |
-| Tue, 07 Apr 2026 14:49:56 GMT | AI and Cybersecurity: Understanding the Basics | CyberQuestor | [Read More](https://medium.com/p/9343bac19c1f) |
