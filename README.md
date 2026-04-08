@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Apr 2026 00:01:02 GMT | Stuxnet: The Virus That Sabotaged Iran’s Nuclear Program and the Future of Cyberwarfare | JPablo13 | [Read More](https://medium.com/p/21fe25e05944) |
+| Tue, 07 Apr 2026 23:47:40 GMT | One Account, One Stack — How Proton Fits Together | Azazul | [Read More](https://medium.com/p/e64337c2f41f) |
+| Tue, 07 Apr 2026 23:39:53 GMT | I Found the “Nuclear Option” for Binary Exploitation — This Tool Just Ended Manual Pwn Forever | AncientEncoder | [Read More](https://medium.com/p/da3a3b04d1df) |
+| Tue, 07 Apr 2026 23:33:26 GMT | AI is Just Patterns — And Patterns Can Be Broken | Beri Contraster | [Read More](https://medium.com/p/f030bec7b640) |
+| Tue, 07 Apr 2026 23:14:37 GMT | When a $50 model breaks your risk model | Stuardo Rodriguez | [Read More](https://medium.com/p/bcff76efa651) |
+| Tue, 07 Apr 2026 23:11:46 GMT | We’re Squeakworks Again | Daniel Ryan Reiff | [Read More](https://medium.com/p/04036e106193) |
+| Tue, 07 Apr 2026 23:09:55 GMT | Arquitetura da Autonomia | Gross | [Read More](https://medium.com/p/da35edaa6a46) |
 | Tue, 07 Apr 2026 23:01:50 GMT | DAY 2: Teaching the Guardian to Think — From Simple Math to Machine Learning | Ariel david | [Read More](https://medium.com/p/8e37985105f9) |
 | Tue, 07 Apr 2026 23:01:02 GMT | GitHub’s Incident Queue Starts Where the Green Checks End | James Kuhman | [Read More](https://medium.com/p/6542608cd836) |
 | Tue, 07 Apr 2026 22:56:01 GMT | The Future of Payments Must Work Offline | Wesley S Favarin | [Read More](https://medium.com/p/01a9aec8bacd) |
@@ -106,10 +113,3 @@ The AI That Broke Cybersecurity | Faisal haque | [Read More](https://medium.com/
 | Tue, 07 Apr 2026 16:37:56 GMT | Portafolio de Ciberseguridad — Andrei Querol | Andreiquerol | [Read More](https://medium.com/p/c45c89c51127) |
 | Tue, 07 Apr 2026 16:36:25 GMT | Learning Palo AltoFirewall — LESSON 5: UTurn NAT | Rouell Mamaril | [Read More](https://medium.com/p/559e46e4e8b1) |
 | Tue, 07 Apr 2026 16:31:24 GMT | How to Start Bug Bounty Without Coding (Step-by-Step Guide for Beginners) | Riya Limba | [Read More](https://medium.com/p/1f55509b80ec) |
-| Tue, 07 Apr 2026 16:31:01 GMT | ⚙️ 13. — Broken Brute-Force Protection, Multiple Credentials per Request | The4v1 | [Read More](https://medium.com/p/ee6045d2f66a) |
-| Tue, 07 Apr 2026 16:28:58 GMT | Your MFA Just Became a Liability. Here’s What Replaced It. | S6 Tech | [Read More](https://medium.com/p/6ac297efdbfa) |
-| Tue, 07 Apr 2026 16:27:38 GMT | AI-Driven Fraud Detection and Cybersecurity for SMEs: How Small Businesses Can Stop Cyber Attacks… | Hafiz Ali Ahmed | [Read More](https://medium.com/p/08e5e60bee73) |
-| Tue, 07 Apr 2026 16:21:27 GMT | Basis Data: Relasi Antar Tabel — Join | Nabilla Paraswati | [Read More](https://medium.com/p/005cd3aeea61) |
-| Tue, 07 Apr 2026 16:19:20 GMT | Raising a bug report is easy! | Peter Wilson | [Read More](https://medium.com/p/c1af68ca6d4d) |
-| Tue, 07 Apr 2026 16:17:07 GMT | How to Find Lookalike Domains Using ZoneFeeds | Eman Khalid | [Read More](https://medium.com/p/056fad7b7acc) |
-| Tue, 07 Apr 2026 16:12:11 GMT | Breaking WPA/WPA2 Without a Handshake: A Deep Dive into the PMKID Attack | CipherX1802 | [Read More](https://medium.com/p/176f5275a52c) |
