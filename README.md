@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Apr 2026 23:01:02 GMT | HackTheBox: Tenten — My First Taste of CTFs | Divya | [Read More](https://medium.com/p/65b6c533f90d) |
+| Wed, 08 Apr 2026 22:54:56 GMT | What Is SkyeProfile? Eight Experts, One Call, Complete Wallet Trust | Douglas Borthwick | [Read More](https://medium.com/p/ebbc725ae12d) |
+| Wed, 08 Apr 2026 22:52:46 GMT | Git Leaks — Quais seus benefícios? | Juliana Galvao Miyaki | [Read More](https://medium.com/p/bc02ae31cd73) |
+| Wed, 08 Apr 2026 22:49:37 GMT | Project Glasswing and Claude Mythos: AI That Finds Bugs Humans Missed for 27 Years | Kristopher Dunham | [Read More](https://medium.com/p/0c964e77f3e4) |
+| Wed, 08 Apr 2026 22:40:22 GMT | The Helpful Internal Adversary | Nigel Kennis | [Read More](https://medium.com/p/3c25ad3faf64) |
+| Wed, 08 Apr 2026 22:32:00 GMT | The Human-in-the-Loop Illusion: Why Your AI “Safety Gate” is Actually a Backdoor | Martin Bally | [Read More](https://medium.com/p/2325dce72dfe) |
+| Wed, 08 Apr 2026 22:30:54 GMT | 20 Linux Commands That Will Make You Look Like a Pro (Even If You Started Last Week) | SainT - Cybersecurity & Tech | [Read More](https://medium.com/p/9a133207de1a) |
+| Wed, 08 Apr 2026 22:11:52 GMT | Five Ways to Build a Security Roadmap with AI — The Last One Changes the Decision | Mhcandan | [Read More](https://medium.com/p/c4f44ad309ae) |
+| Wed, 08 Apr 2026 22:09:58 GMT | How I Discovered a Blind SQL Injection in a Private program | mrx_w_ | [Read More](https://medium.com/p/7eebd77ad286) |
 | Wed, 08 Apr 2026 22:03:33 GMT | Why TTX Should Be Your Worst Nightmare - WiCyS 2026 (Women in Cybersecurity) Annual Conference … | Meera Tamboli | [Read More](https://medium.com/p/8f06634b6f3d) |
+| Wed, 08 Apr 2026 22:02:40 GMT | AI, Deepfakes and the Dark Web - WiCyS 2026 (Women in Cybersecurity) Annual Conference - Takeaways… | Meera Tamboli | [Read More](https://medium.com/p/1ade770010d2) |
+| Wed, 08 Apr 2026 22:02:38 GMT | Prompt Injection Is the New SQL Injection — And Most AI Apps Are Wide Open | Vikrant Waghmode | [Read More](https://medium.com/p/ac48bdabec2d) |
+| Wed, 08 Apr 2026 22:01:45 GMT | SOC Journey — Lab 5: Process Tracking (Windows) | Hemaprasadpotnuru | [Read More](https://medium.com/p/5e28e38b3e3e) |
+| Wed, 08 Apr 2026 22:01:42 GMT | My SC-900 Learning Journey (Day 10) — Understanding the Microsoft Defender Ecosystem and How XDR… | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/0afd4858cc0b) |
 | Wed, 08 Apr 2026 21:56:44 GMT | How I Discovered a Blind SQL Injection in a Private program | mrx_w_ | [Read More](https://medium.com/p/38cd34a1dd00) |
 | Wed, 08 Apr 2026 21:50:30 GMT | Try Hack Me Burp Suite walk-through | Rormsbee | [Read More](https://medium.com/p/244c66ecefe9) |
 | Wed, 08 Apr 2026 21:49:47 GMT | The Hidden Dangers of Uploading Sensitive Documents to Online PDF Tools | localpdfs | [Read More](https://medium.com/p/e5b20917192c) |
@@ -28,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Apr 2026 20:43:49 GMT | How I Became an Organization Owner via Invite Manipulation (Privilege
 Escalation) | Ahmed Mahmoud | [Read More](https://medium.com/p/7a39ba5152cb) |
 | Wed, 08 Apr 2026 20:43:20 GMT | What One Unsubscribe Link Revealed About Cross-Site Tracking | Piyush Agrawal | [Read More](https://medium.com/p/032211645a6b) |
+| Wed, 08 Apr 2026 20:38:15 GMT | Alpine vs Distroless : quelle image Docker choisir pour la production ? | Benjamin Ekia | [Read More](https://medium.com/p/ed9505ee42db) |
 | Wed, 08 Apr 2026 20:24:00 GMT | Stop Guessing XSS Payloads | Marduk I Am | [Read More](https://medium.com/p/881cad409624) |
 | Wed, 08 Apr 2026 20:20:58 GMT | The 5 Biggest Security Flaws in Shared Hosting That Put Your Clients at Risk | Clear Practise Founder | [Read More](https://medium.com/p/f44d7c0c9b3f) |
 | Wed, 08 Apr 2026 20:13:22 GMT | The Cost of Building Software Just Went to Zero. So Did the Cost of Breaking It. | Vishwamdhavale | [Read More](https://medium.com/p/eb34af5f850a) |
@@ -99,17 +113,3 @@ Escalation) | Ahmed Mahmoud | [Read More](https://medium.com/p/7a39ba5152cb) |
 | Wed, 08 Apr 2026 16:02:24 GMT | Yahoo Technical Support Services UK | Zuerevalexander | [Read More](https://medium.com/p/dc91d4e1155a) |
 | Wed, 08 Apr 2026 16:02:00 GMT | The First Analysts | Anupam Pratap Singh | [Read More](https://medium.com/p/7d4e914068ae) |
 | Wed, 08 Apr 2026 15:52:36 GMT | McAfee Antivirus Technical Support Phone Number UK | Zuerevalexander | [Read More](https://medium.com/p/b0dca4746ed9) |
-| Wed, 08 Apr 2026 15:51:01 GMT | Your AI Agent Is a Security Nightmare. Here’s What I Do About It. | Elliott Girard | [Read More](https://medium.com/p/5d3ceccb85ac) |
-| Wed, 08 Apr 2026 15:48:38 GMT | Measuring What We’re Missing | George Chen | [Read More](https://medium.com/p/58a8259f4c41) |
-| Wed, 08 Apr 2026 15:47:03 GMT | Russian Hackers Exploit Internet Routers for Global Espionage | Ananthuharikumar | [Read More](https://medium.com/p/0cb2e652aab2) |
-| Wed, 08 Apr 2026 15:46:01 GMT | CI Testing is Broken — Here’s How We Fixed It with 10x Smarter Pipelines | CodersWorld | [Read More](https://medium.com/p/52f5a6817500) |
-| Wed, 08 Apr 2026 15:43:45 GMT | Bypassing Softmax: Engineering a PyTorch Siamese Network for Production Biometric Security | Daniel Kolawole Aina | [Read More](https://medium.com/p/a587f619623b) |
-| Wed, 08 Apr 2026 15:42:50 GMT | Zero Trust Was Always the Goal. AI Just Made the Old Way Indefensible. | Manibabu Pippalla | [Read More](https://medium.com/p/7cfe0765a4e8) |
-| Wed, 08 Apr 2026 15:41:49 GMT | Making Users Strong Again: How Rainbow Secure Is Making Phishing Weak | Dr. Shashi Karhail | [Read More](https://medium.com/p/48e2b71e2a51) |
-| Wed, 08 Apr 2026 15:39:19 GMT | Defense In Depth | Robert Broeckelmann | [Read More](https://medium.com/p/bc8180529810) |
-| Wed, 08 Apr 2026 15:23:38 GMT | The Shared Emotional Field of Senior Living | Mark Sanford, Ph.D. | [Read More](https://medium.com/p/52300a62250e) |
-| Wed, 08 Apr 2026 15:21:31 GMT | Designing Organizations for Failure, Not Just Defense | Digital Defense | [Read More](https://medium.com/p/887282e6411c) |
-| Wed, 08 Apr 2026 15:16:12 GMT | How Wifi Sees | Elena | [Read More](https://medium.com/p/8436a9bd6528) |
-| Wed, 08 Apr 2026 15:03:36 GMT | What Nobody Is Explaining About Claude Mythos: The Defender Workflow | Victor Alejandria | [Read More](https://medium.com/p/cf66b85616bb) |
-| Wed, 08 Apr 2026 15:01:39 GMT | The Model That Broke the Patch Cycle: Why Anthropic is Terrified of Claude Mythos | Pasan Madhuranga | [Read More](https://medium.com/p/da8889e4f0d0) |
-| Wed, 08 Apr 2026 14:59:07 GMT | Let’s Break Stuff: Why Minimizing Disruption is the Biggest Myth in Dependency Management | Ali Naqvi | [Read More](https://medium.com/p/a9cc5943bd12) |
