@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Apr 2026 14:39:29 GMT | How to Create and Integrate an Okta OIDC Service Account with Neo4j | Klaus Mueller | [Read More](https://medium.com/p/41fa4d1f7c3c) |
+| Wed, 08 Apr 2026 14:38:03 GMT | The Contradiction — When organisations say they accept risk but react as if they shouldn’t | pierre kernen | [Read More](https://medium.com/p/c78779e55b20) |
+| Wed, 08 Apr 2026 14:37:53 GMT | Top 7 IoT Analytics Platforms of 2026 | Shanika Wickramasinghe | [Read More](https://medium.com/p/a03cc1b76266) |
+| Wed, 08 Apr 2026 14:30:58 GMT | SOC LEVEL 2: SPLUNK FULL GUIDE. | lukewago | [Read More](https://medium.com/p/100ab243324a) |
+| Wed, 08 Apr 2026 14:30:27 GMT | Continuity and Resolution — Two logics that should not be confused | pierre kernen | [Read More](https://medium.com/p/6634234585f7) |
+| Wed, 08 Apr 2026 14:28:25 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/7ab3f347aab7) |
+| Wed, 08 Apr 2026 14:25:37 GMT | Why Traditional Cybersecurity Is No Longer Enough for AI in 2026 | Aleksei Aleinikov | [Read More](https://medium.com/p/5e1c6a8c2f3e) |
+| Wed, 08 Apr 2026 14:21:52 GMT | AI vs Data: The Real Cybersecurity Battle of 2026 (Etay Maor vs Steve Durbin Explained) | NetNuggets | [Read More](https://medium.com/p/c97e6b5a0c83) |
+| Wed, 08 Apr 2026 14:19:13 GMT | Latest Technology Trends in 2026 You should Know: | Hamzataha | [Read More](https://medium.com/p/92d07ea8d44f) |
+| Wed, 08 Apr 2026 14:17:37 GMT | What You Need to Know About Ethical Hacking and Coding in 2026 | FlymingoTech | [Read More](https://medium.com/p/b08b34a6345f) |
+| Wed, 08 Apr 2026 14:17:22 GMT | The AI Arms Race Just Got Racier | Chuck Russell | [Read More](https://medium.com/p/820453362c7f) |
+| Wed, 08 Apr 2026 14:16:01 GMT | Anthropic Mythos: AI at the Edge of History | Adam Petritsis | [Read More](https://medium.com/p/da8f7193979f) |
+| Wed, 08 Apr 2026 14:12:11 GMT | Attack Surface Management (ASM): Kendi Varlıklarını Bir Hacker Gibi İzle | Fatih UYSAL | [Read More](https://medium.com/p/274b12472c69) |
+| Wed, 08 Apr 2026 14:11:25 GMT | TresPax-The Power Recon & Enumeration Tool | Ishant | [Read More](https://medium.com/p/fedfc075d2ab) |
+| Wed, 08 Apr 2026 14:08:24 GMT | API Security: Modern Web’in Görünmez Saldırı Yüzeyi | Fatih UYSAL | [Read More](https://medium.com/p/539842d856f6) |
+| Wed, 08 Apr 2026 13:55:16 GMT | Phishing Basics (THM) Tryhackme Walkthrough With Answer | Lawvye | [Read More](https://medium.com/p/b491e8e4afee) |
+| Wed, 08 Apr 2026 13:47:41 GMT | Mastering the Grid: A Deep Dive into Telnet Enumeration
+While many consider Telnet a relic of the… | M. Mahmudul Hassan | [Read More](https://medium.com/p/67949166814d) |
+| Wed, 08 Apr 2026 13:41:55 GMT | Observations with my Right Eye — Day 10 — In the Head and in the World | Adam Amada | [Read More](https://medium.com/p/21d0c1083ee3) |
+| Wed, 08 Apr 2026 13:41:40 GMT | TryHackMe — Missing Person Write-up (OSINT Investigation) | Priyam chauhan | [Read More](https://medium.com/p/2b0f1b408a06) |
+| Wed, 08 Apr 2026 13:37:37 GMT | CCTV Installation Basics Everyone Should Understand | IT Solution Dubai | [Read More](https://medium.com/p/abef07c8ae2a) |
+| Wed, 08 Apr 2026 13:31:24 GMT | Hunting on Flipkart: When Product Specs Become Payloads | Vanshrathore | [Read More](https://medium.com/p/f3d59f3a455a) |
+| Wed, 08 Apr 2026 13:28:47 GMT | Wgel CTF — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/d3e88b51aee7) |
 | Wed, 08 Apr 2026 13:21:45 GMT | Anthropic’s Secret AI Security Project Is Either Brilliant or Terrifying | Ryann - Digital Systems Architect | [Read More](https://medium.com/p/bfe2da6130f7) |
 | Wed, 08 Apr 2026 13:19:16 GMT | When AI Finds What Humans Missed for 13 Years | Sharanraju | [Read More](https://medium.com/p/dabeab65401e) |
 | Wed, 08 Apr 2026 13:18:19 GMT | NETWORKING CORE PROTOCOLS:AUDIT INTERNAL LINUXENIC CORPERATION LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/664aec353553) |
@@ -90,25 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Apr 2026 09:36:38 GMT | Is Your Data Safe? Understanding Modern Data Protection? | Digitalkumar | [Read More](https://medium.com/p/395744e10f71) |
 | Wed, 08 Apr 2026 09:30:51 GMT | How Analysts Turn Telegram Activity Into Actionable Threat Intelligence | Matt Black | [Read More](https://medium.com/p/51ecf831a507) |
 | Wed, 08 Apr 2026 09:28:59 GMT | Crashing Windows 10 Using SMBGhost (CVE-2020–0796) — My Hands-On Lab Experience | Kuldeep Choudhary | [Read More](https://medium.com/p/c82d1764ff34) |
-| Wed, 08 Apr 2026 09:28:20 GMT | SSL Sadece Bir Şifreleme mi, Yoksa Küresel Bir Güven Sözleşmesi mi? | Mevlüt Kamalı | [Read More](https://medium.com/p/7d8875f0619a) |
-| Wed, 08 Apr 2026 09:23:05 GMT | The Windows Concept Journey — WDM (Windows Driver Model) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f51a85eb3cd2) |
-| Wed, 08 Apr 2026 09:21:01 GMT | Misaligned Doorknob Latches: Adjusting Striker Plates for Secure Door Closure | Jackson Williams | [Read More](https://medium.com/p/d35d8b91f6a8) |
-| Wed, 08 Apr 2026 09:20:58 GMT | AI x Cybersecurity? Anthropic Just Built Its Most Powerful AI Yet. And You Cannot Use It. | CyberSamm | [Read More](https://medium.com/p/26e0c9d2d72b) |
-| Wed, 08 Apr 2026 09:12:40 GMT | Best 10 IT Companies in Tirunelveli For Freshers: Complete Guide to Jobs, Growth & Opportunities | techcareerinsights | [Read More](https://medium.com/p/4f4e5b459ddc) |
-| Wed, 08 Apr 2026 09:01:02 GMT | The attacker was inside for 3 weeks. Your antivirus never blinked. This is why EDR matters. | Hebert Maia | [Read More](https://medium.com/p/5541e2239b3b) |
-| Wed, 08 Apr 2026 08:57:28 GMT | Q1 Africa’s Cybersecurity Outlook: Risk, Resilience and Readiness | sadique kwatsima | [Read More](https://medium.com/p/32fd56571c02) |
-| Wed, 08 Apr 2026 08:46:11 GMT | Practical JavaScript Recon for Bug Bounty: A Real-World Passive-First Workflow | WolfSec | [Read More](https://medium.com/p/6559a5f4a93d) |
-| Wed, 08 Apr 2026 08:45:57 GMT | AI Destekli Low-Code Platformlar ile IT Backlog Krizini Nasıl Bitirirsiniz? | SPIDYA Software | [Read More](https://medium.com/p/41c7db17bbe8) |
-| Wed, 08 Apr 2026 08:32:28 GMT | How PDF Tampering Detection Actually Works — and Where It Fails | Iurii | [Read More](https://medium.com/p/ad398c311798) |
-| Wed, 08 Apr 2026 08:27:50 GMT | The WAF Bypass Delusion: How @Ren Turned a Critical Perimeter Collapse into an ‘N/A’ Fairy Tale | Xia0checkmate | [Read More](https://medium.com/p/c0bf67a9189c) |
-| Wed, 08 Apr 2026 08:25:31 GMT | I Built a Genetic Algorithm That Jailbreaks AI Models — Here’s What Happened | Nisarg Patel | [Read More](https://medium.com/p/e0b5e29bab68) |
-| Wed, 08 Apr 2026 08:25:21 GMT | Axios npm Supply Chain Attack: Inside the 3-Hour Compromise That Delivered a Cross-Platform RAT | Ankit Mishra | [Read More](https://medium.com/p/fdb0fe4c4dd5) |
-| Wed, 08 Apr 2026 08:21:01 GMT | Can Webcam Sites See Your IP Address? (And What It Actually Reveals) | devlin | [Read More](https://medium.com/p/a805bae8a333) |
-| Wed, 08 Apr 2026 08:20:45 GMT | Ethical Hacking 45 Days Internship for Students — Build Real Skills | cyber security Updates | [Read More](https://medium.com/p/2909f7bb80f0) |
-| Wed, 08 Apr 2026 08:14:57 GMT | Why Session Management Fails and How to Fix It Properly | Divine | [Read More](https://medium.com/p/cb74be359bc2) |
-| Wed, 08 Apr 2026 08:14:47 GMT | Demystifying SOC 2 for Small Businesses: What You Need to Know | Gwen | [Read More](https://medium.com/p/38dcb7872518) |
-| Wed, 08 Apr 2026 08:09:39 GMT | Anthropic Just Revealed an AI That Can Hack Anything. And They’re Not Releasing It. | Sinan Yaman | [Read More](https://medium.com/p/3554ae517bda) |
-| Wed, 08 Apr 2026 08:04:23 GMT | The Role of Cybercrime Lawyers in the Digital Age | Finlaw Associates | [Read More](https://medium.com/p/b37e5fe9e32c) |
-| Wed, 08 Apr 2026 08:03:51 GMT | The Day Anthropic Locked the Doors: Why Claude Mythos Changes Everything for Developers | KOLOGO B  Josias Yannick | [Read More](https://medium.com/p/140e57a236d6) |
-| Wed, 08 Apr 2026 08:00:36 GMT | Building a SOC Tool From Scratch as a Cybersecurity Student | Robert Perez | [Read More](https://medium.com/p/6e23680ca854) |
-| Wed, 08 Apr 2026 07:58:20 GMT | AI in Penetration Testing (2026): What’s Actually New | Cybervolt | [Read More](https://medium.com/p/c3920016c6a8) |
