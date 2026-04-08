@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Apr 2026 22:03:33 GMT | Why TTX Should Be Your Worst Nightmare - WiCyS 2026 (Women in Cybersecurity) Annual Conference … | Meera Tamboli | [Read More](https://medium.com/p/8f06634b6f3d) |
+| Wed, 08 Apr 2026 21:56:44 GMT | How I Discovered a Blind SQL Injection in a Private program | mrx_w_ | [Read More](https://medium.com/p/38cd34a1dd00) |
+| Wed, 08 Apr 2026 21:50:30 GMT | Try Hack Me Burp Suite walk-through | Rormsbee | [Read More](https://medium.com/p/244c66ecefe9) |
+| Wed, 08 Apr 2026 21:49:47 GMT | The Hidden Dangers of Uploading Sensitive Documents to Online PDF Tools | localpdfs | [Read More](https://medium.com/p/e5b20917192c) |
+| Wed, 08 Apr 2026 21:33:27 GMT | I Directed AI Agents to Build a Tool That Stress-Tests Incentive Designs. Here’s What It Found. | Selfradiance | [Read More](https://medium.com/p/a079f152b158) |
+| Wed, 08 Apr 2026 21:32:44 GMT | The Invisible Risk: How Hidden Dependencies in IronXL Blind Your Security Audits | Tony Q. | [Read More](https://medium.com/p/74d2adc3c307) |
+| Wed, 08 Apr 2026 21:30:32 GMT | WHAT NOW, NIGERIA? (A CREATIVERSAL PUBLICATION) | Creativerse | [Read More](https://medium.com/p/aef2926684cd) |
+| Wed, 08 Apr 2026 21:30:00 GMT | Building a Bulletproof HIPAA Disaster Recovery Plan: A Step-by-Step Guide | Joegellatly | [Read More](https://medium.com/p/5429aee469f5) |
+| Wed, 08 Apr 2026 21:27:18 GMT | Phishing Analysis Lab- Blue Team Lab Walkthrough | Pravat Dash | [Read More](https://medium.com/p/774d2027d536) |
+| Wed, 08 Apr 2026 21:25:12 GMT | Tryhackme Write-up: Corp Website (Romance and Co) 2026 | Day0x0f | [Read More](https://medium.com/p/63c97a11cf9c) |
+| Wed, 08 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 44: Test Prep, Day 3 | Maximillian Rueda | [Read More](https://medium.com/p/647335c270fa) |
 | Wed, 08 Apr 2026 20:49:29 GMT | Securing the Backbone — Issue #8: Open Source Meets NERC CIP — Are You Ready for the Compliance… | Eric Gallagher | [Read More](https://medium.com/p/a6b42473a95d) |
 | Wed, 08 Apr 2026 20:49:21 GMT | Securing the Backbone: Issue #7: The Open-Source Software Dilemma — Innovation vs. Risk | Eric Gallagher | [Read More](https://medium.com/p/306811481c97) |
 | Wed, 08 Apr 2026 20:43:49 GMT | How I Became an Organization Owner via Invite Manipulation (Privilege
@@ -102,14 +113,3 @@ Escalation) | Ahmed Mahmoud | [Read More](https://medium.com/p/7a39ba5152cb) |
 | Wed, 08 Apr 2026 15:03:36 GMT | What Nobody Is Explaining About Claude Mythos: The Defender Workflow | Victor Alejandria | [Read More](https://medium.com/p/cf66b85616bb) |
 | Wed, 08 Apr 2026 15:01:39 GMT | The Model That Broke the Patch Cycle: Why Anthropic is Terrified of Claude Mythos | Pasan Madhuranga | [Read More](https://medium.com/p/da8889e4f0d0) |
 | Wed, 08 Apr 2026 14:59:07 GMT | Let’s Break Stuff: Why Minimizing Disruption is the Biggest Myth in Dependency Management | Ali Naqvi | [Read More](https://medium.com/p/a9cc5943bd12) |
-| Wed, 08 Apr 2026 14:39:29 GMT | How to Create and Integrate an Okta OIDC Service Account with Neo4j | Klaus Mueller | [Read More](https://medium.com/p/41fa4d1f7c3c) |
-| Wed, 08 Apr 2026 14:38:03 GMT | The Contradiction — When organisations say they accept risk but react as if they shouldn’t | pierre kernen | [Read More](https://medium.com/p/c78779e55b20) |
-| Wed, 08 Apr 2026 14:37:53 GMT | Top 7 IoT Analytics Platforms of 2026 | Shanika Wickramasinghe | [Read More](https://medium.com/p/a03cc1b76266) |
-| Wed, 08 Apr 2026 14:30:58 GMT | SOC LEVEL 2: SPLUNK FULL GUIDE. | lukewago | [Read More](https://medium.com/p/100ab243324a) |
-| Wed, 08 Apr 2026 14:30:27 GMT | Continuity and Resolution — Two logics that should not be confused | pierre kernen | [Read More](https://medium.com/p/6634234585f7) |
-| Wed, 08 Apr 2026 14:28:25 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/7ab3f347aab7) |
-| Wed, 08 Apr 2026 14:25:37 GMT | Why Traditional Cybersecurity Is No Longer Enough for AI in 2026 | Aleksei Aleinikov | [Read More](https://medium.com/p/5e1c6a8c2f3e) |
-| Wed, 08 Apr 2026 14:21:52 GMT | AI vs Data: The Real Cybersecurity Battle of 2026 (Etay Maor vs Steve Durbin Explained) | NetNuggets | [Read More](https://medium.com/p/c97e6b5a0c83) |
-| Wed, 08 Apr 2026 14:19:13 GMT | Latest Technology Trends in 2026 You should Know: | Hamzataha | [Read More](https://medium.com/p/92d07ea8d44f) |
-| Wed, 08 Apr 2026 14:17:37 GMT | What You Need to Know About Ethical Hacking and Coding in 2026 | FlymingoTech | [Read More](https://medium.com/p/b08b34a6345f) |
-| Wed, 08 Apr 2026 14:17:22 GMT | The AI Arms Race Just Got Racier | Chuck Russell | [Read More](https://medium.com/p/820453362c7f) |
