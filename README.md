@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Apr 2026 03:31:01 GMT | The Cybersecurity Reckoning: How AI Is About to Change Everything You Thought About Security | Trends 24/7 | [Read More](https://medium.com/p/febf5893a4ed) |
+| Wed, 08 Apr 2026 03:25:09 GMT | Claude Mythos Preview’s cybersecurity capabilities — key takeaways | Wojtek | [Read More](https://medium.com/p/075b072f54e6) |
+| Wed, 08 Apr 2026 03:19:44 GMT | JOTNAR— Autonomous AI-Powered Penetration Testing Framework | Aks | [Read More](https://medium.com/p/db2c787399d4) |
+| Wed, 08 Apr 2026 03:08:04 GMT | Book lists I recommend | The Husky Hacker | [Read More](https://medium.com/p/4bfbc5205232) |
+| Wed, 08 Apr 2026 02:57:06 GMT | GitHub Notification Phishing: How Attackers Abuse Legit Platforms | Paritosh | [Read More](https://medium.com/p/9abf54c28856) |
+| Wed, 08 Apr 2026 02:34:35 GMT | Can WiFi Owners See Your Browsing History? Here’s the Truth | MD. RASHEDUL ISLAM | [Read More](https://medium.com/p/474efa9e6d2d) |
+| Wed, 08 Apr 2026 02:33:40 GMT | The Psychology Of Cybercrime: Why We Fall for Scams. | MindForge Co | [Read More](https://medium.com/p/95d09c6695ab) |
+| Wed, 08 Apr 2026 02:13:15 GMT | My Bug Bounty Journey #7: When Hidden URLs Aren’t Secure | awchjimmy | [Read More](https://medium.com/p/18a9e228dcd3) |
+| Wed, 08 Apr 2026 02:11:45 GMT | Monthly Threat Actor Group Intelligence Report, March 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/1f371f29a108) |
+| Wed, 08 Apr 2026 02:08:30 GMT | Fresh From the Conference Floor: IAPP Global Privacy Summit 2026 | Jodi Daniels | [Read More](https://medium.com/p/6b2290897b2a) |
+| Wed, 08 Apr 2026 02:06:20 GMT | The Palantír Leak: When Sauron Runs a Man-in-the-Middle Attack on Orthanc | misselbereth | [Read More](https://medium.com/p/ae8f463f523a) |
+| Wed, 08 Apr 2026 02:04:03 GMT | When Attackers Upgrade to AI, Your Defenses Become Obsolete | Tara Prasad Routray | [Read More](https://medium.com/p/3c5f30807046) |
+| Wed, 08 Apr 2026 01:55:05 GMT | Australia’s Cyber Professionalisation Framework: Ambition, Architecture and Unanswered Questions | John Rouffas | [Read More](https://medium.com/p/c54303e1d59c) |
+| Wed, 08 Apr 2026 01:51:22 GMT | Angular Route Guards — How to Protect Your App Like a Pro | Dipak Ahirav | [Read More](https://medium.com/p/77d06489e545) |
+| Wed, 08 Apr 2026 01:23:59 GMT | From Low Bug to $1000 Bounty — The Privilege Escalation Playbook Every Hacker Should Know | Krish_cyber | [Read More](https://medium.com/p/35fad04ff112) |
+| Wed, 08 Apr 2026 01:23:56 GMT | I Found a “Hidden” API Bug That Could Have Paid $2,000+ — And Most Hackers Would Miss It | Krish_cyber | [Read More](https://medium.com/p/99c641560e17) |
+| Wed, 08 Apr 2026 01:19:21 GMT | The Difference Between Monitoring and Knowing | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d266906a4c1c) |
+| Wed, 08 Apr 2026 01:17:42 GMT | Local Knowledge Bases with Obsidian CLI. | Oleksandr Derechei | [Read More](https://medium.com/p/d0975df319c1) |
+| Wed, 08 Apr 2026 01:08:03 GMT | Report: April 1 — April 8, 2026 | CCTT INC. | [Read More](https://medium.com/p/cf136231c7c9) |
+| Wed, 08 Apr 2026 01:01:01 GMT | 【And Then There Were None】Architecture of Informational Confinement | MonoEssay | [Read More](https://medium.com/p/6be3517ec4a8) |
+| Wed, 08 Apr 2026 00:54:43 GMT | Students and Staff Perspective on Durfee High School’s Issues | Nanda Meirelles | [Read More](https://medium.com/p/a0621ec1a6cf) |
+| Wed, 08 Apr 2026 00:14:22 GMT | The Ministry of Silly Walks Presents: Walking the PEB | Tom O'Neill | [Read More](https://medium.com/p/e3c159eb3d30) |
 | Wed, 08 Apr 2026 00:01:02 GMT | Stuxnet: The Virus That Sabotaged Iran’s Nuclear Program and the Future of Cyberwarfare | JPablo13 | [Read More](https://medium.com/p/21fe25e05944) |
 | Tue, 07 Apr 2026 23:47:40 GMT | One Account, One Stack — How Proton Fits Together | Azazul | [Read More](https://medium.com/p/e64337c2f41f) |
 | Tue, 07 Apr 2026 23:39:53 GMT | I Found the “Nuclear Option” for Binary Exploitation — This Tool Just Ended Manual Pwn Forever | AncientEncoder | [Read More](https://medium.com/p/da3a3b04d1df) |
@@ -91,25 +113,3 @@ The AI That Broke Cybersecurity | Faisal haque | [Read More](https://medium.com/
 | Tue, 07 Apr 2026 18:09:42 GMT | WEAPONIZING YOUR FEED: How to Build a Threat Intel C2 (and Stop Crying in Ghidra) | Muslim | [Read More](https://medium.com/p/f70a4e35a54a) |
 | Tue, 07 Apr 2026 18:07:26 GMT | Basis Data: Relasi Antar Tabel | RosifaAulia | [Read More](https://medium.com/p/a7e7e82a4ce6) |
 | Tue, 07 Apr 2026 18:01:01 GMT | [MM’s] Boot Notes — The Day Zero Blueprint — API & Security That Scales | Matej Marconak | [Read More](https://medium.com/p/08f478b109a8) |
-| Tue, 07 Apr 2026 17:52:53 GMT | Article: Beyond the Bootloader: The 2025 Era of UEFI and Firmware Exploitation | Funcybot | [Read More](https://medium.com/p/630007bd8286) |
-| Tue, 07 Apr 2026 17:47:02 GMT | Why strip_tags() Does Not Protect You From XSS in PHP/Laravel | Hafiq Iqmal | [Read More](https://medium.com/p/c97d0e805213) |
-| Tue, 07 Apr 2026 17:45:04 GMT | 6+ Ways to Spot a Phishing Email in 2026 | Lily C | [Read More](https://medium.com/p/c6a5d614a32e) |
-| Tue, 07 Apr 2026 17:43:04 GMT | Vegeta: 1 — Morse Code Audio Recon + Writable /etc/passwd to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/75fa1b9ae08e) |
-| Tue, 07 Apr 2026 17:42:25 GMT | Writeup for picoCTF challenge “Old Sessions” | Walter Moar | [Read More](https://medium.com/p/8d59f82aedc2) |
-| Tue, 07 Apr 2026 17:41:27 GMT | How to Choose Everyday Items for Better Comfort and Productivity | creative vision | [Read More](https://medium.com/p/7ce3767c9a1c) |
-| Tue, 07 Apr 2026 17:39:45 GMT | TuesdayTool 43: OSINT.club — A Hub for Modern Open-Source Intelligence Practitioners | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/cbc94ebe92a0) |
-| Tue, 07 Apr 2026 17:33:08 GMT | Escalation in the Middle East: The Decay of Diplomacy and the Clash of Ambitions | Бахромжон Суванов | [Read More](https://medium.com/p/a411c43637ed) |
-| Tue, 07 Apr 2026 17:32:32 GMT | How JWT Really Works Internally — A Deep Dive with Diagrams | Salauddin Ansari | [Read More](https://medium.com/p/7ab94745b62b) |
-| Tue, 07 Apr 2026 17:30:31 GMT | The Truth About Anonymous Email in 2026 (And How to Actually Stay Private) | Warren Smith | [Read More](https://medium.com/p/d27b3b09ec43) |
-| Tue, 07 Apr 2026 17:26:00 GMT | Understanding Web Vulnerabilities - Bug Bounty Practice Lab | Pentester Club | [Read More](https://medium.com/p/6ba9ed1ab640) |
-| Tue, 07 Apr 2026 17:21:21 GMT | Segurança Informática: Guia Prático para Evitar Problemas Online | Infwork Media | [Read More](https://medium.com/p/108598c88e52) |
-| Tue, 07 Apr 2026 17:17:34 GMT | The Most Dangerous Bugs Don’t Throw Errors | CodeWithIshwar -  Ishwar Chandra Tiwari | [Read More](https://medium.com/p/2825c6ed74c1) |
-| Tue, 07 Apr 2026 17:14:56 GMT | The Company Fixed the Breach… but Forgot the Root Cause | Iski | [Read More](https://medium.com/p/ed2c3a82e4e2) |
-| Tue, 07 Apr 2026 17:09:08 GMT | The Complexity of Digital Transactions and the Struggles of the Rural Economy | Yash Agrawal | [Read More](https://medium.com/p/66c552f0939e) |
-| Tue, 07 Apr 2026 17:08:34 GMT | Stop Asking Your AI to “Write Secure Code” | Kay A | [Read More](https://medium.com/p/a87069d86d44) |
-| Tue, 07 Apr 2026 17:04:06 GMT | Most SOC Analyst Candidates Can’t Read a Windows Event Log. Here’s How. | Jbird | [Read More](https://medium.com/p/4b228bb18618) |
-| Tue, 07 Apr 2026 17:01:01 GMT | ⚙️ 14. — 2FA Bypass Using a Brute-Force Attack | The4v1 | [Read More](https://medium.com/p/527a65b0f349) |
-| Tue, 07 Apr 2026 16:53:14 GMT | I Quit TikTok for Personal Security Purposes. I am Transgender. | Dylan Thomas Cotter ️‍⚧️ ️‍ | [Read More](https://medium.com/p/091861a453b3) |
-| Tue, 07 Apr 2026 16:37:56 GMT | Portafolio de Ciberseguridad — Andrei Querol | Andreiquerol | [Read More](https://medium.com/p/c45c89c51127) |
-| Tue, 07 Apr 2026 16:36:25 GMT | Learning Palo AltoFirewall — LESSON 5: UTurn NAT | Rouell Mamaril | [Read More](https://medium.com/p/559e46e4e8b1) |
-| Tue, 07 Apr 2026 16:31:24 GMT | How to Start Bug Bounty Without Coding (Step-by-Step Guide for Beginners) | Riya Limba | [Read More](https://medium.com/p/1f55509b80ec) |
