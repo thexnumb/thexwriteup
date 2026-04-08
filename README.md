@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Apr 2026 19:54:34 GMT | Why Therapists Are Finally Leaving AWS for Sovereign Hosting | Clear Practise Founder | [Read More](https://medium.com/p/d65864b07ebd) |
+| Wed, 08 Apr 2026 19:46:01 GMT | The Identity Illusion in AI Integration | Xiaoning Sun | [Read More](https://medium.com/p/7f8378fcd08b) |
+| Wed, 08 Apr 2026 19:43:48 GMT | State Management + Security: Why Sensitive Data Needs a Runtime, Not Just State | Italo Matos | [Read More](https://medium.com/p/e580dafa37a1) |
+| Wed, 08 Apr 2026 19:35:22 GMT | Demystifying the Secure AI Agent: An Architectural Analysis of Sandboxed LLMs | Jared Mills | [Read More](https://medium.com/p/db7a67ed0304) |
+| Wed, 08 Apr 2026 19:32:32 GMT | The 2026 Cybersecurity Roadmap: From Zero to Elite (Without Losing Your Mind)Part 1:- | Inside Garuda | [Read More](https://medium.com/p/00ef42bf79ec) |
+| Wed, 08 Apr 2026 19:31:38 GMT | Pentester Labs Recon 00 write up | Robert Nyinge | [Read More](https://medium.com/p/040db669a4e6) |
+| Wed, 08 Apr 2026 19:30:02 GMT | SAST vs DAST: Why Using Only One Will Fail Your Security Strategy | CodewithSooryavanshi | [Read More](https://medium.com/p/3f8f08ee85a4) |
+| Wed, 08 Apr 2026 19:27:58 GMT | We’re Open-Sourcing 3 Tools We Built to Scan European Websites | Steven - TrustYourWebsite | [Read More](https://medium.com/p/fbd5519b441e) |
+| Wed, 08 Apr 2026 19:15:50 GMT | Water Bottle Tryhackme Writeup | Jawstar | [Read More](https://medium.com/p/6804e39a8ee9) |
+| Wed, 08 Apr 2026 19:12:43 GMT | Beyond Opus: Decoding the “Dangerous” Reasoning of Claude Mythos | Rashed Al-Lahaseh | [Read More](https://medium.com/p/c69de167ab77) |
 | Wed, 08 Apr 2026 19:12:42 GMT | Understanding Dark Web AI Scams and Emerging Online Risks | Tor BBB | [Read More](https://medium.com/p/bbb6251e8ecc) |
 | Wed, 08 Apr 2026 19:09:22 GMT | Starting Fresh Online? Here’s the Best Email Setup for Security, Privacy & Peace of Mind | Warren Smith | [Read More](https://medium.com/p/8e4585a48b8f) |
 | Wed, 08 Apr 2026 19:09:21 GMT | CVE-2026–23398: PoC — A NULL Pointer in ICMP Tag Validation, and Why “One Packet” Is Never the… | KeyboardSamurai | [Read More](https://medium.com/p/dce65205c129) |
@@ -103,13 +113,3 @@ While many consider Telnet a relic of the… | M. Mahmudul Hassan | [Read More](
 | Wed, 08 Apr 2026 13:36:15 GMT | WP FILE UPLOAD PLUGIN | Jane Brian | [Read More](https://medium.com/p/0f3a811206ce) |
 | Wed, 08 Apr 2026 13:31:24 GMT | Hunting on Flipkart: When Product Specs Become Payloads | Vanshrathore | [Read More](https://medium.com/p/f3d59f3a455a) |
 | Wed, 08 Apr 2026 13:28:47 GMT | Wgel CTF — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/d3e88b51aee7) |
-| Wed, 08 Apr 2026 13:21:45 GMT | Anthropic’s Secret AI Security Project Is Either Brilliant or Terrifying | Ryann - Digital Systems Architect | [Read More](https://medium.com/p/bfe2da6130f7) |
-| Wed, 08 Apr 2026 13:19:16 GMT | When AI Finds What Humans Missed for 13 Years | Sharanraju | [Read More](https://medium.com/p/dabeab65401e) |
-| Wed, 08 Apr 2026 13:18:19 GMT | NETWORKING CORE PROTOCOLS:AUDIT INTERNAL LINUXENIC CORPERATION LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/664aec353553) |
-| Wed, 08 Apr 2026 13:17:34 GMT | Modern NDR: What to Look for (and What to Avoid) | NetWitness | [Read More](https://medium.com/p/d271c39b9668) |
-| Wed, 08 Apr 2026 13:10:13 GMT | It Took Me 5 Days to Map a Phishing Campaign Manually. So I Built a Tool to Do It in 60 Seconds. | Rhishav Kanjilal | [Read More](https://medium.com/p/7175082807eb) |
-| Wed, 08 Apr 2026 13:09:08 GMT | PoC: Nginx UI CVE-2026–27944 | Toshith | [Read More](https://medium.com/p/ff064c0c6596) |
-| Wed, 08 Apr 2026 13:03:10 GMT | A Stronger Meeseeks Doesn’t Need Malice: The Real Threat Model for AI Risk | Zia Juan He | [Read More](https://medium.com/p/f85e2912ef2e) |
-| Wed, 08 Apr 2026 13:01:25 GMT | Claude Can Now Hack Your Stack (or Save It): Why AI Security Just Became a Boardroom Problem | Rakeshkhanduja | [Read More](https://medium.com/p/92c63a046ed8) |
-| Wed, 08 Apr 2026 13:01:01 GMT | Worms, Wipes, and RCEs: Cyber Threats rising in the AI era | Sabbir Rahman | [Read More](https://medium.com/p/3b6e93a0520a) |
-| Wed, 08 Apr 2026 12:56:48 GMT | How Your Digital Payments Are Changing: The RBI’s New Rules for Protecting Your Money | Deepika bawa | [Read More](https://medium.com/p/584913efa288) |
