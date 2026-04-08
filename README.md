@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Apr 2026 17:38:22 GMT | The Hidden Cost of Ignoring Cyber Threats (And How Cybersecurity Consultancy Services Can Save You) | Patatvaishali | [Read More](https://medium.com/p/496819fd07dd) |
+| Wed, 08 Apr 2026 17:36:17 GMT | Hacked Routers Expose Microsoft 365 Logins | Geoffrey Wenger | [Read More](https://medium.com/p/522e2604f333) |
+| Wed, 08 Apr 2026 17:28:40 GMT | Introduction: A “Junior” Perspective on a Senior Debate | Doganay Yildiz | [Read More](https://medium.com/p/6eeb074f3802) |
+| Wed, 08 Apr 2026 17:22:51 GMT | The Red Tape Around Mythos Looks Serious (But Feels Strategically Timed) | Felix Kebaya | [Read More](https://medium.com/p/ee80cf9ace3a) |
+| Wed, 08 Apr 2026 17:13:16 GMT | Le bluff de l’IA | Florent M | [Read More](https://medium.com/p/682e7edecf9f) |
+| Wed, 08 Apr 2026 17:13:06 GMT | Top Security Challenges for Businesses in 2026: Navigating the New Era of Risk | AlexBryn | [Read More](https://medium.com/p/59f2535e8ada) |
+| Wed, 08 Apr 2026 17:08:58 GMT | Ansible CIS Benchmark: A Fling or a Serious Date? | byteGirl | [Read More](https://medium.com/p/80f65d29ca89) |
+| Wed, 08 Apr 2026 17:02:35 GMT | Japan’s Navy in a Shifting Indo-Pacific | Jaden M | [Read More](https://medium.com/p/4f728b6b279e) |
+| Wed, 08 Apr 2026 17:01:06 GMT | I tried to find myself online — and here is what strangers can see | Crystalcascade14 | [Read More](https://medium.com/p/12c63d726db6) |
+| Wed, 08 Apr 2026 17:00:36 GMT | (Day-4) If You Understand These OSI and TCP , You’re Ahead of 90% of People | Priyesh Patware | [Read More](https://medium.com/p/2966b92d1c19) |
+| Wed, 08 Apr 2026 16:59:28 GMT | Professional Profile | Kusunoki | [Read More](https://medium.com/p/639bc6fe4fb8) |
+| Wed, 08 Apr 2026 16:54:10 GMT | A Paradigm Shift in Maravel Queues: Securing Asynchronous Execution with Array Callables | marius-ciclistu | [Read More](https://medium.com/p/7282418289b8) |
+| Wed, 08 Apr 2026 16:53:40 GMT | Testing .NET MAUI Android Apps: A Penetration Tester’s Guide | GypsyCrushader | [Read More](https://medium.com/p/9e973920c564) |
+| Wed, 08 Apr 2026 16:49:12 GMT | Powering the Future: Why India’s Latest Nuclear Milestone is a Victory for the Tech Generation… | Rohit Prajapati | [Read More](https://medium.com/p/6633f18afb4d) |
+| Wed, 08 Apr 2026 16:23:25 GMT | Shodan Recon Important Stuff | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/de6aba58e445) |
+| Wed, 08 Apr 2026 16:19:52 GMT | Welcome ‍♂️- Hack Smarter Walkthrough | WireHawk Security | [Read More](https://medium.com/p/950a82670fbb) |
+| Wed, 08 Apr 2026 16:12:06 GMT | Southampton now join City, Chelsea, and Leeds in the last four — proof that in the FA Cup, form… | Monica Snell | [Read More](https://medium.com/p/066f7eb86dba) |
 | Wed, 08 Apr 2026 16:09:23 GMT | Information Technology: Meaning, Importance, Uses, and Future Trends | Digitalmarketingseo | [Read More](https://medium.com/p/a45d00c79e7a) |
 | Wed, 08 Apr 2026 16:08:34 GMT | From Zero to Bug Bounty Hunter in 59 Days (Day 01) | Hamim Islam | [Read More](https://medium.com/p/8923f599144f) |
 | Wed, 08 Apr 2026 16:08:07 GMT | มิจฉาชีพมาเลเซียล่าเหยื่อคนไทยผ่าน WhatsApp | CSRI | [Read More](https://medium.com/p/641e73561567) |
@@ -96,20 +113,3 @@ While many consider Telnet a relic of the… | M. Mahmudul Hassan | [Read More](
 | Wed, 08 Apr 2026 11:54:16 GMT | Your Vibe-Coded App Almost Certainly Has Security Holes. Here’s How To Catch Them. | Christopher Montes | [Read More](https://medium.com/p/caa212c67abc) |
 | Wed, 08 Apr 2026 11:51:49 GMT | Goodbye S3 SDK! AWS Just Turned Every Bucket Into a High-Speed Hard Drive | Dhanush N | [Read More](https://medium.com/p/66ad8ee74351) |
 | Wed, 08 Apr 2026 11:41:21 GMT | SEO for Voice Assistants: The Complete Guide to Winning Voice Search | Jellyfr | [Read More](https://medium.com/p/4c36445e381b) |
-| Wed, 08 Apr 2026 11:40:16 GMT | Bytemancy 1 — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/b130f290f919) |
-| Wed, 08 Apr 2026 11:40:07 GMT | Undo — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/5cfbc01746d1) |
-| Wed, 08 Apr 2026 11:32:50 GMT | Anthropic’s Mythos: Why the World’s Most Dangerous AI is Currently Behind a $100 Billion Firewall | - Crypto - Health - Cyber - Tech | [Read More](https://medium.com/p/b9a7a0417266) |
-| Wed, 08 Apr 2026 11:31:01 GMT | Your Chat, Your Rules: Running a Private Matrix Server on Debian 13 | Levente Csikor | [Read More](https://medium.com/p/bb9765bafc06) |
-| Wed, 08 Apr 2026 11:28:59 GMT | Massive Data Leak Surfaces on the Dark Web: Multiple Companies Exposed | Russia Solovakia | [Read More](https://medium.com/p/d1da2cf1bed7) |
-| Wed, 08 Apr 2026 11:22:13 GMT | Cloud Security vs Traditional Security: Which One Protects Your Business Better in 2026? | Cloudegytechnology | [Read More](https://medium.com/p/3c59a33716e0) |
-| Wed, 08 Apr 2026 11:18:51 GMT | My 2026 Q1 Pentesting Arsenal: Custom Tools & Scripts | Taulan Zauzanov | [Read More](https://medium.com/p/c247ea51f83d) |
-| Wed, 08 Apr 2026 11:17:08 GMT | The AI That Hacked Its Own Cage — And Then Sent an Email to Prove It | Lorenzo swanson | [Read More](https://medium.com/p/9cb93b83f2fa) |
-| Wed, 08 Apr 2026 11:13:41 GMT | Cross Site Template Injection | 13v! ⚔️ | [Read More](https://medium.com/p/55913ff724db) |
-| Wed, 08 Apr 2026 11:11:04 GMT | Bitdefender Customer Service Australia | Customer Support Information | [Read More](https://medium.com/p/42281ee3aa4e) |
-| Wed, 08 Apr 2026 11:08:58 GMT | Cybersecurity in Educational Institutions | joe lotus | [Read More](https://medium.com/p/e11ea57f1ccc) |
-| Wed, 08 Apr 2026 11:06:46 GMT | Phishing Basics Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/4f285897d588) |
-| Wed, 08 Apr 2026 11:06:34 GMT | Forgotten Websites Are a Ticking Time Bomb — Just Ask NHS Scotland | UK Cyber Defence | [Read More](https://medium.com/p/4fa8ad4b984b) |
-| Wed, 08 Apr 2026 11:05:20 GMT | Best Practices to Keep Your WordPress Website Clean and Secure for Long-Term Business Growth | Wpexpert24 | [Read More](https://medium.com/p/76453746a743) |
-| Wed, 08 Apr 2026 11:04:53 GMT | The Future of Green Steel: Why Precision Refractories are the New Gold Standard in 2026. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/5b63c35cd208) |
-| Wed, 08 Apr 2026 11:03:50 GMT | Le Shadow AI en entreprise : ces “petits services” qui préparent un grand crash | Rebecca Cottignies | [Read More](https://medium.com/p/67618b54a4b4) |
-| Wed, 08 Apr 2026 11:00:36 GMT | Password Hash Leak (owasp juice-shop) | Rajeev Gaddam | [Read More](https://medium.com/p/9ecaf5eb8cf5) |
