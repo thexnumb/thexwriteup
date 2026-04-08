@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Apr 2026 10:02:26 GMT | Why Do You Still Use Google Antigravity? | Shashwat | [Read More](https://medium.com/p/21f2d8c7c126) |
+| Wed, 08 Apr 2026 10:00:18 GMT | The Day the Worm Learned to Publish npm Packages | Mustabsirtoor | [Read More](https://medium.com/p/3c798d58bb57) |
+| Wed, 08 Apr 2026 09:57:54 GMT | CIBC card: Your Complete Guide to Getting Started with Your CIBC Card | TechCore | [Read More](https://medium.com/p/a03dc1458da4) |
+| Wed, 08 Apr 2026 09:55:22 GMT | More Than Guards: The Story Behind Complete Residential & Commercial Protection | Grdsnscrt | [Read More](https://medium.com/p/353770c12a06) |
+| Wed, 08 Apr 2026 09:52:07 GMT | The 2026 RBI VAPT Mandate | Cynox Security LLP. | [Read More](https://medium.com/p/cdb17f80e6de) |
+| Wed, 08 Apr 2026 09:44:06 GMT | Global Telecom Cloud Market Share, Growth & Forecast Analysis | NIkita Poplai | [Read More](https://medium.com/p/fc8a9f891028) |
+| Wed, 08 Apr 2026 09:43:39 GMT | Virtual Private Cloud (VPC): Networking on AWS from a Security Angle | TheP3@rl | [Read More](https://medium.com/p/a89589b4ce56) |
+| Wed, 08 Apr 2026 09:43:09 GMT | What is Claude Mythos? (The AI So Powerful Anthropic Won’t Release It) | Ai studio | [Read More](https://medium.com/p/6cd47c3aaeb3) |
+| Wed, 08 Apr 2026 09:38:31 GMT | Anthropic Built an AI That Broke Out of Its Cage. Then They Shipped It Anyway. | StackedThoughts | [Read More](https://medium.com/p/5264d5404066) |
+| Wed, 08 Apr 2026 09:37:15 GMT | CCTV Monitoring for Hotels | Doris William | [Read More](https://medium.com/p/ef2ab05526ed) |
+| Wed, 08 Apr 2026 09:36:38 GMT | Is Your Data Safe? Understanding Modern Data Protection? | Digitalkumar | [Read More](https://medium.com/p/395744e10f71) |
+| Wed, 08 Apr 2026 09:30:51 GMT | How Analysts Turn Telegram Activity Into Actionable Threat Intelligence | Matt Black | [Read More](https://medium.com/p/51ecf831a507) |
+| Wed, 08 Apr 2026 09:28:59 GMT | Crashing Windows 10 Using SMBGhost (CVE-2020–0796) — My Hands-On Lab Experience | Kuldeep Choudhary | [Read More](https://medium.com/p/c82d1764ff34) |
+| Wed, 08 Apr 2026 09:28:20 GMT | SSL Sadece Bir Şifreleme mi, Yoksa Küresel Bir Güven Sözleşmesi mi? | Mevlüt Kamalı | [Read More](https://medium.com/p/7d8875f0619a) |
+| Wed, 08 Apr 2026 09:23:05 GMT | The Windows Concept Journey — WDM (Windows Driver Model) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f51a85eb3cd2) |
+| Wed, 08 Apr 2026 09:21:01 GMT | Misaligned Doorknob Latches: Adjusting Striker Plates for Secure Door Closure | Jackson Williams | [Read More](https://medium.com/p/d35d8b91f6a8) |
+| Wed, 08 Apr 2026 09:20:58 GMT | AI x Cybersecurity? Anthropic Just Built Its Most Powerful AI Yet. And You Cannot Use It. | CyberSamm | [Read More](https://medium.com/p/26e0c9d2d72b) |
+| Wed, 08 Apr 2026 09:12:40 GMT | Best 10 IT Companies in Tirunelveli For Freshers: Complete Guide to Jobs, Growth & Opportunities | techcareerinsights | [Read More](https://medium.com/p/4f4e5b459ddc) |
+| Wed, 08 Apr 2026 08:57:28 GMT | Q1 Africa’s Cybersecurity Outlook: Risk, Resilience and Readiness | sadique kwatsima | [Read More](https://medium.com/p/32fd56571c02) |
+| Wed, 08 Apr 2026 08:46:11 GMT | Practical JavaScript Recon for Bug Bounty: A Real-World Passive-First Workflow | WolfSec | [Read More](https://medium.com/p/6559a5f4a93d) |
+| Wed, 08 Apr 2026 08:45:57 GMT | AI Destekli Low-Code Platformlar ile IT Backlog Krizini Nasıl Bitirirsiniz? | SPIDYA Software | [Read More](https://medium.com/p/41c7db17bbe8) |
 | Wed, 08 Apr 2026 08:32:28 GMT | How PDF Tampering Detection Actually Works — and Where It Fails | Iurii | [Read More](https://medium.com/p/ad398c311798) |
 | Wed, 08 Apr 2026 08:27:50 GMT | The WAF Bypass Delusion: How @Ren Turned a Critical Perimeter Collapse into an ‘N/A’ Fairy Tale | Xia0checkmate | [Read More](https://medium.com/p/c0bf67a9189c) |
 | Wed, 08 Apr 2026 08:25:31 GMT | I Built a Genetic Algorithm That Jailbreaks AI Models — Here’s What Happened | Nisarg Patel | [Read More](https://medium.com/p/e0b5e29bab68) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Apr 2026 04:16:59 GMT | I Built an Open-Source Security Scanner for AI Agent Pipelines. Here’s What I Found. | Sattyam Jain | [Read More](https://medium.com/p/4cd3624879ba) |
 | Wed, 08 Apr 2026 04:10:00 GMT | PicoCTF — SUDO MAKE ME A SANDWICH | Utsav Thakur | [Read More](https://medium.com/p/67b23eb66e2f) |
 | Wed, 08 Apr 2026 04:03:04 GMT | TCS HackQuest Season 10 Experience | Chittibabubavisetti | [Read More](https://medium.com/p/0873fc694bc5) |
-| Wed, 08 Apr 2026 03:36:21 GMT | The Importance of Security: How VAPT by TrustLayerLabs Protects Modern Businesses | Trustlayerlabs | [Read More](https://medium.com/p/f67d5f042602) |
-| Wed, 08 Apr 2026 03:31:01 GMT | The Cybersecurity Reckoning: How AI Is About to Change Everything You Thought About Security | Trends 24/7 | [Read More](https://medium.com/p/febf5893a4ed) |
-| Wed, 08 Apr 2026 03:25:09 GMT | Claude Mythos Preview’s cybersecurity capabilities — key takeaways | Wojtek | [Read More](https://medium.com/p/075b072f54e6) |
-| Wed, 08 Apr 2026 03:19:44 GMT | JOTNAR— Autonomous AI-Powered Penetration Testing Framework | Aks | [Read More](https://medium.com/p/db2c787399d4) |
-| Wed, 08 Apr 2026 03:08:04 GMT | Book lists I recommend | The Husky Hacker | [Read More](https://medium.com/p/4bfbc5205232) |
-| Wed, 08 Apr 2026 02:57:06 GMT | GitHub Notification Phishing: How Attackers Abuse Legit Platforms | Paritosh | [Read More](https://medium.com/p/9abf54c28856) |
-| Wed, 08 Apr 2026 02:34:35 GMT | Can WiFi Owners See Your Browsing History? Here’s the Truth | MD. RASHEDUL ISLAM | [Read More](https://medium.com/p/474efa9e6d2d) |
-| Wed, 08 Apr 2026 02:33:40 GMT | The Psychology Of Cybercrime: Why We Fall for Scams. | MindForge Co | [Read More](https://medium.com/p/95d09c6695ab) |
-| Wed, 08 Apr 2026 02:13:15 GMT | My Bug Bounty Journey #7: When Hidden URLs Aren’t Secure | awchjimmy | [Read More](https://medium.com/p/18a9e228dcd3) |
-| Wed, 08 Apr 2026 02:11:45 GMT | Monthly Threat Actor Group Intelligence Report, March 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/1f371f29a108) |
-| Wed, 08 Apr 2026 02:08:30 GMT | Fresh From the Conference Floor: IAPP Global Privacy Summit 2026 | Jodi Daniels | [Read More](https://medium.com/p/6b2290897b2a) |
-| Wed, 08 Apr 2026 02:06:20 GMT | The Palantír Leak: When Sauron Runs a Man-in-the-Middle Attack on Orthanc | misselbereth | [Read More](https://medium.com/p/ae8f463f523a) |
-| Wed, 08 Apr 2026 02:04:03 GMT | When Attackers Upgrade to AI, Your Defenses Become Obsolete | Tara Prasad Routray | [Read More](https://medium.com/p/3c5f30807046) |
-| Wed, 08 Apr 2026 01:55:05 GMT | Australia’s Cyber Professionalisation Framework: Ambition, Architecture and Unanswered Questions | John Rouffas | [Read More](https://medium.com/p/c54303e1d59c) |
-| Wed, 08 Apr 2026 01:51:22 GMT | Angular Route Guards — How to Protect Your App Like a Pro | Dipak Ahirav | [Read More](https://medium.com/p/77d06489e545) |
-| Wed, 08 Apr 2026 01:23:59 GMT | From Low Bug to $1000 Bounty — The Privilege Escalation Playbook Every Hacker Should Know | Krish_cyber | [Read More](https://medium.com/p/35fad04ff112) |
-| Wed, 08 Apr 2026 01:23:56 GMT | I Found a “Hidden” API Bug That Could Have Paid $2,000+ — And Most Hackers Would Miss It | Krish_cyber | [Read More](https://medium.com/p/99c641560e17) |
-| Wed, 08 Apr 2026 01:19:21 GMT | The Difference Between Monitoring and Knowing | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d266906a4c1c) |
-| Wed, 08 Apr 2026 01:17:42 GMT | Local Knowledge Bases with Obsidian CLI. | Oleksandr Derechei | [Read More](https://medium.com/p/d0975df319c1) |
-| Wed, 08 Apr 2026 01:08:03 GMT | Report: April 1 — April 8, 2026 | CCTT INC. | [Read More](https://medium.com/p/cf136231c7c9) |
-| Wed, 08 Apr 2026 01:01:01 GMT | 【And Then There Were None】Architecture of Informational Confinement | MonoEssay | [Read More](https://medium.com/p/6be3517ec4a8) |
