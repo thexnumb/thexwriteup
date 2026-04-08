@@ -12,6 +12,40 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Apr 2026 07:19:10 GMT | Active Directory Exploitation: NTLM Relay & AS-REP Roasting | ZeroDay-Security-Services | [Read More](https://medium.com/p/a9e4f92cad36) |
+| Wed, 08 Apr 2026 07:17:06 GMT | Securing Your Applications with Cloudflare: Practical Tools for Developers | Silversky Technology | [Read More](https://medium.com/p/abed786787b0) |
+| Wed, 08 Apr 2026 07:15:29 GMT | What is CORS? Cross-Origin Resource Sharing Explained | ExploitHunter | [Read More](https://medium.com/p/4d4aded88762) |
+| Wed, 08 Apr 2026 07:14:24 GMT | What Happens When You Type “google.com”. A Networking Deep Dive with Live Packet Captures | Honeyknows | [Read More](https://medium.com/p/b92e58aacef8) |
+| Wed, 08 Apr 2026 07:11:01 GMT | Cyber Intelligence: Strategic Importance in Modern Cybersecurity | Omer Akin | [Read More](https://medium.com/p/10b9c8ee3173) |
+| Wed, 08 Apr 2026 07:09:52 GMT | Enterprise SSL Sertifika Otomasyonu: Python ile Uçtan Uca Çözüm | Omer Faruk GUL | [Read More](https://medium.com/p/8d382ac552e7) |
+| Wed, 08 Apr 2026 07:08:36 GMT | CPTS still be worth it in 2026? | Anugrah Gilang Ramadhan | [Read More](https://medium.com/p/19c29e69e060) |
+| Wed, 08 Apr 2026 07:07:54 GMT | Why Businesses Trust Jinisys Software Inc. for Reliable Hospitality Solutions | Jinisys Software Inc. | [Read More](https://medium.com/p/95ea49e16e3c) |
+| Wed, 08 Apr 2026 07:07:22 GMT | How to Detect and Remove a WordPress Backdoor (Step-by-Step Guide) | Smit Pipaliya | [Read More](https://medium.com/p/e6dfe1b66758) |
+| Wed, 08 Apr 2026 07:04:12 GMT | From Hackers to Compliance: How Saudi Businesses Are Evolving | Rahman Iqbal | [Read More](https://medium.com/p/a435db8fa112) |
+| Wed, 08 Apr 2026 07:03:02 GMT | Total Security Antivirus: Your All-in-One Solution for Permanent File Deletion | Rahul yadav | [Read More](https://medium.com/p/741ec786946e) |
+| Wed, 08 Apr 2026 06:58:48 GMT | Why Cybersecurity Services in El Paso Are Now a Business Necessity — Not a Luxury | UMIT | [Read More](https://medium.com/p/ade5d3ab8b4b) |
+| Wed, 08 Apr 2026 06:53:05 GMT | An In-Depth Analysis of Security, Trustworthiness, and Digital Sovereignty | JMHBM | [Read More](https://medium.com/p/a51c697fdbeb) |
+| Wed, 08 Apr 2026 06:48:41 GMT | The Quantum Era: Industrializing Revolution and Securing the Digital Frontier (2024–2035) | Viral Parmar | [Read More](https://medium.com/p/1eaf123d2884) |
+| Wed, 08 Apr 2026 06:48:24 GMT | Smart Business IT Services That Drive Growth | wearegekko | [Read More](https://medium.com/p/af41edcb5d45) |
+| Wed, 08 Apr 2026 06:48:21 GMT | How Bug Bounty Hunters Prioritize Which Subdomain to Investigate First | Fateyaly | [Read More](https://medium.com/p/ca778e0071f9) |
+| Wed, 08 Apr 2026 06:45:25 GMT | SSL Stripping Attacks Explained(Simple + Practical) | ExploitHunter | [Read More](https://medium.com/p/0269fda9ee59) |
+| Wed, 08 Apr 2026 06:43:42 GMT | ratelimit-flex: Rate limiting that stays flexible when your stack does | Ashwinpaul | [Read More](https://medium.com/p/2d46b32c870d) |
+| Wed, 08 Apr 2026 06:43:23 GMT | Red Teaming in the Age of Generative AI | Vijay Kumar Gupta | [Read More](https://medium.com/p/b9cf8e630833) |
+| Wed, 08 Apr 2026 06:38:40 GMT | I Found a User Password in a Chat Log File Just by Changing a Number in a URL — This is How Hackers… | morgan_hack | [Read More](https://medium.com/p/7456b5ffc157) |
+| Wed, 08 Apr 2026 06:37:39 GMT | A Cheat‑Sheet to Finding Hidden Paths | Fx03 | [Read More](https://medium.com/p/9a6d5a57ebe8) |
+| Wed, 08 Apr 2026 06:30:12 GMT | Temodar Agent: Opening the Door to AI‑Powered WordPress Security Analysis | Ali Sünbül (xeloxa) | [Read More](https://medium.com/p/707bab4f9342) |
+| Wed, 08 Apr 2026 06:24:31 GMT | 7 Signs You Might Be Hacked | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/f06146685d04) |
+| Wed, 08 Apr 2026 06:22:46 GMT | Get 25% off at Slomins today. | Emily | [Read More](https://medium.com/p/5ac942cb6c32) |
+| Wed, 08 Apr 2026 06:22:41 GMT | Top SOC Analyst Skills and Interview Guide for 2026 | Aditya InfosecTrain | [Read More](https://medium.com/p/f371fe6fad46) |
+| Wed, 08 Apr 2026 06:22:12 GMT | Best IT Courses in Chennai for Freshers (2026): What Actually Gets You a Job? | Avinash | [Read More](https://medium.com/p/56edc97479c9) |
+| Wed, 08 Apr 2026 06:20:10 GMT | One Day Becomes Day One: My Journey to the Cisco AITECH Certification | Learndtech | [Read More](https://medium.com/p/2bcfb11ccbcd) |
+| Wed, 08 Apr 2026 06:14:26 GMT | Humanizing Cybersecurity Culture | Tech by Shar | [Read More](https://medium.com/p/30de7b3b079a) |
+| Wed, 08 Apr 2026 06:09:42 GMT | RUN TO GOD | Torah Magazines | [Read More](https://medium.com/p/687b3f117a70) |
+| Wed, 08 Apr 2026 06:05:03 GMT | Kunci Pintar Bermerek Dianggap Cukup Kuat, Pengguna Tak Minta Peningkatan | Abdul Halim Ichwan | [Read More](https://medium.com/p/db4353ca1803) |
+| Wed, 08 Apr 2026 06:04:54 GMT | Netmon - HTB - Walthrough - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/b0b1b5a095f3) |
+| Wed, 08 Apr 2026 06:04:12 GMT | Docker Pentesting: Types of Vulnerabilities You Must Know | Jatin  yadav | [Read More](https://medium.com/p/f99c923ab1fe) |
+| Wed, 08 Apr 2026 05:52:04 GMT | Getting Started with Cybersecurity: A Beginner’s Guide by RanjeethuGetting Started with… | Ranjeethkumar | [Read More](https://medium.com/p/9123696fb19d) |
+| Wed, 08 Apr 2026 05:52:03 GMT | Hackers Do Not Need to Be Clever. Your Password Does the Work for Them. | Iqra Masood | [Read More](https://medium.com/p/ba6e15effba7) |
 | Wed, 08 Apr 2026 05:44:03 GMT | Dark Web Hunting & Monitoring: A Practical Guide for Pentesters & Red Teamers — Part 6 | Siva Sankar | [Read More](https://medium.com/p/0240db7db4d5) |
 | Wed, 08 Apr 2026 05:36:53 GMT | Hacked Website Recovery: A Security Rescue Guide | ScopeHost Steam | [Read More](https://medium.com/p/a30051b2022e) |
 | Wed, 08 Apr 2026 05:32:44 GMT | Deliberately Vulnerable Android App Covering Every OWASP Mobile Top 10 Class | Andrey Pautov | [Read More](https://medium.com/p/7be775fc6415) |
@@ -78,37 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 07 Apr 2026 21:44:35 GMT | The Problem With Security Certifications No One Talks About | JSOC IT BLOG | [Read More](https://medium.com/p/94dbaa724622) |
 | Tue, 07 Apr 2026 21:41:40 GMT | Writeup : Command & Control — Niveau 2 | Gnahorewilfried | [Read More](https://medium.com/p/4d355d2cbcdb) |
 | Tue, 07 Apr 2026 21:37:42 GMT | OWASP Top 10 (2025) — Tryhackme (FR) | Khalil | [Read More](https://medium.com/p/21fff4ce7bc2) |
-| Tue, 07 Apr 2026 21:36:04 GMT | Home Network Hardening — Part 1 | David S. Ingram | [Read More](https://medium.com/p/09e38c7c7b3d) |
-| Tue, 07 Apr 2026 21:35:07 GMT | What “Agent Operating System” Actually Means | R. Demetri Vallejos | [Read More](https://medium.com/p/d412de273a1e) |
-| Tue, 07 Apr 2026 21:31:06 GMT | Anthropic unveils Project Glasswing — and hunts software vulnerabilities at scale | Rishi Chhabra | [Read More](https://medium.com/p/99fa026d5bad) |
-| Tue, 07 Apr 2026 21:31:05 GMT | Anthropic’s Mythos: The AI Model Too Dangerous to Release | Vamshi Kumar Reddy Kovvuri | [Read More](https://medium.com/p/d1e83ed2b094) |
-| Tue, 07 Apr 2026 21:27:46 GMT | Why Outsourcing to Cyber Security Managed Service Providers Is a Smart Business Decision | Fortnexs Shield | [Read More](https://medium.com/p/90d39ccd9916) |
-| Tue, 07 Apr 2026 21:23:13 GMT | FunboxEasy Walkthrough (Proving Ground-Play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/374fd761579a) |
-| Tue, 07 Apr 2026 21:16:26 GMT | From AI Demo to Secure System: What Engineers Miss | Sreedhar Busanelli | [Read More](https://medium.com/p/d6c9126a10f9) |
-| Tue, 07 Apr 2026 21:15:54 GMT | The Most Dangerous Hacker in the World Just Switched Sides | Sparsh Gupta | [Read More](https://medium.com/p/c138948c7bff) |
-| Tue, 07 Apr 2026 21:13:17 GMT | I’m Done Trying to Be a “Real Writer” | Jo | [Read More](https://medium.com/p/856c9e23033a) |
-| Tue, 07 Apr 2026 21:11:20 GMT | How to Build a One‑Person Content Machine: AppSumo AI Tools + Digital Notebooks + E‑book Sales… | Homiesdeals4u | [Read More](https://medium.com/p/df479d4a1fb3) |
-| Tue, 07 Apr 2026 21:09:49 GMT | TryHackMe — TakeOver CTF Writeup | Aryan Vij | [Read More](https://medium.com/p/4e7fc91b547c) |
-| Tue, 07 Apr 2026 21:08:21 GMT | Want More Profit? Here’s Why the Standard 5 Steps to Success Will Lead You to Collapse and Crisis | Oksana Ivanova | [Read More](https://medium.com/p/c8769ce6aa0f) |
-| Tue, 07 Apr 2026 21:04:05 GMT | Why Security Guard Services in Houston TX are Essential for Your Safety and Peace of Mind | F. W. Security llc | [Read More](https://medium.com/p/5ae0a08ecb0f) |
-| Tue, 07 Apr 2026 20:58:56 GMT | Armed Security Guards in Houston TX | F. W. Security llc | [Read More](https://medium.com/p/6b9f261b5919) |
-| Tue, 07 Apr 2026 20:49:02 GMT | How to Build a Voice AI Career Mentor in 28 Minutes: The “Agentic PM” Playbook | Rich Chen | [Read More](https://medium.com/p/5bcf7f987c45) |
-| Tue, 07 Apr 2026 20:48:30 GMT | Intelligent Network Security Automation: ML-Driven Anomaly Detection, Zero-Trust Enforcement, and… | Naushik Beladiya | [Read More](https://medium.com/p/80d41505ee3f) |
-| Tue, 07 Apr 2026 20:40:36 GMT | Anthropic Built Mythos, So Good, They Refused to Release It. Here is the Reality Check. | Shubham | [Read More](https://medium.com/p/8982a72e54d6) |
-| Tue, 07 Apr 2026 20:37:11 GMT | Special Edition: ActiveState’s 2025 State of Vulnerability Management & Remediation Report-Another… | Eric Gallagher | [Read More](https://medium.com/p/c20a8ed93e70) |
-| Tue, 07 Apr 2026 20:34:07 GMT | Securing the Backbone — Issue #6: The Role of Software Bills of Materials (SBOMs) in Critical… | Eric Gallagher | [Read More](https://medium.com/p/179a7706c3f9) |
-| Tue, 07 Apr 2026 20:26:04 GMT | Reflected XSS in HTML Context: A Simple Yet Dangerous Vulnerability (Portswigger) | Shayaan Khan | [Read More](https://medium.com/p/9c4d20664bd1) |
-| Tue, 07 Apr 2026 20:21:51 GMT | Production’da Yaşanan Bir Bug Nasıl Günlerce Bulunamaz? | Hakan Cengiz | [Read More](https://medium.com/p/cd0607ce3b9a) |
-| Tue, 07 Apr 2026 20:18:42 GMT | MCP Security for Enterprise Part 2: The Red Team Playbook | Tunahan TEKEOGLU | [Read More](https://medium.com/p/0611abe8d806) |
-| Tue, 07 Apr 2026 20:14:25 GMT | Security requirement traceability vs. security requirement coverage | Frank Leitner | [Read More](https://medium.com/p/abdf5dad94a6) |
-| Tue, 07 Apr 2026 20:13:12 GMT | Smart Contract Backdoors: Learning from the $137M DeFi Losses. | CryptDocker | [Read More](https://medium.com/p/073b308285c8) |
-| Tue, 07 Apr 2026 20:08:08 GMT | Lab: DOM XSS in jQuery anchor href attribute sink using location.search source | Mohamed Jemmari | [Read More](https://medium.com/p/26da87ca16d3) |
-| Tue, 07 Apr 2026 20:07:13 GMT | Security Debt in Web3: The Hidden Risk That Compounds Faster Than TVL | Exploitless | [Read More](https://medium.com/p/89e29f42ced0) |
-| Tue, 07 Apr 2026 19:59:11 GMT | Formal Proof of the BLE KNOB Attack: The Feature Exchange Was Never Authenticated | Vscorza | [Read More](https://medium.com/p/5b3e84e4b5fc) |
-| Tue, 07 Apr 2026 19:57:06 GMT | Dynamic Claims in Keycloak — Stop Hard-Coding Token Permissions | Florian Röser | [Read More](https://medium.com/p/8832ad63bc9c) |
-| Tue, 07 Apr 2026 19:54:47 GMT | FTP Enumeration & Exploitation: A Complete Step-by-Step Guide (HTB) | Mert Baykal | [Read More](https://medium.com/p/4a2b5fd57078) |
-| Tue, 07 Apr 2026 19:44:57 GMT | You like OpenClaw, right? It’s cool, gets the job done… Guidance Injection | Sebastian Obara | [Read More](https://medium.com/p/18f02ac77da1) |
-| Tue, 07 Apr 2026 19:42:27 GMT | Fingerprint First: A Structured Web App Recon-to-Exploit Framework | WolfSec | [Read More](https://medium.com/p/434487602ff2) |
-| Tue, 07 Apr 2026 19:35:59 GMT | ClamAV - Proving Grounds | Abel M | [Read More](https://medium.com/p/cc2ab93de5c5) |
-| Tue, 07 Apr 2026 19:32:58 GMT | Building a Secure Bank Network Using VLANs and Inter-VLAN Routing | Samuel Ochoche Peter | [Read More](https://medium.com/p/4a4ccfa1665d) |
-| Tue, 07 Apr 2026 19:31:17 GMT | SIM Information System Pakistan 2026 — How to Check SIM Owner Details, Number Codes & More | Siminfos | [Read More](https://medium.com/p/b18934460944) |
