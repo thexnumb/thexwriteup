@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Apr 2026 19:12:42 GMT | Understanding Dark Web AI Scams and Emerging Online Risks | Tor BBB | [Read More](https://medium.com/p/bbb6251e8ecc) |
+| Wed, 08 Apr 2026 19:09:22 GMT | Starting Fresh Online? Here’s the Best Email Setup for Security, Privacy & Peace of Mind | Warren Smith | [Read More](https://medium.com/p/8e4585a48b8f) |
+| Wed, 08 Apr 2026 19:09:21 GMT | CVE-2026–23398: PoC — A NULL Pointer in ICMP Tag Validation, and Why “One Packet” Is Never the… | KeyboardSamurai | [Read More](https://medium.com/p/dce65205c129) |
+| Wed, 08 Apr 2026 19:07:40 GMT | Hackers Stole $285 Million Over 6 Months. You Could Lose Everything in 6 Minutes. | Adam Frąckowiak | [Read More](https://medium.com/p/bb60a0750cea) |
+| Wed, 08 Apr 2026 19:06:08 GMT | Using Agents to Secure Satellites’ Supply Chain Systems | Ira Loghin | [Read More](https://medium.com/p/73b70f9e934f) |
+| Wed, 08 Apr 2026 19:01:49 GMT | eJPT Exploitation CTF 2  - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/1a41ebd5da7b) |
+| Wed, 08 Apr 2026 19:00:10 GMT | The AI That Emailed a Researcher in a Park — And What ThatTells Us About Where We Are | Erik Bernath | [Read More](https://medium.com/p/9185d9a9ddfa) |
+| Wed, 08 Apr 2026 18:58:07 GMT | Anthropic Just Changed Cybersecurity Forever — And It’s Called Project Glasswing | Devika Ambekar | [Read More](https://medium.com/p/49c36c0704c0) |
+| Wed, 08 Apr 2026 18:53:27 GMT | Claude Code Leak: Why Every Developer Building AI Systems Should Be Paying Attention | Nikhil Vikraman | [Read More](https://medium.com/p/3de38e447f2f) |
+| Wed, 08 Apr 2026 18:53:24 GMT | I’m going to be honest with you. | Aaditya Mathur | [Read More](https://medium.com/p/7ec1600de7b5) |
+| Wed, 08 Apr 2026 18:50:10 GMT | Day 14: Intercepting the Wire — Packet Sniffing and Man-in-the-Middle (MitM) Attacks | Ndu | [Read More](https://medium.com/p/18a146a61302) |
+| Wed, 08 Apr 2026 18:48:14 GMT | Day 13: Hacking the Human — The Psychology of Social Engineering and Phishing | Ndu | [Read More](https://medium.com/p/c31d6933bf5f) |
+| Wed, 08 Apr 2026 18:46:13 GMT | How We Replaced Our Entire Marketing Team With Claude Cowork (And What It Means for Your Career) | Rich Chen | [Read More](https://medium.com/p/16c1a400ab35) |
+| Wed, 08 Apr 2026 18:42:31 GMT | Anthropic has leaked data | Kankawee Aramrak | [Read More](https://medium.com/p/ce9eda598ce8) |
+| Wed, 08 Apr 2026 18:41:50 GMT | HackTheBox OverWatch CTF Writup | Saksham Baral | [Read More](https://medium.com/p/e6c18ddec7a1) |
+| Wed, 08 Apr 2026 18:32:43 GMT | The CRA Panic Is Real: Why Some Teams Are Calm — and Others Feel Like They’re Drowning | Mr.PlanB | [Read More](https://medium.com/p/4433610b0031) |
+| Wed, 08 Apr 2026 18:32:01 GMT | Episode 1: Why Hackers Love Linux (The Hacker’s Path Series) | Shivam Kumar | [Read More](https://medium.com/p/83fd8e7536ae) |
+| Wed, 08 Apr 2026 18:31:01 GMT | SQL INJECTION PART 1 | Anubhav_bora | [Read More](https://medium.com/p/5fef79e73ee4) |
+| Wed, 08 Apr 2026 18:27:53 GMT | How I Found 2 Path Traversal CVEs in PraisonAI Using AI | Himanshu Gupta | [Read More](https://medium.com/p/a3fc202491df) |
+| Wed, 08 Apr 2026 18:21:10 GMT | SMB Enumeration & Exploitation: From Zero to Full Access by Mert Baykal | Mert Baykal | [Read More](https://medium.com/p/b8986a604d98) |
+| Wed, 08 Apr 2026 18:20:08 GMT | Top 5 Beginner Vulnerabilities Every Bug Bounty Hunter Should Learn First | Riya Limba | [Read More](https://medium.com/p/b4a044e4370c) |
+| Wed, 08 Apr 2026 18:18:57 GMT | I built a production security scanner in 30 minutes — AI wrote the code, I did the thinking. | T S | [Read More](https://medium.com/p/230f482b2f04) |
+| Wed, 08 Apr 2026 17:46:20 GMT | When Favoriting Goes Rogue: Broken Access Control Flaw. ️ | Umanhonlen Gabriel | [Read More](https://medium.com/p/088c224ea2fe) |
+| Wed, 08 Apr 2026 17:42:20 GMT | Cookies Theft - Hire Professional Hacker - Hacking Services | BlackHat | [Read More](https://medium.com/p/98cb24fd727d) |
 | Wed, 08 Apr 2026 17:38:22 GMT | The Hidden Cost of Ignoring Cyber Threats (And How Cybersecurity Consultancy Services Can Save You) | Patatvaishali | [Read More](https://medium.com/p/496819fd07dd) |
 | Wed, 08 Apr 2026 17:36:17 GMT | Hacked Routers Expose Microsoft 365 Logins | Geoffrey Wenger | [Read More](https://medium.com/p/522e2604f333) |
 | Wed, 08 Apr 2026 17:28:40 GMT | Introduction: A “Junior” Perspective on a Senior Debate | Doganay Yildiz | [Read More](https://medium.com/p/6eeb074f3802) |
@@ -26,6 +50,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Apr 2026 16:54:10 GMT | A Paradigm Shift in Maravel Queues: Securing Asynchronous Execution with Array Callables | marius-ciclistu | [Read More](https://medium.com/p/7282418289b8) |
 | Wed, 08 Apr 2026 16:53:40 GMT | Testing .NET MAUI Android Apps: A Penetration Tester’s Guide | GypsyCrushader | [Read More](https://medium.com/p/9e973920c564) |
 | Wed, 08 Apr 2026 16:49:12 GMT | Powering the Future: Why India’s Latest Nuclear Milestone is a Victory for the Tech Generation… | Rohit Prajapati | [Read More](https://medium.com/p/6633f18afb4d) |
+| Wed, 08 Apr 2026 16:25:52 GMT | Claude Mythos Preview: When Your AI Can Find Bugs Better Than Your Security Team | Bryan Chuinkam | [Read More](https://medium.com/p/d1cef1a6845d) |
 | Wed, 08 Apr 2026 16:23:25 GMT | Shodan Recon Important Stuff | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/de6aba58e445) |
 | Wed, 08 Apr 2026 16:19:52 GMT | Welcome ‍♂️- Hack Smarter Walkthrough | WireHawk Security | [Read More](https://medium.com/p/950a82670fbb) |
 | Wed, 08 Apr 2026 16:12:06 GMT | Southampton now join City, Chelsea, and Leeds in the last four — proof that in the FA Cup, form… | Monica Snell | [Read More](https://medium.com/p/066f7eb86dba) |
@@ -88,28 +113,3 @@ While many consider Telnet a relic of the… | M. Mahmudul Hassan | [Read More](
 | Wed, 08 Apr 2026 13:01:25 GMT | Claude Can Now Hack Your Stack (or Save It): Why AI Security Just Became a Boardroom Problem | Rakeshkhanduja | [Read More](https://medium.com/p/92c63a046ed8) |
 | Wed, 08 Apr 2026 13:01:01 GMT | Worms, Wipes, and RCEs: Cyber Threats rising in the AI era | Sabbir Rahman | [Read More](https://medium.com/p/3b6e93a0520a) |
 | Wed, 08 Apr 2026 12:56:48 GMT | How Your Digital Payments Are Changing: The RBI’s New Rules for Protecting Your Money | Deepika bawa | [Read More](https://medium.com/p/584913efa288) |
-| Wed, 08 Apr 2026 12:56:29 GMT | The Dawn of AI Hackers: What Anthropic’s Claude Mythos Means for the Future of Cybersecurity | Divanshu | [Read More](https://medium.com/p/90fe4a51cc7c) |
-| Wed, 08 Apr 2026 12:51:01 GMT | Information Technology Trends in 2026 | Xwtempsolutions | [Read More](https://medium.com/p/b19595d5ee31) |
-| Wed, 08 Apr 2026 12:49:05 GMT | Android APK Vulnerability Research Complete Guide | Andrey Pautov | [Read More](https://medium.com/p/a8fcae0f4849) |
-| Wed, 08 Apr 2026 12:45:36 GMT | Unauthorized Access to Premium Content via Client-Side Security Flaw | LogicHunter | [Read More](https://medium.com/p/efd0dd4e7c26) |
-| Wed, 08 Apr 2026 12:45:02 GMT | Voice Agents in Healthcare: From Missed Calls to Intelligent Patient Experiences | Defenate Labs | [Read More](https://medium.com/p/a2ad0cb6af6b) |
-| Wed, 08 Apr 2026 12:43:56 GMT | Tech Hiring in 2026: What Employers Should Prioritise Before Opening a Role | Base Camp | [Read More](https://medium.com/p/0c7addf7f9b0) |
-| Wed, 08 Apr 2026 12:37:13 GMT | Most Hackers Do This Wrong — Here’s How Bugs Are Actually Found in 2026 | Pradeeptadi | [Read More](https://medium.com/p/2448a2166198) |
-| Wed, 08 Apr 2026 12:35:53 GMT | How I Created and Shared a Vulnerable EXE Lab (Step-by-Step Setup Guide) | Madhumathi chamarthi | [Read More](https://medium.com/p/85d340db6f13) |
-| Wed, 08 Apr 2026 12:34:49 GMT | Reversing XAMARIN Mobile Applications | Akash Katare | [Read More](https://medium.com/p/3910a857444d) |
-| Wed, 08 Apr 2026 12:33:42 GMT | Full Kill Chain — From Recon → Root → Lateral → Real Impact | ghostyjoe | [Read More](https://medium.com/p/444553e01c08) |
-| Wed, 08 Apr 2026 12:29:04 GMT | The Rise of AI: Transforming the Future of Technology | Hs Hmrtech | [Read More](https://medium.com/p/6a25e8970646) |
-| Wed, 08 Apr 2026 12:28:21 GMT | JADX + MCP: I let the AI read the APK so I don’t have to | Xcheater | [Read More](https://medium.com/p/548d1e8210e6) |
-| Wed, 08 Apr 2026 12:21:39 GMT | You Don’t Need an IP API to Know Where Your Users Are | berastis | [Read More](https://medium.com/p/6adf241a440a) |
-| Wed, 08 Apr 2026 12:20:35 GMT | Rockets and Feathers: An Economic Theory That Explains Your Biggest Cyber Risks | Rai Miralles Febrer | [Read More](https://medium.com/p/592e3ee2a108) |
-| Wed, 08 Apr 2026 12:16:32 GMT | Not All Vulnerabilities Are Equal: Understanding CVSS the Right Way | Manjubharati | [Read More](https://medium.com/p/9d3d47b36072) |
-| Wed, 08 Apr 2026 12:16:25 GMT | Hiring for an AI-First World: Skills, Mindset, and What Matters Now | Tantranzm | [Read More](https://medium.com/p/40f66ebe6653) |
-| Wed, 08 Apr 2026 12:06:01 GMT | Turbo Intruder: The Burp Suite Extension That Makes Community Edition Intruder Actually Useful | Ajay Yadav | [Read More](https://medium.com/p/4ee61890464f) |
-| Wed, 08 Apr 2026 12:05:06 GMT | Web-RTA Certification: A Hands-On Journey in Modern Web Exploitation | L4V4NY4  AGR3 | [Read More](https://medium.com/p/44d53d0683a5) |
-| Wed, 08 Apr 2026 11:59:48 GMT | WordPress Plugin Vulnerabilities in 2026: The Attack Surface Most Site Owners Ignore | Nils Eriksson | [Read More](https://medium.com/p/f6c66219b655) |
-| Wed, 08 Apr 2026 11:58:55 GMT | Top Signs You’re Working With The Best Security Company In Singapore | Jane Tang | [Read More](https://medium.com/p/1f9d33f0a1d5) |
-| Wed, 08 Apr 2026 11:57:00 GMT | Building Phishing Detection That Works: 3 Steps for CISOs | ANY.RUN | [Read More](https://medium.com/p/05556ae6c905) |
-| Wed, 08 Apr 2026 11:56:50 GMT | Your LLM Has Defenses. I Built 22 Attacks to Find Out If They Work | The Hidden Layer | [Read More](https://medium.com/p/fb55ae021e47) |
-| Wed, 08 Apr 2026 11:54:16 GMT | Your Vibe-Coded App Almost Certainly Has Security Holes. Here’s How To Catch Them. | Christopher Montes | [Read More](https://medium.com/p/caa212c67abc) |
-| Wed, 08 Apr 2026 11:51:49 GMT | Goodbye S3 SDK! AWS Just Turned Every Bucket Into a High-Speed Hard Drive | Dhanush N | [Read More](https://medium.com/p/66ad8ee74351) |
-| Wed, 08 Apr 2026 11:41:21 GMT | SEO for Voice Assistants: The Complete Guide to Winning Voice Search | Jellyfr | [Read More](https://medium.com/p/4c36445e381b) |
