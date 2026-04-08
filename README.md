@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Apr 2026 23:56:01 GMT | The AI That Escaped Its Sandbox: What Claude Mythos Reveals About the Future of Cybersecurity | Martti Dumangeng | [Read More](https://medium.com/p/5f62a2936c75) |
+| Wed, 08 Apr 2026 23:43:37 GMT | Blogger Walkthrough (Proving Ground-Play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/687873143fa5) |
+| Wed, 08 Apr 2026 23:33:02 GMT | Secure by Design vs Secure by Default | Frank Leitner | [Read More](https://medium.com/p/63f14543268e) |
+| Wed, 08 Apr 2026 23:23:18 GMT | securemix: A Cryptographically Secure Password Generator for Node.js Built for Production | Innoartive Labs | [Read More](https://medium.com/p/7bdef0e9b1ed) |
+| Wed, 08 Apr 2026 23:13:47 GMT | I Finished Claude’s AI Courses. Here’s Why Most People Are Using AI Dangerously (And Don’t Know It) | Shamila azeem | [Read More](https://medium.com/p/3e3a8506e5bb) |
+| Wed, 08 Apr 2026 23:11:40 GMT | AI will leave cybersecurity experts out of the game | Mahir YUKSEL | [Read More](https://medium.com/p/1c204b8b218e) |
+| Wed, 08 Apr 2026 23:11:09 GMT | Remote - HackTheBox - Walthrough - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/dafad5eb28e1) |
 | Wed, 08 Apr 2026 23:01:02 GMT | HackTheBox: Tenten — My First Taste of CTFs | Divya | [Read More](https://medium.com/p/65b6c533f90d) |
 | Wed, 08 Apr 2026 22:54:56 GMT | What Is SkyeProfile? Eight Experts, One Call, Complete Wallet Trust | Douglas Borthwick | [Read More](https://medium.com/p/ebbc725ae12d) |
 | Wed, 08 Apr 2026 22:52:46 GMT | Git Leaks — Quais seus benefícios? | Juliana Galvao Miyaki | [Read More](https://medium.com/p/bc02ae31cd73) |
@@ -106,10 +113,3 @@ Escalation) | Ahmed Mahmoud | [Read More](https://medium.com/p/7a39ba5152cb) |
 | Wed, 08 Apr 2026 16:08:34 GMT | From Zero to Bug Bounty Hunter in 59 Days (Day 01) | Hamim Islam | [Read More](https://medium.com/p/8923f599144f) |
 | Wed, 08 Apr 2026 16:08:07 GMT | มิจฉาชีพมาเลเซียล่าเหยื่อคนไทยผ่าน WhatsApp | CSRI | [Read More](https://medium.com/p/641e73561567) |
 | Wed, 08 Apr 2026 16:07:57 GMT | Custom C2 Agents for Red Team Operations | S12 - 0x12Dark Development | [Read More](https://medium.com/p/61d040ad7374) |
-| Wed, 08 Apr 2026 16:06:09 GMT | The Next JavaScript Malware Story Will Look Like Remote Work Gone Wrong | The Atomic Architect | [Read More](https://medium.com/p/5a2c14bc850d) |
-| Wed, 08 Apr 2026 16:05:19 GMT | Steganography Explained | Jude Canady | [Read More](https://medium.com/p/c05d16bc1685) |
-| Wed, 08 Apr 2026 16:03:38 GMT | How Complexity Expands Attack Surface | Cipher Citadel (Ci2) | [Read More](https://medium.com/p/e4168afedaa5) |
-| Wed, 08 Apr 2026 16:02:55 GMT | CVE-2026–0233 The Fliegenfalle: Turning a THOR Alert into SYSTEM-Level RCE | David Fischer | [Read More](https://medium.com/p/76f5b0160246) |
-| Wed, 08 Apr 2026 16:02:24 GMT | Yahoo Technical Support Services UK | Zuerevalexander | [Read More](https://medium.com/p/dc91d4e1155a) |
-| Wed, 08 Apr 2026 16:02:00 GMT | The First Analysts | Anupam Pratap Singh | [Read More](https://medium.com/p/7d4e914068ae) |
-| Wed, 08 Apr 2026 15:52:36 GMT | McAfee Antivirus Technical Support Phone Number UK | Zuerevalexander | [Read More](https://medium.com/p/b0dca4746ed9) |
