@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 08 Apr 2026 20:49:29 GMT | Securing the Backbone — Issue #8: Open Source Meets NERC CIP — Are You Ready for the Compliance… | Eric Gallagher | [Read More](https://medium.com/p/a6b42473a95d) |
+| Wed, 08 Apr 2026 20:49:21 GMT | Securing the Backbone: Issue #7: The Open-Source Software Dilemma — Innovation vs. Risk | Eric Gallagher | [Read More](https://medium.com/p/306811481c97) |
+| Wed, 08 Apr 2026 20:43:49 GMT | How I Became an Organization Owner via Invite Manipulation (Privilege
+Escalation) | Ahmed Mahmoud | [Read More](https://medium.com/p/7a39ba5152cb) |
+| Wed, 08 Apr 2026 20:43:20 GMT | What One Unsubscribe Link Revealed About Cross-Site Tracking | Piyush Agrawal | [Read More](https://medium.com/p/032211645a6b) |
+| Wed, 08 Apr 2026 20:24:00 GMT | Stop Guessing XSS Payloads | Marduk I Am | [Read More](https://medium.com/p/881cad409624) |
+| Wed, 08 Apr 2026 20:20:58 GMT | The 5 Biggest Security Flaws in Shared Hosting That Put Your Clients at Risk | Clear Practise Founder | [Read More](https://medium.com/p/f44d7c0c9b3f) |
+| Wed, 08 Apr 2026 20:13:22 GMT | The Cost of Building Software Just Went to Zero. So Did the Cost of Breaking It. | Vishwamdhavale | [Read More](https://medium.com/p/eb34af5f850a) |
+| Wed, 08 Apr 2026 20:12:15 GMT | When Real-Time Becomes Real Risk: A WebSocket Security Lesson from Club Penguin | DaLuna | [Read More](https://medium.com/p/e77a9eba4a69) |
+| Wed, 08 Apr 2026 20:11:40 GMT | Java or Python? The Question Every Student Asks, I Was Confused Too — Here’s What Changed My Mind | Palak Jaiswal | [Read More](https://medium.com/p/d11b91663511) |
+| Wed, 08 Apr 2026 20:11:01 GMT | Smart Leaders Treat AI Like Fire | Jon Conradt | [Read More](https://medium.com/p/32ea3c3d02e5) |
+| Wed, 08 Apr 2026 20:06:13 GMT | The AI Cyber-Arms Race Has Begun. And Anthropic Just Fired the Warning Shot. | Mohit_Yadav | [Read More](https://medium.com/p/baef51f7c4d3) |
 | Wed, 08 Apr 2026 19:54:34 GMT | Why Therapists Are Finally Leaving AWS for Sovereign Hosting | Clear Practise Founder | [Read More](https://medium.com/p/d65864b07ebd) |
 | Wed, 08 Apr 2026 19:46:01 GMT | The Identity Illusion in AI Integration | Xiaoning Sun | [Read More](https://medium.com/p/7f8378fcd08b) |
 | Wed, 08 Apr 2026 19:43:48 GMT | State Management + Security: Why Sensitive Data Needs a Runtime, Not Just State | Italo Matos | [Read More](https://medium.com/p/e580dafa37a1) |
@@ -21,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Apr 2026 19:30:02 GMT | SAST vs DAST: Why Using Only One Will Fail Your Security Strategy | CodewithSooryavanshi | [Read More](https://medium.com/p/3f8f08ee85a4) |
 | Wed, 08 Apr 2026 19:27:58 GMT | We’re Open-Sourcing 3 Tools We Built to Scan European Websites | Steven - TrustYourWebsite | [Read More](https://medium.com/p/fbd5519b441e) |
 | Wed, 08 Apr 2026 19:15:50 GMT | Water Bottle Tryhackme Writeup | Jawstar | [Read More](https://medium.com/p/6804e39a8ee9) |
+| Wed, 08 Apr 2026 19:12:52 GMT | Thinking Like an Attacker: Inside APT28’s Silent War | Nathalietchoumi | [Read More](https://medium.com/p/0bc8395f7a50) |
 | Wed, 08 Apr 2026 19:12:43 GMT | Beyond Opus: Decoding the “Dangerous” Reasoning of Claude Mythos | Rashed Al-Lahaseh | [Read More](https://medium.com/p/c69de167ab77) |
 | Wed, 08 Apr 2026 19:12:42 GMT | Understanding Dark Web AI Scams and Emerging Online Risks | Tor BBB | [Read More](https://medium.com/p/bbb6251e8ecc) |
 | Wed, 08 Apr 2026 19:09:22 GMT | Starting Fresh Online? Here’s the Best Email Setup for Security, Privacy & Peace of Mind | Warren Smith | [Read More](https://medium.com/p/8e4585a48b8f) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Apr 2026 14:19:13 GMT | Latest Technology Trends in 2026 You should Know: | Hamzataha | [Read More](https://medium.com/p/92d07ea8d44f) |
 | Wed, 08 Apr 2026 14:17:37 GMT | What You Need to Know About Ethical Hacking and Coding in 2026 | FlymingoTech | [Read More](https://medium.com/p/b08b34a6345f) |
 | Wed, 08 Apr 2026 14:17:22 GMT | The AI Arms Race Just Got Racier | Chuck Russell | [Read More](https://medium.com/p/820453362c7f) |
-| Wed, 08 Apr 2026 14:16:01 GMT | Anthropic Mythos: AI at the Edge of History | Adam Petritsis | [Read More](https://medium.com/p/da8f7193979f) |
-| Wed, 08 Apr 2026 14:12:11 GMT | Attack Surface Management (ASM): Kendi Varlıklarını Bir Hacker Gibi İzle | Fatih UYSAL | [Read More](https://medium.com/p/274b12472c69) |
-| Wed, 08 Apr 2026 14:11:25 GMT | TresPax-The Power Recon & Enumeration Tool | Ishant | [Read More](https://medium.com/p/fedfc075d2ab) |
-| Wed, 08 Apr 2026 14:08:24 GMT | API Security: Modern Web’in Görünmez Saldırı Yüzeyi | Fatih UYSAL | [Read More](https://medium.com/p/539842d856f6) |
-| Wed, 08 Apr 2026 13:55:16 GMT | Phishing Basics (THM) Tryhackme Walkthrough With Answer | Lawvye | [Read More](https://medium.com/p/b491e8e4afee) |
-| Wed, 08 Apr 2026 13:47:41 GMT | Mastering the Grid: A Deep Dive into Telnet Enumeration
-While many consider Telnet a relic of the… | M. Mahmudul Hassan | [Read More](https://medium.com/p/67949166814d) |
-| Wed, 08 Apr 2026 13:41:55 GMT | Observations with my Right Eye — Day 10 — In the Head and in the World | Adam Amada | [Read More](https://medium.com/p/21d0c1083ee3) |
-| Wed, 08 Apr 2026 13:41:40 GMT | TryHackMe — Missing Person Write-up (OSINT Investigation) | Priyam chauhan | [Read More](https://medium.com/p/2b0f1b408a06) |
-| Wed, 08 Apr 2026 13:37:37 GMT | CCTV Installation Basics Everyone Should Understand | IT Solution Dubai | [Read More](https://medium.com/p/abef07c8ae2a) |
-| Wed, 08 Apr 2026 13:36:15 GMT | WP FILE UPLOAD PLUGIN | Jane Brian | [Read More](https://medium.com/p/0f3a811206ce) |
-| Wed, 08 Apr 2026 13:31:24 GMT | Hunting on Flipkart: When Product Specs Become Payloads | Vanshrathore | [Read More](https://medium.com/p/f3d59f3a455a) |
-| Wed, 08 Apr 2026 13:28:47 GMT | Wgel CTF — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/d3e88b51aee7) |
