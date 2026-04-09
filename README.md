@@ -12,9 +12,38 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Apr 2026 17:28:57 GMT | Anthropic Built the Most Powerful AI in the World. Then, Decided You Can’t Have It. | Bhandarijuhi | [Read More](https://medium.com/p/feab5ee1572a) |
+| Thu, 09 Apr 2026 17:28:30 GMT | We Faked a Tool. It Hijacked an AI Agent and Fed Users Lies and can do so much more. | Eklavya Tyagi | [Read More](https://medium.com/p/46e183071d21) |
+| Thu, 09 Apr 2026 17:26:47 GMT | What's the main point of disruptive technology in defense? | Mijaindholiya | [Read More](https://medium.com/p/624968bedcbd) |
+| Thu, 09 Apr 2026 17:24:55 GMT | Inside the SolarWinds Hack: How 18,000 Organizations Were Compromised Without Knowing | Moksh45 | [Read More](https://medium.com/p/d48fb5c964c0) |
+| Thu, 09 Apr 2026 17:24:24 GMT | I Tested 10 Security Cameras Without Subscription for 6 Months | Lucasbernard | [Read More](https://medium.com/p/0d1b90caf4e5) |
+| Thu, 09 Apr 2026 17:23:10 GMT | Breaking and Defending PROFINET: A Hands-On Deep Dive into OT Security | Nahit Sogutlu | [Read More](https://medium.com/p/8af2e30343b1) |
+| Thu, 09 Apr 2026 17:20:33 GMT | Why Networking is Important for a Cybersecurity Career? | Anjalikashyapakk | [Read More](https://medium.com/p/279beaf643d3) |
+| Thu, 09 Apr 2026 17:14:24 GMT | The Myth of Digital Anonymity (Case Study): India’s Most Sophisticated Darknet Drug Kingpin Still… | Sethu Satheesh | [Read More](https://medium.com/p/0a3e8075b3f9) |
+| Thu, 09 Apr 2026 17:13:05 GMT | How We Stream Live Security Cameras to Any Browser Without an AWS Bill That Kills the Business | Nic Mapogha | [Read More](https://medium.com/p/fbe5c1011a41) |
+| Thu, 09 Apr 2026 17:01:49 GMT | TryHackMe Cyber Security 101: From Curiosity to Real Understanding | Tanay Shah | [Read More](https://medium.com/p/831143094f9e) |
+| Thu, 09 Apr 2026 17:01:40 GMT | The Quiet Ache of Not Being Truly Heard | HUBTY | [Read More](https://medium.com/p/1127bef7bf94) |
+| Thu, 09 Apr 2026 17:00:05 GMT | OWASP Top 10 2025: Breaking Down IAAA Failures (TryHackMe Walkthrough) | cybrNK | [Read More](https://medium.com/p/a71c75b0bfd1) |
+| Thu, 09 Apr 2026 16:59:43 GMT | Game Zone — TryHackMe: Walkthrough | Anonymousd | [Read More](https://medium.com/p/350c4c7b600a) |
+| Thu, 09 Apr 2026 16:56:01 GMT | I Want a Personal Agent. I’m Not Running One Yet — Here’s What Would Change That | Haggai Philip Zagury | [Read More](https://medium.com/p/18f99cec593b) |
+| Thu, 09 Apr 2026 16:55:27 GMT | ClawJacked, Axios, and the Autonomous Agent Problem | Haggai Philip Zagury | [Read More](https://medium.com/p/e64a9a6935f1) |
+| Thu, 09 Apr 2026 16:53:28 GMT | Spy on cheating husband’s cell phone | Michael Parks | [Read More](https://medium.com/p/e863907137db) |
+| Thu, 09 Apr 2026 16:45:29 GMT | How to Secure Your Home in Toronto & GTA: A 2026 Guide | AlexBryn | [Read More](https://medium.com/p/5f80157636dc) |
+| Thu, 09 Apr 2026 16:35:02 GMT | Spotify’s Playlist Search Has a Sneaky State Bug | Avinash Ratnam | [Read More](https://medium.com/p/1ec437981c3b) |
+| Thu, 09 Apr 2026 16:30:18 GMT | Understanding Dark Web AI Fraud: Risks, Trends, and Digital Threats | Tor BBB | [Read More](https://medium.com/p/904a05592bf5) |
+| Thu, 09 Apr 2026 16:22:25 GMT | Unspoken | Muthasaloni | [Read More](https://medium.com/p/08ad82e2d195) |
+| Thu, 09 Apr 2026 16:21:38 GMT | Consistency, Comfort, and Efficiency: The Foundation of Better Daily Life | creative vision | [Read More](https://medium.com/p/a4933537b75b) |
+| Thu, 09 Apr 2026 16:17:56 GMT | The Physical Layer Nobody Governed | Anna Jacobi | [Read More](https://medium.com/p/d8c074b8db66) |
+| Thu, 09 Apr 2026 16:15:14 GMT | The Windows Forensic Journey — Rich Header | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/caafc4b06312) |
+| Thu, 09 Apr 2026 16:13:04 GMT | The AI Act : The EU’s AI Regulation | D3ad_M3m0r13s | [Read More](https://medium.com/p/25e016062ced) |
+| Thu, 09 Apr 2026 16:06:11 GMT | The SIEM Query Language That Keeps Showing Up in SOC Analyst Job Postings (And Nobody Is Prepping… | Jbird | [Read More](https://medium.com/p/df1a8bef29c1) |
 | Thu, 09 Apr 2026 16:01:21 GMT | When “Safe” Isn’t Safe: The Axios Supply Chain Scare That Shook Developers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/0c10e66c28f0) |
+| Thu, 09 Apr 2026 16:01:04 GMT | Part 8: Bringing the design together: Teams, Roadmap, and How to Know It’s Working | Aparna Ash Himmatramka | [Read More](https://medium.com/p/37e75b603613) |
 | Thu, 09 Apr 2026 16:01:01 GMT | Gift Lab (BAC) Bugforge | 7s26Simon | [Read More](https://medium.com/p/48f0318ba9ed) |
+| Thu, 09 Apr 2026 16:00:49 GMT | Princess Kate Warns: Excessive Tech Use Is Disconnecting Families | BabaNath | [Read More](https://medium.com/p/00e97777706d) |
+| Thu, 09 Apr 2026 16:00:06 GMT | How to Validate HMAC-Signed and Custom-Signature APIs | Akshat Virmani | [Read More](https://medium.com/p/14d4a347497c) |
 | Thu, 09 Apr 2026 15:54:07 GMT | Justiss Goode’s Benable Store is Now Open for Business | Justiss Goode | [Read More](https://medium.com/p/71bc493838a7) |
+| Thu, 09 Apr 2026 15:51:18 GMT | AI and Computer Security: The Impending Doompocalypse | Wade Woolwine | [Read More](https://medium.com/p/a3e1fd93cdac) |
 | Thu, 09 Apr 2026 15:50:20 GMT | Supply Chain Attacks in NPM: How One Dependency Can Compromise Everything | Narendar Battula (nArEn) | [Read More](https://medium.com/p/59389c619d59) |
 | Thu, 09 Apr 2026 15:48:58 GMT | Proxy Testing Tools (Speed, Anonymity, Reliability) | Patricia Morales | [Read More](https://medium.com/p/7d8f5b5a6c5b) |
 | Thu, 09 Apr 2026 15:43:59 GMT | Making Users Strong Again: How Rainbow Secure Is Redefining Authentication with rSecureKey and… | Dr. Shashi Karhail | [Read More](https://medium.com/p/2a920ea2adcf) |
@@ -83,32 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 11:51:08 GMT | Most FinTech Apps Get KYC and Data Security Wrong. Here’s What Actually Works | Varsha Ojha | [Read More](https://medium.com/p/34f35cb856ac) |
 | Thu, 09 Apr 2026 11:50:12 GMT | STOP STORING ‘JWT’ IN LOCAL STORAGE!!!!!!! | Pratyush Pandey | [Read More](https://medium.com/p/569cdada33b8) |
 | Thu, 09 Apr 2026 11:49:32 GMT | The dirty secret of AI-generated code: It ships fast and breaks quietly | Cloudsmith | [Read More](https://medium.com/p/9b9286499c4e) |
-| Thu, 09 Apr 2026 11:40:48 GMT | Mystic C2 Server — 101 | Miraç Küçük | [Read More](https://medium.com/p/123a19b7ae66) |
-| Thu, 09 Apr 2026 11:37:37 GMT | Building Guardrail CI: An Automated DevSecOps Pipeline That Blocks Insecure Code Before It Ships | Shyam kakkad | [Read More](https://medium.com/p/be73d8e367e9) |
-| Thu, 09 Apr 2026 11:37:17 GMT | When a Drone Deal Becomes Diplomacy: Japanese Drone Company, Ukraine, and the Political Life of… | Itta | [Read More](https://medium.com/p/871c97dc082c) |
-| Thu, 09 Apr 2026 11:37:08 GMT | The Week We Gave AI Access But Never Set the Limits | Rishabh Singh | [Read More](https://medium.com/p/7d2b7b8d22d9) |
-| Thu, 09 Apr 2026 11:36:01 GMT | Why Sales Efforts Don’t Always Turn Into Revenue | Periscope Tech | [Read More](https://medium.com/p/f9a551e27aea) |
-| Thu, 09 Apr 2026 11:34:03 GMT | TryHackMe Built an AI Pentester Using Your Behavior Data. Here’s the Full Story. | Dfaults | [Read More](https://medium.com/p/caac73f6a4e0) |
-| Thu, 09 Apr 2026 11:33:13 GMT | Data Privacy in Cloud Computing: How to Protect Sensitive Information in 2026 | Cloudegytechnology | [Read More](https://medium.com/p/09ced0464217) |
-| Thu, 09 Apr 2026 11:31:01 GMT | Anthropic Just Released an AI That Can Break Into Systems That Have Been “Secure” for 27 Years | Yashraj | [Read More](https://medium.com/p/5239e71e39e7) |
-| Thu, 09 Apr 2026 11:30:20 GMT | Novus Aegis AI: The Honeypot That Thinks, Adapts, and Fights Back | Novus Aegis Ai | [Read More](https://medium.com/p/a7a9cb45df21) |
-| Thu, 09 Apr 2026 11:29:05 GMT | Content Readability and SEO: How to Write for People and Search Engines | TechCore | [Read More](https://medium.com/p/362807af50f5) |
-| Thu, 09 Apr 2026 11:28:31 GMT | How North Korea Pulled Off a $270M Crypto Heist in 60 Seconds — And What AI-Powered Cybersecurity… | Novus Aegis Ai | [Read More](https://medium.com/p/1a8889c53003) |
-| Thu, 09 Apr 2026 11:21:21 GMT | Certified Linux training and internship program for beginners | cyber security Updates | [Read More](https://medium.com/p/0faf4fe59e33) |
-| Thu, 09 Apr 2026 11:21:00 GMT | Microsoft Login Bug: “Too Many Incorrect Attempts” Error (When Password Is Correct) | Heather | [Read More](https://medium.com/p/159ba05670f1) |
-| Thu, 09 Apr 2026 11:20:08 GMT | CLAUDE: From Reliable Assistant to Persistent Sabotage: An Independent AI Researcher’s Analysis of… | Berend Watchus | [Read More](https://medium.com/p/fe8f723db628) |
-| Thu, 09 Apr 2026 11:16:01 GMT | Hip Flask Tryhackme Room Writeup | MainEkHacker | [Read More](https://medium.com/p/44e20081cd15) |
-| Thu, 09 Apr 2026 11:12:04 GMT | Mystic C2 Server - 101 (TR) | Miraç Küçük | [Read More](https://medium.com/p/2c94358abc75) |
-| Thu, 09 Apr 2026 11:09:37 GMT | The Trivy Supply Chain Breach: When the Shield Becomes the Sword | Poushali Chattopadhyay | [Read More](https://medium.com/p/d118fc43e7fa) |
-| Thu, 09 Apr 2026 11:08:44 GMT | Investment Banking Market Size, Share, Industry Growth — 2035 | NIkita Poplai | [Read More](https://medium.com/p/6e672997cc72) |
-| Thu, 09 Apr 2026 11:08:37 GMT | The “Select-Your-User” Flaw: A Tale of Broken Access Control | Omkapri | [Read More](https://medium.com/p/ae1bd57bf733) |
-| Thu, 09 Apr 2026 11:03:29 GMT | TOOLCHAIN PALING MASUK AKAL (WEB / APP / SERVER) | Ruben Kristian Hamonangan Tambunan | [Read More](https://medium.com/p/938065c575b6) |
-| Thu, 09 Apr 2026 11:02:34 GMT | My Journey into Cybersecurity: Completing Cisco’s Introduction Course | Hamim Islam | [Read More](https://medium.com/p/80b066a99adc) |
-| Thu, 09 Apr 2026 11:01:01 GMT | Understanding CWE-347: Improper Verification of Cryptographic Signature | Walter Moar | [Read More](https://medium.com/p/e7746749e488) |
-| Thu, 09 Apr 2026 10:56:20 GMT | 10 Ways to Improve Cyber Security and Protect Your Data (2026 Guide) | CyberWisy | [Read More](https://medium.com/p/0ab95afcdb42) |
-| Thu, 09 Apr 2026 10:51:32 GMT | Security Is a Myth | aditya | [Read More](https://medium.com/p/7ca60faa7d16) |
-| Thu, 09 Apr 2026 10:48:28 GMT | Pass-the-Hash & Mimikatz : Stealing Credentials and Owning a Domain Controller | ɧrιsнi rajeeѵ | [Read More](https://medium.com/p/12dbc268d253) |
-| Thu, 09 Apr 2026 10:47:09 GMT | B2B Telecommunication Market Outlook & Industry Trends 2033 | NIkita Poplai | [Read More](https://medium.com/p/1fcb854a1b3a) |
-| Thu, 09 Apr 2026 10:44:21 GMT | Microsoft Sentinel Made Simple: A Beginner’s Guide to SIEM | Codelearner | [Read More](https://medium.com/p/6be2f739d957) |
-| Thu, 09 Apr 2026 10:43:59 GMT | ประจำวันพฤหัสบดีที่ 9 เมษายน 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/1b933a63e5c7) |
-| Thu, 09 Apr 2026 10:40:57 GMT | How to Store Cryptocurrency Safely | CryptoPulse.News | [Read More](https://medium.com/p/0b4e61af7c25) |
