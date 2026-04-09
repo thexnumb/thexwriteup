@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Apr 2026 20:01:25 GMT | Understanding GRC in Cybersecurity: A Practical, Tech-Driven Guide | Aparna Mishra | [Read More](https://medium.com/p/5011bf74c2ae) |
+| Thu, 09 Apr 2026 19:56:43 GMT | Sosyal Mühendilik | Mehmetdnz | [Read More](https://medium.com/p/39e208a79d53) |
+| Thu, 09 Apr 2026 19:45:13 GMT | Securing Intent : The Next Frontier in AI Agent Protection | Justin Albrethsen | [Read More](https://medium.com/p/00106ce53c88) |
+| Thu, 09 Apr 2026 19:37:25 GMT | Pentest Aşamaları Nelerdir? | Mehmetdnz | [Read More](https://medium.com/p/c2815323245c) |
+| Thu, 09 Apr 2026 19:32:00 GMT | Stop Using Old Threat Models for Agentic AI .. Here’s What Actually Works | Taimur Ijlal | [Read More](https://medium.com/p/c35be853b453) |
+| Thu, 09 Apr 2026 19:31:01 GMT | Elastic: Using Elastic Defend - TryHackMe - Elastic | Jose Praveen | [Read More](https://medium.com/p/b601f6a57dcb) |
+| Thu, 09 Apr 2026 19:29:27 GMT | Traffic Fılter — by CyberFılter | Hiranur Gemalmaz | [Read More](https://medium.com/p/ab16f24b2509) |
+| Thu, 09 Apr 2026 19:22:41 GMT | Digital Forensics in the Age of Artificial Intelligence: The Construction of Reality and… | Ziya Gokalp | [Read More](https://medium.com/p/062c24bffd94) |
+| Thu, 09 Apr 2026 19:20:06 GMT | Quantum Breaks Static Credentials. Wallet Auth Was Never Static. | Douglas Borthwick | [Read More](https://medium.com/p/08612df0f3be) |
+| Thu, 09 Apr 2026 19:16:10 GMT | TryHackMe Writeup: The Sticker Shop | Berkay AĞGÜL | [Read More](https://medium.com/p/56e04557bb05) |
+| Thu, 09 Apr 2026 19:14:33 GMT | Agent Context Graphs and Safe Autonomy | sharathr | [Read More](https://medium.com/p/af8e4a526965) |
+| Thu, 09 Apr 2026 19:12:02 GMT | DeepContext: Defending Against Multi-Turn Agent Attacks with Context-Aware Guardrails | sharathr | [Read More](https://medium.com/p/32bfe795e9f0) |
+| Thu, 09 Apr 2026 19:09:22 GMT | CyberDev Weekly Brief | Devore McIntosh | [Read More](https://medium.com/p/7bdcbbb92598) |
 | Thu, 09 Apr 2026 18:53:01 GMT | You Are Not Your Stack | Susan Brearley | [Read More](https://medium.com/p/1c76255b6c05) |
 | Thu, 09 Apr 2026 18:50:25 GMT | Day 16: The Client-Side Betrayal — Unmasking Cross-Site Scripting (XSS) | Ndu | [Read More](https://medium.com/p/2f67eb653c3b) |
 | Thu, 09 Apr 2026 18:49:42 GMT | Day 15: The Database Siege — Demystifying SQL Injection (SQLi) | Ndu | [Read More](https://medium.com/p/68a4b8574862) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 13:47:49 GMT | VulnNet: dotjar (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/ff12b71158df) |
 | Thu, 09 Apr 2026 13:43:08 GMT | ESET Antivirus Customer Support Number Australia | Customer Support Information | [Read More](https://medium.com/p/c8cc3afaa445) |
 | Thu, 09 Apr 2026 13:38:50 GMT | BadPlugin — DockerLabs WRITEUP BY IG:@_jotasec | _jotasec | [Read More](https://medium.com/p/0fb9f82d734c) |
-| Thu, 09 Apr 2026 13:34:31 GMT | EMR Software Vs. EHR Software — Understanding the Difference | Thinkitive Inc | [Read More](https://medium.com/p/47122553cd53) |
-| Thu, 09 Apr 2026 13:28:24 GMT | Most API security tools check 2 of these 5 things. Attackers know which 3 they skip | Kate Bennett | [Read More](https://medium.com/p/c3d7b00f472c) |
-| Thu, 09 Apr 2026 13:25:59 GMT | Signs of spousal infidelity | Michael Parks | [Read More](https://medium.com/p/01e781638d89) |
-| Thu, 09 Apr 2026 13:22:05 GMT | Pico ctf write-up (Crack the Gate 1) | Blacklotus | [Read More](https://medium.com/p/871ee38990b8) |
-| Thu, 09 Apr 2026 13:11:57 GMT | TryHackMe Writeup: Linux Privilege Escalation via CVE-2015–1328 | Cybernerddd | [Read More](https://medium.com/p/0fce4234ad5a) |
-| Thu, 09 Apr 2026 13:10:04 GMT | Corporate Cybersecurity in 2026: What Business Leaders Must Know to Protect Their Organizations | Hemant Kolhe | [Read More](https://medium.com/p/2c422ba3fbbc) |
-| Thu, 09 Apr 2026 13:09:44 GMT | Encrypting Your Kubernetes Volumes on OVH Because Your Data Deserves Better | Vincenthartmann | [Read More](https://medium.com/p/94c13942aeb6) |
-| Thu, 09 Apr 2026 13:05:55 GMT | Easy Peasy — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/2379c5b5f011) |
-| Thu, 09 Apr 2026 13:02:20 GMT | Introduction to Linux OS. | Janod Abesekara | [Read More](https://medium.com/p/9524247ee425) |
-| Thu, 09 Apr 2026 13:01:04 GMT | How Hackers Are Using AI to Attack You — And How to Fight Back | Adrian Găitan | [Read More](https://medium.com/p/ec40bc1d6f44) |
-| Thu, 09 Apr 2026 12:57:31 GMT | Inside IoT Security: Exploitation of Zoneminder CCTV System (Cybersecurity Project Walkthrough) | Prince Lassey | [Read More](https://medium.com/p/da2a9f32653e) |
-| Thu, 09 Apr 2026 12:56:59 GMT | The 3TB Wake-Up Call: Why Nigeria’s Data Kingdom Is Burning in Plain Sight | Epistemus | [Read More](https://medium.com/p/27f774b39704) |
-| Thu, 09 Apr 2026 12:50:21 GMT | Visible Error-Based SQL Injection: Leaking Data Through PostgreSQL Errors | Mohamed Ahmed | [Read More](https://medium.com/p/8aab6f6039d8) |
