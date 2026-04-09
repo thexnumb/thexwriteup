@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Apr 2026 06:57:26 GMT | The Rising Demand for Professional Patrol Services Across Australia | SecurityInsightsAU | [Read More](https://medium.com/p/9834b29d405c) |
+| Thu, 09 Apr 2026 06:47:28 GMT | JIT Heap Spray Explained: A Simple Guide for Beginners | Ashen Bhagya | [Read More](https://medium.com/p/87fa35ddc094) |
+| Thu, 09 Apr 2026 06:46:37 GMT | Nissan Breach 2026: When Cybercriminals Target the Automotive Industry | Sneha | [Read More](https://medium.com/p/2ce1a35a77e3) |
+| Thu, 09 Apr 2026 06:37:17 GMT | Case Study — Lessons from the Bangladesh Bank Heist | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/1a5b18134c68) |
+| Thu, 09 Apr 2026 06:35:17 GMT | OSINT on Indian Phone Numbers: Complete Investigation Guide for 2026 | EINITIAL24 | [Read More](https://medium.com/p/5c6186407f7f) |
+| Thu, 09 Apr 2026 06:29:49 GMT | How Red Teams Blind Windows Telemetry | Redfox Security | [Read More](https://medium.com/p/ce4170bf3141) |
+| Thu, 09 Apr 2026 06:29:32 GMT | Mastering AI Auditing: Why Traditional Security Controls Aren’t Enough Anymore | Aditya InfosecTrain | [Read More](https://medium.com/p/f1af6e0ae2ff) |
+| Thu, 09 Apr 2026 06:29:03 GMT | Bumble Data Breach (January 29, 2026): What Happened, Impact, and Lessons | Sneha | [Read More](https://medium.com/p/c8fb3647adce) |
+| Thu, 09 Apr 2026 06:22:46 GMT | What Should Freshers Expect from Their First IT Job in 2026? | Abrahamtech | [Read More](https://medium.com/p/d8b61d162171) |
+| Thu, 09 Apr 2026 06:22:21 GMT | Who’s really watching YOU? | Abhinav Jain | [Read More](https://medium.com/p/a2062173eba8) |
+| Thu, 09 Apr 2026 06:10:52 GMT | Enterprise Agentic Guardrails Framework | Zaheer Ahmed | [Read More](https://medium.com/p/32d5529060d3) |
+| Thu, 09 Apr 2026 06:01:02 GMT | “Read-Only” Access Isn’t as Safe as You Think | Hazel Chirinda | [Read More](https://medium.com/p/3c1f68fb14a4) |
+| Thu, 09 Apr 2026 06:00:18 GMT | Forget Juggling Apps: Why We Built Toolswallet for Secure, Real-Time Collaboration in 2026 | Satendrakaushik | [Read More](https://medium.com/p/4517508545ef) |
+| Thu, 09 Apr 2026 05:58:02 GMT | numasec Wants to Be the Claude Code of Penetration Testing | teum | [Read More](https://medium.com/p/5f2b0c28e508) |
+| Thu, 09 Apr 2026 05:57:03 GMT | The “Security Bubble”: Why Microsoft Teams is Safer than Email for Sensitive Data | Shelvin Datt | [Read More](https://medium.com/p/2224b35c959d) |
+| Thu, 09 Apr 2026 05:52:16 GMT | XSS wani nau’in hari ne a web security inda attacker ke saka mummunan script (JavaScript) a cikin… | INSIDER | [Read More](https://medium.com/p/076ddda34b85) |
+| Thu, 09 Apr 2026 05:48:36 GMT | Why IT Infrastructure Protection Services Are No Longer Optional for Modern Businesses | Cyber Cops | [Read More](https://medium.com/p/5afe8996db17) |
+| Thu, 09 Apr 2026 05:47:33 GMT | How IT Annual Maintenance Contract in Dubai Improves Business Efficiency | Proswift Security Solutions | [Read More](https://medium.com/p/5eb293597c96) |
+| Thu, 09 Apr 2026 05:44:41 GMT | 7 Hidden Data Sources Subfinder Uses (That You Probably Ignore) | Fateyaly | [Read More](https://medium.com/p/6f0dd8e79d86) |
+| Thu, 09 Apr 2026 05:37:08 GMT | Docker Complete Pentesting !!! | Jatin  yadav | [Read More](https://medium.com/p/7b509a4f349a) |
+| Thu, 09 Apr 2026 05:32:15 GMT | Lab: DOM XSS in document.write sink using source location.search | PRiTi.EX | [Read More](https://medium.com/p/5de7cc902729) |
+| Thu, 09 Apr 2026 05:31:49 GMT | Why AI-Powered SOCs Are the Next Attack Surface | Krishnakaanthreddyy | [Read More](https://medium.com/p/11693e55c80c) |
+| Thu, 09 Apr 2026 05:30:44 GMT | The Digital Fortress: Why 2026 is the Year to Master Ethical Hacking in Delhi | Varun Papnai | [Read More](https://medium.com/p/6e91bde4b0fd) |
 | Thu, 09 Apr 2026 05:12:07 GMT | Anthropic’s Claude Mythos Is Too Dangerous to Release — Here’s What PMs Need to Know | Mohit Aggarwal | [Read More](https://medium.com/p/dd7c6d98cbc1) |
 | Thu, 09 Apr 2026 05:06:41 GMT | SentinelOne Agent: Can It Stop Modern Cyber Threats? | keyTrackr | [Read More](https://medium.com/p/64f1bce1ff6b) |
 | Thu, 09 Apr 2026 05:06:37 GMT | Project Glasswing and the Quiet Turning Point in AI Cybersecurity | Ashraf rauf | [Read More](https://medium.com/p/0915cc085a78) |
@@ -90,26 +113,3 @@ Escalation) | Ahmed Mahmoud | [Read More](https://medium.com/p/7a39ba5152cb) |
 | Wed, 08 Apr 2026 20:12:15 GMT | When Real-Time Becomes Real Risk: A WebSocket Security Lesson from Club Penguin | DaLuna | [Read More](https://medium.com/p/e77a9eba4a69) |
 | Wed, 08 Apr 2026 20:11:40 GMT | Java or Python? The Question Every Student Asks, I Was Confused Too — Here’s What Changed My Mind | Palak Jaiswal | [Read More](https://medium.com/p/d11b91663511) |
 | Wed, 08 Apr 2026 20:11:01 GMT | Smart Leaders Treat AI Like Fire | Jon Conradt | [Read More](https://medium.com/p/32ea3c3d02e5) |
-| Wed, 08 Apr 2026 20:06:13 GMT | The AI Cyber-Arms Race Has Begun. And Anthropic Just Fired the Warning Shot. | Mohit_Yadav | [Read More](https://medium.com/p/baef51f7c4d3) |
-| Wed, 08 Apr 2026 19:54:34 GMT | Why Therapists Are Finally Leaving AWS for Sovereign Hosting | Clear Practise Founder | [Read More](https://medium.com/p/d65864b07ebd) |
-| Wed, 08 Apr 2026 19:46:01 GMT | The Identity Illusion in AI Integration | Xiaoning Sun | [Read More](https://medium.com/p/7f8378fcd08b) |
-| Wed, 08 Apr 2026 19:43:48 GMT | State Management + Security: Why Sensitive Data Needs a Runtime, Not Just State | Italo Matos | [Read More](https://medium.com/p/e580dafa37a1) |
-| Wed, 08 Apr 2026 19:35:22 GMT | Demystifying the Secure AI Agent: An Architectural Analysis of Sandboxed LLMs | Jared Mills | [Read More](https://medium.com/p/db7a67ed0304) |
-| Wed, 08 Apr 2026 19:32:32 GMT | The 2026 Cybersecurity Roadmap: From Zero to Elite (Without Losing Your Mind)Part 1:- | Inside Garuda | [Read More](https://medium.com/p/00ef42bf79ec) |
-| Wed, 08 Apr 2026 19:31:38 GMT | Pentester Labs Recon 00 write up | Robert Nyinge | [Read More](https://medium.com/p/040db669a4e6) |
-| Wed, 08 Apr 2026 19:30:02 GMT | SAST vs DAST: Why Using Only One Will Fail Your Security Strategy | CodewithSooryavanshi | [Read More](https://medium.com/p/3f8f08ee85a4) |
-| Wed, 08 Apr 2026 19:27:58 GMT | We’re Open-Sourcing 3 Tools We Built to Scan European Websites | Steven - TrustYourWebsite | [Read More](https://medium.com/p/fbd5519b441e) |
-| Wed, 08 Apr 2026 19:15:50 GMT | Water Bottle Tryhackme Writeup | Jawstar | [Read More](https://medium.com/p/6804e39a8ee9) |
-| Wed, 08 Apr 2026 19:12:52 GMT | Thinking Like an Attacker: Inside APT28’s Silent War | Nathalietchoumi | [Read More](https://medium.com/p/0bc8395f7a50) |
-| Wed, 08 Apr 2026 19:12:43 GMT | Beyond Opus: Decoding the “Dangerous” Reasoning of Claude Mythos | Rashed Al-Lahaseh | [Read More](https://medium.com/p/c69de167ab77) |
-| Wed, 08 Apr 2026 19:12:42 GMT | Understanding Dark Web AI Scams and Emerging Online Risks | Tor BBB | [Read More](https://medium.com/p/bbb6251e8ecc) |
-| Wed, 08 Apr 2026 19:09:22 GMT | Starting Fresh Online? Here’s the Best Email Setup for Security, Privacy & Peace of Mind | Warren Smith | [Read More](https://medium.com/p/8e4585a48b8f) |
-| Wed, 08 Apr 2026 19:09:21 GMT | CVE-2026–23398: PoC — A NULL Pointer in ICMP Tag Validation, and Why “One Packet” Is Never the… | KeyboardSamurai | [Read More](https://medium.com/p/dce65205c129) |
-| Wed, 08 Apr 2026 19:07:40 GMT | Hackers Stole $285 Million Over 6 Months. You Could Lose Everything in 6 Minutes. | Adam Frąckowiak | [Read More](https://medium.com/p/bb60a0750cea) |
-| Wed, 08 Apr 2026 19:06:08 GMT | Using Agents to Secure Satellites’ Supply Chain Systems | Ira Loghin | [Read More](https://medium.com/p/73b70f9e934f) |
-| Wed, 08 Apr 2026 19:01:49 GMT | eJPT Exploitation CTF 2  - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/1a41ebd5da7b) |
-| Wed, 08 Apr 2026 19:00:10 GMT | The AI That Emailed a Researcher in a Park — And What ThatTells Us About Where We Are | Erik Bernath | [Read More](https://medium.com/p/9185d9a9ddfa) |
-| Wed, 08 Apr 2026 18:58:07 GMT | Anthropic Just Changed Cybersecurity Forever — And It’s Called Project Glasswing | Devika Ambekar | [Read More](https://medium.com/p/49c36c0704c0) |
-| Wed, 08 Apr 2026 18:53:27 GMT | Claude Code Leak: Why Every Developer Building AI Systems Should Be Paying Attention | Nikhil Vikraman | [Read More](https://medium.com/p/3de38e447f2f) |
-| Wed, 08 Apr 2026 18:53:24 GMT | I’m going to be honest with you. | Aaditya Mathur | [Read More](https://medium.com/p/7ec1600de7b5) |
-| Wed, 08 Apr 2026 18:50:10 GMT | Day 14: Intercepting the Wire — Packet Sniffing and Man-in-the-Middle (MitM) Attacks | Ndu | [Read More](https://medium.com/p/18a146a61302) |
