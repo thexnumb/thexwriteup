@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Apr 2026 09:44:10 GMT | Fix Slow Windows PC (Step-by-Step Guide for Better Performance) | Sam | [Read More](https://medium.com/p/5fec04d1acca) |
+| Thu, 09 Apr 2026 09:43:24 GMT | The End of “Hope-Based” AI: Why Your Agents Need Mathematical Proofs to Be Safe | Takehiro Tsurumi | [Read More](https://medium.com/p/d8a9aaac344c) |
+| Thu, 09 Apr 2026 09:39:22 GMT | I Printed 500 Flyers… Then One Link Ruined Everything. | Lynklens | [Read More](https://medium.com/p/f00231da9525) |
+| Thu, 09 Apr 2026 09:36:01 GMT | Anthropic’s Mythos Figured Out How to Escape the Sandbox by Itself | David SEHYEON Baek | [Read More](https://medium.com/p/450ef745f661) |
+| Thu, 09 Apr 2026 09:35:43 GMT | The Model Too Dangerous to Release— And Why Anthropic Is Talking to the US Government About It | Faisal haque | [Read More](https://medium.com/p/e356eef4aaf2) |
+| Thu, 09 Apr 2026 09:34:58 GMT | Secure Your Active Directory: Registry Hardening Using GPO | Udeh Chikamso | [Read More](https://medium.com/p/288f8804d220) |
+| Thu, 09 Apr 2026 09:32:27 GMT | LLMs, embeddings, and RAG — how to build an AI that knows your company’s secrets | Anshulvairagade | [Read More](https://medium.com/p/d7a8b4e342db) |
+| Thu, 09 Apr 2026 09:29:10 GMT | Why My Goulash Is a Security Risk | Juma | [Read More](https://medium.com/p/79ec96d57878) |
+| Thu, 09 Apr 2026 09:28:53 GMT | Apple 26.4 Security Update: What to Verify After Patch Day | Pentest_Testing_Corp | [Read More](https://medium.com/p/6d80afe9bff6) |
+| Thu, 09 Apr 2026 09:26:33 GMT | What I’ve Learned About SOC Operations and Threat Intelligence | Gift Afortu | [Read More](https://medium.com/p/54789dadd50e) |
+| Thu, 09 Apr 2026 09:26:06 GMT | Part 2/3: Finding Exposed phpinfo() Files — Reconnaissance Techniques | Cybersecplayground | [Read More](https://medium.com/p/2c71fec63728) |
+| Thu, 09 Apr 2026 09:22:38 GMT | Cash Van Services: Secure and Reliable Cash Transportation for Modern Businesses | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/2d783b96b7f8) |
+| Thu, 09 Apr 2026 09:16:01 GMT | After an Incident, Leaders Need Proof. Not Reassurance | Tyson Martin | [Read More](https://medium.com/p/c1033665fbd4) |
+| Thu, 09 Apr 2026 09:13:03 GMT | CORS vs CSP: A Practical, Developer-Focused Guide to Web Security | Pasindu Maduwantha | [Read More](https://medium.com/p/6d056566c96c) |
+| Thu, 09 Apr 2026 09:11:30 GMT | Open From Both Sides | Julien Simon | [Read More](https://medium.com/p/f69f18a2ca26) |
+| Thu, 09 Apr 2026 08:51:07 GMT | Best Practices for Protecting Your capital one credit card During First-Time Use | TechCore | [Read More](https://medium.com/p/7b85fe58b3db) |
+| Thu, 09 Apr 2026 08:31:01 GMT | Building Resilient Digital Infrastructure Against Cyber Threats | Omer Akin | [Read More](https://medium.com/p/717bfc44ecde) |
+| Thu, 09 Apr 2026 08:30:38 GMT | S2:The Cost of “Later” in Security | Kavita Mittal | [Read More](https://medium.com/p/a3bc8ed687d5) |
 | Thu, 09 Apr 2026 08:09:53 GMT | The Day the Server Crashed: A Story Every Business Should Read | ANSI Technologies | [Read More](https://medium.com/p/4d733e25402e) |
 | Thu, 09 Apr 2026 08:08:56 GMT | SecPad — High-performance multi-note taking, designed for CyberSecurity professionals | Lucas V. Marangoni | [Read More](https://medium.com/p/714c5092f14c) |
 | Thu, 09 Apr 2026 08:05:22 GMT | The Weakest Link in Web3 Security Is Not Always the Code | Mytier Universe Official Blog | [Read More](https://medium.com/p/094a89847588) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 00:54:40 GMT | How AI-Powered EDR Actually Works | Paritosh | [Read More](https://medium.com/p/3244ef2c2f60) |
 | Wed, 08 Apr 2026 23:56:01 GMT | The AI That Escaped Its Sandbox: What Claude Mythos Reveals About the Future of Cybersecurity | Martti Dumangeng | [Read More](https://medium.com/p/5f62a2936c75) |
 | Wed, 08 Apr 2026 23:43:37 GMT | Blogger Walkthrough (Proving Ground-Play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/687873143fa5) |
-| Wed, 08 Apr 2026 23:33:02 GMT | Secure by Design vs Secure by Default | Frank Leitner | [Read More](https://medium.com/p/63f14543268e) |
-| Wed, 08 Apr 2026 23:23:18 GMT | securemix: A Cryptographically Secure Password Generator for Node.js Built for Production | Innoartive Labs | [Read More](https://medium.com/p/7bdef0e9b1ed) |
-| Wed, 08 Apr 2026 23:13:47 GMT | I Finished Claude’s AI Courses. Here’s Why Most People Are Using AI Dangerously (And Don’t Know It) | Shamila azeem | [Read More](https://medium.com/p/3e3a8506e5bb) |
-| Wed, 08 Apr 2026 23:11:40 GMT | AI will leave cybersecurity experts out of the game | Mahir YUKSEL | [Read More](https://medium.com/p/1c204b8b218e) |
-| Wed, 08 Apr 2026 23:11:09 GMT | Remote - HackTheBox - Walthrough - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/dafad5eb28e1) |
-| Wed, 08 Apr 2026 23:01:02 GMT | HackTheBox: Tenten — My First Taste of CTFs | Divya | [Read More](https://medium.com/p/65b6c533f90d) |
-| Wed, 08 Apr 2026 22:54:56 GMT | What Is SkyeProfile? Eight Experts, One Call, Complete Wallet Trust | Douglas Borthwick | [Read More](https://medium.com/p/ebbc725ae12d) |
-| Wed, 08 Apr 2026 22:52:46 GMT | Git Leaks — Quais seus benefícios? | Juliana Galvao Miyaki | [Read More](https://medium.com/p/bc02ae31cd73) |
-| Wed, 08 Apr 2026 22:49:37 GMT | Project Glasswing and Claude Mythos: AI That Finds Bugs Humans Missed for 27 Years | Kristopher Dunham | [Read More](https://medium.com/p/0c964e77f3e4) |
-| Wed, 08 Apr 2026 22:40:22 GMT | The Helpful Internal Adversary | Nigel Kennis | [Read More](https://medium.com/p/3c25ad3faf64) |
-| Wed, 08 Apr 2026 22:32:00 GMT | The Human-in-the-Loop Illusion: Why Your AI “Safety Gate” is Actually a Backdoor | Martin Bally | [Read More](https://medium.com/p/2325dce72dfe) |
-| Wed, 08 Apr 2026 22:30:54 GMT | 20 Linux Commands That Will Make You Look Like a Pro (Even If You Started Last Week) | SainT - Cybersecurity & Tech | [Read More](https://medium.com/p/9a133207de1a) |
-| Wed, 08 Apr 2026 22:11:52 GMT | Five Ways to Build a Security Roadmap with AI — The Last One Changes the Decision | Mhcandan | [Read More](https://medium.com/p/c4f44ad309ae) |
-| Wed, 08 Apr 2026 22:09:58 GMT | How I Discovered a Blind SQL Injection in a Private program | mrx_w_ | [Read More](https://medium.com/p/7eebd77ad286) |
-| Wed, 08 Apr 2026 22:03:33 GMT | Why TTX Should Be Your Worst Nightmare - WiCyS 2026 (Women in Cybersecurity) Annual Conference … | Meera Tamboli | [Read More](https://medium.com/p/8f06634b6f3d) |
-| Wed, 08 Apr 2026 22:02:40 GMT | AI, Deepfakes and the Dark Web - WiCyS 2026 (Women in Cybersecurity) Annual Conference - Takeaways… | Meera Tamboli | [Read More](https://medium.com/p/1ade770010d2) |
-| Wed, 08 Apr 2026 22:02:38 GMT | Prompt Injection Is the New SQL Injection — And Most AI Apps Are Wide Open | Vikrant Waghmode | [Read More](https://medium.com/p/ac48bdabec2d) |
-| Wed, 08 Apr 2026 22:01:45 GMT | SOC Journey — Lab 5: Process Tracking (Windows) | Hemaprasadpotnuru | [Read More](https://medium.com/p/5e28e38b3e3e) |
