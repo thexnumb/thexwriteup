@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Apr 2026 05:12:07 GMT | Anthropic’s Claude Mythos Is Too Dangerous to Release — Here’s What PMs Need to Know | Mohit Aggarwal | [Read More](https://medium.com/p/dd7c6d98cbc1) |
+| Thu, 09 Apr 2026 05:06:41 GMT | SentinelOne Agent: Can It Stop Modern Cyber Threats? | keyTrackr | [Read More](https://medium.com/p/64f1bce1ff6b) |
+| Thu, 09 Apr 2026 05:06:37 GMT | Project Glasswing and the Quiet Turning Point in AI Cybersecurity | Ashraf rauf | [Read More](https://medium.com/p/0915cc085a78) |
+| Thu, 09 Apr 2026 05:04:42 GMT | The Tragedy Of Data Theft: Why Pakistan Needs Real Data Protection. | Abdurrehman | [Read More](https://medium.com/p/a8694d98b70d) |
+| Thu, 09 Apr 2026 05:03:03 GMT | Anthropic’s Most Powerful AI Can’t Be Used by the Public. | Muhammad Qayyum | [Read More](https://medium.com/p/dfc9bfbba4bf) |
+| Thu, 09 Apr 2026 05:01:02 GMT | ️ The 2026 Web3 Security Roadmap | Tabrez Mukadam | [Read More](https://medium.com/p/aeb45011b9a5) |
+| Thu, 09 Apr 2026 04:55:45 GMT | Ransomware in 2025 Was Not Just a Cybersecurity Problem. It Became an Operational Crisis. | Jaymeet Patel | [Read More](https://medium.com/p/6ac33c56faee) |
+| Thu, 09 Apr 2026 04:40:03 GMT | Potential Costs & Multi-Year Consequences of a U.S.-Iran War | George J. Assad georgejassad@gmail.com | [Read More](https://medium.com/p/9a841107584a) |
+| Thu, 09 Apr 2026 04:35:03 GMT | Journey into AI Security: Learning AI from Scratch | Anshulvairagade | [Read More](https://medium.com/p/416a23acb7b7) |
+| Thu, 09 Apr 2026 04:24:32 GMT | Simplifying Data Access in SailPoint IdentityIQ with a DB Workbench | Nihar Kalyanam | [Read More](https://medium.com/p/028b3cb1fb17) |
+| Thu, 09 Apr 2026 04:17:18 GMT | What the Fuck Is Going on at Anthropic | TheTechPencil | [Read More](https://medium.com/p/0e88cc1cbc43) |
+| Thu, 09 Apr 2026 04:03:37 GMT | Think Twice Before Posting, Internet is Not Safe Anymore… | Journey To Jannah | [Read More](https://medium.com/p/ec0e9c915e94) |
+| Thu, 09 Apr 2026 04:01:58 GMT | Simple — VulnHub Writeup | Abacu5 | [Read More](https://medium.com/p/708de99a2f22) |
+| Thu, 09 Apr 2026 04:01:01 GMT | Prompt Injection Attacks | Prince Kumar Sharma | [Read More](https://medium.com/p/287bc2f05ad7) |
+| Thu, 09 Apr 2026 03:48:36 GMT | CoAP Message Builder — A Simple Guide | Anuj Thakur (India) | [Read More](https://medium.com/p/031987587112) |
+| Thu, 09 Apr 2026 03:44:30 GMT | Anthropic Just Unleashed an AI That Found a 27-Year-Old Vulnerability. | Arif Ali | [Read More](https://medium.com/p/e430fdb75606) |
+| Thu, 09 Apr 2026 03:16:02 GMT | Emergency Fund: The Most Boring Investment That Could Save Your Life | Finance with Anand | [Read More](https://medium.com/p/fe518f1df30e) |
 | Thu, 09 Apr 2026 03:01:05 GMT | Fundamentals of Information Security — Chapter 07 | Mani Gayathri | [Read More](https://medium.com/p/e442e23b7acd) |
 | Thu, 09 Apr 2026 02:58:04 GMT | Web Application Security: Hands-On Practice (Chapter 19 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/b318ed4d0c46) |
 | Thu, 09 Apr 2026 02:41:37 GMT | Before You Sign That Lease: How DMV Business Owners Avoid Opening Day IT Disasters | Mussawwir Sterrett | [Read More](https://medium.com/p/ea35b6dfe403) |
@@ -96,20 +113,3 @@ Escalation) | Ahmed Mahmoud | [Read More](https://medium.com/p/7a39ba5152cb) |
 | Wed, 08 Apr 2026 18:53:27 GMT | Claude Code Leak: Why Every Developer Building AI Systems Should Be Paying Attention | Nikhil Vikraman | [Read More](https://medium.com/p/3de38e447f2f) |
 | Wed, 08 Apr 2026 18:53:24 GMT | I’m going to be honest with you. | Aaditya Mathur | [Read More](https://medium.com/p/7ec1600de7b5) |
 | Wed, 08 Apr 2026 18:50:10 GMT | Day 14: Intercepting the Wire — Packet Sniffing and Man-in-the-Middle (MitM) Attacks | Ndu | [Read More](https://medium.com/p/18a146a61302) |
-| Wed, 08 Apr 2026 18:48:14 GMT | Day 13: Hacking the Human — The Psychology of Social Engineering and Phishing | Ndu | [Read More](https://medium.com/p/c31d6933bf5f) |
-| Wed, 08 Apr 2026 18:46:13 GMT | How We Replaced Our Entire Marketing Team With Claude Cowork (And What It Means for Your Career) | Rich Chen | [Read More](https://medium.com/p/16c1a400ab35) |
-| Wed, 08 Apr 2026 18:42:31 GMT | Anthropic has leaked data | Kankawee Aramrak | [Read More](https://medium.com/p/ce9eda598ce8) |
-| Wed, 08 Apr 2026 18:41:50 GMT | HackTheBox OverWatch CTF Writup | Saksham Baral | [Read More](https://medium.com/p/e6c18ddec7a1) |
-| Wed, 08 Apr 2026 18:41:35 GMT | Anthropic ทำข้อมูลหลุด | Kankawee Aramrak | [Read More](https://medium.com/p/4c10860cc258) |
-| Wed, 08 Apr 2026 18:32:43 GMT | The CRA Panic Is Real: Why Some Teams Are Calm — and Others Feel Like They’re Drowning | Mr.PlanB | [Read More](https://medium.com/p/4433610b0031) |
-| Wed, 08 Apr 2026 18:32:01 GMT | Episode 1: Why Hackers Love Linux (The Hacker’s Path Series) | Shivam Kumar | [Read More](https://medium.com/p/83fd8e7536ae) |
-| Wed, 08 Apr 2026 18:31:01 GMT | SQL INJECTION PART 1 | Anubhav_bora | [Read More](https://medium.com/p/5fef79e73ee4) |
-| Wed, 08 Apr 2026 18:27:53 GMT | How I Found 2 Path Traversal CVEs in PraisonAI Using AI | Himanshu Gupta | [Read More](https://medium.com/p/a3fc202491df) |
-| Wed, 08 Apr 2026 18:21:10 GMT | SMB Enumeration & Exploitation: From Zero to Full Access by Mert Baykal | Mert Baykal | [Read More](https://medium.com/p/b8986a604d98) |
-| Wed, 08 Apr 2026 18:20:08 GMT | Top 5 Beginner Vulnerabilities Every Bug Bounty Hunter Should Learn First | Riya Limba | [Read More](https://medium.com/p/b4a044e4370c) |
-| Wed, 08 Apr 2026 18:18:57 GMT | I built a production security scanner in 30 minutes — AI wrote the code, I did the thinking. | T S | [Read More](https://medium.com/p/230f482b2f04) |
-| Wed, 08 Apr 2026 17:46:20 GMT | When Favoriting Goes Rogue: Broken Access Control Flaw. ️ | Umanhonlen Gabriel | [Read More](https://medium.com/p/088c224ea2fe) |
-| Wed, 08 Apr 2026 17:42:20 GMT | Cookies Theft - Hire Professional Hacker - Hacking Services | BlackHat | [Read More](https://medium.com/p/98cb24fd727d) |
-| Wed, 08 Apr 2026 17:38:22 GMT | The Hidden Cost of Ignoring Cyber Threats (And How Cybersecurity Consultancy Services Can Save You) | Patatvaishali | [Read More](https://medium.com/p/496819fd07dd) |
-| Wed, 08 Apr 2026 17:36:17 GMT | Hacked Routers Expose Microsoft 365 Logins | Geoffrey Wenger | [Read More](https://medium.com/p/522e2604f333) |
-| Wed, 08 Apr 2026 17:28:40 GMT | Introduction: A “Junior” Perspective on a Senior Debate | Doganay Yildiz | [Read More](https://medium.com/p/6eeb074f3802) |
