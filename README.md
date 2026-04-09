@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Apr 2026 21:53:10 GMT | Why Post-Quantum Cryptography Is Urgent Now | Ibrahim Logix | [Read More](https://medium.com/p/55aec405c447) |
+| Thu, 09 Apr 2026 21:48:34 GMT | So sichern Sie n8n in Produktion: Ein praktischer Hardening-Guide | Mika Schmidt | [Read More](https://medium.com/p/17cc99401650) |
+| Thu, 09 Apr 2026 21:42:22 GMT | AI Just Found What Human Eyes Missed for Decades. Now What? | Selorm Adjabeng | [Read More](https://medium.com/p/41f2084509fe) |
+| Thu, 09 Apr 2026 21:33:27 GMT | The Agentic AI Security Universe: A Complete Guide to Securing Autonomous AI Systems | Sarah Morino | [Read More](https://medium.com/p/d374bb25f4bd) |
+| Thu, 09 Apr 2026 21:26:20 GMT | The Blockchain Forensics Gap Nobody Talks About | Kir Kovalski | [Read More](https://medium.com/p/199d3a53bf8b) |
+| Thu, 09 Apr 2026 21:23:43 GMT | You’re Not Being Hacked — You’re Letting Them In (Part 1) | Sam Writes Security | [Read More](https://medium.com/p/ca56b697d449) |
+| Thu, 09 Apr 2026 21:21:03 GMT | Curious Minds: The Earth’s Stitch: 95% of the Internet is Underwater. | Balajee Viswanatha Rao | [Read More](https://medium.com/p/f4a58b5d27cd) |
+| Thu, 09 Apr 2026 21:16:45 GMT | Anthropic Built an AI That Found a 27-Year-Old Bug in Two Weeks. Then They Locked It Away. | PIXIPACE | [Read More](https://medium.com/p/5e1833a30663) |
+| Thu, 09 Apr 2026 21:11:21 GMT | Anthropic’s AI & Cybersecurity in 2026: Defender, Disruptor, and the Double-Edged Sword You Need to… | Aniket Tegginamath | [Read More](https://medium.com/p/06d7f0697145) |
+| Thu, 09 Apr 2026 21:08:59 GMT | Observations with my Right Eye — Day 12 — Probability Waves | Adam Amada | [Read More](https://medium.com/p/18e004db373b) |
 | Thu, 09 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 45: Test Prep, Day 4 | Maximillian Rueda | [Read More](https://medium.com/p/62e7613c5e48) |
 | Thu, 09 Apr 2026 20:57:59 GMT | DevSecOps Isn’t Just Security — It’s Understanding the System | Kenneth Solomon | [Read More](https://medium.com/p/4ae082c13077) |
 | Thu, 09 Apr 2026 20:51:58 GMT | Mastering Metasploit Framework — From Zero to Controlled Exploitation (Beginner → Operator) | ghostyjoe | [Read More](https://medium.com/p/17fee810ac10) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 15:35:16 GMT | ✍️STT #1 — Your AI Gateway Was a Backdoor | TheGr8Val | [Read More](https://medium.com/p/3dd15efc3a1b) |
 | Thu, 09 Apr 2026 15:34:28 GMT | Cybersecurity for Beginners: Common Mistakes I’m Making and What I’m Learning | Sharif Hassan | [Read More](https://medium.com/p/8c0d53365e2c) |
 | Thu, 09 Apr 2026 15:30:47 GMT | Project Glasswing: Anthropic’s “OpenClaw” Moment! | DrSwarnenduAI | [Read More](https://medium.com/p/1a1a50867fcd) |
-| Thu, 09 Apr 2026 15:29:26 GMT | Want to Learn Pentesting Faster? Start With These 21 Famous Platforms!!! | cybrNK | [Read More](https://medium.com/p/1e32cb0b33ed) |
-| Thu, 09 Apr 2026 15:28:53 GMT | I Let an AI Agent Loose on My Git Repo. It Marked 13 Tasks “Done” Without Doing Any Work. | Joseph Nemuri | [Read More](https://medium.com/p/d406214d634b) |
-| Thu, 09 Apr 2026 15:25:42 GMT | The Real AI Concern Is Not Art or Jobs, It Is Cybersecurity | Ted Tahquechi | [Read More](https://medium.com/p/5549e3b66312) |
-| Thu, 09 Apr 2026 15:23:36 GMT | How Iran Hacks Ships in the Straight of Hormuz | Chris Kubecka de Medina | [Read More](https://medium.com/p/d194583d8789) |
-| Thu, 09 Apr 2026 15:21:43 GMT | A Simple Race Condition with Real-World Impact | DrRobik | [Read More](https://medium.com/p/c5ae22f9f7b2) |
-| Thu, 09 Apr 2026 15:09:37 GMT | The Art of Misleading Indicators in Cyber Investigations | InfosecPandey | [Read More](https://medium.com/p/bd1c231a4d85) |
-| Thu, 09 Apr 2026 14:54:14 GMT | Your VPN is Your Biggest Vulnerability: The Irony of Perimeter Security | Hugo Valters | [Read More](https://medium.com/p/51b235f8ff05) |
-| Thu, 09 Apr 2026 14:51:24 GMT | I Did Let AI Organize My Life — Here’s What I Learned About Its Power | James Mokaya | [Read More](https://medium.com/p/31b8147aab57) |
-| Thu, 09 Apr 2026 14:50:53 GMT | I Got Burned Out From Building, So I Broke Into My Own App Instead | Priyankaforu | [Read More](https://medium.com/p/5008667d2e4c) |
-| Thu, 09 Apr 2026 14:45:52 GMT | Webroot vs Microsoft Defender in 2026 — Honest Comparison & Which Is Best | foodlis.com | [Read More](https://medium.com/p/6efa8c1df580) |
