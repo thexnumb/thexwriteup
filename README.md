@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 45: Test Prep, Day 4 | Maximillian Rueda | [Read More](https://medium.com/p/62e7613c5e48) |
+| Thu, 09 Apr 2026 20:57:59 GMT | DevSecOps Isn’t Just Security — It’s Understanding the System | Kenneth Solomon | [Read More](https://medium.com/p/4ae082c13077) |
+| Thu, 09 Apr 2026 20:51:58 GMT | Mastering Metasploit Framework — From Zero to Controlled Exploitation (Beginner → Operator) | ghostyjoe | [Read More](https://medium.com/p/17fee810ac10) |
+| Thu, 09 Apr 2026 20:49:58 GMT | The computer Booting Process. | Mudiuth | [Read More](https://medium.com/p/f451864a3154) |
+| Thu, 09 Apr 2026 20:49:43 GMT | Authorization Models: Where Access Actually Breaks | Yusuf Isiaq | [Read More](https://medium.com/p/32525a22a0a0) |
+| Thu, 09 Apr 2026 20:43:05 GMT | Automate Your Code Reviews: Welcome to the Post-AI Era of Software Development. | Andrew Blooman | [Read More](https://medium.com/p/169ba917cc48) |
+| Thu, 09 Apr 2026 20:41:46 GMT | Securely Rolling Out Claude Cowork Across Your Organization | Justin Albrethsen | [Read More](https://medium.com/p/9cd126921c42) |
+| Thu, 09 Apr 2026 20:36:15 GMT | AVVISO PUBBLICO — STONE VEST | Ana Dolores | [Read More](https://medium.com/p/91db2791e9e5) |
+| Thu, 09 Apr 2026 20:34:11 GMT | Why “We Open at 9 AM” Is Destroying Distributed Teams — And What 24/7 Remote IT Support Actually… | Kbstraining | [Read More](https://medium.com/p/9574d2aaf102) |
+| Thu, 09 Apr 2026 20:34:01 GMT | The Windows 11 Microsoft Account Requirement is NOT for Your Convenience or Security | Michael Swengel | [Read More](https://medium.com/p/9ff142658562) |
+| Thu, 09 Apr 2026 20:26:32 GMT | Abusing BYOVD for Process Injection into Protected Processes (PPL) | S12 - 0x12Dark Development | [Read More](https://medium.com/p/4d71505e226d) |
+| Thu, 09 Apr 2026 20:25:32 GMT | Creaking Recursive Filters: Solving Path Traversal via Nested Sequences | Ayeshaaghafoor | [Read More](https://medium.com/p/5e1a9f7f04c4) |
+| Thu, 09 Apr 2026 20:24:09 GMT | The Double-Decode Bypass: Solving Path Traversal via Superfluous Decoding | Ayeshaaghafoor | [Read More](https://medium.com/p/827bcf2468c7) |
+| Thu, 09 Apr 2026 20:22:47 GMT | Invisible by Design: How We Test Jamf Protect’s Performance | Jordan Dusick | [Read More](https://medium.com/p/7bd387fa947d) |
+| Thu, 09 Apr 2026 20:20:12 GMT | The Upgrade Problem: Why Proxy Safety Is Still One of Web3’s Most Misunderstood Risks | Exploitless | [Read More](https://medium.com/p/4b18f1fc44af) |
+| Thu, 09 Apr 2026 20:13:43 GMT | How to Stay Safe When Using AI Assistants: A Plain-English Guide to Prompt Injection | Juili | [Read More](https://medium.com/p/8d4b24fac947) |
+| Thu, 09 Apr 2026 20:12:57 GMT | Sending Anonymous Messages Online Without Leaving a Trace | Warren Smith | [Read More](https://medium.com/p/b02f7ac5a94f) |
 | Thu, 09 Apr 2026 20:01:25 GMT | Understanding GRC in Cybersecurity: A Practical, Tech-Driven Guide | Aparna Mishra | [Read More](https://medium.com/p/5011bf74c2ae) |
 | Thu, 09 Apr 2026 19:56:43 GMT | Sosyal Mühendilik | Mehmetdnz | [Read More](https://medium.com/p/39e208a79d53) |
 | Thu, 09 Apr 2026 19:45:13 GMT | Securing Intent : The Next Frontier in AI Agent Protection | Justin Albrethsen | [Read More](https://medium.com/p/00106ce53c88) |
@@ -23,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 19:20:06 GMT | Quantum Breaks Static Credentials. Wallet Auth Was Never Static. | Douglas Borthwick | [Read More](https://medium.com/p/08612df0f3be) |
 | Thu, 09 Apr 2026 19:16:10 GMT | TryHackMe Writeup: The Sticker Shop | Berkay AĞGÜL | [Read More](https://medium.com/p/56e04557bb05) |
 | Thu, 09 Apr 2026 19:14:33 GMT | Agent Context Graphs and Safe Autonomy | sharathr | [Read More](https://medium.com/p/af8e4a526965) |
+| Thu, 09 Apr 2026 19:12:12 GMT | The Shield They Built Instead, Anthropic, Mythos, & Project Glasswing | J Poole | [Read More](https://medium.com/p/b0aee5aa7806) |
 | Thu, 09 Apr 2026 19:12:02 GMT | DeepContext: Defending Against Multi-Turn Agent Attacks with Context-Aware Guardrails | sharathr | [Read More](https://medium.com/p/32bfe795e9f0) |
 | Thu, 09 Apr 2026 19:09:22 GMT | CyberDev Weekly Brief | Devore McIntosh | [Read More](https://medium.com/p/7bdcbbb92598) |
 | Thu, 09 Apr 2026 18:53:01 GMT | You Are Not Your Stack | Susan Brearley | [Read More](https://medium.com/p/1c76255b6c05) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 14:51:24 GMT | I Did Let AI Organize My Life — Here’s What I Learned About Its Power | James Mokaya | [Read More](https://medium.com/p/31b8147aab57) |
 | Thu, 09 Apr 2026 14:50:53 GMT | I Got Burned Out From Building, So I Broke Into My Own App Instead | Priyankaforu | [Read More](https://medium.com/p/5008667d2e4c) |
 | Thu, 09 Apr 2026 14:45:52 GMT | Webroot vs Microsoft Defender in 2026 — Honest Comparison & Which Is Best | foodlis.com | [Read More](https://medium.com/p/6efa8c1df580) |
-| Thu, 09 Apr 2026 14:29:09 GMT | THE ATTACKER CLICKED A BUTTON. THEN WENT TO LUNCH. | Dishanth C A | [Read More](https://medium.com/p/df3862909c68) |
-| Thu, 09 Apr 2026 14:22:17 GMT | I THOUGHT INFORMATION SECURITY WAS ABOUT HACKERS(Introduction to Information Security: HackTheBox) | Orem Gitonga | [Read More](https://medium.com/p/6433c7b8a147) |
-| Thu, 09 Apr 2026 14:21:01 GMT | Hot vs. Cold Wallets: Where Should You Actually Store Your Crypto? | Web3 writer | [Read More](https://medium.com/p/e128fded75ef) |
-| Thu, 09 Apr 2026 14:15:26 GMT | Axios Supply Chain Attack: Why, How, Now What? | Onur Demiray | [Read More](https://medium.com/p/eae67aab36c0) |
-| Thu, 09 Apr 2026 14:13:40 GMT | Identity Is the New Front Line | Scottcmcmahan | [Read More](https://medium.com/p/ed5adb6ea4ec) |
-| Thu, 09 Apr 2026 14:12:32 GMT | New brain.exe Not Found | Mariam Gigashvili | [Read More](https://medium.com/p/430d0b059f29) |
-| Thu, 09 Apr 2026 14:08:28 GMT | The Shadow Admin: How I Created Admin Accounts in Any SaaS Tenant | Jawad Momani | [Read More](https://medium.com/p/3b1d56eb9651) |
-| Thu, 09 Apr 2026 14:04:34 GMT | … | MOAMEN REZK | [Read More](https://medium.com/p/f192929da0a4) |
-| Thu, 09 Apr 2026 14:01:02 GMT | Iranian APT Just Walked Into US Critical Infrastructure Through the Front Door — No Zero-Day… | Adrian Găitan | [Read More](https://medium.com/p/4f2d6c128c95) |
-| Thu, 09 Apr 2026 14:01:02 GMT | Cyber Briefing: 2026.04.09 | CyberMaterial | [Read More](https://medium.com/p/cabf9445d760) |
-| Thu, 09 Apr 2026 13:55:48 GMT | I’m looking for stories we don’t tell everyday | Ana Goncalves | [Read More](https://medium.com/p/1a7efc67b730) |
-| Thu, 09 Apr 2026 13:55:25 GMT | From Learning to Building: My First Automated Reconnaissance Tool | Drash Tyagi | [Read More](https://medium.com/p/2ec5e025ad95) |
-| Thu, 09 Apr 2026 13:52:07 GMT | [Confidential] U.S. | Excalibra | [Read More](https://medium.com/p/0b2b6dfc7ce9) |
-| Thu, 09 Apr 2026 13:50:45 GMT | We Confirmed the BlueHammer Zero-Day Before Microsoft Said a Word | OneAxiom MSSP | [Read More](https://medium.com/p/35cf8e4e5fbb) |
-| Thu, 09 Apr 2026 13:48:35 GMT | Kayo Customer Service Australia | Customer Support Information | [Read More](https://medium.com/p/f4751062e027) |
-| Thu, 09 Apr 2026 13:47:49 GMT | VulnNet: dotjar (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/ff12b71158df) |
-| Thu, 09 Apr 2026 13:43:08 GMT | ESET Antivirus Customer Support Number Australia | Customer Support Information | [Read More](https://medium.com/p/c8cc3afaa445) |
-| Thu, 09 Apr 2026 13:38:50 GMT | BadPlugin — DockerLabs WRITEUP BY IG:@_jotasec | _jotasec | [Read More](https://medium.com/p/0fb9f82d734c) |
