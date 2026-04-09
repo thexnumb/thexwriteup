@@ -12,6 +12,42 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Apr 2026 14:15:26 GMT | Axios Supply Chain Attack: Why, How, Now What? | Onur Demiray | [Read More](https://medium.com/p/eae67aab36c0) |
+| Thu, 09 Apr 2026 14:13:40 GMT | Identity Is the New Front Line | Scottcmcmahan | [Read More](https://medium.com/p/ed5adb6ea4ec) |
+| Thu, 09 Apr 2026 14:12:32 GMT | New brain.exe Not Found | Mariam Gigashvili | [Read More](https://medium.com/p/430d0b059f29) |
+| Thu, 09 Apr 2026 14:08:28 GMT | The Shadow Admin: How I Created Admin Accounts in Any SaaS Tenant | Jawad Momani | [Read More](https://medium.com/p/3b1d56eb9651) |
+| Thu, 09 Apr 2026 14:04:34 GMT | … | MOAMEN REZK | [Read More](https://medium.com/p/f192929da0a4) |
+| Thu, 09 Apr 2026 14:01:02 GMT | Iranian APT Just Walked Into US Critical Infrastructure Through the Front Door — No Zero-Day… | Adrian Găitan | [Read More](https://medium.com/p/4f2d6c128c95) |
+| Thu, 09 Apr 2026 14:01:02 GMT | Cyber Briefing: 2026.04.09 | CyberMaterial | [Read More](https://medium.com/p/cabf9445d760) |
+| Thu, 09 Apr 2026 13:55:48 GMT | I’m looking for stories we don’t tell everyday | Ana Goncalves | [Read More](https://medium.com/p/1a7efc67b730) |
+| Thu, 09 Apr 2026 13:55:25 GMT | From Learning to Building: My First Automated Reconnaissance Tool | Drash Tyagi | [Read More](https://medium.com/p/2ec5e025ad95) |
+| Thu, 09 Apr 2026 13:52:07 GMT | [Confidential] U.S. | Excalibra | [Read More](https://medium.com/p/0b2b6dfc7ce9) |
+| Thu, 09 Apr 2026 13:50:45 GMT | We Confirmed the BlueHammer Zero-Day Before Microsoft Said a Word | OneAxiom MSSP | [Read More](https://medium.com/p/35cf8e4e5fbb) |
+| Thu, 09 Apr 2026 13:48:35 GMT | Kayo Customer Service Australia | Customer Support Information | [Read More](https://medium.com/p/f4751062e027) |
+| Thu, 09 Apr 2026 13:47:49 GMT | VulnNet: dotjar (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/ff12b71158df) |
+| Thu, 09 Apr 2026 13:43:08 GMT | ESET Antivirus Customer Support Number Australia | Customer Support Information | [Read More](https://medium.com/p/c8cc3afaa445) |
+| Thu, 09 Apr 2026 13:38:50 GMT | BadPlugin — DockerLabs WRITEUP BY IG:@_jotasec | _jotasec | [Read More](https://medium.com/p/0fb9f82d734c) |
+| Thu, 09 Apr 2026 13:34:31 GMT | EMR Software Vs. EHR Software — Understanding the Difference | Thinkitive Inc | [Read More](https://medium.com/p/47122553cd53) |
+| Thu, 09 Apr 2026 13:28:24 GMT | Most API security tools check 2 of these 5 things. Attackers know which 3 they skip | Kate Bennett | [Read More](https://medium.com/p/c3d7b00f472c) |
+| Thu, 09 Apr 2026 13:25:59 GMT | Signs of spousal infidelity | Michael Parks | [Read More](https://medium.com/p/01e781638d89) |
+| Thu, 09 Apr 2026 13:22:05 GMT | Pico ctf write-up (Crack the Gate 1) | Blacklotus | [Read More](https://medium.com/p/871ee38990b8) |
+| Thu, 09 Apr 2026 13:11:57 GMT | TryHackMe Writeup: Linux Privilege Escalation via CVE-2015–1328 | Cybernerddd | [Read More](https://medium.com/p/0fce4234ad5a) |
+| Thu, 09 Apr 2026 13:09:44 GMT | Encrypting Your Kubernetes Volumes on OVH Because Your Data Deserves Better | Vincenthartmann | [Read More](https://medium.com/p/94c13942aeb6) |
+| Thu, 09 Apr 2026 13:05:55 GMT | Easy Peasy — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/2379c5b5f011) |
+| Thu, 09 Apr 2026 13:02:20 GMT | Introduction to Linux OS. | Janod Abesekara | [Read More](https://medium.com/p/9524247ee425) |
+| Thu, 09 Apr 2026 13:01:04 GMT | How Hackers Are Using AI to Attack You — And How to Fight Back | Adrian Găitan | [Read More](https://medium.com/p/ec40bc1d6f44) |
+| Thu, 09 Apr 2026 12:57:31 GMT | Inside IoT Security: Exploitation of Zoneminder CCTV System (Cybersecurity Project Walkthrough) | Prince Lassey | [Read More](https://medium.com/p/da2a9f32653e) |
+| Thu, 09 Apr 2026 12:56:59 GMT | The 3TB Wake-Up Call: Why Nigeria’s Data Kingdom Is Burning in Plain Sight | Epistemus | [Read More](https://medium.com/p/27f774b39704) |
+| Thu, 09 Apr 2026 12:50:21 GMT | Visible Error-Based SQL Injection: Leaking Data Through PostgreSQL Errors | Mohamed Ahmed | [Read More](https://medium.com/p/8aab6f6039d8) |
+| Thu, 09 Apr 2026 12:47:47 GMT | Business Center in Dubai: Your Gateway to Growth and Success | Abdul Rafay | [Read More](https://medium.com/p/1222e9989a5a) |
+| Thu, 09 Apr 2026 12:39:24 GMT | Pico ctf write-up Web Exploitation(Old Sessions) | Blacklotus | [Read More](https://medium.com/p/145609631066) |
+| Thu, 09 Apr 2026 12:33:43 GMT | Argus: Building a Linux Kernel Rootkit Detection Module | Ananthan R | [Read More](https://medium.com/p/08d3e9fd997b) |
+| Thu, 09 Apr 2026 12:18:47 GMT | CAPTCHA Misconfiguration Leading to Replay-Based Authentication Bypass - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/eb684b0f0d4c) |
+| Thu, 09 Apr 2026 12:15:29 GMT | WordPress Security Checklist: How to Protect Your Website from Hackers | Jude Anewuoh | [Read More](https://medium.com/p/eaf17075bbf5) |
+| Thu, 09 Apr 2026 12:14:44 GMT | Why Indore is quietly becoming India’s next big IT training hub | Vector Skill Academy | [Read More](https://medium.com/p/cc63dc0dda14) |
+| Thu, 09 Apr 2026 12:13:53 GMT | Android Content Provider Security: Exploiting File Providers (Pentester Deep Dive — Part 4) | Mustafa Mohamed | [Read More](https://medium.com/p/5f10d8ce2ebe) |
+| Thu, 09 Apr 2026 12:12:40 GMT | DOM XSS in jQuery anchor href attribute sink using location.search source(Simple + Practical Guide) | PRiTi.EX | [Read More](https://medium.com/p/f072b95230e2) |
+| Thu, 09 Apr 2026 12:11:45 GMT | ContainMe TryHackMe Walkthrough - by Yoel Yosief | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/d72d94213d3b) |
 | Thu, 09 Apr 2026 12:00:04 GMT | How I Bypassed 2FA Reconfiguration Using Response Manipulation — My First Bug Bounty | Mohamed Elmorsy | [Read More](https://medium.com/p/d98316799010) |
 | Thu, 09 Apr 2026 11:59:51 GMT | Stop Treating Your Security Like a “Check Engine” Light (or part #2 of what we can do with Bob even… | Alain Airom (Ayrom) | [Read More](https://medium.com/p/837d67186e26) |
 | Thu, 09 Apr 2026 11:59:33 GMT | IT Training with Placement Support in Katihar: Learn Skills That Lead to Careers | Brainzima Innovation Institute | [Read More](https://medium.com/p/2459e8d77742) |
@@ -76,39 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 09:35:43 GMT | The Model Too Dangerous to Release— And Why Anthropic Is Talking to the US Government About It | Faisal haque | [Read More](https://medium.com/p/e356eef4aaf2) |
 | Thu, 09 Apr 2026 09:34:58 GMT | Secure Your Active Directory: Registry Hardening Using GPO | Udeh Chikamso | [Read More](https://medium.com/p/288f8804d220) |
 | Thu, 09 Apr 2026 09:32:27 GMT | LLMs, embeddings, and RAG — how to build an AI that knows your company’s secrets | Anshulvairagade | [Read More](https://medium.com/p/d7a8b4e342db) |
-| Thu, 09 Apr 2026 09:29:10 GMT | Why My Goulash Is a Security Risk | Juma | [Read More](https://medium.com/p/79ec96d57878) |
-| Thu, 09 Apr 2026 09:28:53 GMT | Apple 26.4 Security Update: What to Verify After Patch Day | Pentest_Testing_Corp | [Read More](https://medium.com/p/6d80afe9bff6) |
-| Thu, 09 Apr 2026 09:26:33 GMT | What I’ve Learned About SOC Operations and Threat Intelligence | Gift Afortu | [Read More](https://medium.com/p/54789dadd50e) |
-| Thu, 09 Apr 2026 09:26:06 GMT | Part 2/3: Finding Exposed phpinfo() Files — Reconnaissance Techniques | Cybersecplayground | [Read More](https://medium.com/p/2c71fec63728) |
-| Thu, 09 Apr 2026 09:22:38 GMT | Cash Van Services: Secure and Reliable Cash Transportation for Modern Businesses | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/2d783b96b7f8) |
-| Thu, 09 Apr 2026 09:16:01 GMT | After an Incident, Leaders Need Proof. Not Reassurance | Tyson Martin | [Read More](https://medium.com/p/c1033665fbd4) |
-| Thu, 09 Apr 2026 09:13:03 GMT | CORS vs CSP: A Practical, Developer-Focused Guide to Web Security | Pasindu Maduwantha | [Read More](https://medium.com/p/6d056566c96c) |
-| Thu, 09 Apr 2026 09:11:30 GMT | Open From Both Sides | Julien Simon | [Read More](https://medium.com/p/f69f18a2ca26) |
-| Thu, 09 Apr 2026 08:51:07 GMT | Best Practices for Protecting Your capital one credit card During First-Time Use | TechCore | [Read More](https://medium.com/p/7b85fe58b3db) |
-| Thu, 09 Apr 2026 08:31:01 GMT | Building Resilient Digital Infrastructure Against Cyber Threats | Omer Akin | [Read More](https://medium.com/p/717bfc44ecde) |
-| Thu, 09 Apr 2026 08:30:38 GMT | S2:The Cost of “Later” in Security | Kavita Mittal | [Read More](https://medium.com/p/a3bc8ed687d5) |
-| Thu, 09 Apr 2026 08:09:53 GMT | The Day the Server Crashed: A Story Every Business Should Read | ANSI Technologies | [Read More](https://medium.com/p/4d733e25402e) |
-| Thu, 09 Apr 2026 08:08:56 GMT | SecPad — High-performance multi-note taking, designed for CyberSecurity professionals | Lucas V. Marangoni | [Read More](https://medium.com/p/714c5092f14c) |
-| Thu, 09 Apr 2026 08:05:22 GMT | The Weakest Link in Web3 Security Is Not Always the Code | Mytier Universe Official Blog | [Read More](https://medium.com/p/094a89847588) |
-| Thu, 09 Apr 2026 08:02:58 GMT | Mastering iOS Pentesting: Part 1(Updated): How to Jailbreak iPhone 7 / 7 Plus on new iOS 15.8.7 | Faris Faisal 0xFF | [Read More](https://medium.com/p/8235ac7ca457) |
-| Thu, 09 Apr 2026 08:02:24 GMT | Masjesu Botnet Explained: How a Stealthy DDoS-for-Hire Service Is Turning Global IoT Devices Into… | Germano Costi | [Read More](https://medium.com/p/4725bccec302) |
-| Thu, 09 Apr 2026 07:59:31 GMT | Building a SOC Ticketing System with JIRA (Complete Step-by-Step Guide) | Raymond Ebonine | [Read More](https://medium.com/p/a5eac6d4ce35) |
-| Thu, 09 Apr 2026 07:59:00 GMT | NFS: The Silent File Sharing Protocol That Can Expose Your Entire Network | Mert Baykal | [Read More](https://medium.com/p/1bcc4436864c) |
-| Thu, 09 Apr 2026 07:53:08 GMT | Why AI Generation Alone Is Not Enough: The Missing Control Layer | Quokka Labs | [Read More](https://medium.com/p/ea3be8fe3b0e) |
-| Thu, 09 Apr 2026 07:49:56 GMT | When "Duplicate" is an affirmation of your skill. | nguyenchinh | [Read More](https://medium.com/p/9d1261e3f6b2) |
-| Thu, 09 Apr 2026 07:47:17 GMT | Love Letter Locker — TryHackMe Writeup | Death Esther | [Read More](https://medium.com/p/88ea904851fb) |
-| Thu, 09 Apr 2026 07:46:26 GMT | APT28 PRISMEX Analysis: Rapid Exploitation, Credential Harvesting, and Emerging Cyber Threat Trends | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/5d46e291f466) |
-| Thu, 09 Apr 2026 07:46:01 GMT | The AI That Found Everything — And Why Anthropic Hid It | Seven Cubed Seven Labs | [Read More](https://medium.com/p/2f039fe2b6f5) |
-| Thu, 09 Apr 2026 07:44:44 GMT | Top 10 Benefits of Cloud-Based Solar SCADA Systems - Intellisolar | Intellisolar | [Read More](https://medium.com/p/5533256c6a8c) |
-| Thu, 09 Apr 2026 07:43:20 GMT | Joseph Lamar Simmons Explains Art of Intelligence Operations | Joseph Lamar Simmons | [Read More](https://medium.com/p/481b72efa5c2) |
-| Thu, 09 Apr 2026 07:33:38 GMT | The Agentic AI Attack Surface: Prompt Injection, Memory Poisoning, and How to Defend Against Them | Cynox Security LLP. | [Read More](https://medium.com/p/aee0eff0dfe9) |
-| Thu, 09 Apr 2026 07:26:50 GMT | When Policy Fails — Part 1 of 5: Eight Years, Multiple Countries, One App, Zero Consequences | Gautam Mengle | [Read More](https://medium.com/p/d1ae918dab5d) |
-| Thu, 09 Apr 2026 07:19:31 GMT | NIGERIA REIMAGINED; A FRESH SET OF EYES(A CREATIVERSAL PUBLICATION) | Creativerse | [Read More](https://medium.com/p/6a66fc3217fa) |
-| Thu, 09 Apr 2026 07:18:05 GMT | CCTV Monitoring Pricing: What Every Business Should Budget For | Doris William | [Read More](https://medium.com/p/b4fd9672bc75) |
-| Thu, 09 Apr 2026 07:16:51 GMT | Why You’d Rather Click on SEX Than Think About Your Existence (The Raw Truth) | Thomas Bellavanture | [Read More](https://medium.com/p/4c6dc8170c60) |
-| Thu, 09 Apr 2026 07:07:19 GMT | The Secret Life of AWS: The Success Disaster (Amazon API Gateway Throttling) | Aaron Rose | [Read More](https://medium.com/p/80a821f12900) |
-| Thu, 09 Apr 2026 07:06:08 GMT | I’m Not as Strong as You Think I Am | Jié Qián Cìláng | [Read More](https://medium.com/p/b4eeabc9fedf) |
-| Thu, 09 Apr 2026 06:58:29 GMT | Best Practices for Mobile App Data Privacy | AcmeMinds | [Read More](https://medium.com/p/baef9dfe2678) |
-| Thu, 09 Apr 2026 06:57:26 GMT | The Rising Demand for Professional Patrol Services Across Australia | SecurityInsightsAU | [Read More](https://medium.com/p/9834b29d405c) |
-| Thu, 09 Apr 2026 06:47:52 GMT | Jailbreak-Type Characteristics in iOS: Behavior, Risks, and Security Insights | Tandelpruthvi | [Read More](https://medium.com/p/e4163b4d96c7) |
-| Thu, 09 Apr 2026 06:47:28 GMT | JIT Heap Spray Explained: A Simple Guide for Beginners | Ashen Bhagya | [Read More](https://medium.com/p/87fa35ddc094) |
