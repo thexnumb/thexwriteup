@@ -12,7 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Apr 2026 08:09:53 GMT | The Day the Server Crashed: A Story Every Business Should Read | ANSI Technologies | [Read More](https://medium.com/p/4d733e25402e) |
+| Thu, 09 Apr 2026 08:08:56 GMT | SecPad — High-performance multi-note taking, designed for CyberSecurity professionals | Lucas V. Marangoni | [Read More](https://medium.com/p/714c5092f14c) |
+| Thu, 09 Apr 2026 08:05:22 GMT | The Weakest Link in Web3 Security Is Not Always the Code | Mytier Universe Official Blog | [Read More](https://medium.com/p/094a89847588) |
+| Thu, 09 Apr 2026 08:02:58 GMT | Mastering iOS Pentesting: Part 1(Updated): How to Jailbreak iPhone 7 / 7 Plus on new iOS 15.8.7 | Faris Faisal 0xFF | [Read More](https://medium.com/p/8235ac7ca457) |
+| Thu, 09 Apr 2026 08:02:24 GMT | Masjesu Botnet Explained: How a Stealthy DDoS-for-Hire Service Is Turning Global IoT Devices Into… | Germano Costi | [Read More](https://medium.com/p/4725bccec302) |
+| Thu, 09 Apr 2026 07:59:31 GMT | Building a SOC Ticketing System with JIRA (Complete Step-by-Step Guide) | Raymond Ebonine | [Read More](https://medium.com/p/a5eac6d4ce35) |
+| Thu, 09 Apr 2026 07:59:00 GMT | NFS: The Silent File Sharing Protocol That Can Expose Your Entire Network | Mert Baykal | [Read More](https://medium.com/p/1bcc4436864c) |
+| Thu, 09 Apr 2026 07:53:08 GMT | Why AI Generation Alone Is Not Enough: The Missing Control Layer | Quokka Labs | [Read More](https://medium.com/p/ea3be8fe3b0e) |
+| Thu, 09 Apr 2026 07:49:56 GMT | When "Duplicate" is an affirmation of your skill. | nguyenchinh | [Read More](https://medium.com/p/9d1261e3f6b2) |
+| Thu, 09 Apr 2026 07:46:26 GMT | APT28 PRISMEX Analysis: Rapid Exploitation, Credential Harvesting, and Emerging Cyber Threat Trends | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/5d46e291f466) |
+| Thu, 09 Apr 2026 07:46:01 GMT | The AI That Found Everything — And Why Anthropic Hid It | Seven Cubed Seven Labs | [Read More](https://medium.com/p/2f039fe2b6f5) |
+| Thu, 09 Apr 2026 07:44:44 GMT | Top 10 Benefits of Cloud-Based Solar SCADA Systems - Intellisolar | Intellisolar | [Read More](https://medium.com/p/5533256c6a8c) |
+| Thu, 09 Apr 2026 07:43:20 GMT | Joseph Lamar Simmons Explains Art of Intelligence Operations | Joseph Lamar Simmons | [Read More](https://medium.com/p/481b72efa5c2) |
+| Thu, 09 Apr 2026 07:33:38 GMT | The Agentic AI Attack Surface: Prompt Injection, Memory Poisoning, and How to Defend Against Them | Cynox Security LLP. | [Read More](https://medium.com/p/aee0eff0dfe9) |
+| Thu, 09 Apr 2026 07:26:50 GMT | When Policy Fails — Part 1 of 5: Eight Years, Multiple Countries, One App, Zero Consequences | Gautam Mengle | [Read More](https://medium.com/p/d1ae918dab5d) |
+| Thu, 09 Apr 2026 07:19:31 GMT | NIGERIA REIMAGINED; A FRESH SET OF EYES(A CREATIVERSAL PUBLICATION) | Creativerse | [Read More](https://medium.com/p/6a66fc3217fa) |
+| Thu, 09 Apr 2026 07:18:05 GMT | CCTV Monitoring Pricing: What Every Business Should Budget For | Doris William | [Read More](https://medium.com/p/b4fd9672bc75) |
+| Thu, 09 Apr 2026 07:16:51 GMT | Why You’d Rather Click on SEX Than Think About Your Existence (The Raw Truth) | Thomas Bellavanture | [Read More](https://medium.com/p/4c6dc8170c60) |
+| Thu, 09 Apr 2026 07:07:19 GMT | The Secret Life of AWS: The Success Disaster (Amazon API Gateway Throttling) | Aaron Rose | [Read More](https://medium.com/p/80a821f12900) |
+| Thu, 09 Apr 2026 07:06:08 GMT | I’m Not as Strong as You Think I Am | Jié Qián Cìláng | [Read More](https://medium.com/p/b4eeabc9fedf) |
+| Thu, 09 Apr 2026 06:58:29 GMT | Best Practices for Mobile App Data Privacy | AcmeMinds | [Read More](https://medium.com/p/baef9dfe2678) |
 | Thu, 09 Apr 2026 06:57:26 GMT | The Rising Demand for Professional Patrol Services Across Australia | SecurityInsightsAU | [Read More](https://medium.com/p/9834b29d405c) |
+| Thu, 09 Apr 2026 06:47:52 GMT | Jailbreak-Type Characteristics in iOS: Behavior, Risks, and Security Insights | Tandelpruthvi | [Read More](https://medium.com/p/e4163b4d96c7) |
 | Thu, 09 Apr 2026 06:47:28 GMT | JIT Heap Spray Explained: A Simple Guide for Beginners | Ashen Bhagya | [Read More](https://medium.com/p/87fa35ddc094) |
 | Thu, 09 Apr 2026 06:46:37 GMT | Nissan Breach 2026: When Cybercriminals Target the Automotive Industry | Sneha | [Read More](https://medium.com/p/2ce1a35a77e3) |
 | Thu, 09 Apr 2026 06:37:17 GMT | Case Study — Lessons from the Bangladesh Bank Heist | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/1a5b18134c68) |
@@ -90,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 08 Apr 2026 22:02:40 GMT | AI, Deepfakes and the Dark Web - WiCyS 2026 (Women in Cybersecurity) Annual Conference - Takeaways… | Meera Tamboli | [Read More](https://medium.com/p/1ade770010d2) |
 | Wed, 08 Apr 2026 22:02:38 GMT | Prompt Injection Is the New SQL Injection — And Most AI Apps Are Wide Open | Vikrant Waghmode | [Read More](https://medium.com/p/ac48bdabec2d) |
 | Wed, 08 Apr 2026 22:01:45 GMT | SOC Journey — Lab 5: Process Tracking (Windows) | Hemaprasadpotnuru | [Read More](https://medium.com/p/5e28e38b3e3e) |
-| Wed, 08 Apr 2026 22:01:42 GMT | My SC-900 Learning Journey (Day 10) — Understanding the Microsoft Defender Ecosystem and How XDR… | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/0afd4858cc0b) |
-| Wed, 08 Apr 2026 21:56:44 GMT | How I Discovered a Blind SQL Injection in a Private program | mrx_w_ | [Read More](https://medium.com/p/38cd34a1dd00) |
-| Wed, 08 Apr 2026 21:50:30 GMT | Try Hack Me Burp Suite walk-through | Rormsbee | [Read More](https://medium.com/p/244c66ecefe9) |
-| Wed, 08 Apr 2026 21:49:47 GMT | The Hidden Dangers of Uploading Sensitive Documents to Online PDF Tools | localpdfs | [Read More](https://medium.com/p/e5b20917192c) |
-| Wed, 08 Apr 2026 21:33:27 GMT | I Directed AI Agents to Build a Tool That Stress-Tests Incentive Designs. Here’s What It Found. | Selfradiance | [Read More](https://medium.com/p/a079f152b158) |
-| Wed, 08 Apr 2026 21:32:44 GMT | The Invisible Risk: How Hidden Dependencies in IronXL Blind Your Security Audits | Tony Q. | [Read More](https://medium.com/p/74d2adc3c307) |
-| Wed, 08 Apr 2026 21:30:32 GMT | WHAT NOW, NIGERIA? (A CREATIVERSAL PUBLICATION) | Creativerse | [Read More](https://medium.com/p/aef2926684cd) |
-| Wed, 08 Apr 2026 21:30:00 GMT | Building a Bulletproof HIPAA Disaster Recovery Plan: A Step-by-Step Guide | Joegellatly | [Read More](https://medium.com/p/5429aee469f5) |
-| Wed, 08 Apr 2026 21:27:18 GMT | Phishing Analysis Lab- Blue Team Lab Walkthrough | Pravat Dash | [Read More](https://medium.com/p/774d2027d536) |
-| Wed, 08 Apr 2026 21:25:12 GMT | Tryhackme Write-up: Corp Website (Romance and Co) 2026 | Day0x0f | [Read More](https://medium.com/p/63c97a11cf9c) |
-| Wed, 08 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 44: Test Prep, Day 3 | Maximillian Rueda | [Read More](https://medium.com/p/647335c270fa) |
-| Wed, 08 Apr 2026 20:49:29 GMT | Securing the Backbone — Issue #8: Open Source Meets NERC CIP — Are You Ready for the Compliance… | Eric Gallagher | [Read More](https://medium.com/p/a6b42473a95d) |
-| Wed, 08 Apr 2026 20:49:21 GMT | Securing the Backbone: Issue #7: The Open-Source Software Dilemma — Innovation vs. Risk | Eric Gallagher | [Read More](https://medium.com/p/306811481c97) |
-| Wed, 08 Apr 2026 20:43:49 GMT | How I Became an Organization Owner via Invite Manipulation (Privilege
-Escalation) | Ahmed Mahmoud | [Read More](https://medium.com/p/7a39ba5152cb) |
-| Wed, 08 Apr 2026 20:43:20 GMT | What One Unsubscribe Link Revealed About Cross-Site Tracking | Piyush Agrawal | [Read More](https://medium.com/p/032211645a6b) |
-| Wed, 08 Apr 2026 20:38:15 GMT | Alpine vs Distroless : quelle image Docker choisir pour la production ? | Benjamin Ekia | [Read More](https://medium.com/p/ed9505ee42db) |
-| Wed, 08 Apr 2026 20:24:00 GMT | Stop Guessing XSS Payloads | Marduk I Am | [Read More](https://medium.com/p/881cad409624) |
-| Wed, 08 Apr 2026 20:20:58 GMT | The 5 Biggest Security Flaws in Shared Hosting That Put Your Clients at Risk | Clear Practise Founder | [Read More](https://medium.com/p/f44d7c0c9b3f) |
-| Wed, 08 Apr 2026 20:13:22 GMT | The Cost of Building Software Just Went to Zero. So Did the Cost of Breaking It. | Vishwamdhavale | [Read More](https://medium.com/p/eb34af5f850a) |
-| Wed, 08 Apr 2026 20:12:15 GMT | When Real-Time Becomes Real Risk: A WebSocket Security Lesson from Club Penguin | DaLuna | [Read More](https://medium.com/p/e77a9eba4a69) |
-| Wed, 08 Apr 2026 20:11:40 GMT | Java or Python? The Question Every Student Asks, I Was Confused Too — Here’s What Changed My Mind | Palak Jaiswal | [Read More](https://medium.com/p/d11b91663511) |
-| Wed, 08 Apr 2026 20:11:01 GMT | Smart Leaders Treat AI Like Fire | Jon Conradt | [Read More](https://medium.com/p/32ea3c3d02e5) |
