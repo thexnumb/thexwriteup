@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Apr 2026 16:01:21 GMT | When “Safe” Isn’t Safe: The Axios Supply Chain Scare That Shook Developers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/0c10e66c28f0) |
+| Thu, 09 Apr 2026 16:01:01 GMT | Gift Lab (BAC) Bugforge | 7s26Simon | [Read More](https://medium.com/p/48f0318ba9ed) |
+| Thu, 09 Apr 2026 15:54:07 GMT | Justiss Goode’s Benable Store is Now Open for Business | Justiss Goode | [Read More](https://medium.com/p/71bc493838a7) |
+| Thu, 09 Apr 2026 15:50:20 GMT | Supply Chain Attacks in NPM: How One Dependency Can Compromise Everything | Narendar Battula (nArEn) | [Read More](https://medium.com/p/59389c619d59) |
+| Thu, 09 Apr 2026 15:48:58 GMT | Proxy Testing Tools (Speed, Anonymity, Reliability) | Patricia Morales | [Read More](https://medium.com/p/7d8f5b5a6c5b) |
+| Thu, 09 Apr 2026 15:43:59 GMT | Making Users Strong Again: How Rainbow Secure Is Redefining Authentication with rSecureKey and… | Dr. Shashi Karhail | [Read More](https://medium.com/p/2a920ea2adcf) |
+| Thu, 09 Apr 2026 15:41:22 GMT | “Bug Bounty Bootcamp #31: Blind SQL Injection on INSERT — When Contact Forms Become Silent Data… | Aman Sharma | [Read More](https://medium.com/p/dfa5f8ddffe8) |
+| Thu, 09 Apr 2026 15:40:59 GMT | The Blade Runner Christmas Manifesto: It’s not just Science Fiction, It’s a Christmas Carol. | Philip Jean-Pierre | [Read More](https://medium.com/p/2eaca1ab69c7) |
+| Thu, 09 Apr 2026 15:37:28 GMT | From Credentials to Domain Admin: Hacking HackTheBox’s Support Machine | yogesh | [Read More](https://medium.com/p/9609e3fea3ca) |
+| Thu, 09 Apr 2026 15:35:16 GMT | ✍️STT #1 — Your AI Gateway Was a Backdoor | TheGr8Val | [Read More](https://medium.com/p/3dd15efc3a1b) |
+| Thu, 09 Apr 2026 15:34:28 GMT | Cybersecurity for Beginners: Common Mistakes I’m Making and What I’m Learning | Sharif Hassan | [Read More](https://medium.com/p/8c0d53365e2c) |
+| Thu, 09 Apr 2026 15:30:47 GMT | Project Glasswing: Anthropic’s “OpenClaw” Moment! | DrSwarnenduAI | [Read More](https://medium.com/p/1a1a50867fcd) |
+| Thu, 09 Apr 2026 15:29:26 GMT | Want to Learn Pentesting Faster? Start With These 21 Famous Platforms!!! | cybrNK | [Read More](https://medium.com/p/1e32cb0b33ed) |
+| Thu, 09 Apr 2026 15:28:53 GMT | I Let an AI Agent Loose on My Git Repo. It Marked 13 Tasks “Done” Without Doing Any Work. | Joseph Nemuri | [Read More](https://medium.com/p/d406214d634b) |
+| Thu, 09 Apr 2026 15:25:42 GMT | The Real AI Concern Is Not Art or Jobs, It Is Cybersecurity | Ted Tahquechi | [Read More](https://medium.com/p/5549e3b66312) |
+| Thu, 09 Apr 2026 15:23:36 GMT | How Iran Hacks Ships in the Straight of Hormuz | Chris Kubecka de Medina | [Read More](https://medium.com/p/d194583d8789) |
+| Thu, 09 Apr 2026 15:21:43 GMT | A Simple Race Condition with Real-World Impact | DrRobik | [Read More](https://medium.com/p/c5ae22f9f7b2) |
+| Thu, 09 Apr 2026 15:09:37 GMT | The Art of Misleading Indicators in Cyber Investigations | InfosecPandey | [Read More](https://medium.com/p/bd1c231a4d85) |
+| Thu, 09 Apr 2026 14:54:14 GMT | Your VPN is Your Biggest Vulnerability: The Irony of Perimeter Security | Hugo Valters | [Read More](https://medium.com/p/51b235f8ff05) |
+| Thu, 09 Apr 2026 14:51:24 GMT | I Did Let AI Organize My Life — Here’s What I Learned About Its Power | James Mokaya | [Read More](https://medium.com/p/31b8147aab57) |
+| Thu, 09 Apr 2026 14:50:53 GMT | I Got Burned Out From Building, So I Broke Into My Own App Instead | Priyankaforu | [Read More](https://medium.com/p/5008667d2e4c) |
+| Thu, 09 Apr 2026 14:45:52 GMT | Webroot vs Microsoft Defender in 2026 — Honest Comparison & Which Is Best | foodlis.com | [Read More](https://medium.com/p/6efa8c1df580) |
+| Thu, 09 Apr 2026 14:29:09 GMT | THE ATTACKER CLICKED A BUTTON. THEN WENT TO LUNCH. | Dishanth C A | [Read More](https://medium.com/p/df3862909c68) |
+| Thu, 09 Apr 2026 14:22:17 GMT | I THOUGHT INFORMATION SECURITY WAS ABOUT HACKERS(Introduction to Information Security: HackTheBox) | Orem Gitonga | [Read More](https://medium.com/p/6433c7b8a147) |
+| Thu, 09 Apr 2026 14:21:01 GMT | Hot vs. Cold Wallets: Where Should You Actually Store Your Crypto? | Web3 writer | [Read More](https://medium.com/p/e128fded75ef) |
 | Thu, 09 Apr 2026 14:15:26 GMT | Axios Supply Chain Attack: Why, How, Now What? | Onur Demiray | [Read More](https://medium.com/p/eae67aab36c0) |
 | Thu, 09 Apr 2026 14:13:40 GMT | Identity Is the New Front Line | Scottcmcmahan | [Read More](https://medium.com/p/ed5adb6ea4ec) |
 | Thu, 09 Apr 2026 14:12:32 GMT | New brain.exe Not Found | Mariam Gigashvili | [Read More](https://medium.com/p/430d0b059f29) |
@@ -32,6 +57,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 13:25:59 GMT | Signs of spousal infidelity | Michael Parks | [Read More](https://medium.com/p/01e781638d89) |
 | Thu, 09 Apr 2026 13:22:05 GMT | Pico ctf write-up (Crack the Gate 1) | Blacklotus | [Read More](https://medium.com/p/871ee38990b8) |
 | Thu, 09 Apr 2026 13:11:57 GMT | TryHackMe Writeup: Linux Privilege Escalation via CVE-2015–1328 | Cybernerddd | [Read More](https://medium.com/p/0fce4234ad5a) |
+| Thu, 09 Apr 2026 13:10:04 GMT | Corporate Cybersecurity in 2026: What Business Leaders Must Know to Protect Their Organizations | Hemant Kolhe | [Read More](https://medium.com/p/2c422ba3fbbc) |
 | Thu, 09 Apr 2026 13:09:44 GMT | Encrypting Your Kubernetes Volumes on OVH Because Your Data Deserves Better | Vincenthartmann | [Read More](https://medium.com/p/94c13942aeb6) |
 | Thu, 09 Apr 2026 13:05:55 GMT | Easy Peasy — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/2379c5b5f011) |
 | Thu, 09 Apr 2026 13:02:20 GMT | Introduction to Linux OS. | Janod Abesekara | [Read More](https://medium.com/p/9524247ee425) |
@@ -41,6 +67,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 12:50:21 GMT | Visible Error-Based SQL Injection: Leaking Data Through PostgreSQL Errors | Mohamed Ahmed | [Read More](https://medium.com/p/8aab6f6039d8) |
 | Thu, 09 Apr 2026 12:47:47 GMT | Business Center in Dubai: Your Gateway to Growth and Success | Abdul Rafay | [Read More](https://medium.com/p/1222e9989a5a) |
 | Thu, 09 Apr 2026 12:39:24 GMT | Pico ctf write-up Web Exploitation(Old Sessions) | Blacklotus | [Read More](https://medium.com/p/145609631066) |
+| Thu, 09 Apr 2026 12:39:09 GMT | How Phishing Is Targeting Germany’s Economy: Active Threats from Finance to Manufacturing | ANY.RUN | [Read More](https://medium.com/p/52454f3e0749) |
 | Thu, 09 Apr 2026 12:33:43 GMT | Argus: Building a Linux Kernel Rootkit Detection Module | Ananthan R | [Read More](https://medium.com/p/08d3e9fd997b) |
 | Thu, 09 Apr 2026 12:18:47 GMT | CAPTCHA Misconfiguration Leading to Replay-Based Authentication Bypass - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/eb684b0f0d4c) |
 | Thu, 09 Apr 2026 12:15:29 GMT | WordPress Security Checklist: How to Protect Your Website from Hackers | Jude Anewuoh | [Read More](https://medium.com/p/eaf17075bbf5) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 10:44:21 GMT | Microsoft Sentinel Made Simple: A Beginner’s Guide to SIEM | Codelearner | [Read More](https://medium.com/p/6be2f739d957) |
 | Thu, 09 Apr 2026 10:43:59 GMT | ประจำวันพฤหัสบดีที่ 9 เมษายน 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/1b933a63e5c7) |
 | Thu, 09 Apr 2026 10:40:57 GMT | How to Store Cryptocurrency Safely | CryptoPulse.News | [Read More](https://medium.com/p/0b4e61af7c25) |
-| Thu, 09 Apr 2026 10:37:39 GMT | Top-Rated Business IT Solutions in North Chandler by MTI Tech Solutions | MTI Tech Solutions | [Read More](https://medium.com/p/4ded6d9c01f2) |
-| Thu, 09 Apr 2026 10:36:03 GMT | Why Small Businesses in Sri Lanka Can’t Ignore Cybersecurity Anymore | axzell innovations | [Read More](https://medium.com/p/22acd0966ffe) |
-| Thu, 09 Apr 2026 10:35:10 GMT | Thessaly Wright: Navigating the 2026 Private Capital Landscape with Radical Transparency | Thessaly Wright | [Read More](https://medium.com/p/28a1d7527bab) |
-| Thu, 09 Apr 2026 10:31:47 GMT | PicoCTF : Password Profiler | Utsav Thakur | [Read More](https://medium.com/p/e09a402f22c6) |
-| Thu, 09 Apr 2026 10:31:27 GMT | PicoCTF : MultiCode | Utsav Thakur | [Read More](https://medium.com/p/88f5023929d2) |
-| Thu, 09 Apr 2026 10:28:29 GMT | The Strategic Evolution of IoT Security and Organizational Resilience in 2026 | Shifra Nuriel | [Read More](https://medium.com/p/d2c1adfa9b3c) |
-| Thu, 09 Apr 2026 10:26:48 GMT | AI Agents Are Becoming Hackers’ Favorite New Entry Point | JIN | [Read More](https://medium.com/p/58f09817093d) |
-| Thu, 09 Apr 2026 10:26:35 GMT | AI Doesn’t Get Hacked. It Gets Misdirected. | Felix Ivance Runye | [Read More](https://medium.com/p/47b57490a4ba) |
-| Thu, 09 Apr 2026 10:23:04 GMT | HackTheBox — Garfield (Hard Windows): Walkthrough | J0K3R | [Read More](https://medium.com/p/143244efd801) |
-| Thu, 09 Apr 2026 10:21:24 GMT | When a Simple Parameter Exposes All Users: A Real-World API Authorization Flaw | Omkapri | [Read More](https://medium.com/p/57febfbfa08c) |
-| Thu, 09 Apr 2026 10:19:14 GMT | Lab 11: Method-Based Access Control Bypass — How It Works, Real Bounties, and How to Test It | morgan_hack | [Read More](https://medium.com/p/5cd3dcd488e9) |
-| Thu, 09 Apr 2026 10:18:11 GMT | The Structure of Questioning, the Inverted Algorithm, Relations as Knowledge | Haruka Matsukasa | [Read More](https://medium.com/p/b30c83a75dd8) |
-| Thu, 09 Apr 2026 10:14:30 GMT | How to do Active Directory Certificate Attacks (ESC1,2,3,4,6,7,8) | Zoroya | [Read More](https://medium.com/p/1db7958c527d) |
-| Thu, 09 Apr 2026 10:11:51 GMT | Top Cybersecurity Threats in UAE Businesses (2026 Guide) | Diversified LLC | [Read More](https://medium.com/p/b3cb6af84134) |
-| Thu, 09 Apr 2026 10:10:32 GMT | İç Denetim Nedir? Süreçleri, Mantığı ve Gerçek Hayattaki Karşılığı | Didem Kış | [Read More](https://medium.com/p/e72298d56197) |
-| Thu, 09 Apr 2026 10:05:50 GMT | HackTheBox — Fries (Hard Windows): walkthrough | J0K3R | [Read More](https://medium.com/p/3129cae98685) |
-| Thu, 09 Apr 2026 10:00:42 GMT | Learn NMAP’S essential topics. | ExploitHunter | [Read More](https://medium.com/p/564fc429f3a3) |
-| Thu, 09 Apr 2026 09:59:32 GMT | IDOR vulnerabilities explained: One of the most common web bugs | ExploitHunter | [Read More](https://medium.com/p/df0f9274f1cd) |
-| Thu, 09 Apr 2026 09:52:33 GMT | Clients today don’t just want delivery — they want partners who understand business impact | Aviral Chitkara | [Read More](https://medium.com/p/bff922cccb48) |
-| Thu, 09 Apr 2026 09:46:44 GMT | [Thompson] — Exploitation of Apache Tomcat Default Credentials Leading to RCE and Cron-Based… | Bash Overflow | [Read More](https://medium.com/p/d231bf1c2365) |
-| Thu, 09 Apr 2026 09:44:10 GMT | Fix Slow Windows PC (Step-by-Step Guide for Better Performance) | Sam | [Read More](https://medium.com/p/5fec04d1acca) |
-| Thu, 09 Apr 2026 09:43:24 GMT | The End of “Hope-Based” AI: Why Your Agents Need Mathematical Proofs to Be Safe | Takehiro Tsurumi | [Read More](https://medium.com/p/d8a9aaac344c) |
-| Thu, 09 Apr 2026 09:39:22 GMT | I Printed 500 Flyers… Then One Link Ruined Everything. | Lynklens | [Read More](https://medium.com/p/f00231da9525) |
-| Thu, 09 Apr 2026 09:36:01 GMT | Anthropic’s Mythos Figured Out How to Escape the Sandbox by Itself | David SEHYEON Baek | [Read More](https://medium.com/p/450ef745f661) |
-| Thu, 09 Apr 2026 09:35:43 GMT | The Model Too Dangerous to Release— And Why Anthropic Is Talking to the US Government About It | Faisal haque | [Read More](https://medium.com/p/e356eef4aaf2) |
-| Thu, 09 Apr 2026 09:34:58 GMT | Secure Your Active Directory: Registry Hardening Using GPO | Udeh Chikamso | [Read More](https://medium.com/p/288f8804d220) |
-| Thu, 09 Apr 2026 09:32:27 GMT | LLMs, embeddings, and RAG — how to build an AI that knows your company’s secrets | Anshulvairagade | [Read More](https://medium.com/p/d7a8b4e342db) |
