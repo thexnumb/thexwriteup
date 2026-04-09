@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Apr 2026 03:01:05 GMT | Fundamentals of Information Security — Chapter 07 | Mani Gayathri | [Read More](https://medium.com/p/e442e23b7acd) |
+| Thu, 09 Apr 2026 02:58:04 GMT | Web Application Security: Hands-On Practice (Chapter 19 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/b318ed4d0c46) |
+| Thu, 09 Apr 2026 02:41:37 GMT | Before You Sign That Lease: How DMV Business Owners Avoid Opening Day IT Disasters | Mussawwir Sterrett | [Read More](https://medium.com/p/ea35b6dfe403) |
+| Thu, 09 Apr 2026 02:37:32 GMT | Назначение операций на дополнительные кнопки мыши (Linux Wayland) | Chernousov Anton | [Read More](https://medium.com/p/d94eb2d22564) |
+| Thu, 09 Apr 2026 02:34:55 GMT | Defending Small Business from Cyber Attack in 2026 | Matt Cox | [Read More](https://medium.com/p/532f83bd965f) |
+| Thu, 09 Apr 2026 02:29:09 GMT | The Day Research Proved Reward Hacking is Fundamental (While Anthropic Bought Goodwill With Apache) | Baozilla, Let's go! | [Read More](https://medium.com/p/8cc765633253) |
+| Thu, 09 Apr 2026 02:28:23 GMT | My SC-900 Learning Journey (Day 11) — Understanding Microsoft Purview, Privacy, and Data Governance | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/402f6cbdb5b0) |
+| Thu, 09 Apr 2026 02:18:23 GMT | My Bug Bounty Journey #8: How an Unintentional Mistake Led to a Floor Plan Leak | awchjimmy | [Read More](https://medium.com/p/1dafa8e00a79) |
+| Thu, 09 Apr 2026 02:11:18 GMT | 403 Forbidden Bypass — Manual Techniques & Tools (Real Bug Bounty Guide) | Pradeeptadi | [Read More](https://medium.com/p/459b1ab4405e) |
+| Thu, 09 Apr 2026 01:47:49 GMT | OSINT Exercise #002: Identifying a Train Station and Tallest Building | Justus D. | [Read More](https://medium.com/p/4d4439b2fed3) |
+| Thu, 09 Apr 2026 01:42:08 GMT | Claude Mythos Preview: When AI Becomes a Zero-Day Machine | Steven Cen | [Read More](https://medium.com/p/69c743c39c43) |
+| Thu, 09 Apr 2026 01:41:24 GMT | Call Center Agoda Indonesia 0818-0852-0696 | Call Center Agoda 08388331613 | [Read More](https://medium.com/p/5e4a11b7271d) |
+| Thu, 09 Apr 2026 01:41:14 GMT | Azure Firewall, NSG, and NVA: What Actually Happens to a Packet in a Hub-Spoke Network | Sajjad Soomro | [Read More](https://medium.com/p/26051a73b53f) |
+| Thu, 09 Apr 2026 01:39:27 GMT | Layanan Reschedule tiket Agoda 081808520696 WhatsApp Cs Agoda | Call Center Agoda 08388331613 | [Read More](https://medium.com/p/46994f7ca003) |
+| Thu, 09 Apr 2026 01:37:11 GMT | DAST for AWS Amplify Applications | Anwar Sadat | [Read More](https://medium.com/p/6bb2eb5440d3) |
+| Thu, 09 Apr 2026 01:01:03 GMT | [Parasite] Strategic Survival of the Underclass in a Stratified OS | MonoEssay | [Read More](https://medium.com/p/df7d72b21f47) |
+| Thu, 09 Apr 2026 00:56:47 GMT | Part 7: The AI under the hood and building trust in it’s automation | Aparna Ash Himmatramka | [Read More](https://medium.com/p/b2e26837f77f) |
+| Thu, 09 Apr 2026 00:54:40 GMT | How AI-Powered EDR Actually Works | Paritosh | [Read More](https://medium.com/p/3244ef2c2f60) |
 | Wed, 08 Apr 2026 23:56:01 GMT | The AI That Escaped Its Sandbox: What Claude Mythos Reveals About the Future of Cybersecurity | Martti Dumangeng | [Read More](https://medium.com/p/5f62a2936c75) |
 | Wed, 08 Apr 2026 23:43:37 GMT | Blogger Walkthrough (Proving Ground-Play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/687873143fa5) |
 | Wed, 08 Apr 2026 23:33:02 GMT | Secure by Design vs Secure by Default | Frank Leitner | [Read More](https://medium.com/p/63f14543268e) |
@@ -82,6 +100,7 @@ Escalation) | Ahmed Mahmoud | [Read More](https://medium.com/p/7a39ba5152cb) |
 | Wed, 08 Apr 2026 18:46:13 GMT | How We Replaced Our Entire Marketing Team With Claude Cowork (And What It Means for Your Career) | Rich Chen | [Read More](https://medium.com/p/16c1a400ab35) |
 | Wed, 08 Apr 2026 18:42:31 GMT | Anthropic has leaked data | Kankawee Aramrak | [Read More](https://medium.com/p/ce9eda598ce8) |
 | Wed, 08 Apr 2026 18:41:50 GMT | HackTheBox OverWatch CTF Writup | Saksham Baral | [Read More](https://medium.com/p/e6c18ddec7a1) |
+| Wed, 08 Apr 2026 18:41:35 GMT | Anthropic ทำข้อมูลหลุด | Kankawee Aramrak | [Read More](https://medium.com/p/4c10860cc258) |
 | Wed, 08 Apr 2026 18:32:43 GMT | The CRA Panic Is Real: Why Some Teams Are Calm — and Others Feel Like They’re Drowning | Mr.PlanB | [Read More](https://medium.com/p/4433610b0031) |
 | Wed, 08 Apr 2026 18:32:01 GMT | Episode 1: Why Hackers Love Linux (The Hacker’s Path Series) | Shivam Kumar | [Read More](https://medium.com/p/83fd8e7536ae) |
 | Wed, 08 Apr 2026 18:31:01 GMT | SQL INJECTION PART 1 | Anubhav_bora | [Read More](https://medium.com/p/5fef79e73ee4) |
@@ -94,22 +113,3 @@ Escalation) | Ahmed Mahmoud | [Read More](https://medium.com/p/7a39ba5152cb) |
 | Wed, 08 Apr 2026 17:38:22 GMT | The Hidden Cost of Ignoring Cyber Threats (And How Cybersecurity Consultancy Services Can Save You) | Patatvaishali | [Read More](https://medium.com/p/496819fd07dd) |
 | Wed, 08 Apr 2026 17:36:17 GMT | Hacked Routers Expose Microsoft 365 Logins | Geoffrey Wenger | [Read More](https://medium.com/p/522e2604f333) |
 | Wed, 08 Apr 2026 17:28:40 GMT | Introduction: A “Junior” Perspective on a Senior Debate | Doganay Yildiz | [Read More](https://medium.com/p/6eeb074f3802) |
-| Wed, 08 Apr 2026 17:22:51 GMT | The Red Tape Around Mythos Looks Serious (But Feels Strategically Timed) | Felix Kebaya | [Read More](https://medium.com/p/ee80cf9ace3a) |
-| Wed, 08 Apr 2026 17:13:16 GMT | Le bluff de l’IA | Florent M | [Read More](https://medium.com/p/682e7edecf9f) |
-| Wed, 08 Apr 2026 17:13:06 GMT | Top Security Challenges for Businesses in 2026: Navigating the New Era of Risk | AlexBryn | [Read More](https://medium.com/p/59f2535e8ada) |
-| Wed, 08 Apr 2026 17:08:58 GMT | Ansible CIS Benchmark: A Fling or a Serious Date? | byteGirl | [Read More](https://medium.com/p/80f65d29ca89) |
-| Wed, 08 Apr 2026 17:02:35 GMT | Japan’s Navy in a Shifting Indo-Pacific | Jaden M | [Read More](https://medium.com/p/4f728b6b279e) |
-| Wed, 08 Apr 2026 17:01:06 GMT | I tried to find myself online — and here is what strangers can see | Crystalcascade14 | [Read More](https://medium.com/p/12c63d726db6) |
-| Wed, 08 Apr 2026 17:00:36 GMT | (Day-4) If You Understand These OSI and TCP , You’re Ahead of 90% of People | Priyesh Patware | [Read More](https://medium.com/p/2966b92d1c19) |
-| Wed, 08 Apr 2026 16:59:28 GMT | Professional Profile | Kusunoki | [Read More](https://medium.com/p/639bc6fe4fb8) |
-| Wed, 08 Apr 2026 16:54:10 GMT | A Paradigm Shift in Maravel Queues: Securing Asynchronous Execution with Array Callables | marius-ciclistu | [Read More](https://medium.com/p/7282418289b8) |
-| Wed, 08 Apr 2026 16:53:40 GMT | Testing .NET MAUI Android Apps: A Penetration Tester’s Guide | GypsyCrushader | [Read More](https://medium.com/p/9e973920c564) |
-| Wed, 08 Apr 2026 16:49:12 GMT | Powering the Future: Why India’s Latest Nuclear Milestone is a Victory for the Tech Generation… | Rohit Prajapati | [Read More](https://medium.com/p/6633f18afb4d) |
-| Wed, 08 Apr 2026 16:25:52 GMT | Claude Mythos Preview: When Your AI Can Find Bugs Better Than Your Security Team | Bryan Chuinkam | [Read More](https://medium.com/p/d1cef1a6845d) |
-| Wed, 08 Apr 2026 16:23:25 GMT | Shodan Recon Important Stuff | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/de6aba58e445) |
-| Wed, 08 Apr 2026 16:19:52 GMT | Welcome ‍♂️- Hack Smarter Walkthrough | WireHawk Security | [Read More](https://medium.com/p/950a82670fbb) |
-| Wed, 08 Apr 2026 16:12:06 GMT | Southampton now join City, Chelsea, and Leeds in the last four — proof that in the FA Cup, form… | Monica Snell | [Read More](https://medium.com/p/066f7eb86dba) |
-| Wed, 08 Apr 2026 16:09:23 GMT | Information Technology: Meaning, Importance, Uses, and Future Trends | Digitalmarketingseo | [Read More](https://medium.com/p/a45d00c79e7a) |
-| Wed, 08 Apr 2026 16:08:34 GMT | From Zero to Bug Bounty Hunter in 59 Days (Day 01) | Hamim Islam | [Read More](https://medium.com/p/8923f599144f) |
-| Wed, 08 Apr 2026 16:08:07 GMT | มิจฉาชีพมาเลเซียล่าเหยื่อคนไทยผ่าน WhatsApp | CSRI | [Read More](https://medium.com/p/641e73561567) |
-| Wed, 08 Apr 2026 16:07:57 GMT | Custom C2 Agents for Red Team Operations | S12 - 0x12Dark Development | [Read More](https://medium.com/p/61d040ad7374) |
