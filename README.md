@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Apr 2026 18:53:01 GMT | You Are Not Your Stack | Susan Brearley | [Read More](https://medium.com/p/1c76255b6c05) |
+| Thu, 09 Apr 2026 18:50:25 GMT | Day 16: The Client-Side Betrayal — Unmasking Cross-Site Scripting (XSS) | Ndu | [Read More](https://medium.com/p/2f67eb653c3b) |
+| Thu, 09 Apr 2026 18:49:42 GMT | Day 15: The Database Siege — Demystifying SQL Injection (SQLi) | Ndu | [Read More](https://medium.com/p/68a4b8574862) |
+| Thu, 09 Apr 2026 18:49:30 GMT | LOVE -HackTheBox - Writeup - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/0ac3cbaad86e) |
+| Thu, 09 Apr 2026 18:46:59 GMT | 5. Backend como motor de decisão | Rudson Ribeiro Alves | [Read More](https://medium.com/p/f3b583e59dd7) |
+| Thu, 09 Apr 2026 18:40:35 GMT | Reflected XSS via HTML Attribute Manipulation — Hackviser Labs | Manohar T H | [Read More](https://medium.com/p/b0ef399aa119) |
+| Thu, 09 Apr 2026 18:30:34 GMT | Which Cybersecurity Certifications Boost Your Salary the Most in 2026? | Subhankar Sharma | [Read More](https://medium.com/p/8b8afc89c359) |
+| Thu, 09 Apr 2026 18:26:51 GMT | Deepfake Attacks: When Seeing Is No Longer Believing | Natarajan C K | [Read More](https://medium.com/p/511d3fd9aae8) |
+| Thu, 09 Apr 2026 18:26:48 GMT | OSINT Deep Dives | Muhammad Junaid Akhtar | [Read More](https://medium.com/p/f694cf5901ad) |
+| Thu, 09 Apr 2026 18:20:05 GMT | Weekly Threat Landscape: Thursday Roundup #3 | Josh Johnson | [Read More](https://medium.com/p/3e0405d8df2a) |
+| Thu, 09 Apr 2026 18:19:18 GMT | How to Watch ARD Mediathek Outside Germany | TechReview Hub | [Read More](https://medium.com/p/0ed139f16e81) |
+| Thu, 09 Apr 2026 18:17:22 GMT | The Dead End of Digital Trust: Why AI Has Made “Identity” Unverifiable by 2026 | Fino Franklin John Bosco | [Read More](https://medium.com/p/0baf976ac74c) |
+| Thu, 09 Apr 2026 18:16:38 GMT | Claude Mythos News, My Opinions on the Future of Tech, and Overcoming the Noise | The Husky Hacker | [Read More](https://medium.com/p/c8504a39efd1) |
+| Thu, 09 Apr 2026 17:55:50 GMT | 5 Ways I Found PII Disclosures in the Wild: Real Case Studies | Parth Narula | [Read More](https://medium.com/p/14429c54264f) |
+| Thu, 09 Apr 2026 17:41:11 GMT | 10 Petabytes Stolen — And Almost Nobody Noticed | Messidhanesh | [Read More](https://medium.com/p/6ad3c3720798) |
+| Thu, 09 Apr 2026 17:40:41 GMT | I Got Tired of Running 15 Different Nmap Commands. So I Built My Own Vulnerability Scanner. | Romario Bennett | [Read More](https://medium.com/p/ca3c21052e53) |
+| Thu, 09 Apr 2026 17:37:51 GMT | Mobile App Pentesting with DIVA: Manual, Drozer & MobSF | Aastha Thakker | [Read More](https://medium.com/p/9c1fbd38a8b5) |
+| Thu, 09 Apr 2026 17:34:26 GMT | The $MFT — the one artifact I check first on every Windows investigation | Mohit Dhabuwala | [Read More](https://medium.com/p/bc1fc32a730e) |
 | Thu, 09 Apr 2026 17:28:57 GMT | Anthropic Built the Most Powerful AI in the World. Then, Decided You Can’t Have It. | Bhandarijuhi | [Read More](https://medium.com/p/feab5ee1572a) |
 | Thu, 09 Apr 2026 17:28:30 GMT | We Faked a Tool. It Hijacked an AI Agent and Fed Users Lies and can do so much more. | Eklavya Tyagi | [Read More](https://medium.com/p/46e183071d21) |
 | Thu, 09 Apr 2026 17:26:47 GMT | What's the main point of disruptive technology in defense? | Mijaindholiya | [Read More](https://medium.com/p/624968bedcbd) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 12:57:31 GMT | Inside IoT Security: Exploitation of Zoneminder CCTV System (Cybersecurity Project Walkthrough) | Prince Lassey | [Read More](https://medium.com/p/da2a9f32653e) |
 | Thu, 09 Apr 2026 12:56:59 GMT | The 3TB Wake-Up Call: Why Nigeria’s Data Kingdom Is Burning in Plain Sight | Epistemus | [Read More](https://medium.com/p/27f774b39704) |
 | Thu, 09 Apr 2026 12:50:21 GMT | Visible Error-Based SQL Injection: Leaking Data Through PostgreSQL Errors | Mohamed Ahmed | [Read More](https://medium.com/p/8aab6f6039d8) |
-| Thu, 09 Apr 2026 12:47:47 GMT | Business Center in Dubai: Your Gateway to Growth and Success | Abdul Rafay | [Read More](https://medium.com/p/1222e9989a5a) |
-| Thu, 09 Apr 2026 12:39:24 GMT | Pico ctf write-up Web Exploitation(Old Sessions) | Blacklotus | [Read More](https://medium.com/p/145609631066) |
-| Thu, 09 Apr 2026 12:39:09 GMT | How Phishing Is Targeting Germany’s Economy: Active Threats from Finance to Manufacturing | ANY.RUN | [Read More](https://medium.com/p/52454f3e0749) |
-| Thu, 09 Apr 2026 12:33:43 GMT | Argus: Building a Linux Kernel Rootkit Detection Module | Ananthan R | [Read More](https://medium.com/p/08d3e9fd997b) |
-| Thu, 09 Apr 2026 12:18:47 GMT | CAPTCHA Misconfiguration Leading to Replay-Based Authentication Bypass - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/eb684b0f0d4c) |
-| Thu, 09 Apr 2026 12:15:29 GMT | WordPress Security Checklist: How to Protect Your Website from Hackers | Jude Anewuoh | [Read More](https://medium.com/p/eaf17075bbf5) |
-| Thu, 09 Apr 2026 12:14:44 GMT | Why Indore is quietly becoming India’s next big IT training hub | Vector Skill Academy | [Read More](https://medium.com/p/cc63dc0dda14) |
-| Thu, 09 Apr 2026 12:13:53 GMT | Android Content Provider Security: Exploiting File Providers (Pentester Deep Dive — Part 4) | Mustafa Mohamed | [Read More](https://medium.com/p/5f10d8ce2ebe) |
-| Thu, 09 Apr 2026 12:12:40 GMT | DOM XSS in jQuery anchor href attribute sink using location.search source(Simple + Practical Guide) | PRiTi.EX | [Read More](https://medium.com/p/f072b95230e2) |
-| Thu, 09 Apr 2026 12:11:45 GMT | ContainMe TryHackMe Walkthrough - by Yoel Yosief | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/d72d94213d3b) |
-| Thu, 09 Apr 2026 12:00:04 GMT | How I Bypassed 2FA Reconfiguration Using Response Manipulation — My First Bug Bounty | Mohamed Elmorsy | [Read More](https://medium.com/p/d98316799010) |
-| Thu, 09 Apr 2026 11:59:51 GMT | Stop Treating Your Security Like a “Check Engine” Light (or part #2 of what we can do with Bob even… | Alain Airom (Ayrom) | [Read More](https://medium.com/p/837d67186e26) |
-| Thu, 09 Apr 2026 11:59:33 GMT | IT Training with Placement Support in Katihar: Learn Skills That Lead to Careers | Brainzima Innovation Institute | [Read More](https://medium.com/p/2459e8d77742) |
-| Thu, 09 Apr 2026 11:57:35 GMT | The GRC Technician and the Death of the Check-Box: A Manifesto for Australian Cyber… | John Rouffas | [Read More](https://medium.com/p/cb76bcf54af7) |
-| Thu, 09 Apr 2026 11:52:09 GMT | How Cybersecurity Will Shape Corporate Reputation in 2030 | Digital Defense | [Read More](https://medium.com/p/96a151078066) |
-| Thu, 09 Apr 2026 11:51:08 GMT | Most FinTech Apps Get KYC and Data Security Wrong. Here’s What Actually Works | Varsha Ojha | [Read More](https://medium.com/p/34f35cb856ac) |
-| Thu, 09 Apr 2026 11:50:12 GMT | STOP STORING ‘JWT’ IN LOCAL STORAGE!!!!!!! | Pratyush Pandey | [Read More](https://medium.com/p/569cdada33b8) |
-| Thu, 09 Apr 2026 11:49:32 GMT | The dirty secret of AI-generated code: It ships fast and breaks quietly | Cloudsmith | [Read More](https://medium.com/p/9b9286499c4e) |
