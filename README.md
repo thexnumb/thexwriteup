@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Apr 2026 10:56:20 GMT | 10 Ways to Improve Cyber Security and Protect Your Data (2026 Guide) | CyberWisy | [Read More](https://medium.com/p/0ab95afcdb42) |
+| Thu, 09 Apr 2026 10:51:32 GMT | Security Is a Myth | aditya | [Read More](https://medium.com/p/7ca60faa7d16) |
+| Thu, 09 Apr 2026 10:48:28 GMT | Pass-the-Hash & Mimikatz : Stealing Credentials and Owning a Domain Controller | ɧrιsнi rajeeѵ | [Read More](https://medium.com/p/12dbc268d253) |
+| Thu, 09 Apr 2026 10:47:09 GMT | B2B Telecommunication Market Outlook & Industry Trends 2033 | NIkita Poplai | [Read More](https://medium.com/p/1fcb854a1b3a) |
+| Thu, 09 Apr 2026 10:44:21 GMT | Microsoft Sentinel Made Simple: A Beginner’s Guide to SIEM | Codelearner | [Read More](https://medium.com/p/6be2f739d957) |
+| Thu, 09 Apr 2026 10:43:59 GMT | ประจำวันพฤหัสบดีที่ 9 เมษายน 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/1b933a63e5c7) |
+| Thu, 09 Apr 2026 10:40:57 GMT | How to Store Cryptocurrency Safely | CryptoPulse.News | [Read More](https://medium.com/p/0b4e61af7c25) |
+| Thu, 09 Apr 2026 10:37:39 GMT | Top-Rated Business IT Solutions in North Chandler by MTI Tech Solutions | MTI Tech Solutions | [Read More](https://medium.com/p/4ded6d9c01f2) |
+| Thu, 09 Apr 2026 10:36:03 GMT | Why Small Businesses in Sri Lanka Can’t Ignore Cybersecurity Anymore | axzell innovations | [Read More](https://medium.com/p/22acd0966ffe) |
+| Thu, 09 Apr 2026 10:35:10 GMT | Thessaly Wright: Navigating the 2026 Private Capital Landscape with Radical Transparency | Thessaly Wright | [Read More](https://medium.com/p/28a1d7527bab) |
+| Thu, 09 Apr 2026 10:31:47 GMT | PicoCTF : Password Profiler | Utsav Thakur | [Read More](https://medium.com/p/e09a402f22c6) |
+| Thu, 09 Apr 2026 10:31:27 GMT | PicoCTF : MultiCode | Utsav Thakur | [Read More](https://medium.com/p/88f5023929d2) |
+| Thu, 09 Apr 2026 10:28:29 GMT | The Strategic Evolution of IoT Security and Organizational Resilience in 2026 | Shifra Nuriel | [Read More](https://medium.com/p/d2c1adfa9b3c) |
+| Thu, 09 Apr 2026 10:26:48 GMT | AI Agents Are Becoming Hackers’ Favorite New Entry Point | JIN | [Read More](https://medium.com/p/58f09817093d) |
+| Thu, 09 Apr 2026 10:26:35 GMT | AI Doesn’t Get Hacked. It Gets Misdirected. | Felix Ivance Runye | [Read More](https://medium.com/p/47b57490a4ba) |
+| Thu, 09 Apr 2026 10:23:04 GMT | HackTheBox — Garfield (Hard Windows): Walkthrough | J0K3R | [Read More](https://medium.com/p/143244efd801) |
+| Thu, 09 Apr 2026 10:21:24 GMT | When a Simple Parameter Exposes All Users: A Real-World API Authorization Flaw | Omkapri | [Read More](https://medium.com/p/57febfbfa08c) |
+| Thu, 09 Apr 2026 10:19:14 GMT | Lab 11: Method-Based Access Control Bypass — How It Works, Real Bounties, and How to Test It | morgan_hack | [Read More](https://medium.com/p/5cd3dcd488e9) |
+| Thu, 09 Apr 2026 10:18:11 GMT | The Structure of Questioning, the Inverted Algorithm, Relations as Knowledge | Haruka Matsukasa | [Read More](https://medium.com/p/b30c83a75dd8) |
+| Thu, 09 Apr 2026 10:14:30 GMT | How to do Active Directory Certificate Attacks (ESC1,2,3,4,6,7,8) | Zoroya | [Read More](https://medium.com/p/1db7958c527d) |
+| Thu, 09 Apr 2026 10:11:51 GMT | Top Cybersecurity Threats in UAE Businesses (2026 Guide) | Diversified LLC | [Read More](https://medium.com/p/b3cb6af84134) |
+| Thu, 09 Apr 2026 10:10:32 GMT | İç Denetim Nedir? Süreçleri, Mantığı ve Gerçek Hayattaki Karşılığı | Didem Kış | [Read More](https://medium.com/p/e72298d56197) |
+| Thu, 09 Apr 2026 10:05:50 GMT | HackTheBox — Fries (Hard Windows): walkthrough | J0K3R | [Read More](https://medium.com/p/3129cae98685) |
+| Thu, 09 Apr 2026 10:00:42 GMT | Learn NMAP’S essential topics. | ExploitHunter | [Read More](https://medium.com/p/564fc429f3a3) |
+| Thu, 09 Apr 2026 09:59:32 GMT | IDOR vulnerabilities explained: One of the most common web bugs | ExploitHunter | [Read More](https://medium.com/p/df0f9274f1cd) |
+| Thu, 09 Apr 2026 09:52:33 GMT | Clients today don’t just want delivery — they want partners who understand business impact | Aviral Chitkara | [Read More](https://medium.com/p/bff922cccb48) |
+| Thu, 09 Apr 2026 09:46:44 GMT | [Thompson] — Exploitation of Apache Tomcat Default Credentials Leading to RCE and Cron-Based… | Bash Overflow | [Read More](https://medium.com/p/d231bf1c2365) |
 | Thu, 09 Apr 2026 09:44:10 GMT | Fix Slow Windows PC (Step-by-Step Guide for Better Performance) | Sam | [Read More](https://medium.com/p/5fec04d1acca) |
 | Thu, 09 Apr 2026 09:43:24 GMT | The End of “Hope-Based” AI: Why Your Agents Need Mathematical Proofs to Be Safe | Takehiro Tsurumi | [Read More](https://medium.com/p/d8a9aaac344c) |
 | Thu, 09 Apr 2026 09:39:22 GMT | I Printed 500 Flyers… Then One Link Ruined Everything. | Lynklens | [Read More](https://medium.com/p/f00231da9525) |
@@ -39,6 +66,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 07:59:00 GMT | NFS: The Silent File Sharing Protocol That Can Expose Your Entire Network | Mert Baykal | [Read More](https://medium.com/p/1bcc4436864c) |
 | Thu, 09 Apr 2026 07:53:08 GMT | Why AI Generation Alone Is Not Enough: The Missing Control Layer | Quokka Labs | [Read More](https://medium.com/p/ea3be8fe3b0e) |
 | Thu, 09 Apr 2026 07:49:56 GMT | When "Duplicate" is an affirmation of your skill. | nguyenchinh | [Read More](https://medium.com/p/9d1261e3f6b2) |
+| Thu, 09 Apr 2026 07:47:17 GMT | Love Letter Locker — TryHackMe Writeup | Death Esther | [Read More](https://medium.com/p/88ea904851fb) |
 | Thu, 09 Apr 2026 07:46:26 GMT | APT28 PRISMEX Analysis: Rapid Exploitation, Credential Harvesting, and Emerging Cyber Threat Trends | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/5d46e291f466) |
 | Thu, 09 Apr 2026 07:46:01 GMT | The AI That Found Everything — And Why Anthropic Hid It | Seven Cubed Seven Labs | [Read More](https://medium.com/p/2f039fe2b6f5) |
 | Thu, 09 Apr 2026 07:44:44 GMT | Top 10 Benefits of Cloud-Based Solar SCADA Systems - Intellisolar | Intellisolar | [Read More](https://medium.com/p/5533256c6a8c) |
@@ -84,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 04:55:45 GMT | Ransomware in 2025 Was Not Just a Cybersecurity Problem. It Became an Operational Crisis. | Jaymeet Patel | [Read More](https://medium.com/p/6ac33c56faee) |
 | Thu, 09 Apr 2026 04:40:03 GMT | Potential Costs & Multi-Year Consequences of a U.S.-Iran War | George J. Assad georgejassad@gmail.com | [Read More](https://medium.com/p/9a841107584a) |
 | Thu, 09 Apr 2026 04:35:03 GMT | Journey into AI Security: Learning AI from Scratch | Anshulvairagade | [Read More](https://medium.com/p/416a23acb7b7) |
-| Thu, 09 Apr 2026 04:24:32 GMT | Simplifying Data Access in SailPoint IdentityIQ with a DB Workbench | Nihar Kalyanam | [Read More](https://medium.com/p/028b3cb1fb17) |
-| Thu, 09 Apr 2026 04:17:18 GMT | What the Fuck Is Going on at Anthropic | TheTechPencil | [Read More](https://medium.com/p/0e88cc1cbc43) |
-| Thu, 09 Apr 2026 04:03:37 GMT | Think Twice Before Posting, Internet is Not Safe Anymore… | Journey To Jannah | [Read More](https://medium.com/p/ec0e9c915e94) |
-| Thu, 09 Apr 2026 04:01:58 GMT | Simple — VulnHub Writeup | Abacu5 | [Read More](https://medium.com/p/708de99a2f22) |
-| Thu, 09 Apr 2026 04:01:01 GMT | Prompt Injection Attacks | Prince Kumar Sharma | [Read More](https://medium.com/p/287bc2f05ad7) |
-| Thu, 09 Apr 2026 03:48:36 GMT | CoAP Message Builder — A Simple Guide | Anuj Thakur (India) | [Read More](https://medium.com/p/031987587112) |
-| Thu, 09 Apr 2026 03:44:30 GMT | Anthropic Just Unleashed an AI That Found a 27-Year-Old Vulnerability. | Arif Ali | [Read More](https://medium.com/p/e430fdb75606) |
-| Thu, 09 Apr 2026 03:16:02 GMT | Emergency Fund: The Most Boring Investment That Could Save Your Life | Finance with Anand | [Read More](https://medium.com/p/fe518f1df30e) |
-| Thu, 09 Apr 2026 03:01:05 GMT | Fundamentals of Information Security — Chapter 07 | Mani Gayathri | [Read More](https://medium.com/p/e442e23b7acd) |
-| Thu, 09 Apr 2026 02:58:04 GMT | Web Application Security: Hands-On Practice (Chapter 19 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/b318ed4d0c46) |
-| Thu, 09 Apr 2026 02:41:37 GMT | Before You Sign That Lease: How DMV Business Owners Avoid Opening Day IT Disasters | Mussawwir Sterrett | [Read More](https://medium.com/p/ea35b6dfe403) |
-| Thu, 09 Apr 2026 02:37:32 GMT | Назначение операций на дополнительные кнопки мыши (Linux Wayland) | Chernousov Anton | [Read More](https://medium.com/p/d94eb2d22564) |
-| Thu, 09 Apr 2026 02:34:55 GMT | Defending Small Business from Cyber Attack in 2026 | Matt Cox | [Read More](https://medium.com/p/532f83bd965f) |
-| Thu, 09 Apr 2026 02:29:09 GMT | The Day Research Proved Reward Hacking is Fundamental (While Anthropic Bought Goodwill With Apache) | Baozilla, Let's go! | [Read More](https://medium.com/p/8cc765633253) |
-| Thu, 09 Apr 2026 02:28:23 GMT | My SC-900 Learning Journey (Day 11) — Understanding Microsoft Purview, Privacy, and Data Governance | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/402f6cbdb5b0) |
-| Thu, 09 Apr 2026 02:18:23 GMT | My Bug Bounty Journey #8: How an Unintentional Mistake Led to a Floor Plan Leak | awchjimmy | [Read More](https://medium.com/p/1dafa8e00a79) |
-| Thu, 09 Apr 2026 02:11:18 GMT | 403 Forbidden Bypass — Manual Techniques & Tools (Real Bug Bounty Guide) | Pradeeptadi | [Read More](https://medium.com/p/459b1ab4405e) |
-| Thu, 09 Apr 2026 01:47:49 GMT | OSINT Exercise #002: Identifying a Train Station and Tallest Building | Justus D. | [Read More](https://medium.com/p/4d4439b2fed3) |
-| Thu, 09 Apr 2026 01:42:08 GMT | Claude Mythos Preview: When AI Becomes a Zero-Day Machine | Steven Cen | [Read More](https://medium.com/p/69c743c39c43) |
-| Thu, 09 Apr 2026 01:41:24 GMT | Call Center Agoda Indonesia 0818-0852-0696 | Call Center Agoda 08388331613 | [Read More](https://medium.com/p/5e4a11b7271d) |
-| Thu, 09 Apr 2026 01:41:14 GMT | Azure Firewall, NSG, and NVA: What Actually Happens to a Packet in a Hub-Spoke Network | Sajjad Soomro | [Read More](https://medium.com/p/26051a73b53f) |
-| Thu, 09 Apr 2026 01:39:27 GMT | Layanan Reschedule tiket Agoda 081808520696 WhatsApp Cs Agoda | Call Center Agoda 08388331613 | [Read More](https://medium.com/p/46994f7ca003) |
-| Thu, 09 Apr 2026 01:37:11 GMT | DAST for AWS Amplify Applications | Anwar Sadat | [Read More](https://medium.com/p/6bb2eb5440d3) |
-| Thu, 09 Apr 2026 01:01:03 GMT | [Parasite] Strategic Survival of the Underclass in a Stratified OS | MonoEssay | [Read More](https://medium.com/p/df7d72b21f47) |
-| Thu, 09 Apr 2026 00:56:47 GMT | Part 7: The AI under the hood and building trust in it’s automation | Aparna Ash Himmatramka | [Read More](https://medium.com/p/b2e26837f77f) |
-| Thu, 09 Apr 2026 00:54:40 GMT | How AI-Powered EDR Actually Works | Paritosh | [Read More](https://medium.com/p/3244ef2c2f60) |
-| Wed, 08 Apr 2026 23:56:01 GMT | The AI That Escaped Its Sandbox: What Claude Mythos Reveals About the Future of Cybersecurity | Martti Dumangeng | [Read More](https://medium.com/p/5f62a2936c75) |
-| Wed, 08 Apr 2026 23:43:37 GMT | Blogger Walkthrough (Proving Ground-Play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/687873143fa5) |
