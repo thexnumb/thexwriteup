@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Apr 2026 23:22:14 GMT | When AI Becomes a Systemic Risk: What Claude Mythos Signals for Business, Technology, and the… | CCL Montante | [Read More](https://medium.com/p/9bbed1ff569d) |
+| Fri, 10 Apr 2026 22:59:31 GMT | OWASP Juice Shop TryHackMe Medium Writeup - Walkthrough & Solutions | PRASIDDHA PAL | [Read More](https://medium.com/p/fd5f4e55e30d) |
+| Fri, 10 Apr 2026 22:43:12 GMT | I honestly cant believe this happened… I was just scrolling like usual and must have missed some… | Sandra Harris | [Read More](https://medium.com/p/c0041dddf904) |
+| Fri, 10 Apr 2026 22:40:05 GMT | What a Sleeper Agent Revealed About AI Governance | Selfradiance | [Read More](https://medium.com/p/3fca743fd151) |
 | Fri, 10 Apr 2026 22:31:01 GMT | Adversarial Robustness in Decentralized AI: Poisoning Attacks, Byzantine Fault Tolerance, and… | Naushik Beladiya | [Read More](https://medium.com/p/0f1581478d6e) |
 | Fri, 10 Apr 2026 22:23:00 GMT | As founder of technology company you should focus | Mijaindholiya | [Read More](https://medium.com/p/527d95d0722e) |
 | Fri, 10 Apr 2026 22:17:50 GMT | Why People Need A Truly Private Messaging App | Shawn Bure | [Read More](https://medium.com/p/a491bad59a5e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 16:03:31 GMT | Memory Leak — #47 | Astasia Myers | [Read More](https://medium.com/p/f047b40fda64) |
 | Fri, 10 Apr 2026 15:57:53 GMT | The Pyramid of Pain: How Defenders Can Actually Hurt Attackers | Kashyap Pandya | [Read More](https://medium.com/p/625c41f70876) |
 | Fri, 10 Apr 2026 15:57:12 GMT | How to Verify WhatsApp Without Using Your Real Phone Number | TellABot | [Read More](https://medium.com/p/16bfabfa371a) |
-| Fri, 10 Apr 2026 15:56:27 GMT | The Invisible Shield: Why Background Verification is the Ultimate Corporate Flex in 2026 | Himadi Solutions | [Read More](https://medium.com/p/cfe65216bfe7) |
-| Fri, 10 Apr 2026 15:46:27 GMT | From Custom Service to Root: Exploiting an Insecure Python Eval and SUID Binary | Russel James Avenido | [Read More](https://medium.com/p/13ba2cee5642) |
-| Fri, 10 Apr 2026 15:44:32 GMT | The AI That Escapes Its Own Cage — And Finds 27-Year-Old Bugs for $50 | Akshat Yadav | [Read More](https://medium.com/p/ce669b81374e) |
-| Fri, 10 Apr 2026 15:43:58 GMT | Cybersecurity-Consulting-Services: Why They Matter More Than Ever | Patatvaishali | [Read More](https://medium.com/p/fb02bd64cd9c) |
