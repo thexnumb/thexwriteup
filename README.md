@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Apr 2026 17:43:34 GMT | Best Practices to Improve Security in .NET Core Applications | Neupanebibek | [Read More](https://medium.com/p/ffbe9dd40b58) |
+| Fri, 10 Apr 2026 17:35:40 GMT | CVE-2026–31280: Insecure Bluetooth “RFCOMM” Leading to Device Crash in Parani M10 Intercom | CipherX1802 | [Read More](https://medium.com/p/7597c1d5d228) |
+| Fri, 10 Apr 2026 17:35:26 GMT | Malware Threats Surge Across Critical Infrastructure: A Growing Global Ris | Aura Tech Insights | [Read More](https://medium.com/p/3c47b1eefeb7) |
+| Fri, 10 Apr 2026 17:34:36 GMT | Why Everyday Objects Serve as Effective References for Solving Software Problems | Daniel Salvaloza | [Read More](https://medium.com/p/959443d8eb52) |
+| Fri, 10 Apr 2026 17:29:57 GMT | Linux Memory Acquisition and Volatile Artifact Analysis Using LiME | ZeroDay-Security-Services | [Read More](https://medium.com/p/9c3366bd6388) |
+| Fri, 10 Apr 2026 17:29:52 GMT | How I Built My First CTF Machine | Mu | [Read More](https://medium.com/p/04049fbe5197) |
+| Fri, 10 Apr 2026 17:29:32 GMT | Investigating a real-life BEC attack | Osama Elghazaly | [Read More](https://medium.com/p/5a2d22135624) |
+| Fri, 10 Apr 2026 17:20:56 GMT | The Timeline Problem: From Quantum Risk to AI-Driven Cryptographic Urgency | Alfio Musumeci | [Read More](https://medium.com/p/121bcd268d69) |
+| Fri, 10 Apr 2026 17:19:50 GMT | When the Defender Becomes the Risk: AI, Cybersecurity, and a Question Without an Answer | Roberta Profeta | [Read More](https://medium.com/p/6e988d5ef5f1) |
+| Fri, 10 Apr 2026 17:18:33 GMT | Unveiling the Taipei Metro “Invoice Lottery” Phishing Attack: A Deep Dive into the Darcula Phishing… | Gordon Fang | [Read More](https://medium.com/p/2b33d0ad4a4f) |
+| Fri, 10 Apr 2026 17:05:15 GMT | ️ SmurfSecOps Lab — A Complete DevSecOps Learning Journey | Khaled Ferchichi | [Read More](https://medium.com/p/2ae0404bce41) |
+| Fri, 10 Apr 2026 17:01:04 GMT | Cross-Chain Bridge Vulnerabilities: The Interoperability Tax | CryptDocker | [Read More](https://medium.com/p/1f788eb68ae2) |
+| Fri, 10 Apr 2026 16:57:07 GMT | Craft Agent’ta kritik path traversal: STORE_ATTACHMENT üzerinden arbitrary file write | Ali Sünbül (xeloxa) | [Read More](https://medium.com/p/2af851160bf6) |
+| Fri, 10 Apr 2026 16:56:55 GMT | Exploiting Race Conditions to Bypass Platform Limits | montaser mohsen | [Read More](https://medium.com/p/06ccc9c9c03a) |
+| Fri, 10 Apr 2026 16:52:43 GMT | CAI: The All-in-One AI Cybersecurity Tool You Need | Pentester Club | [Read More](https://medium.com/p/86bd06df243b) |
 | Fri, 10 Apr 2026 16:48:47 GMT | Firewall Bypass Using SSH Tunneling | ZeroDay-Security-Services | [Read More](https://medium.com/p/b22cc8e1635a) |
 | Fri, 10 Apr 2026 16:40:43 GMT | OverTheWire Bandit (Levels 0–10) : From Linux Fundamentals to Data Extraction: | Ahmed Eldkrory | [Read More](https://medium.com/p/a9ac037d8e38) |
 | Fri, 10 Apr 2026 16:39:10 GMT | When AI Fails: Big Tech Mistakes and Lessons Learned | Pasan Sathsara | [Read More](https://medium.com/p/0032df9f5898) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 11:37:26 GMT | How Small Businesses Can Grow Online with Limited Budget | infolexus solution | [Read More](https://medium.com/p/fd71d8627852) |
 | Fri, 10 Apr 2026 11:31:15 GMT | Your Own AI Secretary, Butler & IT Team for ~$15/Month | Kusunoki | [Read More](https://medium.com/p/bacb464b0ff1) |
 | Fri, 10 Apr 2026 11:30:28 GMT | How Employee Training Strengthens Cybersecurity Systems in Organisations | logging security | [Read More](https://medium.com/p/3efda8f446c0) |
-| Fri, 10 Apr 2026 11:28:06 GMT | Inside Project Glasswing: How Claude Mythos Could Reshape Cybersecurity Forever | Vikas Sharma | [Read More](https://medium.com/p/5fa3efa4dd01) |
-| Fri, 10 Apr 2026 11:27:35 GMT | DCIM as the Foundation for Smart Data Centres | Advanced Datacentre Systems Limited | [Read More](https://medium.com/p/998b083544e5) |
-| Fri, 10 Apr 2026 11:26:23 GMT | Token Exchange flow via Keycloak | Sourav Kumar | [Read More](https://medium.com/p/6485a1bc9316) |
-| Fri, 10 Apr 2026 11:25:37 GMT | Essential System Design Concepts | Kharavela Jain | [Read More](https://medium.com/p/437e9a719ccf) |
-| Fri, 10 Apr 2026 11:23:51 GMT | What Is a Managed Service Provider and Why Businesses Use It | managed service provider | [Read More](https://medium.com/p/1a81712739a8) |
-| Fri, 10 Apr 2026 11:22:34 GMT | Cybersecurity in Digital Marketing Tools | joe lotus | [Read More](https://medium.com/p/9195442e1a74) |
-| Fri, 10 Apr 2026 11:20:28 GMT | Resilience Over Prevention: Measuring Incident Response Success in a Post-AI Threat Landscape | NetWitness | [Read More](https://medium.com/p/6db3ad25961f) |
-| Fri, 10 Apr 2026 11:19:48 GMT | Stored XSS via Image Upload and MIME-Type Confusion | 0xKemzx | [Read More](https://medium.com/p/1981ec0b82fe) |
-| Fri, 10 Apr 2026 11:19:43 GMT | How Technology Helps Scammers: The Dark Side of Digital Innovation | Viginet Pvt Ltd | [Read More](https://medium.com/p/a7e218a1176d) |
-| Fri, 10 Apr 2026 11:18:22 GMT | What Happens If You Remove All Tools in Cybersecurity? | Fahisshehandim | [Read More](https://medium.com/p/0d9751700990) |
-| Fri, 10 Apr 2026 11:15:16 GMT | Agentic AI Security in 2026: OpenClaw, MCP Vulnerabilities & Enterprise Hardening Guide | Neuralcoretech | [Read More](https://medium.com/p/9dde2bd9a492) |
-| Fri, 10 Apr 2026 11:14:59 GMT | Why Companies Hire Ethical Hackers to Protect Data and Prevent Cyber Breaches | letsremotify | [Read More](https://medium.com/p/76aaf6bfefc5) |
-| Fri, 10 Apr 2026 11:10:07 GMT | Ransomware Attacks Explained: How They Spread and How to Protect Your Business | Cordula Boeck | [Read More](https://medium.com/p/4cbc54e2f402) |
-| Fri, 10 Apr 2026 11:06:23 GMT | Web Application Summer Internship with Real Projects and Mentorship | cyber security Updates | [Read More](https://medium.com/p/128cb0387152) |
-| Fri, 10 Apr 2026 10:44:21 GMT | Trilab — Complete Domain Compromise via Kerberos and ADCS Misconfiguration | GauthamV | [Read More](https://medium.com/p/adac25bc479f) |
