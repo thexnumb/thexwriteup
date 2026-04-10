@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Apr 2026 16:48:47 GMT | Firewall Bypass Using SSH Tunneling | ZeroDay-Security-Services | [Read More](https://medium.com/p/b22cc8e1635a) |
+| Fri, 10 Apr 2026 16:40:43 GMT | OverTheWire Bandit (Levels 0–10) : From Linux Fundamentals to Data Extraction: | Ahmed Eldkrory | [Read More](https://medium.com/p/a9ac037d8e38) |
+| Fri, 10 Apr 2026 16:39:10 GMT | When AI Fails: Big Tech Mistakes and Lessons Learned | Pasan Sathsara | [Read More](https://medium.com/p/0032df9f5898) |
+| Fri, 10 Apr 2026 16:36:29 GMT | Mastering JWT Expiration, Refresh Tokens, and Logout | Rajesh Rout | [Read More](https://medium.com/p/57092d73a858) |
+| Fri, 10 Apr 2026 16:34:36 GMT | How to Keep API Keys Private in GenLayer Intelligent Contracts | Iniwuraakuru | [Read More](https://medium.com/p/f10cbe3dfe40) |
+| Fri, 10 Apr 2026 16:31:41 GMT | Is Your AI-Powered Loan Approval Model Fair and Secure? | Aditi V | [Read More](https://medium.com/p/e68ab859d34c) |
+| Fri, 10 Apr 2026 16:31:10 GMT | PHISHING BASICS WALKTHROUGH - TRYHACKME | ANWAR1 | [Read More](https://medium.com/p/8be87eecb5b9) |
+| Fri, 10 Apr 2026 16:24:33 GMT | Explotando Mass Assignment + Integer Sequence Exhaustion — Application-Level Denial-of-Service… | Miguel Segovia Gil | [Read More](https://medium.com/p/76b90560d616) |
+| Fri, 10 Apr 2026 16:23:00 GMT | I Turned a Friend’s Worst Day Into a Blog That Pays Her Every Month | StudyBuddyC | [Read More](https://medium.com/p/4a2c0d0909ec) |
+| Fri, 10 Apr 2026 16:13:01 GMT | The African Cybersecurity Talent Gap -From Inside the System | -Oladepo | [Read More](https://medium.com/p/bdb62b7043c6) |
+| Fri, 10 Apr 2026 16:06:10 GMT | Came across a lowkey offensive security setup in Colombo that actually looks serious | Nimal Chandrasiri Wijesinghe | [Read More](https://medium.com/p/a0761000e672) |
+| Fri, 10 Apr 2026 16:03:31 GMT | Memory Leak — #47 | Astasia Myers | [Read More](https://medium.com/p/f047b40fda64) |
+| Fri, 10 Apr 2026 15:57:53 GMT | The Pyramid of Pain: How Defenders Can Actually Hurt Attackers | Kashyap Pandya | [Read More](https://medium.com/p/625c41f70876) |
+| Fri, 10 Apr 2026 15:57:12 GMT | How to Verify WhatsApp Without Using Your Real Phone Number | TellABot | [Read More](https://medium.com/p/16bfabfa371a) |
+| Fri, 10 Apr 2026 15:56:27 GMT | The Invisible Shield: Why Background Verification is the Ultimate Corporate Flex in 2026 | Himadi Solutions | [Read More](https://medium.com/p/cfe65216bfe7) |
 | Fri, 10 Apr 2026 15:46:27 GMT | From Custom Service to Root: Exploiting an Insecure Python Eval and SUID Binary | Russel James Avenido | [Read More](https://medium.com/p/13ba2cee5642) |
 | Fri, 10 Apr 2026 15:44:32 GMT | The AI That Escapes Its Own Cage — And Finds 27-Year-Old Bugs for $50 | Akshat Yadav | [Read More](https://medium.com/p/ce669b81374e) |
 | Fri, 10 Apr 2026 15:43:58 GMT | Cybersecurity-Consulting-Services: Why They Matter More Than Ever | Patatvaishali | [Read More](https://medium.com/p/fb02bd64cd9c) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 11:10:07 GMT | Ransomware Attacks Explained: How They Spread and How to Protect Your Business | Cordula Boeck | [Read More](https://medium.com/p/4cbc54e2f402) |
 | Fri, 10 Apr 2026 11:06:23 GMT | Web Application Summer Internship with Real Projects and Mentorship | cyber security Updates | [Read More](https://medium.com/p/128cb0387152) |
 | Fri, 10 Apr 2026 10:44:21 GMT | Trilab — Complete Domain Compromise via Kerberos and ADCS Misconfiguration | GauthamV | [Read More](https://medium.com/p/adac25bc479f) |
-| Fri, 10 Apr 2026 10:39:16 GMT | How Good Are AI Agents at Finding Web Vulnerabilities (Part 2) | Tuomo Makkonen | [Read More](https://medium.com/p/5a80aa926d10) |
-| Fri, 10 Apr 2026 10:37:44 GMT | “Before You Run Nmap, Try a Ping” | Teachnolen | [Read More](https://medium.com/p/a4613035d94f) |
-| Fri, 10 Apr 2026 10:36:19 GMT | Stop Giving Away Your AI for Free: The Razorpay/OpenAI Shift | Vijay kumar | [Read More](https://medium.com/p/8b941cc71fde) |
-| Fri, 10 Apr 2026 10:33:50 GMT | Security Agents Need a Thinner Harness | pdp | [Read More](https://medium.com/p/8685c4bc5b4f) |
-| Fri, 10 Apr 2026 10:33:34 GMT | A Technical Walkthrough of the TryHackMe Nmap Lab | Joanna Adegbile | [Read More](https://medium.com/p/628edc354c11) |
-| Fri, 10 Apr 2026 10:31:15 GMT | “I’m Overwhelmed” - How to Stop Tutorial Hell in Cybersecurity | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/b57c750a6b1d) |
-| Fri, 10 Apr 2026 10:29:21 GMT | Claude AI Just Had the Worst Year Ever | Shaswata Tripathy | [Read More](https://medium.com/p/108968aa1f71) |
-| Fri, 10 Apr 2026 10:26:52 GMT | Claude Didn’t “Discover” the FreeBSD Vulnerability. | JIN | [Read More](https://medium.com/p/807044a72bf1) |
-| Fri, 10 Apr 2026 10:20:51 GMT | THE FUTURE OF RESIDENTIAL PROTECTION IN THE GULF | Mrtgntr | [Read More](https://medium.com/p/72237287bea4) |
-| Fri, 10 Apr 2026 10:20:07 GMT | Digital Shield: From “Wild Growth” to “Deep Compliance,” Safeguarding Asset Sovereignty in the Web3… | Digital Shield | [Read More](https://medium.com/p/826bfc33b32f) |
-| Fri, 10 Apr 2026 10:19:56 GMT | RESIDENTIAL PROTECTIVE INFRASTRUCTURE IN THE GULF REGION — 2026 | Mrtgntr | [Read More](https://medium.com/p/c76676da2a3e) |
-| Fri, 10 Apr 2026 10:19:22 GMT | Referer-Based Access Control — The Last Access Control Lab Before I Move On to Authentication | morgan_hack | [Read More](https://medium.com/p/55ad0fd924df) |
-| Fri, 10 Apr 2026 10:19:02 GMT | Integrated Security Solutions: How Australian Businesses Are Protecting What Matters | SecurityInsightsAU | [Read More](https://medium.com/p/56298f4a8d21) |
-| Fri, 10 Apr 2026 10:17:27 GMT | Digital Shield: From “Wild Growth” to “Deep Compliance,” Safeguarding Asset Sovereignty in the Web3… | Digital Shield Offcial | [Read More](https://medium.com/p/175e4f9b4335) |
-| Fri, 10 Apr 2026 10:16:46 GMT | AI/LLM as assistant in monitoring SCADA system Part 1: Opportunities & Risks. | biero llagas | [Read More](https://medium.com/p/0f51c8b926ed) |
