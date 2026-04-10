@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 09 Apr 2026 23:55:33 GMT | Why Your Password-Protected ZIP File Is Not Actually Safe ,ZipCrypto Plaintext Attack Explained. | VedantShinde | [Read More](https://medium.com/p/05486e459c63) |
+| Thu, 09 Apr 2026 23:34:37 GMT | Japanese Spam Email | Jaws | [Read More](https://medium.com/p/b02c9a5f8cdc) |
+| Thu, 09 Apr 2026 23:25:44 GMT | Tryhackme :Agent t walkthrough | Jaiakassh Sathish | [Read More](https://medium.com/p/f813c234616d) |
+| Thu, 09 Apr 2026 23:10:46 GMT | Argos: Building an AI Analyst for Financial Crime That a Regulator Can Actually Trust | George Makris | [Read More](https://medium.com/p/e487133e9741) |
 | Thu, 09 Apr 2026 23:04:36 GMT | Day Zero: The Story Behind My Bug Bounty Journey | zero_day | [Read More](https://medium.com/p/173f2d57c499) |
 | Thu, 09 Apr 2026 23:03:36 GMT | Inside the Black Box: How “Logic Poisoning” Is the Cyberattack No One Can Stop in 2026 | Fino Franklin John Bosco | [Read More](https://medium.com/p/4d341a86dd43) |
 | Thu, 09 Apr 2026 23:02:31 GMT | Building LatticePay: A Unified Compliance, Risk & AI Governance Framework (Portfolio Project) | R-Squared Cyber | [Read More](https://medium.com/p/8d0507c35fc4) |
@@ -30,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 21:48:34 GMT | So sichern Sie n8n in Produktion: Ein praktischer Hardening-Guide | Mika Schmidt | [Read More](https://medium.com/p/17cc99401650) |
 | Thu, 09 Apr 2026 21:42:22 GMT | AI Just Found What Human Eyes Missed for Decades. Now What? | Selorm Adjabeng | [Read More](https://medium.com/p/41f2084509fe) |
 | Thu, 09 Apr 2026 21:33:27 GMT | The Agentic AI Security Universe: A Complete Guide to Securing Autonomous AI Systems | Sarah Morino | [Read More](https://medium.com/p/d374bb25f4bd) |
+| Thu, 09 Apr 2026 21:29:40 GMT | A Practical Guide to Safely Using AI: What Every Person Needs to Know in 2026 | Juili | [Read More](https://medium.com/p/3b08e091ee29) |
 | Thu, 09 Apr 2026 21:26:20 GMT | The Blockchain Forensics Gap Nobody Talks About | Kir Kovalski | [Read More](https://medium.com/p/199d3a53bf8b) |
 | Thu, 09 Apr 2026 21:23:43 GMT | You’re Not Being Hacked — You’re Letting Them In (Part 1) | Sam Writes Security | [Read More](https://medium.com/p/ca56b697d449) |
 | Thu, 09 Apr 2026 21:21:03 GMT | Curious Minds: The Earth’s Stitch: 95% of the Internet is Underwater. | Balajee Viswanatha Rao | [Read More](https://medium.com/p/f4a58b5d27cd) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 16:22:25 GMT | Unspoken | Muthasaloni | [Read More](https://medium.com/p/08ad82e2d195) |
 | Thu, 09 Apr 2026 16:21:38 GMT | Consistency, Comfort, and Efficiency: The Foundation of Better Daily Life | creative vision | [Read More](https://medium.com/p/a4933537b75b) |
 | Thu, 09 Apr 2026 16:17:56 GMT | The Physical Layer Nobody Governed | Anna Jacobi | [Read More](https://medium.com/p/d8c074b8db66) |
-| Thu, 09 Apr 2026 16:15:14 GMT | The Windows Forensic Journey — Rich Header | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/caafc4b06312) |
-| Thu, 09 Apr 2026 16:13:04 GMT | The AI Act : The EU’s AI Regulation | D3ad_M3m0r13s | [Read More](https://medium.com/p/25e016062ced) |
-| Thu, 09 Apr 2026 16:06:11 GMT | The SIEM Query Language That Keeps Showing Up in SOC Analyst Job Postings (And Nobody Is Prepping… | Jbird | [Read More](https://medium.com/p/df1a8bef29c1) |
-| Thu, 09 Apr 2026 16:01:21 GMT | When “Safe” Isn’t Safe: The Axios Supply Chain Scare That Shook Developers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/0c10e66c28f0) |
-| Thu, 09 Apr 2026 16:01:04 GMT | Part 8: Bringing the design together: Teams, Roadmap, and How to Know It’s Working | Aparna Ash Himmatramka | [Read More](https://medium.com/p/37e75b603613) |
