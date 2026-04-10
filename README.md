@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Apr 2026 21:24:38 GMT | Bir Güvenlik Araştırmacısının Gözünden: Uptime Kuma ve Checkmate.so ile Defansif Altyapı Kurulumu | Fatih UYSAL | [Read More](https://medium.com/p/888d0c8ae4d3) |
+| Fri, 10 Apr 2026 21:21:45 GMT | What Happens After a Cyberattack? Inside the World of Disk & Media Forensics ! | Prajwal Yadav | [Read More](https://medium.com/p/70e690ad4533) |
+| Fri, 10 Apr 2026 21:20:56 GMT | Designing for Failure: Idempotency in Data Pipelines | Lumina | [Read More](https://medium.com/p/f1d6003521f4) |
+| Fri, 10 Apr 2026 21:14:14 GMT | The Silent Infection: The End of Trusted AI Memories | Tomerweisen | [Read More](https://medium.com/p/42ac263363dd) |
+| Fri, 10 Apr 2026 21:13:30 GMT | Bandit CTF Reflection | Andrew | [Read More](https://medium.com/p/53cf5f25f11c) |
+| Fri, 10 Apr 2026 21:11:56 GMT | MCP in Enterprise AI: Making AI Ready | ArchBeat | [Read More](https://medium.com/p/8da119cd6e58) |
+| Fri, 10 Apr 2026 21:07:42 GMT | The Most Dangerous AI Ever Built Inside Claude Mythos | Kritnandan | [Read More](https://medium.com/p/8027f39cd80b) |
+| Fri, 10 Apr 2026 21:07:37 GMT | Stop Giving Your Secrets to Claude Code: A Senior Dev’s Guide to AI Privacy | Davide Mib | [Read More](https://medium.com/p/50606e8120bb) |
+| Fri, 10 Apr 2026 21:07:25 GMT | Code Review Süreci Nedir? | Dogukan İSPİRLİ | [Read More](https://medium.com/p/239ca939e940) |
+| Fri, 10 Apr 2026 21:03:26 GMT | Why Security Should Be Your Top Priority in DEX Development | Christymariaa | [Read More](https://medium.com/p/0074c5c45cdc) |
+| Fri, 10 Apr 2026 21:03:02 GMT | Is Your Data Quantum-Secure? | Paolo Molignini, PhD | [Read More](https://medium.com/p/0aa1b790c887) |
+| Fri, 10 Apr 2026 21:01:50 GMT | Meta Just Put AI Inside Every App Your Kids Use. | Adam Frąckowiak | [Read More](https://medium.com/p/d72d87fe4673) |
+| Fri, 10 Apr 2026 21:01:15 GMT | LLMs Are Now Finding Bugs Before Humans Do. That Changes the Rules. | Khushdeep Sharma | [Read More](https://medium.com/p/66e1f09c01af) |
+| Fri, 10 Apr 2026 21:01:02 GMT | Unfiltered Restart — Day 46: Test Prep, Day 5 | Maximillian Rueda | [Read More](https://medium.com/p/4f83ab38df84) |
+| Fri, 10 Apr 2026 21:00:35 GMT | Agentic AI Security in 2026: What OpenClaw Taught Us | Neuralcoretech | [Read More](https://medium.com/p/a183affaaf94) |
+| Fri, 10 Apr 2026 21:00:26 GMT | The Illusion of Privacy | Akshat Jain | [Read More](https://medium.com/p/0b49216748b6) |
+| Fri, 10 Apr 2026 20:52:34 GMT | The PDF You Just Opened Could Be Watching You: Inside the Adobe Reader Zero-Day | SOCFortress | [Read More](https://medium.com/p/e2bd6897816b) |
+| Fri, 10 Apr 2026 20:49:26 GMT | Ring vs. PGST vs. KERUI: Which Home Security System Is Right for You? | Eileen McCoy - Technology - Digital Marketing | [Read More](https://medium.com/p/67011cfb2a00) |
+| Fri, 10 Apr 2026 20:45:32 GMT | The Increasing Role of AI in Vulnerability Research | Wordfence | [Read More](https://medium.com/p/d4c25b4eba49) |
+| Fri, 10 Apr 2026 20:38:19 GMT | Bytemancy 0 — PicoCTF 2026 | Bridget | [Read More](https://medium.com/p/8ebbcfe5aa56) |
 | Fri, 10 Apr 2026 20:29:37 GMT | Resilience You Control: The Case for Sovereign Recovery - CSO ThreatScape Manchester 2026 … | Meera Tamboli | [Read More](https://medium.com/p/3999303cbab2) |
 | Fri, 10 Apr 2026 20:26:45 GMT | The Execution Environment Was Always the Problem: What Mythos Just Changed | James Word | [Read More](https://medium.com/p/8d2e2246b1ef) |
 | Fri, 10 Apr 2026 20:26:39 GMT | POV: When Your NDR Panics but You’re Just a Chill Guy | Vonte Sewell | [Read More](https://medium.com/p/f1ad450fc440) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 14:53:24 GMT | The Ultimate Guide to Proxying and Pentesting MCP Servers!! | BlackSaint | [Read More](https://medium.com/p/d3087ea1fced) |
 | Fri, 10 Apr 2026 14:53:20 GMT | The “Drop Everything” Bypass: Uncovering an Access Control Flaw in Salesforce Aura | BelScarabX | [Read More](https://medium.com/p/691de0c9ab76) |
 | Fri, 10 Apr 2026 14:50:07 GMT | The Ghost in the Router: Building an Undetectable Network Implant, Part 2 | Tyreek Haynes | [Read More](https://medium.com/p/35beac48298f) |
-| Fri, 10 Apr 2026 14:48:01 GMT | Part 2: How DLP Works Internally — A Deep Dive Made Simple | rootRS7 | [Read More](https://medium.com/p/c7ab497a4063) |
-| Fri, 10 Apr 2026 14:47:42 GMT | What is Ethical Hacking? A Roadmap to Cybersecurity | Subhajitsarkar | [Read More](https://medium.com/p/e16368fcf5d4) |
-| Fri, 10 Apr 2026 14:30:30 GMT | Kenobi TryHackMe Writeup: Exploiting Linux Shares and Path Manipulation | Engosa | [Read More](https://medium.com/p/230d1abe48b3) |
-| Fri, 10 Apr 2026 14:28:54 GMT | Mnemonic — ZIP Cracking, FTP Brute Force, a Custom Cipher, and a sudo Python Escape - TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/53cff512a83d) |
-| Fri, 10 Apr 2026 14:22:58 GMT | Sharethepain.hacksmarter | MrKouk | [Read More](https://medium.com/p/0ef075e4d4dd) |
-| Fri, 10 Apr 2026 14:17:11 GMT | Network Segmentation Strategies: Implementing CISA’s Cybersecurity Best Practices for Layered… | Krishna Kumar | [Read More](https://medium.com/p/7e053227770c) |
-| Fri, 10 Apr 2026 14:16:50 GMT | Blueprints of Resilience: Orchestrating a Comprehensive Monitoring Stack & Agentic AI with Docker | Hadi Kusuma | [Read More](https://medium.com/p/503a7b5b5aaa) |
-| Fri, 10 Apr 2026 14:08:30 GMT | Securing the New Economy | Farhad Hossen | [Read More](https://medium.com/p/ba1c64c8847a) |
-| Fri, 10 Apr 2026 14:06:03 GMT | Dolandırıcılar İçin Siber Güvenlik | İHSAN ŞEN | [Read More](https://medium.com/p/ca61da419320) |
-| Fri, 10 Apr 2026 14:03:25 GMT | Why You Should Prioritize Data Privacy for Your Online Platform ? | Mdshahnewajrabby | [Read More](https://medium.com/p/b2c2f1d7dcb4) |
-| Fri, 10 Apr 2026 14:02:13 GMT | Walkthrough: Ascension by HackSmarter — From Anonymous FTP to Root | Airou | [Read More](https://medium.com/p/85289eecc1bb) |
-| Fri, 10 Apr 2026 14:01:02 GMT | Cyber Briefing: 2026.04.10 | CyberMaterial | [Read More](https://medium.com/p/295cc5c68f73) |
-| Fri, 10 Apr 2026 13:59:12 GMT | Mastering Vulnerability Management: DefectDojo x Trivy | Hadi Kusuma | [Read More](https://medium.com/p/d74d1198e4a9) |
-| Fri, 10 Apr 2026 13:58:11 GMT | Claude Mythos: Too Powerful for the Public | Aljon Inting | [Read More](https://medium.com/p/a01ce6f737e6) |
-| Fri, 10 Apr 2026 13:58:07 GMT | CWE Is Focus of Three Talks at “VulnCon 2026” | CWE Program | [Read More](https://medium.com/p/d53d5cd729d4) |
-| Fri, 10 Apr 2026 13:57:26 GMT | The Strategic Shift to Keycloak: Centralizing Identity in Modern Microservices | Hadilbenmessaouda | [Read More](https://medium.com/p/2c6366ae2a6f) |
-| Fri, 10 Apr 2026 13:55:33 GMT | Linux for Hackers: 15 Commands You’ll Use Every Day (With Real Examples) | Sukhveer Singh | [Read More](https://medium.com/p/6b0da93c6165) |
-| Fri, 10 Apr 2026 13:52:47 GMT | My First Bug Bounty: How I Hijacked an Entire Workspace using a JWT alg=none Attack | BelScarabX | [Read More](https://medium.com/p/fef78ad00df8) |
-| Fri, 10 Apr 2026 13:43:52 GMT | Look Directly at Me | Nira | [Read More](https://medium.com/p/b24bcd6c1f50) |
-| Fri, 10 Apr 2026 13:42:32 GMT | L’Evoluzione dei Servizi Informatici Sommersi: Dal Dark Web a Telegram | Mario Rossi | [Read More](https://medium.com/p/a8664da44e0d) |
