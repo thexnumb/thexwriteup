@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Apr 2026 18:23:15 GMT | PicoCTF Challenge Writeup— Blame Game | Aman Barolia | [Read More](https://medium.com/p/ab4076ecd3f2) |
+| Fri, 10 Apr 2026 18:20:54 GMT | How to Lock WhatsApp Without Any App (3 Easy Methods 2026) | Manish Sharma | [Read More](https://medium.com/p/29267ff55b41) |
+| Fri, 10 Apr 2026 18:09:03 GMT | The AI That Found Zero-Days in Every OS — And Why You’ll Never Get Access to It | Muhammad Qayyum | [Read More](https://medium.com/p/16f1eaeb70cf) |
+| Fri, 10 Apr 2026 18:00:50 GMT | We Built a Password Manager That Can’t Betray You. Here’s Why. | Cloak | [Read More](https://medium.com/p/8124cad2bb62) |
+| Fri, 10 Apr 2026 17:58:12 GMT | Mastering Server-Side Request Forgery (SSRF) — From Basic Exploitation to Advanced Bypasses | Sharon | [Read More](https://medium.com/p/81cf2ebb9d88) |
+| Fri, 10 Apr 2026 17:57:52 GMT | “Bug Bounty Bootcamp #32: Weaponizing File Uploads — From Profile Pictures to Remote Code… | Aman Sharma | [Read More](https://medium.com/p/f582eb579c85) |
+| Fri, 10 Apr 2026 17:50:21 GMT | The ROI of Installing a Commercial Security System: 2026 Business Guide | AlexBryn | [Read More](https://medium.com/p/e5392443a8e3) |
+| Fri, 10 Apr 2026 17:49:58 GMT | Overpass Write-up - TryHackMe | Nazeer Rasad | [Read More](https://medium.com/p/dad55505f0b5) |
+| Fri, 10 Apr 2026 17:49:28 GMT | Glasswing Is the Confirmation: The Manhattan Project for AI Arrived on April 7, 2026 | Berend Watchus | [Read More](https://medium.com/p/16f2edbb4ddb) |
 | Fri, 10 Apr 2026 17:43:34 GMT | Best Practices to Improve Security in .NET Core Applications | Neupanebibek | [Read More](https://medium.com/p/ffbe9dd40b58) |
 | Fri, 10 Apr 2026 17:35:40 GMT | CVE-2026–31280: Insecure Bluetooth “RFCOMM” Leading to Device Crash in Parani M10 Intercom | CipherX1802 | [Read More](https://medium.com/p/7597c1d5d228) |
 | Fri, 10 Apr 2026 17:35:26 GMT | Malware Threats Surge Across Critical Infrastructure: A Growing Global Ris | Aura Tech Insights | [Read More](https://medium.com/p/3c47b1eefeb7) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 12:01:01 GMT | What happens when you upload a PDF to an online tool | Giuseppe | [Read More](https://medium.com/p/31aa88870cb5) |
 | Fri, 10 Apr 2026 12:00:25 GMT | Manufacturers Are Protecting Their Factories Wrong, Here’s Why | Luke Appleby | [Read More](https://medium.com/p/2e5ffd93c523) |
 | Fri, 10 Apr 2026 11:59:39 GMT | Business Process Outsourcing (BPO) Market Size, Share, Industry Growth — 2035 | NIkita Poplai | [Read More](https://medium.com/p/7b2c02c606c7) |
-| Fri, 10 Apr 2026 11:59:01 GMT | I found myself in him; | Frisiliautamiyeslin | [Read More](https://medium.com/p/6aa31de3dd5f) |
-| Fri, 10 Apr 2026 11:51:09 GMT | Best Timer Switch for Outdoor Lights WiFi: A Smarter Way to Protect Your Home | Criminology Expert | [Read More](https://medium.com/p/b726791d8781) |
-| Fri, 10 Apr 2026 11:43:36 GMT | The Great OpenClaw Autonomy Comes with a Huge Price and Its Own Vulnerabilities | David SEHYEON Baek | [Read More](https://medium.com/p/82fa65898927) |
-| Fri, 10 Apr 2026 11:42:10 GMT | Soft Starter Market Size, Share, Industry Growth — 2033 | NIkita Poplai | [Read More](https://medium.com/p/eab0faf79ca1) |
-| Fri, 10 Apr 2026 11:41:41 GMT | Moving away from static client credentials — federated client authentication | Sourav Kumar | [Read More](https://medium.com/p/150b6aeae12b) |
-| Fri, 10 Apr 2026 11:40:55 GMT | Why npm Is the Most Dangerous Place on the Internet Right Now | Dhanush N | [Read More](https://medium.com/p/cfff0c0bc548) |
-| Fri, 10 Apr 2026 11:37:26 GMT | How Small Businesses Can Grow Online with Limited Budget | infolexus solution | [Read More](https://medium.com/p/fd71d8627852) |
-| Fri, 10 Apr 2026 11:31:15 GMT | Your Own AI Secretary, Butler & IT Team for ~$15/Month | Kusunoki | [Read More](https://medium.com/p/bacb464b0ff1) |
-| Fri, 10 Apr 2026 11:30:28 GMT | How Employee Training Strengthens Cybersecurity Systems in Organisations | logging security | [Read More](https://medium.com/p/3efda8f446c0) |
