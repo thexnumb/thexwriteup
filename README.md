@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Apr 2026 20:29:37 GMT | Resilience You Control: The Case for Sovereign Recovery - CSO ThreatScape Manchester 2026 … | Meera Tamboli | [Read More](https://medium.com/p/3999303cbab2) |
+| Fri, 10 Apr 2026 20:26:45 GMT | The Execution Environment Was Always the Problem: What Mythos Just Changed | James Word | [Read More](https://medium.com/p/8d2e2246b1ef) |
+| Fri, 10 Apr 2026 20:26:39 GMT | POV: When Your NDR Panics but You’re Just a Chill Guy | Vonte Sewell | [Read More](https://medium.com/p/f1ad450fc440) |
+| Fri, 10 Apr 2026 20:26:05 GMT | Why Integrate Threat Intelligence with Incident Response - WiCyS 2026 (Women in Cybersecurity)… | Meera Tamboli | [Read More](https://medium.com/p/e29c88b52471) |
+| Fri, 10 Apr 2026 20:25:51 GMT | Why Access Control Fails in Modern Web Applications | Divine | [Read More](https://medium.com/p/875c54d3674a) |
+| Fri, 10 Apr 2026 20:24:27 GMT | I Changed a Single Number in a Program’s Brain — And It Obeyed (Day 1 of Reverse Engineering) | Issan | [Read More](https://medium.com/p/729eeedefd40) |
+| Fri, 10 Apr 2026 20:22:16 GMT | From Data Decoding to Privilege Escalation: OverTheWire Bandit (Levels 11–22) | Ahmed Eldkrory | [Read More](https://medium.com/p/96b64771b33c) |
+| Fri, 10 Apr 2026 20:21:43 GMT | When Login Features Become OSINT Signals: Leveraging Authentication Flows for Data Enrichment | Horus | [Read More](https://medium.com/p/c972af2c4d5a) |
+| Fri, 10 Apr 2026 20:21:35 GMT | My Journey into Cybersecurity — Ankit Kumar Paswan | Ankit Kumar Paswan | [Read More](https://medium.com/p/cd6e8ff62e89) |
+| Fri, 10 Apr 2026 20:18:26 GMT | Stop Paying for Noise: A Smarter Way to Handle AWS VPC Flow Logs in Microsoft Sentinel | Shamith S | [Read More](https://medium.com/p/b500eb1450b7) |
+| Fri, 10 Apr 2026 20:16:42 GMT | Cybersecurity and trust in India’s digital finance growth | RAM PRASATH | [Read More](https://medium.com/p/3433277d8524) |
+| Fri, 10 Apr 2026 20:05:07 GMT | Do You Need to Be a Good Developer to Become a Great Cybersecurity Engineer? | Bridget | [Read More](https://medium.com/p/3c8361be4a83) |
 | Fri, 10 Apr 2026 19:29:24 GMT | SOC Journey — Lab 7: Windows Registry Basics | Hemaprasadpotnuru | [Read More](https://medium.com/p/f5ea055d2de5) |
 | Fri, 10 Apr 2026 19:25:54 GMT | Chrome just dropped a game-changer that makes your stolen login cookies TOTALLY worthless to… | cybrNK | [Read More](https://medium.com/p/be7ec7e37f3a) |
 | Fri, 10 Apr 2026 19:16:40 GMT | Anthropic Claude Mythos Will Break Vulnerability Management | Matthew.Rosenquist | [Read More](https://medium.com/p/079869e35888) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 13:52:47 GMT | My First Bug Bounty: How I Hijacked an Entire Workspace using a JWT alg=none Attack | BelScarabX | [Read More](https://medium.com/p/fef78ad00df8) |
 | Fri, 10 Apr 2026 13:43:52 GMT | Look Directly at Me | Nira | [Read More](https://medium.com/p/b24bcd6c1f50) |
 | Fri, 10 Apr 2026 13:42:32 GMT | L’Evoluzione dei Servizi Informatici Sommersi: Dal Dark Web a Telegram | Mario Rossi | [Read More](https://medium.com/p/a8664da44e0d) |
-| Fri, 10 Apr 2026 13:41:27 GMT | PortSwigger: CORS Labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/da0f36cbaa97) |
-| Fri, 10 Apr 2026 13:21:01 GMT | How to Win a Middle-Aged Woman’s Heart: Responsibility, Loyalty & Commitment | Lilyana | [Read More](https://medium.com/p/26c0cf035d0b) |
-| Fri, 10 Apr 2026 13:08:12 GMT | We’re Letting Beta Software Drive Us, And That Should Terrify You | Len Noe | [Read More](https://medium.com/p/fbc15bacf61b) |
-| Fri, 10 Apr 2026 13:06:37 GMT | Privilege Escalation CTF - INE | Darioturini | [Read More](https://medium.com/p/200c0224327d) |
-| Fri, 10 Apr 2026 13:03:27 GMT | Shamoon: The Wiper That Changed Cyber Warfare | AKICHAN | [Read More](https://medium.com/p/8f894c85af58) |
-| Fri, 10 Apr 2026 12:56:05 GMT | Exposed Laravel Debug Page Leads to Unauthenticated Admin Takeover in sppi-kdkmp.id | Ramadhan Alfatih | [Read More](https://medium.com/p/25e1eb29fca1) |
-| Fri, 10 Apr 2026 12:50:10 GMT | Bug Bounty Journey — Valid Report Part 12 | 0xF3r4t | [Read More](https://medium.com/p/f4936c51dcd0) |
-| Fri, 10 Apr 2026 12:45:41 GMT | Chocolate Factory — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/dc5b201c1228) |
-| Fri, 10 Apr 2026 12:41:39 GMT | Making Users Strong Again: Why Replay Attacks Are the Real Enemy and How Rainbow Secure Stops Them | Dr. Shashi Karhail | [Read More](https://medium.com/p/54050a31f614) |
-| Fri, 10 Apr 2026 12:41:19 GMT | The $1 Trillion Wake-Up Call: Why Anthropic’s New Model Should Scare Every Enterprise Security Team | Shayak Mazumder | [Read More](https://medium.com/p/42e7fe1c631e) |
-| Fri, 10 Apr 2026 12:35:53 GMT | Claude Code Leak → Fake GitHub Repos → Vidar Infostealer: How the Trap Works | Gaurav Agarwaal | [Read More](https://medium.com/p/4f9097d71864) |
-| Fri, 10 Apr 2026 12:32:22 GMT | How Soroban’s CAP-0066 Killed My LayerZero Finding | Dan23RR | [Read More](https://medium.com/p/ab5a8fddba41) |
