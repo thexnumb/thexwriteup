@@ -12,7 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Apr 2026 10:33:34 GMT | A Technical Walkthrough of the TryHackMe Nmap Lab | Joanna Adegbile | [Read More](https://medium.com/p/628edc354c11) |
+| Fri, 10 Apr 2026 10:29:21 GMT | Claude AI Just Had the Worst Year Ever | Shaswata Tripathy | [Read More](https://medium.com/p/108968aa1f71) |
+| Fri, 10 Apr 2026 10:26:52 GMT | Claude Didn’t “Discover” the FreeBSD Vulnerability. | JIN | [Read More](https://medium.com/p/807044a72bf1) |
+| Fri, 10 Apr 2026 10:20:51 GMT | THE FUTURE OF RESIDENTIAL PROTECTION IN THE GULF | Mrtgntr | [Read More](https://medium.com/p/72237287bea4) |
+| Fri, 10 Apr 2026 10:20:07 GMT | Digital Shield: From “Wild Growth” to “Deep Compliance,” Safeguarding Asset Sovereignty in the Web3… | Digital Shield | [Read More](https://medium.com/p/826bfc33b32f) |
+| Fri, 10 Apr 2026 10:19:56 GMT | RESIDENTIAL PROTECTIVE INFRASTRUCTURE IN THE GULF REGION — 2026 | Mrtgntr | [Read More](https://medium.com/p/c76676da2a3e) |
+| Fri, 10 Apr 2026 10:19:22 GMT | Referer-Based Access Control — The Last Access Control Lab Before I Move On to Authentication | morgan_hack | [Read More](https://medium.com/p/55ad0fd924df) |
+| Fri, 10 Apr 2026 10:19:02 GMT | Integrated Security Solutions: How Australian Businesses Are Protecting What Matters | SecurityInsightsAU | [Read More](https://medium.com/p/56298f4a8d21) |
+| Fri, 10 Apr 2026 10:17:27 GMT | Digital Shield: From “Wild Growth” to “Deep Compliance,” Safeguarding Asset Sovereignty in the Web3… | Digital Shield Offcial | [Read More](https://medium.com/p/175e4f9b4335) |
+| Fri, 10 Apr 2026 10:16:46 GMT | AI/LLM as assistant in monitoring SCADA system Part 1: Opportunities & Risks. | biero llagas | [Read More](https://medium.com/p/0f51c8b926ed) |
+| Fri, 10 Apr 2026 10:16:07 GMT | 10 Pentest Findings That Instantly Impress Clients. Part — 1 | ExploitHunter | [Read More](https://medium.com/p/8fda7111f682) |
+| Fri, 10 Apr 2026 10:14:59 GMT | API Security Basics:Why APIs are the New Attack Surface | ExploitHunter | [Read More](https://medium.com/p/92b37c93971b) |
+| Fri, 10 Apr 2026 10:09:52 GMT | Best platforms to connect AI bots with HubSpot securely? | Mari Lendur | [Read More](https://medium.com/p/ab5b2e02f716) |
+| Fri, 10 Apr 2026 10:09:50 GMT | Is ChatGPT Safe? The Hidden Privacy Risks of 2026 (And How to Stay Protected) | UncovAI | [Read More](https://medium.com/p/6139b39203bb) |
+| Fri, 10 Apr 2026 10:08:20 GMT | Beyond the Basics: Why an Ethical Hacking Course in Delhi Must Include Web3 and Smart Contract… | Varun Papnai | [Read More](https://medium.com/p/47f64c44a4df) |
+| Fri, 10 Apr 2026 10:02:21 GMT | Best platforms for secure integration of AI agents? Enterprise security orchestration explored. | Mari Lendur | [Read More](https://medium.com/p/1879d8571f69) |
+| Fri, 10 Apr 2026 10:01:01 GMT | The New Threat Frontier: Cybersecurity Vulnerabilities in the Age of AI | Juan M. Vazquez | [Read More](https://medium.com/p/7fec67b4b794) |
+| Fri, 10 Apr 2026 09:58:50 GMT | Splunk Enterprise Security Certified Admin Exam (SPLK-3001): A Practical, No-Nonsense Guide | dde4 | [Read More](https://medium.com/p/d2656ff0c55e) |
+| Fri, 10 Apr 2026 09:56:02 GMT | 揭秘台北捷運「發票中獎」釣魚攻擊：深挖 Darkula 詐騙工具包 | Gordon Fang | [Read More](https://medium.com/p/317b4dbeb0fc) |
+| Fri, 10 Apr 2026 09:55:58 GMT | Catch of the Day: Reverse Engineering the Hawaii DMV Text Scam | Elijah Muzzi | [Read More](https://medium.com/p/a038384d406f) |
+| Fri, 10 Apr 2026 09:55:38 GMT | What Are the Biggest Challenges Faced by IT Beginners and How to Overcome Them? | Cs Salomevictoria | [Read More](https://medium.com/p/666612273c28) |
+| Fri, 10 Apr 2026 09:50:32 GMT | When Supercomputers Get Hacked: A Wake-Up Call for the Cyber World | Sharanraju | [Read More](https://medium.com/p/0ac8710c3247) |
+| Fri, 10 Apr 2026 09:49:09 GMT | I Gave Claude Code Full Access to My Machine, Here’s How I Made It Safe. | Kristian P. | [Read More](https://medium.com/p/3b2ea9da0c35) |
+| Fri, 10 Apr 2026 09:48:20 GMT | Zero‑Loss AI Agents | Periscope Tech | [Read More](https://medium.com/p/ba4087da5d8a) |
+| Fri, 10 Apr 2026 09:48:00 GMT | The Netcat Revolution | Indranil Roy | [Read More](https://medium.com/p/94e2a20d3a04) |
+| Fri, 10 Apr 2026 09:43:24 GMT | Satellite IoT Tracking in 2026 — Essential Guide to NTN for Livestock and Remote Assets | LANSITEC TECHNOLOGY CO., LTD | [Read More](https://medium.com/p/2be527b00bd4) |
+| Fri, 10 Apr 2026 09:42:33 GMT | Web Development Company Packages: Complete Guide for Businesses | Ava Jones | [Read More](https://medium.com/p/4110f5bb5283) |
+| Fri, 10 Apr 2026 09:31:30 GMT | Lab 12: Multi-Step Process With No Access Control on One Step — How I Promoted Myself to Admin | morgan_hack | [Read More](https://medium.com/p/4eb14492ad6c) |
+| Fri, 10 Apr 2026 09:16:01 GMT | Active Directory | FatmaCy | [Read More](https://medium.com/p/c6d1096b40eb) |
 | Fri, 10 Apr 2026 09:09:52 GMT | How to Stop Data Exfiltration in Google Cloud in 2026 with VPC Service Controls and Private… | Aleksei Aleinikov | [Read More](https://medium.com/p/c4976dc2770c) |
+| Fri, 10 Apr 2026 09:07:42 GMT | The Revival of Substantialism | Haruka Matsukasa | [Read More](https://medium.com/p/9eac4590826f) |
 | Fri, 10 Apr 2026 08:58:52 GMT | TryHackMe — One Piece — Ctf | Avshivapriyan | [Read More](https://medium.com/p/4ae16266a55e) |
 | Fri, 10 Apr 2026 08:51:11 GMT | Buffer Overflow & ROP Chain: un esempio pratico (Part II: ASLR attivo) | Michele Stecca | [Read More](https://medium.com/p/79c1fa61e7a9) |
 | Fri, 10 Apr 2026 08:51:06 GMT | Learning About Post-message Vulnerabilities | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/a9e89e13a80c) |
@@ -82,33 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 04:24:57 GMT | I ETHICALLY Built a System That Detects Human Poses Through Walls Using WiFi - Tolani Akinola | tolani akinola | [Read More](https://medium.com/p/51b4e4e9efb6) |
 | Fri, 10 Apr 2026 04:03:41 GMT | # Learning Nmap — Scanning My First Target (Metasploitable 2) | Juan Manuel Yepes | [Read More](https://medium.com/p/bcb3409745ed) |
 | Fri, 10 Apr 2026 04:00:04 GMT | Top 20 Kali Linux Tools for Bug Bounty (Professional Guide) | Pradeeptadi | [Read More](https://medium.com/p/23760909aab0) |
-| Fri, 10 Apr 2026 03:52:51 GMT | PortSwigger Lab: Insecure Direct Object References (IDOR) — Chat Transcript Exploit | Sanjivani Dobhal | [Read More](https://medium.com/p/89431b5a5da0) |
-| Fri, 10 Apr 2026 03:26:52 GMT | Técnicas anti-debugger y como detectarlas y parchearlas | Jesus rodriguez | [Read More](https://medium.com/p/243be2f8fb12) |
-| Fri, 10 Apr 2026 03:24:26 GMT | I Got Tired of Expensive SEO Tools, So I Built My Own Engine in Python | Shiyanthan Shiya | [Read More](https://medium.com/p/9187eac30b17) |
-| Fri, 10 Apr 2026 03:12:47 GMT | Penetration Testing Services: Strengthening Your Cybersecurity from Within | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/814b6225fc0d) |
-| Fri, 10 Apr 2026 03:11:35 GMT | Seguridad o vigilancia? | Gabrielmontoya | [Read More](https://medium.com/p/dc55655aa9de) |
-| Fri, 10 Apr 2026 03:09:55 GMT | Top 21 Email Address Tools Every OSINT Professional Should Know | Regan Temudo | [Read More](https://medium.com/p/2f4201d17544) |
-| Fri, 10 Apr 2026 03:04:27 GMT | Django Security in 2026: What Every Developer Must Fix After the Recent CVE Patches | Md Mojno Miya | [Read More](https://medium.com/p/b471f975fccb) |
-| Fri, 10 Apr 2026 03:03:45 GMT | Inside Quantum Computing: The Tech That Could Outpace Supercomputers by Trillions of Years | Cygnus Consulting | [Read More](https://medium.com/p/70270110c3bc) |
-| Fri, 10 Apr 2026 03:01:01 GMT | Fundamentals of Information Security — Chapter 08 | Mani Gayathri | [Read More](https://medium.com/p/1b23728db463) |
-| Fri, 10 Apr 2026 02:59:35 GMT | How I Used OSINT to Gather Information Like a Hacker | Hania Khan | [Read More](https://medium.com/p/a59fdb7a8ffe) |
-| Fri, 10 Apr 2026 02:53:12 GMT | AI Data Leaks Are Rising: - What You Need to Know in 2026 | Pasan Sathsara | [Read More](https://medium.com/p/9e3395b1d99a) |
-| Fri, 10 Apr 2026 02:47:28 GMT | Blind SQL Injection with Conditional Responses | Mohamed Ahmed | [Read More](https://medium.com/p/a4afc4ff0e31) |
-| Fri, 10 Apr 2026 02:26:54 GMT | Weekly Threat Intelligence Report 6 Apr 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/4a447777cc28) |
-| Fri, 10 Apr 2026 02:16:20 GMT | Circuits to Ciphers: How I Decoded My Way Through BSides Seattle’s Crypto Village CTF (Part -2) | Mandaarrao | [Read More](https://medium.com/p/4a0d19c9aafc) |
-| Fri, 10 Apr 2026 02:05:53 GMT | RSS Feed Validator to RCE | Yazeed Bilal | [Read More](https://medium.com/p/4e4bd2451b0b) |
-| Fri, 10 Apr 2026 01:55:40 GMT | My Bug Bounty Journey #9: Account Takeover via JWT Misconfiguration | awchjimmy | [Read More](https://medium.com/p/4f4b4ed47360) |
-| Fri, 10 Apr 2026 01:12:50 GMT | Anthropic Built an AI That Finds Bugs Humans Missed for 27 Years. Then Refused to Release It. | James Williams | [Read More](https://medium.com/p/1ea4d165efa7) |
-| Fri, 10 Apr 2026 01:08:05 GMT | Deterministic Breach of Public-Key Cryptographic Systems (RSA/ECC) via Theorem IV | Alain Faure | [Read More](https://medium.com/p/a264882747ad) |
-| Fri, 10 Apr 2026 00:31:01 GMT | Hashing vs Encryption: What’s the Difference and Which One Should You Use? | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/3d6c245ba4f9) |
-| Fri, 10 Apr 2026 00:28:25 GMT | From Signal to Impact — How I Turn Findings Into High/Critical Reports | ghostyjoe | [Read More](https://medium.com/p/23f876fd9e4b) |
-| Fri, 10 Apr 2026 00:10:45 GMT | SOC170 — Passwd Found in Requested URL — Possible LFI Attack | Harshprajapati | [Read More](https://medium.com/p/79d6ddc7b52e) |
-| Fri, 10 Apr 2026 00:01:01 GMT | Guía de Vulnerabilidades de File Upload: Técnicas de Pentesting y RCE | JPablo13 | [Read More](https://medium.com/p/7ae2621a4944) |
-| Thu, 09 Apr 2026 23:55:33 GMT | Why Your Password-Protected ZIP File Is Not Actually Safe ,ZipCrypto Plaintext Attack Explained. | VedantShinde | [Read More](https://medium.com/p/05486e459c63) |
-| Thu, 09 Apr 2026 23:34:37 GMT | Japanese Spam Email | Jaws | [Read More](https://medium.com/p/b02c9a5f8cdc) |
-| Thu, 09 Apr 2026 23:25:44 GMT | Tryhackme :Agent t walkthrough | Jaiakassh Sathish | [Read More](https://medium.com/p/f813c234616d) |
-| Thu, 09 Apr 2026 23:10:46 GMT | Argos: Building an AI Analyst for Financial Crime That a Regulator Can Actually Trust | George Makris | [Read More](https://medium.com/p/e487133e9741) |
-| Thu, 09 Apr 2026 23:04:36 GMT | Day Zero: The Story Behind My Bug Bounty Journey | zero_day | [Read More](https://medium.com/p/173f2d57c499) |
-| Thu, 09 Apr 2026 23:03:36 GMT | Inside the Black Box: How “Logic Poisoning” Is the Cyberattack No One Can Stop in 2026 | Fino Franklin John Bosco | [Read More](https://medium.com/p/4d341a86dd43) |
-| Thu, 09 Apr 2026 23:02:31 GMT | Building LatticePay: A Unified Compliance, Risk & AI Governance Framework (Portfolio Project) | R-Squared Cyber | [Read More](https://medium.com/p/8d0507c35fc4) |
-| Thu, 09 Apr 2026 22:57:20 GMT | Your Company Is Probably Already Compromised (You Just Don’t Know It Yet) | Yua Mikanana | [Read More](https://medium.com/p/ad2c3020ac40) |
