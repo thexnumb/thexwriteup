@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Apr 2026 09:09:52 GMT | How to Stop Data Exfiltration in Google Cloud in 2026 with VPC Service Controls and Private… | Aleksei Aleinikov | [Read More](https://medium.com/p/c4976dc2770c) |
+| Fri, 10 Apr 2026 08:58:52 GMT | TryHackMe — One Piece — Ctf | Avshivapriyan | [Read More](https://medium.com/p/4ae16266a55e) |
+| Fri, 10 Apr 2026 08:51:11 GMT | Buffer Overflow & ROP Chain: un esempio pratico (Part II: ASLR attivo) | Michele Stecca | [Read More](https://medium.com/p/79c1fa61e7a9) |
+| Fri, 10 Apr 2026 08:51:06 GMT | Learning About Post-message Vulnerabilities | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/a9e89e13a80c) |
+| Fri, 10 Apr 2026 08:49:56 GMT | OSINT Briefing: Hacker News and Cybersecurity — April 10, 2026 | Gianluca Galimberti | [Read More](https://medium.com/p/c6aa945a7d50) |
+| Fri, 10 Apr 2026 08:48:59 GMT | BrixHub : The OSINT Indexer. | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/81d304a08de7) |
+| Fri, 10 Apr 2026 08:43:53 GMT | Part1: Who am i | Mikko Suokas | [Read More](https://medium.com/p/e66b3573b782) |
+| Fri, 10 Apr 2026 08:40:24 GMT | AI Isn’t Breaking Your Security. Your Basics Were Already Broken. | Sanjay Sankolli | [Read More](https://medium.com/p/f926f8c88095) |
+| Fri, 10 Apr 2026 08:32:12 GMT | Empline (THM) Tryhackme WriteUp With Answer | Lawvye | [Read More](https://medium.com/p/4fb52f340d6a) |
+| Fri, 10 Apr 2026 08:31:59 GMT | File Upload Vulnerability /Privilege escalations on Twiki(playmode) | Goldsploit | [Read More](https://medium.com/p/7763a48764f9) |
+| Fri, 10 Apr 2026 08:28:19 GMT | NoSQL Injection: How I Turned ?search= Into an Admin Oracle | Thomas Youssef | [Read More](https://medium.com/p/3e255ee82f18) |
+| Fri, 10 Apr 2026 08:26:55 GMT | Splunk Core Certified User (SPLK-1001) Sınav Deneyimim | Tolga D. | [Read More](https://medium.com/p/5edd8e5e2a78) |
+| Fri, 10 Apr 2026 08:26:55 GMT | Adobe Reader Zero-Day Exploited to Steal Data via Malicious PDFs | Vishnukraju | [Read More](https://medium.com/p/8415ad15e040) |
+| Fri, 10 Apr 2026 08:26:01 GMT | How to Delete a Cam Site Account (And What to Expect) | devlin | [Read More](https://medium.com/p/f99aa89c9756) |
+| Fri, 10 Apr 2026 08:25:49 GMT | Ethical Hacking vs Criminal Hacking: What’s the Difference? | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/4add0570fdc5) |
+| Fri, 10 Apr 2026 08:24:41 GMT | PortSwigger Lab: Information disclosure in version control history | Nikhil Bhandari | [Read More](https://medium.com/p/8c69ddf0cfca) |
+| Fri, 10 Apr 2026 08:12:48 GMT | The Rising Demand for Mobile Patrol and Live Video Monitoring in Canada | Ultraprotectsecurity | [Read More](https://medium.com/p/262dd525bec9) |
+| Fri, 10 Apr 2026 08:04:10 GMT | Compliance Risk Audit: A Complete Guide to Strengthening Business Integrity | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/fde393d33573) |
+| Fri, 10 Apr 2026 07:55:47 GMT | DockerLabs Writeup — Devil (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/99a53357c886) |
+| Fri, 10 Apr 2026 07:54:08 GMT | Shady Oaks Financial (JWT) Bugforge.io | 7s26Simon | [Read More](https://medium.com/p/41b8c27acaa0) |
 | Fri, 10 Apr 2026 07:40:03 GMT | DNS IN DETAIL:DNS RESOLUTION SIMULATOR LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/7af8a6869592) |
 | Fri, 10 Apr 2026 07:33:04 GMT | What I Do When a Suspicious Login Alert Hits (SOC Investigation) | Melike Fazlioglu - SOC Analyst | [Read More](https://medium.com/p/e799ef031f7b) |
 | Fri, 10 Apr 2026 07:32:08 GMT | Why 12 Companies Had to Share One Weapon | Seven Cubed Seven Labs | [Read More](https://medium.com/p/931b7b26009d) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 23:03:36 GMT | Inside the Black Box: How “Logic Poisoning” Is the Cyberattack No One Can Stop in 2026 | Fino Franklin John Bosco | [Read More](https://medium.com/p/4d341a86dd43) |
 | Thu, 09 Apr 2026 23:02:31 GMT | Building LatticePay: A Unified Compliance, Risk & AI Governance Framework (Portfolio Project) | R-Squared Cyber | [Read More](https://medium.com/p/8d0507c35fc4) |
 | Thu, 09 Apr 2026 22:57:20 GMT | Your Company Is Probably Already Compromised (You Just Don’t Know It Yet) | Yua Mikanana | [Read More](https://medium.com/p/ad2c3020ac40) |
-| Thu, 09 Apr 2026 22:53:59 GMT | Verifying private quantum circuits | Jennifer Tran | [Read More](https://medium.com/p/9ec99d5f3d5a) |
-| Thu, 09 Apr 2026 22:47:13 GMT | Network traffic fingerprinting is a way to identify devices like computers and phones without… | mahammad | [Read More](https://medium.com/p/5a136a7d5016) |
-| Thu, 09 Apr 2026 22:42:35 GMT | Defense-in-Depth (Layered Firewall Strategy) | Gurmandeep Singh | [Read More](https://medium.com/p/a779a0091077) |
-| Thu, 09 Apr 2026 22:33:00 GMT | ‍♂️ I Thought My Pool Was Safe… Until I Checked This (A Real Wake-Up Call for Homeowners) | Broda Ugos | [Read More](https://medium.com/p/72e5ef76e511) |
-| Thu, 09 Apr 2026 22:30:53 GMT | Preparing the HPC Lab | Kiran Limbu Phudong | [Read More](https://medium.com/p/c543a3255850) |
-| Thu, 09 Apr 2026 22:14:20 GMT | Project Glasswing and What It Means for Cloud Security | Josiah McCarthy | [Read More](https://medium.com/p/a5c2c7dd7b00) |
-| Thu, 09 Apr 2026 22:11:08 GMT | Beyond the MVP | Wrangler | [Read More](https://medium.com/p/49ce486f3fd7) |
-| Thu, 09 Apr 2026 22:04:18 GMT | What Anthropic’s Mythos Really Means for Software | Shenggang Li | [Read More](https://medium.com/p/9e9be2af318b) |
-| Thu, 09 Apr 2026 22:01:51 GMT | You’re spending too much on your security council - A dive into how blockchain security councils… | Patrick Collins | [Read More](https://medium.com/p/4d2a4cff1a13) |
-| Thu, 09 Apr 2026 21:56:01 GMT | Block - TryHackMe Writeup | Solvenite | [Read More](https://medium.com/p/a74a6585769a) |
-| Thu, 09 Apr 2026 21:53:10 GMT | Why Post-Quantum Cryptography Is Urgent Now | Ibrahim Logix | [Read More](https://medium.com/p/55aec405c447) |
-| Thu, 09 Apr 2026 21:48:34 GMT | So sichern Sie n8n in Produktion: Ein praktischer Hardening-Guide | Mika Schmidt | [Read More](https://medium.com/p/17cc99401650) |
-| Thu, 09 Apr 2026 21:42:22 GMT | AI Just Found What Human Eyes Missed for Decades. Now What? | Selorm Adjabeng | [Read More](https://medium.com/p/41f2084509fe) |
-| Thu, 09 Apr 2026 21:33:27 GMT | The Agentic AI Security Universe: A Complete Guide to Securing Autonomous AI Systems | Sarah Morino | [Read More](https://medium.com/p/d374bb25f4bd) |
-| Thu, 09 Apr 2026 21:29:40 GMT | A Practical Guide to Safely Using AI: What Every Person Needs to Know in 2026 | Juili | [Read More](https://medium.com/p/3b08e091ee29) |
-| Thu, 09 Apr 2026 21:26:20 GMT | The Blockchain Forensics Gap Nobody Talks About | Kir Kovalski | [Read More](https://medium.com/p/199d3a53bf8b) |
-| Thu, 09 Apr 2026 21:23:43 GMT | You’re Not Being Hacked — You’re Letting Them In (Part 1) | Sam Writes Security | [Read More](https://medium.com/p/ca56b697d449) |
-| Thu, 09 Apr 2026 21:21:03 GMT | Curious Minds: The Earth’s Stitch: 95% of the Internet is Underwater. | Balajee Viswanatha Rao | [Read More](https://medium.com/p/f4a58b5d27cd) |
-| Thu, 09 Apr 2026 21:16:45 GMT | Anthropic Built an AI That Found a 27-Year-Old Bug in Two Weeks. Then They Locked It Away. | PIXIPACE | [Read More](https://medium.com/p/5e1833a30663) |
-| Thu, 09 Apr 2026 21:11:21 GMT | Anthropic’s AI & Cybersecurity in 2026: Defender, Disruptor, and the Double-Edged Sword You Need to… | Aniket Tegginamath | [Read More](https://medium.com/p/06d7f0697145) |
