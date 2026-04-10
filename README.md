@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Apr 2026 14:30:30 GMT | Kenobi TryHackMe Writeup: Exploiting Linux Shares and Path Manipulation | Engosa | [Read More](https://medium.com/p/230d1abe48b3) |
+| Fri, 10 Apr 2026 14:28:54 GMT | Mnemonic — ZIP Cracking, FTP Brute Force, a Custom Cipher, and a sudo Python Escape - TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/53cff512a83d) |
+| Fri, 10 Apr 2026 14:22:58 GMT | Sharethepain.hacksmarter | MrKouk | [Read More](https://medium.com/p/0ef075e4d4dd) |
+| Fri, 10 Apr 2026 14:17:11 GMT | Network Segmentation Strategies: Implementing CISA’s Cybersecurity Best Practices for Layered… | Krishna Kumar | [Read More](https://medium.com/p/7e053227770c) |
+| Fri, 10 Apr 2026 14:16:50 GMT | Blueprints of Resilience: Orchestrating a Comprehensive Monitoring Stack & Agentic AI with Docker | Hadi Kusuma | [Read More](https://medium.com/p/503a7b5b5aaa) |
+| Fri, 10 Apr 2026 14:08:30 GMT | Securing the New Economy | Farhad Hossen | [Read More](https://medium.com/p/ba1c64c8847a) |
+| Fri, 10 Apr 2026 14:06:03 GMT | Dolandırıcılar İçin Siber Güvenlik | İHSAN ŞEN | [Read More](https://medium.com/p/ca61da419320) |
+| Fri, 10 Apr 2026 14:03:25 GMT | Why You Should Prioritize Data Privacy for Your Online Platform ? | Mdshahnewajrabby | [Read More](https://medium.com/p/b2c2f1d7dcb4) |
+| Fri, 10 Apr 2026 14:02:13 GMT | Walkthrough: Ascension by HackSmarter — From Anonymous FTP to Root | Airou | [Read More](https://medium.com/p/85289eecc1bb) |
+| Fri, 10 Apr 2026 14:01:02 GMT | Cyber Briefing: 2026.04.10 | CyberMaterial | [Read More](https://medium.com/p/295cc5c68f73) |
+| Fri, 10 Apr 2026 13:59:12 GMT | Mastering Vulnerability Management: DefectDojo x Trivy | Hadi Kusuma | [Read More](https://medium.com/p/d74d1198e4a9) |
+| Fri, 10 Apr 2026 13:58:11 GMT | Claude Mythos: Too Powerful for the Public | Aljon Inting | [Read More](https://medium.com/p/a01ce6f737e6) |
+| Fri, 10 Apr 2026 13:58:07 GMT | CWE Is Focus of Three Talks at “VulnCon 2026” | CWE Program | [Read More](https://medium.com/p/d53d5cd729d4) |
+| Fri, 10 Apr 2026 13:57:26 GMT | The Strategic Shift to Keycloak: Centralizing Identity in Modern Microservices | Hadilbenmessaouda | [Read More](https://medium.com/p/2c6366ae2a6f) |
+| Fri, 10 Apr 2026 13:55:33 GMT | Linux for Hackers: 15 Commands You’ll Use Every Day (With Real Examples) | Sukhveer Singh | [Read More](https://medium.com/p/6b0da93c6165) |
+| Fri, 10 Apr 2026 13:52:47 GMT | My First Bug Bounty: How I Hijacked an Entire Workspace using a JWT alg=none Attack | BelScarabX | [Read More](https://medium.com/p/fef78ad00df8) |
+| Fri, 10 Apr 2026 13:43:52 GMT | Look Directly at Me | Nira | [Read More](https://medium.com/p/b24bcd6c1f50) |
+| Fri, 10 Apr 2026 13:42:32 GMT | L’Evoluzione dei Servizi Informatici Sommersi: Dal Dark Web a Telegram | Mario Rossi | [Read More](https://medium.com/p/a8664da44e0d) |
+| Fri, 10 Apr 2026 13:41:27 GMT | PortSwigger: CORS Labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/da0f36cbaa97) |
+| Fri, 10 Apr 2026 13:21:01 GMT | How to Win a Middle-Aged Woman’s Heart: Responsibility, Loyalty & Commitment | Lilyana | [Read More](https://medium.com/p/26c0cf035d0b) |
 | Fri, 10 Apr 2026 13:08:12 GMT | We’re Letting Beta Software Drive Us, And That Should Terrify You | Len Noe | [Read More](https://medium.com/p/fbc15bacf61b) |
 | Fri, 10 Apr 2026 13:06:37 GMT | Privilege Escalation CTF - INE | Darioturini | [Read More](https://medium.com/p/200c0224327d) |
 | Fri, 10 Apr 2026 13:03:27 GMT | Shamoon: The Wiper That Changed Cyber Warfare | AKICHAN | [Read More](https://medium.com/p/8f894c85af58) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 09:42:33 GMT | Web Development Company Packages: Complete Guide for Businesses | Ava Jones | [Read More](https://medium.com/p/4110f5bb5283) |
 | Fri, 10 Apr 2026 09:31:30 GMT | Lab 12: Multi-Step Process With No Access Control on One Step — How I Promoted Myself to Admin | morgan_hack | [Read More](https://medium.com/p/4eb14492ad6c) |
 | Fri, 10 Apr 2026 09:16:01 GMT | Active Directory | FatmaCy | [Read More](https://medium.com/p/c6d1096b40eb) |
-| Fri, 10 Apr 2026 09:09:52 GMT | How to Stop Data Exfiltration in Google Cloud in 2026 with VPC Service Controls and Private… | Aleksei Aleinikov | [Read More](https://medium.com/p/c4976dc2770c) |
-| Fri, 10 Apr 2026 09:07:42 GMT | The Revival of Substantialism | Haruka Matsukasa | [Read More](https://medium.com/p/9eac4590826f) |
-| Fri, 10 Apr 2026 08:58:52 GMT | TryHackMe — One Piece — Ctf | Avshivapriyan | [Read More](https://medium.com/p/4ae16266a55e) |
-| Fri, 10 Apr 2026 08:51:11 GMT | Buffer Overflow & ROP Chain: un esempio pratico (Part II: ASLR attivo) | Michele Stecca | [Read More](https://medium.com/p/79c1fa61e7a9) |
-| Fri, 10 Apr 2026 08:51:06 GMT | Learning About Post-message Vulnerabilities | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/a9e89e13a80c) |
-| Fri, 10 Apr 2026 08:49:56 GMT | OSINT Briefing: Hacker News and Cybersecurity — April 10, 2026 | Gianluca Galimberti | [Read More](https://medium.com/p/c6aa945a7d50) |
-| Fri, 10 Apr 2026 08:48:59 GMT | BrixHub : The OSINT Indexer. | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/81d304a08de7) |
-| Fri, 10 Apr 2026 08:43:53 GMT | Part1: Who am i | Mikko Suokas | [Read More](https://medium.com/p/e66b3573b782) |
-| Fri, 10 Apr 2026 08:40:24 GMT | AI Isn’t Breaking Your Security. Your Basics Were Already Broken. | Sanjay Sankolli | [Read More](https://medium.com/p/f926f8c88095) |
-| Fri, 10 Apr 2026 08:32:12 GMT | Empline (THM) Tryhackme WriteUp With Answer | Lawvye | [Read More](https://medium.com/p/4fb52f340d6a) |
-| Fri, 10 Apr 2026 08:31:59 GMT | File Upload Vulnerability /Privilege escalations on Twiki(playmode) | Goldsploit | [Read More](https://medium.com/p/7763a48764f9) |
-| Fri, 10 Apr 2026 08:28:19 GMT | NoSQL Injection: How I Turned ?search= Into an Admin Oracle | Thomas Youssef | [Read More](https://medium.com/p/3e255ee82f18) |
-| Fri, 10 Apr 2026 08:26:55 GMT | Splunk Core Certified User (SPLK-1001) Sınav Deneyimim | Tolga D. | [Read More](https://medium.com/p/5edd8e5e2a78) |
-| Fri, 10 Apr 2026 08:26:55 GMT | Adobe Reader Zero-Day Exploited to Steal Data via Malicious PDFs | Vishnukraju | [Read More](https://medium.com/p/8415ad15e040) |
-| Fri, 10 Apr 2026 08:26:01 GMT | How to Delete a Cam Site Account (And What to Expect) | devlin | [Read More](https://medium.com/p/f99aa89c9756) |
-| Fri, 10 Apr 2026 08:25:49 GMT | Ethical Hacking vs Criminal Hacking: What’s the Difference? | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/4add0570fdc5) |
-| Fri, 10 Apr 2026 08:24:41 GMT | PortSwigger Lab: Information disclosure in version control history | Nikhil Bhandari | [Read More](https://medium.com/p/8c69ddf0cfca) |
-| Fri, 10 Apr 2026 08:12:48 GMT | The Rising Demand for Mobile Patrol and Live Video Monitoring in Canada | Ultraprotectsecurity | [Read More](https://medium.com/p/262dd525bec9) |
-| Fri, 10 Apr 2026 08:04:10 GMT | Compliance Risk Audit: A Complete Guide to Strengthening Business Integrity | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/fde393d33573) |
-| Fri, 10 Apr 2026 07:55:47 GMT | DockerLabs Writeup — Devil (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/99a53357c886) |
