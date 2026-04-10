@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Apr 2026 19:29:24 GMT | SOC Journey — Lab 7: Windows Registry Basics | Hemaprasadpotnuru | [Read More](https://medium.com/p/f5ea055d2de5) |
+| Fri, 10 Apr 2026 19:25:54 GMT | Chrome just dropped a game-changer that makes your stolen login cookies TOTALLY worthless to… | cybrNK | [Read More](https://medium.com/p/be7ec7e37f3a) |
+| Fri, 10 Apr 2026 19:16:40 GMT | Anthropic Claude Mythos Will Break Vulnerability Management | Matthew.Rosenquist | [Read More](https://medium.com/p/079869e35888) |
+| Fri, 10 Apr 2026 19:11:43 GMT | What’s Mythos and what can it do | YAROCELIS.eth - Tech Trends | [Read More](https://medium.com/p/5bb98892b105) |
+| Fri, 10 Apr 2026 19:06:22 GMT | (Day-5) Understanding Subnet & Subnetting Without the Headache | Priyesh Patware | [Read More](https://medium.com/p/f8742775fee3) |
+| Fri, 10 Apr 2026 18:58:36 GMT | Your LangSmith Traces Are Not an Audit Trail | Ramon Galego | [Read More](https://medium.com/p/a5e3f1974327) |
+| Fri, 10 Apr 2026 18:57:34 GMT | Mythic C2 Server — 103 | Miraç Küçük | [Read More](https://medium.com/p/6b5e216bf74a) |
+| Fri, 10 Apr 2026 18:56:05 GMT | Mystic C2 Server — 102 (TR) | Miraç Küçük | [Read More](https://medium.com/p/e6a40161b207) |
+| Fri, 10 Apr 2026 18:51:45 GMT | Warning: Adobe Reader Zero-Day Exploit | Cybersectoworld | [Read More](https://medium.com/p/e07eca788f91) |
+| Fri, 10 Apr 2026 18:51:13 GMT | Day 18: The Invisible Attack Surface — Mastering API Security | Ndu | [Read More](https://medium.com/p/de2ee6c6f336) |
+| Fri, 10 Apr 2026 18:50:53 GMT | Day 17: Fortifying the Code — Architectural Defenses Against Web Application Attacks | Ndu | [Read More](https://medium.com/p/4631c5f39c6d) |
+| Fri, 10 Apr 2026 18:50:28 GMT | How FHE and Fhenix Can Mitigate the Risk of Quantum Computing in Web3 | Azeez Abidoye | [Read More](https://medium.com/p/a3a045e2f464) |
 | Fri, 10 Apr 2026 18:23:15 GMT | PicoCTF Challenge Writeup— Blame Game | Aman Barolia | [Read More](https://medium.com/p/ab4076ecd3f2) |
 | Fri, 10 Apr 2026 18:20:54 GMT | How to Lock WhatsApp Without Any App (3 Easy Methods 2026) | Manish Sharma | [Read More](https://medium.com/p/29267ff55b41) |
 | Fri, 10 Apr 2026 18:09:03 GMT | The AI That Found Zero-Days in Every OS — And Why You’ll Never Get Access to It | Muhammad Qayyum | [Read More](https://medium.com/p/16f1eaeb70cf) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 12:41:19 GMT | The $1 Trillion Wake-Up Call: Why Anthropic’s New Model Should Scare Every Enterprise Security Team | Shayak Mazumder | [Read More](https://medium.com/p/42e7fe1c631e) |
 | Fri, 10 Apr 2026 12:35:53 GMT | Claude Code Leak → Fake GitHub Repos → Vidar Infostealer: How the Trap Works | Gaurav Agarwaal | [Read More](https://medium.com/p/4f9097d71864) |
 | Fri, 10 Apr 2026 12:32:22 GMT | How Soroban’s CAP-0066 Killed My LayerZero Finding | Dan23RR | [Read More](https://medium.com/p/ab5a8fddba41) |
-| Fri, 10 Apr 2026 12:29:41 GMT | CCTV Monitoring Mistakes: 7 Errors That Leave Your Business Exposed | Doris William | [Read More](https://medium.com/p/c712486ecfc9) |
-| Fri, 10 Apr 2026 12:28:22 GMT | Breaking Active Directory via MSSQL Trust Abuse and Kerberos Delegation: The DarkZero Case Study | yogesh | [Read More](https://medium.com/p/ba2635bbd3b7) |
-| Fri, 10 Apr 2026 12:28:11 GMT | From npm install to AWS Root: How the QUIETVAULT Attack Shattered the Cloud’s Most Trusted Protocol | Ahmad Bin Mohsin | [Read More](https://medium.com/p/b671743411b2) |
-| Fri, 10 Apr 2026 12:25:55 GMT | DoubleTrouble - Vulnhub - Walkthrough | Vin13 | [Read More](https://medium.com/p/64d16358def5) |
-| Fri, 10 Apr 2026 12:23:40 GMT | Cybersecurity in Modern Backend Systems: Lessons from Real-World Engineering | Türkan BASUT | [Read More](https://medium.com/p/0b9718d921d2) |
-| Fri, 10 Apr 2026 12:23:08 GMT | Menggunakan Variable dan Operator di Dalam Program | Guntur Apta Daniswara | [Read More](https://medium.com/p/7b35e18ae8dd) |
-| Fri, 10 Apr 2026 12:19:48 GMT | Understanding Dark Web Privacy Tools and Their Role Online | Tor BBB | [Read More](https://medium.com/p/35fb4e9aee19) |
-| Fri, 10 Apr 2026 12:12:42 GMT | A Simple Upgrade That Makes Your Home Safer and Smarter | Criminology Expert | [Read More](https://medium.com/p/f197f4f3bdc0) |
-| Fri, 10 Apr 2026 12:01:29 GMT | SEO for Social Platforms: A Complete Guide to Boost Visibility and Engagement | Jellyfr | [Read More](https://medium.com/p/4f0b11be3fee) |
-| Fri, 10 Apr 2026 12:01:01 GMT | What happens when you upload a PDF to an online tool | Giuseppe | [Read More](https://medium.com/p/31aa88870cb5) |
-| Fri, 10 Apr 2026 12:00:25 GMT | Manufacturers Are Protecting Their Factories Wrong, Here’s Why | Luke Appleby | [Read More](https://medium.com/p/2e5ffd93c523) |
-| Fri, 10 Apr 2026 11:59:39 GMT | Business Process Outsourcing (BPO) Market Size, Share, Industry Growth — 2035 | NIkita Poplai | [Read More](https://medium.com/p/7b2c02c606c7) |
