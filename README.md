@@ -12,9 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Apr 2026 05:54:09 GMT | The Corix Partners Friday Reading List — April 10, 2026 | JC Gaillard | [Read More](https://medium.com/p/2a16c8d59acf) |
+| Fri, 10 Apr 2026 05:53:05 GMT | AI and Cloud Security in Australia: What 2026 Threat Landscape Means for Your Business | Byte Way | [Read More](https://medium.com/p/ab54d2d1d873) |
+| Fri, 10 Apr 2026 05:52:15 GMT | CyberAv3ngers Pivot to Rockwell PLCs as Iran War Triggers Escalated Attacks on US Water and Energy… | TheRedSheep | [Read More](https://medium.com/p/f5237d9aa0a9) |
+| Fri, 10 Apr 2026 05:50:46 GMT | 10 PB of Military Data Stolen Through One VPN Flaw | Before The Curve | [Read More](https://medium.com/p/31076debe28e) |
+| Fri, 10 Apr 2026 05:49:05 GMT | Anthropic’s Mythos Is What Happens When AI Stops Helping With Emails and Starts Hunting Software… | Amar Jeer | [Read More](https://medium.com/p/90b375fedddb) |
+| Fri, 10 Apr 2026 05:41:12 GMT | Human Psychology vs AI in Cybersecurity | Antonyrajvedamanickam | [Read More](https://medium.com/p/7b2230ba0d74) |
+| Fri, 10 Apr 2026 05:33:45 GMT | Top 8 Emergency IT Support Providers in Dallas | Cloudavize | [Read More](https://medium.com/p/b53a74296f4d) |
+| Fri, 10 Apr 2026 05:31:56 GMT | Securing Sensitive Data in Logstash: Hashing Authentication Tokens in Access Logs | Nikhil Ninawe | [Read More](https://medium.com/p/9600b5e8e2ce) |
+| Fri, 10 Apr 2026 05:26:59 GMT | 10 Key Highlights from Claude Mythos You Need to Know | Ai studio | [Read More](https://medium.com/p/a644c1cc88ab) |
+| Fri, 10 Apr 2026 05:21:01 GMT | SOC 138: Detected Suspicious Xls File -Lets Defend | mubarak abdulganiy | [Read More](https://medium.com/p/fa8ec847c66e) |
+| Fri, 10 Apr 2026 05:21:00 GMT | Why Future Cyberattacks Will Target Trust, Not Just Systems | Digital Defense | [Read More](https://medium.com/p/9f82783e373c) |
+| Fri, 10 Apr 2026 05:16:01 GMT | Your Apache Config Is a Security Risk. Let’s Fix It. | Suyash Adhikari | [Read More](https://medium.com/p/ec21c9db6eac) |
+| Fri, 10 Apr 2026 05:01:04 GMT | Before You Ship Anthropic, Price the Loop Not the Call | James Kuhman | [Read More](https://medium.com/p/01d816cd07c1) |
+| Fri, 10 Apr 2026 04:35:17 GMT | The Mythos of Anthropic: When AI Became a Cybersecurity Force | Venkata Nagasai Kesani | [Read More](https://medium.com/p/b5c7d73a5f2f) |
+| Fri, 10 Apr 2026 04:29:02 GMT | Week 4: Managing processes in Linux | Nishant kumar | [Read More](https://medium.com/p/7020bb1e172d) |
+| Fri, 10 Apr 2026 04:27:31 GMT | Before Windows Loads: The Hidden Boot Architecture Every Tech Person Should Understand | SAFAL GAUTAM | [Read More](https://medium.com/p/d2217d9b0b2b) |
+| Fri, 10 Apr 2026 04:26:03 GMT | What is Cybersecurity and Why It Matters in 2026 | Sidhantchaurasiya | [Read More](https://medium.com/p/c72c5e550fc6) |
+| Fri, 10 Apr 2026 04:24:57 GMT | I ETHICALLY Built a System That Detects Human Poses Through Walls Using WiFi - Tolani Akinola | tolani akinola | [Read More](https://medium.com/p/51b4e4e9efb6) |
+| Fri, 10 Apr 2026 04:03:41 GMT | # Learning Nmap — Scanning My First Target (Metasploitable 2) | Juan Manuel Yepes | [Read More](https://medium.com/p/bcb3409745ed) |
+| Fri, 10 Apr 2026 04:00:04 GMT | Top 20 Kali Linux Tools for Bug Bounty (Professional Guide) | Pradeeptadi | [Read More](https://medium.com/p/23760909aab0) |
+| Fri, 10 Apr 2026 03:52:51 GMT | PortSwigger Lab: Insecure Direct Object References (IDOR) — Chat Transcript Exploit | Sanjivani Dobhal | [Read More](https://medium.com/p/89431b5a5da0) |
 | Fri, 10 Apr 2026 03:26:52 GMT | Técnicas anti-debugger y como detectarlas y parchearlas | Jesus rodriguez | [Read More](https://medium.com/p/243be2f8fb12) |
 | Fri, 10 Apr 2026 03:24:26 GMT | I Got Tired of Expensive SEO Tools, So I Built My Own Engine in Python | Shiyanthan Shiya | [Read More](https://medium.com/p/9187eac30b17) |
 | Fri, 10 Apr 2026 03:12:47 GMT | Penetration Testing Services: Strengthening Your Cybersecurity from Within | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/814b6225fc0d) |
+| Fri, 10 Apr 2026 03:11:35 GMT | Seguridad o vigilancia? | Gabrielmontoya | [Read More](https://medium.com/p/dc55655aa9de) |
 | Fri, 10 Apr 2026 03:09:55 GMT | Top 21 Email Address Tools Every OSINT Professional Should Know | Regan Temudo | [Read More](https://medium.com/p/2f4201d17544) |
 | Fri, 10 Apr 2026 03:04:27 GMT | Django Security in 2026: What Every Developer Must Fix After the Recent CVE Patches | Md Mojno Miya | [Read More](https://medium.com/p/b471f975fccb) |
 | Fri, 10 Apr 2026 03:03:45 GMT | Inside Quantum Computing: The Tech That Could Outpace Supercomputers by Trillions of Years | Cygnus Consulting | [Read More](https://medium.com/p/70270110c3bc) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 09 Apr 2026 19:16:10 GMT | TryHackMe Writeup: The Sticker Shop | Berkay AĞGÜL | [Read More](https://medium.com/p/56e04557bb05) |
 | Thu, 09 Apr 2026 19:14:33 GMT | Agent Context Graphs and Safe Autonomy | sharathr | [Read More](https://medium.com/p/af8e4a526965) |
 | Thu, 09 Apr 2026 19:12:12 GMT | The Shield They Built Instead, Anthropic, Mythos, & Project Glasswing | J Poole | [Read More](https://medium.com/p/b0aee5aa7806) |
-| Thu, 09 Apr 2026 19:12:02 GMT | DeepContext: Defending Against Multi-Turn Agent Attacks with Context-Aware Guardrails | sharathr | [Read More](https://medium.com/p/32bfe795e9f0) |
-| Thu, 09 Apr 2026 19:09:22 GMT | CyberDev Weekly Brief | Devore McIntosh | [Read More](https://medium.com/p/7bdcbbb92598) |
-| Thu, 09 Apr 2026 18:53:01 GMT | You Are Not Your Stack | Susan Brearley | [Read More](https://medium.com/p/1c76255b6c05) |
-| Thu, 09 Apr 2026 18:50:25 GMT | Day 16: The Client-Side Betrayal — Unmasking Cross-Site Scripting (XSS) | Ndu | [Read More](https://medium.com/p/2f67eb653c3b) |
-| Thu, 09 Apr 2026 18:49:42 GMT | Day 15: The Database Siege — Demystifying SQL Injection (SQLi) | Ndu | [Read More](https://medium.com/p/68a4b8574862) |
-| Thu, 09 Apr 2026 18:49:30 GMT | LOVE -HackTheBox - Writeup - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/0ac3cbaad86e) |
-| Thu, 09 Apr 2026 18:46:59 GMT | 5. Backend como motor de decisão | Rudson Ribeiro Alves | [Read More](https://medium.com/p/f3b583e59dd7) |
-| Thu, 09 Apr 2026 18:40:35 GMT | Reflected XSS via HTML Attribute Manipulation — Hackviser Labs | Manohar T H | [Read More](https://medium.com/p/b0ef399aa119) |
-| Thu, 09 Apr 2026 18:30:34 GMT | Which Cybersecurity Certifications Boost Your Salary the Most in 2026? | Subhankar Sharma | [Read More](https://medium.com/p/8b8afc89c359) |
-| Thu, 09 Apr 2026 18:26:51 GMT | Deepfake Attacks: When Seeing Is No Longer Believing | Natarajan C K | [Read More](https://medium.com/p/511d3fd9aae8) |
-| Thu, 09 Apr 2026 18:26:48 GMT | OSINT Deep Dives | Muhammad Junaid Akhtar | [Read More](https://medium.com/p/f694cf5901ad) |
-| Thu, 09 Apr 2026 18:20:05 GMT | Weekly Threat Landscape: Thursday Roundup #3 | Josh Johnson | [Read More](https://medium.com/p/3e0405d8df2a) |
-| Thu, 09 Apr 2026 18:19:18 GMT | How to Watch ARD Mediathek Outside Germany | TechReview Hub | [Read More](https://medium.com/p/0ed139f16e81) |
-| Thu, 09 Apr 2026 18:17:22 GMT | The Dead End of Digital Trust: Why AI Has Made “Identity” Unverifiable by 2026 | Fino Franklin John Bosco | [Read More](https://medium.com/p/0baf976ac74c) |
-| Thu, 09 Apr 2026 18:16:38 GMT | Claude Mythos News, My Opinions on the Future of Tech, and Overcoming the Noise | The Husky Hacker | [Read More](https://medium.com/p/c8504a39efd1) |
-| Thu, 09 Apr 2026 17:55:50 GMT | 5 Ways I Found PII Disclosures in the Wild: Real Case Studies | Parth Narula | [Read More](https://medium.com/p/14429c54264f) |
-| Thu, 09 Apr 2026 17:41:11 GMT | 10 Petabytes Stolen — And Almost Nobody Noticed | Messidhanesh | [Read More](https://medium.com/p/6ad3c3720798) |
-| Thu, 09 Apr 2026 17:40:41 GMT | I Got Tired of Running 15 Different Nmap Commands. So I Built My Own Vulnerability Scanner. | Romario Bennett | [Read More](https://medium.com/p/ca3c21052e53) |
-| Thu, 09 Apr 2026 17:37:51 GMT | Mobile App Pentesting with DIVA: Manual, Drozer & MobSF | Aastha Thakker | [Read More](https://medium.com/p/9c1fbd38a8b5) |
-| Thu, 09 Apr 2026 17:34:26 GMT | The $MFT — the one artifact I check first on every Windows investigation | Mohit Dhabuwala | [Read More](https://medium.com/p/bc1fc32a730e) |
-| Thu, 09 Apr 2026 17:28:57 GMT | Anthropic Built the Most Powerful AI in the World. Then, Decided You Can’t Have It. | Bhandarijuhi | [Read More](https://medium.com/p/feab5ee1572a) |
-| Thu, 09 Apr 2026 17:28:30 GMT | We Faked a Tool. It Hijacked an AI Agent and Fed Users Lies and can do so much more. | Eklavya Tyagi | [Read More](https://medium.com/p/46e183071d21) |
