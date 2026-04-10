@@ -12,7 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 10 Apr 2026 11:43:36 GMT | The Great OpenClaw Autonomy Comes with a Huge Price and Its Own Vulnerabilities | David SEHYEON Baek | [Read More](https://medium.com/p/82fa65898927) |
+| Fri, 10 Apr 2026 11:40:55 GMT | Why npm Is the Most Dangerous Place on the Internet Right Now | Dhanush N | [Read More](https://medium.com/p/cfff0c0bc548) |
+| Fri, 10 Apr 2026 11:37:26 GMT | How Small Businesses Can Grow Online with Limited Budget | infolexus solution | [Read More](https://medium.com/p/fd71d8627852) |
+| Fri, 10 Apr 2026 11:31:15 GMT | Your Own AI Secretary, Butler & IT Team for ~$15/Month | Kusunoki | [Read More](https://medium.com/p/bacb464b0ff1) |
+| Fri, 10 Apr 2026 11:30:28 GMT | How Employee Training Strengthens Cybersecurity Systems in Organisations | logging security | [Read More](https://medium.com/p/3efda8f446c0) |
+| Fri, 10 Apr 2026 11:28:06 GMT | Inside Project Glasswing: How Claude Mythos Could Reshape Cybersecurity Forever | Vikas Sharma | [Read More](https://medium.com/p/5fa3efa4dd01) |
+| Fri, 10 Apr 2026 11:27:35 GMT | DCIM as the Foundation for Smart Data Centres | Advanced Datacentre Systems Limited | [Read More](https://medium.com/p/998b083544e5) |
+| Fri, 10 Apr 2026 11:26:23 GMT | Token Exchange flow via Keycloak | Sourav Kumar | [Read More](https://medium.com/p/6485a1bc9316) |
+| Fri, 10 Apr 2026 11:25:37 GMT | Essential System Design Concepts | Kharavela Jain | [Read More](https://medium.com/p/437e9a719ccf) |
+| Fri, 10 Apr 2026 11:23:51 GMT | What Is a Managed Service Provider and Why Businesses Use It | managed service provider | [Read More](https://medium.com/p/1a81712739a8) |
+| Fri, 10 Apr 2026 11:22:34 GMT | Cybersecurity in Digital Marketing Tools | joe lotus | [Read More](https://medium.com/p/9195442e1a74) |
+| Fri, 10 Apr 2026 11:20:28 GMT | Resilience Over Prevention: Measuring Incident Response Success in a Post-AI Threat Landscape | NetWitness | [Read More](https://medium.com/p/6db3ad25961f) |
+| Fri, 10 Apr 2026 11:19:48 GMT | Stored XSS via Image Upload and MIME-Type Confusion | 0xKemzx | [Read More](https://medium.com/p/1981ec0b82fe) |
+| Fri, 10 Apr 2026 11:19:43 GMT | How Technology Helps Scammers: The Dark Side of Digital Innovation | Viginet Pvt Ltd | [Read More](https://medium.com/p/a7e218a1176d) |
+| Fri, 10 Apr 2026 11:18:22 GMT | What Happens If You Remove All Tools in Cybersecurity? | Fahisshehandim | [Read More](https://medium.com/p/0d9751700990) |
+| Fri, 10 Apr 2026 11:15:16 GMT | Agentic AI Security in 2026: OpenClaw, MCP Vulnerabilities & Enterprise Hardening Guide | Neuralcoretech | [Read More](https://medium.com/p/9dde2bd9a492) |
+| Fri, 10 Apr 2026 11:14:59 GMT | Why Companies Hire Ethical Hackers to Protect Data and Prevent Cyber Breaches | letsremotify | [Read More](https://medium.com/p/76aaf6bfefc5) |
+| Fri, 10 Apr 2026 11:06:23 GMT | Web Application Summer Internship with Real Projects and Mentorship | cyber security Updates | [Read More](https://medium.com/p/128cb0387152) |
+| Fri, 10 Apr 2026 10:44:21 GMT | Trilab — Complete Domain Compromise via Kerberos and ADCS Misconfiguration | GauthamV | [Read More](https://medium.com/p/adac25bc479f) |
+| Fri, 10 Apr 2026 10:39:16 GMT | How Good Are AI Agents at Finding Web Vulnerabilities (Part 2) | Tuomo Makkonen | [Read More](https://medium.com/p/5a80aa926d10) |
+| Fri, 10 Apr 2026 10:37:44 GMT | “Before You Run Nmap, Try a Ping” | Teachnolen | [Read More](https://medium.com/p/a4613035d94f) |
+| Fri, 10 Apr 2026 10:36:19 GMT | Stop Giving Away Your AI for Free: The Razorpay/OpenAI Shift | Vijay kumar | [Read More](https://medium.com/p/8b941cc71fde) |
+| Fri, 10 Apr 2026 10:33:50 GMT | Security Agents Need a Thinner Harness | pdp | [Read More](https://medium.com/p/8685c4bc5b4f) |
 | Fri, 10 Apr 2026 10:33:34 GMT | A Technical Walkthrough of the TryHackMe Nmap Lab | Joanna Adegbile | [Read More](https://medium.com/p/628edc354c11) |
+| Fri, 10 Apr 2026 10:31:15 GMT | “I’m Overwhelmed” - How to Stop Tutorial Hell in Cybersecurity | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/b57c750a6b1d) |
 | Fri, 10 Apr 2026 10:29:21 GMT | Claude AI Just Had the Worst Year Ever | Shaswata Tripathy | [Read More](https://medium.com/p/108968aa1f71) |
 | Fri, 10 Apr 2026 10:26:52 GMT | Claude Didn’t “Discover” the FreeBSD Vulnerability. | JIN | [Read More](https://medium.com/p/807044a72bf1) |
 | Fri, 10 Apr 2026 10:20:51 GMT | THE FUTURE OF RESIDENTIAL PROTECTION IN THE GULF | Mrtgntr | [Read More](https://medium.com/p/72237287bea4) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 06:16:45 GMT | Flap Barrier: The Intelligent Access Control Solution for High-Traffic Environments | Etradefia | [Read More](https://medium.com/p/6a36eda79eac) |
 | Fri, 10 Apr 2026 06:16:24 GMT | The Solder Fume Epiphany: Why Software Engineers Should Build One Hardware Project a Month | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f0037d489608) |
 | Fri, 10 Apr 2026 06:02:41 GMT | 10 Low-Code HRMS Tools in India for Faster HR Process Automation 2026 | Aditi Sharma | [Read More](https://medium.com/p/58949bde7b5c) |
-| Fri, 10 Apr 2026 06:00:07 GMT | Storm-1175: China’s Zero-Day Ransomware Machine Hits Critical Infrastructure at Record Speed | TheRedSheep | [Read More](https://medium.com/p/4518df0061ed) |
-| Fri, 10 Apr 2026 05:58:17 GMT | CyberDefenders: Famous Chollima Lab | Samyak Jeevane | [Read More](https://medium.com/p/8d28bfe117f3) |
-| Fri, 10 Apr 2026 05:58:03 GMT | Your Password Isn’t Weak — Your Habits Are | Paritosh | [Read More](https://medium.com/p/c36c2d71e55f) |
-| Fri, 10 Apr 2026 05:54:09 GMT | The Corix Partners Friday Reading List — April 10, 2026 | JC Gaillard | [Read More](https://medium.com/p/2a16c8d59acf) |
-| Fri, 10 Apr 2026 05:53:29 GMT | Hardcoded Credentials in Android APK: How I Discovered Client Secrets Hidden Inside a React Native… | Amarnath_chukkapalli | [Read More](https://medium.com/p/9e2f1771984b) |
-| Fri, 10 Apr 2026 05:53:05 GMT | AI and Cloud Security in Australia: What 2026 Threat Landscape Means for Your Business | Byte Way | [Read More](https://medium.com/p/ab54d2d1d873) |
-| Fri, 10 Apr 2026 05:52:15 GMT | CyberAv3ngers Pivot to Rockwell PLCs as Iran War Triggers Escalated Attacks on US Water and Energy… | TheRedSheep | [Read More](https://medium.com/p/f5237d9aa0a9) |
-| Fri, 10 Apr 2026 05:50:46 GMT | 10 PB of Military Data Stolen Through One VPN Flaw | Before The Curve | [Read More](https://medium.com/p/31076debe28e) |
-| Fri, 10 Apr 2026 05:49:05 GMT | Anthropic’s Mythos Is What Happens When AI Stops Helping With Emails and Starts Hunting Software… | Amar Jeer | [Read More](https://medium.com/p/90b375fedddb) |
-| Fri, 10 Apr 2026 05:41:12 GMT | Human Psychology vs AI in Cybersecurity | Antonyrajvedamanickam | [Read More](https://medium.com/p/7b2230ba0d74) |
-| Fri, 10 Apr 2026 05:33:45 GMT | Top 8 Emergency IT Support Providers in Dallas | Cloudavize | [Read More](https://medium.com/p/b53a74296f4d) |
-| Fri, 10 Apr 2026 05:31:56 GMT | Securing Sensitive Data in Logstash: Hashing Authentication Tokens in Access Logs | Nikhil Ninawe | [Read More](https://medium.com/p/9600b5e8e2ce) |
-| Fri, 10 Apr 2026 05:26:59 GMT | 10 Key Highlights from Claude Mythos You Need to Know | Ai studio | [Read More](https://medium.com/p/a644c1cc88ab) |
-| Fri, 10 Apr 2026 05:21:01 GMT | SOC 138: Detected Suspicious Xls File -Lets Defend | mubarak abdulganiy | [Read More](https://medium.com/p/fa8ec847c66e) |
-| Fri, 10 Apr 2026 05:21:00 GMT | Why Future Cyberattacks Will Target Trust, Not Just Systems | Digital Defense | [Read More](https://medium.com/p/9f82783e373c) |
-| Fri, 10 Apr 2026 05:16:01 GMT | Your Apache Config Is a Security Risk. Let’s Fix It. | Suyash Adhikari | [Read More](https://medium.com/p/ec21c9db6eac) |
-| Fri, 10 Apr 2026 05:01:04 GMT | Before You Ship Anthropic, Price the Loop Not the Call | James Kuhman | [Read More](https://medium.com/p/01d816cd07c1) |
-| Fri, 10 Apr 2026 04:35:17 GMT | The Mythos of Anthropic: When AI Became a Cybersecurity Force | Venkata Nagasai Kesani | [Read More](https://medium.com/p/b5c7d73a5f2f) |
-| Fri, 10 Apr 2026 04:29:02 GMT | Week 4: Managing processes in Linux | Nishant kumar | [Read More](https://medium.com/p/7020bb1e172d) |
-| Fri, 10 Apr 2026 04:27:31 GMT | Before Windows Loads: The Hidden Boot Architecture Every Tech Person Should Understand | SAFAL GAUTAM | [Read More](https://medium.com/p/d2217d9b0b2b) |
-| Fri, 10 Apr 2026 04:26:03 GMT | What is Cybersecurity and Why It Matters in 2026 | Sidhantchaurasiya | [Read More](https://medium.com/p/c72c5e550fc6) |
-| Fri, 10 Apr 2026 04:24:57 GMT | I ETHICALLY Built a System That Detects Human Poses Through Walls Using WiFi - Tolani Akinola | tolani akinola | [Read More](https://medium.com/p/51b4e4e9efb6) |
-| Fri, 10 Apr 2026 04:03:41 GMT | # Learning Nmap — Scanning My First Target (Metasploitable 2) | Juan Manuel Yepes | [Read More](https://medium.com/p/bcb3409745ed) |
-| Fri, 10 Apr 2026 04:00:04 GMT | Top 20 Kali Linux Tools for Bug Bounty (Professional Guide) | Pradeeptadi | [Read More](https://medium.com/p/23760909aab0) |
