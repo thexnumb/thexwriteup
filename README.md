@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 02:25:32 GMT | Why git clone Fails with “Password authentication is not supported” on AWS CloudShell | Yoshiyuki Watanabe | [Read More](https://medium.com/p/68b1a779a17e) |
+| Sat, 11 Apr 2026 02:21:50 GMT | How to Secure Your Spring Boot Application (JWT, OAuth2, Best Practices) | Java Interview | [Read More](https://medium.com/p/ec60ef454695) |
+| Sat, 11 Apr 2026 02:08:10 GMT | Weekly Cyber Threat Bulletin: 9 April 2026 | Marcelle Lee | [Read More](https://medium.com/p/6e7820fb4c5f) |
+| Sat, 11 Apr 2026 02:02:15 GMT | Ethical Hacking for Beginners: A Complete Guide to Start Your Cybersecurity Career | AXON (Advanced X Operations Network) | [Read More](https://medium.com/p/046afbc3fbe8) |
+| Sat, 11 Apr 2026 02:00:40 GMT | Governing Security in the Age of Infinite Signal — From Discovery to Control | Snyk | [Read More](https://medium.com/p/e00d6d521b78) |
+| Sat, 11 Apr 2026 01:53:59 GMT | AWS Has 4 Load Balancers — Most Engineers Only Understand One | Sowmya Katherla | [Read More](https://medium.com/p/d44082cf23e2) |
+| Sat, 11 Apr 2026 01:46:56 GMT | From Monolithic Kernel to Octopus Architecture: Security as a Structural Property | Zia Juan He | [Read More](https://medium.com/p/9edfa0e8129c) |
+| Sat, 11 Apr 2026 01:35:02 GMT | Building an AI-Powered Security Scanner for Python: A Developer’s Guide | BotBrew Labs | [Read More](https://medium.com/p/bb66e7d0fc2a) |
+| Sat, 11 Apr 2026 01:33:59 GMT | Anthropic’s Mythos: The End of Security by Obscurity | Cezary Gesikowski | [Read More](https://medium.com/p/2302b017d639) |
+| Sat, 11 Apr 2026 01:28:16 GMT | So… Claude Code’s code was leaked! | mohit sharma | [Read More](https://medium.com/p/33e4d898f508) |
+| Sat, 11 Apr 2026 01:21:25 GMT | # The AI That Escaped Its Sandbox – And What It Means for Your Bank Account | tomo from japan | [Read More](https://medium.com/p/114301088488) |
+| Sat, 11 Apr 2026 01:00:53 GMT | Ignore the 2026 AI Panic. Follow These 5 Rules | Ray | [Read More](https://medium.com/p/c5a3f46218a0) |
+| Sat, 11 Apr 2026 00:58:06 GMT | A Law Firm Installed ClawBot on a Tuesday. | Firuz Alimov | [Read More](https://medium.com/p/a662b272f906) |
+| Sat, 11 Apr 2026 00:57:18 GMT | Claude Mythos & Project Glasswing: the AI Security Breakthrough That Changes Everything | Adnane Arharbi, Eng | [Read More](https://medium.com/p/3cdc8f5f16a5) |
+| Sat, 11 Apr 2026 00:31:01 GMT | Public Key vs Private Key: Differences, Uses, and How They Work | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/89fdd0b87d1c) |
+| Sat, 11 Apr 2026 00:30:13 GMT | Your Company Bought a Ferrari. You’re Still Driving It Through a School Zone. | Chatmate LLC | [Read More](https://medium.com/p/5e57c3efc3b8) |
+| Sat, 11 Apr 2026 00:09:37 GMT | Boiler CTF — RCE in sar2html, Credentials in a Log File, and SUID find to Root - TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/7d53ce8043bc) |
+| Sat, 11 Apr 2026 00:01:02 GMT | Guide to File Upload Vulnerabilities: Penetration Testing and RCE Techniques | JPablo13 | [Read More](https://medium.com/p/1cc5f2ffc292) |
+| Fri, 10 Apr 2026 23:47:38 GMT | OpenAI Killed Sora. Here Is What It Actually Tells You About AI. | James Williams | [Read More](https://medium.com/p/ce72cbbed5bb) |
 | Fri, 10 Apr 2026 23:22:14 GMT | When AI Becomes a Systemic Risk: What Claude Mythos Signals for Business, Technology, and the… | CCL Montante | [Read More](https://medium.com/p/9bbed1ff569d) |
 | Fri, 10 Apr 2026 22:59:31 GMT | OWASP Juice Shop TryHackMe Medium Writeup - Walkthrough & Solutions | PRASIDDHA PAL | [Read More](https://medium.com/p/fd5f4e55e30d) |
 | Fri, 10 Apr 2026 22:43:12 GMT | I honestly cant believe this happened… I was just scrolling like usual and must have missed some… | Sandra Harris | [Read More](https://medium.com/p/c0041dddf904) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 17:20:56 GMT | The Timeline Problem: From Quantum Risk to AI-Driven Cryptographic Urgency | Alfio Musumeci | [Read More](https://medium.com/p/121bcd268d69) |
 | Fri, 10 Apr 2026 17:19:50 GMT | When the Defender Becomes the Risk: AI, Cybersecurity, and a Question Without an Answer | Roberta Profeta | [Read More](https://medium.com/p/6e988d5ef5f1) |
 | Fri, 10 Apr 2026 17:18:33 GMT | Unveiling the Taipei Metro “Invoice Lottery” Phishing Attack: A Deep Dive into the Darcula Phishing… | Gordon Fang | [Read More](https://medium.com/p/2b33d0ad4a4f) |
-| Fri, 10 Apr 2026 17:05:15 GMT | ️ SmurfSecOps Lab — A Complete DevSecOps Learning Journey | Khaled Ferchichi | [Read More](https://medium.com/p/2ae0404bce41) |
-| Fri, 10 Apr 2026 17:01:04 GMT | Cross-Chain Bridge Vulnerabilities: The Interoperability Tax | CryptDocker | [Read More](https://medium.com/p/1f788eb68ae2) |
-| Fri, 10 Apr 2026 16:57:07 GMT | Craft Agent’ta kritik path traversal: STORE_ATTACHMENT üzerinden arbitrary file write | Ali Sünbül (xeloxa) | [Read More](https://medium.com/p/2af851160bf6) |
-| Fri, 10 Apr 2026 16:56:55 GMT | Exploiting Race Conditions to Bypass Platform Limits | montaser mohsen | [Read More](https://medium.com/p/06ccc9c9c03a) |
-| Fri, 10 Apr 2026 16:52:43 GMT | CAI: The All-in-One AI Cybersecurity Tool You Need | Pentester Club | [Read More](https://medium.com/p/86bd06df243b) |
-| Fri, 10 Apr 2026 16:48:47 GMT | Firewall Bypass Using SSH Tunneling | ZeroDay-Security-Services | [Read More](https://medium.com/p/b22cc8e1635a) |
-| Fri, 10 Apr 2026 16:40:43 GMT | OverTheWire Bandit (Levels 0–10) : From Linux Fundamentals to Data Extraction: | Ahmed Eldkrory | [Read More](https://medium.com/p/a9ac037d8e38) |
-| Fri, 10 Apr 2026 16:39:10 GMT | When AI Fails: Big Tech Mistakes and Lessons Learned | Pasan Sathsara | [Read More](https://medium.com/p/0032df9f5898) |
-| Fri, 10 Apr 2026 16:36:29 GMT | Mastering JWT Expiration, Refresh Tokens, and Logout | Rajesh Rout | [Read More](https://medium.com/p/57092d73a858) |
-| Fri, 10 Apr 2026 16:34:36 GMT | How to Keep API Keys Private in GenLayer Intelligent Contracts | Iniwuraakuru | [Read More](https://medium.com/p/f10cbe3dfe40) |
-| Fri, 10 Apr 2026 16:31:41 GMT | Is Your AI-Powered Loan Approval Model Fair and Secure? | Aditi V | [Read More](https://medium.com/p/e68ab859d34c) |
-| Fri, 10 Apr 2026 16:31:10 GMT | PHISHING BASICS WALKTHROUGH - TRYHACKME | ANWAR1 | [Read More](https://medium.com/p/8be87eecb5b9) |
-| Fri, 10 Apr 2026 16:24:33 GMT | Explotando Mass Assignment + Integer Sequence Exhaustion — Application-Level Denial-of-Service… | Miguel Segovia Gil | [Read More](https://medium.com/p/76b90560d616) |
-| Fri, 10 Apr 2026 16:23:00 GMT | I Turned a Friend’s Worst Day Into a Blog That Pays Her Every Month | StudyBuddyC | [Read More](https://medium.com/p/4a2c0d0909ec) |
-| Fri, 10 Apr 2026 16:13:01 GMT | The African Cybersecurity Talent Gap -From Inside the System | -Oladepo | [Read More](https://medium.com/p/bdb62b7043c6) |
-| Fri, 10 Apr 2026 16:06:10 GMT | Came across a lowkey offensive security setup in Colombo that actually looks serious | Nimal Chandrasiri Wijesinghe | [Read More](https://medium.com/p/a0761000e672) |
-| Fri, 10 Apr 2026 16:03:31 GMT | Memory Leak — #47 | Astasia Myers | [Read More](https://medium.com/p/f047b40fda64) |
-| Fri, 10 Apr 2026 15:57:53 GMT | The Pyramid of Pain: How Defenders Can Actually Hurt Attackers | Kashyap Pandya | [Read More](https://medium.com/p/625c41f70876) |
-| Fri, 10 Apr 2026 15:57:12 GMT | How to Verify WhatsApp Without Using Your Real Phone Number | TellABot | [Read More](https://medium.com/p/16bfabfa371a) |
