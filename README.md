@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 09:34:44 GMT | AI vs Hackers — Who Finds Bugs Faster in 2026? | Pradeeptadi | [Read More](https://medium.com/p/af08b3702890) |
+| Sat, 11 Apr 2026 09:24:50 GMT | I Spent 30 Days Thinking Like a Hacker — Here’s What Changed | mrwhite18 | [Read More](https://medium.com/p/d3705f23673c) |
+| Sat, 11 Apr 2026 09:18:31 GMT | Top Skills You Need for a Cyber Security Career | Giribabu V | [Read More](https://medium.com/p/11dfc2df9b60) |
+| Sat, 11 Apr 2026 09:16:36 GMT | What if your security system could think like a fraudster before they act? | Jerry Max | [Read More](https://medium.com/p/fff8203235ff) |
+| Sat, 11 Apr 2026 09:15:17 GMT | 5 AI Prompts Every CISO Should Be Using Right Now (And How to Write Them) | Cyberaiprompts | [Read More](https://medium.com/p/f6dd7a5cbd8f) |
+| Sat, 11 Apr 2026 09:09:28 GMT | AI-Powered Penetration Testing Assistant | ingchrist | [Read More](https://medium.com/p/e38a4f33607e) |
+| Sat, 11 Apr 2026 08:56:17 GMT | The Hidden Risk in Your APIs | Cynox Security LLP. | [Read More](https://medium.com/p/612b7ff12623) |
+| Sat, 11 Apr 2026 08:51:15 GMT | Agentic AI Makes 10,000 Decisions Before Your Risk Team Reads the Alert | Henry Bravo | [Read More](https://medium.com/p/22a3f899c905) |
+| Sat, 11 Apr 2026 08:41:54 GMT | I started Cybersecurity with no experience. Here’s Day 1 | Dhruv Kapoor - Aspiring Red Team Operator | [Read More](https://medium.com/p/497dab466486) |
 | Sat, 11 Apr 2026 08:40:04 GMT | Detecting Credential Dumping Attacks Using Sysmon (Mimikatz Case Study) | Shinuraveendran | [Read More](https://medium.com/p/74697fada5bf) |
+| Sat, 11 Apr 2026 08:39:59 GMT | The Hidden Privacy Nightmare of Free Online PDF Converters (And the 100% Offline Solution) | Doctijori | [Read More](https://medium.com/p/b7992ad0e799) |
 | Sat, 11 Apr 2026 08:31:01 GMT | Why your cybersecurity home lab isn’t getting you hired (and how to fix it step-by-step) | Manubhav Sharma | [Read More](https://medium.com/p/f63d08eed063) |
 | Sat, 11 Apr 2026 08:31:01 GMT | PKI Explained: The Security System Behind Every HTTPS Lock You’ve Ever Seen | Deval Kasundra | [Read More](https://medium.com/p/4dcb060f42c7) |
 | Sat, 11 Apr 2026 08:30:23 GMT | Mythos is about to make cybersecurity much more difficult | Enrique Dans | [Read More](https://medium.com/p/2d4bd3831fc8) |
@@ -103,13 +113,3 @@ Artificial Intelligence functions… | Singletapindia | [Read More](https://medi
 | Fri, 10 Apr 2026 22:43:12 GMT | I honestly cant believe this happened… I was just scrolling like usual and must have missed some… | Sandra Harris | [Read More](https://medium.com/p/c0041dddf904) |
 | Fri, 10 Apr 2026 22:40:05 GMT | What a Sleeper Agent Revealed About AI Governance | Selfradiance | [Read More](https://medium.com/p/3fca743fd151) |
 | Fri, 10 Apr 2026 22:31:01 GMT | Adversarial Robustness in Decentralized AI: Poisoning Attacks, Byzantine Fault Tolerance, and… | Naushik Beladiya | [Read More](https://medium.com/p/0f1581478d6e) |
-| Fri, 10 Apr 2026 22:28:21 GMT | Drift Multisig Incident and the Case for Execution-Time Authority (ETA) | Monique (NYX) Abrams | [Read More](https://medium.com/p/2924e7feec56) |
-| Fri, 10 Apr 2026 22:23:00 GMT | As founder of technology company you should focus | Mijaindholiya | [Read More](https://medium.com/p/527d95d0722e) |
-| Fri, 10 Apr 2026 22:17:50 GMT | Why People Need A Truly Private Messaging App | Shawn Bure | [Read More](https://medium.com/p/a491bad59a5e) |
-| Fri, 10 Apr 2026 22:16:59 GMT | What Oil & Gas Operators Really Care About in Edge Connectivity — Insights from ENTELEC | Zilla Li | [Read More](https://medium.com/p/148117862823) |
-| Fri, 10 Apr 2026 22:12:51 GMT | Telegram Is Routing Dissidents to Russia: A Hardcoded Saint Petersburg Endpoint in Every Official… | SelfHack_AI | [Read More](https://medium.com/p/36f98f839faa) |
-| Fri, 10 Apr 2026 22:00:04 GMT | CyberDefenders Web Investigation Lab | Ahmedbadawy | [Read More](https://medium.com/p/09b7dcfcde0f) |
-| Fri, 10 Apr 2026 21:59:23 GMT | Wazuh Kurulumu ve SentinelOne API Entegrasyonu | Fatih UYSAL | [Read More](https://medium.com/p/9e02a8e4b17b) |
-| Fri, 10 Apr 2026 21:57:22 GMT | How I Do Subdomain Enumeration (Beginner-Friendly Guide) | Riya Limba | [Read More](https://medium.com/p/8ec779a47fff) |
-| Fri, 10 Apr 2026 21:57:22 GMT | What is Claude Mythos? Meet Anthropic’s Most Capable and Most Restricted AI Yet | Metafied Lab | [Read More](https://medium.com/p/051025c2e72d) |
-| Fri, 10 Apr 2026 21:50:54 GMT | Why Enterprise Security Is Still Reactive — and How Continuous Access Enforcement Fixes It | Prathap Sriram | [Read More](https://medium.com/p/83050d2d5111) |
