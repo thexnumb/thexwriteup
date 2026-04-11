@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 23:20:16 GMT | Reverse Engineering on CyberTalents: Solving All Easy Challenges Part 1 | Isv0x1 | [Read More](https://medium.com/p/60239c717edb) |
+| Sat, 11 Apr 2026 23:17:15 GMT | The Evolution of the Build — How AI is Dragging DevSecOps Out of the Dark Age | Boopaathy | [Read More](https://medium.com/p/de78ddc0c4f3) |
+| Sat, 11 Apr 2026 23:15:57 GMT | The Pressure to Be a ‘Strong Woman’ Is Breaking Us | Melissa Mc | [Read More](https://medium.com/p/631efd9345b9) |
+| Sat, 11 Apr 2026 22:56:44 GMT | I Watched a New SOC Analyst Almost Get Fired in 30 Days. Here’s What They Did Wrong. | Jbird | [Read More](https://medium.com/p/08dc0ec1343d) |
+| Sat, 11 Apr 2026 22:51:52 GMT | We Can Black Out a Country but Can’t Turn On MFA | Security Memo | [Read More](https://medium.com/p/6d33bdf22da8) |
+| Sat, 11 Apr 2026 22:41:49 GMT | Bypassing a 403 Using Path Manipulation in Calendly Assets | 24BkDoor | [Read More](https://medium.com/p/ab154b86b5d6) |
+| Sat, 11 Apr 2026 22:32:34 GMT | IDS Evasion and Detection with Snort: Building and Breaking Your Own Detection Lab | Abhang Mandwale | [Read More](https://medium.com/p/211b286b5b82) |
+| Sat, 11 Apr 2026 22:32:05 GMT | “I’m 15 and I Built a Private AI to Save Law Firms from Data Leaks.” | Lexigaurdai | [Read More](https://medium.com/p/0a6a5bdaa198) |
+| Sat, 11 Apr 2026 22:31:37 GMT | EscapeTwo — A HTB Writeup | Sam Hilliard | [Read More](https://medium.com/p/9d0a420988de) |
 | Sat, 11 Apr 2026 22:27:25 GMT | SOC257 — VPN Connection Detected from Unauthorized Country | Harshprajapati | [Read More](https://medium.com/p/61e531595374) |
 | Sat, 11 Apr 2026 22:23:59 GMT | How I Ran My First Exploit ( Legally ) | Yahya Bichiou | [Read More](https://medium.com/p/df312bee61ba) |
 | Sat, 11 Apr 2026 22:19:31 GMT | TryHackMe SOC Analyst Road Map Part-21 | safa kaya | [Read More](https://medium.com/p/8f9dd9ad16fb) |
@@ -42,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Apr 2026 19:23:30 GMT | Disclose The Agent — Full Writeup | Abbassharbi | [Read More](https://medium.com/p/1d53f91d3cda) |
 | Sat, 11 Apr 2026 19:22:37 GMT | Day 19: The Ephemeral Perimeter — Container Security and Kubernetes | Ndu | [Read More](https://medium.com/p/e4ce7e185b51) |
 | Sat, 11 Apr 2026 19:19:57 GMT | The AI Governance Illusion: Why Policy Fails and Architectural Control Wins | Rakeshkhanduja | [Read More](https://medium.com/p/0f1b3d2b71de) |
+| Sat, 11 Apr 2026 19:07:06 GMT | Linux Kernel Use-After-Free Exploitation Technique in Linux Kernel 7.0-rc7 | Antonius W1sdom | [Read More](https://medium.com/p/42febb5b6ba2) |
 | Sat, 11 Apr 2026 19:01:37 GMT | “Digital Arrest” Scam: A Real Incident That Shook My Family | Palak Jaiswal | [Read More](https://medium.com/p/10b6915151d9) |
 | Sat, 11 Apr 2026 19:01:01 GMT | One ticket supplied, one domain compromised | Pr3ach3r | [Read More](https://medium.com/p/a2ccdd674ab0) |
 | Sat, 11 Apr 2026 18:58:07 GMT | Building a SOC Tool From Scratch as a Cybersecurity Student — Five Days In | Robert Perez | [Read More](https://medium.com/p/4547948dcef5) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Apr 2026 15:24:30 GMT | My Journey Into Infrastructure Security: From Networking Foundations to Attack Surface Intelligence | RUGERO Tesla | [Read More](https://medium.com/p/9c82e5e61fb1) |
 | Sat, 11 Apr 2026 15:21:11 GMT | How self-operating AI agents are reshaping incident management and penetration testing | sathish kumar | [Read More](https://medium.com/p/87f1b214e535) |
 | Sat, 11 Apr 2026 15:19:05 GMT | Hackers Don’t Need Your Password Anymore — They Just Need One Unsanitized Input | CAISD | [Read More](https://medium.com/p/7e8c87471070) |
-| Sat, 11 Apr 2026 15:15:01 GMT | Why Your Business Needs Security Guard Services in Los Angeles | Getshaheens | [Read More](https://medium.com/p/a3c315f524b2) |
-| Sat, 11 Apr 2026 15:11:01 GMT | ⚙️ 02. — Unprotected Admin Functionality with Unpredictable URL | The4v1 | [Read More](https://medium.com/p/d25860813ef7) |
-| Sat, 11 Apr 2026 15:08:07 GMT | Exam Journey — Certification AI/ML Pentester | Paulo Cesar (PC) | [Read More](https://medium.com/p/9fa3a35d3275) |
-| Sat, 11 Apr 2026 15:04:57 GMT | How login with google actually works ? – Beginner guide to Google OAuth 2.0 | Thperera | [Read More](https://medium.com/p/a9e9c44613b0) |
-| Sat, 11 Apr 2026 15:01:02 GMT | SMB Signing Not Required: A Misconfiguration That Enables Network Wide Compromise | Crowx01 | [Read More](https://medium.com/p/f0c55c00ffc1) |
-| Sat, 11 Apr 2026 15:01:02 GMT | Anthropic presenta Claude Mythos, la IA que puede encontrar y explotar vulnerabilidades críticas | Tiziano Mass | [Read More](https://medium.com/p/d65ac4bcf933) |
-| Sat, 11 Apr 2026 14:58:21 GMT | Be Careful: Third-Party Libraries Can Compromise Your App’s Obfuscation | Mehdi Feki | [Read More](https://medium.com/p/1e6b02739eda) |
-| Sat, 11 Apr 2026 14:57:48 GMT | Passwordless Authn, Authz for non-human identities | Sourav Kumar | [Read More](https://medium.com/p/07e7133c3f1d) |
-| Sat, 11 Apr 2026 14:51:01 GMT | ⚙️ 01. — Unprotected Admin Functionality | The4v1 | [Read More](https://medium.com/p/705a0a89cffe) |
-| Sat, 11 Apr 2026 14:47:13 GMT | Phishing Mengurai Taktik Penyamaran Attacker untuk mengambil alih Akun | Aris Haryanto | [Read More](https://medium.com/p/82e7569df7b9) |
