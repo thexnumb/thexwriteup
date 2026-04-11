@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 19:31:01 GMT | The Bricking Point: Analyzing Permanent Fund Loss in Panoptic’s SFPM | rdin777 | [Read More](https://medium.com/p/7c045596ccf2) |
+| Sat, 11 Apr 2026 19:31:01 GMT | ALHacking Tool | Anubhav_bora | [Read More](https://medium.com/p/ab05b5ddc52d) |
+| Sat, 11 Apr 2026 19:26:27 GMT | Day 20: The Cloud Battlefield — The Shared Responsibility Model and IAM | Ndu | [Read More](https://medium.com/p/269724ef7bdd) |
+| Sat, 11 Apr 2026 19:23:30 GMT | Disclose The Agent — Full Writeup | Abbassharbi | [Read More](https://medium.com/p/1d53f91d3cda) |
+| Sat, 11 Apr 2026 19:22:37 GMT | Day 19: The Ephemeral Perimeter — Container Security and Kubernetes | Ndu | [Read More](https://medium.com/p/e4ce7e185b51) |
+| Sat, 11 Apr 2026 19:19:57 GMT | The AI Governance Illusion: Why Policy Fails and Architectural Control Wins | Rakeshkhanduja | [Read More](https://medium.com/p/0f1b3d2b71de) |
+| Sat, 11 Apr 2026 19:01:37 GMT | “Digital Arrest” Scam: A Real Incident That Shook My Family | Palak Jaiswal | [Read More](https://medium.com/p/10b6915151d9) |
+| Sat, 11 Apr 2026 19:01:01 GMT | One ticket supplied, one domain compromised | Pr3ach3r | [Read More](https://medium.com/p/a2ccdd674ab0) |
+| Sat, 11 Apr 2026 18:58:07 GMT | Building a SOC Tool From Scratch as a Cybersecurity Student — Five Days In | Robert Perez | [Read More](https://medium.com/p/4547948dcef5) |
+| Sat, 11 Apr 2026 18:51:54 GMT | Topics I’ve Been Interested in Lately… | MezONsaturn | [Read More](https://medium.com/p/a639c04ba23c) |
+| Sat, 11 Apr 2026 18:46:37 GMT | Setting Up CrowdSec on your Linux Server: A Complete Guide | Nirjas Jakilim | [Read More](https://medium.com/p/57f2e5a48279) |
 | Sat, 11 Apr 2026 18:46:09 GMT | HackSmarter Foundations of Web App Pentesting Capstone | Liam smydo | [Read More](https://medium.com/p/08ff516bf61e) |
 | Sat, 11 Apr 2026 18:37:36 GMT | Rest = Satisfaction | Saugatkhanal | [Read More](https://medium.com/p/42461cca3fd3) |
 | Sat, 11 Apr 2026 18:35:23 GMT | The Biology of Silicon: Why Python is Choking Modern Bioinformatics and How Rust/C++ Will Save It | Funcybot | [Read More](https://medium.com/p/db9eb3115933) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Apr 2026 13:25:57 GMT | Meta’s ‘Muse Spark’: The Day the Open-Source Giant Built a Walled Garden | Athishsagarkishan | [Read More](https://medium.com/p/0c5bab2ca207) |
 | Sat, 11 Apr 2026 13:24:48 GMT | I Built a Free VPN Leak Test Tool — Here’s What 10,000 Tests Revealed | ExamineIP | [Read More](https://medium.com/p/1fc8816f7a9d) |
 | Sat, 11 Apr 2026 13:19:18 GMT | Your “Deleted” Signal Messages Aren’t Gone — The FBI Just Proved It | StackedThoughts | [Read More](https://medium.com/p/381e2e2c1606) |
-| Sat, 11 Apr 2026 13:18:01 GMT | When Applications Fail to Enforce Boundaries | m0cha_ | [Read More](https://medium.com/p/451527fb5c96) |
-| Sat, 11 Apr 2026 13:08:48 GMT | Operation Takeover WriteUp TryHackMe | cat0x01 | [Read More](https://medium.com/p/eec27e992dfa) |
-| Sat, 11 Apr 2026 13:01:01 GMT | [Pulp Fiction] Survival Strategy of Fragmented Information Nodes | MonoEssay | [Read More](https://medium.com/p/c420e1ae61cf) |
-| Sat, 11 Apr 2026 12:57:19 GMT | 7 Cryptography Concepts Every Developer Should Know | Ali Samir | [Read More](https://medium.com/p/cd4b579e20bf) |
-| Sat, 11 Apr 2026 12:53:35 GMT | Anonforce — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/8c4e1b58f8d3) |
-| Sat, 11 Apr 2026 12:47:58 GMT | Compliance isn’t getting faster because it’s automated. | Sonu Goswami - B2B SaaS Positioning Specialist | [Read More](https://medium.com/p/7cbdb39e603d) |
-| Sat, 11 Apr 2026 12:46:18 GMT | Best Observability MCPs For Incident Troubleshooting And Debugging | Gerald Whitley | [Read More](https://medium.com/p/e7ea8fd9703c) |
-| Sat, 11 Apr 2026 12:41:34 GMT | Claude Mythos Just Rewrote Cybersecurity. | Nicholas Mboya | [Read More](https://medium.com/p/5dd07e6f5bd0) |
-| Sat, 11 Apr 2026 12:24:07 GMT | ️ API Pentesting Mastery Series - Part 2: Deep Dive into the OWASP API Top 10 (2019) ️ | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/2110e3b0f1ba) |
-| Sat, 11 Apr 2026 12:23:41 GMT | When You Can No Longer Trust a Voice or a Face You Recognize | Dr Mehmet Yildiz | [Read More](https://medium.com/p/b650affb7890) |
-| Sat, 11 Apr 2026 12:21:13 GMT | Day 23: Baselines, Anomalies, & Normal Behaviour | Siddhesh Patil | [Read More](https://medium.com/p/ff0cc5d88235) |
