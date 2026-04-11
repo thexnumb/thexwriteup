@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 08:40:04 GMT | Detecting Credential Dumping Attacks Using Sysmon (Mimikatz Case Study) | Shinuraveendran | [Read More](https://medium.com/p/74697fada5bf) |
+| Sat, 11 Apr 2026 08:31:01 GMT | Why your cybersecurity home lab isn’t getting you hired (and how to fix it step-by-step) | Manubhav Sharma | [Read More](https://medium.com/p/f63d08eed063) |
+| Sat, 11 Apr 2026 08:31:01 GMT | PKI Explained: The Security System Behind Every HTTPS Lock You’ve Ever Seen | Deval Kasundra | [Read More](https://medium.com/p/4dcb060f42c7) |
+| Sat, 11 Apr 2026 08:30:23 GMT | Mythos is about to make cybersecurity much more difficult | Enrique Dans | [Read More](https://medium.com/p/2d4bd3831fc8) |
+| Sat, 11 Apr 2026 08:16:04 GMT | eJPT - System-Host Based Attacks CTF 2 | Francesco Pastore | [Read More](https://medium.com/p/4400ec9d0d06) |
+| Sat, 11 Apr 2026 08:15:36 GMT | Ghost Signals from War: What Survives When Cities Are Destroyed | Chris Kubecka de Medina | [Read More](https://medium.com/p/a426fbedf2f9) |
+| Sat, 11 Apr 2026 08:13:19 GMT | THM - Plant Photographer | Francesco Pastore | [Read More](https://medium.com/p/61231f868bf2) |
+| Sat, 11 Apr 2026 08:12:51 GMT | Cyber Leelawat-Tryhackme-Active Reconnaissance | Mahesh Amale | [Read More](https://medium.com/p/aa7e555e455e) |
+| Sat, 11 Apr 2026 08:02:30 GMT | SOC role in Blue Team - TRYHACKME | Aruldeshwal | [Read More](https://medium.com/p/6d9f29bb8a26) |
+| Sat, 11 Apr 2026 07:59:14 GMT | Digital Safety Baselines: Core Controls for Reducing Human‑Driven Risk in Hyperconnected… | Ed-it Editions | [Read More](https://medium.com/p/b2aa690b88cc) |
+| Sat, 11 Apr 2026 07:58:40 GMT | AI Pentests That Simulate Real Attacks: The Future of Cybersecurity Testing | Cybervolt | [Read More](https://medium.com/p/bea85067cc92) |
+| Sat, 11 Apr 2026 07:52:17 GMT | How TOTP turns time into your second password | Rithick G | [Read More](https://medium.com/p/e902a3d8ee80) |
+| Sat, 11 Apr 2026 07:50:28 GMT | Unpatched Adobe Reader Zero-Day Exploited for Months via Weaponized PDFs Targeting Energy and… | TheRedSheep | [Read More](https://medium.com/p/df7f584953a4) |
+| Sat, 11 Apr 2026 07:46:52 GMT | 5 Most Important Benefits of Investing in Cyber Security For Business Purposes | Wajeeh Uddin | [Read More](https://medium.com/p/377663d1c339) |
 | Sat, 11 Apr 2026 07:22:47 GMT | Security is Everyone’s Lock — not just the guard at the gate | Mohit Malpani | [Read More](https://medium.com/p/0942599b388c) |
+| Sat, 11 Apr 2026 07:22:17 GMT | Some Days, I Am Too Loud for My Own Mind | Teacher R, Student R | [Read More](https://medium.com/p/a8df7b8d8311) |
 | Sat, 11 Apr 2026 07:21:19 GMT | TryHackMe Writeup — Break Out The Cage | red wolf | [Read More](https://medium.com/p/89560c600ee4) |
 | Sat, 11 Apr 2026 07:16:00 GMT | JUNIOR SECURITY ANALYST INTRO - TRYHACKME | Aruldeshwal | [Read More](https://medium.com/p/65e17f327140) |
 | Sat, 11 Apr 2026 07:15:04 GMT | Mythos : l’IA persistante qui défie déjà l’AI Act | Frederic LOHBRUNNER | [Read More](https://medium.com/p/52b7645ca9d3) |
@@ -98,18 +113,3 @@ Artificial Intelligence functions… | Singletapindia | [Read More](https://medi
 | Fri, 10 Apr 2026 21:57:22 GMT | How I Do Subdomain Enumeration (Beginner-Friendly Guide) | Riya Limba | [Read More](https://medium.com/p/8ec779a47fff) |
 | Fri, 10 Apr 2026 21:57:22 GMT | What is Claude Mythos? Meet Anthropic’s Most Capable and Most Restricted AI Yet | Metafied Lab | [Read More](https://medium.com/p/051025c2e72d) |
 | Fri, 10 Apr 2026 21:50:54 GMT | Why Enterprise Security Is Still Reactive — and How Continuous Access Enforcement Fixes It | Prathap Sriram | [Read More](https://medium.com/p/83050d2d5111) |
-| Fri, 10 Apr 2026 21:47:50 GMT | Keisha Johnston Gebre — Security Specialist, Risk Strategist, and Author | Keisha Johnston Gebre | [Read More](https://medium.com/p/e1f8745675b6) |
-| Fri, 10 Apr 2026 21:37:51 GMT | When AI Safety Becomes Private Power | Abdelrahmanfarag | [Read More](https://medium.com/p/349f87b0702e) |
-| Fri, 10 Apr 2026 21:36:16 GMT | From Manual Checkpoints to Autonomous Partners: Rethinking DevSecOps with Agentic AI | VLTA AI Insights | [Read More](https://medium.com/p/e5f2a458e375) |
-| Fri, 10 Apr 2026 21:34:54 GMT | How to Choose the Right Security Services in Redding, CA: A Practical Guide for Businesses and… | Uniworth security Editorial | [Read More](https://medium.com/p/b97d9205faa4) |
-| Fri, 10 Apr 2026 21:24:38 GMT | Bir Güvenlik Araştırmacısının Gözünden: Uptime Kuma ve Checkmate.so ile Defansif Altyapı Kurulumu | Fatih UYSAL | [Read More](https://medium.com/p/888d0c8ae4d3) |
-| Fri, 10 Apr 2026 21:21:45 GMT | What Happens After a Cyberattack? Inside the World of Disk & Media Forensics ! | Prajwal Yadav | [Read More](https://medium.com/p/70e690ad4533) |
-| Fri, 10 Apr 2026 21:20:56 GMT | Designing for Failure: Idempotency in Data Pipelines | Lumina | [Read More](https://medium.com/p/f1d6003521f4) |
-| Fri, 10 Apr 2026 21:14:14 GMT | The Silent Infection: The End of Trusted AI Memories | Tomerweisen | [Read More](https://medium.com/p/42ac263363dd) |
-| Fri, 10 Apr 2026 21:13:30 GMT | Bandit CTF Reflection | Andrew | [Read More](https://medium.com/p/53cf5f25f11c) |
-| Fri, 10 Apr 2026 21:11:56 GMT | MCP in Enterprise AI: Making AI Ready | ArchBeat | [Read More](https://medium.com/p/8da119cd6e58) |
-| Fri, 10 Apr 2026 21:07:42 GMT | The Most Dangerous AI Ever Built Inside Claude Mythos | Kritnandan | [Read More](https://medium.com/p/8027f39cd80b) |
-| Fri, 10 Apr 2026 21:07:37 GMT | Stop Giving Your Secrets to Claude Code: A Senior Dev’s Guide to AI Privacy | Davide Mib | [Read More](https://medium.com/p/50606e8120bb) |
-| Fri, 10 Apr 2026 21:07:25 GMT | Code Review Süreci Nedir? | Dogukan İSPİRLİ | [Read More](https://medium.com/p/239ca939e940) |
-| Fri, 10 Apr 2026 21:03:26 GMT | Why Security Should Be Your Top Priority in DEX Development | Christymariaa | [Read More](https://medium.com/p/0074c5c45cdc) |
-| Fri, 10 Apr 2026 21:03:02 GMT | Is Your Data Quantum-Secure? | Paolo Molignini, PhD | [Read More](https://medium.com/p/0aa1b790c887) |
