@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 22:27:25 GMT | SOC257 — VPN Connection Detected from Unauthorized Country | Harshprajapati | [Read More](https://medium.com/p/61e531595374) |
+| Sat, 11 Apr 2026 22:23:59 GMT | How I Ran My First Exploit ( Legally ) | Yahya Bichiou | [Read More](https://medium.com/p/df312bee61ba) |
+| Sat, 11 Apr 2026 22:19:31 GMT | TryHackMe SOC Analyst Road Map Part-21 | safa kaya | [Read More](https://medium.com/p/8f9dd9ad16fb) |
+| Sat, 11 Apr 2026 22:04:33 GMT | GRIEF | Reva | [Read More](https://medium.com/p/009c5eea7e46) |
+| Sat, 11 Apr 2026 21:50:49 GMT | Agentic SAMM: A Security Framework Extension for AI-Driven Development | Sergey Gordeychik | [Read More](https://medium.com/p/89c708978676) |
 | Sat, 11 Apr 2026 21:30:19 GMT | Username Enumeration Via Different Responses — Welcome to the Authentication Series | morgan_hack | [Read More](https://medium.com/p/17ed2d417c69) |
+| Sat, 11 Apr 2026 21:27:01 GMT | The AI Divide Will Hit Small Nations First. The Cybersecurity Data Proves It. | Inshan Meahjohn | [Read More](https://medium.com/p/5a7899298790) |
 | Sat, 11 Apr 2026 21:16:37 GMT | Try Hack Me- Linux Agency CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/ba27095f98f0) |
 | Sat, 11 Apr 2026 21:12:00 GMT | Two Reverse Engineering Tricks That Fool Beginners (But Not You) — Day 2 | Issan | [Read More](https://medium.com/p/cb480ae06ea0) |
 | Sat, 11 Apr 2026 21:08:31 GMT | SOC Automation Lab Series 2 | The Commoness | [Read More](https://medium.com/p/65dc269a1ed2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Apr 2026 14:57:48 GMT | Passwordless Authn, Authz for non-human identities | Sourav Kumar | [Read More](https://medium.com/p/07e7133c3f1d) |
 | Sat, 11 Apr 2026 14:51:01 GMT | ⚙️ 01. — Unprotected Admin Functionality | The4v1 | [Read More](https://medium.com/p/705a0a89cffe) |
 | Sat, 11 Apr 2026 14:47:13 GMT | Phishing Mengurai Taktik Penyamaran Attacker untuk mengambil alih Akun | Aris Haryanto | [Read More](https://medium.com/p/82e7569df7b9) |
-| Sat, 11 Apr 2026 14:44:50 GMT | PicoCTF : ABSOLUTE NANO | Utsav Thakur | [Read More](https://medium.com/p/0bc98ce2bc4d) |
-| Sat, 11 Apr 2026 14:40:47 GMT | The Five Rings of Cyber Security | Sam Itztli | [Read More](https://medium.com/p/75d6cabafa5f) |
-| Sat, 11 Apr 2026 14:39:10 GMT | How Platforms Know It’s Still You: A Technical Breakdown of Multi-Account Detection | Dion Esq. | [Read More](https://medium.com/p/42cf21a7f335) |
-| Sat, 11 Apr 2026 14:33:49 GMT | Academy Platform: Windows Privilege Escalation — EOL Windows 7 Walkthrough | Psychopath-Traveler | [Read More](https://medium.com/p/40d432cdf76b) |
-| Sat, 11 Apr 2026 14:31:01 GMT | Access Control Vulnerabilities | The4v1 | [Read More](https://medium.com/p/cbbddddbe834) |
-| Sat, 11 Apr 2026 14:25:43 GMT | Netcat: The Swiss Army Knife of Networking | Sarah Qym | [Read More](https://medium.com/p/2e060a3cb0d9) |
