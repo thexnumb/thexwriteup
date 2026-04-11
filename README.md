@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 17:20:06 GMT | What is an IP Address in Computer Networking? | Anjali Kashyap | [Read More](https://medium.com/p/8b18bf2481cf) |
+| Sat, 11 Apr 2026 17:19:35 GMT | Shell Shocked: Achieving RCE via OS Command Injection in a Stock Checker | Sahil | [Read More](https://medium.com/p/e3fdfc1595ae) |
+| Sat, 11 Apr 2026 17:13:39 GMT | RAID Types and Uses — aarononit.blogspot.com | Aaron DeJong | [Read More](https://medium.com/p/95617a8cd368) |
+| Sat, 11 Apr 2026 17:07:33 GMT | Building Consistent Incident Response Processes with Microsoft Sentinel Tasks | Defend Microsoft365 now! | [Read More](https://medium.com/p/64dba95508a4) |
+| Sat, 11 Apr 2026 17:01:01 GMT | 2026 Is When Claude Context Starts Setting Your Margin Floor | James Kuhman | [Read More](https://medium.com/p/2238fbd2ab47) |
+| Sat, 11 Apr 2026 17:01:01 GMT | Caldera OT for ICS Red Teaming - Part 2 | Muhammad Laiq | [Read More](https://medium.com/p/71f14063b577) |
+| Sat, 11 Apr 2026 16:57:43 GMT | Best VPN Service in the USA | Washington News Network | [Read More](https://medium.com/p/48aef6bd8cd9) |
+| Sat, 11 Apr 2026 16:52:09 GMT | Claude Mythos Gets 93.9% on SWE-bench. I Can’t Use It. Here’s Why That’s Actually the Correct Call. | PIXIPACE | [Read More](https://medium.com/p/4b578e47d39f) |
+| Sat, 11 Apr 2026 16:51:01 GMT | ⚙️ 07. — User ID controlled by request parameter with data leakage in redirect | The4v1 | [Read More](https://medium.com/p/dc6eb2b502e5) |
+| Sat, 11 Apr 2026 16:49:06 GMT | Startup Machine Walkthrough — Try Hack Me | red wolf | [Read More](https://medium.com/p/24a1dc993d3e) |
+| Sat, 11 Apr 2026 16:48:26 GMT | CCD COHORT 01 — ROOM 06 | APT-0 | [Read More](https://medium.com/p/b49008d3dc58) |
+| Sat, 11 Apr 2026 16:45:28 GMT | OpenClaw AI Tool - Next-Gen Automation Beyond ChatGPT | Pentester Club | [Read More](https://medium.com/p/1ee720f500d4) |
+| Sat, 11 Apr 2026 16:41:51 GMT | The 2026 Crypto Scam Warning List: How to Spot and Avoid Fake Platforms | MintonFin | [Read More](https://medium.com/p/acdc81f7f8ff) |
 | Sat, 11 Apr 2026 16:31:01 GMT | ⚙️ 06. — User ID Controlled by Request Parameter — Unpredictable User IDs | The4v1 | [Read More](https://medium.com/p/36deddeeb93f) |
 | Sat, 11 Apr 2026 16:25:42 GMT | The GraphQL Goldmine: Why You Should Test Every Single Query for Broken Access Control | BelScarabX | [Read More](https://medium.com/p/44253dbc3b28) |
 | Sat, 11 Apr 2026 16:25:28 GMT | Willow (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/95457bfe74ba) |
@@ -99,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Apr 2026 11:10:54 GMT | 9 Essential Benefits of Executive Protection Security for VIP Client Safety | The Safety Perspective | [Read More](https://medium.com/p/6160fe6d4fbd) |
 | Sat, 11 Apr 2026 11:10:37 GMT | Metasploitable 2 Full walkthrough :- A Complete Step-by-Step Guide | Chandan | [Read More](https://medium.com/p/b733f7c3d1a1) |
 | Sat, 11 Apr 2026 11:04:15 GMT | A New Layer of Protection: Google Introduces Device Bound Sessions in Chrome | Jas | [Read More](https://medium.com/p/e87eb320e3ee) |
-| Sat, 11 Apr 2026 10:59:14 GMT | Finally started my Cybersecurity journey. | MagataMikey | [Read More](https://medium.com/p/e9e775c05b3c) |
-| Sat, 11 Apr 2026 10:55:42 GMT | WIRESHARK:THE BASICS LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/25e082575ffc) |
-| Sat, 11 Apr 2026 10:53:03 GMT | PUTTING IT ALL TOGETHER:MINI CTF SQLI LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/f02087d77f1f) |
-| Sat, 11 Apr 2026 10:52:22 GMT | iam new to crypto market ,please how to withdrawl my 5,000$ from my okx wallet app to Okx? | Jina | [Read More](https://medium.com/p/e7728eecf460) |
-| Sat, 11 Apr 2026 10:49:48 GMT | AI is Supercharging Social Engineering | Umair Ahmed Khan | [Read More](https://medium.com/p/ec4a6883f67e) |
-| Sat, 11 Apr 2026 10:48:49 GMT | When a Suspicious Tunnel Leads Down a Rabbit Hole | NishkaBhatt | [Read More](https://medium.com/p/75d154519154) |
-| Sat, 11 Apr 2026 10:41:34 GMT | Nobody Authorized That Agent | Azra Melis Ertan | [Read More](https://medium.com/p/c7f666df9a57) |
-| Sat, 11 Apr 2026 10:38:20 GMT | Why Your Team Needs a Security Champion (And Why It Should Be You) | Ashish Muralidharan | [Read More](https://medium.com/p/03200ae65c2d) |
-| Sat, 11 Apr 2026 10:36:30 GMT | why AI Security Auditing fails — and how I fixed It
-I got tired of false positives. | Mirmahmood | [Read More](https://medium.com/p/f5146167d446) |
-| Sat, 11 Apr 2026 10:34:45 GMT | Claude Mythos: The AI Model Too Dangerous to Release | Shahadilh | [Read More](https://medium.com/p/946d0def7c8c) |
-| Sat, 11 Apr 2026 10:32:35 GMT | I Searched for an Ethical Hacking Course in West Delhi for 3 Weeks -Here’s Everything I Learned | Varun Papnai | [Read More](https://medium.com/p/d6d308ce4d88) |
-| Sat, 11 Apr 2026 10:32:17 GMT | Your TOTP Authenticator Doesn’t Need to be 500MB: Building a Minimalist Vault for the Terminal | Josh Klein | [Read More](https://medium.com/p/0a54a577d889) |
-| Sat, 11 Apr 2026 10:28:41 GMT | I Accidentally Deleted My Kali Linux Partition | oldman | [Read More](https://medium.com/p/84503d027dfa) |
