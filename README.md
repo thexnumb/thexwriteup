@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 14:58:21 GMT | Be Careful: Third-Party Libraries Can Compromise Your App’s Obfuscation | Mehdi Feki | [Read More](https://medium.com/p/1e6b02739eda) |
+| Sat, 11 Apr 2026 14:57:48 GMT | Passwordless Authn, Authz for non-human identities | Sourav Kumar | [Read More](https://medium.com/p/07e7133c3f1d) |
+| Sat, 11 Apr 2026 14:51:01 GMT | ⚙️ 01. — Unprotected Admin Functionality | The4v1 | [Read More](https://medium.com/p/705a0a89cffe) |
+| Sat, 11 Apr 2026 14:44:50 GMT | PicoCTF : ABSOLUTE NANO | Utsav Thakur | [Read More](https://medium.com/p/0bc98ce2bc4d) |
+| Sat, 11 Apr 2026 14:40:47 GMT | The Five Rings of Cyber Security | Sam Itztli | [Read More](https://medium.com/p/75d6cabafa5f) |
+| Sat, 11 Apr 2026 14:39:10 GMT | How Platforms Know It’s Still You: A Technical Breakdown of Multi-Account Detection | Dion Esq. | [Read More](https://medium.com/p/42cf21a7f335) |
+| Sat, 11 Apr 2026 14:33:49 GMT | Academy Platform: Windows Privilege Escalation — EOL Windows 7 Walkthrough | Psychopath-Traveler | [Read More](https://medium.com/p/40d432cdf76b) |
+| Sat, 11 Apr 2026 14:31:01 GMT | Access Control Vulnerabilities | The4v1 | [Read More](https://medium.com/p/cbbddddbe834) |
+| Sat, 11 Apr 2026 14:25:43 GMT | Netcat: The Swiss Army Knife of Networking | Sarah Qym | [Read More](https://medium.com/p/2e060a3cb0d9) |
+| Sat, 11 Apr 2026 14:23:49 GMT | COM Hijacking & Fileless Persistence: What Defenders Need to Know | unknown_user43 | [Read More](https://medium.com/p/c3a2fd7fd3c6) |
+| Sat, 11 Apr 2026 14:21:19 GMT | My API Firewall Now Remembers Every Attacker and Gets Smarter Over Time | Tanubhavj | [Read More](https://medium.com/p/14fcda48c13d) |
+| Sat, 11 Apr 2026 14:19:05 GMT | Dark Seoul: The Day 32,000 Computers Failed at the Same Moment | Moksh45 | [Read More](https://medium.com/p/63f9e5bee4c2) |
+| Sat, 11 Apr 2026 14:16:30 GMT | Anthropic’s New AI Just Hacked Its Way Out of Jail (And They’re Too Scared to Release It) | Ayush Soni | [Read More](https://medium.com/p/fab3fa555116) |
+| Sat, 11 Apr 2026 14:06:53 GMT | DiskFiltration — Write-Up (TryHackMe) | Imagohostpro | [Read More](https://medium.com/p/6464635e3ea0) |
+| Sat, 11 Apr 2026 14:01:01 GMT | Threat Hunting with IPS/IDS — LetsDefend | 0verRida | [Read More](https://medium.com/p/62e515ffbe81) |
+| Sat, 11 Apr 2026 13:59:45 GMT | I Found a Critical Security Hole in a Popular Open Source Platform. Here Is What I Discovered. | Fahedkhan | [Read More](https://medium.com/p/3447fc8dd977) |
+| Sat, 11 Apr 2026 13:58:34 GMT | Proxies Are Overrated | Gökçen Kunukcu | [Read More](https://medium.com/p/f3f8e3492ead) |
 | Sat, 11 Apr 2026 13:54:30 GMT | Insecurity in Nigeria: A Nation at the Edge of Silence | Ofotokun Enor Mirabel LLB, BL | [Read More](https://medium.com/p/51aa6969faf9) |
 | Sat, 11 Apr 2026 13:48:43 GMT | SOC274 — Palo Alto Networks PAN-OS Command Injection Exploitation (CVE-2024–3400) - LetsDefend… | Rai Pereira | [Read More](https://medium.com/p/0f7b63d996d3) |
 | Sat, 11 Apr 2026 13:41:24 GMT | Exploiting LLM APIs with Excessive Agency (PortSwigger Lab Write-up) | Mukilan Baskaran | [Read More](https://medium.com/p/df0650f736ae) |
@@ -96,20 +113,3 @@ I got tired of false positives. | Mirmahmood | [Read More](https://medium.com/p/
 | Sat, 11 Apr 2026 07:59:14 GMT | Digital Safety Baselines: Core Controls for Reducing Human‑Driven Risk in Hyperconnected… | Ed-it Editions | [Read More](https://medium.com/p/b2aa690b88cc) |
 | Sat, 11 Apr 2026 07:58:40 GMT | AI Pentests That Simulate Real Attacks: The Future of Cybersecurity Testing | Cybervolt | [Read More](https://medium.com/p/bea85067cc92) |
 | Sat, 11 Apr 2026 07:52:17 GMT | How TOTP turns time into your second password | Rithick G | [Read More](https://medium.com/p/e902a3d8ee80) |
-| Sat, 11 Apr 2026 07:50:28 GMT | Unpatched Adobe Reader Zero-Day Exploited for Months via Weaponized PDFs Targeting Energy and… | TheRedSheep | [Read More](https://medium.com/p/df7f584953a4) |
-| Sat, 11 Apr 2026 07:46:52 GMT | 5 Most Important Benefits of Investing in Cyber Security For Business Purposes | Wajeeh Uddin | [Read More](https://medium.com/p/377663d1c339) |
-| Sat, 11 Apr 2026 07:22:47 GMT | Security is Everyone’s Lock — not just the guard at the gate | Mohit Malpani | [Read More](https://medium.com/p/0942599b388c) |
-| Sat, 11 Apr 2026 07:22:31 GMT | The Age of Agency: Decoding the Claude Mythos | Sudikondarevanthkumar | [Read More](https://medium.com/p/f7e9fc1ce03d) |
-| Sat, 11 Apr 2026 07:22:17 GMT | Some Days, I Am Too Loud for My Own Mind | Teacher R, Student R | [Read More](https://medium.com/p/a8df7b8d8311) |
-| Sat, 11 Apr 2026 07:21:19 GMT | TryHackMe Writeup — Break Out The Cage | red wolf | [Read More](https://medium.com/p/89560c600ee4) |
-| Sat, 11 Apr 2026 07:16:00 GMT | JUNIOR SECURITY ANALYST INTRO - TRYHACKME | Aruldeshwal | [Read More](https://medium.com/p/65e17f327140) |
-| Sat, 11 Apr 2026 07:15:04 GMT | Mythos : l’IA persistante qui défie déjà l’AI Act | Frederic LOHBRUNNER | [Read More](https://medium.com/p/52b7645ca9d3) |
-| Sat, 11 Apr 2026 07:10:17 GMT | Best Ethical Hacking Tools Used by Cybersecurity Professionals | cyber security Updates | [Read More](https://medium.com/p/040c25b6657d) |
-| Sat, 11 Apr 2026 07:09:44 GMT | A Simple Guide to CCTV Installation Companies in the UAE | Emirtech Technology | [Read More](https://medium.com/p/b6d137614be6) |
-| Sat, 11 Apr 2026 07:09:41 GMT | Software-Defined Vehicle Defined Reshape the USA Vehicle Networking system Market as ADAS… | Anushka Ghatak | [Read More](https://medium.com/p/564e396e362e) |
-| Sat, 11 Apr 2026 07:07:34 GMT | Claude Mythos: Why Anthropic Is Holding It Back | Rendy Dalimunthe | [Read More](https://medium.com/p/35794467783d) |
-| Sat, 11 Apr 2026 07:05:31 GMT | How JWT Authentication Actually Works (Step-by-Step Guide) | Santhosh Kumar | [Read More](https://medium.com/p/092c0e211905) |
-| Sat, 11 Apr 2026 07:00:41 GMT | Cyber Leelawat : Tryhackme: Introductory Networking | Mahesh Amale | [Read More](https://medium.com/p/5a05a15152d3) |
-| Sat, 11 Apr 2026 06:55:51 GMT | Subfinder Doesn’t Make Noise, Until It’s Too Late | Fateyaly | [Read More](https://medium.com/p/72bb4d671624) |
-| Sat, 11 Apr 2026 06:51:09 GMT | Why You Can’t Download Netflix Videos: A Deep Dive into DRM | Vaibhav | [Read More](https://medium.com/p/805861457b85) |
-| Sat, 11 Apr 2026 06:50:40 GMT | The Rise of Cyber War: FBI vs Hackers $50 Million Battle | CyberShieldAI | [Read More](https://medium.com/p/e42c4c643854) |
