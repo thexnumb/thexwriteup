@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 15:52:48 GMT | Ghost-guard: Protect node_modules against Malware and Hook HijackingYour npm install is Lying to You | Rohan Singh | [Read More](https://medium.com/p/3f5d40f716ab) |
+| Sat, 11 Apr 2026 15:51:55 GMT | Understanding PCAPNG Files in Wireshark | Binyamin zahid | [Read More](https://medium.com/p/d5e74e92d064) |
+| Sat, 11 Apr 2026 15:51:01 GMT | ⚙️ 04. — User Role Modified in User Profile | The4v1 | [Read More](https://medium.com/p/a17ff6a0e142) |
+| Sat, 11 Apr 2026 15:48:24 GMT | Stateless Auth Paradox: Revoking JWTs Securely | Ana Bildea, PhD | [Read More](https://medium.com/p/7fa445e069e0) |
+| Sat, 11 Apr 2026 15:47:55 GMT | I went for coffee and came back with 6 vulnerabilities in WordPress plugins | Miguel Méndez Z. | [Read More](https://medium.com/p/8f98fd40ef90) |
+| Sat, 11 Apr 2026 15:47:42 GMT | 3 Ways to Simulate MFA in Phishing Campaigns with Anglerphish | George Petropoulos | [Read More](https://medium.com/p/b9078b7a7ab3) |
+| Sat, 11 Apr 2026 15:47:17 GMT | RAG as a Data Leakage Channel: Why Embeddings Don’t Protect You | umka me | [Read More](https://medium.com/p/c4bcede3ccb4) |
+| Sat, 11 Apr 2026 15:41:58 GMT | The tragic life of KGB’s first spy hacker. (Karl Koch) | Adeline S. | [Read More](https://medium.com/p/ab21bd40c9c1) |
+| Sat, 11 Apr 2026 15:40:51 GMT | Being vulnerable | ngoTu1003 | [Read More](https://medium.com/p/0af849e4afd6) |
+| Sat, 11 Apr 2026 15:37:55 GMT | Making It Unbreakable: Monitoring, Remote Desktop, and Encrypted Backups | Kusunoki | [Read More](https://medium.com/p/bc5c7ec847c3) |
+| Sat, 11 Apr 2026 15:32:37 GMT | New Blog Site/Update | The Husky Hacker | [Read More](https://medium.com/p/485dc0541ca3) |
+| Sat, 11 Apr 2026 15:31:59 GMT | Claude Mythos Preview: The AI Model Anthropic Built But Won’t Release to the Public | Vishnu | [Read More](https://medium.com/p/9ba012877061) |
+| Sat, 11 Apr 2026 15:31:01 GMT | ⚙️ 03. — User Role Controlled by Request Parameter | The4v1 | [Read More](https://medium.com/p/e355cba6a45e) |
+| Sat, 11 Apr 2026 15:30:49 GMT | Installing the Intelligence: Nextcloud, Collabora, and Four AI Assistants in a Single Afternoon… | Kusunoki | [Read More](https://medium.com/p/81a97706b6c3) |
+| Sat, 11 Apr 2026 15:24:30 GMT | My Journey Into Infrastructure Security: From Networking Foundations to Attack Surface Intelligence | RUGERO Tesla | [Read More](https://medium.com/p/9c82e5e61fb1) |
+| Sat, 11 Apr 2026 15:21:11 GMT | How self-operating AI agents are reshaping incident management and penetration testing | sathish kumar | [Read More](https://medium.com/p/87f1b214e535) |
+| Sat, 11 Apr 2026 15:19:05 GMT | Hackers Don’t Need Your Password Anymore — They Just Need One Unsanitized Input | CAISD | [Read More](https://medium.com/p/7e8c87471070) |
+| Sat, 11 Apr 2026 15:15:01 GMT | Why Your Business Needs Security Guard Services in Los Angeles | Getshaheens | [Read More](https://medium.com/p/a3c315f524b2) |
+| Sat, 11 Apr 2026 15:11:01 GMT | ⚙️ 02. — Unprotected Admin Functionality with Unpredictable URL | The4v1 | [Read More](https://medium.com/p/d25860813ef7) |
+| Sat, 11 Apr 2026 15:08:07 GMT | Exam Journey — Certification AI/ML Pentester | Paulo Cesar (PC) | [Read More](https://medium.com/p/9fa3a35d3275) |
+| Sat, 11 Apr 2026 15:04:57 GMT | How login with google actually works ? – Beginner guide to Google OAuth 2.0 | Thperera | [Read More](https://medium.com/p/a9e9c44613b0) |
+| Sat, 11 Apr 2026 15:01:02 GMT | SMB Signing Not Required: A Misconfiguration That Enables Network Wide Compromise | Crowx01 | [Read More](https://medium.com/p/f0c55c00ffc1) |
+| Sat, 11 Apr 2026 15:01:02 GMT | Anthropic presenta Claude Mythos, la IA que puede encontrar y explotar vulnerabilidades críticas | Tiziano Mass | [Read More](https://medium.com/p/d65ac4bcf933) |
 | Sat, 11 Apr 2026 14:58:21 GMT | Be Careful: Third-Party Libraries Can Compromise Your App’s Obfuscation | Mehdi Feki | [Read More](https://medium.com/p/1e6b02739eda) |
 | Sat, 11 Apr 2026 14:57:48 GMT | Passwordless Authn, Authz for non-human identities | Sourav Kumar | [Read More](https://medium.com/p/07e7133c3f1d) |
 | Sat, 11 Apr 2026 14:51:01 GMT | ⚙️ 01. — Unprotected Admin Functionality | The4v1 | [Read More](https://medium.com/p/705a0a89cffe) |
@@ -90,26 +113,3 @@ I got tired of false positives. | Mirmahmood | [Read More](https://medium.com/p/
 | Sat, 11 Apr 2026 10:02:11 GMT | How to Install Splunk Enterprise in Under 15 Minutes — And What to Do the Moment You Log In | Shewag Bhattarai | [Read More](https://medium.com/p/ec18c5ef941c) |
 | Sat, 11 Apr 2026 09:59:14 GMT | The Symmetry of Recon: Active vs. Passive Discovery in Bug Bounty | Eugene Softley (softsec) | [Read More](https://medium.com/p/b0fef136783d) |
 | Sat, 11 Apr 2026 09:53:08 GMT | Shükir, Rahmet | Meeem | [Read More](https://medium.com/p/9c9567cfa753) |
-| Sat, 11 Apr 2026 09:48:48 GMT | Incoming college student here, | Kiezzha Ramos | [Read More](https://medium.com/p/36586540bcef) |
-| Sat, 11 Apr 2026 09:34:44 GMT | AI vs Hackers — Who Finds Bugs Faster in 2026? | Pradeeptadi | [Read More](https://medium.com/p/af08b3702890) |
-| Sat, 11 Apr 2026 09:24:50 GMT | I Spent 30 Days Thinking Like a Hacker — Here’s What Changed | mrwhite18 | [Read More](https://medium.com/p/d3705f23673c) |
-| Sat, 11 Apr 2026 09:18:31 GMT | Top Skills You Need for a Cyber Security Career | Giribabu V | [Read More](https://medium.com/p/11dfc2df9b60) |
-| Sat, 11 Apr 2026 09:16:36 GMT | What if your security system could think like a fraudster before they act? | Jerry Max | [Read More](https://medium.com/p/fff8203235ff) |
-| Sat, 11 Apr 2026 09:15:17 GMT | 5 AI Prompts Every CISO Should Be Using Right Now (And How to Write Them) | Cyberaiprompts | [Read More](https://medium.com/p/f6dd7a5cbd8f) |
-| Sat, 11 Apr 2026 09:09:28 GMT | AI-Powered Penetration Testing Assistant | ingchrist | [Read More](https://medium.com/p/e38a4f33607e) |
-| Sat, 11 Apr 2026 08:56:17 GMT | The Hidden Risk in Your APIs | Cynox Security LLP. | [Read More](https://medium.com/p/612b7ff12623) |
-| Sat, 11 Apr 2026 08:51:15 GMT | Agentic AI Makes 10,000 Decisions Before Your Risk Team Reads the Alert | Henry Bravo | [Read More](https://medium.com/p/22a3f899c905) |
-| Sat, 11 Apr 2026 08:41:54 GMT | I started Cybersecurity with no experience. Here’s Day 1 | Dhruv Kapoor - Aspiring Red Team Operator | [Read More](https://medium.com/p/497dab466486) |
-| Sat, 11 Apr 2026 08:40:04 GMT | Detecting Credential Dumping Attacks Using Sysmon (Mimikatz Case Study) | Shinuraveendran | [Read More](https://medium.com/p/74697fada5bf) |
-| Sat, 11 Apr 2026 08:39:59 GMT | The Hidden Privacy Nightmare of Free Online PDF Converters (And the 100% Offline Solution) | Doctijori | [Read More](https://medium.com/p/b7992ad0e799) |
-| Sat, 11 Apr 2026 08:31:01 GMT | Why your cybersecurity home lab isn’t getting you hired (and how to fix it step-by-step) | Manubhav Sharma | [Read More](https://medium.com/p/f63d08eed063) |
-| Sat, 11 Apr 2026 08:31:01 GMT | PKI Explained: The Security System Behind Every HTTPS Lock You’ve Ever Seen | Deval Kasundra | [Read More](https://medium.com/p/4dcb060f42c7) |
-| Sat, 11 Apr 2026 08:30:23 GMT | Mythos is about to make cybersecurity much more difficult | Enrique Dans | [Read More](https://medium.com/p/2d4bd3831fc8) |
-| Sat, 11 Apr 2026 08:16:04 GMT | eJPT - System-Host Based Attacks CTF 2 | Francesco Pastore | [Read More](https://medium.com/p/4400ec9d0d06) |
-| Sat, 11 Apr 2026 08:15:36 GMT | Ghost Signals from War: What Survives When Cities Are Destroyed | Chris Kubecka de Medina | [Read More](https://medium.com/p/a426fbedf2f9) |
-| Sat, 11 Apr 2026 08:13:19 GMT | THM - Plant Photographer | Francesco Pastore | [Read More](https://medium.com/p/61231f868bf2) |
-| Sat, 11 Apr 2026 08:12:51 GMT | Cyber Leelawat-Tryhackme-Active Reconnaissance | Mahesh Amale | [Read More](https://medium.com/p/aa7e555e455e) |
-| Sat, 11 Apr 2026 08:02:30 GMT | SOC role in Blue Team - TRYHACKME | Aruldeshwal | [Read More](https://medium.com/p/6d9f29bb8a26) |
-| Sat, 11 Apr 2026 07:59:14 GMT | Digital Safety Baselines: Core Controls for Reducing Human‑Driven Risk in Hyperconnected… | Ed-it Editions | [Read More](https://medium.com/p/b2aa690b88cc) |
-| Sat, 11 Apr 2026 07:58:40 GMT | AI Pentests That Simulate Real Attacks: The Future of Cybersecurity Testing | Cybervolt | [Read More](https://medium.com/p/bea85067cc92) |
-| Sat, 11 Apr 2026 07:52:17 GMT | How TOTP turns time into your second password | Rithick G | [Read More](https://medium.com/p/e902a3d8ee80) |
