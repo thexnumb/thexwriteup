@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 21:30:19 GMT | Username Enumeration Via Different Responses — Welcome to the Authentication Series | morgan_hack | [Read More](https://medium.com/p/17ed2d417c69) |
+| Sat, 11 Apr 2026 21:16:37 GMT | Try Hack Me- Linux Agency CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/ba27095f98f0) |
+| Sat, 11 Apr 2026 21:12:00 GMT | Two Reverse Engineering Tricks That Fool Beginners (But Not You) — Day 2 | Issan | [Read More](https://medium.com/p/cb480ae06ea0) |
+| Sat, 11 Apr 2026 21:08:31 GMT | SOC Automation Lab Series 2 | The Commoness | [Read More](https://medium.com/p/65dc269a1ed2) |
+| Sat, 11 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 47: Core 2 Test Day | Maximillian Rueda | [Read More](https://medium.com/p/2bf9ecc39e95) |
+| Sat, 11 Apr 2026 20:59:47 GMT | Why Indian Startups Get Hacked Without Knowing It | Shouvik Mukherjee | [Read More](https://medium.com/p/6244e526cea8) |
+| Sat, 11 Apr 2026 20:43:33 GMT | Arasaka - Hack Smarter Walkthrough | WireHawk Security | [Read More](https://medium.com/p/e7215e3bffdf) |
+| Sat, 11 Apr 2026 20:35:16 GMT | ️ Write-up: DanaBot Lab — CyberDefenders By Mohammed-Ali | mohammed | [Read More](https://medium.com/p/05f7ce4e0afe) |
+| Sat, 11 Apr 2026 20:26:01 GMT | The AI “Revolution” Has a Dirty Secret — and a Leaked CLI Just Proved It | freerave | [Read More](https://medium.com/p/1accefba50a6) |
 | Sat, 11 Apr 2026 20:25:14 GMT | Exposing the Enterprise: The “AI Threat” is Just Your Own Broken IAM | Mike Parcewski | [Read More](https://medium.com/p/1f5895b9493c) |
 | Sat, 11 Apr 2026 20:19:25 GMT | Cyber Security “Consulting” at PwC: A Simulation Write-Up | Tarunika Kapoor | [Read More](https://medium.com/p/1aefbec442d4) |
 | Sat, 11 Apr 2026 20:18:01 GMT | Is agentic AI now a new attack surface? | Sevval Aydogan | [Read More](https://medium.com/p/7145abc875d0) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Apr 2026 14:33:49 GMT | Academy Platform: Windows Privilege Escalation — EOL Windows 7 Walkthrough | Psychopath-Traveler | [Read More](https://medium.com/p/40d432cdf76b) |
 | Sat, 11 Apr 2026 14:31:01 GMT | Access Control Vulnerabilities | The4v1 | [Read More](https://medium.com/p/cbbddddbe834) |
 | Sat, 11 Apr 2026 14:25:43 GMT | Netcat: The Swiss Army Knife of Networking | Sarah Qym | [Read More](https://medium.com/p/2e060a3cb0d9) |
-| Sat, 11 Apr 2026 14:23:49 GMT | COM Hijacking & Fileless Persistence: What Defenders Need to Know | unknown_user43 | [Read More](https://medium.com/p/c3a2fd7fd3c6) |
-| Sat, 11 Apr 2026 14:23:17 GMT | Berpikir Terlebih Dahulu | Anayah Hanifah Elsyaf | [Read More](https://medium.com/p/daa86d5bc5ff) |
-| Sat, 11 Apr 2026 14:21:19 GMT | My API Firewall Now Remembers Every Attacker and Gets Smarter Over Time | Tanubhavj | [Read More](https://medium.com/p/14fcda48c13d) |
-| Sat, 11 Apr 2026 14:19:05 GMT | Dark Seoul: The Day 32,000 Computers Failed at the Same Moment | Moksh45 | [Read More](https://medium.com/p/63f9e5bee4c2) |
-| Sat, 11 Apr 2026 14:16:30 GMT | Anthropic’s New AI Just Hacked Its Way Out of Jail (And They’re Too Scared to Release It) | Ayush Soni | [Read More](https://medium.com/p/fab3fa555116) |
-| Sat, 11 Apr 2026 14:06:53 GMT | DiskFiltration — Write-Up (TryHackMe) | Imagohostpro | [Read More](https://medium.com/p/6464635e3ea0) |
-| Sat, 11 Apr 2026 14:01:01 GMT | Threat Hunting with IPS/IDS — LetsDefend | 0verRida | [Read More](https://medium.com/p/62e515ffbe81) |
-| Sat, 11 Apr 2026 13:59:45 GMT | I Found a Critical Security Hole in a Popular Open Source Platform. Here Is What I Discovered. | Fahedkhan | [Read More](https://medium.com/p/3447fc8dd977) |
-| Sat, 11 Apr 2026 13:58:34 GMT | Proxies Are Overrated | Gökçen Kunukcu | [Read More](https://medium.com/p/f3f8e3492ead) |
