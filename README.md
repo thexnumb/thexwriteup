@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 12:47:58 GMT | Compliance isn’t getting faster because it’s automated. | Sonu Goswami - B2B SaaS Positioning Specialist | [Read More](https://medium.com/p/7cbdb39e603d) |
+| Sat, 11 Apr 2026 12:46:18 GMT | Best Observability MCPs For Incident Troubleshooting And Debugging | Gerald Whitley | [Read More](https://medium.com/p/e7ea8fd9703c) |
+| Sat, 11 Apr 2026 12:41:34 GMT | Claude Mythos Just Rewrote Cybersecurity. | Nicholas Mboya | [Read More](https://medium.com/p/5dd07e6f5bd0) |
+| Sat, 11 Apr 2026 12:24:07 GMT | ️ API Pentesting Mastery Series - Part 2: Deep Dive into the OWASP API Top 10 (2019) ️ | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/2110e3b0f1ba) |
+| Sat, 11 Apr 2026 12:23:41 GMT | When You Can No Longer Trust a Voice or a Face You Recognize | Dr Mehmet Yildiz | [Read More](https://medium.com/p/b650affb7890) |
+| Sat, 11 Apr 2026 12:21:13 GMT | Day 23: Baselines, Anomalies, & Normal Behaviour | Siddhesh Patil | [Read More](https://medium.com/p/ff0cc5d88235) |
+| Sat, 11 Apr 2026 12:20:35 GMT | Write-Up: Smag Grotto | Felix Schoenitz | [Read More](https://medium.com/p/5f54e7d1515b) |
+| Sat, 11 Apr 2026 12:11:01 GMT | What I learned about real-world office setups from a simple networking lab | Zainab Akinlawon | [Read More](https://medium.com/p/d7a2c2f50196) |
+| Sat, 11 Apr 2026 12:08:44 GMT | Cyber Security Course in Hyderabad | Molletibalu | [Read More](https://medium.com/p/6caedd0571f3) |
+| Sat, 11 Apr 2026 12:08:01 GMT | Bypassing Zscaler — How to Navigate the Web Unseen | Indranil Roy | [Read More](https://medium.com/p/aaac3edcb0e2) |
+| Sat, 11 Apr 2026 12:07:18 GMT | Ntech Global Solutions — Complete Overview of Courses, Training, Placement & Career Growth | Ntech Global Solutions | [Read More](https://medium.com/p/beac59d71404) |
+| Sat, 11 Apr 2026 12:01:19 GMT | How an Alleged 10 Petabyte Hack Hit a Chinese Supercomputer | David SEHYEON Baek | [Read More](https://medium.com/p/993512f5952f) |
+| Sat, 11 Apr 2026 12:01:01 GMT | I Think I’m Just Scared: Letting the Heart Move | The Spiritual Big Brother | [Read More](https://medium.com/p/f52f1eac3848) |
+| Sat, 11 Apr 2026 11:59:02 GMT | Ethical Hacking Course and Cyber Security Certification: A Complete Career Roadmap | logging security | [Read More](https://medium.com/p/56975a7a1329) |
+| Sat, 11 Apr 2026 11:46:56 GMT | Reflected XSS into attribute with angle brackets HTML-encoded | PRiTi.EX | [Read More](https://medium.com/p/72d4ea580f83) |
+| Sat, 11 Apr 2026 11:34:45 GMT | Brené Brown: The Algorithms Have Forced Us Into A Hidden Epidemic, This Is The Only Way Out! | Dzaskia | [Read More](https://medium.com/p/f8e2b195452a) |
+| Sat, 11 Apr 2026 11:34:42 GMT | Inflating Kick.com Viewer Counts: How a Hardcoded Token Broke an Entire Platform | Sarper AVCI | [Read More](https://medium.com/p/599a64816f25) |
 | Sat, 11 Apr 2026 11:26:35 GMT | Claude Mythos: The Model That Quietly Broke Cybersecurity Assumptions | Bikram Sarkar | [Read More](https://medium.com/p/33ce2f4d5b5a) |
 | Sat, 11 Apr 2026 11:17:39 GMT | From a Cold LinkedIn DM to Finding Real Bugs: My First Cybersecurity Internship Experience. | Mayank Kumar | [Read More](https://medium.com/p/4bfce3785a66) |
 | Sat, 11 Apr 2026 11:10:54 GMT | 9 Essential Benefits of Executive Protection Security for VIP Client Safety | The Safety Perspective | [Read More](https://medium.com/p/6160fe6d4fbd) |
@@ -97,20 +114,3 @@ Artificial Intelligence functions… | Singletapindia | [Read More](https://medi
 | Sat, 11 Apr 2026 05:44:43 GMT | Top 5 Cyber Security Tips to Protect Your Website from Hackers | Vidyexd | [Read More](https://medium.com/p/44543b7ce871) |
 | Sat, 11 Apr 2026 05:44:34 GMT | How to Know If a Link Is Safe in 2 Seconds | Deepspeaksyt | [Read More](https://medium.com/p/e97b5e60ef04) |
 | Sat, 11 Apr 2026 05:41:19 GMT | UK Tech Bosses Now Face Prison Over Non-Consensual Intimate Images — Here’s What It Means | UK Cyber Defence | [Read More](https://medium.com/p/0f68e5d9a015) |
-| Sat, 11 Apr 2026 05:41:15 GMT | Stop Blind-CURLing in Production: How I Built an Audit Layer for API Operations | LERUfic | [Read More](https://medium.com/p/e7df0773c21d) |
-| Sat, 11 Apr 2026 05:35:54 GMT | The New Way Cybercriminals Steal Money | Deepspeaksyt | [Read More](https://medium.com/p/87bb679005c0) |
-| Sat, 11 Apr 2026 05:31:09 GMT | Ethical Hacking Course in Delhi Fees -The Honest Breakdown Nobody Gives You | Varun Papnai | [Read More](https://medium.com/p/2385daf76baf) |
-| Sat, 11 Apr 2026 05:28:40 GMT | Pentester Recon 03 Write Up | Robert Nyinge | [Read More](https://medium.com/p/4336e9266912) |
-| Sat, 11 Apr 2026 05:24:22 GMT | Best Security Guard Agency: How to Choose the Right Protection for Your Needs | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/55a07725c8f2) |
-| Sat, 11 Apr 2026 05:18:11 GMT | How to Use Security Command Center in 2026 to Detect AI and Cloud Risks Before They Become… | Aleksei Aleinikov | [Read More](https://medium.com/p/62331c391b6b) |
-| Sat, 11 Apr 2026 05:13:20 GMT | **Finding Reliable CCTV Installation in Sirsa: My Experience & Research** | Baxbyenterpriseindia | [Read More](https://medium.com/p/579332f8bd28) |
-| Sat, 11 Apr 2026 05:12:45 GMT | Pentester Labs Recon 02 Writeup | Robert Nyinge | [Read More](https://medium.com/p/45bd506cd5e8) |
-| Sat, 11 Apr 2026 04:48:41 GMT | The New Cyber Battlefield: | Sanjaya Kumar | [Read More](https://medium.com/p/51684e209545) |
-| Sat, 11 Apr 2026 04:47:38 GMT | The Rise of AI in Cyber Attacks (and Defense) | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/a3b91fbca86c) |
-| Sat, 11 Apr 2026 04:39:43 GMT | Scan Your Codebase for Mythos-Class Vulnerabilities in 5 Minutes | Jeremie Strand | [Read More](https://medium.com/p/19075ebdd419) |
-| Sat, 11 Apr 2026 04:35:11 GMT | Top CCTV Installation Services in Haryana at Affordable Prices | mginfotech | [Read More](https://medium.com/p/d4361d1ae140) |
-| Sat, 11 Apr 2026 04:30:12 GMT | Introduction to Cross-Site Scripting (XSS) — TryHackMe Walkthrough. | Oluwakamiye Adeyemo | [Read More](https://medium.com/p/3c23392c8fa5) |
-| Sat, 11 Apr 2026 04:28:21 GMT | CRTO Exam Review: Why My First Attempt Failed — and What Stealth Taught Me | Wildhani Ihyara Rahman | [Read More](https://medium.com/p/8700d2ada35f) |
-| Sat, 11 Apr 2026 04:10:12 GMT | Someone Actually Told a Hacked Gmail User to Turn Off 2FA—Please Don't Do That | Muneeb | [Read More](https://medium.com/p/7a1569fefa89) |
-| Sat, 11 Apr 2026 04:05:04 GMT | picoCTF Writeup — AutoRev 1 | Aman Barolia | [Read More](https://medium.com/p/180a9f350d8f) |
-| Sat, 11 Apr 2026 04:00:55 GMT | Cross-Border Data Transfers in the Cloud Era: Why Countries Prefer Local Storage | Geeky Vartika | [Read More](https://medium.com/p/37235a636b68) |
