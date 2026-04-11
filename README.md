@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 13:54:30 GMT | Insecurity in Nigeria: A Nation at the Edge of Silence | Ofotokun Enor Mirabel LLB, BL | [Read More](https://medium.com/p/51aa6969faf9) |
+| Sat, 11 Apr 2026 13:48:43 GMT | SOC274 — Palo Alto Networks PAN-OS Command Injection Exploitation (CVE-2024–3400) - LetsDefend… | Rai Pereira | [Read More](https://medium.com/p/0f7b63d996d3) |
+| Sat, 11 Apr 2026 13:41:24 GMT | Exploiting LLM APIs with Excessive Agency (PortSwigger Lab Write-up) | Mukilan Baskaran | [Read More](https://medium.com/p/df0650f736ae) |
+| Sat, 11 Apr 2026 13:36:20 GMT | Watermelon Metrics: The Hidden Cybersecurity Risk Every Financial Institution Shares | Prateek Mishra | [Read More](https://medium.com/p/abaf697de4f8) |
+| Sat, 11 Apr 2026 13:29:10 GMT | Global Backup-as-a-Service (BaaS) Market: Growth Trends and Future Outlook 2025–2035 | manisha hazz | [Read More](https://medium.com/p/c90c4649d033) |
+| Sat, 11 Apr 2026 13:25:57 GMT | Attacker Can Edit Other Users Profile in a Real World Platform | NUSK Labs | [Read More](https://medium.com/p/08e7cb208f11) |
+| Sat, 11 Apr 2026 13:25:57 GMT | Meta’s ‘Muse Spark’: The Day the Open-Source Giant Built a Walled Garden | Athishsagarkishan | [Read More](https://medium.com/p/0c5bab2ca207) |
+| Sat, 11 Apr 2026 13:24:48 GMT | I Built a Free VPN Leak Test Tool — Here’s What 10,000 Tests Revealed | ExamineIP | [Read More](https://medium.com/p/1fc8816f7a9d) |
+| Sat, 11 Apr 2026 13:19:18 GMT | Your “Deleted” Signal Messages Aren’t Gone — The FBI Just Proved It | StackedThoughts | [Read More](https://medium.com/p/381e2e2c1606) |
+| Sat, 11 Apr 2026 13:18:01 GMT | When Applications Fail to Enforce Boundaries | m0cha_ | [Read More](https://medium.com/p/451527fb5c96) |
+| Sat, 11 Apr 2026 13:08:48 GMT | Operation Takeover WriteUp TryHackMe | cat0x01 | [Read More](https://medium.com/p/eec27e992dfa) |
+| Sat, 11 Apr 2026 13:01:01 GMT | [Pulp Fiction] Survival Strategy of Fragmented Information Nodes | MonoEssay | [Read More](https://medium.com/p/c420e1ae61cf) |
+| Sat, 11 Apr 2026 12:57:19 GMT | 7 Cryptography Concepts Every Developer Should Know | Ali Samir | [Read More](https://medium.com/p/cd4b579e20bf) |
+| Sat, 11 Apr 2026 12:53:35 GMT | Anonforce — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/8c4e1b58f8d3) |
 | Sat, 11 Apr 2026 12:47:58 GMT | Compliance isn’t getting faster because it’s automated. | Sonu Goswami - B2B SaaS Positioning Specialist | [Read More](https://medium.com/p/7cbdb39e603d) |
 | Sat, 11 Apr 2026 12:46:18 GMT | Best Observability MCPs For Incident Troubleshooting And Debugging | Gerald Whitley | [Read More](https://medium.com/p/e7ea8fd9703c) |
 | Sat, 11 Apr 2026 12:41:34 GMT | Claude Mythos Just Rewrote Cybersecurity. | Nicholas Mboya | [Read More](https://medium.com/p/5dd07e6f5bd0) |
@@ -99,18 +113,3 @@ I got tired of false positives. | Mirmahmood | [Read More](https://medium.com/p/
 | Sat, 11 Apr 2026 06:55:51 GMT | Subfinder Doesn’t Make Noise, Until It’s Too Late | Fateyaly | [Read More](https://medium.com/p/72bb4d671624) |
 | Sat, 11 Apr 2026 06:51:09 GMT | Why You Can’t Download Netflix Videos: A Deep Dive into DRM | Vaibhav | [Read More](https://medium.com/p/805861457b85) |
 | Sat, 11 Apr 2026 06:50:40 GMT | The Rise of Cyber War: FBI vs Hackers $50 Million Battle | CyberShieldAI | [Read More](https://medium.com/p/e42c4c643854) |
-| Sat, 11 Apr 2026 06:45:38 GMT | FBI vs Hackers: The $50 Million Cyber War Explained | CyberShieldAI | [Read More](https://medium.com/p/c2d717b1fd80) |
-| Sat, 11 Apr 2026 06:40:40 GMT | Anthropic Excludes IBM (among others) From The CyberPunk Cool Kids Table | Salty Deprecated Software Engineer | [Read More](https://medium.com/p/04d12621464f) |
-| Sat, 11 Apr 2026 06:28:24 GMT | The 15 High-Value Bug Classes That Actually Pay in Bug Bounty (2026) | ghostyjoe | [Read More](https://medium.com/p/32a06f8b97eb) |
-| Sat, 11 Apr 2026 06:24:59 GMT | From Tools to Thinking Systems: LangChain’s Deep Agents Explained
-Artificial Intelligence functions… | Singletapindia | [Read More](https://medium.com/p/eedd6fc09061) |
-| Sat, 11 Apr 2026 06:01:22 GMT | [HackTheBox Sherlocks] — OpTinselTrace-2 (AWS CloudTrail investigation) | Chicken0248 | [Read More](https://medium.com/p/5d088f970746) |
-| Sat, 11 Apr 2026 06:00:46 GMT | [HackTheBox Sherlocks ]— OpTinselTrace-1 (Email Forensics from eM client) | Chicken0248 | [Read More](https://medium.com/p/622ff2ad793d) |
-| Sat, 11 Apr 2026 05:51:47 GMT | The New Way Cybercriminals Steal Money | Deepak Sharma | [Read More](https://medium.com/p/b919bb1f92a0) |
-| Sat, 11 Apr 2026 05:51:46 GMT | [CMesS] — Gila CMS 1.10.9 | Bash Overflow | [Read More](https://medium.com/p/11ed31a8cd2d) |
-| Sat, 11 Apr 2026 05:48:50 GMT | The first ransom demand is 2–5× what they’ll actually accept. Most victims never find out. | Aether-Intel | [Read More](https://medium.com/p/fa5a6dbb96f5) |
-| Sat, 11 Apr 2026 05:47:28 GMT | How to Know If a Link Is Safe in 2 Seconds | Deepak Sharma | [Read More](https://medium.com/p/3a304d261c09) |
-| Sat, 11 Apr 2026 05:45:39 GMT | AI Code Leaks: A Hidden Risk for Developers | Pasan Sathsara | [Read More](https://medium.com/p/3c2f97ff9a2a) |
-| Sat, 11 Apr 2026 05:44:43 GMT | Top 5 Cyber Security Tips to Protect Your Website from Hackers | Vidyexd | [Read More](https://medium.com/p/44543b7ce871) |
-| Sat, 11 Apr 2026 05:44:34 GMT | How to Know If a Link Is Safe in 2 Seconds | Deepspeaksyt | [Read More](https://medium.com/p/e97b5e60ef04) |
-| Sat, 11 Apr 2026 05:41:19 GMT | UK Tech Bosses Now Face Prison Over Non-Consensual Intimate Images — Here’s What It Means | UK Cyber Defence | [Read More](https://medium.com/p/0f68e5d9a015) |
