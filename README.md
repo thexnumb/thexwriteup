@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 10:34:45 GMT | Claude Mythos: The AI Model Too Dangerous to Release | Shahadilh | [Read More](https://medium.com/p/946d0def7c8c) |
+| Sat, 11 Apr 2026 10:32:35 GMT | I Searched for an Ethical Hacking Course in West Delhi for 3 Weeks -Here’s Everything I Learned | Varun Papnai | [Read More](https://medium.com/p/d6d308ce4d88) |
+| Sat, 11 Apr 2026 10:32:17 GMT | Your TOTP Authenticator Doesn’t Need to be 500MB: Building a Minimalist Vault for the Terminal | Josh Klein | [Read More](https://medium.com/p/0a54a577d889) |
+| Sat, 11 Apr 2026 10:28:41 GMT | I Accidentally Deleted My Kali Linux Partition | oldman | [Read More](https://medium.com/p/84503d027dfa) |
+| Sat, 11 Apr 2026 10:23:51 GMT | Cybersecurity in the Corporate World: A Practical Guide to Risk, Resilience, and Strategy | Hemant Kolhe | [Read More](https://medium.com/p/a4fb9f2abd94) |
+| Sat, 11 Apr 2026 10:22:27 GMT | Day-1 Solving XSS lab | zero_day | [Read More](https://medium.com/p/c778d934dc6a) |
+| Sat, 11 Apr 2026 10:16:03 GMT | Cyber security course in Kerala with real training | aryananda | [Read More](https://medium.com/p/4852feb56199) |
+| Sat, 11 Apr 2026 10:15:33 GMT | The Art of Self-Mutating Malware | Excalibra | [Read More](https://medium.com/p/5ebfe70a2324) |
+| Sat, 11 Apr 2026 10:12:21 GMT | Frida Gadget: Executing Frida Without Root | Pablo Ajo | [Read More](https://medium.com/p/667bc952d33d) |
+| Sat, 11 Apr 2026 10:07:01 GMT | Gods Eye: The Reconnaissance Tool I Wish I Had 5 Years Ago | Novus Aegis Ai | [Read More](https://medium.com/p/baf932cc56e3) |
+| Sat, 11 Apr 2026 10:04:59 GMT | Recon Pro: Building an Enterprise-Grade Web Reconnaissance Platform From Scratch | Novus Aegis Ai | [Read More](https://medium.com/p/c189025da790) |
+| Sat, 11 Apr 2026 10:03:52 GMT | How to Know if Your AI Chatbot Is Safe and Reliable: A Practical Evaluation Framework | Dazielle | [Read More](https://medium.com/p/d16087c00691) |
+| Sat, 11 Apr 2026 10:02:11 GMT | How to Install Splunk Enterprise in Under 15 Minutes — And What to Do the Moment You Log In | Shewag Bhattarai | [Read More](https://medium.com/p/ec18c5ef941c) |
+| Sat, 11 Apr 2026 09:59:14 GMT | The Symmetry of Recon: Active vs. Passive Discovery in Bug Bounty | Eugene Softley (softsec) | [Read More](https://medium.com/p/b0fef136783d) |
+| Sat, 11 Apr 2026 09:53:08 GMT | Shükir, Rahmet | Meeem | [Read More](https://medium.com/p/9c9567cfa753) |
+| Sat, 11 Apr 2026 09:48:48 GMT | Incoming college student here, | Kiezzha Ramos | [Read More](https://medium.com/p/36586540bcef) |
 | Sat, 11 Apr 2026 09:34:44 GMT | AI vs Hackers — Who Finds Bugs Faster in 2026? | Pradeeptadi | [Read More](https://medium.com/p/af08b3702890) |
 | Sat, 11 Apr 2026 09:24:50 GMT | I Spent 30 Days Thinking Like a Hacker — Here’s What Changed | mrwhite18 | [Read More](https://medium.com/p/d3705f23673c) |
 | Sat, 11 Apr 2026 09:18:31 GMT | Top Skills You Need for a Cyber Security Career | Giribabu V | [Read More](https://medium.com/p/11dfc2df9b60) |
@@ -37,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Apr 2026 07:50:28 GMT | Unpatched Adobe Reader Zero-Day Exploited for Months via Weaponized PDFs Targeting Energy and… | TheRedSheep | [Read More](https://medium.com/p/df7f584953a4) |
 | Sat, 11 Apr 2026 07:46:52 GMT | 5 Most Important Benefits of Investing in Cyber Security For Business Purposes | Wajeeh Uddin | [Read More](https://medium.com/p/377663d1c339) |
 | Sat, 11 Apr 2026 07:22:47 GMT | Security is Everyone’s Lock — not just the guard at the gate | Mohit Malpani | [Read More](https://medium.com/p/0942599b388c) |
+| Sat, 11 Apr 2026 07:22:31 GMT | The Age of Agency: Decoding the Claude Mythos | Sudikondarevanthkumar | [Read More](https://medium.com/p/f7e9fc1ce03d) |
 | Sat, 11 Apr 2026 07:22:17 GMT | Some Days, I Am Too Loud for My Own Mind | Teacher R, Student R | [Read More](https://medium.com/p/a8df7b8d8311) |
 | Sat, 11 Apr 2026 07:21:19 GMT | TryHackMe Writeup — Break Out The Cage | red wolf | [Read More](https://medium.com/p/89560c600ee4) |
 | Sat, 11 Apr 2026 07:16:00 GMT | JUNIOR SECURITY ANALYST INTRO - TRYHACKME | Aruldeshwal | [Read More](https://medium.com/p/65e17f327140) |
@@ -96,20 +113,3 @@ Artificial Intelligence functions… | Singletapindia | [Read More](https://medi
 | Sat, 11 Apr 2026 02:00:40 GMT | Governing Security in the Age of Infinite Signal — From Discovery to Control | Snyk | [Read More](https://medium.com/p/e00d6d521b78) |
 | Sat, 11 Apr 2026 01:53:59 GMT | AWS Has 4 Load Balancers — Most Engineers Only Understand One | Sowmya Katherla | [Read More](https://medium.com/p/d44082cf23e2) |
 | Sat, 11 Apr 2026 01:46:56 GMT | From Monolithic Kernel to Octopus Architecture: Security as a Structural Property | Zia Juan He | [Read More](https://medium.com/p/9edfa0e8129c) |
-| Sat, 11 Apr 2026 01:35:02 GMT | Building an AI-Powered Security Scanner for Python: A Developer’s Guide | BotBrew Labs | [Read More](https://medium.com/p/bb66e7d0fc2a) |
-| Sat, 11 Apr 2026 01:33:59 GMT | Anthropic’s Mythos: The End of Security by Obscurity | Cezary Gesikowski | [Read More](https://medium.com/p/2302b017d639) |
-| Sat, 11 Apr 2026 01:28:16 GMT | So… Claude Code’s code was leaked! | mohit sharma | [Read More](https://medium.com/p/33e4d898f508) |
-| Sat, 11 Apr 2026 01:21:25 GMT | # The AI That Escaped Its Sandbox – And What It Means for Your Bank Account | tomo from japan | [Read More](https://medium.com/p/114301088488) |
-| Sat, 11 Apr 2026 01:00:53 GMT | Ignore the 2026 AI Panic. Follow These 5 Rules | Ray | [Read More](https://medium.com/p/c5a3f46218a0) |
-| Sat, 11 Apr 2026 00:58:06 GMT | A Law Firm Installed ClawBot on a Tuesday. | Firuz Alimov | [Read More](https://medium.com/p/a662b272f906) |
-| Sat, 11 Apr 2026 00:57:18 GMT | Claude Mythos & Project Glasswing: the AI Security Breakthrough That Changes Everything | Adnane Arharbi, Eng | [Read More](https://medium.com/p/3cdc8f5f16a5) |
-| Sat, 11 Apr 2026 00:31:01 GMT | Public Key vs Private Key: Differences, Uses, and How They Work | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/89fdd0b87d1c) |
-| Sat, 11 Apr 2026 00:30:13 GMT | Your Company Bought a Ferrari. You’re Still Driving It Through a School Zone. | Chatmate LLC | [Read More](https://medium.com/p/5e57c3efc3b8) |
-| Sat, 11 Apr 2026 00:09:37 GMT | Boiler CTF — RCE in sar2html, Credentials in a Log File, and SUID find to Root - TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/7d53ce8043bc) |
-| Sat, 11 Apr 2026 00:01:02 GMT | Guide to File Upload Vulnerabilities: Penetration Testing and RCE Techniques | JPablo13 | [Read More](https://medium.com/p/1cc5f2ffc292) |
-| Fri, 10 Apr 2026 23:47:38 GMT | OpenAI Killed Sora. Here Is What It Actually Tells You About AI. | James Williams | [Read More](https://medium.com/p/ce72cbbed5bb) |
-| Fri, 10 Apr 2026 23:22:14 GMT | When AI Becomes a Systemic Risk: What Claude Mythos Signals for Business, Technology, and the… | CCL Montante | [Read More](https://medium.com/p/9bbed1ff569d) |
-| Fri, 10 Apr 2026 22:59:31 GMT | OWASP Juice Shop TryHackMe Medium Writeup - Walkthrough & Solutions | PRASIDDHA PAL | [Read More](https://medium.com/p/fd5f4e55e30d) |
-| Fri, 10 Apr 2026 22:43:12 GMT | I honestly cant believe this happened… I was just scrolling like usual and must have missed some… | Sandra Harris | [Read More](https://medium.com/p/c0041dddf904) |
-| Fri, 10 Apr 2026 22:40:05 GMT | What a Sleeper Agent Revealed About AI Governance | Selfradiance | [Read More](https://medium.com/p/3fca743fd151) |
-| Fri, 10 Apr 2026 22:31:01 GMT | Adversarial Robustness in Decentralized AI: Poisoning Attacks, Byzantine Fault Tolerance, and… | Naushik Beladiya | [Read More](https://medium.com/p/0f1581478d6e) |
