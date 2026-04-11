@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 07:22:47 GMT | Security is Everyone’s Lock — not just the guard at the gate | Mohit Malpani | [Read More](https://medium.com/p/0942599b388c) |
+| Sat, 11 Apr 2026 07:21:19 GMT | TryHackMe Writeup — Break Out The Cage | red wolf | [Read More](https://medium.com/p/89560c600ee4) |
+| Sat, 11 Apr 2026 07:16:00 GMT | JUNIOR SECURITY ANALYST INTRO - TRYHACKME | Aruldeshwal | [Read More](https://medium.com/p/65e17f327140) |
+| Sat, 11 Apr 2026 07:15:04 GMT | Mythos : l’IA persistante qui défie déjà l’AI Act | Frederic LOHBRUNNER | [Read More](https://medium.com/p/52b7645ca9d3) |
+| Sat, 11 Apr 2026 07:10:17 GMT | Best Ethical Hacking Tools Used by Cybersecurity Professionals | cyber security Updates | [Read More](https://medium.com/p/040c25b6657d) |
+| Sat, 11 Apr 2026 07:09:44 GMT | A Simple Guide to CCTV Installation Companies in the UAE | Emirtech Technology | [Read More](https://medium.com/p/b6d137614be6) |
+| Sat, 11 Apr 2026 07:09:41 GMT | Software-Defined Vehicle Defined Reshape the USA Vehicle Networking system Market as ADAS… | Anushka Ghatak | [Read More](https://medium.com/p/564e396e362e) |
+| Sat, 11 Apr 2026 07:07:34 GMT | Claude Mythos: Why Anthropic Is Holding It Back | Rendy Dalimunthe | [Read More](https://medium.com/p/35794467783d) |
+| Sat, 11 Apr 2026 07:05:31 GMT | How JWT Authentication Actually Works (Step-by-Step Guide) | Santhosh Kumar | [Read More](https://medium.com/p/092c0e211905) |
+| Sat, 11 Apr 2026 07:00:41 GMT | Cyber Leelawat : Tryhackme: Introductory Networking | Mahesh Amale | [Read More](https://medium.com/p/5a05a15152d3) |
+| Sat, 11 Apr 2026 06:55:51 GMT | Subfinder Doesn’t Make Noise, Until It’s Too Late | Fateyaly | [Read More](https://medium.com/p/72bb4d671624) |
+| Sat, 11 Apr 2026 06:51:09 GMT | Why You Can’t Download Netflix Videos: A Deep Dive into DRM | Vaibhav | [Read More](https://medium.com/p/805861457b85) |
+| Sat, 11 Apr 2026 06:50:40 GMT | The Rise of Cyber War: FBI vs Hackers $50 Million Battle | CyberShieldAI | [Read More](https://medium.com/p/e42c4c643854) |
+| Sat, 11 Apr 2026 06:45:38 GMT | FBI vs Hackers: The $50 Million Cyber War Explained | CyberShieldAI | [Read More](https://medium.com/p/c2d717b1fd80) |
+| Sat, 11 Apr 2026 06:40:40 GMT | Anthropic Excludes IBM (among others) From The CyberPunk Cool Kids Table | Salty Deprecated Software Engineer | [Read More](https://medium.com/p/04d12621464f) |
+| Sat, 11 Apr 2026 06:28:24 GMT | The 15 High-Value Bug Classes That Actually Pay in Bug Bounty (2026) | ghostyjoe | [Read More](https://medium.com/p/32a06f8b97eb) |
+| Sat, 11 Apr 2026 06:24:59 GMT | From Tools to Thinking Systems: LangChain’s Deep Agents Explained
+Artificial Intelligence functions… | Singletapindia | [Read More](https://medium.com/p/eedd6fc09061) |
 | Sat, 11 Apr 2026 06:01:22 GMT | [HackTheBox Sherlocks] — OpTinselTrace-2 (AWS CloudTrail investigation) | Chicken0248 | [Read More](https://medium.com/p/5d088f970746) |
 | Sat, 11 Apr 2026 06:00:46 GMT | [HackTheBox Sherlocks ]— OpTinselTrace-1 (Email Forensics from eM client) | Chicken0248 | [Read More](https://medium.com/p/622ff2ad793d) |
 | Sat, 11 Apr 2026 05:51:47 GMT | The New Way Cybercriminals Steal Money | Deepak Sharma | [Read More](https://medium.com/p/b919bb1f92a0) |
@@ -70,6 +88,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 22:43:12 GMT | I honestly cant believe this happened… I was just scrolling like usual and must have missed some… | Sandra Harris | [Read More](https://medium.com/p/c0041dddf904) |
 | Fri, 10 Apr 2026 22:40:05 GMT | What a Sleeper Agent Revealed About AI Governance | Selfradiance | [Read More](https://medium.com/p/3fca743fd151) |
 | Fri, 10 Apr 2026 22:31:01 GMT | Adversarial Robustness in Decentralized AI: Poisoning Attacks, Byzantine Fault Tolerance, and… | Naushik Beladiya | [Read More](https://medium.com/p/0f1581478d6e) |
+| Fri, 10 Apr 2026 22:28:21 GMT | Drift Multisig Incident and the Case for Execution-Time Authority (ETA) | Monique (NYX) Abrams | [Read More](https://medium.com/p/2924e7feec56) |
 | Fri, 10 Apr 2026 22:23:00 GMT | As founder of technology company you should focus | Mijaindholiya | [Read More](https://medium.com/p/527d95d0722e) |
 | Fri, 10 Apr 2026 22:17:50 GMT | Why People Need A Truly Private Messaging App | Shawn Bure | [Read More](https://medium.com/p/a491bad59a5e) |
 | Fri, 10 Apr 2026 22:16:59 GMT | What Oil & Gas Operators Really Care About in Edge Connectivity — Insights from ENTELEC | Zilla Li | [Read More](https://medium.com/p/148117862823) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 21:07:25 GMT | Code Review Süreci Nedir? | Dogukan İSPİRLİ | [Read More](https://medium.com/p/239ca939e940) |
 | Fri, 10 Apr 2026 21:03:26 GMT | Why Security Should Be Your Top Priority in DEX Development | Christymariaa | [Read More](https://medium.com/p/0074c5c45cdc) |
 | Fri, 10 Apr 2026 21:03:02 GMT | Is Your Data Quantum-Secure? | Paolo Molignini, PhD | [Read More](https://medium.com/p/0aa1b790c887) |
-| Fri, 10 Apr 2026 21:01:50 GMT | Meta Just Put AI Inside Every App Your Kids Use. | Adam Frąckowiak | [Read More](https://medium.com/p/d72d87fe4673) |
-| Fri, 10 Apr 2026 21:01:15 GMT | LLMs Are Now Finding Bugs Before Humans Do. That Changes the Rules. | Khushdeep Sharma | [Read More](https://medium.com/p/66e1f09c01af) |
-| Fri, 10 Apr 2026 21:01:02 GMT | Unfiltered Restart — Day 46: Test Prep, Day 5 | Maximillian Rueda | [Read More](https://medium.com/p/4f83ab38df84) |
-| Fri, 10 Apr 2026 21:00:35 GMT | Agentic AI Security in 2026: What OpenClaw Taught Us | Neuralcoretech | [Read More](https://medium.com/p/a183affaaf94) |
-| Fri, 10 Apr 2026 21:00:26 GMT | The Illusion of Privacy | Akshat Jain | [Read More](https://medium.com/p/0b49216748b6) |
-| Fri, 10 Apr 2026 20:52:34 GMT | The PDF You Just Opened Could Be Watching You: Inside the Adobe Reader Zero-Day | SOCFortress | [Read More](https://medium.com/p/e2bd6897816b) |
-| Fri, 10 Apr 2026 20:49:26 GMT | Ring vs. PGST vs. KERUI: Which Home Security System Is Right for You? | Eileen McCoy - Technology - Digital Marketing | [Read More](https://medium.com/p/67011cfb2a00) |
-| Fri, 10 Apr 2026 20:45:32 GMT | The Increasing Role of AI in Vulnerability Research | Wordfence | [Read More](https://medium.com/p/d4c25b4eba49) |
-| Fri, 10 Apr 2026 20:38:19 GMT | Bytemancy 0 — PicoCTF 2026 | Bridget | [Read More](https://medium.com/p/8ebbcfe5aa56) |
-| Fri, 10 Apr 2026 20:29:37 GMT | Resilience You Control: The Case for Sovereign Recovery - CSO ThreatScape Manchester 2026 … | Meera Tamboli | [Read More](https://medium.com/p/3999303cbab2) |
-| Fri, 10 Apr 2026 20:26:45 GMT | The Execution Environment Was Always the Problem: What Mythos Just Changed | James Word | [Read More](https://medium.com/p/8d2e2246b1ef) |
-| Fri, 10 Apr 2026 20:26:39 GMT | POV: When Your NDR Panics but You’re Just a Chill Guy | Vonte Sewell | [Read More](https://medium.com/p/f1ad450fc440) |
-| Fri, 10 Apr 2026 20:26:05 GMT | Why Integrate Threat Intelligence with Incident Response - WiCyS 2026 (Women in Cybersecurity)… | Meera Tamboli | [Read More](https://medium.com/p/e29c88b52471) |
-| Fri, 10 Apr 2026 20:25:51 GMT | Why Access Control Fails in Modern Web Applications | Divine | [Read More](https://medium.com/p/875c54d3674a) |
-| Fri, 10 Apr 2026 20:24:27 GMT | I Changed a Single Number in a Program’s Brain — And It Obeyed (Day 1 of Reverse Engineering) | Issan | [Read More](https://medium.com/p/729eeedefd40) |
-| Fri, 10 Apr 2026 20:22:16 GMT | From Data Decoding to Privilege Escalation: OverTheWire Bandit (Levels 11–22) | Ahmed Eldkrory | [Read More](https://medium.com/p/96b64771b33c) |
-| Fri, 10 Apr 2026 20:21:43 GMT | When Login Features Become OSINT Signals: Leveraging Authentication Flows for Data Enrichment | Horus | [Read More](https://medium.com/p/c972af2c4d5a) |
-| Fri, 10 Apr 2026 20:21:35 GMT | My Journey into Cybersecurity — Ankit Kumar Paswan | Ankit Kumar Paswan | [Read More](https://medium.com/p/cd6e8ff62e89) |
