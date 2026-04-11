@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 20:25:14 GMT | Exposing the Enterprise: The “AI Threat” is Just Your Own Broken IAM | Mike Parcewski | [Read More](https://medium.com/p/1f5895b9493c) |
+| Sat, 11 Apr 2026 20:19:25 GMT | Cyber Security “Consulting” at PwC: A Simulation Write-Up | Tarunika Kapoor | [Read More](https://medium.com/p/1aefbec442d4) |
+| Sat, 11 Apr 2026 20:18:01 GMT | Is agentic AI now a new attack surface? | Sevval Aydogan | [Read More](https://medium.com/p/7145abc875d0) |
+| Sat, 11 Apr 2026 20:15:02 GMT | Mythic C2 Server — 104 | Miraç Küçük | [Read More](https://medium.com/p/bed1243b81c0) |
+| Sat, 11 Apr 2026 19:51:50 GMT | ️PowerShell for Cyber Professionals: The Defensive & Offensive Blueprint | Petersmuditha | [Read More](https://medium.com/p/d65b41d226a8) |
+| Sat, 11 Apr 2026 19:47:45 GMT | Why Most Beginners Fail in Cybersecurity (And How I’m Avoiding It) | John Light | [Read More](https://medium.com/p/a79d2b8d934d) |
+| Sat, 11 Apr 2026 19:44:43 GMT | Where Can You Report Something Anonymously in 2026? A Complete Guide to Staying Safe Online | Warren Smith | [Read More](https://medium.com/p/f64e130ccaef) |
+| Sat, 11 Apr 2026 19:41:01 GMT | Blind SQL Injection: From Conditional Responses to Out-of-Band Exfiltration | Ahmed Rais | [Read More](https://medium.com/p/67c00e463efa) |
+| Sat, 11 Apr 2026 19:40:46 GMT | Red Team Career Levels: What You Actually Need at Each Stage | Candy Wong | [Read More](https://medium.com/p/e6106ab398c4) |
 | Sat, 11 Apr 2026 19:31:01 GMT | The Bricking Point: Analyzing Permanent Fund Loss in Panoptic’s SFPM | rdin777 | [Read More](https://medium.com/p/7c045596ccf2) |
 | Sat, 11 Apr 2026 19:31:01 GMT | ALHacking Tool | Anubhav_bora | [Read More](https://medium.com/p/ab05b5ddc52d) |
 | Sat, 11 Apr 2026 19:26:27 GMT | Day 20: The Cloud Battlefield — The Shared Responsibility Model and IAM | Ndu | [Read More](https://medium.com/p/269724ef7bdd) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Apr 2026 14:01:01 GMT | Threat Hunting with IPS/IDS — LetsDefend | 0verRida | [Read More](https://medium.com/p/62e515ffbe81) |
 | Sat, 11 Apr 2026 13:59:45 GMT | I Found a Critical Security Hole in a Popular Open Source Platform. Here Is What I Discovered. | Fahedkhan | [Read More](https://medium.com/p/3447fc8dd977) |
 | Sat, 11 Apr 2026 13:58:34 GMT | Proxies Are Overrated | Gökçen Kunukcu | [Read More](https://medium.com/p/f3f8e3492ead) |
-| Sat, 11 Apr 2026 13:54:30 GMT | Insecurity in Nigeria: A Nation at the Edge of Silence | Ofotokun Enor Mirabel LLB, BL | [Read More](https://medium.com/p/51aa6969faf9) |
-| Sat, 11 Apr 2026 13:48:43 GMT | SOC274 — Palo Alto Networks PAN-OS Command Injection Exploitation (CVE-2024–3400) - LetsDefend… | Rai Pereira | [Read More](https://medium.com/p/0f7b63d996d3) |
-| Sat, 11 Apr 2026 13:41:24 GMT | Exploiting LLM APIs with Excessive Agency (PortSwigger Lab Write-up) | Mukilan Baskaran | [Read More](https://medium.com/p/df0650f736ae) |
-| Sat, 11 Apr 2026 13:36:20 GMT | Watermelon Metrics: The Hidden Cybersecurity Risk Every Financial Institution Shares | Prateek Mishra | [Read More](https://medium.com/p/abaf697de4f8) |
-| Sat, 11 Apr 2026 13:29:10 GMT | Global Backup-as-a-Service (BaaS) Market: Growth Trends and Future Outlook 2025–2035 | manisha hazz | [Read More](https://medium.com/p/c90c4649d033) |
-| Sat, 11 Apr 2026 13:25:57 GMT | Attacker Can Edit Other Users Profile in a Real World Platform | NUSK Labs | [Read More](https://medium.com/p/08e7cb208f11) |
-| Sat, 11 Apr 2026 13:25:57 GMT | Meta’s ‘Muse Spark’: The Day the Open-Source Giant Built a Walled Garden | Athishsagarkishan | [Read More](https://medium.com/p/0c5bab2ca207) |
-| Sat, 11 Apr 2026 13:24:48 GMT | I Built a Free VPN Leak Test Tool — Here’s What 10,000 Tests Revealed | ExamineIP | [Read More](https://medium.com/p/1fc8816f7a9d) |
-| Sat, 11 Apr 2026 13:19:18 GMT | Your “Deleted” Signal Messages Aren’t Gone — The FBI Just Proved It | StackedThoughts | [Read More](https://medium.com/p/381e2e2c1606) |
