@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 11:26:35 GMT | Claude Mythos: The Model That Quietly Broke Cybersecurity Assumptions | Bikram Sarkar | [Read More](https://medium.com/p/33ce2f4d5b5a) |
+| Sat, 11 Apr 2026 11:17:39 GMT | From a Cold LinkedIn DM to Finding Real Bugs: My First Cybersecurity Internship Experience. | Mayank Kumar | [Read More](https://medium.com/p/4bfce3785a66) |
+| Sat, 11 Apr 2026 11:10:54 GMT | 9 Essential Benefits of Executive Protection Security for VIP Client Safety | The Safety Perspective | [Read More](https://medium.com/p/6160fe6d4fbd) |
+| Sat, 11 Apr 2026 11:10:37 GMT | Metasploitable 2 Full walkthrough :- A Complete Step-by-Step Guide | Chandan | [Read More](https://medium.com/p/b733f7c3d1a1) |
+| Sat, 11 Apr 2026 11:04:15 GMT | A New Layer of Protection: Google Introduces Device Bound Sessions in Chrome | Jas | [Read More](https://medium.com/p/e87eb320e3ee) |
+| Sat, 11 Apr 2026 10:59:14 GMT | Finally started my Cybersecurity journey. | MagataMikey | [Read More](https://medium.com/p/e9e775c05b3c) |
+| Sat, 11 Apr 2026 10:55:42 GMT | WIRESHARK:THE BASICS LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/25e082575ffc) |
+| Sat, 11 Apr 2026 10:53:03 GMT | PUTTING IT ALL TOGETHER:MINI CTF SQLI LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/f02087d77f1f) |
+| Sat, 11 Apr 2026 10:52:22 GMT | iam new to crypto market ,please how to withdrawl my 5,000$ from my okx wallet app to Okx? | Jina | [Read More](https://medium.com/p/e7728eecf460) |
+| Sat, 11 Apr 2026 10:49:48 GMT | AI is Supercharging Social Engineering | Umair Ahmed Khan | [Read More](https://medium.com/p/ec4a6883f67e) |
+| Sat, 11 Apr 2026 10:48:49 GMT | When a Suspicious Tunnel Leads Down a Rabbit Hole | NishkaBhatt | [Read More](https://medium.com/p/75d154519154) |
+| Sat, 11 Apr 2026 10:41:34 GMT | Nobody Authorized That Agent | Azra Melis Ertan | [Read More](https://medium.com/p/c7f666df9a57) |
+| Sat, 11 Apr 2026 10:38:20 GMT | Why Your Team Needs a Security Champion (And Why It Should Be You) | Ashish Muralidharan | [Read More](https://medium.com/p/03200ae65c2d) |
+| Sat, 11 Apr 2026 10:36:30 GMT | why AI Security Auditing fails — and how I fixed It
+I got tired of false positives. | Mirmahmood | [Read More](https://medium.com/p/f5146167d446) |
 | Sat, 11 Apr 2026 10:34:45 GMT | Claude Mythos: The AI Model Too Dangerous to Release | Shahadilh | [Read More](https://medium.com/p/946d0def7c8c) |
 | Sat, 11 Apr 2026 10:32:35 GMT | I Searched for an Ethical Hacking Course in West Delhi for 3 Weeks -Here’s Everything I Learned | Varun Papnai | [Read More](https://medium.com/p/d6d308ce4d88) |
 | Sat, 11 Apr 2026 10:32:17 GMT | Your TOTP Authenticator Doesn’t Need to be 500MB: Building a Minimalist Vault for the Terminal | Josh Klein | [Read More](https://medium.com/p/0a54a577d889) |
@@ -99,17 +114,3 @@ Artificial Intelligence functions… | Singletapindia | [Read More](https://medi
 | Sat, 11 Apr 2026 04:10:12 GMT | Someone Actually Told a Hacked Gmail User to Turn Off 2FA—Please Don't Do That | Muneeb | [Read More](https://medium.com/p/7a1569fefa89) |
 | Sat, 11 Apr 2026 04:05:04 GMT | picoCTF Writeup — AutoRev 1 | Aman Barolia | [Read More](https://medium.com/p/180a9f350d8f) |
 | Sat, 11 Apr 2026 04:00:55 GMT | Cross-Border Data Transfers in the Cloud Era: Why Countries Prefer Local Storage | Geeky Vartika | [Read More](https://medium.com/p/37235a636b68) |
-| Sat, 11 Apr 2026 03:55:24 GMT | Eval-Driven Agent Development: What Actually Makes AI Agents Work | Dave Patten | [Read More](https://medium.com/p/13fb7d4e1e77) |
-| Sat, 11 Apr 2026 03:40:47 GMT | I Stopped Trusting IP Reputation Here's What I Use Instead | Paritosh | [Read More](https://medium.com/p/ce20c006814f) |
-| Sat, 11 Apr 2026 03:25:20 GMT | The Day I Weaponized Time | Geoff Mulligan | [Read More](https://medium.com/p/047125204cdd) |
-| Sat, 11 Apr 2026 03:23:07 GMT | OTP Bypass Menuju Account Takeover via Response Manipulation | NERVHYM | [Read More](https://medium.com/p/905e33771387) |
-| Sat, 11 Apr 2026 02:56:39 GMT | SOC Automation Lab Series 1 | The Commoness | [Read More](https://medium.com/p/7119337c3a34) |
-| Sat, 11 Apr 2026 02:45:22 GMT | How SQL Injection Works — And Why It’s Still Everywhere | Sarah Qym | [Read More](https://medium.com/p/11f04b322257) |
-| Sat, 11 Apr 2026 02:28:36 GMT | The Techne Behind Agent Skills | Lance Cummings PhD | [Read More](https://medium.com/p/8678440d4047) |
-| Sat, 11 Apr 2026 02:25:32 GMT | Why git clone Fails with “Password authentication is not supported” on AWS CloudShell | Yoshiyuki Watanabe | [Read More](https://medium.com/p/68b1a779a17e) |
-| Sat, 11 Apr 2026 02:21:50 GMT | How to Secure Your Spring Boot Application (JWT, OAuth2, Best Practices) | Java Interview | [Read More](https://medium.com/p/ec60ef454695) |
-| Sat, 11 Apr 2026 02:08:10 GMT | Weekly Cyber Threat Bulletin: 9 April 2026 | Marcelle Lee | [Read More](https://medium.com/p/6e7820fb4c5f) |
-| Sat, 11 Apr 2026 02:02:15 GMT | Ethical Hacking for Beginners: A Complete Guide to Start Your Cybersecurity Career | AXON (Advanced X Operations Network) | [Read More](https://medium.com/p/046afbc3fbe8) |
-| Sat, 11 Apr 2026 02:00:40 GMT | Governing Security in the Age of Infinite Signal — From Discovery to Control | Snyk | [Read More](https://medium.com/p/e00d6d521b78) |
-| Sat, 11 Apr 2026 01:53:59 GMT | AWS Has 4 Load Balancers — Most Engineers Only Understand One | Sowmya Katherla | [Read More](https://medium.com/p/d44082cf23e2) |
-| Sat, 11 Apr 2026 01:46:56 GMT | From Monolithic Kernel to Octopus Architecture: Security as a Structural Property | Zia Juan He | [Read More](https://medium.com/p/9edfa0e8129c) |
