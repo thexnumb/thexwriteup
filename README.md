@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 04:48:41 GMT | The New Cyber Battlefield: | Sanjaya Kumar | [Read More](https://medium.com/p/51684e209545) |
+| Sat, 11 Apr 2026 04:47:38 GMT | The Rise of AI in Cyber Attacks (and Defense) | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/a3b91fbca86c) |
+| Sat, 11 Apr 2026 04:39:43 GMT | Scan Your Codebase for Mythos-Class Vulnerabilities in 5 Minutes | Jeremie Strand | [Read More](https://medium.com/p/19075ebdd419) |
+| Sat, 11 Apr 2026 04:35:11 GMT | Top CCTV Installation Services in Haryana at Affordable Prices | mginfotech | [Read More](https://medium.com/p/d4361d1ae140) |
+| Sat, 11 Apr 2026 04:30:12 GMT | Introduction to Cross-Site Scripting (XSS) — TryHackMe Walkthrough. | Oluwakamiye Adeyemo | [Read More](https://medium.com/p/3c23392c8fa5) |
+| Sat, 11 Apr 2026 04:28:21 GMT | CRTO Exam Review: Why My First Attempt Failed — and What Stealth Taught Me | Wildhani Ihyara Rahman | [Read More](https://medium.com/p/8700d2ada35f) |
+| Sat, 11 Apr 2026 04:10:12 GMT | Someone Actually Told a Hacked Gmail User to Turn Off 2FA—Please Don't Do That | Muneeb | [Read More](https://medium.com/p/7a1569fefa89) |
+| Sat, 11 Apr 2026 04:05:04 GMT | picoCTF Writeup — AutoRev 1 | Aman Barolia | [Read More](https://medium.com/p/180a9f350d8f) |
+| Sat, 11 Apr 2026 04:00:55 GMT | Cross-Border Data Transfers in the Cloud Era: Why Countries Prefer Local Storage | Geeky Vartika | [Read More](https://medium.com/p/37235a636b68) |
+| Sat, 11 Apr 2026 03:55:24 GMT | Eval-Driven Agent Development: What Actually Makes AI Agents Work | Dave Patten | [Read More](https://medium.com/p/13fb7d4e1e77) |
+| Sat, 11 Apr 2026 03:40:47 GMT | I Stopped Trusting IP Reputation Here's What I Use Instead | Paritosh | [Read More](https://medium.com/p/ce20c006814f) |
+| Sat, 11 Apr 2026 03:25:20 GMT | The Day I Weaponized Time | Geoff Mulligan | [Read More](https://medium.com/p/047125204cdd) |
+| Sat, 11 Apr 2026 03:23:07 GMT | OTP Bypass Menuju Account Takeover via Response Manipulation | NERVHYM | [Read More](https://medium.com/p/905e33771387) |
+| Sat, 11 Apr 2026 02:56:39 GMT | SOC Automation Lab Series 1 | The Commoness | [Read More](https://medium.com/p/7119337c3a34) |
+| Sat, 11 Apr 2026 02:45:22 GMT | How SQL Injection Works — And Why It’s Still Everywhere | Sarah Qym | [Read More](https://medium.com/p/11f04b322257) |
+| Sat, 11 Apr 2026 02:28:36 GMT | The Techne Behind Agent Skills | Lance Cummings PhD | [Read More](https://medium.com/p/8678440d4047) |
 | Sat, 11 Apr 2026 02:25:32 GMT | Why git clone Fails with “Password authentication is not supported” on AWS CloudShell | Yoshiyuki Watanabe | [Read More](https://medium.com/p/68b1a779a17e) |
 | Sat, 11 Apr 2026 02:21:50 GMT | How to Secure Your Spring Boot Application (JWT, OAuth2, Best Practices) | Java Interview | [Read More](https://medium.com/p/ec60ef454695) |
 | Sat, 11 Apr 2026 02:08:10 GMT | Weekly Cyber Threat Bulletin: 9 April 2026 | Marcelle Lee | [Read More](https://medium.com/p/6e7820fb4c5f) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 18:23:15 GMT | PicoCTF Challenge Writeup— Blame Game | Aman Barolia | [Read More](https://medium.com/p/ab4076ecd3f2) |
 | Fri, 10 Apr 2026 18:20:54 GMT | How to Lock WhatsApp Without Any App (3 Easy Methods 2026) | Manish Sharma | [Read More](https://medium.com/p/29267ff55b41) |
 | Fri, 10 Apr 2026 18:09:03 GMT | The AI That Found Zero-Days in Every OS — And Why You’ll Never Get Access to It | Muhammad Qayyum | [Read More](https://medium.com/p/16f1eaeb70cf) |
-| Fri, 10 Apr 2026 18:00:50 GMT | We Built a Password Manager That Can’t Betray You. Here’s Why. | Cloak | [Read More](https://medium.com/p/8124cad2bb62) |
-| Fri, 10 Apr 2026 17:58:12 GMT | Mastering Server-Side Request Forgery (SSRF) — From Basic Exploitation to Advanced Bypasses | Sharon | [Read More](https://medium.com/p/81cf2ebb9d88) |
-| Fri, 10 Apr 2026 17:57:52 GMT | “Bug Bounty Bootcamp #32: Weaponizing File Uploads — From Profile Pictures to Remote Code… | Aman Sharma | [Read More](https://medium.com/p/f582eb579c85) |
-| Fri, 10 Apr 2026 17:50:21 GMT | The ROI of Installing a Commercial Security System: 2026 Business Guide | AlexBryn | [Read More](https://medium.com/p/e5392443a8e3) |
-| Fri, 10 Apr 2026 17:49:58 GMT | Overpass Write-up - TryHackMe | Nazeer Rasad | [Read More](https://medium.com/p/dad55505f0b5) |
-| Fri, 10 Apr 2026 17:49:28 GMT | Glasswing Is the Confirmation: The Manhattan Project for AI Arrived on April 7, 2026 | Berend Watchus | [Read More](https://medium.com/p/16f2edbb4ddb) |
-| Fri, 10 Apr 2026 17:43:34 GMT | Best Practices to Improve Security in .NET Core Applications | Neupanebibek | [Read More](https://medium.com/p/ffbe9dd40b58) |
-| Fri, 10 Apr 2026 17:35:40 GMT | CVE-2026–31280: Insecure Bluetooth “RFCOMM” Leading to Device Crash in Parani M10 Intercom | CipherX1802 | [Read More](https://medium.com/p/7597c1d5d228) |
-| Fri, 10 Apr 2026 17:35:26 GMT | Malware Threats Surge Across Critical Infrastructure: A Growing Global Ris | Aura Tech Insights | [Read More](https://medium.com/p/3c47b1eefeb7) |
-| Fri, 10 Apr 2026 17:34:36 GMT | Why Everyday Objects Serve as Effective References for Solving Software Problems | Daniel Salvaloza | [Read More](https://medium.com/p/959443d8eb52) |
-| Fri, 10 Apr 2026 17:29:57 GMT | Linux Memory Acquisition and Volatile Artifact Analysis Using LiME | ZeroDay-Security-Services | [Read More](https://medium.com/p/9c3366bd6388) |
-| Fri, 10 Apr 2026 17:29:52 GMT | How I Built My First CTF Machine | Mu | [Read More](https://medium.com/p/04049fbe5197) |
-| Fri, 10 Apr 2026 17:29:32 GMT | Investigating a real-life BEC attack | Osama Elghazaly | [Read More](https://medium.com/p/5a2d22135624) |
-| Fri, 10 Apr 2026 17:20:56 GMT | The Timeline Problem: From Quantum Risk to AI-Driven Cryptographic Urgency | Alfio Musumeci | [Read More](https://medium.com/p/121bcd268d69) |
-| Fri, 10 Apr 2026 17:19:50 GMT | When the Defender Becomes the Risk: AI, Cybersecurity, and a Question Without an Answer | Roberta Profeta | [Read More](https://medium.com/p/6e988d5ef5f1) |
-| Fri, 10 Apr 2026 17:18:33 GMT | Unveiling the Taipei Metro “Invoice Lottery” Phishing Attack: A Deep Dive into the Darcula Phishing… | Gordon Fang | [Read More](https://medium.com/p/2b33d0ad4a4f) |
