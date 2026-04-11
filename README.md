@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 06:01:22 GMT | [HackTheBox Sherlocks] — OpTinselTrace-2 (AWS CloudTrail investigation) | Chicken0248 | [Read More](https://medium.com/p/5d088f970746) |
+| Sat, 11 Apr 2026 06:00:46 GMT | [HackTheBox Sherlocks ]— OpTinselTrace-1 (Email Forensics from eM client) | Chicken0248 | [Read More](https://medium.com/p/622ff2ad793d) |
+| Sat, 11 Apr 2026 05:51:47 GMT | The New Way Cybercriminals Steal Money | Deepak Sharma | [Read More](https://medium.com/p/b919bb1f92a0) |
+| Sat, 11 Apr 2026 05:51:46 GMT | [CMesS] — Gila CMS 1.10.9 | Bash Overflow | [Read More](https://medium.com/p/11ed31a8cd2d) |
+| Sat, 11 Apr 2026 05:48:50 GMT | The first ransom demand is 2–5× what they’ll actually accept. Most victims never find out. | Aether-Intel | [Read More](https://medium.com/p/fa5a6dbb96f5) |
+| Sat, 11 Apr 2026 05:47:28 GMT | How to Know If a Link Is Safe in 2 Seconds | Deepak Sharma | [Read More](https://medium.com/p/3a304d261c09) |
+| Sat, 11 Apr 2026 05:45:39 GMT | AI Code Leaks: A Hidden Risk for Developers | Pasan Sathsara | [Read More](https://medium.com/p/3c2f97ff9a2a) |
+| Sat, 11 Apr 2026 05:44:43 GMT | Top 5 Cyber Security Tips to Protect Your Website from Hackers | Vidyexd | [Read More](https://medium.com/p/44543b7ce871) |
+| Sat, 11 Apr 2026 05:44:34 GMT | How to Know If a Link Is Safe in 2 Seconds | Deepspeaksyt | [Read More](https://medium.com/p/e97b5e60ef04) |
+| Sat, 11 Apr 2026 05:41:19 GMT | UK Tech Bosses Now Face Prison Over Non-Consensual Intimate Images — Here’s What It Means | UK Cyber Defence | [Read More](https://medium.com/p/0f68e5d9a015) |
+| Sat, 11 Apr 2026 05:41:15 GMT | Stop Blind-CURLing in Production: How I Built an Audit Layer for API Operations | LERUfic | [Read More](https://medium.com/p/e7df0773c21d) |
+| Sat, 11 Apr 2026 05:35:54 GMT | The New Way Cybercriminals Steal Money | Deepspeaksyt | [Read More](https://medium.com/p/87bb679005c0) |
+| Sat, 11 Apr 2026 05:31:09 GMT | Ethical Hacking Course in Delhi Fees -The Honest Breakdown Nobody Gives You | Varun Papnai | [Read More](https://medium.com/p/2385daf76baf) |
+| Sat, 11 Apr 2026 05:28:40 GMT | Pentester Recon 03 Write Up | Robert Nyinge | [Read More](https://medium.com/p/4336e9266912) |
+| Sat, 11 Apr 2026 05:24:22 GMT | Best Security Guard Agency: How to Choose the Right Protection for Your Needs | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/55a07725c8f2) |
+| Sat, 11 Apr 2026 05:18:11 GMT | How to Use Security Command Center in 2026 to Detect AI and Cloud Risks Before They Become… | Aleksei Aleinikov | [Read More](https://medium.com/p/62331c391b6b) |
+| Sat, 11 Apr 2026 05:13:20 GMT | **Finding Reliable CCTV Installation in Sirsa: My Experience & Research** | Baxbyenterpriseindia | [Read More](https://medium.com/p/579332f8bd28) |
+| Sat, 11 Apr 2026 05:12:45 GMT | Pentester Labs Recon 02 Writeup | Robert Nyinge | [Read More](https://medium.com/p/45bd506cd5e8) |
 | Sat, 11 Apr 2026 04:48:41 GMT | The New Cyber Battlefield: | Sanjaya Kumar | [Read More](https://medium.com/p/51684e209545) |
 | Sat, 11 Apr 2026 04:47:38 GMT | The Rise of AI in Cyber Attacks (and Defense) | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/a3b91fbca86c) |
 | Sat, 11 Apr 2026 04:39:43 GMT | Scan Your Codebase for Mythos-Class Vulnerabilities in 5 Minutes | Jeremie Strand | [Read More](https://medium.com/p/19075ebdd419) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 10 Apr 2026 20:22:16 GMT | From Data Decoding to Privilege Escalation: OverTheWire Bandit (Levels 11–22) | Ahmed Eldkrory | [Read More](https://medium.com/p/96b64771b33c) |
 | Fri, 10 Apr 2026 20:21:43 GMT | When Login Features Become OSINT Signals: Leveraging Authentication Flows for Data Enrichment | Horus | [Read More](https://medium.com/p/c972af2c4d5a) |
 | Fri, 10 Apr 2026 20:21:35 GMT | My Journey into Cybersecurity — Ankit Kumar Paswan | Ankit Kumar Paswan | [Read More](https://medium.com/p/cd6e8ff62e89) |
-| Fri, 10 Apr 2026 20:18:26 GMT | Stop Paying for Noise: A Smarter Way to Handle AWS VPC Flow Logs in Microsoft Sentinel | Shamith S | [Read More](https://medium.com/p/b500eb1450b7) |
-| Fri, 10 Apr 2026 20:16:42 GMT | Cybersecurity and trust in India’s digital finance growth | RAM PRASATH | [Read More](https://medium.com/p/3433277d8524) |
-| Fri, 10 Apr 2026 20:05:07 GMT | Do You Need to Be a Good Developer to Become a Great Cybersecurity Engineer? | Bridget | [Read More](https://medium.com/p/3c8361be4a83) |
-| Fri, 10 Apr 2026 19:29:24 GMT | SOC Journey — Lab 7: Windows Registry Basics | Hemaprasadpotnuru | [Read More](https://medium.com/p/f5ea055d2de5) |
-| Fri, 10 Apr 2026 19:25:54 GMT | Chrome just dropped a game-changer that makes your stolen login cookies TOTALLY worthless to… | cybrNK | [Read More](https://medium.com/p/be7ec7e37f3a) |
-| Fri, 10 Apr 2026 19:16:40 GMT | Anthropic Claude Mythos Will Break Vulnerability Management | Matthew.Rosenquist | [Read More](https://medium.com/p/079869e35888) |
-| Fri, 10 Apr 2026 19:11:43 GMT | What’s Mythos and what can it do | YAROCELIS.eth - Tech Trends | [Read More](https://medium.com/p/5bb98892b105) |
-| Fri, 10 Apr 2026 19:06:22 GMT | (Day-5) Understanding Subnet & Subnetting Without the Headache | Priyesh Patware | [Read More](https://medium.com/p/f8742775fee3) |
-| Fri, 10 Apr 2026 18:58:36 GMT | Your LangSmith Traces Are Not an Audit Trail | Ramon Galego | [Read More](https://medium.com/p/a5e3f1974327) |
-| Fri, 10 Apr 2026 18:57:34 GMT | Mythic C2 Server — 103 | Miraç Küçük | [Read More](https://medium.com/p/6b5e216bf74a) |
-| Fri, 10 Apr 2026 18:56:05 GMT | Mystic C2 Server — 102 (TR) | Miraç Küçük | [Read More](https://medium.com/p/e6a40161b207) |
-| Fri, 10 Apr 2026 18:51:45 GMT | Warning: Adobe Reader Zero-Day Exploit | Cybersectoworld | [Read More](https://medium.com/p/e07eca788f91) |
-| Fri, 10 Apr 2026 18:51:13 GMT | Day 18: The Invisible Attack Surface — Mastering API Security | Ndu | [Read More](https://medium.com/p/de2ee6c6f336) |
-| Fri, 10 Apr 2026 18:50:53 GMT | Day 17: Fortifying the Code — Architectural Defenses Against Web Application Attacks | Ndu | [Read More](https://medium.com/p/4631c5f39c6d) |
-| Fri, 10 Apr 2026 18:50:28 GMT | How FHE and Fhenix Can Mitigate the Risk of Quantum Computing in Web3 | Azeez Abidoye | [Read More](https://medium.com/p/a3a045e2f464) |
-| Fri, 10 Apr 2026 18:23:15 GMT | PicoCTF Challenge Writeup— Blame Game | Aman Barolia | [Read More](https://medium.com/p/ab4076ecd3f2) |
-| Fri, 10 Apr 2026 18:20:54 GMT | How to Lock WhatsApp Without Any App (3 Easy Methods 2026) | Manish Sharma | [Read More](https://medium.com/p/29267ff55b41) |
-| Fri, 10 Apr 2026 18:09:03 GMT | The AI That Found Zero-Days in Every OS — And Why You’ll Never Get Access to It | Muhammad Qayyum | [Read More](https://medium.com/p/16f1eaeb70cf) |
