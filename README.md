@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 16:31:01 GMT | ⚙️ 06. — User ID Controlled by Request Parameter — Unpredictable User IDs | The4v1 | [Read More](https://medium.com/p/36deddeeb93f) |
+| Sat, 11 Apr 2026 16:25:42 GMT | The GraphQL Goldmine: Why You Should Test Every Single Query for Broken Access Control | BelScarabX | [Read More](https://medium.com/p/44253dbc3b28) |
+| Sat, 11 Apr 2026 16:25:28 GMT | Willow (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/95457bfe74ba) |
+| Sat, 11 Apr 2026 16:22:08 GMT | Can Cyber Deterrence Be Achieved? | Ziya Gokalp | [Read More](https://medium.com/p/3c487e05f04a) |
+| Sat, 11 Apr 2026 16:21:27 GMT | Tricky Tunnels - WebVerse | 7s26Simon | [Read More](https://medium.com/p/497f9a9aae40) |
+| Sat, 11 Apr 2026 16:11:01 GMT | ⚙️ 05. — User ID Controlled by Request Parameter | The4v1 | [Read More](https://medium.com/p/b59c5179e44e) |
+| Sat, 11 Apr 2026 16:09:35 GMT | Bug Finder AI की Hacker Generator? MYTHOS चं खतरनाक सत्य! | Sanjiwani kandekar | [Read More](https://medium.com/p/c4363d7b815f) |
+| Sat, 11 Apr 2026 16:07:28 GMT | The Number That Ends the Conversation | Yuzuriha August | [Read More](https://medium.com/p/1ec2c9dc0de5) |
+| Sat, 11 Apr 2026 16:04:47 GMT | Passwords in 2026? We’re Done With That. | NMA iT Service | [Read More](https://medium.com/p/def1f6d5bda5) |
+| Sat, 11 Apr 2026 15:56:07 GMT | Mythos- Anthropic model.. | Nazeer | [Read More](https://medium.com/p/337e5eb99e33) |
 | Sat, 11 Apr 2026 15:52:48 GMT | Ghost-guard: Protect node_modules against Malware and Hook HijackingYour npm install is Lying to You | Rohan Singh | [Read More](https://medium.com/p/3f5d40f716ab) |
 | Sat, 11 Apr 2026 15:51:55 GMT | Understanding PCAPNG Files in Wireshark | Binyamin zahid | [Read More](https://medium.com/p/d5e74e92d064) |
 | Sat, 11 Apr 2026 15:51:01 GMT | ⚙️ 04. — User Role Modified in User Profile | The4v1 | [Read More](https://medium.com/p/a17ff6a0e142) |
@@ -45,6 +55,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Apr 2026 14:31:01 GMT | Access Control Vulnerabilities | The4v1 | [Read More](https://medium.com/p/cbbddddbe834) |
 | Sat, 11 Apr 2026 14:25:43 GMT | Netcat: The Swiss Army Knife of Networking | Sarah Qym | [Read More](https://medium.com/p/2e060a3cb0d9) |
 | Sat, 11 Apr 2026 14:23:49 GMT | COM Hijacking & Fileless Persistence: What Defenders Need to Know | unknown_user43 | [Read More](https://medium.com/p/c3a2fd7fd3c6) |
+| Sat, 11 Apr 2026 14:23:17 GMT | Berpikir Terlebih Dahulu | Anayah Hanifah Elsyaf | [Read More](https://medium.com/p/daa86d5bc5ff) |
 | Sat, 11 Apr 2026 14:21:19 GMT | My API Firewall Now Remembers Every Attacker and Gets Smarter Over Time | Tanubhavj | [Read More](https://medium.com/p/14fcda48c13d) |
 | Sat, 11 Apr 2026 14:19:05 GMT | Dark Seoul: The Day 32,000 Computers Failed at the Same Moment | Moksh45 | [Read More](https://medium.com/p/63f9e5bee4c2) |
 | Sat, 11 Apr 2026 14:16:30 GMT | Anthropic’s New AI Just Hacked Its Way Out of Jail (And They’re Too Scared to Release It) | Ayush Soni | [Read More](https://medium.com/p/fab3fa555116) |
@@ -102,14 +113,3 @@ I got tired of false positives. | Mirmahmood | [Read More](https://medium.com/p/
 | Sat, 11 Apr 2026 10:32:35 GMT | I Searched for an Ethical Hacking Course in West Delhi for 3 Weeks -Here’s Everything I Learned | Varun Papnai | [Read More](https://medium.com/p/d6d308ce4d88) |
 | Sat, 11 Apr 2026 10:32:17 GMT | Your TOTP Authenticator Doesn’t Need to be 500MB: Building a Minimalist Vault for the Terminal | Josh Klein | [Read More](https://medium.com/p/0a54a577d889) |
 | Sat, 11 Apr 2026 10:28:41 GMT | I Accidentally Deleted My Kali Linux Partition | oldman | [Read More](https://medium.com/p/84503d027dfa) |
-| Sat, 11 Apr 2026 10:23:51 GMT | Cybersecurity in the Corporate World: A Practical Guide to Risk, Resilience, and Strategy | Hemant Kolhe | [Read More](https://medium.com/p/a4fb9f2abd94) |
-| Sat, 11 Apr 2026 10:22:27 GMT | Day-1 Solving XSS lab | zero_day | [Read More](https://medium.com/p/c778d934dc6a) |
-| Sat, 11 Apr 2026 10:16:03 GMT | Cyber security course in Kerala with real training | aryananda | [Read More](https://medium.com/p/4852feb56199) |
-| Sat, 11 Apr 2026 10:15:33 GMT | The Art of Self-Mutating Malware | Excalibra | [Read More](https://medium.com/p/5ebfe70a2324) |
-| Sat, 11 Apr 2026 10:12:21 GMT | Frida Gadget: Executing Frida Without Root | Pablo Ajo | [Read More](https://medium.com/p/667bc952d33d) |
-| Sat, 11 Apr 2026 10:07:01 GMT | Gods Eye: The Reconnaissance Tool I Wish I Had 5 Years Ago | Novus Aegis Ai | [Read More](https://medium.com/p/baf932cc56e3) |
-| Sat, 11 Apr 2026 10:04:59 GMT | Recon Pro: Building an Enterprise-Grade Web Reconnaissance Platform From Scratch | Novus Aegis Ai | [Read More](https://medium.com/p/c189025da790) |
-| Sat, 11 Apr 2026 10:03:52 GMT | How to Know if Your AI Chatbot Is Safe and Reliable: A Practical Evaluation Framework | Dazielle | [Read More](https://medium.com/p/d16087c00691) |
-| Sat, 11 Apr 2026 10:02:11 GMT | How to Install Splunk Enterprise in Under 15 Minutes — And What to Do the Moment You Log In | Shewag Bhattarai | [Read More](https://medium.com/p/ec18c5ef941c) |
-| Sat, 11 Apr 2026 09:59:14 GMT | The Symmetry of Recon: Active vs. Passive Discovery in Bug Bounty | Eugene Softley (softsec) | [Read More](https://medium.com/p/b0fef136783d) |
-| Sat, 11 Apr 2026 09:53:08 GMT | Shükir, Rahmet | Meeem | [Read More](https://medium.com/p/9c9567cfa753) |
