@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 11 Apr 2026 18:46:09 GMT | HackSmarter Foundations of Web App Pentesting Capstone | Liam smydo | [Read More](https://medium.com/p/08ff516bf61e) |
+| Sat, 11 Apr 2026 18:37:36 GMT | Rest = Satisfaction | Saugatkhanal | [Read More](https://medium.com/p/42461cca3fd3) |
+| Sat, 11 Apr 2026 18:35:23 GMT | The Biology of Silicon: Why Python is Choking Modern Bioinformatics and How Rust/C++ Will Save It | Funcybot | [Read More](https://medium.com/p/db9eb3115933) |
+| Sat, 11 Apr 2026 18:27:00 GMT | What Signal Erased, iOS Preserved | David Lee | [Read More](https://medium.com/p/d3b1763d760b) |
+| Sat, 11 Apr 2026 18:25:10 GMT | I guarantee this system won’t let you fake certifications anymore. | Akshat Chaudhary | [Read More](https://medium.com/p/b1d829567ae6) |
+| Sat, 11 Apr 2026 18:22:48 GMT | Cloud SOC Honeypot in Azure Part 2: Investigation and Attack Simulation | Couragetikum | [Read More](https://medium.com/p/c1b953cbda6d) |
+| Sat, 11 Apr 2026 18:18:41 GMT | The Triple Shield Strategy: Building a Hybrid Security Pipeline with Snyk, Nuclei, and MobSF | Ahmdaldys | [Read More](https://medium.com/p/42ae9c98d0e7) |
+| Sat, 11 Apr 2026 18:18:28 GMT | Building a VSCode Extension That Detects Hardcoded Secrets — End to End | Adred | [Read More](https://medium.com/p/ed56477cbd55) |
+| Sat, 11 Apr 2026 18:17:30 GMT | “The Backend Security Stack I Use to Protect Real Applications” | Sanskar Kolte | [Read More](https://medium.com/p/f17ed08b2a2a) |
+| Sat, 11 Apr 2026 18:15:33 GMT | Hacker Claims Massive Breach of Chinese Supercomputer, Exposing 10 Petabytes of Defense Data | HILAL AHMAD KHAN | [Read More](https://medium.com/p/e14290ae0a01) |
+| Sat, 11 Apr 2026 18:14:33 GMT | IP Camera FTP Cloud Storage for Hikvision, Dahua and Reolink | Wajdim | [Read More](https://medium.com/p/9612b99e986f) |
+| Sat, 11 Apr 2026 18:11:51 GMT | How One Configuration Change Took Down the Internet: The Facebook Outage | Satya Swarup | [Read More](https://medium.com/p/6d9802179f96) |
+| Sat, 11 Apr 2026 18:09:09 GMT | Her Eğitim Aşamasındaki Saldırı Yüzey Analizi | Gokhan TATAR | [Read More](https://medium.com/p/90f53ba37add) |
+| Sat, 11 Apr 2026 18:05:11 GMT | Ha0ker is the online identity of Gagandeep Singh, a professional ethical hacker and bug bounty… | reseracher | [Read More](https://medium.com/p/48a8f82da752) |
+| Sat, 11 Apr 2026 17:32:45 GMT | Offsec “Katana” writeup | sabR | [Read More](https://medium.com/p/1c2052cd7380) |
 | Sat, 11 Apr 2026 17:20:06 GMT | What is an IP Address in Computer Networking? | Anjali Kashyap | [Read More](https://medium.com/p/8b18bf2481cf) |
 | Sat, 11 Apr 2026 17:19:35 GMT | Shell Shocked: Achieving RCE via OS Command Injection in a Stock Checker | Sahil | [Read More](https://medium.com/p/e3fdfc1595ae) |
 | Sat, 11 Apr 2026 17:13:39 GMT | RAID Types and Uses — aarononit.blogspot.com | Aaron DeJong | [Read More](https://medium.com/p/95617a8cd368) |
@@ -61,6 +76,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Apr 2026 14:58:21 GMT | Be Careful: Third-Party Libraries Can Compromise Your App’s Obfuscation | Mehdi Feki | [Read More](https://medium.com/p/1e6b02739eda) |
 | Sat, 11 Apr 2026 14:57:48 GMT | Passwordless Authn, Authz for non-human identities | Sourav Kumar | [Read More](https://medium.com/p/07e7133c3f1d) |
 | Sat, 11 Apr 2026 14:51:01 GMT | ⚙️ 01. — Unprotected Admin Functionality | The4v1 | [Read More](https://medium.com/p/705a0a89cffe) |
+| Sat, 11 Apr 2026 14:47:13 GMT | Phishing Mengurai Taktik Penyamaran Attacker untuk mengambil alih Akun | Aris Haryanto | [Read More](https://medium.com/p/82e7569df7b9) |
 | Sat, 11 Apr 2026 14:44:50 GMT | PicoCTF : ABSOLUTE NANO | Utsav Thakur | [Read More](https://medium.com/p/0bc98ce2bc4d) |
 | Sat, 11 Apr 2026 14:40:47 GMT | The Five Rings of Cyber Security | Sam Itztli | [Read More](https://medium.com/p/75d6cabafa5f) |
 | Sat, 11 Apr 2026 14:39:10 GMT | How Platforms Know It’s Still You: A Technical Breakdown of Multi-Account Detection | Dion Esq. | [Read More](https://medium.com/p/42cf21a7f335) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Apr 2026 12:24:07 GMT | ️ API Pentesting Mastery Series - Part 2: Deep Dive into the OWASP API Top 10 (2019) ️ | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/2110e3b0f1ba) |
 | Sat, 11 Apr 2026 12:23:41 GMT | When You Can No Longer Trust a Voice or a Face You Recognize | Dr Mehmet Yildiz | [Read More](https://medium.com/p/b650affb7890) |
 | Sat, 11 Apr 2026 12:21:13 GMT | Day 23: Baselines, Anomalies, & Normal Behaviour | Siddhesh Patil | [Read More](https://medium.com/p/ff0cc5d88235) |
-| Sat, 11 Apr 2026 12:20:35 GMT | Write-Up: Smag Grotto | Felix Schoenitz | [Read More](https://medium.com/p/5f54e7d1515b) |
-| Sat, 11 Apr 2026 12:11:01 GMT | What I learned about real-world office setups from a simple networking lab | Zainab Akinlawon | [Read More](https://medium.com/p/d7a2c2f50196) |
-| Sat, 11 Apr 2026 12:08:44 GMT | Cyber Security Course in Hyderabad | Molletibalu | [Read More](https://medium.com/p/6caedd0571f3) |
-| Sat, 11 Apr 2026 12:08:01 GMT | Bypassing Zscaler — How to Navigate the Web Unseen | Indranil Roy | [Read More](https://medium.com/p/aaac3edcb0e2) |
-| Sat, 11 Apr 2026 12:07:18 GMT | Ntech Global Solutions — Complete Overview of Courses, Training, Placement & Career Growth | Ntech Global Solutions | [Read More](https://medium.com/p/beac59d71404) |
-| Sat, 11 Apr 2026 12:01:19 GMT | How an Alleged 10 Petabyte Hack Hit a Chinese Supercomputer | David SEHYEON Baek | [Read More](https://medium.com/p/993512f5952f) |
-| Sat, 11 Apr 2026 12:01:01 GMT | I Think I’m Just Scared: Letting the Heart Move | The Spiritual Big Brother | [Read More](https://medium.com/p/f52f1eac3848) |
-| Sat, 11 Apr 2026 11:59:02 GMT | Ethical Hacking Course and Cyber Security Certification: A Complete Career Roadmap | logging security | [Read More](https://medium.com/p/56975a7a1329) |
-| Sat, 11 Apr 2026 11:46:56 GMT | Reflected XSS into attribute with angle brackets HTML-encoded | PRiTi.EX | [Read More](https://medium.com/p/72d4ea580f83) |
-| Sat, 11 Apr 2026 11:34:45 GMT | Brené Brown: The Algorithms Have Forced Us Into A Hidden Epidemic, This Is The Only Way Out! | Dzaskia | [Read More](https://medium.com/p/f8e2b195452a) |
-| Sat, 11 Apr 2026 11:34:42 GMT | Inflating Kick.com Viewer Counts: How a Hardcoded Token Broke an Entire Platform | Sarper AVCI | [Read More](https://medium.com/p/599a64816f25) |
-| Sat, 11 Apr 2026 11:26:35 GMT | Claude Mythos: The Model That Quietly Broke Cybersecurity Assumptions | Bikram Sarkar | [Read More](https://medium.com/p/33ce2f4d5b5a) |
-| Sat, 11 Apr 2026 11:17:39 GMT | From a Cold LinkedIn DM to Finding Real Bugs: My First Cybersecurity Internship Experience. | Mayank Kumar | [Read More](https://medium.com/p/4bfce3785a66) |
-| Sat, 11 Apr 2026 11:10:54 GMT | 9 Essential Benefits of Executive Protection Security for VIP Client Safety | The Safety Perspective | [Read More](https://medium.com/p/6160fe6d4fbd) |
-| Sat, 11 Apr 2026 11:10:37 GMT | Metasploitable 2 Full walkthrough :- A Complete Step-by-Step Guide | Chandan | [Read More](https://medium.com/p/b733f7c3d1a1) |
-| Sat, 11 Apr 2026 11:04:15 GMT | A New Layer of Protection: Google Introduces Device Bound Sessions in Chrome | Jas | [Read More](https://medium.com/p/e87eb320e3ee) |
