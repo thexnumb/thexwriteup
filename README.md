@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 15:00:52 GMT | Anthropic’s Claude Mythos Cybersecurity Circus | Anatol Wegner | [Read More](https://medium.com/p/23284eb1fab7) |
+| Sun, 12 Apr 2026 14:59:09 GMT | Forget Hallucination: What if AI Deceives You? | Sudi Navile | [Read More](https://medium.com/p/6e323fdbbaa3) |
+| Sun, 12 Apr 2026 14:55:45 GMT | IoT Project — Smart Cat Feeder Otomatis Berbasis ESP32 dan Telegram | Dzaki Ainur Ridho | [Read More](https://medium.com/p/da68c2f7a370) |
+| Sun, 12 Apr 2026 14:44:53 GMT | The “Skynet” Moment: Why Anthropic’s Mythos Just Triggered a Wall Street Bloodbath | Frais1 | [Read More](https://medium.com/p/71c4a2ca310c) |
+| Sun, 12 Apr 2026 14:39:09 GMT | BREAKING: Unprecedented Cyberattack Claims Against Dubai’s Critical Infrastructure | Idris Awad | [Read More](https://medium.com/p/9b53b4f5067e) |
+| Sun, 12 Apr 2026 14:38:47 GMT | Struktur Data : Sorting | Nabilla Paraswati | [Read More](https://medium.com/p/6cc889f8c479) |
+| Sun, 12 Apr 2026 14:37:19 GMT | ChatGPT in Indian Offices – 3 Compliance Nightmares Nobody Is Taking Seriously | Aaditya Mathur | [Read More](https://medium.com/p/c02c819e5f8f) |
+| Sun, 12 Apr 2026 14:37:02 GMT | Async RAT Malware: A Dual Comprehensive Malware Analysis & Threat Intelligence Report | Aisha B. B | [Read More](https://medium.com/p/b31727a2f5ab) |
+| Sun, 12 Apr 2026 14:34:20 GMT | Three Clocks Are Ticking. Here’s What We Signed. | kivumia | [Read More](https://medium.com/p/a4ca46e0deb1) |
+| Sun, 12 Apr 2026 14:21:26 GMT | How I Learned to Stop Worrying About Single Quotes and Break SQL Syntax ( SQL-injection ) | O iluminado_x86 | [Read More](https://medium.com/p/918cd56fbb70) |
+| Sun, 12 Apr 2026 14:18:22 GMT | Use Canonical Input Transformation to Eliminate Edge-Case Exploits | Asian Digital Hub | [Read More](https://medium.com/p/a7b4bfb731e1) |
+| Sun, 12 Apr 2026 14:17:03 GMT | Detect Anomalous Requests Using Header Distribution Patterns | Asian Digital Hub | [Read More](https://medium.com/p/c142607b5ecb) |
+| Sun, 12 Apr 2026 14:14:05 GMT | Pickle Rick Çözüm Analizi: Web Uygulamalarında Güvensiz Komut Yürütme | Mevlüt Kamalı | [Read More](https://medium.com/p/ae05eacf2965) |
 | Sun, 12 Apr 2026 13:59:09 GMT | STRIDE Threat Modeling in the Real World: A Consultant’s Workflow | Arnav Vaidya | [Read More](https://medium.com/p/afc8b1c7bbf3) |
 | Sun, 12 Apr 2026 13:56:58 GMT | ConvertMyVideo (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/ea6508456a1d) |
 | Sun, 12 Apr 2026 13:56:13 GMT | I Wrote a Book About the Most Dangerous AI Ever Built. Here’s Why You Should Read It. | Yeeping | [Read More](https://medium.com/p/0a7168a1d9ac) |
@@ -99,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 08:22:57 GMT | Trend Micro Vision One XDR Platformu | Fatih Yuksektepe | [Read More](https://medium.com/p/9085c54fd538) |
 | Sun, 12 Apr 2026 08:22:05 GMT | Inside a Computer System Walkthrough (TryHackMe) | Madushan | [Read More](https://medium.com/p/b51259d40457) |
 | Sun, 12 Apr 2026 08:09:04 GMT | Exploiting LLM APIs for OS Command Injection (PortSwigger Lab Write-up) | Mukilan Baskaran | [Read More](https://medium.com/p/cb8738d8aa44) |
-| Sun, 12 Apr 2026 08:06:32 GMT | Adobe Acrobat Reader Is Under Active Attack — Here’s What You Need to Know About CVE-2026–34621 | UK Cyber Defence | [Read More](https://medium.com/p/735fe153f0e0) |
-| Sun, 12 Apr 2026 07:57:45 GMT | Compromising the Beelzebub Vulnerable Machine — Walkthrough | Oluwasemipe Aransiola | [Read More](https://medium.com/p/22273936a197) |
-| Sun, 12 Apr 2026 07:41:08 GMT | Las empresas se hackean solas, con David Soto | Heroesdelsiliciopodcast | [Read More](https://medium.com/p/98f93d375434) |
-| Sun, 12 Apr 2026 07:38:42 GMT | Secrets in Source Code: 10 Ways to Find Them (Step-by-Step Master Guide) | Very Lazy Tech | [Read More](https://medium.com/p/f071a796a653) |
-| Sun, 12 Apr 2026 07:37:42 GMT | TryHackMe Active Directory Walkthrough — Full Domain Compromise | Tusharmumbre | [Read More](https://medium.com/p/e02bb6217008) |
-| Sun, 12 Apr 2026 07:34:29 GMT | Before i die | notaslimboy | [Read More](https://medium.com/p/79a9bd4e85c5) |
-| Sun, 12 Apr 2026 07:34:14 GMT | 25+ Linux Environment Variables Every Hacker Knows (And Most Developers Ignore) | Dhanush N | [Read More](https://medium.com/p/2ea08b9459c8) |
-| Sun, 12 Apr 2026 07:29:58 GMT | Kubernetes Security from First Principles: Encryption → TLS → Authentication → RBAC | Deepakraj S | [Read More](https://medium.com/p/685fe7ea58c0) |
-| Sun, 12 Apr 2026 07:27:14 GMT | Scientists Just Solved the Problem That
-Blocked the Quantum Internet
-for Decades. | Senaaravichandran A | [Read More](https://medium.com/p/aa0958dc5e91) |
-| Sun, 12 Apr 2026 07:25:55 GMT | How I Created 20 Super-Admins in 1 Second: Exploiting a Race Condition in Querybook | Hacker MD | [Read More](https://medium.com/p/73cee916d6f9) |
-| Sun, 12 Apr 2026 07:23:17 GMT | ThreatLens: Automating IoC Detection Directly in Your Browser | Muraleekrishnan Unnithan R | [Read More](https://medium.com/p/9547e3c7defa) |
-| Sun, 12 Apr 2026 07:22:40 GMT | App using Cognito for SSO? Use this Methodology to find High Severity Issues | Rahul Singh Chauhan | [Read More](https://medium.com/p/b11a7ecfe0a1) |
-| Sun, 12 Apr 2026 07:22:32 GMT | Binary Heaven — Reverse Engineering Go Binaries, ret2libc Buffer Overflow, and PATH Hijack to Root… | Roshan Rajbanshi | [Read More](https://medium.com/p/b503dc74f415) |
