@@ -12,10 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 13:16:06 GMT | Why Your Browser Is Already a Supercomputer (And Why You’re Renting Inferior Clouds) | göktürk kahriman | [Read More](https://medium.com/p/7d1b0d9e79dd) |
+| Sun, 12 Apr 2026 13:11:01 GMT | Mr Robot VulnHubWalkthrough - 06/100 | Veetaragpatil | [Read More](https://medium.com/p/1ecdf5094e53) |
+| Sun, 12 Apr 2026 13:08:20 GMT | TeleLeak — DawgCTF 2026 Writeup | jan20 | [Read More](https://medium.com/p/a5805e35287e) |
+| Sun, 12 Apr 2026 13:08:07 GMT | SOC-Challenge-Day0 | Zuhair Nashif | [Read More](https://medium.com/p/a4019b862dab) |
+| Sun, 12 Apr 2026 13:07:58 GMT | Phishing Email Analysis SOC Analyst Guide Part-4 Email Authentication. | Vaibhavrajsahu | [Read More](https://medium.com/p/1ab04c4c46c7) |
+| Sun, 12 Apr 2026 13:07:25 GMT | Why .env Is Not Enough for Secret Management | YASUO / JP | [Read More](https://medium.com/p/b3aacb265a4a) |
+| Sun, 12 Apr 2026 12:58:09 GMT | Understanding Open Redirection Vulnerability: Risks, Exploitation & Prevention | Mayank Chhabra | [Read More](https://medium.com/p/3d5398bbbfbb) |
+| Sun, 12 Apr 2026 12:52:51 GMT | Complete Guide to API Penetration Testing (Beginner to Pro) - Kidnapshadow✨ | Kidnapshadow | [Read More](https://medium.com/p/1cf316f65c07) |
+| Sun, 12 Apr 2026 12:50:23 GMT | OAuth 2.0 & OpenID Connect (OIDC): Where Most People Get It Wrong | Yusuf Isiaq | [Read More](https://medium.com/p/c4ebe7d0c6ab) |
+| Sun, 12 Apr 2026 12:48:38 GMT | GLITCH — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/5bb69f989afb) |
+| Sun, 12 Apr 2026 12:43:04 GMT | Why is France Unsafe? | Alicia Y. | [Read More](https://medium.com/p/ce93818f1416) |
+| Sun, 12 Apr 2026 12:38:39 GMT | Shared Secrets — picoCTF Writeup (Diffie-Hellman Broken Explained) | mayhack | [Read More](https://medium.com/p/5a335426cf5d) |
+| Sun, 12 Apr 2026 12:36:57 GMT | Break Razzify Challenge 46 Writeup | mayhack | [Read More](https://medium.com/p/9952d83fee72) |
+| Sun, 12 Apr 2026 11:51:18 GMT | Cybersecurity High Demand Specialization Areas in 2026 | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/fe586a7fae0f) |
 | Sun, 12 Apr 2026 11:43:54 GMT | What is EternalBlue in Advanced Cybersecurity? | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/2c800e498975) |
 | Sun, 12 Apr 2026 11:29:50 GMT | How a Simple IDOR Earned Me a $10000+ Bounty | Sachin Aneja | [Read More](https://medium.com/p/fa6fb9b53263) |
 | Sun, 12 Apr 2026 11:23:48 GMT | The Real Security Problem With AI Agents Is Not the Model. It’s Everything Around It | ABV | [Read More](https://medium.com/p/0e6d5bda75d4) |
 | Sun, 12 Apr 2026 11:21:48 GMT | Iran-Linked Hackers Target Microsoft 365 with Password Spraying Attacks in 2026 | Bene | [Read More](https://medium.com/p/6c8c9417cd32) |
+| Sun, 12 Apr 2026 11:21:17 GMT | 28bet rút tiền có nhanh không? Những bước chuẩn bị để giao dịch suôn sẻ hơn | 報數十一員 | [Read More](https://medium.com/p/6ac886a0cdda) |
 | Sun, 12 Apr 2026 11:21:01 GMT | The Illusion of the Perimeter: Why Your Biggest Risk Lives in Your Supply Chain | Stephen Adanson Roque | [Read More](https://medium.com/p/403e54ebddc7) |
 | Sun, 12 Apr 2026 11:20:34 GMT | SSRF Attack — When the Server Becomes the Attacker - CAISD | CAISD | [Read More](https://medium.com/p/6eca4e5530c9) |
 | Sun, 12 Apr 2026 11:18:50 GMT | Comprehensive Login Page Security Testing: A Practical Guide for Pentesters | Sanskriti | [Read More](https://medium.com/p/e1bc00833c8e) |
@@ -99,18 +114,3 @@ for Decades. | Senaaravichandran A | [Read More](https://medium.com/p/aa0958dc5e
 | Sun, 12 Apr 2026 06:48:53 GMT | Linux User Lifecycle Management: Account Types, Password Expiry & Security Best Practices | Rupesh Sharma | [Read More](https://medium.com/p/0fc50b3e5d8e) |
 | Sun, 12 Apr 2026 06:36:44 GMT | The Subdomain That Never Died | Fateyaly | [Read More](https://medium.com/p/57416de381a7) |
 | Sun, 12 Apr 2026 06:36:01 GMT | DOM XSS in jQuery selector sink using a hashchange event — Beginner Friendly + Practical Exploit | PRiTi.EX | [Read More](https://medium.com/p/88b8db3c00d7) |
-| Sun, 12 Apr 2026 06:32:09 GMT | The Hidden Cost of Using Uncertified AI Chatbots in Business | Dazielle | [Read More](https://medium.com/p/b290948710e7) |
-| Sun, 12 Apr 2026 06:31:37 GMT | Claude Code Skills for OWASP Top 10 | Yogendra Sisodia | [Read More](https://medium.com/p/7b4b4bfe9b82) |
-| Sun, 12 Apr 2026 06:31:01 GMT | Efficient User Deprovisioning in Microsoft Entra ID via CSV Files. | Railsdevabam | [Read More](https://medium.com/p/df532f7ad4bd) |
-| Sun, 12 Apr 2026 06:29:17 GMT | When Old Technology Becomes a Modern Threat: The Lebanon Pager Attack | Amanuzzaman M | [Read More](https://medium.com/p/e1f043e85b2e) |
-| Sun, 12 Apr 2026 06:28:18 GMT | I got tired of “private” key generators that require a server upload, so I built my own. | T00LZ | [Read More](https://medium.com/p/78d54c4dd36d) |
-| Sun, 12 Apr 2026 06:12:38 GMT | Why Cybersecurity isn’t just an option anymore? | Pallavi Raj | [Read More](https://medium.com/p/7088e97c0262) |
-| Sun, 12 Apr 2026 06:09:46 GMT | Your AI App Isn’t Secure. Here’s What You’re Missing | Varsha Ojha | [Read More](https://medium.com/p/c0758fda0665) |
-| Sun, 12 Apr 2026 06:08:16 GMT | Breaking the Confusion: What Cyber Assets Are Attacked, How Attacks Work, and How Defense Responds | Sami ST | [Read More](https://medium.com/p/b69a8aeb0cbb) |
-| Sun, 12 Apr 2026 06:05:52 GMT | What Makes Anthropic’s Mythos So Good at Cybersecurity? | Kaynat Muzaffar | [Read More](https://medium.com/p/6681f6cb3d35) |
-| Sun, 12 Apr 2026 06:01:57 GMT | How hackers actually hack you! | Abhishek Kumar Maury | [Read More](https://medium.com/p/d190751f5f15) |
-| Sun, 12 Apr 2026 06:01:09 GMT | Why Your DevSecOps Pipeline Is Blind to Real Threats (And How ML-Based Anomaly Detection Fixes It) | Nihal Singh | [Read More](https://medium.com/p/1db55e64bd6a) |
-| Sun, 12 Apr 2026 05:58:55 GMT | Token Maxing: When AI Metrics Incentivize the Wrong Work | Ellen Mahloy | [Read More](https://medium.com/p/866a63525267) |
-| Sun, 12 Apr 2026 05:51:57 GMT | The Night I Simulated a Security Breach at OpenAI | Idea Drift | [Read More](https://medium.com/p/09c572e2a8c9) |
-| Sun, 12 Apr 2026 05:46:27 GMT | The Audacity of the Heart | Neha | [Read More](https://medium.com/p/45dd7ff9ce06) |
-| Sun, 12 Apr 2026 05:44:18 GMT | Strategic Perspective for IT Executives: | Satish Jha | [Read More](https://medium.com/p/99fb91579536) |
