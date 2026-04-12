@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 11:43:54 GMT | What is EternalBlue in Advanced Cybersecurity? | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/2c800e498975) |
+| Sun, 12 Apr 2026 11:29:50 GMT | How a Simple IDOR Earned Me a $10000+ Bounty | Sachin Aneja | [Read More](https://medium.com/p/fa6fb9b53263) |
+| Sun, 12 Apr 2026 11:23:48 GMT | The Real Security Problem With AI Agents Is Not the Model. It’s Everything Around It | ABV | [Read More](https://medium.com/p/0e6d5bda75d4) |
+| Sun, 12 Apr 2026 11:21:48 GMT | Iran-Linked Hackers Target Microsoft 365 with Password Spraying Attacks in 2026 | Bene | [Read More](https://medium.com/p/6c8c9417cd32) |
+| Sun, 12 Apr 2026 11:21:01 GMT | The Illusion of the Perimeter: Why Your Biggest Risk Lives in Your Supply Chain | Stephen Adanson Roque | [Read More](https://medium.com/p/403e54ebddc7) |
+| Sun, 12 Apr 2026 11:20:34 GMT | SSRF Attack — When the Server Becomes the Attacker - CAISD | CAISD | [Read More](https://medium.com/p/6eca4e5530c9) |
+| Sun, 12 Apr 2026 11:18:50 GMT | Comprehensive Login Page Security Testing: A Practical Guide for Pentesters | Sanskriti | [Read More](https://medium.com/p/e1bc00833c8e) |
+| Sun, 12 Apr 2026 11:18:21 GMT | SOC (Day 3)- Log Analysis — Compromised WordPress | Adithya Hettiarachchi | [Read More](https://medium.com/p/3d6e9da43244) |
+| Sun, 12 Apr 2026 11:06:53 GMT | Employee of the year — Blue Team Labs Online (Forensics Challenge) | Aung Kaung Moe | [Read More](https://medium.com/p/6f6e42095165) |
+| Sun, 12 Apr 2026 11:00:53 GMT | Inside the Rockstar Games Breach: How ShinyHunters Exploited a Hidden Third-Party Weakness | Rishit Goel | [Read More](https://medium.com/p/da05cd60c2c5) |
 | Sun, 12 Apr 2026 10:57:42 GMT | 45 days Python training summer internship with practical training | cyber security Updates | [Read More](https://medium.com/p/95821aeb6f63) |
 | Sun, 12 Apr 2026 10:55:57 GMT | How to Hack a Country: A Research Overview of the Vectors Used to Destabilize Nations | Guillermo Pineda | [Read More](https://medium.com/p/8831aafcfd43) |
 | Sun, 12 Apr 2026 10:51:22 GMT | Claude Mythos Might Break Cybersecurity. But Not in the Way You Think. | Ricardo Garcês | [Read More](https://medium.com/p/d5c64ecbbd3b) |
@@ -104,13 +114,3 @@ for Decades. | Senaaravichandran A | [Read More](https://medium.com/p/aa0958dc5e
 | Sun, 12 Apr 2026 05:51:57 GMT | The Night I Simulated a Security Breach at OpenAI | Idea Drift | [Read More](https://medium.com/p/09c572e2a8c9) |
 | Sun, 12 Apr 2026 05:46:27 GMT | The Audacity of the Heart | Neha | [Read More](https://medium.com/p/45dd7ff9ce06) |
 | Sun, 12 Apr 2026 05:44:18 GMT | Strategic Perspective for IT Executives: | Satish Jha | [Read More](https://medium.com/p/99fb91579536) |
-| Sun, 12 Apr 2026 05:43:27 GMT | Broken Access Control (IDOR) — Where Most Bug Bounty Money Is Made | ghostyjoe | [Read More](https://medium.com/p/636f2926bc41) |
-| Sun, 12 Apr 2026 05:38:19 GMT | How I Started My Cybersecurity Journey | Md. Lavib Uddin Ashik | [Read More](https://medium.com/p/1c53648816ce) |
-| Sun, 12 Apr 2026 05:22:49 GMT | Agentic AI Application Memory Vulnerabilities | Dhiraj Patra | [Read More](https://medium.com/p/ab1e60fbabde) |
-| Sun, 12 Apr 2026 05:08:56 GMT | First-time CTFs are a HARSH reality check | Asmita Das | [Read More](https://medium.com/p/65bf68def189) |
-| Sun, 12 Apr 2026 05:05:20 GMT | Fix Kali Linux Freezing on Dell 7390 | codingbolt | [Read More](https://medium.com/p/ab79b8e154b2) |
-| Sun, 12 Apr 2026 05:03:26 GMT | Django Security Checklist: Protecting Your Web Application in 2026 | Sizan Mahmud | [Read More](https://medium.com/p/f2d1493913a9) |
-| Sun, 12 Apr 2026 04:50:21 GMT | Salesforce Security Model: A Layered Architecture for Precise Data Access Control | Keshav Sahani | [Read More](https://medium.com/p/fc2ba5996ae6) |
-| Sun, 12 Apr 2026 04:39:55 GMT | Top 10 Critical CVEs from March 2026 — With Learning Resources & Practical Analysis | Pradeeptadi | [Read More](https://medium.com/p/3b8077fc1647) |
-| Sun, 12 Apr 2026 04:37:58 GMT | ShareThePain - HackSmarter | Exploitforge | [Read More](https://medium.com/p/70ef35ae1eee) |
-| Sun, 12 Apr 2026 04:32:42 GMT | Your ChatGPT Just Became a Security Nightmare in 2026 — The Silent AI Risks No One Talks About | Atharv Ambade | [Read More](https://medium.com/p/3bda19420925) |
