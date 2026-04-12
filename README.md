@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 02:42:52 GMT | Anthropic Built Something and Refused to Release It. | Bhupendra Kumar Jain | [Read More](https://medium.com/p/f771b15ef428) |
+| Sun, 12 Apr 2026 02:24:03 GMT | Quantum + AI + Glasswing: The Stack That Quietly Changed Cybersecurity in April 2026 | Alfio Musumeci | [Read More](https://medium.com/p/a0530b7c9486) |
+| Sun, 12 Apr 2026 02:23:24 GMT | WHEN "NOT A VULNERABILITY" GETS PATCHED IN 72 HOURS
+By Ahmed Batayneh - March 2026
+I submitted 34… | Ahmed Batayneh | [Read More](https://medium.com/p/f7610c46f61b) |
+| Sun, 12 Apr 2026 02:19:51 GMT | WHEN "NOT A VULNERABILITY" GETS PATCHED IN 72 HOURS
+By Ahmed Batayneh - March 2026
+I submitted 34… | Ahmed Batayneh | [Read More](https://medium.com/p/309ccbeb8de0) |
+| Sun, 12 Apr 2026 02:14:11 GMT | AI और वैश्विक सुरक्षा: तकनीक कैसे दुनिया को सुरक्षित (और चुनौतीपूर्ण) बना रही है | IT Professional | [Read More](https://medium.com/p/5a6eaf044b37) |
+| Sun, 12 Apr 2026 02:02:58 GMT | PicoCTF Wrieup — Time Machine | Aman Barolia | [Read More](https://medium.com/p/d7f0e25593fc) |
+| Sun, 12 Apr 2026 02:00:25 GMT | LetsDefend: SOC335 — CVE-2024–49138 Exploitation Detected | Deandre Wilson | [Read More](https://medium.com/p/8deb99efbf9a) |
+| Sun, 12 Apr 2026 01:42:19 GMT | Thoughts from Nowhere | Digital_Griot | [Read More](https://medium.com/p/7ae3c0101d80) |
+| Sun, 12 Apr 2026 01:30:18 GMT | This is a guest writer contribution. | Audn.AI | [Read More](https://medium.com/p/9c9c64e06a2b) |
+| Sun, 12 Apr 2026 01:18:26 GMT | Comparing The Top 5 Penetration Test Companies | Emory French | [Read More](https://medium.com/p/4c16642244fa) |
+| Sun, 12 Apr 2026 01:07:58 GMT | SOC173 — Follina 0-Day Detected | Harshprajapati | [Read More](https://medium.com/p/1d110e0980b3) |
+| Sun, 12 Apr 2026 01:07:02 GMT | How Hackers Steal Credentials Without Malware, LOLBAS and Living off the Land: When Your Own Tools… | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/eeba7af70dc9) |
+| Sat, 11 Apr 2026 23:47:40 GMT | The Ghost in the Kernel: Chasing 0-Days in the Age of Mythos (2026–2046) | KindOne | [Read More](https://medium.com/p/ee4217ddc0d3) |
+| Sat, 11 Apr 2026 23:41:18 GMT | Investigating “SOC114 – Malicious Attachment Detected: A Phishing Alert” - LetsDefend Walkthrough | mubarak abdulganiy | [Read More](https://medium.com/p/87a93bd846d5) |
 | Sat, 11 Apr 2026 23:20:16 GMT | Reverse Engineering on CyberTalents: Solving All Easy Challenges Part 1 | Isv0x1 | [Read More](https://medium.com/p/60239c717edb) |
 | Sat, 11 Apr 2026 23:17:15 GMT | The Evolution of the Build — How AI is Dragging DevSecOps Out of the Dark Age | Boopaathy | [Read More](https://medium.com/p/de78ddc0c4f3) |
 | Sat, 11 Apr 2026 23:15:57 GMT | The Pressure to Be a ‘Strong Woman’ Is Breaking Us | Melissa Mc | [Read More](https://medium.com/p/631efd9345b9) |
@@ -98,17 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 11 Apr 2026 15:52:48 GMT | Ghost-guard: Protect node_modules against Malware and Hook HijackingYour npm install is Lying to You | Rohan Singh | [Read More](https://medium.com/p/3f5d40f716ab) |
 | Sat, 11 Apr 2026 15:51:55 GMT | Understanding PCAPNG Files in Wireshark | Binyamin zahid | [Read More](https://medium.com/p/d5e74e92d064) |
 | Sat, 11 Apr 2026 15:51:01 GMT | ⚙️ 04. — User Role Modified in User Profile | The4v1 | [Read More](https://medium.com/p/a17ff6a0e142) |
-| Sat, 11 Apr 2026 15:48:24 GMT | Stateless Auth Paradox: Revoking JWTs Securely | Ana Bildea, PhD | [Read More](https://medium.com/p/7fa445e069e0) |
-| Sat, 11 Apr 2026 15:47:55 GMT | I went for coffee and came back with 6 vulnerabilities in WordPress plugins | Miguel Méndez Z. | [Read More](https://medium.com/p/8f98fd40ef90) |
-| Sat, 11 Apr 2026 15:47:42 GMT | 3 Ways to Simulate MFA in Phishing Campaigns with Anglerphish | George Petropoulos | [Read More](https://medium.com/p/b9078b7a7ab3) |
-| Sat, 11 Apr 2026 15:47:17 GMT | RAG as a Data Leakage Channel: Why Embeddings Don’t Protect You | umka me | [Read More](https://medium.com/p/c4bcede3ccb4) |
-| Sat, 11 Apr 2026 15:41:58 GMT | The tragic life of KGB’s first spy hacker. (Karl Koch) | Adeline S. | [Read More](https://medium.com/p/ab21bd40c9c1) |
-| Sat, 11 Apr 2026 15:40:51 GMT | Being vulnerable | ngoTu1003 | [Read More](https://medium.com/p/0af849e4afd6) |
-| Sat, 11 Apr 2026 15:37:55 GMT | Making It Unbreakable: Monitoring, Remote Desktop, and Encrypted Backups | Kusunoki | [Read More](https://medium.com/p/bc5c7ec847c3) |
-| Sat, 11 Apr 2026 15:32:37 GMT | New Blog Site/Update | The Husky Hacker | [Read More](https://medium.com/p/485dc0541ca3) |
-| Sat, 11 Apr 2026 15:31:59 GMT | Claude Mythos Preview: The AI Model Anthropic Built But Won’t Release to the Public | Vishnu | [Read More](https://medium.com/p/9ba012877061) |
-| Sat, 11 Apr 2026 15:31:01 GMT | ⚙️ 03. — User Role Controlled by Request Parameter | The4v1 | [Read More](https://medium.com/p/e355cba6a45e) |
-| Sat, 11 Apr 2026 15:30:49 GMT | Installing the Intelligence: Nextcloud, Collabora, and Four AI Assistants in a Single Afternoon… | Kusunoki | [Read More](https://medium.com/p/81a97706b6c3) |
-| Sat, 11 Apr 2026 15:24:30 GMT | My Journey Into Infrastructure Security: From Networking Foundations to Attack Surface Intelligence | RUGERO Tesla | [Read More](https://medium.com/p/9c82e5e61fb1) |
-| Sat, 11 Apr 2026 15:21:11 GMT | How self-operating AI agents are reshaping incident management and penetration testing | sathish kumar | [Read More](https://medium.com/p/87f1b214e535) |
-| Sat, 11 Apr 2026 15:19:05 GMT | Hackers Don’t Need Your Password Anymore — They Just Need One Unsanitized Input | CAISD | [Read More](https://medium.com/p/7e8c87471070) |
