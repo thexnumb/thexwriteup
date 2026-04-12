@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 15:43:49 GMT | Lab: Insecure direct object reference | PRiTi.EX | [Read More](https://medium.com/p/a3fbeff35485) |
+| Sun, 12 Apr 2026 15:32:53 GMT | Mind the Gap: Creating Hybrid Edges with DataHound | Tom O'Neill | [Read More](https://medium.com/p/887320d4293a) |
+| Sun, 12 Apr 2026 15:20:25 GMT | Forrester just published something worth reading carefully: “Project Glasswing: The 10 Consequences… | Joshi | [Read More](https://medium.com/p/8ab3a138ddbe) |
+| Sun, 12 Apr 2026 15:19:24 GMT | Six Problems. One Voice. A Billion-Dollar Blind Spot. | Eliot Cohen Bacrie | [Read More](https://medium.com/p/00fd8078c434) |
+| Sun, 12 Apr 2026 15:18:54 GMT | Anthropic’s Latest Move Could Change Cybersecurity Forever | Dev Pandit | [Read More](https://medium.com/p/3414a0964895) |
+| Sun, 12 Apr 2026 15:16:06 GMT | An AI Model Just Found a 27-Year-Old Zero-Day in OpenBSD | Harsh Mathur | [Read More](https://medium.com/p/24f14cf80062) |
+| Sun, 12 Apr 2026 15:15:56 GMT | Cybersécurité : les 8 actualités majeures du 12 avril 2026 | Marc Barbezat | [Read More](https://medium.com/p/787bf37dbf72) |
+| Sun, 12 Apr 2026 15:13:41 GMT | Cybersecurity for Scammers | İhsan Şen | [Read More](https://medium.com/p/4cb60f7e7150) |
 | Sun, 12 Apr 2026 15:00:52 GMT | Anthropic’s Claude Mythos Cybersecurity Circus | Anatol Wegner | [Read More](https://medium.com/p/23284eb1fab7) |
 | Sun, 12 Apr 2026 14:59:09 GMT | Forget Hallucination: What if AI Deceives You? | Sudi Navile | [Read More](https://medium.com/p/6e323fdbbaa3) |
 | Sun, 12 Apr 2026 14:55:45 GMT | IoT Project — Smart Cat Feeder Otomatis Berbasis ESP32 dan Telegram | Dzaki Ainur Ridho | [Read More](https://medium.com/p/da68c2f7a370) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 08:43:34 GMT | The Digital Sovereign: Why ForbiddenGPT is the Final Frontier of AI Independence | Unknown | [Read More](https://medium.com/p/bd680b52ce4f) |
 | Sun, 12 Apr 2026 08:41:23 GMT | What Is Ciforus? A Privacy-First Platform Built Before the Token | Ciforus | [Read More](https://medium.com/p/fabc434f344d) |
 | Sun, 12 Apr 2026 08:39:24 GMT | The Forbidden Edge: Why Elite Developers are Moving to ForbiddenGPT | Aliahmad | [Read More](https://medium.com/p/5c3164ad9434) |
-| Sun, 12 Apr 2026 08:35:22 GMT | Engineering a Perimeter: My Journey Automating Threat Intelligence at Scale | Deepika Anand | [Read More](https://medium.com/p/7dec3c3261a7) |
-| Sun, 12 Apr 2026 08:33:45 GMT | The New Standard: Why ForbiddenGPT is Dominating the AI Security Market | Shadow | [Read More](https://medium.com/p/f7cedc13edca) |
-| Sun, 12 Apr 2026 08:25:27 GMT | Hardening AEM as a Cloud Service: Two Simple Fixes That Close Big Security Gaps | Shruti Damle | [Read More](https://medium.com/p/a0ab450ec681) |
-| Sun, 12 Apr 2026 08:24:58 GMT | 5 AI Prompts That Will Change How You Review Cloud Security Misconfigurations | Cyberaiprompts | [Read More](https://medium.com/p/a943bed57d57) |
-| Sun, 12 Apr 2026 08:24:05 GMT | Adobe’s New Acrobat Reader Flaw Is a Wake-Up Call: Why a Simple PDF Could Be More Dangerous Than… | Germano Costi | [Read More](https://medium.com/p/beb3bd2310cf) |
-| Sun, 12 Apr 2026 08:22:57 GMT | Trend Micro Vision One XDR Platformu | Fatih Yuksektepe | [Read More](https://medium.com/p/9085c54fd538) |
-| Sun, 12 Apr 2026 08:22:05 GMT | Inside a Computer System Walkthrough (TryHackMe) | Madushan | [Read More](https://medium.com/p/b51259d40457) |
-| Sun, 12 Apr 2026 08:09:04 GMT | Exploiting LLM APIs for OS Command Injection (PortSwigger Lab Write-up) | Mukilan Baskaran | [Read More](https://medium.com/p/cb8738d8aa44) |
