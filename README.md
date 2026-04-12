@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 17:36:01 GMT | Cybersecurity Strategies for Financial Institutions | Omer Akin | [Read More](https://medium.com/p/8baae30363c5) |
+| Sun, 12 Apr 2026 17:35:59 GMT | Logical Issue Allowed Me to Create Support Cases Instead of Organization Admin | Hamzadzworm | [Read More](https://medium.com/p/174f52eedcba) |
+| Sun, 12 Apr 2026 17:27:32 GMT | Top 12 Security Audit Software Tools for 2026 | Walletfinder Ai | [Read More](https://medium.com/p/8c9d8c9c1c3b) |
+| Sun, 12 Apr 2026 17:18:30 GMT | Broken Access Control via Replay Attack | 0xJad | [Read More](https://medium.com/p/78bd960cdc9f) |
+| Sun, 12 Apr 2026 17:07:26 GMT | Obsession Writeup Español | Us0lfr | [Read More](https://medium.com/p/3f70a164aeff) |
+| Sun, 12 Apr 2026 17:05:41 GMT | Integrating VirusTotal Malware Intelligence with Wazuh — File, IP & URL Scanning | Jigneshdekate | [Read More](https://medium.com/p/7b30d5f18686) |
+| Sun, 12 Apr 2026 17:02:54 GMT | The Death of the “Wait-and-See” Security Model: Why Your Incident Response is Already Too Late | Lior Rotkovitch | [Read More](https://medium.com/p/5eca591c619e) |
+| Sun, 12 Apr 2026 17:00:40 GMT | BrowserMon Appliance Released: Enterprise Browser Security, Hardened and Ready to Deploy | Eman Khalid | [Read More](https://medium.com/p/82e6b328419c) |
+| Sun, 12 Apr 2026 16:58:23 GMT | I Didn’t Think We Were a Target. Then I Saw What Happened to KiranaPro. | Rudratic Technologies | [Read More](https://medium.com/p/14f6a95d86a4) |
+| Sun, 12 Apr 2026 16:54:46 GMT | You Won’t Believe This Open-Source AI Remembers Your Entire Work Life | cybrNK | [Read More](https://medium.com/p/5b7e75270a8c) |
 | Sun, 12 Apr 2026 16:46:24 GMT | Introduction to DOS Header and DOS Stub (PE)- Nir(7) | 0xNirSec | [Read More](https://medium.com/p/f96cf73da7a8) |
 | Sun, 12 Apr 2026 16:43:02 GMT | Project Glasswing: Belief as a Security Strategy | evoailabs | [Read More](https://medium.com/p/a47e08baa39d) |
 | Sun, 12 Apr 2026 16:42:34 GMT | The Operations Manual for a System You Actually Own | Kusunoki | [Read More](https://medium.com/p/a0f8ca03481e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 10:07:18 GMT | TikTok Pixel Privacy Nightmare: A New Case Study | Oran F | [Read More](https://medium.com/p/3d1df415011e) |
 | Sun, 12 Apr 2026 10:04:44 GMT | The Power of Form | Haruka Matsukasa | [Read More](https://medium.com/p/a576e626f654) |
 | Sun, 12 Apr 2026 10:01:29 GMT | PortSwigger: Clickjacking Labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/dacd26f886fc) |
-| Sun, 12 Apr 2026 10:01:18 GMT | Cyber Leelawat - Tryhackme - Passive Reconnaissance | Mahesh Amale | [Read More](https://medium.com/p/ae92ac63a66c) |
-| Sun, 12 Apr 2026 10:01:02 GMT | How Mentorship Turned Uncertainty Into Job Offers | Victoria Coker | [Read More](https://medium.com/p/2363b0564af7) |
-| Sun, 12 Apr 2026 09:59:42 GMT | 5 Massive Cyber Attacks in 2026… And None of Them “Hacked” Anything | Tech Prescient | [Read More](https://medium.com/p/4d9020224c86) |
-| Sun, 12 Apr 2026 09:58:28 GMT | Unmasking Malware: A Deep Dive into Static Analysis of a Suspicious Windows Executable | Oscar1811X | [Read More](https://medium.com/p/91e8ebcc01a4) |
-| Sun, 12 Apr 2026 09:54:20 GMT | AI in Offensive Operations: How Threat Actors Use Artificial Intelligence | Andrey Pautov | [Read More](https://medium.com/p/4eaeeaf029a9) |
-| Sun, 12 Apr 2026 09:54:09 GMT | How AI Is Rewriting Cybersecurity Faster Than Defenders Can Respond | David SEHYEON Baek | [Read More](https://medium.com/p/ece62dbada6a) |
-| Sun, 12 Apr 2026 09:48:39 GMT | DocketHive - WebVerse | 7s26Simon | [Read More](https://medium.com/p/3522e5059b6b) |
-| Sun, 12 Apr 2026 09:48:25 GMT | Why Nebraska Businesses Are Rethinking Security Systems in 2026 | ASI Systems Pro | [Read More](https://medium.com/p/737ea3aaf014) |
-| Sun, 12 Apr 2026 09:46:23 GMT | Beginner Guide to XSS (Cross-Site Scripting) | Md. Lavib Uddin Ashik | [Read More](https://medium.com/p/be98127adac0) |
-| Sun, 12 Apr 2026 09:35:02 GMT | Incident Response Report: Web Application Denial of Service (DoS) | Elmir | [Read More](https://medium.com/p/5901fd91fd04) |
