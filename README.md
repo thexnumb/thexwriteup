@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 05:08:56 GMT | First-time CTFs are a HARSH reality check | Asmita Das | [Read More](https://medium.com/p/65bf68def189) |
+| Sun, 12 Apr 2026 05:05:20 GMT | Fix Kali Linux Freezing on Dell 7390 | codingbolt | [Read More](https://medium.com/p/ab79b8e154b2) |
+| Sun, 12 Apr 2026 05:03:26 GMT | Django Security Checklist: Protecting Your Web Application in 2026 | Sizan Mahmud | [Read More](https://medium.com/p/f2d1493913a9) |
+| Sun, 12 Apr 2026 04:50:21 GMT | Salesforce Security Model: A Layered Architecture for Precise Data Access Control | Keshav Sahani | [Read More](https://medium.com/p/fc2ba5996ae6) |
+| Sun, 12 Apr 2026 04:39:55 GMT | Top 10 Critical CVEs from March 2026 — With Learning Resources & Practical Analysis | Pradeeptadi | [Read More](https://medium.com/p/3b8077fc1647) |
+| Sun, 12 Apr 2026 04:37:58 GMT | ShareThePain - HackSmarter | Exploitforge | [Read More](https://medium.com/p/70ef35ae1eee) |
+| Sun, 12 Apr 2026 04:32:42 GMT | Your ChatGPT Just Became a Security Nightmare in 2026 — The Silent AI Risks No One Talks About | Atharv Ambade | [Read More](https://medium.com/p/3bda19420925) |
+| Sun, 12 Apr 2026 04:16:12 GMT | Why Bangladesh Needs Cybersecurity NOW | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/b67862ca7404) |
+| Sun, 12 Apr 2026 04:11:45 GMT | Hunting Malicious Links Delivered via Microsoft Teams: An Endpoint + Cloud Correlation Approach | CipherSecy | [Read More](https://medium.com/p/0e218c309753) |
+| Sun, 12 Apr 2026 04:07:43 GMT | I’m A GRC Engineer | grepStrength | [Read More](https://medium.com/p/a5fe3eedb4eb) |
+| Sun, 12 Apr 2026 03:55:51 GMT | Dev Day with Sam #3: CNN: Teaching Machines How to See | Nsirim Samuel Eberechi | [Read More](https://medium.com/p/a4b827f7c9e5) |
+| Sun, 12 Apr 2026 03:52:12 GMT | Facebook (Meta) 2021 Outage Case Study | Milanchahar | [Read More](https://medium.com/p/37eb43982041) |
+| Sun, 12 Apr 2026 03:31:01 GMT | The Identity Paradox: Why Zero Trust is the only shield against AI-Automated Social Engineering | Suraj Prajapati | [Read More](https://medium.com/p/c0233e06974e) |
+| Sun, 12 Apr 2026 03:21:54 GMT | 10 Books That Actually Teach You to Think Like a Threat Analyst | Paritosh | [Read More](https://medium.com/p/5c3915607506) |
+| Sun, 12 Apr 2026 02:59:08 GMT | CyberDefenders — Hafnium APT Lab Writeup | JBXSec | [Read More](https://medium.com/p/8ee3bce262cc) |
 | Sun, 12 Apr 2026 02:42:52 GMT | Anthropic Built Something and Refused to Release It. | Bhupendra Kumar Jain | [Read More](https://medium.com/p/f771b15ef428) |
 | Sun, 12 Apr 2026 02:24:03 GMT | Quantum + AI + Glasswing: The Stack That Quietly Changed Cybersecurity in April 2026 | Alfio Musumeci | [Read More](https://medium.com/p/a0530b7c9486) |
 | Sun, 12 Apr 2026 02:23:24 GMT | WHEN "NOT A VULNERABILITY" GETS PATCHED IN 72 HOURS
@@ -101,18 +116,3 @@ I submitted 34… | Ahmed Batayneh | [Read More](https://medium.com/p/309ccbeb8d
 | Sat, 11 Apr 2026 16:51:01 GMT | ⚙️ 07. — User ID controlled by request parameter with data leakage in redirect | The4v1 | [Read More](https://medium.com/p/dc6eb2b502e5) |
 | Sat, 11 Apr 2026 16:49:06 GMT | Startup Machine Walkthrough — Try Hack Me | red wolf | [Read More](https://medium.com/p/24a1dc993d3e) |
 | Sat, 11 Apr 2026 16:48:26 GMT | CCD COHORT 01 — ROOM 06 | APT-0 | [Read More](https://medium.com/p/b49008d3dc58) |
-| Sat, 11 Apr 2026 16:45:28 GMT | OpenClaw AI Tool - Next-Gen Automation Beyond ChatGPT | Pentester Club | [Read More](https://medium.com/p/1ee720f500d4) |
-| Sat, 11 Apr 2026 16:41:51 GMT | The 2026 Crypto Scam Warning List: How to Spot and Avoid Fake Platforms | MintonFin | [Read More](https://medium.com/p/acdc81f7f8ff) |
-| Sat, 11 Apr 2026 16:31:01 GMT | ⚙️ 06. — User ID Controlled by Request Parameter — Unpredictable User IDs | The4v1 | [Read More](https://medium.com/p/36deddeeb93f) |
-| Sat, 11 Apr 2026 16:25:42 GMT | The GraphQL Goldmine: Why You Should Test Every Single Query for Broken Access Control | BelScarabX | [Read More](https://medium.com/p/44253dbc3b28) |
-| Sat, 11 Apr 2026 16:25:28 GMT | Willow (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/95457bfe74ba) |
-| Sat, 11 Apr 2026 16:22:08 GMT | Can Cyber Deterrence Be Achieved? | Ziya Gokalp | [Read More](https://medium.com/p/3c487e05f04a) |
-| Sat, 11 Apr 2026 16:21:27 GMT | Tricky Tunnels - WebVerse | 7s26Simon | [Read More](https://medium.com/p/497f9a9aae40) |
-| Sat, 11 Apr 2026 16:11:01 GMT | ⚙️ 05. — User ID Controlled by Request Parameter | The4v1 | [Read More](https://medium.com/p/b59c5179e44e) |
-| Sat, 11 Apr 2026 16:09:35 GMT | Bug Finder AI की Hacker Generator? MYTHOS चं खतरनाक सत्य! | Sanjiwani kandekar | [Read More](https://medium.com/p/c4363d7b815f) |
-| Sat, 11 Apr 2026 16:07:28 GMT | The Number That Ends the Conversation | Yuzuriha August | [Read More](https://medium.com/p/1ec2c9dc0de5) |
-| Sat, 11 Apr 2026 16:04:47 GMT | Passwords in 2026? We’re Done With That. | NMA iT Service | [Read More](https://medium.com/p/def1f6d5bda5) |
-| Sat, 11 Apr 2026 15:56:07 GMT | Mythos- Anthropic model.. | Nazeer | [Read More](https://medium.com/p/337e5eb99e33) |
-| Sat, 11 Apr 2026 15:52:48 GMT | Ghost-guard: Protect node_modules against Malware and Hook HijackingYour npm install is Lying to You | Rohan Singh | [Read More](https://medium.com/p/3f5d40f716ab) |
-| Sat, 11 Apr 2026 15:51:55 GMT | Understanding PCAPNG Files in Wireshark | Binyamin zahid | [Read More](https://medium.com/p/d5e74e92d064) |
-| Sat, 11 Apr 2026 15:51:01 GMT | ⚙️ 04. — User Role Modified in User Profile | The4v1 | [Read More](https://medium.com/p/a17ff6a0e142) |
