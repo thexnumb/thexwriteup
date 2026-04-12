@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 22:28:55 GMT | CTF Pwn104 @ TryHackMe | Rafael David | [Read More](https://medium.com/p/4c94df21649e) |
+| Sun, 12 Apr 2026 22:23:12 GMT | 6 Nuances About Binauth | minherz | [Read More](https://medium.com/p/a5669b4a8774) |
+| Sun, 12 Apr 2026 22:10:14 GMT | 7 Azure Vulnerabilities Your C# Code Might Be Exposing Right Now | Emanuelle | [Read More](https://medium.com/p/16b4a7165b77) |
+| Sun, 12 Apr 2026 22:10:10 GMT | Virtual Hosts: Discovering Hidden Web Applications Beyond DNS | Mert Baykal | [Read More](https://medium.com/p/c3d8597fb0f9) |
+| Sun, 12 Apr 2026 22:06:33 GMT | Practical Vulnerability Analysis with Nessus on a Metasploitable System | Kehinde Oyewumi | [Read More](https://medium.com/p/0f3061e0b456) |
+| Sun, 12 Apr 2026 22:04:54 GMT | DNS Zone Transfers: The Silent Information Leak in DNS by Mert Baykal | Mert Baykal | [Read More](https://medium.com/p/1e645a7d640b) |
+| Sun, 12 Apr 2026 21:54:31 GMT | Reverse Engineering on CyberTalents: Solving All Easy Challenges Part 2 | Isv0x1 | [Read More](https://medium.com/p/150c092918a8) |
+| Sun, 12 Apr 2026 21:47:23 GMT | Windows OS: Everything You Need to Know | Shubham Khirwadkar | [Read More](https://medium.com/p/81d47aa16dae) |
+| Sun, 12 Apr 2026 21:42:40 GMT | The first draft is never the “one” | alanganin | [Read More](https://medium.com/p/ffd7ef315796) |
+| Sun, 12 Apr 2026 21:34:50 GMT | I Got Admission Without Paying Fees  - IIIT Sri City Payment Bypass Explained | Anudeep Vysyaraju | [Read More](https://medium.com/p/2054c2df09cd) |
+| Sun, 12 Apr 2026 21:33:32 GMT | SOC210 — Possible Brute Force Detected on VPN - LetsDefend Writeup | Rai Pereira | [Read More](https://medium.com/p/6232181bbfdc) |
+| Sun, 12 Apr 2026 21:32:44 GMT | SOC227 — Microsoft SharePoint Server Elevation of Privilege - CVE-2023–29357 - LetsDefend Writeup | Rai Pereira | [Read More](https://medium.com/p/698055a45d95) |
+| Sun, 12 Apr 2026 21:31:48 GMT | How Hackers Steal Your Passwords | SNEH.V.RANPARA | [Read More](https://medium.com/p/3d7addefb769) |
 | Sun, 12 Apr 2026 21:27:59 GMT | AI Web vs API Security: What Most Companies Get Wrong (And Why It Matters More Than Ever) | Novashield | [Read More](https://medium.com/p/2d0145077bf1) |
 | Sun, 12 Apr 2026 21:03:54 GMT | How I Bypassed Premium Subscription & Escalated Privileges Using a $0 VCC (Business Logic Flaw) | Eslam Temo | [Read More](https://medium.com/p/83a0b6515b73) |
 | Sun, 12 Apr 2026 21:02:23 GMT | Before MYTHOS Ships, Someone Has to Fix the World | Grace Ann Hansen | [Read More](https://medium.com/p/ba1022433785) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 15:13:41 GMT | Cybersecurity for Scammers | İhsan Şen | [Read More](https://medium.com/p/4cb60f7e7150) |
 | Sun, 12 Apr 2026 15:00:52 GMT | Anthropic’s Claude Mythos Cybersecurity Circus | Anatol Wegner | [Read More](https://medium.com/p/23284eb1fab7) |
 | Sun, 12 Apr 2026 14:59:09 GMT | Forget Hallucination: What if AI Deceives You? | Sudi Navile | [Read More](https://medium.com/p/6e323fdbbaa3) |
-| Sun, 12 Apr 2026 14:55:45 GMT | IoT Project — Smart Cat Feeder Otomatis Berbasis ESP32 dan Telegram | Dzaki Ainur Ridho | [Read More](https://medium.com/p/da68c2f7a370) |
-| Sun, 12 Apr 2026 14:44:53 GMT | The “Skynet” Moment: Why Anthropic’s Mythos Just Triggered a Wall Street Bloodbath | Frais1 | [Read More](https://medium.com/p/71c4a2ca310c) |
-| Sun, 12 Apr 2026 14:39:09 GMT | BREAKING: Unprecedented Cyberattack Claims Against Dubai’s Critical Infrastructure | Idris Awad | [Read More](https://medium.com/p/9b53b4f5067e) |
-| Sun, 12 Apr 2026 14:38:47 GMT | Struktur Data : Sorting | Nabilla Paraswati | [Read More](https://medium.com/p/6cc889f8c479) |
-| Sun, 12 Apr 2026 14:37:19 GMT | ChatGPT in Indian Offices – 3 Compliance Nightmares Nobody Is Taking Seriously | Aaditya Mathur | [Read More](https://medium.com/p/c02c819e5f8f) |
-| Sun, 12 Apr 2026 14:37:02 GMT | Async RAT Malware: A Dual Comprehensive Malware Analysis & Threat Intelligence Report | Aisha B. B | [Read More](https://medium.com/p/b31727a2f5ab) |
-| Sun, 12 Apr 2026 14:34:20 GMT | Three Clocks Are Ticking. Here’s What We Signed. | kivumia | [Read More](https://medium.com/p/a4ca46e0deb1) |
-| Sun, 12 Apr 2026 14:21:26 GMT | How I Learned to Stop Worrying About Single Quotes and Break SQL Syntax ( SQL-injection ) | O iluminado_x86 | [Read More](https://medium.com/p/918cd56fbb70) |
-| Sun, 12 Apr 2026 14:18:22 GMT | Use Canonical Input Transformation to Eliminate Edge-Case Exploits | Asian Digital Hub | [Read More](https://medium.com/p/a7b4bfb731e1) |
-| Sun, 12 Apr 2026 14:17:03 GMT | Detect Anomalous Requests Using Header Distribution Patterns | Asian Digital Hub | [Read More](https://medium.com/p/c142607b5ecb) |
-| Sun, 12 Apr 2026 14:14:05 GMT | Pickle Rick Çözüm Analizi: Web Uygulamalarında Güvensiz Komut Yürütme | Mevlüt Kamalı | [Read More](https://medium.com/p/ae05eacf2965) |
-| Sun, 12 Apr 2026 13:59:09 GMT | STRIDE Threat Modeling in the Real World: A Consultant’s Workflow | Arnav Vaidya | [Read More](https://medium.com/p/afc8b1c7bbf3) |
-| Sun, 12 Apr 2026 13:56:58 GMT | ConvertMyVideo (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/ea6508456a1d) |
