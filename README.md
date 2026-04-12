@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 18:47:54 GMT | Digital Evidence is Dead. | Bernie Lum | [Read More](https://medium.com/p/87f3f7bc8af6) |
+| Sun, 12 Apr 2026 18:39:45 GMT | Beyond the CLI: Reimagining Network Recon with Cyber-Eye Mapper v4.0 | Dennischacko | [Read More](https://medium.com/p/4167b57db6ad) |
+| Sun, 12 Apr 2026 18:36:53 GMT | Post-Exploitation Pivoting in a Lab Environment Using Meterpreter | ZeroDay-Security-Services | [Read More](https://medium.com/p/1cff370615f4) |
+| Sun, 12 Apr 2026 18:31:01 GMT | array interesting articles #14 | Ahmad Shabib | [Read More](https://medium.com/p/18c4e99d1bf1) |
+| Sun, 12 Apr 2026 18:31:01 GMT | HashGate — picoCTF 2026 Writeup | Anubhav_bora | [Read More](https://medium.com/p/92beaa3a17ff) |
+| Sun, 12 Apr 2026 18:31:01 GMT | HackTheBox Writeup — MonitorsFour | red wolf | [Read More](https://medium.com/p/444a99834f4c) |
+| Sun, 12 Apr 2026 18:30:49 GMT | Common Types of Actuators Used in IoT Applications | Advika | [Read More](https://medium.com/p/f1ab2c88daef) |
+| Sun, 12 Apr 2026 18:30:04 GMT | Stuck While Moving | The Alive Poetess | [Read More](https://medium.com/p/ef36e396b31c) |
+| Sun, 12 Apr 2026 18:25:35 GMT | Why CIOs and CISOs Block AI and What AI Vendors Miss | Rafi Koffler - Trustelis | [Read More](https://medium.com/p/25316330f3ef) |
+| Sun, 12 Apr 2026 18:24:47 GMT | Break-Glass Accounts in 2026 | Resahebi | [Read More](https://medium.com/p/2c8f288e4efb) |
+| Sun, 12 Apr 2026 18:23:31 GMT | Home CTF’s Labbing is Now My Favorite Obsession | The Husky Hacker | [Read More](https://medium.com/p/39fd776ec9cf) |
+| Sun, 12 Apr 2026 18:14:45 GMT | The Day the Internet Blinked: A Case Study of the 2021 Meta Outage | Kantrolvamshikrishnarao | [Read More](https://medium.com/p/8c3fb451b6cd) |
+| Sun, 12 Apr 2026 18:12:35 GMT | The Day Facebook Disappeared: What Engineers Can Learn from the 2021 Global Outage | Rithwikkuchana | [Read More](https://medium.com/p/c3e58e787452) |
+| Sun, 12 Apr 2026 18:03:15 GMT | Yapay Zeka: Zihinsel Bir Asistan mı, Yoksa Beyin Tembelliği mi? | HSD Atatürk Üniversitesi | [Read More](https://medium.com/p/273eef0d96b5) |
+| Sun, 12 Apr 2026 18:02:12 GMT | HTB: Dancing Box Walkthrough | Coldstart Coder | [Read More](https://medium.com/p/7453c60ffdca) |
+| Sun, 12 Apr 2026 17:56:57 GMT | [Network Reconnaissance Report] Eksternal Exposure Analysis: bapenda.jabarprov.go.id | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/d1e0328bca1f) |
+| Sun, 12 Apr 2026 17:56:17 GMT | How to Check if a Solana Token Is Safe: A Complete Security Checklist for 2026 | One Piece | [Read More](https://medium.com/p/afa21c0eed4f) |
+| Sun, 12 Apr 2026 17:47:58 GMT | Snyk: The Developer’s Shield for Modern Cybersecurity | Anirudh Singh | [Read More](https://medium.com/p/524830176830) |
 | Sun, 12 Apr 2026 17:36:01 GMT | Cybersecurity Strategies for Financial Institutions | Omer Akin | [Read More](https://medium.com/p/8baae30363c5) |
 | Sun, 12 Apr 2026 17:35:59 GMT | Logical Issue Allowed Me to Create Support Cases Instead of Organization Admin | Hamzadzworm | [Read More](https://medium.com/p/174f52eedcba) |
 | Sun, 12 Apr 2026 17:27:32 GMT | Top 12 Security Audit Software Tools for 2026 | Walletfinder Ai | [Read More](https://medium.com/p/8c9d8c9c1c3b) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 11:00:53 GMT | Inside the Rockstar Games Breach: How ShinyHunters Exploited a Hidden Third-Party Weakness | Rishit Goel | [Read More](https://medium.com/p/da05cd60c2c5) |
 | Sun, 12 Apr 2026 10:57:42 GMT | 45 days Python training summer internship with practical training | cyber security Updates | [Read More](https://medium.com/p/95821aeb6f63) |
 | Sun, 12 Apr 2026 10:55:57 GMT | How to Hack a Country: A Research Overview of the Vectors Used to Destabilize Nations | Guillermo Pineda | [Read More](https://medium.com/p/8831aafcfd43) |
-| Sun, 12 Apr 2026 10:51:22 GMT | Claude Mythos Might Break Cybersecurity. But Not in the Way You Think. | Ricardo Garcês | [Read More](https://medium.com/p/d5c64ecbbd3b) |
-| Sun, 12 Apr 2026 10:51:09 GMT | Windows Recall Hides EVERYTHING: This Tool Exposes It All!!! | cybrNK | [Read More](https://medium.com/p/94fe82b2a782) |
-| Sun, 12 Apr 2026 10:45:16 GMT | Weak Gates and High Stakes — My AI Agent gets me on the phone when it needs me! | Andrew Viant | [Read More](https://medium.com/p/5dc3b8e251f6) |
-| Sun, 12 Apr 2026 10:44:31 GMT | The scariest AI story of the year! | Adam Spencer | [Read More](https://medium.com/p/84a0ef88771f) |
-| Sun, 12 Apr 2026 10:40:35 GMT | eJPT - Network-Based Attacks CTF 1 | Francesco Pastore | [Read More](https://medium.com/p/c96935d3603b) |
-| Sun, 12 Apr 2026 10:40:08 GMT | Best Professional Home Security System: A Smart Way to Protect Your Home | Criminology Expert | [Read More](https://medium.com/p/792d946de4fd) |
-| Sun, 12 Apr 2026 10:38:52 GMT | Building a Stealthy Keylogger in Python for System Monitoring | Akhilswami | [Read More](https://medium.com/p/6f8d9aecb77f) |
-| Sun, 12 Apr 2026 10:37:30 GMT | SSO Meets Zero Trust: Rethinking Identity in Modern Security | Shimalka Yohan | [Read More](https://medium.com/p/9db03f3c4ade) |
-| Sun, 12 Apr 2026 10:36:59 GMT | If you’ve ever wanted to feel like a “real” hacker or a system administrator, the Bandit wargame… | Fakhri Ahmadov | [Read More](https://medium.com/p/08f052435b6f) |
-| Sun, 12 Apr 2026 10:33:13 GMT | THM - Have a Break | Francesco Pastore | [Read More](https://medium.com/p/a6de3b64fde2) |
-| Sun, 12 Apr 2026 10:31:01 GMT | When Logs Go Silent: Detecting Anti-Forensics in a Linux Environment | Nithishkumar R | [Read More](https://medium.com/p/048f7cbbb3ed) |
-| Sun, 12 Apr 2026 10:27:23 GMT | How a Free AI-Native Security Scan Can Save Your Startup Crores | Shouvik Mukherjee | [Read More](https://medium.com/p/f2e1307d1f4d) |
-| Sun, 12 Apr 2026 10:15:06 GMT | Picklerick [Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/1592d1b7a582) |
-| Sun, 12 Apr 2026 10:09:11 GMT | Compromising the Deathnote Vulnerable Machine — From Enumeration to Root | n0v1---ack | [Read More](https://medium.com/p/f386d990ae88) |
-| Sun, 12 Apr 2026 10:08:21 GMT | He Typed “../../../../../../../etc/passwd” After a Google Image URL. Google Paid Him $3,134. | Vivek PS | [Read More](https://medium.com/p/0272d6454f1d) |
-| Sun, 12 Apr 2026 10:07:18 GMT | TikTok Pixel Privacy Nightmare: A New Case Study | Oran F | [Read More](https://medium.com/p/3d1df415011e) |
-| Sun, 12 Apr 2026 10:04:44 GMT | The Power of Form | Haruka Matsukasa | [Read More](https://medium.com/p/a576e626f654) |
-| Sun, 12 Apr 2026 10:01:29 GMT | PortSwigger: Clickjacking Labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/dacd26f886fc) |
