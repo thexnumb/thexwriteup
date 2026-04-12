@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 07:41:08 GMT | Las empresas se hackean solas, con David Soto | Heroesdelsiliciopodcast | [Read More](https://medium.com/p/98f93d375434) |
+| Sun, 12 Apr 2026 07:38:42 GMT | Secrets in Source Code: 10 Ways to Find Them (Step-by-Step Master Guide) | Very Lazy Tech | [Read More](https://medium.com/p/f071a796a653) |
+| Sun, 12 Apr 2026 07:37:42 GMT | TryHackMe Active Directory Walkthrough — Full Domain Compromise | Tusharmumbre | [Read More](https://medium.com/p/e02bb6217008) |
+| Sun, 12 Apr 2026 07:34:29 GMT | Before i die | notaslimboy | [Read More](https://medium.com/p/79a9bd4e85c5) |
+| Sun, 12 Apr 2026 07:34:14 GMT | 25+ Linux Environment Variables Every Hacker Knows (And Most Developers Ignore) | Dhanush N | [Read More](https://medium.com/p/2ea08b9459c8) |
+| Sun, 12 Apr 2026 07:29:58 GMT | Kubernetes Security from First Principles: Encryption → TLS → Authentication → RBAC | Deepakraj S | [Read More](https://medium.com/p/685fe7ea58c0) |
+| Sun, 12 Apr 2026 07:27:14 GMT | Scientists Just Solved the Problem That
+Blocked the Quantum Internet
+for Decades. | Senaaravichandran A | [Read More](https://medium.com/p/aa0958dc5e91) |
+| Sun, 12 Apr 2026 07:25:55 GMT | How I Created 20 Super-Admins in 1 Second: Exploiting a Race Condition in Querybook | Hacker MD | [Read More](https://medium.com/p/73cee916d6f9) |
+| Sun, 12 Apr 2026 07:23:17 GMT | ThreatLens: Automating IoC Detection Directly in Your Browser | Muraleekrishnan Unnithan R | [Read More](https://medium.com/p/9547e3c7defa) |
+| Sun, 12 Apr 2026 07:22:40 GMT | App using Cognito for SSO? Use this Methodology to find High Severity Issues | Rahul Singh Chauhan | [Read More](https://medium.com/p/b11a7ecfe0a1) |
+| Sun, 12 Apr 2026 07:22:32 GMT | Binary Heaven — Reverse Engineering Go Binaries, ret2libc Buffer Overflow, and PATH Hijack to Root… | Roshan Rajbanshi | [Read More](https://medium.com/p/b503dc74f415) |
+| Sun, 12 Apr 2026 07:22:24 GMT | Thick Client Pentest for Kiddos | Darshan Naresh Naik | [Read More](https://medium.com/p/0ca03892f7db) |
+| Sun, 12 Apr 2026 07:21:41 GMT | OT Reconnaissance with Wireshark and GrassMarlin | urjasec | [Read More](https://medium.com/p/26e68ed2aebd) |
+| Sun, 12 Apr 2026 07:16:38 GMT | Exploits | INSIDER | [Read More](https://medium.com/p/160541879dcd) |
+| Sun, 12 Apr 2026 07:07:41 GMT | The Critical Role of Network Security in the Modern Digital Era | skillshub Solutions | [Read More](https://medium.com/p/60be89080fa1) |
+| Sun, 12 Apr 2026 07:07:23 GMT | Why IT Knowledge Makes You a Better Project Manager! | Prashant Nepal | [Read More](https://medium.com/p/316546d0a4a2) |
+| Sun, 12 Apr 2026 06:58:13 GMT | The Alchemy Of Information | Author Abid | [Read More](https://medium.com/p/c08597be9c2b) |
+| Sun, 12 Apr 2026 06:51:56 GMT | Cyber 101: Living Online: Understanding the Cyber World Without Getting Burned | JigmeTryAgain | [Read More](https://medium.com/p/4e189b5639bb) |
+| Sun, 12 Apr 2026 06:48:53 GMT | Linux User Lifecycle Management: Account Types, Password Expiry & Security Best Practices | Rupesh Sharma | [Read More](https://medium.com/p/0fc50b3e5d8e) |
 | Sun, 12 Apr 2026 06:36:44 GMT | The Subdomain That Never Died | Fateyaly | [Read More](https://medium.com/p/57416de381a7) |
 | Sun, 12 Apr 2026 06:36:01 GMT | DOM XSS in jQuery selector sink using a hashchange event — Beginner Friendly + Practical Exploit | PRiTi.EX | [Read More](https://medium.com/p/88b8db3c00d7) |
 | Sun, 12 Apr 2026 06:32:09 GMT | The Hidden Cost of Using Uncertified AI Chatbots in Business | Dazielle | [Read More](https://medium.com/p/b290948710e7) |
@@ -97,22 +118,3 @@ I submitted 34… | Ahmed Batayneh | [Read More](https://medium.com/p/309ccbeb8d
 | Sat, 11 Apr 2026 19:47:45 GMT | Why Most Beginners Fail in Cybersecurity (And How I’m Avoiding It) | John Light | [Read More](https://medium.com/p/a79d2b8d934d) |
 | Sat, 11 Apr 2026 19:44:43 GMT | Where Can You Report Something Anonymously in 2026? A Complete Guide to Staying Safe Online | Warren Smith | [Read More](https://medium.com/p/f64e130ccaef) |
 | Sat, 11 Apr 2026 19:41:01 GMT | Blind SQL Injection: From Conditional Responses to Out-of-Band Exfiltration | Ahmed Rais | [Read More](https://medium.com/p/67c00e463efa) |
-| Sat, 11 Apr 2026 19:40:46 GMT | Red Team Career Levels: What You Actually Need at Each Stage | Candy Wong | [Read More](https://medium.com/p/e6106ab398c4) |
-| Sat, 11 Apr 2026 19:31:01 GMT | The Bricking Point: Analyzing Permanent Fund Loss in Panoptic’s SFPM | rdin777 | [Read More](https://medium.com/p/7c045596ccf2) |
-| Sat, 11 Apr 2026 19:31:01 GMT | ALHacking Tool | Anubhav_bora | [Read More](https://medium.com/p/ab05b5ddc52d) |
-| Sat, 11 Apr 2026 19:26:27 GMT | Day 20: The Cloud Battlefield — The Shared Responsibility Model and IAM | Ndu | [Read More](https://medium.com/p/269724ef7bdd) |
-| Sat, 11 Apr 2026 19:23:30 GMT | Disclose The Agent — Full Writeup | Abbassharbi | [Read More](https://medium.com/p/1d53f91d3cda) |
-| Sat, 11 Apr 2026 19:22:37 GMT | Day 19: The Ephemeral Perimeter — Container Security and Kubernetes | Ndu | [Read More](https://medium.com/p/e4ce7e185b51) |
-| Sat, 11 Apr 2026 19:19:57 GMT | The AI Governance Illusion: Why Policy Fails and Architectural Control Wins | Rakeshkhanduja | [Read More](https://medium.com/p/0f1b3d2b71de) |
-| Sat, 11 Apr 2026 19:07:06 GMT | Linux Kernel Use-After-Free Exploitation Technique in Linux Kernel 7.0-rc7 | Antonius W1sdom | [Read More](https://medium.com/p/42febb5b6ba2) |
-| Sat, 11 Apr 2026 19:01:37 GMT | “Digital Arrest” Scam: A Real Incident That Shook My Family | Palak Jaiswal | [Read More](https://medium.com/p/10b6915151d9) |
-| Sat, 11 Apr 2026 19:01:01 GMT | One ticket supplied, one domain compromised | Pr3ach3r | [Read More](https://medium.com/p/a2ccdd674ab0) |
-| Sat, 11 Apr 2026 18:58:07 GMT | Building a SOC Tool From Scratch as a Cybersecurity Student — Five Days In | Robert Perez | [Read More](https://medium.com/p/4547948dcef5) |
-| Sat, 11 Apr 2026 18:51:54 GMT | Topics I’ve Been Interested in Lately… | MezONsaturn | [Read More](https://medium.com/p/a639c04ba23c) |
-| Sat, 11 Apr 2026 18:46:37 GMT | Setting Up CrowdSec on your Linux Server: A Complete Guide | Nirjas Jakilim | [Read More](https://medium.com/p/57f2e5a48279) |
-| Sat, 11 Apr 2026 18:46:09 GMT | HackSmarter Foundations of Web App Pentesting Capstone | Liam smydo | [Read More](https://medium.com/p/08ff516bf61e) |
-| Sat, 11 Apr 2026 18:37:36 GMT | Rest = Satisfaction | Saugatkhanal | [Read More](https://medium.com/p/42461cca3fd3) |
-| Sat, 11 Apr 2026 18:35:23 GMT | The Biology of Silicon: Why Python is Choking Modern Bioinformatics and How Rust/C++ Will Save It | Funcybot | [Read More](https://medium.com/p/db9eb3115933) |
-| Sat, 11 Apr 2026 18:27:00 GMT | What Signal Erased, iOS Preserved | David Lee | [Read More](https://medium.com/p/d3b1763d760b) |
-| Sat, 11 Apr 2026 18:25:10 GMT | I guarantee this system won’t let you fake certifications anymore. | Akshat Chaudhary | [Read More](https://medium.com/p/b1d829567ae6) |
-| Sat, 11 Apr 2026 18:22:48 GMT | Cloud SOC Honeypot in Azure Part 2: Investigation and Attack Simulation | Couragetikum | [Read More](https://medium.com/p/c1b953cbda6d) |
