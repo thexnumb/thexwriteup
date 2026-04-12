@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 06:36:44 GMT | The Subdomain That Never Died | Fateyaly | [Read More](https://medium.com/p/57416de381a7) |
+| Sun, 12 Apr 2026 06:36:01 GMT | DOM XSS in jQuery selector sink using a hashchange event — Beginner Friendly + Practical Exploit | PRiTi.EX | [Read More](https://medium.com/p/88b8db3c00d7) |
+| Sun, 12 Apr 2026 06:32:09 GMT | The Hidden Cost of Using Uncertified AI Chatbots in Business | Dazielle | [Read More](https://medium.com/p/b290948710e7) |
+| Sun, 12 Apr 2026 06:31:37 GMT | Claude Code Skills for OWASP Top 10 | Yogendra Sisodia | [Read More](https://medium.com/p/7b4b4bfe9b82) |
+| Sun, 12 Apr 2026 06:31:01 GMT | Efficient User Deprovisioning in Microsoft Entra ID via CSV Files. | Railsdevabam | [Read More](https://medium.com/p/df532f7ad4bd) |
+| Sun, 12 Apr 2026 06:29:17 GMT | When Old Technology Becomes a Modern Threat: The Lebanon Pager Attack | Amanuzzaman M | [Read More](https://medium.com/p/e1f043e85b2e) |
+| Sun, 12 Apr 2026 06:28:18 GMT | I got tired of “private” key generators that require a server upload, so I built my own. | T00LZ | [Read More](https://medium.com/p/78d54c4dd36d) |
+| Sun, 12 Apr 2026 06:12:38 GMT | Why Cybersecurity isn’t just an option anymore? | Pallavi Raj | [Read More](https://medium.com/p/7088e97c0262) |
+| Sun, 12 Apr 2026 06:09:46 GMT | Your AI App Isn’t Secure. Here’s What You’re Missing | Varsha Ojha | [Read More](https://medium.com/p/c0758fda0665) |
+| Sun, 12 Apr 2026 06:08:16 GMT | Breaking the Confusion: What Cyber Assets Are Attacked, How Attacks Work, and How Defense Responds | Sami ST | [Read More](https://medium.com/p/b69a8aeb0cbb) |
+| Sun, 12 Apr 2026 06:05:52 GMT | What Makes Anthropic’s Mythos So Good at Cybersecurity? | Kaynat Muzaffar | [Read More](https://medium.com/p/6681f6cb3d35) |
+| Sun, 12 Apr 2026 06:01:57 GMT | How hackers actually hack you! | Abhishek Kumar Maury | [Read More](https://medium.com/p/d190751f5f15) |
+| Sun, 12 Apr 2026 06:01:09 GMT | Why Your DevSecOps Pipeline Is Blind to Real Threats (And How ML-Based Anomaly Detection Fixes It) | Nihal Singh | [Read More](https://medium.com/p/1db55e64bd6a) |
+| Sun, 12 Apr 2026 05:58:55 GMT | Token Maxing: When AI Metrics Incentivize the Wrong Work | Ellen Mahloy | [Read More](https://medium.com/p/866a63525267) |
+| Sun, 12 Apr 2026 05:51:57 GMT | The Night I Simulated a Security Breach at OpenAI | Idea Drift | [Read More](https://medium.com/p/09c572e2a8c9) |
+| Sun, 12 Apr 2026 05:46:27 GMT | The Audacity of the Heart | Neha | [Read More](https://medium.com/p/45dd7ff9ce06) |
+| Sun, 12 Apr 2026 05:44:18 GMT | Strategic Perspective for IT Executives: | Satish Jha | [Read More](https://medium.com/p/99fb91579536) |
+| Sun, 12 Apr 2026 05:43:27 GMT | Broken Access Control (IDOR) — Where Most Bug Bounty Money Is Made | ghostyjoe | [Read More](https://medium.com/p/636f2926bc41) |
+| Sun, 12 Apr 2026 05:38:19 GMT | How I Started My Cybersecurity Journey | Md. Lavib Uddin Ashik | [Read More](https://medium.com/p/1c53648816ce) |
+| Sun, 12 Apr 2026 05:22:49 GMT | Agentic AI Application Memory Vulnerabilities | Dhiraj Patra | [Read More](https://medium.com/p/ab1e60fbabde) |
 | Sun, 12 Apr 2026 05:08:56 GMT | First-time CTFs are a HARSH reality check | Asmita Das | [Read More](https://medium.com/p/65bf68def189) |
 | Sun, 12 Apr 2026 05:05:20 GMT | Fix Kali Linux Freezing on Dell 7390 | codingbolt | [Read More](https://medium.com/p/ab79b8e154b2) |
 | Sun, 12 Apr 2026 05:03:26 GMT | Django Security Checklist: Protecting Your Web Application in 2026 | Sizan Mahmud | [Read More](https://medium.com/p/f2d1493913a9) |
@@ -96,23 +116,3 @@ I submitted 34… | Ahmed Batayneh | [Read More](https://medium.com/p/309ccbeb8d
 | Sat, 11 Apr 2026 18:27:00 GMT | What Signal Erased, iOS Preserved | David Lee | [Read More](https://medium.com/p/d3b1763d760b) |
 | Sat, 11 Apr 2026 18:25:10 GMT | I guarantee this system won’t let you fake certifications anymore. | Akshat Chaudhary | [Read More](https://medium.com/p/b1d829567ae6) |
 | Sat, 11 Apr 2026 18:22:48 GMT | Cloud SOC Honeypot in Azure Part 2: Investigation and Attack Simulation | Couragetikum | [Read More](https://medium.com/p/c1b953cbda6d) |
-| Sat, 11 Apr 2026 18:18:41 GMT | The Triple Shield Strategy: Building a Hybrid Security Pipeline with Snyk, Nuclei, and MobSF | Ahmdaldys | [Read More](https://medium.com/p/42ae9c98d0e7) |
-| Sat, 11 Apr 2026 18:18:28 GMT | Building a VSCode Extension That Detects Hardcoded Secrets — End to End | Adred | [Read More](https://medium.com/p/ed56477cbd55) |
-| Sat, 11 Apr 2026 18:17:30 GMT | “The Backend Security Stack I Use to Protect Real Applications” | Sanskar Kolte | [Read More](https://medium.com/p/f17ed08b2a2a) |
-| Sat, 11 Apr 2026 18:15:33 GMT | Hacker Claims Massive Breach of Chinese Supercomputer, Exposing 10 Petabytes of Defense Data | HILAL AHMAD KHAN | [Read More](https://medium.com/p/e14290ae0a01) |
-| Sat, 11 Apr 2026 18:14:33 GMT | IP Camera FTP Cloud Storage for Hikvision, Dahua and Reolink | Wajdim | [Read More](https://medium.com/p/9612b99e986f) |
-| Sat, 11 Apr 2026 18:11:51 GMT | How One Configuration Change Took Down the Internet: The Facebook Outage | Satya Swarup | [Read More](https://medium.com/p/6d9802179f96) |
-| Sat, 11 Apr 2026 18:09:09 GMT | Her Eğitim Aşamasındaki Saldırı Yüzey Analizi | Gokhan TATAR | [Read More](https://medium.com/p/90f53ba37add) |
-| Sat, 11 Apr 2026 18:05:11 GMT | Ha0ker is the online identity of Gagandeep Singh, a professional ethical hacker and bug bounty… | reseracher | [Read More](https://medium.com/p/48a8f82da752) |
-| Sat, 11 Apr 2026 17:32:45 GMT | Offsec “Katana” writeup | sabR | [Read More](https://medium.com/p/1c2052cd7380) |
-| Sat, 11 Apr 2026 17:20:06 GMT | What is an IP Address in Computer Networking? | Anjali Kashyap | [Read More](https://medium.com/p/8b18bf2481cf) |
-| Sat, 11 Apr 2026 17:19:35 GMT | Shell Shocked: Achieving RCE via OS Command Injection in a Stock Checker | Sahil | [Read More](https://medium.com/p/e3fdfc1595ae) |
-| Sat, 11 Apr 2026 17:13:39 GMT | RAID Types and Uses — aarononit.blogspot.com | Aaron DeJong | [Read More](https://medium.com/p/95617a8cd368) |
-| Sat, 11 Apr 2026 17:07:33 GMT | Building Consistent Incident Response Processes with Microsoft Sentinel Tasks | Defend Microsoft365 now! | [Read More](https://medium.com/p/64dba95508a4) |
-| Sat, 11 Apr 2026 17:01:01 GMT | 2026 Is When Claude Context Starts Setting Your Margin Floor | James Kuhman | [Read More](https://medium.com/p/2238fbd2ab47) |
-| Sat, 11 Apr 2026 17:01:01 GMT | Caldera OT for ICS Red Teaming - Part 2 | Muhammad Laiq | [Read More](https://medium.com/p/71f14063b577) |
-| Sat, 11 Apr 2026 16:57:43 GMT | Best VPN Service in the USA | Washington News Network | [Read More](https://medium.com/p/48aef6bd8cd9) |
-| Sat, 11 Apr 2026 16:52:09 GMT | Claude Mythos Gets 93.9% on SWE-bench. I Can’t Use It. Here’s Why That’s Actually the Correct Call. | PIXIPACE | [Read More](https://medium.com/p/4b578e47d39f) |
-| Sat, 11 Apr 2026 16:51:01 GMT | ⚙️ 07. — User ID controlled by request parameter with data leakage in redirect | The4v1 | [Read More](https://medium.com/p/dc6eb2b502e5) |
-| Sat, 11 Apr 2026 16:49:06 GMT | Startup Machine Walkthrough — Try Hack Me | red wolf | [Read More](https://medium.com/p/24a1dc993d3e) |
-| Sat, 11 Apr 2026 16:48:26 GMT | CCD COHORT 01 — ROOM 06 | APT-0 | [Read More](https://medium.com/p/b49008d3dc58) |
