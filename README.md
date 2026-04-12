@@ -12,8 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 10:57:42 GMT | 45 days Python training summer internship with practical training | cyber security Updates | [Read More](https://medium.com/p/95821aeb6f63) |
+| Sun, 12 Apr 2026 10:55:57 GMT | How to Hack a Country: A Research Overview of the Vectors Used to Destabilize Nations | Guillermo Pineda | [Read More](https://medium.com/p/8831aafcfd43) |
+| Sun, 12 Apr 2026 10:51:22 GMT | Claude Mythos Might Break Cybersecurity. But Not in the Way You Think. | Ricardo Garcês | [Read More](https://medium.com/p/d5c64ecbbd3b) |
+| Sun, 12 Apr 2026 10:51:09 GMT | Windows Recall Hides EVERYTHING: This Tool Exposes It All!!! | cybrNK | [Read More](https://medium.com/p/94fe82b2a782) |
+| Sun, 12 Apr 2026 10:45:16 GMT | Weak Gates and High Stakes — My AI Agent gets me on the phone when it needs me! | Andrew Viant | [Read More](https://medium.com/p/5dc3b8e251f6) |
+| Sun, 12 Apr 2026 10:44:31 GMT | The scariest AI story of the year! | Adam Spencer | [Read More](https://medium.com/p/84a0ef88771f) |
+| Sun, 12 Apr 2026 10:40:35 GMT | eJPT - Network-Based Attacks CTF 1 | Francesco Pastore | [Read More](https://medium.com/p/c96935d3603b) |
+| Sun, 12 Apr 2026 10:40:08 GMT | Best Professional Home Security System: A Smart Way to Protect Your Home | Criminology Expert | [Read More](https://medium.com/p/792d946de4fd) |
+| Sun, 12 Apr 2026 10:38:52 GMT | Building a Stealthy Keylogger in Python for System Monitoring | Akhilswami | [Read More](https://medium.com/p/6f8d9aecb77f) |
+| Sun, 12 Apr 2026 10:37:30 GMT | SSO Meets Zero Trust: Rethinking Identity in Modern Security | Shimalka Yohan | [Read More](https://medium.com/p/9db03f3c4ade) |
+| Sun, 12 Apr 2026 10:36:59 GMT | If you’ve ever wanted to feel like a “real” hacker or a system administrator, the Bandit wargame… | Fakhri Ahmadov | [Read More](https://medium.com/p/08f052435b6f) |
+| Sun, 12 Apr 2026 10:33:13 GMT | THM - Have a Break | Francesco Pastore | [Read More](https://medium.com/p/a6de3b64fde2) |
+| Sun, 12 Apr 2026 10:31:01 GMT | When Logs Go Silent: Detecting Anti-Forensics in a Linux Environment | Nithishkumar R | [Read More](https://medium.com/p/048f7cbbb3ed) |
+| Sun, 12 Apr 2026 10:27:23 GMT | How a Free AI-Native Security Scan Can Save Your Startup Crores | Shouvik Mukherjee | [Read More](https://medium.com/p/f2e1307d1f4d) |
+| Sun, 12 Apr 2026 10:15:06 GMT | Picklerick [Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/1592d1b7a582) |
+| Sun, 12 Apr 2026 10:09:11 GMT | Compromising the Deathnote Vulnerable Machine — From Enumeration to Root | n0v1---ack | [Read More](https://medium.com/p/f386d990ae88) |
+| Sun, 12 Apr 2026 10:08:21 GMT | He Typed “../../../../../../../etc/passwd” After a Google Image URL. Google Paid Him $3,134. | Vivek PS | [Read More](https://medium.com/p/0272d6454f1d) |
+| Sun, 12 Apr 2026 10:07:18 GMT | TikTok Pixel Privacy Nightmare: A New Case Study | Oran F | [Read More](https://medium.com/p/3d1df415011e) |
+| Sun, 12 Apr 2026 10:04:44 GMT | The Power of Form | Haruka Matsukasa | [Read More](https://medium.com/p/a576e626f654) |
 | Sun, 12 Apr 2026 10:01:29 GMT | PortSwigger: Clickjacking Labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/dacd26f886fc) |
 | Sun, 12 Apr 2026 10:01:18 GMT | Cyber Leelawat - Tryhackme - Passive Reconnaissance | Mahesh Amale | [Read More](https://medium.com/p/ae92ac63a66c) |
+| Sun, 12 Apr 2026 10:01:02 GMT | How Mentorship Turned Uncertainty Into Job Offers | Victoria Coker | [Read More](https://medium.com/p/2363b0564af7) |
 | Sun, 12 Apr 2026 09:59:42 GMT | 5 Massive Cyber Attacks in 2026… And None of Them “Hacked” Anything | Tech Prescient | [Read More](https://medium.com/p/4d9020224c86) |
 | Sun, 12 Apr 2026 09:58:28 GMT | Unmasking Malware: A Deep Dive into Static Analysis of a Suspicious Windows Executable | Oscar1811X | [Read More](https://medium.com/p/91e8ebcc01a4) |
 | Sun, 12 Apr 2026 09:54:20 GMT | AI in Offensive Operations: How Threat Actors Use Artificial Intelligence | Andrey Pautov | [Read More](https://medium.com/p/4eaeeaf029a9) |
@@ -24,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 09:35:02 GMT | Incident Response Report: Web Application Denial of Service (DoS) | Elmir | [Read More](https://medium.com/p/5901fd91fd04) |
 | Sun, 12 Apr 2026 09:34:38 GMT | Windows Privilege Escalation Skills Assessment — Part I | Psychopath-Traveler | [Read More](https://medium.com/p/c1c50b3f9f68) |
 | Sun, 12 Apr 2026 09:32:16 GMT | Anthropic Built an AI Too Dangerous to Release. Here’s Why That Terrifies Me. | FelixNg | [Read More](https://medium.com/p/845a2140cf7b) |
+| Sun, 12 Apr 2026 09:30:22 GMT | Firebase Database — Mobile Apps Security Static Analysis Part III | ./Rey~ | [Read More](https://medium.com/p/9801b7f7941c) |
 | Sun, 12 Apr 2026 09:29:07 GMT | OSINT Geopolitics Weekly (April 6–12, 2026): Iran War, Strait of Hormuz Crisis, Oil Shock & Global… | Gianluca Galimberti | [Read More](https://medium.com/p/e017a25d74c2) |
 | Sun, 12 Apr 2026 09:19:56 GMT | The Glasswing Protocol: Europe’s High-Stakes Gambit in the Age of Autonomous Risk | Daniel Živica | [Read More](https://medium.com/p/0b65ab030bae) |
 | Sun, 12 Apr 2026 09:15:34 GMT | “David’s Shield: Your Blueprint for EMP Survival” | Jennifer Aniston | [Read More](https://medium.com/p/61b114f60fed) |
@@ -31,6 +52,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 09:07:22 GMT | Zero-Click Attack - Phone Hacking - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/fab7b3353988) |
 | Sun, 12 Apr 2026 08:56:13 GMT | More alerts do not mean more security | Chetan Seripally | [Read More](https://medium.com/p/d3d663bbd892) |
 | Sun, 12 Apr 2026 08:49:30 GMT | Chain Guard Global · Intelligence Layer for World Trade | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/5ca162c11943) |
+| Sun, 12 Apr 2026 08:49:01 GMT | Why Anthropic’s New AI Mythos Is Causing Panic in the Financial Industry | Tinz Twins Invest | [Read More](https://medium.com/p/3cac17279fad) |
 | Sun, 12 Apr 2026 08:43:34 GMT | The Digital Sovereign: Why ForbiddenGPT is the Final Frontier of AI Independence | Unknown | [Read More](https://medium.com/p/bd680b52ce4f) |
 | Sun, 12 Apr 2026 08:41:23 GMT | What Is Ciforus? A Privacy-First Platform Built Before the Token | Ciforus | [Read More](https://medium.com/p/fabc434f344d) |
 | Sun, 12 Apr 2026 08:39:24 GMT | The Forbidden Edge: Why Elite Developers are Moving to ForbiddenGPT | Aliahmad | [Read More](https://medium.com/p/5c3164ad9434) |
@@ -92,29 +114,3 @@ for Decades. | Senaaravichandran A | [Read More](https://medium.com/p/aa0958dc5e
 | Sun, 12 Apr 2026 04:39:55 GMT | Top 10 Critical CVEs from March 2026 — With Learning Resources & Practical Analysis | Pradeeptadi | [Read More](https://medium.com/p/3b8077fc1647) |
 | Sun, 12 Apr 2026 04:37:58 GMT | ShareThePain - HackSmarter | Exploitforge | [Read More](https://medium.com/p/70ef35ae1eee) |
 | Sun, 12 Apr 2026 04:32:42 GMT | Your ChatGPT Just Became a Security Nightmare in 2026 — The Silent AI Risks No One Talks About | Atharv Ambade | [Read More](https://medium.com/p/3bda19420925) |
-| Sun, 12 Apr 2026 04:16:12 GMT | Why Bangladesh Needs Cybersecurity NOW | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/b67862ca7404) |
-| Sun, 12 Apr 2026 04:11:45 GMT | Hunting Malicious Links Delivered via Microsoft Teams: An Endpoint + Cloud Correlation Approach | CipherSecy | [Read More](https://medium.com/p/0e218c309753) |
-| Sun, 12 Apr 2026 04:07:43 GMT | I’m A GRC Engineer | grepStrength | [Read More](https://medium.com/p/a5fe3eedb4eb) |
-| Sun, 12 Apr 2026 03:55:51 GMT | Dev Day with Sam #3: CNN: Teaching Machines How to See | Nsirim Samuel Eberechi | [Read More](https://medium.com/p/a4b827f7c9e5) |
-| Sun, 12 Apr 2026 03:52:12 GMT | Facebook (Meta) 2021 Outage Case Study | Milanchahar | [Read More](https://medium.com/p/37eb43982041) |
-| Sun, 12 Apr 2026 03:31:01 GMT | The Identity Paradox: Why Zero Trust is the only shield against AI-Automated Social Engineering | Suraj Prajapati | [Read More](https://medium.com/p/c0233e06974e) |
-| Sun, 12 Apr 2026 03:21:54 GMT | 10 Books That Actually Teach You to Think Like a Threat Analyst | Paritosh | [Read More](https://medium.com/p/5c3915607506) |
-| Sun, 12 Apr 2026 02:59:08 GMT | CyberDefenders — Hafnium APT Lab Writeup | JBXSec | [Read More](https://medium.com/p/8ee3bce262cc) |
-| Sun, 12 Apr 2026 02:42:52 GMT | Anthropic Built Something and Refused to Release It. | Bhupendra Kumar Jain | [Read More](https://medium.com/p/f771b15ef428) |
-| Sun, 12 Apr 2026 02:24:03 GMT | Quantum + AI + Glasswing: The Stack That Quietly Changed Cybersecurity in April 2026 | Alfio Musumeci | [Read More](https://medium.com/p/a0530b7c9486) |
-| Sun, 12 Apr 2026 02:23:24 GMT | WHEN "NOT A VULNERABILITY" GETS PATCHED IN 72 HOURS
-By Ahmed Batayneh - March 2026
-I submitted 34… | Ahmed Batayneh | [Read More](https://medium.com/p/f7610c46f61b) |
-| Sun, 12 Apr 2026 02:19:51 GMT | WHEN "NOT A VULNERABILITY" GETS PATCHED IN 72 HOURS
-By Ahmed Batayneh - March 2026
-I submitted 34… | Ahmed Batayneh | [Read More](https://medium.com/p/309ccbeb8de0) |
-| Sun, 12 Apr 2026 02:14:11 GMT | AI और वैश्विक सुरक्षा: तकनीक कैसे दुनिया को सुरक्षित (और चुनौतीपूर्ण) बना रही है | IT Professional | [Read More](https://medium.com/p/5a6eaf044b37) |
-| Sun, 12 Apr 2026 02:02:58 GMT | PicoCTF Wrieup — Time Machine | Aman Barolia | [Read More](https://medium.com/p/d7f0e25593fc) |
-| Sun, 12 Apr 2026 02:00:25 GMT | LetsDefend: SOC335 — CVE-2024–49138 Exploitation Detected | Deandre Wilson | [Read More](https://medium.com/p/8deb99efbf9a) |
-| Sun, 12 Apr 2026 01:42:19 GMT | Thoughts from Nowhere | Digital_Griot | [Read More](https://medium.com/p/7ae3c0101d80) |
-| Sun, 12 Apr 2026 01:30:18 GMT | This is a guest writer contribution. | Audn.AI | [Read More](https://medium.com/p/9c9c64e06a2b) |
-| Sun, 12 Apr 2026 01:18:26 GMT | Comparing The Top 5 Penetration Test Companies | Emory French | [Read More](https://medium.com/p/4c16642244fa) |
-| Sun, 12 Apr 2026 01:07:58 GMT | SOC173 — Follina 0-Day Detected | Harshprajapati | [Read More](https://medium.com/p/1d110e0980b3) |
-| Sun, 12 Apr 2026 01:07:02 GMT | How Hackers Steal Credentials Without Malware, LOLBAS and Living off the Land: When Your Own Tools… | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/eeba7af70dc9) |
-| Sat, 11 Apr 2026 23:47:40 GMT | The Ghost in the Kernel: Chasing 0-Days in the Age of Mythos (2026–2046) | KindOne | [Read More](https://medium.com/p/ee4217ddc0d3) |
-| Sat, 11 Apr 2026 23:41:18 GMT | Investigating “SOC114 – Malicious Attachment Detected: A Phishing Alert” - LetsDefend Walkthrough | mubarak abdulganiy | [Read More](https://medium.com/p/87a93bd846d5) |
