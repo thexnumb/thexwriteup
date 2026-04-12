@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 20:33:59 GMT | Lab Ortamında FortiGate Kurulumu: Adım Adım Rehber | Ahmet Badem | [Read More](https://medium.com/p/595e4cb643bf) |
+| Sun, 12 Apr 2026 20:31:36 GMT | I Dropped Out, Got Suspended on Medium… and Still Kept Going | Satyam Pathania | [Read More](https://medium.com/p/7e48ad02bf72) |
+| Sun, 12 Apr 2026 20:30:18 GMT | Kali-Ma: I Accidentally Armed an AI — Submitted 2 Bug Bounty Findings in One Weekend | Giorgi Lomia | [Read More](https://medium.com/p/b25a66888699) |
+| Sun, 12 Apr 2026 20:28:02 GMT | How the Axios npm Package Was Weaponised Against the World | nithunwilson | [Read More](https://medium.com/p/39c1c6fb7052) |
+| Sun, 12 Apr 2026 20:25:43 GMT | Quantum Computing Will Break Every Password on Earth. Here Is What Happens Next. | Habiba Zahid | [Read More](https://medium.com/p/d5dd04f4b40b) |
+| Sun, 12 Apr 2026 20:22:32 GMT | Fraud is not a behaviour problem | Tony Fish | [Read More](https://medium.com/p/71ee5912e477) |
+| Sun, 12 Apr 2026 20:19:52 GMT | Phalanx v3.0: A new pentest agent for Kali Linux | webXOS | [Read More](https://medium.com/p/0c41524799c5) |
+| Sun, 12 Apr 2026 20:19:35 GMT | How to Secure a Mobile System — Part 1: System Design Decisions That Actually Matter | Bilal Hairab | [Read More](https://medium.com/p/83c2cfe81bd7) |
+| Sun, 12 Apr 2026 20:18:21 GMT | From Zero to Hero | Yagniktank | [Read More](https://medium.com/p/f03d3af32c35) |
+| Sun, 12 Apr 2026 20:16:01 GMT | How a Single npm Possibly Compromised 100 Million Weekly Downloads | Hafiq Iqmal | [Read More](https://medium.com/p/f320398b641e) |
+| Sun, 12 Apr 2026 20:10:00 GMT | Iran vs USA Escalation: Retaliation Threats and Global War Risk Analysis (2026 Full Report) | Jemii Zied | [Read More](https://medium.com/p/8b2ee66e3fa9) |
+| Sun, 12 Apr 2026 20:01:09 GMT | How bug bounty programs quietly rewrite reality. | Jehovahseun Ezekiel ADEKANMI | [Read More](https://medium.com/p/728864ccd497) |
+| Sun, 12 Apr 2026 20:01:01 GMT | The AI Model That Scared Its Own Creators: Inside Anthropic’s Claude Mythos Preview | Louiza Boujida | [Read More](https://medium.com/p/ac80b14177ea) |
+| Sun, 12 Apr 2026 19:58:34 GMT | HTB: Redeemer Box Walkthrough | Coldstart Coder | [Read More](https://medium.com/p/0206cb685012) |
+| Sun, 12 Apr 2026 19:50:10 GMT | I Reviewed 47 Crypto OpSec Failures — The ONE Mistake 100% of Victims Made | Officer's Notes | [Read More](https://medium.com/p/6bedf9bce130) |
+| Sun, 12 Apr 2026 19:49:15 GMT | The Machine Is Real: An AI Escaped Its Sandbox and Sent an Email | Zaferdace | [Read More](https://medium.com/p/b5e5f496e641) |
+| Sun, 12 Apr 2026 19:48:00 GMT | A Practical guide to Training a Malware Classifier using ResNet-50 | Muaaz | [Read More](https://medium.com/p/c6f45f7c7002) |
 | Sun, 12 Apr 2026 19:19:45 GMT | DawgCTF Challenge Writeup — Plane Spotting Pt. 2 | Vedant Shah | [Read More](https://medium.com/p/2ab86265ba64) |
 | Sun, 12 Apr 2026 19:19:19 GMT | Kali Linux: Why It’s the Go‑To OS for Ethical Hackers | Anirudh Singh | [Read More](https://medium.com/p/ffbaa15ec598) |
 | Sun, 12 Apr 2026 19:08:51 GMT | How QR Codes Work: Scanning, Security, and Business Use | Gemma | [Read More](https://medium.com/p/843955aa2425) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 13:16:06 GMT | Why Your Browser Is Already a Supercomputer (And Why You’re Renting Inferior Clouds) | göktürk kahriman | [Read More](https://medium.com/p/7d1b0d9e79dd) |
 | Sun, 12 Apr 2026 13:11:01 GMT | Mr Robot VulnHubWalkthrough - 06/100 | Veetaragpatil | [Read More](https://medium.com/p/1ecdf5094e53) |
 | Sun, 12 Apr 2026 13:08:20 GMT | TeleLeak — DawgCTF 2026 Writeup | jan20 | [Read More](https://medium.com/p/a5805e35287e) |
-| Sun, 12 Apr 2026 13:08:07 GMT | SOC-Challenge-Day0 | Zuhair Nashif | [Read More](https://medium.com/p/a4019b862dab) |
-| Sun, 12 Apr 2026 13:07:58 GMT | Phishing Email Analysis SOC Analyst Guide Part-4 Email Authentication. | Vaibhavrajsahu | [Read More](https://medium.com/p/1ab04c4c46c7) |
-| Sun, 12 Apr 2026 13:07:25 GMT | Why .env Is Not Enough for Secret Management | YASUO / JP | [Read More](https://medium.com/p/b3aacb265a4a) |
-| Sun, 12 Apr 2026 12:58:09 GMT | Understanding Open Redirection Vulnerability: Risks, Exploitation & Prevention | Mayank Chhabra | [Read More](https://medium.com/p/3d5398bbbfbb) |
-| Sun, 12 Apr 2026 12:52:51 GMT | Complete Guide to API Penetration Testing (Beginner to Pro) - Kidnapshadow✨ | Kidnapshadow | [Read More](https://medium.com/p/1cf316f65c07) |
-| Sun, 12 Apr 2026 12:50:23 GMT | OAuth 2.0 & OpenID Connect (OIDC): Where Most People Get It Wrong | Yusuf Isiaq | [Read More](https://medium.com/p/c4ebe7d0c6ab) |
-| Sun, 12 Apr 2026 12:48:38 GMT | GLITCH — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/5bb69f989afb) |
-| Sun, 12 Apr 2026 12:43:04 GMT | Why is France Unsafe? | Alicia Y. | [Read More](https://medium.com/p/ce93818f1416) |
-| Sun, 12 Apr 2026 12:38:39 GMT | Shared Secrets — picoCTF Writeup (Diffie-Hellman Broken Explained) | mayhack | [Read More](https://medium.com/p/5a335426cf5d) |
-| Sun, 12 Apr 2026 12:36:57 GMT | Break Razzify Challenge 46 Writeup | mayhack | [Read More](https://medium.com/p/9952d83fee72) |
-| Sun, 12 Apr 2026 11:51:18 GMT | Cybersecurity High Demand Specialization Areas in 2026 | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/fe586a7fae0f) |
-| Sun, 12 Apr 2026 11:43:54 GMT | What is EternalBlue in Advanced Cybersecurity? | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/2c800e498975) |
-| Sun, 12 Apr 2026 11:29:50 GMT | How a Simple IDOR Earned Me a $10000+ Bounty | Sachin Aneja | [Read More](https://medium.com/p/fa6fb9b53263) |
-| Sun, 12 Apr 2026 11:23:48 GMT | The Real Security Problem With AI Agents Is Not the Model. It’s Everything Around It | ABV | [Read More](https://medium.com/p/0e6d5bda75d4) |
-| Sun, 12 Apr 2026 11:21:48 GMT | Iran-Linked Hackers Target Microsoft 365 with Password Spraying Attacks in 2026 | Bene | [Read More](https://medium.com/p/6c8c9417cd32) |
-| Sun, 12 Apr 2026 11:21:17 GMT | 28bet rút tiền có nhanh không? Những bước chuẩn bị để giao dịch suôn sẻ hơn | 報數十一員 | [Read More](https://medium.com/p/6ac886a0cdda) |
-| Sun, 12 Apr 2026 11:21:01 GMT | The Illusion of the Perimeter: Why Your Biggest Risk Lives in Your Supply Chain | Stephen Adanson Roque | [Read More](https://medium.com/p/403e54ebddc7) |
