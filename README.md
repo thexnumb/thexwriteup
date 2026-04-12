@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 13:59:09 GMT | STRIDE Threat Modeling in the Real World: A Consultant’s Workflow | Arnav Vaidya | [Read More](https://medium.com/p/afc8b1c7bbf3) |
+| Sun, 12 Apr 2026 13:56:58 GMT | ConvertMyVideo (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/ea6508456a1d) |
+| Sun, 12 Apr 2026 13:56:13 GMT | I Wrote a Book About the Most Dangerous AI Ever Built. Here’s Why You Should Read It. | Yeeping | [Read More](https://medium.com/p/0a7168a1d9ac) |
+| Sun, 12 Apr 2026 13:44:38 GMT | One Tiny Change for Digital Hygiene and Privacy: The Hidden Dangers of Your Windows Recent Folder | Chinonso Azuogu | [Read More](https://medium.com/p/8a7b73d7bad5) |
+| Sun, 12 Apr 2026 13:37:16 GMT | Lazy RC4: Payload Encryption Using SystemFunction032 | Itz.sanskarr | [Read More](https://medium.com/p/9b89c370f407) |
+| Sun, 12 Apr 2026 13:35:00 GMT | Application Security Best Practices | Robert Broeckelmann | [Read More](https://medium.com/p/0d1611dce421) |
+| Sun, 12 Apr 2026 13:34:04 GMT | I Tried Hacking AI With Prompt Injection — It Worked | 0xAbhiSec | [Read More](https://medium.com/p/263f514810c5) |
+| Sun, 12 Apr 2026 13:33:48 GMT | WebStrike: Investigating a Web Server Compromise — Analysis & MITRE ATT&CK MAPPING (CyberDefenders… | Prince Lassey | [Read More](https://medium.com/p/273707928f0a) |
+| Sun, 12 Apr 2026 13:20:32 GMT | Chrome Has Had 4 Zero-Day Exploits in 2026 — Here’s Why WebGPU Makes It Worse | Before The Curve | [Read More](https://medium.com/p/f63d7b28007b) |
+| Sun, 12 Apr 2026 13:16:42 GMT | Technical Analysis of the Claude Mythos Model and Its Impact on Global Security and Military… | David SEHYEON Baek | [Read More](https://medium.com/p/0908530c2f56) |
 | Sun, 12 Apr 2026 13:16:06 GMT | Why Your Browser Is Already a Supercomputer (And Why You’re Renting Inferior Clouds) | göktürk kahriman | [Read More](https://medium.com/p/7d1b0d9e79dd) |
 | Sun, 12 Apr 2026 13:11:01 GMT | Mr Robot VulnHubWalkthrough - 06/100 | Veetaragpatil | [Read More](https://medium.com/p/1ecdf5094e53) |
 | Sun, 12 Apr 2026 13:08:20 GMT | TeleLeak — DawgCTF 2026 Writeup | jan20 | [Read More](https://medium.com/p/a5805e35287e) |
@@ -104,13 +114,3 @@ for Decades. | Senaaravichandran A | [Read More](https://medium.com/p/aa0958dc5e
 | Sun, 12 Apr 2026 07:23:17 GMT | ThreatLens: Automating IoC Detection Directly in Your Browser | Muraleekrishnan Unnithan R | [Read More](https://medium.com/p/9547e3c7defa) |
 | Sun, 12 Apr 2026 07:22:40 GMT | App using Cognito for SSO? Use this Methodology to find High Severity Issues | Rahul Singh Chauhan | [Read More](https://medium.com/p/b11a7ecfe0a1) |
 | Sun, 12 Apr 2026 07:22:32 GMT | Binary Heaven — Reverse Engineering Go Binaries, ret2libc Buffer Overflow, and PATH Hijack to Root… | Roshan Rajbanshi | [Read More](https://medium.com/p/b503dc74f415) |
-| Sun, 12 Apr 2026 07:22:24 GMT | Thick Client Pentest for Kiddos | Darshan Naresh Naik | [Read More](https://medium.com/p/0ca03892f7db) |
-| Sun, 12 Apr 2026 07:21:41 GMT | OT Reconnaissance with Wireshark and GrassMarlin | urjasec | [Read More](https://medium.com/p/26e68ed2aebd) |
-| Sun, 12 Apr 2026 07:16:38 GMT | Exploits | INSIDER | [Read More](https://medium.com/p/160541879dcd) |
-| Sun, 12 Apr 2026 07:07:41 GMT | The Critical Role of Network Security in the Modern Digital Era | skillshub Solutions | [Read More](https://medium.com/p/60be89080fa1) |
-| Sun, 12 Apr 2026 07:07:23 GMT | Why IT Knowledge Makes You a Better Project Manager! | Prashant Nepal | [Read More](https://medium.com/p/316546d0a4a2) |
-| Sun, 12 Apr 2026 06:58:13 GMT | The Alchemy Of Information | Author Abid | [Read More](https://medium.com/p/c08597be9c2b) |
-| Sun, 12 Apr 2026 06:51:56 GMT | Cyber 101: Living Online: Understanding the Cyber World Without Getting Burned | JigmeTryAgain | [Read More](https://medium.com/p/4e189b5639bb) |
-| Sun, 12 Apr 2026 06:48:53 GMT | Linux User Lifecycle Management: Account Types, Password Expiry & Security Best Practices | Rupesh Sharma | [Read More](https://medium.com/p/0fc50b3e5d8e) |
-| Sun, 12 Apr 2026 06:36:44 GMT | The Subdomain That Never Died | Fateyaly | [Read More](https://medium.com/p/57416de381a7) |
-| Sun, 12 Apr 2026 06:36:01 GMT | DOM XSS in jQuery selector sink using a hashchange event — Beginner Friendly + Practical Exploit | PRiTi.EX | [Read More](https://medium.com/p/88b8db3c00d7) |
