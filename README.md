@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 21:27:59 GMT | AI Web vs API Security: What Most Companies Get Wrong (And Why It Matters More Than Ever) | Novashield | [Read More](https://medium.com/p/2d0145077bf1) |
+| Sun, 12 Apr 2026 21:03:54 GMT | How I Bypassed Premium Subscription & Escalated Privileges Using a $0 VCC (Business Logic Flaw) | Eslam Temo | [Read More](https://medium.com/p/83a0b6515b73) |
+| Sun, 12 Apr 2026 21:02:23 GMT | Before MYTHOS Ships, Someone Has to Fix the World | Grace Ann Hansen | [Read More](https://medium.com/p/ba1022433785) |
+| Sun, 12 Apr 2026 20:59:29 GMT | Beyond the Number Line From Integers to Infrastructure Completing Chapter 1 of the Math-to-Code… | Mohamed Abdelhamied | [Read More](https://medium.com/p/4d112f5f572a) |
+| Sun, 12 Apr 2026 20:51:37 GMT | Finding Flags in SVG/XML Files — A Beginner Forensics Approach | Yakoubmaddou | [Read More](https://medium.com/p/0e2408ef8020) |
+| Sun, 12 Apr 2026 20:50:25 GMT | IDOR via Base64-Encoded ID Allows Unauthorized Deletion of Other Users’ Spaces | oxmorv | [Read More](https://medium.com/p/291be45925b0) |
+| Sun, 12 Apr 2026 20:48:24 GMT | Anthropic’s New AI Found Bugs in Every Major OS and Browser — And They’re Not Releasing It | Abhishek Agarwal | [Read More](https://medium.com/p/6cae9ca4fa47) |
+| Sun, 12 Apr 2026 20:46:25 GMT | Slopaganda: What Generative AI Has Done to the Economics of Lying | CCD-IS | [Read More](https://medium.com/p/8e3c259bb9cd) |
+| Sun, 12 Apr 2026 20:40:13 GMT | Windows Defender Killer: Combining Registry Edits with BYOVD for Permanent Disable | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d0faea53ece2) |
+| Sun, 12 Apr 2026 20:38:01 GMT | Using AI Without Fundamentals Is the Fastest Way to Stay a Beginner | John Light | [Read More](https://medium.com/p/b6e474475aaa) |
 | Sun, 12 Apr 2026 20:33:59 GMT | Lab Ortamında FortiGate Kurulumu: Adım Adım Rehber | Ahmet Badem | [Read More](https://medium.com/p/595e4cb643bf) |
 | Sun, 12 Apr 2026 20:31:36 GMT | I Dropped Out, Got Suspended on Medium… and Still Kept Going | Satyam Pathania | [Read More](https://medium.com/p/7e48ad02bf72) |
 | Sun, 12 Apr 2026 20:30:18 GMT | Kali-Ma: I Accidentally Armed an AI — Submitted 2 Bug Bounty Findings in One Weekend | Giorgi Lomia | [Read More](https://medium.com/p/b25a66888699) |
@@ -57,6 +67,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 17:36:01 GMT | Cybersecurity Strategies for Financial Institutions | Omer Akin | [Read More](https://medium.com/p/8baae30363c5) |
 | Sun, 12 Apr 2026 17:35:59 GMT | Logical Issue Allowed Me to Create Support Cases Instead of Organization Admin | Hamzadzworm | [Read More](https://medium.com/p/174f52eedcba) |
 | Sun, 12 Apr 2026 17:27:32 GMT | Top 12 Security Audit Software Tools for 2026 | Walletfinder Ai | [Read More](https://medium.com/p/8c9d8c9c1c3b) |
+| Sun, 12 Apr 2026 17:19:21 GMT | I Thought Online Scams Were Obvious — Until This Happened | Smriti Basnet | [Read More](https://medium.com/p/7508296a188a) |
 | Sun, 12 Apr 2026 17:18:30 GMT | Broken Access Control via Replay Attack | 0xJad | [Read More](https://medium.com/p/78bd960cdc9f) |
 | Sun, 12 Apr 2026 17:07:26 GMT | Obsession Writeup Español | Us0lfr | [Read More](https://medium.com/p/3f70a164aeff) |
 | Sun, 12 Apr 2026 17:05:41 GMT | Integrating VirusTotal Malware Intelligence with Wazuh — File, IP & URL Scanning | Jigneshdekate | [Read More](https://medium.com/p/7b30d5f18686) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 14:14:05 GMT | Pickle Rick Çözüm Analizi: Web Uygulamalarında Güvensiz Komut Yürütme | Mevlüt Kamalı | [Read More](https://medium.com/p/ae05eacf2965) |
 | Sun, 12 Apr 2026 13:59:09 GMT | STRIDE Threat Modeling in the Real World: A Consultant’s Workflow | Arnav Vaidya | [Read More](https://medium.com/p/afc8b1c7bbf3) |
 | Sun, 12 Apr 2026 13:56:58 GMT | ConvertMyVideo (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/ea6508456a1d) |
-| Sun, 12 Apr 2026 13:56:13 GMT | I Wrote a Book About the Most Dangerous AI Ever Built. Here’s Why You Should Read It. | Yeeping | [Read More](https://medium.com/p/0a7168a1d9ac) |
-| Sun, 12 Apr 2026 13:44:38 GMT | One Tiny Change for Digital Hygiene and Privacy: The Hidden Dangers of Your Windows Recent Folder | Chinonso Azuogu | [Read More](https://medium.com/p/8a7b73d7bad5) |
-| Sun, 12 Apr 2026 13:37:16 GMT | Lazy RC4: Payload Encryption Using SystemFunction032 | Itz.sanskarr | [Read More](https://medium.com/p/9b89c370f407) |
-| Sun, 12 Apr 2026 13:35:00 GMT | Application Security Best Practices | Robert Broeckelmann | [Read More](https://medium.com/p/0d1611dce421) |
-| Sun, 12 Apr 2026 13:34:04 GMT | I Tried Hacking AI With Prompt Injection — It Worked | 0xAbhiSec | [Read More](https://medium.com/p/263f514810c5) |
-| Sun, 12 Apr 2026 13:33:48 GMT | WebStrike: Investigating a Web Server Compromise — Analysis & MITRE ATT&CK MAPPING (CyberDefenders… | Prince Lassey | [Read More](https://medium.com/p/273707928f0a) |
-| Sun, 12 Apr 2026 13:20:32 GMT | Chrome Has Had 4 Zero-Day Exploits in 2026 — Here’s Why WebGPU Makes It Worse | Before The Curve | [Read More](https://medium.com/p/f63d7b28007b) |
-| Sun, 12 Apr 2026 13:16:42 GMT | Technical Analysis of the Claude Mythos Model and Its Impact on Global Security and Military… | David SEHYEON Baek | [Read More](https://medium.com/p/0908530c2f56) |
-| Sun, 12 Apr 2026 13:16:06 GMT | Why Your Browser Is Already a Supercomputer (And Why You’re Renting Inferior Clouds) | göktürk kahriman | [Read More](https://medium.com/p/7d1b0d9e79dd) |
-| Sun, 12 Apr 2026 13:11:01 GMT | Mr Robot VulnHubWalkthrough - 06/100 | Veetaragpatil | [Read More](https://medium.com/p/1ecdf5094e53) |
-| Sun, 12 Apr 2026 13:08:20 GMT | TeleLeak — DawgCTF 2026 Writeup | jan20 | [Read More](https://medium.com/p/a5805e35287e) |
