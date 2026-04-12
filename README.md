@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 09:07:22 GMT | Zero-Click Attack - Phone Hacking - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/fab7b3353988) |
+| Sun, 12 Apr 2026 08:56:13 GMT | More alerts do not mean more security | Chetan Seripally | [Read More](https://medium.com/p/d3d663bbd892) |
+| Sun, 12 Apr 2026 08:49:30 GMT | Chain Guard Global · Intelligence Layer for World Trade | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/5ca162c11943) |
+| Sun, 12 Apr 2026 08:43:34 GMT | The Digital Sovereign: Why ForbiddenGPT is the Final Frontier of AI Independence | Unknown | [Read More](https://medium.com/p/bd680b52ce4f) |
+| Sun, 12 Apr 2026 08:41:23 GMT | What Is Ciforus? A Privacy-First Platform Built Before the Token | Ciforus | [Read More](https://medium.com/p/fabc434f344d) |
+| Sun, 12 Apr 2026 08:39:24 GMT | The Forbidden Edge: Why Elite Developers are Moving to ForbiddenGPT | Aliahmad | [Read More](https://medium.com/p/5c3164ad9434) |
+| Sun, 12 Apr 2026 08:35:22 GMT | Engineering a Perimeter: My Journey Automating Threat Intelligence at Scale | Deepika Anand | [Read More](https://medium.com/p/7dec3c3261a7) |
+| Sun, 12 Apr 2026 08:33:45 GMT | The New Standard: Why ForbiddenGPT is Dominating the AI Security Market | Shadow | [Read More](https://medium.com/p/f7cedc13edca) |
+| Sun, 12 Apr 2026 08:25:27 GMT | Hardening AEM as a Cloud Service: Two Simple Fixes That Close Big Security Gaps | Shruti Damle | [Read More](https://medium.com/p/a0ab450ec681) |
+| Sun, 12 Apr 2026 08:24:58 GMT | 5 AI Prompts That Will Change How You Review Cloud Security Misconfigurations | Cyberaiprompts | [Read More](https://medium.com/p/a943bed57d57) |
+| Sun, 12 Apr 2026 08:24:05 GMT | Adobe’s New Acrobat Reader Flaw Is a Wake-Up Call: Why a Simple PDF Could Be More Dangerous Than… | Germano Costi | [Read More](https://medium.com/p/beb3bd2310cf) |
+| Sun, 12 Apr 2026 08:22:57 GMT | Trend Micro Vision One XDR Platformu | Fatih Yuksektepe | [Read More](https://medium.com/p/9085c54fd538) |
+| Sun, 12 Apr 2026 08:22:05 GMT | Inside a Computer System Walkthrough (TryHackMe) | Madushan | [Read More](https://medium.com/p/b51259d40457) |
+| Sun, 12 Apr 2026 08:09:04 GMT | Exploiting LLM APIs for OS Command Injection (PortSwigger Lab Write-up) | Mukilan Baskaran | [Read More](https://medium.com/p/cb8738d8aa44) |
+| Sun, 12 Apr 2026 08:06:32 GMT | Adobe Acrobat Reader Is Under Active Attack — Here’s What You Need to Know About CVE-2026–34621 | UK Cyber Defence | [Read More](https://medium.com/p/735fe153f0e0) |
+| Sun, 12 Apr 2026 07:57:45 GMT | Compromising the Beelzebub Vulnerable Machine — Walkthrough | Oluwasemipe Aransiola | [Read More](https://medium.com/p/22273936a197) |
 | Sun, 12 Apr 2026 07:41:08 GMT | Las empresas se hackean solas, con David Soto | Heroesdelsiliciopodcast | [Read More](https://medium.com/p/98f93d375434) |
 | Sun, 12 Apr 2026 07:38:42 GMT | Secrets in Source Code: 10 Ways to Find Them (Step-by-Step Master Guide) | Very Lazy Tech | [Read More](https://medium.com/p/f071a796a653) |
 | Sun, 12 Apr 2026 07:37:42 GMT | TryHackMe Active Directory Walkthrough — Full Domain Compromise | Tusharmumbre | [Read More](https://medium.com/p/e02bb6217008) |
@@ -102,19 +118,3 @@ I submitted 34… | Ahmed Batayneh | [Read More](https://medium.com/p/309ccbeb8d
 | Sat, 11 Apr 2026 21:50:49 GMT | Agentic SAMM: A Security Framework Extension for AI-Driven Development | Sergey Gordeychik | [Read More](https://medium.com/p/89c708978676) |
 | Sat, 11 Apr 2026 21:30:19 GMT | Username Enumeration Via Different Responses — Welcome to the Authentication Series | morgan_hack | [Read More](https://medium.com/p/17ed2d417c69) |
 | Sat, 11 Apr 2026 21:27:01 GMT | The AI Divide Will Hit Small Nations First. The Cybersecurity Data Proves It. | Inshan Meahjohn | [Read More](https://medium.com/p/5a7899298790) |
-| Sat, 11 Apr 2026 21:16:37 GMT | Try Hack Me- Linux Agency CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/ba27095f98f0) |
-| Sat, 11 Apr 2026 21:12:00 GMT | Two Reverse Engineering Tricks That Fool Beginners (But Not You) — Day 2 | Issan | [Read More](https://medium.com/p/cb480ae06ea0) |
-| Sat, 11 Apr 2026 21:08:31 GMT | SOC Automation Lab Series 2 | The Commoness | [Read More](https://medium.com/p/65dc269a1ed2) |
-| Sat, 11 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 47: Core 2 Test Day | Maximillian Rueda | [Read More](https://medium.com/p/2bf9ecc39e95) |
-| Sat, 11 Apr 2026 20:59:47 GMT | Why Indian Startups Get Hacked Without Knowing It | Shouvik Mukherjee | [Read More](https://medium.com/p/6244e526cea8) |
-| Sat, 11 Apr 2026 20:43:33 GMT | Arasaka - Hack Smarter Walkthrough | WireHawk Security | [Read More](https://medium.com/p/e7215e3bffdf) |
-| Sat, 11 Apr 2026 20:35:16 GMT | ️ Write-up: DanaBot Lab — CyberDefenders By Mohammed-Ali | mohammed | [Read More](https://medium.com/p/05f7ce4e0afe) |
-| Sat, 11 Apr 2026 20:26:01 GMT | The AI “Revolution” Has a Dirty Secret — and a Leaked CLI Just Proved It | freerave | [Read More](https://medium.com/p/1accefba50a6) |
-| Sat, 11 Apr 2026 20:25:14 GMT | Exposing the Enterprise: The “AI Threat” is Just Your Own Broken IAM | Mike Parcewski | [Read More](https://medium.com/p/1f5895b9493c) |
-| Sat, 11 Apr 2026 20:19:25 GMT | Cyber Security “Consulting” at PwC: A Simulation Write-Up | Tarunika Kapoor | [Read More](https://medium.com/p/1aefbec442d4) |
-| Sat, 11 Apr 2026 20:18:01 GMT | Is agentic AI now a new attack surface? | Sevval Aydogan | [Read More](https://medium.com/p/7145abc875d0) |
-| Sat, 11 Apr 2026 20:15:02 GMT | Mythic C2 Server — 104 | Miraç Küçük | [Read More](https://medium.com/p/bed1243b81c0) |
-| Sat, 11 Apr 2026 19:51:50 GMT | ️PowerShell for Cyber Professionals: The Defensive & Offensive Blueprint | Petersmuditha | [Read More](https://medium.com/p/d65b41d226a8) |
-| Sat, 11 Apr 2026 19:47:45 GMT | Why Most Beginners Fail in Cybersecurity (And How I’m Avoiding It) | John Light | [Read More](https://medium.com/p/a79d2b8d934d) |
-| Sat, 11 Apr 2026 19:44:43 GMT | Where Can You Report Something Anonymously in 2026? A Complete Guide to Staying Safe Online | Warren Smith | [Read More](https://medium.com/p/f64e130ccaef) |
-| Sat, 11 Apr 2026 19:41:01 GMT | Blind SQL Injection: From Conditional Responses to Out-of-Band Exfiltration | Ahmed Rais | [Read More](https://medium.com/p/67c00e463efa) |
