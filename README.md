@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 19:19:45 GMT | DawgCTF Challenge Writeup — Plane Spotting Pt. 2 | Vedant Shah | [Read More](https://medium.com/p/2ab86265ba64) |
+| Sun, 12 Apr 2026 19:19:19 GMT | Kali Linux: Why It’s the Go‑To OS for Ethical Hackers | Anirudh Singh | [Read More](https://medium.com/p/ffbaa15ec598) |
+| Sun, 12 Apr 2026 19:08:51 GMT | How QR Codes Work: Scanning, Security, and Business Use | Gemma | [Read More](https://medium.com/p/843955aa2425) |
+| Sun, 12 Apr 2026 19:01:15 GMT | CYBERDUDEBIVASH® PRIVATE LIMITED — OFFICIAL WORKPLACE, GST & PAN VERIFIED GLOBAL CYBERSECURITY… | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/14ee20d6a76e) |
+| Sun, 12 Apr 2026 19:00:11 GMT | Chain Reaction Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/3bd5bc7ae814) |
+| Sun, 12 Apr 2026 18:55:28 GMT | CNPen — My Actual Experience | Ahmedmazhar | [Read More](https://medium.com/p/7fb0a1fa4e05) |
+| Sun, 12 Apr 2026 18:52:42 GMT | How APTs Breach, Persist, and Devastate Networks | Ryan Cornwell | [Read More](https://medium.com/p/993f0a523709) |
 | Sun, 12 Apr 2026 18:47:54 GMT | Digital Evidence is Dead. | Bernie Lum | [Read More](https://medium.com/p/87f3f7bc8af6) |
 | Sun, 12 Apr 2026 18:39:45 GMT | Beyond the CLI: Reimagining Network Recon with Cyber-Eye Mapper v4.0 | Dennischacko | [Read More](https://medium.com/p/4167b57db6ad) |
 | Sun, 12 Apr 2026 18:36:53 GMT | Post-Exploitation Pivoting in a Lab Environment Using Meterpreter | ZeroDay-Security-Services | [Read More](https://medium.com/p/1cff370615f4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 11:21:48 GMT | Iran-Linked Hackers Target Microsoft 365 with Password Spraying Attacks in 2026 | Bene | [Read More](https://medium.com/p/6c8c9417cd32) |
 | Sun, 12 Apr 2026 11:21:17 GMT | 28bet rút tiền có nhanh không? Những bước chuẩn bị để giao dịch suôn sẻ hơn | 報數十一員 | [Read More](https://medium.com/p/6ac886a0cdda) |
 | Sun, 12 Apr 2026 11:21:01 GMT | The Illusion of the Perimeter: Why Your Biggest Risk Lives in Your Supply Chain | Stephen Adanson Roque | [Read More](https://medium.com/p/403e54ebddc7) |
-| Sun, 12 Apr 2026 11:20:34 GMT | SSRF Attack — When the Server Becomes the Attacker - CAISD | CAISD | [Read More](https://medium.com/p/6eca4e5530c9) |
-| Sun, 12 Apr 2026 11:18:50 GMT | Comprehensive Login Page Security Testing: A Practical Guide for Pentesters | Sanskriti | [Read More](https://medium.com/p/e1bc00833c8e) |
-| Sun, 12 Apr 2026 11:18:21 GMT | SOC (Day 3)- Log Analysis — Compromised WordPress | Adithya Hettiarachchi | [Read More](https://medium.com/p/3d6e9da43244) |
-| Sun, 12 Apr 2026 11:06:53 GMT | Employee of the year — Blue Team Labs Online (Forensics Challenge) | Aung Kaung Moe | [Read More](https://medium.com/p/6f6e42095165) |
-| Sun, 12 Apr 2026 11:00:53 GMT | Inside the Rockstar Games Breach: How ShinyHunters Exploited a Hidden Third-Party Weakness | Rishit Goel | [Read More](https://medium.com/p/da05cd60c2c5) |
-| Sun, 12 Apr 2026 10:57:42 GMT | 45 days Python training summer internship with practical training | cyber security Updates | [Read More](https://medium.com/p/95821aeb6f63) |
-| Sun, 12 Apr 2026 10:55:57 GMT | How to Hack a Country: A Research Overview of the Vectors Used to Destabilize Nations | Guillermo Pineda | [Read More](https://medium.com/p/8831aafcfd43) |
