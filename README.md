@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 23:30:50 GMT | Building a Secure Web Server from Scratch on AWS: A Deep Dive into VPC, Security Groups, and… | Gaurav Chavan - Cloud Enthusiast | [Read More](https://medium.com/p/3f83fec1d19d) |
+| Sun, 12 Apr 2026 23:28:04 GMT | Introducción a la API de Windows Para el desarrollo de malware, parte 3. | Dalton | [Read More](https://medium.com/p/65edf3c56205) |
+| Sun, 12 Apr 2026 23:14:39 GMT | Day 5-Network+ N10–009 Compare and Contrast Transmission Media and Transceivers | Hassen Hannachi | [Read More](https://medium.com/p/67401540c90a) |
+| Sun, 12 Apr 2026 23:12:04 GMT | Dance-Samba Writeup Español | Us0lfr | [Read More](https://medium.com/p/d2b88004617a) |
+| Sun, 12 Apr 2026 23:09:20 GMT | One npm install Away | TheCyberKingdom | [Read More](https://medium.com/p/1bd156104d86) |
+| Sun, 12 Apr 2026 23:01:01 GMT | LetsDefend: Obfuscated JavaScript Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/16fbbbca43ac) |
+| Sun, 12 Apr 2026 22:57:55 GMT | Google’s Hackers Investigated 500,000 Hours of Breaches. Here’s What They Found. | Muhammad Ali Khawar Butt | [Read More](https://medium.com/p/4b4aedf7d31b) |
+| Sun, 12 Apr 2026 22:46:19 GMT | The Smart Home Mistake You Are Probably Making | Stocked Always | [Read More](https://medium.com/p/f81daef90abd) |
+| Sun, 12 Apr 2026 22:36:02 GMT | Instagram Hesaplarını Kapattırıp Para İsteyen Çeteler | Ali Yaşe | [Read More](https://medium.com/p/68bfac936839) |
 | Sun, 12 Apr 2026 22:28:55 GMT | CTF Pwn104 @ TryHackMe | Rafael David | [Read More](https://medium.com/p/4c94df21649e) |
+| Sun, 12 Apr 2026 22:27:44 GMT | The Cybersecurity Battlefield Is Now Model vs. Model | Sreejith Gopinath | [Read More](https://medium.com/p/1317880580b3) |
 | Sun, 12 Apr 2026 22:23:12 GMT | 6 Nuances About Binauth | minherz | [Read More](https://medium.com/p/a5669b4a8774) |
 | Sun, 12 Apr 2026 22:10:14 GMT | 7 Azure Vulnerabilities Your C# Code Might Be Exposing Right Now | Emanuelle | [Read More](https://medium.com/p/16b4a7165b77) |
 | Sun, 12 Apr 2026 22:10:10 GMT | Virtual Hosts: Discovering Hidden Web Applications Beyond DNS | Mert Baykal | [Read More](https://medium.com/p/c3d8597fb0f9) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 16:12:14 GMT | The Server Gave Me the Tokens. I Just Used Them. | Ismayil Huseynli | [Read More](https://medium.com/p/60f8e7564fd4) |
 | Sun, 12 Apr 2026 16:06:37 GMT | From Trusted Tools to Zero-Day Chaos: Inside the 2026 Cybersecurity Storm Shaking Windows and… | eL Njas!™ | [Read More](https://medium.com/p/e6e2e2c85fa1) |
 | Sun, 12 Apr 2026 16:00:18 GMT | Race Condition in Withdrawal Function: From Discovery to POC | Goris | [Read More](https://medium.com/p/56bff465e0eb) |
-| Sun, 12 Apr 2026 15:43:49 GMT | Lab: Insecure direct object reference | PRiTi.EX | [Read More](https://medium.com/p/a3fbeff35485) |
-| Sun, 12 Apr 2026 15:32:53 GMT | Mind the Gap: Creating Hybrid Edges with DataHound | Tom O'Neill | [Read More](https://medium.com/p/887320d4293a) |
-| Sun, 12 Apr 2026 15:20:25 GMT | Forrester just published something worth reading carefully: “Project Glasswing: The 10 Consequences… | Joshi | [Read More](https://medium.com/p/8ab3a138ddbe) |
-| Sun, 12 Apr 2026 15:19:24 GMT | Six Problems. One Voice. A Billion-Dollar Blind Spot. | Eliot Cohen Bacrie | [Read More](https://medium.com/p/00fd8078c434) |
-| Sun, 12 Apr 2026 15:18:54 GMT | Anthropic’s Latest Move Could Change Cybersecurity Forever | Dev Pandit | [Read More](https://medium.com/p/3414a0964895) |
-| Sun, 12 Apr 2026 15:16:06 GMT | An AI Model Just Found a 27-Year-Old Zero-Day in OpenBSD | Harsh Mathur | [Read More](https://medium.com/p/24f14cf80062) |
-| Sun, 12 Apr 2026 15:15:56 GMT | Cybersécurité : les 8 actualités majeures du 12 avril 2026 | Marc Barbezat | [Read More](https://medium.com/p/787bf37dbf72) |
-| Sun, 12 Apr 2026 15:13:41 GMT | Cybersecurity for Scammers | İhsan Şen | [Read More](https://medium.com/p/4cb60f7e7150) |
-| Sun, 12 Apr 2026 15:00:52 GMT | Anthropic’s Claude Mythos Cybersecurity Circus | Anatol Wegner | [Read More](https://medium.com/p/23284eb1fab7) |
-| Sun, 12 Apr 2026 14:59:09 GMT | Forget Hallucination: What if AI Deceives You? | Sudi Navile | [Read More](https://medium.com/p/6e323fdbbaa3) |
