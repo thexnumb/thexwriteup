@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 10:01:29 GMT | PortSwigger: Clickjacking Labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/dacd26f886fc) |
+| Sun, 12 Apr 2026 10:01:18 GMT | Cyber Leelawat - Tryhackme - Passive Reconnaissance | Mahesh Amale | [Read More](https://medium.com/p/ae92ac63a66c) |
+| Sun, 12 Apr 2026 09:59:42 GMT | 5 Massive Cyber Attacks in 2026… And None of Them “Hacked” Anything | Tech Prescient | [Read More](https://medium.com/p/4d9020224c86) |
+| Sun, 12 Apr 2026 09:58:28 GMT | Unmasking Malware: A Deep Dive into Static Analysis of a Suspicious Windows Executable | Oscar1811X | [Read More](https://medium.com/p/91e8ebcc01a4) |
+| Sun, 12 Apr 2026 09:54:20 GMT | AI in Offensive Operations: How Threat Actors Use Artificial Intelligence | Andrey Pautov | [Read More](https://medium.com/p/4eaeeaf029a9) |
+| Sun, 12 Apr 2026 09:54:09 GMT | How AI Is Rewriting Cybersecurity Faster Than Defenders Can Respond | David SEHYEON Baek | [Read More](https://medium.com/p/ece62dbada6a) |
+| Sun, 12 Apr 2026 09:48:39 GMT | DocketHive - WebVerse | 7s26Simon | [Read More](https://medium.com/p/3522e5059b6b) |
+| Sun, 12 Apr 2026 09:48:25 GMT | Why Nebraska Businesses Are Rethinking Security Systems in 2026 | ASI Systems Pro | [Read More](https://medium.com/p/737ea3aaf014) |
+| Sun, 12 Apr 2026 09:46:23 GMT | Beginner Guide to XSS (Cross-Site Scripting) | Md. Lavib Uddin Ashik | [Read More](https://medium.com/p/be98127adac0) |
+| Sun, 12 Apr 2026 09:35:02 GMT | Incident Response Report: Web Application Denial of Service (DoS) | Elmir | [Read More](https://medium.com/p/5901fd91fd04) |
+| Sun, 12 Apr 2026 09:34:38 GMT | Windows Privilege Escalation Skills Assessment — Part I | Psychopath-Traveler | [Read More](https://medium.com/p/c1c50b3f9f68) |
+| Sun, 12 Apr 2026 09:32:16 GMT | Anthropic Built an AI Too Dangerous to Release. Here’s Why That Terrifies Me. | FelixNg | [Read More](https://medium.com/p/845a2140cf7b) |
+| Sun, 12 Apr 2026 09:29:07 GMT | OSINT Geopolitics Weekly (April 6–12, 2026): Iran War, Strait of Hormuz Crisis, Oil Shock & Global… | Gianluca Galimberti | [Read More](https://medium.com/p/e017a25d74c2) |
+| Sun, 12 Apr 2026 09:19:56 GMT | The Glasswing Protocol: Europe’s High-Stakes Gambit in the Age of Autonomous Risk | Daniel Živica | [Read More](https://medium.com/p/0b65ab030bae) |
+| Sun, 12 Apr 2026 09:15:34 GMT | “David’s Shield: Your Blueprint for EMP Survival” | Jennifer Aniston | [Read More](https://medium.com/p/61b114f60fed) |
+| Sun, 12 Apr 2026 09:15:15 GMT | Why do I feel so hollow inside? | maria ｡๑ ° | [Read More](https://medium.com/p/4ecadae04db4) |
 | Sun, 12 Apr 2026 09:07:22 GMT | Zero-Click Attack - Phone Hacking - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/fab7b3353988) |
 | Sun, 12 Apr 2026 08:56:13 GMT | More alerts do not mean more security | Chetan Seripally | [Read More](https://medium.com/p/d3d663bbd892) |
 | Sun, 12 Apr 2026 08:49:30 GMT | Chain Guard Global · Intelligence Layer for World Trade | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/5ca162c11943) |
@@ -102,19 +118,3 @@ I submitted 34… | Ahmed Batayneh | [Read More](https://medium.com/p/309ccbeb8d
 | Sun, 12 Apr 2026 01:07:02 GMT | How Hackers Steal Credentials Without Malware, LOLBAS and Living off the Land: When Your Own Tools… | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/eeba7af70dc9) |
 | Sat, 11 Apr 2026 23:47:40 GMT | The Ghost in the Kernel: Chasing 0-Days in the Age of Mythos (2026–2046) | KindOne | [Read More](https://medium.com/p/ee4217ddc0d3) |
 | Sat, 11 Apr 2026 23:41:18 GMT | Investigating “SOC114 – Malicious Attachment Detected: A Phishing Alert” - LetsDefend Walkthrough | mubarak abdulganiy | [Read More](https://medium.com/p/87a93bd846d5) |
-| Sat, 11 Apr 2026 23:20:16 GMT | Reverse Engineering on CyberTalents: Solving All Easy Challenges Part 1 | Isv0x1 | [Read More](https://medium.com/p/60239c717edb) |
-| Sat, 11 Apr 2026 23:17:15 GMT | The Evolution of the Build — How AI is Dragging DevSecOps Out of the Dark Age | Boopaathy | [Read More](https://medium.com/p/de78ddc0c4f3) |
-| Sat, 11 Apr 2026 23:15:57 GMT | The Pressure to Be a ‘Strong Woman’ Is Breaking Us | Melissa Mc | [Read More](https://medium.com/p/631efd9345b9) |
-| Sat, 11 Apr 2026 22:56:44 GMT | I Watched a New SOC Analyst Almost Get Fired in 30 Days. Here’s What They Did Wrong. | Jbird | [Read More](https://medium.com/p/08dc0ec1343d) |
-| Sat, 11 Apr 2026 22:51:52 GMT | We Can Black Out a Country but Can’t Turn On MFA | Security Memo | [Read More](https://medium.com/p/6d33bdf22da8) |
-| Sat, 11 Apr 2026 22:41:49 GMT | Bypassing a 403 Using Path Manipulation in Calendly Assets | 24BkDoor | [Read More](https://medium.com/p/ab154b86b5d6) |
-| Sat, 11 Apr 2026 22:32:34 GMT | IDS Evasion and Detection with Snort: Building and Breaking Your Own Detection Lab | Abhang Mandwale | [Read More](https://medium.com/p/211b286b5b82) |
-| Sat, 11 Apr 2026 22:32:05 GMT | “I’m 15 and I Built a Private AI to Save Law Firms from Data Leaks.” | Lexigaurdai | [Read More](https://medium.com/p/0a6a5bdaa198) |
-| Sat, 11 Apr 2026 22:31:37 GMT | EscapeTwo — A HTB Writeup | Sam Hilliard | [Read More](https://medium.com/p/9d0a420988de) |
-| Sat, 11 Apr 2026 22:27:25 GMT | SOC257 — VPN Connection Detected from Unauthorized Country | Harshprajapati | [Read More](https://medium.com/p/61e531595374) |
-| Sat, 11 Apr 2026 22:23:59 GMT | How I Ran My First Exploit ( Legally ) | Yahya Bichiou | [Read More](https://medium.com/p/df312bee61ba) |
-| Sat, 11 Apr 2026 22:19:31 GMT | TryHackMe SOC Analyst Road Map Part-21 | safa kaya | [Read More](https://medium.com/p/8f9dd9ad16fb) |
-| Sat, 11 Apr 2026 22:04:33 GMT | GRIEF | Reva | [Read More](https://medium.com/p/009c5eea7e46) |
-| Sat, 11 Apr 2026 21:50:49 GMT | Agentic SAMM: A Security Framework Extension for AI-Driven Development | Sergey Gordeychik | [Read More](https://medium.com/p/89c708978676) |
-| Sat, 11 Apr 2026 21:30:19 GMT | Username Enumeration Via Different Responses — Welcome to the Authentication Series | morgan_hack | [Read More](https://medium.com/p/17ed2d417c69) |
-| Sat, 11 Apr 2026 21:27:01 GMT | The AI Divide Will Hit Small Nations First. The Cybersecurity Data Proves It. | Inshan Meahjohn | [Read More](https://medium.com/p/5a7899298790) |
