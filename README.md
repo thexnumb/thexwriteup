@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 12 Apr 2026 16:46:24 GMT | Introduction to DOS Header and DOS Stub (PE)- Nir(7) | 0xNirSec | [Read More](https://medium.com/p/f96cf73da7a8) |
+| Sun, 12 Apr 2026 16:43:02 GMT | Project Glasswing: Belief as a Security Strategy | evoailabs | [Read More](https://medium.com/p/a47e08baa39d) |
+| Sun, 12 Apr 2026 16:42:34 GMT | The Operations Manual for a System You Actually Own | Kusunoki | [Read More](https://medium.com/p/a0f8ca03481e) |
+| Sun, 12 Apr 2026 16:42:08 GMT | BAYREUTHWING Brings AI-Powered Precision to Code Vulnerability Detection | Saiprudhviraja | [Read More](https://medium.com/p/19f5f7f7e932) |
+| Sun, 12 Apr 2026 16:37:41 GMT | Building a CRA-Compliant Vulnerability Management Program from Scratch | CRA Decoded | [Read More](https://medium.com/p/eb15133cd25e) |
+| Sun, 12 Apr 2026 16:37:09 GMT | Project Glasswing: How Anthropic and Big Tech Are Reinventing Cybersecurity | Faisal Khan | [Read More](https://medium.com/p/5b42a27b3ebd) |
+| Sun, 12 Apr 2026 16:35:33 GMT | HackTheBox — DevArea (Medium Linux): Walkthrough | J0K3R | [Read More](https://medium.com/p/32a549dfdbc5) |
+| Sun, 12 Apr 2026 16:35:26 GMT | HackTheBox — Snapped (Hard Linux): Walkthrough | J0K3R | [Read More](https://medium.com/p/2ca3094f065f) |
+| Sun, 12 Apr 2026 16:30:53 GMT | HASHING BASICS: AUDIT SECURITY DB LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/9529af6f1883) |
+| Sun, 12 Apr 2026 16:27:15 GMT | From Low-Privilege to Root: A Complete Linux Privilege Escalation Walkthrough (SUID, Credential… | Cybernerddd | [Read More](https://medium.com/p/9c0b362d2c4e) |
+| Sun, 12 Apr 2026 16:26:46 GMT | Active Directory Security: Common Attack Vectors and Detection Strategies. Part 1 | Emanuelyudica | [Read More](https://medium.com/p/b1d5885b9a6c) |
+| Sun, 12 Apr 2026 16:12:14 GMT | The Server Gave Me the Tokens. I Just Used Them. | Ismayil Huseynli | [Read More](https://medium.com/p/60f8e7564fd4) |
+| Sun, 12 Apr 2026 16:06:37 GMT | From Trusted Tools to Zero-Day Chaos: Inside the 2026 Cybersecurity Storm Shaking Windows and… | eL Njas!™ | [Read More](https://medium.com/p/e6e2e2c85fa1) |
+| Sun, 12 Apr 2026 16:00:18 GMT | Race Condition in Withdrawal Function: From Discovery to POC | Goris | [Read More](https://medium.com/p/56bff465e0eb) |
 | Sun, 12 Apr 2026 15:43:49 GMT | Lab: Insecure direct object reference | PRiTi.EX | [Read More](https://medium.com/p/a3fbeff35485) |
 | Sun, 12 Apr 2026 15:32:53 GMT | Mind the Gap: Creating Hybrid Edges with DataHound | Tom O'Neill | [Read More](https://medium.com/p/887320d4293a) |
 | Sun, 12 Apr 2026 15:20:25 GMT | Forrester just published something worth reading carefully: “Project Glasswing: The 10 Consequences… | Joshi | [Read More](https://medium.com/p/8ab3a138ddbe) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 09:48:25 GMT | Why Nebraska Businesses Are Rethinking Security Systems in 2026 | ASI Systems Pro | [Read More](https://medium.com/p/737ea3aaf014) |
 | Sun, 12 Apr 2026 09:46:23 GMT | Beginner Guide to XSS (Cross-Site Scripting) | Md. Lavib Uddin Ashik | [Read More](https://medium.com/p/be98127adac0) |
 | Sun, 12 Apr 2026 09:35:02 GMT | Incident Response Report: Web Application Denial of Service (DoS) | Elmir | [Read More](https://medium.com/p/5901fd91fd04) |
-| Sun, 12 Apr 2026 09:34:38 GMT | Windows Privilege Escalation Skills Assessment — Part I | Psychopath-Traveler | [Read More](https://medium.com/p/c1c50b3f9f68) |
-| Sun, 12 Apr 2026 09:32:16 GMT | Anthropic Built an AI Too Dangerous to Release. Here’s Why That Terrifies Me. | FelixNg | [Read More](https://medium.com/p/845a2140cf7b) |
-| Sun, 12 Apr 2026 09:30:22 GMT | Firebase Database — Mobile Apps Security Static Analysis Part III | ./Rey~ | [Read More](https://medium.com/p/9801b7f7941c) |
-| Sun, 12 Apr 2026 09:29:07 GMT | OSINT Geopolitics Weekly (April 6–12, 2026): Iran War, Strait of Hormuz Crisis, Oil Shock & Global… | Gianluca Galimberti | [Read More](https://medium.com/p/e017a25d74c2) |
-| Sun, 12 Apr 2026 09:19:56 GMT | The Glasswing Protocol: Europe’s High-Stakes Gambit in the Age of Autonomous Risk | Daniel Živica | [Read More](https://medium.com/p/0b65ab030bae) |
-| Sun, 12 Apr 2026 09:15:34 GMT | “David’s Shield: Your Blueprint for EMP Survival” | Jennifer Aniston | [Read More](https://medium.com/p/61b114f60fed) |
-| Sun, 12 Apr 2026 09:15:15 GMT | Why do I feel so hollow inside? | maria ｡๑ ° | [Read More](https://medium.com/p/4ecadae04db4) |
-| Sun, 12 Apr 2026 09:07:22 GMT | Zero-Click Attack - Phone Hacking - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/fab7b3353988) |
-| Sun, 12 Apr 2026 08:56:13 GMT | More alerts do not mean more security | Chetan Seripally | [Read More](https://medium.com/p/d3d663bbd892) |
-| Sun, 12 Apr 2026 08:49:30 GMT | Chain Guard Global · Intelligence Layer for World Trade | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/5ca162c11943) |
-| Sun, 12 Apr 2026 08:49:01 GMT | Why Anthropic’s New AI Mythos Is Causing Panic in the Financial Industry | Tinz Twins Invest | [Read More](https://medium.com/p/3cac17279fad) |
-| Sun, 12 Apr 2026 08:43:34 GMT | The Digital Sovereign: Why ForbiddenGPT is the Final Frontier of AI Independence | Unknown | [Read More](https://medium.com/p/bd680b52ce4f) |
-| Sun, 12 Apr 2026 08:41:23 GMT | What Is Ciforus? A Privacy-First Platform Built Before the Token | Ciforus | [Read More](https://medium.com/p/fabc434f344d) |
-| Sun, 12 Apr 2026 08:39:24 GMT | The Forbidden Edge: Why Elite Developers are Moving to ForbiddenGPT | Aliahmad | [Read More](https://medium.com/p/5c3164ad9434) |
