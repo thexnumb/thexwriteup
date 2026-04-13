@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Apr 2026 17:52:37 GMT | AWS Security Guard AI: Automated Security Remediation with Claude 3.5 Sonnet | Roman Ceresnak, PhD | [Read More](https://medium.com/p/d24062b5676f) |
+| Mon, 13 Apr 2026 17:52:07 GMT | The Silent Revolution Beneath Bitcoin’s Price Charts | Daniella Nwachukwu | [Read More](https://medium.com/p/a64c4a4eec9f) |
+| Mon, 13 Apr 2026 17:44:20 GMT | AI Threat Modelling Assessment (THM) Tryhackme Walkthrough With All Answer | Lawvye | [Read More](https://medium.com/p/1fe630680aee) |
+| Mon, 13 Apr 2026 17:40:28 GMT | Beyond the Matrix: Building Your Foundation in Hacking, Linux, and Labs | Faheemmusthafa P | [Read More](https://medium.com/p/2638b75641d9) |
+| Mon, 13 Apr 2026 17:39:41 GMT | Cybersecurity Best Practices for Financial Data in the Cloud | nishu facile | [Read More](https://medium.com/p/c46efe591a53) |
+| Mon, 13 Apr 2026 17:37:06 GMT | When a Woman Takes Care of You, and You Don’t Know How to Let Her | Jason Osagie | [Read More](https://medium.com/p/263fd92af77e) |
+| Mon, 13 Apr 2026 17:31:01 GMT | TLS, CDNs, and Where Your Data Actually Gets Decrypted | Crowx01 | [Read More](https://medium.com/p/347bf1e51820) |
+| Mon, 13 Apr 2026 17:26:41 GMT | CySA+ Hands-On Lab — Nessus install and scanning | Bob Malin | [Read More](https://medium.com/p/e41fee746b6e) |
+| Mon, 13 Apr 2026 17:25:49 GMT | CEX Risks and the Shadow of KYC Leaks | CryptDocker | [Read More](https://medium.com/p/29bfbee060ce) |
+| Mon, 13 Apr 2026 17:25:05 GMT | What is Project Glasswing? | Mohamed Amaan | [Read More](https://medium.com/p/fbe4ba767f33) |
+| Mon, 13 Apr 2026 17:17:16 GMT | JWT Authentication is Just a Club Wristband: A Stress-Free Guide | CODEMANCE_47 | [Read More](https://medium.com/p/20c123d44123) |
+| Mon, 13 Apr 2026 17:14:43 GMT | Deepening My OT Cybersecurity Journey: From Understanding to Full-Scope Security | Levi_CYS | [Read More](https://medium.com/p/9a3b8483b1e4) |
+| Mon, 13 Apr 2026 17:13:45 GMT | What Project Glasswing Means for Enterprise Security Teams | Venu Rao | [Read More](https://medium.com/p/4ddb48c09cfd) |
+| Mon, 13 Apr 2026 17:11:38 GMT | Best Spy Camera WiFi Hidden Camera | Celiaracitano | [Read More](https://medium.com/p/44d40eba8222) |
+| Mon, 13 Apr 2026 17:06:48 GMT | Day 22: The Mathematical Shield — Applied Cryptography and PKI | Ndu | [Read More](https://medium.com/p/8011e3801244) |
+| Mon, 13 Apr 2026 17:05:45 GMT | Day 21: Shifting Left — DevSecOps and the CI/CD Pipeline | Ndu | [Read More](https://medium.com/p/a7d560527ad1) |
+| Mon, 13 Apr 2026 17:01:25 GMT | Not Every API Endpoint Should Accept Unlimited Requests | Vasyl Oliinyk | [Read More](https://medium.com/p/8a8f769b5fb7) |
+| Mon, 13 Apr 2026 17:00:24 GMT | From Self-Doubt to eJPT: How I Found My Path in Cybersecurity | Pawan R | [Read More](https://medium.com/p/c929a577d838) |
+| Mon, 13 Apr 2026 16:56:42 GMT | 5 Brutal Lessons I Learned After Failing My First OSCP Attempt (And How They Helped Me Pass the… | Alex Rivera | [Read More](https://medium.com/p/f5cff73f84ee) |
+| Mon, 13 Apr 2026 16:46:13 GMT | I Tried Every Major Cybersecurity Learning Platform. Here’s Why I Built Cybrixen Instead. | Morris | [Read More](https://medium.com/p/39625976d1b4) |
+| Mon, 13 Apr 2026 16:40:43 GMT | How to Make Money Online with Software: 10 Proven Methods for 2026 | Collabig | [Read More](https://medium.com/p/6156ca74a141) |
 | Mon, 13 Apr 2026 16:34:08 GMT | Why Penetration Testing Is Non-Negotiable | Kamalmeet Singh | [Read More](https://medium.com/p/8a1b993eda3c) |
 | Mon, 13 Apr 2026 16:31:03 GMT | I Stopped Writing for 2 Years and 2 Months — Here’s Why I’m Finally Coming Back With 3 Posts a Week | Haripriya Ramaraj | [Read More](https://medium.com/p/d51e5466f9a6) |
 | Mon, 13 Apr 2026 16:25:38 GMT | The Psychology of Vulnerability: Why Depending on Someone Feels So Risky | Shradha Maity | [Read More](https://medium.com/p/2a46d23bfeab) |
@@ -52,6 +73,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Apr 2026 14:54:27 GMT | Malware Analysis: STX RAT | Cyd Tseng | [Read More](https://medium.com/p/65e95da06f2f) |
 | Mon, 13 Apr 2026 14:47:31 GMT | Unlock the Power of Observability with Dynatrace — Join Our Free Live Demo On Saturday! | SamIT Technology | [Read More](https://medium.com/p/ea91ce13c190) |
 | Mon, 13 Apr 2026 14:47:06 GMT | My First Bug Bounty Experience ‍ | Md. Lavib Uddin Ashik | [Read More](https://medium.com/p/22e615cdb47b) |
+| Mon, 13 Apr 2026 14:26:39 GMT | 1.52 TB Stolen. Five Days Offline. Could Your Business Survive? | TechDemocracy | [Read More](https://medium.com/p/a2c54469d5b3) |
 | Mon, 13 Apr 2026 14:19:23 GMT | Simulated a Real Cyber Attack Using Atomic Red Team — Here’s How I Detected It in Splunk | Shailesh Patil | [Read More](https://medium.com/p/1bf26a29191e) |
 | Mon, 13 Apr 2026 14:19:19 GMT | We All Hide More Than We Admit | Anjali Sinha | [Read More](https://medium.com/p/a19b86df76f8) |
 | Mon, 13 Apr 2026 14:13:09 GMT | I Had Zero Tech Background - Here’s How I Broke Into Cybersecurity in 12 Months | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/8719d76301cd) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Apr 2026 12:12:41 GMT | 7 Simple Hacks to Instantly Double Your WiFi Speed | Caffeine Tech | [Read More](https://medium.com/p/501db3dbb480) |
 | Mon, 13 Apr 2026 12:06:01 GMT | ServiceNow Knowledge Bases: Overview of What Actually Works | Tyrik Emptage | [Read More](https://medium.com/p/c5814f5d53e8) |
 | Mon, 13 Apr 2026 12:05:49 GMT | Your Passwords Will Pass With You — Unless You Do This | My loved ones | [Read More](https://medium.com/p/ee78a746987b) |
-| Mon, 13 Apr 2026 12:05:15 GMT | entry 002 · SOC journey | Naana Sarkodie | [Read More](https://medium.com/p/ac34a4a20f36) |
-| Mon, 13 Apr 2026 12:03:23 GMT | Cybersecurity Company: The Strategic Role of Cyber Security Solution Providers in 2026 | Tekkis | [Read More](https://medium.com/p/731fd23c9acc) |
-| Mon, 13 Apr 2026 12:03:00 GMT | AD Pentesting 01: Getting your head right | Niklas Heringer | [Read More](https://medium.com/p/e1a3a2e97e0b) |
-| Mon, 13 Apr 2026 12:02:19 GMT | Arka Planda Neler Oluyor? Tarayıcının Gizli Dünyası | Bensu Öğüt | [Read More](https://medium.com/p/044d4720385c) |
-| Mon, 13 Apr 2026 11:54:58 GMT | AppsFlyer SDK Exploited in New Supply Chain Crypto Attack | Oran F | [Read More](https://medium.com/p/2601659134bf) |
-| Mon, 13 Apr 2026 11:52:28 GMT | Attacktive Directory: Full Active Directory Compromise Walkthrough | Anonymousas | [Read More](https://medium.com/p/82beb7fb7a8a) |
-| Mon, 13 Apr 2026 11:52:02 GMT | Small Event vs Large Event Security Needs in Singapore | Jane Tang | [Read More](https://medium.com/p/c27e457180ab) |
-| Mon, 13 Apr 2026 11:48:31 GMT | How to Choose the Right Cyber Security Service Provider in the US | logging security | [Read More](https://medium.com/p/919744f9b1de) |
-| Mon, 13 Apr 2026 11:46:00 GMT | Even AWS Got This Wrong — And Your AI Probably Does Too | Jonas Wolffsen | [Read More](https://medium.com/p/175ef5c9ba23) |
-| Mon, 13 Apr 2026 11:45:26 GMT | OSWE vs CWEE: Which Web Pentesting Certification Should You Choose? | Andrew Kutuzov | [Read More](https://medium.com/p/c6a930379b53) |
-| Mon, 13 Apr 2026 11:39:24 GMT | How 3D Secure Authentication Works — A Backend Engineer’s Perspective | Udit Bahukhandi | [Read More](https://medium.com/p/d11cbabdc854) |
-| Mon, 13 Apr 2026 11:37:46 GMT | How I Found 0-Click Account-Takeover | Athul MS | [Read More](https://medium.com/p/f97d060f567f) |
-| Mon, 13 Apr 2026 11:31:01 GMT | The Only Successful SSH Login That Didn’t Run a Single Command #2 | Faruk Ahmed | [Read More](https://medium.com/p/456fbce22595) |
-| Mon, 13 Apr 2026 11:28:58 GMT | Traps in the Wild: Building Trust in AI Agents with Honeypots and Crucibles | Chinenyang | [Read More](https://medium.com/p/53d884c4010d) |
-| Mon, 13 Apr 2026 11:28:24 GMT | In today’s threat landscape, buying more security tools doesn’t automatically make your business… | Adl99cybersecurity | [Read More](https://medium.com/p/4b3026467ad0) |
-| Mon, 13 Apr 2026 11:25:01 GMT | The AI Model Anthropic Won’t Let You Use | Tanmay Bansal | [Read More](https://medium.com/p/0e7517440a4d) |
-| Mon, 13 Apr 2026 11:23:51 GMT | Agentic AI Is Here: Why Claude Demands a New Security Architecture | Rakeshkhanduja | [Read More](https://medium.com/p/7f074155a466) |
-| Mon, 13 Apr 2026 11:23:18 GMT | From CVE to Digital Apocalypse: Dissecting CVE-2026–1340 and the Art of Extreme Threat Modeling | Frank Mccausland | [Read More](https://medium.com/p/036c417562a7) |
-| Mon, 13 Apr 2026 11:22:40 GMT | The Ultimate Okala 8020 Trading Pit Playbook Review: Is This the Best Order Flow Strategy? | Robin25 | [Read More](https://medium.com/p/a79d703e7c6b) |
-| Mon, 13 Apr 2026 11:21:01 GMT | The Ghost in the Wire | Salena Lark | [Read More](https://medium.com/p/c9e802bf6860) |
-| Mon, 13 Apr 2026 11:20:36 GMT | HackStar Is the USB Automation Device That’s Changing the Game — Here’s Why Developers Are Going… | Harshal Vij | [Read More](https://medium.com/p/f11954a5a340) |
-| Mon, 13 Apr 2026 11:07:43 GMT | Making Light Spin with a Gold Nanorod | Tokyo University of Science | [Read More](https://medium.com/p/24bc2b24eb69) |
