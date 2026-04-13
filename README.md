@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Apr 2026 21:49:45 GMT | Blaster v2.0 — A Modular Evolution of a Security Reconnaissance Framework | Muhammad Usman Faridi | [Read More](https://medium.com/p/2572525a5983) |
+| Mon, 13 Apr 2026 21:42:46 GMT | When a friend request becomes a cyber trap: how North Korean hackers are using social media to… | Diyatk | [Read More](https://medium.com/p/95e1dec2dbee) |
+| Mon, 13 Apr 2026 21:39:25 GMT | Natas Levels 0 to 2 Write-UP | Andrew | [Read More](https://medium.com/p/0a091f8af912) |
+| Mon, 13 Apr 2026 21:38:34 GMT | I Bought a Tablet on Temu. It Came Pre-Loaded with Active Spyware. | two3 | [Read More](https://medium.com/p/515983b5156d) |
+| Mon, 13 Apr 2026 21:38:13 GMT | What I Learned Building My First Cybersecurity Tool as a Student | Minhajul Mahib | [Read More](https://medium.com/p/6e2a575babc6) |
+| Mon, 13 Apr 2026 21:35:38 GMT | Mr. Robot -by Cyber Defenders | cyber-defender | [Read More](https://medium.com/p/04083b04bec7) |
+| Mon, 13 Apr 2026 21:35:05 GMT | Fixture - WebVerse (Medium) | 7s26Simon | [Read More](https://medium.com/p/9d1e8adb4c1b) |
+| Mon, 13 Apr 2026 21:30:28 GMT | Claude Mythos and the Enterprise Wake-Up Call: What Project Glasswing Means for IT Leaders and… | Ameet Sinha | [Read More](https://medium.com/p/34db06d9fd26) |
+| Mon, 13 Apr 2026 21:30:24 GMT | Shai-Hulud 2.0: | Arshad Kazmi | [Read More](https://medium.com/p/0817c615d93b) |
+| Mon, 13 Apr 2026 21:28:55 GMT | How a 40-Minute Window Brought Down a $10 Billion AI Startup: The Mercor Data Breach, Explained | Kush Patel | [Read More](https://medium.com/p/32651cce8b00) |
+| Mon, 13 Apr 2026 21:25:43 GMT | AWS PrivateLink: 서로 다른 계정에서 내부망처럼 안전하게 호출하기 (feat. 삽질기) | 이진만 (Jamie) | [Read More](https://medium.com/p/533691c82d68) |
+| Mon, 13 Apr 2026 21:23:30 GMT | vulnversity — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/74eafd10d52a) |
+| Mon, 13 Apr 2026 21:21:52 GMT | The Scam That Sounds Like Someone You love | James Williams | [Read More](https://medium.com/p/95dcacbb8406) |
+| Mon, 13 Apr 2026 21:17:38 GMT | Dating Safety Tech: Smart Ways to Meet Strangers Safely | Kamila Khan | [Read More](https://medium.com/p/bbeb1d704d9a) |
+| Mon, 13 Apr 2026 21:11:23 GMT | Fake wallet app on Apple store leads to $420,000 theft with nearly 6 BTC stolen | Coin Headlines | [Read More](https://medium.com/p/f6b92c2f2a93) |
+| Mon, 13 Apr 2026 21:03:24 GMT | ENG - TryHackMe Basic Pentesting CTF Solution | Efe Özel | [Read More](https://medium.com/p/51e862e0a8a9) |
+| Mon, 13 Apr 2026 20:58:32 GMT | Account Takeover (ATO) — How Attackers Gain Full Control of Accounts | ghostyjoe | [Read More](https://medium.com/p/72dbc07335e1) |
 | Mon, 13 Apr 2026 20:53:37 GMT | The week Washington quietly decided AI offensive capability was a systemic risk | Muhammad Qayyum | [Read More](https://medium.com/p/84c5edc82d7c) |
 | Mon, 13 Apr 2026 20:50:57 GMT | From Traffic to Visibility: FortiGate Üzerinde FortiView Analizi | Ahmet Badem | [Read More](https://medium.com/p/d566f89b0e75) |
 | Mon, 13 Apr 2026 20:50:12 GMT | Your Data Is Yours. Don’t Surrender It to Claude. | Shivam Mittal | [Read More](https://medium.com/p/638f147468e2) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Apr 2026 15:41:06 GMT | I Curled Two Endpoints and Got a CVE | Rajdip | [Read More](https://medium.com/p/ccb901ae340e) |
 | Mon, 13 Apr 2026 15:40:10 GMT | TryHackMe: FIXIT ( No Spoilers ) | lukewago | [Read More](https://medium.com/p/827d4397af96) |
 | Mon, 13 Apr 2026 15:38:32 GMT | AI Agent Security in Cybersecurity - Risks & Defense Explained | Pentester Club | [Read More](https://medium.com/p/d5f79a06873f) |
-| Mon, 13 Apr 2026 15:28:31 GMT | Azure Güvenliğini Anlamak: AZ-500 Rehberi | Iremnur Arslan | [Read More](https://medium.com/p/e3bbe215cc9f) |
-| Mon, 13 Apr 2026 15:27:16 GMT | Cyber Security Basics: Why Every Beginner Must Learn This in 2026 | Skillvalix | [Read More](https://medium.com/p/06f695f7f9eb) |
-| Mon, 13 Apr 2026 15:20:10 GMT | Incidence of two canals( buccal and lingual ) in mandibular premolars during root canal treatment… | Dental Writer's | [Read More](https://medium.com/p/6ec75f4eb9dc) |
-| Mon, 13 Apr 2026 15:18:00 GMT | Police tracking 500M devices using AD | Stanislav Klevtsov | [Read More](https://medium.com/p/fa4d326991c3) |
-| Mon, 13 Apr 2026 15:16:09 GMT | “Bug Bounty Bootcamp #33: IDOR Hunting — When Changing a Single Number Grants You Everyone’s… | Aman Sharma | [Read More](https://medium.com/p/d66af4fdabd5) |
-| Mon, 13 Apr 2026 15:14:46 GMT | Sudo Buffer Overflow: TryHackMe walkthrough | Shree | [Read More](https://medium.com/p/e1ad91fe7d9e) |
-| Mon, 13 Apr 2026 15:06:48 GMT | DOT Hacked: The Hyperbridge Exploit | Stepan Chekhovskoi | [Read More](https://medium.com/p/53e149b93961) |
-| Mon, 13 Apr 2026 15:04:15 GMT | Oh My WebServer (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/034a802a7f07) |
-| Mon, 13 Apr 2026 15:03:51 GMT | From Architect to Sentinel: Defending Your Python Applications Against Path Traversal | Edgar Milvus | [Read More](https://medium.com/p/0354f64ef701) |
-| Mon, 13 Apr 2026 15:02:49 GMT | IAM Risks and Threat Detection: Why identity is the real attack surface in AWS | Fernando (Sh4dowBR) Alencar | [Read More](https://medium.com/p/0cb4583723c6) |
-| Mon, 13 Apr 2026 15:02:41 GMT | Got it  You want a professional version of the article so it feels polished, credible, and ready… | Sunil | [Read More](https://medium.com/p/061ba7aa0da5) |
-| Mon, 13 Apr 2026 15:02:36 GMT | Splunk: Complete set-up guide | Ghazi Sultan | [Read More](https://medium.com/p/0d6e7f261387) |
-| Mon, 13 Apr 2026 15:02:28 GMT | Hijack — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/ae366708e874) |
-| Mon, 13 Apr 2026 15:02:19 GMT | My First Steps into Cybersecurity: Beyond the Buzzwords | Vikram K | [Read More](https://medium.com/p/04031b7f59ba) |
-| Mon, 13 Apr 2026 15:01:50 GMT | PODCAST WITH CLAUDE | Sunil | [Read More](https://medium.com/p/bfa42ce3ecac) |
-| Mon, 13 Apr 2026 15:00:19 GMT | Phishing Basics - Tryhackme Room Walkthrough | FireWolf | [Read More](https://medium.com/p/55c22d6745e7) |
-| Mon, 13 Apr 2026 14:58:18 GMT | Claude Mythos: A Beginner-Friendly Technical Deep Dive | Jennifer Fu | [Read More](https://medium.com/p/f10952f77b4d) |
