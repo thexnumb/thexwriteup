@@ -12,7 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Apr 2026 02:40:54 GMT | Authentication Bypass — How Attackers Become Anyone | ghostyjoe | [Read More](https://medium.com/p/2cfb236bf831) |
+| Mon, 13 Apr 2026 02:38:03 GMT | Invalid username or password. Please try again | Haldian | [Read More](https://medium.com/p/6741ebca3a52) |
+| Mon, 13 Apr 2026 02:36:14 GMT | SOC Automation Lab Series 3 | The Commoness | [Read More](https://medium.com/p/cf3a04cbe05d) |
+| Mon, 13 Apr 2026 02:32:33 GMT | Cybersecurity 2026: Resilience, AI Governance, and the Global Challenge | Jedelmur | [Read More](https://medium.com/p/37996d8be3b7) |
+| Mon, 13 Apr 2026 02:30:14 GMT | This Week in Tech: Unpatched, Unleashed, and Unstoppable | Aman Rawat | [Read More](https://medium.com/p/bcadc3948c7c) |
+| Mon, 13 Apr 2026 02:29:53 GMT | Cara Mengetauhi Password Admin pada Instalasi Wazuh | Haldian | [Read More](https://medium.com/p/303def90c0da) |
+| Mon, 13 Apr 2026 02:27:36 GMT | [Anthropic] — Claude Mythos Preview 시스템 카드 상세 분석 및 안전성 평가 리포트 | YouShin kim | [Read More](https://medium.com/p/bcc3e16dfe14) |
+| Mon, 13 Apr 2026 02:15:36 GMT | Monitoring DNS Traffic for Suspicious Activity using Wireshark | Binyamin zahid | [Read More](https://medium.com/p/0f6e65f590f7) |
+| Mon, 13 Apr 2026 02:06:25 GMT | My Bug Bounty Journey #10: Start Your Bug Bounty Journey Today | awchjimmy | [Read More](https://medium.com/p/2ae7707ad6c7) |
+| Mon, 13 Apr 2026 02:04:30 GMT | Identifying Exposed Credentials in Network Traffic | Binyamin zahid | [Read More](https://medium.com/p/d59a74bd137a) |
+| Mon, 13 Apr 2026 01:54:45 GMT | Architecture 101: How to Code a Simple Mobile Application Game in 2026 | Retronaut | [Read More](https://medium.com/p/a67d209d8e07) |
+| Mon, 13 Apr 2026 01:50:35 GMT | Cool Open Redirect With Bypass | pm | [Read More](https://medium.com/p/d4a4f726b391) |
+| Mon, 13 Apr 2026 01:38:37 GMT | LazyAdmin - TryHackMe Walkthrough | Robert Gooding | [Read More](https://medium.com/p/461a9ccc20e8) |
+| Mon, 13 Apr 2026 01:36:44 GMT | AI and Modern Warfare | Pasan Sathsara | [Read More](https://medium.com/p/97118aa0c802) |
+| Mon, 13 Apr 2026 01:28:31 GMT | Blind SQL injection with conditional errors | Mohamed Ahmed | [Read More](https://medium.com/p/5f18c52bed71) |
+| Mon, 13 Apr 2026 01:13:02 GMT | The Artifacts of Presence: Advanced Metadata Analysis | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/512db20e15f4) |
+| Mon, 13 Apr 2026 00:57:10 GMT | What Scale-Up CISOs Actually Need: The Politics Nobody Prepares You For | John Rouffas | [Read More](https://medium.com/p/872a6396ec8a) |
+| Mon, 13 Apr 2026 00:52:50 GMT | ⚙️ 09. — Insecure Direct Object References (IDOR) | The4v1 | [Read More](https://medium.com/p/c1e63fc23a3b) |
+| Mon, 13 Apr 2026 00:50:20 GMT | ⚙️ 08. — User ID controlled by request parameter with password disclosure | The4v1 | [Read More](https://medium.com/p/4fbdd21e15ae) |
+| Mon, 13 Apr 2026 00:37:10 GMT | The Secret Life of AI: The Dark Side of AI | Aaron Rose | [Read More](https://medium.com/p/809cb2bc4511) |
+| Mon, 13 Apr 2026 00:33:17 GMT | Investigating Windows Event Logs: A Practical Digital Forensics Walkthrough | Ritujaa Kelaskar | [Read More](https://medium.com/p/0c9ba984165b) |
+| Mon, 13 Apr 2026 00:09:32 GMT | My Medium Partner Program Suddenly Turned “Inactive” And I Still Don’t Know Why | Monika sharma | [Read More](https://medium.com/p/039faed137f5) |
+| Mon, 13 Apr 2026 00:07:21 GMT | How I Found a CVSS 8.6 Token Exposure in a U.S. Financial Firm’s Production CMS | mv999exe | [Read More](https://medium.com/p/1431fbedd5fe) |
+| Mon, 13 Apr 2026 00:02:07 GMT | Vibe Hacking: How AI Is Helping Hackers | Shahzaib | [Read More](https://medium.com/p/f1e0d52c8722) |
+| Mon, 13 Apr 2026 00:01:56 GMT | I Found a Broken Login System in a Fintech App — Here’s How I Did It | Yamini Yadav_369 | [Read More](https://medium.com/p/7ec3f5f43fac) |
+| Mon, 13 Apr 2026 00:01:14 GMT | Advanced Vue.js Security Strategies | Joko Nardi | [Read More](https://medium.com/p/4625eca99dd1) |
+| Mon, 13 Apr 2026 00:01:01 GMT | Metasploit: The Tool That Changed Penetration Testing Standards | Aryan Sharma | [Read More](https://medium.com/p/517eb8907fca) |
+| Sun, 12 Apr 2026 23:48:54 GMT | The Illusion of Security: End to end compromise of a Banking App | Mr_Curiosity | [Read More](https://medium.com/p/c87fa1f7813d) |
 | Sun, 12 Apr 2026 23:30:50 GMT | Building a Secure Web Server from Scratch on AWS: A Deep Dive into VPC, Security Groups, and… | Gaurav Chavan - Cloud Enthusiast | [Read More](https://medium.com/p/3f83fec1d19d) |
+| Sun, 12 Apr 2026 23:30:32 GMT | 20 Most Important AI Concepts Explained in Just 20 Minute | L Churchill | [Read More](https://medium.com/p/bcfb8676e10c) |
 | Sun, 12 Apr 2026 23:28:04 GMT | Introducción a la API de Windows Para el desarrollo de malware, parte 3. | Dalton | [Read More](https://medium.com/p/65edf3c56205) |
 | Sun, 12 Apr 2026 23:14:39 GMT | Day 5-Network+ N10–009 Compare and Contrast Transmission Media and Transceivers | Hassen Hannachi | [Read More](https://medium.com/p/67401540c90a) |
 | Sun, 12 Apr 2026 23:12:04 GMT | Dance-Samba Writeup Español | Us0lfr | [Read More](https://medium.com/p/d2b88004617a) |
@@ -83,32 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 18:14:45 GMT | The Day the Internet Blinked: A Case Study of the 2021 Meta Outage | Kantrolvamshikrishnarao | [Read More](https://medium.com/p/8c3fb451b6cd) |
 | Sun, 12 Apr 2026 18:12:35 GMT | The Day Facebook Disappeared: What Engineers Can Learn from the 2021 Global Outage | Rithwikkuchana | [Read More](https://medium.com/p/c3e58e787452) |
 | Sun, 12 Apr 2026 18:03:15 GMT | Yapay Zeka: Zihinsel Bir Asistan mı, Yoksa Beyin Tembelliği mi? | HSD Atatürk Üniversitesi | [Read More](https://medium.com/p/273eef0d96b5) |
-| Sun, 12 Apr 2026 18:02:12 GMT | HTB: Dancing Box Walkthrough | Coldstart Coder | [Read More](https://medium.com/p/7453c60ffdca) |
-| Sun, 12 Apr 2026 17:56:57 GMT | [Network Reconnaissance Report] Eksternal Exposure Analysis: bapenda.jabarprov.go.id | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/d1e0328bca1f) |
-| Sun, 12 Apr 2026 17:56:17 GMT | How to Check if a Solana Token Is Safe: A Complete Security Checklist for 2026 | One Piece | [Read More](https://medium.com/p/afa21c0eed4f) |
-| Sun, 12 Apr 2026 17:47:58 GMT | Snyk: The Developer’s Shield for Modern Cybersecurity | Anirudh Singh | [Read More](https://medium.com/p/524830176830) |
-| Sun, 12 Apr 2026 17:36:01 GMT | Cybersecurity Strategies for Financial Institutions | Omer Akin | [Read More](https://medium.com/p/8baae30363c5) |
-| Sun, 12 Apr 2026 17:35:59 GMT | Logical Issue Allowed Me to Create Support Cases Instead of Organization Admin | Hamzadzworm | [Read More](https://medium.com/p/174f52eedcba) |
-| Sun, 12 Apr 2026 17:27:32 GMT | Top 12 Security Audit Software Tools for 2026 | Walletfinder Ai | [Read More](https://medium.com/p/8c9d8c9c1c3b) |
-| Sun, 12 Apr 2026 17:19:21 GMT | I Thought Online Scams Were Obvious — Until This Happened | Smriti Basnet | [Read More](https://medium.com/p/7508296a188a) |
-| Sun, 12 Apr 2026 17:18:30 GMT | Broken Access Control via Replay Attack | 0xJad | [Read More](https://medium.com/p/78bd960cdc9f) |
-| Sun, 12 Apr 2026 17:07:26 GMT | Obsession Writeup Español | Us0lfr | [Read More](https://medium.com/p/3f70a164aeff) |
-| Sun, 12 Apr 2026 17:05:41 GMT | Integrating VirusTotal Malware Intelligence with Wazuh — File, IP & URL Scanning | Jigneshdekate | [Read More](https://medium.com/p/7b30d5f18686) |
-| Sun, 12 Apr 2026 17:02:54 GMT | The Death of the “Wait-and-See” Security Model: Why Your Incident Response is Already Too Late | Lior Rotkovitch | [Read More](https://medium.com/p/5eca591c619e) |
-| Sun, 12 Apr 2026 17:00:40 GMT | BrowserMon Appliance Released: Enterprise Browser Security, Hardened and Ready to Deploy | Eman Khalid | [Read More](https://medium.com/p/82e6b328419c) |
-| Sun, 12 Apr 2026 16:58:23 GMT | I Didn’t Think We Were a Target. Then I Saw What Happened to KiranaPro. | Rudratic Technologies | [Read More](https://medium.com/p/14f6a95d86a4) |
-| Sun, 12 Apr 2026 16:54:46 GMT | You Won’t Believe This Open-Source AI Remembers Your Entire Work Life | cybrNK | [Read More](https://medium.com/p/5b7e75270a8c) |
-| Sun, 12 Apr 2026 16:46:24 GMT | Introduction to DOS Header and DOS Stub (PE)- Nir(7) | 0xNirSec | [Read More](https://medium.com/p/f96cf73da7a8) |
-| Sun, 12 Apr 2026 16:43:02 GMT | Project Glasswing: Belief as a Security Strategy | evoailabs | [Read More](https://medium.com/p/a47e08baa39d) |
-| Sun, 12 Apr 2026 16:42:34 GMT | The Operations Manual for a System You Actually Own | Kusunoki | [Read More](https://medium.com/p/a0f8ca03481e) |
-| Sun, 12 Apr 2026 16:42:08 GMT | BAYREUTHWING Brings AI-Powered Precision to Code Vulnerability Detection | Saiprudhviraja | [Read More](https://medium.com/p/19f5f7f7e932) |
-| Sun, 12 Apr 2026 16:37:41 GMT | Building a CRA-Compliant Vulnerability Management Program from Scratch | CRA Decoded | [Read More](https://medium.com/p/eb15133cd25e) |
-| Sun, 12 Apr 2026 16:37:09 GMT | Project Glasswing: How Anthropic and Big Tech Are Reinventing Cybersecurity | Faisal Khan | [Read More](https://medium.com/p/5b42a27b3ebd) |
-| Sun, 12 Apr 2026 16:35:33 GMT | HackTheBox — DevArea (Medium Linux): Walkthrough | J0K3R | [Read More](https://medium.com/p/32a549dfdbc5) |
-| Sun, 12 Apr 2026 16:35:26 GMT | HackTheBox — Snapped (Hard Linux): Walkthrough | J0K3R | [Read More](https://medium.com/p/2ca3094f065f) |
-| Sun, 12 Apr 2026 16:30:53 GMT | HASHING BASICS: AUDIT SECURITY DB LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/9529af6f1883) |
-| Sun, 12 Apr 2026 16:27:15 GMT | From Low-Privilege to Root: A Complete Linux Privilege Escalation Walkthrough (SUID, Credential… | Cybernerddd | [Read More](https://medium.com/p/9c0b362d2c4e) |
-| Sun, 12 Apr 2026 16:26:46 GMT | Active Directory Security: Common Attack Vectors and Detection Strategies. Part 1 | Emanuelyudica | [Read More](https://medium.com/p/b1d5885b9a6c) |
-| Sun, 12 Apr 2026 16:12:14 GMT | The Server Gave Me the Tokens. I Just Used Them. | Ismayil Huseynli | [Read More](https://medium.com/p/60f8e7564fd4) |
-| Sun, 12 Apr 2026 16:06:37 GMT | From Trusted Tools to Zero-Day Chaos: Inside the 2026 Cybersecurity Storm Shaking Windows and… | eL Njas!™ | [Read More](https://medium.com/p/e6e2e2c85fa1) |
-| Sun, 12 Apr 2026 16:00:18 GMT | Race Condition in Withdrawal Function: From Discovery to POC | Goris | [Read More](https://medium.com/p/56bff465e0eb) |
