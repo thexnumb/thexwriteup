@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Apr 2026 20:53:37 GMT | The week Washington quietly decided AI offensive capability was a systemic risk | Muhammad Qayyum | [Read More](https://medium.com/p/84c5edc82d7c) |
+| Mon, 13 Apr 2026 20:50:57 GMT | From Traffic to Visibility: FortiGate Üzerinde FortiView Analizi | Ahmet Badem | [Read More](https://medium.com/p/d566f89b0e75) |
+| Mon, 13 Apr 2026 20:50:12 GMT | Your Data Is Yours. Don’t Surrender It to Claude. | Shivam Mittal | [Read More](https://medium.com/p/638f147468e2) |
+| Mon, 13 Apr 2026 20:42:15 GMT | Why Do Security Alerts Get Ignored? | Greateets | [Read More](https://medium.com/p/c63044d03207) |
+| Mon, 13 Apr 2026 20:40:28 GMT | Anthropic Just Released a Model Too Dangerous to Make Public. | Tech Trends by Tähīr | [Read More](https://medium.com/p/7e7256c7a206) |
+| Mon, 13 Apr 2026 20:34:03 GMT | Finding CVE-2026-40103 in Vikunja: Scoped API Token Authorization Mismatch | Alecclyde | [Read More](https://medium.com/p/2af53cb6bea5) |
+| Mon, 13 Apr 2026 20:32:52 GMT | Driving into the Void: Amazon’s $100M Autopsy of the “Dark Code” Crisis | SOCFortress | [Read More](https://medium.com/p/439b4712f53b) |
+| Mon, 13 Apr 2026 20:31:30 GMT | When Cyberattacks Jump from Screens to Streets: The Rise of OT Warfare | Sharanraju | [Read More](https://medium.com/p/47ad71158e82) |
+| Mon, 13 Apr 2026 20:26:44 GMT | AIDL In Android & How To Exploit It? | Pooja Pawar | [Read More](https://medium.com/p/5e9703c26b54) |
+| Mon, 13 Apr 2026 20:26:28 GMT | How to Check If Your Email Was in a Data Breach (Using Cyberraxha’s Free Breach Checker) | Cyberraxha | [Read More](https://medium.com/p/852a8a11b4ab) |
+| Mon, 13 Apr 2026 20:21:01 GMT | From AI Chatbot to Cybersecurity Analyst: Integrating Claude with Kali Linux Using MCP | SDNTechForum | [Read More](https://medium.com/p/76c7daa42300) |
+| Mon, 13 Apr 2026 20:18:09 GMT | The Problem With “Human in the Loop” | Pharns Genece | [Read More](https://medium.com/p/89257bc4aa9a) |
+| Mon, 13 Apr 2026 20:16:11 GMT | Security Is Not a Cost Center – It Is a Business Imperativeb | Frank Elsner | [Read More](https://medium.com/p/dba5ddaaa33a) |
+| Mon, 13 Apr 2026 20:03:58 GMT | How I Turned an Anonymous Token Into Full Read Access to a Production Firebase Database | Amerghaith | [Read More](https://medium.com/p/c9d76e531dfe) |
+| Mon, 13 Apr 2026 19:50:58 GMT | Attackers Actively Exploiting Critical Vulnerability in Kali Forms Plugin | Wordfence | [Read More](https://medium.com/p/31061c887d42) |
 | Mon, 13 Apr 2026 19:39:34 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #12 | Antonio Formato | [Read More](https://medium.com/p/40a6b54ffdf2) |
 | Mon, 13 Apr 2026 19:37:11 GMT | The AI “Chat-and-Wait” Era is Over: Microsoft’s OpenClaw Leak Changes Copilot Forever | TechBird | [Read More](https://medium.com/p/4de9c763b049) |
 | Mon, 13 Apr 2026 19:28:19 GMT | Half-Spoken | Ar_you_th | [Read More](https://medium.com/p/c9626a06eb91) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Apr 2026 15:01:50 GMT | PODCAST WITH CLAUDE | Sunil | [Read More](https://medium.com/p/bfa42ce3ecac) |
 | Mon, 13 Apr 2026 15:00:19 GMT | Phishing Basics - Tryhackme Room Walkthrough | FireWolf | [Read More](https://medium.com/p/55c22d6745e7) |
 | Mon, 13 Apr 2026 14:58:18 GMT | Claude Mythos: A Beginner-Friendly Technical Deep Dive | Jennifer Fu | [Read More](https://medium.com/p/f10952f77b4d) |
-| Mon, 13 Apr 2026 14:54:55 GMT | Anthropic Put Their Most Powerful AI in a Locked Sandbox and Told It to Try Escaping. | Senaaravichandran A | [Read More](https://medium.com/p/a81df4b5ae1a) |
-| Mon, 13 Apr 2026 14:54:31 GMT | API Security Is Getting Weird | Tugan Atila | [Read More](https://medium.com/p/02fb428e059d) |
-| Mon, 13 Apr 2026 14:54:27 GMT | Malware Analysis: STX RAT | Cyd Tseng | [Read More](https://medium.com/p/65e95da06f2f) |
-| Mon, 13 Apr 2026 14:47:31 GMT | Unlock the Power of Observability with Dynatrace — Join Our Free Live Demo On Saturday! | SamIT Technology | [Read More](https://medium.com/p/ea91ce13c190) |
-| Mon, 13 Apr 2026 14:47:06 GMT | My First Bug Bounty Experience ‍ | Md. Lavib Uddin Ashik | [Read More](https://medium.com/p/22e615cdb47b) |
-| Mon, 13 Apr 2026 14:26:39 GMT | 1.52 TB Stolen. Five Days Offline. Could Your Business Survive? | TechDemocracy | [Read More](https://medium.com/p/a2c54469d5b3) |
-| Mon, 13 Apr 2026 14:19:23 GMT | Simulated a Real Cyber Attack Using Atomic Red Team — Here’s How I Detected It in Splunk | Shailesh Patil | [Read More](https://medium.com/p/1bf26a29191e) |
-| Mon, 13 Apr 2026 14:19:19 GMT | We All Hide More Than We Admit | Anjali Sinha | [Read More](https://medium.com/p/a19b86df76f8) |
-| Mon, 13 Apr 2026 14:14:34 GMT | Zero‑Touch RCE (Remote Code Execution) Attack | Ashwini Puranik | [Read More](https://medium.com/p/2672f08c30f0) |
-| Mon, 13 Apr 2026 14:13:09 GMT | I Had Zero Tech Background - Here’s How I Broke Into Cybersecurity in 12 Months | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/8719d76301cd) |
-| Mon, 13 Apr 2026 13:54:42 GMT | How Can You Transition from a Low-Paying Job to a High-Growth IT Career? | Abrahamtech | [Read More](https://medium.com/p/f1f25957dd97) |
-| Mon, 13 Apr 2026 13:51:13 GMT | SOC-Challenge-Day2 | Zuhair | [Read More](https://medium.com/p/9fee233ef249) |
-| Mon, 13 Apr 2026 13:50:21 GMT | From BOLA to Account Takeover via javascript: URI Injection | HCN | [Read More](https://medium.com/p/53521d291b10) |
-| Mon, 13 Apr 2026 13:49:45 GMT | Day 1: How I Trained My Brain for Cybercrime Investigation (Before Touching Any Tool) | Harshita Keshwani | [Read More](https://medium.com/p/058a75fc6c10) |
-| Mon, 13 Apr 2026 13:47:15 GMT | Manual vs. Automated: Decoding the Efficiency of DHCP in IPv4 Networks | Adem Dikkaya | [Read More](https://medium.com/p/c0fc716cf115) |
