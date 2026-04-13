@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Apr 2026 22:48:30 GMT | Making UAC Bypass Great Again in 2026 | Yua Mikanana | [Read More](https://medium.com/p/aa8c7c5b1950) |
+| Mon, 13 Apr 2026 22:33:10 GMT | The Booking.com Breach Isn’t the Real Problem. Phishing Is. | Todd Scanlan | [Read More](https://medium.com/p/a351192acd11) |
+| Mon, 13 Apr 2026 22:27:07 GMT | Best Home Security Systems in Settegast Houston TX | AlexBryn | [Read More](https://medium.com/p/524e5fab3437) |
+| Mon, 13 Apr 2026 22:24:30 GMT | Mexico Data Breach Demonstrates How AI Enables Single Operators to Scale Operations | Chris Buxton | [Read More](https://medium.com/p/bdc8166d4ba5) |
+| Mon, 13 Apr 2026 22:23:02 GMT | RaaS: Ransomware as a Service e Cybersecurity Zero Trust com IA: o futuro não é opcional | Fernando Rych | [Read More](https://medium.com/p/9ecf75374cd9) |
+| Mon, 13 Apr 2026 22:19:19 GMT | Day-2 Bypassing No Brackets XSS Filter | zero_day | [Read More](https://medium.com/p/ffeed8adb8ae) |
+| Mon, 13 Apr 2026 22:12:55 GMT | When a Facebook friend request becomes a cyber trap: how North Korean hackers are using social… | Diya TK | [Read More](https://medium.com/p/1c634481d2f4) |
+| Mon, 13 Apr 2026 22:04:40 GMT | She’s a Meta AI Security Researcher and her AI agent still went rogue | lassiecoder | [Read More](https://medium.com/p/2bce3127e031) |
+| Mon, 13 Apr 2026 22:04:18 GMT | Blind SQL injection with time delays and information retrieval | Mohamed Ahmed | [Read More](https://medium.com/p/0b2e75895a97) |
+| Mon, 13 Apr 2026 22:01:27 GMT | Reverse Engineering on CyberTalents: Solving All Easy Challenges Part 3 | Isv0x1 | [Read More](https://medium.com/p/9103445f7470) |
+| Mon, 13 Apr 2026 22:01:01 GMT | The Silicon Protocol: The Prompt Logging Decision — When Debug Logs Cost $675K | Piyoosh Rai | [Read More](https://medium.com/p/0922436a6de1) |
+| Mon, 13 Apr 2026 21:56:45 GMT | Cybersecurity Technical Writer - Translating Technical Complexity into Business Protection | Petersmuditha | [Read More](https://medium.com/p/861bf8132417) |
+| Mon, 13 Apr 2026 21:54:05 GMT | Microsoft’s “Agent Governance Toolkit” is bullsh*t | Electric Wolfe Marshmallow Hypertext | [Read More](https://medium.com/p/a0aeb218e57c) |
+| Mon, 13 Apr 2026 21:50:38 GMT | The Power of Basics in large-scale projects (and in every opportunity you have) | Raquel GARCIA | [Read More](https://medium.com/p/2f19b5af2428) |
 | Mon, 13 Apr 2026 21:49:45 GMT | Blaster v2.0 — A Modular Evolution of a Security Reconnaissance Framework | Muhammad Usman Faridi | [Read More](https://medium.com/p/2572525a5983) |
 | Mon, 13 Apr 2026 21:42:46 GMT | When a friend request becomes a cyber trap: how North Korean hackers are using social media to… | Diyatk | [Read More](https://medium.com/p/95e1dec2dbee) |
 | Mon, 13 Apr 2026 21:39:25 GMT | Natas Levels 0 to 2 Write-UP | Andrew | [Read More](https://medium.com/p/0a091f8af912) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Apr 2026 16:31:03 GMT | I Stopped Writing for 2 Years and 2 Months — Here’s Why I’m Finally Coming Back With 3 Posts a Week | Haripriya Ramaraj | [Read More](https://medium.com/p/d51e5466f9a6) |
 | Mon, 13 Apr 2026 16:25:38 GMT | The Psychology of Vulnerability: Why Depending on Someone Feels So Risky | Shradha Maity | [Read More](https://medium.com/p/2a46d23bfeab) |
 | Mon, 13 Apr 2026 16:21:16 GMT | What it Means to be Human (Tazria/Metzora) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/2b971bfbd0f2) |
-| Mon, 13 Apr 2026 16:17:51 GMT | Making Users Strong Again: Why Session Hijacking Exposes a Broken Security Model | Dr. Shashi Karhail | [Read More](https://medium.com/p/61a659f86b24) |
-| Mon, 13 Apr 2026 16:17:41 GMT | Hello Everyone ,a little update . | Trannummalik | [Read More](https://medium.com/p/ac7925e9ec26) |
-| Mon, 13 Apr 2026 16:12:37 GMT | Best VPN for Japan 2026: Top 5 Tested and Ranked | Dave Henderson | [Read More](https://medium.com/p/8b8760740c8a) |
-| Mon, 13 Apr 2026 16:05:42 GMT | MD5 Generator Online Free Tool — Create Fast & Secure Hashes Instantly | DailyCodeTools | [Read More](https://medium.com/p/a1ffd9bad7a9) |
-| Mon, 13 Apr 2026 16:03:18 GMT | Pickle Rick TryHackMe Walkthrough - Nasir Ahim | Nasir Ahim | [Read More](https://medium.com/p/9629c28787e5) |
-| Mon, 13 Apr 2026 15:58:33 GMT | What Does a SOC Analyst Actually Do? (A Beginner’s Guide + My Learning Journey) | saloni chaurasiya | [Read More](https://medium.com/p/6ebc28d63129) |
-| Mon, 13 Apr 2026 15:58:26 GMT | Decryptify (CTF) - TryHackMe - PART 1 | azilRababe | [Read More](https://medium.com/p/0a1bd3faebbe) |
-| Mon, 13 Apr 2026 15:55:27 GMT | The Breach That Took Months to Notice | Williams K A | [Read More](https://medium.com/p/e763ffc08488) |
-| Mon, 13 Apr 2026 15:53:17 GMT | The Growing Influence of Cybersecurity in a Digital-First World | Prashantkumarsinghofficial | [Read More](https://medium.com/p/b1cff1ce90ab) |
-| Mon, 13 Apr 2026 15:47:40 GMT | Why Static Cybersecurity Frameworks Fail in Dynamic Threat Environments - Introducing the S4T | Diego Neuber | [Read More](https://medium.com/p/ba130ce142f0) |
-| Mon, 13 Apr 2026 15:41:33 GMT | Ether Tag-Challenge Write-up (HTB) | red wolf | [Read More](https://medium.com/p/a652a00d8400) |
-| Mon, 13 Apr 2026 15:41:06 GMT | I Curled Two Endpoints and Got a CVE | Rajdip | [Read More](https://medium.com/p/ccb901ae340e) |
-| Mon, 13 Apr 2026 15:40:10 GMT | TryHackMe: FIXIT ( No Spoilers ) | lukewago | [Read More](https://medium.com/p/827d4397af96) |
-| Mon, 13 Apr 2026 15:38:32 GMT | AI Agent Security in Cybersecurity - Risks & Defense Explained | Pentester Club | [Read More](https://medium.com/p/d5f79a06873f) |
