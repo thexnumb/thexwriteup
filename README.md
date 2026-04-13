@@ -12,6 +12,45 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Apr 2026 08:00:11 GMT | Digital Thread Market Size, Share & Forecast 2026–2035 | NIkita Poplai | [Read More](https://medium.com/p/c91ea283bc51) |
+| Mon, 13 Apr 2026 07:59:59 GMT | How North Korean Hackers Replaced the Stick with a Carrot | Burak | [Read More](https://medium.com/p/93ed4a607203) |
+| Mon, 13 Apr 2026 07:57:43 GMT | OpenAI Revokes macOS App Certificate After Axios Supply Chain Attack: Why This Incident Should… | Germano Costi | [Read More](https://medium.com/p/0619b88fad54) |
+| Mon, 13 Apr 2026 07:56:08 GMT | Three Months with SafeLine WAF: Why It Claims “No Rules Needed” for Injection Defense | John Hawkins | [Read More](https://medium.com/p/57f8702f38c8) |
+| Mon, 13 Apr 2026 07:54:25 GMT | Your AI Dashboard Just Became a Spy. Here’s What the Grafana Attack Actually Means for You. | Dhanush N | [Read More](https://medium.com/p/de0cb465f28b) |
+| Mon, 13 Apr 2026 07:52:58 GMT | API Security in 2026: The Attack Surface Your Pentest Is Probably Missing | Precogs AI | [Read More](https://medium.com/p/946b5c341e46) |
+| Mon, 13 Apr 2026 07:48:59 GMT | Cybersecurity Newsletter for the week of March 30 – April 6, 2026, highlighting fresh developments… | Bobbie á Deild | [Read More](https://medium.com/p/eca26d6b60fb) |
+| Mon, 13 Apr 2026 07:45:01 GMT | Quantum Computing Just Beat Classical Computers — And That Changes More Than You Think | MayhemCode | [Read More](https://medium.com/p/f8efa916f0c5) |
+| Mon, 13 Apr 2026 07:44:57 GMT | Best Security Guard Services: A Complete Guide to Choosing the Right Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/e0bb4534dd3e) |
+| Mon, 13 Apr 2026 07:42:44 GMT | Secure Cloud Architecture: Core Principles for Enterprise Security | Maruti Techlabs | [Read More](https://medium.com/p/fc192849d439) |
+| Mon, 13 Apr 2026 07:38:09 GMT | Advanced Penetration Testing Summer Training Internship Program in Delhi NCR | Crawsec | [Read More](https://medium.com/p/47685f8c1bf4) |
+| Mon, 13 Apr 2026 07:37:09 GMT | System Hacking: Techniques, risks, and prevention. | Aditya Raut | [Read More](https://medium.com/p/0594b8253991) |
+| Mon, 13 Apr 2026 07:36:06 GMT | The real story about billionaire businessman. | Thymmyjosh | [Read More](https://medium.com/p/cbbf0772a79c) |
+| Mon, 13 Apr 2026 07:28:51 GMT | WGEL CTF Write-Up: From Enumeration to Root (Full Walkthrough) | Masresha(rexwho) Habtamu | [Read More](https://medium.com/p/1c1082a1a9f9) |
+| Mon, 13 Apr 2026 07:18:37 GMT | Lock Change: Professional Security Solutions for Homes and Businesses in London | SE1 Locksmiths Ltd | [Read More](https://medium.com/p/25e8957a0d9f) |
+| Mon, 13 Apr 2026 07:06:23 GMT | Inside AI: How Machines Read and Analyze Content | Singletapindia | [Read More](https://medium.com/p/e7b6d4a9f334) |
+| Mon, 13 Apr 2026 07:05:04 GMT | LLM Injection + Unlimited Approval + RCE: The Coinbase AgentKit Attack Chain | xxmrlnxx | [Read More](https://medium.com/p/f210226c12b7) |
+| Mon, 13 Apr 2026 07:02:21 GMT | What Makes Modern Software Development Truly Effective? | Sarbajira Software | [Read More](https://medium.com/p/d25cab7bc7e8) |
+| Mon, 13 Apr 2026 06:58:51 GMT | Building Smarter & Safer Enterprises with Integrated Security Solutions - Omnilink Technology | Omnilink Technology | [Read More](https://medium.com/p/0519e3d502b4) |
+| Mon, 13 Apr 2026 06:58:15 GMT | Why Every Business Needs a Modern Time Attendance System in 2026 | Ethan Walker | [Read More](https://medium.com/p/726e2e55991c) |
+| Mon, 13 Apr 2026 06:57:55 GMT | How to Stop Bots Without CAPTCHA | Talsec | [Read More](https://medium.com/p/9356d6fbce20) |
+| Mon, 13 Apr 2026 06:53:44 GMT | Claude Mythos Found Thousands of Zero-Days in Weeks. | Aniruddha Kawarase | [Read More](https://medium.com/p/df7d1c642037) |
+| Mon, 13 Apr 2026 06:49:48 GMT | Walkthrough: Junior Security Analyst Intro (TryHackMe) | Kareeb Sadab | [Read More](https://medium.com/p/2318696d2144) |
+| Mon, 13 Apr 2026 06:49:23 GMT | When Your Telco’s Core Network Meets Cloud Native: The State of Telco Security in 2026 | Jayden Aung | [Read More](https://medium.com/p/8f8a70eccf26) |
+| Mon, 13 Apr 2026 06:47:25 GMT | Exploiting Excessive Container Capabilities - A Complete Guide to Container Security Risks | Redfox Security | [Read More](https://medium.com/p/a97a4da52717) |
+| Mon, 13 Apr 2026 06:47:02 GMT | Bug Bounty Reporting Masterclass: Real Examples That Got Paid (Step-by-Step Guide) | Very Lazy Tech | [Read More](https://medium.com/p/68756d489931) |
+| Mon, 13 Apr 2026 06:46:55 GMT | ChongmingLab - Weekly Blockchain Security News (April 06–12) | Chongming lab | [Read More](https://medium.com/p/484e7508bb2a) |
+| Mon, 13 Apr 2026 06:46:43 GMT | TechTalk: Best Practices for Keeping Your App Safe with Majid Hajian (Microsoft) | Talsec | [Read More](https://medium.com/p/6f80c5210bd5) |
+| Mon, 13 Apr 2026 06:44:17 GMT | Start Computer Science Today (Even If You Feel Lost) | LearnWithUmar | [Read More](https://medium.com/p/f19f9b8eccc2) |
+| Mon, 13 Apr 2026 06:41:43 GMT | How Businesses Can Save Big on IT Procurement with Smart Online Buying | WorthIT | [Read More](https://medium.com/p/72722135c5a8) |
+| Mon, 13 Apr 2026 06:41:04 GMT | The Invisible Middleman: How a Hidden AI Router Flaw Could Drain Your Crypto Wallet Overnight | Miguel Muñoz | [Read More](https://medium.com/p/9e1e73fc4123) |
+| Mon, 13 Apr 2026 06:29:33 GMT | The Hidden Fingerprints of Bot Protection: How Every Major Vendor Leaves Traces in Your Browser | Dima Kynal | [Read More](https://medium.com/p/ae951e355606) |
+| Mon, 13 Apr 2026 06:25:10 GMT | Creating a Voice Assistant Program | Louis (Pearl) Eyoung | [Read More](https://medium.com/p/22848dafe80d) |
+| Mon, 13 Apr 2026 06:23:33 GMT | GitHub Dorking for Bug Bounty — How Hackers Find Secrets in Minutes | Pradeeptadi | [Read More](https://medium.com/p/62785a1edae4) |
+| Mon, 13 Apr 2026 06:23:02 GMT | How Xpress West Temp Helps You Win Top Talent | Xwtempsolutions | [Read More](https://medium.com/p/80bd6ad520c6) |
+| Mon, 13 Apr 2026 06:17:03 GMT | TINA Token: Enhancing Security with Institutional-Grade Custody (KDAC) | TINA | [Read More](https://medium.com/p/b832bd0f00c3) |
+| Mon, 13 Apr 2026 06:09:30 GMT | From LinkedIn to Full Account Access in 10 Minutes | Shrivarshan | [Read More](https://medium.com/p/2bfa2e6f4f60) |
+| Mon, 13 Apr 2026 05:48:24 GMT | Is ISO 27005 Certification Worth It? Career Benefits Explained | Asmeen S D | [Read More](https://medium.com/p/a6fae0eed43a) |
+| Mon, 13 Apr 2026 05:43:33 GMT | Axios Supply Chain Compromise: Safeguarding Your Projects Against Dependency Poisoning | Kevin Foong | [Read More](https://medium.com/p/7e4fa0a03a17) |
 | Mon, 13 Apr 2026 05:40:26 GMT | Mastering ISO 42001: Practical Strategies for AI Governance and Compliance | Aditya InfosecTrain | [Read More](https://medium.com/p/295c70324d5e) |
 | Mon, 13 Apr 2026 05:39:47 GMT | Yukthi CTF 2.0 Deep Dive: From JS Deobfuscation to Protocol-Level Smuggling | Sathyaboobalan R | [Read More](https://medium.com/p/b51105f62b3b) |
 | Mon, 13 Apr 2026 05:25:24 GMT | Why you should try out Gemma 4 | Anjana Sarkar | [Read More](https://medium.com/p/7a5a5c721d4e) |
@@ -73,42 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 12 Apr 2026 23:48:54 GMT | The Illusion of Security: End to end compromise of a Banking App | Mr_Curiosity | [Read More](https://medium.com/p/c87fa1f7813d) |
 | Sun, 12 Apr 2026 23:30:50 GMT | Building a Secure Web Server from Scratch on AWS: A Deep Dive into VPC, Security Groups, and… | Gaurav Chavan - Cloud Enthusiast | [Read More](https://medium.com/p/3f83fec1d19d) |
 | Sun, 12 Apr 2026 23:30:32 GMT | 20 Most Important AI Concepts Explained in Just 20 Minute | L Churchill | [Read More](https://medium.com/p/bcfb8676e10c) |
-| Sun, 12 Apr 2026 23:28:04 GMT | Introducción a la API de Windows Para el desarrollo de malware, parte 3. | Dalton | [Read More](https://medium.com/p/65edf3c56205) |
-| Sun, 12 Apr 2026 23:14:39 GMT | Day 5-Network+ N10–009 Compare and Contrast Transmission Media and Transceivers | Hassen Hannachi | [Read More](https://medium.com/p/67401540c90a) |
-| Sun, 12 Apr 2026 23:12:04 GMT | Dance-Samba Writeup Español | Us0lfr | [Read More](https://medium.com/p/d2b88004617a) |
-| Sun, 12 Apr 2026 23:09:20 GMT | One npm install Away | TheCyberKingdom | [Read More](https://medium.com/p/1bd156104d86) |
-| Sun, 12 Apr 2026 23:01:01 GMT | LetsDefend: Obfuscated JavaScript Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/16fbbbca43ac) |
-| Sun, 12 Apr 2026 22:57:55 GMT | Google’s Hackers Investigated 500,000 Hours of Breaches. Here’s What They Found. | Muhammad Ali Khawar Butt | [Read More](https://medium.com/p/4b4aedf7d31b) |
-| Sun, 12 Apr 2026 22:46:19 GMT | The Smart Home Mistake You Are Probably Making | Stocked Always | [Read More](https://medium.com/p/f81daef90abd) |
-| Sun, 12 Apr 2026 22:36:02 GMT | Instagram Hesaplarını Kapattırıp Para İsteyen Çeteler | Ali Yaşe | [Read More](https://medium.com/p/68bfac936839) |
-| Sun, 12 Apr 2026 22:28:55 GMT | CTF Pwn104 @ TryHackMe | Rafael David | [Read More](https://medium.com/p/4c94df21649e) |
-| Sun, 12 Apr 2026 22:27:44 GMT | The Cybersecurity Battlefield Is Now Model vs. Model | Sreejith Gopinath | [Read More](https://medium.com/p/1317880580b3) |
-| Sun, 12 Apr 2026 22:23:12 GMT | 6 Nuances About Binauth | minherz | [Read More](https://medium.com/p/a5669b4a8774) |
-| Sun, 12 Apr 2026 22:10:14 GMT | 7 Azure Vulnerabilities Your C# Code Might Be Exposing Right Now | Emanuelle | [Read More](https://medium.com/p/16b4a7165b77) |
-| Sun, 12 Apr 2026 22:10:10 GMT | Virtual Hosts: Discovering Hidden Web Applications Beyond DNS | Mert Baykal | [Read More](https://medium.com/p/c3d8597fb0f9) |
-| Sun, 12 Apr 2026 22:06:33 GMT | Practical Vulnerability Analysis with Nessus on a Metasploitable System | Kehinde Oyewumi | [Read More](https://medium.com/p/0f3061e0b456) |
-| Sun, 12 Apr 2026 22:04:54 GMT | DNS Zone Transfers: The Silent Information Leak in DNS by Mert Baykal | Mert Baykal | [Read More](https://medium.com/p/1e645a7d640b) |
-| Sun, 12 Apr 2026 21:54:31 GMT | Reverse Engineering on CyberTalents: Solving All Easy Challenges Part 2 | Isv0x1 | [Read More](https://medium.com/p/150c092918a8) |
-| Sun, 12 Apr 2026 21:47:23 GMT | Windows OS: Everything You Need to Know | Shubham Khirwadkar | [Read More](https://medium.com/p/81d47aa16dae) |
-| Sun, 12 Apr 2026 21:42:40 GMT | The first draft is never the “one” | alanganin | [Read More](https://medium.com/p/ffd7ef315796) |
-| Sun, 12 Apr 2026 21:34:50 GMT | I Got Admission Without Paying Fees  - IIIT Sri City Payment Bypass Explained | Anudeep Vysyaraju | [Read More](https://medium.com/p/2054c2df09cd) |
-| Sun, 12 Apr 2026 21:33:32 GMT | SOC210 — Possible Brute Force Detected on VPN - LetsDefend Writeup | Rai Pereira | [Read More](https://medium.com/p/6232181bbfdc) |
-| Sun, 12 Apr 2026 21:32:44 GMT | SOC227 — Microsoft SharePoint Server Elevation of Privilege - CVE-2023–29357 - LetsDefend Writeup | Rai Pereira | [Read More](https://medium.com/p/698055a45d95) |
-| Sun, 12 Apr 2026 21:31:48 GMT | How Hackers Steal Your Passwords | SNEH.V.RANPARA | [Read More](https://medium.com/p/3d7addefb769) |
-| Sun, 12 Apr 2026 21:27:59 GMT | AI Web vs API Security: What Most Companies Get Wrong (And Why It Matters More Than Ever) | Novashield | [Read More](https://medium.com/p/2d0145077bf1) |
-| Sun, 12 Apr 2026 21:03:54 GMT | How I Bypassed Premium Subscription & Escalated Privileges Using a $0 VCC (Business Logic Flaw) | Eslam Temo | [Read More](https://medium.com/p/83a0b6515b73) |
-| Sun, 12 Apr 2026 21:02:23 GMT | Before MYTHOS Ships, Someone Has to Fix the World | Grace Ann Hansen | [Read More](https://medium.com/p/ba1022433785) |
-| Sun, 12 Apr 2026 20:59:29 GMT | Beyond the Number Line From Integers to Infrastructure Completing Chapter 1 of the Math-to-Code… | Mohamed Abdelhamied | [Read More](https://medium.com/p/4d112f5f572a) |
-| Sun, 12 Apr 2026 20:51:37 GMT | Finding Flags in SVG/XML Files — A Beginner Forensics Approach | Yakoubmaddou | [Read More](https://medium.com/p/0e2408ef8020) |
-| Sun, 12 Apr 2026 20:50:25 GMT | IDOR via Base64-Encoded ID Allows Unauthorized Deletion of Other Users’ Spaces | oxmorv | [Read More](https://medium.com/p/291be45925b0) |
-| Sun, 12 Apr 2026 20:48:24 GMT | Anthropic’s New AI Found Bugs in Every Major OS and Browser — And They’re Not Releasing It | Abhishek Agarwal | [Read More](https://medium.com/p/6cae9ca4fa47) |
-| Sun, 12 Apr 2026 20:46:25 GMT | Slopaganda: What Generative AI Has Done to the Economics of Lying | CCD-IS | [Read More](https://medium.com/p/8e3c259bb9cd) |
-| Sun, 12 Apr 2026 20:40:13 GMT | Windows Defender Killer: Combining Registry Edits with BYOVD for Permanent Disable | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d0faea53ece2) |
-| Sun, 12 Apr 2026 20:38:01 GMT | Using AI Without Fundamentals Is the Fastest Way to Stay a Beginner | John Light | [Read More](https://medium.com/p/b6e474475aaa) |
-| Sun, 12 Apr 2026 20:33:59 GMT | Lab Ortamında FortiGate Kurulumu: Adım Adım Rehber | Ahmet Badem | [Read More](https://medium.com/p/595e4cb643bf) |
-| Sun, 12 Apr 2026 20:31:36 GMT | I Dropped Out, Got Suspended on Medium… and Still Kept Going | Satyam Pathania | [Read More](https://medium.com/p/7e48ad02bf72) |
-| Sun, 12 Apr 2026 20:30:18 GMT | Kali-Ma: I Accidentally Armed an AI — Submitted 2 Bug Bounty Findings in One Weekend | Giorgi Lomia | [Read More](https://medium.com/p/b25a66888699) |
-| Sun, 12 Apr 2026 20:28:02 GMT | How the Axios npm Package Was Weaponised Against the World | nithunwilson | [Read More](https://medium.com/p/39c1c6fb7052) |
-| Sun, 12 Apr 2026 20:25:43 GMT | Quantum Computing Will Break Every Password on Earth. Here Is What Happens Next. | Habiba Zahid | [Read More](https://medium.com/p/d5dd04f4b40b) |
-| Sun, 12 Apr 2026 20:22:32 GMT | Fraud is not a behaviour problem | Tony Fish | [Read More](https://medium.com/p/71ee5912e477) |
-| Sun, 12 Apr 2026 20:19:52 GMT | Phalanx v3.0: A new pentest agent for Kali Linux | webXOS | [Read More](https://medium.com/p/0c41524799c5) |
