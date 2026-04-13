@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Apr 2026 23:36:01 GMT | JWT Editor: The Burp Suite Extension That Turns Token Testing from Guesswork into a Science | Ajay Yadav | [Read More](https://medium.com/p/a9e2adeb1f1a) |
+| Mon, 13 Apr 2026 23:31:28 GMT | We’re Building the Thing Mike Frantzen Is Asking For | R. Demetri Vallejos | [Read More](https://medium.com/p/01a3ff951024) |
+| Mon, 13 Apr 2026 22:53:14 GMT | The Ones on the Inside | Zac | [Read More](https://medium.com/p/a5caad598e22) |
 | Mon, 13 Apr 2026 22:48:30 GMT | Making UAC Bypass Great Again in 2026 | Yua Mikanana | [Read More](https://medium.com/p/aa8c7c5b1950) |
+| Mon, 13 Apr 2026 22:46:44 GMT | Why Every Freelancer Needs a VPN in 2026 (And Which One to Pick) | Jerem Ai | [Read More](https://medium.com/p/3cb3e222c486) |
 | Mon, 13 Apr 2026 22:33:10 GMT | The Booking.com Breach Isn’t the Real Problem. Phishing Is. | Todd Scanlan | [Read More](https://medium.com/p/a351192acd11) |
 | Mon, 13 Apr 2026 22:27:07 GMT | Best Home Security Systems in Settegast Houston TX | AlexBryn | [Read More](https://medium.com/p/524e5fab3437) |
 | Mon, 13 Apr 2026 22:24:30 GMT | Mexico Data Breach Demonstrates How AI Enables Single Operators to Scale Operations | Chris Buxton | [Read More](https://medium.com/p/bdc8166d4ba5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Apr 2026 16:56:42 GMT | 5 Brutal Lessons I Learned After Failing My First OSCP Attempt (And How They Helped Me Pass the… | Alex Rivera | [Read More](https://medium.com/p/f5cff73f84ee) |
 | Mon, 13 Apr 2026 16:46:13 GMT | I Tried Every Major Cybersecurity Learning Platform. Here’s Why I Built Cybrixen Instead. | Morris | [Read More](https://medium.com/p/39625976d1b4) |
 | Mon, 13 Apr 2026 16:40:43 GMT | How to Make Money Online with Software: 10 Proven Methods for 2026 | Collabig | [Read More](https://medium.com/p/6156ca74a141) |
-| Mon, 13 Apr 2026 16:34:08 GMT | Why Penetration Testing Is Non-Negotiable | Kamalmeet Singh | [Read More](https://medium.com/p/8a1b993eda3c) |
-| Mon, 13 Apr 2026 16:31:03 GMT | I Stopped Writing for 2 Years and 2 Months — Here’s Why I’m Finally Coming Back With 3 Posts a Week | Haripriya Ramaraj | [Read More](https://medium.com/p/d51e5466f9a6) |
-| Mon, 13 Apr 2026 16:25:38 GMT | The Psychology of Vulnerability: Why Depending on Someone Feels So Risky | Shradha Maity | [Read More](https://medium.com/p/2a46d23bfeab) |
-| Mon, 13 Apr 2026 16:21:16 GMT | What it Means to be Human (Tazria/Metzora) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/2b971bfbd0f2) |
