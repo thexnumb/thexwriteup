@@ -12,7 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 13 Apr 2026 11:46:00 GMT | Even AWS Got This Wrong — And Your AI Probably Does Too | Jonas Wolffsen | [Read More](https://medium.com/p/175ef5c9ba23) |
+| Mon, 13 Apr 2026 11:45:26 GMT | OSWE vs CWEE: Which Web Pentesting Certification Should You Choose? | Andrew Kutuzov | [Read More](https://medium.com/p/c6a930379b53) |
+| Mon, 13 Apr 2026 11:39:24 GMT | How 3D Secure Authentication Works — A Backend Engineer’s Perspective | Udit Bahukhandi | [Read More](https://medium.com/p/d11cbabdc854) |
+| Mon, 13 Apr 2026 11:37:46 GMT | How I Found 0-Click Account-Takeover | Athul MS | [Read More](https://medium.com/p/f97d060f567f) |
+| Mon, 13 Apr 2026 11:31:01 GMT | The Only Successful SSH Login That Didn’t Run a Single Command #2 | Faruk Ahmed | [Read More](https://medium.com/p/456fbce22595) |
+| Mon, 13 Apr 2026 11:28:58 GMT | Traps in the Wild: Building Trust in AI Agents with Honeypots and Crucibles | Chinenyang | [Read More](https://medium.com/p/53d884c4010d) |
+| Mon, 13 Apr 2026 11:28:24 GMT | In today’s threat landscape, buying more security tools doesn’t automatically make your business… | Adl99cybersecurity | [Read More](https://medium.com/p/4b3026467ad0) |
+| Mon, 13 Apr 2026 11:25:01 GMT | The AI Model Anthropic Won’t Let You Use | Tanmay Bansal | [Read More](https://medium.com/p/0e7517440a4d) |
+| Mon, 13 Apr 2026 11:23:51 GMT | Agentic AI Is Here: Why Claude Demands a New Security Architecture | Rakeshkhanduja | [Read More](https://medium.com/p/7f074155a466) |
+| Mon, 13 Apr 2026 11:23:18 GMT | From CVE to Digital Apocalypse: Dissecting CVE-2026–1340 and the Art of Extreme Threat Modeling | Frank Mccausland | [Read More](https://medium.com/p/036c417562a7) |
+| Mon, 13 Apr 2026 11:22:40 GMT | The Ultimate Okala 8020 Trading Pit Playbook Review: Is This the Best Order Flow Strategy? | Robin25 | [Read More](https://medium.com/p/a79d703e7c6b) |
+| Mon, 13 Apr 2026 11:21:01 GMT | The Ghost in the Wire | Salena Lark | [Read More](https://medium.com/p/c9e802bf6860) |
+| Mon, 13 Apr 2026 11:20:36 GMT | HackStar Is the USB Automation Device That’s Changing the Game — Here’s Why Developers Are Going… | Harshal Vij | [Read More](https://medium.com/p/f11954a5a340) |
+| Mon, 13 Apr 2026 11:07:43 GMT | Making Light Spin with a Gold Nanorod | Tokyo University of Science | [Read More](https://medium.com/p/24bc2b24eb69) |
+| Mon, 13 Apr 2026 11:07:34 GMT | What a dungeon crawler taught me about security awareness | Klaus Klingner | [Read More](https://medium.com/p/ed9c03bf21ae) |
+| Mon, 13 Apr 2026 11:01:01 GMT | Writeup for picoCTF challenge “JAuth” | Walter Moar | [Read More](https://medium.com/p/f77233c97bd5) |
+| Mon, 13 Apr 2026 11:00:03 GMT | How I Secured a 100% Hike with 2.5 Years of Experience: My Journey from 11 LPA to 25 LPA | KarthickVenkatesh | [Read More](https://medium.com/p/2b11f4bb17ef) |
+| Mon, 13 Apr 2026 10:56:02 GMT | How AI Turned Every Developer Into a Secrets Manager | Billy Michael | [Read More](https://medium.com/p/ded616426780) |
+| Mon, 13 Apr 2026 10:56:01 GMT | Does This Change The Way You See Me? | Jesse Chang | [Read More](https://medium.com/p/92a2018f1f6e) |
+| Mon, 13 Apr 2026 10:53:04 GMT | The Registry Analyst’s Toolkit: Choosing Your Weapon | Dean | [Read More](https://medium.com/p/aea0d12349ef) |
+| Mon, 13 Apr 2026 10:51:30 GMT | Starting Strong: How a Security Guard Job Can Become a Lifelong Career Path | Grdsnscrt | [Read More](https://medium.com/p/f02589e34ddc) |
+| Mon, 13 Apr 2026 10:49:35 GMT | The Warning Anthropic’s Claude Mythos Sends and Cybersecurity in the Age of AI | David SEHYEON Baek | [Read More](https://medium.com/p/a3c0ecf284ea) |
+| Mon, 13 Apr 2026 10:17:54 GMT | All It Took Was npm install: Lessons from the Axios Supply Chain Attack | Chioma Halim | [Read More](https://medium.com/p/5e3d7868f8fd) |
+| Mon, 13 Apr 2026 10:15:13 GMT | The Role of Emerging Tools and Technologies in Information Technology | Poddar Group of Institutions | [Read More](https://medium.com/p/19c75fce4f38) |
 | Mon, 13 Apr 2026 10:09:54 GMT | TryHackMe “Light” Odasında SQLite Injection ve Filtre Atlatma | Mevlüt Kamalı | [Read More](https://medium.com/p/d1ec69a95682) |
+| Mon, 13 Apr 2026 10:03:37 GMT | How Mobile App Services in Riyadh Saudi Arabia Drive Innovation Across Industries | Five Programmers | [Read More](https://medium.com/p/5c16f4d58883) |
 | Mon, 13 Apr 2026 09:58:44 GMT | SOC-Challenge-Day1 | Zuhair Nashif | [Read More](https://medium.com/p/ad90c18ab09c) |
 | Mon, 13 Apr 2026 09:56:35 GMT | Not every attack is sophisticated.
 Some just exploit what was never fixed. | Chetan Seripally | [Read More](https://medium.com/p/238b4d277e0c) |
@@ -88,28 +113,3 @@ Some just exploit what was never fixed. | Chetan Seripally | [Read More](https:/
 | Mon, 13 Apr 2026 05:39:47 GMT | Yukthi CTF 2.0 Deep Dive: From JS Deobfuscation to Protocol-Level Smuggling | Sathyaboobalan R | [Read More](https://medium.com/p/b51105f62b3b) |
 | Mon, 13 Apr 2026 05:25:24 GMT | Why you should try out Gemma 4 | Anjana Sarkar | [Read More](https://medium.com/p/7a5a5c721d4e) |
 | Mon, 13 Apr 2026 05:23:07 GMT | Double Trouble: Finding Both XSS and HTML Injection in an AI Chatbot | Vanshrathore | [Read More](https://medium.com/p/9011a9c0bbd6) |
-| Mon, 13 Apr 2026 05:21:11 GMT | The Hidden IT Costs That Are Killing Your Business Growth (And How to Fix Them) | managed service provider | [Read More](https://medium.com/p/b92fafcced19) |
-| Mon, 13 Apr 2026 05:11:40 GMT | How AI is Transforming SOC: From Reactive Security to Autonomous Threat Detection | Maheshwaramvikasreddy | [Read More](https://medium.com/p/e0af6847522b) |
-| Mon, 13 Apr 2026 05:03:20 GMT | Mastering the ISO 22301 Lead Implementer Role: Beyond the Certification | Aditya InfosecTrain | [Read More](https://medium.com/p/db14a8471944) |
-| Mon, 13 Apr 2026 05:03:14 GMT | BankGPT - TryHackMe Writeup | An1on | [Read More](https://medium.com/p/561b009c63c7) |
-| Mon, 13 Apr 2026 04:56:54 GMT | You May Have Perfect Backups and Still Lose Everything | Umair | [Read More](https://medium.com/p/25a3e0128d3e) |
-| Mon, 13 Apr 2026 04:56:50 GMT | How to Remove Service Account Keys from GitHub Actions, GitLab, and Terraform in Google Cloud in… | Aleksei Aleinikov | [Read More](https://medium.com/p/a88cea0ed304) |
-| Mon, 13 Apr 2026 04:56:29 GMT | How Hong Kong Leaders Build Offshore Teams | Kyanon Digital Blog | [Read More](https://medium.com/p/c05cdf0451db) |
-| Mon, 13 Apr 2026 04:53:04 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/010933a4ae6f) |
-| Mon, 13 Apr 2026 04:52:59 GMT | IDS vs IPS:Intrusion Detection vs Prevention Systems | ExploitHunter | [Read More](https://medium.com/p/29349b297f31) |
-| Mon, 13 Apr 2026 04:50:21 GMT | Bug Bounty Hunting — Ethical Hacking for Profit | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/b8db3793d7a5) |
-| Mon, 13 Apr 2026 04:48:28 GMT | Windows Hacking Report: Exploiting MS17–010 in TryHackMe Ice Lab | Prabin Kumar Sethi | [Read More](https://medium.com/p/fa01fdec1956) |
-| Mon, 13 Apr 2026 04:47:15 GMT | DeepSeek V4: 1 Trillion Parameters, $0.14/M Tokens, No NVIDIA | Before The Curve | [Read More](https://medium.com/p/cf7e3a52d5ad) |
-| Mon, 13 Apr 2026 04:47:02 GMT | Building a Local-First AI Security Tool: Detecting & Fixing Git Secrets (Architecture Behind… | Prince Bharti | [Read More](https://medium.com/p/6914fc7f6909) |
-| Mon, 13 Apr 2026 04:31:01 GMT | Waybackurls + GAU Purane Endpoints Se Bugs Nikalo: Internet Archive Ka Hacking! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/2480cc38a54f) |
-| Mon, 13 Apr 2026 04:22:41 GMT | The skill of writing easy to review PRs (with advanced git tricks) | Kevin Foong | [Read More](https://medium.com/p/077ad67c4fb5) |
-| Mon, 13 Apr 2026 03:54:18 GMT | Optus Customer Support Australia | Customer Support Information | [Read More](https://medium.com/p/b5b67308b816) |
-| Mon, 13 Apr 2026 03:54:01 GMT | Baron Samedit [CVE-2021–3156] vulnerability exploit TryHackMe walkthrough | Shree | [Read More](https://medium.com/p/24f978a54dfa) |
-| Mon, 13 Apr 2026 03:49:46 GMT | Binge Contact Number Australia | Customer Support Information | [Read More](https://medium.com/p/40063e228d9c) |
-| Mon, 13 Apr 2026 03:48:24 GMT | Keep Your API Data Secret: Privacy-Focused API Testing | Kreya | [Read More](https://medium.com/p/e4b7804f64fe) |
-| Mon, 13 Apr 2026 03:47:37 GMT | Skip the Server: Direct S3 Uploads with Presigned URLs | Shakyaprabeg | [Read More](https://medium.com/p/efb405461b7c) |
-| Mon, 13 Apr 2026 03:43:45 GMT | Exploring Android ROOT via CVE-2025–21479 | Numen Cyber Labs | [Read More](https://medium.com/p/eca9fb7ca6e9) |
-| Mon, 13 Apr 2026 03:39:58 GMT | Breaking the Sandbox Boundary: Writing to Replit’s External Supervisor Config From Unprivileged… | Vashu Vats | [Read More](https://medium.com/p/2b6879f42914) |
-| Mon, 13 Apr 2026 03:34:09 GMT | I Got Tired of Bug Bounty Platforms Reading My Reports — So I Built something different | Ace Candelario | [Read More](https://medium.com/p/b06b31bb6cf5) |
-| Mon, 13 Apr 2026 03:31:45 GMT | The PHP File You Should Never Commit to Git (And Why Everyone Does) | Ann R. | [Read More](https://medium.com/p/540a1e2be927) |
-| Mon, 13 Apr 2026 03:31:01 GMT | Google Dorks Google Ko Bana Do Apna Hacking Tool: Free Mein Bugs Dhundho! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/287c3a7ffc75) |
