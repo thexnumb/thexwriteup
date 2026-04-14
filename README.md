@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Apr 2026 02:45:22 GMT | This AI Can Find Bugs Faster Than Humans So Why Can’t We Use It | Anuja Gadde | [Read More](https://medium.com/p/aefaa84b32c5) |
+| Tue, 14 Apr 2026 02:43:03 GMT | RBAC: Role-Based Access Control | Anderson Henrique Botega | [Read More](https://medium.com/p/e143a20c30c9) |
+| Tue, 14 Apr 2026 02:07:17 GMT | Cybertalents Lazania CTF Writeup (Full Walkthrough) | Omar | [Read More](https://medium.com/p/db68594a54bd) |
+| Tue, 14 Apr 2026 02:01:05 GMT | CAPen Review: A Well Rounded Web Security Exam That Keeps You on Your Toes | Crowx01 | [Read More](https://medium.com/p/aa39a4a5d9fc) |
+| Tue, 14 Apr 2026 01:56:23 GMT | 養龍蝦不裸奔：我們真正缺的，不是風險提醒，而是普通人做得到的保護機制 | David Lien | [Read More](https://medium.com/p/77a1c5613fe8) |
+| Tue, 14 Apr 2026 01:51:19 GMT | Server-side Template Injection in a Sandboxed Environment | Ⓥ | [Read More](https://medium.com/p/6babba39736d) |
+| Tue, 14 Apr 2026 01:23:01 GMT | Tuesday Morning Threat Report: Apr 14, 2026 | Mark Maguire | [Read More](https://medium.com/p/a612aa35d855) |
+| Tue, 14 Apr 2026 01:17:05 GMT | The Right to Verify: Why Trustworthy Systems Must Be Open to Checking | sengom | [Read More](https://medium.com/p/8c5ca3767eb2) |
+| Tue, 14 Apr 2026 01:15:07 GMT | ⚙️ 11. — Method-based Access Control Can Be Circumvented | The4v1 | [Read More](https://medium.com/p/c3e03b880fe5) |
+| Tue, 14 Apr 2026 01:13:58 GMT | ⚙️ 10. — URL-based Access Control Can Be Circumvented — X -Original-URL | The4v1 | [Read More](https://medium.com/p/06e4ef198dba) |
+| Tue, 14 Apr 2026 00:01:05 GMT | The most popular LLM routing library got hacked. Here’s what I use instead. | Devansh Tiwari | [Read More](https://medium.com/p/4b56fc71017e) |
+| Tue, 14 Apr 2026 00:00:04 GMT | Interpersonal Machine: information is social | Lloyd | [Read More](https://medium.com/p/cb4b78b77938) |
+| Mon, 13 Apr 2026 23:52:43 GMT | Understanding Network Protocols: The Invisible Language of the Internet (A Deep Dive for Security+… | Chaitanya Garware | [Read More](https://medium.com/p/45d23e5e8d60) |
+| Mon, 13 Apr 2026 23:49:54 GMT | I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own. | erik | [Read More](https://medium.com/p/a4b0d94308ae) |
+| Mon, 13 Apr 2026 23:48:07 GMT | Regex Injection ve E-posta Parametre Manipülasyonu ile Hesap Ele Geçirme | Şahnur Eren Aloğlu | [Read More](https://medium.com/p/a3a399b710d3) |
+| Mon, 13 Apr 2026 23:44:22 GMT | TryHackMe — Ra: Writeup | Taher Borgi | [Read More](https://medium.com/p/3470a63e6776) |
 | Mon, 13 Apr 2026 23:36:01 GMT | JWT Editor: The Burp Suite Extension That Turns Token Testing from Guesswork into a Science | Ajay Yadav | [Read More](https://medium.com/p/a9e2adeb1f1a) |
 | Mon, 13 Apr 2026 23:31:28 GMT | We’re Building the Thing Mike Frantzen Is Asking For | R. Demetri Vallejos | [Read More](https://medium.com/p/01a3ff951024) |
 | Mon, 13 Apr 2026 22:53:14 GMT | The Ones on the Inside | Zac | [Read More](https://medium.com/p/a5caad598e22) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Apr 2026 17:44:20 GMT | AI Threat Modelling Assessment (THM) Tryhackme Walkthrough With All Answer | Lawvye | [Read More](https://medium.com/p/1fe630680aee) |
 | Mon, 13 Apr 2026 17:40:28 GMT | Beyond the Matrix: Building Your Foundation in Hacking, Linux, and Labs | Faheemmusthafa P | [Read More](https://medium.com/p/2638b75641d9) |
 | Mon, 13 Apr 2026 17:39:41 GMT | Cybersecurity Best Practices for Financial Data in the Cloud | nishu facile | [Read More](https://medium.com/p/c46efe591a53) |
-| Mon, 13 Apr 2026 17:37:06 GMT | When a Woman Takes Care of You, and You Don’t Know How to Let Her | Jason Osagie | [Read More](https://medium.com/p/263fd92af77e) |
-| Mon, 13 Apr 2026 17:31:01 GMT | TLS, CDNs, and Where Your Data Actually Gets Decrypted | Crowx01 | [Read More](https://medium.com/p/347bf1e51820) |
-| Mon, 13 Apr 2026 17:26:41 GMT | CySA+ Hands-On Lab — Nessus install and scanning | Bob Malin | [Read More](https://medium.com/p/e41fee746b6e) |
-| Mon, 13 Apr 2026 17:25:49 GMT | CEX Risks and the Shadow of KYC Leaks | CryptDocker | [Read More](https://medium.com/p/29bfbee060ce) |
-| Mon, 13 Apr 2026 17:25:05 GMT | What is Project Glasswing? | Mohamed Amaan | [Read More](https://medium.com/p/fbe4ba767f33) |
-| Mon, 13 Apr 2026 17:17:16 GMT | JWT Authentication is Just a Club Wristband: A Stress-Free Guide | CODEMANCE_47 | [Read More](https://medium.com/p/20c123d44123) |
-| Mon, 13 Apr 2026 17:14:43 GMT | Deepening My OT Cybersecurity Journey: From Understanding to Full-Scope Security | Levi_CYS | [Read More](https://medium.com/p/9a3b8483b1e4) |
-| Mon, 13 Apr 2026 17:13:45 GMT | What Project Glasswing Means for Enterprise Security Teams | Venu Rao | [Read More](https://medium.com/p/4ddb48c09cfd) |
-| Mon, 13 Apr 2026 17:11:38 GMT | Best Spy Camera WiFi Hidden Camera | Celiaracitano | [Read More](https://medium.com/p/44d40eba8222) |
-| Mon, 13 Apr 2026 17:06:48 GMT | Day 22: The Mathematical Shield — Applied Cryptography and PKI | Ndu | [Read More](https://medium.com/p/8011e3801244) |
-| Mon, 13 Apr 2026 17:05:45 GMT | Day 21: Shifting Left — DevSecOps and the CI/CD Pipeline | Ndu | [Read More](https://medium.com/p/a7d560527ad1) |
-| Mon, 13 Apr 2026 17:01:25 GMT | Not Every API Endpoint Should Accept Unlimited Requests | Vasyl Oliinyk | [Read More](https://medium.com/p/8a8f769b5fb7) |
-| Mon, 13 Apr 2026 17:00:24 GMT | From Self-Doubt to eJPT: How I Found My Path in Cybersecurity | Pawan R | [Read More](https://medium.com/p/c929a577d838) |
-| Mon, 13 Apr 2026 16:56:42 GMT | 5 Brutal Lessons I Learned After Failing My First OSCP Attempt (And How They Helped Me Pass the… | Alex Rivera | [Read More](https://medium.com/p/f5cff73f84ee) |
-| Mon, 13 Apr 2026 16:46:13 GMT | I Tried Every Major Cybersecurity Learning Platform. Here’s Why I Built Cybrixen Instead. | Morris | [Read More](https://medium.com/p/39625976d1b4) |
-| Mon, 13 Apr 2026 16:40:43 GMT | How to Make Money Online with Software: 10 Proven Methods for 2026 | Collabig | [Read More](https://medium.com/p/6156ca74a141) |
