@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Apr 2026 19:50:45 GMT | Automated Pen Testing: Writing Custom Burp Extensions with Python and Jython | Shreyash Mall | [Read More](https://medium.com/p/21152592e3cb) |
+| Tue, 14 Apr 2026 19:49:14 GMT | I Thought I Found an SSH Bug… But It Taught Me Something Better | Anuj Thakur | [Read More](https://medium.com/p/a40036e68fc1) |
+| Tue, 14 Apr 2026 19:43:04 GMT | Stop Every Employee from Logging into Every App — Keycloak Access Restriction | Florian Röser | [Read More](https://medium.com/p/b37af4001ec6) |
+| Tue, 14 Apr 2026 19:42:36 GMT | PicoCTF Writeup — tea-cash | Aman Barolia | [Read More](https://medium.com/p/58da72090daa) |
+| Tue, 14 Apr 2026 19:40:23 GMT | S3 Files: What 20 Years of “You Can’t Mount S3” Looks Like When It Finally Ships | Erick Mancz | [Read More](https://medium.com/p/90e6e01792ea) |
+| Tue, 14 Apr 2026 19:35:15 GMT | SOC Triage Agent: A Developer’s Guide to Agentic Alert Handling for New-Age Security Operations | Ansh Saxena | [Read More](https://medium.com/p/4e03552a77a5) |
+| Tue, 14 Apr 2026 19:23:44 GMT | Accountable Delegation for AI Agents: A Proof-of-Concept with Economic Stakes | Selfradiance | [Read More](https://medium.com/p/d51e2087966c) |
+| Tue, 14 Apr 2026 19:19:48 GMT | This Didn’t Feel Like an Achievement | Ranjeethu | [Read More](https://medium.com/p/e4a139d8a5c5) |
+| Tue, 14 Apr 2026 19:18:26 GMT | The Strategic Convergence: Architecting Global Digital Trust through ISO 27001 and Evolutionary… | Shifra Nuriel | [Read More](https://medium.com/p/258c25575381) |
+| Tue, 14 Apr 2026 19:17:58 GMT | Hacking Planes, Space, Power Grids, Boats, and Agriculture | Chris Kubecka de Medina | [Read More](https://medium.com/p/96db6e7b7f1e) |
+| Tue, 14 Apr 2026 19:11:58 GMT | Your Admin Accounts Are a Ticking Time Bomb: Here is How Privileged Access Management (PAM) Defuses… | CANIS BREAL OUAMBO | [Read More](https://medium.com/p/936f73bda3ba) |
+| Tue, 14 Apr 2026 19:04:00 GMT | 8 Signs You Need a Better Information Diet | Editorial Curator ❤️ | [Read More](https://medium.com/p/467fb4672457) |
+| Tue, 14 Apr 2026 19:03:37 GMT | Sunday - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/efee67a8a721) |
+| Tue, 14 Apr 2026 18:56:56 GMT | [THM] LLMborghini — Writeup | Bonestorm | [Read More](https://medium.com/p/2192014eb27e) |
+| Tue, 14 Apr 2026 18:54:36 GMT | HTML Fundamentals: From Structure to Security (Complete Guide + Labs) by Intelithics | Intelithics | [Read More](https://medium.com/p/578084399586) |
+| Tue, 14 Apr 2026 18:54:12 GMT | How I Earned the HTB CPTS (Certified Penetration Testing Specialist) — From Failure to 100 Points | Aung Myint | [Read More](https://medium.com/p/9f4b822db8e1) |
+| Tue, 14 Apr 2026 18:47:52 GMT | The Blida Cover-Up: How the Algerian Regime Fabricated the Narrative of Terror | Soukaina Meskine | [Read More](https://medium.com/p/b32f89317fc2) |
+| Tue, 14 Apr 2026 18:41:03 GMT | CVE-2026–39980 Analysis and POC | Yousof Nahya | [Read More](https://medium.com/p/88b026c0895d) |
 | Tue, 14 Apr 2026 18:37:53 GMT | Combating Ransomware: A Framework-Driven Approach with NIST CSF 2.0 | Ryan Cornwell | [Read More](https://medium.com/p/7cfa987ec16d) |
 | Tue, 14 Apr 2026 18:33:47 GMT | The Case for Becoming a Cloudflare Shop | Daniel Ryan Reiff | [Read More](https://medium.com/p/d4ace9acf3a5) |
 | Tue, 14 Apr 2026 18:33:09 GMT | The Data Heist: How Your Files Are Being Exploited and What You Can Do About It | Datos Drive | [Read More](https://medium.com/p/060bd4d7ac9d) |
@@ -81,6 +99,7 @@ Here’s the honest version. | Senaaravichandran A | [Read More](https://medium.
 | Tue, 14 Apr 2026 14:53:01 GMT | Manipulating the Price Tag - PortSwigger — Excessive Trust in Client-Side Controls | Kate D Terracore | [Read More](https://medium.com/p/fe1697460c24) |
 | Tue, 14 Apr 2026 14:47:16 GMT | Inside the Perimeter: A Real-World Internal Network Vulnerability Assessment | Sathya Boobalan | [Read More](https://medium.com/p/6c13a7dc68b1) |
 | Tue, 14 Apr 2026 14:47:06 GMT | Exam Review: Certified Network Security Practitioner (CNSP) | Dhanush N | [Read More](https://medium.com/p/fe8827ed6724) |
+| Tue, 14 Apr 2026 14:46:44 GMT | Cómo Optimizar Windows para Gaming en 2026: La Guía Definitiva para Ganar FPS (Sin Gastar Dinero) | ByteMaster | [Read More](https://medium.com/p/4c02f7fc3444) |
 | Tue, 14 Apr 2026 14:46:42 GMT | Rocket — CVE-2021–22911 NoSQL Injection + Ruby cap_setuid to Root - TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/e4dc9e6ba82b) |
 | Tue, 14 Apr 2026 14:46:01 GMT | Anthropic’s Mythos Is Real. The Victory Lap Isn’t. | Wes Young | [Read More](https://medium.com/p/72646142d3e2) |
 | Tue, 14 Apr 2026 14:09:46 GMT | 10x thinking for solving the ecological crises as a whole | Erik Kvam | [Read More](https://medium.com/p/3a6c0a36ccad) |
@@ -96,22 +115,3 @@ Here’s the honest version. | Senaaravichandran A | [Read More](https://medium.
 | Tue, 14 Apr 2026 13:29:56 GMT | Watch MeWatch Outside Singapore 2026: VPN Guide | Lachlan Moore | [Read More](https://medium.com/p/8ddaaa429776) |
 | Tue, 14 Apr 2026 13:29:08 GMT | Shifting Role: From User Portal to AI Access Gateway | Mammoth Cyber | [Read More](https://medium.com/p/d6e8971acee8) |
 | Tue, 14 Apr 2026 13:29:00 GMT | Google Cloud Armor’s CRS v4.22: What Changed and How to Roll It Out Safely | Mike Hansen | [Read More](https://medium.com/p/846d95b326b6) |
-| Tue, 14 Apr 2026 13:26:01 GMT | How to Secure Your Flutter App: 10 Things You Must Do | Syed Umair Ahmed | [Read More](https://medium.com/p/00de7bd7a38d) |
-| Tue, 14 Apr 2026 13:21:50 GMT | CISSP Second Attempt Success: Study Strategy + Mental Game | Tushar | [Read More](https://medium.com/p/8079f314a43d) |
-| Tue, 14 Apr 2026 13:21:13 GMT | Rockstar Games Data Breach 2026: ShinyHunters Leak, Snowflake Compromise, Anodot Exploit, GTA… | Cybervolt | [Read More](https://medium.com/p/426ba255d400) |
-| Tue, 14 Apr 2026 13:20:36 GMT | Pentesting Certs, What Should You Go After? | The Husky Hacker | [Read More](https://medium.com/p/e80cceea5129) |
-| Tue, 14 Apr 2026 13:18:27 GMT | Building a Sovereign AI Node with IronClaw. | Julien Carbonnell | [Read More](https://medium.com/p/c0ef1c408982) |
-| Tue, 14 Apr 2026 13:11:25 GMT | Mastering Broken Access Control: A Technical Deep Dive into 13 PortSwigger Labs | Adeleke Ismail Ifeoluwa | [Read More](https://medium.com/p/6149b9084a4b) |
-| Tue, 14 Apr 2026 13:10:28 GMT | Adobe Patches Actively Exploited Zero‑Day | Cybersectoworld | [Read More](https://medium.com/p/acab20d9a15e) |
-| Tue, 14 Apr 2026 13:07:49 GMT | Binary Planting: The Attack Hiding in Plain Sight | Juan M. Vazquez | [Read More](https://medium.com/p/2cfd375b5e41) |
-| Tue, 14 Apr 2026 13:06:29 GMT | Why Your JWT Isn’t Enough: The Missing Layers of Spring Boot Security | Sangitha Karunanithi | [Read More](https://medium.com/p/d7d5db04568e) |
-| Tue, 14 Apr 2026 13:01:02 GMT | CEH vs GPEN in 2026: Which One Actually Gets You Hired? | Adrian Găitan | [Read More](https://medium.com/p/26630d8a7446) |
-| Tue, 14 Apr 2026 13:01:02 GMT | Active campaigns are targeting Claude Code users. Here’s what defenders need to know. | Kiki Preteau | [Read More](https://medium.com/p/b29dddb9bf18) |
-| Tue, 14 Apr 2026 13:00:17 GMT | Logs Don’t Lie: How I Hunted a Web Attacker Through Raw Log Files | Mohammed Jehad | [Read More](https://medium.com/p/490775d32dee) |
-| Tue, 14 Apr 2026 12:58:41 GMT | PortSwigger - Lab: Inconsistent handling of exceptional input | Amrsmooke | [Read More](https://medium.com/p/0bf445009936) |
-| Tue, 14 Apr 2026 12:40:24 GMT | xLimit: A Security Research Assistant Built for Real Offensive Work | w1j0y | [Read More](https://medium.com/p/5ad9a663e0d3) |
-| Tue, 14 Apr 2026 12:39:50 GMT | What is a SOC Analyst? A Complete Beginner Guide (2026) | Vitabhya Visen | [Read More](https://medium.com/p/65002e830867) |
-| Tue, 14 Apr 2026 12:36:56 GMT | The Art of Knowing Everything Before You Hack Anything part 2 | Yousef Elsheikh | [Read More](https://medium.com/p/adba92f68281) |
-| Tue, 14 Apr 2026 12:33:58 GMT | Before the First Shift: The Part of Security Most People Never See | Trust Force Security and Guarding  Doha Qatar | [Read More](https://medium.com/p/0a1b0dbee8d2) |
-| Tue, 14 Apr 2026 12:30:25 GMT | Secrets Management — Vault, SSM, and Secrets Manager Compared | Gorav Singal | [Read More](https://medium.com/p/ef32baa1c929) |
-| Tue, 14 Apr 2026 12:26:01 GMT | The Article You’re Not Allowed to Read | Arthur | [Read More](https://medium.com/p/22a23984cc48) |
