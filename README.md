@@ -12,13 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Apr 2026 23:01:38 GMT | Reverse Engineering on CyberTalents: Solving All Easy Challenges Part 4 | Isv0x1 | [Read More](https://medium.com/p/0b006a62fdee) |
+| Tue, 14 Apr 2026 22:55:50 GMT | OpenAI vs Anthropic: AI for defensive security. Here’s what a blockchain engineer sees. | Bitresist | [Read More](https://medium.com/p/1baf4a5f8612) |
+| Tue, 14 Apr 2026 22:32:12 GMT | I Built a SOC Home Lab From Scratch as a Graduate — Here’s Everything I Learned | shinzo | [Read More](https://medium.com/p/a3c2a20dabfa) |
+| Tue, 14 Apr 2026 22:31:01 GMT | Cybersecurity in the Age of Autonomous AI: When Defense Is a Luxury Few Can Afford | Jonas Cira | [Read More](https://medium.com/p/eba7e5b2c8cd) |
+| Tue, 14 Apr 2026 22:18:01 GMT | Scam Systems Do Not Exploit Trust; They Exploit Latency | Eric Pekar | [Read More](https://medium.com/p/b414a3ec8d48) |
+| Tue, 14 Apr 2026 22:17:58 GMT | “Anonymous” Messaging is One Big Lie | Anthony Kasali | [Read More](https://medium.com/p/854e58210c65) |
+| Tue, 14 Apr 2026 22:17:51 GMT | As large language models (LLMs) are increasingly embedded into production systems, | Parth Shah | [Read More](https://medium.com/p/1b63cd86db35) |
+| Tue, 14 Apr 2026 22:16:01 GMT | The Conversation the Security Industry Keeps Having Wrong | Joshua Moses | [Read More](https://medium.com/p/6c80354e57ac) |
+| Tue, 14 Apr 2026 22:15:33 GMT | Agent Smith: Obfuscating Shellcode via Matrix Transformation(s) | Doob | [Read More](https://medium.com/p/9e45af897591) |
+| Tue, 14 Apr 2026 22:09:27 GMT | From AI Risk to Human Resilience: Building a Human-Centric AI Operating System | Dr. Margarita Bel | [Read More](https://medium.com/p/78176685f860) |
 | Tue, 14 Apr 2026 22:08:32 GMT | The Silicon Chokehold: Why AI’s Silent Security Threat and Memory Drain Could Break Tech | Tech Infoloom | [Read More](https://medium.com/p/eff94c667b59) |
+| Tue, 14 Apr 2026 22:08:05 GMT | A friend that is not | Nellywrites | [Read More](https://medium.com/p/539582c5edc5) |
 | Tue, 14 Apr 2026 22:03:49 GMT | The Last Locksmith | Harold Beeman | [Read More](https://medium.com/p/0c21e8ca200f) |
 | Tue, 14 Apr 2026 22:03:19 GMT | The Government Is Fighting Itself Over the Most Powerful Cybersecurity Tool Ever Built — And Your… | Cory Smith | [Read More](https://medium.com/p/aa17056c8bdc) |
 | Tue, 14 Apr 2026 22:00:57 GMT | Where Do We Store Encryption Keys (TPM, HSM, and Secure Enclave)? | Mahdi | [Read More](https://medium.com/p/ff2ccce2aa68) |
 | Tue, 14 Apr 2026 21:59:28 GMT | A friend that is not | Nellywrites | [Read More](https://medium.com/p/b44ec7f71111) |
 | Tue, 14 Apr 2026 21:53:41 GMT | The Untold Story of Men Who Were Told Not to Cry | Fazilatnaeem | [Read More](https://medium.com/p/f31e53fe1549) |
 | Tue, 14 Apr 2026 21:49:32 GMT | Why ICT Third-Party Risk is the Biggest Challenge in DORA. | Kehinde Babajide | [Read More](https://medium.com/p/cff2a4e177f3) |
+| Tue, 14 Apr 2026 21:48:33 GMT | Wisata Terunik di Indonesia: Destinasi Anti-Mainstream yang Wajib Masuk Bucket List | KoranDunia | [Read More](https://medium.com/p/3659553bab13) |
 | Tue, 14 Apr 2026 21:45:43 GMT | Inline Hooking: How do rootkits hide their activity on an infected machine? | Ilyes AZIZ | [Read More](https://medium.com/p/9c2dba25dc8a) |
 | Tue, 14 Apr 2026 21:42:59 GMT | Letsdefend SOC167 — LS Command Detected in Requested URL | Ighietsemhe Gabriel | [Read More](https://medium.com/p/aeea9d0095c9) |
 | Tue, 14 Apr 2026 21:41:02 GMT | TryHackMe: Nmap Live Host Discovery | Robert Perez | [Read More](https://medium.com/p/5bbe1a32cb5b) |
@@ -100,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Apr 2026 16:41:14 GMT | Is Bug Bounty a Good Long-Term Career? The Reality in 2026 | Pradeeptadi | [Read More](https://medium.com/p/8bb238d4d01e) |
 | Tue, 14 Apr 2026 16:37:58 GMT | Surveillance for cheating spouse | Michael Parks | [Read More](https://medium.com/p/578441607244) |
 | Tue, 14 Apr 2026 16:22:30 GMT | Web shell upload via obfuscated file extension - PortSwigger | Nazeer Rasad | [Read More](https://medium.com/p/04350537f5b6) |
-| Tue, 14 Apr 2026 16:21:26 GMT | AI‑Powered Attacks: From Zero‑Day Discovery to Deepfake Interviews | Rudratic Technologies | [Read More](https://medium.com/p/2d710eb76ea2) |
-| Tue, 14 Apr 2026 16:11:14 GMT | Making Users Strong Again: Why the “Training Trap” is failing Cybersecurity | Dr. Shashi Karhail | [Read More](https://medium.com/p/122186c5da4b) |
-| Tue, 14 Apr 2026 16:08:53 GMT | Understanding Computers
-and the Internet | Infinity Matrix | [Read More](https://medium.com/p/c5267ea58b51) |
-| Tue, 14 Apr 2026 16:08:34 GMT | Day 1 of My CTF Journey: Undo Challenge from picoCTF | Lalit Bhatta | [Read More](https://medium.com/p/7ac713592c77) |
-| Tue, 14 Apr 2026 16:08:03 GMT | The World’s Leading Quantum Experts
-Made Their 2026 Predictions.
-Here’s the honest version. | Senaaravichandran A | [Read More](https://medium.com/p/53dcc7ae9410) |
-| Tue, 14 Apr 2026 16:07:43 GMT | [THM] Intermediate Nmap - Writeup | Bonestorm | [Read More](https://medium.com/p/180fe6233b3d) |
-| Tue, 14 Apr 2026 16:06:21 GMT | ALMOST SOMETHING, ALMOST UNREAL | Yashaswi Saxena | [Read More](https://medium.com/p/296eeeb3e3f0) |
-| Tue, 14 Apr 2026 15:58:40 GMT | JWT Attacks You Should Know (Beyond the Basics) | Santhosh Kumar | [Read More](https://medium.com/p/25cfea72df5e) |
-| Tue, 14 Apr 2026 15:39:15 GMT | Two Auth Modes, One Bypass: Discovering a Hidden Attack Path in AWS AppSync | Mark Roy | [Read More](https://medium.com/p/a4b27497e254) |
-| Tue, 14 Apr 2026 15:38:23 GMT | How I bypassed client-side validation and achieved RCE through SQL injection — HTB Skills… | Laziz Ilyosov | [Read More](https://medium.com/p/df0f8630f609) |
-| Tue, 14 Apr 2026 15:37:51 GMT | Sovereign Vaults: Building Trustworthy Local AI Agents with Encrypted Isolation and Governed… | Ananda Krishnan | [Read More](https://medium.com/p/c50ab5a61f2e) |
-| Tue, 14 Apr 2026 15:29:55 GMT | Why Not Every New Technology Makes Life Better in 2026 | Aleksei Aleinikov | [Read More](https://medium.com/p/3e73bbd7ecbb) |
