@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Apr 2026 05:10:29 GMT | Critical Prototype Pollution Flaw in Adobe Reader (CVE-2026–34621) Under Attack Since Late 2025 | Lakshan Sameera | [Read More](https://medium.com/p/89e91016688e) |
+| Tue, 14 Apr 2026 05:04:54 GMT | The Smartest Way Into Cybersecurity Is Usually Step-by-Step | Rian Whitlow | [Read More](https://medium.com/p/338f69411512) |
+| Tue, 14 Apr 2026 04:55:08 GMT | How Does AI Video Analytics Bridge the Gap Between Security Teams and Operations Teams? | Spotem | [Read More](https://medium.com/p/70e5b7fd8ffe) |
+| Tue, 14 Apr 2026 04:51:21 GMT | Top Cybersecurity Tools Experts Use | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/cfa05db49e24) |
+| Tue, 14 Apr 2026 04:43:51 GMT | GOOGL Earnings Forecast: YouTube Shopping Affiliate Revenue for Bitunix GOOGLUSDT | Marina Riverss | [Read More](https://medium.com/p/aeedd7a0e10f) |
+| Tue, 14 Apr 2026 04:36:01 GMT | XSS Cross-Site Scripting Zero Se Hero: Browser Ko Apna Weapon Banao! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/f4333ef50a09) |
+| Tue, 14 Apr 2026 04:34:21 GMT | Offenso Hackers Academy | Mohammed Farhanoff | [Read More](https://medium.com/p/1ac51b4ee51f) |
+| Tue, 14 Apr 2026 04:31:01 GMT | Privacy-Preserving AI: My Journey to a Self-Hosted RAG Pipeline | M. Habib | [Read More](https://medium.com/p/085a1e1f5d7a) |
+| Tue, 14 Apr 2026 04:26:01 GMT | Analysis of phishing email report | Ahmed Jackson | [Read More](https://medium.com/p/c804c33b4488) |
+| Tue, 14 Apr 2026 04:25:10 GMT | Business Logic Bugs — The Highest Paying (But Most Missed) | ghostyjoe | [Read More](https://medium.com/p/81c877995f2c) |
+| Tue, 14 Apr 2026 04:20:48 GMT | Why Software-Only Security Has a Ceiling — And What Sits Below It | Curmay | [Read More](https://medium.com/p/f377ceff6892) |
+| Tue, 14 Apr 2026 04:19:38 GMT | Don’t Take the Bait:
+The Hilarious (and Horrifying) World of Phishing Attacks | Prateek Mishra | [Read More](https://medium.com/p/2d3babfe4c27) |
+| Tue, 14 Apr 2026 04:19:08 GMT | A Student’s Guide to Navigating the World of GRC : Part 1 | Owais Ali Khan | [Read More](https://medium.com/p/88802bb0f558) |
+| Tue, 14 Apr 2026 04:17:04 GMT | AOL Customer Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/788a438ed177) |
+| Tue, 14 Apr 2026 04:16:01 GMT | DHCP Inside Out: The Complete Guide to Dynamic Host Configuration Protocol | Sumit Sah | [Read More](https://medium.com/p/60cbdd565d74) |
+| Tue, 14 Apr 2026 04:11:31 GMT | Polkadot’s DOT hit by hack triggering unauthorized minting on Ethereum | Coin Headlines | [Read More](https://medium.com/p/26bc0ed9c50a) |
+| Tue, 14 Apr 2026 04:07:34 GMT | Outlook Customer Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/0700cc920b75) |
+| Tue, 14 Apr 2026 04:00:53 GMT | The End of Privacy: How AI is Watching Your Every Move in 2026 | Unknown most of time | [Read More](https://medium.com/p/c9241c73b2e8) |
+| Tue, 14 Apr 2026 03:58:07 GMT | Bigpond Technical Support- Queensland Australia | Customer Support Information | [Read More](https://medium.com/p/30feff389344) |
+| Tue, 14 Apr 2026 03:52:49 GMT | When OAuth Bypasses Email Restrictions — A Simple Signup Logic Flaw | StrangeRwhite | [Read More](https://medium.com/p/6aaabc22766f) |
+| Tue, 14 Apr 2026 03:51:18 GMT | Every Major Tech CEO Is Scared of AGI, So Why Are They Still Building It? | Kristalthapa | [Read More](https://medium.com/p/0bb6c585e29c) |
+| Tue, 14 Apr 2026 03:51:05 GMT | ESET Support 03 5323 1755 Australia | Customer Support Information | [Read More](https://medium.com/p/8549f1a3c55b) |
+| Tue, 14 Apr 2026 03:24:30 GMT | AI Just Broke the Security Model: What Anthropic’s Mythos Means for Every Enterprise | Rakeshkhanduja | [Read More](https://medium.com/p/a0ecd0397859) |
+| Tue, 14 Apr 2026 03:10:26 GMT | Why Industrial Security Services in California Are No Longer Optional — And What the Smart… | Matthew | [Read More](https://medium.com/p/00ac27d36445) |
+| Tue, 14 Apr 2026 02:53:00 GMT | I Built a Curriculum, a Game, and a Blockchain AI Tool — Here’s What Teaching Taught Me About… | Don Rivera Diaz | [Read More](https://medium.com/p/15b699246a8c) |
 | Tue, 14 Apr 2026 02:45:22 GMT | This AI Can Find Bugs Faster Than Humans So Why Can’t We Use It | Anuja Gadde | [Read More](https://medium.com/p/aefaa84b32c5) |
 | Tue, 14 Apr 2026 02:43:03 GMT | RBAC: Role-Based Access Control | Anderson Henrique Botega | [Read More](https://medium.com/p/e143a20c30c9) |
 | Tue, 14 Apr 2026 02:07:17 GMT | Cybertalents Lazania CTF Writeup (Full Walkthrough) | Omar | [Read More](https://medium.com/p/db68594a54bd) |
@@ -23,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Apr 2026 01:15:07 GMT | ⚙️ 11. — Method-based Access Control Can Be Circumvented | The4v1 | [Read More](https://medium.com/p/c3e03b880fe5) |
 | Tue, 14 Apr 2026 01:13:58 GMT | ⚙️ 10. — URL-based Access Control Can Be Circumvented — X -Original-URL | The4v1 | [Read More](https://medium.com/p/06e4ef198dba) |
 | Tue, 14 Apr 2026 00:01:05 GMT | The most popular LLM routing library got hacked. Here’s what I use instead. | Devansh Tiwari | [Read More](https://medium.com/p/4b56fc71017e) |
+| Tue, 14 Apr 2026 00:01:01 GMT | Guía de OAuth: Vulnerabilidades, Vectores de Ataque y Seguridad | JPablo13 | [Read More](https://medium.com/p/79a83b7ea4b5) |
 | Tue, 14 Apr 2026 00:00:04 GMT | Interpersonal Machine: information is social | Lloyd | [Read More](https://medium.com/p/cb4b78b77938) |
 | Mon, 13 Apr 2026 23:52:43 GMT | Understanding Network Protocols: The Invisible Language of the Internet (A Deep Dive for Security+… | Chaitanya Garware | [Read More](https://medium.com/p/45d23e5e8d60) |
 | Mon, 13 Apr 2026 23:49:54 GMT | I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own. | erik | [Read More](https://medium.com/p/a4b0d94308ae) |
@@ -86,29 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 13 Apr 2026 19:20:05 GMT | TryHackMe Cyborg Walkthrough — by Sooi Vervloessem | Sooi Vervloessem | [Read More](https://medium.com/p/22d80e85576a) |
 | Mon, 13 Apr 2026 19:19:22 GMT | I mounted Metasploitable 2’s entire filesystem from my Kali machine — here’s how | Rishiknelluri | [Read More](https://medium.com/p/b5088a521a75) |
 | Mon, 13 Apr 2026 19:17:25 GMT | How I Started My Cybersecurity Journey Without Money, Guidance, or Referrals (Real Story) | Shashank pal | [Read More](https://medium.com/p/a91c5ad360ef) |
-| Mon, 13 Apr 2026 19:16:42 GMT | Cybersecurity Consulting and Cybersecurity Services: The CyberSecOp Advantage | Jeffery Walker | [Read More](https://medium.com/p/9dbc792ac4f7) |
-| Mon, 13 Apr 2026 19:13:56 GMT | The Meme Coin Machine: Crypto Corruption and the SEC | Ryan Darbe | [Read More](https://medium.com/p/c91c4ff798be) |
-| Mon, 13 Apr 2026 19:07:10 GMT | Encryption Enforcement & Audit in AWS using Terraform | Shondy Sainthea | [Read More](https://medium.com/p/8f0c0398e5f1) |
-| Mon, 13 Apr 2026 19:06:57 GMT | Securing Autonomous Payments: Risk, Compliance, and Governance for AI Spend | Anmol Gupta | [Read More](https://medium.com/p/a61f1396290c) |
-| Mon, 13 Apr 2026 19:01:01 GMT | Agentic Triage on Snowflake | Vince Luongo | [Read More](https://medium.com/p/36fffe5a6388) |
-| Mon, 13 Apr 2026 18:57:47 GMT | SOC Automation Lab Series 4 | The Commoness | [Read More](https://medium.com/p/2ef5b7dfc0a9) |
-| Mon, 13 Apr 2026 18:55:41 GMT | I Investigated a Phishing Network That Has Been Running Since 2016 with 400+ Phishing Blogs and… | Prince Lassey | [Read More](https://medium.com/p/cb1aee37b26e) |
-| Mon, 13 Apr 2026 18:52:12 GMT | Hybrid Operation: How Two “Rival” Hacking Groups Are Manufacturing a Cyberwar Against Armenia | Samvel Martirosyan | [Read More](https://medium.com/p/8c87da115b8e) |
-| Mon, 13 Apr 2026 18:46:01 GMT | What People Can’t Comprehend When You’re A Stay-At-Home Parent | Hari G. Darcy | [Read More](https://medium.com/p/a7ef034a1d57) |
-| Mon, 13 Apr 2026 18:43:36 GMT | T-via: A Go based C2 that uses Github and notion as communication channel | 0r | [Read More](https://medium.com/p/f5a04c1fbdd7) |
-| Mon, 13 Apr 2026 18:33:47 GMT | Best Small Business Firewalls in 2026: 7 Top Picks & Buyer’s Guide | A | [Read More](https://medium.com/p/df3b2223e295) |
-| Mon, 13 Apr 2026 18:30:00 GMT | Kimsuky Deploys Malicious LNK Files to Implant Python-Based Backdoor in Multi-Stage Attack | Excalibra | [Read More](https://medium.com/p/2caa185b5361) |
-| Mon, 13 Apr 2026 18:28:09 GMT | Security Nerd — An Agentic AI Pentesting Assistant | VXRL | [Read More](https://medium.com/p/f71d245a458c) |
-| Mon, 13 Apr 2026 18:21:16 GMT | How to Read Firewall Logs for SOC Analysts: What You Are Expected to Know | Jbird | [Read More](https://medium.com/p/94a9c5fbcc55) |
-| Mon, 13 Apr 2026 18:19:34 GMT | (seperti) bertaruh pada api | bi | [Read More](https://medium.com/p/15fe18d4592a) |
-| Mon, 13 Apr 2026 18:17:21 GMT | The Invisible War Inside Your Network: A Beginner’s Guide to Command and Control (C2) Frameworks | Fino John | [Read More](https://medium.com/p/3ea8f094af6d) |
-| Mon, 13 Apr 2026 18:14:09 GMT | Pick Your Auth: An Interactive Guide | Cara | [Read More](https://medium.com/p/576d6c5dbee9) |
-| Mon, 13 Apr 2026 18:10:34 GMT | Mastering Web Security: A Deep Dive into OWASP Juice Shop | OmRajbhoi | [Read More](https://medium.com/p/b861d548d78a) |
-| Mon, 13 Apr 2026 18:08:26 GMT | Mr. Robot — Temporada 1, Episódio 1 | Deivis I. Mayer | [Read More](https://medium.com/p/07ae4a33e9fc) |
-| Mon, 13 Apr 2026 18:05:52 GMT | Why Web & Application Security Is Everyone’s Problem Now | Abhishek Kumar | [Read More](https://medium.com/p/3732cfbad1ee) |
-| Mon, 13 Apr 2026 18:02:08 GMT | How Dark Web Intelligence Helped Me Prioritize High-Value Targets | Iski | [Read More](https://medium.com/p/57401b8f3d96) |
-| Mon, 13 Apr 2026 17:52:37 GMT | AWS Security Guard AI: Automated Security Remediation with Claude 3.5 Sonnet | Roman Ceresnak, PhD | [Read More](https://medium.com/p/d24062b5676f) |
-| Mon, 13 Apr 2026 17:52:07 GMT | The Silent Revolution Beneath Bitcoin’s Price Charts | Daniella Nwachukwu | [Read More](https://medium.com/p/a64c4a4eec9f) |
-| Mon, 13 Apr 2026 17:44:20 GMT | AI Threat Modelling Assessment (THM) Tryhackme Walkthrough With All Answer | Lawvye | [Read More](https://medium.com/p/1fe630680aee) |
-| Mon, 13 Apr 2026 17:40:28 GMT | Beyond the Matrix: Building Your Foundation in Hacking, Linux, and Labs | Faheemmusthafa P | [Read More](https://medium.com/p/2638b75641d9) |
-| Mon, 13 Apr 2026 17:39:41 GMT | Cybersecurity Best Practices for Financial Data in the Cloud | nishu facile | [Read More](https://medium.com/p/c46efe591a53) |
