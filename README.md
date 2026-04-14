@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Apr 2026 16:54:30 GMT | TryHackMe - Securing AI Systems - WriteUp | Axoloth | [Read More](https://medium.com/p/9b6748bb7bec) |
+| Tue, 14 Apr 2026 16:46:49 GMT | Schrödinger’s Backup: If You Haven’t Tested a Restore, You Don’t Have a Backup | Hugo Valters | [Read More](https://medium.com/p/2474d3816392) |
+| Tue, 14 Apr 2026 16:44:02 GMT | The Silent Engine: Building a Zero-Failure Enterprise Payment Gateway with Stripe | Jayabal Rajendran | [Read More](https://medium.com/p/453d8b8c651e) |
+| Tue, 14 Apr 2026 16:42:13 GMT | How Security Training Works in London: Step-by-Step Explanation | Quiz Training | [Read More](https://medium.com/p/409970c15055) |
+| Tue, 14 Apr 2026 16:41:29 GMT | Policy Doesn’t Stop Shadow AI. Architecture Does. | James Word | [Read More](https://medium.com/p/cf4e350d888b) |
+| Tue, 14 Apr 2026 16:41:14 GMT | Is Bug Bounty a Good Long-Term Career? The Reality in 2026 | Pradeeptadi | [Read More](https://medium.com/p/8bb238d4d01e) |
+| Tue, 14 Apr 2026 16:37:58 GMT | Surveillance for cheating spouse | Michael Parks | [Read More](https://medium.com/p/578441607244) |
+| Tue, 14 Apr 2026 16:22:30 GMT | Web shell upload via obfuscated file extension - PortSwigger | Nazeer Rasad | [Read More](https://medium.com/p/04350537f5b6) |
+| Tue, 14 Apr 2026 16:21:26 GMT | AI‑Powered Attacks: From Zero‑Day Discovery to Deepfake Interviews | Rudratic Technologies | [Read More](https://medium.com/p/2d710eb76ea2) |
+| Tue, 14 Apr 2026 16:11:14 GMT | Making Users Strong Again: Why the “Training Trap” is failing Cybersecurity | Dr. Shashi Karhail | [Read More](https://medium.com/p/122186c5da4b) |
+| Tue, 14 Apr 2026 16:08:53 GMT | Understanding Computers
+and the Internet | Infinity Matrix | [Read More](https://medium.com/p/c5267ea58b51) |
+| Tue, 14 Apr 2026 16:08:34 GMT | Day 1 of My CTF Journey: Undo Challenge from picoCTF | Lalit Bhatta | [Read More](https://medium.com/p/7ac713592c77) |
+| Tue, 14 Apr 2026 16:08:03 GMT | The World’s Leading Quantum Experts
+Made Their 2026 Predictions.
+Here’s the honest version. | Senaaravichandran A | [Read More](https://medium.com/p/53dcc7ae9410) |
+| Tue, 14 Apr 2026 16:07:43 GMT | [THM] Intermediate Nmap - Writeup | Bonestorm | [Read More](https://medium.com/p/180fe6233b3d) |
+| Tue, 14 Apr 2026 16:06:21 GMT | ALMOST SOMETHING, ALMOST UNREAL | Yashaswi Saxena | [Read More](https://medium.com/p/296eeeb3e3f0) |
+| Tue, 14 Apr 2026 15:58:40 GMT | JWT Attacks You Should Know (Beyond the Basics) | Santhosh Kumar | [Read More](https://medium.com/p/25cfea72df5e) |
 | Tue, 14 Apr 2026 15:39:15 GMT | Two Auth Modes, One Bypass: Discovering a Hidden Attack Path in AWS AppSync | Mark Roy | [Read More](https://medium.com/p/a4b27497e254) |
 | Tue, 14 Apr 2026 15:38:23 GMT | How I bypassed client-side validation and achieved RCE through SQL injection — HTB Skills… | Laziz Ilyosov | [Read More](https://medium.com/p/df0f8630f609) |
 | Tue, 14 Apr 2026 15:37:51 GMT | Sovereign Vaults: Building Trustworthy Local AI Agents with Encrypted Isolation and Governed… | Ananda Krishnan | [Read More](https://medium.com/p/c50ab5a61f2e) |
@@ -96,19 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Apr 2026 10:52:06 GMT | The Email Cleanup Hack Every Marketer Needs | Tejaswini | [Read More](https://medium.com/p/4ca67bf02656) |
 | Tue, 14 Apr 2026 10:36:10 GMT | Digital Trust in Government → Secure Systems That Scale | EveryTicket – Museum Ticketing Software | [Read More](https://medium.com/p/95c0d71f7654) |
 | Tue, 14 Apr 2026 10:32:45 GMT | The LiteLLM Breach: A Masterclass in Modern Supply Chain Warfare | Alessandro Pignati | [Read More](https://medium.com/p/33c300969415) |
-| Tue, 14 Apr 2026 10:32:29 GMT | The Stuxnet Attack: When Malware Destroyed a Nuclear Plant | InfosecTrain | [Read More](https://medium.com/p/2385071f0af7) |
-| Tue, 14 Apr 2026 10:31:10 GMT | If I Were an Attacker: Breaking CAPTCHA and Rate Limiting Systems | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/121f411c117a) |
-| Tue, 14 Apr 2026 10:31:01 GMT | Trillion-Dollar Companies Pay $0 for Infrastructure They cannot Live Without | Can Artuc | [Read More](https://medium.com/p/1fb9d89e42b4) |
-| Tue, 14 Apr 2026 10:30:21 GMT | How to Meet CERT-In’s 6-Hour Incident Reporting Rule with Lean 24×7 Teams - DC9India | DC9India | [Read More](https://medium.com/p/8a81e1f7d76e) |
-| Tue, 14 Apr 2026 10:27:47 GMT | How CCTV Security System Installation Solves Common Problems | IT Solution Dubai | [Read More](https://medium.com/p/886cae780785) |
-| Tue, 14 Apr 2026 10:26:37 GMT | SIA Course Birmingham: Your Complete Guide to Becoming a Licensed Security Professional in the UK | Getyoursia | [Read More](https://medium.com/p/bbccc06f6a83) |
-| Tue, 14 Apr 2026 10:23:23 GMT | The Trust Factor: How Anonymous Strangers Trade Millions Without Ever Meeting. | Mohit | [Read More](https://medium.com/p/5ff829dd5c67) |
-| Tue, 14 Apr 2026 10:23:12 GMT | Connecting for Protection: How a Simple Contact Secures Your Peace of Mind | Grdsnscrt | [Read More](https://medium.com/p/09e5a5016f10) |
-| Tue, 14 Apr 2026 10:19:50 GMT | Why the Cheapest Ethical Hacking Course Fees Often Cost You the Most in the Long Run (2026) | Varun Papnai | [Read More](https://medium.com/p/cfb1c73d85e0) |
-| Tue, 14 Apr 2026 10:19:13 GMT | Pentester Lab Recon 07 Writeup | Robert Nyinge | [Read More](https://medium.com/p/cf58b9ee59f8) |
-| Tue, 14 Apr 2026 10:17:31 GMT | Networking Concepts for DevOps Engineers - Part 2 | Mahima Mali | [Read More](https://medium.com/p/de9ab1ac310b) |
-| Tue, 14 Apr 2026 10:09:44 GMT | Web Application Firewall Market Growing at 19.21% CAGR Through 2033 | NIkita Poplai | [Read More](https://medium.com/p/693a2fd61e35) |
-| Tue, 14 Apr 2026 10:07:00 GMT | Unarmed vs Armed Security Guards: Which One Does Your Business Actually Need? | Reliable Security Staffing | [Read More](https://medium.com/p/3b97c5071d94) |
-| Tue, 14 Apr 2026 10:01:01 GMT | The Day the Internet Changed: January 1st, 1983 | Bob Withers | [Read More](https://medium.com/p/211d7864c1c6) |
-| Tue, 14 Apr 2026 09:57:56 GMT | Dissecting a PlugX Campaign: Contebrew Payload Analysis | Damag3dRoot | [Read More](https://medium.com/p/7ed9910514ed) |
-| Tue, 14 Apr 2026 09:57:40 GMT | Pentester Lab 06 Writeup | Robert Nyinge | [Read More](https://medium.com/p/36e3d63a2d36) |
