@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Apr 2026 15:39:15 GMT | Two Auth Modes, One Bypass: Discovering a Hidden Attack Path in AWS AppSync | Mark Roy | [Read More](https://medium.com/p/a4b27497e254) |
+| Tue, 14 Apr 2026 15:38:23 GMT | How I bypassed client-side validation and achieved RCE through SQL injection — HTB Skills… | Laziz Ilyosov | [Read More](https://medium.com/p/df0f8630f609) |
+| Tue, 14 Apr 2026 15:37:51 GMT | Sovereign Vaults: Building Trustworthy Local AI Agents with Encrypted Isolation and Governed… | Ananda Krishnan | [Read More](https://medium.com/p/c50ab5a61f2e) |
+| Tue, 14 Apr 2026 15:29:55 GMT | Why Not Every New Technology Makes Life Better in 2026 | Aleksei Aleinikov | [Read More](https://medium.com/p/3e73bbd7ecbb) |
+| Tue, 14 Apr 2026 15:24:28 GMT | The AI That Hacks While You Sleep | David ONeal | [Read More](https://medium.com/p/79aa03112a3d) |
+| Tue, 14 Apr 2026 15:24:27 GMT | Bridges should enforce rules, not assumptions. | NanoChain | [Read More](https://medium.com/p/2b9e70eb29e2) |
+| Tue, 14 Apr 2026 15:19:21 GMT | Time for an Upgrade: Why Your 2024 AI Security Policy is Obsolete in 2026 | Xaltius | [Read More](https://medium.com/p/bb6006e10bdf) |
+| Tue, 14 Apr 2026 15:19:05 GMT | Privacy vs. Visibility: Can We Have Both in a Censored Internet? | Voidly | [Read More](https://medium.com/p/8a9bc7a5cac7) |
+| Tue, 14 Apr 2026 15:18:02 GMT | The Silent Compromise of Air Power: A Forensic Perspective on Avionics Security | d4rkwh15k3r5 | [Read More](https://medium.com/p/741c3c710974) |
+| Tue, 14 Apr 2026 15:17:44 GMT | The Real Cybersecurity Crisis of 2026 Isn’t Zero-Days, It’s the Volume | KeyboardSamurai | [Read More](https://medium.com/p/701b8518b781) |
+| Tue, 14 Apr 2026 15:16:31 GMT | Why Software Should No Longer Hold Final Execution Authority | Havenlon | [Read More](https://medium.com/p/690fcecf8a7e) |
+| Tue, 14 Apr 2026 15:08:17 GMT | Your Instagram Account Can Be Stolen in 3 Minutes-Here’s Exactly How It Happens | Vivek | [Read More](https://medium.com/p/927ddfdeafd2) |
+| Tue, 14 Apr 2026 15:01:54 GMT | Two Weeks Into Per Scholas | Christopher Ham | [Read More](https://medium.com/p/9f37e66402a8) |
+| Tue, 14 Apr 2026 15:01:04 GMT | Not All AI Agents Are Built the Same: A Field Guide to Enterprise Readiness | Jaz Lin | [Read More](https://medium.com/p/fce34398651f) |
+| Tue, 14 Apr 2026 15:01:04 GMT | Determining the root cause — Blizzard — Part 3 | Misbah Ur Rehman | [Read More](https://medium.com/p/f1c87fe16982) |
+| Tue, 14 Apr 2026 14:53:01 GMT | Manipulating the Price Tag - PortSwigger — Excessive Trust in Client-Side Controls | Kate D Terracore | [Read More](https://medium.com/p/fe1697460c24) |
+| Tue, 14 Apr 2026 14:47:16 GMT | Inside the Perimeter: A Real-World Internal Network Vulnerability Assessment | Sathya Boobalan | [Read More](https://medium.com/p/6c13a7dc68b1) |
+| Tue, 14 Apr 2026 14:47:06 GMT | Exam Review: Certified Network Security Practitioner (CNSP) | Dhanush N | [Read More](https://medium.com/p/fe8827ed6724) |
+| Tue, 14 Apr 2026 14:46:42 GMT | Rocket — CVE-2021–22911 NoSQL Injection + Ruby cap_setuid to Root - TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/e4dc9e6ba82b) |
+| Tue, 14 Apr 2026 14:46:01 GMT | Anthropic’s Mythos Is Real. The Victory Lap Isn’t. | Wes Young | [Read More](https://medium.com/p/72646142d3e2) |
+| Tue, 14 Apr 2026 14:09:46 GMT | 10x thinking for solving the ecological crises as a whole | Erik Kvam | [Read More](https://medium.com/p/3a6c0a36ccad) |
+| Tue, 14 Apr 2026 14:02:14 GMT | The Disappearing Human: When Technology Replaces the Soul | Ajai Kumar Sonkar | [Read More](https://medium.com/p/991f3d7c9a8e) |
+| Tue, 14 Apr 2026 14:00:03 GMT | Opacity — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/e3c510b65fa0) |
 | Tue, 14 Apr 2026 13:51:57 GMT | 7 Claude Code Hacks From the v2.1.97–98 | Tatsuru Okada | [Read More](https://medium.com/p/8b23ac37e6c5) |
 | Tue, 14 Apr 2026 13:50:21 GMT | FIDO2 for CI/CD: Why Origin-Bound Hardware Authentication Beats TOTP and Push Approvals | Kalyan Tamarapalli | [Read More](https://medium.com/p/13d00ac181cd) |
 | Tue, 14 Apr 2026 13:50:11 GMT | Plausible Compliance: Designing Duress Protocols for Human Coercion in CI/CD Security | Kalyan Tamarapalli | [Read More](https://medium.com/p/07a532ff0a44) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Apr 2026 10:01:01 GMT | The Day the Internet Changed: January 1st, 1983 | Bob Withers | [Read More](https://medium.com/p/211d7864c1c6) |
 | Tue, 14 Apr 2026 09:57:56 GMT | Dissecting a PlugX Campaign: Contebrew Payload Analysis | Damag3dRoot | [Read More](https://medium.com/p/7ed9910514ed) |
 | Tue, 14 Apr 2026 09:57:40 GMT | Pentester Lab 06 Writeup | Robert Nyinge | [Read More](https://medium.com/p/36e3d63a2d36) |
-| Tue, 14 Apr 2026 09:53:27 GMT | The 5 Best AI Programs Right Now (That Can Change Your Life) | Melvyn Morrison | [Read More](https://medium.com/p/0ea287aaac07) |
-| Tue, 14 Apr 2026 09:47:32 GMT | Write a Topic Name of Information Technology | Mahabbatkhan | [Read More](https://medium.com/p/19c4177a3394) |
-| Tue, 14 Apr 2026 09:45:56 GMT | IT vs CS: Don’t Choose Until You Read This | LearnWithUmar | [Read More](https://medium.com/p/ada0a1f52aa1) |
-| Tue, 14 Apr 2026 09:38:33 GMT | Reverse Engineering Mobile Apps: 15 Tools & Tips to Master Security Analysis | Very Lazy Tech | [Read More](https://medium.com/p/37f50b1c155a) |
-| Tue, 14 Apr 2026 09:38:03 GMT | Le Paradoxe de la Cybersécurité Moderne | Sahar Hamdi | [Read More](https://medium.com/p/4ee2e232f042) |
-| Tue, 14 Apr 2026 09:37:31 GMT | How I Bypassed LG’s Account Verification with a Simple URL Edit | Anonymoushackerx Bugreporter | [Read More](https://medium.com/p/205ba390d7b9) |
-| Tue, 14 Apr 2026 09:31:01 GMT | Your Logs Are More Expensive Than Your Compute | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/0d326c1f7dc7) |
-| Tue, 14 Apr 2026 09:25:46 GMT | The EMP Blackout Is Coming: How to Keep Your Family Alive When the Grid Dies for 6 Months | Officer's Notes | [Read More](https://medium.com/p/e027304815e0) |
-| Tue, 14 Apr 2026 09:21:08 GMT | The Small World of Adam Smith and the Enigma Called the West | Haruka Matsukasa | [Read More](https://medium.com/p/c4e0194a80d5) |
-| Tue, 14 Apr 2026 09:20:09 GMT | From Curiosity to Cybersecurity: The Story of Securozen | Hackersatyam Cyber | [Read More](https://medium.com/p/ff69f40080be) |
-| Tue, 14 Apr 2026 09:01:17 GMT | Golf Simulators Market Size, Share, Industry Growth — 2035 | NIkita Poplai | [Read More](https://medium.com/p/8da268bddbae) |
-| Tue, 14 Apr 2026 08:57:24 GMT | Why Logging Security Pvt Ltd is Jharkhand’s Most Trusted Cybersecurity Company for Training &… | logging security | [Read More](https://medium.com/p/f59604e0822a) |
-| Tue, 14 Apr 2026 08:54:22 GMT | Admirer — Writeup | c3n7 | [Read More](https://medium.com/p/a71e78bdc226) |
-| Tue, 14 Apr 2026 08:53:39 GMT | Uncle Rat’s Bug Bounty Methdology — 2026 Version | Thexssrat | [Read More](https://medium.com/p/65c88af2cbe6) |
-| Tue, 14 Apr 2026 08:53:11 GMT | Web Application Security: Prevent Attacks and Data Breach | Application Security Master | [Read More](https://medium.com/p/ea80aadc01e8) |
-| Tue, 14 Apr 2026 08:50:52 GMT | Bug Bounty Is Broken — Why 99% of Hackers Make $0 (And What They Don’t Tell You) | 0xAbhiSec | [Read More](https://medium.com/p/5879655e7741) |
-| Tue, 14 Apr 2026 08:48:17 GMT | Kevych Solutions Ranks #24 in Clutch 100 Fastest-Growing IT Companies! | Kevych Solutions | [Read More](https://medium.com/p/8671a957137a) |
-| Tue, 14 Apr 2026 08:36:01 GMT | How I Bypassed CORS Using XSS and Stole API Data | Tsunade | [Read More](https://medium.com/p/3ac9a6744b33) |
-| Tue, 14 Apr 2026 08:35:14 GMT | We Built an Offensive Security AI That Answered Every MITRE ATT&CK Challenge. Here’s What Happened. | Albert Corzo | [Read More](https://medium.com/p/86c7ba1f7dab) |
-| Tue, 14 Apr 2026 08:30:29 GMT | Cyber Security Alerts: Explained Clearly | Dipayan Ghosh | [Read More](https://medium.com/p/6616a8c84f4d) |
-| Tue, 14 Apr 2026 08:28:22 GMT | I Started My SOC Analyst Journey Today. Here Is Everything That Happened. | Harshita Keshwani | [Read More](https://medium.com/p/eb2e5856fffe) |
-| Tue, 14 Apr 2026 08:27:39 GMT | Autonomous AI Agents Are Already Doing Security-Relevant Damage — and That Doesn’t Mean We Should… | Lorenz Lösch | [Read More](https://medium.com/p/4fb506860367) |
-| Tue, 14 Apr 2026 08:16:58 GMT | AWS Security Hacks Every Cloud & DevOps Engineer Should Know (Even If You Struggle With… | Giri Babu | [Read More](https://medium.com/p/2b0fcff6967d) |
