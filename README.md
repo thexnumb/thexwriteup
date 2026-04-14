@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Apr 2026 22:08:32 GMT | The Silicon Chokehold: Why AI’s Silent Security Threat and Memory Drain Could Break Tech | Tech Infoloom | [Read More](https://medium.com/p/eff94c667b59) |
+| Tue, 14 Apr 2026 22:03:49 GMT | The Last Locksmith | Harold Beeman | [Read More](https://medium.com/p/0c21e8ca200f) |
+| Tue, 14 Apr 2026 22:03:19 GMT | The Government Is Fighting Itself Over the Most Powerful Cybersecurity Tool Ever Built — And Your… | Cory Smith | [Read More](https://medium.com/p/aa17056c8bdc) |
+| Tue, 14 Apr 2026 22:00:57 GMT | Where Do We Store Encryption Keys (TPM, HSM, and Secure Enclave)? | Mahdi | [Read More](https://medium.com/p/ff2ccce2aa68) |
+| Tue, 14 Apr 2026 21:59:28 GMT | A friend that is not | Nellywrites | [Read More](https://medium.com/p/b44ec7f71111) |
+| Tue, 14 Apr 2026 21:53:41 GMT | The Untold Story of Men Who Were Told Not to Cry | Fazilatnaeem | [Read More](https://medium.com/p/f31e53fe1549) |
+| Tue, 14 Apr 2026 21:49:32 GMT | Why ICT Third-Party Risk is the Biggest Challenge in DORA. | Kehinde Babajide | [Read More](https://medium.com/p/cff2a4e177f3) |
+| Tue, 14 Apr 2026 21:45:43 GMT | Inline Hooking: How do rootkits hide their activity on an infected machine? | Ilyes AZIZ | [Read More](https://medium.com/p/9c2dba25dc8a) |
+| Tue, 14 Apr 2026 21:42:59 GMT | Letsdefend SOC167 — LS Command Detected in Requested URL | Ighietsemhe Gabriel | [Read More](https://medium.com/p/aeea9d0095c9) |
+| Tue, 14 Apr 2026 21:41:02 GMT | TryHackMe: Nmap Live Host Discovery | Robert Perez | [Read More](https://medium.com/p/5bbe1a32cb5b) |
+| Tue, 14 Apr 2026 21:39:17 GMT | Lets defend SOC167 — LS Command Detected in Requested URL | Gabriel Ighietsemhe | [Read More](https://medium.com/p/cfc7f8cb0423) |
+| Tue, 14 Apr 2026 21:34:54 GMT | TryHackMe: Introduction to SIEM | Robert Perez | [Read More](https://medium.com/p/150fa97b8fc8) |
+| Tue, 14 Apr 2026 21:28:29 GMT | 13 Years in the Dark: How a Hidden ActiveMQ Flaw Turns Your Message Broker Into a Backdoor… | Kerem | [Read More](https://medium.com/p/baea9254996f) |
 | Tue, 14 Apr 2026 21:23:23 GMT | The 2026 Cybersecurity Blueprint: Moving from Static Defense to Resilience-as-a-Service | Patrick Dougherty | [Read More](https://medium.com/p/a5bee83f3794) |
 | Tue, 14 Apr 2026 21:15:01 GMT | How Claude Mythos Preview Just Redefined AI Cyber Capabilities | SOCFortress | [Read More](https://medium.com/p/e34694f2ec00) |
 | Tue, 14 Apr 2026 21:10:07 GMT | NexGuards vs KnowBe4: AI-Personalized Phishing Simulation vs Template-Based Training (2026) | Mohamed Sherif | [Read More](https://medium.com/p/237ff75d4dbe) |
@@ -102,16 +115,3 @@ Here’s the honest version. | Senaaravichandran A | [Read More](https://medium.
 | Tue, 14 Apr 2026 15:38:23 GMT | How I bypassed client-side validation and achieved RCE through SQL injection — HTB Skills… | Laziz Ilyosov | [Read More](https://medium.com/p/df0f8630f609) |
 | Tue, 14 Apr 2026 15:37:51 GMT | Sovereign Vaults: Building Trustworthy Local AI Agents with Encrypted Isolation and Governed… | Ananda Krishnan | [Read More](https://medium.com/p/c50ab5a61f2e) |
 | Tue, 14 Apr 2026 15:29:55 GMT | Why Not Every New Technology Makes Life Better in 2026 | Aleksei Aleinikov | [Read More](https://medium.com/p/3e73bbd7ecbb) |
-| Tue, 14 Apr 2026 15:24:28 GMT | The AI That Hacks While You Sleep | David ONeal | [Read More](https://medium.com/p/79aa03112a3d) |
-| Tue, 14 Apr 2026 15:24:27 GMT | Bridges should enforce rules, not assumptions. | NanoChain | [Read More](https://medium.com/p/2b9e70eb29e2) |
-| Tue, 14 Apr 2026 15:19:21 GMT | Time for an Upgrade: Why Your 2024 AI Security Policy is Obsolete in 2026 | Xaltius | [Read More](https://medium.com/p/bb6006e10bdf) |
-| Tue, 14 Apr 2026 15:19:05 GMT | Privacy vs. Visibility: Can We Have Both in a Censored Internet? | Voidly | [Read More](https://medium.com/p/8a9bc7a5cac7) |
-| Tue, 14 Apr 2026 15:18:02 GMT | The Silent Compromise of Air Power: A Forensic Perspective on Avionics Security | d4rkwh15k3r5 | [Read More](https://medium.com/p/741c3c710974) |
-| Tue, 14 Apr 2026 15:17:44 GMT | The Real Cybersecurity Crisis of 2026 Isn’t Zero-Days, It’s the Volume | KeyboardSamurai | [Read More](https://medium.com/p/701b8518b781) |
-| Tue, 14 Apr 2026 15:16:31 GMT | Why Software Should No Longer Hold Final Execution Authority | Havenlon | [Read More](https://medium.com/p/690fcecf8a7e) |
-| Tue, 14 Apr 2026 15:08:17 GMT | Your Instagram Account Can Be Stolen in 3 Minutes-Here’s Exactly How It Happens | Vivek | [Read More](https://medium.com/p/927ddfdeafd2) |
-| Tue, 14 Apr 2026 15:01:54 GMT | Two Weeks Into Per Scholas | Christopher Ham | [Read More](https://medium.com/p/9f37e66402a8) |
-| Tue, 14 Apr 2026 15:01:04 GMT | Not All AI Agents Are Built the Same: A Field Guide to Enterprise Readiness | Jaz Lin | [Read More](https://medium.com/p/fce34398651f) |
-| Tue, 14 Apr 2026 15:01:04 GMT | Determining the root cause — Blizzard — Part 3 | Misbah Ur Rehman | [Read More](https://medium.com/p/f1c87fe16982) |
-| Tue, 14 Apr 2026 14:53:07 GMT | “We’re Too Small to Be Targeted” — Why This Belief Is Costing Businesses Millions | IT_Engineer | [Read More](https://medium.com/p/ae58b18ad075) |
-| Tue, 14 Apr 2026 14:53:01 GMT | Manipulating the Price Tag - PortSwigger — Excessive Trust in Client-Side Controls | Kate D Terracore | [Read More](https://medium.com/p/fe1697460c24) |
