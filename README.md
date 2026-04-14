@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 14 Apr 2026 11:46:01 GMT | DoS Attack Lab Setup — Educational Practical Ethical Hacking Lab | MainEkHacker | [Read More](https://medium.com/p/3a73e16724db) |
+| Tue, 14 Apr 2026 11:38:51 GMT | Cybersecurity in 2026: The Invisible War Protecting Your Digital Life | Esco | [Read More](https://medium.com/p/62b1d9165c16) |
+| Tue, 14 Apr 2026 11:37:05 GMT | Security Services Calgary — Trusted Protection You Can Rely On | Naveenmaddi | [Read More](https://medium.com/p/b4ccaf24d2c3) |
+| Tue, 14 Apr 2026 11:36:40 GMT | API Security | Dhanashree | [Read More](https://medium.com/p/d3adbb60b0df) |
+| Tue, 14 Apr 2026 11:36:27 GMT | TryHackMeWriteup: Basic Pentesting | Melisa Nyamukondiwa | [Read More](https://medium.com/p/161aa029f62c) |
+| Tue, 14 Apr 2026 11:35:33 GMT | Starknet BTC Staking: How to Extract Rewards with Zero Collateral (And Why the Team Ignored It) | rdin777 | [Read More](https://medium.com/p/fa2093e0bed8) |
+| Tue, 14 Apr 2026 11:30:22 GMT | Empire-Lupinone - vulnhub - walkthrough | Vin13 | [Read More](https://medium.com/p/7fb9c11e16da) |
+| Tue, 14 Apr 2026 11:28:58 GMT | The Indian Fraudster Peak Detailing | Narendra | [Read More](https://medium.com/p/a0c58a8fca92) |
+| Tue, 14 Apr 2026 11:27:22 GMT | Top IT Infrastructure Challenges Businesses Face and How to Solve Them | MedVoice Global | [Read More](https://medium.com/p/b67242c7c387) |
+| Tue, 14 Apr 2026 11:26:58 GMT | ML & DL in Cybersecurity | Pritimayeemishra | [Read More](https://medium.com/p/254959154406) |
+| Tue, 14 Apr 2026 11:26:36 GMT | SOC175 — PowerShell Found in Requested URL - CVE-2022–41082 (ProxyNotShell) - LetsDefend Writeup | Rai Pereira | [Read More](https://medium.com/p/18551453d207) |
+| Tue, 14 Apr 2026 11:26:28 GMT | SOC202 — FakeGPT Malicious Chrome Extension - LetsDefend Writeup | Rai Pereira | [Read More](https://medium.com/p/b8e5ae96aa02) |
+| Tue, 14 Apr 2026 11:24:23 GMT | Shai-Hulud 2.0: The Worm Returns — Bigger, Meaner, and Ready to Wipe Your Home Directory | Oran F | [Read More](https://medium.com/p/d31c7264d080) |
+| Tue, 14 Apr 2026 11:24:11 GMT | Everything You Need to Know About SIA Training Birmingham: Courses, Qualifications, and Career… | Getyoursia | [Read More](https://medium.com/p/7402463048b4) |
+| Tue, 14 Apr 2026 11:23:30 GMT | Scam Alerts: Your First Line of Defense Against Fake Websites | James Smith | [Read More](https://medium.com/p/437d23565809) |
+| Tue, 14 Apr 2026 11:17:40 GMT | The Precision Shift: How Advanced Refractory Engineering is Defining Next-Gen Steel Production. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/3de4ac624dd5) |
+| Tue, 14 Apr 2026 11:15:01 GMT | Just Passed My Ejpt Certification | Thiru | [Read More](https://medium.com/p/df8b514b8fed) |
+| Tue, 14 Apr 2026 11:09:51 GMT | FP KCV : NeuroSpeculo | Jorellramossinaga | [Read More](https://medium.com/p/128c6798f61e) |
+| Tue, 14 Apr 2026 11:06:36 GMT | Axios CVE-2026–40175 hurts my brain | Miggo Engineering | [Read More](https://medium.com/p/2f6da09c8c07) |
+| Tue, 14 Apr 2026 11:03:08 GMT | Project Glasswing Isn’t Just About Cybersecurity. It’s a Warning. | Rashmi Agrawal | [Read More](https://medium.com/p/fc5c77de5c6e) |
+| Tue, 14 Apr 2026 10:57:49 GMT | Top 10 Web Development Trends to Watch in 2026 | Mathionix Technologies | [Read More](https://medium.com/p/360af11e30e3) |
+| Tue, 14 Apr 2026 10:52:06 GMT | The Email Cleanup Hack Every Marketer Needs | Tejaswini | [Read More](https://medium.com/p/4ca67bf02656) |
 | Tue, 14 Apr 2026 10:36:10 GMT | Digital Trust in Government → Secure Systems That Scale | EveryTicket – Museum Ticketing Software | [Read More](https://medium.com/p/95c0d71f7654) |
 | Tue, 14 Apr 2026 10:32:45 GMT | The LiteLLM Breach: A Masterclass in Modern Supply Chain Warfare | Alessandro Pignati | [Read More](https://medium.com/p/33c300969415) |
 | Tue, 14 Apr 2026 10:32:29 GMT | The Stuxnet Attack: When Malware Destroyed a Nuclear Plant | InfosecTrain | [Read More](https://medium.com/p/2385071f0af7) |
@@ -90,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Apr 2026 06:10:05 GMT | From Forgot Password to Account Takeover: A Simple API Mistake | Muhammad Fazriansyah | [Read More](https://medium.com/p/478e402446a6) |
 | Tue, 14 Apr 2026 06:07:13 GMT | Network Reconnaissance: The Hacker’s First Move | Muhammed Rizwan PR | [Read More](https://medium.com/p/9be304520fa4) |
 | Tue, 14 Apr 2026 06:06:57 GMT | Why the On-chain Dollar Economy Is Becoming Web3’s Real Base Layer | Mytier Universe Official Blog | [Read More](https://medium.com/p/2ccad019f6c9) |
-| Tue, 14 Apr 2026 06:05:10 GMT | Your Phone Knows More About You Than Your Best Friend — And Someone Else Might Too | Karanam Shrivasta | [Read More](https://medium.com/p/99a3d06a25a7) |
-| Tue, 14 Apr 2026 05:56:50 GMT | Why operational resilience is now a strategic imperative | Elizabeth Press | [Read More](https://medium.com/p/89b49e93e988) |
-| Tue, 14 Apr 2026 05:48:06 GMT | Log Correlation Strategies for SOC Teams | Majidbasharat | [Read More](https://medium.com/p/2eb9b859497b) |
-| Tue, 14 Apr 2026 05:42:53 GMT | A Simple Guide to Salesforce Record Sharing: Who Sees What? | Tanvi Parde | [Read More](https://medium.com/p/e793846c7495) |
-| Tue, 14 Apr 2026 05:34:19 GMT | Most Tech ‘Communities’ Are Just Marketing Funnels (And People Are Tired of It) | Calista Wren | [Read More](https://medium.com/p/0f58d5db900e) |
-| Tue, 14 Apr 2026 05:29:40 GMT | Google Just Open-Sourced Magika: The Tool That Protects 2 Billion Gmail Users. | Mandar Karhade, MD. PhD. | [Read More](https://medium.com/p/ad85a5f8b7ea) |
-| Tue, 14 Apr 2026 05:27:03 GMT | Cách vào 28bet an toàn: những bước kiểm tra cần thiết năm 2026 | 報數十一員 | [Read More](https://medium.com/p/4baf47fa65b3) |
-| Tue, 14 Apr 2026 05:24:23 GMT | Anthropic’s new Mythos model: Is it really a world-ending threat or just a $20,000 marketing stunt? | Champ18ion | [Read More](https://medium.com/p/a3b2c4e22d1d) |
-| Tue, 14 Apr 2026 05:10:29 GMT | Critical Prototype Pollution Flaw in Adobe Reader (CVE-2026–34621) Under Attack Since Late 2025 | Lakshan Sameera | [Read More](https://medium.com/p/89e91016688e) |
-| Tue, 14 Apr 2026 05:04:54 GMT | The Smartest Way Into Cybersecurity Is Usually Step-by-Step | Rian Whitlow | [Read More](https://medium.com/p/338f69411512) |
-| Tue, 14 Apr 2026 04:55:08 GMT | How Does AI Video Analytics Bridge the Gap Between Security Teams and Operations Teams? | Spotem | [Read More](https://medium.com/p/70e5b7fd8ffe) |
-| Tue, 14 Apr 2026 04:51:21 GMT | Top Cybersecurity Tools Experts Use | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/cfa05db49e24) |
-| Tue, 14 Apr 2026 04:43:51 GMT | GOOGL Earnings Forecast: YouTube Shopping Affiliate Revenue for Bitunix GOOGLUSDT | Marina Riverss | [Read More](https://medium.com/p/aeedd7a0e10f) |
-| Tue, 14 Apr 2026 04:36:01 GMT | XSS Cross-Site Scripting Zero Se Hero: Browser Ko Apna Weapon Banao! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/f4333ef50a09) |
-| Tue, 14 Apr 2026 04:34:21 GMT | Offenso Hackers Academy | Mohammed Farhanoff | [Read More](https://medium.com/p/1ac51b4ee51f) |
-| Tue, 14 Apr 2026 04:31:01 GMT | Privacy-Preserving AI: My Journey to a Self-Hosted RAG Pipeline | M. Habib | [Read More](https://medium.com/p/085a1e1f5d7a) |
-| Tue, 14 Apr 2026 04:26:01 GMT | Analysis of phishing email report | Ahmed Jackson | [Read More](https://medium.com/p/c804c33b4488) |
-| Tue, 14 Apr 2026 04:25:10 GMT | Business Logic Bugs — The Highest Paying (But Most Missed) | ghostyjoe | [Read More](https://medium.com/p/81c877995f2c) |
-| Tue, 14 Apr 2026 04:20:48 GMT | Why Software-Only Security Has a Ceiling — And What Sits Below It | Curmay | [Read More](https://medium.com/p/f377ceff6892) |
-| Tue, 14 Apr 2026 04:19:38 GMT | Don’t Take the Bait:
-The Hilarious (and Horrifying) World of Phishing Attacks | Prateek Mishra | [Read More](https://medium.com/p/2d3babfe4c27) |
-| Tue, 14 Apr 2026 04:19:08 GMT | A Student’s Guide to Navigating the World of GRC : Part 1 | Owais Ali Khan | [Read More](https://medium.com/p/88802bb0f558) |
-| Tue, 14 Apr 2026 04:17:04 GMT | AOL Customer Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/788a438ed177) |
