@@ -12,6 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 14:00:03 GMT | Unmask the HIDDEN IDENTITY in EVERY Share Link You Click!!! | cybrNK | [Read More](https://medium.com/p/639ecd249ec1) |
+| Wed, 15 Apr 2026 13:59:59 GMT | Why AI is the Double-Edged Sword in Cybersecurity Right Now? | Abhishek Bhujang | [Read More](https://medium.com/p/3b9be3d2866d) |
+| Wed, 15 Apr 2026 13:55:45 GMT | IT Industry: The Unavoidable Security Topic | SRE Thoughts | [Read More](https://medium.com/p/1ffb22ad897d) |
+| Wed, 15 Apr 2026 13:55:03 GMT | Being Wrong is a Part of Being Right! | Amlesh Ranjan | [Read More](https://medium.com/p/cf755c3cd94a) |
+| Wed, 15 Apr 2026 13:51:01 GMT | Why Most SMBs Are Underinvesting in Cybersecurity | CloudVanguard IT | [Read More](https://medium.com/p/830a75db9271) |
+| Wed, 15 Apr 2026 13:47:18 GMT | Zero Trust 2.0: How the Trust Verification Model is Changing in the Age of AI | Solbeg | [Read More](https://medium.com/p/57bf7baf9b5a) |
+| Wed, 15 Apr 2026 13:45:33 GMT | The Illusion of Cloud Security: When “Nothing Is Broken” Isn’t Enough | Appdirs | [Read More](https://medium.com/p/724e56061aa9) |
+| Wed, 15 Apr 2026 13:42:28 GMT | The API Grand Prix: The Labyrinth of the Legionnaires and the Victory of the 404 Firewall | marius-ciclistu | [Read More](https://medium.com/p/6d5324a602fb) |
+| Wed, 15 Apr 2026 13:41:22 GMT | The 5-Minute Mistake That Can Expose Your Entire Business Network | IT_Engineer | [Read More](https://medium.com/p/09ee16ace08e) |
+| Wed, 15 Apr 2026 13:38:36 GMT | From IDOR to Bypass: How a “Fixed” Bug Still Exposed 6.4 Million Users’ Data [Part 2] | Dedrknex | [Read More](https://medium.com/p/21f9dde7cc79) |
+| Wed, 15 Apr 2026 13:35:17 GMT | Lian_Yu — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/295f1e6efc6d) |
+| Wed, 15 Apr 2026 13:29:44 GMT | When Encryption Isn’t Enough: The New BitLocker Vulnerability Explained | Sharanraju | [Read More](https://medium.com/p/5f9d4aee4809) |
+| Wed, 15 Apr 2026 13:26:01 GMT | How to Win a Man’s Heart: Ask for Time, Appreciation, and Money | Lilyana | [Read More](https://medium.com/p/311ca8d1c54e) |
+| Wed, 15 Apr 2026 13:25:21 GMT | SOC-Challenge-Day4 | Zuhair | [Read More](https://medium.com/p/86606b5e66e5) |
+| Wed, 15 Apr 2026 13:24:27 GMT | SOC-Challenge-Day3 | Zuhair | [Read More](https://medium.com/p/5e086f26bc3a) |
+| Wed, 15 Apr 2026 13:12:22 GMT | What Is the HITRUST Security Framework and Why Does It Matter? | Cyber Cops | [Read More](https://medium.com/p/8f679b69223d) |
+| Wed, 15 Apr 2026 13:12:02 GMT | How to Create Google App Password | Ravish Vishwakarma | [Read More](https://medium.com/p/42f939a62124) |
+| Wed, 15 Apr 2026 13:04:33 GMT | What Is Phishing And How Do You Spot It In 2026? | Sachdevkabir | [Read More](https://medium.com/p/4b81b1a2bece) |
+| Wed, 15 Apr 2026 13:02:58 GMT | The Future of Security: Why Solar-Powered Surveillance Is Replacing Traditional Guarding | ADORA Private Security | [Read More](https://medium.com/p/5d1e18ff4353) |
+| Wed, 15 Apr 2026 12:59:47 GMT | not lazy just lost — A student reality | Somya Pawar | [Read More](https://medium.com/p/36c9da3f42c1) |
+| Wed, 15 Apr 2026 12:59:26 GMT | How to Start Cybersecurity as a Beginner in 2026 (Step-by-Step Guide) | 3xploiter | [Read More](https://medium.com/p/d8209a69a51b) |
+| Wed, 15 Apr 2026 12:53:47 GMT | My Certified Red Team Professional (CRTP) Journey ️ | Aalekh | [Read More](https://medium.com/p/e0def7908418) |
+| Wed, 15 Apr 2026 12:50:32 GMT | Manufacturing Identity Security Is No Longer an IT Problem — It’s a Business Risk | Openiam | [Read More](https://medium.com/p/c0160defac9d) |
+| Wed, 15 Apr 2026 12:49:27 GMT | Junior Pentester labs of try hack me; main content | Abdulnafayk | [Read More](https://medium.com/p/86599a83be31) |
+| Wed, 15 Apr 2026 12:47:16 GMT | Hunting For xmlrpc: Uncovering WordPress XML-RPC & Admin Path Disclosures | Vanshrathore | [Read More](https://medium.com/p/b5707b8f5424) |
+| Wed, 15 Apr 2026 12:44:48 GMT | My First Accepted HackerOne Report: Finding Exposed Weglot API Keys Across 5 Targets | Ziadali | [Read More](https://medium.com/p/fb14ecda869b) |
+| Wed, 15 Apr 2026 12:33:58 GMT | My First Bug Bounty: Finding Memory DoS Vulnerabilities in Circle’s Arc Blockchain Consensus Engine | Veríssimo | [Read More](https://medium.com/p/ab96f4f8d9f1) |
+| Wed, 15 Apr 2026 12:32:46 GMT | How a Simple Signup Feature Turned Into a Malware Delivery Vector (My First Paid Bug) | AbdoXoner | [Read More](https://medium.com/p/279a760c8ba2) |
+| Wed, 15 Apr 2026 12:23:09 GMT | JESUS WEPT | Olusegun Ajayi | [Read More](https://medium.com/p/09752863b1ef) |
+| Wed, 15 Apr 2026 12:13:35 GMT | Arbitrary File Upload via “External Files” feature allows client-side Remote Code Execution (RCE) | venomnis | [Read More](https://medium.com/p/573efab60f51) |
+| Wed, 15 Apr 2026 12:11:09 GMT | The 2026 Career Pivot: Is a Cyber Security Diploma Course in Delhi Your Golden Ticket? | Varun Papnai | [Read More](https://medium.com/p/a57b23134d06) |
 | Wed, 15 Apr 2026 11:57:50 GMT | Getting Started with Network Pentesting: Setup Lab VirtualBox + Kali Linux | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/a56924c849b8) |
 | Wed, 15 Apr 2026 11:55:10 GMT | Baggage Scanner: The Silent Guardian of Modern Security | Etradefia | [Read More](https://medium.com/p/7ec29a7fde7d) |
 | Wed, 15 Apr 2026 11:50:26 GMT | Consulting Firm For Aircraft Certification | Martin Solutions | [Read More](https://medium.com/p/632ab4ae82f9) |
@@ -22,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Apr 2026 11:41:46 GMT | Hire a Hacker vs Professional Hacker Services — What People Really Need | BLACKRAINS Cybersecurity | [Read More](https://medium.com/p/6fd2d86a5d79) |
 | Wed, 15 Apr 2026 11:38:34 GMT | Professional Hacker Services for Account Recovery & Cybersecurity (2026 Guide) | BLACKRAINS Cybersecurity | [Read More](https://medium.com/p/9b0585722230) |
 | Wed, 15 Apr 2026 11:38:10 GMT | GOBUSTER:THE BASICS LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/a063229686e6) |
+| Wed, 15 Apr 2026 11:37:09 GMT | From Vulnerability to Victory: How VAPT Tools Shield Your IT Infrastructure | networsys | [Read More](https://medium.com/p/05363c76b93a) |
 | Wed, 15 Apr 2026 11:36:28 GMT | How Scam Alerts Verifies Website Legitimacy Before You Click | James Smith | [Read More](https://medium.com/p/3a556465ed0e) |
 | Wed, 15 Apr 2026 11:33:14 GMT | The Man Who Hacked Your Brain Before Hacking Was a Word | Stephan Pinkwart | [Read More](https://medium.com/p/89506a3400c4) |
 | Wed, 15 Apr 2026 11:32:32 GMT | Small Oversight, Massive Risk: How a Low Cost Domain Could Have Exposed 25,000 Endpoints | Jas | [Read More](https://medium.com/p/08a776c01238) |
@@ -42,7 +74,9 @@ A list of the latest fetched articles from RSS feeds.
 And Drones Found It. | Atifhabib | [Read More](https://medium.com/p/1969078f0355) |
 | Wed, 15 Apr 2026 10:51:10 GMT | Além do Jardim Murado: Por que troquei a App Store pelo Homebrew para atingir a Soberania no macOS | Alexandre Santos (Ika1r0st0n) | [Read More](https://medium.com/p/a304a25445db) |
 | Wed, 15 Apr 2026 10:49:10 GMT | Microsoft’s April 2026 Patch Tuesday Is a Warning Shot: A SharePoint Zero-Day, 169 Flaws, and a… | Germano Costi | [Read More](https://medium.com/p/88e697293196) |
+| Wed, 15 Apr 2026 10:48:09 GMT | Cross-Chain Bridge Exploits: Why They’re Still Web3’s Biggest Weak Spot | Réka Molnár | [Read More](https://medium.com/p/a2861faa0f8a) |
 | Wed, 15 Apr 2026 10:42:02 GMT | Claude Mythos Shows That Software Was Never as Safe as We Thought | CodeRonin | [Read More](https://medium.com/p/954ba5cf4cf4) |
+| Wed, 15 Apr 2026 10:36:07 GMT | Claude AI Discovers Zero-Day RCE in Vim and Emacs: The Dawn of AI-Powered Bug Hunting | Majid | [Read More](https://medium.com/p/98f845abceb5) |
 | Wed, 15 Apr 2026 10:35:59 GMT | Best VPN for Streaming 2026: 5 Services Tested | Dave Henderson | [Read More](https://medium.com/p/d9577d3a5140) |
 | Wed, 15 Apr 2026 10:30:59 GMT | The Keys to the Kingdom: How to Secure Your Microsoft 365 Tenant in 2026 | Xaltius | [Read More](https://medium.com/p/4792c0997ea0) |
 | Wed, 15 Apr 2026 10:22:01 GMT | Beyond Tooling & Tech Stack: The Core That Actually Scales in Enterprise AI | Frank Sun | [Read More](https://medium.com/p/c5a627a5a176) |
@@ -79,37 +113,3 @@ And Drones Found It. | Atifhabib | [Read More](https://medium.com/p/1969078f0355
 | Wed, 15 Apr 2026 07:58:41 GMT | The Rise of Dark Patterns in Apps and Their Impact on Users | Alamgir Rajab | [Read More](https://medium.com/p/01ba1a08b3b6) |
 | Wed, 15 Apr 2026 07:53:38 GMT | What is a Business VPN and How do They Work? | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/5d3b5598ed76) |
 | Wed, 15 Apr 2026 07:51:48 GMT | Cisco Cihazlarda Güvenli Uzaktan Erişim: Adım Adım SSH Yapılandırması | Muhammed KESKİN | [Read More](https://medium.com/p/167b79b60409) |
-| Wed, 15 Apr 2026 07:48:09 GMT | What information may have been accessed in the booking.com data breach? | Decode Help | [Read More](https://medium.com/p/11343a325159) |
-| Wed, 15 Apr 2026 07:47:37 GMT | What is an IT Diploma? Complete Beginner Guide | postgraduateguru | [Read More](https://medium.com/p/3504c2e8fc05) |
-| Wed, 15 Apr 2026 07:42:35 GMT | I used TryHackMe’s OWASP Top 10 room to simulate real-world attacks… | H4WK3YE | [Read More](https://medium.com/p/d889601b462d) |
-| Wed, 15 Apr 2026 07:42:33 GMT | Mythic C2 Server — 106 | Miraç Küçük | [Read More](https://medium.com/p/1c5247506d84) |
-| Wed, 15 Apr 2026 07:42:32 GMT | A hands-on walkthrough of the OWASP Top 10 room on TryHackMe | Zer0-1 | [Read More](https://medium.com/p/25b8f130b843) |
-| Wed, 15 Apr 2026 07:41:44 GMT | What Future Crimes Taught Me About Cybersecurity | Citadel Cybersec | [Read More](https://medium.com/p/3a23b54b3bd3) |
-| Wed, 15 Apr 2026 07:38:01 GMT | #  BLE vs Classic Bluetooth — Hansı Daha Təhlükəlidir? | cybershieldy.com | [Read More](https://medium.com/p/d6c2228af647) |
-| Wed, 15 Apr 2026 07:37:17 GMT | How to Discourage Search Engines from Indexing Site | Smit Pipaliya | [Read More](https://medium.com/p/87c027c06b68) |
-| Wed, 15 Apr 2026 07:36:51 GMT | Wireless CCTV Installation A New Way of Security | IT Solution Dubai | [Read More](https://medium.com/p/a79621059c7a) |
-| Wed, 15 Apr 2026 07:30:28 GMT | BrOWSER BOSS FIGHT(Web Exploitation) — UMassCTF 2026 Write-Up | 0xC0MPL3X | [Read More](https://medium.com/p/8b06355064df) |
-| Wed, 15 Apr 2026 07:25:34 GMT | Certified Red Team Expert (CRTE) Review | Ibad Altaf | [Read More](https://medium.com/p/e7513737a7a0) |
-| Wed, 15 Apr 2026 07:20:55 GMT | Best Cybersecurity Companies in El Paso for Businesses in 2026 | UMIT | [Read More](https://medium.com/p/752180093066) |
-| Wed, 15 Apr 2026 07:18:36 GMT | I Built a File Encryption App in Rust. Here’s What I Learned About Trust. | Ubaid Ur Rehman | [Read More](https://medium.com/p/8b01a195695d) |
-| Wed, 15 Apr 2026 07:16:54 GMT | Social Engineering Attacks & Physical Attacks | ExploitHunter | [Read More](https://medium.com/p/38398bc3987b) |
-| Wed, 15 Apr 2026 07:16:00 GMT | Network-based Vulnerabilities — part 2 | ExploitHunter | [Read More](https://medium.com/p/b66157b80c92) |
-| Wed, 15 Apr 2026 07:14:46 GMT | Summer Internship in Endpoint Security for Beginners in Cyber Security | cyber security Updates | [Read More](https://medium.com/p/6039e536357f) |
-| Wed, 15 Apr 2026 07:04:36 GMT | Beyond the Chatbot: Securing New Attack Surfaces of AI Agents | Sunil Kumar | [Read More](https://medium.com/p/0acda3bb83c0) |
-| Wed, 15 Apr 2026 07:04:04 GMT | Deconstructing Backdoors in Consumer IoT Ecosystems | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/45100472029b) |
-| Wed, 15 Apr 2026 07:01:01 GMT | Opening Keynote: Safety/Security Equilibrium with Sergiy Yakymchuk (Talsec) | Talsec | [Read More](https://medium.com/p/4c47963bc249) |
-| Wed, 15 Apr 2026 06:58:25 GMT | Software Supply Chain Attacks in 2026: Why CVE Scanning Is No Longer Enough | Precogs AI | [Read More](https://medium.com/p/7a4e686a1e3f) |
-| Wed, 15 Apr 2026 06:58:07 GMT | Can AI Fully Automate Pentesting? | Redfox Security | [Read More](https://medium.com/p/2355d8205424) |
-| Wed, 15 Apr 2026 06:54:59 GMT | # Full Vault Decryption: Cracking the 1Password Security Challenge | Fazul Rehman | [Read More](https://medium.com/p/c7233f7fc9d6) |
-| Wed, 15 Apr 2026 06:52:55 GMT | Survival in the 20-Hour Window: Why the Mythos Storm Makes Traditional Scanning Insufficient in… | Eldor Zufarov | [Read More](https://medium.com/p/1e79d5b2c502) |
-| Wed, 15 Apr 2026 06:41:55 GMT | The Hidden Playbook: 15 “Secrets” Every Penetration Tester Learns the Hard Way | pavani | [Read More](https://medium.com/p/1160a6ed7872) |
-| Wed, 15 Apr 2026 06:41:46 GMT | Middleware Integration Engineer: My Journey with IBM Stack | Hihasaniqbal | [Read More](https://medium.com/p/a6b8a5a52c64) |
-| Wed, 15 Apr 2026 06:37:59 GMT | Reliable Data Flow for the Hedge Fund | #FORGESOFT Editor | [Read More](https://medium.com/p/00eb18167ab7) |
-| Wed, 15 Apr 2026 06:31:01 GMT | Stop Giving AI Agents Shell Access | artiquare | [Read More](https://medium.com/p/ab99b597284a) |
-| Wed, 15 Apr 2026 06:25:40 GMT | Android Overlay Attacks: How They Work and How to Stop Them | Jackson F. de A. M. | [Read More](https://medium.com/p/f3dbea3d215f) |
-| Wed, 15 Apr 2026 06:25:20 GMT | Beyond Pentesting: Why Your 2026 Cybersecurity Training Must Include AI-Threat Hunting | Varun Papnai | [Read More](https://medium.com/p/55b91661d9c5) |
-| Wed, 15 Apr 2026 06:25:19 GMT | The CPUID/CPU-Z Hack Explained | Solvenite | [Read More](https://medium.com/p/fe1491059a21) |
-| Wed, 15 Apr 2026 06:14:44 GMT | Cloud-Native SIEM: Built for Scale, Speed, and Cost Control | NetWitness | [Read More](https://medium.com/p/e90d4947dfa6) |
-| Wed, 15 Apr 2026 06:10:55 GMT | AC Service in Madhapur Near me | AC Repair in Hyderabad | [Read More](https://medium.com/p/ed7df2341d0e) |
-| Wed, 15 Apr 2026 06:10:20 GMT | Inside Basic Authentication: How Base64 Encoding Really Works | Rifat Arefin | [Read More](https://medium.com/p/fc94c26e29eb) |
-| Wed, 15 Apr 2026 06:08:43 GMT | Best Security Company in India: How to Choose the Right Partner for Complete Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/695a36cec744) |
