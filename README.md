@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 22:06:13 GMT | The OSI Model (Except It Actually Makes Sense) — Part 1 | Aryan Vij | [Read More](https://medium.com/p/97d511947214) |
+| Wed, 15 Apr 2026 21:50:38 GMT | AI Model Card Security Audit: AI Models & Data · AI Security · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/6cac0cd9f313) |
+| Wed, 15 Apr 2026 21:50:32 GMT | The Session That Never Dies: Session Fixation & Hijacking on a Real Target | Mohamed Elmorsy | [Read More](https://medium.com/p/94202fb13a74) |
+| Wed, 15 Apr 2026 21:32:15 GMT | From Forgotten SOL to Real Value: My Experience Using RefundYourSOL (RYS) | General world | [Read More](https://medium.com/p/2a7843463680) |
+| Wed, 15 Apr 2026 21:29:32 GMT | GIFT TO HUMANITY: THE REALITY SOURCE CODE MANIFESTO: BOUNDARY INFORMATION THEORY (BIT) | Quangminh Interface | [Read More](https://medium.com/p/57788d35f2bd) |
+| Wed, 15 Apr 2026 21:26:43 GMT | TryHackMe Write-Up: AI Forensics (The Digital Trail) | NASRALLAH SALEH (Xiro0x) | [Read More](https://medium.com/p/7b2cf9591d22) |
+| Wed, 15 Apr 2026 21:26:07 GMT | The Double-Edged Sword of AI Tools: Lessons from the OpenClaw Vulnerability | syncwave | [Read More](https://medium.com/p/eaf943f0402b) |
+| Wed, 15 Apr 2026 21:24:04 GMT | TryHackMe SAST Walkthrough | Rormsbee | [Read More](https://medium.com/p/19bc292411fd) |
 | Wed, 15 Apr 2026 21:19:18 GMT | What Is the ISTE Seal Worth If PowerSchool Still Carries It? | James O'Hagan | [Read More](https://medium.com/p/417dc6e1def6) |
 | Wed, 15 Apr 2026 21:18:02 GMT | Access Control Vulnerabilities — Privileges Escalation | ANXS3C | [Read More](https://medium.com/p/09961034bd46) |
 | Wed, 15 Apr 2026 21:16:38 GMT | The Cyber Executive’s Dilemma: Trusting AI to Protect What Matters Most | Roger Millar | [Read More](https://medium.com/p/9a8496b4f2d2) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Apr 2026 14:54:17 GMT | OpenID Connect: From Theory to GitHub Actions | NGU | [Read More](https://medium.com/p/fcd2a390a216) |
 | Wed, 15 Apr 2026 14:42:13 GMT | Why Security Scanning is Essential in Cloud Environments — And How to Bridge the Gap | Ndhritiraj | [Read More](https://medium.com/p/775e36004f10) |
 | Wed, 15 Apr 2026 14:41:15 GMT | An Article of Uncertainty | Lilacs violet | [Read More](https://medium.com/p/dbedd49044d6) |
-| Wed, 15 Apr 2026 14:40:33 GMT | Slack in a SOC Environment: Turning Alerts into Real-Time Security Action | Little_Sun4lower | [Read More](https://medium.com/p/4f80e75229e1) |
-| Wed, 15 Apr 2026 14:37:00 GMT | How Hackers Turn Everyday Clues Into Password Cracking Power | Daphne Stewart | [Read More](https://medium.com/p/b5d28570cc12) |
-| Wed, 15 Apr 2026 14:33:39 GMT | Healthcare data breaches: A threat to lives and livelihoods? | Khaleel | [Read More](https://medium.com/p/055d8a6b5db1) |
-| Wed, 15 Apr 2026 14:31:01 GMT | Snowflake Security Isn’t About Who It’s About Where Access Comes From | Ismail Mezzour | [Read More](https://medium.com/p/946f3aeb6fbe) |
-| Wed, 15 Apr 2026 14:30:19 GMT | Report: April 8 — April 15, 2026 | CCTT INC. | [Read More](https://medium.com/p/e83641e03388) |
-| Wed, 15 Apr 2026 14:24:07 GMT | Spoon-feeding a Monster | Jyrki Huhta | [Read More](https://medium.com/p/574b565e01dc) |
-| Wed, 15 Apr 2026 14:00:03 GMT | Unmask the HIDDEN IDENTITY in EVERY Share Link You Click!!! | cybrNK | [Read More](https://medium.com/p/639ecd249ec1) |
-| Wed, 15 Apr 2026 13:59:59 GMT | Why AI is the Double-Edged Sword in Cybersecurity Right Now? | Abhishek Bhujang | [Read More](https://medium.com/p/3b9be3d2866d) |
