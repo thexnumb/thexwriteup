@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 11:01:54 GMT | Effortless DITA Map Localization with Translate.photo | karthik gokul | [Read More](https://medium.com/p/b83ee6e36442) |
+| Wed, 15 Apr 2026 11:01:10 GMT | Ship Happens. Here Are the Receipts. | Hernel Juanico | [Read More](https://medium.com/p/51bcfcfb012b) |
+| Wed, 15 Apr 2026 11:01:00 GMT | Search Console Error Fixing Guide | Jellyfr | [Read More](https://medium.com/p/62f91f934a68) |
+| Wed, 15 Apr 2026 10:59:16 GMT | Yes, You Are Ordinary… And That’s Exactly Why You Should Apply | Hernel Juanico | [Read More](https://medium.com/p/f7a16e86f36f) |
+| Wed, 15 Apr 2026 10:57:16 GMT | Best VPN for China 2026: 5 That Beat the Firewall | Dave Henderson | [Read More](https://medium.com/p/5a4cdb5c450c) |
+| Wed, 15 Apr 2026 10:55:32 GMT | “How to Stay Safe Online” — Best practices for protecting personal information and avoiding online… | Vigneswaran Poobalasingam | [Read More](https://medium.com/p/f0c68e9e5bc2) |
+| Wed, 15 Apr 2026 10:51:47 GMT | From Security To Seo: Complete Business Solutions | Robert Figgy | [Read More](https://medium.com/p/52901c96b4d3) |
+| Wed, 15 Apr 2026 10:51:15 GMT | The Cloud Has an Address.
+And Drones Found It. | Atifhabib | [Read More](https://medium.com/p/1969078f0355) |
+| Wed, 15 Apr 2026 10:51:10 GMT | Além do Jardim Murado: Por que troquei a App Store pelo Homebrew para atingir a Soberania no macOS | Alexandre Santos (Ika1r0st0n) | [Read More](https://medium.com/p/a304a25445db) |
+| Wed, 15 Apr 2026 10:49:10 GMT | Microsoft’s April 2026 Patch Tuesday Is a Warning Shot: A SharePoint Zero-Day, 169 Flaws, and a… | Germano Costi | [Read More](https://medium.com/p/88e697293196) |
+| Wed, 15 Apr 2026 10:42:02 GMT | Claude Mythos Shows That Software Was Never as Safe as We Thought | CodeRonin | [Read More](https://medium.com/p/954ba5cf4cf4) |
+| Wed, 15 Apr 2026 10:35:59 GMT | Best VPN for Streaming 2026: 5 Services Tested | Dave Henderson | [Read More](https://medium.com/p/d9577d3a5140) |
+| Wed, 15 Apr 2026 10:30:59 GMT | The Keys to the Kingdom: How to Secure Your Microsoft 365 Tenant in 2026 | Xaltius | [Read More](https://medium.com/p/4792c0997ea0) |
+| Wed, 15 Apr 2026 10:22:01 GMT | Beyond Tooling & Tech Stack: The Core That Actually Scales in Enterprise AI | Frank Sun | [Read More](https://medium.com/p/c5a627a5a176) |
+| Wed, 15 Apr 2026 10:17:19 GMT | Endpoint Security Summer Training and Internship Program in 45 Days | Crawsec | [Read More](https://medium.com/p/91b528e0a903) |
+| Wed, 15 Apr 2026 10:01:01 GMT | How to Pass a Fortune 500 Security Review Without a Security Team | Abhishek Pahuja | [Read More](https://medium.com/p/fb232da824f3) |
+| Wed, 15 Apr 2026 10:00:06 GMT | 1India’s recent development in technology helps Indian citizens by making government services… | Ankush Goswami | [Read More](https://medium.com/p/84d6176ae3ab) |
+| Wed, 15 Apr 2026 09:57:36 GMT | Using Digital Signatures to Strengthen Your Defense Against OWASP Top 10 | Eng Moh Farahat | [Read More](https://medium.com/p/ad7a2655f2a5) |
 | Wed, 15 Apr 2026 09:49:21 GMT | Cybersecurity & Ethical Hacking Explained - Protecting the Digital World. | CodeZen | [Read More](https://medium.com/p/54ab7c7a2bb1) |
 | Wed, 15 Apr 2026 09:43:20 GMT | How Smart IT Leaders Choose MSSPs And the Intelligence That Helps Them Win | DiscoverMSPs | [Read More](https://medium.com/p/2526e961ba1a) |
 | Wed, 15 Apr 2026 09:41:21 GMT | Bridging the Gap Between Cybersecurity and Legal Discovery | Anjali Moitra Roy | [Read More](https://medium.com/p/f81810202ac4) |
@@ -22,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Apr 2026 09:26:34 GMT | Why Authentication Is a Journey Most Developers Miss | Sandeep Singh | [Read More](https://medium.com/p/3285f2dcf8a0) |
 | Wed, 15 Apr 2026 09:18:47 GMT | ️ The Digital Scorched Earth: Understanding Wiper Attacks | Amanuzzaman M | [Read More](https://medium.com/p/1cbef21d3f65) |
 | Wed, 15 Apr 2026 09:16:01 GMT | From Gaps to Governance: Your Cybersecurity Program Roadmap | Tyson Martin | [Read More](https://medium.com/p/dacd0495fcf1) |
+| Wed, 15 Apr 2026 09:06:41 GMT | 63% of orgs can’t enforce what their AI agents are allowed to do | SidClaw | [Read More](https://medium.com/p/9c89b4c0c201) |
 | Wed, 15 Apr 2026 08:57:04 GMT | Why Your Docker Container Is 1.2GB When It Should Be 80MB | Saandeep Baansod | [Read More](https://medium.com/p/7b443a90f60f) |
 | Wed, 15 Apr 2026 08:52:10 GMT | FortiClient EMS Gets a Second Zero-Day in One Week — CVE-2026–35616 Is Already Being Exploited | Ali Dak | [Read More](https://medium.com/p/469960f238cb) |
 | Wed, 15 Apr 2026 08:50:34 GMT | Construction Ransomware: How to Strengthen Security in 2026 | TSplus Academy | [Read More](https://medium.com/p/4776335f32cd) |
@@ -93,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Apr 2026 04:46:01 GMT | The Invisible Backdoor: Why Your Biggest Cyber Threat Isn’t Even on Your Network | jioai | [Read More](https://medium.com/p/dac5ea112b31) |
 | Wed, 15 Apr 2026 04:46:01 GMT | What Is “Quishing”? | jayanti suthar | [Read More](https://medium.com/p/7100cfc1f60f) |
 | Wed, 15 Apr 2026 04:21:34 GMT | Why it’s difficult to grow love in shame soil | Khaan | [Read More](https://medium.com/p/026935febe9e) |
-| Wed, 15 Apr 2026 04:19:14 GMT | Yahoo Technical Support Services UK | Zuerevalexander | [Read More](https://medium.com/p/bcdb794b1876) |
-| Wed, 15 Apr 2026 04:13:53 GMT | BullGuard Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/565fc4265036) |
-| Wed, 15 Apr 2026 04:00:07 GMT | Why is Storing Credentials in the .env of a Container Still a High Security Risk? | Ibnu Nugraha | [Read More](https://medium.com/p/da1405889ade) |
-| Wed, 15 Apr 2026 03:58:14 GMT | Trend Micro Customer Service Australia | Customer Support Information | [Read More](https://medium.com/p/8aaf4bd3722d) |
-| Wed, 15 Apr 2026 03:52:23 GMT | HP Printer Technical Support Australia | Customer Support Information | [Read More](https://medium.com/p/2b3daa5976ce) |
-| Wed, 15 Apr 2026 03:35:32 GMT | AI Models & Data (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/5238572995a3) |
-| Wed, 15 Apr 2026 03:31:15 GMT | Anthropic Claude Mythos — Redefining the Future of Security | Nikitha Srinivasan | [Read More](https://medium.com/p/4b3736e3aa04) |
-| Wed, 15 Apr 2026 03:13:19 GMT | Cách đăng ký 28bet an toàn: những lưu ý quan trọng cho người dùng mới | 報數十一員 | [Read More](https://medium.com/p/0f458fa6f095) |
-| Wed, 15 Apr 2026 03:03:57 GMT | ⚙️ 13. — Referer — Based Access Control | The4v1 | [Read More](https://medium.com/p/2d36f4a5c699) |
-| Wed, 15 Apr 2026 03:03:11 GMT | ⚙️ 12. — Multi-step process with no access control on one step | The4v1 | [Read More](https://medium.com/p/a3471653a346) |
-| Wed, 15 Apr 2026 03:01:05 GMT | The Browser Illusion | Danny Lin | [Read More](https://medium.com/p/73f50eaef3c0) |
-| Wed, 15 Apr 2026 03:00:59 GMT | Grand Theft Data: How Hackers Breached Rockstar Games Without Touching Rockstar’s Systems | UK Cyber Defence | [Read More](https://medium.com/p/0c7b864fa4f5) |
-| Wed, 15 Apr 2026 02:47:10 GMT | Beneath the Syntax: Why C and C++ Are Still the Ultimate Training Ground for Developers | Joydeep Das | [Read More](https://medium.com/p/8c2f222181e3) |
-| Wed, 15 Apr 2026 02:41:41 GMT | The Emergence of Prompt Kiddies: Evolution of AI- and No-Code-Based Outlook Phishing | NSHC ThreatRecon Team | [Read More](https://medium.com/p/98bf84594210) |
-| Wed, 15 Apr 2026 02:06:01 GMT | Pragmatic Security: Protecting User Data Without Becoming a Fortress | Erwin Hermanto | [Read More](https://medium.com/p/b46f3f0da1da) |
-| Wed, 15 Apr 2026 02:04:57 GMT | The Secret Life of AWS: IAM | Aaron Rose | [Read More](https://medium.com/p/89094fad3c57) |
-| Wed, 15 Apr 2026 01:40:16 GMT | Tak Selamanya Web yang Aman “HTTPS” Itu Bebas Dari Serangan | Abdul Halim Ichwan | [Read More](https://medium.com/p/dcd19e3676cb) |
-| Wed, 15 Apr 2026 01:39:48 GMT | I Built an AI Agent That Pwns CI/CD Pipelines — Then Helps Fix Them | Oluwatobi Afolabi | [Read More](https://medium.com/p/ee8bb71cad71) |
-| Wed, 15 Apr 2026 01:23:24 GMT | TryHackMe: Offensive Security Intro Writeup | Jonathan Sanfer | [Read More](https://medium.com/p/db92ec38cfc9) |
