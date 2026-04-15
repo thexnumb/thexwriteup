@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 21:19:18 GMT | What Is the ISTE Seal Worth If PowerSchool Still Carries It? | James O'Hagan | [Read More](https://medium.com/p/417dc6e1def6) |
+| Wed, 15 Apr 2026 21:18:02 GMT | Access Control Vulnerabilities — Privileges Escalation | ANXS3C | [Read More](https://medium.com/p/09961034bd46) |
+| Wed, 15 Apr 2026 21:16:38 GMT | The Cyber Executive’s Dilemma: Trusting AI to Protect What Matters Most | Roger Millar | [Read More](https://medium.com/p/9a8496b4f2d2) |
+| Wed, 15 Apr 2026 21:12:34 GMT | I am an AI engineer and we have a problem. | Sarah Alsamman | [Read More](https://medium.com/p/2add4d258b80) |
+| Wed, 15 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 50: Project Planning + Logistics | Maximillian Rueda | [Read More](https://medium.com/p/049258a6ed1b) |
+| Wed, 15 Apr 2026 20:59:59 GMT | AI Security Path- TryHackMe- Module 1(Part 1) | Swarupa Jeedimetla | [Read More](https://medium.com/p/ba7e188c0aeb) |
+| Wed, 15 Apr 2026 20:42:38 GMT | Credential Exposure Intelligence: The Architecture Behind Scope | LeakTrace | [Read More](https://medium.com/p/f341df221e9b) |
+| Wed, 15 Apr 2026 20:40:09 GMT | (Day-6) Importance of Linux in Hacker’s Life | Priyesh Patware | [Read More](https://medium.com/p/5598b711bf08) |
+| Wed, 15 Apr 2026 20:26:36 GMT | PG Play — Stapler (Linux) | Lepton | [Read More](https://medium.com/p/48cf830c52e3) |
+| Wed, 15 Apr 2026 20:07:13 GMT | The Four Frontiers of AI: From Cybersecurity Nightmares to Genomic Breakthroughs | Ibrahim Murtaza | [Read More](https://medium.com/p/3699a61bb013) |
+| Wed, 15 Apr 2026 20:00:47 GMT | Analyzing the Impact of Claude Mythos on Software Security | Lightning Developer | [Read More](https://medium.com/p/fcf6ee9de5f3) |
 | Wed, 15 Apr 2026 19:59:16 GMT | What If I Don’t Figure It Out? | Ayokunle Agbabiaka | [Read More](https://medium.com/p/fcdc333c272d) |
 | Wed, 15 Apr 2026 19:54:45 GMT | Why Passwords Are a Business Liability — And How Public Key Cryptography Is the Cure | Petersmuditha | [Read More](https://medium.com/p/0613da194e4f) |
 | Wed, 15 Apr 2026 19:43:30 GMT | Prompt Engineering Room Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/2af90b2adb53) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Apr 2026 14:24:07 GMT | Spoon-feeding a Monster | Jyrki Huhta | [Read More](https://medium.com/p/574b565e01dc) |
 | Wed, 15 Apr 2026 14:00:03 GMT | Unmask the HIDDEN IDENTITY in EVERY Share Link You Click!!! | cybrNK | [Read More](https://medium.com/p/639ecd249ec1) |
 | Wed, 15 Apr 2026 13:59:59 GMT | Why AI is the Double-Edged Sword in Cybersecurity Right Now? | Abhishek Bhujang | [Read More](https://medium.com/p/3b9be3d2866d) |
-| Wed, 15 Apr 2026 13:55:45 GMT | IT Industry: The Unavoidable Security Topic | SRE Thoughts | [Read More](https://medium.com/p/1ffb22ad897d) |
-| Wed, 15 Apr 2026 13:55:03 GMT | Being Wrong is a Part of Being Right! | Amlesh Ranjan | [Read More](https://medium.com/p/cf755c3cd94a) |
-| Wed, 15 Apr 2026 13:51:01 GMT | Why Most SMBs Are Underinvesting in Cybersecurity | CloudVanguard IT | [Read More](https://medium.com/p/830a75db9271) |
-| Wed, 15 Apr 2026 13:47:18 GMT | Zero Trust 2.0: How the Trust Verification Model is Changing in the Age of AI | Solbeg | [Read More](https://medium.com/p/57bf7baf9b5a) |
-| Wed, 15 Apr 2026 13:45:33 GMT | The Illusion of Cloud Security: When “Nothing Is Broken” Isn’t Enough | Appdirs | [Read More](https://medium.com/p/724e56061aa9) |
-| Wed, 15 Apr 2026 13:42:28 GMT | The API Grand Prix: The Labyrinth of the Legionnaires and the Victory of the 404 Firewall | marius-ciclistu | [Read More](https://medium.com/p/6d5324a602fb) |
-| Wed, 15 Apr 2026 13:41:22 GMT | The 5-Minute Mistake That Can Expose Your Entire Business Network | IT_Engineer | [Read More](https://medium.com/p/09ee16ace08e) |
-| Wed, 15 Apr 2026 13:38:36 GMT | From IDOR to Bypass: How a “Fixed” Bug Still Exposed 6.4 Million Users’ Data [Part 2] | Dedrknex | [Read More](https://medium.com/p/21f9dde7cc79) |
-| Wed, 15 Apr 2026 13:35:17 GMT | Lian_Yu — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/295f1e6efc6d) |
-| Wed, 15 Apr 2026 13:29:44 GMT | When Encryption Isn’t Enough: The New BitLocker Vulnerability Explained | Sharanraju | [Read More](https://medium.com/p/5f9d4aee4809) |
-| Wed, 15 Apr 2026 13:26:01 GMT | How to Win a Man’s Heart: Ask for Time, Appreciation, and Money | Lilyana | [Read More](https://medium.com/p/311ca8d1c54e) |
