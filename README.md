@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 23:04:39 GMT | The AI Cyber Race Has Already Started, Most People Just Haven’t Noticed it Yet | Anindya Mishra | [Read More](https://medium.com/p/4572430c4646) |
+| Wed, 15 Apr 2026 23:01:02 GMT | The messy middle of generative AI has moved | DiUS | [Read More](https://medium.com/p/ee07a3caf9f9) |
+| Wed, 15 Apr 2026 22:40:45 GMT | I’ve started building a custom Yocto-based OS project for NVIDIA Jetson Nano Super so developers… | dhiraj deshmukh | [Read More](https://medium.com/p/fbda3d0ffe07) |
+| Wed, 15 Apr 2026 22:36:07 GMT | Evading an AI SOC with Sable from Vulnetic | Daniel Knight | [Read More](https://medium.com/p/fad12376995c) |
+| Wed, 15 Apr 2026 22:20:10 GMT | Set up a Honeypot server for free on AWS (with geoIP tracking) | Mythreya Hardur Madhukeshwara | [Read More](https://medium.com/p/41b8dba6fef4) |
+| Wed, 15 Apr 2026 22:10:26 GMT | All It Took Was a Negative Number: A Price Manipulation Story - PortSwigger — High-Level Logic… | Kate D Terracore | [Read More](https://medium.com/p/076509af5a48) |
 | Wed, 15 Apr 2026 22:06:13 GMT | The OSI Model (Except It Actually Makes Sense) — Part 1 | Aryan Vij | [Read More](https://medium.com/p/97d511947214) |
 | Wed, 15 Apr 2026 21:50:38 GMT | AI Model Card Security Audit: AI Models & Data · AI Security · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/6cac0cd9f313) |
 | Wed, 15 Apr 2026 21:50:32 GMT | The Session That Never Dies: Session Fixation & Hijacking on a Real Target | Mohamed Elmorsy | [Read More](https://medium.com/p/94202fb13a74) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Apr 2026 15:08:33 GMT | Passing the PJPT and the PNPT, My Journey | The Husky Hacker | [Read More](https://medium.com/p/27710e266c41) |
 | Wed, 15 Apr 2026 15:05:47 GMT | How Deep Is Your Love? | zyxkielysml | [Read More](https://medium.com/p/16df5c96c09d) |
 | Wed, 15 Apr 2026 15:03:59 GMT | Understanding Malware: The Invisible Threat Inside Your Devices | Massi Mapani | [Read More](https://medium.com/p/fbf78751eea0) |
-| Wed, 15 Apr 2026 15:03:22 GMT | The Hidden Risks in Your AI Supply Chain: What Model Cards Reveal About the Models You Trust | Liamromanis | [Read More](https://medium.com/p/83500801bea3) |
-| Wed, 15 Apr 2026 15:01:02 GMT | No Leaks, No Compromises: Why Security Matters in Desktoptale | Desktoptale | [Read More](https://medium.com/p/c6b1bfee83b9) |
-| Wed, 15 Apr 2026 15:01:02 GMT | The PR That Slipped Past AI Review (And How We Fixed It) | AbdulRahman Mostafa | [Read More](https://medium.com/p/fb31d9f4c167) |
-| Wed, 15 Apr 2026 14:54:17 GMT | OpenID Connect: From Theory to GitHub Actions | NGU | [Read More](https://medium.com/p/fcd2a390a216) |
-| Wed, 15 Apr 2026 14:42:13 GMT | Why Security Scanning is Essential in Cloud Environments — And How to Bridge the Gap | Ndhritiraj | [Read More](https://medium.com/p/775e36004f10) |
-| Wed, 15 Apr 2026 14:41:15 GMT | An Article of Uncertainty | Lilacs violet | [Read More](https://medium.com/p/dbedd49044d6) |
