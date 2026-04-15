@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 18:39:57 GMT | Why Cybersecurity Content Needs Better Storytelling | Digital Defense | [Read More](https://medium.com/p/a0ea43ce9951) |
+| Wed, 15 Apr 2026 18:34:51 GMT | Top 50 Global Cybersecurity Thought Leaders Experts | Dinis Guarda | [Read More](https://medium.com/p/b967aca7da90) |
+| Wed, 15 Apr 2026 18:32:21 GMT | Your Locked iPhone Isn’t as Locked as You Think — YouTube Demo | Selorm Adjabeng | [Read More](https://medium.com/p/707c4e9824b5) |
+| Wed, 15 Apr 2026 18:29:13 GMT | Cybersecurity in the Digital Age: Challenges, Strategies, and the Road Ahead | Harshit Goyal | [Read More](https://medium.com/p/ec7edad965a2) |
+| Wed, 15 Apr 2026 18:27:55 GMT | An AI model just found a 27-year-old bug in OpenBSD. | Stanislav Klevtsov | [Read More](https://medium.com/p/f0fad8a21e79) |
+| Wed, 15 Apr 2026 18:12:18 GMT | Automating Quarantine in ms365 | Dave Ng'ang'a | [Read More](https://medium.com/p/a8198f6c15b7) |
+| Wed, 15 Apr 2026 18:11:42 GMT | Free Password Generator 2026 — Create Strong Secure Passwords Instantly | FreeAITools | [Read More](https://medium.com/p/2053aeb819aa) |
+| Wed, 15 Apr 2026 18:11:40 GMT | A Real SSRF Story from HackerOne (Featuring IPv6 + Redirects) | Red Darkin | [Read More](https://medium.com/p/9aa5e2ad8c2e) |
+| Wed, 15 Apr 2026 18:07:39 GMT | Challenge #6 Solution: Using GitHub Secrets Securely in GitHub Actions | Atharva Bapat | [Read More](https://medium.com/p/e2aff029c773) |
+| Wed, 15 Apr 2026 17:55:01 GMT | Beyond Encryption: Obfuscation, Tokenization, and Data Masking | Mahdi | [Read More](https://medium.com/p/43e3c8d2991f) |
+| Wed, 15 Apr 2026 17:53:29 GMT | The Signal Beneath The Pixels | Jude Canady | [Read More](https://medium.com/p/e411da44543d) |
+| Wed, 15 Apr 2026 17:45:31 GMT | Google Big Sleep: The End of Human Hackers? | Shahzaib | [Read More](https://medium.com/p/7bdd955aefe7) |
+| Wed, 15 Apr 2026 17:41:25 GMT | “Bug Bounty Bootcamp #34: IDOR Beyond GET — Modifying, Deleting, and Method Switching for Maximum… | Aman Sharma | [Read More](https://medium.com/p/159554377462) |
+| Wed, 15 Apr 2026 17:40:41 GMT | A Deep Dive Into a Multi-Stage Telegram Stealer Campaign | agrz | [Read More](https://medium.com/p/98df8b370d28) |
+| Wed, 15 Apr 2026 17:37:03 GMT | If You Can’t Explain Yield, You Are the Yield | Thecryptoholic | [Read More](https://medium.com/p/35913a59fc07) |
+| Wed, 15 Apr 2026 17:33:18 GMT | Post-Quantum Cryptography: Why IoT Is the Hardest Place to Deploy It | Mahad Aqeel | [Read More](https://medium.com/p/6eaf09aa2a1a) |
+| Wed, 15 Apr 2026 17:32:51 GMT | Bypassing SSL Pinning in a Flutter Android Application (Hands-on) | Leen Alyahya | [Read More](https://medium.com/p/820e8ba93d57) |
+| Wed, 15 Apr 2026 17:26:05 GMT | The Importance of Practicing A/L GIT Past Papers for Exam Success | Nila | [Read More](https://medium.com/p/b582f091766f) |
+| Wed, 15 Apr 2026 17:14:05 GMT | Critical IDOR Vulnerability Leads to User Information Disclosure on Chat Box | Sameer | [Read More](https://medium.com/p/ffed210f3ddb) |
+| Wed, 15 Apr 2026 17:10:43 GMT | The $17.4 Million “Ghost Access” Problem: Why Your Biggest Security Threat Is a Former Employee | Charr Fotopoulos | [Read More](https://medium.com/p/065712ff5b0d) |
+| Wed, 15 Apr 2026 17:05:00 GMT | My CARTP Review: Altered Security’s Azure Red Team Certification in 2026 | Waris Damkham | [Read More](https://medium.com/p/8c4b8be16dc5) |
 | Wed, 15 Apr 2026 17:01:01 GMT | Agentic AI Attacks Are Here: How Autonomous Hackers Can Breach Systems in Minutes | Imran Valiani | [Read More](https://medium.com/p/088e18c982f1) |
 | Wed, 15 Apr 2026 16:59:01 GMT | The 80:1 Blind Spot: Why “Build_Agent_43” Could Be Your Next Breach | Rudratic Technologies | [Read More](https://medium.com/p/71e3d345abb0) |
 | Wed, 15 Apr 2026 16:57:34 GMT | From SSH Key Leak to Root: Lupine VulnHub CTF Walkthrough (Python Hijack & pip Exploit) | Nwoke Evan Elochukwu Eguzozie | [Read More](https://medium.com/p/6d5ba44c3b9d) |
@@ -91,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Apr 2026 11:44:25 GMT | The 50 Percent Delusion: Why Your Quest for the Big Move is Making You Exit Liquidity | Lutenant | [Read More](https://medium.com/p/8afb46c1ff98) |
 | Wed, 15 Apr 2026 11:43:08 GMT | APT SideCopy Exploits CVE-2023–38831 | Seyit | [Read More](https://medium.com/p/d78a45b71d78) |
 | Wed, 15 Apr 2026 11:42:59 GMT | Career Opportunities After Completing an Industry-Recognised Cyber Security Certification in… | logging security | [Read More](https://medium.com/p/dc2e6550d785) |
-| Wed, 15 Apr 2026 11:41:46 GMT | Hire a Hacker vs Professional Hacker Services — What People Really Need | BLACKRAINS Cybersecurity | [Read More](https://medium.com/p/6fd2d86a5d79) |
-| Wed, 15 Apr 2026 11:38:34 GMT | Professional Hacker Services for Account Recovery & Cybersecurity (2026 Guide) | BLACKRAINS Cybersecurity | [Read More](https://medium.com/p/9b0585722230) |
-| Wed, 15 Apr 2026 11:38:10 GMT | GOBUSTER:THE BASICS LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/a063229686e6) |
-| Wed, 15 Apr 2026 11:37:09 GMT | From Vulnerability to Victory: How VAPT Tools Shield Your IT Infrastructure | networsys | [Read More](https://medium.com/p/05363c76b93a) |
-| Wed, 15 Apr 2026 11:36:28 GMT | How Scam Alerts Verifies Website Legitimacy Before You Click | James Smith | [Read More](https://medium.com/p/3a556465ed0e) |
-| Wed, 15 Apr 2026 11:33:14 GMT | The Man Who Hacked Your Brain Before Hacking Was a Word | Stephan Pinkwart | [Read More](https://medium.com/p/89506a3400c4) |
-| Wed, 15 Apr 2026 11:32:32 GMT | Small Oversight, Massive Risk: How a Low Cost Domain Could Have Exposed 25,000 Endpoints | Jas | [Read More](https://medium.com/p/08a776c01238) |
-| Wed, 15 Apr 2026 11:31:34 GMT | Hands-on Lab — Wazuh Setup for Cyber ​​Attack Detection | Hammam Awis Zukimi | [Read More](https://medium.com/p/592812e7dc26) |
-| Wed, 15 Apr 2026 11:31:01 GMT | The Night SSH Logged In Twice With the Same Key #3 | Faruk Ahmed | [Read More](https://medium.com/p/d0cb39a3c534) |
-| Wed, 15 Apr 2026 11:26:38 GMT | Açık Redis Portu: Sessiz Bir Tehdit ve Nasıl Önlenir | Muhammet Aydın | [Read More](https://medium.com/p/a84ac656038b) |
-| Wed, 15 Apr 2026 11:11:59 GMT | GDPR Compliance Services: The Hidden Superpower Every Business Needs in 2026 (Before It’s Too Late) | Lalit kumar | [Read More](https://medium.com/p/df34b0771728) |
-| Wed, 15 Apr 2026 11:02:05 GMT | How BoldSign Users Can Stay Safe Online from Fraud and Email Scams | Reethika Moovendhan | [Read More](https://medium.com/p/cb2e742cadd3) |
-| Wed, 15 Apr 2026 11:01:54 GMT | Effortless DITA Map Localization with Translate.photo | karthik gokul | [Read More](https://medium.com/p/b83ee6e36442) |
-| Wed, 15 Apr 2026 11:01:10 GMT | Ship Happens. Here Are the Receipts. | Hernel Juanico | [Read More](https://medium.com/p/51bcfcfb012b) |
-| Wed, 15 Apr 2026 11:01:00 GMT | Search Console Error Fixing Guide | Jellyfr | [Read More](https://medium.com/p/62f91f934a68) |
-| Wed, 15 Apr 2026 10:59:16 GMT | Yes, You Are Ordinary… And That’s Exactly Why You Should Apply | Hernel Juanico | [Read More](https://medium.com/p/f7a16e86f36f) |
-| Wed, 15 Apr 2026 10:58:12 GMT | Learn Cybersecurity Like a Pro in 2026 | fsocietyhub | [Read More](https://medium.com/p/2d42d82e98f0) |
-| Wed, 15 Apr 2026 10:57:16 GMT | Best VPN for China 2026: 5 That Beat the Firewall | Dave Henderson | [Read More](https://medium.com/p/5a4cdb5c450c) |
-| Wed, 15 Apr 2026 10:55:32 GMT | “How to Stay Safe Online” — Best practices for protecting personal information and avoiding online… | Vigneswaran Poobalasingam | [Read More](https://medium.com/p/f0c68e9e5bc2) |
-| Wed, 15 Apr 2026 10:51:47 GMT | From Security To Seo: Complete Business Solutions | Robert Figgy | [Read More](https://medium.com/p/52901c96b4d3) |
-| Wed, 15 Apr 2026 10:51:15 GMT | The Cloud Has an Address.
-And Drones Found It. | Atifhabib | [Read More](https://medium.com/p/1969078f0355) |
