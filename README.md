@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 00:01:02 GMT | OAuth Guide: Vulnerabilities, Attack Vectors, and Security | JPablo13 | [Read More](https://medium.com/p/ac3e078147ae) |
+| Tue, 14 Apr 2026 23:42:25 GMT | Rank 1 LLM Attack: Now Uses Your AI Email Assistant (My Story) | Mandar Karhade, MD. PhD. | [Read More](https://medium.com/p/ea4e105f1306) |
+| Tue, 14 Apr 2026 23:40:21 GMT | The Church of Malware Presents: The Most Braindead Python Botnet We’ve Ever Seen | ekomsSavior | [Read More](https://medium.com/p/376ed3a8b111) |
+| Tue, 14 Apr 2026 23:28:52 GMT | When the Safe Hands Stop Being Safe | Zac | [Read More](https://medium.com/p/4fb70ff09065) |
+| Tue, 14 Apr 2026 23:21:41 GMT | What do you mean I have to tell my future partner about my past? | iknowhowtowrite | [Read More](https://medium.com/p/1ef233a7a914) |
+| Tue, 14 Apr 2026 23:16:56 GMT | Top Crypto Recovery Insights in 2026 - CryptoRecoveryMinions.com | Doelarjohn | [Read More](https://medium.com/p/c137b0cde3dd) |
 | Tue, 14 Apr 2026 23:01:38 GMT | Reverse Engineering on CyberTalents: Solving All Easy Challenges Part 4 | Isv0x1 | [Read More](https://medium.com/p/0b006a62fdee) |
 | Tue, 14 Apr 2026 22:55:50 GMT | OpenAI vs Anthropic: AI for defensive security. Here’s what a blockchain engineer sees. | Bitresist | [Read More](https://medium.com/p/1baf4a5f8612) |
 | Tue, 14 Apr 2026 22:32:12 GMT | I Built a SOC Home Lab From Scratch as a Graduate — Here’s Everything I Learned | shinzo | [Read More](https://medium.com/p/a3c2a20dabfa) |
@@ -37,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Apr 2026 21:39:17 GMT | Lets defend SOC167 — LS Command Detected in Requested URL | Gabriel Ighietsemhe | [Read More](https://medium.com/p/cfc7f8cb0423) |
 | Tue, 14 Apr 2026 21:34:54 GMT | TryHackMe: Introduction to SIEM | Robert Perez | [Read More](https://medium.com/p/150fa97b8fc8) |
 | Tue, 14 Apr 2026 21:28:29 GMT | 13 Years in the Dark: How a Hidden ActiveMQ Flaw Turns Your Message Broker Into a Backdoor… | Kerem | [Read More](https://medium.com/p/baea9254996f) |
+| Tue, 14 Apr 2026 21:27:21 GMT | Language-Specific File Upload Exploits and EXIF-Based Attacks | Odiomonafe Jamal . A | [Read More](https://medium.com/p/a92b15e2f8c2) |
 | Tue, 14 Apr 2026 21:23:23 GMT | The 2026 Cybersecurity Blueprint: Moving from Static Defense to Resilience-as-a-Service | Patrick Dougherty | [Read More](https://medium.com/p/a5bee83f3794) |
 | Tue, 14 Apr 2026 21:15:01 GMT | How Claude Mythos Preview Just Redefined AI Cyber Capabilities | SOCFortress | [Read More](https://medium.com/p/e34694f2ec00) |
 | Tue, 14 Apr 2026 21:10:07 GMT | NexGuards vs KnowBe4: AI-Personalized Phishing Simulation vs Template-Based Training (2026) | Mohamed Sherif | [Read More](https://medium.com/p/237ff75d4dbe) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Apr 2026 17:12:11 GMT | The 98% Accuracy Lie: Why I Stopped Trusting Cybersecurity Datasets and Started Building My Own | Hamza Sajid | [Read More](https://medium.com/p/e4257c64cb01) |
 | Tue, 14 Apr 2026 17:08:31 GMT | The 2026 AI Data Wall: Why Human Input is the Most Valuable Resource in Tech | Data Mind | [Read More](https://medium.com/p/75fac101707e) |
 | Tue, 14 Apr 2026 16:54:30 GMT | TryHackMe - Securing AI Systems - WriteUp | Axoloth | [Read More](https://medium.com/p/9b6748bb7bec) |
-| Tue, 14 Apr 2026 16:46:49 GMT | Schrödinger’s Backup: If You Haven’t Tested a Restore, You Don’t Have a Backup | Hugo Valters | [Read More](https://medium.com/p/2474d3816392) |
-| Tue, 14 Apr 2026 16:44:02 GMT | The Silent Engine: Building a Zero-Failure Enterprise Payment Gateway with Stripe | Jayabal Rajendran | [Read More](https://medium.com/p/453d8b8c651e) |
-| Tue, 14 Apr 2026 16:42:13 GMT | How Security Training Works in London: Step-by-Step Explanation | Quiz Training | [Read More](https://medium.com/p/409970c15055) |
-| Tue, 14 Apr 2026 16:41:29 GMT | Policy Doesn’t Stop Shadow AI. Architecture Does. | James Word | [Read More](https://medium.com/p/cf4e350d888b) |
-| Tue, 14 Apr 2026 16:41:14 GMT | Is Bug Bounty a Good Long-Term Career? The Reality in 2026 | Pradeeptadi | [Read More](https://medium.com/p/8bb238d4d01e) |
-| Tue, 14 Apr 2026 16:37:58 GMT | Surveillance for cheating spouse | Michael Parks | [Read More](https://medium.com/p/578441607244) |
-| Tue, 14 Apr 2026 16:22:30 GMT | Web shell upload via obfuscated file extension - PortSwigger | Nazeer Rasad | [Read More](https://medium.com/p/04350537f5b6) |
