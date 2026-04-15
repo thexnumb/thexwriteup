@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 17:01:01 GMT | Agentic AI Attacks Are Here: How Autonomous Hackers Can Breach Systems in Minutes | Imran Valiani | [Read More](https://medium.com/p/088e18c982f1) |
+| Wed, 15 Apr 2026 16:59:01 GMT | The 80:1 Blind Spot: Why “Build_Agent_43” Could Be Your Next Breach | Rudratic Technologies | [Read More](https://medium.com/p/71e3d345abb0) |
+| Wed, 15 Apr 2026 16:57:34 GMT | From SSH Key Leak to Root: Lupine VulnHub CTF Walkthrough (Python Hijack & pip Exploit) | Nwoke Evan Elochukwu Eguzozie | [Read More](https://medium.com/p/6d5ba44c3b9d) |
+| Wed, 15 Apr 2026 16:56:48 GMT | My First Real Interview Experience in Cybersecurity | Badshahacking | [Read More](https://medium.com/p/2dc67bf66a4e) |
+| Wed, 15 Apr 2026 16:52:05 GMT | Cybersecurity Solutions in 2026: The Complete Pillar Guide for Businesses | Freelance SEO Work | [Read More](https://medium.com/p/3f32a10df7c5) |
+| Wed, 15 Apr 2026 16:49:15 GMT | MSR-002 Market Signal Report | Validatedpro | [Read More](https://medium.com/p/2e4b5a66af79) |
+| Wed, 15 Apr 2026 16:48:29 GMT | Why DNS Traffic Is Still an Underrated Detection Source | JSOC IT BLOG | [Read More](https://medium.com/p/7ff66bbd698a) |
+| Wed, 15 Apr 2026 16:48:16 GMT | Quantum Internet Launches 2027: How It Ends Privacy Forever (and the 4 Tools to Stay Invisible) | Officer's Notes | [Read More](https://medium.com/p/a7053f0599c8) |
+| Wed, 15 Apr 2026 16:40:32 GMT | ETHICAL & SOSIAL ISSUE IN IS | Sultanatan | [Read More](https://medium.com/p/0b02f59deda9) |
+| Wed, 15 Apr 2026 16:36:35 GMT | I Built a MITRE ATT&CK-Style Framework for AI Agents — Because No One Else Had | Bedrettin Cakmak | [Read More](https://medium.com/p/d559a8045c42) |
+| Wed, 15 Apr 2026 16:31:45 GMT | What a code audit actually requires — and why automation has never quite answered it | Olebeng | [Read More](https://medium.com/p/d028f2dba865) |
+| Wed, 15 Apr 2026 16:27:42 GMT | Anatomy of a Shadow: Dissecting the Solar Winds SUNBURST Supply Chain Attack | The Kernel Hub | [Read More](https://medium.com/p/ff77bdafb0a4) |
+| Wed, 15 Apr 2026 16:26:16 GMT | Building an Active Directory Lab on Windows Server Core: A Step-by-Step Guide | Modu Kunjo | [Read More](https://medium.com/p/c4932f9e7c0d) |
+| Wed, 15 Apr 2026 16:08:23 GMT | Your Active Directory Is Flat. That’s Why You Keep Getting Burned. | The Man Behind The Line | [Read More](https://medium.com/p/2946c55ad199) |
+| Wed, 15 Apr 2026 16:03:50 GMT | Transform Your Business with Smart Software Development — ByteExpo | S Hassanabbas | [Read More](https://medium.com/p/666ed7fa859e) |
+| Wed, 15 Apr 2026 16:01:15 GMT | Malware Disguised as a Job Opportunity: A Real-World Analysis | Munaniadeno | [Read More](https://medium.com/p/11af92a0e286) |
+| Wed, 15 Apr 2026 15:55:58 GMT | Beyond Encryption: How Reynolds Ransomware Disables EDR Before Execution | Azeezah | [Read More](https://medium.com/p/256eb8e42563) |
+| Wed, 15 Apr 2026 15:52:23 GMT | Challenges and Responsibilities in the Age of Smart Technology | Sarayu Vadlakonda | [Read More](https://medium.com/p/faa69914a7c0) |
 | Wed, 15 Apr 2026 15:38:34 GMT | Remote Code Execution (RCE) — The Ultimate Critical Vulnerability | ghostyjoe | [Read More](https://medium.com/p/eebbad67a5a6) |
 | Wed, 15 Apr 2026 15:36:29 GMT | TryHackMe SOC Analyst Road Map Part-23 | safa kaya | [Read More](https://medium.com/p/4367a76c9486) |
 | Wed, 15 Apr 2026 15:26:01 GMT | Modern Day Cloud FinOps. | Mohammed Brückner | [Read More](https://medium.com/p/9224ba12707a) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Apr 2026 10:51:47 GMT | From Security To Seo: Complete Business Solutions | Robert Figgy | [Read More](https://medium.com/p/52901c96b4d3) |
 | Wed, 15 Apr 2026 10:51:15 GMT | The Cloud Has an Address.
 And Drones Found It. | Atifhabib | [Read More](https://medium.com/p/1969078f0355) |
-| Wed, 15 Apr 2026 10:51:10 GMT | Além do Jardim Murado: Por que troquei a App Store pelo Homebrew para atingir a Soberania no macOS | Alexandre Santos (Ika1r0st0n) | [Read More](https://medium.com/p/a304a25445db) |
-| Wed, 15 Apr 2026 10:49:10 GMT | Microsoft’s April 2026 Patch Tuesday Is a Warning Shot: A SharePoint Zero-Day, 169 Flaws, and a… | Germano Costi | [Read More](https://medium.com/p/88e697293196) |
-| Wed, 15 Apr 2026 10:48:09 GMT | Cross-Chain Bridge Exploits: Why They’re Still Web3’s Biggest Weak Spot | Réka Molnár | [Read More](https://medium.com/p/a2861faa0f8a) |
-| Wed, 15 Apr 2026 10:42:02 GMT | Claude Mythos Shows That Software Was Never as Safe as We Thought | CodeRonin | [Read More](https://medium.com/p/954ba5cf4cf4) |
-| Wed, 15 Apr 2026 10:36:07 GMT | Claude AI Discovers Zero-Day RCE in Vim and Emacs: The Dawn of AI-Powered Bug Hunting | Majid | [Read More](https://medium.com/p/98f845abceb5) |
-| Wed, 15 Apr 2026 10:35:59 GMT | Best VPN for Streaming 2026: 5 Services Tested | Dave Henderson | [Read More](https://medium.com/p/d9577d3a5140) |
-| Wed, 15 Apr 2026 10:30:59 GMT | The Keys to the Kingdom: How to Secure Your Microsoft 365 Tenant in 2026 | Xaltius | [Read More](https://medium.com/p/4792c0997ea0) |
-| Wed, 15 Apr 2026 10:22:01 GMT | Beyond Tooling & Tech Stack: The Core That Actually Scales in Enterprise AI | Frank Sun | [Read More](https://medium.com/p/c5a627a5a176) |
-| Wed, 15 Apr 2026 10:17:19 GMT | Endpoint Security Summer Training and Internship Program in 45 Days | Crawsec | [Read More](https://medium.com/p/91b528e0a903) |
-| Wed, 15 Apr 2026 10:01:01 GMT | How to Pass a Fortune 500 Security Review Without a Security Team | Abhishek Pahuja | [Read More](https://medium.com/p/fb232da824f3) |
-| Wed, 15 Apr 2026 10:00:06 GMT | 1India’s recent development in technology helps Indian citizens by making government services… | Ankush Goswami | [Read More](https://medium.com/p/84d6176ae3ab) |
-| Wed, 15 Apr 2026 09:57:36 GMT | Using Digital Signatures to Strengthen Your Defense Against OWASP Top 10 | Eng Moh Farahat | [Read More](https://medium.com/p/ad7a2655f2a5) |
-| Wed, 15 Apr 2026 09:49:21 GMT | Cybersecurity & Ethical Hacking Explained - Protecting the Digital World. | CodeZen | [Read More](https://medium.com/p/54ab7c7a2bb1) |
-| Wed, 15 Apr 2026 09:43:20 GMT | How Smart IT Leaders Choose MSSPs And the Intelligence That Helps Them Win | DiscoverMSPs | [Read More](https://medium.com/p/2526e961ba1a) |
-| Wed, 15 Apr 2026 09:41:21 GMT | Bridging the Gap Between Cybersecurity and Legal Discovery | Anjali Moitra Roy | [Read More](https://medium.com/p/f81810202ac4) |
-| Wed, 15 Apr 2026 09:30:53 GMT | Are Security Guards Still Relevant in a Tech-Driven Singapore? | Jane Tang | [Read More](https://medium.com/p/9e48aa79d983) |
-| Wed, 15 Apr 2026 09:28:45 GMT | Navigating the Shift: Practical AI Governance Under the EU AI Act | Aditya | [Read More](https://medium.com/p/24e6748bce71) |
-| Wed, 15 Apr 2026 09:27:25 GMT | Havenlon Series: Execution Control in the Age of AI (3/15) | Havenlon | [Read More](https://medium.com/p/9e215e2db1e4) |
