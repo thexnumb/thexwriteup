@@ -12,10 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 11:57:50 GMT | Getting Started with Network Pentesting: Setup Lab VirtualBox + Kali Linux | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/a56924c849b8) |
+| Wed, 15 Apr 2026 11:55:10 GMT | Baggage Scanner: The Silent Guardian of Modern Security | Etradefia | [Read More](https://medium.com/p/7ec29a7fde7d) |
+| Wed, 15 Apr 2026 11:50:26 GMT | Consulting Firm For Aircraft Certification | Martin Solutions | [Read More](https://medium.com/p/632ab4ae82f9) |
+| Wed, 15 Apr 2026 11:49:57 GMT | Is BBA Information Technology Worth It for Future Careers? | SICSR Pune | [Read More](https://medium.com/p/37da34baadd7) |
+| Wed, 15 Apr 2026 11:44:25 GMT | The 50 Percent Delusion: Why Your Quest for the Big Move is Making You Exit Liquidity | Lutenant | [Read More](https://medium.com/p/8afb46c1ff98) |
+| Wed, 15 Apr 2026 11:43:08 GMT | APT SideCopy Exploits CVE-2023–38831 | Seyit | [Read More](https://medium.com/p/d78a45b71d78) |
+| Wed, 15 Apr 2026 11:42:59 GMT | Career Opportunities After Completing an Industry-Recognised Cyber Security Certification in… | logging security | [Read More](https://medium.com/p/dc2e6550d785) |
+| Wed, 15 Apr 2026 11:41:46 GMT | Hire a Hacker vs Professional Hacker Services — What People Really Need | BLACKRAINS Cybersecurity | [Read More](https://medium.com/p/6fd2d86a5d79) |
+| Wed, 15 Apr 2026 11:38:34 GMT | Professional Hacker Services for Account Recovery & Cybersecurity (2026 Guide) | BLACKRAINS Cybersecurity | [Read More](https://medium.com/p/9b0585722230) |
+| Wed, 15 Apr 2026 11:38:10 GMT | GOBUSTER:THE BASICS LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/a063229686e6) |
+| Wed, 15 Apr 2026 11:36:28 GMT | How Scam Alerts Verifies Website Legitimacy Before You Click | James Smith | [Read More](https://medium.com/p/3a556465ed0e) |
+| Wed, 15 Apr 2026 11:33:14 GMT | The Man Who Hacked Your Brain Before Hacking Was a Word | Stephan Pinkwart | [Read More](https://medium.com/p/89506a3400c4) |
+| Wed, 15 Apr 2026 11:32:32 GMT | Small Oversight, Massive Risk: How a Low Cost Domain Could Have Exposed 25,000 Endpoints | Jas | [Read More](https://medium.com/p/08a776c01238) |
+| Wed, 15 Apr 2026 11:31:34 GMT | Hands-on Lab — Wazuh Setup for Cyber ​​Attack Detection | Hammam Awis Zukimi | [Read More](https://medium.com/p/592812e7dc26) |
+| Wed, 15 Apr 2026 11:31:01 GMT | The Night SSH Logged In Twice With the Same Key #3 | Faruk Ahmed | [Read More](https://medium.com/p/d0cb39a3c534) |
+| Wed, 15 Apr 2026 11:26:38 GMT | Açık Redis Portu: Sessiz Bir Tehdit ve Nasıl Önlenir | Muhammet Aydın | [Read More](https://medium.com/p/a84ac656038b) |
+| Wed, 15 Apr 2026 11:11:59 GMT | GDPR Compliance Services: The Hidden Superpower Every Business Needs in 2026 (Before It’s Too Late) | Lalit kumar | [Read More](https://medium.com/p/df34b0771728) |
+| Wed, 15 Apr 2026 11:02:05 GMT | How BoldSign Users Can Stay Safe Online from Fraud and Email Scams | Reethika Moovendhan | [Read More](https://medium.com/p/cb2e742cadd3) |
 | Wed, 15 Apr 2026 11:01:54 GMT | Effortless DITA Map Localization with Translate.photo | karthik gokul | [Read More](https://medium.com/p/b83ee6e36442) |
 | Wed, 15 Apr 2026 11:01:10 GMT | Ship Happens. Here Are the Receipts. | Hernel Juanico | [Read More](https://medium.com/p/51bcfcfb012b) |
 | Wed, 15 Apr 2026 11:01:00 GMT | Search Console Error Fixing Guide | Jellyfr | [Read More](https://medium.com/p/62f91f934a68) |
 | Wed, 15 Apr 2026 10:59:16 GMT | Yes, You Are Ordinary… And That’s Exactly Why You Should Apply | Hernel Juanico | [Read More](https://medium.com/p/f7a16e86f36f) |
+| Wed, 15 Apr 2026 10:58:12 GMT | Learn Cybersecurity Like a Pro in 2026 | fsocietyhub | [Read More](https://medium.com/p/2d42d82e98f0) |
 | Wed, 15 Apr 2026 10:57:16 GMT | Best VPN for China 2026: 5 That Beat the Firewall | Dave Henderson | [Read More](https://medium.com/p/5a4cdb5c450c) |
 | Wed, 15 Apr 2026 10:55:32 GMT | “How to Stay Safe Online” — Best practices for protecting personal information and avoiding online… | Vigneswaran Poobalasingam | [Read More](https://medium.com/p/f0c68e9e5bc2) |
 | Wed, 15 Apr 2026 10:51:47 GMT | From Security To Seo: Complete Business Solutions | Robert Figgy | [Read More](https://medium.com/p/52901c96b4d3) |
@@ -55,6 +74,7 @@ And Drones Found It. | Atifhabib | [Read More](https://medium.com/p/1969078f0355
 | Wed, 15 Apr 2026 08:15:07 GMT | Cyber Essentials Explained: Why It Matters More Than Ever for UK Businesses | Alex Hughes | [Read More](https://medium.com/p/ecf6c4778654) |
 | Wed, 15 Apr 2026 08:13:27 GMT | Indigenius AI is Now NDPR Compliant | CDIAL.AI | [Read More](https://medium.com/p/272d9a42a9c9) |
 | Wed, 15 Apr 2026 08:09:42 GMT | Gobuster Tutorial: Web Enumeration & Hidden Directory Discovery | ExploitHunt | [Read More](https://medium.com/p/96345a33f8f4) |
+| Wed, 15 Apr 2026 08:08:41 GMT | JANGAN SAMPAI TERLAMBAT: MENGOPTIMALKAN LOG MONITORING DALAM CYBER SECURITY STRATEGY | Nisbi Indonesia | [Read More](https://medium.com/p/dd02f7d07cd1) |
 | Wed, 15 Apr 2026 08:02:02 GMT | Your SSL Certificates Are a Public Blueprint | Fateyaly | [Read More](https://medium.com/p/8da9a6b50217) |
 | Wed, 15 Apr 2026 07:58:41 GMT | The Rise of Dark Patterns in Apps and Their Impact on Users | Alamgir Rajab | [Read More](https://medium.com/p/01ba1a08b3b6) |
 | Wed, 15 Apr 2026 07:53:38 GMT | What is a Business VPN and How do They Work? | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/5d3b5598ed76) |
@@ -93,23 +113,3 @@ And Drones Found It. | Atifhabib | [Read More](https://medium.com/p/1969078f0355
 | Wed, 15 Apr 2026 06:10:55 GMT | AC Service in Madhapur Near me | AC Repair in Hyderabad | [Read More](https://medium.com/p/ed7df2341d0e) |
 | Wed, 15 Apr 2026 06:10:20 GMT | Inside Basic Authentication: How Base64 Encoding Really Works | Rifat Arefin | [Read More](https://medium.com/p/fc94c26e29eb) |
 | Wed, 15 Apr 2026 06:08:43 GMT | Best Security Company in India: How to Choose the Right Partner for Complete Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/695a36cec744) |
-| Wed, 15 Apr 2026 05:58:08 GMT | How To Hack Part 4 | Red | [Read More](https://medium.com/p/a10b9259cc4c) |
-| Wed, 15 Apr 2026 05:57:45 GMT | Breaking 2FA in WordPress: Account Takeover via CSRF in Google Authenticator | Miguel Angel Méndez Z. | [Read More](https://medium.com/p/1b01d078b4a5) |
-| Wed, 15 Apr 2026 05:56:34 GMT | A Guide To Hire A Hacker To Change Your Grades- An Expert Analysis | Seanknoxx | [Read More](https://medium.com/p/744f1598ef78) |
-| Wed, 15 Apr 2026 05:55:03 GMT | Software, in a Time of Fear | deepak chandra | [Read More](https://medium.com/p/4b8322fd6ccd) |
-| Wed, 15 Apr 2026 05:50:55 GMT | The “SIEVE” Method | ORPHEUS | [Read More](https://medium.com/p/ab81955929a4) |
-| Wed, 15 Apr 2026 05:44:09 GMT | Piano. Chess. | Dhanush N | [Read More](https://medium.com/p/333dd0782884) |
-| Wed, 15 Apr 2026 05:43:31 GMT | Microsoft Just Banned WireGuard, VeraCrypt and Windscribe! | Matyas Koszegi | [Read More](https://medium.com/p/24c2a317e751) |
-| Wed, 15 Apr 2026 05:34:15 GMT | GitHub — sunandasinghh/virustotal-analysis: practical threat analysis using virustotal for… | Sunandasingh | [Read More](https://medium.com/p/98c02aa7a32c) |
-| Wed, 15 Apr 2026 05:26:55 GMT | In Reality No One Talks About Networking Careers | Rajesh Sinha | [Read More](https://medium.com/p/cf10d728ded2) |
-| Wed, 15 Apr 2026 05:26:26 GMT | Construction Site Security: Protecting Assets From Ground to Completion | SecurityInsightsAU | [Read More](https://medium.com/p/b29425ae2ac9) |
-| Wed, 15 Apr 2026 05:09:34 GMT | Wazuh Server Cluster Master and Worker Load Balancing on Ubuntu Linux | Tahir hussain | [Read More](https://medium.com/p/cd9dde8a110d) |
-| Wed, 15 Apr 2026 05:05:50 GMT | WhatsApp beta for Android 2.26.15.6: what’s new? | WABetaInfo | [Read More](https://medium.com/p/c13745978386) |
-| Wed, 15 Apr 2026 05:01:04 GMT | Securing Node.js Applications After March 2026 Security Releases: A Practical Guide | Maulik Bhojani | [Read More](https://medium.com/p/9059726ce5d0) |
-| Wed, 15 Apr 2026 05:01:01 GMT | Man-in-the-Middle: Intercepting Trust in Transit | Cybersphere Official | [Read More](https://medium.com/p/009ce19f7988) |
-| Wed, 15 Apr 2026 04:59:43 GMT | What is Wireless Penetration Testing? A Complete Guide for Modern Businesses | Securis360 Inc. | [Read More](https://medium.com/p/fcf9b99b6e37) |
-| Wed, 15 Apr 2026 04:54:57 GMT | The Silent Risk of Infrastructure as Code (IaC) | Meni Tasa ( IT & CyberSecurity) | [Read More](https://medium.com/p/480ffe571418) |
-| Wed, 15 Apr 2026 04:47:32 GMT | Injection Attacks — From User Input to Full System Control | ghostyjoe | [Read More](https://medium.com/p/e17ee4034dd6) |
-| Wed, 15 Apr 2026 04:46:01 GMT | The Invisible Backdoor: Why Your Biggest Cyber Threat Isn’t Even on Your Network | jioai | [Read More](https://medium.com/p/dac5ea112b31) |
-| Wed, 15 Apr 2026 04:46:01 GMT | What Is “Quishing”? | jayanti suthar | [Read More](https://medium.com/p/7100cfc1f60f) |
-| Wed, 15 Apr 2026 04:21:34 GMT | Why it’s difficult to grow love in shame soil | Khaan | [Read More](https://medium.com/p/026935febe9e) |
