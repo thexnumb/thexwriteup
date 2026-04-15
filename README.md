@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 03:35:32 GMT | AI Models & Data (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/5238572995a3) |
+| Wed, 15 Apr 2026 03:31:15 GMT | Anthropic Claude Mythos — Redefining the Future of Security | Nikitha Srinivasan | [Read More](https://medium.com/p/4b3736e3aa04) |
+| Wed, 15 Apr 2026 03:13:19 GMT | Cách đăng ký 28bet an toàn: những lưu ý quan trọng cho người dùng mới | 報數十一員 | [Read More](https://medium.com/p/0f458fa6f095) |
+| Wed, 15 Apr 2026 03:03:57 GMT | ⚙️ 13. — Referer — Based Access Control | The4v1 | [Read More](https://medium.com/p/2d36f4a5c699) |
+| Wed, 15 Apr 2026 03:03:11 GMT | ⚙️ 12. — Multi-step process with no access control on one step | The4v1 | [Read More](https://medium.com/p/a3471653a346) |
+| Wed, 15 Apr 2026 03:01:05 GMT | The Browser Illusion | Danny Lin | [Read More](https://medium.com/p/73f50eaef3c0) |
+| Wed, 15 Apr 2026 03:00:59 GMT | Grand Theft Data: How Hackers Breached Rockstar Games Without Touching Rockstar’s Systems | UK Cyber Defence | [Read More](https://medium.com/p/0c7b864fa4f5) |
+| Wed, 15 Apr 2026 02:47:10 GMT | Beneath the Syntax: Why C and C++ Are Still the Ultimate Training Ground for Developers | Joydeep Das | [Read More](https://medium.com/p/8c2f222181e3) |
+| Wed, 15 Apr 2026 02:41:41 GMT | The Emergence of Prompt Kiddies: Evolution of AI- and No-Code-Based Outlook Phishing | NSHC ThreatRecon Team | [Read More](https://medium.com/p/98bf84594210) |
+| Wed, 15 Apr 2026 02:06:01 GMT | Pragmatic Security: Protecting User Data Without Becoming a Fortress | Erwin Hermanto | [Read More](https://medium.com/p/b46f3f0da1da) |
+| Wed, 15 Apr 2026 02:04:57 GMT | The Secret Life of AWS: IAM | Aaron Rose | [Read More](https://medium.com/p/89094fad3c57) |
+| Wed, 15 Apr 2026 01:40:16 GMT | Tak Selamanya Web yang Aman “HTTPS” Itu Bebas Dari Serangan | Abdul Halim Ichwan | [Read More](https://medium.com/p/dcd19e3676cb) |
+| Wed, 15 Apr 2026 01:39:48 GMT | I Built an AI Agent That Pwns CI/CD Pipelines — Then Helps Fix Them | Oluwatobi Afolabi | [Read More](https://medium.com/p/ee8bb71cad71) |
+| Wed, 15 Apr 2026 01:23:24 GMT | TryHackMe: Offensive Security Intro Writeup | Jonathan Sanfer | [Read More](https://medium.com/p/db92ec38cfc9) |
+| Wed, 15 Apr 2026 00:38:46 GMT | Cmess — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/cf4924fcb27e) |
+| Wed, 15 Apr 2026 00:31:08 GMT | BlueHammer Isn’t a Defender Bug — It’s a Windows Design Flaw. Here’s the Real Fix. | AndrewCharalambous | [Read More](https://medium.com/p/9b22d5f8e8a3) |
+| Wed, 15 Apr 2026 00:15:33 GMT | Why Anthropic’s Claude Mythos Is Not Fearmongering but a Force Reshaping Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/92f8f0fa568f) |
 | Wed, 15 Apr 2026 00:01:02 GMT | OAuth Guide: Vulnerabilities, Attack Vectors, and Security | JPablo13 | [Read More](https://medium.com/p/ac3e078147ae) |
 | Tue, 14 Apr 2026 23:42:25 GMT | Rank 1 LLM Attack: Now Uses Your AI Email Assistant (My Story) | Mandar Karhade, MD. PhD. | [Read More](https://medium.com/p/ea4e105f1306) |
 | Tue, 14 Apr 2026 23:40:21 GMT | The Church of Malware Presents: The Most Braindead Python Botnet We’ve Ever Seen | ekomsSavior | [Read More](https://medium.com/p/376ed3a8b111) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Apr 2026 18:07:26 GMT | Catching a cheating spouse | Michael Parks | [Read More](https://medium.com/p/e3626e0d532f) |
 | Tue, 14 Apr 2026 18:06:22 GMT | Fraud in the Digital Age: The Silent Threat We Keep Ignoring | Abel Fweshi | [Read More](https://medium.com/p/c9f501bd96f3) |
 | Tue, 14 Apr 2026 18:04:37 GMT | Understanding Dark Web Anonymous Browsing and Online Privacy | Tor BBB | [Read More](https://medium.com/p/d36d8c17fc37) |
-| Tue, 14 Apr 2026 17:57:17 GMT | Day-3 Bypassing XSS with Hash Parameter | zero_day | [Read More](https://medium.com/p/d654e7e4548c) |
-| Tue, 14 Apr 2026 17:54:51 GMT | How I Earned the HTB CWES (Certified Web Exploitation Specialist) — 100 Points on My First Attempt… | Aung Myint | [Read More](https://medium.com/p/611d559d5d0a) |
-| Tue, 14 Apr 2026 17:53:54 GMT | Monitoring macOS Entitlements with Sysinternals listent (list entitlements) | Mario Hewardt | [Read More](https://medium.com/p/55e78880d436) |
-| Tue, 14 Apr 2026 17:53:04 GMT | Is a Non-Technical Background Really a Disadvantage in Cybersecurity? Rethinking the Narrative | Vasant Bhadauria | [Read More](https://medium.com/p/dd2c05522daa) |
-| Tue, 14 Apr 2026 17:46:03 GMT | Not emerging. | Akesh Chandrasiri | [Read More](https://medium.com/p/b3a668157bf3) |
-| Tue, 14 Apr 2026 17:43:45 GMT | Smol- A TryHackMe Writeup | 0x77 | [Read More](https://medium.com/p/014e88c45cfd) |
-| Tue, 14 Apr 2026 17:43:10 GMT | Day 24: The Enemy Within — Data Loss Prevention (DLP) and Insider Threats | Ndu | [Read More](https://medium.com/p/8e3d92148b4f) |
-| Tue, 14 Apr 2026 17:42:59 GMT | Lessons from the MOVEit Data Breach: How One Vulnerability Impacted Thousands of Organizations | Digital Defense | [Read More](https://medium.com/p/5e5db77cace2) |
-| Tue, 14 Apr 2026 17:38:21 GMT | Approaching stealers devs: a brief interview with notnullOSX (ex-0xfff) | g0njxa | [Read More](https://medium.com/p/4ca8f1600ac0) |
-| Tue, 14 Apr 2026 17:34:42 GMT | Day 23: The Last Line of Defense — Endpoint Detection and Response (EDR) | Ndu | [Read More](https://medium.com/p/e94e73453e22) |
-| Tue, 14 Apr 2026 17:31:06 GMT | Bug Bounty 101.1 — Building a Basic Recon Logger in Python | Johnny Meintel | [Read More](https://medium.com/p/7aa6f3ce2d2b) |
-| Tue, 14 Apr 2026 17:18:24 GMT | SOC Topic A01 — PCAP Analysis | Adithya Hettiarachchi | [Read More](https://medium.com/p/614eda6d797a) |
-| Tue, 14 Apr 2026 17:17:36 GMT | 5 Scheduling Mistakes That Cost Security Guard Companies Thousands Every Month | Novagems Inc | [Read More](https://medium.com/p/e55471eeab82) |
-| Tue, 14 Apr 2026 17:15:09 GMT | Bitcoin Is Not Anonymous: A Practical Guide to Bitcoin Privacy | Bitforgetreasury | [Read More](https://medium.com/p/4fb02f28be38) |
-| Tue, 14 Apr 2026 17:12:11 GMT | The 98% Accuracy Lie: Why I Stopped Trusting Cybersecurity Datasets and Started Building My Own | Hamza Sajid | [Read More](https://medium.com/p/e4257c64cb01) |
-| Tue, 14 Apr 2026 17:08:31 GMT | The 2026 AI Data Wall: Why Human Input is the Most Valuable Resource in Tech | Data Mind | [Read More](https://medium.com/p/75fac101707e) |
-| Tue, 14 Apr 2026 16:54:30 GMT | TryHackMe - Securing AI Systems - WriteUp | Axoloth | [Read More](https://medium.com/p/9b6748bb7bec) |
