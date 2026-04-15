@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 15:38:34 GMT | Remote Code Execution (RCE) — The Ultimate Critical Vulnerability | ghostyjoe | [Read More](https://medium.com/p/eebbad67a5a6) |
+| Wed, 15 Apr 2026 15:36:29 GMT | TryHackMe SOC Analyst Road Map Part-23 | safa kaya | [Read More](https://medium.com/p/4367a76c9486) |
+| Wed, 15 Apr 2026 15:26:01 GMT | Modern Day Cloud FinOps. | Mohammed Brückner | [Read More](https://medium.com/p/9224ba12707a) |
+| Wed, 15 Apr 2026 15:25:11 GMT | Why Serverless Systems Are Hard to Investigate — A Provenance-Based Approach | Sanchisury | [Read More](https://medium.com/p/e50fd1ea9308) |
+| Wed, 15 Apr 2026 15:18:02 GMT | Control Only Works If It’s Enforced | jr.pinoy | [Read More](https://medium.com/p/9445a6885351) |
+| Wed, 15 Apr 2026 15:16:32 GMT | Understanding Dark Web Security Risks in 2026 | Tor BBB | [Read More](https://medium.com/p/e942ddd15d43) |
+| Wed, 15 Apr 2026 15:11:50 GMT | Phishing Kits — A SOC Trainer’s Complete Breakdown | Paritosh | [Read More](https://medium.com/p/49007ede91f2) |
+| Wed, 15 Apr 2026 15:09:21 GMT | AI Secret Scanner That Understands Code - ReconFusionAI | Pentester Club | [Read More](https://medium.com/p/47a53cd24070) |
+| Wed, 15 Apr 2026 15:08:33 GMT | Passing the PJPT and the PNPT, My Journey | The Husky Hacker | [Read More](https://medium.com/p/27710e266c41) |
+| Wed, 15 Apr 2026 15:05:47 GMT | How Deep Is Your Love? | zyxkielysml | [Read More](https://medium.com/p/16df5c96c09d) |
+| Wed, 15 Apr 2026 15:03:59 GMT | Understanding Malware: The Invisible Threat Inside Your Devices | Massi Mapani | [Read More](https://medium.com/p/fbf78751eea0) |
+| Wed, 15 Apr 2026 15:03:22 GMT | The Hidden Risks in Your AI Supply Chain: What Model Cards Reveal About the Models You Trust | Liamromanis | [Read More](https://medium.com/p/83500801bea3) |
+| Wed, 15 Apr 2026 15:01:02 GMT | No Leaks, No Compromises: Why Security Matters in Desktoptale | Desktoptale | [Read More](https://medium.com/p/c6b1bfee83b9) |
+| Wed, 15 Apr 2026 15:01:02 GMT | The PR That Slipped Past AI Review (And How We Fixed It) | AbdulRahman Mostafa | [Read More](https://medium.com/p/fb31d9f4c167) |
+| Wed, 15 Apr 2026 14:54:17 GMT | OpenID Connect: From Theory to GitHub Actions | NGU | [Read More](https://medium.com/p/fcd2a390a216) |
+| Wed, 15 Apr 2026 14:42:13 GMT | Why Security Scanning is Essential in Cloud Environments — And How to Bridge the Gap | Ndhritiraj | [Read More](https://medium.com/p/775e36004f10) |
+| Wed, 15 Apr 2026 14:41:15 GMT | An Article of Uncertainty | Lilacs violet | [Read More](https://medium.com/p/dbedd49044d6) |
+| Wed, 15 Apr 2026 14:40:33 GMT | Slack in a SOC Environment: Turning Alerts into Real-Time Security Action | Little_Sun4lower | [Read More](https://medium.com/p/4f80e75229e1) |
+| Wed, 15 Apr 2026 14:37:00 GMT | How Hackers Turn Everyday Clues Into Password Cracking Power | Daphne Stewart | [Read More](https://medium.com/p/b5d28570cc12) |
+| Wed, 15 Apr 2026 14:33:39 GMT | Healthcare data breaches: A threat to lives and livelihoods? | Khaleel | [Read More](https://medium.com/p/055d8a6b5db1) |
+| Wed, 15 Apr 2026 14:31:01 GMT | Snowflake Security Isn’t About Who It’s About Where Access Comes From | Ismail Mezzour | [Read More](https://medium.com/p/946f3aeb6fbe) |
+| Wed, 15 Apr 2026 14:30:19 GMT | Report: April 8 — April 15, 2026 | CCTT INC. | [Read More](https://medium.com/p/e83641e03388) |
+| Wed, 15 Apr 2026 14:24:07 GMT | Spoon-feeding a Monster | Jyrki Huhta | [Read More](https://medium.com/p/574b565e01dc) |
 | Wed, 15 Apr 2026 14:00:03 GMT | Unmask the HIDDEN IDENTITY in EVERY Share Link You Click!!! | cybrNK | [Read More](https://medium.com/p/639ecd249ec1) |
 | Wed, 15 Apr 2026 13:59:59 GMT | Why AI is the Double-Edged Sword in Cybersecurity Right Now? | Abhishek Bhujang | [Read More](https://medium.com/p/3b9be3d2866d) |
 | Wed, 15 Apr 2026 13:55:45 GMT | IT Industry: The Unavoidable Security Topic | SRE Thoughts | [Read More](https://medium.com/p/1ffb22ad897d) |
@@ -90,26 +113,3 @@ And Drones Found It. | Atifhabib | [Read More](https://medium.com/p/1969078f0355
 | Wed, 15 Apr 2026 09:30:53 GMT | Are Security Guards Still Relevant in a Tech-Driven Singapore? | Jane Tang | [Read More](https://medium.com/p/9e48aa79d983) |
 | Wed, 15 Apr 2026 09:28:45 GMT | Navigating the Shift: Practical AI Governance Under the EU AI Act | Aditya | [Read More](https://medium.com/p/24e6748bce71) |
 | Wed, 15 Apr 2026 09:27:25 GMT | Havenlon Series: Execution Control in the Age of AI (3/15) | Havenlon | [Read More](https://medium.com/p/9e215e2db1e4) |
-| Wed, 15 Apr 2026 09:26:51 GMT | What’s New in htmx 4? Features, Architecture & Security Deep Dive | Anubhav Bhatt | [Read More](https://medium.com/p/fceacb9f8399) |
-| Wed, 15 Apr 2026 09:26:34 GMT | Why Authentication Is a Journey Most Developers Miss | Sandeep Singh | [Read More](https://medium.com/p/3285f2dcf8a0) |
-| Wed, 15 Apr 2026 09:18:47 GMT | ️ The Digital Scorched Earth: Understanding Wiper Attacks | Amanuzzaman M | [Read More](https://medium.com/p/1cbef21d3f65) |
-| Wed, 15 Apr 2026 09:16:01 GMT | From Gaps to Governance: Your Cybersecurity Program Roadmap | Tyson Martin | [Read More](https://medium.com/p/dacd0495fcf1) |
-| Wed, 15 Apr 2026 09:06:41 GMT | 63% of orgs can’t enforce what their AI agents are allowed to do | SidClaw | [Read More](https://medium.com/p/9c89b4c0c201) |
-| Wed, 15 Apr 2026 08:57:04 GMT | Why Your Docker Container Is 1.2GB When It Should Be 80MB | Saandeep Baansod | [Read More](https://medium.com/p/7b443a90f60f) |
-| Wed, 15 Apr 2026 08:52:10 GMT | FortiClient EMS Gets a Second Zero-Day in One Week — CVE-2026–35616 Is Already Being Exploited | Ali Dak | [Read More](https://medium.com/p/469960f238cb) |
-| Wed, 15 Apr 2026 08:50:34 GMT | Construction Ransomware: How to Strengthen Security in 2026 | TSplus Academy | [Read More](https://medium.com/p/4776335f32cd) |
-| Wed, 15 Apr 2026 08:47:33 GMT | Is 2FA Enough to Secure Business Data? | Behawk Infosec | [Read More](https://medium.com/p/4649c141033c) |
-| Wed, 15 Apr 2026 08:40:58 GMT | 5 Attack Patterns Behind Most Smart Contract Exploits | Abraham | [Read More](https://medium.com/p/ec6b3f45cec5) |
-| Wed, 15 Apr 2026 08:38:54 GMT | A World Where Privacy Is No Longer | Zara Writes | [Read More](https://medium.com/p/2fa28fdadc7f) |
-| Wed, 15 Apr 2026 08:35:25 GMT | Blockchain Voting for National Elections: Architecture of Sustainability | Azamat Safarov | [Read More](https://medium.com/p/a6d06ec5dc9f) |
-| Wed, 15 Apr 2026 08:31:01 GMT | Don’t Tap That Link: The New Wave of “Urgent Account” Scams Targeting iPhone Users. | apple insides | [Read More](https://medium.com/p/f2405d7cd322) |
-| Wed, 15 Apr 2026 08:20:58 GMT | 미소스 쇼크 — AI 모델 하나가 촉발한 국제 사이버보안 위기의 1주일 | 이현종 | [Read More](https://medium.com/p/67d72d97d8a2) |
-| Wed, 15 Apr 2026 08:15:15 GMT | AI/ML security Threats(TryHackMe Room Explained — question/answers) | Sukhveer Singh | [Read More](https://medium.com/p/65891e5f1902) |
-| Wed, 15 Apr 2026 08:15:07 GMT | Cyber Essentials Explained: Why It Matters More Than Ever for UK Businesses | Alex Hughes | [Read More](https://medium.com/p/ecf6c4778654) |
-| Wed, 15 Apr 2026 08:13:27 GMT | Indigenius AI is Now NDPR Compliant | CDIAL.AI | [Read More](https://medium.com/p/272d9a42a9c9) |
-| Wed, 15 Apr 2026 08:09:42 GMT | Gobuster Tutorial: Web Enumeration & Hidden Directory Discovery | ExploitHunt | [Read More](https://medium.com/p/96345a33f8f4) |
-| Wed, 15 Apr 2026 08:08:41 GMT | JANGAN SAMPAI TERLAMBAT: MENGOPTIMALKAN LOG MONITORING DALAM CYBER SECURITY STRATEGY | Nisbi Indonesia | [Read More](https://medium.com/p/dd02f7d07cd1) |
-| Wed, 15 Apr 2026 08:02:02 GMT | Your SSL Certificates Are a Public Blueprint | Fateyaly | [Read More](https://medium.com/p/8da9a6b50217) |
-| Wed, 15 Apr 2026 07:58:41 GMT | The Rise of Dark Patterns in Apps and Their Impact on Users | Alamgir Rajab | [Read More](https://medium.com/p/01ba1a08b3b6) |
-| Wed, 15 Apr 2026 07:53:38 GMT | What is a Business VPN and How do They Work? | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/5d3b5598ed76) |
-| Wed, 15 Apr 2026 07:51:48 GMT | Cisco Cihazlarda Güvenli Uzaktan Erişim: Adım Adım SSH Yapılandırması | Muhammed KESKİN | [Read More](https://medium.com/p/167b79b60409) |
