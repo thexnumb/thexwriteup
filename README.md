@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 09:49:21 GMT | Cybersecurity & Ethical Hacking Explained - Protecting the Digital World. | CodeZen | [Read More](https://medium.com/p/54ab7c7a2bb1) |
+| Wed, 15 Apr 2026 09:43:20 GMT | How Smart IT Leaders Choose MSSPs And the Intelligence That Helps Them Win | DiscoverMSPs | [Read More](https://medium.com/p/2526e961ba1a) |
+| Wed, 15 Apr 2026 09:41:21 GMT | Bridging the Gap Between Cybersecurity and Legal Discovery | Anjali Moitra Roy | [Read More](https://medium.com/p/f81810202ac4) |
+| Wed, 15 Apr 2026 09:30:53 GMT | Are Security Guards Still Relevant in a Tech-Driven Singapore? | Jane Tang | [Read More](https://medium.com/p/9e48aa79d983) |
+| Wed, 15 Apr 2026 09:28:45 GMT | Navigating the Shift: Practical AI Governance Under the EU AI Act | Aditya | [Read More](https://medium.com/p/24e6748bce71) |
+| Wed, 15 Apr 2026 09:27:25 GMT | Havenlon Series: Execution Control in the Age of AI (3/15) | Havenlon | [Read More](https://medium.com/p/9e215e2db1e4) |
+| Wed, 15 Apr 2026 09:26:51 GMT | What’s New in htmx 4? Features, Architecture & Security Deep Dive | Anubhav Bhatt | [Read More](https://medium.com/p/fceacb9f8399) |
+| Wed, 15 Apr 2026 09:26:34 GMT | Why Authentication Is a Journey Most Developers Miss | Sandeep Singh | [Read More](https://medium.com/p/3285f2dcf8a0) |
+| Wed, 15 Apr 2026 09:18:47 GMT | ️ The Digital Scorched Earth: Understanding Wiper Attacks | Amanuzzaman M | [Read More](https://medium.com/p/1cbef21d3f65) |
+| Wed, 15 Apr 2026 09:16:01 GMT | From Gaps to Governance: Your Cybersecurity Program Roadmap | Tyson Martin | [Read More](https://medium.com/p/dacd0495fcf1) |
+| Wed, 15 Apr 2026 08:57:04 GMT | Why Your Docker Container Is 1.2GB When It Should Be 80MB | Saandeep Baansod | [Read More](https://medium.com/p/7b443a90f60f) |
+| Wed, 15 Apr 2026 08:52:10 GMT | FortiClient EMS Gets a Second Zero-Day in One Week — CVE-2026–35616 Is Already Being Exploited | Ali Dak | [Read More](https://medium.com/p/469960f238cb) |
+| Wed, 15 Apr 2026 08:50:34 GMT | Construction Ransomware: How to Strengthen Security in 2026 | TSplus Academy | [Read More](https://medium.com/p/4776335f32cd) |
+| Wed, 15 Apr 2026 08:47:33 GMT | Is 2FA Enough to Secure Business Data? | Behawk Infosec | [Read More](https://medium.com/p/4649c141033c) |
+| Wed, 15 Apr 2026 08:40:58 GMT | 5 Attack Patterns Behind Most Smart Contract Exploits | Abraham | [Read More](https://medium.com/p/ec6b3f45cec5) |
+| Wed, 15 Apr 2026 08:38:54 GMT | A World Where Privacy Is No Longer | Zara Writes | [Read More](https://medium.com/p/2fa28fdadc7f) |
+| Wed, 15 Apr 2026 08:35:25 GMT | Blockchain Voting for National Elections: Architecture of Sustainability | Azamat Safarov | [Read More](https://medium.com/p/a6d06ec5dc9f) |
+| Wed, 15 Apr 2026 08:31:01 GMT | Don’t Tap That Link: The New Wave of “Urgent Account” Scams Targeting iPhone Users. | apple insides | [Read More](https://medium.com/p/f2405d7cd322) |
+| Wed, 15 Apr 2026 08:20:58 GMT | 미소스 쇼크 — AI 모델 하나가 촉발한 국제 사이버보안 위기의 1주일 | 이현종 | [Read More](https://medium.com/p/67d72d97d8a2) |
+| Wed, 15 Apr 2026 08:15:15 GMT | AI/ML security Threats(TryHackMe Room Explained — question/answers) | Sukhveer Singh | [Read More](https://medium.com/p/65891e5f1902) |
+| Wed, 15 Apr 2026 08:15:07 GMT | Cyber Essentials Explained: Why It Matters More Than Ever for UK Businesses | Alex Hughes | [Read More](https://medium.com/p/ecf6c4778654) |
+| Wed, 15 Apr 2026 08:13:27 GMT | Indigenius AI is Now NDPR Compliant | CDIAL.AI | [Read More](https://medium.com/p/272d9a42a9c9) |
 | Wed, 15 Apr 2026 08:09:42 GMT | Gobuster Tutorial: Web Enumeration & Hidden Directory Discovery | ExploitHunt | [Read More](https://medium.com/p/96345a33f8f4) |
 | Wed, 15 Apr 2026 08:02:02 GMT | Your SSL Certificates Are a Public Blueprint | Fateyaly | [Read More](https://medium.com/p/8da9a6b50217) |
 | Wed, 15 Apr 2026 07:58:41 GMT | The Rise of Dark Patterns in Apps and Their Impact on Users | Alamgir Rajab | [Read More](https://medium.com/p/01ba1a08b3b6) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Apr 2026 01:40:16 GMT | Tak Selamanya Web yang Aman “HTTPS” Itu Bebas Dari Serangan | Abdul Halim Ichwan | [Read More](https://medium.com/p/dcd19e3676cb) |
 | Wed, 15 Apr 2026 01:39:48 GMT | I Built an AI Agent That Pwns CI/CD Pipelines — Then Helps Fix Them | Oluwatobi Afolabi | [Read More](https://medium.com/p/ee8bb71cad71) |
 | Wed, 15 Apr 2026 01:23:24 GMT | TryHackMe: Offensive Security Intro Writeup | Jonathan Sanfer | [Read More](https://medium.com/p/db92ec38cfc9) |
-| Wed, 15 Apr 2026 00:38:46 GMT | Cmess — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/cf4924fcb27e) |
-| Wed, 15 Apr 2026 00:31:08 GMT | BlueHammer Isn’t a Defender Bug — It’s a Windows Design Flaw. Here’s the Real Fix. | AndrewCharalambous | [Read More](https://medium.com/p/9b22d5f8e8a3) |
-| Wed, 15 Apr 2026 00:15:33 GMT | Why Anthropic’s Claude Mythos Is Not Fearmongering but a Force Reshaping Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/92f8f0fa568f) |
-| Wed, 15 Apr 2026 00:01:02 GMT | OAuth Guide: Vulnerabilities, Attack Vectors, and Security | JPablo13 | [Read More](https://medium.com/p/ac3e078147ae) |
-| Tue, 14 Apr 2026 23:42:25 GMT | Rank 1 LLM Attack: Now Uses Your AI Email Assistant (My Story) | Mandar Karhade, MD. PhD. | [Read More](https://medium.com/p/ea4e105f1306) |
-| Tue, 14 Apr 2026 23:40:21 GMT | The Church of Malware Presents: The Most Braindead Python Botnet We’ve Ever Seen | ekomsSavior | [Read More](https://medium.com/p/376ed3a8b111) |
-| Tue, 14 Apr 2026 23:28:52 GMT | When the Safe Hands Stop Being Safe | Zac | [Read More](https://medium.com/p/4fb70ff09065) |
-| Tue, 14 Apr 2026 23:21:41 GMT | What do you mean I have to tell my future partner about my past? | iknowhowtowrite | [Read More](https://medium.com/p/1ef233a7a914) |
-| Tue, 14 Apr 2026 23:16:56 GMT | Top Crypto Recovery Insights in 2026 - CryptoRecoveryMinions.com | Doelarjohn | [Read More](https://medium.com/p/c137b0cde3dd) |
-| Tue, 14 Apr 2026 23:01:38 GMT | Reverse Engineering on CyberTalents: Solving All Easy Challenges Part 4 | Isv0x1 | [Read More](https://medium.com/p/0b006a62fdee) |
-| Tue, 14 Apr 2026 22:55:50 GMT | OpenAI vs Anthropic: AI for defensive security. Here’s what a blockchain engineer sees. | Bitresist | [Read More](https://medium.com/p/1baf4a5f8612) |
-| Tue, 14 Apr 2026 22:32:12 GMT | I Built a SOC Home Lab From Scratch as a Graduate — Here’s Everything I Learned | shinzo | [Read More](https://medium.com/p/a3c2a20dabfa) |
-| Tue, 14 Apr 2026 22:31:01 GMT | Cybersecurity in the Age of Autonomous AI: When Defense Is a Luxury Few Can Afford | Jonas Cira | [Read More](https://medium.com/p/eba7e5b2c8cd) |
-| Tue, 14 Apr 2026 22:18:01 GMT | Scam Systems Do Not Exploit Trust; They Exploit Latency | Eric Pekar | [Read More](https://medium.com/p/b414a3ec8d48) |
-| Tue, 14 Apr 2026 22:17:58 GMT | “Anonymous” Messaging is One Big Lie | Anthony Kasali | [Read More](https://medium.com/p/854e58210c65) |
-| Tue, 14 Apr 2026 22:17:51 GMT | As large language models (LLMs) are increasingly embedded into production systems, | Parth Shah | [Read More](https://medium.com/p/1b63cd86db35) |
-| Tue, 14 Apr 2026 22:16:01 GMT | The Conversation the Security Industry Keeps Having Wrong | Joshua Moses | [Read More](https://medium.com/p/6c80354e57ac) |
-| Tue, 14 Apr 2026 22:15:33 GMT | Agent Smith: Obfuscating Shellcode via Matrix Transformation(s) | Doob | [Read More](https://medium.com/p/9e45af897591) |
-| Tue, 14 Apr 2026 22:09:27 GMT | From AI Risk to Human Resilience: Building a Human-Centric AI Operating System | Dr. Margarita Bel | [Read More](https://medium.com/p/78176685f860) |
-| Tue, 14 Apr 2026 22:08:32 GMT | The Silicon Chokehold: Why AI’s Silent Security Threat and Memory Drain Could Break Tech | Tech Infoloom | [Read More](https://medium.com/p/eff94c667b59) |
-| Tue, 14 Apr 2026 22:08:05 GMT | A friend that is not | Nellywrites | [Read More](https://medium.com/p/539582c5edc5) |
-| Tue, 14 Apr 2026 22:03:49 GMT | The Last Locksmith | Harold Beeman | [Read More](https://medium.com/p/0c21e8ca200f) |
