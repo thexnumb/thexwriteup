@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 05:57:45 GMT | Breaking 2FA in WordPress: Account Takeover via CSRF in Google Authenticator | Miguel Angel Méndez Z. | [Read More](https://medium.com/p/1b01d078b4a5) |
+| Wed, 15 Apr 2026 05:55:03 GMT | Software, in a Time of Fear | deepak chandra | [Read More](https://medium.com/p/4b8322fd6ccd) |
+| Wed, 15 Apr 2026 05:44:09 GMT | Piano. Chess. | Dhanush N | [Read More](https://medium.com/p/333dd0782884) |
+| Wed, 15 Apr 2026 05:43:31 GMT | Microsoft Just Banned WireGuard, VeraCrypt and Windscribe! | Matyas Koszegi | [Read More](https://medium.com/p/24c2a317e751) |
+| Wed, 15 Apr 2026 05:34:15 GMT | GitHub — sunandasinghh/virustotal-analysis: practical threat analysis using virustotal for… | Sunandasingh | [Read More](https://medium.com/p/98c02aa7a32c) |
+| Wed, 15 Apr 2026 05:26:55 GMT | In Reality No One Talks About Networking Careers | Rajesh Sinha | [Read More](https://medium.com/p/cf10d728ded2) |
+| Wed, 15 Apr 2026 05:26:26 GMT | Construction Site Security: Protecting Assets From Ground to Completion | SecurityInsightsAU | [Read More](https://medium.com/p/b29425ae2ac9) |
+| Wed, 15 Apr 2026 05:09:34 GMT | Wazuh Server Cluster Master and Worker Load Balancing on Ubuntu Linux | Tahir hussain | [Read More](https://medium.com/p/cd9dde8a110d) |
+| Wed, 15 Apr 2026 05:05:50 GMT | WhatsApp beta for Android 2.26.15.6: what’s new? | WABetaInfo | [Read More](https://medium.com/p/c13745978386) |
+| Wed, 15 Apr 2026 05:01:04 GMT | Securing Node.js Applications After March 2026 Security Releases: A Practical Guide | Maulik Bhojani | [Read More](https://medium.com/p/9059726ce5d0) |
+| Wed, 15 Apr 2026 05:01:01 GMT | Man-in-the-Middle: Intercepting Trust in Transit | Cybersphere Official | [Read More](https://medium.com/p/009ce19f7988) |
+| Wed, 15 Apr 2026 04:59:43 GMT | What is Wireless Penetration Testing? A Complete Guide for Modern Businesses | Securis360 Inc. | [Read More](https://medium.com/p/fcf9b99b6e37) |
+| Wed, 15 Apr 2026 04:54:57 GMT | The Silent Risk of Infrastructure as Code (IaC) | Meni Tasa ( IT & CyberSecurity) | [Read More](https://medium.com/p/480ffe571418) |
+| Wed, 15 Apr 2026 04:47:32 GMT | Injection Attacks — From User Input to Full System Control | ghostyjoe | [Read More](https://medium.com/p/e17ee4034dd6) |
+| Wed, 15 Apr 2026 04:46:01 GMT | The Invisible Backdoor: Why Your Biggest Cyber Threat Isn’t Even on Your Network | jioai | [Read More](https://medium.com/p/dac5ea112b31) |
+| Wed, 15 Apr 2026 04:46:01 GMT | What Is “Quishing”? | jayanti suthar | [Read More](https://medium.com/p/7100cfc1f60f) |
+| Wed, 15 Apr 2026 04:21:34 GMT | Why it’s difficult to grow love in shame soil | Khaan | [Read More](https://medium.com/p/026935febe9e) |
+| Wed, 15 Apr 2026 04:19:14 GMT | Yahoo Technical Support Services UK | Zuerevalexander | [Read More](https://medium.com/p/bcdb794b1876) |
+| Wed, 15 Apr 2026 04:13:53 GMT | BullGuard Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/565fc4265036) |
+| Wed, 15 Apr 2026 04:00:07 GMT | Why is Storing Credentials in the .env of a Container Still a High Security Risk? | Ibnu Nugraha | [Read More](https://medium.com/p/da1405889ade) |
+| Wed, 15 Apr 2026 03:58:14 GMT | Trend Micro Customer Service Australia | Customer Support Information | [Read More](https://medium.com/p/8aaf4bd3722d) |
+| Wed, 15 Apr 2026 03:52:23 GMT | HP Printer Technical Support Australia | Customer Support Information | [Read More](https://medium.com/p/2b3daa5976ce) |
 | Wed, 15 Apr 2026 03:35:32 GMT | AI Models & Data (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/5238572995a3) |
 | Wed, 15 Apr 2026 03:31:15 GMT | Anthropic Claude Mythos — Redefining the Future of Security | Nikitha Srinivasan | [Read More](https://medium.com/p/4b3736e3aa04) |
 | Wed, 15 Apr 2026 03:13:19 GMT | Cách đăng ký 28bet an toàn: những lưu ý quan trọng cho người dùng mới | 報數十一員 | [Read More](https://medium.com/p/0f458fa6f095) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 14 Apr 2026 19:18:26 GMT | The Strategic Convergence: Architecting Global Digital Trust through ISO 27001 and Evolutionary… | Shifra Nuriel | [Read More](https://medium.com/p/258c25575381) |
 | Tue, 14 Apr 2026 19:17:58 GMT | Hacking Planes, Space, Power Grids, Boats, and Agriculture | Chris Kubecka de Medina | [Read More](https://medium.com/p/96db6e7b7f1e) |
 | Tue, 14 Apr 2026 19:11:58 GMT | Your Admin Accounts Are a Ticking Time Bomb: Here is How Privileged Access Management (PAM) Defuses… | CANIS BREAL OUAMBO | [Read More](https://medium.com/p/936f73bda3ba) |
-| Tue, 14 Apr 2026 19:04:00 GMT | 8 Signs You Need a Better Information Diet | Editorial Curator ❤️ | [Read More](https://medium.com/p/467fb4672457) |
-| Tue, 14 Apr 2026 19:03:37 GMT | Sunday - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/efee67a8a721) |
-| Tue, 14 Apr 2026 18:56:56 GMT | [THM] LLMborghini — Writeup | Bonestorm | [Read More](https://medium.com/p/2192014eb27e) |
-| Tue, 14 Apr 2026 18:54:36 GMT | HTML Fundamentals: From Structure to Security (Complete Guide + Labs) by Intelithics | Intelithics | [Read More](https://medium.com/p/578084399586) |
-| Tue, 14 Apr 2026 18:54:12 GMT | How I Earned the HTB CPTS (Certified Penetration Testing Specialist) — From Failure to 100 Points | Aung Myint | [Read More](https://medium.com/p/9f4b822db8e1) |
-| Tue, 14 Apr 2026 18:47:52 GMT | The Blida Cover-Up: How the Algerian Regime Fabricated the Narrative of Terror | Soukaina Meskine | [Read More](https://medium.com/p/b32f89317fc2) |
-| Tue, 14 Apr 2026 18:41:03 GMT | CVE-2026–39980 Analysis and POC | Yousof Nahya | [Read More](https://medium.com/p/88b026c0895d) |
-| Tue, 14 Apr 2026 18:37:53 GMT | Combating Ransomware: A Framework-Driven Approach with NIST CSF 2.0 | Ryan Cornwell | [Read More](https://medium.com/p/7cfa987ec16d) |
-| Tue, 14 Apr 2026 18:33:47 GMT | The Case for Becoming a Cloudflare Shop | Daniel Ryan Reiff | [Read More](https://medium.com/p/d4ace9acf3a5) |
-| Tue, 14 Apr 2026 18:33:09 GMT | The Data Heist: How Your Files Are Being Exploited and What You Can Do About It | Datos Drive | [Read More](https://medium.com/p/060bd4d7ac9d) |
-| Tue, 14 Apr 2026 18:33:05 GMT | Driving IT Transformation Through Generative AI Capabilities | TechGenius | [Read More](https://medium.com/p/a2019c9cfbbc) |
-| Tue, 14 Apr 2026 18:31:48 GMT | They Didn’t Hack Booking.com. They Hacked You Into Doing It Yourself. | pranav patil | [Read More](https://medium.com/p/2c177ea93807) |
-| Tue, 14 Apr 2026 18:29:13 GMT | In the rapidly growing ecosystem of Telegram, group management has become increasingly challenging. | Rohan Alvesh | [Read More](https://medium.com/p/ff109809f4ee) |
-| Tue, 14 Apr 2026 18:22:58 GMT | File Upload Vulnerabilities | ANXS3C | [Read More](https://medium.com/p/246f341580b2) |
-| Tue, 14 Apr 2026 18:22:04 GMT | The API Grand Prix: The Sabotage of the Slog and the Victory of Structure | marius-ciclistu | [Read More](https://medium.com/p/7a08b80d4ec2) |
-| Tue, 14 Apr 2026 18:15:17 GMT | From Recon to Root: My Hands-On Walkthrough of Vulnversity on TryHackMe | Amnah | [Read More](https://medium.com/p/66e696a53830) |
-| Tue, 14 Apr 2026 18:14:53 GMT | New Fire Safety Regulations 2026 | Ussgluk | [Read More](https://medium.com/p/2695491482c2) |
-| Tue, 14 Apr 2026 18:14:25 GMT | Retrieval Architecture: Building Entities the AI Is Forced to Present | Lee Sharks | [Read More](https://medium.com/p/33a39b7c7b26) |
-| Tue, 14 Apr 2026 18:13:44 GMT | Fake Google Meet Update Page Tricks Users Into Enrolling Devices for Remote Hijacking | Anirudh Singh | [Read More](https://medium.com/p/cbc818c6c7d4) |
-| Tue, 14 Apr 2026 18:07:26 GMT | Catching a cheating spouse | Michael Parks | [Read More](https://medium.com/p/e3626e0d532f) |
-| Tue, 14 Apr 2026 18:06:22 GMT | Fraud in the Digital Age: The Silent Threat We Keep Ignoring | Abel Fweshi | [Read More](https://medium.com/p/c9f501bd96f3) |
-| Tue, 14 Apr 2026 18:04:37 GMT | Understanding Dark Web Anonymous Browsing and Online Privacy | Tor BBB | [Read More](https://medium.com/p/d36d8c17fc37) |
