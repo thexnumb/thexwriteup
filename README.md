@@ -12,7 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 19:59:16 GMT | What If I Don’t Figure It Out? | Ayokunle Agbabiaka | [Read More](https://medium.com/p/fcdc333c272d) |
+| Wed, 15 Apr 2026 19:54:45 GMT | Why Passwords Are a Business Liability — And How Public Key Cryptography Is the Cure | Petersmuditha | [Read More](https://medium.com/p/0613da194e4f) |
+| Wed, 15 Apr 2026 19:43:30 GMT | Prompt Engineering Room Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/2af90b2adb53) |
+| Wed, 15 Apr 2026 19:43:26 GMT | FunboxEasyEnum Walkthrough (Proving ground-Play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/a5bdf68f7e66) |
+| Wed, 15 Apr 2026 19:40:28 GMT | But What If I Really Did Win The Lottery? | Pamella Richards | [Read More](https://medium.com/p/7d0825f32040) |
+| Wed, 15 Apr 2026 19:40:21 GMT | Code is Law: Why Law Students Should Learn to Hack | Elcankarimli | [Read More](https://medium.com/p/2e1afd023179) |
+| Wed, 15 Apr 2026 19:31:01 GMT | Our Production Went Down at 2 AM Because of SSL — Here’s the System That Fixed It | Ashish Singh | [Read More](https://medium.com/p/399e33dcb438) |
+| Wed, 15 Apr 2026 19:31:00 GMT | How to Run Whonix on macOS Apple Silicon (+ Pre-Built Images Included) | Karol Czubernat | [Read More](https://medium.com/p/8b92a4134011) |
+| Wed, 15 Apr 2026 19:28:43 GMT | When Security Failures Become Legal Liabilities: Mapping OWASP Top 10 to GDPR and DPDP | Chhayashree | [Read More](https://medium.com/p/002e87b986f6) |
+| Wed, 15 Apr 2026 19:18:42 GMT | How Mythos outsmarted the Cyber world? | Outman BAZ | [Read More](https://medium.com/p/02cb96a80ac3) |
+| Wed, 15 Apr 2026 19:16:19 GMT | MYTHOS AND PROJECT GLASSWING | R. F. NÖRIS | [Read More](https://medium.com/p/281cdd55a816) |
+| Wed, 15 Apr 2026 19:13:32 GMT | An AI Agent Hacked McKinsey in 2 Hours. | Adam Frąckowiak | [Read More](https://medium.com/p/50bffdabe837) |
+| Wed, 15 Apr 2026 19:09:30 GMT | Data Breaches Every Minute: Why Human Error Remains the Biggest Cybersecurity Threat | Mejbankadir | [Read More](https://medium.com/p/acecf6145521) |
+| Wed, 15 Apr 2026 19:06:33 GMT | Flutter Based IOS Application SSLPinning Bypass | ANURAG BHOIR06 | [Read More](https://medium.com/p/37b1c84332fa) |
+| Wed, 15 Apr 2026 19:05:26 GMT | Day 24: Introduction to SIEM | Siddhesh Patil | [Read More](https://medium.com/p/bd27805f8321) |
+| Wed, 15 Apr 2026 19:04:52 GMT | A CISO’s Take on “Your Agent Is Mine” | Nicolas Corder | [Read More](https://medium.com/p/0504331a94f5) |
+| Wed, 15 Apr 2026 19:03:58 GMT | 7 Prompt Injection Attacks Researchers Proved Are Real in 2026 | The Cyber Archive | [Read More](https://medium.com/p/5b49a9729e57) |
+| Wed, 15 Apr 2026 19:01:56 GMT | Antivirus is Failing — Here’s How AI is Detecting Malware with 98% Accuracy | Pratham Sorte | [Read More](https://medium.com/p/92eee8715b40) |
+| Wed, 15 Apr 2026 19:00:45 GMT | Deleteduser.com —a $15 PII Magnet | Mike Sheward | [Read More](https://medium.com/p/c4396eb21061) |
+| Wed, 15 Apr 2026 18:53:08 GMT | Did waste management company stole my bike? | Korawich Kavee | [Read More](https://medium.com/p/ab708f7b32a0) |
+| Wed, 15 Apr 2026 18:52:31 GMT | LetsDefend SOC338 Lumma Stealer/DLL Side-Loading via Click Fix Phishing Walkthrough | Kanger | [Read More](https://medium.com/p/3a3bfabbb081) |
+| Wed, 15 Apr 2026 18:51:39 GMT | CyberDefenders — MrRobot Lab Writeup | JBXSec | [Read More](https://medium.com/p/3b991e38fe25) |
+| Wed, 15 Apr 2026 18:42:45 GMT | Day 26: Securing the Keys — Privileged Access Management (PAM) and AD Tiering | Ndu | [Read More](https://medium.com/p/d94d8933b539) |
+| Wed, 15 Apr 2026 18:41:01 GMT | Why Security Ends Before the Model Begins | Forg3t Protocol - AI Unlearning | [Read More](https://medium.com/p/15e0e9de6791) |
 | Wed, 15 Apr 2026 18:39:57 GMT | Why Cybersecurity Content Needs Better Storytelling | Digital Defense | [Read More](https://medium.com/p/a0ea43ce9951) |
+| Wed, 15 Apr 2026 18:35:43 GMT | Day 25: The Keys to the Kingdom — Active Directory and Identity Attacks | Ndu | [Read More](https://medium.com/p/3b1592a909ac) |
 | Wed, 15 Apr 2026 18:34:51 GMT | Top 50 Global Cybersecurity Thought Leaders Experts | Dinis Guarda | [Read More](https://medium.com/p/b967aca7da90) |
 | Wed, 15 Apr 2026 18:32:21 GMT | Your Locked iPhone Isn’t as Locked as You Think — YouTube Demo | Selorm Adjabeng | [Read More](https://medium.com/p/707c4e9824b5) |
 | Wed, 15 Apr 2026 18:29:13 GMT | Cybersecurity in the Digital Age: Challenges, Strategies, and the Road Ahead | Harshit Goyal | [Read More](https://medium.com/p/ec7edad965a2) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Apr 2026 13:35:17 GMT | Lian_Yu — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/295f1e6efc6d) |
 | Wed, 15 Apr 2026 13:29:44 GMT | When Encryption Isn’t Enough: The New BitLocker Vulnerability Explained | Sharanraju | [Read More](https://medium.com/p/5f9d4aee4809) |
 | Wed, 15 Apr 2026 13:26:01 GMT | How to Win a Man’s Heart: Ask for Time, Appreciation, and Money | Lilyana | [Read More](https://medium.com/p/311ca8d1c54e) |
-| Wed, 15 Apr 2026 13:25:21 GMT | SOC-Challenge-Day4 | Zuhair | [Read More](https://medium.com/p/86606b5e66e5) |
-| Wed, 15 Apr 2026 13:24:27 GMT | SOC-Challenge-Day3 | Zuhair | [Read More](https://medium.com/p/5e086f26bc3a) |
-| Wed, 15 Apr 2026 13:12:22 GMT | What Is the HITRUST Security Framework and Why Does It Matter? | Cyber Cops | [Read More](https://medium.com/p/8f679b69223d) |
-| Wed, 15 Apr 2026 13:12:02 GMT | How to Create Google App Password | Ravish Vishwakarma | [Read More](https://medium.com/p/42f939a62124) |
-| Wed, 15 Apr 2026 13:04:33 GMT | What Is Phishing And How Do You Spot It In 2026? | Sachdevkabir | [Read More](https://medium.com/p/4b81b1a2bece) |
-| Wed, 15 Apr 2026 13:02:58 GMT | The Future of Security: Why Solar-Powered Surveillance Is Replacing Traditional Guarding | ADORA Private Security | [Read More](https://medium.com/p/5d1e18ff4353) |
-| Wed, 15 Apr 2026 12:59:47 GMT | not lazy just lost — A student reality | Somya Pawar | [Read More](https://medium.com/p/36c9da3f42c1) |
-| Wed, 15 Apr 2026 12:59:26 GMT | How to Start Cybersecurity as a Beginner in 2026 (Step-by-Step Guide) | 3xploiter | [Read More](https://medium.com/p/d8209a69a51b) |
-| Wed, 15 Apr 2026 12:53:47 GMT | My Certified Red Team Professional (CRTP) Journey ️ | Aalekh | [Read More](https://medium.com/p/e0def7908418) |
-| Wed, 15 Apr 2026 12:50:32 GMT | Manufacturing Identity Security Is No Longer an IT Problem — It’s a Business Risk | Openiam | [Read More](https://medium.com/p/c0160defac9d) |
-| Wed, 15 Apr 2026 12:49:27 GMT | Junior Pentester labs of try hack me; main content | Abdulnafayk | [Read More](https://medium.com/p/86599a83be31) |
-| Wed, 15 Apr 2026 12:47:16 GMT | Hunting For xmlrpc: Uncovering WordPress XML-RPC & Admin Path Disclosures | Vanshrathore | [Read More](https://medium.com/p/b5707b8f5424) |
-| Wed, 15 Apr 2026 12:44:48 GMT | My First Accepted HackerOne Report: Finding Exposed Weglot API Keys Across 5 Targets | Ziadali | [Read More](https://medium.com/p/fb14ecda869b) |
-| Wed, 15 Apr 2026 12:33:58 GMT | My First Bug Bounty: Finding Memory DoS Vulnerabilities in Circle’s Arc Blockchain Consensus Engine | Veríssimo | [Read More](https://medium.com/p/ab96f4f8d9f1) |
-| Wed, 15 Apr 2026 12:32:46 GMT | How a Simple Signup Feature Turned Into a Malware Delivery Vector (My First Paid Bug) | AbdoXoner | [Read More](https://medium.com/p/279a760c8ba2) |
-| Wed, 15 Apr 2026 12:23:09 GMT | JESUS WEPT | Olusegun Ajayi | [Read More](https://medium.com/p/09752863b1ef) |
-| Wed, 15 Apr 2026 12:13:35 GMT | Arbitrary File Upload via “External Files” feature allows client-side Remote Code Execution (RCE) | venomnis | [Read More](https://medium.com/p/573efab60f51) |
-| Wed, 15 Apr 2026 12:11:09 GMT | The 2026 Career Pivot: Is a Cyber Security Diploma Course in Delhi Your Golden Ticket? | Varun Papnai | [Read More](https://medium.com/p/a57b23134d06) |
-| Wed, 15 Apr 2026 11:57:50 GMT | Getting Started with Network Pentesting: Setup Lab VirtualBox + Kali Linux | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/a56924c849b8) |
-| Wed, 15 Apr 2026 11:55:10 GMT | Baggage Scanner: The Silent Guardian of Modern Security | Etradefia | [Read More](https://medium.com/p/7ec29a7fde7d) |
-| Wed, 15 Apr 2026 11:50:26 GMT | Consulting Firm For Aircraft Certification | Martin Solutions | [Read More](https://medium.com/p/632ab4ae82f9) |
-| Wed, 15 Apr 2026 11:49:57 GMT | Is BBA Information Technology Worth It for Future Careers? | SICSR Pune | [Read More](https://medium.com/p/37da34baadd7) |
-| Wed, 15 Apr 2026 11:44:25 GMT | The 50 Percent Delusion: Why Your Quest for the Big Move is Making You Exit Liquidity | Lutenant | [Read More](https://medium.com/p/8afb46c1ff98) |
-| Wed, 15 Apr 2026 11:43:08 GMT | APT SideCopy Exploits CVE-2023–38831 | Seyit | [Read More](https://medium.com/p/d78a45b71d78) |
-| Wed, 15 Apr 2026 11:42:59 GMT | Career Opportunities After Completing an Industry-Recognised Cyber Security Certification in… | logging security | [Read More](https://medium.com/p/dc2e6550d785) |
