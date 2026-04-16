@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Apr 2026 19:11:30 GMT | Tenable VM: Authentication Successful but Credentialed Scan Shows No | Lionel Agishi | [Read More](https://medium.com/p/b3742fece9a1) |
+| Thu, 16 Apr 2026 19:11:21 GMT | Hiding root detection using eBPF — kernel-level syscall interception | Haxymad | [Read More](https://medium.com/p/f0795942078d) |
+| Thu, 16 Apr 2026 19:09:41 GMT | A Simple Guide to Upgrading Old Computers and Laptops | Adrian iWrite | [Read More](https://medium.com/p/89b9fec56c16) |
+| Thu, 16 Apr 2026 19:01:30 GMT | The Silent Exfiltration Problem Nobody Is Watching | Travis Ray Caverhill | [Read More](https://medium.com/p/4b429613b100) |
+| Thu, 16 Apr 2026 18:57:34 GMT | Construindo Aplicações de IA Mais Seguras: Conheça o Secure Prompt Engineering Framework (SPEF) | Guga | [Read More](https://medium.com/p/4ff3a1ccb8b4) |
+| Thu, 16 Apr 2026 18:56:01 GMT | The Hidden Security Flaw in Your Java String Comparisons | Helitha Pravin | [Read More](https://medium.com/p/f922f5706306) |
+| Thu, 16 Apr 2026 18:50:11 GMT | Samurai HackSmarter | Mohamed Soliman | [Read More](https://medium.com/p/75474ad21ae8) |
+| Thu, 16 Apr 2026 18:49:35 GMT | Integer Overflow: I Thought We Fixed This | Nahmstay | [Read More](https://medium.com/p/10cce3376a52) |
+| Thu, 16 Apr 2026 18:49:22 GMT | Reliable Event Services London: What to Look for When Planning a Seamless Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/718a991b4d1b) |
+| Thu, 16 Apr 2026 18:48:55 GMT | GPT-5.4 Cyber vs. Claude Mythos: The AI Cyberwar Nobody Asked For But Everyone Needs to Understand | Motasem Hamdan | [Read More](https://medium.com/p/9f3a855cce14) |
+| Thu, 16 Apr 2026 18:47:19 GMT | 5 Must Know Cyber Security Trends | Techdotblogs | [Read More](https://medium.com/p/2d844ec4e06f) |
+| Thu, 16 Apr 2026 18:45:06 GMT | Day 28: The Weakest Link — Supply Chain Attacks and Third-Party Risk Management (TPRM) | Ndu | [Read More](https://medium.com/p/935a6236efc6) |
+| Thu, 16 Apr 2026 18:41:31 GMT | Wordfence Intelligence Weekly WordPress Vulnerability Report (April 6, 2026 to April 12, 2026) | Wordfence | [Read More](https://medium.com/p/7b781b22f67b) |
+| Thu, 16 Apr 2026 18:38:38 GMT | Day 27: The Modern Paradigm — Zero Trust Architecture (ZTA) | Ndu | [Read More](https://medium.com/p/099c0ba2b45b) |
+| Thu, 16 Apr 2026 18:38:07 GMT | OpenAI Launches GPT-5.4-Cyber for Verified Security Defenders | SOCFortress | [Read More](https://medium.com/p/ef48d2fe6b4a) |
+| Thu, 16 Apr 2026 18:33:29 GMT | The Why Behind Vault Enterprise | Raymon Epping | [Read More](https://medium.com/p/ed6e93960e7b) |
+| Thu, 16 Apr 2026 18:22:59 GMT | Introducción a la API de Windows para el Desarrollo de Malware — Parte 4. | Dalton | [Read More](https://medium.com/p/82335b1c8c66) |
+| Thu, 16 Apr 2026 18:19:48 GMT | Building a RAG Assistant for Pentestings | SK13 | [Read More](https://medium.com/p/6abd885c77c5) |
+| Thu, 16 Apr 2026 18:07:03 GMT | How to Stay Safe From Hackers: (Simple steps that actually work) | Abhishek Kumar Maury | [Read More](https://medium.com/p/fae3a1480dfe) |
+| Thu, 16 Apr 2026 18:03:09 GMT | Part 2 : Data Privacy and Security in the Age of Edge AI | Protégé IGDTUW | [Read More](https://medium.com/p/69d1a65b37a1) |
+| Thu, 16 Apr 2026 18:02:16 GMT | Try Hack Me- Blue Walkthrough | PulseEinher | [Read More](https://medium.com/p/2d2ac6666de7) |
 | Thu, 16 Apr 2026 17:49:28 GMT | OWASP Top 10:2025 — What Every Developer and Security Student Needs to Know | Laziz Ilyosov | [Read More](https://medium.com/p/e4d049e67053) |
 | Thu, 16 Apr 2026 17:46:51 GMT | Modern businesses rely on a complex network of vendors, suppliers, and service providers. | John Doe 007 | [Read More](https://medium.com/p/4f9645bf5982) |
 | Thu, 16 Apr 2026 17:45:00 GMT | Stop Selling “Cloud-First” to Indonesia: It’s a Hybrid Reality | outofspace | [Read More](https://medium.com/p/be24f43be839) |
@@ -22,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 17:33:32 GMT | TryHackMe - LLM Security - WriteUp | Axoloth | [Read More](https://medium.com/p/94d0f99ac45c) |
 | Thu, 16 Apr 2026 17:29:47 GMT | After Mythos: The Hype, the Reality, and Why the System Beats the Model | Jihoon Jeong | [Read More](https://medium.com/p/6ebd8cd2de4e) |
 | Thu, 16 Apr 2026 17:28:41 GMT | When a PDF Isn’t a PDF: Following a Real-World Attack Flow | Elie TAKLIFI | [Read More](https://medium.com/p/6a933968f52f) |
+| Thu, 16 Apr 2026 17:15:49 GMT | 7. Limitações, trade-offs e realidade | Rudson Ribeiro Alves | [Read More](https://medium.com/p/987058409fbe) |
 | Thu, 16 Apr 2026 17:15:33 GMT | CyberStrikeAI Deep Dive - AI for Modern Security Testing | Pentester Club | [Read More](https://medium.com/p/4ad1a6089b6a) |
 | Thu, 16 Apr 2026 17:12:47 GMT | Quantum Computers May Break Bitcoin Security Sooner Than Expected, Google Warns | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/572344ea9ae2) |
 | Thu, 16 Apr 2026 17:01:04 GMT | You’ve Deleted Something Honest Before | Keno Obe | [Read More](https://medium.com/p/e2cdc8067d7e) |
@@ -51,6 +73,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 15:18:11 GMT | How HTTPS Actually Works ? | NineTales | [Read More](https://medium.com/p/bc484cb8692a) |
 | Thu, 16 Apr 2026 15:03:48 GMT | How ASRBD Protects Bangladesh’s Digital Frontier | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/98d1da7f3719) |
 | Thu, 16 Apr 2026 14:59:16 GMT | [Bug Bounty] I Got Tired of Running the Same 40 Tests. So I Built an AI That Does It For Me. | N1neKitsune | [Read More](https://medium.com/p/16ce35059267) |
+| Thu, 16 Apr 2026 14:58:15 GMT | April 2026 Microsoft Security Update Cycle | Sovereign Order of Enigmatic Republics: ZadienLabs | [Read More](https://medium.com/p/2230378ebfa7) |
 | Thu, 16 Apr 2026 14:54:05 GMT | Understanding Economic Security: A Global Overview | Huma Ejaz | [Read More](https://medium.com/p/d490d6edc966) |
 | Thu, 16 Apr 2026 14:52:08 GMT | How to Build a Risk Register | oussama | [Read More](https://medium.com/p/a7ed8fd6717c) |
 | Thu, 16 Apr 2026 14:47:32 GMT | From Cron Exploitation to Shell Escape: OverTheWire Bandit (Levels 23–33) | Ahmed Eldkrory | [Read More](https://medium.com/p/1656d8be3d4c) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 12:48:18 GMT | The Threat Is Already Inside | Scottcmcmahan | [Read More](https://medium.com/p/ec21a36e6c38) |
 | Thu, 16 Apr 2026 12:45:34 GMT | How to Hire an Ethical Hacker in 2026 to Strengthen Cybersecurity | letsremotify | [Read More](https://medium.com/p/e50dfbdfad8b) |
 | Thu, 16 Apr 2026 12:43:01 GMT | NTLM Relay: The Attack That Turns Your Network Against Itself | Garrett Stimpson | [Read More](https://medium.com/p/6eeba27c341b) |
-| Thu, 16 Apr 2026 12:42:49 GMT | Top 10 Highest paid Cyber Security jobs in india | cyber security Updates | [Read More](https://medium.com/p/032b9ce901c7) |
-| Thu, 16 Apr 2026 12:37:41 GMT | Kerberoasting: Why Your AD Service Accounts Are Already Toast | Garrett Stimpson | [Read More](https://medium.com/p/977a836de9d2) |
-| Thu, 16 Apr 2026 12:34:45 GMT | I Was ”Ready” for My Pentesting Exam. I Wasn’t. Here’s What Changed. | ProwlSec | [Read More](https://medium.com/p/c6e683080bfb) |
-| Thu, 16 Apr 2026 12:21:49 GMT | The Biggest Cybersecurity Myths Companies Still Believe in 2026 | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/be647eb78a6d) |
-| Thu, 16 Apr 2026 12:21:11 GMT | En Normandie, un incendie peut tout changer en 3 minutes | Fatou Bandia | [Read More](https://medium.com/p/1c88998d3fae) |
-| Thu, 16 Apr 2026 12:16:52 GMT | Apple Company Let Someone Steal My Identity | Maria Johnsen | [Read More](https://medium.com/p/702455d55ff9) |
-| Thu, 16 Apr 2026 12:14:55 GMT | TryHackMe - Checkpoint - WriteUp | Axoloth | [Read More](https://medium.com/p/6e8e4783af2b) |
-| Thu, 16 Apr 2026 12:12:55 GMT | How Microsoft Vaporized a Trillion Dollars, Pt. 4 | Axel Rietschin | [Read More](https://medium.com/p/f41e2fdf039f) |
-| Thu, 16 Apr 2026 12:12:07 GMT | Why a Zero-Wipe Approach Is Changing Entra ID Device Migration | Opsole Migrate | [Read More](https://medium.com/p/cad9b35ed7a9) |
-| Thu, 16 Apr 2026 12:10:17 GMT | Cross-site WebSocket Hijacking ; Lab Write-up | oussama | [Read More](https://medium.com/p/22d056edfbdd) |
-| Thu, 16 Apr 2026 12:10:06 GMT | A Comprehensive Guide to Generative AI Technologies | Davin Convay | [Read More](https://medium.com/p/421d55e6ac86) |
-| Thu, 16 Apr 2026 12:09:14 GMT | Investigating GotoHTTP on Windows: Behavior, Forensic Artifacts & Detection | Chicken0248 | [Read More](https://medium.com/p/615f0c427034) |
-| Thu, 16 Apr 2026 11:58:15 GMT | The Story Before the System | Tom Yonashiro | [Read More](https://medium.com/p/d4cc534a02c5) |
-| Thu, 16 Apr 2026 11:57:37 GMT | Beyond Firewalls: Building Intelligent Cybersecurity Systems for AI-Driven Threat Landscapes | Anayamehta | [Read More](https://medium.com/p/a19202559d73) |
-| Thu, 16 Apr 2026 11:57:06 GMT | Allen Bradley 5069–OB16 | Asteamtechno | [Read More](https://medium.com/p/447e7ee4604a) |
-| Thu, 16 Apr 2026 11:56:34 GMT | What Is a Web Application Security Audit (And Does Your Business Need One)? | Fowsi Mohamoud Dayib | [Read More](https://medium.com/p/8976e53c4a4e) |
-| Thu, 16 Apr 2026 11:55:10 GMT | Title: The Technical Buffer: | Social media Guide | [Read More](https://medium.com/p/37faf89e80b1) |
-| Thu, 16 Apr 2026 11:54:39 GMT | Is Answering Unknown Caller Dangerous? | John Michael Villegas | [Read More](https://medium.com/p/83555b1acb17) |
-| Thu, 16 Apr 2026 11:32:59 GMT | Investigating a Real-World Microsoft Exchange Exploit Attempt (CVE-2022–41082) | Daniel John | [Read More](https://medium.com/p/fb0ea4cdb6c4) |
-| Thu, 16 Apr 2026 11:32:16 GMT | Beyond the Furnace: How Digital Refractories and Smart Manufacturing are Transforming Global Heavy… | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/bd07cfeebe26) |
-| Thu, 16 Apr 2026 11:10:17 GMT | The $197 Million Heist That Said “Sorry”: 4 Surprising Lessons from the Euler Finance Attack | Ericjo | [Read More](https://medium.com/p/dfb9ee722a66) |
-| Thu, 16 Apr 2026 11:08:25 GMT | Writing SEO Headlines That Convert | Jellyfr | [Read More](https://medium.com/p/12642fa041b2) |
-| Thu, 16 Apr 2026 11:01:01 GMT | Understanding CWE-1391: Use of Weak Credentials | Walter Moar | [Read More](https://medium.com/p/2d93f656670c) |
