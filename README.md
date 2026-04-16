@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Apr 2026 06:00:20 GMT | SAP Consulting Services in India to Empower Digital Transformation | Denpro Technologies | [Read More](https://medium.com/p/754449e8dbca) |
+| Thu, 16 Apr 2026 05:56:38 GMT | Chatbot Pentesting Guide(Credit -deepconverse.com) | Jatin  yadav | [Read More](https://medium.com/p/6578fa070807) |
+| Thu, 16 Apr 2026 05:47:58 GMT | The Growing Need for Professional Security in Urban Areas | Henry Wilson | [Read More](https://medium.com/p/4fd512597985) |
+| Thu, 16 Apr 2026 05:42:58 GMT | The Silent Battlefield: How Cyber Laws Are Struggling to Keep Up with Modern Cyberwarfare | Meghshyam Kimmatkar | [Read More](https://medium.com/p/8a85737679e4) |
+| Thu, 16 Apr 2026 05:38:51 GMT | Inside GPT-5.4-Cyber: OpenAI’s New Secret Weapon for Security Defenders | Divanshu | [Read More](https://medium.com/p/845daa714cdd) |
+| Thu, 16 Apr 2026 05:35:42 GMT | Internet Information Services ( ISS ) | Kamalatluxanov | [Read More](https://medium.com/p/d2cefd87a1ba) |
+| Thu, 16 Apr 2026 05:32:22 GMT | Best Cyber Security Training Institute in Dilsukhnagar Hyderabad — Why Cyberaegis is Your Top… | Raj kumar | [Read More](https://medium.com/p/51991b39d7ae) |
+| Thu, 16 Apr 2026 05:30:58 GMT | Server-Side Request Forgery (SSRF) — Accessing Internal Systems Like an Insider | ghostyjoe | [Read More](https://medium.com/p/91dd556971ae) |
+| Thu, 16 Apr 2026 05:29:29 GMT | Top AI Auditing Tools and Techniques to Secure Your Business | Nishant | [Read More](https://medium.com/p/22df8fc56dee) |
+| Thu, 16 Apr 2026 05:27:58 GMT | Is Your AI Framework Future-Proof? 5 Steps to Scalable Oversight | Aditya | [Read More](https://medium.com/p/11b345ec1748) |
+| Thu, 16 Apr 2026 05:26:01 GMT | ⚙️ 09. — Insecure Direct Object References (IDOR) | The4v1 | [Read More](https://medium.com/p/db6a4d571e16) |
+| Thu, 16 Apr 2026 05:23:44 GMT | How Quantum Communication Could Make Our Networks Virtually Unhackable | under acknowledged | [Read More](https://medium.com/p/60135d06c1a3) |
+| Thu, 16 Apr 2026 05:21:42 GMT | Authentication Vulnerabilities Lab 05 | Mohammed Fahad | [Read More](https://medium.com/p/7a15f50b228b) |
+| Thu, 16 Apr 2026 05:21:01 GMT | ⚙️ 08. — User ID controlled by request parameter with password disclosure | The4v1 | [Read More](https://medium.com/p/1f56ff333994) |
+| Thu, 16 Apr 2026 05:20:50 GMT | Choosing Courage Over Comfort: Who Cares? | Sandy Maximus | [Read More](https://medium.com/p/658133898cf3) |
+| Thu, 16 Apr 2026 05:16:36 GMT | How to Customize WordPress Password Protected Screen [Step-by-Step] | Hamza Hanif | [Read More](https://medium.com/p/6c6ab7b8e45b) |
+| Thu, 16 Apr 2026 05:06:01 GMT | What UX design taught me about security, betrayal sensitivity, and hypervigilance. | Monika Tomanek | [Read More](https://medium.com/p/dff00b6a830c) |
+| Thu, 16 Apr 2026 05:05:42 GMT | Outlook Customer Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/51e1a50b918e) |
+| Thu, 16 Apr 2026 05:00:09 GMT | Yahoo Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/85b284c5b924) |
+| Thu, 16 Apr 2026 04:59:21 GMT | Behind Every Smooth App: The Power of Software Testing | MCA Blog | [Read More](https://medium.com/p/f88d4918edbf) |
+| Thu, 16 Apr 2026 04:54:32 GMT | F-secure Support Number Australia | Customer Support Information | [Read More](https://medium.com/p/efef2516cbc2) |
+| Thu, 16 Apr 2026 04:51:02 GMT | Session Fixation: The Attack Before Login Happens | Cybersphere Official | [Read More](https://medium.com/p/e2b80bc0585f) |
+| Thu, 16 Apr 2026 04:49:07 GMT | Tuta Customer Support Number Australia | Customer Support Information | [Read More](https://medium.com/p/d8d641fcb028) |
+| Thu, 16 Apr 2026 04:44:04 GMT | When Network Scanning Crosses the Line: Nmap Mistakes That Can Land You in Trouble | pavani | [Read More](https://medium.com/p/d4921238fe97) |
+| Thu, 16 Apr 2026 04:36:19 GMT | Windows Active Directory Flaw Enables Remote Code Execution (CVE-2026-33826) | Aju Deb | [Read More](https://medium.com/p/04968705df96) |
+| Thu, 16 Apr 2026 04:01:07 GMT | GDDC Spring 2026 — Red Team | matt | [Read More](https://medium.com/p/ec8594b065eb) |
 | Thu, 16 Apr 2026 03:41:29 GMT | How Python Powers Cybersecurity: Detecting Hackers in Real Time | Husseinzabiba | [Read More](https://medium.com/p/732af457f647) |
 | Thu, 16 Apr 2026 03:39:41 GMT | Infosec Basics: OSI Model (And why you should care) | pkin1t | [Read More](https://medium.com/p/eb809bdf9800) |
 | Thu, 16 Apr 2026 03:36:30 GMT | Implementasi Secure Programming pada KAYU Berdasarkan Standar OWASP Top 10 | Rakabima Rusdianto | [Read More](https://medium.com/p/a8e8abd8fa31) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Apr 2026 19:04:52 GMT | A CISO’s Take on “Your Agent Is Mine” | Nicolas Corder | [Read More](https://medium.com/p/0504331a94f5) |
 | Wed, 15 Apr 2026 19:03:58 GMT | 7 Prompt Injection Attacks Researchers Proved Are Real in 2026 | The Cyber Archive | [Read More](https://medium.com/p/5b49a9729e57) |
 | Wed, 15 Apr 2026 19:01:56 GMT | Antivirus is Failing — Here’s How AI is Detecting Malware with 98% Accuracy | Pratham Sorte | [Read More](https://medium.com/p/92eee8715b40) |
-| Wed, 15 Apr 2026 19:00:45 GMT | Deleteduser.com —a $15 PII Magnet | Mike Sheward | [Read More](https://medium.com/p/c4396eb21061) |
-| Wed, 15 Apr 2026 18:53:08 GMT | Did waste management company stole my bike? | Korawich Kavee | [Read More](https://medium.com/p/ab708f7b32a0) |
-| Wed, 15 Apr 2026 18:52:31 GMT | LetsDefend SOC338 Lumma Stealer/DLL Side-Loading via Click Fix Phishing Walkthrough | Kanger | [Read More](https://medium.com/p/3a3bfabbb081) |
-| Wed, 15 Apr 2026 18:51:39 GMT | CyberDefenders — MrRobot Lab Writeup | JBXSec | [Read More](https://medium.com/p/3b991e38fe25) |
-| Wed, 15 Apr 2026 18:42:45 GMT | Day 26: Securing the Keys — Privileged Access Management (PAM) and AD Tiering | Ndu | [Read More](https://medium.com/p/d94d8933b539) |
-| Wed, 15 Apr 2026 18:41:01 GMT | Why Security Ends Before the Model Begins | Forg3t Protocol - AI Unlearning | [Read More](https://medium.com/p/15e0e9de6791) |
-| Wed, 15 Apr 2026 18:39:57 GMT | Why Cybersecurity Content Needs Better Storytelling | Digital Defense | [Read More](https://medium.com/p/a0ea43ce9951) |
-| Wed, 15 Apr 2026 18:35:43 GMT | Day 25: The Keys to the Kingdom — Active Directory and Identity Attacks | Ndu | [Read More](https://medium.com/p/3b1592a909ac) |
-| Wed, 15 Apr 2026 18:34:51 GMT | Top 50 Global Cybersecurity Thought Leaders Experts | Dinis Guarda | [Read More](https://medium.com/p/b967aca7da90) |
-| Wed, 15 Apr 2026 18:32:21 GMT | Your Locked iPhone Isn’t as Locked as You Think — YouTube Demo | Selorm Adjabeng | [Read More](https://medium.com/p/707c4e9824b5) |
-| Wed, 15 Apr 2026 18:29:13 GMT | Cybersecurity in the Digital Age: Challenges, Strategies, and the Road Ahead | Harshit Goyal | [Read More](https://medium.com/p/ec7edad965a2) |
-| Wed, 15 Apr 2026 18:27:55 GMT | An AI model just found a 27-year-old bug in OpenBSD. | Stanislav Klevtsov | [Read More](https://medium.com/p/f0fad8a21e79) |
-| Wed, 15 Apr 2026 18:12:18 GMT | Automating Quarantine in ms365 | Dave Ng'ang'a | [Read More](https://medium.com/p/a8198f6c15b7) |
-| Wed, 15 Apr 2026 18:11:42 GMT | Free Password Generator 2026 — Create Strong Secure Passwords Instantly | FreeAITools | [Read More](https://medium.com/p/2053aeb819aa) |
-| Wed, 15 Apr 2026 18:11:40 GMT | A Real SSRF Story from HackerOne (Featuring IPv6 + Redirects) | Red Darkin | [Read More](https://medium.com/p/9aa5e2ad8c2e) |
-| Wed, 15 Apr 2026 18:07:39 GMT | Challenge #6 Solution: Using GitHub Secrets Securely in GitHub Actions | Atharva Bapat | [Read More](https://medium.com/p/e2aff029c773) |
-| Wed, 15 Apr 2026 17:55:01 GMT | Beyond Encryption: Obfuscation, Tokenization, and Data Masking | Mahdi | [Read More](https://medium.com/p/43e3c8d2991f) |
-| Wed, 15 Apr 2026 17:53:29 GMT | The Signal Beneath The Pixels | Jude Canady | [Read More](https://medium.com/p/e411da44543d) |
-| Wed, 15 Apr 2026 17:45:31 GMT | Google Big Sleep: The End of Human Hackers? | Shahzaib | [Read More](https://medium.com/p/7bdd955aefe7) |
-| Wed, 15 Apr 2026 17:41:25 GMT | “Bug Bounty Bootcamp #34: IDOR Beyond GET — Modifying, Deleting, and Method Switching for Maximum… | Aman Sharma | [Read More](https://medium.com/p/159554377462) |
-| Wed, 15 Apr 2026 17:40:41 GMT | A Deep Dive Into a Multi-Stage Telegram Stealer Campaign | agrz | [Read More](https://medium.com/p/98df8b370d28) |
-| Wed, 15 Apr 2026 17:37:03 GMT | If You Can’t Explain Yield, You Are the Yield | Thecryptoholic | [Read More](https://medium.com/p/35913a59fc07) |
-| Wed, 15 Apr 2026 17:33:18 GMT | Post-Quantum Cryptography: Why IoT Is the Hardest Place to Deploy It | Mahad Aqeel | [Read More](https://medium.com/p/6eaf09aa2a1a) |
-| Wed, 15 Apr 2026 17:32:51 GMT | Bypassing SSL Pinning in a Flutter Android Application (Hands-on) | Leen Alyahya | [Read More](https://medium.com/p/820e8ba93d57) |
-| Wed, 15 Apr 2026 17:26:05 GMT | The Importance of Practicing A/L GIT Past Papers for Exam Success | Nila | [Read More](https://medium.com/p/b582f091766f) |
-| Wed, 15 Apr 2026 17:14:05 GMT | Critical IDOR Vulnerability Leads to User Information Disclosure on Chat Box | Sameer | [Read More](https://medium.com/p/ffed210f3ddb) |
