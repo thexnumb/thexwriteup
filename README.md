@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 15 Apr 2026 23:59:48 GMT | The Trojan Horse Quietly Hiding In Your Wordpress Website And How To Protect Yourself | Inkyreadsbooks | [Read More](https://medium.com/p/34b2988019fa) |
+| Wed, 15 Apr 2026 23:45:11 GMT | CVE-2026–35031: Critical Path Traversal to RCE in Jellyfin Media Server | Kerem | [Read More](https://medium.com/p/5f3a0c721235) |
+| Wed, 15 Apr 2026 23:41:36 GMT | How I Earned OSCP+: Real Challenges, Exam Pressure, and What Actually Worked | Aung Myint | [Read More](https://medium.com/p/bdcf056405b3) |
+| Wed, 15 Apr 2026 23:21:29 GMT | Analytics - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/e8334c4252e9) |
 | Wed, 15 Apr 2026 23:04:39 GMT | The AI Cyber Race Has Already Started, Most People Just Haven’t Noticed it Yet | Anindya Mishra | [Read More](https://medium.com/p/4572430c4646) |
 | Wed, 15 Apr 2026 23:01:02 GMT | The messy middle of generative AI has moved | DiUS | [Read More](https://medium.com/p/ee07a3caf9f9) |
 | Wed, 15 Apr 2026 22:40:45 GMT | I’ve started building a custom Yocto-based OS project for NVIDIA Jetson Nano Super so developers… | dhiraj deshmukh | [Read More](https://medium.com/p/fbda3d0ffe07) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 15 Apr 2026 15:18:02 GMT | Control Only Works If It’s Enforced | jr.pinoy | [Read More](https://medium.com/p/9445a6885351) |
 | Wed, 15 Apr 2026 15:16:32 GMT | Understanding Dark Web Security Risks in 2026 | Tor BBB | [Read More](https://medium.com/p/e942ddd15d43) |
 | Wed, 15 Apr 2026 15:11:50 GMT | Phishing Kits — A SOC Trainer’s Complete Breakdown | Paritosh | [Read More](https://medium.com/p/49007ede91f2) |
-| Wed, 15 Apr 2026 15:09:21 GMT | AI Secret Scanner That Understands Code - ReconFusionAI | Pentester Club | [Read More](https://medium.com/p/47a53cd24070) |
-| Wed, 15 Apr 2026 15:08:33 GMT | Passing the PJPT and the PNPT, My Journey | The Husky Hacker | [Read More](https://medium.com/p/27710e266c41) |
-| Wed, 15 Apr 2026 15:05:47 GMT | How Deep Is Your Love? | zyxkielysml | [Read More](https://medium.com/p/16df5c96c09d) |
-| Wed, 15 Apr 2026 15:03:59 GMT | Understanding Malware: The Invisible Threat Inside Your Devices | Massi Mapani | [Read More](https://medium.com/p/fbf78751eea0) |
