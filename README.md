@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Apr 2026 22:43:44 GMT | The Logic of the Capitalist Economy and the Origin of Inference | Haruka Matsukasa | [Read More](https://medium.com/p/4cefa1a558e1) |
+| Thu, 16 Apr 2026 22:15:11 GMT | Stop Treating Security Like a Gatekeeper (Start Treating It Like a Guardrail) | Nicolas Corder | [Read More](https://medium.com/p/e560ddc8433c) |
+| Thu, 16 Apr 2026 22:03:11 GMT | OT/ICS: Introduction · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/25d569d0dec1) |
+| Thu, 16 Apr 2026 22:01:10 GMT | Ethena looping strategy security and risks | Anar Kuliiev | [Read More](https://medium.com/p/a3ba12819666) |
 | Thu, 16 Apr 2026 21:51:01 GMT | Securing Autonomous Agents: Identity, Access, and Tool Risks | Michel Alan López | [Read More](https://medium.com/p/2e4068a09b1d) |
 | Thu, 16 Apr 2026 21:38:31 GMT | PDF Injection Attack: A file Hacked the AI | Prince Bharti | [Read More](https://medium.com/p/1c4a5c3a1331) |
 | Thu, 16 Apr 2026 21:36:39 GMT | TryHackMe: Defensive Security Intro Writeup | Jonathan Sanfer | [Read More](https://medium.com/p/7336868e7003) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 14:52:08 GMT | How to Build a Risk Register | oussama | [Read More](https://medium.com/p/a7ed8fd6717c) |
 | Thu, 16 Apr 2026 14:47:32 GMT | From Cron Exploitation to Shell Escape: OverTheWire Bandit (Levels 23–33) | Ahmed Eldkrory | [Read More](https://medium.com/p/1656d8be3d4c) |
 | Thu, 16 Apr 2026 14:46:53 GMT | Practical SOC Analyst Professional (PSAP) — A Detailed Review on SOC 201 Course and Its Exam | Chicken0248 | [Read More](https://medium.com/p/1c8d18d0d12c) |
-| Thu, 16 Apr 2026 14:46:48 GMT | MCP Security Risks: Why the Browser Is the Missing Control Plane | Mammoth Cyber | [Read More](https://medium.com/p/d7927530472c) |
-| Thu, 16 Apr 2026 14:46:01 GMT | [FORECAST] Two New App-Layer Campaigns by Year-End? Watch the Attribution Line | Wes Young | [Read More](https://medium.com/p/ea4110e47300) |
-| Thu, 16 Apr 2026 14:43:04 GMT | Modifying Mimikatz to Evade Defender (2026) | lainkusanagi | [Read More](https://medium.com/p/dc701000289d) |
-| Thu, 16 Apr 2026 14:42:49 GMT | Detecting Malware Patterns with YARA Rules | Muhammad Ath Thoriq Kurnia Ramadhan | [Read More](https://medium.com/p/a4ae540c6654) |
