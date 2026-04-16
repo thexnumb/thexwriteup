@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 51: NAS Software | Maximillian Rueda | [Read More](https://medium.com/p/b1ad6fcd3866) |
+| Thu, 16 Apr 2026 20:57:28 GMT | Securing Claude Code on Microsoft Foundry: Part 1 — The Threat Model | ZimCanIT | [Read More](https://medium.com/p/32facbb54b8b) |
+| Thu, 16 Apr 2026 20:55:05 GMT | Worker Factory Start Routine Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/742c26214616) |
+| Thu, 16 Apr 2026 20:52:22 GMT | Keisha Gebre: The Security Specialist Redefining Risk Mitigation and Institutional Safety | Keisha Gebre | [Read More](https://medium.com/p/20850247384d) |
+| Thu, 16 Apr 2026 20:38:03 GMT | MEV as a Security Surface: When Adversarial Ordering Breaks Protocol Assumptions | Exploitless | [Read More](https://medium.com/p/9018237b3f4d) |
+| Thu, 16 Apr 2026 20:29:27 GMT | Write-Up: Brooklyn Nine Nine | Felix Schoenitz | [Read More](https://medium.com/p/cb9c0acacb02) |
+| Thu, 16 Apr 2026 20:25:35 GMT | “THE HOSPITAL” write-up | Cybersenseieh | [Read More](https://medium.com/p/a016887aba8b) |
+| Thu, 16 Apr 2026 20:18:26 GMT | Information technology | K.Kosalan | [Read More](https://medium.com/p/8bce8f0893a8) |
+| Thu, 16 Apr 2026 20:17:02 GMT | Send Me This, Send Me That (The NFT Scam) | Alexandra Grant | [Read More](https://medium.com/p/79f630794473) |
+| Thu, 16 Apr 2026 20:09:57 GMT | Data Protection (Hashing vs. Encoding vs. Encryption) | Gunyatus | [Read More](https://medium.com/p/337fdf8c8db2) |
 | Thu, 16 Apr 2026 19:58:29 GMT | Reverse Engineering on CyberTalents: Solving All MEDIUM Challenges Part 5 | Isv0x1 | [Read More](https://medium.com/p/86faaa5d5c0f) |
 | Thu, 16 Apr 2026 19:53:10 GMT | Funbox Walkthrough (Proving ground-play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/1441b92734b5) |
 | Thu, 16 Apr 2026 19:51:01 GMT | Netwalker Configuration Extraction via Malcat | Stefan Cicos | [Read More](https://medium.com/p/b7cf3917cce5) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 14:25:12 GMT | SIEM Management Explained: How It Powers Modern Cybersecurity | Digital Defense | [Read More](https://medium.com/p/8ee556eb3d83) |
 | Thu, 16 Apr 2026 14:25:05 GMT | Your Crops Are Struggling and the Answer Is Literally Under Your Feet | Iinfo | [Read More](https://medium.com/p/5c824c234bbd) |
 | Thu, 16 Apr 2026 14:16:38 GMT | From Debug Warnings to XSS: Exploiting a Drupal CMS Endpoint | _marwankhodair_ | [Read More](https://medium.com/p/b84948b9a9ab) |
-| Thu, 16 Apr 2026 14:10:25 GMT | Security Isn’t Failing — It’s Evolving. The Smartest Sites Are Doing This Now | Lucas Barett | [Read More](https://medium.com/p/87f84b2fa61d) |
-| Thu, 16 Apr 2026 14:09:16 GMT | How to Get Cheap SIA Training in Birmingham with a 95% Pass Rate | Getyoursia | [Read More](https://medium.com/p/23d36fe78969) |
-| Thu, 16 Apr 2026 14:08:56 GMT | The Complete Guide to Setting Up Xalgorix — The Most Powerful Open-Source AI Pentesting Agent | Krishna Kumar | [Read More](https://medium.com/p/befc9b721b9e) |
-| Thu, 16 Apr 2026 14:05:58 GMT | Building a $40 Stingray Detector That Fits in an Altoids Tin | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6aab73dcaf56) |
-| Thu, 16 Apr 2026 14:04:52 GMT | From Critical to Low: 6 Vulnerabilities That Exposed a Web Application | Seafeldeenwael | [Read More](https://medium.com/p/c5fcf5130adf) |
-| Thu, 16 Apr 2026 14:02:10 GMT | The Private Key That Was Never Born | Rachit Atrey | [Read More](https://medium.com/p/1812b678725f) |
-| Thu, 16 Apr 2026 14:01:22 GMT | How to Pass Your SIA Door Supervisor Exam on the First Attempt | Getyoursia | [Read More](https://medium.com/p/6c8ea742217b) |
-| Thu, 16 Apr 2026 13:51:29 GMT | Detecting & Alerting on Publicly Exposed OCI Object Storage Buckets Using Cloud Guard | Tokishi | [Read More](https://medium.com/p/a2b111612a19) |
-| Thu, 16 Apr 2026 13:50:51 GMT | Europe’s Cybersecurity Reckoning: What the Latest Research Tells Us About Compliance, Risk, and the… | Ioannis Kanaris, MSc | [Read More](https://medium.com/p/0f6b4da6037a) |
-| Thu, 16 Apr 2026 13:43:56 GMT | Wake Up Business Owners: There Is Better Business Life Beyond AI! | marius-ciclistu | [Read More](https://medium.com/p/bc1826126aba) |
