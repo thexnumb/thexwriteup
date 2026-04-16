@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Apr 2026 21:51:01 GMT | Securing Autonomous Agents: Identity, Access, and Tool Risks | Michel Alan López | [Read More](https://medium.com/p/2e4068a09b1d) |
+| Thu, 16 Apr 2026 21:38:31 GMT | PDF Injection Attack: A file Hacked the AI | Prince Bharti | [Read More](https://medium.com/p/1c4a5c3a1331) |
+| Thu, 16 Apr 2026 21:36:39 GMT | TryHackMe: Defensive Security Intro Writeup | Jonathan Sanfer | [Read More](https://medium.com/p/7336868e7003) |
+| Thu, 16 Apr 2026 21:32:08 GMT | Claude Mythos Preview Is Not Just a Better Claude. It Changes the Economics of Cybersecurity. | Abhishek Gang Deb | [Read More](https://medium.com/p/66bbc1d9d836) |
+| Thu, 16 Apr 2026 21:28:07 GMT | How Federal Agencies Are Transforming with Cloud and AI | Alliance Global Tech Inc | [Read More](https://medium.com/p/7b51849424e3) |
+| Thu, 16 Apr 2026 21:27:04 GMT | Attackers Actively Exploiting Critical Vulnerability in Ninja Forms — File Upload Plugin | Wordfence | [Read More](https://medium.com/p/f595379e2099) |
+| Thu, 16 Apr 2026 21:21:41 GMT | WordPress Has a Security Problem — And Cloudflare’s EmDash Might Be the Beginning of a Fix | Mluqman150 | [Read More](https://medium.com/p/bb4c7b4994bb) |
+| Thu, 16 Apr 2026 21:21:01 GMT | Why Clear Transaction Approvals Matter More Than Most Wallets Admit | Adrian Vale | [Read More](https://medium.com/p/20ddeab2b857) |
 | Thu, 16 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 51: NAS Software | Maximillian Rueda | [Read More](https://medium.com/p/b1ad6fcd3866) |
 | Thu, 16 Apr 2026 20:57:28 GMT | Securing Claude Code on Microsoft Foundry: Part 1 — The Threat Model | ZimCanIT | [Read More](https://medium.com/p/32facbb54b8b) |
 | Thu, 16 Apr 2026 20:55:05 GMT | Worker Factory Start Routine Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/742c26214616) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 14:46:01 GMT | [FORECAST] Two New App-Layer Campaigns by Year-End? Watch the Attribution Line | Wes Young | [Read More](https://medium.com/p/ea4110e47300) |
 | Thu, 16 Apr 2026 14:43:04 GMT | Modifying Mimikatz to Evade Defender (2026) | lainkusanagi | [Read More](https://medium.com/p/dc701000289d) |
 | Thu, 16 Apr 2026 14:42:49 GMT | Detecting Malware Patterns with YARA Rules | Muhammad Ath Thoriq Kurnia Ramadhan | [Read More](https://medium.com/p/a4ae540c6654) |
-| Thu, 16 Apr 2026 14:41:29 GMT | The Ghost in the Machine: A Hunter’s Guide to Auditing Windows Malware with PowerShell | MouhibMahadbi | [Read More](https://medium.com/p/7be2f2125d01) |
-| Thu, 16 Apr 2026 14:39:54 GMT | Flash USDT Software (Power & Speed Focus) | Shop Work | [Read More](https://medium.com/p/15e914d3ca22) |
-| Thu, 16 Apr 2026 14:38:40 GMT | ClickFix: Anatomy of a Social Engineering Attack | sadique kwatsima | [Read More](https://medium.com/p/57751a7e617a) |
-| Thu, 16 Apr 2026 14:30:17 GMT | Your Business Runs on Other People’s Systems. That Changes Everything. | PRASAD BHONDE | [Read More](https://medium.com/p/3c6b9f2b9944) |
-| Thu, 16 Apr 2026 14:30:03 GMT | CVE-2026–22679: Unauthenticated RCE in Weaver E-cology | Kerem | [Read More](https://medium.com/p/7fa97c1e904b) |
-| Thu, 16 Apr 2026 14:25:12 GMT | SIEM Management Explained: How It Powers Modern Cybersecurity | Digital Defense | [Read More](https://medium.com/p/8ee556eb3d83) |
-| Thu, 16 Apr 2026 14:25:05 GMT | Your Crops Are Struggling and the Answer Is Literally Under Your Feet | Iinfo | [Read More](https://medium.com/p/5c824c234bbd) |
-| Thu, 16 Apr 2026 14:16:38 GMT | From Debug Warnings to XSS: Exploiting a Drupal CMS Endpoint | _marwankhodair_ | [Read More](https://medium.com/p/b84948b9a9ab) |
