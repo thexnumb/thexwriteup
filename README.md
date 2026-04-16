@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Apr 2026 19:58:29 GMT | Reverse Engineering on CyberTalents: Solving All MEDIUM Challenges Part 5 | Isv0x1 | [Read More](https://medium.com/p/86faaa5d5c0f) |
+| Thu, 16 Apr 2026 19:53:10 GMT | Funbox Walkthrough (Proving ground-play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/1441b92734b5) |
+| Thu, 16 Apr 2026 19:51:01 GMT | Netwalker Configuration Extraction via Malcat | Stefan Cicos | [Read More](https://medium.com/p/b7cf3917cce5) |
+| Thu, 16 Apr 2026 19:48:27 GMT | AWS Community Day Bay Area 2026 (Security Edition): A Volunteer’s Recap and Your Guide to Every… | Shravanth v | [Read More](https://medium.com/p/4f3ec5bfe842) |
+| Thu, 16 Apr 2026 19:47:50 GMT | Docker — A Nonsense Guide | Ishant | [Read More](https://medium.com/p/a9b25edefa68) |
+| Thu, 16 Apr 2026 19:46:58 GMT | Europe’s Four Defence Pillars: A New Shield for a New Era | Bajram Geci | [Read More](https://medium.com/p/8a9146d8fbc7) |
+| Thu, 16 Apr 2026 19:36:01 GMT | Why Firewalls Are Losing Their Central Role in 2026 | Aleksei Aleinikov | [Read More](https://medium.com/p/3b437cb24dd6) |
+| Thu, 16 Apr 2026 19:34:41 GMT | Inside the World of Cybersecurity in Corporate America | Maisha Taranum | [Read More](https://medium.com/p/ac9f761ff5d2) |
+| Thu, 16 Apr 2026 19:28:58 GMT | Bandit level 0 | Dipankar Paul | [Read More](https://medium.com/p/85c883b79ca8) |
+| Thu, 16 Apr 2026 19:23:53 GMT | How Businesses Get Breached Without Clicking a Single Suspicious Link | IT_Engineer | [Read More](https://medium.com/p/6a897e7fc429) |
+| Thu, 16 Apr 2026 19:21:41 GMT | Business Logic vulnerability | Divine | [Read More](https://medium.com/p/ebd9012f7128) |
+| Thu, 16 Apr 2026 19:14:14 GMT | AI Models & Data Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/637ffd5f60dd) |
 | Thu, 16 Apr 2026 19:11:30 GMT | Tenable VM: Authentication Successful but Credentialed Scan Shows No | Lionel Agishi | [Read More](https://medium.com/p/b3742fece9a1) |
 | Thu, 16 Apr 2026 19:11:21 GMT | Hiding root detection using eBPF — kernel-level syscall interception | Haxymad | [Read More](https://medium.com/p/f0795942078d) |
 | Thu, 16 Apr 2026 19:09:41 GMT | A Simple Guide to Upgrading Old Computers and Laptops | Adrian iWrite | [Read More](https://medium.com/p/89b9fec56c16) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 13:51:29 GMT | Detecting & Alerting on Publicly Exposed OCI Object Storage Buckets Using Cloud Guard | Tokishi | [Read More](https://medium.com/p/a2b111612a19) |
 | Thu, 16 Apr 2026 13:50:51 GMT | Europe’s Cybersecurity Reckoning: What the Latest Research Tells Us About Compliance, Risk, and the… | Ioannis Kanaris, MSc | [Read More](https://medium.com/p/0f6b4da6037a) |
 | Thu, 16 Apr 2026 13:43:56 GMT | Wake Up Business Owners: There Is Better Business Life Beyond AI! | marius-ciclistu | [Read More](https://medium.com/p/bc1826126aba) |
-| Thu, 16 Apr 2026 13:32:10 GMT | If You Can’t Explain Yield, You Are the Yield | Crikstory | [Read More](https://medium.com/p/9293f384ebae) |
-| Thu, 16 Apr 2026 13:29:24 GMT | Almost Got Phished. Here’s the Fake Site I Almost Trusted | Nautillo | [Read More](https://medium.com/p/9bcbc92b98e1) |
-| Thu, 16 Apr 2026 13:21:01 GMT | I WORE A VEIL FOR HIS MISTAKES:The Silence of My Pregnancy” | Ann Ivah | [Read More](https://medium.com/p/0a4c0c27aa8c) |
-| Thu, 16 Apr 2026 13:19:09 GMT | How SIRV AI can support Martyn’s Law readiness | AI for people safety, security and resilience | [Read More](https://medium.com/p/0637b47b5dab) |
-| Thu, 16 Apr 2026 13:14:49 GMT | Understanding the TCP Handshake (The “Hello” That Starts the Internet) | Cyber Simplified | [Read More](https://medium.com/p/11642d969e92) |
-| Thu, 16 Apr 2026 13:05:13 GMT | Top Trading App Development Companies in the USA (2026) — A Complete Guide for Fintech Startups | Shivam Sharma | [Read More](https://medium.com/p/9e0cc771eb75) |
-| Thu, 16 Apr 2026 13:01:40 GMT | What is Lieb? | Antasamsara | [Read More](https://medium.com/p/a9bc126b606a) |
-| Thu, 16 Apr 2026 13:01:03 GMT | ClickFix v2: A New Level of Infection via EtherHiding | h3xstone | [Read More](https://medium.com/p/0405b3271657) |
-| Thu, 16 Apr 2026 13:00:56 GMT | Emerging Proposal: World Security Council Aims to Reshape International Stability | Dr. Muhammad  Nasir Uddin | [Read More](https://medium.com/p/a564447d3333) |
-| Thu, 16 Apr 2026 12:48:18 GMT | The Threat Is Already Inside | Scottcmcmahan | [Read More](https://medium.com/p/ec21a36e6c38) |
-| Thu, 16 Apr 2026 12:45:34 GMT | How to Hire an Ethical Hacker in 2026 to Strengthen Cybersecurity | letsremotify | [Read More](https://medium.com/p/e50dfbdfad8b) |
-| Thu, 16 Apr 2026 12:43:01 GMT | NTLM Relay: The Attack That Turns Your Network Against Itself | Garrett Stimpson | [Read More](https://medium.com/p/6eeba27c341b) |
