@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Apr 2026 12:34:45 GMT | I Was ”Ready” for My Pentesting Exam. I Wasn’t. Here’s What Changed. | ProwlSec | [Read More](https://medium.com/p/c6e683080bfb) |
+| Thu, 16 Apr 2026 12:21:49 GMT | The Biggest Cybersecurity Myths Companies Still Believe in 2026 | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/be647eb78a6d) |
+| Thu, 16 Apr 2026 12:21:11 GMT | En Normandie, un incendie peut tout changer en 3 minutes | Fatou Bandia | [Read More](https://medium.com/p/1c88998d3fae) |
+| Thu, 16 Apr 2026 12:16:52 GMT | Apple Company Let Someone Steal My Identity | Maria Johnsen | [Read More](https://medium.com/p/702455d55ff9) |
+| Thu, 16 Apr 2026 12:14:55 GMT | TryHackMe - Checkpoint - WriteUp | Axoloth | [Read More](https://medium.com/p/6e8e4783af2b) |
+| Thu, 16 Apr 2026 12:12:55 GMT | How Microsoft Vaporized a Trillion Dollars, Pt. 4 | Axel Rietschin | [Read More](https://medium.com/p/f41e2fdf039f) |
+| Thu, 16 Apr 2026 12:12:07 GMT | Why a Zero-Wipe Approach Is Changing Entra ID Device Migration | Opsole Migrate | [Read More](https://medium.com/p/cad9b35ed7a9) |
+| Thu, 16 Apr 2026 12:10:17 GMT | Cross-site WebSocket Hijacking ; Lab Write-up | oussama | [Read More](https://medium.com/p/22d056edfbdd) |
+| Thu, 16 Apr 2026 12:10:06 GMT | A Comprehensive Guide to Generative AI Technologies | Davin Convay | [Read More](https://medium.com/p/421d55e6ac86) |
+| Thu, 16 Apr 2026 12:09:14 GMT | Investigating GotoHTTP on Windows: Behavior, Forensic Artifacts & Detection | Chicken0248 | [Read More](https://medium.com/p/615f0c427034) |
+| Thu, 16 Apr 2026 11:58:15 GMT | The Story Before the System | Tom Yonashiro | [Read More](https://medium.com/p/d4cc534a02c5) |
+| Thu, 16 Apr 2026 11:57:37 GMT | Beyond Firewalls: Building Intelligent Cybersecurity Systems for AI-Driven Threat Landscapes | Anayamehta | [Read More](https://medium.com/p/a19202559d73) |
+| Thu, 16 Apr 2026 11:57:06 GMT | Allen Bradley 5069–OB16 | Asteamtechno | [Read More](https://medium.com/p/447e7ee4604a) |
+| Thu, 16 Apr 2026 11:56:34 GMT | What Is a Web Application Security Audit (And Does Your Business Need One)? | Fowsi Mohamoud Dayib | [Read More](https://medium.com/p/8976e53c4a4e) |
+| Thu, 16 Apr 2026 11:55:10 GMT | Title: The Technical Buffer: | Social media Guide | [Read More](https://medium.com/p/37faf89e80b1) |
+| Thu, 16 Apr 2026 11:54:39 GMT | Is Answering Unknown Caller Dangerous? | John Michael Villegas | [Read More](https://medium.com/p/83555b1acb17) |
+| Thu, 16 Apr 2026 11:32:59 GMT | Investigating a Real-World Microsoft Exchange Exploit Attempt (CVE-2022–41082) | Daniel John | [Read More](https://medium.com/p/fb0ea4cdb6c4) |
+| Thu, 16 Apr 2026 11:32:16 GMT | Beyond the Furnace: How Digital Refractories and Smart Manufacturing are Transforming Global Heavy… | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/bd07cfeebe26) |
+| Thu, 16 Apr 2026 11:10:17 GMT | The $197 Million Heist That Said “Sorry”: 4 Surprising Lessons from the Euler Finance Attack | Ericjo | [Read More](https://medium.com/p/dfb9ee722a66) |
+| Thu, 16 Apr 2026 11:08:25 GMT | Writing SEO Headlines That Convert | Jellyfr | [Read More](https://medium.com/p/12642fa041b2) |
 | Thu, 16 Apr 2026 11:01:01 GMT | Understanding CWE-1391: Use of Weak Credentials | Walter Moar | [Read More](https://medium.com/p/2d93f656670c) |
+| Thu, 16 Apr 2026 11:00:21 GMT | Check In Circle Makes Personal Safety for Seniors and Elderly Extremely Easy | TechVirtous | [Read More](https://medium.com/p/e20ba94d62c0) |
 | Thu, 16 Apr 2026 10:58:50 GMT | eJPT v2 : Challenge Lab 32: Year of the Fox CTF | Dhanushkumar R | [Read More](https://medium.com/p/1c52290c3d49) |
 | Thu, 16 Apr 2026 10:49:29 GMT | Best IT Infrastructure Management Services in Chennai - Net Access India Limited | Sabastin | [Read More](https://medium.com/p/65b9c2e4ece5) |
 | Thu, 16 Apr 2026 10:49:05 GMT | The Complete Guide to Reseller Hosting in 2026 | Janet Watson | [Read More](https://medium.com/p/2c73529a0d0c) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 05:56:38 GMT | Chatbot Pentesting Guide(Credit -deepconverse.com) | Jatin  yadav | [Read More](https://medium.com/p/6578fa070807) |
 | Thu, 16 Apr 2026 05:47:58 GMT | The Growing Need for Professional Security in Urban Areas | Henry Wilson | [Read More](https://medium.com/p/4fd512597985) |
 | Thu, 16 Apr 2026 05:42:58 GMT | The Silent Battlefield: How Cyber Laws Are Struggling to Keep Up with Modern Cyberwarfare | Meghshyam Kimmatkar | [Read More](https://medium.com/p/8a85737679e4) |
-| Thu, 16 Apr 2026 05:38:51 GMT | Inside GPT-5.4-Cyber: OpenAI’s New Secret Weapon for Security Defenders | Divanshu | [Read More](https://medium.com/p/845daa714cdd) |
-| Thu, 16 Apr 2026 05:35:42 GMT | Internet Information Services ( ISS ) | Kamalatluxanov | [Read More](https://medium.com/p/d2cefd87a1ba) |
-| Thu, 16 Apr 2026 05:32:22 GMT | Best Cyber Security Training Institute in Dilsukhnagar Hyderabad — Why Cyberaegis is Your Top… | Raj kumar | [Read More](https://medium.com/p/51991b39d7ae) |
-| Thu, 16 Apr 2026 05:30:58 GMT | Server-Side Request Forgery (SSRF) — Accessing Internal Systems Like an Insider | ghostyjoe | [Read More](https://medium.com/p/91dd556971ae) |
-| Thu, 16 Apr 2026 05:29:29 GMT | Top AI Auditing Tools and Techniques to Secure Your Business | Nishant | [Read More](https://medium.com/p/22df8fc56dee) |
-| Thu, 16 Apr 2026 05:27:58 GMT | Is Your AI Framework Future-Proof? 5 Steps to Scalable Oversight | Aditya | [Read More](https://medium.com/p/11b345ec1748) |
-| Thu, 16 Apr 2026 05:26:01 GMT | ⚙️ 09. — Insecure Direct Object References (IDOR) | The4v1 | [Read More](https://medium.com/p/db6a4d571e16) |
-| Thu, 16 Apr 2026 05:23:44 GMT | How Quantum Communication Could Make Our Networks Virtually Unhackable | under acknowledged | [Read More](https://medium.com/p/60135d06c1a3) |
-| Thu, 16 Apr 2026 05:21:42 GMT | Authentication Vulnerabilities Lab 05 | Mohammed Fahad | [Read More](https://medium.com/p/7a15f50b228b) |
-| Thu, 16 Apr 2026 05:21:01 GMT | ⚙️ 08. — User ID controlled by request parameter with password disclosure | The4v1 | [Read More](https://medium.com/p/1f56ff333994) |
-| Thu, 16 Apr 2026 05:20:50 GMT | Choosing Courage Over Comfort: Who Cares? | Sandy Maximus | [Read More](https://medium.com/p/658133898cf3) |
-| Thu, 16 Apr 2026 05:16:36 GMT | How to Customize WordPress Password Protected Screen [Step-by-Step] | Hamza Hanif | [Read More](https://medium.com/p/6c6ab7b8e45b) |
-| Thu, 16 Apr 2026 05:06:01 GMT | What UX design taught me about security, betrayal sensitivity, and hypervigilance. | Monika Tomanek | [Read More](https://medium.com/p/dff00b6a830c) |
-| Thu, 16 Apr 2026 05:05:42 GMT | Outlook Customer Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/51e1a50b918e) |
-| Thu, 16 Apr 2026 05:00:09 GMT | Yahoo Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/85b284c5b924) |
-| Thu, 16 Apr 2026 04:59:21 GMT | Behind Every Smooth App: The Power of Software Testing | MCA Blog | [Read More](https://medium.com/p/f88d4918edbf) |
-| Thu, 16 Apr 2026 04:54:32 GMT | F-secure Support Number Australia | Customer Support Information | [Read More](https://medium.com/p/efef2516cbc2) |
-| Thu, 16 Apr 2026 04:51:02 GMT | Session Fixation: The Attack Before Login Happens | Cybersphere Official | [Read More](https://medium.com/p/e2b80bc0585f) |
-| Thu, 16 Apr 2026 04:49:07 GMT | Tuta Customer Support Number Australia | Customer Support Information | [Read More](https://medium.com/p/d8d641fcb028) |
-| Thu, 16 Apr 2026 04:44:04 GMT | When Network Scanning Crosses the Line: Nmap Mistakes That Can Land You in Trouble | pavani | [Read More](https://medium.com/p/d4921238fe97) |
-| Thu, 16 Apr 2026 04:36:19 GMT | Windows Active Directory Flaw Enables Remote Code Execution (CVE-2026-33826) | Aju Deb | [Read More](https://medium.com/p/04968705df96) |
