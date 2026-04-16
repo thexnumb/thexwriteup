@@ -12,6 +12,45 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Apr 2026 14:54:05 GMT | Understanding Economic Security: A Global Overview | Huma Ejaz | [Read More](https://medium.com/p/d490d6edc966) |
+| Thu, 16 Apr 2026 14:47:32 GMT | From Cron Exploitation to Shell Escape: OverTheWire Bandit (Levels 23–33) | Ahmed Eldkrory | [Read More](https://medium.com/p/1656d8be3d4c) |
+| Thu, 16 Apr 2026 14:46:53 GMT | Practical SOC Analyst Professional (PSAP) — A Detailed Review on SOC 201 Course and Its Exam | Chicken0248 | [Read More](https://medium.com/p/1c8d18d0d12c) |
+| Thu, 16 Apr 2026 14:46:48 GMT | MCP Security Risks: Why the Browser Is the Missing Control Plane | Mammoth Cyber | [Read More](https://medium.com/p/d7927530472c) |
+| Thu, 16 Apr 2026 14:46:01 GMT | [FORECAST] Two New App-Layer Campaigns by Year-End? Watch the Attribution Line | Wes Young | [Read More](https://medium.com/p/ea4110e47300) |
+| Thu, 16 Apr 2026 14:43:04 GMT | Modifying Mimikatz to Evade Defender (2026) | lainkusanagi | [Read More](https://medium.com/p/dc701000289d) |
+| Thu, 16 Apr 2026 14:42:49 GMT | Detecting Malware Patterns with YARA Rules | Muhammad Ath Thoriq Kurnia Ramadhan | [Read More](https://medium.com/p/a4ae540c6654) |
+| Thu, 16 Apr 2026 14:41:29 GMT | The Ghost in the Machine: A Hunter’s Guide to Auditing Windows Malware with PowerShell | MouhibMahadbi | [Read More](https://medium.com/p/7be2f2125d01) |
+| Thu, 16 Apr 2026 14:39:54 GMT | Flash USDT Software (Power & Speed Focus) | Shop Work | [Read More](https://medium.com/p/15e914d3ca22) |
+| Thu, 16 Apr 2026 14:38:40 GMT | ClickFix: Anatomy of a Social Engineering Attack | sadique kwatsima | [Read More](https://medium.com/p/57751a7e617a) |
+| Thu, 16 Apr 2026 14:30:17 GMT | Your Business Runs on Other People’s Systems. That Changes Everything. | PRASAD BHONDE | [Read More](https://medium.com/p/3c6b9f2b9944) |
+| Thu, 16 Apr 2026 14:30:03 GMT | CVE-2026–22679: Unauthenticated RCE in Weaver E-cology | Kerem | [Read More](https://medium.com/p/7fa97c1e904b) |
+| Thu, 16 Apr 2026 14:25:12 GMT | SIEM Management Explained: How It Powers Modern Cybersecurity | Digital Defense | [Read More](https://medium.com/p/8ee556eb3d83) |
+| Thu, 16 Apr 2026 14:25:05 GMT | Your Crops Are Struggling and the Answer Is Literally Under Your Feet | Iinfo | [Read More](https://medium.com/p/5c824c234bbd) |
+| Thu, 16 Apr 2026 14:16:38 GMT | From Debug Warnings to XSS: Exploiting a Drupal CMS Endpoint | _marwankhodair_ | [Read More](https://medium.com/p/b84948b9a9ab) |
+| Thu, 16 Apr 2026 14:10:25 GMT | Security Isn’t Failing — It’s Evolving. The Smartest Sites Are Doing This Now | Lucas Barett | [Read More](https://medium.com/p/87f84b2fa61d) |
+| Thu, 16 Apr 2026 14:09:16 GMT | How to Get Cheap SIA Training in Birmingham with a 95% Pass Rate | Getyoursia | [Read More](https://medium.com/p/23d36fe78969) |
+| Thu, 16 Apr 2026 14:08:56 GMT | The Complete Guide to Setting Up Xalgorix — The Most Powerful Open-Source AI Pentesting Agent | Krishna Kumar | [Read More](https://medium.com/p/befc9b721b9e) |
+| Thu, 16 Apr 2026 14:05:58 GMT | Building a $40 Stingray Detector That Fits in an Altoids Tin | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6aab73dcaf56) |
+| Thu, 16 Apr 2026 14:04:52 GMT | From Critical to Low: 6 Vulnerabilities That Exposed a Web Application | Seafeldeenwael | [Read More](https://medium.com/p/c5fcf5130adf) |
+| Thu, 16 Apr 2026 14:02:10 GMT | The Private Key That Was Never Born | Rachit Atrey | [Read More](https://medium.com/p/1812b678725f) |
+| Thu, 16 Apr 2026 14:01:22 GMT | How to Pass Your SIA Door Supervisor Exam on the First Attempt | Getyoursia | [Read More](https://medium.com/p/6c8ea742217b) |
+| Thu, 16 Apr 2026 13:51:29 GMT | Detecting & Alerting on Publicly Exposed OCI Object Storage Buckets Using Cloud Guard | Tokishi | [Read More](https://medium.com/p/a2b111612a19) |
+| Thu, 16 Apr 2026 13:50:51 GMT | Europe’s Cybersecurity Reckoning: What the Latest Research Tells Us About Compliance, Risk, and the… | Ioannis Kanaris, MSc | [Read More](https://medium.com/p/0f6b4da6037a) |
+| Thu, 16 Apr 2026 13:43:56 GMT | Wake Up Business Owners: There Is Better Business Life Beyond AI! | marius-ciclistu | [Read More](https://medium.com/p/bc1826126aba) |
+| Thu, 16 Apr 2026 13:32:10 GMT | If You Can’t Explain Yield, You Are the Yield | Crikstory | [Read More](https://medium.com/p/9293f384ebae) |
+| Thu, 16 Apr 2026 13:29:24 GMT | Almost Got Phished. Here’s the Fake Site I Almost Trusted | Nautillo | [Read More](https://medium.com/p/9bcbc92b98e1) |
+| Thu, 16 Apr 2026 13:21:01 GMT | I WORE A VEIL FOR HIS MISTAKES:The Silence of My Pregnancy” | Ann Ivah | [Read More](https://medium.com/p/0a4c0c27aa8c) |
+| Thu, 16 Apr 2026 13:19:09 GMT | How SIRV AI can support Martyn’s Law readiness | AI for people safety, security and resilience | [Read More](https://medium.com/p/0637b47b5dab) |
+| Thu, 16 Apr 2026 13:14:49 GMT | Understanding the TCP Handshake (The “Hello” That Starts the Internet) | Cyber Simplified | [Read More](https://medium.com/p/11642d969e92) |
+| Thu, 16 Apr 2026 13:05:13 GMT | Top Trading App Development Companies in the USA (2026) — A Complete Guide for Fintech Startups | Shivam Sharma | [Read More](https://medium.com/p/9e0cc771eb75) |
+| Thu, 16 Apr 2026 13:01:40 GMT | What is Lieb? | Antasamsara | [Read More](https://medium.com/p/a9bc126b606a) |
+| Thu, 16 Apr 2026 13:01:03 GMT | ClickFix v2: A New Level of Infection via EtherHiding | h3xstone | [Read More](https://medium.com/p/0405b3271657) |
+| Thu, 16 Apr 2026 13:00:56 GMT | Emerging Proposal: World Security Council Aims to Reshape International Stability | Dr. Muhammad  Nasir Uddin | [Read More](https://medium.com/p/a564447d3333) |
+| Thu, 16 Apr 2026 12:48:18 GMT | The Threat Is Already Inside | Scottcmcmahan | [Read More](https://medium.com/p/ec21a36e6c38) |
+| Thu, 16 Apr 2026 12:45:34 GMT | How to Hire an Ethical Hacker in 2026 to Strengthen Cybersecurity | letsremotify | [Read More](https://medium.com/p/e50dfbdfad8b) |
+| Thu, 16 Apr 2026 12:43:01 GMT | NTLM Relay: The Attack That Turns Your Network Against Itself | Garrett Stimpson | [Read More](https://medium.com/p/6eeba27c341b) |
+| Thu, 16 Apr 2026 12:42:49 GMT | Top 10 Highest paid Cyber Security jobs in india | cyber security Updates | [Read More](https://medium.com/p/032b9ce901c7) |
+| Thu, 16 Apr 2026 12:37:41 GMT | Kerberoasting: Why Your AD Service Accounts Are Already Toast | Garrett Stimpson | [Read More](https://medium.com/p/977a836de9d2) |
 | Thu, 16 Apr 2026 12:34:45 GMT | I Was ”Ready” for My Pentesting Exam. I Wasn’t. Here’s What Changed. | ProwlSec | [Read More](https://medium.com/p/c6e683080bfb) |
 | Thu, 16 Apr 2026 12:21:49 GMT | The Biggest Cybersecurity Myths Companies Still Believe in 2026 | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/be647eb78a6d) |
 | Thu, 16 Apr 2026 12:21:11 GMT | En Normandie, un incendie peut tout changer en 3 minutes | Fatou Bandia | [Read More](https://medium.com/p/1c88998d3fae) |
@@ -73,42 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 08:15:54 GMT | Vibecoding / Agentic Engineering from a technological perspective: What could possibly go wrong? | Yannick Bontemps | [Read More](https://medium.com/p/9f464d2484e3) |
 | Thu, 16 Apr 2026 08:12:07 GMT | A Bittersweet Goodbye to Medium After One Year…..!! | Maverick | [Read More](https://medium.com/p/59770e49b28c) |
 | Thu, 16 Apr 2026 08:06:09 GMT | Why 24/7 Mobile Video Surveillance Is Essential for Modern Security | David Robert2025K | [Read More](https://medium.com/p/bef384638f6d) |
-| Thu, 16 Apr 2026 08:01:46 GMT | Why Your Business Needs a Video Surveillance Monitoring Service | David Robert2025K | [Read More](https://medium.com/p/013f04fa82a5) |
-| Thu, 16 Apr 2026 08:01:05 GMT | Plan the cleanup of stale devices. | Railsdevabam | [Read More](https://medium.com/p/c7158d762e74) |
-| Thu, 16 Apr 2026 08:01:01 GMT | The Weak Russia Is the One That Attacks | Brian Iselin | [Read More](https://medium.com/p/194707d0ed7b) |
-| Thu, 16 Apr 2026 07:52:01 GMT | The “Sefirotic Architecture Lifecycle” (SAL) | Ivan Fedorets | [Read More](https://medium.com/p/616521f48bbe) |
-| Thu, 16 Apr 2026 07:49:24 GMT | Bing’s Blind Spot: How Threat Actors Are Weaponizing Microsoft’s Search Engine at Scale | Suraj Mundalik | [Read More](https://medium.com/p/4a474e8c7785) |
-| Thu, 16 Apr 2026 07:47:58 GMT | Technical Proof of Decryption and Root Access" | Fazul Rehman | [Read More](https://medium.com/p/8830c5b7a909) |
-| Thu, 16 Apr 2026 07:37:29 GMT | Modern API Security: Why Traditional Authentication Fails Against BOLA (Broken Object Level… | John Hawkins | [Read More](https://medium.com/p/9d04ad2bb7ca) |
-| Thu, 16 Apr 2026 07:35:25 GMT | Jira: The Backbone of Modern Project Management | Little_Sun4lower | [Read More](https://medium.com/p/74f1b732efb1) |
-| Thu, 16 Apr 2026 07:33:30 GMT | Avoid Costly Repairs With a CCTV Maintenance Company in Dubai | IT Solution Dubai | [Read More](https://medium.com/p/52bd99a07513) |
-| Thu, 16 Apr 2026 07:33:24 GMT | Is Coding Mandatory to Build a Career in IT? | Abrahamtech | [Read More](https://medium.com/p/5bcf16b25563) |
-| Thu, 16 Apr 2026 07:27:20 GMT | Emergency Response Team: The First Line of Defense for Industrial, Digital & Active Threat Risks | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/52a90d4b9dd8) |
-| Thu, 16 Apr 2026 07:23:22 GMT | CISCO Notes Networking Basics — Module 4 — Build a Home Network | ExploitHunter | [Read More](https://medium.com/p/78cbf853e6d6) |
-| Thu, 16 Apr 2026 07:22:16 GMT | ⚖️ Responsible Disclosure: How to Report Security Bugs Legally | ExploitHunter | [Read More](https://medium.com/p/3e87dc3ac524) |
-| Thu, 16 Apr 2026 07:20:55 GMT | How to Increase Bug Bounty Impact with Fuzzing techniques | c9lab | [Read More](https://medium.com/p/61d74b6d19f0) |
-| Thu, 16 Apr 2026 07:19:51 GMT | 88% of Enterprises Had AI Agent Security Incidents Last Year. I Built the Fix 6 Months Ago. | Sattyam Jain | [Read More](https://medium.com/p/55423297a420) |
-| Thu, 16 Apr 2026 07:19:31 GMT | Hackers don’t need your password anymore. | Paritosh | [Read More](https://medium.com/p/d76b3f290d0d) |
-| Thu, 16 Apr 2026 07:15:57 GMT | HTTP Request Smuggling: From Basics to Real Exploitation in Burp Repeater | Aman Gupta | [Read More](https://medium.com/p/144e145459ac) |
-| Thu, 16 Apr 2026 07:15:25 GMT | Bypassing 2FA: How a Flawed SSO Architecture Led to Complete Account Takeover | Shreyash Mall | [Read More](https://medium.com/p/2518377022e9) |
-| Thu, 16 Apr 2026 07:14:40 GMT | Windows Privilege Escalation Skills Assessment — Part II Walkthrough | Psychopath-Traveler | [Read More](https://medium.com/p/f236b47812a9) |
-| Thu, 16 Apr 2026 07:12:34 GMT | Stop SQL Injection Attacks Before They Start (A Practical Guide for Developers) | PAPPURAJ BHOTTACHARJEE | [Read More](https://medium.com/p/df498f4ddf2e) |
-| Thu, 16 Apr 2026 07:02:26 GMT | AI Supply Chain Attacks: Poisoning the Data That Powers Intelligent Systems | Cynox Security LLP. | [Read More](https://medium.com/p/b497fde82b0a) |
-| Thu, 16 Apr 2026 07:01:40 GMT | Why Your Black Duck Scan Shows 80 Vulnerabilities (And Why You Shouldn’t Panic) | Veggy Priyangka | [Read More](https://medium.com/p/2d580aa1c223) |
-| Thu, 16 Apr 2026 06:57:18 GMT | Microsoft Fixed 160+ Vulnerabilities This Week. That’s Not the Part That Should Worry You. | Leoirvinleo | [Read More](https://medium.com/p/66941143bae1) |
-| Thu, 16 Apr 2026 06:52:13 GMT | Continuous Threat Exposure Management Isn’t a Buzzword — It’s a Mindset Shift | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/7d5ea7fc907d) |
-| Thu, 16 Apr 2026 06:50:32 GMT | The Evolution and Future of Modern Data Centers | Jeffreysebastian | [Read More](https://medium.com/p/5c323274dabd) |
-| Thu, 16 Apr 2026 06:45:52 GMT | AI Deepfake Detection 2026 | AI Story Teller | [Read More](https://medium.com/p/e3e756c9d3d2) |
-| Thu, 16 Apr 2026 06:42:33 GMT | How to Choose the Best Ethical Hacking Training and Course in Bangalore (Skills, Career & Reality… | Rudra Mehta | [Read More](https://medium.com/p/d9f26affe932) |
-| Thu, 16 Apr 2026 06:41:10 GMT | The Hacker Left Comments in the Malware… So I Reverse Engineered It | Shrivarshan | [Read More](https://medium.com/p/11f92f3abaf7) |
-| Thu, 16 Apr 2026 06:33:23 GMT | Penetration Testing as a Service Market Size Projected to Hit $1.98 billion by 2031 | Sheetalbhusari | [Read More](https://medium.com/p/f2bb4c212847) |
-| Thu, 16 Apr 2026 06:30:12 GMT | When Web Hacking Meets Docker Pentesting | Redfox Security | [Read More](https://medium.com/p/19c2fdb07f14) |
-| Thu, 16 Apr 2026 06:25:24 GMT | Beyond the Feed: Why Your Business Needs a Social Media Agency in the Era of AEO | Bismaameerali | [Read More](https://medium.com/p/d8a1f44e1b12) |
-| Thu, 16 Apr 2026 06:16:20 GMT | The Environment That Was Never Meant to Matter | Fateyaly | [Read More](https://medium.com/p/6fa756755615) |
-| Thu, 16 Apr 2026 06:12:13 GMT | DevVortex - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/7eb04a1f6510) |
-| Thu, 16 Apr 2026 06:09:23 GMT | API Security Testing: How to Recon and Find Vulnerabilities Like a Pentester | Vyomamshetty | [Read More](https://medium.com/p/5729f3a79ff3) |
-| Thu, 16 Apr 2026 06:02:08 GMT | How I Accidentally Became an API Archaeologist (and Found a Data Leak) | Shrivarshan | [Read More](https://medium.com/p/ca2b3e9f3945) |
-| Thu, 16 Apr 2026 06:00:20 GMT | SAP Consulting Services in India to Empower Digital Transformation | Denpro Technologies | [Read More](https://medium.com/p/754449e8dbca) |
-| Thu, 16 Apr 2026 05:56:38 GMT | Chatbot Pentesting Guide(Credit -deepconverse.com) | Jatin  yadav | [Read More](https://medium.com/p/6578fa070807) |
-| Thu, 16 Apr 2026 05:47:58 GMT | The Growing Need for Professional Security in Urban Areas | Henry Wilson | [Read More](https://medium.com/p/4fd512597985) |
-| Thu, 16 Apr 2026 05:42:58 GMT | The Silent Battlefield: How Cyber Laws Are Struggling to Keep Up with Modern Cyberwarfare | Meghshyam Kimmatkar | [Read More](https://medium.com/p/8a85737679e4) |
