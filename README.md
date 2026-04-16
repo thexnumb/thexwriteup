@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Apr 2026 09:34:09 GMT | The Compliance Burden: Navigating the EU AI Act and ISO 42001 | Aditya | [Read More](https://medium.com/p/62443e21e087) |
+| Thu, 16 Apr 2026 09:33:40 GMT | Your Website Looks Fine. This Free Scanner Disagrees. | Nicky Christensen | [Read More](https://medium.com/p/f550c0e73915) |
+| Thu, 16 Apr 2026 09:30:17 GMT | NEWSLETTER: Latest in AI, TikTok, Cybersecurity and “Anthropic Built an AI Too Powerful to Release… | Nitin Garg | [Read More](https://medium.com/p/0475874863e2) |
+| Thu, 16 Apr 2026 09:26:15 GMT | The Death of Tiers: Rethinking the SOC Architecture for the Agentic Era | HarkX | [Read More](https://medium.com/p/de63c9589b96) |
+| Thu, 16 Apr 2026 09:24:30 GMT | Electronic Evidence, Encryption and the Law | drsskro | [Read More](https://medium.com/p/e78a01735264) |
+| Thu, 16 Apr 2026 09:17:16 GMT | Cascading Cloud Downtime: Surviving Global Vendor Outages | DC9India | [Read More](https://medium.com/p/bb470904d965) |
+| Thu, 16 Apr 2026 09:15:59 GMT | The State of 2FA in 2026: Local-First vs. Cloud-Sync Authenticators | Misel Higgins | [Read More](https://medium.com/p/17cbac70f51c) |
+| Thu, 16 Apr 2026 09:07:35 GMT | Smart Port Cybersecurity Solutions: Keeping Digital Ports Secure | INTECH Creative Services | [Read More](https://medium.com/p/4f64d5b3971e) |
+| Thu, 16 Apr 2026 09:06:49 GMT | OSINT Briefing: Hacker News and Cybersecurity — April 16, 2026 | Gianluca Galimberti | [Read More](https://medium.com/p/c565937b0d1b) |
+| Thu, 16 Apr 2026 09:01:55 GMT | My Business Was Robbed: Why CCTV Monitoring Could Have Stopped It | Olivia Jane | [Read More](https://medium.com/p/9e92b934431e) |
+| Thu, 16 Apr 2026 09:01:46 GMT | 10 Best IT Outsourcing Strategies for Businesses | Apps Insight | [Read More](https://medium.com/p/c6030adae127) |
+| Thu, 16 Apr 2026 09:01:04 GMT | How policy drift happens and how to prevent it. | Gaurav Shukla | [Read More](https://medium.com/p/0e484fbd977e) |
+| Thu, 16 Apr 2026 09:01:04 GMT | Your Security Team Did Everything Right. You Got Hacked Anyway. | Selorm Adjabeng | [Read More](https://medium.com/p/521f14944e02) |
+| Thu, 16 Apr 2026 08:58:20 GMT | International Travel Security in Dubai: Ensuring Safe Journeys for Global Travelers | Vcpglobal | [Read More](https://medium.com/p/a048f7fb40e2) |
+| Thu, 16 Apr 2026 08:57:59 GMT | The Only AI Tools Guide You’ll Actually Finish Reading (Maybe) | KungPowUnicorn | [Read More](https://medium.com/p/453f1fada406) |
+| Thu, 16 Apr 2026 08:50:37 GMT | Top AWS Free Tier Mistakes That Lead to Unexpected Charges | Zeeshan Masood Keyani | [Read More](https://medium.com/p/58299f4f4719) |
+| Thu, 16 Apr 2026 08:49:30 GMT | Why Your Employees Are Your Biggest Security Risk: How Phishing Tests Fix That | CoBoo - Lumyo Awareness | [Read More](https://medium.com/p/93fbaa8c9fbc) |
+| Thu, 16 Apr 2026 08:30:30 GMT | Çanlar Kimin İçin Çalıyor — Claude Mythos | Taha | [Read More](https://medium.com/p/ab863338cdc5) |
+| Thu, 16 Apr 2026 08:23:06 GMT | The dependency vulnerability gap that CI/CD can’t fix | minikin | [Read More](https://medium.com/p/dae62b966a4b) |
+| Thu, 16 Apr 2026 08:15:54 GMT | Vibecoding / Agentic Engineering from a technological perspective: What could possibly go wrong? | Yannick Bontemps | [Read More](https://medium.com/p/9f464d2484e3) |
+| Thu, 16 Apr 2026 08:12:07 GMT | A Bittersweet Goodbye to Medium After One Year…..!! | Maverick | [Read More](https://medium.com/p/59770e49b28c) |
 | Thu, 16 Apr 2026 08:06:09 GMT | Why 24/7 Mobile Video Surveillance Is Essential for Modern Security | David Robert2025K | [Read More](https://medium.com/p/bef384638f6d) |
 | Thu, 16 Apr 2026 08:01:46 GMT | Why Your Business Needs a Video Surveillance Monitoring Service | David Robert2025K | [Read More](https://medium.com/p/013f04fa82a5) |
 | Thu, 16 Apr 2026 08:01:05 GMT | Plan the cleanup of stale devices. | Railsdevabam | [Read More](https://medium.com/p/c7158d762e74) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 02:41:35 GMT | Hacking MCP Servers in AI Systems — The Rug Pull: Tool Changes After Approval | Hideaki Takahashi | [Read More](https://medium.com/p/b4f1841da410) |
 | Thu, 16 Apr 2026 02:29:05 GMT | How We Built a Scalable PII Field Inventory System for Enterprise Applications | Umashankara Kalaiah | [Read More](https://medium.com/p/75bc4ec7432c) |
 | Thu, 16 Apr 2026 02:14:07 GMT | TryHackMe: Net Sec Challenge | Robert Perez | [Read More](https://medium.com/p/575c945d82b5) |
-| Thu, 16 Apr 2026 02:06:41 GMT | AI Hacking for Beginners: A Five-Article Series | Moez Ben-Azzouz | [Read More](https://medium.com/p/c0c08b8d3298) |
-| Thu, 16 Apr 2026 01:41:01 GMT | AI Models & Data (TryHackMe) — Beginner-Friendly Guide | Sukhveer Singh | [Read More](https://medium.com/p/69d8dce6de6f) |
-| Thu, 16 Apr 2026 01:31:10 GMT | Why "Smart" People Still Fall for Phishing. | InfoSec Insight | [Read More](https://medium.com/p/93437b13d467) |
-| Thu, 16 Apr 2026 01:28:35 GMT | Why Your Ansible CIS Playbook Passes on One Host and Fails on Another | Lionel Agishi | [Read More](https://medium.com/p/6437208da9db) |
-| Thu, 16 Apr 2026 01:26:05 GMT | How We Slashed Critical Vulnerabilities by 70% in Enterprise APIs | Umashankara Kalaiah | [Read More](https://medium.com/p/31d05021411e) |
-| Thu, 16 Apr 2026 01:16:49 GMT | The PHP Garbage Collector Nobody Talks About (Until It Kills Your App) | Ann R. | [Read More](https://medium.com/p/30d0c4a40063) |
-| Thu, 16 Apr 2026 01:10:16 GMT | Certified Red Team Expert (CRTE) Review 2026 | Charles-Thibault Sanchez | [Read More](https://medium.com/p/a1c690a61bd9) |
-| Thu, 16 Apr 2026 00:53:24 GMT | Auto-Activated Guardrails for Chain-of-Thought Interception & detecting distillation, fraud, and… | Mohamed Elkholy | [Read More](https://medium.com/p/852a291486c6) |
-| Thu, 16 Apr 2026 00:31:04 GMT | TryHackMe: Shadow Trace - Write-Up | Ash T | [Read More](https://medium.com/p/442941f1a6f6) |
-| Thu, 16 Apr 2026 00:08:07 GMT | UltraTech — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/f121c841d8f5) |
-| Wed, 15 Apr 2026 23:59:48 GMT | The Trojan Horse Quietly Hiding In Your Wordpress Website And How To Protect Yourself | Inkyreadsbooks | [Read More](https://medium.com/p/34b2988019fa) |
-| Wed, 15 Apr 2026 23:45:11 GMT | CVE-2026–35031: Critical Path Traversal to RCE in Jellyfin Media Server | Kerem | [Read More](https://medium.com/p/5f3a0c721235) |
-| Wed, 15 Apr 2026 23:41:36 GMT | How I Earned OSCP+: Real Challenges, Exam Pressure, and What Actually Worked | Aung Myint | [Read More](https://medium.com/p/bdcf056405b3) |
-| Wed, 15 Apr 2026 23:21:29 GMT | Analytics - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/e8334c4252e9) |
-| Wed, 15 Apr 2026 23:04:39 GMT | The AI Cyber Race Has Already Started, Most People Just Haven’t Noticed it Yet | Anindya Mishra | [Read More](https://medium.com/p/4572430c4646) |
-| Wed, 15 Apr 2026 23:01:02 GMT | The messy middle of generative AI has moved | DiUS | [Read More](https://medium.com/p/ee07a3caf9f9) |
-| Wed, 15 Apr 2026 22:40:45 GMT | I’ve started building a custom Yocto-based OS project for NVIDIA Jetson Nano Super so developers… | dhiraj deshmukh | [Read More](https://medium.com/p/fbda3d0ffe07) |
-| Wed, 15 Apr 2026 22:36:07 GMT | Evading an AI SOC with Sable from Vulnetic | Daniel Knight | [Read More](https://medium.com/p/fad12376995c) |
-| Wed, 15 Apr 2026 22:20:10 GMT | Set up a Honeypot server for free on AWS (with geoIP tracking) | Mythreya Hardur Madhukeshwara | [Read More](https://medium.com/p/41b8dba6fef4) |
-| Wed, 15 Apr 2026 22:10:26 GMT | All It Took Was a Negative Number: A Price Manipulation Story - PortSwigger — High-Level Logic… | Kate D Terracore | [Read More](https://medium.com/p/076509af5a48) |
-| Wed, 15 Apr 2026 22:06:13 GMT | The OSI Model (Except It Actually Makes Sense) — Part 1 | Aryan Vij | [Read More](https://medium.com/p/97d511947214) |
