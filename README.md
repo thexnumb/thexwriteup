@@ -12,7 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Apr 2026 16:20:34 GMT | Offsec “Sunset Noontide” CTF writeup | sabR | [Read More](https://medium.com/p/0db906a36aac) |
+| Thu, 16 Apr 2026 16:19:44 GMT | Cloud-Based Cyber Security Solutions in UAE: Why They’re Leading the Market | Vastechoffpage | [Read More](https://medium.com/p/c96269e4b95a) |
+| Thu, 16 Apr 2026 16:17:01 GMT | Rethinking How to Learn Cybersecurity in the Age of AI | Tracey Kadenyi | [Read More](https://medium.com/p/d6784975b9cc) |
+| Thu, 16 Apr 2026 16:12:28 GMT | AI Agents Don’t Have Passwords — And That’s a Massive Security Problem | Narendra Tallapaneni | [Read More](https://medium.com/p/8446de770c93) |
+| Thu, 16 Apr 2026 16:06:11 GMT | I Have Three Master’s Degrees and I Still Feel Behind in Tech | Don Rivera Diaz | [Read More](https://medium.com/p/234d81c686bf) |
+| Thu, 16 Apr 2026 16:06:01 GMT | Parcel (SQLi) WebVerse Writeup | 7s26Simon | [Read More](https://medium.com/p/973170ad0161) |
+| Thu, 16 Apr 2026 16:03:40 GMT | IAM Engineer Salary in UAE: What Most Job Listings Don’t Tell You | Dream Job Sure | [Read More](https://medium.com/p/1dae4d9975d1) |
+| Thu, 16 Apr 2026 16:01:01 GMT | Anthropic’s Claude Mythos Found Thousands of Zero-Days — And India Should Be Very Concerned | MayhemCode | [Read More](https://medium.com/p/37f43dec4e88) |
+| Thu, 16 Apr 2026 16:01:01 GMT | The Platformization Trap: Calling Yourself a Platform Doesn’t Make You One | Sandeep Potdar | [Read More](https://medium.com/p/3b4512f2fd73) |
+| Thu, 16 Apr 2026 15:56:01 GMT | How I Secured the Dutch Government(ncsc-nl): “Critical” Financial Leak | Enterlectury | [Read More](https://medium.com/p/e06a8327316b) |
+| Thu, 16 Apr 2026 15:55:22 GMT | Making Users Strong Again: Why Identity Security Needs a New Category | Dr. Shashi Karhail | [Read More](https://medium.com/p/568a910e28f3) |
+| Thu, 16 Apr 2026 15:47:27 GMT | Mobile App Pentesting with AndroGoat: Manual, Drozer & MobSF | Aastha Thakker | [Read More](https://medium.com/p/a8c9ca9c18d9) |
+| Thu, 16 Apr 2026 15:47:18 GMT | HTB — Flag Command (Web) | Toxkay | [Read More](https://medium.com/p/c77af5a8558c) |
+| Thu, 16 Apr 2026 15:31:05 GMT | OAuth Explained: How “Login with Google” Actually Works Behind the Scenes | NineTales | [Read More](https://medium.com/p/dc5dfeaad4da) |
+| Thu, 16 Apr 2026 15:27:52 GMT | Rockstar’s GTA Game Hacked – Attackers Published Millions of Records | Vishnukraju | [Read More](https://medium.com/p/c471d23d039c) |
+| Thu, 16 Apr 2026 15:27:28 GMT | How I Bypassed File Upload Restrictions Using a phar Polyglot | 0xKemzx | [Read More](https://medium.com/p/4fc03c365286) |
+| Thu, 16 Apr 2026 15:19:47 GMT | TryHackMe Writeup: AI-Assisted DFIR & Network Forensics ️‍♂️ | NASRALLAH SALEH (Xiro0x) | [Read More](https://medium.com/p/4d7273658a4a) |
+| Thu, 16 Apr 2026 15:18:58 GMT | From P4 to Critical: How I Weaponized target.com’s Email Infrastructure | Vanshrathore | [Read More](https://medium.com/p/0b1bf379408b) |
+| Thu, 16 Apr 2026 15:18:11 GMT | How HTTPS Actually Works ? | NineTales | [Read More](https://medium.com/p/bc484cb8692a) |
+| Thu, 16 Apr 2026 15:03:48 GMT | How ASRBD Protects Bangladesh’s Digital Frontier | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/98d1da7f3719) |
+| Thu, 16 Apr 2026 14:59:16 GMT | [Bug Bounty] I Got Tired of Running the Same 40 Tests. So I Built an AI That Does It For Me. | N1neKitsune | [Read More](https://medium.com/p/16ce35059267) |
 | Thu, 16 Apr 2026 14:54:05 GMT | Understanding Economic Security: A Global Overview | Huma Ejaz | [Read More](https://medium.com/p/d490d6edc966) |
+| Thu, 16 Apr 2026 14:52:08 GMT | How to Build a Risk Register | oussama | [Read More](https://medium.com/p/a7ed8fd6717c) |
 | Thu, 16 Apr 2026 14:47:32 GMT | From Cron Exploitation to Shell Escape: OverTheWire Bandit (Levels 23–33) | Ahmed Eldkrory | [Read More](https://medium.com/p/1656d8be3d4c) |
 | Thu, 16 Apr 2026 14:46:53 GMT | Practical SOC Analyst Professional (PSAP) — A Detailed Review on SOC 201 Course and Its Exam | Chicken0248 | [Read More](https://medium.com/p/1c8d18d0d12c) |
 | Thu, 16 Apr 2026 14:46:48 GMT | MCP Security Risks: Why the Browser Is the Missing Control Plane | Mammoth Cyber | [Read More](https://medium.com/p/d7927530472c) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 10:09:48 GMT | The Reality of Human Resource | Sayan Dutta | [Read More](https://medium.com/p/b14d77b0ddac) |
 | Thu, 16 Apr 2026 10:08:42 GMT | The Ultimate 2026 Guide: Why a Cyber Security Diploma Course in Delhi is Your Shortcut to a ₹8 LPA… | Varun Papnai | [Read More](https://medium.com/p/5a2ba1f89355) |
 | Thu, 16 Apr 2026 10:01:38 GMT | ️ Vault_AD Walkthrough (Medium) — OffSec Proving Grounds | yamish marshall | [Read More](https://medium.com/p/28003634e153) |
-| Thu, 16 Apr 2026 09:34:09 GMT | The Compliance Burden: Navigating the EU AI Act and ISO 42001 | Aditya | [Read More](https://medium.com/p/62443e21e087) |
-| Thu, 16 Apr 2026 09:33:40 GMT | Your Website Looks Fine. This Free Scanner Disagrees. | Nicky Christensen | [Read More](https://medium.com/p/f550c0e73915) |
-| Thu, 16 Apr 2026 09:30:17 GMT | NEWSLETTER: Latest in AI, TikTok, Cybersecurity and “Anthropic Built an AI Too Powerful to Release… | Nitin Garg | [Read More](https://medium.com/p/0475874863e2) |
-| Thu, 16 Apr 2026 09:26:15 GMT | The Death of Tiers: Rethinking the SOC Architecture for the Agentic Era | HarkX | [Read More](https://medium.com/p/de63c9589b96) |
-| Thu, 16 Apr 2026 09:24:30 GMT | Electronic Evidence, Encryption and the Law | drsskro | [Read More](https://medium.com/p/e78a01735264) |
-| Thu, 16 Apr 2026 09:17:16 GMT | Cascading Cloud Downtime: Surviving Global Vendor Outages | DC9India | [Read More](https://medium.com/p/bb470904d965) |
-| Thu, 16 Apr 2026 09:15:59 GMT | The State of 2FA in 2026: Local-First vs. Cloud-Sync Authenticators | Misel Higgins | [Read More](https://medium.com/p/17cbac70f51c) |
-| Thu, 16 Apr 2026 09:07:35 GMT | Smart Port Cybersecurity Solutions: Keeping Digital Ports Secure | INTECH Creative Services | [Read More](https://medium.com/p/4f64d5b3971e) |
-| Thu, 16 Apr 2026 09:06:49 GMT | OSINT Briefing: Hacker News and Cybersecurity — April 16, 2026 | Gianluca Galimberti | [Read More](https://medium.com/p/c565937b0d1b) |
-| Thu, 16 Apr 2026 09:01:55 GMT | My Business Was Robbed: Why CCTV Monitoring Could Have Stopped It | Olivia Jane | [Read More](https://medium.com/p/9e92b934431e) |
-| Thu, 16 Apr 2026 09:01:46 GMT | 10 Best IT Outsourcing Strategies for Businesses | Apps Insight | [Read More](https://medium.com/p/c6030adae127) |
-| Thu, 16 Apr 2026 09:01:04 GMT | How policy drift happens and how to prevent it. | Gaurav Shukla | [Read More](https://medium.com/p/0e484fbd977e) |
-| Thu, 16 Apr 2026 09:01:04 GMT | Your Security Team Did Everything Right. You Got Hacked Anyway. | Selorm Adjabeng | [Read More](https://medium.com/p/521f14944e02) |
-| Thu, 16 Apr 2026 08:58:20 GMT | International Travel Security in Dubai: Ensuring Safe Journeys for Global Travelers | Vcpglobal | [Read More](https://medium.com/p/a048f7fb40e2) |
-| Thu, 16 Apr 2026 08:57:59 GMT | The Only AI Tools Guide You’ll Actually Finish Reading (Maybe) | KungPowUnicorn | [Read More](https://medium.com/p/453f1fada406) |
-| Thu, 16 Apr 2026 08:50:37 GMT | Top AWS Free Tier Mistakes That Lead to Unexpected Charges | Zeeshan Masood Keyani | [Read More](https://medium.com/p/58299f4f4719) |
-| Thu, 16 Apr 2026 08:49:30 GMT | Why Your Employees Are Your Biggest Security Risk: How Phishing Tests Fix That | CoBoo - Lumyo Awareness | [Read More](https://medium.com/p/93fbaa8c9fbc) |
-| Thu, 16 Apr 2026 08:30:30 GMT | Çanlar Kimin İçin Çalıyor — Claude Mythos | Taha | [Read More](https://medium.com/p/ab863338cdc5) |
-| Thu, 16 Apr 2026 08:23:06 GMT | The dependency vulnerability gap that CI/CD can’t fix | minikin | [Read More](https://medium.com/p/dae62b966a4b) |
-| Thu, 16 Apr 2026 08:15:54 GMT | Vibecoding / Agentic Engineering from a technological perspective: What could possibly go wrong? | Yannick Bontemps | [Read More](https://medium.com/p/9f464d2484e3) |
-| Thu, 16 Apr 2026 08:12:07 GMT | A Bittersweet Goodbye to Medium After One Year…..!! | Maverick | [Read More](https://medium.com/p/59770e49b28c) |
-| Thu, 16 Apr 2026 08:06:09 GMT | Why 24/7 Mobile Video Surveillance Is Essential for Modern Security | David Robert2025K | [Read More](https://medium.com/p/bef384638f6d) |
