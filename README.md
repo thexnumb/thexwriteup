@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Apr 2026 09:43:21 GMT | Security System Orlando | Globalalarmsus | [Read More](https://medium.com/p/1cbb08e19510) |
+| Fri, 17 Apr 2026 09:40:32 GMT | Cloud IAM — who gets in, and how | Shiny Sherbina | [Read More](https://medium.com/p/5c3604d12efe) |
+| Fri, 17 Apr 2026 09:32:55 GMT | From Risk to Safety: How Toronto Security Guards Keep Businesses & Communities Secure | Grdsnscrt | [Read More](https://medium.com/p/3a45b60b3f0f) |
+| Fri, 17 Apr 2026 09:32:25 GMT | Quick Hack Series Part 1: File Encryption With One Tap | Gurumoorthy J | [Read More](https://medium.com/p/a1c71ecfd550) |
+| Fri, 17 Apr 2026 09:30:49 GMT | The Real Risks Inside Your Factory Network and How OT cybersecurity services Saudi Arabia Protect… | Invictux - OT Cybersecurity Solutions | [Read More](https://medium.com/p/ca2d0877a4d5) |
+| Fri, 17 Apr 2026 09:25:50 GMT | From Zero to Running Server: My Hands-on Journey with Microsoft Azure VM | Little_Sun4lower | [Read More](https://medium.com/p/78f6591f24e6) |
+| Fri, 17 Apr 2026 09:24:06 GMT | Kerberos Roasting in Active Directory | ZeroDay-Security-Services | [Read More](https://medium.com/p/d3c34a833031) |
+| Fri, 17 Apr 2026 09:22:10 GMT | Bandit Level 4 → Level 5 Walkthrough | Fakhri Ahmadov | [Read More](https://medium.com/p/88e29fb44420) |
+| Fri, 17 Apr 2026 09:21:59 GMT | FBI Issues Major Cybersecurity Warnings: What Orange County Businesses Must Do Now | Technijian | [Read More](https://medium.com/p/1ce239ea01a0) |
+| Fri, 17 Apr 2026 09:19:31 GMT | Trend micro customer service Australia contact number | Customer Support Information | [Read More](https://medium.com/p/7aada10fe159) |
+| Fri, 17 Apr 2026 09:16:25 GMT | Get Clear Footage With Proper CCTV Camera Installation | IT Solution Dubai | [Read More](https://medium.com/p/f4ead22efa3e) |
+| Fri, 17 Apr 2026 09:14:42 GMT | Bandit Level 3 → Level 4 Walkthrough | Fakhri Ahmadov | [Read More](https://medium.com/p/116f82254144) |
+| Fri, 17 Apr 2026 09:09:28 GMT | From Firewalls to Fake Developers: Why Cybersecurity Starts With Who You Let In | Sergiu Matei | [Read More](https://medium.com/p/d4eeb853f116) |
+| Fri, 17 Apr 2026 09:07:52 GMT | HP printer support contact number Australia | Customer Support Information | [Read More](https://medium.com/p/acc8c95bfe53) |
+| Fri, 17 Apr 2026 09:06:57 GMT | CTF Competitions Are Losing Their Soul And Cybersecurity Is Paying the Price | Neetrox | [Read More](https://medium.com/p/fb526c8fbd9b) |
+| Fri, 17 Apr 2026 09:04:02 GMT | Claude Mythos: The Most Dangerous AI Ever Created? | Cybersphere Official | [Read More](https://medium.com/p/a577e058677d) |
+| Fri, 17 Apr 2026 09:03:04 GMT | Your Network Can Be Hacked From a Phone. Here’s How. | Defense Stack | [Read More](https://medium.com/p/ce29fe85c612) |
+| Fri, 17 Apr 2026 09:02:55 GMT | Beginner Mistakes in Recon — And How Professionals Avoid Them | Sunjid Ahmed Siyem | [Read More](https://medium.com/p/21c3815d0bda) |
+| Fri, 17 Apr 2026 08:58:13 GMT | You Can’t Hack What You Don’t See: Reconnaissance and Nmap Explained | Maharshi Patel | [Read More](https://medium.com/p/4773900d67e6) |
+| Fri, 17 Apr 2026 08:52:05 GMT | The One Who Is Too Used to Being Alone | yūgen | [Read More](https://medium.com/p/416b931ce77c) |
+| Fri, 17 Apr 2026 08:43:18 GMT | How to Run a Real-World Phishing Simulation (End-to-End Guide)-Part-1 | Kislay Kumar | [Read More](https://medium.com/p/a344329915d4) |
+| Fri, 17 Apr 2026 08:42:27 GMT | I Yearn – The Agony in the Act of Letting Go & Moving On. | Shilpa's Recitals | [Read More](https://medium.com/p/c85cf033fa45) |
+| Fri, 17 Apr 2026 08:38:46 GMT | DockerLabs Writeup — Tokenaso (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a937f302e258) |
+| Fri, 17 Apr 2026 08:34:16 GMT | Why So Much Writing Now Sounds the Same | John Rees — Writer of Historical Fiction & Essays | [Read More](https://medium.com/p/d99226b72ce7) |
+| Fri, 17 Apr 2026 08:34:03 GMT | İlk ‘Bug’ Gerçekten Bir Böcek Miydi? | HSD Atatürk Üniversitesi | [Read More](https://medium.com/p/fe5fc387c110) |
+| Fri, 17 Apr 2026 08:32:01 GMT | Is Your Apple Wallet Safe? The “Express Transit” Visa Hack Explained. | apple insides | [Read More](https://medium.com/p/9e569271f3ca) |
+| Fri, 17 Apr 2026 08:22:13 GMT | Cyber Security Secrets Hackers Don’t Want You to Know (Stay Safe in 2026) | Ajaysharma Wera | [Read More](https://medium.com/p/5aac32685c54) |
 | Fri, 17 Apr 2026 08:01:13 GMT | Ethical Hacking Summer Internship for Freshers with Live Projects | cyber security Updates | [Read More](https://medium.com/p/ae4e3f93b912) |
 | Fri, 17 Apr 2026 08:01:04 GMT | Your Employees Cannot Protect What They Do Not Understand | CoBoo - Lumyo Awareness | [Read More](https://medium.com/p/2d451d27d9aa) |
 | Fri, 17 Apr 2026 07:59:15 GMT | The Invisible Attacker: How Hackers Hijack Your AI Without Ever Touching Your System | MrDuc | [Read More](https://medium.com/p/848fa0ec8ddd) |
@@ -76,6 +103,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Apr 2026 02:19:32 GMT | The $10,000 Tap: How “Convenience” Created a Multi-Thousand Dollar Security Hole | Purvansh Bhatt | [Read More](https://medium.com/p/9e2d915c7e55) |
 | Fri, 17 Apr 2026 02:09:28 GMT | Weekly Threat Intelligence Report 13 Apr 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/8a377bbc86d6) |
 | Fri, 17 Apr 2026 02:06:29 GMT | Official Security Audit: The 2026 Global AI Automation & Data Sovereignty Index | Wardagpt | [Read More](https://medium.com/p/066e7a4a0dff) |
+| Fri, 17 Apr 2026 01:51:42 GMT | ¿Qué carajo tiene por dentro un Mod APK que no tiene uno normal? | r/dPixls | [Read More](https://medium.com/p/7aed7a1f8d15) |
 | Fri, 17 Apr 2026 01:21:37 GMT | Vault Secrets Management — Stop Hardcoding Credentials | Danish Khakwani | [Read More](https://medium.com/p/4d2c2e8fbb75) |
 | Fri, 17 Apr 2026 01:12:03 GMT | Every time you drop a pin in Accra, someone is watching | Selorm Adjabeng | [Read More](https://medium.com/p/6c4574509024) |
 | Fri, 17 Apr 2026 01:11:02 GMT | Cognitive Sovereignty: How Sweden is Reactivating Its “Psychological Defence” for the Hybrid Age | Sumona Banerji | [Read More](https://medium.com/p/3a428af83742) |
@@ -84,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Apr 2026 00:11:15 GMT | CVE-2021–42013 Analysis | isa ergişi | [Read More](https://medium.com/p/137b66bc3fe0) |
 | Fri, 17 Apr 2026 00:01:01 GMT | Guía Completa de Vulnerabilidades JWT: Detección, Explotación y Bypass de WAF | JPablo13 | [Read More](https://medium.com/p/b97cf9a72897) |
 | Fri, 17 Apr 2026 00:00:25 GMT | Dragon Boss Bypassed Windows Defender on 25,000 Endpoints | Blackout VPN | [Read More](https://medium.com/p/42fdbda04791) |
-| Thu, 16 Apr 2026 23:56:40 GMT | Relungan Tak Berwujud | arlya. | [Read More](https://medium.com/p/376e38cc6e75) |
-| Thu, 16 Apr 2026 23:53:06 GMT | Unconventional Dating Advice for Men for Better Results | Melanie Kane | [Read More](https://medium.com/p/bc513c540617) |
-| Thu, 16 Apr 2026 23:38:15 GMT | The AI Builder’s First Steps | Jeff Borneman | [Read More](https://medium.com/p/2536140b1707) |
-| Thu, 16 Apr 2026 23:21:13 GMT | Compliance Is a Baseline, Not a Security Strategy | Dave Bowden | [Read More](https://medium.com/p/6c83bf644e3c) |
-| Thu, 16 Apr 2026 23:20:51 GMT | Saving A Medical Facility Part 1 | DSD | [Read More](https://medium.com/p/58a0b9548448) |
-| Thu, 16 Apr 2026 23:11:53 GMT | The $10 Million Wake-Up Call | DSD | [Read More](https://medium.com/p/41d48b966552) |
-| Thu, 16 Apr 2026 23:11:04 GMT | Password Reset Token Remains Valid After Email Change Leading to Account Takeover . | Ali Mostafa | [Read More](https://medium.com/p/7d84076b87b1) |
-| Thu, 16 Apr 2026 23:09:17 GMT | Integrating Generative AI: From Hype to Real-World Impact | KoranDunia | [Read More](https://medium.com/p/ce1ec7f23f5f) |
-| Thu, 16 Apr 2026 23:08:14 GMT | Stop Hardcoding AWS Access Keys — You’re One git push Away from a Disaster | Swagat Tripathy | [Read More](https://medium.com/p/b8155af9c218) |
-| Thu, 16 Apr 2026 22:43:44 GMT | The Logic of the Capitalist Economy and the Origin of Inference | Haruka Matsukasa | [Read More](https://medium.com/p/4cefa1a558e1) |
-| Thu, 16 Apr 2026 22:15:11 GMT | Stop Treating Security Like a Gatekeeper (Start Treating It Like a Guardrail) | Nicolas Corder | [Read More](https://medium.com/p/e560ddc8433c) |
-| Thu, 16 Apr 2026 22:03:11 GMT | OT/ICS: Introduction · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/25d569d0dec1) |
-| Thu, 16 Apr 2026 22:01:10 GMT | Ethena looping strategy security and risks | Anar Kuliiev | [Read More](https://medium.com/p/a3ba12819666) |
-| Thu, 16 Apr 2026 21:51:01 GMT | Securing Autonomous Agents: Identity, Access, and Tool Risks | Michel Alan López | [Read More](https://medium.com/p/2e4068a09b1d) |
-| Thu, 16 Apr 2026 21:38:31 GMT | PDF Injection Attack: A file Hacked the AI | Prince Bharti | [Read More](https://medium.com/p/1c4a5c3a1331) |
-| Thu, 16 Apr 2026 21:36:39 GMT | TryHackMe: Defensive Security Intro Writeup | Jonathan Sanfer | [Read More](https://medium.com/p/7336868e7003) |
-| Thu, 16 Apr 2026 21:32:08 GMT | Claude Mythos Preview Is Not Just a Better Claude. It Changes the Economics of Cybersecurity. | Abhishek Gang Deb | [Read More](https://medium.com/p/66bbc1d9d836) |
-| Thu, 16 Apr 2026 21:28:07 GMT | How Federal Agencies Are Transforming with Cloud and AI | Alliance Global Tech Inc | [Read More](https://medium.com/p/7b51849424e3) |
-| Thu, 16 Apr 2026 21:27:04 GMT | Attackers Actively Exploiting Critical Vulnerability in Ninja Forms — File Upload Plugin | Wordfence | [Read More](https://medium.com/p/f595379e2099) |
-| Thu, 16 Apr 2026 21:21:41 GMT | WordPress Has a Security Problem — And Cloudflare’s EmDash Might Be the Beginning of a Fix | Mluqman150 | [Read More](https://medium.com/p/bb4c7b4994bb) |
-| Thu, 16 Apr 2026 21:21:01 GMT | Why Clear Transaction Approvals Matter More Than Most Wallets Admit | Adrian Vale | [Read More](https://medium.com/p/20ddeab2b857) |
-| Thu, 16 Apr 2026 21:14:10 GMT | Laravel, Inertia.js & Vue 3: The Ultimate Guide to Forms and File Uploads | Houdaifa Boucenna | [Read More](https://medium.com/p/7fb089c01517) |
-| Thu, 16 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 51: NAS Software | Maximillian Rueda | [Read More](https://medium.com/p/b1ad6fcd3866) |
-| Thu, 16 Apr 2026 20:57:28 GMT | Securing Claude Code on Microsoft Foundry: Part 1 — The Threat Model | ZimCanIT | [Read More](https://medium.com/p/32facbb54b8b) |
-| Thu, 16 Apr 2026 20:55:05 GMT | Worker Factory Start Routine Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/742c26214616) |
-| Thu, 16 Apr 2026 20:52:22 GMT | Keisha Gebre: The Security Specialist Redefining Risk Mitigation and Institutional Safety | Keisha Gebre | [Read More](https://medium.com/p/20850247384d) |
-| Thu, 16 Apr 2026 20:38:03 GMT | MEV as a Security Surface: When Adversarial Ordering Breaks Protocol Assumptions | Exploitless | [Read More](https://medium.com/p/9018237b3f4d) |
-| Thu, 16 Apr 2026 20:29:27 GMT | Write-Up: Brooklyn Nine Nine | Felix Schoenitz | [Read More](https://medium.com/p/cb9c0acacb02) |
