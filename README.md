@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Apr 2026 18:10:40 GMT | The Future of Cybersecurity — Staying Ahead of Threats | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/3eaa8a7707b1) |
+| Fri, 17 Apr 2026 18:08:33 GMT | Is Your Organization Being Watched? | TechDemocracy | [Read More](https://medium.com/p/b4a19f658c4d) |
+| Fri, 17 Apr 2026 18:08:33 GMT | Securing the Backbone — Issue #20: When Disclosure Fails — What the SolarWinds Settlement Signals… | Eric Gallagher | [Read More](https://medium.com/p/7cd2bbb31d99) |
+| Fri, 17 Apr 2026 18:08:15 GMT | Securing the Backbone — Issue #18: It’s What’s Inside the Container That’ll Get You | Eric Gallagher | [Read More](https://medium.com/p/12d68e24b548) |
+| Fri, 17 Apr 2026 17:56:30 GMT | I Prefer Linux… But My Machine Runs Windows. This Fixed My Workflow | Trixia Horner | [Read More](https://medium.com/p/f91f40ed75e2) |
+| Fri, 17 Apr 2026 17:56:01 GMT | # 30 Days of Naoris: What I Learned and Why I’m More Bullish Than Ever | Sebastien | [Read More](https://medium.com/p/888805f25b99) |
+| Fri, 17 Apr 2026 17:49:36 GMT | From Wanting to Be an Astronaut to Landing in Chicago: The Messy, Honest Story of Building Myself… | Fino :) | [Read More](https://medium.com/p/d048dc353374) |
+| Fri, 17 Apr 2026 17:48:32 GMT | How I Built a Secure One-Time Secret Sharing App with Laravel | Istiyakpasa | [Read More](https://medium.com/p/028e0d0a7fa3) |
+| Fri, 17 Apr 2026 17:38:34 GMT | Nothing is Random — Part 2 | Ruparelnitya | [Read More](https://medium.com/p/86bcdd9799c8) |
+| Fri, 17 Apr 2026 17:37:57 GMT | TryHackMe - UnIndexed - WriteUp | Axoloth | [Read More](https://medium.com/p/753e012b7acd) |
+| Fri, 17 Apr 2026 17:29:56 GMT | Is This the Oppenheimer Moment? | Sukanya P | [Read More](https://medium.com/p/dbbfaab42353) |
+| Fri, 17 Apr 2026 17:28:32 GMT | Blink vs Ring: Which Smart Video Doorbell Is Best for Your Home in 2026? | electronic pro | [Read More](https://medium.com/p/4b64926a214a) |
 | Fri, 17 Apr 2026 17:22:29 GMT | Why Staff Augmentation Is the Future of Agile Workforce Management | One Federal Solution | [Read More](https://medium.com/p/97c716574ef7) |
 | Fri, 17 Apr 2026 17:21:05 GMT | How to Exploit SSH (Port 22) on Metasploitable 2 Using Metasploit | Vino Cybersec | [Read More](https://medium.com/p/077ad725542f) |
 | Fri, 17 Apr 2026 17:10:04 GMT | A Plain-Language Guide for SSO | Pronomita Dey | [Read More](https://medium.com/p/35636de95ff6) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Apr 2026 12:21:18 GMT | 10 Growth-Stage HRMS Solutions in India for Companies Expanding Beyond 50 Employees 2026 | Aditi Sharma | [Read More](https://medium.com/p/59327b27b67f) |
 | Fri, 17 Apr 2026 12:12:33 GMT | CyberWarFare Labs — Certified Cyber Security Engineer [CCSE] — My Experience and Review | Chicken0248 | [Read More](https://medium.com/p/f268de7b2f23) |
 | Fri, 17 Apr 2026 12:08:46 GMT | Talsec Global Threat Report 2025 | Talsec | [Read More](https://medium.com/p/ebe5b19a749a) |
-| Fri, 17 Apr 2026 11:45:07 GMT | When AI Becomes the Attacker: Inside a 195 Million Record Cyber Breach | Sharanraju | [Read More](https://medium.com/p/76548cf5365f) |
-| Fri, 17 Apr 2026 11:43:46 GMT | Vibe Coding Is a Security Hazard. | Sec & the City | [Read More](https://medium.com/p/d6bc51294db2) |
-| Fri, 17 Apr 2026 11:41:59 GMT | On AI, Cybersecurity, and Pakistan’s Digital Future: Reflections From My NTN News Interview | Sage Khan | [Read More](https://medium.com/p/8814f3674ae3) |
-| Fri, 17 Apr 2026 11:38:59 GMT | Unlock Your Career: The Ultimate Guide to MSc Cyber Security Programs | Riya Sachdeva | [Read More](https://medium.com/p/b6fe7c02cdda) |
-| Fri, 17 Apr 2026 11:37:10 GMT | Managed IT Services vs In-House IT: Which Is Better for Small Businesses? | Managed Service Provider | [Read More](https://medium.com/p/1db71fd62635) |
-| Fri, 17 Apr 2026 11:35:03 GMT | How to Respond to a Cyberattack: A Practical Guide for Businesses | GRC Software | [Read More](https://medium.com/p/f8c1023f9e17) |
-| Fri, 17 Apr 2026 11:33:33 GMT | The Psycholog‌y Beh‌ind Trustin​g a Securi⁠ty Company with Personal S​paces | Mark H Nixon | [Read More](https://medium.com/p/678dcef377f5) |
-| Fri, 17 Apr 2026 11:32:17 GMT | I Let AI Write My Code for a Week. Here’s the Mess I Almost Shipped. | Kenil Lukhi | [Read More](https://medium.com/p/a8a75d409547) |
-| Fri, 17 Apr 2026 11:31:01 GMT | The One SSH Entry That Was Missing Its Pair #4 | Faruk Ahmed | [Read More](https://medium.com/p/7b026d1a897c) |
-| Fri, 17 Apr 2026 11:31:01 GMT | Kali Linux Commands Every Beginner Must Know - by Karanam Shrivasta (15 years old ) | Karanam Shrivasta | [Read More](https://medium.com/p/9638a18307b4) |
-| Fri, 17 Apr 2026 11:30:53 GMT | Payouts King Emerges: A New Ransomware Threat Built on Familiar Tactics | Jas | [Read More](https://medium.com/p/000e31038e00) |
-| Fri, 17 Apr 2026 11:26:27 GMT | The Real AI Risk Isn’t the Model. It’s What It Can Access | Suny Choudhary | [Read More](https://medium.com/p/ca2f842f5cf4) |
