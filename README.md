@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Apr 2026 13:50:40 GMT | From Image Upload to Admin Panel: How a Simple SSRF Led to Massive PII Disclosure and earned $$$$ | Sagar Dhoot | [Read More](https://medium.com/p/738e3be3708c) |
+| Fri, 17 Apr 2026 13:48:42 GMT | A Security Practitioner’s Guide to CPS (Cyber-Physical Systems) Resilience and the Independent… | Berend Watchus | [Read More](https://medium.com/p/c880be0e0c7a) |
+| Fri, 17 Apr 2026 13:48:24 GMT | Navigating the Perilous Landscape of AI: Understanding and Mitigating Agent Traps | Alessandro Pignati | [Read More](https://medium.com/p/3dc14e0a950f) |
+| Fri, 17 Apr 2026 13:44:01 GMT | Making Users Strong Again :The Human Angle of Cybersecurity | Dr. Shashi Karhail | [Read More](https://medium.com/p/eb97370a1af3) |
+| Fri, 17 Apr 2026 13:41:47 GMT | THE PARADIGMATIC PIVOT: A MANIFESTO FOR THE AGE OF THE AUTOMATER | Kendrick Washington | [Read More](https://medium.com/p/f494d66e8e62) |
+| Fri, 17 Apr 2026 13:41:33 GMT | Why SIM Cloning Isn’t Used Anymore, And What Changed It | Onwuegbuchulemvic | [Read More](https://medium.com/p/033cc9982bd0) |
+| Fri, 17 Apr 2026 13:34:20 GMT | Burp Suite Was Blind to This App Until I Found the HTTP/2 Issue | Selamawit Alemu | [Read More](https://medium.com/p/b321905776fb) |
+| Fri, 17 Apr 2026 13:29:56 GMT | Title: My First Penetration Testing Agreement — What I Built and What I Learned. | Yankho Funsani | [Read More](https://medium.com/p/0246226de7e7) |
+| Fri, 17 Apr 2026 13:29:07 GMT | Poramate Piansakul | Poramate Piansakul | [Read More](https://medium.com/p/61d57912c84c) |
+| Fri, 17 Apr 2026 13:27:37 GMT | The AI You’re Using Was Trained on 12,000 Stolen Passwords. Nobody Told You. | Dhanush N | [Read More](https://medium.com/p/4eb6e0f006fb) |
+| Fri, 17 Apr 2026 13:19:56 GMT | How I Made €200 Just by Changing a Response | Dheeraj | [Read More](https://medium.com/p/c201624867c4) |
+| Fri, 17 Apr 2026 13:13:28 GMT | mcafee customer service uk email address | Zuerevalexander | [Read More](https://medium.com/p/592932495e12) |
+| Fri, 17 Apr 2026 13:11:42 GMT | AI Is Becoming a Hacker: How New Cybersecurity Tools Are Creating Both Defenders and Threats | Sam Writes Security | [Read More](https://medium.com/p/a2e69e952cb5) |
+| Fri, 17 Apr 2026 13:06:45 GMT | AOL support number UK customer service UK | Zuerevalexander | [Read More](https://medium.com/p/0a14a912ec43) |
+| Fri, 17 Apr 2026 12:48:33 GMT | The Mythos Era — When AI Became the Story | Ajay Jeevan Jose | [Read More](https://medium.com/p/9529f2031ae6) |
+| Fri, 17 Apr 2026 12:47:27 GMT | The Security Mistakes Most Developers Make — And the Tools That Fix Them | JustSouichi | [Read More](https://medium.com/p/0ae14504861f) |
+| Fri, 17 Apr 2026 12:46:01 GMT | Stop Shipping AI Slop: 9-Step Code & Security Audit Before You Push | SudoChef | [Read More](https://medium.com/p/1a452bfe094b) |
+| Fri, 17 Apr 2026 12:41:53 GMT | ⚠️ 5 BTC Gone Overnight: Why I No Longer Trust “Safe” Hardware Wallets — And What I Use Instead | Alejandro Steiner | [Read More](https://medium.com/p/45c0cb2fa663) |
+| Fri, 17 Apr 2026 12:41:01 GMT | Inside a SOC investigation: a real attack flow, step by step | Manubhav Sharma | [Read More](https://medium.com/p/144ae2cdc92f) |
+| Fri, 17 Apr 2026 12:36:01 GMT | The npm Packages You Use Every Day Are Sicker Than You Think | Arch Vincenzo Rubino | [Read More](https://medium.com/p/e34b35d03d3d) |
+| Fri, 17 Apr 2026 12:28:48 GMT | How an Elderly Woman Outsmarted a Tech Support Scammer Using Cyberraxha app— And How You Can Too | Cyberraxha | [Read More](https://medium.com/p/6425b400b548) |
+| Fri, 17 Apr 2026 12:22:53 GMT | I hacked deeper into a network without moving — here’s how SSH pivoting works | Saswata Mohapatra -- Ringo | [Read More](https://medium.com/p/e04952a87214) |
+| Fri, 17 Apr 2026 12:22:41 GMT | HTML | Jathursika | [Read More](https://medium.com/p/47da98e5643b) |
+| Fri, 17 Apr 2026 12:22:05 GMT | What is Threat Hunting? A Proactive Approach to Cybersecurity | Digital Defense | [Read More](https://medium.com/p/e5fca64cfaf0) |
+| Fri, 17 Apr 2026 12:21:18 GMT | 10 Growth-Stage HRMS Solutions in India for Companies Expanding Beyond 50 Employees 2026 | Aditi Sharma | [Read More](https://medium.com/p/59327b27b67f) |
+| Fri, 17 Apr 2026 12:12:33 GMT | CyberWarFare Labs — Certified Cyber Security Engineer [CCSE] — My Experience and Review | Chicken0248 | [Read More](https://medium.com/p/f268de7b2f23) |
+| Fri, 17 Apr 2026 12:08:46 GMT | Talsec Global Threat Report 2025 | Talsec | [Read More](https://medium.com/p/ebe5b19a749a) |
 | Fri, 17 Apr 2026 11:45:07 GMT | When AI Becomes the Attacker: Inside a 195 Million Record Cyber Breach | Sharanraju | [Read More](https://medium.com/p/76548cf5365f) |
 | Fri, 17 Apr 2026 11:43:46 GMT | Vibe Coding Is a Security Hazard. | Sec & the City | [Read More](https://medium.com/p/d6bc51294db2) |
 | Fri, 17 Apr 2026 11:41:59 GMT | On AI, Cybersecurity, and Pakistan’s Digital Future: Reflections From My NTN News Interview | Sage Khan | [Read More](https://medium.com/p/8814f3674ae3) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Apr 2026 08:01:04 GMT | Your Employees Cannot Protect What They Do Not Understand | CoBoo - Lumyo Awareness | [Read More](https://medium.com/p/2d451d27d9aa) |
 | Fri, 17 Apr 2026 07:59:15 GMT | The Invisible Attacker: How Hackers Hijack Your AI Without Ever Touching Your System | MrDuc | [Read More](https://medium.com/p/848fa0ec8ddd) |
 | Fri, 17 Apr 2026 07:48:55 GMT | AI Powered Cybersecurity in 2026: Defending Against Next Generation Threats | Abdul Rafay | [Read More](https://medium.com/p/ef50fcb9a73e) |
-| Fri, 17 Apr 2026 07:48:00 GMT | The Day My Phone Died And I Discovered the Future of Money on WhatsApp | Aminu ATG | [Read More](https://medium.com/p/8522c9435d29) |
-| Fri, 17 Apr 2026 07:42:54 GMT | SQL Injection Database Ko Hack Karo: Data Nikalo, Admin Bano, Server Takeover Karo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/95dc4bcd4569) |
-| Fri, 17 Apr 2026 07:31:01 GMT | GPT-5.4: OpenAI’s Most Ambitious Model Yet — And Where It Still Falls Short | MayhemCode | [Read More](https://medium.com/p/c13930963e27) |
-| Fri, 17 Apr 2026 07:30:20 GMT | Beyond Bullets and Borders: Pakistan’s Rise in the Cyber Domain | Muhammad Mohsin Iqbal | [Read More](https://medium.com/p/0116df3707af) |
-| Fri, 17 Apr 2026 07:29:56 GMT | Cheese CTF — Complete Walkthrough & Writeup | Whiteghst | [Read More](https://medium.com/p/5ff9a1846265) |
-| Fri, 17 Apr 2026 07:28:40 GMT | The NIST Post-Quantum Cryptography Standardization Process | ShreehariMenon | [Read More](https://medium.com/p/576af5ef4459) |
-| Fri, 17 Apr 2026 07:28:04 GMT | Rust Is Becoming the Programming Language of Institutional Trust | The Stateless Samurai | [Read More](https://medium.com/p/ac4ff7ccc1a1) |
-| Fri, 17 Apr 2026 07:25:11 GMT | How is AI Changing SOC Operations? | InfosecTrain | [Read More](https://medium.com/p/ff95ae647f18) |
-| Fri, 17 Apr 2026 07:20:05 GMT | Silent Threat in the Avatar: Unmasking a Stored XSS via File Uploads | Shreyash Mall | [Read More](https://medium.com/p/764ae9f3713c) |
-| Fri, 17 Apr 2026 07:19:25 GMT | Smarter Security: Leveraging Analytics and Automation for Faster Response | Gauri Kale | [Read More](https://medium.com/p/6caffebaee5a) |
-| Fri, 17 Apr 2026 07:16:15 GMT | The AI Agent Attack Surface in 2026: From MCP Tools to Webhook-Exposed Runners | Sky Zhang | [Read More](https://medium.com/p/ea9649aa3809) |
-| Fri, 17 Apr 2026 07:10:03 GMT | Partnering with an ot cybersecurity company Saudi Arabia: A Practical Guide for Industrial Leaders | Invictux - OT Cybersecurity Solutions | [Read More](https://medium.com/p/a37242e89c9b) |
-| Fri, 17 Apr 2026 07:05:35 GMT | You Were Never Hidden,You Were Just Unobserved | Fateyaly | [Read More](https://medium.com/p/244166df6a72) |
-| Fri, 17 Apr 2026 06:59:01 GMT | Commercial Security System Market Share Analysis by Component and Technology | Avinashgogawale | [Read More](https://medium.com/p/4a4f6424e871) |
-| Fri, 17 Apr 2026 06:53:20 GMT | Kerala’s Youngest Ethical Hacker: What Happens When Curiosity Meets the Right Direction | Cyberbee | [Read More](https://medium.com/p/83a6e29f0221) |
-| Fri, 17 Apr 2026 06:40:55 GMT | Apache ActiveMQ Under Active Exploitation: Why CVE-2026–34197 Is More Dangerous Than It First Looks | Germano Costi | [Read More](https://medium.com/p/1dedbda30010) |
-| Fri, 17 Apr 2026 06:35:07 GMT | AI Governance Starts With Identifying AI Systems | Amritha George | [Read More](https://medium.com/p/0a82ad4ec550) |
-| Fri, 17 Apr 2026 06:30:17 GMT | Resumable File Uploads in the Browser Using the File System Access API | Andrei Lopatin | [Read More](https://medium.com/p/4645d0006a8f) |
-| Fri, 17 Apr 2026 06:07:21 GMT | Network Security Framework for Enterprises: A Complete Guide to Building Secure IT… | Omnilink Technology | [Read More](https://medium.com/p/cd6c32984235) |
-| Fri, 17 Apr 2026 06:04:21 GMT | The Saffron Qubit: How India Built the World’s Most Resilient Shield for the Quantum Age | Hitesh Rohilla | [Read More](https://medium.com/p/3d67c1925dfb) |
-| Fri, 17 Apr 2026 06:01:01 GMT | Building and Securing an API Gateway with Cloudflare Workers and Auth0 | Odunlade Adeola | [Read More](https://medium.com/p/3102dfc57358) |
-| Fri, 17 Apr 2026 05:59:06 GMT | Internet Protocol Version 8 (IPv8): Re-Architecting the Internet Around Identity, Control, and… | Samyakgoel | [Read More](https://medium.com/p/7153d0f1d05c) |
-| Fri, 17 Apr 2026 05:59:00 GMT | Non-Human Identity Attacks: When APIs, Bots, and Service Accounts Become the New Target | Cynox Security LLP. | [Read More](https://medium.com/p/c75db47d3bb4) |
-| Fri, 17 Apr 2026 05:57:12 GMT | The Dark Side of Generative AI in Cybercrime | Ddm atiq | [Read More](https://medium.com/p/90b78d65e2ab) |
-| Fri, 17 Apr 2026 05:56:13 GMT | -     … | AI Kit Hub | [Read More](https://medium.com/p/7b1821b67e01) |
-| Fri, 17 Apr 2026 05:54:26 GMT | The Biggest Cybersecurity Myths Companies Still Believe in 2026 (Part 2) | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/06ead3317da1) |
-| Fri, 17 Apr 2026 05:43:55 GMT | High Value Asset Protection Services: Safeguarding What Matters Most | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/669e278db89d) |
