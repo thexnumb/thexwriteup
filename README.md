@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Apr 2026 23:23:55 GMT | How an Attacker Broke Into My Lab And How Wazuh Caught It | Daniel Williams | [Read More](https://medium.com/p/100fe5004b7c) |
+| Fri, 17 Apr 2026 23:05:03 GMT | You’re Not Safe Online: What Cybersecurity Really Means (And Why It Should Concern You) | JIBUNOR ONYINYE PRAISE | [Read More](https://medium.com/p/b95bf81e9776) |
+| Fri, 17 Apr 2026 22:59:57 GMT | You’re Not Safe Online: What Cybersecurity Really Means (And Why It Should Concern You). | JIBUNOR ONYINYE PRAISE | [Read More](https://medium.com/p/e675b3188a2e) |
 | Fri, 17 Apr 2026 22:27:19 GMT | AS-REP Roasting: When Pre-Auth Is Off and the Hash Is Free | Garrett Stimpson | [Read More](https://medium.com/p/6d259e9b9026) |
+| Fri, 17 Apr 2026 22:25:16 GMT | The Cybersecurity Villains Lurking Around Your Business Right Now | ClawHero AI | [Read More](https://medium.com/p/f091ed2f13fc) |
 | Fri, 17 Apr 2026 22:24:23 GMT | Understand the Significance of $ITL and $ITLG in Daily Life, Allowing for Direct or Converted… | GANGURI VENKATRAO - T3 AMBASSADOR OF INTERLINK LAB | [Read More](https://medium.com/p/5818b38daef0) |
 | Fri, 17 Apr 2026 22:23:08 GMT | The Password Saving and Protection Tool Every Business Owner and Freelancer Needs to Work Faster… | Fahad Ali | [Read More](https://medium.com/p/34bcd17f89a4) |
 | Fri, 17 Apr 2026 22:20:59 GMT | Day 5 — CSRF Token Bypass using GET Request | zero_day | [Read More](https://medium.com/p/791cba29812d) |
@@ -89,6 +93,7 @@ In an era where data… | Jake Smith | [Read More](https://medium.com/p/929e39d5
 | Fri, 17 Apr 2026 17:03:43 GMT | The Hidden Discipline Behind Security: Why Mental Models Matter More Than Tools | Eric Vanderburg | [Read More](https://medium.com/p/9134d8d6c891) |
 | Fri, 17 Apr 2026 17:03:12 GMT | Beyond Code: The Awakening of Sensitive Ethics with the Lucena-AB Protocol | Augustus Bragança de Lucena | [Read More](https://medium.com/p/b3612a5a9e31) |
 | Fri, 17 Apr 2026 17:01:14 GMT | I write about topics that genuinely interest me—across culture, education, writing, history… | Holy Redfox | [Read More](https://medium.com/p/0fd1a27b0eb4) |
+| Fri, 17 Apr 2026 16:56:21 GMT | Pembuatan Game Visual Novel Menggunakan RPGMAKER MV | Stefanny Christabel Antonia | [Read More](https://medium.com/p/b74f4ade087f) |
 | Fri, 17 Apr 2026 16:54:30 GMT | The Insider You Trust Could Be Your Biggest Risk And Most Tools Miss It | Rudratic Technologies | [Read More](https://medium.com/p/66fdf63c8fcb) |
 | Fri, 17 Apr 2026 16:51:29 GMT | Understanding Dark Web Product Listings: Structure, Risks, and Trends | Tor BBB | [Read More](https://medium.com/p/5f84ce76d9a5) |
 | Fri, 17 Apr 2026 16:49:51 GMT | Securing CI/CD pipeline project part-2 | The Commoness | [Read More](https://medium.com/p/b2b83fa4eba5) |
@@ -110,8 +115,3 @@ In an era where data… | Jake Smith | [Read More](https://medium.com/p/929e39d5
 | Fri, 17 Apr 2026 15:51:57 GMT | The 2026 Shodan Dork Bible: Finding Exposed Jenkins, Grafana, and Cameras Big Tech Forgot | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ff1cda90e116) |
 | Fri, 17 Apr 2026 15:49:50 GMT | The Double User Bug: How a Facebook OAuth Flow Created Unnecessary New Ghost User | Yogendra Baskota | [Read More](https://medium.com/p/3f8f0032aa1d) |
 | Fri, 17 Apr 2026 15:46:23 GMT | How Deepfake Voice Calls Stole $25 Million From One Company in One Hour | Infinity Matrix | [Read More](https://medium.com/p/4a1d3c4907df) |
-| Fri, 17 Apr 2026 15:43:23 GMT | Cybersecurity Fundamental- Part 3: Locks on the Wire, Encryption in the OSI Model | Dushani Ekanayake | [Read More](https://medium.com/p/dabdbeb6ae41) |
-| Fri, 17 Apr 2026 15:40:45 GMT | 13 Best Penetration Testing Companies in the USA | Tech and Business Blog | [Read More](https://medium.com/p/6cf53f491aba) |
-| Fri, 17 Apr 2026 15:39:41 GMT | Bug Bounty 2026: Why the “End of the World” is Actually a $500k Opportunity | EMTIAZ AHMED | [Read More](https://medium.com/p/dd70af6a6a11) |
-| Fri, 17 Apr 2026 15:39:13 GMT | The Identity Trap: Bypassing Modern Perimeters via Cross-Platform Correlation | Tyreek Haynes | [Read More](https://medium.com/p/f188221431d1) |
-| Fri, 17 Apr 2026 15:38:29 GMT | I Built a DIY Smart Security System with a Raspberry Pi, ESP-01, AWS, and Tailscale | Varad Rane | [Read More](https://medium.com/p/ff8c5817bc08) |
