@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 16 Apr 2026 23:56:40 GMT | Relungan Tak Berwujud | arlya. | [Read More](https://medium.com/p/376e38cc6e75) |
+| Thu, 16 Apr 2026 23:53:06 GMT | Unconventional Dating Advice for Men for Better Results | Melanie Kane | [Read More](https://medium.com/p/bc513c540617) |
+| Thu, 16 Apr 2026 23:38:15 GMT | The AI Builder’s First Steps | Jeff Borneman | [Read More](https://medium.com/p/2536140b1707) |
+| Thu, 16 Apr 2026 23:21:13 GMT | Compliance Is a Baseline, Not a Security Strategy | Dave Bowden | [Read More](https://medium.com/p/6c83bf644e3c) |
+| Thu, 16 Apr 2026 23:20:51 GMT | Saving A Medical Facility Part 1 | DSD | [Read More](https://medium.com/p/58a0b9548448) |
+| Thu, 16 Apr 2026 23:11:53 GMT | The $10 Million Wake-Up Call | DSD | [Read More](https://medium.com/p/41d48b966552) |
+| Thu, 16 Apr 2026 23:11:04 GMT | Password Reset Token Remains Valid After Email Change Leading to Account Takeover . | Ali Mostafa | [Read More](https://medium.com/p/7d84076b87b1) |
+| Thu, 16 Apr 2026 23:09:17 GMT | Integrating Generative AI: From Hype to Real-World Impact | KoranDunia | [Read More](https://medium.com/p/ce1ec7f23f5f) |
+| Thu, 16 Apr 2026 23:08:14 GMT | Stop Hardcoding AWS Access Keys — You’re One git push Away from a Disaster | Swagat Tripathy | [Read More](https://medium.com/p/b8155af9c218) |
 | Thu, 16 Apr 2026 22:43:44 GMT | The Logic of the Capitalist Economy and the Origin of Inference | Haruka Matsukasa | [Read More](https://medium.com/p/4cefa1a558e1) |
 | Thu, 16 Apr 2026 22:15:11 GMT | Stop Treating Security Like a Gatekeeper (Start Treating It Like a Guardrail) | Nicolas Corder | [Read More](https://medium.com/p/e560ddc8433c) |
 | Thu, 16 Apr 2026 22:03:11 GMT | OT/ICS: Introduction · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/25d569d0dec1) |
@@ -69,6 +78,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 18:02:16 GMT | Try Hack Me- Blue Walkthrough | PulseEinher | [Read More](https://medium.com/p/2d2ac6666de7) |
 | Thu, 16 Apr 2026 17:49:28 GMT | OWASP Top 10:2025 — What Every Developer and Security Student Needs to Know | Laziz Ilyosov | [Read More](https://medium.com/p/e4d049e67053) |
 | Thu, 16 Apr 2026 17:46:51 GMT | Modern businesses rely on a complex network of vendors, suppliers, and service providers. | John Doe 007 | [Read More](https://medium.com/p/4f9645bf5982) |
+| Thu, 16 Apr 2026 17:46:46 GMT | Write-Up: BugForge Weekly Challenge — FurHire with SQLi | Athiwat Tiprasaharn | [Read More](https://medium.com/p/b9bdfd7db351) |
 | Thu, 16 Apr 2026 17:45:00 GMT | Stop Selling “Cloud-First” to Indonesia: It’s a Hybrid Reality | outofspace | [Read More](https://medium.com/p/be24f43be839) |
 | Thu, 16 Apr 2026 17:42:51 GMT | Write-Up: Bounty Hacker | Felix Schoenitz | [Read More](https://medium.com/p/60f3ddf88f8b) |
 | Thu, 16 Apr 2026 17:39:32 GMT | Digital Privacy in 2026 | J.Dishalan | [Read More](https://medium.com/p/38c017646772) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 15:31:05 GMT | OAuth Explained: How “Login with Google” Actually Works Behind the Scenes | NineTales | [Read More](https://medium.com/p/dc5dfeaad4da) |
 | Thu, 16 Apr 2026 15:27:52 GMT | Rockstar’s GTA Game Hacked – Attackers Published Millions of Records | Vishnukraju | [Read More](https://medium.com/p/c471d23d039c) |
 | Thu, 16 Apr 2026 15:27:28 GMT | How I Bypassed File Upload Restrictions Using a phar Polyglot | 0xKemzx | [Read More](https://medium.com/p/4fc03c365286) |
-| Thu, 16 Apr 2026 15:19:47 GMT | TryHackMe Writeup: AI-Assisted DFIR & Network Forensics ️‍♂️ | NASRALLAH SALEH (Xiro0x) | [Read More](https://medium.com/p/4d7273658a4a) |
-| Thu, 16 Apr 2026 15:18:58 GMT | From P4 to Critical: How I Weaponized target.com’s Email Infrastructure | Vanshrathore | [Read More](https://medium.com/p/0b1bf379408b) |
-| Thu, 16 Apr 2026 15:18:11 GMT | How HTTPS Actually Works ? | NineTales | [Read More](https://medium.com/p/bc484cb8692a) |
-| Thu, 16 Apr 2026 15:03:48 GMT | How ASRBD Protects Bangladesh’s Digital Frontier | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/98d1da7f3719) |
-| Thu, 16 Apr 2026 14:59:16 GMT | [Bug Bounty] I Got Tired of Running the Same 40 Tests. So I Built an AI That Does It For Me. | N1neKitsune | [Read More](https://medium.com/p/16ce35059267) |
-| Thu, 16 Apr 2026 14:58:15 GMT | April 2026 Microsoft Security Update Cycle | Sovereign Order of Enigmatic Republics: ZadienLabs | [Read More](https://medium.com/p/2230378ebfa7) |
-| Thu, 16 Apr 2026 14:54:05 GMT | Understanding Economic Security: A Global Overview | Huma Ejaz | [Read More](https://medium.com/p/d490d6edc966) |
-| Thu, 16 Apr 2026 14:52:08 GMT | How to Build a Risk Register | oussama | [Read More](https://medium.com/p/a7ed8fd6717c) |
-| Thu, 16 Apr 2026 14:47:32 GMT | From Cron Exploitation to Shell Escape: OverTheWire Bandit (Levels 23–33) | Ahmed Eldkrory | [Read More](https://medium.com/p/1656d8be3d4c) |
-| Thu, 16 Apr 2026 14:46:53 GMT | Practical SOC Analyst Professional (PSAP) — A Detailed Review on SOC 201 Course and Its Exam | Chicken0248 | [Read More](https://medium.com/p/1c8d18d0d12c) |
