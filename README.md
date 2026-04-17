@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Apr 2026 11:45:07 GMT | When AI Becomes the Attacker: Inside a 195 Million Record Cyber Breach | Sharanraju | [Read More](https://medium.com/p/76548cf5365f) |
+| Fri, 17 Apr 2026 11:43:46 GMT | Vibe Coding Is a Security Hazard. | Sec & the City | [Read More](https://medium.com/p/d6bc51294db2) |
+| Fri, 17 Apr 2026 11:41:59 GMT | On AI, Cybersecurity, and Pakistan’s Digital Future: Reflections From My NTN News Interview | Sage Khan | [Read More](https://medium.com/p/8814f3674ae3) |
+| Fri, 17 Apr 2026 11:38:59 GMT | Unlock Your Career: The Ultimate Guide to MSc Cyber Security Programs | Riya Sachdeva | [Read More](https://medium.com/p/b6fe7c02cdda) |
+| Fri, 17 Apr 2026 11:37:10 GMT | Managed IT Services vs In-House IT: Which Is Better for Small Businesses? | Managed Service Provider | [Read More](https://medium.com/p/1db71fd62635) |
+| Fri, 17 Apr 2026 11:35:03 GMT | How to Respond to a Cyberattack: A Practical Guide for Businesses | GRC Software | [Read More](https://medium.com/p/f8c1023f9e17) |
+| Fri, 17 Apr 2026 11:33:33 GMT | The Psycholog‌y Beh‌ind Trustin​g a Securi⁠ty Company with Personal S​paces | Mark H Nixon | [Read More](https://medium.com/p/678dcef377f5) |
+| Fri, 17 Apr 2026 11:32:17 GMT | I Let AI Write My Code for a Week. Here’s the Mess I Almost Shipped. | Kenil Lukhi | [Read More](https://medium.com/p/a8a75d409547) |
+| Fri, 17 Apr 2026 11:31:01 GMT | The One SSH Entry That Was Missing Its Pair #4 | Faruk Ahmed | [Read More](https://medium.com/p/7b026d1a897c) |
+| Fri, 17 Apr 2026 11:31:01 GMT | Kali Linux Commands Every Beginner Must Know - by Karanam Shrivasta (15 years old ) | Karanam Shrivasta | [Read More](https://medium.com/p/9638a18307b4) |
+| Fri, 17 Apr 2026 11:30:53 GMT | Payouts King Emerges: A New Ransomware Threat Built on Familiar Tactics | Jas | [Read More](https://medium.com/p/000e31038e00) |
+| Fri, 17 Apr 2026 11:26:27 GMT | The Real AI Risk Isn’t the Model. It’s What It Can Access | Suny Choudhary | [Read More](https://medium.com/p/ca2f842f5cf4) |
+| Fri, 17 Apr 2026 11:22:21 GMT | Cloud Application Protection: A Complete Guide for 2026 | Glesec | [Read More](https://medium.com/p/089f61c1b78e) |
+| Fri, 17 Apr 2026 11:21:33 GMT | Your Documentation is a Leaking Pipe (and you don’t even know it) | PythonWoods | [Read More](https://medium.com/p/7c1d6f4a84d0) |
+| Fri, 17 Apr 2026 11:11:01 GMT | ⚙️ 13. — Referer — Based Access Control | The4v1 | [Read More](https://medium.com/p/953f079e07de) |
+| Fri, 17 Apr 2026 11:01:01 GMT | ⚙️ 12. — Multi-step process with no access control on one step | The4v1 | [Read More](https://medium.com/p/fad63523cf3e) |
+| Fri, 17 Apr 2026 11:01:01 GMT | A Metamorfose da Confiança | ASM Investigação | [Read More](https://medium.com/p/15a4d00ced2a) |
 | Fri, 17 Apr 2026 10:53:10 GMT | The Light of the Forms Is in Our Hands | Haruka Matsukasa | [Read More](https://medium.com/p/0c95de971324) |
+| Fri, 17 Apr 2026 10:52:05 GMT | PortSwigger: DOM-based vulnerabilities Labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/1748422ece78) |
 | Fri, 17 Apr 2026 10:51:01 GMT | ⚙️ 11. — Method-based Access Control Can Be Circumvented | The4v1 | [Read More](https://medium.com/p/d836d99578b0) |
+| Fri, 17 Apr 2026 10:50:07 GMT | Detecting Web Attacks: Reconstructing an Attack from Logs and Network Traffic | Rishit Goel | [Read More](https://medium.com/p/5739efaa1644) |
 | Fri, 17 Apr 2026 10:48:27 GMT | Securing Telematics: No More Ignoring Cyber Threats | Flespi Platform | [Read More](https://medium.com/p/f40bdf76dfc9) |
 | Fri, 17 Apr 2026 10:44:46 GMT | AI Audit Logs Don’t Just Record AI Risk. They Reveal It | Suny Choudhary | [Read More](https://medium.com/p/97efc1aae36a) |
 | Fri, 17 Apr 2026 10:44:36 GMT | Ultimate Guide to Cheap Linux Servers in 2026 (Performance, Security & Pricing) | Andy | [Read More](https://medium.com/p/d30062cefed4) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Apr 2026 05:56:13 GMT | -     … | AI Kit Hub | [Read More](https://medium.com/p/7b1821b67e01) |
 | Fri, 17 Apr 2026 05:54:26 GMT | The Biggest Cybersecurity Myths Companies Still Believe in 2026 (Part 2) | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/06ead3317da1) |
 | Fri, 17 Apr 2026 05:43:55 GMT | High Value Asset Protection Services: Safeguarding What Matters Most | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/669e278db89d) |
-| Fri, 17 Apr 2026 05:41:32 GMT | Snapped Keys: Reliable and Fast Locksmith Solutions in London | SE1 Locksmiths Ltd | [Read More](https://medium.com/p/6312282e3d26) |
-| Fri, 17 Apr 2026 05:38:02 GMT | Your Firewall Doesn’t Speak LLM! | Anusha Mukka | [Read More](https://medium.com/p/131a7085ab1e) |
-| Fri, 17 Apr 2026 05:35:09 GMT | Dive Deep into Your Network: Traffic Analysis with Wireshark | iyui | [Read More](https://medium.com/p/81606ffd676b) |
-| Fri, 17 Apr 2026 05:30:41 GMT | Why I Stopped Hacking Websites and Started Hacking Silicon | Nanditha Harish Bhat | [Read More](https://medium.com/p/3c75db30d124) |
-| Fri, 17 Apr 2026 05:30:16 GMT | Cyber Battlefield Forensics: The Invisible Frontline of Modern Warfare | Mihikanaik | [Read More](https://medium.com/p/d32627fb8949) |
-| Fri, 17 Apr 2026 05:27:41 GMT | TechNewzTop - Daily Technology Insights | tech newztop | [Read More](https://medium.com/p/41fa2a45ebce) |
-| Fri, 17 Apr 2026 05:26:34 GMT | Roblox Just Started Charging for Access to Kids. This Isn’t a Story About $4.99. | Adam Frąckowiak | [Read More](https://medium.com/p/dfefb02c08d1) |
-| Fri, 17 Apr 2026 05:22:29 GMT | Building a RAG Assistant for Pentesting | SK13 | [Read More](https://medium.com/p/fa8f31b03a0a) |
-| Fri, 17 Apr 2026 05:14:09 GMT | Why You’re Not Finding Bugs (Even After Learning Everything) | Pradeeptadi | [Read More](https://medium.com/p/e18e3f018e90) |
-| Fri, 17 Apr 2026 04:53:23 GMT | How I Found an Exposed Google Maps API Key on a Global Brand’s Checkout Page | Mallikarjun Biradar | [Read More](https://medium.com/p/44c7b4c2d4ba) |
-| Fri, 17 Apr 2026 04:53:11 GMT | Beyond Simple Storage: A Deep Dive into Securing Local Data in Flutter | Lakshan Rathnayake | [Read More](https://medium.com/p/7b3273a6eebc) |
-| Fri, 17 Apr 2026 04:50:32 GMT | My First CTF is Ready! | The Husky Hacker | [Read More](https://medium.com/p/140a99233c48) |
-| Fri, 17 Apr 2026 04:48:50 GMT | The Ghost in the Machine: Executing ELF Binaries from Anonymous Memory with memfd_create | Sagar | [Read More](https://medium.com/p/28422d6bcbef) |
-| Fri, 17 Apr 2026 04:27:22 GMT | Sensitive Data Exposure — Finding What Should Never Be Public | ghostyjoe | [Read More](https://medium.com/p/8624b1ec95c3) |
-| Fri, 17 Apr 2026 04:25:48 GMT | Advanced Cybersecurity Protection Services for Businesses: Why They Matter More Than Ever | Pure Magic IT | [Read More](https://medium.com/p/0a7d2beabcea) |
-| Fri, 17 Apr 2026 04:21:04 GMT | How IP address is assigned | Anjali Kashyap | [Read More](https://medium.com/p/d8152fce2336) |
-| Fri, 17 Apr 2026 04:07:12 GMT | She Caught Me Crying, and Now We’re Friends | Amanda March | [Read More](https://medium.com/p/413206d80004) |
-| Fri, 17 Apr 2026 04:01:01 GMT | Stop Hackers Before They Start: A Complete Guide to Modern Web Security | Prince Kumar Sharma | [Read More](https://medium.com/p/28993ddc7975) |
-| Fri, 17 Apr 2026 03:59:56 GMT | Home Security Systems in Australia 2026: | Intune Technologies | [Read More](https://medium.com/p/4dd19b36980c) |
