@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Apr 2026 17:22:29 GMT | Why Staff Augmentation Is the Future of Agile Workforce Management | One Federal Solution | [Read More](https://medium.com/p/97c716574ef7) |
+| Fri, 17 Apr 2026 17:21:05 GMT | How to Exploit SSH (Port 22) on Metasploitable 2 Using Metasploit | Vino Cybersec | [Read More](https://medium.com/p/077ad725542f) |
+| Fri, 17 Apr 2026 17:10:04 GMT | A Plain-Language Guide for SSO | Pronomita Dey | [Read More](https://medium.com/p/35636de95ff6) |
+| Fri, 17 Apr 2026 17:03:43 GMT | The Hidden Discipline Behind Security: Why Mental Models Matter More Than Tools | Eric Vanderburg | [Read More](https://medium.com/p/9134d8d6c891) |
+| Fri, 17 Apr 2026 17:03:12 GMT | Beyond Code: The Awakening of Sensitive Ethics with the Lucena-AB Protocol | Augustus Bragança de Lucena | [Read More](https://medium.com/p/b3612a5a9e31) |
+| Fri, 17 Apr 2026 17:01:14 GMT | I write about topics that genuinely interest me—across culture, education, writing, history… | Holy Redfox | [Read More](https://medium.com/p/0fd1a27b0eb4) |
+| Fri, 17 Apr 2026 16:54:30 GMT | The Insider You Trust Could Be Your Biggest Risk And Most Tools Miss It | Rudratic Technologies | [Read More](https://medium.com/p/66fdf63c8fcb) |
+| Fri, 17 Apr 2026 16:51:29 GMT | Understanding Dark Web Product Listings: Structure, Risks, and Trends | Tor BBB | [Read More](https://medium.com/p/5f84ce76d9a5) |
+| Fri, 17 Apr 2026 16:49:51 GMT | Securing CI/CD pipeline project part-2 | The Commoness | [Read More](https://medium.com/p/b2b83fa4eba5) |
+| Fri, 17 Apr 2026 16:48:26 GMT | Securing CI/CD pipeline project part-1 | The Commoness | [Read More](https://medium.com/p/6fe43901b30f) |
+| Fri, 17 Apr 2026 16:47:53 GMT | Scan Before You Click | Adam Danel | [Read More](https://medium.com/p/acc5c8190d91) |
+| Fri, 17 Apr 2026 16:44:08 GMT | Giving My AI Agent an Undo Button for security purposes. | Aaron L | [Read More](https://medium.com/p/8c0b12369ad6) |
+| Fri, 17 Apr 2026 16:38:40 GMT | Why the Best ELV Company in Dubai Focuses on Integrated ELV and Security Systems | Vastechoffpage | [Read More](https://medium.com/p/aad91398efaa) |
+| Fri, 17 Apr 2026 16:34:29 GMT | The Application Development Process: From Idea to Deployment | Lokman nagarkoti | [Read More](https://medium.com/p/d3cd7fa7f122) |
+| Fri, 17 Apr 2026 16:30:27 GMT | Detection Engineering as Code (DaC) Using Wazuh: Building Scalable and Reliable SIEM Operations | Alan v | [Read More](https://medium.com/p/702d18be0c33) |
+| Fri, 17 Apr 2026 16:27:52 GMT | the Thought of Losing You | kaye | [Read More](https://medium.com/p/589979c1488f) |
+| Fri, 17 Apr 2026 16:21:19 GMT | From Theory to Practice: Drafting My First Pentesting Agreement | Madalitso Cheyo | [Read More](https://medium.com/p/84114beee3cb) |
+| Fri, 17 Apr 2026 16:11:01 GMT | Mirage (LFI) WebVerse | 7s26Simon | [Read More](https://medium.com/p/5057ddeae68f) |
+| Fri, 17 Apr 2026 16:09:10 GMT | أهم الأدوات في اختبار اختراق الشبكات اللاسلكية (Wireless Pentesting) | Andrew Max | [Read More](https://medium.com/p/0673f767ca04) |
+| Fri, 17 Apr 2026 16:06:47 GMT | TakeOver-TryHackMe write up | red wolf | [Read More](https://medium.com/p/e8c672250e19) |
+| Fri, 17 Apr 2026 15:59:27 GMT | The most important tools in Wireless Pentesting | Andrew Max | [Read More](https://medium.com/p/a13916b4ab47) |
+| Fri, 17 Apr 2026 15:59:20 GMT | SUID env" Privilege Escalation (Quick Guide) | Punih3r7 | [Read More](https://medium.com/p/ea32f0486c8b) |
 | Fri, 17 Apr 2026 15:55:11 GMT | How Drowning in Windows Event Logs Made Me Build My Own Threat-Hunting CLI | judeh0747 | [Read More](https://medium.com/p/af093cf5a71f) |
 | Fri, 17 Apr 2026 15:55:05 GMT | Blogger — wpDiscuz File Upload CVE and a Vagrant Default Password That Was Never Changed - OffSec… | Roshan Rajbanshi | [Read More](https://medium.com/p/0a0877c7db05) |
 | Fri, 17 Apr 2026 15:51:57 GMT | The 2026 Shodan Dork Bible: Finding Exposed Jenkins, Grafana, and Cameras Big Tech Forgot | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ff1cda90e116) |
@@ -32,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Apr 2026 15:13:28 GMT | CVE-2007–1860: Exploiting Apache mod_jk’s Double-Decoding Vulnerability — A Beginner-Friendly Deep… | Anaselmendili | [Read More](https://medium.com/p/df540511aa4e) |
 | Fri, 17 Apr 2026 15:07:59 GMT | Hundreds of Billions in Foreign Investment Pour In: Why Can’t It Stop the Wave of Factory Closures… | Alicia Y. | [Read More](https://medium.com/p/a06e6b8cbc4d) |
 | Fri, 17 Apr 2026 15:03:44 GMT | Cowork’s Enterprise Problem | Michael Lipscombe | [Read More](https://medium.com/p/f0ddde2f0505) |
+| Fri, 17 Apr 2026 14:53:25 GMT | The Future of Cyber Insurance: Navigating Ransomware and Emerging Threats | Tamara Ashjian | [Read More](https://medium.com/p/d13f3662a12d) |
 | Fri, 17 Apr 2026 14:51:50 GMT | FortiGate Firmware Upgrade Süreci: Doğru Versiyon Geçişi ve Dikkat Edilmesi Gerekenler | Ahmet Badem | [Read More](https://medium.com/p/9a5ae915c7ea) |
 | Fri, 17 Apr 2026 14:47:34 GMT | The AI Risk Most Companies Already Approved | PRASAD BHONDE | [Read More](https://medium.com/p/0f2a9bd511e7) |
 | Fri, 17 Apr 2026 14:44:02 GMT | How I had to understand at the frontline how integration works | Robson Zacarias | [Read More](https://medium.com/p/437faf727271) |
@@ -39,6 +62,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Apr 2026 14:43:28 GMT | India’s New e-SafeHER Program Could Change Digital Safety for Millions of Women | Creativeyouth26 | [Read More](https://medium.com/p/1653ec90e60f) |
 | Fri, 17 Apr 2026 14:38:40 GMT | One AI Tool. 17 Organizations Destroyed. | Dark Energy Articles | [Read More](https://medium.com/p/407e5e1361b5) |
 | Fri, 17 Apr 2026 14:36:23 GMT | Race Condition Exploitation in Poll Systems: How I Manipulated Votes with a Single Account | Jonathangeorge | [Read More](https://medium.com/p/093a61acd24f) |
+| Fri, 17 Apr 2026 14:34:19 GMT | A ‘Recruiter’ Texted me on Whatsapp Today — I almost fell for It | Aman Lamsal | [Read More](https://medium.com/p/5b5f3b622723) |
 | Fri, 17 Apr 2026 14:29:40 GMT | Cybersecurity Tools Aren’t Enough Anymore — Here’s What’s Missing | IT_Engineer | [Read More](https://medium.com/p/b8948df57ccd) |
 | Fri, 17 Apr 2026 14:27:45 GMT | Avoid Online Traps: The Power of Scam Alerts | James Smith | [Read More](https://medium.com/p/eaf1a5b28951) |
 | Fri, 17 Apr 2026 14:25:50 GMT | Streamlining Cloud Governance: Restricting Security List Changes with OCI Security Zones | Mohammed Abdul Wakeel | [Read More](https://medium.com/p/793f43eaf366) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Apr 2026 11:31:01 GMT | Kali Linux Commands Every Beginner Must Know - by Karanam Shrivasta (15 years old ) | Karanam Shrivasta | [Read More](https://medium.com/p/9638a18307b4) |
 | Fri, 17 Apr 2026 11:30:53 GMT | Payouts King Emerges: A New Ransomware Threat Built on Familiar Tactics | Jas | [Read More](https://medium.com/p/000e31038e00) |
 | Fri, 17 Apr 2026 11:26:27 GMT | The Real AI Risk Isn’t the Model. It’s What It Can Access | Suny Choudhary | [Read More](https://medium.com/p/ca2f842f5cf4) |
-| Fri, 17 Apr 2026 11:22:21 GMT | Cloud Application Protection: A Complete Guide for 2026 | Glesec | [Read More](https://medium.com/p/089f61c1b78e) |
-| Fri, 17 Apr 2026 11:21:33 GMT | Your Documentation is a Leaking Pipe (and you don’t even know it) | PythonWoods | [Read More](https://medium.com/p/7c1d6f4a84d0) |
-| Fri, 17 Apr 2026 11:11:01 GMT | ⚙️ 13. — Referer — Based Access Control | The4v1 | [Read More](https://medium.com/p/953f079e07de) |
-| Fri, 17 Apr 2026 11:01:01 GMT | ⚙️ 12. — Multi-step process with no access control on one step | The4v1 | [Read More](https://medium.com/p/fad63523cf3e) |
-| Fri, 17 Apr 2026 11:01:01 GMT | A Metamorfose da Confiança | ASM Investigação | [Read More](https://medium.com/p/15a4d00ced2a) |
-| Fri, 17 Apr 2026 10:53:10 GMT | The Light of the Forms Is in Our Hands | Haruka Matsukasa | [Read More](https://medium.com/p/0c95de971324) |
-| Fri, 17 Apr 2026 10:52:05 GMT | PortSwigger: DOM-based vulnerabilities Labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/1748422ece78) |
-| Fri, 17 Apr 2026 10:51:01 GMT | ⚙️ 11. — Method-based Access Control Can Be Circumvented | The4v1 | [Read More](https://medium.com/p/d836d99578b0) |
-| Fri, 17 Apr 2026 10:50:07 GMT | Detecting Web Attacks: Reconstructing an Attack from Logs and Network Traffic | Rishit Goel | [Read More](https://medium.com/p/5739efaa1644) |
-| Fri, 17 Apr 2026 10:48:27 GMT | Securing Telematics: No More Ignoring Cyber Threats | Flespi Platform | [Read More](https://medium.com/p/f40bdf76dfc9) |
-| Fri, 17 Apr 2026 10:44:46 GMT | AI Audit Logs Don’t Just Record AI Risk. They Reveal It | Suny Choudhary | [Read More](https://medium.com/p/97efc1aae36a) |
-| Fri, 17 Apr 2026 10:44:36 GMT | Ultimate Guide to Cheap Linux Servers in 2026 (Performance, Security & Pricing) | Andy | [Read More](https://medium.com/p/d30062cefed4) |
-| Fri, 17 Apr 2026 10:42:46 GMT | Best Managed Cybersecurity Services in India - CERT-In Empanelled Company | Sabastin | [Read More](https://medium.com/p/da89a952d348) |
-| Fri, 17 Apr 2026 10:39:02 GMT | ⚙️ 10. — URL-based Access Control Can Be Circumvented — X -Original-URL | The4v1 | [Read More](https://medium.com/p/fc4aaf569b55) |
-| Fri, 17 Apr 2026 10:31:04 GMT | Is the TTP building a dirty bomb? | Dylan Evans | [Read More](https://medium.com/p/3e7d7910078b) |
-| Fri, 17 Apr 2026 10:19:34 GMT | Kaspersky Plus Internet Security 2026: Ihre perfekte Lösung für Sicherheit und Privatsphäre | Julia Ahrens | [Read More](https://medium.com/p/2e7f5856bcb0) |
-| Fri, 17 Apr 2026 10:19:26 GMT | What KPIs Can Operations Teams Track Using AI-Powered Video Intelligence Platforms? | Spotem | [Read More](https://medium.com/p/409a2902a2c1) |
-| Fri, 17 Apr 2026 10:17:30 GMT | Manipulation of a story | Si Murray | [Read More](https://medium.com/p/29b76e0239e0) |
-| Fri, 17 Apr 2026 10:14:10 GMT | Tokenomics Exploits: When Design Becomes an Attack Vector | Abraham | [Read More](https://medium.com/p/83d9f2cb9e21) |
-| Fri, 17 Apr 2026 10:12:29 GMT | Real-Time Fraud Detection at Scale: Inside the ML Systems Redefining Financial Security | Sai Samyuktha N | [Read More](https://medium.com/p/696456ac2f5e) |
-| Fri, 17 Apr 2026 10:10:07 GMT | The Invisible Handshake: The Chilling Human Reality of Dark Web Transactions in 2026 | Mohit | [Read More](https://medium.com/p/75b6c437838e) |
-| Fri, 17 Apr 2026 10:09:41 GMT | 程式中的 Shallow Clone 與 Deep Clone，鏡像人與複製人 | 思維舞步 MindSteps | [Read More](https://medium.com/p/315d3d2acec5) |
-| Fri, 17 Apr 2026 10:06:46 GMT | CISCO notes Module 6 — Network Media | ExploitHunter | [Read More](https://medium.com/p/e8ff2e621cd8) |
-| Fri, 17 Apr 2026 10:05:30 GMT | Cisco Notes Networking basics — Module 5:Communication principles. | ExploitHunter | [Read More](https://medium.com/p/e9a2ea39c352) |
