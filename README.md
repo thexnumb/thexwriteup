@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Apr 2026 03:25:29 GMT | My First HTB Vancouver Meetup | Kira @ hKiSec | [Read More](https://medium.com/p/9b6421c81cdf) |
+| Fri, 17 Apr 2026 03:15:46 GMT | The Day The Sky Moved Into My Eyes. | Naaray Braga | [Read More](https://medium.com/p/4e37a121fa40) |
+| Fri, 17 Apr 2026 03:04:43 GMT | Monitoring Walkthrough (Proving ground-play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/6c8d637d649e) |
+| Fri, 17 Apr 2026 02:41:01 GMT | RSAC 2026: A Product Designer’s Perspective. | Vadim Goretsky | [Read More](https://medium.com/p/d8d7e5260268) |
+| Fri, 17 Apr 2026 02:39:41 GMT | How I Hunt Threats Without Any Alerts | Paritosh | [Read More](https://medium.com/p/e6b707c79f00) |
+| Fri, 17 Apr 2026 02:34:07 GMT | MPC in Blockchain: How Multi-Party Computation Reshapes Privacy & Web3 Payments | BenFen | [Read More](https://medium.com/p/d06ffc9cd5a0) |
+| Fri, 17 Apr 2026 02:33:53 GMT | Claude Mythos Preview: The AI That’s Rewriting the Rules of Cybersecurity | Zusss | [Read More](https://medium.com/p/898735ebfd65) |
+| Fri, 17 Apr 2026 02:31:29 GMT | Five Extraordinary Nations and Their Unique Identities | Alihassan | [Read More](https://medium.com/p/d5ab702566ff) |
+| Fri, 17 Apr 2026 02:30:11 GMT | The Taxi Took My Phone. It Almost Took Everything Else. | Victor Jarmolkovicius | [Read More](https://medium.com/p/c1c92a5e9f86) |
+| Fri, 17 Apr 2026 02:26:02 GMT | How to Pay Off Your Home Loan Early: Smart Strategies and Calculators | BabaNath | [Read More](https://medium.com/p/79b324d4a2ed) |
+| Fri, 17 Apr 2026 02:19:48 GMT | AI-Driven Threat Detection Using AWS Security Agent: A Framework for On-Demand Autonomous… | Umashankara Kalaiah | [Read More](https://medium.com/p/31183ed16d86) |
+| Fri, 17 Apr 2026 02:19:32 GMT | The $10,000 Tap: How “Convenience” Created a Multi-Thousand Dollar Security Hole | Purvansh Bhatt | [Read More](https://medium.com/p/9e2d915c7e55) |
+| Fri, 17 Apr 2026 02:09:28 GMT | Weekly Threat Intelligence Report 13 Apr 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/8a377bbc86d6) |
+| Fri, 17 Apr 2026 02:06:29 GMT | Official Security Audit: The 2026 Global AI Automation & Data Sovereignty Index | Wardagpt | [Read More](https://medium.com/p/066e7a4a0dff) |
+| Fri, 17 Apr 2026 01:21:37 GMT | Vault Secrets Management — Stop Hardcoding Credentials | Danish Khakwani | [Read More](https://medium.com/p/4d2c2e8fbb75) |
+| Fri, 17 Apr 2026 01:12:03 GMT | Every time you drop a pin in Accra, someone is watching | Selorm Adjabeng | [Read More](https://medium.com/p/6c4574509024) |
+| Fri, 17 Apr 2026 01:11:02 GMT | Cognitive Sovereignty: How Sweden is Reactivating Its “Psychological Defence” for the Hybrid Age | Sumona Banerji | [Read More](https://medium.com/p/3a428af83742) |
+| Fri, 17 Apr 2026 01:05:26 GMT | Article 1: Points Are Money: The Case for LARS ( Loyalty Application Risk Scoring) Framework | Tanmay Bhattacharjee | [Read More](https://medium.com/p/8d81728501fa) |
+| Fri, 17 Apr 2026 00:20:04 GMT | Centralized AI Model and Agent Evaluations at Scale for Layered Governance and Insights | Drew Lewis | [Read More](https://medium.com/p/22c6d72c046d) |
+| Fri, 17 Apr 2026 00:11:15 GMT | CVE-2021–42013 Analysis | isa ergişi | [Read More](https://medium.com/p/137b66bc3fe0) |
+| Fri, 17 Apr 2026 00:01:01 GMT | Guía Completa de Vulnerabilidades JWT: Detección, Explotación y Bypass de WAF | JPablo13 | [Read More](https://medium.com/p/b97cf9a72897) |
 | Thu, 16 Apr 2026 23:56:40 GMT | Relungan Tak Berwujud | arlya. | [Read More](https://medium.com/p/376e38cc6e75) |
 | Thu, 16 Apr 2026 23:53:06 GMT | Unconventional Dating Advice for Men for Better Results | Melanie Kane | [Read More](https://medium.com/p/bc513c540617) |
 | Thu, 16 Apr 2026 23:38:15 GMT | The AI Builder’s First Steps | Jeff Borneman | [Read More](https://medium.com/p/2536140b1707) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 17:15:33 GMT | CyberStrikeAI Deep Dive - AI for Modern Security Testing | Pentester Club | [Read More](https://medium.com/p/4ad1a6089b6a) |
 | Thu, 16 Apr 2026 17:12:47 GMT | Quantum Computers May Break Bitcoin Security Sooner Than Expected, Google Warns | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/572344ea9ae2) |
 | Thu, 16 Apr 2026 17:01:04 GMT | You’ve Deleted Something Honest Before | Keno Obe | [Read More](https://medium.com/p/e2cdc8067d7e) |
-| Thu, 16 Apr 2026 17:01:02 GMT | I Bought a $57 ‘Samsung Galaxy S25 Ultra’ on Temu. Here’s What Was Actually Inside | C. Oscar Lawshea | [Read More](https://medium.com/p/ed466bc13d96) |
-| Thu, 16 Apr 2026 16:55:24 GMT | How to Start Ethical Hacking in 2026 | Md. Lavib Uddin Ashik | [Read More](https://medium.com/p/2f0de8986f55) |
-| Thu, 16 Apr 2026 16:37:12 GMT | Team CTF Tryhackme Detailed Walkthrough for Beginners | Sadcyberplayer | [Read More](https://medium.com/p/e845edae1680) |
-| Thu, 16 Apr 2026 16:34:59 GMT | Primary Mortgage Insurance Calculator: How Much Is PMI? | BabaNath | [Read More](https://medium.com/p/0b4358ef76b6) |
-| Thu, 16 Apr 2026 16:28:59 GMT | World Guardian Security Services | M | [Read More](https://medium.com/p/1e1b089ec0d2) |
-| Thu, 16 Apr 2026 16:20:34 GMT | Offsec “Sunset Noontide” CTF writeup | sabR | [Read More](https://medium.com/p/0db906a36aac) |
-| Thu, 16 Apr 2026 16:19:44 GMT | Cloud-Based Cyber Security Solutions in UAE: Why They’re Leading the Market | Vastechoffpage | [Read More](https://medium.com/p/c96269e4b95a) |
-| Thu, 16 Apr 2026 16:17:01 GMT | Rethinking How to Learn Cybersecurity in the Age of AI | Tracey Kadenyi | [Read More](https://medium.com/p/d6784975b9cc) |
-| Thu, 16 Apr 2026 16:12:28 GMT | AI Agents Don’t Have Passwords — And That’s a Massive Security Problem | Narendra Tallapaneni | [Read More](https://medium.com/p/8446de770c93) |
-| Thu, 16 Apr 2026 16:06:11 GMT | I Have Three Master’s Degrees and I Still Feel Behind in Tech | Don Rivera Diaz | [Read More](https://medium.com/p/234d81c686bf) |
-| Thu, 16 Apr 2026 16:06:01 GMT | Parcel (SQLi) WebVerse Writeup | 7s26Simon | [Read More](https://medium.com/p/973170ad0161) |
-| Thu, 16 Apr 2026 16:03:40 GMT | IAM Engineer Salary in UAE: What Most Job Listings Don’t Tell You | Dream Job Sure | [Read More](https://medium.com/p/1dae4d9975d1) |
-| Thu, 16 Apr 2026 16:01:01 GMT | Anthropic’s Claude Mythos Found Thousands of Zero-Days — And India Should Be Very Concerned | MayhemCode | [Read More](https://medium.com/p/37f43dec4e88) |
-| Thu, 16 Apr 2026 16:01:01 GMT | The Platformization Trap: Calling Yourself a Platform Doesn’t Make You One | Sandeep Potdar | [Read More](https://medium.com/p/3b4512f2fd73) |
-| Thu, 16 Apr 2026 15:56:01 GMT | How I Secured the Dutch Government(ncsc-nl): “Critical” Financial Leak | Enterlectury | [Read More](https://medium.com/p/e06a8327316b) |
-| Thu, 16 Apr 2026 15:55:22 GMT | Making Users Strong Again: Why Identity Security Needs a New Category | Dr. Shashi Karhail | [Read More](https://medium.com/p/568a910e28f3) |
-| Thu, 16 Apr 2026 15:47:27 GMT | Mobile App Pentesting with AndroGoat: Manual, Drozer & MobSF | Aastha Thakker | [Read More](https://medium.com/p/a8c9ca9c18d9) |
-| Thu, 16 Apr 2026 15:47:18 GMT | HTB — Flag Command (Web) | Toxkay | [Read More](https://medium.com/p/c77af5a8558c) |
-| Thu, 16 Apr 2026 15:31:05 GMT | OAuth Explained: How “Login with Google” Actually Works Behind the Scenes | NineTales | [Read More](https://medium.com/p/dc5dfeaad4da) |
-| Thu, 16 Apr 2026 15:27:52 GMT | Rockstar’s GTA Game Hacked – Attackers Published Millions of Records | Vishnukraju | [Read More](https://medium.com/p/c471d23d039c) |
-| Thu, 16 Apr 2026 15:27:28 GMT | How I Bypassed File Upload Restrictions Using a phar Polyglot | 0xKemzx | [Read More](https://medium.com/p/4fc03c365286) |
