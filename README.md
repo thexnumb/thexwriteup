@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Apr 2026 22:27:19 GMT | AS-REP Roasting: When Pre-Auth Is Off and the Hash Is Free | Garrett Stimpson | [Read More](https://medium.com/p/6d259e9b9026) |
+| Fri, 17 Apr 2026 22:24:23 GMT | Understand the Significance of $ITL and $ITLG in Daily Life, Allowing for Direct or Converted… | GANGURI VENKATRAO - T3 AMBASSADOR OF INTERLINK LAB | [Read More](https://medium.com/p/5818b38daef0) |
+| Fri, 17 Apr 2026 22:23:08 GMT | The Password Saving and Protection Tool Every Business Owner and Freelancer Needs to Work Faster… | Fahad Ali | [Read More](https://medium.com/p/34bcd17f89a4) |
+| Fri, 17 Apr 2026 22:20:59 GMT | Day 5 — CSRF Token Bypass using GET Request | zero_day | [Read More](https://medium.com/p/791cba29812d) |
+| Fri, 17 Apr 2026 22:17:06 GMT | From “I Love You” to “Send Money”! | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/a956beaf1a34) |
+| Fri, 17 Apr 2026 22:09:36 GMT | Smart Home Security for Modern Families | AlexBryn | [Read More](https://medium.com/p/517d7ba0645d) |
+| Fri, 17 Apr 2026 21:57:25 GMT | StegoRSA — picoCTF Walkthrough | zuko | [Read More](https://medium.com/p/23863201a64d) |
+| Fri, 17 Apr 2026 21:45:38 GMT | TryHackMe: What is Networking? — The Foundation of Everything | Jonathan Sanfer | [Read More](https://medium.com/p/392fafe3ef19) |
+| Fri, 17 Apr 2026 21:44:27 GMT | A Multi-Transmitter 2.4 | Antonio Escalante | [Read More](https://medium.com/p/c7f9d92afa78) |
+| Fri, 17 Apr 2026 21:41:47 GMT | Infrastructure as Code (IaC): Guide to Automating Cloud Infrastructure | Dennis Duke | [Read More](https://medium.com/p/17e3a54ab9e3) |
 | Fri, 17 Apr 2026 21:23:37 GMT | HOW TO RECOVER STOLEN OR LOST BITCOIN/MALICE CYBER RECOVERY WILL SOLVE YOUR PROBLEMS | Sofiia Vlasic | [Read More](https://medium.com/p/e71ae8f78d41) |
 | Fri, 17 Apr 2026 21:23:26 GMT | Prompt Injection | Devanshi Patel | [Read More](https://medium.com/p/e8b37bc82e39) |
 | Fri, 17 Apr 2026 21:19:18 GMT | IF I WERE YOU - CRYPTO STRATEGY
@@ -105,13 +115,3 @@ In an era where data… | Jake Smith | [Read More](https://medium.com/p/929e39d5
 | Fri, 17 Apr 2026 15:39:41 GMT | Bug Bounty 2026: Why the “End of the World” is Actually a $500k Opportunity | EMTIAZ AHMED | [Read More](https://medium.com/p/dd70af6a6a11) |
 | Fri, 17 Apr 2026 15:39:13 GMT | The Identity Trap: Bypassing Modern Perimeters via Cross-Platform Correlation | Tyreek Haynes | [Read More](https://medium.com/p/f188221431d1) |
 | Fri, 17 Apr 2026 15:38:29 GMT | I Built a DIY Smart Security System with a Raspberry Pi, ESP-01, AWS, and Tailscale | Varad Rane | [Read More](https://medium.com/p/ff8c5817bc08) |
-| Fri, 17 Apr 2026 15:30:38 GMT | (1/3) The Eccentric Way I Remember Passwords for Dozens of Accounts on the Internet | Prehistoric Crab | [Read More](https://medium.com/p/afc3af412244) |
-| Fri, 17 Apr 2026 15:29:48 GMT | [THM] Lockdown — Writeup | Bonestorm | [Read More](https://medium.com/p/164a4d8b04ea) |
-| Fri, 17 Apr 2026 15:24:57 GMT | TryHackMe - OWASP Top 10 2025: Insecure Data Handling | BitsAndBreaches | [Read More](https://medium.com/p/6125f55244c8) |
-| Fri, 17 Apr 2026 15:23:56 GMT | Week zero of cybersecurity training | Lukas Normantas | [Read More](https://medium.com/p/b7879abe560a) |
-| Fri, 17 Apr 2026 15:21:48 GMT | The NSA Wants You to Reboot: Why Charlotte Homes and Businesses Should Do More Than Just Unplug | Paradise technologies Inc | [Read More](https://medium.com/p/df4955748559) |
-| Fri, 17 Apr 2026 15:17:00 GMT | AI Security: The Hidden Risks Behind Intelligent Systems | EMTIAZ AHMED | [Read More](https://medium.com/p/e9f36ad75ad6) |
-| Fri, 17 Apr 2026 15:16:01 GMT | From Zero Authentication to Full Admin Access — Who Needs Login Anyway | 0xTyrion404 | [Read More](https://medium.com/p/9cbe951b93ba) |
-| Fri, 17 Apr 2026 15:13:28 GMT | CVE-2007–1860: Exploiting Apache mod_jk’s Double-Decoding Vulnerability — A Beginner-Friendly Deep… | Anaselmendili | [Read More](https://medium.com/p/df540511aa4e) |
-| Fri, 17 Apr 2026 15:07:59 GMT | Hundreds of Billions in Foreign Investment Pour In: Why Can’t It Stop the Wave of Factory Closures… | Alicia Y. | [Read More](https://medium.com/p/a06e6b8cbc4d) |
-| Fri, 17 Apr 2026 15:03:44 GMT | Cowork’s Enterprise Problem | Michael Lipscombe | [Read More](https://medium.com/p/f0ddde2f0505) |
