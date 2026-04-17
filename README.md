@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Apr 2026 08:01:13 GMT | Ethical Hacking Summer Internship for Freshers with Live Projects | cyber security Updates | [Read More](https://medium.com/p/ae4e3f93b912) |
+| Fri, 17 Apr 2026 08:01:04 GMT | Your Employees Cannot Protect What They Do Not Understand | CoBoo - Lumyo Awareness | [Read More](https://medium.com/p/2d451d27d9aa) |
+| Fri, 17 Apr 2026 07:59:15 GMT | The Invisible Attacker: How Hackers Hijack Your AI Without Ever Touching Your System | MrDuc | [Read More](https://medium.com/p/848fa0ec8ddd) |
+| Fri, 17 Apr 2026 07:48:55 GMT | AI Powered Cybersecurity in 2026: Defending Against Next Generation Threats | Abdul Rafay | [Read More](https://medium.com/p/ef50fcb9a73e) |
+| Fri, 17 Apr 2026 07:48:00 GMT | The Day My Phone Died And I Discovered the Future of Money on WhatsApp | Aminu ATG | [Read More](https://medium.com/p/8522c9435d29) |
+| Fri, 17 Apr 2026 07:42:54 GMT | SQL Injection Database Ko Hack Karo: Data Nikalo, Admin Bano, Server Takeover Karo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/95dc4bcd4569) |
+| Fri, 17 Apr 2026 07:31:01 GMT | GPT-5.4: OpenAI’s Most Ambitious Model Yet — And Where It Still Falls Short | MayhemCode | [Read More](https://medium.com/p/c13930963e27) |
+| Fri, 17 Apr 2026 07:30:20 GMT | Beyond Bullets and Borders: Pakistan’s Rise in the Cyber Domain | Muhammad Mohsin Iqbal | [Read More](https://medium.com/p/0116df3707af) |
+| Fri, 17 Apr 2026 07:29:56 GMT | Cheese CTF — Complete Walkthrough & Writeup | Whiteghst | [Read More](https://medium.com/p/5ff9a1846265) |
+| Fri, 17 Apr 2026 07:28:40 GMT | The NIST Post-Quantum Cryptography Standardization Process | ShreehariMenon | [Read More](https://medium.com/p/576af5ef4459) |
+| Fri, 17 Apr 2026 07:28:04 GMT | Rust Is Becoming the Programming Language of Institutional Trust | The Stateless Samurai | [Read More](https://medium.com/p/ac4ff7ccc1a1) |
+| Fri, 17 Apr 2026 07:25:11 GMT | How is AI Changing SOC Operations? | InfosecTrain | [Read More](https://medium.com/p/ff95ae647f18) |
+| Fri, 17 Apr 2026 07:20:05 GMT | Silent Threat in the Avatar: Unmasking a Stored XSS via File Uploads | Shreyash Mall | [Read More](https://medium.com/p/764ae9f3713c) |
+| Fri, 17 Apr 2026 07:19:25 GMT | Smarter Security: Leveraging Analytics and Automation for Faster Response | Gauri Kale | [Read More](https://medium.com/p/6caffebaee5a) |
+| Fri, 17 Apr 2026 07:16:15 GMT | The AI Agent Attack Surface in 2026: From MCP Tools to Webhook-Exposed Runners | Sky Zhang | [Read More](https://medium.com/p/ea9649aa3809) |
+| Fri, 17 Apr 2026 07:10:03 GMT | Partnering with an ot cybersecurity company Saudi Arabia: A Practical Guide for Industrial Leaders | Invictux - OT Cybersecurity Solutions | [Read More](https://medium.com/p/a37242e89c9b) |
+| Fri, 17 Apr 2026 07:05:35 GMT | You Were Never Hidden,You Were Just Unobserved | Fateyaly | [Read More](https://medium.com/p/244166df6a72) |
+| Fri, 17 Apr 2026 06:59:01 GMT | Commercial Security System Market Share Analysis by Component and Technology | Avinashgogawale | [Read More](https://medium.com/p/4a4f6424e871) |
+| Fri, 17 Apr 2026 06:53:20 GMT | Kerala’s Youngest Ethical Hacker: What Happens When Curiosity Meets the Right Direction | Cyberbee | [Read More](https://medium.com/p/83a6e29f0221) |
+| Fri, 17 Apr 2026 06:40:55 GMT | Apache ActiveMQ Under Active Exploitation: Why CVE-2026–34197 Is More Dangerous Than It First Looks | Germano Costi | [Read More](https://medium.com/p/1dedbda30010) |
+| Fri, 17 Apr 2026 06:35:07 GMT | AI Governance Starts With Identifying AI Systems | Amritha George | [Read More](https://medium.com/p/0a82ad4ec550) |
+| Fri, 17 Apr 2026 06:30:17 GMT | Resumable File Uploads in the Browser Using the File System Access API | Andrei Lopatin | [Read More](https://medium.com/p/4645d0006a8f) |
+| Fri, 17 Apr 2026 06:07:21 GMT | Network Security Framework for Enterprises: A Complete Guide to Building Secure IT… | Omnilink Technology | [Read More](https://medium.com/p/cd6c32984235) |
+| Fri, 17 Apr 2026 06:04:21 GMT | The Saffron Qubit: How India Built the World’s Most Resilient Shield for the Quantum Age | Hitesh Rohilla | [Read More](https://medium.com/p/3d67c1925dfb) |
+| Fri, 17 Apr 2026 06:01:01 GMT | Building and Securing an API Gateway with Cloudflare Workers and Auth0 | Odunlade Adeola | [Read More](https://medium.com/p/3102dfc57358) |
 | Fri, 17 Apr 2026 05:59:06 GMT | Internet Protocol Version 8 (IPv8): Re-Architecting the Internet Around Identity, Control, and… | Samyakgoel | [Read More](https://medium.com/p/7153d0f1d05c) |
 | Fri, 17 Apr 2026 05:59:00 GMT | Non-Human Identity Attacks: When APIs, Bots, and Service Accounts Become the New Target | Cynox Security LLP. | [Read More](https://medium.com/p/c75db47d3bb4) |
 | Fri, 17 Apr 2026 05:57:12 GMT | The Dark Side of Generative AI in Cybercrime | Ddm atiq | [Read More](https://medium.com/p/90b78d65e2ab) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 16 Apr 2026 20:52:22 GMT | Keisha Gebre: The Security Specialist Redefining Risk Mitigation and Institutional Safety | Keisha Gebre | [Read More](https://medium.com/p/20850247384d) |
 | Thu, 16 Apr 2026 20:38:03 GMT | MEV as a Security Surface: When Adversarial Ordering Breaks Protocol Assumptions | Exploitless | [Read More](https://medium.com/p/9018237b3f4d) |
 | Thu, 16 Apr 2026 20:29:27 GMT | Write-Up: Brooklyn Nine Nine | Felix Schoenitz | [Read More](https://medium.com/p/cb9c0acacb02) |
-| Thu, 16 Apr 2026 20:25:35 GMT | “THE HOSPITAL” write-up | Cybersenseieh | [Read More](https://medium.com/p/a016887aba8b) |
-| Thu, 16 Apr 2026 20:18:26 GMT | Information technology | K.Kosalan | [Read More](https://medium.com/p/8bce8f0893a8) |
-| Thu, 16 Apr 2026 20:17:02 GMT | Send Me This, Send Me That (The NFT Scam) | Alexandra Grant | [Read More](https://medium.com/p/79f630794473) |
-| Thu, 16 Apr 2026 20:09:57 GMT | Data Protection (Hashing vs. Encoding vs. Encryption) | Gunyatus | [Read More](https://medium.com/p/337fdf8c8db2) |
-| Thu, 16 Apr 2026 19:58:29 GMT | Reverse Engineering on CyberTalents: Solving All MEDIUM Challenges Part 5 | Isv0x1 | [Read More](https://medium.com/p/86faaa5d5c0f) |
-| Thu, 16 Apr 2026 19:53:10 GMT | Funbox Walkthrough (Proving ground-play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/1441b92734b5) |
-| Thu, 16 Apr 2026 19:51:01 GMT | Netwalker Configuration Extraction via Malcat | Stefan Cicos | [Read More](https://medium.com/p/b7cf3917cce5) |
-| Thu, 16 Apr 2026 19:48:27 GMT | AWS Community Day Bay Area 2026 (Security Edition): A Volunteer’s Recap and Your Guide to Every… | Shravanth v | [Read More](https://medium.com/p/4f3ec5bfe842) |
-| Thu, 16 Apr 2026 19:47:50 GMT | Docker — A Nonsense Guide | Ishant | [Read More](https://medium.com/p/a9b25edefa68) |
-| Thu, 16 Apr 2026 19:46:58 GMT | Europe’s Four Defence Pillars: A New Shield for a New Era | Bajram Geci | [Read More](https://medium.com/p/8a9146d8fbc7) |
-| Thu, 16 Apr 2026 19:36:01 GMT | Why Firewalls Are Losing Their Central Role in 2026 | Aleksei Aleinikov | [Read More](https://medium.com/p/3b437cb24dd6) |
-| Thu, 16 Apr 2026 19:34:41 GMT | Inside the World of Cybersecurity in Corporate America | Maisha Taranum | [Read More](https://medium.com/p/ac9f761ff5d2) |
-| Thu, 16 Apr 2026 19:28:58 GMT | Bandit level 0 | Dipankar Paul | [Read More](https://medium.com/p/85c883b79ca8) |
-| Thu, 16 Apr 2026 19:23:53 GMT | How Businesses Get Breached Without Clicking a Single Suspicious Link | IT_Engineer | [Read More](https://medium.com/p/6a897e7fc429) |
-| Thu, 16 Apr 2026 19:21:41 GMT | Business Logic vulnerability | Divine | [Read More](https://medium.com/p/ebd9012f7128) |
-| Thu, 16 Apr 2026 19:14:14 GMT | AI Models & Data Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/637ffd5f60dd) |
-| Thu, 16 Apr 2026 19:11:30 GMT | Tenable VM: Authentication Successful but Credentialed Scan Shows No | Lionel Agishi | [Read More](https://medium.com/p/b3742fece9a1) |
-| Thu, 16 Apr 2026 19:11:21 GMT | Hiding root detection using eBPF — kernel-level syscall interception | Haxymad | [Read More](https://medium.com/p/f0795942078d) |
-| Thu, 16 Apr 2026 19:09:41 GMT | A Simple Guide to Upgrading Old Computers and Laptops | Adrian iWrite | [Read More](https://medium.com/p/89b9fec56c16) |
-| Thu, 16 Apr 2026 19:01:30 GMT | The Silent Exfiltration Problem Nobody Is Watching | Travis Ray Caverhill | [Read More](https://medium.com/p/4b429613b100) |
-| Thu, 16 Apr 2026 18:57:34 GMT | Construindo Aplicações de IA Mais Seguras: Conheça o Secure Prompt Engineering Framework (SPEF) | Guga | [Read More](https://medium.com/p/4ff3a1ccb8b4) |
-| Thu, 16 Apr 2026 18:56:01 GMT | The Hidden Security Flaw in Your Java String Comparisons | Helitha Pravin | [Read More](https://medium.com/p/f922f5706306) |
-| Thu, 16 Apr 2026 18:50:11 GMT | Samurai HackSmarter | Mohamed Soliman | [Read More](https://medium.com/p/75474ad21ae8) |
-| Thu, 16 Apr 2026 18:49:35 GMT | Integer Overflow: I Thought We Fixed This | Nahmstay | [Read More](https://medium.com/p/10cce3376a52) |
-| Thu, 16 Apr 2026 18:49:22 GMT | Reliable Event Services London: What to Look for When Planning a Seamless Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/718a991b4d1b) |
