@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Apr 2026 21:23:37 GMT | HOW TO RECOVER STOLEN OR LOST BITCOIN/MALICE CYBER RECOVERY WILL SOLVE YOUR PROBLEMS | Sofiia Vlasic | [Read More](https://medium.com/p/e71ae8f78d41) |
+| Fri, 17 Apr 2026 21:23:26 GMT | Prompt Injection | Devanshi Patel | [Read More](https://medium.com/p/e8b37bc82e39) |
+| Fri, 17 Apr 2026 21:19:18 GMT | IF I WERE YOU - CRYPTO STRATEGY
+If I Lost All My Crypto Tomorrow, Here’s How I’d Rebuild
+Losing… | Kingdipszy | [Read More](https://medium.com/p/2d99659b29ee) |
+| Fri, 17 Apr 2026 21:19:10 GMT | Part 05 — Building a Security Operations Center Homelab (Setting up Suricata on TheGateWatcher) | Sean Nelson | [Read More](https://medium.com/p/b955e6b7962a) |
+| Fri, 17 Apr 2026 21:18:55 GMT | ANOTHER Bad Windows 11 Update is Breaking Things | Michael Swengel | [Read More](https://medium.com/p/d16b4b0c0141) |
+| Fri, 17 Apr 2026 21:13:37 GMT | Local Development Security Guidelines | Artur Grzybowski | [Read More](https://medium.com/p/30ff9830ad49) |
+| Fri, 17 Apr 2026 21:05:47 GMT | The Ransomware Machine in 2026, Where Antivirus and EDR Are Bypassed | David SEHYEON Baek | [Read More](https://medium.com/p/6daa68ea144c) |
+| Fri, 17 Apr 2026 21:05:12 GMT | What You Should Actually Know Before Hiring Security Guard Services in San Jose, CA | Uniworth security Editorial | [Read More](https://medium.com/p/553877464903) |
+| Fri, 17 Apr 2026 21:01:21 GMT | AI Is Removing Your Organization’s Head Start on Cybersecurity | Centric Consulting | [Read More](https://medium.com/p/b74e70eccca0) |
+| Fri, 17 Apr 2026 20:54:14 GMT | Defining a secure Microsoft Fabric architecture | Alipouw | [Read More](https://medium.com/p/bb525b0d83d7) |
 | Fri, 17 Apr 2026 20:26:18 GMT | Spectral Attack Resistance: Can AI Reconstruct Encrypted Traffic Privacy Defenses? | Md Sakib Ahmed | [Read More](https://medium.com/p/4403a2b4f685) |
 | Fri, 17 Apr 2026 20:23:32 GMT | Lazy Way to Make a $1,000 a Day in Cybersecurity | Rich Chen | [Read More](https://medium.com/p/22c4428480a3) |
 | Fri, 17 Apr 2026 20:16:47 GMT | Write-Up: Easy Peasy | Felix Schoenitz | [Read More](https://medium.com/p/c00771db3277) |
@@ -103,13 +115,3 @@ In an era where data… | Jake Smith | [Read More](https://medium.com/p/929e39d5
 | Fri, 17 Apr 2026 15:13:28 GMT | CVE-2007–1860: Exploiting Apache mod_jk’s Double-Decoding Vulnerability — A Beginner-Friendly Deep… | Anaselmendili | [Read More](https://medium.com/p/df540511aa4e) |
 | Fri, 17 Apr 2026 15:07:59 GMT | Hundreds of Billions in Foreign Investment Pour In: Why Can’t It Stop the Wave of Factory Closures… | Alicia Y. | [Read More](https://medium.com/p/a06e6b8cbc4d) |
 | Fri, 17 Apr 2026 15:03:44 GMT | Cowork’s Enterprise Problem | Michael Lipscombe | [Read More](https://medium.com/p/f0ddde2f0505) |
-| Fri, 17 Apr 2026 14:53:25 GMT | The Future of Cyber Insurance: Navigating Ransomware and Emerging Threats | Tamara Ashjian | [Read More](https://medium.com/p/d13f3662a12d) |
-| Fri, 17 Apr 2026 14:51:50 GMT | FortiGate Firmware Upgrade Süreci: Doğru Versiyon Geçişi ve Dikkat Edilmesi Gerekenler | Ahmet Badem | [Read More](https://medium.com/p/9a5ae915c7ea) |
-| Fri, 17 Apr 2026 14:47:34 GMT | The AI Risk Most Companies Already Approved | PRASAD BHONDE | [Read More](https://medium.com/p/0f2a9bd511e7) |
-| Fri, 17 Apr 2026 14:44:02 GMT | How I had to understand at the frontline how integration works | Robson Zacarias | [Read More](https://medium.com/p/437faf727271) |
-| Fri, 17 Apr 2026 14:43:57 GMT | Account Takeover via OAuth Redirect Uri Manipulation | Skysenz | [Read More](https://medium.com/p/5ae02c165fef) |
-| Fri, 17 Apr 2026 14:43:28 GMT | India’s New e-SafeHER Program Could Change Digital Safety for Millions of Women | Creativeyouth26 | [Read More](https://medium.com/p/1653ec90e60f) |
-| Fri, 17 Apr 2026 14:38:40 GMT | One AI Tool. 17 Organizations Destroyed. | Dark Energy Articles | [Read More](https://medium.com/p/407e5e1361b5) |
-| Fri, 17 Apr 2026 14:36:23 GMT | Race Condition Exploitation in Poll Systems: How I Manipulated Votes with a Single Account | Jonathangeorge | [Read More](https://medium.com/p/093a61acd24f) |
-| Fri, 17 Apr 2026 14:34:19 GMT | A ‘Recruiter’ Texted me on Whatsapp Today — I almost fell for It | Aman Lamsal | [Read More](https://medium.com/p/5b5f3b622723) |
-| Fri, 17 Apr 2026 14:29:40 GMT | Cybersecurity Tools Aren’t Enough Anymore — Here’s What’s Missing | IT_Engineer | [Read More](https://medium.com/p/b8948df57ccd) |
