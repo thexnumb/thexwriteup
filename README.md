@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 17 Apr 2026 20:26:18 GMT | Spectral Attack Resistance: Can AI Reconstruct Encrypted Traffic Privacy Defenses? | Md Sakib Ahmed | [Read More](https://medium.com/p/4403a2b4f685) |
+| Fri, 17 Apr 2026 20:23:32 GMT | Lazy Way to Make a $1,000 a Day in Cybersecurity | Rich Chen | [Read More](https://medium.com/p/22c4428480a3) |
+| Fri, 17 Apr 2026 20:16:47 GMT | Write-Up: Easy Peasy | Felix Schoenitz | [Read More](https://medium.com/p/c00771db3277) |
+| Fri, 17 Apr 2026 20:07:44 GMT | DC-1: CVE-2018–7600 | Dexter Morgan | [Read More](https://medium.com/p/0460c927ba00) |
+| Fri, 17 Apr 2026 20:05:31 GMT | Brains walkthrough Tryhackme | Crystalcascade14 | [Read More](https://medium.com/p/e939b14d5121) |
+| Fri, 17 Apr 2026 20:04:31 GMT | Stop Chasing False Positives: How I Built TokenSpot to Validate API Keys in Real-Time | Sahal | [Read More](https://medium.com/p/df9a3ab7d983) |
+| Fri, 17 Apr 2026 20:01:01 GMT | Model Theft in the Age of AI | Michel Alan López | [Read More](https://medium.com/p/4a30e5c5b9f6) |
+| Fri, 17 Apr 2026 19:55:13 GMT | I’m Claude. My Sibling Can Break Everything — And This Is What I Actually Think About That | Shaswata Tripathy | [Read More](https://medium.com/p/b013e564dc84) |
+| Fri, 17 Apr 2026 19:53:44 GMT | How OpenAI’s GPT-5.4-Cyber Is Transforming Cybersecurity | Priyesh Patware | [Read More](https://medium.com/p/95e0148e07d2) |
+| Fri, 17 Apr 2026 19:50:45 GMT | Perdenin Arkasındaki Mimari — Ağ (Network) Nedir? (Bölüm 2) | Yusuf Adıgüzel | [Read More](https://medium.com/p/3d2e7629a12e) |
+| Fri, 17 Apr 2026 19:38:19 GMT | Green Dot Red Dot: How Your Phone Warns You About Spying Apps | Jay×͜× | [Read More](https://medium.com/p/6a81558217cb) |
+| Fri, 17 Apr 2026 19:36:31 GMT | ️ PhishGuard – Phishing Detection System | recoxy | [Read More](https://medium.com/p/7da9d939d22c) |
 | Fri, 17 Apr 2026 19:34:29 GMT | The Plank in My Eye | Liora Bloom | [Read More](https://medium.com/p/6e12eedfd1c3) |
 | Fri, 17 Apr 2026 19:33:26 GMT | Email Verification Bypass & AI Credits Manipulation via simple Mass Assignment | ali badr | [Read More](https://medium.com/p/60999a81cb4c) |
 | Fri, 17 Apr 2026 19:24:30 GMT | I’m a Blockchain Support Specialist. | Spade Labs | [Read More](https://medium.com/p/dcb701350f27) |
@@ -101,15 +113,3 @@ In an era where data… | Jake Smith | [Read More](https://medium.com/p/929e39d5
 | Fri, 17 Apr 2026 14:36:23 GMT | Race Condition Exploitation in Poll Systems: How I Manipulated Votes with a Single Account | Jonathangeorge | [Read More](https://medium.com/p/093a61acd24f) |
 | Fri, 17 Apr 2026 14:34:19 GMT | A ‘Recruiter’ Texted me on Whatsapp Today — I almost fell for It | Aman Lamsal | [Read More](https://medium.com/p/5b5f3b622723) |
 | Fri, 17 Apr 2026 14:29:40 GMT | Cybersecurity Tools Aren’t Enough Anymore — Here’s What’s Missing | IT_Engineer | [Read More](https://medium.com/p/b8948df57ccd) |
-| Fri, 17 Apr 2026 14:27:45 GMT | Avoid Online Traps: The Power of Scam Alerts | James Smith | [Read More](https://medium.com/p/eaf1a5b28951) |
-| Fri, 17 Apr 2026 14:25:50 GMT | Streamlining Cloud Governance: Restricting Security List Changes with OCI Security Zones | Mohammed Abdul Wakeel | [Read More](https://medium.com/p/793f43eaf366) |
-| Fri, 17 Apr 2026 14:24:16 GMT | Load Testing at Scale: I Stress-Tested My API with k6 | Navanath Jadhav | [Read More](https://medium.com/p/695395306f61) |
-| Fri, 17 Apr 2026 14:23:45 GMT | JEA‑Based Remote Execution with ScriptRunner: Enforcing Least Privilege in Enterprise Automation | Frank Kresse | [Read More](https://medium.com/p/582e18961b8d) |
-| Fri, 17 Apr 2026 14:21:43 GMT | GLITCH — TryHackMe Write-up (Command Injection + Privilege Escalation) | Bruno Porfiro | [Read More](https://medium.com/p/43139c33f97d) |
-| Fri, 17 Apr 2026 14:19:38 GMT | Credential dumping is rarely about the tool you use and more about knowing where the OS is actually… | Bisher Arafat | [Read More](https://medium.com/p/8d0e03808889) |
-| Fri, 17 Apr 2026 14:15:06 GMT | Ransomware & AI-Enhanced Social Engineering: Incident Response Challenges in 2026 | NetWitness | [Read More](https://medium.com/p/6013591b83e1) |
-| Fri, 17 Apr 2026 13:55:44 GMT | ⚡ Cross-Site Scripting (XSS) — From Input to Browser Control | ghostyjoe | [Read More](https://medium.com/p/b39a8de952b4) |
-| Fri, 17 Apr 2026 13:50:40 GMT | From Image Upload to Admin Panel: How a Simple SSRF Led to Massive PII Disclosure and earned $$$$ | Sagar Dhoot | [Read More](https://medium.com/p/738e3be3708c) |
-| Fri, 17 Apr 2026 13:48:42 GMT | A Security Practitioner’s Guide to CPS (Cyber-Physical Systems) Resilience and the Independent… | Berend Watchus | [Read More](https://medium.com/p/c880be0e0c7a) |
-| Fri, 17 Apr 2026 13:48:24 GMT | Navigating the Perilous Landscape of AI: Understanding and Mitigating Agent Traps | Alessandro Pignati | [Read More](https://medium.com/p/3dc14e0a950f) |
-| Fri, 17 Apr 2026 13:47:19 GMT | [Azure] Vector database using PostgreSQL | Infinite Cloud | [Read More](https://medium.com/p/00deac68b1f0) |
