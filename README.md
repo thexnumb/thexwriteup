@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 17:04:12 GMT | InfosecPrep — robots.txt RSA Key Leak + SUID Bash to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/f2b3dc3541ee) |
+| Sat, 18 Apr 2026 17:02:56 GMT | Server Components CTF@CIT 2026 | Mohamed Soliman | [Read More](https://medium.com/p/f306fb286332) |
+| Sat, 18 Apr 2026 17:00:35 GMT | Brooklyn Nine Nine Tryhackme Writeup | Anirudh Bishnoi | [Read More](https://medium.com/p/b91aac147f59) |
+| Sat, 18 Apr 2026 17:00:34 GMT | The Rudratic PAM Habit: Daily Small Steps to Slash Identity Risk | Rudratic Technologies | [Read More](https://medium.com/p/ece53875ecb2) |
+| Sat, 18 Apr 2026 16:59:28 GMT | What is actually at stake in a 51% attack? | Joshua Oladeji | [Read More](https://medium.com/p/1a045cc73761) |
+| Sat, 18 Apr 2026 16:57:03 GMT | CISCO notes Module 8:The Internet Protocol | ExploitHunter | [Read More](https://medium.com/p/2a4357a505dc) |
+| Sat, 18 Apr 2026 16:56:05 GMT | CISCO notes Module 7— The Access Layer | ExploitHunter | [Read More](https://medium.com/p/6a6c833c5871) |
+| Sat, 18 Apr 2026 16:55:56 GMT | CAPA: THE BASICS LINUXENICORP WRITEUP | hihipro | [Read More](https://medium.com/p/2487e54f6305) |
+| Sat, 18 Apr 2026 16:55:13 GMT | I spent two weeks training a 7B model to find security bugs. Here’s every mistake I made. | Vito Rallo | [Read More](https://medium.com/p/2f03f7bf90a7) |
+| Sat, 18 Apr 2026 16:54:11 GMT | NMAP: LIVE HOST DISCOVERY LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/b3eb632fa901) |
+| Sat, 18 Apr 2026 16:52:51 GMT | Why your brain starts its first lap before the world wakes up | Hugo Pan | [Read More](https://medium.com/p/83149b40bd10) |
+| Sat, 18 Apr 2026 16:47:07 GMT | Steel Mountain — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/8aac5438e9bc) |
+| Sat, 18 Apr 2026 16:44:13 GMT | Your AI Agent Has Root Access. Did Anyone Actually Think About That? | Opnaruto | [Read More](https://medium.com/p/e037f43d011b) |
+| Sat, 18 Apr 2026 16:35:41 GMT | 10 Mistakes Every Cybersecurity Beginner Makes (And How I Fixed Mine) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/f7795a10fcbc) |
+| Sat, 18 Apr 2026 16:14:19 GMT | Reflected XSS | 13v! ⚔️ | [Read More](https://medium.com/p/8d8ad33609d4) |
+| Sat, 18 Apr 2026 16:02:30 GMT | When the Protector Becomes the Vector: Exploiting Microsoft Defender | Shane Haynes | [Read More](https://medium.com/p/966d5e600496) |
+| Sat, 18 Apr 2026 16:01:01 GMT | Shipping CRM Integrations Safely: Security, Rollout Strategy, and Vendor Reality | Nikhith | [Read More](https://medium.com/p/725235ba73e6) |
 | Sat, 18 Apr 2026 15:41:59 GMT | Your Flutter App Is Leaking Secrets — And You Don’t Know It | Sayed | [Read More](https://medium.com/p/e58dac03de92) |
 | Sat, 18 Apr 2026 15:37:22 GMT | Managing Role Hierarchy in Casbin (RBAC with Inheritance) — Banking Use Case | Amarjeet Prajapati | [Read More](https://medium.com/p/39aac48f636a) |
 | Sat, 18 Apr 2026 15:35:02 GMT | Banking Session Hijacking: The Invisible Threat in Your Third-Party Scripts | Smaan | [Read More](https://medium.com/p/483663551653) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 09:38:37 GMT | Granny HTB Writeup | Serhii Dmitriiev | [Read More](https://medium.com/p/926bb0961f79) |
 | Sat, 18 Apr 2026 09:23:43 GMT | Investigating PAN-OS CVE-2024-3400 Exploitation Attempt Where Execution Almost Happened | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/68c75c2effa9) |
 | Sat, 18 Apr 2026 09:22:50 GMT | I Built a Network Scanner in Zsh — Here’s How It Works | Dipson Gurung | [Read More](https://medium.com/p/09d844445247) |
-| Sat, 18 Apr 2026 09:19:52 GMT | Jackals — old and new | Dylan Evans | [Read More](https://medium.com/p/d9a33dc6ec42) |
-| Sat, 18 Apr 2026 09:14:44 GMT | How I Set Up Role-Based Access Control on Linux (RBAC Lab Walkthrough) | Dipson Gurung | [Read More](https://medium.com/p/26f8d0b7f140) |
-| Sat, 18 Apr 2026 09:12:32 GMT | Best Cyber Security Training in Kerala - Hands-On Ethical Hacking Course | asha | [Read More](https://medium.com/p/ea92699b170d) |
-| Sat, 18 Apr 2026 09:10:36 GMT | Sending A One Time Password (OTP) To The Wrong User. | ShadowForge | [Read More](https://medium.com/p/dbd9c37d920d) |
-| Sat, 18 Apr 2026 08:57:59 GMT | Breaking Into a Major Email Platform With Two Vulnerabilities | Prateekpulastya | [Read More](https://medium.com/p/5deed8efbb81) |
-| Sat, 18 Apr 2026 08:55:29 GMT | Top 10 Industry 4.0 Technologies Every Factory Must Adopt Today | Machinefoxindia | [Read More](https://medium.com/p/c88792698d42) |
-| Sat, 18 Apr 2026 08:55:06 GMT | Israel’s Wolf-Pack Surveillance System | Baris Dincer | [Read More](https://medium.com/p/2167a4987c89) |
-| Sat, 18 Apr 2026 08:52:55 GMT | Shadow AI- The Hidden Risk Your Organization Can’t Ignore | AI Kit Hub | [Read More](https://medium.com/p/f2cc85359b31) |
-| Sat, 18 Apr 2026 08:50:15 GMT | Crack GIAC Security Essentials (GSEC) 2026 Like a Pro! | Mirzarashidbaig | [Read More](https://medium.com/p/60c8aeba4da9) |
-| Sat, 18 Apr 2026 08:49:58 GMT | What Happens When You Rip the Foundation Out of a Security Tool | PythonWoods | [Read More](https://medium.com/p/173b57d496b2) |
-| Sat, 18 Apr 2026 08:44:32 GMT | Pass CompTIA A+ (220–1101 & 220–1102) with Confidence! | Mirzarashidbaig | [Read More](https://medium.com/p/27186b3da0e5) |
-| Sat, 18 Apr 2026 08:40:18 GMT | Is Your Digital Life Truly Under Your Control? | Orpa | [Read More](https://medium.com/p/58afa848653b) |
-| Sat, 18 Apr 2026 08:39:09 GMT | Vibe coding is shipping vulnerabilities at scale (and nobody’s checking)# | Emanuele De Amicis | [Read More](https://medium.com/p/0031fba5da32) |
-| Sat, 18 Apr 2026 08:37:40 GMT | 12 Kerentanan pada Aplikasi AndroGoat: Proof of Concept (PoC) dan Rekomendasi Mitigasi | Fajar Nasrullah | [Read More](https://medium.com/p/1b288fdee60b) |
-| Sat, 18 Apr 2026 08:33:48 GMT | Identity-Based Attacks: How Attackers Bypass Security Without Exploiting Vulnerabilities | Cynox Security LLP. | [Read More](https://medium.com/p/997121d6ba01) |
-| Sat, 18 Apr 2026 08:32:31 GMT | Mythic C2 Server Erebus Wrapper — 107 | Miraç Küçük | [Read More](https://medium.com/p/6cbf4fb82eee) |
-| Sat, 18 Apr 2026 08:27:45 GMT | Chasing the Vein: From the Destruction of Papua’s Peaks to Trenggalek’s Karst, Another Human… | Landung Salsabiila Zuhaal | [Read More](https://medium.com/p/5c60130f7f22) |
