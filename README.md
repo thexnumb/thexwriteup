@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 06:43:48 GMT | Python Programming summer internship for freshers in India | cyber security Updates | [Read More](https://medium.com/p/109b277469dd) |
+| Sat, 18 Apr 2026 06:41:47 GMT | Bypassing Emulator Detection From Kernel Level | Haxymad | [Read More](https://medium.com/p/d9582a931b0d) |
+| Sat, 18 Apr 2026 06:39:17 GMT | ClickFix Scam Warning: How to Detect Fake Verification Pages and Protect Your Device with… | Cyberraxha | [Read More](https://medium.com/p/68755a3fb95e) |
+| Sat, 18 Apr 2026 06:35:00 GMT | Springboot 4 Captcha (Indonesia) | bike.override | [Read More](https://medium.com/p/975050db37cf) |
+| Sat, 18 Apr 2026 06:32:50 GMT | Setting up a company in Google cloud: organization, cloud identity, billing & APIs | unica 02 | [Read More](https://medium.com/p/7fd8e29f1f18) |
+| Sat, 18 Apr 2026 06:32:22 GMT | The protocol that runs the world— The only HTTP guide you will ever need ! | Cyberbali | [Read More](https://medium.com/p/4215be883042) |
+| Sat, 18 Apr 2026 06:22:53 GMT | The Windows Concept Journey — Function Driver | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f1b04f029608) |
+| Sat, 18 Apr 2026 06:12:33 GMT | Anthropic’s Claude Mythos: Why This AI Cybersecurity Breakthrough Is Being Kept Locked Away | Hayanan | [Read More](https://medium.com/p/725cceb45d0f) |
+| Sat, 18 Apr 2026 06:10:46 GMT | The State of Cybersecurity in 2026: Surviving the Agentic Swamp | Steve Ng | [Read More](https://medium.com/p/2379fb44b276) |
+| Sat, 18 Apr 2026 06:03:18 GMT | The Difference Between Devices and Internet In the US and in North Korea | Courtney Alicia Dye | [Read More](https://medium.com/p/df8f50bde89d) |
+| Sat, 18 Apr 2026 06:01:33 GMT | Everyone Is Doing Recon Wrong — And They Don’t Even Know It | clipper | [Read More](https://medium.com/p/a2ca85b0d0cb) |
+| Sat, 18 Apr 2026 05:58:05 GMT | How to Find Subdomains Like a Hacker (Beginner to Pro Guide) | Elliot Alderson | [Read More](https://medium.com/p/9abfcecb936a) |
+| Sat, 18 Apr 2026 05:56:22 GMT | One Breach, Total Wipeout: The Code Spaces Tragedy | Srivardhni Palaniappan | [Read More](https://medium.com/p/92aaa51f3abd) |
+| Sat, 18 Apr 2026 05:55:04 GMT | Why the Mythos conversation is not about the stack the tool is scanning? | Arunkumar Ganesan | [Read More](https://medium.com/p/10f16fb716c1) |
+| Sat, 18 Apr 2026 05:55:02 GMT | Night Patrol Security Services: A Smart Solution for After-Hours Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/f1233b7c62c6) |
+| Sat, 18 Apr 2026 05:35:30 GMT | Kali MCP Server Explained - API Integration for Security Labs | Pentester Club | [Read More](https://medium.com/p/d70db33cefc0) |
+| Sat, 18 Apr 2026 05:17:20 GMT | Technical Analysis and Remediation: Unauthenticated RCE via Base64Uploader (CVE-2024–42640) in… | Shreyash Mall | [Read More](https://medium.com/p/e7ef929b90e5) |
+| Sat, 18 Apr 2026 05:15:17 GMT | Hacker101 CTF — Day 1: A Little Something to Get You Started | Richiefallaria | [Read More](https://medium.com/p/c1d85ebed2a8) |
 | Sat, 18 Apr 2026 04:53:51 GMT | Open Redirect — Low Bug… or High Impact When Chained? | ghostyjoe | [Read More](https://medium.com/p/6f267b82718f) |
 | Sat, 18 Apr 2026 04:52:11 GMT | The Biggest Parking Management Problems and Their Smart Solutions | Commport Technologies | [Read More](https://medium.com/p/66d2886f70b8) |
 | Sat, 18 Apr 2026 04:33:04 GMT | How to Investigate a Suspicious PowerShell Command | Paritosh | [Read More](https://medium.com/p/17db3cb17aa1) |
@@ -96,22 +114,3 @@ Losing… | Kingdipszy | [Read More](https://medium.com/p/2d99659b29ee) |
 | Fri, 17 Apr 2026 18:51:15 GMT | Zero Trust Is Failing in Real Cloud Environments -Here’s Why | Manish Kumar - Cloud Security | [Read More](https://medium.com/p/84b4be8e0a8a) |
 | Fri, 17 Apr 2026 18:49:18 GMT | My Journey to Clearing CRTP (Certified Red Team Professional) | Deepansh hooda | [Read More](https://medium.com/p/aa1726984e4c) |
 | Fri, 17 Apr 2026 18:41:01 GMT | The Limits of Traditional Security in Machine Learning | Forg3t Protocol - AI Unlearning | [Read More](https://medium.com/p/227f4ce07850) |
-| Fri, 17 Apr 2026 18:40:40 GMT | Best Managed IT Support in NYC - 2026 Guide | BizTech Weekly | [Read More](https://medium.com/p/d77fdf88437d) |
-| Fri, 17 Apr 2026 18:32:41 GMT | OffSec “Inclusiveness” CTF Writeup | sabR | [Read More](https://medium.com/p/1fb58af543e0) |
-| Fri, 17 Apr 2026 18:24:17 GMT | Top 10 Free Website Builders for Manufacturing Businesses in Nairobi | Sunil Pal | [Read More](https://medium.com/p/bb93431899c2) |
-| Fri, 17 Apr 2026 18:23:44 GMT | Hear What Apple, Microsoft, & Caterpillar thought of IDCA Training | International Data Center Authority | [Read More](https://medium.com/p/700958b7751e) |
-| Fri, 17 Apr 2026 18:23:40 GMT | Your Company Audits Its Vendors. But Who’s Auditing Their Vendors? | Aaditya Mathur | [Read More](https://medium.com/p/efdf070db8ad) |
-| Fri, 17 Apr 2026 18:23:28 GMT | Your Digital ID is Leaking: Here is How to Audit Your Online Privacy in 2026
-In an era where data… | Jake Smith | [Read More](https://medium.com/p/929e39d5ee26) |
-| Fri, 17 Apr 2026 18:22:48 GMT | Zero Trust in 2026: Why AI-Powered Network Access Is No Longer Optional for US Businesses | A | [Read More](https://medium.com/p/8ff9d783afe8) |
-| Fri, 17 Apr 2026 18:21:00 GMT | The 12-Character Backdoor: How One Static Key in All-in-One WP Migration Leaks to Logs and Browsers… | JP | [Read More](https://medium.com/p/f5efebaaaa05) |
-| Fri, 17 Apr 2026 18:12:18 GMT | Exploiting HTTP request smuggling to capture other users’ requests - khan sploit - Mo Rashid | Mo Rashid | [Read More](https://medium.com/p/b66d244f8f82) |
-| Fri, 17 Apr 2026 18:10:40 GMT | The Future of Cybersecurity — Staying Ahead of Threats | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/3eaa8a7707b1) |
-| Fri, 17 Apr 2026 18:08:33 GMT | Is Your Organization Being Watched? | TechDemocracy | [Read More](https://medium.com/p/b4a19f658c4d) |
-| Fri, 17 Apr 2026 18:08:33 GMT | Securing the Backbone — Issue #20: When Disclosure Fails — What the SolarWinds Settlement Signals… | Eric Gallagher | [Read More](https://medium.com/p/7cd2bbb31d99) |
-| Fri, 17 Apr 2026 18:08:15 GMT | Securing the Backbone — Issue #18: It’s What’s Inside the Container That’ll Get You | Eric Gallagher | [Read More](https://medium.com/p/12d68e24b548) |
-| Fri, 17 Apr 2026 18:05:44 GMT | I hate you | managinggoats | [Read More](https://medium.com/p/5f3b1e8d59bb) |
-| Fri, 17 Apr 2026 17:56:30 GMT | I Prefer Linux… But My Machine Runs Windows. This Fixed My Workflow | Trixia Horner | [Read More](https://medium.com/p/f91f40ed75e2) |
-| Fri, 17 Apr 2026 17:56:01 GMT | # 30 Days of Naoris: What I Learned and Why I’m More Bullish Than Ever | Sebastien | [Read More](https://medium.com/p/888805f25b99) |
-| Fri, 17 Apr 2026 17:49:36 GMT | From Wanting to Be an Astronaut to Landing in Chicago: The Messy, Honest Story of Building Myself… | Fino :) | [Read More](https://medium.com/p/d048dc353374) |
-| Fri, 17 Apr 2026 17:48:32 GMT | How I Built a Secure One-Time Secret Sharing App with Laravel | Istiyakpasa | [Read More](https://medium.com/p/028e0d0a7fa3) |
