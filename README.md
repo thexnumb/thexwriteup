@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 20:44:45 GMT | LLMNR/NBT-NS Poisoning in Depth - Ehxb | Ehxb | [Read More](https://medium.com/p/ebacf745957d) |
+| Sat, 18 Apr 2026 20:40:32 GMT | How to Know If Your Phone Is Hacked | Sajid Khan | [Read More](https://medium.com/p/2124c2cf0e5a) |
+| Sat, 18 Apr 2026 20:40:10 GMT | The Compound Bug: When Two Quiet Flaws Conspire | Paul Pounder | [Read More](https://medium.com/p/a1c719c7a460) |
+| Sat, 18 Apr 2026 20:38:17 GMT | How I Found an Exposed Google Maps API Key in a Production Config File | Hacker MD | [Read More](https://medium.com/p/53453b909521) |
+| Sat, 18 Apr 2026 20:26:17 GMT | I Automated the Passive Reconnaissance Process I Learned in Class | Angle Gray | [Read More](https://medium.com/p/e0a090808b51) |
+| Sat, 18 Apr 2026 20:19:59 GMT | Zero-Day Reality Check: 6 Actively Exploited CVEs Targeting Fortinet, Microsoft & Adobe | Diya TK | [Read More](https://medium.com/p/07aed48c35b5) |
+| Sat, 18 Apr 2026 20:14:06 GMT | Claude’s 2025 Privacy Reversal: Why Your Private Chat Is Now Training Data for 5 Years (and What to… | Sérgio Caiado | [Read More](https://medium.com/p/f171039cdbbf) |
+| Sat, 18 Apr 2026 19:59:21 GMT | Try Hack Me- Anthem Walkthrough | PulseEinher | [Read More](https://medium.com/p/7b619e254efe) |
 | Sat, 18 Apr 2026 19:54:04 GMT | Four Ways to Steal a Syscall: Binary Rewriting vs. the Alternatives | Aoi Aioi | [Read More](https://medium.com/p/d4b4b7266b4f) |
 | Sat, 18 Apr 2026 19:49:17 GMT | Bash Scripting for Beginners | byteforensics | [Read More](https://medium.com/p/f32d8007184c) |
 | Sat, 18 Apr 2026 19:45:33 GMT | AI Forensics (THM) Tryhackme WriteUp and Answer | Lawvye | [Read More](https://medium.com/p/d1894690af48) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 13:59:24 GMT | A Small Character, A Big Risk: iPhone Passcode Bug Highlights Hidden Security Gaps | Jas | [Read More](https://medium.com/p/45b78789b1d1) |
 | Sat, 18 Apr 2026 13:55:44 GMT | Deepfakes: What Do You Do When You Can’t Be 100% Sure? | Next Horizon Global | [Read More](https://medium.com/p/62a02b161397) |
 | Sat, 18 Apr 2026 13:51:25 GMT | Meraki Systems Manager: Unified Endpoint Management for the Modern Wor | Novbox | [Read More](https://medium.com/p/7ad1d35ca1f5) |
-| Sat, 18 Apr 2026 13:49:35 GMT | ️‍♂️ Dari Sekadar Ganti Angka, Jadi Celah Besar: Cerita IDOR di Fitur Job Applications | Dianahmad | [Read More](https://medium.com/p/20fa0863216f) |
-| Sat, 18 Apr 2026 13:34:54 GMT | Day 30: The Cybersecurity Mindset — Your Blueprint for a Lifetime of Digital Resilience | Ndu | [Read More](https://medium.com/p/d69d888b4021) |
-| Sat, 18 Apr 2026 13:31:12 GMT | North Korea: Country Profile Strategic Intelligence | Dan Sullivan | [Read More](https://medium.com/p/23f08bc67041) |
-| Sat, 18 Apr 2026 13:22:43 GMT | Day 29: The AI Arms Race — Artificial Intelligence and Machine Learning in Cybersecurity | Ndu | [Read More](https://medium.com/p/22200e1deb85) |
-| Sat, 18 Apr 2026 13:19:00 GMT | The Complete SOC Analyst Roadmap | Md. Mehedi  hasan Babu | [Read More](https://medium.com/p/38f3a66cdcb6) |
-| Sat, 18 Apr 2026 13:13:00 GMT | SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) | C. L. | [Read More](https://medium.com/p/8ce96f2647ec) |
-| Sat, 18 Apr 2026 13:09:55 GMT | 10 Rules to Be Successful in Your Career as a Smart Contract Security Researcher | Abraham | [Read More](https://medium.com/p/ff38981aa41e) |
-| Sat, 18 Apr 2026 13:01:45 GMT | Georgia’s voting technology blunder | Cory Doctorow | [Read More](https://medium.com/p/8a2f727f907d) |
