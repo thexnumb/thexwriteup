@@ -12,11 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 15:03:27 GMT | Unauthorized Account Deletion via HTTP Method Manipulation.A Business Logic Flaw in REST API Design | Moataz | [Read More](https://medium.com/p/22ca2a39c363) |
+| Sat, 18 Apr 2026 14:51:46 GMT | AI Threat Modelling (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/34d28e619480) |
+| Sat, 18 Apr 2026 14:51:01 GMT | Villa Security & Smart Home Solutions in Dubai - CCTV, Smart Locks, Intercom & WiFi Setup | Rahulkrishnan | [Read More](https://medium.com/p/56482feac8d2) |
+| Sat, 18 Apr 2026 14:48:30 GMT | The Potato Family: A Decade of “Service Account → SYSTEM” PrivEsc (How It Works, Why It Persists) | Yua Mikanana | [Read More](https://medium.com/p/b1288e093bd3) |
+| Sat, 18 Apr 2026 14:48:12 GMT | When Security Becomes Rigid: A Field Report on Automated Sanctions in Proton Mail | ProudCoder | [Read More](https://medium.com/p/87fa051e3745) |
+| Sat, 18 Apr 2026 14:47:16 GMT | Streaming Platformunda Geolocation Bypass Denemesi | Enes Bayraker | [Read More](https://medium.com/p/98e1d332e5ae) |
+| Sat, 18 Apr 2026 14:46:02 GMT | We Put Our Documentation Linter Under an AI-Driven Siege. Here’s the Post-Mortem | PythonWoods | [Read More](https://medium.com/p/c09b8a86a396) |
+| Sat, 18 Apr 2026 14:42:01 GMT | The Agentic AI Polka | Phil Stafford | [Read More](https://medium.com/p/8bcda6eca3c4) |
+| Sat, 18 Apr 2026 14:41:43 GMT | The Digital Fortress on Sand | Pawned Root | [Read More](https://medium.com/p/2e48c778ae79) |
+| Sat, 18 Apr 2026 14:30:33 GMT | SOC Raw Log Analysis: The Complete Field Manual Every Analyst Needs (L1 to L3) | Manjil Katuwal | [Read More](https://medium.com/p/d6357d8eb31b) |
+| Sat, 18 Apr 2026 14:21:37 GMT | Securing Kubernetes on a Budget: Why Small Teams Need HashiCorp Vault | Ferdous Ahmed | [Read More](https://medium.com/p/7daaec69c95c) |
+| Sat, 18 Apr 2026 14:18:09 GMT | From Strategy to Action: A Technical Implementation Guide for Mythos-Ready Security Teams | Cybersecforall101 | [Read More](https://medium.com/p/4990ca46c6cb) |
 | Sat, 18 Apr 2026 14:04:19 GMT | Sessions Are The Dominant Weak Point In Web Security | Medjue Gore | [Read More](https://medium.com/p/1f6b648053f6) |
 | Sat, 18 Apr 2026 14:01:01 GMT | Cybersecurity in Laravel: The Most Common Attacks and How to Stop Them | Yurii Chekan | [Read More](https://medium.com/p/5a1c78f0f482) |
 | Sat, 18 Apr 2026 14:01:01 GMT | Poisoning the RAG: The Invisible “Sleeper Agents” Lurking in Your Corporate Wikis | Jose Baena Cobos | [Read More](https://medium.com/p/e4e1075acd16) |
 | Sat, 18 Apr 2026 14:01:01 GMT | Where Privacy Starts (And Why It Might Be Earlier Than You Think) | Ethics In Beta | [Read More](https://medium.com/p/b6eeba37fc1e) |
 | Sat, 18 Apr 2026 14:01:01 GMT | Threat Hunt: Proxy Execution, Registry Staging, Dual Command and Control | 0verRida | [Read More](https://medium.com/p/2f9270cd5355) |
+| Sat, 18 Apr 2026 14:01:01 GMT | The Immune System. (3/3) | 3 on Medium | [Read More](https://medium.com/p/635ca24c0b89) |
 | Sat, 18 Apr 2026 13:59:24 GMT | A Small Character, A Big Risk: iPhone Passcode Bug Highlights Hidden Security Gaps | Jas | [Read More](https://medium.com/p/45b78789b1d1) |
 | Sat, 18 Apr 2026 13:55:44 GMT | Deepfakes: What Do You Do When You Can’t Be 100% Sure? | Next Horizon Global | [Read More](https://medium.com/p/62a02b161397) |
 | Sat, 18 Apr 2026 13:51:25 GMT | Meraki Systems Manager: Unified Endpoint Management for the Modern Wor | Novbox | [Read More](https://medium.com/p/7ad1d35ca1f5) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 07:18:19 GMT | The Overlooked Attack Surface: Wi-Fi Penetration Testing in Automotive IVI Systems | Revanth Kolla | [Read More](https://medium.com/p/31f749f4018f) |
 | Sat, 18 Apr 2026 07:11:39 GMT | DLP Without a Roadmap Creates Noise: A Strategic Prototype to Plan Your Maturity Journey | Lt Col Arun Pushkar (Retd) | [Read More](https://medium.com/p/5be0c7a8ec98) |
 | Sat, 18 Apr 2026 07:09:24 GMT | Cyber Security Preparation in 2026: What Actually Matters | Little_Sun4lower | [Read More](https://medium.com/p/7ac7cfc62b47) |
-| Sat, 18 Apr 2026 07:07:57 GMT | .  . | Srinivas Yerravelli | [Read More](https://medium.com/p/8e2e1c4fb9f0) |
-| Sat, 18 Apr 2026 07:07:30 GMT | Behind the scenes of cleaning up a compromised website | Er. Abhay Tiwari | [Read More](https://medium.com/p/9fcfe3affc87) |
-| Sat, 18 Apr 2026 07:07:22 GMT | CIDR Notation in Ethical Hacking: A Practical Guide for Hackers and Pentesters | Redfox Security | [Read More](https://medium.com/p/1bed2832172a) |
-| Sat, 18 Apr 2026 07:06:58 GMT | Jax.Killer | Godleaks2026 | [Read More](https://medium.com/p/712fe621648d) |
-| Sat, 18 Apr 2026 06:44:09 GMT | The Two-Sided Sword: Handling Security Issues with the Model Context Protocol (MCP) | Alankar | [Read More](https://medium.com/p/06af5dc37d51) |
-| Sat, 18 Apr 2026 06:43:48 GMT | Python Programming summer internship for freshers in India | cyber security Updates | [Read More](https://medium.com/p/109b277469dd) |
-| Sat, 18 Apr 2026 06:41:47 GMT | Bypassing Emulator Detection From Kernel Level | Haxymad | [Read More](https://medium.com/p/d9582a931b0d) |
-| Sat, 18 Apr 2026 06:39:17 GMT | ClickFix Scam Warning: How to Detect Fake Verification Pages and Protect Your Device with… | Cyberraxha | [Read More](https://medium.com/p/68755a3fb95e) |
-| Sat, 18 Apr 2026 06:35:00 GMT | Springboot 4 Captcha (Indonesia) | bike.override | [Read More](https://medium.com/p/975050db37cf) |
-| Sat, 18 Apr 2026 06:32:50 GMT | Setting up a company in Google cloud: organization, cloud identity, billing & APIs | unica 02 | [Read More](https://medium.com/p/7fd8e29f1f18) |
-| Sat, 18 Apr 2026 06:32:22 GMT | The protocol that runs the world— The only HTTP guide you will ever need ! | Cyberbali | [Read More](https://medium.com/p/4215be883042) |
-| Sat, 18 Apr 2026 06:22:53 GMT | The Windows Concept Journey — Function Driver | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f1b04f029608) |
-| Sat, 18 Apr 2026 06:12:33 GMT | Anthropic’s Claude Mythos: Why This AI Cybersecurity Breakthrough Is Being Kept Locked Away | Hayanan | [Read More](https://medium.com/p/725cceb45d0f) |
