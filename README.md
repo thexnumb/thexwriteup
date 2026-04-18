@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 07:51:31 GMT | Crack CISSP in 2026 — Think Like a Security Leader, Not Just an Engineer | Adilbaignyc | [Read More](https://medium.com/p/52aed6bdb9e3) |
+| Sat, 18 Apr 2026 07:33:35 GMT | Security System Orlando | Globalalarmsus | [Read More](https://medium.com/p/f6a13dbae37f) |
+| Sat, 18 Apr 2026 07:31:01 GMT | How Easy Is It to Abuse Rust Apps? | John Philip | [Read More](https://medium.com/p/6f9516e2e6cb) |
+| Sat, 18 Apr 2026 07:26:01 GMT | Are Global Cyber Attacks Increasing? A Strategic Risk Analysis | Omer Akin | [Read More](https://medium.com/p/3425e2d7ed4b) |
+| Sat, 18 Apr 2026 07:25:48 GMT | Emergency Locksmiths in My Area — Reliable Solutions for Lock Emergencies in London | N1locksmithsltd | [Read More](https://medium.com/p/ddff0cb0b601) |
+| Sat, 18 Apr 2026 07:21:31 GMT | .  . | Srinivas Yerravelli | [Read More](https://medium.com/p/e97bfb8c9aab) |
+| Sat, 18 Apr 2026 07:18:19 GMT | The Overlooked Attack Surface: Wi-Fi Penetration Testing in Automotive IVI Systems | Revanth Kolla | [Read More](https://medium.com/p/31f749f4018f) |
+| Sat, 18 Apr 2026 07:11:39 GMT | DLP Without a Roadmap Creates Noise: A Strategic Prototype to Plan Your Maturity Journey | Lt Col Arun Pushkar (Retd) | [Read More](https://medium.com/p/5be0c7a8ec98) |
+| Sat, 18 Apr 2026 07:09:24 GMT | Cyber Security Preparation in 2026: What Actually Matters | Little_Sun4lower | [Read More](https://medium.com/p/7ac7cfc62b47) |
+| Sat, 18 Apr 2026 07:07:57 GMT | .  . | Srinivas Yerravelli | [Read More](https://medium.com/p/8e2e1c4fb9f0) |
+| Sat, 18 Apr 2026 07:07:30 GMT | Behind the scenes of cleaning up a compromised website | Er. Abhay Tiwari | [Read More](https://medium.com/p/9fcfe3affc87) |
+| Sat, 18 Apr 2026 07:07:22 GMT | CIDR Notation in Ethical Hacking: A Practical Guide for Hackers and Pentesters | Redfox Security | [Read More](https://medium.com/p/1bed2832172a) |
+| Sat, 18 Apr 2026 07:06:58 GMT | Jax.Killer | Godleaks2026 | [Read More](https://medium.com/p/712fe621648d) |
+| Sat, 18 Apr 2026 06:44:09 GMT | The Two-Sided Sword: Handling Security Issues with the Model Context Protocol (MCP) | Alankar | [Read More](https://medium.com/p/06af5dc37d51) |
 | Sat, 18 Apr 2026 06:43:48 GMT | Python Programming summer internship for freshers in India | cyber security Updates | [Read More](https://medium.com/p/109b277469dd) |
 | Sat, 18 Apr 2026 06:41:47 GMT | Bypassing Emulator Detection From Kernel Level | Haxymad | [Read More](https://medium.com/p/d9582a931b0d) |
 | Sat, 18 Apr 2026 06:39:17 GMT | ClickFix Scam Warning: How to Detect Fake Verification Pages and Protect Your Device with… | Cyberraxha | [Read More](https://medium.com/p/68755a3fb95e) |
@@ -100,17 +114,3 @@ Losing… | Kingdipszy | [Read More](https://medium.com/p/2d99659b29ee) |
 | Fri, 17 Apr 2026 19:50:45 GMT | Perdenin Arkasındaki Mimari — Ağ (Network) Nedir? (Bölüm 2) | Yusuf Adıgüzel | [Read More](https://medium.com/p/3d2e7629a12e) |
 | Fri, 17 Apr 2026 19:38:19 GMT | Green Dot Red Dot: How Your Phone Warns You About Spying Apps | Jay×͜× | [Read More](https://medium.com/p/6a81558217cb) |
 | Fri, 17 Apr 2026 19:36:31 GMT | ️ PhishGuard – Phishing Detection System | recoxy | [Read More](https://medium.com/p/7da9d939d22c) |
-| Fri, 17 Apr 2026 19:34:29 GMT | The Plank in My Eye | Liora Bloom | [Read More](https://medium.com/p/6e12eedfd1c3) |
-| Fri, 17 Apr 2026 19:33:26 GMT | Email Verification Bypass & AI Credits Manipulation via simple Mass Assignment | ali badr | [Read More](https://medium.com/p/60999a81cb4c) |
-| Fri, 17 Apr 2026 19:24:30 GMT | I’m a Blockchain Support Specialist. | Spade Labs | [Read More](https://medium.com/p/dcb701350f27) |
-| Fri, 17 Apr 2026 19:21:44 GMT | HackTheBox — Beep | matt | [Read More](https://medium.com/p/e261d1dd4e1d) |
-| Fri, 17 Apr 2026 19:16:50 GMT | WordPress Security in 2026: The 5-Hour Window That Changes Everything | Miz Causevic | [Read More](https://medium.com/p/2ebda9a88134) |
-| Fri, 17 Apr 2026 19:16:49 GMT | Cybersecurity Best Practices for Startups | Paklogics LLC | [Read More](https://medium.com/p/b7e90b146ea6) |
-| Fri, 17 Apr 2026 19:10:23 GMT | Memory Forensics using Volatility | Silent Ink Journal | [Read More](https://medium.com/p/ec8fad149e89) |
-| Fri, 17 Apr 2026 19:01:54 GMT | The Ultimate Guide to Wayback Machine Dorking for Deleted Leaks | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e9cfebc5c5ae) |
-| Fri, 17 Apr 2026 18:56:08 GMT | Hello, World. | lokii | [Read More](https://medium.com/p/7639b1f30c37) |
-| Fri, 17 Apr 2026 18:53:04 GMT | HTB Walkthrough: Expressway | Micah Wieburg | [Read More](https://medium.com/p/5ce552762b59) |
-| Fri, 17 Apr 2026 18:52:58 GMT | Train on XSS By Your Code | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/96461ba59413) |
-| Fri, 17 Apr 2026 18:51:15 GMT | Zero Trust Is Failing in Real Cloud Environments -Here’s Why | Manish Kumar - Cloud Security | [Read More](https://medium.com/p/84b4be8e0a8a) |
-| Fri, 17 Apr 2026 18:49:18 GMT | My Journey to Clearing CRTP (Certified Red Team Professional) | Deepansh hooda | [Read More](https://medium.com/p/aa1726984e4c) |
-| Fri, 17 Apr 2026 18:41:01 GMT | The Limits of Traditional Security in Machine Learning | Forg3t Protocol - AI Unlearning | [Read More](https://medium.com/p/227f4ce07850) |
