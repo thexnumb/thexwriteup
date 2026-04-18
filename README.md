@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 01:58:45 GMT | How not to write an article on Nature | Lakshit Singh Bisht | [Read More](https://medium.com/p/519f3c8bf73e) |
+| Sat, 18 Apr 2026 01:57:19 GMT | My Fix Was Right. Then It Was Commented Out. | Victor Jarmolkovicius | [Read More](https://medium.com/p/502083e21290) |
+| Sat, 18 Apr 2026 01:52:21 GMT | The Many Quirks of Linux libc — A Trail of Bits C/C++ Testing Handbook Challenge Write-Up | Reza Zamiri | [Read More](https://medium.com/p/4dbd15f626b8) |
+| Sat, 18 Apr 2026 01:26:34 GMT | 5 PowerShell Commands I Use Daily as a Cybersecurity Engineer | Jbird | [Read More](https://medium.com/p/b986724bdf11) |
+| Sat, 18 Apr 2026 01:26:01 GMT | Day 1 on Medium – Starting My CCNA Journey | Glvs Rayudu | [Read More](https://medium.com/p/ad03151e08b9) |
+| Sat, 18 Apr 2026 01:21:46 GMT | How I Found My First CVE — SQL Injection Authentication Bypass (CVE-2026-37749) | Menevarad | [Read More](https://medium.com/p/e13d6f82caec) |
+| Sat, 18 Apr 2026 00:53:28 GMT | A founder’s perspective on cybersecurity, machine learning, and scalable startups in Nigeria | Sentia Technologies limited | [Read More](https://medium.com/p/3acde3ae7409) |
+| Sat, 18 Apr 2026 00:51:28 GMT | Your Phone Is Listening — Here’s What I Actually Found When I Checked | Kishan Singh | [Read More](https://medium.com/p/b160158ea01c) |
+| Sat, 18 Apr 2026 00:45:16 GMT | PASETO vs JWT: 2026 Cryptographic Hardening - FmtDev | Achraffwarrach | [Read More](https://medium.com/p/703b300e6154) |
+| Sat, 18 Apr 2026 00:42:38 GMT | I Turned Claude Opus 4.7 Loose on a Counterfeit Chinese Phone and the Results Didn’t Disappoint | John Boero | [Read More](https://medium.com/p/696684bdb9e4) |
+| Sat, 18 Apr 2026 00:14:16 GMT | Digital Organisms: Why Software Might Need Diversity to Survive | Macsnoeren | [Read More](https://medium.com/p/6d32c9313f3b) |
+| Sat, 18 Apr 2026 00:12:58 GMT | Microsoft Defender Patched, but Still Hackable, BlueHammer and RedSun | David SEHYEON Baek | [Read More](https://medium.com/p/61f3c589e4a3) |
+| Sat, 18 Apr 2026 00:09:23 GMT | 3CX Supply Chain (CyberDefenders) | Ahmed Jackson | [Read More](https://medium.com/p/1f421f9cd30b) |
+| Sat, 18 Apr 2026 00:08:14 GMT | How I Turned an AI Search Endpoint into an Internal Org Intel Leak | shxsu1 | [Read More](https://medium.com/p/72ce87f61948) |
+| Sat, 18 Apr 2026 00:03:48 GMT | The end of ‘seeing is believing’ | Roderick Roye | [Read More](https://medium.com/p/bd0cffa0fdd7) |
+| Sat, 18 Apr 2026 00:01:01 GMT | Complete Guide to JWT Vulnerabilities: Detection, Exploitation, and WAF Bypass | JPablo13 | [Read More](https://medium.com/p/e7df0bd2b6eb) |
 | Fri, 17 Apr 2026 23:23:55 GMT | How an Attacker Broke Into My Lab And How Wazuh Caught It | Daniel Williams | [Read More](https://medium.com/p/100fe5004b7c) |
 | Fri, 17 Apr 2026 23:05:03 GMT | You’re Not Safe Online: What Cybersecurity Really Means (And Why It Should Concern You) | JIBUNOR ONYINYE PRAISE | [Read More](https://medium.com/p/b95bf81e9776) |
 | Fri, 17 Apr 2026 22:59:57 GMT | You’re Not Safe Online: What Cybersecurity Really Means (And Why It Should Concern You). | JIBUNOR ONYINYE PRAISE | [Read More](https://medium.com/p/e675b3188a2e) |
@@ -99,19 +115,3 @@ In an era where data… | Jake Smith | [Read More](https://medium.com/p/929e39d5
 | Fri, 17 Apr 2026 16:49:51 GMT | Securing CI/CD pipeline project part-2 | The Commoness | [Read More](https://medium.com/p/b2b83fa4eba5) |
 | Fri, 17 Apr 2026 16:48:26 GMT | Securing CI/CD pipeline project part-1 | The Commoness | [Read More](https://medium.com/p/6fe43901b30f) |
 | Fri, 17 Apr 2026 16:47:53 GMT | Scan Before You Click | Adam Danel | [Read More](https://medium.com/p/acc5c8190d91) |
-| Fri, 17 Apr 2026 16:44:08 GMT | Giving My AI Agent an Undo Button for security purposes. | Aaron L | [Read More](https://medium.com/p/8c0b12369ad6) |
-| Fri, 17 Apr 2026 16:38:40 GMT | Why the Best ELV Company in Dubai Focuses on Integrated ELV and Security Systems | Vastechoffpage | [Read More](https://medium.com/p/aad91398efaa) |
-| Fri, 17 Apr 2026 16:34:29 GMT | The Application Development Process: From Idea to Deployment | Lokman nagarkoti | [Read More](https://medium.com/p/d3cd7fa7f122) |
-| Fri, 17 Apr 2026 16:30:27 GMT | Detection Engineering as Code (DaC) Using Wazuh: Building Scalable and Reliable SIEM Operations | Alan v | [Read More](https://medium.com/p/702d18be0c33) |
-| Fri, 17 Apr 2026 16:27:52 GMT | the Thought of Losing You | kaye | [Read More](https://medium.com/p/589979c1488f) |
-| Fri, 17 Apr 2026 16:21:19 GMT | From Theory to Practice: Drafting My First Pentesting Agreement | Madalitso Cheyo | [Read More](https://medium.com/p/84114beee3cb) |
-| Fri, 17 Apr 2026 16:11:01 GMT | Mirage (LFI) WebVerse | 7s26Simon | [Read More](https://medium.com/p/5057ddeae68f) |
-| Fri, 17 Apr 2026 16:09:10 GMT | أهم الأدوات في اختبار اختراق الشبكات اللاسلكية (Wireless Pentesting) | Andrew Max | [Read More](https://medium.com/p/0673f767ca04) |
-| Fri, 17 Apr 2026 16:06:47 GMT | TakeOver-TryHackMe write up | red wolf | [Read More](https://medium.com/p/e8c672250e19) |
-| Fri, 17 Apr 2026 15:59:27 GMT | The most important tools in Wireless Pentesting | Andrew Max | [Read More](https://medium.com/p/a13916b4ab47) |
-| Fri, 17 Apr 2026 15:59:20 GMT | SUID env" Privilege Escalation (Quick Guide) | Punih3r7 | [Read More](https://medium.com/p/ea32f0486c8b) |
-| Fri, 17 Apr 2026 15:55:11 GMT | How Drowning in Windows Event Logs Made Me Build My Own Threat-Hunting CLI | judeh0747 | [Read More](https://medium.com/p/af093cf5a71f) |
-| Fri, 17 Apr 2026 15:55:05 GMT | Blogger — wpDiscuz File Upload CVE and a Vagrant Default Password That Was Never Changed - OffSec… | Roshan Rajbanshi | [Read More](https://medium.com/p/0a0877c7db05) |
-| Fri, 17 Apr 2026 15:51:57 GMT | The 2026 Shodan Dork Bible: Finding Exposed Jenkins, Grafana, and Cameras Big Tech Forgot | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ff1cda90e116) |
-| Fri, 17 Apr 2026 15:49:50 GMT | The Double User Bug: How a Facebook OAuth Flow Created Unnecessary New Ghost User | Yogendra Baskota | [Read More](https://medium.com/p/3f8f0032aa1d) |
-| Fri, 17 Apr 2026 15:46:23 GMT | How Deepfake Voice Calls Stole $25 Million From One Company in One Hour | Infinity Matrix | [Read More](https://medium.com/p/4a1d3c4907df) |
