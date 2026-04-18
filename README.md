@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 14:04:19 GMT | Sessions Are The Dominant Weak Point In Web Security | Medjue Gore | [Read More](https://medium.com/p/1f6b648053f6) |
+| Sat, 18 Apr 2026 14:01:01 GMT | Cybersecurity in Laravel: The Most Common Attacks and How to Stop Them | Yurii Chekan | [Read More](https://medium.com/p/5a1c78f0f482) |
+| Sat, 18 Apr 2026 14:01:01 GMT | Poisoning the RAG: The Invisible “Sleeper Agents” Lurking in Your Corporate Wikis | Jose Baena Cobos | [Read More](https://medium.com/p/e4e1075acd16) |
+| Sat, 18 Apr 2026 14:01:01 GMT | Where Privacy Starts (And Why It Might Be Earlier Than You Think) | Ethics In Beta | [Read More](https://medium.com/p/b6eeba37fc1e) |
+| Sat, 18 Apr 2026 14:01:01 GMT | Threat Hunt: Proxy Execution, Registry Staging, Dual Command and Control | 0verRida | [Read More](https://medium.com/p/2f9270cd5355) |
+| Sat, 18 Apr 2026 13:59:24 GMT | A Small Character, A Big Risk: iPhone Passcode Bug Highlights Hidden Security Gaps | Jas | [Read More](https://medium.com/p/45b78789b1d1) |
+| Sat, 18 Apr 2026 13:55:44 GMT | Deepfakes: What Do You Do When You Can’t Be 100% Sure? | Next Horizon Global | [Read More](https://medium.com/p/62a02b161397) |
+| Sat, 18 Apr 2026 13:51:25 GMT | Meraki Systems Manager: Unified Endpoint Management for the Modern Wor | Novbox | [Read More](https://medium.com/p/7ad1d35ca1f5) |
+| Sat, 18 Apr 2026 13:34:54 GMT | Day 30: The Cybersecurity Mindset — Your Blueprint for a Lifetime of Digital Resilience | Ndu | [Read More](https://medium.com/p/d69d888b4021) |
+| Sat, 18 Apr 2026 13:31:12 GMT | North Korea: Country Profile Strategic Intelligence | Dan Sullivan | [Read More](https://medium.com/p/23f08bc67041) |
+| Sat, 18 Apr 2026 13:22:43 GMT | Day 29: The AI Arms Race — Artificial Intelligence and Machine Learning in Cybersecurity | Ndu | [Read More](https://medium.com/p/22200e1deb85) |
+| Sat, 18 Apr 2026 13:19:00 GMT | The Complete SOC Analyst Roadmap | Md. Mehedi  hasan Babu | [Read More](https://medium.com/p/38f3a66cdcb6) |
 | Sat, 18 Apr 2026 13:13:00 GMT | SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) | C. L. | [Read More](https://medium.com/p/8ce96f2647ec) |
 | Sat, 18 Apr 2026 13:09:55 GMT | 10 Rules to Be Successful in Your Career as a Smart Contract Security Researcher | Abraham | [Read More](https://medium.com/p/ff38981aa41e) |
 | Sat, 18 Apr 2026 13:01:45 GMT | Georgia’s voting technology blunder | Cory Doctorow | [Read More](https://medium.com/p/8a2f727f907d) |
@@ -27,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 12:12:33 GMT | The core Processes of the Windows Operating System | Ahmad Khaled | [Read More](https://medium.com/p/ee458ed9b5fe) |
 | Sat, 18 Apr 2026 12:12:28 GMT | Alfred TryHackMe Walkthough | Muhammad Ali Khawar Butt | [Read More](https://medium.com/p/23f87a8d6b02) |
 | Sat, 18 Apr 2026 12:00:36 GMT | I Followed TCM’s External Pentest Playbook — Here’s What Happened | RootShell__ | [Read More](https://medium.com/p/ff12a78faa19) |
+| Sat, 18 Apr 2026 11:47:35 GMT | Why Cyber Security Is a Critical Need in Today’s Digital World | shruti shanklesha | [Read More](https://medium.com/p/7033da5a99c2) |
 | Sat, 18 Apr 2026 11:47:30 GMT | WolfSSL Hunting Experience: A Gen Z Bug Hunter’s Story | MostReal | [Read More](https://medium.com/p/23dedc4edb18) |
 | Sat, 18 Apr 2026 11:45:49 GMT | Why Cybersecurity Services Are Essential for UK Startups and Growing Companies — Finsoul Network UK | Finsoulnetworkglobal | [Read More](https://medium.com/p/a90f50679864) |
 | Sat, 18 Apr 2026 11:38:55 GMT | Beginner’s guide to Malware Analysis | YuSpace | [Read More](https://medium.com/p/2cdc2842fbe0) |
@@ -72,6 +85,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 08:33:48 GMT | Identity-Based Attacks: How Attackers Bypass Security Without Exploiting Vulnerabilities | Cynox Security LLP. | [Read More](https://medium.com/p/997121d6ba01) |
 | Sat, 18 Apr 2026 08:32:31 GMT | Mythic C2 Server Erebus Wrapper — 107 | Miraç Küçük | [Read More](https://medium.com/p/6cbf4fb82eee) |
 | Sat, 18 Apr 2026 08:27:45 GMT | Chasing the Vein: From the Destruction of Papua’s Peaks to Trenggalek’s Karst, Another Human… | Landung Salsabiila Zuhaal | [Read More](https://medium.com/p/5c60130f7f22) |
+| Sat, 18 Apr 2026 08:18:21 GMT | Helium Challenge Batch 2 — WriteUp : IDOR & Stored XSS leads to Account Takeover | Caesar Evan Santoso | [Read More](https://medium.com/p/9efece1cbd50) |
 | Sat, 18 Apr 2026 08:16:32 GMT | Claude Mythos will find more vulnerability exploits: What should you do? | Gopal Chand, MBA, PhD | [Read More](https://medium.com/p/def9e6a0281a) |
 | Sat, 18 Apr 2026 08:12:34 GMT | Top AI Tools Every Bug Bounty Hunter Must Use (2026 Guide) | Prateek Baghela | [Read More](https://medium.com/p/7c2d86cb5faa) |
 | Sat, 18 Apr 2026 08:10:15 GMT | A City Protected: How Expert Security Guard Services Keep St. Catharines Safe & Thriving | Grdsnscrt | [Read More](https://medium.com/p/a25983a9a6f9) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 06:32:22 GMT | The protocol that runs the world— The only HTTP guide you will ever need ! | Cyberbali | [Read More](https://medium.com/p/4215be883042) |
 | Sat, 18 Apr 2026 06:22:53 GMT | The Windows Concept Journey — Function Driver | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f1b04f029608) |
 | Sat, 18 Apr 2026 06:12:33 GMT | Anthropic’s Claude Mythos: Why This AI Cybersecurity Breakthrough Is Being Kept Locked Away | Hayanan | [Read More](https://medium.com/p/725cceb45d0f) |
-| Sat, 18 Apr 2026 06:10:46 GMT | The State of Cybersecurity in 2026: Surviving the Agentic Swamp | Steve Ng | [Read More](https://medium.com/p/2379fb44b276) |
-| Sat, 18 Apr 2026 06:03:18 GMT | The Difference Between Devices and Internet In the US and in North Korea | Courtney Alicia Dye | [Read More](https://medium.com/p/df8f50bde89d) |
-| Sat, 18 Apr 2026 06:01:33 GMT | Everyone Is Doing Recon Wrong — And They Don’t Even Know It | clipper | [Read More](https://medium.com/p/a2ca85b0d0cb) |
-| Sat, 18 Apr 2026 05:58:05 GMT | How to Find Subdomains Like a Hacker (Beginner to Pro Guide) | Elliot Alderson | [Read More](https://medium.com/p/9abfcecb936a) |
-| Sat, 18 Apr 2026 05:56:22 GMT | One Breach, Total Wipeout: The Code Spaces Tragedy | Srivardhni Palaniappan | [Read More](https://medium.com/p/92aaa51f3abd) |
-| Sat, 18 Apr 2026 05:55:04 GMT | Why the Mythos conversation is not about the stack the tool is scanning? | Arunkumar Ganesan | [Read More](https://medium.com/p/10f16fb716c1) |
-| Sat, 18 Apr 2026 05:55:02 GMT | Night Patrol Security Services: A Smart Solution for After-Hours Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/f1233b7c62c6) |
-| Sat, 18 Apr 2026 05:35:30 GMT | Kali MCP Server Explained - API Integration for Security Labs | Pentester Club | [Read More](https://medium.com/p/d70db33cefc0) |
-| Sat, 18 Apr 2026 05:17:20 GMT | Technical Analysis and Remediation: Unauthenticated RCE via Base64Uploader (CVE-2024–42640) in… | Shreyash Mall | [Read More](https://medium.com/p/e7ef929b90e5) |
-| Sat, 18 Apr 2026 05:15:17 GMT | Hacker101 CTF — Day 1: A Little Something to Get You Started | Richiefallaria | [Read More](https://medium.com/p/c1d85ebed2a8) |
-| Sat, 18 Apr 2026 04:53:51 GMT | Open Redirect — Low Bug… or High Impact When Chained? | ghostyjoe | [Read More](https://medium.com/p/6f267b82718f) |
-| Sat, 18 Apr 2026 04:52:11 GMT | The Biggest Parking Management Problems and Their Smart Solutions | Commport Technologies | [Read More](https://medium.com/p/66d2886f70b8) |
-| Sat, 18 Apr 2026 04:33:04 GMT | How to Investigate a Suspicious PowerShell Command | Paritosh | [Read More](https://medium.com/p/17db3cb17aa1) |
-| Sat, 18 Apr 2026 04:31:01 GMT | IDOR Insecure Direct Object Reference: ID Badlo, Data Dekho, Bounty Lo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/7abd7518d7b9) |
