@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 08:57:59 GMT | Breaking Into a Major Email Platform With Two Vulnerabilities | Prateekpulastya | [Read More](https://medium.com/p/5deed8efbb81) |
+| Sat, 18 Apr 2026 08:55:29 GMT | Top 10 Industry 4.0 Technologies Every Factory Must Adopt Today | Machinefoxindia | [Read More](https://medium.com/p/c88792698d42) |
+| Sat, 18 Apr 2026 08:55:06 GMT | Israel’s Wolf-Pack Surveillance System | Baris Dincer | [Read More](https://medium.com/p/2167a4987c89) |
+| Sat, 18 Apr 2026 08:52:55 GMT | Shadow AI- The Hidden Risk Your Organization Can’t Ignore | AI Kit Hub | [Read More](https://medium.com/p/f2cc85359b31) |
+| Sat, 18 Apr 2026 08:50:15 GMT | Crack GIAC Security Essentials (GSEC) 2026 Like a Pro! | Mirzarashidbaig | [Read More](https://medium.com/p/60c8aeba4da9) |
+| Sat, 18 Apr 2026 08:44:32 GMT | Pass CompTIA A+ (220–1101 & 220–1102) with Confidence! | Mirzarashidbaig | [Read More](https://medium.com/p/27186b3da0e5) |
+| Sat, 18 Apr 2026 08:40:18 GMT | Is Your Digital Life Truly Under Your Control? | Orpa | [Read More](https://medium.com/p/58afa848653b) |
+| Sat, 18 Apr 2026 08:39:09 GMT | Vibe coding is shipping vulnerabilities at scale (and nobody’s checking)# | Emanuele De Amicis | [Read More](https://medium.com/p/0031fba5da32) |
+| Sat, 18 Apr 2026 08:37:40 GMT | 12 Kerentanan pada Aplikasi AndroGoat: Proof of Concept (PoC) dan Rekomendasi Mitigasi | Fajar Nasrullah | [Read More](https://medium.com/p/1b288fdee60b) |
+| Sat, 18 Apr 2026 08:33:48 GMT | Identity-Based Attacks: How Attackers Bypass Security Without Exploiting Vulnerabilities | Cynox Security LLP. | [Read More](https://medium.com/p/997121d6ba01) |
+| Sat, 18 Apr 2026 08:32:31 GMT | Mythic C2 Server Erebus Wrapper — 107 | Miraç Küçük | [Read More](https://medium.com/p/6cbf4fb82eee) |
+| Sat, 18 Apr 2026 08:27:45 GMT | Chasing the Vein: From the Destruction of Papua’s Peaks to Trenggalek’s Karst, Another Human… | Landung Salsabiila Zuhaal | [Read More](https://medium.com/p/5c60130f7f22) |
+| Sat, 18 Apr 2026 08:16:32 GMT | Claude Mythos will find more vulnerability exploits: What should you do? | Gopal Chand, MBA, PhD | [Read More](https://medium.com/p/def9e6a0281a) |
+| Sat, 18 Apr 2026 08:12:34 GMT | Top AI Tools Every Bug Bounty Hunter Must Use (2026 Guide) | Prateek Baghela | [Read More](https://medium.com/p/7c2d86cb5faa) |
+| Sat, 18 Apr 2026 08:10:15 GMT | A City Protected: How Expert Security Guard Services Keep St. Catharines Safe & Thriving | Grdsnscrt | [Read More](https://medium.com/p/a25983a9a6f9) |
+| Sat, 18 Apr 2026 08:09:26 GMT | How I Simulated a Real Cyber Attack (And Then Defended Against It) | Sukansh | [Read More](https://medium.com/p/aec10dfb291c) |
 | Sat, 18 Apr 2026 07:51:31 GMT | Crack CISSP in 2026 — Think Like a Security Leader, Not Just an Engineer | Adilbaignyc | [Read More](https://medium.com/p/52aed6bdb9e3) |
 | Sat, 18 Apr 2026 07:33:35 GMT | Security System Orlando | Globalalarmsus | [Read More](https://medium.com/p/f6a13dbae37f) |
 | Sat, 18 Apr 2026 07:31:01 GMT | How Easy Is It to Abuse Rust Apps? | John Philip | [Read More](https://medium.com/p/6f9516e2e6cb) |
@@ -98,19 +114,3 @@ Losing… | Kingdipszy | [Read More](https://medium.com/p/2d99659b29ee) |
 | Fri, 17 Apr 2026 21:19:10 GMT | Part 05 — Building a Security Operations Center Homelab (Setting up Suricata on TheGateWatcher) | Sean Nelson | [Read More](https://medium.com/p/b955e6b7962a) |
 | Fri, 17 Apr 2026 21:18:55 GMT | ANOTHER Bad Windows 11 Update is Breaking Things | Michael Swengel | [Read More](https://medium.com/p/d16b4b0c0141) |
 | Fri, 17 Apr 2026 21:13:37 GMT | Local Development Security Guidelines | Artur Grzybowski | [Read More](https://medium.com/p/30ff9830ad49) |
-| Fri, 17 Apr 2026 21:05:47 GMT | The Ransomware Machine in 2026, Where Antivirus and EDR Are Bypassed | David SEHYEON Baek | [Read More](https://medium.com/p/6daa68ea144c) |
-| Fri, 17 Apr 2026 21:05:12 GMT | What You Should Actually Know Before Hiring Security Guard Services in San Jose, CA | Uniworth security Editorial | [Read More](https://medium.com/p/553877464903) |
-| Fri, 17 Apr 2026 21:01:21 GMT | AI Is Removing Your Organization’s Head Start on Cybersecurity | Centric Consulting | [Read More](https://medium.com/p/b74e70eccca0) |
-| Fri, 17 Apr 2026 20:54:14 GMT | Defining a secure Microsoft Fabric architecture | Alipouw | [Read More](https://medium.com/p/bb525b0d83d7) |
-| Fri, 17 Apr 2026 20:26:18 GMT | Spectral Attack Resistance: Can AI Reconstruct Encrypted Traffic Privacy Defenses? | Md Sakib Ahmed | [Read More](https://medium.com/p/4403a2b4f685) |
-| Fri, 17 Apr 2026 20:23:32 GMT | Lazy Way to Make a $1,000 a Day in Cybersecurity | Rich Chen | [Read More](https://medium.com/p/22c4428480a3) |
-| Fri, 17 Apr 2026 20:16:47 GMT | Write-Up: Easy Peasy | Felix Schoenitz | [Read More](https://medium.com/p/c00771db3277) |
-| Fri, 17 Apr 2026 20:07:44 GMT | DC-1: CVE-2018–7600 | Dexter Morgan | [Read More](https://medium.com/p/0460c927ba00) |
-| Fri, 17 Apr 2026 20:05:31 GMT | Brains walkthrough Tryhackme | Crystalcascade14 | [Read More](https://medium.com/p/e939b14d5121) |
-| Fri, 17 Apr 2026 20:04:31 GMT | Stop Chasing False Positives: How I Built TokenSpot to Validate API Keys in Real-Time | Sahal | [Read More](https://medium.com/p/df9a3ab7d983) |
-| Fri, 17 Apr 2026 20:01:01 GMT | Model Theft in the Age of AI | Michel Alan López | [Read More](https://medium.com/p/4a30e5c5b9f6) |
-| Fri, 17 Apr 2026 19:55:13 GMT | I’m Claude. My Sibling Can Break Everything — And This Is What I Actually Think About That | Shaswata Tripathy | [Read More](https://medium.com/p/b013e564dc84) |
-| Fri, 17 Apr 2026 19:53:44 GMT | How OpenAI’s GPT-5.4-Cyber Is Transforming Cybersecurity | Priyesh Patware | [Read More](https://medium.com/p/95e0148e07d2) |
-| Fri, 17 Apr 2026 19:50:45 GMT | Perdenin Arkasındaki Mimari — Ağ (Network) Nedir? (Bölüm 2) | Yusuf Adıgüzel | [Read More](https://medium.com/p/3d2e7629a12e) |
-| Fri, 17 Apr 2026 19:38:19 GMT | Green Dot Red Dot: How Your Phone Warns You About Spying Apps | Jay×͜× | [Read More](https://medium.com/p/6a81558217cb) |
-| Fri, 17 Apr 2026 19:36:31 GMT | ️ PhishGuard – Phishing Detection System | recoxy | [Read More](https://medium.com/p/7da9d939d22c) |
