@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 19:54:04 GMT | Four Ways to Steal a Syscall: Binary Rewriting vs. the Alternatives | Aoi Aioi | [Read More](https://medium.com/p/d4b4b7266b4f) |
+| Sat, 18 Apr 2026 19:49:17 GMT | Bash Scripting for Beginners | byteforensics | [Read More](https://medium.com/p/f32d8007184c) |
+| Sat, 18 Apr 2026 19:45:33 GMT | AI Forensics (THM) Tryhackme WriteUp and Answer | Lawvye | [Read More](https://medium.com/p/d1894690af48) |
+| Sat, 18 Apr 2026 19:42:58 GMT | The Deadlock of Sovereignty: Security Zones vs. Territorial Integrity in Lebanon | Golda Mizrahi | [Read More](https://medium.com/p/0e8aa5f45c26) |
+| Sat, 18 Apr 2026 19:41:51 GMT | Week 3 of Defensive Security | Muhammad Uzair | [Read More](https://medium.com/p/1fecde08dfb8) |
+| Sat, 18 Apr 2026 19:29:56 GMT | Rapport d’audit de sécurité (Test d’intrusion Mercury) | Nourselmi | [Read More](https://medium.com/p/d4441bf2fe3c) |
+| Sat, 18 Apr 2026 19:27:05 GMT | AI and IT — Renaissance or Collision? | Andrew Watts | [Read More](https://medium.com/p/4f590ec70740) |
 | Sat, 18 Apr 2026 19:20:26 GMT | Payment Systems — Designed for Adversarial Behaviour | Lekshmana Perumal | [Read More](https://medium.com/p/59a308af029c) |
 | Sat, 18 Apr 2026 19:16:01 GMT | TryHackMe: Net Sec Challenge Writeup | Robert Gooding | [Read More](https://medium.com/p/af81dad23c10) |
 | Sat, 18 Apr 2026 19:06:01 GMT | When Should You Start Hypothesis-Driven Investigation During Triage? | InfosecPandey | [Read More](https://medium.com/p/a8006688d5a4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 13:13:00 GMT | SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) | C. L. | [Read More](https://medium.com/p/8ce96f2647ec) |
 | Sat, 18 Apr 2026 13:09:55 GMT | 10 Rules to Be Successful in Your Career as a Smart Contract Security Researcher | Abraham | [Read More](https://medium.com/p/ff38981aa41e) |
 | Sat, 18 Apr 2026 13:01:45 GMT | Georgia’s voting technology blunder | Cory Doctorow | [Read More](https://medium.com/p/8a2f727f907d) |
-| Sat, 18 Apr 2026 12:52:52 GMT | Europe Stability: Weekly Intelligence Synthesis | Dan Sullivan | [Read More](https://medium.com/p/9c7aa89dbad5) |
-| Sat, 18 Apr 2026 12:52:16 GMT | My First Step Into Ethical Hacking | GhostInRoot | [Read More](https://medium.com/p/c9b2607a6fbb) |
-| Sat, 18 Apr 2026 12:40:37 GMT | AI Just Changed Cybersecurity — And It’s Getting Dangerous | Mudassir Mairaj | [Read More](https://medium.com/p/45f46b66f3e1) |
-| Sat, 18 Apr 2026 12:35:05 GMT | Self-Hosted GitHub Actions on Kubernetes (ARC + kubeadm on AWS EC2) | Hariprasad | [Read More](https://medium.com/p/5f2cadcdeff7) |
-| Sat, 18 Apr 2026 12:33:32 GMT | Why Nebraska Businesses Are Investing in Advanced Security Systems in 2026 | ASI Systems Pro | [Read More](https://medium.com/p/00115a932f9f) |
-| Sat, 18 Apr 2026 12:31:22 GMT | ️ API Pentesting Mastery Series - Part 3: Advanced Vulnerabilities & Modern Defense ️ | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/10d4571d5aee) |
-| Sat, 18 Apr 2026 12:28:03 GMT | Why Cross-Entropy Beats MSE in Classification (And What My Loss Landscapes Taught Me) | Rue | [Read More](https://medium.com/p/b9ef20c3da6e) |
