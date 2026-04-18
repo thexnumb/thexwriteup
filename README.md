@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 11:47:30 GMT | WolfSSL Hunting Experience: A Gen Z Bug Hunter’s Story | MostReal | [Read More](https://medium.com/p/23dedc4edb18) |
+| Sat, 18 Apr 2026 11:45:49 GMT | Why Cybersecurity Services Are Essential for UK Startups and Growing Companies — Finsoul Network UK | Finsoulnetworkglobal | [Read More](https://medium.com/p/a90f50679864) |
+| Sat, 18 Apr 2026 11:38:55 GMT | Beginner’s guide to Malware Analysis | YuSpace | [Read More](https://medium.com/p/2cdc2842fbe0) |
+| Sat, 18 Apr 2026 11:36:21 GMT | Designing Secure Authentication with Access & Refresh Tokens | Aliahmedfathi | [Read More](https://medium.com/p/038cf5368e47) |
+| Sat, 18 Apr 2026 11:35:36 GMT | I’ve spent the last months designing HIM — Humanless Integrated Monitoring, a cognitive… | Hurmanless Intergrated Monitoring | [Read More](https://medium.com/p/09a86519d705) |
+| Sat, 18 Apr 2026 11:35:22 GMT | The Subfinder Output That Changed My Recon Workflow Forever | Fateyaly | [Read More](https://medium.com/p/e6445f1463c7) |
+| Sat, 18 Apr 2026 11:35:13 GMT | WolfSSL Hunting Experience: Cerita Dari Seorang Bug Hunter Pengangguran :V | MostReal | [Read More](https://medium.com/p/5b51cd55cefe) |
+| Sat, 18 Apr 2026 11:31:01 GMT | Bypassing Windows Defender via stage 0 loader — Ashbo3n | Ashbo3n | [Read More](https://medium.com/p/bbdf3c671094) |
+| Sat, 18 Apr 2026 11:30:10 GMT | AppSecMaster — HR System Writeup — OSWE Track | 0xMyth | [Read More](https://medium.com/p/a46f47c77146) |
+| Sat, 18 Apr 2026 11:23:18 GMT | The Dark Side of Freedom: Why Uncensored AI is a Double-Edged Sword | Alex Tech-Guide | [Read More](https://medium.com/p/a094a85b00b2) |
+| Sat, 18 Apr 2026 11:21:38 GMT | Traffic Analysis Essentials - TryHackMe | Aruldeshwal | [Read More](https://medium.com/p/0735225caedf) |
+| Sat, 18 Apr 2026 11:16:20 GMT | OpenClaw Security Risks: A Warning to Users and Self-Hosters | j3ffyang | [Read More](https://medium.com/p/7757bfc9d477) |
+| Sat, 18 Apr 2026 11:15:49 GMT | # Dark Web Novels: 7 Best Books About the Hidden Internet (Cyber Thrillers & Psychological Fiction) | GAETANO BUGLISI | [Read More](https://medium.com/p/0c6bf04ad26e) |
+| Sat, 18 Apr 2026 11:15:19 GMT | How I Find Hidden API Bugs Most Hackers Miss | Pradeeptadi | [Read More](https://medium.com/p/0922a9afdcd0) |
+| Sat, 18 Apr 2026 11:02:11 GMT | Brute It — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/f535438d7c90) |
 | Sat, 18 Apr 2026 10:45:36 GMT | Top Refractories Companies in India: Industry Leaders, Plants & Market Insights (2026). | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/3db73a7d8027) |
 | Sat, 18 Apr 2026 10:45:19 GMT | The “Invisible Target” Trap: Why European SMEs Are the New Gold Mine for Hackers in 2026 | Ahi&Hacking | [Read More](https://medium.com/p/674655bc4e42) |
 | Sat, 18 Apr 2026 10:43:33 GMT | The Pulse Beneath the Screen: Why the Dark Web is More Human Than You Think | Mohit | [Read More](https://medium.com/p/23dc1eb77718) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 01:57:19 GMT | My Fix Was Right. Then It Was Commented Out. | Victor Jarmolkovicius | [Read More](https://medium.com/p/502083e21290) |
 | Sat, 18 Apr 2026 01:52:21 GMT | The Many Quirks of Linux libc — A Trail of Bits C/C++ Testing Handbook Challenge Write-Up | Reza Zamiri | [Read More](https://medium.com/p/4dbd15f626b8) |
 | Sat, 18 Apr 2026 01:26:34 GMT | 5 PowerShell Commands I Use Daily as a Cybersecurity Engineer | Jbird | [Read More](https://medium.com/p/b986724bdf11) |
-| Sat, 18 Apr 2026 01:26:01 GMT | Day 1 on Medium – Starting My CCNA Journey | Glvs Rayudu | [Read More](https://medium.com/p/ad03151e08b9) |
-| Sat, 18 Apr 2026 01:21:46 GMT | How I Found My First CVE — SQL Injection Authentication Bypass (CVE-2026-37749) | Menevarad | [Read More](https://medium.com/p/e13d6f82caec) |
-| Sat, 18 Apr 2026 00:53:28 GMT | A founder’s perspective on cybersecurity, machine learning, and scalable startups in Nigeria | Sentia Technologies limited | [Read More](https://medium.com/p/3acde3ae7409) |
-| Sat, 18 Apr 2026 00:51:28 GMT | Your Phone Is Listening — Here’s What I Actually Found When I Checked | Kishan Singh | [Read More](https://medium.com/p/b160158ea01c) |
-| Sat, 18 Apr 2026 00:45:16 GMT | PASETO vs JWT: 2026 Cryptographic Hardening - FmtDev | Achraffwarrach | [Read More](https://medium.com/p/703b300e6154) |
-| Sat, 18 Apr 2026 00:42:38 GMT | I Turned Claude Opus 4.7 Loose on a Counterfeit Chinese Phone and the Results Didn’t Disappoint | John Boero | [Read More](https://medium.com/p/696684bdb9e4) |
-| Sat, 18 Apr 2026 00:14:16 GMT | Digital Organisms: Why Software Might Need Diversity to Survive | Macsnoeren | [Read More](https://medium.com/p/6d32c9313f3b) |
-| Sat, 18 Apr 2026 00:12:58 GMT | Microsoft Defender Patched, but Still Hackable, BlueHammer and RedSun | David SEHYEON Baek | [Read More](https://medium.com/p/61f3c589e4a3) |
-| Sat, 18 Apr 2026 00:09:23 GMT | 3CX Supply Chain (CyberDefenders) | Ahmed Jackson | [Read More](https://medium.com/p/1f421f9cd30b) |
-| Sat, 18 Apr 2026 00:08:14 GMT | How I Turned an AI Search Endpoint into an Internal Org Intel Leak | shxsu1 | [Read More](https://medium.com/p/72ce87f61948) |
-| Sat, 18 Apr 2026 00:03:48 GMT | The end of ‘seeing is believing’ | Roderick Roye | [Read More](https://medium.com/p/bd0cffa0fdd7) |
-| Sat, 18 Apr 2026 00:01:01 GMT | Complete Guide to JWT Vulnerabilities: Detection, Exploitation, and WAF Bypass | JPablo13 | [Read More](https://medium.com/p/e7df0bd2b6eb) |
-| Sat, 18 Apr 2026 00:00:01 GMT | Your Phone’s Ads Are Feeding a Government Surveillance Network | Blackout VPN | [Read More](https://medium.com/p/ab3cea36022c) |
-| Fri, 17 Apr 2026 23:23:55 GMT | How an Attacker Broke Into My Lab And How Wazuh Caught It | Daniel Williams | [Read More](https://medium.com/p/100fe5004b7c) |
-| Fri, 17 Apr 2026 23:05:03 GMT | You’re Not Safe Online: What Cybersecurity Really Means (And Why It Should Concern You) | JIBUNOR ONYINYE PRAISE | [Read More](https://medium.com/p/b95bf81e9776) |
