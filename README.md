@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 15:41:59 GMT | Your Flutter App Is Leaking Secrets — And You Don’t Know It | Sayed | [Read More](https://medium.com/p/e58dac03de92) |
+| Sat, 18 Apr 2026 15:37:22 GMT | Managing Role Hierarchy in Casbin (RBAC with Inheritance) — Banking Use Case | Amarjeet Prajapati | [Read More](https://medium.com/p/39aac48f636a) |
+| Sat, 18 Apr 2026 15:35:02 GMT | Banking Session Hijacking: The Invisible Threat in Your Third-Party Scripts | Smaan | [Read More](https://medium.com/p/483663551653) |
+| Sat, 18 Apr 2026 15:34:41 GMT | How Scam Recovery Works, and What to Expect | Alstilesworks | [Read More](https://medium.com/p/829b2aa25a97) |
+| Sat, 18 Apr 2026 15:30:29 GMT | AI-Driven Red Teaming in 2026: From Assistants to Autonomous Offensive Systems | Muslim | [Read More](https://medium.com/p/c8f9d7075f8c) |
+| Sat, 18 Apr 2026 15:30:00 GMT | Kobold-HTB(Think, Enumerate, Repeat) | Younes ADRAOUI | [Read More](https://medium.com/p/e902c9c0cc12) |
+| Sat, 18 Apr 2026 15:29:22 GMT | CyberDefenders — Brave Lab Writeup | JBXSec | [Read More](https://medium.com/p/78a66e9c886e) |
+| Sat, 18 Apr 2026 15:28:45 GMT | What AI-Assisted Offensive Work Actually Means for Your Detection Program: A Practitioner’s… | Andrey Pautov | [Read More](https://medium.com/p/9c27a8f40f12) |
+| Sat, 18 Apr 2026 15:27:38 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 2 | R1punjay_Singh | [Read More](https://medium.com/p/e226ac994400) |
+| Sat, 18 Apr 2026 15:26:01 GMT | Splunk: Turning Raw Logs into Real Security Intelligence | Little_Sun4lower | [Read More](https://medium.com/p/8245299120fc) |
+| Sat, 18 Apr 2026 15:19:04 GMT | AI vs. Hackers: How Artificial Intelligence Is Redefining Application Security in the Age of… | Laxminarayan | [Read More](https://medium.com/p/9dbc5af0c8bf) |
+| Sat, 18 Apr 2026 15:16:24 GMT | How Modern VPNs Actually Work: A Complete Deep Dive into Xray-core, VLESS, REALITY, and XTLS-Vision | Md Samaul Haque Malik | [Read More](https://medium.com/p/72d5b788b002) |
+| Sat, 18 Apr 2026 15:11:01 GMT | 5 Essential PDF Tools for Freelancers and Professionals in 2026: Why Security is the New… | Kaveesha maxwel | [Read More](https://medium.com/p/043a213df594) |
 | Sat, 18 Apr 2026 15:03:27 GMT | Unauthorized Account Deletion via HTTP Method Manipulation.A Business Logic Flaw in REST API Design | Moataz | [Read More](https://medium.com/p/22ca2a39c363) |
+| Sat, 18 Apr 2026 14:59:50 GMT | Ottergram (BAC) (VerbTamper) Bugforge | 7s26Simon | [Read More](https://medium.com/p/c324bf043d57) |
 | Sat, 18 Apr 2026 14:51:46 GMT | AI Threat Modelling (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/34d28e619480) |
 | Sat, 18 Apr 2026 14:51:01 GMT | Villa Security & Smart Home Solutions in Dubai - CCTV, Smart Locks, Intercom & WiFi Setup | Rahulkrishnan | [Read More](https://medium.com/p/56482feac8d2) |
 | Sat, 18 Apr 2026 14:48:30 GMT | The Potato Family: A Decade of “Service Account → SYSTEM” PrivEsc (How It Works, Why It Persists) | Yua Mikanana | [Read More](https://medium.com/p/b1288e093bd3) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 08:33:48 GMT | Identity-Based Attacks: How Attackers Bypass Security Without Exploiting Vulnerabilities | Cynox Security LLP. | [Read More](https://medium.com/p/997121d6ba01) |
 | Sat, 18 Apr 2026 08:32:31 GMT | Mythic C2 Server Erebus Wrapper — 107 | Miraç Küçük | [Read More](https://medium.com/p/6cbf4fb82eee) |
 | Sat, 18 Apr 2026 08:27:45 GMT | Chasing the Vein: From the Destruction of Papua’s Peaks to Trenggalek’s Karst, Another Human… | Landung Salsabiila Zuhaal | [Read More](https://medium.com/p/5c60130f7f22) |
-| Sat, 18 Apr 2026 08:18:21 GMT | Helium Challenge Batch 2 — WriteUp : IDOR & Stored XSS leads to Account Takeover | Caesar Evan Santoso | [Read More](https://medium.com/p/9efece1cbd50) |
-| Sat, 18 Apr 2026 08:16:32 GMT | Claude Mythos will find more vulnerability exploits: What should you do? | Gopal Chand, MBA, PhD | [Read More](https://medium.com/p/def9e6a0281a) |
-| Sat, 18 Apr 2026 08:12:34 GMT | Top AI Tools Every Bug Bounty Hunter Must Use (2026 Guide) | Prateek Baghela | [Read More](https://medium.com/p/7c2d86cb5faa) |
-| Sat, 18 Apr 2026 08:10:15 GMT | A City Protected: How Expert Security Guard Services Keep St. Catharines Safe & Thriving | Grdsnscrt | [Read More](https://medium.com/p/a25983a9a6f9) |
-| Sat, 18 Apr 2026 08:09:26 GMT | How I Simulated a Real Cyber Attack (And Then Defended Against It) | Sukansh | [Read More](https://medium.com/p/aec10dfb291c) |
-| Sat, 18 Apr 2026 07:51:31 GMT | Crack CISSP in 2026 — Think Like a Security Leader, Not Just an Engineer | Adilbaignyc | [Read More](https://medium.com/p/52aed6bdb9e3) |
-| Sat, 18 Apr 2026 07:33:35 GMT | Security System Orlando | Globalalarmsus | [Read More](https://medium.com/p/f6a13dbae37f) |
-| Sat, 18 Apr 2026 07:31:01 GMT | How Easy Is It to Abuse Rust Apps? | John Philip | [Read More](https://medium.com/p/6f9516e2e6cb) |
-| Sat, 18 Apr 2026 07:26:01 GMT | Are Global Cyber Attacks Increasing? A Strategic Risk Analysis | Omer Akin | [Read More](https://medium.com/p/3425e2d7ed4b) |
-| Sat, 18 Apr 2026 07:25:48 GMT | Emergency Locksmiths in My Area — Reliable Solutions for Lock Emergencies in London | N1locksmithsltd | [Read More](https://medium.com/p/ddff0cb0b601) |
-| Sat, 18 Apr 2026 07:21:31 GMT | .  . | Srinivas Yerravelli | [Read More](https://medium.com/p/e97bfb8c9aab) |
-| Sat, 18 Apr 2026 07:18:19 GMT | The Overlooked Attack Surface: Wi-Fi Penetration Testing in Automotive IVI Systems | Revanth Kolla | [Read More](https://medium.com/p/31f749f4018f) |
-| Sat, 18 Apr 2026 07:11:39 GMT | DLP Without a Roadmap Creates Noise: A Strategic Prototype to Plan Your Maturity Journey | Lt Col Arun Pushkar (Retd) | [Read More](https://medium.com/p/5be0c7a8ec98) |
-| Sat, 18 Apr 2026 07:09:24 GMT | Cyber Security Preparation in 2026: What Actually Matters | Little_Sun4lower | [Read More](https://medium.com/p/7ac7cfc62b47) |
