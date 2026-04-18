@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 13:13:00 GMT | SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) | C. L. | [Read More](https://medium.com/p/8ce96f2647ec) |
+| Sat, 18 Apr 2026 13:09:55 GMT | 10 Rules to Be Successful in Your Career as a Smart Contract Security Researcher | Abraham | [Read More](https://medium.com/p/ff38981aa41e) |
+| Sat, 18 Apr 2026 13:01:45 GMT | Georgia’s voting technology blunder | Cory Doctorow | [Read More](https://medium.com/p/8a2f727f907d) |
+| Sat, 18 Apr 2026 12:52:52 GMT | Europe Stability: Weekly Intelligence Synthesis | Dan Sullivan | [Read More](https://medium.com/p/9c7aa89dbad5) |
+| Sat, 18 Apr 2026 12:52:16 GMT | My First Step Into Ethical Hacking | GhostInRoot | [Read More](https://medium.com/p/c9b2607a6fbb) |
+| Sat, 18 Apr 2026 12:40:37 GMT | AI Just Changed Cybersecurity — And It’s Getting Dangerous | Mudassir Mairaj | [Read More](https://medium.com/p/45f46b66f3e1) |
+| Sat, 18 Apr 2026 12:35:05 GMT | Self-Hosted GitHub Actions on Kubernetes (ARC + kubeadm on AWS EC2) | Hariprasad | [Read More](https://medium.com/p/5f2cadcdeff7) |
+| Sat, 18 Apr 2026 12:33:32 GMT | Why Nebraska Businesses Are Investing in Advanced Security Systems in 2026 | ASI Systems Pro | [Read More](https://medium.com/p/00115a932f9f) |
+| Sat, 18 Apr 2026 12:31:22 GMT | ️ API Pentesting Mastery Series - Part 3: Advanced Vulnerabilities & Modern Defense ️ | ◦•●◉✿ ¥ຮ₰ ʜc ✿◉●•◦ | [Read More](https://medium.com/p/10d4571d5aee) |
+| Sat, 18 Apr 2026 12:28:03 GMT | Why Cross-Entropy Beats MSE in Classification (And What My Loss Landscapes Taught Me) | Rue | [Read More](https://medium.com/p/b9ef20c3da6e) |
+| Sat, 18 Apr 2026 12:25:00 GMT | Strait of Hormuz Cybersecurity Risks in 2026: Why the World Should Pay Attention | Tushar M Kumawat | [Read More](https://medium.com/p/25db2481b49a) |
+| Sat, 18 Apr 2026 12:20:20 GMT | TryHackMe - Introduction to the World of OT/ICS - WriteUp | Axoloth | [Read More](https://medium.com/p/82e448c073f2) |
+| Sat, 18 Apr 2026 12:12:33 GMT | The core Processes of the Windows Operating System | Ahmad Khaled | [Read More](https://medium.com/p/ee458ed9b5fe) |
+| Sat, 18 Apr 2026 12:12:28 GMT | Alfred TryHackMe Walkthough | Muhammad Ali Khawar Butt | [Read More](https://medium.com/p/23f87a8d6b02) |
+| Sat, 18 Apr 2026 12:00:36 GMT | I Followed TCM’s External Pentest Playbook — Here’s What Happened | RootShell__ | [Read More](https://medium.com/p/ff12a78faa19) |
 | Sat, 18 Apr 2026 11:47:30 GMT | WolfSSL Hunting Experience: A Gen Z Bug Hunter’s Story | MostReal | [Read More](https://medium.com/p/23dedc4edb18) |
 | Sat, 18 Apr 2026 11:45:49 GMT | Why Cybersecurity Services Are Essential for UK Startups and Growing Companies — Finsoul Network UK | Finsoulnetworkglobal | [Read More](https://medium.com/p/a90f50679864) |
 | Sat, 18 Apr 2026 11:38:55 GMT | Beginner’s guide to Malware Analysis | YuSpace | [Read More](https://medium.com/p/2cdc2842fbe0) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 04:52:11 GMT | The Biggest Parking Management Problems and Their Smart Solutions | Commport Technologies | [Read More](https://medium.com/p/66d2886f70b8) |
 | Sat, 18 Apr 2026 04:33:04 GMT | How to Investigate a Suspicious PowerShell Command | Paritosh | [Read More](https://medium.com/p/17db3cb17aa1) |
 | Sat, 18 Apr 2026 04:31:01 GMT | IDOR Insecure Direct Object Reference: ID Badlo, Data Dekho, Bounty Lo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/7abd7518d7b9) |
-| Sat, 18 Apr 2026 04:30:50 GMT | Episode 2: Networking for Hackers (How Data Bleeds) (The Hacker’s Path Series) | Shivam Kumar | [Read More](https://medium.com/p/05777e1816d9) |
-| Sat, 18 Apr 2026 04:25:25 GMT | Sim‌p​le C​ybersecurity Tips to Pr​otec‍t Y‍⁠our‌ On‍line B‌usiness | Fiza Altaf | [Read More](https://medium.com/p/0909b7b51b2e) |
-| Sat, 18 Apr 2026 04:19:25 GMT | Part 06 — Building a Security Operations Center Homelab (Installing Zeek on TheGateWatcher) | Sean Nelson | [Read More](https://medium.com/p/89180cfc0fa7) |
-| Sat, 18 Apr 2026 04:09:25 GMT | SQL Injection | Noeer | [Read More](https://medium.com/p/54574f702821) |
-| Sat, 18 Apr 2026 04:06:29 GMT | YesWeHack — Dojo #1 Writeup | Zor0ark | [Read More](https://medium.com/p/8eadc9ef8814) |
-| Sat, 18 Apr 2026 03:58:05 GMT | iPhone 18 Pro colors revealed: Exclusive look at Apple’s 2026 models | Sr | [Read More](https://medium.com/p/86212c9d70d5) |
-| Sat, 18 Apr 2026 03:46:03 GMT | Zero-Day Whispers: Microsoft’s Hidden Flaw | BurnTheLies | [Read More](https://medium.com/p/ed88e0c0568e) |
-| Sat, 18 Apr 2026 03:40:45 GMT | Is it safe to share your vulnerability on social media? | EMILY ZHANG - Second Language Journal | [Read More](https://medium.com/p/89e914e37da3) |
-| Sat, 18 Apr 2026 03:18:17 GMT | When AI Asked Questions I Couldn’t Answer: A Security Wake-Up Call | Medha Goel | [Read More](https://medium.com/p/c07f30ef7327) |
-| Sat, 18 Apr 2026 03:11:25 GMT | Anthropic Mythos Is a Monster | Mahendra DataVerse | [Read More](https://medium.com/p/fe751f1beb19) |
-| Sat, 18 Apr 2026 03:01:13 GMT | How to Prevent Payment Data Leaks in Payment Systems | Sadiagmalik M | [Read More](https://medium.com/p/46188167e260) |
-| Sat, 18 Apr 2026 01:58:45 GMT | How not to write an article on Nature | Lakshit Singh Bisht | [Read More](https://medium.com/p/519f3c8bf73e) |
-| Sat, 18 Apr 2026 01:57:19 GMT | My Fix Was Right. Then It Was Commented Out. | Victor Jarmolkovicius | [Read More](https://medium.com/p/502083e21290) |
-| Sat, 18 Apr 2026 01:52:21 GMT | The Many Quirks of Linux libc — A Trail of Bits C/C++ Testing Handbook Challenge Write-Up | Reza Zamiri | [Read More](https://medium.com/p/4dbd15f626b8) |
-| Sat, 18 Apr 2026 01:26:34 GMT | 5 PowerShell Commands I Use Daily as a Cybersecurity Engineer | Jbird | [Read More](https://medium.com/p/b986724bdf11) |
