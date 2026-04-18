@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 22:26:00 GMT | The Silent War Inside Active Directory: 10 Attack Methods SOC Teams Miss | Diya TK | [Read More](https://medium.com/p/a7184c10f407) |
+| Sat, 18 Apr 2026 22:17:35 GMT | Masquerade TryHackMe Writeup: PowerShell Malware & Covert C2 Analysis | M8X2d | [Read More](https://medium.com/p/39013c894dac) |
+| Sat, 18 Apr 2026 22:09:55 GMT | Kuantum Çağında Güvenli Mimari: TypeScript Ekosistemi İçin Post-Kuantum Kriptografi (PQC) Rehberi | Emir Ufak | [Read More](https://medium.com/p/4b7a81447354) |
+| Sat, 18 Apr 2026 22:04:31 GMT | The $2 Billion USB Drive: Inside the Most Sophisticated Cyberweapon Ever Built | Marteinu | [Read More](https://medium.com/p/54d4660ac23f) |
+| Sat, 18 Apr 2026 22:03:44 GMT | KASE Scenarios: SCP — Insurgency | Rishabh Gupta | [Read More](https://medium.com/p/f03e3aafe64c) |
+| Sat, 18 Apr 2026 21:56:33 GMT | Reading Secrets Straight From the Browser: The NEXT_PUBLIC_ Trap | OopsSec Store | [Read More](https://medium.com/p/c4f12f49ee4b) |
+| Sat, 18 Apr 2026 21:37:31 GMT | Why LLMs bypass safety limits and can assist in the most diverse crimes? | matheus.cl | [Read More](https://medium.com/p/c2d801c55086) |
 | Sat, 18 Apr 2026 21:22:39 GMT | I Loved the Fight More Than I Loved Him — Or Maybe That Was the Only Way I Knew How | Mira Thorne | [Read More](https://medium.com/p/909c4048b633) |
 | Sat, 18 Apr 2026 21:22:30 GMT | HackPark — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/26dcfe0d68f4) |
 | Sat, 18 Apr 2026 21:12:41 GMT | Fixing AL2023 Boot Failures After CIS Hardening | Farooq Hussain | [Read More](https://medium.com/p/de7c4ec5046d) |
@@ -25,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 20:26:17 GMT | I Automated the Passive Reconnaissance Process I Learned in Class | Angle Gray | [Read More](https://medium.com/p/e0a090808b51) |
 | Sat, 18 Apr 2026 20:19:59 GMT | Zero-Day Reality Check: 6 Actively Exploited CVEs Targeting Fortinet, Microsoft & Adobe | Diya TK | [Read More](https://medium.com/p/07aed48c35b5) |
 | Sat, 18 Apr 2026 20:14:06 GMT | Claude’s 2025 Privacy Reversal: Why Your Private Chat Is Now Training Data for 5 Years (and What to… | Sérgio Caiado | [Read More](https://medium.com/p/f171039cdbbf) |
+| Sat, 18 Apr 2026 20:01:01 GMT | Natural Capital, Deep Time, and What Refuses to Be Measured | Yoshikokawakami | [Read More](https://medium.com/p/4bf8448f9d92) |
 | Sat, 18 Apr 2026 19:59:21 GMT | Try Hack Me- Anthem Walkthrough | PulseEinher | [Read More](https://medium.com/p/7b619e254efe) |
 | Sat, 18 Apr 2026 19:54:04 GMT | Four Ways to Steal a Syscall: Binary Rewriting vs. the Alternatives | Aoi Aioi | [Read More](https://medium.com/p/d4b4b7266b4f) |
 | Sat, 18 Apr 2026 19:49:17 GMT | Bash Scripting for Beginners | byteforensics | [Read More](https://medium.com/p/f32d8007184c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 14:48:12 GMT | When Security Becomes Rigid: A Field Report on Automated Sanctions in Proton Mail | ProudCoder | [Read More](https://medium.com/p/87fa051e3745) |
 | Sat, 18 Apr 2026 14:47:16 GMT | Streaming Platformunda Geolocation Bypass Denemesi | Enes Bayraker | [Read More](https://medium.com/p/98e1d332e5ae) |
 | Sat, 18 Apr 2026 14:46:02 GMT | We Put Our Documentation Linter Under an AI-Driven Siege. Here’s the Post-Mortem | PythonWoods | [Read More](https://medium.com/p/c09b8a86a396) |
-| Sat, 18 Apr 2026 14:42:01 GMT | The Agentic AI Polka | Phil Stafford | [Read More](https://medium.com/p/8bcda6eca3c4) |
-| Sat, 18 Apr 2026 14:41:43 GMT | The Digital Fortress on Sand | Pawned Root | [Read More](https://medium.com/p/2e48c778ae79) |
-| Sat, 18 Apr 2026 14:30:33 GMT | SOC Raw Log Analysis: The Complete Field Manual Every Analyst Needs (L1 to L3) | Manjil Katuwal | [Read More](https://medium.com/p/d6357d8eb31b) |
-| Sat, 18 Apr 2026 14:21:37 GMT | Securing Kubernetes on a Budget: Why Small Teams Need HashiCorp Vault | Ferdous Ahmed | [Read More](https://medium.com/p/7daaec69c95c) |
-| Sat, 18 Apr 2026 14:18:09 GMT | From Strategy to Action: A Technical Implementation Guide for Mythos-Ready Security Teams | Cybersecforall101 | [Read More](https://medium.com/p/4990ca46c6cb) |
-| Sat, 18 Apr 2026 14:04:19 GMT | Sessions Are The Dominant Weak Point In Web Security | Medjue Gore | [Read More](https://medium.com/p/1f6b648053f6) |
-| Sat, 18 Apr 2026 14:01:01 GMT | Cybersecurity in Laravel: The Most Common Attacks and How to Stop Them | Yurii Chekan | [Read More](https://medium.com/p/5a1c78f0f482) |
-| Sat, 18 Apr 2026 14:01:01 GMT | Poisoning the RAG: The Invisible “Sleeper Agents” Lurking in Your Corporate Wikis | Jose Baena Cobos | [Read More](https://medium.com/p/e4e1075acd16) |
