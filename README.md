@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 04:53:51 GMT | Open Redirect — Low Bug… or High Impact When Chained? | ghostyjoe | [Read More](https://medium.com/p/6f267b82718f) |
+| Sat, 18 Apr 2026 04:52:11 GMT | The Biggest Parking Management Problems and Their Smart Solutions | Commport Technologies | [Read More](https://medium.com/p/66d2886f70b8) |
+| Sat, 18 Apr 2026 04:33:04 GMT | How to Investigate a Suspicious PowerShell Command | Paritosh | [Read More](https://medium.com/p/17db3cb17aa1) |
+| Sat, 18 Apr 2026 04:31:01 GMT | IDOR Insecure Direct Object Reference: ID Badlo, Data Dekho, Bounty Lo! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/7abd7518d7b9) |
+| Sat, 18 Apr 2026 04:30:50 GMT | Episode 2: Networking for Hackers (How Data Bleeds) (The Hacker’s Path Series) | Shivam Kumar | [Read More](https://medium.com/p/05777e1816d9) |
+| Sat, 18 Apr 2026 04:25:25 GMT | Sim‌p​le C​ybersecurity Tips to Pr​otec‍t Y‍⁠our‌ On‍line B‌usiness | Fiza Altaf | [Read More](https://medium.com/p/0909b7b51b2e) |
+| Sat, 18 Apr 2026 04:19:25 GMT | Part 06 — Building a Security Operations Center Homelab (Installing Zeek on TheGateWatcher) | Sean Nelson | [Read More](https://medium.com/p/89180cfc0fa7) |
+| Sat, 18 Apr 2026 04:09:25 GMT | SQL Injection | Noeer | [Read More](https://medium.com/p/54574f702821) |
+| Sat, 18 Apr 2026 04:06:29 GMT | YesWeHack — Dojo #1 Writeup | Zor0ark | [Read More](https://medium.com/p/8eadc9ef8814) |
+| Sat, 18 Apr 2026 03:58:05 GMT | iPhone 18 Pro colors revealed: Exclusive look at Apple’s 2026 models | Sr | [Read More](https://medium.com/p/86212c9d70d5) |
+| Sat, 18 Apr 2026 03:46:03 GMT | Zero-Day Whispers: Microsoft’s Hidden Flaw | BurnTheLies | [Read More](https://medium.com/p/ed88e0c0568e) |
+| Sat, 18 Apr 2026 03:40:45 GMT | Is it safe to share your vulnerability on social media? | EMILY ZHANG - Second Language Journal | [Read More](https://medium.com/p/89e914e37da3) |
+| Sat, 18 Apr 2026 03:18:17 GMT | When AI Asked Questions I Couldn’t Answer: A Security Wake-Up Call | Medha Goel | [Read More](https://medium.com/p/c07f30ef7327) |
+| Sat, 18 Apr 2026 03:11:25 GMT | Anthropic Mythos Is a Monster | Mahendra DataVerse | [Read More](https://medium.com/p/fe751f1beb19) |
+| Sat, 18 Apr 2026 03:01:13 GMT | How to Prevent Payment Data Leaks in Payment Systems | Sadiagmalik M | [Read More](https://medium.com/p/46188167e260) |
 | Sat, 18 Apr 2026 01:58:45 GMT | How not to write an article on Nature | Lakshit Singh Bisht | [Read More](https://medium.com/p/519f3c8bf73e) |
 | Sat, 18 Apr 2026 01:57:19 GMT | My Fix Was Right. Then It Was Commented Out. | Victor Jarmolkovicius | [Read More](https://medium.com/p/502083e21290) |
 | Sat, 18 Apr 2026 01:52:21 GMT | The Many Quirks of Linux libc — A Trail of Bits C/C++ Testing Handbook Challenge Write-Up | Reza Zamiri | [Read More](https://medium.com/p/4dbd15f626b8) |
@@ -28,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 00:08:14 GMT | How I Turned an AI Search Endpoint into an Internal Org Intel Leak | shxsu1 | [Read More](https://medium.com/p/72ce87f61948) |
 | Sat, 18 Apr 2026 00:03:48 GMT | The end of ‘seeing is believing’ | Roderick Roye | [Read More](https://medium.com/p/bd0cffa0fdd7) |
 | Sat, 18 Apr 2026 00:01:01 GMT | Complete Guide to JWT Vulnerabilities: Detection, Exploitation, and WAF Bypass | JPablo13 | [Read More](https://medium.com/p/e7df0bd2b6eb) |
+| Sat, 18 Apr 2026 00:00:01 GMT | Your Phone’s Ads Are Feeding a Government Surveillance Network | Blackout VPN | [Read More](https://medium.com/p/ab3cea36022c) |
 | Fri, 17 Apr 2026 23:23:55 GMT | How an Attacker Broke Into My Lab And How Wazuh Caught It | Daniel Williams | [Read More](https://medium.com/p/100fe5004b7c) |
 | Fri, 17 Apr 2026 23:05:03 GMT | You’re Not Safe Online: What Cybersecurity Really Means (And Why It Should Concern You) | JIBUNOR ONYINYE PRAISE | [Read More](https://medium.com/p/b95bf81e9776) |
 | Fri, 17 Apr 2026 22:59:57 GMT | You’re Not Safe Online: What Cybersecurity Really Means (And Why It Should Concern You). | JIBUNOR ONYINYE PRAISE | [Read More](https://medium.com/p/e675b3188a2e) |
@@ -99,19 +115,3 @@ In an era where data… | Jake Smith | [Read More](https://medium.com/p/929e39d5
 | Fri, 17 Apr 2026 17:56:01 GMT | # 30 Days of Naoris: What I Learned and Why I’m More Bullish Than Ever | Sebastien | [Read More](https://medium.com/p/888805f25b99) |
 | Fri, 17 Apr 2026 17:49:36 GMT | From Wanting to Be an Astronaut to Landing in Chicago: The Messy, Honest Story of Building Myself… | Fino :) | [Read More](https://medium.com/p/d048dc353374) |
 | Fri, 17 Apr 2026 17:48:32 GMT | How I Built a Secure One-Time Secret Sharing App with Laravel | Istiyakpasa | [Read More](https://medium.com/p/028e0d0a7fa3) |
-| Fri, 17 Apr 2026 17:38:34 GMT | Nothing is Random — Part 2 | Ruparelnitya | [Read More](https://medium.com/p/86bcdd9799c8) |
-| Fri, 17 Apr 2026 17:37:57 GMT | TryHackMe - UnIndexed - WriteUp | Axoloth | [Read More](https://medium.com/p/753e012b7acd) |
-| Fri, 17 Apr 2026 17:29:56 GMT | Is This the Oppenheimer Moment? | Sukanya P | [Read More](https://medium.com/p/dbbfaab42353) |
-| Fri, 17 Apr 2026 17:28:32 GMT | Blink vs Ring: Which Smart Video Doorbell Is Best for Your Home in 2026? | electronic pro | [Read More](https://medium.com/p/4b64926a214a) |
-| Fri, 17 Apr 2026 17:22:29 GMT | Why Staff Augmentation Is the Future of Agile Workforce Management | One Federal Solution | [Read More](https://medium.com/p/97c716574ef7) |
-| Fri, 17 Apr 2026 17:21:05 GMT | How to Exploit SSH (Port 22) on Metasploitable 2 Using Metasploit | Vino Cybersec | [Read More](https://medium.com/p/077ad725542f) |
-| Fri, 17 Apr 2026 17:10:04 GMT | A Plain-Language Guide for SSO | Pronomita Dey | [Read More](https://medium.com/p/35636de95ff6) |
-| Fri, 17 Apr 2026 17:03:43 GMT | The Hidden Discipline Behind Security: Why Mental Models Matter More Than Tools | Eric Vanderburg | [Read More](https://medium.com/p/9134d8d6c891) |
-| Fri, 17 Apr 2026 17:03:12 GMT | Beyond Code: The Awakening of Sensitive Ethics with the Lucena-AB Protocol | Augustus Bragança de Lucena | [Read More](https://medium.com/p/b3612a5a9e31) |
-| Fri, 17 Apr 2026 17:01:14 GMT | I write about topics that genuinely interest me—across culture, education, writing, history… | Holy Redfox | [Read More](https://medium.com/p/0fd1a27b0eb4) |
-| Fri, 17 Apr 2026 16:56:21 GMT | Pembuatan Game Visual Novel Menggunakan RPGMAKER MV | Stefanny Christabel Antonia | [Read More](https://medium.com/p/b74f4ade087f) |
-| Fri, 17 Apr 2026 16:54:30 GMT | The Insider You Trust Could Be Your Biggest Risk And Most Tools Miss It | Rudratic Technologies | [Read More](https://medium.com/p/66fdf63c8fcb) |
-| Fri, 17 Apr 2026 16:51:29 GMT | Understanding Dark Web Product Listings: Structure, Risks, and Trends | Tor BBB | [Read More](https://medium.com/p/5f84ce76d9a5) |
-| Fri, 17 Apr 2026 16:49:51 GMT | Securing CI/CD pipeline project part-2 | The Commoness | [Read More](https://medium.com/p/b2b83fa4eba5) |
-| Fri, 17 Apr 2026 16:48:26 GMT | Securing CI/CD pipeline project part-1 | The Commoness | [Read More](https://medium.com/p/6fe43901b30f) |
-| Fri, 17 Apr 2026 16:47:53 GMT | Scan Before You Click | Adam Danel | [Read More](https://medium.com/p/acc5c8190d91) |
