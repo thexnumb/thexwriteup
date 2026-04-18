@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 17:56:01 GMT | How I Failed OSCP on My First Attempt (Even with Notes Open) and Passed on the Second Try | Alex Rivera | [Read More](https://medium.com/p/14c8826cd253) |
+| Sat, 18 Apr 2026 17:48:37 GMT | Understanding the OSI Model: A Deep Dive into How the Internet Actually Works | r00t | [Read More](https://medium.com/p/1658c807775e) |
+| Sat, 18 Apr 2026 17:44:09 GMT | Sound Meets Computing: Exploring Digital Audio Technology | Samuelyasiru | [Read More](https://medium.com/p/6eb79a91de19) |
+| Sat, 18 Apr 2026 17:40:17 GMT | TryHackMe - Jailbreaking - WriteUp | Axoloth | [Read More](https://medium.com/p/14f852ebe037) |
+| Sat, 18 Apr 2026 17:38:59 GMT | DevSecOps Yolculuğu Bölüm 2: SonarQube kaynaklı SAST Bulgularının Doğrulanması | Tolga D. | [Read More](https://medium.com/p/c94cdcd02346) |
+| Sat, 18 Apr 2026 17:31:57 GMT | Salt Typhoon: novo ciberataque de hackers ligados à China invade provedores de Internet dos EUA | Stéfane C. | [Read More](https://medium.com/p/e9e73f2b8a50) |
+| Sat, 18 Apr 2026 17:30:35 GMT | QR Code Vendor Lock-In: What It Costs You | QR Nova | [Read More](https://medium.com/p/c6343b354dff) |
+| Sat, 18 Apr 2026 17:28:04 GMT | Analyzing a Malicious PCAP Using Wireshark: The DomainCop247 Case Study | Finnih Oluwatimilehin | [Read More](https://medium.com/p/b545580cc252) |
+| Sat, 18 Apr 2026 17:27:16 GMT | If I Were an Attacker: Breaking Input Validation Systems | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/f4f94d267441) |
+| Sat, 18 Apr 2026 17:27:08 GMT | To Be Loved is a Privilege. | Inscribed Echoes. | [Read More](https://medium.com/p/22604d06c6d6) |
+| Sat, 18 Apr 2026 17:22:53 GMT | This isn’t just a threat to Bitcoin. | Apoorv | [Read More](https://medium.com/p/de91329db33d) |
+| Sat, 18 Apr 2026 17:22:22 GMT | Injecting a GIF into a Kraken Cooler LCD with a simple Rust utility | Luca Cesarano | [Read More](https://medium.com/p/604151c842be) |
+| Sat, 18 Apr 2026 17:16:17 GMT | AI Hackingの醍醐味 | Hiroya Nakamura | [Read More](https://medium.com/p/1db819dc964b) |
+| Sat, 18 Apr 2026 17:13:39 GMT | (3/3) The Eccentric Way I Remember Passwords for Dozens of Accounts on the Internet | Prehistoric Crab | [Read More](https://medium.com/p/db4f507229a2) |
+| Sat, 18 Apr 2026 17:09:59 GMT | My First DEF CON Bahrain Hacker Badge | Arjun Suresh | [Read More](https://medium.com/p/872a4d010a13) |
+| Sat, 18 Apr 2026 17:07:33 GMT | The Race to Nowhere: How AI Became Everyone’s Excuse | rohit prajwal | [Read More](https://medium.com/p/80984a4e42ae) |
 | Sat, 18 Apr 2026 17:04:12 GMT | InfosecPrep — robots.txt RSA Key Leak + SUID Bash to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/f2b3dc3541ee) |
 | Sat, 18 Apr 2026 17:02:56 GMT | Server Components CTF@CIT 2026 | Mohamed Soliman | [Read More](https://medium.com/p/f306fb286332) |
 | Sat, 18 Apr 2026 17:00:35 GMT | Brooklyn Nine Nine Tryhackme Writeup | Anirudh Bishnoi | [Read More](https://medium.com/p/b91aac147f59) |
@@ -22,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 16:55:56 GMT | CAPA: THE BASICS LINUXENICORP WRITEUP | hihipro | [Read More](https://medium.com/p/2487e54f6305) |
 | Sat, 18 Apr 2026 16:55:13 GMT | I spent two weeks training a 7B model to find security bugs. Here’s every mistake I made. | Vito Rallo | [Read More](https://medium.com/p/2f03f7bf90a7) |
 | Sat, 18 Apr 2026 16:54:11 GMT | NMAP: LIVE HOST DISCOVERY LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/b3eb632fa901) |
+| Sat, 18 Apr 2026 16:54:00 GMT | Threat Guard: An Intelligent Document and Executable Threat Detection Platform | Piyush Jha | [Read More](https://medium.com/p/1709287d178b) |
 | Sat, 18 Apr 2026 16:52:51 GMT | Why your brain starts its first lap before the world wakes up | Hugo Pan | [Read More](https://medium.com/p/83149b40bd10) |
 | Sat, 18 Apr 2026 16:47:07 GMT | Steel Mountain — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/8aac5438e9bc) |
 | Sat, 18 Apr 2026 16:44:13 GMT | Your AI Agent Has Root Access. Did Anyone Actually Think About That? | Opnaruto | [Read More](https://medium.com/p/e037f43d011b) |
@@ -43,6 +60,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 15:16:24 GMT | How Modern VPNs Actually Work: A Complete Deep Dive into Xray-core, VLESS, REALITY, and XTLS-Vision | Md Samaul Haque Malik | [Read More](https://medium.com/p/72d5b788b002) |
 | Sat, 18 Apr 2026 15:11:01 GMT | 5 Essential PDF Tools for Freelancers and Professionals in 2026: Why Security is the New… | Kaveesha maxwel | [Read More](https://medium.com/p/043a213df594) |
 | Sat, 18 Apr 2026 15:03:27 GMT | Unauthorized Account Deletion via HTTP Method Manipulation.A Business Logic Flaw in REST API Design | Moataz | [Read More](https://medium.com/p/22ca2a39c363) |
+| Sat, 18 Apr 2026 15:01:01 GMT | Microsoft publica las actualizaciones de Windows de abril con un nuevo pico en vulnerabilidades… | Tiziano Mass | [Read More](https://medium.com/p/136f16c60a18) |
 | Sat, 18 Apr 2026 14:59:50 GMT | Ottergram (BAC) (VerbTamper) Bugforge | 7s26Simon | [Read More](https://medium.com/p/c324bf043d57) |
 | Sat, 18 Apr 2026 14:51:46 GMT | AI Threat Modelling (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/34d28e619480) |
 | Sat, 18 Apr 2026 14:51:01 GMT | Villa Security & Smart Home Solutions in Dubai - CCTV, Smart Locks, Intercom & WiFi Setup | Rahulkrishnan | [Read More](https://medium.com/p/56482feac8d2) |
@@ -64,6 +82,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 13:59:24 GMT | A Small Character, A Big Risk: iPhone Passcode Bug Highlights Hidden Security Gaps | Jas | [Read More](https://medium.com/p/45b78789b1d1) |
 | Sat, 18 Apr 2026 13:55:44 GMT | Deepfakes: What Do You Do When You Can’t Be 100% Sure? | Next Horizon Global | [Read More](https://medium.com/p/62a02b161397) |
 | Sat, 18 Apr 2026 13:51:25 GMT | Meraki Systems Manager: Unified Endpoint Management for the Modern Wor | Novbox | [Read More](https://medium.com/p/7ad1d35ca1f5) |
+| Sat, 18 Apr 2026 13:49:35 GMT | ️‍♂️ Dari Sekadar Ganti Angka, Jadi Celah Besar: Cerita IDOR di Fitur Job Applications | Dianahmad | [Read More](https://medium.com/p/20fa0863216f) |
 | Sat, 18 Apr 2026 13:34:54 GMT | Day 30: The Cybersecurity Mindset — Your Blueprint for a Lifetime of Digital Resilience | Ndu | [Read More](https://medium.com/p/d69d888b4021) |
 | Sat, 18 Apr 2026 13:31:12 GMT | North Korea: Country Profile Strategic Intelligence | Dan Sullivan | [Read More](https://medium.com/p/23f08bc67041) |
 | Sat, 18 Apr 2026 13:22:43 GMT | Day 29: The AI Arms Race — Artificial Intelligence and Machine Learning in Cybersecurity | Ndu | [Read More](https://medium.com/p/22200e1deb85) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 11:35:13 GMT | WolfSSL Hunting Experience: Cerita Dari Seorang Bug Hunter Pengangguran :V | MostReal | [Read More](https://medium.com/p/5b51cd55cefe) |
 | Sat, 18 Apr 2026 11:31:01 GMT | Bypassing Windows Defender via stage 0 loader — Ashbo3n | Ashbo3n | [Read More](https://medium.com/p/bbdf3c671094) |
 | Sat, 18 Apr 2026 11:30:10 GMT | AppSecMaster — HR System Writeup — OSWE Track | 0xMyth | [Read More](https://medium.com/p/a46f47c77146) |
-| Sat, 18 Apr 2026 11:23:18 GMT | The Dark Side of Freedom: Why Uncensored AI is a Double-Edged Sword | Alex Tech-Guide | [Read More](https://medium.com/p/a094a85b00b2) |
-| Sat, 18 Apr 2026 11:21:38 GMT | Traffic Analysis Essentials - TryHackMe | Aruldeshwal | [Read More](https://medium.com/p/0735225caedf) |
-| Sat, 18 Apr 2026 11:16:20 GMT | OpenClaw Security Risks: A Warning to Users and Self-Hosters | j3ffyang | [Read More](https://medium.com/p/7757bfc9d477) |
-| Sat, 18 Apr 2026 11:15:49 GMT | # Dark Web Novels: 7 Best Books About the Hidden Internet (Cyber Thrillers & Psychological Fiction) | GAETANO BUGLISI | [Read More](https://medium.com/p/0c6bf04ad26e) |
-| Sat, 18 Apr 2026 11:15:19 GMT | How I Find Hidden API Bugs Most Hackers Miss | Pradeeptadi | [Read More](https://medium.com/p/0922a9afdcd0) |
-| Sat, 18 Apr 2026 11:02:11 GMT | Brute It — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/f535438d7c90) |
-| Sat, 18 Apr 2026 10:45:36 GMT | Top Refractories Companies in India: Industry Leaders, Plants & Market Insights (2026). | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/3db73a7d8027) |
-| Sat, 18 Apr 2026 10:45:19 GMT | The “Invisible Target” Trap: Why European SMEs Are the New Gold Mine for Hackers in 2026 | Ahi&Hacking | [Read More](https://medium.com/p/674655bc4e42) |
-| Sat, 18 Apr 2026 10:43:33 GMT | The Pulse Beneath the Screen: Why the Dark Web is More Human Than You Think | Mohit | [Read More](https://medium.com/p/23dc1eb77718) |
-| Sat, 18 Apr 2026 10:40:34 GMT | Browser Back Button | Ghost | [Read More](https://medium.com/p/93dbed745017) |
-| Sat, 18 Apr 2026 10:40:26 GMT | h PAR: How a Simple CORS Misconfiguration Led to a Full Account Takeover | IFFI0x | [Read More](https://medium.com/p/b56de0c0d574) |
-| Sat, 18 Apr 2026 10:10:19 GMT | From Failure to ₹4.5 LPA: How Abhishek Turned Curiosity Into a Cybersecurity Career | Cyberbee | [Read More](https://medium.com/p/99d3a79c1ceb) |
-| Sat, 18 Apr 2026 10:03:03 GMT | The gaps in Europe’s Frontier AI Strategy | Michael Sluydts | [Read More](https://medium.com/p/feec2dfac947) |
-| Sat, 18 Apr 2026 09:49:12 GMT | Your AI Agents Can Steal From Each Other. I Built the Layer That Stops It | Pankaj Kumar | [Read More](https://medium.com/p/510d2526e04a) |
-| Sat, 18 Apr 2026 09:39:43 GMT | MythX: An Endgame Protocol | Lilo | [Read More](https://medium.com/p/9840ae1320a4) |
-| Sat, 18 Apr 2026 09:38:50 GMT | What If GDPR Existed Between People, Not Just Companies? | Bassant Yehia Madkour | [Read More](https://medium.com/p/2ed8b3c455e3) |
-| Sat, 18 Apr 2026 09:38:37 GMT | Granny HTB Writeup | Serhii Dmitriiev | [Read More](https://medium.com/p/926bb0961f79) |
-| Sat, 18 Apr 2026 09:23:43 GMT | Investigating PAN-OS CVE-2024-3400 Exploitation Attempt Where Execution Almost Happened | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/68c75c2effa9) |
-| Sat, 18 Apr 2026 09:22:50 GMT | I Built a Network Scanner in Zsh — Here’s How It Works | Dipson Gurung | [Read More](https://medium.com/p/09d844445247) |
