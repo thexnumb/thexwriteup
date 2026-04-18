@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 21:22:39 GMT | I Loved the Fight More Than I Loved Him — Or Maybe That Was the Only Way I Knew How | Mira Thorne | [Read More](https://medium.com/p/909c4048b633) |
+| Sat, 18 Apr 2026 21:22:30 GMT | HackPark — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/26dcfe0d68f4) |
+| Sat, 18 Apr 2026 21:12:41 GMT | Fixing AL2023 Boot Failures After CIS Hardening | Farooq Hussain | [Read More](https://medium.com/p/de7c4ec5046d) |
+| Sat, 18 Apr 2026 21:10:19 GMT | Setting Up Wazuh on AWS: Two EC2 Instances, Real-Time File Monitoring, and What Actually Went Wrong | Nikhil Shakya | [Read More](https://medium.com/p/b491ef570622) |
+| Sat, 18 Apr 2026 21:01:01 GMT | A Practical Guide to Testing Static Websites for Security Vulnerabilities | MainEkHacker | [Read More](https://medium.com/p/ec65e27a7c2e) |
+| Sat, 18 Apr 2026 20:59:23 GMT | NIST is Moving to a “Risk-First” Model for Vulnerabilities | SOCFortress | [Read More](https://medium.com/p/92aa2fba53c0) |
 | Sat, 18 Apr 2026 20:44:45 GMT | LLMNR/NBT-NS Poisoning in Depth - Ehxb | Ehxb | [Read More](https://medium.com/p/ebacf745957d) |
 | Sat, 18 Apr 2026 20:40:32 GMT | How to Know If Your Phone Is Hacked | Sajid Khan | [Read More](https://medium.com/p/2124c2cf0e5a) |
 | Sat, 18 Apr 2026 20:40:10 GMT | The Compound Bug: When Two Quiet Flaws Conspire | Paul Pounder | [Read More](https://medium.com/p/a1c719c7a460) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 14:04:19 GMT | Sessions Are The Dominant Weak Point In Web Security | Medjue Gore | [Read More](https://medium.com/p/1f6b648053f6) |
 | Sat, 18 Apr 2026 14:01:01 GMT | Cybersecurity in Laravel: The Most Common Attacks and How to Stop Them | Yurii Chekan | [Read More](https://medium.com/p/5a1c78f0f482) |
 | Sat, 18 Apr 2026 14:01:01 GMT | Poisoning the RAG: The Invisible “Sleeper Agents” Lurking in Your Corporate Wikis | Jose Baena Cobos | [Read More](https://medium.com/p/e4e1075acd16) |
-| Sat, 18 Apr 2026 14:01:01 GMT | Where Privacy Starts (And Why It Might Be Earlier Than You Think) | Ethics In Beta | [Read More](https://medium.com/p/b6eeba37fc1e) |
-| Sat, 18 Apr 2026 14:01:01 GMT | Threat Hunt: Proxy Execution, Registry Staging, Dual Command and Control | 0verRida | [Read More](https://medium.com/p/2f9270cd5355) |
-| Sat, 18 Apr 2026 14:01:01 GMT | The Immune System. (3/3) | 3 on Medium | [Read More](https://medium.com/p/635ca24c0b89) |
-| Sat, 18 Apr 2026 13:59:24 GMT | A Small Character, A Big Risk: iPhone Passcode Bug Highlights Hidden Security Gaps | Jas | [Read More](https://medium.com/p/45b78789b1d1) |
-| Sat, 18 Apr 2026 13:55:44 GMT | Deepfakes: What Do You Do When You Can’t Be 100% Sure? | Next Horizon Global | [Read More](https://medium.com/p/62a02b161397) |
-| Sat, 18 Apr 2026 13:51:25 GMT | Meraki Systems Manager: Unified Endpoint Management for the Modern Wor | Novbox | [Read More](https://medium.com/p/7ad1d35ca1f5) |
