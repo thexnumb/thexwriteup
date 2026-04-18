@@ -12,11 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 09:49:12 GMT | Your AI Agents Can Steal From Each Other. I Built the Layer That Stops It | Pankaj Kumar | [Read More](https://medium.com/p/510d2526e04a) |
+| Sat, 18 Apr 2026 09:39:43 GMT | MythX: An Endgame Protocol | Lilo | [Read More](https://medium.com/p/9840ae1320a4) |
+| Sat, 18 Apr 2026 09:38:50 GMT | What If GDPR Existed Between People, Not Just Companies? | Bassant Yehia Madkour | [Read More](https://medium.com/p/2ed8b3c455e3) |
+| Sat, 18 Apr 2026 09:38:37 GMT | Granny HTB Writeup | Serhii Dmitriiev | [Read More](https://medium.com/p/926bb0961f79) |
+| Sat, 18 Apr 2026 09:23:43 GMT | Investigating PAN-OS CVE-2024-3400 Exploitation Attempt Where Execution Almost Happened | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/68c75c2effa9) |
+| Sat, 18 Apr 2026 09:22:50 GMT | I Built a Network Scanner in Zsh — Here’s How It Works | Dipson Gurung | [Read More](https://medium.com/p/09d844445247) |
+| Sat, 18 Apr 2026 09:19:52 GMT | Jackals — old and new | Dylan Evans | [Read More](https://medium.com/p/d9a33dc6ec42) |
+| Sat, 18 Apr 2026 09:14:44 GMT | How I Set Up Role-Based Access Control on Linux (RBAC Lab Walkthrough) | Dipson Gurung | [Read More](https://medium.com/p/26f8d0b7f140) |
+| Sat, 18 Apr 2026 09:12:32 GMT | Best Cyber Security Training in Kerala - Hands-On Ethical Hacking Course | asha | [Read More](https://medium.com/p/ea92699b170d) |
+| Sat, 18 Apr 2026 09:10:36 GMT | Sending A One Time Password (OTP) To The Wrong User. | ShadowForge | [Read More](https://medium.com/p/dbd9c37d920d) |
 | Sat, 18 Apr 2026 08:57:59 GMT | Breaking Into a Major Email Platform With Two Vulnerabilities | Prateekpulastya | [Read More](https://medium.com/p/5deed8efbb81) |
 | Sat, 18 Apr 2026 08:55:29 GMT | Top 10 Industry 4.0 Technologies Every Factory Must Adopt Today | Machinefoxindia | [Read More](https://medium.com/p/c88792698d42) |
 | Sat, 18 Apr 2026 08:55:06 GMT | Israel’s Wolf-Pack Surveillance System | Baris Dincer | [Read More](https://medium.com/p/2167a4987c89) |
 | Sat, 18 Apr 2026 08:52:55 GMT | Shadow AI- The Hidden Risk Your Organization Can’t Ignore | AI Kit Hub | [Read More](https://medium.com/p/f2cc85359b31) |
 | Sat, 18 Apr 2026 08:50:15 GMT | Crack GIAC Security Essentials (GSEC) 2026 Like a Pro! | Mirzarashidbaig | [Read More](https://medium.com/p/60c8aeba4da9) |
+| Sat, 18 Apr 2026 08:49:58 GMT | What Happens When You Rip the Foundation Out of a Security Tool | PythonWoods | [Read More](https://medium.com/p/173b57d496b2) |
 | Sat, 18 Apr 2026 08:44:32 GMT | Pass CompTIA A+ (220–1101 & 220–1102) with Confidence! | Mirzarashidbaig | [Read More](https://medium.com/p/27186b3da0e5) |
 | Sat, 18 Apr 2026 08:40:18 GMT | Is Your Digital Life Truly Under Your Control? | Orpa | [Read More](https://medium.com/p/58afa848653b) |
 | Sat, 18 Apr 2026 08:39:09 GMT | Vibe coding is shipping vulnerabilities at scale (and nobody’s checking)# | Emanuele De Amicis | [Read More](https://medium.com/p/0031fba5da32) |
@@ -101,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 17 Apr 2026 22:23:08 GMT | The Password Saving and Protection Tool Every Business Owner and Freelancer Needs to Work Faster… | Fahad Ali | [Read More](https://medium.com/p/34bcd17f89a4) |
 | Fri, 17 Apr 2026 22:20:59 GMT | Day 5 — CSRF Token Bypass using GET Request | zero_day | [Read More](https://medium.com/p/791cba29812d) |
 | Fri, 17 Apr 2026 22:17:06 GMT | From “I Love You” to “Send Money”! | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/a956beaf1a34) |
-| Fri, 17 Apr 2026 22:09:36 GMT | Smart Home Security for Modern Families | AlexBryn | [Read More](https://medium.com/p/517d7ba0645d) |
-| Fri, 17 Apr 2026 21:57:25 GMT | StegoRSA — picoCTF Walkthrough | zuko | [Read More](https://medium.com/p/23863201a64d) |
-| Fri, 17 Apr 2026 21:45:38 GMT | TryHackMe: What is Networking? — The Foundation of Everything | Jonathan Sanfer | [Read More](https://medium.com/p/392fafe3ef19) |
-| Fri, 17 Apr 2026 21:44:27 GMT | A Multi-Transmitter 2.4 | Antonio Escalante | [Read More](https://medium.com/p/c7f9d92afa78) |
-| Fri, 17 Apr 2026 21:41:47 GMT | Infrastructure as Code (IaC): Guide to Automating Cloud Infrastructure | Dennis Duke | [Read More](https://medium.com/p/17e3a54ab9e3) |
-| Fri, 17 Apr 2026 21:23:37 GMT | HOW TO RECOVER STOLEN OR LOST BITCOIN/MALICE CYBER RECOVERY WILL SOLVE YOUR PROBLEMS | Sofiia Vlasic | [Read More](https://medium.com/p/e71ae8f78d41) |
-| Fri, 17 Apr 2026 21:23:26 GMT | Prompt Injection | Devanshi Patel | [Read More](https://medium.com/p/e8b37bc82e39) |
-| Fri, 17 Apr 2026 21:19:18 GMT | IF I WERE YOU - CRYPTO STRATEGY
-If I Lost All My Crypto Tomorrow, Here’s How I’d Rebuild
-Losing… | Kingdipszy | [Read More](https://medium.com/p/2d99659b29ee) |
-| Fri, 17 Apr 2026 21:19:10 GMT | Part 05 — Building a Security Operations Center Homelab (Setting up Suricata on TheGateWatcher) | Sean Nelson | [Read More](https://medium.com/p/b955e6b7962a) |
-| Fri, 17 Apr 2026 21:18:55 GMT | ANOTHER Bad Windows 11 Update is Breaking Things | Michael Swengel | [Read More](https://medium.com/p/d16b4b0c0141) |
-| Fri, 17 Apr 2026 21:13:37 GMT | Local Development Security Guidelines | Artur Grzybowski | [Read More](https://medium.com/p/30ff9830ad49) |
