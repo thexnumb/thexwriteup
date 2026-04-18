@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 10:45:36 GMT | Top Refractories Companies in India: Industry Leaders, Plants & Market Insights (2026). | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/3db73a7d8027) |
+| Sat, 18 Apr 2026 10:45:19 GMT | The “Invisible Target” Trap: Why European SMEs Are the New Gold Mine for Hackers in 2026 | Ahi&Hacking | [Read More](https://medium.com/p/674655bc4e42) |
+| Sat, 18 Apr 2026 10:43:33 GMT | The Pulse Beneath the Screen: Why the Dark Web is More Human Than You Think | Mohit | [Read More](https://medium.com/p/23dc1eb77718) |
+| Sat, 18 Apr 2026 10:40:34 GMT | Browser Back Button | Ghost | [Read More](https://medium.com/p/93dbed745017) |
+| Sat, 18 Apr 2026 10:40:26 GMT | h PAR: How a Simple CORS Misconfiguration Led to a Full Account Takeover | IFFI0x | [Read More](https://medium.com/p/b56de0c0d574) |
+| Sat, 18 Apr 2026 10:10:19 GMT | From Failure to ₹4.5 LPA: How Abhishek Turned Curiosity Into a Cybersecurity Career | Cyberbee | [Read More](https://medium.com/p/99d3a79c1ceb) |
+| Sat, 18 Apr 2026 10:03:03 GMT | The gaps in Europe’s Frontier AI Strategy | Michael Sluydts | [Read More](https://medium.com/p/feec2dfac947) |
 | Sat, 18 Apr 2026 09:49:12 GMT | Your AI Agents Can Steal From Each Other. I Built the Layer That Stops It | Pankaj Kumar | [Read More](https://medium.com/p/510d2526e04a) |
 | Sat, 18 Apr 2026 09:39:43 GMT | MythX: An Endgame Protocol | Lilo | [Read More](https://medium.com/p/9840ae1320a4) |
 | Sat, 18 Apr 2026 09:38:50 GMT | What If GDPR Existed Between People, Not Just Companies? | Bassant Yehia Madkour | [Read More](https://medium.com/p/2ed8b3c455e3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 00:00:01 GMT | Your Phone’s Ads Are Feeding a Government Surveillance Network | Blackout VPN | [Read More](https://medium.com/p/ab3cea36022c) |
 | Fri, 17 Apr 2026 23:23:55 GMT | How an Attacker Broke Into My Lab And How Wazuh Caught It | Daniel Williams | [Read More](https://medium.com/p/100fe5004b7c) |
 | Fri, 17 Apr 2026 23:05:03 GMT | You’re Not Safe Online: What Cybersecurity Really Means (And Why It Should Concern You) | JIBUNOR ONYINYE PRAISE | [Read More](https://medium.com/p/b95bf81e9776) |
-| Fri, 17 Apr 2026 22:59:57 GMT | You’re Not Safe Online: What Cybersecurity Really Means (And Why It Should Concern You). | JIBUNOR ONYINYE PRAISE | [Read More](https://medium.com/p/e675b3188a2e) |
-| Fri, 17 Apr 2026 22:27:19 GMT | AS-REP Roasting: When Pre-Auth Is Off and the Hash Is Free | Garrett Stimpson | [Read More](https://medium.com/p/6d259e9b9026) |
-| Fri, 17 Apr 2026 22:25:16 GMT | The Cybersecurity Villains Lurking Around Your Business Right Now | ClawHero AI | [Read More](https://medium.com/p/f091ed2f13fc) |
-| Fri, 17 Apr 2026 22:24:23 GMT | Understand the Significance of $ITL and $ITLG in Daily Life, Allowing for Direct or Converted… | GANGURI VENKATRAO - T3 AMBASSADOR OF INTERLINK LAB | [Read More](https://medium.com/p/5818b38daef0) |
-| Fri, 17 Apr 2026 22:23:08 GMT | The Password Saving and Protection Tool Every Business Owner and Freelancer Needs to Work Faster… | Fahad Ali | [Read More](https://medium.com/p/34bcd17f89a4) |
-| Fri, 17 Apr 2026 22:20:59 GMT | Day 5 — CSRF Token Bypass using GET Request | zero_day | [Read More](https://medium.com/p/791cba29812d) |
-| Fri, 17 Apr 2026 22:17:06 GMT | From “I Love You” to “Send Money”! | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/a956beaf1a34) |
