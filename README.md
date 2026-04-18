@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 18 Apr 2026 23:22:27 GMT | Trump’s Deadline: Peace or Bombs in the Gulf? | Raquel Castro | [Read More](https://medium.com/p/ea6adb0c07b5) |
+| Sat, 18 Apr 2026 23:15:09 GMT | Day-6: Let’s do some labs on CSRF | zero_day | [Read More](https://medium.com/p/f22af85e2a32) |
+| Sat, 18 Apr 2026 23:13:06 GMT | I Tested an LLM-Powered Honeypot. It broke in a few commands. | Who? Tao | [Read More](https://medium.com/p/6ecd6d6b21e5) |
+| Sat, 18 Apr 2026 23:05:58 GMT | Offensive Security Intro — I Hacked a Bank (in a lab) | Adil Abbasov | [Read More](https://medium.com/p/1d3dad973748) |
+| Sat, 18 Apr 2026 23:05:00 GMT | Week 4 of Defensive Security | Muhammad Uzair | [Read More](https://medium.com/p/0b2fc18f7ed2) |
+| Sat, 18 Apr 2026 23:00:36 GMT | Most webhook security guides protect the wrong side. The scary part is delivery. | Aditya Agarwal | [Read More](https://medium.com/p/a1f22a942df6) |
+| Sat, 18 Apr 2026 22:56:52 GMT | CyberDefenders — LockBit Lab Writeup | JBXSec | [Read More](https://medium.com/p/743d9ba9065b) |
+| Sat, 18 Apr 2026 22:44:52 GMT | Beyond Detection: Building an AI-Powered SOC Automation Pipeline with Elastic & Tines | Jasdev Singh | [Read More](https://medium.com/p/30992e7b05bb) |
+| Sat, 18 Apr 2026 22:38:51 GMT | Shots Fired in Ormuz: Why Diplomacy is Failing | Marta Reyes | [Read More](https://medium.com/p/416548c9c489) |
+| Sat, 18 Apr 2026 22:38:46 GMT | Why Digital Security Matters More Than Ever | Hania Khan | [Read More](https://medium.com/p/5deae9604fca) |
+| Sat, 18 Apr 2026 22:37:54 GMT | Breach - WebVerse (GraphQL) | 7s26Simon | [Read More](https://medium.com/p/a7c090c68bd1) |
+| Sat, 18 Apr 2026 22:37:52 GMT | I Scanned 200 AI-Built Apps for Security Issues. Here’s What I Found. | Zack | [Read More](https://medium.com/p/1fddacecfbbe) |
+| Sat, 18 Apr 2026 22:36:59 GMT | ‍☠️ OffSec Access Machine — Full Walkthrough - File Upload to SYSTEM via SeManageVolumePrivilege | Abhishek Sharma | [Read More](https://medium.com/p/2b36693f07a1) |
+| Sat, 18 Apr 2026 22:36:08 GMT | Your “Vibe-Coded” SaaS is Leaking Revenue: 3 Critical Security Fixes You Need Right Now | RepoWrit | [Read More](https://medium.com/p/6bf19aa5381e) |
 | Sat, 18 Apr 2026 22:26:00 GMT | The Silent War Inside Active Directory: 10 Attack Methods SOC Teams Miss | Diya TK | [Read More](https://medium.com/p/a7184c10f407) |
 | Sat, 18 Apr 2026 22:17:35 GMT | Masquerade TryHackMe Writeup: PowerShell Malware & Covert C2 Analysis | M8X2d | [Read More](https://medium.com/p/39013c894dac) |
 | Sat, 18 Apr 2026 22:09:55 GMT | Kuantum Çağında Güvenli Mimari: TypeScript Ekosistemi İçin Post-Kuantum Kriptografi (PQC) Rehberi | Emir Ufak | [Read More](https://medium.com/p/4b7a81447354) |
@@ -57,6 +71,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 18:12:23 GMT | Practical Exploitation of CVE-2024-42009 using Docker and Swaks | Zaid Arif | [Read More](https://medium.com/p/124ac0bad911) |
 | Sat, 18 Apr 2026 18:04:30 GMT | Understanding Dark Web Product Scams: Patterns, Risks, and Red Flags | Tor BBB | [Read More](https://medium.com/p/9244a30cfbdb) |
 | Sat, 18 Apr 2026 17:56:01 GMT | How I Failed OSCP on My First Attempt (Even with Notes Open) and Passed on the Second Try | Alex Rivera | [Read More](https://medium.com/p/14c8826cd253) |
+| Sat, 18 Apr 2026 17:48:58 GMT | Gosu คืออะไร ทำไม Open source image หลาย ๆ ตัวถึงติดมาด้วย ?? | Ponlawat Suparat | [Read More](https://medium.com/p/d629035d93bc) |
 | Sat, 18 Apr 2026 17:48:37 GMT | Understanding the OSI Model: A Deep Dive into How the Internet Actually Works | r00t | [Read More](https://medium.com/p/1658c807775e) |
 | Sat, 18 Apr 2026 17:44:09 GMT | Sound Meets Computing: Exploring Digital Audio Technology | Samuelyasiru | [Read More](https://medium.com/p/6eb79a91de19) |
 | Sat, 18 Apr 2026 17:40:17 GMT | TryHackMe - Jailbreaking - WriteUp | Axoloth | [Read More](https://medium.com/p/14f852ebe037) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 15:30:29 GMT | AI-Driven Red Teaming in 2026: From Assistants to Autonomous Offensive Systems | Muslim | [Read More](https://medium.com/p/c8f9d7075f8c) |
 | Sat, 18 Apr 2026 15:30:00 GMT | Kobold-HTB(Think, Enumerate, Repeat) | Younes ADRAOUI | [Read More](https://medium.com/p/e902c9c0cc12) |
 | Sat, 18 Apr 2026 15:29:22 GMT | CyberDefenders — Brave Lab Writeup | JBXSec | [Read More](https://medium.com/p/78a66e9c886e) |
-| Sat, 18 Apr 2026 15:28:45 GMT | What AI-Assisted Offensive Work Actually Means for Your Detection Program: A Practitioner’s… | Andrey Pautov | [Read More](https://medium.com/p/9c27a8f40f12) |
-| Sat, 18 Apr 2026 15:27:38 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 2 | R1punjay_Singh | [Read More](https://medium.com/p/e226ac994400) |
-| Sat, 18 Apr 2026 15:26:01 GMT | Splunk: Turning Raw Logs into Real Security Intelligence | Little_Sun4lower | [Read More](https://medium.com/p/8245299120fc) |
-| Sat, 18 Apr 2026 15:19:04 GMT | AI vs. Hackers: How Artificial Intelligence Is Redefining Application Security in the Age of… | Laxminarayan | [Read More](https://medium.com/p/9dbc5af0c8bf) |
-| Sat, 18 Apr 2026 15:16:24 GMT | How Modern VPNs Actually Work: A Complete Deep Dive into Xray-core, VLESS, REALITY, and XTLS-Vision | Md Samaul Haque Malik | [Read More](https://medium.com/p/72d5b788b002) |
-| Sat, 18 Apr 2026 15:11:01 GMT | 5 Essential PDF Tools for Freelancers and Professionals in 2026: Why Security is the New… | Kaveesha maxwel | [Read More](https://medium.com/p/043a213df594) |
-| Sat, 18 Apr 2026 15:03:27 GMT | Unauthorized Account Deletion via HTTP Method Manipulation.A Business Logic Flaw in REST API Design | Moataz | [Read More](https://medium.com/p/22ca2a39c363) |
-| Sat, 18 Apr 2026 15:01:01 GMT | Microsoft publica las actualizaciones de Windows de abril con un nuevo pico en vulnerabilidades… | Tiziano Mass | [Read More](https://medium.com/p/136f16c60a18) |
-| Sat, 18 Apr 2026 14:59:50 GMT | Ottergram (BAC) (VerbTamper) Bugforge | 7s26Simon | [Read More](https://medium.com/p/c324bf043d57) |
-| Sat, 18 Apr 2026 14:51:46 GMT | AI Threat Modelling (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/34d28e619480) |
-| Sat, 18 Apr 2026 14:51:01 GMT | Villa Security & Smart Home Solutions in Dubai - CCTV, Smart Locks, Intercom & WiFi Setup | Rahulkrishnan | [Read More](https://medium.com/p/56482feac8d2) |
-| Sat, 18 Apr 2026 14:48:30 GMT | The Potato Family: A Decade of “Service Account → SYSTEM” PrivEsc (How It Works, Why It Persists) | Yua Mikanana | [Read More](https://medium.com/p/b1288e093bd3) |
-| Sat, 18 Apr 2026 14:48:12 GMT | When Security Becomes Rigid: A Field Report on Automated Sanctions in Proton Mail | ProudCoder | [Read More](https://medium.com/p/87fa051e3745) |
-| Sat, 18 Apr 2026 14:47:16 GMT | Streaming Platformunda Geolocation Bypass Denemesi | Enes Bayraker | [Read More](https://medium.com/p/98e1d332e5ae) |
-| Sat, 18 Apr 2026 14:46:02 GMT | We Put Our Documentation Linter Under an AI-Driven Siege. Here’s the Post-Mortem | PythonWoods | [Read More](https://medium.com/p/c09b8a86a396) |
