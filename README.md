@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 02:47:06 GMT | What Happens When You Don’t Want to Be Who You’ve Always Been? | Courtney Dolan | [Read More](https://medium.com/p/c7e14459c640) |
+| Sun, 19 Apr 2026 02:42:34 GMT | How to Become an Ethical Hacker (The Right Way) | Pratik | [Read More](https://medium.com/p/8756c36bdffd) |
+| Sun, 19 Apr 2026 02:34:13 GMT | Mr Robot TryHackMe Español | Us0lfr | [Read More](https://medium.com/p/ea813f4fff9a) |
+| Sun, 19 Apr 2026 02:29:48 GMT | Publishing a Frontend for EMBER2024 | Hiroki Tomimatsu | [Read More](https://medium.com/p/b281ae7930b9) |
+| Sun, 19 Apr 2026 02:18:06 GMT | From Network Engineer to vCISO: Adeel Shaikh Muhammad’s Blueprint for Cybersecurity Mastery | Developing Cyber Leadership | [Read More](https://medium.com/p/ad4821f3c9b1) |
+| Sun, 19 Apr 2026 02:06:36 GMT | CTF Overpass2 - TryHackMe | Henrique | [Read More](https://medium.com/p/22dd4e3b50ad) |
+| Sun, 19 Apr 2026 02:02:00 GMT | Performance Optimization: Making Your App Lightning Fast | Yakhilesh | [Read More](https://medium.com/p/99c4468c2bec) |
+| Sun, 19 Apr 2026 02:01:28 GMT | Latest Metrics Show AI Models Surpassing Humans | Matthew.Rosenquist | [Read More](https://medium.com/p/b53a64c2ab82) |
+| Sun, 19 Apr 2026 01:40:09 GMT | Cyber-Fraud and Institutional Integrity: A Global Risk Assessment Brief | ObserIQ Insights | [Read More](https://medium.com/p/e3c609a60a4b) |
+| Sun, 19 Apr 2026 01:17:06 GMT | ⚙️ Security Misconfigurations — The Easy Wins Most Hunters Miss | ghostyjoe | [Read More](https://medium.com/p/4dce0b06e311) |
+| Sun, 19 Apr 2026 01:05:03 GMT | The Global Ransomware Architecture, Threat Actor Tactics, and Advanced Exploitation Methodologies | David SEHYEON Baek | [Read More](https://medium.com/p/e40e50415fd3) |
+| Sun, 19 Apr 2026 01:03:11 GMT | TryHackMe: Intro to LAN — A Comprehensive Guide to Network Fundamentals | Jonathan Sanfer | [Read More](https://medium.com/p/31dd93267776) |
+| Sun, 19 Apr 2026 01:00:12 GMT | The Strength of Asking for Help | Yusuf Amos Wakawa | [Read More](https://medium.com/p/5c28d3438ffb) |
+| Sun, 19 Apr 2026 00:01:01 GMT | Zero Trust Is Not a Framework. It Is a Mindset Shift Your Team Keeps Delaying. | Hafiq Iqmal | [Read More](https://medium.com/p/b883768db602) |
+| Sat, 18 Apr 2026 23:59:09 GMT | Cybersecurity & AI-powered threats | Technoyard | [Read More](https://medium.com/p/7604293a8de4) |
 | Sat, 18 Apr 2026 23:22:27 GMT | Trump’s Deadline: Peace or Bombs in the Gulf? | Raquel Castro | [Read More](https://medium.com/p/ea6adb0c07b5) |
 | Sat, 18 Apr 2026 23:15:09 GMT | Day-6: Let’s do some labs on CSRF | zero_day | [Read More](https://medium.com/p/f22af85e2a32) |
 | Sat, 18 Apr 2026 23:13:06 GMT | I Tested an LLM-Powered Honeypot. It broke in a few commands. | Who? Tao | [Read More](https://medium.com/p/6ecd6d6b21e5) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 16:55:56 GMT | CAPA: THE BASICS LINUXENICORP WRITEUP | hihipro | [Read More](https://medium.com/p/2487e54f6305) |
 | Sat, 18 Apr 2026 16:55:13 GMT | I spent two weeks training a 7B model to find security bugs. Here’s every mistake I made. | Vito Rallo | [Read More](https://medium.com/p/2f03f7bf90a7) |
 | Sat, 18 Apr 2026 16:54:11 GMT | NMAP: LIVE HOST DISCOVERY LINUXENIC WRITEUP | hihipro | [Read More](https://medium.com/p/b3eb632fa901) |
-| Sat, 18 Apr 2026 16:54:00 GMT | Threat Guard: An Intelligent Document and Executable Threat Detection Platform | Piyush Jha | [Read More](https://medium.com/p/1709287d178b) |
-| Sat, 18 Apr 2026 16:52:51 GMT | Why your brain starts its first lap before the world wakes up | Hugo Pan | [Read More](https://medium.com/p/83149b40bd10) |
-| Sat, 18 Apr 2026 16:47:07 GMT | Steel Mountain — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/8aac5438e9bc) |
-| Sat, 18 Apr 2026 16:44:13 GMT | Your AI Agent Has Root Access. Did Anyone Actually Think About That? | Opnaruto | [Read More](https://medium.com/p/e037f43d011b) |
-| Sat, 18 Apr 2026 16:35:41 GMT | 10 Mistakes Every Cybersecurity Beginner Makes (And How I Fixed Mine) | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/f7795a10fcbc) |
-| Sat, 18 Apr 2026 16:14:19 GMT | Reflected XSS | 13v! ⚔️ | [Read More](https://medium.com/p/8d8ad33609d4) |
-| Sat, 18 Apr 2026 16:02:30 GMT | When the Protector Becomes the Vector: Exploiting Microsoft Defender | Shane Haynes | [Read More](https://medium.com/p/966d5e600496) |
-| Sat, 18 Apr 2026 16:01:01 GMT | Shipping CRM Integrations Safely: Security, Rollout Strategy, and Vendor Reality | Nikhith | [Read More](https://medium.com/p/725235ba73e6) |
-| Sat, 18 Apr 2026 15:41:59 GMT | Your Flutter App Is Leaking Secrets — And You Don’t Know It | Sayed | [Read More](https://medium.com/p/e58dac03de92) |
-| Sat, 18 Apr 2026 15:37:22 GMT | Managing Role Hierarchy in Casbin (RBAC with Inheritance) — Banking Use Case | Amarjeet Prajapati | [Read More](https://medium.com/p/39aac48f636a) |
-| Sat, 18 Apr 2026 15:35:02 GMT | Banking Session Hijacking: The Invisible Threat in Your Third-Party Scripts | Smaan | [Read More](https://medium.com/p/483663551653) |
-| Sat, 18 Apr 2026 15:34:41 GMT | How Scam Recovery Works, and What to Expect | Alstilesworks | [Read More](https://medium.com/p/829b2aa25a97) |
-| Sat, 18 Apr 2026 15:30:29 GMT | AI-Driven Red Teaming in 2026: From Assistants to Autonomous Offensive Systems | Muslim | [Read More](https://medium.com/p/c8f9d7075f8c) |
-| Sat, 18 Apr 2026 15:30:00 GMT | Kobold-HTB(Think, Enumerate, Repeat) | Younes ADRAOUI | [Read More](https://medium.com/p/e902c9c0cc12) |
-| Sat, 18 Apr 2026 15:29:22 GMT | CyberDefenders — Brave Lab Writeup | JBXSec | [Read More](https://medium.com/p/78a66e9c886e) |
