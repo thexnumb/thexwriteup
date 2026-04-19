@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 21:14:53 GMT | Building a Risk Register from Scratch: A Practical Exercise | Risk & Record | [Read More](https://medium.com/p/e53dcffc6ce9) |
+| Sun, 19 Apr 2026 21:10:50 GMT | EJPTv2 Cert Review | 0cifer | [Read More](https://medium.com/p/cfd4bd715381) |
+| Sun, 19 Apr 2026 21:05:28 GMT | Why AI Security Fails at the Integration Layer | Red Asgard | [Read More](https://medium.com/p/019b427560f7) |
+| Sun, 19 Apr 2026 21:05:23 GMT | Behind the Scenes of a Romance Scam Operation | user32 | [Read More](https://medium.com/p/ddcec88d10ef) |
+| Sun, 19 Apr 2026 20:52:22 GMT | Inside the CIA’s AI Revolution: How HUMINT, Cybersecurity, and Quantum Computing Are Redefining… | Robert Morton | [Read More](https://medium.com/p/b41d7585f530) |
+| Sun, 19 Apr 2026 20:51:01 GMT | Everything that actually happened in AI this week | A D | [Read More](https://medium.com/p/f9066c8a0f58) |
 | Sun, 19 Apr 2026 20:42:19 GMT | Intermediate Practical Malware Analysis Course | S12 - 0x12Dark Development | [Read More](https://medium.com/p/6e3938c4443b) |
 | Sun, 19 Apr 2026 20:40:25 GMT | Your LLM Is Not the Privacy Risk | Molka Trabelsi | [Read More](https://medium.com/p/f518ff5a7ce2) |
 | Sun, 19 Apr 2026 20:31:18 GMT | Why Your HashMap Is Creating Duplicate Entries (And How equals() and hashCode() Save the Day) | Vikas Reddy | [Read More](https://medium.com/p/6161968471a1) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Apr 2026 14:23:40 GMT | Claude Mythos and the Dawn of Agentic Cyber-Offense | RME | [Read More](https://medium.com/p/51c9e1436741) |
 | Sun, 19 Apr 2026 14:08:01 GMT | Docker Security Best Practices | Fabius lihanda | [Read More](https://medium.com/p/238589c1ea16) |
 | Sun, 19 Apr 2026 14:00:46 GMT | Kioptrix: Level 1 — VulnHub Walkthrough OpenFuck Apache Exploit to Root via ptrace/kmod | Punih3r7 | [Read More](https://medium.com/p/95ef4fea31b4) |
-| Sun, 19 Apr 2026 13:56:54 GMT | Unlock Your Cloud Security Career in 2026 — Save 25% Today (Limited Offer) | John Ray | [Read More](https://medium.com/p/b9d6f689e87c) |
-| Sun, 19 Apr 2026 13:52:14 GMT | How I Found an Unauthenticated POST Endpoint in a Production API -A Real Bug Bounty Story | Md Zishan Firoz | [Read More](https://medium.com/p/f706957d0702) |
-| Sun, 19 Apr 2026 13:51:13 GMT | Oracle VirtualBox: Lokal Ortamınızda Sanal Makineler Kurun | Emircan Akyuz - AI & RPA Developer | [Read More](https://medium.com/p/ce0e1c478c84) |
-| Sun, 19 Apr 2026 13:44:45 GMT | Wi-Fi 7 for Business: Why Cisco Meraki’s Latest Access Points Are a Ga | Novbox | [Read More](https://medium.com/p/27c9fe8848ee) |
-| Sun, 19 Apr 2026 13:39:54 GMT | Sourcing Hack with Cursor: ATS Reverse-Engineering for Scalable Candidate Discovery | Diane Rocher | [Read More](https://medium.com/p/4522fdd0b47e) |
-| Sun, 19 Apr 2026 13:39:48 GMT | Workforce Salary Dynamics Analysis | Odinakachi Nnuforole | [Read More](https://medium.com/p/b0b6077d4519) |
