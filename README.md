@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 08:31:42 GMT | Cybersecurity Careers: Pick Your Side (Blue Team vs Red Team for Beginners) | Badshahacking | [Read More](https://medium.com/p/23356ba623b6) |
+| Sun, 19 Apr 2026 08:22:50 GMT | The LLM Hacking Playbook: Finding Prompt Injection & AI Vulnerabilities for Bounties | BugHunter’s Journal | [Read More](https://medium.com/p/fc89ece52ddd) |
+| Sun, 19 Apr 2026 08:20:38 GMT | Linux in 2026: Why Millions Are Switching Away from Windows for Good | Infinity Matrix | [Read More](https://medium.com/p/de104855bcdb) |
+| Sun, 19 Apr 2026 08:11:10 GMT | Semantic leakage: the silent risk of LLM agents in production. | Farhani Wajdi | [Read More](https://medium.com/p/038f967569a6) |
+| Sun, 19 Apr 2026 08:10:46 GMT | Best summer internship in artificial intelligence for beginners | cyber security Updates | [Read More](https://medium.com/p/5bdacbf14218) |
+| Sun, 19 Apr 2026 08:06:46 GMT | The "Informative" Trap: A Bug Bounty Autopsy | Alareqi | [Read More](https://medium.com/p/ed8628fb0cde) |
+| Sun, 19 Apr 2026 08:04:24 GMT | AI Isn’t Just Helping You Work Faster Anymore… It’s Learning How to Attack | Dr. Shreyash Tikar | [Read More](https://medium.com/p/8f616966ee61) |
+| Sun, 19 Apr 2026 07:55:24 GMT | How Broadway Gaming Achieved PCI DSS 4.0.1 Compliance | Oran F | [Read More](https://medium.com/p/b4a5f808ca84) |
+| Sun, 19 Apr 2026 07:50:10 GMT | In 2026, transform a recovery-based MVE into an MVDE that can create “unaffected” digital business | Agnidipta Sarkar | [Read More](https://medium.com/p/2f93588bfe7a) |
+| Sun, 19 Apr 2026 07:46:55 GMT | Helium Challenge Batch 2 Write-Up : Menemukan 3 Kerentanan Kritis di Aplikasi Job Portal | SubzXD | [Read More](https://medium.com/p/61d461bc73ba) |
+| Sun, 19 Apr 2026 07:42:50 GMT | the divine geometry of a billion faces | chi | [Read More](https://medium.com/p/aa21f89b1a14) |
+| Sun, 19 Apr 2026 07:38:58 GMT | Mobile Security in 2026: Threats, Risks & Best Practices to Stay Safe | Dhanashree | [Read More](https://medium.com/p/045278e87ad2) |
+| Sun, 19 Apr 2026 07:23:27 GMT | How I Crashed a Blockchain Node with a Single Vote (CVE-2026–40583) | Sumit Shah (HackSage) | [Read More](https://medium.com/p/b6dc61d44033) |
+| Sun, 19 Apr 2026 07:13:38 GMT | Post 4 — How Threat Actors Will Adapt During the Post‑Quantum Transition | Leonard Okyere Afeke | [Read More](https://medium.com/p/4c86f2166134) |
 | Sun, 19 Apr 2026 07:10:14 GMT | The Emotional Lifecycle of a Bug | Mahek Sota | [Read More](https://medium.com/p/b74aeba47d1d) |
 | Sun, 19 Apr 2026 07:00:41 GMT | Safety | Martin Bartlett | [Read More](https://medium.com/p/14255fdc87b2) |
 | Sun, 19 Apr 2026 06:56:39 GMT | Securing Infrastructure as Code: Terraform Security Fundamentals | SwayamOps | [Read More](https://medium.com/p/f198c3397673) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 20:40:10 GMT | The Compound Bug: When Two Quiet Flaws Conspire | Paul Pounder | [Read More](https://medium.com/p/a1c719c7a460) |
 | Sat, 18 Apr 2026 20:38:17 GMT | How I Found an Exposed Google Maps API Key in a Production Config File | Hacker MD | [Read More](https://medium.com/p/53453b909521) |
 | Sat, 18 Apr 2026 20:26:17 GMT | I Automated the Passive Reconnaissance Process I Learned in Class | Angle Gray | [Read More](https://medium.com/p/e0a090808b51) |
-| Sat, 18 Apr 2026 20:19:59 GMT | Zero-Day Reality Check: 6 Actively Exploited CVEs Targeting Fortinet, Microsoft & Adobe | Diya TK | [Read More](https://medium.com/p/07aed48c35b5) |
-| Sat, 18 Apr 2026 20:14:06 GMT | Claude’s 2025 Privacy Reversal: Why Your Private Chat Is Now Training Data for 5 Years (and What to… | Sérgio Caiado | [Read More](https://medium.com/p/f171039cdbbf) |
-| Sat, 18 Apr 2026 20:01:01 GMT | Natural Capital, Deep Time, and What Refuses to Be Measured | Yoshikokawakami | [Read More](https://medium.com/p/4bf8448f9d92) |
-| Sat, 18 Apr 2026 19:59:21 GMT | Try Hack Me- Anthem Walkthrough | PulseEinher | [Read More](https://medium.com/p/7b619e254efe) |
-| Sat, 18 Apr 2026 19:54:04 GMT | Four Ways to Steal a Syscall: Binary Rewriting vs. the Alternatives | Aoi Aioi | [Read More](https://medium.com/p/d4b4b7266b4f) |
-| Sat, 18 Apr 2026 19:49:17 GMT | Bash Scripting for Beginners | byteforensics | [Read More](https://medium.com/p/f32d8007184c) |
-| Sat, 18 Apr 2026 19:45:33 GMT | AI Forensics (THM) Tryhackme WriteUp and Answer | Lawvye | [Read More](https://medium.com/p/d1894690af48) |
-| Sat, 18 Apr 2026 19:42:58 GMT | The Deadlock of Sovereignty: Security Zones vs. Territorial Integrity in Lebanon | Golda Mizrahi | [Read More](https://medium.com/p/0e8aa5f45c26) |
-| Sat, 18 Apr 2026 19:41:51 GMT | Week 3 of Defensive Security | Muhammad Uzair | [Read More](https://medium.com/p/1fecde08dfb8) |
-| Sat, 18 Apr 2026 19:29:56 GMT | Rapport d’audit de sécurité (Test d’intrusion Mercury) | Nourselmi | [Read More](https://medium.com/p/d4441bf2fe3c) |
-| Sat, 18 Apr 2026 19:27:05 GMT | AI and IT — Renaissance or Collision? | Andrew Watts | [Read More](https://medium.com/p/4f590ec70740) |
-| Sat, 18 Apr 2026 19:20:26 GMT | Payment Systems — Designed for Adversarial Behaviour | Lekshmana Perumal | [Read More](https://medium.com/p/59a308af029c) |
-| Sat, 18 Apr 2026 19:16:01 GMT | TryHackMe: Net Sec Challenge Writeup | Robert Gooding | [Read More](https://medium.com/p/af81dad23c10) |
-| Sat, 18 Apr 2026 19:06:01 GMT | When Should You Start Hypothesis-Driven Investigation During Triage? | InfosecPandey | [Read More](https://medium.com/p/a8006688d5a4) |
