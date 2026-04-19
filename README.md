@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 23:25:31 GMT | OverTheWire Natas 11 -> 12 Walkthrough | FS Stance | [Read More](https://medium.com/p/b5f9d47618ec) |
+| Sun, 19 Apr 2026 23:25:03 GMT | How I Conquered 27 CTF Challenges at a Professional Cybersecurity Conference (And Clapped for Every… | Chaitanya Garware | [Read More](https://medium.com/p/0a1dd38ebbbc) |
+| Sun, 19 Apr 2026 23:22:35 GMT | I Became My Own Advice, Before Life Broke Me. | Lucinda Victor/The Woman I'm Becoming | [Read More](https://medium.com/p/5723be6abadc) |
+| Sun, 19 Apr 2026 23:22:31 GMT | Anthropic’s Mythos and Project Glasswing: Under the Hood of Trust and Narrative Control | Axier Jon | [Read More](https://medium.com/p/8e5ce506f1d7) |
+| Sun, 19 Apr 2026 23:08:14 GMT | Easy Security agents workflow to review PRs on Azure , Github and Gitlab | Jay@ Thinkode AI + | [Read More](https://medium.com/p/d4d6a47ec073) |
+| Sun, 19 Apr 2026 23:07:08 GMT | Apple Background Security Improvements: A Smarter Way to Patch Your iPhone and Mac Between Updates | www.OneCoolTip.com | [Read More](https://medium.com/p/7969c2b37933) |
+| Sun, 19 Apr 2026 23:02:42 GMT | From Second-Order SQLi to Full RCE: Breaking Through Filters in a Multi-Tenant Export Engine | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/5e4756c29acd) |
+| Sun, 19 Apr 2026 23:01:01 GMT | StumbleSOC Stories: The Teams Call Compromise | Drew Arpino | [Read More](https://medium.com/p/9299597fa4d8) |
+| Sun, 19 Apr 2026 22:51:56 GMT | Debug Disaster | uncle | [Read More](https://medium.com/p/0b9a7eb2e0b0) |
+| Sun, 19 Apr 2026 22:49:14 GMT | HTB Academy — Web Fuzzing Skills Assessment Writeup | Ahmed Hassan | [Read More](https://medium.com/p/5593e893a5ce) |
+| Sun, 19 Apr 2026 22:46:07 GMT | Relay as the Defense Layer for AI Agent Traps | Relay Network | [Read More](https://medium.com/p/24ef773ccf90) |
+| Sun, 19 Apr 2026 22:41:00 GMT | A Massive Problem | uncle | [Read More](https://medium.com/p/ca59ccdfd025) |
 | Sun, 19 Apr 2026 22:10:19 GMT | Distributed Systems Security | Petersmuditha | [Read More](https://medium.com/p/de37af02bccd) |
 | Sun, 19 Apr 2026 22:04:07 GMT | I Built a Tool That Simulates and Detects Linux Rootkits | Angle Gray | [Read More](https://medium.com/p/a7f4d53795fd) |
 | Sun, 19 Apr 2026 22:01:27 GMT | Do Lagosians Know the Emergency Number? Why Seconds Matter in an Emergency | Rapid Emergency System | [Read More](https://medium.com/p/3886a85f81ca) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Apr 2026 15:24:02 GMT | API Security Mistakes That Still Hurt Small Businesses in 2026 | NMA iT Service | [Read More](https://medium.com/p/c083a1942b04) |
 | Sun, 19 Apr 2026 15:21:23 GMT | Quarter Shift (GraphQL + SSRF) WebVerse | 7s26Simon | [Read More](https://medium.com/p/99b7516526d1) |
 | Sun, 19 Apr 2026 15:11:29 GMT | Prompt Injection TryHackMe Walkthrough (THM Room) | Pyae Sone | [Read More](https://medium.com/p/e1689f4f3615) |
-| Sun, 19 Apr 2026 15:06:03 GMT | Penetration Testing for SOC 2: Why Most SaaS Apps Still Fail Security | Pentest_Testing_Corp | [Read More](https://medium.com/p/159e2bc0071d) |
-| Sun, 19 Apr 2026 15:04:20 GMT | Learn Wireshark for CTF: Beginner’s Guide to Packet Analysis & Capture the Flag Challenges | Md. Ibrahim Reza Rabbi | [Read More](https://medium.com/p/91da49a72f30) |
-| Sun, 19 Apr 2026 15:01:01 GMT | Most Startups Are Not Prepared for a Security Incident. Even If They Think They Are. | Abhishek Pahuja | [Read More](https://medium.com/p/391c1c032492) |
-| Sun, 19 Apr 2026 14:57:02 GMT | The Intimacy of “Parallel Play”: Why the Quietest Moments Are the Loudest | Vanshika Choudhary | [Read More](https://medium.com/p/cbe6bad2ff85) |
-| Sun, 19 Apr 2026 14:56:03 GMT | How to Learn Python for Free in 2026 (Without Getting Lost in 100+ Courses) | Niharika | [Read More](https://medium.com/p/6c14e5a013fc) |
-| Sun, 19 Apr 2026 14:52:06 GMT | I was interrogated by the NSA | Pramesh Sharma | [Read More](https://medium.com/p/a854a523b91b) |
-| Sun, 19 Apr 2026 14:51:19 GMT | *Title: Error 404: Conscience Not Found* | Writer From Pakistan | [Read More](https://medium.com/p/249e929926ba) |
-| Sun, 19 Apr 2026 14:50:43 GMT | Adding CSP Headers to Keycloak Pages and API Responses | allen jose | [Read More](https://medium.com/p/91a8a4bfc4e1) |
-| Sun, 19 Apr 2026 14:45:56 GMT | I Tried Learning Programming the “Hard” Way First. Here’s What Actually Works in 2026 | Niharika | [Read More](https://medium.com/p/3ce391b9f3bf) |
-| Sun, 19 Apr 2026 14:39:14 GMT | डिजिटल युगातील सुरक्षा कवच: सायबर सुरक्षा (Cyber Security)
-​नमस्कार मित्रांनो! | Adiba Sayyed | [Read More](https://medium.com/p/bca5ad8d529b) |
-| Sun, 19 Apr 2026 14:38:42 GMT | Zero Trust Architecture in 2026 | Vishwas Mandpe | [Read More](https://medium.com/p/f58b22de1ca0) |
-| Sun, 19 Apr 2026 14:37:01 GMT | Model Card Security Audit Example - TryHackMe — AI Models & Data | Kate D Terracore | [Read More](https://medium.com/p/224a0b58b5d8) |
