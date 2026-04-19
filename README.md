@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 14:00:46 GMT | Kioptrix: Level 1 — VulnHub Walkthrough OpenFuck Apache Exploit to Root via ptrace/kmod | Punih3r7 | [Read More](https://medium.com/p/95ef4fea31b4) |
+| Sun, 19 Apr 2026 13:56:54 GMT | Unlock Your Cloud Security Career in 2026 — Save 25% Today (Limited Offer) | John Ray | [Read More](https://medium.com/p/b9d6f689e87c) |
+| Sun, 19 Apr 2026 13:52:14 GMT | How I Found an Unauthenticated POST Endpoint in a Production API -A Real Bug Bounty Story | Md Zishan Firoz | [Read More](https://medium.com/p/f706957d0702) |
+| Sun, 19 Apr 2026 13:51:13 GMT | Oracle VirtualBox: Lokal Ortamınızda Sanal Makineler Kurun | Emircan Akyuz - AI & RPA Developer | [Read More](https://medium.com/p/ce0e1c478c84) |
+| Sun, 19 Apr 2026 13:44:45 GMT | Wi-Fi 7 for Business: Why Cisco Meraki’s Latest Access Points Are a Ga | Novbox | [Read More](https://medium.com/p/27c9fe8848ee) |
+| Sun, 19 Apr 2026 13:39:54 GMT | Sourcing Hack with Cursor: ATS Reverse-Engineering for Scalable Candidate Discovery | Diane Rocher | [Read More](https://medium.com/p/4522fdd0b47e) |
+| Sun, 19 Apr 2026 13:39:48 GMT | Workforce Salary Dynamics Analysis | Odinakachi Nnuforole | [Read More](https://medium.com/p/b0b6077d4519) |
+| Sun, 19 Apr 2026 13:39:09 GMT | Bilgisayarınızın Sanallaştırma Teknolojisini VirtualBox’ın Emrine Vermek | Emircan Akyuz - AI & RPA Developer | [Read More](https://medium.com/p/3b5b7a08ad6f) |
+| Sun, 19 Apr 2026 13:38:55 GMT | I Found 21 Security Holes in SaaS a Week Before Launch | MUHAMMED HASAN GÜÇLÜ | [Read More](https://medium.com/p/d8d05f73cd0f) |
+| Sun, 19 Apr 2026 13:36:00 GMT | How to Build a Safe AI Agent with Execution Control (Step-by-Step Guide) | Rakeshkhanduja | [Read More](https://medium.com/p/eb7e621d8776) |
+| Sun, 19 Apr 2026 13:32:31 GMT | When the System Hands Your Trauma Back to the World | The Lies My ‘Loverboy’ Told Me | [Read More](https://medium.com/p/56ffa0529260) |
+| Sun, 19 Apr 2026 13:31:06 GMT | Professional Kali Linux (2026.1+) Post-Installation Setup with Bash | fsocietyhub | [Read More](https://medium.com/p/4a78439d6af1) |
+| Sun, 19 Apr 2026 13:27:37 GMT | The Responsibility and Life of a SOC Analyst | Muzammil memon | [Read More](https://medium.com/p/179c9243590b) |
+| Sun, 19 Apr 2026 13:22:56 GMT | “I” hacked the bus wifi to get unlimited connection. | Oscar | [Read More](https://medium.com/p/6825946e1bbd) |
+| Sun, 19 Apr 2026 13:21:29 GMT | LLM Security Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/5fe1918f7a71) |
+| Sun, 19 Apr 2026 13:21:17 GMT | Break Into Cybersecurity in 2026 — Start Your GSEC Prep the Smart Way | Mirzarashidbaig | [Read More](https://medium.com/p/4e36db6a15cf) |
+| Sun, 19 Apr 2026 13:10:42 GMT | Master Cybersecurity & Ethical Hacking — Start Your Career in the Real Digital Battlefield | Johnlewisnyc | [Read More](https://medium.com/p/eea762e281b9) |
+| Sun, 19 Apr 2026 13:07:19 GMT | The Silent Shed: What Forgotten Spaces Teach Us About Digital Neglect | Ed-it Editions | [Read More](https://medium.com/p/36e7e64dab37) |
+| Sun, 19 Apr 2026 13:05:22 GMT | How Hackers Actually Hack Instagram Accounts (Real Methods Explained) | Atharv Ambade | [Read More](https://medium.com/p/dc1e9c388ec8) |
 | Sun, 19 Apr 2026 12:56:45 GMT | I Wanted Masscan Speed With Nmap Stealth — So I Built ZeroMap | Prince Patel aka Z3R0 | [Read More](https://medium.com/p/c18589f1ce51) |
 | Sun, 19 Apr 2026 12:55:29 GMT | ContAInment: AI Security TryHackMe | Shubham Kumar | [Read More](https://medium.com/p/1fee40191982) |
 | Sun, 19 Apr 2026 12:46:32 GMT | Phishing | Omarani | [Read More](https://medium.com/p/b445037ad45c) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Apr 2026 08:06:46 GMT | The "Informative" Trap: A Bug Bounty Autopsy | Alareqi | [Read More](https://medium.com/p/ed8628fb0cde) |
 | Sun, 19 Apr 2026 08:04:24 GMT | AI Isn’t Just Helping You Work Faster Anymore… It’s Learning How to Attack | Dr. Shreyash Tikar | [Read More](https://medium.com/p/8f616966ee61) |
 | Sun, 19 Apr 2026 07:55:24 GMT | How Broadway Gaming Achieved PCI DSS 4.0.1 Compliance | Oran F | [Read More](https://medium.com/p/b4a5f808ca84) |
-| Sun, 19 Apr 2026 07:50:10 GMT | In 2026, transform a recovery-based MVE into an MVDE that can create “unaffected” digital business | Agnidipta Sarkar | [Read More](https://medium.com/p/2f93588bfe7a) |
-| Sun, 19 Apr 2026 07:46:55 GMT | Helium Challenge Batch 2 Write-Up : Menemukan 3 Kerentanan Kritis di Aplikasi Job Portal | SubzXD | [Read More](https://medium.com/p/61d461bc73ba) |
-| Sun, 19 Apr 2026 07:42:50 GMT | the divine geometry of a billion faces | chi | [Read More](https://medium.com/p/aa21f89b1a14) |
-| Sun, 19 Apr 2026 07:38:58 GMT | Mobile Security in 2026: Threats, Risks & Best Practices to Stay Safe | Dhanashree | [Read More](https://medium.com/p/045278e87ad2) |
-| Sun, 19 Apr 2026 07:23:27 GMT | How I Crashed a Blockchain Node with a Single Vote (CVE-2026–40583) | Sumit Shah (HackSage) | [Read More](https://medium.com/p/b6dc61d44033) |
-| Sun, 19 Apr 2026 07:13:38 GMT | Post 4 — How Threat Actors Will Adapt During the Post‑Quantum Transition | Leonard Okyere Afeke | [Read More](https://medium.com/p/4c86f2166134) |
-| Sun, 19 Apr 2026 07:10:14 GMT | The Emotional Lifecycle of a Bug | Mahek Sota | [Read More](https://medium.com/p/b74aeba47d1d) |
-| Sun, 19 Apr 2026 07:00:41 GMT | Safety | Martin Bartlett | [Read More](https://medium.com/p/14255fdc87b2) |
-| Sun, 19 Apr 2026 06:56:39 GMT | Securing Infrastructure as Code: Terraform Security Fundamentals | SwayamOps | [Read More](https://medium.com/p/f198c3397673) |
-| Sun, 19 Apr 2026 06:46:06 GMT | BYOVD Explained — How Attackers Use Signed Drivers to Kill EDRs | Nimesh nakum | [Read More](https://medium.com/p/37a96bde4094) |
-| Sun, 19 Apr 2026 06:44:30 GMT | Is love scary? | mellsarchive | [Read More](https://medium.com/p/0c3d78e9dfa7) |
-| Sun, 19 Apr 2026 06:39:18 GMT | The Day My Mom Outsmarted a Production System | Vikrant Dheer | [Read More](https://medium.com/p/3bee43990142) |
-| Sun, 19 Apr 2026 06:25:55 GMT | The 6 Attack Dimensions on Enterprise AI Agents That OWASP Does Not Cover | Sumit Giri | [Read More](https://medium.com/p/522d3520f0dc) |
-| Sun, 19 Apr 2026 06:24:00 GMT | TryHackMe — AI Security: AI/ML Security Threats | Lazy Robot | [Read More](https://medium.com/p/2bf117ecca31) |
-| Sun, 19 Apr 2026 06:18:11 GMT | Too Many Features, Not Enough Value: Fixing CNAPP in India | Always learning | [Read More](https://medium.com/p/0aff886402e4) |
-| Sun, 19 Apr 2026 06:14:24 GMT | Subdomain Takeover — Owning Forgotten Assets | ghostyjoe | [Read More](https://medium.com/p/efd81c131ebf) |
-| Sun, 19 Apr 2026 06:07:55 GMT | Zero-Trust System Design: How We Used JWT as an Immutable Context Boundary in Spring-Boot… | Parthsinh Thakor | [Read More](https://medium.com/p/42924aae086f) |
-| Sun, 19 Apr 2026 06:05:01 GMT | Vulota.com: The Rising Cybersecurity Platform for Modern Threat Intelligence | Elliot Alderson | [Read More](https://medium.com/p/0780f14a854c) |
-| Sun, 19 Apr 2026 06:01:31 GMT | My First 10 Days on TryHackMe: A Complete Beginner’s Journey | Farhan | [Read More](https://medium.com/p/4c171994f87d) |
