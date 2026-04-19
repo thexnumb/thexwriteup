@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 18:01:32 GMT | Reducing token burn, Anthropic Mythos, How I use AI for pentesting | Teri Radichel | [Read More](https://medium.com/p/2641e69348e7) |
+| Sun, 19 Apr 2026 17:56:24 GMT | A Complete Guide to Unified Threat Detection Across Cloud, Network & Endpoints | Secgenie AI | [Read More](https://medium.com/p/1daabb628cec) |
+| Sun, 19 Apr 2026 17:53:32 GMT | Beyond the Firewall: A Technical Post-Mortem of the 2022 Uber Breach | The Kernel Hub | [Read More](https://medium.com/p/f9f08ae343b7) |
+| Sun, 19 Apr 2026 17:52:54 GMT | Manually Building a Vulnerable Active Directory Homelab from Scratch | Yamen Idriss | [Read More](https://medium.com/p/51f054f3301f) |
+| Sun, 19 Apr 2026 17:44:45 GMT | Reaction vs Proaction in CyberSecurity | Syed Talha | [Read More](https://medium.com/p/4d2680c7a503) |
+| Sun, 19 Apr 2026 17:40:34 GMT | Developers Beware: This Hiring Scam Can Compromise Your Laptop | Nicolas Fez | [Read More](https://medium.com/p/033dd0d8efe3) |
+| Sun, 19 Apr 2026 17:38:32 GMT | Authentication & Authorization — Path to Laravel (Article 13)️ | Dinushka Tharidu | [Read More](https://medium.com/p/0332cb835745) |
+| Sun, 19 Apr 2026 17:36:01 GMT | When Qubits Go to War: Quantum Computing, Cyber Warfare, and the Law | Bastian Friborg | [Read More](https://medium.com/p/4d3bf1c58067) |
+| Sun, 19 Apr 2026 17:34:31 GMT | “Never Trust, Always Verify” — Why Zero Trust Network Access (ZTNA) Is the Future of… | Kaniskraj | [Read More](https://medium.com/p/5cc0099af719) |
+| Sun, 19 Apr 2026 17:28:00 GMT | Your Rate Limit Didn’t Fail — You Just Met a Race Condition | Athiqul hasan Momin | [Read More](https://medium.com/p/668069c9261b) |
+| Sun, 19 Apr 2026 17:27:16 GMT | An Ode to Vulnerability | L | [Read More](https://medium.com/p/b244d4b2c7c4) |
+| Sun, 19 Apr 2026 17:24:05 GMT | Learning Fortinet Firewall — LESSON XX: High Availability | Rouell Mamaril | [Read More](https://medium.com/p/6a0bc1dcf649) |
+| Sun, 19 Apr 2026 17:19:13 GMT | TryHackMe: Invite Only - Write-Up | Ash T | [Read More](https://medium.com/p/3a110ce571da) |
+| Sun, 19 Apr 2026 17:14:17 GMT | Secure Key Agreement with ECC: ECDHE | Luis Santiago | [Read More](https://medium.com/p/7e2cb49dfa52) |
+| Sun, 19 Apr 2026 17:13:12 GMT | Hardware Hacking Survival: Bypassing PC Limitations to Flash a Bootable Kali Linux ISO | Internet Thvm | [Read More](https://medium.com/p/3c1576b7ac4a) |
+| Sun, 19 Apr 2026 17:11:21 GMT | How DFIR Timeline Analysis Actually Works | seif | [Read More](https://medium.com/p/c4c360142569) |
+| Sun, 19 Apr 2026 17:08:23 GMT | Your WiFi Signal Is Watching You Sleep | Urano10 | [Read More](https://medium.com/p/ccf6d362194c) |
 | Sun, 19 Apr 2026 16:53:18 GMT | BTLO Write-up Phishy (v1) | Nuray Shiraliyeva | [Read More](https://medium.com/p/8fbedc49a561) |
 | Sun, 19 Apr 2026 16:37:09 GMT | India’s DPDP Act 2023: Why Compliance Is Now Mandatory for Every Company | Dracky4u | [Read More](https://medium.com/p/859583f14ce3) |
 | Sun, 19 Apr 2026 16:30:33 GMT | Python Libraries That Actually Matter for Data, ML, AI & Trending Tech Roles | Persis Tafflin | [Read More](https://medium.com/p/8f01a8602895) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Apr 2026 11:44:48 GMT | Self-Evolving AI Agents Are Here and They Write Their Own Protocols ! | Raviteja Nekkalapu | [Read More](https://medium.com/p/f3bcf13012a8) |
 | Sun, 19 Apr 2026 11:43:25 GMT | Level Up Your Cybersecurity Career in 2026 — Limited Time Offer! | Adilbaignyc | [Read More](https://medium.com/p/e7e93fb44766) |
 | Sun, 19 Apr 2026 11:38:03 GMT | Level Up Your IT Career — Don’t Miss This Limited-Time Deal! | Adilbaignyc | [Read More](https://medium.com/p/c36c4589a61b) |
-| Sun, 19 Apr 2026 11:31:54 GMT | Search Engine Discovery & Google Dorking: Turning Google into a Recon Weapon | Mert Baykal | [Read More](https://medium.com/p/7302c1342966) |
-| Sun, 19 Apr 2026 11:31:54 GMT | Stop Lying to Your Audit Trail | Simanta Sarma | [Read More](https://medium.com/p/f38245d84459) |
-| Sun, 19 Apr 2026 11:27:08 GMT | Hidden Entry Points: robots.txt + .well-known URIs in Web Recon | Mert Baykal | [Read More](https://medium.com/p/e2b3d56c477d) |
-| Sun, 19 Apr 2026 11:18:09 GMT | BSI C5 and NIST SP 800–53: A Practical Guide to Transatlantic Cloud Compliance | Sarah | [Read More](https://medium.com/p/481e7f46ad51) |
-| Sun, 19 Apr 2026 11:16:43 GMT | Hackear a Inteligência Artificial e os Riscos | BombasticBurgh | [Read More](https://medium.com/p/e0191fd9858e) |
-| Sun, 19 Apr 2026 11:15:56 GMT | Cách vào 28bet an toàn: những bước kiểm tra cần thiết năm 2026 | 報數十一員 | [Read More](https://medium.com/p/911095f30df6) |
-| Sun, 19 Apr 2026 11:07:45 GMT | Catching Network Intruders with Machine Learning: A Complete End-to-End Guide | Abhishek Mohata | [Read More](https://medium.com/p/f567ea4983c1) |
-| Sun, 19 Apr 2026 11:04:37 GMT | Connecting Microsoft Defender to Intune Settings: Endpoint Security + Device Management in One | Defend Microsoft365 now! | [Read More](https://medium.com/p/ffd17d66fa34) |
-| Sun, 19 Apr 2026 11:03:16 GMT | Hands-On IAM in AWS: A Cloud Security Engineer’s Guide to Users, Groups and Permissions | Victor Christian | [Read More](https://medium.com/p/dcecd20298b8) |
-| Sun, 19 Apr 2026 11:00:55 GMT | Deterministic Guardrail for Probabilistic Agents — Identity | Krishna Puranik | [Read More](https://medium.com/p/4763793e8513) |
-| Sun, 19 Apr 2026 11:00:28 GMT | A New Red Team Technique: Telemetry Visibility Gaps in Runtime Memory-Based Detection Pipelines | Azizcan Dastan | [Read More](https://medium.com/p/5f4e73442703) |
-| Sun, 19 Apr 2026 10:59:47 GMT | LLMGoat: Offensive LLM Security Environment | Liteshghute | [Read More](https://medium.com/p/cf5440aa708d) |
-| Sun, 19 Apr 2026 10:54:42 GMT | 網域治理危機：當「.tw」網域淪為 18 美金的詐騙溫床 | Gordon | [Read More](https://medium.com/p/982cb3bc8c15) |
-| Sun, 19 Apr 2026 10:51:29 GMT | Why I Thought I Found a Zero-Day: The False Positive Trap in Bug Bounty | Kakashi | [Read More](https://medium.com/p/3ec08e86fc99) |
-| Sun, 19 Apr 2026 10:43:17 GMT | DMARC alignment: why your perfectly-configured domain still fails | Jon Morby | [Read More](https://medium.com/p/43972b808c36) |
-| Sun, 19 Apr 2026 10:43:07 GMT | Inside a SOC: Why Good Tools Still Fail Without Maturity (My Analysis) | Juhaina.K | [Read More](https://medium.com/p/d16c54be1250) |
-| Sun, 19 Apr 2026 10:38:43 GMT | The Right to Privacy in the age of surveillance : | Adv. Dheerendra Patel | [Read More](https://medium.com/p/39a5f2220a8f) |
