@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 14:57:02 GMT | The Intimacy of “Parallel Play”: Why the Quietest Moments Are the Loudest | Vanshika Choudhary | [Read More](https://medium.com/p/cbe6bad2ff85) |
+| Sun, 19 Apr 2026 14:56:03 GMT | How to Learn Python for Free in 2026 (Without Getting Lost in 100+ Courses) | Niharika | [Read More](https://medium.com/p/6c14e5a013fc) |
+| Sun, 19 Apr 2026 14:52:06 GMT | I was interrogated by the NSA | Pramesh Sharma | [Read More](https://medium.com/p/a854a523b91b) |
+| Sun, 19 Apr 2026 14:51:19 GMT | *Title: Error 404: Conscience Not Found* | Writer From Pakistan | [Read More](https://medium.com/p/249e929926ba) |
+| Sun, 19 Apr 2026 14:50:43 GMT | Adding CSP Headers to Keycloak Pages and API Responses | allen jose | [Read More](https://medium.com/p/91a8a4bfc4e1) |
+| Sun, 19 Apr 2026 14:45:56 GMT | I Tried Learning Programming the “Hard” Way First. Here’s What Actually Works in 2026 | Niharika | [Read More](https://medium.com/p/3ce391b9f3bf) |
+| Sun, 19 Apr 2026 14:39:14 GMT | डिजिटल युगातील सुरक्षा कवच: सायबर सुरक्षा (Cyber Security)
+​नमस्कार मित्रांनो! | Adiba Sayyed | [Read More](https://medium.com/p/bca5ad8d529b) |
+| Sun, 19 Apr 2026 14:38:42 GMT | Zero Trust Architecture in 2026 | Vishwas Mandpe | [Read More](https://medium.com/p/f58b22de1ca0) |
+| Sun, 19 Apr 2026 14:37:01 GMT | Model Card Security Audit Example - TryHackMe — AI Models & Data | Kate D Terracore | [Read More](https://medium.com/p/224a0b58b5d8) |
+| Sun, 19 Apr 2026 14:32:25 GMT | On the Impossibility of Observability-Based Authorization: A Formal Impossibility Result for… | Edward Meyman | [Read More](https://medium.com/p/741412e4d1d5) |
+| Sun, 19 Apr 2026 14:32:07 GMT | Implementing OCI Security Zones for an Enterprise Landing Zone — Part 2 | Mohammed Abdul Omaise | [Read More](https://medium.com/p/3cdfb714145a) |
+| Sun, 19 Apr 2026 14:31:55 GMT | Web Security Series #15 — Exploiting Command Injection for Reverse Shell | Laibakashif | [Read More](https://medium.com/p/bc6c1d3b9aff) |
+| Sun, 19 Apr 2026 14:23:40 GMT | Claude Mythos and the Dawn of Agentic Cyber-Offense | RME | [Read More](https://medium.com/p/51c9e1436741) |
+| Sun, 19 Apr 2026 14:08:01 GMT | Docker Security Best Practices | Fabius lihanda | [Read More](https://medium.com/p/238589c1ea16) |
 | Sun, 19 Apr 2026 14:00:46 GMT | Kioptrix: Level 1 — VulnHub Walkthrough OpenFuck Apache Exploit to Root via ptrace/kmod | Punih3r7 | [Read More](https://medium.com/p/95ef4fea31b4) |
 | Sun, 19 Apr 2026 13:56:54 GMT | Unlock Your Cloud Security Career in 2026 — Save 25% Today (Limited Offer) | John Ray | [Read More](https://medium.com/p/b9d6f689e87c) |
 | Sun, 19 Apr 2026 13:52:14 GMT | How I Found an Unauthenticated POST Endpoint in a Production API -A Real Bug Bounty Story | Md Zishan Firoz | [Read More](https://medium.com/p/f706957d0702) |
@@ -98,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Apr 2026 09:16:48 GMT | 香港第653章生效：罰款高達500萬，你的 IT 架構是合規佐證還是審計盲點？ | Eagle Cloud | [Read More](https://medium.com/p/b2f22e6e964c) |
 | Sun, 19 Apr 2026 09:15:59 GMT | Gandalf AI 2: The Return | Marco Nappi | [Read More](https://medium.com/p/51ba33a17d2c) |
 | Sun, 19 Apr 2026 09:11:03 GMT | Is Your App Still Thinking About Your Ex-User? | Amit Srivastava | [Read More](https://medium.com/p/dce2989076d5) |
-| Sun, 19 Apr 2026 09:05:05 GMT | 7 Cloud Security checklists | Jitendra Rautela | [Read More](https://medium.com/p/d271784f4776) |
-| Sun, 19 Apr 2026 09:03:32 GMT | Why CVE Matching Is Not Enough: Reachability, Runtime, and Exploitability Analysis | Barış Ekin Yıldırım | [Read More](https://medium.com/p/8d31de4ed236) |
-| Sun, 19 Apr 2026 08:57:34 GMT | Kutuların Sessiz Dansı: Veri Paketini Kim, Nereye Gönderiyor? (Bölüm 3) | Yusuf Adıgüzel | [Read More](https://medium.com/p/455317fc57fc) |
-| Sun, 19 Apr 2026 08:34:55 GMT | Cracking Open the Black Box: A Practical Guide to IoT Firmware Analysis | Anindya Sankar Roy | [Read More](https://medium.com/p/808f289743d8) |
-| Sun, 19 Apr 2026 08:34:53 GMT | I Reverse-Engineered a 500MB AI Binary and Found 9 Security Bugs -Here’s Exactly How You Can Too | Vishesh Rawal | [Read More](https://medium.com/p/73253ec72a6b) |
-| Sun, 19 Apr 2026 08:31:42 GMT | Cybersecurity Careers: Pick Your Side (Blue Team vs Red Team for Beginners) | Badshahacking | [Read More](https://medium.com/p/23356ba623b6) |
-| Sun, 19 Apr 2026 08:31:01 GMT | Review Under Fire: Why Apple’s human reviewers are failing to catch “Nudify” and “Scam” apps. | apple insides | [Read More](https://medium.com/p/73bdc393f568) |
-| Sun, 19 Apr 2026 08:22:50 GMT | The LLM Hacking Playbook: Finding Prompt Injection & AI Vulnerabilities for Bounties | BugHunter’s Journal | [Read More](https://medium.com/p/fc89ece52ddd) |
-| Sun, 19 Apr 2026 08:20:38 GMT | Linux in 2026: Why Millions Are Switching Away from Windows for Good | Infinity Matrix | [Read More](https://medium.com/p/de104855bcdb) |
-| Sun, 19 Apr 2026 08:11:10 GMT | Semantic leakage: the silent risk of LLM agents in production. | Farhani Wajdi | [Read More](https://medium.com/p/038f967569a6) |
-| Sun, 19 Apr 2026 08:10:46 GMT | Best summer internship in artificial intelligence for beginners | cyber security Updates | [Read More](https://medium.com/p/5bdacbf14218) |
-| Sun, 19 Apr 2026 08:06:46 GMT | The "Informative" Trap: A Bug Bounty Autopsy | Alareqi | [Read More](https://medium.com/p/ed8628fb0cde) |
-| Sun, 19 Apr 2026 08:04:24 GMT | AI Isn’t Just Helping You Work Faster Anymore… It’s Learning How to Attack | Dr. Shreyash Tikar | [Read More](https://medium.com/p/8f616966ee61) |
-| Sun, 19 Apr 2026 07:55:24 GMT | How Broadway Gaming Achieved PCI DSS 4.0.1 Compliance | Oran F | [Read More](https://medium.com/p/b4a5f808ca84) |
