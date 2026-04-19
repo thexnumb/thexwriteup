@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 09:29:17 GMT | ENISA Vulnerability Database and CRA: What the EUVD Means for Your Products | CRA Decoded | [Read More](https://medium.com/p/cb3d18534545) |
+| Sun, 19 Apr 2026 09:21:01 GMT | Technology Risk Appetite: How Boards Set and Monitor It | Tyson Martin | [Read More](https://medium.com/p/4e79f63003db) |
+| Sun, 19 Apr 2026 09:16:48 GMT | 香港第653章生效：罰款高達500萬，你的 IT 架構是合規佐證還是審計盲點？ | Eagle Cloud | [Read More](https://medium.com/p/b2f22e6e964c) |
+| Sun, 19 Apr 2026 09:15:59 GMT | Gandalf AI 2: The Return | Marco Nappi | [Read More](https://medium.com/p/51ba33a17d2c) |
+| Sun, 19 Apr 2026 09:11:03 GMT | Is Your App Still Thinking About Your Ex-User? | Amit Srivastava | [Read More](https://medium.com/p/dce2989076d5) |
+| Sun, 19 Apr 2026 09:05:05 GMT | 7 Cloud Security checklists | Jitendra Rautela | [Read More](https://medium.com/p/d271784f4776) |
+| Sun, 19 Apr 2026 09:03:32 GMT | Why CVE Matching Is Not Enough: Reachability, Runtime, and Exploitability Analysis | Barış Ekin Yıldırım | [Read More](https://medium.com/p/8d31de4ed236) |
+| Sun, 19 Apr 2026 08:57:34 GMT | Kutuların Sessiz Dansı: Veri Paketini Kim, Nereye Gönderiyor? (Bölüm 3) | Yusuf Adıgüzel | [Read More](https://medium.com/p/455317fc57fc) |
+| Sun, 19 Apr 2026 08:34:55 GMT | Cracking Open the Black Box: A Practical Guide to IoT Firmware Analysis | Anindya Sankar Roy | [Read More](https://medium.com/p/808f289743d8) |
+| Sun, 19 Apr 2026 08:34:53 GMT | I Reverse-Engineered a 500MB AI Binary and Found 9 Security Bugs -Here’s Exactly How You Can Too | Vishesh Rawal | [Read More](https://medium.com/p/73253ec72a6b) |
 | Sun, 19 Apr 2026 08:31:42 GMT | Cybersecurity Careers: Pick Your Side (Blue Team vs Red Team for Beginners) | Badshahacking | [Read More](https://medium.com/p/23356ba623b6) |
+| Sun, 19 Apr 2026 08:31:01 GMT | Review Under Fire: Why Apple’s human reviewers are failing to catch “Nudify” and “Scam” apps. | apple insides | [Read More](https://medium.com/p/73bdc393f568) |
 | Sun, 19 Apr 2026 08:22:50 GMT | The LLM Hacking Playbook: Finding Prompt Injection & AI Vulnerabilities for Bounties | BugHunter’s Journal | [Read More](https://medium.com/p/fc89ece52ddd) |
 | Sun, 19 Apr 2026 08:20:38 GMT | Linux in 2026: Why Millions Are Switching Away from Windows for Good | Infinity Matrix | [Read More](https://medium.com/p/de104855bcdb) |
 | Sun, 19 Apr 2026 08:11:10 GMT | Semantic leakage: the silent risk of LLM agents in production. | Farhani Wajdi | [Read More](https://medium.com/p/038f967569a6) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 22:03:44 GMT | KASE Scenarios: SCP — Insurgency | Rishabh Gupta | [Read More](https://medium.com/p/f03e3aafe64c) |
 | Sat, 18 Apr 2026 21:56:33 GMT | Reading Secrets Straight From the Browser: The NEXT_PUBLIC_ Trap | OopsSec Store | [Read More](https://medium.com/p/c4f12f49ee4b) |
 | Sat, 18 Apr 2026 21:37:31 GMT | Why LLMs bypass safety limits and can assist in the most diverse crimes? | matheus.cl | [Read More](https://medium.com/p/c2d801c55086) |
-| Sat, 18 Apr 2026 21:22:39 GMT | I Loved the Fight More Than I Loved Him — Or Maybe That Was the Only Way I Knew How | Mira Thorne | [Read More](https://medium.com/p/909c4048b633) |
-| Sat, 18 Apr 2026 21:22:30 GMT | HackPark — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/26dcfe0d68f4) |
-| Sat, 18 Apr 2026 21:12:41 GMT | Fixing AL2023 Boot Failures After CIS Hardening | Farooq Hussain | [Read More](https://medium.com/p/de7c4ec5046d) |
-| Sat, 18 Apr 2026 21:10:19 GMT | Setting Up Wazuh on AWS: Two EC2 Instances, Real-Time File Monitoring, and What Actually Went Wrong | Nikhil Shakya | [Read More](https://medium.com/p/b491ef570622) |
-| Sat, 18 Apr 2026 21:01:01 GMT | A Practical Guide to Testing Static Websites for Security Vulnerabilities | MainEkHacker | [Read More](https://medium.com/p/ec65e27a7c2e) |
-| Sat, 18 Apr 2026 20:59:23 GMT | NIST is Moving to a “Risk-First” Model for Vulnerabilities | SOCFortress | [Read More](https://medium.com/p/92aa2fba53c0) |
-| Sat, 18 Apr 2026 20:44:45 GMT | LLMNR/NBT-NS Poisoning in Depth - Ehxb | Ehxb | [Read More](https://medium.com/p/ebacf745957d) |
-| Sat, 18 Apr 2026 20:40:32 GMT | How to Know If Your Phone Is Hacked | Sajid Khan | [Read More](https://medium.com/p/2124c2cf0e5a) |
-| Sat, 18 Apr 2026 20:40:10 GMT | The Compound Bug: When Two Quiet Flaws Conspire | Paul Pounder | [Read More](https://medium.com/p/a1c719c7a460) |
-| Sat, 18 Apr 2026 20:38:17 GMT | How I Found an Exposed Google Maps API Key in a Production Config File | Hacker MD | [Read More](https://medium.com/p/53453b909521) |
-| Sat, 18 Apr 2026 20:26:17 GMT | I Automated the Passive Reconnaissance Process I Learned in Class | Angle Gray | [Read More](https://medium.com/p/e0a090808b51) |
