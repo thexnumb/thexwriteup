@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 22:10:19 GMT | Distributed Systems Security | Petersmuditha | [Read More](https://medium.com/p/de37af02bccd) |
+| Sun, 19 Apr 2026 22:04:07 GMT | I Built a Tool That Simulates and Detects Linux Rootkits | Angle Gray | [Read More](https://medium.com/p/a7f4d53795fd) |
+| Sun, 19 Apr 2026 22:01:27 GMT | Do Lagosians Know the Emergency Number? Why Seconds Matter in an Emergency | Rapid Emergency System | [Read More](https://medium.com/p/3886a85f81ca) |
+| Sun, 19 Apr 2026 21:48:21 GMT | Securing the Backbone — Issue #22: When a $500 Radio Can Stop a Freight Train: What Critical Infra… | Eric Gallagher | [Read More](https://medium.com/p/55a32fbbf42a) |
+| Sun, 19 Apr 2026 21:48:00 GMT | Securing the Backbone — Issue #21: Software Supply Chain Failures Are Quietly Driving Breach Costs… | Eric Gallagher | [Read More](https://medium.com/p/eb3148fc4a14) |
+| Sun, 19 Apr 2026 21:35:34 GMT | Bankroll CTF@CIT 2026 | Mohamed Soliman | [Read More](https://medium.com/p/8057a8c3f3f5) |
 | Sun, 19 Apr 2026 21:14:53 GMT | Building a Risk Register from Scratch: A Practical Exercise | Risk & Record | [Read More](https://medium.com/p/e53dcffc6ce9) |
 | Sun, 19 Apr 2026 21:10:50 GMT | EJPTv2 Cert Review | 0cifer | [Read More](https://medium.com/p/cfd4bd715381) |
 | Sun, 19 Apr 2026 21:05:28 GMT | Why AI Security Fails at the Integration Layer | Red Asgard | [Read More](https://medium.com/p/019b427560f7) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 ​नमस्कार मित्रांनो! | Adiba Sayyed | [Read More](https://medium.com/p/bca5ad8d529b) |
 | Sun, 19 Apr 2026 14:38:42 GMT | Zero Trust Architecture in 2026 | Vishwas Mandpe | [Read More](https://medium.com/p/f58b22de1ca0) |
 | Sun, 19 Apr 2026 14:37:01 GMT | Model Card Security Audit Example - TryHackMe — AI Models & Data | Kate D Terracore | [Read More](https://medium.com/p/224a0b58b5d8) |
-| Sun, 19 Apr 2026 14:32:25 GMT | On the Impossibility of Observability-Based Authorization: A Formal Impossibility Result for… | Edward Meyman | [Read More](https://medium.com/p/741412e4d1d5) |
-| Sun, 19 Apr 2026 14:32:07 GMT | Implementing OCI Security Zones for an Enterprise Landing Zone — Part 2 | Mohammed Abdul Omaise | [Read More](https://medium.com/p/3cdfb714145a) |
-| Sun, 19 Apr 2026 14:31:55 GMT | Web Security Series #15 — Exploiting Command Injection for Reverse Shell | Laibakashif | [Read More](https://medium.com/p/bc6c1d3b9aff) |
-| Sun, 19 Apr 2026 14:23:40 GMT | Claude Mythos and the Dawn of Agentic Cyber-Offense | RME | [Read More](https://medium.com/p/51c9e1436741) |
-| Sun, 19 Apr 2026 14:08:01 GMT | Docker Security Best Practices | Fabius lihanda | [Read More](https://medium.com/p/238589c1ea16) |
-| Sun, 19 Apr 2026 14:00:46 GMT | Kioptrix: Level 1 — VulnHub Walkthrough OpenFuck Apache Exploit to Root via ptrace/kmod | Punih3r7 | [Read More](https://medium.com/p/95ef4fea31b4) |
