@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 20:42:19 GMT | Intermediate Practical Malware Analysis Course | S12 - 0x12Dark Development | [Read More](https://medium.com/p/6e3938c4443b) |
+| Sun, 19 Apr 2026 20:40:25 GMT | Your LLM Is Not the Privacy Risk | Molka Trabelsi | [Read More](https://medium.com/p/f518ff5a7ce2) |
+| Sun, 19 Apr 2026 20:31:18 GMT | Why Your HashMap Is Creating Duplicate Entries (And How equals() and hashCode() Save the Day) | Vikas Reddy | [Read More](https://medium.com/p/6161968471a1) |
+| Sun, 19 Apr 2026 20:26:21 GMT | Server Components CTF@CIT 2026 | Mohamed Soliman | [Read More](https://medium.com/p/563cd151cb5c) |
+| Sun, 19 Apr 2026 20:22:05 GMT | Your Build Pipeline Is Quietly Stealing Your AWS Credentials | Mohammad Bin Aftab | [Read More](https://medium.com/p/5652f7344d60) |
+| Sun, 19 Apr 2026 20:06:01 GMT | LOOKBACK - TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/b60d5c5ed61f) |
+| Sun, 19 Apr 2026 20:00:04 GMT | Part 2: Provisioning the “Brain” — EKS Control Plane & Managed Nodes | M Bilal | [Read More](https://medium.com/p/380df935a93f) |
 | Sun, 19 Apr 2026 19:49:53 GMT | LLMs Can’t Roll Dice | Daniel Díaz | [Read More](https://medium.com/p/5f2aad47cf3a) |
 | Sun, 19 Apr 2026 19:44:47 GMT | Why Did Vercel Get Breached? What We Know About the April 2026 Attack | Muhammed Mukthar | [Read More](https://medium.com/p/0eecf43ba298) |
 | Sun, 19 Apr 2026 19:43:47 GMT | Weekly Cyber Threat Bulletin: 19 April 2026 | Marcelle Lee | [Read More](https://medium.com/p/58384e9e0112) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Apr 2026 13:44:45 GMT | Wi-Fi 7 for Business: Why Cisco Meraki’s Latest Access Points Are a Ga | Novbox | [Read More](https://medium.com/p/27c9fe8848ee) |
 | Sun, 19 Apr 2026 13:39:54 GMT | Sourcing Hack with Cursor: ATS Reverse-Engineering for Scalable Candidate Discovery | Diane Rocher | [Read More](https://medium.com/p/4522fdd0b47e) |
 | Sun, 19 Apr 2026 13:39:48 GMT | Workforce Salary Dynamics Analysis | Odinakachi Nnuforole | [Read More](https://medium.com/p/b0b6077d4519) |
-| Sun, 19 Apr 2026 13:39:09 GMT | Bilgisayarınızın Sanallaştırma Teknolojisini VirtualBox’ın Emrine Vermek | Emircan Akyuz - AI & RPA Developer | [Read More](https://medium.com/p/3b5b7a08ad6f) |
-| Sun, 19 Apr 2026 13:38:55 GMT | I Found 21 Security Holes in SaaS a Week Before Launch | MUHAMMED HASAN GÜÇLÜ | [Read More](https://medium.com/p/d8d05f73cd0f) |
-| Sun, 19 Apr 2026 13:36:00 GMT | How to Build a Safe AI Agent with Execution Control (Step-by-Step Guide) | Rakeshkhanduja | [Read More](https://medium.com/p/eb7e621d8776) |
-| Sun, 19 Apr 2026 13:32:31 GMT | When the System Hands Your Trauma Back to the World | The Lies My ‘Loverboy’ Told Me | [Read More](https://medium.com/p/56ffa0529260) |
-| Sun, 19 Apr 2026 13:31:06 GMT | Professional Kali Linux (2026.1+) Post-Installation Setup with Bash | fsocietyhub | [Read More](https://medium.com/p/4a78439d6af1) |
-| Sun, 19 Apr 2026 13:27:37 GMT | The Responsibility and Life of a SOC Analyst | Muzammil memon | [Read More](https://medium.com/p/179c9243590b) |
-| Sun, 19 Apr 2026 13:22:56 GMT | “I” hacked the bus wifi to get unlimited connection. | Oscar | [Read More](https://medium.com/p/6825946e1bbd) |
