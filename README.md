@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 19:49:53 GMT | LLMs Can’t Roll Dice | Daniel Díaz | [Read More](https://medium.com/p/5f2aad47cf3a) |
+| Sun, 19 Apr 2026 19:44:47 GMT | Why Did Vercel Get Breached? What We Know About the April 2026 Attack | Muhammed Mukthar | [Read More](https://medium.com/p/0eecf43ba298) |
+| Sun, 19 Apr 2026 19:43:47 GMT | Weekly Cyber Threat Bulletin: 19 April 2026 | Marcelle Lee | [Read More](https://medium.com/p/58384e9e0112) |
+| Sun, 19 Apr 2026 19:41:47 GMT | PortSwigger “JWT authentication bypass via algorithm confusion” Lab Çözüm & Rehber | Mirac Kayikci | [Read More](https://medium.com/p/543c40dee907) |
+| Sun, 19 Apr 2026 19:37:25 GMT | Web Application Forensics | Akif Shikhlarov | [Read More](https://medium.com/p/9d24955435f8) |
+| Sun, 19 Apr 2026 19:36:01 GMT | Why Smart Women Over 30 Stay Single: The Brutal Truth No One Tells You | Tess Jenner | [Read More](https://medium.com/p/4883171082cb) |
+| Sun, 19 Apr 2026 19:31:49 GMT | AI Ended Enterprise IT’s Peacetime: You Cannot Build an Army the Month Before the War | Markus Sandelin | [Read More](https://medium.com/p/5015c4200df6) |
+| Sun, 19 Apr 2026 19:28:23 GMT | HTB: Preignition Box Walkthrough | Coldstart Coder | [Read More](https://medium.com/p/58fba69a3f14) |
+| Sun, 19 Apr 2026 19:26:01 GMT | How to Get Started with Cybersecurity and Ethical Hacking | RivuDon | [Read More](https://medium.com/p/5f8147d92970) |
+| Sun, 19 Apr 2026 19:26:01 GMT | These Strategies Can Save Your Job from Disaster: A Practical, Technical Guide to Cloud Disaster… | Eddie Chan | [Read More](https://medium.com/p/c69c759e9f08) |
+| Sun, 19 Apr 2026 19:24:53 GMT | One Button Erases Your Identity Forever!!! | cybrNK | [Read More](https://medium.com/p/399e270a4af2) |
+| Sun, 19 Apr 2026 19:22:57 GMT | DanaBot Network Forensics InvestigationIntroduction | Abdelrhman Mohamed Mansour | [Read More](https://medium.com/p/b1defcdbf64e) |
 | Sun, 19 Apr 2026 19:14:22 GMT | Caldera OT for ICS Red Teaming — Part 2.2 | Muhammad Laiq | [Read More](https://medium.com/p/c0c4a4d0b8c2) |
 | Sun, 19 Apr 2026 19:11:48 GMT | Firewall Suicide: Don’t Lock Yourself Out of Your Own AMI | Farooq Hussain | [Read More](https://medium.com/p/77fa8f34c9f5) |
 | Sun, 19 Apr 2026 19:11:05 GMT | TryHackMe — VulnNet: Active: Writeup | Taher Borgi | [Read More](https://medium.com/p/286c110f0c51) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Apr 2026 13:31:06 GMT | Professional Kali Linux (2026.1+) Post-Installation Setup with Bash | fsocietyhub | [Read More](https://medium.com/p/4a78439d6af1) |
 | Sun, 19 Apr 2026 13:27:37 GMT | The Responsibility and Life of a SOC Analyst | Muzammil memon | [Read More](https://medium.com/p/179c9243590b) |
 | Sun, 19 Apr 2026 13:22:56 GMT | “I” hacked the bus wifi to get unlimited connection. | Oscar | [Read More](https://medium.com/p/6825946e1bbd) |
-| Sun, 19 Apr 2026 13:21:29 GMT | LLM Security Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/5fe1918f7a71) |
-| Sun, 19 Apr 2026 13:21:17 GMT | Break Into Cybersecurity in 2026 — Start Your GSEC Prep the Smart Way | Mirzarashidbaig | [Read More](https://medium.com/p/4e36db6a15cf) |
-| Sun, 19 Apr 2026 13:10:42 GMT | Master Cybersecurity & Ethical Hacking — Start Your Career in the Real Digital Battlefield | Johnlewisnyc | [Read More](https://medium.com/p/eea762e281b9) |
-| Sun, 19 Apr 2026 13:07:19 GMT | The Silent Shed: What Forgotten Spaces Teach Us About Digital Neglect | Ed-it Editions | [Read More](https://medium.com/p/36e7e64dab37) |
-| Sun, 19 Apr 2026 13:05:22 GMT | How Hackers Actually Hack Instagram Accounts (Real Methods Explained) | Atharv Ambade | [Read More](https://medium.com/p/dc1e9c388ec8) |
-| Sun, 19 Apr 2026 12:56:45 GMT | I Wanted Masscan Speed With Nmap Stealth — So I Built ZeroMap | Prince Patel aka Z3R0 | [Read More](https://medium.com/p/c18589f1ce51) |
-| Sun, 19 Apr 2026 12:55:29 GMT | ContAInment: AI Security TryHackMe | Shubham Kumar | [Read More](https://medium.com/p/1fee40191982) |
-| Sun, 19 Apr 2026 12:46:32 GMT | Phishing | Omarani | [Read More](https://medium.com/p/b445037ad45c) |
-| Sun, 19 Apr 2026 12:46:01 GMT | OpenAI Telepathy, The Secret Screen Observer. | Marco Kotrotsos | [Read More](https://medium.com/p/fbe3405bbc26) |
-| Sun, 19 Apr 2026 12:45:56 GMT | Become a Certified DevOps Engineer & Boost Your Career — Limited-Time 25% OFF! | Daywalkernyc | [Read More](https://medium.com/p/474a42e0e74a) |
-| Sun, 19 Apr 2026 12:45:41 GMT | Interlink wallet has been updated with Interlink Tajmahal Testnet. | GANGURI VENKATRAO - T3 AMBASSADOR OF INTERLINK LAB | [Read More](https://medium.com/p/bca7594ee5ed) |
-| Sun, 19 Apr 2026 12:44:24 GMT | 5 Reasons Why Cyber Security is Important: More Than Just Hackers | Richardkhoib | [Read More](https://medium.com/p/5ed5dcd6e871) |
