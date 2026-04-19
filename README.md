@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 11:31:54 GMT | Search Engine Discovery & Google Dorking: Turning Google into a Recon Weapon | Mert Baykal | [Read More](https://medium.com/p/7302c1342966) |
+| Sun, 19 Apr 2026 11:31:54 GMT | Stop Lying to Your Audit Trail | Simanta Sarma | [Read More](https://medium.com/p/f38245d84459) |
+| Sun, 19 Apr 2026 11:27:08 GMT | Hidden Entry Points: robots.txt + .well-known URIs in Web Recon | Mert Baykal | [Read More](https://medium.com/p/e2b3d56c477d) |
+| Sun, 19 Apr 2026 11:18:09 GMT | BSI C5 and NIST SP 800–53: A Practical Guide to Transatlantic Cloud Compliance | Sarah | [Read More](https://medium.com/p/481e7f46ad51) |
+| Sun, 19 Apr 2026 11:16:43 GMT | Hackear a Inteligência Artificial e os Riscos | BombasticBurgh | [Read More](https://medium.com/p/e0191fd9858e) |
+| Sun, 19 Apr 2026 11:15:56 GMT | Cách vào 28bet an toàn: những bước kiểm tra cần thiết năm 2026 | 報數十一員 | [Read More](https://medium.com/p/911095f30df6) |
+| Sun, 19 Apr 2026 11:07:45 GMT | Catching Network Intruders with Machine Learning: A Complete End-to-End Guide | Abhishek Mohata | [Read More](https://medium.com/p/f567ea4983c1) |
+| Sun, 19 Apr 2026 11:04:37 GMT | Connecting Microsoft Defender to Intune Settings: Endpoint Security + Device Management in One | Defend Microsoft365 now! | [Read More](https://medium.com/p/ffd17d66fa34) |
+| Sun, 19 Apr 2026 11:03:16 GMT | Hands-On IAM in AWS: A Cloud Security Engineer’s Guide to Users, Groups and Permissions | Victor Christian | [Read More](https://medium.com/p/dcecd20298b8) |
+| Sun, 19 Apr 2026 11:00:55 GMT | Deterministic Guardrail for Probabilistic Agents — Identity | Krishna Puranik | [Read More](https://medium.com/p/4763793e8513) |
+| Sun, 19 Apr 2026 11:00:28 GMT | A New Red Team Technique: Telemetry Visibility Gaps in Runtime Memory-Based Detection Pipelines | Azizcan Dastan | [Read More](https://medium.com/p/5f4e73442703) |
+| Sun, 19 Apr 2026 10:59:47 GMT | LLMGoat: Offensive LLM Security Environment | Liteshghute | [Read More](https://medium.com/p/cf5440aa708d) |
+| Sun, 19 Apr 2026 10:54:42 GMT | 網域治理危機：當「.tw」網域淪為 18 美金的詐騙溫床 | Gordon | [Read More](https://medium.com/p/982cb3bc8c15) |
+| Sun, 19 Apr 2026 10:51:29 GMT | Why I Thought I Found a Zero-Day: The False Positive Trap in Bug Bounty | Kakashi | [Read More](https://medium.com/p/3ec08e86fc99) |
+| Sun, 19 Apr 2026 10:43:17 GMT | DMARC alignment: why your perfectly-configured domain still fails | Jon Morby | [Read More](https://medium.com/p/43972b808c36) |
+| Sun, 19 Apr 2026 10:43:07 GMT | Inside a SOC: Why Good Tools Still Fail Without Maturity (My Analysis) | Juhaina.K | [Read More](https://medium.com/p/d16c54be1250) |
 | Sun, 19 Apr 2026 10:38:43 GMT | The Right to Privacy in the age of surveillance : | Adv. Dheerendra Patel | [Read More](https://medium.com/p/39a5f2220a8f) |
 | Sun, 19 Apr 2026 10:32:29 GMT | Building Autonomous Adversarial Defense Systems | Bijit Ghosh | [Read More](https://medium.com/p/0b099d4ba40d) |
 | Sun, 19 Apr 2026 10:26:35 GMT | Reflected XSS Context | 13v! ⚔️ | [Read More](https://medium.com/p/2123b4e87afa) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Apr 2026 03:12:02 GMT | Hardening Gophish: Implementing AES-256-GCM Database Encryption in Anglerphish | George Petropoulos | [Read More](https://medium.com/p/735617ec8849) |
 | Sun, 19 Apr 2026 02:47:06 GMT | What Happens When You Don’t Want to Be Who You’ve Always Been? | Courtney Dolan | [Read More](https://medium.com/p/c7e14459c640) |
 | Sun, 19 Apr 2026 02:42:34 GMT | How to Become an Ethical Hacker (The Right Way) | Pratik | [Read More](https://medium.com/p/8756c36bdffd) |
-| Sun, 19 Apr 2026 02:34:13 GMT | Mr Robot TryHackMe Español | Us0lfr | [Read More](https://medium.com/p/ea813f4fff9a) |
-| Sun, 19 Apr 2026 02:29:48 GMT | Publishing a Frontend for EMBER2024 | Hiroki Tomimatsu | [Read More](https://medium.com/p/b281ae7930b9) |
-| Sun, 19 Apr 2026 02:18:06 GMT | From Network Engineer to vCISO: Adeel Shaikh Muhammad’s Blueprint for Cybersecurity Mastery | Developing Cyber Leadership | [Read More](https://medium.com/p/ad4821f3c9b1) |
-| Sun, 19 Apr 2026 02:06:36 GMT | CTF Overpass2 - TryHackMe | Henrique | [Read More](https://medium.com/p/22dd4e3b50ad) |
-| Sun, 19 Apr 2026 02:02:00 GMT | Performance Optimization: Making Your App Lightning Fast | Yakhilesh | [Read More](https://medium.com/p/99c4468c2bec) |
-| Sun, 19 Apr 2026 02:01:28 GMT | Latest Metrics Show AI Models Surpassing Humans | Matthew.Rosenquist | [Read More](https://medium.com/p/b53a64c2ab82) |
-| Sun, 19 Apr 2026 01:40:09 GMT | Cyber-Fraud and Institutional Integrity: A Global Risk Assessment Brief | ObserIQ Insights | [Read More](https://medium.com/p/e3c609a60a4b) |
-| Sun, 19 Apr 2026 01:17:06 GMT | ⚙️ Security Misconfigurations — The Easy Wins Most Hunters Miss | ghostyjoe | [Read More](https://medium.com/p/4dce0b06e311) |
-| Sun, 19 Apr 2026 01:05:03 GMT | The Global Ransomware Architecture, Threat Actor Tactics, and Advanced Exploitation Methodologies | David SEHYEON Baek | [Read More](https://medium.com/p/e40e50415fd3) |
-| Sun, 19 Apr 2026 01:03:11 GMT | TryHackMe: Intro to LAN — A Comprehensive Guide to Network Fundamentals | Jonathan Sanfer | [Read More](https://medium.com/p/31dd93267776) |
-| Sun, 19 Apr 2026 01:00:12 GMT | The Strength of Asking for Help | Yusuf Amos Wakawa | [Read More](https://medium.com/p/5c28d3438ffb) |
-| Sun, 19 Apr 2026 00:01:01 GMT | Zero Trust Is Not a Framework. It Is a Mindset Shift Your Team Keeps Delaying. | Hafiq Iqmal | [Read More](https://medium.com/p/b883768db602) |
-| Sat, 18 Apr 2026 23:59:09 GMT | Cybersecurity & AI-powered threats | Technoyard | [Read More](https://medium.com/p/7604293a8de4) |
-| Sat, 18 Apr 2026 23:22:27 GMT | Trump’s Deadline: Peace or Bombs in the Gulf? | Raquel Castro | [Read More](https://medium.com/p/ea6adb0c07b5) |
-| Sat, 18 Apr 2026 23:15:09 GMT | Day-6: Let’s do some labs on CSRF | zero_day | [Read More](https://medium.com/p/f22af85e2a32) |
-| Sat, 18 Apr 2026 23:13:06 GMT | I Tested an LLM-Powered Honeypot. It broke in a few commands. | Who? Tao | [Read More](https://medium.com/p/6ecd6d6b21e5) |
