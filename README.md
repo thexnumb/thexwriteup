@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 19:14:22 GMT | Caldera OT for ICS Red Teaming — Part 2.2 | Muhammad Laiq | [Read More](https://medium.com/p/c0c4a4d0b8c2) |
+| Sun, 19 Apr 2026 19:11:48 GMT | Firewall Suicide: Don’t Lock Yourself Out of Your Own AMI | Farooq Hussain | [Read More](https://medium.com/p/77fa8f34c9f5) |
+| Sun, 19 Apr 2026 19:11:05 GMT | TryHackMe — VulnNet: Active: Writeup | Taher Borgi | [Read More](https://medium.com/p/286c110f0c51) |
+| Sun, 19 Apr 2026 19:09:26 GMT | HTB: Explosion Box Walkthrough | Coldstart Coder | [Read More](https://medium.com/p/c5721253affe) |
+| Sun, 19 Apr 2026 19:07:53 GMT | No Macros Required: Harvesting AD Credentials with a Simple Word Doc | Will Giles - Cybersecurity | [Read More](https://medium.com/p/12c23d2f1f31) |
+| Sun, 19 Apr 2026 19:07:42 GMT | How Two Git Commands Tricked the World’s Most Advanced AI into Merging Malicious Code | SOCFortress | [Read More](https://medium.com/p/506644226779) |
+| Sun, 19 Apr 2026 19:04:39 GMT | CTF@CIT 26 - OSINT Challenges Write-up | Ahmed Mohammed | [Read More](https://medium.com/p/f6447e64c9eb) |
+| Sun, 19 Apr 2026 19:02:03 GMT | Stored XSS via Custom Template Injection — How I Bypassed Cloudflare WAF | Mostafaabogoda | [Read More](https://medium.com/p/5abdc0d1807b) |
+| Sun, 19 Apr 2026 18:57:38 GMT | IDE [Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/36f414ffdcb9) |
+| Sun, 19 Apr 2026 18:52:31 GMT | Understanding Trust and Security in Cloud Computing | Md Mabrur Hasan | [Read More](https://medium.com/p/6307eabe8b68) |
+| Sun, 19 Apr 2026 18:51:21 GMT | Building a Home SOC Lab: Real Threat Detection with Splunk on macOS | Faysal Dhimbil | [Read More](https://medium.com/p/e24e3e065305) |
+| Sun, 19 Apr 2026 18:50:35 GMT | Securing CI/CD pipeline project part-3 | The Commoness | [Read More](https://medium.com/p/b225667d933a) |
+| Sun, 19 Apr 2026 18:47:48 GMT | Amadey — APT-C-36 by Cyber defender | cyber-defender | [Read More](https://medium.com/p/3ad4729a8202) |
+| Sun, 19 Apr 2026 18:39:13 GMT | Try Hack Me- Dave’s Blog Walkthrough | PulseEinher | [Read More](https://medium.com/p/04bb52e15026) |
+| Sun, 19 Apr 2026 18:33:23 GMT | Turning a Breach into a Blueprint: Cybersecurity Lessons for Government Institutions | Adeola James Aderonmu | [Read More](https://medium.com/p/dc2ccb7c67f9) |
+| Sun, 19 Apr 2026 18:26:24 GMT | Isolating and Exporting HTTP Traffic in Wireshark | Binyamin zahid | [Read More](https://medium.com/p/4020978e9293) |
+| Sun, 19 Apr 2026 18:21:11 GMT | Beyond Good Faith: How AI exploits the “Authorization Gap” by shattering the illusion of human… | Ryu360 | [Read More](https://medium.com/p/c0384469b530) |
+| Sun, 19 Apr 2026 18:09:36 GMT | Tools Don’t Make You a Hacker-Thinking Does | Nikhilkaware | [Read More](https://medium.com/p/d023dc92e1b2) |
+| Sun, 19 Apr 2026 18:08:19 GMT | At 16, I Chose to Fight Cybercrime | Shivam Shukla | [Read More](https://medium.com/p/16112001d273) |
+| Sun, 19 Apr 2026 18:07:54 GMT | Introduction to SIEM - TryHackMe | Aruldeshwal | [Read More](https://medium.com/p/c6426b2e35ff) |
+| Sun, 19 Apr 2026 18:06:01 GMT | Why Security is the Core of System Design | Manan Mehta | [Read More](https://medium.com/p/1cbc034810bf) |
 | Sun, 19 Apr 2026 18:01:32 GMT | Reducing token burn, Anthropic Mythos, How I use AI for pentesting | Teri Radichel | [Read More](https://medium.com/p/2641e69348e7) |
 | Sun, 19 Apr 2026 17:56:24 GMT | A Complete Guide to Unified Threat Detection Across Cloud, Network & Endpoints | Secgenie AI | [Read More](https://medium.com/p/1daabb628cec) |
 | Sun, 19 Apr 2026 17:53:32 GMT | Beyond the Firewall: A Technical Post-Mortem of the 2022 Uber Breach | The Kernel Hub | [Read More](https://medium.com/p/f9f08ae343b7) |
@@ -92,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Apr 2026 12:45:56 GMT | Become a Certified DevOps Engineer & Boost Your Career — Limited-Time 25% OFF! | Daywalkernyc | [Read More](https://medium.com/p/474a42e0e74a) |
 | Sun, 19 Apr 2026 12:45:41 GMT | Interlink wallet has been updated with Interlink Tajmahal Testnet. | GANGURI VENKATRAO - T3 AMBASSADOR OF INTERLINK LAB | [Read More](https://medium.com/p/bca7594ee5ed) |
 | Sun, 19 Apr 2026 12:44:24 GMT | 5 Reasons Why Cyber Security is Important: More Than Just Hackers | Richardkhoib | [Read More](https://medium.com/p/5ed5dcd6e871) |
-| Sun, 19 Apr 2026 12:42:58 GMT | Your Phone Number is the Backdoor to Your Crypto | Spade Labs | [Read More](https://medium.com/p/f469266ce3f7) |
-| Sun, 19 Apr 2026 12:39:19 GMT | Security Copilot X Sentinel ft. Purview— Part 2 | Yash Mudaliar | [Read More](https://medium.com/p/285d9b62a852) |
-| Sun, 19 Apr 2026 12:39:09 GMT | Why you should never “Mint” from your main vault | Spade Labs | [Read More](https://medium.com/p/e5aacbcd9803) |
-| Sun, 19 Apr 2026 12:32:44 GMT | Unlock Your DevOps Career with Terraform — Limited-Time Offer! | Daywalkernyc | [Read More](https://medium.com/p/5b937f7ad045) |
-| Sun, 19 Apr 2026 12:26:27 GMT | Shared Preferences Exposure — Mobile Apps Security Static Analysis Part IV | ./Rey~ | [Read More](https://medium.com/p/a5b4bcab24ce) |
-| Sun, 19 Apr 2026 12:26:01 GMT | ⚙️ 03. — Forced OAuth profile linking | The4v1 | [Read More](https://medium.com/p/041e7e28ed99) |
-| Sun, 19 Apr 2026 12:24:43 GMT | Most People Don’t Need the “Best VPN” — They Need the Right One | vpnCounselor | [Read More](https://medium.com/p/3833abd5e40f) |
-| Sun, 19 Apr 2026 12:20:52 GMT | AIDEL(AI Driven Emulation Lab) | Cryptic_Glyd3r | [Read More](https://medium.com/p/be56b4ad46bc) |
-| Sun, 19 Apr 2026 12:13:13 GMT | How Attackers Use Legit Tools Like PowerShell & RDP to Stay Invisible (Living Off The Land Attacks) | Paritosh | [Read More](https://medium.com/p/d1545a417713) |
-| Sun, 19 Apr 2026 12:11:01 GMT | ⚙️ 02. — SSRF via OpenID dynamic client registration | The4v1 | [Read More](https://medium.com/p/25d0ae1234c1) |
-| Sun, 19 Apr 2026 12:07:36 GMT | Poster — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/10e23dccd762) |
-| Sun, 19 Apr 2026 12:01:01 GMT | Your passport copy is sitting on someone’s Google Drive | Giuseppe | [Read More](https://medium.com/p/2a34a2463391) |
-| Sun, 19 Apr 2026 12:00:29 GMT | Security doesn’t have weekends. | Dave Krunal (Dave On Cyber) | [Read More](https://medium.com/p/ae6e798e2a83) |
-| Sun, 19 Apr 2026 11:56:01 GMT | ⚙️ 01. — Authentication bypass via OAuth implicit flow | The4v1 | [Read More](https://medium.com/p/13e26b67e697) |
-| Sun, 19 Apr 2026 11:51:09 GMT | Why Security Scanners Miss Real Risk — And What Web Attack Simulation Shows Instead | Nautillo | [Read More](https://medium.com/p/c4bf5528d35c) |
-| Sun, 19 Apr 2026 11:49:29 GMT | To be Your Hero | Is | [Read More](https://medium.com/p/401e58722e78) |
-| Sun, 19 Apr 2026 11:46:01 GMT | OAuth 2.0 Authetication Vulnerabilities | The4v1 | [Read More](https://medium.com/p/f810876c21eb) |
-| Sun, 19 Apr 2026 11:45:48 GMT | Why I Built The Hidden Finds — A Real-World Approach to SaaS Security and Bug Bounty | Ehtesham Ul Haq | [Read More](https://medium.com/p/773e31817a4d) |
-| Sun, 19 Apr 2026 11:44:48 GMT | Self-Evolving AI Agents Are Here and They Write Their Own Protocols ! | Raviteja Nekkalapu | [Read More](https://medium.com/p/f3bcf13012a8) |
-| Sun, 19 Apr 2026 11:43:25 GMT | Level Up Your Cybersecurity Career in 2026 — Limited Time Offer! | Adilbaignyc | [Read More](https://medium.com/p/e7e93fb44766) |
-| Sun, 19 Apr 2026 11:38:03 GMT | Level Up Your IT Career — Don’t Miss This Limited-Time Deal! | Adilbaignyc | [Read More](https://medium.com/p/c36c4589a61b) |
