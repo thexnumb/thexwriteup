@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 15:52:03 GMT | AI SOC Hits Nasdaq: Why SEA CISOs Must Ignore the Hype and Prioritize Local Governance | outofspace | [Read More](https://medium.com/p/a50c85129436) |
+| Sun, 19 Apr 2026 15:47:12 GMT | Infosec Advanced: Kerberoasting | pkin1t | [Read More](https://medium.com/p/185f1a466f1f) |
+| Sun, 19 Apr 2026 15:46:27 GMT | The AI That Finally Thinks Before It Speaks: Inside OpenAI’s GPT-5.4-Cyber | Pankaj Yadav | [Read More](https://medium.com/p/4db9d2781329) |
+| Sun, 19 Apr 2026 15:30:00 GMT | Face Recognition Time Attendance: Why Companies Are Switching to Smart Tracking | Oscar Vazquez | [Read More](https://medium.com/p/99f4174b0f48) |
+| Sun, 19 Apr 2026 15:28:01 GMT | Part 07 — Building a Security Operations Center Homelab (Installing OpenCanary on TheGateWatcher) | Sean Nelson | [Read More](https://medium.com/p/f2f2c7a0986f) |
+| Sun, 19 Apr 2026 15:27:02 GMT | Cat Writeup for HTB Mobile Challenge | n1kto | [Read More](https://medium.com/p/4dd30d1b4d47) |
+| Sun, 19 Apr 2026 15:25:58 GMT | If I die, would someone cry? | maria ｡๑ ° | [Read More](https://medium.com/p/afffd9bfa9e4) |
+| Sun, 19 Apr 2026 15:24:02 GMT | API Security Mistakes That Still Hurt Small Businesses in 2026 | NMA iT Service | [Read More](https://medium.com/p/c083a1942b04) |
+| Sun, 19 Apr 2026 15:21:23 GMT | Quarter Shift (GraphQL + SSRF) WebVerse | 7s26Simon | [Read More](https://medium.com/p/99b7516526d1) |
+| Sun, 19 Apr 2026 15:11:29 GMT | Prompt Injection TryHackMe Walkthrough (THM Room) | Pyae Sone | [Read More](https://medium.com/p/e1689f4f3615) |
+| Sun, 19 Apr 2026 15:06:03 GMT | Penetration Testing for SOC 2: Why Most SaaS Apps Still Fail Security | Pentest_Testing_Corp | [Read More](https://medium.com/p/159e2bc0071d) |
+| Sun, 19 Apr 2026 15:04:20 GMT | Learn Wireshark for CTF: Beginner’s Guide to Packet Analysis & Capture the Flag Challenges | Md. Ibrahim Reza Rabbi | [Read More](https://medium.com/p/91da49a72f30) |
+| Sun, 19 Apr 2026 15:01:01 GMT | Most Startups Are Not Prepared for a Security Incident. Even If They Think They Are. | Abhishek Pahuja | [Read More](https://medium.com/p/391c1c032492) |
 | Sun, 19 Apr 2026 14:57:02 GMT | The Intimacy of “Parallel Play”: Why the Quietest Moments Are the Loudest | Vanshika Choudhary | [Read More](https://medium.com/p/cbe6bad2ff85) |
 | Sun, 19 Apr 2026 14:56:03 GMT | How to Learn Python for Free in 2026 (Without Getting Lost in 100+ Courses) | Niharika | [Read More](https://medium.com/p/6c14e5a013fc) |
 | Sun, 19 Apr 2026 14:52:06 GMT | I was interrogated by the NSA | Pramesh Sharma | [Read More](https://medium.com/p/a854a523b91b) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Apr 2026 10:22:19 GMT | HTB Cap — Walkthrough | Shxdowz | [Read More](https://medium.com/p/11007dbf835f) |
 | Sun, 19 Apr 2026 10:13:40 GMT | “TEOS Sentinel Shield: Blocking Unsafe AI Code Before Execution” | Elmahrosa International Ayman Seif | [Read More](https://medium.com/p/daec39a13655) |
 | Sun, 19 Apr 2026 10:08:14 GMT | From Nothing to Full Admin Access: Chaining Broken Access Controls | can1337 | [Read More](https://medium.com/p/f0d5aa76a4c1) |
-| Sun, 19 Apr 2026 10:07:22 GMT | The Data Exposure Risk: Why Sensitive Data Is Still Your Biggest Liability | Chetan Seripally | [Read More](https://medium.com/p/6cf58a4cd78e) |
-| Sun, 19 Apr 2026 10:03:08 GMT | HK Cap 653: Is Your Architecture Audit-Ready? | Eagle Cloud | [Read More](https://medium.com/p/8dea560de2ae) |
-| Sun, 19 Apr 2026 10:00:44 GMT | The Forbidden AI: Why Anthropic is Terrified to Release Claude Mythos | Information For Technologies | [Read More](https://medium.com/p/531ec8a4149d) |
-| Sun, 19 Apr 2026 09:59:11 GMT | The Factory Behind the Fake Bargain | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/7c8e2f80800f) |
-| Sun, 19 Apr 2026 09:59:09 GMT | Why We Choose to Hide | Thirteenth | [Read More](https://medium.com/p/35a93e62589e) |
-| Sun, 19 Apr 2026 09:54:27 GMT | Wireshark Packet Analysis: Investigating Network Traffic Like a SOC Analyst | Rishit Goel | [Read More](https://medium.com/p/a640e15d06fd) |
-| Sun, 19 Apr 2026 09:45:52 GMT | Password Cracking in the Wild: A Red Team Field Guide | 0xbrijith | [Read More](https://medium.com/p/47e1451f9d06) |
-| Sun, 19 Apr 2026 09:43:23 GMT | From Zero to Hero: A Complete Guide to Software Testing for Modern Engineers | Malinda Gamage | [Read More](https://medium.com/p/231969a641f1) |
-| Sun, 19 Apr 2026 09:29:17 GMT | ENISA Vulnerability Database and CRA: What the EUVD Means for Your Products | CRA Decoded | [Read More](https://medium.com/p/cb3d18534545) |
-| Sun, 19 Apr 2026 09:21:01 GMT | Technology Risk Appetite: How Boards Set and Monitor It | Tyson Martin | [Read More](https://medium.com/p/4e79f63003db) |
-| Sun, 19 Apr 2026 09:16:48 GMT | 香港第653章生效：罰款高達500萬，你的 IT 架構是合規佐證還是審計盲點？ | Eagle Cloud | [Read More](https://medium.com/p/b2f22e6e964c) |
-| Sun, 19 Apr 2026 09:15:59 GMT | Gandalf AI 2: The Return | Marco Nappi | [Read More](https://medium.com/p/51ba33a17d2c) |
-| Sun, 19 Apr 2026 09:11:03 GMT | Is Your App Still Thinking About Your Ex-User? | Amit Srivastava | [Read More](https://medium.com/p/dce2989076d5) |
