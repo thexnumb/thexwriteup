@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 16:53:18 GMT | BTLO Write-up Phishy (v1) | Nuray Shiraliyeva | [Read More](https://medium.com/p/8fbedc49a561) |
+| Sun, 19 Apr 2026 16:37:09 GMT | India’s DPDP Act 2023: Why Compliance Is Now Mandatory for Every Company | Dracky4u | [Read More](https://medium.com/p/859583f14ce3) |
+| Sun, 19 Apr 2026 16:30:33 GMT | Python Libraries That Actually Matter for Data, ML, AI & Trending Tech Roles | Persis Tafflin | [Read More](https://medium.com/p/8f01a8602895) |
+| Sun, 19 Apr 2026 16:29:47 GMT | Extracting Web Traffic Evidence Using Wireshark | Binyamin zahid | [Read More](https://medium.com/p/f6ee147cc62f) |
+| Sun, 19 Apr 2026 16:20:35 GMT | 500$ IDOR on a Public Program | Musab Sarı | [Read More](https://medium.com/p/553858933e42) |
+| Sun, 19 Apr 2026 16:13:36 GMT | From Electrical Engineering to Software Engineering | Srinivas Krovvidi | [Read More](https://medium.com/p/9936c9a8cf13) |
+| Sun, 19 Apr 2026 16:06:40 GMT | A Letter to the IT Sector: AI Is Advancing — But Who Is It Leaving Behind? | Saanvi Raj | [Read More](https://medium.com/p/6f44663ab90b) |
+| Sun, 19 Apr 2026 16:04:24 GMT | Building GhostTrap: My AI-Powered SSH Honeypot | shivkumar chougala | [Read More](https://medium.com/p/66e1dcc7a6d3) |
+| Sun, 19 Apr 2026 16:01:09 GMT | Quiet Sunday, Loud Edge Cases: Fixing the Vidiprinter and Retiring the NAT Gateway | Paul Pounder | [Read More](https://medium.com/p/2766667bafba) |
 | Sun, 19 Apr 2026 15:52:03 GMT | AI SOC Hits Nasdaq: Why SEA CISOs Must Ignore the Hype and Prioritize Local Governance | outofspace | [Read More](https://medium.com/p/a50c85129436) |
 | Sun, 19 Apr 2026 15:47:12 GMT | Infosec Advanced: Kerberoasting | pkin1t | [Read More](https://medium.com/p/185f1a466f1f) |
 | Sun, 19 Apr 2026 15:46:27 GMT | The AI That Finally Thinks Before It Speaks: Inside OpenAI’s GPT-5.4-Cyber | Pankaj Yadav | [Read More](https://medium.com/p/4db9d2781329) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Apr 2026 10:43:17 GMT | DMARC alignment: why your perfectly-configured domain still fails | Jon Morby | [Read More](https://medium.com/p/43972b808c36) |
 | Sun, 19 Apr 2026 10:43:07 GMT | Inside a SOC: Why Good Tools Still Fail Without Maturity (My Analysis) | Juhaina.K | [Read More](https://medium.com/p/d16c54be1250) |
 | Sun, 19 Apr 2026 10:38:43 GMT | The Right to Privacy in the age of surveillance : | Adv. Dheerendra Patel | [Read More](https://medium.com/p/39a5f2220a8f) |
-| Sun, 19 Apr 2026 10:32:29 GMT | Building Autonomous Adversarial Defense Systems | Bijit Ghosh | [Read More](https://medium.com/p/0b099d4ba40d) |
-| Sun, 19 Apr 2026 10:26:35 GMT | Reflected XSS Context | 13v! ⚔️ | [Read More](https://medium.com/p/2123b4e87afa) |
-| Sun, 19 Apr 2026 10:24:51 GMT | From SYN to Secure Payment: Understanding TCP & TLS in UPI Transactions | SoloLeveler | [Read More](https://medium.com/p/c636c6acd5d5) |
-| Sun, 19 Apr 2026 10:24:34 GMT | OSINT & OutSystems: Estratégia para Pentests, Security Researchs and Red Teams | Lucas Soares | [Read More](https://medium.com/p/bd5ffec56480) |
-| Sun, 19 Apr 2026 10:22:41 GMT | OSINT & OutSystems: Strategy for Penetration Tests, Security Research, and Red Teams | Lucas Soares | [Read More](https://medium.com/p/412d96c23063) |
-| Sun, 19 Apr 2026 10:22:30 GMT | … | MOAMEN REZK | [Read More](https://medium.com/p/e8f78b52cedb) |
-| Sun, 19 Apr 2026 10:22:19 GMT | HTB Cap — Walkthrough | Shxdowz | [Read More](https://medium.com/p/11007dbf835f) |
-| Sun, 19 Apr 2026 10:13:40 GMT | “TEOS Sentinel Shield: Blocking Unsafe AI Code Before Execution” | Elmahrosa International Ayman Seif | [Read More](https://medium.com/p/daec39a13655) |
-| Sun, 19 Apr 2026 10:08:14 GMT | From Nothing to Full Admin Access: Chaining Broken Access Controls | can1337 | [Read More](https://medium.com/p/f0d5aa76a4c1) |
