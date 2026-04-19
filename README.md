@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 10:38:43 GMT | The Right to Privacy in the age of surveillance : | Adv. Dheerendra Patel | [Read More](https://medium.com/p/39a5f2220a8f) |
+| Sun, 19 Apr 2026 10:32:29 GMT | Building Autonomous Adversarial Defense Systems | Bijit Ghosh | [Read More](https://medium.com/p/0b099d4ba40d) |
+| Sun, 19 Apr 2026 10:26:35 GMT | Reflected XSS Context | 13v! ⚔️ | [Read More](https://medium.com/p/2123b4e87afa) |
+| Sun, 19 Apr 2026 10:24:51 GMT | From SYN to Secure Payment: Understanding TCP & TLS in UPI Transactions | SoloLeveler | [Read More](https://medium.com/p/c636c6acd5d5) |
+| Sun, 19 Apr 2026 10:24:34 GMT | OSINT & OutSystems: Estratégia para Pentests, Security Researchs and Red Teams | Lucas Soares | [Read More](https://medium.com/p/bd5ffec56480) |
+| Sun, 19 Apr 2026 10:22:41 GMT | OSINT & OutSystems: Strategy for Penetration Tests, Security Research, and Red Teams | Lucas Soares | [Read More](https://medium.com/p/412d96c23063) |
+| Sun, 19 Apr 2026 10:22:30 GMT | … | MOAMEN REZK | [Read More](https://medium.com/p/e8f78b52cedb) |
+| Sun, 19 Apr 2026 10:22:19 GMT | HTB Cap — Walkthrough | Shxdowz | [Read More](https://medium.com/p/11007dbf835f) |
+| Sun, 19 Apr 2026 10:13:40 GMT | “TEOS Sentinel Shield: Blocking Unsafe AI Code Before Execution” | Elmahrosa International Ayman Seif | [Read More](https://medium.com/p/daec39a13655) |
+| Sun, 19 Apr 2026 10:08:14 GMT | From Nothing to Full Admin Access: Chaining Broken Access Controls | can1337 | [Read More](https://medium.com/p/f0d5aa76a4c1) |
+| Sun, 19 Apr 2026 10:07:22 GMT | The Data Exposure Risk: Why Sensitive Data Is Still Your Biggest Liability | Chetan Seripally | [Read More](https://medium.com/p/6cf58a4cd78e) |
+| Sun, 19 Apr 2026 10:03:08 GMT | HK Cap 653: Is Your Architecture Audit-Ready? | Eagle Cloud | [Read More](https://medium.com/p/8dea560de2ae) |
+| Sun, 19 Apr 2026 10:00:44 GMT | The Forbidden AI: Why Anthropic is Terrified to Release Claude Mythos | Information For Technologies | [Read More](https://medium.com/p/531ec8a4149d) |
+| Sun, 19 Apr 2026 09:59:11 GMT | The Factory Behind the Fake Bargain | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/7c8e2f80800f) |
+| Sun, 19 Apr 2026 09:59:09 GMT | Why We Choose to Hide | Thirteenth | [Read More](https://medium.com/p/35a93e62589e) |
+| Sun, 19 Apr 2026 09:54:27 GMT | Wireshark Packet Analysis: Investigating Network Traffic Like a SOC Analyst | Rishit Goel | [Read More](https://medium.com/p/a640e15d06fd) |
+| Sun, 19 Apr 2026 09:45:52 GMT | Password Cracking in the Wild: A Red Team Field Guide | 0xbrijith | [Read More](https://medium.com/p/47e1451f9d06) |
+| Sun, 19 Apr 2026 09:43:23 GMT | From Zero to Hero: A Complete Guide to Software Testing for Modern Engineers | Malinda Gamage | [Read More](https://medium.com/p/231969a641f1) |
 | Sun, 19 Apr 2026 09:29:17 GMT | ENISA Vulnerability Database and CRA: What the EUVD Means for Your Products | CRA Decoded | [Read More](https://medium.com/p/cb3d18534545) |
 | Sun, 19 Apr 2026 09:21:01 GMT | Technology Risk Appetite: How Boards Set and Monitor It | Tyson Martin | [Read More](https://medium.com/p/4e79f63003db) |
 | Sun, 19 Apr 2026 09:16:48 GMT | 香港第653章生效：罰款高達500萬，你的 IT 架構是合規佐證還是審計盲點？ | Eagle Cloud | [Read More](https://medium.com/p/b2f22e6e964c) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 23:22:27 GMT | Trump’s Deadline: Peace or Bombs in the Gulf? | Raquel Castro | [Read More](https://medium.com/p/ea6adb0c07b5) |
 | Sat, 18 Apr 2026 23:15:09 GMT | Day-6: Let’s do some labs on CSRF | zero_day | [Read More](https://medium.com/p/f22af85e2a32) |
 | Sat, 18 Apr 2026 23:13:06 GMT | I Tested an LLM-Powered Honeypot. It broke in a few commands. | Who? Tao | [Read More](https://medium.com/p/6ecd6d6b21e5) |
-| Sat, 18 Apr 2026 23:05:58 GMT | Offensive Security Intro — I Hacked a Bank (in a lab) | Adil Abbasov | [Read More](https://medium.com/p/1d3dad973748) |
-| Sat, 18 Apr 2026 23:05:00 GMT | Week 4 of Defensive Security | Muhammad Uzair | [Read More](https://medium.com/p/0b2fc18f7ed2) |
-| Sat, 18 Apr 2026 23:00:36 GMT | Most webhook security guides protect the wrong side. The scary part is delivery. | Aditya Agarwal | [Read More](https://medium.com/p/a1f22a942df6) |
-| Sat, 18 Apr 2026 22:56:52 GMT | CyberDefenders — LockBit Lab Writeup | JBXSec | [Read More](https://medium.com/p/743d9ba9065b) |
-| Sat, 18 Apr 2026 22:44:52 GMT | Beyond Detection: Building an AI-Powered SOC Automation Pipeline with Elastic & Tines | Jasdev Singh | [Read More](https://medium.com/p/30992e7b05bb) |
-| Sat, 18 Apr 2026 22:38:51 GMT | Shots Fired in Ormuz: Why Diplomacy is Failing | Marta Reyes | [Read More](https://medium.com/p/416548c9c489) |
-| Sat, 18 Apr 2026 22:38:46 GMT | Why Digital Security Matters More Than Ever | Hania Khan | [Read More](https://medium.com/p/5deae9604fca) |
-| Sat, 18 Apr 2026 22:37:54 GMT | Breach - WebVerse (GraphQL) | 7s26Simon | [Read More](https://medium.com/p/a7c090c68bd1) |
-| Sat, 18 Apr 2026 22:37:52 GMT | I Scanned 200 AI-Built Apps for Security Issues. Here’s What I Found. | Zack | [Read More](https://medium.com/p/1fddacecfbbe) |
-| Sat, 18 Apr 2026 22:36:59 GMT | ‍☠️ OffSec Access Machine — Full Walkthrough - File Upload to SYSTEM via SeManageVolumePrivilege | Abhishek Sharma | [Read More](https://medium.com/p/2b36693f07a1) |
-| Sat, 18 Apr 2026 22:36:08 GMT | Your “Vibe-Coded” SaaS is Leaking Revenue: 3 Critical Security Fixes You Need Right Now | RepoWrit | [Read More](https://medium.com/p/6bf19aa5381e) |
-| Sat, 18 Apr 2026 22:26:00 GMT | The Silent War Inside Active Directory: 10 Attack Methods SOC Teams Miss | Diya TK | [Read More](https://medium.com/p/a7184c10f407) |
-| Sat, 18 Apr 2026 22:17:35 GMT | Masquerade TryHackMe Writeup: PowerShell Malware & Covert C2 Analysis | M8X2d | [Read More](https://medium.com/p/39013c894dac) |
-| Sat, 18 Apr 2026 22:09:55 GMT | Kuantum Çağında Güvenli Mimari: TypeScript Ekosistemi İçin Post-Kuantum Kriptografi (PQC) Rehberi | Emir Ufak | [Read More](https://medium.com/p/4b7a81447354) |
-| Sat, 18 Apr 2026 22:04:31 GMT | The $2 Billion USB Drive: Inside the Most Sophisticated Cyberweapon Ever Built | Marteinu | [Read More](https://medium.com/p/54d4660ac23f) |
-| Sat, 18 Apr 2026 22:03:44 GMT | KASE Scenarios: SCP — Insurgency | Rishabh Gupta | [Read More](https://medium.com/p/f03e3aafe64c) |
-| Sat, 18 Apr 2026 21:56:33 GMT | Reading Secrets Straight From the Browser: The NEXT_PUBLIC_ Trap | OopsSec Store | [Read More](https://medium.com/p/c4f12f49ee4b) |
-| Sat, 18 Apr 2026 21:37:31 GMT | Why LLMs bypass safety limits and can assist in the most diverse crimes? | matheus.cl | [Read More](https://medium.com/p/c2d801c55086) |
