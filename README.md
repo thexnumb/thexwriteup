@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 19 Apr 2026 07:10:14 GMT | The Emotional Lifecycle of a Bug | Mahek Sota | [Read More](https://medium.com/p/b74aeba47d1d) |
+| Sun, 19 Apr 2026 07:00:41 GMT | Safety | Martin Bartlett | [Read More](https://medium.com/p/14255fdc87b2) |
+| Sun, 19 Apr 2026 06:56:39 GMT | Securing Infrastructure as Code: Terraform Security Fundamentals | SwayamOps | [Read More](https://medium.com/p/f198c3397673) |
+| Sun, 19 Apr 2026 06:46:06 GMT | BYOVD Explained — How Attackers Use Signed Drivers to Kill EDRs | Nimesh nakum | [Read More](https://medium.com/p/37a96bde4094) |
+| Sun, 19 Apr 2026 06:44:30 GMT | Is love scary? | mellsarchive | [Read More](https://medium.com/p/0c3d78e9dfa7) |
+| Sun, 19 Apr 2026 06:39:18 GMT | The Day My Mom Outsmarted a Production System | Vikrant Dheer | [Read More](https://medium.com/p/3bee43990142) |
+| Sun, 19 Apr 2026 06:25:55 GMT | The 6 Attack Dimensions on Enterprise AI Agents That OWASP Does Not Cover | Sumit Giri | [Read More](https://medium.com/p/522d3520f0dc) |
+| Sun, 19 Apr 2026 06:24:00 GMT | TryHackMe — AI Security: AI/ML Security Threats | Lazy Robot | [Read More](https://medium.com/p/2bf117ecca31) |
+| Sun, 19 Apr 2026 06:18:11 GMT | Too Many Features, Not Enough Value: Fixing CNAPP in India | Always learning | [Read More](https://medium.com/p/0aff886402e4) |
+| Sun, 19 Apr 2026 06:14:24 GMT | Subdomain Takeover — Owning Forgotten Assets | ghostyjoe | [Read More](https://medium.com/p/efd81c131ebf) |
+| Sun, 19 Apr 2026 06:07:55 GMT | Zero-Trust System Design: How We Used JWT as an Immutable Context Boundary in Spring-Boot… | Parthsinh Thakor | [Read More](https://medium.com/p/42924aae086f) |
+| Sun, 19 Apr 2026 06:05:01 GMT | Vulota.com: The Rising Cybersecurity Platform for Modern Threat Intelligence | Elliot Alderson | [Read More](https://medium.com/p/0780f14a854c) |
+| Sun, 19 Apr 2026 06:01:31 GMT | My First 10 Days on TryHackMe: A Complete Beginner’s Journey | Farhan | [Read More](https://medium.com/p/4c171994f87d) |
+| Sun, 19 Apr 2026 06:01:01 GMT | Learn Faster or Fall Behind. Cybersecurity in the AI Era. | Osharaky | [Read More](https://medium.com/p/8f44c606119e) |
+| Sun, 19 Apr 2026 06:01:01 GMT | Booking.com Hacked — Attackers Obtain Personal Data of Thousands of Travelers | Patrik Žák | [Read More](https://medium.com/p/5c338454135d) |
+| Sun, 19 Apr 2026 05:54:03 GMT | Why Subfinder Is Every Hacker’s Favorite “Quiet” Tool | Fateyaly | [Read More](https://medium.com/p/cf0baedd6765) |
+| Sun, 19 Apr 2026 05:38:05 GMT | AI Agents Think. They Just Don’t Know They’re Being Watched. | Adesh Kolte | [Read More](https://medium.com/p/2f8eec1dc6a9) |
+| Sun, 19 Apr 2026 05:31:08 GMT | Security Vaults: Protect Your Keys Before They Protect Nothing | Geeky Vartika | [Read More](https://medium.com/p/8316e3ff33ff) |
 | Sun, 19 Apr 2026 05:18:39 GMT | Build a bridge, and someone will try to destroy you. | Evavaculciakova | [Read More](https://medium.com/p/71b478cfae13) |
 | Sun, 19 Apr 2026 05:15:01 GMT | The Heartbeat in the Machine: Why the Dark Web of 2026 is a Human Story | Mohit | [Read More](https://medium.com/p/8382edc0fd0f) |
 | Sun, 19 Apr 2026 05:13:14 GMT | AI Agents Think. They Just Don’t Know They’re Being Watched. | Adesh Kolte | [Read More](https://medium.com/p/78549ff9c3dc) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 18 Apr 2026 19:20:26 GMT | Payment Systems — Designed for Adversarial Behaviour | Lekshmana Perumal | [Read More](https://medium.com/p/59a308af029c) |
 | Sat, 18 Apr 2026 19:16:01 GMT | TryHackMe: Net Sec Challenge Writeup | Robert Gooding | [Read More](https://medium.com/p/af81dad23c10) |
 | Sat, 18 Apr 2026 19:06:01 GMT | When Should You Start Hypothesis-Driven Investigation During Triage? | InfosecPandey | [Read More](https://medium.com/p/a8006688d5a4) |
-| Sat, 18 Apr 2026 18:50:24 GMT | From Zero Auth to Admin Access | 0xTyrion404 | [Read More](https://medium.com/p/c303c0dbe4f8) |
-| Sat, 18 Apr 2026 18:46:33 GMT | Boost Business Efficiency with Reliable IT Support Isle of Man | Just Technology Consulting Ltd | [Read More](https://medium.com/p/260f5f23a033) |
-| Sat, 18 Apr 2026 18:43:55 GMT | The Trojan Hire | O. J. Okpabi | [Read More](https://medium.com/p/a7a82687bce5) |
-| Sat, 18 Apr 2026 18:41:39 GMT | Hüquq Tələbəsi Niyə Linux Öyrənməlidir? Rəqəmsal Ədalətin Yeni Dili | Elcankarimli | [Read More](https://medium.com/p/0c0356f58d60) |
-| Sat, 18 Apr 2026 18:41:33 GMT | AirTouch HTB Writeup | r4ulcl | [Read More](https://medium.com/p/31373cd21a29) |
-| Sat, 18 Apr 2026 18:36:58 GMT | KASLR: How the Kernel Hides from Attackers | Tokyo | [Read More](https://medium.com/p/84b404d405b6) |
-| Sat, 18 Apr 2026 18:35:21 GMT | Performing Reconnaissance️ | ralph | [Read More](https://medium.com/p/357e3501d378) |
-| Sat, 18 Apr 2026 18:27:42 GMT | Blood is Fuel | Abyss | [Read More](https://medium.com/p/17274dd4e506) |
-| Sat, 18 Apr 2026 18:22:56 GMT | Anthropic Built A Cyber Weapon. Now Nobody Can Have It. | Osiris Stephenson | [Read More](https://medium.com/p/691d31ada005) |
-| Sat, 18 Apr 2026 18:20:48 GMT | The API Security Risk: The Silent Gateway Attackers Exploit | Chetan Seripally | [Read More](https://medium.com/p/0826df23248c) |
-| Sat, 18 Apr 2026 18:12:23 GMT | Practical Exploitation of CVE-2024-42009 using Docker and Swaks | Zaid Arif | [Read More](https://medium.com/p/124ac0bad911) |
-| Sat, 18 Apr 2026 18:04:30 GMT | Understanding Dark Web Product Scams: Patterns, Risks, and Red Flags | Tor BBB | [Read More](https://medium.com/p/9244a30cfbdb) |
-| Sat, 18 Apr 2026 17:56:01 GMT | How I Failed OSCP on My First Attempt (Even with Notes Open) and Passed on the Second Try | Alex Rivera | [Read More](https://medium.com/p/14c8826cd253) |
-| Sat, 18 Apr 2026 17:48:58 GMT | Gosu คืออะไร ทำไม Open source image หลาย ๆ ตัวถึงติดมาด้วย ?? | Ponlawat Suparat | [Read More](https://medium.com/p/d629035d93bc) |
-| Sat, 18 Apr 2026 17:48:37 GMT | Understanding the OSI Model: A Deep Dive into How the Internet Actually Works | r00t | [Read More](https://medium.com/p/1658c807775e) |
-| Sat, 18 Apr 2026 17:44:09 GMT | Sound Meets Computing: Exploring Digital Audio Technology | Samuelyasiru | [Read More](https://medium.com/p/6eb79a91de19) |
-| Sat, 18 Apr 2026 17:40:17 GMT | TryHackMe - Jailbreaking - WriteUp | Axoloth | [Read More](https://medium.com/p/14f852ebe037) |
-| Sat, 18 Apr 2026 17:38:59 GMT | DevSecOps Yolculuğu Bölüm 2: SonarQube kaynaklı SAST Bulgularının Doğrulanması | Tolga D. | [Read More](https://medium.com/p/c94cdcd02346) |
