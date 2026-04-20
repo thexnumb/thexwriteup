@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Apr 2026 21:57:30 GMT | Alice_In_Rans0ml4nd — Ransomware Forensics Analysis | D3XTER | [Read More](https://medium.com/p/0b25aace0981) |
+| Mon, 20 Apr 2026 21:56:07 GMT | When a Tiny Model Beats the Giant — And What That Means for AI Governance | Tae Yeon Eom | [Read More](https://medium.com/p/fc9709f4dbda) |
+| Mon, 20 Apr 2026 21:44:49 GMT | CCD — Cohort 01 — Room 5: Network Forensics Writeup (FirstBank Breach I–IV) | sUdO3 | [Read More](https://medium.com/p/ba0c62987e3a) |
+| Mon, 20 Apr 2026 21:44:12 GMT | HTB: Synced Box Walkthrough | Coldstart Coder | [Read More](https://medium.com/p/a6718b3dbdf1) |
+| Mon, 20 Apr 2026 21:39:55 GMT | SOUL.md Is Not a Security Boundary | Saurabh Jain | [Read More](https://medium.com/p/0cbbe685f43a) |
+| Mon, 20 Apr 2026 21:31:01 GMT | Hermes Agent Review: Nous Research's Self-Improving AI Agent | Krzysztof Słomka | [Read More](https://medium.com/p/e72bc244435a) |
+| Mon, 20 Apr 2026 21:17:12 GMT | Your Vibe-Coded App Has a Security Problem. This Prompt Fixes It. | Owadokun Tosin Tobi | [Read More](https://medium.com/p/29747a2e3e82) |
+| Mon, 20 Apr 2026 21:11:32 GMT | AI Security in 2026: What Every Business Needs to Know | Isabella Di Fabio | [Read More](https://medium.com/p/8d3941821a12) |
+| Mon, 20 Apr 2026 21:06:43 GMT | The Intelligent, The Scientific. A POV. | The Mentalist | [Read More](https://medium.com/p/da3d75c09119) |
+| Mon, 20 Apr 2026 21:04:30 GMT | One Employee. One Careless Click. Millions of Developers at Risk. | nithunwilson | [Read More](https://medium.com/p/a171fe36f81e) |
+| Mon, 20 Apr 2026 21:02:01 GMT | The Vercel Hack :A Wake-Up Call for the AI Supply Chain Era | Tanisha fonseca | [Read More](https://medium.com/p/69f3cfd576f6) |
 | Mon, 20 Apr 2026 21:01:28 GMT | Unfiltered Restart — Day 52: Interviews, Day 1 + More OMV Setup | Maximillian Rueda | [Read More](https://medium.com/p/ab4cc7afa3f7) |
+| Mon, 20 Apr 2026 20:54:46 GMT | The Invisible Shield: What Happens if America’s Biggest Spy Tool Shuts Down? | CCD-IS | [Read More](https://medium.com/p/b5f03919d92f) |
 | Mon, 20 Apr 2026 20:49:32 GMT | OAuth Account Hijacking via redirect_uri (PortSwigger Lab)-A Practical Walkthrough | Sambeet Kumar Swain | [Read More](https://medium.com/p/e238aeaec998) |
 | Mon, 20 Apr 2026 20:44:33 GMT | Krioptrix Level-3 Walkthrough | Vivek Goswami | [Read More](https://medium.com/p/49a79c86f7a6) |
 | Mon, 20 Apr 2026 20:41:01 GMT | Detect Phishing Attacks in Email Containers with PHP | Cloudmersive | [Read More](https://medium.com/p/8568420acbf1) |
@@ -101,15 +113,3 @@ Inside Mustang Panda, China’s Most Persistent Cyber Espionage… | Ezechi Jere
 | Mon, 20 Apr 2026 14:59:18 GMT | MiningDropper on Android: A Growing Threat Delivering Infostealers and Banking Malware | Jas | [Read More](https://medium.com/p/4191d29c793f) |
 | Mon, 20 Apr 2026 14:55:22 GMT | AI Is Going to Replace Your Job | Edie O. | [Read More](https://medium.com/p/7117552546b8) |
 | Mon, 20 Apr 2026 14:48:24 GMT | RAG Security Fundamentals Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/b8ce087c5354) |
-| Mon, 20 Apr 2026 14:43:51 GMT | I Didn’t Fail the Interview — The Interview Was the Scam | Shanu Reddy | [Read More](https://medium.com/p/09aa01505f1c) |
-| Mon, 20 Apr 2026 14:39:28 GMT | How Currency Exchange Networks Can Be Exploited in Cross-Border Financial Crime | Ybdale | [Read More](https://medium.com/p/941912bc2a19) |
-| Mon, 20 Apr 2026 14:33:08 GMT | Digital Certificates: X.509 format, SANs, Wildcard Certificates, CRLs, OCSP, and more | Mahdi | [Read More](https://medium.com/p/b624914be897) |
-| Mon, 20 Apr 2026 14:32:40 GMT | From Trusted Wires to the Open Internet | Haggai Philip Zagury | [Read More](https://medium.com/p/43dfe7807d28) |
-| Mon, 20 Apr 2026 14:27:10 GMT | 5 Reasons Your Phone is Overheating (And How to Fix It Like a Pro | Sampurnakart - MacBook & Laptop Repair Training | [Read More](https://medium.com/p/dfab0f65fbf0) |
-| Mon, 20 Apr 2026 14:16:56 GMT | I Found a Critical Bug in Meesho. | Crimsonsovereign | [Read More](https://medium.com/p/b1d567c5eb7d) |
-| Mon, 20 Apr 2026 14:16:01 GMT | Rebuilding the Middle — What Organizations and Individuals Must Do Before the Pipeline Runs Dry | Ehulse | [Read More](https://medium.com/p/dbecf39c986a) |
-| Mon, 20 Apr 2026 14:11:01 GMT | Vercel Got Hacked! | Jim Clyde Monge | [Read More](https://medium.com/p/93f5f4f341a1) |
-| Mon, 20 Apr 2026 14:04:29 GMT | Why I Wrote My Own Log Analyzer Instead of Using Splunk | judeh0747 | [Read More](https://medium.com/p/ec2f1858b24f) |
-| Mon, 20 Apr 2026 13:56:01 GMT | Scaling AI Is Easy - Making It Work in Real Hiring Is the Real Challenge(2026) | Xwtempsolutions | [Read More](https://medium.com/p/71748296a8b5) |
-| Mon, 20 Apr 2026 13:48:59 GMT | Stop Letting Your AI Agents Execute Naked: Introducing Lirix v1.0.0 | lokii | [Read More](https://medium.com/p/0f7056e84a70) |
-| Mon, 20 Apr 2026 13:43:51 GMT | Claude Mythos: The AI That Can Hack the World — And Why You Should Care | Sandeep Sengupta | [Read More](https://medium.com/p/486018b3b416) |
