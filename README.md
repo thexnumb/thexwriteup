@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Apr 2026 16:31:01 GMT | How Hackers Got Into Vercel — And Why This Keeps Happening | MayhemCode | [Read More](https://medium.com/p/2b566a9d3787) |
+| Mon, 20 Apr 2026 16:31:01 GMT | CyberDefenders — Ramnit Lab Writeup | JBXSec | [Read More](https://medium.com/p/321a1071658c) |
+| Mon, 20 Apr 2026 16:26:01 GMT | Execution AI Governance: Where Systems Learn to Refuse | Grace Adjeli | [Read More](https://medium.com/p/ef4bf12349f7) |
+| Mon, 20 Apr 2026 16:24:13 GMT | SentinelShield AI: The Future of Autonomous Cybersecurity | Dakshp Shah | [Read More](https://medium.com/p/435dd2158a96) |
+| Mon, 20 Apr 2026 16:18:54 GMT | What TLS Fingerprinting Is in 2026 and Why It Matters | Aleksei Aleinikov | [Read More](https://medium.com/p/9220e25f2c33) |
+| Mon, 20 Apr 2026 16:17:27 GMT | Building Secure and Resilient Digital Infrastructure: From Early Curiosity to Real-World… | Aishgavali | [Read More](https://medium.com/p/5f5da055dc03) |
+| Mon, 20 Apr 2026 16:13:13 GMT | Anthropic Claude Mythos Cybersecurity Risks: Why the New AI Has Global Regulators Scrambling | Deepak S. | [Read More](https://medium.com/p/bf97685c218d) |
+| Mon, 20 Apr 2026 16:10:41 GMT | Claude Mythos; what we should fear | Starploom | [Read More](https://medium.com/p/6302ef220e9d) |
+| Mon, 20 Apr 2026 16:06:06 GMT | IDOR: The $10,000 Bug Hiding in Plain Sight | EMTIAZ AHMED | [Read More](https://medium.com/p/5566cbd9e9be) |
+| Mon, 20 Apr 2026 16:05:05 GMT | HTB Academy: Linux Fundamentals — The Shell → System Information | Aditya Pandey | [Read More](https://medium.com/p/c1dd42b7ab7e) |
+| Mon, 20 Apr 2026 16:03:30 GMT | Securing AI Agents | Alvin Lee | [Read More](https://medium.com/p/a7011c686381) |
+| Mon, 20 Apr 2026 16:02:17 GMT | Google Cloud Security Best Practices: A Comprehensive Guide using Java | CodeTechFI( I.F ) | [Read More](https://medium.com/p/7e7660251513) |
+| Mon, 20 Apr 2026 15:58:11 GMT | Bug Bounty Burnout: I Took a Month Off and It Fixed Everything | EMTIAZ AHMED | [Read More](https://medium.com/p/1bbbde3990d5) |
+| Mon, 20 Apr 2026 15:57:52 GMT | How LLMs Actually Avoid Training on User Data | Jennifer Fu | [Read More](https://medium.com/p/802f15a23e9b) |
+| Mon, 20 Apr 2026 15:50:05 GMT | A Rabbit Hole in Recon: When IDOR Turns Out to Be Nothing | Abdelrahman Maged | [Read More](https://medium.com/p/078a4051757a) |
+| Mon, 20 Apr 2026 15:43:59 GMT | Skynet— TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/ede0ba49f363) |
+| Mon, 20 Apr 2026 15:42:26 GMT | Double Kill: Authentication Bypass in SuiteCRM via LDAP and SQL Injection | Guilherme Mury | [Read More](https://medium.com/p/cb62bffa70f6) |
+| Mon, 20 Apr 2026 15:40:51 GMT | When AI Agents Go Rogue: What Happens When You Red Team a Language Model | Souradeep Chandra | [Read More](https://medium.com/p/4fa37c08c872) |
+| Mon, 20 Apr 2026 15:36:44 GMT | I wasn’t premium But I invited a teammate anyway — Authorization Bypass Allowing Non-Premium Users… | O iluminado_x86 | [Read More](https://medium.com/p/425d610434a3) |
+| Mon, 20 Apr 2026 15:33:53 GMT | A frustrated researcher dropped three Windows Defender zero-days on GitHub | Stanislav Klevtsov | [Read More](https://medium.com/p/26127bb1fa1a) |
+| Mon, 20 Apr 2026 15:25:32 GMT | Price manipulation(How a Simple OTP Flaw Could Lead to Full Account Takeover part 2) | blackmambaa001 | [Read More](https://medium.com/p/90e1fa6ee679) |
+| Mon, 20 Apr 2026 15:24:37 GMT | How Fail2Ban Can Safeguard Your Server from Brute Force Attacks | Aman Reddy | [Read More](https://medium.com/p/aa0f1e948e97) |
+| Mon, 20 Apr 2026 15:21:21 GMT | Applications of Artificial Intelligence in Cyber Security: Transforming Digital Defense | Naman | [Read More](https://medium.com/p/2a060c34f78f) |
 | Mon, 20 Apr 2026 15:05:46 GMT | AI Just Became a Hacker: Why Anthropic’s Mythos Changes Everything | Arnav Daultani | [Read More](https://medium.com/p/1c3e6942f4dd) |
 | Mon, 20 Apr 2026 15:04:30 GMT | Why IT Resilience Matters More Than Ever in a Volatile Economy | Kenn Anderson, Jr. | [Read More](https://medium.com/p/9586354fc488) |
 | Mon, 20 Apr 2026 15:03:47 GMT | Double Kill: Authentication Bypass in SuiteCRM via LDAP and SQL Injection | Guilherme Mury | [Read More](https://medium.com/p/59ddb31c03a4) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Apr 2026 11:09:03 GMT | How I Found a Reflected XSS Vulnerability on College Website — and What Happened Next. | Aficionadoash | [Read More](https://medium.com/p/281608f23863) |
 | Mon, 20 Apr 2026 11:01:01 GMT | Writeup for picoCTF challenge “JaWT Scratchpad” | Walter Moar | [Read More](https://medium.com/p/196750781bc6) |
 | Mon, 20 Apr 2026 10:57:56 GMT | Cloud Security Solutions for Enterprise Data Protection - VSolutions Inc | Srinivas Yerravelli | [Read More](https://medium.com/p/cfaf36047b90) |
-| Mon, 20 Apr 2026 10:44:20 GMT | After Recon, What Next? A Practical Framework for Security Testing at Scale | Niskey kay | [Read More](https://medium.com/p/4d27df92eeff) |
-| Mon, 20 Apr 2026 10:37:19 GMT | Healthy Smiles Start Young: Why Kids Need Dental Care Early(2026) | Thedentalclinic | [Read More](https://medium.com/p/2946ada33065) |
-| Mon, 20 Apr 2026 10:28:49 GMT | Catching Secrets Before They Leak: How We Built an End-to-End Secret Detection System at Scale | Zepto Tech | [Read More](https://medium.com/p/7bf1541801c7) |
-| Mon, 20 Apr 2026 10:23:57 GMT | Massive MIMO Market Size, Share - Industry Trend & Forecast 2035 | NIkita Poplai | [Read More](https://medium.com/p/f153ba47ef1e) |
-| Mon, 20 Apr 2026 10:14:46 GMT | What Will I Actually Learn in an Online Ethical Hacking Course? (Tools, Skills & Career Path) | Aditya | [Read More](https://medium.com/p/052e6dbeae71) |
-| Mon, 20 Apr 2026 10:12:41 GMT | How a Simple OTP Flaw Could Lead to Full Account Takeover | blackmambaa001 | [Read More](https://medium.com/p/12220a10a63b) |
-| Mon, 20 Apr 2026 10:00:15 GMT | Best IoT Pentesting Summer Internship Program for Students in 2026 | cyber security Updates | [Read More](https://medium.com/p/132b9e2965b2) |
-| Mon, 20 Apr 2026 09:58:53 GMT | Vercel Just Got Pwned Through an AI Tool. Welcome to the 2026 Attack Surface. | Sinan Yaman | [Read More](https://medium.com/p/93c3a97f46dd) |
-| Mon, 20 Apr 2026 09:57:45 GMT | Cybersecurity should be a Natural Instinct | Aserva | [Read More](https://medium.com/p/7eedae36c6b4) |
-| Mon, 20 Apr 2026 09:55:29 GMT | Best Ethical Hacking Course in Calicut | Sourv | [Read More](https://medium.com/p/eaa3e2e700c5) |
-| Mon, 20 Apr 2026 09:55:27 GMT | How We Are Building Compliance Matrix: Our Journey Toward a Unified Security Compliance Solution | Husiev Eduard | [Read More](https://medium.com/p/81fa54942be7) |
-| Mon, 20 Apr 2026 09:54:46 GMT | Detecting Website Technologies in 2026: Browser Extensions and Why They’re Not Enough | Yannick Boog | [Read More](https://medium.com/p/d9774c2f3757) |
-| Mon, 20 Apr 2026 09:52:04 GMT | Cloud Security Solutions: Why “Secure Enough” Isn’t Enough Anymore | Whizcamp LLC | [Read More](https://medium.com/p/a714944843ce) |
-| Mon, 20 Apr 2026 09:50:14 GMT | XML Injection & XXE Mastery: The Complete Exploitation Playbook (From Basic Payloads to Advanced… | Aman Gupta | [Read More](https://medium.com/p/a86e88bd1798) |
-| Mon, 20 Apr 2026 09:42:30 GMT | Under Siege: How the First 112 Days of 2026 Rewrote the Rules of DeFi Risk | Nitin Vinayachandran | [Read More](https://medium.com/p/558757dca52f) |
-| Mon, 20 Apr 2026 09:41:05 GMT | Market Forecast: In-App Protection | Umangp | [Read More](https://medium.com/p/579598fe913e) |
-| Mon, 20 Apr 2026 09:36:46 GMT | How Saudi Arabia Handles Data Sovereignty in a Cloud-First Era | Rahman Iqbal | [Read More](https://medium.com/p/bc1d4a6d3a75) |
-| Mon, 20 Apr 2026 09:35:22 GMT | Quick Read: How to Spot and Respond to Incidents | Digital Defense | [Read More](https://medium.com/p/c498bce8cd7c) |
-| Mon, 20 Apr 2026 09:34:46 GMT | AI-Powered Cyber Attacks in 2025: How to Protect Your Business | Rakshastackteam | [Read More](https://medium.com/p/6aec1bd367f8) |
-| Mon, 20 Apr 2026 09:33:33 GMT | Build A Complete Smart Home Security With Noorio | Noorio India | [Read More](https://medium.com/p/6da0c84558de) |
-| Mon, 20 Apr 2026 09:30:22 GMT | Car Key Locksmith Oak Park IL | Car Key Locksmith Oak Park IL | [Read More](https://medium.com/p/835926a79e0d) |
-| Mon, 20 Apr 2026 09:28:12 GMT | Electronic Medical Record (EMR) Software: Transforming Healthcare with AVI MedTech | AVI MEDTECH | [Read More](https://medium.com/p/d08381188197) |
-| Mon, 20 Apr 2026 09:21:43 GMT | Examining the Vercel Incident: Why Enterprises Still Need Predictable Application Layers | Nigel Tape | [Read More](https://medium.com/p/9088f9ce85ea) |
