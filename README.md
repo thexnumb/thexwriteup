@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Apr 2026 23:01:01 GMT | Automotive’s 2025 Unreal Problem Starts With Versions and Responsibility | James Kuhman | [Read More](https://medium.com/p/8e282f7e451c) |
+| Mon, 20 Apr 2026 22:55:31 GMT | Temporary Destruction | uncle | [Read More](https://medium.com/p/693414f1f910) |
+| Mon, 20 Apr 2026 22:51:12 GMT | How to Choose a Security Company in Houston: The 2026 Guide | AlexBryn | [Read More](https://medium.com/p/e402b903d330) |
+| Mon, 20 Apr 2026 22:47:38 GMT | The shared responsibility model is the biggest unexamined assumption in enterprise GRC | Rafat Yazdani | [Read More](https://medium.com/p/bda8c128535b) |
+| Mon, 20 Apr 2026 22:37:06 GMT | 3.5M Cybersecurity Jobs Are Open. So Why Can’t You Get Hired? | Irene A. Gil | [Read More](https://medium.com/p/99d82a8d8bc3) |
+| Mon, 20 Apr 2026 22:28:23 GMT | Communicating the Right Thing to the Right Audience | Tia B | [Read More](https://medium.com/p/4e909dd0f973) |
+| Mon, 20 Apr 2026 22:26:17 GMT | I never planned to get into cybersecurity… | Anna Nechaeva | [Read More](https://medium.com/p/98a701f6f860) |
+| Mon, 20 Apr 2026 22:21:12 GMT | AI-Powered File Security: Protecting Your Laravel App with Magika | Abdelmjid | [Read More](https://medium.com/p/f2e17d5a1cc3) |
+| Mon, 20 Apr 2026 22:21:10 GMT | Obsolete AI #009: The Week AI Vendors Started Pulling the Rug — For Real | Sérgio Caiado | [Read More](https://medium.com/p/d5aefc51e632) |
+| Mon, 20 Apr 2026 22:19:05 GMT | Exploiting Hidden SQL Injection in a Job Portal: From Bypass to Data Exposure | Zallnugraha | [Read More](https://medium.com/p/4338ad11ccea) |
+| Mon, 20 Apr 2026 22:11:08 GMT | From Prompt to Root: Connecting LLaMA to Metasploit in an Isolated Lab | Mohamed  Ghareeb | [Read More](https://medium.com/p/999db1d06a3a) |
+| Mon, 20 Apr 2026 22:03:51 GMT | Nasai Maestro 9.0 vs. State-of-the-Art: Uma Análise de IA Ofensiva | Maximiliano Tarigo | [Read More](https://medium.com/p/b89af206b04c) |
 | Mon, 20 Apr 2026 21:57:30 GMT | Alice_In_Rans0ml4nd — Ransomware Forensics Analysis | D3XTER | [Read More](https://medium.com/p/0b25aace0981) |
 | Mon, 20 Apr 2026 21:56:07 GMT | When a Tiny Model Beats the Giant — And What That Means for AI Governance | Tae Yeon Eom | [Read More](https://medium.com/p/fc9709f4dbda) |
 | Mon, 20 Apr 2026 21:44:49 GMT | CCD — Cohort 01 — Room 5: Network Forensics Writeup (FirstBank Breach I–IV) | sUdO3 | [Read More](https://medium.com/p/ba0c62987e3a) |
@@ -101,15 +113,3 @@ Inside Mustang Panda, China’s Most Persistent Cyber Espionage… | Ezechi Jere
 | Mon, 20 Apr 2026 15:42:26 GMT | Double Kill: Authentication Bypass in SuiteCRM via LDAP and SQL Injection | Guilherme Mury | [Read More](https://medium.com/p/cb62bffa70f6) |
 | Mon, 20 Apr 2026 15:40:51 GMT | When AI Agents Go Rogue: What Happens When You Red Team a Language Model | Souradeep Chandra | [Read More](https://medium.com/p/4fa37c08c872) |
 | Mon, 20 Apr 2026 15:36:44 GMT | I wasn’t premium But I invited a teammate anyway — Authorization Bypass Allowing Non-Premium Users… | O iluminado_x86 | [Read More](https://medium.com/p/425d610434a3) |
-| Mon, 20 Apr 2026 15:33:53 GMT | A frustrated researcher dropped three Windows Defender zero-days on GitHub | Stanislav Klevtsov | [Read More](https://medium.com/p/26127bb1fa1a) |
-| Mon, 20 Apr 2026 15:25:32 GMT | Price manipulation(How a Simple OTP Flaw Could Lead to Full Account Takeover part 2) | blackmambaa001 | [Read More](https://medium.com/p/90e1fa6ee679) |
-| Mon, 20 Apr 2026 15:24:37 GMT | How Fail2Ban Can Safeguard Your Server from Brute Force Attacks | Aman Reddy | [Read More](https://medium.com/p/aa0f1e948e97) |
-| Mon, 20 Apr 2026 15:21:21 GMT | Applications of Artificial Intelligence in Cyber Security: Transforming Digital Defense | Naman | [Read More](https://medium.com/p/2a060c34f78f) |
-| Mon, 20 Apr 2026 15:05:46 GMT | AI Just Became a Hacker: Why Anthropic’s Mythos Changes Everything | Arnav Daultani | [Read More](https://medium.com/p/1c3e6942f4dd) |
-| Mon, 20 Apr 2026 15:04:30 GMT | Why IT Resilience Matters More Than Ever in a Volatile Economy | Kenn Anderson, Jr. | [Read More](https://medium.com/p/9586354fc488) |
-| Mon, 20 Apr 2026 15:03:47 GMT | Double Kill: Authentication Bypass in SuiteCRM via LDAP and SQL Injection | Guilherme Mury | [Read More](https://medium.com/p/59ddb31c03a4) |
-| Mon, 20 Apr 2026 15:01:13 GMT | Getting through GSEC and GFACT in 2026 | Atharv Pandit | [Read More](https://medium.com/p/e5cb68e2a14f) |
-| Mon, 20 Apr 2026 14:59:32 GMT | ​The Day the World Stood Still: The WannaCry Ransomware Chronicles | Tapudhan Rongpee | [Read More](https://medium.com/p/257969c30db0) |
-| Mon, 20 Apr 2026 14:59:18 GMT | MiningDropper on Android: A Growing Threat Delivering Infostealers and Banking Malware | Jas | [Read More](https://medium.com/p/4191d29c793f) |
-| Mon, 20 Apr 2026 14:55:22 GMT | AI Is Going to Replace Your Job | Edie O. | [Read More](https://medium.com/p/7117552546b8) |
-| Mon, 20 Apr 2026 14:48:24 GMT | RAG Security Fundamentals Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/b8ce087c5354) |
