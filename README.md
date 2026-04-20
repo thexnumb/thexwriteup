@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Apr 2026 19:55:55 GMT | AI/ML Security Threats TryHackMe Walkthrough | Rormsbee | [Read More](https://medium.com/p/16bd979843c0) |
+| Mon, 20 Apr 2026 19:50:11 GMT | Open-Source AI SOC Analyst That Actually Works — Meet Talon | SOCFortress | [Read More](https://medium.com/p/c38fa082f741) |
+| Mon, 20 Apr 2026 19:49:05 GMT | Title: The Importance of Asset Management and Secure Credential Handling in Modern Cybersecurity | Linda Alcorn | [Read More](https://medium.com/p/c9f86abaf4aa) |
+| Mon, 20 Apr 2026 19:45:19 GMT | The End of the Four-Year Cycle: Preparing for Permanent Volatility | CryptDocker | [Read More](https://medium.com/p/28e276a46642) |
+| Mon, 20 Apr 2026 19:41:44 GMT | Stop Leaking Personal Info to GitHub: I Built a Local, GPU-Powered PII Scanner | Peter Ayad | [Read More](https://medium.com/p/f3aafe65641f) |
+| Mon, 20 Apr 2026 19:37:36 GMT | HackTheBox Certified Defensive Security Analyst (CDSA) Review | 0xh4lpy | [Read More](https://medium.com/p/1f7a9e3a1817) |
+| Mon, 20 Apr 2026 19:27:08 GMT | Why Most Companies Don’t Get Hacked… They Get Logged Into | Sharyarrathore | [Read More](https://medium.com/p/0195d76a97f9) |
+| Mon, 20 Apr 2026 19:18:58 GMT | Searching for Identity Governance Software Recommendations for Access Visibility and Control | Tech Prescient | [Read More](https://medium.com/p/9e96dc441165) |
+| Mon, 20 Apr 2026 19:16:02 GMT | Defensive Security Intro — My First Time Acting as a SOC Analyst | Adil Abbasov | [Read More](https://medium.com/p/35de09d016e8) |
 | Mon, 20 Apr 2026 19:07:32 GMT | 5 Ways AI is Transforming Cybersecurity in 2026 | Saikiran | [Read More](https://medium.com/p/1fa26fb7a8b3) |
 | Mon, 20 Apr 2026 19:05:48 GMT | 5 Things Every Small Business Should Expect From an IT Provider in 2026 | Synogen Solutions | [Read More](https://medium.com/p/1b17621ddaf2) |
 | Mon, 20 Apr 2026 19:00:44 GMT | Your AI Program Isn’t Ready for An Audit | James Word | [Read More](https://medium.com/p/0d8df4081216) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Apr 2026 13:24:11 GMT | How Mythos AI Exposes US Cybersecurity’s Weakest Link | Rick Lane | [Read More](https://medium.com/p/9d9a727ff4be) |
 | Mon, 20 Apr 2026 13:21:33 GMT | Moving at the Speed of Risk | Claire Scanlon | [Read More](https://medium.com/p/565cb4842083) |
 | Mon, 20 Apr 2026 13:18:31 GMT | Prompt Injection in AI-Powered Applications | Navindu | [Read More](https://medium.com/p/560c2ad5441d) |
-| Mon, 20 Apr 2026 13:17:48 GMT | Why You Should Pay Attention to Claude Mythos If You Work in Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/18fea88317f7) |
-| Mon, 20 Apr 2026 13:16:30 GMT | Why most cloud detections fail in real environments | Fernando (Sh4dowBR) Alencar | [Read More](https://medium.com/p/d583545242cf) |
-| Mon, 20 Apr 2026 13:07:19 GMT | Refractories Company in India & Global Leaders: A Complete Industry Overview. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/32ec2ba4d6d5) |
-| Mon, 20 Apr 2026 13:03:28 GMT | The Current State Agentic Penetration Testing | Anasshlool | [Read More](https://medium.com/p/2ca2d0874adb) |
-| Mon, 20 Apr 2026 13:01:27 GMT | AI-Driven Penetration Testing: Integrating Kali Linux Arsenal with LLMs Through MCP | mamanwhide | [Read More](https://medium.com/p/4b8bd0c00392) |
-| Mon, 20 Apr 2026 13:01:24 GMT | Qualitative vs Quantitative: What’s the Real Difference in 2026? | BioBrain Insights | [Read More](https://medium.com/p/08668ee426c2) |
-| Mon, 20 Apr 2026 13:01:15 GMT | The Vercel Breach Is a Wake-Up Call for Every Developer - Anurag Srivastav Thammera | AnuragSrivastavThammera | [Read More](https://medium.com/p/c3fba106a95c) |
-| Mon, 20 Apr 2026 13:01:02 GMT | Every AI Agent Needs a *Secure Browser | Mammoth Cyber | [Read More](https://medium.com/p/799185700961) |
-| Mon, 20 Apr 2026 13:01:02 GMT | Why I Switched From Chrome! | Abdul Kader | [Read More](https://medium.com/p/8b767d144f86) |
