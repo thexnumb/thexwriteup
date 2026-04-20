@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Apr 2026 17:51:20 GMT | # How Hackers Actually Think: Breaking Down the Attacker Mindset | Muhammed Farhan A | [Read More](https://medium.com/p/96ca02da034e) |
+| Mon, 20 Apr 2026 17:50:25 GMT | TryHackMe — ContAInment-Writeup | Szilidam | [Read More](https://medium.com/p/2c9019b892f7) |
+| Mon, 20 Apr 2026 17:46:14 GMT | Attackers Breach Vercel, Demand $2M for Stolen API Keys | Tara Prasad Routray | [Read More](https://medium.com/p/eae35d2340dd) |
+| Mon, 20 Apr 2026 17:44:41 GMT | Vercel Got Breached. Here Is What Happened and What You Should Do Right Now. | Ajay Yadav | [Read More](https://medium.com/p/271b5984529f) |
+| Mon, 20 Apr 2026 17:40:13 GMT | Using big data for better cybersecurity | NetworkTigers | [Read More](https://medium.com/p/e15f895d51e3) |
+| Mon, 20 Apr 2026 17:38:04 GMT | The Hidden Art of Testing Authorization — Where Most Critical Bugs Exist | Pradeeptadi | [Read More](https://medium.com/p/b70f0c3198d2) |
+| Mon, 20 Apr 2026 17:14:38 GMT | Simple Label That Could Bring Clarity Back to Social Media | Chris G. Schomburg | [Read More](https://medium.com/p/ebcba38cd453) |
+| Mon, 20 Apr 2026 17:13:51 GMT | FBI’s 2025 Crime Report Reveals a $893 Million AI Fraud Crisis Nobody Saw Coming | Before The Curve | [Read More](https://medium.com/p/d40f2997aa86) |
+| Mon, 20 Apr 2026 17:13:22 GMT | PortSwigger Lab : Reflected XSS into HTML context with nothing encoded (PortSwigger Academy) | Ahmed Sedky | [Read More](https://medium.com/p/b57b3f934172) |
+| Mon, 20 Apr 2026 17:05:31 GMT | 2d to 3d — ctf writeup | wal-z1 | [Read More](https://medium.com/p/9af36535a1db) |
+| Mon, 20 Apr 2026 17:03:16 GMT | ⚡️Claude Mythos: The AI That Can Actually Hack Systems — And Why Every Developer Should Care | Shashidhar Jagatap | [Read More](https://medium.com/p/4e3043a860e2) |
+| Mon, 20 Apr 2026 16:54:23 GMT | How to Send Logs from Linux Using Rsyslog: A Beginner’s Guide | Natthanan | [Read More](https://medium.com/p/4510ae87f9af) |
+| Mon, 20 Apr 2026 16:43:56 GMT | The Layer Your Database Is Missing | Prem Kumar | [Read More](https://medium.com/p/b2770e3b5acb) |
 | Mon, 20 Apr 2026 16:31:01 GMT | How Hackers Got Into Vercel — And Why This Keeps Happening | MayhemCode | [Read More](https://medium.com/p/2b566a9d3787) |
 | Mon, 20 Apr 2026 16:31:01 GMT | CyberDefenders — Ramnit Lab Writeup | JBXSec | [Read More](https://medium.com/p/321a1071658c) |
 | Mon, 20 Apr 2026 16:26:01 GMT | Execution AI Governance: Where Systems Learn to Refuse | Grace Adjeli | [Read More](https://medium.com/p/ef4bf12349f7) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Apr 2026 11:41:07 GMT | Building Enterprise and Scalable Web Solutions with Drupal | Drupart Digital | [Read More](https://medium.com/p/96cdfa2b4627) |
 | Mon, 20 Apr 2026 11:39:53 GMT | The Global Fight Over Data Sovereignty: Who Owns Your Data? | Corrida Legal - Corporate and Employment Law Firm | [Read More](https://medium.com/p/2c475160952e) |
 | Mon, 20 Apr 2026 11:39:49 GMT | when mix an Agentic AI+ Python + and Threat Hunting? | Ahmad Hassan | [Read More](https://medium.com/p/7917f53044d6) |
-| Mon, 20 Apr 2026 11:37:08 GMT | Can you get in trouble for ethical hacking? | Securetaintraining | [Read More](https://medium.com/p/b48771c07db1) |
-| Mon, 20 Apr 2026 11:32:41 GMT | Hey everyone, I need some help! | Jina | [Read More](https://medium.com/p/c7b8475840f5) |
-| Mon, 20 Apr 2026 11:31:01 GMT | The Night SSH Logged In Twice With the Same Key #5 | Faruk Ahmed | [Read More](https://medium.com/p/dad35c1629ab) |
-| Mon, 20 Apr 2026 11:30:35 GMT | Is Your E-commerce Store Really Secure? | Beacon Coders | [Read More](https://medium.com/p/43b557fb1648) |
-| Mon, 20 Apr 2026 11:29:07 GMT | Troubleshooting Common KYC Document Upload Issues | Lenna Mustik | [Read More](https://medium.com/p/0df2a20865ec) |
-| Mon, 20 Apr 2026 11:27:55 GMT | When Hackers Start Thinking Like Machines: The Mexico AI Breach | Sharanraju | [Read More](https://medium.com/p/c980592f2f41) |
-| Mon, 20 Apr 2026 11:22:57 GMT | 7 Subfinder Tricks That Instantly Expand Your Attack Surface | Fateyaly | [Read More](https://medium.com/p/eb9793497e8c) |
-| Mon, 20 Apr 2026 11:17:36 GMT | How I Discovered A Critical Vulnerability In Bridge Reserve Management (CVE-2026–41204) | Sumit Shah (HackSage) | [Read More](https://medium.com/p/ab419ceaf6e3) |
-| Mon, 20 Apr 2026 11:11:55 GMT | The Robotized Defensive Line: Why the Future Border Is Not a Wall, but a Mind | Gormenz | [Read More](https://medium.com/p/0ef565542235) |
-| Mon, 20 Apr 2026 11:10:24 GMT | How Zone-Based Access Control Is Changing Event Security in Saudi Arabia | Stampiq | [Read More](https://medium.com/p/63e46ab0c811) |
-| Mon, 20 Apr 2026 11:09:03 GMT | How I Found a Reflected XSS Vulnerability on College Website — and What Happened Next. | Aficionadoash | [Read More](https://medium.com/p/281608f23863) |
-| Mon, 20 Apr 2026 11:01:01 GMT | Writeup for picoCTF challenge “JaWT Scratchpad” | Walter Moar | [Read More](https://medium.com/p/196750781bc6) |
-| Mon, 20 Apr 2026 10:57:56 GMT | Cloud Security Solutions for Enterprise Data Protection - VSolutions Inc | Srinivas Yerravelli | [Read More](https://medium.com/p/cfaf36047b90) |
