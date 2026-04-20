@@ -12,6 +12,48 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Apr 2026 10:00:15 GMT | Best IoT Pentesting Summer Internship Program for Students in 2026 | cyber security Updates | [Read More](https://medium.com/p/132b9e2965b2) |
+| Mon, 20 Apr 2026 09:58:53 GMT | Vercel Just Got Pwned Through an AI Tool. Welcome to the 2026 Attack Surface. | Sinan Yaman | [Read More](https://medium.com/p/93c3a97f46dd) |
+| Mon, 20 Apr 2026 09:57:45 GMT | Cybersecurity should be a Natural Instinct | Aserva | [Read More](https://medium.com/p/7eedae36c6b4) |
+| Mon, 20 Apr 2026 09:55:29 GMT | Best Ethical Hacking Course in Calicut | Sourv | [Read More](https://medium.com/p/eaa3e2e700c5) |
+| Mon, 20 Apr 2026 09:55:27 GMT | How We Are Building Compliance Matrix: Our Journey Toward a Unified Security Compliance Solution | Husiev Eduard | [Read More](https://medium.com/p/81fa54942be7) |
+| Mon, 20 Apr 2026 09:54:46 GMT | Detecting Website Technologies in 2026: Browser Extensions and Why They’re Not Enough | Yannick Boog | [Read More](https://medium.com/p/d9774c2f3757) |
+| Mon, 20 Apr 2026 09:52:04 GMT | Cloud Security Solutions: Why “Secure Enough” Isn’t Enough Anymore | Whizcamp LLC | [Read More](https://medium.com/p/a714944843ce) |
+| Mon, 20 Apr 2026 09:50:14 GMT | XML Injection & XXE Mastery: The Complete Exploitation Playbook (From Basic Payloads to Advanced… | Aman Gupta | [Read More](https://medium.com/p/a86e88bd1798) |
+| Mon, 20 Apr 2026 09:42:30 GMT | Under Siege: How the First 112 Days of 2026 Rewrote the Rules of DeFi Risk | Nitin Vinayachandran | [Read More](https://medium.com/p/558757dca52f) |
+| Mon, 20 Apr 2026 09:41:05 GMT | Market Forecast: In-App Protection | Umangp | [Read More](https://medium.com/p/579598fe913e) |
+| Mon, 20 Apr 2026 09:36:46 GMT | How Saudi Arabia Handles Data Sovereignty in a Cloud-First Era | Rahman Iqbal | [Read More](https://medium.com/p/bc1d4a6d3a75) |
+| Mon, 20 Apr 2026 09:35:22 GMT | Quick Read: How to Spot and Respond to Incidents | Digital Defense | [Read More](https://medium.com/p/c498bce8cd7c) |
+| Mon, 20 Apr 2026 09:34:46 GMT | AI-Powered Cyber Attacks in 2025: How to Protect Your Business | Rakshastackteam | [Read More](https://medium.com/p/6aec1bd367f8) |
+| Mon, 20 Apr 2026 09:33:33 GMT | Build A Complete Smart Home Security With Noorio | Noorio India | [Read More](https://medium.com/p/6da0c84558de) |
+| Mon, 20 Apr 2026 09:30:22 GMT | Car Key Locksmith Oak Park IL | Car Key Locksmith Oak Park IL | [Read More](https://medium.com/p/835926a79e0d) |
+| Mon, 20 Apr 2026 09:28:12 GMT | Electronic Medical Record (EMR) Software: Transforming Healthcare with AVI MedTech | AVI MEDTECH | [Read More](https://medium.com/p/d08381188197) |
+| Mon, 20 Apr 2026 09:21:43 GMT | Examining the Vercel Incident: Why Enterprises Still Need Predictable Application Layers | Nigel Tape | [Read More](https://medium.com/p/9088f9ce85ea) |
+| Mon, 20 Apr 2026 09:19:39 GMT | OpenAEV (OpenBAS) Unauthenticated Account Takeover Vulnerability Leads to Platform Compromise | Nahit Sogutlu | [Read More](https://medium.com/p/515c62af85b0) |
+| Mon, 20 Apr 2026 09:16:22 GMT | Apple Knows. Visa Knows. Nobody Has Fixed It. Here’s Why. | Ujjwal Sharma | [Read More](https://medium.com/p/e37796a6e8e2) |
+| Mon, 20 Apr 2026 09:15:49 GMT | You Don’t Need to Hack the System. You Just Need to Make People Think You Did. | Hafiq Iqmal | [Read More](https://medium.com/p/605f4ce64fa0) |
+| Mon, 20 Apr 2026 09:14:40 GMT | I Built End-to-End Encrypted LAN Sync Into a Clipboard Manager — Without a Central Server | freerave | [Read More](https://medium.com/p/9d60b41b4bfe) |
+| Mon, 20 Apr 2026 09:14:09 GMT | Booking.com Got Breached. Your Reservation Was the Weapon. | Defense Stack | [Read More](https://medium.com/p/fcf6c0ac334f) |
+| Mon, 20 Apr 2026 09:13:20 GMT | PII Masking in AI : The AI Security Layer You Shouldn’t Ignore | shreyass krishna | [Read More](https://medium.com/p/f3a305923e37) |
+| Mon, 20 Apr 2026 09:11:54 GMT | MCP Security Testing - Using Burp Suite | Rahul Singh Chauhan | [Read More](https://medium.com/p/54e367055167) |
+| Mon, 20 Apr 2026 09:10:46 GMT | The telnyx PyPI Compromise: How TeamPCP Hid Malware Inside a Ringtone | Precogs AI | [Read More](https://medium.com/p/ada792142eb5) |
+| Mon, 20 Apr 2026 09:05:08 GMT | Hardening the Gates: The Definitive Guide to Android IPC & Service Security | Sivavishnu | [Read More](https://medium.com/p/5f2690b429fa) |
+| Mon, 20 Apr 2026 09:02:06 GMT | URGENT: Vercel Just Got Breached— Your API Keys Might Be Exposed Right Now | TechXplorer | [Read More](https://medium.com/p/516f0d6223f5) |
+| Mon, 20 Apr 2026 09:02:04 GMT | Automate OCI IAM User Onboarding with Python SDK | Tokishi | [Read More](https://medium.com/p/e25791165b9d) |
+| Mon, 20 Apr 2026 09:01:04 GMT | Malicious Activity as a Statistical Signal: A Detection Engineering Analysis of Anomaly-Based… | Andrey Pautov | [Read More](https://medium.com/p/90df8b6dea12) |
+| Mon, 20 Apr 2026 09:00:33 GMT | Smart Locks in Morocco: Upgrade Your Home Security in 2026 | Souhail Amrani | [Read More](https://medium.com/p/9a326d589138) |
+| Mon, 20 Apr 2026 08:59:39 GMT | Vulnerability (kerentanan) | EggNes | [Read More](https://medium.com/p/a054f55f2150) |
+| Mon, 20 Apr 2026 08:50:30 GMT | Vercel got hacked. Here’s what happened. | Rachana Gupta | [Read More](https://medium.com/p/1da19b12640c) |
+| Mon, 20 Apr 2026 08:48:00 GMT | Why Do So Many “Compliant” Suppliers Fail to Solve the Actual Problem? | Luke Appleby | [Read More](https://medium.com/p/4f60607a1196) |
+| Mon, 20 Apr 2026 08:38:19 GMT | The Anatomy of a Real SBOM (CycloneDX Explained) | Dimitar K. | [Read More](https://medium.com/p/19e759ba2aca) |
+| Mon, 20 Apr 2026 08:37:14 GMT | Performans Ölçütlerine Dayalı Gelişmiş Olay Müdahalesi | Perform Yazılım | [Read More](https://medium.com/p/bfe5b194a488) |
+| Mon, 20 Apr 2026 08:29:44 GMT | Port Security Market Size, Share & Forecast 2026–2035 | NIkita Poplai | [Read More](https://medium.com/p/202ca2a2db47) |
+| Mon, 20 Apr 2026 08:28:21 GMT | Shodan: Uncovering the Hidden Layer of the Internet | Sumit | [Read More](https://medium.com/p/9be7d44a560f) |
+| Mon, 20 Apr 2026 08:26:01 GMT | The Complete SOC Analyst Roadmap for Beginners in 2026 | mrwhite18 | [Read More](https://medium.com/p/81003c303c21) |
+| Mon, 20 Apr 2026 08:17:39 GMT | Why Nmap Fails When Enumerating Websites — And What to Do About It | Ahi&Hacking | [Read More](https://medium.com/p/a20fc82a010b) |
+| Mon, 20 Apr 2026 08:17:35 GMT | ASPM Helps You Prioritize, But What If the Findings Are Wrong? | Precogs AI | [Read More](https://medium.com/p/32d38ed05067) |
+| Mon, 20 Apr 2026 08:15:51 GMT | 167 Bugs Fixed, Two Already Being Used Against You, and One Deadline That Could Brick Your PC | MayhemCode | [Read More](https://medium.com/p/89e694d5f6ca) |
+| Mon, 20 Apr 2026 07:55:23 GMT | Cybersecurity Foundations Series: From Vulnerabilities to Resilient Systems | Guillaume Forget | [Read More](https://medium.com/p/e86dab95c879) |
 | Mon, 20 Apr 2026 07:53:50 GMT | Why Local Businesses Trust a Security Company in Edinburgh for 24/7 Protection | Olivia | [Read More](https://medium.com/p/70914222d22f) |
 | Mon, 20 Apr 2026 07:53:07 GMT | :      … | Roman Ceresnak, PhD | [Read More](https://medium.com/p/047c8dd9e043) |
 | Mon, 20 Apr 2026 07:41:27 GMT | How I Automate Repetitive IT Tasks Using Python and GitHub Actions | Reuben Lim | [Read More](https://medium.com/p/241b1a1044f8) |
@@ -70,46 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Apr 2026 04:16:55 GMT | CVE-2026–34197: A Bug That Hid Inside Apache ActiveMQ for 13 Years And Now It’s Being Exploited | ryxocrypt | [Read More](https://medium.com/p/ae0e17996ddc) |
 | Mon, 20 Apr 2026 04:11:10 GMT | Why DeFi Is One of the Best Public Training Grounds for Financial Systems Thinking | Chen Xu, Ph.D, CFA | [Read More](https://medium.com/p/6b2a86a8dc9c) |
 | Mon, 20 Apr 2026 04:01:01 GMT | The Ten-Year Reckoning: Britain Is Broke, Exposed, and Looking the Wrong Way | Geopolitics / Economy / Technology | [Read More](https://medium.com/p/2b640877de66) |
-| Mon, 20 Apr 2026 03:57:26 GMT | ChongmingLab - Weekly Blockchain Security News (April 13–19) | Chongming lab | [Read More](https://medium.com/p/506fb644ca3b) |
-| Mon, 20 Apr 2026 03:53:32 GMT | AI Security Platform - Red Teaming Range Full Breakdown | Pentester Club | [Read More](https://medium.com/p/c578f72cd96a) |
-| Mon, 20 Apr 2026 03:41:44 GMT | Active Directory Lab setup | JK7370 | [Read More](https://medium.com/p/f5d4bcfc7b40) |
-| Mon, 20 Apr 2026 03:37:54 GMT | ₦60,000 From Nowhere: How I Turned a Regular Bank Account Into a Money Printer | Demscript | [Read More](https://medium.com/p/ef0a53f916ef) |
-| Mon, 20 Apr 2026 03:16:01 GMT | Everyone Talks About How to Build Secure Auth. Nobody Talks About What to Watch After You Ship It. | Rgupta | [Read More](https://medium.com/p/d24814d21ff9) |
-| Mon, 20 Apr 2026 03:15:07 GMT | Tor Isn’t Dead, But Your OpSec Might Be: A Field Guide to Not Getting Burned | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f70d8d9680df) |
-| Mon, 20 Apr 2026 03:14:43 GMT | AOL support number UK customer service UK | Zuerevalexander | [Read More](https://medium.com/p/11d7bb99c776) |
-| Mon, 20 Apr 2026 03:12:37 GMT | Five Physical Security Gaps HIPAA Doesn’t Cover — and How to Close Them | xtn | [Read More](https://medium.com/p/33b9d606be44) |
-| Mon, 20 Apr 2026 03:11:15 GMT | Gatekeepers of the Digital World:
-Access Control and Identity Management | A.M | [Read More](https://medium.com/p/252deaaae066) |
-| Mon, 20 Apr 2026 02:58:37 GMT | ESET Technical Support Australia | Customer Support Information | [Read More](https://medium.com/p/385a97c0bb38) |
-| Mon, 20 Apr 2026 02:55:10 GMT | Overwatch -- HTB Machine - Lab | #UNKNOWN | [Read More](https://medium.com/p/3c9a9e140eb5) |
-| Mon, 20 Apr 2026 02:51:39 GMT | Norton antivirus customer service Australia contact number | Customer Support Information | [Read More](https://medium.com/p/81515b1c06d8) |
-| Mon, 20 Apr 2026 02:49:34 GMT | Install & Konfigurasi Fail2Ban di Ubuntu Server | Haldian | [Read More](https://medium.com/p/aebb0966d9b0) |
-| Mon, 20 Apr 2026 02:23:49 GMT | Why Antivirus Blocks Trainers (And How I Check Safety) | Napisss | [Read More](https://medium.com/p/7f5f52a0150c) |
-| Mon, 20 Apr 2026 02:16:54 GMT | iDefender: Real-Time Attack Surface Interception Stops Threats at Their Origin | iDefender | [Read More](https://medium.com/p/f02afe4f1c3f) |
-| Mon, 20 Apr 2026 02:16:28 GMT | SSTI ve CSTI Zafiyetleri Nedir? | Egemen Der | [Read More](https://medium.com/p/48602e9a4c60) |
-| Mon, 20 Apr 2026 02:05:15 GMT | Your API Keys Aren’t Safe — And the Vercel Incident Proves It | RipeLemons | [Read More](https://medium.com/p/44f9095fd266) |
-| Mon, 20 Apr 2026 01:57:43 GMT | AIoT กับความจำเป็นในระบบ IoT เมื่อ IoT ไม่ใช่แค่การวัดค่า แต่ต้องตัดสินใจได้อย่างปลอดภัย | ICT MAHIDOL | [Read More](https://medium.com/p/756b12057423) |
-| Mon, 20 Apr 2026 01:48:26 GMT | Reconstruct any Unity game with Coding Agents | Alex Zeez | [Read More](https://medium.com/p/d22d98d7fa93) |
-| Mon, 20 Apr 2026 01:47:47 GMT | Vercel Got Powned By An OAuth App. Again… Here Is What Happened and What You Should Do | Mandar Karhade, MD. PhD. | [Read More](https://medium.com/p/74cdd19ea393) |
-| Mon, 20 Apr 2026 01:34:13 GMT | I Asked AI To Hack My PHP App. It Did. Here’s How I Fixed It. | Steve Sohcot | [Read More](https://medium.com/p/a603992409d0) |
-| Mon, 20 Apr 2026 01:34:00 GMT | System Architecture for Massively Concurrent User Loads: A Technical Audit of 1,000,000+ SAU… | Retronaut | [Read More](https://medium.com/p/1cce228307e4) |
-| Mon, 20 Apr 2026 01:32:32 GMT | Ferramentas para hacking e auditoria | Moprius | [Read More](https://medium.com/p/b3c2fe532fb7) |
-| Mon, 20 Apr 2026 01:20:24 GMT | Technical Performance Review: Assessing the UI/UX Architecture of High-Frequency Mobile Gaming… | Bitdefenderlogin | [Read More](https://medium.com/p/caf49b42098f) |
-| Mon, 20 Apr 2026 01:17:04 GMT | I Taught Children Who Could Not See. Here Is What They Taught Me. | Don Rivera Diaz | [Read More](https://medium.com/p/9fc22a2b551f) |
-| Mon, 20 Apr 2026 01:16:16 GMT | Strored Xss | 13v! ⚔️ | [Read More](https://medium.com/p/660546889ad6) |
-| Mon, 20 Apr 2026 01:04:53 GMT | Retrieving and Reinstating Forgotten Windows Accounts | Tech Help Corner | [Read More](https://medium.com/p/3a0026b6a53d) |
-| Mon, 20 Apr 2026 00:49:54 GMT | Cloudbric Services Progress Report (3/1 ~ 3/31) | Cloudbric | [Read More](https://medium.com/p/22693e557049) |
-| Mon, 20 Apr 2026 00:49:04 GMT | The Internet Is Carrying 27 Years of Unresolved Vulnerabilities — And We Just Proved It | Alejandro Steiner | [Read More](https://medium.com/p/6205d147f3aa) |
-| Mon, 20 Apr 2026 00:31:01 GMT | The 14 Characters of Stock Market: Here’s What Each Sector Does. | mahiravesia | [Read More](https://medium.com/p/7522cff24ff9) |
-| Mon, 20 Apr 2026 00:15:26 GMT | 7 ferramentas de engenharia social | Moprius | [Read More](https://medium.com/p/556596010071) |
-| Sun, 19 Apr 2026 23:55:24 GMT | AI Smart Mobile Security: A Smarter Shift In Modern Patrol Systems | Lacrymosa | [Read More](https://medium.com/p/53e21b91fcbe) |
-| Sun, 19 Apr 2026 23:40:58 GMT | Explanation of a Risk Register | HarbSec | [Read More](https://medium.com/p/9a5e25858f17) |
-| Sun, 19 Apr 2026 23:34:28 GMT | Leading a greenfield PostgreSQL database analytics focused buildout — Communication. | Yuvraj Chauhan | [Read More](https://medium.com/p/d0a58cc40416) |
-| Sun, 19 Apr 2026 23:25:31 GMT | OverTheWire Natas 11 -> 12 Walkthrough | FS Stance | [Read More](https://medium.com/p/b5f9d47618ec) |
-| Sun, 19 Apr 2026 23:25:03 GMT | How I Conquered 27 CTF Challenges at a Professional Cybersecurity Conference (And Clapped for Every… | Chaitanya Garware | [Read More](https://medium.com/p/0a1dd38ebbbc) |
-| Sun, 19 Apr 2026 23:22:35 GMT | I Became My Own Advice, Before Life Broke Me. | Lucinda Victor/The Woman I'm Becoming | [Read More](https://medium.com/p/5723be6abadc) |
-| Sun, 19 Apr 2026 23:22:31 GMT | Anthropic’s Mythos and Project Glasswing: Under the Hood of Trust and Narrative Control | Axier Jon | [Read More](https://medium.com/p/8e5ce506f1d7) |
-| Sun, 19 Apr 2026 23:08:14 GMT | Easy Security agents workflow to review PRs on Azure , Github and Gitlab | Jay@ Thinkode AI + | [Read More](https://medium.com/p/d4d6a47ec073) |
-| Sun, 19 Apr 2026 23:07:08 GMT | Apple Background Security Improvements: A Smarter Way to Patch Your iPhone and Mac Between Updates | www.OneCoolTip.com | [Read More](https://medium.com/p/7969c2b37933) |
-| Sun, 19 Apr 2026 23:02:42 GMT | From Second-Order SQLi to Full RCE: Breaking Through Filters in a Multi-Tenant Export Engine | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/5e4756c29acd) |
-| Sun, 19 Apr 2026 23:01:01 GMT | StumbleSOC Stories: The Teams Call Compromise | Drew Arpino | [Read More](https://medium.com/p/9299597fa4d8) |
