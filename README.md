@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Apr 2026 02:51:39 GMT | Norton antivirus customer service Australia contact number | Customer Support Information | [Read More](https://medium.com/p/81515b1c06d8) |
+| Mon, 20 Apr 2026 02:49:34 GMT | Install & Konfigurasi Fail2Ban di Ubuntu Server | Haldian | [Read More](https://medium.com/p/aebb0966d9b0) |
+| Mon, 20 Apr 2026 02:23:49 GMT | Why Antivirus Blocks Trainers (And How I Check Safety) | Napisss | [Read More](https://medium.com/p/7f5f52a0150c) |
+| Mon, 20 Apr 2026 02:16:54 GMT | iDefender: Real-Time Attack Surface Interception Stops Threats at Their Origin | iDefender | [Read More](https://medium.com/p/f02afe4f1c3f) |
+| Mon, 20 Apr 2026 02:16:28 GMT | SSTI ve CSTI Zafiyetleri Nedir? | Egemen Der | [Read More](https://medium.com/p/48602e9a4c60) |
+| Mon, 20 Apr 2026 02:05:15 GMT | Your API Keys Aren’t Safe — And the Vercel Incident Proves It | RipeLemons | [Read More](https://medium.com/p/44f9095fd266) |
+| Mon, 20 Apr 2026 01:57:43 GMT | AIoT กับความจำเป็นในระบบ IoT เมื่อ IoT ไม่ใช่แค่การวัดค่า แต่ต้องตัดสินใจได้อย่างปลอดภัย | ICT MAHIDOL | [Read More](https://medium.com/p/756b12057423) |
+| Mon, 20 Apr 2026 01:48:26 GMT | Reconstruct any Unity game with Coding Agents | Alex Zeez | [Read More](https://medium.com/p/d22d98d7fa93) |
+| Mon, 20 Apr 2026 01:47:47 GMT | Vercel Got Powned By An OAuth App. Again… Here Is What Happened and What You Should Do | Mandar Karhade, MD. PhD. | [Read More](https://medium.com/p/74cdd19ea393) |
+| Mon, 20 Apr 2026 01:34:13 GMT | I Asked AI To Hack My PHP App. It Did. Here’s How I Fixed It. | Steve Sohcot | [Read More](https://medium.com/p/a603992409d0) |
+| Mon, 20 Apr 2026 01:34:00 GMT | System Architecture for Massively Concurrent User Loads: A Technical Audit of 1,000,000+ SAU… | Retronaut | [Read More](https://medium.com/p/1cce228307e4) |
+| Mon, 20 Apr 2026 01:32:32 GMT | Ferramentas para hacking e auditoria | Moprius | [Read More](https://medium.com/p/b3c2fe532fb7) |
+| Mon, 20 Apr 2026 01:20:24 GMT | Technical Performance Review: Assessing the UI/UX Architecture of High-Frequency Mobile Gaming… | Bitdefenderlogin | [Read More](https://medium.com/p/caf49b42098f) |
+| Mon, 20 Apr 2026 01:17:04 GMT | I Taught Children Who Could Not See. Here Is What They Taught Me. | Don Rivera Diaz | [Read More](https://medium.com/p/9fc22a2b551f) |
+| Mon, 20 Apr 2026 01:16:16 GMT | Strored Xss | 13v! ⚔️ | [Read More](https://medium.com/p/660546889ad6) |
+| Mon, 20 Apr 2026 01:04:53 GMT | Retrieving and Reinstating Forgotten Windows Accounts | Tech Help Corner | [Read More](https://medium.com/p/3a0026b6a53d) |
+| Mon, 20 Apr 2026 00:49:54 GMT | Cloudbric Services Progress Report (3/1 ~ 3/31) | Cloudbric | [Read More](https://medium.com/p/22693e557049) |
+| Mon, 20 Apr 2026 00:49:04 GMT | The Internet Is Carrying 27 Years of Unresolved Vulnerabilities — And We Just Proved It | Alejandro Steiner | [Read More](https://medium.com/p/6205d147f3aa) |
+| Mon, 20 Apr 2026 00:31:01 GMT | The 14 Characters of Stock Market: Here’s What Each Sector Does. | mahiravesia | [Read More](https://medium.com/p/7522cff24ff9) |
+| Sun, 19 Apr 2026 23:55:24 GMT | AI Smart Mobile Security: A Smarter Shift In Modern Patrol Systems | Lacrymosa | [Read More](https://medium.com/p/53e21b91fcbe) |
+| Sun, 19 Apr 2026 23:40:58 GMT | Explanation of a Risk Register | HarbSec | [Read More](https://medium.com/p/9a5e25858f17) |
+| Sun, 19 Apr 2026 23:34:28 GMT | Leading a greenfield PostgreSQL database analytics focused buildout — Communication. | Yuvraj Chauhan | [Read More](https://medium.com/p/d0a58cc40416) |
 | Sun, 19 Apr 2026 23:25:31 GMT | OverTheWire Natas 11 -> 12 Walkthrough | FS Stance | [Read More](https://medium.com/p/b5f9d47618ec) |
 | Sun, 19 Apr 2026 23:25:03 GMT | How I Conquered 27 CTF Challenges at a Professional Cybersecurity Conference (And Clapped for Every… | Chaitanya Garware | [Read More](https://medium.com/p/0a1dd38ebbbc) |
 | Sun, 19 Apr 2026 23:22:35 GMT | I Became My Own Advice, Before Life Broke Me. | Lucinda Victor/The Woman I'm Becoming | [Read More](https://medium.com/p/5723be6abadc) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 19 Apr 2026 17:24:05 GMT | Learning Fortinet Firewall — LESSON XX: High Availability | Rouell Mamaril | [Read More](https://medium.com/p/6a0bc1dcf649) |
 | Sun, 19 Apr 2026 17:19:13 GMT | TryHackMe: Invite Only - Write-Up | Ash T | [Read More](https://medium.com/p/3a110ce571da) |
 | Sun, 19 Apr 2026 17:14:17 GMT | Secure Key Agreement with ECC: ECDHE | Luis Santiago | [Read More](https://medium.com/p/7e2cb49dfa52) |
-| Sun, 19 Apr 2026 17:13:12 GMT | Hardware Hacking Survival: Bypassing PC Limitations to Flash a Bootable Kali Linux ISO | Internet Thvm | [Read More](https://medium.com/p/3c1576b7ac4a) |
-| Sun, 19 Apr 2026 17:11:21 GMT | How DFIR Timeline Analysis Actually Works | seif | [Read More](https://medium.com/p/c4c360142569) |
-| Sun, 19 Apr 2026 17:08:23 GMT | Your WiFi Signal Is Watching You Sleep | Urano10 | [Read More](https://medium.com/p/ccf6d362194c) |
-| Sun, 19 Apr 2026 16:53:18 GMT | BTLO Write-up Phishy (v1) | Nuray Shiraliyeva | [Read More](https://medium.com/p/8fbedc49a561) |
-| Sun, 19 Apr 2026 16:37:09 GMT | India’s DPDP Act 2023: Why Compliance Is Now Mandatory for Every Company | Dracky4u | [Read More](https://medium.com/p/859583f14ce3) |
-| Sun, 19 Apr 2026 16:30:33 GMT | Python Libraries That Actually Matter for Data, ML, AI & Trending Tech Roles | Persis Tafflin | [Read More](https://medium.com/p/8f01a8602895) |
-| Sun, 19 Apr 2026 16:29:47 GMT | Extracting Web Traffic Evidence Using Wireshark | Binyamin zahid | [Read More](https://medium.com/p/f6ee147cc62f) |
-| Sun, 19 Apr 2026 16:20:35 GMT | 500$ IDOR on a Public Program | Musab Sarı | [Read More](https://medium.com/p/553858933e42) |
-| Sun, 19 Apr 2026 16:13:36 GMT | From Electrical Engineering to Software Engineering | Srinivas Krovvidi | [Read More](https://medium.com/p/9936c9a8cf13) |
-| Sun, 19 Apr 2026 16:06:40 GMT | A Letter to the IT Sector: AI Is Advancing — But Who Is It Leaving Behind? | Saanvi Raj | [Read More](https://medium.com/p/6f44663ab90b) |
-| Sun, 19 Apr 2026 16:04:24 GMT | Building GhostTrap: My AI-Powered SSH Honeypot | shivkumar chougala | [Read More](https://medium.com/p/66e1dcc7a6d3) |
-| Sun, 19 Apr 2026 16:01:09 GMT | Quiet Sunday, Loud Edge Cases: Fixing the Vidiprinter and Retiring the NAT Gateway | Paul Pounder | [Read More](https://medium.com/p/2766667bafba) |
-| Sun, 19 Apr 2026 15:52:03 GMT | AI SOC Hits Nasdaq: Why SEA CISOs Must Ignore the Hype and Prioritize Local Governance | outofspace | [Read More](https://medium.com/p/a50c85129436) |
-| Sun, 19 Apr 2026 15:47:12 GMT | Infosec Advanced: Kerberoasting | pkin1t | [Read More](https://medium.com/p/185f1a466f1f) |
-| Sun, 19 Apr 2026 15:46:27 GMT | The AI That Finally Thinks Before It Speaks: Inside OpenAI’s GPT-5.4-Cyber | Pankaj Yadav | [Read More](https://medium.com/p/4db9d2781329) |
-| Sun, 19 Apr 2026 15:30:00 GMT | Face Recognition Time Attendance: Why Companies Are Switching to Smart Tracking | Oscar Vazquez | [Read More](https://medium.com/p/99f4174b0f48) |
-| Sun, 19 Apr 2026 15:28:01 GMT | Part 07 — Building a Security Operations Center Homelab (Installing OpenCanary on TheGateWatcher) | Sean Nelson | [Read More](https://medium.com/p/f2f2c7a0986f) |
-| Sun, 19 Apr 2026 15:27:02 GMT | Cat Writeup for HTB Mobile Challenge | n1kto | [Read More](https://medium.com/p/4dd30d1b4d47) |
-| Sun, 19 Apr 2026 15:25:58 GMT | If I die, would someone cry? | maria ｡๑ ° | [Read More](https://medium.com/p/afffd9bfa9e4) |
-| Sun, 19 Apr 2026 15:24:02 GMT | API Security Mistakes That Still Hurt Small Businesses in 2026 | NMA iT Service | [Read More](https://medium.com/p/c083a1942b04) |
-| Sun, 19 Apr 2026 15:21:23 GMT | Quarter Shift (GraphQL + SSRF) WebVerse | 7s26Simon | [Read More](https://medium.com/p/99b7516526d1) |
-| Sun, 19 Apr 2026 15:11:29 GMT | Prompt Injection TryHackMe Walkthrough (THM Room) | Pyae Sone | [Read More](https://medium.com/p/e1689f4f3615) |
