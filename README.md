@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Apr 2026 21:01:28 GMT | Unfiltered Restart — Day 52: Interviews, Day 1 + More OMV Setup | Maximillian Rueda | [Read More](https://medium.com/p/ab4cc7afa3f7) |
+| Mon, 20 Apr 2026 20:49:32 GMT | OAuth Account Hijacking via redirect_uri (PortSwigger Lab)-A Practical Walkthrough | Sambeet Kumar Swain | [Read More](https://medium.com/p/e238aeaec998) |
+| Mon, 20 Apr 2026 20:44:33 GMT | Krioptrix Level-3 Walkthrough | Vivek Goswami | [Read More](https://medium.com/p/49a79c86f7a6) |
+| Mon, 20 Apr 2026 20:41:01 GMT | Detect Phishing Attacks in Email Containers with PHP | Cloudmersive | [Read More](https://medium.com/p/8568420acbf1) |
+| Mon, 20 Apr 2026 20:36:11 GMT | The Dragon That Doesn’t Sleep:
+Inside Mustang Panda, China’s Most Persistent Cyber Espionage… | Ezechi Jeremiah Chigozie | [Read More](https://medium.com/p/e193565a1ac5) |
+| Mon, 20 Apr 2026 20:33:28 GMT | Top 3 DeFi Smart Contract Risks That Will Get You Rekt in 2026 | Dakshrawat | [Read More](https://medium.com/p/8f1054a890c6) |
+| Mon, 20 Apr 2026 20:26:57 GMT | Three Simple Steps Older Adults Can Take to Avoid Scams | Charles R. Lightner | [Read More](https://medium.com/p/6947c9761ca2) |
+| Mon, 20 Apr 2026 20:24:37 GMT | How I Bypassed Authentication And Earned a 300$ Bounty | Laganparihar | [Read More](https://medium.com/p/e6c4b6554b8b) |
+| Mon, 20 Apr 2026 20:15:24 GMT | From Zero to Domain Admin: Breaking Active Directory Step-by-Step | res4ad | [Read More](https://medium.com/p/c63be8636b60) |
+| Mon, 20 Apr 2026 20:11:47 GMT | How a Single Image in Your WhatsApp Could Have Owned Your iPhone | VampireXRay | [Read More](https://medium.com/p/6d8ef1466114) |
+| Mon, 20 Apr 2026 20:04:54 GMT | Hashing ve Encryption Nedir? Aralarındaki Kritik Farklar | Hakan Cengiz | [Read More](https://medium.com/p/7745b9c8d676) |
+| Mon, 20 Apr 2026 19:58:34 GMT | The Hidden Reality of Cybersecurity in Australia’s Largest Companies (ASX 200 Report 2025) — Part I | SOCFortress | [Read More](https://medium.com/p/072c83057f76) |
 | Mon, 20 Apr 2026 19:55:55 GMT | AI/ML Security Threats TryHackMe Walkthrough | Rormsbee | [Read More](https://medium.com/p/16bd979843c0) |
 | Mon, 20 Apr 2026 19:50:11 GMT | Open-Source AI SOC Analyst That Actually Works — Meet Talon | SOCFortress | [Read More](https://medium.com/p/c38fa082f741) |
 | Mon, 20 Apr 2026 19:49:05 GMT | Title: The Importance of Asset Management and Secure Credential Handling in Modern Cybersecurity | Linda Alcorn | [Read More](https://medium.com/p/c9f86abaf4aa) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Apr 2026 13:56:01 GMT | Scaling AI Is Easy - Making It Work in Real Hiring Is the Real Challenge(2026) | Xwtempsolutions | [Read More](https://medium.com/p/71748296a8b5) |
 | Mon, 20 Apr 2026 13:48:59 GMT | Stop Letting Your AI Agents Execute Naked: Introducing Lirix v1.0.0 | lokii | [Read More](https://medium.com/p/0f7056e84a70) |
 | Mon, 20 Apr 2026 13:43:51 GMT | Claude Mythos: The AI That Can Hack the World — And Why You Should Care | Sandeep Sengupta | [Read More](https://medium.com/p/486018b3b416) |
-| Mon, 20 Apr 2026 13:38:20 GMT | What Happens If One Hacker Takes Down Your Entire City for 24 Hours? | 0xAbhiSec | [Read More](https://medium.com/p/194d5f8ba4cb) |
-| Mon, 20 Apr 2026 13:35:41 GMT | Is Cybersecurity the Most Critical Investment of the Digital Era | Dbmrworkin24 | [Read More](https://medium.com/p/a6e6474c47de) |
-| Mon, 20 Apr 2026 13:35:00 GMT | AI System Reconnaissance Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/c5d2ad185338) |
-| Mon, 20 Apr 2026 13:34:43 GMT | Implementing ECDH + AES-GCM in .NET 10 for Zero-Knowledge Architectures | Daniel Guirra | [Read More](https://medium.com/p/e8140d9c8cae) |
-| Mon, 20 Apr 2026 13:34:23 GMT | Best Cryptocurrency Recovery Expert / Stormbyte Hacker Retriever | Hennery Williams | [Read More](https://medium.com/p/e91d1b832d67) |
-| Mon, 20 Apr 2026 13:31:41 GMT | Someone Is Using Your Email Address Right Now — How to Find Out | Infinity Matrix | [Read More](https://medium.com/p/66e67c384634) |
-| Mon, 20 Apr 2026 13:29:41 GMT | Visible Error-Based SQL Injection | Bash Overflow | [Read More](https://medium.com/p/5932aab1b6d0) |
-| Mon, 20 Apr 2026 13:27:54 GMT | Apple Said “Wiped.” WhatsApp Said “Backed Up.” I Learned How Little Those Words Really Mean. | Vincenzo Ciancia | [Read More](https://medium.com/p/4fffdeab19cb) |
-| Mon, 20 Apr 2026 13:26:01 GMT | Studying Human-LLM Collaboration in Software Reverse Engineering | EURECOM Communication | [Read More](https://medium.com/p/9d222f58f93d) |
-| Mon, 20 Apr 2026 13:24:11 GMT | How Mythos AI Exposes US Cybersecurity’s Weakest Link | Rick Lane | [Read More](https://medium.com/p/9d9a727ff4be) |
-| Mon, 20 Apr 2026 13:21:33 GMT | Moving at the Speed of Risk | Claire Scanlon | [Read More](https://medium.com/p/565cb4842083) |
-| Mon, 20 Apr 2026 13:18:31 GMT | Prompt Injection in AI-Powered Applications | Navindu | [Read More](https://medium.com/p/560c2ad5441d) |
