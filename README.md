@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Apr 2026 15:05:46 GMT | AI Just Became a Hacker: Why Anthropic’s Mythos Changes Everything | Arnav Daultani | [Read More](https://medium.com/p/1c3e6942f4dd) |
+| Mon, 20 Apr 2026 15:04:30 GMT | Why IT Resilience Matters More Than Ever in a Volatile Economy | Kenn Anderson, Jr. | [Read More](https://medium.com/p/9586354fc488) |
+| Mon, 20 Apr 2026 15:03:47 GMT | Double Kill: Authentication Bypass in SuiteCRM via LDAP and SQL Injection | Guilherme Mury | [Read More](https://medium.com/p/59ddb31c03a4) |
+| Mon, 20 Apr 2026 15:01:13 GMT | Getting through GSEC and GFACT in 2026 | Atharv Pandit | [Read More](https://medium.com/p/e5cb68e2a14f) |
+| Mon, 20 Apr 2026 14:59:32 GMT | ​The Day the World Stood Still: The WannaCry Ransomware Chronicles | Tapudhan Rongpee | [Read More](https://medium.com/p/257969c30db0) |
+| Mon, 20 Apr 2026 14:59:18 GMT | MiningDropper on Android: A Growing Threat Delivering Infostealers and Banking Malware | Jas | [Read More](https://medium.com/p/4191d29c793f) |
+| Mon, 20 Apr 2026 14:55:22 GMT | AI Is Going to Replace Your Job | Edie O. | [Read More](https://medium.com/p/7117552546b8) |
+| Mon, 20 Apr 2026 14:48:24 GMT | RAG Security Fundamentals Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/b8ce087c5354) |
+| Mon, 20 Apr 2026 14:43:51 GMT | I Didn’t Fail the Interview — The Interview Was the Scam | Shanu Reddy | [Read More](https://medium.com/p/09aa01505f1c) |
+| Mon, 20 Apr 2026 14:39:28 GMT | How Currency Exchange Networks Can Be Exploited in Cross-Border Financial Crime | Ybdale | [Read More](https://medium.com/p/941912bc2a19) |
+| Mon, 20 Apr 2026 14:33:08 GMT | Digital Certificates: X.509 format, SANs, Wildcard Certificates, CRLs, OCSP, and more | Mahdi | [Read More](https://medium.com/p/b624914be897) |
+| Mon, 20 Apr 2026 14:32:40 GMT | From Trusted Wires to the Open Internet | Haggai Philip Zagury | [Read More](https://medium.com/p/43dfe7807d28) |
+| Mon, 20 Apr 2026 14:27:10 GMT | 5 Reasons Your Phone is Overheating (And How to Fix It Like a Pro | Sampurnakart - MacBook & Laptop Repair Training | [Read More](https://medium.com/p/dfab0f65fbf0) |
+| Mon, 20 Apr 2026 14:16:56 GMT | I Found a Critical Bug in Meesho. | Crimsonsovereign | [Read More](https://medium.com/p/b1d567c5eb7d) |
+| Mon, 20 Apr 2026 14:16:01 GMT | Rebuilding the Middle — What Organizations and Individuals Must Do Before the Pipeline Runs Dry | Ehulse | [Read More](https://medium.com/p/dbecf39c986a) |
+| Mon, 20 Apr 2026 14:11:01 GMT | Vercel Got Hacked! | Jim Clyde Monge | [Read More](https://medium.com/p/93f5f4f341a1) |
+| Mon, 20 Apr 2026 14:04:29 GMT | Why I Wrote My Own Log Analyzer Instead of Using Splunk | judeh0747 | [Read More](https://medium.com/p/ec2f1858b24f) |
+| Mon, 20 Apr 2026 13:56:01 GMT | Scaling AI Is Easy - Making It Work in Real Hiring Is the Real Challenge(2026) | Xwtempsolutions | [Read More](https://medium.com/p/71748296a8b5) |
+| Mon, 20 Apr 2026 13:48:59 GMT | Stop Letting Your AI Agents Execute Naked: Introducing Lirix v1.0.0 | lokii | [Read More](https://medium.com/p/0f7056e84a70) |
 | Mon, 20 Apr 2026 13:43:51 GMT | Claude Mythos: The AI That Can Hack the World — And Why You Should Care | Sandeep Sengupta | [Read More](https://medium.com/p/486018b3b416) |
 | Mon, 20 Apr 2026 13:38:20 GMT | What Happens If One Hacker Takes Down Your Entire City for 24 Hours? | 0xAbhiSec | [Read More](https://medium.com/p/194d5f8ba4cb) |
 | Mon, 20 Apr 2026 13:35:41 GMT | Is Cybersecurity the Most Critical Investment of the Digital Era | Dbmrworkin24 | [Read More](https://medium.com/p/a6e6474c47de) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 20 Apr 2026 09:30:22 GMT | Car Key Locksmith Oak Park IL | Car Key Locksmith Oak Park IL | [Read More](https://medium.com/p/835926a79e0d) |
 | Mon, 20 Apr 2026 09:28:12 GMT | Electronic Medical Record (EMR) Software: Transforming Healthcare with AVI MedTech | AVI MEDTECH | [Read More](https://medium.com/p/d08381188197) |
 | Mon, 20 Apr 2026 09:21:43 GMT | Examining the Vercel Incident: Why Enterprises Still Need Predictable Application Layers | Nigel Tape | [Read More](https://medium.com/p/9088f9ce85ea) |
-| Mon, 20 Apr 2026 09:19:39 GMT | OpenAEV (OpenBAS) Unauthenticated Account Takeover Vulnerability Leads to Platform Compromise | Nahit Sogutlu | [Read More](https://medium.com/p/515c62af85b0) |
-| Mon, 20 Apr 2026 09:16:22 GMT | Apple Knows. Visa Knows. Nobody Has Fixed It. Here’s Why. | Ujjwal Sharma | [Read More](https://medium.com/p/e37796a6e8e2) |
-| Mon, 20 Apr 2026 09:15:49 GMT | You Don’t Need to Hack the System. You Just Need to Make People Think You Did. | Hafiq Iqmal | [Read More](https://medium.com/p/605f4ce64fa0) |
-| Mon, 20 Apr 2026 09:14:40 GMT | I Built End-to-End Encrypted LAN Sync Into a Clipboard Manager — Without a Central Server | freerave | [Read More](https://medium.com/p/9d60b41b4bfe) |
-| Mon, 20 Apr 2026 09:14:09 GMT | Booking.com Got Breached. Your Reservation Was the Weapon. | Defense Stack | [Read More](https://medium.com/p/fcf6c0ac334f) |
-| Mon, 20 Apr 2026 09:13:20 GMT | PII Masking in AI : The AI Security Layer You Shouldn’t Ignore | shreyass krishna | [Read More](https://medium.com/p/f3a305923e37) |
-| Mon, 20 Apr 2026 09:11:54 GMT | MCP Security Testing - Using Burp Suite | Rahul Singh Chauhan | [Read More](https://medium.com/p/54e367055167) |
-| Mon, 20 Apr 2026 09:10:46 GMT | The telnyx PyPI Compromise: How TeamPCP Hid Malware Inside a Ringtone | Precogs AI | [Read More](https://medium.com/p/ada792142eb5) |
-| Mon, 20 Apr 2026 09:05:08 GMT | Hardening the Gates: The Definitive Guide to Android IPC & Service Security | Sivavishnu | [Read More](https://medium.com/p/5f2690b429fa) |
-| Mon, 20 Apr 2026 09:02:06 GMT | URGENT: Vercel Just Got Breached— Your API Keys Might Be Exposed Right Now | TechXplorer | [Read More](https://medium.com/p/516f0d6223f5) |
-| Mon, 20 Apr 2026 09:02:04 GMT | Automate OCI IAM User Onboarding with Python SDK | Tokishi | [Read More](https://medium.com/p/e25791165b9d) |
-| Mon, 20 Apr 2026 09:01:04 GMT | Malicious Activity as a Statistical Signal: A Detection Engineering Analysis of Anomaly-Based… | Andrey Pautov | [Read More](https://medium.com/p/90df8b6dea12) |
-| Mon, 20 Apr 2026 09:00:33 GMT | Smart Locks in Morocco: Upgrade Your Home Security in 2026 | Souhail Amrani | [Read More](https://medium.com/p/9a326d589138) |
-| Mon, 20 Apr 2026 08:59:39 GMT | Vulnerability (kerentanan) | EggNes | [Read More](https://medium.com/p/a054f55f2150) |
-| Mon, 20 Apr 2026 08:50:30 GMT | Vercel got hacked. Here’s what happened. | Rachana Gupta | [Read More](https://medium.com/p/1da19b12640c) |
-| Mon, 20 Apr 2026 08:48:00 GMT | Why Do So Many “Compliant” Suppliers Fail to Solve the Actual Problem? | Luke Appleby | [Read More](https://medium.com/p/4f60607a1196) |
-| Mon, 20 Apr 2026 08:38:19 GMT | The Anatomy of a Real SBOM (CycloneDX Explained) | Dimitar K. | [Read More](https://medium.com/p/19e759ba2aca) |
-| Mon, 20 Apr 2026 08:37:14 GMT | Performans Ölçütlerine Dayalı Gelişmiş Olay Müdahalesi | Perform Yazılım | [Read More](https://medium.com/p/bfe5b194a488) |
-| Mon, 20 Apr 2026 08:29:44 GMT | Port Security Market Size, Share & Forecast 2026–2035 | NIkita Poplai | [Read More](https://medium.com/p/202ca2a2db47) |
