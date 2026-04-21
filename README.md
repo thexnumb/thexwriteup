@@ -12,6 +12,35 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Apr 2026 03:38:27 GMT | I Was Lost in Cybersecurity Until This Strategy Changed Everything (eJPT Journey) | Pawan R | [Read More](https://medium.com/p/49e9a6cf0b99) |
+| Tue, 21 Apr 2026 03:34:24 GMT | Deep Dive into Networking: Packets, Frames, and the TCP Handshake | Jonathan Sanfer | [Read More](https://medium.com/p/379ebebf0b6a) |
+| Tue, 21 Apr 2026 03:33:10 GMT | Cloud Security is Identity-First: Why IAM Defines Your Attack Surface | Anurag Band | [Read More](https://medium.com/p/c48ec251f6d6) |
+| Tue, 21 Apr 2026 03:31:01 GMT | Vercel Hack Explained: How One AI Tool Led to a Full-Scale Breach | Ojas Arora | [Read More](https://medium.com/p/e6036cd4ac88) |
+| Tue, 21 Apr 2026 03:30:47 GMT | BullGuard Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/eb60a7053646) |
+| Tue, 21 Apr 2026 03:30:00 GMT | “No Phishing. No Malware. Just a Phone Call… and the Entire System Was Compromised.” | Psaibtech | [Read More](https://medium.com/p/3a98f8f97222) |
+| Tue, 21 Apr 2026 03:25:33 GMT | AOL support number UK customer service UK | Zuerevalexander | [Read More](https://medium.com/p/956d3384be64) |
+| Tue, 21 Apr 2026 03:19:05 GMT | Malwarebytes Support 03 5323 1755 Australia | Customer Support Information | [Read More](https://medium.com/p/5dbf1fcd28da) |
+| Tue, 21 Apr 2026 03:16:44 GMT | How a Simple POST → GET Change Exposed 26,000+ User Records (Real Bug Bounty Story) | Psaibtech | [Read More](https://medium.com/p/acc31fcc5ba7) |
+| Tue, 21 Apr 2026 03:11:54 GMT | Outlook Support 03 5323 1755 Australia | Customer Support Information | [Read More](https://medium.com/p/be049cc4fc0c) |
+| Tue, 21 Apr 2026 03:11:43 GMT | Grouping At Scale (Part 2) | Varunshn | [Read More](https://medium.com/p/b9ff897bbb13) |
+| Tue, 21 Apr 2026 03:08:25 GMT | Vercel Hacked: How an AI Tool Integration Led to Unauthorized Access | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/febaa684a94e) |
+| Tue, 21 Apr 2026 03:02:20 GMT | Cyber Security: Protecting the Digital World | Hiroshi Gusti | [Read More](https://medium.com/p/67a2cf01dd97) |
+| Tue, 21 Apr 2026 02:37:38 GMT | Stop Guessing CORS: The Only Guide You Need to Master It | Ketul Malwana | [Read More](https://medium.com/p/5c333c50d4a6) |
+| Tue, 21 Apr 2026 02:36:12 GMT | When a Real OTP Meets a Fake One: How a Modern Phishing Attack Works | ProdigyLand | [Read More](https://medium.com/p/7d9edfb6e407) |
+| Tue, 21 Apr 2026 02:29:41 GMT | Vulnerability Analysis Workflow (Hands-on Lab with Nessus) | Couragetikum | [Read More](https://medium.com/p/5172c647a6e8) |
+| Tue, 21 Apr 2026 02:12:27 GMT | Why Your Business Should Consider HBITS Today | Arshadshaik | [Read More](https://medium.com/p/6c372aa81981) |
+| Tue, 21 Apr 2026 02:01:20 GMT | OpenAdmin - HTB Writeup - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/ef91c1d083e7) |
+| Tue, 21 Apr 2026 02:00:10 GMT | Beginner Cybersecurity Project That Taught Me More Than Courses | Adekunle A. J | [Read More](https://medium.com/p/eb7d4f3da468) |
+| Tue, 21 Apr 2026 01:25:21 GMT | XSS Reflected on DVWA | Harits AR | [Read More](https://medium.com/p/83bc51da7466) |
+| Tue, 21 Apr 2026 01:11:01 GMT | Building a Lightweight SIEM for Small Businesses From Zero to a Working Pipeline | Bertrand Gueagaba Guehoada | [Read More](https://medium.com/p/deb179592f74) |
+| Tue, 21 Apr 2026 01:07:18 GMT | AI + Metasploit = Auto & Easy Hacking? | Shahzaib | [Read More](https://medium.com/p/e906c9463de5) |
+| Tue, 21 Apr 2026 01:04:45 GMT | Understanding Darknet Marketplace Categories: A Research Perspective | Tor BBB | [Read More](https://medium.com/p/a2421321a06f) |
+| Tue, 21 Apr 2026 00:46:28 GMT | How I Bypassed 2FA on a Fintech Platform | Yamini Yadav_369 | [Read More](https://medium.com/p/0a8806e94671) |
+| Tue, 21 Apr 2026 00:46:08 GMT | Day 3: Build Your Hacking Lab — Kali Linux Setup on VirtualBox & VMware (Step-by-Step) | HusnaAnjum | [Read More](https://medium.com/p/543a70a2cef0) |
+| Tue, 21 Apr 2026 00:31:03 GMT | HackMyVM: Jabita Walkthrough | Antonio | [Read More](https://medium.com/p/61c364505147) |
+| Tue, 21 Apr 2026 00:22:43 GMT | Smart Security with Hidden Camera with Audio | duluxe cctv | [Read More](https://medium.com/p/1b4286473c23) |
+| Tue, 21 Apr 2026 00:01:02 GMT | Your GitHub Stars Might Be Fake — And It’s a Bigger Problem Than You Think | Frecce Joe Junior | [Read More](https://medium.com/p/0580d35f07d0) |
+| Tue, 21 Apr 2026 00:01:02 GMT | Guía de SSTI (Server-Side Template Injection): Detección, Explotación y Evasión de WAF | JPablo13 | [Read More](https://medium.com/p/0e2ccdc024d8) |
 | Mon, 20 Apr 2026 23:30:15 GMT | Monitoring ICMPv6 Traffic in Wireshark | Binyamin zahid | [Read More](https://medium.com/p/9e63c109ee26) |
 | Mon, 20 Apr 2026 23:24:07 GMT | Meta Cross-Account 2FA Bypass via Linked Accounts worth $$$ | D4LT0N | [Read More](https://medium.com/p/3de2c36076f5) |
 | Mon, 20 Apr 2026 23:18:58 GMT | What is Networking? — From Traffic Lights to MAC Spoofing | Adil Abbasov | [Read More](https://medium.com/p/d2604094696e) |
@@ -84,32 +113,3 @@ Inside Mustang Panda, China’s Most Persistent Cyber Espionage… | Ezechi Jere
 | Mon, 20 Apr 2026 18:10:35 GMT | Deterministic Chain Analysis: The Missing Layer in a Mythos-Ready Security Program | Eldor Zufarov | [Read More](https://medium.com/p/693f8c7115f6) |
 | Mon, 20 Apr 2026 18:09:55 GMT | Vibe Coding Is Shipping Vulnerabilities at Machine Speed — Your SAST Pipeline Can’t Keep Up | Pavan Paidy | [Read More](https://medium.com/p/2044429b61c3) |
 | Mon, 20 Apr 2026 17:57:41 GMT | Integrating secure ci/cd pipeline to SOC automation lab | The Commoness | [Read More](https://medium.com/p/acdf76634efa) |
-| Mon, 20 Apr 2026 17:51:20 GMT | # How Hackers Actually Think: Breaking Down the Attacker Mindset | Muhammed Farhan A | [Read More](https://medium.com/p/96ca02da034e) |
-| Mon, 20 Apr 2026 17:50:25 GMT | TryHackMe — ContAInment-Writeup | Szilidam | [Read More](https://medium.com/p/2c9019b892f7) |
-| Mon, 20 Apr 2026 17:46:14 GMT | Attackers Breach Vercel, Demand $2M for Stolen API Keys | Tara Prasad Routray | [Read More](https://medium.com/p/eae35d2340dd) |
-| Mon, 20 Apr 2026 17:44:41 GMT | Vercel Got Breached. Here Is What Happened and What You Should Do Right Now. | Ajay Yadav | [Read More](https://medium.com/p/271b5984529f) |
-| Mon, 20 Apr 2026 17:40:13 GMT | Using big data for better cybersecurity | NetworkTigers | [Read More](https://medium.com/p/e15f895d51e3) |
-| Mon, 20 Apr 2026 17:38:04 GMT | The Hidden Art of Testing Authorization — Where Most Critical Bugs Exist | Pradeeptadi | [Read More](https://medium.com/p/b70f0c3198d2) |
-| Mon, 20 Apr 2026 17:14:38 GMT | Simple Label That Could Bring Clarity Back to Social Media | Chris G. Schomburg | [Read More](https://medium.com/p/ebcba38cd453) |
-| Mon, 20 Apr 2026 17:13:51 GMT | FBI’s 2025 Crime Report Reveals a $893 Million AI Fraud Crisis Nobody Saw Coming | Before The Curve | [Read More](https://medium.com/p/d40f2997aa86) |
-| Mon, 20 Apr 2026 17:13:22 GMT | PortSwigger Lab : Reflected XSS into HTML context with nothing encoded (PortSwigger Academy) | Ahmed Sedky | [Read More](https://medium.com/p/b57b3f934172) |
-| Mon, 20 Apr 2026 17:05:31 GMT | 2d to 3d — ctf writeup | wal-z1 | [Read More](https://medium.com/p/9af36535a1db) |
-| Mon, 20 Apr 2026 17:03:16 GMT | ⚡️Claude Mythos: The AI That Can Actually Hack Systems — And Why Every Developer Should Care | Shashidhar Jagatap | [Read More](https://medium.com/p/4e3043a860e2) |
-| Mon, 20 Apr 2026 16:54:23 GMT | How to Send Logs from Linux Using Rsyslog: A Beginner’s Guide | Natthanan | [Read More](https://medium.com/p/4510ae87f9af) |
-| Mon, 20 Apr 2026 16:43:56 GMT | The Layer Your Database Is Missing | Prem Kumar | [Read More](https://medium.com/p/b2770e3b5acb) |
-| Mon, 20 Apr 2026 16:31:01 GMT | How Hackers Got Into Vercel — And Why This Keeps Happening | MayhemCode | [Read More](https://medium.com/p/2b566a9d3787) |
-| Mon, 20 Apr 2026 16:31:01 GMT | CyberDefenders — Ramnit Lab Writeup | JBXSec | [Read More](https://medium.com/p/321a1071658c) |
-| Mon, 20 Apr 2026 16:26:01 GMT | Execution AI Governance: Where Systems Learn to Refuse | Grace Adjeli | [Read More](https://medium.com/p/ef4bf12349f7) |
-| Mon, 20 Apr 2026 16:24:13 GMT | SentinelShield AI: The Future of Autonomous Cybersecurity | Dakshp Shah | [Read More](https://medium.com/p/435dd2158a96) |
-| Mon, 20 Apr 2026 16:18:54 GMT | What TLS Fingerprinting Is in 2026 and Why It Matters | Aleksei Aleinikov | [Read More](https://medium.com/p/9220e25f2c33) |
-| Mon, 20 Apr 2026 16:17:27 GMT | Building Secure and Resilient Digital Infrastructure: From Early Curiosity to Real-World… | Aishgavali | [Read More](https://medium.com/p/5f5da055dc03) |
-| Mon, 20 Apr 2026 16:13:13 GMT | Anthropic Claude Mythos Cybersecurity Risks: Why the New AI Has Global Regulators Scrambling | Deepak S. | [Read More](https://medium.com/p/bf97685c218d) |
-| Mon, 20 Apr 2026 16:10:41 GMT | Claude Mythos; what we should fear | Starploom | [Read More](https://medium.com/p/6302ef220e9d) |
-| Mon, 20 Apr 2026 16:06:06 GMT | IDOR: The $10,000 Bug Hiding in Plain Sight | EMTIAZ AHMED | [Read More](https://medium.com/p/5566cbd9e9be) |
-| Mon, 20 Apr 2026 16:05:05 GMT | HTB Academy: Linux Fundamentals — The Shell → System Information | Aditya Pandey | [Read More](https://medium.com/p/c1dd42b7ab7e) |
-| Mon, 20 Apr 2026 16:03:30 GMT | Securing AI Agents | Alvin Lee | [Read More](https://medium.com/p/a7011c686381) |
-| Mon, 20 Apr 2026 16:02:17 GMT | Google Cloud Security Best Practices: A Comprehensive Guide using Java | CodeTechFI( I.F ) | [Read More](https://medium.com/p/7e7660251513) |
-| Mon, 20 Apr 2026 15:58:11 GMT | Bug Bounty Burnout: I Took a Month Off and It Fixed Everything | EMTIAZ AHMED | [Read More](https://medium.com/p/1bbbde3990d5) |
-| Mon, 20 Apr 2026 15:57:52 GMT | How LLMs Actually Avoid Training on User Data | Jennifer Fu | [Read More](https://medium.com/p/802f15a23e9b) |
-| Mon, 20 Apr 2026 15:50:05 GMT | A Rabbit Hole in Recon: When IDOR Turns Out to Be Nothing | Abdelrahman Maged | [Read More](https://medium.com/p/078a4051757a) |
-| Mon, 20 Apr 2026 15:43:59 GMT | Skynet— TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/ede0ba49f363) |
