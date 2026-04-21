@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Apr 2026 17:49:43 GMT | How Cybercriminals Are Using AI to Attack in 2026 | Sai kiran | [Read More](https://medium.com/p/2b8ed416a7c7) |
+| Tue, 21 Apr 2026 17:49:23 GMT | The 7 Most Common Mistakes in Small Business Security | Emory French | [Read More](https://medium.com/p/5d369aeb7011) |
+| Tue, 21 Apr 2026 17:42:48 GMT | FortiGate vs Palo Alto: A Hands-On Engineer’s Honest Comparison | Reuben Lim | [Read More](https://medium.com/p/3252a6fc5a86) |
+| Tue, 21 Apr 2026 17:31:17 GMT | Frank Elsner on Crisis Leadership: Why Preparation Defines Performance | Frank Elsner | [Read More](https://medium.com/p/191a4de50466) |
+| Tue, 21 Apr 2026 17:28:04 GMT | TryHackMe - RAG Security Fundamentals - WriteUp | Axoloth | [Read More](https://medium.com/p/1698bb45234c) |
+| Tue, 21 Apr 2026 17:25:47 GMT | Cybercrime is rising. Here’s how to protect your business - Expert Opinion | Gene Marks | [Read More](https://medium.com/p/17bdf49f9ddf) |
+| Tue, 21 Apr 2026 17:24:46 GMT | Vercel Security Scare: What Happened and Why You Should Care (Right Now) | Muhammad Shehroz | [Read More](https://medium.com/p/2b29b3bf99e4) |
+| Tue, 21 Apr 2026 17:24:10 GMT | Frank Elsner on Crisis Leadership: Why Preparation Defines Performance | Frank Elsner | [Read More](https://medium.com/p/ca955672a0f5) |
+| Tue, 21 Apr 2026 17:21:22 GMT | Shipping a Privacy-First LLM Middleware with Claude Code | Daiki | [Read More](https://medium.com/p/48c2c69dff44) |
+| Tue, 21 Apr 2026 17:16:20 GMT | Why Smart People Still Get Scammed in Retirement | CW Fong | [Read More](https://medium.com/p/777fbe7c7bd4) |
+| Tue, 21 Apr 2026 17:16:10 GMT | What Is Network Segmentation and Why Does Every Business Need It? | Temma | [Read More](https://medium.com/p/0234bbaa06ad) |
+| Tue, 21 Apr 2026 17:10:10 GMT | Building a fairly decent Home Network | Dhruv | [Read More](https://medium.com/p/89613436516e) |
+| Tue, 21 Apr 2026 17:07:08 GMT | Browser Extensions Are the New Malware Dropper | zerOiQ | [Read More](https://medium.com/p/590266076cf4) |
+| Tue, 21 Apr 2026 17:05:28 GMT | The File That Answered Back — XXE Hidden in Cell A2 | Alvin Ferdiansyah | [Read More](https://medium.com/p/20dbb8161dd8) |
+| Tue, 21 Apr 2026 17:01:46 GMT | LazyAdmin Walkthrough: From Initial Access to Root (SweetRice CMS Exploit) | 0xTanvexar | [Read More](https://medium.com/p/26655bd69d95) |
+| Tue, 21 Apr 2026 17:00:10 GMT | How to Secure a Mobile System — Part 2: Mobile Decisions That Actually Matter | Bilal Hairab | [Read More](https://medium.com/p/0b6ba31016dc) |
+| Tue, 21 Apr 2026 16:53:18 GMT | 4 Port and Protocol Questions I Ask in Every SOC Interview | Jbird | [Read More](https://medium.com/p/6a157f5bac22) |
+| Tue, 21 Apr 2026 16:51:13 GMT | Penetration Testing Report — Kioptrix Level 1 Exploitation | Md montashir mobine rifat | [Read More](https://medium.com/p/ddfedabd19d0) |
+| Tue, 21 Apr 2026 16:48:46 GMT | RESTful API Development with Sanctum — Path to Laravel (Article 14) | Dinushka Tharidu | [Read More](https://medium.com/p/4e673a9372ca) |
 | Tue, 21 Apr 2026 16:31:57 GMT | Building a DevSecOps Pipeline on AWS EKS — From Code Commit to Production | Abhoy Mondal | [Read More](https://medium.com/p/70804c2e733e) |
 | Tue, 21 Apr 2026 16:31:01 GMT | Fork Bomb in Cybersecurity: The Silent Attack That Can Crash a System in Seconds | Natarajan C K | [Read More](https://medium.com/p/4800436d713c) |
 | Tue, 21 Apr 2026 16:20:26 GMT | The Pillars of Digital Trust: Understanding the CIA Triad and Its Threats | Josephbright | [Read More](https://medium.com/p/5e1ed299dfb1) |
@@ -64,6 +83,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Apr 2026 13:35:38 GMT | Why AI Systems Don’t Self-Correct — Even When Accurate Information Exists | Aaron Lazor - SecondSideMedia | [Read More](https://medium.com/p/f57f052b38c6) |
 | Tue, 21 Apr 2026 13:34:48 GMT | A Closer Look at Dark Web Pharmaceutical Products and Online Risk Trends | Tor BBB | [Read More](https://medium.com/p/7388cbd5d60f) |
 | Tue, 21 Apr 2026 13:34:35 GMT | Chains of Love — Medium Writeup (TryHackMe) | Pavan N | [Read More](https://medium.com/p/fc83060a3652) |
+| Tue, 21 Apr 2026 13:33:52 GMT | Kioptrix: 2014 — VulnHub Walkthrough pChart LFI + PhpTax RCE to Root via FreeBSD Kernel Exploit | Punih3r7 | [Read More](https://medium.com/p/60c4823de5ef) |
 | Tue, 21 Apr 2026 13:31:51 GMT | Securing the Backbone — Issue #24: AI Is In Your Supply Chain. And It’s Already Being Breached. | Eric Gallagher | [Read More](https://medium.com/p/4be70911689a) |
 | Tue, 21 Apr 2026 13:31:27 GMT | The Digital Underworld of Modern Medicine: SIM Farms and Cloud Security | Viral Parmar | [Read More](https://medium.com/p/3e648df31f87) |
 | Tue, 21 Apr 2026 13:31:14 GMT | Securing the Backbone — Issue #23: When AI Hijacks the Hammer: How LLMs Can Plan & Execute… | Eric Gallagher | [Read More](https://medium.com/p/8e582751b5e3) |
@@ -93,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Apr 2026 11:51:01 GMT | Active Scan++: The Burp Suite Extension That Finds What the Default Scanner Misses | Ajay Yadav | [Read More](https://medium.com/p/1ca012b21a86) |
 | Tue, 21 Apr 2026 11:42:55 GMT | Day 03 of 59 — OWASP Top 10 & Vulnerable Labs
 Why Most Beginners Don’t Know What They’re Looking… | Hamim Islam | [Read More](https://medium.com/p/966908eb5166) |
-| Tue, 21 Apr 2026 11:38:40 GMT | ️ Attacktive Directory Walkthrough (TryHackMe) | Sakhavatrustamli | [Read More](https://medium.com/p/ea0d0f9e2fec) |
-| Tue, 21 Apr 2026 11:35:25 GMT | Agentic Memory Poisoning: ช่องโหว่ที่ซ่อนอยู่ใน Persistent Memory ของ Agent | Neng Apichet | [Read More](https://medium.com/p/bb9ce38eaf26) |
-| Tue, 21 Apr 2026 11:34:50 GMT | The Security Risks of Vibe Coding Most Teams Won’t See Coming | One Horizon | [Read More](https://medium.com/p/88ba364267f0) |
-| Tue, 21 Apr 2026 11:27:12 GMT | How to Migrate Public Folders Between Microsoft 365 Tenants | Adom Smith | [Read More](https://medium.com/p/cbea815c0012) |
-| Tue, 21 Apr 2026 11:04:13 GMT | Backlink Monitoring Tools: The Ultimate Guide to Smarter SEO Tracking | Jellyfr | [Read More](https://medium.com/p/4e4d3dd91a08) |
-| Tue, 21 Apr 2026 11:02:15 GMT | Cách tải app 28bet an toàn: hướng dẫn xác thực nguồn gốc chính chủ năm 2026 | 報數十一員 | [Read More](https://medium.com/p/5e6c9682e79d) |
-| Tue, 21 Apr 2026 11:00:34 GMT | Strategic Risks of Undersea Cable Networks and Grey Zone threats in the Indian Ocean | Varsha | [Read More](https://medium.com/p/5ca78a91fdf1) |
-| Tue, 21 Apr 2026 11:00:29 GMT | How to Handle Public Folders During Exchange to Microsoft 365 Migration? | Adom Smith | [Read More](https://medium.com/p/edec1d784a50) |
-| Tue, 21 Apr 2026 10:57:57 GMT | The Silent Threat: How AI Sandbagging Undermines Trust and Security | Alessandro Pignati | [Read More](https://medium.com/p/0a3311c97efd) |
-| Tue, 21 Apr 2026 10:54:31 GMT | The Evolution of Cybersecurity: From Firewalls to AI | Swatibhavsar Atech | [Read More](https://medium.com/p/056b7b5cb18f) |
-| Tue, 21 Apr 2026 10:49:58 GMT | The Illusion of Control in Cybersecurity | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/3b3889524e2c) |
-| Tue, 21 Apr 2026 10:47:26 GMT | Validating My External Attack Surface: A Production-Ready Nuclei Self-Audit Pipeline | byteGirl | [Read More](https://medium.com/p/016bb8f35a7b) |
-| Tue, 21 Apr 2026 10:45:13 GMT | AI/ML Security Threats | Cheryl Maise Lobo | [Read More](https://medium.com/p/0ba63629703a) |
-| Tue, 21 Apr 2026 10:39:36 GMT | Building a Lightweight Page Identity & Trust System for Static Websites | Akshat Prasad | [Read More](https://medium.com/p/b2c0fb9b2a90) |
-| Tue, 21 Apr 2026 10:35:28 GMT | ️ What is Information Technology? | Atakan Bitim | [Read More](https://medium.com/p/5c6573fb1826) |
-| Tue, 21 Apr 2026 10:35:23 GMT | ️ Information Technology Nedir? | Atakan Bitim | [Read More](https://medium.com/p/307dfd808407) |
-| Tue, 21 Apr 2026 10:33:22 GMT | Beyond JPEG: Revolutionizing Data Sovereignty with Neural Bitstream Compression and AES-256… | Efe Cengiz | [Read More](https://medium.com/p/96a33bb84bc3) |
-| Tue, 21 Apr 2026 10:32:28 GMT | Cyber Security Consulting Services Chicago, USA - Protect Your Business Today - Cepoch | cepoch | [Read More](https://medium.com/p/00a857c32896) |
-| Tue, 21 Apr 2026 10:28:19 GMT | What Software Architects Get Wrong About Security | Ujjwal Sharma | [Read More](https://medium.com/p/f2c424fcff88) |
-| Tue, 21 Apr 2026 10:26:16 GMT | What is Event Logistics? Seamless Event Planning & Execution in the UK | waeventservices.co.uk/ | [Read More](https://medium.com/p/7953c25384cb) |
