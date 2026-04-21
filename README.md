@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Apr 2026 21:11:49 GMT | The Vercel Breach: Why Infrastructure Ownership Is Not Negotiable | Sage Khan | [Read More](https://medium.com/p/167430cba41d) |
+| Tue, 21 Apr 2026 21:10:15 GMT | The Hidden Security Risks of AI Agents: What Organizations Must Address Before It’s Too Late | Ann Karagwa | [Read More](https://medium.com/p/badebdba87b4) |
+| Tue, 21 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 53: Interviews, Day 2 + Cosplans | Maximillian Rueda | [Read More](https://medium.com/p/a459b9230113) |
+| Tue, 21 Apr 2026 20:57:44 GMT | ️ Yetki Yükseltme Notları: SUID & Capabilities (setcap) | Muhammed Akcabey | [Read More](https://medium.com/p/b2f85afd2e70) |
+| Tue, 21 Apr 2026 20:54:19 GMT | Breaking Logic with Timing: A Race Condition Case Study (with a Vibe ) | WarrenMu | [Read More](https://medium.com/p/9a47db69d68e) |
+| Tue, 21 Apr 2026 20:47:44 GMT | Enumerating Windows Process Creation Callbacks | S12 - 0x12Dark Development | [Read More](https://medium.com/p/98e09153e2d7) |
+| Tue, 21 Apr 2026 20:43:12 GMT | Ghost in the Pipeline: How AI Code Review Bots Are Silently Inheriting Your CI/CD Secrets | STarX | [Read More](https://medium.com/p/e31ef6cf8108) |
+| Tue, 21 Apr 2026 20:32:57 GMT | Claude Mythos Is About to Change Cybersecurity Forever!!! | cybrNK | [Read More](https://medium.com/p/5a876e3d31de) |
+| Tue, 21 Apr 2026 20:31:28 GMT | About Rajat Ranjan Pratap Singh | Thakur Silver Singh Rajput | [Read More](https://medium.com/p/22daabb59a18) |
 | Tue, 21 Apr 2026 20:17:05 GMT | Storing OTP Securely in Salesforce Platform Cache — A Production-Grade Architecture Guide | Mani | [Read More](https://medium.com/p/818bbf6a5a6d) |
 | Tue, 21 Apr 2026 20:15:28 GMT | How to Triage a Phishing Alert Faster — Without Rebuilding the Process Every Time | Gaurav Kundu | [Read More](https://medium.com/p/19a67e0908cd) |
 | Tue, 21 Apr 2026 20:06:35 GMT | The Vercel Hack of April 2026: A Wake-Up Call on Third-Party AI Integrations and “Plaintext”… | Syed Talha Ahmed | [Read More](https://medium.com/p/d7843b851b8d) |
@@ -25,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Apr 2026 19:36:53 GMT | HackViser: Rivalry Scenerio Writeup | EfeSipahi | [Read More](https://medium.com/p/c12d027909a9) |
 | Tue, 21 Apr 2026 19:34:40 GMT | Blind SSRF Leads to Internal Service and IP Discovery with Multiple Security Impacts | Mohamed M Mourad | [Read More](https://medium.com/p/795613317d44) |
 | Tue, 21 Apr 2026 19:23:49 GMT | VPNs: OpenVPN, IPsec, and the TLS Tunnel | Haggai Philip Zagury | [Read More](https://medium.com/p/87b03b567042) |
+| Tue, 21 Apr 2026 19:08:53 GMT | Ferramenta de auditoria e monitoramento de segurança | Nnfelipe | [Read More](https://medium.com/p/49106030a0e6) |
 | Tue, 21 Apr 2026 18:58:58 GMT | You Opened a “PDF”. It Compromised Your Entire System. | R.D.Tarun | [Read More](https://medium.com/p/a71008fc1744) |
 | Tue, 21 Apr 2026 18:50:40 GMT | The Great AI Reckoning: How April 2026 Changed Everything | Nina | [Read More](https://medium.com/p/1811cdad959a) |
 | Tue, 21 Apr 2026 18:41:01 GMT | The Night I Almost Quit Everything | Daisy | [Read More](https://medium.com/p/99349e8ca7d3) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Apr 2026 13:54:39 GMT | HTB Machine — WingData | Toxkay | [Read More](https://medium.com/p/fb24e5a37900) |
 | Tue, 21 Apr 2026 13:53:45 GMT | Shared Accounts Are Here — Enhance Your Security | Joseph Cecala | [Read More](https://medium.com/p/371590e2d8ea) |
 | Tue, 21 Apr 2026 13:51:01 GMT | The Modern CISO Is an Animal Trainer (Whether You Like It or Not) | Bolaji Ladokun | [Read More](https://medium.com/p/633f23367c79) |
-| Tue, 21 Apr 2026 13:46:45 GMT | MFA in 2026: Why Hackers Still Slip Through | Cybersectoworld | [Read More](https://medium.com/p/7434502882d4) |
-| Tue, 21 Apr 2026 13:42:45 GMT | 10 Rationales Why Structured Bonds Are Catching On Among Investors | NehawritergyJain | [Read More](https://medium.com/p/ddacb2f19c01) |
-| Tue, 21 Apr 2026 13:37:09 GMT | CupidCards Boot2Root Writeup — When Enumeration Tricks You | Pavan N | [Read More](https://medium.com/p/003f369dbb8e) |
-| Tue, 21 Apr 2026 13:36:11 GMT | Business Security Systems: What You Need to Know | Intune Technologies | [Read More](https://medium.com/p/b9f79464731d) |
-| Tue, 21 Apr 2026 13:36:09 GMT | How a Third-Party AI Tool Led to Internal Access: Lessons from Vercel’s Breach | M Sreekari | [Read More](https://medium.com/p/8d5777c6cd4e) |
-| Tue, 21 Apr 2026 13:36:01 GMT | Cyber Security Career in India 2026: Salary, Scope & Future Explained | Cyberdojoyt | [Read More](https://medium.com/p/4073105bd647) |
-| Tue, 21 Apr 2026 13:35:38 GMT | Why AI Systems Don’t Self-Correct — Even When Accurate Information Exists | Aaron Lazor - SecondSideMedia | [Read More](https://medium.com/p/f57f052b38c6) |
-| Tue, 21 Apr 2026 13:34:48 GMT | A Closer Look at Dark Web Pharmaceutical Products and Online Risk Trends | Tor BBB | [Read More](https://medium.com/p/7388cbd5d60f) |
-| Tue, 21 Apr 2026 13:34:35 GMT | Chains of Love — Medium Writeup (TryHackMe) | Pavan N | [Read More](https://medium.com/p/fc83060a3652) |
-| Tue, 21 Apr 2026 13:33:52 GMT | Kioptrix: 2014 — VulnHub Walkthrough pChart LFI + PhpTax RCE to Root via FreeBSD Kernel Exploit | Punih3r7 | [Read More](https://medium.com/p/60c4823de5ef) |
