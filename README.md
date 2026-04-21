@@ -12,12 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Apr 2026 15:11:01 GMT | Breaking Access Control: How a Low-Privilege User Accessed Workspace Members Data | montaser mohsen | [Read More](https://medium.com/p/af2e72d64bb9) |
+| Tue, 21 Apr 2026 15:06:01 GMT | That One “Download” Endpoint That Shouldn’t Have Been There | Tanvi Chauhan | [Read More](https://medium.com/p/98fa9e0c4a36) |
+| Tue, 21 Apr 2026 15:05:26 GMT | Web Security Series #17 — Exploiting Local File Inclusion (LFI) Using ffuf | Laibakashif | [Read More](https://medium.com/p/8f0b4cedcd27) |
+| Tue, 21 Apr 2026 15:05:17 GMT | A Complete Guide to Website Blacklisting Recovery | Shamir Ajmir Khan | [Read More](https://medium.com/p/ea0e7a2254cd) |
+| Tue, 21 Apr 2026 15:01:02 GMT | Investigating the MacOS to Identify the root cause — Mac Hunt — TryHackMe | Misbah Ur Rehman | [Read More](https://medium.com/p/e7b69ac0292b) |
+| Tue, 21 Apr 2026 15:01:01 GMT | Software Supply Chain Security and the Open Source Risk Nobody Budgeted For | J. Neil Moses | [Read More](https://medium.com/p/736edee6d4f3) |
+| Tue, 21 Apr 2026 14:54:15 GMT | Attacker’s Playbook vs Defender’s Toolbox | Priyanka Murali | [Read More](https://medium.com/p/87dc67978549) |
+| Tue, 21 Apr 2026 14:52:05 GMT | Cybersecurity in 2026: When Machines Attack at Machine Speed | Niharika | [Read More](https://medium.com/p/88c3441af4f5) |
+| Tue, 21 Apr 2026 14:50:51 GMT | Effect of Phishing mail on business continuity. | Enyi Jerry | [Read More](https://medium.com/p/e28a822a3330) |
+| Tue, 21 Apr 2026 14:48:19 GMT | What Is a Crypto Hardware Wallet? A Complete Beginner’s Guide | Laurence Beaufoy | [Read More](https://medium.com/p/95bf22f558f1) |
+| Tue, 21 Apr 2026 14:47:18 GMT | How I Made My First $2,000 in Bug Bounty (Without Being a Genius Hacker) | Tanvi Chauhan | [Read More](https://medium.com/p/6c766fbf5396) |
+| Tue, 21 Apr 2026 14:46:01 GMT | [RESEARCH] CPU-Z was the lure. The real story is who buys the foothold. | Wes Young | [Read More](https://medium.com/p/9e309f4156da) |
+| Tue, 21 Apr 2026 14:42:50 GMT | Web Security Series # 16— Exploiting Local File Inclusion (LFI) | Laibakashif | [Read More](https://medium.com/p/a6662721666b) |
+| Tue, 21 Apr 2026 14:41:43 GMT | The Human Firewall: Why Leadership is the Ultimate Cybersecurity Skill in 2026 | Xaltius | [Read More](https://medium.com/p/a866fac6d065) |
+| Tue, 21 Apr 2026 14:31:01 GMT | “AI will replace SOC analysts” this sounds convincing. It’s also incomplete. | Manubhav Sharma | [Read More](https://medium.com/p/054c0cb34a1a) |
+| Tue, 21 Apr 2026 14:24:37 GMT | How Expensive is a Naked AI Agent? The $285M Tragedy & The Inevitability of AIL Architecture | lokii | [Read More](https://medium.com/p/e5232470e613) |
+| Tue, 21 Apr 2026 14:09:34 GMT | Your Medium Security Risks are Actually ‘High’ Risks In Disguise | Tyreek Haynes | [Read More](https://medium.com/p/d49eb18baa03) |
+| Tue, 21 Apr 2026 14:08:41 GMT | Latency vs. Throughput: An Often Overlooked Trade-off in Modern Network Design | Nova_wahyu_ramadhan | [Read More](https://medium.com/p/244a5c73c0fc) |
+| Tue, 21 Apr 2026 13:54:39 GMT | HTB Machine — WingData | Toxkay | [Read More](https://medium.com/p/fb24e5a37900) |
+| Tue, 21 Apr 2026 13:53:45 GMT | Shared Accounts Are Here — Enhance Your Security | Joseph Cecala | [Read More](https://medium.com/p/371590e2d8ea) |
+| Tue, 21 Apr 2026 13:51:01 GMT | The Modern CISO Is an Animal Trainer (Whether You Like It or Not) | Bolaji Ladokun | [Read More](https://medium.com/p/633f23367c79) |
 | Tue, 21 Apr 2026 13:46:45 GMT | MFA in 2026: Why Hackers Still Slip Through | Cybersectoworld | [Read More](https://medium.com/p/7434502882d4) |
+| Tue, 21 Apr 2026 13:42:45 GMT | 10 Rationales Why Structured Bonds Are Catching On Among Investors | NehawritergyJain | [Read More](https://medium.com/p/ddacb2f19c01) |
+| Tue, 21 Apr 2026 13:37:09 GMT | CupidCards Boot2Root Writeup — When Enumeration Tricks You | Pavan N | [Read More](https://medium.com/p/003f369dbb8e) |
 | Tue, 21 Apr 2026 13:36:11 GMT | Business Security Systems: What You Need to Know | Intune Technologies | [Read More](https://medium.com/p/b9f79464731d) |
 | Tue, 21 Apr 2026 13:36:09 GMT | How a Third-Party AI Tool Led to Internal Access: Lessons from Vercel’s Breach | M Sreekari | [Read More](https://medium.com/p/8d5777c6cd4e) |
 | Tue, 21 Apr 2026 13:36:01 GMT | Cyber Security Career in India 2026: Salary, Scope & Future Explained | Cyberdojoyt | [Read More](https://medium.com/p/4073105bd647) |
 | Tue, 21 Apr 2026 13:35:38 GMT | Why AI Systems Don’t Self-Correct — Even When Accurate Information Exists | Aaron Lazor - SecondSideMedia | [Read More](https://medium.com/p/f57f052b38c6) |
 | Tue, 21 Apr 2026 13:34:48 GMT | A Closer Look at Dark Web Pharmaceutical Products and Online Risk Trends | Tor BBB | [Read More](https://medium.com/p/7388cbd5d60f) |
+| Tue, 21 Apr 2026 13:34:35 GMT | Chains of Love — Medium Writeup (TryHackMe) | Pavan N | [Read More](https://medium.com/p/fc83060a3652) |
 | Tue, 21 Apr 2026 13:31:51 GMT | Securing the Backbone — Issue #24: AI Is In Your Supply Chain. And It’s Already Being Breached. | Eric Gallagher | [Read More](https://medium.com/p/4be70911689a) |
 | Tue, 21 Apr 2026 13:31:27 GMT | The Digital Underworld of Modern Medicine: SIM Farms and Cloud Security | Viral Parmar | [Read More](https://medium.com/p/3e648df31f87) |
 | Tue, 21 Apr 2026 13:31:14 GMT | Securing the Backbone — Issue #23: When AI Hijacks the Hammer: How LLMs Can Plan & Execute… | Eric Gallagher | [Read More](https://medium.com/p/8e582751b5e3) |
@@ -38,6 +62,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Apr 2026 12:38:57 GMT | Why Smart Wallets Are the Future of Everyday Carry (And Why You Should Upgrade Today) | Digital Updates | [Read More](https://medium.com/p/13f0b4177bb5) |
 | Tue, 21 Apr 2026 12:35:11 GMT | Void ScenarioWriteup: HackViser | EfeSipahi | [Read More](https://medium.com/p/b8cd0f023591) |
 | Tue, 21 Apr 2026 12:33:37 GMT | Explain This: The Thymeleaf Bug That Turned Whitespace Into Code Execution | Karla Ortiz-Flores | [Read More](https://medium.com/p/639d525ce1dd) |
+| Tue, 21 Apr 2026 12:21:13 GMT | 95% of PII Redaction Doesn’t Need an LLM. The Other 5% Is Where Your Masker Leaks. | Rene Zander | [Read More](https://medium.com/p/ad4935345a0b) |
 | Tue, 21 Apr 2026 12:17:13 GMT | Blind SQL Injection — Part 3 (Final Chapter) | Aaftab A.K | [Read More](https://medium.com/p/ea56399a4286) |
 | Tue, 21 Apr 2026 12:11:50 GMT | What Can You Do After the IIT-JEE Result? Start A Career in Cybersecurity Today | Crawsec | [Read More](https://medium.com/p/31ce1be7e701) |
 | Tue, 21 Apr 2026 12:01:37 GMT | Are you sure your man is not in the”Rape Academy”? | Izzavera | [Read More](https://medium.com/p/e64e03d18804) |
@@ -88,28 +113,3 @@ Why Most Beginners Don’t Know What They’re Looking… | Hamim Islam | [Read 
 | Tue, 21 Apr 2026 09:04:12 GMT | Cloud Landing Zone Accelerators: Secure-by-Design Architectures for AWS, Azure & GCP | Saleem Yousaf | [Read More](https://medium.com/p/27448c66aac4) |
 | Tue, 21 Apr 2026 09:01:04 GMT | Why employees never read policies — and what to change. | Gaurav Shukla | [Read More](https://medium.com/p/8684d3feaa05) |
 | Tue, 21 Apr 2026 08:55:41 GMT | The importance of cyber security in digital age | Hemamalini | [Read More](https://medium.com/p/c09b250a139b) |
-| Tue, 21 Apr 2026 08:51:20 GMT | Vercel and Lovable Got Breached in the Same Week. Your API Keys Might Be in Both. | Dhanush N | [Read More](https://medium.com/p/6b653dbd2a2f) |
-| Tue, 21 Apr 2026 08:47:50 GMT | Vercel Hack Explained: How a Roblox Cheat Brought Down a $9.3 Billion Company | VR | [Read More](https://medium.com/p/a19ba20c7e43) |
-| Tue, 21 Apr 2026 08:44:34 GMT | I Used AI to Cut My Red Team Report Writing Time by 70% — Here’s How | Cyberaiprompts | [Read More](https://medium.com/p/d599bb2ac803) |
-| Tue, 21 Apr 2026 08:43:45 GMT | Blueprint - THM | #UNKNOWN | [Read More](https://medium.com/p/f3821ce850c8) |
-| Tue, 21 Apr 2026 08:41:38 GMT | Emergency Call Out Locksmith — Rapid Response When Every Second Counts | N1locksmithsltd | [Read More](https://medium.com/p/fddd0ad8ac04) |
-| Tue, 21 Apr 2026 08:37:13 GMT | Untitled | Nina | [Read More](https://medium.com/p/08c3df1d675b) |
-| Tue, 21 Apr 2026 08:31:01 GMT | Denmark’s Foreign Policy Revolution: How a Small Nation Is Rewriting the Rules of European Security | Bastian Friborg | [Read More](https://medium.com/p/d5b3ef0437a5) |
-| Tue, 21 Apr 2026 08:10:36 GMT | MCP security has 4 layers. Most teams have 2. | Andrea P. | [Read More](https://medium.com/p/3a40e4f69ab8) |
-| Tue, 21 Apr 2026 08:05:40 GMT | Why “I’ve Got Nothing to Hide” Is the Most Dangerous Lie You Tell Yourself | Viral Parmar | [Read More](https://medium.com/p/5d78b741b63a) |
-| Tue, 21 Apr 2026 08:03:20 GMT | How I Detected a Network Attack Using Snort (Step-by-Step) | Dafa Dwi Putra | [Read More](https://medium.com/p/66f3ba0ca18f) |
-| Tue, 21 Apr 2026 08:01:05 GMT | The Illusion of Stateless Security: Rethinking JWT Revocation at Scale. | Pau Dang | [Read More](https://medium.com/p/8426472c5022) |
-| Tue, 21 Apr 2026 08:01:01 GMT | The Teenager Who Hacked 60 Million Kids | CyberSamm | [Read More](https://medium.com/p/b7882ce6010e) |
-| Tue, 21 Apr 2026 08:00:08 GMT | What is antivirus software? | Nivethabaskar | [Read More](https://medium.com/p/4eaf11ac0ff0) |
-| Tue, 21 Apr 2026 07:58:33 GMT | Understanding AI Supply Chains - TryHackMe Answers | Ryca | [Read More](https://medium.com/p/06708dc3bb1c) |
-| Tue, 21 Apr 2026 07:56:04 GMT | What are the different types of cyber attacks? | Nivethabaskar | [Read More](https://medium.com/p/643939d40ccd) |
-| Tue, 21 Apr 2026 07:52:27 GMT | TryHackMe - Slingshot — Walk Through | ocharek | [Read More](https://medium.com/p/594b6928d4ac) |
-| Tue, 21 Apr 2026 07:50:51 GMT | How Scam Alerts Protect You from Suspicion to Safety | James Smith | [Read More](https://medium.com/p/58773020e026) |
-| Tue, 21 Apr 2026 07:47:51 GMT | Membongkar Isi Database Non-Oracle Menggunakan SQL Injection (UNION Attack) | Hasbi Anakguru | [Read More](https://medium.com/p/44587a5ae8e5) |
-| Tue, 21 Apr 2026 07:39:59 GMT | Compliance Drift: The Risk That Begins After You Pass the Audit | Lakshita Gulliya | [Read More](https://medium.com/p/9534f5f6cc0e) |
-| Tue, 21 Apr 2026 07:39:49 GMT | Top 8 Talks from [un]prompted 2026 Every Security Practitioner Should Know | The Cyber Archive | [Read More](https://medium.com/p/3e85681b9a09) |
-| Tue, 21 Apr 2026 07:35:13 GMT | Designing Secure REST APIs. Error Handling with a Twist | Meri Hayrapetyan | [Read More](https://medium.com/p/6b1c014e19f4) |
-| Tue, 21 Apr 2026 07:21:26 GMT | Warehouse Security in Australia: Protecting Your Inventory and Operations | SecurityInsightsAU | [Read More](https://medium.com/p/878e67d237ea) |
-| Tue, 21 Apr 2026 07:18:55 GMT | The AI Visibility Gap Is Real – And It Lives on Your Website | Oran F | [Read More](https://medium.com/p/4f9e3cb1fe6b) |
-| Tue, 21 Apr 2026 07:08:39 GMT | Corporate Campus Security Guards in BC Full Protection for Large Business Sites | Sukks | [Read More](https://medium.com/p/0bf302f7b12e) |
-| Tue, 21 Apr 2026 07:00:10 GMT | Top Firewall Solutions in Dubai for Complete Network Security - Proswift Security Solutions | Proswift Security Solutions | [Read More](https://medium.com/p/9b5ca2823784) |
