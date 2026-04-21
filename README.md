@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Apr 2026 22:01:32 GMT | Code Is Law Until It Isn’t: What Arbitrum’s Intervention Reveals About Crypto Governance | Abraham | [Read More](https://medium.com/p/92b43daef28c) |
+| Tue, 21 Apr 2026 21:45:04 GMT | mSpy Sideloaded App Detection: What I Found | Michael McFarland | [Read More](https://medium.com/p/5b78daecdeac) |
+| Tue, 21 Apr 2026 21:43:34 GMT | Conway’s Law vs. the Agent | Gil Salu | [Read More](https://medium.com/p/3bb03172fbb1) |
+| Tue, 21 Apr 2026 21:40:35 GMT | Intel and AMD’s Secure Enclaves Just Got Cracked for Under $1000 | David Lee | [Read More](https://medium.com/p/4be9987e1404) |
+| Tue, 21 Apr 2026 21:29:52 GMT | PIN AI AMBASSADOR WITH GUARDIAN ANGEL ROLE | hunterkurfi | [Read More](https://medium.com/p/cb14a87e90c7) |
+| Tue, 21 Apr 2026 21:24:36 GMT | Business Logic Vulnerabilities: The Bugs Scanners Can’t Find | Chetan Biranje | [Read More](https://medium.com/p/a60ed9a55792) |
 | Tue, 21 Apr 2026 21:11:49 GMT | The Vercel Breach: Why Infrastructure Ownership Is Not Negotiable | Sage Khan | [Read More](https://medium.com/p/167430cba41d) |
+| Tue, 21 Apr 2026 21:11:42 GMT | How I Found a WAF Bypass Acknowledged by Meesho | Chetan Biranje | [Read More](https://medium.com/p/01bb8e39507f) |
 | Tue, 21 Apr 2026 21:10:15 GMT | The Hidden Security Risks of AI Agents: What Organizations Must Address Before It’s Too Late | Ann Karagwa | [Read More](https://medium.com/p/badebdba87b4) |
 | Tue, 21 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 53: Interviews, Day 2 + Cosplans | Maximillian Rueda | [Read More](https://medium.com/p/a459b9230113) |
 | Tue, 21 Apr 2026 20:57:44 GMT | ️ Yetki Yükseltme Notları: SUID & Capabilities (setcap) | Muhammed Akcabey | [Read More](https://medium.com/p/b2f85afd2e70) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Apr 2026 14:46:01 GMT | [RESEARCH] CPU-Z was the lure. The real story is who buys the foothold. | Wes Young | [Read More](https://medium.com/p/9e309f4156da) |
 | Tue, 21 Apr 2026 14:42:50 GMT | Web Security Series # 16— Exploiting Local File Inclusion (LFI) | Laibakashif | [Read More](https://medium.com/p/a6662721666b) |
 | Tue, 21 Apr 2026 14:41:43 GMT | The Human Firewall: Why Leadership is the Ultimate Cybersecurity Skill in 2026 | Xaltius | [Read More](https://medium.com/p/a866fac6d065) |
-| Tue, 21 Apr 2026 14:31:01 GMT | “AI will replace SOC analysts” this sounds convincing. It’s also incomplete. | Manubhav Sharma | [Read More](https://medium.com/p/054c0cb34a1a) |
-| Tue, 21 Apr 2026 14:24:37 GMT | How Expensive is a Naked AI Agent? The $285M Tragedy & The Inevitability of AIL Architecture | lokii | [Read More](https://medium.com/p/e5232470e613) |
-| Tue, 21 Apr 2026 14:09:34 GMT | Your Medium Security Risks are Actually ‘High’ Risks In Disguise | Tyreek Haynes | [Read More](https://medium.com/p/d49eb18baa03) |
-| Tue, 21 Apr 2026 14:08:41 GMT | Latency vs. Throughput: An Often Overlooked Trade-off in Modern Network Design | Nova_wahyu_ramadhan | [Read More](https://medium.com/p/244a5c73c0fc) |
-| Tue, 21 Apr 2026 13:54:39 GMT | HTB Machine — WingData | Toxkay | [Read More](https://medium.com/p/fb24e5a37900) |
-| Tue, 21 Apr 2026 13:53:45 GMT | Shared Accounts Are Here — Enhance Your Security | Joseph Cecala | [Read More](https://medium.com/p/371590e2d8ea) |
-| Tue, 21 Apr 2026 13:51:01 GMT | The Modern CISO Is an Animal Trainer (Whether You Like It or Not) | Bolaji Ladokun | [Read More](https://medium.com/p/633f23367c79) |
