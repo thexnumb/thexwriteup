@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Apr 2026 18:58:58 GMT | You Opened a “PDF”. It Compromised Your Entire System. | R.D.Tarun | [Read More](https://medium.com/p/a71008fc1744) |
+| Tue, 21 Apr 2026 18:50:40 GMT | The Great AI Reckoning: How April 2026 Changed Everything | Nina | [Read More](https://medium.com/p/1811cdad959a) |
+| Tue, 21 Apr 2026 18:41:01 GMT | The Night I Almost Quit Everything | Daisy | [Read More](https://medium.com/p/99349e8ca7d3) |
+| Tue, 21 Apr 2026 18:36:01 GMT | SCP for Data Exfiltration on Pentests | Mark Puckett | [Read More](https://medium.com/p/a845e79d9034) |
+| Tue, 21 Apr 2026 18:35:55 GMT | Bug Bounty: The $0 to $5,000/month Survival Roadmap Nobody Wrote | EMTIAZ AHMED | [Read More](https://medium.com/p/ce8c6abfd47b) |
+| Tue, 21 Apr 2026 18:35:45 GMT | Your Defender Exclusions SUCK | Vonte Sewell | [Read More](https://medium.com/p/2114a93b3f6d) |
+| Tue, 21 Apr 2026 18:34:28 GMT | From Zero Knowledge to First $1,000: The Honest Bug Bounty Timeline | EMTIAZ AHMED | [Read More](https://medium.com/p/867a05417b83) |
+| Tue, 21 Apr 2026 18:34:22 GMT | Why One Wrong Cloud Permission Can Break Your Entire System | Sharyarrathore | [Read More](https://medium.com/p/693b66c6dba1) |
+| Tue, 21 Apr 2026 18:26:17 GMT | Zero Trust Security in 2026: Why “Never Trust, Always Verify” is the New Standard | Jeebr IT Infra | [Read More](https://medium.com/p/26ca8c3cd31d) |
+| Tue, 21 Apr 2026 18:23:57 GMT | The PaaS Security Checklist: 20 Questions to Ask After the Lovable and Vercel Breaches | Nicholas Thoni | [Read More](https://medium.com/p/16a74e34896c) |
+| Tue, 21 Apr 2026 18:14:43 GMT | Play Stupid Games, Win Stupid Prizes: Cybersecurity Edition | Sethu Raman Omanakuttan | [Read More](https://medium.com/p/dd904c5009d4) |
+| Tue, 21 Apr 2026 18:12:52 GMT | 94% of Login Attempts Are Bots. Most of the Rest Are Using Stolen Passwords. | Daniel Ryan Reiff | [Read More](https://medium.com/p/74afedfcb29a) |
+| Tue, 21 Apr 2026 18:12:22 GMT | CROSS-SITE SCRIPTING (XSS) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/fd3d3ad347ed) |
+| Tue, 21 Apr 2026 18:10:50 GMT | Root Access and Ruined Files: Why XYZconnect Felt Like My First Ransomware Infection | Keith Andrei Tapales | [Read More](https://medium.com/p/222c23d55094) |
+| Tue, 21 Apr 2026 18:10:36 GMT | A Real-World Smishing Incident: Lessons in Detection, Investigation, and Response | Darvensley Esperance | [Read More](https://medium.com/p/afbfcc6661cf) |
 | Tue, 21 Apr 2026 17:49:43 GMT | How Cybercriminals Are Using AI to Attack in 2026 | Sai kiran | [Read More](https://medium.com/p/2b8ed416a7c7) |
 | Tue, 21 Apr 2026 17:49:23 GMT | The 7 Most Common Mistakes in Small Business Security | Emory French | [Read More](https://medium.com/p/5d369aeb7011) |
 | Tue, 21 Apr 2026 17:42:48 GMT | FortiGate vs Palo Alto: A Hands-On Engineer’s Honest Comparison | Reuben Lim | [Read More](https://medium.com/p/3252a6fc5a86) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Apr 2026 13:10:24 GMT | Stop Memorizing USM Anywhere: The Mental Model That Passes the LBSE Exam | Fouad Abdul Khaleq | [Read More](https://medium.com/p/0e80241cc8b6) |
 | Tue, 21 Apr 2026 13:09:27 GMT | Top 10 Affordable Housing App Developers of 2026 | Shivam Sharma | [Read More](https://medium.com/p/b70211b46e44) |
 | Tue, 21 Apr 2026 13:04:56 GMT | I Almost Fell for a Perfect Phishing Scam — So I Built a Local AI Filter | AI Rabbit | [Read More](https://medium.com/p/67bcf419f09f) |
-| Tue, 21 Apr 2026 13:00:21 GMT | The API Grand Prix: The Phantom Amphorae and the Breach of the Eager Loaders | marius-ciclistu | [Read More](https://medium.com/p/8f2c8b643045) |
-| Tue, 21 Apr 2026 12:49:46 GMT | One URL Parameter Gave a Stranger Full Access to My Mom’s Account | Tushar Kanjariya | [Read More](https://medium.com/p/cd5d6d3b4767) |
-| Tue, 21 Apr 2026 12:44:59 GMT | Shift-Left Chain Enforcement: Blocking Vulnerability Chains at Commit Time | Eldor Zufarov | [Read More](https://medium.com/p/dd4aabec03de) |
-| Tue, 21 Apr 2026 12:42:55 GMT | Why AI Systems Can Produce Confidently Wrong Narratives | Aaron Lazor - SecondSideMedia | [Read More](https://medium.com/p/03a06cc490c7) |
-| Tue, 21 Apr 2026 12:38:57 GMT | Why Smart Wallets Are the Future of Everyday Carry (And Why You Should Upgrade Today) | Digital Updates | [Read More](https://medium.com/p/13f0b4177bb5) |
-| Tue, 21 Apr 2026 12:35:11 GMT | Void ScenarioWriteup: HackViser | EfeSipahi | [Read More](https://medium.com/p/b8cd0f023591) |
-| Tue, 21 Apr 2026 12:33:37 GMT | Explain This: The Thymeleaf Bug That Turned Whitespace Into Code Execution | Karla Ortiz-Flores | [Read More](https://medium.com/p/639d525ce1dd) |
-| Tue, 21 Apr 2026 12:21:13 GMT | 95% of PII Redaction Doesn’t Need an LLM. The Other 5% Is Where Your Masker Leaks. | Rene Zander | [Read More](https://medium.com/p/ad4935345a0b) |
-| Tue, 21 Apr 2026 12:17:13 GMT | Blind SQL Injection — Part 3 (Final Chapter) | Aaftab A.K | [Read More](https://medium.com/p/ea56399a4286) |
-| Tue, 21 Apr 2026 12:11:50 GMT | What Can You Do After the IIT-JEE Result? Start A Career in Cybersecurity Today | Crawsec | [Read More](https://medium.com/p/31ce1be7e701) |
-| Tue, 21 Apr 2026 12:01:37 GMT | Are you sure your man is not in the”Rape Academy”? | Izzavera | [Read More](https://medium.com/p/e64e03d18804) |
-| Tue, 21 Apr 2026 12:01:36 GMT | Flip — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/56026ab1369b) |
-| Tue, 21 Apr 2026 11:56:07 GMT | Scaling the Pentesting Team with AI | Watson Chua | [Read More](https://medium.com/p/2de132989049) |
-| Tue, 21 Apr 2026 11:51:01 GMT | Active Scan++: The Burp Suite Extension That Finds What the Default Scanner Misses | Ajay Yadav | [Read More](https://medium.com/p/1ca012b21a86) |
-| Tue, 21 Apr 2026 11:42:55 GMT | Day 03 of 59 — OWASP Top 10 & Vulnerable Labs
-Why Most Beginners Don’t Know What They’re Looking… | Hamim Islam | [Read More](https://medium.com/p/966908eb5166) |
