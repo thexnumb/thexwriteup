@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 20 Apr 2026 23:30:15 GMT | Monitoring ICMPv6 Traffic in Wireshark | Binyamin zahid | [Read More](https://medium.com/p/9e63c109ee26) |
+| Mon, 20 Apr 2026 23:24:07 GMT | Meta Cross-Account 2FA Bypass via Linked Accounts worth $$$ | D4LT0N | [Read More](https://medium.com/p/3de2c36076f5) |
+| Mon, 20 Apr 2026 23:18:58 GMT | What is Networking? — From Traffic Lights to MAC Spoofing | Adil Abbasov | [Read More](https://medium.com/p/d2604094696e) |
 | Mon, 20 Apr 2026 23:01:01 GMT | Automotive’s 2025 Unreal Problem Starts With Versions and Responsibility | James Kuhman | [Read More](https://medium.com/p/8e282f7e451c) |
 | Mon, 20 Apr 2026 22:55:31 GMT | Temporary Destruction | uncle | [Read More](https://medium.com/p/693414f1f910) |
 | Mon, 20 Apr 2026 22:51:12 GMT | How to Choose a Security Company in Houston: The 2026 Guide | AlexBryn | [Read More](https://medium.com/p/e402b903d330) |
@@ -110,6 +113,3 @@ Inside Mustang Panda, China’s Most Persistent Cyber Espionage… | Ezechi Jere
 | Mon, 20 Apr 2026 15:57:52 GMT | How LLMs Actually Avoid Training on User Data | Jennifer Fu | [Read More](https://medium.com/p/802f15a23e9b) |
 | Mon, 20 Apr 2026 15:50:05 GMT | A Rabbit Hole in Recon: When IDOR Turns Out to Be Nothing | Abdelrahman Maged | [Read More](https://medium.com/p/078a4051757a) |
 | Mon, 20 Apr 2026 15:43:59 GMT | Skynet— TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/ede0ba49f363) |
-| Mon, 20 Apr 2026 15:42:26 GMT | Double Kill: Authentication Bypass in SuiteCRM via LDAP and SQL Injection | Guilherme Mury | [Read More](https://medium.com/p/cb62bffa70f6) |
-| Mon, 20 Apr 2026 15:40:51 GMT | When AI Agents Go Rogue: What Happens When You Red Team a Language Model | Souradeep Chandra | [Read More](https://medium.com/p/4fa37c08c872) |
-| Mon, 20 Apr 2026 15:36:44 GMT | I wasn’t premium But I invited a teammate anyway — Authorization Bypass Allowing Non-Premium Users… | O iluminado_x86 | [Read More](https://medium.com/p/425d610434a3) |
