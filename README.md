@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Apr 2026 11:35:25 GMT | Agentic Memory Poisoning: ช่องโหว่ที่ซ่อนอยู่ใน Persistent Memory ของ Agent | Neng Apichet | [Read More](https://medium.com/p/bb9ce38eaf26) |
+| Tue, 21 Apr 2026 11:04:13 GMT | Backlink Monitoring Tools: The Ultimate Guide to Smarter SEO Tracking | Jellyfr | [Read More](https://medium.com/p/4e4d3dd91a08) |
+| Tue, 21 Apr 2026 11:02:15 GMT | Cách tải app 28bet an toàn: hướng dẫn xác thực nguồn gốc chính chủ năm 2026 | 報數十一員 | [Read More](https://medium.com/p/5e6c9682e79d) |
+| Tue, 21 Apr 2026 11:00:34 GMT | Strategic Risks of Undersea Cable Networks and Grey Zone threats in the Indian Ocean | Varsha | [Read More](https://medium.com/p/5ca78a91fdf1) |
+| Tue, 21 Apr 2026 11:00:29 GMT | How to Handle Public Folders During Exchange to Microsoft 365 Migration? | Adom Smith | [Read More](https://medium.com/p/edec1d784a50) |
+| Tue, 21 Apr 2026 10:57:57 GMT | The Silent Threat: How AI Sandbagging Undermines Trust and Security | Alessandro Pignati | [Read More](https://medium.com/p/0a3311c97efd) |
+| Tue, 21 Apr 2026 10:54:31 GMT | The Evolution of Cybersecurity: From Firewalls to AI | Swatibhavsar Atech | [Read More](https://medium.com/p/056b7b5cb18f) |
+| Tue, 21 Apr 2026 10:49:58 GMT | The Illusion of Control in Cybersecurity | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/3b3889524e2c) |
+| Tue, 21 Apr 2026 10:45:13 GMT | AI/ML Security Threats | Cheryl Maise Lobo | [Read More](https://medium.com/p/0ba63629703a) |
+| Tue, 21 Apr 2026 10:39:36 GMT | Building a Lightweight Page Identity & Trust System for Static Websites | Akshat Prasad | [Read More](https://medium.com/p/b2c0fb9b2a90) |
+| Tue, 21 Apr 2026 10:35:28 GMT | ️ What is Information Technology? | Atakan Bitim | [Read More](https://medium.com/p/5c6573fb1826) |
+| Tue, 21 Apr 2026 10:35:23 GMT | ️ Information Technology Nedir? | Atakan Bitim | [Read More](https://medium.com/p/307dfd808407) |
+| Tue, 21 Apr 2026 10:33:22 GMT | Beyond JPEG: Revolutionizing Data Sovereignty with Neural Bitstream Compression and AES-256… | Efe Cengiz | [Read More](https://medium.com/p/96a33bb84bc3) |
+| Tue, 21 Apr 2026 10:32:28 GMT | Cyber Security Consulting Services Chicago, USA - Protect Your Business Today - Cepoch | cepoch | [Read More](https://medium.com/p/00a857c32896) |
+| Tue, 21 Apr 2026 10:28:19 GMT | What Software Architects Get Wrong About Security | Ujjwal Sharma | [Read More](https://medium.com/p/f2c424fcff88) |
+| Tue, 21 Apr 2026 10:26:16 GMT | What is Event Logistics? Seamless Event Planning & Execution in the UK | waeventservices.co.uk/ | [Read More](https://medium.com/p/7953c25384cb) |
+| Tue, 21 Apr 2026 10:25:00 GMT | Cybersecurity in Entertainment Platforms | joe lotus | [Read More](https://medium.com/p/aa31f18be207) |
+| Tue, 21 Apr 2026 10:19:47 GMT | Best Hosting Solutions for Small Businesses | Ann Taylor | [Read More](https://medium.com/p/85ee4d453c78) |
+| Tue, 21 Apr 2026 10:18:37 GMT | They Didn’t Break In, They Logged In: How the Vercel Breach Happened | CSI MJCET | [Read More](https://medium.com/p/73f07df86fd2) |
+| Tue, 21 Apr 2026 10:11:12 GMT | Ethical Hacking Course Opportunities in Hyderabad for Freshers | Dkvilas | [Read More](https://medium.com/p/56c4095b6f2d) |
+| Tue, 21 Apr 2026 09:47:47 GMT | Online Netiquette, by Sivuyile Sesi. | Sivuyile Sviggy Sesi | [Read More](https://medium.com/p/f9abdb05bba9) |
 | Tue, 21 Apr 2026 09:44:59 GMT | AI Agents Are the Next Attack Surface. Nobody is Ready | Lynn Elena Torbay | [Read More](https://medium.com/p/651e3e3419eb) |
 | Tue, 21 Apr 2026 09:42:42 GMT | What This Series Will Be About — From Bug Hunter to Operator | ghostyjoe | [Read More](https://medium.com/p/3fa6e4900f25) |
 | Tue, 21 Apr 2026 09:39:38 GMT | What is an SSL Certificate — and Why Does Your Website Need One? | VCCLHosting | [Read More](https://medium.com/p/21c51d647e42) |
@@ -92,25 +113,3 @@ Why Most Beginners Fail Before They Even Start | Hamim Islam | [Read More](https
 | Tue, 21 Apr 2026 05:54:27 GMT | Breaking Email Trust: How I Bypassed Email Verification in a Real-World Application. | kjulius | [Read More](https://medium.com/p/5c8ef5a51b51) |
 | Tue, 21 Apr 2026 05:53:45 GMT | I Took the CGRC Exam, So You Didn’t Have To | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/3c2c6e175b5d) |
 | Tue, 21 Apr 2026 05:49:27 GMT | Best Security Guard Agency: How to Choose the Right Partner for Complete Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/7f9be42ad185) |
-| Tue, 21 Apr 2026 05:47:38 GMT | Why Modern Security Needs Simplicity, Not Complexity in Penetration Testing | Reema K.R | [Read More](https://medium.com/p/cc223220e2af) |
-| Tue, 21 Apr 2026 05:47:21 GMT | WhatsApp is Failing | Nithin | [Read More](https://medium.com/p/20d515f1ef31) |
-| Tue, 21 Apr 2026 05:42:18 GMT | # Cybersecurity in the Modern World: More Than Firewalls and Passwords | David Chimburuoma Odum | [Read More](https://medium.com/p/46c207a8c628) |
-| Tue, 21 Apr 2026 05:42:04 GMT | IT Technology Staffing That Builds Stronger, Future-Ready Teams | Vbeyond Corporation | [Read More](https://medium.com/p/7fc833bf76d2) |
-| Tue, 21 Apr 2026 05:40:54 GMT | How to Build a Local SOC Lab From Scratch Using Elastic Stack | Motasem Hamdan | [Read More](https://medium.com/p/a2b66f3143a8) |
-| Tue, 21 Apr 2026 05:39:52 GMT | Hacking Vibe-Coded Apps: The Bug Bounty Hunter’s Complete Guide to Finding Security Issues in… | BugHunter’s Journal | [Read More](https://medium.com/p/60953aa5947e) |
-| Tue, 21 Apr 2026 05:38:19 GMT | What I Learned from the Recent Vercel Security Incident | Lavanya Bandla | [Read More](https://medium.com/p/7e46c951c9ef) |
-| Tue, 21 Apr 2026 05:28:09 GMT | Common Installation Mistakes That Leave Homes Vulnerable | Andrew Lemieux | [Read More](https://medium.com/p/034331300224) |
-| Tue, 21 Apr 2026 05:13:17 GMT | Intrusion Detection & Prevention in Cloud: Beyond the Perimeter Mindset | Geeky Vartika | [Read More](https://medium.com/p/ff585e2deeb1) |
-| Tue, 21 Apr 2026 05:09:18 GMT | Most CI/CD pipelines are not secure. Here’s why. | Puja Maheshvari | [Read More](https://medium.com/p/b723e9acf019) |
-| Tue, 21 Apr 2026 05:04:54 GMT | Beyond Encryption: Mengapa Data yang “Hilang” Lebih Aman daripada Data yang Terkunci? | nazilatunnatasya | [Read More](https://medium.com/p/c8cab18df997) |
-| Tue, 21 Apr 2026 05:01:01 GMT | CVE-2026–29780: Path Traversal in Example Script Leads to Arbitrary File Write and Potential RCE | redyank | [Read More](https://medium.com/p/32191b60108c) |
-| Tue, 21 Apr 2026 04:57:03 GMT | The State of Employee Mental Health in the IT Industry in 2026 | Silver Oak Health | [Read More](https://medium.com/p/4ffb1a33584a) |
-| Tue, 21 Apr 2026 04:56:55 GMT | Before You Test Anything, Understand What the System Is Protecting
-A disciplined approach to SaaS… | clipper | [Read More](https://medium.com/p/54445a412b9b) |
-| Tue, 21 Apr 2026 04:47:47 GMT | The Modern Cybersecurity Stack: What Matters in 2026 | ORB, Operations Research Bit | [Read More](https://medium.com/p/8e62d9897db4) |
-| Tue, 21 Apr 2026 04:44:38 GMT | Africa Is Done Waiting to Be Protected — Terra Industries Is Building the Arsenal Itself | Epistemus | [Read More](https://medium.com/p/7db9157a0615) |
-| Tue, 21 Apr 2026 04:37:31 GMT | Secure Healthcare CRM in 2026: Must-Have Features for Patient Data Protection | WatsonGeorge | [Read More](https://medium.com/p/044795d149af) |
-| Tue, 21 Apr 2026 04:33:06 GMT | Cisco Notes — Modules 12:Gateways to other networks. | ExploitHunter | [Read More](https://medium.com/p/312e216fbda2) |
-| Tue, 21 Apr 2026 04:31:13 GMT | Cisco notes Module 11:Dynamic Addressing with DHCP | ExploitHunter | [Read More](https://medium.com/p/072452930407) |
-| Tue, 21 Apr 2026 04:31:03 GMT | CSRF Cross-Site Request Forgery: Victim Ke Browser Se Unki Marzi Ke Bina Actions Karwao! | Hacker MD | [Read More](https://medium.com/p/45f2a6611a34) |
-| Tue, 21 Apr 2026 04:29:56 GMT | Active Directory Lab Setup for Penetration Testing Using PowerShell | Pentester Club | [Read More](https://medium.com/p/2732d0b58c63) |
