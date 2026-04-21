@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Apr 2026 09:44:59 GMT | AI Agents Are the Next Attack Surface. Nobody is Ready | Lynn Elena Torbay | [Read More](https://medium.com/p/651e3e3419eb) |
+| Tue, 21 Apr 2026 09:42:42 GMT | What This Series Will Be About — From Bug Hunter to Operator | ghostyjoe | [Read More](https://medium.com/p/3fa6e4900f25) |
+| Tue, 21 Apr 2026 09:39:38 GMT | What is an SSL Certificate — and Why Does Your Website Need One? | VCCLHosting | [Read More](https://medium.com/p/21c51d647e42) |
+| Tue, 21 Apr 2026 09:38:16 GMT | Two-Step Verification: why you need it and how to set it up | Imesmartplatform | [Read More](https://medium.com/p/0b6b66abf6a4) |
+| Tue, 21 Apr 2026 09:36:13 GMT | Vercel Got Hacked — Everything That Happened (April 2026) | Atul Programmer | [Read More](https://medium.com/p/42c3da7ba563) |
+| Tue, 21 Apr 2026 09:34:05 GMT | Your Inventory Sync Is Accurate. That’s Exactly the Problem. | i95Dev | [Read More](https://medium.com/p/65523e25e367) |
+| Tue, 21 Apr 2026 09:32:51 GMT | Can You Get Banned for Using Trainers in Single-Player Games? (How I Protect My Steam Account) | Napisss | [Read More](https://medium.com/p/968364f58ee1) |
+| Tue, 21 Apr 2026 09:32:11 GMT | Orkvex Analysis: Vercel Cloud Breach Highlights Supply Chain Risks | Orkvex | [Read More](https://medium.com/p/eb6ce8cb9017) |
+| Tue, 21 Apr 2026 09:26:15 GMT | Evil Twin Wi-Fi Attack: How Hackers Steal Your Data in Seconds | InfosecTrain | [Read More](https://medium.com/p/b1d17778d7dd) |
+| Tue, 21 Apr 2026 09:22:02 GMT | AequiSolva Analysis: The eth.limo Domain Hijack and the Necessity of Cryptographic Security | AequiSolva | [Read More](https://medium.com/p/3892b8de39f8) |
+| Tue, 21 Apr 2026 09:21:28 GMT | Why You Should Think Twice Before Using a Hardware Key with KeePassXC — And What to Use Instead | Lalatendu Keshari Swain | [Read More](https://medium.com/p/2d68c81bbe9e) |
+| Tue, 21 Apr 2026 09:18:35 GMT | IT Asset Lifecycle Management for Optimized IT Operations and Sustainable Business Growth | CMS IT Services | [Read More](https://medium.com/p/26fe56bcf3a7) |
+| Tue, 21 Apr 2026 09:13:50 GMT | The Jagged Frontier: What Glasswing Actually Protects | Evangelos Pappas | [Read More](https://medium.com/p/649fcf711ddf) |
+| Tue, 21 Apr 2026 09:10:00 GMT | Instead of Complexity: A Simple Solution to a Transaction Problem in OnTheGo Database | JADEx Developer | [Read More](https://medium.com/p/4139b4438644) |
+| Tue, 21 Apr 2026 09:04:12 GMT | Cloud Landing Zone Accelerators: Secure-by-Design Architectures for AWS, Azure & GCP | Saleem Yousaf | [Read More](https://medium.com/p/27448c66aac4) |
+| Tue, 21 Apr 2026 09:01:04 GMT | Why employees never read policies — and what to change. | Gaurav Shukla | [Read More](https://medium.com/p/8684d3feaa05) |
+| Tue, 21 Apr 2026 08:55:41 GMT | The importance of cyber security in digital age | Hemamalini | [Read More](https://medium.com/p/c09b250a139b) |
+| Tue, 21 Apr 2026 08:51:20 GMT | Vercel and Lovable Got Breached in the Same Week. Your API Keys Might Be in Both. | Dhanush N | [Read More](https://medium.com/p/6b653dbd2a2f) |
+| Tue, 21 Apr 2026 08:47:50 GMT | Vercel Hack Explained: How a Roblox Cheat Brought Down a $9.3 Billion Company | VR | [Read More](https://medium.com/p/a19ba20c7e43) |
+| Tue, 21 Apr 2026 08:44:34 GMT | I Used AI to Cut My Red Team Report Writing Time by 70% — Here’s How | Cyberaiprompts | [Read More](https://medium.com/p/d599bb2ac803) |
+| Tue, 21 Apr 2026 08:43:45 GMT | Blueprint - THM | #UNKNOWN | [Read More](https://medium.com/p/f3821ce850c8) |
+| Tue, 21 Apr 2026 08:41:38 GMT | Emergency Call Out Locksmith — Rapid Response When Every Second Counts | N1locksmithsltd | [Read More](https://medium.com/p/fddd0ad8ac04) |
+| Tue, 21 Apr 2026 08:37:13 GMT | Untitled | Nina | [Read More](https://medium.com/p/08c3df1d675b) |
+| Tue, 21 Apr 2026 08:31:01 GMT | Denmark’s Foreign Policy Revolution: How a Small Nation Is Rewriting the Rules of European Security | Bastian Friborg | [Read More](https://medium.com/p/d5b3ef0437a5) |
 | Tue, 21 Apr 2026 08:10:36 GMT | MCP security has 4 layers. Most teams have 2. | Andrea P. | [Read More](https://medium.com/p/3a40e4f69ab8) |
 | Tue, 21 Apr 2026 08:05:40 GMT | Why “I’ve Got Nothing to Hide” Is the Most Dangerous Lie You Tell Yourself | Viral Parmar | [Read More](https://medium.com/p/5d78b741b63a) |
 | Tue, 21 Apr 2026 08:03:20 GMT | How I Detected a Network Attack Using Snort (Step-by-Step) | Dafa Dwi Putra | [Read More](https://medium.com/p/66f3ba0ca18f) |
@@ -90,27 +114,3 @@ A disciplined approach to SaaS… | clipper | [Read More](https://medium.com/p/5
 | Tue, 21 Apr 2026 04:31:13 GMT | Cisco notes Module 11:Dynamic Addressing with DHCP | ExploitHunter | [Read More](https://medium.com/p/072452930407) |
 | Tue, 21 Apr 2026 04:31:03 GMT | CSRF Cross-Site Request Forgery: Victim Ke Browser Se Unki Marzi Ke Bina Actions Karwao! | Hacker MD | [Read More](https://medium.com/p/45f2a6611a34) |
 | Tue, 21 Apr 2026 04:29:56 GMT | Active Directory Lab Setup for Penetration Testing Using PowerShell | Pentester Club | [Read More](https://medium.com/p/2732d0b58c63) |
-| Tue, 21 Apr 2026 04:25:59 GMT | SOC250 — APT35 HyperScrape Data Exfiltration Tool Detected | Harshprajapati | [Read More](https://medium.com/p/3442b06b7532) |
-| Tue, 21 Apr 2026 04:21:01 GMT | How to Check Your Wordpress with Essential Plugin Backdoor with bash script solution | Andrea Tadioli | [Read More](https://medium.com/p/caa07ac073f5) |
-| Tue, 21 Apr 2026 03:38:27 GMT | I Was Lost in Cybersecurity Until This Strategy Changed Everything (eJPT Journey) | Pawan R | [Read More](https://medium.com/p/49e9a6cf0b99) |
-| Tue, 21 Apr 2026 03:34:24 GMT | Deep Dive into Networking: Packets, Frames, and the TCP Handshake | Jonathan Sanfer | [Read More](https://medium.com/p/379ebebf0b6a) |
-| Tue, 21 Apr 2026 03:33:10 GMT | Cloud Security is Identity-First: Why IAM Defines Your Attack Surface | Anurag Band | [Read More](https://medium.com/p/c48ec251f6d6) |
-| Tue, 21 Apr 2026 03:31:01 GMT | Vercel Hack Explained: How One AI Tool Led to a Full-Scale Breach | Ojas Arora | [Read More](https://medium.com/p/e6036cd4ac88) |
-| Tue, 21 Apr 2026 03:30:47 GMT | BullGuard Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/eb60a7053646) |
-| Tue, 21 Apr 2026 03:30:00 GMT | “No Phishing. No Malware. Just a Phone Call… and the Entire System Was Compromised.” | Psaibtech | [Read More](https://medium.com/p/3a98f8f97222) |
-| Tue, 21 Apr 2026 03:25:33 GMT | AOL support number UK customer service UK | Zuerevalexander | [Read More](https://medium.com/p/956d3384be64) |
-| Tue, 21 Apr 2026 03:19:05 GMT | Malwarebytes Support 03 5323 1755 Australia | Customer Support Information | [Read More](https://medium.com/p/5dbf1fcd28da) |
-| Tue, 21 Apr 2026 03:16:44 GMT | How a Simple POST → GET Change Exposed 26,000+ User Records (Real Bug Bounty Story) | Psaibtech | [Read More](https://medium.com/p/acc31fcc5ba7) |
-| Tue, 21 Apr 2026 03:11:54 GMT | Outlook Support 03 5323 1755 Australia | Customer Support Information | [Read More](https://medium.com/p/be049cc4fc0c) |
-| Tue, 21 Apr 2026 03:11:43 GMT | Grouping At Scale (Part 2) | Varunshn | [Read More](https://medium.com/p/b9ff897bbb13) |
-| Tue, 21 Apr 2026 03:08:25 GMT | Vercel Hacked: How an AI Tool Integration Led to Unauthorized Access | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/febaa684a94e) |
-| Tue, 21 Apr 2026 03:02:20 GMT | Cyber Security: Protecting the Digital World | Hiroshi Gusti | [Read More](https://medium.com/p/67a2cf01dd97) |
-| Tue, 21 Apr 2026 02:37:38 GMT | Stop Guessing CORS: The Only Guide You Need to Master It | Ketul Malwana | [Read More](https://medium.com/p/5c333c50d4a6) |
-| Tue, 21 Apr 2026 02:36:12 GMT | When a Real OTP Meets a Fake One: How a Modern Phishing Attack Works | ProdigyLand | [Read More](https://medium.com/p/7d9edfb6e407) |
-| Tue, 21 Apr 2026 02:29:41 GMT | Vulnerability Analysis Workflow (Hands-on Lab with Nessus) | Couragetikum | [Read More](https://medium.com/p/5172c647a6e8) |
-| Tue, 21 Apr 2026 02:12:27 GMT | Why Your Business Should Consider HBITS Today | Arshadshaik | [Read More](https://medium.com/p/6c372aa81981) |
-| Tue, 21 Apr 2026 02:01:20 GMT | OpenAdmin - HTB Writeup - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/ef91c1d083e7) |
-| Tue, 21 Apr 2026 02:00:10 GMT | Beginner Cybersecurity Project That Taught Me More Than Courses | Adekunle A. J | [Read More](https://medium.com/p/eb7d4f3da468) |
-| Tue, 21 Apr 2026 01:25:21 GMT | XSS Reflected on DVWA | Harits AR | [Read More](https://medium.com/p/83bc51da7466) |
-| Tue, 21 Apr 2026 01:11:01 GMT | Building a Lightweight SIEM for Small Businesses From Zero to a Working Pipeline | Bertrand Gueagaba Guehoada | [Read More](https://medium.com/p/deb179592f74) |
-| Tue, 21 Apr 2026 01:07:18 GMT | AI + Metasploit = Auto & Easy Hacking? | Shahzaib | [Read More](https://medium.com/p/e906c9463de5) |
