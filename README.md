@@ -12,6 +12,39 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Apr 2026 06:03:32 GMT | AI/ML Security Threats | Little_Sun4lower | [Read More](https://medium.com/p/e905fdf8521e) |
+| Tue, 21 Apr 2026 06:03:05 GMT | “The Day I Realized My Frontend Security Was Useless” | Hrithik Gavankar | [Read More](https://medium.com/p/eceec92f3f98) |
+| Tue, 21 Apr 2026 06:02:10 GMT | CVE-2026–33032: exploitation allows full control over Nginx server | Om Maniya | [Read More](https://medium.com/p/838949e8637c) |
+| Tue, 21 Apr 2026 06:01:21 GMT | I Read the Claude Code Source Analysis So You Don’t Have To | Raviteja Nekkalapu | [Read More](https://medium.com/p/0a8af82956f4) |
+| Tue, 21 Apr 2026 06:01:01 GMT | Analysis: Threat Report Review and SOC Recommendations | Anandakrishnan S | [Read More](https://medium.com/p/e25f1665db7e) |
+| Tue, 21 Apr 2026 05:59:37 GMT | WaTF Bank Walkthrough (Part 1): Exploiting Android App Security Flaws | George Petropoulos | [Read More](https://medium.com/p/3accf699f5cd) |
+| Tue, 21 Apr 2026 05:57:42 GMT | Day 02 of 59 — Choosing the Right Target
+Why Most Beginners Fail Before They Even Start | Hamim Islam | [Read More](https://medium.com/p/bfadf67836fb) |
+| Tue, 21 Apr 2026 05:53:45 GMT | I Took the CGRC Exam, So You Didn’t Have To | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/3c2c6e175b5d) |
+| Tue, 21 Apr 2026 05:49:27 GMT | Best Security Guard Agency: How to Choose the Right Partner for Complete Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/7f9be42ad185) |
+| Tue, 21 Apr 2026 05:47:38 GMT | Why Modern Security Needs Simplicity, Not Complexity in Penetration Testing | Reema K.R | [Read More](https://medium.com/p/cc223220e2af) |
+| Tue, 21 Apr 2026 05:47:21 GMT | WhatsApp is Failing | Nithin | [Read More](https://medium.com/p/20d515f1ef31) |
+| Tue, 21 Apr 2026 05:42:18 GMT | # Cybersecurity in the Modern World: More Than Firewalls and Passwords | David Chimburuoma Odum | [Read More](https://medium.com/p/46c207a8c628) |
+| Tue, 21 Apr 2026 05:42:04 GMT | IT Technology Staffing That Builds Stronger, Future-Ready Teams | Vbeyond Corporation | [Read More](https://medium.com/p/7fc833bf76d2) |
+| Tue, 21 Apr 2026 05:40:54 GMT | How to Build a Local SOC Lab From Scratch Using Elastic Stack | Motasem Hamdan | [Read More](https://medium.com/p/a2b66f3143a8) |
+| Tue, 21 Apr 2026 05:39:52 GMT | Hacking Vibe-Coded Apps: The Bug Bounty Hunter’s Complete Guide to Finding Security Issues in… | BugHunter’s Journal | [Read More](https://medium.com/p/60953aa5947e) |
+| Tue, 21 Apr 2026 05:38:19 GMT | What I Learned from the Recent Vercel Security Incident | Lavanya Bandla | [Read More](https://medium.com/p/7e46c951c9ef) |
+| Tue, 21 Apr 2026 05:28:09 GMT | Common Installation Mistakes That Leave Homes Vulnerable | Andrew Lemieux | [Read More](https://medium.com/p/034331300224) |
+| Tue, 21 Apr 2026 05:13:17 GMT | Intrusion Detection & Prevention in Cloud: Beyond the Perimeter Mindset | Geeky Vartika | [Read More](https://medium.com/p/ff585e2deeb1) |
+| Tue, 21 Apr 2026 05:09:18 GMT | Most CI/CD pipelines are not secure. Here’s why. | Puja Maheshvari | [Read More](https://medium.com/p/b723e9acf019) |
+| Tue, 21 Apr 2026 05:04:54 GMT | Beyond Encryption: Mengapa Data yang “Hilang” Lebih Aman daripada Data yang Terkunci? | nazilatunnatasya | [Read More](https://medium.com/p/c8cab18df997) |
+| Tue, 21 Apr 2026 04:57:03 GMT | The State of Employee Mental Health in the IT Industry in 2026 | Silver Oak Health | [Read More](https://medium.com/p/4ffb1a33584a) |
+| Tue, 21 Apr 2026 04:56:55 GMT | Before You Test Anything, Understand What the System Is Protecting
+A disciplined approach to SaaS… | clipper | [Read More](https://medium.com/p/54445a412b9b) |
+| Tue, 21 Apr 2026 04:47:47 GMT | The Modern Cybersecurity Stack: What Matters in 2026 | ORB, Operations Research Bit | [Read More](https://medium.com/p/8e62d9897db4) |
+| Tue, 21 Apr 2026 04:44:38 GMT | Africa Is Done Waiting to Be Protected — Terra Industries Is Building the Arsenal Itself | Epistemus | [Read More](https://medium.com/p/7db9157a0615) |
+| Tue, 21 Apr 2026 04:37:31 GMT | Secure Healthcare CRM in 2026: Must-Have Features for Patient Data Protection | WatsonGeorge | [Read More](https://medium.com/p/044795d149af) |
+| Tue, 21 Apr 2026 04:33:06 GMT | Cisco Notes — Modules 12:Gateways to other networks. | ExploitHunter | [Read More](https://medium.com/p/312e216fbda2) |
+| Tue, 21 Apr 2026 04:31:13 GMT | Cisco notes Module 11:Dynamic Addressing with DHCP | ExploitHunter | [Read More](https://medium.com/p/072452930407) |
+| Tue, 21 Apr 2026 04:31:03 GMT | CSRF Cross-Site Request Forgery: Victim Ke Browser Se Unki Marzi Ke Bina Actions Karwao! | Hacker MD | [Read More](https://medium.com/p/45f2a6611a34) |
+| Tue, 21 Apr 2026 04:29:56 GMT | Active Directory Lab Setup for Penetration Testing Using PowerShell | Pentester Club | [Read More](https://medium.com/p/2732d0b58c63) |
+| Tue, 21 Apr 2026 04:25:59 GMT | SOC250 — APT35 HyperScrape Data Exfiltration Tool Detected | Harshprajapati | [Read More](https://medium.com/p/3442b06b7532) |
+| Tue, 21 Apr 2026 04:21:01 GMT | How to Check Your Wordpress with Essential Plugin Backdoor with bash script solution | Andrea Tadioli | [Read More](https://medium.com/p/caa07ac073f5) |
 | Tue, 21 Apr 2026 03:38:27 GMT | I Was Lost in Cybersecurity Until This Strategy Changed Everything (eJPT Journey) | Pawan R | [Read More](https://medium.com/p/49e9a6cf0b99) |
 | Tue, 21 Apr 2026 03:34:24 GMT | Deep Dive into Networking: Packets, Frames, and the TCP Handshake | Jonathan Sanfer | [Read More](https://medium.com/p/379ebebf0b6a) |
 | Tue, 21 Apr 2026 03:33:10 GMT | Cloud Security is Identity-First: Why IAM Defines Your Attack Surface | Anurag Band | [Read More](https://medium.com/p/c48ec251f6d6) |
@@ -82,34 +115,3 @@ Inside Mustang Panda, China’s Most Persistent Cyber Espionage… | Ezechi Jere
 | Mon, 20 Apr 2026 20:04:54 GMT | Hashing ve Encryption Nedir? Aralarındaki Kritik Farklar | Hakan Cengiz | [Read More](https://medium.com/p/7745b9c8d676) |
 | Mon, 20 Apr 2026 19:58:34 GMT | The Hidden Reality of Cybersecurity in Australia’s Largest Companies (ASX 200 Report 2025) — Part I | SOCFortress | [Read More](https://medium.com/p/072c83057f76) |
 | Mon, 20 Apr 2026 19:55:55 GMT | AI/ML Security Threats TryHackMe Walkthrough | Rormsbee | [Read More](https://medium.com/p/16bd979843c0) |
-| Mon, 20 Apr 2026 19:50:11 GMT | Open-Source AI SOC Analyst That Actually Works — Meet Talon | SOCFortress | [Read More](https://medium.com/p/c38fa082f741) |
-| Mon, 20 Apr 2026 19:49:05 GMT | Title: The Importance of Asset Management and Secure Credential Handling in Modern Cybersecurity | Linda Alcorn | [Read More](https://medium.com/p/c9f86abaf4aa) |
-| Mon, 20 Apr 2026 19:45:19 GMT | The End of the Four-Year Cycle: Preparing for Permanent Volatility | CryptDocker | [Read More](https://medium.com/p/28e276a46642) |
-| Mon, 20 Apr 2026 19:41:44 GMT | Stop Leaking Personal Info to GitHub: I Built a Local, GPU-Powered PII Scanner | Peter Ayad | [Read More](https://medium.com/p/f3aafe65641f) |
-| Mon, 20 Apr 2026 19:37:36 GMT | HackTheBox Certified Defensive Security Analyst (CDSA) Review | 0xh4lpy | [Read More](https://medium.com/p/1f7a9e3a1817) |
-| Mon, 20 Apr 2026 19:27:08 GMT | Why Most Companies Don’t Get Hacked… They Get Logged Into | Sharyarrathore | [Read More](https://medium.com/p/0195d76a97f9) |
-| Mon, 20 Apr 2026 19:18:58 GMT | Searching for Identity Governance Software Recommendations for Access Visibility and Control | Tech Prescient | [Read More](https://medium.com/p/9e96dc441165) |
-| Mon, 20 Apr 2026 19:16:02 GMT | Defensive Security Intro — My First Time Acting as a SOC Analyst | Adil Abbasov | [Read More](https://medium.com/p/35de09d016e8) |
-| Mon, 20 Apr 2026 19:07:32 GMT | 5 Ways AI is Transforming Cybersecurity in 2026 | Saikiran | [Read More](https://medium.com/p/1fa26fb7a8b3) |
-| Mon, 20 Apr 2026 19:05:48 GMT | 5 Things Every Small Business Should Expect From an IT Provider in 2026 | Synogen Solutions | [Read More](https://medium.com/p/1b17621ddaf2) |
-| Mon, 20 Apr 2026 19:00:44 GMT | Your AI Program Isn’t Ready for An Audit | James Word | [Read More](https://medium.com/p/0d8df4081216) |
-| Mon, 20 Apr 2026 18:58:35 GMT | The Problem With “Secure” File Sharing (And What It Actually Means to Fix It) | Ciftci | [Read More](https://medium.com/p/c23b73c8760e) |
-| Mon, 20 Apr 2026 18:58:18 GMT | AI adoption inside organizations isn’t slowing down; it’s accelerating. | Daniel Santiago | [Read More](https://medium.com/p/6f17f7e2d0ec) |
-| Mon, 20 Apr 2026 18:56:54 GMT | How Tech Is Shaping the Future Generation | Robertjenny | [Read More](https://medium.com/p/e232840cb21d) |
-| Mon, 20 Apr 2026 18:54:28 GMT | Kemajuan Artificial Intelligence di Era Modern: Transformasi Besar di Berbagai Sektor | Riska Amelia | [Read More](https://medium.com/p/ef05511078db) |
-| Mon, 20 Apr 2026 18:52:09 GMT | This Is Why Accountability and Vulnerability Feel Dangerous | Chris Mattice | [Read More](https://medium.com/p/8737687581ab) |
-| Mon, 20 Apr 2026 18:46:46 GMT | What Are the Best Cybersecurity Certifications and Why Do They Make a Difference? | Saurav Banerjee | [Read More](https://medium.com/p/70e0e501998b) |
-| Mon, 20 Apr 2026 18:46:11 GMT | Cybersecurity for Beginners in Nigeria: How to Stay Safe Online and Make Money | Rayhanatojonugwamuhammed | [Read More](https://medium.com/p/c92e94e18dfd) |
-| Mon, 20 Apr 2026 18:42:57 GMT | Tracing Requirements. | Mohammed Brückner | [Read More](https://medium.com/p/32ba455e8bdb) |
-| Mon, 20 Apr 2026 18:40:33 GMT | Does AI Have the Potential to Replace Developers? | Vishwa Dilshan | [Read More](https://medium.com/p/52eb8fd7a8c1) |
-| Mon, 20 Apr 2026 18:35:40 GMT | XSS Saldırısı Nedir? | Yavuz | [Read More](https://medium.com/p/fd346e1621ae) |
-| Mon, 20 Apr 2026 18:33:00 GMT | Notifications Before Heartbreak | Divyanshi Maurya | [Read More](https://medium.com/p/107f67880f65) |
-| Mon, 20 Apr 2026 18:30:37 GMT | ContAInment (THM) Tryhackme WriteUp and Answer | Lawvye | [Read More](https://medium.com/p/b3e14bc151f6) |
-| Mon, 20 Apr 2026 18:30:00 GMT | PortSwigger Lab : Stored XSS into HTML context with nothing encoded (PortSwigger Academy) | Ahmed Sedky | [Read More](https://medium.com/p/1cca8e95e24e) |
-| Mon, 20 Apr 2026 18:29:32 GMT | The Hunter-Gatherer Mind in an Information Age | Optimist Nihilist | [Read More](https://medium.com/p/e1fbf26eea96) |
-| Mon, 20 Apr 2026 18:26:33 GMT | The Clue Was in the Logs They Accidentally Published | Iski | [Read More](https://medium.com/p/ddedcde29c98) |
-| Mon, 20 Apr 2026 18:25:24 GMT | Bug Bounty Methodology 2026: A Hunter’s Complete Workflow From Recon to Report | Fino :) | [Read More](https://medium.com/p/7e5c52b17696) |
-| Mon, 20 Apr 2026 18:12:53 GMT | I Passed the CJCA Exam with a Perfect Score — Here is Everything You Need to Know | Laziz Ilyosov | [Read More](https://medium.com/p/538c4514fd45) |
-| Mon, 20 Apr 2026 18:10:35 GMT | Deterministic Chain Analysis: The Missing Layer in a Mythos-Ready Security Program | Eldor Zufarov | [Read More](https://medium.com/p/693f8c7115f6) |
-| Mon, 20 Apr 2026 18:09:55 GMT | Vibe Coding Is Shipping Vulnerabilities at Machine Speed — Your SAST Pipeline Can’t Keep Up | Pavan Paidy | [Read More](https://medium.com/p/2044429b61c3) |
-| Mon, 20 Apr 2026 17:57:41 GMT | Integrating secure ci/cd pipeline to SOC automation lab | The Commoness | [Read More](https://medium.com/p/acdf76634efa) |
