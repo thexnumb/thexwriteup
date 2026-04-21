@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Apr 2026 16:31:57 GMT | Building a DevSecOps Pipeline on AWS EKS — From Code Commit to Production | Abhoy Mondal | [Read More](https://medium.com/p/70804c2e733e) |
+| Tue, 21 Apr 2026 16:31:01 GMT | Fork Bomb in Cybersecurity: The Silent Attack That Can Crash a System in Seconds | Natarajan C K | [Read More](https://medium.com/p/4800436d713c) |
+| Tue, 21 Apr 2026 16:20:26 GMT | The Pillars of Digital Trust: Understanding the CIA Triad and Its Threats | Josephbright | [Read More](https://medium.com/p/5e1ed299dfb1) |
+| Tue, 21 Apr 2026 16:18:52 GMT | LLM-Intruder | Lazy Hacker | [Read More](https://medium.com/p/da8cd888ff8f) |
+| Tue, 21 Apr 2026 16:16:27 GMT | CORS & Same-Origin Policy — The Security Rule Every Developer Gets Wrong | Gorav Singal | [Read More](https://medium.com/p/b00cf0512cfb) |
+| Tue, 21 Apr 2026 16:11:47 GMT | Agentic AI Reasoning-Loop Enforcement - Evaluating Microsoft’s Open-Source Toolkit | Henry Bravo | [Read More](https://medium.com/p/0413e2753c73) |
+| Tue, 21 Apr 2026 16:04:41 GMT | Anthropic Built the AI Industry’s Plumbing. Then Left a Door Open | Rohit Kumar Thakur | [Read More](https://medium.com/p/cb9377f297c0) |
+| Tue, 21 Apr 2026 15:52:14 GMT | Security in 2026: We Didn’t Lose Control of Our Code. We Lost Control of Everything Around It. | The Latency Gambler | [Read More](https://medium.com/p/10802668d259) |
+| Tue, 21 Apr 2026 15:51:48 GMT | The Cyberattack That Should Have Been Stopped Before It Started: WannaCry | Pannag Kumaar | [Read More](https://medium.com/p/defdaebacdf1) |
+| Tue, 21 Apr 2026 15:49:40 GMT | TdataS Stealer: From C2 Discovery to Operator Attribution via Operational Security Failures | Maor Dayan - מאור דיין | [Read More](https://medium.com/p/d11d78cc8e85) |
+| Tue, 21 Apr 2026 15:46:28 GMT | SSTI Vulnerability in Odoo 18.0+e (Enterprise Edition) — Discovery, Exploitation & Mitigation | Musings of Ghojaria | [Read More](https://medium.com/p/707be487f54b) |
+| Tue, 21 Apr 2026 15:43:07 GMT | Scaling to 10 Million Nodes: How We Formally Verified the World’s Largest Federated Learning… | R Williamspbg | [Read More](https://medium.com/p/222cde3e3120) |
+| Tue, 21 Apr 2026 15:37:59 GMT | Don’t Ignore These Commercial Door Lock Problems — They Could Cost You | Or Shahar | [Read More](https://medium.com/p/ac5d6d302a85) |
+| Tue, 21 Apr 2026 15:37:11 GMT | I Asked My AI Agent to Evaluate Its Competitor. It Lied By Omission. | Bedrettin Cakmak | [Read More](https://medium.com/p/c0da13ef7150) |
+| Tue, 21 Apr 2026 15:34:41 GMT | Lua-based FakeGit trojan loader masquerading as an “n8n CyberSecurity Workflows” package | Neetrox | [Read More](https://medium.com/p/cef73d08a1df) |
+| Tue, 21 Apr 2026 15:32:40 GMT | Why GRC Analysts Are Getting Replaced by GRC Engineers in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/9af545fd46f5) |
+| Tue, 21 Apr 2026 15:32:33 GMT | Where UX Meets Cybersecurity | Florain Anthony | [Read More](https://medium.com/p/e88ba3bc508e) |
+| Tue, 21 Apr 2026 15:25:21 GMT | I Lost $3,400 in a SIM Swap Attack — Here’s What I Do Now | Pap Team | [Read More](https://medium.com/p/16e85d79d074) |
+| Tue, 21 Apr 2026 15:23:04 GMT | $293 Million Gone. $200 Million in Bad Debt But no one is taking responsibility | Femi Adegolu | [Read More](https://medium.com/p/af7e35546c7d) |
+| Tue, 21 Apr 2026 15:19:47 GMT | Pompelmi: The Simplest Way to Add Virus Scanning to Your Node.js App | JustSouichi | [Read More](https://medium.com/p/b7342520df73) |
+| Tue, 21 Apr 2026 15:15:38 GMT | Why This Matters Before We Go Any Further — Container Security | devsecops | [Read More](https://medium.com/p/2e6db0e3fb9e) |
+| Tue, 21 Apr 2026 15:11:02 GMT | 404 Bank Writeup (Hack Smarter Labs) | Keith Monroe | [Read More](https://medium.com/p/3e5d98a26774) |
 | Tue, 21 Apr 2026 15:11:01 GMT | Breaking Access Control: How a Low-Privilege User Accessed Workspace Members Data | montaser mohsen | [Read More](https://medium.com/p/af2e72d64bb9) |
 | Tue, 21 Apr 2026 15:06:01 GMT | That One “Download” Endpoint That Shouldn’t Have Been There | Tanvi Chauhan | [Read More](https://medium.com/p/98fa9e0c4a36) |
 | Tue, 21 Apr 2026 15:05:26 GMT | Web Security Series #17 — Exploiting Local File Inclusion (LFI) Using ffuf | Laibakashif | [Read More](https://medium.com/p/8f0b4cedcd27) |
@@ -91,25 +113,3 @@ Why Most Beginners Don’t Know What They’re Looking… | Hamim Islam | [Read 
 | Tue, 21 Apr 2026 10:32:28 GMT | Cyber Security Consulting Services Chicago, USA - Protect Your Business Today - Cepoch | cepoch | [Read More](https://medium.com/p/00a857c32896) |
 | Tue, 21 Apr 2026 10:28:19 GMT | What Software Architects Get Wrong About Security | Ujjwal Sharma | [Read More](https://medium.com/p/f2c424fcff88) |
 | Tue, 21 Apr 2026 10:26:16 GMT | What is Event Logistics? Seamless Event Planning & Execution in the UK | waeventservices.co.uk/ | [Read More](https://medium.com/p/7953c25384cb) |
-| Tue, 21 Apr 2026 10:25:00 GMT | Cybersecurity in Entertainment Platforms | joe lotus | [Read More](https://medium.com/p/aa31f18be207) |
-| Tue, 21 Apr 2026 10:19:47 GMT | Best Hosting Solutions for Small Businesses | Ann Taylor | [Read More](https://medium.com/p/85ee4d453c78) |
-| Tue, 21 Apr 2026 10:18:37 GMT | They Didn’t Break In, They Logged In: How the Vercel Breach Happened | CSI MJCET | [Read More](https://medium.com/p/73f07df86fd2) |
-| Tue, 21 Apr 2026 10:11:12 GMT | Ethical Hacking Course Opportunities in Hyderabad for Freshers | Dkvilas | [Read More](https://medium.com/p/56c4095b6f2d) |
-| Tue, 21 Apr 2026 09:47:47 GMT | Online Netiquette, by Sivuyile Sesi. | Sivuyile Sviggy Sesi | [Read More](https://medium.com/p/f9abdb05bba9) |
-| Tue, 21 Apr 2026 09:44:59 GMT | AI Agents Are the Next Attack Surface. Nobody is Ready | Lynn Elena Torbay | [Read More](https://medium.com/p/651e3e3419eb) |
-| Tue, 21 Apr 2026 09:42:42 GMT | What This Series Will Be About — From Bug Hunter to Operator | ghostyjoe | [Read More](https://medium.com/p/3fa6e4900f25) |
-| Tue, 21 Apr 2026 09:39:38 GMT | What is an SSL Certificate — and Why Does Your Website Need One? | VCCLHosting | [Read More](https://medium.com/p/21c51d647e42) |
-| Tue, 21 Apr 2026 09:38:16 GMT | Two-Step Verification: why you need it and how to set it up | Imesmartplatform | [Read More](https://medium.com/p/0b6b66abf6a4) |
-| Tue, 21 Apr 2026 09:36:13 GMT | Vercel Got Hacked — Everything That Happened (April 2026) | Atul Programmer | [Read More](https://medium.com/p/42c3da7ba563) |
-| Tue, 21 Apr 2026 09:34:05 GMT | Your Inventory Sync Is Accurate. That’s Exactly the Problem. | i95Dev | [Read More](https://medium.com/p/65523e25e367) |
-| Tue, 21 Apr 2026 09:32:51 GMT | Can You Get Banned for Using Trainers in Single-Player Games? (How I Protect My Steam Account) | Napisss | [Read More](https://medium.com/p/968364f58ee1) |
-| Tue, 21 Apr 2026 09:32:11 GMT | Orkvex Analysis: Vercel Cloud Breach Highlights Supply Chain Risks | Orkvex | [Read More](https://medium.com/p/eb6ce8cb9017) |
-| Tue, 21 Apr 2026 09:26:15 GMT | Evil Twin Wi-Fi Attack: How Hackers Steal Your Data in Seconds | InfosecTrain | [Read More](https://medium.com/p/b1d17778d7dd) |
-| Tue, 21 Apr 2026 09:22:02 GMT | AequiSolva Analysis: The eth.limo Domain Hijack and the Necessity of Cryptographic Security | AequiSolva | [Read More](https://medium.com/p/3892b8de39f8) |
-| Tue, 21 Apr 2026 09:21:28 GMT | Why You Should Think Twice Before Using a Hardware Key with KeePassXC — And What to Use Instead | Lalatendu Keshari Swain | [Read More](https://medium.com/p/2d68c81bbe9e) |
-| Tue, 21 Apr 2026 09:18:35 GMT | IT Asset Lifecycle Management for Optimized IT Operations and Sustainable Business Growth | CMS IT Services | [Read More](https://medium.com/p/26fe56bcf3a7) |
-| Tue, 21 Apr 2026 09:13:50 GMT | The Jagged Frontier: What Glasswing Actually Protects | Evangelos Pappas | [Read More](https://medium.com/p/649fcf711ddf) |
-| Tue, 21 Apr 2026 09:10:00 GMT | Instead of Complexity: A Simple Solution to a Transaction Problem in OnTheGo Database | JADEx Developer | [Read More](https://medium.com/p/4139b4438644) |
-| Tue, 21 Apr 2026 09:04:12 GMT | Cloud Landing Zone Accelerators: Secure-by-Design Architectures for AWS, Azure & GCP | Saleem Yousaf | [Read More](https://medium.com/p/27448c66aac4) |
-| Tue, 21 Apr 2026 09:01:04 GMT | Why employees never read policies — and what to change. | Gaurav Shukla | [Read More](https://medium.com/p/8684d3feaa05) |
-| Tue, 21 Apr 2026 08:55:41 GMT | The importance of cyber security in digital age | Hemamalini | [Read More](https://medium.com/p/c09b250a139b) |
