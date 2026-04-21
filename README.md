@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Apr 2026 20:17:05 GMT | Storing OTP Securely in Salesforce Platform Cache — A Production-Grade Architecture Guide | Mani | [Read More](https://medium.com/p/818bbf6a5a6d) |
+| Tue, 21 Apr 2026 20:15:28 GMT | How to Triage a Phishing Alert Faster — Without Rebuilding the Process Every Time | Gaurav Kundu | [Read More](https://medium.com/p/19a67e0908cd) |
+| Tue, 21 Apr 2026 20:06:35 GMT | The Vercel Hack of April 2026: A Wake-Up Call on Third-Party AI Integrations and “Plaintext”… | Syed Talha Ahmed | [Read More](https://medium.com/p/d7843b851b8d) |
+| Tue, 21 Apr 2026 20:01:57 GMT | AI vs AI, how attackers use jailbroken prompts and how defenses are adapting | CybSecurity | [Read More](https://medium.com/p/8b968be5bf4a) |
+| Tue, 21 Apr 2026 20:01:34 GMT | SOC Technical Breakdown: Operationalizing the ASX 200 Findings | SOCFortress | [Read More](https://medium.com/p/6e5e5ed7505c) |
+| Tue, 21 Apr 2026 20:01:17 GMT | Hacked in 22 Seconds: How AI is Arming Cybercriminals in 2026 | Afwan Mulia Pratama | [Read More](https://medium.com/p/bc5a858fb9e3) |
+| Tue, 21 Apr 2026 19:56:18 GMT | The Vercel Breach: A $2M Lesson in the Hidden Risks of “Innocent” Security Decisions | Mohammed Muneef | [Read More](https://medium.com/p/00021e789c78) |
+| Tue, 21 Apr 2026 19:51:01 GMT | [ID] picoCTF - Bitlocker-1 | Javeed | [Read More](https://medium.com/p/7471ae31f943) |
+| Tue, 21 Apr 2026 19:47:25 GMT | Stop Shipping Vulnerabilities in a Box: Ft. Docker Hardened Images | SHUBHENDU SHUBHAM | [Read More](https://medium.com/p/69d53f3c508f) |
+| Tue, 21 Apr 2026 19:47:06 GMT | Bütün Şifrelerinizin Geçersiz Kaldığı Günü Hayal Edin: Q-Day | Nursena Asker | [Read More](https://medium.com/p/8b42d91df43a) |
+| Tue, 21 Apr 2026 19:36:53 GMT | HackViser: Rivalry Scenerio Writeup | EfeSipahi | [Read More](https://medium.com/p/c12d027909a9) |
+| Tue, 21 Apr 2026 19:34:40 GMT | Blind SSRF Leads to Internal Service and IP Discovery with Multiple Security Impacts | Mohamed M Mourad | [Read More](https://medium.com/p/795613317d44) |
+| Tue, 21 Apr 2026 19:23:49 GMT | VPNs: OpenVPN, IPsec, and the TLS Tunnel | Haggai Philip Zagury | [Read More](https://medium.com/p/87b03b567042) |
 | Tue, 21 Apr 2026 18:58:58 GMT | You Opened a “PDF”. It Compromised Your Entire System. | R.D.Tarun | [Read More](https://medium.com/p/a71008fc1744) |
 | Tue, 21 Apr 2026 18:50:40 GMT | The Great AI Reckoning: How April 2026 Changed Everything | Nina | [Read More](https://medium.com/p/1811cdad959a) |
 | Tue, 21 Apr 2026 18:41:01 GMT | The Night I Almost Quit Everything | Daisy | [Read More](https://medium.com/p/99349e8ca7d3) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Apr 2026 13:34:48 GMT | A Closer Look at Dark Web Pharmaceutical Products and Online Risk Trends | Tor BBB | [Read More](https://medium.com/p/7388cbd5d60f) |
 | Tue, 21 Apr 2026 13:34:35 GMT | Chains of Love — Medium Writeup (TryHackMe) | Pavan N | [Read More](https://medium.com/p/fc83060a3652) |
 | Tue, 21 Apr 2026 13:33:52 GMT | Kioptrix: 2014 — VulnHub Walkthrough pChart LFI + PhpTax RCE to Root via FreeBSD Kernel Exploit | Punih3r7 | [Read More](https://medium.com/p/60c4823de5ef) |
-| Tue, 21 Apr 2026 13:31:51 GMT | Securing the Backbone — Issue #24: AI Is In Your Supply Chain. And It’s Already Being Breached. | Eric Gallagher | [Read More](https://medium.com/p/4be70911689a) |
-| Tue, 21 Apr 2026 13:31:27 GMT | The Digital Underworld of Modern Medicine: SIM Farms and Cloud Security | Viral Parmar | [Read More](https://medium.com/p/3e648df31f87) |
-| Tue, 21 Apr 2026 13:31:14 GMT | Securing the Backbone — Issue #23: When AI Hijacks the Hammer: How LLMs Can Plan & Execute… | Eric Gallagher | [Read More](https://medium.com/p/8e582751b5e3) |
-| Tue, 21 Apr 2026 13:31:02 GMT | You Think You Can Spot a Phishing Email? You Probably Can’t. | Cyber Aries | [Read More](https://medium.com/p/f1b0d4f42c6e) |
-| Tue, 21 Apr 2026 13:30:16 GMT | 8 Blue-Collar Workforce HRMS Software in India for Field and Factory Teams 2026 | Aditi Sharma | [Read More](https://medium.com/p/b12bb9fc0719) |
-| Tue, 21 Apr 2026 13:28:26 GMT | Toqen.app Mobile is Now Open Source | Anton Minin Baranovskii | [Read More](https://medium.com/p/785888106dbb) |
-| Tue, 21 Apr 2026 13:26:28 GMT | MCP is the new OpenSSL. Here’s what that means for your agent stack. | Sattyam Jain | [Read More](https://medium.com/p/44a8e3a8f2a8) |
-| Tue, 21 Apr 2026 13:25:19 GMT | Miracase iPhone 17e & 16e Case Review: Full-Body Protection Meets MagSafe Magic | Adhirmirza | [Read More](https://medium.com/p/890ae773de10) |
-| Tue, 21 Apr 2026 13:24:32 GMT | Launch Your Career in Cyber Security Enroll Now! | Harshadotin | [Read More](https://medium.com/p/312ccbe7148f) |
-| Tue, 21 Apr 2026 13:21:29 GMT | Futuristic Cybersecurity Training Poster with Real-World Ethical Hacking Skills | asha | [Read More](https://medium.com/p/8a24d2daef8b) |
-| Tue, 21 Apr 2026 13:10:24 GMT | Stop Memorizing USM Anywhere: The Mental Model That Passes the LBSE Exam | Fouad Abdul Khaleq | [Read More](https://medium.com/p/0e80241cc8b6) |
-| Tue, 21 Apr 2026 13:09:27 GMT | Top 10 Affordable Housing App Developers of 2026 | Shivam Sharma | [Read More](https://medium.com/p/b70211b46e44) |
-| Tue, 21 Apr 2026 13:04:56 GMT | I Almost Fell for a Perfect Phishing Scam — So I Built a Local AI Filter | AI Rabbit | [Read More](https://medium.com/p/67bcf419f09f) |
