@@ -12,11 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 21 Apr 2026 22:54:26 GMT | PIN AI: The Personal AI That Actually Knows You (And Keeps Your Secrets Safe) | hunterkurfi | [Read More](https://medium.com/p/9c2ca05eef12) |
+| Tue, 21 Apr 2026 22:35:36 GMT | Interview: Survivor of a Scam Compound | Internet Exposed | [Read More](https://medium.com/p/a7272c615772) |
+| Tue, 21 Apr 2026 22:34:02 GMT | TryHackMe: Brains (Red Teaming) | Evan Manson | [Read More](https://medium.com/p/f26aa4cf330e) |
+| Tue, 21 Apr 2026 22:33:55 GMT | Not All “AI Security” Is the Same: Application Layer vs AI Cost Firewall | Sergey Lunev | [Read More](https://medium.com/p/5f4c94f173d6) |
+| Tue, 21 Apr 2026 22:23:47 GMT | Investigation: Uncovering an Insider Through Network and File Analysis (BTLO Challenge) | Anandakrishnan S | [Read More](https://medium.com/p/2c47f4f06100) |
+| Tue, 21 Apr 2026 22:14:21 GMT | I Built a SOC Tool From Scratch as a Cybersecurity Student. Here Is What It Does. | Robert Perez | [Read More](https://medium.com/p/e5f31c371500) |
+| Tue, 21 Apr 2026 22:03:34 GMT | How SOC Teams Can Reduce Alert Fatigue and Improve Response Times Without Hiring More Analysts | Xhantimzozoyana | [Read More](https://medium.com/p/a7c11f0b612d) |
 | Tue, 21 Apr 2026 22:01:32 GMT | Code Is Law Until It Isn’t: What Arbitrum’s Intervention Reveals About Crypto Governance | Abraham | [Read More](https://medium.com/p/92b43daef28c) |
+| Tue, 21 Apr 2026 22:01:02 GMT | Shadow AI Tools: El Riesgo Invisible en la Era de la IA | Michel Alan López | [Read More](https://medium.com/p/a9fea9619c29) |
 | Tue, 21 Apr 2026 21:45:04 GMT | mSpy Sideloaded App Detection: What I Found | Michael McFarland | [Read More](https://medium.com/p/5b78daecdeac) |
 | Tue, 21 Apr 2026 21:43:34 GMT | Conway’s Law vs. the Agent | Gil Salu | [Read More](https://medium.com/p/3bb03172fbb1) |
 | Tue, 21 Apr 2026 21:40:35 GMT | Intel and AMD’s Secure Enclaves Just Got Cracked for Under $1000 | David Lee | [Read More](https://medium.com/p/4be9987e1404) |
 | Tue, 21 Apr 2026 21:29:52 GMT | PIN AI AMBASSADOR WITH GUARDIAN ANGEL ROLE | hunterkurfi | [Read More](https://medium.com/p/cb14a87e90c7) |
+| Tue, 21 Apr 2026 21:29:51 GMT | From Nmap to Neural Nets: Pentesting Just Leveled Up | Achessa | [Read More](https://medium.com/p/e2929c7076b3) |
 | Tue, 21 Apr 2026 21:24:36 GMT | Business Logic Vulnerabilities: The Bugs Scanners Can’t Find | Chetan Biranje | [Read More](https://medium.com/p/a60ed9a55792) |
 | Tue, 21 Apr 2026 21:11:49 GMT | The Vercel Breach: Why Infrastructure Ownership Is Not Negotiable | Sage Khan | [Read More](https://medium.com/p/167430cba41d) |
 | Tue, 21 Apr 2026 21:11:42 GMT | How I Found a WAF Bypass Acknowledged by Meesho | Chetan Biranje | [Read More](https://medium.com/p/01bb8e39507f) |
@@ -43,6 +52,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Apr 2026 19:23:49 GMT | VPNs: OpenVPN, IPsec, and the TLS Tunnel | Haggai Philip Zagury | [Read More](https://medium.com/p/87b03b567042) |
 | Tue, 21 Apr 2026 19:08:53 GMT | Ferramenta de auditoria e monitoramento de segurança | Nnfelipe | [Read More](https://medium.com/p/49106030a0e6) |
 | Tue, 21 Apr 2026 18:58:58 GMT | You Opened a “PDF”. It Compromised Your Entire System. | R.D.Tarun | [Read More](https://medium.com/p/a71008fc1744) |
+| Tue, 21 Apr 2026 18:54:03 GMT | The Database That Couldn’t Keep Up: NIST Has Formally Written Off 29,000 CVEs. | Joao Silva | [Read More](https://medium.com/p/6c693fbc2b31) |
 | Tue, 21 Apr 2026 18:50:40 GMT | The Great AI Reckoning: How April 2026 Changed Everything | Nina | [Read More](https://medium.com/p/1811cdad959a) |
 | Tue, 21 Apr 2026 18:41:01 GMT | The Night I Almost Quit Everything | Daisy | [Read More](https://medium.com/p/99349e8ca7d3) |
 | Tue, 21 Apr 2026 18:36:01 GMT | SCP for Data Exfiltration on Pentests | Mark Puckett | [Read More](https://medium.com/p/a845e79d9034) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Apr 2026 15:06:01 GMT | That One “Download” Endpoint That Shouldn’t Have Been There | Tanvi Chauhan | [Read More](https://medium.com/p/98fa9e0c4a36) |
 | Tue, 21 Apr 2026 15:05:26 GMT | Web Security Series #17 — Exploiting Local File Inclusion (LFI) Using ffuf | Laibakashif | [Read More](https://medium.com/p/8f0b4cedcd27) |
 | Tue, 21 Apr 2026 15:05:17 GMT | A Complete Guide to Website Blacklisting Recovery | Shamir Ajmir Khan | [Read More](https://medium.com/p/ea0e7a2254cd) |
-| Tue, 21 Apr 2026 15:01:02 GMT | Investigating the MacOS to Identify the root cause — Mac Hunt — TryHackMe | Misbah Ur Rehman | [Read More](https://medium.com/p/e7b69ac0292b) |
-| Tue, 21 Apr 2026 15:01:01 GMT | Software Supply Chain Security and the Open Source Risk Nobody Budgeted For | J. Neil Moses | [Read More](https://medium.com/p/736edee6d4f3) |
-| Tue, 21 Apr 2026 14:54:15 GMT | Attacker’s Playbook vs Defender’s Toolbox | Priyanka Murali | [Read More](https://medium.com/p/87dc67978549) |
-| Tue, 21 Apr 2026 14:52:05 GMT | Cybersecurity in 2026: When Machines Attack at Machine Speed | Niharika | [Read More](https://medium.com/p/88c3441af4f5) |
-| Tue, 21 Apr 2026 14:50:51 GMT | Effect of Phishing mail on business continuity. | Enyi Jerry | [Read More](https://medium.com/p/e28a822a3330) |
-| Tue, 21 Apr 2026 14:48:19 GMT | What Is a Crypto Hardware Wallet? A Complete Beginner’s Guide | Laurence Beaufoy | [Read More](https://medium.com/p/95bf22f558f1) |
-| Tue, 21 Apr 2026 14:47:18 GMT | How I Made My First $2,000 in Bug Bounty (Without Being a Genius Hacker) | Tanvi Chauhan | [Read More](https://medium.com/p/6c766fbf5396) |
-| Tue, 21 Apr 2026 14:46:01 GMT | [RESEARCH] CPU-Z was the lure. The real story is who buys the foothold. | Wes Young | [Read More](https://medium.com/p/9e309f4156da) |
-| Tue, 21 Apr 2026 14:42:50 GMT | Web Security Series # 16— Exploiting Local File Inclusion (LFI) | Laibakashif | [Read More](https://medium.com/p/a6662721666b) |
-| Tue, 21 Apr 2026 14:41:43 GMT | The Human Firewall: Why Leadership is the Ultimate Cybersecurity Skill in 2026 | Xaltius | [Read More](https://medium.com/p/a866fac6d065) |
