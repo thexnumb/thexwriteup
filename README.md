@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Apr 2026 11:24:04 GMT | The Arms Race Around fake id maker and Modern ID Defenses Today | Kayla Rivers | [Read More](https://medium.com/p/ee71e9d8fa95) |
+| Wed, 22 Apr 2026 11:22:26 GMT | Inside a Fintech Security Simulation: How I Uncovered 3 Overlapping Attacks in One Investigation | Adekunle A. J | [Read More](https://medium.com/p/7a5ea094f400) |
+| Wed, 22 Apr 2026 11:21:42 GMT | What is Penetration Testing? A Complete Guide for Businesses | Tushar Tanwar | [Read More](https://medium.com/p/613db1b71c1b) |
+| Wed, 22 Apr 2026 11:18:30 GMT | Why the Etradefia Automatic Sliding Gate Operator Is the Smart Choice for Modern Properties | Etradefia | [Read More](https://medium.com/p/46a8e10dec46) |
+| Wed, 22 Apr 2026 11:18:21 GMT | Hacker101 - CTF - BugDB v2 | N1ev6 | [Read More](https://medium.com/p/a20eea4a38fd) |
+| Wed, 22 Apr 2026 11:10:30 GMT | new (Function.constructor)() — eval() in a suit | Oleksiy Petrychko | [Read More](https://medium.com/p/77046a16edf7) |
+| Wed, 22 Apr 2026 11:05:35 GMT | Background Verification Services: Building Trust Through Smart Hiring | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/0f464440f51f) |
+| Wed, 22 Apr 2026 11:01:55 GMT | Simulating WannaCry Ransomware Attack in a Controlled Lab (Step‑by‑Step Guide) | Shani Yadav | [Read More](https://medium.com/p/da5f794735f8) |
+| Wed, 22 Apr 2026 11:01:47 GMT | What is DMARC? The #1 Shield Against Email Fraud | threatcop | [Read More](https://medium.com/p/f9e2596fe9f1) |
+| Wed, 22 Apr 2026 11:01:41 GMT | love, love, love | dita. | [Read More](https://medium.com/p/c9bf225e744b) |
+| Wed, 22 Apr 2026 11:00:47 GMT | Cybersecurity Best Practices for Modern Enterprises | AppVin Technologies | [Read More](https://medium.com/p/cd4b11c32fb1) |
+| Wed, 22 Apr 2026 10:59:58 GMT | The Sky Over Jilli: Nigeria’s Counterinsurgency Logic and the Price of Precision | Oge Samuel Okonkwo | [Read More](https://medium.com/p/f280c0341ca8) |
+| Wed, 22 Apr 2026 10:54:03 GMT | Protecting Airspace from Emerging UAV Threats | DSP Consultants Services | [Read More](https://medium.com/p/c612fcab542a) |
+| Wed, 22 Apr 2026 10:47:37 GMT | Best Cybersecurity Courses in 2026: Complete Guide to Online Training | Nishant | [Read More](https://medium.com/p/834237004c55) |
+| Wed, 22 Apr 2026 10:36:24 GMT | Digital Ghosts: What Happens to Our Online Selves After We Die? | Joyce Onyemara | [Read More](https://medium.com/p/143ea05ac741) |
+| Wed, 22 Apr 2026 10:32:40 GMT | Uncovering the Hidden Attack Surface of Salesforce instances | Mustafa Mohamed (d3sca) | [Read More](https://medium.com/p/4a0f7d47eb70) |
+| Wed, 22 Apr 2026 10:28:26 GMT | How To Simulate a Hug | Frances Quinn | [Read More](https://medium.com/p/d4ea440a5980) |
+| Wed, 22 Apr 2026 10:27:11 GMT | 8 Best Cybersecurity Solutions Service Providers for Healthcare in Riverside | Managed IT Services | [Read More](https://medium.com/p/392fd495ed89) |
+| Wed, 22 Apr 2026 10:21:06 GMT | Benchmarking AI Pentesters, Part 1: Shannon | Siwar | [Read More](https://medium.com/p/38a72dafaa42) |
+| Wed, 22 Apr 2026 10:19:08 GMT | [Walk-Through/Hints] Flute HackMyVm | Hugh brown | [Read More](https://medium.com/p/1765baa7a755) |
+| Wed, 22 Apr 2026 10:12:48 GMT | How to Create an AWS Free Tier Account Without a Credit/Debit Card (2026 Guide) | Mr Horbio | [Read More](https://medium.com/p/f03431d862e7) |
+| Wed, 22 Apr 2026 10:08:13 GMT | How Much of Today’s Software Is Written by AI? | Elton Chan | [Read More](https://medium.com/p/88979def824d) |
+| Wed, 22 Apr 2026 10:06:50 GMT | Cyber Security Professional Services Chicago — What to Expect - Cepoch | cepoch | [Read More](https://medium.com/p/c29c36e05a71) |
+| Wed, 22 Apr 2026 10:03:19 GMT | The “Digital Ghost” Protocol: Why 2026 is the Year We Stop Being Searchable | Mohit | [Read More](https://medium.com/p/830b41573251) |
 | Wed, 22 Apr 2026 09:52:39 GMT | Bug Chaining — The Skill That Turns Low Bugs Into Critical | ghostyjoe | [Read More](https://medium.com/p/faef19851252) |
 | Wed, 22 Apr 2026 09:52:14 GMT | My First Sigma Detection Rule: LSASS Access | Manish Rawat | [Read More](https://medium.com/p/c5356ee0eb64) |
 | Wed, 22 Apr 2026 09:50:04 GMT | Authentication Evolution & Bypass: Real Examples (Web, API, Mobile, Cloud) | Aman Gupta | [Read More](https://medium.com/p/de9ba91aa19f) |
@@ -88,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Apr 2026 03:49:48 GMT | Half of Tech Layoffs Are Being Blamed on AI. Here Is What Is Actually Happening | Mike McNelis | [Read More](https://medium.com/p/01ffae314533) |
 | Wed, 22 Apr 2026 03:40:12 GMT | Quickbooks Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/2ff7422398bf) |
 | Wed, 22 Apr 2026 03:39:57 GMT | How I Rebuilt ncat in 300 Lines of C Using Ghidra | Ali Zafar | [Read More](https://medium.com/p/9667148a1e9d) |
-| Wed, 22 Apr 2026 03:25:51 GMT | Trend micro customer service Australia contact number | Customer Support Information | [Read More](https://medium.com/p/344af449d444) |
-| Wed, 22 Apr 2026 03:20:00 GMT | I Built a SQL Injection Demo App Here’s What I Learned | BABATUNDE FAWOLE | [Read More](https://medium.com/p/f6e10324a4e9) |
-| Wed, 22 Apr 2026 03:14:42 GMT | Bigpond Customer Support Number | Customer Support Information | [Read More](https://medium.com/p/ced9fa549bf0) |
-| Wed, 22 Apr 2026 03:01:05 GMT | From Network Scanning to Vulnerability Discovery using Nmap (Hands-on Lab) | Hamza Raza | [Read More](https://medium.com/p/9013d0c2cf33) |
-| Wed, 22 Apr 2026 02:58:42 GMT | The Sovereign Logic Manifesto | Frank Bruno | [Read More](https://medium.com/p/a0b86a65e9b2) |
-| Wed, 22 Apr 2026 02:40:44 GMT | Autopsia de una Doble Extorsión | IgnoranzaSolare | [Read More](https://medium.com/p/b41f25b9edb9) |
-| Wed, 22 Apr 2026 02:33:01 GMT | Mozilla corrige 271 bugs Firefox grâce à l’IA Mythos | L'ABESTIT | [Read More](https://medium.com/p/6074322078ee) |
-| Wed, 22 Apr 2026 02:30:49 GMT | CARTP ATTACK LABS | Joshua Goossen | [Read More](https://medium.com/p/fbaa8bb25883) |
-| Wed, 22 Apr 2026 02:29:48 GMT | Computation Is Untrusted: Why Results Must Be Proven Before Acceptance | sengom | [Read More](https://medium.com/p/74ca8a8da96a) |
-| Wed, 22 Apr 2026 02:29:46 GMT | Execution Without Exposure: Why Systems Should Reveal Less Than They Compute | sengom | [Read More](https://medium.com/p/29a8a95d9f53) |
-| Wed, 22 Apr 2026 02:26:36 GMT | Nibbles - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/cd711b8f8d90) |
-| Wed, 22 Apr 2026 02:24:15 GMT | Automating SOC Excel Use-Case Runbook with VBA | Ronik Bhattacharjee | [Read More](https://medium.com/p/124fbd1152fc) |
-| Wed, 22 Apr 2026 02:20:02 GMT | Five AI Conversations Security Leaders Are Avoiding | Edie | [Read More](https://medium.com/p/0d68e912f9bf) |
-| Wed, 22 Apr 2026 02:11:38 GMT | How Being Broke Can Enhance Your Digital Security | Katie McMillan | [Read More](https://medium.com/p/4739000f0001) |
-| Wed, 22 Apr 2026 02:09:49 GMT | Operación Openfire: Análisis Forense de una Intrusión en Red | IgnoranzaSolare | [Read More](https://medium.com/p/0e13717cf119) |
-| Wed, 22 Apr 2026 02:02:51 GMT | PONSEL CERDAS RISIKO NYATA: MEMBANGUN KEAMANAN MOBILE DEVICE DALAM CYBER SECURITY STRATEGY | Nisbi Indonesia | [Read More](https://medium.com/p/cbbdaa07a95e) |
-| Wed, 22 Apr 2026 01:59:10 GMT | THM: Neighbour Write-up | Natchapon Srh | [Read More](https://medium.com/p/0425f07e32e4) |
-| Wed, 22 Apr 2026 01:35:25 GMT | Stored XSS on DVWA | Harits AR | [Read More](https://medium.com/p/142ae448f3f1) |
-| Wed, 22 Apr 2026 01:30:09 GMT | Mango — HTB Writeup | William Shively | [Read More](https://medium.com/p/e62f4a349e5d) |
-| Wed, 22 Apr 2026 01:22:05 GMT | Day 7 & 8: What Took 2 Days.. | zero_day | [Read More](https://medium.com/p/c404fe7fe8bf) |
-| Wed, 22 Apr 2026 01:22:04 GMT | HTTP Request/Response Lifecycle | Reda Mohamed | [Read More](https://medium.com/p/2203fd99e8e3) |
-| Wed, 22 Apr 2026 01:01:16 GMT | My Mac Kept Losing Internet — The Real Culprit Was Hiding in My Own Network | Felipe Espinoza V. | [Read More](https://medium.com/p/7dbf58b8b1b4) |
-| Wed, 22 Apr 2026 01:01:02 GMT | The MFA Paradox: Designing Account Recovery When Users Lock Themselves Out | Hafiq Iqmal | [Read More](https://medium.com/p/4657643393a6) |
-| Wed, 22 Apr 2026 00:49:57 GMT | Rego is Good.
-But It Comes at a Cost. | Anees Mehdi | [Read More](https://medium.com/p/09a17e1b1f91) |
