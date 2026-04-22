@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Apr 2026 00:01:02 GMT | Guide to SSTI (Server-Side Template Injection): Detection, Exploitation, and WAF Evasion | JPablo13 | [Read More](https://medium.com/p/7b3d92019985) |
+| Tue, 21 Apr 2026 23:51:12 GMT | Iran’s Claim: Did US Backdoors Disable Networking Equipment in Wartime? | James Marinero, MSc, MBA | [Read More](https://medium.com/p/c593a131340d) |
+| Tue, 21 Apr 2026 23:44:18 GMT | CVE-2026–29780: Path Traversal in Example Script Leads to Arbitrary File Write and Potential RCE | Redpoc Team | [Read More](https://medium.com/p/d4cadb1f0fdd) |
+| Tue, 21 Apr 2026 23:40:41 GMT | Davis Security Guard Services: Your Complete Guide to Professional Protection in Davis, CA | Uniworth security Editorial | [Read More](https://medium.com/p/1cc6a82dd68c) |
+| Tue, 21 Apr 2026 23:39:21 GMT | When the Wiretap Becomes the Backdoor: Salt Typhoon and the Security Paradox at America’s Telecom… | Kush Patel | [Read More](https://medium.com/p/6fd6541bd2e1) |
+| Tue, 21 Apr 2026 23:37:08 GMT | LLM Security (THM) Tryhackme Walkthrough and Answer | Lawvye | [Read More](https://medium.com/p/c18034f335db) |
+| Tue, 21 Apr 2026 23:15:30 GMT | Ethical Hacking Skills That Matter: What Modern Security Certifications Really Test | IPSpecialist | [Read More](https://medium.com/p/2b160b1e4a7d) |
+| Tue, 21 Apr 2026 23:14:33 GMT | HTTP Security Headers | Khaled Anter | [Read More](https://medium.com/p/00df46bd16af) |
+| Tue, 21 Apr 2026 23:05:55 GMT | The 60-Minute Breach: How Attackers Went From “Hello” to Your Domain Controller This Week | S6 Tech | [Read More](https://medium.com/p/d42a7796baa3) |
 | Tue, 21 Apr 2026 22:54:26 GMT | PIN AI: The Personal AI That Actually Knows You (And Keeps Your Secrets Safe) | hunterkurfi | [Read More](https://medium.com/p/9c2ca05eef12) |
 | Tue, 21 Apr 2026 22:35:36 GMT | Interview: Survivor of a Scam Compound | Internet Exposed | [Read More](https://medium.com/p/a7272c615772) |
 | Tue, 21 Apr 2026 22:34:02 GMT | TryHackMe: Brains (Red Teaming) | Evan Manson | [Read More](https://medium.com/p/f26aa4cf330e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 21 Apr 2026 15:34:41 GMT | Lua-based FakeGit trojan loader masquerading as an “n8n CyberSecurity Workflows” package | Neetrox | [Read More](https://medium.com/p/cef73d08a1df) |
 | Tue, 21 Apr 2026 15:32:40 GMT | Why GRC Analysts Are Getting Replaced by GRC Engineers in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/9af545fd46f5) |
 | Tue, 21 Apr 2026 15:32:33 GMT | Where UX Meets Cybersecurity | Florain Anthony | [Read More](https://medium.com/p/e88ba3bc508e) |
-| Tue, 21 Apr 2026 15:25:21 GMT | I Lost $3,400 in a SIM Swap Attack — Here’s What I Do Now | Pap Team | [Read More](https://medium.com/p/16e85d79d074) |
-| Tue, 21 Apr 2026 15:23:04 GMT | $293 Million Gone. $200 Million in Bad Debt But no one is taking responsibility | Femi Adegolu | [Read More](https://medium.com/p/af7e35546c7d) |
-| Tue, 21 Apr 2026 15:19:47 GMT | Pompelmi: The Simplest Way to Add Virus Scanning to Your Node.js App | JustSouichi | [Read More](https://medium.com/p/b7342520df73) |
-| Tue, 21 Apr 2026 15:15:38 GMT | Why This Matters Before We Go Any Further — Container Security | devsecops | [Read More](https://medium.com/p/2e6db0e3fb9e) |
-| Tue, 21 Apr 2026 15:11:02 GMT | 404 Bank Writeup (Hack Smarter Labs) | Keith Monroe | [Read More](https://medium.com/p/3e5d98a26774) |
-| Tue, 21 Apr 2026 15:11:01 GMT | Breaking Access Control: How a Low-Privilege User Accessed Workspace Members Data | montaser mohsen | [Read More](https://medium.com/p/af2e72d64bb9) |
-| Tue, 21 Apr 2026 15:06:01 GMT | That One “Download” Endpoint That Shouldn’t Have Been There | Tanvi Chauhan | [Read More](https://medium.com/p/98fa9e0c4a36) |
-| Tue, 21 Apr 2026 15:05:26 GMT | Web Security Series #17 — Exploiting Local File Inclusion (LFI) Using ffuf | Laibakashif | [Read More](https://medium.com/p/8f0b4cedcd27) |
-| Tue, 21 Apr 2026 15:05:17 GMT | A Complete Guide to Website Blacklisting Recovery | Shamir Ajmir Khan | [Read More](https://medium.com/p/ea0e7a2254cd) |
