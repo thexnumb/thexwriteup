@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Apr 2026 22:36:29 GMT | Race Condition & Atomic Violation: Race-Free Denomination app | Alborz Nazari | [Read More](https://medium.com/p/240e43dfb4c8) |
+| Wed, 22 Apr 2026 22:34:39 GMT | The Problem With Permanent Chats (And What I Built Instead) | Sonu Samrat | [Read More](https://medium.com/p/e595a8ed03d2) |
+| Wed, 22 Apr 2026 22:27:49 GMT | TryHackMe — Capture! | Kira @ hKiSec | [Read More](https://medium.com/p/ee3d119d5f7f) |
+| Wed, 22 Apr 2026 21:57:39 GMT | How Much Do Security Services Cost? | Community Private Security | [Read More](https://medium.com/p/8caa8a536630) |
+| Wed, 22 Apr 2026 21:55:53 GMT | The Indicator of AI Risk and the Actual Risk | Francie Van Wirkus LLC | [Read More](https://medium.com/p/5e2a22a1c254) |
+| Wed, 22 Apr 2026 21:48:48 GMT | CyberDefender — Psexec Hunt Walkthrough | Serhan Kırca | [Read More](https://medium.com/p/a1b86547ff1e) |
 | Wed, 22 Apr 2026 21:37:45 GMT | من هو على حاتم؟ رؤية تقنية في عالم الأمن الرقمي وصناعة المحتوى | على حاتم (Ali Allam) | [Read More](https://medium.com/p/2bbc8a8d4c15) |
 | Wed, 22 Apr 2026 21:36:20 GMT | TryHackMe CTF ContAInment walkthrough | Konstantin Sakhchinskiy | [Read More](https://medium.com/p/245967c79ea3) |
 | Wed, 22 Apr 2026 21:32:30 GMT | The Ghost in the Outbox: Why Criminals Communicate Without Ever Clicking ‘Send’ | Saloni Tilekar | [Read More](https://medium.com/p/6ed4be4124c0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Apr 2026 15:49:46 GMT | Web Security Series #18 — Exploiting Server-Side Template Injection (SSTI) | Laibakashif | [Read More](https://medium.com/p/e5b1eecad846) |
 | Wed, 22 Apr 2026 15:46:01 GMT | Rethinking Security In Nigeria | Oluwakorede Olorunfemi | [Read More](https://medium.com/p/2ddea6ec4da1) |
 | Wed, 22 Apr 2026 15:45:34 GMT | How I Found and Reported My First XSS Vulnerability | Narmadha | [Read More](https://medium.com/p/85fc182ec260) |
-| Wed, 22 Apr 2026 15:35:18 GMT | But Most of All, Samy is my Hero. | Abdul Samad Orakzai | [Read More](https://medium.com/p/a98c07703f47) |
-| Wed, 22 Apr 2026 15:35:05 GMT | Revealing the Underlying Menace of SSRF | xploitnation | [Read More](https://medium.com/p/8aa4b08e231c) |
-| Wed, 22 Apr 2026 15:27:24 GMT | How to Detect Phishing URLs using AI in PHP | Cloudmersive | [Read More](https://medium.com/p/7bf87f2e5b00) |
-| Wed, 22 Apr 2026 15:23:18 GMT | Role of Blockchain in Data Protection and Cyber Security | Sejalkhandare | [Read More](https://medium.com/p/719e381499a6) |
-| Wed, 22 Apr 2026 15:21:14 GMT | Critical Auth Bypass: How Forgot Password Feature Allowed Unverified Users to Access the Entire App… | Muhammad Rizqi Ramadhan | [Read More](https://medium.com/p/ad4ae8b832d4) |
-| Wed, 22 Apr 2026 15:19:45 GMT | How the Right IT Partner Changes the Way Your Entire Team Works | Synogen Solutions | [Read More](https://medium.com/p/1423eaefb616) |
