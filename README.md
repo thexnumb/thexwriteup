@@ -12,7 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Apr 2026 16:29:29 GMT | Chaining Origin IP Leak to Blind SSRF | Tyreek Haynes | [Read More](https://medium.com/p/1c26c329de87) |
+| Wed, 22 Apr 2026 16:26:33 GMT | Don’t Ask an LLM “Is This Safe?” — The Case for Deterministic Layer 1 | Yaku | [Read More](https://medium.com/p/5c0ec907d544) |
+| Wed, 22 Apr 2026 16:26:19 GMT | Breaking Into Cybersecurity in 2026 — A Series (Part I: Start Here) | Irene A. Gil | [Read More](https://medium.com/p/6c2da3232a7e) |
+| Wed, 22 Apr 2026 16:23:14 GMT | Emergency Patch Alert: Why Microsoft’s .NET 10.0.7 Update Should Be Your Top Priority | Sharanraju | [Read More](https://medium.com/p/cd86f4af437e) |
+| Wed, 22 Apr 2026 16:20:17 GMT | The First 24 Hours After a Cyberattack: What Separates Survival from Shutdown | IT_Engineer | [Read More](https://medium.com/p/755fe030c3bd) |
+| Wed, 22 Apr 2026 16:18:52 GMT | Web Security Series #19 — Exploiting Hidden Server-Side Template Injection (SSTI) | Laibakashif | [Read More](https://medium.com/p/468de871c394) |
+| Wed, 22 Apr 2026 16:14:35 GMT | He creado un SaaS con Claude IA | FN8 | [Read More](https://medium.com/p/f6990a49d563) |
+| Wed, 22 Apr 2026 16:11:59 GMT | Cat Pictures 2 — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/c70203c1c749) |
+| Wed, 22 Apr 2026 16:05:55 GMT | From Curiosity to Code, A young mind`s journey into Programming | Charlesonyeukwu | [Read More](https://medium.com/p/6ce1914b9d42) |
+| Wed, 22 Apr 2026 16:04:03 GMT | Security Best Practices in Kubernetes (Part 16) | Ravi Pandit | [Read More](https://medium.com/p/bdfe202ce983) |
+| Wed, 22 Apr 2026 15:59:06 GMT | Chapter 2 — Risk Register in Practice | DarkLightSec | [Read More](https://medium.com/p/79533cbcb67c) |
+| Wed, 22 Apr 2026 15:53:05 GMT | Most Crypto Never Leaves Your Wallet. We Built MPP to Change That. | Megprimepay | [Read More](https://medium.com/p/098ad98238c2) |
+| Wed, 22 Apr 2026 15:49:46 GMT | Web Security Series #18 — Exploiting Server-Side Template Injection (SSTI) | Laibakashif | [Read More](https://medium.com/p/e5b1eecad846) |
+| Wed, 22 Apr 2026 15:46:01 GMT | Rethinking Security In Nigeria | Oluwakorede Olorunfemi | [Read More](https://medium.com/p/2ddea6ec4da1) |
+| Wed, 22 Apr 2026 15:45:34 GMT | How I Found and Reported My First XSS Vulnerability | Narmadha | [Read More](https://medium.com/p/85fc182ec260) |
+| Wed, 22 Apr 2026 15:35:18 GMT | But Most of All, Samy is my Hero. | Abdul Samad Orakzai | [Read More](https://medium.com/p/a98c07703f47) |
+| Wed, 22 Apr 2026 15:35:05 GMT | Revealing the Underlying Menace of SSRF | xploitnation | [Read More](https://medium.com/p/8aa4b08e231c) |
+| Wed, 22 Apr 2026 15:27:24 GMT | How to Detect Phishing URLs using AI in PHP | Cloudmersive | [Read More](https://medium.com/p/7bf87f2e5b00) |
+| Wed, 22 Apr 2026 15:23:18 GMT | Role of Blockchain in Data Protection and Cyber Security | Sejalkhandare | [Read More](https://medium.com/p/719e381499a6) |
+| Wed, 22 Apr 2026 15:21:14 GMT | Critical Auth Bypass: How Forgot Password Feature Allowed Unverified Users to Access the Entire App… | Muhammad Rizqi Ramadhan | [Read More](https://medium.com/p/ad4ae8b832d4) |
+| Wed, 22 Apr 2026 15:19:45 GMT | How the Right IT Partner Changes the Way Your Entire Team Works | Synogen Solutions | [Read More](https://medium.com/p/1423eaefb616) |
 | Wed, 22 Apr 2026 15:09:53 GMT | Naoris Protocol | Dolapo Peter | [Read More](https://medium.com/p/0a2e6101e03f) |
+| Wed, 22 Apr 2026 15:09:21 GMT | The Database Your Security Team Relies On Just Changed the Rules | Vijay Anand | [Read More](https://medium.com/p/ea3e59968095) |
 | Wed, 22 Apr 2026 15:05:25 GMT | Fake Interview Repository With an Obfuscated Node.js Malware Loader | Emma Paułowicz | [Read More](https://medium.com/p/48626493968b) |
 | Wed, 22 Apr 2026 15:02:48 GMT | Why Your Dual-Boot (Windows + Linux) PC Keeps Messing Up With The OS Time — And How to Fix It | David Garcia | [Read More](https://medium.com/p/6bbc121c185d) |
 | Wed, 22 Apr 2026 15:01:08 GMT | Prompt Injection Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/973526e59889) |
@@ -91,25 +113,3 @@ After Being Asked to Hold Up Three Fingers. | Senaaravichandran A | [Read More](
 | Wed, 22 Apr 2026 10:06:50 GMT | Cyber Security Professional Services Chicago — What to Expect - Cepoch | cepoch | [Read More](https://medium.com/p/c29c36e05a71) |
 | Wed, 22 Apr 2026 10:03:19 GMT | The “Digital Ghost” Protocol: Why 2026 is the Year We Stop Being Searchable | Mohit | [Read More](https://medium.com/p/830b41573251) |
 | Wed, 22 Apr 2026 09:52:39 GMT | Bug Chaining — The Skill That Turns Low Bugs Into Critical | ghostyjoe | [Read More](https://medium.com/p/faef19851252) |
-| Wed, 22 Apr 2026 09:52:14 GMT | My First Sigma Detection Rule: LSASS Access | Manish Rawat | [Read More](https://medium.com/p/c5356ee0eb64) |
-| Wed, 22 Apr 2026 09:50:04 GMT | Authentication Evolution & Bypass: Real Examples (Web, API, Mobile, Cloud) | Aman Gupta | [Read More](https://medium.com/p/de9ba91aa19f) |
-| Wed, 22 Apr 2026 09:49:00 GMT | What are the best cybersecurity courses? | Nishant | [Read More](https://medium.com/p/9017645e740b) |
-| Wed, 22 Apr 2026 09:47:50 GMT | 미소스 vs 오픈미소스 — 창과 방패의 비대칭, 그리고 시스템이라는 진짜 해자 | 이현종 | [Read More](https://medium.com/p/6260d7834935) |
-| Wed, 22 Apr 2026 09:46:32 GMT | The Silent Data Leak: Why Your Favorite Online Tools are a Security Nightmare | Avryxoofficial | [Read More](https://medium.com/p/7d843ac5a4a8) |
-| Wed, 22 Apr 2026 09:44:36 GMT | How to Set Up a VPN on iPhone (Step‑by‑Step Guide) | EVA VPN | [Read More](https://medium.com/p/f44b128b77e6) |
-| Wed, 22 Apr 2026 09:42:25 GMT | How Attackers Use Scheduled Tasks for Persistence (Windows) | Paritosh | [Read More](https://medium.com/p/388e72163ef4) |
-| Wed, 22 Apr 2026 09:39:22 GMT | AI-powered ransomware in the Modern Cyber Landscape | eInfochips ( An Arrow Company) | [Read More](https://medium.com/p/3f3567c5927c) |
-| Wed, 22 Apr 2026 09:38:36 GMT | OSCP Certification Training in Bangalore - Securium Academy | Securium Academy | [Read More](https://medium.com/p/ae664aaa6530) |
-| Wed, 22 Apr 2026 09:31:23 GMT | 7 Things No One Tells You About PABX Telephone Systems | IT Solution Dubai | [Read More](https://medium.com/p/d4d1c55d41f0) |
-| Wed, 22 Apr 2026 09:30:43 GMT | JWT Authentication Done Right: Common Mistakes and Best Practices | Kasun Nadeera | [Read More](https://medium.com/p/9d1e01a6485a) |
-| Wed, 22 Apr 2026 09:27:01 GMT | Scam Alerts - Step-by-Step Check to Avoid Online Frauds | James Smith | [Read More](https://medium.com/p/f0ddf76557eb) |
-| Wed, 22 Apr 2026 09:21:05 GMT | OSWE (OffSec Web Expert) ยังน่าสอบอยู่ไหมในยุค AI Security เต็มเมือง! | Kahabordee Pinjai | [Read More](https://medium.com/p/1bd5aa0ba2ad) |
-| Wed, 22 Apr 2026 09:13:56 GMT | Spent the last few hours tearing apart a vulnerable banking app vulnbank.org Here’s what I found: | anshh.bohara | [Read More](https://medium.com/p/48c3ee1b40b8) |
-| Wed, 22 Apr 2026 09:10:43 GMT | AI Learned Fast But Humans Didn’t Adapt Fast Enough | Mughira Ahmed | [Read More](https://medium.com/p/197dac2f40d6) |
-| Wed, 22 Apr 2026 09:05:57 GMT | Security Compliance in the Age of AI: Why Traditional Frameworks Are Failing in 2026 | Oliver Smith | [Read More](https://medium.com/p/131dc297bed3) |
-| Wed, 22 Apr 2026 09:04:37 GMT | The Real SaaS Bottleneck Starts After Closed-Won | Krishna Vardhan Reddy Seshampally | [Read More](https://medium.com/p/b643a97ab8ef) |
-| Wed, 22 Apr 2026 09:01:03 GMT | The Windows Security Journey — IUM (Isolated User Mode) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f4c6db8f4006) |
-| Wed, 22 Apr 2026 08:36:57 GMT | This Wasn’t Just a Hack, It Was a Systemic Stress Test for DeFi | Cwallet | [Read More](https://medium.com/p/fbe2068b1d71) |
-| Wed, 22 Apr 2026 08:28:16 GMT | CTF Write-up: Information Gathering (Web Reconnaissance) | Geerhan Sentanu, CH, CHt. | [Read More](https://medium.com/p/76f1561eabf5) |
-| Wed, 22 Apr 2026 08:21:54 GMT | How to Protect Yourself from Phishing Attacks in 2026: A Practical Cybersecurity Guide | Rutvik Chavda | [Read More](https://medium.com/p/314c88b08421) |
-| Wed, 22 Apr 2026 08:20:08 GMT | Module 1 - Foundations of Cybersecurity - Google Professional Cybersecurity Certificate | Aruldeshwal | [Read More](https://medium.com/p/ae5f574132be) |
