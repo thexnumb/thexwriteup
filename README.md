@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Apr 2026 21:37:45 GMT | من هو على حاتم؟ رؤية تقنية في عالم الأمن الرقمي وصناعة المحتوى | على حاتم (Ali Allam) | [Read More](https://medium.com/p/2bbc8a8d4c15) |
+| Wed, 22 Apr 2026 21:36:20 GMT | TryHackMe CTF ContAInment walkthrough | Konstantin Sakhchinskiy | [Read More](https://medium.com/p/245967c79ea3) |
+| Wed, 22 Apr 2026 21:32:30 GMT | The Ghost in the Outbox: Why Criminals Communicate Without Ever Clicking ‘Send’ | Saloni Tilekar | [Read More](https://medium.com/p/6ed4be4124c0) |
+| Wed, 22 Apr 2026 21:27:46 GMT | The $10.22 Million Mistake: What Nobody Tells You About Access Control | Tural Allahverdiyev | [Read More](https://medium.com/p/478a8b2aa0b5) |
+| Wed, 22 Apr 2026 21:15:39 GMT | Secure Architecture for Autonomous AI Agent Deployment | Valentin Podkamennyi | [Read More](https://medium.com/p/dd80fc764c19) |
+| Wed, 22 Apr 2026 21:13:11 GMT | Manage Risks of AI Vibe Coding in the Enterprise | Valentin Podkamennyi | [Read More](https://medium.com/p/7a9cbede83aa) |
+| Wed, 22 Apr 2026 21:09:03 GMT | AI Hacking for Beginners: A Five-Article Series | Moez Ben-Azzouz | [Read More](https://medium.com/p/26b8c0614349) |
+| Wed, 22 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 54: Interviews, Day 3 + More on Cosplans | Maximillian Rueda | [Read More](https://medium.com/p/dff6605d205c) |
+| Wed, 22 Apr 2026 20:48:33 GMT | The Axios npm Supply Chain Attack (March 2026): How North Korean Hackers Poisoned 100 Million… | Cahal  Agarwalla | [Read More](https://medium.com/p/9887b3bbe114) |
+| Wed, 22 Apr 2026 20:46:56 GMT | TryHackMe SOC Analyst Road Map Part-26 | safa kaya | [Read More](https://medium.com/p/9e6562832365) |
 | Wed, 22 Apr 2026 20:40:54 GMT | The Truth About Public Wi-Fi (and How to Protect Yourself) | Dr Kimma Wreh | [Read More](https://medium.com/p/2ffea571cc98) |
 | Wed, 22 Apr 2026 20:39:48 GMT | TryHackMe: Alert Triage with Splunk — Practical SOC Analysis | Leyla Huseynzada | [Read More](https://medium.com/p/4f4b72bf7c67) |
 | Wed, 22 Apr 2026 20:38:21 GMT | The Vercel Security Breach (April 2026): A Deep-Dive into OAuth Supply Chain Attacks, Infostealer… | Cahal  Agarwalla | [Read More](https://medium.com/p/2563880caefe) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Apr 2026 15:23:18 GMT | Role of Blockchain in Data Protection and Cyber Security | Sejalkhandare | [Read More](https://medium.com/p/719e381499a6) |
 | Wed, 22 Apr 2026 15:21:14 GMT | Critical Auth Bypass: How Forgot Password Feature Allowed Unverified Users to Access the Entire App… | Muhammad Rizqi Ramadhan | [Read More](https://medium.com/p/ad4ae8b832d4) |
 | Wed, 22 Apr 2026 15:19:45 GMT | How the Right IT Partner Changes the Way Your Entire Team Works | Synogen Solutions | [Read More](https://medium.com/p/1423eaefb616) |
-| Wed, 22 Apr 2026 15:09:53 GMT | Naoris Protocol | Dolapo Peter | [Read More](https://medium.com/p/0a2e6101e03f) |
-| Wed, 22 Apr 2026 15:09:21 GMT | The Database Your Security Team Relies On Just Changed the Rules | Vijay Anand | [Read More](https://medium.com/p/ea3e59968095) |
-| Wed, 22 Apr 2026 15:05:25 GMT | Fake Interview Repository With an Obfuscated Node.js Malware Loader | Emma Paułowicz | [Read More](https://medium.com/p/48626493968b) |
-| Wed, 22 Apr 2026 15:02:48 GMT | Why Your Dual-Boot (Windows + Linux) PC Keeps Messing Up With The OS Time — And How to Fix It | David Garcia | [Read More](https://medium.com/p/6bbc121c185d) |
-| Wed, 22 Apr 2026 15:01:08 GMT | Prompt Injection Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/973526e59889) |
-| Wed, 22 Apr 2026 15:01:02 GMT | The Part of Automation the Entire Industry Skips | Ehulse | [Read More](https://medium.com/p/861fe65dc0c0) |
-| Wed, 22 Apr 2026 15:00:18 GMT | Linux 101 — The Foundation Every Cybersecurity Professional Is Built On | hersaintel | [Read More](https://medium.com/p/cb072969f632) |
-| Wed, 22 Apr 2026 14:59:46 GMT | An AI Deepfake Scammer Got Exposed
-After Being Asked to Hold Up Three Fingers. | Senaaravichandran A | [Read More](https://medium.com/p/22d15c2a9fe9) |
-| Wed, 22 Apr 2026 14:59:30 GMT | Security Awareness Training: What Actually Works | JSOC IT BLOG | [Read More](https://medium.com/p/c01cc89565f8) |
-| Wed, 22 Apr 2026 14:57:32 GMT | When the Dead Speak Again: AI Clones, Cognitive Exploitation, and the Next Psychological Attack… | Len Noe | [Read More](https://medium.com/p/4925d2696c5b) |
