@@ -12,8 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Apr 2026 15:09:53 GMT | Naoris Protocol | Dolapo Peter | [Read More](https://medium.com/p/0a2e6101e03f) |
+| Wed, 22 Apr 2026 15:05:25 GMT | Fake Interview Repository With an Obfuscated Node.js Malware Loader | Emma Paułowicz | [Read More](https://medium.com/p/48626493968b) |
+| Wed, 22 Apr 2026 15:02:48 GMT | Why Your Dual-Boot (Windows + Linux) PC Keeps Messing Up With The OS Time — And How to Fix It | David Garcia | [Read More](https://medium.com/p/6bbc121c185d) |
+| Wed, 22 Apr 2026 15:01:08 GMT | Prompt Injection Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/973526e59889) |
+| Wed, 22 Apr 2026 15:01:02 GMT | The Part of Automation the Entire Industry Skips | Ehulse | [Read More](https://medium.com/p/861fe65dc0c0) |
+| Wed, 22 Apr 2026 15:00:18 GMT | Linux 101 — The Foundation Every Cybersecurity Professional Is Built On | hersaintel | [Read More](https://medium.com/p/cb072969f632) |
+| Wed, 22 Apr 2026 14:59:46 GMT | An AI Deepfake Scammer Got Exposed
+After Being Asked to Hold Up Three Fingers. | Senaaravichandran A | [Read More](https://medium.com/p/22d15c2a9fe9) |
+| Wed, 22 Apr 2026 14:59:30 GMT | Security Awareness Training: What Actually Works | JSOC IT BLOG | [Read More](https://medium.com/p/c01cc89565f8) |
+| Wed, 22 Apr 2026 14:57:32 GMT | When the Dead Speak Again: AI Clones, Cognitive Exploitation, and the Next Psychological Attack… | Len Noe | [Read More](https://medium.com/p/4925d2696c5b) |
+| Wed, 22 Apr 2026 14:54:16 GMT | Why South Florida Businesses Are Switching to Managed IT Services in 2026 | Penelope Aleman | [Read More](https://medium.com/p/4429add49015) |
+| Wed, 22 Apr 2026 14:52:56 GMT | The AI That Thought It Was in Charge: Why Excessive Agency Is the Sleeper Threat Nobody’s Talking… | Giulio Sistilli | [Read More](https://medium.com/p/6ba08827c4c9) |
+| Wed, 22 Apr 2026 14:48:30 GMT | How The Google Antigravity Agent Hallucinated NSFW Adult Websites? | Shashwat | [Read More](https://medium.com/p/4aad470c9203) |
+| Wed, 22 Apr 2026 14:47:47 GMT | CORS Isn’t a Bug — It’s Your API Trying to Warn You (And You Ignored It) | Saandeep Baansod | [Read More](https://medium.com/p/46f668815137) |
+| Wed, 22 Apr 2026 14:46:01 GMT | From Help Desk to Security Engineer — What Actually Moved the Needle | Deandre Wilson | [Read More](https://medium.com/p/6312667f5ce1) |
+| Wed, 22 Apr 2026 14:43:51 GMT | The Surveillance Collapse | Seven Cubed Seven Labs | [Read More](https://medium.com/p/c1511e0099ff) |
+| Wed, 22 Apr 2026 14:13:18 GMT | Review: Altered Security: Certified Red Team Professional (CRTP) (taken in 2025) | Andreas Regli | [Read More](https://medium.com/p/d1ff37f30d47) |
+| Wed, 22 Apr 2026 14:07:05 GMT | Air India Letter of Appreciation for Trust Force Security’s Qatar to Saudi Arabia Evacuation | Trust Force Security and Guarding  Doha Qatar | [Read More](https://medium.com/p/c2ab6f36a4a0) |
+| Wed, 22 Apr 2026 14:01:52 GMT | Review: Altered Security, Certified Azure Red Team Professional (CARTP) (taken in 2025) | Andreas Regli | [Read More](https://medium.com/p/90084661f47a) |
+| Wed, 22 Apr 2026 13:59:32 GMT | Malware Through the Lens of Governance | Musa Yusuf Magoban | [Read More](https://medium.com/p/497cdba7a036) |
+| Wed, 22 Apr 2026 13:58:10 GMT | PortSwigger XSS Lab Walkthrough: When Input Sanitization Fails | HACKER OF JUSTICE | [Read More](https://medium.com/p/fc26bf01798d) |
+| Wed, 22 Apr 2026 13:51:28 GMT | JWT Trap: Login & Logout under control | CoffeeMainer | [Read More](https://medium.com/p/9f3116d1db1d) |
+| Wed, 22 Apr 2026 13:50:30 GMT | Networking: Understanding Computer Networks — Part 1 | Blossom Dugbatey | [Read More](https://medium.com/p/836178569b73) |
 | Wed, 22 Apr 2026 13:45:30 GMT | ⚙️ 06. — Stealing OAuth access tokens via a proxy page | The4v1 | [Read More](https://medium.com/p/c912e467a3df) |
+| Wed, 22 Apr 2026 13:41:04 GMT | WireGuard: Why Simpler Won | Haggai Philip Zagury | [Read More](https://medium.com/p/df990824f8f0) |
 | Wed, 22 Apr 2026 13:23:02 GMT | Forgot your password again? QR Man is here to help. | Anton Minin Baranovskii | [Read More](https://medium.com/p/c347d17b4585) |
+| Wed, 22 Apr 2026 13:21:41 GMT | Pickle Rick Challenge — A Short Comprehension | Shelle Abdul Ganiyi Babatunde | [Read More](https://medium.com/p/8d8948c92b5c) |
 | Wed, 22 Apr 2026 13:21:08 GMT | Cruise Ship Security in the USA: What to Know Before Boarding | Rajib Sarker | [Read More](https://medium.com/p/60a6e93c0d06) |
 | Wed, 22 Apr 2026 13:20:51 GMT | WEF seguro com HTTPS: Implementação completa com Certificado, GPO e WinRM | Maycon Nuvem | [Read More](https://medium.com/p/97e70192c002) |
 | Wed, 22 Apr 2026 13:03:28 GMT | I Lost Apple’s Strongest Privacy Feature A Year Ago | Anil Kumar Bakkashetti | [Read More](https://medium.com/p/4801a8e20e54) |
@@ -88,27 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Apr 2026 08:28:16 GMT | CTF Write-up: Information Gathering (Web Reconnaissance) | Geerhan Sentanu, CH, CHt. | [Read More](https://medium.com/p/76f1561eabf5) |
 | Wed, 22 Apr 2026 08:21:54 GMT | How to Protect Yourself from Phishing Attacks in 2026: A Practical Cybersecurity Guide | Rutvik Chavda | [Read More](https://medium.com/p/314c88b08421) |
 | Wed, 22 Apr 2026 08:20:08 GMT | Module 1 - Foundations of Cybersecurity - Google Professional Cybersecurity Certificate | Aruldeshwal | [Read More](https://medium.com/p/ae5f574132be) |
-| Wed, 22 Apr 2026 08:13:01 GMT | The 10-Second Script That Exposes Windows Security Gaps | Thewatchdog13 | [Read More](https://medium.com/p/a57489d77e4e) |
-| Wed, 22 Apr 2026 08:06:14 GMT | Target Spotted | Anbiswasofficial | [Read More](https://medium.com/p/63280217f7b1) |
-| Wed, 22 Apr 2026 08:05:22 GMT | Review: Why Surplex UK’s Free ITAM Portal Outperforms Expensive SaaS Rivals | Mina Smith | [Read More](https://medium.com/p/e523a5ecef02) |
-| Wed, 22 Apr 2026 08:05:02 GMT | Why Motion Sensor Light Bulbs Are a Smart Home Upgrade | Criminology Expert | [Read More](https://medium.com/p/49f995536e92) |
-| Wed, 22 Apr 2026 07:59:10 GMT | The 5 Biggest Traps When Writing Your Own SQL Injection Filter | John Hawkins | [Read More](https://medium.com/p/671b3c99da8c) |
-| Wed, 22 Apr 2026 07:47:01 GMT | CORS Misconfiguration: When Websites Leak Data to Attackers | Cybersphere Official | [Read More](https://medium.com/p/4b660fe303e8) |
-| Wed, 22 Apr 2026 07:41:32 GMT | What You Actually See in USM Anywhere: Events, Alarms, and LBSE Thinking in Practice | Fouad Abdul Khaleq | [Read More](https://medium.com/p/337dd759e2f8) |
-| Wed, 22 Apr 2026 07:35:29 GMT | Why Inefficient Vehicle Tracking Is Pushing Saudi Facilities Toward Smarter Solutions | Commport Technologies | [Read More](https://medium.com/p/f0761506ae11) |
-| Wed, 22 Apr 2026 07:31:01 GMT | “Apple insides Tips” Managing iCloud Storage: How to Ensure Deletions Propagate Across All Devices. | apple insides | [Read More](https://medium.com/p/8ecc0a1d8f21) |
-| Wed, 22 Apr 2026 07:30:15 GMT | Supply Chain Risk Management Software: What Enterprises Need to Know in 2026 | Kaopiz Global | [Read More](https://medium.com/p/0189ac673450) |
-| Wed, 22 Apr 2026 07:27:56 GMT | TryHackMe White Rabbit — All 3 Flags via Prompt Injection (2026) | Sayedrahman | [Read More](https://medium.com/p/05adfe17d2bf) |
-| Wed, 22 Apr 2026 07:26:22 GMT | What is Cyber Security? A Beginner’s Guide to Staying Safe Online in 2026 | Manula Udyoga | [Read More](https://medium.com/p/54d0e6a9f577) |
-| Wed, 22 Apr 2026 07:09:57 GMT | Prompt Injection Attacks: How They Work and How to Defend Against Them | Zaher Aboushakra | [Read More](https://medium.com/p/a9be3863de3d) |
-| Wed, 22 Apr 2026 07:09:18 GMT | SQL Injection: The Simple Bug That Can Break Entire Systems | Prajwali Landge | [Read More](https://medium.com/p/7865762ee91d) |
-| Wed, 22 Apr 2026 07:01:04 GMT | Cybersecurity Is Not Hard. No One Just Explained It Right. | Know Us Better | [Read More](https://medium.com/p/f8bb1b1096bf) |
-| Wed, 22 Apr 2026 06:59:57 GMT | How a CISSP Certification Training Course Can Boost Your Cybersecurity Career | cyber security Updates | [Read More](https://medium.com/p/46043aee16eb) |
-| Wed, 22 Apr 2026 06:48:56 GMT | Gemini CLI + Kali Linux - AI-Powered Pentesting Automation | Pentester Club | [Read More](https://medium.com/p/227a42711b7a) |
-| Wed, 22 Apr 2026 06:46:07 GMT | We opened up on camera. The internet took advantage of that. | morestory | [Read More](https://medium.com/p/5133999540f3) |
-| Wed, 22 Apr 2026 06:42:53 GMT | Automating Recon Like an Operator — Running Wraith on Multiple Targets (Hands-Free) | ghostyjoe | [Read More](https://medium.com/p/5d94d8bc96c4) |
-| Wed, 22 Apr 2026 06:30:58 GMT | What Separates Top Tech Professionals from the Average in 2026? | Abrahamtech | [Read More](https://medium.com/p/67b6e7b12ce0) |
-| Wed, 22 Apr 2026 06:13:52 GMT | The integration layer is your largest unmonitored attack surface | Integration Ops Insider | [Read More](https://medium.com/p/d53775fd40ae) |
-| Wed, 22 Apr 2026 06:13:17 GMT | Thinking Like a Ghost: The Real Secret to Mastering Cybersecurity | Udulapasandul | [Read More](https://medium.com/p/c425b91a5bf2) |
-| Wed, 22 Apr 2026 06:08:58 GMT | Market Forecast: Secure Service Access | Umangp | [Read More](https://medium.com/p/c336d64175df) |
-| Wed, 22 Apr 2026 06:07:04 GMT | Revolutionizing Cybersecurity: How AI is Transforming Bug Detection | Penguin Voice | [Read More](https://medium.com/p/285a54fbde91) |
