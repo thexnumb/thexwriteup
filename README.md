@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Apr 2026 20:40:54 GMT | The Truth About Public Wi-Fi (and How to Protect Yourself) | Dr Kimma Wreh | [Read More](https://medium.com/p/2ffea571cc98) |
+| Wed, 22 Apr 2026 20:39:48 GMT | TryHackMe: Alert Triage with Splunk — Practical SOC Analysis | Leyla Huseynzada | [Read More](https://medium.com/p/4f4b72bf7c67) |
+| Wed, 22 Apr 2026 20:38:21 GMT | The Vercel Security Breach (April 2026): A Deep-Dive into OAuth Supply Chain Attacks, Infostealer… | Cahal  Agarwalla | [Read More](https://medium.com/p/2563880caefe) |
+| Wed, 22 Apr 2026 20:37:00 GMT | Domain Name System | r00t | [Read More](https://medium.com/p/d06f7aef6c4c) |
+| Wed, 22 Apr 2026 20:36:01 GMT | What happens when AI makes up a cybersecurity threat? | SHUBHAM PRAJAPATI | [Read More](https://medium.com/p/6ab5dc3d6594) |
+| Wed, 22 Apr 2026 20:33:31 GMT | The 5 Most Common Vulnerabilities I Find in Every Bug Bounty Program | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/359cfd4f9942) |
+| Wed, 22 Apr 2026 20:31:00 GMT | You Rotate All API Keys, Force MFA, Kill Sessions… Yet the Attacker Still Gets Back In 6 hours | Bridget | [Read More](https://medium.com/p/9e52e422bcf3) |
+| Wed, 22 Apr 2026 20:30:23 GMT | Windows Defender Setup Guide: Everything You Need to Configure for Real Protection | Cordula Boeck | [Read More](https://medium.com/p/0ded1123c04c) |
+| Wed, 22 Apr 2026 20:26:28 GMT | Agents, MCP, A2A…..are they safe? | Antonella Blasetti | [Read More](https://medium.com/p/78fad04b8646) |
+| Wed, 22 Apr 2026 20:25:56 GMT | I Replaced $100K in Security Tools with PowerShell. Here’s What I Learned Building It. | Okan Yıldız | [Read More](https://medium.com/p/94dbd4857193) |
+| Wed, 22 Apr 2026 20:24:32 GMT | URL-Based XSS | Marduk I Am | [Read More](https://medium.com/p/c41d94090e6e) |
+| Wed, 22 Apr 2026 20:21:13 GMT | OpenCode — Harden Your opencode.json | Christoph Schweres | [Read More](https://medium.com/p/fa75402d8846) |
+| Wed, 22 Apr 2026 20:17:13 GMT | NAKED | YoucancallmeRosa | [Read More](https://medium.com/p/810d030de03d) |
+| Wed, 22 Apr 2026 20:11:59 GMT | The Vercel Breach: How a Roblox Script Led to a $2M Supply Chain Attack | Hosea Kosgei | [Read More](https://medium.com/p/e9228bc6ca84) |
+| Wed, 22 Apr 2026 20:06:28 GMT | 4 Best Mobile Accessories Everyone Should Have: A Guide | zenonewss | [Read More](https://medium.com/p/9e51dd18ca43) |
+| Wed, 22 Apr 2026 19:44:50 GMT | We need security | Hüseyin Mert | [Read More](https://medium.com/p/b1110e3f7f91) |
 | Wed, 22 Apr 2026 19:23:13 GMT | xAIDR: Extended AI Detection and Response for Multi-Agent Runtime Security | Prashanth Chandika | [Read More](https://medium.com/p/6f037c24a97a) |
 | Wed, 22 Apr 2026 19:12:29 GMT | How I Almost Missed My GIAC Strategic OSINT Analyst (GSOA) Beta Exam | Zara Teo | [Read More](https://medium.com/p/d1dce5b2fe4f) |
 | Wed, 22 Apr 2026 19:11:33 GMT | How I Built a Real-Time Phishing Email Detector for Gmail Using FastAPI and LLaMA | Mpagada | [Read More](https://medium.com/p/0f088c914160) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 After Being Asked to Hold Up Three Fingers. | Senaaravichandran A | [Read More](https://medium.com/p/22d15c2a9fe9) |
 | Wed, 22 Apr 2026 14:59:30 GMT | Security Awareness Training: What Actually Works | JSOC IT BLOG | [Read More](https://medium.com/p/c01cc89565f8) |
 | Wed, 22 Apr 2026 14:57:32 GMT | When the Dead Speak Again: AI Clones, Cognitive Exploitation, and the Next Psychological Attack… | Len Noe | [Read More](https://medium.com/p/4925d2696c5b) |
-| Wed, 22 Apr 2026 14:54:16 GMT | Why South Florida Businesses Are Switching to Managed IT Services in 2026 | Penelope Aleman | [Read More](https://medium.com/p/4429add49015) |
-| Wed, 22 Apr 2026 14:52:56 GMT | The AI That Thought It Was in Charge: Why Excessive Agency Is the Sleeper Threat Nobody’s Talking… | Giulio Sistilli | [Read More](https://medium.com/p/6ba08827c4c9) |
-| Wed, 22 Apr 2026 14:48:30 GMT | How The Google Antigravity Agent Hallucinated NSFW Adult Websites? | Shashwat | [Read More](https://medium.com/p/4aad470c9203) |
-| Wed, 22 Apr 2026 14:47:47 GMT | CORS Isn’t a Bug — It’s Your API Trying to Warn You (And You Ignored It) | Saandeep Baansod | [Read More](https://medium.com/p/46f668815137) |
-| Wed, 22 Apr 2026 14:46:01 GMT | From Help Desk to Security Engineer — What Actually Moved the Needle | Deandre Wilson | [Read More](https://medium.com/p/6312667f5ce1) |
-| Wed, 22 Apr 2026 14:43:51 GMT | The Surveillance Collapse | Seven Cubed Seven Labs | [Read More](https://medium.com/p/c1511e0099ff) |
-| Wed, 22 Apr 2026 14:13:18 GMT | Review: Altered Security: Certified Red Team Professional (CRTP) (taken in 2025) | Andreas Regli | [Read More](https://medium.com/p/d1ff37f30d47) |
-| Wed, 22 Apr 2026 14:07:05 GMT | Air India Letter of Appreciation for Trust Force Security’s Qatar to Saudi Arabia Evacuation | Trust Force Security and Guarding  Doha Qatar | [Read More](https://medium.com/p/c2ab6f36a4a0) |
-| Wed, 22 Apr 2026 14:01:52 GMT | Review: Altered Security, Certified Azure Red Team Professional (CARTP) (taken in 2025) | Andreas Regli | [Read More](https://medium.com/p/90084661f47a) |
-| Wed, 22 Apr 2026 13:59:32 GMT | Malware Through the Lens of Governance | Musa Yusuf Magoban | [Read More](https://medium.com/p/497cdba7a036) |
-| Wed, 22 Apr 2026 13:58:10 GMT | PortSwigger XSS Lab Walkthrough: When Input Sanitization Fails | HACKER OF JUSTICE | [Read More](https://medium.com/p/fc26bf01798d) |
-| Wed, 22 Apr 2026 13:51:28 GMT | JWT Trap: Login & Logout under control | CoffeeMainer | [Read More](https://medium.com/p/9f3116d1db1d) |
-| Wed, 22 Apr 2026 13:50:30 GMT | Networking: Understanding Computer Networks — Part 1 | Blossom Dugbatey | [Read More](https://medium.com/p/836178569b73) |
-| Wed, 22 Apr 2026 13:45:30 GMT | ⚙️ 06. — Stealing OAuth access tokens via a proxy page | The4v1 | [Read More](https://medium.com/p/c912e467a3df) |
-| Wed, 22 Apr 2026 13:41:04 GMT | WireGuard: Why Simpler Won | Haggai Philip Zagury | [Read More](https://medium.com/p/df990824f8f0) |
-| Wed, 22 Apr 2026 13:23:02 GMT | Forgot your password again? QR Man is here to help. | Anton Minin Baranovskii | [Read More](https://medium.com/p/c347d17b4585) |
