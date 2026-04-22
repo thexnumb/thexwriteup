@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Apr 2026 23:45:15 GMT | ARP poisoning and man-in-the-middle attacks | Ilgar Alakbarov | [Read More](https://medium.com/p/33a4502e0ad2) |
+| Wed, 22 Apr 2026 23:39:11 GMT | Authentication bypass via unauthenticated JWT generation on a telecom provider | Amrgomaa | [Read More](https://medium.com/p/78df29d88261) |
+| Wed, 22 Apr 2026 23:36:08 GMT | Report: April 16 — April 22, 2026 | CCTT INC. | [Read More](https://medium.com/p/f9a96fdf85b2) |
+| Wed, 22 Apr 2026 23:31:01 GMT | Building an AI-powered authentication system with Temporal.io: lessons learnt | DiUS | [Read More](https://medium.com/p/f3fe835f6598) |
+| Wed, 22 Apr 2026 23:24:30 GMT | Threat Actors: Who is Targeting Your Network? | Mahdi | [Read More](https://medium.com/p/a5e1e6389b25) |
+| Wed, 22 Apr 2026 23:21:11 GMT | I Trained Myself to Be Easy to Leave | Mira Thorne | [Read More](https://medium.com/p/af69cf297d5d) |
+| Wed, 22 Apr 2026 23:21:01 GMT | Day 9: How I Bypassed Double CSRF Token Validation Using Only an IMG Tag | zero_day | [Read More](https://medium.com/p/5b78f8288183) |
+| Wed, 22 Apr 2026 23:13:01 GMT | ServMon - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/a40efd05dc49) |
+| Wed, 22 Apr 2026 23:11:34 GMT | The Face on the Screen Is Lying: How AI-Generated Content Is Fueling a New Era of Fraud and… | Travis Ray Caverhill | [Read More](https://medium.com/p/e32b15ae2d27) |
+| Wed, 22 Apr 2026 23:09:31 GMT | Cal.com Went Closed Source. Here’s Why That Terrifies Me (And Why You Should Care Too) | Andy Nguyen | [Read More](https://medium.com/p/7e57cce3a365) |
+| Wed, 22 Apr 2026 23:06:28 GMT | Security for Financial AI | Maryam .H | [Read More](https://medium.com/p/ed29b7e2b83c) |
 | Wed, 22 Apr 2026 22:36:29 GMT | Race Condition & Atomic Violation: Race-Free Denomination app | Alborz Nazari | [Read More](https://medium.com/p/240e43dfb4c8) |
 | Wed, 22 Apr 2026 22:34:39 GMT | The Problem With Permanent Chats (And What I Built Instead) | Sonu Samrat | [Read More](https://medium.com/p/e595a8ed03d2) |
 | Wed, 22 Apr 2026 22:27:49 GMT | TryHackMe — Capture! | Kira @ hKiSec | [Read More](https://medium.com/p/ee3d119d5f7f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Apr 2026 16:26:33 GMT | Don’t Ask an LLM “Is This Safe?” — The Case for Deterministic Layer 1 | Yaku | [Read More](https://medium.com/p/5c0ec907d544) |
 | Wed, 22 Apr 2026 16:26:19 GMT | Breaking Into Cybersecurity in 2026 — A Series (Part I: Start Here) | Irene A. Gil | [Read More](https://medium.com/p/6c2da3232a7e) |
 | Wed, 22 Apr 2026 16:23:14 GMT | Emergency Patch Alert: Why Microsoft’s .NET 10.0.7 Update Should Be Your Top Priority | Sharanraju | [Read More](https://medium.com/p/cd86f4af437e) |
-| Wed, 22 Apr 2026 16:20:17 GMT | The First 24 Hours After a Cyberattack: What Separates Survival from Shutdown | IT_Engineer | [Read More](https://medium.com/p/755fe030c3bd) |
-| Wed, 22 Apr 2026 16:18:52 GMT | Web Security Series #19 — Exploiting Hidden Server-Side Template Injection (SSTI) | Laibakashif | [Read More](https://medium.com/p/468de871c394) |
-| Wed, 22 Apr 2026 16:14:35 GMT | He creado un SaaS con Claude IA | FN8 | [Read More](https://medium.com/p/f6990a49d563) |
-| Wed, 22 Apr 2026 16:11:59 GMT | Cat Pictures 2 — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/c70203c1c749) |
-| Wed, 22 Apr 2026 16:05:55 GMT | From Curiosity to Code, A young mind`s journey into Programming | Charlesonyeukwu | [Read More](https://medium.com/p/6ce1914b9d42) |
-| Wed, 22 Apr 2026 16:04:03 GMT | Security Best Practices in Kubernetes (Part 16) | Ravi Pandit | [Read More](https://medium.com/p/bdfe202ce983) |
-| Wed, 22 Apr 2026 15:59:06 GMT | Chapter 2 — Risk Register in Practice | DarkLightSec | [Read More](https://medium.com/p/79533cbcb67c) |
-| Wed, 22 Apr 2026 15:53:05 GMT | Most Crypto Never Leaves Your Wallet. We Built MPP to Change That. | Megprimepay | [Read More](https://medium.com/p/098ad98238c2) |
-| Wed, 22 Apr 2026 15:49:46 GMT | Web Security Series #18 — Exploiting Server-Side Template Injection (SSTI) | Laibakashif | [Read More](https://medium.com/p/e5b1eecad846) |
-| Wed, 22 Apr 2026 15:46:01 GMT | Rethinking Security In Nigeria | Oluwakorede Olorunfemi | [Read More](https://medium.com/p/2ddea6ec4da1) |
-| Wed, 22 Apr 2026 15:45:34 GMT | How I Found and Reported My First XSS Vulnerability | Narmadha | [Read More](https://medium.com/p/85fc182ec260) |
