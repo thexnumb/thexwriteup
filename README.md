@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 22 Apr 2026 05:50:30 GMT | Benign - TryHackMe — Challenge - Writeup — Splunk-Investigation | Amr | [Read More](https://medium.com/p/4ddd26561cb5) |
+| Wed, 22 Apr 2026 05:47:53 GMT | One Ring to Rule All Your Data: How Sauron’s Eye Predicted Centralized Surveillance and Big Data… | Nazli Aydin (Misselbereth) | [Read More](https://medium.com/p/9d04c41d501c) |
+| Wed, 22 Apr 2026 05:46:44 GMT | Common Mistakes People Make on Truist.com/activate Without Realizing | TechCore | [Read More](https://medium.com/p/8bbf56a56776) |
+| Wed, 22 Apr 2026 05:43:06 GMT | Beyond the Hype: My Experience with the TryHackMe AI Security Path | Candiee | [Read More](https://medium.com/p/301f5f62e134) |
+| Wed, 22 Apr 2026 05:33:11 GMT | The $60 Billion Blind Spot: Is Your Foundation a Trojan Horse? | Rahul Juyal | [Read More](https://medium.com/p/4b2b8b2f7270) |
+| Wed, 22 Apr 2026 05:32:27 GMT | Why Your Backend Should Never Trust the Frontend | Endurance Orisabinone | [Read More](https://medium.com/p/b2149623214d) |
+| Wed, 22 Apr 2026 05:25:32 GMT | Securing the Backbone of Industry: Why OT Cybersecurity Training is Your Next Big Career Move | TheEvolvEdge | [Read More](https://medium.com/p/daa22683d587) |
+| Wed, 22 Apr 2026 05:17:14 GMT | The Importance of Two-Factor Authentication (2FA) | Novan Dwi Yulianda | [Read More](https://medium.com/p/1223bf5dea11) |
+| Wed, 22 Apr 2026 05:05:17 GMT | From Reluctant to Reignited: My Honest Review of SANS Introductory Python for Cybersecurity | Sean Kettering | [Read More](https://medium.com/p/a94fa3fb1dfd) |
+| Wed, 22 Apr 2026 04:59:12 GMT | Building a TweetFeed IoC Fetcher: From Zero to Discord Webhook | meganuke_ | [Read More](https://medium.com/p/6d1740dd12e8) |
+| Wed, 22 Apr 2026 04:54:42 GMT | WriteUp: Old Sessions — PicoCTF | Ali Amed | [Read More](https://medium.com/p/67a350c0a66d) |
+| Wed, 22 Apr 2026 04:49:45 GMT | Why is application security testing critical for modern business? | Meerab Khan | [Read More](https://medium.com/p/7e9dcb25a85b) |
+| Wed, 22 Apr 2026 04:43:59 GMT | Stop Letting Your AI Agent Browse Unsupervised. Here’s Why | anik jha | [Read More](https://medium.com/p/f9dd01c19fa1) |
+| Wed, 22 Apr 2026 04:39:42 GMT | Cisco notes Network Basics — Module 14:Routing between the Networks | ExploitHunter | [Read More](https://medium.com/p/a2cfe5c7d3d8) |
+| Wed, 22 Apr 2026 04:38:32 GMT | Offsec Proving Grounds “Potato” CTF Writeup | sabR | [Read More](https://medium.com/p/32d8a6984013) |
+| Wed, 22 Apr 2026 04:38:01 GMT | Cisco notes Network Basics — Module 13: The ARP Process | ExploitHunter | [Read More](https://medium.com/p/0b6d56cad1db) |
+| Wed, 22 Apr 2026 04:37:41 GMT | HTB Academy: Linux Fundamentals — Workflow → Navigation | Aditya Pandey | [Read More](https://medium.com/p/0512c72374ee) |
+| Wed, 22 Apr 2026 04:31:01 GMT | Burp Suite Complete Guide From Scratch: Bug Hunter Ka Sabse Powerful Weapon!(Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/5599cb7d0e41) |
+| Wed, 22 Apr 2026 04:29:25 GMT | Traditional Pentesting vs AI Pentesting: What’s the Difference | Rachna Tripathi | [Read More](https://medium.com/p/f4d97d3ca214) |
+| Wed, 22 Apr 2026 04:15:42 GMT | NTLM Authentication Write-Up - Root-Me Challenge | csm24 | [Read More](https://medium.com/p/42782dc09b6e) |
+| Wed, 22 Apr 2026 04:10:11 GMT | How to Select the Best Security and Facility Management Services in Bangalore? | NSS Guarding & Facility Management Pvt Ltd | [Read More](https://medium.com/p/c26a96a3840f) |
+| Wed, 22 Apr 2026 03:58:37 GMT | Active Directory Lab Setup: A Beginner-Friendly Guide | Basithmohammedali | [Read More](https://medium.com/p/89c4a17db1a8) |
+| Wed, 22 Apr 2026 03:58:17 GMT | What is Cybersecurity? A Simple Guide for Beginners (2026) | Manula Udyoga | [Read More](https://medium.com/p/f22729348de3) |
+| Wed, 22 Apr 2026 03:49:48 GMT | Half of Tech Layoffs Are Being Blamed on AI. Here Is What Is Actually Happening | Mike McNelis | [Read More](https://medium.com/p/01ffae314533) |
+| Wed, 22 Apr 2026 03:40:12 GMT | Quickbooks Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/2ff7422398bf) |
+| Wed, 22 Apr 2026 03:39:57 GMT | How I Rebuilt ncat in 300 Lines of C Using Ghidra | Ali Zafar | [Read More](https://medium.com/p/9667148a1e9d) |
 | Wed, 22 Apr 2026 03:25:51 GMT | Trend micro customer service Australia contact number | Customer Support Information | [Read More](https://medium.com/p/344af449d444) |
 | Wed, 22 Apr 2026 03:20:00 GMT | I Built a SQL Injection Demo App Here’s What I Learned | BABATUNDE FAWOLE | [Read More](https://medium.com/p/f6e10324a4e9) |
 | Wed, 22 Apr 2026 03:14:42 GMT | Bigpond Customer Support Number | Customer Support Information | [Read More](https://medium.com/p/ced9fa549bf0) |
@@ -87,29 +113,3 @@ But It Comes at a Cost. | Anees Mehdi | [Read More](https://medium.com/p/09a17e1
 | Tue, 21 Apr 2026 19:36:53 GMT | HackViser: Rivalry Scenerio Writeup | EfeSipahi | [Read More](https://medium.com/p/c12d027909a9) |
 | Tue, 21 Apr 2026 19:34:40 GMT | Blind SSRF Leads to Internal Service and IP Discovery with Multiple Security Impacts | Mohamed M Mourad | [Read More](https://medium.com/p/795613317d44) |
 | Tue, 21 Apr 2026 19:23:49 GMT | VPNs: OpenVPN, IPsec, and the TLS Tunnel | Haggai Philip Zagury | [Read More](https://medium.com/p/87b03b567042) |
-| Tue, 21 Apr 2026 19:08:53 GMT | Ferramenta de auditoria e monitoramento de segurança | Nnfelipe | [Read More](https://medium.com/p/49106030a0e6) |
-| Tue, 21 Apr 2026 18:58:58 GMT | You Opened a “PDF”. It Compromised Your Entire System. | R.D.Tarun | [Read More](https://medium.com/p/a71008fc1744) |
-| Tue, 21 Apr 2026 18:54:03 GMT | The Database That Couldn’t Keep Up: NIST Has Formally Written Off 29,000 CVEs. | Joao Silva | [Read More](https://medium.com/p/6c693fbc2b31) |
-| Tue, 21 Apr 2026 18:50:40 GMT | The Great AI Reckoning: How April 2026 Changed Everything | Nina | [Read More](https://medium.com/p/1811cdad959a) |
-| Tue, 21 Apr 2026 18:41:01 GMT | The Night I Almost Quit Everything | Daisy | [Read More](https://medium.com/p/99349e8ca7d3) |
-| Tue, 21 Apr 2026 18:36:01 GMT | SCP for Data Exfiltration on Pentests | Mark Puckett | [Read More](https://medium.com/p/a845e79d9034) |
-| Tue, 21 Apr 2026 18:35:55 GMT | Bug Bounty: The $0 to $5,000/month Survival Roadmap Nobody Wrote | EMTIAZ AHMED | [Read More](https://medium.com/p/ce8c6abfd47b) |
-| Tue, 21 Apr 2026 18:35:45 GMT | Your Defender Exclusions SUCK | Vonte Sewell | [Read More](https://medium.com/p/2114a93b3f6d) |
-| Tue, 21 Apr 2026 18:34:28 GMT | From Zero Knowledge to First $1,000: The Honest Bug Bounty Timeline | EMTIAZ AHMED | [Read More](https://medium.com/p/867a05417b83) |
-| Tue, 21 Apr 2026 18:34:22 GMT | Why One Wrong Cloud Permission Can Break Your Entire System | Sharyarrathore | [Read More](https://medium.com/p/693b66c6dba1) |
-| Tue, 21 Apr 2026 18:26:17 GMT | Zero Trust Security in 2026: Why “Never Trust, Always Verify” is the New Standard | Jeebr IT Infra | [Read More](https://medium.com/p/26ca8c3cd31d) |
-| Tue, 21 Apr 2026 18:23:57 GMT | The PaaS Security Checklist: 20 Questions to Ask After the Lovable and Vercel Breaches | Nicholas Thoni | [Read More](https://medium.com/p/16a74e34896c) |
-| Tue, 21 Apr 2026 18:14:43 GMT | Play Stupid Games, Win Stupid Prizes: Cybersecurity Edition | Sethu Raman Omanakuttan | [Read More](https://medium.com/p/dd904c5009d4) |
-| Tue, 21 Apr 2026 18:12:52 GMT | 94% of Login Attempts Are Bots. Most of the Rest Are Using Stolen Passwords. | Daniel Ryan Reiff | [Read More](https://medium.com/p/74afedfcb29a) |
-| Tue, 21 Apr 2026 18:12:22 GMT | CROSS-SITE SCRIPTING (XSS) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/fd3d3ad347ed) |
-| Tue, 21 Apr 2026 18:10:50 GMT | Root Access and Ruined Files: Why XYZconnect Felt Like My First Ransomware Infection | Keith Andrei Tapales | [Read More](https://medium.com/p/222c23d55094) |
-| Tue, 21 Apr 2026 18:10:36 GMT | A Real-World Smishing Incident: Lessons in Detection, Investigation, and Response | Darvensley Esperance | [Read More](https://medium.com/p/afbfcc6661cf) |
-| Tue, 21 Apr 2026 17:49:43 GMT | How Cybercriminals Are Using AI to Attack in 2026 | Sai kiran | [Read More](https://medium.com/p/2b8ed416a7c7) |
-| Tue, 21 Apr 2026 17:49:23 GMT | The 7 Most Common Mistakes in Small Business Security | Emory French | [Read More](https://medium.com/p/5d369aeb7011) |
-| Tue, 21 Apr 2026 17:42:48 GMT | FortiGate vs Palo Alto: A Hands-On Engineer’s Honest Comparison | Reuben Lim | [Read More](https://medium.com/p/3252a6fc5a86) |
-| Tue, 21 Apr 2026 17:31:17 GMT | Frank Elsner on Crisis Leadership: Why Preparation Defines Performance | Frank Elsner | [Read More](https://medium.com/p/191a4de50466) |
-| Tue, 21 Apr 2026 17:28:04 GMT | TryHackMe - RAG Security Fundamentals - WriteUp | Axoloth | [Read More](https://medium.com/p/1698bb45234c) |
-| Tue, 21 Apr 2026 17:25:47 GMT | Cybercrime is rising. Here’s how to protect your business - Expert Opinion | Gene Marks | [Read More](https://medium.com/p/17bdf49f9ddf) |
-| Tue, 21 Apr 2026 17:24:46 GMT | Vercel Security Scare: What Happened and Why You Should Care (Right Now) | Muhammad Shehroz | [Read More](https://medium.com/p/2b29b3bf99e4) |
-| Tue, 21 Apr 2026 17:24:10 GMT | Frank Elsner on Crisis Leadership: Why Preparation Defines Performance | Frank Elsner | [Read More](https://medium.com/p/ca955672a0f5) |
-| Tue, 21 Apr 2026 17:21:22 GMT | Shipping a Privacy-First LLM Middleware with Claude Code | Daiki | [Read More](https://medium.com/p/48c2c69dff44) |
