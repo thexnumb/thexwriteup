@@ -12,9 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Apr 2026 12:37:34 GMT | How I Earned $,$$$ by Escalating a Basic Scan into Critical Exposure Using AI | Eftasib Araf Depro | [Read More](https://medium.com/p/c067d0a0580a) |
+| Thu, 23 Apr 2026 12:37:22 GMT | Terminal Dossier Finalization: [19 April 2026] | DCDiew11 | [Read More](https://medium.com/p/ef9249427550) |
+| Thu, 23 Apr 2026 12:35:26 GMT | ScamAlerts.com: Never Fall for a Fake Website Again | James Smith | [Read More](https://medium.com/p/44071cdd092f) |
+| Thu, 23 Apr 2026 12:27:36 GMT | Modern Ransomware Operasyonları: Red Team Perspektifinden Bir Analiz | Muhammed Emin Berberoğlu | [Read More](https://medium.com/p/367372bb70d4) |
+| Thu, 23 Apr 2026 12:26:01 GMT | Cyber Resilience at Scale: What Breaks After 1PB | Faraz Ishaq | [Read More](https://medium.com/p/669a50244e2a) |
+| Thu, 23 Apr 2026 12:25:55 GMT | The Silent Killer of VPN Apps: Bad Infrastructure Decisions | Fyrewaypvt | [Read More](https://medium.com/p/ddfe440d907e) |
+| Thu, 23 Apr 2026 12:25:37 GMT | Why AI Moderation Fails When Trust Really Matters | Quokka Labs | [Read More](https://medium.com/p/061a30f2ba4e) |
+| Thu, 23 Apr 2026 12:13:58 GMT | Cyber Security Professional Services Chicago — What to Expect - Cepoch, Chicago, US | cepoch | [Read More](https://medium.com/p/61b30079635a) |
+| Thu, 23 Apr 2026 12:11:08 GMT | Qute: research harness for Quantum Threat Detection, Ising-corrected VQC on real security telemetry | Massimo Marrapese | [Read More](https://medium.com/p/9848384fc8cd) |
+| Thu, 23 Apr 2026 12:10:01 GMT | The Missing Link: How a Broken Access Control Led to a Full Account Takeover (ATO) | BelScarabX | [Read More](https://medium.com/p/607436c5b636) |
+| Thu, 23 Apr 2026 12:07:49 GMT | Why BOLA is the #1 Threat and How to Automate the “Token Swap” with RoleRival | Role Rival | [Read More](https://medium.com/p/62ee0c25520b) |
+| Thu, 23 Apr 2026 12:06:54 GMT | THE EDGE OF CONSOLIDATION: WHY COINANK IS REDEFINING CRYPTO ANALYTICS | Web3Dof | [Read More](https://medium.com/p/924dc4917b69) |
+| Thu, 23 Apr 2026 12:01:01 GMT | Cybersecurity for Signaling Networks: Protecting Fail-Safe Systems from Digital Threats | IntertechRail | [Read More](https://medium.com/p/359e5b8cc6ec) |
+| Thu, 23 Apr 2026 12:01:01 GMT | Security Is Not a Cost Center. It’s a Risk Transfer Function. | Abhishek Pahuja | [Read More](https://medium.com/p/49b467a652bf) |
+| Thu, 23 Apr 2026 12:00:17 GMT | The Dark Side of the Digital World: understanding Cybercrime. | Daniyal_Anwar | [Read More](https://medium.com/p/ab4d12bfc100) |
+| Thu, 23 Apr 2026 11:50:34 GMT | Understanding Buffer Overflows: From Vulnerability to Defense | stargalaxy1 | [Read More](https://medium.com/p/9cf9dde5f220) |
+| Thu, 23 Apr 2026 11:46:53 GMT | Insecure Direct Object Reference | Funmilola Fagbola | [Read More](https://medium.com/p/9ba40a64b106) |
+| Thu, 23 Apr 2026 11:28:27 GMT | Microsoft 365 Backup Strategies for Small Businesses | NAKIVO | [Read More](https://medium.com/p/239f3a956966) |
+| Thu, 23 Apr 2026 11:18:25 GMT | IDOR → Account Takeover — A Real Bug Chain Walkthrough | ghostyjoe | [Read More](https://medium.com/p/7512a41d5a32) |
+| Thu, 23 Apr 2026 11:16:39 GMT | How I Found My First Valid Bug | Vamsikandukuru | [Read More](https://medium.com/p/c138e6823804) |
 | Thu, 23 Apr 2026 11:03:47 GMT | SOC 2 Readiness: The 3 Points Where Companies Get Stuck Most | Consulting4sec | [Read More](https://medium.com/p/c8fbec94080a) |
 | Thu, 23 Apr 2026 11:01:01 GMT | Understanding CWE-219: Storage of File with Sensitive Data Under Web Root | Walter Moar | [Read More](https://medium.com/p/b30bb7d025ed) |
 | Thu, 23 Apr 2026 11:01:01 GMT | KYC is Dead. Long Live Continuous KYC. | FraudSpect | [Read More](https://medium.com/p/6ba595e039e8) |
+| Thu, 23 Apr 2026 11:01:01 GMT | MARCH 2026 : MONTHLY HACK REVIEW | Sisi | [Read More](https://medium.com/p/bd9569043a4d) |
 | Thu, 23 Apr 2026 10:59:34 GMT | Day 6 of My Cybersecurity Journey: Learning Wireshark | Samatham mahesh | [Read More](https://medium.com/p/28cea37bf5af) |
 | Thu, 23 Apr 2026 10:52:18 GMT | Deploying Zero Trust Across 40+ Countries: What the Vendor Pitch Decks Don’t Tell You | Bhimsingh | [Read More](https://medium.com/p/9de870fa3d0b) |
 | Thu, 23 Apr 2026 10:46:01 GMT | Gun man security services by Blr squad for reliable protection and safety solutions | Bengaluru Squad | [Read More](https://medium.com/p/fb5cf3ebdcaa) |
@@ -92,24 +113,3 @@ are not the same thing | Khanh Nguyen | [Read More](https://medium.com/p/35014ea
 | Thu, 23 Apr 2026 05:32:53 GMT | Security Sucks in General Nowadays. Blockchains Just Tend To Have an Immediate Payoff | Officer's Notes | [Read More](https://medium.com/p/b5f2684c0147) |
 | Thu, 23 Apr 2026 05:32:34 GMT | Claude Mythos & Project Glasswing | Akanksha | [Read More](https://medium.com/p/5b265449ccad) |
 | Thu, 23 Apr 2026 05:25:28 GMT | From LOW to CRITICAL: How a 5-Step Vulnerability Chain Goes Undetected by Flat Scanners | Eldor Zufarov | [Read More](https://medium.com/p/67cb565f5873) |
-| Thu, 23 Apr 2026 05:17:56 GMT | Social Engineering: The Human Side of Cyber Attacks | Akshat Poddar | [Read More](https://medium.com/p/2140aff09a1a) |
-| Thu, 23 Apr 2026 05:13:56 GMT | How to Start a Cybersecurity Career in 2026 | Gurpreet Singh | [Read More](https://medium.com/p/d8f07fbcec6a) |
-| Thu, 23 Apr 2026 05:09:11 GMT | Zero-Trust Architectures: A Practical Guide for Designing Secure Enterprise Networks | K. Vijaya Lakshmi | [Read More](https://medium.com/p/c2e0c726f04f) |
-| Thu, 23 Apr 2026 05:08:45 GMT | HOW I SOLVED SQL INJECTION (LAB 9 PORTSWIGGER ACADEMY) | Y0da | [Read More](https://medium.com/p/17fd7c12f1a7) |
-| Thu, 23 Apr 2026 05:04:58 GMT | Want Real-World Cybersecurity Skills? Here’s the Training That Actually Delivers | Mansi | [Read More](https://medium.com/p/a8d04c45c964) |
-| Thu, 23 Apr 2026 05:01:01 GMT | The Web2.5 Kill Chain (Part 2): Blood in the Directory | Tabrez Mukadam | [Read More](https://medium.com/p/4c1d7ee2d49f) |
-| Thu, 23 Apr 2026 04:58:15 GMT | Data Breaches: What Actually Happens After a Company Gets Hacked | Vatsamistry | [Read More](https://medium.com/p/4ccbfe2c7a54) |
-| Thu, 23 Apr 2026 04:57:24 GMT | Quantum-Safe Crypto: What Engineers Should Start Doing Today | Vatsamistry | [Read More](https://medium.com/p/456de3d6150c) |
-| Thu, 23 Apr 2026 04:56:16 GMT | The Vercel Breach Explained: A Quiet Permission, A Big Security Wake-Up Call | AIversity | [Read More](https://medium.com/p/81c89e28e891) |
-| Thu, 23 Apr 2026 04:53:39 GMT | Shultzpro.com: The Quiet Company in Seattle That Thinks AI Is About to Eat the Pentest Industry | Mark Still | [Read More](https://medium.com/p/61eb012638e5) |
-| Thu, 23 Apr 2026 04:49:10 GMT | Zero Trust Security in 2026: Why “Never Trust, Always Verify” Is No Longer Optional | Kishan Singh | [Read More](https://medium.com/p/3a117a5597a7) |
-| Thu, 23 Apr 2026 04:46:23 GMT | Cisco notes Network Basics — Module 16:Application Service Layer | ExploitHunter | [Read More](https://medium.com/p/e748b39f1bb7) |
-| Thu, 23 Apr 2026 04:45:10 GMT | Cisco notes Network Basics — Module 15:TCP and UDP | ExploitHunter | [Read More](https://medium.com/p/0ed1560b4479) |
-| Thu, 23 Apr 2026 04:38:37 GMT | Many Faces of Medusa | Duke Banerjee | [Read More](https://medium.com/p/ccada63deed1) |
-| Thu, 23 Apr 2026 04:34:43 GMT | CVE-2026–33147: Stack Buffer Overflow in GMT Leads to Potential RCE via PyGMT | Redpoc | [Read More](https://medium.com/p/03b4dbacba79) |
-| Thu, 23 Apr 2026 04:34:07 GMT | New to Xbox? Here’s How to Redeem Your Gift Card Easily | Afiatabassum | [Read More](https://medium.com/p/09a9943d3a98) |
-| Thu, 23 Apr 2026 04:31:01 GMT | Backup Files + .env Exposure Developers Ki Sabse Badi Galti: Config Files Se Credentials Nikalo! | Hacker MD | [Read More](https://medium.com/p/1432674639b8) |
-| Thu, 23 Apr 2026 04:29:38 GMT | Part 3: DLP in the Real World - When Theory Meets Reality | rootRS7 | [Read More](https://medium.com/p/07d0de9d435c) |
-| Thu, 23 Apr 2026 04:27:09 GMT | AOL support number UK customer service UK | Zuerevalexander | [Read More](https://medium.com/p/55c18613d351) |
-| Thu, 23 Apr 2026 04:17:00 GMT | BullGuard Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/cbb452e82518) |
-| Thu, 23 Apr 2026 04:01:35 GMT | Ransomware, fraud, and lawsuits drive cyber insurance claims to new peaks | Zeel Rajapara | [Read More](https://medium.com/p/92cc991e3acd) |
