@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Apr 2026 22:29:50 GMT | Compliance as Code: Why the EU AI Act Will Force Runtime Enforcement in 2026 | Otto Plane | [Read More](https://medium.com/p/d41d4bfe62e5) |
+| Thu, 23 Apr 2026 22:24:14 GMT | AI Governance as Infrastructure | Debasish Dash | [Read More](https://medium.com/p/c872f059ea40) |
+| Thu, 23 Apr 2026 21:59:45 GMT | Privacy Vulnerability in Firefox and TOR Browsers | Matthew.Rosenquist | [Read More](https://medium.com/p/d00563c27e06) |
+| Thu, 23 Apr 2026 21:59:11 GMT | Why Do Businesses Need Security Services? | Iron Line Defense | [Read More](https://medium.com/p/00bb7c2b5359) |
+| Thu, 23 Apr 2026 21:50:06 GMT | Special Token Injection in Operational Technology: How LLM Integrations Can Create Real-World… | Perparimimjeku | [Read More](https://medium.com/p/06be55951bdb) |
+| Thu, 23 Apr 2026 21:47:30 GMT | Data Privacy Governance | Petersmuditha | [Read More](https://medium.com/p/4f669ed035fd) |
 | Thu, 23 Apr 2026 21:38:06 GMT | How to Build a Winning Cyber Security and Compliance Strategy From the Ground Up | Fortnexs Shield | [Read More](https://medium.com/p/fb17c65c7138) |
 | Thu, 23 Apr 2026 21:37:49 GMT | TryHackMe SOC Analyst Road Map Part-27 | safa kaya | [Read More](https://medium.com/p/c95b82314b40) |
 | Thu, 23 Apr 2026 21:30:13 GMT | ISO 27001: Security Shield or Incident Magnet? | Aldo Pino | [Read More](https://medium.com/p/fddaabe955ed) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Apr 2026 15:34:47 GMT | Modern ELV and Security Systems in Dubai: Role of Leading ELV Companies | Vastechoffpage | [Read More](https://medium.com/p/95fa2f764fa7) |
 | Thu, 23 Apr 2026 15:28:53 GMT | Security Comparison: How Advanced Encryption Protects Your Collateral. | vigej91793d] | [Read More](https://medium.com/p/d853e4c97b73) |
 | Thu, 23 Apr 2026 15:20:37 GMT | I Spent My Life in Fight-or-Flight. He Taught Me How to Stay. | With love, Ninu. | [Read More](https://medium.com/p/c1dc47858159) |
-| Thu, 23 Apr 2026 15:18:40 GMT | One Phone Number = Unlimited Free Meals at California Burrito ️ | Anudeep Vysyaraju | [Read More](https://medium.com/p/7956c5f10481) |
-| Thu, 23 Apr 2026 15:17:29 GMT | The curl line; We need to defend faster | Evangelos Pappas | [Read More](https://medium.com/p/0dfecfa5b226) |
-| Thu, 23 Apr 2026 15:09:17 GMT | When the World Stops in a Waiting Room | Lenka | [Read More](https://medium.com/p/9e3bd37d5915) |
-| Thu, 23 Apr 2026 15:08:26 GMT | Day 23: I Built a Fully Functional SOC Home Lab From Scratch | Oyeniyioluwanifemi | [Read More](https://medium.com/p/b14f4f49e3c6) |
-| Thu, 23 Apr 2026 15:07:37 GMT | M-Cognito: Digital National Security | Rastko Lulic (Smiley) | [Read More](https://medium.com/p/2f29cedcf2c8) |
-| Thu, 23 Apr 2026 15:01:01 GMT | AI is Replacing GRC Analysts | Irene A. Gil | [Read More](https://medium.com/p/1ae41cada83b) |
