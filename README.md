@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Apr 2026 21:38:06 GMT | How to Build a Winning Cyber Security and Compliance Strategy From the Ground Up | Fortnexs Shield | [Read More](https://medium.com/p/fb17c65c7138) |
+| Thu, 23 Apr 2026 21:37:49 GMT | TryHackMe SOC Analyst Road Map Part-27 | safa kaya | [Read More](https://medium.com/p/c95b82314b40) |
+| Thu, 23 Apr 2026 21:30:13 GMT | ISO 27001: Security Shield or Incident Magnet? | Aldo Pino | [Read More](https://medium.com/p/fddaabe955ed) |
+| Thu, 23 Apr 2026 21:25:52 GMT | Niching Identity Security when it’s the Floor, is WILD! | Tia B | [Read More](https://medium.com/p/bff125601f6f) |
+| Thu, 23 Apr 2026 21:23:31 GMT | Porch Pirate Alert  Don’t Let Them Steal Your Packages! | Tell Your Parents Security | [Read More](https://medium.com/p/61501a8689d9) |
+| Thu, 23 Apr 2026 21:17:44 GMT | SOC166 — JavaScript Code Detected in Requested URL | C. L. | [Read More](https://medium.com/p/98a16274d159) |
+| Thu, 23 Apr 2026 21:15:40 GMT | XenServer Ortamlarında Güvenli Altyapı Mimarisi | Serdar Göksu | [Read More](https://medium.com/p/cd7c48b6a53f) |
+| Thu, 23 Apr 2026 21:12:22 GMT | When AI Audits Privacy, Who Draws the Line? | Chioma Kamalu | [Read More](https://medium.com/p/2669bda9d7d4) |
+| Thu, 23 Apr 2026 21:04:10 GMT | WebVersePro Labs — Challenge: Fermata Writeup (Reflected XSS) | Zor0ark | [Read More](https://medium.com/p/2db9b3f162f3) |
+| Thu, 23 Apr 2026 21:01:01 GMT | Unfiltered Restart — Day 55: Interviews, Day 4 + Cosplans continued | Maximillian Rueda | [Read More](https://medium.com/p/12bd390d7e82) |
+| Thu, 23 Apr 2026 20:59:28 GMT | The Document Security Trap: Why Your PDFs and Private Files Are Not Safe Online | Avryxoofficial | [Read More](https://medium.com/p/1d40ee5c6d25) |
+| Thu, 23 Apr 2026 20:56:54 GMT | HTB SOC Sherlock: JustSomePages | WildPasta | [Read More](https://medium.com/p/851dcbc3bfd5) |
+| Thu, 23 Apr 2026 20:54:36 GMT | AI Security Scanner for Python | Ahmet Katmer | [Read More](https://medium.com/p/08330e23ad13) |
+| Thu, 23 Apr 2026 20:53:31 GMT | Full System Compromise via Chained API Vulnerabilities - OpenVault Bank | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/c8980c901b93) |
+| Thu, 23 Apr 2026 20:51:52 GMT | AI Security Path- TryHackMe- Module 2(Part 2) | Swarupa Jeedimetla | [Read More](https://medium.com/p/40cf64801b51) |
 | Thu, 23 Apr 2026 20:41:54 GMT | Exploiting the Infamous vsftpd 2.3.4 Backdoor: A Metasploitable 2 Walkthrough | Ebube uzomba | [Read More](https://medium.com/p/5bf8a180e25b) |
 | Thu, 23 Apr 2026 20:39:09 GMT | AI-Powered Cyberattacks: How Generative AI is Changing the Threat Landscape | HARSHAD SHEELWANT | [Read More](https://medium.com/p/dc4cc5384126) |
 | Thu, 23 Apr 2026 20:36:38 GMT | Overwriting Process Creation Kernel Callbacks | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8c9f73980eb7) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Apr 2026 15:08:26 GMT | Day 23: I Built a Fully Functional SOC Home Lab From Scratch | Oyeniyioluwanifemi | [Read More](https://medium.com/p/b14f4f49e3c6) |
 | Thu, 23 Apr 2026 15:07:37 GMT | M-Cognito: Digital National Security | Rastko Lulic (Smiley) | [Read More](https://medium.com/p/2f29cedcf2c8) |
 | Thu, 23 Apr 2026 15:01:01 GMT | AI is Replacing GRC Analysts | Irene A. Gil | [Read More](https://medium.com/p/1ae41cada83b) |
-| Thu, 23 Apr 2026 14:59:35 GMT | Infinity Shell TryHackMe (Web Forensics) Blue Team CTF | Efe Özel | [Read More](https://medium.com/p/833a36928fa1) |
-| Thu, 23 Apr 2026 14:56:20 GMT | Review: CESP-ADCS: Diving Deep into Active Directory Certificate Services with Altered Security | Andreas Regli | [Read More](https://medium.com/p/0de312bcce5f) |
-| Thu, 23 Apr 2026 14:55:28 GMT | BTL1 vs BTL2 vs CCDL2: Which Blue Team Certification Is Right for You? | Andreas Regli | [Read More](https://medium.com/p/08862f85b320) |
-| Thu, 23 Apr 2026 14:49:16 GMT | ZK Fuzzing: Valentin Wüstholz Has Surfaced 30+ Critical Bugs in ZK Compilers and zkVMs | Irene Basaglia | [Read More](https://medium.com/p/cdd6e1ff529e) |
-| Thu, 23 Apr 2026 14:46:01 GMT | [FORECAST] Iran’s Cyber Window Stays Open — But the Novelty Bar Is Tougher Now (Updated… | Wes Young | [Read More](https://medium.com/p/f0682b1c33a4) |
-| Thu, 23 Apr 2026 14:41:01 GMT | Stop Learning — Start Mastering These Cybersecurity Tools in 2026 ️ | Karanam Shrivasta | [Read More](https://medium.com/p/d410df1386e7) |
-| Thu, 23 Apr 2026 14:40:02 GMT | Why IBM Z Is the Most Secure Computer You’ve Never Used | Tushar Biswas | [Read More](https://medium.com/p/daf239d4f01f) |
-| Thu, 23 Apr 2026 14:33:25 GMT | AI System Reconnaissance (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/1037a8bffc6f) |
-| Thu, 23 Apr 2026 14:33:07 GMT | The Illusion of Security: Kubernetes Secrets and the etcd Problem | Omkar Patil | [Read More](https://medium.com/p/c07f15ea0e63) |
-| Thu, 23 Apr 2026 14:18:40 GMT | AI Security Automation Is Not About Speed | Scottcmcmahan | [Read More](https://medium.com/p/d984baee8f69) |
-| Thu, 23 Apr 2026 14:15:59 GMT | S3: When Good Features Create Bad Security | Kavita Mittal | [Read More](https://medium.com/p/fef76e9b678c) |
-| Thu, 23 Apr 2026 14:08:07 GMT | Why Systems Don’t Get Adopted by Yuna Matushak | Yuna Matushak | [Read More](https://medium.com/p/276ed07cc44d) |
-| Thu, 23 Apr 2026 14:03:53 GMT | I Used One Google Search to Find Exposed API Keys, Databases, and Cloud Secrets | oldman | [Read More](https://medium.com/p/be95bd954cfc) |
-| Thu, 23 Apr 2026 13:59:06 GMT | The Best Laptops Hackers Don’t Tell You About | Shahzaib | [Read More](https://medium.com/p/c1d549f0a69a) |
-| Thu, 23 Apr 2026 13:57:34 GMT | Address Poisoning Attacks: How Hackers Exploit Your Copy-Paste Habit | Réka Molnár | [Read More](https://medium.com/p/0727c51d47cd) |
