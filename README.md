@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Apr 2026 02:31:01 GMT | Fuzzing 101: How Security Researchers Find Bugs Before Hackers Do | Parth Patel | [Read More](https://medium.com/p/7ed2286da4dd) |
+| Thu, 23 Apr 2026 02:30:47 GMT | “Files Will Be Deleted Today”? I Knew It Was a Scam in Seconds | Jim Columbus | [Read More](https://medium.com/p/47bc0822b900) |
+| Thu, 23 Apr 2026 02:25:14 GMT | Analysis of Exploitation Patterns and Exposure Risks in Fortinet FortiClient EMS (CVE-2026–35616) | Criminal IP | [Read More](https://medium.com/p/9c0fabf6a9d3) |
+| Thu, 23 Apr 2026 02:03:54 GMT | The Authentication Gap: What Happens After You Prove Who You Are? | Angel Tomala-Reyes | [Read More](https://medium.com/p/9665ceede1ba) |
+| Thu, 23 Apr 2026 01:28:42 GMT | Kubernetes 1.36 Haru arrived !!!! | Mohankumar Mani | [Read More](https://medium.com/p/e56013f8d7d9) |
+| Thu, 23 Apr 2026 01:18:08 GMT | How Amazon Leo’s 1 Gbps Aviation Antenna Rewires the Sky | Ticvic Technologies | [Read More](https://medium.com/p/622d258bea53) |
+| Thu, 23 Apr 2026 01:16:57 GMT | After 4 Years in SOC, I’m Pivoting to IAM — Here’s Why (And What I Wish I’d Known Sooner) | Gracie Emmanuel | [Read More](https://medium.com/p/5497298fc9ee) |
+| Thu, 23 Apr 2026 01:16:00 GMT | From Local Agent to Cloud Service: Deploying a Security Triage Agent on AWS Bedrock AgentCore | Austin McCoy | [Read More](https://medium.com/p/d58a81941530) |
+| Thu, 23 Apr 2026 01:07:35 GMT | What Is a Firewall? How Networks Allow and Block Traffic | Mutcherla Jayani | [Read More](https://medium.com/p/24bad4683ad9) |
+| Thu, 23 Apr 2026 01:03:30 GMT | What is Soft Life, Hard Truths? | Soft Life, Hard Truths | [Read More](https://medium.com/p/150bc2b704b6) |
+| Thu, 23 Apr 2026 01:02:21 GMT | Construction Site Security: Why Your Build Can’t Afford to Go Unprotected | Uniworth security Editorial | [Read More](https://medium.com/p/d870048b7bda) |
+| Thu, 23 Apr 2026 01:01:03 GMT | SSH Tunneling: The Underrated Superpower Every Developer Should Know | bektiaw | [Read More](https://medium.com/p/e1399bf7e9ea) |
+| Thu, 23 Apr 2026 00:58:15 GMT | CSP bypass and Dangling Markup Xss | 13v! ⚔️ | [Read More](https://medium.com/p/4f6d66a32073) |
+| Thu, 23 Apr 2026 00:57:54 GMT | DOM Xss | 13v! ⚔️ | [Read More](https://medium.com/p/582d75da84e5) |
+| Thu, 23 Apr 2026 00:46:17 GMT | Advanced Nmap — SMB Enumeration, OS Detection & Suspicious PHP Files | Juan Manuel Yepes | [Read More](https://medium.com/p/05c1604f0689) |
+| Thu, 23 Apr 2026 00:34:06 GMT | Your SOC Team is getting Tired? I know right!!! | Yasser Raddadi | [Read More](https://medium.com/p/6953eafc111b) |
+| Thu, 23 Apr 2026 00:31:01 GMT | Cape Cellular the FBI Honeypot Trap | Samuel Brice | [Read More](https://medium.com/p/cf89540a22ba) |
+| Thu, 23 Apr 2026 00:01:34 GMT | Hacking Clankers Market b01lers CTF Writeup | S0n1c_404 | [Read More](https://medium.com/p/072c4e849e9c) |
+| Wed, 22 Apr 2026 23:52:06 GMT | What is a Shell? | 7FINGER-KNIGHT-HACK | [Read More](https://medium.com/p/2fc137356d74) |
 | Wed, 22 Apr 2026 23:45:15 GMT | ARP poisoning and man-in-the-middle attacks | Ilgar Alakbarov | [Read More](https://medium.com/p/33a4502e0ad2) |
 | Wed, 22 Apr 2026 23:39:11 GMT | Authentication bypass via unauthenticated JWT generation on a telecom provider | Amrgomaa | [Read More](https://medium.com/p/78df29d88261) |
 | Wed, 22 Apr 2026 23:36:08 GMT | Report: April 16 — April 22, 2026 | CCTT INC. | [Read More](https://medium.com/p/f9a96fdf85b2) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 22 Apr 2026 17:30:50 GMT | ACCESS IS THE REAL ATTACK SURFACE | John Doe 007 | [Read More](https://medium.com/p/b7d2d7eb7c4f) |
 | Wed, 22 Apr 2026 17:30:45 GMT | A Cyber Defense Architect Specializing in Ethical Hacking and Dark Web Monitoring | Vahid Ali | [Read More](https://medium.com/p/1160abd5689b) |
 | Wed, 22 Apr 2026 17:29:33 GMT | Best Drinks and Appetizers Near Scarborough — Your Ultimate Night Out Guide | Leobarandgrill | [Read More](https://medium.com/p/9050d10b11b6) |
-| Wed, 22 Apr 2026 17:23:59 GMT | How Network Security Assessments Saved Businesses from Cyber Attacks | Lumiversesolution | [Read More](https://medium.com/p/aba5fad64689) |
-| Wed, 22 Apr 2026 17:20:26 GMT | Dev Diaries Write Up — cat0x01 | cat0x01 | [Read More](https://medium.com/p/6ff308f22e13) |
-| Wed, 22 Apr 2026 17:14:04 GMT | The Day $50M Vanished on Three Signatures — And No One Read the Alerts | Kaneshiro | [Read More](https://medium.com/p/41f7b74b0a97) |
-| Wed, 22 Apr 2026 17:12:57 GMT | WhatsApp Plus Arrives: Inside Meta’s New Paid Subscription Strategy for the World’s Biggest… | eL Njas!™ | [Read More](https://medium.com/p/d50115f6254f) |
-| Wed, 22 Apr 2026 17:11:21 GMT | Bagaimana Satu Akun Tanpa Pre-Auth Bisa Hancurkan Seluruh Infrastruktur Perusahaan | MUHAMAD FACHRI FUNANDAR | [Read More](https://medium.com/p/1ad937181334) |
-| Wed, 22 Apr 2026 17:11:07 GMT | Why data governance is suddenly everywhere | Becky Kintu | [Read More](https://medium.com/p/debe0952fcf1) |
-| Wed, 22 Apr 2026 17:01:03 GMT | The US-EU Relationship: Security and the Transatlantic Partnership | UNC CES | [Read More](https://medium.com/p/86683690d7aa) |
-| Wed, 22 Apr 2026 17:01:03 GMT | What the Drift Hack Teaches Every Solana Token Creator About Security | J Tools | [Read More](https://medium.com/p/f4628bcfdf67) |
-| Wed, 22 Apr 2026 17:01:03 GMT | The Bravery of Being Broken: Why Your Healing is Your Only True North | Vanshika Choudhary | [Read More](https://medium.com/p/5c79ba6a361e) |
-| Wed, 22 Apr 2026 16:54:55 GMT | Understanding Darknet Drug Market Trends in 2026 | Tor BBB | [Read More](https://medium.com/p/cb22437276c7) |
-| Wed, 22 Apr 2026 16:54:09 GMT | I networked with tech industry professionals….and | Vishnu U | [Read More](https://medium.com/p/6f80757261ee) |
-| Wed, 22 Apr 2026 16:45:33 GMT | How I Found 46+ Cybersecurity & Ethical Hacking PDFs in One Place (Beginner to Advanced) | Arjithackthon | [Read More](https://medium.com/p/fe20d237693f) |
-| Wed, 22 Apr 2026 16:43:09 GMT | Detecting Malicious Insider Activity: A Technical Detection Engineering Guide | Andrey Pautov | [Read More](https://medium.com/p/3c3b41e95e82) |
-| Wed, 22 Apr 2026 16:39:18 GMT | Vercel Hacked: How One Infected Laptop Compromised a Billion Dollar Platform | Suyog Patil | [Read More](https://medium.com/p/bf353c01b9c5) |
-| Wed, 22 Apr 2026 16:34:53 GMT | How I Built a Secure Password Manager with MERN — Design Decisions, Trade-offs & Real-World… | Geetanjali | [Read More](https://medium.com/p/1edb493b5e66) |
-| Wed, 22 Apr 2026 16:29:29 GMT | Chaining Origin IP Leak to Blind SSRF | Tyreek Haynes | [Read More](https://medium.com/p/1c26c329de87) |
-| Wed, 22 Apr 2026 16:26:33 GMT | Don’t Ask an LLM “Is This Safe?” — The Case for Deterministic Layer 1 | Yaku | [Read More](https://medium.com/p/5c0ec907d544) |
-| Wed, 22 Apr 2026 16:26:19 GMT | Breaking Into Cybersecurity in 2026 — A Series (Part I: Start Here) | Irene A. Gil | [Read More](https://medium.com/p/6c2da3232a7e) |
-| Wed, 22 Apr 2026 16:23:14 GMT | Emergency Patch Alert: Why Microsoft’s .NET 10.0.7 Update Should Be Your Top Priority | Sharanraju | [Read More](https://medium.com/p/cd86f4af437e) |
