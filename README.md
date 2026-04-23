@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Apr 2026 16:47:33 GMT | From Threat Profile to Residual Risk: A Practitioner’s Approach to Cyber Risk Assessment | Eran Atias | [Read More](https://medium.com/p/8a79a7732226) |
+| Thu, 23 Apr 2026 16:44:53 GMT | SonicWall TZ500 — TZ Series 8-Port UTM Firewall Appliance Review | Temma | [Read More](https://medium.com/p/bdf18271a7a2) |
+| Thu, 23 Apr 2026 16:43:43 GMT | # The Node.js Upload Endpoint You Forgot Is a Liability | JustSouichi | [Read More](https://medium.com/p/9c0ccd263a6f) |
+| Thu, 23 Apr 2026 16:42:52 GMT | Android Trojan: The Hidden App That Looks Safe but Steals Everything | Natarajan C K | [Read More](https://medium.com/p/63ed1b44ef41) |
+| Thu, 23 Apr 2026 16:40:34 GMT | From Scripts to Systems: How Modern Cybersecurity Is Becoming an AI-Driven Battlefield | Matad0r | [Read More](https://medium.com/p/4a5cdb954afc) |
+| Thu, 23 Apr 2026 16:39:51 GMT | Contemporary Cybersecurity Plans of MSPs and SMBs: An Action Guide | Vijilan | [Read More](https://medium.com/p/99015782b9a7) |
+| Thu, 23 Apr 2026 16:38:38 GMT | Security Assessment with Trivy: From Vulnerability Detection to Remediation | byteGirl | [Read More](https://medium.com/p/15e123b260b9) |
+| Thu, 23 Apr 2026 16:34:45 GMT | After the Vercel Incident, Should You Move to a VPS? | SOVANNARO | [Read More](https://medium.com/p/cd0a125dc0fa) |
+| Thu, 23 Apr 2026 16:33:46 GMT | The Bleeding Edge: Security Fails at the Edges. | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/01238699dc32) |
+| Thu, 23 Apr 2026 16:32:03 GMT | IPv4 Network | IPv4 TradeHub | [Read More](https://medium.com/p/83e0ceccbfd1) |
+| Thu, 23 Apr 2026 16:29:30 GMT | Security Concepts Every Java Developer in Banking Should Master: Part 4 | Kalyani Dagde | [Read More](https://medium.com/p/a9d3ed742105) |
+| Thu, 23 Apr 2026 16:21:15 GMT | I Scanned 50 Small Business Websites: Here’s What They All Got Wrong | Webshield | [Read More](https://medium.com/p/eb76a62cbb6f) |
+| Thu, 23 Apr 2026 16:18:49 GMT | What Is Phishing And How To Spot A Phishing Attempt | Adeyemi Aisha | [Read More](https://medium.com/p/0260532a205e) |
+| Thu, 23 Apr 2026 16:17:36 GMT | The 8-Point Website Security Checklist Every Site Owner Should Run Today | Webshield | [Read More](https://medium.com/p/09f7a81ebfc8) |
+| Thu, 23 Apr 2026 16:12:50 GMT | An in-depth analysis of public safety in Sydney amidst the economic downturn of the post-pandemic… | Yuxuan Lu (Luke) | [Read More](https://medium.com/p/c175183b86f7) |
+| Thu, 23 Apr 2026 16:07:51 GMT | When Protection Should Appear Only at the Right Moment | DARCA-crypto/fiat bank | [Read More](https://medium.com/p/5a33d0b3e5b6) |
+| Thu, 23 Apr 2026 16:05:53 GMT | Cybersecurity Is Not Just About Attacks Anymore: Why Law, Trust, and Governance Define the Next Era… | Daniel Isaac E | [Read More](https://medium.com/p/0066cf5223ec) |
+| Thu, 23 Apr 2026 16:03:13 GMT | T1566: Phishing | Serhan Eraslan | [Read More](https://medium.com/p/1a717f23c7a2) |
+| Thu, 23 Apr 2026 16:01:12 GMT | The Number That Stopped Me Mid-Scroll - Stanford AI Index 2026 | Sachin Sharma - Cloud & Business Transformation | [Read More](https://medium.com/p/a802c25b62f9) |
+| Thu, 23 Apr 2026 16:00:17 GMT | Hacking Is Evolving And No Application Is Safe Anymore | Iqra Rafiq Khan | [Read More](https://medium.com/p/f58b951ed84e) |
+| Thu, 23 Apr 2026 15:56:31 GMT | Entra ID Security Defaults You Should Change | Nate Hess | [Read More](https://medium.com/p/7d4e8a760fb2) |
+| Thu, 23 Apr 2026 15:45:43 GMT | When Cultural Platforms Normalize Extremism: Lessons from Le Bourget | Raquel Castro | [Read More](https://medium.com/p/9876b7a21fa7) |
+| Thu, 23 Apr 2026 15:34:47 GMT | Modern ELV and Security Systems in Dubai: Role of Leading ELV Companies | Vastechoffpage | [Read More](https://medium.com/p/95fa2f764fa7) |
+| Thu, 23 Apr 2026 15:28:53 GMT | Security Comparison: How Advanced Encryption Protects Your Collateral. | vigej91793d] | [Read More](https://medium.com/p/d853e4c97b73) |
+| Thu, 23 Apr 2026 15:20:37 GMT | I Spent My Life in Fight-or-Flight. He Taught Me How to Stay. | With love, Ninu. | [Read More](https://medium.com/p/c1dc47858159) |
+| Thu, 23 Apr 2026 15:18:40 GMT | One Phone Number = Unlimited Free Meals at California Burrito ️ | Anudeep Vysyaraju | [Read More](https://medium.com/p/7956c5f10481) |
+| Thu, 23 Apr 2026 15:17:29 GMT | The curl line; We need to defend faster | Evangelos Pappas | [Read More](https://medium.com/p/0dfecfa5b226) |
 | Thu, 23 Apr 2026 15:09:17 GMT | When the World Stops in a Waiting Room | Lenka | [Read More](https://medium.com/p/9e3bd37d5915) |
 | Thu, 23 Apr 2026 15:08:26 GMT | Day 23: I Built a Fully Functional SOC Home Lab From Scratch | Oyeniyioluwanifemi | [Read More](https://medium.com/p/b14f4f49e3c6) |
 | Thu, 23 Apr 2026 15:07:37 GMT | M-Cognito: Digital National Security | Rastko Lulic (Smiley) | [Read More](https://medium.com/p/2f29cedcf2c8) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Apr 2026 10:19:44 GMT | The Autonomous Security Moment: When AI Pentesting Stopped Being Assisted and Became Autonomous | Baozilla, Let's go! | [Read More](https://medium.com/p/89ae02b7c0fb) |
 | Thu, 23 Apr 2026 10:13:05 GMT | From Full Disclosure to Zero-Day Markets: The Evolution of Offensive Security — and What Comes Next | Yua Mikanana | [Read More](https://medium.com/p/d67826ec5fde) |
 | Thu, 23 Apr 2026 10:07:27 GMT | How Hackers Steal Your Passwords in 2026: 5 Common Methods and How to Stay Safe | Manula Udyoga | [Read More](https://medium.com/p/5370b8398227) |
-| Thu, 23 Apr 2026 10:01:03 GMT | Your .NET App Is Not Secure — Even If You Use HTTPS | Mohammad Shoeb | [Read More](https://medium.com/p/4e21e2ea32a6) |
-| Thu, 23 Apr 2026 09:54:21 GMT | Cyber Ninja CTF final of Oteria Cyber School Review - unintended solves stories | SadInfinite | [Read More](https://medium.com/p/c6a57cecfec2) |
-| Thu, 23 Apr 2026 09:52:40 GMT | Why Is Cybersecurity Risk Management Important? | Aditya | [Read More](https://medium.com/p/25cca0f25359) |
-| Thu, 23 Apr 2026 09:50:36 GMT | Visa VAMP Threshold Update: What the April 1, 2026, Change Means for Merchants | CelerisPay | [Read More](https://medium.com/p/cdcdbbc3ba02) |
-| Thu, 23 Apr 2026 09:49:30 GMT | BRD, FRD, SRS — Three Documents Walk Into a Meeting. Only One Gets Read. | AskWhyFirst | [Read More](https://medium.com/p/0c06a9e6a109) |
-| Thu, 23 Apr 2026 09:49:10 GMT | Contextual AI is Changing How We Detect Phishing — And It’s About Time | Asatisanya | [Read More](https://medium.com/p/da75c88f8f1c) |
-| Thu, 23 Apr 2026 09:45:35 GMT | Top Risks of Ignoring SDLC Gap Analysis | Bindu Dhingra | [Read More](https://medium.com/p/180494862302) |
-| Thu, 23 Apr 2026 09:43:36 GMT | SAP Datasphere Training Course - Training In Ameerpet | naveenk visualpath | [Read More](https://medium.com/p/908f9e264cb6) |
-| Thu, 23 Apr 2026 09:43:32 GMT | Building a cybersecurity agent with n8n: automating security operations | h@shtalk | [Read More](https://medium.com/p/98cae0b04c19) |
-| Thu, 23 Apr 2026 09:43:23 GMT | Module 3 - Foundations of Cybersecurity - Google Professional Cybersecurity Certificate | Aruldeshwal | [Read More](https://medium.com/p/c2d951e0bb59) |
-| Thu, 23 Apr 2026 09:39:37 GMT | AI Security Doesn’t Fail at the Perimeter. It Fails Here | Suny Choudhary | [Read More](https://medium.com/p/f916443f612b) |
-| Thu, 23 Apr 2026 09:32:11 GMT | The AI Innovation Paradox: Why AI Risk Management Is Your New Competitive Edge | SpotlightersPost | [Read More](https://medium.com/p/298c804c8195) |
-| Thu, 23 Apr 2026 09:25:49 GMT | Step-by-Step Guide to Ethical Hacking Certification | iCertglobal | [Read More](https://medium.com/p/393894931df0) |
-| Thu, 23 Apr 2026 09:24:25 GMT | How to build a secure cardholder data environment through PCI DSS compliance? | Meerab Khan | [Read More](https://medium.com/p/48070a9048f9) |
-| Thu, 23 Apr 2026 09:23:51 GMT | How to Set Up a VPN on Mac: Step‑by‑Step Guide | EVA VPN | [Read More](https://medium.com/p/4d72143cca2d) |
-| Thu, 23 Apr 2026 09:14:00 GMT | AI Models & Data — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/1fec2046a7d7) |
-| Thu, 23 Apr 2026 09:12:22 GMT | Unveiling the Shadows: A Comprehensive Exploration of the Dark Web | Nebhani Vinita | [Read More](https://medium.com/p/66af2d1d6eee) |
-| Thu, 23 Apr 2026 09:01:43 GMT | The 2026 DevOps Security Playbook: Dissecting the Year’s Biggest CVEs and How AI is Rewriting the… | Vidhi Jayeswal | [Read More](https://medium.com/p/207e1a8432e9) |
-| Thu, 23 Apr 2026 08:59:28 GMT | APIs Don’t Get Hacked. They Get Misused (And That’s Why PCI DSS Fails) | Pentest_Testing_Corp | [Read More](https://medium.com/p/0daaefd4ba7e) |
-| Thu, 23 Apr 2026 08:58:50 GMT | Your Firewall Is Not Enough: The Three Network Security Controls That Actually Stop Cyberattacks | A.M | [Read More](https://medium.com/p/03917335dfd3) |
-| Thu, 23 Apr 2026 08:49:29 GMT | $3,134 Bug Bounty: How a Researcher Hacked Google with a Simple URL Trick | Raja Uzair Abdullah | [Read More](https://medium.com/p/aa4d52c52d26) |
-| Thu, 23 Apr 2026 08:48:37 GMT | Real-time protection - Smart cleaning - Cyber defense made simple Louie Peters Minakshi Jha Marco… | Viginet Pvt Ltd | [Read More](https://medium.com/p/40e58b365776) |
-| Thu, 23 Apr 2026 08:45:20 GMT | Container-Native Security: The Pros and Cons of the Sidecar Pattern in Microservices | John Hawkins | [Read More](https://medium.com/p/3810c2d55ff8) |
-| Thu, 23 Apr 2026 08:02:31 GMT | What Makes You a Christian? — The Ice Breaks | SheWrites | [Read More](https://medium.com/p/b565e0c192dc) |
-| Thu, 23 Apr 2026 08:01:45 GMT | The Space Between Today’s Breach and Tomorrow’s Threat | Sruthisraman | [Read More](https://medium.com/p/9ca4b66d1b9f) |
-| Thu, 23 Apr 2026 08:01:01 GMT | From the archive: The computer leasing business viewed upside-down | Machina Speculatrix | [Read More](https://medium.com/p/56e9886dabd4) |
-| Thu, 23 Apr 2026 07:44:27 GMT | Kivqoro Perspective: Analyzing the $3.5M Volo Exploit and Ecosystem Security | Kivqoro | [Read More](https://medium.com/p/c5d97dcb7b6e) |
