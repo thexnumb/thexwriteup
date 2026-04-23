@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Apr 2026 23:45:45 GMT | Day 10: Bypassing SameSite Lax with Method Override (CSRF Lab Walkthrough) | zero_day | [Read More](https://medium.com/p/aed3f70cdea8) |
+| Thu, 23 Apr 2026 23:42:14 GMT | How To Build Linux-SysAdmin-Project | Kareem Seddik | [Read More](https://medium.com/p/77f97c6c1632) |
+| Thu, 23 Apr 2026 23:41:58 GMT | Sarah Fed the Phish: A True Story + Why Password Reset Emails Are Everywhere in 2026” | Kevin Kelly | [Read More](https://medium.com/p/8641738ad22a) |
+| Thu, 23 Apr 2026 23:29:41 GMT | The Digital Fortress Has a New Heart: Making Peace with AI in Cybersecurity | Albatros | [Read More](https://medium.com/p/b7bdd60dfe8b) |
+| Thu, 23 Apr 2026 23:23:28 GMT | XSS armazenado + HTTPOnly | Emerson Pedra | [Read More](https://medium.com/p/2ea59ec29d8b) |
+| Thu, 23 Apr 2026 23:22:01 GMT | The Skeleton of WPS: Why Your Router is Handing Out Keys to Strangers | Atindra Girish | [Read More](https://medium.com/p/098cb4f3c444) |
+| Thu, 23 Apr 2026 23:21:38 GMT | Remote Interviews Fail. Trust Fails. Projects Fail. | Chacko | [Read More](https://medium.com/p/e46094c43c0d) |
+| Thu, 23 Apr 2026 23:12:57 GMT | Splunk Search Ekranı: Arayüzün Detaylı İncelenmesi | Ahmet Badem | [Read More](https://medium.com/p/fa8c3249ec6a) |
+| Thu, 23 Apr 2026 23:12:13 GMT | Race Condition Allows Users to Obtain More Than 1 Free Domain | rozzen | [Read More](https://medium.com/p/a1db2b12a380) |
+| Thu, 23 Apr 2026 23:11:01 GMT | The Mythos Crisis: Why Anthropic’s Newest AI is “Breaking the Bank” | Arief Budi Santoso | [Read More](https://medium.com/p/3f03bdf51fa8) |
+| Thu, 23 Apr 2026 22:55:55 GMT | TryHackMe — Enterprise: Writeup | Taher Borgi | [Read More](https://medium.com/p/16ce47ec906b) |
 | Thu, 23 Apr 2026 22:29:50 GMT | Compliance as Code: Why the EU AI Act Will Force Runtime Enforcement in 2026 | Otto Plane | [Read More](https://medium.com/p/d41d4bfe62e5) |
 | Thu, 23 Apr 2026 22:24:14 GMT | AI Governance as Infrastructure | Debasish Dash | [Read More](https://medium.com/p/c872f059ea40) |
 | Thu, 23 Apr 2026 21:59:45 GMT | Privacy Vulnerability in Firefox and TOR Browsers | Matthew.Rosenquist | [Read More](https://medium.com/p/d00563c27e06) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Apr 2026 16:21:15 GMT | I Scanned 50 Small Business Websites: Here’s What They All Got Wrong | Webshield | [Read More](https://medium.com/p/eb76a62cbb6f) |
 | Thu, 23 Apr 2026 16:18:49 GMT | What Is Phishing And How To Spot A Phishing Attempt | Adeyemi Aisha | [Read More](https://medium.com/p/0260532a205e) |
 | Thu, 23 Apr 2026 16:17:36 GMT | The 8-Point Website Security Checklist Every Site Owner Should Run Today | Webshield | [Read More](https://medium.com/p/09f7a81ebfc8) |
-| Thu, 23 Apr 2026 16:12:50 GMT | An in-depth analysis of public safety in Sydney amidst the economic downturn of the post-pandemic… | Yuxuan Lu (Luke) | [Read More](https://medium.com/p/c175183b86f7) |
-| Thu, 23 Apr 2026 16:07:51 GMT | When Protection Should Appear Only at the Right Moment | DARCA-crypto/fiat bank | [Read More](https://medium.com/p/5a33d0b3e5b6) |
-| Thu, 23 Apr 2026 16:05:53 GMT | Cybersecurity Is Not Just About Attacks Anymore: Why Law, Trust, and Governance Define the Next Era… | Daniel Isaac E | [Read More](https://medium.com/p/0066cf5223ec) |
-| Thu, 23 Apr 2026 16:03:13 GMT | T1566: Phishing | Serhan Eraslan | [Read More](https://medium.com/p/1a717f23c7a2) |
-| Thu, 23 Apr 2026 16:01:12 GMT | The Number That Stopped Me Mid-Scroll - Stanford AI Index 2026 | Sachin Sharma - Cloud & Business Transformation | [Read More](https://medium.com/p/a802c25b62f9) |
-| Thu, 23 Apr 2026 16:00:17 GMT | Hacking Is Evolving And No Application Is Safe Anymore | Iqra Rafiq Khan | [Read More](https://medium.com/p/f58b951ed84e) |
-| Thu, 23 Apr 2026 15:56:31 GMT | Entra ID Security Defaults You Should Change | Nate Hess | [Read More](https://medium.com/p/7d4e8a760fb2) |
-| Thu, 23 Apr 2026 15:45:43 GMT | When Cultural Platforms Normalize Extremism: Lessons from Le Bourget | Raquel Castro | [Read More](https://medium.com/p/9876b7a21fa7) |
-| Thu, 23 Apr 2026 15:34:47 GMT | Modern ELV and Security Systems in Dubai: Role of Leading ELV Companies | Vastechoffpage | [Read More](https://medium.com/p/95fa2f764fa7) |
-| Thu, 23 Apr 2026 15:28:53 GMT | Security Comparison: How Advanced Encryption Protects Your Collateral. | vigej91793d] | [Read More](https://medium.com/p/d853e4c97b73) |
-| Thu, 23 Apr 2026 15:20:37 GMT | I Spent My Life in Fight-or-Flight. He Taught Me How to Stay. | With love, Ninu. | [Read More](https://medium.com/p/c1dc47858159) |
