@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Apr 2026 09:52:40 GMT | Why Is Cybersecurity Risk Management Important? | Aditya | [Read More](https://medium.com/p/25cca0f25359) |
+| Thu, 23 Apr 2026 09:49:10 GMT | Contextual AI is Changing How We Detect Phishing — And It’s About Time | Asatisanya | [Read More](https://medium.com/p/da75c88f8f1c) |
+| Thu, 23 Apr 2026 09:45:35 GMT | Top Risks of Ignoring SDLC Gap Analysis | Bindu Dhingra | [Read More](https://medium.com/p/180494862302) |
+| Thu, 23 Apr 2026 09:43:32 GMT | Building a cybersecurity agent with n8n: automating security operations | h@shtalk | [Read More](https://medium.com/p/98cae0b04c19) |
+| Thu, 23 Apr 2026 09:43:23 GMT | Module 3 - Foundations of Cybersecurity - Google Professional Cybersecurity Certificate | Aruldeshwal | [Read More](https://medium.com/p/c2d951e0bb59) |
+| Thu, 23 Apr 2026 09:39:37 GMT | AI Security Doesn’t Fail at the Perimeter. It Fails Here | Suny Choudhary | [Read More](https://medium.com/p/f916443f612b) |
+| Thu, 23 Apr 2026 09:32:11 GMT | The AI Innovation Paradox: Why AI Risk Management Is Your New Competitive Edge | SpotlightersPost | [Read More](https://medium.com/p/298c804c8195) |
+| Thu, 23 Apr 2026 09:25:49 GMT | Step-by-Step Guide to Ethical Hacking Certification | iCertglobal | [Read More](https://medium.com/p/393894931df0) |
+| Thu, 23 Apr 2026 09:24:25 GMT | How to build a secure cardholder data environment through PCI DSS compliance? | Meerab Khan | [Read More](https://medium.com/p/48070a9048f9) |
+| Thu, 23 Apr 2026 09:23:51 GMT | How to Set Up a VPN on Mac: Step‑by‑Step Guide | EVA VPN | [Read More](https://medium.com/p/4d72143cca2d) |
+| Thu, 23 Apr 2026 09:14:00 GMT | AI Models & Data — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/1fec2046a7d7) |
+| Thu, 23 Apr 2026 09:12:22 GMT | Unveiling the Shadows: A Comprehensive Exploration of the Dark Web | Nebhani Vinita | [Read More](https://medium.com/p/66af2d1d6eee) |
+| Thu, 23 Apr 2026 08:59:28 GMT | APIs Don’t Get Hacked. They Get Misused (And That’s Why PCI DSS Fails) | Pentest_Testing_Corp | [Read More](https://medium.com/p/0daaefd4ba7e) |
+| Thu, 23 Apr 2026 08:58:50 GMT | Your Firewall Is Not Enough: The Three Network Security Controls That Actually Stop Cyberattacks | A.M | [Read More](https://medium.com/p/03917335dfd3) |
+| Thu, 23 Apr 2026 08:49:29 GMT | $3,134 Bug Bounty: How a Researcher Hacked Google with a Simple URL Trick | Raja Uzair Abdullah | [Read More](https://medium.com/p/aa4d52c52d26) |
+| Thu, 23 Apr 2026 08:48:37 GMT | Real-time protection - Smart cleaning - Cyber defense made simple Louie Peters Minakshi Jha Marco… | Viginet Pvt Ltd | [Read More](https://medium.com/p/40e58b365776) |
+| Thu, 23 Apr 2026 08:45:20 GMT | Container-Native Security: The Pros and Cons of the Sidecar Pattern in Microservices | John Hawkins | [Read More](https://medium.com/p/3810c2d55ff8) |
+| Thu, 23 Apr 2026 08:02:31 GMT | What Makes You a Christian? — The Ice Breaks | SheWrites | [Read More](https://medium.com/p/b565e0c192dc) |
+| Thu, 23 Apr 2026 08:01:45 GMT | The Space Between Today’s Breach and Tomorrow’s Threat | Sruthisraman | [Read More](https://medium.com/p/9ca4b66d1b9f) |
+| Thu, 23 Apr 2026 08:01:01 GMT | From the archive: The computer leasing business viewed upside-down | Machina Speculatrix | [Read More](https://medium.com/p/56e9886dabd4) |
 | Thu, 23 Apr 2026 07:44:27 GMT | Kivqoro Perspective: Analyzing the $3.5M Volo Exploit and Ecosystem Security | Kivqoro | [Read More](https://medium.com/p/c5d97dcb7b6e) |
 | Thu, 23 Apr 2026 07:44:26 GMT | Hands-on Lab — Setting Up Wazuh Agent to the Wazuh Server | Hammam Awis Zukimi | [Read More](https://medium.com/p/2c3e728db200) |
 | Thu, 23 Apr 2026 07:39:21 GMT | How to Choose the Best Ethical Hacking Course After 12th for Beginners | cyber security Updates | [Read More](https://medium.com/p/a48ebf7ed624) |
@@ -93,23 +113,3 @@ are not the same thing | Khanh Nguyen | [Read More](https://medium.com/p/35014ea
 | Thu, 23 Apr 2026 00:34:06 GMT | Your SOC Team is getting Tired? I know right!!! | Yasser Raddadi | [Read More](https://medium.com/p/6953eafc111b) |
 | Thu, 23 Apr 2026 00:31:01 GMT | Cape Cellular the FBI Honeypot Trap | Samuel Brice | [Read More](https://medium.com/p/cf89540a22ba) |
 | Thu, 23 Apr 2026 00:01:34 GMT | Hacking Clankers Market b01lers CTF Writeup | S0n1c_404 | [Read More](https://medium.com/p/072c4e849e9c) |
-| Wed, 22 Apr 2026 23:52:06 GMT | What is a Shell? | 7FINGER-KNIGHT-HACK | [Read More](https://medium.com/p/2fc137356d74) |
-| Wed, 22 Apr 2026 23:45:15 GMT | ARP poisoning and man-in-the-middle attacks | Ilgar Alakbarov | [Read More](https://medium.com/p/33a4502e0ad2) |
-| Wed, 22 Apr 2026 23:39:11 GMT | Authentication bypass via unauthenticated JWT generation on a telecom provider | Amrgomaa | [Read More](https://medium.com/p/78df29d88261) |
-| Wed, 22 Apr 2026 23:36:08 GMT | Report: April 16 — April 22, 2026 | CCTT INC. | [Read More](https://medium.com/p/f9a96fdf85b2) |
-| Wed, 22 Apr 2026 23:31:01 GMT | Building an AI-powered authentication system with Temporal.io: lessons learnt | DiUS | [Read More](https://medium.com/p/f3fe835f6598) |
-| Wed, 22 Apr 2026 23:24:30 GMT | Threat Actors: Who is Targeting Your Network? | Mahdi | [Read More](https://medium.com/p/a5e1e6389b25) |
-| Wed, 22 Apr 2026 23:21:11 GMT | I Trained Myself to Be Easy to Leave | Mira Thorne | [Read More](https://medium.com/p/af69cf297d5d) |
-| Wed, 22 Apr 2026 23:21:01 GMT | Day 9: How I Bypassed Double CSRF Token Validation Using Only an IMG Tag | zero_day | [Read More](https://medium.com/p/5b78f8288183) |
-| Wed, 22 Apr 2026 23:13:01 GMT | ServMon - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/a40efd05dc49) |
-| Wed, 22 Apr 2026 23:11:34 GMT | The Face on the Screen Is Lying: How AI-Generated Content Is Fueling a New Era of Fraud and… | Travis Ray Caverhill | [Read More](https://medium.com/p/e32b15ae2d27) |
-| Wed, 22 Apr 2026 23:09:31 GMT | Cal.com Went Closed Source. Here’s Why That Terrifies Me (And Why You Should Care Too) | Andy Nguyen | [Read More](https://medium.com/p/7e57cce3a365) |
-| Wed, 22 Apr 2026 23:06:28 GMT | Security for Financial AI | Maryam .H | [Read More](https://medium.com/p/ed29b7e2b83c) |
-| Wed, 22 Apr 2026 22:36:29 GMT | Race Condition & Atomic Violation: Race-Free Denomination app | Alborz Nazari | [Read More](https://medium.com/p/240e43dfb4c8) |
-| Wed, 22 Apr 2026 22:34:39 GMT | The Problem With Permanent Chats (And What I Built Instead) | Sonu Samrat | [Read More](https://medium.com/p/e595a8ed03d2) |
-| Wed, 22 Apr 2026 22:27:49 GMT | TryHackMe — Capture! | Kira @ hKiSec | [Read More](https://medium.com/p/ee3d119d5f7f) |
-| Wed, 22 Apr 2026 21:57:39 GMT | How Much Do Security Services Cost? | Community Private Security | [Read More](https://medium.com/p/8caa8a536630) |
-| Wed, 22 Apr 2026 21:55:53 GMT | The Indicator of AI Risk and the Actual Risk | Francie Van Wirkus LLC | [Read More](https://medium.com/p/5e2a22a1c254) |
-| Wed, 22 Apr 2026 21:48:48 GMT | CyberDefender — Psexec Hunt Walkthrough | Serhan Kırca | [Read More](https://medium.com/p/a1b86547ff1e) |
-| Wed, 22 Apr 2026 21:37:45 GMT | من هو على حاتم؟ رؤية تقنية في عالم الأمن الرقمي وصناعة المحتوى | على حاتم (Ali Allam) | [Read More](https://medium.com/p/2bbc8a8d4c15) |
-| Wed, 22 Apr 2026 21:36:20 GMT | TryHackMe CTF ContAInment walkthrough | Konstantin Sakhchinskiy | [Read More](https://medium.com/p/245967c79ea3) |
