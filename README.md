@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Apr 2026 18:08:10 GMT | Analyzing GLOBAL GROUP (BlackLock) Artifacts | SIMKRA | [Read More](https://medium.com/p/72dabc14c500) |
+| Thu, 23 Apr 2026 18:00:17 GMT | AI Hacking Claims Spark Debate: Reality, Hype, and the Future of Cybersecurity | Jas | [Read More](https://medium.com/p/6cfdc652e290) |
+| Thu, 23 Apr 2026 17:56:35 GMT | Why the phishing advice you learned is dangerously out of date | Alex Solter | [Read More](https://medium.com/p/306f385eb467) |
+| Thu, 23 Apr 2026 17:56:01 GMT | Security Assessment — Pentesting: 23andMe Web Platform | Leen Adeeb | [Read More](https://medium.com/p/825cfa339e90) |
+| Thu, 23 Apr 2026 17:52:14 GMT | CIAM B2B Principles | Gaz | [Read More](https://medium.com/p/ae47effb54cb) |
+| Thu, 23 Apr 2026 17:51:10 GMT | The Compliance Trap: Why is SAQ D considered a “Silent Killer” for Fintechs? | Cyborgenic Assurance Private Limited | [Read More](https://medium.com/p/aa2688264b10) |
+| Thu, 23 Apr 2026 17:50:51 GMT | Malicious Google Ads Target Crypto Users — How Businesses Can Protect Their Wallets | Defend My Business | [Read More](https://medium.com/p/274828a6c4c2) |
+| Thu, 23 Apr 2026 17:48:42 GMT | The npm Supply Chain Is a Security Risk — Here’s What the Axios & Vercel Incidents Prove | Anuja khatri | [Read More](https://medium.com/p/ab96bc74c667) |
+| Thu, 23 Apr 2026 17:46:41 GMT | Using DNS over HTTPS to Build a Cleaner, Safer Digital Environment on Your PC. | Stack Architect | [Read More](https://medium.com/p/a85301e7788f) |
+| Thu, 23 Apr 2026 17:41:58 GMT | Docker Day 05: How to Create Images, Read Diffs, and Write Your First Dockerfile | Muhammad Kashif | [Read More](https://medium.com/p/02adf0f39aca) |
+| Thu, 23 Apr 2026 17:39:06 GMT | The GRC Platform CISOs Actually Need | Joao Silva | [Read More](https://medium.com/p/fc15faec106e) |
+| Thu, 23 Apr 2026 17:38:55 GMT | How I Found a Critical Bug Using Claude Desktop (Free) | Red Darkin | [Read More](https://medium.com/p/a626e8f3ed67) |
+| Thu, 23 Apr 2026 17:34:09 GMT | ​The Silent Threat: Why 435 Million People Just Changed How They View Digital Safety | Vishal Purohit | [Read More](https://medium.com/p/8e42b246ec20) |
+| Thu, 23 Apr 2026 17:22:41 GMT | How Easily Can Your Wi-Fi Be Hacked? I Tested My Own Hotspot to Find Out. | Alyan Tariq | [Read More](https://medium.com/p/49e04f82404e) |
+| Thu, 23 Apr 2026 17:22:05 GMT | Why I Object to Ohio House Bill 84 (From an Engineering Perspective) | Weston Bassler | [Read More](https://medium.com/p/22ef255584b5) |
+| Thu, 23 Apr 2026 17:19:06 GMT | Synthetic Cannabinoids on the Dark Web: Trends, Risks, and What’s Changing | Tor BBB | [Read More](https://medium.com/p/2c1d3b8b44b5) |
+| Thu, 23 Apr 2026 17:04:26 GMT | 10 CVEs, 16 Broken Endpoints, and a SECRET_KEY That Wasn’t Secret | Subhrajit Mohanty | [Read More](https://medium.com/p/50d046218f2e) |
+| Thu, 23 Apr 2026 17:01:02 GMT | Part 2 — Ghost Seller, Fake Phone: Mapping the Hidden Architecture of an ALPS Clone Device | C. Oscar Lawshea | [Read More](https://medium.com/p/2c0aa8f04a90) |
 | Thu, 23 Apr 2026 16:47:33 GMT | From Threat Profile to Residual Risk: A Practitioner’s Approach to Cyber Risk Assessment | Eran Atias | [Read More](https://medium.com/p/8a79a7732226) |
 | Thu, 23 Apr 2026 16:44:53 GMT | SonicWall TZ500 — TZ Series 8-Port UTM Firewall Appliance Review | Temma | [Read More](https://medium.com/p/bdf18271a7a2) |
 | Thu, 23 Apr 2026 16:43:43 GMT | # The Node.js Upload Endpoint You Forgot Is a Liability | JustSouichi | [Read More](https://medium.com/p/9c0ccd263a6f) |
@@ -57,6 +75,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Apr 2026 14:08:07 GMT | Why Systems Don’t Get Adopted by Yuna Matushak | Yuna Matushak | [Read More](https://medium.com/p/276ed07cc44d) |
 | Thu, 23 Apr 2026 14:03:53 GMT | I Used One Google Search to Find Exposed API Keys, Databases, and Cloud Secrets | oldman | [Read More](https://medium.com/p/be95bd954cfc) |
 | Thu, 23 Apr 2026 13:59:06 GMT | The Best Laptops Hackers Don’t Tell You About | Shahzaib | [Read More](https://medium.com/p/c1d549f0a69a) |
+| Thu, 23 Apr 2026 13:57:34 GMT | Address Poisoning Attacks: How Hackers Exploit Your Copy-Paste Habit | Réka Molnár | [Read More](https://medium.com/p/0727c51d47cd) |
 | Thu, 23 Apr 2026 13:56:27 GMT | I Spoke, and It Broke Me More | Ilmina Imi | [Read More](https://medium.com/p/c530023be196) |
 | Thu, 23 Apr 2026 13:56:14 GMT | Portaria Remota vs Portaria Física | Primebid - Hub de Cotações | [Read More](https://medium.com/p/505075ac6754) |
 | Thu, 23 Apr 2026 13:43:05 GMT | You Can Find Any Answer In Seconds. That’s the Problem. | David Speakman | [Read More](https://medium.com/p/cfa8ff757c06) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Apr 2026 11:18:25 GMT | IDOR → Account Takeover — A Real Bug Chain Walkthrough | ghostyjoe | [Read More](https://medium.com/p/7512a41d5a32) |
 | Thu, 23 Apr 2026 11:16:39 GMT | How I Found My First Valid Bug | Vamsikandukuru | [Read More](https://medium.com/p/c138e6823804) |
 | Thu, 23 Apr 2026 11:03:47 GMT | SOC 2 Readiness: The 3 Points Where Companies Get Stuck Most | Consulting4sec | [Read More](https://medium.com/p/c8fbec94080a) |
-| Thu, 23 Apr 2026 11:01:01 GMT | Understanding CWE-219: Storage of File with Sensitive Data Under Web Root | Walter Moar | [Read More](https://medium.com/p/b30bb7d025ed) |
-| Thu, 23 Apr 2026 11:01:01 GMT | KYC is Dead. Long Live Continuous KYC. | FraudSpect | [Read More](https://medium.com/p/6ba595e039e8) |
-| Thu, 23 Apr 2026 11:01:01 GMT | MARCH 2026 : MONTHLY HACK REVIEW | Sisi | [Read More](https://medium.com/p/bd9569043a4d) |
-| Thu, 23 Apr 2026 10:59:34 GMT | Day 6 of My Cybersecurity Journey: Learning Wireshark | Samatham mahesh | [Read More](https://medium.com/p/28cea37bf5af) |
-| Thu, 23 Apr 2026 10:52:18 GMT | Deploying Zero Trust Across 40+ Countries: What the Vendor Pitch Decks Don’t Tell You | Bhimsingh | [Read More](https://medium.com/p/9de870fa3d0b) |
-| Thu, 23 Apr 2026 10:46:01 GMT | Gun man security services by Blr squad for reliable protection and safety solutions | Bengaluru Squad | [Read More](https://medium.com/p/fb5cf3ebdcaa) |
-| Thu, 23 Apr 2026 10:45:19 GMT | STOP TRADING BLIND: HOW I STOPPED BEING EXIT LIQUIDITY AND FOUND MY EDGE | Web3Dof | [Read More](https://medium.com/p/dff21940f354) |
-| Thu, 23 Apr 2026 10:43:59 GMT | Best Cyber Security Services Company in Chicago - Cepoch | cepoch | [Read More](https://medium.com/p/a086a1807821) |
-| Thu, 23 Apr 2026 10:42:20 GMT | The Second Quantum Revolution: A Week of Physical Defiance and Market Mania | Hitesh Rohilla | [Read More](https://medium.com/p/876162136286) |
-| Thu, 23 Apr 2026 10:40:07 GMT | I Built This Vulnerable Token on Purpose. Here’s How You’d Break It. | ShadowForge | [Read More](https://medium.com/p/09e925a2c222) |
-| Thu, 23 Apr 2026 10:36:07 GMT | Identity + Data Protection in the Age of AI: Why DLP and Zero Trust Must Converge | Sayan Raha | [Read More](https://medium.com/p/99186870e5c0) |
-| Thu, 23 Apr 2026 10:32:03 GMT | If your business handles data… you’re already a target. | Kce | [Read More](https://medium.com/p/693f1454ac6f) |
-| Thu, 23 Apr 2026 10:29:32 GMT | Fusion Corp — TryHackMe Walkthrough - by Yoel Yosief | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/0101071f60c8) |
-| Thu, 23 Apr 2026 10:29:14 GMT | Why a Cheap Linux Server Can Still Be Fast and Secure in 2026? | Andy | [Read More](https://medium.com/p/6a2c87000f29) |
-| Thu, 23 Apr 2026 10:29:11 GMT | Wazuh - Detecting ESC3 and ESC8 Attacks | Ali Sefer | [Read More](https://medium.com/p/e50bac458127) |
-| Thu, 23 Apr 2026 10:27:24 GMT | When Security Matters Most: Choosing the Right Locksmith in Sydney | Mosman Locksmiths | [Read More](https://medium.com/p/cc61e4752669) |
-| Thu, 23 Apr 2026 10:19:44 GMT | The Autonomous Security Moment: When AI Pentesting Stopped Being Assisted and Became Autonomous | Baozilla, Let's go! | [Read More](https://medium.com/p/89ae02b7c0fb) |
-| Thu, 23 Apr 2026 10:13:05 GMT | From Full Disclosure to Zero-Day Markets: The Evolution of Offensive Security — and What Comes Next | Yua Mikanana | [Read More](https://medium.com/p/d67826ec5fde) |
-| Thu, 23 Apr 2026 10:07:27 GMT | How Hackers Steal Your Passwords in 2026: 5 Common Methods and How to Stay Safe | Manula Udyoga | [Read More](https://medium.com/p/5370b8398227) |
