@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 23 Apr 2026 20:41:54 GMT | Exploiting the Infamous vsftpd 2.3.4 Backdoor: A Metasploitable 2 Walkthrough | Ebube uzomba | [Read More](https://medium.com/p/5bf8a180e25b) |
+| Thu, 23 Apr 2026 20:39:09 GMT | AI-Powered Cyberattacks: How Generative AI is Changing the Threat Landscape | HARSHAD SHEELWANT | [Read More](https://medium.com/p/dc4cc5384126) |
+| Thu, 23 Apr 2026 20:36:38 GMT | Overwriting Process Creation Kernel Callbacks | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8c9f73980eb7) |
+| Thu, 23 Apr 2026 20:25:45 GMT | Learning Cybersecurity by Building: A Hacker Terminal Game in Python | Eidolmor | [Read More](https://medium.com/p/1c2e73a29e92) |
+| Thu, 23 Apr 2026 20:23:44 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/e7383355cf9e) |
+| Thu, 23 Apr 2026 20:16:34 GMT | How MSSPs Can Cut Security Costs Using DentiGrid | Sam Walker | [Read More](https://medium.com/p/343c65406ee4) |
+| Thu, 23 Apr 2026 20:10:34 GMT | Most Cybersecurity Professionals Are Learning the Wrong Things in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/cb27ed1504c8) |
+| Thu, 23 Apr 2026 20:10:08 GMT | I Got Phished. So I Investigated the Attacker Instead. | Fino :) | [Read More](https://medium.com/p/d8f34a972175) |
+| Thu, 23 Apr 2026 20:01:01 GMT | Phone Stolen? Do These 7 Things Immediately (Before It’s Too Late) | Emily Carter | [Read More](https://medium.com/p/0253516e073b) |
+| Thu, 23 Apr 2026 20:00:24 GMT | How a Fake Image and an Expired Token Made a Server Confess Everything | Abdullah Almuntaser | [Read More](https://medium.com/p/ad1f169b1f70) |
+| Thu, 23 Apr 2026 19:50:39 GMT | Stop insecurely sending your Kafka messages — Best practices for Securing Kafka Brokers | Phong Le | [Read More](https://medium.com/p/34b89a8abed1) |
 | Thu, 23 Apr 2026 19:40:22 GMT | How Hackers Hijack Your Internet: A Real DNS Spoofing Demo From Scratch | Vansh Baghel | [Read More](https://medium.com/p/5c46600ac056) |
 | Thu, 23 Apr 2026 19:38:52 GMT | Privacy Management Policy | Petersmuditha | [Read More](https://medium.com/p/1f62ebde7b94) |
 | Thu, 23 Apr 2026 19:35:10 GMT | TryHackMe — RootMe CTF Solution | Efe Özel | [Read More](https://medium.com/p/7b8cb9540e3e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Apr 2026 14:03:53 GMT | I Used One Google Search to Find Exposed API Keys, Databases, and Cloud Secrets | oldman | [Read More](https://medium.com/p/be95bd954cfc) |
 | Thu, 23 Apr 2026 13:59:06 GMT | The Best Laptops Hackers Don’t Tell You About | Shahzaib | [Read More](https://medium.com/p/c1d549f0a69a) |
 | Thu, 23 Apr 2026 13:57:34 GMT | Address Poisoning Attacks: How Hackers Exploit Your Copy-Paste Habit | Réka Molnár | [Read More](https://medium.com/p/0727c51d47cd) |
-| Thu, 23 Apr 2026 13:56:27 GMT | I Spoke, and It Broke Me More | Ilmina Imi | [Read More](https://medium.com/p/c530023be196) |
-| Thu, 23 Apr 2026 13:56:14 GMT | Portaria Remota vs Portaria Física | Primebid - Hub de Cotações | [Read More](https://medium.com/p/505075ac6754) |
-| Thu, 23 Apr 2026 13:43:05 GMT | You Can Find Any Answer In Seconds. That’s the Problem. | David Speakman | [Read More](https://medium.com/p/cfa8ff757c06) |
-| Thu, 23 Apr 2026 13:37:17 GMT | “Bug Bounty Bootcamp #35: SSRF — Turning the Server Into Your Personal Proxy to Hack Internal… | Aman Sharma | [Read More](https://medium.com/p/c9f74582cf0c) |
-| Thu, 23 Apr 2026 13:35:46 GMT | 5 Windows Event IDs Every SOC Analyst Should Know (With Real Lab Evidence) | Ronak Mishra | [Read More](https://medium.com/p/9bf8d1f88bca) |
-| Thu, 23 Apr 2026 13:21:01 GMT | 2015–2016 in IT replaced the essence of business with massage chairs and a cool vibe | Oksana Ivanova | [Read More](https://medium.com/p/13a119a99dd6) |
-| Thu, 23 Apr 2026 13:14:31 GMT | Panel: Engineers vs. Reverse Engineers | Talsec | [Read More](https://medium.com/p/5a7085587150) |
-| Thu, 23 Apr 2026 13:05:33 GMT | High-Level PII Exposure of Presidential Candidates on Public Election Infrastructure | Robi Mohamad subagja | [Read More](https://medium.com/p/b8cdd0e6c4e2) |
-| Thu, 23 Apr 2026 13:05:19 GMT | When Everything Looks Right But Still Fails: A Real-World Troubleshooting Story | Chukwuebuka Okeke | [Read More](https://medium.com/p/76273f50effe) |
-| Thu, 23 Apr 2026 12:59:52 GMT | ️ The Ultimate Step-by-Step Guide to Building an Anti-Inspection Blocker Script for Forms | Femil Patodiya | [Read More](https://medium.com/p/a6a0e163f8cd) |
-| Thu, 23 Apr 2026 12:56:03 GMT | Environment & Your Ecology— People & Gaslighting — Navigational Principles | Suraj prakash | [Read More](https://medium.com/p/98cd82304f0e) |
