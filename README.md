@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Apr 2026 20:41:36 GMT | Azure Policy: Baking Security In part 1 | Joseph A. M. | [Read More](https://medium.com/p/cae200d71d4d) |
+| Fri, 24 Apr 2026 20:19:45 GMT | The Security Debt of Neural Interfaces, and Why We Cannot Afford to Inherit It | Polina Tapal | [Read More](https://medium.com/p/d1a60315daba) |
+| Fri, 24 Apr 2026 20:18:35 GMT | The Rise of OpenClaw: Navigating the Security Risks of Action-Oriented AI | convergence networks | [Read More](https://medium.com/p/214a8cf5d61e) |
+| Fri, 24 Apr 2026 20:14:13 GMT | The Cybersecurity Lead Generation Problem Nobody Talks About | LeadAdvisors | [Read More](https://medium.com/p/ee9c9fb28e7a) |
+| Fri, 24 Apr 2026 20:09:46 GMT | Airplane (THM) Tryhackme WriteUp and Answer | Lawvye | [Read More](https://medium.com/p/5ab5418a2eaf) |
+| Fri, 24 Apr 2026 20:00:07 GMT | The Islamabad Stalemate: Why the 2026 Ceasefire is a Mirage | Golda Mizrahi | [Read More](https://medium.com/p/66c432e97d0a) |
+| Fri, 24 Apr 2026 19:58:45 GMT | Cybersecurity News Review — Week 17 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/4c8c88e9fe81) |
+| Fri, 24 Apr 2026 19:57:25 GMT | Complete Android APK Reverse Engineering Guide | Alham Rizvi | [Read More](https://medium.com/p/0c5ed88e31f0) |
 | Fri, 24 Apr 2026 19:46:58 GMT | Les 10 commandements de l’éthique informatique | Patricia SOWOU | [Read More](https://medium.com/p/e2b1333f38ae) |
 | Fri, 24 Apr 2026 19:41:02 GMT | Anthropic’s Secret AI Found 271 Security Bugs in Firefox. That Should Worry Everyone. | Nexairi Mentis | [Read More](https://medium.com/p/431306b93aef) |
 | Fri, 24 Apr 2026 19:39:21 GMT | CyberDefenders — ShadowRoast Lab Writeup | JBXSec | [Read More](https://medium.com/p/d79a92fc47c4) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 13:16:33 GMT | SoSimple Walkthrough (Proving Ground-play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/c9a01f4a87cc) |
 | Fri, 24 Apr 2026 13:16:23 GMT | When Visibility Becomes Noise: It’s Context Dependent | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/75f7bbb61b8d) |
 | Fri, 24 Apr 2026 13:12:22 GMT | Beneath the Strength You Perform. | Shaanu Sharma | [Read More](https://medium.com/p/09f2b6a35db1) |
-| Fri, 24 Apr 2026 13:10:50 GMT | Your GitHub IS Your Cover Letter (And Nobody Told You That) | Don Rivera Diaz | [Read More](https://medium.com/p/b8d30d599cf7) |
-| Fri, 24 Apr 2026 13:02:33 GMT | Cybercrime in India 2026 Infographic - Citizen Awareness & Safety Apps | Citizen COP | [Read More](https://medium.com/p/e0f56986d122) |
-| Fri, 24 Apr 2026 13:02:20 GMT | Biohazard — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/40490817f0f5) |
-| Fri, 24 Apr 2026 12:58:35 GMT | When an Image Becomes an Attack: Exploiting SVG File Upload Vulnerabilities | Vasan | [Read More](https://medium.com/p/5ba978a775d8) |
-| Fri, 24 Apr 2026 12:53:58 GMT | How to Become an AI Ethical Hacker | Cybersectoworld | [Read More](https://medium.com/p/0b3386ce00d6) |
-| Fri, 24 Apr 2026 12:53:41 GMT | What Is a VPN? How Private Networks Work Over the Internet | Mutcherla Jayani | [Read More](https://medium.com/p/b203be3e6a1a) |
-| Fri, 24 Apr 2026 12:52:20 GMT | I Changed a Number — and Accessed Another User’s Data | Vishnuram M | [Read More](https://medium.com/p/2ec324cf0984) |
-| Fri, 24 Apr 2026 12:50:37 GMT | Security is not a promise. It is a system. | NanoChain | [Read More](https://medium.com/p/83062072ffeb) |
