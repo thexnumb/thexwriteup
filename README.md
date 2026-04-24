@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Apr 2026 15:02:19 GMT | Offensive Security Intro | Stacy Sirbu | [Read More](https://medium.com/p/05ff88bd1f73) |
+| Fri, 24 Apr 2026 14:57:17 GMT | 337,000 Files. None of Them Were Supposed to Leave That Server. | Ilias Armenakis | [Read More](https://medium.com/p/b65e6882f660) |
+| Fri, 24 Apr 2026 14:56:12 GMT | How the Entry/Exit System Integrates AI, Biometrics, and Data Governance | nishu facile | [Read More](https://medium.com/p/a03d4d4dffd1) |
+| Fri, 24 Apr 2026 14:54:46 GMT | Firewall Management on Linux with UFW and Iptables Fundamentals | Burak Erdem Yaprak | [Read More](https://medium.com/p/76a56b2f12c4) |
+| Fri, 24 Apr 2026 14:43:10 GMT | Securing the Backbone — Issue #28: When 18 Nations Agree — The Global SBOM Consensus and What It… | Eric Gallagher | [Read More](https://medium.com/p/a77b50b30a70) |
+| Fri, 24 Apr 2026 14:42:49 GMT | Securing the Backbone — Issue #27: The Hidden Cost of Technical Debt in Critical Infrastructure | Eric Gallagher | [Read More](https://medium.com/p/54f2231e76e3) |
+| Fri, 24 Apr 2026 14:41:44 GMT | Scam Alerts: Turning Internet Safety into a Habit | James Smith | [Read More](https://medium.com/p/8f7b4187a33d) |
+| Fri, 24 Apr 2026 14:40:45 GMT | Linux UFW ve iptables ile Firewall Yönetimi Temelleri | Burak Erdem Yaprak | [Read More](https://medium.com/p/2b492087a2d9) |
+| Fri, 24 Apr 2026 14:38:16 GMT | The Vibe Coding Trap: Why Your Weekend AI Demo is an Enterprise Liability | Phill Keene | [Read More](https://medium.com/p/7f474cffc4ad) |
+| Fri, 24 Apr 2026 14:38:00 GMT | Resources I used to prepare for CISSP | Desislava Nikolaeva | [Read More](https://medium.com/p/fcd3f2fd6a8b) |
+| Fri, 24 Apr 2026 14:36:14 GMT | SSTI1-PicoCTF | Rajputaryan | [Read More](https://medium.com/p/4694f932a135) |
+| Fri, 24 Apr 2026 14:32:31 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/25372272ee63) |
+| Fri, 24 Apr 2026 14:30:24 GMT | PortSwigger Lab Writeup — Bypassing AI scanner defenses to exfiltrate sensitive information | Raghav | [Read More](https://medium.com/p/92394302f4d4) |
+| Fri, 24 Apr 2026 14:26:42 GMT | New Tool For Pentesters | Himanshu | [Read More](https://medium.com/p/58c288d91889) |
+| Fri, 24 Apr 2026 14:22:20 GMT | CTF@CIT 2026 Writeups | Shakthi Vikranth | [Read More](https://medium.com/p/153fb0447fc1) |
+| Fri, 24 Apr 2026 14:20:20 GMT | Nmap Is More Than a Scanner. It’s a Framework. | Roshan Rajbanshi | [Read More](https://medium.com/p/c620dfd72226) |
+| Fri, 24 Apr 2026 14:11:58 GMT | ️ Lirix v1.3.0: Deterministic Security for AI Agents in the Dark Forest | lokii | [Read More](https://medium.com/p/9f1c7f39ac54) |
+| Fri, 24 Apr 2026 14:01:03 GMT | Part 1. OWASP Top 10 2025 Deep Dive: Real-World Exploits, Detection & Defense-in-Depth by… | Intelithics | [Read More](https://medium.com/p/440c7fee065d) |
+| Fri, 24 Apr 2026 13:57:30 GMT | AI Beyond the Bot: What Most Professionals Still Don’t Understand | Pradeep Billa | [Read More](https://medium.com/p/0001bfad5c41) |
 | Fri, 24 Apr 2026 13:37:15 GMT | SBOM Lifecycle: Why “Generate Once” Is Not Enough | Dimitar K. | [Read More](https://medium.com/p/c493ceccf08d) |
+| Fri, 24 Apr 2026 13:36:46 GMT | The Audit Room Has Two Stories And Neither Is the Full Truth | not your CISO | [Read More](https://medium.com/p/06fb15fe3341) |
+| Fri, 24 Apr 2026 13:32:07 GMT | How I Use AI for Pentesting - Video released | Teri Radichel | [Read More](https://medium.com/p/b0ddf6335de7) |
 | Fri, 24 Apr 2026 13:31:02 GMT | 3 Windows Process Trees Every SOC Analyst Should Recognize on Sight | Jbird | [Read More](https://medium.com/p/cb55db2ddd28) |
 | Fri, 24 Apr 2026 13:30:21 GMT | My review & Journey to Becoming of (ejpt) exam 2026 | Dnyaneshwarshelke | [Read More](https://medium.com/p/0ebe92a2daa8) |
 | Fri, 24 Apr 2026 13:30:17 GMT | Stop Developing Infrastructure-as-Code (IaC), Your Cloud Needs a Requirements Engine | Torsten Boettjer | [Read More](https://medium.com/p/f68d1c57505f) |
@@ -29,6 +50,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 12:58:35 GMT | When an Image Becomes an Attack: Exploiting SVG File Upload Vulnerabilities | Vasan | [Read More](https://medium.com/p/5ba978a775d8) |
 | Fri, 24 Apr 2026 12:53:58 GMT | How to Become an AI Ethical Hacker | Cybersectoworld | [Read More](https://medium.com/p/0b3386ce00d6) |
 | Fri, 24 Apr 2026 12:53:41 GMT | What Is a VPN? How Private Networks Work Over the Internet | Mutcherla Jayani | [Read More](https://medium.com/p/b203be3e6a1a) |
+| Fri, 24 Apr 2026 12:52:20 GMT | I Changed a Number — and Accessed Another User’s Data | Vishnuram M | [Read More](https://medium.com/p/2ec324cf0984) |
 | Fri, 24 Apr 2026 12:50:37 GMT | Security is not a promise. It is a system. | NanoChain | [Read More](https://medium.com/p/83062072ffeb) |
 | Fri, 24 Apr 2026 12:46:01 GMT | What a Baby Food Contamination Case Reveals About the Real Nature of Security Risk | Luke Appleby | [Read More](https://medium.com/p/5511ff847f55) |
 | Fri, 24 Apr 2026 12:35:08 GMT | Broken Authentication: A Critical Risk to User Identity and Application Security | Sathiyapriya V | [Read More](https://medium.com/p/7b5aaedd265f) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 07:41:42 GMT | Best Institute for Cybersecurity Summer Internship After 12th in Delhi | cyber security Updates | [Read More](https://medium.com/p/b072fa10f9aa) |
 | Fri, 24 Apr 2026 07:37:40 GMT | The Day 8.5 Million Computers Died — And What It Taught Me About Building Software That Can't Fail | Ashutosh Singhal | [Read More](https://medium.com/p/f3c8739ce2d1) |
 | Fri, 24 Apr 2026 07:34:58 GMT | SSRF → Cloud Compromise — From Internal Access to Credentials | ghostyjoe | [Read More](https://medium.com/p/e1b9835edf37) |
-| Fri, 24 Apr 2026 07:31:43 GMT | The Dark Side of Vibe Coding: When Speed Becomes a Security Risk | Imambahrialwi | [Read More](https://medium.com/p/953bab0191ae) |
-| Fri, 24 Apr 2026 07:31:03 GMT | Your Employees Are Leaking Data to ChatGPT — And You Can’t Even See It | Taiyab Lokhandwala | [Read More](https://medium.com/p/2b69ee0555f5) |
-| Fri, 24 Apr 2026 07:28:57 GMT | Alarm Security Systems Orlando | Globalalarmsus | [Read More](https://medium.com/p/a4e34a9cecda) |
-| Fri, 24 Apr 2026 07:27:07 GMT | AMAXG: ZIOW Token Monthly Distribution for April 2026 | BizAuto l AMAXG | [Read More](https://medium.com/p/a8733833600c) |
-| Fri, 24 Apr 2026 07:21:12 GMT | Havenlon Series: Execution Control in the Age of AI (4/15) | Havenlon | [Read More](https://medium.com/p/bd1214f5c3fb) |
-| Fri, 24 Apr 2026 07:20:31 GMT | GitHub Dorking: The Complete 2026 Hunter’s Guide to Finding Exposed Secrets | Deepanshu Deep | [Read More](https://medium.com/p/9a72331ed5bb) |
-| Fri, 24 Apr 2026 07:18:45 GMT | What is Cybersecurity? A Complete Beginner’s Guide for 2026 | Anjali Katpure | [Read More](https://medium.com/p/ffd0159f56d8) |
-| Fri, 24 Apr 2026 07:16:58 GMT | Intercepting iOS Traffic with Burp Suite | Redfox Security | [Read More](https://medium.com/p/20538f3cc9e7) |
-| Fri, 24 Apr 2026 07:15:55 GMT | AMAXG: BIZA Coin Monthly Distribution for April 2026 | BizAuto l AMAXG | [Read More](https://medium.com/p/2c85250f25ff) |
-| Fri, 24 Apr 2026 07:13:37 GMT | Google is a Hacker’s Tool? Mastering Google Dorking for Reconnaissance | pavani | [Read More](https://medium.com/p/f5f88f770c62) |
-| Fri, 24 Apr 2026 07:12:06 GMT | Your Data in LLMs: The Silent Risk Nobody Is Talking About | Taiyab Lokhandwala | [Read More](https://medium.com/p/38e6c249af94) |
-| Fri, 24 Apr 2026 07:09:57 GMT | HackTheBox — Logging (Medium Windows): Walkthrough | J0K3R | [Read More](https://medium.com/p/bf4073bc77df) |
-| Fri, 24 Apr 2026 07:09:03 GMT | How to Hire Cybersecurity Engineers | Elena Kovacs | [Read More](https://medium.com/p/489c42c37a24) |
-| Fri, 24 Apr 2026 07:05:27 GMT | Fix the Data. Clarify the Accountability. Build the Organization | Saber CHEN | [Read More](https://medium.com/p/46742c5fb9d2) |
-| Fri, 24 Apr 2026 07:02:01 GMT | What Is Private Swap? How Coin98 Protects Your On-Chain Transactions | Coin98 Wallet | [Read More](https://medium.com/p/ba3f1bf39371) |
-| Fri, 24 Apr 2026 07:01:02 GMT | Alarm Response and Key Holding: The After-Hours Protection Australian Businesses Need | SecurityInsightsAU | [Read More](https://medium.com/p/48b935e1a124) |
-| Fri, 24 Apr 2026 06:56:29 GMT | Digital Threat Intelligence Management Market Growth, Share, and Trends | Gauri Kale | [Read More](https://medium.com/p/f4b2aa1f5808) |
-| Fri, 24 Apr 2026 06:50:11 GMT | Stop Securing Systems. Start Designing Secure Ones. | Pankaj Sharma | [Read More](https://medium.com/p/fd09f89bbacb) |
-| Fri, 24 Apr 2026 06:34:23 GMT | SameSite=Strict? No Problem — Bypassing It With a Client-Side Redirect | zero_day | [Read More](https://medium.com/p/45dbb439addb) |
-| Fri, 24 Apr 2026 06:18:05 GMT | Me, Claude, and 486 Hours of Building Something Real | Hernel (Kenshin) Juanico | [Read More](https://medium.com/p/2538bd22d40f) |
-| Fri, 24 Apr 2026 06:12:37 GMT | My First Lab | BlueTeamMal | [Read More](https://medium.com/p/547fdcf7d4cb) |
-| Fri, 24 Apr 2026 06:09:47 GMT | Is Web Filtering Quietly Controlling Your Online Experience Without You Knowing? | EmpTrack | [Read More](https://medium.com/p/e55446ea57b7) |
