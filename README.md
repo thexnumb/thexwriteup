@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Apr 2026 10:02:13 GMT | Securing an AWS EC2 Instance: My First Cloud Security Project | Bandepratiksha | [Read More](https://medium.com/p/78eb5c763bad) |
+| Fri, 24 Apr 2026 10:01:02 GMT | The Invisible Economy Behind Esports: Code, Skins, and Quiet Money | Franziska "Ziska" Fink | [Read More](https://medium.com/p/9c247d7d487c) |
+| Fri, 24 Apr 2026 09:53:17 GMT | Is Penetration Testing Becoming a Complex Process | Reema K.R | [Read More](https://medium.com/p/024c304b26ba) |
+| Fri, 24 Apr 2026 09:44:12 GMT | RESTFUL API PENTEST — (Part 2) | 0bat.exe1 | [Read More](https://medium.com/p/10286a5e0d4b) |
+| Fri, 24 Apr 2026 09:44:10 GMT | “You Have Stripped Me Bare”: The Day I Forced an AI to Surrender | Angelo Piras | [Read More](https://medium.com/p/a0cd62a759e7) |
+| Fri, 24 Apr 2026 09:43:38 GMT | How to Add a Stateful Trust Boundary to a LangChain Agent with Omega Walls | Anton Fedotov | [Read More](https://medium.com/p/f1a5c30a1d29) |
+| Fri, 24 Apr 2026 09:27:33 GMT | 4.5 Testing Authorization Schemas & Privilege Escalation in Web Applications | Diva Rizky Alfitrah | [Read More](https://medium.com/p/c3bcf429efe8) |
+| Fri, 24 Apr 2026 09:12:04 GMT | Named Entity Recognition (NER) for GitHub Issues: Turning Bug Reports into Structured Intelligence | Çağla Öztürk | [Read More](https://medium.com/p/393684198003) |
+| Fri, 24 Apr 2026 09:11:13 GMT | I Built a Production SOC Pipeline That Caught Real Hackers in 3 Minutes | Chrisnmosi | [Read More](https://medium.com/p/ef0710ec54a3) |
+| Fri, 24 Apr 2026 09:10:45 GMT | Mythos and the cyberhacking panic — what this means for crypto | Steven Boykey Sidley | [Read More](https://medium.com/p/a13a9ae180ca) |
+| Fri, 24 Apr 2026 09:08:57 GMT | Reading and Writing Omron PLC Memory Without Authentication — A Hands-On RS485 Research | Mporro | [Read More](https://medium.com/p/3502f984c48b) |
+| Fri, 24 Apr 2026 09:08:14 GMT | Device attestation: everything you’ve always wanted to know | Nicolas Pernoud | [Read More](https://medium.com/p/dd339d827a96) |
+| Fri, 24 Apr 2026 09:06:01 GMT | Cybersecurity Services Dubai: Protecting Business Operations in a High-Risk Digital Environment | Pure Magic IT | [Read More](https://medium.com/p/334d6f7fb08d) |
+| Fri, 24 Apr 2026 09:04:13 GMT | Active Directory Pentest Lab Report — SOUPEDECODE.LOCAL | ZeroDay-Security-Services | [Read More](https://medium.com/p/31e40cf68fb3) |
+| Fri, 24 Apr 2026 08:55:25 GMT | Maintaining 180-Day Log Retention as Mandated by CERT-In Rules - DC9India | DC9India | [Read More](https://medium.com/p/ba7b59905a28) |
+| Fri, 24 Apr 2026 08:52:44 GMT | DockerLabs Writeup — ChocolateFire (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/a11b825f0019) |
+| Fri, 24 Apr 2026 08:34:13 GMT | Dark Web Exposed: The Shocking Truth Behind Internet’s Darkest Corner | Diya TK | [Read More](https://medium.com/p/9990f0365291) |
+| Fri, 24 Apr 2026 08:21:14 GMT | Introduction to Ethical Hacking, Virtual Machines, Linux, and Networking | Anjalikrishnam | [Read More](https://medium.com/p/77990dce1507) |
+| Fri, 24 Apr 2026 08:11:46 GMT | Digital Shield: Re-architecting the Hardcore Security Paradigm in the Battle for Web3 Asset… | Digital Shield Offcial | [Read More](https://medium.com/p/52f33080a236) |
+| Fri, 24 Apr 2026 08:08:53 GMT | tobogán | Ana | [Read More](https://medium.com/p/4d4b659b551f) |
 | Fri, 24 Apr 2026 07:59:34 GMT | The Scariest Hack in Crypto Doesn’t Look Like a Hack at All | Toobit | [Read More](https://medium.com/p/bd03a4214136) |
 | Fri, 24 Apr 2026 07:54:33 GMT | Building a QA Agent for Agentic Products: How to Test AI Agents Before Users Do | Kaushalverma | [Read More](https://medium.com/p/1c1afbef69cb) |
 | Fri, 24 Apr 2026 07:51:03 GMT | Mantra MFS110 L1: Secure Fingerprint Scanner Biometric Devices | Patna Computers Pvt. Ltd. | [Read More](https://medium.com/p/8bd9134812e8) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Apr 2026 23:45:45 GMT | Day 10: Bypassing SameSite Lax with Method Override (CSRF Lab Walkthrough) | zero_day | [Read More](https://medium.com/p/aed3f70cdea8) |
 | Thu, 23 Apr 2026 23:42:14 GMT | How To Build Linux-SysAdmin-Project | Kareem Seddik | [Read More](https://medium.com/p/77f97c6c1632) |
 | Thu, 23 Apr 2026 23:41:58 GMT | Sarah Fed the Phish: A True Story + Why Password Reset Emails Are Everywhere in 2026” | Kevin Kelly | [Read More](https://medium.com/p/8641738ad22a) |
-| Thu, 23 Apr 2026 23:29:41 GMT | The Digital Fortress Has a New Heart: Making Peace with AI in Cybersecurity | Albatros | [Read More](https://medium.com/p/b7bdd60dfe8b) |
-| Thu, 23 Apr 2026 23:23:28 GMT | XSS armazenado + HTTPOnly | Emerson Pedra | [Read More](https://medium.com/p/2ea59ec29d8b) |
-| Thu, 23 Apr 2026 23:22:01 GMT | The Skeleton of WPS: Why Your Router is Handing Out Keys to Strangers | Atindra Girish | [Read More](https://medium.com/p/098cb4f3c444) |
-| Thu, 23 Apr 2026 23:21:38 GMT | Remote Interviews Fail. Trust Fails. Projects Fail. | Chacko | [Read More](https://medium.com/p/e46094c43c0d) |
-| Thu, 23 Apr 2026 23:12:57 GMT | Splunk Search Ekranı: Arayüzün Detaylı İncelenmesi | Ahmet Badem | [Read More](https://medium.com/p/fa8c3249ec6a) |
-| Thu, 23 Apr 2026 23:12:13 GMT | Race Condition Allows Users to Obtain More Than 1 Free Domain | rozzen | [Read More](https://medium.com/p/a1db2b12a380) |
-| Thu, 23 Apr 2026 23:11:01 GMT | The Mythos Crisis: Why Anthropic’s Newest AI is “Breaking the Bank” | Arief Budi Santoso | [Read More](https://medium.com/p/3f03bdf51fa8) |
-| Thu, 23 Apr 2026 22:55:55 GMT | TryHackMe — Enterprise: Writeup | Taher Borgi | [Read More](https://medium.com/p/16ce47ec906b) |
-| Thu, 23 Apr 2026 22:29:50 GMT | Compliance as Code: Why the EU AI Act Will Force Runtime Enforcement in 2026 | Otto Plane | [Read More](https://medium.com/p/d41d4bfe62e5) |
-| Thu, 23 Apr 2026 22:24:14 GMT | AI Governance as Infrastructure | Debasish Dash | [Read More](https://medium.com/p/c872f059ea40) |
-| Thu, 23 Apr 2026 21:59:45 GMT | Privacy Vulnerability in Firefox and TOR Browsers | Matthew.Rosenquist | [Read More](https://medium.com/p/d00563c27e06) |
-| Thu, 23 Apr 2026 21:59:11 GMT | Why Do Businesses Need Security Services? | Iron Line Defense | [Read More](https://medium.com/p/00bb7c2b5359) |
-| Thu, 23 Apr 2026 21:50:06 GMT | Special Token Injection in Operational Technology: How LLM Integrations Can Create Real-World… | Perparimimjeku | [Read More](https://medium.com/p/06be55951bdb) |
-| Thu, 23 Apr 2026 21:47:30 GMT | Data Privacy Governance | Petersmuditha | [Read More](https://medium.com/p/4f669ed035fd) |
-| Thu, 23 Apr 2026 21:38:06 GMT | How to Build a Winning Cyber Security and Compliance Strategy From the Ground Up | Fortnexs Shield | [Read More](https://medium.com/p/fb17c65c7138) |
-| Thu, 23 Apr 2026 21:37:49 GMT | TryHackMe SOC Analyst Road Map Part-27 | safa kaya | [Read More](https://medium.com/p/c95b82314b40) |
-| Thu, 23 Apr 2026 21:30:13 GMT | ISO 27001: Security Shield or Incident Magnet? | Aldo Pino | [Read More](https://medium.com/p/fddaabe955ed) |
-| Thu, 23 Apr 2026 21:25:52 GMT | Niching Identity Security when it’s the Floor, is WILD! | Tia B | [Read More](https://medium.com/p/bff125601f6f) |
-| Thu, 23 Apr 2026 21:23:31 GMT | Porch Pirate Alert  Don’t Let Them Steal Your Packages! | Tell Your Parents Security | [Read More](https://medium.com/p/61501a8689d9) |
-| Thu, 23 Apr 2026 21:17:44 GMT | SOC166 — JavaScript Code Detected in Requested URL | C. L. | [Read More](https://medium.com/p/98a16274d159) |
