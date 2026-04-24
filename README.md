@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Apr 2026 22:38:05 GMT | Stop Identity Hijacking in DaaS: A 2026 Guide to Passkeys and Token Protection | Resahebi | [Read More](https://medium.com/p/01e0c494b6a8) |
+| Fri, 24 Apr 2026 22:16:07 GMT | CVE Stack Monitor — Get Alerted on CVEs That Hit Your Exact Infrastructure | Neetrox | [Read More](https://medium.com/p/bb7c2322e30f) |
+| Fri, 24 Apr 2026 22:08:02 GMT | How I Mapped Spotify’s Undocumented Endpoints | Dario Mory | [Read More](https://medium.com/p/8ca89656ae9a) |
+| Fri, 24 Apr 2026 22:05:24 GMT | How AI changed the way I design, and what it can’t replace | Aditi Magal | [Read More](https://medium.com/p/db59dec30124) |
+| Fri, 24 Apr 2026 22:01:01 GMT | CrossBar’s Story and Vision | CrossBar | [Read More](https://medium.com/p/3c91130a07ff) |
+| Fri, 24 Apr 2026 21:52:44 GMT | NTLM ‘den Kerberos Geçişi ve Süreci Anlayıp Yönetmek | Ahmet Doruk | [Read More](https://medium.com/p/f3607a11a168) |
+| Fri, 24 Apr 2026 21:51:01 GMT | How I Earned €200 in 10 Minutes by Exploiting a Race Condition on a Job Application Portal | Amrgomaa | [Read More](https://medium.com/p/2347bb98c4c0) |
+| Fri, 24 Apr 2026 21:44:10 GMT | TryHackMe Recruit Writeup | Aniketchoudhury | [Read More](https://medium.com/p/0d45e6b7cad8) |
+| Fri, 24 Apr 2026 21:43:53 GMT | Our Journey to Operationalizing AI Risk Management | number40 | [Read More](https://medium.com/p/6b275763ed2b) |
 | Fri, 24 Apr 2026 21:39:43 GMT | AI Just Found Bugs in Rust’s Standard Library. That Changes the Security Conversation | Ajay Kumar | [Read More](https://medium.com/p/54171736d698) |
 | Fri, 24 Apr 2026 21:36:10 GMT | The hidden side of AI: when your biggest risk is inside your organization | Gian Luca Vanoli | [Read More](https://medium.com/p/1f9b287f69e6) |
 | Fri, 24 Apr 2026 21:31:22 GMT | NIS2 Supply Chain Security: Why Europe Is Not Ready for Subcontractor Audits Four Months Before… | solutions@sesinftech.com | [Read More](https://medium.com/p/f66fbf7e53e7) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 14:32:31 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/25372272ee63) |
 | Fri, 24 Apr 2026 14:30:24 GMT | PortSwigger Lab Writeup — Bypassing AI scanner defenses to exfiltrate sensitive information | Raghav | [Read More](https://medium.com/p/92394302f4d4) |
 | Fri, 24 Apr 2026 14:26:42 GMT | New Tool For Pentesters | Himanshu | [Read More](https://medium.com/p/58c288d91889) |
-| Fri, 24 Apr 2026 14:22:20 GMT | CTF@CIT 2026 Writeups | Shakthi Vikranth | [Read More](https://medium.com/p/153fb0447fc1) |
-| Fri, 24 Apr 2026 14:20:20 GMT | Nmap Is More Than a Scanner. It’s a Framework. | Roshan Rajbanshi | [Read More](https://medium.com/p/c620dfd72226) |
-| Fri, 24 Apr 2026 14:11:58 GMT | ️ Lirix v1.3.0: Deterministic Security for AI Agents in the Dark Forest | lokii | [Read More](https://medium.com/p/9f1c7f39ac54) |
-| Fri, 24 Apr 2026 14:01:03 GMT | Part 1. OWASP Top 10 2025 Deep Dive: Real-World Exploits, Detection & Defense-in-Depth by… | Intelithics | [Read More](https://medium.com/p/440c7fee065d) |
-| Fri, 24 Apr 2026 13:57:30 GMT | AI Beyond the Bot: What Most Professionals Still Don’t Understand | Pradeep Billa | [Read More](https://medium.com/p/0001bfad5c41) |
-| Fri, 24 Apr 2026 13:37:15 GMT | SBOM Lifecycle: Why “Generate Once” Is Not Enough | Dimitar K. | [Read More](https://medium.com/p/c493ceccf08d) |
-| Fri, 24 Apr 2026 13:36:46 GMT | The Audit Room Has Two Stories And Neither Is the Full Truth | not your CISO | [Read More](https://medium.com/p/06fb15fe3341) |
-| Fri, 24 Apr 2026 13:32:07 GMT | How I Use AI for Pentesting - Video released | Teri Radichel | [Read More](https://medium.com/p/b0ddf6335de7) |
-| Fri, 24 Apr 2026 13:31:02 GMT | 3 Windows Process Trees Every SOC Analyst Should Recognize on Sight | Jbird | [Read More](https://medium.com/p/cb55db2ddd28) |
