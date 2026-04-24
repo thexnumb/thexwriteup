@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Apr 2026 17:37:13 GMT | The Mythos Singularity: Why Cyber Defense Just Lost the Luxury of Time | SOCFortress | [Read More](https://medium.com/p/3c2ce65dbb7e) |
+| Fri, 24 Apr 2026 17:36:07 GMT | 5 Coding Mistakes That Create Security Vulnerabilities | Hania Khan | [Read More](https://medium.com/p/1035d0b2f0cf) |
+| Fri, 24 Apr 2026 17:31:48 GMT | Breaking the Invisible Wall: A QA Intern’s Guide to setup the Burp Suite Proxy ️ | Lakshan roshana | [Read More](https://medium.com/p/025b109bf395) |
+| Fri, 24 Apr 2026 17:30:48 GMT | The Silence Before the Quantum Storm: Why Cybersecurity Must Evolve Now | Ali Hatem Allam | [Read More](https://medium.com/p/e1385826fabe) |
+| Fri, 24 Apr 2026 17:29:19 GMT | Adventures at Black Hat Asia 2026: Windows Shellcoding Training and MSRC Researcher Celebration | Cyd Tseng | [Read More](https://medium.com/p/ce51af3d650d) |
+| Fri, 24 Apr 2026 17:10:24 GMT | SOC114 — Malicious Attachment Detected — Phishing Alert (EventId: 45) Investigation | Tamerlan Shabanov | [Read More](https://medium.com/p/11a0ea13a28f) |
+| Fri, 24 Apr 2026 16:57:15 GMT | No FA — picoCTF Write-up | Masresha(rexwho) Habtamu | [Read More](https://medium.com/p/0a4cc0b38a0e) |
+| Fri, 24 Apr 2026 16:56:34 GMT | Supercharge your Security Analytics, Threat Hunting and Research using Notebooks in Microsoft… | Arun Balaji Giridharan | [Read More](https://medium.com/p/b14fa62a7cc3) |
+| Fri, 24 Apr 2026 16:52:59 GMT | How to Secure AWS S3 Buckets and Prevent Data Leaks | Bennyhinn | [Read More](https://medium.com/p/74cda20d52db) |
+| Fri, 24 Apr 2026 16:50:16 GMT | Mobile App Security Testing - Ethical Hacking Services | BlackHat | [Read More](https://medium.com/p/e4ad433c0e90) |
+| Fri, 24 Apr 2026 16:42:43 GMT | Supercharge your Security Analytics, Threat Hunting and Research using Notebooks in Microsoft… | Arun Balaji Giridharan | [Read More](https://medium.com/p/123bf4297182) |
+| Fri, 24 Apr 2026 16:32:31 GMT | Understanding AI Supply Chains Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/08a95abcf636) |
+| Fri, 24 Apr 2026 16:32:24 GMT | Prompt Defence Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/6ab265824fd6) |
+| Fri, 24 Apr 2026 16:31:23 GMT | Stored DoS via Missing Parameter | TURB0_1 | [Read More](https://medium.com/p/4e0394f211d4) |
 | Fri, 24 Apr 2026 16:22:07 GMT | Governing Agentic AI in Production: What Every AI Leader Should Plan For | Benjamin Gumbley | [Read More](https://medium.com/p/635873e19c61) |
 | Fri, 24 Apr 2026 16:19:37 GMT | Why You’ll Never Feel Like You Have Enough — and What Actually Works | Charles Black M.D. | [Read More](https://medium.com/p/f6d62708976a) |
 | Fri, 24 Apr 2026 16:17:23 GMT | The Death of Privacy: Why 2026 is the Year Your Data is More Valuable than Gold | Shadowframemovies | [Read More](https://medium.com/p/804fc2f63005) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 11:03:48 GMT | Reflected XSS in Bali Government Search Endpoint | Osama Alaa | [Read More](https://medium.com/p/04f2843ba62f) |
 | Fri, 24 Apr 2026 11:01:44 GMT | Compliance Solutions for ISO 27001 and SOC 2: How to Avoid Duplicate Work and Save Time | Jayata | [Read More](https://medium.com/p/bd9f3589b39d) |
 | Fri, 24 Apr 2026 10:58:21 GMT | Zero Trust Meets Incident Response: Continuous Verification for Rapid Containment | NetWitness | [Read More](https://medium.com/p/c7f5c1f2226c) |
-| Fri, 24 Apr 2026 10:57:34 GMT | What is GRC and Why Every Tech Company Needs It | Ramyaabharathi | [Read More](https://medium.com/p/3f8b3c4c515e) |
-| Fri, 24 Apr 2026 10:54:29 GMT | Top 11 Software Testing Companies | Tech and Business Blog | [Read More](https://medium.com/p/b683b8e536d0) |
-| Fri, 24 Apr 2026 10:35:43 GMT | Attack Campaign: Tunisian Gov Database Breached,French Healthcare Data Stolen | PhatomCandle | [Read More](https://medium.com/p/5f599e70deda) |
-| Fri, 24 Apr 2026 10:30:59 GMT | Best Security Services in Trichy | Eoxsecureservices | [Read More](https://medium.com/p/970b1c8cf96c) |
-| Fri, 24 Apr 2026 10:11:08 GMT | The Shadow Chain (Part II): PowerShell, SSL/TLS, and the Art of Bypassing Corporate Firewalls | Frank Mccausland | [Read More](https://medium.com/p/eb5d3ee3a0c6) |
-| Fri, 24 Apr 2026 10:05:46 GMT | Wapiti Deep Dive - Web App Security Testing Tool | Pentester Club | [Read More](https://medium.com/p/5e58f26288ab) |
-| Fri, 24 Apr 2026 10:04:02 GMT | Spring — Spring Boot Actuator RCE + Symlink Arbitrary Write to Root - TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/ed5c7635ed3c) |
-| Fri, 24 Apr 2026 10:02:13 GMT | Securing an AWS EC2 Instance: My First Cloud Security Project | Bandepratiksha | [Read More](https://medium.com/p/78eb5c763bad) |
-| Fri, 24 Apr 2026 10:01:02 GMT | The Invisible Economy Behind Esports: Code, Skins, and Quiet Money | Franziska "Ziska" Fink | [Read More](https://medium.com/p/9c247d7d487c) |
-| Fri, 24 Apr 2026 09:53:17 GMT | Is Penetration Testing Becoming a Complex Process | Reema K.R | [Read More](https://medium.com/p/024c304b26ba) |
-| Fri, 24 Apr 2026 09:44:12 GMT | RESTFUL API PENTEST — (Part 2) | 0bat.exe1 | [Read More](https://medium.com/p/10286a5e0d4b) |
-| Fri, 24 Apr 2026 09:44:10 GMT | “You Have Stripped Me Bare”: The Day I Forced an AI to Surrender | Angelo Piras | [Read More](https://medium.com/p/a0cd62a759e7) |
-| Fri, 24 Apr 2026 09:43:38 GMT | How to Add a Stateful Trust Boundary to a LangChain Agent with Omega Walls | Anton Fedotov | [Read More](https://medium.com/p/f1a5c30a1d29) |
-| Fri, 24 Apr 2026 09:27:33 GMT | 4.5 Testing Authorization Schemas & Privilege Escalation in Web Applications | Diva Rizky Alfitrah | [Read More](https://medium.com/p/c3bcf429efe8) |
