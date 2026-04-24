@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Apr 2026 05:22:04 GMT | The 2026 Crypto Scam Warning List: How to Spot Pig Butchering Scams and Avoid Fake Trading… | TICKER | [Read More](https://medium.com/p/0526aaa1e0cf) |
+| Fri, 24 Apr 2026 05:21:43 GMT | The Windows Forensic Journey — WinPmem | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4cce7739b3b6) |
+| Fri, 24 Apr 2026 05:18:56 GMT | Module 4 - Foundations of Cybersecurity - Google Professional Cybersecurity Certificate | Aruldeshwal | [Read More](https://medium.com/p/8d330a63be91) |
+| Fri, 24 Apr 2026 05:18:35 GMT | Secret Python Scripts Every Hacker Actually Uses (That Nobody Shares) | Satyam Pathania | [Read More](https://medium.com/p/4342e2ab96bf) |
+| Fri, 24 Apr 2026 05:17:08 GMT | Chromebook Unenrollment - An honest guide | Sophia Blair | [Read More](https://medium.com/p/34c40566d5d5) |
+| Fri, 24 Apr 2026 05:05:10 GMT | Level 3 KYC have been passed. | GANGURI VENKATRAO - T3 AMBASSADOR OF INTERLINK LAB | [Read More](https://medium.com/p/aec4377674ad) |
+| Fri, 24 Apr 2026 05:04:44 GMT | Cisco Ethical Hacker Notes — Part1 | ExploitHunter | [Read More](https://medium.com/p/084288ef0ae5) |
+| Fri, 24 Apr 2026 05:03:47 GMT | Cisco Notes Module:17 Network Testing Utilities | ExploitHunter | [Read More](https://medium.com/p/4689009a0995) |
+| Fri, 24 Apr 2026 04:55:29 GMT | Level 3 KYC have been passed. | GANGURI VENKATRAO - T3 AMBASSADOR OF INTERLINK LAB | [Read More](https://medium.com/p/fdb38569f808) |
+| Fri, 24 Apr 2026 04:52:20 GMT | Smart Cybersecurity: Small Businesses A Practical Guide to Preventing New Threats | Vijilan | [Read More](https://medium.com/p/31aed4825ef6) |
+| Fri, 24 Apr 2026 04:41:34 GMT | My Journey Into Cybersecurity | BlueTeamMal | [Read More](https://medium.com/p/5cd99e89dea2) |
+| Fri, 24 Apr 2026 04:31:03 GMT | Open Redirect Simple Bug, Powerful Chains: Phishing Se OAuth Bypass Tak! (Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/7d1b9adf8dcb) |
+| Fri, 24 Apr 2026 04:07:15 GMT | THM AI Security Learning Path Review | PatternBreach | [Read More](https://medium.com/p/aca18c82aae1) |
+| Fri, 24 Apr 2026 04:05:35 GMT | The Dark Side of Browser Extensions: Convenience vs. Security | Paritosh | [Read More](https://medium.com/p/ba4c463916ca) |
+| Fri, 24 Apr 2026 04:01:02 GMT | Implementing Authentication & Authorization in Django | Yoseph Parai | [Read More](https://medium.com/p/7c087ffbb59d) |
+| Fri, 24 Apr 2026 03:46:00 GMT | Zero Trust Networking: Identity Meets the Network | Haggai Philip Zagury | [Read More](https://medium.com/p/7855f4bf2032) |
+| Fri, 24 Apr 2026 03:32:07 GMT | Actively Exploited: CVE-2023–46805 in Ivanti Connect Secure Enables Authentication Bypass | Michael I Ransier | [Read More](https://medium.com/p/a5cd428b44fa) |
+| Fri, 24 Apr 2026 03:30:50 GMT | Your LinkedIn Profile Is a Weapon: How Attackers Use Your Own Data Against You | Travis Ray Caverhill | [Read More](https://medium.com/p/7f2804093858) |
+| Fri, 24 Apr 2026 03:28:31 GMT | My Journey to Passing eWPTX: What Actually Matters | Boy Ansdica | [Read More](https://medium.com/p/62b50a041f48) |
+| Fri, 24 Apr 2026 03:24:14 GMT | Mild Steel Gate: Smart Security and Style for Modern Homes | Marketingsgdoors | [Read More](https://medium.com/p/4a3629d3290e) |
+| Fri, 24 Apr 2026 03:17:12 GMT | Security Best Practices: Protecting Your Users and Data | Yakhilesh | [Read More](https://medium.com/p/66dcf4ebf75e) |
+| Fri, 24 Apr 2026 03:10:26 GMT | How one misconfigured query exposed your records in PostgreSQL— and the three-step fix that could… | Rizqi Mulki | [Read More](https://medium.com/p/4dff565f78de) |
+| Fri, 24 Apr 2026 03:06:36 GMT | 2FA something simply technical to Read | Massi Mapani | [Read More](https://medium.com/p/5b5b3f7d23d8) |
+| Fri, 24 Apr 2026 03:02:02 GMT | Is Your Home Ready for a New Garage Door? | Izhak Levi | [Read More](https://medium.com/p/d73a91a86453) |
 | Fri, 24 Apr 2026 02:26:32 GMT | Name Calling — BlueHens CTF 2026 Forensics Writeup | Z3DX | [Read More](https://medium.com/p/e32594fcca13) |
 | Fri, 24 Apr 2026 02:25:58 GMT | Weekly Threat Intelligence Report 20 Apr 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/c4a3c5fd060b) |
 | Fri, 24 Apr 2026 02:24:46 GMT | OSINT Challenge Writeup: Glasses 2 - BlueHens CTF 2026 | Z3DX | [Read More](https://medium.com/p/fccd03944c9c) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Apr 2026 19:01:27 GMT | Interview Questions: If You Are a Java Security Developer, You Must Be Able to Answer These 10… | Phong Le | [Read More](https://medium.com/p/e11df248b518) |
 | Thu, 23 Apr 2026 18:59:30 GMT | TVM Message Replay: Venom Wallet Exposed | Stepan Chekhovskoi | [Read More](https://medium.com/p/32f311509092) |
 | Thu, 23 Apr 2026 18:47:04 GMT | AI Prompt Engineering: Why Specificity Matters More Than Verbosity | Onyedikachi Bernard Okoh | [Read More](https://medium.com/p/a53dd723b13b) |
-| Thu, 23 Apr 2026 18:46:22 GMT | Why Claude Mythos Is a Cybersecurity Game-Changer: Key Benefits Explained | Bugstrix | [Read More](https://medium.com/p/dbc1f7afdeea) |
-| Thu, 23 Apr 2026 18:38:57 GMT | Top 10 Event Services in London Every Planner and Brand Needs in 2026 | waeventservices.co.uk/ | [Read More](https://medium.com/p/268e1890f975) |
-| Thu, 23 Apr 2026 18:38:06 GMT | Security Services in Houston: A Complete Guide for Business Owners | AlexBryn | [Read More](https://medium.com/p/fdb0c67642f8) |
-| Thu, 23 Apr 2026 18:31:01 GMT | How I cleared ISC2 CC (beginner-friendly certification) exactly what I did | Manubhav Sharma | [Read More](https://medium.com/p/e57495e0ef4c) |
-| Thu, 23 Apr 2026 18:24:52 GMT | Your Password Manager Just Got Hacked. The Bitwarden Supply Chain Attack. | Dhanush N | [Read More](https://medium.com/p/e5a83ede7e51) |
-| Thu, 23 Apr 2026 18:21:27 GMT | Why Knowing “Everything About Technology” Almost Made Me Useless | Nayyar Technologies | [Read More](https://medium.com/p/a8782035bd1c) |
-| Thu, 23 Apr 2026 18:14:46 GMT | Why Asking for Help Feels Like Failing (Even When It Isn’t) | Nicole Tschetter | [Read More](https://medium.com/p/32cdffe6fe9d) |
-| Thu, 23 Apr 2026 18:12:49 GMT | Wordfence Intelligence Weekly WordPress Vulnerability Report (April 13, 2026 to April 19, 2026) | Wordfence | [Read More](https://medium.com/p/b423c3b9fbf7) |
-| Thu, 23 Apr 2026 18:12:16 GMT | TryHackMe — Expose Writeup | Rootseekerx0x | [Read More](https://medium.com/p/849da9428ffa) |
-| Thu, 23 Apr 2026 18:08:10 GMT | Analyzing GLOBAL GROUP (BlackLock) Artifacts | SIMKRA | [Read More](https://medium.com/p/72dabc14c500) |
-| Thu, 23 Apr 2026 18:00:17 GMT | AI Hacking Claims Spark Debate: Reality, Hype, and the Future of Cybersecurity | Jas | [Read More](https://medium.com/p/6cfdc652e290) |
-| Thu, 23 Apr 2026 17:56:35 GMT | Why the phishing advice you learned is dangerously out of date | Alex Solter | [Read More](https://medium.com/p/306f385eb467) |
-| Thu, 23 Apr 2026 17:56:01 GMT | Security Assessment — Pentesting: 23andMe Web Platform | Leen Adeeb | [Read More](https://medium.com/p/825cfa339e90) |
-| Thu, 23 Apr 2026 17:52:14 GMT | CIAM B2B Principles | Gaz | [Read More](https://medium.com/p/ae47effb54cb) |
-| Thu, 23 Apr 2026 17:51:10 GMT | The Compliance Trap: Why is SAQ D considered a “Silent Killer” for Fintechs? | Cyborgenic Assurance Private Limited | [Read More](https://medium.com/p/aa2688264b10) |
-| Thu, 23 Apr 2026 17:50:51 GMT | Malicious Google Ads Target Crypto Users — How Businesses Can Protect Their Wallets | Defend My Business | [Read More](https://medium.com/p/274828a6c4c2) |
-| Thu, 23 Apr 2026 17:48:42 GMT | The npm Supply Chain Is a Security Risk — Here’s What the Axios & Vercel Incidents Prove | Anuja khatri | [Read More](https://medium.com/p/ab96bc74c667) |
-| Thu, 23 Apr 2026 17:46:41 GMT | Using DNS over HTTPS to Build a Cleaner, Safer Digital Environment on Your PC. | Stack Architect | [Read More](https://medium.com/p/a85301e7788f) |
-| Thu, 23 Apr 2026 17:41:58 GMT | Docker Day 05: How to Create Images, Read Diffs, and Write Your First Dockerfile | Muhammad Kashif | [Read More](https://medium.com/p/02adf0f39aca) |
-| Thu, 23 Apr 2026 17:39:06 GMT | The GRC Platform CISOs Actually Need | Joao Silva | [Read More](https://medium.com/p/fc15faec106e) |
-| Thu, 23 Apr 2026 17:38:55 GMT | How I Found a Critical Bug Using Claude Desktop (Free) | Red Darkin | [Read More](https://medium.com/p/a626e8f3ed67) |
-| Thu, 23 Apr 2026 17:34:09 GMT | ​The Silent Threat: Why 435 Million People Just Changed How They View Digital Safety | Vishal Purohit | [Read More](https://medium.com/p/8e42b246ec20) |
-| Thu, 23 Apr 2026 17:22:41 GMT | How Easily Can Your Wi-Fi Be Hacked? I Tested My Own Hotspot to Find Out. | Alyan Tariq | [Read More](https://medium.com/p/49e04f82404e) |
-| Thu, 23 Apr 2026 17:22:05 GMT | Why I Object to Ohio House Bill 84 (From an Engineering Perspective) | Weston Bassler | [Read More](https://medium.com/p/22ef255584b5) |
