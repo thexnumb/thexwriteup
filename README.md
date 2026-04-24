@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Apr 2026 21:39:43 GMT | AI Just Found Bugs in Rust’s Standard Library. That Changes the Security Conversation | Ajay Kumar | [Read More](https://medium.com/p/54171736d698) |
+| Fri, 24 Apr 2026 21:36:10 GMT | The hidden side of AI: when your biggest risk is inside your organization | Gian Luca Vanoli | [Read More](https://medium.com/p/1f9b287f69e6) |
+| Fri, 24 Apr 2026 21:31:22 GMT | NIS2 Supply Chain Security: Why Europe Is Not Ready for Subcontractor Audits Four Months Before… | solutions@sesinftech.com | [Read More](https://medium.com/p/f66fbf7e53e7) |
+| Fri, 24 Apr 2026 21:29:33 GMT | Breaking Segmentation: VLAN Bypass with WPA2 Handshake Capture and Evil-Twin Attack | Pr3ach3r | [Read More](https://medium.com/p/0baba2d5ec0b) |
+| Fri, 24 Apr 2026 21:06:18 GMT | 5 Cyber Risks Boards Can’t Afford to Ignore | Dr Kimma Wreh | [Read More](https://medium.com/p/969aa027ff98) |
+| Fri, 24 Apr 2026 21:03:15 GMT | MCP Is the Biggest Security Blind Spot in AI Right Now. Here’s What I Found. | Okan Yıldız | [Read More](https://medium.com/p/35cf74056c01) |
+| Fri, 24 Apr 2026 21:01:01 GMT | Claude Mythos Probably Isn’t What You Think It Is | Will Lockett | [Read More](https://medium.com/p/66ef350b6ad6) |
+| Fri, 24 Apr 2026 20:55:43 GMT | I Told gVisor I Was Root & It Believed Me | STarX | [Read More](https://medium.com/p/e6c4538b11eb) |
+| Fri, 24 Apr 2026 20:52:32 GMT | Environment Cross-Trust: Leveraging Staging APIs to “Buy” for $0.00 | 0xPedrop | [Read More](https://medium.com/p/cb257e2bb605) |
 | Fri, 24 Apr 2026 20:41:36 GMT | Azure Policy: Baking Security In part 1 | Joseph A. M. | [Read More](https://medium.com/p/cae200d71d4d) |
 | Fri, 24 Apr 2026 20:19:45 GMT | The Security Debt of Neural Interfaces, and Why We Cannot Afford to Inherit It | Polina Tapal | [Read More](https://medium.com/p/d1a60315daba) |
 | Fri, 24 Apr 2026 20:18:35 GMT | The Rise of OpenClaw: Navigating the Security Risks of Action-Oriented AI | convergence networks | [Read More](https://medium.com/p/214a8cf5d61e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 13:36:46 GMT | The Audit Room Has Two Stories And Neither Is the Full Truth | not your CISO | [Read More](https://medium.com/p/06fb15fe3341) |
 | Fri, 24 Apr 2026 13:32:07 GMT | How I Use AI for Pentesting - Video released | Teri Radichel | [Read More](https://medium.com/p/b0ddf6335de7) |
 | Fri, 24 Apr 2026 13:31:02 GMT | 3 Windows Process Trees Every SOC Analyst Should Recognize on Sight | Jbird | [Read More](https://medium.com/p/cb55db2ddd28) |
-| Fri, 24 Apr 2026 13:30:21 GMT | My review & Journey to Becoming of (ejpt) exam 2026 | Dnyaneshwarshelke | [Read More](https://medium.com/p/0ebe92a2daa8) |
-| Fri, 24 Apr 2026 13:30:17 GMT | Stop Developing Infrastructure-as-Code (IaC), Your Cloud Needs a Requirements Engine | Torsten Boettjer | [Read More](https://medium.com/p/f68d1c57505f) |
-| Fri, 24 Apr 2026 13:24:31 GMT | Anthem TryHackMe Write-up : A Journey into Windows CMS Exploitation | Engosa | [Read More](https://medium.com/p/c91efb0f8cfc) |
-| Fri, 24 Apr 2026 13:20:59 GMT | How Good UI Design Enhances Website Security | Rayhanah Jassim | [Read More](https://medium.com/p/e445341acd52) |
-| Fri, 24 Apr 2026 13:19:54 GMT | NordVPN Review 2026: Is It Still the Fastest and Most Secure VPN? | Tracey Collett | [Read More](https://medium.com/p/2e2922a51f9b) |
-| Fri, 24 Apr 2026 13:19:03 GMT | Sloving CTF’s of flaws.cloud? Read this first. | Adiba Parveen | [Read More](https://medium.com/p/4873a9521c34) |
-| Fri, 24 Apr 2026 13:16:33 GMT | SoSimple Walkthrough (Proving Ground-play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/c9a01f4a87cc) |
-| Fri, 24 Apr 2026 13:16:23 GMT | When Visibility Becomes Noise: It’s Context Dependent | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/75f7bbb61b8d) |
-| Fri, 24 Apr 2026 13:12:22 GMT | Beneath the Strength You Perform. | Shaanu Sharma | [Read More](https://medium.com/p/09f2b6a35db1) |
