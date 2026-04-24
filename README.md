@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Apr 2026 19:46:58 GMT | Les 10 commandements de l’éthique informatique | Patricia SOWOU | [Read More](https://medium.com/p/e2b1333f38ae) |
+| Fri, 24 Apr 2026 19:41:02 GMT | Anthropic’s Secret AI Found 271 Security Bugs in Firefox. That Should Worry Everyone. | Nexairi Mentis | [Read More](https://medium.com/p/431306b93aef) |
+| Fri, 24 Apr 2026 19:39:21 GMT | CyberDefenders — ShadowRoast Lab Writeup | JBXSec | [Read More](https://medium.com/p/d79a92fc47c4) |
+| Fri, 24 Apr 2026 19:38:17 GMT | Not Another (Incident Response) Framework | RootXover | [Read More](https://medium.com/p/aeff9d27887c) |
+| Fri, 24 Apr 2026 19:34:25 GMT | Billing TryHackMe — Boot2root CTF challenge writeup | Scorpius | [Read More](https://medium.com/p/bc7cd449b7d8) |
+| Fri, 24 Apr 2026 19:32:38 GMT | Hackers Exploiting SS7 & Diameter: A Silent Threat to Mobile Security | Vishnukraju | [Read More](https://medium.com/p/98d776dd5b1c) |
+| Fri, 24 Apr 2026 19:32:22 GMT | Cybersecurity Threats Are Rising Globally — And It’s Accelerating | Universal Record | [Read More](https://medium.com/p/c839b9823faf) |
+| Fri, 24 Apr 2026 19:32:22 GMT | How Small and Mid-Sized Businesses Can Afford Effective Cyber Security Compliance | Fortnexs Shield | [Read More](https://medium.com/p/ac36be998162) |
+| Fri, 24 Apr 2026 19:30:35 GMT | The Cyber Kill Chain: Understanding How Cyberattacks Unfold | ThatCyberGirl | [Read More](https://medium.com/p/34ec4bb52b4e) |
+| Fri, 24 Apr 2026 19:23:43 GMT | Arbitrary File Read via Exported Activity (Android) | Lewis Crawford | [Read More](https://medium.com/p/7f0d3862e5f3) |
+| Fri, 24 Apr 2026 19:16:01 GMT | From Fake Flag to Full RCE — Clankers Market Writeup | S0n1c_404 | [Read More](https://medium.com/p/4e9532bcb551) |
+| Fri, 24 Apr 2026 18:42:37 GMT | The HTTP 303 Hack — From Python HTTP Client Defaults to AWS Credential Exfiltration — A Deep Dive… | Alvin Ferdiansyah | [Read More](https://medium.com/p/bfaece6c3805) |
 | Fri, 24 Apr 2026 18:42:00 GMT | Try Hack Me- Bolt Walkthrough | PulseEinher | [Read More](https://medium.com/p/10a1d4b5a504) |
 | Fri, 24 Apr 2026 18:33:31 GMT | mSpy Suspicious Link Blocker: What I Found | Janina Perdzock | [Read More](https://medium.com/p/1209db37f9aa) |
 | Fri, 24 Apr 2026 18:27:51 GMT | Business Analyst P.6: Strategy Analysis | Fachry Andika Rachman | [Read More](https://medium.com/p/ce7ad4de2d91) |
@@ -56,9 +68,11 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 15:49:15 GMT | Trapped In Kafala; Vulnerability of Women Domestic Workers from Philippines Amid Rising Conflicts… | Nezafet Yesil | [Read More](https://medium.com/p/9527e2547820) |
 | Fri, 24 Apr 2026 15:47:57 GMT | Defensive Security Intro | Stacy Sirbu | [Read More](https://medium.com/p/096c16929d7e) |
 | Fri, 24 Apr 2026 15:46:01 GMT | Part 2 — Meet Git-Kepo Pro: Upgrading AI Detective Into a Full Git Security and Network Scanner | Levente Csikor | [Read More](https://medium.com/p/ae1e6fb48167) |
+| Fri, 24 Apr 2026 15:44:54 GMT | File Inclusion | Mahmoud Mousa | [Read More](https://medium.com/p/bd6db3dc5646) |
 | Fri, 24 Apr 2026 15:37:35 GMT | Malware That Lives in Your GPU : The Idea Is Simple and Brilliant | zerOiQ | [Read More](https://medium.com/p/1132e3e21cc6) |
 | Fri, 24 Apr 2026 15:09:57 GMT | The Courage to Be Seen | Beyond Borders | [Read More](https://medium.com/p/f21dadfce752) |
 | Fri, 24 Apr 2026 15:02:19 GMT | Offensive Security Intro | Stacy Sirbu | [Read More](https://medium.com/p/05ff88bd1f73) |
+| Fri, 24 Apr 2026 15:01:43 GMT | Policy-Freeze Is the Missing Primitive in Agent Infrastructure — and Anthropic Just Made the Case… | Sattyam Jain | [Read More](https://medium.com/p/331be64fa00e) |
 | Fri, 24 Apr 2026 14:57:17 GMT | 337,000 Files. None of Them Were Supposed to Leave That Server. | Ilias Armenakis | [Read More](https://medium.com/p/b65e6882f660) |
 | Fri, 24 Apr 2026 14:56:12 GMT | How the Entry/Exit System Integrates AI, Biometrics, and Data Governance | nishu facile | [Read More](https://medium.com/p/a03d4d4dffd1) |
 | Fri, 24 Apr 2026 14:54:46 GMT | Firewall Management on Linux with UFW and Iptables Fundamentals | Burak Erdem Yaprak | [Read More](https://medium.com/p/76a56b2f12c4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 12:53:41 GMT | What Is a VPN? How Private Networks Work Over the Internet | Mutcherla Jayani | [Read More](https://medium.com/p/b203be3e6a1a) |
 | Fri, 24 Apr 2026 12:52:20 GMT | I Changed a Number — and Accessed Another User’s Data | Vishnuram M | [Read More](https://medium.com/p/2ec324cf0984) |
 | Fri, 24 Apr 2026 12:50:37 GMT | Security is not a promise. It is a system. | NanoChain | [Read More](https://medium.com/p/83062072ffeb) |
-| Fri, 24 Apr 2026 12:46:01 GMT | What a Baby Food Contamination Case Reveals About the Real Nature of Security Risk | Luke Appleby | [Read More](https://medium.com/p/5511ff847f55) |
-| Fri, 24 Apr 2026 12:35:08 GMT | Broken Authentication: A Critical Risk to User Identity and Application Security | Sathiyapriya V | [Read More](https://medium.com/p/7b5aaedd265f) |
-| Fri, 24 Apr 2026 12:34:18 GMT | Beyond the Vibe Check: Why AI Guardrails are Failing the $7.9 Trillion Stress Test — evecore.ai | Jamauriceholt | [Read More](https://medium.com/p/90fe6f6a7711) |
-| Fri, 24 Apr 2026 12:22:38 GMT | Investigating PowerShell Event Logs: A Practical Guide for SOC Analysts | Ishita Singh | [Read More](https://medium.com/p/d8dad1ea39f3) |
-| Fri, 24 Apr 2026 12:11:56 GMT | dmi⚡ XSS → Admin Takeover — From Browser Control to Full Power | ghostyjoe | [Read More](https://medium.com/p/0b0154812404) |
-| Fri, 24 Apr 2026 12:10:05 GMT | Support — HTB writeup | Owais Khan | [Read More](https://medium.com/p/c47829dc0719) |
-| Fri, 24 Apr 2026 12:04:15 GMT | How Hackers Actually Attack Online Games — A Cybersecurity Expert Explains | Ramyaabharathi | [Read More](https://medium.com/p/a0130a5210fa) |
-| Fri, 24 Apr 2026 12:01:01 GMT | ISC2 Will End Free Certified in Cybersecurity Program May 20, 2026 | carlarjenkins | [Read More](https://medium.com/p/a6645c1322dd) |
-| Fri, 24 Apr 2026 11:59:53 GMT | Living With the Weight of This Work | Camila Santos | [Read More](https://medium.com/p/a08eb3155b25) |
-| Fri, 24 Apr 2026 11:57:47 GMT | Google to bid for use of Softbank's Ohio data center - Nikkei | GBG Banking News | [Read More](https://medium.com/p/31adbaaebc4f) |
-| Fri, 24 Apr 2026 11:57:08 GMT | Before the Next WannaCry | Peter Kahl | [Read More](https://medium.com/p/053eaf7af7d2) |
-| Fri, 24 Apr 2026 11:56:46 GMT | Mastering Penetration Testing for Web Application Security | Application Security Master | [Read More](https://medium.com/p/7609a80e3dcf) |
-| Fri, 24 Apr 2026 11:54:03 GMT | Overthewire Room (Natas) | nafay | [Read More](https://medium.com/p/b40cf3650e1c) |
-| Fri, 24 Apr 2026 11:51:25 GMT | AEM Misconfiguration: How I Pulled 127MB of Internal Repository Data From a Luxury Brand — No Auth… | Mallikarjun Biradar | [Read More](https://medium.com/p/d7b38784a01e) |
