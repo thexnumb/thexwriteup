@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Apr 2026 11:33:47 GMT | I Found AWS Credentials in a Public JavaScript Bundle. Here’s What That Means. | Mallikarjun Biradar | [Read More](https://medium.com/p/3de6f1baedfe) |
+| Fri, 24 Apr 2026 11:31:01 GMT | The Guilt of Moving On: When Your Friends Are Holding on Better Than You Are | Nabila NR | [Read More](https://medium.com/p/c43e1906d707) |
+| Fri, 24 Apr 2026 11:20:49 GMT | AI Native Security Orchestration Gains Momentum with Rilian Funding Boost | Jas | [Read More](https://medium.com/p/f1d7e129ab85) |
+| Fri, 24 Apr 2026 11:14:42 GMT | What is Ethical Hacking? A Beginner’s Guide for Students | Sourv | [Read More](https://medium.com/p/7022a8e8bb6c) |
+| Fri, 24 Apr 2026 11:11:41 GMT | Axios npm Hijack (2026): Full Breakdown, Impact and How to Protect Your Systems | oluwayomi Adefemi | [Read More](https://medium.com/p/8ed3babc2f6f) |
+| Fri, 24 Apr 2026 11:07:50 GMT | AI as a Cyber Weapon: Are We Building the Next Digital Threat? | Cybersphere Official | [Read More](https://medium.com/p/66e4de13527a) |
+| Fri, 24 Apr 2026 11:07:38 GMT | Monitoring Active Directory: TryHackMe | Shubham Kumar | [Read More](https://medium.com/p/b4910fec86cf) |
+| Fri, 24 Apr 2026 11:05:25 GMT | Why access-first auth matters? | Anton Minin Baranovskii | [Read More](https://medium.com/p/fd00207880b0) |
+| Fri, 24 Apr 2026 11:03:48 GMT | Reflected XSS in Bali Government Search Endpoint | Osama Alaa | [Read More](https://medium.com/p/04f2843ba62f) |
+| Fri, 24 Apr 2026 11:01:44 GMT | Compliance Solutions for ISO 27001 and SOC 2: How to Avoid Duplicate Work and Save Time | Jayata | [Read More](https://medium.com/p/bd9f3589b39d) |
+| Fri, 24 Apr 2026 10:58:21 GMT | Zero Trust Meets Incident Response: Continuous Verification for Rapid Containment | NetWitness | [Read More](https://medium.com/p/c7f5c1f2226c) |
+| Fri, 24 Apr 2026 10:57:34 GMT | What is GRC and Why Every Tech Company Needs It | Ramyaabharathi | [Read More](https://medium.com/p/3f8b3c4c515e) |
+| Fri, 24 Apr 2026 10:54:29 GMT | Top 11 Software Testing Companies | Tech and Business Blog | [Read More](https://medium.com/p/b683b8e536d0) |
+| Fri, 24 Apr 2026 10:35:43 GMT | Attack Campaign: Tunisian Gov Database Breached,French Healthcare Data Stolen | PhatomCandle | [Read More](https://medium.com/p/5f599e70deda) |
+| Fri, 24 Apr 2026 10:30:59 GMT | Best Security Services in Trichy | Eoxsecureservices | [Read More](https://medium.com/p/970b1c8cf96c) |
+| Fri, 24 Apr 2026 10:11:08 GMT | The Shadow Chain (Part II): PowerShell, SSL/TLS, and the Art of Bypassing Corporate Firewalls | Frank Mccausland | [Read More](https://medium.com/p/eb5d3ee3a0c6) |
+| Fri, 24 Apr 2026 10:05:46 GMT | Wapiti Deep Dive - Web App Security Testing Tool | Pentester Club | [Read More](https://medium.com/p/5e58f26288ab) |
+| Fri, 24 Apr 2026 10:04:02 GMT | Spring — Spring Boot Actuator RCE + Symlink Arbitrary Write to Root - TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/ed5c7635ed3c) |
 | Fri, 24 Apr 2026 10:02:13 GMT | Securing an AWS EC2 Instance: My First Cloud Security Project | Bandepratiksha | [Read More](https://medium.com/p/78eb5c763bad) |
 | Fri, 24 Apr 2026 10:01:02 GMT | The Invisible Economy Behind Esports: Code, Skins, and Quiet Money | Franziska "Ziska" Fink | [Read More](https://medium.com/p/9c247d7d487c) |
 | Fri, 24 Apr 2026 09:53:17 GMT | Is Penetration Testing Becoming a Complex Process | Reema K.R | [Read More](https://medium.com/p/024c304b26ba) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 03:02:02 GMT | Is Your Home Ready for a New Garage Door? | Izhak Levi | [Read More](https://medium.com/p/d73a91a86453) |
 | Fri, 24 Apr 2026 02:26:32 GMT | Name Calling — BlueHens CTF 2026 Forensics Writeup | Z3DX | [Read More](https://medium.com/p/e32594fcca13) |
 | Fri, 24 Apr 2026 02:25:58 GMT | Weekly Threat Intelligence Report 20 Apr 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/c4a3c5fd060b) |
-| Fri, 24 Apr 2026 02:24:46 GMT | OSINT Challenge Writeup: Glasses 2 - BlueHens CTF 2026 | Z3DX | [Read More](https://medium.com/p/fccd03944c9c) |
-| Fri, 24 Apr 2026 02:23:14 GMT | El sistema no fue comprometido. Fue convencido. | Fernando Flores Alvarado | [Read More](https://medium.com/p/e45ea019adb6) |
-| Fri, 24 Apr 2026 02:13:41 GMT | Don’t Waste Your Summer: How Smart Students Turn 2 Months Into Career Advantage | Elevance skills | [Read More](https://medium.com/p/5b8699acb0eb) |
-| Fri, 24 Apr 2026 02:11:08 GMT | What Is Malvertising? A Chill Breakdown | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/bfeaa1848eac) |
-| Fri, 24 Apr 2026 02:01:58 GMT | Bug Bounty Series— Part 1 (Bug Bounty Basics) | Aditya Kumar | [Read More](https://medium.com/p/7c2937fa8cde) |
-| Fri, 24 Apr 2026 01:58:02 GMT | The Security Breach You Are Actively Encouraging: Why a Slow Help Desk is Your Biggest Cyber Threat | Aleksandr | [Read More](https://medium.com/p/41e9ceacbf22) |
-| Fri, 24 Apr 2026 01:56:15 GMT | The Hidden Risks in AI Training Model Poisoning and Supply Chain Attacks in LLMs | Chidubem Chukwu | [Read More](https://medium.com/p/e7d4756f349b) |
-| Fri, 24 Apr 2026 01:50:38 GMT | Cronos — HTB Writeup | William Shively | [Read More](https://medium.com/p/ebc4f022da77) |
-| Fri, 24 Apr 2026 01:28:35 GMT | Attention is the Attack Surface | Prasanna Aravindan | [Read More](https://medium.com/p/6488a307831d) |
-| Fri, 24 Apr 2026 01:17:18 GMT | META TO RECORD EMPLOYEES KEYSTROKES AND USE IT TO TRAIN ITS AI MODELS | Law and Ethics in Tech | [Read More](https://medium.com/p/574ba3ec2d44) |
-| Fri, 24 Apr 2026 00:50:30 GMT | Why Rule-Based Fraud Detection Is Failing in 2025 | Alexey Porubay | [Read More](https://medium.com/p/072142d5d67f) |
-| Fri, 24 Apr 2026 00:47:06 GMT | What a TryHackMe Live Session Taught Me About AI, Cybersecurity, and the Skills That Will Matter… | Mansi Mahamuni | [Read More](https://medium.com/p/ff36d60d7422) |
-| Fri, 24 Apr 2026 00:05:16 GMT | Why Your Indie Game Needs a “Black Box” Flight Recorder | Shimos | [Read More](https://medium.com/p/68f8f4da0c85) |
-| Fri, 24 Apr 2026 00:01:04 GMT | Guía Maestra de SSRF: Estrategias de Explotación y Mitigación | JPablo13 | [Read More](https://medium.com/p/ae3b7a4b2ce8) |
-| Thu, 23 Apr 2026 23:50:43 GMT | UK Public Safety Crisis: Government Failure, Political Cowardice, and a Nation Losing Control | Everclear | [Read More](https://medium.com/p/7b2e1802cc9a) |
-| Thu, 23 Apr 2026 23:45:45 GMT | Day 10: Bypassing SameSite Lax with Method Override (CSRF Lab Walkthrough) | zero_day | [Read More](https://medium.com/p/aed3f70cdea8) |
-| Thu, 23 Apr 2026 23:42:14 GMT | How To Build Linux-SysAdmin-Project | Kareem Seddik | [Read More](https://medium.com/p/77f97c6c1632) |
-| Thu, 23 Apr 2026 23:41:58 GMT | Sarah Fed the Phish: A True Story + Why Password Reset Emails Are Everywhere in 2026” | Kevin Kelly | [Read More](https://medium.com/p/8641738ad22a) |
