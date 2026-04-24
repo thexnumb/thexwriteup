@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Apr 2026 18:42:00 GMT | Try Hack Me- Bolt Walkthrough | PulseEinher | [Read More](https://medium.com/p/10a1d4b5a504) |
+| Fri, 24 Apr 2026 18:33:31 GMT | mSpy Suspicious Link Blocker: What I Found | Janina Perdzock | [Read More](https://medium.com/p/1209db37f9aa) |
+| Fri, 24 Apr 2026 18:27:51 GMT | Business Analyst P.6: Strategy Analysis | Fachry Andika Rachman | [Read More](https://medium.com/p/ce7ad4de2d91) |
+| Fri, 24 Apr 2026 18:26:48 GMT | The Hook — Why security is infrastructure, not a feature | Reuben Lim | [Read More](https://medium.com/p/2aed464a55ec) |
+| Fri, 24 Apr 2026 18:14:06 GMT | Common Threat Vectors (Attack Vectors) | Mahdi | [Read More](https://medium.com/p/406a4b1852c2) |
+| Fri, 24 Apr 2026 18:13:08 GMT | Classification of Attacks — A Must-Know for All Industry Professionals | Mahadevan Varadhan | [Read More](https://medium.com/p/d9064ab661bd) |
+| Fri, 24 Apr 2026 18:12:33 GMT | I’m never gonna be good enough for you, am I?! | Ryan Nightingale | [Read More](https://medium.com/p/ab9bd2fc3613) |
+| Fri, 24 Apr 2026 18:05:32 GMT | Firewall Breach Exposes Critical Risk: Backdoor Found in Government Network | Jas | [Read More](https://medium.com/p/29eb321d2ad2) |
+| Fri, 24 Apr 2026 18:02:46 GMT | “The Rise of AI Agents in the SOC — What Every Security Professional Needs to Know in 2026” | Sai kiran | [Read More](https://medium.com/p/8e1cc4401f2f) |
+| Fri, 24 Apr 2026 18:01:11 GMT | Signed, Vulnerable, and Still Dangerous: What a BYOVD Research Project Taught Me About Kernel Trust… | Anthony Cihan | [Read More](https://medium.com/p/4db8ab44654a) |
+| Fri, 24 Apr 2026 17:53:40 GMT | Digital Ghosting: Why Privacy-Focused Browsing is the New Standard for 2026 | extensionto_hub | [Read More](https://medium.com/p/ff228a2db4a0) |
+| Fri, 24 Apr 2026 17:46:52 GMT | I Gave Cybersecurity 14 Days, Here’s What Actually Happened | Dhruv Kapoor - Aspiring Red Team Operator | [Read More](https://medium.com/p/af6efced839a) |
+| Fri, 24 Apr 2026 17:38:00 GMT | The Hidden Power of Browser Extensions: How to Build Your Ultimate Digital Workspa | extensionto_hub | [Read More](https://medium.com/p/4366856f08e6) |
+| Fri, 24 Apr 2026 17:37:15 GMT | From Zero to Cybersecurity Foundations: My Journey Through TryHackMe’s Pre-Security Path | Anywaffleleft | [Read More](https://medium.com/p/abfbd06b81c5) |
 | Fri, 24 Apr 2026 17:37:13 GMT | The Mythos Singularity: Why Cyber Defense Just Lost the Luxury of Time | SOCFortress | [Read More](https://medium.com/p/3c2ce65dbb7e) |
 | Fri, 24 Apr 2026 17:36:07 GMT | 5 Coding Mistakes That Create Security Vulnerabilities | Hania Khan | [Read More](https://medium.com/p/1035d0b2f0cf) |
 | Fri, 24 Apr 2026 17:31:48 GMT | Breaking the Invisible Wall: A QA Intern’s Guide to setup the Burp Suite Proxy ️ | Lakshan roshana | [Read More](https://medium.com/p/025b109bf395) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 11:56:46 GMT | Mastering Penetration Testing for Web Application Security | Application Security Master | [Read More](https://medium.com/p/7609a80e3dcf) |
 | Fri, 24 Apr 2026 11:54:03 GMT | Overthewire Room (Natas) | nafay | [Read More](https://medium.com/p/b40cf3650e1c) |
 | Fri, 24 Apr 2026 11:51:25 GMT | AEM Misconfiguration: How I Pulled 127MB of Internal Repository Data From a Luxury Brand — No Auth… | Mallikarjun Biradar | [Read More](https://medium.com/p/d7b38784a01e) |
-| Fri, 24 Apr 2026 11:45:23 GMT | How to Build a Fully Rooted Android 14 (API 34) Emulator on Windows 11 Using rootAVD | Bash Overflow | [Read More](https://medium.com/p/276075f8373d) |
-| Fri, 24 Apr 2026 11:41:05 GMT | What Is Cybersecurity and Why It Matters | Jimin Park | [Read More](https://medium.com/p/e4d5a5eff71d) |
-| Fri, 24 Apr 2026 11:38:26 GMT | Red Team vs Blue Team: Understanding the Two Sides of Cyber Defense | asha | [Read More](https://medium.com/p/81bdcde30306) |
-| Fri, 24 Apr 2026 11:33:47 GMT | I Found AWS Credentials in a Public JavaScript Bundle. Here’s What That Means. | Mallikarjun Biradar | [Read More](https://medium.com/p/3de6f1baedfe) |
-| Fri, 24 Apr 2026 11:31:01 GMT | The Guilt of Moving On: When Your Friends Are Holding on Better Than You Are | Nabila NR | [Read More](https://medium.com/p/c43e1906d707) |
-| Fri, 24 Apr 2026 11:20:49 GMT | AI Native Security Orchestration Gains Momentum with Rilian Funding Boost | Jas | [Read More](https://medium.com/p/f1d7e129ab85) |
-| Fri, 24 Apr 2026 11:14:42 GMT | What is Ethical Hacking? A Beginner’s Guide for Students | Sourv | [Read More](https://medium.com/p/7022a8e8bb6c) |
-| Fri, 24 Apr 2026 11:11:41 GMT | Axios npm Hijack (2026): Full Breakdown, Impact and How to Protect Your Systems | oluwayomi Adefemi | [Read More](https://medium.com/p/8ed3babc2f6f) |
-| Fri, 24 Apr 2026 11:07:50 GMT | AI as a Cyber Weapon: Are We Building the Next Digital Threat? | Cybersphere Official | [Read More](https://medium.com/p/66e4de13527a) |
-| Fri, 24 Apr 2026 11:07:38 GMT | Monitoring Active Directory: TryHackMe | Shubham Kumar | [Read More](https://medium.com/p/b4910fec86cf) |
-| Fri, 24 Apr 2026 11:05:25 GMT | Why access-first auth matters? | Anton Minin Baranovskii | [Read More](https://medium.com/p/fd00207880b0) |
-| Fri, 24 Apr 2026 11:03:48 GMT | Reflected XSS in Bali Government Search Endpoint | Osama Alaa | [Read More](https://medium.com/p/04f2843ba62f) |
-| Fri, 24 Apr 2026 11:01:44 GMT | Compliance Solutions for ISO 27001 and SOC 2: How to Avoid Duplicate Work and Save Time | Jayata | [Read More](https://medium.com/p/bd9f3589b39d) |
-| Fri, 24 Apr 2026 10:58:21 GMT | Zero Trust Meets Incident Response: Continuous Verification for Rapid Containment | NetWitness | [Read More](https://medium.com/p/c7f5c1f2226c) |
