@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Apr 2026 23:30:43 GMT | PAN Security | Beth Cochran | [Read More](https://medium.com/p/1105fd7799fd) |
+| Fri, 24 Apr 2026 23:19:27 GMT | Deterministic vs Probabilistic AI in DFIR: Understanding the Balance Between Certainty and… | Onyedikachi Bernard Okoh | [Read More](https://medium.com/p/1e48131cef5c) |
+| Fri, 24 Apr 2026 23:07:53 GMT | Method-based access control can be circumvented - Portswigger Academy | 7s26Simon | [Read More](https://medium.com/p/f2ee66217383) |
+| Fri, 24 Apr 2026 23:04:28 GMT | OffSec Proving Grounds “Monitoring” Writeup | sabR | [Read More](https://medium.com/p/77ab314f4ce7) |
+| Fri, 24 Apr 2026 22:58:30 GMT | This Chick Is Not Real | Franky Arriola | [Read More](https://medium.com/p/93b561e87b77) |
+| Fri, 24 Apr 2026 22:53:34 GMT | The Rediscovered Wheel: How a 2026 Cybersecurity Paper Dressed the 1960s in a Lab Coat | Berend Watchus | [Read More](https://medium.com/p/712baeb876cf) |
 | Fri, 24 Apr 2026 22:38:05 GMT | Stop Identity Hijacking in DaaS: A 2026 Guide to Passkeys and Token Protection | Resahebi | [Read More](https://medium.com/p/01e0c494b6a8) |
+| Fri, 24 Apr 2026 22:37:58 GMT | Energy Security: Protecting the State, Restricting the Individual | Ezgi Aykamış | [Read More](https://medium.com/p/efbcec65beba) |
 | Fri, 24 Apr 2026 22:16:07 GMT | CVE Stack Monitor — Get Alerted on CVEs That Hit Your Exact Infrastructure | Neetrox | [Read More](https://medium.com/p/bb7c2322e30f) |
 | Fri, 24 Apr 2026 22:08:02 GMT | How I Mapped Spotify’s Undocumented Endpoints | Dario Mory | [Read More](https://medium.com/p/8ca89656ae9a) |
 | Fri, 24 Apr 2026 22:05:24 GMT | How AI changed the way I design, and what it can’t replace | Aditi Magal | [Read More](https://medium.com/p/db59dec30124) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 14:43:10 GMT | Securing the Backbone — Issue #28: When 18 Nations Agree — The Global SBOM Consensus and What It… | Eric Gallagher | [Read More](https://medium.com/p/a77b50b30a70) |
 | Fri, 24 Apr 2026 14:42:49 GMT | Securing the Backbone — Issue #27: The Hidden Cost of Technical Debt in Critical Infrastructure | Eric Gallagher | [Read More](https://medium.com/p/54f2231e76e3) |
 | Fri, 24 Apr 2026 14:41:44 GMT | Scam Alerts: Turning Internet Safety into a Habit | James Smith | [Read More](https://medium.com/p/8f7b4187a33d) |
-| Fri, 24 Apr 2026 14:40:45 GMT | Linux UFW ve iptables ile Firewall Yönetimi Temelleri | Burak Erdem Yaprak | [Read More](https://medium.com/p/2b492087a2d9) |
-| Fri, 24 Apr 2026 14:38:16 GMT | The Vibe Coding Trap: Why Your Weekend AI Demo is an Enterprise Liability | Phill Keene | [Read More](https://medium.com/p/7f474cffc4ad) |
-| Fri, 24 Apr 2026 14:38:00 GMT | Resources I used to prepare for CISSP | Desislava Nikolaeva | [Read More](https://medium.com/p/fcd3f2fd6a8b) |
-| Fri, 24 Apr 2026 14:36:14 GMT | SSTI1-PicoCTF | Rajputaryan | [Read More](https://medium.com/p/4694f932a135) |
-| Fri, 24 Apr 2026 14:32:31 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/25372272ee63) |
-| Fri, 24 Apr 2026 14:30:24 GMT | PortSwigger Lab Writeup — Bypassing AI scanner defenses to exfiltrate sensitive information | Raghav | [Read More](https://medium.com/p/92394302f4d4) |
-| Fri, 24 Apr 2026 14:26:42 GMT | New Tool For Pentesters | Himanshu | [Read More](https://medium.com/p/58c288d91889) |
