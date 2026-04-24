@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 24 Apr 2026 02:26:32 GMT | Name Calling — BlueHens CTF 2026 Forensics Writeup | Z3DX | [Read More](https://medium.com/p/e32594fcca13) |
+| Fri, 24 Apr 2026 02:25:58 GMT | Weekly Threat Intelligence Report 20 Apr 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/c4a3c5fd060b) |
+| Fri, 24 Apr 2026 02:24:46 GMT | OSINT Challenge Writeup: Glasses 2 - BlueHens CTF 2026 | Z3DX | [Read More](https://medium.com/p/fccd03944c9c) |
+| Fri, 24 Apr 2026 02:23:14 GMT | El sistema no fue comprometido. Fue convencido. | Fernando Flores Alvarado | [Read More](https://medium.com/p/e45ea019adb6) |
+| Fri, 24 Apr 2026 02:13:41 GMT | Don’t Waste Your Summer: How Smart Students Turn 2 Months Into Career Advantage | Elevance skills | [Read More](https://medium.com/p/5b8699acb0eb) |
+| Fri, 24 Apr 2026 02:11:08 GMT | What Is Malvertising? A Chill Breakdown | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/bfeaa1848eac) |
+| Fri, 24 Apr 2026 02:01:58 GMT | Bug Bounty Series— Part 1 (Bug Bounty Basics) | Aditya Kumar | [Read More](https://medium.com/p/7c2937fa8cde) |
+| Fri, 24 Apr 2026 01:58:02 GMT | The Security Breach You Are Actively Encouraging: Why a Slow Help Desk is Your Biggest Cyber Threat | Aleksandr | [Read More](https://medium.com/p/41e9ceacbf22) |
+| Fri, 24 Apr 2026 01:56:15 GMT | The Hidden Risks in AI Training Model Poisoning and Supply Chain Attacks in LLMs | Chidubem Chukwu | [Read More](https://medium.com/p/e7d4756f349b) |
+| Fri, 24 Apr 2026 01:50:38 GMT | Cronos — HTB Writeup | William Shively | [Read More](https://medium.com/p/ebc4f022da77) |
+| Fri, 24 Apr 2026 01:28:35 GMT | Attention is the Attack Surface | Prasanna Aravindan | [Read More](https://medium.com/p/6488a307831d) |
+| Fri, 24 Apr 2026 01:17:18 GMT | META TO RECORD EMPLOYEES KEYSTROKES AND USE IT TO TRAIN ITS AI MODELS | Law and Ethics in Tech | [Read More](https://medium.com/p/574ba3ec2d44) |
+| Fri, 24 Apr 2026 00:50:30 GMT | Why Rule-Based Fraud Detection Is Failing in 2025 | Alexey Porubay | [Read More](https://medium.com/p/072142d5d67f) |
+| Fri, 24 Apr 2026 00:47:06 GMT | What a TryHackMe Live Session Taught Me About AI, Cybersecurity, and the Skills That Will Matter… | Mansi Mahamuni | [Read More](https://medium.com/p/ff36d60d7422) |
+| Fri, 24 Apr 2026 00:05:16 GMT | Why Your Indie Game Needs a “Black Box” Flight Recorder | Shimos | [Read More](https://medium.com/p/68f8f4da0c85) |
+| Fri, 24 Apr 2026 00:01:04 GMT | Guía Maestra de SSRF: Estrategias de Explotación y Mitigación | JPablo13 | [Read More](https://medium.com/p/ae3b7a4b2ce8) |
+| Thu, 23 Apr 2026 23:50:43 GMT | UK Public Safety Crisis: Government Failure, Political Cowardice, and a Nation Losing Control | Everclear | [Read More](https://medium.com/p/7b2e1802cc9a) |
 | Thu, 23 Apr 2026 23:45:45 GMT | Day 10: Bypassing SameSite Lax with Method Override (CSRF Lab Walkthrough) | zero_day | [Read More](https://medium.com/p/aed3f70cdea8) |
 | Thu, 23 Apr 2026 23:42:14 GMT | How To Build Linux-SysAdmin-Project | Kareem Seddik | [Read More](https://medium.com/p/77f97c6c1632) |
 | Thu, 23 Apr 2026 23:41:58 GMT | Sarah Fed the Phish: A True Story + Why Password Reset Emails Are Everywhere in 2026” | Kevin Kelly | [Read More](https://medium.com/p/8641738ad22a) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 23 Apr 2026 17:34:09 GMT | ​The Silent Threat: Why 435 Million People Just Changed How They View Digital Safety | Vishal Purohit | [Read More](https://medium.com/p/8e42b246ec20) |
 | Thu, 23 Apr 2026 17:22:41 GMT | How Easily Can Your Wi-Fi Be Hacked? I Tested My Own Hotspot to Find Out. | Alyan Tariq | [Read More](https://medium.com/p/49e04f82404e) |
 | Thu, 23 Apr 2026 17:22:05 GMT | Why I Object to Ohio House Bill 84 (From an Engineering Perspective) | Weston Bassler | [Read More](https://medium.com/p/22ef255584b5) |
-| Thu, 23 Apr 2026 17:19:06 GMT | Synthetic Cannabinoids on the Dark Web: Trends, Risks, and What’s Changing | Tor BBB | [Read More](https://medium.com/p/2c1d3b8b44b5) |
-| Thu, 23 Apr 2026 17:04:26 GMT | 10 CVEs, 16 Broken Endpoints, and a SECRET_KEY That Wasn’t Secret | Subhrajit Mohanty | [Read More](https://medium.com/p/50d046218f2e) |
-| Thu, 23 Apr 2026 17:01:02 GMT | Part 2 — Ghost Seller, Fake Phone: Mapping the Hidden Architecture of an ALPS Clone Device | C. Oscar Lawshea | [Read More](https://medium.com/p/2c0aa8f04a90) |
-| Thu, 23 Apr 2026 16:47:33 GMT | From Threat Profile to Residual Risk: A Practitioner’s Approach to Cyber Risk Assessment | Eran Atias | [Read More](https://medium.com/p/8a79a7732226) |
-| Thu, 23 Apr 2026 16:44:53 GMT | SonicWall TZ500 — TZ Series 8-Port UTM Firewall Appliance Review | Temma | [Read More](https://medium.com/p/bdf18271a7a2) |
-| Thu, 23 Apr 2026 16:43:43 GMT | # The Node.js Upload Endpoint You Forgot Is a Liability | JustSouichi | [Read More](https://medium.com/p/9c0ccd263a6f) |
-| Thu, 23 Apr 2026 16:42:52 GMT | Android Trojan: The Hidden App That Looks Safe but Steals Everything | Natarajan C K | [Read More](https://medium.com/p/63ed1b44ef41) |
-| Thu, 23 Apr 2026 16:40:34 GMT | From Scripts to Systems: How Modern Cybersecurity Is Becoming an AI-Driven Battlefield | Matad0r | [Read More](https://medium.com/p/4a5cdb954afc) |
-| Thu, 23 Apr 2026 16:39:51 GMT | Contemporary Cybersecurity Plans of MSPs and SMBs: An Action Guide | Vijilan | [Read More](https://medium.com/p/99015782b9a7) |
-| Thu, 23 Apr 2026 16:38:38 GMT | Security Assessment with Trivy: From Vulnerability Detection to Remediation | byteGirl | [Read More](https://medium.com/p/15e123b260b9) |
-| Thu, 23 Apr 2026 16:34:45 GMT | After the Vercel Incident, Should You Move to a VPS? | SOVANNARO | [Read More](https://medium.com/p/cd0a125dc0fa) |
-| Thu, 23 Apr 2026 16:33:46 GMT | The Bleeding Edge: Security Fails at the Edges. | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/01238699dc32) |
-| Thu, 23 Apr 2026 16:32:03 GMT | IPv4 Network | IPv4 TradeHub | [Read More](https://medium.com/p/83e0ceccbfd1) |
-| Thu, 23 Apr 2026 16:29:30 GMT | Security Concepts Every Java Developer in Banking Should Master: Part 4 | Kalyani Dagde | [Read More](https://medium.com/p/a9d3ed742105) |
-| Thu, 23 Apr 2026 16:21:15 GMT | I Scanned 50 Small Business Websites: Here’s What They All Got Wrong | Webshield | [Read More](https://medium.com/p/eb76a62cbb6f) |
-| Thu, 23 Apr 2026 16:18:49 GMT | What Is Phishing And How To Spot A Phishing Attempt | Adeyemi Aisha | [Read More](https://medium.com/p/0260532a205e) |
-| Thu, 23 Apr 2026 16:17:36 GMT | The 8-Point Website Security Checklist Every Site Owner Should Run Today | Webshield | [Read More](https://medium.com/p/09f7a81ebfc8) |
