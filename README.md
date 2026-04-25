@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 17:27:12 GMT | Just in: The Dean of Student addresses the Students Populace as regards security issues of students… | Union of Campus Journalists FUOYE | [Read More](https://medium.com/p/3f9676b8c405) |
+| Sat, 25 Apr 2026 17:24:45 GMT | Cybersecurity Threats to Watch | Task Web Tech | [Read More](https://medium.com/p/d70b1b58838e) |
+| Sat, 25 Apr 2026 17:11:39 GMT | How AI Deepfakes Are Turning Your Identity Into a Billion-Dollar Business | Ogechi Chime | [Read More](https://medium.com/p/e8e2e34d5d6b) |
+| Sat, 25 Apr 2026 17:10:54 GMT | What Happens 10 Minutes After You Get Hacked | Paritosh | [Read More](https://medium.com/p/fb99a4b03082) |
+| Sat, 25 Apr 2026 17:03:58 GMT | How Uber’s Support Team Became the Backdoor | Lusine Tumoyan | [Read More](https://medium.com/p/e9dca701cda7) |
+| Sat, 25 Apr 2026 17:00:49 GMT | Critical Zero-Click Account Takeover via Archived / Cached Password Reset Links | Mustafa Adam Gamaraldin Abdalla | [Read More](https://medium.com/p/6ce7c9bef962) |
+| Sat, 25 Apr 2026 17:00:43 GMT | What Is an Event Courier — and Why Does Your London Event Need One? | waeventservices.co.uk/ | [Read More](https://medium.com/p/d6714f70549c) |
+| Sat, 25 Apr 2026 16:57:48 GMT | You’re Probably Writing Insecure JavaScript. | Mr Zouraiz | [Read More](https://medium.com/p/7577356e56a3) |
+| Sat, 25 Apr 2026 16:47:08 GMT | Dark Web Leakage Diarisis | Nyx0r | [Read More](https://medium.com/p/d7070f3f760f) |
+| Sat, 25 Apr 2026 16:46:05 GMT | HackTheBox — TwoMillion: A Complete Walkthrough | Yogeshwar Peela | [Read More](https://medium.com/p/29e0e109dc3c) |
 | Sat, 25 Apr 2026 16:44:42 GMT | How the Internet Works: Simple Explanation for Cybersecurity Beginners | Siri Chandana | [Read More](https://medium.com/p/db1100901cb3) |
 | Sat, 25 Apr 2026 16:44:17 GMT | Penetration Testing on OCI: What Oracle Actually Allows | Tokishi | [Read More](https://medium.com/p/0bc979cc6ba5) |
 | Sat, 25 Apr 2026 16:43:10 GMT | Unauthenticated API Field Bypass — Leaking Internal Scores, Enterprise Data & User PII. | Krithick | [Read More](https://medium.com/p/5b695be10897) |
@@ -32,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 15:25:18 GMT | How a 404 Page Led Me to an Unauthenticated AI Chatbot Leaking an Entire ERP Knowledge Base | Rohaangupta | [Read More](https://medium.com/p/dd8d380351cb) |
 | Sat, 25 Apr 2026 15:23:52 GMT | 6 Critical Challenges Facing the MCP in 2026 | Matt Mochalkin | [Read More](https://medium.com/p/06258e914402) |
 | Sat, 25 Apr 2026 15:21:55 GMT | Hardware Hacking 101 :: How I Hacked a Tenda Router from the Inside Out | Abinivesh | [Read More](https://medium.com/p/75c174fd38f2) |
+| Sat, 25 Apr 2026 15:21:34 GMT | ️ Write-up: ProFTPD 1.3.5 mod_copy Exploitation (CVE-2015–3306) | Celebwari nyoka bwari | [Read More](https://medium.com/p/571500828355) |
 | Sat, 25 Apr 2026 15:21:29 GMT | I Thought OTP Was Just a 6-Digit Code, Until I Had to Build It | Bilal Hairab | [Read More](https://medium.com/p/439703e0e345) |
 | Sat, 25 Apr 2026 15:19:52 GMT | OSI Model vs. TCP/IP Model — aarononit.blogspot.com | Aaron DeJong | [Read More](https://medium.com/p/25ca8833331b) |
 | Sat, 25 Apr 2026 15:17:51 GMT | NAT Types — aarononit.blogspot.com | Aaron DeJong | [Read More](https://medium.com/p/ba0dd673361f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 10:29:34 GMT | Ubuntu 26.04 LTS — The Raccoon Has Arrived | Sridhar S | [Read More](https://medium.com/p/580c35db4440) |
 | Sat, 25 Apr 2026 10:27:35 GMT | Protect Your Smartphone from Hackers: A Practical Guide | RAAYA | [Read More](https://medium.com/p/ae5baac9120e) |
 | Sat, 25 Apr 2026 10:12:48 GMT | Trusted Security Guard Company in Richmond Hill for Homes & Businesses | Grdsnscrt | [Read More](https://medium.com/p/f65c1516e04d) |
-| Sat, 25 Apr 2026 10:10:51 GMT | How to Find Real Vulnerabilities Using Source -> Flow -> Sink | Surajvishwakarma | [Read More](https://medium.com/p/d7d8122299c8) |
-| Sat, 25 Apr 2026 10:02:16 GMT | Find My Girlfriend — TryHackMe Writeup | yk | [Read More](https://medium.com/p/f959feadd744) |
-| Sat, 25 Apr 2026 10:01:49 GMT | How Geopolitical Conflicts Increase Cyber Risk for Indian Businesses | Lumiversesolution | [Read More](https://medium.com/p/8e25c7432f29) |
-| Sat, 25 Apr 2026 09:53:34 GMT | Shadow AI and Model Sprawl: The Risk Most Companies Won’t See Until They’re Asked to Explain It | PRASAD BHONDE | [Read More](https://medium.com/p/e6eb9f689389) |
-| Sat, 25 Apr 2026 09:51:46 GMT | Shift Left in Practice — Integrating SAST/DAST into CI/CD pipelines | Reuben Lim | [Read More](https://medium.com/p/353b08f43446) |
-| Sat, 25 Apr 2026 09:34:55 GMT | Post-Quantum Readiness: A Developer’s Guide to iOS 26 and Beyond | Bhishak S | [Read More](https://medium.com/p/6bf949e4f957) |
-| Sat, 25 Apr 2026 09:33:33 GMT | I got the exact phishing email the FBI warned about. | Coingirl | [Read More](https://medium.com/p/bfd8d66cdb37) |
-| Sat, 25 Apr 2026 09:30:11 GMT | picoCTF Hashgate challenge - Web exploitation - Medium level problem. | Dipankar Paul | [Read More](https://medium.com/p/27f5738ceb68) |
-| Sat, 25 Apr 2026 09:25:03 GMT | How I Blinded a Zen RASP Firewall with a Single Comma | Jawad Momani | [Read More](https://medium.com/p/074f0e7bc251) |
-| Sat, 25 Apr 2026 09:23:43 GMT | Detecting Cyber Attacks Using Machine Learning | Mohit Suthar | [Read More](https://medium.com/p/b67a7a1d650c) |
-| Sat, 25 Apr 2026 09:18:33 GMT | Bug Bounty Series — Part 3 (HTTP Parameter Pollution) | Aditya Kumar | [Read More](https://medium.com/p/e2bbf95c8cae) |
