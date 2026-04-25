@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 16:44:42 GMT | How the Internet Works: Simple Explanation for Cybersecurity Beginners | Siri Chandana | [Read More](https://medium.com/p/db1100901cb3) |
+| Sat, 25 Apr 2026 16:44:17 GMT | Penetration Testing on OCI: What Oracle Actually Allows | Tokishi | [Read More](https://medium.com/p/0bc979cc6ba5) |
+| Sat, 25 Apr 2026 16:43:10 GMT | Unauthenticated API Field Bypass — Leaking Internal Scores, Enterprise Data & User PII. | Krithick | [Read More](https://medium.com/p/5b695be10897) |
+| Sat, 25 Apr 2026 16:40:13 GMT | Securing AI Systems - TryHackMe | Binish Alamgir | [Read More](https://medium.com/p/d72667f863ca) |
+| Sat, 25 Apr 2026 16:37:21 GMT | A Beginner’s Guide to Evading Modern Windows Defenses | sh1nz3r | [Read More](https://medium.com/p/c660598c588f) |
+| Sat, 25 Apr 2026 16:31:45 GMT | What LinkedIn Can Learn From Your Browser Extensions (And How I Blocked It) | Avivvino | [Read More](https://medium.com/p/4e1acf984cdb) |
+| Sat, 25 Apr 2026 16:30:42 GMT | How I Locked a Victim Out of Their Own Account — Before They Even Signed Up | BugWraith (Lokesh) | [Read More](https://medium.com/p/3ff6cca6e1eb) |
+| Sat, 25 Apr 2026 16:23:06 GMT | Defender for Identity Auditing Explained: Directory Services, GPO Pitfalls, and the New v3.x | Defend Microsoft365 now! | [Read More](https://medium.com/p/92bd9b315b94) |
+| Sat, 25 Apr 2026 16:20:13 GMT | ContAInment - TryHackMe | Binish Alamgir | [Read More](https://medium.com/p/c87f288b0b87) |
+| Sat, 25 Apr 2026 16:10:28 GMT | Top 10 Phishing Attacks in Cybersecurity (Meaning, Types, Examples & Prevention) | Anjali Kashyap | [Read More](https://medium.com/p/5593fab29c93) |
+| Sat, 25 Apr 2026 16:06:01 GMT | TWENTY MINUTES | Tami | [Read More](https://medium.com/p/6c0f2eb176ed) |
+| Sat, 25 Apr 2026 16:04:10 GMT | Token Exchange vs User Impersonation in Keycloak | Fikih Firmansyah | [Read More](https://medium.com/p/7aad28d1b909) |
+| Sat, 25 Apr 2026 15:54:27 GMT | AirSnitch: The Silent Wi-Fi Threat Turning Everyday Devices Into Listening Posts | Yohannes Belay | [Read More](https://medium.com/p/b61eff3a05f7) |
+| Sat, 25 Apr 2026 15:48:05 GMT | Enterprise Vulnerability Management: A Strategic Framework for Governance, Security, and Compliance | Petersmuditha | [Read More](https://medium.com/p/491a66716eec) |
+| Sat, 25 Apr 2026 15:47:06 GMT | “' OR 1=1 --” Is Blocked? Good. You’re Finally Ready to Find Real SQL Injection | Pradeeptadi | [Read More](https://medium.com/p/16919965043c) |
+| Sat, 25 Apr 2026 15:42:56 GMT | Kioptrix Level 1 | Heathentwitch | [Read More](https://medium.com/p/7110fc5f6f72) |
 | Sat, 25 Apr 2026 15:25:37 GMT | Active Directory Lab Setup for Penetration Testing Using PowerShell | Basithmohammedali | [Read More](https://medium.com/p/8a96e1299de8) |
 | Sat, 25 Apr 2026 15:25:18 GMT | How a 404 Page Led Me to an Unauthenticated AI Chatbot Leaking an Entire ERP Knowledge Base | Rohaangupta | [Read More](https://medium.com/p/dd8d380351cb) |
 | Sat, 25 Apr 2026 15:23:52 GMT | 6 Critical Challenges Facing the MCP in 2026 | Matt Mochalkin | [Read More](https://medium.com/p/06258e914402) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 09:25:03 GMT | How I Blinded a Zen RASP Firewall with a Single Comma | Jawad Momani | [Read More](https://medium.com/p/074f0e7bc251) |
 | Sat, 25 Apr 2026 09:23:43 GMT | Detecting Cyber Attacks Using Machine Learning | Mohit Suthar | [Read More](https://medium.com/p/b67a7a1d650c) |
 | Sat, 25 Apr 2026 09:18:33 GMT | Bug Bounty Series — Part 3 (HTTP Parameter Pollution) | Aditya Kumar | [Read More](https://medium.com/p/e2bbf95c8cae) |
-| Sat, 25 Apr 2026 09:05:35 GMT | Human-in-the-loop: OWASP GenAI Security Project, Anthropic’s Claude Mythos Preview & Project… | Alisa Todorova | [Read More](https://medium.com/p/de0d8504d0a8) |
-| Sat, 25 Apr 2026 09:02:54 GMT | Your Perimeter Is Gone. | Abhishek Johri | [Read More](https://medium.com/p/1bce2811b7f9) |
-| Sat, 25 Apr 2026 08:55:17 GMT | Cat Pictures — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/ace4a608f068) |
-| Sat, 25 Apr 2026 08:54:08 GMT | CYBERSECURITY - LLM09:2025 | Amaima | [Read More](https://medium.com/p/75edc90f066a) |
-| Sat, 25 Apr 2026 08:44:58 GMT | Never Miss a Patch | Anbiswasofficial | [Read More](https://medium.com/p/116bd422f031) |
-| Sat, 25 Apr 2026 08:43:53 GMT | Sonu Kumar: Navigating the Shifting Sands of Cybersecurity — Essential IT Trends for 2025 and… | Sonuzaiswal | [Read More](https://medium.com/p/20257f03e744) |
-| Sat, 25 Apr 2026 08:36:50 GMT | Lab Platform: Deploy Your Own Topologies and Scenarios | Vladyslav Diadenko | [Read More](https://medium.com/p/e70cb0d59b41) |
-| Sat, 25 Apr 2026 08:32:53 GMT | Inside the eMAPT Exam: A Practical Review for Mobile Pentesters | Rizaldi Wahaz | [Read More](https://medium.com/p/4916df76bf86) |
-| Sat, 25 Apr 2026 08:27:31 GMT | Future will be ours!!! not AIs!!! | Augustianisaacr | [Read More](https://medium.com/p/6291a3c26e0b) |
-| Sat, 25 Apr 2026 08:24:55 GMT | Boom Barrier Systems in Saudi Arabia Smart Access Control for Modern Infrastructure | Abd al-Karim | [Read More](https://medium.com/p/3e2c8ab0e026) |
-| Sat, 25 Apr 2026 08:20:06 GMT | Race Condition Allow Limit Bypass Free Tier Account | ENUMS | [Read More](https://medium.com/p/cbb28c3ad8e5) |
-| Sat, 25 Apr 2026 08:11:01 GMT | Security Standards vs. Reality: Are Verification Codes Always Unique? | Hugo | [Read More](https://medium.com/p/99faa7dc8b45) |
-| Sat, 25 Apr 2026 08:09:50 GMT | Business Logic → Financial Abuse — Turning Flows Into Real Money Impact | ghostyjoe | [Read More](https://medium.com/p/f0638a8c4549) |
-| Sat, 25 Apr 2026 07:55:10 GMT | Friday Overtime -TryHackMe-CTF — Write-Up | Amr | [Read More](https://medium.com/p/42ff619fc0be) |
-| Sat, 25 Apr 2026 07:52:54 GMT | Gobuster: The Directory Busting Tool Every Hacker Should Know | Gaurav Singh Rajput | [Read More](https://medium.com/p/5907d7c87374) |
-| Sat, 25 Apr 2026 07:46:50 GMT | 24 Hour Mobile Locksmith London for Rapid Response and Reliable Security Solutions | N1locksmithsltd | [Read More](https://medium.com/p/a54e7c5a1e0a) |
