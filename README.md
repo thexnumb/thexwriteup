@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 15:25:37 GMT | Active Directory Lab Setup for Penetration Testing Using PowerShell | Basithmohammedali | [Read More](https://medium.com/p/8a96e1299de8) |
+| Sat, 25 Apr 2026 15:25:18 GMT | How a 404 Page Led Me to an Unauthenticated AI Chatbot Leaking an Entire ERP Knowledge Base | Rohaangupta | [Read More](https://medium.com/p/dd8d380351cb) |
+| Sat, 25 Apr 2026 15:23:52 GMT | 6 Critical Challenges Facing the MCP in 2026 | Matt Mochalkin | [Read More](https://medium.com/p/06258e914402) |
+| Sat, 25 Apr 2026 15:21:55 GMT | Hardware Hacking 101 :: How I Hacked a Tenda Router from the Inside Out | Abinivesh | [Read More](https://medium.com/p/75c174fd38f2) |
+| Sat, 25 Apr 2026 15:21:29 GMT | I Thought OTP Was Just a 6-Digit Code, Until I Had to Build It | Bilal Hairab | [Read More](https://medium.com/p/439703e0e345) |
+| Sat, 25 Apr 2026 15:19:52 GMT | OSI Model vs. TCP/IP Model — aarononit.blogspot.com | Aaron DeJong | [Read More](https://medium.com/p/25ca8833331b) |
+| Sat, 25 Apr 2026 15:17:51 GMT | NAT Types — aarononit.blogspot.com | Aaron DeJong | [Read More](https://medium.com/p/ba0dd673361f) |
+| Sat, 25 Apr 2026 15:15:41 GMT | TryHackMe — MD2PDF — Writeup | Szilidam | [Read More](https://medium.com/p/5d9fa4591c42) |
+| Sat, 25 Apr 2026 15:07:49 GMT | How a Small Validation Flaw Led to a 0-Click Account Takeover | ohmyleg | [Read More](https://medium.com/p/4fa944dce03e) |
+| Sat, 25 Apr 2026 15:04:16 GMT | Aftermath of Social Engineering and What to do About it | Fadyl Raffi | [Read More](https://medium.com/p/ef9c22627607) |
+| Sat, 25 Apr 2026 15:01:01 GMT | Un grupo no autorizado asegura haber logrado acceso a Mythos, la herramienta de ciberseguridad de… | Tiziano Mass | [Read More](https://medium.com/p/6fce3a9ad145) |
+| Sat, 25 Apr 2026 14:57:19 GMT | Can I Trust You, or Are You Just Another Lesson? | Aster♡ | [Read More](https://medium.com/p/2e08e1212249) |
+| Sat, 25 Apr 2026 14:57:12 GMT | What is Savastan0? Risks of Using Illegal CC Shops Explained | Itxxmanav | [Read More](https://medium.com/p/7c6df1b2fbcb) |
+| Sat, 25 Apr 2026 14:56:01 GMT | Why Fear Is Secretly Ruining Your Relationship (And How to Fix It) | Eilen Lexus | [Read More](https://medium.com/p/234d61bc3c00) |
+| Sat, 25 Apr 2026 14:55:15 GMT | HTB Footprinting Lab — Easy | Youssef Ezzat | [Read More](https://medium.com/p/6825b8a431ff) |
+| Sat, 25 Apr 2026 14:51:01 GMT | Projects vs Certifications in Cybersecurity — What Actually Gets You Hired? | Karanam Shrivasta | [Read More](https://medium.com/p/0c9598310a96) |
+| Sat, 25 Apr 2026 14:46:05 GMT | File Inclusion— Skills Assesment (HTB) | petergriffin | [Read More](https://medium.com/p/91dd7c91b071) |
 | Sat, 25 Apr 2026 14:27:32 GMT | #1 Splunk Deployment — Lab | Thegodofmoons | [Read More](https://medium.com/p/38e526ce80e1) |
 | Sat, 25 Apr 2026 14:24:19 GMT | ️ Lirix v1.4.1: The Ecosystem Domination Release | lokii | [Read More](https://medium.com/p/1ba42a56ef2f) |
 | Sat, 25 Apr 2026 14:19:32 GMT | Digital Forensics in 2026: The Hackers Are Winning and Nobody Is Talking About It Enough | Netanix | [Read More](https://medium.com/p/c7bc04c13a19) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 07:55:10 GMT | Friday Overtime -TryHackMe-CTF — Write-Up | Amr | [Read More](https://medium.com/p/42ff619fc0be) |
 | Sat, 25 Apr 2026 07:52:54 GMT | Gobuster: The Directory Busting Tool Every Hacker Should Know | Gaurav Singh Rajput | [Read More](https://medium.com/p/5907d7c87374) |
 | Sat, 25 Apr 2026 07:46:50 GMT | 24 Hour Mobile Locksmith London for Rapid Response and Reliable Security Solutions | N1locksmithsltd | [Read More](https://medium.com/p/a54e7c5a1e0a) |
-| Sat, 25 Apr 2026 07:39:07 GMT | SSO in the real world : Identity brokering, federation and the Myth of “One Login Forever” | Ankit Vashishta | [Read More](https://medium.com/p/3ffa66927db1) |
-| Sat, 25 Apr 2026 07:38:26 GMT | Days 11–15 on TryHackMe: Operating Systems, Linux, and Data Encoding | Farhan | [Read More](https://medium.com/p/89604e3d611f) |
-| Sat, 25 Apr 2026 07:28:07 GMT | Reliable Locksmith — London’s Leading 24/7 Security Solution | SE1 Locksmiths Ltd | [Read More](https://medium.com/p/411e132f0f7d) |
-| Sat, 25 Apr 2026 07:26:41 GMT | Understanding XOR Encryption + Jigsaw Obfuscation | Raj Kumar M | [Read More](https://medium.com/p/0efd7fdb31f4) |
-| Sat, 25 Apr 2026 07:25:46 GMT | How a Hacked Facebook Account Turned Me Into a Cybersecurity Specialist | cyber security | [Read More](https://medium.com/p/21f7cd26fea5) |
-| Sat, 25 Apr 2026 07:24:30 GMT | Why Raw DNS Lookups Fail as an Email Authentication Workflow | Veldica Research | [Read More](https://medium.com/p/343b6872a283) |
-| Sat, 25 Apr 2026 07:21:39 GMT | turn your usb into rubber ducky usb | Shield_tech | [Read More](https://medium.com/p/58b2528b3e72) |
-| Sat, 25 Apr 2026 07:19:17 GMT | Securing Financial Institutions and Data Centres: A Critical Need in the Digital Age | ICORP Security | [Read More](https://medium.com/p/087c2b5a9fdc) |
-| Sat, 25 Apr 2026 07:19:05 GMT | I Tested My VPN on Public WiFi and Discovered It Wasn’t Actually Protecting Me | ExamineIP | [Read More](https://medium.com/p/d08b6c66002e) |
-| Sat, 25 Apr 2026 07:16:53 GMT | Best Cybersecurity Summer Training internship Program After 12th in India | cyber security Updates | [Read More](https://medium.com/p/306e717e1e0c) |
-| Sat, 25 Apr 2026 07:16:45 GMT | The War Has Already Started — You Just Didn’t Notice | Ironed Out Insanity | [Read More](https://medium.com/p/e89ad2237870) |
-| Sat, 25 Apr 2026 07:07:28 GMT | Building a Wi-Fi Deauther Using ESP8266 (Beginner IoT Project) | Vijendra Patidar | [Read More](https://medium.com/p/790b553496fa) |
-| Sat, 25 Apr 2026 07:01:02 GMT | The Invisible Trigger. On the The Com ecosystem and the evil that found a business model | Łukasz Ratajczak | [Read More](https://medium.com/p/1e56eaa459d4) |
-| Sat, 25 Apr 2026 06:50:34 GMT | On-Page SEO Techniques That Actually Work | tech knowledge hub | [Read More](https://medium.com/p/889abb1f5ef7) |
-| Sat, 25 Apr 2026 06:38:08 GMT | Why Phishing Attacks Still Work in 2026: It’s Not About Technology | Lakshita Soni | [Read More](https://medium.com/p/aec5452ba941) |
-| Sat, 25 Apr 2026 06:18:52 GMT | Cybersecurity Is Entering Its Most Dangerous Era: When Machines Attack Trust Itself | Daniel Isaac E | [Read More](https://medium.com/p/9c9e63b8b419) |
-| Sat, 25 Apr 2026 06:11:14 GMT | Event Security Services: Ensuring Safe and Successful Events | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/cebe97de6ffb) |
