@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 22:28:46 GMT | # The Death of the Password (Finally): What Passkeys Actually Mean for Everyday Users | Light | [Read More](https://medium.com/p/dbbd0be8b7b5) |
+| Sat, 25 Apr 2026 22:20:36 GMT | Imposter Syndrome in Cybersecurity: Why AI Is Making It Feel Worse (and Why That’s Misleading) | Jeffrey Jolly | [Read More](https://medium.com/p/3884e9e99cca) |
+| Sat, 25 Apr 2026 22:19:22 GMT | We Need to Stop Vibe Coder Bros. Immediately. (Or: Log Off, Touch Some Grass, ... | Michael Caney Jr | [Read More](https://medium.com/p/366ee3f25342) |
+| Sat, 25 Apr 2026 22:10:53 GMT | Beyond Port Forwarding: Building a Hardened SSH Server with Cloudflare, Zero Trust, and Reverse… | Amila kothalawala | [Read More](https://medium.com/p/e3c50b41c088) |
+| Sat, 25 Apr 2026 22:07:00 GMT | I Designed a System for 50M Users That Would Have Crashed at 5K users | Emily | [Read More](https://medium.com/p/8bbf2d333fa0) |
+| Sat, 25 Apr 2026 21:45:52 GMT | Money and Missiles: The New Reality of the UAE-US Alliance | Chloe Ladner | [Read More](https://medium.com/p/81bbeec64fd9) |
+| Sat, 25 Apr 2026 21:41:46 GMT | The 14-Year-Old Next Door Just Became a Hacker. AI Made It Possible | Nasruddin | [Read More](https://medium.com/p/f018918df733) |
+| Sat, 25 Apr 2026 21:39:18 GMT | CyberDefenders — Red Stealer WriteUp | Serhan Kırca | [Read More](https://medium.com/p/5d0d0822a9b6) |
+| Sat, 25 Apr 2026 21:39:03 GMT | How LumiChats Detected and Stopped a Potential AI Identity Misuse Attempt — A Responsible… | Aditya kumar jha | [Read More](https://medium.com/p/0c444cb3e5a4) |
 | Sat, 25 Apr 2026 21:30:17 GMT | The 42,000 Credit Heist: Finding Zero-Day at 42 Schools | Yanard | [Read More](https://medium.com/p/bcd5685ed2d7) |
 | Sat, 25 Apr 2026 21:24:02 GMT | The Devil’s OWASP: How Ancient Temptation Looks Like Modern Cybersecurity | Oluwagbenga Ogungbemi | [Read More](https://medium.com/p/55367ab31b5e) |
 | Sat, 25 Apr 2026 21:22:07 GMT | Google Next ‘26 | Marshall Jung | [Read More](https://medium.com/p/179bd36eb967) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 15:15:41 GMT | TryHackMe — MD2PDF — Writeup | Szilidam | [Read More](https://medium.com/p/5d9fa4591c42) |
 | Sat, 25 Apr 2026 15:07:49 GMT | How a Small Validation Flaw Led to a 0-Click Account Takeover | ohmyleg | [Read More](https://medium.com/p/4fa944dce03e) |
 | Sat, 25 Apr 2026 15:04:16 GMT | Aftermath of Social Engineering and What to do About it | Fadyl Raffi | [Read More](https://medium.com/p/ef9c22627607) |
-| Sat, 25 Apr 2026 15:01:01 GMT | Un grupo no autorizado asegura haber logrado acceso a Mythos, la herramienta de ciberseguridad de… | Tiziano Mass | [Read More](https://medium.com/p/6fce3a9ad145) |
-| Sat, 25 Apr 2026 14:57:19 GMT | Can I Trust You, or Are You Just Another Lesson? | Aster♡ | [Read More](https://medium.com/p/2e08e1212249) |
-| Sat, 25 Apr 2026 14:57:12 GMT | What is Savastan0? Risks of Using Illegal CC Shops Explained | Itxxmanav | [Read More](https://medium.com/p/7c6df1b2fbcb) |
-| Sat, 25 Apr 2026 14:56:01 GMT | Why Fear Is Secretly Ruining Your Relationship (And How to Fix It) | Eilen Lexus | [Read More](https://medium.com/p/234d61bc3c00) |
-| Sat, 25 Apr 2026 14:55:15 GMT | HTB Footprinting Lab — Easy | Youssef Ezzat | [Read More](https://medium.com/p/6825b8a431ff) |
-| Sat, 25 Apr 2026 14:51:01 GMT | Projects vs Certifications in Cybersecurity — What Actually Gets You Hired? | Karanam Shrivasta | [Read More](https://medium.com/p/0c9598310a96) |
-| Sat, 25 Apr 2026 14:46:05 GMT | File Inclusion— Skills Assesment (HTB) | petergriffin | [Read More](https://medium.com/p/91dd7c91b071) |
-| Sat, 25 Apr 2026 14:27:32 GMT | #1 Splunk Deployment — Lab | Thegodofmoons | [Read More](https://medium.com/p/38e526ce80e1) |
-| Sat, 25 Apr 2026 14:24:19 GMT | ️ Lirix v1.4.1: The Ecosystem Domination Release | lokii | [Read More](https://medium.com/p/1ba42a56ef2f) |
