@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 11:51:22 GMT | ️ Ghost in the Machine: Navigating the 2026 Zero-Day Landscape with MYTHOS MD. | Mirmahmood | [Read More](https://medium.com/p/4cab74f66e01) |
+| Sat, 25 Apr 2026 11:48:27 GMT | AI Data Classification Made Simple: What’s Safe to Share with ChatGPT, Copilot, and Gemini | Aniket Sanyal | [Read More](https://medium.com/p/298d946cda06) |
+| Sat, 25 Apr 2026 11:44:48 GMT | CYBERDUDEBIVASH OFFICIAL AUTHORITY CYBERDUDEBIVASH SENTINEL APEX v140 — AI-POWERED GLOBAL THREAT… | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/97afcadbe65d) |
+| Sat, 25 Apr 2026 11:22:56 GMT | Managing Root Access in AWS Organizations: More Than Just Locking It Down | Vahaggn | [Read More](https://medium.com/p/c4ddbabdcf6b) |
+| Sat, 25 Apr 2026 11:17:58 GMT | Cyber Range Platform for Organizations | Crawsec | [Read More](https://medium.com/p/bd8d619c7ade) |
+| Sat, 25 Apr 2026 11:10:10 GMT | How to Choose Affordable Hosting? | Ann Taylor | [Read More](https://medium.com/p/ab19de47bb96) |
 | Sat, 25 Apr 2026 11:07:20 GMT | 20 Penetration Testing Projects Worth Adding to Your Resume | Excalibra | [Read More](https://medium.com/p/2884cbc90edd) |
 | Sat, 25 Apr 2026 11:07:04 GMT | The future of transportation in Nigeria: How technology can reduce crime, death and traffic. | Stanley Ekure | [Read More](https://medium.com/p/5346bc97608d) |
 | Sat, 25 Apr 2026 11:01:33 GMT | Don’t store your JWT in localStorage | Thota Ritika | [Read More](https://medium.com/p/51a62f24403e) |
+| Sat, 25 Apr 2026 10:59:00 GMT | Beyond Mythos: Why the Global Economy Needs a Native AI Protocol (AKL) to Tame the Agentic Web | Ioan Adrian Vitan | [Read More](https://medium.com/p/6773a4cde807) |
 | Sat, 25 Apr 2026 10:55:13 GMT | How a misconfigured server exposed all the malware | xctazy | [Read More](https://medium.com/p/31c6c6c2237e) |
 | Sat, 25 Apr 2026 10:54:28 GMT | Cyber Risk Management and Protection Solutions by Finsoul Network UK | Finsoulnetworkglobal | [Read More](https://medium.com/p/da0f69d914f6) |
 | Sat, 25 Apr 2026 10:41:39 GMT | Tips Bermain Slot Online agar Lebih Maksimal dan Terarah | Slot Gacor Felly4D | [Read More](https://medium.com/p/bcaf32c3f063) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 02:33:06 GMT | Your Phone Number Is a Surveillance Device, and WhatsApp Knows It | Ismail Ibrahim | [Read More](https://medium.com/p/fd61ed31881d) |
 | Sat, 25 Apr 2026 02:23:31 GMT | How social media algorithms know you so well | Cecilydarviso | [Read More](https://medium.com/p/dc6a92a56e24) |
 | Sat, 25 Apr 2026 02:19:50 GMT | If I Were Starting Cyber Security in 2026, This Is Exactly What I Would Do | Gulshan Rahman | [Read More](https://medium.com/p/a20f6c9144be) |
-| Sat, 25 Apr 2026 02:19:00 GMT | Yellow Cockatoo RAT (Jupyter’s Bro)Write-Up (CyberDefenders) | EclipseManic | [Read More](https://medium.com/p/2e388941717e) |
-| Sat, 25 Apr 2026 02:11:37 GMT | kudzu | Ian Smith | [Read More](https://medium.com/p/ddd981e539ca) |
-| Sat, 25 Apr 2026 02:02:23 GMT | Which Tool to Use When Web App Pentesting? | The Husky Hacker | [Read More](https://medium.com/p/03dafd254808) |
-| Sat, 25 Apr 2026 01:54:41 GMT | ⚡ eBPF: The Security Superpower Inside the Linux Kernel | Parth Patel | [Read More](https://medium.com/p/d27fac3c1d62) |
-| Sat, 25 Apr 2026 01:53:33 GMT | The Invisible Layer of Data: How Information Hides in Plain Sight — and Why It Doesn’t Always… | Bruno Novaes | [Read More](https://medium.com/p/90b3f1d222d4) |
-| Sat, 25 Apr 2026 01:52:12 GMT | How to Safely Store OAuth Access Tokens in Rails with Active Record Encryption | Roonglit Chareonsupkul | [Read More](https://medium.com/p/56d1ca3bce6c) |
-| Sat, 25 Apr 2026 01:42:37 GMT | Hijacking Digital Signatures: A Hands-On Lab Walkthrough | Cooked.gg | [Read More](https://medium.com/p/1abbaaaa8747) |
