@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 07:55:10 GMT | Friday Overtime -TryHackMe-CTF — Write-Up | Amr | [Read More](https://medium.com/p/42ff619fc0be) |
+| Sat, 25 Apr 2026 07:52:54 GMT | Gobuster: The Directory Busting Tool Every Hacker Should Know | Gaurav Singh Rajput | [Read More](https://medium.com/p/5907d7c87374) |
+| Sat, 25 Apr 2026 07:46:50 GMT | 24 Hour Mobile Locksmith London for Rapid Response and Reliable Security Solutions | N1locksmithsltd | [Read More](https://medium.com/p/a54e7c5a1e0a) |
+| Sat, 25 Apr 2026 07:39:07 GMT | SSO in the real world : Identity brokering, federation and the Myth of “One Login Forever” | Ankit Vashishta | [Read More](https://medium.com/p/3ffa66927db1) |
+| Sat, 25 Apr 2026 07:38:26 GMT | Days 11–15 on TryHackMe: Operating Systems, Linux, and Data Encoding | Farhan | [Read More](https://medium.com/p/89604e3d611f) |
+| Sat, 25 Apr 2026 07:28:07 GMT | Reliable Locksmith — London’s Leading 24/7 Security Solution | SE1 Locksmiths Ltd | [Read More](https://medium.com/p/411e132f0f7d) |
+| Sat, 25 Apr 2026 07:26:41 GMT | Understanding XOR Encryption + Jigsaw Obfuscation | Raj Kumar M | [Read More](https://medium.com/p/0efd7fdb31f4) |
+| Sat, 25 Apr 2026 07:25:46 GMT | How a Hacked Facebook Account Turned Me Into a Cybersecurity Specialist | cyber security | [Read More](https://medium.com/p/21f7cd26fea5) |
+| Sat, 25 Apr 2026 07:24:30 GMT | Why Raw DNS Lookups Fail as an Email Authentication Workflow | Veldica Research | [Read More](https://medium.com/p/343b6872a283) |
+| Sat, 25 Apr 2026 07:21:39 GMT | turn your usb into rubber ducky usb | Shield_tech | [Read More](https://medium.com/p/58b2528b3e72) |
+| Sat, 25 Apr 2026 07:19:17 GMT | Securing Financial Institutions and Data Centres: A Critical Need in the Digital Age | ICORP Security | [Read More](https://medium.com/p/087c2b5a9fdc) |
+| Sat, 25 Apr 2026 07:19:05 GMT | I Tested My VPN on Public WiFi and Discovered It Wasn’t Actually Protecting Me | ExamineIP | [Read More](https://medium.com/p/d08b6c66002e) |
+| Sat, 25 Apr 2026 07:16:53 GMT | Best Cybersecurity Summer Training internship Program After 12th in India | cyber security Updates | [Read More](https://medium.com/p/306e717e1e0c) |
+| Sat, 25 Apr 2026 07:16:45 GMT | The War Has Already Started — You Just Didn’t Notice | Ironed Out Insanity | [Read More](https://medium.com/p/e89ad2237870) |
+| Sat, 25 Apr 2026 07:07:28 GMT | Building a Wi-Fi Deauther Using ESP8266 (Beginner IoT Project) | Vijendra Patidar | [Read More](https://medium.com/p/790b553496fa) |
+| Sat, 25 Apr 2026 07:01:02 GMT | The Invisible Trigger. On the The Com ecosystem and the evil that found a business model | Łukasz Ratajczak | [Read More](https://medium.com/p/1e56eaa459d4) |
+| Sat, 25 Apr 2026 06:50:34 GMT | On-Page SEO Techniques That Actually Work | tech knowledge hub | [Read More](https://medium.com/p/889abb1f5ef7) |
 | Sat, 25 Apr 2026 06:38:08 GMT | Why Phishing Attacks Still Work in 2026: It’s Not About Technology | Lakshita Soni | [Read More](https://medium.com/p/aec5452ba941) |
 | Sat, 25 Apr 2026 06:18:52 GMT | Cybersecurity Is Entering Its Most Dangerous Era: When Machines Attack Trust Itself | Daniel Isaac E | [Read More](https://medium.com/p/9c9e63b8b419) |
 | Sat, 25 Apr 2026 06:11:14 GMT | Event Security Services: Ensuring Safe and Successful Events | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/cebe97de6ffb) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 21:39:43 GMT | AI Just Found Bugs in Rust’s Standard Library. That Changes the Security Conversation | Ajay Kumar | [Read More](https://medium.com/p/54171736d698) |
 | Fri, 24 Apr 2026 21:36:10 GMT | The hidden side of AI: when your biggest risk is inside your organization | Gian Luca Vanoli | [Read More](https://medium.com/p/1f9b287f69e6) |
 | Fri, 24 Apr 2026 21:31:22 GMT | NIS2 Supply Chain Security: Why Europe Is Not Ready for Subcontractor Audits Four Months Before… | solutions@sesinftech.com | [Read More](https://medium.com/p/f66fbf7e53e7) |
-| Fri, 24 Apr 2026 21:29:33 GMT | Breaking Segmentation: VLAN Bypass with WPA2 Handshake Capture and Evil-Twin Attack | Pr3ach3r | [Read More](https://medium.com/p/0baba2d5ec0b) |
-| Fri, 24 Apr 2026 21:06:18 GMT | 5 Cyber Risks Boards Can’t Afford to Ignore | Dr Kimma Wreh | [Read More](https://medium.com/p/969aa027ff98) |
-| Fri, 24 Apr 2026 21:03:15 GMT | MCP Is the Biggest Security Blind Spot in AI Right Now. Here’s What I Found. | Okan Yıldız | [Read More](https://medium.com/p/35cf74056c01) |
-| Fri, 24 Apr 2026 21:01:01 GMT | Claude Mythos Probably Isn’t What You Think It Is | Will Lockett | [Read More](https://medium.com/p/66ef350b6ad6) |
-| Fri, 24 Apr 2026 20:55:43 GMT | I Told gVisor I Was Root & It Believed Me | STarX | [Read More](https://medium.com/p/e6c4538b11eb) |
-| Fri, 24 Apr 2026 20:52:32 GMT | Environment Cross-Trust: Leveraging Staging APIs to “Buy” for $0.00 | 0xPedrop | [Read More](https://medium.com/p/cb257e2bb605) |
-| Fri, 24 Apr 2026 20:41:36 GMT | Azure Policy: Baking Security In part 1 | Joseph A. M. | [Read More](https://medium.com/p/cae200d71d4d) |
-| Fri, 24 Apr 2026 20:19:45 GMT | The Security Debt of Neural Interfaces, and Why We Cannot Afford to Inherit It | Polina Tapal | [Read More](https://medium.com/p/d1a60315daba) |
-| Fri, 24 Apr 2026 20:18:35 GMT | The Rise of OpenClaw: Navigating the Security Risks of Action-Oriented AI | convergence networks | [Read More](https://medium.com/p/214a8cf5d61e) |
-| Fri, 24 Apr 2026 20:14:13 GMT | The Cybersecurity Lead Generation Problem Nobody Talks About | LeadAdvisors | [Read More](https://medium.com/p/ee9c9fb28e7a) |
-| Fri, 24 Apr 2026 20:09:46 GMT | Airplane (THM) Tryhackme WriteUp and Answer | Lawvye | [Read More](https://medium.com/p/5ab5418a2eaf) |
-| Fri, 24 Apr 2026 20:00:07 GMT | The Islamabad Stalemate: Why the 2026 Ceasefire is a Mirage | Golda Mizrahi | [Read More](https://medium.com/p/66c432e97d0a) |
-| Fri, 24 Apr 2026 19:58:45 GMT | Cybersecurity News Review — Week 17 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/4c8c88e9fe81) |
-| Fri, 24 Apr 2026 19:57:25 GMT | Complete Android APK Reverse Engineering Guide | Alham Rizvi | [Read More](https://medium.com/p/0c5ed88e31f0) |
-| Fri, 24 Apr 2026 19:46:58 GMT | Les 10 commandements de l’éthique informatique | Patricia SOWOU | [Read More](https://medium.com/p/e2b1333f38ae) |
-| Fri, 24 Apr 2026 19:41:02 GMT | Anthropic’s Secret AI Found 271 Security Bugs in Firefox. That Should Worry Everyone. | Nexairi Mentis | [Read More](https://medium.com/p/431306b93aef) |
-| Fri, 24 Apr 2026 19:39:21 GMT | CyberDefenders — ShadowRoast Lab Writeup | JBXSec | [Read More](https://medium.com/p/d79a92fc47c4) |
