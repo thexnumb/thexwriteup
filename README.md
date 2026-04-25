@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 09:25:03 GMT | How I Blinded a Zen RASP Firewall with a Single Comma | Jawad Momani | [Read More](https://medium.com/p/074f0e7bc251) |
+| Sat, 25 Apr 2026 09:23:43 GMT | Detecting Cyber Attacks Using Machine Learning | Mohit Suthar | [Read More](https://medium.com/p/b67a7a1d650c) |
+| Sat, 25 Apr 2026 09:18:33 GMT | Bug Bounty Series — Part 3 (HTTP Parameter Pollution) | Aditya Kumar | [Read More](https://medium.com/p/e2bbf95c8cae) |
+| Sat, 25 Apr 2026 09:05:35 GMT | Human-in-the-loop: OWASP GenAI Security Project, Anthropic’s Claude Mythos Preview & Project… | Alisa Todorova | [Read More](https://medium.com/p/de0d8504d0a8) |
+| Sat, 25 Apr 2026 09:02:54 GMT | Your Perimeter Is Gone. | Abhishek Johri | [Read More](https://medium.com/p/1bce2811b7f9) |
+| Sat, 25 Apr 2026 08:55:17 GMT | Cat Pictures — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/ace4a608f068) |
+| Sat, 25 Apr 2026 08:54:08 GMT | CYBERSECURITY - LLM09:2025 | Amaima | [Read More](https://medium.com/p/75edc90f066a) |
+| Sat, 25 Apr 2026 08:44:58 GMT | Never Miss a Patch | Anbiswasofficial | [Read More](https://medium.com/p/116bd422f031) |
+| Sat, 25 Apr 2026 08:43:53 GMT | Sonu Kumar: Navigating the Shifting Sands of Cybersecurity — Essential IT Trends for 2025 and… | Sonuzaiswal | [Read More](https://medium.com/p/20257f03e744) |
+| Sat, 25 Apr 2026 08:36:50 GMT | Lab Platform: Deploy Your Own Topologies and Scenarios | Vladyslav Diadenko | [Read More](https://medium.com/p/e70cb0d59b41) |
+| Sat, 25 Apr 2026 08:32:53 GMT | Inside the eMAPT Exam: A Practical Review for Mobile Pentesters | Rizaldi Wahaz | [Read More](https://medium.com/p/4916df76bf86) |
+| Sat, 25 Apr 2026 08:27:31 GMT | Future will be ours!!! not AIs!!! | Augustianisaacr | [Read More](https://medium.com/p/6291a3c26e0b) |
+| Sat, 25 Apr 2026 08:24:55 GMT | Boom Barrier Systems in Saudi Arabia Smart Access Control for Modern Infrastructure | Abd al-Karim | [Read More](https://medium.com/p/3e2c8ab0e026) |
+| Sat, 25 Apr 2026 08:20:06 GMT | Race Condition Allow Limit Bypass Free Tier Account | ENUMS | [Read More](https://medium.com/p/cbb28c3ad8e5) |
+| Sat, 25 Apr 2026 08:11:01 GMT | Security Standards vs. Reality: Are Verification Codes Always Unique? | Hugo | [Read More](https://medium.com/p/99faa7dc8b45) |
+| Sat, 25 Apr 2026 08:09:50 GMT | Business Logic → Financial Abuse — Turning Flows Into Real Money Impact | ghostyjoe | [Read More](https://medium.com/p/f0638a8c4549) |
 | Sat, 25 Apr 2026 07:55:10 GMT | Friday Overtime -TryHackMe-CTF — Write-Up | Amr | [Read More](https://medium.com/p/42ff619fc0be) |
 | Sat, 25 Apr 2026 07:52:54 GMT | Gobuster: The Directory Busting Tool Every Hacker Should Know | Gaurav Singh Rajput | [Read More](https://medium.com/p/5907d7c87374) |
 | Sat, 25 Apr 2026 07:46:50 GMT | 24 Hour Mobile Locksmith London for Rapid Response and Reliable Security Solutions | N1locksmithsltd | [Read More](https://medium.com/p/a54e7c5a1e0a) |
@@ -69,6 +85,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 02:33:06 GMT | Your Phone Number Is a Surveillance Device, and WhatsApp Knows It | Ismail Ibrahim | [Read More](https://medium.com/p/fd61ed31881d) |
 | Sat, 25 Apr 2026 02:23:31 GMT | How social media algorithms know you so well | Cecilydarviso | [Read More](https://medium.com/p/dc6a92a56e24) |
 | Sat, 25 Apr 2026 02:19:50 GMT | If I Were Starting Cyber Security in 2026, This Is Exactly What I Would Do | Gulshan Rahman | [Read More](https://medium.com/p/a20f6c9144be) |
+| Sat, 25 Apr 2026 02:19:00 GMT | Yellow Cockatoo RAT (Jupyter’s Bro)Write-Up (CyberDefenders) | EclipseManic | [Read More](https://medium.com/p/2e388941717e) |
 | Sat, 25 Apr 2026 02:11:37 GMT | kudzu | Ian Smith | [Read More](https://medium.com/p/ddd981e539ca) |
 | Sat, 25 Apr 2026 02:02:23 GMT | Which Tool to Use When Web App Pentesting? | The Husky Hacker | [Read More](https://medium.com/p/03dafd254808) |
 | Sat, 25 Apr 2026 01:54:41 GMT | ⚡ eBPF: The Security Superpower Inside the Linux Kernel | Parth Patel | [Read More](https://medium.com/p/d27fac3c1d62) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 23:48:47 GMT | 8 Cybersecurity Websites Most Professionals Are Sleeping On (But Shouldn’t Be) | Regan Temudo | [Read More](https://medium.com/p/cb447bdf1956) |
 | Fri, 24 Apr 2026 23:30:43 GMT | PAN Security | Beth Cochran | [Read More](https://medium.com/p/1105fd7799fd) |
 | Fri, 24 Apr 2026 23:19:27 GMT | Deterministic vs Probabilistic AI in DFIR: Understanding the Balance Between Certainty and… | Onyedikachi Bernard Okoh | [Read More](https://medium.com/p/1e48131cef5c) |
-| Fri, 24 Apr 2026 23:07:53 GMT | Method-based access control can be circumvented - Portswigger Academy | 7s26Simon | [Read More](https://medium.com/p/f2ee66217383) |
-| Fri, 24 Apr 2026 23:04:28 GMT | OffSec Proving Grounds “Monitoring” Writeup | sabR | [Read More](https://medium.com/p/77ab314f4ce7) |
-| Fri, 24 Apr 2026 22:58:30 GMT | This Chick Is Not Real | Franky Arriola | [Read More](https://medium.com/p/93b561e87b77) |
-| Fri, 24 Apr 2026 22:53:34 GMT | The Rediscovered Wheel: How a 2026 Cybersecurity Paper Dressed the 1960s in a Lab Coat | Berend Watchus | [Read More](https://medium.com/p/712baeb876cf) |
-| Fri, 24 Apr 2026 22:38:05 GMT | Stop Identity Hijacking in DaaS: A 2026 Guide to Passkeys and Token Protection | Resahebi | [Read More](https://medium.com/p/01e0c494b6a8) |
-| Fri, 24 Apr 2026 22:37:58 GMT | Energy Security: Protecting the State, Restricting the Individual | Ezgi Aykamış | [Read More](https://medium.com/p/efbcec65beba) |
-| Fri, 24 Apr 2026 22:16:07 GMT | CVE Stack Monitor — Get Alerted on CVEs That Hit Your Exact Infrastructure | Neetrox | [Read More](https://medium.com/p/bb7c2322e30f) |
-| Fri, 24 Apr 2026 22:08:02 GMT | How I Mapped Spotify’s Undocumented Endpoints | Dario Mory | [Read More](https://medium.com/p/8ca89656ae9a) |
-| Fri, 24 Apr 2026 22:05:24 GMT | How AI changed the way I design, and what it can’t replace | Aditi Magal | [Read More](https://medium.com/p/db59dec30124) |
-| Fri, 24 Apr 2026 22:01:01 GMT | CrossBar’s Story and Vision | CrossBar | [Read More](https://medium.com/p/3c91130a07ff) |
-| Fri, 24 Apr 2026 21:52:44 GMT | NTLM ‘den Kerberos Geçişi ve Süreci Anlayıp Yönetmek | Ahmet Doruk | [Read More](https://medium.com/p/f3607a11a168) |
-| Fri, 24 Apr 2026 21:51:01 GMT | How I Earned €200 in 10 Minutes by Exploiting a Race Condition on a Job Application Portal | Amrgomaa | [Read More](https://medium.com/p/2347bb98c4c0) |
-| Fri, 24 Apr 2026 21:44:10 GMT | TryHackMe Recruit Writeup | Aniketchoudhury | [Read More](https://medium.com/p/0d45e6b7cad8) |
-| Fri, 24 Apr 2026 21:43:53 GMT | Our Journey to Operationalizing AI Risk Management | number40 | [Read More](https://medium.com/p/6b275763ed2b) |
-| Fri, 24 Apr 2026 21:39:43 GMT | AI Just Found Bugs in Rust’s Standard Library. That Changes the Security Conversation | Ajay Kumar | [Read More](https://medium.com/p/54171736d698) |
-| Fri, 24 Apr 2026 21:36:10 GMT | The hidden side of AI: when your biggest risk is inside your organization | Gian Luca Vanoli | [Read More](https://medium.com/p/1f9b287f69e6) |
-| Fri, 24 Apr 2026 21:31:22 GMT | NIS2 Supply Chain Security: Why Europe Is Not Ready for Subcontractor Audits Four Months Before… | solutions@sesinftech.com | [Read More](https://medium.com/p/f66fbf7e53e7) |
