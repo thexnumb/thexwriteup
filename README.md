@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 20:31:05 GMT | AWS Penetration Testing Part 1: IAM Enumeration from Scratch | Vimal Raj | [Read More](https://medium.com/p/ba1df1e994d6) |
+| Sat, 25 Apr 2026 20:30:57 GMT | HTB Footprinting Lab — Medium | Youssef Ezzat | [Read More](https://medium.com/p/9beadee17d61) |
+| Sat, 25 Apr 2026 20:24:16 GMT | AI-driven Vulnerability Discovery and Exploit — Part I: Strategic Plan for SOCs | SOCFortress | [Read More](https://medium.com/p/c9d984469406) |
+| Sat, 25 Apr 2026 20:04:58 GMT | Splunk SPL Rehberi: Temel Aramalardan İleri Seviye Analizlere | Ahmet Badem | [Read More](https://medium.com/p/7f7591e67844) |
+| Sat, 25 Apr 2026 20:04:45 GMT | The Internet Remembers Everything. Maybe It Shouldn’t. | nashedi coder | [Read More](https://medium.com/p/3a8ef1744a3a) |
+| Sat, 25 Apr 2026 20:00:13 GMT | IDOR….will help you to get bounty | DEMON HACKER | [Read More](https://medium.com/p/a17918661b7c) |
+| Sat, 25 Apr 2026 19:59:58 GMT | Building a Lean Self-Hosted Edge Protection Stack — and Seeing It Validated in the Real World | Nishant Sahu | [Read More](https://medium.com/p/b000d1da49f4) |
+| Sat, 25 Apr 2026 19:59:16 GMT | Active Directory Traffic Analysis & Credential Extraction | ZeroDay-Security-Services | [Read More](https://medium.com/p/62acb06b37bf) |
+| Sat, 25 Apr 2026 19:58:16 GMT | You Use JSON Everyday Without Knowing It | Rona Ega Kharisma | [Read More](https://medium.com/p/be9a750662a8) |
+| Sat, 25 Apr 2026 19:55:44 GMT | Network Forensics Is Broken. Here’s How We Fixed It. | Snflabs | [Read More](https://medium.com/p/608fd62c8cd6) |
+| Sat, 25 Apr 2026 19:46:12 GMT | The Windows Forensic Journey — MemProcFS | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2373a6802be5) |
 | Sat, 25 Apr 2026 19:44:00 GMT | Trust Shatters, Pride Withdraws. | Inscribed Echoes. | [Read More](https://medium.com/p/a5d4110da025) |
 | Sat, 25 Apr 2026 19:36:01 GMT | How I Broke my Starknet Staking Contract with Simple Math: A Lesson on Rounding Errors | rdin777 | [Read More](https://medium.com/p/6f00f00f7889) |
 | Sat, 25 Apr 2026 19:34:23 GMT | ¡Ay abril…! | Ana | [Read More](https://medium.com/p/b77512e7d4e6) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 14:00:52 GMT | Meet Mythos: Anthropic Built an AI That Hacks Like a Senior Pentester (And Then Panicked a Little) | Netanix | [Read More](https://medium.com/p/f6d6c265d14f) |
 | Sat, 25 Apr 2026 14:00:41 GMT | No Rules, No Locks — Firebase Misconfiguration and the Borrowers It Left Behind | Alvin Ferdiansyah | [Read More](https://medium.com/p/90d568038414) |
 | Sat, 25 Apr 2026 13:48:55 GMT | Internal — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/9dadad6001e8) |
-| Sat, 25 Apr 2026 13:47:27 GMT | The real battlefield of technology today is not innovation, but trust | Mariza Ghizzoni | [Read More](https://medium.com/p/9a719498e9ba) |
-| Sat, 25 Apr 2026 13:46:52 GMT | The Technological Republic | Claus-Dieter Volko | [Read More](https://medium.com/p/7b929d226e0f) |
-| Sat, 25 Apr 2026 13:28:12 GMT | Top CVEs to Hunt in 2026 — A Bug Bounty Hunter’s Playbook | Raja Uzair Abdullah | [Read More](https://medium.com/p/7769de831166) |
-| Sat, 25 Apr 2026 13:27:33 GMT | The Wax Seal and the Lead Box: Why Encryption Isn’t Enough | Systemic | [Read More](https://medium.com/p/6deb1e8c7ad6) |
-| Sat, 25 Apr 2026 13:26:01 GMT | Your Clean Room Isn’t Clean. It Never Was. | Faraz Ishaq | [Read More](https://medium.com/p/430ce5ffd8e5) |
-| Sat, 25 Apr 2026 13:17:00 GMT | System Enumeration & Network Reconnaissance: Understanding the Attack Surface | ZeroDay-Security-Services | [Read More](https://medium.com/p/d82067018cb8) |
-| Sat, 25 Apr 2026 13:00:32 GMT | One Piece TryHackMe Walkthrough - by Yoel Yosief. | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/453adb16924d) |
-| Sat, 25 Apr 2026 13:00:17 GMT | Stop pulling random Docker images | Sven Kroll | [Read More](https://medium.com/p/c19e94559cc6) |
-| Sat, 25 Apr 2026 12:55:43 GMT | The Recon Everyone Misses Happens Before You Touch the Target | Fateyaly | [Read More](https://medium.com/p/425f42671509) |
-| Sat, 25 Apr 2026 12:51:59 GMT | THE SRI LANKA FINANCE MINISTRY CYBER FRAUD INCIDENT 2025–2026 | Erica Jayasundera | [Read More](https://medium.com/p/ebc726beae3d) |
-| Sat, 25 Apr 2026 12:45:16 GMT | Building a Scalable Network with VLSM, Static & EIGRP Dynamic Routing(Cisco Packet Tracer Project) | Usman Cheema | [Read More](https://medium.com/p/894a0f5f683e) |
