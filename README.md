@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 06:38:08 GMT | Why Phishing Attacks Still Work in 2026: It’s Not About Technology | Lakshita Soni | [Read More](https://medium.com/p/aec5452ba941) |
+| Sat, 25 Apr 2026 06:18:52 GMT | Cybersecurity Is Entering Its Most Dangerous Era: When Machines Attack Trust Itself | Daniel Isaac E | [Read More](https://medium.com/p/9c9e63b8b419) |
+| Sat, 25 Apr 2026 06:11:14 GMT | Event Security Services: Ensuring Safe and Successful Events | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/cebe97de6ffb) |
+| Sat, 25 Apr 2026 06:11:08 GMT | Day 2: Building the Ultimate (and Safe) Cybersecurity Home Lab | geekxeverywhere | [Read More](https://medium.com/p/12b0665f45f9) |
+| Sat, 25 Apr 2026 06:10:01 GMT | On the Efficient Design of Stacked Intelligent Metasurfaces for Secure SISO Transmission | Stacked Intelligent Metasurfaces (SIM) | [Read More](https://medium.com/p/2a9025d9ac25) |
+| Sat, 25 Apr 2026 06:04:30 GMT | SIEM: Security Information and Event Management Explained | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/6e13d257c834) |
+| Sat, 25 Apr 2026 05:48:15 GMT | Metasploit Framework: A Complete Introduction to One of the Most Important Tools in Ethical Hacking | Dilushahesaranga | [Read More](https://medium.com/p/f1c2d1924ebd) |
+| Sat, 25 Apr 2026 05:46:01 GMT | Your Discounts Are Syncing Correctly. That’s Exactly Why They’re Breaking. | i95Dev | [Read More](https://medium.com/p/b171fdbaaf47) |
+| Sat, 25 Apr 2026 05:39:09 GMT | Edge Computing: A New Frontier in Distributed Information Systems | Janith Harshana | [Read More](https://medium.com/p/1c30d9953d1c) |
+| Sat, 25 Apr 2026 05:37:23 GMT | What Jobs Will Grow Because of AI? | Vijay Kumar Gupta | [Read More](https://medium.com/p/b321fa4edaf2) |
+| Sat, 25 Apr 2026 05:35:27 GMT | Enter the Vibe: A Manifesto for the Serious Vibecoder | Samuel Odekunle | [Read More](https://medium.com/p/47743021d87c) |
+| Sat, 25 Apr 2026 05:19:36 GMT | The Paradox of the Digital Era | TANMAY DANGE | [Read More](https://medium.com/p/00944e7bcccc) |
+| Sat, 25 Apr 2026 05:14:29 GMT | Jest Unit Testing: Testing Functions and Utilities | Yakhilesh | [Read More](https://medium.com/p/8cb1e74b0415) |
 | Sat, 25 Apr 2026 05:10:07 GMT | I Built an AI-Powered Network Intrusion Detection System for My Final Year Project — Here’s Exactly… | PIYUSH KUMAR SAHOO | [Read More](https://medium.com/p/897999caaef3) |
 | Sat, 25 Apr 2026 05:06:35 GMT | Journey toward the SOC Analyst | CharlieVerse | [Read More](https://medium.com/p/8c0059e06a1c) |
 | Sat, 25 Apr 2026 05:01:01 GMT | Vulnerability Lets People Connect | Tirzah Clark | [Read More](https://medium.com/p/b2c563784f30) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 19:46:58 GMT | Les 10 commandements de l’éthique informatique | Patricia SOWOU | [Read More](https://medium.com/p/e2b1333f38ae) |
 | Fri, 24 Apr 2026 19:41:02 GMT | Anthropic’s Secret AI Found 271 Security Bugs in Firefox. That Should Worry Everyone. | Nexairi Mentis | [Read More](https://medium.com/p/431306b93aef) |
 | Fri, 24 Apr 2026 19:39:21 GMT | CyberDefenders — ShadowRoast Lab Writeup | JBXSec | [Read More](https://medium.com/p/d79a92fc47c4) |
-| Fri, 24 Apr 2026 19:38:17 GMT | Not Another (Incident Response) Framework | RootXover | [Read More](https://medium.com/p/aeff9d27887c) |
-| Fri, 24 Apr 2026 19:34:25 GMT | Billing TryHackMe — Boot2root CTF challenge writeup | Scorpius | [Read More](https://medium.com/p/bc7cd449b7d8) |
-| Fri, 24 Apr 2026 19:32:38 GMT | Hackers Exploiting SS7 & Diameter: A Silent Threat to Mobile Security | Vishnukraju | [Read More](https://medium.com/p/98d776dd5b1c) |
-| Fri, 24 Apr 2026 19:32:22 GMT | Cybersecurity Threats Are Rising Globally — And It’s Accelerating | Universal Record | [Read More](https://medium.com/p/c839b9823faf) |
-| Fri, 24 Apr 2026 19:32:22 GMT | How Small and Mid-Sized Businesses Can Afford Effective Cyber Security Compliance | Fortnexs Shield | [Read More](https://medium.com/p/ac36be998162) |
-| Fri, 24 Apr 2026 19:30:35 GMT | The Cyber Kill Chain: Understanding How Cyberattacks Unfold | ThatCyberGirl | [Read More](https://medium.com/p/34ec4bb52b4e) |
-| Fri, 24 Apr 2026 19:23:43 GMT | Arbitrary File Read via Exported Activity (Android) | Lewis Crawford | [Read More](https://medium.com/p/7f0d3862e5f3) |
-| Fri, 24 Apr 2026 19:16:01 GMT | From Fake Flag to Full RCE — Clankers Market Writeup | S0n1c_404 | [Read More](https://medium.com/p/4e9532bcb551) |
-| Fri, 24 Apr 2026 18:42:37 GMT | The HTTP 303 Hack — From Python HTTP Client Defaults to AWS Credential Exfiltration — A Deep Dive… | Alvin Ferdiansyah | [Read More](https://medium.com/p/bfaece6c3805) |
-| Fri, 24 Apr 2026 18:42:00 GMT | Try Hack Me- Bolt Walkthrough | PulseEinher | [Read More](https://medium.com/p/10a1d4b5a504) |
-| Fri, 24 Apr 2026 18:33:31 GMT | mSpy Suspicious Link Blocker: What I Found | Janina Perdzock | [Read More](https://medium.com/p/1209db37f9aa) |
-| Fri, 24 Apr 2026 18:27:51 GMT | Business Analyst P.6: Strategy Analysis | Fachry Andika Rachman | [Read More](https://medium.com/p/ce7ad4de2d91) |
-| Fri, 24 Apr 2026 18:26:48 GMT | The Hook — Why security is infrastructure, not a feature | Reuben Lim | [Read More](https://medium.com/p/2aed464a55ec) |
