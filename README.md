@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 14:27:32 GMT | #1 Splunk Deployment — Lab | Thegodofmoons | [Read More](https://medium.com/p/38e526ce80e1) |
+| Sat, 25 Apr 2026 14:24:19 GMT | ️ Lirix v1.4.1: The Ecosystem Domination Release | lokii | [Read More](https://medium.com/p/1ba42a56ef2f) |
+| Sat, 25 Apr 2026 14:19:32 GMT | Digital Forensics in 2026: The Hackers Are Winning and Nobody Is Talking About It Enough | Netanix | [Read More](https://medium.com/p/c7bc04c13a19) |
+| Sat, 25 Apr 2026 14:19:28 GMT | Implementing Hell’s Gate Indirect Syscalls in Go for EDR Evasion | Wadecalvin | [Read More](https://medium.com/p/e528e1610df2) |
+| Sat, 25 Apr 2026 14:18:02 GMT | AI Agents for Bug Bounty - Smarter Hunting Workflow | Pentester Club | [Read More](https://medium.com/p/4564ec8123d2) |
+| Sat, 25 Apr 2026 14:12:35 GMT | advantages and disadvantages of idsAdvantages and Disadvantages of IDS for Enterprise Network… | NG Cloud Security | [Read More](https://medium.com/p/853e9643b17d) |
+| Sat, 25 Apr 2026 14:09:59 GMT | 500,000 UK Records for Sale: Why Our Current Data Security is Failing | The British Blockchain Association (The BBA) | [Read More](https://medium.com/p/25b8fab03f9f) |
+| Sat, 25 Apr 2026 14:05:39 GMT | Before Stuxnet: Fast16 and the Early Signs of Cyber Warfare | Jas | [Read More](https://medium.com/p/7fd437f50b96) |
+| Sat, 25 Apr 2026 14:05:21 GMT | Security as a Standard: Why Mission-Critical Infrastructure is Moving to Aiken | John Galt | [Read More](https://medium.com/p/1eaaec0f8aac) |
+| Sat, 25 Apr 2026 14:01:18 GMT | WEB PEN TEST CTF | APT-0 | [Read More](https://medium.com/p/272dfae66e54) |
+| Sat, 25 Apr 2026 14:01:02 GMT | Threat Hunting for Network Based Attacks - LetsDefend [Part 1] | 0verRida | [Read More](https://medium.com/p/2e664751a25e) |
+| Sat, 25 Apr 2026 14:01:02 GMT | 2023 GitHub Rulesets Exposed the Branch Screen’s Silent Merge Gaps | James Kuhman | [Read More](https://medium.com/p/584bcdaa0c92) |
+| Sat, 25 Apr 2026 14:00:52 GMT | Meet Mythos: Anthropic Built an AI That Hacks Like a Senior Pentester (And Then Panicked a Little) | Netanix | [Read More](https://medium.com/p/f6d6c265d14f) |
+| Sat, 25 Apr 2026 14:00:41 GMT | No Rules, No Locks — Firebase Misconfiguration and the Borrowers It Left Behind | Alvin Ferdiansyah | [Read More](https://medium.com/p/90d568038414) |
+| Sat, 25 Apr 2026 13:48:55 GMT | Internal — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/9dadad6001e8) |
+| Sat, 25 Apr 2026 13:47:27 GMT | The real battlefield of technology today is not innovation, but trust | Mariza Ghizzoni | [Read More](https://medium.com/p/9a719498e9ba) |
+| Sat, 25 Apr 2026 13:46:52 GMT | The Technological Republic | Claus-Dieter Volko | [Read More](https://medium.com/p/7b929d226e0f) |
 | Sat, 25 Apr 2026 13:28:12 GMT | Top CVEs to Hunt in 2026 — A Bug Bounty Hunter’s Playbook | Raja Uzair Abdullah | [Read More](https://medium.com/p/7769de831166) |
 | Sat, 25 Apr 2026 13:27:33 GMT | The Wax Seal and the Lead Box: Why Encryption Isn’t Enough | Systemic | [Read More](https://medium.com/p/6deb1e8c7ad6) |
 | Sat, 25 Apr 2026 13:26:01 GMT | Your Clean Room Isn’t Clean. It Never Was. | Faraz Ishaq | [Read More](https://medium.com/p/430ce5ffd8e5) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 06:38:08 GMT | Why Phishing Attacks Still Work in 2026: It’s Not About Technology | Lakshita Soni | [Read More](https://medium.com/p/aec5452ba941) |
 | Sat, 25 Apr 2026 06:18:52 GMT | Cybersecurity Is Entering Its Most Dangerous Era: When Machines Attack Trust Itself | Daniel Isaac E | [Read More](https://medium.com/p/9c9e63b8b419) |
 | Sat, 25 Apr 2026 06:11:14 GMT | Event Security Services: Ensuring Safe and Successful Events | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/cebe97de6ffb) |
-| Sat, 25 Apr 2026 06:11:08 GMT | Day 2: Building the Ultimate (and Safe) Cybersecurity Home Lab | geekxeverywhere | [Read More](https://medium.com/p/12b0665f45f9) |
-| Sat, 25 Apr 2026 06:10:01 GMT | On the Efficient Design of Stacked Intelligent Metasurfaces for Secure SISO Transmission | Stacked Intelligent Metasurfaces (SIM) | [Read More](https://medium.com/p/2a9025d9ac25) |
-| Sat, 25 Apr 2026 06:04:30 GMT | SIEM: Security Information and Event Management Explained | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/6e13d257c834) |
-| Sat, 25 Apr 2026 05:48:15 GMT | Metasploit Framework: A Complete Introduction to One of the Most Important Tools in Ethical Hacking | Dilushahesaranga | [Read More](https://medium.com/p/f1c2d1924ebd) |
-| Sat, 25 Apr 2026 05:46:01 GMT | Your Discounts Are Syncing Correctly. That’s Exactly Why They’re Breaking. | i95Dev | [Read More](https://medium.com/p/b171fdbaaf47) |
-| Sat, 25 Apr 2026 05:39:09 GMT | Edge Computing: A New Frontier in Distributed Information Systems | Janith Harshana | [Read More](https://medium.com/p/1c30d9953d1c) |
-| Sat, 25 Apr 2026 05:37:23 GMT | What Jobs Will Grow Because of AI? | Vijay Kumar Gupta | [Read More](https://medium.com/p/b321fa4edaf2) |
-| Sat, 25 Apr 2026 05:35:27 GMT | Enter the Vibe: A Manifesto for the Serious Vibecoder | Samuel Odekunle | [Read More](https://medium.com/p/47743021d87c) |
-| Sat, 25 Apr 2026 05:19:36 GMT | The Paradox of the Digital Era | TANMAY DANGE | [Read More](https://medium.com/p/00944e7bcccc) |
-| Sat, 25 Apr 2026 05:14:29 GMT | Jest Unit Testing: Testing Functions and Utilities | Yakhilesh | [Read More](https://medium.com/p/8cb1e74b0415) |
-| Sat, 25 Apr 2026 05:10:07 GMT | I Built an AI-Powered Network Intrusion Detection System for My Final Year Project — Here’s Exactly… | PIYUSH KUMAR SAHOO | [Read More](https://medium.com/p/897999caaef3) |
-| Sat, 25 Apr 2026 05:06:35 GMT | Journey toward the SOC Analyst | CharlieVerse | [Read More](https://medium.com/p/8c0059e06a1c) |
-| Sat, 25 Apr 2026 05:01:01 GMT | Vulnerability Lets People Connect | Tirzah Clark | [Read More](https://medium.com/p/b2c563784f30) |
-| Sat, 25 Apr 2026 04:53:41 GMT | How I recognize I am solving for the wrong thing | Halecolin | [Read More](https://medium.com/p/df2da6ecdb3f) |
-| Sat, 25 Apr 2026 04:50:13 GMT | Open-Source AI-Augmented SOC on Azure: Automating Tier 1–3 SOC Operations with Fine-Tuned LLMs | Francisco Agballog | [Read More](https://medium.com/p/4ff1f9a22adc) |
-| Sat, 25 Apr 2026 04:50:05 GMT | How to Upload and Get Files from S3 in a Secure Way (Node.js) | Sébastien Le Bosser | [Read More](https://medium.com/p/e79778244c2e) |
-| Sat, 25 Apr 2026 04:49:33 GMT | How I Started My Cybersecurity Journey: From Basics to Bug Bounty Hunting | Md. Lavib Uddin Ashik | [Read More](https://medium.com/p/930d49bb805a) |
