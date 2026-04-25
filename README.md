@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 10:12:48 GMT | Trusted Security Guard Company in Richmond Hill for Homes & Businesses | Grdsnscrt | [Read More](https://medium.com/p/f65c1516e04d) |
+| Sat, 25 Apr 2026 10:10:51 GMT | How to Find Real Vulnerabilities Using Source -> Flow -> Sink | Surajvishwakarma | [Read More](https://medium.com/p/d7d8122299c8) |
+| Sat, 25 Apr 2026 10:02:16 GMT | Find My Girlfriend — TryHackMe Writeup | yk | [Read More](https://medium.com/p/f959feadd744) |
+| Sat, 25 Apr 2026 10:01:49 GMT | How Geopolitical Conflicts Increase Cyber Risk for Indian Businesses | Lumiversesolution | [Read More](https://medium.com/p/8e25c7432f29) |
+| Sat, 25 Apr 2026 09:53:34 GMT | Shadow AI and Model Sprawl: The Risk Most Companies Won’t See Until They’re Asked to Explain It | PRASAD BHONDE | [Read More](https://medium.com/p/e6eb9f689389) |
+| Sat, 25 Apr 2026 09:51:46 GMT | Shift Left in Practice — Integrating SAST/DAST into CI/CD pipelines | Reuben Lim | [Read More](https://medium.com/p/353b08f43446) |
+| Sat, 25 Apr 2026 09:34:55 GMT | Post-Quantum Readiness: A Developer’s Guide to iOS 26 and Beyond | Bhishak S | [Read More](https://medium.com/p/6bf949e4f957) |
+| Sat, 25 Apr 2026 09:33:33 GMT | I got the exact phishing email the FBI warned about. | Coingirl | [Read More](https://medium.com/p/bfd8d66cdb37) |
+| Sat, 25 Apr 2026 09:30:11 GMT | picoCTF Hashgate challenge - Web exploitation - Medium level problem. | Dipankar Paul | [Read More](https://medium.com/p/27f5738ceb68) |
 | Sat, 25 Apr 2026 09:25:03 GMT | How I Blinded a Zen RASP Firewall with a Single Comma | Jawad Momani | [Read More](https://medium.com/p/074f0e7bc251) |
 | Sat, 25 Apr 2026 09:23:43 GMT | Detecting Cyber Attacks Using Machine Learning | Mohit Suthar | [Read More](https://medium.com/p/b67a7a1d650c) |
 | Sat, 25 Apr 2026 09:18:33 GMT | Bug Bounty Series — Part 3 (HTTP Parameter Pollution) | Aditya Kumar | [Read More](https://medium.com/p/e2bbf95c8cae) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 00:13:15 GMT | Lab: HTTP request smuggling, confirming a CL.TE vulnerability via differential responses | Mohamed Amgad | [Read More](https://medium.com/p/4e9a9fad8b5a) |
 | Sat, 25 Apr 2026 00:05:38 GMT | Mastering the Gates: Firewalls, VPNs, and Network Simulation | Jonathan Sanfer | [Read More](https://medium.com/p/901f7a5b3254) |
 | Sat, 25 Apr 2026 00:01:02 GMT | WebVersePro Labs — Challenge: Herbalist Remedies Writeup (NoSQL Injection) | Zor0ark | [Read More](https://medium.com/p/9a85a4f1c68c) |
-| Sat, 25 Apr 2026 00:01:02 GMT | SSRF Master Guide: Exploitation and Mitigation Strategies | JPablo13 | [Read More](https://medium.com/p/e8b6a5d415bd) |
-| Fri, 24 Apr 2026 23:55:36 GMT | Easiest $100 on Hackerone - Null Byte Broke Authentication | StvRoot | [Read More](https://medium.com/p/3b63ba2e0a49) |
-| Fri, 24 Apr 2026 23:55:33 GMT | How Hackers Use OSINT Before Attacking | Hania Khan | [Read More](https://medium.com/p/94787848e800) |
-| Fri, 24 Apr 2026 23:54:29 GMT | Google Just Patched 60 Chrome Bugs—Two of Them Are Critical | Muneeb | [Read More](https://medium.com/p/3db6ea482d40) |
-| Fri, 24 Apr 2026 23:52:43 GMT | Conducting Security Testing on Senior Year Project: AI-Powered Wardrobe Platform | Onurcan Genç | [Read More](https://medium.com/p/ce374490204f) |
-| Fri, 24 Apr 2026 23:51:41 GMT | Sobre a IA | akaliopsixseven | [Read More](https://medium.com/p/d98b5f8db3bc) |
-| Fri, 24 Apr 2026 23:48:47 GMT | 8 Cybersecurity Websites Most Professionals Are Sleeping On (But Shouldn’t Be) | Regan Temudo | [Read More](https://medium.com/p/cb447bdf1956) |
-| Fri, 24 Apr 2026 23:30:43 GMT | PAN Security | Beth Cochran | [Read More](https://medium.com/p/1105fd7799fd) |
-| Fri, 24 Apr 2026 23:19:27 GMT | Deterministic vs Probabilistic AI in DFIR: Understanding the Balance Between Certainty and… | Onyedikachi Bernard Okoh | [Read More](https://medium.com/p/1e48131cef5c) |
