@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 02:23:31 GMT | How social media algorithms know you so well | Cecilydarviso | [Read More](https://medium.com/p/dc6a92a56e24) |
+| Sat, 25 Apr 2026 02:19:50 GMT | If I Were Starting Cyber Security in 2026, This Is Exactly What I Would Do | Gulshan Rahman | [Read More](https://medium.com/p/a20f6c9144be) |
+| Sat, 25 Apr 2026 02:02:23 GMT | Which Tool to Use When Web App Pentesting? | The Husky Hacker | [Read More](https://medium.com/p/03dafd254808) |
+| Sat, 25 Apr 2026 01:54:41 GMT | ⚡ eBPF: The Security Superpower Inside the Linux Kernel | Parth Patel | [Read More](https://medium.com/p/d27fac3c1d62) |
+| Sat, 25 Apr 2026 01:53:33 GMT | The Invisible Layer of Data: How Information Hides in Plain Sight — and Why It Doesn’t Always… | Bruno Novaes | [Read More](https://medium.com/p/90b3f1d222d4) |
+| Sat, 25 Apr 2026 01:52:12 GMT | How to Safely Store OAuth Access Tokens in Rails with Active Record Encryption | Roonglit Chareonsupkul | [Read More](https://medium.com/p/56d1ca3bce6c) |
+| Sat, 25 Apr 2026 01:42:37 GMT | Hijacking Digital Signatures: A Hands-On Lab Walkthrough | Cooked.gg | [Read More](https://medium.com/p/1abbaaaa8747) |
+| Sat, 25 Apr 2026 01:41:01 GMT | HTTP Headers & OWASP ZAP — Reading What Servers Reveal About Themselves | Juan Manuel Yepes | [Read More](https://medium.com/p/2d26608bbc8e) |
+| Sat, 25 Apr 2026 01:18:48 GMT | Hopeless Romantic | Jasmine Ramos | [Read More](https://medium.com/p/325b77d3f55b) |
+| Sat, 25 Apr 2026 00:55:48 GMT | How I’m learning Cybersecurity Step by Step: Documenting my Learning Path. | Marvelous Amatue | [Read More](https://medium.com/p/f94edd903f94) |
+| Sat, 25 Apr 2026 00:51:39 GMT | ShinyHunters Unmasked: Exploring the Ethics and Implications of the World’s Leading Cyberhack… | Everson Taveras | [Read More](https://medium.com/p/63cc619843cf) |
+| Sat, 25 Apr 2026 00:50:18 GMT | SOC251 — Quishing Detected (QR Code Phishing) | Harshprajapati | [Read More](https://medium.com/p/fb096586d5bb) |
+| Sat, 25 Apr 2026 00:45:27 GMT | How a Simple Chromium Spoofing Bug Got Me $3000 | Azza0X1A | [Read More](https://medium.com/p/99076346877a) |
+| Sat, 25 Apr 2026 00:31:08 GMT | The Framework That Cannot Save Itself | Jose Spena | [Read More](https://medium.com/p/eb8ea24e4102) |
+| Sat, 25 Apr 2026 00:22:04 GMT | Why RAG in Manufacturing Is an Access Control Problem — Not a Search Problem | Kyotolab Ku | [Read More](https://medium.com/p/776816ae8032) |
+| Sat, 25 Apr 2026 00:13:15 GMT | Lab: HTTP request smuggling, confirming a CL.TE vulnerability via differential responses | Mohamed Amgad | [Read More](https://medium.com/p/4e9a9fad8b5a) |
+| Sat, 25 Apr 2026 00:05:38 GMT | Mastering the Gates: Firewalls, VPNs, and Network Simulation | Jonathan Sanfer | [Read More](https://medium.com/p/901f7a5b3254) |
+| Sat, 25 Apr 2026 00:01:02 GMT | WebVersePro Labs — Challenge: Herbalist Remedies Writeup (NoSQL Injection) | Zor0ark | [Read More](https://medium.com/p/9a85a4f1c68c) |
+| Sat, 25 Apr 2026 00:01:02 GMT | SSRF Master Guide: Exploitation and Mitigation Strategies | JPablo13 | [Read More](https://medium.com/p/e8b6a5d415bd) |
+| Fri, 24 Apr 2026 23:55:36 GMT | Easiest $100 on Hackerone - Null Byte Broke Authentication | StvRoot | [Read More](https://medium.com/p/3b63ba2e0a49) |
+| Fri, 24 Apr 2026 23:55:33 GMT | How Hackers Use OSINT Before Attacking | Hania Khan | [Read More](https://medium.com/p/94787848e800) |
+| Fri, 24 Apr 2026 23:54:29 GMT | Google Just Patched 60 Chrome Bugs—Two of Them Are Critical | Muneeb | [Read More](https://medium.com/p/3db6ea482d40) |
+| Fri, 24 Apr 2026 23:52:43 GMT | Conducting Security Testing on Senior Year Project: AI-Powered Wardrobe Platform | Onurcan Genç | [Read More](https://medium.com/p/ce374490204f) |
+| Fri, 24 Apr 2026 23:51:41 GMT | Sobre a IA | akaliopsixseven | [Read More](https://medium.com/p/d98b5f8db3bc) |
+| Fri, 24 Apr 2026 23:48:47 GMT | 8 Cybersecurity Websites Most Professionals Are Sleeping On (But Shouldn’t Be) | Regan Temudo | [Read More](https://medium.com/p/cb447bdf1956) |
 | Fri, 24 Apr 2026 23:30:43 GMT | PAN Security | Beth Cochran | [Read More](https://medium.com/p/1105fd7799fd) |
 | Fri, 24 Apr 2026 23:19:27 GMT | Deterministic vs Probabilistic AI in DFIR: Understanding the Balance Between Certainty and… | Onyedikachi Bernard Okoh | [Read More](https://medium.com/p/1e48131cef5c) |
 | Fri, 24 Apr 2026 23:07:53 GMT | Method-based access control can be circumvented - Portswigger Academy | 7s26Simon | [Read More](https://medium.com/p/f2ee66217383) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 24 Apr 2026 16:31:23 GMT | Stored DoS via Missing Parameter | TURB0_1 | [Read More](https://medium.com/p/4e0394f211d4) |
 | Fri, 24 Apr 2026 16:22:07 GMT | Governing Agentic AI in Production: What Every AI Leader Should Plan For | Benjamin Gumbley | [Read More](https://medium.com/p/635873e19c61) |
 | Fri, 24 Apr 2026 16:19:37 GMT | Why You’ll Never Feel Like You Have Enough — and What Actually Works | Charles Black M.D. | [Read More](https://medium.com/p/f6d62708976a) |
-| Fri, 24 Apr 2026 16:17:23 GMT | The Death of Privacy: Why 2026 is the Year Your Data is More Valuable than Gold | Shadowframemovies | [Read More](https://medium.com/p/804fc2f63005) |
-| Fri, 24 Apr 2026 16:17:13 GMT | What is Cybersecurity? A Beginner-Friendly Introduction | Siri | [Read More](https://medium.com/p/ad7c1af4768a) |
-| Fri, 24 Apr 2026 16:15:25 GMT | When AI Turns from Assistant to Employee: Are You Ready for “Agent Sprawl”? | Chien-Sheng (Jason) Wu | [Read More](https://medium.com/p/27c922421663) |
-| Fri, 24 Apr 2026 16:10:03 GMT | TryHackMe - Data Poisoning in RAG Systems - WriteUp | Axoloth | [Read More](https://medium.com/p/fe37e17478a3) |
-| Fri, 24 Apr 2026 16:06:57 GMT | The Ghost in the Cloud | Fodisy Systems | [Read More](https://medium.com/p/25f7f7e3a71c) |
-| Fri, 24 Apr 2026 16:06:17 GMT | Expanding Kali Linux Storage in UTM Without Data Loss (Step-by-Step Guide) | Piyush Dhakad | [Read More](https://medium.com/p/4144b5cca5e7) |
-| Fri, 24 Apr 2026 15:55:00 GMT | Enterprise-THM: Full Active Directory Compromise | ZeroDay-Security-Services | [Read More](https://medium.com/p/e2e24194d081) |
-| Fri, 24 Apr 2026 15:54:16 GMT | Breaking JWT Authentication in Real Applications - Ayan Paul | Ayan Paul | [Read More](https://medium.com/p/9dc048fc2cef) |
-| Fri, 24 Apr 2026 15:53:41 GMT | Microsoft Copilot’s New Agentic Era: Word, Excel, PowerPoint, and the Rise of the AI Second… | divya mishra | [Read More](https://medium.com/p/d5dbe3b783ac) |
-| Fri, 24 Apr 2026 15:51:23 GMT | Learn how to secure EC2 instances using security groups, SSH hardening, and CloudWatch monitoring… | Bennyhinn | [Read More](https://medium.com/p/bd35f96cc382) |
-| Fri, 24 Apr 2026 15:51:22 GMT | C-AgAIPen (Certified Agentic AI Pentester) Review | Chicken0248 | [Read More](https://medium.com/p/40c05f35ceae) |
-| Fri, 24 Apr 2026 15:49:15 GMT | Trapped In Kafala; Vulnerability of Women Domestic Workers from Philippines Amid Rising Conflicts… | Nezafet Yesil | [Read More](https://medium.com/p/9527e2547820) |
-| Fri, 24 Apr 2026 15:47:57 GMT | Defensive Security Intro | Stacy Sirbu | [Read More](https://medium.com/p/096c16929d7e) |
-| Fri, 24 Apr 2026 15:46:01 GMT | Part 2 — Meet Git-Kepo Pro: Upgrading AI Detective Into a Full Git Security and Network Scanner | Levente Csikor | [Read More](https://medium.com/p/ae1e6fb48167) |
-| Fri, 24 Apr 2026 15:44:54 GMT | File Inclusion | Mahmoud Mousa | [Read More](https://medium.com/p/bd6db3dc5646) |
-| Fri, 24 Apr 2026 15:37:35 GMT | Malware That Lives in Your GPU : The Idea Is Simple and Brilliant | zerOiQ | [Read More](https://medium.com/p/1132e3e21cc6) |
-| Fri, 24 Apr 2026 15:09:57 GMT | The Courage to Be Seen | Beyond Borders | [Read More](https://medium.com/p/f21dadfce752) |
-| Fri, 24 Apr 2026 15:02:19 GMT | Offensive Security Intro | Stacy Sirbu | [Read More](https://medium.com/p/05ff88bd1f73) |
-| Fri, 24 Apr 2026 15:01:43 GMT | Policy-Freeze Is the Missing Primitive in Agent Infrastructure — and Anthropic Just Made the Case… | Sattyam Jain | [Read More](https://medium.com/p/331be64fa00e) |
-| Fri, 24 Apr 2026 14:57:17 GMT | 337,000 Files. None of Them Were Supposed to Leave That Server. | Ilias Armenakis | [Read More](https://medium.com/p/b65e6882f660) |
-| Fri, 24 Apr 2026 14:56:12 GMT | How the Entry/Exit System Integrates AI, Biometrics, and Data Governance | nishu facile | [Read More](https://medium.com/p/a03d4d4dffd1) |
-| Fri, 24 Apr 2026 14:54:46 GMT | Firewall Management on Linux with UFW and Iptables Fundamentals | Burak Erdem Yaprak | [Read More](https://medium.com/p/76a56b2f12c4) |
-| Fri, 24 Apr 2026 14:43:10 GMT | Securing the Backbone — Issue #28: When 18 Nations Agree — The Global SBOM Consensus and What It… | Eric Gallagher | [Read More](https://medium.com/p/a77b50b30a70) |
-| Fri, 24 Apr 2026 14:42:49 GMT | Securing the Backbone — Issue #27: The Hidden Cost of Technical Debt in Critical Infrastructure | Eric Gallagher | [Read More](https://medium.com/p/54f2231e76e3) |
-| Fri, 24 Apr 2026 14:41:44 GMT | Scam Alerts: Turning Internet Safety into a Habit | James Smith | [Read More](https://medium.com/p/8f7b4187a33d) |
