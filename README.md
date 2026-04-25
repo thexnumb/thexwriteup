@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 19:44:00 GMT | Trust Shatters, Pride Withdraws. | Inscribed Echoes. | [Read More](https://medium.com/p/a5d4110da025) |
+| Sat, 25 Apr 2026 19:36:01 GMT | How I Broke my Starknet Staking Contract with Simple Math: A Lesson on Rounding Errors | rdin777 | [Read More](https://medium.com/p/6f00f00f7889) |
+| Sat, 25 Apr 2026 19:34:23 GMT | ¡Ay abril…! | Ana | [Read More](https://medium.com/p/b77512e7d4e6) |
+| Sat, 25 Apr 2026 19:29:59 GMT | Security for apps | Mijaindholiya | [Read More](https://medium.com/p/c4aaea11134a) |
+| Sat, 25 Apr 2026 19:29:55 GMT | We Didn’t Just Build a Project. We Built Something That Matters. | Aadit Ajay | [Read More](https://medium.com/p/76689444b45f) |
+| Sat, 25 Apr 2026 19:23:31 GMT | The Death of Bugs, and Their Rebirth | Estakisha | [Read More](https://medium.com/p/cce64086df4c) |
+| Sat, 25 Apr 2026 19:17:03 GMT | How is your customer service? | Jeremy Dickey | [Read More](https://medium.com/p/53c93f191d63) |
+| Sat, 25 Apr 2026 19:01:01 GMT | AI Just Found a 27-Year-Old Bug in One of the World’s Most Secure Operating Systems. | Wahidur Rahman | [Read More](https://medium.com/p/b489bea53390) |
+| Sat, 25 Apr 2026 18:59:42 GMT | The Payment Card Industry Data Security Standard (PCI-DSS) | Musa Yusuf Magoban | [Read More](https://medium.com/p/1f2275ea2f94) |
+| Sat, 25 Apr 2026 18:53:24 GMT | The Capybara in the Room: 93.9% Accuracy, 181 Exploits — Inside Claude Mythos | R. Thompson (PhD) | [Read More](https://medium.com/p/afb56d04d093) |
+| Sat, 25 Apr 2026 18:52:40 GMT | TryHackMe: ItsyBitsy - Write-Up | Ash T | [Read More](https://medium.com/p/e9fbf0907a94) |
+| Sat, 25 Apr 2026 18:52:03 GMT | The Illusion of Security: Why Your Frontend Is a Gift to Hackers | Vasyl Oliinyk | [Read More](https://medium.com/p/a8b0397dee97) |
 | Sat, 25 Apr 2026 18:49:12 GMT | XSS in 2026: Why dangerouslySetInnerHTML Is a Loaded Gun | Vasyl Oliinyk | [Read More](https://medium.com/p/f63c5e31646f) |
+| Sat, 25 Apr 2026 18:49:05 GMT | The Importance of Horizontal Security in the AI Arena | Eray Yavuz | [Read More](https://medium.com/p/20a93c80dc2f) |
 | Sat, 25 Apr 2026 18:31:53 GMT | Android Application Penetration Testing: A Complete Phase-Wise Methodology with Tools &… | ArunKumarBalivada | [Read More](https://medium.com/p/2ca8ba6c01e0) |
 | Sat, 25 Apr 2026 18:21:34 GMT | Setting Up and Managing a Microsoft Entra ID Tenant (Hands-on IT Walkthrough) | Richard Akintola | [Read More](https://medium.com/p/420d655c9edf) |
 | Sat, 25 Apr 2026 18:20:45 GMT | Your OPSEC Is Broken: How to Safely Investigate in CTI | veyron92i | [Read More](https://medium.com/p/40d5399b0600) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 12:55:43 GMT | The Recon Everyone Misses Happens Before You Touch the Target | Fateyaly | [Read More](https://medium.com/p/425f42671509) |
 | Sat, 25 Apr 2026 12:51:59 GMT | THE SRI LANKA FINANCE MINISTRY CYBER FRAUD INCIDENT 2025–2026 | Erica Jayasundera | [Read More](https://medium.com/p/ebc726beae3d) |
 | Sat, 25 Apr 2026 12:45:16 GMT | Building a Scalable Network with VLSM, Static & EIGRP Dynamic Routing(Cisco Packet Tracer Project) | Usman Cheema | [Read More](https://medium.com/p/894a0f5f683e) |
-| Sat, 25 Apr 2026 12:41:35 GMT | Cracking the Code: A Beginner’s Guide to Penetration Testing and Building a Blooming Career | Ramyaabharathi | [Read More](https://medium.com/p/9bd48fa270f6) |
-| Sat, 25 Apr 2026 12:41:16 GMT | I Hope I Like the Cake | Dr. Era Gupta | [Read More](https://medium.com/p/03e9943672a0) |
-| Sat, 25 Apr 2026 12:40:09 GMT | Quantumania — A system architect and security engineers perspective on the realities of quantum… | Adam DArcy | [Read More](https://medium.com/p/4cd29925ba75) |
-| Sat, 25 Apr 2026 12:33:42 GMT | Autonomous Adversarial Defense Architecture (AADA) | Tetsuya Nihonmatsu | [Read More](https://medium.com/p/cf60e52cb991) |
-| Sat, 25 Apr 2026 12:31:01 GMT | Post-Quantum Cryptography: A Developer’s Migration Guide Before 2030 | Aditya Ganti | [Read More](https://medium.com/p/1d19075ac99d) |
-| Sat, 25 Apr 2026 12:13:56 GMT | How Smart Video Surveillance Is Transforming Business Security in Nebraska | ASI Systems Pro | [Read More](https://medium.com/p/aa666074e6d7) |
-| Sat, 25 Apr 2026 12:12:24 GMT | Azure Policy: Baking Security In part 2 | Joseph A. M. | [Read More](https://medium.com/p/775aed9620b7) |
-| Sat, 25 Apr 2026 12:11:35 GMT | I Ignored These 10 Spring Boot Rules and Lost a $500K Client — Don’t Be Me | inside Nikita's Mind | [Read More](https://medium.com/p/c811ba9036c0) |
-| Sat, 25 Apr 2026 12:09:29 GMT | Facial Recognition Clock in System: Simplifying Employee Check-In Processes | Oscar Vazquez | [Read More](https://medium.com/p/697e40f46add) |
-| Sat, 25 Apr 2026 11:59:40 GMT | Incident Response Playbooks — How AI is Changing the Game in 2026 | Sai kiran | [Read More](https://medium.com/p/bbfdcfda7a3a) |
-| Sat, 25 Apr 2026 11:51:22 GMT | ️ Ghost in the Machine: Navigating the 2026 Zero-Day Landscape with MYTHOS MD. | Mirmahmood | [Read More](https://medium.com/p/4cab74f66e01) |
-| Sat, 25 Apr 2026 11:50:52 GMT | AI is becoming the new IT | Aniket Sanyal | [Read More](https://medium.com/p/7b2111eb5421) |
-| Sat, 25 Apr 2026 11:48:27 GMT | AI Data Classification Made Simple: What’s Safe to Share with ChatGPT, Copilot, and Gemini | Aniket Sanyal | [Read More](https://medium.com/p/298d946cda06) |
