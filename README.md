@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 23:40:20 GMT | Ehxb - Password Spraying Attacks on AD | Ehxb | [Read More](https://medium.com/p/46607fc4781b) |
+| Sat, 25 Apr 2026 23:33:35 GMT | The 5 OSINT Mistakes You Don’t Want To Make | Investigator515 | [Read More](https://medium.com/p/f98188880993) |
+| Sat, 25 Apr 2026 23:23:58 GMT | How to Avoid Hardcoding API Keys in mcp.json | Yoshiyuki Watanabe | [Read More](https://medium.com/p/b129a8306132) |
+| Sat, 25 Apr 2026 23:22:33 GMT | The Hidden Cost of Saying Yes to My Daughter’s Charity Ride Across the Gobi Desert | Eileen Philippa | [Read More](https://medium.com/p/ad5a63ab1af0) |
+| Sat, 25 Apr 2026 23:01:24 GMT | THE DANGEROUS RISE OF SOCIAL MEDIA MISINFORMATION ON HEALTH ISSUES. | Eze Chizoba | [Read More](https://medium.com/p/70b7f1fcd7f4) |
+| Sat, 25 Apr 2026 22:53:21 GMT | ️ CyberTalents ARP Storm Full Write-Up | Sherif Osmna Humoda | [Read More](https://medium.com/p/b96b3c7b67ff) |
+| Sat, 25 Apr 2026 22:45:35 GMT | The Hidden Dangers of Public Wi-Fi | Gligits | [Read More](https://medium.com/p/df2808093957) |
+| Sat, 25 Apr 2026 22:40:44 GMT | The Death of the Password (Finally): What Passkeys Actually Mean for Everyday Users | Light | [Read More](https://medium.com/p/7796b05178be) |
+| Sat, 25 Apr 2026 22:37:52 GMT | The OSI Model (Except It Actually Makes Sense) — Part 2 | Aryan Vij | [Read More](https://medium.com/p/aeb899970a64) |
 | Sat, 25 Apr 2026 22:28:46 GMT | # The Death of the Password (Finally): What Passkeys Actually Mean for Everyday Users | Light | [Read More](https://medium.com/p/dbbd0be8b7b5) |
 | Sat, 25 Apr 2026 22:20:36 GMT | Imposter Syndrome in Cybersecurity: Why AI Is Making It Feel Worse (and Why That’s Misleading) | Jeffrey Jolly | [Read More](https://medium.com/p/3884e9e99cca) |
 | Sat, 25 Apr 2026 22:19:22 GMT | We Need to Stop Vibe Coder Bros. Immediately. (Or: Log Off, Touch Some Grass, ... | Michael Caney Jr | [Read More](https://medium.com/p/366ee3f25342) |
@@ -52,6 +61,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 19:29:55 GMT | We Didn’t Just Build a Project. We Built Something That Matters. | Aadit Ajay | [Read More](https://medium.com/p/76689444b45f) |
 | Sat, 25 Apr 2026 19:23:31 GMT | The Death of Bugs, and Their Rebirth | Estakisha | [Read More](https://medium.com/p/cce64086df4c) |
 | Sat, 25 Apr 2026 19:17:03 GMT | How is your customer service? | Jeremy Dickey | [Read More](https://medium.com/p/53c93f191d63) |
+| Sat, 25 Apr 2026 19:15:31 GMT | Tolong Jamah Aku Dibentuk Paling Telanjang | س | [Read More](https://medium.com/p/d56221976a75) |
 | Sat, 25 Apr 2026 19:01:01 GMT | AI Just Found a 27-Year-Old Bug in One of the World’s Most Secure Operating Systems. | Wahidur Rahman | [Read More](https://medium.com/p/b489bea53390) |
 | Sat, 25 Apr 2026 18:59:42 GMT | The Payment Card Industry Data Security Standard (PCI-DSS) | Musa Yusuf Magoban | [Read More](https://medium.com/p/1f2275ea2f94) |
 | Sat, 25 Apr 2026 18:53:24 GMT | The Capybara in the Room: 93.9% Accuracy, 181 Exploits — Inside Claude Mythos | R. Thompson (PhD) | [Read More](https://medium.com/p/afb56d04d093) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 15:47:06 GMT | “' OR 1=1 --” Is Blocked? Good. You’re Finally Ready to Find Real SQL Injection | Pradeeptadi | [Read More](https://medium.com/p/16919965043c) |
 | Sat, 25 Apr 2026 15:42:56 GMT | Kioptrix Level 1 | Heathentwitch | [Read More](https://medium.com/p/7110fc5f6f72) |
 | Sat, 25 Apr 2026 15:25:37 GMT | Active Directory Lab Setup for Penetration Testing Using PowerShell | Basithmohammedali | [Read More](https://medium.com/p/8a96e1299de8) |
-| Sat, 25 Apr 2026 15:25:18 GMT | How a 404 Page Led Me to an Unauthenticated AI Chatbot Leaking an Entire ERP Knowledge Base | Rohaangupta | [Read More](https://medium.com/p/dd8d380351cb) |
-| Sat, 25 Apr 2026 15:23:52 GMT | 6 Critical Challenges Facing the MCP in 2026 | Matt Mochalkin | [Read More](https://medium.com/p/06258e914402) |
-| Sat, 25 Apr 2026 15:21:55 GMT | Hardware Hacking 101 :: How I Hacked a Tenda Router from the Inside Out | Abinivesh | [Read More](https://medium.com/p/75c174fd38f2) |
-| Sat, 25 Apr 2026 15:21:34 GMT | ️ Write-up: ProFTPD 1.3.5 mod_copy Exploitation (CVE-2015–3306) | Celebwari nyoka bwari | [Read More](https://medium.com/p/571500828355) |
-| Sat, 25 Apr 2026 15:21:29 GMT | I Thought OTP Was Just a 6-Digit Code, Until I Had to Build It | Bilal Hairab | [Read More](https://medium.com/p/439703e0e345) |
-| Sat, 25 Apr 2026 15:19:52 GMT | OSI Model vs. TCP/IP Model — aarononit.blogspot.com | Aaron DeJong | [Read More](https://medium.com/p/25ca8833331b) |
-| Sat, 25 Apr 2026 15:17:51 GMT | NAT Types — aarononit.blogspot.com | Aaron DeJong | [Read More](https://medium.com/p/ba0dd673361f) |
-| Sat, 25 Apr 2026 15:15:41 GMT | TryHackMe — MD2PDF — Writeup | Szilidam | [Read More](https://medium.com/p/5d9fa4591c42) |
-| Sat, 25 Apr 2026 15:07:49 GMT | How a Small Validation Flaw Led to a 0-Click Account Takeover | ohmyleg | [Read More](https://medium.com/p/4fa944dce03e) |
-| Sat, 25 Apr 2026 15:04:16 GMT | Aftermath of Social Engineering and What to do About it | Fadyl Raffi | [Read More](https://medium.com/p/ef9c22627607) |
