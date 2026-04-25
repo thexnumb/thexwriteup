@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 18:49:12 GMT | XSS in 2026: Why dangerouslySetInnerHTML Is a Loaded Gun | Vasyl Oliinyk | [Read More](https://medium.com/p/f63c5e31646f) |
+| Sat, 25 Apr 2026 18:31:53 GMT | Android Application Penetration Testing: A Complete Phase-Wise Methodology with Tools &… | ArunKumarBalivada | [Read More](https://medium.com/p/2ca8ba6c01e0) |
+| Sat, 25 Apr 2026 18:21:34 GMT | Setting Up and Managing a Microsoft Entra ID Tenant (Hands-on IT Walkthrough) | Richard Akintola | [Read More](https://medium.com/p/420d655c9edf) |
+| Sat, 25 Apr 2026 18:20:45 GMT | Your OPSEC Is Broken: How to Safely Investigate in CTI | veyron92i | [Read More](https://medium.com/p/40d5399b0600) |
+| Sat, 25 Apr 2026 18:20:04 GMT | Still Figuring It Out | Shehla Hasan | [Read More](https://medium.com/p/6cfe34f5d088) |
+| Sat, 25 Apr 2026 18:19:03 GMT | How Google OAuth Actually Works in the Browser | Idrees | [Read More](https://medium.com/p/82e91d0949ab) |
+| Sat, 25 Apr 2026 18:18:12 GMT | The $2 Million Permission You Forgot You Granted | Defense Stack | [Read More](https://medium.com/p/4d0794d7c70f) |
+| Sat, 25 Apr 2026 18:15:32 GMT | Tool Poisoning: The AI Security Flaw Hiding in Your Function Definitions | Perparimimjeku | [Read More](https://medium.com/p/0dfcd8405162) |
+| Sat, 25 Apr 2026 18:13:28 GMT | The architectural reason your SOC keeps missing critical alerts | Yuksel | [Read More](https://medium.com/p/00214947d500) |
+| Sat, 25 Apr 2026 18:10:41 GMT | Practicality is All You Need: My Journey from Windows to Arch Linux | Dubeyguy | [Read More](https://medium.com/p/c57c7dec1dac) |
+| Sat, 25 Apr 2026 18:06:55 GMT | Digital Trust Is the New Currency -And It’s Fragile | Or Nizri | [Read More](https://medium.com/p/511b476c7f08) |
+| Sat, 25 Apr 2026 18:05:51 GMT | Strengthening AI Security: The Rise of Bug Bounty Programs for Advanced Models | Jas | [Read More](https://medium.com/p/3e535524bb17) |
+| Sat, 25 Apr 2026 17:54:15 GMT | The Last Human in the Loop | Jon Neiditz | [Read More](https://medium.com/p/48d4ab660bcf) |
+| Sat, 25 Apr 2026 17:45:33 GMT | Smag Grotto[Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/215828be1d0e) |
+| Sat, 25 Apr 2026 17:42:21 GMT | The implementation of the Carrier Pigeon Internet Protocol, RFC1149, 25 years later | Peter Hansteen | [Read More](https://medium.com/p/36ebf9918f44) |
+| Sat, 25 Apr 2026 17:32:01 GMT | Bug Bounty Automation with n8n Ep.1 | Benno Schneeberger | [Read More](https://medium.com/p/f0975e9867d7) |
+| Sat, 25 Apr 2026 17:30:49 GMT | Portfolio Activity: Conduct a security audit - Google Certified Cybersecurity Professional | Aruldeshwal | [Read More](https://medium.com/p/5d9d44c0f0f4) |
 | Sat, 25 Apr 2026 17:27:12 GMT | Just in: The Dean of Student addresses the Students Populace as regards security issues of students… | Union of Campus Journalists FUOYE | [Read More](https://medium.com/p/3f9676b8c405) |
 | Sat, 25 Apr 2026 17:24:45 GMT | Cybersecurity Threats to Watch | Task Web Tech | [Read More](https://medium.com/p/d70b1b58838e) |
 | Sat, 25 Apr 2026 17:11:39 GMT | How AI Deepfakes Are Turning Your Identity Into a Billion-Dollar Business | Ogechi Chime | [Read More](https://medium.com/p/e8e2e34d5d6b) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 11:51:22 GMT | ️ Ghost in the Machine: Navigating the 2026 Zero-Day Landscape with MYTHOS MD. | Mirmahmood | [Read More](https://medium.com/p/4cab74f66e01) |
 | Sat, 25 Apr 2026 11:50:52 GMT | AI is becoming the new IT | Aniket Sanyal | [Read More](https://medium.com/p/7b2111eb5421) |
 | Sat, 25 Apr 2026 11:48:27 GMT | AI Data Classification Made Simple: What’s Safe to Share with ChatGPT, Copilot, and Gemini | Aniket Sanyal | [Read More](https://medium.com/p/298d946cda06) |
-| Sat, 25 Apr 2026 11:44:48 GMT | CYBERDUDEBIVASH OFFICIAL AUTHORITY CYBERDUDEBIVASH SENTINEL APEX v140 — AI-POWERED GLOBAL THREAT… | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/97afcadbe65d) |
-| Sat, 25 Apr 2026 11:22:56 GMT | Managing Root Access in AWS Organizations: More Than Just Locking It Down | Vahaggn | [Read More](https://medium.com/p/c4ddbabdcf6b) |
-| Sat, 25 Apr 2026 11:17:58 GMT | Cyber Range Platform for Organizations | Crawsec | [Read More](https://medium.com/p/bd8d619c7ade) |
-| Sat, 25 Apr 2026 11:10:10 GMT | How to Choose Affordable Hosting? | Ann Taylor | [Read More](https://medium.com/p/ab19de47bb96) |
-| Sat, 25 Apr 2026 11:07:20 GMT | 20 Penetration Testing Projects Worth Adding to Your Resume | Excalibra | [Read More](https://medium.com/p/2884cbc90edd) |
-| Sat, 25 Apr 2026 11:07:04 GMT | The future of transportation in Nigeria: How technology can reduce crime, death and traffic. | Stanley Ekure | [Read More](https://medium.com/p/5346bc97608d) |
-| Sat, 25 Apr 2026 11:01:33 GMT | Don’t store your JWT in localStorage | Thota Ritika | [Read More](https://medium.com/p/51a62f24403e) |
-| Sat, 25 Apr 2026 10:59:00 GMT | Beyond Mythos: Why the Global Economy Needs a Native AI Protocol (AKL) to Tame the Agentic Web | Ioan Adrian Vitan | [Read More](https://medium.com/p/6773a4cde807) |
-| Sat, 25 Apr 2026 10:55:13 GMT | How a misconfigured server exposed all the malware | xctazy | [Read More](https://medium.com/p/31c6c6c2237e) |
-| Sat, 25 Apr 2026 10:54:28 GMT | Cyber Risk Management and Protection Solutions by Finsoul Network UK | Finsoulnetworkglobal | [Read More](https://medium.com/p/da0f69d914f6) |
-| Sat, 25 Apr 2026 10:41:39 GMT | Tips Bermain Slot Online agar Lebih Maksimal dan Terarah | Slot Gacor Felly4D | [Read More](https://medium.com/p/bcaf32c3f063) |
-| Sat, 25 Apr 2026 10:37:00 GMT | April 25th, 2026 — the loop spins inexorably. | simonedelpopolo | [Read More](https://medium.com/p/248322882cb4) |
-| Sat, 25 Apr 2026 10:33:51 GMT | La convergence réglementaire par le NCAF 2.0 | Noctu@edu | [Read More](https://medium.com/p/097e3b70f03e) |
-| Sat, 25 Apr 2026 10:29:57 GMT | What is Nmap? Beginner’s Guide to Network Scanning | Gaurav Singh Rajput | [Read More](https://medium.com/p/b032ddd22527) |
-| Sat, 25 Apr 2026 10:29:34 GMT | Ubuntu 26.04 LTS — The Raccoon Has Arrived | Sridhar S | [Read More](https://medium.com/p/580c35db4440) |
-| Sat, 25 Apr 2026 10:27:35 GMT | Protect Your Smartphone from Hackers: A Practical Guide | RAAYA | [Read More](https://medium.com/p/ae5baac9120e) |
-| Sat, 25 Apr 2026 10:12:48 GMT | Trusted Security Guard Company in Richmond Hill for Homes & Businesses | Grdsnscrt | [Read More](https://medium.com/p/f65c1516e04d) |
