@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 25 Apr 2026 11:07:20 GMT | 20 Penetration Testing Projects Worth Adding to Your Resume | Excalibra | [Read More](https://medium.com/p/2884cbc90edd) |
+| Sat, 25 Apr 2026 11:07:04 GMT | The future of transportation in Nigeria: How technology can reduce crime, death and traffic. | Stanley Ekure | [Read More](https://medium.com/p/5346bc97608d) |
+| Sat, 25 Apr 2026 11:01:33 GMT | Don’t store your JWT in localStorage | Thota Ritika | [Read More](https://medium.com/p/51a62f24403e) |
+| Sat, 25 Apr 2026 10:55:13 GMT | How a misconfigured server exposed all the malware | xctazy | [Read More](https://medium.com/p/31c6c6c2237e) |
+| Sat, 25 Apr 2026 10:54:28 GMT | Cyber Risk Management and Protection Solutions by Finsoul Network UK | Finsoulnetworkglobal | [Read More](https://medium.com/p/da0f69d914f6) |
+| Sat, 25 Apr 2026 10:41:39 GMT | Tips Bermain Slot Online agar Lebih Maksimal dan Terarah | Slot Gacor Felly4D | [Read More](https://medium.com/p/bcaf32c3f063) |
+| Sat, 25 Apr 2026 10:37:00 GMT | April 25th, 2026 — the loop spins inexorably. | simonedelpopolo | [Read More](https://medium.com/p/248322882cb4) |
+| Sat, 25 Apr 2026 10:33:51 GMT | La convergence réglementaire par le NCAF 2.0 | Noctu@edu | [Read More](https://medium.com/p/097e3b70f03e) |
+| Sat, 25 Apr 2026 10:29:57 GMT | What is Nmap? Beginner’s Guide to Network Scanning | Gaurav Singh Rajput | [Read More](https://medium.com/p/b032ddd22527) |
+| Sat, 25 Apr 2026 10:29:34 GMT | Ubuntu 26.04 LTS — The Raccoon Has Arrived | Sridhar S | [Read More](https://medium.com/p/580c35db4440) |
+| Sat, 25 Apr 2026 10:27:35 GMT | Protect Your Smartphone from Hackers: A Practical Guide | RAAYA | [Read More](https://medium.com/p/ae5baac9120e) |
 | Sat, 25 Apr 2026 10:12:48 GMT | Trusted Security Guard Company in Richmond Hill for Homes & Businesses | Grdsnscrt | [Read More](https://medium.com/p/f65c1516e04d) |
 | Sat, 25 Apr 2026 10:10:51 GMT | How to Find Real Vulnerabilities Using Source -> Flow -> Sink | Surajvishwakarma | [Read More](https://medium.com/p/d7d8122299c8) |
 | Sat, 25 Apr 2026 10:02:16 GMT | Find My Girlfriend — TryHackMe Writeup | yk | [Read More](https://medium.com/p/f959feadd744) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 01:53:33 GMT | The Invisible Layer of Data: How Information Hides in Plain Sight — and Why It Doesn’t Always… | Bruno Novaes | [Read More](https://medium.com/p/90b3f1d222d4) |
 | Sat, 25 Apr 2026 01:52:12 GMT | How to Safely Store OAuth Access Tokens in Rails with Active Record Encryption | Roonglit Chareonsupkul | [Read More](https://medium.com/p/56d1ca3bce6c) |
 | Sat, 25 Apr 2026 01:42:37 GMT | Hijacking Digital Signatures: A Hands-On Lab Walkthrough | Cooked.gg | [Read More](https://medium.com/p/1abbaaaa8747) |
-| Sat, 25 Apr 2026 01:41:01 GMT | HTTP Headers & OWASP ZAP — Reading What Servers Reveal About Themselves | Juan Manuel Yepes | [Read More](https://medium.com/p/2d26608bbc8e) |
-| Sat, 25 Apr 2026 01:18:48 GMT | Hopeless Romantic | Jasmine Ramos | [Read More](https://medium.com/p/325b77d3f55b) |
-| Sat, 25 Apr 2026 00:55:48 GMT | How I’m learning Cybersecurity Step by Step: Documenting my Learning Path. | Marvelous Amatue | [Read More](https://medium.com/p/f94edd903f94) |
-| Sat, 25 Apr 2026 00:51:39 GMT | ShinyHunters Unmasked: Exploring the Ethics and Implications of the World’s Leading Cyberhack… | Everson Taveras | [Read More](https://medium.com/p/63cc619843cf) |
-| Sat, 25 Apr 2026 00:50:18 GMT | SOC251 — Quishing Detected (QR Code Phishing) | Harshprajapati | [Read More](https://medium.com/p/fb096586d5bb) |
-| Sat, 25 Apr 2026 00:45:27 GMT | How a Simple Chromium Spoofing Bug Got Me $3000 | Azza0X1A | [Read More](https://medium.com/p/99076346877a) |
-| Sat, 25 Apr 2026 00:31:08 GMT | The Framework That Cannot Save Itself | Jose Spena | [Read More](https://medium.com/p/eb8ea24e4102) |
-| Sat, 25 Apr 2026 00:22:04 GMT | Why RAG in Manufacturing Is an Access Control Problem — Not a Search Problem | Kyotolab Ku | [Read More](https://medium.com/p/776816ae8032) |
-| Sat, 25 Apr 2026 00:13:15 GMT | Lab: HTTP request smuggling, confirming a CL.TE vulnerability via differential responses | Mohamed Amgad | [Read More](https://medium.com/p/4e9a9fad8b5a) |
-| Sat, 25 Apr 2026 00:05:38 GMT | Mastering the Gates: Firewalls, VPNs, and Network Simulation | Jonathan Sanfer | [Read More](https://medium.com/p/901f7a5b3254) |
-| Sat, 25 Apr 2026 00:01:02 GMT | WebVersePro Labs — Challenge: Herbalist Remedies Writeup (NoSQL Injection) | Zor0ark | [Read More](https://medium.com/p/9a85a4f1c68c) |
