@@ -12,9 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 11:52:18 GMT | Why We Are Insincere | Felix Weth | [Read More](https://medium.com/p/1025571f1c59) |
+| Sun, 26 Apr 2026 11:49:53 GMT | Day 68: Agentic AI and the New Frontier of Cyber Trust — what to note | LAKSHMI VENKATESH | [Read More](https://medium.com/p/24a956c536bc) |
+| Sun, 26 Apr 2026 11:39:49 GMT | How I Built an Automated Subdomain Monitor That Texts Me Every Time a Company Adds a New Asset. | Krithick | [Read More](https://medium.com/p/e7ce18130407) |
+| Sun, 26 Apr 2026 11:39:38 GMT | CVE-2026-24467: OpenAEV Flaw Allows Unauthenticated Account Takeover | Cybrdef | [Read More](https://medium.com/p/36e4e13e9250) |
+| Sun, 26 Apr 2026 11:37:51 GMT | Belajar Keamanan Web Lewat Eksperimen: Mencoba SQL Injection & XSS di Website Sederhana | Gamingbuat | [Read More](https://medium.com/p/142fafacb9e0) |
+| Sun, 26 Apr 2026 11:37:12 GMT | Relevant Room Full walkthrough Tryhackme :- Step by Step | Chandan | [Read More](https://medium.com/p/1a4412f84865) |
+| Sun, 26 Apr 2026 11:35:37 GMT | Vulnerability may be the deepest form of intimacy | Written by Sol | [Read More](https://medium.com/p/e64a0afe0b81) |
+| Sun, 26 Apr 2026 11:34:20 GMT | Is Your Organisation ‘Change Ready’? | Shaun Le Geyt | [Read More](https://medium.com/p/3e44b16ea938) |
+| Sun, 26 Apr 2026 11:30:13 GMT | What is IAM (Identity and Access Management) in Cybersecurity? A Simple Guide | Tech Prescient | [Read More](https://medium.com/p/3f96a8d51d5e) |
+| Sun, 26 Apr 2026 11:29:50 GMT | 0- Introduction to LLM Fundamentals | Erdemstar | [Read More](https://medium.com/p/f59ec8979616) |
+| Sun, 26 Apr 2026 11:26:39 GMT | TryHackMe ConvertMyVideo Walkthrough - Command Injection via youtube-dl to Root Privilege… | Arun1x | [Read More](https://medium.com/p/7517f65715d9) |
+| Sun, 26 Apr 2026 11:12:04 GMT | You Don’t Have a Coverage Problem — You Have a Confidence Problem | Barry Stephenson | [Read More](https://medium.com/p/be7e6c992741) |
 | Sun, 26 Apr 2026 11:00:23 GMT | What Bug Bounty Culture Isn’t Telling You | Atharva Deshmukh | [Read More](https://medium.com/p/b5245af7bbbc) |
 | Sun, 26 Apr 2026 10:50:59 GMT | The Invisible Perimeter: A Comprehensive Guide to Network Device Hardening | Gleb Wam | [Read More](https://medium.com/p/111f40afc1e7) |
 | Sun, 26 Apr 2026 10:40:56 GMT | Session Fixation for Pentesters | Sanskriti | [Read More](https://medium.com/p/a8e6dad00461) |
+| Sun, 26 Apr 2026 10:40:01 GMT | Two-Thirds of Executives Already Leaked Data Through AI Agents. | Varun Pratap Bhardwaj | [Read More](https://medium.com/p/e851ef4be6cb) |
 | Sun, 26 Apr 2026 10:35:04 GMT | Python Library to Detect AI-Generated Images(Authentica) | Mdsheriff | [Read More](https://medium.com/p/99c0a4a10869) |
 | Sun, 26 Apr 2026 10:32:47 GMT | Scaling AI in upstream energy | MOHAMMED ASRAR | [Read More](https://medium.com/p/2e8f554aeec7) |
 | Sun, 26 Apr 2026 10:29:11 GMT | Day 1: Exploring the Windows Command line and Remote access via SSH | Marvelous Amatue | [Read More](https://medium.com/p/3adc753a04da) |
@@ -100,16 +113,3 @@ A practical guide for penetration testers and bug… | Muzammil khan | [Read Mor
 | Sun, 26 Apr 2026 01:13:30 GMT | How to Deploy Devices with Microsoft Intune (Step-by-Step) | Allan Banday | [Read More](https://medium.com/p/83583605f01e) |
 | Sun, 26 Apr 2026 01:11:35 GMT | Can You Capture the Flag? — A Beginner’s Journey Into CTF Encoding Challenges | NullxCipher | [Read More](https://medium.com/p/ea51bb89f829) |
 | Sun, 26 Apr 2026 01:08:01 GMT | Prompt Injection is the New SQL Injection | Umashankara Kalaiah | [Read More](https://medium.com/p/044c0ae15cbe) |
-| Sun, 26 Apr 2026 01:00:34 GMT | Structuring Data on Cryptoassets and Artificial Intelligence in the Brazilian Context | Jaison Sfogia Ricardo | [Read More](https://medium.com/p/50fb6901400e) |
-| Sun, 26 Apr 2026 00:28:29 GMT | Your Dockerfile is a Liability. Docker Scout + DHI Makes It an Asset. | SHUBHENDU SHUBHAM | [Read More](https://medium.com/p/951c39ca8403) |
-| Sun, 26 Apr 2026 00:26:22 GMT | Machine Fallacy | Arjun Sarkar | [Read More](https://medium.com/p/35bbc81e0492) |
-| Sun, 26 Apr 2026 00:13:56 GMT | VIP99 Security, Fair Play & Player Protection Commitment | VIP99 Australia Official | [Read More](https://medium.com/p/877afc08d934) |
-| Sun, 26 Apr 2026 00:02:32 GMT | Lian_Yu Write up | Moussa Toure | [Read More](https://medium.com/p/1e4fa2562cc4) |
-| Sat, 25 Apr 2026 23:55:18 GMT | “Pay us Or we leak everything.” | Daniel Onwi | [Read More](https://medium.com/p/2295a541df2e) |
-| Sat, 25 Apr 2026 23:44:04 GMT | The Female Architects of the UAE’s Green Revolution | Miguel Morales | [Read More](https://medium.com/p/41c6b683d375) |
-| Sat, 25 Apr 2026 23:42:38 GMT | Stop Using .env — ถึงเวลาเลิกเก็บ Secrets แบบเดิม แล้วใช้ Infisical แทน | Thanabodin.K | [Read More](https://medium.com/p/895562a571c7) |
-| Sat, 25 Apr 2026 23:40:20 GMT | Ehxb - Password Spraying Attacks on AD | Ehxb | [Read More](https://medium.com/p/46607fc4781b) |
-| Sat, 25 Apr 2026 23:33:35 GMT | The 5 OSINT Mistakes You Don’t Want To Make | Investigator515 | [Read More](https://medium.com/p/f98188880993) |
-| Sat, 25 Apr 2026 23:23:58 GMT | How to Avoid Hardcoding API Keys in mcp.json | Yoshiyuki Watanabe | [Read More](https://medium.com/p/b129a8306132) |
-| Sat, 25 Apr 2026 23:22:33 GMT | The Hidden Cost of Saying Yes to My Daughter’s Charity Ride Across the Gobi Desert | Eileen Philippa | [Read More](https://medium.com/p/ad5a63ab1af0) |
-| Sat, 25 Apr 2026 23:01:24 GMT | THE DANGEROUS RISE OF SOCIAL MEDIA MISINFORMATION ON HEALTH ISSUES. | Eze Chizoba | [Read More](https://medium.com/p/70b7f1fcd7f4) |
