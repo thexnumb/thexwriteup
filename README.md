@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 14:37:42 GMT | Breaking OWASP Juice Shop: Hands-On Web Application Pentesting | Prabin Kumar Sethi | [Read More](https://medium.com/p/e50a9a53ac26) |
+| Sun, 26 Apr 2026 14:34:51 GMT | Use Claude Cowork safely with PII redactor | Joseph Zeng | [Read More](https://medium.com/p/1752b5ad010f) |
+| Sun, 26 Apr 2026 14:34:22 GMT | Is Quantum Computing Breaking the Internet’s Security in 2026? | Anoop Ron | [Read More](https://medium.com/p/3146945ce86c) |
+| Sun, 26 Apr 2026 14:31:39 GMT | DC-1 VulnHub — Full Penetration Test Writeup | Akshaysuresh | [Read More](https://medium.com/p/8ec5767880d1) |
+| Sun, 26 Apr 2026 14:27:15 GMT | The Netherlands Just Declared Its Highest Security Alert Since World War Two. The World Missed It. | Vivek Anand | [Read More](https://medium.com/p/642ece7dd1ba) |
+| Sun, 26 Apr 2026 14:26:01 GMT | AI Won’t Save You If It Can’t Execute, contrarian | Faraz Ishaq | [Read More](https://medium.com/p/16a39b8fc6df) |
+| Sun, 26 Apr 2026 14:24:19 GMT | Seven Queries to Audit the Sentinel Detections Your SOC May Have Missed. | Rohitashokgowd | [Read More](https://medium.com/p/8e9c73fc2522) |
+| Sun, 26 Apr 2026 14:19:38 GMT | I Built a SOC Home Lab Using Splunk. Here Is What Actually Happened. | Angle Gray | [Read More](https://medium.com/p/4b76a620ca24) |
+| Sun, 26 Apr 2026 14:14:12 GMT | Override.exe 2026 Qualifiers — Akinator Writeup | Ojas Maheshwari | [Read More](https://medium.com/p/d9e214318bdb) |
+| Sun, 26 Apr 2026 14:11:09 GMT | How to Securely Erase Windows Disks: The Ultimate PowerShell Disk Wipe Script Using DiskPart “Clean… | Farhanahmad | [Read More](https://medium.com/p/7e7697625a97) |
+| Sun, 26 Apr 2026 14:10:33 GMT | How I Built and Deployed My Own Personal Site Using Claude Code | Andrew Blooman | [Read More](https://medium.com/p/4082bf19684d) |
+| Sun, 26 Apr 2026 14:08:51 GMT | OpenAI Says GPT-Rosalind Will Cut Drug Discovery From 15 Years to Months. | Adam Frąckowiak | [Read More](https://medium.com/p/9683ca659c62) |
+| Sun, 26 Apr 2026 14:08:14 GMT | Inside ArcSight: Architecture Deep Dive & Building a Real SOC | Ronik Bhattacharjee | [Read More](https://medium.com/p/3ba0219b2862) |
+| Sun, 26 Apr 2026 14:02:52 GMT | Gradient Hacking: When ML Models Leak Their Secrets | Souradeep Chandra | [Read More](https://medium.com/p/31961f9d4d17) |
+| Sun, 26 Apr 2026 14:02:28 GMT | Laporan Responsi UTS : Basis Data | Cahyoadi | [Read More](https://medium.com/p/ba27ad310d4b) |
+| Sun, 26 Apr 2026 14:01:19 GMT | Engineering a SOC Home Lab: Building a Custom SIEM with ELK and pfSense | Pritiranjan Pradhan | [Read More](https://medium.com/p/c1cafc92bfdf) |
+| Sun, 26 Apr 2026 14:00:39 GMT | Mengenal Dasar Sorting | Azka | [Read More](https://medium.com/p/2bfe6f5408f2) |
+| Sun, 26 Apr 2026 13:52:23 GMT | CCT2019 (THM) Tryhackme WriteUp and Answer | Lawvye | [Read More](https://medium.com/p/c7e64d1a5b78) |
+| Sun, 26 Apr 2026 13:41:17 GMT | When “Just an RFQ Email” Turns Into a Security Incident | Fajri Setiawan | [Read More](https://medium.com/p/a272d4922c00) |
 | Sun, 26 Apr 2026 13:38:59 GMT | How I Found a Simple Broken Access Control Bug in a Chat Application | 0xlumi | [Read More](https://medium.com/p/508a69e966ba) |
 | Sun, 26 Apr 2026 13:31:01 GMT | The Policy is not the Control | Mourtaza Moise Fazlehoussen | [Read More](https://medium.com/p/c653db10fab4) |
 | Sun, 26 Apr 2026 13:31:01 GMT | Digital Sovereignty Is no longer optional: What European CISOs need to understand about Microsoft’s… | Mourtaza Moise Fazlehoussen | [Read More](https://medium.com/p/7e74c5314ce9) |
@@ -94,22 +113,3 @@ A practical guide for penetration testers and bug… | Muzammil khan | [Read Mor
 | Sun, 26 Apr 2026 06:25:26 GMT | Digital Hostage: How Attackers Use AI to Blackmail with Synthetic Evidence | Travis Ray Caverhill | [Read More](https://medium.com/p/ec307d22e14c) |
 | Sun, 26 Apr 2026 06:22:17 GMT | A Day in the Life of a SOC Analyst (DLP-Focused): From Alerts to Architecture | rootRS7 | [Read More](https://medium.com/p/d69d22a68e8f) |
 | Sun, 26 Apr 2026 06:13:03 GMT | When a CTF Loses Its Integrity | Zeous | [Read More](https://medium.com/p/a7640601a0c9) |
-| Sun, 26 Apr 2026 06:09:32 GMT | The Dark Side of Free WiFi: How Your Data Gets Stolen | Paritosh | [Read More](https://medium.com/p/577b6c1bacb0) |
-| Sun, 26 Apr 2026 06:05:34 GMT | Fast16 as Organizational Forensics | Hiroki Tomimatsu | [Read More](https://medium.com/p/c29055c5654b) |
-| Sun, 26 Apr 2026 06:03:12 GMT | When to Do Penetration Testing Before Launch (Most Teams Get It Wrong) | Pentest_Testing_Corp | [Read More](https://medium.com/p/5b77801a5ad8) |
-| Sun, 26 Apr 2026 05:49:13 GMT | TryHackMe Blue Walkthrough — MS17–010 (EternalBlue) Exploitation & SOC Analysis | Rajeesh R L | [Read More](https://medium.com/p/4e51febc8b2c) |
-| Sun, 26 Apr 2026 05:39:09 GMT | What is DHCP? Dynamic Host Configuration Protocol Explained with Security | ciphernode | [Read More](https://medium.com/p/147e679c2173) |
-| Sun, 26 Apr 2026 05:37:10 GMT | Small Payload, Big Lesson — XSS Filter Evasion | Haider amin | [Read More](https://medium.com/p/3e2cdc7d05c0) |
-| Sun, 26 Apr 2026 05:17:04 GMT | [Eksperimen] Menguji Celah SQL Injection pada Sistem Login: Dari Serangan hingga Mitigasi | Zizantara | [Read More](https://medium.com/p/1f933d3062bd) |
-| Sun, 26 Apr 2026 05:13:17 GMT | HttpOnly — Your First Line of Defense | Patrik Duch | [Read More](https://medium.com/p/ad2a8e150af2) |
-| Sun, 26 Apr 2026 05:02:55 GMT | n-Local Classical Networks —  (Variational Quantum Optimisation of Nonlocality in Noisy Quantum… | Zhilton | [Read More](https://medium.com/p/88126eb5fb04) |
-| Sun, 26 Apr 2026 05:01:25 GMT | Public Key Infrastructure Implementation in Internet of Things (IoT) Security | Michael Frenicho | [Read More](https://medium.com/p/ae24c3279240) |
-| Sun, 26 Apr 2026 05:01:19 GMT | What Does Your IP Address Actually Reveal About You? (Less Than You Think) | WebTools Hub | [Read More](https://medium.com/p/a9d38c068d25) |
-| Sun, 26 Apr 2026 05:01:01 GMT | Zero-Trust Security in 2026: The Practical Playbook Every IT Pro Needs Right Now | Rutvik Chavda | [Read More](https://medium.com/p/c847a01b416c) |
-| Sun, 26 Apr 2026 04:59:36 GMT | BIN Attacks as a Fraud Business | Aung Kyaw Minn | [Read More](https://medium.com/p/bb96a5686e33) |
-| Sun, 26 Apr 2026 04:59:35 GMT | SMB Relay Attack Home Lab | Deyvid | [Read More](https://medium.com/p/4540690c4f00) |
-| Sun, 26 Apr 2026 04:52:24 GMT | How I Built a Real-Time DDoS Detection Engine from Scratch | Kolamide Idowu | [Read More](https://medium.com/p/a5f5691a8ddf) |
-| Sun, 26 Apr 2026 04:50:07 GMT | AI Is Doubling What It Can Do Every 7 Months | Anil Gamidi | [Read More](https://medium.com/p/4a8fa7f002e7) |
-| Sun, 26 Apr 2026 04:45:25 GMT | How to Land a High-Paying Cybersecurity Job (Step-by-Step Career Switch Guide) | Zeeshan Masood Keyani | [Read More](https://medium.com/p/aff01d6b8dea) |
-| Sun, 26 Apr 2026 04:44:02 GMT | ##  The Paradigm Shift: Why AI is the End of Manual Cybersecurity (and What Replaces It) | Jagan J gowda | [Read More](https://medium.com/p/a8d0440fea7f) |
-| Sun, 26 Apr 2026 04:28:54 GMT | Wiz Cloud Security CTF — Perimeter Leak: Chaining SSRF with Credential Theft | Aditya | [Read More](https://medium.com/p/2472b76b3ba1) |
