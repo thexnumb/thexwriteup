@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 11:00:23 GMT | What Bug Bounty Culture Isn’t Telling You | Atharva Deshmukh | [Read More](https://medium.com/p/b5245af7bbbc) |
+| Sun, 26 Apr 2026 10:50:59 GMT | The Invisible Perimeter: A Comprehensive Guide to Network Device Hardening | Gleb Wam | [Read More](https://medium.com/p/111f40afc1e7) |
+| Sun, 26 Apr 2026 10:40:56 GMT | Session Fixation for Pentesters | Sanskriti | [Read More](https://medium.com/p/a8e6dad00461) |
+| Sun, 26 Apr 2026 10:35:04 GMT | Python Library to Detect AI-Generated Images(Authentica) | Mdsheriff | [Read More](https://medium.com/p/99c0a4a10869) |
+| Sun, 26 Apr 2026 10:32:47 GMT | Scaling AI in upstream energy | MOHAMMED ASRAR | [Read More](https://medium.com/p/2e8f554aeec7) |
+| Sun, 26 Apr 2026 10:29:11 GMT | Day 1: Exploring the Windows Command line and Remote access via SSH | Marvelous Amatue | [Read More](https://medium.com/p/3adc753a04da) |
+| Sun, 26 Apr 2026 10:29:00 GMT | The Rise of Naoris Protocol:   A New Era of Cybersecurity | Kal_Zman | [Read More](https://medium.com/p/2ecc5d6c0877) |
+| Sun, 26 Apr 2026 10:19:58 GMT | I Opened 60,000 Ports on AWS… Here’s What I Did | Arka Dey | [Read More](https://medium.com/p/0f3689497785) |
+| Sun, 26 Apr 2026 10:19:41 GMT | Vibe Security CTF: The Triple Threat Walkthrough | Raduan Ahamed | [Read More](https://medium.com/p/3241922e2234) |
+| Sun, 26 Apr 2026 10:19:13 GMT | Your Email May Already Be Leaked on the Dark Web | The Digital Bodyguard | [Read More](https://medium.com/p/ffa78fef8c0a) |
+| Sun, 26 Apr 2026 10:18:15 GMT | The Key That Opens Every Door — Understanding Broken Access Control | Hithaishi S P | [Read More](https://medium.com/p/69135384f803) |
+| Sun, 26 Apr 2026 10:13:12 GMT | Yapay Zeka Çağında SOC Analisti Olmak! | Cyber Web | [Read More](https://medium.com/p/63a191196872) |
+| Sun, 26 Apr 2026 10:05:20 GMT | Understanding to Disabling NTLM by Default with Deep Dive | Ahmet Doruk | [Read More](https://medium.com/p/1a57d984db64) |
 | Sun, 26 Apr 2026 10:04:32 GMT | #  How a Simple Misconfiguration Led to Full System Compromise (HTB Meow) | Hgupta | [Read More](https://medium.com/p/79f8522e6456) |
 | Sun, 26 Apr 2026 10:01:01 GMT | Why My Students Succeed Faster Than Online Course Learners | Victoria Coker | [Read More](https://medium.com/p/65c055641f98) |
 | Sun, 26 Apr 2026 10:00:24 GMT | The SOC Analyst Cheat Sheet 2026 — Tools, Commands and Frameworks Every Analyst Must Know | Sai kiran | [Read More](https://medium.com/p/6fd16beb3d92) |
@@ -100,16 +113,3 @@ A practical guide for penetration testers and bug… | Muzammil khan | [Read Mor
 | Sat, 25 Apr 2026 23:23:58 GMT | How to Avoid Hardcoding API Keys in mcp.json | Yoshiyuki Watanabe | [Read More](https://medium.com/p/b129a8306132) |
 | Sat, 25 Apr 2026 23:22:33 GMT | The Hidden Cost of Saying Yes to My Daughter’s Charity Ride Across the Gobi Desert | Eileen Philippa | [Read More](https://medium.com/p/ad5a63ab1af0) |
 | Sat, 25 Apr 2026 23:01:24 GMT | THE DANGEROUS RISE OF SOCIAL MEDIA MISINFORMATION ON HEALTH ISSUES. | Eze Chizoba | [Read More](https://medium.com/p/70b7f1fcd7f4) |
-| Sat, 25 Apr 2026 22:53:21 GMT | ️ CyberTalents ARP Storm Full Write-Up | Sherif Osmna Humoda | [Read More](https://medium.com/p/b96b3c7b67ff) |
-| Sat, 25 Apr 2026 22:45:35 GMT | The Hidden Dangers of Public Wi-Fi | Gligits | [Read More](https://medium.com/p/df2808093957) |
-| Sat, 25 Apr 2026 22:40:44 GMT | The Death of the Password (Finally): What Passkeys Actually Mean for Everyday Users | Light | [Read More](https://medium.com/p/7796b05178be) |
-| Sat, 25 Apr 2026 22:37:52 GMT | The OSI Model (Except It Actually Makes Sense) — Part 2 | Aryan Vij | [Read More](https://medium.com/p/aeb899970a64) |
-| Sat, 25 Apr 2026 22:28:46 GMT | # The Death of the Password (Finally): What Passkeys Actually Mean for Everyday Users | Light | [Read More](https://medium.com/p/dbbd0be8b7b5) |
-| Sat, 25 Apr 2026 22:20:36 GMT | Imposter Syndrome in Cybersecurity: Why AI Is Making It Feel Worse (and Why That’s Misleading) | Jeffrey Jolly | [Read More](https://medium.com/p/3884e9e99cca) |
-| Sat, 25 Apr 2026 22:19:22 GMT | We Need to Stop Vibe Coder Bros. Immediately. (Or: Log Off, Touch Some Grass, ... | Michael Caney Jr | [Read More](https://medium.com/p/366ee3f25342) |
-| Sat, 25 Apr 2026 22:10:53 GMT | Beyond Port Forwarding: Building a Hardened SSH Server with Cloudflare, Zero Trust, and Reverse… | Amila kothalawala | [Read More](https://medium.com/p/e3c50b41c088) |
-| Sat, 25 Apr 2026 22:07:00 GMT | I Designed a System for 50M Users That Would Have Crashed at 5K users | Emily | [Read More](https://medium.com/p/8bbf2d333fa0) |
-| Sat, 25 Apr 2026 21:45:52 GMT | Money and Missiles: The New Reality of the UAE-US Alliance | Chloe Ladner | [Read More](https://medium.com/p/81bbeec64fd9) |
-| Sat, 25 Apr 2026 21:41:46 GMT | The 14-Year-Old Next Door Just Became a Hacker. AI Made It Possible | Nasruddin | [Read More](https://medium.com/p/f018918df733) |
-| Sat, 25 Apr 2026 21:39:18 GMT | CyberDefenders — Red Stealer WriteUp | Serhan Kırca | [Read More](https://medium.com/p/5d0d0822a9b6) |
-| Sat, 25 Apr 2026 21:39:03 GMT | How LumiChats Detected and Stopped a Potential AI Identity Misuse Attempt — A Responsible… | Aditya kumar jha | [Read More](https://medium.com/p/0c444cb3e5a4) |
