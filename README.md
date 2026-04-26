@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 20:37:59 GMT | Hijack (THM) Tryhackme Writeup and Answer | Lawvye | [Read More](https://medium.com/p/3a562a646656) |
+| Sun, 26 Apr 2026 20:36:23 GMT | OWASP Top 10: The Developer’s Guide to Not Getting Hacked | Pentesty | [Read More](https://medium.com/p/620b4a148933) |
+| Sun, 26 Apr 2026 20:36:01 GMT | Authentication Is Not Security-That’s When I Switched to Zero Trust | Maram Raboudi | [Read More](https://medium.com/p/59a3aa7fa1f2) |
+| Sun, 26 Apr 2026 20:32:55 GMT | OpenCode — a local coding agent that phones home? WTF? | Christoph Schweres | [Read More](https://medium.com/p/9b1ec0d91318) |
+| Sun, 26 Apr 2026 20:30:46 GMT | Dijital Eko Sistemlerde Yeni Paradigma: Mühendislikten Dinamik Sistem Güvencesine | Turgay KAYA | [Read More](https://medium.com/p/ba478b8823a0) |
+| Sun, 26 Apr 2026 20:26:57 GMT | The chip in your passport: what it actually protects and what it doesn’t | Red Oxyde | [Read More](https://medium.com/p/df62ac240a96) |
+| Sun, 26 Apr 2026 20:26:11 GMT | Little Boxes: Compartmentalize, You Sheep | Tim | [Read More](https://medium.com/p/303df1d1e700) |
+| Sun, 26 Apr 2026 20:26:06 GMT | Azure Policy: Baking Security in part 3 | Joseph A. M. | [Read More](https://medium.com/p/b4fad42b808e) |
+| Sun, 26 Apr 2026 20:21:20 GMT | TryHackMe — Carnage Network Traffic Analysis | Efe Özel | [Read More](https://medium.com/p/126f6774f538) |
+| Sun, 26 Apr 2026 20:12:56 GMT | Game Zone — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/132262a72221) |
+| Sun, 26 Apr 2026 20:10:02 GMT | Cleartext | Brandon R Russell | [Read More](https://medium.com/p/ec128820b565) |
+| Sun, 26 Apr 2026 20:06:33 GMT | Wireshark for Beginners: Packet Analysis Guide | Diya TK | [Read More](https://medium.com/p/812aeaa66be7) |
+| Sun, 26 Apr 2026 19:52:58 GMT | Kerberos / SSO Authentication & Authorization (How It Works) | borealis | [Read More](https://medium.com/p/3daae8fa6912) |
+| Sun, 26 Apr 2026 19:45:11 GMT | How I Passed OSWE: The System That Actually Worked for Me | ABDELKARIM MOUCHQUELITA | [Read More](https://medium.com/p/a21250dbce44) |
 | Sun, 26 Apr 2026 19:41:46 GMT | HTB Footprinting Lab — Hard | Youssef Ezzat | [Read More](https://medium.com/p/5183710bfd43) |
 | Sun, 26 Apr 2026 19:38:09 GMT | The AI Security Year: Seven Incidents That Show We Got Breached by Defaults | Sandeep | [Read More](https://medium.com/p/527d30c05dc0) |
 | Sun, 26 Apr 2026 19:38:04 GMT | An MCP server that does not log the patient ID, on purpose | Tanya Babitskaya | [Read More](https://medium.com/p/b0f5b1360950) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Apr 2026 14:02:52 GMT | Gradient Hacking: When ML Models Leak Their Secrets | Souradeep Chandra | [Read More](https://medium.com/p/31961f9d4d17) |
 | Sun, 26 Apr 2026 14:02:28 GMT | Laporan Responsi UTS : Basis Data | Cahyoadi | [Read More](https://medium.com/p/ba27ad310d4b) |
 | Sun, 26 Apr 2026 14:01:19 GMT | Engineering a SOC Home Lab: Building a Custom SIEM with ELK and pfSense | Pritiranjan Pradhan | [Read More](https://medium.com/p/c1cafc92bfdf) |
-| Sun, 26 Apr 2026 14:00:39 GMT | Mengenal Dasar Sorting | Azka | [Read More](https://medium.com/p/2bfe6f5408f2) |
-| Sun, 26 Apr 2026 13:52:23 GMT | CCT2019 (THM) Tryhackme WriteUp and Answer | Lawvye | [Read More](https://medium.com/p/c7e64d1a5b78) |
-| Sun, 26 Apr 2026 13:41:17 GMT | When “Just an RFQ Email” Turns Into a Security Incident | Fajri Setiawan | [Read More](https://medium.com/p/a272d4922c00) |
-| Sun, 26 Apr 2026 13:38:59 GMT | How I Found a Simple Broken Access Control Bug in a Chat Application | 0xlumi | [Read More](https://medium.com/p/508a69e966ba) |
-| Sun, 26 Apr 2026 13:31:01 GMT | The Policy is not the Control | Mourtaza Moise Fazlehoussen | [Read More](https://medium.com/p/c653db10fab4) |
-| Sun, 26 Apr 2026 13:31:01 GMT | Digital Sovereignty Is no longer optional: What European CISOs need to understand about Microsoft’s… | Mourtaza Moise Fazlehoussen | [Read More](https://medium.com/p/7e74c5314ce9) |
-| Sun, 26 Apr 2026 13:20:47 GMT | Best Bank Deposit Bags for Retail Stores and Restaurants | Sofiamcmahon | [Read More](https://medium.com/p/b1e398f02b85) |
-| Sun, 26 Apr 2026 13:07:42 GMT | Why Most Cybersecurity Beginners Fail (And How You Can Avoid It) | Mohamed dahir | [Read More](https://medium.com/p/309a1949f6d9) |
-| Sun, 26 Apr 2026 13:06:01 GMT | “Bug Bounty Bootcamp #36: SSRF Hands-On — Confirming the Server Makes the Request and Reading Local… | Aman Sharma | [Read More](https://medium.com/p/7229cff03049) |
-| Sun, 26 Apr 2026 13:04:53 GMT | I Ran 60 Cryptanalysis Experiments on SHA-256. Here’s What I Found. | Noctarion | [Read More](https://medium.com/p/144a2e7e7bd7) |
-| Sun, 26 Apr 2026 13:03:41 GMT | If You Trust Your Registry, You Have a Problem: Securing CI/CD with Sigstore and ArgoCD | Shilu | [Read More](https://medium.com/p/29ac9f061d6b) |
-| Sun, 26 Apr 2026 13:03:40 GMT | Explain This: Cyber Hygiene Stops Being Common Sense When Nobody Owns It | Karla Ortiz-Flores | [Read More](https://medium.com/p/27f143adbc46) |
-| Sun, 26 Apr 2026 12:59:52 GMT | Stop Treating AI Like a Cure. It’s Often Just a Mask. | Yash Katiyara | [Read More](https://medium.com/p/72144ab56408) |
-| Sun, 26 Apr 2026 12:57:26 GMT | Your Scanner Found Nothing. I Found 3 Bugs — With Just My Brain. | 0xAbhiSec | [Read More](https://medium.com/p/a718a692ecf5) |
