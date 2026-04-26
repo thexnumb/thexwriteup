@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 23:39:15 GMT | Cybersecurity: The Infinite Chess Game | Juan Pablo Castro | [Read More](https://medium.com/p/515ade321fdd) |
+| Sun, 26 Apr 2026 23:36:03 GMT | Vercel Breach: What Happened & Why & What It Says About 3rd Party Risk: PART I | Mehdi | [Read More](https://medium.com/p/2ead79692820) |
+| Sun, 26 Apr 2026 23:33:03 GMT | The Shadow AI Problem Nobody’s Talking About | Vivian O | [Read More](https://medium.com/p/18cd1018c49d) |
+| Sun, 26 Apr 2026 23:24:58 GMT | Your Engineers Gave Claude Root Access. Do You Know What It Did Next? | Katy Thomas | [Read More](https://medium.com/p/846d34eca5c1) |
+| Sun, 26 Apr 2026 23:23:58 GMT | Security Misconfiguration: How One Line in .env Costs Millions | Vasyl Oliinyk | [Read More](https://medium.com/p/9659e0386494) |
+| Sun, 26 Apr 2026 23:23:29 GMT | Insecure Design: When Security Got Left Out of the Blueprints | Vasyl Oliinyk | [Read More](https://medium.com/p/93808a660a6d) |
+| Sun, 26 Apr 2026 23:11:15 GMT | From Data Dumping to Bug Hunting: Building a Recon Pipeline That Actually Works | Omar Ahmed Abdelslam | [Read More](https://medium.com/p/88d795a8de8f) |
+| Sun, 26 Apr 2026 23:09:43 GMT | TryHackMe: Overpass 2 — Reading an Attack From a PCAP and Hacking Back In | Robert Perez | [Read More](https://medium.com/p/15a5dd412932) |
+| Sun, 26 Apr 2026 23:06:24 GMT | Introduction to Linux for Cybersecurity Beginners | Siri Chandana | [Read More](https://medium.com/p/2ec14831cd83) |
 | Sun, 26 Apr 2026 22:29:35 GMT | svcf physics open source REPOSITORY information found under open source physics on Wikipedia | Nicholas Cordova | [Read More](https://medium.com/p/eea176239fc5) |
 | Sun, 26 Apr 2026 22:17:09 GMT | X’s Head of Product Says iMessage, Gmail, and Phone Calls Will Collapse Within 90 Days. | Nov Tech | [Read More](https://medium.com/p/6b17179a082a) |
 | Sun, 26 Apr 2026 22:15:00 GMT | Passwords to Passkeys… | Nik Charlson | [Read More](https://medium.com/p/07ea12af85b2) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Apr 2026 15:43:33 GMT | Cracking the Code: How I Captured 4 Flags in the SUMERU AI CTF challenge | Shree | [Read More](https://medium.com/p/6c4a72ee6f3d) |
 | Sun, 26 Apr 2026 15:42:51 GMT | Basis Data: Responsi UTS | RosifaAulia | [Read More](https://medium.com/p/dafe8924b045) |
 | Sun, 26 Apr 2026 15:30:11 GMT | The Chatbot That Let Anyone Read, Write, and Execute | DestroyerX | [Read More](https://medium.com/p/b79e5c7ddd2c) |
-| Sun, 26 Apr 2026 15:27:38 GMT | Microsoft Removes Copilot From Windows 11 – But AI Stays | Cybrdef | [Read More](https://medium.com/p/c3bb11865dc8) |
-| Sun, 26 Apr 2026 15:15:16 GMT | Struktur Data: Sorting in Python | RosifaAulia | [Read More](https://medium.com/p/f70e3a6d78e7) |
-| Sun, 26 Apr 2026 15:05:59 GMT | Override.exe 2026 Qualifiers — python-tutor-pro Writeup | Ojas Maheshwari | [Read More](https://medium.com/p/f7cedd1e4d00) |
-| Sun, 26 Apr 2026 15:04:51 GMT | Critical SQL Injection in Sourcecodester Complaint Management System (CVE-2020–24932) | Elobeid | [Read More](https://medium.com/p/22952bcdd235) |
-| Sun, 26 Apr 2026 15:04:29 GMT | What Scarlet Goldfinch shows us about detection at scale | Anya Nessi | [Read More](https://medium.com/p/2f95cdbbb313) |
-| Sun, 26 Apr 2026 15:02:21 GMT | People Have Beautiful Things to Say About You, But You Must Die First | Aster♡ | [Read More](https://medium.com/p/d530286600c1) |
-| Sun, 26 Apr 2026 14:57:48 GMT | ColdBoxEasy Walkthrough (Proving Ground-play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/bd8e329537cb) |
-| Sun, 26 Apr 2026 14:53:34 GMT | Why Most Companies Fail at AI - Even After Spending Millions | Nihan Akıncı | [Read More](https://medium.com/p/d429f2f8793b) |
-| Sun, 26 Apr 2026 14:51:52 GMT | How I Found a Reflected XSS in a Government Website | Moamen Samir | [Read More](https://medium.com/p/1488dace0c81) |
