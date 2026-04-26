@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 05:37:10 GMT | Small Payload, Big Lesson — XSS Filter Evasion | Haider amin | [Read More](https://medium.com/p/3e2cdc7d05c0) |
+| Sun, 26 Apr 2026 05:13:17 GMT | HttpOnly — Your First Line of Defense | Patrik Duch | [Read More](https://medium.com/p/ad2a8e150af2) |
+| Sun, 26 Apr 2026 05:02:55 GMT | n-Local Classical Networks —  (Variational Quantum Optimisation of Nonlocality in Noisy Quantum… | Zhilton | [Read More](https://medium.com/p/88126eb5fb04) |
+| Sun, 26 Apr 2026 05:01:25 GMT | Public Key Infrastructure Implementation in Internet of Things (IoT) Security | Michael Frenicho | [Read More](https://medium.com/p/ae24c3279240) |
+| Sun, 26 Apr 2026 05:01:19 GMT | What Does Your IP Address Actually Reveal About You? (Less Than You Think) | WebTools Hub | [Read More](https://medium.com/p/a9d38c068d25) |
+| Sun, 26 Apr 2026 05:01:01 GMT | Zero-Trust Security in 2026: The Practical Playbook Every IT Pro Needs Right Now | Rutvik Chavda | [Read More](https://medium.com/p/c847a01b416c) |
+| Sun, 26 Apr 2026 04:59:36 GMT | BIN Attacks as a Fraud Business | Aung Kyaw Minn | [Read More](https://medium.com/p/bb96a5686e33) |
+| Sun, 26 Apr 2026 04:59:35 GMT | SMB Relay Attack Home Lab | Deyvid | [Read More](https://medium.com/p/4540690c4f00) |
+| Sun, 26 Apr 2026 04:52:24 GMT | How I Built a Real-Time DDoS Detection Engine from Scratch | Kolamide Idowu | [Read More](https://medium.com/p/a5f5691a8ddf) |
+| Sun, 26 Apr 2026 04:50:07 GMT | AI Is Doubling What It Can Do Every 7 Months | Anil Gamidi | [Read More](https://medium.com/p/4a8fa7f002e7) |
+| Sun, 26 Apr 2026 04:45:25 GMT | How to Land a High-Paying Cybersecurity Job (Step-by-Step Career Switch Guide) | Zeeshan Masood Keyani | [Read More](https://medium.com/p/aff01d6b8dea) |
+| Sun, 26 Apr 2026 04:44:02 GMT | ##  The Paradigm Shift: Why AI is the End of Manual Cybersecurity (and What Replaces It) | Jagan J gowda | [Read More](https://medium.com/p/a8d0440fea7f) |
+| Sun, 26 Apr 2026 04:28:54 GMT | Wiz Cloud Security CTF — Perimeter Leak: Chaining SSRF with Credential Theft | Aditya | [Read More](https://medium.com/p/2472b76b3ba1) |
+| Sun, 26 Apr 2026 03:51:10 GMT | How I Actually Hunt — The Ghostyjoe™ Workflow | ghostyjoe | [Read More](https://medium.com/p/8e339c757f15) |
+| Sun, 26 Apr 2026 03:16:41 GMT | Sprint 8, Week 2: Full Commit (Professor Dungo Is Out. Doctoral Student Is In.) | Al Dungo | [Read More](https://medium.com/p/8e1bbd611078) |
+| Sun, 26 Apr 2026 03:06:21 GMT | Flag Mastery: The Flags That Run Every Engagement | Roshan Rajbanshi | [Read More](https://medium.com/p/5468d7a2b6ce) |
+| Sun, 26 Apr 2026 03:03:42 GMT | How A Simple Bug That Refused to Die, Paid Twice. | kjulius | [Read More](https://medium.com/p/80752e4d5ec5) |
+| Sun, 26 Apr 2026 03:03:33 GMT | The Case Against Voting Machines in Ontario Elections | Charles Scholx | [Read More](https://medium.com/p/6cb083622f40) |
+| Sun, 26 Apr 2026 03:00:42 GMT | From Memory Dump to Attack Story: Building DeepProbe v2 | Purple Security | [Read More](https://medium.com/p/0c48d7476815) |
+| Sun, 26 Apr 2026 03:00:27 GMT | Hacking into Eternal.com - Hackerone | StvRoot | [Read More](https://medium.com/p/f6600683ee47) |
+| Sun, 26 Apr 2026 02:57:07 GMT | I Tried to Social Engineer My Friends (With Permission) — Every Single One Fell For It | Satyam Pathania | [Read More](https://medium.com/p/baaf0a73d84e) |
+| Sun, 26 Apr 2026 02:45:56 GMT | Querier-HackTheBox-Medium-OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/40a4f9d5678d) |
 | Sun, 26 Apr 2026 02:11:03 GMT | How to Add a Local LLM to Your AI SOC Analyst (Without Buying a GPU) | SOCFortress | [Read More](https://medium.com/p/9459e251bfd8) |
 | Sun, 26 Apr 2026 02:09:05 GMT | Critical Bugs: how I found critical bugs without any effort | Albertstive | [Read More](https://medium.com/p/601bccd41b9e) |
 | Sun, 26 Apr 2026 01:57:11 GMT | Rekuway IDN AI Presented to the Cybersecurity Community in Campo Grande, Brazil | Rekuway | [Read More](https://medium.com/p/bc725a40e67e) |
@@ -30,6 +52,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Apr 2026 00:02:32 GMT | Lian_Yu Write up | Moussa Toure | [Read More](https://medium.com/p/1e4fa2562cc4) |
 | Sat, 25 Apr 2026 23:55:18 GMT | “Pay us Or we leak everything.” | Daniel Onwi | [Read More](https://medium.com/p/2295a541df2e) |
 | Sat, 25 Apr 2026 23:44:04 GMT | The Female Architects of the UAE’s Green Revolution | Miguel Morales | [Read More](https://medium.com/p/41c6b683d375) |
+| Sat, 25 Apr 2026 23:42:38 GMT | Stop Using .env — ถึงเวลาเลิกเก็บ Secrets แบบเดิม แล้วใช้ Infisical แทน | Thanabodin.K | [Read More](https://medium.com/p/895562a571c7) |
 | Sat, 25 Apr 2026 23:40:20 GMT | Ehxb - Password Spraying Attacks on AD | Ehxb | [Read More](https://medium.com/p/46607fc4781b) |
 | Sat, 25 Apr 2026 23:33:35 GMT | The 5 OSINT Mistakes You Don’t Want To Make | Investigator515 | [Read More](https://medium.com/p/f98188880993) |
 | Sat, 25 Apr 2026 23:23:58 GMT | How to Avoid Hardcoding API Keys in mcp.json | Yoshiyuki Watanabe | [Read More](https://medium.com/p/b129a8306132) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 18:49:05 GMT | The Importance of Horizontal Security in the AI Arena | Eray Yavuz | [Read More](https://medium.com/p/20a93c80dc2f) |
 | Sat, 25 Apr 2026 18:31:53 GMT | Android Application Penetration Testing: A Complete Phase-Wise Methodology with Tools &… | ArunKumarBalivada | [Read More](https://medium.com/p/2ca8ba6c01e0) |
 | Sat, 25 Apr 2026 18:21:34 GMT | Setting Up and Managing a Microsoft Entra ID Tenant (Hands-on IT Walkthrough) | Richard Akintola | [Read More](https://medium.com/p/420d655c9edf) |
-| Sat, 25 Apr 2026 18:20:45 GMT | Your OPSEC Is Broken: How to Safely Investigate in CTI | veyron92i | [Read More](https://medium.com/p/40d5399b0600) |
-| Sat, 25 Apr 2026 18:20:04 GMT | Still Figuring It Out | Shehla Hasan | [Read More](https://medium.com/p/6cfe34f5d088) |
-| Sat, 25 Apr 2026 18:19:03 GMT | How Google OAuth Actually Works in the Browser | Idrees | [Read More](https://medium.com/p/82e91d0949ab) |
-| Sat, 25 Apr 2026 18:18:12 GMT | The $2 Million Permission You Forgot You Granted | Defense Stack | [Read More](https://medium.com/p/4d0794d7c70f) |
-| Sat, 25 Apr 2026 18:15:32 GMT | Tool Poisoning: The AI Security Flaw Hiding in Your Function Definitions | Perparimimjeku | [Read More](https://medium.com/p/0dfcd8405162) |
-| Sat, 25 Apr 2026 18:13:28 GMT | The architectural reason your SOC keeps missing critical alerts | Yuksel | [Read More](https://medium.com/p/00214947d500) |
-| Sat, 25 Apr 2026 18:10:41 GMT | Practicality is All You Need: My Journey from Windows to Arch Linux | Dubeyguy | [Read More](https://medium.com/p/c57c7dec1dac) |
-| Sat, 25 Apr 2026 18:06:55 GMT | Digital Trust Is the New Currency -And It’s Fragile | Or Nizri | [Read More](https://medium.com/p/511b476c7f08) |
-| Sat, 25 Apr 2026 18:05:51 GMT | Strengthening AI Security: The Rise of Bug Bounty Programs for Advanced Models | Jas | [Read More](https://medium.com/p/3e535524bb17) |
-| Sat, 25 Apr 2026 17:54:15 GMT | The Last Human in the Loop | Jon Neiditz | [Read More](https://medium.com/p/48d4ab660bcf) |
-| Sat, 25 Apr 2026 17:45:33 GMT | Smag Grotto[Try Hack Me] machine Walkthrough : | Amrou bekhedda | [Read More](https://medium.com/p/215828be1d0e) |
-| Sat, 25 Apr 2026 17:42:21 GMT | The implementation of the Carrier Pigeon Internet Protocol, RFC1149, 25 years later | Peter Hansteen | [Read More](https://medium.com/p/36ebf9918f44) |
-| Sat, 25 Apr 2026 17:32:01 GMT | Bug Bounty Automation with n8n Ep.1 | Benno Schneeberger | [Read More](https://medium.com/p/f0975e9867d7) |
-| Sat, 25 Apr 2026 17:30:49 GMT | Portfolio Activity: Conduct a security audit - Google Certified Cybersecurity Professional | Aruldeshwal | [Read More](https://medium.com/p/5d9d44c0f0f4) |
-| Sat, 25 Apr 2026 17:27:12 GMT | Just in: The Dean of Student addresses the Students Populace as regards security issues of students… | Union of Campus Journalists FUOYE | [Read More](https://medium.com/p/3f9676b8c405) |
-| Sat, 25 Apr 2026 17:24:45 GMT | Cybersecurity Threats to Watch | Task Web Tech | [Read More](https://medium.com/p/d70b1b58838e) |
-| Sat, 25 Apr 2026 17:11:39 GMT | How AI Deepfakes Are Turning Your Identity Into a Billion-Dollar Business | Ogechi Chime | [Read More](https://medium.com/p/e8e2e34d5d6b) |
-| Sat, 25 Apr 2026 17:10:54 GMT | What Happens 10 Minutes After You Get Hacked | Paritosh | [Read More](https://medium.com/p/fb99a4b03082) |
-| Sat, 25 Apr 2026 17:03:58 GMT | How Uber’s Support Team Became the Backdoor | Lusine Tumoyan | [Read More](https://medium.com/p/e9dca701cda7) |
-| Sat, 25 Apr 2026 17:00:49 GMT | Critical Zero-Click Account Takeover via Archived / Cached Password Reset Links | Mustafa Adam Gamaraldin Abdalla | [Read More](https://medium.com/p/6ce7c9bef962) |
-| Sat, 25 Apr 2026 17:00:43 GMT | What Is an Event Courier — and Why Does Your London Event Need One? | waeventservices.co.uk/ | [Read More](https://medium.com/p/d6714f70549c) |
-| Sat, 25 Apr 2026 16:57:48 GMT | You’re Probably Writing Insecure JavaScript. | Mr Zouraiz | [Read More](https://medium.com/p/7577356e56a3) |
-| Sat, 25 Apr 2026 16:47:08 GMT | Dark Web Leakage Diarisis | Nyx0r | [Read More](https://medium.com/p/d7070f3f760f) |
