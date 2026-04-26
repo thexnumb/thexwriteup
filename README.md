@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 15:30:11 GMT | The Chatbot That Let Anyone Read, Write, and Execute | DestroyerX | [Read More](https://medium.com/p/b79e5c7ddd2c) |
+| Sun, 26 Apr 2026 15:27:38 GMT | Microsoft Removes Copilot From Windows 11 – But AI Stays | Cybrdef | [Read More](https://medium.com/p/c3bb11865dc8) |
+| Sun, 26 Apr 2026 15:15:16 GMT | Struktur Data: Sorting in Python | RosifaAulia | [Read More](https://medium.com/p/f70e3a6d78e7) |
+| Sun, 26 Apr 2026 15:05:59 GMT | Override.exe 2026 Qualifiers — python-tutor-pro Writeup | Ojas Maheshwari | [Read More](https://medium.com/p/f7cedd1e4d00) |
+| Sun, 26 Apr 2026 15:04:51 GMT | Critical SQL Injection in Sourcecodester Complaint Management System (CVE-2020–24932) | Elobeid | [Read More](https://medium.com/p/22952bcdd235) |
+| Sun, 26 Apr 2026 15:04:29 GMT | What Scarlet Goldfinch shows us about detection at scale | Anya Nessi | [Read More](https://medium.com/p/2f95cdbbb313) |
+| Sun, 26 Apr 2026 15:02:21 GMT | People Have Beautiful Things to Say About You, But You Must Die First | Aster♡ | [Read More](https://medium.com/p/d530286600c1) |
+| Sun, 26 Apr 2026 14:57:48 GMT | ColdBoxEasy Walkthrough (Proving Ground-play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/bd8e329537cb) |
+| Sun, 26 Apr 2026 14:53:34 GMT | Why Most Companies Fail at AI - Even After Spending Millions | Nihan Akıncı | [Read More](https://medium.com/p/d429f2f8793b) |
+| Sun, 26 Apr 2026 14:51:52 GMT | How I Found a Reflected XSS in a Government Website | Moamen Samir | [Read More](https://medium.com/p/1488dace0c81) |
+| Sun, 26 Apr 2026 14:48:33 GMT | ChainBlok for Security Audit Smart Contracts | Aris Haryanto | [Read More](https://medium.com/p/dfb2e393e3fe) |
+| Sun, 26 Apr 2026 14:44:39 GMT | UnIndexed - TryHackMe | Ryca | [Read More](https://medium.com/p/f9aa737b3659) |
+| Sun, 26 Apr 2026 14:42:21 GMT | Claude Mythos and the End of Traditional Cybersecurity: Why Zero-Day Discovery Just Changed Forever | Niharika | [Read More](https://medium.com/p/1f5cf54b2a24) |
+| Sun, 26 Apr 2026 14:40:06 GMT | ChatGPT’s Version of Cowork Is Here. It Came Through the Back Door. | Gauraw Singh | [Read More](https://medium.com/p/6fd5263dd679) |
+| Sun, 26 Apr 2026 14:39:11 GMT | Your Encrypted Messages Were Not as Private as You Thought | Joao Silva | [Read More](https://medium.com/p/170d95c85494) |
 | Sun, 26 Apr 2026 14:37:42 GMT | Breaking OWASP Juice Shop: Hands-On Web Application Pentesting | Prabin Kumar Sethi | [Read More](https://medium.com/p/e50a9a53ac26) |
 | Sun, 26 Apr 2026 14:34:51 GMT | Use Claude Cowork safely with PII redactor | Joseph Zeng | [Read More](https://medium.com/p/1752b5ad010f) |
 | Sun, 26 Apr 2026 14:34:22 GMT | Is Quantum Computing Breaking the Internet’s Security in 2026? | Anoop Ron | [Read More](https://medium.com/p/3146945ce86c) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Apr 2026 08:31:45 GMT | Benefits of Pentesting Skills in Cloud Security | marianita_cloud | [Read More](https://medium.com/p/408fa952f598) |
 | Sun, 26 Apr 2026 08:27:05 GMT | You Wouldn’t Give a Intern Root Access then Why Are You Running AI Agents Without a Sandbox? | Shivam Bharadwaj | [Read More](https://medium.com/p/bb8fc7507c7c) |
 | Sun, 26 Apr 2026 08:22:30 GMT | Android Is Changing — And Not in the Way You Think | ghostyjoe | [Read More](https://medium.com/p/db9298b9d544) |
-| Sun, 26 Apr 2026 08:22:11 GMT | Authentication Bypass Login Page Ko Bypass Karo, Admin Bano, Tokens Exploit Karo!(Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/c3230da4ab46) |
-| Sun, 26 Apr 2026 08:21:01 GMT | Cleanup Mechanisms for Refresh Tokens and OAuth2 Authorizations | Hugo | [Read More](https://medium.com/p/ee7b17025fce) |
-| Sun, 26 Apr 2026 08:14:10 GMT | AI agents are using your API keys — but no one is really in control | Sharma B | [Read More](https://medium.com/p/6e2971205c46) |
-| Sun, 26 Apr 2026 08:05:17 GMT | SQL Injection — How I Exploited It, What I Learned, and How to Stop It | Nilanjan Chowdhury | [Read More](https://medium.com/p/27bc0c03fc8d) |
-| Sun, 26 Apr 2026 07:49:01 GMT | Nmap Commands Guide: From Basic to Advanced
-A practical guide for penetration testers and bug… | Muzammil khan | [Read More](https://medium.com/p/a977a629ee3d) |
-| Sun, 26 Apr 2026 07:48:46 GMT | How to Find Affordable SIA Security Courses in Birmingham Without Compromising Quality | Getyoursia | [Read More](https://medium.com/p/cd0922118078) |
-| Sun, 26 Apr 2026 07:32:23 GMT | Free Demo Cyber Security Class — What You Will Learn? | Sakshidigitalmarketingitaccura | [Read More](https://medium.com/p/17aa87391866) |
-| Sun, 26 Apr 2026 07:23:43 GMT | How Banks Catch Fraudsters Using Data | Aryan Mishra | [Read More](https://medium.com/p/1c2c1b382676) |
-| Sun, 26 Apr 2026 07:17:57 GMT | How to Get Hired After Completing Your SIA Training Course | Getyoursia | [Read More](https://medium.com/p/6cf3ae721aeb) |
-| Sun, 26 Apr 2026 07:11:53 GMT | Dark Web Myths vs. Reality: A Computer Science Student’s Breakdown | Standecruise | [Read More](https://medium.com/p/f685e35d9bfc) |
-| Sun, 26 Apr 2026 06:39:03 GMT | A Cybersecurity Degree Is Not Enough: Here’s What Actually Gets You Hired | Funmilola Fagbola | [Read More](https://medium.com/p/6467a89cdb5a) |
-| Sun, 26 Apr 2026 06:25:48 GMT | The Deepfake Alibi: When Criminals Use AI to Prove They Were Never There | Travis Ray Caverhill | [Read More](https://medium.com/p/c16c12767270) |
-| Sun, 26 Apr 2026 06:25:26 GMT | Digital Hostage: How Attackers Use AI to Blackmail with Synthetic Evidence | Travis Ray Caverhill | [Read More](https://medium.com/p/ec307d22e14c) |
-| Sun, 26 Apr 2026 06:22:17 GMT | A Day in the Life of a SOC Analyst (DLP-Focused): From Alerts to Architecture | rootRS7 | [Read More](https://medium.com/p/d69d22a68e8f) |
-| Sun, 26 Apr 2026 06:13:03 GMT | When a CTF Loses Its Integrity | Zeous | [Read More](https://medium.com/p/a7640601a0c9) |
