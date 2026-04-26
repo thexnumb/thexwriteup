@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 22:29:35 GMT | svcf physics open source REPOSITORY information found under open source physics on Wikipedia | Nicholas Cordova | [Read More](https://medium.com/p/eea176239fc5) |
+| Sun, 26 Apr 2026 22:17:09 GMT | X’s Head of Product Says iMessage, Gmail, and Phone Calls Will Collapse Within 90 Days. | Nov Tech | [Read More](https://medium.com/p/6b17179a082a) |
+| Sun, 26 Apr 2026 22:15:00 GMT | Passwords to Passkeys… | Nik Charlson | [Read More](https://medium.com/p/07ea12af85b2) |
+| Sun, 26 Apr 2026 22:11:11 GMT | CYBERDUDEBIVASH OFFICIAL BLOG — Cybersecurity & Threat Intelligence Services: Building Modern… | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/41bb9cf83625) |
+| Sun, 26 Apr 2026 22:02:46 GMT | I Audited 6 VPNs Serving Russia for Post-Quantum Readiness. Only One Actually Shipped It | Alex Brin | [Read More](https://medium.com/p/17238a94c642) |
+| Sun, 26 Apr 2026 22:01:01 GMT | CISA Had No Access. A Discord Group Did. The Gap Was Nine Days. | Ahmed M. Abdelfattah | [Read More](https://medium.com/p/06e7af2d6ba0) |
+| Sun, 26 Apr 2026 21:56:58 GMT | TryHackMe Walkthrough: Windows Fundamentals Part 1 | Shubham Khirwadkar | [Read More](https://medium.com/p/8e31df70bd8d) |
+| Sun, 26 Apr 2026 21:53:58 GMT | Latest WordPress Attack in 2026: How Hidden Malware Destroys SEO Rankings Overnight | Eng. Nermien Alkhouder | [Read More](https://medium.com/p/6fb7b9013259) |
 | Sun, 26 Apr 2026 21:37:27 GMT | By the Collar of Curiosity: Dragged Down the Rabbit Hole | Vernita Barker | [Read More](https://medium.com/p/e94759ecd751) |
 | Sun, 26 Apr 2026 21:30:05 GMT | Understanding the Four Types of Data Analysis: Descriptive Analytics, Diagnostic Analytics… | Dennis Duke | [Read More](https://medium.com/p/c8b5f166539a) |
 | Sun, 26 Apr 2026 21:28:38 GMT | Pandora - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/c455edc33533) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Apr 2026 14:57:48 GMT | ColdBoxEasy Walkthrough (Proving Ground-play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/bd8e329537cb) |
 | Sun, 26 Apr 2026 14:53:34 GMT | Why Most Companies Fail at AI - Even After Spending Millions | Nihan Akıncı | [Read More](https://medium.com/p/d429f2f8793b) |
 | Sun, 26 Apr 2026 14:51:52 GMT | How I Found a Reflected XSS in a Government Website | Moamen Samir | [Read More](https://medium.com/p/1488dace0c81) |
-| Sun, 26 Apr 2026 14:48:33 GMT | ChainBlok for Security Audit Smart Contracts | Aris Haryanto | [Read More](https://medium.com/p/dfb2e393e3fe) |
-| Sun, 26 Apr 2026 14:44:39 GMT | UnIndexed - TryHackMe | Ryca | [Read More](https://medium.com/p/f9aa737b3659) |
-| Sun, 26 Apr 2026 14:42:21 GMT | Claude Mythos and the End of Traditional Cybersecurity: Why Zero-Day Discovery Just Changed Forever | Niharika | [Read More](https://medium.com/p/1f5cf54b2a24) |
-| Sun, 26 Apr 2026 14:40:06 GMT | ChatGPT’s Version of Cowork Is Here. It Came Through the Back Door. | Gauraw Singh | [Read More](https://medium.com/p/6fd5263dd679) |
-| Sun, 26 Apr 2026 14:39:11 GMT | Your Encrypted Messages Were Not as Private as You Thought | Joao Silva | [Read More](https://medium.com/p/170d95c85494) |
-| Sun, 26 Apr 2026 14:37:42 GMT | Breaking OWASP Juice Shop: Hands-On Web Application Pentesting | Prabin Kumar Sethi | [Read More](https://medium.com/p/e50a9a53ac26) |
-| Sun, 26 Apr 2026 14:34:51 GMT | Use Claude Cowork safely with PII redactor | Joseph Zeng | [Read More](https://medium.com/p/1752b5ad010f) |
-| Sun, 26 Apr 2026 14:34:22 GMT | Is Quantum Computing Breaking the Internet’s Security in 2026? | Anoop Ron | [Read More](https://medium.com/p/3146945ce86c) |
