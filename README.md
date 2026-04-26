@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 16:40:59 GMT | I Was Getting 401 Everywhere… Until One Login Field Gave Me Full Access | Tanvi Chauhan | [Read More](https://medium.com/p/5c67fc7b7580) |
+| Sun, 26 Apr 2026 16:31:24 GMT | ️‍♂️ How I Find Critical Data Leaks Using Just Google SearchJackpot!! | Vanshrathore | [Read More](https://medium.com/p/f85592f61925) |
+| Sun, 26 Apr 2026 16:19:29 GMT | Scalper Bots — The Ghosts Using Your Digital Footprint to Rig the Market | Rajalaxmi | [Read More](https://medium.com/p/8abd50b8a2b3) |
+| Sun, 26 Apr 2026 16:16:55 GMT | Global Cyber Threats 2025: The $10.5 Trillion Problem Nobody Fully Understands | Sam Walker | [Read More](https://medium.com/p/467e7f52af3d) |
+| Sun, 26 Apr 2026 16:16:24 GMT | Guys pls a question:my Trust wallet holds 4,000. | Jina | [Read More](https://medium.com/p/80453f57255f) |
+| Sun, 26 Apr 2026 16:13:40 GMT | Why I Chose Cybersecurity as a Beginner | MYTHILI G | [Read More](https://medium.com/p/ce3c57bcc9a0) |
+| Sun, 26 Apr 2026 15:52:02 GMT | Lockdown - TryHackMe | Ryca | [Read More](https://medium.com/p/73a063988ae8) |
+| Sun, 26 Apr 2026 15:49:08 GMT | When AI Finds the Holes: What Recent Incidents Tell Us About the Shifting Threat Landscape | Amie | [Read More](https://medium.com/p/6c81da2aa4ce) |
+| Sun, 26 Apr 2026 15:43:33 GMT | Cracking the Code: How I Captured 4 Flags in the SUMERU AI CTF challenge | Shree | [Read More](https://medium.com/p/6c4a72ee6f3d) |
 | Sun, 26 Apr 2026 15:30:11 GMT | The Chatbot That Let Anyone Read, Write, and Execute | DestroyerX | [Read More](https://medium.com/p/b79e5c7ddd2c) |
 | Sun, 26 Apr 2026 15:27:38 GMT | Microsoft Removes Copilot From Windows 11 – But AI Stays | Cybrdef | [Read More](https://medium.com/p/c3bb11865dc8) |
 | Sun, 26 Apr 2026 15:15:16 GMT | Struktur Data: Sorting in Python | RosifaAulia | [Read More](https://medium.com/p/f70e3a6d78e7) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Apr 2026 09:07:52 GMT | CROSS-SITE SCRIPTING A HACKERS GUIDE | Tmayaya | [Read More](https://medium.com/p/e59984a0dc5f) |
 | Sun, 26 Apr 2026 09:01:01 GMT | Mahalleden Dünyaya: Bir Veri Paketinin LAN’dan WAN’a Büyük Göçü (Bölüm 6) | Yusuf Adıgüzel | [Read More](https://medium.com/p/8ba1f0aef81b) |
 | Sun, 26 Apr 2026 08:59:49 GMT | The Journey of a Click: How the Internet Actually Works | Aditya Gaharwar | [Read More](https://medium.com/p/8cc60bb2be74) |
-| Sun, 26 Apr 2026 08:50:21 GMT | What Threat‑Informed IAM Actually Means (And Why It Matters) | Andrew Cant, CITP FBCS | [Read More](https://medium.com/p/bb07cb31c20e) |
-| Sun, 26 Apr 2026 08:47:29 GMT | Strengthening Cloud Data Security Through Elliptic Curve Cryptography | Muhammad Fakhri Amir | [Read More](https://medium.com/p/7bd1b913e0ea) |
-| Sun, 26 Apr 2026 08:44:33 GMT | Thawd Security : FreeFlag | Orbitz | [Read More](https://medium.com/p/9ecdaf70869d) |
-| Sun, 26 Apr 2026 08:44:08 GMT | The OSI Model Through a Cybersecurity Lens | DIPNARAYAN NANDI | [Read More](https://medium.com/p/3f4963e19706) |
-| Sun, 26 Apr 2026 08:42:09 GMT | How Agentic AI Breaks Cybersecurity Economics | David SEHYEON Baek | [Read More](https://medium.com/p/4a252698e832) |
-| Sun, 26 Apr 2026 08:32:56 GMT | Host Header Manipulation: Görünmeyen Tehlike ve Zincirleme Zafiyetler | Mevlüt Kamalı | [Read More](https://medium.com/p/6b8d77417c74) |
-| Sun, 26 Apr 2026 08:31:45 GMT | Benefits of Pentesting Skills in Cloud Security | marianita_cloud | [Read More](https://medium.com/p/408fa952f598) |
-| Sun, 26 Apr 2026 08:27:05 GMT | You Wouldn’t Give a Intern Root Access then Why Are You Running AI Agents Without a Sandbox? | Shivam Bharadwaj | [Read More](https://medium.com/p/bb8fc7507c7c) |
-| Sun, 26 Apr 2026 08:22:30 GMT | Android Is Changing — And Not in the Way You Think | ghostyjoe | [Read More](https://medium.com/p/db9298b9d544) |
