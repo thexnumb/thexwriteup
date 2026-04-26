@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 18:42:48 GMT | API Gateways in AI Systems | Amal Manzoor | [Read More](https://medium.com/p/3cfe88275c2f) |
+| Sun, 26 Apr 2026 18:42:12 GMT | Siber Güvenliğin Görünmez Cephesi: İnsan Psikolojisi ve Dijital Manipülasyon | Eyüp Çeçen | [Read More](https://medium.com/p/a7d34783f5fc) |
+| Sun, 26 Apr 2026 18:41:51 GMT | TRS4R3N Sentinal AI SOC Behavior | Serhan Kırca | [Read More](https://medium.com/p/d8124dea0e02) |
+| Sun, 26 Apr 2026 18:39:48 GMT | Week 4 of Security Research & Threat Intelligence | Muhammad Uzair | [Read More](https://medium.com/p/3a108e914dcf) |
+| Sun, 26 Apr 2026 18:38:23 GMT | Exploiting Misconfigured GraphQL | Ghost | [Read More](https://medium.com/p/acd0da47ed51) |
+| Sun, 26 Apr 2026 18:37:48 GMT | From One Workstation to Domain: Dumping LSASS Credentials in a Home Lab | Will Giles - Cybersecurity | [Read More](https://medium.com/p/a85c0b342066) |
+| Sun, 26 Apr 2026 18:37:35 GMT | Cybersecurity & the CIA Triad: The Foundation of Digital Protection | Mickeymouse | [Read More](https://medium.com/p/15f4d5f0522c) |
+| Sun, 26 Apr 2026 18:33:41 GMT | 10 Intriguing Cybersecurity Startup Ideas You Can Build as a Micro-SaaS: Rust Edition | John Muconto | [Read More](https://medium.com/p/acd1ef6c51ca) |
+| Sun, 26 Apr 2026 18:31:21 GMT | HTB — Perfection Machine | 0xEnzoSantana | [Read More](https://medium.com/p/57df438604a1) |
+| Sun, 26 Apr 2026 18:30:27 GMT | THM — light | 0xEnzoSantana | [Read More](https://medium.com/p/f3f4aef31643) |
+| Sun, 26 Apr 2026 18:29:02 GMT | Security by Design Under the CRA: What It Actually Means for Your Development Process | CRA Decoded | [Read More](https://medium.com/p/1a784d151997) |
+| Sun, 26 Apr 2026 18:18:04 GMT | BUG-BOUNTY SERIES 6: Google Dorking untuk Reconnaissance — Menggali Informasi Sensitif Secara… | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/611d1f390449) |
+| Sun, 26 Apr 2026 18:05:59 GMT | I Found a Stored XSS in an API Explorer — Here’s Exactly How I Did It | Sada devre | [Read More](https://medium.com/p/2096dfc94753) |
+| Sun, 26 Apr 2026 18:00:55 GMT | AI Learns the Past — But Lives in the Future | Inside the Digital State | [Read More](https://medium.com/p/e4efe885d111) |
+| Sun, 26 Apr 2026 17:57:02 GMT | The Sovereign SOC: Why Indonesia Must Look Beyond the AI Hype Cycle | outofspace | [Read More](https://medium.com/p/f9a66f2d2646) |
+| Sun, 26 Apr 2026 17:50:02 GMT | The Dark Web: Myths, Reality, Risks, and Its Role in the Digital World | Vaishp | [Read More](https://medium.com/p/63cfb5744aa0) |
 | Sun, 26 Apr 2026 17:37:36 GMT | How I Turned a “Harmless” Self-XSS into a Full Account Takeover | Sada devre | [Read More](https://medium.com/p/50ff10244377) |
 | Sun, 26 Apr 2026 17:28:54 GMT | ICMP-GHOST / Pure Assembly x64 C2 Implant | JM00NJ | [Read More](https://medium.com/p/72553ff74626) |
 | Sun, 26 Apr 2026 17:24:01 GMT | Importing Results into Metasploit (MSF) | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/ca3203286682) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Apr 2026 11:39:38 GMT | CVE-2026-24467: OpenAEV Flaw Allows Unauthenticated Account Takeover | Cybrdef | [Read More](https://medium.com/p/36e4e13e9250) |
 | Sun, 26 Apr 2026 11:37:51 GMT | Belajar Keamanan Web Lewat Eksperimen: Mencoba SQL Injection & XSS di Website Sederhana | Gamingbuat | [Read More](https://medium.com/p/142fafacb9e0) |
 | Sun, 26 Apr 2026 11:37:12 GMT | Relevant Room Full walkthrough Tryhackme :- Step by Step | Chandan | [Read More](https://medium.com/p/1a4412f84865) |
-| Sun, 26 Apr 2026 11:35:37 GMT | Vulnerability may be the deepest form of intimacy | Written by Sol | [Read More](https://medium.com/p/e64a0afe0b81) |
-| Sun, 26 Apr 2026 11:34:20 GMT | Is Your Organisation ‘Change Ready’? | Shaun Le Geyt | [Read More](https://medium.com/p/3e44b16ea938) |
-| Sun, 26 Apr 2026 11:30:13 GMT | What is IAM (Identity and Access Management) in Cybersecurity? A Simple Guide | Tech Prescient | [Read More](https://medium.com/p/3f96a8d51d5e) |
-| Sun, 26 Apr 2026 11:29:50 GMT | 0- Introduction to LLM Fundamentals | Erdemstar | [Read More](https://medium.com/p/f59ec8979616) |
-| Sun, 26 Apr 2026 11:26:39 GMT | TryHackMe ConvertMyVideo Walkthrough - Command Injection via youtube-dl to Root Privilege… | Arun1x | [Read More](https://medium.com/p/7517f65715d9) |
-| Sun, 26 Apr 2026 11:12:04 GMT | You Don’t Have a Coverage Problem — You Have a Confidence Problem | Barry Stephenson | [Read More](https://medium.com/p/be7e6c992741) |
-| Sun, 26 Apr 2026 11:00:23 GMT | What Bug Bounty Culture Isn’t Telling You | Atharva Deshmukh | [Read More](https://medium.com/p/b5245af7bbbc) |
-| Sun, 26 Apr 2026 10:50:59 GMT | The Invisible Perimeter: A Comprehensive Guide to Network Device Hardening | Gleb Wam | [Read More](https://medium.com/p/111f40afc1e7) |
-| Sun, 26 Apr 2026 10:40:56 GMT | Session Fixation for Pentesters | Sanskriti | [Read More](https://medium.com/p/a8e6dad00461) |
-| Sun, 26 Apr 2026 10:40:01 GMT | Two-Thirds of Executives Already Leaked Data Through AI Agents. | Varun Pratap Bhardwaj | [Read More](https://medium.com/p/e851ef4be6cb) |
-| Sun, 26 Apr 2026 10:35:04 GMT | Python Library to Detect AI-Generated Images(Authentica) | Mdsheriff | [Read More](https://medium.com/p/99c0a4a10869) |
-| Sun, 26 Apr 2026 10:32:47 GMT | Scaling AI in upstream energy | MOHAMMED ASRAR | [Read More](https://medium.com/p/2e8f554aeec7) |
-| Sun, 26 Apr 2026 10:29:11 GMT | Day 1: Exploring the Windows Command line and Remote access via SSH | Marvelous Amatue | [Read More](https://medium.com/p/3adc753a04da) |
-| Sun, 26 Apr 2026 10:29:00 GMT | The Rise of Naoris Protocol:   A New Era of Cybersecurity | Kal_Zman | [Read More](https://medium.com/p/2ecc5d6c0877) |
-| Sun, 26 Apr 2026 10:19:58 GMT | I Opened 60,000 Ports on AWS… Here’s What I Did | Arka Dey | [Read More](https://medium.com/p/0f3689497785) |
-| Sun, 26 Apr 2026 10:19:41 GMT | Vibe Security CTF: The Triple Threat Walkthrough | Raduan Ahamed | [Read More](https://medium.com/p/3241922e2234) |
