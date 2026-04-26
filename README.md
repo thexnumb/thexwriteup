@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 17:37:36 GMT | How I Turned a “Harmless” Self-XSS into a Full Account Takeover | Sada devre | [Read More](https://medium.com/p/50ff10244377) |
+| Sun, 26 Apr 2026 17:28:54 GMT | ICMP-GHOST / Pure Assembly x64 C2 Implant | JM00NJ | [Read More](https://medium.com/p/72553ff74626) |
+| Sun, 26 Apr 2026 17:24:01 GMT | Importing Results into Metasploit (MSF) | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/ca3203286682) |
+| Sun, 26 Apr 2026 17:23:52 GMT | Use Linux, you’ll never want to work a day in your life | Peter K. | [Read More](https://medium.com/p/f3e5680819eb) |
+| Sun, 26 Apr 2026 17:21:05 GMT | I Didn’t Build an AI Agent Framework. I Built a Map of Where Agents Break. | Selfradiance | [Read More](https://medium.com/p/1b4036338111) |
+| Sun, 26 Apr 2026 17:18:06 GMT | The Day a Freelancer Realized One Small Data Leak Could Become a Legal Problem | Cyber Safety Zone | [Read More](https://medium.com/p/832c498c91f8) |
+| Sun, 26 Apr 2026 17:16:37 GMT | Prevent Deserialization Attacks by Eliminating Dynamic Instantiation Paths | Asian Digital Hub | [Read More](https://medium.com/p/b122a3e62d4c) |
+| Sun, 26 Apr 2026 17:13:53 GMT | DiceForge (RCE) Bugforge | 7s26Simon | [Read More](https://medium.com/p/d89c0bb16437) |
+| Sun, 26 Apr 2026 17:03:56 GMT | Supply Chain Attacks: Exploiting Trust in Modern Digital Ecosystems | Meravytes | [Read More](https://medium.com/p/b35116b75651) |
+| Sun, 26 Apr 2026 17:02:27 GMT | Active Directory Pentesting 101 — Pt1. | serkanbenol | [Read More](https://medium.com/p/0fe952c30b57) |
+| Sun, 26 Apr 2026 16:57:33 GMT | Understanding Cloud Computing Security: Necessity, Risks, and Best Practices | Pranay Kushwaha | [Read More](https://medium.com/p/39d654c8ea04) |
+| Sun, 26 Apr 2026 16:56:02 GMT | Confessions of an AI: The Laravel MySQL Bug, a "Fabulation," and the Beauty of Dependency Injection | marius-ciclistu | [Read More](https://medium.com/p/18ddce9a3af1) |
+| Sun, 26 Apr 2026 16:55:21 GMT | Meet Trestan "Romeo" Renzetti: The 25-Year-Old Paid to Hack the Human Mind | Roman Zuniga | [Read More](https://medium.com/p/7124e3201639) |
+| Sun, 26 Apr 2026 16:54:27 GMT | From LinkedIn to Root Access: How a Phone Number, an Old Password Dump, and a Cache Poisoning Bug… | Iski | [Read More](https://medium.com/p/897b0745b439) |
 | Sun, 26 Apr 2026 16:40:59 GMT | I Was Getting 401 Everywhere… Until One Login Field Gave Me Full Access | Tanvi Chauhan | [Read More](https://medium.com/p/5c67fc7b7580) |
 | Sun, 26 Apr 2026 16:31:24 GMT | ️‍♂️ How I Find Critical Data Leaks Using Just Google SearchJackpot!! | Vanshrathore | [Read More](https://medium.com/p/f85592f61925) |
 | Sun, 26 Apr 2026 16:19:29 GMT | Scalper Bots — The Ghosts Using Your Digital Footprint to Rig the Market | Rajalaxmi | [Read More](https://medium.com/p/8abd50b8a2b3) |
@@ -21,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Apr 2026 15:52:02 GMT | Lockdown - TryHackMe | Ryca | [Read More](https://medium.com/p/73a063988ae8) |
 | Sun, 26 Apr 2026 15:49:08 GMT | When AI Finds the Holes: What Recent Incidents Tell Us About the Shifting Threat Landscape | Amie | [Read More](https://medium.com/p/6c81da2aa4ce) |
 | Sun, 26 Apr 2026 15:43:33 GMT | Cracking the Code: How I Captured 4 Flags in the SUMERU AI CTF challenge | Shree | [Read More](https://medium.com/p/6c4a72ee6f3d) |
+| Sun, 26 Apr 2026 15:42:51 GMT | Basis Data: Responsi UTS | RosifaAulia | [Read More](https://medium.com/p/dafe8924b045) |
 | Sun, 26 Apr 2026 15:30:11 GMT | The Chatbot That Let Anyone Read, Write, and Execute | DestroyerX | [Read More](https://medium.com/p/b79e5c7ddd2c) |
 | Sun, 26 Apr 2026 15:27:38 GMT | Microsoft Removes Copilot From Windows 11 – But AI Stays | Cybrdef | [Read More](https://medium.com/p/c3bb11865dc8) |
 | Sun, 26 Apr 2026 15:15:16 GMT | Struktur Data: Sorting in Python | RosifaAulia | [Read More](https://medium.com/p/f70e3a6d78e7) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Apr 2026 10:29:00 GMT | The Rise of Naoris Protocol:   A New Era of Cybersecurity | Kal_Zman | [Read More](https://medium.com/p/2ecc5d6c0877) |
 | Sun, 26 Apr 2026 10:19:58 GMT | I Opened 60,000 Ports on AWS… Here’s What I Did | Arka Dey | [Read More](https://medium.com/p/0f3689497785) |
 | Sun, 26 Apr 2026 10:19:41 GMT | Vibe Security CTF: The Triple Threat Walkthrough | Raduan Ahamed | [Read More](https://medium.com/p/3241922e2234) |
-| Sun, 26 Apr 2026 10:19:13 GMT | Your Email May Already Be Leaked on the Dark Web | The Digital Bodyguard | [Read More](https://medium.com/p/ffa78fef8c0a) |
-| Sun, 26 Apr 2026 10:18:15 GMT | The Key That Opens Every Door — Understanding Broken Access Control | Hithaishi S P | [Read More](https://medium.com/p/69135384f803) |
-| Sun, 26 Apr 2026 10:13:12 GMT | Yapay Zeka Çağında SOC Analisti Olmak! | Cyber Web | [Read More](https://medium.com/p/63a191196872) |
-| Sun, 26 Apr 2026 10:05:20 GMT | Understanding to Disabling NTLM by Default with Deep Dive | Ahmet Doruk | [Read More](https://medium.com/p/1a57d984db64) |
-| Sun, 26 Apr 2026 10:04:32 GMT | #  How a Simple Misconfiguration Led to Full System Compromise (HTB Meow) | Hgupta | [Read More](https://medium.com/p/79f8522e6456) |
-| Sun, 26 Apr 2026 10:01:01 GMT | Why My Students Succeed Faster Than Online Course Learners | Victoria Coker | [Read More](https://medium.com/p/65c055641f98) |
-| Sun, 26 Apr 2026 10:00:24 GMT | The SOC Analyst Cheat Sheet 2026 — Tools, Commands and Frameworks Every Analyst Must Know | Sai kiran | [Read More](https://medium.com/p/6fd16beb3d92) |
-| Sun, 26 Apr 2026 09:54:21 GMT | Carnage | WajidMir | [Read More](https://medium.com/p/f46ec2c95d0d) |
-| Sun, 26 Apr 2026 09:53:22 GMT | What Is a Sandbox? How to Safely Run and Analyze Any Unknown .exe | Mahdi SHamlou | [Read More](https://medium.com/p/bf6a8e07561d) |
-| Sun, 26 Apr 2026 09:25:08 GMT | Mr Robot — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/f379f79bac6a) |
-| Sun, 26 Apr 2026 09:20:45 GMT | “Bounty Hacker Walkthrough: My First Experience with Enumeration and Privilege Escalation” | Abhinav | [Read More](https://medium.com/p/74948280d59b) |
-| Sun, 26 Apr 2026 09:13:03 GMT | Professional Security Testing For Your Digital Office. | Digital Product | [Read More](https://medium.com/p/6712dc082386) |
-| Sun, 26 Apr 2026 09:07:52 GMT | CROSS-SITE SCRIPTING A HACKERS GUIDE | Tmayaya | [Read More](https://medium.com/p/e59984a0dc5f) |
-| Sun, 26 Apr 2026 09:01:01 GMT | Mahalleden Dünyaya: Bir Veri Paketinin LAN’dan WAN’a Büyük Göçü (Bölüm 6) | Yusuf Adıgüzel | [Read More](https://medium.com/p/8ba1f0aef81b) |
-| Sun, 26 Apr 2026 08:59:49 GMT | The Journey of a Click: How the Internet Actually Works | Aditya Gaharwar | [Read More](https://medium.com/p/8cc60bb2be74) |
