@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 21:37:27 GMT | By the Collar of Curiosity: Dragged Down the Rabbit Hole | Vernita Barker | [Read More](https://medium.com/p/e94759ecd751) |
+| Sun, 26 Apr 2026 21:30:05 GMT | Understanding the Four Types of Data Analysis: Descriptive Analytics, Diagnostic Analytics… | Dennis Duke | [Read More](https://medium.com/p/c8b5f166539a) |
+| Sun, 26 Apr 2026 21:28:38 GMT | Pandora - HackTheBox - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/c455edc33533) |
+| Sun, 26 Apr 2026 21:26:38 GMT | Try Hack Me- Debug Walkthrough | PulseEinher | [Read More](https://medium.com/p/0011cb5dd7d0) |
+| Sun, 26 Apr 2026 21:22:16 GMT | The Reality of My AI Alignment Predictions | Atsushi Ito | [Read More](https://medium.com/p/51570965b3f2) |
+| Sun, 26 Apr 2026 21:16:30 GMT | Breaking the Pulse: Android Lock-Screen Bypass via Hardware Clock Glitching | KazemSaher | [Read More](https://medium.com/p/a55df36e12a1) |
+| Sun, 26 Apr 2026 21:14:01 GMT | Project Athena: A Deep Dive into Autonomous Sovereign Cyber-Defense Architectures | Shanebuilder | [Read More](https://medium.com/p/3c6b48bc164f) |
+| Sun, 26 Apr 2026 21:09:33 GMT | CISSP and Some of the Pain That Came With It (Part 1) | Desislava Nikolaeva | [Read More](https://medium.com/p/5bbd8e1dc5d4) |
+| Sun, 26 Apr 2026 21:08:50 GMT | Reversing Windows Defender Vulnerable Driver: KslD.sys | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d64a485ee8e8) |
+| Sun, 26 Apr 2026 20:53:16 GMT | Why Your SPA Shouldn’t Handle Authentication | Tkachenko Viacheslav | [Read More](https://medium.com/p/20f3d2a54a97) |
+| Sun, 26 Apr 2026 20:46:08 GMT | Demystifying Hong Kong’s New Cybersecurity Law: A Deep Dive for SMEs (Plus Your Free Compliance… | Stanley Ng | [Read More](https://medium.com/p/57491c8647e5) |
+| Sun, 26 Apr 2026 20:43:04 GMT | TryHackMe: TakeOver CTF Writeup - Step-by-Step Guide | Raad94 | [Read More](https://medium.com/p/87cd4b2786ba) |
 | Sun, 26 Apr 2026 20:37:59 GMT | Hijack (THM) Tryhackme Writeup and Answer | Lawvye | [Read More](https://medium.com/p/3a562a646656) |
 | Sun, 26 Apr 2026 20:36:23 GMT | OWASP Top 10: The Developer’s Guide to Not Getting Hacked | Pentesty | [Read More](https://medium.com/p/620b4a148933) |
 | Sun, 26 Apr 2026 20:36:01 GMT | Authentication Is Not Security-That’s When I Switched to Zero Trust | Maram Raboudi | [Read More](https://medium.com/p/59a3aa7fa1f2) |
@@ -53,6 +65,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Apr 2026 18:30:27 GMT | THM — light | 0xEnzoSantana | [Read More](https://medium.com/p/f3f4aef31643) |
 | Sun, 26 Apr 2026 18:29:02 GMT | Security by Design Under the CRA: What It Actually Means for Your Development Process | CRA Decoded | [Read More](https://medium.com/p/1a784d151997) |
 | Sun, 26 Apr 2026 18:18:04 GMT | BUG-BOUNTY SERIES 6: Google Dorking untuk Reconnaissance — Menggali Informasi Sensitif Secara… | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/611d1f390449) |
+| Sun, 26 Apr 2026 18:13:45 GMT | BUG-BOUNTY SERIES 5: Strategi Meningkatkan Skill dan Konsistensi dalam Bug Bounty Hunting | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/0cfe27a59bbf) |
 | Sun, 26 Apr 2026 18:05:59 GMT | I Found a Stored XSS in an API Explorer — Here’s Exactly How I Did It | Sada devre | [Read More](https://medium.com/p/2096dfc94753) |
 | Sun, 26 Apr 2026 18:00:55 GMT | AI Learns the Past — But Lives in the Future | Inside the Digital State | [Read More](https://medium.com/p/e4efe885d111) |
 | Sun, 26 Apr 2026 17:57:02 GMT | The Sovereign SOC: Why Indonesia Must Look Beyond the AI Hype Cycle | outofspace | [Read More](https://medium.com/p/f9a66f2d2646) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Apr 2026 14:37:42 GMT | Breaking OWASP Juice Shop: Hands-On Web Application Pentesting | Prabin Kumar Sethi | [Read More](https://medium.com/p/e50a9a53ac26) |
 | Sun, 26 Apr 2026 14:34:51 GMT | Use Claude Cowork safely with PII redactor | Joseph Zeng | [Read More](https://medium.com/p/1752b5ad010f) |
 | Sun, 26 Apr 2026 14:34:22 GMT | Is Quantum Computing Breaking the Internet’s Security in 2026? | Anoop Ron | [Read More](https://medium.com/p/3146945ce86c) |
-| Sun, 26 Apr 2026 14:31:39 GMT | DC-1 VulnHub — Full Penetration Test Writeup | Akshaysuresh | [Read More](https://medium.com/p/8ec5767880d1) |
-| Sun, 26 Apr 2026 14:27:15 GMT | The Netherlands Just Declared Its Highest Security Alert Since World War Two. The World Missed It. | Vivek Anand | [Read More](https://medium.com/p/642ece7dd1ba) |
-| Sun, 26 Apr 2026 14:26:01 GMT | AI Won’t Save You If It Can’t Execute, contrarian | Faraz Ishaq | [Read More](https://medium.com/p/16a39b8fc6df) |
-| Sun, 26 Apr 2026 14:24:19 GMT | Seven Queries to Audit the Sentinel Detections Your SOC May Have Missed. | Rohitashokgowd | [Read More](https://medium.com/p/8e9c73fc2522) |
-| Sun, 26 Apr 2026 14:19:38 GMT | I Built a SOC Home Lab Using Splunk. Here Is What Actually Happened. | Angle Gray | [Read More](https://medium.com/p/4b76a620ca24) |
-| Sun, 26 Apr 2026 14:14:12 GMT | Override.exe 2026 Qualifiers — Akinator Writeup | Ojas Maheshwari | [Read More](https://medium.com/p/d9e214318bdb) |
-| Sun, 26 Apr 2026 14:11:09 GMT | How to Securely Erase Windows Disks: The Ultimate PowerShell Disk Wipe Script Using DiskPart “Clean… | Farhanahmad | [Read More](https://medium.com/p/7e7697625a97) |
-| Sun, 26 Apr 2026 14:10:33 GMT | How I Built and Deployed My Own Personal Site Using Claude Code | Andrew Blooman | [Read More](https://medium.com/p/4082bf19684d) |
-| Sun, 26 Apr 2026 14:08:51 GMT | OpenAI Says GPT-Rosalind Will Cut Drug Discovery From 15 Years to Months. | Adam Frąckowiak | [Read More](https://medium.com/p/9683ca659c62) |
-| Sun, 26 Apr 2026 14:08:14 GMT | Inside ArcSight: Architecture Deep Dive & Building a Real SOC | Ronik Bhattacharjee | [Read More](https://medium.com/p/3ba0219b2862) |
-| Sun, 26 Apr 2026 14:02:52 GMT | Gradient Hacking: When ML Models Leak Their Secrets | Souradeep Chandra | [Read More](https://medium.com/p/31961f9d4d17) |
-| Sun, 26 Apr 2026 14:02:28 GMT | Laporan Responsi UTS : Basis Data | Cahyoadi | [Read More](https://medium.com/p/ba27ad310d4b) |
-| Sun, 26 Apr 2026 14:01:19 GMT | Engineering a SOC Home Lab: Building a Custom SIEM with ELK and pfSense | Pritiranjan Pradhan | [Read More](https://medium.com/p/c1cafc92bfdf) |
