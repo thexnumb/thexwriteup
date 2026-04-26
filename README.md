@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 19:41:46 GMT | HTB Footprinting Lab — Hard | Youssef Ezzat | [Read More](https://medium.com/p/5183710bfd43) |
+| Sun, 26 Apr 2026 19:38:09 GMT | The AI Security Year: Seven Incidents That Show We Got Breached by Defaults | Sandeep | [Read More](https://medium.com/p/527d30c05dc0) |
+| Sun, 26 Apr 2026 19:38:04 GMT | An MCP server that does not log the patient ID, on purpose | Tanya Babitskaya | [Read More](https://medium.com/p/b0f5b1360950) |
+| Sun, 26 Apr 2026 19:36:01 GMT | How Aave V4’s “Design Choice” Turned Into a $195M Liquidation Deadlock (KelpDAO/rsETH Case) | rdin777 | [Read More](https://medium.com/p/f11ef8a67310) |
+| Sun, 26 Apr 2026 19:35:44 GMT | The Quiet Transformation of Cybersecurity | Denys Shchur | [Read More](https://medium.com/p/34efec002a16) |
+| Sun, 26 Apr 2026 19:34:09 GMT | I Built an Open-Source Security Scanner for MCP Servers. Here’s Why. | Adam Dudley | [Read More](https://medium.com/p/f2842acfbc64) |
+| Sun, 26 Apr 2026 19:23:38 GMT | Where the Shade Ends and Healing Begins | Bloomb*tch | [Read More](https://medium.com/p/30dab341b329) |
+| Sun, 26 Apr 2026 19:19:09 GMT | 12:04:21.882 POST /login DATA: username=b@vaultbank.io&password=MyBank#2024! | CAISD | [Read More](https://medium.com/p/6d43f8a455c2) |
+| Sun, 26 Apr 2026 19:16:26 GMT | Stop Giving Away Your Real Email: Why Secure Temp Mail is Your Best Defense Against Spam in 2026 | TM-Mail.com | [Read More](https://medium.com/p/91bc14080c5b) |
+| Sun, 26 Apr 2026 19:16:07 GMT | Opérationnalisation de la threat intelligence transfrontalière : vers une réponse aux incidents… | Noctu@edu | [Read More](https://medium.com/p/17cd6707c1f8) |
+| Sun, 26 Apr 2026 19:11:32 GMT | Ever Rented Out Your LinkedIn Account? | Rebecca Ihenyen | [Read More](https://medium.com/p/02594b81bd1f) |
+| Sun, 26 Apr 2026 19:01:26 GMT | Write-up Oil to the moon by LannaSec | Permsangin | [Read More](https://medium.com/p/2d256a3573eb) |
+| Sun, 26 Apr 2026 19:01:01 GMT | Your Local AI Security Agent for Recon, Analysis, and Beyond!!! | cybrNK | [Read More](https://medium.com/p/e63f2aecc8a3) |
+| Sun, 26 Apr 2026 18:59:04 GMT | How a single SMS made me rethink how information should exist | David Erez | [Read More](https://medium.com/p/6e0d97bf558b) |
+| Sun, 26 Apr 2026 18:58:56 GMT | JWT or Clerk? Choosing the Right Authentication for Your Next Project | Akil Dikshan | [Read More](https://medium.com/p/681f2aa763a7) |
 | Sun, 26 Apr 2026 18:42:48 GMT | API Gateways in AI Systems | Amal Manzoor | [Read More](https://medium.com/p/3cfe88275c2f) |
 | Sun, 26 Apr 2026 18:42:12 GMT | Siber Güvenliğin Görünmez Cephesi: İnsan Psikolojisi ve Dijital Manipülasyon | Eyüp Çeçen | [Read More](https://medium.com/p/a7d34783f5fc) |
 | Sun, 26 Apr 2026 18:41:51 GMT | TRS4R3N Sentinal AI SOC Behavior | Serhan Kırca | [Read More](https://medium.com/p/d8124dea0e02) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Apr 2026 13:03:40 GMT | Explain This: Cyber Hygiene Stops Being Common Sense When Nobody Owns It | Karla Ortiz-Flores | [Read More](https://medium.com/p/27f143adbc46) |
 | Sun, 26 Apr 2026 12:59:52 GMT | Stop Treating AI Like a Cure. It’s Often Just a Mask. | Yash Katiyara | [Read More](https://medium.com/p/72144ab56408) |
 | Sun, 26 Apr 2026 12:57:26 GMT | Your Scanner Found Nothing. I Found 3 Bugs — With Just My Brain. | 0xAbhiSec | [Read More](https://medium.com/p/a718a692ecf5) |
-| Sun, 26 Apr 2026 12:55:48 GMT | They Already Know Where You Slept Last Night | H2bm | [Read More](https://medium.com/p/46217f0ffd0a) |
-| Sun, 26 Apr 2026 12:51:39 GMT | The Quantum Bitcoin Panic Is a Fad | Robin Bucciarelli | [Read More](https://medium.com/p/86f695251236) |
-| Sun, 26 Apr 2026 12:47:20 GMT | Tiêu chuẩn bảo mật dữ liệu khi khởi tạo tài khoản 28bet: quy trình xác minh chính quy năm 2026 | 報數十一員 | [Read More](https://medium.com/p/4007264a22cf) |
-| Sun, 26 Apr 2026 12:36:16 GMT | Day 22 — Day 26 : Understanding DNS and DNS Cache Poisoning | Faizan Nazir | [Read More](https://medium.com/p/98b8a0136611) |
-| Sun, 26 Apr 2026 12:24:15 GMT | Membongkar Celah Keamanan Website: Eksperimen SQL Injection pada Sistem Login Sederhana | Hafiz Faturrohman | [Read More](https://medium.com/p/6b06eb84670f) |
-| Sun, 26 Apr 2026 12:08:34 GMT | Capek Kena Ghosting Platform Digital? Ini Cara Cek Mana yang Real, Mana yang Red Flag | Seputar Sepak Bola | [Read More](https://medium.com/p/092208793042) |
-| Sun, 26 Apr 2026 12:07:38 GMT | Stay Ahead of Cyber Threats with Proactive Security | Digital Duffer | [Read More](https://medium.com/p/bf6ef2839776) |
-| Sun, 26 Apr 2026 12:05:56 GMT | The Ultimate Guide to Security Vulnerability Assessments | Digital Duffer | [Read More](https://medium.com/p/3b01750d033a) |
-| Sun, 26 Apr 2026 12:04:18 GMT | The Great IT Reset | Aditya Baghel | [Read More](https://medium.com/p/86f345fe9a7e) |
-| Sun, 26 Apr 2026 11:52:18 GMT | Why We Are Insincere | Felix Weth | [Read More](https://medium.com/p/1025571f1c59) |
-| Sun, 26 Apr 2026 11:49:53 GMT | Day 68: Agentic AI and the New Frontier of Cyber Trust — what to note | LAKSHMI VENKATESH | [Read More](https://medium.com/p/24a956c536bc) |
-| Sun, 26 Apr 2026 11:39:49 GMT | How I Built an Automated Subdomain Monitor That Texts Me Every Time a Company Adds a New Asset. | Krithick | [Read More](https://medium.com/p/e7ce18130407) |
-| Sun, 26 Apr 2026 11:39:38 GMT | CVE-2026-24467: OpenAEV Flaw Allows Unauthenticated Account Takeover | Cybrdef | [Read More](https://medium.com/p/36e4e13e9250) |
-| Sun, 26 Apr 2026 11:37:51 GMT | Belajar Keamanan Web Lewat Eksperimen: Mencoba SQL Injection & XSS di Website Sederhana | Gamingbuat | [Read More](https://medium.com/p/142fafacb9e0) |
-| Sun, 26 Apr 2026 11:37:12 GMT | Relevant Room Full walkthrough Tryhackme :- Step by Step | Chandan | [Read More](https://medium.com/p/1a4412f84865) |
