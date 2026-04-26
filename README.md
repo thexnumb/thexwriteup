@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 08:47:29 GMT | Strengthening Cloud Data Security Through Elliptic Curve Cryptography | Muhammad Fakhri Amir | [Read More](https://medium.com/p/7bd1b913e0ea) |
+| Sun, 26 Apr 2026 08:44:33 GMT | Thawd Security : FreeFlag | Orbitz | [Read More](https://medium.com/p/9ecdaf70869d) |
+| Sun, 26 Apr 2026 08:44:08 GMT | The OSI Model Through a Cybersecurity Lens | DIPNARAYAN NANDI | [Read More](https://medium.com/p/3f4963e19706) |
+| Sun, 26 Apr 2026 08:42:09 GMT | How Agentic AI Breaks Cybersecurity Economics | David SEHYEON Baek | [Read More](https://medium.com/p/4a252698e832) |
+| Sun, 26 Apr 2026 08:32:56 GMT | Host Header Manipulation: Görünmeyen Tehlike ve Zincirleme Zafiyetler | Mevlüt Kamalı | [Read More](https://medium.com/p/6b8d77417c74) |
+| Sun, 26 Apr 2026 08:31:45 GMT | Benefits of Pentesting Skills in Cloud Security | marianita_cloud | [Read More](https://medium.com/p/408fa952f598) |
+| Sun, 26 Apr 2026 08:27:05 GMT | You Wouldn’t Give a Intern Root Access then Why Are You Running AI Agents Without a Sandbox? | Shivam Bharadwaj | [Read More](https://medium.com/p/bb8fc7507c7c) |
+| Sun, 26 Apr 2026 08:22:30 GMT | Android Is Changing — And Not in the Way You Think | ghostyjoe | [Read More](https://medium.com/p/db9298b9d544) |
+| Sun, 26 Apr 2026 08:22:11 GMT | Authentication Bypass Login Page Ko Bypass Karo, Admin Bano, Tokens Exploit Karo!(Hinglish Mein) | Hacker MD | [Read More](https://medium.com/p/c3230da4ab46) |
+| Sun, 26 Apr 2026 08:21:01 GMT | Cleanup Mechanisms for Refresh Tokens and OAuth2 Authorizations | Hugo | [Read More](https://medium.com/p/ee7b17025fce) |
+| Sun, 26 Apr 2026 08:14:10 GMT | AI agents are using your API keys — but no one is really in control | Sharma B | [Read More](https://medium.com/p/6e2971205c46) |
+| Sun, 26 Apr 2026 08:05:17 GMT | SQL Injection — How I Exploited It, What I Learned, and How to Stop It | Nilanjan Chowdhury | [Read More](https://medium.com/p/27bc0c03fc8d) |
+| Sun, 26 Apr 2026 07:49:01 GMT | Nmap Commands Guide: From Basic to Advanced
+A practical guide for penetration testers and bug… | Muzammil khan | [Read More](https://medium.com/p/a977a629ee3d) |
+| Sun, 26 Apr 2026 07:48:46 GMT | How to Find Affordable SIA Security Courses in Birmingham Without Compromising Quality | Getyoursia | [Read More](https://medium.com/p/cd0922118078) |
 | Sun, 26 Apr 2026 07:32:23 GMT | Free Demo Cyber Security Class — What You Will Learn? | Sakshidigitalmarketingitaccura | [Read More](https://medium.com/p/17aa87391866) |
 | Sun, 26 Apr 2026 07:23:43 GMT | How Banks Catch Fraudsters Using Data | Aryan Mishra | [Read More](https://medium.com/p/1c2c1b382676) |
 | Sun, 26 Apr 2026 07:17:57 GMT | How to Get Hired After Completing Your SIA Training Course | Getyoursia | [Read More](https://medium.com/p/6cf3ae721aeb) |
@@ -27,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Apr 2026 05:49:13 GMT | TryHackMe Blue Walkthrough — MS17–010 (EternalBlue) Exploitation & SOC Analysis | Rajeesh R L | [Read More](https://medium.com/p/4e51febc8b2c) |
 | Sun, 26 Apr 2026 05:39:09 GMT | What is DHCP? Dynamic Host Configuration Protocol Explained with Security | ciphernode | [Read More](https://medium.com/p/147e679c2173) |
 | Sun, 26 Apr 2026 05:37:10 GMT | Small Payload, Big Lesson — XSS Filter Evasion | Haider amin | [Read More](https://medium.com/p/3e2cdc7d05c0) |
+| Sun, 26 Apr 2026 05:17:04 GMT | [Eksperimen] Menguji Celah SQL Injection pada Sistem Login: Dari Serangan hingga Mitigasi | Zizantara | [Read More](https://medium.com/p/1f933d3062bd) |
 | Sun, 26 Apr 2026 05:13:17 GMT | HttpOnly — Your First Line of Defense | Patrik Duch | [Read More](https://medium.com/p/ad2a8e150af2) |
 | Sun, 26 Apr 2026 05:02:55 GMT | n-Local Classical Networks —  (Variational Quantum Optimisation of Nonlocality in Noisy Quantum… | Zhilton | [Read More](https://medium.com/p/88126eb5fb04) |
 | Sun, 26 Apr 2026 05:01:25 GMT | Public Key Infrastructure Implementation in Internet of Things (IoT) Security | Michael Frenicho | [Read More](https://medium.com/p/ae24c3279240) |
@@ -97,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 21:07:37 GMT | Windows OS Penetration Testing Procedures at Vsasf Tech ICT Academy Enugu | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/d0a007eef2e1) |
 | Sat, 25 Apr 2026 20:45:53 GMT | The Quiet Breach: Why Your Software Supply Chain Is the Perfect Backdoor | Shubham Ashish | [Read More](https://medium.com/p/9640aebba562) |
 | Sat, 25 Apr 2026 20:43:43 GMT | I refreshed the FUTMINNA cut-off page for the tenth time. | Nevaehernest | [Read More](https://medium.com/p/6bcfbd99e58b) |
-| Sat, 25 Apr 2026 20:39:25 GMT | I built an RL-inspired agent loop that found 48 Security Vulnerabilities in Open Source Projects | Adib Hasan | [Read More](https://medium.com/p/8f5567cc4c53) |
-| Sat, 25 Apr 2026 20:31:05 GMT | AWS Penetration Testing Part 1: IAM Enumeration from Scratch | Vimal Raj | [Read More](https://medium.com/p/ba1df1e994d6) |
-| Sat, 25 Apr 2026 20:30:57 GMT | HTB Footprinting Lab — Medium | Youssef Ezzat | [Read More](https://medium.com/p/9beadee17d61) |
-| Sat, 25 Apr 2026 20:24:16 GMT | AI-driven Vulnerability Discovery and Exploit — Part I: Strategic Plan for SOCs | SOCFortress | [Read More](https://medium.com/p/c9d984469406) |
-| Sat, 25 Apr 2026 20:04:58 GMT | Splunk SPL Rehberi: Temel Aramalardan İleri Seviye Analizlere | Ahmet Badem | [Read More](https://medium.com/p/7f7591e67844) |
-| Sat, 25 Apr 2026 20:04:45 GMT | The Internet Remembers Everything. Maybe It Shouldn’t. | nashedi coder | [Read More](https://medium.com/p/3a8ef1744a3a) |
-| Sat, 25 Apr 2026 20:00:13 GMT | IDOR….will help you to get bounty | DEMON HACKER | [Read More](https://medium.com/p/a17918661b7c) |
-| Sat, 25 Apr 2026 19:59:58 GMT | Building a Lean Self-Hosted Edge Protection Stack — and Seeing It Validated in the Real World | Nishant Sahu | [Read More](https://medium.com/p/b000d1da49f4) |
-| Sat, 25 Apr 2026 19:59:16 GMT | Active Directory Traffic Analysis & Credential Extraction | ZeroDay-Security-Services | [Read More](https://medium.com/p/62acb06b37bf) |
-| Sat, 25 Apr 2026 19:58:16 GMT | You Use JSON Everyday Without Knowing It | Rona Ega Kharisma | [Read More](https://medium.com/p/be9a750662a8) |
-| Sat, 25 Apr 2026 19:55:44 GMT | Network Forensics Is Broken. Here’s How We Fixed It. | Snflabs | [Read More](https://medium.com/p/608fd62c8cd6) |
-| Sat, 25 Apr 2026 19:46:12 GMT | The Windows Forensic Journey — MemProcFS | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2373a6802be5) |
-| Sat, 25 Apr 2026 19:44:00 GMT | Trust Shatters, Pride Withdraws. | Inscribed Echoes. | [Read More](https://medium.com/p/a5d4110da025) |
-| Sat, 25 Apr 2026 19:36:01 GMT | How I Broke my Starknet Staking Contract with Simple Math: A Lesson on Rounding Errors | rdin777 | [Read More](https://medium.com/p/6f00f00f7889) |
-| Sat, 25 Apr 2026 19:34:23 GMT | ¡Ay abril…! | Ana | [Read More](https://medium.com/p/b77512e7d4e6) |
