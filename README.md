@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 13:38:59 GMT | How I Found a Simple Broken Access Control Bug in a Chat Application | 0xlumi | [Read More](https://medium.com/p/508a69e966ba) |
+| Sun, 26 Apr 2026 13:31:01 GMT | The Policy is not the Control | Mourtaza Moise Fazlehoussen | [Read More](https://medium.com/p/c653db10fab4) |
+| Sun, 26 Apr 2026 13:31:01 GMT | Digital Sovereignty Is no longer optional: What European CISOs need to understand about Microsoft’s… | Mourtaza Moise Fazlehoussen | [Read More](https://medium.com/p/7e74c5314ce9) |
+| Sun, 26 Apr 2026 13:20:47 GMT | Best Bank Deposit Bags for Retail Stores and Restaurants | Sofiamcmahon | [Read More](https://medium.com/p/b1e398f02b85) |
+| Sun, 26 Apr 2026 13:07:42 GMT | Why Most Cybersecurity Beginners Fail (And How You Can Avoid It) | Mohamed dahir | [Read More](https://medium.com/p/309a1949f6d9) |
+| Sun, 26 Apr 2026 13:06:01 GMT | “Bug Bounty Bootcamp #36: SSRF Hands-On — Confirming the Server Makes the Request and Reading Local… | Aman Sharma | [Read More](https://medium.com/p/7229cff03049) |
+| Sun, 26 Apr 2026 13:04:53 GMT | I Ran 60 Cryptanalysis Experiments on SHA-256. Here’s What I Found. | Noctarion | [Read More](https://medium.com/p/144a2e7e7bd7) |
+| Sun, 26 Apr 2026 13:03:41 GMT | If You Trust Your Registry, You Have a Problem: Securing CI/CD with Sigstore and ArgoCD | Shilu | [Read More](https://medium.com/p/29ac9f061d6b) |
+| Sun, 26 Apr 2026 13:03:40 GMT | Explain This: Cyber Hygiene Stops Being Common Sense When Nobody Owns It | Karla Ortiz-Flores | [Read More](https://medium.com/p/27f143adbc46) |
+| Sun, 26 Apr 2026 12:59:52 GMT | Stop Treating AI Like a Cure. It’s Often Just a Mask. | Yash Katiyara | [Read More](https://medium.com/p/72144ab56408) |
+| Sun, 26 Apr 2026 12:57:26 GMT | Your Scanner Found Nothing. I Found 3 Bugs — With Just My Brain. | 0xAbhiSec | [Read More](https://medium.com/p/a718a692ecf5) |
+| Sun, 26 Apr 2026 12:55:48 GMT | They Already Know Where You Slept Last Night | H2bm | [Read More](https://medium.com/p/46217f0ffd0a) |
+| Sun, 26 Apr 2026 12:51:39 GMT | The Quantum Bitcoin Panic Is a Fad | Robin Bucciarelli | [Read More](https://medium.com/p/86f695251236) |
+| Sun, 26 Apr 2026 12:47:20 GMT | Tiêu chuẩn bảo mật dữ liệu khi khởi tạo tài khoản 28bet: quy trình xác minh chính quy năm 2026 | 報數十一員 | [Read More](https://medium.com/p/4007264a22cf) |
+| Sun, 26 Apr 2026 12:36:16 GMT | Day 22 — Day 26 : Understanding DNS and DNS Cache Poisoning | Faizan Nazir | [Read More](https://medium.com/p/98b8a0136611) |
+| Sun, 26 Apr 2026 12:24:15 GMT | Membongkar Celah Keamanan Website: Eksperimen SQL Injection pada Sistem Login Sederhana | Hafiz Faturrohman | [Read More](https://medium.com/p/6b06eb84670f) |
+| Sun, 26 Apr 2026 12:08:34 GMT | Capek Kena Ghosting Platform Digital? Ini Cara Cek Mana yang Real, Mana yang Red Flag | Seputar Sepak Bola | [Read More](https://medium.com/p/092208793042) |
+| Sun, 26 Apr 2026 12:07:38 GMT | Stay Ahead of Cyber Threats with Proactive Security | Digital Duffer | [Read More](https://medium.com/p/bf6ef2839776) |
+| Sun, 26 Apr 2026 12:05:56 GMT | The Ultimate Guide to Security Vulnerability Assessments | Digital Duffer | [Read More](https://medium.com/p/3b01750d033a) |
+| Sun, 26 Apr 2026 12:04:18 GMT | The Great IT Reset | Aditya Baghel | [Read More](https://medium.com/p/86f345fe9a7e) |
 | Sun, 26 Apr 2026 11:52:18 GMT | Why We Are Insincere | Felix Weth | [Read More](https://medium.com/p/1025571f1c59) |
 | Sun, 26 Apr 2026 11:49:53 GMT | Day 68: Agentic AI and the New Frontier of Cyber Trust — what to note | LAKSHMI VENKATESH | [Read More](https://medium.com/p/24a956c536bc) |
 | Sun, 26 Apr 2026 11:39:49 GMT | How I Built an Automated Subdomain Monitor That Texts Me Every Time a Company Adds a New Asset. | Krithick | [Read More](https://medium.com/p/e7ce18130407) |
@@ -93,23 +113,3 @@ A practical guide for penetration testers and bug… | Muzammil khan | [Read Mor
 | Sun, 26 Apr 2026 04:45:25 GMT | How to Land a High-Paying Cybersecurity Job (Step-by-Step Career Switch Guide) | Zeeshan Masood Keyani | [Read More](https://medium.com/p/aff01d6b8dea) |
 | Sun, 26 Apr 2026 04:44:02 GMT | ##  The Paradigm Shift: Why AI is the End of Manual Cybersecurity (and What Replaces It) | Jagan J gowda | [Read More](https://medium.com/p/a8d0440fea7f) |
 | Sun, 26 Apr 2026 04:28:54 GMT | Wiz Cloud Security CTF — Perimeter Leak: Chaining SSRF with Credential Theft | Aditya | [Read More](https://medium.com/p/2472b76b3ba1) |
-| Sun, 26 Apr 2026 03:51:10 GMT | How I Actually Hunt — The Ghostyjoe™ Workflow | ghostyjoe | [Read More](https://medium.com/p/8e339c757f15) |
-| Sun, 26 Apr 2026 03:16:41 GMT | Sprint 8, Week 2: Full Commit (Professor Dungo Is Out. Doctoral Student Is In.) | Al Dungo | [Read More](https://medium.com/p/8e1bbd611078) |
-| Sun, 26 Apr 2026 03:06:21 GMT | Flag Mastery: The Flags That Run Every Engagement | Roshan Rajbanshi | [Read More](https://medium.com/p/5468d7a2b6ce) |
-| Sun, 26 Apr 2026 03:03:42 GMT | How A Simple Bug That Refused to Die, Paid Twice. | kjulius | [Read More](https://medium.com/p/80752e4d5ec5) |
-| Sun, 26 Apr 2026 03:03:33 GMT | The Case Against Voting Machines in Ontario Elections | Charles Scholx | [Read More](https://medium.com/p/6cb083622f40) |
-| Sun, 26 Apr 2026 03:00:42 GMT | From Memory Dump to Attack Story: Building DeepProbe v2 | Purple Security | [Read More](https://medium.com/p/0c48d7476815) |
-| Sun, 26 Apr 2026 03:00:27 GMT | Hacking into Eternal.com - Hackerone | StvRoot | [Read More](https://medium.com/p/f6600683ee47) |
-| Sun, 26 Apr 2026 02:57:07 GMT | I Tried to Social Engineer My Friends (With Permission) — Every Single One Fell For It | Satyam Pathania | [Read More](https://medium.com/p/baaf0a73d84e) |
-| Sun, 26 Apr 2026 02:45:56 GMT | Querier-HackTheBox-Medium-OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/40a4f9d5678d) |
-| Sun, 26 Apr 2026 02:11:03 GMT | How to Add a Local LLM to Your AI SOC Analyst (Without Buying a GPU) | SOCFortress | [Read More](https://medium.com/p/9459e251bfd8) |
-| Sun, 26 Apr 2026 02:09:05 GMT | Critical Bugs: how I found critical bugs without any effort | Albertstive | [Read More](https://medium.com/p/601bccd41b9e) |
-| Sun, 26 Apr 2026 01:57:11 GMT | Rekuway IDN AI Presented to the Cybersecurity Community in Campo Grande, Brazil | Rekuway | [Read More](https://medium.com/p/bc725a40e67e) |
-| Sun, 26 Apr 2026 01:52:29 GMT | DNS in Detail: The Internet’s Address Book Explained | Jonathan Sanfer | [Read More](https://medium.com/p/e17c2b113bfa) |
-| Sun, 26 Apr 2026 01:38:05 GMT | Some Logic Bugs in Email Handling | Mahmoud Farag | [Read More](https://medium.com/p/72cd7d615412) |
-| Sun, 26 Apr 2026 01:31:01 GMT | Frontend Security - What Your Browser Is Quietly Protecting You From | Yogesh Yadav | [Read More](https://medium.com/p/f6797b5445d6) |
-| Sun, 26 Apr 2026 01:29:51 GMT | A 12-Year-Old Flaw, an AI, and Root Access: What CVE-2026–41651 Says About Linux Security | Root & Secure | [Read More](https://medium.com/p/e22cbedcb978) |
-| Sun, 26 Apr 2026 01:14:58 GMT | The AI Security Debt: Why Your “Wrapper” App is a Liability | Umashankara Kalaiah | [Read More](https://medium.com/p/18a1692f1226) |
-| Sun, 26 Apr 2026 01:13:30 GMT | How to Deploy Devices with Microsoft Intune (Step-by-Step) | Allan Banday | [Read More](https://medium.com/p/83583605f01e) |
-| Sun, 26 Apr 2026 01:11:35 GMT | Can You Capture the Flag? — A Beginner’s Journey Into CTF Encoding Challenges | NullxCipher | [Read More](https://medium.com/p/ea51bb89f829) |
-| Sun, 26 Apr 2026 01:08:01 GMT | Prompt Injection is the New SQL Injection | Umashankara Kalaiah | [Read More](https://medium.com/p/044c0ae15cbe) |
