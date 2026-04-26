@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 02:11:03 GMT | How to Add a Local LLM to Your AI SOC Analyst (Without Buying a GPU) | SOCFortress | [Read More](https://medium.com/p/9459e251bfd8) |
+| Sun, 26 Apr 2026 02:09:05 GMT | Critical Bugs: how I found critical bugs without any effort | Albertstive | [Read More](https://medium.com/p/601bccd41b9e) |
+| Sun, 26 Apr 2026 01:57:11 GMT | Rekuway IDN AI Presented to the Cybersecurity Community in Campo Grande, Brazil | Rekuway | [Read More](https://medium.com/p/bc725a40e67e) |
+| Sun, 26 Apr 2026 01:52:29 GMT | DNS in Detail: The Internet’s Address Book Explained | Jonathan Sanfer | [Read More](https://medium.com/p/e17c2b113bfa) |
+| Sun, 26 Apr 2026 01:38:05 GMT | Some Logic Bugs in Email Handling | Mahmoud Farag | [Read More](https://medium.com/p/72cd7d615412) |
+| Sun, 26 Apr 2026 01:31:01 GMT | Frontend Security - What Your Browser Is Quietly Protecting You From | Yogesh Yadav | [Read More](https://medium.com/p/f6797b5445d6) |
+| Sun, 26 Apr 2026 01:29:51 GMT | A 12-Year-Old Flaw, an AI, and Root Access: What CVE-2026–41651 Says About Linux Security | Root & Secure | [Read More](https://medium.com/p/e22cbedcb978) |
+| Sun, 26 Apr 2026 01:14:58 GMT | The AI Security Debt: Why Your “Wrapper” App is a Liability | Umashankara Kalaiah | [Read More](https://medium.com/p/18a1692f1226) |
+| Sun, 26 Apr 2026 01:13:30 GMT | How to Deploy Devices with Microsoft Intune (Step-by-Step) | Allan Banday | [Read More](https://medium.com/p/83583605f01e) |
+| Sun, 26 Apr 2026 01:11:35 GMT | Can You Capture the Flag? — A Beginner’s Journey Into CTF Encoding Challenges | NullxCipher | [Read More](https://medium.com/p/ea51bb89f829) |
+| Sun, 26 Apr 2026 01:08:01 GMT | Prompt Injection is the New SQL Injection | Umashankara Kalaiah | [Read More](https://medium.com/p/044c0ae15cbe) |
+| Sun, 26 Apr 2026 01:00:34 GMT | Structuring Data on Cryptoassets and Artificial Intelligence in the Brazilian Context | Jaison Sfogia Ricardo | [Read More](https://medium.com/p/50fb6901400e) |
+| Sun, 26 Apr 2026 00:28:29 GMT | Your Dockerfile is a Liability. Docker Scout + DHI Makes It an Asset. | SHUBHENDU SHUBHAM | [Read More](https://medium.com/p/951c39ca8403) |
+| Sun, 26 Apr 2026 00:26:22 GMT | Machine Fallacy | Arjun Sarkar | [Read More](https://medium.com/p/35bbc81e0492) |
+| Sun, 26 Apr 2026 00:13:56 GMT | VIP99 Security, Fair Play & Player Protection Commitment | VIP99 Australia Official | [Read More](https://medium.com/p/877afc08d934) |
+| Sun, 26 Apr 2026 00:02:32 GMT | Lian_Yu Write up | Moussa Toure | [Read More](https://medium.com/p/1e4fa2562cc4) |
+| Sat, 25 Apr 2026 23:55:18 GMT | “Pay us Or we leak everything.” | Daniel Onwi | [Read More](https://medium.com/p/2295a541df2e) |
+| Sat, 25 Apr 2026 23:44:04 GMT | The Female Architects of the UAE’s Green Revolution | Miguel Morales | [Read More](https://medium.com/p/41c6b683d375) |
 | Sat, 25 Apr 2026 23:40:20 GMT | Ehxb - Password Spraying Attacks on AD | Ehxb | [Read More](https://medium.com/p/46607fc4781b) |
 | Sat, 25 Apr 2026 23:33:35 GMT | The 5 OSINT Mistakes You Don’t Want To Make | Investigator515 | [Read More](https://medium.com/p/f98188880993) |
 | Sat, 25 Apr 2026 23:23:58 GMT | How to Avoid Hardcoding API Keys in mcp.json | Yoshiyuki Watanabe | [Read More](https://medium.com/p/b129a8306132) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 17:00:43 GMT | What Is an Event Courier — and Why Does Your London Event Need One? | waeventservices.co.uk/ | [Read More](https://medium.com/p/d6714f70549c) |
 | Sat, 25 Apr 2026 16:57:48 GMT | You’re Probably Writing Insecure JavaScript. | Mr Zouraiz | [Read More](https://medium.com/p/7577356e56a3) |
 | Sat, 25 Apr 2026 16:47:08 GMT | Dark Web Leakage Diarisis | Nyx0r | [Read More](https://medium.com/p/d7070f3f760f) |
-| Sat, 25 Apr 2026 16:46:05 GMT | HackTheBox — TwoMillion: A Complete Walkthrough | Yogeshwar Peela | [Read More](https://medium.com/p/29e0e109dc3c) |
-| Sat, 25 Apr 2026 16:44:42 GMT | How the Internet Works: Simple Explanation for Cybersecurity Beginners | Siri Chandana | [Read More](https://medium.com/p/db1100901cb3) |
-| Sat, 25 Apr 2026 16:44:17 GMT | Penetration Testing on OCI: What Oracle Actually Allows | Tokishi | [Read More](https://medium.com/p/0bc979cc6ba5) |
-| Sat, 25 Apr 2026 16:43:10 GMT | Unauthenticated API Field Bypass — Leaking Internal Scores, Enterprise Data & User PII. | Krithick | [Read More](https://medium.com/p/5b695be10897) |
-| Sat, 25 Apr 2026 16:40:13 GMT | Securing AI Systems - TryHackMe | Binish Alamgir | [Read More](https://medium.com/p/d72667f863ca) |
-| Sat, 25 Apr 2026 16:37:21 GMT | A Beginner’s Guide to Evading Modern Windows Defenses | sh1nz3r | [Read More](https://medium.com/p/c660598c588f) |
-| Sat, 25 Apr 2026 16:31:45 GMT | What LinkedIn Can Learn From Your Browser Extensions (And How I Blocked It) | Avivvino | [Read More](https://medium.com/p/4e1acf984cdb) |
-| Sat, 25 Apr 2026 16:30:42 GMT | How I Locked a Victim Out of Their Own Account — Before They Even Signed Up | BugWraith (Lokesh) | [Read More](https://medium.com/p/3ff6cca6e1eb) |
-| Sat, 25 Apr 2026 16:23:06 GMT | Defender for Identity Auditing Explained: Directory Services, GPO Pitfalls, and the New v3.x | Defend Microsoft365 now! | [Read More](https://medium.com/p/92bd9b315b94) |
-| Sat, 25 Apr 2026 16:20:13 GMT | ContAInment - TryHackMe | Binish Alamgir | [Read More](https://medium.com/p/c87f288b0b87) |
-| Sat, 25 Apr 2026 16:10:28 GMT | Top 10 Phishing Attacks in Cybersecurity (Meaning, Types, Examples & Prevention) | Anjali Kashyap | [Read More](https://medium.com/p/5593fab29c93) |
-| Sat, 25 Apr 2026 16:06:01 GMT | TWENTY MINUTES | Tami | [Read More](https://medium.com/p/6c0f2eb176ed) |
-| Sat, 25 Apr 2026 16:04:10 GMT | Token Exchange vs User Impersonation in Keycloak | Fikih Firmansyah | [Read More](https://medium.com/p/7aad28d1b909) |
-| Sat, 25 Apr 2026 15:54:27 GMT | AirSnitch: The Silent Wi-Fi Threat Turning Everyday Devices Into Listening Posts | Yohannes Belay | [Read More](https://medium.com/p/b61eff3a05f7) |
-| Sat, 25 Apr 2026 15:48:05 GMT | Enterprise Vulnerability Management: A Strategic Framework for Governance, Security, and Compliance | Petersmuditha | [Read More](https://medium.com/p/491a66716eec) |
-| Sat, 25 Apr 2026 15:47:06 GMT | “' OR 1=1 --” Is Blocked? Good. You’re Finally Ready to Find Real SQL Injection | Pradeeptadi | [Read More](https://medium.com/p/16919965043c) |
-| Sat, 25 Apr 2026 15:42:56 GMT | Kioptrix Level 1 | Heathentwitch | [Read More](https://medium.com/p/7110fc5f6f72) |
-| Sat, 25 Apr 2026 15:25:37 GMT | Active Directory Lab Setup for Penetration Testing Using PowerShell | Basithmohammedali | [Read More](https://medium.com/p/8a96e1299de8) |
