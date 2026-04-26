@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 26 Apr 2026 07:32:23 GMT | Free Demo Cyber Security Class — What You Will Learn? | Sakshidigitalmarketingitaccura | [Read More](https://medium.com/p/17aa87391866) |
+| Sun, 26 Apr 2026 07:23:43 GMT | How Banks Catch Fraudsters Using Data | Aryan Mishra | [Read More](https://medium.com/p/1c2c1b382676) |
+| Sun, 26 Apr 2026 07:17:57 GMT | How to Get Hired After Completing Your SIA Training Course | Getyoursia | [Read More](https://medium.com/p/6cf3ae721aeb) |
+| Sun, 26 Apr 2026 07:11:53 GMT | Dark Web Myths vs. Reality: A Computer Science Student’s Breakdown | Standecruise | [Read More](https://medium.com/p/f685e35d9bfc) |
+| Sun, 26 Apr 2026 06:39:03 GMT | A Cybersecurity Degree Is Not Enough: Here’s What Actually Gets You Hired | Funmilola Fagbola | [Read More](https://medium.com/p/6467a89cdb5a) |
+| Sun, 26 Apr 2026 06:25:48 GMT | The Deepfake Alibi: When Criminals Use AI to Prove They Were Never There | Travis Ray Caverhill | [Read More](https://medium.com/p/c16c12767270) |
+| Sun, 26 Apr 2026 06:25:26 GMT | Digital Hostage: How Attackers Use AI to Blackmail with Synthetic Evidence | Travis Ray Caverhill | [Read More](https://medium.com/p/ec307d22e14c) |
+| Sun, 26 Apr 2026 06:22:17 GMT | A Day in the Life of a SOC Analyst (DLP-Focused): From Alerts to Architecture | rootRS7 | [Read More](https://medium.com/p/d69d22a68e8f) |
+| Sun, 26 Apr 2026 06:13:03 GMT | When a CTF Loses Its Integrity | Zeous | [Read More](https://medium.com/p/a7640601a0c9) |
+| Sun, 26 Apr 2026 06:09:32 GMT | The Dark Side of Free WiFi: How Your Data Gets Stolen | Paritosh | [Read More](https://medium.com/p/577b6c1bacb0) |
+| Sun, 26 Apr 2026 06:05:34 GMT | Fast16 as Organizational Forensics | Hiroki Tomimatsu | [Read More](https://medium.com/p/c29055c5654b) |
+| Sun, 26 Apr 2026 06:03:12 GMT | When to Do Penetration Testing Before Launch (Most Teams Get It Wrong) | Pentest_Testing_Corp | [Read More](https://medium.com/p/5b77801a5ad8) |
+| Sun, 26 Apr 2026 05:49:13 GMT | TryHackMe Blue Walkthrough — MS17–010 (EternalBlue) Exploitation & SOC Analysis | Rajeesh R L | [Read More](https://medium.com/p/4e51febc8b2c) |
+| Sun, 26 Apr 2026 05:39:09 GMT | What is DHCP? Dynamic Host Configuration Protocol Explained with Security | ciphernode | [Read More](https://medium.com/p/147e679c2173) |
 | Sun, 26 Apr 2026 05:37:10 GMT | Small Payload, Big Lesson — XSS Filter Evasion | Haider amin | [Read More](https://medium.com/p/3e2cdc7d05c0) |
 | Sun, 26 Apr 2026 05:13:17 GMT | HttpOnly — Your First Line of Defense | Patrik Duch | [Read More](https://medium.com/p/ad2a8e150af2) |
 | Sun, 26 Apr 2026 05:02:55 GMT | n-Local Classical Networks —  (Variational Quantum Optimisation of Nonlocality in Noisy Quantum… | Zhilton | [Read More](https://medium.com/p/88126eb5fb04) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 25 Apr 2026 19:44:00 GMT | Trust Shatters, Pride Withdraws. | Inscribed Echoes. | [Read More](https://medium.com/p/a5d4110da025) |
 | Sat, 25 Apr 2026 19:36:01 GMT | How I Broke my Starknet Staking Contract with Simple Math: A Lesson on Rounding Errors | rdin777 | [Read More](https://medium.com/p/6f00f00f7889) |
 | Sat, 25 Apr 2026 19:34:23 GMT | ¡Ay abril…! | Ana | [Read More](https://medium.com/p/b77512e7d4e6) |
-| Sat, 25 Apr 2026 19:29:59 GMT | Security for apps | Mijaindholiya | [Read More](https://medium.com/p/c4aaea11134a) |
-| Sat, 25 Apr 2026 19:29:55 GMT | We Didn’t Just Build a Project. We Built Something That Matters. | Aadit Ajay | [Read More](https://medium.com/p/76689444b45f) |
-| Sat, 25 Apr 2026 19:23:31 GMT | The Death of Bugs, and Their Rebirth | Estakisha | [Read More](https://medium.com/p/cce64086df4c) |
-| Sat, 25 Apr 2026 19:17:03 GMT | How is your customer service? | Jeremy Dickey | [Read More](https://medium.com/p/53c93f191d63) |
-| Sat, 25 Apr 2026 19:15:31 GMT | Tolong Jamah Aku Dibentuk Paling Telanjang | س | [Read More](https://medium.com/p/d56221976a75) |
-| Sat, 25 Apr 2026 19:01:01 GMT | AI Just Found a 27-Year-Old Bug in One of the World’s Most Secure Operating Systems. | Wahidur Rahman | [Read More](https://medium.com/p/b489bea53390) |
-| Sat, 25 Apr 2026 18:59:42 GMT | The Payment Card Industry Data Security Standard (PCI-DSS) | Musa Yusuf Magoban | [Read More](https://medium.com/p/1f2275ea2f94) |
-| Sat, 25 Apr 2026 18:53:24 GMT | The Capybara in the Room: 93.9% Accuracy, 181 Exploits — Inside Claude Mythos | R. Thompson (PhD) | [Read More](https://medium.com/p/afb56d04d093) |
-| Sat, 25 Apr 2026 18:52:40 GMT | TryHackMe: ItsyBitsy - Write-Up | Ash T | [Read More](https://medium.com/p/e9fbf0907a94) |
-| Sat, 25 Apr 2026 18:52:03 GMT | The Illusion of Security: Why Your Frontend Is a Gift to Hackers | Vasyl Oliinyk | [Read More](https://medium.com/p/a8b0397dee97) |
-| Sat, 25 Apr 2026 18:49:12 GMT | XSS in 2026: Why dangerouslySetInnerHTML Is a Loaded Gun | Vasyl Oliinyk | [Read More](https://medium.com/p/f63c5e31646f) |
-| Sat, 25 Apr 2026 18:49:05 GMT | The Importance of Horizontal Security in the AI Arena | Eray Yavuz | [Read More](https://medium.com/p/20a93c80dc2f) |
-| Sat, 25 Apr 2026 18:31:53 GMT | Android Application Penetration Testing: A Complete Phase-Wise Methodology with Tools &… | ArunKumarBalivada | [Read More](https://medium.com/p/2ca8ba6c01e0) |
-| Sat, 25 Apr 2026 18:21:34 GMT | Setting Up and Managing a Microsoft Entra ID Tenant (Hands-on IT Walkthrough) | Richard Akintola | [Read More](https://medium.com/p/420d655c9edf) |
