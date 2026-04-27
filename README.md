@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Apr 2026 06:13:57 GMT | TASAF- Telecom AI Secure Adoption Framework | Harsh Vardhan Singh | [Read More](https://medium.com/p/c448735d42c7) |
+| Mon, 27 Apr 2026 06:09:12 GMT | Top IT Infrastructure Management Services - Secure and Scalable Solutions | Thiripathiv | [Read More](https://medium.com/p/bd450bd39701) |
+| Mon, 27 Apr 2026 06:08:16 GMT | Your Network Has Been Generating a Dataset for Years. Nobody Told You to Query It. | Umar T | [Read More](https://medium.com/p/a626de5946e0) |
+| Mon, 27 Apr 2026 06:05:19 GMT | OWASP Top 10 for Developers (2026 Edition) — How to Actually Fix the Most Dangerous Web… | Mahdi SHamlou | [Read More](https://medium.com/p/1aad7318324d) |
+| Mon, 27 Apr 2026 06:02:48 GMT | The EU Digital Services Act and Social media regulation: Why it is necessary | Yusuph Kileo | [Read More](https://medium.com/p/7b125f0290aa) |
+| Mon, 27 Apr 2026 05:55:43 GMT | Best Cyber Security Training in Hyderabad with Placement Assistance | Saikiranversionit | [Read More](https://medium.com/p/59a9b062ec7a) |
+| Mon, 27 Apr 2026 05:42:36 GMT | Cybersecurity Laws in India: A Simple Explanation | Imperium Digital Network Pvt Ltd. | [Read More](https://medium.com/p/daa14552a1ed) |
+| Mon, 27 Apr 2026 05:38:47 GMT | UNC6692 “Snow” Malware Suite — Deep Network Compromise via Helpdesk Impersonation -(NCTAG SERIES) | Michael I Ransier | [Read More](https://medium.com/p/581fb02b9bba) |
+| Mon, 27 Apr 2026 05:35:18 GMT | Android Lockdown — What It Really Means for Hackers & Developers (Part 2) | ghostyjoe | [Read More](https://medium.com/p/436ad6ad78a8) |
+| Mon, 27 Apr 2026 05:30:25 GMT | I Asked Claude Cowork to Audit My Files. It Found a Security Risk First. | Gauraw Singh | [Read More](https://medium.com/p/8e6a2541bdd1) |
+| Mon, 27 Apr 2026 05:29:02 GMT | Kata Containers vs KubeVirt | Damini Bansal | [Read More](https://medium.com/p/b3473310146f) |
+| Mon, 27 Apr 2026 05:22:12 GMT | LLMNR Poisoning in Active Directory: Capturing and Cracking NTLM Hashes | Basithmohammedali | [Read More](https://medium.com/p/4009fd76af4a) |
+| Mon, 27 Apr 2026 05:21:01 GMT | Not everyone deserves your dirt | Prasham ‍↔️ | [Read More](https://medium.com/p/8f91ce76ecdf) |
+| Mon, 27 Apr 2026 05:17:43 GMT | Crypto Exchange vs Crypto Wallet: Understanding the Key Differences and Choosing the Right Setup | ARMUP | [Read More](https://medium.com/p/bc5972007d60) |
+| Mon, 27 Apr 2026 05:17:31 GMT | Free Antivirus — Karma Antivirus | Sachin Nair | [Read More](https://medium.com/p/cbefb0897ebf) |
+| Mon, 27 Apr 2026 05:14:22 GMT | How to Detect Prompt Injection in Your LLM Agent — Python, 5 Minutes | AgentShield | [Read More](https://medium.com/p/723d0c4ca6a6) |
+| Mon, 27 Apr 2026 05:10:12 GMT | Broken Access Control via Misconfigured PostgreSQL RLS Pada Web booking.hairnerds.id | Fiqram Akmal | [Read More](https://medium.com/p/86c281478e61) |
+| Mon, 27 Apr 2026 05:05:07 GMT | What are the best certs in demand 2026? | Aditya | [Read More](https://medium.com/p/1b8251d3bcb0) |
+| Mon, 27 Apr 2026 05:03:03 GMT | Android User Alert: Are Your Devices Exposed? Government Raises Security Concern | Preethusan | [Read More](https://medium.com/p/f130672f9b21) |
+| Mon, 27 Apr 2026 04:49:21 GMT | I got scammed online!! | Sujalsaxena | [Read More](https://medium.com/p/3427fd5ac219) |
+| Mon, 27 Apr 2026 04:42:53 GMT | Risk-Based Network Penetration Testing and MITRE ATT&CK Mapping on a Vulnerable Linux Server | Muhammad Rezky Amri | [Read More](https://medium.com/p/fa8d5d430ee4) |
+| Mon, 27 Apr 2026 04:37:44 GMT | When Email Speaks to Machines | KimS | [Read More](https://medium.com/p/5505922bb130) |
+| Mon, 27 Apr 2026 04:32:45 GMT | My Experience Setting Up a SOC: Detecting SSH Attacks and Monitoring Files with Wazuh | Viona Salsabila Andini | [Read More](https://medium.com/p/1999db1dcc3c) |
+| Mon, 27 Apr 2026 04:31:01 GMT | API Security Testing REST, GraphQL, Hidden Endpoints: Modern Apps Ki Backbone Ko Hack Karo! | Hacker MD | [Read More](https://medium.com/p/0e59e6847316) |
+| Mon, 27 Apr 2026 04:19:49 GMT | Cisco Ethical Hacker notes — part3 | ExploitHunter | [Read More](https://medium.com/p/822418a51fbf) |
+| Mon, 27 Apr 2026 03:57:00 GMT | Security Vulnerabilities in Nepal’s e-GP System: A Critical Analysis and Roadmap for Reform | Atriforgetechnologies | [Read More](https://medium.com/p/1a2c418cd35b) |
+| Mon, 27 Apr 2026 03:31:01 GMT | Your Phone QR Code Scanner Has Worked Since 2017 | Andy Lee | [Read More](https://medium.com/p/dd0d654e05d2) |
 | Mon, 27 Apr 2026 03:05:14 GMT | The Silicon Sultanate: Decoding the AI-Driven Metamorphosis of Malaysian Life and Digital Leisure | Andrew - mega888ai | [Read More](https://medium.com/p/89d8cb8e59a2) |
 | Mon, 27 Apr 2026 02:59:48 GMT | GitTools: Dumping Exposed .git directory | Ravinder Singh | [Read More](https://medium.com/p/87df2de8de0a) |
 | Mon, 27 Apr 2026 02:58:25 GMT | Crypto Asset Recovery: Forensic Audits and the "Success Fee" Model | Asset Recovery Protocol | [Read More](https://medium.com/p/558758dec7cc) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 26 Apr 2026 19:35:44 GMT | The Quiet Transformation of Cybersecurity | Denys Shchur | [Read More](https://medium.com/p/34efec002a16) |
 | Sun, 26 Apr 2026 19:34:09 GMT | I Built an Open-Source Security Scanner for MCP Servers. Here’s Why. | Adam Dudley | [Read More](https://medium.com/p/f2842acfbc64) |
 | Sun, 26 Apr 2026 19:23:38 GMT | Where the Shade Ends and Healing Begins | Bloomb*tch | [Read More](https://medium.com/p/30dab341b329) |
-| Sun, 26 Apr 2026 19:19:09 GMT | 12:04:21.882 POST /login DATA: username=b@vaultbank.io&password=MyBank#2024! | CAISD | [Read More](https://medium.com/p/6d43f8a455c2) |
-| Sun, 26 Apr 2026 19:16:26 GMT | Stop Giving Away Your Real Email: Why Secure Temp Mail is Your Best Defense Against Spam in 2026 | TM-Mail.com | [Read More](https://medium.com/p/91bc14080c5b) |
-| Sun, 26 Apr 2026 19:16:07 GMT | Opérationnalisation de la threat intelligence transfrontalière : vers une réponse aux incidents… | Noctu@edu | [Read More](https://medium.com/p/17cd6707c1f8) |
-| Sun, 26 Apr 2026 19:11:32 GMT | Ever Rented Out Your LinkedIn Account? | Rebecca Ihenyen | [Read More](https://medium.com/p/02594b81bd1f) |
-| Sun, 26 Apr 2026 19:01:26 GMT | Write-up Oil to the moon by LannaSec | Permsangin | [Read More](https://medium.com/p/2d256a3573eb) |
-| Sun, 26 Apr 2026 19:01:01 GMT | Your Local AI Security Agent for Recon, Analysis, and Beyond!!! | cybrNK | [Read More](https://medium.com/p/e63f2aecc8a3) |
-| Sun, 26 Apr 2026 18:59:04 GMT | How a single SMS made me rethink how information should exist | David Erez | [Read More](https://medium.com/p/6e0d97bf558b) |
-| Sun, 26 Apr 2026 18:58:56 GMT | JWT or Clerk? Choosing the Right Authentication for Your Next Project | Akil Dikshan | [Read More](https://medium.com/p/681f2aa763a7) |
-| Sun, 26 Apr 2026 18:42:48 GMT | API Gateways in AI Systems | Amal Manzoor | [Read More](https://medium.com/p/3cfe88275c2f) |
-| Sun, 26 Apr 2026 18:42:12 GMT | Siber Güvenliğin Görünmez Cephesi: İnsan Psikolojisi ve Dijital Manipülasyon | Eyüp Çeçen | [Read More](https://medium.com/p/a7d34783f5fc) |
-| Sun, 26 Apr 2026 18:41:51 GMT | TRS4R3N Sentinal AI SOC Behavior | Serhan Kırca | [Read More](https://medium.com/p/d8124dea0e02) |
-| Sun, 26 Apr 2026 18:39:48 GMT | Week 4 of Security Research & Threat Intelligence | Muhammad Uzair | [Read More](https://medium.com/p/3a108e914dcf) |
-| Sun, 26 Apr 2026 18:38:23 GMT | Exploiting Misconfigured GraphQL | Ghost | [Read More](https://medium.com/p/acd0da47ed51) |
-| Sun, 26 Apr 2026 18:37:48 GMT | From One Workstation to Domain: Dumping LSASS Credentials in a Home Lab | Will Giles - Cybersecurity | [Read More](https://medium.com/p/a85c0b342066) |
-| Sun, 26 Apr 2026 18:37:35 GMT | Cybersecurity & the CIA Triad: The Foundation of Digital Protection | Mickeymouse | [Read More](https://medium.com/p/15f4d5f0522c) |
-| Sun, 26 Apr 2026 18:33:41 GMT | 10 Intriguing Cybersecurity Startup Ideas You Can Build as a Micro-SaaS: Rust Edition | John Muconto | [Read More](https://medium.com/p/acd1ef6c51ca) |
-| Sun, 26 Apr 2026 18:31:21 GMT | HTB — Perfection Machine | 0xEnzoSantana | [Read More](https://medium.com/p/57df438604a1) |
-| Sun, 26 Apr 2026 18:30:27 GMT | THM — light | 0xEnzoSantana | [Read More](https://medium.com/p/f3f4aef31643) |
-| Sun, 26 Apr 2026 18:29:02 GMT | Security by Design Under the CRA: What It Actually Means for Your Development Process | CRA Decoded | [Read More](https://medium.com/p/1a784d151997) |
-| Sun, 26 Apr 2026 18:18:04 GMT | BUG-BOUNTY SERIES 6: Google Dorking untuk Reconnaissance — Menggali Informasi Sensitif Secara… | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/611d1f390449) |
-| Sun, 26 Apr 2026 18:13:45 GMT | BUG-BOUNTY SERIES 5: Strategi Meningkatkan Skill dan Konsistensi dalam Bug Bounty Hunting | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/0cfe27a59bbf) |
-| Sun, 26 Apr 2026 18:05:59 GMT | I Found a Stored XSS in an API Explorer — Here’s Exactly How I Did It | Sada devre | [Read More](https://medium.com/p/2096dfc94753) |
-| Sun, 26 Apr 2026 18:00:55 GMT | AI Learns the Past — But Lives in the Future | Inside the Digital State | [Read More](https://medium.com/p/e4efe885d111) |
-| Sun, 26 Apr 2026 17:57:02 GMT | The Sovereign SOC: Why Indonesia Must Look Beyond the AI Hype Cycle | outofspace | [Read More](https://medium.com/p/f9a66f2d2646) |
-| Sun, 26 Apr 2026 17:50:02 GMT | The Dark Web: Myths, Reality, Risks, and Its Role in the Digital World | Vaishp | [Read More](https://medium.com/p/63cfb5744aa0) |
-| Sun, 26 Apr 2026 17:37:36 GMT | How I Turned a “Harmless” Self-XSS into a Full Account Takeover | Sada devre | [Read More](https://medium.com/p/50ff10244377) |
-| Sun, 26 Apr 2026 17:28:54 GMT | ICMP-GHOST / Pure Assembly x64 C2 Implant | JM00NJ | [Read More](https://medium.com/p/72553ff74626) |
