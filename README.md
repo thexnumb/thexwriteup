@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Apr 2026 23:42:38 GMT | How can I trace and recover my investment funds from a fake crypto investment company? | Susan Revara | [Read More](https://medium.com/p/f2287e3f38de) |
+| Mon, 27 Apr 2026 23:40:42 GMT | How to Secure MySQL Credentials in PHP (Complete Guide for Developers) | Katherine Petalio-Amar | [Read More](https://medium.com/p/5d717222375d) |
+| Mon, 27 Apr 2026 23:31:47 GMT | BSIDESCO 2026 CTF — Algunos Writeups y Experiencia | N0R37urn | [Read More](https://medium.com/p/04e82a3eb745) |
+| Mon, 27 Apr 2026 23:23:19 GMT | HTB USF CTF AI Shard-Council Writeup | Rpranaav | [Read More](https://medium.com/p/109fd6b5815d) |
+| Mon, 27 Apr 2026 23:22:34 GMT | The Cloud Security Blind Spot | B M Zahid ul Haque | [Read More](https://medium.com/p/11af03a6f3c9) |
+| Mon, 27 Apr 2026 23:14:23 GMT | Running an AI Agent on a VPS: Security-First Setup with OpenClaw, Hetzner & Telegram | Tim Daniel Walter | [Read More](https://medium.com/p/23f0ca37e43d) |
+| Mon, 27 Apr 2026 23:13:55 GMT | Why Trucking Companies in California Can’t Afford to Ignore Cargo Security | Matthew | [Read More](https://medium.com/p/7112060502a7) |
+| Mon, 27 Apr 2026 23:06:25 GMT | Exploiting AI agents to perform destructive actions — Portswigger | Berat Arslan | [Read More](https://medium.com/p/a6e645d92d39) |
+| Mon, 27 Apr 2026 22:54:37 GMT | A step-by-step guide to building a real-time HTTP anomaly detector using Python, deques, and… | olakunle kushehin | [Read More](https://medium.com/p/73ea6db405e9) |
 | Mon, 27 Apr 2026 22:51:57 GMT | Cybersecurity Trends Every Developer Should Know This Year | Auxle | [Read More](https://medium.com/p/30116e0ec943) |
 | Mon, 27 Apr 2026 22:47:10 GMT | ¿Es posible rastrear criptomonedas robadas? | Decode Help | [Read More](https://medium.com/p/c27bcd36aaad) |
 | Mon, 27 Apr 2026 22:38:59 GMT | How I Built a Real-Time Anomaly Detection Engine from Scratch | Iyanuoluwa Akinlalu | [Read More](https://medium.com/p/1785b5525bb1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Apr 2026 14:56:37 GMT | KSA Cybersecurity Compliance: From “Checking Boxes” to Security by Design + Continuous Assessment | Sahab Secure | [Read More](https://medium.com/p/07c54cd5e7f3) |
 | Mon, 27 Apr 2026 14:48:42 GMT | What Makes a DeFi Strategy Actually Sustainable? | Abhi Thakur | [Read More](https://medium.com/p/d08c9899ffad) |
 | Mon, 27 Apr 2026 14:45:10 GMT | HackTheBox — PingPong (Insane Windows): Walkthrough | J0K3R | [Read More](https://medium.com/p/327a391c824c) |
-| Mon, 27 Apr 2026 14:40:58 GMT | Walkthrough: Automating Security Scans: Using Lynis Auditing Software and OpenVAS | Daryl Brooks | [Read More](https://medium.com/p/71d8ede75e72) |
-| Mon, 27 Apr 2026 14:39:23 GMT | Real Users, Real Protection: Scam Alerts Success Stories | James Smith | [Read More](https://medium.com/p/f6d140a82a62) |
-| Mon, 27 Apr 2026 14:35:37 GMT | The Longest 72 Hours of Jake Morrison’s Life | Tomino Himuka | [Read More](https://medium.com/p/601428dc498a) |
-| Mon, 27 Apr 2026 14:34:46 GMT | PentesterClub AI Agent - Smarter Security Testing Workflow | Pentester Club | [Read More](https://medium.com/p/95b2861f18ec) |
-| Mon, 27 Apr 2026 14:32:58 GMT | Introduction to Active Directory | Smriti Jha | [Read More](https://medium.com/p/f675f2ba95c1) |
-| Mon, 27 Apr 2026 14:22:29 GMT | IDOR Chained To Missing Ratelimiting Leaded To ATO of Any User Account | D0NATEL00 | [Read More](https://medium.com/p/338d9f22aed2) |
-| Mon, 27 Apr 2026 14:18:30 GMT | TryHackMe — Recruit Write-up | KatchauBerg | [Read More](https://medium.com/p/ba4f388fb62d) |
-| Mon, 27 Apr 2026 13:57:18 GMT | When SSO Becomes a Master Key: The Hidden Security Risk of Azure Single Sign-On | H2bm | [Read More](https://medium.com/p/8adf17eecb3a) |
-| Mon, 27 Apr 2026 13:52:48 GMT | Laporan Struktur Data : Sorting | Cahyoadi | [Read More](https://medium.com/p/def37d374251) |
