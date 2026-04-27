@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Apr 2026 16:53:43 GMT | What AppSec Engineers Actually Do (and Why It Matters) | Mohamed AboElKheir | [Read More](https://medium.com/p/c33fe5242d44) |
+| Mon, 27 Apr 2026 16:50:37 GMT | LockBit vs. BSI: A Three-Day Showdown That Highlights the Importance of IT Service Conti | Nabila Khairun Nisa | [Read More](https://medium.com/p/753afe209746) |
+| Mon, 27 Apr 2026 16:45:44 GMT | Top 10 Scams of 2026: The Attacks That Don’t Look Like Scams Anymore | Travis Ray Caverhill | [Read More](https://medium.com/p/8756e0472449) |
+| Mon, 27 Apr 2026 16:44:21 GMT | The OAuth Wall That Kills Enterprise AI Agents (and How We Got Past It) | PhD Luis Dias | [Read More](https://medium.com/p/36e3e7f710e3) |
+| Mon, 27 Apr 2026 16:44:13 GMT | Vibe Security CTF — Full Walkthrough | Nikita Dhawan | [Read More](https://medium.com/p/b1e104f084cb) |
+| Mon, 27 Apr 2026 16:41:42 GMT | The $100 Bug Bounty Myth Why “No Experience Needed” Is Both a Lie and the Truth | R.H Rizvi | [Read More](https://medium.com/p/8ee223e27755) |
+| Mon, 27 Apr 2026 16:34:32 GMT | SonicWall TZ600 POE Review (2026): The Best PoE Firewall for SMBs and Branch Offices? | Jazz Cyber Shield | [Read More](https://medium.com/p/edd7b2cc37fe) |
+| Mon, 27 Apr 2026 16:33:24 GMT | Path Traversal — What the Attacker Sees, What the SOC Analyst Sees | Muhammad Essam (0xM4R7YR) | [Read More](https://medium.com/p/64aeda5e4f2b) |
+| Mon, 27 Apr 2026 16:31:01 GMT | Sanitizing vs Validating Input: The Security Difference Most Developers Miss | Natarajan C K | [Read More](https://medium.com/p/0bc2d267e3d2) |
+| Mon, 27 Apr 2026 16:29:00 GMT | Deleted Isn’t Gone: A Practitioner’s Guide to Data Sanitization | Vincent Do | [Read More](https://medium.com/p/559723cbd79c) |
+| Mon, 27 Apr 2026 16:26:04 GMT | Read JavaScript Lines Like Pro Hackers: A Practical Guide | Cybersectoworld | [Read More](https://medium.com/p/0ccf885aca72) |
+| Mon, 27 Apr 2026 16:22:08 GMT | Identity Attack: SIM Swapping & OTP Theft | Dr. Shashi Karhail | [Read More](https://medium.com/p/7a7dbbe40023) |
+| Mon, 27 Apr 2026 16:21:32 GMT | From Street Scrap to Hardware Recon: Reverse Engineering a T0337-V1 CCTV Camera Board | Aaronjjose | [Read More](https://medium.com/p/870606568ffb) |
+| Mon, 27 Apr 2026 16:21:11 GMT | AMOLATINA: The Technical Autopsy of a “Retention” Script | AKUMAAYORI | [Read More](https://medium.com/p/8e21b503c2cf) |
+| Mon, 27 Apr 2026 16:20:42 GMT | How AI-Powered Monitoring Is Protecting and Exposing Your Charlotte Business in 2026 | Paradise technologies Inc | [Read More](https://medium.com/p/82fb69485ea2) |
+| Mon, 27 Apr 2026 16:01:05 GMT | AI-Augmented Workforce: The Future of Smart Hiring and Staffing in 2026 | Xwtempsolutions | [Read More](https://medium.com/p/59662f8d4d8d) |
+| Mon, 27 Apr 2026 15:56:27 GMT | Best Confidential Document Bags for Sensitive Deliveries | Sofiamcmahon | [Read More](https://medium.com/p/d636b6ae04e2) |
+| Mon, 27 Apr 2026 15:51:08 GMT | Minimize E-commerce Risks: How to Scale with Multiple Merchant Accounts Safely | emma james | [Read More](https://medium.com/p/5dd7ddf27698) |
+| Mon, 27 Apr 2026 15:36:05 GMT | 5 Spring Boot Security Mistakes That Cost Developers Hours (and Companies Millions) | Rahul Soni | [Read More](https://medium.com/p/599d6248b7a3) |
+| Mon, 27 Apr 2026 15:33:58 GMT | Mastering Dropshipping: Scaling with Multiple Storefronts and Browserjet | emma james | [Read More](https://medium.com/p/38baa224a7bb) |
+| Mon, 27 Apr 2026 15:29:18 GMT | Self-worth gets tied to visible comforts [Moon in the 2nd] | Navagra | [Read More](https://medium.com/p/73986d08a3da) |
 | Mon, 27 Apr 2026 15:09:56 GMT | Operation Endgame (CTF Walkthrough) | ZeroDay-Security-Services | [Read More](https://medium.com/p/32b02724f15e) |
 | Mon, 27 Apr 2026 15:09:45 GMT | Attacktive Directory — Complete Professional Walkthrough | ZeroDay-Security-Services | [Read More](https://medium.com/p/a1b3b0582229) |
 | Mon, 27 Apr 2026 15:09:41 GMT | Unraveling a Network-Based Attack: TryHackMe First Shift CTF — Task 7: The Crown Jewel | Citadel Cybersec | [Read More](https://medium.com/p/cbf6077b0f1f) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Apr 2026 10:25:41 GMT | Satellites: The Invisible System You Depend On Every Second (Without Knowing It) | Iliass elalaoui | [Read More](https://medium.com/p/4a34165abac2) |
 | Mon, 27 Apr 2026 10:11:49 GMT | Reseller Hosting vs Shared Hosting: Key Differences | Janet Watson | [Read More](https://medium.com/p/0679bf24e7e7) |
 | Mon, 27 Apr 2026 10:04:59 GMT | The Quiet Pride of Being Capable | Rosa Diaz-Casal | [Read More](https://medium.com/p/91340502088c) |
-| Mon, 27 Apr 2026 10:01:37 GMT | The Five Things AI Coding Tools Forget to Secure | Kyriakos Pelekanos | [Read More](https://medium.com/p/344db569d1b3) |
-| Mon, 27 Apr 2026 09:48:21 GMT | How to Get Your Resume Shortlisted by Top MNCs: The Power of a Certified Summer Internship Delhi… | Varun Papnai | [Read More](https://medium.com/p/efdbcb4eaa3c) |
-| Mon, 27 Apr 2026 09:47:47 GMT | Event Security in Australia: Managing Risk While Creating Safe, Enjoyable Experiences | SecurityInsightsAU | [Read More](https://medium.com/p/e87518409f2b) |
-| Mon, 27 Apr 2026 09:45:35 GMT | Why Tangkasnet Continues to Attract Online Gaming Players Today | Kenzoelockie | [Read More](https://medium.com/p/3c6bf408259e) |
-| Mon, 27 Apr 2026 09:44:44 GMT | UMD CTF 2026 Write-up: Open-Insight | Amr Khaled | [Read More](https://medium.com/p/c99948656e72) |
-| Mon, 27 Apr 2026 09:44:22 GMT | Madness — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/a5f6a4d6e88c) |
-| Mon, 27 Apr 2026 09:39:12 GMT | Top Cyber Security Tools Every Beginner Should Learn in 2026 | Ntech Global Solutions | [Read More](https://medium.com/p/fb115101b5f4) |
-| Mon, 27 Apr 2026 09:36:44 GMT | And when I’m finally chosen, I mourn for the better choice they could’ve made | iknowhowtowrite | [Read More](https://medium.com/p/c46fbed14812) |
-| Mon, 27 Apr 2026 09:30:48 GMT | I Let an AI Pentest a Target for Me. | Humairah Adamu Sidi | [Read More](https://medium.com/p/c3d069dac780) |
-| Mon, 27 Apr 2026 09:30:17 GMT | I Found Cleartext Passwords and Stolen Files Inside 45,000 Network Packets | Sukansh | [Read More](https://medium.com/p/9c61ac0caf75) |
-| Mon, 27 Apr 2026 09:26:30 GMT | Şirket Ağınızın Gizli Kahramanı: Network Access Control (NAC) Nedir? | Emin Başar | [Read More](https://medium.com/p/0d4414f81898) |
-| Mon, 27 Apr 2026 09:20:10 GMT | Agentic AI Security in 2026: Governance, Risk Management and Engineering Controls for the… | Sayan Raha | [Read More](https://medium.com/p/3cd926345cd4) |
-| Mon, 27 Apr 2026 09:13:17 GMT | Step into the world of cybersecurity with Offenso Hackers Academy, Kerala’s leading training hub… | Archasalimon | [Read More](https://medium.com/p/e29a110cead3) |
-| Mon, 27 Apr 2026 09:10:13 GMT | Understanding Facial Recognition Systems in Modern Security Environments | Ethan Walker | [Read More](https://medium.com/p/00e06d42a938) |
-| Mon, 27 Apr 2026 09:01:14 GMT | Test Before Hackers Do: Advanced Penetration Testing for Strong Cybersecurity | Black Lock | [Read More](https://medium.com/p/5bdcc7f41bfe) |
-| Mon, 27 Apr 2026 08:54:22 GMT | Mastering CVE, CWE, CVSS, and NVD: A Practical Guide for Modern Cybersecurity | Guillaume Forget | [Read More](https://medium.com/p/161f12434e9b) |
-| Mon, 27 Apr 2026 08:46:10 GMT | Operation Golden Phantom: Analyzing the Malgent Trojan Supply Chain Attack | Tun Tun Naing | [Read More](https://medium.com/p/98ea28f4cb5d) |
-| Mon, 27 Apr 2026 08:43:53 GMT | What Happens to Your Laptop Data When You Sell It? (Why Data Wiping Service is a Must) | Shreya Loyal | [Read More](https://medium.com/p/ef8cc0d5a03d) |
-| Mon, 27 Apr 2026 08:43:35 GMT | Exploring ‘GF’ tool and configuration gf-patterns for Identifying Vulnerabilities: | Hafizur Rahman Omar | [Read More](https://medium.com/p/c8cac2f58ac1) |
-| Mon, 27 Apr 2026 08:43:00 GMT | Why Most Museums Still Struggle With Crowd Control (And How Digital Trust Fixes It) | EveryTicket – Museum Ticketing Software | [Read More](https://medium.com/p/87f1d838377d) |
-| Mon, 27 Apr 2026 08:42:33 GMT | Cybersecurity Agency Excellence: How Sentry Cyber Protects Modern Businesses in a Digital-First… | Sentry Cyber | [Read More](https://medium.com/p/e6366f4375dd) |
