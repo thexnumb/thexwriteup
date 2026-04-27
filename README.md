@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Apr 2026 22:51:57 GMT | Cybersecurity Trends Every Developer Should Know This Year | Auxle | [Read More](https://medium.com/p/30116e0ec943) |
+| Mon, 27 Apr 2026 22:47:10 GMT | ¿Es posible rastrear criptomonedas robadas? | Decode Help | [Read More](https://medium.com/p/c27bcd36aaad) |
+| Mon, 27 Apr 2026 22:38:59 GMT | How I Built a Real-Time Anomaly Detection Engine from Scratch | Iyanuoluwa Akinlalu | [Read More](https://medium.com/p/1785b5525bb1) |
+| Mon, 27 Apr 2026 22:17:12 GMT | When Engineers Do It Right: Jun He & Yu’s Sovereign Agentic Loops and Why I Support This One | Berend Watchus | [Read More](https://medium.com/p/686cba7b2203) |
+| Mon, 27 Apr 2026 21:45:48 GMT | TRX CTF 2026 WEB WRITEUPS | Whitelight | [Read More](https://medium.com/p/23853e5244cb) |
+| Mon, 27 Apr 2026 21:38:25 GMT | Want to pivot to AI led security? Start here | Anmol Gulwani (Building Dexity) | [Read More](https://medium.com/p/e5f7cc268c1b) |
 | Mon, 27 Apr 2026 21:28:52 GMT | CyberDefenders — HawkEye Lab | Efe Özel | [Read More](https://medium.com/p/e58a198c6a19) |
 | Mon, 27 Apr 2026 21:27:55 GMT | Bypassing NIDS: The Anatomy of a Perfect ICMP Ping | JM00NJ | [Read More](https://medium.com/p/ffcb76126169) |
 | Mon, 27 Apr 2026 21:21:36 GMT | When the Software Vendor Goes Down, So Does 80% of the Country’s Hospitals | Ilias Armenakis | [Read More](https://medium.com/p/45de6c1a77cd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Apr 2026 14:18:30 GMT | TryHackMe — Recruit Write-up | KatchauBerg | [Read More](https://medium.com/p/ba4f388fb62d) |
 | Mon, 27 Apr 2026 13:57:18 GMT | When SSO Becomes a Master Key: The Hidden Security Risk of Azure Single Sign-On | H2bm | [Read More](https://medium.com/p/8adf17eecb3a) |
 | Mon, 27 Apr 2026 13:52:48 GMT | Laporan Struktur Data : Sorting | Cahyoadi | [Read More](https://medium.com/p/def37d374251) |
-| Mon, 27 Apr 2026 13:52:38 GMT | Top 15 Browser Extensions For Hackers, OSINT Researchers, That You Must Have to Know. | Sagar Shewale | [Read More](https://medium.com/p/1475b61702fe) |
-| Mon, 27 Apr 2026 13:51:31 GMT | DOM-Based XSS in OAuth Login via Unvalidated baseUrl Parameter Leading to Account Takeover | Krithick | [Read More](https://medium.com/p/fbfcc10a61a5) |
-| Mon, 27 Apr 2026 13:45:11 GMT | Beyond the Audit: Toward a Layered Security Stack | Firelight Protocol | [Read More](https://medium.com/p/c32e6393bc5e) |
-| Mon, 27 Apr 2026 13:42:07 GMT | Cut Cybersecurity Training and You Triple Your Risk in 18 Months. | Dimitrios Zacharopoulos | [Read More](https://medium.com/p/be5309e98585) |
-| Mon, 27 Apr 2026 13:34:46 GMT | The Glass Lindy: Why Surviving Isn’t the Same as Being Safe | Marco_112358 | [Read More](https://medium.com/p/9770a2cc8dd4) |
-| Mon, 27 Apr 2026 13:33:22 GMT | I Never Asked for Much | Dannielle Mae Luciano | [Read More](https://medium.com/p/0e60ac581880) |
