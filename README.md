@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Apr 2026 21:28:52 GMT | CyberDefenders — HawkEye Lab | Efe Özel | [Read More](https://medium.com/p/e58a198c6a19) |
+| Mon, 27 Apr 2026 21:27:55 GMT | Bypassing NIDS: The Anatomy of a Perfect ICMP Ping | JM00NJ | [Read More](https://medium.com/p/ffcb76126169) |
+| Mon, 27 Apr 2026 21:21:36 GMT | When the Software Vendor Goes Down, So Does 80% of the Country’s Hospitals | Ilias Armenakis | [Read More](https://medium.com/p/45de6c1a77cd) |
+| Mon, 27 Apr 2026 21:13:57 GMT | TryHackMe: Nessus — My First Vulnerability Scan with Tenable | Robert Perez | [Read More](https://medium.com/p/5b570f1534d6) |
+| Mon, 27 Apr 2026 21:13:13 GMT | How I Built ExRecon: Turning a Security Automation Project Into a Smarter, More Maintainable… | Exreconnaissance | [Read More](https://medium.com/p/4af0b1d87d31) |
+| Mon, 27 Apr 2026 21:07:40 GMT | An AI Agent Deleted an Entire Company Database in 9 Seconds Here’s What Actually Went Wrong | Ashraf rauf | [Read More](https://medium.com/p/63b51775d8fc) |
+| Mon, 27 Apr 2026 21:04:37 GMT | LinkedIn is violating you privacy. | mettal | [Read More](https://medium.com/p/c3104dfec230) |
+| Mon, 27 Apr 2026 21:01:51 GMT | Understanding Darknet Opioids: Risks, Trends, and Market Signals | Tor BBB | [Read More](https://medium.com/p/d6919980574f) |
+| Mon, 27 Apr 2026 20:55:07 GMT | What a Dockerfile PR Taught Me About Production Containers | biruk desta | [Read More](https://medium.com/p/f4bf52075089) |
+| Mon, 27 Apr 2026 20:41:28 GMT | Your Disk Is Lying to You — Meet /dev/shm, Linux's Secret RAM Drive ⚡ | Taha Ex | [Read More](https://medium.com/p/24e071b06bd5) |
+| Mon, 27 Apr 2026 20:36:05 GMT | Someone Already Has Your Encrypted Data. They’re Just Waiting. | Red Oxyde | [Read More](https://medium.com/p/2f65114feda9) |
+| Mon, 27 Apr 2026 20:32:13 GMT | When Features Do More Than They Should | Asjad Butt | [Read More](https://medium.com/p/6a951f4d8cc5) |
+| Mon, 27 Apr 2026 20:13:43 GMT | How to Create a Bitcoin Inheritance Plan Your Family Can Actually Follow | Bitforgetreasury | [Read More](https://medium.com/p/b5f516ac1164) |
+| Mon, 27 Apr 2026 20:12:57 GMT | Threat Intelligence Investigation: Sea Turtle APT using MISP | Becca | [Read More](https://medium.com/p/cb3fd8f1a960) |
 | Mon, 27 Apr 2026 19:57:13 GMT | HTB Principal — Write-up | Shxdowz | [Read More](https://medium.com/p/d26e45c4d555) |
 | Mon, 27 Apr 2026 19:56:17 GMT | 15 Vulnerable Websites for Legal Penetration/Hacking Practice | Dr-FaranBaloch | [Read More](https://medium.com/p/3b56313d812c) |
 | Mon, 27 Apr 2026 19:52:13 GMT | PNPT Exam Review 2026: Tips, Mistakes, and What Actually Matters | Hemantha Krishna Challa | [Read More](https://medium.com/p/c84ed53531d4) |
@@ -26,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Apr 2026 19:26:05 GMT | "The AI Too Dangerous to Release — The Full Story of Claude Mythos (2026)" | Mind Spark | [Read More](https://medium.com/p/add59169b14f) |
 | Mon, 27 Apr 2026 19:25:41 GMT | Anatomy of SAP Privileges: How Administrator Rights Work in macOS | aaa | [Read More](https://medium.com/p/fa0d15fb1af1) |
 | Mon, 27 Apr 2026 19:12:29 GMT | FINDERR vs Find My Device — Why You Probably Need Both | Untrapd | [Read More](https://medium.com/p/8260822f2739) |
+| Mon, 27 Apr 2026 18:53:00 GMT | We Are the Ones We Have Been Waiting For | SubMerge | [Read More](https://medium.com/p/f2ddecb83e47) |
 | Mon, 27 Apr 2026 18:48:46 GMT | Norway Is Being Squeezed From Every Direction. Nobody Is Writing About It. | Vivek Anand | [Read More](https://medium.com/p/4e59188aa566) |
 | Mon, 27 Apr 2026 18:43:49 GMT | 이미 임시 명세서 제출했고 출원 번호까지 있음 | 한아윤 | [Read More](https://medium.com/p/4e6ac31c404f) |
 | Mon, 27 Apr 2026 18:43:26 GMT | Is Your Home Really Safe? A 2026 Reality Check | AlexBryn | [Read More](https://medium.com/p/a7ec3f88c4e3) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Apr 2026 13:42:07 GMT | Cut Cybersecurity Training and You Triple Your Risk in 18 Months. | Dimitrios Zacharopoulos | [Read More](https://medium.com/p/be5309e98585) |
 | Mon, 27 Apr 2026 13:34:46 GMT | The Glass Lindy: Why Surviving Isn’t the Same as Being Safe | Marco_112358 | [Read More](https://medium.com/p/9770a2cc8dd4) |
 | Mon, 27 Apr 2026 13:33:22 GMT | I Never Asked for Much | Dannielle Mae Luciano | [Read More](https://medium.com/p/0e60ac581880) |
-| Mon, 27 Apr 2026 13:28:56 GMT | The Most Dangerous Cybersecurity Risk Is the One You Ignore | Sanjiv Cherian | [Read More](https://medium.com/p/47e308638df5) |
-| Mon, 27 Apr 2026 13:27:30 GMT | Barawe 2013 Raid: SEAL Team Six and the Mystery of “Cikrama | Ahmed dheere | [Read More](https://medium.com/p/fd0cad7d52cc) |
-| Mon, 27 Apr 2026 13:27:19 GMT | TryHackMe Reset Walkthrough By Ryan Cham | Ryan Cham Rui Yang | [Read More](https://medium.com/p/2cd4ba48eb8e) |
-| Mon, 27 Apr 2026 13:17:43 GMT | WordPress Worked Fine Until AI Started Picking Locks | Michael Wilson | [Read More](https://medium.com/p/29012aea4569) |
-| Mon, 27 Apr 2026 13:13:56 GMT | Burp Suite DAST Tutorial: How to Run Authenticated Scans Using Recorded Login Sequences | Awais Akbar | [Read More](https://medium.com/p/5c68f8474860) |
-| Mon, 27 Apr 2026 13:12:07 GMT | AI-Powered Cybercrime in 2026: Real Cases Explained | A | [Read More](https://medium.com/p/fb4b73157fd3) |
-| Mon, 27 Apr 2026 13:05:45 GMT | The Real Problem With Digital Privacy Isn’t Security. It’s Fragmentation | Ciforus | [Read More](https://medium.com/p/138fa26c84cb) |
-| Mon, 27 Apr 2026 12:55:14 GMT | First response to cyber attacks: Bagaimana NIST SP 800–16 membantu kamu menindaklanjuti insiden… | Intan Shafira | [Read More](https://medium.com/p/201cb78d32b3) |
-| Mon, 27 Apr 2026 12:54:54 GMT | If You Can’t See the Network, You Can’t Stop the Breach | NetWitness | [Read More](https://medium.com/p/db823fe58099) |
-| Mon, 27 Apr 2026 12:48:17 GMT | Beyond the Code: How code3x Delivers “A Grade” Web Security | code3x | [Read More](https://medium.com/p/bdf711fb95fa) |
-| Mon, 27 Apr 2026 12:46:55 GMT | The Week in Cyber Security (April 20–27, 2026) | Jean-Claude Moritz | [Read More](https://medium.com/p/74d49996ae85) |
-| Mon, 27 Apr 2026 12:46:01 GMT | Four Scenarios for the Future of AppSec in the Age of Mythos | Adam Goodman | [Read More](https://medium.com/p/ed0a1cdcf04f) |
-| Mon, 27 Apr 2026 12:40:09 GMT | Protecting Node.js APIs: Audiences, Scopes, and Bearer Tokens | MonoCloud | [Read More](https://medium.com/p/8122fa76f0fd) |
-| Mon, 27 Apr 2026 12:36:57 GMT | A Connected World | Ari Claros | [Read More](https://medium.com/p/32491edc24bf) |
-| Mon, 27 Apr 2026 12:36:01 GMT | Wazuh Health Checkup : Automating Health Reporting for Wazuh 4.x Environments | Yash Patel | [Read More](https://medium.com/p/d1290e8393fc) |
