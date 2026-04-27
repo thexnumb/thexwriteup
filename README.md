@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 27 Apr 2026 19:57:13 GMT | HTB Principal — Write-up | Shxdowz | [Read More](https://medium.com/p/d26e45c4d555) |
+| Mon, 27 Apr 2026 19:56:17 GMT | 15 Vulnerable Websites for Legal Penetration/Hacking Practice | Dr-FaranBaloch | [Read More](https://medium.com/p/3b56313d812c) |
+| Mon, 27 Apr 2026 19:52:13 GMT | PNPT Exam Review 2026: Tips, Mistakes, and What Actually Matters | Hemantha Krishna Challa | [Read More](https://medium.com/p/c84ed53531d4) |
+| Mon, 27 Apr 2026 19:50:33 GMT | Is SAST Dead in the Age of Claude Code ? | Taimur Ijlal | [Read More](https://medium.com/p/cb6eda62fa19) |
+| Mon, 27 Apr 2026 19:48:11 GMT | OpenAI’s Superintelligence Vision and the Need for Access First Infrastructure | Anton Minin Baranovskii | [Read More](https://medium.com/p/ce10410132e9) |
+| Mon, 27 Apr 2026 19:47:46 GMT | Securing the Backbone — Issue #30: Distroless vs. | Eric Gallagher | [Read More](https://medium.com/p/bc0f265898b6) |
+| Mon, 27 Apr 2026 19:47:23 GMT | Securing the Backbone — Issue #29: Developer Experience vs. Security — Finding the Sweet Spot | Eric Gallagher | [Read More](https://medium.com/p/ad4c044b1325) |
+| Mon, 27 Apr 2026 19:47:10 GMT | The Production Reality of AI Agent Security | Aashish Bharadwaj | [Read More](https://medium.com/p/c5ee8a190884) |
+| Mon, 27 Apr 2026 19:30:28 GMT | XSS (Cross Site Scripting): Bug Hunter’s Exploitation Guide | 3L173 H4CK3R 1337 (Elite Hacker 1337) | [Read More](https://medium.com/p/cc07b140765d) |
+| Mon, 27 Apr 2026 19:28:53 GMT | It Feels Like Productivity, But It’s Why You Never Finish Anything | AD Oyedepo | [Read More](https://medium.com/p/b43775771bc9) |
+| Mon, 27 Apr 2026 19:28:17 GMT | AI-driven Vulnerability Discovery and Exploit — Part II: Operations Plan for SOCs | SOCFortress | [Read More](https://medium.com/p/af9643965344) |
+| Mon, 27 Apr 2026 19:26:05 GMT | "The AI Too Dangerous to Release — The Full Story of Claude Mythos (2026)" | Mind Spark | [Read More](https://medium.com/p/add59169b14f) |
+| Mon, 27 Apr 2026 19:25:41 GMT | Anatomy of SAP Privileges: How Administrator Rights Work in macOS | aaa | [Read More](https://medium.com/p/fa0d15fb1af1) |
+| Mon, 27 Apr 2026 19:12:29 GMT | FINDERR vs Find My Device — Why You Probably Need Both | Untrapd | [Read More](https://medium.com/p/8260822f2739) |
+| Mon, 27 Apr 2026 18:48:46 GMT | Norway Is Being Squeezed From Every Direction. Nobody Is Writing About It. | Vivek Anand | [Read More](https://medium.com/p/4e59188aa566) |
 | Mon, 27 Apr 2026 18:43:49 GMT | 이미 임시 명세서 제출했고 출원 번호까지 있음 | 한아윤 | [Read More](https://medium.com/p/4e6ac31c404f) |
+| Mon, 27 Apr 2026 18:43:26 GMT | Is Your Home Really Safe? A 2026 Reality Check | AlexBryn | [Read More](https://medium.com/p/a7ec3f88c4e3) |
 | Mon, 27 Apr 2026 18:41:25 GMT | The EU Cyber Resilience Act: What OEMs Need to Know About Software Compliance by 2027 | Finn James | [Read More](https://medium.com/p/4c41fa8610c3) |
 | Mon, 27 Apr 2026 18:36:57 GMT | VulnNet: Roasted TryHackMe Writeup — Active Directory Exploitation Step-by-Step | Indu Shekhar Pandey | [Read More](https://medium.com/p/06774ca260cf) |
 | Mon, 27 Apr 2026 18:36:53 GMT | The 403 That Wasn’t: A 30-Minute S3 Takeover | SRCK | [Read More](https://medium.com/p/7e7a9f3d665b) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Apr 2026 12:40:09 GMT | Protecting Node.js APIs: Audiences, Scopes, and Bearer Tokens | MonoCloud | [Read More](https://medium.com/p/8122fa76f0fd) |
 | Mon, 27 Apr 2026 12:36:57 GMT | A Connected World | Ari Claros | [Read More](https://medium.com/p/32491edc24bf) |
 | Mon, 27 Apr 2026 12:36:01 GMT | Wazuh Health Checkup : Automating Health Reporting for Wazuh 4.x Environments | Yash Patel | [Read More](https://medium.com/p/d1290e8393fc) |
-| Mon, 27 Apr 2026 12:29:58 GMT | The “Job Interview” Hack: How Attackers Are Getting Inside Companies and Stealing Crypto | Nina | [Read More](https://medium.com/p/3ddf3c4a70a3) |
-| Mon, 27 Apr 2026 12:29:51 GMT | Zero Trust Security for Orange County Businesses: The 2026 Implementation | Technijian | [Read More](https://medium.com/p/b4243d2e8f9a) |
-| Mon, 27 Apr 2026 12:13:04 GMT | Your Organisation Has an Information Problem. Strategy Won’t Solve It Alone. | ONE ECM | [Read More](https://medium.com/p/a3b52bf97978) |
-| Mon, 27 Apr 2026 12:11:01 GMT | Da Base ao Agente | Fillipe Pacheco Ronchetti | [Read More](https://medium.com/p/1bfeb12a3811) |
-| Mon, 27 Apr 2026 12:10:43 GMT | “I Let an AI Run a Command… It Took Over the System” | Deepanshu khanna | [Read More](https://medium.com/p/109c52018402) |
-| Mon, 27 Apr 2026 12:04:10 GMT | The Future of Software Vulnerability Discovery in the Age of AI —… | Pornsook Kornkitichai | [Read More](https://medium.com/p/21305294ebd5) |
-| Mon, 27 Apr 2026 12:01:50 GMT | The Ultimate Guide to Cheap Web Hosting for Beginners (2026) | Mary Thomas | [Read More](https://medium.com/p/3588062fe5d4) |
-| Mon, 27 Apr 2026 12:01:01 GMT | First Commercial Use of the Computer Mouse | Barry Silverstein | [Read More](https://medium.com/p/49fe4cbe11bc) |
-| Mon, 27 Apr 2026 12:01:01 GMT | Most Security Roadmaps Fail Because They Don’t Prioritize Risk Correctly | Abhishek Pahuja | [Read More](https://medium.com/p/ca5a205845e8) |
-| Mon, 27 Apr 2026 11:51:05 GMT | ✨ Transform Your Smile, One Adjustment at a Time | Thedentalclinic | [Read More](https://medium.com/p/f0535e960303) |
-| Mon, 27 Apr 2026 11:47:49 GMT | Claude Mythos Preview — Siber Güvenliğin Sıfır Noktası | AltHack Security | [Read More](https://medium.com/p/c12845fac064) |
-| Mon, 27 Apr 2026 11:46:00 GMT | Secure JavaScript: OWASP + common vulnerabilities — Djamware | Didin Jamaludin | [Read More](https://medium.com/p/bd084e7d5ba1) |
-| Mon, 27 Apr 2026 11:41:39 GMT | Best Cyber Security Consulting Company in Chicago (2026) - Cepoch | cepoch | [Read More](https://medium.com/p/27433f48a851) |
-| Mon, 27 Apr 2026 11:38:37 GMT | The zero-days are numbered | Stanislav Klevtsov | [Read More](https://medium.com/p/adc012c644eb) |
-| Mon, 27 Apr 2026 11:37:01 GMT | How Hackers Really Think: Ethical Hacking, Real Cyber Attacks, and the Skills You Need in 2026 | BHARAT PRAKASH INANI | [Read More](https://medium.com/p/1fa0c106729e) |
-| Mon, 27 Apr 2026 11:29:30 GMT | Your Biggest Security Risk Isn’t Hackers, It’s What You Trust. | Oladipo Taiwo Olamide(Lolu_Everywhere) | [Read More](https://medium.com/p/09125d2c3e22) |
