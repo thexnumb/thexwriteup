@@ -12,6 +12,42 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Apr 2026 09:19:36 GMT | eJPT - The Metasploit Framework CTF 1 | Francesco Pastore | [Read More](https://medium.com/p/34998086a019) |
+| Tue, 28 Apr 2026 09:13:17 GMT | How to Choose the Best Mobile App Development Company for Your Business | Neelamloharqubit | [Read More](https://medium.com/p/37fc7ee68159) |
+| Tue, 28 Apr 2026 09:09:35 GMT | Data Security in the AI Era: Key Strategies and Best Practices | Rushdy Naloordeen | [Read More](https://medium.com/p/a041574fd6c7) |
+| Tue, 28 Apr 2026 09:07:36 GMT | From Web Shell to Domain Admin: A Complete CPTS AD Attack Chain | Manoj | [Read More](https://medium.com/p/3f6e35eae90b) |
+| Tue, 28 Apr 2026 09:04:13 GMT | What Are the Main Aims of Penetration Testing? | Nishant | [Read More](https://medium.com/p/912b048438ea) |
+| Tue, 28 Apr 2026 09:02:12 GMT | La fracture silencieuse | William Couturier | [Read More](https://medium.com/p/b41d65d8ec13) |
+| Tue, 28 Apr 2026 09:01:05 GMT | Beyond High APY: Building Sustainable DeFi Strategies | Heysamforyou | [Read More](https://medium.com/p/59349c0c0b46) |
+| Tue, 28 Apr 2026 09:01:01 GMT | What Auditors Say Privately About SME Documentation Quality | Gaurav Shukla | [Read More](https://medium.com/p/006278fdb0d0) |
+| Tue, 28 Apr 2026 08:54:48 GMT | Android Lockdown — Thinking Like an Operator (Part 5) | ghostyjoe | [Read More](https://medium.com/p/a2f210cf850e) |
+| Tue, 28 Apr 2026 08:53:23 GMT | One Sentence. One Night. Full Root Access. | FARIDA KHALAF | [Read More](https://medium.com/p/19bf18030055) |
+| Tue, 28 Apr 2026 08:41:33 GMT | What Actually Gets Sold on the Dark Web? (Reality vs Hype) | Paritosh | [Read More](https://medium.com/p/c4ef0ad86f29) |
+| Tue, 28 Apr 2026 08:31:32 GMT | NIST : comment l’organisme trie les failles pour éviter le chaos | Marc Barbezat | [Read More](https://medium.com/p/5341cf807963) |
+| Tue, 28 Apr 2026 08:28:38 GMT | Think Cybersecurity Is Hard? Start Here for Just $9.99 | Daywalkernyc | [Read More](https://medium.com/p/03dddf9fabfa) |
+| Tue, 28 Apr 2026 08:23:39 GMT | Stop Scrolling — This $9.99 Skill Could Change Your Career Path | Daywalkernyc | [Read More](https://medium.com/p/255b2ded6ae3) |
+| Tue, 28 Apr 2026 08:22:57 GMT | Security Operations Centres (SOCs) are evolving | Saleem Yousaf | [Read More](https://medium.com/p/6ce266658738) |
+| Tue, 28 Apr 2026 08:21:08 GMT | LLM Prompt Injection in an AI Support Chatbot — How I Extracted an Entire Internal Knowledge Base… | Krithick | [Read More](https://medium.com/p/1bf2be1cb902) |
+| Tue, 28 Apr 2026 08:06:11 GMT | How Can Companies Reduce Human Error in Cybersecurity? | Stravinskialindor | [Read More](https://medium.com/p/b4849d7aba01) |
+| Tue, 28 Apr 2026 08:02:02 GMT | The Invisible Skeleton: 10 Hacking Truths That Prove Your “Privacy” is Just a Ghost | Mohit | [Read More](https://medium.com/p/8f1f9f7bcdeb) |
+| Tue, 28 Apr 2026 07:44:53 GMT | My Product Management Toolkit (69: AI guardrails | MAA1 | [Read More](https://medium.com/p/b322007447ef) |
+| Tue, 28 Apr 2026 07:35:33 GMT | Juice Shop in Docker | Josiah Wood | [Read More](https://medium.com/p/aecf3f90d1d6) |
+| Tue, 28 Apr 2026 07:35:10 GMT | ChongmingLab - Weekly Blockchain Security News (April 20 — 26) | Chongming lab | [Read More](https://medium.com/p/0b5972be2e19) |
+| Tue, 28 Apr 2026 07:33:46 GMT | He Changed One Number in an Instagram Request — Instagram Paid Him $6,500 | Vivek PS | [Read More](https://medium.com/p/fdebe0aa3ad8) |
+| Tue, 28 Apr 2026 07:26:02 GMT | Rising Crypto Scams: A Technical Breakdown of the “Wallet Drainer” Threat | Adityasnairofficial | [Read More](https://medium.com/p/866b5eed9b84) |
+| Tue, 28 Apr 2026 07:24:56 GMT | Cross-Site Scripting (XSS): Dari Celah Sederhana ke Ancaman Serius | Joantramadhan | [Read More](https://medium.com/p/b69b8b5006af) |
+| Tue, 28 Apr 2026 07:14:41 GMT | How to Track Campaign Budget Realization After a Campaign Starts | Irsan Buniardi | [Read More](https://medium.com/p/ad3f4734b892) |
+| Tue, 28 Apr 2026 07:10:43 GMT | Security Guard Services: The Backbone of Modern Safety and Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/ec64e6bb7d9b) |
+| Tue, 28 Apr 2026 07:08:17 GMT | A Brief History of Hash Signatures | Gokul B Alex | [Read More](https://medium.com/p/6a714a5b5a92) |
+| Tue, 28 Apr 2026 07:06:40 GMT | Application Security Testing (AST) Market Analysis and Future Outlook | Gauri Kale | [Read More](https://medium.com/p/98b2e13c864c) |
+| Tue, 28 Apr 2026 07:04:36 GMT | Abused an MCP Server to Perform Lateral Movement - Critical Finding - MCP Testing Methodology | Rahul Singh Chauhan | [Read More](https://medium.com/p/dd0557d49522) |
+| Tue, 28 Apr 2026 07:01:18 GMT | WaTF Bank Walkthrough (Part 3): Exploiting Android App Security Flaws | George Petropoulos | [Read More](https://medium.com/p/e41c08413e21) |
+| Tue, 28 Apr 2026 07:01:01 GMT | KelpDAO Exploit Analysis: $292 Million, One Verifier and the $13 Billion | Sisi | [Read More](https://medium.com/p/05423e134b6b) |
+| Tue, 28 Apr 2026 07:00:19 GMT | GUI Patterns & Design: The Foundation of Intuitive User Interfaces | Tharushasangeeth | [Read More](https://medium.com/p/0b759f4947e4) |
+| Tue, 28 Apr 2026 06:57:16 GMT | 10 best cybersecurity companies in Chicago - Cepoch | cepoch | [Read More](https://medium.com/p/997bd2ca45e6) |
+| Tue, 28 Apr 2026 06:53:48 GMT | Analisis Kerentanan Cross-Site Scripting (XSS) pada Form Input Web dan Dampaknya terhadap Keamanan… | Gansnabil | [Read More](https://medium.com/p/e27d39304884) |
+| Tue, 28 Apr 2026 06:48:23 GMT | Master Ethical Hacking in Free AI-Powered Course + Video Labs | Muhammadjunaidniazi | [Read More](https://medium.com/p/6447f2ac01a5) |
+| Tue, 28 Apr 2026 06:47:38 GMT | Ethical Hacking: Identifying Weak Password Hashes | Redfox Security | [Read More](https://medium.com/p/c5f570867572) |
 | Tue, 28 Apr 2026 06:20:33 GMT | How MSPs Generate Consistent B2B Leads Through Cybersecurity Webinars | Kobe McBride | [Read More](https://medium.com/p/6ef014c410c9) |
 | Tue, 28 Apr 2026 06:20:11 GMT | I Changed One Number… and Got Access to Citizens’ ID and Address Proofs | VoidSec24 | [Read More](https://medium.com/p/a02084428801) |
 | Tue, 28 Apr 2026 06:18:06 GMT | ️ Top 20 Bug Bounty Tools I Use Daily as a Full-Time Hunter | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/d4f903541493) |
@@ -76,39 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Apr 2026 23:22:34 GMT | The Cloud Security Blind Spot | B M Zahid ul Haque | [Read More](https://medium.com/p/11af03a6f3c9) |
 | Mon, 27 Apr 2026 23:14:23 GMT | Running an AI Agent on a VPS: Security-First Setup with OpenClaw, Hetzner & Telegram | Tim Daniel Walter | [Read More](https://medium.com/p/23f0ca37e43d) |
 | Mon, 27 Apr 2026 23:13:55 GMT | Why Trucking Companies in California Can’t Afford to Ignore Cargo Security | Matthew | [Read More](https://medium.com/p/7112060502a7) |
-| Mon, 27 Apr 2026 23:06:25 GMT | Exploiting AI agents to perform destructive actions — Portswigger | Berat Arslan | [Read More](https://medium.com/p/a6e645d92d39) |
-| Mon, 27 Apr 2026 22:54:37 GMT | A step-by-step guide to building a real-time HTTP anomaly detector using Python, deques, and… | olakunle kushehin | [Read More](https://medium.com/p/73ea6db405e9) |
-| Mon, 27 Apr 2026 22:51:57 GMT | Cybersecurity Trends Every Developer Should Know This Year | Auxle | [Read More](https://medium.com/p/30116e0ec943) |
-| Mon, 27 Apr 2026 22:47:10 GMT | ¿Es posible rastrear criptomonedas robadas? | Decode Help | [Read More](https://medium.com/p/c27bcd36aaad) |
-| Mon, 27 Apr 2026 22:38:59 GMT | How I Built a Real-Time Anomaly Detection Engine from Scratch | Iyanuoluwa Akinlalu | [Read More](https://medium.com/p/1785b5525bb1) |
-| Mon, 27 Apr 2026 22:17:12 GMT | When Engineers Do It Right: Jun He & Yu’s Sovereign Agentic Loops and Why I Support This One | Berend Watchus | [Read More](https://medium.com/p/686cba7b2203) |
-| Mon, 27 Apr 2026 21:45:48 GMT | TRX CTF 2026 WEB WRITEUPS | Whitelight | [Read More](https://medium.com/p/23853e5244cb) |
-| Mon, 27 Apr 2026 21:38:25 GMT | Want to pivot to AI led security? Start here | Anmol Gulwani (Building Dexity) | [Read More](https://medium.com/p/e5f7cc268c1b) |
-| Mon, 27 Apr 2026 21:28:52 GMT | CyberDefenders — HawkEye Lab | Efe Özel | [Read More](https://medium.com/p/e58a198c6a19) |
-| Mon, 27 Apr 2026 21:27:55 GMT | Bypassing NIDS: The Anatomy of a Perfect ICMP Ping | JM00NJ | [Read More](https://medium.com/p/ffcb76126169) |
-| Mon, 27 Apr 2026 21:21:36 GMT | When the Software Vendor Goes Down, So Does 80% of the Country’s Hospitals | Ilias Armenakis | [Read More](https://medium.com/p/45de6c1a77cd) |
-| Mon, 27 Apr 2026 21:13:57 GMT | TryHackMe: Nessus — My First Vulnerability Scan with Tenable | Robert Perez | [Read More](https://medium.com/p/5b570f1534d6) |
-| Mon, 27 Apr 2026 21:13:13 GMT | How I Built ExRecon: Turning a Security Automation Project Into a Smarter, More Maintainable… | Exreconnaissance | [Read More](https://medium.com/p/4af0b1d87d31) |
-| Mon, 27 Apr 2026 21:07:40 GMT | An AI Agent Deleted an Entire Company Database in 9 Seconds Here’s What Actually Went Wrong | Ashraf rauf | [Read More](https://medium.com/p/63b51775d8fc) |
-| Mon, 27 Apr 2026 21:04:37 GMT | LinkedIn is violating you privacy. | mettal | [Read More](https://medium.com/p/c3104dfec230) |
-| Mon, 27 Apr 2026 21:01:51 GMT | Understanding Darknet Opioids: Risks, Trends, and Market Signals | Tor BBB | [Read More](https://medium.com/p/d6919980574f) |
-| Mon, 27 Apr 2026 20:55:07 GMT | What a Dockerfile PR Taught Me About Production Containers | biruk desta | [Read More](https://medium.com/p/f4bf52075089) |
-| Mon, 27 Apr 2026 20:41:28 GMT | Your Disk Is Lying to You — Meet /dev/shm, Linux's Secret RAM Drive ⚡ | Taha Ex | [Read More](https://medium.com/p/24e071b06bd5) |
-| Mon, 27 Apr 2026 20:36:05 GMT | Someone Already Has Your Encrypted Data. They’re Just Waiting. | Red Oxyde | [Read More](https://medium.com/p/2f65114feda9) |
-| Mon, 27 Apr 2026 20:32:13 GMT | When Features Do More Than They Should | Asjad Butt | [Read More](https://medium.com/p/6a951f4d8cc5) |
-| Mon, 27 Apr 2026 20:13:43 GMT | How to Create a Bitcoin Inheritance Plan Your Family Can Actually Follow | Bitforgetreasury | [Read More](https://medium.com/p/b5f516ac1164) |
-| Mon, 27 Apr 2026 20:12:57 GMT | Threat Intelligence Investigation: Sea Turtle APT using MISP | Becca | [Read More](https://medium.com/p/cb3fd8f1a960) |
-| Mon, 27 Apr 2026 19:57:13 GMT | HTB Principal — Write-up | Shxdowz | [Read More](https://medium.com/p/d26e45c4d555) |
-| Mon, 27 Apr 2026 19:56:17 GMT | 15 Vulnerable Websites for Legal Penetration/Hacking Practice | Dr-FaranBaloch | [Read More](https://medium.com/p/3b56313d812c) |
-| Mon, 27 Apr 2026 19:52:13 GMT | PNPT Exam Review 2026: Tips, Mistakes, and What Actually Matters | Hemantha Krishna Challa | [Read More](https://medium.com/p/c84ed53531d4) |
-| Mon, 27 Apr 2026 19:50:33 GMT | Is SAST Dead in the Age of Claude Code ? | Taimur Ijlal | [Read More](https://medium.com/p/cb6eda62fa19) |
-| Mon, 27 Apr 2026 19:48:11 GMT | OpenAI’s Superintelligence Vision and the Need for Access First Infrastructure | Anton Minin Baranovskii | [Read More](https://medium.com/p/ce10410132e9) |
-| Mon, 27 Apr 2026 19:47:46 GMT | Securing the Backbone — Issue #30: Distroless vs. | Eric Gallagher | [Read More](https://medium.com/p/bc0f265898b6) |
-| Mon, 27 Apr 2026 19:47:23 GMT | Securing the Backbone — Issue #29: Developer Experience vs. Security — Finding the Sweet Spot | Eric Gallagher | [Read More](https://medium.com/p/ad4c044b1325) |
-| Mon, 27 Apr 2026 19:47:10 GMT | The Production Reality of AI Agent Security | Aashish Bharadwaj | [Read More](https://medium.com/p/c5ee8a190884) |
-| Mon, 27 Apr 2026 19:30:28 GMT | XSS (Cross Site Scripting): Bug Hunter’s Exploitation Guide | 3L173 H4CK3R 1337 (Elite Hacker 1337) | [Read More](https://medium.com/p/cc07b140765d) |
-| Mon, 27 Apr 2026 19:28:53 GMT | It Feels Like Productivity, But It’s Why You Never Finish Anything | AD Oyedepo | [Read More](https://medium.com/p/b43775771bc9) |
-| Mon, 27 Apr 2026 19:28:17 GMT | AI-driven Vulnerability Discovery and Exploit — Part II: Operations Plan for SOCs | SOCFortress | [Read More](https://medium.com/p/af9643965344) |
-| Mon, 27 Apr 2026 19:26:05 GMT | "The AI Too Dangerous to Release — The Full Story of Claude Mythos (2026)" | Mind Spark | [Read More](https://medium.com/p/add59169b14f) |
-| Mon, 27 Apr 2026 19:25:41 GMT | Anatomy of SAP Privileges: How Administrator Rights Work in macOS | aaa | [Read More](https://medium.com/p/fa0d15fb1af1) |
-| Mon, 27 Apr 2026 19:12:29 GMT | FINDERR vs Find My Device — Why You Probably Need Both | Untrapd | [Read More](https://medium.com/p/8260822f2739) |
