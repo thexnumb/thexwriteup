@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Apr 2026 22:22:40 GMT | Peyklər, yoxsa sualtı? | Konul Guliyeva | [Read More](https://medium.com/p/97bb06239514) |
+| Tue, 28 Apr 2026 22:11:01 GMT | The IT Knowledge Gap You Can’t Google | Ryan Y. Kurr | [Read More](https://medium.com/p/f5f28ee5c852) |
+| Tue, 28 Apr 2026 22:04:52 GMT | The Geography of Almost Out | Adontai | [Read More](https://medium.com/p/e0d0f1e955fa) |
+| Tue, 28 Apr 2026 22:01:01 GMT | Signing Is the Control Plane | Bilal Zuberi | [Read More](https://medium.com/p/95066002392e) |
+| Tue, 28 Apr 2026 21:59:59 GMT | Three breaches that had nothing to do with hackers and everything to do with compliance theater | Rafat Yazdani | [Read More](https://medium.com/p/35085f98549e) |
+| Tue, 28 Apr 2026 21:55:10 GMT | Sony Locked People Out of Games They Already Paid For. Here Is What Is Actually Happening. | Misplays | [Read More](https://medium.com/p/69d33ba079ca) |
+| Tue, 28 Apr 2026 21:49:16 GMT | Symmetric vs. | G F Maiwun | [Read More](https://medium.com/p/393ca7b25faa) |
+| Tue, 28 Apr 2026 21:35:26 GMT | They Never Sent a Single Email: Investigating a Microsoft Teams Vishing Attack | Joao Claudino | [Read More](https://medium.com/p/289a590e4e6e) |
+| Tue, 28 Apr 2026 21:32:56 GMT | Bypassing 4-Digit MFA — A HackSmarter Lab Writeup | Cyberologist | [Read More](https://medium.com/p/873052edf5de) |
+| Tue, 28 Apr 2026 21:28:44 GMT | Basic Programming Knowledge for Beginners: A Clear and Confident Guide to Getting Started | Adrien Schubert | [Read More](https://medium.com/p/892c47126ffa) |
+| Tue, 28 Apr 2026 21:24:48 GMT | The Identity That Dies With the Session | Seven Cubed Seven Labs | [Read More](https://medium.com/p/43c34d9b662c) |
+| Tue, 28 Apr 2026 21:24:23 GMT | Your AI Agent Has Been Compromised. You Just Don’t Know It Yet. | Arcencilo | [Read More](https://medium.com/p/f5c69d891581) |
+| Tue, 28 Apr 2026 21:23:12 GMT | Prototype Pollution | Marduk I Am | [Read More](https://medium.com/p/15f47d9e5c6a) |
 | Tue, 28 Apr 2026 21:01:19 GMT | COMMON HTTP ERROR CODES & Bypass Techniques | Cybersecplayground | [Read More](https://medium.com/p/d2d7a09ec062) |
 | Tue, 28 Apr 2026 20:57:59 GMT | Building a Windows File System Minifilter Driver: Intercepting File Access | S12 - 0x12Dark Development | [Read More](https://medium.com/p/55b933ccd6a4) |
 | Tue, 28 Apr 2026 20:51:37 GMT | CyberDefenders — Ramnit Walkthrough | Serhan Kırca | [Read More](https://medium.com/p/6d31c57846ad) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Apr 2026 15:01:04 GMT | Your CIO Isn’t Leading. He’s Being Led. | Nuno Roberto | [Read More](https://medium.com/p/c0f6c1683435) |
 | Tue, 28 Apr 2026 14:44:25 GMT | My Flutter - Android Security Adventure: APKTool, Frida, and Ethical Testing | M | [Read More](https://medium.com/p/14524f622d4a) |
 | Tue, 28 Apr 2026 14:41:18 GMT | What Is an Information Security Policy? A Complete Guide | Writegenic AI | [Read More](https://medium.com/p/93c6da30b819) |
-| Tue, 28 Apr 2026 14:30:33 GMT | Identification & Authentication Failures: The Death of Passwords and the SPA Trap | Vasyl Oliinyk | [Read More](https://medium.com/p/cec8e8a12956) |
-| Tue, 28 Apr 2026 14:30:13 GMT | Vulnerable Components: When the Enemy Lives in node_modules | Vasyl Oliinyk | [Read More](https://medium.com/p/c513c2bbba0e) |
-| Tue, 28 Apr 2026 14:30:03 GMT | The Agentic Future Is Coming Fast — And Most Companies Are About to Get Burned Without This One… | HR | [Read More](https://medium.com/p/deeef32d19aa) |
-| Tue, 28 Apr 2026 14:19:44 GMT | Analyse Your Network Traffic (Live Packet Inspection Using Wireshark) | PriOFF | [Read More](https://medium.com/p/ff3b958c9e04) |
-| Tue, 28 Apr 2026 14:02:07 GMT | The Art of the Jump: How Hackers Hop from One Computer to Another | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/fd7e301d80df) |
-| Tue, 28 Apr 2026 14:01:06 GMT | Two-Factor Authentication Explained: The Simple Way to Protect Your Online Accounts | Manula Udyoga | [Read More](https://medium.com/p/9efd6484e3b5) |
-| Tue, 28 Apr 2026 13:56:18 GMT | 5 Signs Your Phone Has Been Hacked (And How to Fix It) | Ramyaabharathi | [Read More](https://medium.com/p/debe58c43463) |
-| Tue, 28 Apr 2026 13:52:16 GMT | A Fake Contract and a Real Lesson in Discipline | Teachnolen | [Read More](https://medium.com/p/01b8337ecf3e) |
-| Tue, 28 Apr 2026 13:51:42 GMT | Don’t start bug bounty before you do this. | Dallen Sadru | [Read More](https://medium.com/p/c8f824f2b867) |
-| Tue, 28 Apr 2026 13:48:56 GMT | SQL Injection — How I Extracted a Full Database. #CyberSecurity | Nilanjan Chowdhury | [Read More](https://medium.com/p/ab1772da5606) |
-| Tue, 28 Apr 2026 13:41:01 GMT | How One Overlooked XSS Flaw Cost an Ecommerce Store $60,000 | Stanley A | [Read More](https://medium.com/p/3bea3a8fe38e) |
-| Tue, 28 Apr 2026 13:40:05 GMT | Cognitive Warfare: How NATO’s War On Your Brain Became Law? | Thomas Karat | [Read More](https://medium.com/p/21d9ddcf30ca) |
-| Tue, 28 Apr 2026 13:39:36 GMT | Vulnerable AI Lab | Andrey Pautov | [Read More](https://medium.com/p/3747e96314dd) |
