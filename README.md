@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Apr 2026 21:01:19 GMT | COMMON HTTP ERROR CODES & Bypass Techniques | Cybersecplayground | [Read More](https://medium.com/p/d2d7a09ec062) |
+| Tue, 28 Apr 2026 20:57:59 GMT | Building a Windows File System Minifilter Driver: Intercepting File Access | S12 - 0x12Dark Development | [Read More](https://medium.com/p/55b933ccd6a4) |
+| Tue, 28 Apr 2026 20:51:37 GMT | CyberDefenders — Ramnit Walkthrough | Serhan Kırca | [Read More](https://medium.com/p/6d31c57846ad) |
+| Tue, 28 Apr 2026 20:48:05 GMT | Securing the Backbone — Issue #33: The Reports That Redefined Cyber Risk | Eric Gallagher | [Read More](https://medium.com/p/8a71515ef075) |
+| Tue, 28 Apr 2026 20:47:43 GMT | Securing the Backbone — Issue #32 (Part 1): Legacy Dependencies and the AI Vulnerability Avalanche… | Eric Gallagher | [Read More](https://medium.com/p/ba1538775ad0) |
+| Tue, 28 Apr 2026 20:47:26 GMT | Privacy in the Smart Home-Era | Mdadams | [Read More](https://medium.com/p/4f0e42884b15) |
+| Tue, 28 Apr 2026 20:46:34 GMT | How termchalk , a typosquatted version of the popular chalk library Turns Your Terminal into a… | Nijin K | [Read More](https://medium.com/p/dc5ba4bc6667) |
+| Tue, 28 Apr 2026 20:42:00 GMT | How Reasoning Hacked the Boxes! | N88B | [Read More](https://medium.com/p/01fea9908476) |
+| Tue, 28 Apr 2026 20:39:59 GMT | When AI Becomes a Cyber Operator: A Governance Playbook for CIOs, CISOs, and Public Sector Leaders | Ruben Alcala | [Read More](https://medium.com/p/3f5a8250965d) |
+| Tue, 28 Apr 2026 20:16:25 GMT | Network Services — THM | Fadybasem - ( SilentN0va ) | [Read More](https://medium.com/p/6abc73b9ab46) |
+| Tue, 28 Apr 2026 20:13:14 GMT | India’s Banks Just Got Their AI Wake-Up Call. | Anindya Mishra | [Read More](https://medium.com/p/dd3b4b5e8d49) |
+| Tue, 28 Apr 2026 20:07:22 GMT | Bandit Solutions (Over The Wire) | Maro_Medhat | [Read More](https://medium.com/p/1a3a61081586) |
+| Tue, 28 Apr 2026 20:04:14 GMT | The Cybersecurity — Career Accelerator (April 2026) | Franklin Rhodes | [Read More](https://medium.com/p/abc4a6d58d14) |
+| Tue, 28 Apr 2026 20:00:52 GMT | Official Blind XSS Platform Update (2026) | xss0r | [Read More](https://medium.com/p/f5c067f537fd) |
+| Tue, 28 Apr 2026 19:45:56 GMT | Tryhackme room Blue كيف تحل لاب ويندوز 7 ؟ | Moahmmed | [Read More](https://medium.com/p/186bc6d06584) |
+| Tue, 28 Apr 2026 19:44:12 GMT | TAMECAT: Iranian APT42 Group New PowerShell Backdoor Targeting Military and Government Officials | Excalibra | [Read More](https://medium.com/p/ebf433208da5) |
 | Tue, 28 Apr 2026 19:25:32 GMT | PhantomRPC: A New Privilege Escalation Technique in Windows RPC | SOCFortress | [Read More](https://medium.com/p/e288632ec6fd) |
 | Tue, 28 Apr 2026 19:21:37 GMT | The Day I Realized I’d Been Running My Freelance Business Like an Unlocked Car | Jusjaesho | [Read More](https://medium.com/p/bbf601f32fcd) |
 | Tue, 28 Apr 2026 19:16:25 GMT | Is It Safe to Upload Documents Online for PDF Conversion? | Zerocloudpdf | [Read More](https://medium.com/p/794142102c7e) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Apr 2026 13:41:01 GMT | How One Overlooked XSS Flaw Cost an Ecommerce Store $60,000 | Stanley A | [Read More](https://medium.com/p/3bea3a8fe38e) |
 | Tue, 28 Apr 2026 13:40:05 GMT | Cognitive Warfare: How NATO’s War On Your Brain Became Law? | Thomas Karat | [Read More](https://medium.com/p/21d9ddcf30ca) |
 | Tue, 28 Apr 2026 13:39:36 GMT | Vulnerable AI Lab | Andrey Pautov | [Read More](https://medium.com/p/3747e96314dd) |
-| Tue, 28 Apr 2026 13:36:06 GMT | githubSecure Dependency Updates During Bitbucket to GitHub Migration | ITGix Ltd. | [Read More](https://medium.com/p/fe8d324e2a03) |
-| Tue, 28 Apr 2026 13:33:12 GMT | TryHackMe Vulnnet:Active Walkthrough By Ryan Cham | Ryan Cham Rui Yang | [Read More](https://medium.com/p/a952991902be) |
-| Tue, 28 Apr 2026 13:26:15 GMT | Is It Safe to Use a TRON Vanity Address Generator? | CustomTron | [Read More](https://medium.com/p/9a2a371f015e) |
-| Tue, 28 Apr 2026 13:21:43 GMT | Command Injections | Doniyorbobojonov | [Read More](https://medium.com/p/e178ddf13957) |
-| Tue, 28 Apr 2026 13:18:35 GMT | Developers Ignore Security… So I Built This Tool | njwebdesigning | [Read More](https://medium.com/p/b3233ad28902) |
-| Tue, 28 Apr 2026 13:18:20 GMT | 25 Open-Source Cybersecurity Tools That Work Even When Your Budget Doesn’t | TechLatest.Net | [Read More](https://medium.com/p/2594b363ffb3) |
-| Tue, 28 Apr 2026 13:14:50 GMT | Cách xác thực lệnh rút tiền 28bet an toàn: tiêu chuẩn về tốc độ và bảo mật năm 2026 | 報數十一員 | [Read More](https://medium.com/p/f19491663d77) |
-| Tue, 28 Apr 2026 13:12:08 GMT | BlueHammer — Penetration Testing & Cybersecurity Portfolio - M. Siddiq Baig | M. Siddiq Baig medium | [Read More](https://medium.com/p/0dd8b9f07c89) |
-| Tue, 28 Apr 2026 13:09:32 GMT | OTP Scam 2026: How Hackers Trick You Into Sharing OTP | Cyber Times | [Read More](https://medium.com/p/2419d3dde666) |
-| Tue, 28 Apr 2026 13:08:52 GMT | Top Data Privacy Trends in 2026 | Noah Sullivan | [Read More](https://medium.com/p/3d2719232633) |
-| Tue, 28 Apr 2026 13:06:46 GMT | Secure File Uploads in Next.js + Supabase Storage | SecureStartKit | [Read More](https://medium.com/p/ee6642c70a48) |
-| Tue, 28 Apr 2026 13:06:13 GMT | Hitech Barrier is pleased to announce the launch of Kee Safety products in Saudi Arabia | Abd al-Karim | [Read More](https://medium.com/p/8e33a3ecfe3a) |
-| Tue, 28 Apr 2026 13:04:45 GMT | The Invisible Shield: Why Cybersecurity Engineering Matters More Than Ever | Don Rivera Diaz | [Read More](https://medium.com/p/7b53c96c66d1) |
-| Tue, 28 Apr 2026 13:01:03 GMT | My First Day in Offensive Security — Here’s What I Did | Dhruv Kapoor - Aspiring Red Team Operator | [Read More](https://medium.com/p/e0fd73210492) |
-| Tue, 28 Apr 2026 13:01:02 GMT | Kubernetes Security from the Ground Up | Jinalpatel | [Read More](https://medium.com/p/8bca9c6f8644) |
-| Tue, 28 Apr 2026 13:01:01 GMT | Why AI Agents Lie and Why You’re the One Responsible | Nwosu Rosemary | [Read More](https://medium.com/p/6a563b99f27d) |
