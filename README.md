@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Apr 2026 23:45:09 GMT | The New IRA’s War Without Support | Mark Costello | [Read More](https://medium.com/p/8724af4da687) |
+| Tue, 28 Apr 2026 23:33:03 GMT | AI Is Writing Bugs You Cannot See. So I Built a Free Security Toolkit | Baffour Dokyi Ampaw | [Read More](https://medium.com/p/4bee322c3a67) |
+| Tue, 28 Apr 2026 23:22:57 GMT | العنوان: دور الحشد الشعبي في كركوك بعد 2017: قراءة في تحولات النفوذ السياسي والأمني
+​المحتوى:
+تعتبر… | Yasser  Ammar al hosini -ياسر عمار الحسيني | [Read More](https://medium.com/p/6ffbfecee9d1) |
+| Tue, 28 Apr 2026 23:18:46 GMT | Halls and Walls: The Most Important Post Nobody Wants | Kevin Ghee | [Read More](https://medium.com/p/384265de0b42) |
+| Tue, 28 Apr 2026 23:13:26 GMT | Cloud security isn’t inherited: Why IAM is where most AWS environments fail | Fernando (Sh4dowBR) Alencar | [Read More](https://medium.com/p/b8fe1321282c) |
+| Tue, 28 Apr 2026 22:58:04 GMT | Building a Zero-Trust Security Architecture From Scratch: A Founder’s Guide | Iain White | [Read More](https://medium.com/p/7a2ba49cbf54) |
+| Tue, 28 Apr 2026 22:54:24 GMT | The $292 Million KelpDAO Hack — What It Means for DeFi Security in 2026 | grace brume | [Read More](https://medium.com/p/42b780175111) |
+| Tue, 28 Apr 2026 22:45:51 GMT | Cyber Attack on Stryker: A Wake Up Call for Organizations | Dr Kimma Wreh | [Read More](https://medium.com/p/753ff02d573b) |
+| Tue, 28 Apr 2026 22:44:37 GMT | Writeup — Kioptrix Level 1 Machine For Beginner | Ali Amed | [Read More](https://medium.com/p/f721eeaad283) |
+| Tue, 28 Apr 2026 22:44:13 GMT | Escaping the Sandbox: Client-Side Template Injection (CSTI) via Outdated AngularJS | Mustafa | [Read More](https://medium.com/p/887cc278f54a) |
+| Tue, 28 Apr 2026 22:38:48 GMT | Solving Sherlock: Vantage | OxSEEKER | [Read More](https://medium.com/p/12eeb5cc1e1c) |
 | Tue, 28 Apr 2026 22:22:40 GMT | Peyklər, yoxsa sualtı? | Konul Guliyeva | [Read More](https://medium.com/p/97bb06239514) |
 | Tue, 28 Apr 2026 22:11:01 GMT | The IT Knowledge Gap You Can’t Google | Ryan Y. Kurr | [Read More](https://medium.com/p/f5f28ee5c852) |
 | Tue, 28 Apr 2026 22:04:52 GMT | The Geography of Almost Out | Adontai | [Read More](https://medium.com/p/e0d0f1e955fa) |
@@ -101,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 28 Apr 2026 15:41:41 GMT | 5 Best safe APK Download Sites in 2026 for Android Users | Herrypoor | [Read More](https://medium.com/p/7e543faf7559) |
 | Tue, 28 Apr 2026 15:41:16 GMT | The Vulnerability Blind Spot | shared blanket in the living room | [Read More](https://medium.com/p/50bdffd007c3) |
 | Tue, 28 Apr 2026 15:38:49 GMT | The Ownership Crisis: Why 70% of Your Applications Have No Accountable Owner | Sunnysinha | [Read More](https://medium.com/p/5a3fde997863) |
-| Tue, 28 Apr 2026 15:35:06 GMT | Transforming Ethical Hacking with a Streamlined Toolset | Muxia | [Read More](https://medium.com/p/b08cb4855ac2) |
-| Tue, 28 Apr 2026 15:32:54 GMT | How to Choose the Best Software Courses for Freshers in 2026? | Moyo Innovations | [Read More](https://medium.com/p/2bc404608978) |
-| Tue, 28 Apr 2026 15:28:53 GMT | Your AI Agent Can Be Socially Engineered. Here Are 3 Attacks That Prove It. | Dishanth C A | [Read More](https://medium.com/p/aa8e9e51ace5) |
-| Tue, 28 Apr 2026 15:23:36 GMT | Cybersecurity Career Guide: All Domains & Job Roles Explained | @SiaGuides  by Sia | [Read More](https://medium.com/p/4a2dc533bc6a) |
-| Tue, 28 Apr 2026 15:22:53 GMT | IPv6 DNS Attack (mitm6) Lab Guide for Beginners | Basithmohammedali | [Read More](https://medium.com/p/d58b912879a1) |
-| Tue, 28 Apr 2026 15:18:49 GMT | Your Browser is Snitching: How Companies Unmask You Without Your Consent | Tyreek Haynes | [Read More](https://medium.com/p/2e6940e18848) |
-| Tue, 28 Apr 2026 15:13:35 GMT | Why does every IT project run late? | W.Phillip | [Read More](https://medium.com/p/71d4453ee896) |
-| Tue, 28 Apr 2026 15:06:01 GMT | Human Layer Security and the Evolution of Social Engineering | J. Neil Moses | [Read More](https://medium.com/p/9955a418ee6f) |
-| Tue, 28 Apr 2026 15:01:04 GMT | Your CIO Isn’t Leading. He’s Being Led. | Nuno Roberto | [Read More](https://medium.com/p/c0f6c1683435) |
-| Tue, 28 Apr 2026 14:44:25 GMT | My Flutter - Android Security Adventure: APKTool, Frida, and Ethical Testing | M | [Read More](https://medium.com/p/14524f622d4a) |
-| Tue, 28 Apr 2026 14:41:18 GMT | What Is an Information Security Policy? A Complete Guide | Writegenic AI | [Read More](https://medium.com/p/93c6da30b819) |
