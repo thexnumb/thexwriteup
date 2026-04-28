@@ -12,7 +12,39 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 28 Apr 2026 06:20:33 GMT | How MSPs Generate Consistent B2B Leads Through Cybersecurity Webinars | Kobe McBride | [Read More](https://medium.com/p/6ef014c410c9) |
+| Tue, 28 Apr 2026 06:20:11 GMT | I Changed One Number… and Got Access to Citizens’ ID and Address Proofs | VoidSec24 | [Read More](https://medium.com/p/a02084428801) |
+| Tue, 28 Apr 2026 06:18:06 GMT | ️ Top 20 Bug Bounty Tools I Use Daily as a Full-Time Hunter | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/d4f903541493) |
+| Tue, 28 Apr 2026 06:17:50 GMT | The 5 Cybersecurity Objectives Every CIO Should Align with Business Strategy | Embee Software | [Read More](https://medium.com/p/8caa6b1d18a7) |
+| Tue, 28 Apr 2026 06:17:16 GMT | Best Cyber Security / Ethical Hacking Courses in Mira Road — TIIT Computer Education | TIIT Computer Education | [Read More](https://medium.com/p/be643009efe6) |
+| Tue, 28 Apr 2026 06:16:01 GMT | Why a 4-Digit PIN is More Secure Than Your 14-Character Password | Meni Tasa ( IT & CyberSecurity) | [Read More](https://medium.com/p/401a24d5b771) |
+| Tue, 28 Apr 2026 06:13:07 GMT | I Write 3000 Words Every Week These Are the Only Tools I Still Use in 2026 | Samra Ilyas | [Read More](https://medium.com/p/2191be8374c9) |
+| Tue, 28 Apr 2026 06:13:02 GMT | Why Military Thrillers Still Resonate in Today’s World of Conflict and Security | Noah Leobritish | [Read More](https://medium.com/p/5879417ec882) |
+| Tue, 28 Apr 2026 06:08:17 GMT | The Intigriti 0426 Northstar Notes: Chaining Mass Assignment & Path Traversal to Stored XSS | Vishnu Raveendran | [Read More](https://medium.com/p/bdcd019ed93b) |
+| Tue, 28 Apr 2026 06:07:02 GMT | ⚡ 30 Tiny Bash Commands That Quietly Do Most of Your Bug Bounty Recon | pavani | [Read More](https://medium.com/p/dd10823262a0) |
+| Tue, 28 Apr 2026 06:06:47 GMT | Eksperimen Sederhana Cross-Site Scripting (XSS) di PHP: Kenapa Form Input Bisa Berbahaya? | Anggrianihermawan | [Read More](https://medium.com/p/0f346cf5f603) |
+| Tue, 28 Apr 2026 06:01:24 GMT | Microsoft Confirms Active Exploitation of Windows Shell CVE-2026–32202: Why This “Low-Score” Bug… | Germano Costi | [Read More](https://medium.com/p/3a31e629269c) |
+| Tue, 28 Apr 2026 06:01:01 GMT | The Unsung Hero of Cybersecurity: Why IAM is Your Most Critical Career Pivot | Rutvik Chavda | [Read More](https://medium.com/p/90bea5cfc194) |
+| Tue, 28 Apr 2026 05:54:14 GMT | Salesforce ERP Integration: Connecting CRM with Finance, Inventory, and Operations | QuantoKnack Training | [Read More](https://medium.com/p/f36e60c82502) |
+| Tue, 28 Apr 2026 05:43:05 GMT | Android Lockdown — The Future of Mobile Hacking (Part 4) | ghostyjoe | [Read More](https://medium.com/p/e2377301de0b) |
+| Tue, 28 Apr 2026 05:39:19 GMT | How Leadership and Motivation Shape Workplace Performance | Shubham Sharma | [Read More](https://medium.com/p/fe26c0d0d41d) |
+| Tue, 28 Apr 2026 05:22:36 GMT | From API Docs to Dashboard Takeover: How Exposed OpenAPI Specs Can Lead to Business Logic Abuse | Logesh S | [Read More](https://medium.com/p/c87b9c1f81ff) |
+| Tue, 28 Apr 2026 05:10:30 GMT | Cybersecurity Foundations for Ethical Hacking and System Protection | Adhiraj Kasabe | [Read More](https://medium.com/p/b083818c40d7) |
+| Tue, 28 Apr 2026 05:09:20 GMT | The Real Meaning of a “Bug” | Rabail Zaheer | [Read More](https://medium.com/p/03d7f61addb8) |
+| Tue, 28 Apr 2026 04:56:34 GMT | Membangun Benteng Digital: Eksperimen Mandiri Serangan SQL Injection dan Mitigasinya pada Sistem… | Arofah Raudlatul H | [Read More](https://medium.com/p/82447dfd06dd) |
+| Tue, 28 Apr 2026 04:45:24 GMT | Cisco Ethical Hacker notes — part 5 | ExploitHunter | [Read More](https://medium.com/p/2b762931e1ae) |
+| Tue, 28 Apr 2026 04:44:45 GMT | Being Compliant Doesn’t Mean You’re Secure — A Vulnerability Management Reality Check | The Absolute Corporation | [Read More](https://medium.com/p/b9a348877142) |
+| Tue, 28 Apr 2026 04:34:26 GMT | Top 10 Kali Linux Tools Every Beginner Should Know (And How to Actually Use Them Smartly) | Gaurav Singh Rajput | [Read More](https://medium.com/p/1dd3cfe7f0d9) |
+| Tue, 28 Apr 2026 04:31:02 GMT | Perfect Bug Report $100 vs $1,000 Ka Farak: Triager Ko Convince Karo, Maximum Bounty Pao! | Hacker MD | [Read More](https://medium.com/p/df5d7175106a) |
+| Tue, 28 Apr 2026 04:26:33 GMT | Cisco Ethical Hacker Notes — part 4 | ExploitHunter | [Read More](https://medium.com/p/b6c19c716e8e) |
+| Tue, 28 Apr 2026 04:24:19 GMT | SMB Relay Attack in Active Directory Lab | Basithmohammedali | [Read More](https://medium.com/p/77770d74fd1d) |
+| Tue, 28 Apr 2026 04:17:44 GMT | What is Bug Bounty Hunting? How to Get Started (Beginner to Advanced Guide) | Gaurav Singh Rajput | [Read More](https://medium.com/p/85ebbb314d8f) |
+| Tue, 28 Apr 2026 03:57:39 GMT | Critical Gemini CLI Vulnerability Enables Remote Code Execution in CI/CD Pipelines | Vishnukraju | [Read More](https://medium.com/p/6670686803b5) |
+| Tue, 28 Apr 2026 03:47:26 GMT | Major Changes in the IT Sector from 2025 to 2026 | eleorex technologies | [Read More](https://medium.com/p/bfcb957b2004) |
+| Tue, 28 Apr 2026 03:47:13 GMT | Can KYBCR Exchange (Kyberon Core Group) Redefine AI-Driven Trading Security? | KYBCR Exchange (Kyberon Core Group) | [Read More](https://medium.com/p/ca9f7aeb5e8b) |
+| Tue, 28 Apr 2026 03:45:57 GMT | How a Forgotten data-cfg Attribute Let Me Steal a Reviewer Bot's Cookies. | Kani A Mahadevan | [Read More](https://medium.com/p/4f175c5a7a4a) |
 | Tue, 28 Apr 2026 03:33:16 GMT | What Makes a Game Trainer Safe? A Practical Checklist for Beginners | Napisss | [Read More](https://medium.com/p/aa81cd07332a) |
+| Tue, 28 Apr 2026 03:28:01 GMT | VTNOD Exchange (Vantura Node Holdings): Real-Time Monitoring and Intelligent Compliance Explained | VTNOD Exchange (Vantura Node Holdings) | [Read More](https://medium.com/p/ff1d1854e590) |
 | Tue, 28 Apr 2026 03:23:03 GMT | How to Choose a Reliable Online Gaming Platform: A Complete Guide | Kirana Savitri | [Read More](https://medium.com/p/a83b7be05a77) |
 | Tue, 28 Apr 2026 03:19:47 GMT | B3dr0ck Tryhackme Writeup | Christopher Gilbert | [Read More](https://medium.com/p/f03090f5cb0c) |
 | Tue, 28 Apr 2026 03:12:09 GMT | Why Is AXIO Exchange (Axiom Flow Markets) Investing in AI-Driven Risk Control Infrastructure? | AXIO Exchange | [Read More](https://medium.com/p/f22935bcc345) |
@@ -80,35 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 27 Apr 2026 19:26:05 GMT | "The AI Too Dangerous to Release — The Full Story of Claude Mythos (2026)" | Mind Spark | [Read More](https://medium.com/p/add59169b14f) |
 | Mon, 27 Apr 2026 19:25:41 GMT | Anatomy of SAP Privileges: How Administrator Rights Work in macOS | aaa | [Read More](https://medium.com/p/fa0d15fb1af1) |
 | Mon, 27 Apr 2026 19:12:29 GMT | FINDERR vs Find My Device — Why You Probably Need Both | Untrapd | [Read More](https://medium.com/p/8260822f2739) |
-| Mon, 27 Apr 2026 19:07:49 GMT | The Love I Lost, and the Self I Gave Up | deeva | [Read More](https://medium.com/p/67053411ec13) |
-| Mon, 27 Apr 2026 18:53:00 GMT | We Are the Ones We Have Been Waiting For | SubMerge | [Read More](https://medium.com/p/f2ddecb83e47) |
-| Mon, 27 Apr 2026 18:48:46 GMT | Norway Is Being Squeezed From Every Direction. Nobody Is Writing About It. | Vivek Anand | [Read More](https://medium.com/p/4e59188aa566) |
-| Mon, 27 Apr 2026 18:43:49 GMT | 이미 임시 명세서 제출했고 출원 번호까지 있음 | 한아윤 | [Read More](https://medium.com/p/4e6ac31c404f) |
-| Mon, 27 Apr 2026 18:43:26 GMT | Is Your Home Really Safe? A 2026 Reality Check | AlexBryn | [Read More](https://medium.com/p/a7ec3f88c4e3) |
-| Mon, 27 Apr 2026 18:41:25 GMT | The EU Cyber Resilience Act: What OEMs Need to Know About Software Compliance by 2027 | Finn James | [Read More](https://medium.com/p/4c41fa8610c3) |
-| Mon, 27 Apr 2026 18:36:57 GMT | VulnNet: Roasted TryHackMe Writeup — Active Directory Exploitation Step-by-Step | Indu Shekhar Pandey | [Read More](https://medium.com/p/06774ca260cf) |
-| Mon, 27 Apr 2026 18:36:53 GMT | The 403 That Wasn’t: A 30-Minute S3 Takeover | SRCK | [Read More](https://medium.com/p/7e7a9f3d665b) |
-| Mon, 27 Apr 2026 18:36:03 GMT | 이미 임시 명세서 제출하고 출원 번호까지 있음jinjubridge9999@gmail.com | 한아윤 | [Read More](https://medium.com/p/6e83e15be296) |
-| Mon, 27 Apr 2026 18:35:36 GMT | Building Cyber-Eye: Bringing Desktop-Grade Network Forensics to Your Pocket | Dennischacko | [Read More](https://medium.com/p/a0318ebf71e0) |
-| Mon, 27 Apr 2026 18:35:21 GMT | How I Found My First Two SSRF CVEs | Shmulik Cohen | [Read More](https://medium.com/p/0f53daadcdd8) |
-| Mon, 27 Apr 2026 18:24:55 GMT | TryHackMe - Elastic: Setting up a SOC Lab - WriteUp | Axoloth | [Read More](https://medium.com/p/742c39723668) |
-| Mon, 27 Apr 2026 18:24:05 GMT | Why Security Services for London Events Are No Longer Optional | waeventservices.co.uk/ | [Read More](https://medium.com/p/cc53d50dee17) |
-| Mon, 27 Apr 2026 18:24:02 GMT | TryHackMe - Elastic: Using Elastic Defend - WriteUp | Axoloth | [Read More](https://medium.com/p/d68d1dd549af) |
-| Mon, 27 Apr 2026 18:14:29 GMT | The Token Is Not the Money: Why Most Blockchain Projects Get Security Architecture Wrong | Blake Findell | [Read More](https://medium.com/p/a0185b408667) |
-| Mon, 27 Apr 2026 18:12:26 GMT | Seed Phrase: The 12 Words That Control Everything | Deccan Dao | [Read More](https://medium.com/p/0083426c0385) |
-| Mon, 27 Apr 2026 18:09:45 GMT | AI Detection Benchmark 2026: Why ZeroGPT’s 38% Accuracy Fails Kimi K2 | Jonathan | [Read More](https://medium.com/p/52430595098a) |
-| Mon, 27 Apr 2026 18:05:12 GMT | Can We Trust AI? Exploring Explainable AI in Simple Words | Vickysisal | [Read More](https://medium.com/p/a409f47370de) |
-| Mon, 27 Apr 2026 18:01:15 GMT | Твой VPN светит в DPI как новогодняя ёлка. Я проверил 6 сервисов – 5 палятся за 200мс | Alex Brin | [Read More](https://medium.com/p/46c2f1c472fc) |
-| Mon, 27 Apr 2026 17:58:24 GMT | The Age of Trust, Part 2: The Global Network | Anton Minin Baranovskii | [Read More](https://medium.com/p/e39d07e701ad) |
-| Mon, 27 Apr 2026 17:57:37 GMT | Using Param Miner to Discover Parameters in Burp Suite: My Bug Bounty Journey | Exhaustedmutex | [Read More](https://medium.com/p/2e98a1990e05) |
-| Mon, 27 Apr 2026 17:54:02 GMT | When Suspicious Process Chains Aren’t Malicious: Understanding Browser Native Messaging in… | amritochates | [Read More](https://medium.com/p/ce597ee2edb6) |
-| Mon, 27 Apr 2026 17:51:01 GMT | This “Low Severity” XSS Turned Into a Payout I Wasn’t Expecting | Tanvi Chauhan | [Read More](https://medium.com/p/5540d07da66c) |
-| Mon, 27 Apr 2026 17:42:42 GMT | TRX CTF2026 | Eren Soylu | [Read More](https://medium.com/p/f77fe15fe4ab) |
-| Mon, 27 Apr 2026 17:34:57 GMT | 什麼是 Data Lake、Data Warehouse 與 Data Mart？ | 思維舞步 MindSteps | [Read More](https://medium.com/p/77663a831a70) |
-| Mon, 27 Apr 2026 17:29:21 GMT | Passing CISSP at 23: The Exam, The Mindset Shift | Deepanshu Bisht | [Read More](https://medium.com/p/bab9d9abd0cc) |
-| Mon, 27 Apr 2026 17:14:45 GMT | Stop Using Shared Folders in Your Pentest Lab. Use These Instead | Mbcyberworks | [Read More](https://medium.com/p/3d2bca567be1) |
-| Mon, 27 Apr 2026 17:10:20 GMT | AI Is Already Outpacing Your Security Team. That Is Not Debate. | Len Noe | [Read More](https://medium.com/p/856671a00a8d) |
-| Mon, 27 Apr 2026 17:09:55 GMT | Dear Younger Me, | Tia B | [Read More](https://medium.com/p/ad259f14ea1b) |
-| Mon, 27 Apr 2026 16:53:43 GMT | What AppSec Engineers Actually Do (and Why It Matters) | Mohamed AboElKheir | [Read More](https://medium.com/p/c33fe5242d44) |
-| Mon, 27 Apr 2026 16:50:37 GMT | LockBit vs. BSI: A Three-Day Showdown That Highlights the Importance of IT Service Conti | Nabila Khairun Nisa | [Read More](https://medium.com/p/753afe209746) |
-| Mon, 27 Apr 2026 16:45:44 GMT | Top 10 Scams of 2026: The Attacks That Don’t Look Like Scams Anymore | Travis Ray Caverhill | [Read More](https://medium.com/p/8756e0472449) |
