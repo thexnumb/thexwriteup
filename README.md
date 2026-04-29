@@ -12,6 +12,49 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Apr 2026 08:21:01 GMT | ⚙️ 08. — JWT authentication bypass via algorithm confusion with no exposed key | The4v1 | [Read More](https://medium.com/p/b4253f902923) |
+| Wed, 29 Apr 2026 08:20:50 GMT | What Software Development Means for Local Businesses | Saynet.ng Innovations | [Read More](https://medium.com/p/59e1b3947cc6) |
+| Wed, 29 Apr 2026 08:20:02 GMT | 10 Most Influential CISOs to Follow in 2026 | Oran F | [Read More](https://medium.com/p/77a1d0890587) |
+| Wed, 29 Apr 2026 08:18:07 GMT | Role of ISO/IEC 27002 in Strengthening Information Security Controls | Asmeen S D | [Read More](https://medium.com/p/8fc7d0550642) |
+| Wed, 29 Apr 2026 08:11:01 GMT | ⚙️ 07. — JWT authentication bypass via algorithm confusion | The4v1 | [Read More](https://medium.com/p/05349c548c96) |
+| Wed, 29 Apr 2026 08:11:01 GMT | Small Office Cybersecurity Checklist Every Business Should Follow in 2026 | mrwhite18 | [Read More](https://medium.com/p/f8b14c32aca2) |
+| Wed, 29 Apr 2026 08:10:40 GMT | Why I Probably Won’t Specialize in GRC (But I’m Glad I Did This Project Anyway). | Outlaw | [Read More](https://medium.com/p/3bfd589cca3c) |
+| Wed, 29 Apr 2026 08:08:46 GMT | The EchoLeak Lesson: How One Email Broke AI Agent Security | Automation Labs | [Read More](https://medium.com/p/a4cdf6d03450) |
+| Wed, 29 Apr 2026 08:08:36 GMT | THE SPHERICAL THINKER
+A Newsletter by SSIyer Innovations
+Issue No. | S Sunder Iyer | [Read More](https://medium.com/p/86f355b7ddd6) |
+| Wed, 29 Apr 2026 08:01:02 GMT | ⚙️ 06. — JWT Authentication Bypass via kid Header Path Traversal | The4v1 | [Read More](https://medium.com/p/42dcff2b239a) |
+| Wed, 29 Apr 2026 08:01:01 GMT | Introducing AWS Security Agent: AI-Powered Security Across the Entire Development Lifecycle | D Freni | [Read More](https://medium.com/p/69295b789aa5) |
+| Wed, 29 Apr 2026 07:56:41 GMT | Analisis Celah Keamanan Stored XSS pada Fitur Komentar: Eksperimen dan Strategi Pengamanannya | Aziztriramadhan | [Read More](https://medium.com/p/9a32af8cd2ec) |
+| Wed, 29 Apr 2026 07:53:54 GMT | Hosting with Free SSL and cPanel | Ann Taylor | [Read More](https://medium.com/p/d28f375f430b) |
+| Wed, 29 Apr 2026 07:53:35 GMT | PRTG ile Kurumsal Altyapı İzleme | Talha Aslan | [Read More](https://medium.com/p/1b824652e7fd) |
+| Wed, 29 Apr 2026 07:52:45 GMT | From Chaos to Consensus: A Deep Dive into the Architecture of Vulnerability Databases | Lanoth_Darshana | [Read More](https://medium.com/p/30df570b93d2) |
+| Wed, 29 Apr 2026 07:52:01 GMT | Where can I find online AI security Certification training? | Future Skills Academy | [Read More](https://medium.com/p/e0b8cb88573e) |
+| Wed, 29 Apr 2026 07:51:01 GMT | ⚙️ 05. — JWT Authentication Bypass via JKU Header Injection | The4v1 | [Read More](https://medium.com/p/ea01030297af) |
+| Wed, 29 Apr 2026 07:46:15 GMT | The Hidden Dangers of E-Wallets in Cybersecurity | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/c8679bb6b789) |
+| Wed, 29 Apr 2026 07:45:51 GMT | step by step reverse engineering in allsafe finding the deep link vulnerability | Naufal Al-Qhifari | [Read More](https://medium.com/p/1f9de47fe224) |
+| Wed, 29 Apr 2026 07:41:01 GMT | ⚙️ 04. — JWT Authentication Bypass via JWK Header Injection | The4v1 | [Read More](https://medium.com/p/97f3504f8618) |
+| Wed, 29 Apr 2026 07:32:31 GMT | How to Secure Webserver and Databases Instance using Security Groups | Ganteng | [Read More](https://medium.com/p/57ca7ba5fe2d) |
+| Wed, 29 Apr 2026 07:31:01 GMT | ⚙️ 03. — JWT Authentication Bypass via Weak Signing Key | The4v1 | [Read More](https://medium.com/p/8c4ba8b82e7a) |
+| Wed, 29 Apr 2026 07:23:50 GMT | How Professional Network Support Improves VoIP and Unified Communication Quality | Gavin Ellis | [Read More](https://medium.com/p/67d8fe7bc4ee) |
+| Wed, 29 Apr 2026 07:22:22 GMT | The Utility Decline of Progress Feedback: Informational Sufficiency and Epistemic Duty in Modern… | Rabbi Rothschild #ViralRabbi | [Read More](https://medium.com/p/4fc2c6a77bb0) |
+| Wed, 29 Apr 2026 07:21:01 GMT | ⚙️ 02. — JWT Authentication Bypass via Flawed Signature Verification | The4v1 | [Read More](https://medium.com/p/eb41e1ecf3c9) |
+| Wed, 29 Apr 2026 07:17:35 GMT | How Technology Powers Hybrid Learning in Schools (Complete Guide 2026) | Zeanius - School Management Software | [Read More](https://medium.com/p/c2869222c0ae) |
+| Wed, 29 Apr 2026 07:11:01 GMT | ⚙️ 01. — JWT Authentication Bypass via Unverified Signature | The4v1 | [Read More](https://medium.com/p/11c22c4859d3) |
+| Wed, 29 Apr 2026 07:09:48 GMT | I Built a Local Windows App to Check Files Before Sending Them to Clients | Klinstar | [Read More](https://medium.com/p/9b2418371298) |
+| Wed, 29 Apr 2026 07:09:01 GMT | 48小时4起合约被黑！AI+黑客已进入“读秒”时代，你的合约还扛得住吗？ | GoPlus中文社区 | [Read More](https://medium.com/p/60bbb8168cdf) |
+| Wed, 29 Apr 2026 07:01:01 GMT | JWT Vulnerabilities | The4v1 | [Read More](https://medium.com/p/16934dd22868) |
+| Wed, 29 Apr 2026 06:58:48 GMT | Best Cheap Linux Servers for Small Businesses | Andy | [Read More](https://medium.com/p/8c521c007d95) |
+| Wed, 29 Apr 2026 06:58:39 GMT | TryHackMe h4cked Part 2 Walkthrough - FTP Brute Force, Reverse Shell & Root via sudo | Arun1x | [Read More](https://medium.com/p/4da9a8ed6f35) |
+| Wed, 29 Apr 2026 06:53:05 GMT | Modern SOC Detection: Why Signal Matters More Than Alerts | Asfandyar | [Read More](https://medium.com/p/9c00a57ef9f1) |
+| Wed, 29 Apr 2026 06:45:15 GMT | We Are Living in the Golden Age of Internet Piracy and You Are Not Ready | Adam Lazreg | [Read More](https://medium.com/p/03ddb0a1c320) |
+| Wed, 29 Apr 2026 06:44:27 GMT | How Good Are AI Agents at Finding Web Vulnerabilities (Part 3) | Tuomo Makkonen | [Read More](https://medium.com/p/a0ebe5a9a571) |
+| Wed, 29 Apr 2026 06:33:09 GMT | Steganography is Not Invisible: Mengungkap Blind Spot di SOC dari Perspektif Red & Blue Team | Panggil Aku Paman | [Read More](https://medium.com/p/5ab091bfc3e2) |
+| Wed, 29 Apr 2026 06:32:08 GMT | Broken Access Control via Overprivileged Public API Key — How I Accessed 100+ User IDs, Search… | Krithick | [Read More](https://medium.com/p/41fa9641d1cc) |
+| Wed, 29 Apr 2026 06:26:37 GMT | Mapping Cyber Attacks to the OSI Layers | Redfox Security | [Read More](https://medium.com/p/ee0784db253c) |
+| Wed, 29 Apr 2026 06:19:29 GMT | How to Start a Reseller Hosting Business in 2026? | Janet Watson | [Read More](https://medium.com/p/35489e1a7f22) |
+| Wed, 29 Apr 2026 06:16:01 GMT | Architectural Patterns for Unified Authentication in Multi-App Ecosystems | Hugo | [Read More](https://medium.com/p/8019d32f79c0) |
+| Wed, 29 Apr 2026 06:14:28 GMT | Why Hiring Challenges Are Really Leadership Challenges (And How to Fix Them) | Xwtempsolutions | [Read More](https://medium.com/p/ee1fec234d0a) |
 | Wed, 29 Apr 2026 06:09:46 GMT | Ransomware Hit You？ Do These 5 Things Right Now. | Ransomrestore | [Read More](https://medium.com/p/fdd3297dadf1) |
 | Wed, 29 Apr 2026 06:09:36 GMT | 7 Signs Your Bangalore Business Needs Cyber Security Immediately | Prakash Factosecure | [Read More](https://medium.com/p/07c4ea36857b) |
 | Wed, 29 Apr 2026 06:06:53 GMT | A Mysterious Indian URL in My Windows Tray: Living with Fake Virus Alerts and Browser Notifications | Tetsuji Kondo | [Read More](https://medium.com/p/62a7b5b1ea53) |
@@ -75,44 +118,3 @@ Seni Meretas Sistem untuk Kebaikan | Harits Rahman Hakim | [Read More](https://m
 | Tue, 28 Apr 2026 22:58:04 GMT | Building a Zero-Trust Security Architecture From Scratch: A Founder’s Guide | Iain White | [Read More](https://medium.com/p/7a2ba49cbf54) |
 | Tue, 28 Apr 2026 22:54:24 GMT | The $292 Million KelpDAO Hack — What It Means for DeFi Security in 2026 | grace brume | [Read More](https://medium.com/p/42b780175111) |
 | Tue, 28 Apr 2026 22:45:51 GMT | Cyber Attack on Stryker: A Wake Up Call for Organizations | Dr Kimma Wreh | [Read More](https://medium.com/p/753ff02d573b) |
-| Tue, 28 Apr 2026 22:44:37 GMT | Writeup — Kioptrix Level 1 Machine For Beginner | Ali Amed | [Read More](https://medium.com/p/f721eeaad283) |
-| Tue, 28 Apr 2026 22:44:13 GMT | Escaping the Sandbox: Client-Side Template Injection (CSTI) via Outdated AngularJS | Mustafa | [Read More](https://medium.com/p/887cc278f54a) |
-| Tue, 28 Apr 2026 22:38:48 GMT | Solving Sherlock: Vantage | OxSEEKER | [Read More](https://medium.com/p/12eeb5cc1e1c) |
-| Tue, 28 Apr 2026 22:22:40 GMT | Peyklər, yoxsa sualtı? | Konul Guliyeva | [Read More](https://medium.com/p/97bb06239514) |
-| Tue, 28 Apr 2026 22:11:01 GMT | The IT Knowledge Gap You Can’t Google | Ryan Y. Kurr | [Read More](https://medium.com/p/f5f28ee5c852) |
-| Tue, 28 Apr 2026 22:04:52 GMT | The Geography of Almost Out | Adontai | [Read More](https://medium.com/p/e0d0f1e955fa) |
-| Tue, 28 Apr 2026 22:01:01 GMT | Signing Is the Control Plane | Bilal Zuberi | [Read More](https://medium.com/p/95066002392e) |
-| Tue, 28 Apr 2026 21:59:59 GMT | Three breaches that had nothing to do with hackers and everything to do with compliance theater | Rafat Yazdani | [Read More](https://medium.com/p/35085f98549e) |
-| Tue, 28 Apr 2026 21:55:10 GMT | Sony Locked People Out of Games They Already Paid For. Here Is What Is Actually Happening. | Misplays | [Read More](https://medium.com/p/69d33ba079ca) |
-| Tue, 28 Apr 2026 21:49:16 GMT | Symmetric vs. | G F Maiwun | [Read More](https://medium.com/p/393ca7b25faa) |
-| Tue, 28 Apr 2026 21:35:26 GMT | They Never Sent a Single Email: Investigating a Microsoft Teams Vishing Attack | Joao Claudino | [Read More](https://medium.com/p/289a590e4e6e) |
-| Tue, 28 Apr 2026 21:32:56 GMT | Bypassing 4-Digit MFA — A HackSmarter Lab Writeup | Cyberologist | [Read More](https://medium.com/p/873052edf5de) |
-| Tue, 28 Apr 2026 21:28:44 GMT | Basic Programming Knowledge for Beginners: A Clear and Confident Guide to Getting Started | Adrien Schubert | [Read More](https://medium.com/p/892c47126ffa) |
-| Tue, 28 Apr 2026 21:24:48 GMT | The Identity That Dies With the Session | Seven Cubed Seven Labs | [Read More](https://medium.com/p/43c34d9b662c) |
-| Tue, 28 Apr 2026 21:24:23 GMT | Your AI Agent Has Been Compromised. You Just Don’t Know It Yet. | Arcencilo | [Read More](https://medium.com/p/f5c69d891581) |
-| Tue, 28 Apr 2026 21:23:12 GMT | Prototype Pollution | Marduk I Am | [Read More](https://medium.com/p/15f47d9e5c6a) |
-| Tue, 28 Apr 2026 21:01:19 GMT | COMMON HTTP ERROR CODES & Bypass Techniques | Cybersecplayground | [Read More](https://medium.com/p/d2d7a09ec062) |
-| Tue, 28 Apr 2026 20:57:59 GMT | Building a Windows File System Minifilter Driver: Intercepting File Access | S12 - 0x12Dark Development | [Read More](https://medium.com/p/55b933ccd6a4) |
-| Tue, 28 Apr 2026 20:51:37 GMT | CyberDefenders — Ramnit Walkthrough | Serhan Kırca | [Read More](https://medium.com/p/6d31c57846ad) |
-| Tue, 28 Apr 2026 20:48:05 GMT | Securing the Backbone — Issue #33: The Reports That Redefined Cyber Risk | Eric Gallagher | [Read More](https://medium.com/p/8a71515ef075) |
-| Tue, 28 Apr 2026 20:47:43 GMT | Securing the Backbone — Issue #32 (Part 1): Legacy Dependencies and the AI Vulnerability Avalanche… | Eric Gallagher | [Read More](https://medium.com/p/ba1538775ad0) |
-| Tue, 28 Apr 2026 20:47:26 GMT | Privacy in the Smart Home-Era | Mdadams | [Read More](https://medium.com/p/4f0e42884b15) |
-| Tue, 28 Apr 2026 20:46:34 GMT | How termchalk , a typosquatted version of the popular chalk library Turns Your Terminal into a… | Nijin K | [Read More](https://medium.com/p/dc5ba4bc6667) |
-| Tue, 28 Apr 2026 20:42:00 GMT | How Reasoning Hacked the Boxes! | N88B | [Read More](https://medium.com/p/01fea9908476) |
-| Tue, 28 Apr 2026 20:39:59 GMT | When AI Becomes a Cyber Operator: A Governance Playbook for CIOs, CISOs, and Public Sector Leaders | Ruben Alcala | [Read More](https://medium.com/p/3f5a8250965d) |
-| Tue, 28 Apr 2026 20:16:25 GMT | Network Services — THM | Fadybasem - ( SilentN0va ) | [Read More](https://medium.com/p/6abc73b9ab46) |
-| Tue, 28 Apr 2026 20:13:14 GMT | India’s Banks Just Got Their AI Wake-Up Call. | Anindya Mishra | [Read More](https://medium.com/p/dd3b4b5e8d49) |
-| Tue, 28 Apr 2026 20:07:22 GMT | Bandit Solutions (Over The Wire) | Maro_Medhat | [Read More](https://medium.com/p/1a3a61081586) |
-| Tue, 28 Apr 2026 20:04:14 GMT | The Cybersecurity — Career Accelerator (April 2026) | Franklin Rhodes | [Read More](https://medium.com/p/abc4a6d58d14) |
-| Tue, 28 Apr 2026 20:00:52 GMT | Official Blind XSS Platform Update (2026) | xss0r | [Read More](https://medium.com/p/f5c067f537fd) |
-| Tue, 28 Apr 2026 19:45:56 GMT | Tryhackme room Blue كيف تحل لاب ويندوز 7 ؟ | Moahmmed | [Read More](https://medium.com/p/186bc6d06584) |
-| Tue, 28 Apr 2026 19:44:12 GMT | TAMECAT: Iranian APT42 Group New PowerShell Backdoor Targeting Military and Government Officials | Excalibra | [Read More](https://medium.com/p/ebf433208da5) |
-| Tue, 28 Apr 2026 19:25:32 GMT | PhantomRPC: A New Privilege Escalation Technique in Windows RPC | SOCFortress | [Read More](https://medium.com/p/e288632ec6fd) |
-| Tue, 28 Apr 2026 19:21:37 GMT | The Day I Realized I’d Been Running My Freelance Business Like an Unlocked Car | Jusjaesho | [Read More](https://medium.com/p/bbf601f32fcd) |
-| Tue, 28 Apr 2026 19:16:25 GMT | Is It Safe to Upload Documents Online for PDF Conversion? | Zerocloudpdf | [Read More](https://medium.com/p/794142102c7e) |
-| Tue, 28 Apr 2026 19:11:29 GMT | Unauthenticated SSRF via /api/cors on Multiple Subdomains | Bex01 | [Read More](https://medium.com/p/bb1d12766bf1) |
-| Tue, 28 Apr 2026 19:08:09 GMT | Stay Safe in Today’s World: Simple Personal & Home Security Tips That Really Work | Xabbi | [Read More](https://medium.com/p/d28dac3db360) |
-| Tue, 28 Apr 2026 19:05:53 GMT | Visa vs Mastercard: System Design reveals Payment Vulnerability | Yash Kumar | [Read More](https://medium.com/p/f587ad1da8f7) |
-| Tue, 28 Apr 2026 19:04:05 GMT | How a Global Outage Pushed Me to Build My First App Without Knowing Coding | Yuval Sarag | [Read More](https://medium.com/p/f65ac6b37827) |
-| Tue, 28 Apr 2026 19:03:37 GMT | Why Voicemail is Dead | Matteo Zancanella | [Read More](https://medium.com/p/ca699f54c03e) |
-| Tue, 28 Apr 2026 19:03:05 GMT | 4K Security Cameras vs HD Cameras: Which One Should You Choose? | AlexBryn | [Read More](https://medium.com/p/a45479251c09) |
