@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Apr 2026 22:15:32 GMT | The Risk of Being Known | Elana | [Read More](https://medium.com/p/58e656841ede) |
+| Wed, 29 Apr 2026 22:05:40 GMT | The Art of Coercion: Trump’s High-Stakes Gamble in Iran | Robertikhwani | [Read More](https://medium.com/p/18d86fc6a951) |
+| Wed, 29 Apr 2026 22:05:11 GMT | The 2026 Cybersecurity Roadmap (Part 2): L1 — Where You Stop Learning and Start Working | Inside Garuda-(Discord-asprin32) | [Read More](https://medium.com/p/7cb65b48fc31) |
+| Wed, 29 Apr 2026 21:50:43 GMT | TryHackMe - Report Writing for SOC L2 - WriteUp | Axoloth | [Read More](https://medium.com/p/262ce0157d93) |
+| Wed, 29 Apr 2026 21:38:58 GMT | Project Glasswing: The Claude Mythos AI That Found 2,000 Threats in 7 Weeks — And Put Banks on Edge | Deepak Thakur | [Read More](https://medium.com/p/d82c31cacd0c) |
+| Wed, 29 Apr 2026 21:28:52 GMT | The Post-Policy Era: Governing AI Systems That Evolve Faster Than Controls | Roger Millar | [Read More](https://medium.com/p/4ad4be38e5d7) |
+| Wed, 29 Apr 2026 21:27:16 GMT | Where does hacked data go and how is it used? | Shirokage Unit (白影ユニット) | [Read More](https://medium.com/p/5751048677f4) |
+| Wed, 29 Apr 2026 21:22:00 GMT | Anatomy of an Academic Deception: The Collapse of LMT and the "Shiho Model" | Chie Let Ni | [Read More](https://medium.com/p/c5e8ed665122) |
+| Wed, 29 Apr 2026 21:10:16 GMT | How I was able to hack more than 300 website | Shirokage Unit (白影ユニット) | [Read More](https://medium.com/p/1a7f5215b905) |
 | Wed, 29 Apr 2026 21:03:06 GMT | CyberDefenders — DanaBot WalkThrough | Serhan Kırca | [Read More](https://medium.com/p/4eb1884e83f2) |
 | Wed, 29 Apr 2026 21:00:22 GMT | How I Built a Real-Time DDoS Detection Engine from Scratch | Zmmayin | [Read More](https://medium.com/p/6083ed94aece) |
 | Wed, 29 Apr 2026 20:42:02 GMT | North Korea’s AI‑Assisted Lazarus Threats Target Developers Through Fake Interviews | Defend My Business | [Read More](https://medium.com/p/934b36ee5d0d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Apr 2026 14:01:05 GMT | Cyber Briefing: 2026.04.29 | CyberMaterial | [Read More](https://medium.com/p/7dde8a079097) |
 | Wed, 29 Apr 2026 14:01:05 GMT | Common Online Scams in 2026: How to Identify and Avoid Them | Manula Udyoga | [Read More](https://medium.com/p/caf72fad4ea1) |
 | Wed, 29 Apr 2026 14:00:03 GMT | We Got Targeted: How Attackers Used Microsoft Teams to Own an Employee’s Machine, And How We Caught… | SHENOBIE | [Read More](https://medium.com/p/40fcf202098b) |
-| Wed, 29 Apr 2026 13:59:27 GMT | Finding an IDOR in Tesla From the Outside | Asjad Butt | [Read More](https://medium.com/p/224166216254) |
-| Wed, 29 Apr 2026 13:48:36 GMT | The Illusion: Bridging the Gap Between the LLM and the Perception of Vulnerability | vestigia | [Read More](https://medium.com/p/27e8c0bd0a5d) |
-| Wed, 29 Apr 2026 13:48:11 GMT | From PhD research on breaking systems… to getting paid to stop others from breaking real ones | Mehdi Karimi, PhD | [Read More](https://medium.com/p/44a21db621b0) |
-| Wed, 29 Apr 2026 13:43:19 GMT | What CISOs Should Expect from SIEM Platforms Today | NetWitness | [Read More](https://medium.com/p/f0d868ee637c) |
-| Wed, 29 Apr 2026 13:36:38 GMT | Blinded by 403: How I Almost Missed a Critical .git Exposure (On a Government Site) | rozzen | [Read More](https://medium.com/p/310c11ee03ff) |
-| Wed, 29 Apr 2026 13:31:59 GMT | Enterprise Report Access Control Framework: RBAC, CIA Tiers, and RACI for Strategic Reports | Tural Allahverdiyev | [Read More](https://medium.com/p/470f192dcb7b) |
-| Wed, 29 Apr 2026 13:26:52 GMT | The Global Impact of Open-Source Technology on Innovation | kongo tech | [Read More](https://medium.com/p/d531554369f5) |
-| Wed, 29 Apr 2026 13:12:32 GMT | Encoding Bypasses - Complete Guide | Amrsmooke | [Read More](https://medium.com/p/438c1aaa6320) |
-| Wed, 29 Apr 2026 13:03:17 GMT | How Digital Payment Platforms Protect Your Money and Data in 2026 | YOB Pay | [Read More](https://medium.com/p/42f976940f85) |
