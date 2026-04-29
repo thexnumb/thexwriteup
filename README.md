@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Apr 2026 21:03:06 GMT | CyberDefenders — DanaBot WalkThrough | Serhan Kırca | [Read More](https://medium.com/p/4eb1884e83f2) |
+| Wed, 29 Apr 2026 21:00:22 GMT | How I Built a Real-Time DDoS Detection Engine from Scratch | Zmmayin | [Read More](https://medium.com/p/6083ed94aece) |
+| Wed, 29 Apr 2026 20:42:02 GMT | North Korea’s AI‑Assisted Lazarus Threats Target Developers Through Fake Interviews | Defend My Business | [Read More](https://medium.com/p/934b36ee5d0d) |
+| Wed, 29 Apr 2026 20:28:42 GMT | If You’d Known, Would You Have Agreed? | Becca ∞ | [Read More](https://medium.com/p/a9de1529ac78) |
+| Wed, 29 Apr 2026 20:25:52 GMT | The Extraordinary Man Problem | sound_of_silence | [Read More](https://medium.com/p/149f61a96e44) |
+| Wed, 29 Apr 2026 20:22:14 GMT | AI-Era Attack Surface | Pietro Romano / SecBeret | [Read More](https://medium.com/p/d5168ce2747f) |
+| Wed, 29 Apr 2026 20:21:01 GMT | Basic Vulnerability Identification Techniques - TryHackMe - practical challenge | Jose Praveen | [Read More](https://medium.com/p/ca492757d909) |
+| Wed, 29 Apr 2026 20:12:54 GMT | HackTheBox — PingPong (Insane Windows): Walkthrough | J0K3R | [Read More](https://medium.com/p/dab47896e69f) |
+| Wed, 29 Apr 2026 20:06:04 GMT | AI/ML Security Threats: A Practical Walkthrough for Cybersecurity Learners | Odiomonafe Jamal . A | [Read More](https://medium.com/p/74ab46dd3109) |
+| Wed, 29 Apr 2026 20:01:01 GMT | The Form Is Soft. The Substance Is Not. | Yoshikokawakami | [Read More](https://medium.com/p/1813ac2fc818) |
+| Wed, 29 Apr 2026 19:56:03 GMT | Antarctica — HTB Walkthrough - Malware Analysis - By Alham Rizvi | Alham Rizvi | [Read More](https://medium.com/p/218fdfd900d9) |
 | Wed, 29 Apr 2026 19:51:46 GMT | AI Models & Data: Understanding the Hidden Security Risks in AI Systems | Odiomonafe Jamal . A | [Read More](https://medium.com/p/cc8b82cd4d33) |
+| Wed, 29 Apr 2026 19:49:17 GMT | Why Your API Rate Limiting is Broken (And How to Fix It) | Costel Apostol | [Read More](https://medium.com/p/1ffe374d1478) |
 | Wed, 29 Apr 2026 19:42:13 GMT | Here are powerful Google dorks for bug bounty hunting, | Imran Niaz | [Read More](https://medium.com/p/cf5d84c82b7d) |
 | Wed, 29 Apr 2026 19:39:01 GMT | Cyber Threat Intelligence & SOC Dashboard Operations | Tooba Siddiqui | [Read More](https://medium.com/p/3f3b0f1187e0) |
 | Wed, 29 Apr 2026 19:32:22 GMT | Acceptable Encryption Standard | Petersmuditha | [Read More](https://medium.com/p/b68345f3d21d) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Apr 2026 13:26:52 GMT | The Global Impact of Open-Source Technology on Innovation | kongo tech | [Read More](https://medium.com/p/d531554369f5) |
 | Wed, 29 Apr 2026 13:12:32 GMT | Encoding Bypasses - Complete Guide | Amrsmooke | [Read More](https://medium.com/p/438c1aaa6320) |
 | Wed, 29 Apr 2026 13:03:17 GMT | How Digital Payment Platforms Protect Your Money and Data in 2026 | YOB Pay | [Read More](https://medium.com/p/42f976940f85) |
-| Wed, 29 Apr 2026 12:57:07 GMT | COASP vs CAISP: Which AI Security Certification Should You Choose in 2026? | Isha | [Read More](https://medium.com/p/419a63f5b599) |
-| Wed, 29 Apr 2026 12:53:47 GMT | What is Crypto Custody? | Laurence Beaufoy | [Read More](https://medium.com/p/bba170914f1e) |
-| Wed, 29 Apr 2026 12:52:39 GMT | Build a Simple File Upload Website Using Azure Blob Storage | E.A.T. Dilmini | [Read More](https://medium.com/p/7ed2930b6d75) |
-| Wed, 29 Apr 2026 12:42:41 GMT | A Systematic Guide to Debugging JavaScript at Scale | Steven Opio | [Read More](https://medium.com/p/b0947125db40) |
-| Wed, 29 Apr 2026 12:42:33 GMT | Browser Extensions = Silent Spy?
-The Hidden Risk Sitting Inside Your Browser | Paritosh | [Read More](https://medium.com/p/fd883b192cb0) |
-| Wed, 29 Apr 2026 12:33:27 GMT | Siyah Ekranın Arkasındaki Güç: 0’dan İleri Seviyeye CMD Rehberi Part 1 Network Komutları | Yılmaz Keskin | [Read More](https://medium.com/p/8a2b04286ca4) |
-| Wed, 29 Apr 2026 12:31:01 GMT | Key Drivers of Automation | Scimus | [Read More](https://medium.com/p/d1f41ee344e8) |
-| Wed, 29 Apr 2026 12:25:37 GMT | The “Mythos Moment”: Why CIO Leadership Must Reframe AI from Productivity Agenda to Enterprise… | Shruti Deshpande-Rawoot | [Read More](https://medium.com/p/6112cbfb1073) |
-| Wed, 29 Apr 2026 12:18:53 GMT | Anthropic’s New Savior: Mythos AI (Explained Like I’m 5) | TechTales | [Read More](https://medium.com/p/4f65c3daa319) |
-| Wed, 29 Apr 2026 12:15:41 GMT | How I Built an AI-Powered Phishing Detection System Using MERN Stack and Machine Learning? | Hitesh Joshi | [Read More](https://medium.com/p/ce126a6ecbcc) |
-| Wed, 29 Apr 2026 12:15:28 GMT | Hashicorp Vault and Gitlab CI/CD integration | Zahid Ramazanli | [Read More](https://medium.com/p/9015ac92282c) |
-| Wed, 29 Apr 2026 12:09:48 GMT | Active Darknet Markets 2026 — Why Many Links Fail & How to Find Real Ones | onion links | [Read More](https://medium.com/p/001a46d0e6bf) |
