@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 29 Apr 2026 23:51:29 GMT | What is Networking? | Stacy Sirbu | [Read More](https://medium.com/p/f3b16917bf40) |
+| Wed, 29 Apr 2026 23:27:52 GMT | XSS Sistemi Nasıl Manipüle Eder? | Zeki Kayaalp | [Read More](https://medium.com/p/16e617c2009f) |
+| Wed, 29 Apr 2026 23:22:25 GMT | What happens when the strong one breaks? | Nicole Tschetter | [Read More](https://medium.com/p/2556c8d9841c) |
+| Wed, 29 Apr 2026 23:16:06 GMT | Best Privacy Browsers? I Tested Tor, Brave, Mullvad and Many Others (Which Is Best for Daily Use?) | Shahzaib | [Read More](https://medium.com/p/021d48ea644d) |
+| Wed, 29 Apr 2026 23:12:25 GMT | How Online Platforms Detect Fake ID Documents During Signup | John Wick | [Read More](https://medium.com/p/71b169694393) |
+| Wed, 29 Apr 2026 23:11:36 GMT | Careers in Cyber | Stacy Sirbu | [Read More](https://medium.com/p/d0caa2bd150f) |
+| Wed, 29 Apr 2026 23:11:21 GMT | Following Scam Harm Without Exposing Sensitive Methods | Kelly Meinhart | [Read More](https://medium.com/p/175f635d76c3) |
+| Wed, 29 Apr 2026 23:03:02 GMT | Sarvesh Murali Cybersecurity Mentor Review | Sarvesh Murali | [Read More](https://medium.com/p/55ec826607b0) |
+| Wed, 29 Apr 2026 22:56:04 GMT | Who is Sarvesh Murali? | Sarvesh Murali | [Read More](https://medium.com/p/504c761b0fc5) |
+| Wed, 29 Apr 2026 22:53:51 GMT | ✍️ STT #3 — Comment and Control | TheGr8Val | [Read More](https://medium.com/p/1f3fb1b52fd1) |
+| Wed, 29 Apr 2026 22:46:27 GMT | [SOLVED]AADSTS50194: Two Ways to Solve the /common Endpoint Error in Entra ID | Namsoo Choi | [Read More](https://medium.com/p/0aa3e6e7ef18) |
+| Wed, 29 Apr 2026 22:46:05 GMT | Basic Pentesting: From SMB Enumeration to Root via SSH Key Exploitation | Enryuuu | [Read More](https://medium.com/p/e182482f156e) |
+| Wed, 29 Apr 2026 22:41:53 GMT | AWS Infrastructure Security: A DevOps Playbook for Building Secure Cloud Environments | Ravish Khullar | [Read More](https://medium.com/p/51863cda7b50) |
 | Wed, 29 Apr 2026 22:15:32 GMT | The Risk of Being Known | Elana | [Read More](https://medium.com/p/58e656841ede) |
 | Wed, 29 Apr 2026 22:05:40 GMT | The Art of Coercion: Trump’s High-Stakes Gamble in Iran | Robertikhwani | [Read More](https://medium.com/p/18d86fc6a951) |
 | Wed, 29 Apr 2026 22:05:11 GMT | The 2026 Cybersecurity Roadmap (Part 2): L1 — Where You Stop Learning and Start Working | Inside Garuda-(Discord-asprin32) | [Read More](https://medium.com/p/7cb65b48fc31) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Apr 2026 14:39:39 GMT | Cyber Security: The First Line of Defense in a Connected World | Arti Sandip Jadhav | [Read More](https://medium.com/p/bf8cb2f623aa) |
 | Wed, 29 Apr 2026 14:37:45 GMT | Kuantum Çağına Hazırlık: Klasik Kriptografiden Post-Kuantum Güvenliğe | Serdar Göksu | [Read More](https://medium.com/p/7dc1142de624) |
 | Wed, 29 Apr 2026 14:33:03 GMT | We Installed Cameras for Safety. They Helped Us Bring a Lost Cat Home. | Isaac Kirk | [Read More](https://medium.com/p/de043b5c008e) |
-| Wed, 29 Apr 2026 14:32:10 GMT | Self-XSS + CSRF Leading to Account Takeover (50-Character Payload Limit Challenge) | CANITEY | [Read More](https://medium.com/p/74f75d0b2c06) |
-| Wed, 29 Apr 2026 14:31:41 GMT | SPL Sorgularından Raporlara: Splunk Reports Rehberi | Ahmet Badem | [Read More](https://medium.com/p/82b3eed8a44a) |
-| Wed, 29 Apr 2026 14:31:01 GMT | Breaking Into Cybersecurity in 2026 — A Series (Part III: The Gurus Are Lying to You) | Irene A. Gil | [Read More](https://medium.com/p/51262737e6d5) |
-| Wed, 29 Apr 2026 14:26:10 GMT | Kerberoasting in 2026: Why “We Didn’t Crack It” Is Still a Critical Active Directory Finding | Cameron Bardin (MDVKG) | [Read More](https://medium.com/p/bd1ac22e235b) |
-| Wed, 29 Apr 2026 14:19:57 GMT | Exposed and Vulnerable: Internet Facing VNC Servers Put Critical Infrastructure at Risk | Jas | [Read More](https://medium.com/p/81663dd25e3f) |
-| Wed, 29 Apr 2026 14:19:21 GMT | Deepfakes and Privacy Issues | Skillsyard | [Read More](https://medium.com/p/7b4df88013b7) |
-| Wed, 29 Apr 2026 14:15:38 GMT | Cyber Security Is Not Just for Ethical Hackers, 6 Career Paths Many Professionals Overlook | LightHarbour Institute | [Read More](https://medium.com/p/4c8d9a8ddfbe) |
-| Wed, 29 Apr 2026 14:14:58 GMT | Part 2 : Cross-Site Scripting (XSS) | Protégé IGDTUW | [Read More](https://medium.com/p/325a54302f70) |
-| Wed, 29 Apr 2026 14:10:49 GMT | How I Reproduced WannaCry in a Lab — And What It Taught Me About Ransomware Defense | Sukansh | [Read More](https://medium.com/p/b6521e5c4f32) |
-| Wed, 29 Apr 2026 14:05:00 GMT | A Practical Guide to Safe Online Gaming and Choosing the Right Platform | Kirana Savitri | [Read More](https://medium.com/p/a2243b196ef7) |
-| Wed, 29 Apr 2026 14:01:05 GMT | Cyber Briefing: 2026.04.29 | CyberMaterial | [Read More](https://medium.com/p/7dde8a079097) |
-| Wed, 29 Apr 2026 14:01:05 GMT | Common Online Scams in 2026: How to Identify and Avoid Them | Manula Udyoga | [Read More](https://medium.com/p/caf72fad4ea1) |
-| Wed, 29 Apr 2026 14:00:03 GMT | We Got Targeted: How Attackers Used Microsoft Teams to Own an Employee’s Machine, And How We Caught… | SHENOBIE | [Read More](https://medium.com/p/40fcf202098b) |
