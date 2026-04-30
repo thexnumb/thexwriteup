@@ -12,6 +12,43 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Apr 2026 10:50:06 GMT | Key Factors to Review the Tech Support Service Albany | ArcSource Consulting | [Read More](https://medium.com/p/511bad1bc820) |
+| Thu, 30 Apr 2026 10:44:57 GMT | Not a Hack, Just a Mistake: What This Project Taught Me About Human Factors in Cybersecurity | Outlaw | [Read More](https://medium.com/p/de6792758d51) |
+| Thu, 30 Apr 2026 10:39:23 GMT | AI-Powered Pentesting: How a Team of Digital Interns is Revolutionizing Cybersecurity | Tamer Hellah | [Read More](https://medium.com/p/3933d0a63497) |
+| Thu, 30 Apr 2026 10:37:37 GMT | Write-Up: BugForge Weekly Challenge — MesaNet Portal with Stored-XSS | Athiwat Tiprasaharn | [Read More](https://medium.com/p/087a7dde6d05) |
+| Thu, 30 Apr 2026 10:36:47 GMT | When AI Stops Answering and Starts Acting: A Security Professional’s Guide to MITRE ATLAS | Akanksha | [Read More](https://medium.com/p/5803cd95bb72) |
+| Thu, 30 Apr 2026 10:33:59 GMT | The Claude Agent That Wiped a Database in 9 Seconds Made Me Audit Everything. Here’s What I Found. | PIXIPACE | [Read More](https://medium.com/p/6953a41ca615) |
+| Thu, 30 Apr 2026 10:33:34 GMT | Why Secure DNS Matters — And Why EU-Based DNS Is Gaining Attention | Chris Ahrweiler | [Read More](https://medium.com/p/27c85ecfed36) |
+| Thu, 30 Apr 2026 10:33:03 GMT | NEWSLETTER: Latest in AI, TikTok, Cybersecurity and “DO NOT JUST WORK FOR THE OUTSIDE, WORK FOR… | Nitin Garg | [Read More](https://medium.com/p/46cbf07edd52) |
+| Thu, 30 Apr 2026 10:32:09 GMT | Uncovering My First Vulnerability: Why Blind XSS is Still a Massive Threat in the Gen AI Era | Technical Secret | [Read More](https://medium.com/p/a8a2e6a0b24c) |
+| Thu, 30 Apr 2026 10:31:50 GMT | Modern Zararlılarda Saklambaç Bölüm 1: Go (Golang) Binary’lerini Tersine Çevirmek | CASSANDRA | [Read More](https://medium.com/p/7f522121276f) |
+| Thu, 30 Apr 2026 10:30:38 GMT | Why Multi-Layer Security is Essential for Cybersecurity Services in Denver | Tekkis | [Read More](https://medium.com/p/41c90ce7a98b) |
+| Thu, 30 Apr 2026 10:29:51 GMT | The night the server forgot who I was — and what I built to fix it. | Delaksan Sritharan | [Read More](https://medium.com/p/a1e5c255c778) |
+| Thu, 30 Apr 2026 10:29:45 GMT | Authenticated SSRF and Graph API Authorization Bypass via URL Normalization in a Vendor-Authored… | Gouri Sankar A | [Read More](https://medium.com/p/36ec12710e83) |
+| Thu, 30 Apr 2026 10:26:00 GMT | End-to-End IT Solutions: What It Means & Why It Matters | Mega Tech Bot | [Read More](https://medium.com/p/67b594b4f4b8) |
+| Thu, 30 Apr 2026 10:24:40 GMT | Why Your WordPress Site Keeps Getting Hacked (And How to Stop It) | Andrei | [Read More](https://medium.com/p/c09b76e7817c) |
+| Thu, 30 Apr 2026 10:22:58 GMT | Copy Fail (CVE-2026–31431): The Linux Privilege Escalation Vulnerability That Affects Every Major… | Germano Costi | [Read More](https://medium.com/p/01df054b98d7) |
+| Thu, 30 Apr 2026 10:22:49 GMT | The Quiet Courage of Being a Beginner (Again) | The Tech Navigator | [Read More](https://medium.com/p/3cb3dcc0d159) |
+| Thu, 30 Apr 2026 10:21:55 GMT | Cloud Computing: The Future of Technology Starts Here | Deepak - Digital Marketing Expert | [Read More](https://medium.com/p/5940c0cc13a5) |
+| Thu, 30 Apr 2026 10:20:05 GMT | Using modbus-cli to Read and Write Modbus registers in LabShock | Sulaiman Alhasawi | [Read More](https://medium.com/p/9361aa24071e) |
+| Thu, 30 Apr 2026 10:18:22 GMT | Writing is Thinking With The Wheels Off… | Ephidian | [Read More](https://medium.com/p/5c5151edc76a) |
+| Thu, 30 Apr 2026 10:12:17 GMT | my final plea for help will be seen in my eyes. | Haneul | [Read More](https://medium.com/p/9425339a8c13) |
+| Thu, 30 Apr 2026 10:04:23 GMT | How I Set Up an Active Directory Lab, Performed a Kerberoasting Attack, and Then Locked It All Down | Mahimnasinh | [Read More](https://medium.com/p/5ed52113e23d) |
+| Thu, 30 Apr 2026 10:01:01 GMT | - … | MOAMEN REZK | [Read More](https://medium.com/p/4c80ea449eda) |
+| Thu, 30 Apr 2026 09:39:12 GMT | Addressing Data Overload in IoT Systems: Practical Solutions for Businesses | Shivam Rathore | [Read More](https://medium.com/p/a1c1e1903c31) |
+| Thu, 30 Apr 2026 09:36:27 GMT | Data Security Safeguards Under the Digital Personal Data Protection Act, 2023 (DPDPA) and Digital… | Tsaaro Consulting | [Read More](https://medium.com/p/7a6029a4587a) |
+| Thu, 30 Apr 2026 09:23:42 GMT | Your Brain Is the Biggest Vulnerability | theAutoBot | [Read More](https://medium.com/p/3b39b50aada3) |
+| Thu, 30 Apr 2026 09:15:40 GMT | Building DriveMynt: Designing an Operational Platform for Driving Schools | Seenuvasan Balakrishnan | [Read More](https://medium.com/p/dc8d50e488c6) |
+| Thu, 30 Apr 2026 09:12:15 GMT | eSIM Showdown 2026: esim.me | Ahadkarim | [Read More](https://medium.com/p/23f509c786ad) |
+| Thu, 30 Apr 2026 08:52:48 GMT | Root Access to My Story — Welcome to the Lab | Sarukesh Boominathan | [Read More](https://medium.com/p/fffa73c18710) |
+| Thu, 30 Apr 2026 08:51:22 GMT | Extract - TryHackMe | Ryca | [Read More](https://medium.com/p/d444d50c9865) |
+| Thu, 30 Apr 2026 08:48:55 GMT | Top Cyber Security Solutions for Small Business | Bytepal Solutions LLC | [Read More](https://medium.com/p/9e8ddf892652) |
+| Thu, 30 Apr 2026 08:46:45 GMT | Vibe Coding Is Shipping CVEs: The Security Crisis No One Is Talking About Loudly Enough | Precogs AI | [Read More](https://medium.com/p/30838963312a) |
+| Thu, 30 Apr 2026 08:44:06 GMT | SHADOW PROTOCOL
+Chapter 1: The One Who Said No (Revised)
+The rain in Guwahati didn’t bother… | Tapudhan Rongpee | [Read More](https://medium.com/p/921474995a94) |
+| Thu, 30 Apr 2026 08:41:01 GMT | CyberWatch AI: How to Spot Online Scams Before They Cost You Money | Divine Egyabeng | [Read More](https://medium.com/p/a4178b11951d) |
+| Thu, 30 Apr 2026 08:36:13 GMT | Investigation: Web Application Exploitation and Lateral Movement | Anandakrishnan S | [Read More](https://medium.com/p/d0f1360047e6) |
 | Thu, 30 Apr 2026 08:27:14 GMT | BUG-BOUNTY SERIES 8: DNS Enumeration. | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/38d80cfff2fc) |
 | Thu, 30 Apr 2026 08:26:37 GMT | How to Comply with Digital Banking Regulations Using Face Recognition in Thailand (2026) | Yuanli Technology | [Read More](https://medium.com/p/f2d627e6ae78) |
 | Thu, 30 Apr 2026 08:21:19 GMT | BUG-BOUNTY SERIES 7: Subdomain Enumeration & Attack Surface Mapping. | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/eadaca9dd3d6) |
@@ -77,38 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Apr 2026 02:53:00 GMT | Can a simulated phishing campaign be too good? | Cybernao | [Read More](https://medium.com/p/a35e17915ccd) |
 | Thu, 30 Apr 2026 02:43:40 GMT | The NIST Cybersecurity Framework Explained So Simply Anyone Can Understand It (Without… | Derek Cambridge | [Read More](https://medium.com/p/a83e0b018ddc) |
 | Thu, 30 Apr 2026 02:42:02 GMT | Malicious PowerShell Analysis — BTLO Lab Writeup | Cooked.gg | [Read More](https://medium.com/p/a860fb5c0a74) |
-| Thu, 30 Apr 2026 02:41:41 GMT | Undiscovered (THM) Tryhackme Writeup Answer | Lawvye | [Read More](https://medium.com/p/ffb664032a32) |
-| Thu, 30 Apr 2026 02:41:17 GMT | Artificial Intelligence and Post-Quantum Cryptography (PQC) | Bervice | [Read More](https://medium.com/p/984c9b05f0e5) |
-| Thu, 30 Apr 2026 02:26:52 GMT | Bash Scripting — TryHackMe Walkthrough | Owais Ali Khan | [Read More](https://medium.com/p/acf9d438cc0c) |
-| Thu, 30 Apr 2026 02:04:17 GMT | From Recon to Letter of Recognition - NASA VDP | Wahyu Priambodo | [Read More](https://medium.com/p/4b115ccde1f8) |
-| Thu, 30 Apr 2026 02:01:01 GMT | When AI Becomes the Hacker: Understanding Autonomous Cyberattacks | Parth Patel | [Read More](https://medium.com/p/a7b4284c2306) |
-| Thu, 30 Apr 2026 01:27:12 GMT | CVE-2026–25924: Administrative RCE via Security Control Bypass in Kanboard | Redpoc | [Read More](https://medium.com/p/622cb9174d74) |
-| Thu, 30 Apr 2026 01:23:35 GMT | Securing Multi-Tenant Kubernetes with User Namespaces (v1.36 GA): A Practical Implementation Guide | Deepak Verma | [Read More](https://medium.com/p/07d0787b9693) |
-| Thu, 30 Apr 2026 01:06:38 GMT | Use-After-Free in curl’s SMB connection reuse | rozzen | [Read More](https://medium.com/p/3c6653ac9d57) |
-| Thu, 30 Apr 2026 01:03:19 GMT | Best Smart Security Cameras of 2026 Ranked and Reviewed | dailyfinds | [Read More](https://medium.com/p/2abcdf463344) |
-| Thu, 30 Apr 2026 00:38:05 GMT | TryHackMe Walkthrough: Windows Fundamentals Part 2 | Shubham Khirwadkar | [Read More](https://medium.com/p/ac062963bd1f) |
-| Thu, 30 Apr 2026 00:27:06 GMT | Shenzi - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/16e053cee7e6) |
-| Thu, 30 Apr 2026 00:12:51 GMT | I Built an OCI Resource Inspector in Python — Here’s How It Works | Tokishi | [Read More](https://medium.com/p/f50214f8804b) |
-| Wed, 29 Apr 2026 23:58:38 GMT | eWPTXv3 Exam Review (2026) | 7hamad | [Read More](https://medium.com/p/e2edc1e3c1c8) |
-| Wed, 29 Apr 2026 23:51:29 GMT | What is Networking? | Stacy Sirbu | [Read More](https://medium.com/p/f3b16917bf40) |
-| Wed, 29 Apr 2026 23:27:52 GMT | XSS Sistemi Nasıl Manipüle Eder? | Zeki Kayaalp | [Read More](https://medium.com/p/16e617c2009f) |
-| Wed, 29 Apr 2026 23:22:25 GMT | What happens when the strong one breaks? | Nicole Tschetter | [Read More](https://medium.com/p/2556c8d9841c) |
-| Wed, 29 Apr 2026 23:16:06 GMT | Best Privacy Browsers? I Tested Tor, Brave, Mullvad and Many Others (Which Is Best for Daily Use?) | Shahzaib | [Read More](https://medium.com/p/021d48ea644d) |
-| Wed, 29 Apr 2026 23:12:25 GMT | How Online Platforms Detect Fake ID Documents During Signup | John Wick | [Read More](https://medium.com/p/71b169694393) |
-| Wed, 29 Apr 2026 23:11:36 GMT | Careers in Cyber | Stacy Sirbu | [Read More](https://medium.com/p/d0caa2bd150f) |
-| Wed, 29 Apr 2026 23:11:21 GMT | Following Scam Harm Without Exposing Sensitive Methods | Kelly Meinhart | [Read More](https://medium.com/p/175f635d76c3) |
-| Wed, 29 Apr 2026 23:03:02 GMT | Sarvesh Murali Cybersecurity Mentor Review | Sarvesh Murali | [Read More](https://medium.com/p/55ec826607b0) |
-| Wed, 29 Apr 2026 22:56:04 GMT | Who is Sarvesh Murali? | Sarvesh Murali | [Read More](https://medium.com/p/504c761b0fc5) |
-| Wed, 29 Apr 2026 22:53:51 GMT | ✍️ STT #3 — Comment and Control | TheGr8Val | [Read More](https://medium.com/p/1f3fb1b52fd1) |
-| Wed, 29 Apr 2026 22:46:27 GMT | [SOLVED]AADSTS50194: Two Ways to Solve the /common Endpoint Error in Entra ID | Namsoo Choi | [Read More](https://medium.com/p/0aa3e6e7ef18) |
-| Wed, 29 Apr 2026 22:46:05 GMT | Basic Pentesting: From SMB Enumeration to Root via SSH Key Exploitation | Enryuuu | [Read More](https://medium.com/p/e182482f156e) |
-| Wed, 29 Apr 2026 22:41:53 GMT | AWS Infrastructure Security: A DevOps Playbook for Building Secure Cloud Environments | Ravish Khullar | [Read More](https://medium.com/p/51863cda7b50) |
-| Wed, 29 Apr 2026 22:15:32 GMT | The Risk of Being Known | Elana | [Read More](https://medium.com/p/58e656841ede) |
-| Wed, 29 Apr 2026 22:05:40 GMT | The Art of Coercion: Trump’s High-Stakes Gamble in Iran | Robertikhwani | [Read More](https://medium.com/p/18d86fc6a951) |
-| Wed, 29 Apr 2026 22:05:11 GMT | The 2026 Cybersecurity Roadmap (Part 2): L1 — Where You Stop Learning and Start Working | Inside Garuda-(Discord-asprin32) | [Read More](https://medium.com/p/7cb65b48fc31) |
-| Wed, 29 Apr 2026 21:50:43 GMT | TryHackMe - Report Writing for SOC L2 - WriteUp | Axoloth | [Read More](https://medium.com/p/262ce0157d93) |
-| Wed, 29 Apr 2026 21:38:58 GMT | Project Glasswing: The Claude Mythos AI That Found 2,000 Threats in 7 Weeks — And Put Banks on Edge | Deepak Thakur | [Read More](https://medium.com/p/d82c31cacd0c) |
-| Wed, 29 Apr 2026 21:28:52 GMT | The Post-Policy Era: Governing AI Systems That Evolve Faster Than Controls | Roger Millar | [Read More](https://medium.com/p/4ad4be38e5d7) |
-| Wed, 29 Apr 2026 21:27:16 GMT | Where does hacked data go and how is it used? | Shirokage Unit (白影ユニット) | [Read More](https://medium.com/p/5751048677f4) |
-| Wed, 29 Apr 2026 21:22:00 GMT | Anatomy of an Academic Deception: The Collapse of LMT and the "Shiho Model" | Chie Let Ni | [Read More](https://medium.com/p/c5e8ed665122) |
-| Wed, 29 Apr 2026 21:10:16 GMT | How I was able to hack more than 300 website | Shirokage Unit (白影ユニット) | [Read More](https://medium.com/p/1a7f5215b905) |
