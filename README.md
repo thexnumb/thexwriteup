@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Apr 2026 23:37:59 GMT | CMSpit Tryhackme walkthrough | Crystalcascade14 | [Read More](https://medium.com/p/2406b70fa3e3) |
+| Thu, 30 Apr 2026 23:32:25 GMT | Being Different Is Expensive. But That’s Not the Whole Story. | Georgia Weidman | [Read More](https://medium.com/p/299228923db2) |
 | Thu, 30 Apr 2026 22:51:29 GMT | Exposing Hidden Server Secrets: A Practical Guide to Samba Reconnaissance | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/849c03154a7c) |
 | Thu, 30 Apr 2026 22:41:01 GMT | Security Agent Manifesto | Greg Martin | [Read More](https://medium.com/p/a6638aa8489e) |
 | Thu, 30 Apr 2026 22:38:03 GMT | HackMyVM: Pwned Walkthrough | Antonio | [Read More](https://medium.com/p/dd50763f6365) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Apr 2026 14:50:10 GMT | Crisis leadership is not about reacting in the moment — it’s about preparation. | Frank Elsner | [Read More](https://medium.com/p/045e944df5f3) |
 | Thu, 30 Apr 2026 14:48:59 GMT | The $285M Trust Trap in the Drift Protocol Hack | Alice Hsu | [Read More](https://medium.com/p/b1b22e385ae1) |
 | Thu, 30 Apr 2026 14:48:50 GMT | This AI Agent Builds Cybersecurity Tools for You | Pentester Club | [Read More](https://medium.com/p/ad32ba3d29f7) |
-| Thu, 30 Apr 2026 14:37:24 GMT | The Most Expensive Transfer Mistake Often Happens Before the Money Is Sent | DARCA-crypto/fiat bank | [Read More](https://medium.com/p/98cf369b70c7) |
-| Thu, 30 Apr 2026 14:37:21 GMT | To Speak or to Die? | Han | [Read More](https://medium.com/p/f0e29e7e3d6d) |
