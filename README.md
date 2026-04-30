@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Apr 2026 12:11:18 GMT | ONLY THIS Exclusive Industry gets GPT-5.5-Cyber. Read Here! | Brains Hub | [Read More](https://medium.com/p/6ce03567e01e) |
+| Thu, 30 Apr 2026 12:08:42 GMT | Why Building Lockdown is Critical for IT - Torus Technology | Torus Technology | [Read More](https://medium.com/p/434e00cba0ec) |
+| Thu, 30 Apr 2026 12:00:05 GMT | The Three-Strand Rope: Business Analysis, Cybersecurity, and AI Are Becoming One Conversation | Mrs Green da Business Analyst | [Read More](https://medium.com/p/c87ef03ff8b7) |
+| Thu, 30 Apr 2026 11:54:40 GMT | The 732-Byte Nightmare: Why the “Copy Fail” Exploit Changed Linux Security Overnight | Yash Gohel | [Read More](https://medium.com/p/53d0f350c9fc) |
+| Thu, 30 Apr 2026 11:51:06 GMT | Footprinting and Scanning CTF Walkthrough: Reconnaissance Using Nmap & Web Enumeration | Asad Sayyad | [Read More](https://medium.com/p/8947c0bd3779) |
+| Thu, 30 Apr 2026 11:48:45 GMT | I Audited 30 React Native Apps. The Same 5 Security Mistakes Showed Up Every Time. | Famitha M A | [Read More](https://medium.com/p/c13c64e61252) |
+| Thu, 30 Apr 2026 11:39:37 GMT | IDOR in a Header Leads to a $$$ Bounty | Nakshatra Sharma | [Read More](https://medium.com/p/d0ad7800ddda) |
+| Thu, 30 Apr 2026 11:26:39 GMT | Ransomware Investigation Case Study — 7-Zip Abuse & Memory-Based Recovery | Chiragsoni | [Read More](https://medium.com/p/9063fe71574b) |
+| Thu, 30 Apr 2026 11:15:03 GMT | MSP ITDR Solution and Exposure Management for SMBs: A Complete Guide to Modern Cybersecurity | Vijilan | [Read More](https://medium.com/p/f250a4a6df45) |
+| Thu, 30 Apr 2026 11:13:10 GMT | Lab: Bypassing access controls using email address parsing discrepancies | Amrsmooke | [Read More](https://medium.com/p/079cd4536b5d) |
+| Thu, 30 Apr 2026 11:12:53 GMT | How I Downloaded Any User’s Private Invoice : Bug Hunting Story | Md Zishan Firoz | [Read More](https://medium.com/p/ddd99f3f2b31) |
+| Thu, 30 Apr 2026 11:09:39 GMT | Turning Endpoints Into Real Exploits — From Discovery to Impact (Part 2) | ghostyjoe | [Read More](https://medium.com/p/e76d22ffcd9e) |
+| Thu, 30 Apr 2026 11:09:39 GMT | How to implement Email Verification to your PHP Laravel App? | Yigit Sozer | [Read More](https://medium.com/p/19ddbcacd29d) |
+| Thu, 30 Apr 2026 11:04:28 GMT | Night Patrol Services: Strengthening Security After Dark | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/c32d34d910b5) |
+| Thu, 30 Apr 2026 11:01:01 GMT | CTF Basics: Understanding SQLi Database Identification | Walter Moar | [Read More](https://medium.com/p/89f253b69f36) |
+| Thu, 30 Apr 2026 11:00:36 GMT | The Gap Nobody Talks About in Cybersecurity Training | Hannah Adam | [Read More](https://medium.com/p/c51c0f76186f) |
+| Thu, 30 Apr 2026 10:56:01 GMT | No Knowledge Ever Goes to Waste | C.V. Rajan | [Read More](https://medium.com/p/04e803ab6a19) |
+| Thu, 30 Apr 2026 10:53:21 GMT | What is Zero Trust Security? A Practical Guide for Growing Businesses | Cylentrix.systems | [Read More](https://medium.com/p/907bd7f8b0de) |
 | Thu, 30 Apr 2026 10:50:06 GMT | Key Factors to Review the Tech Support Service Albany | ArcSource Consulting | [Read More](https://medium.com/p/511bad1bc820) |
 | Thu, 30 Apr 2026 10:44:57 GMT | Not a Hack, Just a Mistake: What This Project Taught Me About Human Factors in Cybersecurity | Outlaw | [Read More](https://medium.com/p/de6792758d51) |
 | Thu, 30 Apr 2026 10:39:23 GMT | AI-Powered Pentesting: How a Team of Digital Interns is Revolutionizing Cybersecurity | Tamer Hellah | [Read More](https://medium.com/p/3933d0a63497) |
@@ -96,21 +114,3 @@ The rain in Guwahati didn’t bother… | Tapudhan Rongpee | [Read More](https:/
 | Thu, 30 Apr 2026 05:07:43 GMT | Cisco Ethical Hacker Notes — part 8 | ExploitHunter | [Read More](https://medium.com/p/01ace70b7b72) |
 | Thu, 30 Apr 2026 05:06:38 GMT | 7 Critical SaaS Security Vulnerabilities We Keep Finding in Real Penetration Tests | Pentest_Testing_Corp | [Read More](https://medium.com/p/ff98f90dcda8) |
 | Thu, 30 Apr 2026 05:01:01 GMT | 10 Software Company Mistakes to Avoid for Successful Development in 2026 | Rachel | [Read More](https://medium.com/p/e4a65cbfaa77) |
-| Thu, 30 Apr 2026 04:50:25 GMT | Why Emotional Intelligence Leadership Matters in Today’s Workplace | The Leader’s Edge Journal | [Read More](https://medium.com/p/39ef21a89c50) |
-| Thu, 30 Apr 2026 04:44:57 GMT | Top 3 Digital Marketing Trends in 2026 | Shoaibakhter | [Read More](https://medium.com/p/f58ec2829f41) |
-| Thu, 30 Apr 2026 04:43:43 GMT | Intigriti April 2026 XSS Challenge Writeup | Adesh Kolte | [Read More](https://medium.com/p/a85b483e86f8) |
-| Thu, 30 Apr 2026 04:38:10 GMT | Cisco Ethical Hacker notes — part 7 | ExploitHunter | [Read More](https://medium.com/p/3405f6c65016) |
-| Thu, 30 Apr 2026 04:31:08 GMT | Real Bug Reports HackerOne Disclosures Se Seekho: Top Hunters Ki Writing Style Copy Karo! | Hacker MD | [Read More](https://medium.com/p/275be9c7a7f8) |
-| Thu, 30 Apr 2026 04:10:49 GMT | I Built an AI Agent That Actually Hacks Your App — So You Can Fix It First | Anish alx | [Read More](https://medium.com/p/0ba2881d17f6) |
-| Thu, 30 Apr 2026 04:08:01 GMT | GoPlus April 2026 Web3 & AI Security Data Report | GoPlus Security | [Read More](https://medium.com/p/1760df4a318e) |
-| Thu, 30 Apr 2026 04:04:27 GMT | Genshin Account being hacked. | Bakugou Katsuki | [Read More](https://medium.com/p/c388fcffe76b) |
-| Thu, 30 Apr 2026 03:59:33 GMT | Social Engineering: The Cyber Threat That Targets People, Not Systems | Geeky Vartika | [Read More](https://medium.com/p/47ff515356e0) |
-| Thu, 30 Apr 2026 03:26:37 GMT | How I was able to download every paid courses for free on a reputed platform? | Krishnadev P Melevila | [Read More](https://medium.com/p/799410149d85) |
-| Thu, 30 Apr 2026 03:13:58 GMT | DEEP ROOT H4K-IT Writeup | Ronnie | [Read More](https://medium.com/p/819d03b8ec28) |
-| Thu, 30 Apr 2026 03:12:07 GMT | MEKANISME SQL INJECTION DAN STRATEGI KEAMANAN | Khusnul Khotimah | [Read More](https://medium.com/p/8cb1f71f8977) |
-| Thu, 30 Apr 2026 03:09:05 GMT | From Betting Syndicates to Cyber Threats: What Sports Trading Taught Me About SIEM Monitoring | Cocotrader | [Read More](https://medium.com/p/9103a34cf320) |
-| Thu, 30 Apr 2026 03:04:15 GMT | GoPlus 2026年04月 Web3 & AI 安全数据报告 | GoPlus中文社区 | [Read More](https://medium.com/p/6fe12f34f9ba) |
-| Thu, 30 Apr 2026 03:01:01 GMT | How I cleared ISC2 SSCP and why it’s fundamentally different from CC | Manubhav Sharma | [Read More](https://medium.com/p/3d9a0a641994) |
-| Thu, 30 Apr 2026 02:53:00 GMT | Can a simulated phishing campaign be too good? | Cybernao | [Read More](https://medium.com/p/a35e17915ccd) |
-| Thu, 30 Apr 2026 02:43:40 GMT | The NIST Cybersecurity Framework Explained So Simply Anyone Can Understand It (Without… | Derek Cambridge | [Read More](https://medium.com/p/a83e0b018ddc) |
-| Thu, 30 Apr 2026 02:42:02 GMT | Malicious PowerShell Analysis — BTLO Lab Writeup | Cooked.gg | [Read More](https://medium.com/p/a860fb5c0a74) |
