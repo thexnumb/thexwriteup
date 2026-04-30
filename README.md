@@ -12,9 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Apr 2026 19:14:22 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/750450811a39) |
+| Thu, 30 Apr 2026 19:13:08 GMT | Automated and Broke The Hidden Reason Your Bug Bounty Toolkit Isn’t Producing Findings in 2026 | R.H Rizvi | [Read More](https://medium.com/p/104436f96a63) |
+| Thu, 30 Apr 2026 19:11:51 GMT | Linux Flaw Enables Local Root Access on Distributions Since 2017 | RealSec.io | [Read More](https://medium.com/p/782de08ec370) |
+| Thu, 30 Apr 2026 19:03:53 GMT | Illustration of cybersecurity threat targeting firewall systems in 2026 | A | [Read More](https://medium.com/p/1d1429f2d733) |
+| Thu, 30 Apr 2026 19:03:31 GMT | Fast Development, Hidden Vulnerabilities: The Downside of AI-Generated Code | Raj Barot | [Read More](https://medium.com/p/0b22c93f7543) |
+| Thu, 30 Apr 2026 18:52:51 GMT | Security Challenges Faced by Canadian Homeowners in 2026 | AlexBryn | [Read More](https://medium.com/p/55586fd086e8) |
+| Thu, 30 Apr 2026 18:35:47 GMT | AI Gives You Startup Speed. It Does Not Give You Startup Survival | The Systems Mind | [Read More](https://medium.com/p/a2b47f86f7c1) |
+| Thu, 30 Apr 2026 18:34:43 GMT | The Ghost in the Wallet: Why You’re Spending Money You Haven’t Earned Yet | Wish | [Read More](https://medium.com/p/91cbb918ba6b) |
+| Thu, 30 Apr 2026 18:30:50 GMT | TryHackMe - Detecting AD Post-Exploitation - WriteUp | Axoloth | [Read More](https://medium.com/p/7665d229d3de) |
+| Thu, 30 Apr 2026 18:29:09 GMT | What Recent Security Incidents Teach Us About Private Note-Taking | Kornel Maráz | [Read More](https://medium.com/p/542beb17e91f) |
+| Thu, 30 Apr 2026 18:26:41 GMT | What Being Escorted Out of a Prison by Armed Guards Taught Me About Our Failing Systems | Laura Stepnicka | [Read More](https://medium.com/p/c5eb95422d3e) |
+| Thu, 30 Apr 2026 18:23:31 GMT | “Help, AI Deleted My Company” | BillfordX | [Read More](https://medium.com/p/155c27d86f7f) |
+| Thu, 30 Apr 2026 18:23:03 GMT | Darknet Prescription Drugs: Understanding Risks, Patterns, and Online Signals | Tor BBB | [Read More](https://medium.com/p/7d4927269a09) |
+| Thu, 30 Apr 2026 18:18:44 GMT | April Recap: Eight Structural Weaknesses That Keep Reappearing in Web3 Security | Exploitless | [Read More](https://medium.com/p/a81da7e1ce62) |
+| Thu, 30 Apr 2026 17:54:55 GMT | Pivoting with Fleckeri R7: How a Multi-Platform RAT Evades NAT Isolation in a Virtual Machine and… | Enikop Security | [Read More](https://medium.com/p/3c4f0b1d4e52) |
+| Thu, 30 Apr 2026 17:54:43 GMT | Which Countries Are Most Targeted by Cyber Attacks — And What It Means for your Business | Cordula Boeck | [Read More](https://medium.com/p/4dcb20617888) |
 | Thu, 30 Apr 2026 17:49:53 GMT | When Your Mom Gets Phished: An Incident Response Walkthrough | Justin W. | [Read More](https://medium.com/p/987a9950a342) |
 | Thu, 30 Apr 2026 17:48:31 GMT | Understanding SQL Injection in WHERE Clause with practical examples(Portswigger) | Shayaan Khan | [Read More](https://medium.com/p/1595075c550c) |
 | Thu, 30 Apr 2026 17:43:21 GMT | La ultraderecha aterriza en La Moneda | Gabriel Osorio | [Read More](https://medium.com/p/f2cd56fa71de) |
+| Thu, 30 Apr 2026 17:43:17 GMT | How AI Helped Me Save 10 Hours Every Week | Mubashir | [Read More](https://medium.com/p/0ebb1df0aebc) |
 | Thu, 30 Apr 2026 17:30:43 GMT | When Reading a File Gives You Root: Understanding Copy Fail Through Invariants, Ownership, and a… | Lorenzo Ruiz Díaz | [Read More](https://medium.com/p/7482ab4e2def) |
 | Thu, 30 Apr 2026 17:22:46 GMT | Turnium’s Insentra Acquisition Triples Revenue Run-Rate and Sets Path to Profitability | Chris Thompson | [Read More](https://medium.com/p/12f422a89681) |
 | Thu, 30 Apr 2026 17:21:17 GMT | The Post-App Era: How Autonomous AI Agents Are Quietly Running Our Lives | Ali Hamza | [Read More](https://medium.com/p/2862d823c981) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Apr 2026 12:00:05 GMT | The Three-Strand Rope: Business Analysis, Cybersecurity, and AI Are Becoming One Conversation | Mrs Green da Business Analyst | [Read More](https://medium.com/p/c87ef03ff8b7) |
 | Thu, 30 Apr 2026 11:54:40 GMT | The 732-Byte Nightmare: Why the “Copy Fail” Exploit Changed Linux Security Overnight | Yash Gohel | [Read More](https://medium.com/p/53d0f350c9fc) |
 | Thu, 30 Apr 2026 11:51:06 GMT | Footprinting and Scanning CTF Walkthrough: Reconnaissance Using Nmap & Web Enumeration | Asad Sayyad | [Read More](https://medium.com/p/8947c0bd3779) |
-| Thu, 30 Apr 2026 11:48:45 GMT | I Audited 30 React Native Apps. The Same 5 Security Mistakes Showed Up Every Time. | Famitha M A | [Read More](https://medium.com/p/c13c64e61252) |
-| Thu, 30 Apr 2026 11:39:37 GMT | IDOR in a Header Leads to a $$$ Bounty | Nakshatra Sharma | [Read More](https://medium.com/p/d0ad7800ddda) |
-| Thu, 30 Apr 2026 11:26:39 GMT | Ransomware Investigation Case Study — 7-Zip Abuse & Memory-Based Recovery | Chiragsoni | [Read More](https://medium.com/p/9063fe71574b) |
-| Thu, 30 Apr 2026 11:15:03 GMT | MSP ITDR Solution and Exposure Management for SMBs: A Complete Guide to Modern Cybersecurity | Vijilan | [Read More](https://medium.com/p/f250a4a6df45) |
-| Thu, 30 Apr 2026 11:13:10 GMT | Lab: Bypassing access controls using email address parsing discrepancies | Amrsmooke | [Read More](https://medium.com/p/079cd4536b5d) |
-| Thu, 30 Apr 2026 11:12:53 GMT | How I Downloaded Any User’s Private Invoice : Bug Hunting Story | Md Zishan Firoz | [Read More](https://medium.com/p/ddd99f3f2b31) |
-| Thu, 30 Apr 2026 11:09:39 GMT | Turning Endpoints Into Real Exploits — From Discovery to Impact (Part 2) | ghostyjoe | [Read More](https://medium.com/p/e76d22ffcd9e) |
-| Thu, 30 Apr 2026 11:09:39 GMT | How to implement Email Verification to your PHP Laravel App? | Yigit Sozer | [Read More](https://medium.com/p/19ddbcacd29d) |
-| Thu, 30 Apr 2026 11:04:28 GMT | Night Patrol Services: Strengthening Security After Dark | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/c32d34d910b5) |
-| Thu, 30 Apr 2026 11:01:01 GMT | CTF Basics: Understanding SQLi Database Identification | Walter Moar | [Read More](https://medium.com/p/89f253b69f36) |
-| Thu, 30 Apr 2026 11:00:36 GMT | The Gap Nobody Talks About in Cybersecurity Training | Hannah Adam | [Read More](https://medium.com/p/c51c0f76186f) |
-| Thu, 30 Apr 2026 10:56:01 GMT | No Knowledge Ever Goes to Waste | C.V. Rajan | [Read More](https://medium.com/p/04e803ab6a19) |
-| Thu, 30 Apr 2026 10:53:21 GMT | What is Zero Trust Security? A Practical Guide for Growing Businesses | Cylentrix.systems | [Read More](https://medium.com/p/907bd7f8b0de) |
-| Thu, 30 Apr 2026 10:50:06 GMT | Key Factors to Review the Tech Support Service Albany | ArcSource Consulting | [Read More](https://medium.com/p/511bad1bc820) |
-| Thu, 30 Apr 2026 10:44:57 GMT | Not a Hack, Just a Mistake: What This Project Taught Me About Human Factors in Cybersecurity | Outlaw | [Read More](https://medium.com/p/de6792758d51) |
-| Thu, 30 Apr 2026 10:39:23 GMT | AI-Powered Pentesting: How a Team of Digital Interns is Revolutionizing Cybersecurity | Tamer Hellah | [Read More](https://medium.com/p/3933d0a63497) |
-| Thu, 30 Apr 2026 10:37:37 GMT | Write-Up: BugForge Weekly Challenge — MesaNet Portal with Stored-XSS | Athiwat Tiprasaharn | [Read More](https://medium.com/p/087a7dde6d05) |
