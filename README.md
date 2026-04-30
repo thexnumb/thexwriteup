@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Apr 2026 21:48:38 GMT | Secure Your Castle: Identifying Over-Privileged Database Accounts | Joseph Rodriguez, CISSP, MSCIS | [Read More](https://medium.com/p/f6d198f4c60b) |
+| Thu, 30 Apr 2026 21:42:11 GMT | hideme — picoCTF writeup | Marty Nattakit | [Read More](https://medium.com/p/9fe21360f422) |
+| Thu, 30 Apr 2026 21:31:29 GMT | Open source trust breaks quietly: one popular ML dependency, two poisoned releases, and thousands… | Muhammad Qayyum | [Read More](https://medium.com/p/5a3e8958e52a) |
+| Thu, 30 Apr 2026 21:08:01 GMT | How a Simple Comment Box Almost Cost a Fintech Giant $15,000 | Tanvi Chauhan | [Read More](https://medium.com/p/3fe6e35daafd) |
+| Thu, 30 Apr 2026 20:51:31 GMT | CyberDefenders — Insider Walkthrough | Serhan Kırca | [Read More](https://medium.com/p/a505a25601e3) |
+| Thu, 30 Apr 2026 20:51:26 GMT | SOC Alert Investigation: Possible IDOR Attack Detected (SOC169 — EventID 119) | DeadHack | [Read More](https://medium.com/p/fd24fad89375) |
+| Thu, 30 Apr 2026 20:48:29 GMT | RFC 8693 OBO Tokens: How AI Agents Call External APIs on Behalf of Users at The Same Time Being… | CivilizaXion | [Read More](https://medium.com/p/abb934f9e38e) |
+| Thu, 30 Apr 2026 20:48:22 GMT | “Copy Fail”: The Most Alarming Linux Bug in a Decade | SOCFortress | [Read More](https://medium.com/p/25ad93801b67) |
+| Thu, 30 Apr 2026 20:46:38 GMT | Vulnerability Management at Home Sweet Home | Gnanendra Prasad | [Read More](https://medium.com/p/01b8e65f2832) |
+| Thu, 30 Apr 2026 20:43:12 GMT | The Modern Developer’s Guide to Hashing, Encryption, and Encoding | Krishna Kanth | [Read More](https://medium.com/p/f891fb49d2c3) |
 | Thu, 30 Apr 2026 20:35:00 GMT | Silencing EDR File Telemetry: MiniFilter Callback Unlinking | S12 - 0x12Dark Development | [Read More](https://medium.com/p/fe215b009d72) |
 | Thu, 30 Apr 2026 20:16:07 GMT | 700,000 People Have a Security+. Companies Still Say They Can’t Find Talent. | Jbird | [Read More](https://medium.com/p/abc9676c9620) |
 | Thu, 30 Apr 2026 20:15:44 GMT | How to Spot a Business Email Scam Before It Costs You Money | Jusjaesho | [Read More](https://medium.com/p/3dd4622417f5) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Apr 2026 14:15:30 GMT | Day 2 of Cybersecurity | Coder Aayushi Y | [Read More](https://medium.com/p/9d53555364d8) |
 | Thu, 30 Apr 2026 14:09:20 GMT | If It Can Hold Psychiatric Records, It Can Hold Your Memoir | Max Millien | [Read More](https://medium.com/p/7d9f93805272) |
 | Thu, 30 Apr 2026 14:05:02 GMT | Why I choose Cybersecurity? and How I am Learning Right Now? | Myselfrp | [Read More](https://medium.com/p/c66d2dbbec71) |
-| Thu, 30 Apr 2026 14:01:51 GMT | Race Condition → Organization Takeover by Removing All Owners | Ahmed Mahmoud | [Read More](https://medium.com/p/e14ce4c07759) |
-| Thu, 30 Apr 2026 14:01:43 GMT | The 80/20 Principle in Smart Contract Security: How to Prevent 80% of Exploits with 20% Effort | Abraham | [Read More](https://medium.com/p/2528b187ff8b) |
-| Thu, 30 Apr 2026 13:56:15 GMT | My Love Language Sounds Like an Insult | Eshal_Noor | [Read More](https://medium.com/p/a62f0957bde6) |
-| Thu, 30 Apr 2026 13:54:16 GMT | Email is Still the #1 Attack Vector — Why Businesses Keep Ignoring It | IT_Engineer | [Read More](https://medium.com/p/2b5b9eabae3d) |
-| Thu, 30 Apr 2026 13:48:19 GMT | How to Choose the Right Corporate Event Planner: A Complete Guide for UK Businesses | waeventservices.co.uk/ | [Read More](https://medium.com/p/11ff55d5f3bb) |
-| Thu, 30 Apr 2026 13:46:26 GMT | Top 5 General Transcription Companies | MedVoice Global | [Read More](https://medium.com/p/b1770b179327) |
-| Thu, 30 Apr 2026 13:46:01 GMT | I Built a Software Supply Chain Security Pipeline Using GitHub Actions, Trivy, SBOMs, and Cosign | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/b5f84b9cc822) |
-| Thu, 30 Apr 2026 13:43:47 GMT | DEEP#DOOR: The New Python Backdoor Turning Tunneling Services Into a Credential-Stealing Weapon | Germano Costi | [Read More](https://medium.com/p/5fde2de78437) |
-| Thu, 30 Apr 2026 13:32:10 GMT | TryHack3M: Bricks Heist - TryHackMe Challenge Walkthrough | Nashra | [Read More](https://medium.com/p/6a187de0b088) |
-| Thu, 30 Apr 2026 13:27:18 GMT | How to Run Claude Code Safely: Protect Your Files from AI Mistakes | Mustafa Qundos | [Read More](https://medium.com/p/fbdc7c890ea4) |
