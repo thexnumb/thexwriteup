@@ -12,6 +12,35 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Apr 2026 06:26:13 GMT | How AI Works: Prompts, Behaviour, and Security Risks | Little_Sun4lower | [Read More](https://medium.com/p/f4338bf1f8d9) |
+| Thu, 30 Apr 2026 06:19:39 GMT | Maester ❤️ Multi-Tenant Reports — Microsoft Security Test Automation Framework | Brian Veldman | [Read More](https://medium.com/p/629f54c52488) |
+| Thu, 30 Apr 2026 06:14:58 GMT | DAST vs SAST: The Two Pillars of Modern Application Security | Zubair Khan | [Read More](https://medium.com/p/6f72fb70e700) |
+| Thu, 30 Apr 2026 06:11:01 GMT | Designing Secure Logout Flows in a Multi-App Ecosystem | Hugo | [Read More](https://medium.com/p/6c9b4f48c36b) |
+| Thu, 30 Apr 2026 06:03:16 GMT | Why AI Pentesting Will Become Essential in the Future | Redfox Security | [Read More](https://medium.com/p/4cfb30e92a14) |
+| Thu, 30 Apr 2026 06:02:35 GMT | Build Your Own AI Bug Hunter : Fully Local, Fully Private | zerOiQ | [Read More](https://medium.com/p/e00cf87917ca) |
+| Thu, 30 Apr 2026 06:01:01 GMT | How to Defend Against AI Agent Traps: DeepMind’s New Framework | Ana Bildea, PhD | [Read More](https://medium.com/p/5d2dbef03136) |
+| Thu, 30 Apr 2026 05:58:19 GMT | OWASP LLM03:2025 Supply Chain | Tiago Silva | [Read More](https://medium.com/p/47e9e001f9bc) |
+| Thu, 30 Apr 2026 05:52:39 GMT | From packaging to behavior | Progsky | [Read More](https://medium.com/p/1af614072dd0) |
+| Thu, 30 Apr 2026 05:51:31 GMT | Mythos Changes Nothing. And That’s Exactly the Problem. | Christophe Mazzola | [Read More](https://medium.com/p/9023daa9e0c9) |
+| Thu, 30 Apr 2026 05:34:30 GMT | Week 18 - Your Vendors Are the Weakest Link — And Attackers Know It | Arian Cheng | [Read More](https://medium.com/p/e97f527ce866) |
+| Thu, 30 Apr 2026 05:32:23 GMT | Everyone Is Using OpenClaw. How Many Know What It Actually Is? | Clear-Text by Gnani Rahul Nutakki | [Read More](https://medium.com/p/786e53ff5b4a) |
+| Thu, 30 Apr 2026 05:28:48 GMT | Why Basic Technology Education Matters | Hasnain Yousaf | [Read More](https://medium.com/p/e6c742650312) |
+| Thu, 30 Apr 2026 05:26:06 GMT | Cybersecurity is not just about hacking systems — it is about understanding how systems work, how… | Amisha phuyal | [Read More](https://medium.com/p/901e81dfc726) |
+| Thu, 30 Apr 2026 05:20:18 GMT | How I Found My First (Unethical) Bug | Thatcyberboy | [Read More](https://medium.com/p/feb8d0ccc2b7) |
+| Thu, 30 Apr 2026 05:15:31 GMT | Your System Is Event-Driven. Your Bugs Are Time-Delayed | Prem Chandak | [Read More](https://medium.com/p/d2659234390e) |
+| Thu, 30 Apr 2026 05:09:21 GMT | The Illusion of Neutrality: The Trojan Horse of AI and the Pollution of the Intellectual Well | Kayky Matos | [Read More](https://medium.com/p/6cdff79a4fdd) |
+| Thu, 30 Apr 2026 05:07:43 GMT | Cisco Ethical Hacker Notes — part 8 | ExploitHunter | [Read More](https://medium.com/p/01ace70b7b72) |
+| Thu, 30 Apr 2026 05:06:38 GMT | 7 Critical SaaS Security Vulnerabilities We Keep Finding in Real Penetration Tests | Pentest_Testing_Corp | [Read More](https://medium.com/p/ff98f90dcda8) |
+| Thu, 30 Apr 2026 05:01:01 GMT | 10 Software Company Mistakes to Avoid for Successful Development in 2026 | Rachel | [Read More](https://medium.com/p/e4a65cbfaa77) |
+| Thu, 30 Apr 2026 04:50:25 GMT | Why Emotional Intelligence Leadership Matters in Today’s Workplace | The Leader’s Edge Journal | [Read More](https://medium.com/p/39ef21a89c50) |
+| Thu, 30 Apr 2026 04:44:57 GMT | Top 3 Digital Marketing Trends in 2026 | Shoaibakhter | [Read More](https://medium.com/p/f58ec2829f41) |
+| Thu, 30 Apr 2026 04:43:43 GMT | Intigriti April 2026 XSS Challenge Writeup | Adesh Kolte | [Read More](https://medium.com/p/a85b483e86f8) |
+| Thu, 30 Apr 2026 04:38:10 GMT | Cisco Ethical Hacker notes — part 7 | ExploitHunter | [Read More](https://medium.com/p/3405f6c65016) |
+| Thu, 30 Apr 2026 04:31:08 GMT | Real Bug Reports HackerOne Disclosures Se Seekho: Top Hunters Ki Writing Style Copy Karo! | Hacker MD | [Read More](https://medium.com/p/275be9c7a7f8) |
+| Thu, 30 Apr 2026 04:10:49 GMT | I Built an AI Agent That Actually Hacks Your App — So You Can Fix It First | Anish alx | [Read More](https://medium.com/p/0ba2881d17f6) |
+| Thu, 30 Apr 2026 04:08:01 GMT | GoPlus April 2026 Web3 & AI Security Data Report | GoPlus Security | [Read More](https://medium.com/p/1760df4a318e) |
+| Thu, 30 Apr 2026 04:04:27 GMT | Genshin Account being hacked. | Bakugou Katsuki | [Read More](https://medium.com/p/c388fcffe76b) |
+| Thu, 30 Apr 2026 03:59:33 GMT | Social Engineering: The Cyber Threat That Targets People, Not Systems | Geeky Vartika | [Read More](https://medium.com/p/47ff515356e0) |
 | Thu, 30 Apr 2026 03:26:37 GMT | How I was able to download every paid courses for free on a reputed platform? | Krishnadev P Melevila | [Read More](https://medium.com/p/799410149d85) |
 | Thu, 30 Apr 2026 03:13:58 GMT | DEEP ROOT H4K-IT Writeup | Ronnie | [Read More](https://medium.com/p/819d03b8ec28) |
 | Thu, 30 Apr 2026 03:12:07 GMT | MEKANISME SQL INJECTION DAN STRATEGI KEAMANAN | Khusnul Khotimah | [Read More](https://medium.com/p/8cb1f71f8977) |
@@ -83,32 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 29 Apr 2026 18:42:06 GMT | Your Clicks, Your Secrets: Inside Google’s Data Universe | Jacob Tettey | [Read More](https://medium.com/p/0894ceff7bf4) |
 | Wed, 29 Apr 2026 18:41:18 GMT | Investigation: Network Activity Analysis Across Multiple PCAPs | Anandakrishnan S | [Read More](https://medium.com/p/1b6c3728da50) |
 | Wed, 29 Apr 2026 18:34:02 GMT | Why Trust May Be the Biggest Hidden Vulnerability in Cloud Security | Vincent JOHNSON | [Read More](https://medium.com/p/b6e503197074) |
-| Wed, 29 Apr 2026 18:33:15 GMT | Implementing a Firewall | borealis | [Read More](https://medium.com/p/d31729765a5e) |
-| Wed, 29 Apr 2026 18:27:25 GMT | TryHackMe - Basic Vulnerability Identification Techniques - WriteUp | Axoloth | [Read More](https://medium.com/p/a3aa56a5a6d0) |
-| Wed, 29 Apr 2026 18:17:30 GMT | The Rise of Hackbots: How AI Is Transforming Cybersecurity | HILAL AHMAD KHAN | [Read More](https://medium.com/p/2d53cd05b762) |
-| Wed, 29 Apr 2026 18:16:01 GMT | When One Security Control Isn’t Enough: Building Layered Network Defense | Daniel Santiago | [Read More](https://medium.com/p/b72b0401b185) |
-| Wed, 29 Apr 2026 18:15:50 GMT | HackTheBox — AirGap - Medium Walkthrough | Shxdowz | [Read More](https://medium.com/p/eb987afdefdc) |
-| Wed, 29 Apr 2026 18:15:14 GMT | Is Your Website Really Secured? Check This ! | Frnooranother | [Read More](https://medium.com/p/8a68ee44a00a) |
-| Wed, 29 Apr 2026 18:05:56 GMT | My Google Cloud Project Was Suspended for 16 Days — And It Wasn’t Even My Fault | Gennadiy Utkin | [Read More](https://medium.com/p/003870be6830) |
-| Wed, 29 Apr 2026 18:04:36 GMT | macOS Clipboard History — What Gets Logged, What Leaks, and How to Audit It | Alok Tiwari | [Read More](https://medium.com/p/61a3a170133e) |
-| Wed, 29 Apr 2026 18:01:26 GMT | Top Career Opportunities in Cybersecurity for Beginners | Zztronn | [Read More](https://medium.com/p/700a3bd5b1b1) |
-| Wed, 29 Apr 2026 18:01:26 GMT | The “Accept” Button: How Tech Giants Lie to You Without Saying a Word | Wish | [Read More](https://medium.com/p/24c9fb664081) |
-| Wed, 29 Apr 2026 17:59:20 GMT | SUPERIOR CYBERSECURITY CONQUEST 2026 — Edition 1 Official Writeup | Ammar Abid | [Read More](https://medium.com/p/b222bca0af5a) |
-| Wed, 29 Apr 2026 17:53:37 GMT | Creating New SIEM Integrations: The Simpler Way | UTMStack | [Read More](https://medium.com/p/4c893ed9d3a6) |
-| Wed, 29 Apr 2026 17:52:50 GMT | Reversing ELF — TryHackMe WriteUp | Rayenhafsawy | [Read More](https://medium.com/p/abccb7b788cc) |
-| Wed, 29 Apr 2026 17:51:37 GMT | THM- Masquerade | Francesco Pastore | [Read More](https://medium.com/p/057b7f7d5792) |
-| Wed, 29 Apr 2026 17:51:17 GMT | Trojan Network Traffic Detection | Usman Shakeel | [Read More](https://medium.com/p/9fbc16b427a8) |
-| Wed, 29 Apr 2026 17:35:34 GMT | The Real Danger of AI Is Not Robots — It’s Losing Ourselves | Kim Nanna | [Read More](https://medium.com/p/cb34c382d560) |
-| Wed, 29 Apr 2026 17:18:35 GMT | Cuando las leyes de ciberseguridad no ayudan a evitar los hackeos! | Hacking en México | [Read More](https://medium.com/p/f6e167559db8) |
-| Wed, 29 Apr 2026 17:17:27 GMT | AMSI: Bypass Methods Every Red Teamer Needs | Victor | [Read More](https://medium.com/p/fcce69e5ad46) |
-| Wed, 29 Apr 2026 17:16:02 GMT | Pickle Rick - TryHackMe Write-up | Nigar Hasanova | [Read More](https://medium.com/p/297337175cce) |
-| Wed, 29 Apr 2026 17:14:07 GMT | How I Migrated Jenkins 2.401.2 to 2.555.1 on AWS Graviton | Satyam A | [Read More](https://medium.com/p/543d0bf83d2d) |
-| Wed, 29 Apr 2026 17:13:45 GMT | TUGAS PEMROGRAMAN DATA RAYA LANJUTAN (Individu) | Dhiyafauziyah | [Read More](https://medium.com/p/eb93a2f1f4ee) |
-| Wed, 29 Apr 2026 17:09:26 GMT | EXCLUSIVE: Levit8 Pty Ltd Don’t Pay Their Staff. | Blackout VPN | [Read More](https://medium.com/p/301dbabd120f) |
-| Wed, 29 Apr 2026 17:06:59 GMT | How I mistakenly Crushed My Senior Year Project before Demo Day? | Onurcan Genç | [Read More](https://medium.com/p/6b30994d37b9) |
-| Wed, 29 Apr 2026 17:03:30 GMT | HACKEADO — Gobierno de Guatemala — NEGAR NO AYUDA! | Hacking en México | [Read More](https://medium.com/p/dc469787a122) |
-| Wed, 29 Apr 2026 17:01:02 GMT | The Hidden Risks of Relying Too Much on Automated Security | Lucas Barett | [Read More](https://medium.com/p/6cc13c7db94a) |
-| Wed, 29 Apr 2026 17:01:02 GMT | How to Work With AI Without Letting It Think for You Every Single Day | Jonathan Michael Gray | [Read More](https://medium.com/p/f8fdf24f7255) |
-| Wed, 29 Apr 2026 16:56:27 GMT | When a Git Redirect Carries Your Credentials With It: Finding an HTTP Auth Leak in go-git… | Christopher Linke | [Read More](https://medium.com/p/81459442935a) |
-| Wed, 29 Apr 2026 16:50:54 GMT | Odoo ERP Implementation Roadmap: From Planning to Deployment | Joe Alwyn | [Read More](https://medium.com/p/8b6d908b7ddf) |
-| Wed, 29 Apr 2026 16:47:09 GMT | Cannabis Security in Canada: Safeguarding a Legal Industry | Worldguardian | [Read More](https://medium.com/p/89178115ebb7) |
