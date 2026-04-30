@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Apr 2026 22:51:29 GMT | Exposing Hidden Server Secrets: A Practical Guide to Samba Reconnaissance | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/849c03154a7c) |
+| Thu, 30 Apr 2026 22:41:01 GMT | Security Agent Manifesto | Greg Martin | [Read More](https://medium.com/p/a6638aa8489e) |
+| Thu, 30 Apr 2026 22:38:03 GMT | HackMyVM: Pwned Walkthrough | Antonio | [Read More](https://medium.com/p/dd50763f6365) |
+| Thu, 30 Apr 2026 22:30:50 GMT | Setting Up Snort 3 as an IDS | LANC3R | [Read More](https://medium.com/p/40c6a439e70c) |
+| Thu, 30 Apr 2026 22:27:09 GMT | Deepfake Çağında Kırmızı Tehdit | Eyüp Çeçen | [Read More](https://medium.com/p/f5ea88441c02) |
+| Thu, 30 Apr 2026 22:23:18 GMT | Most RAG Systems Waste 60% of Their Retrieval Calls. Skill-RAG Fixes That. | Raviteja Nekkalapu | [Read More](https://medium.com/p/81d69ff8aae7) |
+| Thu, 30 Apr 2026 22:13:51 GMT | The Ethics of Pixel Tracking: Where Useful Analytics Become Digital Surveillance — Joseph Sides | Joseph Sides | [Read More](https://medium.com/p/1fcb22f6c429) |
+| Thu, 30 Apr 2026 22:13:29 GMT | TryHackMe - Detecting AD Credential Attacks - WriteUp | Axoloth | [Read More](https://medium.com/p/72073460b33b) |
+| Thu, 30 Apr 2026 22:10:21 GMT | Practical Web Pentest Associate: TCM Security Notes | The Husky Hacker | [Read More](https://medium.com/p/6479481345d3) |
+| Thu, 30 Apr 2026 22:06:38 GMT | Technical Analysis of the LAMEHUG Campaign (APT28) | SIMKRA | [Read More](https://medium.com/p/4c99b147518c) |
+| Thu, 30 Apr 2026 22:06:01 GMT | surface truth | Seid Arsen Ramic | [Read More](https://medium.com/p/97f29be0bca8) |
+| Thu, 30 Apr 2026 22:02:41 GMT | A security researcher emailed me the night before my Product Hunt launch. Here is what I found. | Adam McClarin | [Read More](https://medium.com/p/d657f824850d) |
+| Thu, 30 Apr 2026 22:01:02 GMT | Embedding an HTTP-only Device in an HTTPS App with Nginx | Dusan Aksentijevic | [Read More](https://medium.com/p/0ce1a802b62c) |
 | Thu, 30 Apr 2026 21:48:38 GMT | Secure Your Castle: Identifying Over-Privileged Database Accounts | Joseph Rodriguez, CISSP, MSCIS | [Read More](https://medium.com/p/f6d198f4c60b) |
 | Thu, 30 Apr 2026 21:42:11 GMT | hideme — picoCTF writeup | Marty Nattakit | [Read More](https://medium.com/p/9fe21360f422) |
 | Thu, 30 Apr 2026 21:31:29 GMT | Open source trust breaks quietly: one popular ML dependency, two poisoned releases, and thousands… | Muhammad Qayyum | [Read More](https://medium.com/p/5a3e8958e52a) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Apr 2026 14:48:50 GMT | This AI Agent Builds Cybersecurity Tools for You | Pentester Club | [Read More](https://medium.com/p/ad32ba3d29f7) |
 | Thu, 30 Apr 2026 14:37:24 GMT | The Most Expensive Transfer Mistake Often Happens Before the Money Is Sent | DARCA-crypto/fiat bank | [Read More](https://medium.com/p/98cf369b70c7) |
 | Thu, 30 Apr 2026 14:37:21 GMT | To Speak or to Die? | Han | [Read More](https://medium.com/p/f0e29e7e3d6d) |
-| Thu, 30 Apr 2026 14:36:03 GMT | Stop Chasing Alerts. Start Understanding Your Network. | Scottcmcmahan | [Read More](https://medium.com/p/9f394462d89b) |
-| Thu, 30 Apr 2026 14:31:23 GMT | The Digital Pickpocket: How a Few Lines of Code “Borrowed” $10,000 | IBN-SA'EED | [Read More](https://medium.com/p/a202735f9c88) |
-| Thu, 30 Apr 2026 14:27:22 GMT | copy.fail | Simon Bettison | [Read More](https://medium.com/p/bf5a5818a2a5) |
-| Thu, 30 Apr 2026 14:25:30 GMT | How I Use AI to Find Bugs Faster — My Full AI-Augmented Bug Bounty Workflow in 2026 | Krithick | [Read More](https://medium.com/p/b3bb34c43dcc) |
-| Thu, 30 Apr 2026 14:24:49 GMT | AI Meets Cyber Defense: CVE MCP Server Transforms Claude into a Powerful Security Analyst | Jas | [Read More](https://medium.com/p/e16023e7f691) |
-| Thu, 30 Apr 2026 14:23:39 GMT | Hikvision DS-2CD2143G2-IU Review — A Powerful 4MP AcuSense Security Camera | Temma | [Read More](https://medium.com/p/6957ca3ce0cd) |
-| Thu, 30 Apr 2026 14:22:44 GMT | How to Choose a Safe and Reliable Online Gaming Platform: A Complete Guide | Kirana Savitri | [Read More](https://medium.com/p/a430224b6be2) |
-| Thu, 30 Apr 2026 14:22:17 GMT | Local root on every Linux distro | Stanislav Klevtsov | [Read More](https://medium.com/p/01086b5cbe66) |
-| Thu, 30 Apr 2026 14:22:10 GMT | Email Header IP Tracking — Technical Investigation Report | Adfem Adefemi | [Read More](https://medium.com/p/feeca0785372) |
-| Thu, 30 Apr 2026 14:19:23 GMT | Your AI Is Not as Safe as You Think: How Hackers Use It Better Than You. What You’re Leaking ! | Nareender Khatri | [Read More](https://medium.com/p/6ff69bca3062) |
-| Thu, 30 Apr 2026 14:15:30 GMT | Day 2 of Cybersecurity | Coder Aayushi Y | [Read More](https://medium.com/p/9d53555364d8) |
-| Thu, 30 Apr 2026 14:09:20 GMT | If It Can Hold Psychiatric Records, It Can Hold Your Memoir | Max Millien | [Read More](https://medium.com/p/7d9f93805272) |
-| Thu, 30 Apr 2026 14:05:02 GMT | Why I choose Cybersecurity? and How I am Learning Right Now? | Myselfrp | [Read More](https://medium.com/p/c66d2dbbec71) |
