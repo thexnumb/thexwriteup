@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Apr 2026 20:35:00 GMT | Silencing EDR File Telemetry: MiniFilter Callback Unlinking | S12 - 0x12Dark Development | [Read More](https://medium.com/p/fe215b009d72) |
+| Thu, 30 Apr 2026 20:16:07 GMT | 700,000 People Have a Security+. Companies Still Say They Can’t Find Talent. | Jbird | [Read More](https://medium.com/p/abc9676c9620) |
+| Thu, 30 Apr 2026 20:15:44 GMT | How to Spot a Business Email Scam Before It Costs You Money | Jusjaesho | [Read More](https://medium.com/p/3dd4622417f5) |
+| Thu, 30 Apr 2026 20:09:26 GMT | Agentic AI in Healthcare: The Demo Isn’t the Hard Part | Michael Hoxter | [Read More](https://medium.com/p/afacae65d427) |
+| Thu, 30 Apr 2026 20:08:40 GMT | IDOR via Weak JWT Validation Leading to Unauthorized Data Access | 0xMo7areb | [Read More](https://medium.com/p/e8d641750099) |
+| Thu, 30 Apr 2026 20:07:16 GMT | Sounds in Search of a Language | Clement Weinberger | [Read More](https://medium.com/p/a6bf27bd4e58) |
+| Thu, 30 Apr 2026 20:03:15 GMT | How to Add a VPN Extension to Chrome (Step-by-Step Guide) | VPNHouse | [Read More](https://medium.com/p/0b380eae7682) |
+| Thu, 30 Apr 2026 20:01:13 GMT | Bir API Mantık Hatası: PUT ve PATCH Metotları ile Yetki Yükseltme | Eren Soylu | [Read More](https://medium.com/p/0c7ef27a5af7) |
+| Thu, 30 Apr 2026 19:50:47 GMT | CyberTalents XMEN-Files write-up | shahd fataftah | [Read More](https://medium.com/p/0275e57481c0) |
+| Thu, 30 Apr 2026 19:46:50 GMT | whoami | Shikhali Jamalzade | [Read More](https://medium.com/p/fed37ef84389) |
+| Thu, 30 Apr 2026 19:45:58 GMT | Security execution flywheel: Delivering security outcomes that matter | Nachiketh Rao | [Read More](https://medium.com/p/31948b82e620) |
+| Thu, 30 Apr 2026 19:35:57 GMT | Wordfence Intelligence Weekly WordPress Vulnerability Report (April 20, 2026 to April 26, 2026) | Wordfence | [Read More](https://medium.com/p/8932fcd23466) |
+| Thu, 30 Apr 2026 19:32:58 GMT | You Can Build Your Own Fortress: Why I Recommend Cloudflare. | hide | [Read More](https://medium.com/p/d3ad7fcb5e1a) |
+| Thu, 30 Apr 2026 19:32:31 GMT | Operation Endgame (THM) Tryhackme Writeup Answer | Lawvye | [Read More](https://medium.com/p/971b83749b2e) |
+| Thu, 30 Apr 2026 19:23:05 GMT | Building a Local AI Model for Pentesting From Scratch | Alham Rizvi | [Read More](https://medium.com/p/a4025305b4f0) |
 | Thu, 30 Apr 2026 19:14:22 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/750450811a39) |
 | Thu, 30 Apr 2026 19:13:08 GMT | Automated and Broke The Hidden Reason Your Bug Bounty Toolkit Isn’t Producing Findings in 2026 | R.H Rizvi | [Read More](https://medium.com/p/104436f96a63) |
 | Thu, 30 Apr 2026 19:11:51 GMT | Linux Flaw Enables Local Root Access on Distributions Since 2017 | RealSec.io | [Read More](https://medium.com/p/782de08ec370) |
@@ -95,20 +110,5 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Apr 2026 13:46:26 GMT | Top 5 General Transcription Companies | MedVoice Global | [Read More](https://medium.com/p/b1770b179327) |
 | Thu, 30 Apr 2026 13:46:01 GMT | I Built a Software Supply Chain Security Pipeline Using GitHub Actions, Trivy, SBOMs, and Cosign | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/b5f84b9cc822) |
 | Thu, 30 Apr 2026 13:43:47 GMT | DEEP#DOOR: The New Python Backdoor Turning Tunneling Services Into a Credential-Stealing Weapon | Germano Costi | [Read More](https://medium.com/p/5fde2de78437) |
+| Thu, 30 Apr 2026 13:32:10 GMT | TryHack3M: Bricks Heist - TryHackMe Challenge Walkthrough | Nashra | [Read More](https://medium.com/p/6a187de0b088) |
 | Thu, 30 Apr 2026 13:27:18 GMT | How to Run Claude Code Safely: Protect Your Files from AI Mistakes | Mustafa Qundos | [Read More](https://medium.com/p/fbdc7c890ea4) |
-| Thu, 30 Apr 2026 13:23:02 GMT | Kehidupan Siswa di SMA IT Asrama: Antara Fokus dan Batasan | Ali Ridlo | [Read More](https://medium.com/p/610c37e24d22) |
-| Thu, 30 Apr 2026 13:16:51 GMT | Best Security Camera Apps for Android and iPhone | CCTV & Cloud Technology | [Read More](https://medium.com/p/dc6cb85d24b7) |
-| Thu, 30 Apr 2026 13:10:31 GMT | Penetration Testing · Client-Side | Aravind S V | [Read More](https://medium.com/p/dc846767b95a) |
-| Thu, 30 Apr 2026 13:03:38 GMT | Part 1 :Bluetooth Pentesting Playbook: Attacks, Tools, and Defense-in-Depth by Intelithics | Intelithics | [Read More](https://medium.com/p/a8a1f7698d7e) |
-| Thu, 30 Apr 2026 12:54:47 GMT | Economic Security is National Security: An African Imperative | Ambassador Salim Kim W | [Read More](https://medium.com/p/b37a2d4a12bb) |
-| Thu, 30 Apr 2026 12:46:01 GMT | PKCE for Modern Mobile Development | Excel Nwachukwu | [Read More](https://medium.com/p/11df4cf4e7d9) |
-| Thu, 30 Apr 2026 12:43:39 GMT | Best Cryptocurrency Recovery Specialists For Scam Investigations | Eleanorpamela | [Read More](https://medium.com/p/b5a715ce101e) |
-| Thu, 30 Apr 2026 12:37:04 GMT | Lab: Stored XSS into HTML context with nothing encoded | Songül Kızılay Özügürler | [Read More](https://medium.com/p/1eb5f6e9c875) |
-| Thu, 30 Apr 2026 12:34:52 GMT | Your KMS audit log can’t tell you which Claude session signed that invoice and why that matters | Sharma B | [Read More](https://medium.com/p/7e6707426173) |
-| Thu, 30 Apr 2026 12:27:10 GMT | What is XSS (Cross-Site Scripting)? Explained Simply for Beginners | Gaurav Singh Rajput | [Read More](https://medium.com/p/065267aeb24d) |
-| Thu, 30 Apr 2026 12:20:17 GMT | Lab: Reflected XSS into HTML context with nothing encoded | Songül Kızılay Özügürler | [Read More](https://medium.com/p/91d6c54b6c9b) |
-| Thu, 30 Apr 2026 12:11:18 GMT | ONLY THIS Exclusive Industry gets GPT-5.5-Cyber. Read Here! | Brains Hub | [Read More](https://medium.com/p/6ce03567e01e) |
-| Thu, 30 Apr 2026 12:08:42 GMT | Why Building Lockdown is Critical for IT - Torus Technology | Torus Technology | [Read More](https://medium.com/p/434e00cba0ec) |
-| Thu, 30 Apr 2026 12:00:05 GMT | The Three-Strand Rope: Business Analysis, Cybersecurity, and AI Are Becoming One Conversation | Mrs Green da Business Analyst | [Read More](https://medium.com/p/c87ef03ff8b7) |
-| Thu, 30 Apr 2026 11:54:40 GMT | The 732-Byte Nightmare: Why the “Copy Fail” Exploit Changed Linux Security Overnight | Yash Gohel | [Read More](https://medium.com/p/53d0f350c9fc) |
-| Thu, 30 Apr 2026 11:51:06 GMT | Footprinting and Scanning CTF Walkthrough: Reconnaissance Using Nmap & Web Enumeration | Asad Sayyad | [Read More](https://medium.com/p/8947c0bd3779) |
