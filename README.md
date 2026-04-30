@@ -12,6 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 30 Apr 2026 16:13:54 GMT | How i found a file away vunerability on a website | Richiefallaria | [Read More](https://medium.com/p/37fca11ea240) |
+| Thu, 30 Apr 2026 16:11:56 GMT | Samurai Lab Walkthrough - Hack Smarter | RedBeard Roberts | [Read More](https://medium.com/p/090140df73eb) |
+| Thu, 30 Apr 2026 16:05:40 GMT | Cybersecurity Home Lab Project | Vashu Vats | [Read More](https://medium.com/p/1955185b002e) |
+| Thu, 30 Apr 2026 16:04:02 GMT | The Contract Mistake That Could Cost Freelancers Everything | Cyber Safety Zone | [Read More](https://medium.com/p/1aa6d6b57697) |
+| Thu, 30 Apr 2026 16:03:43 GMT | Modern AI for Dummies: How AI Detects Cyber Threats Using LDA + GNN | Kashmiraspatil | [Read More](https://medium.com/p/a9b67457b987) |
+| Thu, 30 Apr 2026 16:03:26 GMT | LLM is scary !! What you don’t know about LLM Security (Underrated Goldmine) | ALASTER | [Read More](https://medium.com/p/52e6ba0dcc85) |
+| Thu, 30 Apr 2026 15:56:59 GMT | picoCTF HideToSee Write-up | shahd fataftah | [Read More](https://medium.com/p/5a0d2616c46e) |
+| Thu, 30 Apr 2026 15:55:11 GMT | CVE-2026–31431 | Denimarswandi | [Read More](https://medium.com/p/1b7dda28321a) |
+| Thu, 30 Apr 2026 15:54:03 GMT | How an Unrestricted API Key in HTML Source Can Cost a Company $20,000 a Week | Prateekpulastya | [Read More](https://medium.com/p/bcb79d777488) |
+| Thu, 30 Apr 2026 15:45:26 GMT | Cybersecurity in 2026: Why It Matters More Than Ever (And How You Can Stay Safe) | Aarifali | [Read More](https://medium.com/p/5e1a15779068) |
+| Thu, 30 Apr 2026 15:43:40 GMT | Yes, We Taught AI to Hack — and It Mostly Works | Lorenz Lösch | [Read More](https://medium.com/p/3b8d084f18e4) |
+| Thu, 30 Apr 2026 15:42:50 GMT | From Panic to Protection: My Friend’s LinkedIn Hack & My Real-Time Response. | Nilanjan Chowdhury | [Read More](https://medium.com/p/97a379e234ac) |
+| Thu, 30 Apr 2026 15:42:36 GMT | How AI is Completely Transforming Penetration Testing — And What It Means for Every Security Team | Sai kiran | [Read More](https://medium.com/p/625cb67a2c91) |
+| Thu, 30 Apr 2026 15:39:11 GMT | Building Your Personal Brand in Cybersecurity: LinkedIn, Medium, Twitter & GitHub | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/9f0f721b6e51) |
+| Thu, 30 Apr 2026 15:29:22 GMT | How Clipboard Hijacking Silently Steals Crypto — And Why You’ll Never Notice | Lawal AB Oluwaseun | [Read More](https://medium.com/p/f37cc3baef13) |
+| Thu, 30 Apr 2026 15:21:50 GMT | OffSec Proving Grounds “Geisha” CTF | sabR | [Read More](https://medium.com/p/2e1e6809b31d) |
+| Thu, 30 Apr 2026 15:19:38 GMT | The Danger of Anonymous FTP: A Step-by-Step Guide to Website Defacement | Kavitajoshi Kiran | [Read More](https://medium.com/p/8d68b8787da7) |
+| Thu, 30 Apr 2026 15:13:52 GMT | Critical Jenkins Plugin Flaws Highlight Ongoing Risks in CI CD Pipelines | Jas | [Read More](https://medium.com/p/891e19a12bb2) |
+| Thu, 30 Apr 2026 15:10:11 GMT | MongoBleed: Investigating a MongoDB Leak in a HackTheBox Sherlock DFIR Case (MangoBleed) | Christopher Ryan | [Read More](https://medium.com/p/a1758ed7d00e) |
+| Thu, 30 Apr 2026 15:04:04 GMT | I Almost Scrolled Past This URL… Then I Got Curious | B-Vain | [Read More](https://medium.com/p/eae01d7f6a6b) |
+| Thu, 30 Apr 2026 15:02:02 GMT | I Tested AI for Cyber Attacks and Self-Security. Here’s the Dangerous Paradox No One Talks About. | Nareender Khatri | [Read More](https://medium.com/p/46efb3e60a9e) |
+| Thu, 30 Apr 2026 14:57:59 GMT | Protecting sensitive data in Databricks | David Wells | [Read More](https://medium.com/p/47c1839c9006) |
+| Thu, 30 Apr 2026 14:50:10 GMT | Crisis leadership is not about reacting in the moment — it’s about preparation. | Frank Elsner | [Read More](https://medium.com/p/045e944df5f3) |
+| Thu, 30 Apr 2026 14:48:59 GMT | The $285M Trust Trap in the Drift Protocol Hack | Alice Hsu | [Read More](https://medium.com/p/b1b22e385ae1) |
+| Thu, 30 Apr 2026 14:48:50 GMT | This AI Agent Builds Cybersecurity Tools for You | Pentester Club | [Read More](https://medium.com/p/ad32ba3d29f7) |
+| Thu, 30 Apr 2026 14:37:24 GMT | The Most Expensive Transfer Mistake Often Happens Before the Money Is Sent | DARCA-crypto/fiat bank | [Read More](https://medium.com/p/98cf369b70c7) |
+| Thu, 30 Apr 2026 14:37:21 GMT | To Speak or to Die? | Han | [Read More](https://medium.com/p/f0e29e7e3d6d) |
+| Thu, 30 Apr 2026 14:36:03 GMT | Stop Chasing Alerts. Start Understanding Your Network. | Scottcmcmahan | [Read More](https://medium.com/p/9f394462d89b) |
 | Thu, 30 Apr 2026 14:31:23 GMT | The Digital Pickpocket: How a Few Lines of Code “Borrowed” $10,000 | IBN-SA'EED | [Read More](https://medium.com/p/a202735f9c88) |
 | Thu, 30 Apr 2026 14:27:22 GMT | copy.fail | Simon Bettison | [Read More](https://medium.com/p/bf5a5818a2a5) |
 | Thu, 30 Apr 2026 14:25:30 GMT | How I Use AI to Find Bugs Faster — My Full AI-Augmented Bug Bounty Workflow in 2026 | Krithick | [Read More](https://medium.com/p/b3bb34c43dcc) |
@@ -84,33 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Apr 2026 10:12:17 GMT | my final plea for help will be seen in my eyes. | Haneul | [Read More](https://medium.com/p/9425339a8c13) |
 | Thu, 30 Apr 2026 10:04:23 GMT | How I Set Up an Active Directory Lab, Performed a Kerberoasting Attack, and Then Locked It All Down | Mahimnasinh | [Read More](https://medium.com/p/5ed52113e23d) |
 | Thu, 30 Apr 2026 10:01:01 GMT | - … | MOAMEN REZK | [Read More](https://medium.com/p/4c80ea449eda) |
-| Thu, 30 Apr 2026 09:39:12 GMT | Addressing Data Overload in IoT Systems: Practical Solutions for Businesses | Shivam Rathore | [Read More](https://medium.com/p/a1c1e1903c31) |
-| Thu, 30 Apr 2026 09:36:27 GMT | Data Security Safeguards Under the Digital Personal Data Protection Act, 2023 (DPDPA) and Digital… | Tsaaro Consulting | [Read More](https://medium.com/p/7a6029a4587a) |
-| Thu, 30 Apr 2026 09:23:42 GMT | Your Brain Is the Biggest Vulnerability | theAutoBot | [Read More](https://medium.com/p/3b39b50aada3) |
-| Thu, 30 Apr 2026 09:15:40 GMT | Building DriveMynt: Designing an Operational Platform for Driving Schools | Seenuvasan Balakrishnan | [Read More](https://medium.com/p/dc8d50e488c6) |
-| Thu, 30 Apr 2026 09:12:15 GMT | eSIM Showdown 2026: esim.me | Ahadkarim | [Read More](https://medium.com/p/23f509c786ad) |
-| Thu, 30 Apr 2026 08:52:48 GMT | Root Access to My Story — Welcome to the Lab | Sarukesh Boominathan | [Read More](https://medium.com/p/fffa73c18710) |
-| Thu, 30 Apr 2026 08:51:22 GMT | Extract - TryHackMe | Ryca | [Read More](https://medium.com/p/d444d50c9865) |
-| Thu, 30 Apr 2026 08:48:55 GMT | Top Cyber Security Solutions for Small Business | Bytepal Solutions LLC | [Read More](https://medium.com/p/9e8ddf892652) |
-| Thu, 30 Apr 2026 08:46:45 GMT | Vibe Coding Is Shipping CVEs: The Security Crisis No One Is Talking About Loudly Enough | Precogs AI | [Read More](https://medium.com/p/30838963312a) |
-| Thu, 30 Apr 2026 08:44:06 GMT | SHADOW PROTOCOL
-Chapter 1: The One Who Said No (Revised)
-The rain in Guwahati didn’t bother… | Tapudhan Rongpee | [Read More](https://medium.com/p/921474995a94) |
-| Thu, 30 Apr 2026 08:41:01 GMT | CyberWatch AI: How to Spot Online Scams Before They Cost You Money | Divine Egyabeng | [Read More](https://medium.com/p/a4178b11951d) |
-| Thu, 30 Apr 2026 08:36:13 GMT | Investigation: Web Application Exploitation and Lateral Movement | Anandakrishnan S | [Read More](https://medium.com/p/d0f1360047e6) |
-| Thu, 30 Apr 2026 08:27:14 GMT | BUG-BOUNTY SERIES 8: DNS Enumeration. | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/38d80cfff2fc) |
-| Thu, 30 Apr 2026 08:26:37 GMT | How to Comply with Digital Banking Regulations Using Face Recognition in Thailand (2026) | Yuanli Technology | [Read More](https://medium.com/p/f2d627e6ae78) |
-| Thu, 30 Apr 2026 08:21:19 GMT | BUG-BOUNTY SERIES 7: Subdomain Enumeration & Attack Surface Mapping. | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/eadaca9dd3d6) |
-| Thu, 30 Apr 2026 08:20:48 GMT | When ‘Hacked Infrastructure’ Isn’t What It Seems | Jainanushka | [Read More](https://medium.com/p/d1608c88d7dd) |
-| Thu, 30 Apr 2026 08:16:01 GMT | You Don’t Need Legs Anymore | Kai Roer | [Read More](https://medium.com/p/29f1a4d9852c) |
-| Thu, 30 Apr 2026 08:09:59 GMT | ประจำวันพฤหัสบดีที่ 30 เมษายน 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/0a404b6d50a1) |
-| Thu, 30 Apr 2026 08:04:26 GMT | Automating Endpoint Discovery & Testing — The Bug Hunter’s Workflow | ghostyjoe | [Read More](https://medium.com/p/47506f99bfd0) |
-| Thu, 30 Apr 2026 08:03:12 GMT | I WILL STALK YOU TILL YOU CAVE IN | only1davx | [Read More](https://medium.com/p/ea1fe7016cd6) |
-| Thu, 30 Apr 2026 08:01:01 GMT | Kubernetes runtime security with Tetragon | Alexandr Ivenin | [Read More](https://medium.com/p/16fa069a98db) |
-| Thu, 30 Apr 2026 08:01:01 GMT | Paywall technical issues | Ch | [Read More](https://medium.com/p/0c46dbb20248) |
-| Thu, 30 Apr 2026 07:54:15 GMT | 10 Cybersecurity Best Practices to Protect Your Data in 2026 | CyberAlchemist Fahad | [Read More](https://medium.com/p/b700d99a2f9d) |
-| Thu, 30 Apr 2026 07:53:52 GMT | Anti Drone Fence System Advanced Security Solution for Saudi Arabia | Hitechfence | [Read More](https://medium.com/p/cbdbde6a91a8) |
-| Thu, 30 Apr 2026 07:44:19 GMT | You Don’t Have Security. You Have a PDF. | David Minkovski | [Read More](https://medium.com/p/d92a96f2d6b3) |
-| Thu, 30 Apr 2026 07:39:33 GMT | Key Considerations Before Implementing ServiceNow Security Operations | Gavin Ellis | [Read More](https://medium.com/p/6143f1ac606a) |
-| Thu, 30 Apr 2026 07:37:53 GMT | Kali Linux Desktop Customization | fsocietyhub | [Read More](https://medium.com/p/57aa41d5abfd) |
-| Thu, 30 Apr 2026 07:37:08 GMT | How Machine Learning Development Services Are Transforming Modern Businesses | Meira Vane | [Read More](https://medium.com/p/bf5b46bad163) |
