@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 May 2026 17:54:02 GMT | Digital Infidelity: The “Underground” Life Hidden in Plain Sight | EncryptedLife | [Read More](https://medium.com/p/5036a333a9d5) |
+| Fri, 01 May 2026 17:52:49 GMT | You Patched cPanel. You May Still Be Owned: PAM Hooking After CVE-2026-41940 | merdw | [Read More](https://medium.com/p/648a28f15525) |
+| Fri, 01 May 2026 17:45:01 GMT | Who Sent You? Solving the Agent Identity Crisis with Highflame ZeroID | Justin Albrethsen | [Read More](https://medium.com/p/fb6dd59440e9) |
+| Fri, 01 May 2026 17:43:46 GMT | TryHackMe (THM) MD2PDF Walkthrough | Mann Diwani | [Read More](https://medium.com/p/b495829d5f7c) |
+| Fri, 01 May 2026 17:38:55 GMT | The Uniformed Guard Problem: Why AI Agent Sandboxes Need Identity, Not Just Policy | Justin Albrethsen | [Read More](https://medium.com/p/d6764e58fcad) |
+| Fri, 01 May 2026 17:36:38 GMT | How I Discovered 5 broken Access Control Bugs in a Single Web Application | 0xyz | [Read More](https://medium.com/p/44d95652872f) |
+| Fri, 01 May 2026 17:34:26 GMT | Hacker Summer Camp 2026: How to Plan 10 Days in Las Vegas Without Going Broke | Hello Lasvegastrade | [Read More](https://medium.com/p/38259011fa36) |
+| Fri, 01 May 2026 17:25:06 GMT | GDG CTF 2026 Write-up | Akash N A | [Read More](https://medium.com/p/b542b1e84ca8) |
+| Fri, 01 May 2026 17:23:15 GMT | The Cracks in the Concrete of My Surroundings | Fatimaiftikhar | [Read More](https://medium.com/p/ee9e63c97984) |
+| Fri, 01 May 2026 17:21:03 GMT | Shrinking (and Weaponizing) the Information Space | Douglas Giles, PhD w/o BS | [Read More](https://medium.com/p/4b2c1ff4b68b) |
+| Fri, 01 May 2026 17:20:06 GMT | PQMRS: A Multi-Criteria Model for Quantum Attack Stress Testing of Blockchain Chains | Jadecarnage | [Read More](https://medium.com/p/ccfb26f78391) |
+| Fri, 01 May 2026 17:18:05 GMT | Misconfiguration In Wordpress “wp-cron.php” to peform DOS Attack | AmrMahmoud (TURBO) | [Read More](https://medium.com/p/ada4f28c9dfb) |
+| Fri, 01 May 2026 17:15:29 GMT | Automating threat detection and response with Wazuh + Slack + VirusTotal (Part 3) | Augustine Sito | [Read More](https://medium.com/p/2d37cdaab797) |
+| Fri, 01 May 2026 17:09:08 GMT | An AI Coding Agent Deleted a Startup’s Entire Database in 9 Seconds. Then It Wrote a Confession. | Krupesh Raut | [Read More](https://medium.com/p/e47a558330b4) |
+| Fri, 01 May 2026 17:06:04 GMT | How Creators Can Protect Their Identity From AI Deepfakes (And Prove What’s Real) | PRVEN | [Read More](https://medium.com/p/2a7f14b67199) |
+| Fri, 01 May 2026 17:05:39 GMT | The Quiet Risk in AI Systems: How Tool Descriptions Shape Privacy, Behavior, and Outcomes | BiyteLüm | [Read More](https://medium.com/p/ff8c887e487d) |
+| Fri, 01 May 2026 17:04:30 GMT | Active Directory Users Enumeration - Security Testing Guide | Pentester Club | [Read More](https://medium.com/p/695debd4cd34) |
+| Fri, 01 May 2026 16:56:50 GMT | Google Search Console Impressions Bug 2026: What It Is, Why It Happened, and What You Must Do Right… | H2bm | [Read More](https://medium.com/p/157489e64941) |
+| Fri, 01 May 2026 16:46:50 GMT | Cryptography challenges on FlagYard | Cyb0rgBytes | [Read More](https://medium.com/p/93546330efcb) |
+| Fri, 01 May 2026 16:44:48 GMT | How focusing on a single bug bounty program for months helped me find critical vulnerabilities | DEep | [Read More](https://medium.com/p/3581d3e32e38) |
+| Fri, 01 May 2026 16:32:50 GMT | Security as a Product Attribute: Shift Left With Intent in AI Era | Neel Neelakantan | [Read More](https://medium.com/p/dadd341e2d48) |
 | Fri, 01 May 2026 16:12:50 GMT | You Agreed to This. You Just Didn’t Know | Ashutosh J | [Read More](https://medium.com/p/9205241ec4c6) |
 | Fri, 01 May 2026 16:11:01 GMT | Engineering a Zero-Knowledge Control Plane | Bilal Zuberi | [Read More](https://medium.com/p/13d4d853c518) |
 | Fri, 01 May 2026 16:04:36 GMT | The Proxy Pattern Quietly Became the Security Layer Every AI App Needs | The Stateless Samurai | [Read More](https://medium.com/p/152a811d1e73) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 May 2026 11:24:59 GMT | If you’re planning to learn AI… please don’t start randomly. | Siddhi Joshh | [Read More](https://medium.com/p/d29ec512ef3c) |
 | Fri, 01 May 2026 11:18:28 GMT | Is Your Locked Document Really Safe? | Vamsikandukuru | [Read More](https://medium.com/p/f5f7804abe30) |
 | Fri, 01 May 2026 11:10:03 GMT | Zero: Seeing Whats Hidden | Talha Bağcı | [Read More](https://medium.com/p/ef09f8320965) |
-| Fri, 01 May 2026 11:01:03 GMT | OAuth or Oh No? The Google Trap; Convenience as a Security Debt | Φiriki Intelligence | [Read More](https://medium.com/p/47d1d7b5a1b8) |
-| Fri, 01 May 2026 10:57:14 GMT | I Found a 67K-User Data Leak… and Got Paid $0 (Here’s What You Can Learn) | Alareqi | [Read More](https://medium.com/p/7b8223865f45) |
-| Fri, 01 May 2026 10:56:35 GMT | Unveiling the Reverse Shell: The Attacker’s Secret Backdoor and How to Block It | Somesh | [Read More](https://medium.com/p/c8f58e43a44e) |
-| Fri, 01 May 2026 10:45:24 GMT | Alert Triage Process in SOC — TryhackMe | Adithya Hettiarachchi | [Read More](https://medium.com/p/e507e611213f) |
-| Fri, 01 May 2026 10:41:06 GMT | From a Simple Image Upload to Account Takeover: Stored XSS via File Metadata | Kanishkakhandelwal | [Read More](https://medium.com/p/0cc601b182c3) |
-| Fri, 01 May 2026 10:20:50 GMT | [AZ] TryHackMe: Ignite Write-up | Nigar Hasanova | [Read More](https://medium.com/p/415fda3a042e) |
-| Fri, 01 May 2026 10:17:44 GMT | AI Tokens, the New World Currency | Dimitri Pletschette | [Read More](https://medium.com/p/35c48ff285f1) |
-| Fri, 01 May 2026 10:06:52 GMT | Open Redirect via redirect Parameter on Signup&Sign in Endpoint | rozzen | [Read More](https://medium.com/p/9c75a91bdaf8) |
-| Fri, 01 May 2026 10:04:19 GMT | How I Stole a Crypto Key from an Android App: A Deep Dive into WebView JavaScript Bridge Abuse | @4b6o07 | [Read More](https://medium.com/p/1fbf73cbf8cf) |
-| Fri, 01 May 2026 10:01:02 GMT | Obfuscation as a Lifestyle: Writing Code Like a Locked Door With No Handle | Franziska "Ziska" Fink | [Read More](https://medium.com/p/53a934cfaf63) |
-| Fri, 01 May 2026 09:59:05 GMT | Safely Handling Malware Samples for API Testing | Ionx Solutions | [Read More](https://medium.com/p/b1ed4b04a6ec) |
-| Fri, 01 May 2026 09:53:47 GMT | Cyber Security Training in Hyderabad | Niharika Desu | [Read More](https://medium.com/p/c9672c130393) |
-| Fri, 01 May 2026 09:52:49 GMT | The Agent Is Not Trusted. The Sandbox Is the Policy. | Ilias Armenakis | [Read More](https://medium.com/p/a31a06475a9e) |
-| Fri, 01 May 2026 09:51:01 GMT | The Best Analysts Are Comfortable Saying ‘We Don’t Know — Yet’ | Rishika Desai | [Read More](https://medium.com/p/09e856dc00aa) |
-| Fri, 01 May 2026 09:48:56 GMT | Part 1: Your Android App Is Probably Storing Secrets in All the Wrong Places | Dev 175 | [Read More](https://medium.com/p/6bf81224a310) |
-| Fri, 01 May 2026 09:44:31 GMT | Not Safe. Just Broken. | Martin Andreoni | [Read More](https://medium.com/p/60ea54f59ada) |
-| Fri, 01 May 2026 09:43:28 GMT | Home SOC Lab ELK | cyber-ninjaaa | [Read More](https://medium.com/p/cd9567b4e285) |
-| Fri, 01 May 2026 09:40:56 GMT | Excessive Data Exposure Leading to Unauthorized Access to Paid Features | Kanishkakhandelwal | [Read More](https://medium.com/p/2dc1f7554e50) |
-| Fri, 01 May 2026 09:15:34 GMT | Mastercard Joins BSSC: Toward Formalized, End-to-End Security Standards for Blockchain Ecosystems | Viktor Davydych | [Read More](https://medium.com/p/f38d2d180467) |
-| Fri, 01 May 2026 09:14:37 GMT | How I Exploited a SQL Injection Vulnerability — CTF Writeup (SQLi1) | Clinton Chidera | [Read More](https://medium.com/p/f74435d871e9) |
-| Fri, 01 May 2026 09:12:08 GMT | Understanding OWASP and the Top 10 Security Risks for 2025 | Manmeet Kalra | [Read More](https://medium.com/p/691737b33276) |
