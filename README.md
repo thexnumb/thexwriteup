@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 May 2026 13:44:55 GMT | Custom Middleware & Security Features— Path to Laravel (Article 18) ️ | Dinushka Tharidu | [Read More](https://medium.com/p/a8776a93e8df) |
+| Fri, 01 May 2026 13:44:25 GMT | Zero Trust Can Inform Engineering — But It Shouldn’t Replace It | Peter Hillier/Halton | [Read More](https://medium.com/p/167cbf24b823) |
+| Fri, 01 May 2026 13:43:32 GMT | The Future of Cyber Warfare: Invisible Frontlines and Unseen Consequences | Raksha Thimmaiah | [Read More](https://medium.com/p/f634d2ac2e05) |
+| Fri, 01 May 2026 13:41:46 GMT | Most Cyber Incidents Don’t Start with Hackers | Abdullah Zulkifli | [Read More](https://medium.com/p/6dda4ad54992) |
+| Fri, 01 May 2026 13:32:55 GMT | I Mapped How Attackers Chain 5 API Vulnerabilities Into a Full Admin Takeover — Here’s Every Step | Advait Rane | [Read More](https://medium.com/p/627b334a304c) |
+| Fri, 01 May 2026 13:31:51 GMT | Engineering a Modular Malware Triage Engine: From Hashing to Real-Time OS Correlation | Namanbhatt | [Read More](https://medium.com/p/ffbaec96ae6e) |
+| Fri, 01 May 2026 13:28:57 GMT | Nine Seconds — what the PocketOS disaster taught me about handing my AI agent the keys | Akshat Ratanpal | [Read More](https://medium.com/p/11c0b1810245) |
+| Fri, 01 May 2026 13:19:32 GMT | Information Quality Determines Life Quality | Christopher | [Read More](https://medium.com/p/e3ad245d0d56) |
+| Fri, 01 May 2026 13:10:10 GMT | The Role of AI in Cybersecurity: Preparing for the Future of Digital Security | Sanjiv Cherian | [Read More](https://medium.com/p/7d42ed0e44ab) |
+| Fri, 01 May 2026 13:08:21 GMT | TryHackMe: RootMe Write-up | Burak | [Read More](https://medium.com/p/230349622318) |
+| Fri, 01 May 2026 13:07:25 GMT | The Compromise Paths Already Exist | The Man Behind The Line | [Read More](https://medium.com/p/5f9cf2a3e757) |
+| Fri, 01 May 2026 13:06:01 GMT | AI vs Humans: What Jobs Are Safe in 2026? | Xwtempsolutions | [Read More](https://medium.com/p/29c3a43f7c6f) |
+| Fri, 01 May 2026 13:01:03 GMT | How a Three-Layer Risk System Changes the Way People Think About Automated Trading | BiTo Fintech | [Read More](https://medium.com/p/b2c5cab9e6b7) |
+| Fri, 01 May 2026 13:00:00 GMT | 7 Bug Bounty Mistakes That Cost Me Real Money | Fateyaly | [Read More](https://medium.com/p/5ac0b26b49ed) |
+| Fri, 01 May 2026 12:59:00 GMT | $2,150 Critical Authorization Bypass: Viewer to Admin Privilege Escalation via API | Abhi Sharma | [Read More](https://medium.com/p/c2ef8974a1a5) |
+| Fri, 01 May 2026 12:57:21 GMT | Distribution and Consolidation | Jtemple | [Read More](https://medium.com/p/4004ef94c244) |
+| Fri, 01 May 2026 12:46:01 GMT | 10 Types of Malware Every Ethical Hacker Must Know (Beginner Guide) | Karanam Shrivasta | [Read More](https://medium.com/p/0b46af0f9072) |
+| Fri, 01 May 2026 12:41:28 GMT | CTF Collection Vol.2 — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/dfcccd12da12) |
+| Fri, 01 May 2026 12:41:01 GMT | How I Found Sensitive Data Exposure on Screenly’s API — A Bug Bounty Writeup | anshh.bohara | [Read More](https://medium.com/p/c21dc7c57d40) |
+| Fri, 01 May 2026 12:35:31 GMT | 2025’s #1 Security Vulnerability: Explained Step by Step | Messaoud Wael | [Read More](https://medium.com/p/112442b2938d) |
+| Fri, 01 May 2026 12:04:46 GMT | software testing course in Hyderabad | Mahendervcubesolutions | [Read More](https://medium.com/p/ec4c4f61251e) |
+| Fri, 01 May 2026 12:03:46 GMT | Automating Pentesting with AI- The Shift to Agentic Security | Harsh Tandel | [Read More](https://medium.com/p/5ab233b6b234) |
 | Fri, 01 May 2026 11:44:32 GMT | The Silicon Sentinel | Vasant Bhadauria | [Read More](https://medium.com/p/23b907cbc43d) |
 | Fri, 01 May 2026 11:41:15 GMT | Enterprise Secure Integration Platforms for AI Agents: Review of Secure AI Agent Integration… | Mateo Rojas | [Read More](https://medium.com/p/7ded3d384ba6) |
 | Fri, 01 May 2026 11:38:04 GMT | Crypto Wallets You’ll Actually Use Every Day | SimpleSwap.io | [Read More](https://medium.com/p/06ce36c3f537) |
@@ -85,30 +107,8 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 May 2026 06:11:05 GMT | VulnNet: Internal TryHackMe Writeup — Exploiting Misconfigurations for Full System Compromise | Indu Shekhar Pandey | [Read More](https://medium.com/p/ddd3677d1cbb) |
 | Fri, 01 May 2026 06:05:58 GMT | CyberSecurity Foundation | mHamzaFaqir | [Read More](https://medium.com/p/b364fa063115) |
 | Fri, 01 May 2026 06:02:52 GMT | I Tried to Break Information Theory | Chimaraoke Samson | [Read More](https://medium.com/p/d7612259aad3) |
+| Fri, 01 May 2026 05:49:29 GMT | SERVER-SIDE REQUEST FORGERY (SSRF) in crAPI | Krutika | [Read More](https://medium.com/p/912592eb67c8) |
 | Fri, 01 May 2026 05:46:01 GMT | Cisco Ethical Hacker Notes — part 10 | ExploitHunter | [Read More](https://medium.com/p/0ef56c3c4a7b) |
 | Fri, 01 May 2026 05:39:20 GMT | Exploring Digital Footprints with TryHackMe | Jeshwanth | [Read More](https://medium.com/p/fda9ef575ba0) |
 | Fri, 01 May 2026 05:12:59 GMT | .NET 10.0.7 OOB Security Update: The Kind of Bug You Can’t Afford to Ignore | Kavathiyakhushali | [Read More](https://medium.com/p/0933afcec495) |
 | Fri, 01 May 2026 05:11:00 GMT | Cisco Ethical Hacker Notes — part 9 | ExploitHunter | [Read More](https://medium.com/p/6c708eb03e6f) |
-| Fri, 01 May 2026 05:05:35 GMT | Popular Python Package “Lightning” Compromised in Supply Chain Attack | Vishnukraju | [Read More](https://medium.com/p/d38898a3f7fb) |
-| Fri, 01 May 2026 04:46:40 GMT | Temp Gmailer — Free Temporary Gmail Generator for OTP Verification & Secure Signups | Tempgmailer | [Read More](https://medium.com/p/2143d9d0a3e0) |
-| Fri, 01 May 2026 04:38:11 GMT | Extending the Five-Point AI Cyber Defense Strategy | Eldor Zufarov | [Read More](https://medium.com/p/41cae03db1d9) |
-| Fri, 01 May 2026 04:37:19 GMT | The Secret Language of Search: Google Dorking | sablimino | [Read More](https://medium.com/p/aa07dac777aa) |
-| Fri, 01 May 2026 04:32:44 GMT | Polymorphic & Metamorphic Malware: The Shape-Shifting Threat Your Antivirus Can’t See | Paritosh | [Read More](https://medium.com/p/85dd624f0c1f) |
-| Fri, 01 May 2026 04:32:21 GMT | Digging Into: Claude Security | Vatsal | [Read More](https://medium.com/p/8a6e58d08c8b) |
-| Fri, 01 May 2026 04:16:32 GMT | City Council ️ - Hack Smarter Labs Walkthrough | WireHawk Security | [Read More](https://medium.com/p/24d0dc54978f) |
-| Fri, 01 May 2026 03:55:50 GMT | I can’t believe I’m seeing an Insecure Direct Object Reference (IDOR) vulnerability in 2026!! | Ashwabh Bhatnagar | [Read More](https://medium.com/p/df2c21c7f702) |
-| Fri, 01 May 2026 03:54:21 GMT | Copy Fail (CVE-2026–31431): How a 2017 Performance Optimization Became a Nine-Year Root Exploit on… | Frank Mccausland | [Read More](https://medium.com/p/8c6dd9537b74) |
-| Fri, 01 May 2026 03:39:48 GMT | From Signal to Impact: Building Squirm and Learning What Actually Matters | Whathehack | [Read More](https://medium.com/p/0fb9eefc426e) |
-| Fri, 01 May 2026 03:38:04 GMT | The Developer’s Guide to Preventing Indirect Prompt Injections | Kristian P. | [Read More](https://medium.com/p/5336df923bc5) |
-| Fri, 01 May 2026 03:34:40 GMT | The SSL/TLS Handshake: How Your Browser Learns to Trust a Stranger | Chamikanimnajith | [Read More](https://medium.com/p/983fa1f89b58) |
-| Fri, 01 May 2026 03:31:01 GMT | Beyond RSA: How Lattices Are Building Quantum-Resistant Security | ShreehariMenon | [Read More](https://medium.com/p/640742548e71) |
-| Fri, 01 May 2026 03:24:15 GMT | Beyond the Quick Fix: Top IT solutions provider — KANiT | Hiren Brahmbhatt | [Read More](https://medium.com/p/1909f8085909) |
-| Fri, 01 May 2026 02:52:27 GMT | ️ SQL Injection 是什麼？ | 思維舞步 MindSteps | [Read More](https://medium.com/p/5f9e06761711) |
-| Fri, 01 May 2026 02:45:48 GMT | How I Investigated a Real Phishing Attack That Led to Malware Execution and C2 Communication | Ahmdirfanmp | [Read More](https://medium.com/p/fd0c1cf87122) |
-| Fri, 01 May 2026 02:43:13 GMT | Nine Seconds. One Company. Gone. | Adam McClarin | [Read More](https://medium.com/p/a5698cc5f620) |
-| Fri, 01 May 2026 02:12:32 GMT | How to Debug JWT ‘Invalid Signature’ and ‘Expired’ Errors in Node.js | Achraffwarrach | [Read More](https://medium.com/p/8b301c0fe566) |
-| Fri, 01 May 2026 02:09:58 GMT | Cockpit - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/eb84d67f67f4) |
-| Fri, 01 May 2026 01:58:10 GMT | Clipboard malware is one of those quiet predators in cybersecurity, no noise, no flashy alerts… | Gidotyo | [Read More](https://medium.com/p/f5204e6b319b) |
-| Fri, 01 May 2026 01:45:15 GMT | Learning Linux | iforgot | [Read More](https://medium.com/p/81159d3ff1d0) |
-| Fri, 01 May 2026 01:11:20 GMT | The Compliance Paradox: How 100% Compliant Companies Get Breached — And Why I Built a Tool to… | Eria Mutasa | [Read More](https://medium.com/p/e5593760b135) |
-| Fri, 01 May 2026 01:01:32 GMT | TryHackMe Walkthrough: Windows Fundamentals Part 3 | Shubham Khirwadkar | [Read More](https://medium.com/p/37e6869b93e3) |
