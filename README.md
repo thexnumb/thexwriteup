@@ -12,8 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 May 2026 10:45:24 GMT | Alert Triage Process in SOC — TryhackMe | Adithya Hettiarachchi | [Read More](https://medium.com/p/e507e611213f) |
+| Fri, 01 May 2026 10:41:06 GMT | From a Simple Image Upload to Account Takeover: Stored XSS via File Metadata | Kanishkakhandelwal | [Read More](https://medium.com/p/0cc601b182c3) |
+| Fri, 01 May 2026 10:20:50 GMT | [AZ] TryHackMe: Ignite Write-up | Nigar Hasanova | [Read More](https://medium.com/p/415fda3a042e) |
+| Fri, 01 May 2026 10:17:44 GMT | AI Tokens, the New World Currency | Dimitri Pletschette | [Read More](https://medium.com/p/35c48ff285f1) |
+| Fri, 01 May 2026 10:06:52 GMT | Open Redirect via redirect Parameter on Signup&Sign in Endpoint | rozzen | [Read More](https://medium.com/p/9c75a91bdaf8) |
+| Fri, 01 May 2026 10:04:19 GMT | How I Stole a Crypto Key from an Android App: A Deep Dive into WebView JavaScript Bridge Abuse | @4b6o07 | [Read More](https://medium.com/p/1fbf73cbf8cf) |
+| Fri, 01 May 2026 10:01:02 GMT | Obfuscation as a Lifestyle: Writing Code Like a Locked Door With No Handle | Franziska "Ziska" Fink | [Read More](https://medium.com/p/53a934cfaf63) |
+| Fri, 01 May 2026 09:59:05 GMT | Safely Handling Malware Samples for API Testing | Ionx Solutions | [Read More](https://medium.com/p/b1ed4b04a6ec) |
+| Fri, 01 May 2026 09:53:47 GMT | Cyber Security Training in Hyderabad | Niharika Desu | [Read More](https://medium.com/p/c9672c130393) |
+| Fri, 01 May 2026 09:52:49 GMT | The Agent Is Not Trusted. The Sandbox Is the Policy. | Ilias Armenakis | [Read More](https://medium.com/p/a31a06475a9e) |
+| Fri, 01 May 2026 09:51:01 GMT | The Best Analysts Are Comfortable Saying ‘We Don’t Know — Yet’ | Rishika Desai | [Read More](https://medium.com/p/09e856dc00aa) |
+| Fri, 01 May 2026 09:48:56 GMT | Part 1: Your Android App Is Probably Storing Secrets in All the Wrong Places | Dev 175 | [Read More](https://medium.com/p/6bf81224a310) |
+| Fri, 01 May 2026 09:44:31 GMT | Not Safe. Just Broken. | Martin Andreoni | [Read More](https://medium.com/p/60ea54f59ada) |
+| Fri, 01 May 2026 09:43:28 GMT | Home SOC Lab ELK | cyber-ninjaaa | [Read More](https://medium.com/p/cd9567b4e285) |
+| Fri, 01 May 2026 09:40:56 GMT | Excessive Data Exposure Leading to Unauthorized Access to Paid Features | Kanishkakhandelwal | [Read More](https://medium.com/p/2dc1f7554e50) |
+| Fri, 01 May 2026 09:15:34 GMT | Mastercard Joins BSSC: Toward Formalized, End-to-End Security Standards for Blockchain Ecosystems | Viktor Davydych | [Read More](https://medium.com/p/f38d2d180467) |
 | Fri, 01 May 2026 09:14:37 GMT | How I Exploited a SQL Injection Vulnerability — CTF Writeup (SQLi1) | Clinton Chidera | [Read More](https://medium.com/p/f74435d871e9) |
 | Fri, 01 May 2026 09:12:08 GMT | Understanding OWASP and the Top 10 Security Risks for 2025 | Manmeet Kalra | [Read More](https://medium.com/p/691737b33276) |
+| Fri, 01 May 2026 09:05:43 GMT | Ethical Hacking Course in Sangam Vihar | EINITIAL24 | [Read More](https://medium.com/p/2e8c1dc43763) |
 | Fri, 01 May 2026 08:59:40 GMT | Understanding Vulnerability Databases - TryHackMe | Ryca | [Read More](https://medium.com/p/04ae0e78ebfd) |
 | Fri, 01 May 2026 08:58:16 GMT | Investigation: Malware Analysis and Threat Log Correlation | Anandakrishnan S | [Read More](https://medium.com/p/e03b896b3ece) |
 | Fri, 01 May 2026 08:56:01 GMT | ISO Certifications for Cybersecurity Software Services, Requirements and Benefits | Pacific Certifications | [Read More](https://medium.com/p/a5141b393578) |
@@ -36,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 May 2026 07:41:22 GMT | What I Didn’t Know About NGINX Until Production Taught Me | Hetvi Patoliya | [Read More](https://medium.com/p/883a2e702df0) |
 | Fri, 01 May 2026 07:38:43 GMT | The Hackers Labs Writeup — HappyJump (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1180f10c3487) |
 | Fri, 01 May 2026 07:30:02 GMT | Stop Fuzzing WAFs: How I Used AI Noise & Trust Decay to Bypass Enterprise Firewalls (And… | Kakashi | [Read More](https://medium.com/p/fdc3f5f89ea0) |
+| Fri, 01 May 2026 07:17:33 GMT | CVE-2026–31431: Linux Sistemde Sessizce Root Olmak | Burkay Elbir | [Read More](https://medium.com/p/b65db5f3549e) |
 | Fri, 01 May 2026 06:59:43 GMT | AI Adoption Rarely Begins With A Decision | Chandrashekar Babu | [Read More](https://medium.com/p/08eda2d39ff7) |
 | Fri, 01 May 2026 06:54:42 GMT | CPanel and WHM Critical Authentication Bypass Security Advisory | SOCFortress | [Read More](https://medium.com/p/262fa9d33df9) |
 | Fri, 01 May 2026 06:37:21 GMT | The Windows Forensic Journey — DumpIt | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d6fd005b06c5) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Apr 2026 22:27:09 GMT | Deepfake Çağında Kırmızı Tehdit | Eyüp Çeçen | [Read More](https://medium.com/p/f5ea88441c02) |
 | Thu, 30 Apr 2026 22:23:18 GMT | Most RAG Systems Waste 60% of Their Retrieval Calls. Skill-RAG Fixes That. | Raviteja Nekkalapu | [Read More](https://medium.com/p/81d69ff8aae7) |
 | Thu, 30 Apr 2026 22:13:51 GMT | The Ethics of Pixel Tracking: Where Useful Analytics Become Digital Surveillance — Joseph Sides | Joseph Sides | [Read More](https://medium.com/p/1fcb22f6c429) |
-| Thu, 30 Apr 2026 22:13:29 GMT | TryHackMe - Detecting AD Credential Attacks - WriteUp | Axoloth | [Read More](https://medium.com/p/72073460b33b) |
-| Thu, 30 Apr 2026 22:10:21 GMT | Practical Web Pentest Associate: TCM Security Notes | The Husky Hacker | [Read More](https://medium.com/p/6479481345d3) |
-| Thu, 30 Apr 2026 22:06:38 GMT | Technical Analysis of the LAMEHUG Campaign (APT28) | SIMKRA | [Read More](https://medium.com/p/4c99b147518c) |
-| Thu, 30 Apr 2026 22:06:01 GMT | surface truth | Seid Arsen Ramic | [Read More](https://medium.com/p/97f29be0bca8) |
-| Thu, 30 Apr 2026 22:02:41 GMT | A security researcher emailed me the night before my Product Hunt launch. Here is what I found. | Adam McClarin | [Read More](https://medium.com/p/d657f824850d) |
-| Thu, 30 Apr 2026 22:01:02 GMT | Embedding an HTTP-only Device in an HTTPS App with Nginx | Dusan Aksentijevic | [Read More](https://medium.com/p/0ce1a802b62c) |
-| Thu, 30 Apr 2026 21:48:38 GMT | Secure Your Castle: Identifying Over-Privileged Database Accounts | Joseph Rodriguez, CISSP, MSCIS | [Read More](https://medium.com/p/f6d198f4c60b) |
-| Thu, 30 Apr 2026 21:42:11 GMT | hideme — picoCTF writeup | Marty Nattakit | [Read More](https://medium.com/p/9fe21360f422) |
-| Thu, 30 Apr 2026 21:31:29 GMT | Open source trust breaks quietly: one popular ML dependency, two poisoned releases, and thousands… | Muhammad Qayyum | [Read More](https://medium.com/p/5a3e8958e52a) |
-| Thu, 30 Apr 2026 21:08:01 GMT | How a Simple Comment Box Almost Cost a Fintech Giant $15,000 | Tanvi Chauhan | [Read More](https://medium.com/p/3fe6e35daafd) |
-| Thu, 30 Apr 2026 20:51:31 GMT | CyberDefenders — Insider Walkthrough | Serhan Kırca | [Read More](https://medium.com/p/a505a25601e3) |
-| Thu, 30 Apr 2026 20:51:26 GMT | SOC Alert Investigation: Possible IDOR Attack Detected (SOC169 — EventID 119) | DeadHack | [Read More](https://medium.com/p/fd24fad89375) |
-| Thu, 30 Apr 2026 20:48:29 GMT | RFC 8693 OBO Tokens: How AI Agents Call External APIs on Behalf of Users at The Same Time Being… | CivilizaXion | [Read More](https://medium.com/p/abb934f9e38e) |
-| Thu, 30 Apr 2026 20:48:22 GMT | “Copy Fail”: The Most Alarming Linux Bug in a Decade | SOCFortress | [Read More](https://medium.com/p/25ad93801b67) |
-| Thu, 30 Apr 2026 20:46:38 GMT | Vulnerability Management at Home Sweet Home | Gnanendra Prasad | [Read More](https://medium.com/p/01b8e65f2832) |
-| Thu, 30 Apr 2026 20:43:12 GMT | The Modern Developer’s Guide to Hashing, Encryption, and Encoding | Krishna Kanth | [Read More](https://medium.com/p/f891fb49d2c3) |
-| Thu, 30 Apr 2026 20:35:00 GMT | Silencing EDR File Telemetry: MiniFilter Callback Unlinking | S12 - 0x12Dark Development | [Read More](https://medium.com/p/fe215b009d72) |
-| Thu, 30 Apr 2026 20:16:07 GMT | 700,000 People Have a Security+. Companies Still Say They Can’t Find Talent. | Jbird | [Read More](https://medium.com/p/abc9676c9620) |
