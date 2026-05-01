@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 May 2026 19:15:21 GMT | A Tale of Two Cyberz | Tyler Oliver | [Read More](https://medium.com/p/cb7bb0e1dc2f) |
+| Fri, 01 May 2026 19:13:26 GMT | Cracks, Shards, Broken Bones | Darian | [Read More](https://medium.com/p/c1c353fd36f4) |
+| Fri, 01 May 2026 19:03:00 GMT | Memory Acquisition Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/0b334e475754) |
+| Fri, 01 May 2026 19:00:44 GMT | The 18-Day Build: Why I Traded Speed for a Permanent Linux Foundation, Bridging the Gap Between… | Mohamed Abdelhamied | [Read More](https://medium.com/p/fa886d030b14) |
+| Fri, 01 May 2026 18:55:52 GMT | MultiCode — picoCTF Writeup (Layered Encoding Explained) | mayhack | [Read More](https://medium.com/p/4f200da8a38d) |
+| Fri, 01 May 2026 18:53:36 GMT | “Machine Learning-Based Detection of SQL Injection Attacks: A Classification Approach” | Sumathigowda | [Read More](https://medium.com/p/3b68dcfb44cb) |
+| Fri, 01 May 2026 18:51:55 GMT | I Got Tired of Doing the Same Manual Checks on Every App — So I Built a Tool to Do It For Me | Muhammadbaziloffi | [Read More](https://medium.com/p/1ac2640dbac2) |
+| Fri, 01 May 2026 18:49:59 GMT | Automating Threat Intel Enrichment with n8n -MISP | Özge Seren Sürgit | [Read More](https://medium.com/p/206f32c5fe5f) |
+| Fri, 01 May 2026 18:45:57 GMT | Why Managed Protective Intelligence Is Suddenly on Everyone’s Radar | Matt Black | [Read More](https://medium.com/p/3bd36c276a68) |
+| Fri, 01 May 2026 18:43:41 GMT | Integrating Huawei Cloud SecMaster with Third-Party Log Platforms | Matheus Araujo | [Read More](https://medium.com/p/1230f75196cd) |
+| Fri, 01 May 2026 18:41:38 GMT | TryHackMe - Monitoring AWS Services - WriteUp | Axoloth | [Read More](https://medium.com/p/05bfd958d381) |
+| Fri, 01 May 2026 18:35:07 GMT | The 2026 HIPAA Security Rule at 90 Days: What’s Actually Landing in Healthcare IT | Joegellatly | [Read More](https://medium.com/p/eb20bef55dc1) |
+| Fri, 01 May 2026 18:33:38 GMT | How I Earned a Hall of Fame from NASA
+Success in bug bounty hunting isn’t just about the tools you… | Argha Sarkar | [Read More](https://medium.com/p/5716973ec9fe) |
+| Fri, 01 May 2026 18:33:36 GMT | cPanel’i Güncellediniz Ama Hala Tehlikede Olabilirsiniz: CVE-2026–41940 Sonrası PAM Hooking Tehdidi | merdw | [Read More](https://medium.com/p/8aab879bd438) |
+| Fri, 01 May 2026 18:30:29 GMT | When Working-From-Home Goes Wrong | Marvin Sewell | [Read More](https://medium.com/p/ea1d2a104947) |
+| Fri, 01 May 2026 18:24:51 GMT | 5 Mistakes That Make Your Wi-Fi an Easy Target | Muhammad Hamza | [Read More](https://medium.com/p/1b216de328af) |
+| Fri, 01 May 2026 18:17:21 GMT | What the OSI Model Is and Why Every Cybersecurity Professional Needs to Know It | Leonard Ward | [Read More](https://medium.com/p/063e86b7508b) |
+| Fri, 01 May 2026 18:16:01 GMT | Security Isn’t Just Tools: Designing Protection for a Real-World Network | Daniel Santiago | [Read More](https://medium.com/p/7e8b5697ced6) |
+| Fri, 01 May 2026 18:07:44 GMT | How I Turned $3 Into 8 Paid Bugs | Saif Eldin | [Read More](https://medium.com/p/b81c5384465c) |
+| Fri, 01 May 2026 18:00:35 GMT | Copy Fail: The 732-Byte Exploit That Roots Nearly a Decade of Linux Systems | Re: News | [Read More](https://medium.com/p/21a765257763) |
+| Fri, 01 May 2026 17:58:44 GMT | I Failed TryHackMe’s PT1 Thrice Before Passing, Here’s What No One Tells You | Shubhomrawat | [Read More](https://medium.com/p/16c266b49307) |
+| Fri, 01 May 2026 17:54:19 GMT | #FinTech Application Security: Key Risks & Best Practices | Abu Talha | [Read More](https://medium.com/p/4d8651fe5cd0) |
 | Fri, 01 May 2026 17:54:02 GMT | Digital Infidelity: The “Underground” Life Hidden in Plain Sight | EncryptedLife | [Read More](https://medium.com/p/5036a333a9d5) |
 | Fri, 01 May 2026 17:52:49 GMT | You Patched cPanel. You May Still Be Owned: PAM Hooking After CVE-2026-41940 | merdw | [Read More](https://medium.com/p/648a28f15525) |
 | Fri, 01 May 2026 17:45:01 GMT | Who Sent You? Solving the Agent Identity Crisis with Highflame ZeroID | Justin Albrethsen | [Read More](https://medium.com/p/fb6dd59440e9) |
@@ -90,25 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 May 2026 13:07:25 GMT | The Compromise Paths Already Exist | The Man Behind The Line | [Read More](https://medium.com/p/5f9cf2a3e757) |
 | Fri, 01 May 2026 13:06:01 GMT | AI vs Humans: What Jobs Are Safe in 2026? | Xwtempsolutions | [Read More](https://medium.com/p/29c3a43f7c6f) |
 | Fri, 01 May 2026 13:01:03 GMT | How a Three-Layer Risk System Changes the Way People Think About Automated Trading | BiTo Fintech | [Read More](https://medium.com/p/b2c5cab9e6b7) |
-| Fri, 01 May 2026 13:00:00 GMT | 7 Bug Bounty Mistakes That Cost Me Real Money | Fateyaly | [Read More](https://medium.com/p/5ac0b26b49ed) |
-| Fri, 01 May 2026 12:59:00 GMT | $2,150 Critical Authorization Bypass: Viewer to Admin Privilege Escalation via API | Abhi Sharma | [Read More](https://medium.com/p/c2ef8974a1a5) |
-| Fri, 01 May 2026 12:57:21 GMT | Distribution and Consolidation | Jtemple | [Read More](https://medium.com/p/4004ef94c244) |
-| Fri, 01 May 2026 12:46:01 GMT | 10 Types of Malware Every Ethical Hacker Must Know (Beginner Guide) | Karanam Shrivasta | [Read More](https://medium.com/p/0b46af0f9072) |
-| Fri, 01 May 2026 12:41:28 GMT | CTF Collection Vol.2 — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/dfcccd12da12) |
-| Fri, 01 May 2026 12:41:01 GMT | How I Found Sensitive Data Exposure on Screenly’s API — A Bug Bounty Writeup | anshh.bohara | [Read More](https://medium.com/p/c21dc7c57d40) |
-| Fri, 01 May 2026 12:35:31 GMT | 2025’s #1 Security Vulnerability: Explained Step by Step | Messaoud Wael | [Read More](https://medium.com/p/112442b2938d) |
-| Fri, 01 May 2026 12:04:46 GMT | software testing course in Hyderabad | Mahendervcubesolutions | [Read More](https://medium.com/p/ec4c4f61251e) |
-| Fri, 01 May 2026 12:03:46 GMT | Automating Pentesting with AI- The Shift to Agentic Security | Harsh Tandel | [Read More](https://medium.com/p/5ab233b6b234) |
-| Fri, 01 May 2026 11:44:32 GMT | The Silicon Sentinel | Vasant Bhadauria | [Read More](https://medium.com/p/23b907cbc43d) |
-| Fri, 01 May 2026 11:41:15 GMT | Enterprise Secure Integration Platforms for AI Agents: Review of Secure AI Agent Integration… | Mateo Rojas | [Read More](https://medium.com/p/7ded3d384ba6) |
-| Fri, 01 May 2026 11:38:04 GMT | Crypto Wallets You’ll Actually Use Every Day | SimpleSwap.io | [Read More](https://medium.com/p/06ce36c3f537) |
-| Fri, 01 May 2026 11:31:01 GMT | Beyond the Runbook: How AI Security Agents Are Reshaping the SOC Playbook | Predrag | [Read More](https://medium.com/p/ca0e0a9ea775) |
-| Fri, 01 May 2026 11:31:01 GMT | The SSH Key That Was Valid — But Not Mine #9 | Faruk Ahmed | [Read More](https://medium.com/p/dc72ca0ac6bb) |
-| Fri, 01 May 2026 11:30:26 GMT | Trump I : Kabila Out Trump II : Kabila Game Over ? | Gregoire Kilosho | [Read More](https://medium.com/p/eab187742b61) |
-| Fri, 01 May 2026 11:29:21 GMT | 5 Daily Habits That Keep You Safe Online | Anila Shabir | [Read More](https://medium.com/p/ea95f96385b9) |
-| Fri, 01 May 2026 11:27:12 GMT | HackSudo Thor: The Most Complete Penetration Testing Walkthrough You Will Find | Angle Gray | [Read More](https://medium.com/p/8b9d925d978f) |
-| Fri, 01 May 2026 11:26:56 GMT | This Week in Cybersecurity: Converging Threat Actors Exploiting Emerging and Legacy Vulnerabilities… | Loginsoft | [Read More](https://medium.com/p/55a898f7703e) |
-| Fri, 01 May 2026 11:25:24 GMT | Network Packet Analysis & Malware Investigation | Faslanrizni | [Read More](https://medium.com/p/89964dd8722c) |
-| Fri, 01 May 2026 11:24:59 GMT | If you’re planning to learn AI… please don’t start randomly. | Siddhi Joshh | [Read More](https://medium.com/p/d29ec512ef3c) |
-| Fri, 01 May 2026 11:18:28 GMT | Is Your Locked Document Really Safe? | Vamsikandukuru | [Read More](https://medium.com/p/f5f7804abe30) |
-| Fri, 01 May 2026 11:10:03 GMT | Zero: Seeing Whats Hidden | Talha Bağcı | [Read More](https://medium.com/p/ef09f8320965) |
