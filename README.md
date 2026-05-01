@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 May 2026 15:05:43 GMT | From Phreakers to APTs (Part I) | Soradearu | [Read More](https://medium.com/p/4ca2023d0834) |
+| Fri, 01 May 2026 15:01:01 GMT | Preparing for Production: Fixing Naked Domains and SQS Throttling | Eric Rodríguez Pacheco | [Read More](https://medium.com/p/143a00b8df6c) |
+| Fri, 01 May 2026 15:00:53 GMT | When Defenders Turn Threat Actors: Insider Risk in Cybersecurity Comes Into Focus | Jas | [Read More](https://medium.com/p/9064163b9081) |
+| Fri, 01 May 2026 14:57:54 GMT | How a Roblox Cheat Code Brought Down Vercel: The Supply Chain Attack That Shook the Web | Shehara Fernando | [Read More](https://medium.com/p/1ea407cc964d) |
+| Fri, 01 May 2026 14:55:50 GMT | Marimo RCE Vulnerability Exploited in the Within 10 Hours of Disclosure - DefendMyBusiness Advisory | Defend My Business | [Read More](https://medium.com/p/31c23b6c1d74) |
+| Fri, 01 May 2026 14:54:09 GMT | The Four Habits That Would Have Saved a CEO $78,000 | Younos Nazarian | [Read More](https://medium.com/p/a20b94360035) |
+| Fri, 01 May 2026 14:54:07 GMT | Axios x Bitwarden CLI — CTI Analysis: Two Incidents, One Attack Surface | Shxdowz | [Read More](https://medium.com/p/985a8ed9c9ab) |
+| Fri, 01 May 2026 14:52:50 GMT | Your Guide to Safe Locksmith Services in Glendale - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/41105c64c671) |
+| Fri, 01 May 2026 14:50:27 GMT | CVE-2026-41651 - Local Privilege Escalation Zafiyeti! | Dogukan İSPİRLİ | [Read More](https://medium.com/p/fcbaf6645eae) |
+| Fri, 01 May 2026 14:47:42 GMT | Every Security Era Picks a Trust Anchor. AI Doesn’t Have One Yet. | Pavan | [Read More](https://medium.com/p/0e7f94e02967) |
+| Fri, 01 May 2026 14:47:14 GMT | Found a Leaked JWT Token in a Public GitHub Repo — Here Is What Actually Happened | Krithick | [Read More](https://medium.com/p/27d05dd06624) |
+| Fri, 01 May 2026 14:46:50 GMT | EtherRAT: When Blockchain Meets Malware. | Φiriki Intelligence | [Read More](https://medium.com/p/fe7528519fcc) |
+| Fri, 01 May 2026 14:42:21 GMT | Behind the Veil: Iran’s Shadow Activities and the European Security Response | Robertikhwani | [Read More](https://medium.com/p/22accbead6b5) |
+| Fri, 01 May 2026 14:41:51 GMT | The Updated ODPC: An OSCE3 Holder’s Review of White Knight Labs’ Hardest Cert | Almillion | [Read More](https://medium.com/p/fa42a889248e) |
+| Fri, 01 May 2026 14:41:00 GMT | Millions Exposed: The 2026 Nike & CarGurus Hacks (Are You Safe?) | Irshad | [Read More](https://medium.com/p/a61126d73b2f) |
+| Fri, 01 May 2026 14:39:33 GMT | Diplomacy or Espionage? Why Iranian Embassies Need Immediate Oversight | ÚLTIMA HORA ESPAÑOL | [Read More](https://medium.com/p/1715ba6ada06) |
+| Fri, 01 May 2026 14:37:29 GMT | The Trojan Horse: When Embassies Become Intelligence Hubs | Ava Marie Thompson | [Read More](https://medium.com/p/ef7e07a524cb) |
+| Fri, 01 May 2026 14:31:40 GMT | Mastering Access Control — Where Most Critical Bugs Live (Part 4) | ghostyjoe | [Read More](https://medium.com/p/10a25014bfe5) |
+| Fri, 01 May 2026 14:23:04 GMT | The ADT Breach Isn’t Just Another Hack – It’s a Pattern We Keep Ignoring | Sharanraju | [Read More](https://medium.com/p/1185434c1a5c) |
+| Fri, 01 May 2026 14:19:27 GMT | Breaking the Payment Flow: A Price Tampering Vulnerability in a Vending Machine API | Vaibhav | [Read More](https://medium.com/p/c5e8a7ab63f1) |
+| Fri, 01 May 2026 14:12:55 GMT | Security is a Habit System | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/e7b7ac787701) |
+| Fri, 01 May 2026 14:09:25 GMT | Chaining IDOR and Broken Authentication to Access Sensitive Student Data (Case Study) | Md_arsalan | [Read More](https://medium.com/p/c9c5526e3c13) |
+| Fri, 01 May 2026 14:05:00 GMT | The Modern Path to Cybersecurity: A Blueprint for Lifelong Learning | Jaime Travis Pauline | [Read More](https://medium.com/p/e798a46d39b7) |
+| Fri, 01 May 2026 14:02:33 GMT | Building a Successful Tech Career with data center technician certification - Data Center… | International Data Center Authority | [Read More](https://medium.com/p/5fac0bfa6184) |
+| Fri, 01 May 2026 13:54:47 GMT | Your Code Is Lying to You — and Concurrency Is Why | Abhilasha Deshmukh | [Read More](https://medium.com/p/099144dad021) |
 | Fri, 01 May 2026 13:44:55 GMT | Custom Middleware & Security Features— Path to Laravel (Article 18) ️ | Dinushka Tharidu | [Read More](https://medium.com/p/a8776a93e8df) |
 | Fri, 01 May 2026 13:44:25 GMT | Zero Trust Can Inform Engineering — But It Shouldn’t Replace It | Peter Hillier/Halton | [Read More](https://medium.com/p/167cbf24b823) |
 | Fri, 01 May 2026 13:43:32 GMT | The Future of Cyber Warfare: Invisible Frontlines and Unseen Consequences | Raksha Thimmaiah | [Read More](https://medium.com/p/f634d2ac2e05) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 May 2026 08:02:55 GMT | Rate Limiting Isn’t Optional Here How to Actually Implement It in Node.js | Saandeep Baansod | [Read More](https://medium.com/p/36f60518d840) |
 | Fri, 01 May 2026 07:54:00 GMT | 資安實作(2) — CVE-2026–31431 的 Copy-fail 權限提升實作 | Tako | [Read More](https://medium.com/p/439b7c2bb4ac) |
 | Fri, 01 May 2026 07:53:26 GMT | How to Generate a Custom TRON Address | CustomTron | [Read More](https://medium.com/p/714d323106bf) |
-| Fri, 01 May 2026 07:49:18 GMT | T̶A̶X̶  WAF Evasion: Escalating User-Controlled Input to Cross Site Scripting (XSS) | Qolandar | [Read More](https://medium.com/p/a203194ffc10) |
-| Fri, 01 May 2026 07:41:22 GMT | What I Didn’t Know About NGINX Until Production Taught Me | Hetvi Patoliya | [Read More](https://medium.com/p/883a2e702df0) |
-| Fri, 01 May 2026 07:38:43 GMT | The Hackers Labs Writeup — HappyJump (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1180f10c3487) |
-| Fri, 01 May 2026 07:30:02 GMT | Stop Fuzzing WAFs: How I Used AI Noise & Trust Decay to Bypass Enterprise Firewalls (And… | Kakashi | [Read More](https://medium.com/p/fdc3f5f89ea0) |
-| Fri, 01 May 2026 07:17:33 GMT | CVE-2026–31431: Linux Sistemde Sessizce Root Olmak | Burkay Elbir | [Read More](https://medium.com/p/b65db5f3549e) |
-| Fri, 01 May 2026 06:59:43 GMT | AI Adoption Rarely Begins With A Decision | Chandrashekar Babu | [Read More](https://medium.com/p/08eda2d39ff7) |
-| Fri, 01 May 2026 06:54:42 GMT | CPanel and WHM Critical Authentication Bypass Security Advisory | SOCFortress | [Read More](https://medium.com/p/262fa9d33df9) |
-| Fri, 01 May 2026 06:37:21 GMT | The Windows Forensic Journey — DumpIt | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d6fd005b06c5) |
-| Fri, 01 May 2026 06:36:01 GMT | How We Migrated Our Identity Service With Zero Downtime | Hugo | [Read More](https://medium.com/p/a4acee4c4101) |
-| Fri, 01 May 2026 06:34:47 GMT | Weekly Incident Watch #1 — KelpDAO’s Aftershock, DeFi United, and the Test of “Programmable… | Yaku | [Read More](https://medium.com/p/59ca3c827c0a) |
-| Fri, 01 May 2026 06:32:12 GMT | OSCP Certification Training in Hyderabad - Securium Academy | Securium Academy | [Read More](https://medium.com/p/6ed432c68494) |
-| Fri, 01 May 2026 06:28:51 GMT | Why Enumeration Is More Important Than Exploitation in Pentesting | Amisha phuyal | [Read More](https://medium.com/p/8cfb334051ee) |
-| Fri, 01 May 2026 06:28:19 GMT | Sonu Kumar: Navigating the 2025 Cybersecurity Landscape — Insights from Nepal’s Cloud Security… | Sonuzaiswal | [Read More](https://medium.com/p/db553565bb8e) |
-| Fri, 01 May 2026 06:22:59 GMT | Essential Cybersecurity For Businesses: Safeguarding Data, Systems, And Operations | Microtechsystems | [Read More](https://medium.com/p/6be73a6c7841) |
-| Fri, 01 May 2026 06:20:43 GMT | Insider Threat Detection With AI: How To Keep Your Business Secure | Microtechsystems | [Read More](https://medium.com/p/5bd0323ff92c) |
-| Fri, 01 May 2026 06:18:01 GMT | How to Get a PSARA License in 2026: Step-by-Step Process | Agile Regulatory | [Read More](https://medium.com/p/110d9e207c5e) |
-| Fri, 01 May 2026 06:11:54 GMT | How DevOps and Cybersecurity Teams Can Work Together for Stronger Cloud Security in 2026 | Robert Haas | [Read More](https://medium.com/p/ba4c515c7ad6) |
-| Fri, 01 May 2026 06:11:05 GMT | VulnNet: Internal TryHackMe Writeup — Exploiting Misconfigurations for Full System Compromise | Indu Shekhar Pandey | [Read More](https://medium.com/p/ddd3677d1cbb) |
-| Fri, 01 May 2026 06:05:58 GMT | CyberSecurity Foundation | mHamzaFaqir | [Read More](https://medium.com/p/b364fa063115) |
-| Fri, 01 May 2026 06:02:52 GMT | I Tried to Break Information Theory | Chimaraoke Samson | [Read More](https://medium.com/p/d7612259aad3) |
-| Fri, 01 May 2026 05:49:29 GMT | SERVER-SIDE REQUEST FORGERY (SSRF) in crAPI | Krutika | [Read More](https://medium.com/p/912592eb67c8) |
-| Fri, 01 May 2026 05:46:01 GMT | Cisco Ethical Hacker Notes — part 10 | ExploitHunter | [Read More](https://medium.com/p/0ef56c3c4a7b) |
-| Fri, 01 May 2026 05:39:20 GMT | Exploring Digital Footprints with TryHackMe | Jeshwanth | [Read More](https://medium.com/p/fda9ef575ba0) |
-| Fri, 01 May 2026 05:12:59 GMT | .NET 10.0.7 OOB Security Update: The Kind of Bug You Can’t Afford to Ignore | Kavathiyakhushali | [Read More](https://medium.com/p/0933afcec495) |
-| Fri, 01 May 2026 05:11:00 GMT | Cisco Ethical Hacker Notes — part 9 | ExploitHunter | [Read More](https://medium.com/p/6c708eb03e6f) |
