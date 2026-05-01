@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 May 2026 03:55:50 GMT | I can’t believe I’m seeing an Insecure Direct Object Reference (IDOR) vulnerability in 2026!! | Ashwabh Bhatnagar | [Read More](https://medium.com/p/df2c21c7f702) |
+| Fri, 01 May 2026 03:54:21 GMT | Copy Fail (CVE-2026–31431): How a 2017 Performance Optimization Became a Nine-Year Root Exploit on… | Frank Mccausland | [Read More](https://medium.com/p/8c6dd9537b74) |
+| Fri, 01 May 2026 03:39:48 GMT | From Signal to Impact: Building Squirm and Learning What Actually Matters | Whathehack | [Read More](https://medium.com/p/0fb9eefc426e) |
+| Fri, 01 May 2026 03:38:04 GMT | The Developer’s Guide to Preventing Indirect Prompt Injections | Kristian P. | [Read More](https://medium.com/p/5336df923bc5) |
+| Fri, 01 May 2026 03:34:40 GMT | The SSL/TLS Handshake: How Your Browser Learns to Trust a Stranger | Chamikanimnajith | [Read More](https://medium.com/p/983fa1f89b58) |
+| Fri, 01 May 2026 03:31:01 GMT | Beyond RSA: How Lattices Are Building Quantum-Resistant Security | ShreehariMenon | [Read More](https://medium.com/p/640742548e71) |
+| Fri, 01 May 2026 03:24:15 GMT | Beyond the Quick Fix: Top IT solutions provider — KANiT | Hiren Brahmbhatt | [Read More](https://medium.com/p/1909f8085909) |
+| Fri, 01 May 2026 02:52:27 GMT | ️ SQL Injection 是什麼？ | 思維舞步 MindSteps | [Read More](https://medium.com/p/5f9e06761711) |
+| Fri, 01 May 2026 02:45:48 GMT | How I Investigated a Real Phishing Attack That Led to Malware Execution and C2 Communication | Ahmdirfanmp | [Read More](https://medium.com/p/fd0c1cf87122) |
+| Fri, 01 May 2026 02:43:13 GMT | Nine Seconds. One Company. Gone. | Adam McClarin | [Read More](https://medium.com/p/a5698cc5f620) |
+| Fri, 01 May 2026 02:12:32 GMT | How to Debug JWT ‘Invalid Signature’ and ‘Expired’ Errors in Node.js | Achraffwarrach | [Read More](https://medium.com/p/8b301c0fe566) |
+| Fri, 01 May 2026 02:09:58 GMT | Cockpit - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/eb84d67f67f4) |
+| Fri, 01 May 2026 01:58:10 GMT | Clipboard malware is one of those quiet predators in cybersecurity, no noise, no flashy alerts… | Gidotyo | [Read More](https://medium.com/p/f5204e6b319b) |
+| Fri, 01 May 2026 01:45:15 GMT | Learning Linux | iforgot | [Read More](https://medium.com/p/81159d3ff1d0) |
+| Fri, 01 May 2026 01:11:20 GMT | The Compliance Paradox: How 100% Compliant Companies Get Breached — And Why I Built a Tool to… | Eria Mutasa | [Read More](https://medium.com/p/e5593760b135) |
+| Fri, 01 May 2026 01:01:32 GMT | TryHackMe Walkthrough: Windows Fundamentals Part 3 | Shubham Khirwadkar | [Read More](https://medium.com/p/37e6869b93e3) |
+| Fri, 01 May 2026 01:00:04 GMT | Copy Fail: The Linux Kernel Flaw That Gives Anyone Root | Root & Secure | [Read More](https://medium.com/p/d0ad5abda125) |
+| Fri, 01 May 2026 00:50:52 GMT | Is it normal to think this way? | Cato Johansen | [Read More](https://medium.com/p/67eb76a2e611) |
+| Fri, 01 May 2026 00:43:20 GMT | Why Data Privacy Is a Daily Commitment Not Just a Policy | Sentia Technologies limited | [Read More](https://medium.com/p/8108cae9daf6) |
+| Fri, 01 May 2026 00:29:23 GMT | Why Your Agent Eval Suite Is a Security Audit, Not a QA Exercise | ATHelper | [Read More](https://medium.com/p/1b4df2cb7648) |
+| Fri, 01 May 2026 00:21:17 GMT | I Know Bash… But PowerShell Looks Like Paragraph Codes | Nikhil Shakya | [Read More](https://medium.com/p/e571c7790b13) |
+| Thu, 30 Apr 2026 23:59:52 GMT | Implementando um cliente REST API moderno e leve | Ader Oliver | [Read More](https://medium.com/p/ab727f9928ba) |
 | Thu, 30 Apr 2026 23:37:59 GMT | CMSpit Tryhackme walkthrough | Crystalcascade14 | [Read More](https://medium.com/p/2406b70fa3e3) |
 | Thu, 30 Apr 2026 23:32:25 GMT | Being Different Is Expensive. But That’s Not the Whole Story. | Georgia Weidman | [Read More](https://medium.com/p/299228923db2) |
 | Thu, 30 Apr 2026 22:51:29 GMT | Exposing Hidden Server Secrets: A Practical Guide to Samba Reconnaissance | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/849c03154a7c) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Apr 2026 16:13:54 GMT | How i found a file away vunerability on a website | Richiefallaria | [Read More](https://medium.com/p/37fca11ea240) |
 | Thu, 30 Apr 2026 16:11:56 GMT | Samurai Lab Walkthrough - Hack Smarter | RedBeard Roberts | [Read More](https://medium.com/p/090140df73eb) |
 | Thu, 30 Apr 2026 16:05:40 GMT | Cybersecurity Home Lab Project | Vashu Vats | [Read More](https://medium.com/p/1955185b002e) |
-| Thu, 30 Apr 2026 16:04:02 GMT | The Contract Mistake That Could Cost Freelancers Everything | Cyber Safety Zone | [Read More](https://medium.com/p/1aa6d6b57697) |
-| Thu, 30 Apr 2026 16:03:43 GMT | Modern AI for Dummies: How AI Detects Cyber Threats Using LDA + GNN | Kashmiraspatil | [Read More](https://medium.com/p/a9b67457b987) |
-| Thu, 30 Apr 2026 16:03:26 GMT | LLM is scary !! What you don’t know about LLM Security (Underrated Goldmine) | ALASTER | [Read More](https://medium.com/p/52e6ba0dcc85) |
-| Thu, 30 Apr 2026 15:56:59 GMT | picoCTF HideToSee Write-up | shahd fataftah | [Read More](https://medium.com/p/5a0d2616c46e) |
-| Thu, 30 Apr 2026 15:55:11 GMT | CVE-2026–31431 | Denimarswandi | [Read More](https://medium.com/p/1b7dda28321a) |
-| Thu, 30 Apr 2026 15:54:03 GMT | How an Unrestricted API Key in HTML Source Can Cost a Company $20,000 a Week | Prateekpulastya | [Read More](https://medium.com/p/bcb79d777488) |
-| Thu, 30 Apr 2026 15:45:26 GMT | Cybersecurity in 2026: Why It Matters More Than Ever (And How You Can Stay Safe) | Aarifali | [Read More](https://medium.com/p/5e1a15779068) |
-| Thu, 30 Apr 2026 15:43:40 GMT | Yes, We Taught AI to Hack — and It Mostly Works | Lorenz Lösch | [Read More](https://medium.com/p/3b8d084f18e4) |
-| Thu, 30 Apr 2026 15:42:50 GMT | From Panic to Protection: My Friend’s LinkedIn Hack & My Real-Time Response. | Nilanjan Chowdhury | [Read More](https://medium.com/p/97a379e234ac) |
-| Thu, 30 Apr 2026 15:42:36 GMT | How AI is Completely Transforming Penetration Testing — And What It Means for Every Security Team | Sai kiran | [Read More](https://medium.com/p/625cb67a2c91) |
-| Thu, 30 Apr 2026 15:39:11 GMT | Building Your Personal Brand in Cybersecurity: LinkedIn, Medium, Twitter & GitHub | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/9f0f721b6e51) |
-| Thu, 30 Apr 2026 15:29:22 GMT | How Clipboard Hijacking Silently Steals Crypto — And Why You’ll Never Notice | Lawal AB Oluwaseun | [Read More](https://medium.com/p/f37cc3baef13) |
-| Thu, 30 Apr 2026 15:21:50 GMT | OffSec Proving Grounds “Geisha” CTF | sabR | [Read More](https://medium.com/p/2e1e6809b31d) |
-| Thu, 30 Apr 2026 15:19:38 GMT | The Danger of Anonymous FTP: A Step-by-Step Guide to Website Defacement | Kavitajoshi Kiran | [Read More](https://medium.com/p/8d68b8787da7) |
-| Thu, 30 Apr 2026 15:13:52 GMT | Critical Jenkins Plugin Flaws Highlight Ongoing Risks in CI CD Pipelines | Jas | [Read More](https://medium.com/p/891e19a12bb2) |
-| Thu, 30 Apr 2026 15:10:11 GMT | MongoBleed: Investigating a MongoDB Leak in a HackTheBox Sherlock DFIR Case (MangoBleed) | Christopher Ryan | [Read More](https://medium.com/p/a1758ed7d00e) |
-| Thu, 30 Apr 2026 15:04:04 GMT | I Almost Scrolled Past This URL… Then I Got Curious | B-Vain | [Read More](https://medium.com/p/eae01d7f6a6b) |
-| Thu, 30 Apr 2026 15:02:02 GMT | I Tested AI for Cyber Attacks and Self-Security. Here’s the Dangerous Paradox No One Talks About. | Nareender Khatri | [Read More](https://medium.com/p/46efb3e60a9e) |
-| Thu, 30 Apr 2026 14:57:59 GMT | Protecting sensitive data in Databricks | David Wells | [Read More](https://medium.com/p/47c1839c9006) |
-| Thu, 30 Apr 2026 14:50:10 GMT | Crisis leadership is not about reacting in the moment — it’s about preparation. | Frank Elsner | [Read More](https://medium.com/p/045e944df5f3) |
-| Thu, 30 Apr 2026 14:48:59 GMT | The $285M Trust Trap in the Drift Protocol Hack | Alice Hsu | [Read More](https://medium.com/p/b1b22e385ae1) |
-| Thu, 30 Apr 2026 14:48:50 GMT | This AI Agent Builds Cybersecurity Tools for You | Pentester Club | [Read More](https://medium.com/p/ad32ba3d29f7) |
