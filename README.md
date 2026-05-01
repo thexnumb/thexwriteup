@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 May 2026 23:08:57 GMT | Easy Money Lab Writeup  —  HackTheBox Sherlocks | Loay Salah | [Read More](https://medium.com/p/a1fcd25217b9) |
+| Fri, 01 May 2026 23:03:01 GMT | GFW 深度解析 02：VPN | xnvlnasna | [Read More](https://medium.com/p/583c6f310942) |
+| Fri, 01 May 2026 22:58:11 GMT | From Raspberry Pi to RF Lab: Building a Hacker’s Playground | Michael Preston | [Read More](https://medium.com/p/ee580bc57e2c) |
+| Fri, 01 May 2026 22:55:37 GMT | TryHackMe - Monitoring AWS Workloads - WriteUp | Axoloth | [Read More](https://medium.com/p/b3fa8e3293c0) |
+| Fri, 01 May 2026 22:51:23 GMT | This is my third bug bounty report: How I found an XSS vulnerability | Umut Kayra Doğan | [Read More](https://medium.com/p/c2a637d86b2e) |
+| Fri, 01 May 2026 22:50:17 GMT | GFW 深度解析 01：架构 | xnvlnasna | [Read More](https://medium.com/p/f7cbf9e48fb4) |
+| Fri, 01 May 2026 22:49:11 GMT | Welcome to Trust Agent: How Micky Irons Built the First Audited AI Marketplace (21 UK Patents, 584… | Micky Irons | [Read More](https://medium.com/p/a8ec740c3ef7) |
+| Fri, 01 May 2026 22:31:01 GMT | The EC2 Access Dilemma — Which Door Do I Use to Get Into My Server? | Himal Pandey | [Read More](https://medium.com/p/df3ae32234d9) |
+| Fri, 01 May 2026 22:30:17 GMT | How to Unlock Global Streaming in 2026: The Ultimate Guide to Bypassing Geo-Blocks | Liam TechNode | [Read More](https://medium.com/p/a56c4d9a1b16) |
+| Fri, 01 May 2026 22:15:55 GMT | When AI Misses the Clues: The Hidden Gaps in SOC Log Investigations | Payal Viras | [Read More](https://medium.com/p/0d487596895c) |
 | Fri, 01 May 2026 22:06:17 GMT | When AI Misses the Clues: The Hidden Gaps in SOC Log Investigations | Payal Viras | [Read More](https://medium.com/p/4394d6c17663) |
 | Fri, 01 May 2026 22:04:53 GMT | From Source Code Review To Critical Vulnerability — Critical Firebase API Takeover | Mohamed M Mourad | [Read More](https://medium.com/p/e8f2ffa426bd) |
 | Fri, 01 May 2026 22:00:02 GMT | Copy Fail (CVE-2026–31431): You Are Affected — Fix It Before It’s Too Late | Rayenhafsawy | [Read More](https://medium.com/p/65bfcd2ad273) |
@@ -103,13 +113,3 @@ Success in bug bounty hunting isn’t just about the tools you… | Argha Sarkar
 | Fri, 01 May 2026 16:11:01 GMT | Engineering a Zero-Knowledge Control Plane | Bilal Zuberi | [Read More](https://medium.com/p/13d4d853c518) |
 | Fri, 01 May 2026 16:04:36 GMT | The Proxy Pattern Quietly Became the Security Layer Every AI App Needs | The Stateless Samurai | [Read More](https://medium.com/p/152a811d1e73) |
 | Fri, 01 May 2026 16:03:34 GMT | Chess, Not Checkers: Why Cybersecurity Is a Multi-Move Game | Eric Vanderburg | [Read More](https://medium.com/p/51bc075a5b44) |
-| Fri, 01 May 2026 16:01:02 GMT | OverTheWire-Bandit Notes | Muhammad Abdullah | [Read More](https://medium.com/p/ef96961600c3) |
-| Fri, 01 May 2026 15:58:03 GMT | Monolitik Mimariden Kubernetes’e | Hiranur Gemalmaz | [Read More](https://medium.com/p/7cf0ba9ac743) |
-| Fri, 01 May 2026 15:57:32 GMT | DiskForge — Build Reproducible Forensic Disk Images | Jake Stauffer | [Read More](https://medium.com/p/876528a1c525) |
-| Fri, 01 May 2026 15:55:32 GMT | TryHackMe: MD2PDF Write-up | Lilo | [Read More](https://medium.com/p/0678f2cfbb02) |
-| Fri, 01 May 2026 15:47:38 GMT | How to Detect Credential Dumping with Elastic SIEM: SOC Analyst Hands-On Lab - Hunt Forward Lab… | Hunt Forward | [Read More](https://medium.com/p/9aba1e0f4edb) |
-| Fri, 01 May 2026 15:46:42 GMT | TryHackMe Bounty Hunter Writeup | ZeroDay-Security-Services | [Read More](https://medium.com/p/455a3727a6cf) |
-| Fri, 01 May 2026 15:43:10 GMT | Cybersecurity News Review — Week 18 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/9bd35d65340d) |
-| Fri, 01 May 2026 15:37:56 GMT | Pentest AI Agents: 28 Specialized AI Subagents That Turn Claude Code Into a Cybersecurity… | TechLatest.Net | [Read More](https://medium.com/p/94c0914da6ca) |
-| Fri, 01 May 2026 15:36:07 GMT | Exploring the types of Code Signing Certificates | Arafat Ashrafi Talha | [Read More](https://medium.com/p/1508948b94a5) |
-| Fri, 01 May 2026 15:35:04 GMT | May’s Embrace: When the Heart Outblooms the Cherry Tree | Wizard Mike | [Read More](https://medium.com/p/c71548924e71) |
