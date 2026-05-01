@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 May 2026 22:06:17 GMT | When AI Misses the Clues: The Hidden Gaps in SOC Log Investigations | Payal Viras | [Read More](https://medium.com/p/4394d6c17663) |
+| Fri, 01 May 2026 22:04:53 GMT | From Source Code Review To Critical Vulnerability — Critical Firebase API Takeover | Mohamed M Mourad | [Read More](https://medium.com/p/e8f2ffa426bd) |
+| Fri, 01 May 2026 22:00:02 GMT | Copy Fail (CVE-2026–31431): You Are Affected — Fix It Before It’s Too Late | Rayenhafsawy | [Read More](https://medium.com/p/65bfcd2ad273) |
+| Fri, 01 May 2026 21:57:22 GMT | Deploying Netdata with Docker on a Raspberry Pi: A Beginner-Friendly Guide | Jess Reside | [Read More](https://medium.com/p/b43bd6da2967) |
+| Fri, 01 May 2026 21:49:19 GMT | Mythos Is Rewriting the Rules of Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/b0c6a6d652d2) |
+| Fri, 01 May 2026 21:43:36 GMT | SOC Alert Investigation: Palo Alto Networks PAN-OS Command Injection — CVE-2024–3400 (SOC274 —… | DeadHack | [Read More](https://medium.com/p/5101a4bee119) |
+| Fri, 01 May 2026 21:40:39 GMT | Root Android 12 and Above on Genymotion Emulator | Sunain | [Read More](https://medium.com/p/4a9c343f8758) |
+| Fri, 01 May 2026 21:38:50 GMT | How Phishing Actually Works (And Why Smart Engineers Still Fall for It) | Hardik Patel | [Read More](https://medium.com/p/d4d1401504b6) |
+| Fri, 01 May 2026 21:33:49 GMT | $285M Drift Protocol Hack: When Trust Became the Attack Surface | Khushi | [Read More](https://medium.com/p/8030a8a9ca82) |
 | Fri, 01 May 2026 21:14:14 GMT | How to ACTUALLY use AI for bug bounties (Like I’m 5) | TechTales | [Read More](https://medium.com/p/c8386bec44a1) |
 | Fri, 01 May 2026 21:07:19 GMT | Anthropic Launches Claude Security: AI-Driven defense for the enterprise | Em G | [Read More](https://medium.com/p/a13f7edfd1bc) |
 | Fri, 01 May 2026 21:07:00 GMT | Why Most Startups Break Their Infrastructure Before They Scale | SSTD | [Read More](https://medium.com/p/21e7f7011807) |
@@ -62,6 +71,7 @@ Success in bug bounty hunting isn’t just about the tools you… | Argha Sarkar
 | Fri, 01 May 2026 18:33:36 GMT | cPanel’i Güncellediniz Ama Hala Tehlikede Olabilirsiniz: CVE-2026–41940 Sonrası PAM Hooking Tehdidi | merdw | [Read More](https://medium.com/p/8aab879bd438) |
 | Fri, 01 May 2026 18:30:29 GMT | When Working-From-Home Goes Wrong | Marvin Sewell | [Read More](https://medium.com/p/ea1d2a104947) |
 | Fri, 01 May 2026 18:24:51 GMT | 5 Mistakes That Make Your Wi-Fi an Easy Target | Muhammad Hamza | [Read More](https://medium.com/p/1b216de328af) |
+| Fri, 01 May 2026 18:22:29 GMT | Hunting Bugs in Oracle’s Userspace dtrace using AI: CVE-2026–21996 and CVE-2026–35233 | Gujjuboy10x00 | [Read More](https://medium.com/p/56e3704c9c0b) |
 | Fri, 01 May 2026 18:17:21 GMT | What the OSI Model Is and Why Every Cybersecurity Professional Needs to Know It | Leonard Ward | [Read More](https://medium.com/p/063e86b7508b) |
 | Fri, 01 May 2026 18:16:01 GMT | Security Isn’t Just Tools: Designing Protection for a Real-World Network | Daniel Santiago | [Read More](https://medium.com/p/7e8b5697ced6) |
 | Fri, 01 May 2026 18:07:44 GMT | How I Turned $3 Into 8 Paid Bugs | Saif Eldin | [Read More](https://medium.com/p/b81c5384465c) |
@@ -103,13 +113,3 @@ Success in bug bounty hunting isn’t just about the tools you… | Argha Sarkar
 | Fri, 01 May 2026 15:37:56 GMT | Pentest AI Agents: 28 Specialized AI Subagents That Turn Claude Code Into a Cybersecurity… | TechLatest.Net | [Read More](https://medium.com/p/94c0914da6ca) |
 | Fri, 01 May 2026 15:36:07 GMT | Exploring the types of Code Signing Certificates | Arafat Ashrafi Talha | [Read More](https://medium.com/p/1508948b94a5) |
 | Fri, 01 May 2026 15:35:04 GMT | May’s Embrace: When the Heart Outblooms the Cherry Tree | Wizard Mike | [Read More](https://medium.com/p/c71548924e71) |
-| Fri, 01 May 2026 15:31:59 GMT | Are We Truly Secure , or Just Untested? | Abraham MB Selebay | [Read More](https://medium.com/p/d344290fd074) |
-| Fri, 01 May 2026 15:26:44 GMT | Shifting Priorities in Cybersecurity: Google Rebalances Bug Bounty Rewards in the Age of AI | Jas | [Read More](https://medium.com/p/8e73d4b3fe3f) |
-| Fri, 01 May 2026 15:14:40 GMT | Stored XSS to Privilege Escalation in Azuriom CMS — When “Trusted Users” Become a Security… | CradS | [Read More](https://medium.com/p/40d82a359587) |
-| Fri, 01 May 2026 15:07:03 GMT | Pentest’e Giriş | Asude Gökçenaz Ev | [Read More](https://medium.com/p/31c0113b6ab1) |
-| Fri, 01 May 2026 15:05:43 GMT | From Phreakers to APTs (Part I) | Soradearu | [Read More](https://medium.com/p/4ca2023d0834) |
-| Fri, 01 May 2026 15:01:01 GMT | Preparing for Production: Fixing Naked Domains and SQS Throttling | Eric Rodríguez Pacheco | [Read More](https://medium.com/p/143a00b8df6c) |
-| Fri, 01 May 2026 15:00:53 GMT | When Defenders Turn Threat Actors: Insider Risk in Cybersecurity Comes Into Focus | Jas | [Read More](https://medium.com/p/9064163b9081) |
-| Fri, 01 May 2026 14:57:54 GMT | How a Roblox Cheat Code Brought Down Vercel: The Supply Chain Attack That Shook the Web | Shehara Fernando | [Read More](https://medium.com/p/1ea407cc964d) |
-| Fri, 01 May 2026 14:55:50 GMT | Marimo RCE Vulnerability Exploited in the Within 10 Hours of Disclosure - DefendMyBusiness Advisory | Defend My Business | [Read More](https://medium.com/p/31c23b6c1d74) |
-| Fri, 01 May 2026 14:54:09 GMT | The Four Habits That Would Have Saved a CEO $78,000 | Younos Nazarian | [Read More](https://medium.com/p/a20b94360035) |
