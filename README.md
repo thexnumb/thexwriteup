@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 May 2026 09:14:37 GMT | How I Exploited a SQL Injection Vulnerability — CTF Writeup (SQLi1) | Clinton Chidera | [Read More](https://medium.com/p/f74435d871e9) |
+| Fri, 01 May 2026 09:12:08 GMT | Understanding OWASP and the Top 10 Security Risks for 2025 | Manmeet Kalra | [Read More](https://medium.com/p/691737b33276) |
+| Fri, 01 May 2026 08:59:40 GMT | Understanding Vulnerability Databases - TryHackMe | Ryca | [Read More](https://medium.com/p/04ae0e78ebfd) |
+| Fri, 01 May 2026 08:58:16 GMT | Investigation: Malware Analysis and Threat Log Correlation | Anandakrishnan S | [Read More](https://medium.com/p/e03b896b3ece) |
+| Fri, 01 May 2026 08:56:01 GMT | ISO Certifications for Cybersecurity Software Services, Requirements and Benefits | Pacific Certifications | [Read More](https://medium.com/p/a5141b393578) |
+| Fri, 01 May 2026 08:53:31 GMT | eCPPT Powershell for Pentesters INE’s CTF 1 : A Practical Attack Story | The.Flying.Wolf | [Read More](https://medium.com/p/cdb40c55d476) |
+| Fri, 01 May 2026 08:53:21 GMT | Basic Vulnerability Identification Techniques - TryHackMe | Ryca | [Read More](https://medium.com/p/92dfb7370e73) |
+| Fri, 01 May 2026 08:48:30 GMT | cPanel Vulnerability CVE-2026–41940: What Every Website Owner Must Do Now | Emilyharbord | [Read More](https://medium.com/p/cba9ddd33344) |
+| Fri, 01 May 2026 08:47:02 GMT | Ethical Hacking Career: Truth vs Myths | Manjot | [Read More](https://medium.com/p/a5222dd8d546) |
+| Fri, 01 May 2026 08:45:03 GMT | Your Next Pen Tester Doesn’t Sleep: Claude Security Is Now in Public Beta | Khansamia | [Read More](https://medium.com/p/b59eb366105c) |
+| Fri, 01 May 2026 08:44:05 GMT | Building a Home SOC Lab — From Zero to Detection Engineering | 0xJad | [Read More](https://medium.com/p/3f87c8f99a72) |
+| Fri, 01 May 2026 08:39:20 GMT | How to Secure my Phone Number from Hackers | Shoaib Ahmed | [Read More](https://medium.com/p/8c83c564f5ca) |
+| Fri, 01 May 2026 08:24:52 GMT | The Perfect Storm: ‘Copy Fail’ and the ‘Mini Shai-Hulud’ Supply Chain Blitz | Suraj Prajapati | [Read More](https://medium.com/p/24d85e8e52b3) |
+| Fri, 01 May 2026 08:21:47 GMT | Advanced Exploit Chains — Real Bug Bounty Scenarios (Part 3) | ghostyjoe | [Read More](https://medium.com/p/542ac5c04d78) |
+| Fri, 01 May 2026 08:19:30 GMT | How $771M  Was Stolen From Protocols That Passed Every Audit | SimpleSwap.io | [Read More](https://medium.com/p/f3edef1a6b41) |
+| Fri, 01 May 2026 08:14:54 GMT | Apple Privacy Explained: How Apple Protects Your Data (and Why It Matters) | Robin Kai - For Mac Users | [Read More](https://medium.com/p/dba8341822bf) |
+| Fri, 01 May 2026 08:05:37 GMT | I Almost Uploaded My Client’s Data to an AI Tool… Then I Paused | only1davx | [Read More](https://medium.com/p/3f539df78692) |
+| Fri, 01 May 2026 08:02:55 GMT | Rate Limiting Isn’t Optional Here How to Actually Implement It in Node.js | Saandeep Baansod | [Read More](https://medium.com/p/36f60518d840) |
+| Fri, 01 May 2026 07:54:00 GMT | 資安實作(2) — CVE-2026–31431 的 Copy-fail 權限提升實作 | Tako | [Read More](https://medium.com/p/439b7c2bb4ac) |
+| Fri, 01 May 2026 07:53:26 GMT | How to Generate a Custom TRON Address | CustomTron | [Read More](https://medium.com/p/714d323106bf) |
+| Fri, 01 May 2026 07:49:18 GMT | T̶A̶X̶  WAF Evasion: Escalating User-Controlled Input to Cross Site Scripting (XSS) | Qolandar | [Read More](https://medium.com/p/a203194ffc10) |
+| Fri, 01 May 2026 07:41:22 GMT | What I Didn’t Know About NGINX Until Production Taught Me | Hetvi Patoliya | [Read More](https://medium.com/p/883a2e702df0) |
+| Fri, 01 May 2026 07:38:43 GMT | The Hackers Labs Writeup — HappyJump (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/1180f10c3487) |
+| Fri, 01 May 2026 07:30:02 GMT | Stop Fuzzing WAFs: How I Used AI Noise & Trust Decay to Bypass Enterprise Firewalls (And… | Kakashi | [Read More](https://medium.com/p/fdc3f5f89ea0) |
 | Fri, 01 May 2026 06:59:43 GMT | AI Adoption Rarely Begins With A Decision | Chandrashekar Babu | [Read More](https://medium.com/p/08eda2d39ff7) |
 | Fri, 01 May 2026 06:54:42 GMT | CPanel and WHM Critical Authentication Bypass Security Advisory | SOCFortress | [Read More](https://medium.com/p/262fa9d33df9) |
 | Fri, 01 May 2026 06:37:21 GMT | The Windows Forensic Journey — DumpIt | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d6fd005b06c5) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 30 Apr 2026 20:43:12 GMT | The Modern Developer’s Guide to Hashing, Encryption, and Encoding | Krishna Kanth | [Read More](https://medium.com/p/f891fb49d2c3) |
 | Thu, 30 Apr 2026 20:35:00 GMT | Silencing EDR File Telemetry: MiniFilter Callback Unlinking | S12 - 0x12Dark Development | [Read More](https://medium.com/p/fe215b009d72) |
 | Thu, 30 Apr 2026 20:16:07 GMT | 700,000 People Have a Security+. Companies Still Say They Can’t Find Talent. | Jbird | [Read More](https://medium.com/p/abc9676c9620) |
-| Thu, 30 Apr 2026 20:15:44 GMT | How to Spot a Business Email Scam Before It Costs You Money | Jusjaesho | [Read More](https://medium.com/p/3dd4622417f5) |
-| Thu, 30 Apr 2026 20:09:26 GMT | Agentic AI in Healthcare: The Demo Isn’t the Hard Part | Michael Hoxter | [Read More](https://medium.com/p/afacae65d427) |
-| Thu, 30 Apr 2026 20:08:40 GMT | IDOR via Weak JWT Validation Leading to Unauthorized Data Access | 0xMo7areb | [Read More](https://medium.com/p/e8d641750099) |
-| Thu, 30 Apr 2026 20:07:16 GMT | Sounds in Search of a Language | Clement Weinberger | [Read More](https://medium.com/p/a6bf27bd4e58) |
-| Thu, 30 Apr 2026 20:03:15 GMT | How to Add a VPN Extension to Chrome (Step-by-Step Guide) | VPNHouse | [Read More](https://medium.com/p/0b380eae7682) |
-| Thu, 30 Apr 2026 20:01:13 GMT | Bir API Mantık Hatası: PUT ve PATCH Metotları ile Yetki Yükseltme | Eren Soylu | [Read More](https://medium.com/p/0c7ef27a5af7) |
-| Thu, 30 Apr 2026 19:50:47 GMT | CyberTalents XMEN-Files write-up | shahd fataftah | [Read More](https://medium.com/p/0275e57481c0) |
-| Thu, 30 Apr 2026 19:46:50 GMT | whoami | Shikhali Jamalzade | [Read More](https://medium.com/p/fed37ef84389) |
-| Thu, 30 Apr 2026 19:45:58 GMT | Security execution flywheel: Delivering security outcomes that matter | Nachiketh Rao | [Read More](https://medium.com/p/31948b82e620) |
-| Thu, 30 Apr 2026 19:35:57 GMT | Wordfence Intelligence Weekly WordPress Vulnerability Report (April 20, 2026 to April 26, 2026) | Wordfence | [Read More](https://medium.com/p/8932fcd23466) |
-| Thu, 30 Apr 2026 19:32:58 GMT | You Can Build Your Own Fortress: Why I Recommend Cloudflare. | hide | [Read More](https://medium.com/p/d3ad7fcb5e1a) |
-| Thu, 30 Apr 2026 19:32:31 GMT | Operation Endgame (THM) Tryhackme Writeup Answer | Lawvye | [Read More](https://medium.com/p/971b83749b2e) |
-| Thu, 30 Apr 2026 19:23:05 GMT | Building a Local AI Model for Pentesting From Scratch | Alham Rizvi | [Read More](https://medium.com/p/a4025305b4f0) |
-| Thu, 30 Apr 2026 19:14:22 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/750450811a39) |
-| Thu, 30 Apr 2026 19:13:08 GMT | Automated and Broke The Hidden Reason Your Bug Bounty Toolkit Isn’t Producing Findings in 2026 | R.H Rizvi | [Read More](https://medium.com/p/104436f96a63) |
-| Thu, 30 Apr 2026 19:11:51 GMT | Linux Flaw Enables Local Root Access on Distributions Since 2017 | RealSec.io | [Read More](https://medium.com/p/782de08ec370) |
-| Thu, 30 Apr 2026 19:03:53 GMT | Illustration of cybersecurity threat targeting firewall systems in 2026 | A | [Read More](https://medium.com/p/1d1429f2d733) |
-| Thu, 30 Apr 2026 19:03:31 GMT | Fast Development, Hidden Vulnerabilities: The Downside of AI-Generated Code | Raj Barot | [Read More](https://medium.com/p/0b22c93f7543) |
-| Thu, 30 Apr 2026 18:52:51 GMT | Security Challenges Faced by Canadian Homeowners in 2026 | AlexBryn | [Read More](https://medium.com/p/55586fd086e8) |
-| Thu, 30 Apr 2026 18:35:47 GMT | AI Gives You Startup Speed. It Does Not Give You Startup Survival | The Systems Mind | [Read More](https://medium.com/p/a2b47f86f7c1) |
-| Thu, 30 Apr 2026 18:34:43 GMT | The Ghost in the Wallet: Why You’re Spending Money You Haven’t Earned Yet | Wish | [Read More](https://medium.com/p/91cbb918ba6b) |
-| Thu, 30 Apr 2026 18:30:50 GMT | TryHackMe - Detecting AD Post-Exploitation - WriteUp | Axoloth | [Read More](https://medium.com/p/7665d229d3de) |
-| Thu, 30 Apr 2026 18:29:09 GMT | What Recent Security Incidents Teach Us About Private Note-Taking | Kornel Maráz | [Read More](https://medium.com/p/542beb17e91f) |
-| Thu, 30 Apr 2026 18:26:41 GMT | What Being Escorted Out of a Prison by Armed Guards Taught Me About Our Failing Systems | Laura Stepnicka | [Read More](https://medium.com/p/c5eb95422d3e) |
