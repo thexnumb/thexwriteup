@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 May 2026 21:14:14 GMT | How to ACTUALLY use AI for bug bounties (Like I’m 5) | TechTales | [Read More](https://medium.com/p/c8386bec44a1) |
+| Fri, 01 May 2026 21:07:19 GMT | Anthropic Launches Claude Security: AI-Driven defense for the enterprise | Em G | [Read More](https://medium.com/p/a13f7edfd1bc) |
+| Fri, 01 May 2026 21:07:00 GMT | Why Most Startups Break Their Infrastructure Before They Scale | SSTD | [Read More](https://medium.com/p/21e7f7011807) |
+| Fri, 01 May 2026 20:58:37 GMT | How I discovered my first valid Bug | cipher | [Read More](https://medium.com/p/e1f1277c92e0) |
+| Fri, 01 May 2026 20:58:16 GMT | Security & Trust Notice | Icroni platform | [Read More](https://medium.com/p/ec20e49a1a01) |
+| Fri, 01 May 2026 20:53:36 GMT | Why Engineers Are the Weakest Link in Cybersecurity | Hardik Patel | [Read More](https://medium.com/p/c578bbeee9ca) |
+| Fri, 01 May 2026 20:53:26 GMT | GenLayer Analysis: LLM Manipulation Risks in Optimistic Democracy, Attack Vectors & Defensive… | Engagechain project | [Read More](https://medium.com/p/16dd5d5f38cf) |
+| Fri, 01 May 2026 20:51:01 GMT | Why the Middle East is Winning the Vertical Farming War | Chloe Ladner | [Read More](https://medium.com/p/7495ff336666) |
+| Fri, 01 May 2026 20:51:01 GMT | The $292M Shadow Attack: Why Smart Contract Audits Weren’t Enough for KelpDAO | rdin777 | [Read More](https://medium.com/p/7c0bb7f87dab) |
+| Fri, 01 May 2026 20:38:43 GMT | Cybersecurity Threats In 2026 | saher shahzad | [Read More](https://medium.com/p/eb75cf025a77) |
+| Fri, 01 May 2026 20:37:27 GMT | Discord Servers Are OSINT Goldmines. If You Know Where to Look | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4bf95ec7dbfc) |
+| Fri, 01 May 2026 20:33:26 GMT | Roquefort — OffSec Proving Grounds Writeup | Jose De Jesus Colon | [Read More](https://medium.com/p/aff8bff9939e) |
+| Fri, 01 May 2026 20:31:40 GMT | Looking for Compliance Partners (CP) | Mark P. Milton | [Read More](https://medium.com/p/0b19730c9bda) |
 | Fri, 01 May 2026 20:27:34 GMT | Is CISSP Worth It in 2026? A Practical Breakdown | Manish Shivanandhan | [Read More](https://medium.com/p/273b6f80f904) |
 | Fri, 01 May 2026 20:26:01 GMT | From Deny to Deploy: Choosing the Right Azure Policy Effect | Practical IT | [Read More](https://medium.com/p/b7912e7413b5) |
 | Fri, 01 May 2026 20:25:21 GMT | TryHackMe: Mr Robot CTF — WordPress Exploitation and SUID Nmap Privesc | Robert Perez | [Read More](https://medium.com/p/ea81c4813983) |
@@ -100,16 +113,3 @@ Success in bug bounty hunting isn’t just about the tools you… | Argha Sarkar
 | Fri, 01 May 2026 14:57:54 GMT | How a Roblox Cheat Code Brought Down Vercel: The Supply Chain Attack That Shook the Web | Shehara Fernando | [Read More](https://medium.com/p/1ea407cc964d) |
 | Fri, 01 May 2026 14:55:50 GMT | Marimo RCE Vulnerability Exploited in the Within 10 Hours of Disclosure - DefendMyBusiness Advisory | Defend My Business | [Read More](https://medium.com/p/31c23b6c1d74) |
 | Fri, 01 May 2026 14:54:09 GMT | The Four Habits That Would Have Saved a CEO $78,000 | Younos Nazarian | [Read More](https://medium.com/p/a20b94360035) |
-| Fri, 01 May 2026 14:54:07 GMT | Axios x Bitwarden CLI — CTI Analysis: Two Incidents, One Attack Surface | Shxdowz | [Read More](https://medium.com/p/985a8ed9c9ab) |
-| Fri, 01 May 2026 14:52:50 GMT | Your Guide to Safe Locksmith Services in Glendale - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/41105c64c671) |
-| Fri, 01 May 2026 14:50:27 GMT | CVE-2026-41651 - Local Privilege Escalation Zafiyeti! | Dogukan İSPİRLİ | [Read More](https://medium.com/p/fcbaf6645eae) |
-| Fri, 01 May 2026 14:47:42 GMT | Every Security Era Picks a Trust Anchor. AI Doesn’t Have One Yet. | Pavan | [Read More](https://medium.com/p/0e7f94e02967) |
-| Fri, 01 May 2026 14:47:14 GMT | Found a Leaked JWT Token in a Public GitHub Repo — Here Is What Actually Happened | Krithick | [Read More](https://medium.com/p/27d05dd06624) |
-| Fri, 01 May 2026 14:46:50 GMT | EtherRAT: When Blockchain Meets Malware. | Φiriki Intelligence | [Read More](https://medium.com/p/fe7528519fcc) |
-| Fri, 01 May 2026 14:42:21 GMT | Behind the Veil: Iran’s Shadow Activities and the European Security Response | Robertikhwani | [Read More](https://medium.com/p/22accbead6b5) |
-| Fri, 01 May 2026 14:41:51 GMT | The Updated ODPC: An OSCE3 Holder’s Review of White Knight Labs’ Hardest Cert | Almillion | [Read More](https://medium.com/p/fa42a889248e) |
-| Fri, 01 May 2026 14:41:00 GMT | Millions Exposed: The 2026 Nike & CarGurus Hacks (Are You Safe?) | Irshad | [Read More](https://medium.com/p/a61126d73b2f) |
-| Fri, 01 May 2026 14:39:33 GMT | Diplomacy or Espionage? Why Iranian Embassies Need Immediate Oversight | ÚLTIMA HORA ESPAÑOL | [Read More](https://medium.com/p/1715ba6ada06) |
-| Fri, 01 May 2026 14:37:29 GMT | The Trojan Horse: When Embassies Become Intelligence Hubs | Ava Marie Thompson | [Read More](https://medium.com/p/ef7e07a524cb) |
-| Fri, 01 May 2026 14:31:40 GMT | Mastering Access Control — Where Most Critical Bugs Live (Part 4) | ghostyjoe | [Read More](https://medium.com/p/10a25014bfe5) |
-| Fri, 01 May 2026 14:25:38 GMT | OSINT em E-mails: Técnicas, Ferramentas e Pivotagem | Nexamos | [Read More](https://medium.com/p/a2b8bbf7ac99) |
