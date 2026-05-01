@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 May 2026 11:44:32 GMT | The Silicon Sentinel | Vasant Bhadauria | [Read More](https://medium.com/p/23b907cbc43d) |
+| Fri, 01 May 2026 11:41:15 GMT | Enterprise Secure Integration Platforms for AI Agents: Review of Secure AI Agent Integration… | Mateo Rojas | [Read More](https://medium.com/p/7ded3d384ba6) |
+| Fri, 01 May 2026 11:38:04 GMT | Crypto Wallets You’ll Actually Use Every Day | SimpleSwap.io | [Read More](https://medium.com/p/06ce36c3f537) |
+| Fri, 01 May 2026 11:31:01 GMT | Beyond the Runbook: How AI Security Agents Are Reshaping the SOC Playbook | Predrag | [Read More](https://medium.com/p/ca0e0a9ea775) |
+| Fri, 01 May 2026 11:31:01 GMT | The SSH Key That Was Valid — But Not Mine #9 | Faruk Ahmed | [Read More](https://medium.com/p/dc72ca0ac6bb) |
+| Fri, 01 May 2026 11:30:26 GMT | Trump I : Kabila Out Trump II : Kabila Game Over ? | Gregoire Kilosho | [Read More](https://medium.com/p/eab187742b61) |
+| Fri, 01 May 2026 11:29:21 GMT | 5 Daily Habits That Keep You Safe Online | Anila Shabir | [Read More](https://medium.com/p/ea95f96385b9) |
+| Fri, 01 May 2026 11:27:12 GMT | HackSudo Thor: The Most Complete Penetration Testing Walkthrough You Will Find | Angle Gray | [Read More](https://medium.com/p/8b9d925d978f) |
+| Fri, 01 May 2026 11:26:56 GMT | This Week in Cybersecurity: Converging Threat Actors Exploiting Emerging and Legacy Vulnerabilities… | Loginsoft | [Read More](https://medium.com/p/55a898f7703e) |
+| Fri, 01 May 2026 11:25:24 GMT | Network Packet Analysis & Malware Investigation | Faslanrizni | [Read More](https://medium.com/p/89964dd8722c) |
+| Fri, 01 May 2026 11:24:59 GMT | If you’re planning to learn AI… please don’t start randomly. | Siddhi Joshh | [Read More](https://medium.com/p/d29ec512ef3c) |
+| Fri, 01 May 2026 11:18:28 GMT | Is Your Locked Document Really Safe? | Vamsikandukuru | [Read More](https://medium.com/p/f5f7804abe30) |
+| Fri, 01 May 2026 11:10:03 GMT | Zero: Seeing Whats Hidden | Talha Bağcı | [Read More](https://medium.com/p/ef09f8320965) |
+| Fri, 01 May 2026 11:01:03 GMT | OAuth or Oh No? The Google Trap; Convenience as a Security Debt | Φiriki Intelligence | [Read More](https://medium.com/p/47d1d7b5a1b8) |
+| Fri, 01 May 2026 10:57:14 GMT | I Found a 67K-User Data Leak… and Got Paid $0 (Here’s What You Can Learn) | Alareqi | [Read More](https://medium.com/p/7b8223865f45) |
+| Fri, 01 May 2026 10:56:35 GMT | Unveiling the Reverse Shell: The Attacker’s Secret Backdoor and How to Block It | Somesh | [Read More](https://medium.com/p/c8f58e43a44e) |
 | Fri, 01 May 2026 10:45:24 GMT | Alert Triage Process in SOC — TryhackMe | Adithya Hettiarachchi | [Read More](https://medium.com/p/e507e611213f) |
 | Fri, 01 May 2026 10:41:06 GMT | From a Simple Image Upload to Account Takeover: Stored XSS via File Metadata | Kanishkakhandelwal | [Read More](https://medium.com/p/0cc601b182c3) |
 | Fri, 01 May 2026 10:20:50 GMT | [AZ] TryHackMe: Ignite Write-up | Nigar Hasanova | [Read More](https://medium.com/p/415fda3a042e) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 May 2026 01:45:15 GMT | Learning Linux | iforgot | [Read More](https://medium.com/p/81159d3ff1d0) |
 | Fri, 01 May 2026 01:11:20 GMT | The Compliance Paradox: How 100% Compliant Companies Get Breached — And Why I Built a Tool to… | Eria Mutasa | [Read More](https://medium.com/p/e5593760b135) |
 | Fri, 01 May 2026 01:01:32 GMT | TryHackMe Walkthrough: Windows Fundamentals Part 3 | Shubham Khirwadkar | [Read More](https://medium.com/p/37e6869b93e3) |
-| Fri, 01 May 2026 01:00:04 GMT | Copy Fail: The Linux Kernel Flaw That Gives Anyone Root | Root & Secure | [Read More](https://medium.com/p/d0ad5abda125) |
-| Fri, 01 May 2026 00:50:52 GMT | Is it normal to think this way? | Cato Johansen | [Read More](https://medium.com/p/67eb76a2e611) |
-| Fri, 01 May 2026 00:43:20 GMT | Why Data Privacy Is a Daily Commitment Not Just a Policy | Sentia Technologies limited | [Read More](https://medium.com/p/8108cae9daf6) |
-| Fri, 01 May 2026 00:40:23 GMT | Liveness Detection Technology in Remote Identity Verification | John Wick | [Read More](https://medium.com/p/5db8db3112db) |
-| Fri, 01 May 2026 00:29:23 GMT | Why Your Agent Eval Suite Is a Security Audit, Not a QA Exercise | ATHelper | [Read More](https://medium.com/p/1b4df2cb7648) |
-| Fri, 01 May 2026 00:21:17 GMT | I Know Bash… But PowerShell Looks Like Paragraph Codes | Nikhil Shakya | [Read More](https://medium.com/p/e571c7790b13) |
-| Thu, 30 Apr 2026 23:59:52 GMT | Implementando um cliente REST API moderno e leve | Ader Oliver | [Read More](https://medium.com/p/ab727f9928ba) |
-| Thu, 30 Apr 2026 23:37:59 GMT | CMSpit Tryhackme walkthrough | Crystalcascade14 | [Read More](https://medium.com/p/2406b70fa3e3) |
-| Thu, 30 Apr 2026 23:32:25 GMT | Being Different Is Expensive. But That’s Not the Whole Story. | Georgia Weidman | [Read More](https://medium.com/p/299228923db2) |
-| Thu, 30 Apr 2026 22:51:29 GMT | Exposing Hidden Server Secrets: A Practical Guide to Samba Reconnaissance | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/849c03154a7c) |
-| Thu, 30 Apr 2026 22:41:01 GMT | Security Agent Manifesto | Greg Martin | [Read More](https://medium.com/p/a6638aa8489e) |
-| Thu, 30 Apr 2026 22:38:03 GMT | HackMyVM: Pwned Walkthrough | Antonio | [Read More](https://medium.com/p/dd50763f6365) |
-| Thu, 30 Apr 2026 22:30:50 GMT | Setting Up Snort 3 as an IDS | LANC3R | [Read More](https://medium.com/p/40c6a439e70c) |
-| Thu, 30 Apr 2026 22:27:09 GMT | Deepfake Çağında Kırmızı Tehdit | Eyüp Çeçen | [Read More](https://medium.com/p/f5ea88441c02) |
-| Thu, 30 Apr 2026 22:23:18 GMT | Most RAG Systems Waste 60% of Their Retrieval Calls. Skill-RAG Fixes That. | Raviteja Nekkalapu | [Read More](https://medium.com/p/81d69ff8aae7) |
-| Thu, 30 Apr 2026 22:13:51 GMT | The Ethics of Pixel Tracking: Where Useful Analytics Become Digital Surveillance — Joseph Sides | Joseph Sides | [Read More](https://medium.com/p/1fcb22f6c429) |
