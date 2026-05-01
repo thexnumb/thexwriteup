@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 May 2026 16:12:50 GMT | You Agreed to This. You Just Didn’t Know | Ashutosh J | [Read More](https://medium.com/p/9205241ec4c6) |
+| Fri, 01 May 2026 16:11:01 GMT | Engineering a Zero-Knowledge Control Plane | Bilal Zuberi | [Read More](https://medium.com/p/13d4d853c518) |
+| Fri, 01 May 2026 16:04:36 GMT | The Proxy Pattern Quietly Became the Security Layer Every AI App Needs | The Stateless Samurai | [Read More](https://medium.com/p/152a811d1e73) |
+| Fri, 01 May 2026 16:03:34 GMT | Chess, Not Checkers: Why Cybersecurity Is a Multi-Move Game | Eric Vanderburg | [Read More](https://medium.com/p/51bc075a5b44) |
+| Fri, 01 May 2026 16:01:02 GMT | OverTheWire-Bandit Notes | Muhammad Abdullah | [Read More](https://medium.com/p/ef96961600c3) |
+| Fri, 01 May 2026 15:58:03 GMT | Monolitik Mimariden Kubernetes’e | Hiranur Gemalmaz | [Read More](https://medium.com/p/7cf0ba9ac743) |
+| Fri, 01 May 2026 15:57:32 GMT | DiskForge — Build Reproducible Forensic Disk Images | Jake Stauffer | [Read More](https://medium.com/p/876528a1c525) |
+| Fri, 01 May 2026 15:55:32 GMT | TryHackMe: MD2PDF Write-up | Lilo | [Read More](https://medium.com/p/0678f2cfbb02) |
+| Fri, 01 May 2026 15:47:38 GMT | How to Detect Credential Dumping with Elastic SIEM: SOC Analyst Hands-On Lab - Hunt Forward Lab… | Hunt Forward | [Read More](https://medium.com/p/9aba1e0f4edb) |
+| Fri, 01 May 2026 15:46:42 GMT | TryHackMe Bounty Hunter Writeup | ZeroDay-Security-Services | [Read More](https://medium.com/p/455a3727a6cf) |
+| Fri, 01 May 2026 15:43:10 GMT | Cybersecurity News Review — Week 18 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/9bd35d65340d) |
+| Fri, 01 May 2026 15:37:56 GMT | Pentest AI Agents: 28 Specialized AI Subagents That Turn Claude Code Into a Cybersecurity… | TechLatest.Net | [Read More](https://medium.com/p/94c0914da6ca) |
+| Fri, 01 May 2026 15:36:07 GMT | Exploring the types of Code Signing Certificates | Arafat Ashrafi Talha | [Read More](https://medium.com/p/1508948b94a5) |
+| Fri, 01 May 2026 15:35:04 GMT | May’s Embrace: When the Heart Outblooms the Cherry Tree | Wizard Mike | [Read More](https://medium.com/p/c71548924e71) |
+| Fri, 01 May 2026 15:31:59 GMT | Are We Truly Secure , or Just Untested? | Abraham MB Selebay | [Read More](https://medium.com/p/d344290fd074) |
+| Fri, 01 May 2026 15:26:44 GMT | Shifting Priorities in Cybersecurity: Google Rebalances Bug Bounty Rewards in the Age of AI | Jas | [Read More](https://medium.com/p/8e73d4b3fe3f) |
+| Fri, 01 May 2026 15:14:40 GMT | Stored XSS to Privilege Escalation in Azuriom CMS — When “Trusted Users” Become a Security… | CradS | [Read More](https://medium.com/p/40d82a359587) |
+| Fri, 01 May 2026 15:07:03 GMT | Pentest’e Giriş | Asude Gökçenaz Ev | [Read More](https://medium.com/p/31c0113b6ab1) |
 | Fri, 01 May 2026 15:05:43 GMT | From Phreakers to APTs (Part I) | Soradearu | [Read More](https://medium.com/p/4ca2023d0834) |
 | Fri, 01 May 2026 15:01:01 GMT | Preparing for Production: Fixing Naked Domains and SQS Throttling | Eric Rodríguez Pacheco | [Read More](https://medium.com/p/143a00b8df6c) |
 | Fri, 01 May 2026 15:00:53 GMT | When Defenders Turn Threat Actors: Insider Risk in Cybersecurity Comes Into Focus | Jas | [Read More](https://medium.com/p/9064163b9081) |
@@ -30,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 May 2026 14:39:33 GMT | Diplomacy or Espionage? Why Iranian Embassies Need Immediate Oversight | ÚLTIMA HORA ESPAÑOL | [Read More](https://medium.com/p/1715ba6ada06) |
 | Fri, 01 May 2026 14:37:29 GMT | The Trojan Horse: When Embassies Become Intelligence Hubs | Ava Marie Thompson | [Read More](https://medium.com/p/ef7e07a524cb) |
 | Fri, 01 May 2026 14:31:40 GMT | Mastering Access Control — Where Most Critical Bugs Live (Part 4) | ghostyjoe | [Read More](https://medium.com/p/10a25014bfe5) |
+| Fri, 01 May 2026 14:25:38 GMT | OSINT em E-mails: Técnicas, Ferramentas e Pivotagem | Nexamos | [Read More](https://medium.com/p/a2b8bbf7ac99) |
 | Fri, 01 May 2026 14:23:04 GMT | The ADT Breach Isn’t Just Another Hack – It’s a Pattern We Keep Ignoring | Sharanraju | [Read More](https://medium.com/p/1185434c1a5c) |
 | Fri, 01 May 2026 14:19:27 GMT | Breaking the Payment Flow: A Price Tampering Vulnerability in a Vending Machine API | Vaibhav | [Read More](https://medium.com/p/c5e8a7ab63f1) |
 | Fri, 01 May 2026 14:12:55 GMT | Security is a Habit System | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/e7b7ac787701) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 May 2026 09:15:34 GMT | Mastercard Joins BSSC: Toward Formalized, End-to-End Security Standards for Blockchain Ecosystems | Viktor Davydych | [Read More](https://medium.com/p/f38d2d180467) |
 | Fri, 01 May 2026 09:14:37 GMT | How I Exploited a SQL Injection Vulnerability — CTF Writeup (SQLi1) | Clinton Chidera | [Read More](https://medium.com/p/f74435d871e9) |
 | Fri, 01 May 2026 09:12:08 GMT | Understanding OWASP and the Top 10 Security Risks for 2025 | Manmeet Kalra | [Read More](https://medium.com/p/691737b33276) |
-| Fri, 01 May 2026 09:05:43 GMT | Ethical Hacking Course in Sangam Vihar | EINITIAL24 | [Read More](https://medium.com/p/2e8c1dc43763) |
-| Fri, 01 May 2026 08:59:40 GMT | Understanding Vulnerability Databases - TryHackMe | Ryca | [Read More](https://medium.com/p/04ae0e78ebfd) |
-| Fri, 01 May 2026 08:58:16 GMT | Investigation: Malware Analysis and Threat Log Correlation | Anandakrishnan S | [Read More](https://medium.com/p/e03b896b3ece) |
-| Fri, 01 May 2026 08:56:01 GMT | ISO Certifications for Cybersecurity Software Services, Requirements and Benefits | Pacific Certifications | [Read More](https://medium.com/p/a5141b393578) |
-| Fri, 01 May 2026 08:53:31 GMT | eCPPT Powershell for Pentesters INE’s CTF 1 : A Practical Attack Story | The.Flying.Wolf | [Read More](https://medium.com/p/cdb40c55d476) |
-| Fri, 01 May 2026 08:53:21 GMT | Basic Vulnerability Identification Techniques - TryHackMe | Ryca | [Read More](https://medium.com/p/92dfb7370e73) |
-| Fri, 01 May 2026 08:48:30 GMT | cPanel Vulnerability CVE-2026–41940: What Every Website Owner Must Do Now | Emilyharbord | [Read More](https://medium.com/p/cba9ddd33344) |
-| Fri, 01 May 2026 08:47:02 GMT | Ethical Hacking Career: Truth vs Myths | Manjot | [Read More](https://medium.com/p/a5222dd8d546) |
-| Fri, 01 May 2026 08:45:03 GMT | Your Next Pen Tester Doesn’t Sleep: Claude Security Is Now in Public Beta | Khansamia | [Read More](https://medium.com/p/b59eb366105c) |
-| Fri, 01 May 2026 08:44:05 GMT | Building a Home SOC Lab — From Zero to Detection Engineering | 0xJad | [Read More](https://medium.com/p/3f87c8f99a72) |
-| Fri, 01 May 2026 08:39:20 GMT | How to Secure my Phone Number from Hackers | Shoaib Ahmed | [Read More](https://medium.com/p/8c83c564f5ca) |
-| Fri, 01 May 2026 08:24:52 GMT | The Perfect Storm: ‘Copy Fail’ and the ‘Mini Shai-Hulud’ Supply Chain Blitz | Suraj Prajapati | [Read More](https://medium.com/p/24d85e8e52b3) |
-| Fri, 01 May 2026 08:21:47 GMT | Advanced Exploit Chains — Real Bug Bounty Scenarios (Part 3) | ghostyjoe | [Read More](https://medium.com/p/542ac5c04d78) |
-| Fri, 01 May 2026 08:19:30 GMT | How $771M  Was Stolen From Protocols That Passed Every Audit | SimpleSwap.io | [Read More](https://medium.com/p/f3edef1a6b41) |
-| Fri, 01 May 2026 08:14:54 GMT | Apple Privacy Explained: How Apple Protects Your Data (and Why It Matters) | Robin Kai - For Mac Users | [Read More](https://medium.com/p/dba8341822bf) |
-| Fri, 01 May 2026 08:05:37 GMT | I Almost Uploaded My Client’s Data to an AI Tool… Then I Paused | only1davx | [Read More](https://medium.com/p/3f539df78692) |
-| Fri, 01 May 2026 08:02:55 GMT | Rate Limiting Isn’t Optional Here How to Actually Implement It in Node.js | Saandeep Baansod | [Read More](https://medium.com/p/36f60518d840) |
-| Fri, 01 May 2026 07:54:00 GMT | 資安實作(2) — CVE-2026–31431 的 Copy-fail 權限提升實作 | Tako | [Read More](https://medium.com/p/439b7c2bb4ac) |
-| Fri, 01 May 2026 07:53:26 GMT | How to Generate a Custom TRON Address | CustomTron | [Read More](https://medium.com/p/714d323106bf) |
