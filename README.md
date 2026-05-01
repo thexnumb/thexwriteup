@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 01 May 2026 20:27:34 GMT | Is CISSP Worth It in 2026? A Practical Breakdown | Manish Shivanandhan | [Read More](https://medium.com/p/273b6f80f904) |
+| Fri, 01 May 2026 20:26:01 GMT | From Deny to Deploy: Choosing the Right Azure Policy Effect | Practical IT | [Read More](https://medium.com/p/b7912e7413b5) |
+| Fri, 01 May 2026 20:25:21 GMT | TryHackMe: Mr Robot CTF — WordPress Exploitation and SUID Nmap Privesc | Robert Perez | [Read More](https://medium.com/p/ea81c4813983) |
+| Fri, 01 May 2026 20:23:15 GMT | Shodan Facet Searches That Read Like Threat Intel Poetry | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2873f89b3478) |
+| Fri, 01 May 2026 20:18:01 GMT | WriteUp — PicoCTF — notepad | Banyapong Molanin | [Read More](https://medium.com/p/c315454b386d) |
+| Fri, 01 May 2026 20:13:30 GMT | Networking Basics: A Beginner’s Guide to How Computers Operate | Victory Patrick | [Read More](https://medium.com/p/6201ea9a77be) |
+| Fri, 01 May 2026 20:12:27 GMT | Copy Fail — The Linux Vulnerability That Gives Any User Root Access in Seconds. Patch Now. | Sai kiran | [Read More](https://medium.com/p/c2d5b5f184c5) |
+| Fri, 01 May 2026 20:11:04 GMT | TryHackMe: Ignite — Exploiting Fuel CMS 1.4 for RCE and Root | Robert Perez | [Read More](https://medium.com/p/26cb16efda15) |
+| Fri, 01 May 2026 20:09:47 GMT | How Attackers Turn Small Misconfigurations Into Full System Control | JSOC IT BLOG | [Read More](https://medium.com/p/e51c48b88dbc) |
+| Fri, 01 May 2026 20:09:01 GMT | Microsoft Defender XDR in Practice: Advancing Threat Detection Beyond Traditional Security Models | Soundarya Vasista | [Read More](https://medium.com/p/8123981759c7) |
+| Fri, 01 May 2026 20:07:25 GMT | Study Precision and Recall at K for Recommender System | AjayKrish | [Read More](https://medium.com/p/20adf7c83951) |
+| Fri, 01 May 2026 19:56:13 GMT | Discover Lernean Challenge | t4nu1 | [Read More](https://medium.com/p/01b02f7a2026) |
+| Fri, 01 May 2026 19:53:00 GMT | Bilgisayar fanınız verilerinizi mi sızdırıyor? | Erengider | [Read More](https://medium.com/p/e9c02069fc8b) |
+| Fri, 01 May 2026 19:40:37 GMT | Why We’re Helpless When Things Break Down | Charles Hugh Smith | [Read More](https://medium.com/p/67825ff99e0d) |
+| Fri, 01 May 2026 19:34:31 GMT | Exploiting Race Condition Vulnerabilities: How I Turned $100 into $1,000+ | Oluwakamiye Adeyemo | [Read More](https://medium.com/p/fa34ad973ee2) |
+| Fri, 01 May 2026 19:31:10 GMT | I Built a Phishing Page in 5 Minutes. Here’s What Every LinkedIn User Needs to Know | Nilanjan Chowdhury | [Read More](https://medium.com/p/8f87edce9339) |
+| Fri, 01 May 2026 19:29:21 GMT | OOP (Object-Oriented Programming) dalam Python | SilentRock_01 | [Read More](https://medium.com/p/d7b085622dce) |
+| Fri, 01 May 2026 19:26:09 GMT | Software & Data Integrity Failures: Who’s Actually Running Your Code? | Vasyl Oliinyk | [Read More](https://medium.com/p/8b7432f0e567) |
+| Fri, 01 May 2026 19:24:10 GMT | OverTheWire Natas — Building a CTF Mindset | Akshaykumar Kathirvelu | [Read More](https://medium.com/p/ad1a823ba614) |
+| Fri, 01 May 2026 19:23:54 GMT | Mnemonic (THM) Tryhackme Writeup Answer | Lawvye | [Read More](https://medium.com/p/38079950b152) |
 | Fri, 01 May 2026 19:15:21 GMT | A Tale of Two Cyberz | Tyler Oliver | [Read More](https://medium.com/p/cb7bb0e1dc2f) |
 | Fri, 01 May 2026 19:13:26 GMT | Cracks, Shards, Broken Bones | Darian | [Read More](https://medium.com/p/c1c353fd36f4) |
 | Fri, 01 May 2026 19:03:00 GMT | Memory Acquisition Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/0b334e475754) |
@@ -93,23 +113,3 @@ Success in bug bounty hunting isn’t just about the tools you… | Argha Sarkar
 | Fri, 01 May 2026 14:37:29 GMT | The Trojan Horse: When Embassies Become Intelligence Hubs | Ava Marie Thompson | [Read More](https://medium.com/p/ef7e07a524cb) |
 | Fri, 01 May 2026 14:31:40 GMT | Mastering Access Control — Where Most Critical Bugs Live (Part 4) | ghostyjoe | [Read More](https://medium.com/p/10a25014bfe5) |
 | Fri, 01 May 2026 14:25:38 GMT | OSINT em E-mails: Técnicas, Ferramentas e Pivotagem | Nexamos | [Read More](https://medium.com/p/a2b8bbf7ac99) |
-| Fri, 01 May 2026 14:23:04 GMT | The ADT Breach Isn’t Just Another Hack – It’s a Pattern We Keep Ignoring | Sharanraju | [Read More](https://medium.com/p/1185434c1a5c) |
-| Fri, 01 May 2026 14:19:27 GMT | Breaking the Payment Flow: A Price Tampering Vulnerability in a Vending Machine API | Vaibhav | [Read More](https://medium.com/p/c5e8a7ab63f1) |
-| Fri, 01 May 2026 14:12:55 GMT | Security is a Habit System | Fast VPN Turbo IP Changer | [Read More](https://medium.com/p/e7b7ac787701) |
-| Fri, 01 May 2026 14:09:25 GMT | Chaining IDOR and Broken Authentication to Access Sensitive Student Data (Case Study) | Md_arsalan | [Read More](https://medium.com/p/c9c5526e3c13) |
-| Fri, 01 May 2026 14:05:00 GMT | The Modern Path to Cybersecurity: A Blueprint for Lifelong Learning | Jaime Travis Pauline | [Read More](https://medium.com/p/e798a46d39b7) |
-| Fri, 01 May 2026 14:02:33 GMT | Building a Successful Tech Career with data center technician certification - Data Center… | International Data Center Authority | [Read More](https://medium.com/p/5fac0bfa6184) |
-| Fri, 01 May 2026 13:54:47 GMT | Your Code Is Lying to You — and Concurrency Is Why | Abhilasha Deshmukh | [Read More](https://medium.com/p/099144dad021) |
-| Fri, 01 May 2026 13:44:55 GMT | Custom Middleware & Security Features— Path to Laravel (Article 18) ️ | Dinushka Tharidu | [Read More](https://medium.com/p/a8776a93e8df) |
-| Fri, 01 May 2026 13:44:25 GMT | Zero Trust Can Inform Engineering — But It Shouldn’t Replace It | Peter Hillier/Halton | [Read More](https://medium.com/p/167cbf24b823) |
-| Fri, 01 May 2026 13:43:32 GMT | The Future of Cyber Warfare: Invisible Frontlines and Unseen Consequences | Raksha Thimmaiah | [Read More](https://medium.com/p/f634d2ac2e05) |
-| Fri, 01 May 2026 13:41:46 GMT | Most Cyber Incidents Don’t Start with Hackers | Abdullah Zulkifli | [Read More](https://medium.com/p/6dda4ad54992) |
-| Fri, 01 May 2026 13:32:55 GMT | I Mapped How Attackers Chain 5 API Vulnerabilities Into a Full Admin Takeover — Here’s Every Step | Advait Rane | [Read More](https://medium.com/p/627b334a304c) |
-| Fri, 01 May 2026 13:31:51 GMT | Engineering a Modular Malware Triage Engine: From Hashing to Real-Time OS Correlation | Namanbhatt | [Read More](https://medium.com/p/ffbaec96ae6e) |
-| Fri, 01 May 2026 13:28:57 GMT | Nine Seconds — what the PocketOS disaster taught me about handing my AI agent the keys | Akshat Ratanpal | [Read More](https://medium.com/p/11c0b1810245) |
-| Fri, 01 May 2026 13:19:32 GMT | Information Quality Determines Life Quality | Christopher | [Read More](https://medium.com/p/e3ad245d0d56) |
-| Fri, 01 May 2026 13:10:10 GMT | The Role of AI in Cybersecurity: Preparing for the Future of Digital Security | Sanjiv Cherian | [Read More](https://medium.com/p/7d42ed0e44ab) |
-| Fri, 01 May 2026 13:08:21 GMT | TryHackMe: RootMe Write-up | Burak | [Read More](https://medium.com/p/230349622318) |
-| Fri, 01 May 2026 13:07:25 GMT | The Compromise Paths Already Exist | The Man Behind The Line | [Read More](https://medium.com/p/5f9cf2a3e757) |
-| Fri, 01 May 2026 13:06:01 GMT | AI vs Humans: What Jobs Are Safe in 2026? | Xwtempsolutions | [Read More](https://medium.com/p/29c3a43f7c6f) |
-| Fri, 01 May 2026 13:01:03 GMT | How a Three-Layer Risk System Changes the Way People Think About Automated Trading | BiTo Fintech | [Read More](https://medium.com/p/b2c5cab9e6b7) |
