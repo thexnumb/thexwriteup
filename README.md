@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 21:23:33 GMT | Event-Driven Architectures: The Security Blind Spot Nobody Talks About | Umashankara Kalaiah | [Read More](https://medium.com/p/5994dae23959) |
+| Sat, 02 May 2026 21:20:38 GMT | SSRF: When the Frontend Tricks the Server Into Betraying Itself | Vasyl Oliinyk | [Read More](https://medium.com/p/7aea605c9727) |
+| Sat, 02 May 2026 21:20:23 GMT | Logging & Monitoring: The Eyes and Ears of Your Frontend (and Their Failures) | Vasyl Oliinyk | [Read More](https://medium.com/p/bde667247243) |
+| Sat, 02 May 2026 21:09:34 GMT | 12 Things to Check Before Ordering From Any Website (and Never Get Scammed Again) | Kate G | [Read More](https://medium.com/p/6b86a184f093) |
+| Sat, 02 May 2026 20:59:30 GMT | It’s Still There Trust Me. | Rakyta Valdez | [Read More](https://medium.com/p/46916ccf7350) |
+| Sat, 02 May 2026 20:52:57 GMT | Rooting the TCM Dev Box [Walkthrough] | Olamideoyek | [Read More](https://medium.com/p/34a91943b8f9) |
+| Sat, 02 May 2026 20:51:13 GMT | TryHackMe SOC Analyst Road Map Part-27 | safa kaya | [Read More](https://medium.com/p/74db52001f2a) |
+| Sat, 02 May 2026 20:50:46 GMT | 5 Attack Patterns Most SOC L1 Analysts Miss (And How to Catch Them) | Shuhaib Riyaj | [Read More](https://medium.com/p/21459414b9c0) |
+| Sat, 02 May 2026 20:47:31 GMT | TryHackMe-DAV-WriteUp | Burak | [Read More](https://medium.com/p/f1235c8cfcd7) |
+| Sat, 02 May 2026 20:41:01 GMT | The Asymmetry Achilles: How React2Shell (CVE-2025–55182) Turns Global Routing Against Itself | Asad Syed | [Read More](https://medium.com/p/a5654dcacd8c) |
 | Sat, 02 May 2026 20:28:46 GMT | Mythos Is Exposing the Security Debt We Can No Longer Ignore | Amie | [Read More](https://medium.com/p/b190f71db9be) |
 | Sat, 02 May 2026 20:25:37 GMT | God Wants to Break My Heart | CamDevo | [Read More](https://medium.com/p/fc33b490eaa5) |
 | Sat, 02 May 2026 20:22:18 GMT | Why I Don’t Trust AI Models I Can’t Run Offline | Devon Clemente | [Read More](https://medium.com/p/59a49cfe11f3) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 14:02:00 GMT | I Received an Official Bug Bounty Certificate from a Major Payment Platform — Here Is What It Took | Krithick | [Read More](https://medium.com/p/309f4d638d62) |
 | Sat, 02 May 2026 14:01:14 GMT | The Art of Finding Critical Vulnerabilities: Where Curiosity Beats Automation | JineshC13 | [Read More](https://medium.com/p/957ff8a8ef77) |
 | Sat, 02 May 2026 14:01:02 GMT | Threat Hunting for Network Based Attacks - LetsDefend [Part 2] | 0verRida | [Read More](https://medium.com/p/3817c9927dfc) |
-| Sat, 02 May 2026 14:01:01 GMT | Who Pays When the AI Apologizes? The Hidden Danger of Agentic Super-Apps | Jose Baena Cobos | [Read More](https://medium.com/p/927621e5e186) |
-| Sat, 02 May 2026 13:57:17 GMT | A Backdoor in the Jenga stack of OpenSource projects | Madhavakumar D | [Read More](https://medium.com/p/f7ef68fec3ed) |
-| Sat, 02 May 2026 13:40:59 GMT | The Hidden Logic Behind AI Systems (And Why Most People Misunderstand Them) | ByteTheory | [Read More](https://medium.com/p/d461edfa0158) |
-| Sat, 02 May 2026 13:38:46 GMT | Iran Kena Sabotase Siber, Kerentanan Internet RI Jadi Sorotan | KOMAHI UNSOED | [Read More](https://medium.com/p/73c9450cf86e) |
-| Sat, 02 May 2026 13:38:20 GMT | Session Hijacking in Web App: Exploitation, Impact, and Prevention | Sanskriti | [Read More](https://medium.com/p/60b4a098a691) |
-| Sat, 02 May 2026 13:37:13 GMT | Slyre — Ce qu’il faut savoir | Marc Pierro | [Read More](https://medium.com/p/3ee00304aeb0) |
-| Sat, 02 May 2026 13:35:42 GMT | ️ Malware vs Virus Explained: Key Differences + Real Cyber Attacks (2026 Guide) | Manula Udyoga | [Read More](https://medium.com/p/0cece0432ea3) |
-| Sat, 02 May 2026 13:25:29 GMT | Solana Security in the Anchor V2 Era: Where the Bugs Moved | Frank Castle | [Read More](https://medium.com/p/3050adc39412) |
-| Sat, 02 May 2026 13:23:05 GMT | Credential Stuffing picoCTF Writeup | mayhack | [Read More](https://medium.com/p/b6f74dfffe43) |
-| Sat, 02 May 2026 13:21:03 GMT | Technofeudalism — What Killed Capitalism | Claus-Dieter Volko | [Read More](https://medium.com/p/3fd459e93dce) |
