@@ -12,9 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 22:27:11 GMT | File path traversal, simple case WriteUp & Walkthrough | Erinmin | [Read More](https://medium.com/p/388faa894786) |
+| Sat, 02 May 2026 22:24:26 GMT | Unmasking Threat Infrastructure: A Deep Dive into JARM Fingerprinting | Emine VURAL GENC | [Read More](https://medium.com/p/e2a10fa26465) |
+| Sat, 02 May 2026 22:23:06 GMT | Creating a Mobile Pentest Environment | Vinicius Batistella | [Read More](https://medium.com/p/5c027e2d0bcd) |
+| Sat, 02 May 2026 22:10:29 GMT | Build a strong foundation in Linux: navigation, core commands, and permissions | Toobaashar | [Read More](https://medium.com/p/8f55f9f9794b) |
+| Sat, 02 May 2026 22:06:50 GMT | CopyFail: A nine-year-old Linux kernel bug that grants root in seconds | Patrik Žák | [Read More](https://medium.com/p/a9445ba4f33d) |
+| Sat, 02 May 2026 22:06:22 GMT | Why Every Creative Person Needs a Store — And What My Father’s Hands Taught Me About Building… | Don Rivera Diaz | [Read More](https://medium.com/p/6b9af814fdc3) |
+| Sat, 02 May 2026 22:06:17 GMT | Offsite Subdomain Email | Sals Secrets | [Read More](https://medium.com/p/f72d3cb0da2b) |
+| Sat, 02 May 2026 22:05:22 GMT | Mitigating 5G Security Risks with VRF-Based Traffic Segmentation | Petersmuditha | [Read More](https://medium.com/p/e82ca3b7c3d4) |
+| Sat, 02 May 2026 21:54:30 GMT | Malware Analysis Lab Setup — Part 1: Installing REMnux | Xanim Hamzayeva | [Read More](https://medium.com/p/f9259fe4ef4b) |
+| Sat, 02 May 2026 21:51:16 GMT | OverTheWire Natas Level 1→ Level 2 | Akshaykumar Kathirvelu | [Read More](https://medium.com/p/feff2d0663ba) |
+| Sat, 02 May 2026 21:42:53 GMT | How Governments Can Adopt AI Securely Without Breaking Systems | Yasir Naveed Riaz | [Read More](https://medium.com/p/bab46b3a209e) |
 | Sat, 02 May 2026 21:23:33 GMT | Event-Driven Architectures: The Security Blind Spot Nobody Talks About | Umashankara Kalaiah | [Read More](https://medium.com/p/5994dae23959) |
 | Sat, 02 May 2026 21:20:38 GMT | SSRF: When the Frontend Tricks the Server Into Betraying Itself | Vasyl Oliinyk | [Read More](https://medium.com/p/7aea605c9727) |
 | Sat, 02 May 2026 21:20:23 GMT | Logging & Monitoring: The Eyes and Ears of Your Frontend (and Their Failures) | Vasyl Oliinyk | [Read More](https://medium.com/p/bde667247243) |
+| Sat, 02 May 2026 21:11:32 GMT | Vercel Paused My Site. Turns Out, I Was Being Attacked. | Mrigesh Deshpande | [Read More](https://medium.com/p/e2b5aec1bd0b) |
 | Sat, 02 May 2026 21:09:34 GMT | 12 Things to Check Before Ordering From Any Website (and Never Get Scammed Again) | Kate G | [Read More](https://medium.com/p/6b86a184f093) |
 | Sat, 02 May 2026 20:59:30 GMT | It’s Still There Trust Me. | Rakyta Valdez | [Read More](https://medium.com/p/46916ccf7350) |
 | Sat, 02 May 2026 20:52:57 GMT | Rooting the TCM Dev Box [Walkthrough] | Olamideoyek | [Read More](https://medium.com/p/34a91943b8f9) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 15:00:39 GMT | How Hackers Are Turning Websites’ Chatbots Into Their Free LLM API (And How to Stop It) | Kavinda Mihiran | [Read More](https://medium.com/p/5e6042554fa3) |
 | Sat, 02 May 2026 14:52:32 GMT | How To Approach a DORA Gap Analysis | Kehinde Babajide | [Read More](https://medium.com/p/3d940cb22cd5) |
 | Sat, 02 May 2026 14:45:41 GMT | Introduction & Phases Of Pentesting : From Structured Recon to Exploit Chaining ☠️ | ~$ | [Read More](https://medium.com/p/0f5676d584ca) |
-| Sat, 02 May 2026 14:41:43 GMT | Network Isolation in ADLS Gen2: Why “Disabled” Doesn’t always mean “Isolated” | Priyans Singh | [Read More](https://medium.com/p/beee9d8bf9cd) |
-| Sat, 02 May 2026 14:34:30 GMT | Hi everyone | Onwuegbuchulemvic | [Read More](https://medium.com/p/f85740df7cf6) |
-| Sat, 02 May 2026 14:31:20 GMT | From Container User to Node Root: Chaining Copy-Fail (CVE-2026–31431) in Kubernetes | Dr. Saket Acharya | [Read More](https://medium.com/p/7af2f04492ad) |
-| Sat, 02 May 2026 14:24:34 GMT | Analytic Tools | madsl0w | [Read More](https://medium.com/p/07661c4020de) |
-| Sat, 02 May 2026 14:22:54 GMT | Vulnerability in Cyber Security | madsl0w | [Read More](https://medium.com/p/887c3f6591ff) |
-| Sat, 02 May 2026 14:15:31 GMT | Mahdi Najeh Hassan: My IT Learning Journey | Mahdi Hassan Business | [Read More](https://medium.com/p/0884216bc2b3) |
-| Sat, 02 May 2026 14:11:07 GMT | A Developer’s Guide to Secure Password Storage | Rajalaxmi | [Read More](https://medium.com/p/884bc7a68a8d) |
-| Sat, 02 May 2026 14:04:08 GMT | Skills Assessment Part 2(Login brute force) | Natitekle | [Read More](https://medium.com/p/7f00d0c3d1dc) |
-| Sat, 02 May 2026 14:03:35 GMT | picoCTF 2022 Writeup — basic-mod1 (Cryptography) | Kishor K. | [Read More](https://medium.com/p/ee3490643517) |
-| Sat, 02 May 2026 14:02:00 GMT | I Received an Official Bug Bounty Certificate from a Major Payment Platform — Here Is What It Took | Krithick | [Read More](https://medium.com/p/309f4d638d62) |
-| Sat, 02 May 2026 14:01:14 GMT | The Art of Finding Critical Vulnerabilities: Where Curiosity Beats Automation | JineshC13 | [Read More](https://medium.com/p/957ff8a8ef77) |
-| Sat, 02 May 2026 14:01:02 GMT | Threat Hunting for Network Based Attacks - LetsDefend [Part 2] | 0verRida | [Read More](https://medium.com/p/3817c9927dfc) |
