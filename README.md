@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 00:46:01 GMT | Dating After 40: 3 Types of Men Midlife Women Automatically Reject | Lilyana | [Read More](https://medium.com/p/dc29d9ce8478) |
+| Sat, 02 May 2026 00:42:39 GMT | iPhone Ultra — Foldable iPhone? | Everclear | [Read More](https://medium.com/p/cb8537fee571) |
+| Sat, 02 May 2026 00:42:17 GMT | I Thought I Understood How Windows Logs You In. I Was Wrong. | Elher | [Read More](https://medium.com/p/e8f0a6336a21) |
+| Sat, 02 May 2026 00:30:58 GMT | The Day a Small DevOps Mistake Took Everything Down | Francktikun | [Read More](https://medium.com/p/d427ff0b8394) |
+| Sat, 02 May 2026 00:27:42 GMT | Walla - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/d50acb47a3ac) |
+| Fri, 01 May 2026 23:55:13 GMT | Local File Inclusion (LFI) Explained with DVWA — From Basic Exploitation to Source Code Disclosure… | 0x4rt1st | [Read More](https://medium.com/p/5ed1b704e070) |
+| Fri, 01 May 2026 23:49:36 GMT | The Ghost in the Machine: Why the May 2026 Data Wipes Aren’t Just ‘Cyberattacks’ | Dr. Avis Vane - Unredacted Institutional Logs | [Read More](https://medium.com/p/861d662b92c8) |
+| Fri, 01 May 2026 23:49:31 GMT | Why Parking Lot Security in California Deserves More Attention Than It Gets | Matthew | [Read More](https://medium.com/p/7c5359cd7367) |
+| Fri, 01 May 2026 23:24:20 GMT | Gmail Knows What You Hate Before You Open It | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/e85b8e66be58) |
+| Fri, 01 May 2026 23:17:16 GMT | Machine Learning Has Three Types. Most People Only Know One. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/c94bee73eb23) |
+| Fri, 01 May 2026 23:15:36 GMT | The Quietest APT in the Room | Damilola Kolade | [Read More](https://medium.com/p/6a0439cc9e1d) |
 | Fri, 01 May 2026 23:08:57 GMT | Easy Money Lab Writeup  —  HackTheBox Sherlocks | Loay Salah | [Read More](https://medium.com/p/a1fcd25217b9) |
 | Fri, 01 May 2026 23:03:01 GMT | GFW 深度解析 02：VPN | xnvlnasna | [Read More](https://medium.com/p/583c6f310942) |
 | Fri, 01 May 2026 22:58:11 GMT | From Raspberry Pi to RF Lab: Building a Hacker’s Playground | Michael Preston | [Read More](https://medium.com/p/ee580bc57e2c) |
@@ -102,14 +113,3 @@ Success in bug bounty hunting isn’t just about the tools you… | Argha Sarkar
 | Fri, 01 May 2026 17:18:05 GMT | Misconfiguration In Wordpress “wp-cron.php” to peform DOS Attack | AmrMahmoud (TURBO) | [Read More](https://medium.com/p/ada4f28c9dfb) |
 | Fri, 01 May 2026 17:15:29 GMT | Automating threat detection and response with Wazuh + Slack + VirusTotal (Part 3) | Augustine Sito | [Read More](https://medium.com/p/2d37cdaab797) |
 | Fri, 01 May 2026 17:09:08 GMT | An AI Coding Agent Deleted a Startup’s Entire Database in 9 Seconds. Then It Wrote a Confession. | Krupesh Raut | [Read More](https://medium.com/p/e47a558330b4) |
-| Fri, 01 May 2026 17:06:04 GMT | How Creators Can Protect Their Identity From AI Deepfakes (And Prove What’s Real) | PRVEN | [Read More](https://medium.com/p/2a7f14b67199) |
-| Fri, 01 May 2026 17:05:39 GMT | The Quiet Risk in AI Systems: How Tool Descriptions Shape Privacy, Behavior, and Outcomes | BiyteLüm | [Read More](https://medium.com/p/ff8c887e487d) |
-| Fri, 01 May 2026 17:04:30 GMT | Active Directory Users Enumeration - Security Testing Guide | Pentester Club | [Read More](https://medium.com/p/695debd4cd34) |
-| Fri, 01 May 2026 16:56:50 GMT | Google Search Console Impressions Bug 2026: What It Is, Why It Happened, and What You Must Do Right… | H2bm | [Read More](https://medium.com/p/157489e64941) |
-| Fri, 01 May 2026 16:46:50 GMT | Cryptography challenges on FlagYard | Cyb0rgBytes | [Read More](https://medium.com/p/93546330efcb) |
-| Fri, 01 May 2026 16:44:48 GMT | How focusing on a single bug bounty program for months helped me find critical vulnerabilities | DEep | [Read More](https://medium.com/p/3581d3e32e38) |
-| Fri, 01 May 2026 16:32:50 GMT | Security as a Product Attribute: Shift Left With Intent in AI Era | Neel Neelakantan | [Read More](https://medium.com/p/dadd341e2d48) |
-| Fri, 01 May 2026 16:12:50 GMT | You Agreed to This. You Just Didn’t Know | Ashutosh J | [Read More](https://medium.com/p/9205241ec4c6) |
-| Fri, 01 May 2026 16:11:01 GMT | Engineering a Zero-Knowledge Control Plane | Bilal Zuberi | [Read More](https://medium.com/p/13d4d853c518) |
-| Fri, 01 May 2026 16:04:36 GMT | The Proxy Pattern Quietly Became the Security Layer Every AI App Needs | The Stateless Samurai | [Read More](https://medium.com/p/152a811d1e73) |
-| Fri, 01 May 2026 16:03:34 GMT | Chess, Not Checkers: Why Cybersecurity Is a Multi-Move Game | Eric Vanderburg | [Read More](https://medium.com/p/51bc075a5b44) |
