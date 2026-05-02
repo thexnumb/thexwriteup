@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 06:52:08 GMT | Shared Hosting vs VPS Hosting: Which One Should You Choose? | Mary Thomas | [Read More](https://medium.com/p/bb7efb0b20cf) |
+| Sat, 02 May 2026 06:46:11 GMT | Building a Real-Time Anomaly Detection Engine (DDoS Detection Tool) with Python, Nginx Logs, and… | Mosesajayi | [Read More](https://medium.com/p/83af63bd8bcf) |
+| Sat, 02 May 2026 06:41:20 GMT | Wazuh-SOC-Lab-Implementation | cyber-ninjaaa | [Read More](https://medium.com/p/37e2056b415c) |
+| Sat, 02 May 2026 06:37:06 GMT | GIS in Disaster Management | Dco  Agchaudhari | [Read More](https://medium.com/p/e927fea5512e) |
+| Sat, 02 May 2026 06:32:55 GMT | Copy Fail: When a 9-Year-Old Linux Kernel Bug Turns Into a Real Threat | Ebin Babu | [Read More](https://medium.com/p/35fae763d14d) |
+| Sat, 02 May 2026 06:26:16 GMT | Why GRC is Critical in Cybersecurity: Strategy, Tools, and Real Use Cases | SOC2 In | [Read More](https://medium.com/p/1e7fe0304210) |
+| Sat, 02 May 2026 06:21:52 GMT | Before You Click Upload: Why Google Chrome’s “Expected Behavior” Is a Privacy Problem | Deep Octupus | [Read More](https://medium.com/p/aaa1b2cce576) |
+| Sat, 02 May 2026 06:15:48 GMT | Learn Cybersecurity with Real-World Security Practices — Cybersecurity Course in Telugu | Gadi Abhi | [Read More](https://medium.com/p/ad79caff1e44) |
+| Sat, 02 May 2026 06:12:56 GMT | Claude Code Security Update: Everything You Need to Know (May 2026) | Muhammad Adnan Mushtaq | [Read More](https://medium.com/p/31b3bb3cce01) |
+| Sat, 02 May 2026 06:07:59 GMT | The Windows Concept Journey — TLS Callbacks (Thread Local Storage Callbacks) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/33068ebac52b) |
+| Sat, 02 May 2026 06:06:01 GMT | Part 2: How I Read Your Android App’s Network Traffic in Under 60 Seconds | Dev 175 | [Read More](https://medium.com/p/36f93cf298a1) |
+| Sat, 02 May 2026 06:04:47 GMT | How Salting & Peppering Improve Authentication Security | CharithKulathunga | [Read More](https://medium.com/p/9680b1344fdc) |
+| Sat, 02 May 2026 06:02:09 GMT | The Art of the Silent Recon: Why 90% of Successful Hacking Happens Before the First Exploit | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/4b986c652995) |
+| Sat, 02 May 2026 05:58:00 GMT | Security Services in India: A Complete Guide to Modern Protection Solutions | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/9da780cd5f7f) |
+| Sat, 02 May 2026 05:50:20 GMT | April 2026 Cyber Recap: The npm Bloodbath and other topics. | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/d84949c96b03) |
+| Sat, 02 May 2026 05:49:49 GMT | Why Third-Party Risk Management Is Non-Negotiable in 2026 | Securis360 Inc. | [Read More](https://medium.com/p/78b0933c367a) |
+| Sat, 02 May 2026 05:39:07 GMT | SECURITY ALERT: THE IMDB “PLAY” URL SCAM EXPOSED
+Protect Your Data from Viral Phishing Attacks | Naishalpnadiya | [Read More](https://medium.com/p/c133ddaafc2b) |
+| Sat, 02 May 2026 05:38:01 GMT | When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug. | kjulius | [Read More](https://medium.com/p/271b683ddb9a) |
+| Sat, 02 May 2026 05:37:51 GMT | GDG CTF ~ | Madhan Kumar S | [Read More](https://medium.com/p/2ed689d01822) |
+| Sat, 02 May 2026 04:52:43 GMT | Top 5 Cybersecurity Tools Every Beginner Should Learn First | NINSHAD KS | [Read More](https://medium.com/p/4bb2261c9ae9) |
+| Sat, 02 May 2026 04:43:46 GMT | Copy Fail: Easily gained root access in system. | Somnath Nandi | [Read More](https://medium.com/p/c43477b4af4c) |
+| Sat, 02 May 2026 04:36:16 GMT | How I Started My Cybersecurity Journey From Scratch | NINSHAD KS | [Read More](https://medium.com/p/7f9e80a9718e) |
 | Sat, 02 May 2026 04:31:17 GMT | Managing Legacy Data Under DPDPA: 7 Clear Steps Every Business Should Follow | Securis360 Inc. | [Read More](https://medium.com/p/23c53beb4279) |
 | Sat, 02 May 2026 04:31:01 GMT | Bypassing 2FA via State Overwrite: A Tale of Logic Flaws and WAF Evasion | Hacker MD | [Read More](https://medium.com/p/7e8c15a76282) |
 | Sat, 02 May 2026 04:26:40 GMT | Rethinking Cybersecurity as Core Business Protection Strategy | JC Gaillard | [Read More](https://medium.com/p/b441f31c4478) |
@@ -90,26 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 01 May 2026 19:31:10 GMT | I Built a Phishing Page in 5 Minutes. Here’s What Every LinkedIn User Needs to Know | Nilanjan Chowdhury | [Read More](https://medium.com/p/8f87edce9339) |
 | Fri, 01 May 2026 19:29:21 GMT | OOP (Object-Oriented Programming) dalam Python | SilentRock_01 | [Read More](https://medium.com/p/d7b085622dce) |
 | Fri, 01 May 2026 19:26:09 GMT | Software & Data Integrity Failures: Who’s Actually Running Your Code? | Vasyl Oliinyk | [Read More](https://medium.com/p/8b7432f0e567) |
-| Fri, 01 May 2026 19:24:10 GMT | OverTheWire Natas — Building a CTF Mindset | Akshaykumar Kathirvelu | [Read More](https://medium.com/p/ad1a823ba614) |
-| Fri, 01 May 2026 19:23:54 GMT | Mnemonic (THM) Tryhackme Writeup Answer | Lawvye | [Read More](https://medium.com/p/38079950b152) |
-| Fri, 01 May 2026 19:15:21 GMT | A Tale of Two Cyberz | Tyler Oliver | [Read More](https://medium.com/p/cb7bb0e1dc2f) |
-| Fri, 01 May 2026 19:13:26 GMT | Cracks, Shards, Broken Bones | Darian | [Read More](https://medium.com/p/c1c353fd36f4) |
-| Fri, 01 May 2026 19:03:00 GMT | Memory Acquisition Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/0b334e475754) |
-| Fri, 01 May 2026 19:00:44 GMT | The 18-Day Build: Why I Traded Speed for a Permanent Linux Foundation, Bridging the Gap Between… | Mohamed Abdelhamied | [Read More](https://medium.com/p/fa886d030b14) |
-| Fri, 01 May 2026 18:55:52 GMT | MultiCode — picoCTF Writeup (Layered Encoding Explained) | mayhack | [Read More](https://medium.com/p/4f200da8a38d) |
-| Fri, 01 May 2026 18:53:36 GMT | “Machine Learning-Based Detection of SQL Injection Attacks: A Classification Approach” | Sumathigowda | [Read More](https://medium.com/p/3b68dcfb44cb) |
-| Fri, 01 May 2026 18:51:55 GMT | I Got Tired of Doing the Same Manual Checks on Every App — So I Built a Tool to Do It For Me | Muhammadbaziloffi | [Read More](https://medium.com/p/1ac2640dbac2) |
-| Fri, 01 May 2026 18:49:59 GMT | Automating Threat Intel Enrichment with n8n -MISP | Özge Seren Sürgit | [Read More](https://medium.com/p/206f32c5fe5f) |
-| Fri, 01 May 2026 18:45:57 GMT | Why Managed Protective Intelligence Is Suddenly on Everyone’s Radar | Matt Black | [Read More](https://medium.com/p/3bd36c276a68) |
-| Fri, 01 May 2026 18:43:41 GMT | Integrating Huawei Cloud SecMaster with Third-Party Log Platforms | Matheus Araujo | [Read More](https://medium.com/p/1230f75196cd) |
-| Fri, 01 May 2026 18:41:38 GMT | TryHackMe - Monitoring AWS Services - WriteUp | Axoloth | [Read More](https://medium.com/p/05bfd958d381) |
-| Fri, 01 May 2026 18:35:07 GMT | The 2026 HIPAA Security Rule at 90 Days: What’s Actually Landing in Healthcare IT | Joegellatly | [Read More](https://medium.com/p/eb20bef55dc1) |
-| Fri, 01 May 2026 18:33:38 GMT | How I Earned a Hall of Fame from NASA
-Success in bug bounty hunting isn’t just about the tools you… | Argha Sarkar | [Read More](https://medium.com/p/5716973ec9fe) |
-| Fri, 01 May 2026 18:33:36 GMT | cPanel’i Güncellediniz Ama Hala Tehlikede Olabilirsiniz: CVE-2026–41940 Sonrası PAM Hooking Tehdidi | merdw | [Read More](https://medium.com/p/8aab879bd438) |
-| Fri, 01 May 2026 18:30:29 GMT | When Working-From-Home Goes Wrong | Marvin Sewell | [Read More](https://medium.com/p/ea1d2a104947) |
-| Fri, 01 May 2026 18:24:51 GMT | 5 Mistakes That Make Your Wi-Fi an Easy Target | Muhammad Hamza | [Read More](https://medium.com/p/1b216de328af) |
-| Fri, 01 May 2026 18:22:29 GMT | Hunting Bugs in Oracle’s Userspace dtrace using AI: CVE-2026–21996 and CVE-2026–35233 | Gujjuboy10x00 | [Read More](https://medium.com/p/56e3704c9c0b) |
-| Fri, 01 May 2026 18:17:21 GMT | What the OSI Model Is and Why Every Cybersecurity Professional Needs to Know It | Leonard Ward | [Read More](https://medium.com/p/063e86b7508b) |
-| Fri, 01 May 2026 18:16:01 GMT | Security Isn’t Just Tools: Designing Protection for a Real-World Network | Daniel Santiago | [Read More](https://medium.com/p/7e8b5697ced6) |
-| Fri, 01 May 2026 18:07:44 GMT | How I Turned $3 Into 8 Paid Bugs | Saif Eldin | [Read More](https://medium.com/p/b81c5384465c) |
