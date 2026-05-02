@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 23:18:41 GMT | SLI, SLO, SLA, Error Budget: The Ladder Nobody Climbs All the Way | Kunal Kannav | [Read More](https://medium.com/p/0e3383c669d9) |
+| Sat, 02 May 2026 23:09:47 GMT | Why AI Needs Being to Resist Narrative Capture | Lena Tatsumori | [Read More](https://medium.com/p/f31f3c97e34a) |
+| Sat, 02 May 2026 23:05:30 GMT | CTF Challenge Writeup: Windows Theme Spoofing — CVE-2024–21320 (LetsDefend) | DeadHack | [Read More](https://medium.com/p/b97ff734a152) |
+| Sat, 02 May 2026 23:04:41 GMT | GFW 深度解析 04：西厢计划 | xnvlnasna | [Read More](https://medium.com/p/da1936739ab4) |
+| Sat, 02 May 2026 23:03:28 GMT | GFW 深度解析 03：深度包检测 | xnvlnasna | [Read More](https://medium.com/p/5a19bdee58a5) |
+| Sat, 02 May 2026 23:03:25 GMT | The Sentinel’s Edge: Why the Blue Team is AI’s Greatest Architecture | Shubham Singh | [Read More](https://medium.com/p/e51d00f7e6e3) |
+| Sat, 02 May 2026 22:58:52 GMT | Week 5 of Offensive Security | Muhammad Uzair | [Read More](https://medium.com/p/fa907485fb74) |
+| Sat, 02 May 2026 22:58:48 GMT | CIA Triad | Hectorlazzari | [Read More](https://medium.com/p/2ccb414b677a) |
+| Sat, 02 May 2026 22:57:35 GMT | The Digital Wall: Who Are We Shutting Out? | Krisztina Varga | [Read More](https://medium.com/p/a53df7a28c3a) |
+| Sat, 02 May 2026 22:55:22 GMT | How do I patch the 732-byte Copy Fail exploit if my kernel modules are built-in? | Alex Lim | [Read More](https://medium.com/p/ec386585ec19) |
 | Sat, 02 May 2026 22:27:11 GMT | File path traversal, simple case WriteUp & Walkthrough | Erinmin | [Read More](https://medium.com/p/388faa894786) |
 | Sat, 02 May 2026 22:24:26 GMT | Unmasking Threat Infrastructure: A Deep Dive into JARM Fingerprinting | Emine VURAL GENC | [Read More](https://medium.com/p/e2a10fa26465) |
 | Sat, 02 May 2026 22:23:06 GMT | Creating a Mobile Pentest Environment | Vinicius Batistella | [Read More](https://medium.com/p/5c027e2d0bcd) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 15:21:45 GMT | A Practical Guide For Overhauling Ops with Zero Trust in a Messy, Real-World Organisation | Medjue Gore | [Read More](https://medium.com/p/5db22fbe3b55) |
 | Sat, 02 May 2026 15:20:28 GMT | Unauthorized Admin Panel Access via JavaScript Recon | Rahimahaq | [Read More](https://medium.com/p/02f4b2625e09) |
 | Sat, 02 May 2026 15:20:00 GMT | LetsDefend — SOC125-Suspicious Rundll32 Activity | Bassel | [Read More](https://medium.com/p/42c1bdc8ea5a) |
-| Sat, 02 May 2026 15:16:51 GMT | Email Security Guide: SPF, DKIM, DMARC, TLS Explained with Real Examples | Always learning | [Read More](https://medium.com/p/659bcc97302f) |
-| Sat, 02 May 2026 15:14:37 GMT | Signature Bypass via Control Character Injection → Arbitrary File Access | Ussef | [Read More](https://medium.com/p/1520267e5448) |
-| Sat, 02 May 2026 15:14:09 GMT | local file inclusion part-2 | 0x4rt1st | [Read More](https://medium.com/p/9999b4a7e41b) |
-| Sat, 02 May 2026 15:09:31 GMT | Investigation: Malicious Macro and Layered Payload Deobfuscation | Anandakrishnan S | [Read More](https://medium.com/p/cd726116d02b) |
-| Sat, 02 May 2026 15:09:28 GMT | picoCTF Writeup: Old Sessions (Easy) | vulnhunter | [Read More](https://medium.com/p/ce5c030f7623) |
-| Sat, 02 May 2026 15:02:42 GMT | AiTM Phishing Attacks Target Enterprise Platforms with Advanced Session Hijacking Techniques | Jas | [Read More](https://medium.com/p/30d3c2370738) |
-| Sat, 02 May 2026 15:01:01 GMT | ¿La vulnerabilidad del año hasta ahora? | Tiziano Mass | [Read More](https://medium.com/p/004299fec589) |
-| Sat, 02 May 2026 15:00:39 GMT | How Hackers Are Turning Websites’ Chatbots Into Their Free LLM API (And How to Stop It) | Kavinda Mihiran | [Read More](https://medium.com/p/5e6042554fa3) |
-| Sat, 02 May 2026 14:52:32 GMT | How To Approach a DORA Gap Analysis | Kehinde Babajide | [Read More](https://medium.com/p/3d940cb22cd5) |
-| Sat, 02 May 2026 14:45:41 GMT | Introduction & Phases Of Pentesting : From Structured Recon to Exploit Chaining ☠️ | ~$ | [Read More](https://medium.com/p/0f5676d584ca) |
