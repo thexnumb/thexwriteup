@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 15:51:13 GMT | Architects Over Coders: How AI Is Changing the Software Developer’s Role | Leo Sukharnikov | [Read More](https://medium.com/p/32852b2398aa) |
+| Sat, 02 May 2026 15:49:09 GMT | “admin/admin”: How Your $10,000 Firewall is Compromised by a $1 Mistake | Hugo Valters | [Read More](https://medium.com/p/01910f8b920f) |
+| Sat, 02 May 2026 15:39:43 GMT | The Claude Mythos vs. Cyber Reality: Why Your Fundamentals Still Beat the Algorithm | Vidura Bandara Wijekoon | [Read More](https://medium.com/p/7328cf4834b7) |
+| Sat, 02 May 2026 15:35:44 GMT | Cybersecurity Essentials: From Finding Flaws to Fixing Them | Ryamaharram | [Read More](https://medium.com/p/f5358ac48f36) |
+| Sat, 02 May 2026 15:34:11 GMT | Gogs PutContents API Sembolik Bağlantı İstismarı (CVE-2025–8110) Üzerine Kapsamlı Teknik Analiz ve… | Erdem Ceylan | [Read More](https://medium.com/p/202b536e6cb2) |
+| Sat, 02 May 2026 15:23:38 GMT | Linux Privilege Escalation: Exploiting Capabilities | Ameen Algharabeh | [Read More](https://medium.com/p/7d781eee7015) |
+| Sat, 02 May 2026 15:21:45 GMT | A Practical Guide For Overhauling Ops with Zero Trust in a Messy, Real-World Organisation | Medjue Gore | [Read More](https://medium.com/p/5db22fbe3b55) |
+| Sat, 02 May 2026 15:20:28 GMT | Unauthorized Admin Panel Access via JavaScript Recon | Rahimahaq | [Read More](https://medium.com/p/02f4b2625e09) |
+| Sat, 02 May 2026 15:20:00 GMT | LetsDefend — SOC125-Suspicious Rundll32 Activity | Bassel | [Read More](https://medium.com/p/42c1bdc8ea5a) |
+| Sat, 02 May 2026 15:16:51 GMT | Email Security Guide: SPF, DKIM, DMARC, TLS Explained with Real Examples | Always learning | [Read More](https://medium.com/p/659bcc97302f) |
 | Sat, 02 May 2026 15:14:37 GMT | Signature Bypass via Control Character Injection → Arbitrary File Access | Ussef | [Read More](https://medium.com/p/1520267e5448) |
 | Sat, 02 May 2026 15:14:09 GMT | local file inclusion part-2 | 0x4rt1st | [Read More](https://medium.com/p/9999b4a7e41b) |
 | Sat, 02 May 2026 15:09:31 GMT | Investigation: Malicious Macro and Layered Payload Deobfuscation | Anandakrishnan S | [Read More](https://medium.com/p/cd726116d02b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 09:06:18 GMT | Zero-Click Attacks: The Invisible Ghost in Your Pocket | Skyauctus | [Read More](https://medium.com/p/ba8c755fc421) |
 | Sat, 02 May 2026 09:02:43 GMT | ClickFix Understanding | D3F4C312 | [Read More](https://medium.com/p/49fb7892cc6b) |
 | Sat, 02 May 2026 08:55:55 GMT | Context is the New Code — A No-Nonsense Guide to Agentic IDEs, LLMs, and Prompt Engineering | Mohan G | [Read More](https://medium.com/p/23316b49940c) |
-| Sat, 02 May 2026 08:45:43 GMT | Was Anthropic’s Mythos Opsec Faux Pas enough of a Wake-up Call, or will the Perfect Storm Hit… | Andy Gee | [Read More](https://medium.com/p/87e5ec5cc4e0) |
-| Sat, 02 May 2026 08:41:23 GMT | How I Built a Complete Login System Using Angular and Spring Boot: A Real Project Guide to JWT | Sumanth Poola | [Read More](https://medium.com/p/a01dbba8ec98) |
-| Sat, 02 May 2026 08:33:24 GMT | The Hidden Cost of “Free” AI Tools: A Privacy and Security Audit for Developers | Ovidiu Dumitru | [Read More](https://medium.com/p/7466435fb79d) |
-| Sat, 02 May 2026 08:31:26 GMT | JWT & Token Exploitation — Advanced API Attacks (Part 5) | ghostyjoe | [Read More](https://medium.com/p/0a1e965b097e) |
-| Sat, 02 May 2026 08:29:15 GMT | Building a Cloud SOC on AWS GuardDuty, CloudTrail, Security Hub and an S3 Honeypot From Zero. | Angle Gray | [Read More](https://medium.com/p/c0cc98c36347) |
-| Sat, 02 May 2026 08:27:10 GMT | Cisco Ethical Hacker Notes — part 11 | ExploitHunter | [Read More](https://medium.com/p/7187ef1e4dd2) |
-| Sat, 02 May 2026 08:26:09 GMT | Cisco Ethical Hacker Notes — part 10 | ExploitHunter | [Read More](https://medium.com/p/ae28b1c8ced5) |
-| Sat, 02 May 2026 08:24:45 GMT | Pickle Rick: From Source Code Leak to Root via RCE and Sudo Misconfiguration | Enryuuu | [Read More](https://medium.com/p/ea1d9f2b56ee) |
-| Sat, 02 May 2026 08:20:05 GMT | COPY-FAIL (Local Privilege Escalation) | Arka Priya Das | [Read More](https://medium.com/p/ddcc92ceace0) |
-| Sat, 02 May 2026 08:16:14 GMT | Cyber War Cannot and Will Not Happen…Or Will It? | James Sanders | [Read More](https://medium.com/p/896a20f35a00) |
