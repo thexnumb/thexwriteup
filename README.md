@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 17:18:27 GMT | تێپەرێنم eWPTX چۆن توانیم تاقیکردنەوەی | error-01 | [Read More](https://medium.com/p/4aef2189cf8b) |
+| Sat, 02 May 2026 17:14:37 GMT | We Didn’t Get Hacked… We Left the Door Open The Real Cybersecurity Threat Landscape of 2023–2026 | NetNuggets | [Read More](https://medium.com/p/1c26038cbbbe) |
+| Sat, 02 May 2026 17:10:18 GMT | The 11pm Audit: Why Most GRC Platforms Fail You at the Worst Moment | Olumide Abayomi | [Read More](https://medium.com/p/fbedb85b5456) |
+| Sat, 02 May 2026 17:06:05 GMT | Phishing Campaigns Evolve as Attackers Exploit Trusted Cloud Platforms | Jas | [Read More](https://medium.com/p/d3ad71f76cd8) |
+| Sat, 02 May 2026 17:04:08 GMT | Morty Has Fallen-Full Walkthrough | Cybernerddd | [Read More](https://medium.com/p/0f9d11e5aafb) |
+| Sat, 02 May 2026 17:00:04 GMT | AI Agents for Penetration Testing - Claude Code & Gamma4 | Pentester Club | [Read More](https://medium.com/p/ff5487d8db64) |
+| Sat, 02 May 2026 16:53:42 GMT | Architect’s Breakdown: Browser-Based RDP/SMB Clients — Security Benefits and Hidden Risks | Ankurtechno | [Read More](https://medium.com/p/2005dcb8be30) |
+| Sat, 02 May 2026 16:49:25 GMT | Beyond the Ping: Mastering Nmap for Network Reconnaissance in 2026 | rdtsc | [Read More](https://medium.com/p/70ee618643d7) |
+| Sat, 02 May 2026 16:43:16 GMT | What If Hackers Had to Tell You They’re Hackers? | André Luiz | [Read More](https://medium.com/p/92579716e6ba) |
+| Sat, 02 May 2026 16:41:57 GMT | ⚡ Full Automation — Recon → Exploit Pipeline (Part 6) | ghostyjoe | [Read More](https://medium.com/p/aa5a217d414a) |
+| Sat, 02 May 2026 16:41:40 GMT | Hunting on Government Infrastructure: WAF Bypasses, OAuth Testing, and Knowing When to Pivot | Sathya Boobalan | [Read More](https://medium.com/p/b2e69e4fe089) |
+| Sat, 02 May 2026 16:41:20 GMT | The Shell You Get Means Nothing If You Can’t Keep It | Teachnolen | [Read More](https://medium.com/p/bfcdd52f6215) |
+| Sat, 02 May 2026 16:38:30 GMT | How Most Businesses Choose the Wrong IT Partner (And How to Fix It) | Insuranzy | [Read More](https://medium.com/p/98d52de73c21) |
+| Sat, 02 May 2026 16:16:54 GMT | Το Χακάρισμα των Παλιών Wallets | Stratos Inglezakis | [Read More](https://medium.com/p/2f15f1ef2d84) |
+| Sat, 02 May 2026 16:04:26 GMT | When Everything Gets Harder | Kevin Steffensen | [Read More](https://medium.com/p/f07ae7e052d6) |
 | Sat, 02 May 2026 15:51:13 GMT | Architects Over Coders: How AI Is Changing the Software Developer’s Role | Leo Sukharnikov | [Read More](https://medium.com/p/32852b2398aa) |
 | Sat, 02 May 2026 15:49:09 GMT | “admin/admin”: How Your $10,000 Firewall is Compromised by a $1 Mistake | Hugo Valters | [Read More](https://medium.com/p/01910f8b920f) |
 | Sat, 02 May 2026 15:39:43 GMT | The Claude Mythos vs. Cyber Reality: Why Your Fundamentals Still Beat the Algorithm | Vidura Bandara Wijekoon | [Read More](https://medium.com/p/7328cf4834b7) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 10:21:49 GMT | One git push. Millions of Repositories. Full Server Access. | Precogs AI | [Read More](https://medium.com/p/42a00d465e4b) |
 | Sat, 02 May 2026 10:21:45 GMT | From Learning to Deployment: Building My Intrusion Detection System on AWS | Sentia Technologies limited | [Read More](https://medium.com/p/22e303d06284) |
 | Sat, 02 May 2026 10:12:01 GMT | Cybersecurity Course in Telugu: Skills You Will Learn | G | [Read More](https://medium.com/p/e387baefb260) |
-| Sat, 02 May 2026 10:10:10 GMT | The Real Fault Line | Tom Yonashiro | [Read More](https://medium.com/p/8998e7642ac7) |
-| Sat, 02 May 2026 09:46:29 GMT | SickOs 1.1 VulnHub Writeup | ZeroDay-Security-Services | [Read More](https://medium.com/p/e20849555067) |
-| Sat, 02 May 2026 09:36:29 GMT | Implementing Zero-Trust Security in Cloud-Native Financial Microservices | Jhabindra Pandey | [Read More](https://medium.com/p/ac2117eec0db) |
-| Sat, 02 May 2026 09:36:11 GMT | MD2PDF - TryHackMe | Ryca | [Read More](https://medium.com/p/0998957ab262) |
-| Sat, 02 May 2026 09:35:27 GMT | VulnHub — Warzone: 3 (Exogen) Write-Up | Shikhali Jamalzade | [Read More](https://medium.com/p/3952499c8415) |
-| Sat, 02 May 2026 09:35:21 GMT | Piracy Hosting Report 2026 | Marius | [Read More](https://medium.com/p/66b8d11f714a) |
-| Sat, 02 May 2026 09:31:03 GMT | VulnHub — chatME: Write-Up | Shikhali Jamalzade | [Read More](https://medium.com/p/286c39d27b4c) |
-| Sat, 02 May 2026 09:22:52 GMT | Look, I’ll be honest — a couple of days ago I had no real idea what passkeys were. | John Covington | [Read More](https://medium.com/p/60c39ef8b8d5) |
-| Sat, 02 May 2026 09:20:00 GMT | Firewall vs Antivirus vs EDR — What’s Actually the Difference and Why Your Business Needs All Three | Mittal Technologies | [Read More](https://medium.com/p/e6eaa249689e) |
-| Sat, 02 May 2026 09:19:52 GMT | Cybersecurity Awareness & Zero Trust Solutions in UAE: Protecting Modern Businesses | Nandhanaponnu | [Read More](https://medium.com/p/557aa1d19e59) |
-| Sat, 02 May 2026 09:17:15 GMT | Recruit - TryHackMe | Ryca | [Read More](https://medium.com/p/3fb05f413994) |
-| Sat, 02 May 2026 09:14:28 GMT | Cybersecurity Awareness & Zero Trust Solutions in UAE: Protecting Modern Businesses | Seoelewix | [Read More](https://medium.com/p/7b23f9b9caf7) |
-| Sat, 02 May 2026 09:06:18 GMT | Zero-Click Attacks: The Invisible Ghost in Your Pocket | Skyauctus | [Read More](https://medium.com/p/ba8c755fc421) |
-| Sat, 02 May 2026 09:02:43 GMT | ClickFix Understanding | D3F4C312 | [Read More](https://medium.com/p/49fb7892cc6b) |
-| Sat, 02 May 2026 08:55:55 GMT | Context is the New Code — A No-Nonsense Guide to Agentic IDEs, LLMs, and Prompt Engineering | Mohan G | [Read More](https://medium.com/p/23316b49940c) |
