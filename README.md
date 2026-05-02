@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 08:41:23 GMT | How I Built a Complete Login System Using Angular and Spring Boot: A Real Project Guide to JWT | Sumanth Poola | [Read More](https://medium.com/p/a01dbba8ec98) |
+| Sat, 02 May 2026 08:33:24 GMT | The Hidden Cost of “Free” AI Tools: A Privacy and Security Audit for Developers | Ovidiu Dumitru | [Read More](https://medium.com/p/7466435fb79d) |
+| Sat, 02 May 2026 08:31:26 GMT | JWT & Token Exploitation — Advanced API Attacks (Part 5) | ghostyjoe | [Read More](https://medium.com/p/0a1e965b097e) |
+| Sat, 02 May 2026 08:29:15 GMT | Building a Cloud SOC on AWS GuardDuty, CloudTrail, Security Hub and an S3 Honeypot From Zero. | Angle Gray | [Read More](https://medium.com/p/c0cc98c36347) |
+| Sat, 02 May 2026 08:27:10 GMT | Cisco Ethical Hacker Notes — part 11 | ExploitHunter | [Read More](https://medium.com/p/7187ef1e4dd2) |
+| Sat, 02 May 2026 08:26:09 GMT | Cisco Ethical Hacker Notes — part 10 | ExploitHunter | [Read More](https://medium.com/p/ae28b1c8ced5) |
+| Sat, 02 May 2026 08:24:45 GMT | Pickle Rick: From Source Code Leak to Root via RCE and Sudo Misconfiguration | Enryuuu | [Read More](https://medium.com/p/ea1d9f2b56ee) |
+| Sat, 02 May 2026 08:20:05 GMT | COPY-FAIL (Local Privilege Escalation) | Arka Priya Das | [Read More](https://medium.com/p/ddcc92ceace0) |
+| Sat, 02 May 2026 08:16:14 GMT | Cyber War Cannot and Will Not Happen…Or Will It? | James Sanders | [Read More](https://medium.com/p/896a20f35a00) |
+| Sat, 02 May 2026 08:08:53 GMT | Why People Trust Rumors More Than Institutions | Shayaq Ul Abeer | [Read More](https://medium.com/p/08fc8a8f4e05) |
+| Sat, 02 May 2026 08:07:35 GMT | How to fix the “G101: Potential hardcoded credentials (gosec)” | Marek Skopowski | [Read More](https://medium.com/p/53952491670e) |
+| Sat, 02 May 2026 08:07:00 GMT | OWASP LLM05:2025 Improper Output Handling | Tiago Silva | [Read More](https://medium.com/p/6654178b5c51) |
+| Sat, 02 May 2026 08:03:22 GMT | The Financial Kill-Switch: Why Your Bank Balance Is Now a Geopolitical Target | The Money Glitch | [Read More](https://medium.com/p/1abfb66e8eac) |
+| Sat, 02 May 2026 08:01:30 GMT | CVE-2026–31431 — Copy Fail: A Page Cache Bug That Gave Me Root | Dr.Lies | [Read More](https://medium.com/p/66a20e0c8270) |
+| Sat, 02 May 2026 08:00:17 GMT | City Council — Hacksmarter Writeup | byL0r3t | [Read More](https://medium.com/p/5ee0f8a11dde) |
+| Sat, 02 May 2026 07:57:46 GMT | Ethical Hacking Course: Career Scope, Roles & Future Growth | Manjot | [Read More](https://medium.com/p/e5b0168b1e53) |
+| Sat, 02 May 2026 07:56:22 GMT | Insecure Broadcast Receiver — Mobile Apps Security Static Analysis Part V | ./Rey~ | [Read More](https://medium.com/p/d4367abbdf1e) |
+| Sat, 02 May 2026 07:52:01 GMT | The Bugs That Actually Hurt You Aren’t the Fancy Ones | Satyam Pathania | [Read More](https://medium.com/p/07d17b5eac16) |
+| Sat, 02 May 2026 07:48:10 GMT | Ha-Natraj — LFI Log Poisoning + Apache2 User Hijack + sudo nmap to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/dbbd1fa12bee) |
+| Sat, 02 May 2026 07:46:16 GMT | PART 2: I Published a Scam Expose. | freerave | [Read More](https://medium.com/p/bc420e0bbc00) |
+| Sat, 02 May 2026 07:42:26 GMT | Skill-Based Hiring Is Replacing Traditional Recruitment in 2026 | Xwtempsolutions | [Read More](https://medium.com/p/b31718493034) |
+| Sat, 02 May 2026 07:21:23 GMT | How I Earned Over $1,000+ from Local Bug Bounty Programs | rade0nx | [Read More](https://medium.com/p/a79e21be0701) |
+| Sat, 02 May 2026 07:05:40 GMT | Inside Modern Malware: How Evasion Techniques Are Evolving in 2026 | Paritosh | [Read More](https://medium.com/p/7b7626f074b3) |
+| Sat, 02 May 2026 07:04:38 GMT | 5 Signs of a Phishing Email: Spot the Red Flags Before You Click | ShardNet Shadow | [Read More](https://medium.com/p/274018a0d8e4) |
+| Sat, 02 May 2026 07:02:34 GMT | The Digital Private Eye: How to Map a Network Like a Pro Hacker | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/c93302d5b6a5) |
+| Sat, 02 May 2026 06:59:29 GMT | Google Gets Caught Exploiting Human User Data 2026 | Nick M. Grossi - XPII MODEL XI | [Read More](https://medium.com/p/4bd7bbe8d15c) |
+| Sat, 02 May 2026 06:59:10 GMT | Golden Ticket Attack — Lab Writeup | Basithmohammedali | [Read More](https://medium.com/p/1f733ac74bd1) |
 | Sat, 02 May 2026 06:52:08 GMT | Shared Hosting vs VPS Hosting: Which One Should You Choose? | Mary Thomas | [Read More](https://medium.com/p/bb7efb0b20cf) |
 | Sat, 02 May 2026 06:46:11 GMT | Building a Real-Time Anomaly Detection Engine (DDoS Detection Tool) with Python, Nginx Logs, and… | Mosesajayi | [Read More](https://medium.com/p/83af63bd8bcf) |
 | Sat, 02 May 2026 06:41:20 GMT | Wazuh-SOC-Lab-Implementation | cyber-ninjaaa | [Read More](https://medium.com/p/37e2056b415c) |
@@ -86,30 +113,3 @@ Protect Your Data from Viral Phishing Attacks | Naishalpnadiya | [Read More](htt
 | Fri, 01 May 2026 21:07:19 GMT | Anthropic Launches Claude Security: AI-Driven defense for the enterprise | Em G | [Read More](https://medium.com/p/a13f7edfd1bc) |
 | Fri, 01 May 2026 21:07:00 GMT | Why Most Startups Break Their Infrastructure Before They Scale | SSTD | [Read More](https://medium.com/p/21e7f7011807) |
 | Fri, 01 May 2026 20:58:37 GMT | How I discovered my first valid Bug | cipher | [Read More](https://medium.com/p/e1f1277c92e0) |
-| Fri, 01 May 2026 20:58:16 GMT | Security & Trust Notice | Icroni platform | [Read More](https://medium.com/p/ec20e49a1a01) |
-| Fri, 01 May 2026 20:53:36 GMT | Why Engineers Are the Weakest Link in Cybersecurity | Hardik Patel | [Read More](https://medium.com/p/c578bbeee9ca) |
-| Fri, 01 May 2026 20:53:26 GMT | GenLayer Analysis: LLM Manipulation Risks in Optimistic Democracy, Attack Vectors & Defensive… | Engagechain project | [Read More](https://medium.com/p/16dd5d5f38cf) |
-| Fri, 01 May 2026 20:51:01 GMT | Why the Middle East is Winning the Vertical Farming War | Chloe Ladner | [Read More](https://medium.com/p/7495ff336666) |
-| Fri, 01 May 2026 20:51:01 GMT | The $292M Shadow Attack: Why Smart Contract Audits Weren’t Enough for KelpDAO | rdin777 | [Read More](https://medium.com/p/7c0bb7f87dab) |
-| Fri, 01 May 2026 20:38:43 GMT | Cybersecurity Threats In 2026 | saher shahzad | [Read More](https://medium.com/p/eb75cf025a77) |
-| Fri, 01 May 2026 20:37:27 GMT | Discord Servers Are OSINT Goldmines. If You Know Where to Look | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4bf95ec7dbfc) |
-| Fri, 01 May 2026 20:33:26 GMT | Roquefort — OffSec Proving Grounds Writeup | Jose De Jesus Colon | [Read More](https://medium.com/p/aff8bff9939e) |
-| Fri, 01 May 2026 20:31:40 GMT | Looking for Compliance Partners (CP) | Mark P. Milton | [Read More](https://medium.com/p/0b19730c9bda) |
-| Fri, 01 May 2026 20:27:34 GMT | Is CISSP Worth It in 2026? A Practical Breakdown | Manish Shivanandhan | [Read More](https://medium.com/p/273b6f80f904) |
-| Fri, 01 May 2026 20:26:01 GMT | From Deny to Deploy: Choosing the Right Azure Policy Effect | Practical IT | [Read More](https://medium.com/p/b7912e7413b5) |
-| Fri, 01 May 2026 20:25:21 GMT | TryHackMe: Mr Robot CTF — WordPress Exploitation and SUID Nmap Privesc | Robert Perez | [Read More](https://medium.com/p/ea81c4813983) |
-| Fri, 01 May 2026 20:23:15 GMT | Shodan Facet Searches That Read Like Threat Intel Poetry | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2873f89b3478) |
-| Fri, 01 May 2026 20:18:01 GMT | WriteUp — PicoCTF — notepad | Banyapong Molanin | [Read More](https://medium.com/p/c315454b386d) |
-| Fri, 01 May 2026 20:13:30 GMT | Networking Basics: A Beginner’s Guide to How Computers Operate | Victory Patrick | [Read More](https://medium.com/p/6201ea9a77be) |
-| Fri, 01 May 2026 20:12:27 GMT | Copy Fail — The Linux Vulnerability That Gives Any User Root Access in Seconds. Patch Now. | Sai kiran | [Read More](https://medium.com/p/c2d5b5f184c5) |
-| Fri, 01 May 2026 20:11:04 GMT | TryHackMe: Ignite — Exploiting Fuel CMS 1.4 for RCE and Root | Robert Perez | [Read More](https://medium.com/p/26cb16efda15) |
-| Fri, 01 May 2026 20:09:47 GMT | How Attackers Turn Small Misconfigurations Into Full System Control | JSOC IT BLOG | [Read More](https://medium.com/p/e51c48b88dbc) |
-| Fri, 01 May 2026 20:09:01 GMT | Microsoft Defender XDR in Practice: Advancing Threat Detection Beyond Traditional Security Models | Soundarya Vasista | [Read More](https://medium.com/p/8123981759c7) |
-| Fri, 01 May 2026 20:07:25 GMT | Study Precision and Recall at K for Recommender System | AjayKrish | [Read More](https://medium.com/p/20adf7c83951) |
-| Fri, 01 May 2026 19:56:13 GMT | Discover Lernean Challenge | t4nu1 | [Read More](https://medium.com/p/01b02f7a2026) |
-| Fri, 01 May 2026 19:53:00 GMT | Bilgisayar fanınız verilerinizi mi sızdırıyor? | Erengider | [Read More](https://medium.com/p/e9c02069fc8b) |
-| Fri, 01 May 2026 19:40:37 GMT | Why We’re Helpless When Things Break Down | Charles Hugh Smith | [Read More](https://medium.com/p/67825ff99e0d) |
-| Fri, 01 May 2026 19:34:31 GMT | Exploiting Race Condition Vulnerabilities: How I Turned $100 into $1,000+ | Oluwakamiye Adeyemo | [Read More](https://medium.com/p/fa34ad973ee2) |
-| Fri, 01 May 2026 19:31:10 GMT | I Built a Phishing Page in 5 Minutes. Here’s What Every LinkedIn User Needs to Know | Nilanjan Chowdhury | [Read More](https://medium.com/p/8f87edce9339) |
-| Fri, 01 May 2026 19:29:21 GMT | OOP (Object-Oriented Programming) dalam Python | SilentRock_01 | [Read More](https://medium.com/p/d7b085622dce) |
-| Fri, 01 May 2026 19:26:09 GMT | Software & Data Integrity Failures: Who’s Actually Running Your Code? | Vasyl Oliinyk | [Read More](https://medium.com/p/8b7432f0e567) |
