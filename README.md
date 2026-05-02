@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 10:46:36 GMT | The Command Pattern Is How You Stop AI Agents From Doing Stupid Things | The Atomic Architect | [Read More](https://medium.com/p/bae8a880b9bf) |
+| Sat, 02 May 2026 10:45:42 GMT | What a Plane’s Fatal Crashes, Chess, and LLMs Make Humans So Important | Lm | [Read More](https://medium.com/p/0e3e3436c90a) |
+| Sat, 02 May 2026 10:44:02 GMT | From Corporate IT to Building Something Better: The Synogen Story | Synogen Solutions | [Read More](https://medium.com/p/2031024e9c46) |
+| Sat, 02 May 2026 10:41:25 GMT | E-GOVERNANCE | Mohjubba | [Read More](https://medium.com/p/6e3b818e811e) |
+| Sat, 02 May 2026 10:35:21 GMT | The Cost of Pushing Through When I’m Not Okay | The Mellow Pace | [Read More](https://medium.com/p/0a2b5c9ab056) |
+| Sat, 02 May 2026 10:32:56 GMT | Vercel Won’t Be the Last. Here’s Every Breach That Should Have Warned Us. | Gauraw Singh | [Read More](https://medium.com/p/5c16788e1b7e) |
+| Sat, 02 May 2026 10:32:53 GMT | My Journey to GCC 2026 | pipe2bot | [Read More](https://medium.com/p/22b529251a54) |
+| Sat, 02 May 2026 10:29:20 GMT | The Memory Glimpses | Reflections from Z | [Read More](https://medium.com/p/fdd0a1807ed5) |
+| Sat, 02 May 2026 10:23:30 GMT | Three days into building a log scanner, I stopped trusting my own alerts | judeh0747 | [Read More](https://medium.com/p/f8bf94250dac) |
+| Sat, 02 May 2026 10:23:15 GMT | My Friend Got Hacked — Triage, Chain Analysis, Report | 0rickyy. | [Read More](https://medium.com/p/92286d178351) |
+| Sat, 02 May 2026 10:21:49 GMT | One git push. Millions of Repositories. Full Server Access. | Precogs AI | [Read More](https://medium.com/p/42a00d465e4b) |
+| Sat, 02 May 2026 10:21:45 GMT | From Learning to Deployment: Building My Intrusion Detection System on AWS | Sentia Technologies limited | [Read More](https://medium.com/p/22e303d06284) |
+| Sat, 02 May 2026 10:12:01 GMT | Cybersecurity Course in Telugu: Skills You Will Learn | G | [Read More](https://medium.com/p/e387baefb260) |
+| Sat, 02 May 2026 10:10:10 GMT | The Real Fault Line | Tom Yonashiro | [Read More](https://medium.com/p/8998e7642ac7) |
 | Sat, 02 May 2026 09:46:29 GMT | SickOs 1.1 VulnHub Writeup | ZeroDay-Security-Services | [Read More](https://medium.com/p/e20849555067) |
 | Sat, 02 May 2026 09:36:29 GMT | Implementing Zero-Trust Security in Cloud-Native Financial Microservices | Jhabindra Pandey | [Read More](https://medium.com/p/ac2117eec0db) |
 | Sat, 02 May 2026 09:36:11 GMT | MD2PDF - TryHackMe | Ryca | [Read More](https://medium.com/p/0998957ab262) |
@@ -99,17 +113,3 @@ Protect Your Data from Viral Phishing Attacks | Naishalpnadiya | [Read More](htt
 | Sat, 02 May 2026 00:42:17 GMT | I Thought I Understood How Windows Logs You In. I Was Wrong. | Elher | [Read More](https://medium.com/p/e8f0a6336a21) |
 | Sat, 02 May 2026 00:30:58 GMT | The Day a Small DevOps Mistake Took Everything Down | Francktikun | [Read More](https://medium.com/p/d427ff0b8394) |
 | Sat, 02 May 2026 00:27:42 GMT | Walla - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/d50acb47a3ac) |
-| Fri, 01 May 2026 23:55:13 GMT | Local File Inclusion (LFI) Explained with DVWA — From Basic Exploitation to Source Code Disclosure… | 0x4rt1st | [Read More](https://medium.com/p/5ed1b704e070) |
-| Fri, 01 May 2026 23:49:36 GMT | The Ghost in the Machine: Why the May 2026 Data Wipes Aren’t Just ‘Cyberattacks’ | Dr. Avis Vane - Unredacted Institutional Logs | [Read More](https://medium.com/p/861d662b92c8) |
-| Fri, 01 May 2026 23:49:31 GMT | Why Parking Lot Security in California Deserves More Attention Than It Gets | Matthew | [Read More](https://medium.com/p/7c5359cd7367) |
-| Fri, 01 May 2026 23:24:20 GMT | Gmail Knows What You Hate Before You Open It | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/e85b8e66be58) |
-| Fri, 01 May 2026 23:17:16 GMT | Machine Learning Has Three Types. Most People Only Know One. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/c94bee73eb23) |
-| Fri, 01 May 2026 23:15:36 GMT | The Quietest APT in the Room | Damilola Kolade | [Read More](https://medium.com/p/6a0439cc9e1d) |
-| Fri, 01 May 2026 23:08:57 GMT | Easy Money Lab Writeup  —  HackTheBox Sherlocks | Loay Salah | [Read More](https://medium.com/p/a1fcd25217b9) |
-| Fri, 01 May 2026 23:03:01 GMT | GFW 深度解析 02：VPN | xnvlnasna | [Read More](https://medium.com/p/583c6f310942) |
-| Fri, 01 May 2026 22:58:11 GMT | From Raspberry Pi to RF Lab: Building a Hacker’s Playground | Michael Preston | [Read More](https://medium.com/p/ee580bc57e2c) |
-| Fri, 01 May 2026 22:55:37 GMT | TryHackMe - Monitoring AWS Workloads - WriteUp | Axoloth | [Read More](https://medium.com/p/b3fa8e3293c0) |
-| Fri, 01 May 2026 22:51:23 GMT | This is my third bug bounty report: How I found an XSS vulnerability | Umut Kayra Doğan | [Read More](https://medium.com/p/c2a637d86b2e) |
-| Fri, 01 May 2026 22:50:17 GMT | GFW 深度解析 01：架构 | xnvlnasna | [Read More](https://medium.com/p/f7cbf9e48fb4) |
-| Fri, 01 May 2026 22:49:11 GMT | Welcome to Trust Agent: How Micky Irons Built the First Audited AI Marketplace (21 UK Patents, 584… | Micky Irons | [Read More](https://medium.com/p/a8ec740c3ef7) |
-| Fri, 01 May 2026 22:31:01 GMT | The EC2 Access Dilemma — Which Door Do I Use to Get Into My Server? | Himal Pandey | [Read More](https://medium.com/p/df3ae32234d9) |
