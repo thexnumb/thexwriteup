@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 09:46:29 GMT | SickOs 1.1 VulnHub Writeup | ZeroDay-Security-Services | [Read More](https://medium.com/p/e20849555067) |
+| Sat, 02 May 2026 09:36:29 GMT | Implementing Zero-Trust Security in Cloud-Native Financial Microservices | Jhabindra Pandey | [Read More](https://medium.com/p/ac2117eec0db) |
+| Sat, 02 May 2026 09:36:11 GMT | MD2PDF - TryHackMe | Ryca | [Read More](https://medium.com/p/0998957ab262) |
+| Sat, 02 May 2026 09:35:27 GMT | VulnHub — Warzone: 3 (Exogen) Write-Up | Shikhali Jamalzade | [Read More](https://medium.com/p/3952499c8415) |
+| Sat, 02 May 2026 09:35:21 GMT | Piracy Hosting Report 2026 | Marius | [Read More](https://medium.com/p/66b8d11f714a) |
+| Sat, 02 May 2026 09:31:03 GMT | VulnHub — chatME: Write-Up | Shikhali Jamalzade | [Read More](https://medium.com/p/286c39d27b4c) |
+| Sat, 02 May 2026 09:22:52 GMT | Look, I’ll be honest — a couple of days ago I had no real idea what passkeys were. | John Covington | [Read More](https://medium.com/p/60c39ef8b8d5) |
+| Sat, 02 May 2026 09:20:00 GMT | Firewall vs Antivirus vs EDR — What’s Actually the Difference and Why Your Business Needs All Three | Mittal Technologies | [Read More](https://medium.com/p/e6eaa249689e) |
+| Sat, 02 May 2026 09:19:52 GMT | Cybersecurity Awareness & Zero Trust Solutions in UAE: Protecting Modern Businesses | Nandhanaponnu | [Read More](https://medium.com/p/557aa1d19e59) |
+| Sat, 02 May 2026 09:17:15 GMT | Recruit - TryHackMe | Ryca | [Read More](https://medium.com/p/3fb05f413994) |
+| Sat, 02 May 2026 09:14:28 GMT | Cybersecurity Awareness & Zero Trust Solutions in UAE: Protecting Modern Businesses | Seoelewix | [Read More](https://medium.com/p/7b23f9b9caf7) |
+| Sat, 02 May 2026 09:06:18 GMT | Zero-Click Attacks: The Invisible Ghost in Your Pocket | Skyauctus | [Read More](https://medium.com/p/ba8c755fc421) |
+| Sat, 02 May 2026 09:02:43 GMT | ClickFix Understanding | D3F4C312 | [Read More](https://medium.com/p/49fb7892cc6b) |
+| Sat, 02 May 2026 08:55:55 GMT | Context is the New Code — A No-Nonsense Guide to Agentic IDEs, LLMs, and Prompt Engineering | Mohan G | [Read More](https://medium.com/p/23316b49940c) |
+| Sat, 02 May 2026 08:45:43 GMT | Was Anthropic’s Mythos Opsec Faux Pas enough of a Wake-up Call, or will the Perfect Storm Hit… | Andy Gee | [Read More](https://medium.com/p/87e5ec5cc4e0) |
 | Sat, 02 May 2026 08:41:23 GMT | How I Built a Complete Login System Using Angular and Spring Boot: A Real Project Guide to JWT | Sumanth Poola | [Read More](https://medium.com/p/a01dbba8ec98) |
 | Sat, 02 May 2026 08:33:24 GMT | The Hidden Cost of “Free” AI Tools: A Privacy and Security Audit for Developers | Ovidiu Dumitru | [Read More](https://medium.com/p/7466435fb79d) |
 | Sat, 02 May 2026 08:31:26 GMT | JWT & Token Exploitation — Advanced API Attacks (Part 5) | ghostyjoe | [Read More](https://medium.com/p/0a1e965b097e) |
@@ -98,18 +113,3 @@ Protect Your Data from Viral Phishing Attacks | Naishalpnadiya | [Read More](htt
 | Fri, 01 May 2026 22:50:17 GMT | GFW 深度解析 01：架构 | xnvlnasna | [Read More](https://medium.com/p/f7cbf9e48fb4) |
 | Fri, 01 May 2026 22:49:11 GMT | Welcome to Trust Agent: How Micky Irons Built the First Audited AI Marketplace (21 UK Patents, 584… | Micky Irons | [Read More](https://medium.com/p/a8ec740c3ef7) |
 | Fri, 01 May 2026 22:31:01 GMT | The EC2 Access Dilemma — Which Door Do I Use to Get Into My Server? | Himal Pandey | [Read More](https://medium.com/p/df3ae32234d9) |
-| Fri, 01 May 2026 22:30:17 GMT | How to Unlock Global Streaming in 2026: The Ultimate Guide to Bypassing Geo-Blocks | Liam TechNode | [Read More](https://medium.com/p/a56c4d9a1b16) |
-| Fri, 01 May 2026 22:15:55 GMT | When AI Misses the Clues: The Hidden Gaps in SOC Log Investigations | Payal Viras | [Read More](https://medium.com/p/0d487596895c) |
-| Fri, 01 May 2026 22:06:17 GMT | When AI Misses the Clues: The Hidden Gaps in SOC Log Investigations | Payal Viras | [Read More](https://medium.com/p/4394d6c17663) |
-| Fri, 01 May 2026 22:04:53 GMT | From Source Code Review To Critical Vulnerability — Critical Firebase API Takeover | Mohamed M Mourad | [Read More](https://medium.com/p/e8f2ffa426bd) |
-| Fri, 01 May 2026 22:00:02 GMT | Copy Fail (CVE-2026–31431): You Are Affected — Fix It Before It’s Too Late | Rayenhafsawy | [Read More](https://medium.com/p/65bfcd2ad273) |
-| Fri, 01 May 2026 21:57:22 GMT | Deploying Netdata with Docker on a Raspberry Pi: A Beginner-Friendly Guide | Jess Reside | [Read More](https://medium.com/p/b43bd6da2967) |
-| Fri, 01 May 2026 21:49:19 GMT | Mythos Is Rewriting the Rules of Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/b0c6a6d652d2) |
-| Fri, 01 May 2026 21:43:36 GMT | SOC Alert Investigation: Palo Alto Networks PAN-OS Command Injection — CVE-2024–3400 (SOC274 —… | DeadHack | [Read More](https://medium.com/p/5101a4bee119) |
-| Fri, 01 May 2026 21:40:39 GMT | Root Android 12 and Above on Genymotion Emulator | Sunain | [Read More](https://medium.com/p/4a9c343f8758) |
-| Fri, 01 May 2026 21:38:50 GMT | How Phishing Actually Works (And Why Smart Engineers Still Fall for It) | Hardik Patel | [Read More](https://medium.com/p/d4d1401504b6) |
-| Fri, 01 May 2026 21:33:49 GMT | $285M Drift Protocol Hack: When Trust Became the Attack Surface | Khushi | [Read More](https://medium.com/p/8030a8a9ca82) |
-| Fri, 01 May 2026 21:14:14 GMT | How to ACTUALLY use AI for bug bounties (Like I’m 5) | TechTales | [Read More](https://medium.com/p/c8386bec44a1) |
-| Fri, 01 May 2026 21:07:19 GMT | Anthropic Launches Claude Security: AI-Driven defense for the enterprise | Em G | [Read More](https://medium.com/p/a13f7edfd1bc) |
-| Fri, 01 May 2026 21:07:00 GMT | Why Most Startups Break Their Infrastructure Before They Scale | SSTD | [Read More](https://medium.com/p/21e7f7011807) |
-| Fri, 01 May 2026 20:58:37 GMT | How I discovered my first valid Bug | cipher | [Read More](https://medium.com/p/e1f1277c92e0) |
