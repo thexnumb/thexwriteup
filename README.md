@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 18:02:00 GMT | If AI Can Find the Bugs, Why Are They Still There? | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/7d471370d5d8) |
+| Sat, 02 May 2026 17:59:29 GMT | Learning SOC the Right Way: Why Log Analysis Matters More Than You Think | AlKhal.SecOps | [Read More](https://medium.com/p/fc8bf0b501d9) |
+| Sat, 02 May 2026 17:43:08 GMT | From ClickOps to DevOps: What Terraform Showed Me About My Own Azure Policy | Joseph A. M. | [Read More](https://medium.com/p/b15832997bbf) |
+| Sat, 02 May 2026 17:42:24 GMT | How to Choose the Right Security Guard Company in Edmonton for Your Business | Griffin Security | [Read More](https://medium.com/p/0796d3ebe604) |
+| Sat, 02 May 2026 17:37:25 GMT | The Cloud Visibility Gap Is Getting Organisations Breached: What the Numbers Actually Show | Sai Teja | [Read More](https://medium.com/p/34c8c1201060) |
+| Sat, 02 May 2026 17:32:26 GMT | سيكولوجية البيانات: كيف نستنطق الأدلة الرقمية لإثبات القصد الجنائي؟ | Layan Albattah | [Read More](https://medium.com/p/97195e232b04) |
+| Sat, 02 May 2026 17:31:01 GMT | Why the MITRE ATT&CK IaaS Matrix is one of the most underused tools in cloud detection | Fernando (Sh4dowBR) Alencar | [Read More](https://medium.com/p/40bfcdbd0ec2) |
+| Sat, 02 May 2026 17:29:47 GMT | The “Invite Only” Loophole That Led to a $3,000 Payout | Tanvi Chauhan | [Read More](https://medium.com/p/53aff5cca73a) |
+| Sat, 02 May 2026 17:24:20 GMT | Why Claude Mythos Should Terrify You | Aditya Dhandi | [Read More](https://medium.com/p/cb3bfdf63296) |
+| Sat, 02 May 2026 17:21:50 GMT | APT41 Targeting Pharmaceutical Sector: Log4Shell to Domain Compromise | Andrey Pautov | [Read More](https://medium.com/p/9e4c1ba9dad6) |
 | Sat, 02 May 2026 17:18:27 GMT | تێپەرێنم eWPTX چۆن توانیم تاقیکردنەوەی | error-01 | [Read More](https://medium.com/p/4aef2189cf8b) |
 | Sat, 02 May 2026 17:14:37 GMT | We Didn’t Get Hacked… We Left the Door Open The Real Cybersecurity Threat Landscape of 2023–2026 | NetNuggets | [Read More](https://medium.com/p/1c26038cbbbe) |
 | Sat, 02 May 2026 17:10:18 GMT | The 11pm Audit: Why Most GRC Platforms Fail You at the Worst Moment | Olumide Abayomi | [Read More](https://medium.com/p/fbedb85b5456) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 10:46:36 GMT | The Command Pattern Is How You Stop AI Agents From Doing Stupid Things | The Atomic Architect | [Read More](https://medium.com/p/bae8a880b9bf) |
 | Sat, 02 May 2026 10:45:42 GMT | What a Plane’s Fatal Crashes, Chess, and LLMs Make Humans So Important | Lm | [Read More](https://medium.com/p/0e3e3436c90a) |
 | Sat, 02 May 2026 10:44:02 GMT | From Corporate IT to Building Something Better: The Synogen Story | Synogen Solutions | [Read More](https://medium.com/p/2031024e9c46) |
-| Sat, 02 May 2026 10:41:25 GMT | E-GOVERNANCE | Mohjubba | [Read More](https://medium.com/p/6e3b818e811e) |
-| Sat, 02 May 2026 10:35:21 GMT | The Cost of Pushing Through When I’m Not Okay | The Mellow Pace | [Read More](https://medium.com/p/0a2b5c9ab056) |
-| Sat, 02 May 2026 10:32:56 GMT | Vercel Won’t Be the Last. Here’s Every Breach That Should Have Warned Us. | Gauraw Singh | [Read More](https://medium.com/p/5c16788e1b7e) |
-| Sat, 02 May 2026 10:32:53 GMT | My Journey to GCC 2026 | pipe2bot | [Read More](https://medium.com/p/22b529251a54) |
-| Sat, 02 May 2026 10:29:20 GMT | The Memory Glimpses | Reflections from Z | [Read More](https://medium.com/p/fdd0a1807ed5) |
-| Sat, 02 May 2026 10:23:30 GMT | Three days into building a log scanner, I stopped trusting my own alerts | judeh0747 | [Read More](https://medium.com/p/f8bf94250dac) |
-| Sat, 02 May 2026 10:23:15 GMT | My Friend Got Hacked — Triage, Chain Analysis, Report | 0rickyy. | [Read More](https://medium.com/p/92286d178351) |
-| Sat, 02 May 2026 10:21:49 GMT | One git push. Millions of Repositories. Full Server Access. | Precogs AI | [Read More](https://medium.com/p/42a00d465e4b) |
-| Sat, 02 May 2026 10:21:45 GMT | From Learning to Deployment: Building My Intrusion Detection System on AWS | Sentia Technologies limited | [Read More](https://medium.com/p/22e303d06284) |
-| Sat, 02 May 2026 10:12:01 GMT | Cybersecurity Course in Telugu: Skills You Will Learn | G | [Read More](https://medium.com/p/e387baefb260) |
