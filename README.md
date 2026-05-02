@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 15:14:37 GMT | Signature Bypass via Control Character Injection → Arbitrary File Access | Ussef | [Read More](https://medium.com/p/1520267e5448) |
+| Sat, 02 May 2026 15:14:09 GMT | local file inclusion part-2 | 0x4rt1st | [Read More](https://medium.com/p/9999b4a7e41b) |
+| Sat, 02 May 2026 15:09:31 GMT | Investigation: Malicious Macro and Layered Payload Deobfuscation | Anandakrishnan S | [Read More](https://medium.com/p/cd726116d02b) |
+| Sat, 02 May 2026 15:09:28 GMT | picoCTF Writeup: Old Sessions (Easy) | vulnhunter | [Read More](https://medium.com/p/ce5c030f7623) |
+| Sat, 02 May 2026 15:02:42 GMT | AiTM Phishing Attacks Target Enterprise Platforms with Advanced Session Hijacking Techniques | Jas | [Read More](https://medium.com/p/30d3c2370738) |
+| Sat, 02 May 2026 15:01:01 GMT | ¿La vulnerabilidad del año hasta ahora? | Tiziano Mass | [Read More](https://medium.com/p/004299fec589) |
+| Sat, 02 May 2026 15:00:39 GMT | How Hackers Are Turning Websites’ Chatbots Into Their Free LLM API (And How to Stop It) | Kavinda Mihiran | [Read More](https://medium.com/p/5e6042554fa3) |
+| Sat, 02 May 2026 14:52:32 GMT | How To Approach a DORA Gap Analysis | Kehinde Babajide | [Read More](https://medium.com/p/3d940cb22cd5) |
+| Sat, 02 May 2026 14:45:41 GMT | Introduction & Phases Of Pentesting : From Structured Recon to Exploit Chaining ☠️ | ~$ | [Read More](https://medium.com/p/0f5676d584ca) |
+| Sat, 02 May 2026 14:41:43 GMT | Network Isolation in ADLS Gen2: Why “Disabled” Doesn’t always mean “Isolated” | Priyans Singh | [Read More](https://medium.com/p/beee9d8bf9cd) |
+| Sat, 02 May 2026 14:34:30 GMT | Hi everyone | Onwuegbuchulemvic | [Read More](https://medium.com/p/f85740df7cf6) |
+| Sat, 02 May 2026 14:31:20 GMT | From Container User to Node Root: Chaining Copy-Fail (CVE-2026–31431) in Kubernetes | Dr. Saket Acharya | [Read More](https://medium.com/p/7af2f04492ad) |
 | Sat, 02 May 2026 14:24:34 GMT | Analytic Tools | madsl0w | [Read More](https://medium.com/p/07661c4020de) |
 | Sat, 02 May 2026 14:22:54 GMT | Vulnerability in Cyber Security | madsl0w | [Read More](https://medium.com/p/887c3f6591ff) |
 | Sat, 02 May 2026 14:15:31 GMT | Mahdi Najeh Hassan: My IT Learning Journey | Mahdi Hassan Business | [Read More](https://medium.com/p/0884216bc2b3) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 08:24:45 GMT | Pickle Rick: From Source Code Leak to Root via RCE and Sudo Misconfiguration | Enryuuu | [Read More](https://medium.com/p/ea1d9f2b56ee) |
 | Sat, 02 May 2026 08:20:05 GMT | COPY-FAIL (Local Privilege Escalation) | Arka Priya Das | [Read More](https://medium.com/p/ddcc92ceace0) |
 | Sat, 02 May 2026 08:16:14 GMT | Cyber War Cannot and Will Not Happen…Or Will It? | James Sanders | [Read More](https://medium.com/p/896a20f35a00) |
-| Sat, 02 May 2026 08:08:53 GMT | Why People Trust Rumors More Than Institutions | Shayaq Ul Abeer | [Read More](https://medium.com/p/08fc8a8f4e05) |
-| Sat, 02 May 2026 08:07:35 GMT | How to fix the “G101: Potential hardcoded credentials (gosec)” | Marek Skopowski | [Read More](https://medium.com/p/53952491670e) |
-| Sat, 02 May 2026 08:07:00 GMT | OWASP LLM05:2025 Improper Output Handling | Tiago Silva | [Read More](https://medium.com/p/6654178b5c51) |
-| Sat, 02 May 2026 08:03:22 GMT | The Financial Kill-Switch: Why Your Bank Balance Is Now a Geopolitical Target | The Money Glitch | [Read More](https://medium.com/p/1abfb66e8eac) |
-| Sat, 02 May 2026 08:01:30 GMT | CVE-2026–31431 — Copy Fail: A Page Cache Bug That Gave Me Root | Dr.Lies | [Read More](https://medium.com/p/66a20e0c8270) |
-| Sat, 02 May 2026 08:00:17 GMT | City Council — Hacksmarter Writeup | byL0r3t | [Read More](https://medium.com/p/5ee0f8a11dde) |
-| Sat, 02 May 2026 07:57:46 GMT | Ethical Hacking Course: Career Scope, Roles & Future Growth | Manjot | [Read More](https://medium.com/p/e5b0168b1e53) |
-| Sat, 02 May 2026 07:56:22 GMT | Insecure Broadcast Receiver — Mobile Apps Security Static Analysis Part V | ./Rey~ | [Read More](https://medium.com/p/d4367abbdf1e) |
-| Sat, 02 May 2026 07:52:01 GMT | The Bugs That Actually Hurt You Aren’t the Fancy Ones | Satyam Pathania | [Read More](https://medium.com/p/07d17b5eac16) |
-| Sat, 02 May 2026 07:48:10 GMT | Ha-Natraj — LFI Log Poisoning + Apache2 User Hijack + sudo nmap to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/dbbd1fa12bee) |
-| Sat, 02 May 2026 07:46:16 GMT | PART 2: I Published a Scam Expose. | freerave | [Read More](https://medium.com/p/bc420e0bbc00) |
-| Sat, 02 May 2026 07:42:26 GMT | Skill-Based Hiring Is Replacing Traditional Recruitment in 2026 | Xwtempsolutions | [Read More](https://medium.com/p/b31718493034) |
