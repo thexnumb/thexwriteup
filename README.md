@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 20:28:46 GMT | Mythos Is Exposing the Security Debt We Can No Longer Ignore | Amie | [Read More](https://medium.com/p/b190f71db9be) |
+| Sat, 02 May 2026 20:25:37 GMT | God Wants to Break My Heart | CamDevo | [Read More](https://medium.com/p/fc33b490eaa5) |
+| Sat, 02 May 2026 20:22:18 GMT | Why I Don’t Trust AI Models I Can’t Run Offline | Devon Clemente | [Read More](https://medium.com/p/59a49cfe11f3) |
+| Sat, 02 May 2026 20:11:01 GMT | How a $292M Exploit Redefined Cross-Chain Security: The KelpDAO Incident | rdin777 | [Read More](https://medium.com/p/4b4edd4105e9) |
+| Sat, 02 May 2026 20:06:47 GMT | Building a SOC Lab from scratch | Srudraksh | [Read More](https://medium.com/p/c96cd79aab6d) |
+| Sat, 02 May 2026 20:04:47 GMT | Cyber Attacks on Small Businesses | Kiran Limbu Phudong | [Read More](https://medium.com/p/4c2faca00d38) |
+| Sat, 02 May 2026 20:01:19 GMT | The Phantom in the Server: Anatomy of a Modern Web Hijack | Pratik Gurav | [Read More](https://medium.com/p/e7c2d793e1fc) |
+| Sat, 02 May 2026 20:01:01 GMT | I Thought Learning Cybersecurity Was About Tools… Then AI Changed Everything | Daniel Santiago | [Read More](https://medium.com/p/7c05b7fb731d) |
+| Sat, 02 May 2026 19:56:01 GMT | Exception workflows that keep platform teams sane | Practical IT | [Read More](https://medium.com/p/ed27f2e59e5a) |
+| Sat, 02 May 2026 19:55:39 GMT | Copy Fail (CVE-2026–31431) Vulnerability: Architectural Flaws in the Linux Crypto API | Enes Buyuk | [Read More](https://medium.com/p/d47cd6650c8e) |
+| Sat, 02 May 2026 19:53:46 GMT | TryHackMe - AWS Security Logging - WriteUp | Axoloth | [Read More](https://medium.com/p/c0950d64e08e) |
+| Sat, 02 May 2026 19:32:33 GMT | Meet Chepe. He Opens Doors | DuckWrites | [Read More](https://medium.com/p/a735c241403f) |
+| Sat, 02 May 2026 19:30:56 GMT | How I Handle Secrets in DevOps (Without Creating Security Risks) | Puja Maheshvari | [Read More](https://medium.com/p/6998d18a313d) |
 | Sat, 02 May 2026 19:21:53 GMT | An Extraordinary Grace: Remembering Stewart Baker | Eric Luellen | [Read More](https://medium.com/p/c9962108002a) |
 | Sat, 02 May 2026 19:21:22 GMT | AI and Cyber Risk: Are We Really Prepared? | Sayan Mukherjee | [Read More](https://medium.com/p/f353eee1ec3d) |
 | Sat, 02 May 2026 19:20:53 GMT | Sentrick — The Future of Smart Tracking | Sentrickapp.com | [Read More](https://medium.com/p/e0b2312516b8) |
@@ -20,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 19:17:54 GMT | Understanding Vulnerabilities: The Chinks in Our Digital Armor | Yusif Alizade | [Read More](https://medium.com/p/a5112699a664) |
 | Sat, 02 May 2026 19:08:51 GMT | Teknisi CCTV Kotabaru Profesional | Cctvupdateinc | [Read More](https://medium.com/p/27fa7d64b0cd) |
 | Sat, 02 May 2026 19:07:38 GMT | An Extraordinary Grace: Remembering Stewart Baker | Eric Luellen | [Read More](https://medium.com/p/fe5c5529e1cb) |
+| Sat, 02 May 2026 19:01:33 GMT | The TikTok Trap: How Pakistani Bank Employees are Live-Streaming the Keys to the Vault | Israr Ali | [Read More](https://medium.com/p/5c7ab5c75885) |
 | Sat, 02 May 2026 18:54:51 GMT | Proving Grounds -Pelican - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/37e94deee7dc) |
 | Sat, 02 May 2026 18:50:49 GMT | The Next Trillion Users Won’t Be Human: Why the Web Needs a Zero-Trust Agent Protocol | IBN-SA'EED | [Read More](https://medium.com/p/13a3da734f52) |
 | Sat, 02 May 2026 18:49:38 GMT | Analysing Volatile Memory Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/1ee49055f0c9) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 13:25:29 GMT | Solana Security in the Anchor V2 Era: Where the Bugs Moved | Frank Castle | [Read More](https://medium.com/p/3050adc39412) |
 | Sat, 02 May 2026 13:23:05 GMT | Credential Stuffing picoCTF Writeup | mayhack | [Read More](https://medium.com/p/b6f74dfffe43) |
 | Sat, 02 May 2026 13:21:03 GMT | Technofeudalism — What Killed Capitalism | Claus-Dieter Volko | [Read More](https://medium.com/p/3fd459e93dce) |
-| Sat, 02 May 2026 13:11:50 GMT | Skills Assessment Part 1(Login brute force) | Natitekle | [Read More](https://medium.com/p/eb4e0697989c) |
-| Sat, 02 May 2026 13:02:20 GMT | API Reconnaissance for Beginners — A Step by Step Breakdown | Sana Jalil | [Read More](https://medium.com/p/3b0777d9d7c3) |
-| Sat, 02 May 2026 12:58:24 GMT | Understanding CSRF Vulnerability (No Defenses) with Practical Example | Shayaan Khan | [Read More](https://medium.com/p/08805f7ae3cd) |
-| Sat, 02 May 2026 12:56:24 GMT | Summit — TryHackMe | Nway Nway Zay Ya | [Read More](https://medium.com/p/c30324519fb1) |
-| Sat, 02 May 2026 12:53:03 GMT | ফোন হারিয়ে গেলে কী করবেন? প্রথম ১০ মিনিটের জরুরি গাইড | Ekramul - Bangla Tech Zone | [Read More](https://medium.com/p/9b9f541cc34a) |
-| Sat, 02 May 2026 12:46:38 GMT | Threat Hunting: A Proactive Approach to Cyber Threat Detection — Methods, Tools & Tips for 2026 | Vahid Ali CyberSecurity | [Read More](https://medium.com/p/b98341037195) |
-| Sat, 02 May 2026 12:45:05 GMT | How Students Are Accidently Leaking API Keys on GitHub | Kartik Pant | [Read More](https://medium.com/p/4834a272159e) |
-| Sat, 02 May 2026 12:35:05 GMT | Lian-Yu TryHackMe Walkthrough | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/686059d4ff53) |
-| Sat, 02 May 2026 12:30:43 GMT | PicoCTF — Hidden in Plainsight [Forensics] | Achrafhamoudax | [Read More](https://medium.com/p/aa2a25f54419) |
-| Sat, 02 May 2026 12:29:01 GMT | Prompt Injection in LLMs: Why Your AI Needs Trust Boundaries, Not Just Better Prompts | Rohan Chauhan | [Read More](https://medium.com/p/83812c198b9a) |
-| Sat, 02 May 2026 12:27:30 GMT | Online Extortion/Hacking group called “TXRT” is targeting children, companies and governments. | John Williams | [Read More](https://medium.com/p/38cf29273bf8) |
-| Sat, 02 May 2026 12:23:43 GMT | A Small Authentication Fix That Taught Me a Security Lesson | Rashad | [Read More](https://medium.com/p/2744f1828798) |
-| Sat, 02 May 2026 12:14:23 GMT | Sea Turtle APT: Turkish Aligned Cyber Espionage Through DNS Hijacking | Awwal Shabi | [Read More](https://medium.com/p/1ab55825a5e6) |
-| Sat, 02 May 2026 12:05:38 GMT | CYBERDUDEBIVASH SENTINEL APEX Enterprise Threat Intelligence API — The Future of Cybersecurity is… | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/cfc7c601be7d) |
