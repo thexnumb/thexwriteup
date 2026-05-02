@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 04:31:17 GMT | Managing Legacy Data Under DPDPA: 7 Clear Steps Every Business Should Follow | Securis360 Inc. | [Read More](https://medium.com/p/23c53beb4279) |
+| Sat, 02 May 2026 04:31:01 GMT | Bypassing 2FA via State Overwrite: A Tale of Logic Flaws and WAF Evasion | Hacker MD | [Read More](https://medium.com/p/7e8c15a76282) |
+| Sat, 02 May 2026 04:26:40 GMT | Rethinking Cybersecurity as Core Business Protection Strategy | JC Gaillard | [Read More](https://medium.com/p/b441f31c4478) |
+| Sat, 02 May 2026 04:25:42 GMT | How did i pass eWPTX v3 (eLearnSecurity Web Application Penetration Tester eXtreme) | error-01 | [Read More](https://medium.com/p/ad54eafc4933) |
+| Sat, 02 May 2026 04:20:21 GMT | Your Biggest Cyber Risk Isn’t Attackers, It’s Your Architecture | Faraz Ishaq | [Read More](https://medium.com/p/d629502cd027) |
+| Sat, 02 May 2026 04:19:59 GMT | The Multisig Problem That Nobody’s Really Talking About | Septianwahyu | [Read More](https://medium.com/p/677f3632eed9) |
+| Sat, 02 May 2026 04:19:08 GMT | NSA, Anthropic’s Mythos, and Microsoft Code | David SEHYEON Baek | [Read More](https://medium.com/p/7d9877bf8e39) |
+| Sat, 02 May 2026 04:16:42 GMT | Adventures at DEF CON Singapore 2026: HTX CTF Finals and the Kampung Spirit | Cyd Tseng | [Read More](https://medium.com/p/9a78d3f74527) |
+| Sat, 02 May 2026 03:52:48 GMT | Cyborg — THM Walkthrough | r3dkahili | [Read More](https://medium.com/p/ea0bc3abe1a6) |
+| Sat, 02 May 2026 03:41:01 GMT | Senior PHP Developers Make These Security Mistakes Too — And Nobody Talks About It | Jayesh Paunikar | [Read More](https://medium.com/p/b6c581a30035) |
+| Sat, 02 May 2026 03:24:20 GMT | Not Just Another Conference: Real Lessons from DEFCON Singapore | seif | [Read More](https://medium.com/p/03cc78158e39) |
+| Sat, 02 May 2026 03:22:57 GMT | Tempest Attack: Seeing Through Walls | Fabio S. Monreal | [Read More](https://medium.com/p/afa3c31dfd40) |
+| Sat, 02 May 2026 03:11:44 GMT | The Complete Wireshark + AI Troubleshooting Guide: Every Real-World Scenario Covered | CyberBruhArmy | [Read More](https://medium.com/p/8433722b5da0) |
+| Sat, 02 May 2026 03:03:29 GMT | Implementasi WebSocket Node.Js pada Game Online Tic Tac Toe | Ari Cakra | [Read More](https://medium.com/p/5be8088ba8e5) |
+| Sat, 02 May 2026 02:50:00 GMT | From Managed Platform to VPS: How I Went From Deploying to Understanding | Subham Karmakar | [Read More](https://medium.com/p/652523ec694c) |
+| Sat, 02 May 2026 01:44:57 GMT | Why SaaS Startups Need External Attack Surface Monitoring Before Launch | Rhythm Bhattarai | [Read More](https://medium.com/p/4a47b96f3383) |
+| Sat, 02 May 2026 01:17:39 GMT | Malware Development with NIM — Blue Team Special | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/f038f54320e6) |
 | Sat, 02 May 2026 00:46:01 GMT | Dating After 40: 3 Types of Men Midlife Women Automatically Reject | Lilyana | [Read More](https://medium.com/p/dc29d9ce8478) |
 | Sat, 02 May 2026 00:42:39 GMT | iPhone Ultra — Foldable iPhone? | Everclear | [Read More](https://medium.com/p/cb8537fee571) |
 | Sat, 02 May 2026 00:42:17 GMT | I Thought I Understood How Windows Logs You In. I Was Wrong. | Elher | [Read More](https://medium.com/p/e8f0a6336a21) |
@@ -96,20 +113,3 @@ Success in bug bounty hunting isn’t just about the tools you… | Argha Sarkar
 | Fri, 01 May 2026 18:17:21 GMT | What the OSI Model Is and Why Every Cybersecurity Professional Needs to Know It | Leonard Ward | [Read More](https://medium.com/p/063e86b7508b) |
 | Fri, 01 May 2026 18:16:01 GMT | Security Isn’t Just Tools: Designing Protection for a Real-World Network | Daniel Santiago | [Read More](https://medium.com/p/7e8b5697ced6) |
 | Fri, 01 May 2026 18:07:44 GMT | How I Turned $3 Into 8 Paid Bugs | Saif Eldin | [Read More](https://medium.com/p/b81c5384465c) |
-| Fri, 01 May 2026 18:00:35 GMT | Copy Fail: The 732-Byte Exploit That Roots Nearly a Decade of Linux Systems | Re: News | [Read More](https://medium.com/p/21a765257763) |
-| Fri, 01 May 2026 17:58:44 GMT | I Failed TryHackMe’s PT1 Thrice Before Passing, Here’s What No One Tells You | Shubhomrawat | [Read More](https://medium.com/p/16c266b49307) |
-| Fri, 01 May 2026 17:54:19 GMT | #FinTech Application Security: Key Risks & Best Practices | Abu Talha | [Read More](https://medium.com/p/4d8651fe5cd0) |
-| Fri, 01 May 2026 17:54:02 GMT | Digital Infidelity: The “Underground” Life Hidden in Plain Sight | EncryptedLife | [Read More](https://medium.com/p/5036a333a9d5) |
-| Fri, 01 May 2026 17:52:49 GMT | You Patched cPanel. You May Still Be Owned: PAM Hooking After CVE-2026-41940 | merdw | [Read More](https://medium.com/p/648a28f15525) |
-| Fri, 01 May 2026 17:45:01 GMT | Who Sent You? Solving the Agent Identity Crisis with Highflame ZeroID | Justin Albrethsen | [Read More](https://medium.com/p/fb6dd59440e9) |
-| Fri, 01 May 2026 17:43:46 GMT | TryHackMe (THM) MD2PDF Walkthrough | Mann Diwani | [Read More](https://medium.com/p/b495829d5f7c) |
-| Fri, 01 May 2026 17:38:55 GMT | The Uniformed Guard Problem: Why AI Agent Sandboxes Need Identity, Not Just Policy | Justin Albrethsen | [Read More](https://medium.com/p/d6764e58fcad) |
-| Fri, 01 May 2026 17:36:38 GMT | How I Discovered 5 broken Access Control Bugs in a Single Web Application | 0xyz | [Read More](https://medium.com/p/44d95652872f) |
-| Fri, 01 May 2026 17:34:26 GMT | Hacker Summer Camp 2026: How to Plan 10 Days in Las Vegas Without Going Broke | Hello Lasvegastrade | [Read More](https://medium.com/p/38259011fa36) |
-| Fri, 01 May 2026 17:25:06 GMT | GDG CTF 2026 Write-up | Akash N A | [Read More](https://medium.com/p/b542b1e84ca8) |
-| Fri, 01 May 2026 17:23:15 GMT | The Cracks in the Concrete of My Surroundings | Fatimaiftikhar | [Read More](https://medium.com/p/ee9e63c97984) |
-| Fri, 01 May 2026 17:21:03 GMT | Shrinking (and Weaponizing) the Information Space | Douglas Giles, PhD w/o BS | [Read More](https://medium.com/p/4b2c1ff4b68b) |
-| Fri, 01 May 2026 17:20:06 GMT | PQMRS: A Multi-Criteria Model for Quantum Attack Stress Testing of Blockchain Chains | Jadecarnage | [Read More](https://medium.com/p/ccfb26f78391) |
-| Fri, 01 May 2026 17:18:05 GMT | Misconfiguration In Wordpress “wp-cron.php” to peform DOS Attack | AmrMahmoud (TURBO) | [Read More](https://medium.com/p/ada4f28c9dfb) |
-| Fri, 01 May 2026 17:15:29 GMT | Automating threat detection and response with Wazuh + Slack + VirusTotal (Part 3) | Augustine Sito | [Read More](https://medium.com/p/2d37cdaab797) |
-| Fri, 01 May 2026 17:09:08 GMT | An AI Coding Agent Deleted a Startup’s Entire Database in 9 Seconds. Then It Wrote a Confession. | Krupesh Raut | [Read More](https://medium.com/p/e47a558330b4) |
