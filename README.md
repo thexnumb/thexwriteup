@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 19:21:53 GMT | An Extraordinary Grace: Remembering Stewart Baker | Eric Luellen | [Read More](https://medium.com/p/c9962108002a) |
+| Sat, 02 May 2026 19:21:22 GMT | AI and Cyber Risk: Are We Really Prepared? | Sayan Mukherjee | [Read More](https://medium.com/p/f353eee1ec3d) |
+| Sat, 02 May 2026 19:20:53 GMT | Sentrick — The Future of Smart Tracking | Sentrickapp.com | [Read More](https://medium.com/p/e0b2312516b8) |
+| Sat, 02 May 2026 19:19:39 GMT | The Cyber-Sleuths: Static and Dynamic Analysis Tools | Yusif Alizade | [Read More](https://medium.com/p/a21b711da7cb) |
+| Sat, 02 May 2026 19:18:00 GMT | From Unauthenticated RCE to Root — Exploiting CVE-2017–11610 | t4nu1 | [Read More](https://medium.com/p/226f1406c6d9) |
+| Sat, 02 May 2026 19:17:54 GMT | Understanding Vulnerabilities: The Chinks in Our Digital Armor | Yusif Alizade | [Read More](https://medium.com/p/a5112699a664) |
+| Sat, 02 May 2026 19:08:51 GMT | Teknisi CCTV Kotabaru Profesional | Cctvupdateinc | [Read More](https://medium.com/p/27fa7d64b0cd) |
+| Sat, 02 May 2026 19:07:38 GMT | An Extraordinary Grace: Remembering Stewart Baker | Eric Luellen | [Read More](https://medium.com/p/fe5c5529e1cb) |
+| Sat, 02 May 2026 18:54:51 GMT | Proving Grounds -Pelican - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/37e94deee7dc) |
+| Sat, 02 May 2026 18:50:49 GMT | The Next Trillion Users Won’t Be Human: Why the Web Needs a Zero-Trust Agent Protocol | IBN-SA'EED | [Read More](https://medium.com/p/13a3da734f52) |
+| Sat, 02 May 2026 18:49:38 GMT | Analysing Volatile Memory Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/1ee49055f0c9) |
+| Sat, 02 May 2026 18:46:42 GMT | The «Hidden in Plain Sight» Strategy: How Widgets and Stealth Tactics Are Used for Digital… | EncryptedLife | [Read More](https://medium.com/p/822f95d4c5e9) |
+| Sat, 02 May 2026 18:44:01 GMT | From Prompt Injection to XSS: My First Night Attacking AI and Web Systems | Nilanjan Chowdhury | [Read More](https://medium.com/p/8255a6ecc45f) |
+| Sat, 02 May 2026 18:26:11 GMT | Find SQL injection with burp Suite scanner | Awais Nazeer | [Read More](https://medium.com/p/41c6c5910d84) |
+| Sat, 02 May 2026 18:24:41 GMT | Day 4: DNS (Domain Name System). The Internet’s Phone Book | Sabrina Rashid | [Read More](https://medium.com/p/ed91ec364fd1) |
+| Sat, 02 May 2026 18:23:55 GMT | I’ve Been Inside Enterprise AI Deployments. The Security Gap Is Bigger Than Anyone Admits. | Saivarma Dantuluri | [Read More](https://medium.com/p/03776ac1b961) |
+| Sat, 02 May 2026 18:23:21 GMT | Wazuh-FIM, Log Collection, Groups | Garibtagizade | [Read More](https://medium.com/p/64634a2427e5) |
+| Sat, 02 May 2026 18:21:41 GMT | An AI Agent Could Compromise Your Cloud in 4 Minutes. I Mapped Exactly How. | Dishanth C A | [Read More](https://medium.com/p/f205808a3d9a) |
+| Sat, 02 May 2026 18:09:03 GMT | Bir Web Uygulamasının Sunucu Dosyalarına Erişim Sürecinde Arka Planda Neler Gerçekleşiyor? | Şahinde Ceren OMRAK | [Read More](https://medium.com/p/04a9a4a5192e) |
+| Sat, 02 May 2026 18:07:42 GMT | The Mechanics of Deterrence: What the US Airlift Means for Iran | Golda Mizrahi | [Read More](https://medium.com/p/c9aa63f2013a) |
 | Sat, 02 May 2026 18:02:00 GMT | If AI Can Find the Bugs, Why Are They Still There? | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/7d471370d5d8) |
 | Sat, 02 May 2026 17:59:29 GMT | Learning SOC the Right Way: Why Log Analysis Matters More Than You Think | AlKhal.SecOps | [Read More](https://medium.com/p/fc8bf0b501d9) |
 | Sat, 02 May 2026 17:43:08 GMT | From ClickOps to DevOps: What Terraform Showed Me About My Own Azure Policy | Joseph A. M. | [Read More](https://medium.com/p/b15832997bbf) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 12:23:43 GMT | A Small Authentication Fix That Taught Me a Security Lesson | Rashad | [Read More](https://medium.com/p/2744f1828798) |
 | Sat, 02 May 2026 12:14:23 GMT | Sea Turtle APT: Turkish Aligned Cyber Espionage Through DNS Hijacking | Awwal Shabi | [Read More](https://medium.com/p/1ab55825a5e6) |
 | Sat, 02 May 2026 12:05:38 GMT | CYBERDUDEBIVASH SENTINEL APEX Enterprise Threat Intelligence API — The Future of Cybersecurity is… | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/cfc7c601be7d) |
-| Sat, 02 May 2026 12:05:05 GMT | 10 Trusted Commercial Pest Control Specialists in Vancouver, Canada | TOP Companies | [Read More](https://medium.com/p/b6f0b8be7f2f) |
-| Sat, 02 May 2026 11:48:24 GMT | Copy-Fail (CVE-2026-31431): From Low-Privileged Shell to Root in Seconds | Aju Deb | [Read More](https://medium.com/p/1b18bf525854) |
-| Sat, 02 May 2026 11:46:04 GMT | Top 10 Cybersecurity Tools Every Beginner Should Know in 2026 | Ramyaabharathi | [Read More](https://medium.com/p/fbb69f9d6481) |
-| Sat, 02 May 2026 11:45:18 GMT | Why we built Aegis-KMS in Scala 3 + Pekko and why it’s a security argument, not an aesthetic one | Sharma B | [Read More](https://medium.com/p/5064a351fc08) |
-| Sat, 02 May 2026 11:42:36 GMT | Construction Site Security — Complete Guide for Safety & Protection | g4usecurity | [Read More](https://medium.com/p/d2ef3467e94a) |
-| Sat, 02 May 2026 11:32:30 GMT | Secure Your Website Without Touching UI | TheCraftedDev | [Read More](https://medium.com/p/e5eb5840dedf) |
-| Sat, 02 May 2026 11:31:05 GMT | Systems Hardening with Patch Manager via AWS Systems Manager | Exousia Niemba | [Read More](https://medium.com/p/a0684bf57ae7) |
-| Sat, 02 May 2026 11:30:43 GMT | ☢️ The Web2.5 Kill Chain (Part 3): The Final Override | Tabrez Mukadam | [Read More](https://medium.com/p/74c4eb491ed3) |
-| Sat, 02 May 2026 11:28:11 GMT | The Ghost in the Machine: Why Your AI Agents Need a Security Control Plane | Bahul Harikumar | [Read More](https://medium.com/p/1ad8aaadc660) |
-| Sat, 02 May 2026 11:24:58 GMT | How I Ended Up in the WHO Hall of Fame via Google Dorking | Gouri Sankar A | [Read More](https://medium.com/p/f85d2ebf47f4) |
-| Sat, 02 May 2026 11:20:33 GMT | 380 Applications Later: Why I Refuse to Give Up on My Dreams | Melissa Herb | [Read More](https://medium.com/p/e4a900b27d50) |
-| Sat, 02 May 2026 11:14:48 GMT | How I Earned 100 CHF Finding a Real-World Vulnerability | DOD cyber solutions | [Read More](https://medium.com/p/15aa73293eb3) |
-| Sat, 02 May 2026 11:14:09 GMT | Bridging the Skills Gap: How Technovalley is Shaping a Future-Ready Workforce | Abilash Babu | [Read More](https://medium.com/p/cc763b799519) |
-| Sat, 02 May 2026 11:08:05 GMT | 10 Days, 39 Public CVEs: The Real Signal Behind AI-Assisted Vulnerability Research | FengNing_Architect | [Read More](https://medium.com/p/eaa0903de212) |
-| Sat, 02 May 2026 11:05:19 GMT | I Tricked an AI Into Giving Me Exactly What It Said It Wouldn’t | Botdriven | [Read More](https://medium.com/p/fbfccb122f2c) |
-| Sat, 02 May 2026 11:02:42 GMT | Facebook Data Breach: Complete Guide to Causes, Risks, and Protection | DeXpose | [Read More](https://medium.com/p/fac982f7eb36) |
-| Sat, 02 May 2026 10:58:25 GMT | Best Cyber Security Course After 12th — Delhi To Do This Summer (2026) | Varun Papnai | [Read More](https://medium.com/p/c6764d53648f) |
-| Sat, 02 May 2026 10:46:36 GMT | The Command Pattern Is How You Stop AI Agents From Doing Stupid Things | The Atomic Architect | [Read More](https://medium.com/p/bae8a880b9bf) |
-| Sat, 02 May 2026 10:45:42 GMT | What a Plane’s Fatal Crashes, Chess, and LLMs Make Humans So Important | Lm | [Read More](https://medium.com/p/0e3e3436c90a) |
-| Sat, 02 May 2026 10:44:02 GMT | From Corporate IT to Building Something Better: The Synogen Story | Synogen Solutions | [Read More](https://medium.com/p/2031024e9c46) |
