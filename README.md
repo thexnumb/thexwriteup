@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 14:24:34 GMT | Analytic Tools | madsl0w | [Read More](https://medium.com/p/07661c4020de) |
+| Sat, 02 May 2026 14:22:54 GMT | Vulnerability in Cyber Security | madsl0w | [Read More](https://medium.com/p/887c3f6591ff) |
+| Sat, 02 May 2026 14:15:31 GMT | Mahdi Najeh Hassan: My IT Learning Journey | Mahdi Hassan Business | [Read More](https://medium.com/p/0884216bc2b3) |
+| Sat, 02 May 2026 14:11:07 GMT | A Developer’s Guide to Secure Password Storage | Rajalaxmi | [Read More](https://medium.com/p/884bc7a68a8d) |
+| Sat, 02 May 2026 14:04:08 GMT | Skills Assessment Part 2(Login brute force) | Natitekle | [Read More](https://medium.com/p/7f00d0c3d1dc) |
+| Sat, 02 May 2026 14:03:35 GMT | picoCTF 2022 Writeup — basic-mod1 (Cryptography) | Kishor K. | [Read More](https://medium.com/p/ee3490643517) |
+| Sat, 02 May 2026 14:02:00 GMT | I Received an Official Bug Bounty Certificate from a Major Payment Platform — Here Is What It Took | Krithick | [Read More](https://medium.com/p/309f4d638d62) |
+| Sat, 02 May 2026 14:01:14 GMT | The Art of Finding Critical Vulnerabilities: Where Curiosity Beats Automation | JineshC13 | [Read More](https://medium.com/p/957ff8a8ef77) |
+| Sat, 02 May 2026 14:01:02 GMT | Threat Hunting for Network Based Attacks - LetsDefend [Part 2] | 0verRida | [Read More](https://medium.com/p/3817c9927dfc) |
+| Sat, 02 May 2026 14:01:01 GMT | Who Pays When the AI Apologizes? The Hidden Danger of Agentic Super-Apps | Jose Baena Cobos | [Read More](https://medium.com/p/927621e5e186) |
+| Sat, 02 May 2026 13:57:17 GMT | A Backdoor in the Jenga stack of OpenSource projects | Madhavakumar D | [Read More](https://medium.com/p/f7ef68fec3ed) |
+| Sat, 02 May 2026 13:40:59 GMT | The Hidden Logic Behind AI Systems (And Why Most People Misunderstand Them) | ByteTheory | [Read More](https://medium.com/p/d461edfa0158) |
+| Sat, 02 May 2026 13:38:46 GMT | Iran Kena Sabotase Siber, Kerentanan Internet RI Jadi Sorotan | KOMAHI UNSOED | [Read More](https://medium.com/p/73c9450cf86e) |
+| Sat, 02 May 2026 13:38:20 GMT | Session Hijacking in Web App: Exploitation, Impact, and Prevention | Sanskriti | [Read More](https://medium.com/p/60b4a098a691) |
+| Sat, 02 May 2026 13:37:13 GMT | Slyre — Ce qu’il faut savoir | Marc Pierro | [Read More](https://medium.com/p/3ee00304aeb0) |
+| Sat, 02 May 2026 13:35:42 GMT | ️ Malware vs Virus Explained: Key Differences + Real Cyber Attacks (2026 Guide) | Manula Udyoga | [Read More](https://medium.com/p/0cece0432ea3) |
+| Sat, 02 May 2026 13:25:29 GMT | Solana Security in the Anchor V2 Era: Where the Bugs Moved | Frank Castle | [Read More](https://medium.com/p/3050adc39412) |
+| Sat, 02 May 2026 13:23:05 GMT | Credential Stuffing picoCTF Writeup | mayhack | [Read More](https://medium.com/p/b6f74dfffe43) |
+| Sat, 02 May 2026 13:21:03 GMT | Technofeudalism — What Killed Capitalism | Claus-Dieter Volko | [Read More](https://medium.com/p/3fd459e93dce) |
 | Sat, 02 May 2026 13:11:50 GMT | Skills Assessment Part 1(Login brute force) | Natitekle | [Read More](https://medium.com/p/eb4e0697989c) |
 | Sat, 02 May 2026 13:02:20 GMT | API Reconnaissance for Beginners — A Step by Step Breakdown | Sana Jalil | [Read More](https://medium.com/p/3b0777d9d7c3) |
 | Sat, 02 May 2026 12:58:24 GMT | Understanding CSRF Vulnerability (No Defenses) with Practical Example | Shayaan Khan | [Read More](https://medium.com/p/08805f7ae3cd) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 07:48:10 GMT | Ha-Natraj — LFI Log Poisoning + Apache2 User Hijack + sudo nmap to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/dbbd1fa12bee) |
 | Sat, 02 May 2026 07:46:16 GMT | PART 2: I Published a Scam Expose. | freerave | [Read More](https://medium.com/p/bc420e0bbc00) |
 | Sat, 02 May 2026 07:42:26 GMT | Skill-Based Hiring Is Replacing Traditional Recruitment in 2026 | Xwtempsolutions | [Read More](https://medium.com/p/b31718493034) |
-| Sat, 02 May 2026 07:21:23 GMT | How I Earned Over $1,000+ from Local Bug Bounty Programs | rade0nx | [Read More](https://medium.com/p/a79e21be0701) |
-| Sat, 02 May 2026 07:05:40 GMT | Inside Modern Malware: How Evasion Techniques Are Evolving in 2026 | Paritosh | [Read More](https://medium.com/p/7b7626f074b3) |
-| Sat, 02 May 2026 07:04:38 GMT | 5 Signs of a Phishing Email: Spot the Red Flags Before You Click | ShardNet Shadow | [Read More](https://medium.com/p/274018a0d8e4) |
-| Sat, 02 May 2026 07:02:34 GMT | The Digital Private Eye: How to Map a Network Like a Pro Hacker | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/c93302d5b6a5) |
-| Sat, 02 May 2026 06:59:29 GMT | Google Gets Caught Exploiting Human User Data 2026 | Nick M. Grossi - XPII MODEL XI | [Read More](https://medium.com/p/4bd7bbe8d15c) |
-| Sat, 02 May 2026 06:59:10 GMT | Golden Ticket Attack — Lab Writeup | Basithmohammedali | [Read More](https://medium.com/p/1f733ac74bd1) |
-| Sat, 02 May 2026 06:52:08 GMT | Shared Hosting vs VPS Hosting: Which One Should You Choose? | Mary Thomas | [Read More](https://medium.com/p/bb7efb0b20cf) |
-| Sat, 02 May 2026 06:46:11 GMT | Building a Real-Time Anomaly Detection Engine (DDoS Detection Tool) with Python, Nginx Logs, and… | Mosesajayi | [Read More](https://medium.com/p/83af63bd8bcf) |
-| Sat, 02 May 2026 06:41:20 GMT | Wazuh-SOC-Lab-Implementation | cyber-ninjaaa | [Read More](https://medium.com/p/37e2056b415c) |
-| Sat, 02 May 2026 06:37:06 GMT | GIS in Disaster Management | Dco  Agchaudhari | [Read More](https://medium.com/p/e927fea5512e) |
-| Sat, 02 May 2026 06:32:55 GMT | Copy Fail: When a 9-Year-Old Linux Kernel Bug Turns Into a Real Threat | Ebin Babu | [Read More](https://medium.com/p/35fae763d14d) |
-| Sat, 02 May 2026 06:26:16 GMT | Why GRC is Critical in Cybersecurity: Strategy, Tools, and Real Use Cases | SOC2 In | [Read More](https://medium.com/p/1e7fe0304210) |
-| Sat, 02 May 2026 06:21:52 GMT | Before You Click Upload: Why Google Chrome’s “Expected Behavior” Is a Privacy Problem | Deep Octupus | [Read More](https://medium.com/p/aaa1b2cce576) |
-| Sat, 02 May 2026 06:15:48 GMT | Learn Cybersecurity with Real-World Security Practices — Cybersecurity Course in Telugu | Gadi Abhi | [Read More](https://medium.com/p/ad79caff1e44) |
-| Sat, 02 May 2026 06:12:56 GMT | Claude Code Security Update: Everything You Need to Know (May 2026) | Muhammad Adnan Mushtaq | [Read More](https://medium.com/p/31b3bb3cce01) |
-| Sat, 02 May 2026 06:07:59 GMT | The Windows Concept Journey — TLS Callbacks (Thread Local Storage Callbacks) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/33068ebac52b) |
-| Sat, 02 May 2026 06:06:01 GMT | Part 2: How I Read Your Android App’s Network Traffic in Under 60 Seconds | Dev 175 | [Read More](https://medium.com/p/36f93cf298a1) |
-| Sat, 02 May 2026 06:04:47 GMT | How Salting & Peppering Improve Authentication Security | CharithKulathunga | [Read More](https://medium.com/p/9680b1344fdc) |
-| Sat, 02 May 2026 06:02:09 GMT | The Art of the Silent Recon: Why 90% of Successful Hacking Happens Before the First Exploit | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/4b986c652995) |
