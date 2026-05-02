@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 13:11:50 GMT | Skills Assessment Part 1(Login brute force) | Natitekle | [Read More](https://medium.com/p/eb4e0697989c) |
+| Sat, 02 May 2026 13:02:20 GMT | API Reconnaissance for Beginners — A Step by Step Breakdown | Sana Jalil | [Read More](https://medium.com/p/3b0777d9d7c3) |
+| Sat, 02 May 2026 12:58:24 GMT | Understanding CSRF Vulnerability (No Defenses) with Practical Example | Shayaan Khan | [Read More](https://medium.com/p/08805f7ae3cd) |
+| Sat, 02 May 2026 12:56:24 GMT | Summit — TryHackMe | Nway Nway Zay Ya | [Read More](https://medium.com/p/c30324519fb1) |
+| Sat, 02 May 2026 12:53:03 GMT | ফোন হারিয়ে গেলে কী করবেন? প্রথম ১০ মিনিটের জরুরি গাইড | Ekramul - Bangla Tech Zone | [Read More](https://medium.com/p/9b9f541cc34a) |
+| Sat, 02 May 2026 12:46:38 GMT | Threat Hunting: A Proactive Approach to Cyber Threat Detection — Methods, Tools & Tips for 2026 | Vahid Ali CyberSecurity | [Read More](https://medium.com/p/b98341037195) |
+| Sat, 02 May 2026 12:45:05 GMT | How Students Are Accidently Leaking API Keys on GitHub | Kartik Pant | [Read More](https://medium.com/p/4834a272159e) |
+| Sat, 02 May 2026 12:35:05 GMT | Lian-Yu TryHackMe Walkthrough | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/686059d4ff53) |
+| Sat, 02 May 2026 12:30:43 GMT | PicoCTF — Hidden in Plainsight [Forensics] | Achrafhamoudax | [Read More](https://medium.com/p/aa2a25f54419) |
+| Sat, 02 May 2026 12:29:01 GMT | Prompt Injection in LLMs: Why Your AI Needs Trust Boundaries, Not Just Better Prompts | Rohan Chauhan | [Read More](https://medium.com/p/83812c198b9a) |
+| Sat, 02 May 2026 12:27:30 GMT | Online Extortion/Hacking group called “TXRT” is targeting children, companies and governments. | John Williams | [Read More](https://medium.com/p/38cf29273bf8) |
+| Sat, 02 May 2026 12:23:43 GMT | A Small Authentication Fix That Taught Me a Security Lesson | Rashad | [Read More](https://medium.com/p/2744f1828798) |
+| Sat, 02 May 2026 12:14:23 GMT | Sea Turtle APT: Turkish Aligned Cyber Espionage Through DNS Hijacking | Awwal Shabi | [Read More](https://medium.com/p/1ab55825a5e6) |
+| Sat, 02 May 2026 12:05:38 GMT | CYBERDUDEBIVASH SENTINEL APEX Enterprise Threat Intelligence API — The Future of Cybersecurity is… | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/cfc7c601be7d) |
+| Sat, 02 May 2026 12:05:05 GMT | 10 Trusted Commercial Pest Control Specialists in Vancouver, Canada | TOP Companies | [Read More](https://medium.com/p/b6f0b8be7f2f) |
+| Sat, 02 May 2026 11:48:24 GMT | Copy-Fail (CVE-2026-31431): From Low-Privileged Shell to Root in Seconds | Aju Deb | [Read More](https://medium.com/p/1b18bf525854) |
 | Sat, 02 May 2026 11:46:04 GMT | Top 10 Cybersecurity Tools Every Beginner Should Know in 2026 | Ramyaabharathi | [Read More](https://medium.com/p/fbb69f9d6481) |
 | Sat, 02 May 2026 11:45:18 GMT | Why we built Aegis-KMS in Scala 3 + Pekko and why it’s a security argument, not an aesthetic one | Sharma B | [Read More](https://medium.com/p/5064a351fc08) |
 | Sat, 02 May 2026 11:42:36 GMT | Construction Site Security — Complete Guide for Safety & Protection | g4usecurity | [Read More](https://medium.com/p/d2ef3467e94a) |
@@ -96,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 06:06:01 GMT | Part 2: How I Read Your Android App’s Network Traffic in Under 60 Seconds | Dev 175 | [Read More](https://medium.com/p/36f93cf298a1) |
 | Sat, 02 May 2026 06:04:47 GMT | How Salting & Peppering Improve Authentication Security | CharithKulathunga | [Read More](https://medium.com/p/9680b1344fdc) |
 | Sat, 02 May 2026 06:02:09 GMT | The Art of the Silent Recon: Why 90% of Successful Hacking Happens Before the First Exploit | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/4b986c652995) |
-| Sat, 02 May 2026 05:58:00 GMT | Security Services in India: A Complete Guide to Modern Protection Solutions | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/9da780cd5f7f) |
-| Sat, 02 May 2026 05:50:20 GMT | April 2026 Cyber Recap: The npm Bloodbath and other topics. | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/d84949c96b03) |
-| Sat, 02 May 2026 05:49:49 GMT | Why Third-Party Risk Management Is Non-Negotiable in 2026 | Securis360 Inc. | [Read More](https://medium.com/p/78b0933c367a) |
-| Sat, 02 May 2026 05:39:07 GMT | SECURITY ALERT: THE IMDB “PLAY” URL SCAM EXPOSED
-Protect Your Data from Viral Phishing Attacks | Naishalpnadiya | [Read More](https://medium.com/p/c133ddaafc2b) |
-| Sat, 02 May 2026 05:38:01 GMT | When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug. | kjulius | [Read More](https://medium.com/p/271b683ddb9a) |
-| Sat, 02 May 2026 05:37:51 GMT | GDG CTF ~ | Madhan Kumar S | [Read More](https://medium.com/p/2ed689d01822) |
-| Sat, 02 May 2026 04:52:43 GMT | Top 5 Cybersecurity Tools Every Beginner Should Learn First | NINSHAD KS | [Read More](https://medium.com/p/4bb2261c9ae9) |
-| Sat, 02 May 2026 04:43:46 GMT | Copy Fail: Easily gained root access in system. | Somnath Nandi | [Read More](https://medium.com/p/c43477b4af4c) |
-| Sat, 02 May 2026 04:36:16 GMT | How I Started My Cybersecurity Journey From Scratch | NINSHAD KS | [Read More](https://medium.com/p/7f9e80a9718e) |
-| Sat, 02 May 2026 04:31:17 GMT | Managing Legacy Data Under DPDPA: 7 Clear Steps Every Business Should Follow | Securis360 Inc. | [Read More](https://medium.com/p/23c53beb4279) |
-| Sat, 02 May 2026 04:31:01 GMT | Bypassing 2FA via State Overwrite: A Tale of Logic Flaws and WAF Evasion | Hacker MD | [Read More](https://medium.com/p/7e8c15a76282) |
-| Sat, 02 May 2026 04:26:40 GMT | Rethinking Cybersecurity as Core Business Protection Strategy | JC Gaillard | [Read More](https://medium.com/p/b441f31c4478) |
-| Sat, 02 May 2026 04:25:42 GMT | How did i pass eWPTX v3 (eLearnSecurity Web Application Penetration Tester eXtreme) | error-01 | [Read More](https://medium.com/p/ad54eafc4933) |
-| Sat, 02 May 2026 04:20:21 GMT | Your Biggest Cyber Risk Isn’t Attackers, It’s Your Architecture | Faraz Ishaq | [Read More](https://medium.com/p/d629502cd027) |
-| Sat, 02 May 2026 04:19:59 GMT | The Multisig Problem That Nobody’s Really Talking About | Septianwahyu | [Read More](https://medium.com/p/677f3632eed9) |
-| Sat, 02 May 2026 04:19:08 GMT | NSA, Anthropic’s Mythos, and Microsoft Code | David SEHYEON Baek | [Read More](https://medium.com/p/7d9877bf8e39) |
