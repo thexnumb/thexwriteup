@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 02 May 2026 11:46:04 GMT | Top 10 Cybersecurity Tools Every Beginner Should Know in 2026 | Ramyaabharathi | [Read More](https://medium.com/p/fbb69f9d6481) |
+| Sat, 02 May 2026 11:45:18 GMT | Why we built Aegis-KMS in Scala 3 + Pekko and why it’s a security argument, not an aesthetic one | Sharma B | [Read More](https://medium.com/p/5064a351fc08) |
+| Sat, 02 May 2026 11:42:36 GMT | Construction Site Security — Complete Guide for Safety & Protection | g4usecurity | [Read More](https://medium.com/p/d2ef3467e94a) |
+| Sat, 02 May 2026 11:32:30 GMT | Secure Your Website Without Touching UI | TheCraftedDev | [Read More](https://medium.com/p/e5eb5840dedf) |
+| Sat, 02 May 2026 11:31:05 GMT | Systems Hardening with Patch Manager via AWS Systems Manager | Exousia Niemba | [Read More](https://medium.com/p/a0684bf57ae7) |
+| Sat, 02 May 2026 11:30:43 GMT | ☢️ The Web2.5 Kill Chain (Part 3): The Final Override | Tabrez Mukadam | [Read More](https://medium.com/p/74c4eb491ed3) |
+| Sat, 02 May 2026 11:28:11 GMT | The Ghost in the Machine: Why Your AI Agents Need a Security Control Plane | Bahul Harikumar | [Read More](https://medium.com/p/1ad8aaadc660) |
+| Sat, 02 May 2026 11:24:58 GMT | How I Ended Up in the WHO Hall of Fame via Google Dorking | Gouri Sankar A | [Read More](https://medium.com/p/f85d2ebf47f4) |
+| Sat, 02 May 2026 11:20:33 GMT | 380 Applications Later: Why I Refuse to Give Up on My Dreams | Melissa Herb | [Read More](https://medium.com/p/e4a900b27d50) |
+| Sat, 02 May 2026 11:14:48 GMT | How I Earned 100 CHF Finding a Real-World Vulnerability | DOD cyber solutions | [Read More](https://medium.com/p/15aa73293eb3) |
+| Sat, 02 May 2026 11:14:09 GMT | Bridging the Skills Gap: How Technovalley is Shaping a Future-Ready Workforce | Abilash Babu | [Read More](https://medium.com/p/cc763b799519) |
+| Sat, 02 May 2026 11:08:05 GMT | 10 Days, 39 Public CVEs: The Real Signal Behind AI-Assisted Vulnerability Research | FengNing_Architect | [Read More](https://medium.com/p/eaa0903de212) |
+| Sat, 02 May 2026 11:05:19 GMT | I Tricked an AI Into Giving Me Exactly What It Said It Wouldn’t | Botdriven | [Read More](https://medium.com/p/fbfccb122f2c) |
+| Sat, 02 May 2026 11:02:42 GMT | Facebook Data Breach: Complete Guide to Causes, Risks, and Protection | DeXpose | [Read More](https://medium.com/p/fac982f7eb36) |
+| Sat, 02 May 2026 10:58:25 GMT | Best Cyber Security Course After 12th — Delhi To Do This Summer (2026) | Varun Papnai | [Read More](https://medium.com/p/c6764d53648f) |
 | Sat, 02 May 2026 10:46:36 GMT | The Command Pattern Is How You Stop AI Agents From Doing Stupid Things | The Atomic Architect | [Read More](https://medium.com/p/bae8a880b9bf) |
 | Sat, 02 May 2026 10:45:42 GMT | What a Plane’s Fatal Crashes, Chess, and LLMs Make Humans So Important | Lm | [Read More](https://medium.com/p/0e3e3436c90a) |
 | Sat, 02 May 2026 10:44:02 GMT | From Corporate IT to Building Something Better: The Synogen Story | Synogen Solutions | [Read More](https://medium.com/p/2031024e9c46) |
@@ -98,18 +113,3 @@ Protect Your Data from Viral Phishing Attacks | Naishalpnadiya | [Read More](htt
 | Sat, 02 May 2026 04:20:21 GMT | Your Biggest Cyber Risk Isn’t Attackers, It’s Your Architecture | Faraz Ishaq | [Read More](https://medium.com/p/d629502cd027) |
 | Sat, 02 May 2026 04:19:59 GMT | The Multisig Problem That Nobody’s Really Talking About | Septianwahyu | [Read More](https://medium.com/p/677f3632eed9) |
 | Sat, 02 May 2026 04:19:08 GMT | NSA, Anthropic’s Mythos, and Microsoft Code | David SEHYEON Baek | [Read More](https://medium.com/p/7d9877bf8e39) |
-| Sat, 02 May 2026 04:16:42 GMT | Adventures at DEF CON Singapore 2026: HTX CTF Finals and the Kampung Spirit | Cyd Tseng | [Read More](https://medium.com/p/9a78d3f74527) |
-| Sat, 02 May 2026 03:52:48 GMT | Cyborg — THM Walkthrough | r3dkahili | [Read More](https://medium.com/p/ea0bc3abe1a6) |
-| Sat, 02 May 2026 03:41:01 GMT | Senior PHP Developers Make These Security Mistakes Too — And Nobody Talks About It | Jayesh Paunikar | [Read More](https://medium.com/p/b6c581a30035) |
-| Sat, 02 May 2026 03:24:20 GMT | Not Just Another Conference: Real Lessons from DEFCON Singapore | seif | [Read More](https://medium.com/p/03cc78158e39) |
-| Sat, 02 May 2026 03:22:57 GMT | Tempest Attack: Seeing Through Walls | Fabio S. Monreal | [Read More](https://medium.com/p/afa3c31dfd40) |
-| Sat, 02 May 2026 03:11:44 GMT | The Complete Wireshark + AI Troubleshooting Guide: Every Real-World Scenario Covered | CyberBruhArmy | [Read More](https://medium.com/p/8433722b5da0) |
-| Sat, 02 May 2026 03:03:29 GMT | Implementasi WebSocket Node.Js pada Game Online Tic Tac Toe | Ari Cakra | [Read More](https://medium.com/p/5be8088ba8e5) |
-| Sat, 02 May 2026 02:50:00 GMT | From Managed Platform to VPS: How I Went From Deploying to Understanding | Subham Karmakar | [Read More](https://medium.com/p/652523ec694c) |
-| Sat, 02 May 2026 01:44:57 GMT | Why SaaS Startups Need External Attack Surface Monitoring Before Launch | Rhythm Bhattarai | [Read More](https://medium.com/p/4a47b96f3383) |
-| Sat, 02 May 2026 01:17:39 GMT | Malware Development with NIM — Blue Team Special | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/f038f54320e6) |
-| Sat, 02 May 2026 00:46:01 GMT | Dating After 40: 3 Types of Men Midlife Women Automatically Reject | Lilyana | [Read More](https://medium.com/p/dc29d9ce8478) |
-| Sat, 02 May 2026 00:42:39 GMT | iPhone Ultra — Foldable iPhone? | Everclear | [Read More](https://medium.com/p/cb8537fee571) |
-| Sat, 02 May 2026 00:42:17 GMT | I Thought I Understood How Windows Logs You In. I Was Wrong. | Elher | [Read More](https://medium.com/p/e8f0a6336a21) |
-| Sat, 02 May 2026 00:30:58 GMT | The Day a Small DevOps Mistake Took Everything Down | Francktikun | [Read More](https://medium.com/p/d427ff0b8394) |
-| Sat, 02 May 2026 00:27:42 GMT | Walla - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/d50acb47a3ac) |
