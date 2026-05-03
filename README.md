@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 11:31:01 GMT | The ‘Domain Admin’ Ego Trip: Why Handing Out DA Privileges Guarantees a Ransomware Outbreak | Hugo Valters | [Read More](https://medium.com/p/25f3b0475ac2) |
+| Sun, 03 May 2026 11:27:27 GMT | What The Tech?! The TOR Network | Investigator515 | [Read More](https://medium.com/p/1011c4cc77c6) |
+| Sun, 03 May 2026 11:27:03 GMT | CE Marking for Software Under the CRA: Conformity Assessment Guide | CRA Decoded | [Read More](https://medium.com/p/27b9cb2cfbe9) |
+| Sun, 03 May 2026 11:21:13 GMT | Why You Should Rethink Trust in the Age of AI Cyberattacks | Abdülselam İsmail | [Read More](https://medium.com/p/44e61de236e9) |
+| Sun, 03 May 2026 11:16:01 GMT | The Future of Data Privacy: Why Security is No Longer Optional in 2026 | Xplorta | [Read More](https://medium.com/p/b2b405b58625) |
+| Sun, 03 May 2026 11:10:19 GMT | Sistemleri Savunmak İçin Saldırmak – Pentest 101 | Naz | [Read More](https://medium.com/p/5475e2945ea5) |
+| Sun, 03 May 2026 11:07:41 GMT | Crack Web Security Interviews with the OWASP Top 10: A Beginner’s Guide | Himanshu | [Read More](https://medium.com/p/bb04a99d6c2b) |
+| Sun, 03 May 2026 11:05:17 GMT | The Complete Guide to AI Model Vulnerabilities & AI-Powered Attacks (2018–2026) | vulnhunter | [Read More](https://medium.com/p/2935570bc595) |
+| Sun, 03 May 2026 11:01:27 GMT | Parameter Index Manipulation Leading to Unauthorized Field Injection | 0xoroot | [Read More](https://medium.com/p/7e830ecfad05) |
+| Sun, 03 May 2026 11:01:10 GMT | Simple SOC Automation for Security Log Analysis Using n8n and OpenAI | Rona Ega Kharisma | [Read More](https://medium.com/p/7326b1dddb05) |
 | Sun, 03 May 2026 10:49:07 GMT | Goodbye Passwords: The Silent Security Revolution of 2026 | Faraz Weerabangsa - BSc in MIS (Special) | [Read More](https://medium.com/p/290ca081f2b2) |
 | Sun, 03 May 2026 10:49:05 GMT | Why Your CIO Keeps Killing AI Pilots (And How MCP Changes the Conversation) — Security unplugged… | Vikkas Arun Pareek | [Read More](https://medium.com/p/ac65242c578c) |
 | Sun, 03 May 2026 10:45:08 GMT | The ‘Copy Fail’ Crisis: AI Discovery
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 00:10:07 GMT | Week 5 of Defensive Security | Muhammad Uzair | [Read More](https://medium.com/p/7de178cf524b) |
 | Sun, 03 May 2026 00:08:29 GMT | The Day Claude Became a Tyrant — And What Scared Me About Every Agent You’ll Ever Use | Dhiraz Gazurel | [Read More](https://medium.com/p/1a5457776aa1) |
 | Sat, 02 May 2026 23:56:18 GMT | SOC Alert Investigation: Arbitrary File Read on Check Point Security Gateway — CVE-2024–24919… | DeadHack | [Read More](https://medium.com/p/cac39ecf6440) |
-| Sat, 02 May 2026 23:18:41 GMT | SLI, SLO, SLA, Error Budget: The Ladder Nobody Climbs All the Way | Kunal Kannav | [Read More](https://medium.com/p/0e3383c669d9) |
-| Sat, 02 May 2026 23:09:47 GMT | Why AI Needs Being to Resist Narrative Capture | Lena Tatsumori | [Read More](https://medium.com/p/f31f3c97e34a) |
-| Sat, 02 May 2026 23:05:30 GMT | CTF Challenge Writeup: Windows Theme Spoofing — CVE-2024–21320 (LetsDefend) | DeadHack | [Read More](https://medium.com/p/b97ff734a152) |
-| Sat, 02 May 2026 23:04:41 GMT | GFW 深度解析 04：西厢计划 | xnvlnasna | [Read More](https://medium.com/p/da1936739ab4) |
-| Sat, 02 May 2026 23:03:28 GMT | GFW 深度解析 03：深度包检测 | xnvlnasna | [Read More](https://medium.com/p/5a19bdee58a5) |
-| Sat, 02 May 2026 23:03:25 GMT | The Sentinel’s Edge: Why the Blue Team is AI’s Greatest Architecture | Shubham Singh | [Read More](https://medium.com/p/e51d00f7e6e3) |
-| Sat, 02 May 2026 22:58:52 GMT | Week 5 of Offensive Security | Muhammad Uzair | [Read More](https://medium.com/p/fa907485fb74) |
-| Sat, 02 May 2026 22:58:48 GMT | CIA Triad | Hectorlazzari | [Read More](https://medium.com/p/2ccb414b677a) |
-| Sat, 02 May 2026 22:57:35 GMT | The Digital Wall: Who Are We Shutting Out? | Krisztina Varga | [Read More](https://medium.com/p/a53df7a28c3a) |
-| Sat, 02 May 2026 22:55:22 GMT | How do I patch the 732-byte Copy Fail exploit if my kernel modules are built-in? | Alex Lim | [Read More](https://medium.com/p/ec386585ec19) |
