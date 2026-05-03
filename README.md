@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 03:21:32 GMT | The Package You Trusted Just Became the Weapon | Heet Rajesh Gala | [Read More](https://medium.com/p/65d5c8da56e6) |
+| Sun, 03 May 2026 03:10:29 GMT | Security Guard Services in Edmonton: A Complete Guide for Property Owners | Griffin Security | [Read More](https://medium.com/p/5fb9f38bc22b) |
+| Sun, 03 May 2026 03:04:37 GMT | How Two Guys Stole $35M From eBay Using a Single HTML Tag | David Lee | [Read More](https://medium.com/p/9461fa553e48) |
+| Sun, 03 May 2026 02:29:53 GMT | The Ultimate Beginner’s Guide to Wireshark 4.6.5 | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/bca1b4316db0) |
+| Sun, 03 May 2026 02:20:47 GMT | What Is Reverse Engineering, and How Can You Protect Your App From It? | Talha mehmood | [Read More](https://medium.com/p/a02fedc8523f) |
+| Sun, 03 May 2026 01:52:00 GMT | Daily AI Wrap — May 3, 2026 | Aman Shekhar | [Read More](https://medium.com/p/e0e2db2a420b) |
+| Sun, 03 May 2026 01:51:47 GMT | The Art of Deception in Cybersecurity | Leila Khezaz | [Read More](https://medium.com/p/7d032bdb24df) |
+| Sun, 03 May 2026 01:48:32 GMT | Tips for Staying Safe Online | Chad White | [Read More](https://medium.com/p/8e8efacde53c) |
+| Sun, 03 May 2026 01:46:14 GMT | Nmap for Beginners: How to Scan Networks Like a Pro (Without Breaking the Law) | Jack = | [Read More](https://medium.com/p/ebbf898a9a47) |
+| Sun, 03 May 2026 01:45:19 GMT | Beyond Borders: The Global Tactical Exchange Between Hezbollah and Militant Cells | Miguel Morales | [Read More](https://medium.com/p/0619ff560c54) |
+| Sun, 03 May 2026 01:43:19 GMT | The Ghost in the Machine: How Iran’s Influence in Latin America Mutated | Marta Reyes | [Read More](https://medium.com/p/c5cb855d26fa) |
+| Sun, 03 May 2026 01:36:31 GMT | This Might Be Deleted Tomorrow | Kyle Breuss | [Read More](https://medium.com/p/f3b97ed8411a) |
+| Sun, 03 May 2026 00:49:19 GMT | Proxmark3 - Hacker’s Secret Gadget | Shahzaib | [Read More](https://medium.com/p/15f667b9283d) |
+| Sun, 03 May 2026 00:36:45 GMT | KubSTU CTF 2026 Writeups: Five Challenges, Saturday | Abdelkader Belcaid | [Read More](https://medium.com/p/43d7f2bec403) |
+| Sun, 03 May 2026 00:10:07 GMT | Week 5 of Defensive Security | Muhammad Uzair | [Read More](https://medium.com/p/7de178cf524b) |
+| Sun, 03 May 2026 00:08:29 GMT | The Day Claude Became a Tyrant — And What Scared Me About Every Agent You’ll Ever Use | Dhiraz Gazurel | [Read More](https://medium.com/p/1a5457776aa1) |
 | Sat, 02 May 2026 23:18:41 GMT | SLI, SLO, SLA, Error Budget: The Ladder Nobody Climbs All the Way | Kunal Kannav | [Read More](https://medium.com/p/0e3383c669d9) |
 | Sat, 02 May 2026 23:09:47 GMT | Why AI Needs Being to Resist Narrative Capture | Lena Tatsumori | [Read More](https://medium.com/p/f31f3c97e34a) |
 | Sat, 02 May 2026 23:05:30 GMT | CTF Challenge Writeup: Windows Theme Spoofing — CVE-2024–21320 (LetsDefend) | DeadHack | [Read More](https://medium.com/p/b97ff734a152) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 17:00:04 GMT | AI Agents for Penetration Testing - Claude Code & Gamma4 | Pentester Club | [Read More](https://medium.com/p/ff5487d8db64) |
 | Sat, 02 May 2026 16:53:42 GMT | Architect’s Breakdown: Browser-Based RDP/SMB Clients — Security Benefits and Hidden Risks | Ankurtechno | [Read More](https://medium.com/p/2005dcb8be30) |
 | Sat, 02 May 2026 16:49:25 GMT | Beyond the Ping: Mastering Nmap for Network Reconnaissance in 2026 | rdtsc | [Read More](https://medium.com/p/70ee618643d7) |
-| Sat, 02 May 2026 16:43:16 GMT | What If Hackers Had to Tell You They’re Hackers? | André Luiz | [Read More](https://medium.com/p/92579716e6ba) |
-| Sat, 02 May 2026 16:41:57 GMT | ⚡ Full Automation — Recon → Exploit Pipeline (Part 6) | ghostyjoe | [Read More](https://medium.com/p/aa5a217d414a) |
-| Sat, 02 May 2026 16:41:40 GMT | Hunting on Government Infrastructure: WAF Bypasses, OAuth Testing, and Knowing When to Pivot | Sathya Boobalan | [Read More](https://medium.com/p/b2e69e4fe089) |
-| Sat, 02 May 2026 16:41:20 GMT | The Shell You Get Means Nothing If You Can’t Keep It | Teachnolen | [Read More](https://medium.com/p/bfcdd52f6215) |
-| Sat, 02 May 2026 16:38:30 GMT | How Most Businesses Choose the Wrong IT Partner (And How to Fix It) | Insuranzy | [Read More](https://medium.com/p/98d52de73c21) |
-| Sat, 02 May 2026 16:16:54 GMT | Το Χακάρισμα των Παλιών Wallets | Stratos Inglezakis | [Read More](https://medium.com/p/2f15f1ef2d84) |
-| Sat, 02 May 2026 16:04:26 GMT | When Everything Gets Harder | Kevin Steffensen | [Read More](https://medium.com/p/f07ae7e052d6) |
-| Sat, 02 May 2026 15:51:13 GMT | Architects Over Coders: How AI Is Changing the Software Developer’s Role | Leo Sukharnikov | [Read More](https://medium.com/p/32852b2398aa) |
-| Sat, 02 May 2026 15:49:09 GMT | “admin/admin”: How Your $10,000 Firewall is Compromised by a $1 Mistake | Hugo Valters | [Read More](https://medium.com/p/01910f8b920f) |
-| Sat, 02 May 2026 15:39:43 GMT | The Claude Mythos vs. Cyber Reality: Why Your Fundamentals Still Beat the Algorithm | Vidura Bandara Wijekoon | [Read More](https://medium.com/p/7328cf4834b7) |
-| Sat, 02 May 2026 15:35:44 GMT | Cybersecurity Essentials: From Finding Flaws to Fixing Them | Ryamaharram | [Read More](https://medium.com/p/f5358ac48f36) |
-| Sat, 02 May 2026 15:34:11 GMT | Gogs PutContents API Sembolik Bağlantı İstismarı (CVE-2025–8110) Üzerine Kapsamlı Teknik Analiz ve… | Erdem Ceylan | [Read More](https://medium.com/p/202b536e6cb2) |
-| Sat, 02 May 2026 15:23:38 GMT | Linux Privilege Escalation: Exploiting Capabilities | Ameen Algharabeh | [Read More](https://medium.com/p/7d781eee7015) |
-| Sat, 02 May 2026 15:21:45 GMT | A Practical Guide For Overhauling Ops with Zero Trust in a Messy, Real-World Organisation | Medjue Gore | [Read More](https://medium.com/p/5db22fbe3b55) |
-| Sat, 02 May 2026 15:20:28 GMT | Unauthorized Admin Panel Access via JavaScript Recon | Rahimahaq | [Read More](https://medium.com/p/02f4b2625e09) |
-| Sat, 02 May 2026 15:20:00 GMT | LetsDefend — SOC125-Suspicious Rundll32 Activity | Bassel | [Read More](https://medium.com/p/42c1bdc8ea5a) |
