@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 22:28:34 GMT | The Death of the JSON Key: Moving to Cloud Workload Identity Federation | Seasoned Developer | [Read More](https://medium.com/p/c6343552288f) |
+| Sun, 03 May 2026 22:16:32 GMT | Understanding Darknet Research Chemicals and Online Market Trends | Tor BBB | [Read More](https://medium.com/p/91338073f79f) |
+| Sun, 03 May 2026 22:05:13 GMT | Deep Learning Is Not Just a Fancy Word. Here Is What It Actually Means. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/f3057a6a273c) |
+| Sun, 03 May 2026 22:01:07 GMT | A Computer Does Not Think. But This Trick Makes It Look Like It Does. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/09607ad4f136) |
+| Sun, 03 May 2026 21:55:44 GMT | The Pipeline That Tried Three Different Auth Errors Before It Worked | Joseph A. M. | [Read More](https://medium.com/p/2398fcae240a) |
+| Sun, 03 May 2026 21:55:08 GMT | The Line Between Skill and Crime: What Every Cybersecurity Professional Must Know About Law… | A.M | [Read More](https://medium.com/p/c360d03052d6) |
 | Sun, 03 May 2026 21:28:42 GMT | What Your Linux Security Stack Can’t See | Varun Gurnaney | [Read More](https://medium.com/p/f612b5ad119b) |
 | Sun, 03 May 2026 21:22:54 GMT | AI BEFORE YOU BUILD · PART 3 | Gregory Wiedeman | [Read More](https://medium.com/p/ef7986ba70dd) |
 | Sun, 03 May 2026 21:17:27 GMT | "5 years of waiting.. | Avinash Dadi | [Read More](https://medium.com/p/6ab280501a50) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 15:47:41 GMT | Learning Fortinet Firewall — LESSON 7: VLAN / Sub-Interfaces | Rouell Mamaril | [Read More](https://medium.com/p/96455bea4724) |
 | Sun, 03 May 2026 15:45:27 GMT | Make Money: Best Gift Card Carding Method in 2026 | Cashout helper | [Read More](https://medium.com/p/eb0383966bbf) |
 | Sun, 03 May 2026 15:45:19 GMT | The Five-Layer Defense: How Bulwark Prevents AI Agent Hijacking in Production | Anil Prasad | [Read More](https://medium.com/p/c196a996176a) |
-| Sun, 03 May 2026 15:39:02 GMT | Traveling to Mexico: The Truth From Someone Who Actually Lived There | Jay Travler | [Read More](https://medium.com/p/eb5020957536) |
-| Sun, 03 May 2026 15:31:01 GMT | Cyber Essential: a call to action | Ritika Jain | [Read More](https://medium.com/p/23c862e35748) |
-| Sun, 03 May 2026 15:16:01 GMT | Still Running SMBv1? You’re Basically Inviting WannaCry to Dinner | Hugo Valters | [Read More](https://medium.com/p/bb87cc7baed4) |
-| Sun, 03 May 2026 15:12:55 GMT | I Opened One API Endpoint and Accidentally Found of Student Records ️‍♂️ | rozzen | [Read More](https://medium.com/p/c6ce7632167f) |
-| Sun, 03 May 2026 15:07:56 GMT | AI vs Cybersecurity Student: How I Cracked All 7 Levels of Gandalf Using Prompt Injection | Nilanjan Chowdhury | [Read More](https://medium.com/p/a20a4c8fafa1) |
-| Sun, 03 May 2026 15:05:29 GMT | File Upload and Download in Spring Boot (MultipartFile + Resource Handling) | Khatiwadasandesh | [Read More](https://medium.com/p/460ad2bb36d5) |
