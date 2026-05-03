@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 13:02:39 GMT | Protecting Yourself from Online Disinformation or Fake News Using OSINT | COVBEC | [Read More](https://medium.com/p/2397b1bd288d) |
+| Sun, 03 May 2026 12:57:14 GMT | Automating User Data Export from Entra ID Groups to CSV file | Srini Velamakanti | [Read More](https://medium.com/p/811e6c7378c3) |
+| Sun, 03 May 2026 12:56:01 GMT | Top 50 Wireshark Filters Every Cybersecurity Beginner Must Know | Karanam Shrivasta | [Read More](https://medium.com/p/449f0a689eb4) |
+| Sun, 03 May 2026 12:54:31 GMT | “Tier 1 SOC Is Dying.” | Yua Mikanana | [Read More](https://medium.com/p/2a0db6f4a46b) |
+| Sun, 03 May 2026 12:54:11 GMT | Stuck between two centuries | Harshit Kapoor | [Read More](https://medium.com/p/9fb2d3f65bb1) |
+| Sun, 03 May 2026 12:45:38 GMT | This is for the person who knows something is going on — but nobody has explained it properly yet | Muhammad Essam | [Read More](https://medium.com/p/9cbdb77c4efd) |
+| Sun, 03 May 2026 12:45:35 GMT | Mythos Doesn’t Create Your Detection Gaps — It Finds Them | Barry Stephenson | [Read More](https://medium.com/p/2035cf904adc) |
+| Sun, 03 May 2026 12:43:02 GMT | Find Public Security Groups Across Multiple AWS Accounts with Lambda | Aung Hein Kyaw | [Read More](https://medium.com/p/7aa0029efa4e) |
+| Sun, 03 May 2026 12:33:58 GMT | The Complete WordPress Security Hardening Guide for 2026 | Marufa Sharmin | [Read More](https://medium.com/p/0d0554c1d2f2) |
+| Sun, 03 May 2026 12:25:15 GMT | I Told My Friend I’d Hack WhatsApp. Then I Actually Did It. | Yuvraj Raghuvanshi | [Read More](https://medium.com/p/dcc5b7901824) |
+| Sun, 03 May 2026 12:20:04 GMT | Why Every Atlanta Small Business Needs a Local IT Support Partner | Edgarjmosley Infinity | [Read More](https://medium.com/p/e32d9ae67c8e) |
+| Sun, 03 May 2026 12:10:04 GMT | # Best Betting Platforms in 2026 | Abdallahrj | [Read More](https://medium.com/p/36faa331f364) |
+| Sun, 03 May 2026 12:08:59 GMT | Identity & Communication on the Internet: The Hidden System Behind Every Click | Tanya Awasthi | [Read More](https://medium.com/p/8c625d532f49) |
+| Sun, 03 May 2026 12:05:12 GMT | CompTIA Security+ SY0–701 Made Easy: Your Complete Beginner Roadmap to Cybersecurity Success | Azhariqbal | [Read More](https://medium.com/p/9a4cd6cdd035) |
+| Sun, 03 May 2026 11:52:07 GMT | How Ransomware Groups Gain Initial Access: Exposed Systems, Phishing, and Credential Attacks | Security Analyst | [Read More](https://medium.com/p/d0d3c2e3fc4f) |
+| Sun, 03 May 2026 11:35:50 GMT | How I Deployed a Secure Harbor Registry with HTTPS on RKE1 & RKE2 (Real Production Setup) | Pushpak Raut | [Read More](https://medium.com/p/d7c7e5448bc7) |
 | Sun, 03 May 2026 11:31:01 GMT | The ‘Domain Admin’ Ego Trip: Why Handing Out DA Privileges Guarantees a Ransomware Outbreak | Hugo Valters | [Read More](https://medium.com/p/25f3b0475ac2) |
 | Sun, 03 May 2026 11:27:27 GMT | What The Tech?! The TOR Network | Investigator515 | [Read More](https://medium.com/p/1011c4cc77c6) |
 | Sun, 03 May 2026 11:27:03 GMT | CE Marking for Software Under the CRA: Conformity Assessment Guide | CRA Decoded | [Read More](https://medium.com/p/27b9cb2cfbe9) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 03:56:32 GMT | AZURE PENTESTING — SENSITIVE INFORMATION EXPOSURE IN DATA FACTORY Draft Eng | Brayan Rodriguez Padilla | [Read More](https://medium.com/p/775353da7af5) |
 | Sun, 03 May 2026 03:33:58 GMT | CPanel & WHM CVE-2026–41940: The Authentication Bypass That Turned Hosting Servers Into Attack… | Logesh S | [Read More](https://medium.com/p/a5982364b730) |
 | Sun, 03 May 2026 03:21:32 GMT | The Package You Trusted Just Became the Weapon | Heet Rajesh Gala | [Read More](https://medium.com/p/65d5c8da56e6) |
-| Sun, 03 May 2026 03:10:29 GMT | Security Guard Services in Edmonton: A Complete Guide for Property Owners | Griffin Security | [Read More](https://medium.com/p/5fb9f38bc22b) |
-| Sun, 03 May 2026 03:04:37 GMT | How Two Guys Stole $35M From eBay Using a Single HTML Tag | David Lee | [Read More](https://medium.com/p/9461fa553e48) |
-| Sun, 03 May 2026 02:29:53 GMT | The Ultimate Beginner’s Guide to Wireshark 4.6.5 | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/bca1b4316db0) |
-| Sun, 03 May 2026 02:20:47 GMT | What Is Reverse Engineering, and How Can You Protect Your App From It? | Talha mehmood | [Read More](https://medium.com/p/a02fedc8523f) |
-| Sun, 03 May 2026 01:52:00 GMT | Daily AI Wrap — May 3, 2026 | Aman Shekhar | [Read More](https://medium.com/p/e0e2db2a420b) |
-| Sun, 03 May 2026 01:51:47 GMT | The Art of Deception in Cybersecurity | Leila Khezaz | [Read More](https://medium.com/p/7d032bdb24df) |
-| Sun, 03 May 2026 01:48:32 GMT | Tips for Staying Safe Online | Chad White | [Read More](https://medium.com/p/8e8efacde53c) |
-| Sun, 03 May 2026 01:46:14 GMT | Nmap for Beginners: How to Scan Networks Like a Pro (Without Breaking the Law) | Jack = | [Read More](https://medium.com/p/ebbf898a9a47) |
-| Sun, 03 May 2026 01:45:19 GMT | Beyond Borders: The Global Tactical Exchange Between Hezbollah and Militant Cells | Miguel Morales | [Read More](https://medium.com/p/0619ff560c54) |
-| Sun, 03 May 2026 01:43:19 GMT | The Ghost in the Machine: How Iran’s Influence in Latin America Mutated | Marta Reyes | [Read More](https://medium.com/p/c5cb855d26fa) |
-| Sun, 03 May 2026 01:36:31 GMT | This Might Be Deleted Tomorrow | Kyle Breuss | [Read More](https://medium.com/p/f3b97ed8411a) |
-| Sun, 03 May 2026 00:49:19 GMT | Proxmark3 - Hacker’s Secret Gadget | Shahzaib | [Read More](https://medium.com/p/15f667b9283d) |
-| Sun, 03 May 2026 00:36:45 GMT | KubSTU CTF 2026 Writeups: Five Challenges, Saturday | Abdelkader Belcaid | [Read More](https://medium.com/p/43d7f2bec403) |
-| Sun, 03 May 2026 00:10:07 GMT | Week 5 of Defensive Security | Muhammad Uzair | [Read More](https://medium.com/p/7de178cf524b) |
-| Sun, 03 May 2026 00:08:29 GMT | The Day Claude Became a Tyrant — And What Scared Me About Every Agent You’ll Ever Use | Dhiraz Gazurel | [Read More](https://medium.com/p/1a5457776aa1) |
-| Sat, 02 May 2026 23:56:18 GMT | SOC Alert Investigation: Arbitrary File Read on Check Point Security Gateway — CVE-2024–24919… | DeadHack | [Read More](https://medium.com/p/cac39ecf6440) |
