@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 16:04:27 GMT | Impacket Net Toolkit - Pentester’s Guide | Pentester Club | [Read More](https://medium.com/p/3a1a069956e3) |
+| Sun, 03 May 2026 16:04:08 GMT | Your Next Cyberattack Might Be AI-Generated. Here’s How Worried You Should Be | Rashmi Mishra | [Read More](https://medium.com/p/ae01c2ca2b9c) |
+| Sun, 03 May 2026 16:01:42 GMT | What I Found When My Governance Lab Met Real Engineering | Joseph A. M. | [Read More](https://medium.com/p/dd8a8c8d9156) |
+| Sun, 03 May 2026 16:01:01 GMT | Yin, Yang, and the LLM: Engineering Reliability into AI Code Scanning | Josh Conkel | [Read More](https://medium.com/p/35f4f6c222fa) |
+| Sun, 03 May 2026 16:00:23 GMT | When 9 Seconds Is All It Takes: The Cognitive Reserve Imperative in the Agentic Era | Renato Azevedo Sant Anna | [Read More](https://medium.com/p/aace8e26fb80) |
+| Sun, 03 May 2026 15:57:05 GMT | Why Affordable Cybersecurity Often Fails When You Need It Most | Sam Walker | [Read More](https://medium.com/p/5e525dbdd1b4) |
+| Sun, 03 May 2026 15:56:36 GMT | Modify and Monitor Environmental Controls in Packet Tracer | Bala | [Read More](https://medium.com/p/09fdf49fb1f2) |
+| Sun, 03 May 2026 15:49:17 GMT | The Night a Botnet Tried to Break ZephyPhone & Why You Never Knew | Khaled Md Tuhidul Hossain | [Read More](https://medium.com/p/a36463c2ecd8) |
+| Sun, 03 May 2026 15:47:41 GMT | Learning Fortinet Firewall — LESSON 7: VLAN / Sub-Interfaces | Rouell Mamaril | [Read More](https://medium.com/p/96455bea4724) |
+| Sun, 03 May 2026 15:45:27 GMT | Make Money: Best Gift Card Carding Method in 2026 | Cashout helper | [Read More](https://medium.com/p/eb0383966bbf) |
+| Sun, 03 May 2026 15:45:19 GMT | The Five-Layer Defense: How Bulwark Prevents AI Agent Hijacking in Production | Anil Prasad | [Read More](https://medium.com/p/c196a996176a) |
+| Sun, 03 May 2026 15:39:02 GMT | Traveling to Mexico: The Truth From Someone Who Actually Lived There | Jay Travler | [Read More](https://medium.com/p/eb5020957536) |
+| Sun, 03 May 2026 15:31:01 GMT | Cyber Essential: a call to action | Ritika Jain | [Read More](https://medium.com/p/23c862e35748) |
 | Sun, 03 May 2026 15:16:01 GMT | Still Running SMBv1? You’re Basically Inviting WannaCry to Dinner | Hugo Valters | [Read More](https://medium.com/p/bb87cc7baed4) |
 | Sun, 03 May 2026 15:12:55 GMT | I Opened One API Endpoint and Accidentally Found of Student Records ️‍♂️ | rozzen | [Read More](https://medium.com/p/c6ce7632167f) |
 | Sun, 03 May 2026 15:07:56 GMT | AI vs Cybersecurity Student: How I Cracked All 7 Levels of Gandalf Using Prompt Injection | Nilanjan Chowdhury | [Read More](https://medium.com/p/a20a4c8fafa1) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 08:48:09 GMT | Fool the Lockout — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/073f20788d82) |
 | Sun, 03 May 2026 08:25:31 GMT | Basic Understanding of IPv4 Classes and Ranges. | Haseeb Bilal | [Read More](https://medium.com/p/c68652d2a223) |
 | Sun, 03 May 2026 08:21:44 GMT | Why Your SAST Tool Is Flying Half-Blind, And What LLMs Can Actually Fix | Red Oxyde | [Read More](https://medium.com/p/2ef25f946f72) |
-| Sun, 03 May 2026 08:15:12 GMT | Why My First Bounty Took So Long, And Why Yours Doesn’t Have To | Fateyaly | [Read More](https://medium.com/p/5ed6a1bdb49f) |
-| Sun, 03 May 2026 07:57:20 GMT | How Long Does It Take to Crack Your Password? (The Answer Will Bother You) | CalculatorEmpire | [Read More](https://medium.com/p/cfe1a51cacd1) |
-| Sun, 03 May 2026 07:50:03 GMT | Mission Accomplished: Cracking JWT & Capturing the Flag at Cybersecurity Bootcamp | Muhajiramrullahub | [Read More](https://medium.com/p/68b8626cd613) |
-| Sun, 03 May 2026 07:47:31 GMT | OSINT: The Struggle for Truth on the Battlefield of Truth | Ziya Gokalp | [Read More](https://medium.com/p/a311d74a02be) |
-| Sun, 03 May 2026 07:47:20 GMT | How I Secured a Misconfigured GCP Cloud Storage Bucket Using Security Command Center | Ajekigbe Michael. A | [Read More](https://medium.com/p/4e91794200d1) |
-| Sun, 03 May 2026 07:47:08 GMT | Her Client Got Hacked—Then Asked If She Was Responsible | Cyber Safety Zone | [Read More](https://medium.com/p/f9cad13721b8) |
-| Sun, 03 May 2026 07:40:09 GMT | CVE-2026–41940: cPanel ve WHM Sistemlerinde Kimlik Doğrulama Atlatma Zafiyetinin Derinlemesine… | Erdem Ceylan | [Read More](https://medium.com/p/c0c02a6665a6) |
-| Sun, 03 May 2026 07:35:55 GMT | Your AI Stack is Publicly Searchable | Tanmay Bhattacharjee | [Read More](https://medium.com/p/dcd61a24efd5) |
-| Sun, 03 May 2026 07:35:18 GMT | Securing the Future of HealthTech: A W3D Security Report | Kareeb Sadab | [Read More](https://medium.com/p/c79cc07ca721) |
-| Sun, 03 May 2026 07:27:42 GMT | Disneyland déploie la reconnaissance faciale pour ses visiteurs | L'ABESTIT | [Read More](https://medium.com/p/103950d96c52) |
-| Sun, 03 May 2026 07:16:01 GMT | Market Surveillance and Enforcement and the Penalties | Shahrukh - Data Analyst - Business Intelligence | [Read More](https://medium.com/p/c5a2721fb28b) |
-| Sun, 03 May 2026 07:13:16 GMT | Cyber Escalation: Iran-Linked Hackers Target US Service Members with Threatening Messages | ＮＥＷＳ ＰＯＩＮＴ ＺＯＮＥ | [Read More](https://medium.com/p/f365432f9d37) |
-| Sun, 03 May 2026 07:11:01 GMT | API Security Best Practices: Why the Internet Keeps Getting Robbed (And How to Stop It) | Sonali Punchihewa | [Read More](https://medium.com/p/eb72c1c3976e) |
