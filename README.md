@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 09:43:43 GMT | OSSEC: IDOR vulnerability no more — The easiest way for you to verify your apps yourself. | Lucas Soares | [Read More](https://medium.com/p/6c18efacb7a8) |
+| Sun, 03 May 2026 09:35:38 GMT | How Your Accounts Get Hacked (Even When You Did Nothing Wrong) | ByteTheory | [Read More](https://medium.com/p/3b84ab64739e) |
+| Sun, 03 May 2026 09:33:55 GMT | Auditing and Monitoring - TryHackMe | Ryca | [Read More](https://medium.com/p/e34ec1decebd) |
+| Sun, 03 May 2026 09:31:43 GMT | Race Conditions in the Wild: How Parallel Requests Turned a Simple Bug into a Critical Exploit | Đeepanshu | [Read More](https://medium.com/p/9050f18c44cc) |
+| Sun, 03 May 2026 09:28:48 GMT | CVE-2026–41940: cPanel’de Şifresiz Root Erişimi (Auth Bypass) | Burkay Elbir | [Read More](https://medium.com/p/2c402835eeca) |
+| Sun, 03 May 2026 09:26:15 GMT | Your Data Is Everywhere — And You Probably Don’t Even Know It | Prithika | [Read More](https://medium.com/p/3e3107971d05) |
+| Sun, 03 May 2026 09:21:33 GMT | What World Models Teach Us About Securing AI | Spyros Argyrakos | [Read More](https://medium.com/p/59a762aa38f5) |
+| Sun, 03 May 2026 09:19:01 GMT | Best Apartment Security Devices That Actually Make You Feel Safe | Criminology Expert | [Read More](https://medium.com/p/2d6d656cb704) |
+| Sun, 03 May 2026 09:14:45 GMT | The Ghost in the Machine: A Bug Bounty Short Story | Mohamed Adel | [Read More](https://medium.com/p/58f2367705a6) |
+| Sun, 03 May 2026 09:07:29 GMT | Traveling to Mexico: The Truth From Someone Who Actually Lived There. | Jay Travler | [Read More](https://medium.com/p/7c92c8d0f4c9) |
+| Sun, 03 May 2026 09:03:41 GMT | Why Hackers Still Use EDR-Killing Malware After Taking Over the Super Admin Account | David SEHYEON Baek | [Read More](https://medium.com/p/168c21c48474) |
+| Sun, 03 May 2026 09:00:07 GMT | ️ Stealth vs Aggressive Recon — Avoid Bans & Maximize Coverage (Part 7) | ghostyjoe | [Read More](https://medium.com/p/71919a553ff2) |
+| Sun, 03 May 2026 08:57:29 GMT | WordPress CVE-2021–29447 — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/ddc4f01fa34c) |
+| Sun, 03 May 2026 08:48:58 GMT | বাংলায়-Pentesting Fundamentals, Part-1 | Zahid Hasan Zinnah | [Read More](https://medium.com/p/a93a6948b615) |
+| Sun, 03 May 2026 08:48:09 GMT | Fool the Lockout — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/073f20788d82) |
+| Sun, 03 May 2026 08:25:31 GMT | Basic Understanding of IPv4 Classes and Ranges. | Haseeb Bilal | [Read More](https://medium.com/p/c68652d2a223) |
+| Sun, 03 May 2026 08:21:44 GMT | Why Your SAST Tool Is Flying Half-Blind, And What LLMs Can Actually Fix | Red Oxyde | [Read More](https://medium.com/p/2ef25f946f72) |
+| Sun, 03 May 2026 08:15:12 GMT | Why My First Bounty Took So Long, And Why Yours Doesn’t Have To | Fateyaly | [Read More](https://medium.com/p/5ed6a1bdb49f) |
 | Sun, 03 May 2026 07:57:20 GMT | How Long Does It Take to Crack Your Password? (The Answer Will Bother You) | CalculatorEmpire | [Read More](https://medium.com/p/cfe1a51cacd1) |
 | Sun, 03 May 2026 07:50:03 GMT | Mission Accomplished: Cracking JWT & Capturing the Flag at Cybersecurity Bootcamp | Muhajiramrullahub | [Read More](https://medium.com/p/68b8626cd613) |
 | Sun, 03 May 2026 07:47:31 GMT | OSINT: The Struggle for Truth on the Battlefield of Truth | Ziya Gokalp | [Read More](https://medium.com/p/a311d74a02be) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 21:09:34 GMT | 12 Things to Check Before Ordering From Any Website (and Never Get Scammed Again) | Kate G | [Read More](https://medium.com/p/6b86a184f093) |
 | Sat, 02 May 2026 20:59:30 GMT | It’s Still There Trust Me. | Rakyta Valdez | [Read More](https://medium.com/p/46916ccf7350) |
 | Sat, 02 May 2026 20:52:57 GMT | Rooting the TCM Dev Box [Walkthrough] | Olamideoyek | [Read More](https://medium.com/p/34a91943b8f9) |
-| Sat, 02 May 2026 20:51:13 GMT | TryHackMe SOC Analyst Road Map Part-27 | safa kaya | [Read More](https://medium.com/p/74db52001f2a) |
-| Sat, 02 May 2026 20:50:46 GMT | 5 Attack Patterns Most SOC L1 Analysts Miss (And How to Catch Them) | Shuhaib Riyaj | [Read More](https://medium.com/p/21459414b9c0) |
-| Sat, 02 May 2026 20:47:31 GMT | TryHackMe-DAV-WriteUp | Burak | [Read More](https://medium.com/p/f1235c8cfcd7) |
-| Sat, 02 May 2026 20:41:01 GMT | The Asymmetry Achilles: How React2Shell (CVE-2025–55182) Turns Global Routing Against Itself | Asad Syed | [Read More](https://medium.com/p/a5654dcacd8c) |
-| Sat, 02 May 2026 20:28:46 GMT | Mythos Is Exposing the Security Debt We Can No Longer Ignore | Amie | [Read More](https://medium.com/p/b190f71db9be) |
-| Sat, 02 May 2026 20:25:37 GMT | God Wants to Break My Heart | CamDevo | [Read More](https://medium.com/p/fc33b490eaa5) |
-| Sat, 02 May 2026 20:22:18 GMT | Why I Don’t Trust AI Models I Can’t Run Offline | Devon Clemente | [Read More](https://medium.com/p/59a49cfe11f3) |
-| Sat, 02 May 2026 20:11:01 GMT | How a $292M Exploit Redefined Cross-Chain Security: The KelpDAO Incident | rdin777 | [Read More](https://medium.com/p/4b4edd4105e9) |
-| Sat, 02 May 2026 20:06:47 GMT | Building a SOC Lab from scratch | Srudraksh | [Read More](https://medium.com/p/c96cd79aab6d) |
-| Sat, 02 May 2026 20:04:47 GMT | Cyber Attacks on Small Businesses | Kiran Limbu Phudong | [Read More](https://medium.com/p/4c2faca00d38) |
-| Sat, 02 May 2026 20:01:19 GMT | The Phantom in the Server: Anatomy of a Modern Web Hijack | Pratik Gurav | [Read More](https://medium.com/p/e7c2d793e1fc) |
-| Sat, 02 May 2026 20:01:01 GMT | I Thought Learning Cybersecurity Was About Tools… Then AI Changed Everything | Daniel Santiago | [Read More](https://medium.com/p/7c05b7fb731d) |
-| Sat, 02 May 2026 19:56:01 GMT | Exception workflows that keep platform teams sane | Practical IT | [Read More](https://medium.com/p/ed27f2e59e5a) |
-| Sat, 02 May 2026 19:55:39 GMT | Copy Fail (CVE-2026–31431) Vulnerability: Architectural Flaws in the Linux Crypto API | Enes Buyuk | [Read More](https://medium.com/p/d47cd6650c8e) |
-| Sat, 02 May 2026 19:53:46 GMT | TryHackMe - AWS Security Logging - WriteUp | Axoloth | [Read More](https://medium.com/p/c0950d64e08e) |
-| Sat, 02 May 2026 19:32:33 GMT | Meet Chepe. He Opens Doors | DuckWrites | [Read More](https://medium.com/p/a735c241403f) |
-| Sat, 02 May 2026 19:30:56 GMT | How I Handle Secrets in DevOps (Without Creating Security Risks) | Puja Maheshvari | [Read More](https://medium.com/p/6998d18a313d) |
-| Sat, 02 May 2026 19:21:53 GMT | An Extraordinary Grace: Remembering Stewart Baker | Eric Luellen | [Read More](https://medium.com/p/c9962108002a) |
