@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 14:11:01 GMT | Which Marriages Are Most Vulnerable to Affairs? Warning Signs You Can’t Ignore | kate spider | [Read More](https://medium.com/p/bda4735fe1e6) |
+| Sun, 03 May 2026 14:10:16 GMT | From Credentials to SYSTEM: Pass-the-Password & Pass-the-Hash in Active Directory | Basithmohammedali | [Read More](https://medium.com/p/909f4dfd2b0e) |
+| Sun, 03 May 2026 14:09:44 GMT | Billyboss windows Walkthrough (Proving Ground-Play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/aa84778d769f) |
+| Sun, 03 May 2026 14:06:40 GMT | Demystifying Agentic AI: Understanding AI Agents and Workflows | Dasmanish | [Read More](https://medium.com/p/38a950b882be) |
+| Sun, 03 May 2026 14:06:11 GMT | ShadowC2 — I Built an AI-Controlled Red Team C2 That You Operate Entirely Through Telegram Using… | Krithick | [Read More](https://medium.com/p/248d0288cefa) |
+| Sun, 03 May 2026 14:04:54 GMT | The Punycode Paradox: When Unicode Normalization Turns Into an ATO | Munna✨ | [Read More](https://medium.com/p/d6938d7d7e62) |
+| Sun, 03 May 2026 14:02:31 GMT | Complete Guide: Installing & Configuring Suricata IDS on Windows, Wazuh integration, Rules creation… | Sami ST | [Read More](https://medium.com/p/d3464b3ec560) |
+| Sun, 03 May 2026 13:58:43 GMT | The Part of Me Nobody Gets to See. | Sneha Sharma | [Read More](https://medium.com/p/df06c82c7a2b) |
+| Sun, 03 May 2026 13:56:45 GMT | Claude Mythos: The AI That Redefines Cybersecurity (And Why It Changes Everything) | Jaskaran | [Read More](https://medium.com/p/15b5707ac666) |
+| Sun, 03 May 2026 13:55:57 GMT | Integrating OpenCTI with Splunk for Threat Intelligence: A Complete Guide | khalifa_farhat | [Read More](https://medium.com/p/afe60c9f8b7e) |
+| Sun, 03 May 2026 13:53:18 GMT | Why Enabling 2FA Is No Longer Optional in the Age of AI | Kaushal Sadhu | [Read More](https://medium.com/p/97225969486f) |
+| Sun, 03 May 2026 13:46:15 GMT | How Visma’s Verbose OAuth Debugger Exposed an Entire Identity Infrastructure | Jawad Momani | [Read More](https://medium.com/p/1f6140d1e0fc) |
+| Sun, 03 May 2026 13:42:30 GMT | Why Companies Are Still Not Ready for ISO/IEC 42001 in the Age of AI | Darshanarajput | [Read More](https://medium.com/p/ea623e3c983d) |
+| Sun, 03 May 2026 13:34:34 GMT | Pega CLSA Part 2 (Infinity v24) — From Developer to Enterprise Architect | SamIT Technology | [Read More](https://medium.com/p/e4eab1d894e2) |
+| Sun, 03 May 2026 13:30:27 GMT | I Spent 2 Months Building a JavaScript Recon Tool That Hunts CVEs, Secrets & Open APIs — So You… | 0xAbhiSec | [Read More](https://medium.com/p/4e7c809b6ecb) |
 | Sun, 03 May 2026 13:02:39 GMT | Protecting Yourself from Online Disinformation or Fake News Using OSINT | COVBEC | [Read More](https://medium.com/p/2397b1bd288d) |
 | Sun, 03 May 2026 12:57:14 GMT | Automating User Data Export from Entra ID Groups to CSV file | Srini Velamakanti | [Read More](https://medium.com/p/811e6c7378c3) |
 | Sun, 03 May 2026 12:56:01 GMT | Top 50 Wireshark Filters Every Cybersecurity Beginner Must Know | Karanam Shrivasta | [Read More](https://medium.com/p/449f0a689eb4) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 05:52:21 GMT | Stop Using Math.random(): Secure Java Random & UUID v4 | Rajalaxmi | [Read More](https://medium.com/p/2e6954fe900d) |
 | Sun, 03 May 2026 05:51:15 GMT | How to Upskill for Cybersecurity and Stay Ahead in the Age of AI — The 2026 Survival Guide | Sai kiran | [Read More](https://medium.com/p/ba2cd35ab8f2) |
 | Sun, 03 May 2026 05:34:18 GMT | How Integrated Cybersecurity Strengthens Business Continuity and Reduces Downtime | Securalynx | [Read More](https://medium.com/p/122a9f3139ff) |
-| Sun, 03 May 2026 05:26:08 GMT | Before the Internet Begins: What Really Happens When You Connect | Juan Carlos Jirón | [Read More](https://medium.com/p/811afe80abe5) |
-| Sun, 03 May 2026 05:20:34 GMT | Dasar-Dasar Orkestrasi Container dan Kubernetes | ndrozz | [Read More](https://medium.com/p/ab2ccb8d3557) |
-| Sun, 03 May 2026 05:12:25 GMT | Why Sovereign AI Matters in the Anthropic Mythos Era | David SEHYEON Baek | [Read More](https://medium.com/p/9ad93b9e60fa) |
-| Sun, 03 May 2026 05:09:34 GMT | CopyFail (CVE-2026–31431): 732 Bytes to Root on Every Linux System Since 2017 | Ishant | [Read More](https://medium.com/p/22cd769223f5) |
-| Sun, 03 May 2026 05:04:54 GMT | I Thought Authentication Was Easy Until I Built It | Abhimanyu | [Read More](https://medium.com/p/9f4232b5cbbd) |
-| Sun, 03 May 2026 05:04:37 GMT | The minerals powering AI, electric vehicles, and defense systems lie beneath African soil. | Tech and Training Africa | [Read More](https://medium.com/p/44d3c75b3eac) |
-| Sun, 03 May 2026 05:00:24 GMT | Building a Django SaaS That Passes a Security Audit: OWASP Top 10 for Backend Developers | Md Mojno Miya | [Read More](https://medium.com/p/ef919cce170e) |
-| Sun, 03 May 2026 04:43:39 GMT | Kali Linux Commands. | Haseeb Bilal | [Read More](https://medium.com/p/40724641655c) |
-| Sun, 03 May 2026 04:31:05 GMT | Why Static Controls Fail in an AI World | Anujhtewari | [Read More](https://medium.com/p/4e4401cc934b) |
-| Sun, 03 May 2026 04:31:01 GMT | Duplicate Avoid Karna Bug Bounty Ka Sabse Bada Dard: Smart Hunting Se Pehle Pahuncho, Pehle Kamao! | Hacker MD | [Read More](https://medium.com/p/530287e8f73d) |
-| Sun, 03 May 2026 03:59:58 GMT | Metaspliotable 2 via ftp | Gyanaranjansamal | [Read More](https://medium.com/p/fb6e2eafe686) |
-| Sun, 03 May 2026 03:59:23 GMT | MCP Is Production-Ready. Your Enterprise Data Architecture Isn’t — Here’s What Has to Change | Mahesh Goyal | [Read More](https://medium.com/p/77255be41782) |
-| Sun, 03 May 2026 03:56:32 GMT | AZURE PENTESTING — SENSITIVE INFORMATION EXPOSURE IN DATA FACTORY Draft Eng | Brayan Rodriguez Padilla | [Read More](https://medium.com/p/775353da7af5) |
-| Sun, 03 May 2026 03:33:58 GMT | CPanel & WHM CVE-2026–41940: The Authentication Bypass That Turned Hosting Servers Into Attack… | Logesh S | [Read More](https://medium.com/p/a5982364b730) |
-| Sun, 03 May 2026 03:21:32 GMT | The Package You Trusted Just Became the Weapon | Heet Rajesh Gala | [Read More](https://medium.com/p/65d5c8da56e6) |
