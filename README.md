@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 15:16:01 GMT | Still Running SMBv1? You’re Basically Inviting WannaCry to Dinner | Hugo Valters | [Read More](https://medium.com/p/bb87cc7baed4) |
+| Sun, 03 May 2026 15:12:55 GMT | I Opened One API Endpoint and Accidentally Found of Student Records ️‍♂️ | rozzen | [Read More](https://medium.com/p/c6ce7632167f) |
+| Sun, 03 May 2026 15:07:56 GMT | AI vs Cybersecurity Student: How I Cracked All 7 Levels of Gandalf Using Prompt Injection | Nilanjan Chowdhury | [Read More](https://medium.com/p/a20a4c8fafa1) |
+| Sun, 03 May 2026 15:01:48 GMT | I Built a Scripting Language for Pentesters So I Could Stop Gluing Bash, Python, and Go Together | Czax | [Read More](https://medium.com/p/93d1a08a8baa) |
+| Sun, 03 May 2026 15:01:45 GMT | Cybersecurity for Saudi SMEs: The Practical Guide to Protecting Your Business in 2026 | G Hamza C | [Read More](https://medium.com/p/9f96542d10af) |
+| Sun, 03 May 2026 15:01:02 GMT | Multi-Tenancy Is Not a Database Decision. It’s an Architecture Decision. | Refaat Al ktifan | [Read More](https://medium.com/p/13885847ee85) |
+| Sun, 03 May 2026 15:00:33 GMT | Management Information Systems: The Nervous System of Modern Business | Ahmed Raza | [Read More](https://medium.com/p/e96f07718220) |
+| Sun, 03 May 2026 14:59:22 GMT | Your secrets deserve better than plaintext: why I designed Keyden to replace .env | Divya Bairavarasu | [Read More](https://medium.com/p/aa15d6962efa) |
+| Sun, 03 May 2026 14:55:15 GMT | AI Cybersecurity for Enterprises in 2026: What US Businesses Need to Know Now | Short Tin | [Read More](https://medium.com/p/f9ec4ce490b0) |
+| Sun, 03 May 2026 14:54:06 GMT | TryHackMe Write-up : Detecting Web Attacks | Engosa | [Read More](https://medium.com/p/142ba8776977) |
+| Sun, 03 May 2026 14:49:48 GMT | Risk as the Price of Participation | Ibrahim Kimathi MINYORI | [Read More](https://medium.com/p/f55ac9dfd611) |
+| Sun, 03 May 2026 14:46:35 GMT | The Silent Rise of Cybersecurity Careers | Hania Khan | [Read More](https://medium.com/p/a6427d3775b7) |
+| Sun, 03 May 2026 14:46:19 GMT | Beyond the Alert: What I Learned Investigating the Shai-Hulud npm Worm | Elad Mordechai | [Read More](https://medium.com/p/a3c8c0a7a81d) |
+| Sun, 03 May 2026 14:40:03 GMT | 80s DRM - the cutter hack | pirelaurent | [Read More](https://medium.com/p/67141201bae4) |
+| Sun, 03 May 2026 14:35:43 GMT | Just Installed Linux? Do These 7 Things First (Beginner-Friendly Guide) Extended | Sam Writes Security | [Read More](https://medium.com/p/3d0b19adaae8) |
+| Sun, 03 May 2026 14:34:15 GMT | Random Bug Generator — A Fun Way to Discover Insects Instantly | Bushra noreen | [Read More](https://medium.com/p/2cf9bce207ba) |
+| Sun, 03 May 2026 14:17:25 GMT | The System Worked (By Almost Not Failing Completely) | A.L. Bellettiere (Anna Louise Bellettiere-Kuyper) | [Read More](https://medium.com/p/1f9415a4c988) |
 | Sun, 03 May 2026 14:11:01 GMT | Which Marriages Are Most Vulnerable to Affairs? Warning Signs You Can’t Ignore | kate spider | [Read More](https://medium.com/p/bda4735fe1e6) |
 | Sun, 03 May 2026 14:10:16 GMT | From Credentials to SYSTEM: Pass-the-Password & Pass-the-Hash in Active Directory | Basithmohammedali | [Read More](https://medium.com/p/909f4dfd2b0e) |
 | Sun, 03 May 2026 14:09:44 GMT | Billyboss windows Walkthrough (Proving Ground-Play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/aa84778d769f) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 07:16:01 GMT | Market Surveillance and Enforcement and the Penalties | Shahrukh - Data Analyst - Business Intelligence | [Read More](https://medium.com/p/c5a2721fb28b) |
 | Sun, 03 May 2026 07:13:16 GMT | Cyber Escalation: Iran-Linked Hackers Target US Service Members with Threatening Messages | ＮＥＷＳ ＰＯＩＮＴ ＺＯＮＥ | [Read More](https://medium.com/p/f365432f9d37) |
 | Sun, 03 May 2026 07:11:01 GMT | API Security Best Practices: Why the Internet Keeps Getting Robbed (And How to Stop It) | Sonali Punchihewa | [Read More](https://medium.com/p/eb72c1c3976e) |
-| Sun, 03 May 2026 07:08:50 GMT | OPERATION SILENT AUDIO | Tun Tun Naing | [Read More](https://medium.com/p/4a4db467aed0) |
-| Sun, 03 May 2026 07:08:43 GMT | What is Cybersecurity? | Mukulmistry | [Read More](https://medium.com/p/a10cb83a4019) |
-| Sun, 03 May 2026 07:06:01 GMT | The Open S3 Bucket Epidemic: Why Reading the Manual is Apparently Too Hard | Hugo Valters | [Read More](https://medium.com/p/cc6268ad23e8) |
-| Sun, 03 May 2026 07:05:00 GMT | Balancing Security and Flexibility with SSL Pinning Using Firebase Remote Config | Fauzan Abdillah | [Read More](https://medium.com/p/19dbd0fad925) |
-| Sun, 03 May 2026 07:01:01 GMT | Sprocket Line (RXSS) WebVerse | 7s26Simon | [Read More](https://medium.com/p/3704b6d7b375) |
-| Sun, 03 May 2026 06:56:47 GMT | CyberHeroes tryhackme — TryHackMe Walkthrough | Sunjid Ahmed Siyem | [Read More](https://medium.com/p/71923c8c0c4b) |
-| Sun, 03 May 2026 06:52:32 GMT | Linux Agency (THM) Tryhackme Walkthrough and Answer | Lawvye | [Read More](https://medium.com/p/b81701f88d16) |
-| Sun, 03 May 2026 06:48:26 GMT | Black Trace Analytics Enters Healthcare With Security Built Into the Model | Travis Ray Caverhill | [Read More](https://medium.com/p/7d697a58a0d6) |
-| Sun, 03 May 2026 06:21:47 GMT | CORS Cannot Save Your Backend | Nikhil Hegde | [Read More](https://medium.com/p/7e2e510d7390) |
-| Sun, 03 May 2026 06:17:38 GMT | SQL Injection Vulnerability | t4nu1 | [Read More](https://medium.com/p/4f8ebf45105e) |
-| Sun, 03 May 2026 06:12:05 GMT | How I Think the AI Transition Will Most Likely Play Out | Uzair Gokak | [Read More](https://medium.com/p/200fd00ed788) |
-| Sun, 03 May 2026 06:01:58 GMT | Best IT Training in the Philippine - A Practical Guide for Professionals and Organizations | Trainosys | [Read More](https://medium.com/p/51f2a425f11e) |
-| Sun, 03 May 2026 06:01:01 GMT | I Decompiled Your Android App. Here’s What I Found. | Dev 175 | [Read More](https://medium.com/p/4b2270a6ae48) |
-| Sun, 03 May 2026 05:57:43 GMT | MCP Server Authentication in .NET: Implement OAuth 2.1 with PKCE Natively | Pabasara Mahindapala | [Read More](https://medium.com/p/5b5caae76e67) |
-| Sun, 03 May 2026 05:52:21 GMT | Stop Using Math.random(): Secure Java Random & UUID v4 | Rajalaxmi | [Read More](https://medium.com/p/2e6954fe900d) |
-| Sun, 03 May 2026 05:51:15 GMT | How to Upskill for Cybersecurity and Stay Ahead in the Age of AI — The 2026 Survival Guide | Sai kiran | [Read More](https://medium.com/p/ba2cd35ab8f2) |
-| Sun, 03 May 2026 05:34:18 GMT | How Integrated Cybersecurity Strengthens Business Continuity and Reduces Downtime | Securalynx | [Read More](https://medium.com/p/122a9f3139ff) |
