@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 06:01:58 GMT | Best IT Training in the Philippine - A Practical Guide for Professionals and Organizations | Trainosys | [Read More](https://medium.com/p/51f2a425f11e) |
+| Sun, 03 May 2026 06:01:01 GMT | I Decompiled Your Android App. Here’s What I Found. | Dev 175 | [Read More](https://medium.com/p/4b2270a6ae48) |
+| Sun, 03 May 2026 05:57:43 GMT | MCP Server Authentication in .NET: Implement OAuth 2.1 with PKCE Natively | Pabasara Mahindapala | [Read More](https://medium.com/p/5b5caae76e67) |
+| Sun, 03 May 2026 05:52:21 GMT | Stop Using Math.random(): Secure Java Random & UUID v4 | Rajalaxmi | [Read More](https://medium.com/p/2e6954fe900d) |
+| Sun, 03 May 2026 05:51:15 GMT | How to Upskill for Cybersecurity and Stay Ahead in the Age of AI — The 2026 Survival Guide | Sai kiran | [Read More](https://medium.com/p/ba2cd35ab8f2) |
+| Sun, 03 May 2026 05:34:18 GMT | How Integrated Cybersecurity Strengthens Business Continuity and Reduces Downtime | Securalynx | [Read More](https://medium.com/p/122a9f3139ff) |
+| Sun, 03 May 2026 05:26:08 GMT | Before the Internet Begins: What Really Happens When You Connect | Juan Carlos Jirón | [Read More](https://medium.com/p/811afe80abe5) |
+| Sun, 03 May 2026 05:20:34 GMT | Dasar-Dasar Orkestrasi Container dan Kubernetes | ndrozz | [Read More](https://medium.com/p/ab2ccb8d3557) |
+| Sun, 03 May 2026 05:12:25 GMT | Why Sovereign AI Matters in the Anthropic Mythos Era | David SEHYEON Baek | [Read More](https://medium.com/p/9ad93b9e60fa) |
+| Sun, 03 May 2026 05:09:34 GMT | CopyFail (CVE-2026–31431): 732 Bytes to Root on Every Linux System Since 2017 | Ishant | [Read More](https://medium.com/p/22cd769223f5) |
+| Sun, 03 May 2026 05:04:54 GMT | I Thought Authentication Was Easy Until I Built It | Abhimanyu | [Read More](https://medium.com/p/9f4232b5cbbd) |
+| Sun, 03 May 2026 05:04:37 GMT | The minerals powering AI, electric vehicles, and defense systems lie beneath African soil. | Tech and Training Africa | [Read More](https://medium.com/p/44d3c75b3eac) |
+| Sun, 03 May 2026 05:00:24 GMT | Building a Django SaaS That Passes a Security Audit: OWASP Top 10 for Backend Developers | Md Mojno Miya | [Read More](https://medium.com/p/ef919cce170e) |
+| Sun, 03 May 2026 04:43:39 GMT | Kali Linux Commands. | Haseeb Bilal | [Read More](https://medium.com/p/40724641655c) |
+| Sun, 03 May 2026 04:31:05 GMT | Why Static Controls Fail in an AI World | Anujhtewari | [Read More](https://medium.com/p/4e4401cc934b) |
+| Sun, 03 May 2026 04:31:01 GMT | Duplicate Avoid Karna Bug Bounty Ka Sabse Bada Dard: Smart Hunting Se Pehle Pahuncho, Pehle Kamao! | Hacker MD | [Read More](https://medium.com/p/530287e8f73d) |
+| Sun, 03 May 2026 03:59:23 GMT | MCP Is Production-Ready. Your Enterprise Data Architecture Isn’t — Here’s What Has to Change | Mahesh Goyal | [Read More](https://medium.com/p/77255be41782) |
+| Sun, 03 May 2026 03:56:32 GMT | AZURE PENTESTING — SENSITIVE INFORMATION EXPOSURE IN DATA FACTORY Draft Eng | Brayan Rodriguez Padilla | [Read More](https://medium.com/p/775353da7af5) |
 | Sun, 03 May 2026 03:21:32 GMT | The Package You Trusted Just Became the Weapon | Heet Rajesh Gala | [Read More](https://medium.com/p/65d5c8da56e6) |
 | Sun, 03 May 2026 03:10:29 GMT | Security Guard Services in Edmonton: A Complete Guide for Property Owners | Griffin Security | [Read More](https://medium.com/p/5fb9f38bc22b) |
 | Sun, 03 May 2026 03:04:37 GMT | How Two Guys Stole $35M From eBay Using a Single HTML Tag | David Lee | [Read More](https://medium.com/p/9461fa553e48) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 18:21:41 GMT | An AI Agent Could Compromise Your Cloud in 4 Minutes. I Mapped Exactly How. | Dishanth C A | [Read More](https://medium.com/p/f205808a3d9a) |
 | Sat, 02 May 2026 18:09:03 GMT | Bir Web Uygulamasının Sunucu Dosyalarına Erişim Sürecinde Arka Planda Neler Gerçekleşiyor? | Şahinde Ceren OMRAK | [Read More](https://medium.com/p/04a9a4a5192e) |
 | Sat, 02 May 2026 18:07:42 GMT | The Mechanics of Deterrence: What the US Airlift Means for Iran | Golda Mizrahi | [Read More](https://medium.com/p/c9aa63f2013a) |
-| Sat, 02 May 2026 18:02:00 GMT | If AI Can Find the Bugs, Why Are They Still There? | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/7d471370d5d8) |
-| Sat, 02 May 2026 17:59:29 GMT | Learning SOC the Right Way: Why Log Analysis Matters More Than You Think | AlKhal.SecOps | [Read More](https://medium.com/p/fc8bf0b501d9) |
-| Sat, 02 May 2026 17:43:08 GMT | From ClickOps to DevOps: What Terraform Showed Me About My Own Azure Policy | Joseph A. M. | [Read More](https://medium.com/p/b15832997bbf) |
-| Sat, 02 May 2026 17:42:24 GMT | How to Choose the Right Security Guard Company in Edmonton for Your Business | Griffin Security | [Read More](https://medium.com/p/0796d3ebe604) |
-| Sat, 02 May 2026 17:37:25 GMT | The Cloud Visibility Gap Is Getting Organisations Breached: What the Numbers Actually Show | Sai Teja | [Read More](https://medium.com/p/34c8c1201060) |
-| Sat, 02 May 2026 17:32:26 GMT | سيكولوجية البيانات: كيف نستنطق الأدلة الرقمية لإثبات القصد الجنائي؟ | Layan Albattah | [Read More](https://medium.com/p/97195e232b04) |
-| Sat, 02 May 2026 17:31:01 GMT | Why the MITRE ATT&CK IaaS Matrix is one of the most underused tools in cloud detection | Fernando (Sh4dowBR) Alencar | [Read More](https://medium.com/p/40bfcdbd0ec2) |
-| Sat, 02 May 2026 17:29:47 GMT | The “Invite Only” Loophole That Led to a $3,000 Payout | Tanvi Chauhan | [Read More](https://medium.com/p/53aff5cca73a) |
-| Sat, 02 May 2026 17:24:20 GMT | Why Claude Mythos Should Terrify You | Aditya Dhandi | [Read More](https://medium.com/p/cb3bfdf63296) |
-| Sat, 02 May 2026 17:21:50 GMT | APT41 Targeting Pharmaceutical Sector: Log4Shell to Domain Compromise | Andrey Pautov | [Read More](https://medium.com/p/9e4c1ba9dad6) |
-| Sat, 02 May 2026 17:18:27 GMT | تێپەرێنم eWPTX چۆن توانیم تاقیکردنەوەی | error-01 | [Read More](https://medium.com/p/4aef2189cf8b) |
-| Sat, 02 May 2026 17:14:37 GMT | We Didn’t Get Hacked… We Left the Door Open The Real Cybersecurity Threat Landscape of 2023–2026 | NetNuggets | [Read More](https://medium.com/p/1c26038cbbbe) |
-| Sat, 02 May 2026 17:10:18 GMT | The 11pm Audit: Why Most GRC Platforms Fail You at the Worst Moment | Olumide Abayomi | [Read More](https://medium.com/p/fbedb85b5456) |
-| Sat, 02 May 2026 17:06:05 GMT | Phishing Campaigns Evolve as Attackers Exploit Trusted Cloud Platforms | Jas | [Read More](https://medium.com/p/d3ad71f76cd8) |
-| Sat, 02 May 2026 17:04:08 GMT | Morty Has Fallen-Full Walkthrough | Cybernerddd | [Read More](https://medium.com/p/0f9d11e5aafb) |
-| Sat, 02 May 2026 17:00:04 GMT | AI Agents for Penetration Testing - Claude Code & Gamma4 | Pentester Club | [Read More](https://medium.com/p/ff5487d8db64) |
-| Sat, 02 May 2026 16:53:42 GMT | Architect’s Breakdown: Browser-Based RDP/SMB Clients — Security Benefits and Hidden Risks | Ankurtechno | [Read More](https://medium.com/p/2005dcb8be30) |
-| Sat, 02 May 2026 16:49:25 GMT | Beyond the Ping: Mastering Nmap for Network Reconnaissance in 2026 | rdtsc | [Read More](https://medium.com/p/70ee618643d7) |
