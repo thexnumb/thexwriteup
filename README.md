@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 19:22:56 GMT | The Windows Concept Journey — UNC (Universal Naming Convention) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8b9a9959d211) |
+| Sun, 03 May 2026 19:20:56 GMT | The Hidden Cracks in the Wall: Understanding Vulnerabilities in Cybersecurity | Muradqulizade | [Read More](https://medium.com/p/7d39b366a8d2) |
+| Sun, 03 May 2026 19:19:02 GMT | Static and Dynamic Analysis Tools in Software Security | Muradqulizade | [Read More](https://medium.com/p/8100cc072e5e) |
+| Sun, 03 May 2026 19:16:01 GMT | Port 3389 to the World: How to Lose Your Company Data Over the Weekend | Hugo Valters | [Read More](https://medium.com/p/82ef1068b040) |
+| Sun, 03 May 2026 19:09:54 GMT | The Hidden Cracks: Understanding Vulnerabilities in a Connected World | Hezeyan Nw | [Read More](https://medium.com/p/ee940ea0f4ed) |
+| Sun, 03 May 2026 19:08:54 GMT | Understanding CVE-2026–6127: How a Simple Formatting Trick Bypassed Elementor’s Security | Yash Gohel | [Read More](https://medium.com/p/ea802dc81448) |
+| Sun, 03 May 2026 19:06:32 GMT | Hacker101 CTF Walkthrough — A Little Something to Get You Started | Ankitsingh | [Read More](https://medium.com/p/485d2f3a2bb7) |
+| Sun, 03 May 2026 19:04:23 GMT | Financial Privacy Isn’t About Hiding. It’s About Owning. | only1davx | [Read More](https://medium.com/p/88c0e7e84b05) |
+| Sun, 03 May 2026 19:01:47 GMT | I ARP-Spoofed My Own Home LAN with Bettercap | Oded Neuhaus | [Read More](https://medium.com/p/85ea59e2fde7) |
+| Sun, 03 May 2026 19:00:53 GMT | I Built My First Security Tool in Python | Robert Perez | [Read More](https://medium.com/p/1c10b0ced0e8) |
+| Sun, 03 May 2026 18:58:30 GMT | The cPanel Security Crisis: Understanding the CVE-2026–41940 Authentication Bypass | Yash Gohel | [Read More](https://medium.com/p/aa654963ea33) |
+| Sun, 03 May 2026 18:56:51 GMT | HTB: Appointment Box Walkthrough | Coldstart Coder | [Read More](https://medium.com/p/eb49a3230abc) |
+| Sun, 03 May 2026 18:56:01 GMT | Azure Policy Exemptions at Scale | Practical IT | [Read More](https://medium.com/p/4a63fb845ead) |
+| Sun, 03 May 2026 18:55:57 GMT | LFI to RCE: Remote File Inclusion and How Servers Execute Your Shell | 0x4rt1st | [Read More](https://medium.com/p/6b165770cd91) |
+| Sun, 03 May 2026 18:47:52 GMT | The Illusion of Safety Is Fading Fast | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/593c29181869) |
+| Sun, 03 May 2026 18:45:09 GMT | How I Found a Race Condition That Broke a Resource Limit (Real-World Case Study) | OWL | [Read More](https://medium.com/p/79bd09f29e8f) |
+| Sun, 03 May 2026 18:40:41 GMT | Eksploitasi & Mitigasi Samba 3.0.20: Write-up Simulasi Red Team & Blue Team | Muhajir Amrullah | [Read More](https://medium.com/p/40cf0e58595f) |
+| Sun, 03 May 2026 18:37:20 GMT | Your AI is Showing — Post 3 Sensitive Information Disclosure | Devanshi Patel | [Read More](https://medium.com/p/30815f5c6feb) |
+| Sun, 03 May 2026 18:29:30 GMT | AI + Recon — Auto-Analyzing Results Like a Senior Pentester (Part 8) | ghostyjoe | [Read More](https://medium.com/p/bbeeb8afba11) |
+| Sun, 03 May 2026 18:27:33 GMT | OffSec Proving Grounds “Seppuku” CTF Writeup | sabR | [Read More](https://medium.com/p/ab83b60f78b0) |
+| Sun, 03 May 2026 18:22:19 GMT | Breaking NTLM: From Hash Capture to Domain Compromise | Will Giles - Cybersecurity | [Read More](https://medium.com/p/70db01016fcd) |
 | Sun, 03 May 2026 18:02:13 GMT | AI World News | AI World Journal | [Read More](https://medium.com/p/062691b7e125) |
 | Sun, 03 May 2026 18:01:15 GMT | Ağın Ortasına Oturan Araç: Bettercap | İbrahim Yiğit Çetin | [Read More](https://medium.com/p/04fcf4f76cdc) |
 | Sun, 03 May 2026 17:59:28 GMT | Is Bug Bounty Dead in 2026? Claude Code Security Is Changing Everything! | Shahzaib | [Read More](https://medium.com/p/ae9290ea11f7) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 13:53:18 GMT | Why Enabling 2FA Is No Longer Optional in the Age of AI | Kaushal Sadhu | [Read More](https://medium.com/p/97225969486f) |
 | Sun, 03 May 2026 13:46:15 GMT | How Visma’s Verbose OAuth Debugger Exposed an Entire Identity Infrastructure | Jawad Momani | [Read More](https://medium.com/p/1f6140d1e0fc) |
 | Sun, 03 May 2026 13:42:30 GMT | Why Companies Are Still Not Ready for ISO/IEC 42001 in the Age of AI | Darshanarajput | [Read More](https://medium.com/p/ea623e3c983d) |
-| Sun, 03 May 2026 13:34:34 GMT | Pega CLSA Part 2 (Infinity v24) — From Developer to Enterprise Architect | SamIT Technology | [Read More](https://medium.com/p/e4eab1d894e2) |
-| Sun, 03 May 2026 13:30:27 GMT | I Spent 2 Months Building a JavaScript Recon Tool That Hunts CVEs, Secrets & Open APIs — So You… | 0xAbhiSec | [Read More](https://medium.com/p/4e7c809b6ecb) |
-| Sun, 03 May 2026 13:02:39 GMT | Protecting Yourself from Online Disinformation or Fake News Using OSINT | COVBEC | [Read More](https://medium.com/p/2397b1bd288d) |
-| Sun, 03 May 2026 12:57:14 GMT | Automating User Data Export from Entra ID Groups to CSV file | Srini Velamakanti | [Read More](https://medium.com/p/811e6c7378c3) |
-| Sun, 03 May 2026 12:56:01 GMT | Top 50 Wireshark Filters Every Cybersecurity Beginner Must Know | Karanam Shrivasta | [Read More](https://medium.com/p/449f0a689eb4) |
-| Sun, 03 May 2026 12:54:31 GMT | “Tier 1 SOC Is Dying.” | Yua Mikanana | [Read More](https://medium.com/p/2a0db6f4a46b) |
-| Sun, 03 May 2026 12:54:11 GMT | Stuck between two centuries | Harshit Kapoor | [Read More](https://medium.com/p/9fb2d3f65bb1) |
-| Sun, 03 May 2026 12:45:38 GMT | This is for the person who knows something is going on — but nobody has explained it properly yet | Muhammad Essam | [Read More](https://medium.com/p/9cbdb77c4efd) |
-| Sun, 03 May 2026 12:45:35 GMT | Mythos Doesn’t Create Your Detection Gaps — It Finds Them | Barry Stephenson | [Read More](https://medium.com/p/2035cf904adc) |
-| Sun, 03 May 2026 12:43:02 GMT | Find Public Security Groups Across Multiple AWS Accounts with Lambda | Aung Hein Kyaw | [Read More](https://medium.com/p/7aa0029efa4e) |
-| Sun, 03 May 2026 12:33:58 GMT | The Complete WordPress Security Hardening Guide for 2026 | Marufa Sharmin | [Read More](https://medium.com/p/0d0554c1d2f2) |
-| Sun, 03 May 2026 12:25:15 GMT | I Told My Friend I’d Hack WhatsApp. Then I Actually Did It. | Yuvraj Raghuvanshi | [Read More](https://medium.com/p/dcc5b7901824) |
-| Sun, 03 May 2026 12:20:04 GMT | Why Every Atlanta Small Business Needs a Local IT Support Partner | Edgarjmosley Infinity | [Read More](https://medium.com/p/e32d9ae67c8e) |
-| Sun, 03 May 2026 12:10:04 GMT | # Best Betting Platforms in 2026 | Abdallahrj | [Read More](https://medium.com/p/36faa331f364) |
-| Sun, 03 May 2026 12:08:59 GMT | Identity & Communication on the Internet: The Hidden System Behind Every Click | Tanya Awasthi | [Read More](https://medium.com/p/8c625d532f49) |
-| Sun, 03 May 2026 12:05:12 GMT | CompTIA Security+ SY0–701 Made Easy: Your Complete Beginner Roadmap to Cybersecurity Success | Azhariqbal | [Read More](https://medium.com/p/9a4cd6cdd035) |
-| Sun, 03 May 2026 11:52:07 GMT | How Ransomware Groups Gain Initial Access: Exposed Systems, Phishing, and Credential Attacks | Security Analyst | [Read More](https://medium.com/p/d0d3c2e3fc4f) |
-| Sun, 03 May 2026 11:35:50 GMT | How I Deployed a Secure Harbor Registry with HTTPS on RKE1 & RKE2 (Real Production Setup) | Pushpak Raut | [Read More](https://medium.com/p/d7c7e5448bc7) |
-| Sun, 03 May 2026 11:31:01 GMT | The ‘Domain Admin’ Ego Trip: Why Handing Out DA Privileges Guarantees a Ransomware Outbreak | Hugo Valters | [Read More](https://medium.com/p/25f3b0475ac2) |
-| Sun, 03 May 2026 11:27:27 GMT | What The Tech?! The TOR Network | Investigator515 | [Read More](https://medium.com/p/1011c4cc77c6) |
-| Sun, 03 May 2026 11:27:03 GMT | CE Marking for Software Under the CRA: Conformity Assessment Guide | CRA Decoded | [Read More](https://medium.com/p/27b9cb2cfbe9) |
