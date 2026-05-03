@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 17:18:53 GMT | CyberDefenders — RansomHub Lab Writeup | JBXSec | [Read More](https://medium.com/p/7e2d719bdef1) |
+| Sun, 03 May 2026 17:17:16 GMT | How an Attacker Turned Our PHP File Upload Into a Remote Shell | Ann R. | [Read More](https://medium.com/p/228eed663caf) |
+| Sun, 03 May 2026 17:11:51 GMT | CyberBench: Building a Self-Improving Multi-Agent Cybersecurity Evaluation System | Gitikrajjindal | [Read More](https://medium.com/p/c5af53a9d67c) |
+| Sun, 03 May 2026 17:11:01 GMT | Wazuh SIEM: A Threat Hunting Toolkit for People Who Hate SIEMs | Hugo Valters | [Read More](https://medium.com/p/22f5244e17c3) |
+| Sun, 03 May 2026 17:08:56 GMT | Active Directory Setup: Where Identity Becomes Infrastructure | Yusuf Isiaq | [Read More](https://medium.com/p/e4298f47374a) |
+| Sun, 03 May 2026 17:08:40 GMT | CISA Adds CVE-2026-31431 Copy Fail Linux Bug to KEV Catalog | Cybrdef | [Read More](https://medium.com/p/b458001019f2) |
+| Sun, 03 May 2026 17:07:54 GMT | 5 Spring Boot Production Problems (With Battle-Tested Fixes) | The Latency Gambler | [Read More](https://medium.com/p/b4498d22d10e) |
+| Sun, 03 May 2026 17:06:51 GMT | Securing Jenkins with GitHub SSO | Ikeri Ebenezer | [Read More](https://medium.com/p/17d53e41cab8) |
+| Sun, 03 May 2026 17:05:38 GMT | Vect Ransomware Partners With TeamPCP to Launch Supply Chain Hits | Cybrdef | [Read More](https://medium.com/p/a2eff03e5756) |
+| Sun, 03 May 2026 16:58:15 GMT | The New Sentinel: How AI Is Rewriting Cybersecurity — And Why You Should Be Excited, Not Scared | Priyanshu Ranjan Srivastava | [Read More](https://medium.com/p/74580a2ab3fa) |
+| Sun, 03 May 2026 16:54:24 GMT | Detecting SQL Injection Attacks using Machine Learning (KNN + Decision Tree) | Sheetal Thomas | [Read More](https://medium.com/p/4ac84ad72e71) |
+| Sun, 03 May 2026 16:53:11 GMT | Billing-A TtryHackMe Writeup | 0x77 | [Read More](https://medium.com/p/4be12b93e2f6) |
+| Sun, 03 May 2026 16:50:56 GMT | The Digital War Nobody Talks About: Cyber Security in Palestine and Gaza | Dafa Dwi Putra | [Read More](https://medium.com/p/09f78a0da5a4) |
+| Sun, 03 May 2026 16:50:43 GMT | The AI Agent Destroyed Its Mail Server to Keep a Secret | Zafer Dace | [Read More](https://medium.com/p/f276d3a02c74) |
+| Sun, 03 May 2026 16:47:45 GMT | Chaining Logic Flaws: From KYC Bypass to Authenticated Time-Based SQLi and Mass IDOR | elcezeri | [Read More](https://medium.com/p/0425f362dad5) |
+| Sun, 03 May 2026 16:43:35 GMT | The Ghost in the Network: Why Most Hackers Get Caught Before the First Exploit | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/26f052f000b6) |
+| Sun, 03 May 2026 16:41:01 GMT | How I Broke a Travel Giant’s “Non-Refundable” Policy for a $12,000 Bounty | Tanvi Chauhan | [Read More](https://medium.com/p/04148200279a) |
+| Sun, 03 May 2026 16:38:04 GMT | Pass the Hash Attacks in Active Directory: How NTLM Authentication Is Abused in Real Breaches | Nisa | [Read More](https://medium.com/p/d68905b9f9ae) |
+| Sun, 03 May 2026 16:31:12 GMT | Real Estate CRM Pentest: Broken Auth + IDOR + Stored XSS — Full Attack Chain | Shikhali Jamalzade | [Read More](https://medium.com/p/5ef610a57e49) |
+| Sun, 03 May 2026 16:12:47 GMT | Threats to Asset Security | Aniket Deshmukh | [Read More](https://medium.com/p/bece62e722eb) |
 | Sun, 03 May 2026 16:04:27 GMT | Impacket Net Toolkit - Pentester’s Guide | Pentester Club | [Read More](https://medium.com/p/3a1a069956e3) |
 | Sun, 03 May 2026 16:04:08 GMT | Your Next Cyberattack Might Be AI-Generated. Here’s How Worried You Should Be | Rashmi Mishra | [Read More](https://medium.com/p/ae01c2ca2b9c) |
 | Sun, 03 May 2026 16:01:42 GMT | What I Found When My Governance Lab Met Real Engineering | Joseph A. M. | [Read More](https://medium.com/p/dd8a8c8d9156) |
@@ -93,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 10:19:35 GMT | Splunk: Dashboards and Reports - TryHackMe | Ryca | [Read More](https://medium.com/p/d97af1910f09) |
 | Sun, 03 May 2026 10:15:54 GMT | Prompt Injection Taxonomy: A Practitioner’s Guide to CrowdStrike’s Attack Classification Framework | Pietro Romano / SecBeret | [Read More](https://medium.com/p/0babb2e1d5c8) |
 | Sun, 03 May 2026 10:01:48 GMT | Detection of SSH Brute Force Attacks and File Integrity Monitoring Using Wazuh | Muhammad Rezky Amri | [Read More](https://medium.com/p/dbdf41cb1593) |
-| Sun, 03 May 2026 10:01:01 GMT | How I Got Into Cybersecurity With No Experience | Victoria Coker | [Read More](https://medium.com/p/9324c099b9c4) |
-| Sun, 03 May 2026 09:54:40 GMT | Best Cyber Security Institute in Sangam Vihar | EINITIAL24 | [Read More](https://medium.com/p/753071026dbf) |
-| Sun, 03 May 2026 09:43:43 GMT | OSSEC: IDOR vulnerability no more — The easiest way for you to verify your apps yourself. | Lucas Soares | [Read More](https://medium.com/p/6c18efacb7a8) |
-| Sun, 03 May 2026 09:37:16 GMT | From lock picking to Cyber Defense | wh0arey0u | [Read More](https://medium.com/p/752678aaf6f7) |
-| Sun, 03 May 2026 09:35:38 GMT | How Your Accounts Get Hacked (Even When You Did Nothing Wrong) | ByteTheory | [Read More](https://medium.com/p/3b84ab64739e) |
-| Sun, 03 May 2026 09:33:55 GMT | Auditing and Monitoring - TryHackMe | Ryca | [Read More](https://medium.com/p/e34ec1decebd) |
-| Sun, 03 May 2026 09:31:43 GMT | Race Conditions in the Wild: How Parallel Requests Turned a Simple Bug into a Critical Exploit | Đeepanshu | [Read More](https://medium.com/p/9050f18c44cc) |
-| Sun, 03 May 2026 09:28:48 GMT | CVE-2026–41940: cPanel’de Şifresiz Root Erişimi (Auth Bypass) | Burkay Elbir | [Read More](https://medium.com/p/2c402835eeca) |
-| Sun, 03 May 2026 09:26:15 GMT | Your Data Is Everywhere — And You Probably Don’t Even Know It | Prithika | [Read More](https://medium.com/p/3e3107971d05) |
-| Sun, 03 May 2026 09:21:33 GMT | What World Models Teach Us About Securing AI | Spyros Argyrakos | [Read More](https://medium.com/p/59a762aa38f5) |
-| Sun, 03 May 2026 09:19:01 GMT | Best Apartment Security Devices That Actually Make You Feel Safe | Criminology Expert | [Read More](https://medium.com/p/2d6d656cb704) |
-| Sun, 03 May 2026 09:14:45 GMT | The Ghost in the Machine: A Bug Bounty Short Story | Mohamed Adel | [Read More](https://medium.com/p/58f2367705a6) |
-| Sun, 03 May 2026 09:07:29 GMT | Traveling to Mexico: The Truth From Someone Who Actually Lived There. | Jay Travler | [Read More](https://medium.com/p/7c92c8d0f4c9) |
-| Sun, 03 May 2026 09:03:41 GMT | Why Hackers Still Use EDR-Killing Malware After Taking Over the Super Admin Account | David SEHYEON Baek | [Read More](https://medium.com/p/168c21c48474) |
-| Sun, 03 May 2026 09:00:07 GMT | ️ Stealth vs Aggressive Recon — Avoid Bans & Maximize Coverage (Part 7) | ghostyjoe | [Read More](https://medium.com/p/71919a553ff2) |
-| Sun, 03 May 2026 08:57:29 GMT | WordPress CVE-2021–29447 — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/ddc4f01fa34c) |
-| Sun, 03 May 2026 08:48:58 GMT | বাংলায়-Pentesting Fundamentals, Part-1 | Zahid Hasan Zinnah | [Read More](https://medium.com/p/a93a6948b615) |
-| Sun, 03 May 2026 08:48:09 GMT | Fool the Lockout — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/073f20788d82) |
-| Sun, 03 May 2026 08:25:31 GMT | Basic Understanding of IPv4 Classes and Ranges. | Haseeb Bilal | [Read More](https://medium.com/p/c68652d2a223) |
-| Sun, 03 May 2026 08:21:44 GMT | Why Your SAST Tool Is Flying Half-Blind, And What LLMs Can Actually Fix | Red Oxyde | [Read More](https://medium.com/p/2ef25f946f72) |
