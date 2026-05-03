@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 20:39:07 GMT | Building a Windows Network Filter Driver: Intercepting Outbound Connections | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b604c366008c) |
+| Sun, 03 May 2026 20:38:07 GMT | Why Your Employees Keep Falling for Phishing (And What Actually Fixes It) | Mike McNelis | [Read More](https://medium.com/p/20ef48917b8a) |
+| Sun, 03 May 2026 20:35:16 GMT | Ubuntu Services Hit by Outages After DDoS Attack: What Happened, Who’s Responsible, and What It… | Garythatcher | [Read More](https://medium.com/p/e91d9a711c07) |
+| Sun, 03 May 2026 20:23:28 GMT | TryHackMe Walkthrough: Active Directory Basics | Shubham Khirwadkar | [Read More](https://medium.com/p/cc378dde4388) |
+| Sun, 03 May 2026 20:21:07 GMT | Printer Shares — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/181d74ea48b7) |
+| Sun, 03 May 2026 20:15:52 GMT | The Clanker Era: A Human-First Survival Guide in the Age of AI Displacement | CyberDucky | [Read More](https://medium.com/p/80819b3b5762) |
+| Sun, 03 May 2026 20:10:22 GMT | Beyond Heuristics: Formally Verifying AI-Generated Infrastructure with Z3 SMT Solvers | Hira | [Read More](https://medium.com/p/e95fd3a7bf95) |
+| Sun, 03 May 2026 20:02:21 GMT | Broken Authentication & 2FA Bybass ‘Business logic Error’ | Mohammed Yassin | [Read More](https://medium.com/p/ba24ee03a0d7) |
+| Sun, 03 May 2026 19:51:01 GMT | How 1,000 Wei Can Drain Protocol Fees: A Deep Dive into CoW Protocol Rounding Errors | rdin777 | [Read More](https://medium.com/p/a96617ebe672) |
+| Sun, 03 May 2026 19:49:46 GMT | Stop putting AWS keys in GitHub Actions secrets before a security incident hits you in the face | Akhilesh Mishra | [Read More](https://medium.com/p/0a28843ac76e) |
+| Sun, 03 May 2026 19:37:49 GMT | The Dark Forest Rescue | Samarth | [Read More](https://medium.com/p/83a62c18809d) |
+| Sun, 03 May 2026 19:30:57 GMT | I Always Wanted to Know How .pem, .key and .crt Files are Making the Internet Secure | Montasir Mahmud | [Read More](https://medium.com/p/ebc741b0f0ca) |
+| Sun, 03 May 2026 19:30:00 GMT | A Cybersecurity Company Just Had Its Source Code Stolen. Here Is Why That Should Worry Everyone. | Sai kiran | [Read More](https://medium.com/p/e2b2f7b3f128) |
+| Sun, 03 May 2026 19:26:14 GMT | Vulnerability in Cyber Security | Ramin Ismayilov | [Read More](https://medium.com/p/c2f550f7b08e) |
 | Sun, 03 May 2026 19:22:56 GMT | The Windows Concept Journey — UNC (Universal Naming Convention) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8b9a9959d211) |
 | Sun, 03 May 2026 19:20:56 GMT | The Hidden Cracks in the Wall: Understanding Vulnerabilities in Cybersecurity | Muradqulizade | [Read More](https://medium.com/p/7d39b366a8d2) |
 | Sun, 03 May 2026 19:19:02 GMT | Static and Dynamic Analysis Tools in Software Security | Muradqulizade | [Read More](https://medium.com/p/8100cc072e5e) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 14:40:03 GMT | 80s DRM - the cutter hack | pirelaurent | [Read More](https://medium.com/p/67141201bae4) |
 | Sun, 03 May 2026 14:35:43 GMT | Just Installed Linux? Do These 7 Things First (Beginner-Friendly Guide) Extended | Sam Writes Security | [Read More](https://medium.com/p/3d0b19adaae8) |
 | Sun, 03 May 2026 14:34:15 GMT | Random Bug Generator — A Fun Way to Discover Insects Instantly | Bushra noreen | [Read More](https://medium.com/p/2cf9bce207ba) |
-| Sun, 03 May 2026 14:17:25 GMT | The System Worked (By Almost Not Failing Completely) | A.L. Bellettiere (Anna Louise Bellettiere-Kuyper) | [Read More](https://medium.com/p/1f9415a4c988) |
-| Sun, 03 May 2026 14:11:01 GMT | Which Marriages Are Most Vulnerable to Affairs? Warning Signs You Can’t Ignore | kate spider | [Read More](https://medium.com/p/bda4735fe1e6) |
-| Sun, 03 May 2026 14:10:16 GMT | From Credentials to SYSTEM: Pass-the-Password & Pass-the-Hash in Active Directory | Basithmohammedali | [Read More](https://medium.com/p/909f4dfd2b0e) |
-| Sun, 03 May 2026 14:09:44 GMT | Billyboss windows Walkthrough (Proving Ground-Play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/aa84778d769f) |
-| Sun, 03 May 2026 14:06:40 GMT | Demystifying Agentic AI: Understanding AI Agents and Workflows | Dasmanish | [Read More](https://medium.com/p/38a950b882be) |
-| Sun, 03 May 2026 14:06:11 GMT | ShadowC2 — I Built an AI-Controlled Red Team C2 That You Operate Entirely Through Telegram Using… | Krithick | [Read More](https://medium.com/p/248d0288cefa) |
-| Sun, 03 May 2026 14:04:54 GMT | The Punycode Paradox: When Unicode Normalization Turns Into an ATO | Munna✨ | [Read More](https://medium.com/p/d6938d7d7e62) |
-| Sun, 03 May 2026 14:02:31 GMT | Complete Guide: Installing & Configuring Suricata IDS on Windows, Wazuh integration, Rules creation… | Sami ST | [Read More](https://medium.com/p/d3464b3ec560) |
-| Sun, 03 May 2026 13:58:43 GMT | The Part of Me Nobody Gets to See. | Sneha Sharma | [Read More](https://medium.com/p/df06c82c7a2b) |
-| Sun, 03 May 2026 13:56:45 GMT | Claude Mythos: The AI That Redefines Cybersecurity (And Why It Changes Everything) | Jaskaran | [Read More](https://medium.com/p/15b5707ac666) |
-| Sun, 03 May 2026 13:55:57 GMT | Integrating OpenCTI with Splunk for Threat Intelligence: A Complete Guide | khalifa_farhat | [Read More](https://medium.com/p/afe60c9f8b7e) |
-| Sun, 03 May 2026 13:53:18 GMT | Why Enabling 2FA Is No Longer Optional in the Age of AI | Kaushal Sadhu | [Read More](https://medium.com/p/97225969486f) |
-| Sun, 03 May 2026 13:46:15 GMT | How Visma’s Verbose OAuth Debugger Exposed an Entire Identity Infrastructure | Jawad Momani | [Read More](https://medium.com/p/1f6140d1e0fc) |
-| Sun, 03 May 2026 13:42:30 GMT | Why Companies Are Still Not Ready for ISO/IEC 42001 in the Age of AI | Darshanarajput | [Read More](https://medium.com/p/ea623e3c983d) |
