@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 18:02:13 GMT | AI World News | AI World Journal | [Read More](https://medium.com/p/062691b7e125) |
+| Sun, 03 May 2026 18:01:15 GMT | Ağın Ortasına Oturan Araç: Bettercap | İbrahim Yiğit Çetin | [Read More](https://medium.com/p/04fcf4f76cdc) |
+| Sun, 03 May 2026 17:59:28 GMT | Is Bug Bounty Dead in 2026? Claude Code Security Is Changing Everything! | Shahzaib | [Read More](https://medium.com/p/ae9290ea11f7) |
+| Sun, 03 May 2026 17:56:01 GMT | Why Cybersecurity Dashboards Fail Boards | Tyson Martin | [Read More](https://medium.com/p/28dfc030d6a8) |
+| Sun, 03 May 2026 17:52:18 GMT | Aizō in Cybersecurity/IT Field, My Experiences Lately | The Husky Hacker | [Read More](https://medium.com/p/5ad719d02998) |
+| Sun, 03 May 2026 17:51:06 GMT | Running AI Coding Agents in Docker Sandboxes: Why Containers Are No Longer Enough | Sergey Zhukov | [Read More](https://medium.com/p/76e0f65f2ce5) |
+| Sun, 03 May 2026 17:38:36 GMT | Why Most People Struggle With Tech (And It’s Not What They Think) | Ben Treder | [Read More](https://medium.com/p/6dfc757ae70f) |
+| Sun, 03 May 2026 17:37:29 GMT | Genie/pyATS: What It Is, Why It’s Different, and Where to Use It | devendra verma | [Read More](https://medium.com/p/0bb01c327826) |
+| Sun, 03 May 2026 17:36:34 GMT | Critical Wireshark Security Alert — Update NOW | CyberRise Institute | [Read More](https://medium.com/p/c0da16c0ddc0) |
+| Sun, 03 May 2026 17:33:44 GMT | Dear QA (THM) Tryhackme Writeup Answer | Lawvye | [Read More](https://medium.com/p/bd24db65d3ee) |
+| Sun, 03 May 2026 17:33:42 GMT | In modern Layer 2 networks, Spanning Tree Protocol (STP) quietly works in the background to prevent… | Abdulshakoor | [Read More](https://medium.com/p/76aec04abd1c) |
+| Sun, 03 May 2026 17:32:03 GMT | The Recon Cascade: How Automated Discovery Triggered a Multi-Vulnerability Collapse and Solved… | S M Shayan Uddin (DevSec) | [Read More](https://medium.com/p/8f77f6022951) |
+| Sun, 03 May 2026 17:25:59 GMT | Secure Vibe Coding in 2026: The Files, Prompts and Rules of Use and Research | Sneh Bavarva | [Read More](https://medium.com/p/e821021ee908) |
+| Sun, 03 May 2026 17:25:32 GMT | How a Fake MCP Server Exposes Every Rogue AI Agent on Your Network | Paritosh | [Read More](https://medium.com/p/a056e84a11f1) |
+| Sun, 03 May 2026 17:24:37 GMT | Your Data Got Breached Without Your Knowledge | Pawned.Root | [Read More](https://medium.com/p/ae9270a672b5) |
 | Sun, 03 May 2026 17:18:53 GMT | CyberDefenders — RansomHub Lab Writeup | JBXSec | [Read More](https://medium.com/p/7e2d719bdef1) |
 | Sun, 03 May 2026 17:17:16 GMT | How an Attacker Turned Our PHP File Upload Into a Remote Shell | Ann R. | [Read More](https://medium.com/p/228eed663caf) |
 | Sun, 03 May 2026 17:11:51 GMT | CyberBench: Building a Self-Improving Multi-Agent Cybersecurity Evaluation System | Gitikrajjindal | [Read More](https://medium.com/p/c5af53a9d67c) |
@@ -48,6 +63,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 15:16:01 GMT | Still Running SMBv1? You’re Basically Inviting WannaCry to Dinner | Hugo Valters | [Read More](https://medium.com/p/bb87cc7baed4) |
 | Sun, 03 May 2026 15:12:55 GMT | I Opened One API Endpoint and Accidentally Found of Student Records ️‍♂️ | rozzen | [Read More](https://medium.com/p/c6ce7632167f) |
 | Sun, 03 May 2026 15:07:56 GMT | AI vs Cybersecurity Student: How I Cracked All 7 Levels of Gandalf Using Prompt Injection | Nilanjan Chowdhury | [Read More](https://medium.com/p/a20a4c8fafa1) |
+| Sun, 03 May 2026 15:05:29 GMT | File Upload and Download in Spring Boot (MultipartFile + Resource Handling) | Khatiwadasandesh | [Read More](https://medium.com/p/460ad2bb36d5) |
 | Sun, 03 May 2026 15:01:48 GMT | I Built a Scripting Language for Pentesters So I Could Stop Gluing Bash, Python, and Go Together | Czax | [Read More](https://medium.com/p/93d1a08a8baa) |
 | Sun, 03 May 2026 15:01:45 GMT | Cybersecurity for Saudi SMEs: The Practical Guide to Protecting Your Business in 2026 | G Hamza C | [Read More](https://medium.com/p/9f96542d10af) |
 | Sun, 03 May 2026 15:01:02 GMT | Multi-Tenancy Is Not a Database Decision. It’s an Architecture Decision. | Refaat Al ktifan | [Read More](https://medium.com/p/13885847ee85) |
@@ -96,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 11:31:01 GMT | The ‘Domain Admin’ Ego Trip: Why Handing Out DA Privileges Guarantees a Ransomware Outbreak | Hugo Valters | [Read More](https://medium.com/p/25f3b0475ac2) |
 | Sun, 03 May 2026 11:27:27 GMT | What The Tech?! The TOR Network | Investigator515 | [Read More](https://medium.com/p/1011c4cc77c6) |
 | Sun, 03 May 2026 11:27:03 GMT | CE Marking for Software Under the CRA: Conformity Assessment Guide | CRA Decoded | [Read More](https://medium.com/p/27b9cb2cfbe9) |
-| Sun, 03 May 2026 11:21:13 GMT | Why You Should Rethink Trust in the Age of AI Cyberattacks | Abdülselam İsmail | [Read More](https://medium.com/p/44e61de236e9) |
-| Sun, 03 May 2026 11:16:01 GMT | The Future of Data Privacy: Why Security is No Longer Optional in 2026 | Xplorta | [Read More](https://medium.com/p/b2b405b58625) |
-| Sun, 03 May 2026 11:10:19 GMT | Sistemleri Savunmak İçin Saldırmak – Pentest 101 | Naz | [Read More](https://medium.com/p/5475e2945ea5) |
-| Sun, 03 May 2026 11:07:41 GMT | Crack Web Security Interviews with the OWASP Top 10: A Beginner’s Guide | Himanshu | [Read More](https://medium.com/p/bb04a99d6c2b) |
-| Sun, 03 May 2026 11:05:17 GMT | The Complete Guide to AI Model Vulnerabilities & AI-Powered Attacks (2018–2026) | vulnhunter | [Read More](https://medium.com/p/2935570bc595) |
-| Sun, 03 May 2026 11:01:27 GMT | Parameter Index Manipulation Leading to Unauthorized Field Injection | 0xoroot | [Read More](https://medium.com/p/7e830ecfad05) |
-| Sun, 03 May 2026 11:01:10 GMT | Simple SOC Automation for Security Log Analysis Using n8n and OpenAI | Rona Ega Kharisma | [Read More](https://medium.com/p/7326b1dddb05) |
-| Sun, 03 May 2026 10:49:07 GMT | Goodbye Passwords: The Silent Security Revolution of 2026 | Faraz Weerabangsa - BSc in MIS (Special) | [Read More](https://medium.com/p/290ca081f2b2) |
-| Sun, 03 May 2026 10:49:05 GMT | Why Your CIO Keeps Killing AI Pilots (And How MCP Changes the Conversation) — Security unplugged… | Vikkas Arun Pareek | [Read More](https://medium.com/p/ac65242c578c) |
-| Sun, 03 May 2026 10:45:08 GMT | The ‘Copy Fail’ Crisis: AI Discovery
-& The Path to Remediation | Shivani Mithapelli | [Read More](https://medium.com/p/373d604c5668) |
-| Sun, 03 May 2026 10:30:22 GMT | The 732-Byte Linux Exploit That Rewrites How We Think About Threat Severity | AIThinkerLab | [Read More](https://medium.com/p/6775aaa7272e) |
-| Sun, 03 May 2026 10:26:37 GMT | 37 years old and living a small life | Antonio Vitolo | [Read More](https://medium.com/p/cc686c49d2ce) |
-| Sun, 03 May 2026 10:19:41 GMT | Post-Compromise Enumeration in Active Directory | Basithmohammedali | [Read More](https://medium.com/p/38649c83a1cc) |
-| Sun, 03 May 2026 10:19:35 GMT | Splunk: Dashboards and Reports - TryHackMe | Ryca | [Read More](https://medium.com/p/d97af1910f09) |
-| Sun, 03 May 2026 10:15:54 GMT | Prompt Injection Taxonomy: A Practitioner’s Guide to CrowdStrike’s Attack Classification Framework | Pietro Romano / SecBeret | [Read More](https://medium.com/p/0babb2e1d5c8) |
-| Sun, 03 May 2026 10:01:48 GMT | Detection of SSH Brute Force Attacks and File Integrity Monitoring Using Wazuh | Muhammad Rezky Amri | [Read More](https://medium.com/p/dbdf41cb1593) |
