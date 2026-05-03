@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 10:49:07 GMT | Goodbye Passwords: The Silent Security Revolution of 2026 | Faraz Weerabangsa - BSc in MIS (Special) | [Read More](https://medium.com/p/290ca081f2b2) |
+| Sun, 03 May 2026 10:49:05 GMT | Why Your CIO Keeps Killing AI Pilots (And How MCP Changes the Conversation) — Security unplugged… | Vikkas Arun Pareek | [Read More](https://medium.com/p/ac65242c578c) |
+| Sun, 03 May 2026 10:45:08 GMT | The ‘Copy Fail’ Crisis: AI Discovery
+& The Path to Remediation | Shivani Mithapelli | [Read More](https://medium.com/p/373d604c5668) |
+| Sun, 03 May 2026 10:30:22 GMT | The 732-Byte Linux Exploit That Rewrites How We Think About Threat Severity | AIThinkerLab | [Read More](https://medium.com/p/6775aaa7272e) |
+| Sun, 03 May 2026 10:26:37 GMT | 37 years old and living a small life | Antonio Vitolo | [Read More](https://medium.com/p/cc686c49d2ce) |
+| Sun, 03 May 2026 10:19:41 GMT | Post-Compromise Enumeration in Active Directory | Basithmohammedali | [Read More](https://medium.com/p/38649c83a1cc) |
+| Sun, 03 May 2026 10:19:35 GMT | Splunk: Dashboards and Reports - TryHackMe | Ryca | [Read More](https://medium.com/p/d97af1910f09) |
+| Sun, 03 May 2026 10:15:54 GMT | Prompt Injection Taxonomy: A Practitioner’s Guide to CrowdStrike’s Attack Classification Framework | Pietro Romano / SecBeret | [Read More](https://medium.com/p/0babb2e1d5c8) |
+| Sun, 03 May 2026 10:01:48 GMT | Detection of SSH Brute Force Attacks and File Integrity Monitoring Using Wazuh | Muhammad Rezky Amri | [Read More](https://medium.com/p/dbdf41cb1593) |
+| Sun, 03 May 2026 10:01:01 GMT | How I Got Into Cybersecurity With No Experience | Victoria Coker | [Read More](https://medium.com/p/9324c099b9c4) |
+| Sun, 03 May 2026 09:54:40 GMT | Best Cyber Security Institute in Sangam Vihar | EINITIAL24 | [Read More](https://medium.com/p/753071026dbf) |
 | Sun, 03 May 2026 09:43:43 GMT | OSSEC: IDOR vulnerability no more — The easiest way for you to verify your apps yourself. | Lucas Soares | [Read More](https://medium.com/p/6c18efacb7a8) |
+| Sun, 03 May 2026 09:37:16 GMT | From lock picking to Cyber Defense | wh0arey0u | [Read More](https://medium.com/p/752678aaf6f7) |
 | Sun, 03 May 2026 09:35:38 GMT | How Your Accounts Get Hacked (Even When You Did Nothing Wrong) | ByteTheory | [Read More](https://medium.com/p/3b84ab64739e) |
 | Sun, 03 May 2026 09:33:55 GMT | Auditing and Monitoring - TryHackMe | Ryca | [Read More](https://medium.com/p/e34ec1decebd) |
 | Sun, 03 May 2026 09:31:43 GMT | Race Conditions in the Wild: How Parallel Requests Turned a Simple Bug into a Critical Exploit | Đeepanshu | [Read More](https://medium.com/p/9050f18c44cc) |
@@ -35,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 07:47:31 GMT | OSINT: The Struggle for Truth on the Battlefield of Truth | Ziya Gokalp | [Read More](https://medium.com/p/a311d74a02be) |
 | Sun, 03 May 2026 07:47:20 GMT | How I Secured a Misconfigured GCP Cloud Storage Bucket Using Security Command Center | Ajekigbe Michael. A | [Read More](https://medium.com/p/4e91794200d1) |
 | Sun, 03 May 2026 07:47:08 GMT | Her Client Got Hacked—Then Asked If She Was Responsible | Cyber Safety Zone | [Read More](https://medium.com/p/f9cad13721b8) |
+| Sun, 03 May 2026 07:40:09 GMT | CVE-2026–41940: cPanel ve WHM Sistemlerinde Kimlik Doğrulama Atlatma Zafiyetinin Derinlemesine… | Erdem Ceylan | [Read More](https://medium.com/p/c0c02a6665a6) |
 | Sun, 03 May 2026 07:35:55 GMT | Your AI Stack is Publicly Searchable | Tanmay Bhattacharjee | [Read More](https://medium.com/p/dcd61a24efd5) |
 | Sun, 03 May 2026 07:35:18 GMT | Securing the Future of HealthTech: A W3D Security Report | Kareeb Sadab | [Read More](https://medium.com/p/c79cc07ca721) |
 | Sun, 03 May 2026 07:27:42 GMT | Disneyland déploie la reconnaissance faciale pour ses visiteurs | L'ABESTIT | [Read More](https://medium.com/p/103950d96c52) |
@@ -45,10 +59,12 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 07:08:43 GMT | What is Cybersecurity? | Mukulmistry | [Read More](https://medium.com/p/a10cb83a4019) |
 | Sun, 03 May 2026 07:06:01 GMT | The Open S3 Bucket Epidemic: Why Reading the Manual is Apparently Too Hard | Hugo Valters | [Read More](https://medium.com/p/cc6268ad23e8) |
 | Sun, 03 May 2026 07:05:00 GMT | Balancing Security and Flexibility with SSL Pinning Using Firebase Remote Config | Fauzan Abdillah | [Read More](https://medium.com/p/19dbd0fad925) |
+| Sun, 03 May 2026 07:01:01 GMT | Sprocket Line (RXSS) WebVerse | 7s26Simon | [Read More](https://medium.com/p/3704b6d7b375) |
 | Sun, 03 May 2026 06:56:47 GMT | CyberHeroes tryhackme — TryHackMe Walkthrough | Sunjid Ahmed Siyem | [Read More](https://medium.com/p/71923c8c0c4b) |
 | Sun, 03 May 2026 06:52:32 GMT | Linux Agency (THM) Tryhackme Walkthrough and Answer | Lawvye | [Read More](https://medium.com/p/b81701f88d16) |
 | Sun, 03 May 2026 06:48:26 GMT | Black Trace Analytics Enters Healthcare With Security Built Into the Model | Travis Ray Caverhill | [Read More](https://medium.com/p/7d697a58a0d6) |
 | Sun, 03 May 2026 06:21:47 GMT | CORS Cannot Save Your Backend | Nikhil Hegde | [Read More](https://medium.com/p/7e2e510d7390) |
+| Sun, 03 May 2026 06:17:38 GMT | SQL Injection Vulnerability | t4nu1 | [Read More](https://medium.com/p/4f8ebf45105e) |
 | Sun, 03 May 2026 06:12:05 GMT | How I Think the AI Transition Will Most Likely Play Out | Uzair Gokak | [Read More](https://medium.com/p/200fd00ed788) |
 | Sun, 03 May 2026 06:01:58 GMT | Best IT Training in the Philippine - A Practical Guide for Professionals and Organizations | Trainosys | [Read More](https://medium.com/p/51f2a425f11e) |
 | Sun, 03 May 2026 06:01:01 GMT | I Decompiled Your Android App. Here’s What I Found. | Dev 175 | [Read More](https://medium.com/p/4b2270a6ae48) |
@@ -66,8 +82,10 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 04:43:39 GMT | Kali Linux Commands. | Haseeb Bilal | [Read More](https://medium.com/p/40724641655c) |
 | Sun, 03 May 2026 04:31:05 GMT | Why Static Controls Fail in an AI World | Anujhtewari | [Read More](https://medium.com/p/4e4401cc934b) |
 | Sun, 03 May 2026 04:31:01 GMT | Duplicate Avoid Karna Bug Bounty Ka Sabse Bada Dard: Smart Hunting Se Pehle Pahuncho, Pehle Kamao! | Hacker MD | [Read More](https://medium.com/p/530287e8f73d) |
+| Sun, 03 May 2026 03:59:58 GMT | Metaspliotable 2 via ftp | Gyanaranjansamal | [Read More](https://medium.com/p/fb6e2eafe686) |
 | Sun, 03 May 2026 03:59:23 GMT | MCP Is Production-Ready. Your Enterprise Data Architecture Isn’t — Here’s What Has to Change | Mahesh Goyal | [Read More](https://medium.com/p/77255be41782) |
 | Sun, 03 May 2026 03:56:32 GMT | AZURE PENTESTING — SENSITIVE INFORMATION EXPOSURE IN DATA FACTORY Draft Eng | Brayan Rodriguez Padilla | [Read More](https://medium.com/p/775353da7af5) |
+| Sun, 03 May 2026 03:33:58 GMT | CPanel & WHM CVE-2026–41940: The Authentication Bypass That Turned Hosting Servers Into Attack… | Logesh S | [Read More](https://medium.com/p/a5982364b730) |
 | Sun, 03 May 2026 03:21:32 GMT | The Package You Trusted Just Became the Weapon | Heet Rajesh Gala | [Read More](https://medium.com/p/65d5c8da56e6) |
 | Sun, 03 May 2026 03:10:29 GMT | Security Guard Services in Edmonton: A Complete Guide for Property Owners | Griffin Security | [Read More](https://medium.com/p/5fb9f38bc22b) |
 | Sun, 03 May 2026 03:04:37 GMT | How Two Guys Stole $35M From eBay Using a Single HTML Tag | David Lee | [Read More](https://medium.com/p/9461fa553e48) |
@@ -84,6 +102,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 00:36:45 GMT | KubSTU CTF 2026 Writeups: Five Challenges, Saturday | Abdelkader Belcaid | [Read More](https://medium.com/p/43d7f2bec403) |
 | Sun, 03 May 2026 00:10:07 GMT | Week 5 of Defensive Security | Muhammad Uzair | [Read More](https://medium.com/p/7de178cf524b) |
 | Sun, 03 May 2026 00:08:29 GMT | The Day Claude Became a Tyrant — And What Scared Me About Every Agent You’ll Ever Use | Dhiraz Gazurel | [Read More](https://medium.com/p/1a5457776aa1) |
+| Sat, 02 May 2026 23:56:18 GMT | SOC Alert Investigation: Arbitrary File Read on Check Point Security Gateway — CVE-2024–24919… | DeadHack | [Read More](https://medium.com/p/cac39ecf6440) |
 | Sat, 02 May 2026 23:18:41 GMT | SLI, SLO, SLA, Error Budget: The Ladder Nobody Climbs All the Way | Kunal Kannav | [Read More](https://medium.com/p/0e3383c669d9) |
 | Sat, 02 May 2026 23:09:47 GMT | Why AI Needs Being to Resist Narrative Capture | Lena Tatsumori | [Read More](https://medium.com/p/f31f3c97e34a) |
 | Sat, 02 May 2026 23:05:30 GMT | CTF Challenge Writeup: Windows Theme Spoofing — CVE-2024–21320 (LetsDefend) | DeadHack | [Read More](https://medium.com/p/b97ff734a152) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 02 May 2026 22:58:48 GMT | CIA Triad | Hectorlazzari | [Read More](https://medium.com/p/2ccb414b677a) |
 | Sat, 02 May 2026 22:57:35 GMT | The Digital Wall: Who Are We Shutting Out? | Krisztina Varga | [Read More](https://medium.com/p/a53df7a28c3a) |
 | Sat, 02 May 2026 22:55:22 GMT | How do I patch the 732-byte Copy Fail exploit if my kernel modules are built-in? | Alex Lim | [Read More](https://medium.com/p/ec386585ec19) |
-| Sat, 02 May 2026 22:27:11 GMT | File path traversal, simple case WriteUp & Walkthrough | Erinmin | [Read More](https://medium.com/p/388faa894786) |
-| Sat, 02 May 2026 22:24:26 GMT | Unmasking Threat Infrastructure: A Deep Dive into JARM Fingerprinting | Emine VURAL GENC | [Read More](https://medium.com/p/e2a10fa26465) |
-| Sat, 02 May 2026 22:23:06 GMT | Creating a Mobile Pentest Environment | Vinicius Batistella | [Read More](https://medium.com/p/5c027e2d0bcd) |
-| Sat, 02 May 2026 22:10:29 GMT | Build a strong foundation in Linux: navigation, core commands, and permissions | Toobaashar | [Read More](https://medium.com/p/8f55f9f9794b) |
-| Sat, 02 May 2026 22:06:50 GMT | CopyFail: A nine-year-old Linux kernel bug that grants root in seconds | Patrik Žák | [Read More](https://medium.com/p/a9445ba4f33d) |
-| Sat, 02 May 2026 22:06:22 GMT | Why Every Creative Person Needs a Store — And What My Father’s Hands Taught Me About Building… | Don Rivera Diaz | [Read More](https://medium.com/p/6b9af814fdc3) |
-| Sat, 02 May 2026 22:06:17 GMT | Offsite Subdomain Email | Sals Secrets | [Read More](https://medium.com/p/f72d3cb0da2b) |
-| Sat, 02 May 2026 22:05:22 GMT | Mitigating 5G Security Risks with VRF-Based Traffic Segmentation | Petersmuditha | [Read More](https://medium.com/p/e82ca3b7c3d4) |
-| Sat, 02 May 2026 21:54:30 GMT | Malware Analysis Lab Setup — Part 1: Installing REMnux | Xanim Hamzayeva | [Read More](https://medium.com/p/f9259fe4ef4b) |
-| Sat, 02 May 2026 21:51:16 GMT | OverTheWire Natas Level 1→ Level 2 | Akshaykumar Kathirvelu | [Read More](https://medium.com/p/feff2d0663ba) |
-| Sat, 02 May 2026 21:42:53 GMT | How Governments Can Adopt AI Securely Without Breaking Systems | Yasir Naveed Riaz | [Read More](https://medium.com/p/bab46b3a209e) |
-| Sat, 02 May 2026 21:23:33 GMT | Event-Driven Architectures: The Security Blind Spot Nobody Talks About | Umashankara Kalaiah | [Read More](https://medium.com/p/5994dae23959) |
-| Sat, 02 May 2026 21:20:38 GMT | SSRF: When the Frontend Tricks the Server Into Betraying Itself | Vasyl Oliinyk | [Read More](https://medium.com/p/7aea605c9727) |
-| Sat, 02 May 2026 21:20:23 GMT | Logging & Monitoring: The Eyes and Ears of Your Frontend (and Their Failures) | Vasyl Oliinyk | [Read More](https://medium.com/p/bde667247243) |
-| Sat, 02 May 2026 21:11:32 GMT | Vercel Paused My Site. Turns Out, I Was Being Attacked. | Mrigesh Deshpande | [Read More](https://medium.com/p/e2b5aec1bd0b) |
-| Sat, 02 May 2026 21:09:34 GMT | 12 Things to Check Before Ordering From Any Website (and Never Get Scammed Again) | Kate G | [Read More](https://medium.com/p/6b86a184f093) |
-| Sat, 02 May 2026 20:59:30 GMT | It’s Still There Trust Me. | Rakyta Valdez | [Read More](https://medium.com/p/46916ccf7350) |
-| Sat, 02 May 2026 20:52:57 GMT | Rooting the TCM Dev Box [Walkthrough] | Olamideoyek | [Read More](https://medium.com/p/34a91943b8f9) |
