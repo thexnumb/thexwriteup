@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 23:05:17 GMT | Samurai — Hack Smarter Labs Walkthrough | Muhammad Usman Faridi | [Read More](https://medium.com/p/311e4017e241) |
+| Sun, 03 May 2026 23:01:02 GMT | CyberDefenders: BRabbit Lab Walkthrough | Drew Arpino | [Read More](https://medium.com/p/249791454b31) |
+| Sun, 03 May 2026 22:57:20 GMT | Splunk Dashboard Mantığı: Tüm Bileşenleriyle Baştan Sona Rehber | Ahmet Badem | [Read More](https://medium.com/p/91a9552c5a78) |
+| Sun, 03 May 2026 22:44:43 GMT | Cleartext, Module 2: Layer 2, Frames, MACs, and Switches | Brandon R Russell | [Read More](https://medium.com/p/d45e27462da2) |
 | Sun, 03 May 2026 22:28:34 GMT | The Death of the JSON Key: Moving to Cloud Workload Identity Federation | Seasoned Developer | [Read More](https://medium.com/p/c6343552288f) |
 | Sun, 03 May 2026 22:16:32 GMT | Understanding Darknet Research Chemicals and Online Market Trends | Tor BBB | [Read More](https://medium.com/p/91338073f79f) |
 | Sun, 03 May 2026 22:05:13 GMT | Deep Learning Is Not Just a Fancy Word. Here Is What It Actually Means. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/f3057a6a273c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 16:00:23 GMT | When 9 Seconds Is All It Takes: The Cognitive Reserve Imperative in the Agentic Era | Renato Azevedo Sant Anna | [Read More](https://medium.com/p/aace8e26fb80) |
 | Sun, 03 May 2026 15:57:05 GMT | Why Affordable Cybersecurity Often Fails When You Need It Most | Sam Walker | [Read More](https://medium.com/p/5e525dbdd1b4) |
 | Sun, 03 May 2026 15:56:36 GMT | Modify and Monitor Environmental Controls in Packet Tracer | Bala | [Read More](https://medium.com/p/09fdf49fb1f2) |
-| Sun, 03 May 2026 15:49:17 GMT | The Night a Botnet Tried to Break ZephyPhone & Why You Never Knew | Khaled Md Tuhidul Hossain | [Read More](https://medium.com/p/a36463c2ecd8) |
-| Sun, 03 May 2026 15:47:41 GMT | Learning Fortinet Firewall — LESSON 7: VLAN / Sub-Interfaces | Rouell Mamaril | [Read More](https://medium.com/p/96455bea4724) |
-| Sun, 03 May 2026 15:45:27 GMT | Make Money: Best Gift Card Carding Method in 2026 | Cashout helper | [Read More](https://medium.com/p/eb0383966bbf) |
-| Sun, 03 May 2026 15:45:19 GMT | The Five-Layer Defense: How Bulwark Prevents AI Agent Hijacking in Production | Anil Prasad | [Read More](https://medium.com/p/c196a996176a) |
