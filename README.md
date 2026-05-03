@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 03 May 2026 21:28:42 GMT | What Your Linux Security Stack Can’t See | Varun Gurnaney | [Read More](https://medium.com/p/f612b5ad119b) |
+| Sun, 03 May 2026 21:22:54 GMT | AI BEFORE YOU BUILD · PART 3 | Gregory Wiedeman | [Read More](https://medium.com/p/ef7986ba70dd) |
+| Sun, 03 May 2026 21:17:27 GMT | "5 years of waiting.. | Avinash Dadi | [Read More](https://medium.com/p/6ab280501a50) |
+| Sun, 03 May 2026 21:17:06 GMT | TryHackMe Challenge (Summit) | Ahmed Mahmoud | [Read More](https://medium.com/p/4477b7a0eb4f) |
+| Sun, 03 May 2026 21:06:09 GMT | The issue with Spectrum’s Fraud Protection and Verification Codes | Lex Alexander | [Read More](https://medium.com/p/188abb60ea61) |
+| Sun, 03 May 2026 21:02:13 GMT | Best VPN providers for streaming content in 2026 | tech nova | [Read More](https://medium.com/p/f799feb7947d) |
+| Sun, 03 May 2026 21:02:04 GMT | CyberDefenders — PacketDetective Walkthrough | Serhan Kırca | [Read More](https://medium.com/p/550d55014e22) |
+| Sun, 03 May 2026 20:52:50 GMT | Your Corporate Event in London Deserves More Than Just a Venue — Here’s What’s Actually Missing | waeventservices.co.uk/ | [Read More](https://medium.com/p/9bab8e3fd668) |
+| Sun, 03 May 2026 20:52:26 GMT | 9 New Scams to Watch Out for in 2026 (And How to Avoid Them) | Peretimi Otokolo | [Read More](https://medium.com/p/752c8fc77858) |
+| Sun, 03 May 2026 20:52:12 GMT | Cognitive Attack Surfaces and Adversarial Drift: Rethinking Ethical Hacking in Post-Zero-Trust… | Mouad B. | [Read More](https://medium.com/p/454d15b0b8fc) |
+| Sun, 03 May 2026 20:50:06 GMT | The gap between security strategy and engineering reality | Desislava Nikolaeva | [Read More](https://medium.com/p/7c91a2f7dca9) |
+| Sun, 03 May 2026 20:47:35 GMT | T1098 — Account Manipulation | Feyza Nur Bektaş | [Read More](https://medium.com/p/85fbec37ede7) |
+| Sun, 03 May 2026 20:40:32 GMT | Hacker Blueprint’s Hack Academy’s OSCP Active Directory Chain #1 Practice Lab | The Husky Hacker | [Read More](https://medium.com/p/8a242b1462b7) |
 | Sun, 03 May 2026 20:39:07 GMT | Building a Windows Network Filter Driver: Intercepting Outbound Connections | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b604c366008c) |
 | Sun, 03 May 2026 20:38:07 GMT | Why Your Employees Keep Falling for Phishing (And What Actually Fixes It) | Mike McNelis | [Read More](https://medium.com/p/20ef48917b8a) |
 | Sun, 03 May 2026 20:35:16 GMT | Ubuntu Services Hit by Outages After DDoS Attack: What Happened, Who’s Responsible, and What It… | Garythatcher | [Read More](https://medium.com/p/e91d9a711c07) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 15:12:55 GMT | I Opened One API Endpoint and Accidentally Found of Student Records ️‍♂️ | rozzen | [Read More](https://medium.com/p/c6ce7632167f) |
 | Sun, 03 May 2026 15:07:56 GMT | AI vs Cybersecurity Student: How I Cracked All 7 Levels of Gandalf Using Prompt Injection | Nilanjan Chowdhury | [Read More](https://medium.com/p/a20a4c8fafa1) |
 | Sun, 03 May 2026 15:05:29 GMT | File Upload and Download in Spring Boot (MultipartFile + Resource Handling) | Khatiwadasandesh | [Read More](https://medium.com/p/460ad2bb36d5) |
-| Sun, 03 May 2026 15:01:48 GMT | I Built a Scripting Language for Pentesters So I Could Stop Gluing Bash, Python, and Go Together | Czax | [Read More](https://medium.com/p/93d1a08a8baa) |
-| Sun, 03 May 2026 15:01:45 GMT | Cybersecurity for Saudi SMEs: The Practical Guide to Protecting Your Business in 2026 | G Hamza C | [Read More](https://medium.com/p/9f96542d10af) |
-| Sun, 03 May 2026 15:01:02 GMT | Multi-Tenancy Is Not a Database Decision. It’s an Architecture Decision. | Refaat Al ktifan | [Read More](https://medium.com/p/13885847ee85) |
-| Sun, 03 May 2026 15:00:33 GMT | Management Information Systems: The Nervous System of Modern Business | Ahmed Raza | [Read More](https://medium.com/p/e96f07718220) |
-| Sun, 03 May 2026 14:59:22 GMT | Your secrets deserve better than plaintext: why I designed Keyden to replace .env | Divya Bairavarasu | [Read More](https://medium.com/p/aa15d6962efa) |
-| Sun, 03 May 2026 14:55:15 GMT | AI Cybersecurity for Enterprises in 2026: What US Businesses Need to Know Now | Short Tin | [Read More](https://medium.com/p/f9ec4ce490b0) |
-| Sun, 03 May 2026 14:54:06 GMT | TryHackMe Write-up : Detecting Web Attacks | Engosa | [Read More](https://medium.com/p/142ba8776977) |
-| Sun, 03 May 2026 14:49:48 GMT | Risk as the Price of Participation | Ibrahim Kimathi MINYORI | [Read More](https://medium.com/p/f55ac9dfd611) |
-| Sun, 03 May 2026 14:46:35 GMT | The Silent Rise of Cybersecurity Careers | Hania Khan | [Read More](https://medium.com/p/a6427d3775b7) |
-| Sun, 03 May 2026 14:46:19 GMT | Beyond the Alert: What I Learned Investigating the Shai-Hulud npm Worm | Elad Mordechai | [Read More](https://medium.com/p/a3c8c0a7a81d) |
-| Sun, 03 May 2026 14:40:03 GMT | 80s DRM - the cutter hack | pirelaurent | [Read More](https://medium.com/p/67141201bae4) |
-| Sun, 03 May 2026 14:35:43 GMT | Just Installed Linux? Do These 7 Things First (Beginner-Friendly Guide) Extended | Sam Writes Security | [Read More](https://medium.com/p/3d0b19adaae8) |
-| Sun, 03 May 2026 14:34:15 GMT | Random Bug Generator — A Fun Way to Discover Insects Instantly | Bushra noreen | [Read More](https://medium.com/p/2cf9bce207ba) |
