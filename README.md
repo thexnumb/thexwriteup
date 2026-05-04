@@ -12,6 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 May 2026 13:06:11 GMT | Reading Responses: Status Codes, Headers, and Body Forensics | Roshan Rajbanshi | [Read More](https://medium.com/p/76c2da93335f) |
+| Mon, 04 May 2026 13:05:28 GMT | From Anonymous to Administrator: A Chain of Quiet Mistakes | Nicholas Mullenski | [Read More](https://medium.com/p/55d0daf90bf9) |
+| Mon, 04 May 2026 13:04:38 GMT | How I Found an Unprotected Login Portal on a Federal VDP (and Why It Still Got P5) | Nicholas Mullenski | [Read More](https://medium.com/p/e93dbed192b0) |
+| Mon, 04 May 2026 13:02:27 GMT | Securing the Backbone — Thanksgiving Special | Eric Gallagher | [Read More](https://medium.com/p/41507e4b59a7) |
+| Mon, 04 May 2026 13:02:11 GMT | Entry 002 — The Three Levels of Protection | Muhammad Essam | [Read More](https://medium.com/p/4c3df4a504b8) |
+| Mon, 04 May 2026 13:01:42 GMT | 0day — TryHacM Writeup | sudo_0xksh | [Read More](https://medium.com/p/16ef994cfe19) |
+| Mon, 04 May 2026 13:01:02 GMT | Shadow AI” Will Cost Your SME $15,000 in 2026 (And How to Stop It) | ERTOOSHOP - Digital Systems | [Read More](https://medium.com/p/845ce38625e0) |
+| Mon, 04 May 2026 13:00:57 GMT | Pyrat — TryHackMe Writeup / Walkt | sudo_0xksh | [Read More](https://medium.com/p/9cf0aff47254) |
+| Mon, 04 May 2026 12:47:44 GMT | Guilty, until proven innocent — Zero Trust Architecture | Lorenzo Schober | [Read More](https://medium.com/p/458a558b6998) |
+| Mon, 04 May 2026 12:46:29 GMT | Essential Cybersecurity Practices for Small Businesses in 2026 | letsremotify | [Read More](https://medium.com/p/bc7f891eb80b) |
+| Mon, 04 May 2026 12:42:47 GMT | Guide For Fresher Bug Hunter … | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/9f708155d1b2) |
+| Mon, 04 May 2026 12:40:50 GMT | Red Team Automation: 12 Scripts That Save Hours (and Win Real Engagements) | vipin | [Read More](https://medium.com/p/e84d03f1b8ac) |
+| Mon, 04 May 2026 12:40:01 GMT | What is GRC in Cybersecurity? | COMP_ROOKIE | [Read More](https://medium.com/p/4ee2ab32ea54) |
+| Mon, 04 May 2026 12:38:24 GMT | Cyber Security Monday — The Week in Cyber Security in less than 2 Min… | Jean-Claude Moritz | [Read More](https://medium.com/p/685c911fdc24) |
+| Mon, 04 May 2026 12:31:01 GMT | Exploring PowerShell Commands: Energy Usage Monitoring, Registry Value Objects, and Windows… | Tyrik Emptage | [Read More](https://medium.com/p/478fb1151490) |
+| Mon, 04 May 2026 12:28:18 GMT | A Day in My Life as a Service Desk Analyst: Where every ticket tells a story | Megha | [Read More](https://medium.com/p/b5f00d1da351) |
+| Mon, 04 May 2026 12:28:15 GMT | BankSmarter Penetration Test - Hack Smarter | RedBeard Roberts | [Read More](https://medium.com/p/6129355daa6b) |
+| Mon, 04 May 2026 12:16:18 GMT | INDONESIAN TEENAGER DISCOVERS XSS VULNERABILITY IN NASA INFRASTRUCTURE ️
+DEPOK, INDONESIA — A… | Sector Intelligence | [Read More](https://medium.com/p/fce9d4d1a657) |
+| Mon, 04 May 2026 12:12:39 GMT | Google Gemini for Workspace - The Difference Between a Mistake and a Lie | Pawel Gonera | [Read More](https://medium.com/p/8ad2bfeb42e5) |
+| Mon, 04 May 2026 12:07:26 GMT | Your OAuth Login Can Be Hijacked… Without You Knowing | vinitpahwa | [Read More](https://medium.com/p/c0ff2fa24234) |
+| Mon, 04 May 2026 12:03:55 GMT | From Apache Struts RCE to Full Host Compromise in Kubernetes | Dr. Saket Acharya | [Read More](https://medium.com/p/9b9e9c0edf0e) |
+| Mon, 04 May 2026 12:01:06 GMT | Recon Is Never Useless: From a Simple Info Leak to Full Administrative Access via Misconfiguration… | Kanishkakhandelwal | [Read More](https://medium.com/p/5ab9e40e3c16) |
+| Mon, 04 May 2026 12:00:13 GMT | 3. Mitigate CSRF: The “Identity Theft” of Web Actions | Elmir | [Read More](https://medium.com/p/2939f1ef9f00) |
+| Mon, 04 May 2026 11:55:39 GMT | Google said it’s a feature. I’m not so sure.  ( allowing full RCE via prompt injection) | Elvinlatifli | [Read More](https://medium.com/p/afe02637dc91) |
+| Mon, 04 May 2026 11:41:01 GMT | I Built a Runtime Kubernetes Security System Using Falco, OPA, and AI Alerts | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/d8a8068cad01) |
+| Mon, 04 May 2026 11:38:48 GMT | Your AI Agents Have Credentials. Your Security Stack Doesn’t Know They Exist. | Thomas Patterson | [Read More](https://medium.com/p/1cfde5b02626) |
+| Mon, 04 May 2026 11:36:06 GMT | Ethical Hacking Classes Near Deoli Road | EINITIAL24 | [Read More](https://medium.com/p/0dafb2bbf6dd) |
+| Mon, 04 May 2026 11:34:52 GMT | How I Found XSS by Understanding Context | sh3llwolf | [Read More](https://medium.com/p/1cacbafd1f41) |
+| Mon, 04 May 2026 11:30:21 GMT | Beyond the Shell: Why I’m Pivoting from Binary Pwn to Web3 Security | Grissia | [Read More](https://medium.com/p/60efdec14ed1) |
+| Mon, 04 May 2026 11:24:50 GMT | Nigeria sits sixth on the 2025 Global Terrorism Index with a score of 7.658 | Peace Abimbola ADEDEJI | [Read More](https://medium.com/p/821b78c3e3ef) |
 | Mon, 04 May 2026 11:16:14 GMT | Understanding DNS: How It Works and How to Set It Up Properly” | Stack Architect | [Read More](https://medium.com/p/cf90dfe30340) |
 | Mon, 04 May 2026 11:10:38 GMT | I Built a Home Network Security Scanner for Android — And Google Play Rejected It Three Times | Saikiran Bavandla | [Read More](https://medium.com/p/9649d0d63559) |
 | Mon, 04 May 2026 11:10:02 GMT | 10 Simple Cybersecurity Habits That Keep You Safe Online (Most People Skip #7) | heimdal security | [Read More](https://medium.com/p/ac73be99ef07) |
@@ -82,33 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 May 2026 05:51:16 GMT | Why Your RAG Pipeline Is a Data Exfiltration Waiting to Happen | Paritosh | [Read More](https://medium.com/p/cb529953451a) |
 | Mon, 04 May 2026 05:46:04 GMT | AI-Powered CCTV Surveillance Systems: Transforming Modern Security | Omnilink Technology | [Read More](https://medium.com/p/910a9e4fbd73) |
 | Mon, 04 May 2026 05:30:50 GMT | Transforming Businesses with Modern IT Services Austin | Tarunedsw | [Read More](https://medium.com/p/d4ba8bb28045) |
-| Mon, 04 May 2026 05:28:09 GMT | Kiba | Zuhaib Tariq | [Read More](https://medium.com/p/84fc9a9dc27c) |
-| Mon, 04 May 2026 05:15:45 GMT | A Solo Researcher, a Fragmented Threat Pattern, and the Problem of Being Early | THE GHOST FATHER | [Read More](https://medium.com/p/e8a65fadef73) |
-| Mon, 04 May 2026 05:06:51 GMT | Parking and Car park Security: Protecting Vehicles and Creating Safe Environments | SecurityInsightsAU | [Read More](https://medium.com/p/84d59b93424c) |
-| Mon, 04 May 2026 05:01:01 GMT | Essential Solidity Functions Every Smart Contract Security Researcher Must Master | Abraham | [Read More](https://medium.com/p/280ebeb059a9) |
-| Mon, 04 May 2026 04:33:40 GMT | Cisco Ethical Hacker Notes — part 12 | ExploitHunter | [Read More](https://medium.com/p/1570779fe6e9) |
-| Mon, 04 May 2026 04:31:05 GMT | Python Se Bug Hunting Automate Karo Apne Tools Banao, 10x Fast Hunt Karo! | Hacker MD | [Read More](https://medium.com/p/431389d74255) |
-| Mon, 04 May 2026 04:16:20 GMT | Trust as a Vector What the EtherRAT Campaign Reveals About Security’s Blind Spot | Eldor Zufarov | [Read More](https://medium.com/p/8a47c2ac3461) |
-| Mon, 04 May 2026 04:12:24 GMT | biometric_guard: The Best Flutter Package for Biometric Authentication with Session Management… | Shahulhameed | [Read More](https://medium.com/p/968ecfa884da) |
-| Mon, 04 May 2026 04:01:48 GMT | Authentication & Session Attacks: How Hackers Hijack Accounts Without Passwords | Kishor K. | [Read More](https://medium.com/p/64f6d9574a19) |
-| Mon, 04 May 2026 03:43:32 GMT | Networking for Hackers: A Deep Dive into Packets & Protocols | Kishor K. | [Read More](https://medium.com/p/e613f5a29f2c) |
-| Mon, 04 May 2026 03:07:16 GMT | Phishing Alert ID: 257 | Swetha Devi Sai Priya | [Read More](https://medium.com/p/86b6b1cbea6c) |
-| Mon, 04 May 2026 03:05:16 GMT | Learning Cybersecurity, I spent the last two weeks deep in Australia’s Security of Critical… | Salam Khan | [Read More](https://medium.com/p/39e0c89d6a2a) |
-| Mon, 04 May 2026 02:59:54 GMT | Mengenal Apa Itu Penetration Testing? | Hilwa Annisa | [Read More](https://medium.com/p/02ed7e4cfb33) |
-| Mon, 04 May 2026 02:59:42 GMT | Mobile Legends or Real Legends? | Planestupid | [Read More](https://medium.com/p/74361c37d0cf) |
-| Mon, 04 May 2026 02:53:53 GMT | How to Ace a Job Interview: Before, During, and After | Muhammad Rezky Amri | [Read More](https://medium.com/p/043282e4abf7) |
-| Mon, 04 May 2026 02:48:48 GMT | Digital Services That Drive Modern Business Growth | Rohitcdel | [Read More](https://medium.com/p/8d45bfc44243) |
-| Mon, 04 May 2026 02:34:06 GMT | Weekly Threat Intelligence Report 27 Apr 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/1fb200757197) |
-| Mon, 04 May 2026 02:31:33 GMT | A Nine-Year-Old Bug: How “Copy Fail” Can Hand Attackers Root Access on Linux | Hiroshi Gusti | [Read More](https://medium.com/p/52504224908a) |
-| Mon, 04 May 2026 02:29:22 GMT | I hacked my AC with some AI superpowers. | Rodrigo Reyes | [Read More](https://medium.com/p/1e4d23ccfb22) |
-| Mon, 04 May 2026 02:12:03 GMT | Designing a Secure AWS VPC Architecture with Private Subnets and Controlled Access | Johnny Louis | [Read More](https://medium.com/p/d0bad75df9f0) |
-| Mon, 04 May 2026 02:09:06 GMT | The Phishing Test Isn’t the Point. The Conversation After Is. | David McHale - Educator - Engineer | [Read More](https://medium.com/p/e85aaa8239b0) |
-| Mon, 04 May 2026 02:06:31 GMT | What Actually Happens When a Security Alert Fires? Inside a SOC Workflow | Sarmadlaraib | [Read More](https://medium.com/p/ccae65f81e64) |
-| Mon, 04 May 2026 01:50:45 GMT | What is information gathering By Umairhacks | Muhammad Umair Javed | [Read More](https://medium.com/p/ab79e8f93923) |
-| Mon, 04 May 2026 01:31:49 GMT | El Fin de Las Contraseñas | GioiaCintia | [Read More](https://medium.com/p/1c1a4f0d8582) |
-| Mon, 04 May 2026 01:24:44 GMT | The Dark Corner of the Digital Underground: Inside EsqueleSquad’s Ecosystem of Harassment and… | GioiaCintia | [Read More](https://medium.com/p/8cf32ca64c55) |
-| Mon, 04 May 2026 01:19:17 GMT | The Human Layer of Cybersecurity: Why UX Decides What Actually Works | Niharika | [Read More](https://medium.com/p/2527854ddee0) |
-| Mon, 04 May 2026 01:02:58 GMT | OSEP, why is it so eepy? x) | Zumi Yumi | [Read More](https://medium.com/p/ab248209b5c9) |
-| Mon, 04 May 2026 00:26:45 GMT | Run Claude Code’s dangerously-skip-permissions Flag Safely with Docker | Oleksii Trekhleb | [Read More](https://medium.com/p/a2182dea3d6d) |
-| Mon, 04 May 2026 00:23:13 GMT | Nothing on This Page! But… What About Other Pages? | Akshaykumar Kathirvelu | [Read More](https://medium.com/p/b13d9111a117) |
-| Mon, 04 May 2026 00:12:39 GMT | The TypeScript Illusion: Why Next.js Server Actions Need Zod Guards | Achraffwarrach | [Read More](https://medium.com/p/bcccf93ca023) |
