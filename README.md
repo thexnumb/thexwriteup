@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 May 2026 17:08:27 GMT | Travel Security: How to Move Smart Without Killing the Vibe. | Jay Travler | [Read More](https://medium.com/p/d25978f90277) |
+| Mon, 04 May 2026 17:06:23 GMT | DeFi Doesn’t Remove Trust , It Engineers It | Lilybarbie | [Read More](https://medium.com/p/4a783c38f25f) |
+| Mon, 04 May 2026 17:01:02 GMT | How to Use AI Smarter Without Falling Into Common Thinking Traps | Jonathan Michael Gray | [Read More](https://medium.com/p/1e0e52f54884) |
+| Mon, 04 May 2026 16:53:05 GMT | Claude Did Not Kill That Database. Reckless AI Deployment Did. | Len Noe | [Read More](https://medium.com/p/51e9ebf795a5) |
+| Mon, 04 May 2026 16:51:27 GMT | RST TI Report Digest: 04 May 2026 | RST Cloud | [Read More](https://medium.com/p/c74fb272f909) |
+| Mon, 04 May 2026 16:49:29 GMT | GRC Cybersecurity Roles: Job Market Trends, Salary Insights & Interview Guide (2026) | The Daily Cyber News | [Read More](https://medium.com/p/17923dd4a8af) |
+| Mon, 04 May 2026 16:48:38 GMT | Time for IT Asset Management is Long Overdue | Brian Evans | [Read More](https://medium.com/p/db48bfe6ba92) |
+| Mon, 04 May 2026 16:41:36 GMT | Defend the Next Cyberattack
+at Unprecedented Speed. Be it a Human or an AI. | Agnidipta Sarkar | [Read More](https://medium.com/p/5635b3914009) |
+| Mon, 04 May 2026 16:40:50 GMT | Building BB-Recon: My Bug Bounty Recon Automation Pipeline - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/3b2a34c535c1) |
+| Mon, 04 May 2026 16:38:45 GMT | AI-PT-Lab - Learn AI Security & Red Teaming Lab | Pentester Club | [Read More](https://medium.com/p/642816a82b0f) |
+| Mon, 04 May 2026 16:36:20 GMT | From Client-Side Validation to Unauthorized Internal Access | Ahmed ali Omar | [Read More](https://medium.com/p/6cc215400a74) |
+| Mon, 04 May 2026 16:35:12 GMT | What 15 Years in Enterprise Technology Taught Me About the Gap Between Security Strategy and… | Prerna  pandey | [Read More](https://medium.com/p/727afc5b528f) |
+| Mon, 04 May 2026 16:34:01 GMT | Introducing the Akeyless Provider for Apache Airflow: Centralized Secrets Management for Your Data… | Barakdmax | [Read More](https://medium.com/p/af2e3e4ba7a0) |
+| Mon, 04 May 2026 16:27:03 GMT | AI Won’t Take Your SOC Job. Refusing to Learn It Will. | Jbird | [Read More](https://medium.com/p/ba6c13cbdd59) |
+| Mon, 04 May 2026 16:06:02 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Seyidov023 | [Read More](https://medium.com/p/926742c99195) |
+| Mon, 04 May 2026 16:05:38 GMT | CVE-2026–31431 — Privilege Escalation via AEAD Crypto Socket Misuse | Aditya Bhatt | [Read More](https://medium.com/p/75d6ce3ec4c2) |
+| Mon, 04 May 2026 16:02:16 GMT | The hidden threat to business availability and how Rainbow Secure stops them: Login Flooding… | Dr. Shashi Karhail | [Read More](https://medium.com/p/b6eb2da7cdd6) |
+| Mon, 04 May 2026 15:31:58 GMT | Cybersecurity Is Not a Product, It’s a Process | Ermiyas Tilahun | [Read More](https://medium.com/p/5b0f7f063639) |
+| Mon, 04 May 2026 15:28:09 GMT | What is Ticket Pulling? A Complete Guide for Beginners | emma james | [Read More](https://medium.com/p/98cd9a5dccbb) |
 | Mon, 04 May 2026 15:22:47 GMT | Bug no YouTube consome muita RAM: como evitar o travamento | Filipe Reis - UzTech | [Read More](https://medium.com/p/b700c7db57bf) |
 | Mon, 04 May 2026 15:18:04 GMT | The Invisible Crawler: How I Outsmart Modern Anti-Bot Systems | Aero-Astra Architectq | [Read More](https://medium.com/p/d4061c6563e0) |
 | Mon, 04 May 2026 15:17:46 GMT | [PMAT]Malware Analysis: WannaCry | Sagar Joshi | [Read More](https://medium.com/p/fe8415045c14) |
@@ -36,6 +56,7 @@ Here’s Why I Can’t Do Anything About It. | Logos LRB | [Read More](https://m
 | Mon, 04 May 2026 14:45:44 GMT | NSE: The Script Engine Most People Use Without Understanding | Roshan Rajbanshi | [Read More](https://medium.com/p/0c9c03f219f4) |
 | Mon, 04 May 2026 14:44:12 GMT | ‘Active’ Machine write-up | Zeyadmahmoud Zm | [Read More](https://medium.com/p/f49e814e6caa) |
 | Mon, 04 May 2026 14:43:47 GMT | Stop Using JWT for Authentication the Way You Learned It | Mayank Jain | [Read More](https://medium.com/p/e96af029f256) |
+| Mon, 04 May 2026 14:40:53 GMT | Bilgi Güvenliği Bir Tercih Değil, Bir Dayanıklılık Yolculuğudur! ️ | Ümit Eser | [Read More](https://medium.com/p/b467d7d3dedf) |
 | Mon, 04 May 2026 14:32:04 GMT | Compliance Is Not Assurance: Why Government Cybersecurity Needs Systems Security Engineering | Peter Hillier/Halton | [Read More](https://medium.com/p/05cf7162ff36) |
 | Mon, 04 May 2026 14:31:01 GMT | CyberChef Deep Dive: SOC &Forensics | Zeliha Zengin | [Read More](https://medium.com/p/d56ee0cf4b03) |
 | Mon, 04 May 2026 14:24:30 GMT | Инженеры приватности. Как московская SpyProtect проверяет компании на утечки | Egor Molchalin | [Read More](https://medium.com/p/458182fa2f22) |
@@ -94,23 +115,3 @@ DEPOK, INDONESIA — A… | Sector Intelligence | [Read More](https://medium
 | Mon, 04 May 2026 10:33:02 GMT | Breaking an Android Attendance App: VA Walkthrough | MR SHAN | [Read More](https://medium.com/p/cace4518c91b) |
 | Mon, 04 May 2026 10:31:34 GMT | The 3:00 AM Bank Drain: Why Your Biometrics Are No Longer Enough | Mohit | [Read More](https://medium.com/p/cf7e55d32468) |
 | Mon, 04 May 2026 10:31:01 GMT | Breaking Down CVE-2026–31431 (“Copy Fail”): What You Need to Know | MainEkHacker | [Read More](https://medium.com/p/79ec788fd5bc) |
-| Mon, 04 May 2026 10:14:37 GMT | Top IT Skills to Learn in 2026 (Future-Proof Your Career) | TestoMeter EduTech | [Read More](https://medium.com/p/9b866dfa16db) |
-| Mon, 04 May 2026 10:08:25 GMT | The Agentic Era is Here. Let’s Lead It. | Carlo Columna | [Read More](https://medium.com/p/992d975adb28) |
-| Mon, 04 May 2026 10:07:46 GMT | menyerah saja? atau tetap mencoba? | above the clouds | [Read More](https://medium.com/p/ff2b72d8d00f) |
-| Mon, 04 May 2026 10:01:03 GMT | SAVING DEMOCRACY: Strengthening Election Security and Administration | Skip Johnson | [Read More](https://medium.com/p/a929b83b39cd) |
-| Mon, 04 May 2026 09:53:59 GMT | Why Warehouses Need 24/7 Security to Prevent Theft and Loss | Trans-World Security | [Read More](https://medium.com/p/b1e46caec809) |
-| Mon, 04 May 2026 09:52:45 GMT | Bug Report Mastery — Get Accepted & Paid Faster (Part 9) | ghostyjoe | [Read More](https://medium.com/p/b7ab7221b89e) |
-| Mon, 04 May 2026 09:49:55 GMT | TRON Vanity Address Generators in 2026: A Honest Comparison | CustomTron | [Read More](https://medium.com/p/ecdf5329fa33) |
-| Mon, 04 May 2026 09:43:19 GMT | The Cybersecurity Market Punishes Brilliant Technology That Ships Badly | David SEHYEON Baek | [Read More](https://medium.com/p/f84314fbdbc7) |
-| Mon, 04 May 2026 09:41:36 GMT | Fast but Fragile: The Hidden Risk Behind AI-Driven Productivity | PT Neuronworks Indonesia | [Read More](https://medium.com/p/65ebdb170f62) |
-| Mon, 04 May 2026 09:35:31 GMT | I Have the Degree and the Experience. Here’s Why I’m Starting Over. | Prathmesh Murugan | [Read More](https://medium.com/p/09ca8adf4904) |
-| Mon, 04 May 2026 09:28:51 GMT | Real-Time IAM Abuse Detection Using CloudTrail, EventBridge, and Lambda | Davebhargavi | [Read More](https://medium.com/p/22fd8c6160ab) |
-| Mon, 04 May 2026 09:21:49 GMT | Sentinel - Mobile Security Toolkit for Kotlin Multiplatform | Resul Silay | [Read More](https://medium.com/p/284d9b601bdf) |
-| Mon, 04 May 2026 09:11:25 GMT | Finding a Path Traversal via Base64 | Tino | [Read More](https://medium.com/p/f39396861cf5) |
-| Mon, 04 May 2026 09:09:43 GMT | TryHackMe Pre-Security Path — Notes I Wish I Had on Day One | Prathmesh Murugan | [Read More](https://medium.com/p/654a20458de0) |
-| Mon, 04 May 2026 09:07:59 GMT | Big Data and Privacy | Lsevery | [Read More](https://medium.com/p/20459426d400) |
-| Mon, 04 May 2026 09:02:17 GMT | Kiba — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/7f4e7c6970b5) |
-| Mon, 04 May 2026 08:57:02 GMT | From Safe Today to Vulnerable Tomorrow: How Quickly Online Security Can Change | Bassant Yehia Madkour | [Read More](https://medium.com/p/437b6d6c9c58) |
-| Mon, 04 May 2026 08:56:30 GMT | How We Built a Real-Time Splunk Log Forwarding Pipeline in a Virtual Lab | UMAR MUSA | [Read More](https://medium.com/p/869dbb01dd98) |
-| Mon, 04 May 2026 08:43:57 GMT | We’ve Seen This Movie Before | Jithin Mathew | [Read More](https://medium.com/p/42b9465fa623) |
-| Mon, 04 May 2026 08:42:55 GMT | One Photo, Zero Metadata: How I Geolocated This Container Vessel in Minutes. | Luca Muscella | [Read More](https://medium.com/p/4d66c24246a0) |
