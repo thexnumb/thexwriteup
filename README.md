@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 May 2026 23:04:53 GMT | OWASP PwnzzAI shop: 01 Model Theft | Dino | [Read More](https://medium.com/p/cbd40e9b981b) |
+| Mon, 04 May 2026 23:00:35 GMT | Boring beats shiny. That’s why ShinyHunters win. | Assaf Kipnis | [Read More](https://medium.com/p/14b0ff301639) |
+| Mon, 04 May 2026 22:59:36 GMT | The Shift to the Cloud: A New Frontier for Hacking | Ali Elkhouly | [Read More](https://medium.com/p/ef4e29e65d2a) |
+| Mon, 04 May 2026 22:59:28 GMT | The Pursuit of an Unbound Spirit | Pri | [Read More](https://medium.com/p/cac0ea8aff5b) |
+| Mon, 04 May 2026 22:57:09 GMT | The Frontend Is the First Line of Defense, Not the Display Window | Vasyl Oliinyk | [Read More](https://medium.com/p/e898fab8fa2c) |
+| Mon, 04 May 2026 22:56:22 GMT | Kerberos-dan Golden Ticket-ə: Active Directory Hücumları  və protokolları necə işləyir? | Natig Mammadli | [Read More](https://medium.com/p/8a2bbb773241) |
+| Mon, 04 May 2026 22:52:16 GMT | CPaas (Communications Platform as a Service) | Prabuddha Ray | [Read More](https://medium.com/p/1880f2bd05ac) |
+| Mon, 04 May 2026 22:30:55 GMT | Kubernetes Security Best Practices: What Actually Matters | Pratham Vasani | [Read More](https://medium.com/p/1db968f70ab6) |
+| Mon, 04 May 2026 22:26:36 GMT | How a UTF‑7 Quirk Let Me “Break” Email Domain Validation | GhostX_101 | [Read More](https://medium.com/p/5664d2131075) |
+| Mon, 04 May 2026 22:10:33 GMT | Spilling the Bytes: Understanding and Defending Against Buffer Overflow Attacks | Hikmat Mammadov | [Read More](https://medium.com/p/3706258ed0b5) |
+| Mon, 04 May 2026 22:09:58 GMT | Building a Network Scanner Dashboard with Python & Flask (Real-World Use Case) | Harristar Tech | [Read More](https://medium.com/p/372bb6f9e401) |
 | Mon, 04 May 2026 21:32:04 GMT | Google Gemini AI lied to me | Asanji Bruno | [Read More](https://medium.com/p/ddf3af9eb376) |
 | Mon, 04 May 2026 21:31:01 GMT | GPT-5.5, Mythos, and the End of the One-Model-for-Everything Era | FelipeFelizatti | [Read More](https://medium.com/p/1f0023ba5145) |
 | Mon, 04 May 2026 21:28:48 GMT | Why you should NEVER save CPU costs by hashing passwords on frontend | Divyansh Shekhar Gaur | [Read More](https://medium.com/p/171a4379ac11) |
@@ -103,15 +114,3 @@ at Unprecedented Speed. Be it a Human or an AI. | Agnidipta Sarkar | [Read More]
 | Mon, 04 May 2026 15:10:21 GMT | The Observer Effect in Cybersecurity: How Measurement Changes the System | Eric Vanderburg | [Read More](https://medium.com/p/13deefd12f89) |
 | Mon, 04 May 2026 15:07:17 GMT | Trust Under Pressure: DigiCert Revokes Certificates After Support Portal Breach | Jas | [Read More](https://medium.com/p/33f8dbaf4ec5) |
 | Mon, 04 May 2026 15:06:06 GMT | How I Accidentally Shipped API Keys to the Browser — and What Actually Fixes It | Hollin Ariyawansa | [Read More](https://medium.com/p/b17b03782d29) |
-| Mon, 04 May 2026 15:02:37 GMT | Beyond the Voice: Architecture for Preventing Deepfake Exploitation in AI Dubbing | Riad Moudjahed | [Read More](https://medium.com/p/64aa7594fb61) |
-| Mon, 04 May 2026 15:02:20 GMT | The 2 AM Phone Call That Changed How I Handle Every WordPress Site Forever | Shamir Ajmir Khan | [Read More](https://medium.com/p/2147b17b12ca) |
-| Mon, 04 May 2026 15:02:07 GMT | OSINT and the thin line to the human mind (HUMINT) | N0R37urn | [Read More](https://medium.com/p/22888bd5e39a) |
-| Mon, 04 May 2026 15:00:10 GMT | 108 Chrome Extensions. | Ilias Armenakis | [Read More](https://medium.com/p/5749d266f1e4) |
-| Mon, 04 May 2026 15:00:04 GMT | A few months ago I started building a tool. | Logos LRB | [Read More](https://medium.com/p/892ee51fe3df) |
-| Mon, 04 May 2026 14:59:25 GMT | TryHackMe - Detecting AD Lateral Movement - WriteUp | Axoloth | [Read More](https://medium.com/p/2530dc4a6aa5) |
-| Mon, 04 May 2026 14:56:22 GMT | Architecting a Deterministic Chokehold for Web3 AI Agents: Inside the Lirix Engine | lokii | [Read More](https://medium.com/p/62b181b81ada) |
-| Mon, 04 May 2026 14:53:05 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Mukesh Kumar Rana | [Read More](https://medium.com/p/e4f72e629358) |
-| Mon, 04 May 2026 14:50:38 GMT | How I passed My Certified AppSec Practitioner V2 (CAP)-2026 | Omar Elhenawy | [Read More](https://medium.com/p/460e73822b4e) |
-| Mon, 04 May 2026 14:50:14 GMT | DeFi Doesn’t Remove Trust — It Engineers It | udin0627 | [Read More](https://medium.com/p/78e737eba119) |
-| Mon, 04 May 2026 14:48:00 GMT | I Found 150+ Vulnerabilities in DeFi Protocols. 
-Here’s Why I Can’t Do Anything About It. | Logos LRB | [Read More](https://medium.com/p/a49d9ffe7d55) |
