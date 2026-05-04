@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 May 2026 03:07:16 GMT | Phishing Alert ID: 257 | Swetha Devi Sai Priya | [Read More](https://medium.com/p/86b6b1cbea6c) |
+| Mon, 04 May 2026 03:05:16 GMT | Learning Cybersecurity, I spent the last two weeks deep in Australia’s Security of Critical… | Salam Khan | [Read More](https://medium.com/p/39e0c89d6a2a) |
+| Mon, 04 May 2026 02:59:54 GMT | Mengenal Apa Itu Penetration Testing? | Hilwa Annisa | [Read More](https://medium.com/p/02ed7e4cfb33) |
+| Mon, 04 May 2026 02:59:42 GMT | Mobile Legends or Real Legends? | Planestupid | [Read More](https://medium.com/p/74361c37d0cf) |
+| Mon, 04 May 2026 02:53:53 GMT | How to Ace a Job Interview: Before, During, and After | Muhammad Rezky Amri | [Read More](https://medium.com/p/043282e4abf7) |
+| Mon, 04 May 2026 02:48:48 GMT | Digital Services That Drive Modern Business Growth | Rohitcdel | [Read More](https://medium.com/p/8d45bfc44243) |
+| Mon, 04 May 2026 02:34:06 GMT | Weekly Threat Intelligence Report 27 Apr 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/1fb200757197) |
+| Mon, 04 May 2026 02:31:33 GMT | A Nine-Year-Old Bug: How “Copy Fail” Can Hand Attackers Root Access on Linux | Hiroshi Gusti | [Read More](https://medium.com/p/52504224908a) |
+| Mon, 04 May 2026 02:29:22 GMT | I hacked my AC with some AI superpowers. | Rodrigo Reyes | [Read More](https://medium.com/p/1e4d23ccfb22) |
+| Mon, 04 May 2026 02:12:03 GMT | Designing a Secure AWS VPC Architecture with Private Subnets and Controlled Access | Johnny Louis | [Read More](https://medium.com/p/d0bad75df9f0) |
+| Mon, 04 May 2026 02:09:06 GMT | The Phishing Test Isn’t the Point. The Conversation After Is. | David McHale - Educator - Engineer | [Read More](https://medium.com/p/e85aaa8239b0) |
+| Mon, 04 May 2026 02:06:31 GMT | What Actually Happens When a Security Alert Fires? Inside a SOC Workflow | Sarmadlaraib | [Read More](https://medium.com/p/ccae65f81e64) |
+| Mon, 04 May 2026 01:50:45 GMT | What is information gathering By Umairhacks | Muhammad Umair Javed | [Read More](https://medium.com/p/ab79e8f93923) |
+| Mon, 04 May 2026 01:31:49 GMT | El Fin de Las Contraseñas | GioiaCintia | [Read More](https://medium.com/p/1c1a4f0d8582) |
+| Mon, 04 May 2026 01:24:44 GMT | The Dark Corner of the Digital Underground: Inside EsqueleSquad’s Ecosystem of Harassment and… | GioiaCintia | [Read More](https://medium.com/p/8cf32ca64c55) |
+| Mon, 04 May 2026 01:02:58 GMT | OSEP, why is it so eepy? x) | Zumi Yumi | [Read More](https://medium.com/p/ab248209b5c9) |
+| Mon, 04 May 2026 00:26:45 GMT | Run Claude Code’s dangerously-skip-permissions Flag Safely with Docker | Oleksii Trekhleb | [Read More](https://medium.com/p/a2182dea3d6d) |
+| Mon, 04 May 2026 00:23:13 GMT | Nothing on This Page! But… What About Other Pages? | Akshaykumar Kathirvelu | [Read More](https://medium.com/p/b13d9111a117) |
+| Mon, 04 May 2026 00:12:39 GMT | The TypeScript Illusion: Why Next.js Server Actions Need Zod Guards | Achraffwarrach | [Read More](https://medium.com/p/bcccf93ca023) |
+| Mon, 04 May 2026 00:01:19 GMT | One Vault, Multiple Kubernetes Clusters — Here’s How to Do It Right | Jobayer Ahmed | [Read More](https://medium.com/p/3d614b729f30) |
+| Sun, 03 May 2026 23:51:36 GMT | GFW 深度解析 06：HTTPS审查 | xnvlnasna | [Read More](https://medium.com/p/b6b3844958b2) |
+| Sun, 03 May 2026 23:51:05 GMT | GFW深度解析 05：Shadowsocks | xnvlnasna | [Read More](https://medium.com/p/c402b76d87b2) |
 | Sun, 03 May 2026 23:05:17 GMT | Samurai — Hack Smarter Labs Walkthrough | Muhammad Usman Faridi | [Read More](https://medium.com/p/311e4017e241) |
 | Sun, 03 May 2026 23:01:02 GMT | CyberDefenders: BRabbit Lab Walkthrough | Drew Arpino | [Read More](https://medium.com/p/249791454b31) |
 | Sun, 03 May 2026 22:57:20 GMT | Splunk Dashboard Mantığı: Tüm Bileşenleriyle Baştan Sona Rehber | Ahmet Badem | [Read More](https://medium.com/p/91a9552c5a78) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 17:11:51 GMT | CyberBench: Building a Self-Improving Multi-Agent Cybersecurity Evaluation System | Gitikrajjindal | [Read More](https://medium.com/p/c5af53a9d67c) |
 | Sun, 03 May 2026 17:11:01 GMT | Wazuh SIEM: A Threat Hunting Toolkit for People Who Hate SIEMs | Hugo Valters | [Read More](https://medium.com/p/22f5244e17c3) |
 | Sun, 03 May 2026 17:08:56 GMT | Active Directory Setup: Where Identity Becomes Infrastructure | Yusuf Isiaq | [Read More](https://medium.com/p/e4298f47374a) |
-| Sun, 03 May 2026 17:08:40 GMT | CISA Adds CVE-2026-31431 Copy Fail Linux Bug to KEV Catalog | Cybrdef | [Read More](https://medium.com/p/b458001019f2) |
-| Sun, 03 May 2026 17:07:54 GMT | 5 Spring Boot Production Problems (With Battle-Tested Fixes) | The Latency Gambler | [Read More](https://medium.com/p/b4498d22d10e) |
-| Sun, 03 May 2026 17:06:51 GMT | Securing Jenkins with GitHub SSO | Ikeri Ebenezer | [Read More](https://medium.com/p/17d53e41cab8) |
-| Sun, 03 May 2026 17:05:38 GMT | Vect Ransomware Partners With TeamPCP to Launch Supply Chain Hits | Cybrdef | [Read More](https://medium.com/p/a2eff03e5756) |
-| Sun, 03 May 2026 16:58:15 GMT | The New Sentinel: How AI Is Rewriting Cybersecurity — And Why You Should Be Excited, Not Scared | Priyanshu Ranjan Srivastava | [Read More](https://medium.com/p/74580a2ab3fa) |
-| Sun, 03 May 2026 16:54:24 GMT | Detecting SQL Injection Attacks using Machine Learning (KNN + Decision Tree) | Sheetal Thomas | [Read More](https://medium.com/p/4ac84ad72e71) |
-| Sun, 03 May 2026 16:53:11 GMT | Billing-A TtryHackMe Writeup | 0x77 | [Read More](https://medium.com/p/4be12b93e2f6) |
-| Sun, 03 May 2026 16:50:56 GMT | The Digital War Nobody Talks About: Cyber Security in Palestine and Gaza | Dafa Dwi Putra | [Read More](https://medium.com/p/09f78a0da5a4) |
-| Sun, 03 May 2026 16:50:43 GMT | The AI Agent Destroyed Its Mail Server to Keep a Secret | Zafer Dace | [Read More](https://medium.com/p/f276d3a02c74) |
-| Sun, 03 May 2026 16:47:45 GMT | Chaining Logic Flaws: From KYC Bypass to Authenticated Time-Based SQLi and Mass IDOR | elcezeri | [Read More](https://medium.com/p/0425f362dad5) |
-| Sun, 03 May 2026 16:43:35 GMT | The Ghost in the Network: Why Most Hackers Get Caught Before the First Exploit | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/26f052f000b6) |
-| Sun, 03 May 2026 16:41:01 GMT | How I Broke a Travel Giant’s “Non-Refundable” Policy for a $12,000 Bounty | Tanvi Chauhan | [Read More](https://medium.com/p/04148200279a) |
-| Sun, 03 May 2026 16:38:04 GMT | Pass the Hash Attacks in Active Directory: How NTLM Authentication Is Abused in Real Breaches | Nisa | [Read More](https://medium.com/p/d68905b9f9ae) |
-| Sun, 03 May 2026 16:31:12 GMT | Real Estate CRM Pentest: Broken Auth + IDOR + Stored XSS — Full Attack Chain | Shikhali Jamalzade | [Read More](https://medium.com/p/5ef610a57e49) |
-| Sun, 03 May 2026 16:12:47 GMT | Threats to Asset Security | Aniket Deshmukh | [Read More](https://medium.com/p/bece62e722eb) |
-| Sun, 03 May 2026 16:04:27 GMT | Impacket Net Toolkit - Pentester’s Guide | Pentester Club | [Read More](https://medium.com/p/3a1a069956e3) |
-| Sun, 03 May 2026 16:04:08 GMT | Your Next Cyberattack Might Be AI-Generated. Here’s How Worried You Should Be | Rashmi Mishra | [Read More](https://medium.com/p/ae01c2ca2b9c) |
-| Sun, 03 May 2026 16:01:42 GMT | What I Found When My Governance Lab Met Real Engineering | Joseph A. M. | [Read More](https://medium.com/p/dd8a8c8d9156) |
-| Sun, 03 May 2026 16:01:01 GMT | Yin, Yang, and the LLM: Engineering Reliability into AI Code Scanning | Josh Conkel | [Read More](https://medium.com/p/35f4f6c222fa) |
-| Sun, 03 May 2026 16:00:23 GMT | When 9 Seconds Is All It Takes: The Cognitive Reserve Imperative in the Agentic Era | Renato Azevedo Sant Anna | [Read More](https://medium.com/p/aace8e26fb80) |
-| Sun, 03 May 2026 15:57:05 GMT | Why Affordable Cybersecurity Often Fails When You Need It Most | Sam Walker | [Read More](https://medium.com/p/5e525dbdd1b4) |
-| Sun, 03 May 2026 15:56:36 GMT | Modify and Monitor Environmental Controls in Packet Tracer | Bala | [Read More](https://medium.com/p/09fdf49fb1f2) |
