@@ -12,6 +12,35 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 May 2026 11:16:14 GMT | Understanding DNS: How It Works and How to Set It Up Properly” | Stack Architect | [Read More](https://medium.com/p/cf90dfe30340) |
+| Mon, 04 May 2026 11:10:38 GMT | I Built a Home Network Security Scanner for Android — And Google Play Rejected It Three Times | Saikiran Bavandla | [Read More](https://medium.com/p/9649d0d63559) |
+| Mon, 04 May 2026 11:10:02 GMT | 10 Simple Cybersecurity Habits That Keep You Safe Online (Most People Skip #7) | heimdal security | [Read More](https://medium.com/p/ac73be99ef07) |
+| Mon, 04 May 2026 11:08:07 GMT | How to Check Active Sessions and Unlink Unnecessary Devices | Imesmartplatform | [Read More](https://medium.com/p/814b9bb8a6e1) |
+| Mon, 04 May 2026 11:05:14 GMT | mcp-audit: What It Is, Why I Built It, and What Just Shipped | Adam Dudley | [Read More](https://medium.com/p/f15ffe924173) |
+| Mon, 04 May 2026 11:01:01 GMT | CTF Basics: Understanding SQLi Data UNIONs | Walter Moar | [Read More](https://medium.com/p/055b69ed3993) |
+| Mon, 04 May 2026 10:52:00 GMT | Testing Disaster Recovery in Hybrid On-Prem & Cloud Environments - DC9India | DC9India | [Read More](https://medium.com/p/23c6ec03a51a) |
+| Mon, 04 May 2026 10:40:47 GMT | The Hidden Security Holes in AI-Generated Mobile Apps | Hasan Sarı | [Read More](https://medium.com/p/9a738cb378c9) |
+| Mon, 04 May 2026 10:40:25 GMT | Behind The Breach | Sameeraa | [Read More](https://medium.com/p/38ed39019aa6) |
+| Mon, 04 May 2026 10:37:04 GMT | Unlock Free Auto-Renewing SSL on Namecheap: The Ultimate Let’s Encrypt & Acme.sh Guide | Shahibur Rahman | [Read More](https://medium.com/p/043d506645ab) |
+| Mon, 04 May 2026 10:33:02 GMT | Breaking an Android Attendance App: VA Walkthrough | MR SHAN | [Read More](https://medium.com/p/cace4518c91b) |
+| Mon, 04 May 2026 10:31:34 GMT | The 3:00 AM Bank Drain: Why Your Biometrics Are No Longer Enough | Mohit | [Read More](https://medium.com/p/cf7e55d32468) |
+| Mon, 04 May 2026 10:31:01 GMT | Breaking Down CVE-2026–31431 (“Copy Fail”): What You Need to Know | MainEkHacker | [Read More](https://medium.com/p/79ec788fd5bc) |
+| Mon, 04 May 2026 10:14:37 GMT | Top IT Skills to Learn in 2026 (Future-Proof Your Career) | TestoMeter EduTech | [Read More](https://medium.com/p/9b866dfa16db) |
+| Mon, 04 May 2026 10:08:25 GMT | The Agentic Era is Here. Let’s Lead It. | Carlo Columna | [Read More](https://medium.com/p/992d975adb28) |
+| Mon, 04 May 2026 10:07:46 GMT | menyerah saja? atau tetap mencoba? | above the clouds | [Read More](https://medium.com/p/ff2b72d8d00f) |
+| Mon, 04 May 2026 10:01:03 GMT | SAVING DEMOCRACY: Strengthening Election Security and Administration | Skip Johnson | [Read More](https://medium.com/p/a929b83b39cd) |
+| Mon, 04 May 2026 09:53:59 GMT | Why Warehouses Need 24/7 Security to Prevent Theft and Loss | Trans-World Security | [Read More](https://medium.com/p/b1e46caec809) |
+| Mon, 04 May 2026 09:52:45 GMT | Bug Report Mastery — Get Accepted & Paid Faster (Part 9) | ghostyjoe | [Read More](https://medium.com/p/b7ab7221b89e) |
+| Mon, 04 May 2026 09:49:55 GMT | TRON Vanity Address Generators in 2026: A Honest Comparison | CustomTron | [Read More](https://medium.com/p/ecdf5329fa33) |
+| Mon, 04 May 2026 09:43:19 GMT | The Cybersecurity Market Punishes Brilliant Technology That Ships Badly | David SEHYEON Baek | [Read More](https://medium.com/p/f84314fbdbc7) |
+| Mon, 04 May 2026 09:41:36 GMT | Fast but Fragile: The Hidden Risk Behind AI-Driven Productivity | PT Neuronworks Indonesia | [Read More](https://medium.com/p/65ebdb170f62) |
+| Mon, 04 May 2026 09:35:31 GMT | I Have the Degree and the Experience. Here’s Why I’m Starting Over. | Prathmesh Murugan | [Read More](https://medium.com/p/09ca8adf4904) |
+| Mon, 04 May 2026 09:28:51 GMT | Real-Time IAM Abuse Detection Using CloudTrail, EventBridge, and Lambda | Davebhargavi | [Read More](https://medium.com/p/22fd8c6160ab) |
+| Mon, 04 May 2026 09:21:49 GMT | Sentinel - Mobile Security Toolkit for Kotlin Multiplatform | Resul Silay | [Read More](https://medium.com/p/284d9b601bdf) |
+| Mon, 04 May 2026 09:11:25 GMT | Finding a Path Traversal via Base64 | Tino | [Read More](https://medium.com/p/f39396861cf5) |
+| Mon, 04 May 2026 09:09:43 GMT | TryHackMe Pre-Security Path — Notes I Wish I Had on Day One | Prathmesh Murugan | [Read More](https://medium.com/p/654a20458de0) |
+| Mon, 04 May 2026 09:07:59 GMT | Big Data and Privacy | Lsevery | [Read More](https://medium.com/p/20459426d400) |
+| Mon, 04 May 2026 09:02:17 GMT | Kiba — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/7f4e7c6970b5) |
 | Mon, 04 May 2026 08:57:02 GMT | From Safe Today to Vulnerable Tomorrow: How Quickly Online Security Can Change | Bassant Yehia Madkour | [Read More](https://medium.com/p/437b6d6c9c58) |
 | Mon, 04 May 2026 08:56:30 GMT | How We Built a Real-Time Splunk Log Forwarding Pipeline in a Virtual Lab | UMAR MUSA | [Read More](https://medium.com/p/869dbb01dd98) |
 | Mon, 04 May 2026 08:43:57 GMT | We’ve Seen This Movie Before | Jithin Mathew | [Read More](https://medium.com/p/42b9465fa623) |
@@ -83,32 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 May 2026 00:26:45 GMT | Run Claude Code’s dangerously-skip-permissions Flag Safely with Docker | Oleksii Trekhleb | [Read More](https://medium.com/p/a2182dea3d6d) |
 | Mon, 04 May 2026 00:23:13 GMT | Nothing on This Page! But… What About Other Pages? | Akshaykumar Kathirvelu | [Read More](https://medium.com/p/b13d9111a117) |
 | Mon, 04 May 2026 00:12:39 GMT | The TypeScript Illusion: Why Next.js Server Actions Need Zod Guards | Achraffwarrach | [Read More](https://medium.com/p/bcccf93ca023) |
-| Mon, 04 May 2026 00:01:19 GMT | One Vault, Multiple Kubernetes Clusters — Here’s How to Do It Right | Jobayer Ahmed | [Read More](https://medium.com/p/3d614b729f30) |
-| Sun, 03 May 2026 23:51:36 GMT | GFW 深度解析 06：HTTPS审查 | xnvlnasna | [Read More](https://medium.com/p/b6b3844958b2) |
-| Sun, 03 May 2026 23:51:05 GMT | GFW深度解析 05：Shadowsocks | xnvlnasna | [Read More](https://medium.com/p/c402b76d87b2) |
-| Sun, 03 May 2026 23:05:17 GMT | Samurai — Hack Smarter Labs Walkthrough | Muhammad Usman Faridi | [Read More](https://medium.com/p/311e4017e241) |
-| Sun, 03 May 2026 23:01:02 GMT | CyberDefenders: BRabbit Lab Walkthrough | Drew Arpino | [Read More](https://medium.com/p/249791454b31) |
-| Sun, 03 May 2026 22:57:20 GMT | Splunk Dashboard Mantığı: Tüm Bileşenleriyle Baştan Sona Rehber | Ahmet Badem | [Read More](https://medium.com/p/91a9552c5a78) |
-| Sun, 03 May 2026 22:44:43 GMT | Cleartext, Module 2: Layer 2, Frames, MACs, and Switches | Brandon R Russell | [Read More](https://medium.com/p/d45e27462da2) |
-| Sun, 03 May 2026 22:36:00 GMT | VEX = Accuracy. Cutting Trivy HIGH findings by 39% with vendor data | Simone Antolini | [Read More](https://medium.com/p/c29dceabcff2) |
-| Sun, 03 May 2026 22:28:34 GMT | The Death of the JSON Key: Moving to Cloud Workload Identity Federation | Seasoned Developer | [Read More](https://medium.com/p/c6343552288f) |
-| Sun, 03 May 2026 22:16:32 GMT | Understanding Darknet Research Chemicals and Online Market Trends | Tor BBB | [Read More](https://medium.com/p/91338073f79f) |
-| Sun, 03 May 2026 22:05:13 GMT | Deep Learning Is Not Just a Fancy Word. Here Is What It Actually Means. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/f3057a6a273c) |
-| Sun, 03 May 2026 22:01:07 GMT | A Computer Does Not Think. But This Trick Makes It Look Like It Does. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/09607ad4f136) |
-| Sun, 03 May 2026 21:55:44 GMT | The Pipeline That Tried Three Different Auth Errors Before It Worked | Joseph A. M. | [Read More](https://medium.com/p/2398fcae240a) |
-| Sun, 03 May 2026 21:55:08 GMT | The Line Between Skill and Crime: What Every Cybersecurity Professional Must Know About Law… | A.M | [Read More](https://medium.com/p/c360d03052d6) |
-| Sun, 03 May 2026 21:28:42 GMT | What Your Linux Security Stack Can’t See | Varun Gurnaney | [Read More](https://medium.com/p/f612b5ad119b) |
-| Sun, 03 May 2026 21:22:54 GMT | AI BEFORE YOU BUILD · PART 3 | Gregory Wiedeman | [Read More](https://medium.com/p/ef7986ba70dd) |
-| Sun, 03 May 2026 21:17:27 GMT | "5 years of waiting.. | Avinash Dadi | [Read More](https://medium.com/p/6ab280501a50) |
-| Sun, 03 May 2026 21:17:06 GMT | TryHackMe Challenge (Summit) | Ahmed Mahmoud | [Read More](https://medium.com/p/4477b7a0eb4f) |
-| Sun, 03 May 2026 21:06:09 GMT | The issue with Spectrum’s Fraud Protection and Verification Codes | Lex Alexander | [Read More](https://medium.com/p/188abb60ea61) |
-| Sun, 03 May 2026 21:02:13 GMT | Best VPN providers for streaming content in 2026 | tech nova | [Read More](https://medium.com/p/f799feb7947d) |
-| Sun, 03 May 2026 21:02:04 GMT | CyberDefenders — PacketDetective Walkthrough | Serhan Kırca | [Read More](https://medium.com/p/550d55014e22) |
-| Sun, 03 May 2026 20:52:50 GMT | Your Corporate Event in London Deserves More Than Just a Venue — Here’s What’s Actually Missing | waeventservices.co.uk/ | [Read More](https://medium.com/p/9bab8e3fd668) |
-| Sun, 03 May 2026 20:52:26 GMT | 9 New Scams to Watch Out for in 2026 (And How to Avoid Them) | Peretimi Otokolo | [Read More](https://medium.com/p/752c8fc77858) |
-| Sun, 03 May 2026 20:52:12 GMT | Cognitive Attack Surfaces and Adversarial Drift: Rethinking Ethical Hacking in Post-Zero-Trust… | Mouad B. | [Read More](https://medium.com/p/454d15b0b8fc) |
-| Sun, 03 May 2026 20:50:06 GMT | The gap between security strategy and engineering reality | Desislava Nikolaeva | [Read More](https://medium.com/p/7c91a2f7dca9) |
-| Sun, 03 May 2026 20:47:35 GMT | T1098 — Account Manipulation | Feyza Nur Bektaş | [Read More](https://medium.com/p/85fbec37ede7) |
-| Sun, 03 May 2026 20:40:32 GMT | Hacker Blueprint’s Hack Academy’s OSCP Active Directory Chain #1 Practice Lab | The Husky Hacker | [Read More](https://medium.com/p/8a242b1462b7) |
-| Sun, 03 May 2026 20:39:07 GMT | Building a Windows Network Filter Driver: Intercepting Outbound Connections | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b604c366008c) |
-| Sun, 03 May 2026 20:38:07 GMT | Why Your Employees Keep Falling for Phishing (And What Actually Fixes It) | Mike McNelis | [Read More](https://medium.com/p/20ef48917b8a) |
