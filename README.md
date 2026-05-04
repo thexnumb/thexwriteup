@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 May 2026 21:32:04 GMT | Google Gemini AI lied to me | Asanji Bruno | [Read More](https://medium.com/p/ddf3af9eb376) |
+| Mon, 04 May 2026 21:31:01 GMT | GPT-5.5, Mythos, and the End of the One-Model-for-Everything Era | FelipeFelizatti | [Read More](https://medium.com/p/1f0023ba5145) |
+| Mon, 04 May 2026 21:28:48 GMT | Why you should NEVER save CPU costs by hashing passwords on frontend | Divyansh Shekhar Gaur | [Read More](https://medium.com/p/171a4379ac11) |
+| Mon, 04 May 2026 21:22:12 GMT | Designing Security Policies for dotsecenv | Mihai Bojin | [Read More](https://medium.com/p/2776d0b40982) |
+| Mon, 04 May 2026 21:15:34 GMT | Breaking into Cybersecurity | Seanstechblog | [Read More](https://medium.com/p/7b0393a62986) |
+| Mon, 04 May 2026 21:06:40 GMT | The F12 Medical Breach: RAG Chatbots | Berend Watchus | [Read More](https://medium.com/p/bff9ec52b58f) |
+| Mon, 04 May 2026 21:06:25 GMT | Why Your Company-Managed Mac Keeps Forcing the Company Wallpaper (and how to fix it) | Luca Cesarano | [Read More](https://medium.com/p/9c901c88499b) |
+| Mon, 04 May 2026 21:05:54 GMT | Chronicle (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/9ec01af9d40e) |
+| Mon, 04 May 2026 21:02:18 GMT | # Bypassing Password Validation Through Inconsistent Backend Logic | Abdelrahman Maged | [Read More](https://medium.com/p/40d246a0709f) |
+| Mon, 04 May 2026 21:02:01 GMT | Unfiltered Restart — Day 56: Comeback | Maximillian Rueda | [Read More](https://medium.com/p/0a5f1a789912) |
+| Mon, 04 May 2026 21:01:37 GMT | Midnight thinking on Theseus, lucky dice, and the trap of unpredictability | Anya Nessi | [Read More](https://medium.com/p/f1f8161dfdbd) |
+| Mon, 04 May 2026 21:00:25 GMT | F12’den Derine: JavaScript Kod Analizi ile Sistem Çözümleme | Zeki Kayaalp | [Read More](https://medium.com/p/e2565e7635de) |
+| Mon, 04 May 2026 20:54:48 GMT | What a Privacy-Conscious Mac Utility Should Keep Local | Room Service | [Read More](https://medium.com/p/b0940546fea5) |
+| Mon, 04 May 2026 20:51:58 GMT | Anthropic Mythos: What Security Leaders Should (and Shouldn’t) Conclude from AI-Driven… | Monica Mock-Sipos | [Read More](https://medium.com/p/9eaa05306fe9) |
 | Mon, 04 May 2026 20:37:15 GMT | After 11 Years: Finally Decrypting Files Locked by Ransomware | Ahun Atajanov | [Read More](https://medium.com/p/c6a58f5072c9) |
 | Mon, 04 May 2026 20:36:31 GMT | Why USB Infections Are Still a Major Concern in 2026 | Peter Uzs | [Read More](https://medium.com/p/b0d95ab15933) |
 | Mon, 04 May 2026 20:36:22 GMT | Why Cybersecurity Is Becoming Everyone’s Responsibility | Hania Khan | [Read More](https://medium.com/p/6dbdae965cb6) |
@@ -101,17 +115,3 @@ at Unprecedented Speed. Be it a Human or an AI. | Agnidipta Sarkar | [Read More]
 | Mon, 04 May 2026 14:50:14 GMT | DeFi Doesn’t Remove Trust — It Engineers It | udin0627 | [Read More](https://medium.com/p/78e737eba119) |
 | Mon, 04 May 2026 14:48:00 GMT | I Found 150+ Vulnerabilities in DeFi Protocols. 
 Here’s Why I Can’t Do Anything About It. | Logos LRB | [Read More](https://medium.com/p/a49d9ffe7d55) |
-| Mon, 04 May 2026 14:45:58 GMT | One Patch Away From Disaster: Why Your AI Coding Assistant is a Supply-Chain Liability | RayRay | [Read More](https://medium.com/p/a3bcadc81fb7) |
-| Mon, 04 May 2026 14:45:44 GMT | NSE: The Script Engine Most People Use Without Understanding | Roshan Rajbanshi | [Read More](https://medium.com/p/0c9c03f219f4) |
-| Mon, 04 May 2026 14:44:12 GMT | ‘Active’ Machine write-up | Zeyadmahmoud Zm | [Read More](https://medium.com/p/f49e814e6caa) |
-| Mon, 04 May 2026 14:43:47 GMT | Stop Using JWT for Authentication the Way You Learned It | Mayank Jain | [Read More](https://medium.com/p/e96af029f256) |
-| Mon, 04 May 2026 14:40:53 GMT | Bilgi Güvenliği Bir Tercih Değil, Bir Dayanıklılık Yolculuğudur! ️ | Ümit Eser | [Read More](https://medium.com/p/b467d7d3dedf) |
-| Mon, 04 May 2026 14:32:24 GMT | Solving “Copy Fail” CVE-2026–31431 Q/A Lab | Ttalking | [Read More](https://medium.com/p/612fd471672a) |
-| Mon, 04 May 2026 14:32:04 GMT | Compliance Is Not Assurance: Why Government Cybersecurity Needs Systems Security Engineering | Peter Hillier/Halton | [Read More](https://medium.com/p/05cf7162ff36) |
-| Mon, 04 May 2026 14:31:50 GMT | Internal window Walkthrough (Proving Ground-play-OSCP) | Cyber Public School | [Read More](https://medium.com/p/0bd64160ef1d) |
-| Mon, 04 May 2026 14:31:01 GMT | CyberChef Deep Dive: SOC &Forensics | Zeliha Zengin | [Read More](https://medium.com/p/d56ee0cf4b03) |
-| Mon, 04 May 2026 14:24:30 GMT | Инженеры приватности. Как московская SpyProtect проверяет компании на утечки | Egor Molchalin | [Read More](https://medium.com/p/458182fa2f22) |
-| Mon, 04 May 2026 14:24:20 GMT | Software Supply Chain Under Attack: Malicious npm Packages Target Developer Secrets | Jas | [Read More](https://medium.com/p/4c3023bd267a) |
-| Mon, 04 May 2026 14:22:10 GMT | No Salt, Weak Security — How a Cookie Design Flaw Led to Account Takeover | Vamsikandukuru | [Read More](https://medium.com/p/b5616bd4b2eb) |
-| Mon, 04 May 2026 14:08:39 GMT | Penetration Testing: Strengthening Digital Defenses in a Threat-Filled World | BlackHat | [Read More](https://medium.com/p/aeba37db83f9) |
-| Mon, 04 May 2026 14:01:01 GMT | Chicago Locksmith Services: A Smart Homeowner’s Guide - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/585c7925d26c) |
