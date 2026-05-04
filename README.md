@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 04 May 2026 08:57:02 GMT | From Safe Today to Vulnerable Tomorrow: How Quickly Online Security Can Change | Bassant Yehia Madkour | [Read More](https://medium.com/p/437b6d6c9c58) |
+| Mon, 04 May 2026 08:56:30 GMT | How We Built a Real-Time Splunk Log Forwarding Pipeline in a Virtual Lab | UMAR MUSA | [Read More](https://medium.com/p/869dbb01dd98) |
+| Mon, 04 May 2026 08:43:57 GMT | We’ve Seen This Movie Before | Jithin Mathew | [Read More](https://medium.com/p/42b9465fa623) |
+| Mon, 04 May 2026 08:42:55 GMT | One Photo, Zero Metadata: How I Geolocated This Container Vessel in Minutes. | Luca Muscella | [Read More](https://medium.com/p/4d66c24246a0) |
+| Mon, 04 May 2026 08:40:22 GMT | “At 2:17 AM, Everything Broke — The DevOps Mistakes No One Talks About” | Francktikun | [Read More](https://medium.com/p/0495fd3ee2e3) |
+| Mon, 04 May 2026 08:38:55 GMT | Keep Your Secrets Safe: The Antivirus Pro Shredding Guide | Rahul yadav | [Read More](https://medium.com/p/0b7df0584cdc) |
+| Mon, 04 May 2026 08:38:22 GMT | SSL/TLS Certificate Name Mismatch Error: What It Is, Why It Happens, and How to Fix It in… | Ankit Ranjan | [Read More](https://medium.com/p/fa8aa205ebc9) |
+| Mon, 04 May 2026 08:29:35 GMT | I created my own Bloodhound viewer and you can also do it. | byL0r3t | [Read More](https://medium.com/p/1f035f67da5b) |
+| Mon, 04 May 2026 08:22:31 GMT | I Tried to Hack My ISP Router. It Turned Into a Very Expensive Lesson. | hiruthicSha | [Read More](https://medium.com/p/86cbdbba1fe7) |
+| Mon, 04 May 2026 08:20:12 GMT | When a Next.js App Leaks Its Internals: Understanding RSC Payload Exposure | Virendra Patil | [Read More](https://medium.com/p/88ca40506ee9) |
+| Mon, 04 May 2026 08:15:23 GMT | The Vulnerability Everyone Missed, Until It Was Too Late | Fateyaly | [Read More](https://medium.com/p/af8fbad303b0) |
+| Mon, 04 May 2026 08:15:17 GMT | The Best CTI Certification Path: 4 Certs to Land Your First Threat Intelligence Role | Adam Goss | [Read More](https://medium.com/p/f949cc221a80) |
+| Mon, 04 May 2026 08:13:34 GMT | Vulnerability Assessment using Nessus in a Virtual Lab | Kuldeep Choudhary | [Read More](https://medium.com/p/7c6a2e2a3d7b) |
+| Mon, 04 May 2026 08:12:17 GMT | Google ad theft… Who protects who? | THE GHOST FATHER | [Read More](https://medium.com/p/f03d0c7f206c) |
+| Mon, 04 May 2026 08:08:46 GMT | How Modern Security Solutions In Singapore Are Evolving For Business Safety | Jane Tang | [Read More](https://medium.com/p/ab428fbb79d3) |
+| Mon, 04 May 2026 08:06:11 GMT | The Ghost in the Machine: How iOS Quietly Kept Your “Deleted” Messages | Nourgweda | [Read More](https://medium.com/p/2c9f22df8a0f) |
+| Mon, 04 May 2026 08:06:01 GMT | I Started Cybersecurity With Zero Experience. Here’s Everything I Wish Someone Had Told Me. | mrwhite18 | [Read More](https://medium.com/p/e61452aa54de) |
+| Mon, 04 May 2026 08:04:53 GMT | Weekly Market Outlook - Apr 27-May 3, 2026 | Edge Capital | [Read More](https://medium.com/p/8e2f3d98513a) |
+| Mon, 04 May 2026 08:01:04 GMT | Deploying a Full MISP Threat Intelligence Platform with Docker: A Practical Guide & Troubleshooting… | Izunna Madu | [Read More](https://medium.com/p/4dc2d660d062) |
+| Mon, 04 May 2026 07:30:28 GMT | Subdomain Enumeration: How Bug Bounty Hunters Find Hidden Assets | ExploitHunter | [Read More](https://medium.com/p/50f5a9711f64) |
+| Mon, 04 May 2026 07:21:47 GMT | A Missed Bug that caused a Major Breach: Lessons from Lovable HackerOne Incident | Chuba | [Read More](https://medium.com/p/0eeac48bfba4) |
+| Mon, 04 May 2026 07:10:55 GMT | The Dark Side of E-Commerce Deliveries Nobody Talks About | Shaik Azeeza Farhana | [Read More](https://medium.com/p/bc0b5be93f71) |
+| Mon, 04 May 2026 06:50:15 GMT | Network Detection and Response (NDR) in Zero Trust Environments | NetWitness | [Read More](https://medium.com/p/20955838e691) |
+| Mon, 04 May 2026 06:41:23 GMT | Who did what and with which access? Demystifying Oracle Fusion Security Audits | Ranveer | [Read More](https://medium.com/p/7de594169a12) |
+| Mon, 04 May 2026 06:31:51 GMT | Drupal Support Services for Secure, High-Performance Websites | Drupart Digital | [Read More](https://medium.com/p/481be21c62aa) |
+| Mon, 04 May 2026 06:17:13 GMT | Why the Trellix Source Code Breach Matters for the Cybersecurity Industry | David SEHYEON Baek | [Read More](https://medium.com/p/79f9f8b30638) |
 | Mon, 04 May 2026 06:16:01 GMT | The Great Passkeys Misconception: Why Your Face is Not the New Password | Meni Tasa ( IT & CyberSecurity) | [Read More](https://medium.com/p/4aad639939ad) |
 | Mon, 04 May 2026 06:14:06 GMT | Advanced Enumeration & Reconnaissance: A Practical Guide for Ethical Hackers | Saikumarbalabhadruni | [Read More](https://medium.com/p/c7dd3d6367fe) |
 | Mon, 04 May 2026 06:12:26 GMT | Exploiting AI Agents to Perform Destructive Actions — PortSwiggers new Web LLM Lab in their Web… | Axel Rengstorf | [Read More](https://medium.com/p/7779e658ea60) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 03 May 2026 20:40:32 GMT | Hacker Blueprint’s Hack Academy’s OSCP Active Directory Chain #1 Practice Lab | The Husky Hacker | [Read More](https://medium.com/p/8a242b1462b7) |
 | Sun, 03 May 2026 20:39:07 GMT | Building a Windows Network Filter Driver: Intercepting Outbound Connections | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b604c366008c) |
 | Sun, 03 May 2026 20:38:07 GMT | Why Your Employees Keep Falling for Phishing (And What Actually Fixes It) | Mike McNelis | [Read More](https://medium.com/p/20ef48917b8a) |
-| Sun, 03 May 2026 20:35:16 GMT | Ubuntu Services Hit by Outages After DDoS Attack: What Happened, Who’s Responsible, and What It… | Garythatcher | [Read More](https://medium.com/p/e91d9a711c07) |
-| Sun, 03 May 2026 20:23:28 GMT | TryHackMe Walkthrough: Active Directory Basics | Shubham Khirwadkar | [Read More](https://medium.com/p/cc378dde4388) |
-| Sun, 03 May 2026 20:21:07 GMT | Printer Shares — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/181d74ea48b7) |
-| Sun, 03 May 2026 20:15:52 GMT | The Clanker Era: A Human-First Survival Guide in the Age of AI Displacement | CyberDucky | [Read More](https://medium.com/p/80819b3b5762) |
-| Sun, 03 May 2026 20:10:22 GMT | Beyond Heuristics: Formally Verifying AI-Generated Infrastructure with Z3 SMT Solvers | Hira | [Read More](https://medium.com/p/e95fd3a7bf95) |
-| Sun, 03 May 2026 20:02:21 GMT | Broken Authentication & 2FA Bybass ‘Business logic Error’ | Mohammed Yassin | [Read More](https://medium.com/p/ba24ee03a0d7) |
-| Sun, 03 May 2026 19:51:01 GMT | How 1,000 Wei Can Drain Protocol Fees: A Deep Dive into CoW Protocol Rounding Errors | rdin777 | [Read More](https://medium.com/p/a96617ebe672) |
-| Sun, 03 May 2026 19:49:46 GMT | Stop putting AWS keys in GitHub Actions secrets before a security incident hits you in the face | Akhilesh Mishra | [Read More](https://medium.com/p/0a28843ac76e) |
-| Sun, 03 May 2026 19:37:49 GMT | The Dark Forest Rescue | Samarth | [Read More](https://medium.com/p/83a62c18809d) |
-| Sun, 03 May 2026 19:30:57 GMT | I Always Wanted to Know How .pem, .key and .crt Files are Making the Internet Secure | Montasir Mahmud | [Read More](https://medium.com/p/ebc741b0f0ca) |
-| Sun, 03 May 2026 19:30:00 GMT | A Cybersecurity Company Just Had Its Source Code Stolen. Here Is Why That Should Worry Everyone. | Sai kiran | [Read More](https://medium.com/p/e2b2f7b3f128) |
-| Sun, 03 May 2026 19:26:14 GMT | Vulnerability in Cyber Security | Ramin Ismayilov | [Read More](https://medium.com/p/c2f550f7b08e) |
-| Sun, 03 May 2026 19:22:56 GMT | The Windows Concept Journey — UNC (Universal Naming Convention) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8b9a9959d211) |
-| Sun, 03 May 2026 19:20:56 GMT | The Hidden Cracks in the Wall: Understanding Vulnerabilities in Cybersecurity | Muradqulizade | [Read More](https://medium.com/p/7d39b366a8d2) |
-| Sun, 03 May 2026 19:19:02 GMT | Static and Dynamic Analysis Tools in Software Security | Muradqulizade | [Read More](https://medium.com/p/8100cc072e5e) |
-| Sun, 03 May 2026 19:16:01 GMT | Port 3389 to the World: How to Lose Your Company Data Over the Weekend | Hugo Valters | [Read More](https://medium.com/p/82ef1068b040) |
-| Sun, 03 May 2026 19:09:54 GMT | The Hidden Cracks: Understanding Vulnerabilities in a Connected World | Hezeyan Nw | [Read More](https://medium.com/p/ee940ea0f4ed) |
-| Sun, 03 May 2026 19:08:54 GMT | Understanding CVE-2026–6127: How a Simple Formatting Trick Bypassed Elementor’s Security | Yash Gohel | [Read More](https://medium.com/p/ea802dc81448) |
-| Sun, 03 May 2026 19:06:32 GMT | Hacker101 CTF Walkthrough — A Little Something to Get You Started | Ankitsingh | [Read More](https://medium.com/p/485d2f3a2bb7) |
-| Sun, 03 May 2026 19:04:23 GMT | Financial Privacy Isn’t About Hiding. It’s About Owning. | only1davx | [Read More](https://medium.com/p/88c0e7e84b05) |
-| Sun, 03 May 2026 19:01:47 GMT | I ARP-Spoofed My Own Home LAN with Bettercap | Oded Neuhaus | [Read More](https://medium.com/p/85ea59e2fde7) |
-| Sun, 03 May 2026 19:00:53 GMT | I Built My First Security Tool in Python | Robert Perez | [Read More](https://medium.com/p/1c10b0ced0e8) |
-| Sun, 03 May 2026 18:58:30 GMT | The cPanel Security Crisis: Understanding the CVE-2026–41940 Authentication Bypass | Yash Gohel | [Read More](https://medium.com/p/aa654963ea33) |
-| Sun, 03 May 2026 18:56:51 GMT | HTB: Appointment Box Walkthrough | Coldstart Coder | [Read More](https://medium.com/p/eb49a3230abc) |
-| Sun, 03 May 2026 18:56:01 GMT | Azure Policy Exemptions at Scale | Practical IT | [Read More](https://medium.com/p/4a63fb845ead) |
-| Sun, 03 May 2026 18:55:57 GMT | LFI to RCE: Remote File Inclusion and How Servers Execute Your Shell | 0x4rt1st | [Read More](https://medium.com/p/6b165770cd91) |
