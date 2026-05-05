@@ -12,7 +12,42 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 May 2026 07:10:13 GMT | Is Cybersecurity a Lot of Coding? A Clear Answer for Beginners and Professionals | Securetaintraining | [Read More](https://medium.com/p/511c6fccbd6b) |
+| Tue, 05 May 2026 07:05:07 GMT | Hey everyone, I need some help! | Jina | [Read More](https://medium.com/p/7ac5fa941f8f) |
+| Tue, 05 May 2026 06:55:55 GMT | My Journey to Passing the KCSA: Kubernetes and Cloud Native Security Associate (2025) | Santosh Gawande | [Read More](https://medium.com/p/9fbaf09436b5) |
+| Tue, 05 May 2026 06:54:23 GMT | What Are the Different Types of Security Uniforms | CJ7uniforms | [Read More](https://medium.com/p/6fb29c4f8721) |
+| Tue, 05 May 2026 06:54:14 GMT | The one BIG mistake you are making with DNS security today | Shahzaib | [Read More](https://medium.com/p/d2133c077e6f) |
+| Tue, 05 May 2026 06:54:10 GMT | Figure: DeFi doesn’t remove trust. | Pesek Gaming | [Read More](https://medium.com/p/b4e0c06d97d0) |
+| Tue, 05 May 2026 06:51:14 GMT | Web Güvenliği ve Bug Bounty için Keşif-Raporlama Süreci | Emineero | [Read More](https://medium.com/p/50f1ee466853) |
+| Tue, 05 May 2026 06:50:39 GMT | Is Cyber Security Dead? — The Claude Mythos | CYBER MIND SPACE | [Read More](https://medium.com/p/abebda75f0fe) |
+| Tue, 05 May 2026 06:47:31 GMT | URL vs SNMP vs DHCP vs Switch: Complete Beginner’s Guide to Essential Networking Concepts | Shalu | [Read More](https://medium.com/p/327f5c146889) |
+| Tue, 05 May 2026 06:47:15 GMT | CryptoIntro - CTF Cryptography Write Up (SPARTA HMIF ITB 2024) | Belle | [Read More](https://medium.com/p/582f90af9bd1) |
+| Tue, 05 May 2026 06:44:19 GMT | Why Most Security Tools Fail And How Better UX Fixes Them | Precogs AI | [Read More](https://medium.com/p/5f9898018060) |
+| Tue, 05 May 2026 06:42:46 GMT | Cookies Explained: How Websites Remember You, And How Attackers Exploit It | Amarachi Onyekachi | [Read More](https://medium.com/p/a0513eba787f) |
+| Tue, 05 May 2026 06:38:43 GMT | WebIntro - CTF Web Exploitation Write Up (SPARTA HMIF ITB 2024) | Belle | [Read More](https://medium.com/p/174d27145828) |
+| Tue, 05 May 2026 06:20:19 GMT | Blockchain: Dari Masalah Kepercayaan hingga Solusi Digital Modern | Didit Setiana | [Read More](https://medium.com/p/7af844bc8798) |
+| Tue, 05 May 2026 06:16:23 GMT | The CIA Triad: The Three Invisible Pillars of the Internet | Jijo Shibu | [Read More](https://medium.com/p/4fad52ff4b7f) |
+| Tue, 05 May 2026 06:15:31 GMT | They Rejected My Bugs. I Came Back Same Day With 9 More. | Ubaid Ur Rehman | [Read More](https://medium.com/p/d5b540694965) |
+| Tue, 05 May 2026 06:15:22 GMT | What is Zero Trust Security for Remote Access? | ScopeHost Steam | [Read More](https://medium.com/p/44a2c1d082bc) |
+| Tue, 05 May 2026 06:13:36 GMT | DeFi Doesn’t Remove Trust — It Engineers It | SAW MYO MYINT AUNG | [Read More](https://medium.com/p/cae43960523f) |
+| Tue, 05 May 2026 06:13:21 GMT | The Role of Managed Security Services in Protecting Business Email Systems | Gavin Ellis | [Read More](https://medium.com/p/1de49909cd85) |
+| Tue, 05 May 2026 06:12:53 GMT | How NOC Services Improve Monitoring Across Multiple Technology Platforms | Gavin Ellis | [Read More](https://medium.com/p/19facfc1fb6f) |
+| Tue, 05 May 2026 06:12:10 GMT | What are some underrated Indian IT consulting firms delivering strong results? | Krishna | [Read More](https://medium.com/p/50472d27832c) |
+| Tue, 05 May 2026 06:09:38 GMT | Security Operations Center: The Backbone of Modern Cybersecurity | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/58b240f8f722) |
+| Tue, 05 May 2026 06:05:48 GMT | WordPress has a security problem, and it’s not plugins | Dave Flynn | [Read More](https://medium.com/p/b91f6f0bf4f5) |
+| Tue, 05 May 2026 06:01:31 GMT | 1 Bar, 2 Bars, 3 Bars, 4: Toward a Legible Law of Cellular Connectivity | Rabbi Rothschild #ViralRabbi | [Read More](https://medium.com/p/aab4d770436c) |
+| Tue, 05 May 2026 06:01:20 GMT | Boxes Within Boxes: Interface Sprawl, Information Density, and the Case for a Law of Condensed… | Rabbi Rothschild #ViralRabbi | [Read More](https://medium.com/p/e482d0684def) |
+| Tue, 05 May 2026 06:01:06 GMT | Failed a CTF but learned JWT (JSON web token) | CosmicByte | [Read More](https://medium.com/p/06eea4145231) |
+| Tue, 05 May 2026 05:56:19 GMT | Reflectiz Policies: Your Security Standards, Automatically Enforced | Oran F | [Read More](https://medium.com/p/d7cccc73ab66) |
+| Tue, 05 May 2026 05:51:37 GMT | HackTheBox — TwoMillion: A Lesson in API Abuse and Privilege Escalation | Shxdowz | [Read More](https://medium.com/p/0c66bd704070) |
+| Tue, 05 May 2026 05:47:29 GMT | Temporary Email — Free Disposable Email Generator for Secure Signups & Privacy | Tempgmailer | [Read More](https://medium.com/p/003ffd61c86e) |
+| Tue, 05 May 2026 05:43:47 GMT | Part 3 : Hunting and Deleting “Trojan Horse” Plugins | Raj (CISSP - CCSP - CISA - CRISC - ISO- PMP-AWS) | [Read More](https://medium.com/p/40840fca41c5) |
+| Tue, 05 May 2026 05:22:22 GMT | JBoss 6 RCE Exploitation and Privilege Escalation via Misconfigured "sudo find" Command | Bash Overflow | [Read More](https://medium.com/p/da4048ba4296) |
+| Tue, 05 May 2026 05:21:14 GMT | Why Salesforce Lead Management is Essential for Modern Sales Success | QuantoKnack Training | [Read More](https://medium.com/p/ae411be589d2) |
+| Tue, 05 May 2026 04:51:01 GMT | Social Media Account Hacking Methods: Common Attacks & How to Protect Yourself | Manula Udyoga | [Read More](https://medium.com/p/af69488b26e7) |
+| Tue, 05 May 2026 04:50:20 GMT | Everyone is talking about AI taking people’s jobs and even replacing hackers. | Imran Niaz | [Read More](https://medium.com/p/d4f90b96cbd6) |
 | Tue, 05 May 2026 04:40:31 GMT | Recon in Bug Bounty: Step-by-Step Methodology for Beginners | ExploitHunter | [Read More](https://medium.com/p/415f1eef9991) |
+| Tue, 05 May 2026 04:40:23 GMT | SOC Interview Prep Guide: What to Study and What to Expect | Irene A. Gil | [Read More](https://medium.com/p/f0ecd634ba14) |
 | Tue, 05 May 2026 04:32:00 GMT | Tired of Spam? How I Built a “Burner Email” Service to Protect Your Privacy | Ohbee Labs | [Read More](https://medium.com/p/14946556f289) |
 | Tue, 05 May 2026 04:31:01 GMT | Gemini CLI + AI Se Bug Hunting Automate Karo 2026 Ka Most Powerful Combo! | Hacker MD | [Read More](https://medium.com/p/efc4228e92b9) |
 | Tue, 05 May 2026 04:25:10 GMT | Beyond the Stack: The Agentic Pivot and the “Mythos” Dilemma | swapnil | [Read More](https://medium.com/p/dea34eb2fb68) |
@@ -77,39 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 04 May 2026 20:37:15 GMT | After 11 Years: Finally Decrypting Files Locked by Ransomware | Ahun Atajanov | [Read More](https://medium.com/p/c6a58f5072c9) |
 | Mon, 04 May 2026 20:36:31 GMT | Why USB Infections Are Still a Major Concern in 2026 | Peter Uzs | [Read More](https://medium.com/p/b0d95ab15933) |
 | Mon, 04 May 2026 20:36:22 GMT | Why Cybersecurity Is Becoming Everyone’s Responsibility | Hania Khan | [Read More](https://medium.com/p/6dbdae965cb6) |
-| Mon, 04 May 2026 20:36:13 GMT | How DNS Works | Khansa Mahmood | [Read More](https://medium.com/p/186c17e924fb) |
-| Mon, 04 May 2026 20:26:01 GMT | The Most Dangerous Vulnerability in Your Organization Has a Pulse | Selorm Adjabeng | [Read More](https://medium.com/p/700d6298f56f) |
-| Mon, 04 May 2026 20:23:34 GMT | Supply Chain Compromise: How a Single pip install Silently Owns Your Entire CI/CD Environment | Sadi Zane | [Read More](https://medium.com/p/cce143822cc5) |
-| Mon, 04 May 2026 20:20:21 GMT | Cybersecurity Technical Report
-On JobGuard Application | Victor Shedrack | [Read More](https://medium.com/p/7109dbbff40f) |
-| Mon, 04 May 2026 20:19:02 GMT | My test on a Real Web App for Security Flaws. | Ogwuazor Lucky | [Read More](https://medium.com/p/1c8ae258dd11) |
-| Mon, 04 May 2026 20:17:42 GMT | The Ultimate Roblox Safety Guide for 2026 | Ujoazd | [Read More](https://medium.com/p/c6f22fe609c0) |
-| Mon, 04 May 2026 20:15:14 GMT | From eJPT to CPTS: What Failing Taught Me About Offensive Security and Building My Own CTF Sandbox | Fodor David | [Read More](https://medium.com/p/000aed53bbc0) |
-| Mon, 04 May 2026 20:14:22 GMT | From Technical Vulnerabilities to Business Impact | Petersmuditha | [Read More](https://medium.com/p/98d9f17b959f) |
-| Mon, 04 May 2026 20:13:25 GMT | Эксплуатация веб-технологий picoCTF: WebDecode | silent | [Read More](https://medium.com/p/f47f7c59f6bf) |
-| Mon, 04 May 2026 20:12:20 GMT | “Everything Works Fine” Is the Most Expensive Sentence in Small Business IT | solutions@sesinftech.com | [Read More](https://medium.com/p/96e4b4eea891) |
-| Mon, 04 May 2026 19:59:23 GMT | Title: Why Every AI Agent Needs a Cryptographic Identity | Raheem L Babatunde | [Read More](https://medium.com/p/849a9418666a) |
-| Mon, 04 May 2026 19:51:10 GMT | CISA and Others: Global Guide to Agentic AI | SOCFortress | [Read More](https://medium.com/p/f798bb760965) |
-| Mon, 04 May 2026 19:43:00 GMT | Corporate Conference Planners: How to Organise a Flawless Business Conference in the UK | waeventservices.co.uk/ | [Read More](https://medium.com/p/4e53c1b3357d) |
-| Mon, 04 May 2026 19:19:34 GMT | The World Economic Forum Just Released Its AI Cybersecurity Report. | Sai kiran | [Read More](https://medium.com/p/cd9800a3430a) |
-| Mon, 04 May 2026 19:18:14 GMT | LFI to RCE: Log Poisoning via PHP Sessions and Apache Logs | 0x4rt1st | [Read More](https://medium.com/p/aa4dcf184bb8) |
-| Mon, 04 May 2026 19:15:10 GMT | From Directory Brute-Forcing to Real-Time GPS Tracking: Exploiting S3 Bucket Misconfigurations | Tanvi Chauhan | [Read More](https://medium.com/p/f03b088a0a3d) |
-| Mon, 04 May 2026 19:01:35 GMT | LFI to RCE: Weaponizing File Uploads with PHP Shells | 0x4rt1st | [Read More](https://medium.com/p/b12edc433415) |
-| Mon, 04 May 2026 18:51:55 GMT | Check Thousands of Proxies in Seconds - Proxy Checker PRO | Shandyka PW | [Read More](https://medium.com/p/72ef74bf309b) |
-| Mon, 04 May 2026 18:41:41 GMT | Hallucinations, Co-Hallucinations, and the Fragility of LLM Reasoning | Priyank Khanna | [Read More](https://medium.com/p/ff06da42cccf) |
-| Mon, 04 May 2026 18:34:41 GMT | The Quiet Outage | Diyaz Yakubov | [Read More](https://medium.com/p/0d7c031c2174) |
-| Mon, 04 May 2026 18:34:04 GMT | The Ethics of Privatized Warfare: Should States Outsource the Use of Force? | Vionë Dobërdoli | [Read More](https://medium.com/p/2708ca2bf087) |
-| Mon, 04 May 2026 18:33:10 GMT | Between the Guardrails: GenAI adoption rises. | Gerda T. Werba | [Read More](https://medium.com/p/69c1676d1656) |
-| Mon, 04 May 2026 18:31:01 GMT | Nmap: How Hackers “See” Your Network Before Attacking It | Anubhav_bora | [Read More](https://medium.com/p/b164e4126c99) |
-| Mon, 04 May 2026 18:27:27 GMT | No Seed Phrase vs. Traditional: Which Setup Wins for Mobile DEX in 2026? | MakeSwap Crypto | [Read More](https://medium.com/p/3cea411ba368) |
-| Mon, 04 May 2026 18:26:59 GMT | Bug Hunter Notebook (CHAPTER — 1) | Gourav(spidergk) | [Read More](https://medium.com/p/3fef97bc9367) |
-| Mon, 04 May 2026 18:23:49 GMT | The Official Inventory Is Not the Real System. | PRASAD BHONDE | [Read More](https://medium.com/p/1b5175612057) |
-| Mon, 04 May 2026 18:21:43 GMT | Launching python-oracledb 4.0: | Sharad Chandran | [Read More](https://medium.com/p/5cec53953a31) |
-| Mon, 04 May 2026 18:18:34 GMT | Hello, I’m Aziz Kbaier, a CTF player and challenges author. | Azizkbaier | [Read More](https://medium.com/p/3b94b89f7566) |
-| Mon, 04 May 2026 18:17:58 GMT | SSRF to Remote Java SPI Plugin Injection leading to RCE | Nitika | [Read More](https://medium.com/p/d34fa3e359f5) |
-| Mon, 04 May 2026 18:11:58 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Adnan Kamal | [Read More](https://medium.com/p/2bb735ba8378) |
-| Mon, 04 May 2026 18:02:35 GMT | I Spent a Week Studying Nation-State Hackers. | Namya | [Read More](https://medium.com/p/cd2c2e012ddc) |
-| Mon, 04 May 2026 18:01:46 GMT | JWT Authentication Nedir? Token Üretme ve Doğrulama | Hakan Cengiz | [Read More](https://medium.com/p/f7d80c5b394e) |
-| Mon, 04 May 2026 18:01:01 GMT | A Board That Cannot Interrogate Management Is Not Governing | Tyson Martin | [Read More](https://medium.com/p/6581615355f1) |
-| Mon, 04 May 2026 17:55:45 GMT | Architecting Autonomy: Securing the Agentic AI Software Development Life Cycle | Vikrant Waghmode | [Read More](https://medium.com/p/9265d7870cb4) |
-| Mon, 04 May 2026 17:54:56 GMT | Best Digital Legacy Platforms for Managing Digital Assets in 2026 | AiNeow | [Read More](https://medium.com/p/2a22478c3a41) |
