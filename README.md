@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 May 2026 18:31:01 GMT | VLAN Segmentation: Because Your ‘Smart’ Toaster is a Moron (and a Security Risk) | Hugo Valters | [Read More](https://medium.com/p/af6fc98f4758) |
+| Tue, 05 May 2026 18:29:45 GMT | Applying AI to Application Security: What Works and What Doesn’t | Karanpreet 'KP' Singh | [Read More](https://medium.com/p/4f021446ee70) |
+| Tue, 05 May 2026 18:25:33 GMT | Data Minimisation Means Never Uploading Your Documents. Here Is Why. | Zerocloudpdf | [Read More](https://medium.com/p/2442fab498b7) |
+| Tue, 05 May 2026 18:20:58 GMT | The Honest Truth About VPNs for Freelancers in 2026 (I Tested Them) | SoftwarePickr | [Read More](https://medium.com/p/2b864c346313) |
+| Tue, 05 May 2026 18:20:10 GMT | TuesdayTool 45: NetScepter, A Real-Time Cyber Exposure & System Monitoring Tool | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/a35aa072ea02) |
+| Tue, 05 May 2026 18:19:00 GMT | ScarCruft’s Digital Ambush: The Yanbian Supply-Chain Compromise | Φiriki Intelligence | [Read More](https://medium.com/p/32a2117817ae) |
+| Tue, 05 May 2026 18:18:39 GMT | The Hidden Data Problem in Workforce & Security Operations
+Why Having an App Is Not Enough | Raiamit | [Read More](https://medium.com/p/e989642aba78) |
+| Tue, 05 May 2026 18:16:34 GMT | Palo Alto Networks Bets Big on AI Security with Portkey Acquisition | Scribds It | [Read More](https://medium.com/p/3773089fab8a) |
+| Tue, 05 May 2026 18:16:33 GMT | Mastering tmux: A Practical Guide for Beginners (TryHackMe Notes Expanded) | Devansh Patel | [Read More](https://medium.com/p/9c97a1d47566) |
+| Tue, 05 May 2026 18:16:01 GMT | Claude Mythos and Project Glasswing: Anthropic Built a Model Too Dangerous to Ship | Jayakrishnan M | [Read More](https://medium.com/p/03dc2fc9480b) |
+| Tue, 05 May 2026 18:14:53 GMT | iOS Interview Series #10: Questions Every Senior iOS Developer Should Know | Anand Mishra | [Read More](https://medium.com/p/ca71cca3f466) |
+| Tue, 05 May 2026 18:13:50 GMT | Researchers Scanned 1 Million Exposed AI Services. What They Found Should Alarm Every CISO. | Sai kiran | [Read More](https://medium.com/p/b6624c691eb5) |
+| Tue, 05 May 2026 18:12:44 GMT | The Silent Heist: How Cryptojackers Stole Millions Without Anyone Noticing | CAISD | [Read More](https://medium.com/p/4f474a6920d4) |
+| Tue, 05 May 2026 17:46:30 GMT | What a VPN Actually Protects You From: An Honest Look at Where It Stops | DrSoft | [Read More](https://medium.com/p/3b38b937cb48) |
+| Tue, 05 May 2026 17:46:11 GMT | Buffer Overflow at the Architecture Level | Mahdi | [Read More](https://medium.com/p/0e41f3fec270) |
+| Tue, 05 May 2026 17:30:59 GMT | TryHackMe - Introduction to Wordlists - WriteUp | Axoloth | [Read More](https://medium.com/p/525b6a52297d) |
+| Tue, 05 May 2026 17:14:23 GMT | Why no one is talking about OpenClaw anymore | Prashant Lakhera | [Read More](https://medium.com/p/5077ff35dba6) |
+| Tue, 05 May 2026 17:12:25 GMT | Escalating Self-XSS with Disk Cache | Spoderx555 | [Read More](https://medium.com/p/1716e420754f) |
 | Tue, 05 May 2026 17:02:48 GMT | What I Check First When a Computer Feels Slow | Ben Treder | [Read More](https://medium.com/p/127c41136d5e) |
 | Tue, 05 May 2026 16:58:40 GMT | Why Everyone Has the Same Ringtone — and Why That’s a Security Problem | Lorenzo Leonelli, PMP, CISSP, ITIL4 MP | [Read More](https://medium.com/p/2f6c07b6594c) |
 | Tue, 05 May 2026 16:56:04 GMT | Personal Recon: Vulnerability Assessment | Φiriki Intelligence | [Read More](https://medium.com/p/a203223a73f3) |
@@ -95,21 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 May 2026 10:52:19 GMT | DeFi Doesn’t Remove Trust — It Engineers It | thegloryadeniyi | [Read More](https://medium.com/p/65a2411a3545) |
 | Tue, 05 May 2026 10:50:46 GMT | From “Deceptive Site Ahead” to Fully Recovered! | Frnooranother | [Read More](https://medium.com/p/0b27a7871f10) |
 | Tue, 05 May 2026 10:48:14 GMT | An Open Letter to Kristen: I Will Not Be Silenced | Esther Ijewere | [Read More](https://medium.com/p/193d77d91f86) |
-| Tue, 05 May 2026 10:42:51 GMT | Refractories Industry 2026: From Digital Innovation to India’s Leading Manufacturers. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/135f3f507bd7) |
-| Tue, 05 May 2026 10:40:40 GMT | ELK Stack (Elasticsearch, Logstash, Kibana) Installation and Configuration | Aghaverdi Kalantarli | [Read More](https://medium.com/p/c27ff03a8689) |
-| Tue, 05 May 2026 10:35:25 GMT | The Hidden Risk of AI Payments: Why Autonomous Transactions May Be More Dangerous Than We Think | Avinash | [Read More](https://medium.com/p/634c83de9223) |
-| Tue, 05 May 2026 10:34:49 GMT | I Vibe-Coded a SaaS App. Then I Audited It. Found 5 Security Holes in Under an Hour. | PIXIPACE | [Read More](https://medium.com/p/cb56062d67e4) |
-| Tue, 05 May 2026 10:34:11 GMT | Command Lines: The Skill Every Cybersecurity Professional Needs | Shubham Khirwadkar | [Read More](https://medium.com/p/656dd22280bd) |
-| Tue, 05 May 2026 10:31:39 GMT | The 3:00 AM Ghost: Why Your Bank Account Isn’t as Safe as You Think | Mohit | [Read More](https://medium.com/p/1a4d1791b759) |
-| Tue, 05 May 2026 10:26:15 GMT | IP and Domain Threat Intel - TryHackMe | Ryca | [Read More](https://medium.com/p/b720b20c6a8e) |
-| Tue, 05 May 2026 10:17:24 GMT | The Endpoint That Looked Dead, But Paid Anyway | Fateyaly | [Read More](https://medium.com/p/cc04e4d41015) |
-| Tue, 05 May 2026 10:16:38 GMT | Shift Left Security: From Concept to Practice — A Complete Guide for Modern Engineering Teams | Ambrish Vadnerkar | [Read More](https://medium.com/p/e491fe25b8a0) |
-| Tue, 05 May 2026 10:13:49 GMT | How Secure Are Team Collaboration Tools for Business Use? | Globogenix | [Read More](https://medium.com/p/131cd753b400) |
-| Tue, 05 May 2026 10:12:42 GMT | Coating vs Galvanizing Fence Which is Better for Saudi Arabia | Hitechfence | [Read More](https://medium.com/p/240ec12740a0) |
-| Tue, 05 May 2026 10:11:58 GMT | From Cloud to Detection: How I Built a Complete Cybersecurity Portfolio (10 Projects in 10 Levels) | Sidharth Sanwariya | [Read More](https://medium.com/p/ff34721998e4) |
-| Tue, 05 May 2026 10:09:45 GMT | OTP Is Not Always Secure: From a Simple Email Input to Account Collision | Kanishkakhandelwal | [Read More](https://medium.com/p/e7b3196b1149) |
-| Tue, 05 May 2026 10:05:15 GMT | THM Enterprise Walkthrough By Ryan Cham | Ryan Cham Rui Yang | [Read More](https://medium.com/p/5172563467d7) |
-| Tue, 05 May 2026 10:03:59 GMT | Your AI Assistant Could Be Hacked — And It Wouldn’t Even Know It | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/e9c1241ec762) |
-| Tue, 05 May 2026 09:53:46 GMT | Your Phone Connects to Fake Cell Towers Daily…Here’s How I Detect Them | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b7085b6c9df9) |
-| Tue, 05 May 2026 09:38:55 GMT | Why Your VPN Gets Blocked in Turkey (And How to Actually Fix It) | VeiloraVPN | [Read More](https://medium.com/p/84ba15287e1c) |
-| Tue, 05 May 2026 09:32:07 GMT | Google Dorks — Advanced Search | KoshCyber | [Read More](https://medium.com/p/2aa72792b7b8) |
