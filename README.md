@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 May 2026 04:40:31 GMT | Recon in Bug Bounty: Step-by-Step Methodology for Beginners | ExploitHunter | [Read More](https://medium.com/p/415f1eef9991) |
+| Tue, 05 May 2026 04:32:00 GMT | Tired of Spam? How I Built a “Burner Email” Service to Protect Your Privacy | Ohbee Labs | [Read More](https://medium.com/p/14946556f289) |
+| Tue, 05 May 2026 04:31:01 GMT | Gemini CLI + AI Se Bug Hunting Automate Karo 2026 Ka Most Powerful Combo! | Hacker MD | [Read More](https://medium.com/p/efc4228e92b9) |
+| Tue, 05 May 2026 04:25:10 GMT | Beyond the Stack: The Agentic Pivot and the “Mythos” Dilemma | swapnil | [Read More](https://medium.com/p/dea34eb2fb68) |
+| Tue, 05 May 2026 04:23:39 GMT | Scaling Up — Earn Consistently & Build Your Reputation (Part 10) | ghostyjoe | [Read More](https://medium.com/p/0fe69198b2a9) |
+| Tue, 05 May 2026 04:22:41 GMT | How Do You Know Your Software Hasn’t Been Tampered With? | Damini Bansal | [Read More](https://medium.com/p/c32346685707) |
+| Tue, 05 May 2026 04:21:41 GMT | How Hackers Are Using AI to Break Into Your Accounts in 2026 | Jaysen | [Read More](https://medium.com/p/ce7ba545456e) |
+| Tue, 05 May 2026 04:01:23 GMT | How I Obtained CVEs in WordPress Plugins Using Static Analysis Engine - Semgrep | Candy Wong | [Read More](https://medium.com/p/4ea77f136317) |
+| Tue, 05 May 2026 03:56:47 GMT | Outsourcing Cybersecurity for Startups: Why Waiting Could Cost You Everything | Mandanakkalakshmipriya | [Read More](https://medium.com/p/2f9eba3faa3c) |
+| Tue, 05 May 2026 03:47:59 GMT | cybernetxe-- zuhaib malik | Cyrix Yz | [Read More](https://medium.com/p/7b0591ee2a72) |
+| Tue, 05 May 2026 03:46:01 GMT | A Path Built Through Persistence | Sarmadlaraib | [Read More](https://medium.com/p/861d251e726e) |
+| Tue, 05 May 2026 03:36:08 GMT | Create backup with Kopia CLI | Andrea Rizzioli | [Read More](https://medium.com/p/9ad031cc5fdd) |
+| Tue, 05 May 2026 03:20:01 GMT | DeFi Doesn’t Remove Trust — It Engineers It | JOHN | [Read More](https://medium.com/p/37a7f8697632) |
+| Tue, 05 May 2026 02:59:55 GMT | The Future of Digital Transformation: How Smart Technology is Changing the Way Businesses Grow | Infonodeinsider | [Read More](https://medium.com/p/3435a9384f0e) |
+| Tue, 05 May 2026 02:56:01 GMT | Beyond the Tool Trap: Moving from Automation to Adversarial Thinking | Arunsridhar E | [Read More](https://medium.com/p/26e7eb5357e0) |
+| Tue, 05 May 2026 02:49:00 GMT | to be, beautifully | Mia Guan | [Read More](https://medium.com/p/9417b7a13e44) |
+| Tue, 05 May 2026 02:37:16 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Hosen Ali | [Read More](https://medium.com/p/8887ad573ca5) |
+| Tue, 05 May 2026 02:29:21 GMT | Palo Alto Firewall Interview Questions (2026): Real Scenarios with Answers | Gyan1508 | [Read More](https://medium.com/p/d3e8f7cda8a5) |
+| Tue, 05 May 2026 02:19:58 GMT | When Disaster Strikes, Your Plan Either Saves You or Fails You — Here’s How to Make Sure It Saves… | A.M | [Read More](https://medium.com/p/95667fdd2578) |
+| Tue, 05 May 2026 02:12:27 GMT | Your Model Aced the Test and Then Failed in the Real World. Here Is Why. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/58a071f87833) |
+| Tue, 05 May 2026 02:06:46 GMT | When the Alarm Goes Off: A Practical Guide to Incident Response and Digital Forensics | A.M | [Read More](https://medium.com/p/cde309b31e2d) |
+| Tue, 05 May 2026 02:05:24 GMT | How Does a Neural Network Actually Learn? It Is Simpler Than You Think. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/a7a65e3a2248) |
+| Tue, 05 May 2026 01:49:09 GMT | AWS VPC Explained: Subnets, Route Tables, Internet Gateway, NAT Gateway and Interview Prep | Jawahar Rajaram | [Read More](https://medium.com/p/4a65346487f3) |
+| Tue, 05 May 2026 01:48:19 GMT | Patching Binaries: How to solve the ‘U Can’t Pass’ crackme | n0ct3m | [Read More](https://medium.com/p/4b455be5318c) |
+| Tue, 05 May 2026 01:11:01 GMT | Principle of Least Privilege | Grayden | [Read More](https://medium.com/p/75ad733e2a38) |
 | Tue, 05 May 2026 00:56:39 GMT | From Confinement to Code: Building a Cybersecurity Future One System at a Time | Err0rs | [Read More](https://medium.com/p/767ee5166d06) |
 | Tue, 05 May 2026 00:41:53 GMT | Discover the “Advanced” safety mode of OpenAI and how it protects you. | Atima singh | [Read More](https://medium.com/p/c51b70e0e0d2) |
 | Tue, 05 May 2026 00:14:11 GMT | HTB: Sequel Box Walkthrough | Coldstart Coder | [Read More](https://medium.com/p/2af78c44ec2e) |
@@ -88,29 +113,3 @@ On JobGuard Application | Victor Shedrack | [Read More](https://medium.com/p/710
 | Mon, 04 May 2026 18:01:01 GMT | A Board That Cannot Interrogate Management Is Not Governing | Tyson Martin | [Read More](https://medium.com/p/6581615355f1) |
 | Mon, 04 May 2026 17:55:45 GMT | Architecting Autonomy: Securing the Agentic AI Software Development Life Cycle | Vikrant Waghmode | [Read More](https://medium.com/p/9265d7870cb4) |
 | Mon, 04 May 2026 17:54:56 GMT | Best Digital Legacy Platforms for Managing Digital Assets in 2026 | AiNeow | [Read More](https://medium.com/p/2a22478c3a41) |
-| Mon, 04 May 2026 17:47:54 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #15 | Antonio Formato | [Read More](https://medium.com/p/0c11809fd57c) |
-| Mon, 04 May 2026 17:44:29 GMT | Stop Being Nice | Carol Saint Martin | [Read More](https://medium.com/p/1534e422218c) |
-| Mon, 04 May 2026 17:42:21 GMT | AI Models Won’t Pick Sides in the Security War. Governance and Policy Will. | JFrog ML (formerly Qwak) | [Read More](https://medium.com/p/6948c8d72ab8) |
-| Mon, 04 May 2026 17:42:05 GMT | The Ghost Email: How Weak Validation Broke Authentication | Parth Narula | [Read More](https://medium.com/p/b45774caae70) |
-| Mon, 04 May 2026 17:36:51 GMT | The Complete Guide to Managed Cyber Defense: Protecting Your Business in 2026 | Fortnexs Shield | [Read More](https://medium.com/p/cc59df012785) |
-| Mon, 04 May 2026 17:23:49 GMT | A Hacker Tried to Break Into My Business Network Last Tuesday. I Watched It Happen in Real Time. | Game With Life | [Read More](https://medium.com/p/fa9dcbeaefc5) |
-| Mon, 04 May 2026 17:21:14 GMT | The Patch Went Out. The Breach Still Happened. Here’s Why. | Assaf Kipnis | [Read More](https://medium.com/p/160ae6c29882) |
-| Mon, 04 May 2026 17:16:59 GMT | How I “Accidentally” Became an API Hacker Using Postman | cybertec8 | [Read More](https://medium.com/p/fd61e2e38937) |
-| Mon, 04 May 2026 17:08:27 GMT | Travel Security: How to Move Smart Without Killing the Vibe. | Jay Travler | [Read More](https://medium.com/p/d25978f90277) |
-| Mon, 04 May 2026 17:07:10 GMT | How Mythos Signals Cybersecurity Disruption | Matthew.Rosenquist | [Read More](https://medium.com/p/57257876906c) |
-| Mon, 04 May 2026 17:06:23 GMT | DeFi Doesn’t Remove Trust , It Engineers It | Lilybarbie | [Read More](https://medium.com/p/4a783c38f25f) |
-| Mon, 04 May 2026 17:01:02 GMT | How to Use AI Smarter Without Falling Into Common Thinking Traps | Jonathan Michael Gray | [Read More](https://medium.com/p/1e0e52f54884) |
-| Mon, 04 May 2026 16:53:05 GMT | Claude Did Not Kill That Database. Reckless AI Deployment Did. | Len Noe | [Read More](https://medium.com/p/51e9ebf795a5) |
-| Mon, 04 May 2026 16:51:27 GMT | RST TI Report Digest: 04 May 2026 | RST Cloud | [Read More](https://medium.com/p/c74fb272f909) |
-| Mon, 04 May 2026 16:49:29 GMT | GRC Cybersecurity Roles: Job Market Trends, Salary Insights & Interview Guide (2026) | The Daily Cyber News | [Read More](https://medium.com/p/17923dd4a8af) |
-| Mon, 04 May 2026 16:48:38 GMT | Time for IT Asset Management is Long Overdue | Brian Evans | [Read More](https://medium.com/p/db48bfe6ba92) |
-| Mon, 04 May 2026 16:41:36 GMT | Defend the Next Cyberattack
-at Unprecedented Speed. Be it a Human or an AI. | Agnidipta Sarkar | [Read More](https://medium.com/p/5635b3914009) |
-| Mon, 04 May 2026 16:40:50 GMT | Building BB-Recon: My Bug Bounty Recon Automation Pipeline - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/3b2a34c535c1) |
-| Mon, 04 May 2026 16:38:45 GMT | AI-PT-Lab - Learn AI Security & Red Teaming Lab | Pentester Club | [Read More](https://medium.com/p/642816a82b0f) |
-| Mon, 04 May 2026 16:36:20 GMT | From Client-Side Validation to Unauthorized Internal Access | Ahmed ali Omar | [Read More](https://medium.com/p/6cc215400a74) |
-| Mon, 04 May 2026 16:35:12 GMT | What 15 Years in Enterprise Technology Taught Me About the Gap Between Security Strategy and… | Prerna  pandey | [Read More](https://medium.com/p/727afc5b528f) |
-| Mon, 04 May 2026 16:34:01 GMT | Introducing the Akeyless Provider for Apache Airflow: Centralized Secrets Management for Your Data… | Barakdmax | [Read More](https://medium.com/p/af2e3e4ba7a0) |
-| Mon, 04 May 2026 16:27:03 GMT | AI Won’t Take Your SOC Job. Refusing to Learn It Will. | Jbird | [Read More](https://medium.com/p/ba6c13cbdd59) |
-| Mon, 04 May 2026 16:15:17 GMT | CVE-2021–42013 Apache HTTP Server 2.4.49 2.4.50 Remote Code Execution | Baran Yiğit | [Read More](https://medium.com/p/d63d4526a6a6) |
-| Mon, 04 May 2026 16:06:02 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Seyidov023 | [Read More](https://medium.com/p/926742c99195) |
