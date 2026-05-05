@@ -12,7 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 May 2026 12:34:23 GMT | The Digital Detective: A Guide to Website Reconnaissance | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/55d50f1d6beb) |
+| Tue, 05 May 2026 12:33:42 GMT | How I Designed and Implemented a Secure Enterprise Network for a Multinational IT Company | Prosper Emerole | [Read More](https://medium.com/p/5263902ac560) |
+| Tue, 05 May 2026 12:32:02 GMT | How Cyber Security Protects Small Businesses from Attacks | Cloud Cover | [Read More](https://medium.com/p/2b8bf3525a6e) |
+| Tue, 05 May 2026 12:31:01 GMT | Hands-On Network Security Lab: Vulnerability Assessment & Traffic Analysis Using Nmap and Wireshark | Nipun kumara | [Read More](https://medium.com/p/75246aefb7f5) |
+| Tue, 05 May 2026 12:25:38 GMT | Governing AI Tool Access: Building an Enterprise MCP Gateway | Ferry Djaja | [Read More](https://medium.com/p/cd1adb8d48aa) |
+| Tue, 05 May 2026 12:20:05 GMT | IT Asset Disposition Market Growth: Why Demand Is Rising Worldwide | Aj | [Read More](https://medium.com/p/c8121b67f5e9) |
+| Tue, 05 May 2026 12:13:12 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Kancangkalip | [Read More](https://medium.com/p/960eaf7f29f0) |
+| Tue, 05 May 2026 12:12:24 GMT | From Hardware to History: Discovering the Hidden Gems at NetworkTestingTech | Cheeru Venkatesh | [Read More](https://medium.com/p/7ebc48bf9791) |
+| Tue, 05 May 2026 12:08:12 GMT | What Happens When a Ransomware Attack Hits a Hospital? | US Compliance 1 | [Read More](https://medium.com/p/f512c4add5fc) |
+| Tue, 05 May 2026 12:05:21 GMT | Jevons SOC: The Agentic SOC from the analyst perspective | Markohalloran | [Read More](https://medium.com/p/5d48dd935057) |
+| Tue, 05 May 2026 12:01:27 GMT | What Happens When You Log In to a Website?! | Kavita Prajapati | [Read More](https://medium.com/p/edf8f999aa8d) |
+| Tue, 05 May 2026 12:00:11 GMT | How I Found Exposed S3 Buckets Through Privacy Policy Links | Vamsikandukuru | [Read More](https://medium.com/p/6598b3c0db92) |
+| Tue, 05 May 2026 11:53:42 GMT | ATT&CK v19 Is Here — And It’s a Big Shift for Defenders | Juma Emiri | [Read More](https://medium.com/p/cb1fde96f51d) |
+| Tue, 05 May 2026 11:50:12 GMT | DeFi Doesn’t Remove Trust — It Engineers It
+​1. | Manhoang | [Read More](https://medium.com/p/22bb8b58e66f) |
+| Tue, 05 May 2026 11:45:32 GMT | Top Benefits of Gabion Baskets in Saudi Arabia 2026 | Hitech Gabion | [Read More](https://medium.com/p/32fd647461d8) |
+| Tue, 05 May 2026 11:35:52 GMT | My WordPress Site Got Hacked — Here’s Exactly How I Cleaned It (Step by Step) | Asif Ahmmad | [Read More](https://medium.com/p/4a2faaec0496) |
+| Tue, 05 May 2026 11:31:01 GMT | VLAN Segmentation: Securing IoT Devices from the Main Network | Hugo Valters | [Read More](https://medium.com/p/20667363bcb5) |
+| Tue, 05 May 2026 11:15:47 GMT | Play It Safe: Manage Security Risks - Google Cybersecurity Professional Certificate | Aruldeshwal | [Read More](https://medium.com/p/782278246625) |
+| Tue, 05 May 2026 11:12:23 GMT | Understanding Darknet Stimulants: How Online Markets Reflect Demand, Risk, and Visibility | Tor BBB | [Read More](https://medium.com/p/9cb7686a4266) |
+| Tue, 05 May 2026 11:11:00 GMT | Zero-Click ATO: How a Single Accent Mark Led to Account Takeovers | amen | [Read More](https://medium.com/p/6335a965a448) |
+| Tue, 05 May 2026 11:09:28 GMT | Securing AI Agents Isn’t Optional Anymore, It’s Getting Complicated Fast | Ethan Parker | [Read More](https://medium.com/p/ef77ce6c6298) |
 | Tue, 05 May 2026 10:58:53 GMT | Deep Dive: Burp Suite —PART 1: | ExploitHunter | [Read More](https://medium.com/p/cce5b1c025f2) |
+| Tue, 05 May 2026 10:56:45 GMT | WordPress Bug Hunting — A Practical Guide | ATTER Koffi Kallern | [Read More](https://medium.com/p/853e902c9a58) |
 | Tue, 05 May 2026 10:52:19 GMT | DeFi Doesn’t Remove Trust — It Engineers It | thegloryadeniyi | [Read More](https://medium.com/p/65a2411a3545) |
 | Tue, 05 May 2026 10:50:46 GMT | From “Deceptive Site Ahead” to Fully Recovered! | Frnooranother | [Read More](https://medium.com/p/0b27a7871f10) |
 | Tue, 05 May 2026 10:48:14 GMT | An Open Letter to Kristen: I Will Not Be Silenced | Esther Ijewere | [Read More](https://medium.com/p/193d77d91f86) |
@@ -90,25 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 May 2026 05:43:47 GMT | Part 3 : Hunting and Deleting “Trojan Horse” Plugins | Raj (CISSP - CCSP - CISA - CRISC - ISO- PMP-AWS) | [Read More](https://medium.com/p/40840fca41c5) |
 | Tue, 05 May 2026 05:22:22 GMT | JBoss 6 RCE Exploitation and Privilege Escalation via Misconfigured "sudo find" Command | Bash Overflow | [Read More](https://medium.com/p/da4048ba4296) |
 | Tue, 05 May 2026 05:21:14 GMT | Why Salesforce Lead Management is Essential for Modern Sales Success | QuantoKnack Training | [Read More](https://medium.com/p/ae411be589d2) |
-| Tue, 05 May 2026 04:51:01 GMT | Social Media Account Hacking Methods: Common Attacks & How to Protect Yourself | Manula Udyoga | [Read More](https://medium.com/p/af69488b26e7) |
-| Tue, 05 May 2026 04:50:20 GMT | Everyone is talking about AI taking people’s jobs and even replacing hackers. | Imran Niaz | [Read More](https://medium.com/p/d4f90b96cbd6) |
-| Tue, 05 May 2026 04:40:31 GMT | Recon in Bug Bounty: Step-by-Step Methodology for Beginners | ExploitHunter | [Read More](https://medium.com/p/415f1eef9991) |
-| Tue, 05 May 2026 04:40:23 GMT | SOC Interview Prep Guide: What to Study and What to Expect | Irene A. Gil | [Read More](https://medium.com/p/f0ecd634ba14) |
-| Tue, 05 May 2026 04:32:00 GMT | Tired of Spam? How I Built a “Burner Email” Service to Protect Your Privacy | Ohbee Labs | [Read More](https://medium.com/p/14946556f289) |
-| Tue, 05 May 2026 04:31:01 GMT | Gemini CLI + AI Se Bug Hunting Automate Karo 2026 Ka Most Powerful Combo! | Hacker MD | [Read More](https://medium.com/p/efc4228e92b9) |
-| Tue, 05 May 2026 04:25:10 GMT | Beyond the Stack: The Agentic Pivot and the “Mythos” Dilemma | swapnil | [Read More](https://medium.com/p/dea34eb2fb68) |
-| Tue, 05 May 2026 04:23:39 GMT | Scaling Up — Earn Consistently & Build Your Reputation (Part 10) | ghostyjoe | [Read More](https://medium.com/p/0fe69198b2a9) |
-| Tue, 05 May 2026 04:22:41 GMT | How Do You Know Your Software Hasn’t Been Tampered With? | Damini Bansal | [Read More](https://medium.com/p/c32346685707) |
-| Tue, 05 May 2026 04:21:41 GMT | How Hackers Are Using AI to Break Into Your Accounts in 2026 | Jaysen | [Read More](https://medium.com/p/ce7ba545456e) |
-| Tue, 05 May 2026 04:01:23 GMT | How I Obtained CVEs in WordPress Plugins Using Static Analysis Engine - Semgrep | Candy Wong | [Read More](https://medium.com/p/4ea77f136317) |
-| Tue, 05 May 2026 03:56:47 GMT | Outsourcing Cybersecurity for Startups: Why Waiting Could Cost You Everything | Mandanakkalakshmipriya | [Read More](https://medium.com/p/2f9eba3faa3c) |
-| Tue, 05 May 2026 03:47:59 GMT | cybernetxe-- zuhaib malik | Cyrix Yz | [Read More](https://medium.com/p/7b0591ee2a72) |
-| Tue, 05 May 2026 03:46:01 GMT | A Path Built Through Persistence | Sarmadlaraib | [Read More](https://medium.com/p/861d251e726e) |
-| Tue, 05 May 2026 03:36:08 GMT | Create backup with Kopia CLI | Andrea Rizzioli | [Read More](https://medium.com/p/9ad031cc5fdd) |
-| Tue, 05 May 2026 03:20:01 GMT | DeFi Doesn’t Remove Trust — It Engineers It | JOHN | [Read More](https://medium.com/p/37a7f8697632) |
-| Tue, 05 May 2026 02:59:55 GMT | The Future of Digital Transformation: How Smart Technology is Changing the Way Businesses Grow | Infonodeinsider | [Read More](https://medium.com/p/3435a9384f0e) |
-| Tue, 05 May 2026 02:56:01 GMT | Beyond the Tool Trap: Moving from Automation to Adversarial Thinking | Arunsridhar E | [Read More](https://medium.com/p/26e7eb5357e0) |
-| Tue, 05 May 2026 02:49:00 GMT | to be, beautifully | Mia Guan | [Read More](https://medium.com/p/9417b7a13e44) |
-| Tue, 05 May 2026 02:37:16 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Hosen Ali | [Read More](https://medium.com/p/8887ad573ca5) |
-| Tue, 05 May 2026 02:29:21 GMT | Palo Alto Firewall Interview Questions (2026): Real Scenarios with Answers | Gyan1508 | [Read More](https://medium.com/p/d3e8f7cda8a5) |
-| Tue, 05 May 2026 02:19:58 GMT | When Disaster Strikes, Your Plan Either Saves You or Fails You — Here’s How to Make Sure It Saves… | A.M | [Read More](https://medium.com/p/95667fdd2578) |
