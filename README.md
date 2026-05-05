@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 May 2026 00:56:39 GMT | From Confinement to Code: Building a Cybersecurity Future One System at a Time | Err0rs | [Read More](https://medium.com/p/767ee5166d06) |
+| Tue, 05 May 2026 00:41:53 GMT | Discover the “Advanced” safety mode of OpenAI and how it protects you. | Atima singh | [Read More](https://medium.com/p/c51b70e0e0d2) |
+| Tue, 05 May 2026 00:14:11 GMT | HTB: Sequel Box Walkthrough | Coldstart Coder | [Read More](https://medium.com/p/2af78c44ec2e) |
+| Tue, 05 May 2026 00:09:20 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Ifsal | [Read More](https://medium.com/p/25125e71c251) |
+| Tue, 05 May 2026 00:08:50 GMT | Active — HackTheBox Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/d975bf4d5097) |
+| Tue, 05 May 2026 00:04:08 GMT | DeFi Doesn’t Remove Trust — It Engineers It | RiddlerX | [Read More](https://medium.com/p/fb1fee126b7f) |
+| Tue, 05 May 2026 00:03:01 GMT | Prompt Injection Explained for Security Professionals | Charles Givre | [Read More](https://medium.com/p/b66c44b9de5c) |
+| Tue, 05 May 2026 00:02:44 GMT | Insecurity in Nigeria : A Personal Journey Through Zamfara and the Reality of a Nation Struggling… | Ghalib Yusuf | [Read More](https://medium.com/p/6bc3e77666e0) |
+| Mon, 04 May 2026 23:46:07 GMT | How to remotely take control of an iPhone or iPad / where can I find a qualified professional… | Donley Mark | [Read More](https://medium.com/p/ebf0cf2b648a) |
+| Mon, 04 May 2026 23:33:37 GMT | ️‍♂️ I Accidentally Stalked a Dead LinkedIn Page (And So Could You) | rozzen | [Read More](https://medium.com/p/5fc8c25539c2) |
+| Mon, 04 May 2026 23:28:17 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Strangeboy | [Read More](https://medium.com/p/6f37899d6ded) |
+| Mon, 04 May 2026 23:19:56 GMT | 20 Hard Questions About AI Agent Governance That Nobody Is Asking | Imran Siddique | [Read More](https://medium.com/p/f7d03233857f) |
 | Mon, 04 May 2026 23:04:53 GMT | OWASP PwnzzAI shop: 01 Model Theft | Dino | [Read More](https://medium.com/p/cbd40e9b981b) |
 | Mon, 04 May 2026 23:00:35 GMT | Boring beats shiny. That’s why ShinyHunters win. | Assaf Kipnis | [Read More](https://medium.com/p/14b0ff301639) |
 | Mon, 04 May 2026 22:59:36 GMT | The Shift to the Cloud: A New Frontier for Hacking | Ali Elkhouly | [Read More](https://medium.com/p/ef4e29e65d2a) |
@@ -102,15 +114,3 @@ at Unprecedented Speed. Be it a Human or an AI. | Agnidipta Sarkar | [Read More]
 | Mon, 04 May 2026 16:27:03 GMT | AI Won’t Take Your SOC Job. Refusing to Learn It Will. | Jbird | [Read More](https://medium.com/p/ba6c13cbdd59) |
 | Mon, 04 May 2026 16:15:17 GMT | CVE-2021–42013 Apache HTTP Server 2.4.49 2.4.50 Remote Code Execution | Baran Yiğit | [Read More](https://medium.com/p/d63d4526a6a6) |
 | Mon, 04 May 2026 16:06:02 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Seyidov023 | [Read More](https://medium.com/p/926742c99195) |
-| Mon, 04 May 2026 16:05:38 GMT | CVE-2026–31431 — Privilege Escalation via AEAD Crypto Socket Misuse | Aditya Bhatt | [Read More](https://medium.com/p/75d6ce3ec4c2) |
-| Mon, 04 May 2026 16:02:16 GMT | The hidden threat to business availability and how Rainbow Secure stops them: Login Flooding… | Dr. Shashi Karhail | [Read More](https://medium.com/p/b6eb2da7cdd6) |
-| Mon, 04 May 2026 15:31:58 GMT | Cybersecurity Is Not a Product, It’s a Process | Ermiyas Tilahun | [Read More](https://medium.com/p/5b0f7f063639) |
-| Mon, 04 May 2026 15:28:09 GMT | What is Ticket Pulling? A Complete Guide for Beginners | emma james | [Read More](https://medium.com/p/98cd9a5dccbb) |
-| Mon, 04 May 2026 15:22:47 GMT | Bug no YouTube consome muita RAM: como evitar o travamento | Filipe Reis - UzTech | [Read More](https://medium.com/p/b700c7db57bf) |
-| Mon, 04 May 2026 15:18:04 GMT | The Invisible Crawler: How I Outsmart Modern Anti-Bot Systems | Aero-Astra Architectq | [Read More](https://medium.com/p/d4061c6563e0) |
-| Mon, 04 May 2026 15:17:46 GMT | [PMAT]Malware Analysis: WannaCry | Sagar Joshi | [Read More](https://medium.com/p/fe8415045c14) |
-| Mon, 04 May 2026 15:14:46 GMT | PicoCTF — login challenge | Damian Kędzierski | [Read More](https://medium.com/p/0c5b09aa9807) |
-| Mon, 04 May 2026 15:11:23 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Sk Kumar | [Read More](https://medium.com/p/08d436251b49) |
-| Mon, 04 May 2026 15:10:21 GMT | The Observer Effect in Cybersecurity: How Measurement Changes the System | Eric Vanderburg | [Read More](https://medium.com/p/13deefd12f89) |
-| Mon, 04 May 2026 15:07:17 GMT | Trust Under Pressure: DigiCert Revokes Certificates After Support Portal Breach | Jas | [Read More](https://medium.com/p/33f8dbaf4ec5) |
-| Mon, 04 May 2026 15:06:06 GMT | How I Accidentally Shipped API Keys to the Browser — and What Actually Fixes It | Hollin Ariyawansa | [Read More](https://medium.com/p/b17b03782d29) |
