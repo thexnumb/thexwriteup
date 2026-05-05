@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 May 2026 23:36:49 GMT | Why I Built a Portfolio for My Open-Source Recon Tool (And You Should Too) | Exreconnaissance | [Read More](https://medium.com/p/59813adc7590) |
+| Tue, 05 May 2026 23:34:36 GMT | pwned-deps: the 5-second lockfile check that answers "did we pull a compromised package?" | Manish Kumar | [Read More](https://medium.com/p/bf099b400737) |
+| Tue, 05 May 2026 23:26:17 GMT | How I Built AgentArmor: A Two-Layer Security Proxy for LLM Applications | Vikrant Waghmode | [Read More](https://medium.com/p/fbd708469d08) |
+| Tue, 05 May 2026 23:24:19 GMT | How to Apply Zero Trust security into your Company Architecture | Amazingfalah | [Read More](https://medium.com/p/eb82e8e085ad) |
+| Tue, 05 May 2026 23:19:11 GMT | Sauna — HTB Writeup | William Shively | [Read More](https://medium.com/p/53f920881648) |
+| Tue, 05 May 2026 23:07:41 GMT | Vulnerability Data Enrichment for CVE Records: 261 CNAs on the Enrichment Recognition List for May… | CVE Program Blog | [Read More](https://medium.com/p/40c285eebd82) |
 | Tue, 05 May 2026 22:49:49 GMT | What Nobody Tells You About the Modern Hunt for Your Digital Privacy | Washington News Network | [Read More](https://medium.com/p/925d130e14ec) |
 | Tue, 05 May 2026 22:46:47 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Adlyquepurz | [Read More](https://medium.com/p/c2ca285f781a) |
+| Tue, 05 May 2026 22:25:19 GMT | Cinq voix ont été volées. La tienne est la prochaine. | Eliot Cohen Bacrie | [Read More](https://medium.com/p/65aa2deb7b66) |
 | Tue, 05 May 2026 22:23:02 GMT | Five Voices Were Stolen. Yours Is Next. | Eliot Cohen Bacrie | [Read More](https://medium.com/p/45217f995844) |
 | Tue, 05 May 2026 22:13:29 GMT | Project Freedom or Project Deadlock? The Collapse of the US-Iran Truce | Chloe Ladner | [Read More](https://medium.com/p/696bd1fe9164) |
 | Tue, 05 May 2026 22:10:53 GMT | LFI Prevention: How to Actually Fix File Inclusion Vulnerabilities | 0x4rt1st | [Read More](https://medium.com/p/9cda530d6c3f) |
@@ -69,6 +76,7 @@ Why Having an App Is Not Enough | Raiamit | [Read More](https://medium.com/p/e98
 | Tue, 05 May 2026 18:14:53 GMT | iOS Interview Series #10: Questions Every Senior iOS Developer Should Know | Anand Mishra | [Read More](https://medium.com/p/ca71cca3f466) |
 | Tue, 05 May 2026 18:13:50 GMT | Researchers Scanned 1 Million Exposed AI Services. What They Found Should Alarm Every CISO. | Sai kiran | [Read More](https://medium.com/p/b6624c691eb5) |
 | Tue, 05 May 2026 18:12:44 GMT | The Silent Heist: How Cryptojackers Stole Millions Without Anyone Noticing | CAISD | [Read More](https://medium.com/p/4f474a6920d4) |
+| Tue, 05 May 2026 18:07:02 GMT | LAB: Insecure Direct Object References (IDOR) | Linive | [Read More](https://medium.com/p/d0625430a9ad) |
 | Tue, 05 May 2026 17:46:30 GMT | What a VPN Actually Protects You From: An Honest Look at Where It Stops | DrSoft | [Read More](https://medium.com/p/3b38b937cb48) |
 | Tue, 05 May 2026 17:46:11 GMT | Buffer Overflow at the Architecture Level | Mahdi | [Read More](https://medium.com/p/0e41f3fec270) |
 | Tue, 05 May 2026 17:30:59 GMT | TryHackMe - Introduction to Wordlists - WriteUp | Axoloth | [Read More](https://medium.com/p/525b6a52297d) |
@@ -105,11 +113,3 @@ Why Having an App Is Not Enough | Raiamit | [Read More](https://medium.com/p/e98
 | Tue, 05 May 2026 15:21:48 GMT | Everything You Need to Learn About Cryptography | Cyber Timi | [Read More](https://medium.com/p/223aee0dd261) |
 | Tue, 05 May 2026 15:19:48 GMT | Centralization in Computing and Society: Parallel Inefficiencies | Peter K. | [Read More](https://medium.com/p/3944a4a31bfd) |
 | Tue, 05 May 2026 15:19:35 GMT | AI Agent’lar: Kendi Kendine Çalışan Siber Araçlar Çağı | Este Eren | [Read More](https://medium.com/p/4dd2f2c4652f) |
-| Tue, 05 May 2026 15:17:09 GMT | 732 Bytes to Root: How Copy Fail Silently Affects Linux Systems | Soumya Ranjan Sahoo | [Read More](https://medium.com/p/45e08b1ea511) |
-| Tue, 05 May 2026 15:14:38 GMT | Server Side Template Injection | t4nu1 | [Read More](https://medium.com/p/d60ec217ab5c) |
-| Tue, 05 May 2026 15:11:36 GMT | Your Container Registry Is the New S3 Misconfiguration | Cameron Bardin (MDVKG) | [Read More](https://medium.com/p/42b2f39113f5) |
-| Tue, 05 May 2026 14:58:19 GMT | When Code Writes Itself: Why Traditional Security Tools Can’t Keep Up with AI-Generated Code | evoailabs | [Read More](https://medium.com/p/bd55aef8d36e) |
-| Tue, 05 May 2026 14:56:15 GMT | Part 8 — Automation + Recon (Ghostyjoe Style) | ghostyjoe | [Read More](https://medium.com/p/3a1ad44f3f17) |
-| Tue, 05 May 2026 14:54:31 GMT | Unauthorized Workspace Deletion via Broken Access Control | Sagar Kirola | [Read More](https://medium.com/p/e7fbd4234581) |
-| Tue, 05 May 2026 14:52:24 GMT | 24/7 Professional Security Guard Services | Dynamicsecuritysolutionltd | [Read More](https://medium.com/p/3d61f4ab5bbd) |
-| Tue, 05 May 2026 14:51:01 GMT | How to Build Your First Real Cybersecurity Project (Step-by-Step) | Manubhav Sharma | [Read More](https://medium.com/p/13eeddf3438e) |
