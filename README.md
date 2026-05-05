@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 May 2026 21:31:46 GMT | Write for NextGenThreat: Real Stories Only | Faruk Ahmed | [Read More](https://medium.com/p/9953fcf192fb) |
+| Tue, 05 May 2026 21:26:14 GMT | Burp Suite MCP Server Won’t Connect from WSL? Here’s the Fix Nobody Talks About | Suyog Patil | [Read More](https://medium.com/p/1a5fdd9994e7) |
+| Tue, 05 May 2026 21:13:12 GMT | 5 Essential Security Checks for Your CI/CD Pipeline | Umashankara Kalaiah | [Read More](https://medium.com/p/dbd62c401955) |
+| Tue, 05 May 2026 21:10:59 GMT | GFW 深度解析 08：Tor | xnvlnasna | [Read More](https://medium.com/p/ccbd1ffcaf68) |
+| Tue, 05 May 2026 21:10:25 GMT | GFW 深度解析 07：主动嗅探 | xnvlnasna | [Read More](https://medium.com/p/2931e4275053) |
+| Tue, 05 May 2026 21:05:20 GMT | TryHackMe: Brooklyn Nine Nine — Two Paths to Root | Robert Perez | [Read More](https://medium.com/p/83130ecb65a1) |
+| Tue, 05 May 2026 21:01:17 GMT | One Battle After Another ( A DevOps Engineer’s Fight Against Data Loss) | M Reza Sharifi | [Read More](https://medium.com/p/0276fbddee7d) |
+| Tue, 05 May 2026 21:01:12 GMT | Silencing EDR Network Telemetry: WFP Callout Patching via BYOVD | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1f9ee7ed0e67) |
+| Tue, 05 May 2026 21:01:01 GMT | How to Build Guardrails for LLM Chatbots or GEN AI applications: A Three-Layer Architecture | Katakamvivek | [Read More](https://medium.com/p/89779f4dddf1) |
+| Tue, 05 May 2026 20:50:34 GMT | 5 IAM Best Practices Every Developer Should Follow | Umashankara Kalaiah | [Read More](https://medium.com/p/d1c511a07be3) |
+| Tue, 05 May 2026 20:50:22 GMT | Local Code Execution via Git Workspace Poisoning (FSMonitor) | X3r0Day | [Read More](https://medium.com/p/7041a2560395) |
+| Tue, 05 May 2026 20:48:59 GMT | The Ghost in the Forge: A Deep-Dive Analysis of the forge-jsxy Multi-Platform RAT | Nijin K | [Read More](https://medium.com/p/eee92c07fb4b) |
+| Tue, 05 May 2026 20:46:19 GMT | Attackers Actively Exploiting Critical Vulnerability in Breeze Cache Plugin | Wordfence | [Read More](https://medium.com/p/e25ff95fa852) |
+| Tue, 05 May 2026 20:46:12 GMT | The 8th Continent: How the Internet Became a Nation-State and Nobody Noticed | Safwanhungund | [Read More](https://medium.com/p/b713bd620b74) |
+| Tue, 05 May 2026 20:34:26 GMT | Milesight IP Camera Vulnerabilities: How 5 Critical CVEs Left 14,706 Surveillance Devices Exposed… | hacker_might | [Read More](https://medium.com/p/ee8eda965ea8) |
+| Tue, 05 May 2026 20:32:00 GMT | “Supplier ADP Pilot Update” — SADP Content Now Live in CVE Records | CVE Program Blog | [Read More](https://medium.com/p/840867343cee) |
+| Tue, 05 May 2026 20:16:33 GMT | Security Services for London Events: Why WA Event Services is the Name You Can Trust | waeventservices.co.uk/ | [Read More](https://medium.com/p/0ae6e381aa6d) |
 | Tue, 05 May 2026 19:58:16 GMT | An Open Letter to Dario Amodei | Russel Hawkins | [Read More](https://medium.com/p/f3076146c056) |
 | Tue, 05 May 2026 19:53:24 GMT | The Silent Root: Detecting the “Copy Fail” Vulnerability (CVE-2026–31431) | Abhishek Kumar Sah | [Read More](https://medium.com/p/caf081c6da83) |
 | Tue, 05 May 2026 19:49:59 GMT | Python ve Yerel LLM’ler ile Kendi Siber Güvenlik Asistanınızı Geliştirin: “AI Cyber Sentinel”… | Baranilgun | [Read More](https://medium.com/p/36d7a92c8dab) |
@@ -96,20 +113,3 @@ Why Having an App Is Not Enough | Raiamit | [Read More](https://medium.com/p/e98
 | Tue, 05 May 2026 13:46:08 GMT | Automation：從俄羅斯程式員的極致自動化談起 | 思維舞步 MindSteps | [Read More](https://medium.com/p/16c1577a9a19) |
 | Tue, 05 May 2026 13:45:34 GMT | CVE-2026–7791: Amazon WorkSpaces’de Gizlenen Ayrıcalık Yükseltme Tuzağı | Erdem Ceylan | [Read More](https://medium.com/p/50d35899666c) |
 | Tue, 05 May 2026 13:24:38 GMT | When the Server Can’t Tell Who You Are: IDOR, OTP Abuse & OAuth Hijack | KimoSec | [Read More](https://medium.com/p/fc120b8f02ea) |
-| Tue, 05 May 2026 13:22:49 GMT | The time is now to regulate bailiffs | StepChange Debt Charity | [Read More](https://medium.com/p/db1509c7aa3b) |
-| Tue, 05 May 2026 13:17:50 GMT | Coming Home and Leaving | Miles Between Us | [Read More](https://medium.com/p/029a5824ea31) |
-| Tue, 05 May 2026 13:07:30 GMT | Pulang dan Pergi | Miles Between Us | [Read More](https://medium.com/p/5518949c9ab7) |
-| Tue, 05 May 2026 13:05:44 GMT | We messed up our first user | Bozhidar Kamenski | [Read More](https://medium.com/p/107db6244a78) |
-| Tue, 05 May 2026 13:01:05 GMT | Why Beginners Fail in Cyber Security: Every Fresher Must Avoid | Dhruv Kapoor - Aspiring Red Team Operator | [Read More](https://medium.com/p/241292bce1fd) |
-| Tue, 05 May 2026 12:58:00 GMT | The F12 Medical Breach: RAG Chatbots | Berend Watchus | [Read More](https://medium.com/p/089aed1c5265) |
-| Tue, 05 May 2026 12:34:23 GMT | The Digital Detective: A Guide to Website Reconnaissance | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/55d50f1d6beb) |
-| Tue, 05 May 2026 12:33:42 GMT | How I Designed and Implemented a Secure Enterprise Network for a Multinational IT Company | Prosper Emerole | [Read More](https://medium.com/p/5263902ac560) |
-| Tue, 05 May 2026 12:32:02 GMT | How Cyber Security Protects Small Businesses from Attacks | Cloud Cover | [Read More](https://medium.com/p/2b8bf3525a6e) |
-| Tue, 05 May 2026 12:31:01 GMT | Hands-On Network Security Lab: Vulnerability Assessment & Traffic Analysis Using Nmap and Wireshark | Nipun kumara | [Read More](https://medium.com/p/75246aefb7f5) |
-| Tue, 05 May 2026 12:25:38 GMT | Governing AI Tool Access: Building an Enterprise MCP Gateway | Ferry Djaja | [Read More](https://medium.com/p/cd1adb8d48aa) |
-| Tue, 05 May 2026 12:20:05 GMT | IT Asset Disposition Market Growth: Why Demand Is Rising Worldwide | Aj | [Read More](https://medium.com/p/c8121b67f5e9) |
-| Tue, 05 May 2026 12:13:12 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Kancangkalip | [Read More](https://medium.com/p/960eaf7f29f0) |
-| Tue, 05 May 2026 12:12:24 GMT | From Hardware to History: Discovering the Hidden Gems at NetworkTestingTech | Cheeru Venkatesh | [Read More](https://medium.com/p/7ebc48bf9791) |
-| Tue, 05 May 2026 12:08:12 GMT | What Happens When a Ransomware Attack Hits a Hospital? | US Compliance 1 | [Read More](https://medium.com/p/f512c4add5fc) |
-| Tue, 05 May 2026 12:05:21 GMT | Jevons SOC: The Agentic SOC from the analyst perspective | Markohalloran | [Read More](https://medium.com/p/5d48dd935057) |
-| Tue, 05 May 2026 12:01:27 GMT | What Happens When You Log In to a Website?! | Kavita Prajapati | [Read More](https://medium.com/p/edf8f999aa8d) |
