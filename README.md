@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 May 2026 10:58:53 GMT | Deep Dive: Burp Suite —PART 1: | ExploitHunter | [Read More](https://medium.com/p/cce5b1c025f2) |
+| Tue, 05 May 2026 10:52:19 GMT | DeFi Doesn’t Remove Trust — It Engineers It | thegloryadeniyi | [Read More](https://medium.com/p/65a2411a3545) |
+| Tue, 05 May 2026 10:50:46 GMT | From “Deceptive Site Ahead” to Fully Recovered! | Frnooranother | [Read More](https://medium.com/p/0b27a7871f10) |
+| Tue, 05 May 2026 10:48:14 GMT | An Open Letter to Kristen: I Will Not Be Silenced | Esther Ijewere | [Read More](https://medium.com/p/193d77d91f86) |
+| Tue, 05 May 2026 10:42:51 GMT | Refractories Industry 2026: From Digital Innovation to India’s Leading Manufacturers. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/135f3f507bd7) |
+| Tue, 05 May 2026 10:40:40 GMT | ELK Stack (Elasticsearch, Logstash, Kibana) Installation and Configuration | Aghaverdi Kalantarli | [Read More](https://medium.com/p/c27ff03a8689) |
+| Tue, 05 May 2026 10:35:25 GMT | The Hidden Risk of AI Payments: Why Autonomous Transactions May Be More Dangerous Than We Think | Avinash | [Read More](https://medium.com/p/634c83de9223) |
+| Tue, 05 May 2026 10:34:49 GMT | I Vibe-Coded a SaaS App. Then I Audited It. Found 5 Security Holes in Under an Hour. | PIXIPACE | [Read More](https://medium.com/p/cb56062d67e4) |
+| Tue, 05 May 2026 10:34:11 GMT | Command Lines: The Skill Every Cybersecurity Professional Needs | Shubham Khirwadkar | [Read More](https://medium.com/p/656dd22280bd) |
+| Tue, 05 May 2026 10:31:39 GMT | The 3:00 AM Ghost: Why Your Bank Account Isn’t as Safe as You Think | Mohit | [Read More](https://medium.com/p/1a4d1791b759) |
+| Tue, 05 May 2026 10:26:15 GMT | IP and Domain Threat Intel - TryHackMe | Ryca | [Read More](https://medium.com/p/b720b20c6a8e) |
+| Tue, 05 May 2026 10:17:24 GMT | The Endpoint That Looked Dead, But Paid Anyway | Fateyaly | [Read More](https://medium.com/p/cc04e4d41015) |
+| Tue, 05 May 2026 10:16:38 GMT | Shift Left Security: From Concept to Practice — A Complete Guide for Modern Engineering Teams | Ambrish Vadnerkar | [Read More](https://medium.com/p/e491fe25b8a0) |
+| Tue, 05 May 2026 10:13:49 GMT | How Secure Are Team Collaboration Tools for Business Use? | Globogenix | [Read More](https://medium.com/p/131cd753b400) |
+| Tue, 05 May 2026 10:12:42 GMT | Coating vs Galvanizing Fence Which is Better for Saudi Arabia | Hitechfence | [Read More](https://medium.com/p/240ec12740a0) |
+| Tue, 05 May 2026 10:11:58 GMT | From Cloud to Detection: How I Built a Complete Cybersecurity Portfolio (10 Projects in 10 Levels) | Sidharth Sanwariya | [Read More](https://medium.com/p/ff34721998e4) |
+| Tue, 05 May 2026 10:09:45 GMT | OTP Is Not Always Secure: From a Simple Email Input to Account Collision | Kanishkakhandelwal | [Read More](https://medium.com/p/e7b3196b1149) |
+| Tue, 05 May 2026 10:05:15 GMT | THM Enterprise Walkthrough By Ryan Cham | Ryan Cham Rui Yang | [Read More](https://medium.com/p/5172563467d7) |
+| Tue, 05 May 2026 10:03:59 GMT | Your AI Assistant Could Be Hacked — And It Wouldn’t Even Know It | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/e9c1241ec762) |
+| Tue, 05 May 2026 09:53:46 GMT | Your Phone Connects to Fake Cell Towers Daily…Here’s How I Detect Them | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/b7085b6c9df9) |
+| Tue, 05 May 2026 09:38:55 GMT | Why Your VPN Gets Blocked in Turkey (And How to Actually Fix It) | VeiloraVPN | [Read More](https://medium.com/p/84ba15287e1c) |
+| Tue, 05 May 2026 09:32:07 GMT | Google Dorks — Advanced Search | KoshCyber | [Read More](https://medium.com/p/2aa72792b7b8) |
+| Tue, 05 May 2026 09:26:25 GMT | HackTheBox Dancing: From Anonymous SMB Access to Root | SoBatista | [Read More](https://medium.com/p/7b4017c95248) |
 | Tue, 05 May 2026 09:18:32 GMT | Estonia’s Cybersecurity Strategy: A Model for Digital Resilience | Kapoorvanshita | [Read More](https://medium.com/p/f1aa254bfcc7) |
 | Tue, 05 May 2026 09:17:36 GMT | Unauthenticated Access to AWS via Cognito Identity Pool Credentials | Saurabh Jain | [Read More](https://medium.com/p/dc7fd5e01ec7) |
 | Tue, 05 May 2026 09:15:26 GMT | When AI agents can apply cloud changes, change control has to change | CloudBooster | [Read More](https://medium.com/p/751e91ecd66a) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 May 2026 02:37:16 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Hosen Ali | [Read More](https://medium.com/p/8887ad573ca5) |
 | Tue, 05 May 2026 02:29:21 GMT | Palo Alto Firewall Interview Questions (2026): Real Scenarios with Answers | Gyan1508 | [Read More](https://medium.com/p/d3e8f7cda8a5) |
 | Tue, 05 May 2026 02:19:58 GMT | When Disaster Strikes, Your Plan Either Saves You or Fails You — Here’s How to Make Sure It Saves… | A.M | [Read More](https://medium.com/p/95667fdd2578) |
-| Tue, 05 May 2026 02:12:27 GMT | Your Model Aced the Test and Then Failed in the Real World. Here Is Why. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/58a071f87833) |
-| Tue, 05 May 2026 02:06:46 GMT | When the Alarm Goes Off: A Practical Guide to Incident Response and Digital Forensics | A.M | [Read More](https://medium.com/p/cde309b31e2d) |
-| Tue, 05 May 2026 02:05:24 GMT | How Does a Neural Network Actually Learn? It Is Simpler Than You Think. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/a7a65e3a2248) |
-| Tue, 05 May 2026 01:49:09 GMT | AWS VPC Explained: Subnets, Route Tables, Internet Gateway, NAT Gateway and Interview Prep | Jawahar Rajaram | [Read More](https://medium.com/p/4a65346487f3) |
-| Tue, 05 May 2026 01:48:19 GMT | Patching Binaries: How to solve the ‘U Can’t Pass’ crackme | n0ct3m | [Read More](https://medium.com/p/4b455be5318c) |
-| Tue, 05 May 2026 01:11:01 GMT | Principle of Least Privilege | Grayden | [Read More](https://medium.com/p/75ad733e2a38) |
-| Tue, 05 May 2026 00:56:39 GMT | From Confinement to Code: Building a Cybersecurity Future One System at a Time | Err0rs | [Read More](https://medium.com/p/767ee5166d06) |
-| Tue, 05 May 2026 00:41:53 GMT | Discover the “Advanced” safety mode of OpenAI and how it protects you. | Atima singh | [Read More](https://medium.com/p/c51b70e0e0d2) |
-| Tue, 05 May 2026 00:14:11 GMT | HTB: Sequel Box Walkthrough | Coldstart Coder | [Read More](https://medium.com/p/2af78c44ec2e) |
-| Tue, 05 May 2026 00:09:20 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Ifsal | [Read More](https://medium.com/p/25125e71c251) |
-| Tue, 05 May 2026 00:08:50 GMT | Active — HackTheBox Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/d975bf4d5097) |
-| Tue, 05 May 2026 00:04:08 GMT | DeFi Doesn’t Remove Trust — It Engineers It | RiddlerX | [Read More](https://medium.com/p/fb1fee126b7f) |
-| Tue, 05 May 2026 00:03:01 GMT | Prompt Injection Explained for Security Professionals | Charles Givre | [Read More](https://medium.com/p/b66c44b9de5c) |
-| Tue, 05 May 2026 00:02:44 GMT | Insecurity in Nigeria : A Personal Journey Through Zamfara and the Reality of a Nation Struggling… | Ghalib Yusuf | [Read More](https://medium.com/p/6bc3e77666e0) |
-| Mon, 04 May 2026 23:46:07 GMT | How to remotely take control of an iPhone or iPad / where can I find a qualified professional… | Donley Mark | [Read More](https://medium.com/p/ebf0cf2b648a) |
-| Mon, 04 May 2026 23:33:37 GMT | ️‍♂️ I Accidentally Stalked a Dead LinkedIn Page (And So Could You) | rozzen | [Read More](https://medium.com/p/5fc8c25539c2) |
-| Mon, 04 May 2026 23:28:17 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Strangeboy | [Read More](https://medium.com/p/6f37899d6ded) |
-| Mon, 04 May 2026 23:19:56 GMT | 20 Hard Questions About AI Agent Governance That Nobody Is Asking | Imran Siddique | [Read More](https://medium.com/p/f7d03233857f) |
-| Mon, 04 May 2026 23:04:53 GMT | OWASP PwnzzAI shop: 01 Model Theft | Dino | [Read More](https://medium.com/p/cbd40e9b981b) |
-| Mon, 04 May 2026 23:00:35 GMT | Boring beats shiny. That’s why ShinyHunters win. | Assaf Kipnis | [Read More](https://medium.com/p/14b0ff301639) |
-| Mon, 04 May 2026 22:59:36 GMT | The Shift to the Cloud: A New Frontier for Hacking | Ali Elkhouly | [Read More](https://medium.com/p/ef4e29e65d2a) |
-| Mon, 04 May 2026 22:59:28 GMT | The Pursuit of an Unbound Spirit | Pri | [Read More](https://medium.com/p/cac0ea8aff5b) |
-| Mon, 04 May 2026 22:57:09 GMT | The Frontend Is the First Line of Defense, Not the Display Window | Vasyl Oliinyk | [Read More](https://medium.com/p/e898fab8fa2c) |
