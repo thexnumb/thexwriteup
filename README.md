@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 05 May 2026 22:49:49 GMT | What Nobody Tells You About the Modern Hunt for Your Digital Privacy | Washington News Network | [Read More](https://medium.com/p/925d130e14ec) |
+| Tue, 05 May 2026 22:46:47 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Adlyquepurz | [Read More](https://medium.com/p/c2ca285f781a) |
+| Tue, 05 May 2026 22:23:02 GMT | Five Voices Were Stolen. Yours Is Next. | Eliot Cohen Bacrie | [Read More](https://medium.com/p/45217f995844) |
+| Tue, 05 May 2026 22:13:29 GMT | Project Freedom or Project Deadlock? The Collapse of the US-Iran Truce | Chloe Ladner | [Read More](https://medium.com/p/696bd1fe9164) |
+| Tue, 05 May 2026 22:10:53 GMT | LFI Prevention: How to Actually Fix File Inclusion Vulnerabilities | 0x4rt1st | [Read More](https://medium.com/p/9cda530d6c3f) |
+| Tue, 05 May 2026 22:06:03 GMT | LFI Automated Scanning: Finding and Fuzzing with ffuf | 0x4rt1st | [Read More](https://medium.com/p/b1d0425e2953) |
+| Tue, 05 May 2026 21:49:45 GMT | A Tale of Economic Espionage | Jude Canady | [Read More](https://medium.com/p/e02f40fac147) |
+| Tue, 05 May 2026 21:47:24 GMT | Intrusion Detection and Prevention System — IDPS | Utso Sarkar | [Read More](https://medium.com/p/0d3b142ec697) |
+| Tue, 05 May 2026 21:44:37 GMT | Linux log enhancement part 2 | Amr Alasmer | [Read More](https://medium.com/p/8a9ce04612e9) |
+| Tue, 05 May 2026 21:39:15 GMT | Tired of Viruses? What If You Just… Stopped Getting Them? | Garythatcher | [Read More](https://medium.com/p/fd8e0bb9994e) |
+| Tue, 05 May 2026 21:34:04 GMT | TryHackMe: Benign - Write-Up | Ash T | [Read More](https://medium.com/p/39e9838e9261) |
 | Tue, 05 May 2026 21:31:46 GMT | Write for NextGenThreat: Real Stories Only | Faruk Ahmed | [Read More](https://medium.com/p/9953fcf192fb) |
 | Tue, 05 May 2026 21:26:14 GMT | Burp Suite MCP Server Won’t Connect from WSL? Here’s the Fix Nobody Talks About | Suyog Patil | [Read More](https://medium.com/p/1a5fdd9994e7) |
 | Tue, 05 May 2026 21:13:12 GMT | 5 Essential Security Checks for Your CI/CD Pipeline | Umashankara Kalaiah | [Read More](https://medium.com/p/dbd62c401955) |
@@ -102,14 +113,3 @@ Why Having an App Is Not Enough | Raiamit | [Read More](https://medium.com/p/e98
 | Tue, 05 May 2026 14:54:31 GMT | Unauthorized Workspace Deletion via Broken Access Control | Sagar Kirola | [Read More](https://medium.com/p/e7fbd4234581) |
 | Tue, 05 May 2026 14:52:24 GMT | 24/7 Professional Security Guard Services | Dynamicsecuritysolutionltd | [Read More](https://medium.com/p/3d61f4ab5bbd) |
 | Tue, 05 May 2026 14:51:01 GMT | How to Build Your First Real Cybersecurity Project (Step-by-Step) | Manubhav Sharma | [Read More](https://medium.com/p/13eeddf3438e) |
-| Tue, 05 May 2026 14:50:56 GMT | I Built a Real-Time RF Threat Detection System Using SDR + Python + AI Models | Michael Preston | [Read More](https://medium.com/p/7fc637b18f41) |
-| Tue, 05 May 2026 14:46:05 GMT | Building Ethical AI Systems: Practical Guidance for Responsible Decision Making | ANNETTE PARTIDA | [Read More](https://medium.com/p/197f4e216d03) |
-| Tue, 05 May 2026 14:39:15 GMT | Android App Security Testing (AndroGoat) | Made Br Siregar | [Read More](https://medium.com/p/a708ec8156e6) |
-| Tue, 05 May 2026 14:32:11 GMT | Enterprise Applications Under Fire: MetInfo and Weaver E cology Vulnerabilities Actively Targeted | Jas | [Read More](https://medium.com/p/681388f0990f) |
-| Tue, 05 May 2026 14:28:15 GMT | Function Confution that leads too Full server Dirs disccluseed | Tomahawk | [Read More](https://medium.com/p/3baff68c0228) |
-| Tue, 05 May 2026 14:14:07 GMT | cPanel RCE & Critical vulnerability in Gemini CLI | Stanislav Klevtsov | [Read More](https://medium.com/p/352fde28a592) |
-| Tue, 05 May 2026 13:53:51 GMT | What Keeps a Friendship Truly Alive? - Article Compiled by Risha Sarma | Writers' Haven Ecosystem | [Read More](https://medium.com/p/4230ee9074cd) |
-| Tue, 05 May 2026 13:52:42 GMT | How to Explain Endpoint Protection to a CFO Who Controls the Budget | Ayan Wakil | [Read More](https://medium.com/p/33b1b302df42) |
-| Tue, 05 May 2026 13:46:08 GMT | Automation：從俄羅斯程式員的極致自動化談起 | 思維舞步 MindSteps | [Read More](https://medium.com/p/16c1577a9a19) |
-| Tue, 05 May 2026 13:45:34 GMT | CVE-2026–7791: Amazon WorkSpaces’de Gizlenen Ayrıcalık Yükseltme Tuzağı | Erdem Ceylan | [Read More](https://medium.com/p/50d35899666c) |
-| Tue, 05 May 2026 13:24:38 GMT | When the Server Can’t Tell Who You Are: IDOR, OTP Abuse & OAuth Hijack | KimoSec | [Read More](https://medium.com/p/fc120b8f02ea) |
