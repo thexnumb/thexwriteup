@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 May 2026 03:31:01 GMT | Autonomous Agent Governence | Sribalaji The Viswa Guru | [Read More](https://medium.com/p/63d04fdc66f7) |
+| Wed, 06 May 2026 03:22:09 GMT | Ketika Teknologi Terlalu Rumit: Mengapa Lansia Menjauh dari Keamanan Digital | Olopan | [Read More](https://medium.com/p/4242b6ba2ed6) |
+| Wed, 06 May 2026 03:18:18 GMT | I Tried Four Smarter Ways to Select Positions in GCG. | Cheney Shyu | [Read More](https://medium.com/p/f0ed2fb64023) |
+| Wed, 06 May 2026 03:04:03 GMT | Your Spring Boot API Is a Security Nightmare and You Don’t Even Know It. | FutureLens | [Read More](https://medium.com/p/7f229d11810d) |
+| Wed, 06 May 2026 03:03:21 GMT | Building Trustworthy Agents: A Reference Guide for Safety, Security, Governance, and Compliance. | Drew Afromsky | [Read More](https://medium.com/p/a2591a6969f3) |
+| Wed, 06 May 2026 02:56:12 GMT | The Security Landscape Is Changing Faster Than Most Organizations Can Keep Up. | A.M | [Read More](https://medium.com/p/0284032cf279) |
+| Wed, 06 May 2026 02:41:33 GMT | Fundamental Cybersecurity: Fondasi Keamanan Digital yang Wajib Dipahami Pemula | Omar Justice Prasetyo | [Read More](https://medium.com/p/310492decce0) |
+| Wed, 06 May 2026 02:27:06 GMT | My Stroke Story | Ricardo Figueroa | [Read More](https://medium.com/p/e2d0ae2b8cd5) |
+| Wed, 06 May 2026 01:57:26 GMT | An AI Deleted Another Database. The Real Story Isn’t the AI. | Sunil Prakash | [Read More](https://medium.com/p/6ce41d60b3c1) |
+| Wed, 06 May 2026 01:53:55 GMT | The MFA Advice You Got in 2020 Is Now the Reason You’ll Get Breached | S6 Tech | [Read More](https://medium.com/p/f97dd3f1849a) |
+| Wed, 06 May 2026 01:50:34 GMT | The AI Model That Changed the Economics of Hacking…And What It Means for Investment Firms | WayneReidUK | [Read More](https://medium.com/p/2c3d66efb6c6) |
+| Wed, 06 May 2026 01:48:27 GMT | Learning Fortinet Firewall — LESSON 8: Software Switch / Layer 2 | Rouell Mamaril | [Read More](https://medium.com/p/ff9d4f7af33c) |
+| Wed, 06 May 2026 01:23:03 GMT | Insecure Service — Mobile Apps Security Static Analysis Part VI | ./Rey~ | [Read More](https://medium.com/p/f6f16646fdc6) |
+| Wed, 06 May 2026 01:11:21 GMT | Microkernels, Monoliths, and How We Choose Our Tools | Li Derek | [Read More](https://medium.com/p/9fed279ae0ae) |
+| Wed, 06 May 2026 00:27:16 GMT | ZeroTrust USB | Utso Sarkar | [Read More](https://medium.com/p/9f2f5e8787e7) |
+| Wed, 06 May 2026 00:25:42 GMT | Breaking AES-GCM Systems (Without Breaking AES) | Luis Santiago | [Read More](https://medium.com/p/cd0a156b4953) |
+| Wed, 06 May 2026 00:21:53 GMT | Bypassing OTP? | Soumyadip Manna | [Read More](https://medium.com/p/4a05b5898df5) |
+| Wed, 06 May 2026 00:10:18 GMT | How to Grow Your Money: A Financial Guide to Secure Your Future | Sanjeevupadhyay | [Read More](https://medium.com/p/c37578d34406) |
+| Wed, 06 May 2026 00:01:01 GMT | Guía Definitiva GraphQL para Bug Bounty: Vulnerabilidades y Explotación | JPablo13 | [Read More](https://medium.com/p/39c27ac3b137) |
 | Tue, 05 May 2026 23:36:49 GMT | Why I Built a Portfolio for My Open-Source Recon Tool (And You Should Too) | Exreconnaissance | [Read More](https://medium.com/p/59813adc7590) |
 | Tue, 05 May 2026 23:34:36 GMT | pwned-deps: the 5-second lockfile check that answers "did we pull a compromised package?" | Manish Kumar | [Read More](https://medium.com/p/bf099b400737) |
 | Tue, 05 May 2026 23:26:17 GMT | How I Built AgentArmor: A Two-Layer Security Proxy for LLM Applications | Vikrant Waghmode | [Read More](https://medium.com/p/fbd708469d08) |
@@ -94,22 +113,3 @@ Why Having an App Is Not Enough | Raiamit | [Read More](https://medium.com/p/e98
 | Tue, 05 May 2026 16:22:09 GMT | One curl Command Returned Server Credentials — Here Is What I Learned About RFC and Intended Design. | Krithick | [Read More](https://medium.com/p/3ab45852c1a5) |
 | Tue, 05 May 2026 16:21:01 GMT | The “Infinite Discount” Glitch: How I Used a Race Condition to Buy a MacBook for -$300 | Tanvi Chauhan | [Read More](https://medium.com/p/4257a28e1946) |
 | Tue, 05 May 2026 16:20:49 GMT | The Art of Hiding in Plain Sight: A Guide to Modern Steganography | EncryptedLife | [Read More](https://medium.com/p/471f45991224) |
-| Tue, 05 May 2026 16:20:41 GMT | Day 2 of vibe coding in production: broken processes | Andrew Shu | [Read More](https://medium.com/p/263f00164ec2) |
-| Tue, 05 May 2026 16:14:45 GMT | The 732-Byte Linux Bug That Shows What AI-Assisted Hacking Changes | Ahun Atajanov | [Read More](https://medium.com/p/dd24af3cb236) |
-| Tue, 05 May 2026 16:08:46 GMT | I’ve Worked Inside Enterprise Systems Long Enough to Tell You the Truth About Jira and ServiceNow | Don Rivera Diaz | [Read More](https://medium.com/p/c33b38e6f0f1) |
-| Tue, 05 May 2026 15:57:43 GMT | Mexico Isn’t the Mexico We Remember: A 2023 Reality Check | Jay Travler | [Read More](https://medium.com/p/e89f1a54a590) |
-| Tue, 05 May 2026 15:49:36 GMT | Tech Tip: Have at LEAST 10GBs available for Windows 11 Updates | Tech Help Corner | [Read More](https://medium.com/p/3b162a2bfacb) |
-| Tue, 05 May 2026 15:48:10 GMT | I Found Out 1.5 Million Servers Were Hacked Before Anyone Noticed. Here’s What I Did Next. | Jazz Cyber Shield | [Read More](https://medium.com/p/1e51d4d519a5) |
-| Tue, 05 May 2026 15:44:43 GMT | The Windows Concept Journey — WebDav (Web Distributed Authoring and Versioning) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8117291e40e2) |
-| Tue, 05 May 2026 15:40:39 GMT | Tech Skills vs Traditional Careers: What Young People Need to Know | Enerietaanna | [Read More](https://medium.com/p/c217c3931504) |
-| Tue, 05 May 2026 15:38:14 GMT | Write-Up: BugForge Daily Challenge Cheesy Does It | PrakritPrad | [Read More](https://medium.com/p/f4c8c5f353dc) |
-| Tue, 05 May 2026 15:37:02 GMT | The Day AI Pretended to Be Dumb: The Mythos Paradox & The Future of AI Security | Divyammanchanda | [Read More](https://medium.com/p/6e573cae220f) |
-| Tue, 05 May 2026 15:35:20 GMT | Donut Browser - A New Tool for Security Professionals | Pentester Club | [Read More](https://medium.com/p/9400e51595cb) |
-| Tue, 05 May 2026 15:32:14 GMT | The File Timestamp That Didn’t Make Sense — And Why I Didn’t Ignore It | Faruk Ahmed | [Read More](https://medium.com/p/d155e16833ac) |
-| Tue, 05 May 2026 15:31:08 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Huyenmint | [Read More](https://medium.com/p/9d8909dfef92) |
-| Tue, 05 May 2026 15:30:55 GMT | Ghost in the Review: How Attackers Abuse AI Bots to Steal Your CI/CD Secrets | STarX | [Read More](https://medium.com/p/77362d485608) |
-| Tue, 05 May 2026 15:29:02 GMT | My Day at the Sophos IT Graduates Onsite Event, More Than Just an “Assessment Day” | Jorell Andrei Finez | [Read More](https://medium.com/p/83981b34d947) |
-| Tue, 05 May 2026 15:24:10 GMT | Post 5 — Quantum Capability Forecasting for CTI Teams | Leonard Okyere Afeke | [Read More](https://medium.com/p/441483c3f968) |
-| Tue, 05 May 2026 15:21:48 GMT | Everything You Need to Learn About Cryptography | Cyber Timi | [Read More](https://medium.com/p/223aee0dd261) |
-| Tue, 05 May 2026 15:19:48 GMT | Centralization in Computing and Society: Parallel Inefficiencies | Peter K. | [Read More](https://medium.com/p/3944a4a31bfd) |
-| Tue, 05 May 2026 15:19:35 GMT | AI Agent’lar: Kendi Kendine Çalışan Siber Araçlar Çağı | Este Eren | [Read More](https://medium.com/p/4dd2f2c4652f) |
