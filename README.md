@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 May 2026 21:08:41 GMT | Scanning for AI Recommendation Poisoning across 900 sites | Adrian Del Campo | [Read More](https://medium.com/p/06205089f54d) |
+| Wed, 06 May 2026 21:07:14 GMT | API1: Broken Object Level Authorization (BOLA) | Vaibhav | [Read More](https://medium.com/p/c3aeef921f10) |
+| Wed, 06 May 2026 21:01:26 GMT | Why Your MDR Looks Healthy While Detections Are Quietly Breaking | Ryan Plas | [Read More](https://medium.com/p/39b2f6a866ee) |
+| Wed, 06 May 2026 20:58:35 GMT | The $442 Billion Siege: Why Your Banking App Is the Most Dangerous App on Your Phone | Jaime Gaspar | [Read More](https://medium.com/p/d7c982dfe397) |
+| Wed, 06 May 2026 20:33:26 GMT | The Lebanon Security Track | Havmeaning | [Read More](https://medium.com/p/8e4c9b8cdcfe) |
+| Wed, 06 May 2026 20:25:27 GMT | Automating High-Risk Database Info Disclosure via GraphQL Misconfiguration | m00nissmiling | [Read More](https://medium.com/p/bd162134cb06) |
+| Wed, 06 May 2026 20:25:04 GMT | I built a real cloud attack lab, and here’s how I designed, broke, and secured it. | Aaradhya Desai | [Read More](https://medium.com/p/be2a3a457090) |
+| Wed, 06 May 2026 20:24:36 GMT | Why Can’t Spectrum Customers See Actions Taken on Their Own Accounts? | Lex Alexander | [Read More](https://medium.com/p/ea50eeb68023) |
+| Wed, 06 May 2026 20:08:25 GMT | Securing IoT Devices: Best Practices | Berat Erol ÇELİK | [Read More](https://medium.com/p/508771af0778) |
+| Wed, 06 May 2026 20:05:25 GMT | The Future of Quantum Cryptography | Coddiom | [Read More](https://medium.com/p/716ad6e6b430) |
+| Wed, 06 May 2026 20:01:01 GMT | API Pen Testing : Zero to Hero Hands on Labs | Vaibhav | [Read More](https://medium.com/p/4ad250763724) |
+| Wed, 06 May 2026 19:59:47 GMT | The Courage to Be Disliked | Aimee Xu | [Read More](https://medium.com/p/a93001029320) |
+| Wed, 06 May 2026 19:57:38 GMT | 1.5 Million Websites Got Hacked in 2026 — And Most Owners Still Don’t Know | Jazz Cyber Shield | [Read More](https://medium.com/p/96b08f11b4e3) |
 | Wed, 06 May 2026 19:37:18 GMT | Critical Apache HTTP Server Flaw CVE-2026–23918 — DoS and RCE With Two HTTP/2 Frames. Patch Now. | Sai kiran | [Read More](https://medium.com/p/8aa38cdbc442) |
 | Wed, 06 May 2026 19:36:59 GMT | Glassworm: The Invisible Supply Chain Malware Living Inside Your Developer Tools | Motasem Hamdan | [Read More](https://medium.com/p/80b449c22971) |
 | Wed, 06 May 2026 19:34:42 GMT | A Beginner’s Step‑by‑Step Simplified Guide to Mastering Nmap Scans | Cybersectoworld | [Read More](https://medium.com/p/0facc4cb5db4) |
@@ -89,6 +102,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 May 2026 14:39:25 GMT | Print de WhatsApp vale como prova? O que ninguém te contou | SafePrint | [Read More](https://medium.com/p/a1bec29ea02d) |
 | Wed, 06 May 2026 14:22:09 GMT | Stop Wasting the First Hour of Every Bug Bounty Hunt — I Built ReconX to Fix That. | Krithick | [Read More](https://medium.com/p/ccdce8a09bf2) |
 | Wed, 06 May 2026 14:20:01 GMT | Microsoft Just Made It Safer to Put Defender on Your Most Important Servers | Rachana Gupta | [Read More](https://medium.com/p/6fa491daecea) |
+| Wed, 06 May 2026 14:07:51 GMT | 系統開發必備：什麼是 Use Case？ | 思維舞步 MindSteps | [Read More](https://medium.com/p/2bd872355885) |
 | Wed, 06 May 2026 14:07:03 GMT | What Businesses Require: The Anchor of a Consistent Security Presence | Lucas Barett | [Read More](https://medium.com/p/9be39dd091c5) |
 | Wed, 06 May 2026 14:06:08 GMT | Claude Code is introducing old bad practices in new ways. | Rob Gil | [Read More](https://medium.com/p/fc7273ef8efd) |
 | Wed, 06 May 2026 14:04:16 GMT | X-Raying EVM Proxies: How to Eradicate Deep-Nested Hacks in Web3 Agents | lokii | [Read More](https://medium.com/p/0f71b9875bea) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 May 2026 13:56:16 GMT | How to start in web hacking? [Full Roadmap] | b3pwn3d | [Read More](https://medium.com/p/79262595e8f6) |
 | Wed, 06 May 2026 13:26:30 GMT | Why Most Cyber Attacks Go Undetected (And How to Stop Them) | Digital Defense | [Read More](https://medium.com/p/4493f1096820) |
 | Wed, 06 May 2026 13:19:06 GMT | The Public Is the Last Line of Defense Against Digital Deception | FakeNewsFlag | [Read More](https://medium.com/p/7acfe04280a4) |
-| Wed, 06 May 2026 13:16:00 GMT | The Physics Equations That AI Still Gets Wrong — And Why That's Actually a Feature, Not a Bug | Yaavik Materials & Engineering | [Read More](https://medium.com/p/fedc02607c82) |
-| Wed, 06 May 2026 13:15:12 GMT | Web Application Attack Detection and Alerting with Wazuh (XSS Use Case) | Aghaverdi Kalantarli | [Read More](https://medium.com/p/839947254933) |
-| Wed, 06 May 2026 13:12:24 GMT | Modern SIEM Buying Guide: What Matters in 2026 | NetWitness | [Read More](https://medium.com/p/e592feb4312a) |
-| Wed, 06 May 2026 13:10:01 GMT | Unmasking One of the Quietest APT Groups: Inside El Machete | Jeff | [Read More](https://medium.com/p/effb042bdd9d) |
-| Wed, 06 May 2026 13:02:43 GMT | How to Choose the Right Cyber Security Solutions in Orange County (Complete Guide) | Best IT Service Solution Anaheim | [Read More](https://medium.com/p/8ec9ba0e2eaa) |
-| Wed, 06 May 2026 13:01:04 GMT | 3 Fatal Mistakes SMEs Make With “Shadow AI” (And How It Leads to a Data Breach) | ERTOOSHOP - Digital Systems | [Read More](https://medium.com/p/87533d5796a2) |
-| Wed, 06 May 2026 12:59:32 GMT | Threat and Vulnerabilities Report - April 2026 | Loginsoft | [Read More](https://medium.com/p/2b67dc102c6c) |
-| Wed, 06 May 2026 12:57:08 GMT | Best IT Training Institute in Noida - IT Courses with Placement | Cloudkingtechnical | [Read More](https://medium.com/p/835c8cbd18cb) |
-| Wed, 06 May 2026 12:55:22 GMT | Homelander Security Audit: Uniswap v4 — Summary and Outcomes | MEV-X | [Read More](https://medium.com/p/9352b029dce5) |
-| Wed, 06 May 2026 12:54:17 GMT | Who Wins the Hardware-Bound Passkey Race? | Vincent Delitz | [Read More](https://medium.com/p/b8bff30c24ad) |
-| Wed, 06 May 2026 12:52:28 GMT | Instagram’s E2EE Reversal Shows Where Privacy May Be Heading | Andrew Dear | [Read More](https://medium.com/p/f9cab99597ca) |
-| Wed, 06 May 2026 12:50:25 GMT | 9 Fantastic VPN Apps for iPhone Users | Tsumit | [Read More](https://medium.com/p/c7d0fc722bae) |
-| Wed, 06 May 2026 12:49:04 GMT | How Deepfake Phishing Attacks Work in 2026 — And How to Stop Them | A | [Read More](https://medium.com/p/e798ff279e30) |
-| Wed, 06 May 2026 12:46:35 GMT | Syslog in Security: From Logs to Threat Detection | Santhosh duraipandiyan | [Read More](https://medium.com/p/139c9dd8a9cb) |
