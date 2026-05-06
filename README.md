@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 May 2026 11:19:19 GMT | Someone Hacked Grok’s Wallet by Asking Grok to Do It. | Etan Hunt - DailyCoinPost | [Read More](https://medium.com/p/d33977876243) |
+| Wed, 06 May 2026 11:14:29 GMT | My Journey to Passing the CKS: Certified Kubernetes Security Specialist(2025) | Santosh Gawande | [Read More](https://medium.com/p/c95808c72855) |
+| Wed, 06 May 2026 11:12:08 GMT | The 2026 Survival Kit: Why Your “Safe” Internet is Actually a Glass House | Mohit | [Read More](https://medium.com/p/7d66e2ce34af) |
+| Wed, 06 May 2026 11:11:30 GMT | Claude Security Enters Public Beta: Automated Vulnerability Scanning and Patching for Enterprise… | Ankit Himanshu | [Read More](https://medium.com/p/0d2557caabf3) |
+| Wed, 06 May 2026 11:10:17 GMT | Cybersecurity in the age of AI: Are we close to living viruses? | Justanotherguyrandomly | [Read More](https://medium.com/p/0c65aaf47e9f) |
+| Wed, 06 May 2026 11:07:34 GMT | What is Fuzzing? How Hackers Discover Hidden Parameters. | ExploitHunter | [Read More](https://medium.com/p/7b28a05e1916) |
+| Wed, 06 May 2026 11:06:41 GMT | PestFix — Pest Control WordPress Theme | Garanti Web Tasarım | [Read More](https://medium.com/p/1e64c9dff2fc) |
+| Wed, 06 May 2026 11:03:21 GMT | Deep Dive: Burp Suite | ExploitHunter | [Read More](https://medium.com/p/f5ad10b35d45) |
+| Wed, 06 May 2026 10:59:05 GMT | Master Key Systems in Dubai — How They Work and Why Every Building Needs One | Help | [Read More](https://medium.com/p/43b85dde5e15) |
+| Wed, 06 May 2026 10:58:34 GMT | TryHackMe “Red” | Faruk Özlük | [Read More](https://medium.com/p/791fdc73f1d1) |
+| Wed, 06 May 2026 10:58:32 GMT | Digital Forensics in Kenya: | Mngugi | [Read More](https://medium.com/p/f52e72ac26bc) |
+| Wed, 06 May 2026 10:39:40 GMT | The Skeleton Key: Why Hackers Don’t Need Your Password to Drain Your Bank Account | Mohit | [Read More](https://medium.com/p/c82fe6a872bc) |
+| Wed, 06 May 2026 10:32:46 GMT | Cyber Security in 2026: Why You Might Be at Risk | Just User | [Read More](https://medium.com/p/0d159c11eefe) |
+| Wed, 06 May 2026 10:32:36 GMT | The End of Diplomacy? U.S.-Iran Attacks and the Hormuz Threat | Golda Mizrahi | [Read More](https://medium.com/p/4448649c197a) |
+| Wed, 06 May 2026 10:26:18 GMT | Upload Vulnerabilities - TryHackMe | Ryca | [Read More](https://medium.com/p/24184c054071) |
+| Wed, 06 May 2026 10:24:16 GMT | I Knew the Theory. Doing It Was Different. (My Ethical Hacking Sprint). | Outlaw | [Read More](https://medium.com/p/e377da7774b1) |
+| Wed, 06 May 2026 10:18:21 GMT | Claude Just Found a 17-Year-Old Bug No Human Could. Your package.json Is Next. | Anup Karanjkar | [Read More](https://medium.com/p/8acada70b47b) |
+| Wed, 06 May 2026 10:16:33 GMT | How I Found My First $250 Stored XSS When I Almost Quit | Mir Muhammed Ahsan Ali | [Read More](https://medium.com/p/ac03afde2b2d) |
+| Wed, 06 May 2026 10:01:38 GMT | Best VAPT Service Provider in India - CERT-In Empanelled - ISO:27001 | Sabastin | [Read More](https://medium.com/p/7f9e80e38f85) |
+| Wed, 06 May 2026 10:01:01 GMT | Supabase Row-Level Security in Flutter: The Policy Pattern I Use So Users Never See Each Other’s… | Ali Wajdan | [Read More](https://medium.com/p/7c72fe87ed89) |
+| Wed, 06 May 2026 09:48:36 GMT | HackTheBox — Support - Walkthrough | Shxdowz | [Read More](https://medium.com/p/50fb51d9f8df) |
+| Wed, 06 May 2026 09:46:57 GMT | Content Security Policy - TryHackMe | Ryca | [Read More](https://medium.com/p/916989b723dd) |
+| Wed, 06 May 2026 09:42:04 GMT | Best Institute for Ethical Hacking Course in Delhi with Certification | cyber security Updates | [Read More](https://medium.com/p/f20d94a77cd6) |
+| Wed, 06 May 2026 09:32:30 GMT | FIPS-Enabled Python on cx_Freeze: Challenges, the Mangling Problem, and How We Shipped It | Saurabh Jadhav | [Read More](https://medium.com/p/b8507c3748cb) |
+| Wed, 06 May 2026 09:30:21 GMT | From Scan to Shell: Exploiting vsftpd 2.3.4 on Metasploitable2 (Beginner-Friendly Guide) | Alex Agyei | [Read More](https://medium.com/p/c94f3641d9ea) |
 | Wed, 06 May 2026 09:14:54 GMT | AI-SOC | Ratnadeep Dey Roy | [Read More](https://medium.com/p/6682cd2a66b2) |
 | Wed, 06 May 2026 09:08:38 GMT | How a Simple Payload Helped Me Discover a UI Redressing Vulnerability in an AI Feature | Vasan | [Read More](https://medium.com/p/7bcecc59d32e) |
 | Wed, 06 May 2026 09:05:13 GMT | How a Reddit Post in 2023 Revealed Something Fundamental About AI Safety | MayhemCode | [Read More](https://medium.com/p/468fcb64340a) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 May 2026 01:50:34 GMT | The AI Model That Changed the Economics of Hacking…And What It Means for Investment Firms | WayneReidUK | [Read More](https://medium.com/p/2c3d66efb6c6) |
 | Wed, 06 May 2026 01:48:27 GMT | Learning Fortinet Firewall — LESSON 8: Software Switch / Layer 2 | Rouell Mamaril | [Read More](https://medium.com/p/ff9d4f7af33c) |
 | Wed, 06 May 2026 01:23:03 GMT | Insecure Service — Mobile Apps Security Static Analysis Part VI | ./Rey~ | [Read More](https://medium.com/p/f6f16646fdc6) |
-| Wed, 06 May 2026 01:11:21 GMT | Microkernels, Monoliths, and How We Choose Our Tools | Li Derek | [Read More](https://medium.com/p/9fed279ae0ae) |
-| Wed, 06 May 2026 00:27:16 GMT | ZeroTrust USB | Utso Sarkar | [Read More](https://medium.com/p/9f2f5e8787e7) |
-| Wed, 06 May 2026 00:25:42 GMT | Breaking AES-GCM Systems (Without Breaking AES) | Luis Santiago | [Read More](https://medium.com/p/cd0a156b4953) |
-| Wed, 06 May 2026 00:21:53 GMT | Bypassing OTP? | Soumyadip Manna | [Read More](https://medium.com/p/4a05b5898df5) |
-| Wed, 06 May 2026 00:10:18 GMT | How to Grow Your Money: A Financial Guide to Secure Your Future | Sanjeevupadhyay | [Read More](https://medium.com/p/c37578d34406) |
-| Wed, 06 May 2026 00:01:01 GMT | Guía Definitiva GraphQL para Bug Bounty: Vulnerabilidades y Explotación | JPablo13 | [Read More](https://medium.com/p/39c27ac3b137) |
-| Tue, 05 May 2026 23:36:49 GMT | Why I Built a Portfolio for My Open-Source Recon Tool (And You Should Too) | Exreconnaissance | [Read More](https://medium.com/p/59813adc7590) |
-| Tue, 05 May 2026 23:34:36 GMT | pwned-deps: the 5-second lockfile check that answers "did we pull a compromised package?" | Manish Kumar | [Read More](https://medium.com/p/bf099b400737) |
-| Tue, 05 May 2026 23:26:17 GMT | How I Built AgentArmor: A Two-Layer Security Proxy for LLM Applications | Vikrant Waghmode | [Read More](https://medium.com/p/fbd708469d08) |
-| Tue, 05 May 2026 23:24:19 GMT | How to Apply Zero Trust security into your Company Architecture | Amazingfalah | [Read More](https://medium.com/p/eb82e8e085ad) |
-| Tue, 05 May 2026 23:19:11 GMT | Sauna — HTB Writeup | William Shively | [Read More](https://medium.com/p/53f920881648) |
-| Tue, 05 May 2026 23:07:41 GMT | Vulnerability Data Enrichment for CVE Records: 261 CNAs on the Enrichment Recognition List for May… | CVE Program Blog | [Read More](https://medium.com/p/40c285eebd82) |
-| Tue, 05 May 2026 22:49:49 GMT | What Nobody Tells You About the Modern Hunt for Your Digital Privacy | Washington News Network | [Read More](https://medium.com/p/925d130e14ec) |
-| Tue, 05 May 2026 22:46:47 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Adlyquepurz | [Read More](https://medium.com/p/c2ca285f781a) |
-| Tue, 05 May 2026 22:25:19 GMT | Cinq voix ont été volées. La tienne est la prochaine. | Eliot Cohen Bacrie | [Read More](https://medium.com/p/65aa2deb7b66) |
-| Tue, 05 May 2026 22:23:02 GMT | Five Voices Were Stolen. Yours Is Next. | Eliot Cohen Bacrie | [Read More](https://medium.com/p/45217f995844) |
-| Tue, 05 May 2026 22:13:29 GMT | Project Freedom or Project Deadlock? The Collapse of the US-Iran Truce | Chloe Ladner | [Read More](https://medium.com/p/696bd1fe9164) |
-| Tue, 05 May 2026 22:10:53 GMT | LFI Prevention: How to Actually Fix File Inclusion Vulnerabilities | 0x4rt1st | [Read More](https://medium.com/p/9cda530d6c3f) |
-| Tue, 05 May 2026 22:06:03 GMT | LFI Automated Scanning: Finding and Fuzzing with ffuf | 0x4rt1st | [Read More](https://medium.com/p/b1d0425e2953) |
-| Tue, 05 May 2026 21:49:45 GMT | A Tale of Economic Espionage | Jude Canady | [Read More](https://medium.com/p/e02f40fac147) |
-| Tue, 05 May 2026 21:47:24 GMT | Intrusion Detection and Prevention System — IDPS | Utso Sarkar | [Read More](https://medium.com/p/0d3b142ec697) |
-| Tue, 05 May 2026 21:44:37 GMT | Linux log enhancement part 2 | Amr Alasmer | [Read More](https://medium.com/p/8a9ce04612e9) |
-| Tue, 05 May 2026 21:39:15 GMT | Tired of Viruses? What If You Just… Stopped Getting Them? | Garythatcher | [Read More](https://medium.com/p/fd8e0bb9994e) |
-| Tue, 05 May 2026 21:34:04 GMT | TryHackMe: Benign - Write-Up | Ash T | [Read More](https://medium.com/p/39e9838e9261) |
-| Tue, 05 May 2026 21:31:46 GMT | Write for NextGenThreat: Real Stories Only | Faruk Ahmed | [Read More](https://medium.com/p/9953fcf192fb) |
