@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 May 2026 23:20:18 GMT | DevOps · Networking · Kubernetes · Post-mortem | Mikemurango | [Read More](https://medium.com/p/06b3e1883b7f) |
+| Wed, 06 May 2026 23:14:20 GMT | Your digital life has no next of kin | Nexussec Techs | [Read More](https://medium.com/p/6e2598da4ef0) |
+| Wed, 06 May 2026 23:04:17 GMT | Why most AWS environments are one SCP away from being compromised | Fernando (Sh4dowBR) Alencar | [Read More](https://medium.com/p/bebcef6ea5f3) |
+| Wed, 06 May 2026 22:54:12 GMT | # picoCTF 2026 — Secure Dot Product (Crypto, Hard) | stevenx | [Read More](https://medium.com/p/80734454e670) |
+| Wed, 06 May 2026 22:30:28 GMT | The Clock Has Stopped: | Monica Taylor Boggan | [Read More](https://medium.com/p/bb7a615baad6) |
+| Wed, 06 May 2026 22:28:25 GMT | The New Architecture of Trust in an Era of Persistent Cyber Warfare | 0trust0day | [Read More](https://medium.com/p/be8459f85b16) |
+| Wed, 06 May 2026 22:28:05 GMT | npm-risk: A Lightweight Way to Think Before You Install | Fredrik Ward | [Read More](https://medium.com/p/47b66996e943) |
+| Wed, 06 May 2026 22:20:15 GMT | The Canvas Breach Is a Warning: Your Classroom Is Now a Data Mine | Travis Ray Caverhill | [Read More](https://medium.com/p/98296e9e703a) |
+| Wed, 06 May 2026 22:15:39 GMT | Carter Perez Wants Cybersecurity to Feel Less Like a Locked Room | Amin Zayd | [Read More](https://medium.com/p/486eba75375a) |
 | Wed, 06 May 2026 22:08:36 GMT | STACK-BASED BUFFER OVERFLOW EXPLOITATION | Eilipkarki | [Read More](https://medium.com/p/8cb00ecc3834) |
 | Wed, 06 May 2026 22:06:01 GMT | SQL Injection Demystified: From Magic Passwords to Out-of-Band Exfiltration (Part 1) | RedVoid | [Read More](https://medium.com/p/79ce75d9d1a2) |
 | Wed, 06 May 2026 22:02:51 GMT | ✨ The Rise of Modern Skincare: Premium Products That Are Transforming Everyday Beauty Routines | Niloy Chandra Das | [Read More](https://medium.com/p/2cce212c3f3e) |
+| Wed, 06 May 2026 21:52:18 GMT | Minerals Are the New Code: Norway, Pax Silica, and the Alliance Being Built Around the AI Supply… | CCD-IS | [Read More](https://medium.com/p/8a04c7698023) |
 | Wed, 06 May 2026 21:52:08 GMT | Why Modern Browsing Still Feels Messy (Even If It’s Faster Than Ever) | Dhaichione | [Read More](https://medium.com/p/3b1c1306f6a6) |
 | Wed, 06 May 2026 21:51:12 GMT | The Recon Goldmine Hidden Inside Exposed AI Instruction Files | Nijin K | [Read More](https://medium.com/p/888991a63e9f) |
 | Wed, 06 May 2026 21:44:00 GMT | How to Build a World-Class SAST Program from Scratch | Vikrant Waghmode | [Read More](https://medium.com/p/7694042260c0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 May 2026 15:34:42 GMT | Is Dark Web Scary ?? | gli4ch | [Read More](https://medium.com/p/2389e50121cd) |
 | Wed, 06 May 2026 15:32:12 GMT | Heartless | Untamedpoet.diaries | [Read More](https://medium.com/p/9eb879a43173) |
 | Wed, 06 May 2026 15:23:25 GMT | Best Business Antiviruses 2026: Tested on Office Devices | Softbliq | [Read More](https://medium.com/p/452858c4b597) |
-| Wed, 06 May 2026 15:13:24 GMT | The Hidden Advantage of Using Linux No One Talks About | Sam Writes Security | [Read More](https://medium.com/p/7a53dcb92cc0) |
-| Wed, 06 May 2026 15:11:29 GMT | Building Enterprise-Grade Web Filtering with AdGuard Home and Wazuh SIEM | Yannick Siewe | [Read More](https://medium.com/p/d414d194a2e4) |
-| Wed, 06 May 2026 15:10:46 GMT | Dangerous STP Timer Mistakes Beginners Make (And How to Avoid Them) | Abdulshakoor | [Read More](https://medium.com/p/1bfcb48985c6) |
-| Wed, 06 May 2026 15:10:10 GMT | PowerShell Commands Every SOC Analyst Should Know | Jagadishtripathy | [Read More](https://medium.com/p/b622c449a27b) |
-| Wed, 06 May 2026 15:07:42 GMT | Unicode Password Security: What Hackers Hope You Never Figure Out | Greg Jameson | [Read More](https://medium.com/p/e175f080f34a) |
-| Wed, 06 May 2026 15:03:21 GMT | Easy Way to Perform MITM attack | Msalman Haider | [Read More](https://medium.com/p/8b66691308a2) |
-| Wed, 06 May 2026 15:02:42 GMT | Group Policy Security - Common Mistakes & How to Avoid Them | Pentester Club | [Read More](https://medium.com/p/ed146f9ea2b6) |
-| Wed, 06 May 2026 14:52:16 GMT | What if I don’t want to be found? | karmaisme | [Read More](https://medium.com/p/405dc533b3f5) |
-| Wed, 06 May 2026 14:48:21 GMT | Stop Storing User Data in Plain Text: A Practical Guide to Encryption in Node.js | Asrul Kadir | [Read More](https://medium.com/p/738a2f8a05ff) |
-| Wed, 06 May 2026 14:46:40 GMT | Securing the Backbone — Issue #37: The Illusion of Choice: Why 10 Languages + 6 Registries + 50k… | Eric Gallagher | [Read More](https://medium.com/p/04b256e155dc) |
