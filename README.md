@@ -12,7 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 May 2026 17:25:29 GMT | Ethical AI Decision Making Guide | ANNETTE PARTIDA | [Read More](https://medium.com/p/cf8dae9fabc8) |
+| Wed, 06 May 2026 17:23:34 GMT | Microsoft Edge is storing your passwords in plaintext memory right now, and that is intentional | Joao Silva | [Read More](https://medium.com/p/45e305ebb937) |
+| Wed, 06 May 2026 17:17:15 GMT | OAuth 2.0 & OIDC — How modern authentication actually works under the hood | Reuben Lim | [Read More](https://medium.com/p/3932e320cd48) |
+| Wed, 06 May 2026 17:16:01 GMT | How I Finally Stopped Spam Submissions in My Elementor Forms (Without CAPTCHA) | IOTAIY | [Read More](https://medium.com/p/893b28d438fe) |
+| Wed, 06 May 2026 17:05:41 GMT | The Maturity Gap: Why AI Maturity Is the Best Predictor of Business Impact in 2026 | Xaltius | [Read More](https://medium.com/p/8de42b420feb) |
+| Wed, 06 May 2026 17:03:52 GMT | Writing Your First NSE Script | Roshan Rajbanshi | [Read More](https://medium.com/p/379a7eb7c1a3) |
+| Wed, 06 May 2026 17:01:11 GMT | The Sky Is Not Neutral Anymore | Shubh Raheja | [Read More](https://medium.com/p/6efa1ffe241a) |
+| Wed, 06 May 2026 17:00:55 GMT | I Found !! Full Account Takeover via OAuth Linking CSRF bugs | Skysenz | [Read More](https://medium.com/p/b5f4c155a456) |
+| Wed, 06 May 2026 16:59:16 GMT | Top 5 Secure Password Generators for Developers in 2026 | ToolsMatic | [Read More](https://medium.com/p/e6737da784e7) |
+| Wed, 06 May 2026 16:57:48 GMT | Copy Fail: How 732 Bytes of Python Got Root on Almost Every Linux System Shipped Since 2017 | Nomit Vyas | [Read More](https://medium.com/p/9cf97eb5298a) |
+| Wed, 06 May 2026 16:46:33 GMT | The Model You Didn’t Build: Why the AI Supply Chain Is Security’s Next Blind Spot | Giulio Sistilli | [Read More](https://medium.com/p/208b2163ac77) |
+| Wed, 06 May 2026 16:46:04 GMT | Every Reason Why I Hate AI and You Should Too | Shahzaib | [Read More](https://medium.com/p/47e4c7838869) |
+| Wed, 06 May 2026 16:41:18 GMT | 5 Python Libraries Every Data Scientist Must Know in 2026 | Tech | [Read More](https://medium.com/p/b74eea4410ae) |
+| Wed, 06 May 2026 16:40:43 GMT | Small Tech Problems Usually Turn Into Bigger Ones | Ben Treder | [Read More](https://medium.com/p/f42ab26db5e6) |
+| Wed, 06 May 2026 16:40:28 GMT | JWT Authentication Done Right: The Ultimate Guide to Mistakes and Best Practices | Dilsha jayasekara | [Read More](https://medium.com/p/9fd28dc713d7) |
+| Wed, 06 May 2026 16:38:11 GMT | My Approach to Application Security Testing: Break It Before They Do. | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/c2e6e403d8ad) |
+| Wed, 06 May 2026 16:35:34 GMT | When They Get Hacked: What Companies Are Actually Required to Do With Your Data | Mide Alabi | [Read More](https://medium.com/p/6a86ec7423c2) |
+| Wed, 06 May 2026 16:34:25 GMT | Bad USB: The Invisible Hardware Threat | Hack-Bat | [Read More](https://medium.com/p/c1bc8f064405) |
+| Wed, 06 May 2026 16:28:08 GMT | Top Bytebase Alternatives in 2026 (After Testing Most of Them) | Sukhpalhari | [Read More](https://medium.com/p/b5ff6869e793) |
+| Wed, 06 May 2026 16:20:07 GMT | How I passed My CRTA Exam | Bundala De Hacker | [Read More](https://medium.com/p/d23a0fca50f6) |
+| Wed, 06 May 2026 16:17:57 GMT | OWASP LLM Top 10 — Part 2: The Attack Happens Before You Deploy | Derick Johnson | [Read More](https://medium.com/p/53e93795721e) |
+| Wed, 06 May 2026 16:12:33 GMT | Where Trust Actually Lives in DeFi | Sanju Kundu | [Read More](https://medium.com/p/5a585a841c09) |
+| Wed, 06 May 2026 16:08:12 GMT | Decoding the Multilingual Shield: Optimizing AI Security for Low-Resource Languages | Reut Ginat Eliash | [Read More](https://medium.com/p/1d2cde562f59) |
+| Wed, 06 May 2026 16:08:06 GMT | The Hybrid Jungle: Orchestrating Identity in a Legacy-Heavy Environment | Shweta Roy | [Read More](https://medium.com/p/8cde3b502b95) |
+| Wed, 06 May 2026 15:51:30 GMT | The Certificate Manager You Never Knew You Needed | Sriram Mahalingam | [Read More](https://medium.com/p/25ec27cdad34) |
+| Wed, 06 May 2026 15:40:33 GMT | The Social Login Trap: Architecting Defenses Against Account Takeovers | Pau Dang | [Read More](https://medium.com/p/3f34948169c4) |
+| Wed, 06 May 2026 15:38:34 GMT | Under Siege: How Your iPhone Can Be Used to Frame and Spy on You | EncryptedLife | [Read More](https://medium.com/p/9cba13306012) |
+| Wed, 06 May 2026 15:35:21 GMT | Crypto Wallets: The First Step Into Web3 | Crypto Wiki | [Read More](https://medium.com/p/83a5cadc8f5f) |
 | Wed, 06 May 2026 15:34:42 GMT | Is Dark Web Scary ?? | gli4ch | [Read More](https://medium.com/p/2389e50121cd) |
+| Wed, 06 May 2026 15:32:12 GMT | Heartless | Untamedpoet.diaries | [Read More](https://medium.com/p/9eb879a43173) |
 | Wed, 06 May 2026 15:23:25 GMT | Best Business Antiviruses 2026: Tested on Office Devices | Softbliq | [Read More](https://medium.com/p/452858c4b597) |
 | Wed, 06 May 2026 15:13:24 GMT | The Hidden Advantage of Using Linux No One Talks About | Sam Writes Security | [Read More](https://medium.com/p/7a53dcb92cc0) |
 | Wed, 06 May 2026 15:11:29 GMT | Building Enterprise-Grade Web Filtering with AdGuard Home and Wazuh SIEM | Yannick Siewe | [Read More](https://medium.com/p/d414d194a2e4) |
@@ -83,32 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 May 2026 11:07:34 GMT | What is Fuzzing? How Hackers Discover Hidden Parameters. | ExploitHunter | [Read More](https://medium.com/p/7b28a05e1916) |
 | Wed, 06 May 2026 11:06:41 GMT | PestFix — Pest Control WordPress Theme | Garanti Web Tasarım | [Read More](https://medium.com/p/1e64c9dff2fc) |
 | Wed, 06 May 2026 11:03:21 GMT | Deep Dive: Burp Suite | ExploitHunter | [Read More](https://medium.com/p/f5ad10b35d45) |
-| Wed, 06 May 2026 10:59:05 GMT | Master Key Systems in Dubai — How They Work and Why Every Building Needs One | Help | [Read More](https://medium.com/p/43b85dde5e15) |
-| Wed, 06 May 2026 10:58:34 GMT | TryHackMe “Red” | Faruk Özlük | [Read More](https://medium.com/p/791fdc73f1d1) |
-| Wed, 06 May 2026 10:58:32 GMT | Digital Forensics in Kenya: | Mngugi | [Read More](https://medium.com/p/f52e72ac26bc) |
-| Wed, 06 May 2026 10:39:40 GMT | The Skeleton Key: Why Hackers Don’t Need Your Password to Drain Your Bank Account | Mohit | [Read More](https://medium.com/p/c82fe6a872bc) |
-| Wed, 06 May 2026 10:32:46 GMT | Cyber Security in 2026: Why You Might Be at Risk | Just User | [Read More](https://medium.com/p/0d159c11eefe) |
-| Wed, 06 May 2026 10:32:36 GMT | The End of Diplomacy? U.S.-Iran Attacks and the Hormuz Threat | Golda Mizrahi | [Read More](https://medium.com/p/4448649c197a) |
-| Wed, 06 May 2026 10:26:18 GMT | Upload Vulnerabilities - TryHackMe | Ryca | [Read More](https://medium.com/p/24184c054071) |
-| Wed, 06 May 2026 10:24:16 GMT | I Knew the Theory. Doing It Was Different. (My Ethical Hacking Sprint). | Outlaw | [Read More](https://medium.com/p/e377da7774b1) |
-| Wed, 06 May 2026 10:18:21 GMT | Claude Just Found a 17-Year-Old Bug No Human Could. Your package.json Is Next. | Anup Karanjkar | [Read More](https://medium.com/p/8acada70b47b) |
-| Wed, 06 May 2026 10:16:33 GMT | How I Found My First $250 Stored XSS When I Almost Quit | Mir Muhammed Ahsan Ali | [Read More](https://medium.com/p/ac03afde2b2d) |
-| Wed, 06 May 2026 10:01:38 GMT | Best VAPT Service Provider in India - CERT-In Empanelled - ISO:27001 | Sabastin | [Read More](https://medium.com/p/7f9e80e38f85) |
-| Wed, 06 May 2026 10:01:01 GMT | Supabase Row-Level Security in Flutter: The Policy Pattern I Use So Users Never See Each Other’s… | Ali Wajdan | [Read More](https://medium.com/p/7c72fe87ed89) |
-| Wed, 06 May 2026 09:48:36 GMT | HackTheBox — Support - Walkthrough | Shxdowz | [Read More](https://medium.com/p/50fb51d9f8df) |
-| Wed, 06 May 2026 09:46:57 GMT | Content Security Policy - TryHackMe | Ryca | [Read More](https://medium.com/p/916989b723dd) |
-| Wed, 06 May 2026 09:42:04 GMT | Best Institute for Ethical Hacking Course in Delhi with Certification | cyber security Updates | [Read More](https://medium.com/p/f20d94a77cd6) |
-| Wed, 06 May 2026 09:32:30 GMT | FIPS-Enabled Python on cx_Freeze: Challenges, the Mangling Problem, and How We Shipped It | Saurabh Jadhav | [Read More](https://medium.com/p/b8507c3748cb) |
-| Wed, 06 May 2026 09:30:21 GMT | From Scan to Shell: Exploiting vsftpd 2.3.4 on Metasploitable2 (Beginner-Friendly Guide) | Alex Agyei | [Read More](https://medium.com/p/c94f3641d9ea) |
-| Wed, 06 May 2026 09:14:54 GMT | AI-SOC | Ratnadeep Dey Roy | [Read More](https://medium.com/p/6682cd2a66b2) |
-| Wed, 06 May 2026 09:08:38 GMT | How a Simple Payload Helped Me Discover a UI Redressing Vulnerability in an AI Feature | Vasan | [Read More](https://medium.com/p/7bcecc59d32e) |
-| Wed, 06 May 2026 09:05:13 GMT | How a Reddit Post in 2023 Revealed Something Fundamental About AI Safety | MayhemCode | [Read More](https://medium.com/p/468fcb64340a) |
-| Wed, 06 May 2026 08:58:35 GMT | Top Cybersecurity Solutions for Saudi Arabia Businesses | Chand | [Read More](https://medium.com/p/1d3289c30f3f) |
-| Wed, 06 May 2026 08:46:59 GMT | Grok AI Tricked Into Sending $150K in Crypto on X | WORLD HAS GONE MAD | [Read More](https://medium.com/p/ceb13e8cf98b) |
-| Wed, 06 May 2026 08:46:44 GMT | CTF Collection Vol.1 — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/f0bcccfd2ff7) |
-| Wed, 06 May 2026 08:41:09 GMT | 5 Essential Safety Lessons Every Parent Should Teach Their Child | Sapna Rishi | [Read More](https://medium.com/p/fa7ff54a30ee) |
-| Wed, 06 May 2026 08:35:08 GMT | Beyond the Hype: How AI is Redefining Digital Trust | Itsmanishkarki | [Read More](https://medium.com/p/8003e1770d98) |
-| Wed, 06 May 2026 08:31:13 GMT | OpenAI lance un bug bounty pour sécuriser GPT-5.5 | Marc Barbezat | [Read More](https://medium.com/p/a1ec7005e766) |
-| Wed, 06 May 2026 08:30:47 GMT | Ethical Hacking | satyam kumar | [Read More](https://medium.com/p/246eb402e21c) |
-| Wed, 06 May 2026 08:29:54 GMT | IDOR Hunting — Find Broken Authorization | cyber-ninjaaa | [Read More](https://medium.com/p/a57795ca7e9d) |
-| Wed, 06 May 2026 08:28:31 GMT | Reflected XSS in E-Commerce Search — Bug Bounty Writeup | Hassan Elsayed | [Read More](https://medium.com/p/f38ec267769d) |
