@@ -12,6 +12,41 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 May 2026 09:14:54 GMT | AI-SOC | Ratnadeep Dey Roy | [Read More](https://medium.com/p/6682cd2a66b2) |
+| Wed, 06 May 2026 09:08:38 GMT | How a Simple Payload Helped Me Discover a UI Redressing Vulnerability in an AI Feature | Vasan | [Read More](https://medium.com/p/7bcecc59d32e) |
+| Wed, 06 May 2026 09:05:13 GMT | How a Reddit Post in 2023 Revealed Something Fundamental About AI Safety | MayhemCode | [Read More](https://medium.com/p/468fcb64340a) |
+| Wed, 06 May 2026 08:58:35 GMT | Top Cybersecurity Solutions for Saudi Arabia Businesses | Chand | [Read More](https://medium.com/p/1d3289c30f3f) |
+| Wed, 06 May 2026 08:46:59 GMT | Grok AI Tricked Into Sending $150K in Crypto on X | WORLD HAS GONE MAD | [Read More](https://medium.com/p/ceb13e8cf98b) |
+| Wed, 06 May 2026 08:46:44 GMT | CTF Collection Vol.1 — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/f0bcccfd2ff7) |
+| Wed, 06 May 2026 08:41:09 GMT | 5 Essential Safety Lessons Every Parent Should Teach Their Child | Sapna Rishi | [Read More](https://medium.com/p/fa7ff54a30ee) |
+| Wed, 06 May 2026 08:35:08 GMT | Beyond the Hype: How AI is Redefining Digital Trust | Itsmanishkarki | [Read More](https://medium.com/p/8003e1770d98) |
+| Wed, 06 May 2026 08:31:13 GMT | OpenAI lance un bug bounty pour sécuriser GPT-5.5 | Marc Barbezat | [Read More](https://medium.com/p/a1ec7005e766) |
+| Wed, 06 May 2026 08:30:47 GMT | Ethical Hacking | satyam kumar | [Read More](https://medium.com/p/246eb402e21c) |
+| Wed, 06 May 2026 08:29:54 GMT | IDOR Hunting — Find Broken Authorization | cyber-ninjaaa | [Read More](https://medium.com/p/a57795ca7e9d) |
+| Wed, 06 May 2026 08:28:31 GMT | Reflected XSS in E-Commerce Search — Bug Bounty Writeup | Hassan Elsayed | [Read More](https://medium.com/p/f38ec267769d) |
+| Wed, 06 May 2026 08:27:30 GMT | SOC Role in Blue Team — TryHackMe Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/f42b53ff0560) |
+| Wed, 06 May 2026 08:20:54 GMT | Secure Coding Practices Every Developer Should Know | Kunal Arora | [Read More](https://medium.com/p/051a8be0af2b) |
+| Wed, 06 May 2026 08:11:13 GMT | Nobody Tells You That GRC Is One of the Fastest Ways Into Cybersecurity — So I Built the Roadmap… | Michael Lawrence | [Read More](https://medium.com/p/6d449a8a947b) |
+| Wed, 06 May 2026 08:09:17 GMT | Protecting Your Linux System Against DPRK (North Korean) Cyber Attacks | Officer's Notes | [Read More](https://medium.com/p/87981e75276c) |
+| Wed, 06 May 2026 08:05:33 GMT | How Older PCs Compare With Current Models | Matthew A | [Read More](https://medium.com/p/29669f882a74) |
+| Wed, 06 May 2026 08:04:53 GMT | BUG-BOUNTY SERIES 10: SQL Injection (SQLi). | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/b96b2f14d017) |
+| Wed, 06 May 2026 08:03:04 GMT | REASONING vs. RULES: How Claude Mythos Broke Security’s Old Game | Vishnu Priya Vangipuram | [Read More](https://medium.com/p/43dfbc82fd42) |
+| Wed, 06 May 2026 07:55:49 GMT | BUG-BOUNTY SERIES 9: Memahami HTTP untuk Bug Bounty. | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/c6a11e452745) |
+| Wed, 06 May 2026 07:47:59 GMT | Atlassian Guard 是什麼？用 Protect / Detect / Respond 一次看懂企業級資安策略 | Titansoft_Atlassian Consultant | [Read More](https://medium.com/p/c2aaee16e798) |
+| Wed, 06 May 2026 07:41:14 GMT | Building a Tier-1 Firewall Troubleshooting Runbook: A Practical Framework for IT Support Teams | Ahmad Alassadi | [Read More](https://medium.com/p/11ee1751543e) |
+| Wed, 06 May 2026 07:36:06 GMT | Password Reset Flaws: The Easiest Account Takeover Vector | Cybersphere Official | [Read More](https://medium.com/p/17f24f65d094) |
+| Wed, 06 May 2026 07:36:01 GMT | TPRM in the AI Era: Gartner Top Tech Trends Revealed | Oran F | [Read More](https://medium.com/p/c555f7e3ad88) |
+| Wed, 06 May 2026 07:34:38 GMT | Can I Ever Be Like a Lighthouse? | Storiews | [Read More](https://medium.com/p/0e91d1114a04) |
+| Wed, 06 May 2026 07:30:22 GMT | Why Most Small Businesses in Oman Are Not Ready for a Cyber Attack (2026 Guide) | Amir Rizvandi | [Read More](https://medium.com/p/834b8b31a0da) |
+| Wed, 06 May 2026 07:24:26 GMT | najib | najib king | [Read More](https://medium.com/p/5613237d3b68) |
+| Wed, 06 May 2026 07:22:24 GMT | When AI Learned to Fake Reality: The Deepfake Scam Problem | Faraz Weerabangsa - BSc in MIS (Special) | [Read More](https://medium.com/p/1f18826e8005) |
+| Wed, 06 May 2026 07:12:43 GMT | Crisis Management Is Not Response. It Is Leadership Under Uncertainty | Mahfuzur Rahman | [Read More](https://medium.com/p/0548c61d386f) |
+| Wed, 06 May 2026 07:04:36 GMT | Best Cyber Security Training Center Near Batra Hospital — Courses, Fees & Career Guide (2026) | EINITIAL24 | [Read More](https://medium.com/p/ae8c2b80af11) |
+| Wed, 06 May 2026 07:02:51 GMT | Practical OSCP Certification Training in Mumbai for Real World Cyber Attacks | Securium Academy | [Read More](https://medium.com/p/ddd6d0d3dde9) |
+| Wed, 06 May 2026 07:01:35 GMT | IDOR (Insecure Direct Object Reference): Celah Kecil dengan Dampak Besar | Gama Waskita | [Read More](https://medium.com/p/512060732e8e) |
+| Wed, 06 May 2026 06:54:28 GMT | The Bug That Was Hidden in Plain Sight | Fateyaly | [Read More](https://medium.com/p/07e2e704db59) |
+| Wed, 06 May 2026 06:52:24 GMT | From DXE to Ring 0: Bypassing EDR/XDR through Stealth Kernel Manual Mapping | 0rickyy. | [Read More](https://medium.com/p/3fca984b97d7) |
+| Wed, 06 May 2026 06:21:27 GMT | Will Quantum Security Replace Traditional Cybersecurity Methods? | Yeoshu | [Read More](https://medium.com/p/f6da18d50fa3) |
 | Wed, 06 May 2026 06:18:22 GMT | Your Code Is Leaving the Building — and You Probably Don’t Know It | Paritosh | [Read More](https://medium.com/p/cb0d3c3f3ffb) |
 | Wed, 06 May 2026 06:14:45 GMT | PCI DSS 4.0 Pentesting Mistakes SaaS Companies Make | Pentest_Testing_Corp | [Read More](https://medium.com/p/4434c5b891a2) |
 | Wed, 06 May 2026 06:12:51 GMT | How Senegal Is Building a Sovereign Digital Future for Africa | Pavan Bhatiya | [Read More](https://medium.com/p/34cd1460456a) |
@@ -77,38 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 05 May 2026 21:39:15 GMT | Tired of Viruses? What If You Just… Stopped Getting Them? | Garythatcher | [Read More](https://medium.com/p/fd8e0bb9994e) |
 | Tue, 05 May 2026 21:34:04 GMT | TryHackMe: Benign - Write-Up | Ash T | [Read More](https://medium.com/p/39e9838e9261) |
 | Tue, 05 May 2026 21:31:46 GMT | Write for NextGenThreat: Real Stories Only | Faruk Ahmed | [Read More](https://medium.com/p/9953fcf192fb) |
-| Tue, 05 May 2026 21:26:14 GMT | Burp Suite MCP Server Won’t Connect from WSL? Here’s the Fix Nobody Talks About | Suyog Patil | [Read More](https://medium.com/p/1a5fdd9994e7) |
-| Tue, 05 May 2026 21:13:12 GMT | 5 Essential Security Checks for Your CI/CD Pipeline | Umashankara Kalaiah | [Read More](https://medium.com/p/dbd62c401955) |
-| Tue, 05 May 2026 21:10:59 GMT | GFW 深度解析 08：Tor | xnvlnasna | [Read More](https://medium.com/p/ccbd1ffcaf68) |
-| Tue, 05 May 2026 21:10:25 GMT | GFW 深度解析 07：主动嗅探 | xnvlnasna | [Read More](https://medium.com/p/2931e4275053) |
-| Tue, 05 May 2026 21:05:20 GMT | TryHackMe: Brooklyn Nine Nine — Two Paths to Root | Robert Perez | [Read More](https://medium.com/p/83130ecb65a1) |
-| Tue, 05 May 2026 21:01:17 GMT | One Battle After Another ( A DevOps Engineer’s Fight Against Data Loss) | M Reza Sharifi | [Read More](https://medium.com/p/0276fbddee7d) |
-| Tue, 05 May 2026 21:01:12 GMT | Silencing EDR Network Telemetry: WFP Callout Patching via BYOVD | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1f9ee7ed0e67) |
-| Tue, 05 May 2026 21:01:01 GMT | How to Build Guardrails for LLM Chatbots or GEN AI applications: A Three-Layer Architecture | Katakamvivek | [Read More](https://medium.com/p/89779f4dddf1) |
-| Tue, 05 May 2026 20:50:34 GMT | 5 IAM Best Practices Every Developer Should Follow | Umashankara Kalaiah | [Read More](https://medium.com/p/d1c511a07be3) |
-| Tue, 05 May 2026 20:50:22 GMT | Local Code Execution via Git Workspace Poisoning (FSMonitor) | X3r0Day | [Read More](https://medium.com/p/7041a2560395) |
-| Tue, 05 May 2026 20:48:59 GMT | The Ghost in the Forge: A Deep-Dive Analysis of the forge-jsxy Multi-Platform RAT | Nijin K | [Read More](https://medium.com/p/eee92c07fb4b) |
-| Tue, 05 May 2026 20:46:19 GMT | Attackers Actively Exploiting Critical Vulnerability in Breeze Cache Plugin | Wordfence | [Read More](https://medium.com/p/e25ff95fa852) |
-| Tue, 05 May 2026 20:46:12 GMT | The 8th Continent: How the Internet Became a Nation-State and Nobody Noticed | Safwanhungund | [Read More](https://medium.com/p/b713bd620b74) |
-| Tue, 05 May 2026 20:34:26 GMT | Milesight IP Camera Vulnerabilities: How 5 Critical CVEs Left 14,706 Surveillance Devices Exposed… | hacker_might | [Read More](https://medium.com/p/ee8eda965ea8) |
-| Tue, 05 May 2026 20:32:00 GMT | “Supplier ADP Pilot Update” — SADP Content Now Live in CVE Records | CVE Program Blog | [Read More](https://medium.com/p/840867343cee) |
-| Tue, 05 May 2026 20:16:33 GMT | Security Services for London Events: Why WA Event Services is the Name You Can Trust | waeventservices.co.uk/ | [Read More](https://medium.com/p/0ae6e381aa6d) |
-| Tue, 05 May 2026 19:58:16 GMT | An Open Letter to Dario Amodei | Russel Hawkins | [Read More](https://medium.com/p/f3076146c056) |
-| Tue, 05 May 2026 19:53:24 GMT | The Silent Root: Detecting the “Copy Fail” Vulnerability (CVE-2026–31431) | Abhishek Kumar Sah | [Read More](https://medium.com/p/caf081c6da83) |
-| Tue, 05 May 2026 19:49:59 GMT | Python ve Yerel LLM’ler ile Kendi Siber Güvenlik Asistanınızı Geliştirin: “AI Cyber Sentinel”… | Baranilgun | [Read More](https://medium.com/p/36d7a92c8dab) |
-| Tue, 05 May 2026 19:42:24 GMT | AI Hacking for Beginners: A Five-Article Series | Moez Ben-Azzouz | [Read More](https://medium.com/p/14457431a872) |
-| Tue, 05 May 2026 19:36:29 GMT | Decoding the Vault: How AI and Data Science are Rewriting the Rules of Banking | Akash Babu | [Read More](https://medium.com/p/b9dc6c69ede3) |
-| Tue, 05 May 2026 19:33:27 GMT | Your Voice Is Already Gone | Sewar Khalifeh | [Read More](https://medium.com/p/2bedcaabc90b) |
-| Tue, 05 May 2026 19:25:19 GMT | The CIA Triad of Self-Discipline: How to Patch Your Human Vulnerabilities | Hack The Cyber | [Read More](https://medium.com/p/b0b299fb13a5) |
-| Tue, 05 May 2026 19:21:52 GMT | The Evolution of Cybersecurity: From Simple Defenses to Intelligent Warfare. | Eleojo | [Read More](https://medium.com/p/2cae1cbe17cc) |
-| Tue, 05 May 2026 19:21:03 GMT | Your Users Will Break Your AI System Before Hackers Do | Roli Bosch @ Hermes Labs | [Read More](https://medium.com/p/7e05676797bd) |
-| Tue, 05 May 2026 19:15:54 GMT | How Secure Password Hashing Can Take Down Your Server | byte&borrow | [Read More](https://medium.com/p/78a51535a6b0) |
-| Tue, 05 May 2026 19:15:02 GMT | CIA Triad: Pilar Utama dalam Keamanan Informasi | Nurazizrizky | [Read More](https://medium.com/p/369c76728a0e) |
-| Tue, 05 May 2026 19:12:02 GMT | The Quiet Fear We Don’t Say Out Loud. | Thoughts In Words | [Read More](https://medium.com/p/1e781506c5be) |
-| Tue, 05 May 2026 19:05:32 GMT | Phishing: Ancaman Siber yang Terus Berkembang di Era Digital | Nurazizrizky | [Read More](https://medium.com/p/5a275da2d04b) |
-| Tue, 05 May 2026 19:02:53 GMT | AI Can’t Do This Yet: An Honest List From an Engineer Who Uses It Daily (2026) | Matthew Ohimai (Mezha Tech) | [Read More](https://medium.com/p/d93b2276fb76) |
-| Tue, 05 May 2026 18:58:59 GMT | SOCFortress Vulnerability Operations Center — Part I, Introduction | SOCFortress | [Read More](https://medium.com/p/7e4b80ffd327) |
-| Tue, 05 May 2026 18:31:01 GMT | VLAN Segmentation: Because Your ‘Smart’ Toaster is a Moron (and a Security Risk) | Hugo Valters | [Read More](https://medium.com/p/af6fc98f4758) |
-| Tue, 05 May 2026 18:29:45 GMT | Applying AI to Application Security: What Works and What Doesn’t | Karanpreet 'KP' Singh | [Read More](https://medium.com/p/4f021446ee70) |
-| Tue, 05 May 2026 18:25:33 GMT | Data Minimisation Means Never Uploading Your Documents. Here Is Why. | Zerocloudpdf | [Read More](https://medium.com/p/2442fab498b7) |
-| Tue, 05 May 2026 18:20:58 GMT | The Honest Truth About VPNs for Freelancers in 2026 (I Tested Them) | SoftwarePickr | [Read More](https://medium.com/p/2b864c346313) |
