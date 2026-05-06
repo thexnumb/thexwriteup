@@ -12,6 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 06 May 2026 19:37:18 GMT | Critical Apache HTTP Server Flaw CVE-2026–23918 — DoS and RCE With Two HTTP/2 Frames. Patch Now. | Sai kiran | [Read More](https://medium.com/p/8aa38cdbc442) |
+| Wed, 06 May 2026 19:36:59 GMT | Glassworm: The Invisible Supply Chain Malware Living Inside Your Developer Tools | Motasem Hamdan | [Read More](https://medium.com/p/80b449c22971) |
+| Wed, 06 May 2026 19:34:42 GMT | A Beginner’s Step‑by‑Step Simplified Guide to Mastering Nmap Scans | Cybersectoworld | [Read More](https://medium.com/p/0facc4cb5db4) |
+| Wed, 06 May 2026 19:34:40 GMT | Network Security Checklist for Startups: 10 Essential Steps to Stay Protected | CacheGuard Technologies | [Read More](https://medium.com/p/32721695c69f) |
+| Wed, 06 May 2026 19:30:21 GMT | Why Small Businesses Are the Weakest Link in Network Security (and How to Fix It) | CacheGuard Technologies | [Read More](https://medium.com/p/ab87d5048e87) |
+| Wed, 06 May 2026 19:26:43 GMT | Critical Apache HTTP Server RCE and DoS Vulnerability (CVE-2026–23918) | RealSec.io | [Read More](https://medium.com/p/55c0e97cc91b) |
+| Wed, 06 May 2026 19:20:18 GMT | The AWS Autopsy - Case #01 — SSRF to IAM Credential Theft — Capital-One | Ridam Darji | [Read More](https://medium.com/p/04765db9882c) |
+| Wed, 06 May 2026 19:13:02 GMT | Understanding Darknet Drug Scams: Why Visibility Does Not Equal Trust | Tor BBB | [Read More](https://medium.com/p/87a1d178fbc0) |
+| Wed, 06 May 2026 19:11:45 GMT | Advancing the Project of Secure CI/CD pipeline -2 | The Commoness | [Read More](https://medium.com/p/f262fdaaa485) |
+| Wed, 06 May 2026 19:11:22 GMT | The Floating Blind Spot: How the World’s Most Critical Infrastructure Became Its Most Vulnerable | CCD-IS | [Read More](https://medium.com/p/e164dd407ec6) |
+| Wed, 06 May 2026 19:02:18 GMT | RAM Is Lying to You — and Rowhammer Is the Proof | MayhemCode | [Read More](https://medium.com/p/4dbf159fb881) |
+| Wed, 06 May 2026 19:01:01 GMT | Your Company Is Watching You Through Microsoft 365. Here's Exactly What They See. | Thomas Lumesberger | [Read More](https://medium.com/p/9792b12eccd4) |
+| Wed, 06 May 2026 18:47:18 GMT | OffSec Proving Grounds “EvilBox-One” Writeup | sabR | [Read More](https://medium.com/p/43f01654e126) |
+| Wed, 06 May 2026 18:45:06 GMT | More Attackers, Fewer Hits: What April’s Honeypot Data Reveals About a Shifting Threat Landscape | Px Mx | [Read More](https://medium.com/p/de50bc22790e) |
+| Wed, 06 May 2026 18:45:02 GMT | Apple iPhone 18 Pro Max 2026 | Dynamicsecuritysolutionltd | [Read More](https://medium.com/p/65e317b96853) |
+| Wed, 06 May 2026 18:39:44 GMT | Free Antivirus vs Paid Antivirus for SMEs — Is Free Protection Really Enough? | Cordula Boeck | [Read More](https://medium.com/p/791c88b007f9) |
+| Wed, 06 May 2026 18:28:09 GMT | ContextCard: A Chrome Extension to Save and Resume ChatGPT, Claude, and Gemini Conversations | josegpac | [Read More](https://medium.com/p/4f33f41a3e24) |
+| Wed, 06 May 2026 18:26:31 GMT | OLED Monitors in 2026: I Would Buy One, But Not for Everyone | Hardvance | [Read More](https://medium.com/p/fdcf8a815b51) |
+| Wed, 06 May 2026 18:24:35 GMT | The Telegram Trap: Inside the Sophisticated “FEMITBOT” Fraud Network | SOCFortress | [Read More](https://medium.com/p/8b310c8c9df8) |
+| Wed, 06 May 2026 18:23:10 GMT | From the Terminal to the Browser: Building a Modern OSINT Platform on Top of recon-ng | Mirko | [Read More](https://medium.com/p/921fe835ee44) |
+| Wed, 06 May 2026 18:19:06 GMT | Following the Supply Chain: How Vendor Leaks Exposed the Real Target | Iski | [Read More](https://medium.com/p/402b54ddd325) |
+| Wed, 06 May 2026 18:16:44 GMT | Help Desk Interview Guide (2026): What You Need to Know | Irene A. Gil | [Read More](https://medium.com/p/41e4930a4622) |
+| Wed, 06 May 2026 18:16:01 GMT | The Mirai Botnet: How a Few College Kids Broke the Internet with Your Security Camera | Uladzislau Bayouski | [Read More](https://medium.com/p/599de8606f59) |
+| Wed, 06 May 2026 18:03:57 GMT | The Best Security Cameras for Home Surveillance That Actually Kept My Family Safe | Louis Specter | [Read More](https://medium.com/p/18b785ac3a59) |
+| Wed, 06 May 2026 18:03:47 GMT | Intercepting Flutter App Traffic: Bypassing Anti-Proxy & SSL Pinning on Android | 5xyj : ] | [Read More](https://medium.com/p/4fc25750ec4a) |
+| Wed, 06 May 2026 17:53:52 GMT | Getting Started with OCI — The Big Picture | Mirza Farhan Beg | [Read More](https://medium.com/p/f9fa707ea4ce) |
+| Wed, 06 May 2026 17:45:55 GMT | Event Transportation Services London - Reliable UK-Wide Event Travel Solutions | waeventservices.co.uk/ | [Read More](https://medium.com/p/37410a6598b7) |
+| Wed, 06 May 2026 17:37:15 GMT | It’s just a Writers Club — What’s the worst that could happen? | A Swinicki | [Read More](https://medium.com/p/01d14496b739) |
 | Wed, 06 May 2026 17:25:29 GMT | Ethical AI Decision Making Guide | ANNETTE PARTIDA | [Read More](https://medium.com/p/cf8dae9fabc8) |
 | Wed, 06 May 2026 17:23:34 GMT | Microsoft Edge is storing your passwords in plaintext memory right now, and that is intentional | Joao Silva | [Read More](https://medium.com/p/45e305ebb937) |
 | Wed, 06 May 2026 17:17:15 GMT | OAuth 2.0 & OIDC — How modern authentication actually works under the hood | Reuben Lim | [Read More](https://medium.com/p/3932e320cd48) |
@@ -32,10 +60,12 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 May 2026 16:34:25 GMT | Bad USB: The Invisible Hardware Threat | Hack-Bat | [Read More](https://medium.com/p/c1bc8f064405) |
 | Wed, 06 May 2026 16:28:08 GMT | Top Bytebase Alternatives in 2026 (After Testing Most of Them) | Sukhpalhari | [Read More](https://medium.com/p/b5ff6869e793) |
 | Wed, 06 May 2026 16:20:07 GMT | How I passed My CRTA Exam | Bundala De Hacker | [Read More](https://medium.com/p/d23a0fca50f6) |
+| Wed, 06 May 2026 16:18:53 GMT | He Clicked One Link… and Lost ₦300,000 | David Bankole | [Read More](https://medium.com/p/ac61fd62dc55) |
 | Wed, 06 May 2026 16:17:57 GMT | OWASP LLM Top 10 — Part 2: The Attack Happens Before You Deploy | Derick Johnson | [Read More](https://medium.com/p/53e93795721e) |
 | Wed, 06 May 2026 16:12:33 GMT | Where Trust Actually Lives in DeFi | Sanju Kundu | [Read More](https://medium.com/p/5a585a841c09) |
 | Wed, 06 May 2026 16:08:12 GMT | Decoding the Multilingual Shield: Optimizing AI Security for Low-Resource Languages | Reut Ginat Eliash | [Read More](https://medium.com/p/1d2cde562f59) |
 | Wed, 06 May 2026 16:08:06 GMT | The Hybrid Jungle: Orchestrating Identity in a Legacy-Heavy Environment | Shweta Roy | [Read More](https://medium.com/p/8cde3b502b95) |
+| Wed, 06 May 2026 15:58:25 GMT | The "Physical Proxy" Trap: | The Digital Sidekick | [Read More](https://medium.com/p/7bf56996f455) |
 | Wed, 06 May 2026 15:51:30 GMT | The Certificate Manager You Never Knew You Needed | Sriram Mahalingam | [Read More](https://medium.com/p/25ec27cdad34) |
 | Wed, 06 May 2026 15:40:33 GMT | The Social Login Trap: Architecting Defenses Against Account Takeovers | Pau Dang | [Read More](https://medium.com/p/3f34948169c4) |
 | Wed, 06 May 2026 15:38:34 GMT | Under Siege: How Your iPhone Can Be Used to Frame and Spy on You | EncryptedLife | [Read More](https://medium.com/p/9cba13306012) |
@@ -82,33 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 06 May 2026 12:50:25 GMT | 9 Fantastic VPN Apps for iPhone Users | Tsumit | [Read More](https://medium.com/p/c7d0fc722bae) |
 | Wed, 06 May 2026 12:49:04 GMT | How Deepfake Phishing Attacks Work in 2026 — And How to Stop Them | A | [Read More](https://medium.com/p/e798ff279e30) |
 | Wed, 06 May 2026 12:46:35 GMT | Syslog in Security: From Logs to Threat Detection | Santhosh duraipandiyan | [Read More](https://medium.com/p/139c9dd8a9cb) |
-| Wed, 06 May 2026 12:46:01 GMT | We Got AI Security Backwards. Attackers Figured That Out Before We Did. | Sruthisraman | [Read More](https://medium.com/p/11c06cb84004) |
-| Wed, 06 May 2026 12:44:06 GMT | AI turning Code Dependencies into Weapons | Dr Tyrone Grandison | [Read More](https://medium.com/p/57332e84e93a) |
-| Wed, 06 May 2026 12:42:07 GMT | Advanced OSCP Certification Training in Hyderabad with Hands On Labs | Securium Academy | [Read More](https://medium.com/p/2705e70b897c) |
-| Wed, 06 May 2026 12:41:01 GMT | VLAN Segmentation: Why Your Smart Fridge Shouldn’t Talk to Your File Server | Hugo Valters | [Read More](https://medium.com/p/ae4fcbf29d4b) |
-| Wed, 06 May 2026 12:39:50 GMT | Do You Really Understand Cybersecurity Foundations? | Kanishkakhandelwal | [Read More](https://medium.com/p/a83283a88231) |
-| Wed, 06 May 2026 12:35:12 GMT | Security Breaks Where It Is Not Enabled Everywhere | DARCA-crypto/fiat bank | [Read More](https://medium.com/p/4c6cbc6fa52e) |
-| Wed, 06 May 2026 12:33:00 GMT | How We Protect Karrot’s Internal PyPI Proxy from Supply Chain Attacks | Donghee Na | [Read More](https://medium.com/p/0cf197205915) |
-| Wed, 06 May 2026 12:31:53 GMT | 당근이 파이썬 공급망 공격에 대응하는 방법 | Donghee Na | [Read More](https://medium.com/p/e0b4f483b574) |
-| Wed, 06 May 2026 12:31:01 GMT | Benefits of Automation | Scimus | [Read More](https://medium.com/p/a0151358a9e5) |
-| Wed, 06 May 2026 12:27:24 GMT | Cybersecurity Future Landscape | Laiba R | [Read More](https://medium.com/p/59a45c1c0ea7) |
-| Wed, 06 May 2026 11:58:07 GMT | Information Technology | Rameeshaamjad | [Read More](https://medium.com/p/5b3902e10e78) |
-| Wed, 06 May 2026 11:41:05 GMT | How Hackers Map Your Entire Network in 15 Minutes. A Step-by-Step Breakdown. | Dhanush N | [Read More](https://medium.com/p/c077fee9dfb0) |
-| Wed, 06 May 2026 11:38:03 GMT | AI Powered Digital Marketing Services Auckland - Local Expert Agency NZ | Aumni Guest | [Read More](https://medium.com/p/e8926c899c09) |
-| Wed, 06 May 2026 11:37:06 GMT | The World Runs on Sand | Abhinav Jain | [Read More](https://medium.com/p/1f4e9bd4cfcc) |
-| Wed, 06 May 2026 11:36:01 GMT | Google Dorking | Bubrak Sher | [Read More](https://medium.com/p/6692b31a1700) |
-| Wed, 06 May 2026 11:33:37 GMT | 4. Patches: The Infinite Race for Resilience | Elmir | [Read More](https://medium.com/p/2c1482907243) |
-| Wed, 06 May 2026 11:31:01 GMT | Most Passwords Are One Breach Away From Disaster (And How to Fix It in 30 Seconds) | CalculatorEmpire | [Read More](https://medium.com/p/ec72edd78a9d) |
-| Wed, 06 May 2026 11:30:23 GMT | AI Driven Security Operations: Transforming Modern Threat Management | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/38db2cfcec4c) |
-| Wed, 06 May 2026 11:27:39 GMT | Success in eCommerce Has Less to Do With Products and More to Do With Patience | Whatsales.com | [Read More](https://medium.com/p/3086ae550f97) |
-| Wed, 06 May 2026 11:27:15 GMT | Cybersecurity & AI: The Future of Digital Protection is Already Here | Suganthi Balaji | [Read More](https://medium.com/p/a1999e56ef08) |
-| Wed, 06 May 2026 11:24:05 GMT | SafeLens — CCTV & Security Systems WordPress Theme | Garanti Web Tasarım | [Read More](https://medium.com/p/12f816051d33) |
-| Wed, 06 May 2026 11:22:52 GMT | Network-Level Vulnerabilities in Multi-Agent AI Systems: What Microsoft’s Red Team Found | Ankit Himanshu | [Read More](https://medium.com/p/0f44c4495bd5) |
-| Wed, 06 May 2026 11:19:19 GMT | Someone Hacked Grok’s Wallet by Asking Grok to Do It. | Etan Hunt - DailyCoinPost | [Read More](https://medium.com/p/d33977876243) |
-| Wed, 06 May 2026 11:14:29 GMT | My Journey to Passing the CKS: Certified Kubernetes Security Specialist(2025) | Santosh Gawande | [Read More](https://medium.com/p/c95808c72855) |
-| Wed, 06 May 2026 11:12:08 GMT | The 2026 Survival Kit: Why Your “Safe” Internet is Actually a Glass House | Mohit | [Read More](https://medium.com/p/7d66e2ce34af) |
-| Wed, 06 May 2026 11:11:30 GMT | Claude Security Enters Public Beta: Automated Vulnerability Scanning and Patching for Enterprise… | Ankit Himanshu | [Read More](https://medium.com/p/0d2557caabf3) |
-| Wed, 06 May 2026 11:10:17 GMT | Cybersecurity in the age of AI: Are we close to living viruses? | Justanotherguyrandomly | [Read More](https://medium.com/p/0c65aaf47e9f) |
-| Wed, 06 May 2026 11:07:34 GMT | What is Fuzzing? How Hackers Discover Hidden Parameters. | ExploitHunter | [Read More](https://medium.com/p/7b28a05e1916) |
-| Wed, 06 May 2026 11:06:41 GMT | PestFix — Pest Control WordPress Theme | Garanti Web Tasarım | [Read More](https://medium.com/p/1e64c9dff2fc) |
-| Wed, 06 May 2026 11:03:21 GMT | Deep Dive: Burp Suite | ExploitHunter | [Read More](https://medium.com/p/f5ad10b35d45) |
