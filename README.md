@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 May 2026 21:48:08 GMT | The Arcium Use Case That Actually Matters to Me: Privacy-Preserving Medical Data Computation; | Felixmpc | [Read More](https://medium.com/p/701cd2213c5e) |
+| Thu, 07 May 2026 21:43:28 GMT | How I Gained Admin Access to a CS2 Skin Platform’s Dev Environment (and Why They Refused to Pay) | Diamorphine | [Read More](https://medium.com/p/320bf64639d0) |
+| Thu, 07 May 2026 21:27:31 GMT | The Future of DeFi Depends on Structured Trust | Hnuriany | [Read More](https://medium.com/p/fe976dd62091) |
+| Thu, 07 May 2026 21:12:06 GMT | Ripped From the Headlines: That Check May Look Real. Your Bank Account Says Otherwise. | "Tracey, the Safety Lady" Hawkins | [Read More](https://medium.com/p/05f7c89867a3) |
+| Thu, 07 May 2026 21:06:23 GMT | Practical OCI CLI Commands You Will Actually Use — OCI CLI Pt.2 | Kweku Obeng | [Read More](https://medium.com/p/57d80d18f623) |
+| Thu, 07 May 2026 20:53:02 GMT | Silencing ETW Threat Intelligence via BYOVD | S12 - 0x12Dark Development | [Read More](https://medium.com/p/c2ba9e3bb072) |
+| Thu, 07 May 2026 20:48:32 GMT | Day 1 — Awakening the Hacker Within | Ravi Teja Koneru | [Read More](https://medium.com/p/7a23423ca976) |
 | Thu, 07 May 2026 20:32:10 GMT | The Watchers Are Getting Smarter: AI, Claude, and the Future of Threat Hunting in Datacenters | BytesAndBalance | [Read More](https://medium.com/p/28f6103853a9) |
 | Thu, 07 May 2026 20:31:44 GMT | LetsDefend — SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) — [WriteUp] | Pedronasserog | [Read More](https://medium.com/p/75018d1f5975) |
 | Thu, 07 May 2026 20:31:01 GMT | MCP Servers: The New AI Attack Surface | Michel Alan López | [Read More](https://medium.com/p/4bce197e5f26) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 May 2026 13:10:19 GMT | Anti Frida: Why Modern Android Apps Need Strong Runtime Protection | Neha Sharma | [Read More](https://medium.com/p/050a45c0200a) |
 | Thu, 07 May 2026 13:05:48 GMT | Network Services 2 — THM | Fadybasem - ( SilentN0va ) | [Read More](https://medium.com/p/4b624e278af1) |
 | Thu, 07 May 2026 13:01:42 GMT | Come Hide Private Data with Me - OpenAI’s Privacy Filter | Jason Jacobs, MSc. | [Read More](https://medium.com/p/08620d4b23cb) |
-| Thu, 07 May 2026 13:00:05 GMT | When the Frontend Lies: How One Blind API Endpoint Could Bring Down Your Entire Company | Mostafa Waleed | [Read More](https://medium.com/p/2dae39b420b8) |
-| Thu, 07 May 2026 12:51:23 GMT | 4 Reasons Most Small Businesses Pick the Wrong Firewall in 2026 | A | [Read More](https://medium.com/p/a5d44577751b) |
-| Thu, 07 May 2026 12:50:05 GMT | 10 signs of a cheating husband | Michael Parks | [Read More](https://medium.com/p/16a5d3551c4e) |
-| Thu, 07 May 2026 12:47:42 GMT | বাংলায় — Penetration Testing Ethics — Part 2 | Zahid Hasan Zinnah | [Read More](https://medium.com/p/fc4ef0a6830b) |
-| Thu, 07 May 2026 12:17:00 GMT | Popular Darknet Drugs and What Online Visibility Actually Reveals | Tor BBB | [Read More](https://medium.com/p/38a671ef5dc2) |
-| Thu, 07 May 2026 12:08:34 GMT | AI & Cybersecurity: A Growing and Immediate Risk | Layla Al Mana | [Read More](https://medium.com/p/e8df857f07c5) |
-| Thu, 07 May 2026 12:01:59 GMT | From Cybersecurity to Digital Influence – My Journey Beyond the Screen | Ranjeethu | [Read More](https://medium.com/p/df37b7f04c5a) |
