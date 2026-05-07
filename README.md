@@ -12,7 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 May 2026 12:08:34 GMT | AI & Cybersecurity: A Growing and Immediate Risk | Layla Al Mana | [Read More](https://medium.com/p/e8df857f07c5) |
+| Thu, 07 May 2026 12:01:59 GMT | From Cybersecurity to Digital Influence – My Journey Beyond the Screen | Ranjeethu | [Read More](https://medium.com/p/df37b7f04c5a) |
+| Thu, 07 May 2026 11:58:48 GMT | Mobile-Based Wireless Access Control: The Future of Workplace Security | Joven A Rodrigues | [Read More](https://medium.com/p/2638b341c1fb) |
+| Thu, 07 May 2026 11:56:52 GMT | Top Technology Trends Transforming Silicon Valley Today | Hachion | [Read More](https://medium.com/p/f8f9af6d76be) |
+| Thu, 07 May 2026 11:55:38 GMT | RDP vs. AnyDesk vs. | John from AweSun | [Read More](https://medium.com/p/aab287ae0a8f) |
+| Thu, 07 May 2026 11:48:42 GMT | The Silent Gap: Why Your “Smart Factory” is Still Stuck in 1999 | Shaileshsinghrajput | [Read More](https://medium.com/p/7100a9a09ea0) |
+| Thu, 07 May 2026 11:40:10 GMT | AI Has No Consequence, But Everything Is Becoming AI | Matt Wood | [Read More](https://medium.com/p/767c22f40554) |
+| Thu, 07 May 2026 11:38:14 GMT | Prompt Injection Is the SQL Injection of the AI Era, And Most Developers Are Ignoring It | Garvanand | [Read More](https://medium.com/p/28e390cfa4cf) |
+| Thu, 07 May 2026 11:35:06 GMT | Upgrade Your Career with In-Demand Cybersecurity Skills | Michael Antony | [Read More](https://medium.com/p/399baed5e54d) |
+| Thu, 07 May 2026 11:33:26 GMT | I Tested a 1950s Algorithm Against Modern Network Attacks. Here’s What Surprised Me. | Haitam Lazaar | [Read More](https://medium.com/p/9e4387d4dfb1) |
+| Thu, 07 May 2026 11:31:50 GMT | OWASP Top 10 #1: Broken Access Control — The Most Exploited Web Vulnerability in Modern… | Kanishkakhandelwal | [Read More](https://medium.com/p/20c29e6526a9) |
+| Thu, 07 May 2026 11:27:31 GMT | ️Full Account Takeover Through Unsafe Google Linking With Permanent Loss of Access for the Victim | 0xMo7areb | [Read More](https://medium.com/p/abbfae81538a) |
+| Thu, 07 May 2026 11:18:19 GMT | esynergy awarded UK’s Best Workplaces™ recognition! | esynergy | [Read More](https://medium.com/p/304f0391728d) |
+| Thu, 07 May 2026 11:11:55 GMT | BUG-BOUNTY SERIES 12: Cross-Site Request Forgery (CSRF). | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/8a83896d5824) |
+| Thu, 07 May 2026 11:01:01 GMT | CTF Basics: Understanding SQLi Blind Injection | Walter Moar | [Read More](https://medium.com/p/6c52e0490e9c) |
+| Thu, 07 May 2026 11:00:30 GMT | DATA Thieves inside Google….. | THE GHOST FATHER | [Read More](https://medium.com/p/f2f35aa2bcd9) |
+| Thu, 07 May 2026 10:52:16 GMT | Cybersecurity Service Solutions for a Safer Digital Business Environment | SmartCLOUD Australia | [Read More](https://medium.com/p/0985ccb08a07) |
+| Thu, 07 May 2026 10:41:23 GMT | BMC Unified Service Experience: One Enterprise, One Platform | Dnyaneshwar Shelar | [Read More](https://medium.com/p/bea838be06c2) |
+| Thu, 07 May 2026 10:38:18 GMT | FinTech iOS App Security: A Complete Engineering Guide from TLS to the Secure Enclave | Mohammed Rokon Uddin | [Read More](https://medium.com/p/30fa89d55a85) |
+| Thu, 07 May 2026 10:35:37 GMT | Remove PDF Password Online Instantly - ToolSnak | Toolsnak - Free Tools | [Read More](https://medium.com/p/90c1028958f6) |
+| Thu, 07 May 2026 10:28:52 GMT | THE GHOST FATHER… Google’s Nice Try. ADDING DATA!!!! INSIDER FRAUD | THE GHOST FATHER | [Read More](https://medium.com/p/85fb31e32628) |
+| Thu, 07 May 2026 10:28:50 GMT | Protect Your PDF Files Instantly with PDF Password Protector - ToolSnak | Toolsnak - Free Tools | [Read More](https://medium.com/p/3d58004af2c1) |
+| Thu, 07 May 2026 10:26:39 GMT | The New Privacy Risk: Identity Is No Longer Collected. It Is Reconstructed. | Or Nizri | [Read More](https://medium.com/p/1229100ac824) |
 | Thu, 07 May 2026 10:23:21 GMT | How Corporates Can Save Up to 25% Costs with Integrated Facility Management Services in 2026. | Handiman Services | [Read More](https://medium.com/p/2076821a0437) |
+| Thu, 07 May 2026 10:21:57 GMT | Blue Team Incident Response ChecklistPalo Alto PAN-OS RCE Vulnerability (CVE-2026-0300) Under… | Radia | [Read More](https://medium.com/p/1baf702d808b) |
 | Thu, 07 May 2026 10:18:47 GMT | Quantum Advantage and Enterprise Strategy: A Professional Evaluation of Milestones in Cybersecurity… | Chungwon So | [Read More](https://medium.com/p/5f9f8053d40d) |
 | Thu, 07 May 2026 10:13:14 GMT | The Victory Day Parade is a Tell | Daniel McIntosh, PhD. | [Read More](https://medium.com/p/93764ab24cd1) |
 | Thu, 07 May 2026 10:12:12 GMT | Cybersecurity Threats & Ethical Hacking | kavindidewmininavodya | [Read More](https://medium.com/p/ca520639109d) |
@@ -89,27 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 May 2026 04:01:57 GMT | 5 Signs an Email Is a Scam (And How to Spot Phishing Emails Fast) | Hameedduke | [Read More](https://medium.com/p/05808dc7f110) |
 | Thu, 07 May 2026 03:59:49 GMT | I’m Already Tracer - CTF Digital Forensics Write Up (SPARTA HMIF ITB 2024) | Belle | [Read More](https://medium.com/p/b60b0e1c2217) |
 | Thu, 07 May 2026 03:58:28 GMT | winrarPRO - CTF Digital Forensics Write Up (SPARTA HMIF ITB 2024) | Belle | [Read More](https://medium.com/p/672400c87100) |
-| Thu, 07 May 2026 03:57:09 GMT | Inside Modern Scam Centers — How They Really Work & How to Protect Yourself | ghostyjoe | [Read More](https://medium.com/p/997ab21c25a6) |
-| Thu, 07 May 2026 03:35:26 GMT | Fundamentals of Security | Godpower Cornelius | [Read More](https://medium.com/p/25213fd4a7c1) |
-| Thu, 07 May 2026 03:17:12 GMT | Migrating Tens of Millions of Customer Identities: What Supply Chain Enterprises Need to Know | Virendra Bhide | [Read More](https://medium.com/p/f2271c5d1518) |
-| Thu, 07 May 2026 03:10:15 GMT | Microsoft Edge Password Exposure: How a Memory Dump Reveals Your Credentials | Avyukt Security | [Read More](https://medium.com/p/c18b1aa7046a) |
-| Thu, 07 May 2026 03:10:00 GMT | CVE-2026–31431 Explained: Detecting and Mitigating the Linux Copy Fail Vulnerability — Chandra Home… | Cc | [Read More](https://medium.com/p/894565ec88f3) |
-| Thu, 07 May 2026 03:00:16 GMT | The Architecture of Choosing | lyre ۶ৎ | [Read More](https://medium.com/p/60c8d82aea43) |
-| Thu, 07 May 2026 02:59:47 GMT | The Manual Lies: 7 Things Flipper Can Actually Do | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/eb141c42684f) |
-| Thu, 07 May 2026 02:42:27 GMT | Agent-to-Agent Protocol: Architecture, Communication Design, and the Future of Agentic Systems | Marcus Chen | [Read More](https://medium.com/p/2ef3dcd87d26) |
-| Thu, 07 May 2026 02:31:49 GMT | AI Agents Are Already Replacing Parts of IT and Security Teams — Most Companies Just Haven’t… | Oscar Antonangelo | [Read More](https://medium.com/p/22242d70d342) |
-| Thu, 07 May 2026 02:30:08 GMT | Why do hip openers in yoga often times feel so vulnerable? | KealeyAnnCoville | [Read More](https://medium.com/p/9c630afb3298) |
-| Thu, 07 May 2026 02:19:24 GMT | Identity Blind Spots: The Accounts That Quietly Bypass Your Security | Ehsan | [Read More](https://medium.com/p/c27eccf8c69d) |
-| Thu, 07 May 2026 02:14:26 GMT | 【假冒宏利 MPF 電話銷售事件】市民必須警覺的詐騙陷阱 | 思維舞步 MindSteps | [Read More](https://medium.com/p/1cc48ea20023) |
-| Thu, 07 May 2026 02:08:03 GMT | My First Flags: What the MythX Endgame CTF Taught Me in 24 Hours | Asmita Das | [Read More](https://medium.com/p/d0d559ceb91e) |
-| Thu, 07 May 2026 01:58:40 GMT | Detecting Credential Stuffing Infrastructure Using ASN & Fingerprinting Techniques | Paritosh | [Read More](https://medium.com/p/992c5d758089) |
-| Thu, 07 May 2026 01:33:09 GMT | My Telegram account got hacked – even with 2FA on | S.S. Kajla | [Read More](https://medium.com/p/dfb4d14b0d5f) |
-| Thu, 07 May 2026 01:31:36 GMT | Reflected DOM XSS | Maning | [Read More](https://medium.com/p/e5bac5653d71) |
-| Thu, 07 May 2026 01:25:33 GMT | The Agentic Takeover: Hacking Digital Sovereignty with Beam AI, Salesforce Agentforce, and Claude… | Terri Smith | [Read More](https://medium.com/p/7e252dd83401) |
-| Thu, 07 May 2026 01:22:28 GMT | CopyFail: When a Clever Linux Shortcut Became a Security Hole | Introspection Down Under | [Read More](https://medium.com/p/d0834c223cd5) |
-| Thu, 07 May 2026 01:18:44 GMT | Hackers Hate This Browser Trick That Exposes Shady Domains!! | cybrNK | [Read More](https://medium.com/p/1243c09ac692) |
-| Thu, 07 May 2026 01:14:34 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 8) | Raymond Ebonine | [Read More](https://medium.com/p/0ceae503da17) |
-| Thu, 07 May 2026 01:08:36 GMT | Most cybersecurity incidents don’t happen because companies lack tools. | CyberRise Institute | [Read More](https://medium.com/p/ca6626a5d575) |
-| Thu, 07 May 2026 00:57:53 GMT | Continuous Verification: Why Future Systems May Never Fully Trust Anything | sengom | [Read More](https://medium.com/p/4d7f6578c9dc) |
-| Thu, 07 May 2026 00:54:25 GMT | AI-Based Defense: Why Future Security Must Understand Behavior, Not Just Data | sengom | [Read More](https://medium.com/p/86dbd93a7e4d) |
-| Thu, 07 May 2026 00:49:37 GMT | I Built a Home Vulnerability Management Lab for $0 — Here’s What I Actually Learned | Suprim Devkota | [Read More](https://medium.com/p/e83beeccd60f) |
