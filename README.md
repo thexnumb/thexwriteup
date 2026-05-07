@@ -12,6 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 May 2026 17:01:01 GMT | Shall I? | N. Kay Kerr | [Read More](https://medium.com/p/febec40a10d3) |
+| Thu, 07 May 2026 17:01:01 GMT | Part 4 — Inside SwitchApp: The Hidden Control Engine Powering a Fake Galaxy S25 Ultra | C. Oscar Lawshea | [Read More](https://medium.com/p/42b2b604ecfa) |
+| Thu, 07 May 2026 16:53:18 GMT | I Built the “Silly Idea” - WinRT Screen Capture + OCR That Most EDR Products Miss | Mohammed Abuhassan | [Read More](https://medium.com/p/3334e0cb52ce) |
+| Thu, 07 May 2026 16:48:08 GMT | Brute-Forcing SSH Credentials using Hydra | Soumya Srivastava | [Read More](https://medium.com/p/98fb23a34ece) |
+| Thu, 07 May 2026 16:45:36 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Babankmarcell | [Read More](https://medium.com/p/3b2cb893ebc3) |
+| Thu, 07 May 2026 16:45:15 GMT | Why Log Management is Critical for Cybersecurity | Digital Defense | [Read More](https://medium.com/p/cce7b1a78e6c) |
+| Thu, 07 May 2026 16:39:17 GMT | Host Header Injection — How I Manipulated Session Cookie Domains and Got Paid $100 | Krithick | [Read More](https://medium.com/p/bccd5784d9d6) |
+| Thu, 07 May 2026 16:38:29 GMT | A 17-Year-Old Hacked 7 Million People to Buy Pokémon Cards. AI Wrote the Code. | Jazz Cyber Shield | [Read More](https://medium.com/p/216d63a6b5e6) |
+| Thu, 07 May 2026 16:37:28 GMT | After I Cried, I Slept Better — Here’s What I Learned | Maria Kristiani | [Read More](https://medium.com/p/df6ace47c16d) |
+| Thu, 07 May 2026 16:30:13 GMT | The Governance Gap That AI Agents Are About to Expose | Alberto Zuin | [Read More](https://medium.com/p/a922b4b197d1) |
+| Thu, 07 May 2026 16:23:19 GMT | ️ Building Arachne: A Black-Box Web Security Scanner (From Scratch) | Oderinde Toluwanimi | [Read More](https://medium.com/p/e90a78366eb3) |
+| Thu, 07 May 2026 16:19:04 GMT | The First AI-Native Malware Won’t Look Like Malware | Hemu | [Read More](https://medium.com/p/d44393878e61) |
+| Thu, 07 May 2026 16:11:52 GMT | TryHackMe — The Greenholt Phish Writeup | Hitesh kumar | [Read More](https://medium.com/p/4ce73d3166f8) |
+| Thu, 07 May 2026 16:01:01 GMT | The Most Powerful Forces in Latin America Are Not States | Carl-Henry Cadet | [Read More](https://medium.com/p/4b82bc6e9639) |
+| Thu, 07 May 2026 15:59:21 GMT | I scanned 2,600 Public MCP Servers. The Supply Chain Is Rough. | Truongbuinh | [Read More](https://medium.com/p/4072a867ec76) |
+| Thu, 07 May 2026 15:59:11 GMT | CTF Solution: Information Disclosure and Privilege Escalation on the Machine | Osman Erdem | [Read More](https://medium.com/p/9c40a933a0ea) |
+| Thu, 07 May 2026 15:56:10 GMT | No clients. No problem. Here’s how to walk into any security role like you already own it. | h@shtalk | [Read More](https://medium.com/p/b0db51f5a8d4) |
+| Thu, 07 May 2026 15:56:01 GMT | My AI Agent Tried to DROP My Production Table at 2 AM | echo lee | [Read More](https://medium.com/p/2119b7e3a25d) |
+| Thu, 07 May 2026 15:49:18 GMT | How a Simple Security Misconfiguration Led to Full Account Takeover | Shaunak Natu | [Read More](https://medium.com/p/40f2fdd27da6) |
+| Thu, 07 May 2026 15:49:11 GMT | Build a Private Instagram Profile Lookup Tool Using Python | Ankit Kumar Paswan | [Read More](https://medium.com/p/a05391393582) |
+| Thu, 07 May 2026 15:45:06 GMT | “U up?” The Digital Ghost | Grace Obisesan | [Read More](https://medium.com/p/bbeff836e491) |
+| Thu, 07 May 2026 15:42:57 GMT | How I Bypassed Apple’s Security to Clone Any Podcast (and Got HOF). | Anas NadY | [Read More](https://medium.com/p/b4c878d540fd) |
+| Thu, 07 May 2026 15:41:26 GMT | Analysis: budget-report.pdf.exe (Trojan.Infostealer) | Siva Guru K | [Read More](https://medium.com/p/0383bec5ce99) |
+| Thu, 07 May 2026 15:37:54 GMT | AI: Love It… or Leave It? | Barry Silverstein | [Read More](https://medium.com/p/6fc467b97a6c) |
+| Thu, 07 May 2026 15:36:12 GMT | Levram - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/ba943b65275a) |
+| Thu, 07 May 2026 15:34:29 GMT | Recon-ng UI with AI Models - Next-Gen Recon Automation | Pentester Club | [Read More](https://medium.com/p/3f1c1795c6b8) |
+| Thu, 07 May 2026 15:16:48 GMT | 【威脅情資】MITRE ATT&CK v19 核心變革：從規避到破壞 | segalee | [Read More](https://medium.com/p/926ea29ab1fb) |
+| Thu, 07 May 2026 15:12:54 GMT | TryHackMe — AI/ML Security Threats - Room Walkthrough | aadarshkadam067 | [Read More](https://medium.com/p/9ef5deebb6e0) |
+| Thu, 07 May 2026 15:12:35 GMT | What AI Really Is and Why It Changes the Way We Think and Work | Jonathan Michael Gray | [Read More](https://medium.com/p/2f7316b96b89) |
+| Thu, 07 May 2026 15:12:09 GMT | AI and Jobs: Why Fears of Mass Unemployment May Be Overblown | Jonathan Michael Gray | [Read More](https://medium.com/p/9da786fb67c7) |
 | Thu, 07 May 2026 15:03:56 GMT | Why the Fortinet FC-10-W040F-928–02–12 Firewall Is a Smart Investment in 2026 | A | [Read More](https://medium.com/p/7f0aa0568e9f) |
 | Thu, 07 May 2026 14:55:18 GMT | OCI Security Zones and Security Advisor — Automated Cloud Governance Made Easy | Tokishi | [Read More](https://medium.com/p/8b25309e65d1) |
 | Thu, 07 May 2026 14:53:01 GMT | Why I Still Think Simple Websites Work Best | Ben Treder | [Read More](https://medium.com/p/1471779dc830) |
@@ -82,33 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 May 2026 09:37:22 GMT | Don’t Let Secrets Become Commits: Bringing Gitleaks Into the Developer Workflow | Nikolay Kuziev | [Read More](https://medium.com/p/9ea612865d80) |
 | Thu, 07 May 2026 09:31:58 GMT | Why Fixed Container Image Versions Matter: Lessons from the Trivy Supply Chain Attack | Nikolay Kuziev | [Read More](https://medium.com/p/6ce4b90ea410) |
 | Thu, 07 May 2026 09:28:22 GMT | AI vs AI: Cybersecurity’s Next Battlefield | Antonyrajvedamanickam | [Read More](https://medium.com/p/7c63fcff59ae) |
-| Thu, 07 May 2026 09:22:10 GMT | IAA: THE FOUNDATION OF SECURE ACCESS CONTROL | Amarachi Onyekachi | [Read More](https://medium.com/p/821959116db0) |
-| Thu, 07 May 2026 09:14:52 GMT | Antivirus Architecture Deep Dive: On-Demand vs. On-Access Malware Scanning | Dionisius Lucky | [Read More](https://medium.com/p/0ce9b4e178e5) |
-| Thu, 07 May 2026 09:00:36 GMT | Chapter 1 Review Questions - Security Controls (Security+ SY0–701 Domain 1) | Azhariqbal | [Read More](https://medium.com/p/f71122619771) |
-| Thu, 07 May 2026 08:51:55 GMT | Beyond Security: The Next Evolution of AI-Powered Video Analytics | Spotem | [Read More](https://medium.com/p/cdafbd2f11b5) |
-| Thu, 07 May 2026 08:48:21 GMT | Driving Operational Value Through Multi Agent Orchestration | Samyukta Roy | [Read More](https://medium.com/p/e7dbf9e51087) |
-| Thu, 07 May 2026 08:43:57 GMT | BUG-BOUNTY SERIES 11: Cross-Site Scripting (XSS). | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/f157b5303a44) |
-| Thu, 07 May 2026 08:42:37 GMT | Bug Bounty Hunting in 2026 | cyber-ninjaaa | [Read More](https://medium.com/p/27ec49d12e55) |
-| Thu, 07 May 2026 08:35:35 GMT | Your AI Agent Has More Privileges Than Your Senior Engineers. Here’s Why That Should Terrify You. | Okan Yıldız | [Read More](https://medium.com/p/575b51a42ecb) |
-| Thu, 07 May 2026 08:30:37 GMT | Deepseek-v4-pro + Hermes: Unauthorized Modification of Security Controls | @EddieOz | [Read More](https://medium.com/p/8f41af711ed4) |
-| Thu, 07 May 2026 08:25:12 GMT | Types of Security Controls in Cybersecurity - Security+ SY0–701 Domain 1 Chapter 1 | Azhariqbal | [Read More](https://medium.com/p/a1ff3a6c5e4f) |
-| Thu, 07 May 2026 08:22:18 GMT | Mastering the Modern Web: Why Elementor is the Ultimate Choice for WordPress Creators | Saleh Galiwala | [Read More](https://medium.com/p/8b6d204c5852) |
-| Thu, 07 May 2026 08:20:46 GMT | I Broke the Shell Too Early, but It Was One of the Bravest Things I Ever Did | EG | [Read More](https://medium.com/p/18e1fbc55949) |
-| Thu, 07 May 2026 08:15:57 GMT | 3 Networking Concepts Every Fresher Should Understand: Router, FTP, and VLAN | Shalu | [Read More](https://medium.com/p/2db4e1cbdb37) |
-| Thu, 07 May 2026 08:00:02 GMT | The Vulnerability I Keep Building (On Purpose). | ShadowForge | [Read More](https://medium.com/p/60930b2e58b9) |
-| Thu, 07 May 2026 07:51:24 GMT | AI Governance That Actually Works: A Practical Framework for Securing Data, Models, and Enterprise… | Sayan Raha | [Read More](https://medium.com/p/1ee8f6166d8d) |
-| Thu, 07 May 2026 07:48:49 GMT | SSRF: Making Servers Attack Themselves | Cybersphere Official | [Read More](https://medium.com/p/1675f77bdb39) |
-| Thu, 07 May 2026 07:47:11 GMT | Best Affordable Ethical Hacking Course in South East Delhi | EINITIAL24 | [Read More](https://medium.com/p/ab5ae2954a21) |
-| Thu, 07 May 2026 07:43:49 GMT | “Password Changed, Attacker Still Logged In: The Hidden Risk of Session Persistence” P4 Bug paid… | Sai Jayanth | [Read More](https://medium.com/p/d221291116c0) |
-| Thu, 07 May 2026 07:42:31 GMT | Best Artificial Intelligence training institute in Delhi | cyber security Updates | [Read More](https://medium.com/p/b46e97436acf) |
-| Thu, 07 May 2026 07:36:01 GMT | Dr. Strangelove Was Right. We Should Learn to Stop Worrying. | Brian Iselin | [Read More](https://medium.com/p/44ce533e1d93) |
-| Thu, 07 May 2026 07:32:03 GMT | The U.S. Government Tests Frontier AI models with the Safety Guards Turned Off | Marc Bara | [Read More](https://medium.com/p/ad9e19e63f09) |
-| Thu, 07 May 2026 07:31:50 GMT | Ransomware Çağı | Ali Yaşe | [Read More](https://medium.com/p/ca66a3ee0f15) |
-| Thu, 07 May 2026 07:28:32 GMT | Why Zero Trust is Becoming the Foundation of Modern Cybersecurity | Vyomamshetty | [Read More](https://medium.com/p/3d8212c11340) |
-| Thu, 07 May 2026 07:26:01 GMT | Comprehensive Security Solutions: Protecting Businesses with End-to-End Safety Measures | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/ab207ccdc775) |
-| Thu, 07 May 2026 07:22:06 GMT | Why Networking and Security Solutions Are Critical for Businesses in Dubai | Waveriserit | [Read More](https://medium.com/p/b125ba3ce520) |
-| Thu, 07 May 2026 07:18:07 GMT | 7 Warning Signs That Tells You When to Upgrade Your Hosting Plan | HostNOC | [Read More](https://medium.com/p/b16518d35045) |
-| Thu, 07 May 2026 07:12:01 GMT | Zero-Trust in Restricted Environments: A BFF Pattern for Secure Enterprise Apps | Sameer Choudhary | [Read More](https://medium.com/p/15a4e7c82ba4) |
-| Thu, 07 May 2026 07:11:08 GMT | (HTB)Using the Metasploit Framework | Karthik Yadav | [Read More](https://medium.com/p/e703d35ce1b9) |
-| Thu, 07 May 2026 07:10:51 GMT | Linux Commands Cheat Sheet: The Ultimate Beginner-to-Pro Guide | Nilesh Gautam | [Read More](https://medium.com/p/4c60bfd5e345) |
-| Thu, 07 May 2026 07:07:35 GMT | The Hidden Threat Inside Silicon: Understanding Hardware Trojans | Arpita Gupta | [Read More](https://medium.com/p/bbd35272a2f7) |
