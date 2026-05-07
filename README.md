@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 May 2026 20:32:10 GMT | The Watchers Are Getting Smarter: AI, Claude, and the Future of Threat Hunting in Datacenters | BytesAndBalance | [Read More](https://medium.com/p/28f6103853a9) |
+| Thu, 07 May 2026 20:31:44 GMT | LetsDefend — SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) — [WriteUp] | Pedronasserog | [Read More](https://medium.com/p/75018d1f5975) |
+| Thu, 07 May 2026 20:31:01 GMT | MCP Servers: The New AI Attack Surface | Michel Alan López | [Read More](https://medium.com/p/4bce197e5f26) |
+| Thu, 07 May 2026 20:30:01 GMT | Mastering Subdomain Enumeration: A Beginner’s Guide to Sublist3r | Geerhan Sentanu, CH, CHt. - Offensive Security | [Read More](https://medium.com/p/6d80b540d33b) |
+| Thu, 07 May 2026 20:26:01 GMT | Defensive Security Intro: TryHackMe Walkthrough by Arafat Ashrafi Talha | Arafat Ashrafi Talha | [Read More](https://medium.com/p/5761ec281947) |
+| Thu, 07 May 2026 20:23:11 GMT | OSCP Lab Dailies: THM — Attacktive Directory | MichaelLearns_ | [Read More](https://medium.com/p/4bafe139c26d) |
+| Thu, 07 May 2026 20:18:57 GMT | The Blueprint of Trust: How SPIFFE and SPIRE Solve the Identity Crisis in Modern Infrastructure | Kishor Kalivarapu | [Read More](https://medium.com/p/d6c02a613658) |
+| Thu, 07 May 2026 20:18:57 GMT | Digital Laundries and the Shadow Sovereignty of Cybercrime | 0trust0day | [Read More](https://medium.com/p/d5b5f4213686) |
+| Thu, 07 May 2026 20:12:09 GMT | Why Official-Looking Is Not the Same as Official | Sai Guptha Grandhi | [Read More](https://medium.com/p/9e991c863fd0) |
+| Thu, 07 May 2026 20:09:04 GMT | Attackers Now Hand Off Network Access in 22 Seconds. | Mike McNelis | [Read More](https://medium.com/p/5da9f25a670d) |
+| Thu, 07 May 2026 20:08:55 GMT | Cognitive Warfare Doctrines: NATO, Chinese and Russian Approaches | Ziya Gokalp | [Read More](https://medium.com/p/053590db851e) |
+| Thu, 07 May 2026 20:01:01 GMT | We’re Deploying AI Agents Everywhere… But Are We Losing Control? | Daniel Santiago | [Read More](https://medium.com/p/900d13181d6e) |
+| Thu, 07 May 2026 19:57:55 GMT | Why Cybersecurity Is the Safest Career in 2026 | Mubashir | [Read More](https://medium.com/p/41ee7dc765c7) |
 | Thu, 07 May 2026 19:03:02 GMT | Luggage With An Attitude | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/dd41edf2dd41) |
 | Thu, 07 May 2026 18:51:47 GMT | CyberDefenders — Tomcat Takeover Lab | Efe Özel | [Read More](https://medium.com/p/a532bacc7a5f) |
 | Thu, 07 May 2026 18:49:50 GMT | KB-VULN: 1 — Sızma Testi Raporu ve Yerel Yetki Yükseltme Analizi. | Efe Avcı | [Read More](https://medium.com/p/160636b44b0c) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 May 2026 12:17:00 GMT | Popular Darknet Drugs and What Online Visibility Actually Reveals | Tor BBB | [Read More](https://medium.com/p/38a671ef5dc2) |
 | Thu, 07 May 2026 12:08:34 GMT | AI & Cybersecurity: A Growing and Immediate Risk | Layla Al Mana | [Read More](https://medium.com/p/e8df857f07c5) |
 | Thu, 07 May 2026 12:01:59 GMT | From Cybersecurity to Digital Influence – My Journey Beyond the Screen | Ranjeethu | [Read More](https://medium.com/p/df37b7f04c5a) |
-| Thu, 07 May 2026 11:58:48 GMT | Mobile-Based Wireless Access Control: The Future of Workplace Security | Joven A Rodrigues | [Read More](https://medium.com/p/2638b341c1fb) |
-| Thu, 07 May 2026 11:56:52 GMT | Top Technology Trends Transforming Silicon Valley Today | Hachion | [Read More](https://medium.com/p/f8f9af6d76be) |
-| Thu, 07 May 2026 11:55:38 GMT | RDP vs. AnyDesk vs. | John from AweSun | [Read More](https://medium.com/p/aab287ae0a8f) |
-| Thu, 07 May 2026 11:48:42 GMT | The Silent Gap: Why Your “Smart Factory” is Still Stuck in 1999 | Shaileshsinghrajput | [Read More](https://medium.com/p/7100a9a09ea0) |
-| Thu, 07 May 2026 11:40:10 GMT | AI Has No Consequence, But Everything Is Becoming AI | Matt Wood | [Read More](https://medium.com/p/767c22f40554) |
-| Thu, 07 May 2026 11:38:14 GMT | Prompt Injection Is the SQL Injection of the AI Era, And Most Developers Are Ignoring It | Garvanand | [Read More](https://medium.com/p/28e390cfa4cf) |
-| Thu, 07 May 2026 11:35:06 GMT | Upgrade Your Career with In-Demand Cybersecurity Skills | Michael Antony | [Read More](https://medium.com/p/399baed5e54d) |
-| Thu, 07 May 2026 11:33:26 GMT | I Tested a 1950s Algorithm Against Modern Network Attacks. Here’s What Surprised Me. | Haitam Lazaar | [Read More](https://medium.com/p/9e4387d4dfb1) |
-| Thu, 07 May 2026 11:31:50 GMT | OWASP Top 10 #1: Broken Access Control — The Most Exploited Web Vulnerability in Modern… | Kanishkakhandelwal | [Read More](https://medium.com/p/20c29e6526a9) |
-| Thu, 07 May 2026 11:27:31 GMT | ️Full Account Takeover Through Unsafe Google Linking With Permanent Loss of Access for the Victim | 0xMo7areb | [Read More](https://medium.com/p/abbfae81538a) |
-| Thu, 07 May 2026 11:18:19 GMT | esynergy awarded UK’s Best Workplaces™ recognition! | esynergy | [Read More](https://medium.com/p/304f0391728d) |
-| Thu, 07 May 2026 11:11:55 GMT | BUG-BOUNTY SERIES 12: Cross-Site Request Forgery (CSRF). | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/8a83896d5824) |
-| Thu, 07 May 2026 11:01:01 GMT | CTF Basics: Understanding SQLi Blind Injection | Walter Moar | [Read More](https://medium.com/p/6c52e0490e9c) |
