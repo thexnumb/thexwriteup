@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 May 2026 23:14:41 GMT | The Beginner’s Guide to Threat Hunting That Doesn’t Waste Your Time | v3nomTech | [Read More](https://medium.com/p/d4083a616f35) |
+| Thu, 07 May 2026 23:11:00 GMT | Securing the Pipeline: Implementing Automated Security Scanning in Python CI/CD | ameera tawfik | [Read More](https://medium.com/p/d7ff35948b08) |
+| Thu, 07 May 2026 23:10:00 GMT | Move to Proton Without Breaking Your Workflow — A Practical Migration and Adoption Guide | Azazul | [Read More](https://medium.com/p/5ace4881c53f) |
+| Thu, 07 May 2026 22:43:48 GMT | GFW 深度解析 12：新一代TLS代理 | xnvlnasna | [Read More](https://medium.com/p/2f5489ee92a8) |
+| Thu, 07 May 2026 22:43:34 GMT | How I Passed the AWS Cloud Practitioner CLF-C02 Exam | Varshini Ramesh | [Read More](https://medium.com/p/7e46d8fe8940) |
+| Thu, 07 May 2026 22:43:26 GMT | GFW 深度解析 11：统计学特征识别 | xnvlnasna | [Read More](https://medium.com/p/6a85191820fe) |
+| Thu, 07 May 2026 22:41:04 GMT | What Getting My CISSP Taught Me About Building Secure AI Products | Adam McClarin | [Read More](https://medium.com/p/38e2d0fa514f) |
+| Thu, 07 May 2026 22:36:28 GMT | Realtime deepfake video calls are now a commodity product | Jonathan | [Read More](https://medium.com/p/3e4582aa52a9) |
+| Thu, 07 May 2026 22:31:00 GMT | Analyst’s corner digest — April 2026 / BA Edition | Igor Arkhipov | [Read More](https://medium.com/p/0376725a8d55) |
+| Thu, 07 May 2026 22:26:52 GMT | Discovering a SQL Injection Vulnerability During Security Research | Ankit Kumar Paswan | [Read More](https://medium.com/p/79e9b4f0bf4a) |
+| Thu, 07 May 2026 22:19:07 GMT | Reputational Value in AI Era | Alan W Silberberg | [Read More](https://medium.com/p/eca942d0592f) |
+| Thu, 07 May 2026 22:07:18 GMT | Top Security Challenges for Small Businesses in Houston | AlexBryn | [Read More](https://medium.com/p/f96141bca85d) |
 | Thu, 07 May 2026 21:48:08 GMT | The Arcium Use Case That Actually Matters to Me: Privacy-Preserving Medical Data Computation; | Felixmpc | [Read More](https://medium.com/p/701cd2213c5e) |
 | Thu, 07 May 2026 21:43:28 GMT | How I Gained Admin Access to a CS2 Skin Platform’s Dev Environment (and Why They Refused to Pay) | Diamorphine | [Read More](https://medium.com/p/320bf64639d0) |
 | Thu, 07 May 2026 21:27:31 GMT | The Future of DeFi Depends on Structured Trust | Hnuriany | [Read More](https://medium.com/p/fe976dd62091) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 May 2026 14:27:59 GMT | Beware of Fake Claude AI pro Websites: How Impersonation Scams Install Malware on Your PC | Nina | [Read More](https://medium.com/p/f1ac936a6f3a) |
 | Thu, 07 May 2026 14:22:14 GMT | The 21-Month Blind Spot: Why DCRat is still Evading Enterprise Defenses in 2026 | Macs-Hit | [Read More](https://medium.com/p/b79682925760) |
 | Thu, 07 May 2026 14:19:32 GMT | The RPC Delusion: Architecting Byzantine Fault Tolerance for Web3 Agents | lokii | [Read More](https://medium.com/p/151329061b05) |
-| Thu, 07 May 2026 14:11:46 GMT | picoCTF 2026 (Web Exploitation) | Dipu Basak | [Read More](https://medium.com/p/f121b3cf6ac1) |
-| Thu, 07 May 2026 14:01:02 GMT | That’s it. That’s the Update | Thoughts On The Edge Of Darkness | [Read More](https://medium.com/p/6548fefd53f0) |
-| Thu, 07 May 2026 13:43:05 GMT | How the Simulations AI Copilot Actually Works | Hannah Adam | [Read More](https://medium.com/p/a57fe816ffaa) |
-| Thu, 07 May 2026 13:37:52 GMT | SSH explained for self-hosters: what it is, why it matters, and how not to fear the terminal | Thomas Byern's Field Notes | [Read More](https://medium.com/p/49d6e8583a77) |
-| Thu, 07 May 2026 13:31:56 GMT | Heads Up: Cyber Essentials Plus (CE+) Got a Lot Less Forgiving | Leon Marks | [Read More](https://medium.com/p/7ab00c98b165) |
-| Thu, 07 May 2026 13:30:48 GMT | Locked Out of Your Own Safe? What a Professional Safe Locksmith Actually Does | Help | [Read More](https://medium.com/p/3f2191bd8257) |
-| Thu, 07 May 2026 13:22:55 GMT | Chrome’s 4GB AI Surprise Wasn’t Malware. That’s What Makes It Interesting. | Leon Marks | [Read More](https://medium.com/p/fa00a6023849) |
-| Thu, 07 May 2026 13:11:25 GMT | Russian Delegation in North Korea: Celebration of a Strong Partnership | European Values Center for Security Policy | [Read More](https://medium.com/p/f971af60db1b) |
-| Thu, 07 May 2026 13:10:50 GMT | 5 Samsung Tricks Every UAE Student Should Use in 2026 | Magedashraf | [Read More](https://medium.com/p/e21a091e3555) |
-| Thu, 07 May 2026 13:10:19 GMT | Anti Frida: Why Modern Android Apps Need Strong Runtime Protection | Neha Sharma | [Read More](https://medium.com/p/050a45c0200a) |
-| Thu, 07 May 2026 13:05:48 GMT | Network Services 2 — THM | Fadybasem - ( SilentN0va ) | [Read More](https://medium.com/p/4b624e278af1) |
-| Thu, 07 May 2026 13:01:42 GMT | Come Hide Private Data with Me - OpenAI’s Privacy Filter | Jason Jacobs, MSc. | [Read More](https://medium.com/p/08620d4b23cb) |
