@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 07 May 2026 19:03:02 GMT | Luggage With An Attitude | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/dd41edf2dd41) |
+| Thu, 07 May 2026 18:51:47 GMT | CyberDefenders — Tomcat Takeover Lab | Efe Özel | [Read More](https://medium.com/p/a532bacc7a5f) |
+| Thu, 07 May 2026 18:49:50 GMT | KB-VULN: 1 — Sızma Testi Raporu ve Yerel Yetki Yükseltme Analizi. | Efe Avcı | [Read More](https://medium.com/p/160636b44b0c) |
+| Thu, 07 May 2026 18:47:32 GMT | Bean Scope ? | oxcsec | [Read More](https://medium.com/p/1ed9e293e51d) |
+| Thu, 07 May 2026 18:47:25 GMT | Starting My SOC Analyst Level 1 Journey | Abel | [Read More](https://medium.com/p/dd57b975806d) |
+| Thu, 07 May 2026 18:45:11 GMT | He is starting to deliver the goods. | M.BROSH | [Read More](https://medium.com/p/2df14c3f4db4) |
+| Thu, 07 May 2026 18:44:45 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Frankday | [Read More](https://medium.com/p/61d3cf2e381a) |
+| Thu, 07 May 2026 18:36:01 GMT | What Directors Should Ask Management When Cyber Risk Is Green | Tyson Martin | [Read More](https://medium.com/p/de4447cf971f) |
+| Thu, 07 May 2026 18:24:15 GMT | I Still Have Imposter Syndrome. Here’s What I’m Doing Anyway. | Christopher Ham | [Read More](https://medium.com/p/723576d13c77) |
+| Thu, 07 May 2026 18:24:10 GMT | Basecamp Briefing: May 7, 2026 | Sherpa Intelligence | [Read More](https://medium.com/p/f27dd8ca7290) |
+| Thu, 07 May 2026 18:23:54 GMT | Why Securing Your AI Infrastructure Is Now Non-Negotiable And How to Actually Do It | Finn Moreau | [Read More](https://medium.com/p/05de925bcb69) |
+| Thu, 07 May 2026 18:23:37 GMT | L’Adjoint Numérique : IAg et Gros Bon Sens | Robert Laflamme | [Read More](https://medium.com/p/39ec7cdcb4ac) |
+| Thu, 07 May 2026 18:20:44 GMT | The Silent Threat in Your Stack: Understanding A02:2025 Security Misconfiguration | Relatable Tech | [Read More](https://medium.com/p/2f3e7762d0a9) |
+| Thu, 07 May 2026 18:18:43 GMT | Bleeding Llama: Why 300,000 Private AI Servers Are Blabbing Their Secrets | SOCFortress | [Read More](https://medium.com/p/0fff4e88571b) |
+| Thu, 07 May 2026 18:11:37 GMT | Scaling, Governance & the Bigger Picture | Vikrant Waghmode | [Read More](https://medium.com/p/cf13f23724a3) |
+| Thu, 07 May 2026 18:05:12 GMT | 5 CORE THINGS YOU SHOULD KNOW AS A STUDENT | Vicluxy | [Read More](https://medium.com/p/7411916d1e21) |
+| Thu, 07 May 2026 18:00:25 GMT | DeFi Doesn’t Remove Trust, It Engineers It | 0xWolf | [Read More](https://medium.com/p/85a8c3e02d79) |
+| Thu, 07 May 2026 17:55:47 GMT | DeFi Doesn’t Remove Trust It Engineers It | Thecryptoholic | [Read More](https://medium.com/p/9dfcb00ae24f) |
+| Thu, 07 May 2026 17:30:01 GMT | Why Businesses Are Switching to Face Recognition Attendance Systems in 2026 | FaceClok | [Read More](https://medium.com/p/62139a42047f) |
+| Thu, 07 May 2026 17:27:41 GMT | Find cheating spouse cell phone activities | Michael Parks | [Read More](https://medium.com/p/0c1865bca0d0) |
+| Thu, 07 May 2026 17:26:51 GMT | DeFi Doesn’t Remove Trust — It Rebuilds It Through Infrastructure | Johnbaxter | [Read More](https://medium.com/p/c5a63bb8165a) |
+| Thu, 07 May 2026 17:25:10 GMT | LOLBins: Binaries Laughing Out Loud | Aastha Thakker | [Read More](https://medium.com/p/9e742aa78652) |
+| Thu, 07 May 2026 17:23:39 GMT | The Day My Instagram Messages Stopped Feeling Private | Tech Toward | [Read More](https://medium.com/p/ce2cee71bff2) |
+| Thu, 07 May 2026 17:15:55 GMT | TryHackMe RootMe CTF Writeup — Beginner Friendly | Hash | [Read More](https://medium.com/p/88a09ce48995) |
 | Thu, 07 May 2026 17:01:01 GMT | Shall I? | N. Kay Kerr | [Read More](https://medium.com/p/febec40a10d3) |
 | Thu, 07 May 2026 17:01:01 GMT | Part 4 — Inside SwitchApp: The Hidden Control Engine Powering a Fake Galaxy S25 Ultra | C. Oscar Lawshea | [Read More](https://medium.com/p/42b2b604ecfa) |
 | Thu, 07 May 2026 16:53:18 GMT | I Built the “Silly Idea” - WinRT Screen Capture + OCR That Most EDR Products Miss | Mohammed Abuhassan | [Read More](https://medium.com/p/3334e0cb52ce) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 May 2026 11:18:19 GMT | esynergy awarded UK’s Best Workplaces™ recognition! | esynergy | [Read More](https://medium.com/p/304f0391728d) |
 | Thu, 07 May 2026 11:11:55 GMT | BUG-BOUNTY SERIES 12: Cross-Site Request Forgery (CSRF). | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/8a83896d5824) |
 | Thu, 07 May 2026 11:01:01 GMT | CTF Basics: Understanding SQLi Blind Injection | Walter Moar | [Read More](https://medium.com/p/6c52e0490e9c) |
-| Thu, 07 May 2026 11:00:30 GMT | DATA Thieves inside Google….. | THE GHOST FATHER | [Read More](https://medium.com/p/f2f35aa2bcd9) |
-| Thu, 07 May 2026 10:52:16 GMT | Cybersecurity Service Solutions for a Safer Digital Business Environment | SmartCLOUD Australia | [Read More](https://medium.com/p/0985ccb08a07) |
-| Thu, 07 May 2026 10:41:23 GMT | BMC Unified Service Experience: One Enterprise, One Platform | Dnyaneshwar Shelar | [Read More](https://medium.com/p/bea838be06c2) |
-| Thu, 07 May 2026 10:38:18 GMT | FinTech iOS App Security: A Complete Engineering Guide from TLS to the Secure Enclave | Mohammed Rokon Uddin | [Read More](https://medium.com/p/30fa89d55a85) |
-| Thu, 07 May 2026 10:35:37 GMT | Remove PDF Password Online Instantly - ToolSnak | Toolsnak - Free Tools | [Read More](https://medium.com/p/90c1028958f6) |
-| Thu, 07 May 2026 10:28:52 GMT | THE GHOST FATHER… Google’s Nice Try. ADDING DATA!!!! INSIDER FRAUD | THE GHOST FATHER | [Read More](https://medium.com/p/85fb31e32628) |
-| Thu, 07 May 2026 10:28:50 GMT | Protect Your PDF Files Instantly with PDF Password Protector - ToolSnak | Toolsnak - Free Tools | [Read More](https://medium.com/p/3d58004af2c1) |
-| Thu, 07 May 2026 10:26:39 GMT | The New Privacy Risk: Identity Is No Longer Collected. It Is Reconstructed. | Or Nizri | [Read More](https://medium.com/p/1229100ac824) |
-| Thu, 07 May 2026 10:23:21 GMT | How Corporates Can Save Up to 25% Costs with Integrated Facility Management Services in 2026. | Handiman Services | [Read More](https://medium.com/p/2076821a0437) |
-| Thu, 07 May 2026 10:21:57 GMT | Blue Team Incident Response ChecklistPalo Alto PAN-OS RCE Vulnerability (CVE-2026-0300) Under… | Radia | [Read More](https://medium.com/p/1baf702d808b) |
-| Thu, 07 May 2026 10:18:47 GMT | Quantum Advantage and Enterprise Strategy: A Professional Evaluation of Milestones in Cybersecurity… | Chungwon So | [Read More](https://medium.com/p/5f9f8053d40d) |
-| Thu, 07 May 2026 10:13:14 GMT | The Victory Day Parade is a Tell | Daniel McIntosh, PhD. | [Read More](https://medium.com/p/93764ab24cd1) |
-| Thu, 07 May 2026 10:12:12 GMT | Cybersecurity Threats & Ethical Hacking | kavindidewmininavodya | [Read More](https://medium.com/p/ca520639109d) |
-| Thu, 07 May 2026 10:07:17 GMT | How To Manage Passwords Without Losing Your Mind. | Antonis - founder of SoftwarePickr | [Read More](https://medium.com/p/95beb58c0ef5) |
-| Thu, 07 May 2026 10:04:51 GMT | When an AI Agent Calls About a Claim, Who Is It Really Representing? | Brianna N. Baynard | [Read More](https://medium.com/p/e021e12e4c1b) |
-| Thu, 07 May 2026 09:59:51 GMT | AI Governance in 2026 Is Not a Policy Problem. It’s an Architecture Failure | Suny Choudhary | [Read More](https://medium.com/p/f19f59d05361) |
-| Thu, 07 May 2026 09:50:16 GMT | How Infostealers Steal Google Accounts Without Passwords | InfosecTrain | [Read More](https://medium.com/p/3eeb2db8271b) |
-| Thu, 07 May 2026 09:47:09 GMT | OWASP API Security Top 10–1 - TryHackMe | Ryca | [Read More](https://medium.com/p/6e905abc8b17) |
-| Thu, 07 May 2026 09:46:10 GMT | Spring_Core | Aman Verma | [Read More](https://medium.com/p/16f0fa87acd4) |
-| Thu, 07 May 2026 09:44:31 GMT | Des interfaces web modifiées et des expérimentations frontend signalées par un développeur… | Marc Pierro | [Read More](https://medium.com/p/fd5cd7346882) |
-| Thu, 07 May 2026 09:41:15 GMT | The “Truth Decay” Economy: Why Your Origin Story is Now More Valuable Than Your Product | NorthPeak Technologies | [Read More](https://medium.com/p/8979d4003502) |
-| Thu, 07 May 2026 09:37:22 GMT | Don’t Let Secrets Become Commits: Bringing Gitleaks Into the Developer Workflow | Nikolay Kuziev | [Read More](https://medium.com/p/9ea612865d80) |
-| Thu, 07 May 2026 09:31:58 GMT | Why Fixed Container Image Versions Matter: Lessons from the Trivy Supply Chain Attack | Nikolay Kuziev | [Read More](https://medium.com/p/6ce4b90ea410) |
-| Thu, 07 May 2026 09:28:22 GMT | AI vs AI: Cybersecurity’s Next Battlefield | Antonyrajvedamanickam | [Read More](https://medium.com/p/7c63fcff59ae) |
