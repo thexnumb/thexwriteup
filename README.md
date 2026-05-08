@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 May 2026 20:52:08 GMT | Oracle AI Database 26ai — Patch 23.26.2.0.0: What DBAs Should Know | Piotr Praszkiewicz | [Read More](https://medium.com/p/061a1abf74ef) |
+| Fri, 08 May 2026 20:30:35 GMT | Number systems conversion for dummies | Tymoteusz Kołodziejczyk | [Read More](https://medium.com/p/3a3a1079885a) |
+| Fri, 08 May 2026 20:26:44 GMT | Understanding Your Cyber Risks | Financial Poise | [Read More](https://medium.com/p/edf370cb3d73) |
+| Fri, 08 May 2026 20:16:03 GMT | Investigating WinRAR Zero-Day CVE-2025–8088 Exploitation in a HackTheBox Sherlock DFIR Case… | Christopher Ryan | [Read More](https://medium.com/p/6d885c6cdc4e) |
+| Fri, 08 May 2026 20:01:01 GMT | The Future of Cybercrime Is Identity, Not Infrastructure | Sruthi Punugu | [Read More](https://medium.com/p/de91a8d60651) |
+| Fri, 08 May 2026 19:46:06 GMT | The Great Digital Recalibration | A. Thorne | [Read More](https://medium.com/p/d6329dda35bf) |
 | Fri, 08 May 2026 19:37:42 GMT | Chrome’s Silent AI Push | SOCFortress | [Read More](https://medium.com/p/de4d28daddf8) |
 | Fri, 08 May 2026 19:35:13 GMT | AWS KMS, HashiCorp Vault, OpenBao — and where Aegis-KMS fits in | Sharma B | [Read More](https://medium.com/p/fe93862cc742) |
 | Fri, 08 May 2026 19:33:16 GMT | Why your BAA template is probably non-compliant in 2026 | Joegellatly | [Read More](https://medium.com/p/dd3c25250c44) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 May 2026 13:31:00 GMT | Why Your Business Email Is the #1 Target for Hackers + How to Stay Safe | Cyber Aries | [Read More](https://medium.com/p/9ee8c37ac7ef) |
 | Fri, 08 May 2026 13:30:40 GMT | Why Cyber Risk Assessments Must Evolve Into Business Intelligence | Vasant Bhadauria | [Read More](https://medium.com/p/e016dd3db487) |
 | Fri, 08 May 2026 13:30:25 GMT | Introduction | David Gillick | [Read More](https://medium.com/p/c0e941d3b67a) |
-| Fri, 08 May 2026 13:28:20 GMT | 404 Seat Not Found — OSINT Challenge Writeup | Abdullah Abu Alasal - 7id0o | [Read More](https://medium.com/p/ce1bd7f41af6) |
-| Fri, 08 May 2026 13:25:35 GMT | How We Implemented Content Security Policy (CSP) in Our Laravel App | Shakil Alam | [Read More](https://medium.com/p/5693a0be91dc) |
-| Fri, 08 May 2026 13:22:02 GMT | Top Cybersecurity Courses to Upgrade Your Skills in 2026 | CyberBruhArmy | [Read More](https://medium.com/p/3319fe6f6979) |
-| Fri, 08 May 2026 13:14:22 GMT | Hire Hackers | Darksynthhacker | [Read More](https://medium.com/p/6f8c58b4f682) |
-| Fri, 08 May 2026 13:04:42 GMT | Lifecycle Operations & Metrics That Matter | Vikrant Waghmode | [Read More](https://medium.com/p/312ceb9a66d0) |
-| Fri, 08 May 2026 13:04:41 GMT | How Social Engineering Hacks Humans Instead of Systems | Hardik Patel | [Read More](https://medium.com/p/061c898f4773) |
