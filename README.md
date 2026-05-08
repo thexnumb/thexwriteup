@@ -12,6 +12,39 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 May 2026 11:52:44 GMT | Blockchain’de Güvenlik Neden Sadece Şifreleme Değildir? | Burakozten | [Read More](https://medium.com/p/70e838567f41) |
+| Fri, 08 May 2026 11:49:21 GMT | TryHackMe Walkthrough: Windows Command Line | Shubham Khirwadkar | [Read More](https://medium.com/p/e46104c769b5) |
+| Fri, 08 May 2026 11:47:47 GMT | Global Non-Human Identity Market to Reach USD 27.33 Billion by 2033 | Rajesh Varma | [Read More](https://medium.com/p/a01c0d70b809) |
+| Fri, 08 May 2026 11:46:45 GMT | DeFi Hacks Are Getting Smarter And Your Crypto Portfolio Could Pay the Price | F.uzoma | [Read More](https://medium.com/p/b82ff71647b3) |
+| Fri, 08 May 2026 11:38:22 GMT | Dark Web Links: Complete Guide to Privacy, Risks, and Safe Browsing | DeXpose | [Read More](https://medium.com/p/fd29b25677e8) |
+| Fri, 08 May 2026 11:35:54 GMT | Cloud Migration: A Step-by-Step Guide for MENA Businesses | Aligned Tech | [Read More](https://medium.com/p/b63f1aa3385e) |
+| Fri, 08 May 2026 11:31:00 GMT | I Trusted “root” Too Much — And That Was the Problem | Faruk Ahmed | [Read More](https://medium.com/p/3bca6e753c08) |
+| Fri, 08 May 2026 11:30:56 GMT | Why U.S. Enterprises Are Quietly Fueling the Residential Proxy Server Market Boom | Mohit Kumar | [Read More](https://medium.com/p/73a2d7dcf969) |
+| Fri, 08 May 2026 11:29:58 GMT | Maybe All We Need Is Someone Who’ll Hold An Umbrella For Us | Jas her thoughts | [Read More](https://medium.com/p/34cfdc0bb14a) |
+| Fri, 08 May 2026 11:28:08 GMT | Professional Digital Marketing Course in Lahore with Practical Training - Burraq Engineering… | burraqengineeringsolutions | [Read More](https://medium.com/p/e622afdd7520) |
+| Fri, 08 May 2026 11:27:29 GMT | Copy Fail: A Quick Fix and Analysis | Siddharth Avi Singh | [Read More](https://medium.com/p/5dae6fd03973) |
+| Fri, 08 May 2026 11:27:28 GMT | The 2026 Industrial Pivot: How India Became the Global Hub for High-Performance Refractories. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/2e731a90b588) |
+| Fri, 08 May 2026 11:26:14 GMT | How the EU AI Act Is Changing AI Compliance Globally | Darshanarajput | [Read More](https://medium.com/p/aa401476cb43) |
+| Fri, 08 May 2026 11:21:50 GMT | From Active Exploitation to State-Aligned Espionage: Threat Actors Intensify Operations Against… | Loginsoft | [Read More](https://medium.com/p/ac3f31b0c424) |
+| Fri, 08 May 2026 11:21:01 GMT | Will VPN stop working in Utah because of the new age verification law? | Alex Lim | [Read More](https://medium.com/p/ce3752dbc240) |
+| Fri, 08 May 2026 11:18:21 GMT | We Built Human-in-the-Loop Systems Without Modeling the Humans in the Loop | Mercy Alabi | [Read More](https://medium.com/p/3fd84f7bf4b3) |
+| Fri, 08 May 2026 11:13:59 GMT | Why Trump’s Blue-Lined Lincoln Memorial Pool Inspection Is Dominating Conversations on Security… | Narrative Watch | [Read More](https://medium.com/p/89ccdf10f168) |
+| Fri, 08 May 2026 11:12:58 GMT | Why Trump’s Blue-Lined Lincoln Memorial Pool Inspection Is Dominating Conversations on Security… | Maxwell JAMES | [Read More](https://medium.com/p/152af70d1774) |
+| Fri, 08 May 2026 11:04:27 GMT | I Built an AI-Driven Active Directory Attack Pipeline Using Claude Code + MCP — Here’s How It Works | Gurudeep Mallam | [Read More](https://medium.com/p/b3b1f8841770) |
+| Fri, 08 May 2026 11:01:01 GMT | The Airfare “Hack” That Doesn’t Exist | Paula Martini | [Read More](https://medium.com/p/7edb29ab4fb8) |
+| Fri, 08 May 2026 10:53:17 GMT | Email Verification Bypass via Verification Token Disclosure in API Response | Nimit Shyara | [Read More](https://medium.com/p/01e9c5f62a3f) |
+| Fri, 08 May 2026 10:45:29 GMT | Rolling With Cursor AI | Glimpse Salwan | [Read More](https://medium.com/p/ebcdef627f89) |
+| Fri, 08 May 2026 10:39:51 GMT | I let go of my ex, and the whole World opened up to me | Emma-Sofia Lempinen | [Read More](https://medium.com/p/26112fd6f0d2) |
+| Fri, 08 May 2026 10:35:33 GMT | Design and Implementation of an Automated DevOps Pipeline for an Inventory Management Application | Gaurav Sanjay Kute | [Read More](https://medium.com/p/07787cef22ad) |
+| Fri, 08 May 2026 10:27:49 GMT | Building a Modern SOC Automation Lab: Integrating Wazuh, TheHive, and Shuffle | Farras Fauzan | [Read More](https://medium.com/p/d9bc608f844a) |
+| Fri, 08 May 2026 10:26:57 GMT | Cross-site Scripting (XSS) in detail.. | Keshri nandan | [Read More](https://medium.com/p/1e40d2bf0730) |
+| Fri, 08 May 2026 10:23:34 GMT | Making Maven Builds Security-Aware: AppSec Checks Without CI/CD Drift | Nikolay Kuziev | [Read More](https://medium.com/p/300c2da3a3f3) |
+| Fri, 08 May 2026 10:15:38 GMT | Best Security Guard Services in Delhi NCR for Trusted Safety & Protection | Rohan Mehta | [Read More](https://medium.com/p/a755c98497b5) |
+| Fri, 08 May 2026 10:12:44 GMT | Fake AI Installers: When “Installing Claude” Turns Into Running Malware | Nikolay Kuziev | [Read More](https://medium.com/p/0ef0df21f47b) |
+| Fri, 08 May 2026 10:03:07 GMT | Never Generate a Password Online Again (Until You Read This) | Shakeel Skl | [Read More](https://medium.com/p/3f2e8f4ed09a) |
+| Fri, 08 May 2026 10:01:01 GMT | I Broke Into My Own Server 3 Different Ways →Here’s Exactly How I Did It | Ezechi Jeremiah Chigozie | [Read More](https://medium.com/p/a199c1b06727) |
+| Fri, 08 May 2026 10:01:01 GMT | Yes, you need an IT BIA | Sherilyn Burris | [Read More](https://medium.com/p/61976bea3f13) |
+| Fri, 08 May 2026 09:52:18 GMT | When Bug Bounty Hunting Hit Me Back: How Losing $500 Led Me to a Web Cache Poisoning Bug. | kjulius | [Read More](https://medium.com/p/36fb2f196b9a) |
 | Fri, 08 May 2026 09:49:17 GMT | Why Every Networking Student Should Understand Cryptography | Shalu | [Read More](https://medium.com/p/a7bdf1b1809b) |
 | Fri, 08 May 2026 09:47:48 GMT | Rate Limit Bypass — Turbo Intruder Scripts | Subhakreet | [Read More](https://medium.com/p/5a8e71fc9a48) |
 | Fri, 08 May 2026 09:47:13 GMT | Red Team Fundamentals - TryHackMe | Ryca | [Read More](https://medium.com/p/ce978840dcbd) |
@@ -80,36 +113,3 @@ You Just Don’t Know It Yet. | Super MIA | [Read More](https://medium.com/p/673
 | Fri, 08 May 2026 05:57:39 GMT | What Attackers Can Learn About You Using Only Public Data | Hania Khan | [Read More](https://medium.com/p/aa7dbc57c507) |
 | Fri, 08 May 2026 05:56:05 GMT | The WORST Hack of 2026 | Shahzaib | [Read More](https://medium.com/p/617d67969b1d) |
 | Fri, 08 May 2026 05:37:56 GMT | Hunting Advanced Persistent Threats (APT): 13 Years Inside the World of Elite Cyber Adversaries | Vahid Ali CyberSecurity | [Read More](https://medium.com/p/262e5155eac1) |
-| Fri, 08 May 2026 05:26:55 GMT | Mutual TLS: When the Client Certificate Becomes Your Worst Enemy | ghrez1ns | [Read More](https://medium.com/p/055bb1d0f447) |
-| Fri, 08 May 2026 05:00:03 GMT | API Security — Rate limiting, input validation, and OWASP API Top 10 | Reuben Lim | [Read More](https://medium.com/p/f3107dbd441d) |
-| Fri, 08 May 2026 04:59:33 GMT | How Smart Technology Is Transforming Modern Business Growth | Sarbajira Software | [Read More](https://medium.com/p/61907ff90543) |
-| Fri, 08 May 2026 04:58:23 GMT | Write-Up: BugForge Weekly Challenge — FurHire with SSRF | Athiwat Tiprasaharn | [Read More](https://medium.com/p/896ee437ee3e) |
-| Fri, 08 May 2026 04:58:00 GMT | Driving Digital Transformation Through Innovation and Smart Technology | Rohitcdel | [Read More](https://medium.com/p/4d6fc80df2e8) |
-| Fri, 08 May 2026 04:56:41 GMT | 5 Dangerous Password Habits You Should Avoid | Hameedduke | [Read More](https://medium.com/p/69448ae6e29e) |
-| Fri, 08 May 2026 04:56:15 GMT | KAN iT Above and Beyond: Navigating the 2026 Mandate for Organized and Secured Phone Setup Across… | Hiren Brahmbhatt | [Read More](https://medium.com/p/f3926b318f15) |
-| Fri, 08 May 2026 04:44:53 GMT | Panduan Expert Tools Katana dalam Penetration Testing | Ahmat Prayoga Sembiring | [Read More](https://medium.com/p/7d5a1d719623) |
-| Fri, 08 May 2026 04:41:39 GMT | De WhatsApp à l’Intelligence Artificielle : L’incroyable ascension de DjoumAf, la pépite Ivoirienne… | DjoumAf DjoumAf | [Read More](https://medium.com/p/6cc5ff330bd0) |
-| Fri, 08 May 2026 04:38:23 GMT | The Plan That Didn’t Happen – And the Journey That Did | Rushikesh Deshmukh | [Read More](https://medium.com/p/0b34f001ff74) |
-| Fri, 08 May 2026 04:33:14 GMT | Palo Alto PAN-OS Zero-Day CVE-2026–0300 — State-Sponsored Attackers Have Had Root Access to Your… | Sai kiran | [Read More](https://medium.com/p/fabac920f5a0) |
-| Fri, 08 May 2026 04:31:05 GMT | AI Agents Are the New Attack Surface — And No One is Ready | Cybersphere Official | [Read More](https://medium.com/p/7e011ce0b91c) |
-| Fri, 08 May 2026 04:30:47 GMT | ⚠️ Parameter Tampering Attacks Explained With Examples | ExploitHunter | [Read More](https://medium.com/p/9a3a163cca70) |
-| Fri, 08 May 2026 04:23:50 GMT | Directory Brute Forcing: Finding Hidden Files and Folders | ExploitHunter | [Read More](https://medium.com/p/40f02d15dae7) |
-| Fri, 08 May 2026 04:17:33 GMT | I Spent a Week Breaking Every CSRF Defense on PortSwigger. Here’s What I Learned. | Nilanjan Chowdhury | [Read More](https://medium.com/p/15fc5d91be4c) |
-| Fri, 08 May 2026 04:09:28 GMT | Somehow We’ve Made Love Feel Unsafe. | Sibongile Natalie | [Read More](https://medium.com/p/39ee167f310d) |
-| Fri, 08 May 2026 04:03:13 GMT | DevSecOps: The Foundation for Scalable Enterprise AI Adoption | Cygnus Consulting | [Read More](https://medium.com/p/fc75380022fb) |
-| Fri, 08 May 2026 03:55:20 GMT | Build vs. Buy Software in 2026: The Decision Framework Every Business Needs | Kaopiz Global | [Read More](https://medium.com/p/196ccd6103c4) |
-| Fri, 08 May 2026 03:50:11 GMT | Financial Cybersecurity: Protecting Your Wealth in a Digital World | Sanjeevupadhyay | [Read More](https://medium.com/p/1a09b95a1f15) |
-| Fri, 08 May 2026 03:49:41 GMT | Beyond the Firewall: Mastering Modern Cybersecurity Threats for Business Resilience in 2026 | Sanjaya Kumar | [Read More](https://medium.com/p/22ed1ad08631) |
-| Fri, 08 May 2026 03:49:12 GMT | MCP: Fifteen CVEs, Two Protocols, One Missing AI Architectural Layer ‍ | Clay House | [Read More](https://medium.com/p/daa16b216ad2) |
-| Fri, 08 May 2026 03:48:27 GMT | Understanding AKS, ACR & AcrPull for AZ-500 (Made Simple) | Amal Udayanga Basnayake | [Read More](https://medium.com/p/8e8b4e16fffe) |
-| Fri, 08 May 2026 03:46:03 GMT | Building `a2a-mesh`: A Security-Hardened Runtime for Multi-Agent AI Systems | Osman Aslan | [Read More](https://medium.com/p/c91e3ee9504a) |
-| Fri, 08 May 2026 03:40:47 GMT | CyberDefenders - WebStrike Write-Up | Avin Robles | [Read More](https://medium.com/p/dd8d5d269995) |
-| Fri, 08 May 2026 03:39:12 GMT | I Did a Full Security Audit on My Own App. Here is Every Scary Thing I Found. | DevLogic - Engineering Thinking | [Read More](https://medium.com/p/56346baae017) |
-| Fri, 08 May 2026 03:31:00 GMT | A Single Phone Number Can Reveal More Than You Think | 5hr33.j11 | [Read More](https://medium.com/p/96c18a90c040) |
-| Fri, 08 May 2026 03:30:23 GMT | The Great Canvas Compromise: What Happens When Bots Take Over Collaborative Pixel Art | Biplove Yadav | [Read More](https://medium.com/p/5ceeb461f49e) |
-| Fri, 08 May 2026 03:20:57 GMT | Validation over Visibility: My APT29 Lateral Movement Hypothesis | Manish Rawat | [Read More](https://medium.com/p/71d90f46953d) |
-| Fri, 08 May 2026 03:14:02 GMT | Slort - ProvingGrounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/257953e71c8e) |
-| Fri, 08 May 2026 02:31:00 GMT | The Invisible Lock: Hunting a Broken Request Signing Mechanism in a Mobile App | Blue_eye | [Read More](https://medium.com/p/e19ed0bd3fe7) |
-| Fri, 08 May 2026 02:19:12 GMT | When Our Digital Infrastructure Goes Offline: Lessons from the Global Canvas Breach | Shamila azeem | [Read More](https://medium.com/p/d03c9bc6a21a) |
-| Fri, 08 May 2026 02:15:53 GMT | Memory Forensics Report — BlackEnergy Incident Analysis | Ahmed Jackson | [Read More](https://medium.com/p/e3ef39423652) |
-| Fri, 08 May 2026 01:58:10 GMT | API 2 : Broken Authentication | Vaibhav | [Read More](https://medium.com/p/8b97cf7b9b35) |
