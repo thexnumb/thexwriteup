@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 May 2026 17:52:43 GMT | Hunting ClickFix Win + X Variants | Manuel Arrieta | [Read More](https://medium.com/p/ff06e4c62bd9) |
+| Fri, 08 May 2026 17:51:09 GMT | Canvas Hacked: The Cyberattack That Shut Down Classrooms Across the Globe. | Ddm atiq | [Read More](https://medium.com/p/37334d30682b) |
+| Fri, 08 May 2026 17:48:24 GMT | Copy Fail: The Linux Vulnerability That Shook the Open-Source World | Ali Mansoor | [Read More](https://medium.com/p/7e3e41f22e14) |
+| Fri, 08 May 2026 17:44:51 GMT | Linux Host ile AS-REP Roasting Attack ve Splunk ile Detection | ozan bozkurt | [Read More](https://medium.com/p/510a31a33465) |
+| Fri, 08 May 2026 17:36:00 GMT | What I Learned by Staring at a Dog Dick for Five Hours | 30 Degree Shift | [Read More](https://medium.com/p/c6b5572bf02c) |
+| Fri, 08 May 2026 17:34:40 GMT | From a UPI ID to Channel Access: The Day I Preached the Importance of Cyber Security |  | [Read More](https://medium.com/p/c8527bfa948f) |
+| Fri, 08 May 2026 17:34:29 GMT | The Nginx “Ghost Route”: How Unknown Subdomains Silently Reach Your Backend (And How to Kill It) | Iman Rameshni | [Read More](https://medium.com/p/46a8b988356b) |
+| Fri, 08 May 2026 17:28:33 GMT | Beyond Money Laundering: Institutional Counterintelligence Analysis (ICA) of the Danske Bank… | Andrey Spiridonov | [Read More](https://medium.com/p/15e6e1dbde21) |
+| Fri, 08 May 2026 17:24:17 GMT | CVE-2026–31431: Copy-Fail Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/9b38890bb8f3) |
+| Fri, 08 May 2026 17:23:49 GMT | Network Layouts, Switches, Routers & Subnetting | Youssef Adebouz | [Read More](https://medium.com/p/3151e324a47e) |
+| Fri, 08 May 2026 17:18:11 GMT | How to investigate a Critical Alert on Wazuh using Claude and Wazuh MCP | João Henrique Pataki Bernardes | [Read More](https://medium.com/p/084d8d417d04) |
+| Fri, 08 May 2026 17:16:21 GMT | AI Data Attacks: Label Attacks (Part 1) | Muaaz | [Read More](https://medium.com/p/a38677c5f3f1) |
+| Fri, 08 May 2026 17:14:52 GMT | #  I Tracked Your Location Without Your Permission
+## How a Misconfigured CORS Header Turned a… | Dhilip Kumar | [Read More](https://medium.com/p/4146ef76a48a) |
+| Fri, 08 May 2026 17:09:10 GMT | The Flipper Zero Black Book: Useful, Strange, and Slightly Concerning Payloads | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0d3c95d7f59d) |
+| Fri, 08 May 2026 17:00:59 GMT | The Dark Web Market for “Synthetic Identities” | Read The World | [Read More](https://medium.com/p/52151922de95) |
+| Fri, 08 May 2026 16:54:24 GMT | I Turned Obsidian Into a Live SOC Dashboard | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/decb0ff48f04) |
+| Fri, 08 May 2026 16:50:26 GMT | HTB Writeup: Cap — Easy, Linux | 0xCyb3rPh4nt0m | [Read More](https://medium.com/p/01169c5786cc) |
+| Fri, 08 May 2026 16:48:14 GMT | Why 80% of Kafka Clusters Would Fail a SOC 2 Audit Tomorrow | Jay Bilgaye | [Read More](https://medium.com/p/ce4cc8740f8b) |
+| Fri, 08 May 2026 16:43:38 GMT | Strangers Are Watching Inside Your Home Right Now. You Just Don’t Know It Yet. | Jazz Cyber Shield | [Read More](https://medium.com/p/406a13146793) |
 | Fri, 08 May 2026 16:42:05 GMT | Run Claude Code From a USB Drive on Any PC (Free)— Zero Installation, Zero Traces. | Krithick | [Read More](https://medium.com/p/2945dd3bec3d) |
 | Fri, 08 May 2026 16:38:04 GMT | Security, Affordability, Resilience: The New Frame for Industrial Investment | Ricardo Angel | [Read More](https://medium.com/p/48f39042f8b0) |
 | Fri, 08 May 2026 16:36:41 GMT | A Hacker Named “Tadashi” Just Turned Your Smart TV Into a Weapon — And He Left the Door Wide Open | Jazz Cyber Shield | [Read More](https://medium.com/p/4bdcec6aa0c9) |
@@ -93,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 May 2026 12:00:14 GMT | The Future Black Market: Human Biological Data | Shaila Thakur | [Read More](https://medium.com/p/bcfd75242bda) |
 | Fri, 08 May 2026 11:52:44 GMT | Blockchain’de Güvenlik Neden Sadece Şifreleme Değildir? | Burakozten | [Read More](https://medium.com/p/70e838567f41) |
 | Fri, 08 May 2026 11:49:21 GMT | TryHackMe Walkthrough: Windows Command Line | Shubham Khirwadkar | [Read More](https://medium.com/p/e46104c769b5) |
-| Fri, 08 May 2026 11:47:47 GMT | Global Non-Human Identity Market to Reach USD 27.33 Billion by 2033 | Rajesh Varma | [Read More](https://medium.com/p/a01c0d70b809) |
-| Fri, 08 May 2026 11:46:45 GMT | DeFi Hacks Are Getting Smarter And Your Crypto Portfolio Could Pay the Price | F.uzoma | [Read More](https://medium.com/p/b82ff71647b3) |
-| Fri, 08 May 2026 11:38:22 GMT | Dark Web Links: Complete Guide to Privacy, Risks, and Safe Browsing | DeXpose | [Read More](https://medium.com/p/fd29b25677e8) |
-| Fri, 08 May 2026 11:35:54 GMT | Cloud Migration: A Step-by-Step Guide for MENA Businesses | Aligned Tech | [Read More](https://medium.com/p/b63f1aa3385e) |
-| Fri, 08 May 2026 11:31:00 GMT | I Trusted “root” Too Much — And That Was the Problem | Faruk Ahmed | [Read More](https://medium.com/p/3bca6e753c08) |
-| Fri, 08 May 2026 11:30:56 GMT | Why U.S. Enterprises Are Quietly Fueling the Residential Proxy Server Market Boom | Mohit Kumar | [Read More](https://medium.com/p/73a2d7dcf969) |
-| Fri, 08 May 2026 11:29:58 GMT | Maybe All We Need Is Someone Who’ll Hold An Umbrella For Us | Jas her thoughts | [Read More](https://medium.com/p/34cfdc0bb14a) |
-| Fri, 08 May 2026 11:28:08 GMT | Professional Digital Marketing Course in Lahore with Practical Training - Burraq Engineering… | burraqengineeringsolutions | [Read More](https://medium.com/p/e622afdd7520) |
-| Fri, 08 May 2026 11:27:29 GMT | Copy Fail: A Quick Fix and Analysis | Siddharth Avi Singh | [Read More](https://medium.com/p/5dae6fd03973) |
-| Fri, 08 May 2026 11:27:28 GMT | The 2026 Industrial Pivot: How India Became the Global Hub for High-Performance Refractories. | Trlkrosaki Refractories Limited | [Read More](https://medium.com/p/2e731a90b588) |
-| Fri, 08 May 2026 11:26:14 GMT | How the EU AI Act Is Changing AI Compliance Globally | Darshanarajput | [Read More](https://medium.com/p/aa401476cb43) |
-| Fri, 08 May 2026 11:21:50 GMT | From Active Exploitation to State-Aligned Espionage: Threat Actors Intensify Operations Against… | Loginsoft | [Read More](https://medium.com/p/ac3f31b0c424) |
-| Fri, 08 May 2026 11:21:01 GMT | Will VPN stop working in Utah because of the new age verification law? | Alex Lim | [Read More](https://medium.com/p/ce3752dbc240) |
-| Fri, 08 May 2026 11:18:21 GMT | We Built Human-in-the-Loop Systems Without Modeling the Humans in the Loop | Mercy Alabi | [Read More](https://medium.com/p/3fd84f7bf4b3) |
-| Fri, 08 May 2026 11:13:59 GMT | Why Trump’s Blue-Lined Lincoln Memorial Pool Inspection Is Dominating Conversations on Security… | Narrative Watch | [Read More](https://medium.com/p/89ccdf10f168) |
-| Fri, 08 May 2026 11:12:58 GMT | Why Trump’s Blue-Lined Lincoln Memorial Pool Inspection Is Dominating Conversations on Security… | Maxwell JAMES | [Read More](https://medium.com/p/152af70d1774) |
-| Fri, 08 May 2026 11:04:27 GMT | I Built an AI-Driven Active Directory Attack Pipeline Using Claude Code + MCP — Here’s How It Works | Gurudeep Mallam | [Read More](https://medium.com/p/b3b1f8841770) |
-| Fri, 08 May 2026 11:01:01 GMT | The Airfare “Hack” That Doesn’t Exist | Paula Martini | [Read More](https://medium.com/p/7edb29ab4fb8) |
-| Fri, 08 May 2026 10:53:17 GMT | Email Verification Bypass via Verification Token Disclosure in API Response | Nimit Shyara | [Read More](https://medium.com/p/01e9c5f62a3f) |
