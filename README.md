@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 May 2026 16:42:05 GMT | Run Claude Code From a USB Drive on Any PC (Free)— Zero Installation, Zero Traces. | Krithick | [Read More](https://medium.com/p/2945dd3bec3d) |
+| Fri, 08 May 2026 16:38:04 GMT | Security, Affordability, Resilience: The New Frame for Industrial Investment | Ricardo Angel | [Read More](https://medium.com/p/48f39042f8b0) |
+| Fri, 08 May 2026 16:36:41 GMT | A Hacker Named “Tadashi” Just Turned Your Smart TV Into a Weapon — And He Left the Door Wide Open | Jazz Cyber Shield | [Read More](https://medium.com/p/4bdcec6aa0c9) |
+| Fri, 08 May 2026 16:33:53 GMT | TryHackMe - CVE-2026–31431: Copy-Fail - WriteUp | Axoloth | [Read More](https://medium.com/p/fe15bf000724) |
+| Fri, 08 May 2026 16:30:05 GMT | Resubmit: How Canva was hacked and returned operations | Avin Robles | [Read More](https://medium.com/p/82d267a44866) |
+| Fri, 08 May 2026 16:29:18 GMT | Helping Businesses and Home Users Solve Technology Problems Remotely | Globaltechport | [Read More](https://medium.com/p/b332c68990e7) |
+| Fri, 08 May 2026 16:25:30 GMT | ZiChatBot Malware Campaign Highlights Rising Abuse of Trusted APIs in Modern Cyberattacks | Jas | [Read More](https://medium.com/p/b4d2e4159880) |
+| Fri, 08 May 2026 16:22:26 GMT | The Agentic AI Reckoning: Why Governance Can’t Wait | Francois-Xavier Jeannet | [Read More](https://medium.com/p/90bdbf38e96e) |
+| Fri, 08 May 2026 16:19:08 GMT | AI System Reconnaissance - TryHackMe | Binish Alamgir | [Read More](https://medium.com/p/8ba385933639) |
+| Fri, 08 May 2026 16:17:55 GMT | Beyond Great-Power Chauvinism: A Survival Blueprint for Global Security and Ecology | Бахромжон Суванов | [Read More](https://medium.com/p/93a8199cdd89) |
+| Fri, 08 May 2026 16:15:07 GMT | Agent 365 - Your Security & Compliance Controls | Mechanics Team | [Read More](https://medium.com/p/b3a9c93e9317) |
+| Fri, 08 May 2026 16:09:15 GMT | We Drafted an Open Standard for AI Agent Identity Before NIST Mandates It | Atef Ataya | [Read More](https://medium.com/p/bcff8a7924b5) |
+| Fri, 08 May 2026 15:52:44 GMT | VPN для отельного Wi-Fi: что проверить до подключения | SapsanVPN | [Read More](https://medium.com/p/b3de97846076) |
+| Fri, 08 May 2026 15:49:40 GMT | Use of GIS in Weather Forecasting | Rushal Tembhare | [Read More](https://medium.com/p/dfe2659eab9b) |
+| Fri, 08 May 2026 15:46:00 GMT | Construction Site Blind Spots: Where Security Risks Often Begin | Lucas Barett | [Read More](https://medium.com/p/54919264b5df) |
+| Fri, 08 May 2026 15:39:47 GMT | You Don’t Recover a Flat Forest. You Rebuild It. | The Man Behind The Line | [Read More](https://medium.com/p/73e30442afa6) |
+| Fri, 08 May 2026 15:28:54 GMT | Why Do Schools Still Trust Big EdTech? | Bad Privacy Blog by Claudiu Popa | [Read More](https://medium.com/p/611e16798109) |
+| Fri, 08 May 2026 15:24:44 GMT | How Computers Actually Work: Everything the CompTIA A+ Wants You to Know | Don Rivera Diaz | [Read More](https://medium.com/p/1df79b533180) |
 | Fri, 08 May 2026 15:22:13 GMT | eJPT Post-Exploitation CTF 1 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/fc9945398af6) |
 | Fri, 08 May 2026 15:20:13 GMT | Canvas Hacked: What Happened to the School Platform? | Baby Fixer | [Read More](https://medium.com/p/4efed79b1537) |
 | Fri, 08 May 2026 15:17:10 GMT | How I Hit the Top 1.5% of a 17,000-Developer Challenge: The “Industrial Readiness” Playbook | Manasvi Agarkar | [Read More](https://medium.com/p/394756e8114b) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 May 2026 11:04:27 GMT | I Built an AI-Driven Active Directory Attack Pipeline Using Claude Code + MCP — Here’s How It Works | Gurudeep Mallam | [Read More](https://medium.com/p/b3b1f8841770) |
 | Fri, 08 May 2026 11:01:01 GMT | The Airfare “Hack” That Doesn’t Exist | Paula Martini | [Read More](https://medium.com/p/7edb29ab4fb8) |
 | Fri, 08 May 2026 10:53:17 GMT | Email Verification Bypass via Verification Token Disclosure in API Response | Nimit Shyara | [Read More](https://medium.com/p/01e9c5f62a3f) |
-| Fri, 08 May 2026 10:45:29 GMT | Rolling With Cursor AI | Glimpse Salwan | [Read More](https://medium.com/p/ebcdef627f89) |
-| Fri, 08 May 2026 10:39:51 GMT | I let go of my ex, and the whole World opened up to me | Emma-Sofia Lempinen | [Read More](https://medium.com/p/26112fd6f0d2) |
-| Fri, 08 May 2026 10:35:33 GMT | Design and Implementation of an Automated DevOps Pipeline for an Inventory Management Application | Gaurav Sanjay Kute | [Read More](https://medium.com/p/07787cef22ad) |
-| Fri, 08 May 2026 10:27:49 GMT | Building a Modern SOC Automation Lab: Integrating Wazuh, TheHive, and Shuffle | Farras Fauzan | [Read More](https://medium.com/p/d9bc608f844a) |
-| Fri, 08 May 2026 10:26:57 GMT | Cross-site Scripting (XSS) in detail.. | Keshri nandan | [Read More](https://medium.com/p/1e40d2bf0730) |
-| Fri, 08 May 2026 10:23:34 GMT | Making Maven Builds Security-Aware: AppSec Checks Without CI/CD Drift | Nikolay Kuziev | [Read More](https://medium.com/p/300c2da3a3f3) |
-| Fri, 08 May 2026 10:15:38 GMT | Best Security Guard Services in Delhi NCR for Trusted Safety & Protection | Rohan Mehta | [Read More](https://medium.com/p/a755c98497b5) |
-| Fri, 08 May 2026 10:12:44 GMT | Fake AI Installers: When “Installing Claude” Turns Into Running Malware | Nikolay Kuziev | [Read More](https://medium.com/p/0ef0df21f47b) |
-| Fri, 08 May 2026 10:03:07 GMT | Never Generate a Password Online Again (Until You Read This) | Shakeel Skl | [Read More](https://medium.com/p/3f2e8f4ed09a) |
-| Fri, 08 May 2026 10:01:01 GMT | I Broke Into My Own Server 3 Different Ways →Here’s Exactly How I Did It | Ezechi Jeremiah Chigozie | [Read More](https://medium.com/p/a199c1b06727) |
-| Fri, 08 May 2026 10:01:01 GMT | Yes, you need an IT BIA | Sherilyn Burris | [Read More](https://medium.com/p/61976bea3f13) |
-| Fri, 08 May 2026 09:52:18 GMT | When Bug Bounty Hunting Hit Me Back: How Losing $500 Led Me to a Web Cache Poisoning Bug. | kjulius | [Read More](https://medium.com/p/36fb2f196b9a) |
-| Fri, 08 May 2026 09:49:17 GMT | Why Every Networking Student Should Understand Cryptography | Shalu | [Read More](https://medium.com/p/a7bdf1b1809b) |
-| Fri, 08 May 2026 09:47:48 GMT | Rate Limit Bypass — Turbo Intruder Scripts | Subhakreet | [Read More](https://medium.com/p/5a8e71fc9a48) |
-| Fri, 08 May 2026 09:47:13 GMT | Red Team Fundamentals - TryHackMe | Ryca | [Read More](https://medium.com/p/ce978840dcbd) |
-| Fri, 08 May 2026 09:44:05 GMT | I Tried to Teach an AI to Read Dangerous Code. Here’s What I Learned. | Chamara Vishwajith | [Read More](https://medium.com/p/6e2ed02c92f9) |
-| Fri, 08 May 2026 09:36:40 GMT | Enhancing Vigilance with Professional Mobile Security Patrols | KSR Facilities Ltd | [Read More](https://medium.com/p/9bf552149343) |
-| Fri, 08 May 2026 09:34:03 GMT | The Biggest Lie in Bug Bounty Is “Just Stay Consistent” | Arfa | [Read More](https://medium.com/p/32f59c70734e) |
