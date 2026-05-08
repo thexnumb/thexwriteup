@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 May 2026 01:13:02 GMT | JetBrains Lab Write-Up - By BnHany | BnHany | [Read More](https://medium.com/p/ff7d8ab2d07c) |
+| Fri, 08 May 2026 01:05:48 GMT | UTM for Startups: Why Small Teams Need Unified Security | CacheGuard Technologies | [Read More](https://medium.com/p/4a6c6b4dd33b) |
+| Fri, 08 May 2026 01:04:58 GMT | Breaking Authentication Through Password Change Logic Flaws — PortSwigger Lab Walkthrough | Cybernerddd | [Read More](https://medium.com/p/ae0cd4bd6873) |
+| Fri, 08 May 2026 00:56:59 GMT | AWS Elastic Beanstalk Pentesting with AWS CLI | Abdiraxman Omar | [Read More](https://medium.com/p/eb533ff78ce5) |
+| Fri, 08 May 2026 00:41:44 GMT | Why Resilient Systems Matter More Than Trustless Narratives | Grass 3934 | [Read More](https://medium.com/p/c60601d9309b) |
+| Fri, 08 May 2026 00:39:28 GMT | Open Source Firewall for Small Business: What You Actually Need to Know | CacheGuard Technologies | [Read More](https://medium.com/p/6d94137c8897) |
+| Fri, 08 May 2026 00:36:54 GMT | Advancing the Project of Secure CI/CD pipeline -3 | The Commoness | [Read More](https://medium.com/p/f0543a327242) |
+| Fri, 08 May 2026 00:36:29 GMT | How CrowdStrike Outran SentinelOne While Running the Same Race | David SEHYEON Baek | [Read More](https://medium.com/p/e1493c078455) |
+| Fri, 08 May 2026 00:20:01 GMT | More than a Ping Sweep: A Pentester’s Enumeration Methodology | Andrew Chacon | [Read More](https://medium.com/p/858054315f75) |
+| Fri, 08 May 2026 00:03:10 GMT | Zero Trust Security Architecture: A Practical Guide for Enterprise CTOs in 2026Zero Trust has been… | Jws | [Read More](https://medium.com/p/8813d1445553) |
+| Fri, 08 May 2026 00:00:39 GMT | Your AIDE Init Locked. Your Nessus Server Is Why. | Root & Secure | [Read More](https://medium.com/p/ae3f532c1ac1) |
+| Thu, 07 May 2026 23:57:53 GMT | DiskFiltration — TryHackMe Writeup | empise | [Read More](https://medium.com/p/656b5d0cbc02) |
+| Thu, 07 May 2026 23:40:39 GMT | A Critical IDOR That Allowed Me to Delete Any User Account | mrx_w_ | [Read More](https://medium.com/p/3812722ba0ad) |
 | Thu, 07 May 2026 23:14:41 GMT | The Beginner’s Guide to Threat Hunting That Doesn’t Waste Your Time | v3nomTech | [Read More](https://medium.com/p/d4083a616f35) |
 | Thu, 07 May 2026 23:11:00 GMT | Securing the Pipeline: Implementing Automated Security Scanning in Python CI/CD | ameera tawfik | [Read More](https://medium.com/p/d7ff35948b08) |
 | Thu, 07 May 2026 23:10:00 GMT | Move to Proton Without Breaking Your Workflow — A Practical Migration and Adoption Guide | Azazul | [Read More](https://medium.com/p/5ace4881c53f) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 May 2026 15:12:35 GMT | What AI Really Is and Why It Changes the Way We Think and Work | Jonathan Michael Gray | [Read More](https://medium.com/p/2f7316b96b89) |
 | Thu, 07 May 2026 15:12:09 GMT | AI and Jobs: Why Fears of Mass Unemployment May Be Overblown | Jonathan Michael Gray | [Read More](https://medium.com/p/9da786fb67c7) |
 | Thu, 07 May 2026 15:03:56 GMT | Why the Fortinet FC-10-W040F-928–02–12 Firewall Is a Smart Investment in 2026 | A | [Read More](https://medium.com/p/7f0aa0568e9f) |
-| Thu, 07 May 2026 14:55:18 GMT | OCI Security Zones and Security Advisor — Automated Cloud Governance Made Easy | Tokishi | [Read More](https://medium.com/p/8b25309e65d1) |
-| Thu, 07 May 2026 14:53:01 GMT | Why I Still Think Simple Websites Work Best | Ben Treder | [Read More](https://medium.com/p/1471779dc830) |
-| Thu, 07 May 2026 14:51:00 GMT | YAZILIMCI MI? İŞLETMECİ Mİ? | Çankaya Yönetim Bilişim Sistemleri Topluluğu | [Read More](https://medium.com/p/8ff9f4b48ed3) |
-| Thu, 07 May 2026 14:47:59 GMT | Auth Flows Every Backend Engineer Must Know (Part 2 of 6): OAuth 2.0 | Biztricz | [Read More](https://medium.com/p/a1ab97c3d105) |
-| Thu, 07 May 2026 14:47:24 GMT | The Overlooked Human Security Threat Sitting Right Behind You | Greenwaldliron | [Read More](https://medium.com/p/f5fafbc01cc3) |
-| Thu, 07 May 2026 14:46:01 GMT | [FORECAST] Device-Bound Sessions Are Coming. Defaults Are the Hard Part. | Wes Young | [Read More](https://medium.com/p/9427e42d68fc) |
-| Thu, 07 May 2026 14:40:11 GMT | The "Living Off the Land" Phish: Deconstructing a Trusted Domain Hijack | The Digital Sidekick | [Read More](https://medium.com/p/1ddea144108e) |
-| Thu, 07 May 2026 14:40:11 GMT | Fake Claude AI Installers Become New Malware Delivery Weapon | Jas | [Read More](https://medium.com/p/94e57c1af928) |
-| Thu, 07 May 2026 14:37:41 GMT | The Attacks Are Working Because You Are Defending the Wrong Layer | Jonny Rivera | [Read More](https://medium.com/p/e3bced74908e) |
-| Thu, 07 May 2026 14:33:10 GMT | AI Red Team Testing Is Becoming Essential for Enterprise AI Security | Scottcmcmahan | [Read More](https://medium.com/p/5f3afff8a09c) |
-| Thu, 07 May 2026 14:27:59 GMT | Beware of Fake Claude AI pro Websites: How Impersonation Scams Install Malware on Your PC | Nina | [Read More](https://medium.com/p/f1ac936a6f3a) |
-| Thu, 07 May 2026 14:22:14 GMT | The 21-Month Blind Spot: Why DCRat is still Evading Enterprise Defenses in 2026 | Macs-Hit | [Read More](https://medium.com/p/b79682925760) |
-| Thu, 07 May 2026 14:19:32 GMT | The RPC Delusion: Architecting Byzantine Fault Tolerance for Web3 Agents | lokii | [Read More](https://medium.com/p/151329061b05) |
