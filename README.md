@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 May 2026 04:31:05 GMT | AI Agents Are the New Attack Surface — And No One is Ready | Cybersphere Official | [Read More](https://medium.com/p/7e011ce0b91c) |
+| Fri, 08 May 2026 04:30:47 GMT | ⚠️ Parameter Tampering Attacks Explained With Examples | ExploitHunter | [Read More](https://medium.com/p/9a3a163cca70) |
+| Fri, 08 May 2026 04:23:50 GMT | Directory Brute Forcing: Finding Hidden Files and Folders | ExploitHunter | [Read More](https://medium.com/p/40f02d15dae7) |
+| Fri, 08 May 2026 04:17:33 GMT | I Spent a Week Breaking Every CSRF Defense on PortSwigger. Here’s What I Learned. | Nilanjan Chowdhury | [Read More](https://medium.com/p/15fc5d91be4c) |
+| Fri, 08 May 2026 04:09:28 GMT | Somehow We’ve Made Love Feel Unsafe. | Sibongile Natalie | [Read More](https://medium.com/p/39ee167f310d) |
+| Fri, 08 May 2026 04:03:13 GMT | DevSecOps: The Foundation for Scalable Enterprise AI Adoption | Cygnus Consulting | [Read More](https://medium.com/p/fc75380022fb) |
+| Fri, 08 May 2026 03:55:20 GMT | Build vs. Buy Software in 2026: The Decision Framework Every Business Needs | Kaopiz Global | [Read More](https://medium.com/p/196ccd6103c4) |
+| Fri, 08 May 2026 03:50:11 GMT | Financial Cybersecurity: Protecting Your Wealth in a Digital World | Sanjeevupadhyay | [Read More](https://medium.com/p/1a09b95a1f15) |
+| Fri, 08 May 2026 03:49:41 GMT | Beyond the Firewall: Mastering Modern Cybersecurity Threats for Business Resilience in 2026 | Sanjaya Kumar | [Read More](https://medium.com/p/22ed1ad08631) |
+| Fri, 08 May 2026 03:49:12 GMT | MCP: Fifteen CVEs, Two Protocols, One Missing AI Architectural Layer ‍ | Clay House | [Read More](https://medium.com/p/daa16b216ad2) |
+| Fri, 08 May 2026 03:48:27 GMT | Understanding AKS, ACR & AcrPull for AZ-500 (Made Simple) | Amal Udayanga Basnayake | [Read More](https://medium.com/p/8e8b4e16fffe) |
+| Fri, 08 May 2026 03:46:03 GMT | Building `a2a-mesh`: A Security-Hardened Runtime for Multi-Agent AI Systems | Osman Aslan | [Read More](https://medium.com/p/c91e3ee9504a) |
+| Fri, 08 May 2026 03:40:47 GMT | CyberDefenders - WebStrike Write-Up | Avin Robles | [Read More](https://medium.com/p/dd8d5d269995) |
+| Fri, 08 May 2026 03:39:12 GMT | I Did a Full Security Audit on My Own App. Here is Every Scary Thing I Found. | DevLogic - Engineering Thinking | [Read More](https://medium.com/p/56346baae017) |
+| Fri, 08 May 2026 03:31:00 GMT | A Single Phone Number Can Reveal More Than You Think | 5hr33.j11 | [Read More](https://medium.com/p/96c18a90c040) |
+| Fri, 08 May 2026 03:30:23 GMT | The Great Canvas Compromise: What Happens When Bots Take Over Collaborative Pixel Art | Biplove Yadav | [Read More](https://medium.com/p/5ceeb461f49e) |
+| Fri, 08 May 2026 03:20:57 GMT | Validation over Visibility: My APT29 Lateral Movement Hypothesis | Manish Rawat | [Read More](https://medium.com/p/71d90f46953d) |
+| Fri, 08 May 2026 03:14:02 GMT | Slort - ProvingGrounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/257953e71c8e) |
+| Fri, 08 May 2026 02:31:00 GMT | The Invisible Lock: Hunting a Broken Request Signing Mechanism in a Mobile App | Blue_eye | [Read More](https://medium.com/p/e19ed0bd3fe7) |
+| Fri, 08 May 2026 02:19:12 GMT | When Our Digital Infrastructure Goes Offline: Lessons from the Global Canvas Breach | Shamila azeem | [Read More](https://medium.com/p/d03c9bc6a21a) |
+| Fri, 08 May 2026 02:15:53 GMT | Memory Forensics Report — BlackEnergy Incident Analysis | Ahmed Jackson | [Read More](https://medium.com/p/e3ef39423652) |
+| Fri, 08 May 2026 01:58:10 GMT | API 2 : Broken Authentication | Vaibhav | [Read More](https://medium.com/p/8b97cf7b9b35) |
+| Fri, 08 May 2026 01:24:15 GMT | خلل في التحكم بالوصول / IDOR في تدفق دعوة المجموعة | Ahmed Atef (0xMintsX) | [Read More](https://medium.com/p/61c693fec30e) |
 | Fri, 08 May 2026 01:13:02 GMT | JetBrains Lab Write-Up - By BnHany | BnHany | [Read More](https://medium.com/p/ff7d8ab2d07c) |
 | Fri, 08 May 2026 01:05:48 GMT | UTM for Startups: Why Small Teams Need Unified Security | CacheGuard Technologies | [Read More](https://medium.com/p/4a6c6b4dd33b) |
 | Fri, 08 May 2026 01:04:58 GMT | Breaking Authentication Through Password Change Logic Flaws — PortSwigger Lab Walkthrough | Cybernerddd | [Read More](https://medium.com/p/ae0cd4bd6873) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 May 2026 16:45:15 GMT | Why Log Management is Critical for Cybersecurity | Digital Defense | [Read More](https://medium.com/p/cce7b1a78e6c) |
 | Thu, 07 May 2026 16:39:17 GMT | Host Header Injection — How I Manipulated Session Cookie Domains and Got Paid $100 | Krithick | [Read More](https://medium.com/p/bccd5784d9d6) |
 | Thu, 07 May 2026 16:38:29 GMT | A 17-Year-Old Hacked 7 Million People to Buy Pokémon Cards. AI Wrote the Code. | Jazz Cyber Shield | [Read More](https://medium.com/p/216d63a6b5e6) |
-| Thu, 07 May 2026 16:37:28 GMT | After I Cried, I Slept Better — Here’s What I Learned | Maria Kristiani | [Read More](https://medium.com/p/df6ace47c16d) |
-| Thu, 07 May 2026 16:30:13 GMT | The Governance Gap That AI Agents Are About to Expose | Alberto Zuin | [Read More](https://medium.com/p/a922b4b197d1) |
-| Thu, 07 May 2026 16:23:19 GMT | ️ Building Arachne: A Black-Box Web Security Scanner (From Scratch) | Oderinde Toluwanimi | [Read More](https://medium.com/p/e90a78366eb3) |
-| Thu, 07 May 2026 16:19:04 GMT | The First AI-Native Malware Won’t Look Like Malware | Hemu | [Read More](https://medium.com/p/d44393878e61) |
-| Thu, 07 May 2026 16:11:52 GMT | TryHackMe — The Greenholt Phish Writeup | Hitesh kumar | [Read More](https://medium.com/p/4ce73d3166f8) |
-| Thu, 07 May 2026 16:01:01 GMT | The Most Powerful Forces in Latin America Are Not States | Carl-Henry Cadet | [Read More](https://medium.com/p/4b82bc6e9639) |
-| Thu, 07 May 2026 15:59:21 GMT | I scanned 2,600 Public MCP Servers. The Supply Chain Is Rough. | Truongbuinh | [Read More](https://medium.com/p/4072a867ec76) |
-| Thu, 07 May 2026 15:59:11 GMT | CTF Solution: Information Disclosure and Privilege Escalation on the Machine | Osman Erdem | [Read More](https://medium.com/p/9c40a933a0ea) |
-| Thu, 07 May 2026 15:56:10 GMT | No clients. No problem. Here’s how to walk into any security role like you already own it. | h@shtalk | [Read More](https://medium.com/p/b0db51f5a8d4) |
-| Thu, 07 May 2026 15:56:01 GMT | My AI Agent Tried to DROP My Production Table at 2 AM | echo lee | [Read More](https://medium.com/p/2119b7e3a25d) |
-| Thu, 07 May 2026 15:49:18 GMT | How a Simple Security Misconfiguration Led to Full Account Takeover | Shaunak Natu | [Read More](https://medium.com/p/40f2fdd27da6) |
-| Thu, 07 May 2026 15:49:11 GMT | Build a Private Instagram Profile Lookup Tool Using Python | Ankit Kumar Paswan | [Read More](https://medium.com/p/a05391393582) |
-| Thu, 07 May 2026 15:45:06 GMT | “U up?” The Digital Ghost | Grace Obisesan | [Read More](https://medium.com/p/bbeff836e491) |
-| Thu, 07 May 2026 15:42:57 GMT | How I Bypassed Apple’s Security to Clone Any Podcast (and Got HOF). | Anas NadY | [Read More](https://medium.com/p/b4c878d540fd) |
-| Thu, 07 May 2026 15:41:26 GMT | Analysis: budget-report.pdf.exe (Trojan.Infostealer) | Siva Guru K | [Read More](https://medium.com/p/0383bec5ce99) |
-| Thu, 07 May 2026 15:37:54 GMT | AI: Love It… or Leave It? | Barry Silverstein | [Read More](https://medium.com/p/6fc467b97a6c) |
-| Thu, 07 May 2026 15:36:12 GMT | Levram - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/ba943b65275a) |
-| Thu, 07 May 2026 15:34:29 GMT | Recon-ng UI with AI Models - Next-Gen Recon Automation | Pentester Club | [Read More](https://medium.com/p/3f1c1795c6b8) |
-| Thu, 07 May 2026 15:16:48 GMT | 【威脅情資】MITRE ATT&CK v19 核心變革：從規避到破壞 | segalee | [Read More](https://medium.com/p/926ea29ab1fb) |
-| Thu, 07 May 2026 15:12:54 GMT | TryHackMe — AI/ML Security Threats - Room Walkthrough | aadarshkadam067 | [Read More](https://medium.com/p/9ef5deebb6e0) |
-| Thu, 07 May 2026 15:12:35 GMT | What AI Really Is and Why It Changes the Way We Think and Work | Jonathan Michael Gray | [Read More](https://medium.com/p/2f7316b96b89) |
-| Thu, 07 May 2026 15:12:09 GMT | AI and Jobs: Why Fears of Mass Unemployment May Be Overblown | Jonathan Michael Gray | [Read More](https://medium.com/p/9da786fb67c7) |
-| Thu, 07 May 2026 15:03:56 GMT | Why the Fortinet FC-10-W040F-928–02–12 Firewall Is a Smart Investment in 2026 | A | [Read More](https://medium.com/p/7f0aa0568e9f) |
