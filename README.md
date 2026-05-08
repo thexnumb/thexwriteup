@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 May 2026 22:18:35 GMT | OSCP Dailies: THM — Attacktive Directory — Day 2 | MichaelLearns_ | [Read More](https://medium.com/p/847c4c4128b5) |
+| Fri, 08 May 2026 22:12:35 GMT | Write-up — Blind SSRF with Shellshock Exploitation | dudscyber | [Read More](https://medium.com/p/a72e8ee810d5) |
+| Fri, 08 May 2026 22:05:53 GMT | Forensik Micro SD Card Menggunakan Kali Linux — Panduan Lengkap Step-by-Step | Jamalayajakuja | [Read More](https://medium.com/p/b87285134ac0) |
+| Fri, 08 May 2026 22:01:34 GMT | AI Is Breaking the Two Rules That Kept the Internet Safe — And No One Has a Replacement Yet | Andy Nguyen | [Read More](https://medium.com/p/f0d2eabc1aee) |
+| Fri, 08 May 2026 21:58:15 GMT | Security Guards Abbotsford: Reliable Protection with Eagle Eye Security | Digipromedia | [Read More](https://medium.com/p/8dfee1ba3df6) |
+| Fri, 08 May 2026 21:55:07 GMT | Building a Real-Time SOC Threat Detection System with Python | Rona Ega Kharisma | [Read More](https://medium.com/p/dab406b728d4) |
+| Fri, 08 May 2026 21:55:01 GMT | Why Healthcare Cybersecurity Is Becoming a National Security Issue | Caleb DeBari | [Read More](https://medium.com/p/a4b7718448ba) |
+| Fri, 08 May 2026 21:53:57 GMT | The Growing Threat of AI-Driven Cyberattacks in 2026 | Caleb DeBari | [Read More](https://medium.com/p/36d0ef59f56c) |
+| Fri, 08 May 2026 21:51:27 GMT | The Governance Gap That TeamPCP Exposed Is Still Open | ActiveState | [Read More](https://medium.com/p/dad720b13c1b) |
+| Fri, 08 May 2026 21:41:53 GMT | Using AI for Variant Hunting in Google OSS Projects | Asjad Butt | [Read More](https://medium.com/p/74c40fe3bee8) |
+| Fri, 08 May 2026 21:35:29 GMT | The AI That Woke Up Before You Did | Zoom In AI | [Read More](https://medium.com/p/e4ebca526ac1) |
+| Fri, 08 May 2026 21:32:21 GMT | KodeKloud’s AI Made Me Angrier Than Linux | Crystalcascade14 | [Read More](https://medium.com/p/ddae2ed6eb07) |
+| Fri, 08 May 2026 21:30:39 GMT | Sokudo: Admin Takeover via Predictable Auth Token | Dennis Sev7n | [Read More](https://medium.com/p/83803f6a95ae) |
+| Fri, 08 May 2026 21:01:16 GMT | I Built the OWASP ZAP File Upload Addon. Here’s Why VulnerableApp-Facade Had to Exist First. | Karan Preet | [Read More](https://medium.com/p/52c4f2226ed3) |
 | Fri, 08 May 2026 20:52:08 GMT | Oracle AI Database 26ai — Patch 23.26.2.0.0: What DBAs Should Know | Piotr Praszkiewicz | [Read More](https://medium.com/p/061a1abf74ef) |
 | Fri, 08 May 2026 20:30:35 GMT | Number systems conversion for dummies | Tymoteusz Kołodziejczyk | [Read More](https://medium.com/p/3a3a1079885a) |
 | Fri, 08 May 2026 20:26:44 GMT | Understanding Your Cyber Risks | Financial Poise | [Read More](https://medium.com/p/edf370cb3d73) |
@@ -39,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 May 2026 18:23:14 GMT | Building VaultLock: A DIY Hardware Tripwire to Secure Your Workstation | polen tunc | [Read More](https://medium.com/p/186b9c2cba7e) |
 | Fri, 08 May 2026 18:05:04 GMT | CVE-2026–31431: Copy-Fail (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/011ee1c13869) |
 | Fri, 08 May 2026 17:52:43 GMT | Hunting ClickFix Win + X Variants | Manuel Arrieta | [Read More](https://medium.com/p/ff06e4c62bd9) |
+| Fri, 08 May 2026 17:51:46 GMT | Exploiting ProFTPD 1.3.5 Remote Code Execution (CVE-2015–3306) — Hackviser Walkthrough | Manohar T H | [Read More](https://medium.com/p/dfd43a24b73a) |
 | Fri, 08 May 2026 17:51:09 GMT | Canvas Hacked: The Cyberattack That Shut Down Classrooms Across the Globe. | Ddm atiq | [Read More](https://medium.com/p/37334d30682b) |
 | Fri, 08 May 2026 17:48:24 GMT | Copy Fail: The Linux Vulnerability That Shook the Open-Source World | Ali Mansoor | [Read More](https://medium.com/p/7e3e41f22e14) |
 | Fri, 08 May 2026 17:44:51 GMT | Linux Host ile AS-REP Roasting Attack ve Splunk ile Detection | ozan bozkurt | [Read More](https://medium.com/p/510a31a33465) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 May 2026 14:26:12 GMT | Undo : PICO CTF writeup | Suyash Gargote | [Read More](https://medium.com/p/bece762e4f11) |
 | Fri, 08 May 2026 14:22:45 GMT | Ethical Hacking Training near Sangam Vihar Bus Depot | EINITIAL24 | [Read More](https://medium.com/p/cbe6be1c810a) |
 | Fri, 08 May 2026 14:20:03 GMT | Phishing Has Evolved. So Should We. | Lawal Abdulrahman Oluwaseun | [Read More](https://medium.com/p/65160b32842c) |
-| Fri, 08 May 2026 14:17:48 GMT | The Sandbox Oracle: Decompiling EVM Reverts to Architect Self-Healing Web3 Agents | lokii | [Read More](https://medium.com/p/0f95794a28c9) |
-| Fri, 08 May 2026 14:08:53 GMT | Manual CTI vs. AI-Assisted CTI: A Step-by-Step Clock Comparison | Andrey Pautov | [Read More](https://medium.com/p/ee08325203fc) |
-| Fri, 08 May 2026 14:07:58 GMT | Crossing trust boundaries with on-behalf-of token exchange | Heeki Park | [Read More](https://medium.com/p/664b62bc84dd) |
-| Fri, 08 May 2026 13:56:38 GMT | OnSystemShellDredd — Anonymous FTP RSA Key Leak + SUID cpulimit to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/bace1a43e49f) |
-| Fri, 08 May 2026 13:51:00 GMT | Why AI Coding Tools Are Reshaping Productivity in 2026 | Xwtempsolutions | [Read More](https://medium.com/p/da1025f92391) |
-| Fri, 08 May 2026 13:49:50 GMT | I’ve Reported Bugs Before. Here’s What I Wish Someone Had Told Me First. | blacklovertech | [Read More](https://medium.com/p/8576abcc2980) |
-| Fri, 08 May 2026 13:47:31 GMT | The Great De-Googling Crisis | Learn With Hatty | [Read More](https://medium.com/p/6523bdd86c86) |
-| Fri, 08 May 2026 13:39:15 GMT | The 9-Second Production Wipe: An AI Agent Incident | Tugan Atila | [Read More](https://medium.com/p/fdca0c3fffbe) |
-| Fri, 08 May 2026 13:39:00 GMT | DLL Hijacking: The Silent Execution Vector | XploitHunter | [Read More](https://medium.com/p/ffe3052aa87e) |
-| Fri, 08 May 2026 13:39:00 GMT | Security. Proactive, Not Reactive | Charanteja Gunisetty | [Read More](https://medium.com/p/5673a6415903) |
-| Fri, 08 May 2026 13:37:39 GMT | What Engineers Must Protect Inside Organizations (Beyond Passwords) | Hardik Patel | [Read More](https://medium.com/p/aeb6412ee31a) |
-| Fri, 08 May 2026 13:31:00 GMT | $1,150 Logic Bug: Orphaning Workflow Cards via Invalid User Assignment | Abhi Sharma | [Read More](https://medium.com/p/8feae18b44eb) |
-| Fri, 08 May 2026 13:31:00 GMT | Why Your Business Email Is the #1 Target for Hackers + How to Stay Safe | Cyber Aries | [Read More](https://medium.com/p/9ee8c37ac7ef) |
-| Fri, 08 May 2026 13:30:40 GMT | Why Cyber Risk Assessments Must Evolve Into Business Intelligence | Vasant Bhadauria | [Read More](https://medium.com/p/e016dd3db487) |
-| Fri, 08 May 2026 13:30:25 GMT | Introduction | David Gillick | [Read More](https://medium.com/p/c0e941d3b67a) |
