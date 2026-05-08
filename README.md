@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 May 2026 23:16:00 GMT | Microsoft Why Microsoft Intune Matters in Modern Cybersecurity | Vyomamshetty | [Read More](https://medium.com/p/6debf7f841e0) |
+| Fri, 08 May 2026 23:08:52 GMT | Why Field-Level OCR Breaks Down in Real Expense Reimbursement Workflows | CY Ong | [Read More](https://medium.com/p/ef2f9a43a1f7) |
+| Fri, 08 May 2026 23:05:57 GMT | ✍️ STT #4 — Project Glasswing Is a Race And the Starting Gun Already Fired | TheGr8Val | [Read More](https://medium.com/p/6e66aca2fc1a) |
+| Fri, 08 May 2026 22:44:21 GMT | GFW 深度解析 14：猫鼠游戏 | xnvlnasna | [Read More](https://medium.com/p/60f00d87b49a) |
+| Fri, 08 May 2026 22:43:52 GMT | GFW 深度解析 13：Hysteria | xnvlnasna | [Read More](https://medium.com/p/4c8cacfc71ee) |
+| Fri, 08 May 2026 22:41:00 GMT | The Ethics Engine Behind Every IT Crisis Decision | Ryan Y. Kurr | [Read More](https://medium.com/p/c1b164316595) |
+| Fri, 08 May 2026 22:29:21 GMT | How Families Use Security Systems for Child Safety | AlexBryn | [Read More](https://medium.com/p/b466793e0d49) |
+| Fri, 08 May 2026 22:25:00 GMT | The Three-Way Handshake In Action On Wireshark | Michael Orozco-Fletcher | [Read More](https://medium.com/p/2acfca46f8c9) |
+| Fri, 08 May 2026 22:24:58 GMT | Network Scanning, Enumeration & Password Cracking Labs | Abdulsamedrafiatu | [Read More](https://medium.com/p/8b7fa2ca8da6) |
 | Fri, 08 May 2026 22:18:35 GMT | OSCP Dailies: THM — Attacktive Directory — Day 2 | MichaelLearns_ | [Read More](https://medium.com/p/847c4c4128b5) |
 | Fri, 08 May 2026 22:12:35 GMT | Write-up — Blind SSRF with Shellshock Exploitation | dudscyber | [Read More](https://medium.com/p/a72e8ee810d5) |
 | Fri, 08 May 2026 22:05:53 GMT | Forensik Micro SD Card Menggunakan Kali Linux — Panduan Lengkap Step-by-Step | Jamalayajakuja | [Read More](https://medium.com/p/b87285134ac0) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 May 2026 14:58:05 GMT | They Trusted AI… and It Deleted Their Entire Database in Seconds | Dverma | [Read More](https://medium.com/p/ced9f668119f) |
 | Fri, 08 May 2026 14:57:22 GMT | Inside the Architecture of Advanced macOS Threats: Why Modern Intrusions Avoid the Disk | Funcybot | [Read More](https://medium.com/p/868bcd29713f) |
 | Fri, 08 May 2026 14:50:55 GMT | Verifying Hardware-Backed Keystore on a Custom Android Build | James Cullimore | [Read More](https://medium.com/p/b029c72477fd) |
-| Fri, 08 May 2026 14:50:20 GMT | Designing Against the Gap: Tokens as Infrastructure | Angel Tomala-Reyes | [Read More](https://medium.com/p/d4edd3198fa0) |
-| Fri, 08 May 2026 14:45:39 GMT | AI Changed Cyber Security Forever — And Most People Still Don’t Realize It | SOVANNARO | [Read More](https://medium.com/p/35537752ca7a) |
-| Fri, 08 May 2026 14:43:48 GMT | Building a Deterministic Active Directory Attack Correlation Engine | Sameer Shah | [Read More](https://medium.com/p/324bda0824ba) |
-| Fri, 08 May 2026 14:41:23 GMT | Securing Your Web App: 5 Simple Steps. How to use ZAP? What is OWASP? | Muhammad Asad Naeem | [Read More](https://medium.com/p/7b7d6fe9e376) |
-| Fri, 08 May 2026 14:31:00 GMT | What is JWT: The Card in Your Pocket | Muditha Jayweera | [Read More](https://medium.com/p/1ac394b17777) |
-| Fri, 08 May 2026 14:27:17 GMT | Zero-Day to SYSTEM (RCE): Escaping AWS ECS Containers via OS Command Injection CVE-2026–7461 | Sachin Patil | [Read More](https://medium.com/p/3d44f5f367e8) |
-| Fri, 08 May 2026 14:26:12 GMT | Undo : PICO CTF writeup | Suyash Gargote | [Read More](https://medium.com/p/bece762e4f11) |
-| Fri, 08 May 2026 14:22:45 GMT | Ethical Hacking Training near Sangam Vihar Bus Depot | EINITIAL24 | [Read More](https://medium.com/p/cbe6be1c810a) |
-| Fri, 08 May 2026 14:20:03 GMT | Phishing Has Evolved. So Should We. | Lawal Abdulrahman Oluwaseun | [Read More](https://medium.com/p/65160b32842c) |
