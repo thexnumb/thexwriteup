@@ -12,6 +12,38 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 08 May 2026 06:47:41 GMT | OWASP Application Security Risk 10:2025 A01 Broken Access Control | Tiago Silva | [Read More](https://medium.com/p/0b0c12775192) |
+| Fri, 08 May 2026 06:39:40 GMT | How One Small Misconfiguration Led to a Critical Finding | Fateyaly | [Read More](https://medium.com/p/2868ec25a88e) |
+| Fri, 08 May 2026 06:36:13 GMT | AI is closing the discovery gap and widening the patch gap | Mohit Bansal | [Read More](https://medium.com/p/36173f05b6d9) |
+| Fri, 08 May 2026 06:35:47 GMT | Microsoft Cloud Partner - Cloud Solution Provider - IFI Tech | IFI Techsolutions | [Read More](https://medium.com/p/fee11ead9ce4) |
+| Fri, 08 May 2026 06:34:06 GMT | Are We Confusing Automation with Intelligence? | Vijay Kumar Gupta | [Read More](https://medium.com/p/795576eaa5da) |
+| Fri, 08 May 2026 06:33:36 GMT | Your Staff Is Already Using AI With Patient Data.
+You Just Don’t Know It Yet. | Super MIA | [Read More](https://medium.com/p/673544fddcc5) |
+| Fri, 08 May 2026 06:31:01 GMT | Zero-Trust Service Identity on EKS: A Deep Dive into SPIFFE, SPIRE, and Istio | Manojit Das | [Read More](https://medium.com/p/80b0614a4e0e) |
+| Fri, 08 May 2026 06:30:53 GMT | Responsible Vulnerability Disclosure: State-Machine Bypass in Indian Railways Ticketing App(RailOne) | Aman Yadav | [Read More](https://medium.com/p/ec3834c80f69) |
+| Fri, 08 May 2026 06:29:35 GMT | One step at a time | Kai Roer | [Read More](https://medium.com/p/39714156e649) |
+| Fri, 08 May 2026 06:25:21 GMT | CVE-2026–0300: Critical PAN-OS User-ID Authentication Portal Vulnerability | SOCFortress | [Read More](https://medium.com/p/2972d2bda11d) |
+| Fri, 08 May 2026 06:22:37 GMT | Dirty Frag: The New Linux Kernel Vulnerability That Could Open the Door to Root Access | Germano Costi | [Read More](https://medium.com/p/75b6852fc2dd) |
+| Fri, 08 May 2026 06:16:21 GMT | Cloudbric Services 4/1 ~ 4/30 Progress Report | Cloudbric | [Read More](https://medium.com/p/c0b367d96ac7) |
+| Fri, 08 May 2026 06:16:02 GMT | Cloudbric Services 4/1 ~ 4/30 Progress Report | Cloudbric | [Read More](https://medium.com/p/f5ef524e159f) |
+| Fri, 08 May 2026 06:15:51 GMT | Why Is Ethical Hacking One of the Fastest-Growing Careers in Tech? | Securetaintraining | [Read More](https://medium.com/p/811d84ec18dd) |
+| Fri, 08 May 2026 06:15:37 GMT | Cyber Security Complete Roadmap + Salary Guide | Ascent Software Training Institute | [Read More](https://medium.com/p/e298eaa3c989) |
+| Fri, 08 May 2026 05:59:19 GMT | Announcing Practical Cybersecurity With Jen Stone | Emory French | [Read More](https://medium.com/p/7f555d8f90ff) |
+| Fri, 08 May 2026 05:58:17 GMT | Why Are We Choosing to Fear LLMs Instead of Preparing Ourselves? | Tiglu Mekuria | [Read More](https://medium.com/p/c839d1cbaa59) |
+| Fri, 08 May 2026 05:58:10 GMT | An IDOR on a Banking App Hosted on Azure | Rahul Singh Chauhan | [Read More](https://medium.com/p/ad9323bbb86c) |
+| Fri, 08 May 2026 05:57:39 GMT | What Attackers Can Learn About You Using Only Public Data | Hania Khan | [Read More](https://medium.com/p/aa7dbc57c507) |
+| Fri, 08 May 2026 05:56:05 GMT | The WORST Hack of 2026 | Shahzaib | [Read More](https://medium.com/p/617d67969b1d) |
+| Fri, 08 May 2026 05:37:56 GMT | Hunting Advanced Persistent Threats (APT): 13 Years Inside the World of Elite Cyber Adversaries | Vahid Ali CyberSecurity | [Read More](https://medium.com/p/262e5155eac1) |
+| Fri, 08 May 2026 05:26:55 GMT | Mutual TLS: When the Client Certificate Becomes Your Worst Enemy | ghrez1ns | [Read More](https://medium.com/p/055bb1d0f447) |
+| Fri, 08 May 2026 05:00:03 GMT | API Security — Rate limiting, input validation, and OWASP API Top 10 | Reuben Lim | [Read More](https://medium.com/p/f3107dbd441d) |
+| Fri, 08 May 2026 04:59:33 GMT | How Smart Technology Is Transforming Modern Business Growth | Sarbajira Software | [Read More](https://medium.com/p/61907ff90543) |
+| Fri, 08 May 2026 04:58:23 GMT | Write-Up: BugForge Weekly Challenge — FurHire with SSRF | Athiwat Tiprasaharn | [Read More](https://medium.com/p/896ee437ee3e) |
+| Fri, 08 May 2026 04:58:00 GMT | Driving Digital Transformation Through Innovation and Smart Technology | Rohitcdel | [Read More](https://medium.com/p/4d6fc80df2e8) |
+| Fri, 08 May 2026 04:56:41 GMT | 5 Dangerous Password Habits You Should Avoid | Hameedduke | [Read More](https://medium.com/p/69448ae6e29e) |
+| Fri, 08 May 2026 04:56:15 GMT | KAN iT Above and Beyond: Navigating the 2026 Mandate for Organized and Secured Phone Setup Across… | Hiren Brahmbhatt | [Read More](https://medium.com/p/f3926b318f15) |
+| Fri, 08 May 2026 04:44:53 GMT | Panduan Expert Tools Katana dalam Penetration Testing | Ahmat Prayoga Sembiring | [Read More](https://medium.com/p/7d5a1d719623) |
+| Fri, 08 May 2026 04:38:23 GMT | The Plan That Didn’t Happen – And the Journey That Did | Rushikesh Deshmukh | [Read More](https://medium.com/p/0b34f001ff74) |
+| Fri, 08 May 2026 04:33:14 GMT | Palo Alto PAN-OS Zero-Day CVE-2026–0300 — State-Sponsored Attackers Have Had Root Access to Your… | Sai kiran | [Read More](https://medium.com/p/fabac920f5a0) |
 | Fri, 08 May 2026 04:31:05 GMT | AI Agents Are the New Attack Surface — And No One is Ready | Cybersphere Official | [Read More](https://medium.com/p/7e011ce0b91c) |
 | Fri, 08 May 2026 04:30:47 GMT | ⚠️ Parameter Tampering Attacks Explained With Examples | ExploitHunter | [Read More](https://medium.com/p/9a3a163cca70) |
 | Fri, 08 May 2026 04:23:50 GMT | Directory Brute Forcing: Finding Hidden Files and Folders | ExploitHunter | [Read More](https://medium.com/p/40f02d15dae7) |
@@ -81,34 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 07 May 2026 20:01:01 GMT | We’re Deploying AI Agents Everywhere… But Are We Losing Control? | Daniel Santiago | [Read More](https://medium.com/p/900d13181d6e) |
 | Thu, 07 May 2026 19:57:55 GMT | Why Cybersecurity Is the Safest Career in 2026 | Mubashir | [Read More](https://medium.com/p/41ee7dc765c7) |
 | Thu, 07 May 2026 19:03:02 GMT | Luggage With An Attitude | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/dd41edf2dd41) |
-| Thu, 07 May 2026 18:51:47 GMT | CyberDefenders — Tomcat Takeover Lab | Efe Özel | [Read More](https://medium.com/p/a532bacc7a5f) |
-| Thu, 07 May 2026 18:49:50 GMT | KB-VULN: 1 — Sızma Testi Raporu ve Yerel Yetki Yükseltme Analizi. | Efe Avcı | [Read More](https://medium.com/p/160636b44b0c) |
-| Thu, 07 May 2026 18:47:32 GMT | Bean Scope ? | oxcsec | [Read More](https://medium.com/p/1ed9e293e51d) |
-| Thu, 07 May 2026 18:47:25 GMT | Starting My SOC Analyst Level 1 Journey | Abel | [Read More](https://medium.com/p/dd57b975806d) |
-| Thu, 07 May 2026 18:45:11 GMT | He is starting to deliver the goods. | M.BROSH | [Read More](https://medium.com/p/2df14c3f4db4) |
-| Thu, 07 May 2026 18:44:45 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Frankday | [Read More](https://medium.com/p/61d3cf2e381a) |
-| Thu, 07 May 2026 18:36:01 GMT | What Directors Should Ask Management When Cyber Risk Is Green | Tyson Martin | [Read More](https://medium.com/p/de4447cf971f) |
-| Thu, 07 May 2026 18:24:15 GMT | I Still Have Imposter Syndrome. Here’s What I’m Doing Anyway. | Christopher Ham | [Read More](https://medium.com/p/723576d13c77) |
-| Thu, 07 May 2026 18:24:10 GMT | Basecamp Briefing: May 7, 2026 | Sherpa Intelligence | [Read More](https://medium.com/p/f27dd8ca7290) |
-| Thu, 07 May 2026 18:23:54 GMT | Why Securing Your AI Infrastructure Is Now Non-Negotiable And How to Actually Do It | Finn Moreau | [Read More](https://medium.com/p/05de925bcb69) |
-| Thu, 07 May 2026 18:23:37 GMT | L’Adjoint Numérique : IAg et Gros Bon Sens | Robert Laflamme | [Read More](https://medium.com/p/39ec7cdcb4ac) |
-| Thu, 07 May 2026 18:20:44 GMT | The Silent Threat in Your Stack: Understanding A02:2025 Security Misconfiguration | Relatable Tech | [Read More](https://medium.com/p/2f3e7762d0a9) |
-| Thu, 07 May 2026 18:18:43 GMT | Bleeding Llama: Why 300,000 Private AI Servers Are Blabbing Their Secrets | SOCFortress | [Read More](https://medium.com/p/0fff4e88571b) |
-| Thu, 07 May 2026 18:11:37 GMT | Scaling, Governance & the Bigger Picture | Vikrant Waghmode | [Read More](https://medium.com/p/cf13f23724a3) |
-| Thu, 07 May 2026 18:05:12 GMT | 5 CORE THINGS YOU SHOULD KNOW AS A STUDENT | Vicluxy | [Read More](https://medium.com/p/7411916d1e21) |
-| Thu, 07 May 2026 18:00:25 GMT | DeFi Doesn’t Remove Trust, It Engineers It | 0xWolf | [Read More](https://medium.com/p/85a8c3e02d79) |
-| Thu, 07 May 2026 17:55:47 GMT | DeFi Doesn’t Remove Trust It Engineers It | Thecryptoholic | [Read More](https://medium.com/p/9dfcb00ae24f) |
-| Thu, 07 May 2026 17:30:01 GMT | Why Businesses Are Switching to Face Recognition Attendance Systems in 2026 | FaceClok | [Read More](https://medium.com/p/62139a42047f) |
-| Thu, 07 May 2026 17:27:41 GMT | Find cheating spouse cell phone activities | Michael Parks | [Read More](https://medium.com/p/0c1865bca0d0) |
-| Thu, 07 May 2026 17:26:51 GMT | DeFi Doesn’t Remove Trust — It Rebuilds It Through Infrastructure | Johnbaxter | [Read More](https://medium.com/p/c5a63bb8165a) |
-| Thu, 07 May 2026 17:25:10 GMT | LOLBins: Binaries Laughing Out Loud | Aastha Thakker | [Read More](https://medium.com/p/9e742aa78652) |
-| Thu, 07 May 2026 17:23:39 GMT | The Day My Instagram Messages Stopped Feeling Private | Tech Toward | [Read More](https://medium.com/p/ce2cee71bff2) |
-| Thu, 07 May 2026 17:15:55 GMT | TryHackMe RootMe CTF Writeup — Beginner Friendly | Hash | [Read More](https://medium.com/p/88a09ce48995) |
-| Thu, 07 May 2026 17:01:01 GMT | Shall I? | N. Kay Kerr | [Read More](https://medium.com/p/febec40a10d3) |
-| Thu, 07 May 2026 17:01:01 GMT | Part 4 — Inside SwitchApp: The Hidden Control Engine Powering a Fake Galaxy S25 Ultra | C. Oscar Lawshea | [Read More](https://medium.com/p/42b2b604ecfa) |
-| Thu, 07 May 2026 16:53:18 GMT | I Built the “Silly Idea” - WinRT Screen Capture + OCR That Most EDR Products Miss | Mohammed Abuhassan | [Read More](https://medium.com/p/3334e0cb52ce) |
-| Thu, 07 May 2026 16:48:08 GMT | Brute-Forcing SSH Credentials using Hydra | Soumya Srivastava | [Read More](https://medium.com/p/98fb23a34ece) |
-| Thu, 07 May 2026 16:45:36 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Babankmarcell | [Read More](https://medium.com/p/3b2cb893ebc3) |
-| Thu, 07 May 2026 16:45:15 GMT | Why Log Management is Critical for Cybersecurity | Digital Defense | [Read More](https://medium.com/p/cce7b1a78e6c) |
-| Thu, 07 May 2026 16:39:17 GMT | Host Header Injection — How I Manipulated Session Cookie Domains and Got Paid $100 | Krithick | [Read More](https://medium.com/p/bccd5784d9d6) |
-| Thu, 07 May 2026 16:38:29 GMT | A 17-Year-Old Hacked 7 Million People to Buy Pokémon Cards. AI Wrote the Code. | Jazz Cyber Shield | [Read More](https://medium.com/p/216d63a6b5e6) |
