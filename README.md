@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 15:54:09 GMT | IDOR in Email Preference Management — Unauthenticated Access & Modification | Hamza | [Read More](https://medium.com/p/915a5f5c1fff) |
+| Sat, 09 May 2026 15:46:31 GMT | Overwatch Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/aaaa56233a60) |
+| Sat, 09 May 2026 15:42:05 GMT | The Confidence Gap: Why Your AI Co-Pilot Is Writing Insecure Code | Ehulse | [Read More](https://medium.com/p/7395ab465f1e) |
+| Sat, 09 May 2026 15:41:06 GMT | IDOR in Email Preference Management — Unauthenticated Access & Modification | Hamza | [Read More](https://medium.com/p/342ffb0d08c1) |
+| Sat, 09 May 2026 15:40:53 GMT | Defence in Depth: The Layered Cybersecurity Strategy Every Business Needs | PC e systems | [Read More](https://medium.com/p/a72a3c18044b) |
+| Sat, 09 May 2026 15:38:54 GMT | ISMS in Practice: Why Pragmatism Beats Perfectionism - A Field Report | Max Kristmann | [Read More](https://medium.com/p/44df84a14eed) |
+| Sat, 09 May 2026 15:38:46 GMT | Paying ? Deel’s Exchange RateRemote Teams in EUR/USD/GBPs vs Papaya | Lambertopara | [Read More](https://medium.com/p/ec9f0733a332) |
+| Sat, 09 May 2026 15:30:01 GMT | Team - TryHackMe Walkthrough | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/9d60ac834382) |
+| Sat, 09 May 2026 15:22:18 GMT | Important Windows Event IDs Every SOC Analyst Should Know! | Prajav krzx | [Read More](https://medium.com/p/41af97349bbf) |
+| Sat, 09 May 2026 15:14:19 GMT | AI vs Human Hackers in 2026: Who’s Really Winning the Cybersecurity War — And What It Means for You | A | [Read More](https://medium.com/p/a38f6d4767d4) |
+| Sat, 09 May 2026 15:02:16 GMT | The 30-Minute Breach: How an Attacker Went from Port Scan to Data Exfiltration on a Cloud Server | Ezechi Jeremiah Chigozie | [Read More](https://medium.com/p/158e64fd109a) |
+| Sat, 09 May 2026 15:01:01 GMT | Hackeo masivo de portales Canvas impulsa nueva campaña de extorsión del grupo ShinyHunters | Tiziano Mass | [Read More](https://medium.com/p/0f7e80550326) |
+| Sat, 09 May 2026 14:57:02 GMT | What I Learned Building Azure Governance From Scratch | Joseph A. M. | [Read More](https://medium.com/p/ef0a480891c4) |
+| Sat, 09 May 2026 14:35:15 GMT | My experience with Copy Fail vulnerability — CVE-2026–31431 | Dardan Hasani | [Read More](https://medium.com/p/a8acdb63de84) |
+| Sat, 09 May 2026 14:33:30 GMT | Defense Dynamics in the Days of Deluge and Decoys | Gokul B Alex | [Read More](https://medium.com/p/457d2df5bbea) |
 | Sat, 09 May 2026 14:32:16 GMT | How Sable Turned a Scanner Endpoint into Azure Token Exfiltration | Daniel Knight | [Read More](https://medium.com/p/072adc6936e0) |
 | Sat, 09 May 2026 14:24:48 GMT | The defener’s dilemma just flipped | Robert Maciejko | [Read More](https://medium.com/p/0eb8ce938165) |
 | Sat, 09 May 2026 14:20:52 GMT | Laporan Praktikum Basis Data : Sub Query | Cahyoadi | [Read More](https://medium.com/p/6edd284c9875) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 08:12:34 GMT | TryHackMe (THM) Basic Pentesting Walkthrough | Mann Diwani | [Read More](https://medium.com/p/02f07205e545) |
 | Sat, 09 May 2026 08:11:53 GMT | Summer Internship in Cybersecurity with Career Guidance and Resume Building | cyber security Updates | [Read More](https://medium.com/p/93e485b3ac48) |
 | Sat, 09 May 2026 08:09:08 GMT | AI Agent Runtime Authorization and Access Control - Kontext Articles | Jens Ernstberger | [Read More](https://medium.com/p/db756c1c0e92) |
-| Sat, 09 May 2026 08:07:18 GMT | I Was Succeeding at Everything. So Why Did I Feel Nothing? | Divyang Dhyani | [Read More](https://medium.com/p/7e399424c40e) |
-| Sat, 09 May 2026 08:02:11 GMT | Agent Intent — No One Knows What It Means, But It’s Provocative - Kontext Blog | Jens Ernstberger | [Read More](https://medium.com/p/d98bf42534ee) |
-| Sat, 09 May 2026 08:01:01 GMT | Acing Your Networking Interview (Part 4): VLANs, Trunks, and Spanning Tree | Feyitimi Victor | [Read More](https://medium.com/p/028c0a63bdfe) |
-| Sat, 09 May 2026 07:56:01 GMT | Wazuh Mimarisini Anlamak | Fatih Yuksektepe | [Read More](https://medium.com/p/9fe0e1e90927) |
-| Sat, 09 May 2026 07:53:29 GMT | PRAKTIK MANDIRI: Simulasi Pemulihan Sistem Pasca Insiden Keamanan (Linux Recovery) | Khaerul Muhaemin | [Read More](https://medium.com/p/21029215e332) |
-| Sat, 09 May 2026 07:44:18 GMT | Why Hands-On Technical Training Beats a Degree for Getting Hired in IT and Automation | Graduatetrainieinstitute | [Read More](https://medium.com/p/00444679a460) |
-| Sat, 09 May 2026 07:32:56 GMT | Git Version Control in Bug Bounty Hunting + Note Tracking with Obsidian: The Organization Framework… | MD Mehedi Hasan | [Read More](https://medium.com/p/d27c474d54c4) |
-| Sat, 09 May 2026 07:32:26 GMT | Exploiting Insecure Output Handling in LLMs via Indirect Prompt Injection (XSS) | Mukilan Baskaran | [Read More](https://medium.com/p/7807e198d9fc) |
-| Sat, 09 May 2026 07:22:34 GMT | Fort Firewall: Version 3.13.7 for Windows 10 (x86/x64) — Powerful PC Security Software | mahropc | [Read More](https://medium.com/p/b35038035498) |
-| Sat, 09 May 2026 07:22:01 GMT | Finding “Interesting” Endpoints The Clues Most Hunters Ignore | ghostyjoe | [Read More](https://medium.com/p/990f196e5140) |
-| Sat, 09 May 2026 07:15:58 GMT | Why Do People Use VPNs? | Ethan Carter | [Read More](https://medium.com/p/060fd5ccd96a) |
-| Sat, 09 May 2026 07:11:46 GMT | CTI Kill Chain: An Analyst Guide With Real-World Evidence | Andrey Pautov | [Read More](https://medium.com/p/c3bef6fd2979) |
-| Sat, 09 May 2026 07:01:31 GMT | Host & Network Penetration Testing: The Metasploit Framework (MSF) (Skill Check Lab) | A_bumblebee | [Read More](https://medium.com/p/689ad2bea05d) |
-| Sat, 09 May 2026 06:51:41 GMT | Top 10 “Best Practices” to Attack LLM Applications (…and how to actually secure them) | Yua Mikanana | [Read More](https://medium.com/p/9b0c7e4cc4f8) |
-| Sat, 09 May 2026 06:41:00 GMT | Linux Basics | Bubrak Sher | [Read More](https://medium.com/p/288bcf244e40) |
