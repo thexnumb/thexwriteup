@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 20:45:25 GMT | Cloudflare Bypass via Real IP Leading to Remote Code Execution (RCE) | Vaishali Nagori | [Read More](https://medium.com/p/7076015085df) |
+| Sat, 09 May 2026 20:40:12 GMT | The AI Agent Accountability Gap Nobody Is Talking About | Atef Ataya | [Read More](https://medium.com/p/a4be0b382411) |
+| Sat, 09 May 2026 20:28:59 GMT | The Moment I Stopped Falling Alone | Printique studios | [Read More](https://medium.com/p/399e4fadf1f2) |
+| Sat, 09 May 2026 20:12:07 GMT | THE ART OF FINDING HIDDEN THINGS IN BUG BOUNTY HUNTING (regex, pipes& one liners). | 0xmous27 | [Read More](https://medium.com/p/f74fd1b0d391) |
+| Sat, 09 May 2026 20:03:21 GMT | We and our vulnerabilities. | Suraj Shah | [Read More](https://medium.com/p/835f669253d0) |
 | Sat, 09 May 2026 19:56:00 GMT | Building an Autonomous Sentinel: Shielding Mantle DeFi from Rounding Errors with Clojure | rdin777 | [Read More](https://medium.com/p/a9640c068b89) |
 | Sat, 09 May 2026 19:55:51 GMT | NahamStore — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/b858d6eb8fa4) |
 | Sat, 09 May 2026 19:54:10 GMT | OffSec Proving Grounds “BBSCute” CTF writeup | sabR | [Read More](https://medium.com/p/30567373be0e) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 12:27:48 GMT | FirstBlood Lab — Full Exploitation Writeup
  Introduction | aliasgar tawa | [Read More](https://medium.com/p/746138dd9543) |
 | Sat, 09 May 2026 12:20:36 GMT | How Getting Mogged Made Me Find a Client-Side Score Manipulation Bug | Gombos Ákos-Roland | [Read More](https://medium.com/p/8276d4dcc115) |
-| Sat, 09 May 2026 12:14:40 GMT | From Mempool Reconnaissance to Cross-Chain Laundering: The Anatomy of a $50 Million DeFi Heist | Varmapbhargav Audit | [Read More](https://medium.com/p/f97ece2f5312) |
-| Sat, 09 May 2026 12:13:17 GMT | Cognizant Cuts 15K Roles Globally!! With Corporate Magic, they can claim ‘No Layoffs’ | Mohan K | [Read More](https://medium.com/p/27066dd22258) |
-| Sat, 09 May 2026 12:11:50 GMT | TryHackMe: Harder Walkthrough - HMAC Bypass, Git Exposure & GPG Privilege Escalation | Arun1x | [Read More](https://medium.com/p/fd8f7511734f) |
-| Sat, 09 May 2026 12:10:05 GMT | How I Accidentally Became a Superuser, Dumped a University Archive, and Set My Faculty to “Faculty… | Gombos Ákos-Roland | [Read More](https://medium.com/p/d6488f9b15e3) |
-| Sat, 09 May 2026 12:04:24 GMT | bWAPP: HTML Injection — Reflected (GET) Challenge (Low & Medium Security) | Kamal S | [Read More](https://medium.com/p/ac0ca5269e30) |
