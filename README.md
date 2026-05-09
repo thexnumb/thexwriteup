@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 13:09:43 GMT | WebDAV Zafiyeti ve Sudo Yanlış Yapılandırması ile Sisteme Sızma - CTF Çözümü | Beytullaharslannnn | [Read More](https://medium.com/p/41620ff5ea3c) |
+| Sat, 09 May 2026 13:06:22 GMT | What Actually Happens When You Click “I Agree” Without Reading | Sachdevkabir | [Read More](https://medium.com/p/3dfeff625f9f) |
+| Sat, 09 May 2026 13:03:12 GMT | Brooklyn Nine-Nine | Teachnolen | [Read More](https://medium.com/p/d607f34a46fd) |
+| Sat, 09 May 2026 13:01:00 GMT | Why One Person Falls in Love Faster in Relationships | Ansel Pereira | [Read More](https://medium.com/p/f30f5f546812) |
+| Sat, 09 May 2026 12:58:23 GMT | SQL Injection Demystified: From Magic Passwords to Out-of-Band Exfiltration (Part 2) | RedVoid | [Read More](https://medium.com/p/a61b4f5d73d6) |
+| Sat, 09 May 2026 12:53:12 GMT | Zero: Seeing What’s Hidden | Talha Bağcı | [Read More](https://medium.com/p/ffe08478e717) |
+| Sat, 09 May 2026 12:50:53 GMT | My First Week in Tech Recess: Innovation, Cybersecurity, and Solving Real Problems | Tereza Kyobutungi | [Read More](https://medium.com/p/6ea729212c49) |
+| Sat, 09 May 2026 12:48:40 GMT | Regülasyon Mimariyi Yutar | Atakan Çelik | [Read More](https://medium.com/p/21cc903e97ec) |
+| Sat, 09 May 2026 12:41:59 GMT | The Weight of the “Worthy” Life: When Success Feels Like a Sentence | Sayali Hatwar | [Read More](https://medium.com/p/ddd6b0f04d1f) |
+| Sat, 09 May 2026 12:35:26 GMT | Anthropic’s CEO Says You Have 6 to 12 Months Before This Gets Very Bad (Experts Say It Already Is) | Tasmia Sharmin | [Read More](https://medium.com/p/cbec4f3d0c9c) |
+| Sat, 09 May 2026 12:28:49 GMT | The QR Code Trap Nobody Saw Coming | Devansh Ahuja | [Read More](https://medium.com/p/6a6f75914dd4) |
+| Sat, 09 May 2026 12:27:48 GMT | FirstBlood Lab — Full Exploitation Writeup
+ Introduction | aliasgar tawa | [Read More](https://medium.com/p/746138dd9543) |
+| Sat, 09 May 2026 12:20:36 GMT | How Getting Mogged Made Me Find a Client-Side Score Manipulation Bug | Gombos Ákos-Roland | [Read More](https://medium.com/p/8276d4dcc115) |
+| Sat, 09 May 2026 12:14:40 GMT | From Mempool Reconnaissance to Cross-Chain Laundering: The Anatomy of a $50 Million DeFi Heist | Varmapbhargav Audit | [Read More](https://medium.com/p/f97ece2f5312) |
+| Sat, 09 May 2026 12:13:17 GMT | Cognizant Cuts 15K Roles Globally!! With Corporate Magic, they can claim ‘No Layoffs’ | Mohan K | [Read More](https://medium.com/p/27066dd22258) |
+| Sat, 09 May 2026 12:11:50 GMT | TryHackMe: Harder Walkthrough - HMAC Bypass, Git Exposure & GPG Privilege Escalation | Arun1x | [Read More](https://medium.com/p/fd8f7511734f) |
+| Sat, 09 May 2026 12:10:05 GMT | How I Accidentally Became a Superuser, Dumped a University Archive, and Set My Faculty to “Faculty… | Gombos Ákos-Roland | [Read More](https://medium.com/p/d6488f9b15e3) |
+| Sat, 09 May 2026 12:04:24 GMT | bWAPP: HTML Injection — Reflected (GET) Challenge (Low & Medium Security) | Kamal S | [Read More](https://medium.com/p/ac0ca5269e30) |
+| Sat, 09 May 2026 12:02:43 GMT | Authentication Concepts Every Software Engineer Should Know | Brandon Wohlwend | [Read More](https://medium.com/p/260425560951) |
+| Sat, 09 May 2026 11:58:27 GMT | Dirty Pipe Was Bad. Copy Fail Was Worse. Dirty Frag Might Be The Real Warning | The Atomic Architect | [Read More](https://medium.com/p/7707700fb797) |
 | Sat, 09 May 2026 11:54:40 GMT | Hackazon Installation Guide on Kali Linux | smokiz | [Read More](https://medium.com/p/acb2609fb7c5) |
 | Sat, 09 May 2026 11:25:07 GMT | Yapay Zeka Projemi Sömüren Botnet’i .NET 9 “Bal Küpü” (Honeypot) ile Nasıl Kilitledim? | Semih Çelikol | [Read More](https://medium.com/p/ebb971e9b792) |
 | Sat, 09 May 2026 11:18:33 GMT | Mastering iOS Pentesting: Part 4 — Data Storage: What Your App Leaves Behind | Faris Faisal 0xFF | [Read More](https://medium.com/p/ad7ba3ab9c9a) |
@@ -92,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 04:31:02 GMT | AI Jailbreaking: How Hackers Are Breaking AI Safety Systems | Cybersphere Official | [Read More](https://medium.com/p/98bb93435ba2) |
 | Sat, 09 May 2026 04:30:08 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Abhijena | [Read More](https://medium.com/p/1c416591a4a3) |
 | Sat, 09 May 2026 04:29:21 GMT | How an “Out-of-Scope” XSS Led to a 300 CHF Bounty | Asif Ebrahim | [Read More](https://medium.com/p/3a6b022469ce) |
-| Sat, 09 May 2026 04:21:00 GMT | The Naked Truth About Jesus and Shame | Dan Foster | [Read More](https://medium.com/p/8852b18247aa) |
-| Sat, 09 May 2026 04:20:18 GMT | I Built Two AIs That Fight Each Other to Test Security Detection Rules. Here’s What I Found. | 0xDanielSec | [Read More](https://medium.com/p/5ea6b1fc834a) |
-| Sat, 09 May 2026 04:20:14 GMT | Building an AI-Powered Linux & Windows Privilege Escalation Automation Toolkit in Python | Nitesh Ghimire | [Read More](https://medium.com/p/1df56943c77c) |
-| Sat, 09 May 2026 03:54:13 GMT | I submitted a vulnerability report through Metabugbounty, but they said another member had already… | Kbao | [Read More](https://medium.com/p/dea9aef7caaf) |
-| Sat, 09 May 2026 03:41:42 GMT | The Five Layers of Auth | HUSAM | [Read More](https://medium.com/p/70a064da9a6e) |
-| Sat, 09 May 2026 03:40:48 GMT | I attacked my own home lab and built a tool to catch myself — here is every mistake I made | Boneycyriac | [Read More](https://medium.com/p/462c670bd62b) |
-| Sat, 09 May 2026 03:20:05 GMT | Basis Data: Sub Query | Nabilla Paraswati | [Read More](https://medium.com/p/db9d17bdf7d6) |
-| Sat, 09 May 2026 03:01:57 GMT | Initial Access Brokers (IABs): The Hidden Supply Chain of Modern Cybercrime | Paritosh | [Read More](https://medium.com/p/7f071b790403) |
-| Sat, 09 May 2026 02:58:48 GMT | O Guia de Defesa Cibernética | Thales de Oliveira Gomes | [Read More](https://medium.com/p/2f59e9990f4b) |
-| Sat, 09 May 2026 02:26:22 GMT | How I Discovered a Reflected XSS Vulnerability on a Major German Furniture E-commerce Site | Nuke Antee | [Read More](https://medium.com/p/5475c314ce73) |
-| Sat, 09 May 2026 02:21:32 GMT | Jacko - Proving Grounds - Walkthrough - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/eeb78ef0fb4c) |
-| Sat, 09 May 2026 02:15:29 GMT | Canvas and the ShinyHunters: When a Learning Platform Becomes the Attack Surface | AmieOnSecurity | [Read More](https://medium.com/p/56011ac2d399) |
-| Sat, 09 May 2026 02:14:21 GMT | Disable AI data training on major chatbot platforms | Valentin Podkamennyi | [Read More](https://medium.com/p/caead8f8501a) |
-| Sat, 09 May 2026 02:10:32 GMT | Docker & Kubernetes Security: The 10 Misconfigurations Hackers Love | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/9fa1c5775e21) |
-| Sat, 09 May 2026 01:32:38 GMT | How I Would Secure a Startup on AWS With Less Than $100/Month | Umashankara Kalaiah | [Read More](https://medium.com/p/0be4ba1e6439) |
-| Sat, 09 May 2026 01:31:00 GMT | Your Server Is Showing Everything It Shouldn’t -The Apache Directory Listing Deep Dive | Blue_eye | [Read More](https://medium.com/p/3e2bc3c66edc) |
-| Sat, 09 May 2026 01:23:37 GMT | How Attackers Hide Inside Distributed Systems | Umashankara Kalaiah | [Read More](https://medium.com/p/b835d8f9eb12) |
-| Sat, 09 May 2026 01:19:44 GMT | I Was Given a Broken Java App. I Found Every Flaw, Proved Every Attack, Then Fixed Everything. | Shreesh k | [Read More](https://medium.com/p/7079c433e28e) |
-| Sat, 09 May 2026 01:14:31 GMT | Claude Mythos Found a 27-Year-Old Bug. Here’s Why That’s a Problem. | Hindi Tech Book - Tech for Students | [Read More](https://medium.com/p/9b52c2f69908) |
-| Sat, 09 May 2026 01:14:14 GMT | TryHackMe — Blog CTF - Full Write-Up | Shikhali Jamalzade | [Read More](https://medium.com/p/5220fa169761) |
