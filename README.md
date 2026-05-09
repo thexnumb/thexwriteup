@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 03:01:57 GMT | Initial Access Brokers (IABs): The Hidden Supply Chain of Modern Cybercrime | Paritosh | [Read More](https://medium.com/p/7f071b790403) |
+| Sat, 09 May 2026 02:58:48 GMT | O Guia de Defesa Cibernética | Thales de Oliveira Gomes | [Read More](https://medium.com/p/2f59e9990f4b) |
+| Sat, 09 May 2026 02:26:22 GMT | How I Discovered a Reflected XSS Vulnerability on a Major German Furniture E-commerce Site | Nuke Antee | [Read More](https://medium.com/p/5475c314ce73) |
+| Sat, 09 May 2026 02:21:32 GMT | Jacko - Proving Grounds - Walkthrough - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/eeb78ef0fb4c) |
+| Sat, 09 May 2026 02:15:29 GMT | Canvas and the ShinyHunters: When a Learning Platform Becomes the Attack Surface | AmieOnSecurity | [Read More](https://medium.com/p/56011ac2d399) |
+| Sat, 09 May 2026 02:14:21 GMT | Disable AI data training on major chatbot platforms | Valentin Podkamennyi | [Read More](https://medium.com/p/caead8f8501a) |
+| Sat, 09 May 2026 02:10:32 GMT | Docker & Kubernetes Security: The 10 Misconfigurations Hackers Love | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/9fa1c5775e21) |
+| Sat, 09 May 2026 01:32:38 GMT | How I Would Secure a Startup on AWS With Less Than $100/Month | Umashankara Kalaiah | [Read More](https://medium.com/p/0be4ba1e6439) |
+| Sat, 09 May 2026 01:31:00 GMT | Your Server Is Showing Everything It Shouldn’t -The Apache Directory Listing Deep Dive | Blue_eye | [Read More](https://medium.com/p/3e2bc3c66edc) |
+| Sat, 09 May 2026 01:23:37 GMT | How Attackers Hide Inside Distributed Systems | Umashankara Kalaiah | [Read More](https://medium.com/p/b835d8f9eb12) |
+| Sat, 09 May 2026 01:19:44 GMT | I Was Given a Broken Java App. I Found Every Flaw, Proved Every Attack, Then Fixed Everything. | Shreesh k | [Read More](https://medium.com/p/7079c433e28e) |
+| Sat, 09 May 2026 01:14:31 GMT | Claude Mythos Found a 27-Year-Old Bug. Here’s Why That’s a Problem. | Hindi Tech Book - Tech for Students | [Read More](https://medium.com/p/9b52c2f69908) |
+| Sat, 09 May 2026 01:14:14 GMT | TryHackMe — Blog CTF - Full Write-Up | Shikhali Jamalzade | [Read More](https://medium.com/p/5220fa169761) |
+| Sat, 09 May 2026 01:01:34 GMT | SecureFlow AI— DevSecOps + AI Pipeline | Vikas Sharma | [Read More](https://medium.com/p/178a59ae8943) |
+| Sat, 09 May 2026 01:01:18 GMT | TryHackMe — Mr. Robot CTF - Full Write-Up | Shikhali Jamalzade | [Read More](https://medium.com/p/f28d83777dde) |
+| Sat, 09 May 2026 00:49:56 GMT | Dynamic Secrets, Live Rotation - Mirecloud Homelab Part 8 | emmanuel steven  CATIN | [Read More](https://medium.com/p/d4f585a23859) |
+| Sat, 09 May 2026 00:38:18 GMT | Your $60K salary in 2021 is worth less than $50K today | SILS CREST LTD | [Read More](https://medium.com/p/2766fbd68322) |
+| Sat, 09 May 2026 00:26:52 GMT | Struktur Data : Tree | Nabilla Paraswati | [Read More](https://medium.com/p/ee2dc2174d0e) |
+| Sat, 09 May 2026 00:25:35 GMT | Critical Multichain Signature Replay Vulnerability in Lombard Finance – Protocol Takeover Risk | Jsmzproduction | [Read More](https://medium.com/p/cbd15f75080a) |
+| Sat, 09 May 2026 00:06:32 GMT | Why Trusting Your Vulnerability Scanner is a Bad Idea (Full Report) | Saad Khalid | [Read More](https://medium.com/p/e6a8dbaa92c6) |
+| Sat, 09 May 2026 00:06:29 GMT | Login Page Testing Checklist: 15 Important Test Cases Every Security Tester Should Know | Yamini Yadav_369 | [Read More](https://medium.com/p/58cef512f39e) |
+| Sat, 09 May 2026 00:06:26 GMT | Dark Web Monitoring for Threat Intelligence Analysts | Paritosh | [Read More](https://medium.com/p/1ce0e67131b3) |
+| Sat, 09 May 2026 00:06:00 GMT | FunboxEasy — CSE Bookstore File Upload + sudo time GTFObins to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/6c05c04723f9) |
+| Sat, 09 May 2026 00:01:01 GMT | The Definitive Guide to GraphQL for Bug Bounty: Vulnerabilities and Exploitation | JPablo13 | [Read More](https://medium.com/p/61fe7e756ece) |
+| Fri, 08 May 2026 23:41:06 GMT | Year Two of Sobriety: Learning to Live Without Walls | Koji Oe | [Read More](https://medium.com/p/cbf2929db901) |
 | Fri, 08 May 2026 23:16:00 GMT | Microsoft Why Microsoft Intune Matters in Modern Cybersecurity | Vyomamshetty | [Read More](https://medium.com/p/6debf7f841e0) |
 | Fri, 08 May 2026 23:08:52 GMT | Why Field-Level OCR Breaks Down in Real Expense Reimbursement Workflows | CY Ong | [Read More](https://medium.com/p/ef2f9a43a1f7) |
 | Fri, 08 May 2026 23:05:57 GMT | ✍️ STT #4 — Project Glasswing Is a Race And the Starting Gun Already Fired | TheGr8Val | [Read More](https://medium.com/p/6e66aca2fc1a) |
@@ -77,6 +102,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 May 2026 17:14:52 GMT | #  I Tracked Your Location Without Your Permission
 ## How a Misconfigured CORS Header Turned a… | Dhilip Kumar | [Read More](https://medium.com/p/4146ef76a48a) |
 | Fri, 08 May 2026 17:09:10 GMT | The Flipper Zero Black Book: Useful, Strange, and Slightly Concerning Payloads | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0d3c95d7f59d) |
+| Fri, 08 May 2026 17:03:09 GMT | GMX V2 is Mathematically Insolvent Two independent critical vulnerabilities allow physical drainage… | Jsmzproduction | [Read More](https://medium.com/p/d9bb78c315a4) |
 | Fri, 08 May 2026 17:00:59 GMT | The Dark Web Market for “Synthetic Identities” | Read The World | [Read More](https://medium.com/p/52151922de95) |
 | Fri, 08 May 2026 16:54:24 GMT | I Turned Obsidian Into a Live SOC Dashboard | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/decb0ff48f04) |
 | Fri, 08 May 2026 16:50:26 GMT | HTB Writeup: Cap — Easy, Linux | 0xCyb3rPh4nt0m | [Read More](https://medium.com/p/01169c5786cc) |
@@ -87,29 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 May 2026 16:36:41 GMT | A Hacker Named “Tadashi” Just Turned Your Smart TV Into a Weapon — And He Left the Door Wide Open | Jazz Cyber Shield | [Read More](https://medium.com/p/4bdcec6aa0c9) |
 | Fri, 08 May 2026 16:33:53 GMT | TryHackMe - CVE-2026–31431: Copy-Fail - WriteUp | Axoloth | [Read More](https://medium.com/p/fe15bf000724) |
 | Fri, 08 May 2026 16:30:05 GMT | Resubmit: How Canva was hacked and returned operations | Avin Robles | [Read More](https://medium.com/p/82d267a44866) |
-| Fri, 08 May 2026 16:29:18 GMT | Helping Businesses and Home Users Solve Technology Problems Remotely | Globaltechport | [Read More](https://medium.com/p/b332c68990e7) |
-| Fri, 08 May 2026 16:25:30 GMT | ZiChatBot Malware Campaign Highlights Rising Abuse of Trusted APIs in Modern Cyberattacks | Jas | [Read More](https://medium.com/p/b4d2e4159880) |
-| Fri, 08 May 2026 16:22:26 GMT | The Agentic AI Reckoning: Why Governance Can’t Wait | Francois-Xavier Jeannet | [Read More](https://medium.com/p/90bdbf38e96e) |
-| Fri, 08 May 2026 16:19:08 GMT | AI System Reconnaissance - TryHackMe | Binish Alamgir | [Read More](https://medium.com/p/8ba385933639) |
-| Fri, 08 May 2026 16:17:55 GMT | Beyond Great-Power Chauvinism: A Survival Blueprint for Global Security and Ecology | Бахромжон Суванов | [Read More](https://medium.com/p/93a8199cdd89) |
-| Fri, 08 May 2026 16:15:07 GMT | Agent 365 - Your Security & Compliance Controls | Mechanics Team | [Read More](https://medium.com/p/b3a9c93e9317) |
-| Fri, 08 May 2026 16:09:15 GMT | We Drafted an Open Standard for AI Agent Identity Before NIST Mandates It | Atef Ataya | [Read More](https://medium.com/p/bcff8a7924b5) |
-| Fri, 08 May 2026 15:52:44 GMT | VPN для отельного Wi-Fi: что проверить до подключения | SapsanVPN | [Read More](https://medium.com/p/b3de97846076) |
-| Fri, 08 May 2026 15:49:40 GMT | Use of GIS in Weather Forecasting | Rushal Tembhare | [Read More](https://medium.com/p/dfe2659eab9b) |
-| Fri, 08 May 2026 15:46:00 GMT | Construction Site Blind Spots: Where Security Risks Often Begin | Lucas Barett | [Read More](https://medium.com/p/54919264b5df) |
-| Fri, 08 May 2026 15:39:47 GMT | You Don’t Recover a Flat Forest. You Rebuild It. | The Man Behind The Line | [Read More](https://medium.com/p/73e30442afa6) |
-| Fri, 08 May 2026 15:28:54 GMT | Why Do Schools Still Trust Big EdTech? | Bad Privacy Blog by Claudiu Popa | [Read More](https://medium.com/p/611e16798109) |
-| Fri, 08 May 2026 15:24:44 GMT | How Computers Actually Work: Everything the CompTIA A+ Wants You to Know | Don Rivera Diaz | [Read More](https://medium.com/p/1df79b533180) |
-| Fri, 08 May 2026 15:22:13 GMT | eJPT Post-Exploitation CTF 1 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/fc9945398af6) |
-| Fri, 08 May 2026 15:20:13 GMT | Canvas Hacked: What Happened to the School Platform? | Baby Fixer | [Read More](https://medium.com/p/4efed79b1537) |
-| Fri, 08 May 2026 15:17:10 GMT | How I Hit the Top 1.5% of a 17,000-Developer Challenge: The “Industrial Readiness” Playbook | Manasvi Agarkar | [Read More](https://medium.com/p/394756e8114b) |
-| Fri, 08 May 2026 15:10:16 GMT | TryHackMe CupidBot Room -Prompt Injection Walkthrough | riri | [Read More](https://medium.com/p/8f128a909860) |
-| Fri, 08 May 2026 15:06:37 GMT | Your Step-by-Step Guide to Recovering a Hacked Exchange Account | DeFi Planet | [Read More](https://medium.com/p/585704cf17a4) |
-| Fri, 08 May 2026 15:04:05 GMT | The Digital Fortress: Why Dubai Businesses are Leading the AI-Security Revolution | Pure Magic IT | [Read More](https://medium.com/p/e2346f70182a) |
-| Fri, 08 May 2026 15:01:01 GMT | Reuters 2025 Turns the CMS Blank Box Into a Trust Bill | James Kuhman | [Read More](https://medium.com/p/9ff4c432a782) |
-| Fri, 08 May 2026 15:00:11 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Matsuraba kenzo | [Read More](https://medium.com/p/66841f252078) |
-| Fri, 08 May 2026 14:59:02 GMT | How I Accidentally Became a Malware Therapist While Solving BTLO’s “Macro-ni” | Jagadishtripathy | [Read More](https://medium.com/p/d81ce5fca8e8) |
-| Fri, 08 May 2026 14:58:56 GMT | “It Started with a Whistle — Today, It Has Become the World’s Most Dangerous Weapon.” | NetNuggets | [Read More](https://medium.com/p/f5fd1130595d) |
-| Fri, 08 May 2026 14:58:05 GMT | They Trusted AI… and It Deleted Their Entire Database in Seconds | Dverma | [Read More](https://medium.com/p/ced9f668119f) |
-| Fri, 08 May 2026 14:57:22 GMT | Inside the Architecture of Advanced macOS Threats: Why Modern Intrusions Avoid the Disk | Funcybot | [Read More](https://medium.com/p/868bcd29713f) |
-| Fri, 08 May 2026 14:50:55 GMT | Verifying Hardware-Backed Keystore on a Custom Android Build | James Cullimore | [Read More](https://medium.com/p/b029c72477fd) |
