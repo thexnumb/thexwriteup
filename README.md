@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 11:54:40 GMT | Hackazon Installation Guide on Kali Linux | smokiz | [Read More](https://medium.com/p/acb2609fb7c5) |
+| Sat, 09 May 2026 11:25:07 GMT | Yapay Zeka Projemi Sömüren Botnet’i .NET 9 “Bal Küpü” (Honeypot) ile Nasıl Kilitledim? | Semih Çelikol | [Read More](https://medium.com/p/ebb971e9b792) |
+| Sat, 09 May 2026 11:18:33 GMT | Mastering iOS Pentesting: Part 4 — Data Storage: What Your App Leaves Behind | Faris Faisal 0xFF | [Read More](https://medium.com/p/ad7ba3ab9c9a) |
+| Sat, 09 May 2026 11:14:08 GMT | What is Endpoint Security and Why Your Business Needs It in the UAE | Diversified LLC | [Read More](https://medium.com/p/72414dc3e830) |
+| Sat, 09 May 2026 11:13:05 GMT | Silence is a Signal with Power Automate: Why “No MDE Alerts” Can Be More Dangerous Than “Too Many… | Worawit St | [Read More](https://medium.com/p/d2491a49728b) |
+| Sat, 09 May 2026 11:11:29 GMT | Cyber Security in the Age of AI — NareshIT | Naresh I Technologies | [Read More](https://medium.com/p/f55d5057d022) |
+| Sat, 09 May 2026 11:09:04 GMT | AI Jailbreaking: How People Break the Rules That AI Companies Spent Millions Building | MayhemCode | [Read More](https://medium.com/p/dfc17943d8f2) |
+| Sat, 09 May 2026 11:08:06 GMT | AI Data Attacks: Feature Attacks (Part 2) | Muaaz | [Read More](https://medium.com/p/ec7e7919e262) |
+| Sat, 09 May 2026 11:06:01 GMT | Why the CISO Now Matters More Than Ever | David SEHYEON Baek | [Read More](https://medium.com/p/95f14ea5d6d0) |
+| Sat, 09 May 2026 11:02:18 GMT | Responsible Disclosure Case Study: Critical Authorization, Identity and Credential-Exposure Risks… | Anonymous Security Researcher | [Read More](https://medium.com/p/af7f9c24585c) |
 | Sat, 09 May 2026 10:58:10 GMT | Enabling Secure Data Sharing on Google Cloud: From Authorized Views to Analytics as a Service | SIVASUBRAMANIAN | [Read More](https://medium.com/p/fb82bca574f1) |
 | Sat, 09 May 2026 10:49:34 GMT | Getting Started with CTF Competitions: Everything a Beginner Needs to Know | Anita Dangol | [Read More](https://medium.com/p/673444efa06c) |
 | Sat, 09 May 2026 10:48:49 GMT | Introduction to Wordlists - TryHackMe | Ryca | [Read More](https://medium.com/p/76ee02201b66) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 01:19:44 GMT | I Was Given a Broken Java App. I Found Every Flaw, Proved Every Attack, Then Fixed Everything. | Shreesh k | [Read More](https://medium.com/p/7079c433e28e) |
 | Sat, 09 May 2026 01:14:31 GMT | Claude Mythos Found a 27-Year-Old Bug. Here’s Why That’s a Problem. | Hindi Tech Book - Tech for Students | [Read More](https://medium.com/p/9b52c2f69908) |
 | Sat, 09 May 2026 01:14:14 GMT | TryHackMe — Blog CTF - Full Write-Up | Shikhali Jamalzade | [Read More](https://medium.com/p/5220fa169761) |
-| Sat, 09 May 2026 01:01:34 GMT | SecureFlow AI— DevSecOps + AI Pipeline | Vikas Sharma | [Read More](https://medium.com/p/178a59ae8943) |
-| Sat, 09 May 2026 01:01:18 GMT | TryHackMe — Mr. Robot CTF - Full Write-Up | Shikhali Jamalzade | [Read More](https://medium.com/p/f28d83777dde) |
-| Sat, 09 May 2026 00:49:56 GMT | Dynamic Secrets, Live Rotation - Mirecloud Homelab Part 8 | emmanuel steven  CATIN | [Read More](https://medium.com/p/d4f585a23859) |
-| Sat, 09 May 2026 00:38:18 GMT | Your $60K salary in 2021 is worth less than $50K today | SILS CREST LTD | [Read More](https://medium.com/p/2766fbd68322) |
-| Sat, 09 May 2026 00:26:52 GMT | Struktur Data : Tree | Nabilla Paraswati | [Read More](https://medium.com/p/ee2dc2174d0e) |
-| Sat, 09 May 2026 00:25:35 GMT | Critical Multichain Signature Replay Vulnerability in Lombard Finance – Protocol Takeover Risk | Jsmzproduction | [Read More](https://medium.com/p/cbd15f75080a) |
-| Sat, 09 May 2026 00:06:32 GMT | Why Trusting Your Vulnerability Scanner is a Bad Idea (Full Report) | Saad Khalid | [Read More](https://medium.com/p/e6a8dbaa92c6) |
-| Sat, 09 May 2026 00:06:29 GMT | Login Page Testing Checklist: 15 Important Test Cases Every Security Tester Should Know | Yamini Yadav_369 | [Read More](https://medium.com/p/58cef512f39e) |
-| Sat, 09 May 2026 00:06:26 GMT | Dark Web Monitoring for Threat Intelligence Analysts | Paritosh | [Read More](https://medium.com/p/1ce0e67131b3) |
-| Sat, 09 May 2026 00:06:00 GMT | FunboxEasy — CSE Bookstore File Upload + sudo time GTFObins to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/6c05c04723f9) |
