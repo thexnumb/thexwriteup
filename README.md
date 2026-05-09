@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 16:42:44 GMT | Microsoft SQL Server Attack | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/6dfdbe58871f) |
+| Sat, 09 May 2026 16:13:13 GMT | My Journey Into Data Engineering, Cybersecurity, and Personality Development | Rohitpb | [Read More](https://medium.com/p/6a97390a5d18) |
+| Sat, 09 May 2026 16:12:15 GMT | URL’den Ekrana: Bir HTTP İsteğinin Anatomisi | Buraktekcan | [Read More](https://medium.com/p/25bc7063b151) |
+| Sat, 09 May 2026 16:04:50 GMT | DarkDump OSINT Tool - Exploring Tor Search Engine Intelligence | Pentester Club | [Read More](https://medium.com/p/1ffd53d277aa) |
+| Sat, 09 May 2026 15:57:49 GMT | Securing Autonomous AI Agents: Building an Agentic AI Security Monitor | Silent Ink Journal | [Read More](https://medium.com/p/e119906e7a41) |
 | Sat, 09 May 2026 15:54:09 GMT | IDOR in Email Preference Management — Unauthenticated Access & Modification | Hamza | [Read More](https://medium.com/p/915a5f5c1fff) |
+| Sat, 09 May 2026 15:51:11 GMT | OWASP Top 10 for .NET Developers - Part 1: Preventing Broken Access Control | Surya Raj Ghimire | [Read More](https://medium.com/p/8ce4e40a818f) |
 | Sat, 09 May 2026 15:46:31 GMT | Overwatch Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/aaaa56233a60) |
+| Sat, 09 May 2026 15:45:46 GMT | 5 Signs Your Business Website Is Costing You Customers | Ben Treder | [Read More](https://medium.com/p/325e6360c10c) |
 | Sat, 09 May 2026 15:42:05 GMT | The Confidence Gap: Why Your AI Co-Pilot Is Writing Insecure Code | Ehulse | [Read More](https://medium.com/p/7395ab465f1e) |
 | Sat, 09 May 2026 15:41:06 GMT | IDOR in Email Preference Management — Unauthenticated Access & Modification | Hamza | [Read More](https://medium.com/p/342ffb0d08c1) |
 | Sat, 09 May 2026 15:40:53 GMT | Defence in Depth: The Layered Cybersecurity Strategy Every Business Needs | PC e systems | [Read More](https://medium.com/p/a72a3c18044b) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 09:16:41 GMT | Why Website Security Is a Business Priority in 2026 | chris jordan | [Read More](https://medium.com/p/d6ec6daf5aab) |
 | Sat, 09 May 2026 09:15:30 GMT | Securing the “Digital Black Box” A Forensic IT Perspective on MySQL Enterprise Security | KAMAL KAMALUDIN | [Read More](https://medium.com/p/83e72886dfbd) |
 | Sat, 09 May 2026 09:14:29 GMT | The Hidden Productivity Trap of AI Tools Nobody Talks About | Abhinavjharigcg | [Read More](https://medium.com/p/a22a6a644b86) |
-| Sat, 09 May 2026 08:55:48 GMT | I Feel Love Again | Yi (裔) | [Read More](https://medium.com/p/c15200b82ddc) |
-| Sat, 09 May 2026 08:41:58 GMT | and they say to be seen is to be loved. | aran | [Read More](https://medium.com/p/6f4a8de95b9f) |
-| Sat, 09 May 2026 08:16:45 GMT | The Windows Concept Journey — Bus Driver | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/116c84e43a9d) |
-| Sat, 09 May 2026 08:16:25 GMT | White House rethinks AI oversight amid security risks from new tools | Maria João | [Read More](https://medium.com/p/afcd5099a2ed) |
-| Sat, 09 May 2026 08:12:34 GMT | TryHackMe (THM) Basic Pentesting Walkthrough | Mann Diwani | [Read More](https://medium.com/p/02f07205e545) |
-| Sat, 09 May 2026 08:11:53 GMT | Summer Internship in Cybersecurity with Career Guidance and Resume Building | cyber security Updates | [Read More](https://medium.com/p/93e485b3ac48) |
-| Sat, 09 May 2026 08:09:08 GMT | AI Agent Runtime Authorization and Access Control - Kontext Articles | Jens Ernstberger | [Read More](https://medium.com/p/db756c1c0e92) |
