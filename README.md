@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 14:32:16 GMT | How Sable Turned a Scanner Endpoint into Azure Token Exfiltration | Daniel Knight | [Read More](https://medium.com/p/072adc6936e0) |
+| Sat, 09 May 2026 14:24:48 GMT | The defener’s dilemma just flipped | Robert Maciejko | [Read More](https://medium.com/p/0eb8ce938165) |
+| Sat, 09 May 2026 14:20:52 GMT | Laporan Praktikum Basis Data : Sub Query | Cahyoadi | [Read More](https://medium.com/p/6edd284c9875) |
+| Sat, 09 May 2026 14:14:59 GMT | Securing the Backbone — Issue #38: The Fallacy of ‘Shift Left’: Why Security Must Own Curation —… | Eric Gallagher | [Read More](https://medium.com/p/508c825a6bc3) |
+| Sat, 09 May 2026 14:12:45 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / HIRE A HACKER WHO CAN HELP YOU IN RECOVERY YOUR STOLEN FUNDS | Milabenjamin | [Read More](https://medium.com/p/4c226ec67119) |
+| Sat, 09 May 2026 14:09:49 GMT | Deadsick - CTF Reverse Engineering Write Up (ARA 7.0 ITS) | Belle | [Read More](https://medium.com/p/ed1dd6965d88) |
+| Sat, 09 May 2026 14:08:33 GMT | Wrapped - CTF Reverse Engineering Write Up (ARA 7.0 ITS) | Belle | [Read More](https://medium.com/p/32db174e86b8) |
+| Sat, 09 May 2026 14:01:04 GMT | 200 Followers. Thank You. Here’s What I’m Doing About It. | Manubhav Sharma | [Read More](https://medium.com/p/82b77b86d0dd) |
+| Sat, 09 May 2026 14:01:01 GMT | Threat Hunting for Network Based Attacks - LetsDefend [Part 3] | 0verRida | [Read More](https://medium.com/p/9aa1dc387901) |
+| Sat, 09 May 2026 14:00:26 GMT | Escaping Cognitive Deadlock: Architecting Self-Healing Web3 Agents | lokii | [Read More](https://medium.com/p/8673d2f3a602) |
+| Sat, 09 May 2026 13:55:44 GMT | Canvas data breach: A shadow industry of cybercrime | Evie | [Read More](https://medium.com/p/dc582b8ea698) |
+| Sat, 09 May 2026 13:53:44 GMT | slort windows Walkthrough (Proving-ground-paly-OSCP) | Cyber Public School | [Read More](https://medium.com/p/40f2c0165b3b) |
+| Sat, 09 May 2026 13:50:26 GMT | Bypassing Two-Factor Authentication Through Social Engineering Techniques | Shaker Thaher | [Read More](https://medium.com/p/6c42e5b96faf) |
+| Sat, 09 May 2026 13:31:00 GMT | Tryhackme Writeup Room Harder Walkthrough | MainEkHacker | [Read More](https://medium.com/p/1e277a9d7567) |
+| Sat, 09 May 2026 13:26:47 GMT | Building Custom Plugins and Agents in Microsoft Security Copilot | Yash Mudaliar | [Read More](https://medium.com/p/7a9762cef088) |
+| Sat, 09 May 2026 13:25:50 GMT | Your FastAPI Service Is Leaking PII Into Your Logs. Here’s the Architecture to Stop It. | Abhinav Dobhal | [Read More](https://medium.com/p/704ce1a48e6b) |
+| Sat, 09 May 2026 13:24:36 GMT | Understanding BOLA — The #1 API Security Risk You Can’t Ignore | Sana Jalil | [Read More](https://medium.com/p/ea074877f37e) |
+| Sat, 09 May 2026 13:22:15 GMT | Is Your Network Orchestration Layer a Single Point of Failure Waiting to Be Pulled? | Finstein.ai | [Read More](https://medium.com/p/14cf9795b767) |
 | Sat, 09 May 2026 13:09:43 GMT | WebDAV Zafiyeti ve Sudo Yanlış Yapılandırması ile Sisteme Sızma - CTF Çözümü | Beytullaharslannnn | [Read More](https://medium.com/p/41620ff5ea3c) |
 | Sat, 09 May 2026 13:06:22 GMT | What Actually Happens When You Click “I Agree” Without Reading | Sachdevkabir | [Read More](https://medium.com/p/3dfeff625f9f) |
 | Sat, 09 May 2026 13:03:12 GMT | Brooklyn Nine-Nine | Teachnolen | [Read More](https://medium.com/p/d607f34a46fd) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 07:01:31 GMT | Host & Network Penetration Testing: The Metasploit Framework (MSF) (Skill Check Lab) | A_bumblebee | [Read More](https://medium.com/p/689ad2bea05d) |
 | Sat, 09 May 2026 06:51:41 GMT | Top 10 “Best Practices” to Attack LLM Applications (…and how to actually secure them) | Yua Mikanana | [Read More](https://medium.com/p/9b0c7e4cc4f8) |
 | Sat, 09 May 2026 06:41:00 GMT | Linux Basics | Bubrak Sher | [Read More](https://medium.com/p/288bcf244e40) |
-| Sat, 09 May 2026 06:40:11 GMT | How I bypassed Windows kernel-level access control using token impersonation — and what defenders… | Ume-Habiba | [Read More](https://medium.com/p/2545288a243a) |
-| Sat, 09 May 2026 06:35:19 GMT | OWASP Application Security Risk 10:2025 A02 Security Misconfiguration | Tiago Silva | [Read More](https://medium.com/p/c406e10bd4e7) |
-| Sat, 09 May 2026 05:40:06 GMT | I Nearly Lost My Substack Account Forever — Here’s What Saved It! | Sergi S. Y. | [Read More](https://medium.com/p/4f5aa94a2d89) |
-| Sat, 09 May 2026 05:39:59 GMT | Learning Hacking Accidentally Made Me Notice Human Behavior More | Satyam Pathania | [Read More](https://medium.com/p/f03d9b300ff7) |
-| Sat, 09 May 2026 05:39:01 GMT | GPT-5.5 Cyber Is Here — And It Just Changed What AI Can Do For Cybersecurity Defenders | Sai kiran | [Read More](https://medium.com/p/39c54273c242) |
-| Sat, 09 May 2026 05:23:36 GMT | Cybersecurity in Smart Energy Management Systems | joe lotus | [Read More](https://medium.com/p/e0c1d5cad8d2) |
-| Sat, 09 May 2026 05:16:01 GMT | Atypical Unhistoric Lifestyle | Kiichi Kuboshima | [Read More](https://medium.com/p/ad9e44ba0916) |
-| Sat, 09 May 2026 05:13:37 GMT | root-me: ICMP Exfiltration | Davenyamongo | [Read More](https://medium.com/p/b0dd1e020e0d) |
-| Sat, 09 May 2026 05:02:46 GMT | Is Your Phone Hacked? How to Remove Hackers from Your Phone! | Shahzaib | [Read More](https://medium.com/p/290391364137) |
-| Sat, 09 May 2026 05:01:03 GMT | The Global Graduate Crisis: Why Even the “Best Degrees” Aren’t Enough Anymore | Sunil Sathyavolu | [Read More](https://medium.com/p/83c18fab040d) |
-| Sat, 09 May 2026 04:57:03 GMT | I Built an AI Agent That Investigates People From Your Terminal | JustSouichi | [Read More](https://medium.com/p/cd3f99dce5cb) |
-| Sat, 09 May 2026 04:52:23 GMT | The Internet’s Quietest Cybersecurity Tools Are Often the Most Powerful | pavani | [Read More](https://medium.com/p/05a41a1ddcbc) |
-| Sat, 09 May 2026 04:35:56 GMT | The Questions Behind Our Questions | Ashok V.A | [Read More](https://medium.com/p/b472132c13f9) |
-| Sat, 09 May 2026 04:35:19 GMT | ManaPlay: Platform Game Online Modern yang Semakin Populer di Kalangan Pecinta Hiburan Digital | Vloggam | [Read More](https://medium.com/p/b15fe7b0f721) |
-| Sat, 09 May 2026 04:31:22 GMT | Top 10 Secret Management Tools for Kubernetes and Cloud Environments | Neel Shah | [Read More](https://medium.com/p/567cd4262dad) |
-| Sat, 09 May 2026 04:31:02 GMT | AI Jailbreaking: How Hackers Are Breaking AI Safety Systems | Cybersphere Official | [Read More](https://medium.com/p/98bb93435ba2) |
-| Sat, 09 May 2026 04:30:08 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Abhijena | [Read More](https://medium.com/p/1c416591a4a3) |
-| Sat, 09 May 2026 04:29:21 GMT | How an “Out-of-Scope” XSS Led to a 300 CHF Bounty | Asif Ebrahim | [Read More](https://medium.com/p/3a6b022469ce) |
