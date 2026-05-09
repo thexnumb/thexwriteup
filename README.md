@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 05:40:06 GMT | I Nearly Lost My Substack Account Forever — Here’s What Saved It! | Sergi S. Y. | [Read More](https://medium.com/p/4f5aa94a2d89) |
+| Sat, 09 May 2026 05:39:59 GMT | Learning Hacking Accidentally Made Me Notice Human Behavior More | Satyam Pathania | [Read More](https://medium.com/p/f03d9b300ff7) |
+| Sat, 09 May 2026 05:39:01 GMT | GPT-5.5 Cyber Is Here — And It Just Changed What AI Can Do For Cybersecurity Defenders | Sai kiran | [Read More](https://medium.com/p/39c54273c242) |
+| Sat, 09 May 2026 05:23:36 GMT | Cybersecurity in Smart Energy Management Systems | joe lotus | [Read More](https://medium.com/p/e0c1d5cad8d2) |
+| Sat, 09 May 2026 05:16:01 GMT | Atypical Unhistoric Lifestyle | Kiichi Kuboshima | [Read More](https://medium.com/p/ad9e44ba0916) |
+| Sat, 09 May 2026 05:13:37 GMT | root-me: ICMP Exfiltration | Davenyamongo | [Read More](https://medium.com/p/b0dd1e020e0d) |
+| Sat, 09 May 2026 05:02:46 GMT | Is Your Phone Hacked? How to Remove Hackers from Your Phone! | Shahzaib | [Read More](https://medium.com/p/290391364137) |
+| Sat, 09 May 2026 05:01:03 GMT | The Global Graduate Crisis: Why Even the “Best Degrees” Aren’t Enough Anymore | Sunil Sathyavolu | [Read More](https://medium.com/p/83c18fab040d) |
+| Sat, 09 May 2026 04:57:03 GMT | I Built an AI Agent That Investigates People From Your Terminal | JustSouichi | [Read More](https://medium.com/p/cd3f99dce5cb) |
+| Sat, 09 May 2026 04:52:23 GMT | The Internet’s Quietest Cybersecurity Tools Are Often the Most Powerful | pavani | [Read More](https://medium.com/p/05a41a1ddcbc) |
+| Sat, 09 May 2026 04:35:56 GMT | The Questions Behind Our Questions | Ashok V.A | [Read More](https://medium.com/p/b472132c13f9) |
+| Sat, 09 May 2026 04:35:19 GMT | ManaPlay: Platform Game Online Modern yang Semakin Populer di Kalangan Pecinta Hiburan Digital | Vloggam | [Read More](https://medium.com/p/b15fe7b0f721) |
+| Sat, 09 May 2026 04:31:22 GMT | Top 10 Secret Management Tools for Kubernetes and Cloud Environments | Neel Shah | [Read More](https://medium.com/p/567cd4262dad) |
+| Sat, 09 May 2026 04:31:02 GMT | AI Jailbreaking: How Hackers Are Breaking AI Safety Systems | Cybersphere Official | [Read More](https://medium.com/p/98bb93435ba2) |
+| Sat, 09 May 2026 04:30:08 GMT | DeFi Doesn’t Remove Trust — It Engineers It | Abhijena | [Read More](https://medium.com/p/1c416591a4a3) |
+| Sat, 09 May 2026 04:29:21 GMT | How an “Out-of-Scope” XSS Led to a 300 CHF Bounty | Asif Ebrahim | [Read More](https://medium.com/p/3a6b022469ce) |
+| Sat, 09 May 2026 04:21:00 GMT | The Naked Truth About Jesus and Shame | Dan Foster | [Read More](https://medium.com/p/8852b18247aa) |
+| Sat, 09 May 2026 04:20:18 GMT | I Built Two AIs That Fight Each Other to Test Security Detection Rules. Here’s What I Found. | 0xDanielSec | [Read More](https://medium.com/p/5ea6b1fc834a) |
+| Sat, 09 May 2026 04:20:14 GMT | Building an AI-Powered Linux & Windows Privilege Escalation Automation Toolkit in Python | Nitesh Ghimire | [Read More](https://medium.com/p/1df56943c77c) |
+| Sat, 09 May 2026 03:54:13 GMT | I submitted a vulnerability report through Metabugbounty, but they said another member had already… | Kbao | [Read More](https://medium.com/p/dea9aef7caaf) |
+| Sat, 09 May 2026 03:41:42 GMT | The Five Layers of Auth | HUSAM | [Read More](https://medium.com/p/70a064da9a6e) |
+| Sat, 09 May 2026 03:40:48 GMT | I attacked my own home lab and built a tool to catch myself — here is every mistake I made | Boneycyriac | [Read More](https://medium.com/p/462c670bd62b) |
+| Sat, 09 May 2026 03:20:05 GMT | Basis Data: Sub Query | Nabilla Paraswati | [Read More](https://medium.com/p/db9d17bdf7d6) |
 | Sat, 09 May 2026 03:01:57 GMT | Initial Access Brokers (IABs): The Hidden Supply Chain of Modern Cybercrime | Paritosh | [Read More](https://medium.com/p/7f071b790403) |
 | Sat, 09 May 2026 02:58:48 GMT | O Guia de Defesa Cibernética | Thales de Oliveira Gomes | [Read More](https://medium.com/p/2f59e9990f4b) |
 | Sat, 09 May 2026 02:26:22 GMT | How I Discovered a Reflected XSS Vulnerability on a Major German Furniture E-commerce Site | Nuke Antee | [Read More](https://medium.com/p/5475c314ce73) |
@@ -89,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 May 2026 17:52:43 GMT | Hunting ClickFix Win + X Variants | Manuel Arrieta | [Read More](https://medium.com/p/ff06e4c62bd9) |
 | Fri, 08 May 2026 17:51:46 GMT | Exploiting ProFTPD 1.3.5 Remote Code Execution (CVE-2015–3306) — Hackviser Walkthrough | Manohar T H | [Read More](https://medium.com/p/dfd43a24b73a) |
 | Fri, 08 May 2026 17:51:09 GMT | Canvas Hacked: The Cyberattack That Shut Down Classrooms Across the Globe. | Ddm atiq | [Read More](https://medium.com/p/37334d30682b) |
-| Fri, 08 May 2026 17:48:24 GMT | Copy Fail: The Linux Vulnerability That Shook the Open-Source World | Ali Mansoor | [Read More](https://medium.com/p/7e3e41f22e14) |
-| Fri, 08 May 2026 17:44:51 GMT | Linux Host ile AS-REP Roasting Attack ve Splunk ile Detection | ozan bozkurt | [Read More](https://medium.com/p/510a31a33465) |
-| Fri, 08 May 2026 17:36:00 GMT | What I Learned by Staring at a Dog Dick for Five Hours | 30 Degree Shift | [Read More](https://medium.com/p/c6b5572bf02c) |
-| Fri, 08 May 2026 17:34:40 GMT | From a UPI ID to Channel Access: The Day I Preached the Importance of Cyber Security |  | [Read More](https://medium.com/p/c8527bfa948f) |
-| Fri, 08 May 2026 17:34:29 GMT | The Nginx “Ghost Route”: How Unknown Subdomains Silently Reach Your Backend (And How to Kill It) | Iman Rameshni | [Read More](https://medium.com/p/46a8b988356b) |
-| Fri, 08 May 2026 17:28:33 GMT | Beyond Money Laundering: Institutional Counterintelligence Analysis (ICA) of the Danske Bank… | Andrey Spiridonov | [Read More](https://medium.com/p/15e6e1dbde21) |
-| Fri, 08 May 2026 17:24:17 GMT | CVE-2026–31431: Copy-Fail Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/9b38890bb8f3) |
-| Fri, 08 May 2026 17:23:49 GMT | Network Layouts, Switches, Routers & Subnetting | Youssef Adebouz | [Read More](https://medium.com/p/3151e324a47e) |
-| Fri, 08 May 2026 17:18:11 GMT | How to investigate a Critical Alert on Wazuh using Claude and Wazuh MCP | João Henrique Pataki Bernardes | [Read More](https://medium.com/p/084d8d417d04) |
-| Fri, 08 May 2026 17:16:21 GMT | AI Data Attacks: Label Attacks (Part 1) | Muaaz | [Read More](https://medium.com/p/a38677c5f3f1) |
-| Fri, 08 May 2026 17:14:52 GMT | #  I Tracked Your Location Without Your Permission
-## How a Misconfigured CORS Header Turned a… | Dhilip Kumar | [Read More](https://medium.com/p/4146ef76a48a) |
-| Fri, 08 May 2026 17:09:10 GMT | The Flipper Zero Black Book: Useful, Strange, and Slightly Concerning Payloads | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0d3c95d7f59d) |
-| Fri, 08 May 2026 17:03:09 GMT | GMX V2 is Mathematically Insolvent Two independent critical vulnerabilities allow physical drainage… | Jsmzproduction | [Read More](https://medium.com/p/d9bb78c315a4) |
-| Fri, 08 May 2026 17:00:59 GMT | The Dark Web Market for “Synthetic Identities” | Read The World | [Read More](https://medium.com/p/52151922de95) |
-| Fri, 08 May 2026 16:54:24 GMT | I Turned Obsidian Into a Live SOC Dashboard | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/decb0ff48f04) |
-| Fri, 08 May 2026 16:50:26 GMT | HTB Writeup: Cap — Easy, Linux | 0xCyb3rPh4nt0m | [Read More](https://medium.com/p/01169c5786cc) |
-| Fri, 08 May 2026 16:48:14 GMT | Why 80% of Kafka Clusters Would Fail a SOC 2 Audit Tomorrow | Jay Bilgaye | [Read More](https://medium.com/p/ce4cc8740f8b) |
-| Fri, 08 May 2026 16:43:38 GMT | Strangers Are Watching Inside Your Home Right Now. You Just Don’t Know It Yet. | Jazz Cyber Shield | [Read More](https://medium.com/p/406a13146793) |
-| Fri, 08 May 2026 16:42:05 GMT | Run Claude Code From a USB Drive on Any PC (Free)— Zero Installation, Zero Traces. | Krithick | [Read More](https://medium.com/p/2945dd3bec3d) |
-| Fri, 08 May 2026 16:38:04 GMT | Security, Affordability, Resilience: The New Frame for Industrial Investment | Ricardo Angel | [Read More](https://medium.com/p/48f39042f8b0) |
-| Fri, 08 May 2026 16:36:41 GMT | A Hacker Named “Tadashi” Just Turned Your Smart TV Into a Weapon — And He Left the Door Wide Open | Jazz Cyber Shield | [Read More](https://medium.com/p/4bdcec6aa0c9) |
-| Fri, 08 May 2026 16:33:53 GMT | TryHackMe - CVE-2026–31431: Copy-Fail - WriteUp | Axoloth | [Read More](https://medium.com/p/fe15bf000724) |
-| Fri, 08 May 2026 16:30:05 GMT | Resubmit: How Canva was hacked and returned operations | Avin Robles | [Read More](https://medium.com/p/82d267a44866) |
