@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 08:11:53 GMT | Summer Internship in Cybersecurity with Career Guidance and Resume Building | cyber security Updates | [Read More](https://medium.com/p/93e485b3ac48) |
+| Sat, 09 May 2026 08:02:11 GMT | Agent Intent — No One Knows What It Means, But It’s Provocative - Kontext Blog | Jens Ernstberger | [Read More](https://medium.com/p/d98bf42534ee) |
+| Sat, 09 May 2026 08:01:01 GMT | Acing Your Networking Interview (Part 4): VLANs, Trunks, and Spanning Tree | Feyitimi Victor | [Read More](https://medium.com/p/028c0a63bdfe) |
+| Sat, 09 May 2026 07:56:01 GMT | Wazuh Mimarisini Anlamak | Fatih Yuksektepe | [Read More](https://medium.com/p/9fe0e1e90927) |
+| Sat, 09 May 2026 07:53:29 GMT | PRAKTIK MANDIRI: Simulasi Pemulihan Sistem Pasca Insiden Keamanan (Linux Recovery) | Khaerul Muhaemin | [Read More](https://medium.com/p/21029215e332) |
+| Sat, 09 May 2026 07:44:18 GMT | Why Hands-On Technical Training Beats a Degree for Getting Hired in IT and Automation | Graduatetrainieinstitute | [Read More](https://medium.com/p/00444679a460) |
+| Sat, 09 May 2026 07:32:56 GMT | Git Version Control in Bug Bounty Hunting + Note Tracking with Obsidian: The Organization Framework… | MD Mehedi Hasan | [Read More](https://medium.com/p/d27c474d54c4) |
+| Sat, 09 May 2026 07:32:26 GMT | Exploiting Insecure Output Handling in LLMs via Indirect Prompt Injection (XSS) | Mukilan Baskaran | [Read More](https://medium.com/p/7807e198d9fc) |
+| Sat, 09 May 2026 07:22:34 GMT | Fort Firewall: Version 3.13.7 for Windows 10 (x86/x64) — Powerful PC Security Software | mahropc | [Read More](https://medium.com/p/b35038035498) |
+| Sat, 09 May 2026 07:22:01 GMT | Finding “Interesting” Endpoints The Clues Most Hunters Ignore | ghostyjoe | [Read More](https://medium.com/p/990f196e5140) |
+| Sat, 09 May 2026 07:15:58 GMT | Why Do People Use VPNs? | Ethan Carter | [Read More](https://medium.com/p/060fd5ccd96a) |
+| Sat, 09 May 2026 07:11:46 GMT | CTI Kill Chain: An Analyst Guide With Real-World Evidence | Andrey Pautov | [Read More](https://medium.com/p/c3bef6fd2979) |
+| Sat, 09 May 2026 07:01:31 GMT | Host & Network Penetration Testing: The Metasploit Framework (MSF) (Skill Check Lab) | A_bumblebee | [Read More](https://medium.com/p/689ad2bea05d) |
+| Sat, 09 May 2026 06:51:41 GMT | Top 10 “Best Practices” to Attack LLM Applications (…and how to actually secure them) | Yua Mikanana | [Read More](https://medium.com/p/9b0c7e4cc4f8) |
+| Sat, 09 May 2026 06:41:00 GMT | Linux Basics | Bubrak Sher | [Read More](https://medium.com/p/288bcf244e40) |
+| Sat, 09 May 2026 06:40:11 GMT | How I bypassed Windows kernel-level access control using token impersonation — and what defenders… | Ume-Habiba | [Read More](https://medium.com/p/2545288a243a) |
+| Sat, 09 May 2026 06:35:19 GMT | OWASP Application Security Risk 10:2025 A02 Security Misconfiguration | Tiago Silva | [Read More](https://medium.com/p/c406e10bd4e7) |
 | Sat, 09 May 2026 05:40:06 GMT | I Nearly Lost My Substack Account Forever — Here’s What Saved It! | Sergi S. Y. | [Read More](https://medium.com/p/4f5aa94a2d89) |
 | Sat, 09 May 2026 05:39:59 GMT | Learning Hacking Accidentally Made Me Notice Human Behavior More | Satyam Pathania | [Read More](https://medium.com/p/f03d9b300ff7) |
 | Sat, 09 May 2026 05:39:01 GMT | GPT-5.5 Cyber Is Here — And It Just Changed What AI Can Do For Cybersecurity Defenders | Sai kiran | [Read More](https://medium.com/p/39c54273c242) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 May 2026 19:31:23 GMT | HTB:Cicada | Nazarov Samir | [Read More](https://medium.com/p/6aab9801d76d) |
 | Fri, 08 May 2026 19:26:01 GMT | Pre Security; Networking Fundamentals Walkthrough | Arafat Ashrafi Talha | [Read More](https://medium.com/p/b5c074eecf94) |
 | Fri, 08 May 2026 19:17:53 GMT | Cybersecurity News Review — Week 19 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/b50c20dcb9c8) |
-| Fri, 08 May 2026 19:16:59 GMT | Apriti Sesamo — PicoCTF 2025 (Easy PHP Logic Bypass) | RevenShadeX | [Read More](https://medium.com/p/ea5c1cd09885) |
-| Fri, 08 May 2026 19:15:31 GMT | Canvas Hacked? The Viral Cyberattack Scaring Students Across the Internet | Savleen Global Writes | [Read More](https://medium.com/p/605fae36e445) |
-| Fri, 08 May 2026 19:13:27 GMT | I Accidentally Built an AppSec Platform With Claude Code! | Andrew Blooman | [Read More](https://medium.com/p/cf4a807999ce) |
-| Fri, 08 May 2026 19:09:08 GMT | BoogeyMan 1 -TryHackMe Write-up | rla.s1 | [Read More](https://medium.com/p/8a403dd41a48) |
-| Fri, 08 May 2026 19:08:24 GMT | RAG, Explained Like You’re 5 (and Then Like You’re Shipping It to Production) | Babita | [Read More](https://medium.com/p/c684725bae72) |
-| Fri, 08 May 2026 19:04:13 GMT | How to Abuse APIs (or protect them) | Tugan Atila | [Read More](https://medium.com/p/61edd06aa531) |
-| Fri, 08 May 2026 19:01:00 GMT | Protecting DeFi: Building an AI Sentinel for Rhea Finance Invariant Monitoring | rdin777 | [Read More](https://medium.com/p/90526233937e) |
-| Fri, 08 May 2026 18:56:05 GMT | Tips for scaling your network with the right switches and routers | NetworkTigers | [Read More](https://medium.com/p/f451b8f73bca) |
-| Fri, 08 May 2026 18:52:19 GMT | Your Job Interview Video May Be Training the AI That Will Impersonate You | olavenue | [Read More](https://medium.com/p/072d1fc621da) |
-| Fri, 08 May 2026 18:50:57 GMT | How I hacked a protected wifi in 15 minutes!(With a $20 Adapter) | Issan | [Read More](https://medium.com/p/fd1e96999805) |
-| Fri, 08 May 2026 18:34:40 GMT | CVE-2026–31431. 732 Bytes. Six Years in the Making. Root on Every Major Linux Distribution. | Ilias Armenakis | [Read More](https://medium.com/p/ecb3734f1398) |
-| Fri, 08 May 2026 18:29:35 GMT | Building VaultLock: A DIY Hardware Tripwire to Secure Your Workstation | Sena Polen Tunc | [Read More](https://medium.com/p/6e85bf3c89ba) |
-| Fri, 08 May 2026 18:23:14 GMT | Building VaultLock: A DIY Hardware Tripwire to Secure Your Workstation | polen tunc | [Read More](https://medium.com/p/186b9c2cba7e) |
-| Fri, 08 May 2026 18:05:04 GMT | CVE-2026–31431: Copy-Fail (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/011ee1c13869) |
-| Fri, 08 May 2026 17:52:43 GMT | Hunting ClickFix Win + X Variants | Manuel Arrieta | [Read More](https://medium.com/p/ff06e4c62bd9) |
-| Fri, 08 May 2026 17:51:46 GMT | Exploiting ProFTPD 1.3.5 Remote Code Execution (CVE-2015–3306) — Hackviser Walkthrough | Manohar T H | [Read More](https://medium.com/p/dfd43a24b73a) |
-| Fri, 08 May 2026 17:51:09 GMT | Canvas Hacked: The Cyberattack That Shut Down Classrooms Across the Globe. | Ddm atiq | [Read More](https://medium.com/p/37334d30682b) |
