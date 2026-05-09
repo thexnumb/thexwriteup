@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 21:53:29 GMT | EmberSpark: Open-source autonomy without unlimited agency | Veilfire | [Read More](https://medium.com/p/24d2073357bb) |
+| Sat, 09 May 2026 21:35:23 GMT | The Rosetta Stone for AI Security: Stopping Semantic Drift with the Enterprise Continuum | Ranjit Rasappan | [Read More](https://medium.com/p/da0098663bae) |
+| Sat, 09 May 2026 21:31:59 GMT | Teaching AI Agents to Speak ATT&CK with AI Agent Skills | Omar Santos | [Read More](https://medium.com/p/e86883a606b6) |
+| Sat, 09 May 2026 21:15:13 GMT | Reducing False Positives & Building High-Fidelity Detection Engines | Mahesh Pimparkar | [Read More](https://medium.com/p/0033d09d192c) |
+| Sat, 09 May 2026 21:09:17 GMT | MCP’s Security Problem — and Why A2A + ACP May Be the Real Evolution of AI Coordination | Siraj Uddin | [Read More](https://medium.com/p/6220356fa5a9) |
+| Sat, 09 May 2026 21:04:50 GMT | Cooctus Stories (THM) Tryhackme Writeup Answer | Lawvye | [Read More](https://medium.com/p/ff557d186f1e) |
+| Sat, 09 May 2026 21:02:12 GMT | DDoS Clearing House — A Dutch Model for Defense in the Digital Age | Gokul B Alex | [Read More](https://medium.com/p/05db68549f9b) |
+| Sat, 09 May 2026 21:01:51 GMT | How Attackers Abuse Active Directory's Kerberos, By an Attacker (Part I) | opr3vail | [Read More](https://medium.com/p/3d5e230ce64a) |
+| Sat, 09 May 2026 21:01:00 GMT | My Friend Ran a Malicious Script on Her Mac | Kartika | [Read More](https://medium.com/p/0298895600f1) |
 | Sat, 09 May 2026 20:45:25 GMT | Cloudflare Bypass via Real IP Leading to Remote Code Execution (RCE) | Vaishali Nagori | [Read More](https://medium.com/p/7076015085df) |
 | Sat, 09 May 2026 20:40:12 GMT | The AI Agent Accountability Gap Nobody Is Talking About | Atef Ataya | [Read More](https://medium.com/p/a4be0b382411) |
+| Sat, 09 May 2026 20:34:39 GMT | Australia’s FinTech Crossroads: Why Cybersecurity and AI Governance Will Define the Future of… | Dr Umar Kayani | [Read More](https://medium.com/p/b3f4456649e4) |
 | Sat, 09 May 2026 20:28:59 GMT | The Moment I Stopped Falling Alone | Printique studios | [Read More](https://medium.com/p/399e4fadf1f2) |
 | Sat, 09 May 2026 20:12:07 GMT | THE ART OF FINDING HIDDEN THINGS IN BUG BOUNTY HUNTING (regex, pipes& one liners). | 0xmous27 | [Read More](https://medium.com/p/f74fd1b0d391) |
 | Sat, 09 May 2026 20:03:21 GMT | We and our vulnerabilities. | Suraj Shah | [Read More](https://medium.com/p/835f669253d0) |
@@ -26,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 19:17:48 GMT | The Airport Analogy: Why Cybersecurity is Actually About Immigration | Hack The Cyber | [Read More](https://medium.com/p/0c89a810cd41) |
 | Sat, 09 May 2026 19:17:24 GMT | TCM Practical AI Pentest Associate (PAPA) Review: My Honest Experience (2026 — English Version) | Artwerty | [Read More](https://medium.com/p/ab1f2bea1ab8) |
 | Sat, 09 May 2026 19:16:54 GMT | TCM Practical AI Pentest Associate (PAPA) Review: My Honest Experience (2026 — Thai Version) | Artwerty | [Read More](https://medium.com/p/2df70319bd89) |
+| Sat, 09 May 2026 19:12:03 GMT | Automating Angry Birds Transformers in 2026: A Deep Dive into ABTFarmer | Artur Pen | [Read More](https://medium.com/p/77145952ac4c) |
 | Sat, 09 May 2026 19:03:12 GMT | Day 25: SIEM Query Basics (KQL) | Siddhesh Patil | [Read More](https://medium.com/p/98236a8110dd) |
 | Sat, 09 May 2026 18:50:14 GMT | Looking Like a Vault Door Is Not the Same as Being One | Edward Meyman | [Read More](https://medium.com/p/456820258168) |
 | Sat, 09 May 2026 18:49:50 GMT | BoogeyMan 2 -TryHackMe Write-up | rla.s1 | [Read More](https://medium.com/p/61d381f41206) |
@@ -59,6 +70,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 17:12:43 GMT | Phishing Email Analysis SOC Analyst Guide Part-5 Basic Email Analysis. | Vaibhavrajsahu | [Read More](https://medium.com/p/6580b64f186c) |
 | Sat, 09 May 2026 17:04:08 GMT | These 30+ Tools HACKERS Use Daily (Most Are FREE!) | Shahzaib | [Read More](https://medium.com/p/86b246bda3c0) |
 | Sat, 09 May 2026 16:42:44 GMT | Microsoft SQL Server Attack | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/6dfdbe58871f) |
+| Sat, 09 May 2026 16:20:36 GMT | TryHackMe Walkthrough: CVE-2026–31431 — Copy-Fail | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/c927e9e59f8d) |
 | Sat, 09 May 2026 16:13:13 GMT | My Journey Into Data Engineering, Cybersecurity, and Personality Development | Rohitpb | [Read More](https://medium.com/p/6a97390a5d18) |
 | Sat, 09 May 2026 16:12:15 GMT | URL’den Ekrana: Bir HTTP İsteğinin Anatomisi | Buraktekcan | [Read More](https://medium.com/p/25bc7063b151) |
 | Sat, 09 May 2026 16:04:50 GMT | DarkDump OSINT Tool - Exploring Tor Search Engine Intelligence | Pentester Club | [Read More](https://medium.com/p/1ffd53d277aa) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 13:24:36 GMT | Understanding BOLA — The #1 API Security Risk You Can’t Ignore | Sana Jalil | [Read More](https://medium.com/p/ea074877f37e) |
 | Sat, 09 May 2026 13:22:15 GMT | Is Your Network Orchestration Layer a Single Point of Failure Waiting to Be Pulled? | Finstein.ai | [Read More](https://medium.com/p/14cf9795b767) |
 | Sat, 09 May 2026 13:09:43 GMT | WebDAV Zafiyeti ve Sudo Yanlış Yapılandırması ile Sisteme Sızma - CTF Çözümü | Beytullaharslannnn | [Read More](https://medium.com/p/41620ff5ea3c) |
-| Sat, 09 May 2026 13:06:22 GMT | What Actually Happens When You Click “I Agree” Without Reading | Sachdevkabir | [Read More](https://medium.com/p/3dfeff625f9f) |
-| Sat, 09 May 2026 13:03:12 GMT | Brooklyn Nine-Nine | Teachnolen | [Read More](https://medium.com/p/d607f34a46fd) |
-| Sat, 09 May 2026 13:01:00 GMT | Why One Person Falls in Love Faster in Relationships | Ansel Pereira | [Read More](https://medium.com/p/f30f5f546812) |
-| Sat, 09 May 2026 12:58:23 GMT | SQL Injection Demystified: From Magic Passwords to Out-of-Band Exfiltration (Part 2) | RedVoid | [Read More](https://medium.com/p/a61b4f5d73d6) |
-| Sat, 09 May 2026 12:53:12 GMT | Zero: Seeing What’s Hidden | Talha Bağcı | [Read More](https://medium.com/p/ffe08478e717) |
-| Sat, 09 May 2026 12:50:53 GMT | My First Week in Tech Recess: Innovation, Cybersecurity, and Solving Real Problems | Tereza Kyobutungi | [Read More](https://medium.com/p/6ea729212c49) |
-| Sat, 09 May 2026 12:48:40 GMT | Regülasyon Mimariyi Yutar | Atakan Çelik | [Read More](https://medium.com/p/21cc903e97ec) |
-| Sat, 09 May 2026 12:41:59 GMT | The Weight of the “Worthy” Life: When Success Feels Like a Sentence | Sayali Hatwar | [Read More](https://medium.com/p/ddd6b0f04d1f) |
-| Sat, 09 May 2026 12:35:26 GMT | Anthropic’s CEO Says You Have 6 to 12 Months Before This Gets Very Bad (Experts Say It Already Is) | Tasmia Sharmin | [Read More](https://medium.com/p/cbec4f3d0c9c) |
-| Sat, 09 May 2026 12:28:49 GMT | The QR Code Trap Nobody Saw Coming | Devansh Ahuja | [Read More](https://medium.com/p/6a6f75914dd4) |
-| Sat, 09 May 2026 12:27:48 GMT | FirstBlood Lab — Full Exploitation Writeup
- Introduction | aliasgar tawa | [Read More](https://medium.com/p/746138dd9543) |
-| Sat, 09 May 2026 12:20:36 GMT | How Getting Mogged Made Me Find a Client-Side Score Manipulation Bug | Gombos Ákos-Roland | [Read More](https://medium.com/p/8276d4dcc115) |
