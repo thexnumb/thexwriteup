@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 17:50:02 GMT | Canvas Hacked | Canx1 | [Read More](https://medium.com/p/e5e374f60e4f) |
+| Sat, 09 May 2026 17:48:44 GMT | From a Simple CSRF to Full Account Takeover | montaser mohsen | [Read More](https://medium.com/p/fb274a55c2da) |
+| Sat, 09 May 2026 17:48:15 GMT | Turning Small Clues Into Big Bugs — The Details Most Hunters Ignore | ghostyjoe | [Read More](https://medium.com/p/1b42224ad759) |
+| Sat, 09 May 2026 17:36:36 GMT | Stop Using chmod 777: A Developer’s Guide to Linux File Permissions | Abdullah Al Jahid | [Read More](https://medium.com/p/a7378a788f94) |
+| Sat, 09 May 2026 17:33:49 GMT | Love letters to cybersecurity part 1 : doctors & diagnoses | Sunny Allen | [Read More](https://medium.com/p/752e6de55a4f) |
+| Sat, 09 May 2026 17:22:22 GMT | The End of Privacy: Why Your Photos Are Now Tracking Beacons | Jay Robinson | [Read More](https://medium.com/p/2014f3dbd790) |
+| Sat, 09 May 2026 17:21:19 GMT | Vibe Coding Didn’t Kill Programming. It Changed Who Gets to Ship Software | SOVANNARO | [Read More](https://medium.com/p/a20fb7553851) |
+| Sat, 09 May 2026 17:20:17 GMT | Fixing Missing Bridged Adapter Name in VirtualBox | Halo, Danica | [Read More](https://medium.com/p/4cc28caf7255) |
+| Sat, 09 May 2026 17:15:08 GMT | Finextra-FICO Survey Finds AI Erodes Moral Barriers Expanding Fraud Pool Banks Counter with… | Vikram Lingam | [Read More](https://medium.com/p/0e6c07b49dd2) |
+| Sat, 09 May 2026 17:12:43 GMT | Phishing Email Analysis SOC Analyst Guide Part-5 Basic Email Analysis. | Vaibhavrajsahu | [Read More](https://medium.com/p/6580b64f186c) |
+| Sat, 09 May 2026 17:04:08 GMT | These 30+ Tools HACKERS Use Daily (Most Are FREE!) | Shahzaib | [Read More](https://medium.com/p/86b246bda3c0) |
 | Sat, 09 May 2026 16:42:44 GMT | Microsoft SQL Server Attack | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/6dfdbe58871f) |
 | Sat, 09 May 2026 16:13:13 GMT | My Journey Into Data Engineering, Cybersecurity, and Personality Development | Rohitpb | [Read More](https://medium.com/p/6a97390a5d18) |
 | Sat, 09 May 2026 16:12:15 GMT | URL’den Ekrana: Bir HTTP İsteğinin Anatomisi | Buraktekcan | [Read More](https://medium.com/p/25bc7063b151) |
@@ -32,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 15:02:16 GMT | The 30-Minute Breach: How an Attacker Went from Port Scan to Data Exfiltration on a Cloud Server | Ezechi Jeremiah Chigozie | [Read More](https://medium.com/p/158e64fd109a) |
 | Sat, 09 May 2026 15:01:01 GMT | Hackeo masivo de portales Canvas impulsa nueva campaña de extorsión del grupo ShinyHunters | Tiziano Mass | [Read More](https://medium.com/p/0f7e80550326) |
 | Sat, 09 May 2026 14:57:02 GMT | What I Learned Building Azure Governance From Scratch | Joseph A. M. | [Read More](https://medium.com/p/ef0a480891c4) |
+| Sat, 09 May 2026 14:54:24 GMT | ️ SDLC 全解析：軟體開發生命週期是什麼？ | 思維舞步 MindSteps | [Read More](https://medium.com/p/d15201799762) |
 | Sat, 09 May 2026 14:35:15 GMT | My experience with Copy Fail vulnerability — CVE-2026–31431 | Dardan Hasani | [Read More](https://medium.com/p/a8acdb63de84) |
 | Sat, 09 May 2026 14:33:30 GMT | Defense Dynamics in the Days of Deluge and Decoys | Gokul B Alex | [Read More](https://medium.com/p/457d2df5bbea) |
 | Sat, 09 May 2026 14:32:16 GMT | How Sable Turned a Scanner Endpoint into Azure Token Exfiltration | Daniel Knight | [Read More](https://medium.com/p/072adc6936e0) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 09:58:35 GMT | Ottergram (GraphQL) Bugforge.io | 7s26Simon | [Read More](https://medium.com/p/fc82260095d7) |
 | Sat, 09 May 2026 09:55:08 GMT | Why Ethical Hacking Is the Career Move Every Cybersecurity Student Should Take Seriously | Anita Dangol | [Read More](https://medium.com/p/3f9d0cc1b690) |
 | Sat, 09 May 2026 09:38:53 GMT | I Built a Log Analysis Tool That Does What Commercial SIEMs Do — For Free | Ali Ardal | [Read More](https://medium.com/p/08828d085b58) |
-| Sat, 09 May 2026 09:38:52 GMT | The Silent Eye: Why Your Digital Privacy Is No Longer a Choice | Mohit | [Read More](https://medium.com/p/605882a0b39d) |
-| Sat, 09 May 2026 09:35:46 GMT | TryHackMe: Hammer | Rindaman666 | [Read More](https://medium.com/p/e73377983faf) |
-| Sat, 09 May 2026 09:34:39 GMT | Network Security Threats and Solutions Every Business Should Know | Covenant Techsys | [Read More](https://medium.com/p/1c6818f5f6ca) |
-| Sat, 09 May 2026 09:33:22 GMT | CyberAware Citizens: Teaching Digital Safety Through Citizen Science | Faithzakari | [Read More](https://medium.com/p/1886743dd73e) |
-| Sat, 09 May 2026 09:25:32 GMT | Cloud vs. On-Premise Networking: The Real Cost Comparison for Growing | Novbox | [Read More](https://medium.com/p/f802c65255a4) |
-| Sat, 09 May 2026 09:25:26 GMT | What is the risk of not using multi-factor authentication? | Vpshosting | [Read More](https://medium.com/p/ae15392567a4) |
-| Sat, 09 May 2026 09:25:11 GMT | The Day I Realised My Startup’s Network Was Wide Open | CacheGuard Technologies | [Read More](https://medium.com/p/0e45a3039ab0) |
-| Sat, 09 May 2026 09:24:36 GMT | Startup Network Security: The Essential Security Foundation for Growing Companies | CacheGuard Technologies | [Read More](https://medium.com/p/ede9cd32199a) |
-| Sat, 09 May 2026 09:17:23 GMT | Connectivity is the New Zero-Day: Exploring the Canvas Breach | Hacker's Perspective | [Read More](https://medium.com/p/511a68df7960) |
-| Sat, 09 May 2026 09:16:41 GMT | Why Website Security Is a Business Priority in 2026 | chris jordan | [Read More](https://medium.com/p/d6ec6daf5aab) |
-| Sat, 09 May 2026 09:15:30 GMT | Securing the “Digital Black Box” A Forensic IT Perspective on MySQL Enterprise Security | KAMAL KAMALUDIN | [Read More](https://medium.com/p/83e72886dfbd) |
-| Sat, 09 May 2026 09:14:29 GMT | The Hidden Productivity Trap of AI Tools Nobody Talks About | Abhinavjharigcg | [Read More](https://medium.com/p/a22a6a644b86) |
