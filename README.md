@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 09:38:53 GMT | I Built a Log Analysis Tool That Does What Commercial SIEMs Do — For Free | Ali Ardal | [Read More](https://medium.com/p/08828d085b58) |
+| Sat, 09 May 2026 09:38:52 GMT | The Silent Eye: Why Your Digital Privacy Is No Longer a Choice | Mohit | [Read More](https://medium.com/p/605882a0b39d) |
+| Sat, 09 May 2026 09:35:46 GMT | TryHackMe: Hammer | Rindaman666 | [Read More](https://medium.com/p/e73377983faf) |
+| Sat, 09 May 2026 09:34:39 GMT | Network Security Threats and Solutions Every Business Should Know | Covenant Techsys | [Read More](https://medium.com/p/1c6818f5f6ca) |
+| Sat, 09 May 2026 09:33:22 GMT | CyberAware Citizens: Teaching Digital Safety Through Citizen Science | Faithzakari | [Read More](https://medium.com/p/1886743dd73e) |
+| Sat, 09 May 2026 09:25:32 GMT | Cloud vs. On-Premise Networking: The Real Cost Comparison for Growing | Novbox | [Read More](https://medium.com/p/f802c65255a4) |
+| Sat, 09 May 2026 09:25:26 GMT | What is the risk of not using multi-factor authentication? | Vpshosting | [Read More](https://medium.com/p/ae15392567a4) |
+| Sat, 09 May 2026 09:25:11 GMT | The Day I Realised My Startup’s Network Was Wide Open | CacheGuard Technologies | [Read More](https://medium.com/p/0e45a3039ab0) |
+| Sat, 09 May 2026 09:24:36 GMT | Startup Network Security: The Essential Security Foundation for Growing Companies | CacheGuard Technologies | [Read More](https://medium.com/p/ede9cd32199a) |
+| Sat, 09 May 2026 09:17:23 GMT | Connectivity is the New Zero-Day: Exploring the Canvas Breach | Hacker's Perspective | [Read More](https://medium.com/p/511a68df7960) |
+| Sat, 09 May 2026 09:16:41 GMT | Why Website Security Is a Business Priority in 2026 | chris jordan | [Read More](https://medium.com/p/d6ec6daf5aab) |
+| Sat, 09 May 2026 09:15:30 GMT | Securing the “Digital Black Box” A Forensic IT Perspective on MySQL Enterprise Security | KAMAL KAMALUDIN | [Read More](https://medium.com/p/83e72886dfbd) |
+| Sat, 09 May 2026 09:14:29 GMT | The Hidden Productivity Trap of AI Tools Nobody Talks About | Abhinavjharigcg | [Read More](https://medium.com/p/a22a6a644b86) |
+| Sat, 09 May 2026 08:55:48 GMT | I Feel Love Again | Yi (裔) | [Read More](https://medium.com/p/c15200b82ddc) |
+| Sat, 09 May 2026 08:41:58 GMT | and they say to be seen is to be loved. | aran | [Read More](https://medium.com/p/6f4a8de95b9f) |
+| Sat, 09 May 2026 08:16:45 GMT | The Windows Concept Journey — Bus Driver | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/116c84e43a9d) |
+| Sat, 09 May 2026 08:16:25 GMT | White House rethinks AI oversight amid security risks from new tools | Maria João | [Read More](https://medium.com/p/afcd5099a2ed) |
+| Sat, 09 May 2026 08:12:34 GMT | TryHackMe (THM) Basic Pentesting Walkthrough | Mann Diwani | [Read More](https://medium.com/p/02f07205e545) |
 | Sat, 09 May 2026 08:11:53 GMT | Summer Internship in Cybersecurity with Career Guidance and Resume Building | cyber security Updates | [Read More](https://medium.com/p/93e485b3ac48) |
+| Sat, 09 May 2026 08:09:08 GMT | AI Agent Runtime Authorization and Access Control - Kontext Articles | Jens Ernstberger | [Read More](https://medium.com/p/db756c1c0e92) |
+| Sat, 09 May 2026 08:07:18 GMT | I Was Succeeding at Everything. So Why Did I Feel Nothing? | Divyang Dhyani | [Read More](https://medium.com/p/7e399424c40e) |
 | Sat, 09 May 2026 08:02:11 GMT | Agent Intent — No One Knows What It Means, But It’s Provocative - Kontext Blog | Jens Ernstberger | [Read More](https://medium.com/p/d98bf42534ee) |
 | Sat, 09 May 2026 08:01:01 GMT | Acing Your Networking Interview (Part 4): VLANs, Trunks, and Spanning Tree | Feyitimi Victor | [Read More](https://medium.com/p/028c0a63bdfe) |
 | Sat, 09 May 2026 07:56:01 GMT | Wazuh Mimarisini Anlamak | Fatih Yuksektepe | [Read More](https://medium.com/p/9fe0e1e90927) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 08 May 2026 22:01:34 GMT | AI Is Breaking the Two Rules That Kept the Internet Safe — And No One Has a Replacement Yet | Andy Nguyen | [Read More](https://medium.com/p/f0d2eabc1aee) |
 | Fri, 08 May 2026 21:58:15 GMT | Security Guards Abbotsford: Reliable Protection with Eagle Eye Security | Digipromedia | [Read More](https://medium.com/p/8dfee1ba3df6) |
 | Fri, 08 May 2026 21:55:07 GMT | Building a Real-Time SOC Threat Detection System with Python | Rona Ega Kharisma | [Read More](https://medium.com/p/dab406b728d4) |
-| Fri, 08 May 2026 21:55:01 GMT | Why Healthcare Cybersecurity Is Becoming a National Security Issue | Caleb DeBari | [Read More](https://medium.com/p/a4b7718448ba) |
-| Fri, 08 May 2026 21:53:57 GMT | The Growing Threat of AI-Driven Cyberattacks in 2026 | Caleb DeBari | [Read More](https://medium.com/p/36d0ef59f56c) |
-| Fri, 08 May 2026 21:51:27 GMT | The Governance Gap That TeamPCP Exposed Is Still Open | ActiveState | [Read More](https://medium.com/p/dad720b13c1b) |
-| Fri, 08 May 2026 21:41:53 GMT | Using AI for Variant Hunting in Google OSS Projects | Asjad Butt | [Read More](https://medium.com/p/74c40fe3bee8) |
-| Fri, 08 May 2026 21:35:29 GMT | The AI That Woke Up Before You Did | Zoom In AI | [Read More](https://medium.com/p/e4ebca526ac1) |
-| Fri, 08 May 2026 21:32:21 GMT | KodeKloud’s AI Made Me Angrier Than Linux | Crystalcascade14 | [Read More](https://medium.com/p/ddae2ed6eb07) |
-| Fri, 08 May 2026 21:30:39 GMT | Sokudo: Admin Takeover via Predictable Auth Token | Dennis Sev7n | [Read More](https://medium.com/p/83803f6a95ae) |
-| Fri, 08 May 2026 21:01:16 GMT | I Built the OWASP ZAP File Upload Addon. Here’s Why VulnerableApp-Facade Had to Exist First. | Karan Preet | [Read More](https://medium.com/p/52c4f2226ed3) |
-| Fri, 08 May 2026 20:52:08 GMT | Oracle AI Database 26ai — Patch 23.26.2.0.0: What DBAs Should Know | Piotr Praszkiewicz | [Read More](https://medium.com/p/061a1abf74ef) |
-| Fri, 08 May 2026 20:30:35 GMT | Number systems conversion for dummies | Tymoteusz Kołodziejczyk | [Read More](https://medium.com/p/3a3a1079885a) |
-| Fri, 08 May 2026 20:26:44 GMT | Understanding Your Cyber Risks | Financial Poise | [Read More](https://medium.com/p/edf370cb3d73) |
-| Fri, 08 May 2026 20:16:03 GMT | Investigating WinRAR Zero-Day CVE-2025–8088 Exploitation in a HackTheBox Sherlock DFIR Case… | Christopher Ryan | [Read More](https://medium.com/p/6d885c6cdc4e) |
-| Fri, 08 May 2026 20:01:01 GMT | The Future of Cybercrime Is Identity, Not Infrastructure | Sruthi Punugu | [Read More](https://medium.com/p/de91a8d60651) |
-| Fri, 08 May 2026 19:46:06 GMT | The Great Digital Recalibration | A. Thorne | [Read More](https://medium.com/p/d6329dda35bf) |
-| Fri, 08 May 2026 19:37:42 GMT | Chrome’s Silent AI Push | SOCFortress | [Read More](https://medium.com/p/de4d28daddf8) |
-| Fri, 08 May 2026 19:35:13 GMT | AWS KMS, HashiCorp Vault, OpenBao — and where Aegis-KMS fits in | Sharma B | [Read More](https://medium.com/p/fe93862cc742) |
-| Fri, 08 May 2026 19:33:16 GMT | Why your BAA template is probably non-compliant in 2026 | Joegellatly | [Read More](https://medium.com/p/dd3c25250c44) |
-| Fri, 08 May 2026 19:31:23 GMT | HTB:Cicada | Nazarov Samir | [Read More](https://medium.com/p/6aab9801d76d) |
-| Fri, 08 May 2026 19:26:01 GMT | Pre Security; Networking Fundamentals Walkthrough | Arafat Ashrafi Talha | [Read More](https://medium.com/p/b5c074eecf94) |
-| Fri, 08 May 2026 19:17:53 GMT | Cybersecurity News Review — Week 19 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/b50c20dcb9c8) |
