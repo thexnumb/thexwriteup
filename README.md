@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 19:56:00 GMT | Building an Autonomous Sentinel: Shielding Mantle DeFi from Rounding Errors with Clojure | rdin777 | [Read More](https://medium.com/p/a9640c068b89) |
+| Sat, 09 May 2026 19:55:51 GMT | NahamStore — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/b858d6eb8fa4) |
+| Sat, 09 May 2026 19:54:10 GMT | OffSec Proving Grounds “BBSCute” CTF writeup | sabR | [Read More](https://medium.com/p/30567373be0e) |
+| Sat, 09 May 2026 19:53:57 GMT | Splunk Universal Forwarder Kurulumu: Adım Adım Uygulamalı Rehber | Ahmet Badem | [Read More](https://medium.com/p/30a91858a47e) |
+| Sat, 09 May 2026 19:44:21 GMT | The Hidden War Inside Your Phone: How Foreign Disinformation Is Tearing America Apart | Robert Morton | [Read More](https://medium.com/p/5ed4c868e255) |
+| Sat, 09 May 2026 19:27:33 GMT | Sonar Agent: AI-Powered Auto-Remediation for SonarQube in CI/CD Pipelines | DarkKnight | [Read More](https://medium.com/p/e276fe560317) |
+| Sat, 09 May 2026 19:17:48 GMT | The Airport Analogy: Why Cybersecurity is Actually About Immigration | Hack The Cyber | [Read More](https://medium.com/p/0c89a810cd41) |
+| Sat, 09 May 2026 19:17:24 GMT | TCM Practical AI Pentest Associate (PAPA) Review: My Honest Experience (2026 — English Version) | Artwerty | [Read More](https://medium.com/p/ab1f2bea1ab8) |
+| Sat, 09 May 2026 19:16:54 GMT | TCM Practical AI Pentest Associate (PAPA) Review: My Honest Experience (2026 — Thai Version) | Artwerty | [Read More](https://medium.com/p/2df70319bd89) |
+| Sat, 09 May 2026 19:03:12 GMT | Day 25: SIEM Query Basics (KQL) | Siddhesh Patil | [Read More](https://medium.com/p/98236a8110dd) |
 | Sat, 09 May 2026 18:50:14 GMT | Looking Like a Vault Door Is Not the Same as Being One | Edward Meyman | [Read More](https://medium.com/p/456820258168) |
 | Sat, 09 May 2026 18:49:50 GMT | BoogeyMan 2 -TryHackMe Write-up | rla.s1 | [Read More](https://medium.com/p/61d381f41206) |
 | Sat, 09 May 2026 18:49:07 GMT | Uncovering Malware Behaviour of a Suspicious Sample Through Static Analysis Technique. | Cyberfairy | [Read More](https://medium.com/p/af700a429991) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 12:11:50 GMT | TryHackMe: Harder Walkthrough - HMAC Bypass, Git Exposure & GPG Privilege Escalation | Arun1x | [Read More](https://medium.com/p/fd8f7511734f) |
 | Sat, 09 May 2026 12:10:05 GMT | How I Accidentally Became a Superuser, Dumped a University Archive, and Set My Faculty to “Faculty… | Gombos Ákos-Roland | [Read More](https://medium.com/p/d6488f9b15e3) |
 | Sat, 09 May 2026 12:04:24 GMT | bWAPP: HTML Injection — Reflected (GET) Challenge (Low & Medium Security) | Kamal S | [Read More](https://medium.com/p/ac0ca5269e30) |
-| Sat, 09 May 2026 12:02:43 GMT | Authentication Concepts Every Software Engineer Should Know | Brandon Wohlwend | [Read More](https://medium.com/p/260425560951) |
-| Sat, 09 May 2026 11:58:27 GMT | Dirty Pipe Was Bad. Copy Fail Was Worse. Dirty Frag Might Be The Real Warning | The Atomic Architect | [Read More](https://medium.com/p/7707700fb797) |
-| Sat, 09 May 2026 11:54:40 GMT | Hackazon Installation Guide on Kali Linux | smokiz | [Read More](https://medium.com/p/acb2609fb7c5) |
-| Sat, 09 May 2026 11:25:07 GMT | Yapay Zeka Projemi Sömüren Botnet’i .NET 9 “Bal Küpü” (Honeypot) ile Nasıl Kilitledim? | Semih Çelikol | [Read More](https://medium.com/p/ebb971e9b792) |
-| Sat, 09 May 2026 11:18:33 GMT | Mastering iOS Pentesting: Part 4 — Data Storage: What Your App Leaves Behind | Faris Faisal 0xFF | [Read More](https://medium.com/p/ad7ba3ab9c9a) |
-| Sat, 09 May 2026 11:14:08 GMT | What is Endpoint Security and Why Your Business Needs It in the UAE | Diversified LLC | [Read More](https://medium.com/p/72414dc3e830) |
-| Sat, 09 May 2026 11:13:05 GMT | Silence is a Signal with Power Automate: Why “No MDE Alerts” Can Be More Dangerous Than “Too Many… | Worawit St | [Read More](https://medium.com/p/d2491a49728b) |
-| Sat, 09 May 2026 11:11:29 GMT | Cyber Security in the Age of AI — NareshIT | Naresh I Technologies | [Read More](https://medium.com/p/f55d5057d022) |
-| Sat, 09 May 2026 11:09:04 GMT | AI Jailbreaking: How People Break the Rules That AI Companies Spent Millions Building | MayhemCode | [Read More](https://medium.com/p/dfc17943d8f2) |
-| Sat, 09 May 2026 11:08:06 GMT | AI Data Attacks: Feature Attacks (Part 2) | Muaaz | [Read More](https://medium.com/p/ec7e7919e262) |
