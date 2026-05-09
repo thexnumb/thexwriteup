@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 10:58:10 GMT | Enabling Secure Data Sharing on Google Cloud: From Authorized Views to Analytics as a Service | SIVASUBRAMANIAN | [Read More](https://medium.com/p/fb82bca574f1) |
+| Sat, 09 May 2026 10:49:34 GMT | Getting Started with CTF Competitions: Everything a Beginner Needs to Know | Anita Dangol | [Read More](https://medium.com/p/673444efa06c) |
+| Sat, 09 May 2026 10:48:49 GMT | Introduction to Wordlists - TryHackMe | Ryca | [Read More](https://medium.com/p/76ee02201b66) |
+| Sat, 09 May 2026 10:46:18 GMT | How AI Is Changing Cybersecurity Training | Hannah Adam | [Read More](https://medium.com/p/d134b96ad5a6) |
+| Sat, 09 May 2026 10:45:04 GMT | Bypass of Open Redirect Fix on lovable.dev via /..// Path Traversal | rozzen | [Read More](https://medium.com/p/d6ccb6e23a12) |
+| Sat, 09 May 2026 10:44:45 GMT | Ethical Hacking & Cyber Security Course in Andheri, Mumbai — Ntech Global Solutions | Ntech Global Solutions | [Read More](https://medium.com/p/1676b81b96ee) |
+| Sat, 09 May 2026 10:42:47 GMT | Privacy-Preserving Intelligence: The Emerging Architecture of AI-Driven Systems. | Reeti | [Read More](https://medium.com/p/a434db253b53) |
+| Sat, 09 May 2026 10:41:48 GMT | Your CVE Lookup Process Is Wasting 20 Hours a Month. Here’s the Solution. | Neetrox | [Read More](https://medium.com/p/825b70064e75) |
+| Sat, 09 May 2026 10:37:13 GMT | How Fail2Ban Saved My VPS from an SSH Attack | Maan Trambadia | [Read More](https://medium.com/p/c32a6c0c4878) |
+| Sat, 09 May 2026 10:28:06 GMT | Silence is a Signal with Power Automate: ทำไม “MDE ไม่มี Alert” อาจอันตรายกว่า “Alert เยอะ” | Worawit St | [Read More](https://medium.com/p/8f331a332c1f) |
+| Sat, 09 May 2026 10:24:39 GMT | The InterLink Foundation (IF) wants to create a decentralized economy that everyone can access. | GANGURI VENKATRAO - T3 AMBASSADOR OF INTERLINK LAB | [Read More](https://medium.com/p/a9f5faa530bc) |
+| Sat, 09 May 2026 10:22:40 GMT | Electronic Security Provider: Protecting Businesses and Homes with Smart Security Solutions | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/91de5fce2855) |
+| Sat, 09 May 2026 10:09:47 GMT | You Don’t Need to Be a Hacker to Get Paid Like One | R.H Rizvi | [Read More](https://medium.com/p/5ec950bde6c2) |
+| Sat, 09 May 2026 10:05:13 GMT | We Built Security Around Time. AI Just Buried It. | Regev Zafrani | [Read More](https://medium.com/p/168244344963) |
+| Sat, 09 May 2026 10:04:07 GMT | I Don’t Think I’m Healing, I’m Just Learning How to Hide It Better | Indira Arawinda | [Read More](https://medium.com/p/26cfbff4ea91) |
+| Sat, 09 May 2026 09:58:35 GMT | Ottergram (GraphQL) Bugforge.io | 7s26Simon | [Read More](https://medium.com/p/fc82260095d7) |
+| Sat, 09 May 2026 09:55:08 GMT | Why Ethical Hacking Is the Career Move Every Cybersecurity Student Should Take Seriously | Anita Dangol | [Read More](https://medium.com/p/3f9d0cc1b690) |
 | Sat, 09 May 2026 09:38:53 GMT | I Built a Log Analysis Tool That Does What Commercial SIEMs Do — For Free | Ali Ardal | [Read More](https://medium.com/p/08828d085b58) |
 | Sat, 09 May 2026 09:38:52 GMT | The Silent Eye: Why Your Digital Privacy Is No Longer a Choice | Mohit | [Read More](https://medium.com/p/605882a0b39d) |
 | Sat, 09 May 2026 09:35:46 GMT | TryHackMe: Hammer | Rindaman666 | [Read More](https://medium.com/p/e73377983faf) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 00:06:29 GMT | Login Page Testing Checklist: 15 Important Test Cases Every Security Tester Should Know | Yamini Yadav_369 | [Read More](https://medium.com/p/58cef512f39e) |
 | Sat, 09 May 2026 00:06:26 GMT | Dark Web Monitoring for Threat Intelligence Analysts | Paritosh | [Read More](https://medium.com/p/1ce0e67131b3) |
 | Sat, 09 May 2026 00:06:00 GMT | FunboxEasy — CSE Bookstore File Upload + sudo time GTFObins to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/6c05c04723f9) |
-| Sat, 09 May 2026 00:01:01 GMT | The Definitive Guide to GraphQL for Bug Bounty: Vulnerabilities and Exploitation | JPablo13 | [Read More](https://medium.com/p/61fe7e756ece) |
-| Fri, 08 May 2026 23:41:06 GMT | Year Two of Sobriety: Learning to Live Without Walls | Koji Oe | [Read More](https://medium.com/p/cbf2929db901) |
-| Fri, 08 May 2026 23:16:00 GMT | Microsoft Why Microsoft Intune Matters in Modern Cybersecurity | Vyomamshetty | [Read More](https://medium.com/p/6debf7f841e0) |
-| Fri, 08 May 2026 23:08:52 GMT | Why Field-Level OCR Breaks Down in Real Expense Reimbursement Workflows | CY Ong | [Read More](https://medium.com/p/ef2f9a43a1f7) |
-| Fri, 08 May 2026 23:05:57 GMT | ✍️ STT #4 — Project Glasswing Is a Race And the Starting Gun Already Fired | TheGr8Val | [Read More](https://medium.com/p/6e66aca2fc1a) |
-| Fri, 08 May 2026 22:44:21 GMT | GFW 深度解析 14：猫鼠游戏 | xnvlnasna | [Read More](https://medium.com/p/60f00d87b49a) |
-| Fri, 08 May 2026 22:43:52 GMT | GFW 深度解析 13：Hysteria | xnvlnasna | [Read More](https://medium.com/p/4c8cacfc71ee) |
-| Fri, 08 May 2026 22:41:00 GMT | The Ethics Engine Behind Every IT Crisis Decision | Ryan Y. Kurr | [Read More](https://medium.com/p/c1b164316595) |
-| Fri, 08 May 2026 22:29:21 GMT | How Families Use Security Systems for Child Safety | AlexBryn | [Read More](https://medium.com/p/b466793e0d49) |
-| Fri, 08 May 2026 22:25:00 GMT | The Three-Way Handshake In Action On Wireshark | Michael Orozco-Fletcher | [Read More](https://medium.com/p/2acfca46f8c9) |
-| Fri, 08 May 2026 22:24:58 GMT | Network Scanning, Enumeration & Password Cracking Labs | Abdulsamedrafiatu | [Read More](https://medium.com/p/8b7fa2ca8da6) |
-| Fri, 08 May 2026 22:18:35 GMT | OSCP Dailies: THM — Attacktive Directory — Day 2 | MichaelLearns_ | [Read More](https://medium.com/p/847c4c4128b5) |
-| Fri, 08 May 2026 22:12:35 GMT | Write-up — Blind SSRF with Shellshock Exploitation | dudscyber | [Read More](https://medium.com/p/a72e8ee810d5) |
-| Fri, 08 May 2026 22:05:53 GMT | Forensik Micro SD Card Menggunakan Kali Linux — Panduan Lengkap Step-by-Step | Jamalayajakuja | [Read More](https://medium.com/p/b87285134ac0) |
-| Fri, 08 May 2026 22:01:34 GMT | AI Is Breaking the Two Rules That Kept the Internet Safe — And No One Has a Replacement Yet | Andy Nguyen | [Read More](https://medium.com/p/f0d2eabc1aee) |
-| Fri, 08 May 2026 21:58:15 GMT | Security Guards Abbotsford: Reliable Protection with Eagle Eye Security | Digipromedia | [Read More](https://medium.com/p/8dfee1ba3df6) |
-| Fri, 08 May 2026 21:55:07 GMT | Building a Real-Time SOC Threat Detection System with Python | Rona Ega Kharisma | [Read More](https://medium.com/p/dab406b728d4) |
