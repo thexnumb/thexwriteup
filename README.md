@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 23:03:39 GMT | Your DevOps Home Lab Is Lying To You | Zudonu Osomudeya | [Read More](https://medium.com/p/ac17a55a60d4) |
+| Sat, 09 May 2026 23:01:42 GMT | Network Analysis: Malware Compromise — BTLO Lab Writeup | Cooked.gg | [Read More](https://medium.com/p/97283e45322a) |
+| Sat, 09 May 2026 22:38:20 GMT | Names Are A Security Debt We Can No Longer Afford | Andrew Zuo | [Read More](https://medium.com/p/05f805fa2175) |
+| Sat, 09 May 2026 22:23:38 GMT | CVE-2026-44843: One Chat Message Steals Your Credentials. Then It Gets Worse! | Dewank Pant | [Read More](https://medium.com/p/264146623aec) |
+| Sat, 09 May 2026 22:22:11 GMT | “Scam Likely: The Rogues Texting, DM’ing, and Gaming Their Way Into Your Wallet in 2026” | Kevin Kelly | [Read More](https://medium.com/p/8e0ec4b386b6) |
+| Sat, 09 May 2026 22:19:36 GMT | How to Detect Persistence Mechanisms with Elastic SIEM: SOC Analyst Hands-On Lab - Hunt Forward Lab… | Hunt Forward | [Read More](https://medium.com/p/13265ccdd666) |
+| Sat, 09 May 2026 22:06:45 GMT | The Walking Dead: 22 Domains vs. The “Zombie” Malware | Jirasak Pakdeeto | [Read More](https://medium.com/p/72b90f5641a8) |
 | Sat, 09 May 2026 21:53:29 GMT | EmberSpark: Open-source autonomy without unlimited agency | Veilfire | [Read More](https://medium.com/p/24d2073357bb) |
 | Sat, 09 May 2026 21:35:23 GMT | The Rosetta Stone for AI Security: Stopping Semantic Drift with the Enterprise Continuum | Ranjit Rasappan | [Read More](https://medium.com/p/da0098663bae) |
 | Sat, 09 May 2026 21:31:59 GMT | Teaching AI Agents to Speak ATT&CK with AI Agent Skills | Omar Santos | [Read More](https://medium.com/p/e86883a606b6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 14:00:26 GMT | Escaping Cognitive Deadlock: Architecting Self-Healing Web3 Agents | lokii | [Read More](https://medium.com/p/8673d2f3a602) |
 | Sat, 09 May 2026 13:55:44 GMT | Canvas data breach: A shadow industry of cybercrime | Evie | [Read More](https://medium.com/p/dc582b8ea698) |
 | Sat, 09 May 2026 13:53:44 GMT | slort windows Walkthrough (Proving-ground-paly-OSCP) | Cyber Public School | [Read More](https://medium.com/p/40f2c0165b3b) |
-| Sat, 09 May 2026 13:50:26 GMT | Bypassing Two-Factor Authentication Through Social Engineering Techniques | Shaker Thaher | [Read More](https://medium.com/p/6c42e5b96faf) |
-| Sat, 09 May 2026 13:31:00 GMT | Tryhackme Writeup Room Harder Walkthrough | MainEkHacker | [Read More](https://medium.com/p/1e277a9d7567) |
-| Sat, 09 May 2026 13:26:47 GMT | Building Custom Plugins and Agents in Microsoft Security Copilot | Yash Mudaliar | [Read More](https://medium.com/p/7a9762cef088) |
-| Sat, 09 May 2026 13:25:50 GMT | Your FastAPI Service Is Leaking PII Into Your Logs. Here’s the Architecture to Stop It. | Abhinav Dobhal | [Read More](https://medium.com/p/704ce1a48e6b) |
-| Sat, 09 May 2026 13:24:36 GMT | Understanding BOLA — The #1 API Security Risk You Can’t Ignore | Sana Jalil | [Read More](https://medium.com/p/ea074877f37e) |
-| Sat, 09 May 2026 13:22:15 GMT | Is Your Network Orchestration Layer a Single Point of Failure Waiting to Be Pulled? | Finstein.ai | [Read More](https://medium.com/p/14cf9795b767) |
-| Sat, 09 May 2026 13:09:43 GMT | WebDAV Zafiyeti ve Sudo Yanlış Yapılandırması ile Sisteme Sızma - CTF Çözümü | Beytullaharslannnn | [Read More](https://medium.com/p/41620ff5ea3c) |
