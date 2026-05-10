@@ -12,11 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 May 2026 10:27:23 GMT | Incident Report · May 2026 | Hamza Yaqoob | [Read More](https://medium.com/p/40c3ba091bb5) |
+| Sun, 10 May 2026 10:22:27 GMT | Browser Privacy in 2026: Why the Web Feels Heavier Than Ever | Dhaichione | [Read More](https://medium.com/p/4687fd9ca2b7) |
+| Sun, 10 May 2026 10:19:22 GMT | I built a SOC analyst notes tool that completely changed how I worked! | Viper404 | [Read More](https://medium.com/p/2c4d184a70b8) |
+| Sun, 10 May 2026 10:17:55 GMT | How a Single ;/ Bypassed a Cloud WAF and Reached Protected Spring Boot Endpoints | Alareqi | [Read More](https://medium.com/p/78020d5f86dd) |
+| Sun, 10 May 2026 10:15:39 GMT | From Leaked AWS Key to Data Exfiltration in 60 Seconds: Are We Ready? | Adan | [Read More](https://medium.com/p/28213bc73678) |
+| Sun, 10 May 2026 10:13:01 GMT | The Night Our SSL Certificate Expired in Production — and What I Learned About HTTPS | CacheGuard Technologies | [Read More](https://medium.com/p/d44e9ca7a0a5) |
+| Sun, 10 May 2026 10:10:25 GMT | IPsec or SSL VPN? Six Questions Small Teams Actually Ask (Answered Plainly) | CacheGuard Technologies | [Read More](https://medium.com/p/925639623e05) |
+| Sun, 10 May 2026 10:01:02 GMT | How I Would Learn Cybersecurity If I Could Start Over | Victoria Coker | [Read More](https://medium.com/p/fb4a3ab712d4) |
+| Sun, 10 May 2026 09:52:55 GMT | Every day, people wake up and connect to the internet without realizing they are walking into a… | David Chimburuoma Odum | [Read More](https://medium.com/p/4b4811c73115) |
+| Sun, 10 May 2026 09:50:34 GMT | IP Address in Networking Explained Simply | Shalu | [Read More](https://medium.com/p/68a99cb18c0d) |
+| Sun, 10 May 2026 09:47:04 GMT | How Digital Signatures Work From a Software Engineer’s Perspective | Nuwan Madusanka | [Read More](https://medium.com/p/c2a2fe0d4382) |
+| Sun, 10 May 2026 09:41:24 GMT | CISSP Chapter 2 — Part 2: Risk Is Not a Threat. It Is a Relationship. | Atakan ATAK | [Read More](https://medium.com/p/687e6c4cea0a) |
+| Sun, 10 May 2026 09:40:35 GMT | OutSystems Security: AI + Aggregates = Fixing technical debt. | Lucas Soares | [Read More](https://medium.com/p/2ce7a0eddc50) |
+| Sun, 10 May 2026 09:40:32 GMT | I Built a Recon Tool That Runs While I Sleep. Meet Wraith. | Voldemort | [Read More](https://medium.com/p/5707af535bef) |
+| Sun, 10 May 2026 09:39:13 GMT | OutSystems Security: AI + Aggregates = Fixing technical debt. | Lucas Soares | [Read More](https://medium.com/p/2e5bd91eee11) |
+| Sun, 10 May 2026 09:13:07 GMT | How NFC Works in Android: Hidden Architecture and Real Security Risks | Afi0pchik | [Read More](https://medium.com/p/a5c9b41d2929) |
 | Sun, 10 May 2026 08:59:04 GMT | Practical Zero Trust: How to Secure What Actually Matters | Kanik Sachdeva | [Read More](https://medium.com/p/4e5f8eee19e0) |
 | Sun, 10 May 2026 08:51:07 GMT | What Two Years of OpenFGA in a Multi-Tenant SaaS Taught Me About Modeling Authority | Aakash Rana | [Read More](https://medium.com/p/0225777cca49) |
 | Sun, 10 May 2026 08:42:07 GMT | Fluffy | Md Fahim Al Shihab | [Read More](https://medium.com/p/86ed770d1d2b) |
 | Sun, 10 May 2026 08:37:06 GMT | How to Measure Students’ Cybersecurity Skills | Hannah Adam | [Read More](https://medium.com/p/a6b588178612) |
 | Sun, 10 May 2026 08:37:00 GMT | 275 Million Students and Teachers Exposed. | Sai kiran | [Read More](https://medium.com/p/10a5d8756f03) |
+| Sun, 10 May 2026 08:30:47 GMT | Analysis of CVE-2026–34621: Making dead bugs tell tales | upsidedwn | [Read More](https://medium.com/p/c0d0fa0c28a2) |
 | Sun, 10 May 2026 08:16:34 GMT | IOS camera do not detect or warn against homograph domains leading to malicous website | VRSECLABS PVT. LTD. | [Read More](https://medium.com/p/5a39829d896c) |
 | Sun, 10 May 2026 08:12:20 GMT | Why Hunter × Hunter Is Still One of the Greatest Anime Ever | VikiTrifaldi | [Read More](https://medium.com/p/c1ce36c06e8f) |
 | Sun, 10 May 2026 08:11:21 GMT | Critical Recon -> easy Bug Bounty (Red Bull) | Pradeep J. | [Read More](https://medium.com/p/3834275a55c2) |
@@ -32,7 +49,9 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 May 2026 07:04:45 GMT | The Verification Machine: What the Firefox/Claude Mythos News Actually Tells Us | The Gate Breaker | [Read More](https://medium.com/p/f5210c1d32a8) |
 | Sun, 10 May 2026 07:03:08 GMT | OWASP Application Security Risk 10:2025 A03 Software Supply Chain Failures | Tiago Silva | [Read More](https://medium.com/p/b72d1622abe5) |
 | Sun, 10 May 2026 07:02:44 GMT | The Age of Self-Building Systems and the Rise of Self-Devouring Systems | Swapnil Deshpande | [Read More](https://medium.com/p/2603a383d5f8) |
+| Sun, 10 May 2026 06:59:45 GMT | When a Simple ‘git push’ Becomes Dangerous: Lessons from the GitHub RCE (CVE-2026–3854) | Chuba R | [Read More](https://medium.com/p/e5716f12a5c7) |
 | Sun, 10 May 2026 06:59:14 GMT | Refresh Token Rotation: Stay Secure Without Logging Users Out | Sajjad Hossen | [Read More](https://medium.com/p/cdfdba13e0db) |
+| Sun, 10 May 2026 06:56:26 GMT | Linux Ekosistemini Sarsan Yeni “Root” Tehlikesi: Dirty Frag ve CVE-2026–31431'in Mirası | Kerem Işık | [Read More](https://medium.com/p/f7305458ab90) |
 | Sun, 10 May 2026 06:56:18 GMT | Complete Guide: Installing Shuffle SOAR on Ubuntu Server 22.04.5 with Docker | Md. Mahim Hossain | [Read More](https://medium.com/p/aa2cc1ad5b9a) |
 | Sun, 10 May 2026 06:52:43 GMT | Upcoming 2026 Cybersecurity Conferences & Events to Attend | Emory French | [Read More](https://medium.com/p/af8bc3ceb023) |
 | Sun, 10 May 2026 06:45:59 GMT | Best Linux System Administration Course in Delhi with RHCSA Certification | cyber security Updates | [Read More](https://medium.com/p/034d2a16f9d5) |
@@ -94,22 +113,3 @@ of the Other | Jazen Cosby | [Read More](https://medium.com/p/81df50ac6624) |
 | Sat, 09 May 2026 19:55:51 GMT | NahamStore — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/b858d6eb8fa4) |
 | Sat, 09 May 2026 19:54:10 GMT | OffSec Proving Grounds “BBSCute” CTF writeup | sabR | [Read More](https://medium.com/p/30567373be0e) |
 | Sat, 09 May 2026 19:53:57 GMT | Splunk Universal Forwarder Kurulumu: Adım Adım Uygulamalı Rehber | Ahmet Badem | [Read More](https://medium.com/p/30a91858a47e) |
-| Sat, 09 May 2026 19:44:21 GMT | The Hidden War Inside Your Phone: How Foreign Disinformation Is Tearing America Apart | Robert Morton | [Read More](https://medium.com/p/5ed4c868e255) |
-| Sat, 09 May 2026 19:27:33 GMT | Sonar Agent: AI-Powered Auto-Remediation for SonarQube in CI/CD Pipelines | DarkKnight | [Read More](https://medium.com/p/e276fe560317) |
-| Sat, 09 May 2026 19:17:48 GMT | The Airport Analogy: Why Cybersecurity is Actually About Immigration | Hack The Cyber | [Read More](https://medium.com/p/0c89a810cd41) |
-| Sat, 09 May 2026 19:17:24 GMT | TCM Practical AI Pentest Associate (PAPA) Review: My Honest Experience (2026 — English Version) | Artwerty | [Read More](https://medium.com/p/ab1f2bea1ab8) |
-| Sat, 09 May 2026 19:16:54 GMT | TCM Practical AI Pentest Associate (PAPA) Review: My Honest Experience (2026 — Thai Version) | Artwerty | [Read More](https://medium.com/p/2df70319bd89) |
-| Sat, 09 May 2026 19:12:03 GMT | Automating Angry Birds Transformers in 2026: A Deep Dive into ABTFarmer | Artur Pen | [Read More](https://medium.com/p/77145952ac4c) |
-| Sat, 09 May 2026 19:03:12 GMT | Day 25: SIEM Query Basics (KQL) | Siddhesh Patil | [Read More](https://medium.com/p/98236a8110dd) |
-| Sat, 09 May 2026 18:50:14 GMT | Looking Like a Vault Door Is Not the Same as Being One | Edward Meyman | [Read More](https://medium.com/p/456820258168) |
-| Sat, 09 May 2026 18:49:50 GMT | BoogeyMan 2 -TryHackMe Write-up | rla.s1 | [Read More](https://medium.com/p/61d381f41206) |
-| Sat, 09 May 2026 18:49:07 GMT | Uncovering Malware Behaviour of a Suspicious Sample Through Static Analysis Technique. | Cyberfairy | [Read More](https://medium.com/p/af700a429991) |
-| Sat, 09 May 2026 18:45:42 GMT | Cyber Operations in the US and Modern legal challenges | Hubertgakpo22@yahoo.com | [Read More](https://medium.com/p/481f637a03a0) |
-| Sat, 09 May 2026 18:43:46 GMT | I Built a Network Intrusion Detection System (NIDS )That Hits 99.87% | Shreesh k | [Read More](https://medium.com/p/e8178cdf84cc) |
-| Sat, 09 May 2026 18:36:34 GMT | 7 AI Tools Every Computer Science Student Should Start Using in 2026 | Amna Rehan | [Read More](https://medium.com/p/75701ffea879) |
-| Sat, 09 May 2026 18:36:00 GMT | Israeli Prime Minister Netanyahu Vows No Deal with Iran Until Its Nuclear Program Is Fully… | Online  News | [Read More](https://medium.com/p/92773e0491ad) |
-| Sat, 09 May 2026 18:34:31 GMT | Becoming Jack of all Trades, before 25. | Arpit Pathak | [Read More](https://medium.com/p/8b311d5e275b) |
-| Sat, 09 May 2026 18:33:40 GMT | How to Communicate with Anonymous Sources in 2026 Without a Server Trail | Dimitris | [Read More](https://medium.com/p/19ecefd3df8c) |
-| Sat, 09 May 2026 18:31:25 GMT | VPN на Android в поездке: что проверить до выезда. | SapsanVPN | [Read More](https://medium.com/p/3f5e7317e3bf) |
-| Sat, 09 May 2026 18:31:00 GMT | ACTIVE DIRECTORY | Anubhav_bora | [Read More](https://medium.com/p/4fd01466cd69) |
-| Sat, 09 May 2026 18:28:44 GMT | Designing safer listItems and getItem permissions | Tamas Sallai | [Read More](https://medium.com/p/e9a65597a746) |
