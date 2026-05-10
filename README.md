@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 May 2026 22:38:25 GMT | Beyond the Utilman Trick: An Offensive Security Analysis of Windows Authentication Bypass via… | Maimo Harris | [Read More](https://medium.com/p/829ec5162d75) |
+| Sun, 10 May 2026 22:23:10 GMT | You’ll Owe Me | Silent Observer | [Read More](https://medium.com/p/a4bc4d0fb9c4) |
+| Sun, 10 May 2026 22:22:03 GMT | Stack Trace Exposure via Malformed Authorization Header | Hamza | [Read More](https://medium.com/p/e746bf98c702) |
+| Sun, 10 May 2026 22:21:34 GMT | Exposed Database Dump via Directory Listing on ETH Zurich Infrastructure | Hamza | [Read More](https://medium.com/p/23770bcd04cd) |
+| Sun, 10 May 2026 21:51:31 GMT | THE XZ UTILS BACKDOOR | oscar protheroe | [Read More](https://medium.com/p/4ba569ff398d) |
 | Sun, 10 May 2026 21:21:49 GMT | A Simple GPT Image Prompt Formula for Consistent Results | Saranaisi | [Read More](https://medium.com/p/922ec9e41914) |
 | Sun, 10 May 2026 21:15:16 GMT | Detecting Remote Thread Creation with Windows Driver | S12 - 0x12Dark Development | [Read More](https://medium.com/p/9901fdbaf7b1) |
 | Sun, 10 May 2026 21:13:52 GMT | OSCP Dailies: THM — Attacktive Directory — Day 3 | MichaelLearns_ | [Read More](https://medium.com/p/cc953e027daa) |
@@ -108,8 +113,3 @@ Why Guardrails Are Your First Line of Defense | Eman Khalid | [Read More](https:
 | Sun, 10 May 2026 13:23:11 GMT | SSH Hardenings That an Stop Almost All Attacks At Your Server Part 1 | Devansh Patel | [Read More](https://medium.com/p/386546851982) |
 | Sun, 10 May 2026 13:23:04 GMT | Google XSS game report | Adeleke Ismail Ifeoluwa | [Read More](https://medium.com/p/2ebba23fed0b) |
 | Sun, 10 May 2026 13:19:28 GMT | Building a Python CI/CD Pipeline: Errors, False Positives, and Lessons Learned | zal ef | [Read More](https://medium.com/p/f75743c833bb) |
-| Sun, 10 May 2026 13:16:24 GMT | The Model as Malware | Adam Overton | [Read More](https://medium.com/p/aeede61059a3) |
-| Sun, 10 May 2026 13:16:12 GMT | The “Invisible Fortress”: A 2026 Architect’s Guide to Surviving the Era of Constant Breach | Ashvini kumar upadhyay | [Read More](https://medium.com/p/042d349ad081) |
-| Sun, 10 May 2026 13:16:00 GMT | If Someone Walked Out of Your Business Today With a Laptop, What Would They Take With Them? | Blee | [Read More](https://medium.com/p/d3aa91878d3b) |
-| Sun, 10 May 2026 13:13:46 GMT | Ubuntu Blocked One Door. Dirty Frag Found Another | The Stateless Samurai | [Read More](https://medium.com/p/3fccaa36525c) |
-| Sun, 10 May 2026 13:13:19 GMT | The Roadside Republic: How Social Media Is Expediting Police Reforms in Nigeria | Joshua Ogbonna | [Read More](https://medium.com/p/c1d657d6b1d7) |
