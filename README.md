@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 May 2026 03:59:26 GMT | Judgmental is Bullying | The Alive Poetess | [Read More](https://medium.com/p/8082258cb712) |
+| Sun, 10 May 2026 03:44:40 GMT | What a Production Incident Taught Me About Building Enterprise-Scale Rollout Systems. | Ashwath Nivas | [Read More](https://medium.com/p/a3329b16b33d) |
+| Sun, 10 May 2026 03:04:39 GMT | eJPT Web Application Penetration Testing CTF 1 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/64395061902e) |
+| Sun, 10 May 2026 02:40:49 GMT | Why Small Businesses Are Easy Targets for Scammers? | yroyg | [Read More](https://medium.com/p/47f31ca6dbce) |
+| Sun, 10 May 2026 02:35:34 GMT | Dead Drop C2 Channels | Paritosh | [Read More](https://medium.com/p/a08910a47f6e) |
+| Sun, 10 May 2026 02:11:21 GMT | Why AI-Generated Practice Exams Keep Failing Real Candidates | Mike McNelis | [Read More](https://medium.com/p/c974da7b7a43) |
+| Sun, 10 May 2026 01:57:05 GMT | Token security intelligence: Cloud security monitoring agents | Nachiketh Rao | [Read More](https://medium.com/p/6ea25f7d1d1e) |
+| Sun, 10 May 2026 01:31:15 GMT | eJPT Post-Exploitation CTF 2 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/0dcbb79cf4bc) |
+| Sun, 10 May 2026 00:39:07 GMT | What ShinyHunters Just Did to Canvas Should Terrify Every SaaS‑Dependent Organization | The Cyber Ghost | [Read More](https://medium.com/p/f56061a7c699) |
+| Sun, 10 May 2026 00:33:40 GMT | CTF pwn105 @ TryHackMe | Rafael David | [Read More](https://medium.com/p/1b9c6d8ab832) |
+| Sun, 10 May 2026 00:28:08 GMT | Cyber Regulation Made Us More Auditable. Did It Make Us More Defensible? | Thian Chin | [Read More](https://medium.com/p/7f47ee7d3416) |
+| Sun, 10 May 2026 00:15:44 GMT | How AI Governance, Cybersecurity, and Data Governance Fit Together | Savneet Singh | [Read More](https://medium.com/p/eb276cb7f63d) |
+| Sun, 10 May 2026 00:01:20 GMT | Implementing Zero Trust Access for Your Database Layer: A Practical Guide | OnePAM.com | [Read More](https://medium.com/p/27e5b8096209) |
 | Sat, 09 May 2026 23:55:04 GMT | Why SSH Keys Are a Ticking Time Bomb in Your Infrastructure (And What to Use Instead) | OnePAM.com | [Read More](https://medium.com/p/9b25e7d6de3f) |
 | Sat, 09 May 2026 23:32:22 GMT | The Law Already Solved This: Property, Agency, and the Missing Primitive in AI Governance | Paul Knowles | [Read More](https://medium.com/p/7902b6a1cdd6) |
 | Sat, 09 May 2026 23:32:02 GMT | Unmasking MuddyWater ConnectWise ScreenConnect Installer | SIMKRA | [Read More](https://medium.com/p/ce05e2e63115) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 15:38:46 GMT | Paying ? Deel’s Exchange RateRemote Teams in EUR/USD/GBPs vs Papaya | Lambertopara | [Read More](https://medium.com/p/ec9f0733a332) |
 | Sat, 09 May 2026 15:30:01 GMT | Team - TryHackMe Walkthrough | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/9d60ac834382) |
 | Sat, 09 May 2026 15:22:18 GMT | Important Windows Event IDs Every SOC Analyst Should Know! | Prajav krzx | [Read More](https://medium.com/p/41af97349bbf) |
-| Sat, 09 May 2026 15:14:19 GMT | AI vs Human Hackers in 2026: Who’s Really Winning the Cybersecurity War — And What It Means for You | A | [Read More](https://medium.com/p/a38f6d4767d4) |
-| Sat, 09 May 2026 15:02:16 GMT | The 30-Minute Breach: How an Attacker Went from Port Scan to Data Exfiltration on a Cloud Server | Ezechi Jeremiah Chigozie | [Read More](https://medium.com/p/158e64fd109a) |
-| Sat, 09 May 2026 15:01:01 GMT | Hackeo masivo de portales Canvas impulsa nueva campaña de extorsión del grupo ShinyHunters | Tiziano Mass | [Read More](https://medium.com/p/0f7e80550326) |
-| Sat, 09 May 2026 14:57:02 GMT | What I Learned Building Azure Governance From Scratch | Joseph A. M. | [Read More](https://medium.com/p/ef0a480891c4) |
-| Sat, 09 May 2026 14:54:24 GMT | ️ SDLC 全解析：軟體開發生命週期是什麼？ | 思維舞步 MindSteps | [Read More](https://medium.com/p/d15201799762) |
-| Sat, 09 May 2026 14:35:15 GMT | My experience with Copy Fail vulnerability — CVE-2026–31431 | Dardan Hasani | [Read More](https://medium.com/p/a8acdb63de84) |
-| Sat, 09 May 2026 14:33:30 GMT | Defense Dynamics in the Days of Deluge and Decoys | Gokul B Alex | [Read More](https://medium.com/p/457d2df5bbea) |
-| Sat, 09 May 2026 14:32:16 GMT | How Sable Turned a Scanner Endpoint into Azure Token Exfiltration | Daniel Knight | [Read More](https://medium.com/p/072adc6936e0) |
-| Sat, 09 May 2026 14:24:48 GMT | The defener’s dilemma just flipped | Robert Maciejko | [Read More](https://medium.com/p/0eb8ce938165) |
-| Sat, 09 May 2026 14:20:52 GMT | Laporan Praktikum Basis Data : Sub Query | Cahyoadi | [Read More](https://medium.com/p/6edd284c9875) |
-| Sat, 09 May 2026 14:14:59 GMT | Securing the Backbone — Issue #38: The Fallacy of ‘Shift Left’: Why Security Must Own Curation —… | Eric Gallagher | [Read More](https://medium.com/p/508c825a6bc3) |
-| Sat, 09 May 2026 14:12:45 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / HIRE A HACKER WHO CAN HELP YOU IN RECOVERY YOUR STOLEN FUNDS | Milabenjamin | [Read More](https://medium.com/p/4c226ec67119) |
-| Sat, 09 May 2026 14:09:49 GMT | Deadsick - CTF Reverse Engineering Write Up (ARA 7.0 ITS) | Belle | [Read More](https://medium.com/p/ed1dd6965d88) |
