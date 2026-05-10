@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 May 2026 18:21:45 GMT | Log 1: The Sahara Shift | Northbound | [Read More](https://medium.com/p/c32a1a30ca1c) |
+| Sun, 10 May 2026 18:06:36 GMT | Securing Your Odoo CRM: A Developer’s Guide to Access Rights and Record Rules | Abhay Singh | [Read More](https://medium.com/p/cd77d9be9c4e) |
+| Sun, 10 May 2026 18:05:45 GMT | You have an EDR. Get Xshield. Become breach-ready in hours. Today. | Agnidipta Sarkar | [Read More](https://medium.com/p/5185c0f60abb) |
+| Sun, 10 May 2026 18:04:00 GMT | WebVerse Pro Stole My Night (And I’m Not Mad) | 0ber1n | [Read More](https://medium.com/p/0654b847d402) |
+| Sun, 10 May 2026 18:01:00 GMT | The Agent Was Helpful Right Until It Wrote to the Wrong System | Syntal | [Read More](https://medium.com/p/544e532bc8fd) |
+| Sun, 10 May 2026 17:58:20 GMT | From Zero to Exploit Developer: The Complete Career & Learning Roadmap for Beginners (2025 Edition) | Akifkhan | [Read More](https://medium.com/p/d4f741401cd9) |
+| Sun, 10 May 2026 17:57:52 GMT | Wallet Age: Your Invisible Shield Against Crypto Scams | Shakeel Skl | [Read More](https://medium.com/p/52d9e7e62212) |
+| Sun, 10 May 2026 17:52:23 GMT | Inside the GenAI-STIX 2.1 Generator: Architecting a Hybrid AI System for Threat Intelligence | Giulio Triggiani | [Read More](https://medium.com/p/911378736a4e) |
+| Sun, 10 May 2026 17:36:33 GMT | Birkaç dolarlık bir ESP32 ile Google login sayfasını nasıl kopyaladım | fscakmak | [Read More](https://medium.com/p/a684a601d6d6) |
+| Sun, 10 May 2026 17:34:21 GMT | Four Most Common Application Vulnerabilities You Should Be Aware Of | Mahdi | [Read More](https://medium.com/p/0fb0a2c5bfba) |
+| Sun, 10 May 2026 17:31:20 GMT | Scaling Full-Stack Applications in High-Compliance Environments | Skjbomule | [Read More](https://medium.com/p/a76fe0784611) |
+| Sun, 10 May 2026 17:27:31 GMT | AI Fatigue | Elitios | [Read More](https://medium.com/p/696fe47eefa1) |
+| Sun, 10 May 2026 17:22:29 GMT | The Hidden Psychological Cost of Being a Smart Contract Security Researcher | Abraham | [Read More](https://medium.com/p/baa471f27143) |
+| Sun, 10 May 2026 17:18:52 GMT | TryHackMe- OLLİE- WriteUp | Burak | [Read More](https://medium.com/p/7337bfb6b7fd) |
+| Sun, 10 May 2026 17:12:41 GMT | I Predicted a Vulnerability Before I Even Touched the Target | Iski | [Read More](https://medium.com/p/2a72b5b693d2) |
+| Sun, 10 May 2026 17:05:16 GMT | Securing Swagger, Scalar, and Health Endpoints in ASP.NET | Mahmood Alsarraj | [Read More](https://medium.com/p/a377cbcaccc2) |
 | Sun, 10 May 2026 16:52:36 GMT | Your AI Chatbot Has a Security Problem , Just Not the One You Think | Gal Dahan | [Read More](https://medium.com/p/44c4cb5a1833) |
 | Sun, 10 May 2026 16:47:40 GMT | Classification Algorithms which you require to master. | AjayKrish | [Read More](https://medium.com/p/9898f7c29019) |
 | Sun, 10 May 2026 16:39:58 GMT | 7 Common Security Mistakes That Can Destroy Your Website | Mubashir | [Read More](https://medium.com/p/2b606ebc2574) |
@@ -97,19 +113,3 @@ Why Guardrails Are Your First Line of Defense | Eman Khalid | [Read More](https:
 | Sun, 10 May 2026 11:01:05 GMT | The Best Bug Bounty Skill Isn’t Hacking… It’s Pattern Recognition | Arfa | [Read More](https://medium.com/p/3790ee33fb85) |
 | Sun, 10 May 2026 10:59:42 GMT | Privacy and Security are not the same thing | Jorge Castaneda, D.Eng (c), MLS | [Read More](https://medium.com/p/08a466b17c98) |
 | Sun, 10 May 2026 10:51:09 GMT | Lab: Exploiting AI agents to perform destructive actions | Emman Cajucom | [Read More](https://medium.com/p/1377e55649cd) |
-| Sun, 10 May 2026 10:27:23 GMT | Incident Report · May 2026 | Hamza Yaqoob | [Read More](https://medium.com/p/40c3ba091bb5) |
-| Sun, 10 May 2026 10:22:27 GMT | Browser Privacy in 2026: Why the Web Feels Heavier Than Ever | Dhaichione | [Read More](https://medium.com/p/4687fd9ca2b7) |
-| Sun, 10 May 2026 10:19:22 GMT | I built a SOC analyst notes tool that completely changed how I worked! | Viper404 | [Read More](https://medium.com/p/2c4d184a70b8) |
-| Sun, 10 May 2026 10:17:55 GMT | How a Single ;/ Bypassed a Cloud WAF and Reached Protected Spring Boot Endpoints | Alareqi | [Read More](https://medium.com/p/78020d5f86dd) |
-| Sun, 10 May 2026 10:15:39 GMT | From Leaked AWS Key to Data Exfiltration in 60 Seconds: Are We Ready? | Adan | [Read More](https://medium.com/p/28213bc73678) |
-| Sun, 10 May 2026 10:13:01 GMT | The Night Our SSL Certificate Expired in Production — and What I Learned About HTTPS | CacheGuard Technologies | [Read More](https://medium.com/p/d44e9ca7a0a5) |
-| Sun, 10 May 2026 10:10:25 GMT | IPsec or SSL VPN? Six Questions Small Teams Actually Ask (Answered Plainly) | CacheGuard Technologies | [Read More](https://medium.com/p/925639623e05) |
-| Sun, 10 May 2026 10:01:02 GMT | How I Would Learn Cybersecurity If I Could Start Over | Victoria Coker | [Read More](https://medium.com/p/fb4a3ab712d4) |
-| Sun, 10 May 2026 09:52:55 GMT | Every day, people wake up and connect to the internet without realizing they are walking into a… | David Chimburuoma Odum | [Read More](https://medium.com/p/4b4811c73115) |
-| Sun, 10 May 2026 09:50:34 GMT | IP Address in Networking Explained Simply | Shalu | [Read More](https://medium.com/p/68a99cb18c0d) |
-| Sun, 10 May 2026 09:47:04 GMT | How Digital Signatures Work From a Software Engineer’s Perspective | Nuwan Madusanka | [Read More](https://medium.com/p/c2a2fe0d4382) |
-| Sun, 10 May 2026 09:41:24 GMT | CISSP Chapter 2 — Part 2: Risk Is Not a Threat. It Is a Relationship. | Atakan ATAK | [Read More](https://medium.com/p/687e6c4cea0a) |
-| Sun, 10 May 2026 09:40:35 GMT | OutSystems Security: AI + Aggregates = Fixing technical debt. | Lucas Soares | [Read More](https://medium.com/p/2ce7a0eddc50) |
-| Sun, 10 May 2026 09:40:32 GMT | I Built a Recon Tool That Runs While I Sleep. Meet Wraith. | Voldemort | [Read More](https://medium.com/p/5707af535bef) |
-| Sun, 10 May 2026 09:39:13 GMT | OutSystems Security: AI + Aggregates = Fixing technical debt. | Lucas Soares | [Read More](https://medium.com/p/2e5bd91eee11) |
-| Sun, 10 May 2026 09:13:07 GMT | How NFC Works in Android: Hidden Architecture and Real Security Risks | Afi0pchik | [Read More](https://medium.com/p/a5c9b41d2929) |
