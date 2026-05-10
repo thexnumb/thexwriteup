@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 May 2026 15:51:20 GMT | Proactive AI Security: 
+Why Guardrails Are Your First Line of Defense | Eman Khalid | [Read More](https://medium.com/p/d8bc686b35bb) |
+| Sun, 10 May 2026 15:50:56 GMT | The Reality of Working in Cybersecurity at Large Enterprises | Suraj Vishwakarma | [Read More](https://medium.com/p/24c3d89c2643) |
+| Sun, 10 May 2026 15:46:34 GMT | Stop Treating ATT&CK Mapping as a Single-Label Problem | Shujie Zhao | [Read More](https://medium.com/p/bcfa2a381fe6) |
+| Sun, 10 May 2026 15:46:16 GMT | Wingdata HTB Writeup: WingFTP RCE, Credential Cracking, Python CVE-2025-4517 & Root Access | Indu Shekhar Pandey | [Read More](https://medium.com/p/64542edf7977) |
+| Sun, 10 May 2026 15:39:22 GMT | It Was Never About Him | pn | [Read More](https://medium.com/p/620f5ff0bb8b) |
+| Sun, 10 May 2026 15:37:19 GMT | Free Online Game Collection for Bug Hunters — Including a Sushi-Themed Arcade and a Kanji Quiz | morioka12 | [Read More](https://medium.com/p/7147c6232aca) |
+| Sun, 10 May 2026 15:34:59 GMT | Dawn — Writable SMB Share Cron Abuse + SUID Zsh to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/ef984b280191) |
+| Sun, 10 May 2026 15:34:51 GMT | Week 7: Linux Job Scheduling — How hackers automate the boring stuff | Nishant kumar | [Read More](https://medium.com/p/e816688b9e6f) |
+| Sun, 10 May 2026 15:34:33 GMT | The “Cursor-Grade” Auth Protocol: Why Desktop Apps are Moving to the Browser | Mohammad Abir Abbas | [Read More](https://medium.com/p/8f6e51c70fa1) |
+| Sun, 10 May 2026 15:23:07 GMT | 86% of Agent Context Files Skip Security Instructions — I Scanned 2,303 to See What's Actually… | Phoenix | [Read More](https://medium.com/p/a823afb868f8) |
+| Sun, 10 May 2026 15:20:50 GMT | The Next World War Won’t Be Fought with Guns | Hruthvik HB | [Read More](https://medium.com/p/9c4980f81087) |
+| Sun, 10 May 2026 15:20:30 GMT | Injecting Custom Claims into Azure AD JWTs at Scale: A Practical Guide | suman saha | [Read More](https://medium.com/p/056d30791392) |
+| Sun, 10 May 2026 15:18:29 GMT | The “Vibe” is Not Enough: Why “Shift Left Security” is the Missing Link in AI-Driven Development | Rai Miralles Febrer | [Read More](https://medium.com/p/5d94f4df55b7) |
+| Sun, 10 May 2026 15:18:12 GMT | TryHackMe Walkthrough: Windows PowerShell | Shubham Khirwadkar | [Read More](https://medium.com/p/bbd54db3b6b4) |
+| Sun, 10 May 2026 15:11:13 GMT | Exploiting Username Enumeration via Different Responses | Shobhit Gupta | [Read More](https://medium.com/p/0460fa72b116) |
+| Sun, 10 May 2026 15:07:41 GMT | Tryhackme: Wgel WriteUp | Burak | [Read More](https://medium.com/p/81d1608ccd92) |
+| Sun, 10 May 2026 14:56:54 GMT | The Burden of Truth | Khan Khishigbat | [Read More](https://medium.com/p/f56edfab7a6d) |
+| Sun, 10 May 2026 14:45:44 GMT | INSTALLING KALI LINUX IN VIRTUAL MACHINE | Muhammed Irfan | [Read More](https://medium.com/p/2b0c5649796a) |
+| Sun, 10 May 2026 14:44:06 GMT | Top 10 Google Dorks Every Bug Bounty Beginner Should Know | Riya Limba | [Read More](https://medium.com/p/b308e39db490) |
+| Sun, 10 May 2026 14:40:52 GMT | Surviving Byzantine Fire: Empirical Proof of a Deterministic Web3 AI Architecture | lokii | [Read More](https://medium.com/p/217e86b86dc1) |
+| Sun, 10 May 2026 14:40:21 GMT | Beyond the Password: 5 Counter-Intuitive Truths About Your Digital Life | Muhammad Ibraheem | [Read More](https://medium.com/p/356a70c184ff) |
 | Sun, 10 May 2026 14:21:12 GMT | Linux Just Got Rooted Again — Meet Dirty Frag, the Zero-Day Nobody Has Fully Patched Yet | Krithick | [Read More](https://medium.com/p/7274ab12abd0) |
 | Sun, 10 May 2026 14:16:24 GMT | VPN Does Not Make Cleartext Protocols Safe. Neither Does ZTNA | Azeez Adeniji | [Read More](https://medium.com/p/28672eb0f430) |
 | Sun, 10 May 2026 14:16:04 GMT | フェイクフェイス・フェイルセイフ - CTF Miscellaneous Write Up (ARA 7.0 ITS) | Belle | [Read More](https://medium.com/p/ea4298a619b1) |
@@ -91,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 May 2026 08:16:34 GMT | IOS camera do not detect or warn against homograph domains leading to malicous website | VRSECLABS PVT. LTD. | [Read More](https://medium.com/p/5a39829d896c) |
 | Sun, 10 May 2026 08:12:20 GMT | Why Hunter × Hunter Is Still One of the Greatest Anime Ever | VikiTrifaldi | [Read More](https://medium.com/p/c1ce36c06e8f) |
 | Sun, 10 May 2026 08:11:21 GMT | Critical Recon -> easy Bug Bounty (Red Bull) | Pradeep J. | [Read More](https://medium.com/p/3834275a55c2) |
-| Sun, 10 May 2026 08:11:08 GMT | Starting My Cybersecurity Journey | SaNa | [Read More](https://medium.com/p/7c7c7267bb80) |
-| Sun, 10 May 2026 08:06:28 GMT | The Agony of the Correct Choice: Why Following Your Heart Can Sometimes Ruin Your Life | Sayali Hatwar | [Read More](https://medium.com/p/0f9bfc7a764f) |
-| Sun, 10 May 2026 07:54:36 GMT | Binance Delisting Alert | Crypto Clark | [Read More](https://medium.com/p/c5d8dccd3bc3) |
-| Sun, 10 May 2026 07:54:20 GMT | The Kubernetes Security Hole You Can’t Afford to Ignore | Yatin | [Read More](https://medium.com/p/beb1e7f44bc7) |
-| Sun, 10 May 2026 07:47:02 GMT | Critical Microsoft 365 Copilot Vulnerabilities Expose Sensitive Information | Suresh | [Read More](https://medium.com/p/8667b4ff34e8) |
-| Sun, 10 May 2026 07:44:21 GMT | Battle on machines. | Teneriffa1 | [Read More](https://medium.com/p/252366379841) |
-| Sun, 10 May 2026 07:44:03 GMT | Enterprise Software Venture Capital: How SaaS Startups Win Funding in 2025-2026 | Larry Adams | [Read More](https://medium.com/p/2c81e7c6ed2d) |
-| Sun, 10 May 2026 07:27:30 GMT | 8 OSINT tools most investigators don’t know exist — beyond Maltego and Shodan, the actual pivoting… | rootRS7 | [Read More](https://medium.com/p/403e84589ac3) |
-| Sun, 10 May 2026 07:20:28 GMT | Why “AI Efficiency” Is Harder Than It Sounds for Most Companies | Tetsuji Kondo | [Read More](https://medium.com/p/538e2f225403) |
-| Sun, 10 May 2026 07:04:45 GMT | The Verification Machine: What the Firefox/Claude Mythos News Actually Tells Us | The Gate Breaker | [Read More](https://medium.com/p/f5210c1d32a8) |
-| Sun, 10 May 2026 07:03:08 GMT | OWASP Application Security Risk 10:2025 A03 Software Supply Chain Failures | Tiago Silva | [Read More](https://medium.com/p/b72d1622abe5) |
-| Sun, 10 May 2026 07:02:44 GMT | The Age of Self-Building Systems and the Rise of Self-Devouring Systems | Swapnil Deshpande | [Read More](https://medium.com/p/2603a383d5f8) |
-| Sun, 10 May 2026 06:59:45 GMT | When a Simple ‘git push’ Becomes Dangerous: Lessons from the GitHub RCE (CVE-2026–3854) | Chuba R | [Read More](https://medium.com/p/e5716f12a5c7) |
-| Sun, 10 May 2026 06:59:14 GMT | Refresh Token Rotation: Stay Secure Without Logging Users Out | Sajjad Hossen | [Read More](https://medium.com/p/cdfdba13e0db) |
-| Sun, 10 May 2026 06:56:26 GMT | Linux Ekosistemini Sarsan Yeni “Root” Tehlikesi: Dirty Frag ve CVE-2026–31431'in Mirası | Kerem Işık | [Read More](https://medium.com/p/f7305458ab90) |
-| Sun, 10 May 2026 06:56:18 GMT | Complete Guide: Installing Shuffle SOAR on Ubuntu Server 22.04.5 with Docker | Md. Mahim Hossain | [Read More](https://medium.com/p/aa2cc1ad5b9a) |
-| Sun, 10 May 2026 06:52:43 GMT | Upcoming 2026 Cybersecurity Conferences & Events to Attend | Emory French | [Read More](https://medium.com/p/af8bc3ceb023) |
-| Sun, 10 May 2026 06:52:41 GMT | RTP ManaPlay Slot: Informasi Penting yang Banyak Dicari Pemain Slot Online | Vloggam | [Read More](https://medium.com/p/4520885df900) |
-| Sun, 10 May 2026 06:45:59 GMT | Best Linux System Administration Course in Delhi with RHCSA Certification | cyber security Updates | [Read More](https://medium.com/p/034d2a16f9d5) |
-| Sun, 10 May 2026 06:35:44 GMT | Google Has Been Quietly Saving All Your Passwords — And There’s a Page Where You Can See Every… | Deepak Thakur | [Read More](https://medium.com/p/d5d22a940892) |
-| Sun, 10 May 2026 06:34:34 GMT | Vibe Coding Is Fun. Until You See the Security Bill. | Pankaj Yadav | [Read More](https://medium.com/p/0e1d848e3ec0) |
