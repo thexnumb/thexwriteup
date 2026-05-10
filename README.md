@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 May 2026 08:59:04 GMT | Practical Zero Trust: How to Secure What Actually Matters | Kanik Sachdeva | [Read More](https://medium.com/p/4e5f8eee19e0) |
+| Sun, 10 May 2026 08:51:07 GMT | What Two Years of OpenFGA in a Multi-Tenant SaaS Taught Me About Modeling Authority | Aakash Rana | [Read More](https://medium.com/p/0225777cca49) |
+| Sun, 10 May 2026 08:42:07 GMT | Fluffy | Md Fahim Al Shihab | [Read More](https://medium.com/p/86ed770d1d2b) |
+| Sun, 10 May 2026 08:37:06 GMT | How to Measure Students’ Cybersecurity Skills | Hannah Adam | [Read More](https://medium.com/p/a6b588178612) |
+| Sun, 10 May 2026 08:37:00 GMT | 275 Million Students and Teachers Exposed. | Sai kiran | [Read More](https://medium.com/p/10a5d8756f03) |
+| Sun, 10 May 2026 08:16:34 GMT | IOS camera do not detect or warn against homograph domains leading to malicous website | VRSECLABS PVT. LTD. | [Read More](https://medium.com/p/5a39829d896c) |
+| Sun, 10 May 2026 08:12:20 GMT | Why Hunter × Hunter Is Still One of the Greatest Anime Ever | VikiTrifaldi | [Read More](https://medium.com/p/c1ce36c06e8f) |
+| Sun, 10 May 2026 08:11:21 GMT | Critical Recon -> easy Bug Bounty (Red Bull) | Pradeep J. | [Read More](https://medium.com/p/3834275a55c2) |
+| Sun, 10 May 2026 08:11:08 GMT | Starting My Cybersecurity Journey | SaNa | [Read More](https://medium.com/p/7c7c7267bb80) |
+| Sun, 10 May 2026 08:06:28 GMT | The Agony of the Correct Choice: Why Following Your Heart Can Sometimes Ruin Your Life | Sayali Hatwar | [Read More](https://medium.com/p/0f9bfc7a764f) |
+| Sun, 10 May 2026 07:54:36 GMT | Binance Delisting Alert | Crypto Clark | [Read More](https://medium.com/p/c5d8dccd3bc3) |
+| Sun, 10 May 2026 07:54:20 GMT | The Kubernetes Security Hole You Can’t Afford to Ignore | Yatin | [Read More](https://medium.com/p/beb1e7f44bc7) |
+| Sun, 10 May 2026 07:47:02 GMT | Critical Microsoft 365 Copilot Vulnerabilities Expose Sensitive Information | Suresh | [Read More](https://medium.com/p/8667b4ff34e8) |
+| Sun, 10 May 2026 07:44:21 GMT | Battle on machines. | Teneriffa1 | [Read More](https://medium.com/p/252366379841) |
+| Sun, 10 May 2026 07:44:03 GMT | Enterprise Software Venture Capital: How SaaS Startups Win Funding in 2025-2026 | Larry Adams | [Read More](https://medium.com/p/2c81e7c6ed2d) |
+| Sun, 10 May 2026 07:27:30 GMT | 8 OSINT tools most investigators don’t know exist — beyond Maltego and Shodan, the actual pivoting… | rootRS7 | [Read More](https://medium.com/p/403e84589ac3) |
 | Sun, 10 May 2026 07:20:28 GMT | Why “AI Efficiency” Is Harder Than It Sounds for Most Companies | Tetsuji Kondo | [Read More](https://medium.com/p/538e2f225403) |
 | Sun, 10 May 2026 07:04:45 GMT | The Verification Machine: What the Firefox/Claude Mythos News Actually Tells Us | The Gate Breaker | [Read More](https://medium.com/p/f5210c1d32a8) |
 | Sun, 10 May 2026 07:03:08 GMT | OWASP Application Security Risk 10:2025 A03 Software Supply Chain Failures | Tiago Silva | [Read More](https://medium.com/p/b72d1622abe5) |
@@ -97,19 +113,3 @@ of the Other | Jazen Cosby | [Read More](https://medium.com/p/81df50ac6624) |
 | Sat, 09 May 2026 18:31:25 GMT | VPN на Android в поездке: что проверить до выезда. | SapsanVPN | [Read More](https://medium.com/p/3f5e7317e3bf) |
 | Sat, 09 May 2026 18:31:00 GMT | ACTIVE DIRECTORY | Anubhav_bora | [Read More](https://medium.com/p/4fd01466cd69) |
 | Sat, 09 May 2026 18:28:44 GMT | Designing safer listItems and getItem permissions | Tamas Sallai | [Read More](https://medium.com/p/e9a65597a746) |
-| Sat, 09 May 2026 18:15:43 GMT | “5 Beginner Mistakes That Wasted My Time While Choosing Bug Bounty Targets” | Eagle Eye | [Read More](https://medium.com/p/69c0bb035093) |
-| Sat, 09 May 2026 18:13:40 GMT | Overwatch HTB — HackTheBox Walkthrough - By Alham Rizvi | Alham Rizvi | [Read More](https://medium.com/p/f99a3ff3f2ca) |
-| Sat, 09 May 2026 18:11:44 GMT | CTI-Led Defensive Strategy for a Cellular Provider (Case Study) | Andrey Pautov | [Read More](https://medium.com/p/c77bc5765b31) |
-| Sat, 09 May 2026 18:11:23 GMT | Guardians of the Horizon: US Air Force F-16s and the 2026 Middle East Posture | Golda Mizrahi | [Read More](https://medium.com/p/166c6e3faf1c) |
-| Sat, 09 May 2026 18:07:35 GMT | VPN на iPhone в путешествии: что проверить заранее. | SapsanVPN | [Read More](https://medium.com/p/16095d0123b3) |
-| Sat, 09 May 2026 18:06:41 GMT | How to Use ChatGPT Correctly in 2026 (Complete Beginner-to-Advanced Guide) | Muneeb ul Rahman | [Read More](https://medium.com/p/d30d67e6b28b) |
-| Sat, 09 May 2026 18:06:10 GMT | OverTheWire Bandit Walkthrough — Level 7 → 8 - 30-Day Cybersecurity Learning Journey (Day 8) | William | [Read More](https://medium.com/p/5597fbdf6a85) |
-| Sat, 09 May 2026 17:50:02 GMT | Canvas Hacked | Canx1 | [Read More](https://medium.com/p/e5e374f60e4f) |
-| Sat, 09 May 2026 17:48:44 GMT | From a Simple CSRF to Full Account Takeover | montaser mohsen | [Read More](https://medium.com/p/fb274a55c2da) |
-| Sat, 09 May 2026 17:48:15 GMT | Turning Small Clues Into Big Bugs — The Details Most Hunters Ignore | ghostyjoe | [Read More](https://medium.com/p/1b42224ad759) |
-| Sat, 09 May 2026 17:36:36 GMT | Stop Using chmod 777: A Developer’s Guide to Linux File Permissions | Abdullah Al Jahid | [Read More](https://medium.com/p/a7378a788f94) |
-| Sat, 09 May 2026 17:33:49 GMT | Love letters to cybersecurity part 1 : doctors & diagnoses | Sunny Allen | [Read More](https://medium.com/p/752e6de55a4f) |
-| Sat, 09 May 2026 17:22:42 GMT | The Quiet Grace of Moving on… | Muses Lillie | [Read More](https://medium.com/p/5412ce2be792) |
-| Sat, 09 May 2026 17:22:22 GMT | The End of Privacy: Why Your Photos Are Now Tracking Beacons | Jay Robinson | [Read More](https://medium.com/p/2014f3dbd790) |
-| Sat, 09 May 2026 17:21:19 GMT | Vibe Coding Didn’t Kill Programming. It Changed Who Gets to Ship Software | SOVANNARO | [Read More](https://medium.com/p/a20fb7553851) |
-| Sat, 09 May 2026 17:20:17 GMT | Fixing Missing Bridged Adapter Name in VirtualBox | Halo, Danica | [Read More](https://medium.com/p/4cc28caf7255) |
