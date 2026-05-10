@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 May 2026 16:52:36 GMT | Your AI Chatbot Has a Security Problem , Just Not the One You Think | Gal Dahan | [Read More](https://medium.com/p/44c4cb5a1833) |
+| Sun, 10 May 2026 16:47:40 GMT | Classification Algorithms which you require to master. | AjayKrish | [Read More](https://medium.com/p/9898f7c29019) |
+| Sun, 10 May 2026 16:39:58 GMT | 7 Common Security Mistakes That Can Destroy Your Website | Mubashir | [Read More](https://medium.com/p/2b606ebc2574) |
+| Sun, 10 May 2026 16:31:04 GMT | ️ Cybersecurity Career Paths Visualized: From Entry-Level to CISO | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/bc4c98c34657) |
+| Sun, 10 May 2026 16:26:22 GMT | Building a Local Network Enumerator with Python and Nmap | Shreesh k | [Read More](https://medium.com/p/a3ca53708059) |
+| Sun, 10 May 2026 16:22:39 GMT | The Strange Reality of Tracing Money on the Blockchain | Harshal Goswami | [Read More](https://medium.com/p/0267f45eb3ef) |
+| Sun, 10 May 2026 16:00:32 GMT | Performance over security: Speculative execution vulnerabilities (Spectre & Meltdown) | Z3bra | [Read More](https://medium.com/p/6294e6eb741d) |
+| Sun, 10 May 2026 15:59:43 GMT | The Dockerfile Nobody Taught You — And Why Yours Is Leaking Secrets Right Now | The Concurrent Mind | [Read More](https://medium.com/p/2d5eb7732cfb) |
+| Sun, 10 May 2026 15:56:17 GMT | Laporan Praktikum Struktur Data : Tree | Cahyoadi | [Read More](https://medium.com/p/11e4955b515a) |
 | Sun, 10 May 2026 15:51:20 GMT | Proactive AI Security: 
 Why Guardrails Are Your First Line of Defense | Eman Khalid | [Read More](https://medium.com/p/d8bc686b35bb) |
 | Sun, 10 May 2026 15:50:56 GMT | The Reality of Working in Cybersecurity at Large Enterprises | Suraj Vishwakarma | [Read More](https://medium.com/p/24c3d89c2643) |
@@ -104,12 +113,3 @@ Why Guardrails Are Your First Line of Defense | Eman Khalid | [Read More](https:
 | Sun, 10 May 2026 09:40:32 GMT | I Built a Recon Tool That Runs While I Sleep. Meet Wraith. | Voldemort | [Read More](https://medium.com/p/5707af535bef) |
 | Sun, 10 May 2026 09:39:13 GMT | OutSystems Security: AI + Aggregates = Fixing technical debt. | Lucas Soares | [Read More](https://medium.com/p/2e5bd91eee11) |
 | Sun, 10 May 2026 09:13:07 GMT | How NFC Works in Android: Hidden Architecture and Real Security Risks | Afi0pchik | [Read More](https://medium.com/p/a5c9b41d2929) |
-| Sun, 10 May 2026 08:59:04 GMT | Practical Zero Trust: How to Secure What Actually Matters | Kanik Sachdeva | [Read More](https://medium.com/p/4e5f8eee19e0) |
-| Sun, 10 May 2026 08:51:07 GMT | What Two Years of OpenFGA in a Multi-Tenant SaaS Taught Me About Modeling Authority | Aakash Rana | [Read More](https://medium.com/p/0225777cca49) |
-| Sun, 10 May 2026 08:42:07 GMT | Fluffy | Md Fahim Al Shihab | [Read More](https://medium.com/p/86ed770d1d2b) |
-| Sun, 10 May 2026 08:37:06 GMT | How to Measure Students’ Cybersecurity Skills | Hannah Adam | [Read More](https://medium.com/p/a6b588178612) |
-| Sun, 10 May 2026 08:37:00 GMT | 275 Million Students and Teachers Exposed. | Sai kiran | [Read More](https://medium.com/p/10a5d8756f03) |
-| Sun, 10 May 2026 08:30:47 GMT | Analysis of CVE-2026–34621: Making dead bugs tell tales | upsidedwn | [Read More](https://medium.com/p/c0d0fa0c28a2) |
-| Sun, 10 May 2026 08:16:34 GMT | IOS camera do not detect or warn against homograph domains leading to malicous website | VRSECLABS PVT. LTD. | [Read More](https://medium.com/p/5a39829d896c) |
-| Sun, 10 May 2026 08:12:20 GMT | Why Hunter × Hunter Is Still One of the Greatest Anime Ever | VikiTrifaldi | [Read More](https://medium.com/p/c1ce36c06e8f) |
-| Sun, 10 May 2026 08:11:21 GMT | Critical Recon -> easy Bug Bounty (Red Bull) | Pradeep J. | [Read More](https://medium.com/p/3834275a55c2) |
