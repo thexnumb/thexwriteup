@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 May 2026 14:21:12 GMT | Linux Just Got Rooted Again — Meet Dirty Frag, the Zero-Day Nobody Has Fully Patched Yet | Krithick | [Read More](https://medium.com/p/7274ab12abd0) |
+| Sun, 10 May 2026 14:16:24 GMT | VPN Does Not Make Cleartext Protocols Safe. Neither Does ZTNA | Azeez Adeniji | [Read More](https://medium.com/p/28672eb0f430) |
+| Sun, 10 May 2026 14:16:04 GMT | フェイクフェイス・フェイルセイフ - CTF Miscellaneous Write Up (ARA 7.0 ITS) | Belle | [Read More](https://medium.com/p/ea4298a619b1) |
+| Sun, 10 May 2026 14:15:09 GMT | know the trick - CTF Cryptography Write Up (ARA 7.0 ITS) | Belle | [Read More](https://medium.com/p/8057d9f41c87) |
+| Sun, 10 May 2026 14:10:15 GMT | The Clean Perimeter: A DevSecOps Pattern for Supply Chain Defense | PsyF8t | [Read More](https://medium.com/p/9ba5af5802d3) |
+| Sun, 10 May 2026 14:08:43 GMT | The Browser Is Not a Security Boundary | TrustBoundaryLab | [Read More](https://medium.com/p/04150db8fe30) |
+| Sun, 10 May 2026 14:07:26 GMT | From a Small Town Dream to One of India’s Top Universities - My Galgotias Story | Piyush Kumar | [Read More](https://medium.com/p/e4b25fbb0edc) |
+| Sun, 10 May 2026 14:03:25 GMT | I Built a Home SOC Lab from Scratch — Here’s Everything That Went Wrong (and Right) | Yogesh Sharda | [Read More](https://medium.com/p/51dde76295be) |
+| Sun, 10 May 2026 13:57:56 GMT | Furhire (SSRF) (Weekly) Bugforge.io | 7s26Simon | [Read More](https://medium.com/p/52661a162ac1) |
+| Sun, 10 May 2026 13:54:25 GMT | Beyond OTP: The Definitive Engineering Guide to Silent Mobile Verification (SMV) | Shreyash Mall | [Read More](https://medium.com/p/08ab414bbc80) |
+| Sun, 10 May 2026 13:48:03 GMT | BoogeyMan 3 -TryHackMe Write-up | rla.s1 | [Read More](https://medium.com/p/ee97ff7df6a5) |
+| Sun, 10 May 2026 13:37:07 GMT | No Credentials? No Problem. We Trust You. | 0xTyrion404 | [Read More](https://medium.com/p/c268a3c7a64b) |
 | Sun, 10 May 2026 13:23:11 GMT | SSH Hardenings That an Stop Almost All Attacks At Your Server Part 1 | Devansh Patel | [Read More](https://medium.com/p/386546851982) |
 | Sun, 10 May 2026 13:23:04 GMT | Google XSS game report | Adeleke Ismail Ifeoluwa | [Read More](https://medium.com/p/2ebba23fed0b) |
 | Sun, 10 May 2026 13:19:28 GMT | Building a Python CI/CD Pipeline: Errors, False Positives, and Lessons Learned | zal ef | [Read More](https://medium.com/p/f75743c833bb) |
@@ -31,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 May 2026 12:46:00 GMT | Faster Bug Hunting with XSSassin : Smart Payload Injection for XSS, SQLi & More | mayank mani tripathi | [Read More](https://medium.com/p/d6c44f9ae74f) |
 | Sun, 10 May 2026 12:43:57 GMT | Signs that wife has cheated | Michael Parks | [Read More](https://medium.com/p/364115a8d647) |
 | Sun, 10 May 2026 12:38:36 GMT | Byli jste tehdy u toho? | Markéta Lattová, Venture Investor & Fundraiser | [Read More](https://medium.com/p/9a7675e646b5) |
+| Sun, 10 May 2026 12:31:00 GMT | ️‍♂️ O que Sherlock Holmes ensinaria para um QA | Lílian Borba | [Read More](https://medium.com/p/063a7204603f) |
 | Sun, 10 May 2026 12:29:18 GMT | Why IT GRC Matters More Than Ever in 2026 | Lakshika Sammani chandradeva | [Read More](https://medium.com/p/9e85a4238c0d) |
 | Sun, 10 May 2026 12:21:00 GMT | Medicine in the Age of Big Data | Sirini Sreeram | [Read More](https://medium.com/p/7e443765ad01) |
 | Sun, 10 May 2026 12:20:49 GMT | Release Decisions as Audit Evidence | André Ataíde | [Read More](https://medium.com/p/59daa34dc130) |
@@ -99,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 10 May 2026 06:45:59 GMT | Best Linux System Administration Course in Delhi with RHCSA Certification | cyber security Updates | [Read More](https://medium.com/p/034d2a16f9d5) |
 | Sun, 10 May 2026 06:35:44 GMT | Google Has Been Quietly Saving All Your Passwords — And There’s a Page Where You Can See Every… | Deepak Thakur | [Read More](https://medium.com/p/d5d22a940892) |
 | Sun, 10 May 2026 06:34:34 GMT | Vibe Coding Is Fun. Until You See the Security Bill. | Pankaj Yadav | [Read More](https://medium.com/p/0e1d848e3ec0) |
-| Sun, 10 May 2026 06:31:10 GMT | Reestructuración | La Trama Del Caos | [Read More](https://medium.com/p/7c8c8f2c72bb) |
-| Sun, 10 May 2026 06:27:21 GMT | Your Team Is Sending Personal Data to AI Models Right Now and You Probably Do Not Know It | Dr. Fadi Shaar | [Read More](https://medium.com/p/37ad2b8d5ff2) |
-| Sun, 10 May 2026 06:26:02 GMT | How Hackers Actually Think (And How to Stay Safe) | Mubashir | [Read More](https://medium.com/p/ee832c77879b) |
-| Sun, 10 May 2026 06:22:01 GMT | Memory Forensics Investigation Report(Reveal Lab ,cyberdefenders) | Ahmed Jackson | [Read More](https://medium.com/p/f43998f825ad) |
-| Sun, 10 May 2026 06:05:47 GMT | Why my last deep dive taught me more than any certification | Manish Rawat | [Read More](https://medium.com/p/c773eae78546) |
-| Sun, 10 May 2026 05:08:26 GMT | Why Most Bug Hunters Miss the Obvious Vulnerabilities | Fateyaly | [Read More](https://medium.com/p/a5da74fe6486) |
-| Sun, 10 May 2026 04:47:12 GMT | The Mathematics
-of the Other | Jazen Cosby | [Read More](https://medium.com/p/81df50ac6624) |
-| Sun, 10 May 2026 04:45:41 GMT | Copy Fail: Ketika 732 Byte Bisa Membuat Siapa Saja Jadi Root di Linux | Tanzz_1337 | [Read More](https://medium.com/p/a816f35389bf) |
-| Sun, 10 May 2026 04:31:58 GMT | The number on the dashboard said we were fine. We weren’t. | Burak DAYIOGLU | [Read More](https://medium.com/p/058b4ce3c206) |
-| Sun, 10 May 2026 04:26:03 GMT | SYMBOLIC OPTIMIZATION WITH KLEE: | Balkrishnashukla | [Read More](https://medium.com/p/0d9efd202248) |
-| Sun, 10 May 2026 03:59:26 GMT | Judgmental is Bullying | The Alive Poetess | [Read More](https://medium.com/p/8082258cb712) |
-| Sun, 10 May 2026 03:44:40 GMT | What a Production Incident Taught Me About Building Enterprise-Scale Rollout Systems. | Ashwath Nivas | [Read More](https://medium.com/p/a3329b16b33d) |
-| Sun, 10 May 2026 03:04:39 GMT | eJPT Web Application Penetration Testing CTF 1 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/64395061902e) |
