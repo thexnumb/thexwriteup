@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 May 2026 23:47:25 GMT | Discover sensitive data in S3 with Amazon Macie | Cyril Baah | [Read More](https://medium.com/p/f6fe53d00eb2) |
+| Sun, 10 May 2026 23:42:18 GMT | # Quantum Scrambler — PicoCTF 2025 Writeup | Chadi | [Read More](https://medium.com/p/393e179e4393) |
+| Sun, 10 May 2026 23:40:21 GMT | Cleartext | Brandon R Russell | [Read More](https://medium.com/p/587798a3f288) |
+| Sun, 10 May 2026 23:36:44 GMT | OAuth Token Exchange, Identity Delegation et AI Agents : pourquoi AWS AgentCore et Azure Foundry ne… | sylla diaguily | [Read More](https://medium.com/p/bcafff70b4d8) |
+| Sun, 10 May 2026 23:35:41 GMT | OAuth Token Exchange, Identity Delegation et AI Agents : pourquoi AWS AgentCore et Azure Foundry ne… | sylla diaguily | [Read More](https://medium.com/p/929104980a72) |
+| Sun, 10 May 2026 23:18:54 GMT | I Exploited a Banking API Using Burp Suite, JWT Manipulation, and Authorization Bypass Testing | Hafsah Ashraf | [Read More](https://medium.com/p/156cfa45e290) |
+| Sun, 10 May 2026 23:01:00 GMT | HackTheBox: Campfire-1 Sherlock Walkthrough | Drew Arpino | [Read More](https://medium.com/p/7d0ca4493c36) |
 | Sun, 10 May 2026 22:38:25 GMT | Beyond the Utilman Trick: An Offensive Security Analysis of Windows Authentication Bypass via… | Maimo Harris | [Read More](https://medium.com/p/829ec5162d75) |
+| Sun, 10 May 2026 22:24:11 GMT | Remote Code Execution via Insecure Deserialization in Wazuh XDR/SIEM (CVE-2026–25769) | Kevin Dicks | [Read More](https://medium.com/p/8724f4b84365) |
 | Sun, 10 May 2026 22:23:10 GMT | You’ll Owe Me | Silent Observer | [Read More](https://medium.com/p/a4bc4d0fb9c4) |
 | Sun, 10 May 2026 22:22:03 GMT | Stack Trace Exposure via Malformed Authorization Header | Hamza | [Read More](https://medium.com/p/e746bf98c702) |
 | Sun, 10 May 2026 22:21:34 GMT | Exposed Database Dump via Directory Listing on ETH Zurich Infrastructure | Hamza | [Read More](https://medium.com/p/23770bcd04cd) |
@@ -105,11 +113,3 @@ Why Guardrails Are Your First Line of Defense | Eman Khalid | [Read More](https:
 | Sun, 10 May 2026 14:10:15 GMT | The Clean Perimeter: A DevSecOps Pattern for Supply Chain Defense | PsyF8t | [Read More](https://medium.com/p/9ba5af5802d3) |
 | Sun, 10 May 2026 14:08:43 GMT | The Browser Is Not a Security Boundary | TrustBoundaryLab | [Read More](https://medium.com/p/04150db8fe30) |
 | Sun, 10 May 2026 14:07:26 GMT | From a Small Town Dream to One of India’s Top Universities - My Galgotias Story | Piyush Kumar | [Read More](https://medium.com/p/e4b25fbb0edc) |
-| Sun, 10 May 2026 14:03:25 GMT | I Built a Home SOC Lab from Scratch — Here’s Everything That Went Wrong (and Right) | Yogesh Sharda | [Read More](https://medium.com/p/51dde76295be) |
-| Sun, 10 May 2026 13:57:56 GMT | Furhire (SSRF) (Weekly) Bugforge.io | 7s26Simon | [Read More](https://medium.com/p/52661a162ac1) |
-| Sun, 10 May 2026 13:54:25 GMT | Beyond OTP: The Definitive Engineering Guide to Silent Mobile Verification (SMV) | Shreyash Mall | [Read More](https://medium.com/p/08ab414bbc80) |
-| Sun, 10 May 2026 13:48:03 GMT | BoogeyMan 3 -TryHackMe Write-up | rla.s1 | [Read More](https://medium.com/p/ee97ff7df6a5) |
-| Sun, 10 May 2026 13:37:07 GMT | No Credentials? No Problem. We Trust You. | 0xTyrion404 | [Read More](https://medium.com/p/c268a3c7a64b) |
-| Sun, 10 May 2026 13:23:11 GMT | SSH Hardenings That an Stop Almost All Attacks At Your Server Part 1 | Devansh Patel | [Read More](https://medium.com/p/386546851982) |
-| Sun, 10 May 2026 13:23:04 GMT | Google XSS game report | Adeleke Ismail Ifeoluwa | [Read More](https://medium.com/p/2ebba23fed0b) |
-| Sun, 10 May 2026 13:19:28 GMT | Building a Python CI/CD Pipeline: Errors, False Positives, and Lessons Learned | zal ef | [Read More](https://medium.com/p/f75743c833bb) |
