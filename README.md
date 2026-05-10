@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 May 2026 07:20:28 GMT | Why “AI Efficiency” Is Harder Than It Sounds for Most Companies | Tetsuji Kondo | [Read More](https://medium.com/p/538e2f225403) |
+| Sun, 10 May 2026 07:04:45 GMT | The Verification Machine: What the Firefox/Claude Mythos News Actually Tells Us | The Gate Breaker | [Read More](https://medium.com/p/f5210c1d32a8) |
+| Sun, 10 May 2026 07:03:08 GMT | OWASP Application Security Risk 10:2025 A03 Software Supply Chain Failures | Tiago Silva | [Read More](https://medium.com/p/b72d1622abe5) |
+| Sun, 10 May 2026 07:02:44 GMT | The Age of Self-Building Systems and the Rise of Self-Devouring Systems | Swapnil Deshpande | [Read More](https://medium.com/p/2603a383d5f8) |
+| Sun, 10 May 2026 06:59:14 GMT | Refresh Token Rotation: Stay Secure Without Logging Users Out | Sajjad Hossen | [Read More](https://medium.com/p/cdfdba13e0db) |
+| Sun, 10 May 2026 06:56:18 GMT | Complete Guide: Installing Shuffle SOAR on Ubuntu Server 22.04.5 with Docker | Md. Mahim Hossain | [Read More](https://medium.com/p/aa2cc1ad5b9a) |
+| Sun, 10 May 2026 06:52:43 GMT | Upcoming 2026 Cybersecurity Conferences & Events to Attend | Emory French | [Read More](https://medium.com/p/af8bc3ceb023) |
+| Sun, 10 May 2026 06:45:59 GMT | Best Linux System Administration Course in Delhi with RHCSA Certification | cyber security Updates | [Read More](https://medium.com/p/034d2a16f9d5) |
+| Sun, 10 May 2026 06:35:44 GMT | Google Has Been Quietly Saving All Your Passwords — And There’s a Page Where You Can See Every… | Deepak Thakur | [Read More](https://medium.com/p/d5d22a940892) |
+| Sun, 10 May 2026 06:34:34 GMT | Vibe Coding Is Fun. Until You See the Security Bill. | Pankaj Yadav | [Read More](https://medium.com/p/0e1d848e3ec0) |
+| Sun, 10 May 2026 06:31:10 GMT | Reestructuración | La Trama Del Caos | [Read More](https://medium.com/p/7c8c8f2c72bb) |
+| Sun, 10 May 2026 06:27:21 GMT | Your Team Is Sending Personal Data to AI Models Right Now and You Probably Do Not Know It | Dr. Fadi Shaar | [Read More](https://medium.com/p/37ad2b8d5ff2) |
+| Sun, 10 May 2026 06:26:02 GMT | How Hackers Actually Think (And How to Stay Safe) | Mubashir | [Read More](https://medium.com/p/ee832c77879b) |
+| Sun, 10 May 2026 06:22:01 GMT | Memory Forensics Investigation Report(Reveal Lab ,cyberdefenders) | Ahmed Jackson | [Read More](https://medium.com/p/f43998f825ad) |
+| Sun, 10 May 2026 06:05:47 GMT | Why my last deep dive taught me more than any certification | Manish Rawat | [Read More](https://medium.com/p/c773eae78546) |
+| Sun, 10 May 2026 05:08:26 GMT | Why Most Bug Hunters Miss the Obvious Vulnerabilities | Fateyaly | [Read More](https://medium.com/p/a5da74fe6486) |
+| Sun, 10 May 2026 04:47:12 GMT | The Mathematics
+of the Other | Jazen Cosby | [Read More](https://medium.com/p/81df50ac6624) |
+| Sun, 10 May 2026 04:45:41 GMT | Copy Fail: Ketika 732 Byte Bisa Membuat Siapa Saja Jadi Root di Linux | Tanzz_1337 | [Read More](https://medium.com/p/a816f35389bf) |
+| Sun, 10 May 2026 04:31:58 GMT | The number on the dashboard said we were fine. We weren’t. | Burak DAYIOGLU | [Read More](https://medium.com/p/058b4ce3c206) |
+| Sun, 10 May 2026 04:26:03 GMT | SYMBOLIC OPTIMIZATION WITH KLEE: | Balkrishnashukla | [Read More](https://medium.com/p/0d9efd202248) |
 | Sun, 10 May 2026 03:59:26 GMT | Judgmental is Bullying | The Alive Poetess | [Read More](https://medium.com/p/8082258cb712) |
 | Sun, 10 May 2026 03:44:40 GMT | What a Production Incident Taught Me About Building Enterprise-Scale Rollout Systems. | Ashwath Nivas | [Read More](https://medium.com/p/a3329b16b33d) |
 | Sun, 10 May 2026 03:04:39 GMT | eJPT Web Application Penetration Testing CTF 1 - Walkthrough | Bader Alzoubi | [Read More](https://medium.com/p/64395061902e) |
@@ -92,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 17:22:22 GMT | The End of Privacy: Why Your Photos Are Now Tracking Beacons | Jay Robinson | [Read More](https://medium.com/p/2014f3dbd790) |
 | Sat, 09 May 2026 17:21:19 GMT | Vibe Coding Didn’t Kill Programming. It Changed Who Gets to Ship Software | SOVANNARO | [Read More](https://medium.com/p/a20fb7553851) |
 | Sat, 09 May 2026 17:20:17 GMT | Fixing Missing Bridged Adapter Name in VirtualBox | Halo, Danica | [Read More](https://medium.com/p/4cc28caf7255) |
-| Sat, 09 May 2026 17:15:08 GMT | Finextra-FICO Survey Finds AI Erodes Moral Barriers Expanding Fraud Pool Banks Counter with… | Vikram Lingam | [Read More](https://medium.com/p/0e6c07b49dd2) |
-| Sat, 09 May 2026 17:12:43 GMT | Phishing Email Analysis SOC Analyst Guide Part-5 Basic Email Analysis. | Vaibhavrajsahu | [Read More](https://medium.com/p/6580b64f186c) |
-| Sat, 09 May 2026 17:04:08 GMT | These 30+ Tools HACKERS Use Daily (Most Are FREE!) | Shahzaib | [Read More](https://medium.com/p/86b246bda3c0) |
-| Sat, 09 May 2026 16:42:44 GMT | Microsoft SQL Server Attack | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/6dfdbe58871f) |
-| Sat, 09 May 2026 16:20:36 GMT | TryHackMe Walkthrough: CVE-2026–31431 — Copy-Fail | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/c927e9e59f8d) |
-| Sat, 09 May 2026 16:13:13 GMT | My Journey Into Data Engineering, Cybersecurity, and Personality Development | Rohitpb | [Read More](https://medium.com/p/6a97390a5d18) |
-| Sat, 09 May 2026 16:12:15 GMT | URL’den Ekrana: Bir HTTP İsteğinin Anatomisi | Buraktekcan | [Read More](https://medium.com/p/25bc7063b151) |
-| Sat, 09 May 2026 16:04:50 GMT | DarkDump OSINT Tool - Exploring Tor Search Engine Intelligence | Pentester Club | [Read More](https://medium.com/p/1ffd53d277aa) |
-| Sat, 09 May 2026 15:57:49 GMT | Securing Autonomous AI Agents: Building an Agentic AI Security Monitor | Silent Ink Journal | [Read More](https://medium.com/p/e119906e7a41) |
-| Sat, 09 May 2026 15:54:09 GMT | IDOR in Email Preference Management — Unauthenticated Access & Modification | Hamza | [Read More](https://medium.com/p/915a5f5c1fff) |
-| Sat, 09 May 2026 15:51:11 GMT | OWASP Top 10 for .NET Developers - Part 1: Preventing Broken Access Control | Surya Raj Ghimire | [Read More](https://medium.com/p/8ce4e40a818f) |
-| Sat, 09 May 2026 15:46:31 GMT | Overwatch Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/aaaa56233a60) |
-| Sat, 09 May 2026 15:45:46 GMT | 5 Signs Your Business Website Is Costing You Customers | Ben Treder | [Read More](https://medium.com/p/325e6360c10c) |
-| Sat, 09 May 2026 15:42:05 GMT | The Confidence Gap: Why Your AI Co-Pilot Is Writing Insecure Code | Ehulse | [Read More](https://medium.com/p/7395ab465f1e) |
-| Sat, 09 May 2026 15:41:06 GMT | IDOR in Email Preference Management — Unauthenticated Access & Modification | Hamza | [Read More](https://medium.com/p/342ffb0d08c1) |
-| Sat, 09 May 2026 15:40:53 GMT | Defence in Depth: The Layered Cybersecurity Strategy Every Business Needs | PC e systems | [Read More](https://medium.com/p/a72a3c18044b) |
-| Sat, 09 May 2026 15:38:54 GMT | ISMS in Practice: Why Pragmatism Beats Perfectionism - A Field Report | Max Kristmann | [Read More](https://medium.com/p/44df84a14eed) |
-| Sat, 09 May 2026 15:38:46 GMT | Paying ? Deel’s Exchange RateRemote Teams in EUR/USD/GBPs vs Papaya | Lambertopara | [Read More](https://medium.com/p/ec9f0733a332) |
-| Sat, 09 May 2026 15:30:01 GMT | Team - TryHackMe Walkthrough | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/9d60ac834382) |
-| Sat, 09 May 2026 15:22:18 GMT | Important Windows Event IDs Every SOC Analyst Should Know! | Prajav krzx | [Read More](https://medium.com/p/41af97349bbf) |
