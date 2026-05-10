@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 May 2026 20:53:22 GMT | What Is Natural Language Processing? How AI Learned to Understand Human Language. | Salam Abdul Latif | [Read More](https://medium.com/p/e152fa872e0a) |
+| Sun, 10 May 2026 20:31:00 GMT | Your Password Was Leaked Last Night — This Saved You. | Brahmananda Sahoo | [Read More](https://medium.com/p/3b9ce13f8db3) |
+| Sun, 10 May 2026 20:20:26 GMT | Databricks permissions management at scale | Lukasz Maron | [Read More](https://medium.com/p/8b2cbc0ebc64) |
+| Sun, 10 May 2026 20:19:26 GMT | Thoughts About Certified Offensive AI Expert (COAE) | Ahmad Allobani | [Read More](https://medium.com/p/7c09ca25e765) |
+| Sun, 10 May 2026 20:07:27 GMT | GOAD — MiniLAB Walkthrough | serkanbenol | [Read More](https://medium.com/p/c4038e70bde7) |
+| Sun, 10 May 2026 20:04:55 GMT | Dirty Frag, CVE-2026–43284, CVE-2026–43500: Universal Linux Local Privilege Escalation… | SOCFortress | [Read More](https://medium.com/p/2de77b80e91c) |
+| Sun, 10 May 2026 20:00:38 GMT | The great 2026 Canvas-ocalypse | Bryan Alexander | [Read More](https://medium.com/p/1eeb91dea2b5) |
+| Sun, 10 May 2026 19:57:45 GMT | Applying Sherman Kent’s Analytic Discipline to CTI: A Practical Analyst Guide | Andrey Pautov | [Read More](https://medium.com/p/33142ad7553b) |
 | Sun, 10 May 2026 19:55:30 GMT | If Carrie Bradshaw was a Security Engineer in the AI era, she would write this article | h@shtalk | [Read More](https://medium.com/p/aae24ffcb76c) |
 | Sun, 10 May 2026 19:51:29 GMT | You Don’t Need a 0-Day for RCE: A Real-World Kill Chain | Nebty | [Read More](https://medium.com/p/e7ec690ba9a4) |
 | Sun, 10 May 2026 19:51:15 GMT | Passkeys Aren’t Nearly as Effective as We Thought | Curtis Brazzell | [Read More](https://medium.com/p/54eed4eecf4a) |
@@ -77,6 +85,7 @@ Why Guardrails Are Your First Line of Defense | Eman Khalid | [Read More](https:
 | Sun, 10 May 2026 14:44:06 GMT | Top 10 Google Dorks Every Bug Bounty Beginner Should Know | Riya Limba | [Read More](https://medium.com/p/b308e39db490) |
 | Sun, 10 May 2026 14:40:52 GMT | Surviving Byzantine Fire: Empirical Proof of a Deterministic Web3 AI Architecture | lokii | [Read More](https://medium.com/p/217e86b86dc1) |
 | Sun, 10 May 2026 14:40:21 GMT | Beyond the Password: 5 Counter-Intuitive Truths About Your Digital Life | Muhammad Ibraheem | [Read More](https://medium.com/p/356a70c184ff) |
+| Sun, 10 May 2026 14:30:54 GMT | Resmi Siteler Ne Kadar Güvenli? JDownloader Skandalının Perde Arkası ve Tedarik Zinciri Krizleri | Kerem Işık | [Read More](https://medium.com/p/c7cd8f9010b1) |
 | Sun, 10 May 2026 14:21:12 GMT | Linux Just Got Rooted Again — Meet Dirty Frag, the Zero-Day Nobody Has Fully Patched Yet | Krithick | [Read More](https://medium.com/p/7274ab12abd0) |
 | Sun, 10 May 2026 14:16:24 GMT | VPN Does Not Make Cleartext Protocols Safe. Neither Does ZTNA | Azeez Adeniji | [Read More](https://medium.com/p/28672eb0f430) |
 | Sun, 10 May 2026 14:16:04 GMT | フェイクフェイス・フェイルセイフ - CTF Miscellaneous Write Up (ARA 7.0 ITS) | Belle | [Read More](https://medium.com/p/ea4298a619b1) |
@@ -104,12 +113,3 @@ Why Guardrails Are Your First Line of Defense | Eman Khalid | [Read More](https:
 | Sun, 10 May 2026 13:01:45 GMT | Ronin Network (Axie Infinity): The $625M Key Management Failure | AnonX | [Read More](https://medium.com/p/3a3ba69ec8e3) |
 | Sun, 10 May 2026 12:56:00 GMT | Don’t Build Your Own Identity Provider | Sascha Willomitzer | [Read More](https://medium.com/p/1e0268a6f19d) |
 | Sun, 10 May 2026 12:55:51 GMT | Measuring the Invisible: What Public Threat Intelligence Got Wrong About “Advanced” | setec astronomy | [Read More](https://medium.com/p/4bc1f83fe3eb) |
-| Sun, 10 May 2026 12:46:49 GMT | SIEM Correlation Cheatsheet: 15 Rule Examples for Rapid Threat Detection | Very Lazy Tech | [Read More](https://medium.com/p/69399279535d) |
-| Sun, 10 May 2026 12:46:00 GMT | Faster Bug Hunting with XSSassin : Smart Payload Injection for XSS, SQLi & More | mayank mani tripathi | [Read More](https://medium.com/p/d6c44f9ae74f) |
-| Sun, 10 May 2026 12:43:57 GMT | Signs that wife has cheated | Michael Parks | [Read More](https://medium.com/p/364115a8d647) |
-| Sun, 10 May 2026 12:38:36 GMT | Byli jste tehdy u toho? | Markéta Lattová, Venture Investor & Fundraiser | [Read More](https://medium.com/p/9a7675e646b5) |
-| Sun, 10 May 2026 12:31:00 GMT | ️‍♂️ O que Sherlock Holmes ensinaria para um QA | Lílian Borba | [Read More](https://medium.com/p/063a7204603f) |
-| Sun, 10 May 2026 12:29:18 GMT | Why IT GRC Matters More Than Ever in 2026 | Lakshika Sammani chandradeva | [Read More](https://medium.com/p/9e85a4238c0d) |
-| Sun, 10 May 2026 12:21:00 GMT | Medicine in the Age of Big Data | Sirini Sreeram | [Read More](https://medium.com/p/7e443765ad01) |
-| Sun, 10 May 2026 12:20:49 GMT | Release Decisions as Audit Evidence | André Ataíde | [Read More](https://medium.com/p/59daa34dc130) |
-| Sun, 10 May 2026 12:18:03 GMT | Covert Acces Training — More Than Lockpicking: My Experience With Physical Hacking | Jordi Been | [Read More](https://medium.com/p/162a7793c7fe) |
