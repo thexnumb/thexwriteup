@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 May 2026 19:55:30 GMT | If Carrie Bradshaw was a Security Engineer in the AI era, she would write this article | h@shtalk | [Read More](https://medium.com/p/aae24ffcb76c) |
+| Sun, 10 May 2026 19:51:29 GMT | You Don’t Need a 0-Day for RCE: A Real-World Kill Chain | Nebty | [Read More](https://medium.com/p/e7ec690ba9a4) |
+| Sun, 10 May 2026 19:51:15 GMT | Passkeys Aren’t Nearly as Effective as We Thought | Curtis Brazzell | [Read More](https://medium.com/p/54eed4eecf4a) |
+| Sun, 10 May 2026 19:50:43 GMT | Solving “Copy Fail” CVE-2026–31431 Q/A Lab | Kiranghimire | [Read More](https://medium.com/p/aa79db7328cc) |
+| Sun, 10 May 2026 19:49:54 GMT | They Charged $10/Month for a $5 Server, a Free Script, and Three Years of Lies. Here’s the Proof. | freerave | [Read More](https://medium.com/p/b232637e4269) |
+| Sun, 10 May 2026 19:46:32 GMT | How a Failed Payment Turned Into a Successful Order | Ankitsingh | [Read More](https://medium.com/p/3c3e840baebc) |
+| Sun, 10 May 2026 19:46:00 GMT | The ‘Shadow Admin’ Threat: How Autonomous AI Agents Could Introduce Undetectable System Backdoors | Rex Anthony | [Read More](https://medium.com/p/86db360971a9) |
+| Sun, 10 May 2026 19:45:05 GMT | Why Cybercriminals Are Targeting Hardware Instead of Just Software in 2026 | Caleb DeBari | [Read More](https://medium.com/p/f8911b0bde33) |
+| Sun, 10 May 2026 19:44:40 GMT | Why Identity and Access Management Has Become the Front Line of Cybersecurity | Caleb DeBari | [Read More](https://medium.com/p/5bad2a74a43e) |
+| Sun, 10 May 2026 19:37:56 GMT | ZPA Browser Access and the ZPA-Off Behavior That Will Make You Question What You Know | Pooja Chandolu | [Read More](https://medium.com/p/7f0032fb5823) |
+| Sun, 10 May 2026 19:25:31 GMT | REDIS — Hardening Guide (CIS-Like) | SOCFortress | [Read More](https://medium.com/p/6281f5e5a016) |
+| Sun, 10 May 2026 19:18:48 GMT | Oops I Did It Again: 20 Years After My Last Custom Kernel | Assailly Remi | [Read More](https://medium.com/p/479e3fbc64c2) |
+| Sun, 10 May 2026 19:14:42 GMT | Industrialized Smishing Infrastructure Targeting the UAE and Singapore Transportation, Government | BeGoodToAll | [Read More](https://medium.com/p/cd754e76a5c8) |
+| Sun, 10 May 2026 19:04:20 GMT | Love That Burns and Binds: A Quiet Tragedy of Feeling Deeply | Anupama Satyarthi | [Read More](https://medium.com/p/7df93ffea2bc) |
+| Sun, 10 May 2026 19:01:22 GMT | GraphQL API Vulnerability: From Lab Swagger to Battle-Ready | Vrajbhai | [Read More](https://medium.com/p/51a880142459) |
+| Sun, 10 May 2026 18:40:28 GMT | But, grieving is never a straight line? | mismatchies | [Read More](https://medium.com/p/31d37192c741) |
+| Sun, 10 May 2026 18:31:56 GMT | Beyond “Accept Cookies” — Understanding Sessions, JWT, Browser Storage, Privacy & Modern Web… | Dipak Ahuja | [Read More](https://medium.com/p/83db7a09d87d) |
+| Sun, 10 May 2026 18:31:13 GMT | How to setup Kali Linux on VMware | EthicalBytes | [Read More](https://medium.com/p/06a28d453392) |
 | Sun, 10 May 2026 18:21:45 GMT | Log 1: The Sahara Shift | Northbound | [Read More](https://medium.com/p/c32a1a30ca1c) |
 | Sun, 10 May 2026 18:06:36 GMT | Securing Your Odoo CRM: A Developer’s Guide to Access Rights and Record Rules | Abhay Singh | [Read More](https://medium.com/p/cd77d9be9c4e) |
 | Sun, 10 May 2026 18:05:45 GMT | You have an EDR. Get Xshield. Become breach-ready in hours. Today. | Agnidipta Sarkar | [Read More](https://medium.com/p/5185c0f60abb) |
@@ -95,21 +113,3 @@ Why Guardrails Are Your First Line of Defense | Eman Khalid | [Read More](https:
 | Sun, 10 May 2026 12:21:00 GMT | Medicine in the Age of Big Data | Sirini Sreeram | [Read More](https://medium.com/p/7e443765ad01) |
 | Sun, 10 May 2026 12:20:49 GMT | Release Decisions as Audit Evidence | André Ataíde | [Read More](https://medium.com/p/59daa34dc130) |
 | Sun, 10 May 2026 12:18:03 GMT | Covert Acces Training — More Than Lockpicking: My Experience With Physical Hacking | Jordi Been | [Read More](https://medium.com/p/162a7793c7fe) |
-| Sun, 10 May 2026 12:00:23 GMT | ️ JavaScript Obfuscation: The Double Edged Sword Every Frontend Engineer Should Understand | Tharaka Chandralal | [Read More](https://medium.com/p/5462dfdb9e43) |
-| Sun, 10 May 2026 11:58:02 GMT | Sauna — HackTheBox Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/957dd67cd9de) |
-| Sun, 10 May 2026 11:53:05 GMT | Back to Basics: Cybersecurity, Information Security vs Cybersecurity (and the CIA Triad Explained) | LEVI | [Read More](https://medium.com/p/535ec601df49) |
-| Sun, 10 May 2026 11:52:57 GMT | Exploiting AI Agents to Exfiltrate Sensitive Information — PortSwigger’s Web Security Academy Labs… | Axel Rengstorf | [Read More](https://medium.com/p/ffdfbb7b8178) |
-| Sun, 10 May 2026 11:50:36 GMT | Boss Of The SOC v1 Lab | Ahmadhossam | [Read More](https://medium.com/p/242ee612fdbf) |
-| Sun, 10 May 2026 11:48:50 GMT | Why ClickFix Is One of the Most Dangerous Initial Access Techniques Today | Syed Ali | [Read More](https://medium.com/p/41042d907690) |
-| Sun, 10 May 2026 11:48:28 GMT | Why Enterprise Clients Reject Weak Pentest Reports | Pentest_Testing_Corp | [Read More](https://medium.com/p/a9c536ab2472) |
-| Sun, 10 May 2026 11:46:25 GMT | Lab: Exploiting AI agents to exfiltrate sensitive information | Emman Cajucom | [Read More](https://medium.com/p/b716d9363e4e) |
-| Sun, 10 May 2026 11:46:05 GMT | Indonesia Sets New ESG Standards for Nickel, Aiming to Secure Western EV Supply Chains | Murfito | [Read More](https://medium.com/p/35e6377e2493) |
-| Sun, 10 May 2026 11:35:57 GMT | I Changed a User’s Password Without Knowing Their Old One. The App Just Said “OK.” | rozzen | [Read More](https://medium.com/p/ec0486d75050) |
-| Sun, 10 May 2026 11:27:43 GMT | ColdVVars — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/ba0d04848da2) |
-| Sun, 10 May 2026 11:26:56 GMT | Crack the hash - TryHackMe | Ryca | [Read More](https://medium.com/p/7dfc0fc1cb21) |
-| Sun, 10 May 2026 11:19:58 GMT | Hacker Necə Formalaşır? - Kibertəhlükəsizlikdə Əsas Bacarıqlar və Gələcəyin Cyber Dünyası | cybershieldy.com | [Read More](https://medium.com/p/ed24fda134ae) |
-| Sun, 10 May 2026 11:15:57 GMT | Designing a Zero-Trust AWS Governance Architecture Using AWS Organisations, SCPs, and CloudTrail | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/afbbd470ab34) |
-| Sun, 10 May 2026 11:10:18 GMT | Memahami Tree, BST, dan Traversal dengan Python | Azka | [Read More](https://medium.com/p/a41968174a1e) |
-| Sun, 10 May 2026 11:01:05 GMT | The Best Bug Bounty Skill Isn’t Hacking… It’s Pattern Recognition | Arfa | [Read More](https://medium.com/p/3790ee33fb85) |
-| Sun, 10 May 2026 10:59:42 GMT | Privacy and Security are not the same thing | Jorge Castaneda, D.Eng (c), MLS | [Read More](https://medium.com/p/08a466b17c98) |
-| Sun, 10 May 2026 10:51:09 GMT | Lab: Exploiting AI agents to perform destructive actions | Emman Cajucom | [Read More](https://medium.com/p/1377e55649cd) |
