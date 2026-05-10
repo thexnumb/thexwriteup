@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 09 May 2026 23:55:04 GMT | Why SSH Keys Are a Ticking Time Bomb in Your Infrastructure (And What to Use Instead) | OnePAM.com | [Read More](https://medium.com/p/9b25e7d6de3f) |
+| Sat, 09 May 2026 23:32:22 GMT | The Law Already Solved This: Property, Agency, and the Missing Primitive in AI Governance | Paul Knowles | [Read More](https://medium.com/p/7902b6a1cdd6) |
+| Sat, 09 May 2026 23:32:02 GMT | Unmasking MuddyWater ConnectWise ScreenConnect Installer | SIMKRA | [Read More](https://medium.com/p/ce05e2e63115) |
+| Sat, 09 May 2026 23:29:13 GMT | Web Academy Business Logic Vulnerabilities— Excessive trust in client-side controls | Huseyin KALKAN | [Read More](https://medium.com/p/0126064957c7) |
+| Sat, 09 May 2026 23:25:59 GMT | The Telnet Auth Bypass Got Patched. The Worse Bug Underneath Didn’t. | suicidal_teddy | [Read More](https://medium.com/p/384fa7712894) |
+| Sat, 09 May 2026 23:18:00 GMT | Why Developers Should Learn Basic Hacking | Tshenolo Mos | [Read More](https://medium.com/p/dea51d5227a5) |
 | Sat, 09 May 2026 23:03:39 GMT | Your DevOps Home Lab Is Lying To You | Zudonu Osomudeya | [Read More](https://medium.com/p/ac17a55a60d4) |
 | Sat, 09 May 2026 23:01:42 GMT | Network Analysis: Malware Compromise — BTLO Lab Writeup | Cooked.gg | [Read More](https://medium.com/p/97283e45322a) |
 | Sat, 09 May 2026 22:38:20 GMT | Names Are A Security Debt We Can No Longer Afford | Andrew Zuo | [Read More](https://medium.com/p/05f805fa2175) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 09 May 2026 14:14:59 GMT | Securing the Backbone — Issue #38: The Fallacy of ‘Shift Left’: Why Security Must Own Curation —… | Eric Gallagher | [Read More](https://medium.com/p/508c825a6bc3) |
 | Sat, 09 May 2026 14:12:45 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / HIRE A HACKER WHO CAN HELP YOU IN RECOVERY YOUR STOLEN FUNDS | Milabenjamin | [Read More](https://medium.com/p/4c226ec67119) |
 | Sat, 09 May 2026 14:09:49 GMT | Deadsick - CTF Reverse Engineering Write Up (ARA 7.0 ITS) | Belle | [Read More](https://medium.com/p/ed1dd6965d88) |
-| Sat, 09 May 2026 14:08:33 GMT | Wrapped - CTF Reverse Engineering Write Up (ARA 7.0 ITS) | Belle | [Read More](https://medium.com/p/32db174e86b8) |
-| Sat, 09 May 2026 14:01:04 GMT | 200 Followers. Thank You. Here’s What I’m Doing About It. | Manubhav Sharma | [Read More](https://medium.com/p/82b77b86d0dd) |
-| Sat, 09 May 2026 14:01:01 GMT | Threat Hunting for Network Based Attacks - LetsDefend [Part 3] | 0verRida | [Read More](https://medium.com/p/9aa1dc387901) |
-| Sat, 09 May 2026 14:00:26 GMT | Escaping Cognitive Deadlock: Architecting Self-Healing Web3 Agents | lokii | [Read More](https://medium.com/p/8673d2f3a602) |
-| Sat, 09 May 2026 13:55:44 GMT | Canvas data breach: A shadow industry of cybercrime | Evie | [Read More](https://medium.com/p/dc582b8ea698) |
-| Sat, 09 May 2026 13:53:44 GMT | slort windows Walkthrough (Proving-ground-paly-OSCP) | Cyber Public School | [Read More](https://medium.com/p/40f2c0165b3b) |
