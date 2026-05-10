@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 10 May 2026 21:21:49 GMT | A Simple GPT Image Prompt Formula for Consistent Results | Saranaisi | [Read More](https://medium.com/p/922ec9e41914) |
+| Sun, 10 May 2026 21:15:16 GMT | Detecting Remote Thread Creation with Windows Driver | S12 - 0x12Dark Development | [Read More](https://medium.com/p/9901fdbaf7b1) |
+| Sun, 10 May 2026 21:13:52 GMT | OSCP Dailies: THM — Attacktive Directory — Day 3 | MichaelLearns_ | [Read More](https://medium.com/p/cc953e027daa) |
+| Sun, 10 May 2026 21:10:33 GMT | Why Your AI Agent’s Runtime Might Not Be as Safe as You Think | Shivam Nayak | [Read More](https://medium.com/p/5fdee8f6ef93) |
+| Sun, 10 May 2026 21:09:23 GMT | They Logged Into School… and Walked Into a Cyber Nightmare | David Bankole | [Read More](https://medium.com/p/03b11091a68e) |
+| Sun, 10 May 2026 21:05:23 GMT | The “AI Will Learn from Your Input, So It’s Dangerous” Concern Is Outdated | Atsushi Ito | [Read More](https://medium.com/p/28be680366c2) |
+| Sun, 10 May 2026 20:59:11 GMT | The Secret History of Crypto Bugs | Rabbit | [Read More](https://medium.com/p/36067280ec05) |
 | Sun, 10 May 2026 20:53:22 GMT | What Is Natural Language Processing? How AI Learned to Understand Human Language. | Salam Abdul Latif | [Read More](https://medium.com/p/e152fa872e0a) |
 | Sun, 10 May 2026 20:31:00 GMT | Your Password Was Leaked Last Night — This Saved You. | Brahmananda Sahoo | [Read More](https://medium.com/p/3b9ce13f8db3) |
 | Sun, 10 May 2026 20:20:26 GMT | Databricks permissions management at scale | Lukasz Maron | [Read More](https://medium.com/p/8b2cbc0ebc64) |
@@ -106,10 +113,3 @@ Why Guardrails Are Your First Line of Defense | Eman Khalid | [Read More](https:
 | Sun, 10 May 2026 13:16:00 GMT | If Someone Walked Out of Your Business Today With a Laptop, What Would They Take With Them? | Blee | [Read More](https://medium.com/p/d3aa91878d3b) |
 | Sun, 10 May 2026 13:13:46 GMT | Ubuntu Blocked One Door. Dirty Frag Found Another | The Stateless Samurai | [Read More](https://medium.com/p/3fccaa36525c) |
 | Sun, 10 May 2026 13:13:19 GMT | The Roadside Republic: How Social Media Is Expediting Police Reforms in Nigeria | Joshua Ogbonna | [Read More](https://medium.com/p/c1d657d6b1d7) |
-| Sun, 10 May 2026 13:12:57 GMT | Day 96: SQL Injections | Nile Okomo | [Read More](https://medium.com/p/0cf4a0506d6a) |
-| Sun, 10 May 2026 13:12:32 GMT | Oh look, a VPS I purchased 8 months ago. | Jon | [Read More](https://medium.com/p/ae3ce8993446) |
-| Sun, 10 May 2026 13:12:20 GMT | Automating Phishing Simulations with Microsoft Defender Attack Simulation Training | Defend Microsoft365 now! | [Read More](https://medium.com/p/2d822bb4011a) |
-| Sun, 10 May 2026 13:07:10 GMT | Trust Me, I’m Calling From Customer Care… | Sanjini Munaweera | [Read More](https://medium.com/p/10d3ec40b8d9) |
-| Sun, 10 May 2026 13:01:45 GMT | Ronin Network (Axie Infinity): The $625M Key Management Failure | AnonX | [Read More](https://medium.com/p/3a3ba69ec8e3) |
-| Sun, 10 May 2026 12:56:00 GMT | Don’t Build Your Own Identity Provider | Sascha Willomitzer | [Read More](https://medium.com/p/1e0268a6f19d) |
-| Sun, 10 May 2026 12:55:51 GMT | Measuring the Invisible: What Public Threat Intelligence Got Wrong About “Advanced” | setec astronomy | [Read More](https://medium.com/p/4bc1f83fe3eb) |
