@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 May 2026 03:28:08 GMT | SASE, Work from Home have Never Been Easier | Amazingfalah | [Read More](https://medium.com/p/a6000275f202) |
+| Mon, 11 May 2026 03:19:47 GMT | Blockchain Fortress: The Future of Cyber Security in the Digital Age | Hiroshi Gusti | [Read More](https://medium.com/p/d88683202a23) |
+| Mon, 11 May 2026 03:15:39 GMT | “Too Dangerous to Release” May Be the Smartest Marketing Line in AI | Kaori | [Read More](https://medium.com/p/c52489fa0a9b) |
+| Mon, 11 May 2026 03:01:03 GMT | Backend from first principles(Security) | Kartik Joshi | [Read More](https://medium.com/p/a5fc9bf8385a) |
+| Mon, 11 May 2026 02:41:32 GMT | Build Out Loud, Stay Out of the Feed: A No-KYC Creator Platform | MunityClubs | [Read More](https://medium.com/p/79c5c60084e7) |
+| Mon, 11 May 2026 02:36:13 GMT | Hacker Typer: The Ultimate Fake Hacking Screen for Pranks, Presentations, and Content Creation | Website Developer | [Read More](https://medium.com/p/49a5220a447c) |
+| Mon, 11 May 2026 02:31:00 GMT | Deception Technology in 2026: How Fake Environments Are Catching Real Attackers | Parth Patel | [Read More](https://medium.com/p/6e90ca72803e) |
+| Mon, 11 May 2026 02:29:38 GMT | The 200,000 Complaints Breakdown: Why Facebook is a “Hazard” for Gamers | Jason - globalkiss918 | [Read More](https://medium.com/p/1e6fce935484) |
+| Mon, 11 May 2026 02:28:52 GMT | The Automotive Software Supply Chain Has a Long Tail: 16 New Public CVEs | FengNing_Architect | [Read More](https://medium.com/p/a0c9d9085a6a) |
+| Mon, 11 May 2026 02:21:09 GMT | Master Data Science Training in 2026: Your Complete Roadmap | KOMAL PAL | [Read More](https://medium.com/p/e49e67032fba) |
+| Mon, 11 May 2026 02:14:28 GMT | O elefante branco sempre esteve na sala | Clauber Rosa [SuLn] | [Read More](https://medium.com/p/fe9b7afc5cdc) |
+| Mon, 11 May 2026 01:57:50 GMT | Why Smart People Still Fall for Hackers — And What You Can Do About It | Muhammad Rezky Amri | [Read More](https://medium.com/p/7038000c0605) |
+| Mon, 11 May 2026 01:52:39 GMT | How Tokenization Reduces Merchants’ PCI Scope | Mousa Al Bateh | [Read More](https://medium.com/p/8dd2c2c5b803) |
+| Mon, 11 May 2026 01:34:13 GMT | O mundo olha antes de enxergar | Rodrigo Rebello | [Read More](https://medium.com/p/f9e070720c0a) |
+| Mon, 11 May 2026 01:11:24 GMT | How to Perform ADCS Attacks - ESC1 - Windows and Linux Guide | SilentExploit | [Read More](https://medium.com/p/b93c3825168a) |
+| Mon, 11 May 2026 00:57:35 GMT | Burp Suite Enterprise resource exhaustion via huge request body | bereza4321 | [Read More](https://medium.com/p/c8cf3cf83d58) |
 | Sun, 10 May 2026 23:47:25 GMT | Discover sensitive data in S3 with Amazon Macie | Cyril Baah | [Read More](https://medium.com/p/f6fe53d00eb2) |
 | Sun, 10 May 2026 23:42:18 GMT | # Quantum Scrambler — PicoCTF 2025 Writeup | Chadi | [Read More](https://medium.com/p/393e179e4393) |
 | Sun, 10 May 2026 23:40:21 GMT | Cleartext | Brandon R Russell | [Read More](https://medium.com/p/587798a3f288) |
@@ -97,19 +113,3 @@ Why Guardrails Are Your First Line of Defense | Eman Khalid | [Read More](https:
 | Sun, 10 May 2026 15:20:50 GMT | The Next World War Won’t Be Fought with Guns | Hruthvik HB | [Read More](https://medium.com/p/9c4980f81087) |
 | Sun, 10 May 2026 15:20:30 GMT | Injecting Custom Claims into Azure AD JWTs at Scale: A Practical Guide | suman saha | [Read More](https://medium.com/p/056d30791392) |
 | Sun, 10 May 2026 15:18:29 GMT | The “Vibe” is Not Enough: Why “Shift Left Security” is the Missing Link in AI-Driven Development | Rai Miralles Febrer | [Read More](https://medium.com/p/5d94f4df55b7) |
-| Sun, 10 May 2026 15:18:12 GMT | TryHackMe Walkthrough: Windows PowerShell | Shubham Khirwadkar | [Read More](https://medium.com/p/bbd54db3b6b4) |
-| Sun, 10 May 2026 15:11:13 GMT | Exploiting Username Enumeration via Different Responses | Shobhit Gupta | [Read More](https://medium.com/p/0460fa72b116) |
-| Sun, 10 May 2026 15:07:41 GMT | Tryhackme: Wgel WriteUp | Burak | [Read More](https://medium.com/p/81d1608ccd92) |
-| Sun, 10 May 2026 14:56:54 GMT | The Burden of Truth | Khan Khishigbat | [Read More](https://medium.com/p/f56edfab7a6d) |
-| Sun, 10 May 2026 14:45:44 GMT | INSTALLING KALI LINUX IN VIRTUAL MACHINE | Muhammed Irfan | [Read More](https://medium.com/p/2b0c5649796a) |
-| Sun, 10 May 2026 14:44:06 GMT | Top 10 Google Dorks Every Bug Bounty Beginner Should Know | Riya Limba | [Read More](https://medium.com/p/b308e39db490) |
-| Sun, 10 May 2026 14:40:52 GMT | Surviving Byzantine Fire: Empirical Proof of a Deterministic Web3 AI Architecture | lokii | [Read More](https://medium.com/p/217e86b86dc1) |
-| Sun, 10 May 2026 14:40:21 GMT | Beyond the Password: 5 Counter-Intuitive Truths About Your Digital Life | Muhammad Ibraheem | [Read More](https://medium.com/p/356a70c184ff) |
-| Sun, 10 May 2026 14:30:54 GMT | Resmi Siteler Ne Kadar Güvenli? JDownloader Skandalının Perde Arkası ve Tedarik Zinciri Krizleri | Kerem Işık | [Read More](https://medium.com/p/c7cd8f9010b1) |
-| Sun, 10 May 2026 14:21:12 GMT | Linux Just Got Rooted Again — Meet Dirty Frag, the Zero-Day Nobody Has Fully Patched Yet | Krithick | [Read More](https://medium.com/p/7274ab12abd0) |
-| Sun, 10 May 2026 14:16:24 GMT | VPN Does Not Make Cleartext Protocols Safe. Neither Does ZTNA | Azeez Adeniji | [Read More](https://medium.com/p/28672eb0f430) |
-| Sun, 10 May 2026 14:16:04 GMT | フェイクフェイス・フェイルセイフ - CTF Miscellaneous Write Up (ARA 7.0 ITS) | Belle | [Read More](https://medium.com/p/ea4298a619b1) |
-| Sun, 10 May 2026 14:15:09 GMT | know the trick - CTF Cryptography Write Up (ARA 7.0 ITS) | Belle | [Read More](https://medium.com/p/8057d9f41c87) |
-| Sun, 10 May 2026 14:10:15 GMT | The Clean Perimeter: A DevSecOps Pattern for Supply Chain Defense | PsyF8t | [Read More](https://medium.com/p/9ba5af5802d3) |
-| Sun, 10 May 2026 14:08:43 GMT | The Browser Is Not a Security Boundary | TrustBoundaryLab | [Read More](https://medium.com/p/04150db8fe30) |
-| Sun, 10 May 2026 14:07:26 GMT | From a Small Town Dream to One of India’s Top Universities - My Galgotias Story | Piyush Kumar | [Read More](https://medium.com/p/e4b25fbb0edc) |
