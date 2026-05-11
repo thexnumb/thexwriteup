@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 May 2026 22:19:35 GMT | Decentralised Digital Security E-book Out Now (Open Access) | Kelsie Nabben | [Read More](https://medium.com/p/422e1b02fb5a) |
+| Mon, 11 May 2026 22:17:17 GMT | The ESP32 Has Quietly Become One of the Most Interesting Hacker Devices Alive | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/745145e40497) |
+| Mon, 11 May 2026 22:15:05 GMT | Windows Event Viewer Rehberi: SOC Perspektifinden Windows Log Analizi | Ahmet Badem | [Read More](https://medium.com/p/1916d4088d19) |
+| Mon, 11 May 2026 22:10:03 GMT | Your Website Is Leaking Data Right Now | nunacode | [Read More](https://medium.com/p/d689b8853202) |
+| Mon, 11 May 2026 22:03:41 GMT | My Backpack Is Slowly Turning Into a Mobile Recon Lab | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2659558e8dfc) |
+| Mon, 11 May 2026 22:00:29 GMT | I found a secret door into an admin panel — and got paid $750 for it | Syedfaiz | [Read More](https://medium.com/p/92c73f3c4b26) |
+| Mon, 11 May 2026 21:54:40 GMT | Turning a Helpdesk Escalation Into a ShinyHunters Threat Intelligence Investigation | Tijan Hydara | [Read More](https://medium.com/p/71bbbd877c3a) |
+| Mon, 11 May 2026 21:54:27 GMT | Detection Engineering Is the Missing Discipline in AI Security — Part 1 | Pratip Dasgupta | [Read More](https://medium.com/p/98c1ec734e5c) |
+| Mon, 11 May 2026 21:53:25 GMT | Apple Pivots to Intel for a Secure Western Supply Chain of Semiconductors | Matthew.Rosenquist | [Read More](https://medium.com/p/ec2ece6b2031) |
+| Mon, 11 May 2026 21:53:12 GMT | The malware lives in the diff | Atharv Kulkarni | [Read More](https://medium.com/p/4e43e730c930) |
+| Mon, 11 May 2026 21:51:46 GMT | Understanding DNS Tunneling — Hands-on Simulation | Mart Eugen Gevero | [Read More](https://medium.com/p/36677f6b99e6) |
+| Mon, 11 May 2026 21:50:18 GMT | What are web3 wallets? | Temiloluwa Akintade | [Read More](https://medium.com/p/54ab72291096) |
+| Mon, 11 May 2026 21:39:43 GMT | Inside the cPanel Triple-Threat and the Shadow of “Sorry” Ransomware | SOCFortress | [Read More](https://medium.com/p/dd0b16f6e669) |
+| Mon, 11 May 2026 21:02:44 GMT | rather be real and rejected, than fake and accepted | Seid Arsen Ramic | [Read More](https://medium.com/p/8b1c397fea11) |
+| Mon, 11 May 2026 21:01:00 GMT | Unfiltered Restart — Day 57: BACK AGAIN | Maximillian Rueda | [Read More](https://medium.com/p/ea4d60885de5) |
+| Mon, 11 May 2026 21:00:46 GMT | When Sorrow Arrives | Vinitha Dileep | [Read More](https://medium.com/p/84d3d8e31a80) |
 | Mon, 11 May 2026 20:51:00 GMT | KALI LINUX SETUP IN VMWARE | Nayshana.A | [Read More](https://medium.com/p/fc7c1da45cf8) |
 | Mon, 11 May 2026 20:42:19 GMT | OSCP Dailies: THM — Attacktive Directory — Day 4 | MichaelLearns_ | [Read More](https://medium.com/p/6b9d65a17f0c) |
 | Mon, 11 May 2026 20:29:11 GMT | Vulnerability Disclosure: Application-Layer DoS via GraphQL Array Batching | Ahmed Ibrahim | [Read More](https://medium.com/p/b5367db83ac9) |
@@ -97,19 +113,3 @@ SOC335 — CVE-2024–49138 Exploitation Detected | Zethekele Sandile Ncube | [R
 | Mon, 11 May 2026 13:49:12 GMT | The Silent AI Revolution | Aman Khan | [Read More](https://medium.com/p/983f78c0471b) |
 | Mon, 11 May 2026 13:47:29 GMT | Top Mobile Application Development Company in Pune - Associative | Associative: Software Development & Consulting | [Read More](https://medium.com/p/604575baa373) |
 | Mon, 11 May 2026 13:42:04 GMT | Closing the Loop on My Local AI Agent Workflow | Carlos Lopez | [Read More](https://medium.com/p/db0407699ebf) |
-| Mon, 11 May 2026 13:38:31 GMT | Why I Tell Property Managers the Front Desk Is the Job, Not the Greeting | Building Security Services | [Read More](https://medium.com/p/a7ddee7ac309) |
-| Mon, 11 May 2026 13:37:54 GMT | How to Become a Certified Senior Cybersecurity Specialist (CSCS™) by USCSI® | Emma Kenzie | [Read More](https://medium.com/p/3675eecf5a3f) |
-| Mon, 11 May 2026 13:31:00 GMT | Agent Operations: The Missing Half of AI Governance | Bedrettin Cakmak | [Read More](https://medium.com/p/78396ce4d24a) |
-| Mon, 11 May 2026 13:23:27 GMT | Why Businesses Need Cybersecurity Compliance Services to Stay Secure | Zelar Trust | [Read More](https://medium.com/p/8d4c0ea9c4d3) |
-| Mon, 11 May 2026 13:23:04 GMT | Cybersecurity Is No Longer an IT Problem. It Is the Trust Layer of the Future. | Len Noe | [Read More](https://medium.com/p/e14d8c02441c) |
-| Mon, 11 May 2026 13:20:15 GMT | What the next eighteen months of federal post-quantum buying will actually look like | Shujaatali Badami | [Read More](https://medium.com/p/08d255d35b9d) |
-| Mon, 11 May 2026 13:19:55 GMT | The 5 Firewall Mistakes Even Senior IT Engineers Keep Making in 2026 | Emma Thomas | [Read More](https://medium.com/p/977788a80103) |
-| Mon, 11 May 2026 13:17:12 GMT | OWASP Top 10 2025: Masterclass in Insecure Data Handling | Engosa | [Read More](https://medium.com/p/dda2b9cb8e8a) |
-| Mon, 11 May 2026 13:16:00 GMT | Exploring Identity and Authentication in Microsoft 365: Why Identity is the New Security Perimeter | Vyomamshetty | [Read More](https://medium.com/p/f38ae4c468ff) |
-| Mon, 11 May 2026 13:15:04 GMT | 5,800 Palo Alto Firewalls Are Sitting Exposed. The Patch Is 5 Days Away. | Jazz Cyber Shield | [Read More](https://medium.com/p/124453ede3a3) |
-| Mon, 11 May 2026 13:09:22 GMT | What the Kelp DAO Bridge Hack Teaches Us — and How LiqMint Can Help Users Avoid Similar Losses | Narendra Gore | [Read More](https://medium.com/p/a7633ee89b67) |
-| Mon, 11 May 2026 13:08:27 GMT | Solving “crypto is not defined” in a Dockerized Node.js Backend | Emmanuel Fordjour Kumah | [Read More](https://medium.com/p/8fa28b812990) |
-| Mon, 11 May 2026 13:06:32 GMT | Superior E-Commerce Security Solutions - Protect Your Business - Acme Seals | Michael | [Read More](https://medium.com/p/957627c626da) |
-| Mon, 11 May 2026 13:01:30 GMT | Some Companies Will Not Make the Transition | Val | [Read More](https://medium.com/p/4cb754b8de24) |
-| Mon, 11 May 2026 13:01:00 GMT | Level 1 Support Is Dead. AI Agents Just Killed It | Kareem T | [Read More](https://medium.com/p/02734bb15419) |
-| Mon, 11 May 2026 13:00:38 GMT | 8 Compliance-Focused HRMS Platforms in India for Regulated Industries 2026 | Aditi Sharma | [Read More](https://medium.com/p/c221a0ae96d6) |
