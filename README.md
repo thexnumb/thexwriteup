@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 May 2026 19:12:57 GMT | My Early Experience With the SOC L1 Path | Abel | [Read More](https://medium.com/p/5e8a5ca1570e) |
+| Mon, 11 May 2026 19:12:49 GMT | How I Built a Complete Windows Server Homelab for System Administration Practice | Jaredleyva | [Read More](https://medium.com/p/2dc3a28993e5) |
+| Mon, 11 May 2026 19:04:42 GMT | Uber Eats BOLA (IDOR) Vulnerability - $2,000 Bounty - Technical Write-up | NullSecurityX | [Read More](https://medium.com/p/a73c44f9f18f) |
+| Mon, 11 May 2026 19:00:32 GMT | The Architecture of Silence | Coopa Assistant | [Read More](https://medium.com/p/e0342740a5de) |
+| Mon, 11 May 2026 18:59:59 GMT | Security in Collaboration: From Enduring Threats and Vulnerabilities to Building Trust | EpitomiOne | [Read More](https://medium.com/p/3af4b11ba62c) |
+| Mon, 11 May 2026 18:56:09 GMT | What Financial Institutions Need to Know About AI Security Frameworks | Tae Yeon Eom | [Read More](https://medium.com/p/8730859f005d) |
+| Mon, 11 May 2026 18:47:54 GMT | Vulnerability | Ruby Ryder | [Read More](https://medium.com/p/63c3ec78c19d) |
+| Mon, 11 May 2026 18:34:52 GMT | The Hidden Security Flaw In Your Dockerfile That 99% Of Devs Miss | The Thread Whisperer | [Read More](https://medium.com/p/45a98d225c19) |
+| Mon, 11 May 2026 18:29:43 GMT | The Most Powerful Part of an AI System May Be What It Hides | BiyteLüm | [Read More](https://medium.com/p/c131be956932) |
+| Mon, 11 May 2026 18:25:43 GMT | Bleeding Llama: Critical Ollama Vulnerability Could Leak API Keys, Prompts, and User Data | herrmayor | [Read More](https://medium.com/p/05b71bac40da) |
+| Mon, 11 May 2026 18:20:49 GMT | LetsDefend lab 
+SOC335 — CVE-2024–49138 Exploitation Detected | Zethekele Sandile Ncube | [Read More](https://medium.com/p/d69f024e02dd) |
+| Mon, 11 May 2026 18:19:56 GMT | Where to Find the Best Traffic Marshal Security Services? | Dynamic security solution ltd | [Read More](https://medium.com/p/54eca8960d93) |
+| Mon, 11 May 2026 18:18:18 GMT | The Front Line Has Moved | Stephen Adanson Roque | [Read More](https://medium.com/p/af3826818d04) |
+| Mon, 11 May 2026 18:15:31 GMT | When AI Can Find Zero-Days: Is the Future of Cybersecurity Still in Human Hands? | Zickrian | [Read More](https://medium.com/p/511beba7b2a5) |
+| Mon, 11 May 2026 18:06:55 GMT | Your AI Agent Does Not Need Freedom. It Needs A Control Plane | The Atomic Architect | [Read More](https://medium.com/p/a097208ec83e) |
+| Mon, 11 May 2026 17:57:11 GMT | Dynamic Security Solutions Ltd | Dynamic security solution ltd | [Read More](https://medium.com/p/25bd0c13e900) |
+| Mon, 11 May 2026 17:48:19 GMT | 250 Double-Sided, Tear Resistant Name Badges for Epson Inkjet Printer 4" x 3" with 3 Slots | choose2rent | [Read More](https://medium.com/p/d87411d5f133) |
+| Mon, 11 May 2026 17:28:31 GMT | I Wanted to Learn Coding the “Right Way” — It Didn’t Work | Anujana R | [Read More](https://medium.com/p/3193cd471f70) |
+| Mon, 11 May 2026 17:25:54 GMT | We often blame technology companies for making gadgets outdated too quickly. | creative vision | [Read More](https://medium.com/p/ef43cde69a17) |
+| Mon, 11 May 2026 17:12:36 GMT | A fake OpenAI Privacy Filter became #1 popular AI model | Stanislav Klevtsov | [Read More](https://medium.com/p/8ca4269ba9e2) |
+| Mon, 11 May 2026 17:10:54 GMT | Best Home Security Systems in Houston for 2026 | AlexBryn | [Read More](https://medium.com/p/360fcae669cf) |
+| Mon, 11 May 2026 17:07:34 GMT | Security Companies in San Francisco — Why All Star Security Services Stands Apart | Matthew | [Read More](https://medium.com/p/74be750bd754) |
 | Mon, 11 May 2026 17:04:17 GMT | SSH Hardenings That an Stop Almost All Attacks At Your Server Part 2 | Devansh Patel | [Read More](https://medium.com/p/8d06c1b4b954) |
 | Mon, 11 May 2026 16:50:48 GMT | Walkthrough: File Permissions and the Principle of Least Privilege in System Administration | Daryl Brooks | [Read More](https://medium.com/p/ec135d21a480) |
 | Mon, 11 May 2026 16:45:44 GMT | 5 Theories of Punishment in Criminal Law : | Laws in History | [Read More](https://medium.com/p/e1f72469ece5) |
@@ -90,25 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 May 2026 11:52:49 GMT | What’s New in Parrot OS 7.2 — The Update That Actually Matters | Techrefreshing | [Read More](https://medium.com/p/c4a8ba93ef62) |
 | Mon, 11 May 2026 11:49:00 GMT | AI As Malicious C2 Servers Is Almost Here | Oran F | [Read More](https://medium.com/p/5a0628c16adf) |
 | Mon, 11 May 2026 11:43:29 GMT | Cybersecurity Strategy for the Modern Enterprise | Sanjiv Cherian | [Read More](https://medium.com/p/0ea9e9f1ab4a) |
-| Mon, 11 May 2026 11:41:53 GMT | Struktur Data: Tree | RosifaAulia | [Read More](https://medium.com/p/95fe8c9a53cc) |
-| Mon, 11 May 2026 11:39:09 GMT | Find IDOR with Zwink course | BALAJI | [Read More](https://medium.com/p/6c2fa6109d63) |
-| Mon, 11 May 2026 11:27:28 GMT | Cross-chain is not trust, it is control. | NanoChain | [Read More](https://medium.com/p/a85224fbbfec) |
-| Mon, 11 May 2026 11:25:36 GMT | The Death of “Good Enough” Security | WayneReidUK | [Read More](https://medium.com/p/d17701b36ccc) |
-| Mon, 11 May 2026 11:22:57 GMT | Dissecting Agent Tesla: A Static & Dynamic Malware Analysis | Myra Moses Gomba | [Read More](https://medium.com/p/ca78bd53f97b) |
-| Mon, 11 May 2026 11:15:49 GMT | Before I Install a Linux App, I Check These 5 Things | Sam Writes Security | [Read More](https://medium.com/p/710b829683a0) |
-| Mon, 11 May 2026 11:14:46 GMT | How Hackers Learn Everything About Your Company Before They Even Touch Your Network. | Dhanush N | [Read More](https://medium.com/p/ff96f3ce740c) |
-| Mon, 11 May 2026 11:11:49 GMT | Why Businesses Need Strong Network Security Strategies | Dkvilas | [Read More](https://medium.com/p/e408ca8a98fa) |
-| Mon, 11 May 2026 11:10:19 GMT | Why 500+ Students Chose Securium Academy for OSCP Training in Bangalore | Securium Academy | [Read More](https://medium.com/p/ec61e851650c) |
-| Mon, 11 May 2026 11:09:04 GMT | How Managed IT Support Improves Cybersecurity for Anaheim Businesses | Best IT Service Solution Anaheim | [Read More](https://medium.com/p/0479cfe08579) |
-| Mon, 11 May 2026 11:08:27 GMT | Digital Safety Management Explained: My Real-World Guide to Staying Secure Online | Adam Nowak | [Read More](https://medium.com/p/48bff076536b) |
-| Mon, 11 May 2026 11:07:58 GMT | 2 Careless Habits That Make You an Easy Target for Cybercriminals | Chioma Nnubia | [Read More](https://medium.com/p/9ed365f301a2) |
-| Mon, 11 May 2026 11:05:39 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/4828c75ed1f9) |
-| Mon, 11 May 2026 11:01:00 GMT | Writeup for picoCTF challenge “SQL Direct” | Walter Moar | [Read More](https://medium.com/p/bd2b2d72da51) |
-| Mon, 11 May 2026 10:47:39 GMT | How AI Candidate Screening Is Becoming a New Revenue Opportunity for Recruitment Agencies | Xwtempsolutions | [Read More](https://medium.com/p/c56e56aad41b) |
-| Mon, 11 May 2026 10:45:23 GMT | The Security Ecosystem: Building Defensible Systems from Code to Cloud | ibra-kdbra | [Read More](https://medium.com/p/853bdd6538c3) |
-| Mon, 11 May 2026 10:44:58 GMT | Moving From a Managed WAF to One We Actually Owned | Rathsara R | [Read More](https://medium.com/p/f9d143a29e57) |
-| Mon, 11 May 2026 10:40:16 GMT | Dirty Frag: Newly Discovered Linux Vulnerability Raises Serious Security Concerns | Jas | [Read More](https://medium.com/p/4aef400fae33) |
-| Mon, 11 May 2026 10:38:01 GMT | Cross-Tenant Data Exposure at Lexzur: How I Found a BOLA That Leaked JWTs Across Tenants | Abdelrhmansleem | [Read More](https://medium.com/p/729b8e3c3069) |
-| Mon, 11 May 2026 10:37:34 GMT | Critical Multichain Signature Replay & Stale Execution Vulnerabilities in Lombard Finance and… | Jsmzproduction | [Read More](https://medium.com/p/1840828bc23e) |
-| Mon, 11 May 2026 10:35:38 GMT | Real-World Attack Simulation: AWS Account Compromise & Defense (Red Team vs Blue Team) | Davebhargavi | [Read More](https://medium.com/p/6dc9bce7cfe6) |
-| Mon, 11 May 2026 10:26:57 GMT | Top Mobile Application Design Company in Pune - Associative | Chaitanyachavan | [Read More](https://medium.com/p/d2be483d47b3) |
