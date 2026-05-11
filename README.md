@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 May 2026 20:51:00 GMT | KALI LINUX SETUP IN VMWARE | Nayshana.A | [Read More](https://medium.com/p/fc7c1da45cf8) |
+| Mon, 11 May 2026 20:42:19 GMT | OSCP Dailies: THM — Attacktive Directory — Day 4 | MichaelLearns_ | [Read More](https://medium.com/p/6b9d65a17f0c) |
+| Mon, 11 May 2026 20:29:11 GMT | Vulnerability Disclosure: Application-Layer DoS via GraphQL Array Batching | Ahmed Ibrahim | [Read More](https://medium.com/p/b5367db83ac9) |
+| Mon, 11 May 2026 20:26:59 GMT | I Broke AI Systems for a Living. Here’s How Attackers Actually Do It. | Saivarma Dantuluri | [Read More](https://medium.com/p/f980bad50b4a) |
+| Mon, 11 May 2026 20:26:00 GMT | Why Do I Get So Many Spam Emails ? | Omar ELFarsaoui | [Read More](https://medium.com/p/0e83865e539a) |
+| Mon, 11 May 2026 20:24:40 GMT | Nobody Talks About The Embarrassment of Caring Too Much | Maurizz | [Read More](https://medium.com/p/dd02d7fe8b8e) |
+| Mon, 11 May 2026 20:18:34 GMT | Pioria Continuada | Henrique Tavares da Silva | [Read More](https://medium.com/p/e986fc5045a8) |
+| Mon, 11 May 2026 20:14:05 GMT | Identify Mobile Number Online — Check State, Operator & Current Location in India | Mobile Number Tracker | [Read More](https://medium.com/p/9bf2a606390b) |
+| Mon, 11 May 2026 20:04:51 GMT | How to Check Any IP Address for Free Location, VPN, Fraud Score & More | Mojahid Ul Haque | [Read More](https://medium.com/p/4255cad79fb8) |
+| Mon, 11 May 2026 20:03:01 GMT | Radarın Altında: 2026’nın Mikro-Fidyecilik Trendi ve Türkiye’deki “Sessiz” Ataklar | Kerem Işık | [Read More](https://medium.com/p/87fead58d991) |
+| Mon, 11 May 2026 20:02:22 GMT | You’ve Been Breached for 3 Weeks. Your SIEM Has No Idea. | Dishanth C A | [Read More](https://medium.com/p/8d34a61fbc7d) |
+| Mon, 11 May 2026 20:01:36 GMT | Implementing Security-AI-First CI/CD: A Hands-On Guide to DevSecOps Automation | Boris Zaikin | [Read More](https://medium.com/p/7353b690e93f) |
+| Mon, 11 May 2026 19:56:00 GMT | 70s Generation Alert: 3 Critical Steps for a Secure Retirement You Must Take Now | Tess Jenner | [Read More](https://medium.com/p/e71c2f82840a) |
+| Mon, 11 May 2026 19:37:20 GMT | Wedding Security Guard Services California - All Star Security Services | Matthew | [Read More](https://medium.com/p/d391a36251bf) |
+| Mon, 11 May 2026 19:35:34 GMT | Happy Birthday Pegging Paradise! | Ruby Ryder | [Read More](https://medium.com/p/6cca3077b353) |
+| Mon, 11 May 2026 19:33:22 GMT | Your Firewall Is Not Protecting Your Web Application — Something Else Is | CacheGuard Technologies | [Read More](https://medium.com/p/d31954485ae5) |
+| Mon, 11 May 2026 19:25:36 GMT | The Great Lock-and-Key Debate: Symmetric vs. Asymmetric Encryption | Corey Walker | [Read More](https://medium.com/p/038f46ed2529) |
+| Mon, 11 May 2026 19:25:01 GMT | Why I Stopped Viewing the Internet as “Technology” and Started Seeing a City | HackTheCyber | [Read More](https://medium.com/p/a74c0ef39945) |
+| Mon, 11 May 2026 19:23:56 GMT | How I Found Critical Security Issues in a Major HR and Payroll Platform and Tried to Report Them… | Tes Sal | [Read More](https://medium.com/p/ef5ad28906e4) |
+| Mon, 11 May 2026 19:21:00 GMT | Deep Diving into Digital Extortion: A Comparative Malware Analysis of WannaCrypt and AsyncRAT Phase… | Arafat Ashrafi Talha | [Read More](https://medium.com/p/e01044755181) |
+| Mon, 11 May 2026 19:19:08 GMT | Data Center Engineering - IDCA Certified Experts | International Data Center Authority | [Read More](https://medium.com/p/3bc7b536b641) |
 | Mon, 11 May 2026 19:12:57 GMT | My Early Experience With the SOC L1 Path | Abel | [Read More](https://medium.com/p/5e8a5ca1570e) |
 | Mon, 11 May 2026 19:12:49 GMT | How I Built a Complete Windows Server Homelab for System Administration Practice | Jaredleyva | [Read More](https://medium.com/p/2dc3a28993e5) |
 | Mon, 11 May 2026 19:04:42 GMT | Uber Eats BOLA (IDOR) Vulnerability - $2,000 Bounty - Technical Write-up | NullSecurityX | [Read More](https://medium.com/p/a73c44f9f18f) |
@@ -92,24 +113,3 @@ SOC335 — CVE-2024–49138 Exploitation Detected | Zethekele Sandile Ncube | [R
 | Mon, 11 May 2026 13:01:30 GMT | Some Companies Will Not Make the Transition | Val | [Read More](https://medium.com/p/4cb754b8de24) |
 | Mon, 11 May 2026 13:01:00 GMT | Level 1 Support Is Dead. AI Agents Just Killed It | Kareem T | [Read More](https://medium.com/p/02734bb15419) |
 | Mon, 11 May 2026 13:00:38 GMT | 8 Compliance-Focused HRMS Platforms in India for Regulated Industries 2026 | Aditi Sharma | [Read More](https://medium.com/p/c221a0ae96d6) |
-| Mon, 11 May 2026 12:56:14 GMT | How an AI Calculator Becomes a Critical Backdoor (CVE-2026–44717) | Stefano Di Santo | [Read More](https://medium.com/p/f2867ae2f82e) |
-| Mon, 11 May 2026 12:54:18 GMT | Develpy — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/87ee3f1181fd) |
-| Mon, 11 May 2026 12:53:48 GMT | IDOR Beyond Numbers — The Ones Everyone Misses | cyber-ninjaaa | [Read More](https://medium.com/p/7856931f1db1) |
-| Mon, 11 May 2026 12:50:34 GMT | Customer-Driven AI CTI Project Template. Part 1: Foundations | Andrey Pautov | [Read More](https://medium.com/p/745861507d03) |
-| Mon, 11 May 2026 12:49:38 GMT | Why Solar Powered Motion Sensor Lights Outdoor Are Changing Home Safety in 2026 | Criminology Expert | [Read More](https://medium.com/p/3d79fde8700d) |
-| Mon, 11 May 2026 12:49:08 GMT | Unfortunately, Aphids Are Useful | Katya Ratneva | [Read More](https://medium.com/p/16f0d2656963) |
-| Mon, 11 May 2026 12:47:53 GMT | Threat Intelligence: From Data to Decision in Cybersecurity Operations | Mauricio Leandro Momi | [Read More](https://medium.com/p/754ab44edecc) |
-| Mon, 11 May 2026 12:41:20 GMT | VulnHub Writeup: DC-1 | Nyx_Layer | [Read More](https://medium.com/p/acf9b310013a) |
-| Mon, 11 May 2026 12:26:00 GMT | ‍♂️Unauthenticated Account Enumeration and Login Metadata Disclosure via Login Hint Endpoint | 0xMo7areb | [Read More](https://medium.com/p/55ebd1235e37) |
-| Mon, 11 May 2026 12:21:16 GMT | OWASP Top 10 #4: Insecure Design — When Applications Are Built Insecurely from the Beginning | Kanishkakhandelwal | [Read More](https://medium.com/p/4e66345e06ed) |
-| Mon, 11 May 2026 12:12:32 GMT | Someone Just Lost $200,000 From Their Crypto Wallet. | Zetra Wallet | [Read More](https://medium.com/p/fff315918596) |
-| Mon, 11 May 2026 12:11:00 GMT | Windows Server VM Lab Notes: Disk Counters, Group Policy Backups, and Central Store Setup | Tyrik Emptage | [Read More](https://medium.com/p/2f061a2331d7) |
-| Mon, 11 May 2026 12:06:53 GMT | Software-Defined Vehicles Introduce Growing Cybersecurity Challenges for the Auto Industry | Suresh | [Read More](https://medium.com/p/fd1b846d7a6c) |
-| Mon, 11 May 2026 12:05:20 GMT | How to resize an image in KB without losing quality | Syed Manzar Kazmi | [Read More](https://medium.com/p/90240396b277) |
-| Mon, 11 May 2026 12:04:34 GMT | How Investigators Trace E-mail Crimes & Computer-Assisted Attacks | Prajwal Yadav | [Read More](https://medium.com/p/b8c22778f234) |
-| Mon, 11 May 2026 12:01:01 GMT | Your First Buffer Overflow: A Step-by-Step Hands-On Guide for Beginners (2025) | Akifkhan | [Read More](https://medium.com/p/236b75170eef) |
-| Mon, 11 May 2026 12:00:43 GMT | The Death of “Trust Me”: How AI Scams Are Rewriting Cybercrime in 2026 | RAAYA | [Read More](https://medium.com/p/771d5bead0d8) |
-| Mon, 11 May 2026 11:58:25 GMT | Why the Recent Layoffs Might Be Good for the Tech Scene | John Philip | [Read More](https://medium.com/p/67e10c13c760) |
-| Mon, 11 May 2026 11:52:49 GMT | What’s New in Parrot OS 7.2 — The Update That Actually Matters | Techrefreshing | [Read More](https://medium.com/p/c4a8ba93ef62) |
-| Mon, 11 May 2026 11:49:00 GMT | AI As Malicious C2 Servers Is Almost Here | Oran F | [Read More](https://medium.com/p/5a0628c16adf) |
-| Mon, 11 May 2026 11:43:29 GMT | Cybersecurity Strategy for the Modern Enterprise | Sanjiv Cherian | [Read More](https://medium.com/p/0ea9e9f1ab4a) |
