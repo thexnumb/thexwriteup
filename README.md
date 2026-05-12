@@ -12,6 +12,51 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 May 2026 09:34:26 GMT | From Commute Hell to home office bliss: Why Indian PM Modi’s call for WFH makes sense in 2026 | Mohan K | [Read More](https://medium.com/p/22322cbf057c) |
+| Tue, 12 May 2026 09:31:00 GMT | Peppol’s Nervous System is Here — Is Your Integration Ready for MLS? | Alex Olsson | [Read More](https://medium.com/p/87df92bbe37f) |
+| Tue, 12 May 2026 09:28:55 GMT | Building Practical Security Skills as a Cyber Security Engineer | James Adler | [Read More](https://medium.com/p/19d8b6f76664) |
+| Tue, 12 May 2026 09:27:32 GMT | How to Spot Scammers and Save Your Account | Imesmartplatform | [Read More](https://medium.com/p/451d7c0fe52c) |
+| Tue, 12 May 2026 09:25:20 GMT | Using 7 Information Security Strategies Like the Pros | Abosede Ogunlade | [Read More](https://medium.com/p/6ffab0fe8dba) |
+| Tue, 12 May 2026 09:23:58 GMT | Common ISO/IEC 27001 Transition Challenges and Solutions | Asmeen S D | [Read More](https://medium.com/p/9c76e4fe7755) |
+| Tue, 12 May 2026 09:21:39 GMT | Why You Should Learn How to Make a Bot in 2026 | Suketu Prajapati | [Read More](https://medium.com/p/58a9282a8e5a) |
+| Tue, 12 May 2026 09:19:45 GMT | WOW Exchange: A Modern Cryptocurrency Trading Platform | kikidjanimm | [Read More](https://medium.com/p/4b5bbafe4f7c) |
+| Tue, 12 May 2026 09:19:13 GMT | Linux File System: My Journey Under the Hood | A Emir Deli | [Read More](https://medium.com/p/234185bbf4c4) |
+| Tue, 12 May 2026 09:16:19 GMT | ModSecurity and the OWASP CRS — the WAF rules we actually ship on Apache | EdgeServers (Unit of RemotIQ Pty Limited ) | [Read More](https://medium.com/p/8dbd7c00b17f) |
+| Tue, 12 May 2026 09:09:07 GMT | They Didn’t Hack the System. They Hacked the Person. | hersaintel | [Read More](https://medium.com/p/d07263f7df0c) |
+| Tue, 12 May 2026 09:07:23 GMT | The Mythos Universe | Steve Cooper | [Read More](https://medium.com/p/82d95b317c89) |
+| Tue, 12 May 2026 09:02:20 GMT | Tips To Protect Your Personal Data Online | Kanwalsiddiqui | [Read More](https://medium.com/p/200d89b36fde) |
+| Tue, 12 May 2026 09:01:52 GMT | 2nd lab DVWA(XSS) | BlueTeamMal | [Read More](https://medium.com/p/0c13f9beaae1) |
+| Tue, 12 May 2026 09:01:01 GMT | How to Maintain Policies With a Tiny Team | Gaurav Shukla | [Read More](https://medium.com/p/4e8b844392e7) |
+| Tue, 12 May 2026 08:57:35 GMT | The ITSM platform that’s supposed to manage your tickets… and instead hands your entire Active… | suicidal_teddy | [Read More](https://medium.com/p/8ff709af14fc) |
+| Tue, 12 May 2026 08:56:39 GMT | My Web Application Security Journey from Scattered Knowledge to Serious Learning | caffeinelowdead | [Read More](https://medium.com/p/48a6f9073e60) |
+| Tue, 12 May 2026 08:55:31 GMT | Encryption, Cookies, and Certificates — The Basic Kit of Surfing the Internet Safely | Jendral Muhamad Yusuf | [Read More](https://medium.com/p/133e63c125b1) |
+| Tue, 12 May 2026 08:43:35 GMT | Simple Pentest Service for Stronger Cyber Protection | Digital Duffer | [Read More](https://medium.com/p/6e5797f5c133) |
+| Tue, 12 May 2026 08:42:29 GMT | The Evolution of Pentest Service in the Digital Age | Digital Duffer | [Read More](https://medium.com/p/5659d0034252) |
+| Tue, 12 May 2026 08:36:23 GMT | Customer-Driven AI CTI Project Template. Part 2A: Phase-by-Phase Execution Guide | Andrey Pautov | [Read More](https://medium.com/p/f9751a8bcb59) |
+| Tue, 12 May 2026 08:34:59 GMT | Wiring Live Threat Intel into Sigma Detection with Dynamic Pipelines | Mostafa Moradian | [Read More](https://medium.com/p/4de29b4af7ca) |
+| Tue, 12 May 2026 08:34:15 GMT | The Ultimate Guide to Deploying Wazuh : From Zero to Active | Aakash Jha | [Read More](https://medium.com/p/9ff249152ade) |
+| Tue, 12 May 2026 08:31:41 GMT | What Are Vulnerabilities? A Beginner’s Guide | Shalu | [Read More](https://medium.com/p/496eb6041795) |
+| Tue, 12 May 2026 08:30:00 GMT | Most Cyber Attacks Don’t Hack Systems — They Hack People | Sam Writes Security | [Read More](https://medium.com/p/b8c1343fa898) |
+| Tue, 12 May 2026 08:29:38 GMT | Breaking Into the Box That’s Supposed to Keep You Safe sgbox | suicidal_teddy | [Read More](https://medium.com/p/8b46fac5718e) |
+| Tue, 12 May 2026 08:27:43 GMT | Ethical Hacking Course Fees in Sangam Vihar | EINITIAL24 | [Read More](https://medium.com/p/e79876341022) |
+| Tue, 12 May 2026 08:23:46 GMT | ️ Burp Suite Workflow — How I Actually Use It During Real Hunts | ghostyjoe | [Read More](https://medium.com/p/966475c10b74) |
+| Tue, 12 May 2026 08:23:17 GMT | Beyond Authentication: How NAC, RADIUS and EAP-TLS Work Together | Emrecan Sadikogullari | [Read More](https://medium.com/p/20d071aed1a3) |
+| Tue, 12 May 2026 08:18:26 GMT | Time Machine-General Skills-picoCTF WriteUp | Nirgunah | [Read More](https://medium.com/p/dcc6b74c7cf0) |
+| Tue, 12 May 2026 08:08:59 GMT | Best Penetration Testing Course for Beginners: 2026 Guide | Mansi | [Read More](https://medium.com/p/8322daca4f1a) |
+| Tue, 12 May 2026 07:53:22 GMT | SQL Injection Made Easy: A Beginner’s Guide | Mahdi | [Read More](https://medium.com/p/be2ce1ed90c4) |
+| Tue, 12 May 2026 07:46:42 GMT | OWASP Application Security Risk 10:2025 A04 Cryptographic Failures | Tiago Silva | [Read More](https://medium.com/p/3b5985c5bb89) |
+| Tue, 12 May 2026 07:32:00 GMT | How NOC Services Help Prevent Recurring IT Issues | Gavin Ellis | [Read More](https://medium.com/p/897d8870cc3f) |
+| Tue, 12 May 2026 07:31:41 GMT | What Is the Future of AI in Business? | venkatprasad vadla | [Read More](https://medium.com/p/322d8311ebb3) |
+| Tue, 12 May 2026 07:31:21 GMT | DarkSword: Building a Browser-Based C2 for iOS Research | Umbertomauro | [Read More](https://medium.com/p/1a242c9b886e) |
+| Tue, 12 May 2026 07:31:00 GMT | They’re selling you hype: 90% of people are using AI models wrong and don’t even know it. | Albert Corzo | [Read More](https://medium.com/p/74dbaf8e95a6) |
+| Tue, 12 May 2026 07:20:29 GMT | Security Domains: Saving Your Secret Diary From Your Nosy Neighbor | Karanpreet 'KP' Singh | [Read More](https://medium.com/p/92de9d0dfa98) |
+| Tue, 12 May 2026 07:13:22 GMT | The Democratization Paradox: AI and the Race for the “Piece of Pie” | AI x Product | [Read More](https://medium.com/p/5c846a2b3bed) |
+| Tue, 12 May 2026 07:10:38 GMT | How does a secure VPN hide your IP address? | Ethan Carter | [Read More](https://medium.com/p/eb070c9c3673) |
+| Tue, 12 May 2026 06:58:12 GMT | 10 Powerful Salesforce Service Cloud Features You Should Know | Emergys | [Read More](https://medium.com/p/e2fa07555db5) |
+| Tue, 12 May 2026 06:56:34 GMT | I Built a Single Nmap Script That Replaces 8 Pentesting Tools — Meet Reko | NullyBlissful | [Read More](https://medium.com/p/ff38c6fb1719) |
+| Tue, 12 May 2026 06:53:44 GMT | Barrie Security Success Stories: Safer Properties Through Professional Guard Services | Grdsnscrt | [Read More](https://medium.com/p/50e905af72af) |
+| Tue, 12 May 2026 06:51:19 GMT | What Building an AWS Security Audit Tool Taught Me That Tutorials Never Could | Rutwik Patil | [Read More](https://medium.com/p/71818812506d) |
+| Tue, 12 May 2026 06:51:06 GMT | DNS Security Misconfigurations: 12 Real-World Cases Every Pentester Should Master | Very Lazy Tech | [Read More](https://medium.com/p/44bbcc662d8a) |
 | Tue, 12 May 2026 06:40:11 GMT | The Cryptographic Frontier: Solving the Hard Problems of Application-Level Encryption | Sunny Jha | [Read More](https://medium.com/p/cffdb04e387f) |
 | Tue, 12 May 2026 06:35:00 GMT | The Paradox of Age Verification: Privacy vs. Compliance | Alejandro Martinez | [Read More](https://medium.com/p/32bbf1b6fc64) |
 | Tue, 12 May 2026 06:32:47 GMT | Ethical Hacking vs Malicious Hacking : With Real-world example | Fathimathu Zahra | [Read More](https://medium.com/p/4cf3a8d74050) |
@@ -67,50 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 May 2026 02:13:50 GMT | ER Diagram 是什麼？資料世界的地圖與橋樑 | 思維舞步 MindSteps | [Read More](https://medium.com/p/30d2531e4c8c) |
 | Tue, 12 May 2026 01:58:45 GMT | Part 1: Build the Dataset Before You Touch the Model | Chris Mahlke | [Read More](https://medium.com/p/f698cb15f216) |
 | Tue, 12 May 2026 01:58:02 GMT | Fine-Tuning Small Language Models for Security | Chris Mahlke | [Read More](https://medium.com/p/63078c343901) |
-| Tue, 12 May 2026 01:50:42 GMT | Sandboxing Explained: How Mini-App Containers Keep Your App Secure | FinClip | [Read More](https://medium.com/p/dad427d8c3b9) |
-| Tue, 12 May 2026 01:31:25 GMT | UltraVNC < 1.8.1.2- Unsafe CreateProcess Call Enables Arbitrary EXE Execution as SYSTEM (CWE-428) | Elpfarr | [Read More](https://medium.com/p/f57a929b92c3) |
-| Tue, 12 May 2026 01:21:51 GMT | Dependency Confusion in Microsoft Power Apps | Hritik Sateesh | [Read More](https://medium.com/p/01103e43e05e) |
-| Tue, 12 May 2026 01:14:10 GMT | Tuesday Morning Threat Report: May 12, 2026 | Mark Maguire | [Read More](https://medium.com/p/d4ed2a51155f) |
-| Tue, 12 May 2026 01:11:15 GMT | Meta Business Manager Phishing Scam: How to Spot It and Protect Your Account | Anthony J. Biondo Jr. | [Read More](https://medium.com/p/49c8409dd47f) |
-| Tue, 12 May 2026 00:58:37 GMT | HTB CAPE Experience and Review: 10 Days, 290 Pages, and One Brutal AD Exam | Alejandro Perez | [Read More](https://medium.com/p/a1beca50f3df) |
-| Tue, 12 May 2026 00:11:48 GMT | Learning Fortinet Firewall — LESSON 9: One-Armed Sniffer / TAP | Rouell Mamaril | [Read More](https://medium.com/p/57dae75d68ed) |
-| Tue, 12 May 2026 00:06:00 GMT | Your Router Is Leaking More Than Wi-Fi: What I Found While Exploring RF Signals | Michael Preston | [Read More](https://medium.com/p/e293d002d3f3) |
-| Tue, 12 May 2026 00:01:01 GMT | Building an Audit Trail Your Database Admin Can’t Quietly Rewrite | Hafiq Iqmal | [Read More](https://medium.com/p/ec433be1acb5) |
-| Mon, 11 May 2026 23:36:03 GMT | Exploring Autonomous Red Teaming and Offensive Security Automation | Gabriel D. Vincent | [Read More](https://medium.com/p/a376f6e4f15d) |
-| Mon, 11 May 2026 23:29:51 GMT | OverTheWire Bandit Walkthrough — Level 0 → 1 - 30-Day Cybersecurity Learning Journey (Day 1) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/554c3feb4aeb) |
-| Mon, 11 May 2026 23:26:24 GMT | AI in Modern Cyber: Vectors, State
-Models, and the End of Symmetry
-between Attacker and Defender | Roei | [Read More](https://medium.com/p/f0db76878d10) |
-| Mon, 11 May 2026 23:22:40 GMT | Building a High-Performance Account Validator with Python: A Deep Dive into MostaHotmailChecker | Abbassamalik | [Read More](https://medium.com/p/afa2100ebde7) |
-| Mon, 11 May 2026 23:20:34 GMT | The Edge Architecture Mistake That Looks Right Until You’re Managing 50 Sites | Portainer.io | [Read More](https://medium.com/p/a1383fdafdcf) |
-| Mon, 11 May 2026 23:19:20 GMT | HackTheBox Walkthrough — Overwatch | Indigo Shadow | [Read More](https://medium.com/p/49d7ecd9f3b7) |
-| Mon, 11 May 2026 23:13:34 GMT | Beyond Wi‑Fi Passwords: The Security Gaps Most Networks Ignore ️ | Raj Savaliya | [Read More](https://medium.com/p/8237a13431df) |
-| Mon, 11 May 2026 23:11:07 GMT | The Scammers Got Smarter, Our Phones Did Not. | Thecybercornr | [Read More](https://medium.com/p/fe149330fa9f) |
-| Mon, 11 May 2026 23:09:59 GMT | Why is it so easy to build a relationship with AI bots? | Yesh Chala | [Read More](https://medium.com/p/a8fe9290fe84) |
-| Mon, 11 May 2026 22:58:20 GMT | Claude vs ChatGPT (2026) — Which AI Is Actually Better? | Muneeb ul Rahman | [Read More](https://medium.com/p/4a58388a7311) |
-| Mon, 11 May 2026 22:54:53 GMT | SQL Server Altyapısında gMSA Dönüşümü Nasıl Yapılır | yunusyucel | [Read More](https://medium.com/p/c5c6dcde86f2) |
-| Mon, 11 May 2026 22:50:55 GMT | DeepSeek V4 Just Changed the Game Again — Here’s Why It Actually Matters | Ahsan | [Read More](https://medium.com/p/ccc7a7b227e0) |
-| Mon, 11 May 2026 22:41:00 GMT | Your Database Knows Too Much: A Fun Guide to Data Masking in Healthcare AI | Raghuveer M | [Read More](https://medium.com/p/0bd3eaf411be) |
-| Mon, 11 May 2026 22:19:35 GMT | Decentralised Digital Security E-book Out Now (Open Access) | Kelsie Nabben | [Read More](https://medium.com/p/422e1b02fb5a) |
-| Mon, 11 May 2026 22:17:17 GMT | The ESP32 Has Quietly Become One of the Most Interesting Hacker Devices Alive | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/745145e40497) |
-| Mon, 11 May 2026 22:15:05 GMT | Windows Event Viewer Rehberi: SOC Perspektifinden Windows Log Analizi | Ahmet Badem | [Read More](https://medium.com/p/1916d4088d19) |
-| Mon, 11 May 2026 22:10:03 GMT | Your Website Is Leaking Data Right Now | nunacode | [Read More](https://medium.com/p/d689b8853202) |
-| Mon, 11 May 2026 22:03:41 GMT | My Backpack Is Slowly Turning Into a Mobile Recon Lab | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2659558e8dfc) |
-| Mon, 11 May 2026 22:00:29 GMT | I found a secret door into an admin panel — and got paid $750 for it | Syedfaiz | [Read More](https://medium.com/p/92c73f3c4b26) |
-| Mon, 11 May 2026 21:54:40 GMT | Turning a Helpdesk Escalation Into a ShinyHunters Threat Intelligence Investigation | Tijan Hydara | [Read More](https://medium.com/p/71bbbd877c3a) |
-| Mon, 11 May 2026 21:54:27 GMT | Detection Engineering Is the Missing Discipline in AI Security — Part 1 | Pratip Dasgupta | [Read More](https://medium.com/p/98c1ec734e5c) |
-| Mon, 11 May 2026 21:53:25 GMT | Apple Pivots to Intel for a Secure Western Supply Chain of Semiconductors | Matthew.Rosenquist | [Read More](https://medium.com/p/ec2ece6b2031) |
-| Mon, 11 May 2026 21:53:12 GMT | The malware lives in the diff | Atharv Kulkarni | [Read More](https://medium.com/p/4e43e730c930) |
-| Mon, 11 May 2026 21:51:46 GMT | Understanding DNS Tunneling — Hands-on Simulation | Mart Eugen Gevero | [Read More](https://medium.com/p/36677f6b99e6) |
-| Mon, 11 May 2026 21:50:18 GMT | What are web3 wallets? | Temiloluwa Akintade | [Read More](https://medium.com/p/54ab72291096) |
-| Mon, 11 May 2026 21:39:43 GMT | Inside the cPanel Triple-Threat and the Shadow of “Sorry” Ransomware | SOCFortress | [Read More](https://medium.com/p/dd0b16f6e669) |
-| Mon, 11 May 2026 21:02:44 GMT | rather be real and rejected, than fake and accepted | Seid Arsen Ramic | [Read More](https://medium.com/p/8b1c397fea11) |
-| Mon, 11 May 2026 21:01:00 GMT | Unfiltered Restart — Day 57: BACK AGAIN | Maximillian Rueda | [Read More](https://medium.com/p/ea4d60885de5) |
-| Mon, 11 May 2026 21:00:46 GMT | When Sorrow Arrives | Vinitha Dileep | [Read More](https://medium.com/p/84d3d8e31a80) |
-| Mon, 11 May 2026 20:58:31 GMT | The Vibe Coding Ticking Bomb: Why AI-Generated Websites Could Trigger A Wave Of Serious Security… | Gustav Morving | [Read More](https://medium.com/p/9fd1b7d1d539) |
-| Mon, 11 May 2026 20:54:59 GMT | Finding CVE‑2026‑42659: A Missing Authorization Vulnerability in a Popular WordPress Integration… | Idanvaknin | [Read More](https://medium.com/p/7d1841cb907f) |
-| Mon, 11 May 2026 20:51:00 GMT | KALI LINUX SETUP IN VMWARE | Nayshana.A | [Read More](https://medium.com/p/fc7c1da45cf8) |
-| Mon, 11 May 2026 20:42:19 GMT | OSCP Dailies: THM — Attacktive Directory — Day 4 | MichaelLearns_ | [Read More](https://medium.com/p/6b9d65a17f0c) |
-| Mon, 11 May 2026 20:29:11 GMT | Vulnerability Disclosure: Application-Layer DoS via GraphQL Array Batching | Ahmed Ibrahim | [Read More](https://medium.com/p/b5367db83ac9) |
-| Mon, 11 May 2026 20:26:59 GMT | I Broke AI Systems for a Living. Here’s How Attackers Actually Do It. | Saivarma Dantuluri | [Read More](https://medium.com/p/f980bad50b4a) |
-| Mon, 11 May 2026 20:26:00 GMT | Why Do I Get So Many Spam Emails ? | Omar ELFarsaoui | [Read More](https://medium.com/p/0e83865e539a) |
