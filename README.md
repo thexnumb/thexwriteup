@@ -12,6 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 May 2026 17:03:30 GMT | How Razvan Calarasu Is Helping B2B Brands Win Visibility in the AI Search Era | Razvan Calarasu | [Read More](https://medium.com/p/c56de78bd4f5) |
+| Tue, 12 May 2026 17:02:42 GMT | How Drosera Uses Historical State Analysis | Yuni | [Read More](https://medium.com/p/94be881ce0c4) |
+| Tue, 12 May 2026 17:01:11 GMT | AI-Assisted Hacking Has Already Started. We’re Still Arguing About Whether It’s Real. | Iamarbaz | [Read More](https://medium.com/p/16445d020144) |
+| Tue, 12 May 2026 16:53:47 GMT | I Broke Into Internal Networks Using SSRF — Here’s Exactly How I Did It | Nilanjan Chowdhury | [Read More](https://medium.com/p/759bd4fa7a36) |
+| Tue, 12 May 2026 16:53:36 GMT | AI or Not : nos nouvelles lunettes de vérité… | Fifa Jennifer ATADE | [Read More](https://medium.com/p/bd5dc38a41db) |
+| Tue, 12 May 2026 16:53:16 GMT | EU Delayed the AI Act. Your DORA Auditor Didn’t. | Pelaris | [Read More](https://medium.com/p/a31fbff79f84) |
+| Tue, 12 May 2026 16:52:41 GMT | The Most Dangerous Bugs Aren’t in Your Code — They’re in Your Logic | Drishti Pandey | [Read More](https://medium.com/p/898e6817f7e6) |
+| Tue, 12 May 2026 16:49:23 GMT | How $456K Walked Out of Aurellion Labs Through a Door Nobody Locked | 0xFlare | [Read More](https://medium.com/p/62823c4ca6a6) |
+| Tue, 12 May 2026 16:43:16 GMT | The Routing Engine Most of Crypto Hasn’t Found Yet. | Lawrence | [Read More](https://medium.com/p/1a06e923714d) |
+| Tue, 12 May 2026 16:40:47 GMT | I Will Remove Malware, Fix Hacked WordPress & Secure Your WordPress Site | Shamir Ajmir Khan | [Read More](https://medium.com/p/1fd0a1fd71e6) |
+| Tue, 12 May 2026 16:37:36 GMT | The Two AIs That Can Hack Your Network Are Finally Here | Abhishek Datta | [Read More](https://medium.com/p/a1201d80efc0) |
+| Tue, 12 May 2026 16:32:20 GMT | 5 Website Mistakes Costing You Cybersecurity Demo Calls | Ayan Wakil | [Read More](https://medium.com/p/1ceb912ba5b4) |
+| Tue, 12 May 2026 16:31:47 GMT | Spring Security — Part i(Security & Concepts) | Himal Jayapathma | [Read More](https://medium.com/p/7f4d97565f8d) |
+| Tue, 12 May 2026 16:31:17 GMT | The Hidden Strength In Vulnerability | Erha | [Read More](https://medium.com/p/84eff2fd8791) |
+| Tue, 12 May 2026 16:31:05 GMT | Fatbergs in City Sewers: How Scientists Are Fighting One of Urban Life’s Hidden Threats | Rubab_Mahi | [Read More](https://medium.com/p/56a64812d9e9) |
+| Tue, 12 May 2026 16:21:04 GMT | Hacking Walkthrough: Reverse Shelling into a Misconfigured Apache Tomcat Server over the Internet | Gary Drocella | [Read More](https://medium.com/p/4ee6c61d5557) |
+| Tue, 12 May 2026 16:20:34 GMT | Write Up — SimpleCTF (TryHackMe) | Állan Rocha | [Read More](https://medium.com/p/fbd18c3cbbb0) |
+| Tue, 12 May 2026 16:18:09 GMT | I Removed reCAPTCHA From Every Site I Build | Tushar Kanjariya | [Read More](https://medium.com/p/45e53e508dc1) |
+| Tue, 12 May 2026 16:06:35 GMT | From Viewer to Admin — Breaking Organization Isolation in a VDP Platform | montaser mohsen | [Read More](https://medium.com/p/ab57c8ee0c46) |
+| Tue, 12 May 2026 15:57:34 GMT | The Face in the Mirror is a Lie: Surviving the Age of Synthetic Deception | Muhammed Faris | [Read More](https://medium.com/p/a49cb0e45a95) |
+| Tue, 12 May 2026 15:55:58 GMT | Critical Authentication Flaw — Grants Full WordPress Admin Access | Ahmed Mahmoued | [Read More](https://medium.com/p/78432a377915) |
+| Tue, 12 May 2026 15:51:00 GMT | Why JWT Is a Hacker’s Favourite Target (and How to Lock It Down) | CodersWorld | [Read More](https://medium.com/p/48cd5ef3b3d8) |
+| Tue, 12 May 2026 15:31:41 GMT | Why Shared Secrets Work Better: Boosting B2B Speed and Security with Private Blockchains | John Galt | [Read More](https://medium.com/p/c43b3fc65f41) |
+| Tue, 12 May 2026 15:23:00 GMT | Veriyi Kim Topluyor? Ben Topluyorum. | Este Eren | [Read More](https://medium.com/p/2e50c67bd13e) |
+| Tue, 12 May 2026 15:22:36 GMT | Explorando Remote Code Execution (RCE) no WordPress | Link | [Read More](https://medium.com/p/99c1f22b01da) |
+| Tue, 12 May 2026 15:18:33 GMT | OSCP Zero to Hero: Active | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/c4fce6824cd6) |
+| Tue, 12 May 2026 14:51:47 GMT | From Legacy to Luxury: How We Built the Digital Experience for Amarsar Palace | A2Solution | [Read More](https://medium.com/p/0833d3fc0e4e) |
+| Tue, 12 May 2026 14:49:27 GMT | Side Quest: “Copy Fail” | vestigia | [Read More](https://medium.com/p/43c8385b66cc) |
+| Tue, 12 May 2026 14:47:55 GMT | The AI Security Blind Spot: Why Organizations Are More Exposed Than They Realize | Frank Elsner | [Read More](https://medium.com/p/7704da1c6973) |
+| Tue, 12 May 2026 14:45:24 GMT | Web Server Attacks — I - TryHackMe - practical challenge | Jose Praveen | [Read More](https://medium.com/p/39132ace4c7a) |
+| Tue, 12 May 2026 14:45:00 GMT | [Red Team — EP.3] Introduction to Mark of the Web (MotW) & DLL Sideloading | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/bce409f53ae1) |
 | Tue, 12 May 2026 14:36:42 GMT | ASLR & PIE Bypass: Defeating Randomized Memory in 2025 q | Akifkhan | [Read More](https://medium.com/p/0708cb396ace) |
 | Tue, 12 May 2026 14:31:55 GMT | Dark Web Shipping Methods and How Digital Market Logistics Evolve | Tor BBB | [Read More](https://medium.com/p/707bdc84640e) |
 | Tue, 12 May 2026 14:31:10 GMT | How to exploit a linux kernel (Part 2 )? | Mr.bourneagainshell | [Read More](https://medium.com/p/4438393368ee) |
@@ -81,34 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 May 2026 10:05:58 GMT | Unprotected Admin Functionality | Erinmin | [Read More](https://medium.com/p/2e0df4232104) |
 | Tue, 12 May 2026 10:03:37 GMT | Why Does the PCI DSS Process Take Longer Than Expected in Most Companies? | Consulting4sec | [Read More](https://medium.com/p/c7f1ac45750a) |
 | Tue, 12 May 2026 09:55:50 GMT | Critical PHP SOAP Vulnerabilities Put Web Applications at Risk of Remote Code Execution | Jas | [Read More](https://medium.com/p/aac69f87e670) |
-| Tue, 12 May 2026 09:53:11 GMT | Warum Ihre Digital Marketing Agentur In Deutschland mehr als nur SEO bieten sollte | Adelweb Handels Seo | [Read More](https://medium.com/p/983afbf90fbc) |
-| Tue, 12 May 2026 09:52:22 GMT | How to Build a VirtualBox Lab to Prepare for the CEH v13 Exam | Bryant Himmage | [Read More](https://medium.com/p/da113aa039d8) |
-| Tue, 12 May 2026 09:41:00 GMT | The DevSecOps Shift Is About More Than Security — It’s About Trusting Your Software Supply Chain… | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/1dd70f76aeaa) |
-| Tue, 12 May 2026 09:34:26 GMT | From Commute Hell to home office bliss: Why Indian PM Modi’s call for WFH makes sense in 2026 | Mohan K | [Read More](https://medium.com/p/22322cbf057c) |
-| Tue, 12 May 2026 09:31:00 GMT | Peppol’s Nervous System is Here — Is Your Integration Ready for MLS? | Alex Olsson | [Read More](https://medium.com/p/87df92bbe37f) |
-| Tue, 12 May 2026 09:28:55 GMT | Building Practical Security Skills as a Cyber Security Engineer | James Adler | [Read More](https://medium.com/p/19d8b6f76664) |
-| Tue, 12 May 2026 09:27:32 GMT | How to Spot Scammers and Save Your Account | Imesmartplatform | [Read More](https://medium.com/p/451d7c0fe52c) |
-| Tue, 12 May 2026 09:25:20 GMT | Using 7 Information Security Strategies Like the Pros | Abosede Ogunlade | [Read More](https://medium.com/p/6ffab0fe8dba) |
-| Tue, 12 May 2026 09:23:58 GMT | Common ISO/IEC 27001 Transition Challenges and Solutions | Asmeen S D | [Read More](https://medium.com/p/9c76e4fe7755) |
-| Tue, 12 May 2026 09:21:39 GMT | Why You Should Learn How to Make a Bot in 2026 | Suketu Prajapati | [Read More](https://medium.com/p/58a9282a8e5a) |
-| Tue, 12 May 2026 09:19:45 GMT | WOW Exchange: A Modern Cryptocurrency Trading Platform | kikidjanimm | [Read More](https://medium.com/p/4b5bbafe4f7c) |
-| Tue, 12 May 2026 09:19:13 GMT | Linux File System: My Journey Under the Hood | A Emir Deli | [Read More](https://medium.com/p/234185bbf4c4) |
-| Tue, 12 May 2026 09:16:19 GMT | ModSecurity and the OWASP CRS — the WAF rules we actually ship on Apache | EdgeServers (Unit of RemotIQ Pty Limited ) | [Read More](https://medium.com/p/8dbd7c00b17f) |
-| Tue, 12 May 2026 09:09:07 GMT | They Didn’t Hack the System. They Hacked the Person. | hersaintel | [Read More](https://medium.com/p/d07263f7df0c) |
-| Tue, 12 May 2026 09:07:23 GMT | The Mythos Universe | Steve Cooper | [Read More](https://medium.com/p/82d95b317c89) |
-| Tue, 12 May 2026 09:02:20 GMT | Tips To Protect Your Personal Data Online | Kanwalsiddiqui | [Read More](https://medium.com/p/200d89b36fde) |
-| Tue, 12 May 2026 09:01:52 GMT | 2nd lab DVWA(XSS) | BlueTeamMal | [Read More](https://medium.com/p/0c13f9beaae1) |
-| Tue, 12 May 2026 09:01:01 GMT | How to Maintain Policies With a Tiny Team | Gaurav Shukla | [Read More](https://medium.com/p/4e8b844392e7) |
-| Tue, 12 May 2026 08:57:35 GMT | The ITSM platform that’s supposed to manage your tickets… and instead hands your entire Active… | suicidal_teddy | [Read More](https://medium.com/p/8ff709af14fc) |
-| Tue, 12 May 2026 08:56:39 GMT | My Web Application Security Journey from Scattered Knowledge to Serious Learning | caffeinelowdead | [Read More](https://medium.com/p/48a6f9073e60) |
-| Tue, 12 May 2026 08:55:31 GMT | Encryption, Cookies, and Certificates — The Basic Kit of Surfing the Internet Safely | Jendral Muhamad Yusuf | [Read More](https://medium.com/p/133e63c125b1) |
-| Tue, 12 May 2026 08:43:35 GMT | Simple Pentest Service for Stronger Cyber Protection | Digital Duffer | [Read More](https://medium.com/p/6e5797f5c133) |
-| Tue, 12 May 2026 08:42:29 GMT | The Evolution of Pentest Service in the Digital Age | Digital Duffer | [Read More](https://medium.com/p/5659d0034252) |
-| Tue, 12 May 2026 08:36:23 GMT | Customer-Driven AI CTI Project Template. Part 2A: Phase-by-Phase Execution Guide | Andrey Pautov | [Read More](https://medium.com/p/f9751a8bcb59) |
-| Tue, 12 May 2026 08:34:59 GMT | Wiring Live Threat Intel into Sigma Detection with Dynamic Pipelines | Mostafa Moradian | [Read More](https://medium.com/p/4de29b4af7ca) |
-| Tue, 12 May 2026 08:34:15 GMT | The Ultimate Guide to Deploying Wazuh : From Zero to Active | Aakash Jha | [Read More](https://medium.com/p/9ff249152ade) |
-| Tue, 12 May 2026 08:31:41 GMT | What Are Vulnerabilities? A Beginner’s Guide | Shalu | [Read More](https://medium.com/p/496eb6041795) |
-| Tue, 12 May 2026 08:30:00 GMT | Most Cyber Attacks Don’t Hack Systems — They Hack People | Sam Writes Security | [Read More](https://medium.com/p/b8c1343fa898) |
-| Tue, 12 May 2026 08:29:38 GMT | Breaking Into the Box That’s Supposed to Keep You Safe sgbox | suicidal_teddy | [Read More](https://medium.com/p/8b46fac5718e) |
-| Tue, 12 May 2026 08:27:43 GMT | Ethical Hacking Course Fees in Sangam Vihar | EINITIAL24 | [Read More](https://medium.com/p/e79876341022) |
-| Tue, 12 May 2026 08:23:46 GMT | ️ Burp Suite Workflow — How I Actually Use It During Real Hunts | ghostyjoe | [Read More](https://medium.com/p/966475c10b74) |
