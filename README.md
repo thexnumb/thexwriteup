@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 May 2026 22:36:10 GMT | Understanding Kerberos Delegation and Unconstrained Delegation | cyberpro151 | [Read More](https://medium.com/p/dfb485d20997) |
+| Tue, 12 May 2026 22:18:33 GMT | HTB Editor — Walkthrough | Bianca | [Read More](https://medium.com/p/5df1721ab6af) |
+| Tue, 12 May 2026 22:13:05 GMT | Top Security Challenges Facing Businesses Today | AlexBryn | [Read More](https://medium.com/p/39a4f4727948) |
+| Tue, 12 May 2026 22:05:28 GMT | TryHackMe - Monitoring AWS Logins - WriteUp | Axoloth | [Read More](https://medium.com/p/4afe7235b0f3) |
+| Tue, 12 May 2026 22:03:41 GMT | TryHackMe - Web Server Attacks — I - WriteUp | Axoloth | [Read More](https://medium.com/p/4e50c1703cbd) |
+| Tue, 12 May 2026 21:55:15 GMT | Claude Bleed Mitigation: Securing your company with TrustBridge Architecture | Triple Distributors | [Read More](https://medium.com/p/20e0e5a6e277) |
+| Tue, 12 May 2026 21:34:33 GMT | Using Human Factors Principles to Enhance Cybersecurity Effectiveness | Petersmuditha | [Read More](https://medium.com/p/d21baef83653) |
+| Tue, 12 May 2026 21:08:21 GMT | Kernel Dynamic Offset Resolution using PDB Symbols | S12 - 0x12Dark Development | [Read More](https://medium.com/p/b0aaa499ac25) |
+| Tue, 12 May 2026 21:05:47 GMT | Corporate Diplomacy and Strategic Contradiction: The Beijing Delegation in Context | CCD-IS | [Read More](https://medium.com/p/b29c23ef8a3b) |
+| Tue, 12 May 2026 21:01:35 GMT | Zero Trust: The Security Policy America Keeps Announcing and Never Building | Christian Baghai | [Read More](https://medium.com/p/351c0fc60e85) |
 | Tue, 12 May 2026 21:01:00 GMT | Unfiltered Restart — Day 58: An Offer | Maximillian Rueda | [Read More](https://medium.com/p/b4c4c546370b) |
 | Tue, 12 May 2026 20:50:47 GMT | Detecting CopyFail andDirtyFrag by thinking outside the box | Miggo Engineering | [Read More](https://medium.com/p/3cae021ca94c) |
 | Tue, 12 May 2026 20:47:51 GMT | Artificial Intelligence in Cybersecurity: Why Cyberattacks Are Increasing and How Users Can Defend… | Andres Naranjo | [Read More](https://medium.com/p/9bd1338e86a1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 May 2026 14:11:02 GMT | How to exploit Linux kernel (Part 1) ? | Mr.bourneagainshell | [Read More](https://medium.com/p/cee9d52f3b01) |
 | Tue, 12 May 2026 14:09:33 GMT | Advanced Cybersecurity Strategies for the Modern Digital Workplace | Logan Ford | [Read More](https://medium.com/p/16c446410fb0) |
 | Tue, 12 May 2026 14:08:09 GMT | 6 Surprising Lessons from the Foundations of Information Security | Muhammad Ibraheem | [Read More](https://medium.com/p/ac6c951c758f) |
-| Tue, 12 May 2026 14:04:39 GMT | Investigating Enterprise Brute-Force Authentication Attacks Using Splunk | Hunerkararsh | [Read More](https://medium.com/p/488100f4a140) |
-| Tue, 12 May 2026 14:01:01 GMT | The Transparency Rule — Make Clarity the Default (AISAFE 3) | Michal Florek | [Read More](https://medium.com/p/b51bf6765114) |
-| Tue, 12 May 2026 13:52:53 GMT | Why Your Firewall License Expiring Is More Dangerous Than Having No Firewall | Emma Thomas | [Read More](https://medium.com/p/7ba6b22fdadb) |
-| Tue, 12 May 2026 13:51:36 GMT | Medical Device Connectivity & Cybersecurity Risks: Understanding the Hidden Attack Surface | Asma Yasmeen | [Read More](https://medium.com/p/1d811e154a77) |
-| Tue, 12 May 2026 13:46:00 GMT | The Most Valuable Skill of the Next Decade Might Be ‘Clarity’ | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/c882605d2276) |
-| Tue, 12 May 2026 13:44:29 GMT | Building an AI-Powered Smart Contract Security Auditor: From Fine-Tuning to Deployment | Parsaroohi | [Read More](https://medium.com/p/9a3ca4d08ed8) |
-| Tue, 12 May 2026 13:30:15 GMT | How I Exposed an AI Company’s Finances | Ashish Bogati | [Read More](https://medium.com/p/d1e162a3b996) |
-| Tue, 12 May 2026 13:28:14 GMT | Misconceptions about a data center fire | Jurjen Bos | [Read More](https://medium.com/p/0814cb58b9ff) |
-| Tue, 12 May 2026 13:27:45 GMT | SOC as a Service Explained: Benefits, Features & Security | Digital Defense | [Read More](https://medium.com/p/afb4ead8d733) |
-| Tue, 12 May 2026 13:20:43 GMT | How the Web Speaks: A Practical Guide to HTTP | Jonathan Sanfer | [Read More](https://medium.com/p/f8c46a022e30) |
