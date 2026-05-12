@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 11 May 2026 23:36:03 GMT | Exploring Autonomous Red Teaming and Offensive Security Automation | Gabriel D. Vincent | [Read More](https://medium.com/p/a376f6e4f15d) |
+| Mon, 11 May 2026 23:29:51 GMT | OverTheWire Bandit Walkthrough — Level 0 → 1 - 30-Day Cybersecurity Learning Journey (Day 1) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/554c3feb4aeb) |
+| Mon, 11 May 2026 23:26:24 GMT | AI in Modern Cyber: Vectors, State
+Models, and the End of Symmetry
+between Attacker and Defender | Roei | [Read More](https://medium.com/p/f0db76878d10) |
+| Mon, 11 May 2026 23:22:40 GMT | Building a High-Performance Account Validator with Python: A Deep Dive into MostaHotmailChecker | Abbassamalik | [Read More](https://medium.com/p/afa2100ebde7) |
+| Mon, 11 May 2026 23:20:34 GMT | The Edge Architecture Mistake That Looks Right Until You’re Managing 50 Sites | Portainer.io | [Read More](https://medium.com/p/a1383fdafdcf) |
+| Mon, 11 May 2026 23:19:20 GMT | HackTheBox Walkthrough — Overwatch | Indigo Shadow | [Read More](https://medium.com/p/49d7ecd9f3b7) |
+| Mon, 11 May 2026 23:13:34 GMT | Beyond Wi‑Fi Passwords: The Security Gaps Most Networks Ignore ️ | Raj Savaliya | [Read More](https://medium.com/p/8237a13431df) |
+| Mon, 11 May 2026 23:11:07 GMT | The Scammers Got Smarter, Our Phones Did Not. | Thecybercornr | [Read More](https://medium.com/p/fe149330fa9f) |
+| Mon, 11 May 2026 23:09:59 GMT | Why is it so easy to build a relationship with AI bots? | Yesh Chala | [Read More](https://medium.com/p/a8fe9290fe84) |
+| Mon, 11 May 2026 22:58:20 GMT | Claude vs ChatGPT (2026) — Which AI Is Actually Better? | Muneeb ul Rahman | [Read More](https://medium.com/p/4a58388a7311) |
+| Mon, 11 May 2026 22:54:53 GMT | SQL Server Altyapısında gMSA Dönüşümü Nasıl Yapılır | yunusyucel | [Read More](https://medium.com/p/c5c6dcde86f2) |
+| Mon, 11 May 2026 22:50:55 GMT | DeepSeek V4 Just Changed the Game Again — Here’s Why It Actually Matters | Ahsan | [Read More](https://medium.com/p/ccc7a7b227e0) |
+| Mon, 11 May 2026 22:41:00 GMT | Your Database Knows Too Much: A Fun Guide to Data Masking in Healthcare AI | Raghuveer M | [Read More](https://medium.com/p/0bd3eaf411be) |
 | Mon, 11 May 2026 22:19:35 GMT | Decentralised Digital Security E-book Out Now (Open Access) | Kelsie Nabben | [Read More](https://medium.com/p/422e1b02fb5a) |
 | Mon, 11 May 2026 22:17:17 GMT | The ESP32 Has Quietly Become One of the Most Interesting Hacker Devices Alive | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/745145e40497) |
 | Mon, 11 May 2026 22:15:05 GMT | Windows Event Viewer Rehberi: SOC Perspektifinden Windows Log Analizi | Ahmet Badem | [Read More](https://medium.com/p/1916d4088d19) |
@@ -28,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 11 May 2026 21:02:44 GMT | rather be real and rejected, than fake and accepted | Seid Arsen Ramic | [Read More](https://medium.com/p/8b1c397fea11) |
 | Mon, 11 May 2026 21:01:00 GMT | Unfiltered Restart — Day 57: BACK AGAIN | Maximillian Rueda | [Read More](https://medium.com/p/ea4d60885de5) |
 | Mon, 11 May 2026 21:00:46 GMT | When Sorrow Arrives | Vinitha Dileep | [Read More](https://medium.com/p/84d3d8e31a80) |
+| Mon, 11 May 2026 20:58:31 GMT | The Vibe Coding Ticking Bomb: Why AI-Generated Websites Could Trigger A Wave Of Serious Security… | Gustav Morving | [Read More](https://medium.com/p/9fd1b7d1d539) |
 | Mon, 11 May 2026 20:51:00 GMT | KALI LINUX SETUP IN VMWARE | Nayshana.A | [Read More](https://medium.com/p/fc7c1da45cf8) |
 | Mon, 11 May 2026 20:42:19 GMT | OSCP Dailies: THM — Attacktive Directory — Day 4 | MichaelLearns_ | [Read More](https://medium.com/p/6b9d65a17f0c) |
 | Mon, 11 May 2026 20:29:11 GMT | Vulnerability Disclosure: Application-Layer DoS via GraphQL Array Batching | Ahmed Ibrahim | [Read More](https://medium.com/p/b5367db83ac9) |
@@ -99,17 +115,3 @@ SOC335 — CVE-2024–49138 Exploitation Detected | Zethekele Sandile Ncube | [R
 | Mon, 11 May 2026 15:01:02 GMT | 2023 Put Anthropic’s Model Safety on the Buyer’s Calendar | James Kuhman | [Read More](https://medium.com/p/06c3c974cb28) |
 | Mon, 11 May 2026 14:49:21 GMT | The Man Who Loved a Cockroach — and Ate Her to Keep Her Forever | NG Shimray | [Read More](https://medium.com/p/c8dc5d0c714b) |
 | Mon, 11 May 2026 14:45:38 GMT | The Cybersecurity Budget Nobody Approves Until the Breach | Travis Ray Caverhill | [Read More](https://medium.com/p/0d5ba77e1afb) |
-| Mon, 11 May 2026 14:32:52 GMT | ‘Delivery’ machine Write-up from HackTheBox | Zeyad Mahmoud | [Read More](https://medium.com/p/0d1b78b58bc9) |
-| Mon, 11 May 2026 14:32:48 GMT | Account Takeover via OAuth Code Hijacking on BuzzFeed’s Tasty App: Chaining WebView ,  Deeplinks | Farouk Nabil | [Read More](https://medium.com/p/e2ff9a77b773) |
-| Mon, 11 May 2026 14:31:00 GMT | AI in Cyber Attacks Explained: How Hackers Use Artificial Intelligence to Launch Smarter Attacks | Manula Udyoga | [Read More](https://medium.com/p/63ee5092c024) |
-| Mon, 11 May 2026 14:28:49 GMT | Got scammed? | JASPERS HELGA | [Read More](https://medium.com/p/ba88b57e92ca) |
-| Mon, 11 May 2026 14:27:37 GMT | The OAuth Vulnerabilities Most Bug Hunters Ignore — And How to Find Them With Burp Suite | 0xAbhiSec | [Read More](https://medium.com/p/47904e429eb4) |
-| Mon, 11 May 2026 14:26:19 GMT | Static vs Dynamic OTP: Security, Scale, and the Hidden Engineering Costs | The Latency Gambler | [Read More](https://medium.com/p/7722b155d7de) |
-| Mon, 11 May 2026 14:21:00 GMT | Heavy-Tailed Noise | Shailendra Kumar | [Read More](https://medium.com/p/74c64b2cd105) |
-| Mon, 11 May 2026 14:18:48 GMT | Notify Me REVIEW Reliable Website Monitoring for Security, Price Tracking, and Alerts | MacSources | [Read More](https://medium.com/p/69fae1774d42) |
-| Mon, 11 May 2026 14:09:45 GMT | What if the Riemann Hypothesis was never blocked by analysis, but by the Busy Beaver catastrophe… | Jim Whitescarver | [Read More](https://medium.com/p/05a7fdd16206) |
-| Mon, 11 May 2026 14:02:27 GMT | Day 97: OPSEC 101 | Nile Okomo | [Read More](https://medium.com/p/5a47ca8e6e1b) |
-| Mon, 11 May 2026 13:59:52 GMT | How to Enable (or Remove) ChatGPT’s Trusted Contact Feature | dailypulsewire | [Read More](https://medium.com/p/6537a61e8fe7) |
-| Mon, 11 May 2026 13:49:12 GMT | The Silent AI Revolution | Aman Khan | [Read More](https://medium.com/p/983f78c0471b) |
-| Mon, 11 May 2026 13:47:29 GMT | Top Mobile Application Development Company in Pune - Associative | Associative: Software Development & Consulting | [Read More](https://medium.com/p/604575baa373) |
-| Mon, 11 May 2026 13:42:04 GMT | Closing the Loop on My Local AI Agent Workflow | Carlos Lopez | [Read More](https://medium.com/p/db0407699ebf) |
