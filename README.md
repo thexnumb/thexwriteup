@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 May 2026 12:25:43 GMT | HCA Healthcare and the Dark Web Problem Hospitals Keep Underestimating | Travis Ray Caverhill | [Read More](https://medium.com/p/a29618a93ca9) |
+| Wed, 13 May 2026 12:13:26 GMT | Are Crypto Bridges Safe? The $292M KelpDAO Hack Proved They’re Not. Here’s What to Use Instead. | Blueice Finance | [Read More](https://medium.com/p/16b9612b33bb) |
+| Wed, 13 May 2026 12:11:53 GMT | Cyber Incident Response Checklist | Shackleton Technologies - IT Blog - Dundee - Tech | [Read More](https://medium.com/p/d97e201423c9) |
+| Wed, 13 May 2026 12:09:29 GMT | The “Vulnerable by Design” Philosophy | Alyant | [Read More](https://medium.com/p/cd285b023745) |
+| Wed, 13 May 2026 12:07:33 GMT | Canvas LMS Got Ransomed and 275 Million Students Paid the Price : Here’s What Actually Went Wrong | Motasem Hamdan | [Read More](https://medium.com/p/dbb84db6428b) |
+| Wed, 13 May 2026 12:03:08 GMT | How Much Do Cybersecurity Services Cost for NZ Small Businesses? | Cyber Mark Security | [Read More](https://medium.com/p/a807379878d8) |
+| Wed, 13 May 2026 11:49:35 GMT | Ücretsiz İnternetin Görünmeyen Riskleri | Osman | [Read More](https://medium.com/p/b0401c1c3850) |
+| Wed, 13 May 2026 11:49:17 GMT | Cactus | Unknown | [Read More](https://medium.com/p/7406e269a29f) |
+| Wed, 13 May 2026 11:47:48 GMT | Intro to AD Breaching - TryHackMe - practical challenge | Jose Praveen | [Read More](https://medium.com/p/0ce86deace64) |
+| Wed, 13 May 2026 11:47:08 GMT | Fortinet and Ivanti Patch Critical Vulnerabilities: Why Immediate Action Matters for Every… | Jas | [Read More](https://medium.com/p/94591e6bc0be) |
+| Wed, 13 May 2026 11:43:58 GMT | The Legal Minefield of Penetration Testing: Where White-Hat Ends and Cybercrime Begins | Ezocmpe | [Read More](https://medium.com/p/aa05601993d1) |
+| Wed, 13 May 2026 11:43:07 GMT | Engineering and security approaches used in open-source PostgreSQL backup tool Databasus | Lora Cole | [Read More](https://medium.com/p/064e3aa5b817) |
+| Wed, 13 May 2026 11:42:23 GMT | Infostealer Malware Surges: Why GCC Corporate Credentials Are the New Black Market Gold | Dhashevijay | [Read More](https://medium.com/p/baa42485ad73) |
+| Wed, 13 May 2026 11:31:01 GMT | The Linux Server Looked Healthy. That’s What Made Me Nervous. | Faruk Ahmed | [Read More](https://medium.com/p/af4d69905176) |
+| Wed, 13 May 2026 11:30:34 GMT | Building an AI-Powered Cybersecurity Lab with React, Node.js, and MySQL | Toobakhanshahzad | [Read More](https://medium.com/p/9310f38f49af) |
+| Wed, 13 May 2026 11:29:29 GMT | When Encryption-at-Rest Isn’t Enough: A Live iOS Memory Forensics Walkthrough | Syed Faizan Ahmed | [Read More](https://medium.com/p/d72f7c6b5777) |
+| Wed, 13 May 2026 11:15:23 GMT | eJPT v2 : Challenge Lab 33: Different CTF | Dhanushkumar R | [Read More](https://medium.com/p/99796280093c) |
+| Wed, 13 May 2026 11:10:16 GMT | Why Hard Drives Still Matter in the Digital World & How Failed Hard Disk Recovery Works… | Shikha Kumari | [Read More](https://medium.com/p/091a2053ab3f) |
+| Wed, 13 May 2026 10:54:39 GMT | Security Guarding | Target securitygroup | [Read More](https://medium.com/p/11a228069f51) |
+| Wed, 13 May 2026 10:48:14 GMT | OWASP Top 10 #5 — Security Misconfiguration ⚙️ | Kanishkakhandelwal | [Read More](https://medium.com/p/1e683ad9c05c) |
+| Wed, 13 May 2026 10:46:48 GMT | How We Built SecureBank: A Banking App That Hacks Itself | Areeshahafeez | [Read More](https://medium.com/p/4dd12ef60019) |
+| Wed, 13 May 2026 10:38:46 GMT | Local File Inclusion(LFI) + Directory Traversal in Bug Bounty | Daemi Jack | [Read More](https://medium.com/p/595347611240) |
+| Wed, 13 May 2026 10:36:47 GMT | No Phone Number, No Ads, No Problem: Why More People Are Choosing Veil | Voidly | [Read More](https://medium.com/p/f6aeb90ff3b7) |
+| Wed, 13 May 2026 10:34:29 GMT | JWT Authentication, JWKS, and Key Rotation Explained Simply (But Deeply) | Saurabh Kumar Sahu | [Read More](https://medium.com/p/584dce671eb6) |
+| Wed, 13 May 2026 10:32:32 GMT | HTTP Protocol Deep Dive: Everything Every Backend Engineer Must Know | Ameer Hamza | [Read More](https://medium.com/p/8ce5ebb0c5ff) |
 | Wed, 13 May 2026 10:28:44 GMT | No Coding Experience? Why BTech in Information Technology is Still the Best Career Choice in 2026 | Medicaps University India | [Read More](https://medium.com/p/aa2f97b04d0d) |
 | Wed, 13 May 2026 10:23:38 GMT | The Cognitive Foundation of the Modern Cyberattack: Here, Russia and Ukraine Have No Equal | 0trust0day | [Read More](https://medium.com/p/c40587e5463b) |
 | Wed, 13 May 2026 10:13:49 GMT | Top 10 Cybersecurity Threats Businesses Must Avoid in Dubai and Sharjah | Diversified LLC | [Read More](https://medium.com/p/679ab8d73b4d) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 May 2026 06:13:35 GMT | What Would Happen to Society If Everyone Said Exactly What They Were Thinking? | @Tal | [Read More](https://medium.com/p/2d8cbe02a3d7) |
 | Wed, 13 May 2026 06:10:03 GMT | A Multi-Million Dollar Bank Heist that no one Talks About | Fadyl Raffi | [Read More](https://medium.com/p/ca44522f8218) |
 | Wed, 13 May 2026 06:03:39 GMT | Why Brisbane and Townsville Businesses Need Managed IT Services | Adits Australia | [Read More](https://medium.com/p/90a910638bed) |
-| Wed, 13 May 2026 05:54:51 GMT | How to Protect Your WooCommerce Store from Brute-Force Attacks (Complete Guide) | Nvgandhi | [Read More](https://medium.com/p/d3427d5e77b3) |
-| Wed, 13 May 2026 05:52:13 GMT | How Recommendation System work | Aarish Mansur | [Read More](https://medium.com/p/59c1b230129f) |
-| Wed, 13 May 2026 05:49:59 GMT | How to Route Traffic Through a Pivot When Your Attack Server Is Isolated | chokri hammedi | [Read More](https://medium.com/p/f1bfeee8461e) |
-| Wed, 13 May 2026 05:44:15 GMT | Setting Up My Mobile Application Testing Lab: What Worked, What Failed, and What I Learned | Sumitdhavale | [Read More](https://medium.com/p/36a901615d04) |
-| Wed, 13 May 2026 05:43:41 GMT | The Duplicate That Shouldn’t Have Been a Duplicate | Fateyaly | [Read More](https://medium.com/p/0d6b9a381c98) |
-| Wed, 13 May 2026 05:41:43 GMT | Day 1: Why I Chose to Start Slow Before Learning to Hack | Hamim Islam | [Read More](https://medium.com/p/e253bcf98471) |
-| Wed, 13 May 2026 05:35:14 GMT | PortSwigger Lab -Broken Access Control (URL-based access control can be circumvented) Writeup | Onlyrahimsec | [Read More](https://medium.com/p/6920a23aafa1) |
-| Wed, 13 May 2026 05:34:27 GMT | Is Your Organization Ready For ISO 27001 Compliance In Today’s Security Landscape? | keyTrackr | [Read More](https://medium.com/p/b7e58f6e39e0) |
-| Wed, 13 May 2026 05:33:24 GMT | What 127 Agentic AI Patterns Reveal About Security | Kishan Nagendra | [Read More](https://medium.com/p/0a4670c26dc7) |
-| Wed, 13 May 2026 05:24:09 GMT | Shellshock Vulnerability Explained: Causes, Risks, and Security Impact | Darshika Madhuhansani | [Read More](https://medium.com/p/901f1ef61bda) |
-| Wed, 13 May 2026 05:15:24 GMT | Fly Faster & Smarter with Beginner RC Airplanes | Friendly Hobbies Henderson | [Read More](https://medium.com/p/18febcbe0136) |
-| Wed, 13 May 2026 05:12:24 GMT | OverTheWire Bandit Walkthrough — Level 1 → 2 - 30-Day Cybersecurity Learning Journey (Day 2) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/7c94f0783d5d) |
-| Wed, 13 May 2026 05:10:38 GMT | AI in Cybersecurity: The Future of Intelligent Defense and the Evolution of Digital Threats | Praveen Rathod(Daanveer_protocol.Exe) | [Read More](https://medium.com/p/7ad185dce450) |
-| Wed, 13 May 2026 05:09:31 GMT | I read you like a secret no one else could keep | alls | [Read More](https://medium.com/p/bb59b61e1ee5) |
-| Wed, 13 May 2026 05:05:50 GMT | IT Outsourcing in GCC: Your Partner Selection Blueprint | Emvigo Technologies | [Read More](https://medium.com/p/7e8796d5132e) |
-| Wed, 13 May 2026 05:05:40 GMT | FORGOTTEN DEVICES | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/e9e5faaaeb39) |
-| Wed, 13 May 2026 04:55:35 GMT | AWS S3 Deep Dive: Storage Classes, Versioning, Lifecycle Policies & Security Risks Explained | MTS-SECURITY | [Read More](https://medium.com/p/261fe0218e9f) |
-| Wed, 13 May 2026 04:52:11 GMT | Network Revision — part 2 | ExploitHunter | [Read More](https://medium.com/p/632d101c3067) |
-| Wed, 13 May 2026 04:51:02 GMT | Network Revision — part 1 | ExploitHunter | [Read More](https://medium.com/p/aaac070636c3) |
-| Wed, 13 May 2026 04:45:55 GMT | A few weeks ago, we faced a serious security incident during a routine development cycle. | PANKAJ KADTAN | [Read More](https://medium.com/p/1799dca47129) |
-| Wed, 13 May 2026 04:32:24 GMT | I did not set out to find a critical vulnerability on my own computer. | Boneycyriac | [Read More](https://medium.com/p/3c5d27e0d8ae) |
-| Wed, 13 May 2026 04:05:34 GMT | HTB Sherlock : WorkFromHome | YournextCISO | [Read More](https://medium.com/p/f3940ef56e42) |
-| Wed, 13 May 2026 04:03:23 GMT | How I Lost My Apple Account in 10 Days Despite Two-Factor Authentication and No Apple Device | Jo Teh | [Read More](https://medium.com/p/33fa540f6c0e) |
-| Wed, 13 May 2026 03:56:48 GMT | Soporte IT en Chile: ¿Por Qué Necesitas Pros para Proteger Tus Datos en la Era IA? | Best Solution: Agencia de Diseño Web | [Read More](https://medium.com/p/fa898bac9008) |
-| Wed, 13 May 2026 03:56:29 GMT | Cross-Tenant Authorization Bypass | z3r0-hunter | [Read More](https://medium.com/p/fe9e6b26b640) |
