@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 12 May 2026 23:36:30 GMT | OSCP Dailies: THM — Roasted — Day 1 | MichaelLearns_ | [Read More](https://medium.com/p/5ec637ae6037) |
+| Tue, 12 May 2026 23:31:06 GMT | Building My Cybersecurity Home Lab: A Journey of Frustration and Progress | Paulo Melo | [Read More](https://medium.com/p/4146a2b2d2f3) |
+| Tue, 12 May 2026 23:30:58 GMT | The Authentication Debt Nobody Wants to Audit. And Attackers Know It. | Stuardo Rodriguez | [Read More](https://medium.com/p/001de2709de2) |
+| Tue, 12 May 2026 23:23:37 GMT | Intersubjectivity and the Fragility of Care | Annalaura Zecca Piacentini | [Read More](https://medium.com/p/25e6e3f0401a) |
+| Tue, 12 May 2026 23:12:26 GMT | Atlantis Technology Beneath the Sphinx? | Youth_K | [Read More](https://medium.com/p/6c00c433f5eb) |
+| Tue, 12 May 2026 22:56:26 GMT | Interpreting The Language of Randomness in Data | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/2c489351886a) |
+| Tue, 12 May 2026 22:56:07 GMT | CVE Program Report for Quarter 1 Calendar Year (Q1 CY) 2026 | CVE Program Blog | [Read More](https://medium.com/p/ddf638377bdc) |
+| Tue, 12 May 2026 22:50:42 GMT | Multi-Layer Packet Processing Pipeline for DDoS Mitigation | Lenny Alexandra | [Read More](https://medium.com/p/8f37b7f27f21) |
+| Tue, 12 May 2026 22:48:01 GMT | 4 Gigabytes You Didn’t Download | Suleiman Tawil | [Read More](https://medium.com/p/0a6377a0a719) |
+| Tue, 12 May 2026 22:46:00 GMT | Making IT Strategy Work | Ryan Y. Kurr | [Read More](https://medium.com/p/0363115a9bce) |
+| Tue, 12 May 2026 22:45:03 GMT | Quantum-Safe, or Quantum-Scented? | Darwin Gosal | [Read More](https://medium.com/p/9a66db1856ff) |
+| Tue, 12 May 2026 22:41:30 GMT | Stealth Subs and Nuclear Deadlocks: The New Face of the Middle East War | Ava Martin | [Read More](https://medium.com/p/4127f5222660) |
 | Tue, 12 May 2026 22:36:10 GMT | Understanding Kerberos Delegation and Unconstrained Delegation | cyberpro151 | [Read More](https://medium.com/p/dfb485d20997) |
 | Tue, 12 May 2026 22:18:33 GMT | HTB Editor — Walkthrough | Bianca | [Read More](https://medium.com/p/5df1721ab6af) |
 | Tue, 12 May 2026 22:13:05 GMT | Top Security Challenges Facing Businesses Today | AlexBryn | [Read More](https://medium.com/p/39a4f4727948) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 12 May 2026 14:47:55 GMT | The AI Security Blind Spot: Why Organizations Are More Exposed Than They Realize | Frank Elsner | [Read More](https://medium.com/p/7704da1c6973) |
 | Tue, 12 May 2026 14:45:24 GMT | Web Server Attacks — I - TryHackMe - practical challenge | Jose Praveen | [Read More](https://medium.com/p/39132ace4c7a) |
 | Tue, 12 May 2026 14:45:00 GMT | [Red Team — EP.3] Introduction to Mark of the Web (MotW) & DLL Sideloading | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/bce409f53ae1) |
-| Tue, 12 May 2026 14:36:42 GMT | ASLR & PIE Bypass: Defeating Randomized Memory in 2025 q | Akifkhan | [Read More](https://medium.com/p/0708cb396ace) |
-| Tue, 12 May 2026 14:31:55 GMT | Dark Web Shipping Methods and How Digital Market Logistics Evolve | Tor BBB | [Read More](https://medium.com/p/707bdc84640e) |
-| Tue, 12 May 2026 14:31:10 GMT | How to exploit a linux kernel (Part 2 )? | Mr.bourneagainshell | [Read More](https://medium.com/p/4438393368ee) |
-| Tue, 12 May 2026 14:31:00 GMT | How Hackers Use AI Tools: The New Reality of Cyber Threats ️ | Manula Udyoga | [Read More](https://medium.com/p/0fdfd78cdbb4) |
-| Tue, 12 May 2026 14:27:01 GMT | Found an AI That Actually Remembers Who I Am — And It Has 143,000 People Losing Their Minds Over It | Krithick | [Read More](https://medium.com/p/429421fcd041) |
-| Tue, 12 May 2026 14:19:09 GMT | When Documents Start Talking Back: How Hidden Instructions Hijack AI Agents | Godel Labs | [Read More](https://medium.com/p/e7a341168995) |
-| Tue, 12 May 2026 14:14:02 GMT | The $2 Trillion Architecture: Why ASEAN’s DEFA is a Cybersecurity Play Disguised as Trade | outofspace | [Read More](https://medium.com/p/7be656d55e38) |
-| Tue, 12 May 2026 14:12:26 GMT | I submitted 4 Linux kernel patches in one night as a final year student. | Kartik Nair | [Read More](https://medium.com/p/188ba790eb17) |
-| Tue, 12 May 2026 14:11:04 GMT | Implementing the CISA Zero Trust Maturity Model in Cloud Security Governance | Rogerio Cruz | [Read More](https://medium.com/p/945f71c76d39) |
-| Tue, 12 May 2026 14:11:02 GMT | How to exploit Linux kernel (Part 1) ? | Mr.bourneagainshell | [Read More](https://medium.com/p/cee9d52f3b01) |
-| Tue, 12 May 2026 14:09:33 GMT | Advanced Cybersecurity Strategies for the Modern Digital Workplace | Logan Ford | [Read More](https://medium.com/p/16c446410fb0) |
-| Tue, 12 May 2026 14:08:09 GMT | 6 Surprising Lessons from the Foundations of Information Security | Muhammad Ibraheem | [Read More](https://medium.com/p/ac6c951c758f) |
