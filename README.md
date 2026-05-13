@@ -12,10 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 May 2026 21:37:45 GMT | VulnHub — Shenron: 1 - Full Walkthrough | Shikhali Jamalzade | [Read More](https://medium.com/p/05d09a54ab77) |
+| Wed, 13 May 2026 21:37:02 GMT | 1,000,000 WordPress Sites Affected by Arbitrary File Read and SQL Injection Vulnerabilities in… | Wordfence | [Read More](https://medium.com/p/9e93f9767569) |
+| Wed, 13 May 2026 21:32:47 GMT | Bug Bounty: The Reward Hunters of the Digital World | Ziya Gokalp | [Read More](https://medium.com/p/8c5bccf40988) |
+| Wed, 13 May 2026 21:32:01 GMT | OverTheWire Bandit Walkthrough — Level 2 → 3 - 30-Day Cybersecurity Learning Journey (Day 3) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/de8ea73153bb) |
+| Wed, 13 May 2026 21:24:13 GMT | The Platform Is Becoming the Security Boundary for AI Systems | Monica Mock-Sipos | [Read More](https://medium.com/p/81a5a7a95eb4) |
+| Wed, 13 May 2026 21:04:51 GMT | Cybersecurity in iOS | Eduardo Hoyos | [Read More](https://medium.com/p/17e4adf95798) |
+| Wed, 13 May 2026 21:01:00 GMT | Unfiltered Restart — Day 59: A Choice to Make + Reveal? | Maximillian Rueda | [Read More](https://medium.com/p/5b4bc53858be) |
+| Wed, 13 May 2026 20:37:37 GMT | Hardening Financial AI Agents: A Deterministic Pulse for 2026 | Jessica Burnett | [Read More](https://medium.com/p/91c3130dba73) |
+| Wed, 13 May 2026 20:34:41 GMT | The Hidden Terminals of the Internet: A Guide to Ports | HackTheCyber | [Read More](https://medium.com/p/e1bb7c2f147f) |
+| Wed, 13 May 2026 20:34:09 GMT | In this walkthrough, I am going to show how I investigated and successfully completed the “VPN… | Osborneg | [Read More](https://medium.com/p/060f53b906b9) |
+| Wed, 13 May 2026 20:29:02 GMT | How to Detect Phishing in Text Strings Using AI in Node.js | Cloudmersive | [Read More](https://medium.com/p/5c4ebb0d5cde) |
+| Wed, 13 May 2026 20:24:38 GMT | Bir HTTP İsteği Gerçekten Nerede Biter? | Zeki Kayaalp | [Read More](https://medium.com/p/22dcb0c028d3) |
+| Wed, 13 May 2026 20:21:03 GMT | Concert Security Guard Services California - All Star Security Services (2026 Guide) | Matthew | [Read More](https://medium.com/p/f141ff4ab558) |
+| Wed, 13 May 2026 20:18:41 GMT | Scoring Cyber Maturity Across 50+ Business Units That Looked Nothing Alike | Rathsara R | [Read More](https://medium.com/p/879f2961467d) |
+| Wed, 13 May 2026 20:13:34 GMT | 60 Bastions, 0 SSH Keys, 1 Terraform Module: A Security-First Migration Story | Moliveira | [Read More](https://medium.com/p/664bc281ab11) |
+| Wed, 13 May 2026 20:09:08 GMT | Deepfakes et désinformation : la menace est là | Sarah | [Read More](https://medium.com/p/5e3c9719d606) |
+| Wed, 13 May 2026 20:00:01 GMT | The Loneliness Nobody Talks About | Geanina-Ligia Pârvan | [Read More](https://medium.com/p/e4e8871e117e) |
+| Wed, 13 May 2026 19:57:46 GMT | Access to members-only YouTube video content | Seqrity | [Read More](https://medium.com/p/6f5d951da209) |
 | Wed, 13 May 2026 19:54:09 GMT | The Power of “No”: How Quantum Impossibilities Enable Quantum Technologies | Pravir Malik | [Read More](https://medium.com/p/44257d65fb40) |
 | Wed, 13 May 2026 19:40:02 GMT | Zafiyeti Bulduk, Sıra İstismarında. | Este Eren | [Read More](https://medium.com/p/15d203a27dc6) |
 | Wed, 13 May 2026 19:38:06 GMT | Lets Defend LAB: SOC168 — Whoami Command Detected in Request Body | Darvensley Esperance | [Read More](https://medium.com/p/2058a0c41760) |
 | Wed, 13 May 2026 19:30:14 GMT | ZenPhoto - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/20ea54646f6e) |
+| Wed, 13 May 2026 19:11:01 GMT | Confused Deputy: El Riesgo Invisible en Sistemas con Privilegios Elevados | Michel Alan López | [Read More](https://medium.com/p/e6ac4429bf77) |
 | Wed, 13 May 2026 19:06:34 GMT | Swaad Anusaar Salting | Supriya Pashine | [Read More](https://medium.com/p/e644e07700e6) |
 | Wed, 13 May 2026 19:04:20 GMT | Get PQC Ready PDQ — Part 1 | Brett Crawley | [Read More](https://medium.com/p/55100c2e5d94) |
 | Wed, 13 May 2026 19:02:01 GMT | Why Data Mapping Stops Where Risk Begins | Forg3t Protocol - AI Unlearning | [Read More](https://medium.com/p/9bff5f026ba2) |
@@ -93,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 May 2026 14:47:44 GMT | Secure Command-and-Control Communication Simulator Using Encrypted Client-Server Architecture | Ali Murtaza | [Read More](https://medium.com/p/6bdde5a1d752) |
 | Wed, 13 May 2026 14:45:17 GMT | Intro to Log Analysis | Rormsbee | [Read More](https://medium.com/p/f97cafca13a1) |
 | Wed, 13 May 2026 14:44:37 GMT | Hiring a Security Person Does Not Fix Your Security Problem | Abhishek Pahuja | [Read More](https://medium.com/p/dc35e7b2856b) |
-| Wed, 13 May 2026 14:28:07 GMT | Consolidate or Collapse: Why Multicloud is an Anti-Pattern for Agentic AI Security | Tom Croll | [Read More](https://medium.com/p/2a2dcfa51235) |
-| Wed, 13 May 2026 14:26:00 GMT | AI Agent Traps: Inside DeepMind’s Landmark Security Framework and How to Defend Against It | Pavan Dhake | [Read More](https://medium.com/p/f0f91e9bc99f) |
-| Wed, 13 May 2026 14:23:35 GMT | Understanding Darknet Drug Risks in Modern Online Markets | Tor BBB | [Read More](https://medium.com/p/0cc2c0fc0c51) |
-| Wed, 13 May 2026 14:21:45 GMT | Escaping the ReAuth of a Hijacked Session on Deletion Function | RAWBIN | [Read More](https://medium.com/p/ad95e6c0f97a) |
-| Wed, 13 May 2026 14:11:38 GMT | How CCTV Camera Systems Are Quietly Transforming Everyday Security | secuview | [Read More](https://medium.com/p/cbee25fedc9d) |
-| Wed, 13 May 2026 14:10:48 GMT | Building My First Cybersecurity Home Lab as a Beginner | MYTHILI G | [Read More](https://medium.com/p/95bcc6fe43e3) |
-| Wed, 13 May 2026 14:06:32 GMT | We Built an AI-Powered “FREE” KYC Platform for Developers Who Are Tired of Enterprise Nonsense | Verifilite - Identity Verification, Simplified | [Read More](https://medium.com/p/988d91ce07e9) |
-| Wed, 13 May 2026 14:06:12 GMT | Vulnerability served on a platter | sleeping sp.ace | [Read More](https://medium.com/p/d42b5032d010) |
-| Wed, 13 May 2026 14:01:08 GMT | When SIEM Fails: Common Mistakes Security Teams Still Make | NetWitness | [Read More](https://medium.com/p/c33dbbaa4c20) |
-| Wed, 13 May 2026 13:55:57 GMT | When Architecture Becomes a Dialect | Jairo de Almeida | [Read More](https://medium.com/p/a7bc76d89f16) |
-| Wed, 13 May 2026 13:53:40 GMT | Cloudinary PDF “Blocked for Delivery” | Gokul | [Read More](https://medium.com/p/a09c928b66fb) |
-| Wed, 13 May 2026 13:48:33 GMT | Copy Fail (CVE-2026–31431): 732 Bytes to Root ️ | Taha Ex | [Read More](https://medium.com/p/877e4a8ebf48) |
-| Wed, 13 May 2026 13:41:00 GMT | Why Companies Are Rehiring Developers After the AI Automation Rush | Xwtempsolutions | [Read More](https://medium.com/p/445508040ed0) |
-| Wed, 13 May 2026 13:39:53 GMT | Humid Heat | S. W. Lawrence, MD | [Read More](https://medium.com/p/169294b4b4e2) |
-| Wed, 13 May 2026 13:34:08 GMT | HackTheBox — Kobold Writeup - CVE-2026–23520-MCPJam RCE-Docker Breakout | Panda Anonimo | [Read More](https://medium.com/p/6164f55339d2) |
-| Wed, 13 May 2026 13:30:11 GMT | CVE-2021–36942'den CVE-2025–33073'e: Self-Relay Saldırısı | Emre A | [Read More](https://medium.com/p/40fab6c1d303) |
-| Wed, 13 May 2026 13:24:37 GMT | PROFESSIONAL REPORT: CVE-2026–31431
-(Copy-Fail) | Samsonafolabi | [Read More](https://medium.com/p/d9db67702095) |
-| Wed, 13 May 2026 13:21:59 GMT | AI Just Crossed the Zero Day Line. Cybersecurity Will Not Be the Same. | Len Noe | [Read More](https://medium.com/p/cf95064f9709) |
-| Wed, 13 May 2026 13:17:41 GMT | Oracle Machine Learning on Autonomous Database Serverless with OCI IAM: What Works, What Breaks… | Alessandro Moccia | [Read More](https://medium.com/p/65695620e822) |
