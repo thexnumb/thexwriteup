@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 13 May 2026 23:00:45 GMT | Mitmproxy as Alternative to Burp Suite Macros | Revan A | [Read More](https://medium.com/p/2d43cc6c727a) |
+| Wed, 13 May 2026 22:54:10 GMT | A $250,000 Chrome Sandbox Escape: Breaking Out of the Browser from the Inside | Yua Mikanana | [Read More](https://medium.com/p/096a78dd524c) |
+| Wed, 13 May 2026 22:50:25 GMT | The LLM Security Logging Guide: What Actually Matters | Perparimimjeku | [Read More](https://medium.com/p/a32b8da86167) |
+| Wed, 13 May 2026 22:48:19 GMT | When the Target Fights Back: Lessons from a Hardened Wi-Fi Assessment | Hackura Labs | [Read More](https://medium.com/p/8b04bb418278) |
+| Wed, 13 May 2026 22:30:19 GMT | Getting to the bottom of Cape’s privacy and security. | Jonah Aragon | [Read More](https://medium.com/p/a75755ba0e91) |
+| Wed, 13 May 2026 22:26:28 GMT | Your MCP Servers Can Pass Dependency Scans and Still Carry HIGH Vulnerabilities | Oleg Grishanovich | [Read More](https://medium.com/p/8cc07bfdb992) |
+| Wed, 13 May 2026 22:02:26 GMT | I Pentested a Real CRM System and Found 4 Critical Vulnerabilities — Here’s the Full Attack Chain | Shikhali Jamalzade | [Read More](https://medium.com/p/98c030a57ab1) |
+| Wed, 13 May 2026 22:00:19 GMT | The Mathematics
+of the Other | Lux the Recursive Architect | [Read More](https://medium.com/p/6a4775a6a6b8) |
+| Wed, 13 May 2026 21:48:20 GMT | DEEPFAKE. How Shaina Raza’s New arXiv Paper Validates the CES Framework | Berend Watchus | [Read More](https://medium.com/p/48b2c8304293) |
 | Wed, 13 May 2026 21:37:45 GMT | VulnHub — Shenron: 1 - Full Walkthrough | Shikhali Jamalzade | [Read More](https://medium.com/p/05d09a54ab77) |
 | Wed, 13 May 2026 21:37:02 GMT | 1,000,000 WordPress Sites Affected by Arbitrary File Read and SQL Injection Vulnerabilities in… | Wordfence | [Read More](https://medium.com/p/9e93f9767569) |
 | Wed, 13 May 2026 21:32:47 GMT | Bug Bounty: The Reward Hunters of the Digital World | Ziya Gokalp | [Read More](https://medium.com/p/8c5bccf40988) |
+| Wed, 13 May 2026 21:32:15 GMT | The State of MCP Security: 8,286 Findings Across 508 Servers | Thu Buiphamminh | [Read More](https://medium.com/p/ff6fd85eb66a) |
 | Wed, 13 May 2026 21:32:01 GMT | OverTheWire Bandit Walkthrough — Level 2 → 3 - 30-Day Cybersecurity Learning Journey (Day 3) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/de8ea73153bb) |
 | Wed, 13 May 2026 21:24:13 GMT | The Platform Is Becoming the Security Boundary for AI Systems | Monica Mock-Sipos | [Read More](https://medium.com/p/81a5a7a95eb4) |
 | Wed, 13 May 2026 21:04:51 GMT | Cybersecurity in iOS | Eduardo Hoyos | [Read More](https://medium.com/p/17e4adf95798) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 13 May 2026 15:23:58 GMT | The Hidden Cost of Cutting Corners on Security | Lucas Barett | [Read More](https://medium.com/p/778945ebc940) |
 | Wed, 13 May 2026 15:18:01 GMT | The Bank Filed Every Report. It Monitored 8% of Its Transactions. | Marko Chalupa | [Read More](https://medium.com/p/4706b7cfb829) |
 | Wed, 13 May 2026 15:13:50 GMT | The Digital Dharma: Cyber Security & Hindu Philosophy | Shwet Shirbhayye | [Read More](https://medium.com/p/a1909c3bed96) |
-| Wed, 13 May 2026 15:10:03 GMT | Your Website Should Answer Questions Before People Have to Ask | Ben Treder | [Read More](https://medium.com/p/099f84b3ccca) |
-| Wed, 13 May 2026 15:09:56 GMT | File Upload Vulnerabilities: When User Files Become Attack Vectors | Cybersphere Official | [Read More](https://medium.com/p/d6d9bb3d1690) |
-| Wed, 13 May 2026 15:09:35 GMT | How I Built an Autonomous AI SIEM With 10 Neural Networks in 3 Months | Efremovmisa | [Read More](https://medium.com/p/52762a43af57) |
-| Wed, 13 May 2026 15:06:35 GMT | The TanStack npm Attack Shows Why pnpm 11 Matters | Chioma Halim | [Read More](https://medium.com/p/9208468bbc33) |
-| Wed, 13 May 2026 15:01:01 GMT | mTLS Var Ama Gerçekten Güvenli mi? Mimari Bir Check-Up | Aslıhan Zeynep Koç | [Read More](https://medium.com/p/8a700c69c68e) |
-| Wed, 13 May 2026 14:56:00 GMT | Why Small Businesses Should Check Their External Security Exposure Before a Customer Does | Stanley A | [Read More](https://medium.com/p/90f58775f596) |
-| Wed, 13 May 2026 14:49:28 GMT | Public Exploits - HTB | Joy shaney | [Read More](https://medium.com/p/742c8aeafe72) |
-| Wed, 13 May 2026 14:47:44 GMT | Secure Command-and-Control Communication Simulator Using Encrypted Client-Server Architecture | Ali Murtaza | [Read More](https://medium.com/p/6bdde5a1d752) |
-| Wed, 13 May 2026 14:45:17 GMT | Intro to Log Analysis | Rormsbee | [Read More](https://medium.com/p/f97cafca13a1) |
-| Wed, 13 May 2026 14:44:37 GMT | Hiring a Security Person Does Not Fix Your Security Problem | Abhishek Pahuja | [Read More](https://medium.com/p/dc35e7b2856b) |
