@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 May 2026 01:15:16 GMT | Active — HTB Writeup | William Shively | [Read More](https://medium.com/p/ca13a3b92aa1) |
+| Thu, 14 May 2026 01:14:33 GMT | LiteLLM AI Gateway Exposed to SQL Injection Flaw (CVE-2026–42208) | Criminal IP | [Read More](https://medium.com/p/57657211230c) |
+| Thu, 14 May 2026 01:14:08 GMT | From Detection to SOC Action : How THREATRADAR Turns MISP Into a Living Intelligence | Salma El Fekih | [Read More](https://medium.com/p/b3b24da9f6b1) |
+| Thu, 14 May 2026 01:09:14 GMT | SharePoint and OneDrive as Exfil Channels | Paritosh | [Read More](https://medium.com/p/5df52352eb02) |
+| Thu, 14 May 2026 01:01:00 GMT | The attack vector your entire security team hasn’t modeled yet — and it’s already in production | Divyanshu Saini | [Read More](https://medium.com/p/47e020eae2fa) |
+| Thu, 14 May 2026 01:00:00 GMT | ManaPlay Slot: Platform Hiburan Game Online Modern yang Semakin Populer | Vloggam | [Read More](https://medium.com/p/afa8c5f1b842) |
+| Thu, 14 May 2026 00:58:58 GMT | XSS to Database Exfiltration | He4am | [Read More](https://medium.com/p/44b6bc14e9bd) |
+| Thu, 14 May 2026 00:58:14 GMT | JWT, OAuth, and Every Auth Method You’ll Meet in Web App Testing—Explained Simply | Yamini Yadav_369 | [Read More](https://medium.com/p/3b5555f9ae65) |
+| Thu, 14 May 2026 00:57:07 GMT | Install LiteLLM AI Gateway Locally with OpenRouter | Rahul Singh Chauhan | [Read More](https://medium.com/p/38c16aef6df8) |
+| Thu, 14 May 2026 00:56:47 GMT | The AWS Key Pair Labyrinth: A Survival Guide for the Modern Developer | Puzzle Head Space | [Read More](https://medium.com/p/2781589e52f2) |
+| Thu, 14 May 2026 00:48:59 GMT | Salesforce API Attack Surface: A Practical Recon Guide | Dzianis Skliar | [Read More](https://medium.com/p/110293273023) |
+| Thu, 14 May 2026 00:18:27 GMT | The Story of 45+ Stored XSS Bugs | He4am | [Read More](https://medium.com/p/cb6585d0d1a0) |
+| Wed, 13 May 2026 23:46:52 GMT | CYBERPALEONTOLOGY: Digging Up a 20-Year-Old Nation-State Weapon | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/7b7e7e7380a7) |
+| Wed, 13 May 2026 23:41:12 GMT | Russia’s Spy Ship Yantar Is Quietly Testing America’s Undersea Weaknesses | Robert Morton | [Read More](https://medium.com/p/1f7f03688e5b) |
+| Wed, 13 May 2026 23:35:12 GMT | Firewatch Services in California: 24/7 Licensed Fire Watch Guards You Can Trust | Uniworth security Editorial | [Read More](https://medium.com/p/0c512204d802) |
+| Wed, 13 May 2026 23:31:00 GMT | Advanced Agentic workflows and protocols | DiUS | [Read More](https://medium.com/p/278892ed7aef) |
+| Wed, 13 May 2026 23:11:19 GMT | The Lethal Trifecta: How AI Agents With Tool Access Turn Prompt Injection Into RCE | Engr. Ishola | [Read More](https://medium.com/p/a2514cfd2292) |
 | Wed, 13 May 2026 23:00:45 GMT | Mitmproxy as Alternative to Burp Suite Macros | Revan A | [Read More](https://medium.com/p/2d43cc6c727a) |
 | Wed, 13 May 2026 22:54:10 GMT | A $250,000 Chrome Sandbox Escape: Breaking Out of the Browser from the Inside | Yua Mikanana | [Read More](https://medium.com/p/096a78dd524c) |
 | Wed, 13 May 2026 22:50:25 GMT | The LLM Security Logging Guide: What Actually Matters | Perparimimjeku | [Read More](https://medium.com/p/a32b8da86167) |
@@ -96,20 +113,3 @@ of the Other | Lux the Recursive Architect | [Read More](https://medium.com/p/6a
 | Wed, 13 May 2026 16:31:48 GMT | 1: Least Privilege | Mahyaddin Umarov | [Read More](https://medium.com/p/b57f74e0bd60) |
 | Wed, 13 May 2026 16:31:00 GMT | HSTS: The Security Guard That Forces Your Browser to Stay Safe | Natarajan C K | [Read More](https://medium.com/p/fdf410fbc183) |
 | Wed, 13 May 2026 16:27:11 GMT | Web Application Penetration Testing: Methodology, Tools & Guide | Jamescantor | [Read More](https://medium.com/p/4e44f78dd36f) |
-| Wed, 13 May 2026 16:21:41 GMT | What Teaching Students Who Are Deaf or Hard of Hearing Taught Me About AI | Don Rivera Diaz | [Read More](https://medium.com/p/a64379081598) |
-| Wed, 13 May 2026 16:19:44 GMT | How to Properly Secure Your Surveillance System Against Remote Hacking | Emma Thomas | [Read More](https://medium.com/p/7b5ce7d89255) |
-| Wed, 13 May 2026 16:19:33 GMT | 0. Defense in Depth | Mahyaddin Umarov | [Read More](https://medium.com/p/bdfddf4000ac) |
-| Wed, 13 May 2026 16:19:20 GMT | 14 Amazing Open Source Tools You Need To Try | Abhay Parashar | [Read More](https://medium.com/p/c0215246a106) |
-| Wed, 13 May 2026 16:15:38 GMT | There’s a side of athletics most people never see. | Dorsey | [Read More](https://medium.com/p/198884c19c45) |
-| Wed, 13 May 2026 16:09:59 GMT | Complete Guide to Ethical Hacking and Penetration Testing | Shehzad Parker | [Read More](https://medium.com/p/31a71e6d403f) |
-| Wed, 13 May 2026 16:01:01 GMT | Mapleton (LFI to RCE) WebVerse | 7s26Simon | [Read More](https://medium.com/p/f9d297d5a37e) |
-| Wed, 13 May 2026 15:55:06 GMT | AI Is Not as New as Most People Think. | Akrongalfred | [Read More](https://medium.com/p/8f7a65a5a232) |
-| Wed, 13 May 2026 15:53:04 GMT | Bugs Work When They Pile Up | Nanmoon | [Read More](https://medium.com/p/7065a54cdfec) |
-| Wed, 13 May 2026 15:52:06 GMT | OAuth2 vs JWT vs Session-Based Authentication: What Every Backend Developer Should Know | Rahul Soni | [Read More](https://medium.com/p/fc43b5e95db8) |
-| Wed, 13 May 2026 15:49:35 GMT | Hackers are not always the smartest people in the room. | Adeyi Mary Mayomikun | [Read More](https://medium.com/p/2266012faba7) |
-| Wed, 13 May 2026 15:45:51 GMT | Hardware, embedded code, and the seven things medical device makers can no longer ignore | Vito Rallo | [Read More](https://medium.com/p/0fad8103f5ef) |
-| Wed, 13 May 2026 15:37:52 GMT | Why Darknet Desires Is Trending in 2026 (Review & Risk Analysis) | onion links | [Read More](https://medium.com/p/4606f50a4768) |
-| Wed, 13 May 2026 15:28:40 GMT | THE CANVAS BREACH WAS ARCHITECTURE, NOT A HACK | Bryan Cruse | [Read More](https://medium.com/p/6a4b17bbd209) |
-| Wed, 13 May 2026 15:23:58 GMT | The Hidden Cost of Cutting Corners on Security | Lucas Barett | [Read More](https://medium.com/p/778945ebc940) |
-| Wed, 13 May 2026 15:18:01 GMT | The Bank Filed Every Report. It Monitored 8% of Its Transactions. | Marko Chalupa | [Read More](https://medium.com/p/4706b7cfb829) |
-| Wed, 13 May 2026 15:13:50 GMT | The Digital Dharma: Cyber Security & Hindu Philosophy | Shwet Shirbhayye | [Read More](https://medium.com/p/a1909c3bed96) |
