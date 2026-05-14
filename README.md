@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 May 2026 23:16:52 GMT | When AI Hacked the Unhackable: Is the “Macs Don’t Get Hacked” Myth Finally Dead? | Mahdi Reviews AI | [Read More](https://medium.com/p/96344f656c2c) |
+| Thu, 14 May 2026 23:05:09 GMT | I Opened Terminal on My Mac for the First Time. My Coworker Thought I Was Hacking the Pentagon. | Seema Sabir | [Read More](https://medium.com/p/92f1b446b740) |
+| Thu, 14 May 2026 23:04:08 GMT | Write Up — Soupedecode | Állan Rocha | [Read More](https://medium.com/p/00d3de22a72b) |
+| Thu, 14 May 2026 22:55:21 GMT | Twitter OSINT & Threat Intelligence: Toolkit for Ethical Hackers & Security Analysts | Richa | [Read More](https://medium.com/p/527016a11fa1) |
+| Thu, 14 May 2026 22:44:40 GMT | Your Encrypted Laptop Isn’t as Safe as You Think | Oleksii Medvedev | [Read More](https://medium.com/p/310ddfac55d9) |
+| Thu, 14 May 2026 22:44:22 GMT | TCP, Firewalls, Port Forwarding & VPNs — How Data Is Sent and Secured | Youssef Adebouz | [Read More](https://medium.com/p/49c24c63ae01) |
+| Thu, 14 May 2026 22:39:17 GMT | How I Turned a CVSS 10.0 Vulnerability into a Boardroom Business Case | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/bde33a523734) |
+| Thu, 14 May 2026 22:18:59 GMT | How I Found SSRF and CORS Misconfigurations in a Modern Web App | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/7ef44c3391d5) |
+| Thu, 14 May 2026 22:15:26 GMT | Agentic CVE Hunting — Part 1: How I Got My First CVEs | Joshua Alwin | [Read More](https://medium.com/p/b34f07957a1c) |
 | Thu, 14 May 2026 22:09:57 GMT | Unmasking the Insider Threat: A Practical Guide for Beginners with a Technical Edge | Rpp | [Read More](https://medium.com/p/afcf57f8e10d) |
 | Thu, 14 May 2026 22:03:57 GMT | Telnet: Still Not Dead, Still Full of Surprises | suicidal_teddy | [Read More](https://medium.com/p/a367eaa37154) |
 | Thu, 14 May 2026 22:01:01 GMT | PEN-210 and OSWP 2026 Review | 0x5ea3o1f | [Read More](https://medium.com/p/453ee387781d) |
@@ -106,12 +115,3 @@ and How Agentic AI… | Faheem Ahmed | [Read More](https://medium.com/p/4734cd10
 | Thu, 14 May 2026 15:55:59 GMT | Chaining Bugs: From Unauthenticated PII Disclosure to Mass Account Takeover in a Major E-Commerce… | Alareqi | [Read More](https://medium.com/p/819f88dbcfa0) |
 | Thu, 14 May 2026 15:55:27 GMT | Next.js Middleware Authentication Bypass Through Client-Controlled Internal Header | Cyb3rV0lt | [Read More](https://medium.com/p/eaba7e755259) |
 | Thu, 14 May 2026 15:51:08 GMT | How to install kali linux in VMware workstation | Uchiha Itachi | [Read More](https://medium.com/p/eb60d52d463f) |
-| Thu, 14 May 2026 15:44:46 GMT | BullyBox - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/685d30d9d4b6) |
-| Thu, 14 May 2026 15:38:47 GMT | NGINX Rift (CVE-2026-42945): The Bug That’s Been Hiding Since 2008 | Dhanuka Nanayakkara | [Read More](https://medium.com/p/3bae0eb672e2) |
-| Thu, 14 May 2026 15:33:27 GMT | TCM Blackpearl — Walkthrough | Olamideoyek | [Read More](https://medium.com/p/f0d0b12d3710) |
-| Thu, 14 May 2026 15:15:27 GMT | Business Continuity Is No Longer Optional — It’s Leadership | Frank Elsner | [Read More](https://medium.com/p/b33feaa51065) |
-| Thu, 14 May 2026 15:15:18 GMT | R.I.P. Password | Steve Anderson | [Read More](https://medium.com/p/4c9cfca2781d) |
-| Thu, 14 May 2026 15:11:20 GMT | The Work Was Being Discussed. But Was It Moving? | Federico Matavos | [Read More](https://medium.com/p/fb6bb06a73cd) |
-| Thu, 14 May 2026 15:11:00 GMT | The Infrastructure Treadmill. A Story of Poor Leadership. | Nuno Roberto | [Read More](https://medium.com/p/2a0abf0d895a) |
-| Thu, 14 May 2026 15:08:54 GMT | [Writeup] Chaining IDOR to Full Account Takeover (ATO) via Email Manipulation in a Passwordless… | Ziadabdo | [Read More](https://medium.com/p/9941ded6b796) |
-| Thu, 14 May 2026 15:07:34 GMT | The Most Dangerous Weapon in Modern Warfare Isn’t Nuclear | Ben Gar | [Read More](https://medium.com/p/c9fffba25b48) |
