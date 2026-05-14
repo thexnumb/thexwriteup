@@ -12,6 +12,44 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 May 2026 07:57:40 GMT | The Invisible Shield: Hardware-Level Memory Isolation and Ghost Memory Purging (GMP) | Kemalkarakaplan | [Read More](https://medium.com/p/b43910fda2e5) |
+| Thu, 14 May 2026 07:49:02 GMT | built an all-in-one free tools website where you can handle almost everything in one place | Altaf Khan | [Read More](https://medium.com/p/cfb6e06acb30) |
+| Thu, 14 May 2026 07:47:50 GMT | Struktur Data: Graph | Nabilla Paraswati | [Read More](https://medium.com/p/b38b6d15cb91) |
+| Thu, 14 May 2026 07:47:47 GMT | Why Modern Tech Buyers Need to Pay Attention to Silent Hardware Revisions | Rakeshrkp | [Read More](https://medium.com/p/279b5388f5ba) |
+| Thu, 14 May 2026 07:45:58 GMT | What Happens When an AI Hacker Finds Your Small Business Website in 2026 | Alpha Bytes | [Read More](https://medium.com/p/7d8d267582cd) |
+| Thu, 14 May 2026 07:45:51 GMT | XAlgorix - Open-Source AI Agent for Penetration Testing | Pentester Club | [Read More](https://medium.com/p/78238a32fde5) |
+| Thu, 14 May 2026 07:35:12 GMT | The Authorization Problem Nobody Is Solving Before Deploying AI Agents | Soumit Saha | [Read More](https://medium.com/p/8b2a5fbf9dd4) |
+| Thu, 14 May 2026 07:32:03 GMT | EternalBlue Explained: The SMB Vulnerability That Changed Cybersecurity Forever | vipin | [Read More](https://medium.com/p/802ede61a8a7) |
+| Thu, 14 May 2026 07:27:54 GMT | Palo Alto Networks and the Perimeter Problem: When the Firewall Becomes the Front Door | Travis Ray Caverhill | [Read More](https://medium.com/p/ff6ccd3f0184) |
+| Thu, 14 May 2026 07:24:11 GMT | The Hidden Risk in AI SaaS Integrations Nobody Is Auditing | Suny Choudhary | [Read More](https://medium.com/p/791a353921f1) |
+| Thu, 14 May 2026 07:19:50 GMT | SMB Pentesting Explained: Architecture, Enumeration, Attacks, and Real Bug Bounty Methodology | vipin | [Read More](https://medium.com/p/468a11108317) |
+| Thu, 14 May 2026 07:17:23 GMT | Anthropic MCP Security Concerns: What Enterprises Should Know | Robert Haas | [Read More](https://medium.com/p/eed251f51833) |
+| Thu, 14 May 2026 07:16:10 GMT | Wasabi Protocol $5.7M Loss Due to AWS Infrastructure Vulnerability | Alice Hsu | [Read More](https://medium.com/p/18d368ca575d) |
+| Thu, 14 May 2026 07:14:21 GMT | Building Trust in Tech: How White Cloak Technologies Delivers Reliable Software Solutions | White Cloak Technologies, Inc. | [Read More](https://medium.com/p/6e36e72c79db) |
+| Thu, 14 May 2026 07:05:05 GMT | Can a VPN Improve Online Gaming Security? | Ethan Carter | [Read More](https://medium.com/p/21438fe3fd4c) |
+| Thu, 14 May 2026 06:59:28 GMT | Top Best Home Security Cameras in India | secureye | [Read More](https://medium.com/p/5a37a9af8d05) |
+| Thu, 14 May 2026 06:55:34 GMT | SQL injection explained in simple words part 1 | HellBoy-zero | [Read More](https://medium.com/p/2e481feb672e) |
+| Thu, 14 May 2026 06:54:58 GMT | 【威脅情資】GhostLock 無加密、零寫入的新型態類勒索手法解析 | segalee | [Read More](https://medium.com/p/c6eab039e810) |
+| Thu, 14 May 2026 06:53:42 GMT | How I Accidentally Became the ‘Security Guy’ at Every Party | Vijay Kumar Gupta | [Read More](https://medium.com/p/c7a717b3e2bf) |
+| Thu, 14 May 2026 06:48:23 GMT | The Invisible Layer of Linux: 30 Environment Variables That Quietly Control Your System | pavani | [Read More](https://medium.com/p/75389993cbd9) |
+| Thu, 14 May 2026 06:45:38 GMT | Where Love is Greater than Fear | thepraptiverse | [Read More](https://medium.com/p/597153a90fc2) |
+| Thu, 14 May 2026 06:44:00 GMT | Elevate Your PHP App’s Security with infocyph/OTP — The Ultimate MFA Toolkit | A. B. M. Mahmudul Hasan | [Read More](https://medium.com/p/8b9090633c9c) |
+| Thu, 14 May 2026 06:36:27 GMT | Bug Bounty: Dijital Dünyanın Ödül Avcıları | Ziya Gokalp | [Read More](https://medium.com/p/8f7e5765eb58) |
+| Thu, 14 May 2026 06:36:18 GMT | Best Summer Training program in Cyber Security — 45 Days at Cyberyaan | Varun Papnai | [Read More](https://medium.com/p/1c28c1c80167) |
+| Thu, 14 May 2026 06:33:09 GMT | KARMA ATTACK | Yarmuhammadmangi | [Read More](https://medium.com/p/1a96039624d8) |
+| Thu, 14 May 2026 06:32:13 GMT | AgentShield: The Security Scanner That Audits Your AI Agent Configuration Before It Becomes an… | Dr. Fadi Shaar | [Read More](https://medium.com/p/f013e5571cc0) |
+| Thu, 14 May 2026 06:29:50 GMT | BTC Wallet Cracked After 11 Years? AI Finds Lost $400K Fortune | Koome Evanson | [Read More](https://medium.com/p/737431af62e2) |
+| Thu, 14 May 2026 06:08:04 GMT | Reverse Engineering Slither.io’s Network Protocol | user32 | [Read More](https://medium.com/p/bbc408485c45) |
+| Thu, 14 May 2026 05:59:42 GMT | Meet Argus: Local AI Vulnerability Scanner | Abhishek Amralkar | [Read More](https://medium.com/p/bed6ac579c55) |
+| Thu, 14 May 2026 05:53:21 GMT | OWASP Application Security Risk 10:2025 A06 Insecure Design | Tiago Silva | [Read More](https://medium.com/p/3e8185a6d67c) |
+| Thu, 14 May 2026 05:52:08 GMT | “What are your non-negotiable rules for dating someone?” | Sunday Jimenez | [Read More](https://medium.com/p/dcfecc3d9341) |
+| Thu, 14 May 2026 05:46:00 GMT | Guardrails Are Not Optional: Engineering Safety, Reliability and Control in LLM Agents | Sendoa Moronta | [Read More](https://medium.com/p/e1c7ccccf2b9) |
+| Thu, 14 May 2026 05:40:55 GMT | Hunting Hidden Endpoints with Wayback URL Fetcher | Mohit Kumar | [Read More](https://medium.com/p/19296aac000f) |
+| Thu, 14 May 2026 05:36:40 GMT | Dependency Confusion: When Developers Install Malware by Accident | Cybersphere Official | [Read More](https://medium.com/p/89a42bd5f5df) |
+| Thu, 14 May 2026 05:27:44 GMT | 8 Shift-Based Workforce HRMS Software in India for 24/7 Operations 2026 | Aditi Sharma | [Read More](https://medium.com/p/e88d86989e93) |
+| Thu, 14 May 2026 05:18:20 GMT | How to bypass eWPTX exam & How to Prepare for eWPTX | m0ro23 | [Read More](https://medium.com/p/1966adb159dc) |
+| Thu, 14 May 2026 05:15:56 GMT | GitHub 是什麼？程式碼的全球圖書館 | 思維舞步 MindSteps | [Read More](https://medium.com/p/914d7e8c243f) |
+| Thu, 14 May 2026 05:07:40 GMT | MCP: Your AI Analyst’s New Attack Surface | anotherik | [Read More](https://medium.com/p/52cd0d590b72) |
 | Thu, 14 May 2026 05:01:22 GMT | THE BOY WHO WANTED PEACE MORE THAN REVENGE | Aditya | [Read More](https://medium.com/p/d53c13dad8af) |
 | Thu, 14 May 2026 04:41:43 GMT | RiskwareSupplyChain: A Freemium Software Supply Chain Risk Intelligence Tool | grepStrength | [Read More](https://medium.com/p/f6990b811bc8) |
 | Thu, 14 May 2026 04:34:40 GMT | Did You Know Sarbajira Software? Everything You Need to Know About the Growing Technology Company | Sarbajira Software | [Read More](https://medium.com/p/fef59bc3197c) |
@@ -75,41 +113,3 @@ of the Other | Lux the Recursive Architect | [Read More](https://medium.com/p/6a
 | Wed, 13 May 2026 20:29:02 GMT | How to Detect Phishing in Text Strings Using AI in Node.js | Cloudmersive | [Read More](https://medium.com/p/5c4ebb0d5cde) |
 | Wed, 13 May 2026 20:24:38 GMT | Bir HTTP İsteği Gerçekten Nerede Biter? | Zeki Kayaalp | [Read More](https://medium.com/p/22dcb0c028d3) |
 | Wed, 13 May 2026 20:21:03 GMT | Concert Security Guard Services California - All Star Security Services (2026 Guide) | Matthew | [Read More](https://medium.com/p/f141ff4ab558) |
-| Wed, 13 May 2026 20:18:41 GMT | Scoring Cyber Maturity Across 50+ Business Units That Looked Nothing Alike | Rathsara R | [Read More](https://medium.com/p/879f2961467d) |
-| Wed, 13 May 2026 20:13:34 GMT | 60 Bastions, 0 SSH Keys, 1 Terraform Module: A Security-First Migration Story | Moliveira | [Read More](https://medium.com/p/664bc281ab11) |
-| Wed, 13 May 2026 20:09:08 GMT | Deepfakes et désinformation : la menace est là | Sarah | [Read More](https://medium.com/p/5e3c9719d606) |
-| Wed, 13 May 2026 20:00:01 GMT | The Loneliness Nobody Talks About | Geanina-Ligia Pârvan | [Read More](https://medium.com/p/e4e8871e117e) |
-| Wed, 13 May 2026 19:57:46 GMT | Access to members-only YouTube video content | Seqrity | [Read More](https://medium.com/p/6f5d951da209) |
-| Wed, 13 May 2026 19:54:09 GMT | The Power of “No”: How Quantum Impossibilities Enable Quantum Technologies | Pravir Malik | [Read More](https://medium.com/p/44257d65fb40) |
-| Wed, 13 May 2026 19:40:02 GMT | Zafiyeti Bulduk, Sıra İstismarında. | Este Eren | [Read More](https://medium.com/p/15d203a27dc6) |
-| Wed, 13 May 2026 19:38:06 GMT | Lets Defend LAB: SOC168 — Whoami Command Detected in Request Body | Darvensley Esperance | [Read More](https://medium.com/p/2058a0c41760) |
-| Wed, 13 May 2026 19:30:14 GMT | ZenPhoto - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/20ea54646f6e) |
-| Wed, 13 May 2026 19:11:01 GMT | Confused Deputy: El Riesgo Invisible en Sistemas con Privilegios Elevados | Michel Alan López | [Read More](https://medium.com/p/e6ac4429bf77) |
-| Wed, 13 May 2026 19:06:34 GMT | Swaad Anusaar Salting | Supriya Pashine | [Read More](https://medium.com/p/e644e07700e6) |
-| Wed, 13 May 2026 19:04:20 GMT | Get PQC Ready PDQ — Part 1 | Brett Crawley | [Read More](https://medium.com/p/55100c2e5d94) |
-| Wed, 13 May 2026 19:02:01 GMT | Why Data Mapping Stops Where Risk Begins | Forg3t Protocol - AI Unlearning | [Read More](https://medium.com/p/9bff5f026ba2) |
-| Wed, 13 May 2026 18:51:43 GMT | Not All Storms Happen in the Sky. | Starry Eyes✨ | [Read More](https://medium.com/p/c92755e6ff69) |
-| Wed, 13 May 2026 18:47:43 GMT | DVWA(SQL Injection) | BlueTeamMal | [Read More](https://medium.com/p/6809be517ce1) |
-| Wed, 13 May 2026 18:47:38 GMT | AI Can Find Security Holes. But Who Will Close Them? | Yuhi Shirai | [Read More](https://medium.com/p/18ca800e71cd) |
-| Wed, 13 May 2026 18:44:37 GMT | The Secret Bluetooth Beacon Chip Inside Your iPhone That Tracks You Even When It’s “Off” | Deepak Thakur | [Read More](https://medium.com/p/28a15fdde469) |
-| Wed, 13 May 2026 18:39:25 GMT | The Identity Grief No One Talks About | DIPR (deeper) thoughts. . . by dionna JOI pridGeon | [Read More](https://medium.com/p/2366fb7b3949) |
-| Wed, 13 May 2026 18:38:37 GMT | Sometimes I Wish You Were Just a Normal Person. | Hafsa Afzal | [Read More](https://medium.com/p/fa154beb820b) |
-| Wed, 13 May 2026 18:34:14 GMT | Lovable + Supabase Security Checkup | Filip Nikolic | [Read More](https://medium.com/p/827eb60f301c) |
-| Wed, 13 May 2026 18:31:59 GMT | The Rising Danger of Critical Infrastructure Cyberattacks in 2026 | Caleb DeBari | [Read More](https://medium.com/p/4544a5ac46ef) |
-| Wed, 13 May 2026 18:29:19 GMT | Why BrowserJet is the Ultimate Choice for Digital Marketers, Traders, and Ticket Pullers | emma james | [Read More](https://medium.com/p/6883c9c9bee7) |
-| Wed, 13 May 2026 18:27:54 GMT | When the Cloud Falls: A Network Risk Analysis of AWS US Data Centers | Samriddhi | [Read More](https://medium.com/p/8eff7e0cd0d3) |
-| Wed, 13 May 2026 18:25:05 GMT | The Black Blanket Trick: How to Bypass Ezviz Cameras at Night | suicidal_teddy | [Read More](https://medium.com/p/b1949de46c03) |
-| Wed, 13 May 2026 18:24:54 GMT | Windows Privilege Escalation, Modern Comprehensive Guide (Part I) | opr3vail | [Read More](https://medium.com/p/fd5a0126b3a0) |
-| Wed, 13 May 2026 18:23:58 GMT | TanStack Supply Chain Compromise: Analysis and Postmortem | SOCFortress | [Read More](https://medium.com/p/06756b17fe77) |
-| Wed, 13 May 2026 18:18:26 GMT | Encryptify: A Full-Stack Web Security with AI-Powered Password Analysis | Khadija Azam | [Read More](https://medium.com/p/3c8db3e3b3e6) |
-| Wed, 13 May 2026 18:11:51 GMT | Copilot : La fête est finie. 8 recommandations pour économiser des tokens ! | Alban Lorillard | [Read More](https://medium.com/p/218d29fda7c1) |
-| Wed, 13 May 2026 18:10:53 GMT | Building CipherVault: A Secure Encrypted File Storage Portal in Python | Dania Usman | [Read More](https://medium.com/p/32f77f03c05e) |
-| Wed, 13 May 2026 18:06:40 GMT | Support — HackTheBox Detailed Writeup | Beri Contraster | [Read More](https://medium.com/p/c56fde1769d2) |
-| Wed, 13 May 2026 18:03:58 GMT | Exposed Database Credentials via Directory Listing and Publicly Accessible Backup Archive | Hamza | [Read More](https://medium.com/p/4ecd0c131c4c) |
-| Wed, 13 May 2026 18:03:36 GMT | Protegendo Senhas de Datasources com Elytron Credential Store no JBoss EAP / WildFly | D@rio | [Read More](https://medium.com/p/18bd0f1e8ec1) |
-| Wed, 13 May 2026 17:44:51 GMT | I found 500 vulnerabilities in public apps using LLMs, now what? | Jeremie A <lp1> | [Read More](https://medium.com/p/e51272201af1) |
-| Wed, 13 May 2026 17:42:54 GMT | Data Privacy in the Age of AI | Prabuddha Ray | [Read More](https://medium.com/p/299d942febaf) |
-| Wed, 13 May 2026 17:36:31 GMT | The Vendor You Trusted May Already Be Your Biggest Security Risk | Tech Prescient | [Read More](https://medium.com/p/ce444717619f) |
-| Wed, 13 May 2026 17:33:12 GMT | Why Identity Failures Rarely Appear on Risk Registers | Andrew Cant, CITP FBCS | [Read More](https://medium.com/p/bc2399e0fc24) |
-| Wed, 13 May 2026 17:25:50 GMT | How We Built SecureBank; A Banking App That Hacks Itself | Zaid Haris | [Read More](https://medium.com/p/1abb6637da94) |
-| Wed, 13 May 2026 17:17:10 GMT | Elytron no JBoss EAP 8.1: a base moderna de segurança da plataforma | D@rio | [Read More](https://medium.com/p/60a58bafae14) |
