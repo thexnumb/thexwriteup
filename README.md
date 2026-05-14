@@ -12,6 +12,35 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 May 2026 12:51:09 GMT | Souveraineté capacitaire et gestion des risques tiers: l’impact du statut CNA d’Orange Cyberdefense… | Noctu@edu | [Read More](https://medium.com/p/05470e2563e9) |
+| Thu, 14 May 2026 12:51:07 GMT | How the 2025 “CWE Top 25 Most Dangerous Software Weaknesses” List was Built | CWE Program | [Read More](https://medium.com/p/40a4cc1adae5) |
+| Thu, 14 May 2026 12:42:41 GMT | GCC Cybersecurity in 2026: 8 Risks and How to Prevent Them | Dhashevijay | [Read More](https://medium.com/p/433a01717e34) |
+| Thu, 14 May 2026 12:42:36 GMT | The Rise of Agentic AI in Cybersecurity: Threat Modeling, Defensive Architecture, and Real-World… | Asante Babers | [Read More](https://medium.com/p/dbb99d2a311e) |
+| Thu, 14 May 2026 12:41:17 GMT | How Top SOCs and MSSPs Stop Phishing Attacks That Bypass Traditional Email Security | Inforsecpro | [Read More](https://medium.com/p/2488aef48b66) |
+| Thu, 14 May 2026 12:40:18 GMT | Full Disclosure: How Bugcrowd Marked a TEE Authentication Bypass as a Duplicate — Of a Finding They… | Levi | [Read More](https://medium.com/p/bb849a1d9d9d) |
+| Thu, 14 May 2026 12:38:44 GMT | Least Privilege: A Core Principle of Modern Cybersecurity | Mirrasul Ismayilov | [Read More](https://medium.com/p/5e12b56b3ea1) |
+| Thu, 14 May 2026 12:36:36 GMT | Agentic AI Is Here. Most Companies Have No Idea What That Means | Emma Thomas | [Read More](https://medium.com/p/8faf4b75bc41) |
+| Thu, 14 May 2026 12:36:33 GMT | CONCEPTS OF NETWORK SCANNING | Ajaysingh | [Read More](https://medium.com/p/0a8d1d918152) |
+| Thu, 14 May 2026 12:33:21 GMT | The Hidden World of “Dumps” in Carding | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/81f91376be80) |
+| Thu, 14 May 2026 12:31:19 GMT | Online Shopping Scams in 2026: How Fake E-Commerce Websites Trap Buyers | Tvmoffensobacklink | [Read More](https://medium.com/p/236f3ce3026f) |
+| Thu, 14 May 2026 12:30:52 GMT | How to Migrate SharePoint On-Premises to Microsoft 365 Step-by-Step | Adom Smith | [Read More](https://medium.com/p/83713ecbcc1b) |
+| Thu, 14 May 2026 12:30:20 GMT | AI Agents Are Not Users; Stop Authenticating Them Like They Are | Samvardhan Singh | [Read More](https://medium.com/p/a93ede6e2f0a) |
+| Thu, 14 May 2026 12:29:01 GMT | What Is EDR and Why Modern Companies Need It | Antonyrajvedamanickam | [Read More](https://medium.com/p/0d4b77a36096) |
+| Thu, 14 May 2026 12:15:47 GMT | General security standards for kubernetes | Nikhil Kumar | [Read More](https://medium.com/p/d9ee36b3ed25) |
+| Thu, 14 May 2026 12:10:46 GMT | Defense in Depth: Building Unbreakable Security in a Digital Age. | Mirrasul Ismayilov | [Read More](https://medium.com/p/31784a64c05e) |
+| Thu, 14 May 2026 12:08:22 GMT | Ethical Hacking Course with Certificate in Sangam Vihar | EINITIAL24 | [Read More](https://medium.com/p/e883d17906dc) |
+| Thu, 14 May 2026 12:06:22 GMT | Best Seller Review Platforms for Online Shopping Websites | mary william | [Read More](https://medium.com/p/9c47df496537) |
+| Thu, 14 May 2026 11:53:29 GMT | AWSome Pentesting: The Complete Cloud Security Assessment Guide | MTS-SECURITY | [Read More](https://medium.com/p/f4b1f05879dd) |
+| Thu, 14 May 2026 11:52:18 GMT | The Difference Between SIEM, EDR, XDR, and SOAR in 3minutes | Raymond Ebonine | [Read More](https://medium.com/p/e34b572a9388) |
+| Thu, 14 May 2026 11:48:14 GMT | Between trembling fingers | Santosh CK | [Read More](https://medium.com/p/6894d2551925) |
+| Thu, 14 May 2026 11:34:49 GMT | How Hackers Actually Earn Passive Income With Recon | Vipul Sonule | [Read More](https://medium.com/p/c77c2a74975f) |
+| Thu, 14 May 2026 11:26:25 GMT | The Oldest LLM Trick Still Works in 2026 — I Found It on Two Production AI Apps | LordofHeaven | [Read More](https://medium.com/p/855768ac83b6) |
+| Thu, 14 May 2026 11:23:05 GMT | IronCorp — DNS Zone Transfer → SSRF → Command Injection → SYSTEM - TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/5187b0987b2f) |
+| Thu, 14 May 2026 11:18:49 GMT | OAuth Token Exchange, Identity Delegation et AI Agents : pourquoi AWS AgentCore et Azure Foundry ne… | sylla diaguily | [Read More](https://medium.com/p/502cf4594231) |
+| Thu, 14 May 2026 11:17:37 GMT | 5 Poweful Benefits of AI Most People Don’t Talk About | Precious | [Read More](https://medium.com/p/6e14f5dd857e) |
+| Thu, 14 May 2026 11:10:49 GMT | How a 100 USDT Position Generated $3.9M in Volume and Left Bad Debt on the Protocol | Muhammad Abdullah | [Read More](https://medium.com/p/f70c55a01baa) |
+| Thu, 14 May 2026 11:01:00 GMT | Understanding CWE-89: Improper Neutralization of Special Elements used in an SQL Command (“SQL… | Walter Moar | [Read More](https://medium.com/p/a361a600760e) |
+| Thu, 14 May 2026 11:00:57 GMT | Fragnesia (CVE-2026–46300) — New Linux Kernel Vulnerability Grants Root Access | Rayenhafsawy | [Read More](https://medium.com/p/b7d1a74fb7e1) |
 | Thu, 14 May 2026 10:49:27 GMT | Fortinet & Palo Alto ile Multi-Vendor IPSec VPN Yapılandırması | Muhammed KESKİN | [Read More](https://medium.com/p/a39db0a36d62) |
 | Thu, 14 May 2026 10:46:28 GMT | UltraTech — TryhackMe Walkthrough(A live walkthrough) | Tubelight | [Read More](https://medium.com/p/be09226f4e94) |
 | Thu, 14 May 2026 10:46:14 GMT | The SLA Credit Scam: What 99.9% vs 99.99% Uptime Actually Means | iRexta | [Read More](https://medium.com/p/7e334cb808ce) |
@@ -83,32 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 May 2026 05:53:21 GMT | OWASP Application Security Risk 10:2025 A06 Insecure Design | Tiago Silva | [Read More](https://medium.com/p/3e8185a6d67c) |
 | Thu, 14 May 2026 05:52:08 GMT | “What are your non-negotiable rules for dating someone?” | Sunday Jimenez | [Read More](https://medium.com/p/dcfecc3d9341) |
 | Thu, 14 May 2026 05:46:00 GMT | Guardrails Are Not Optional: Engineering Safety, Reliability and Control in LLM Agents | Sendoa Moronta | [Read More](https://medium.com/p/e1c7ccccf2b9) |
-| Thu, 14 May 2026 05:40:55 GMT | Hunting Hidden Endpoints with Wayback URL Fetcher | Mohit Kumar | [Read More](https://medium.com/p/19296aac000f) |
-| Thu, 14 May 2026 05:36:40 GMT | Dependency Confusion: When Developers Install Malware by Accident | Cybersphere Official | [Read More](https://medium.com/p/89a42bd5f5df) |
-| Thu, 14 May 2026 05:27:44 GMT | 8 Shift-Based Workforce HRMS Software in India for 24/7 Operations 2026 | Aditi Sharma | [Read More](https://medium.com/p/e88d86989e93) |
-| Thu, 14 May 2026 05:18:20 GMT | How to bypass eWPTX exam & How to Prepare for eWPTX | m0ro23 | [Read More](https://medium.com/p/1966adb159dc) |
-| Thu, 14 May 2026 05:15:56 GMT | GitHub 是什麼？程式碼的全球圖書館 | 思維舞步 MindSteps | [Read More](https://medium.com/p/914d7e8c243f) |
-| Thu, 14 May 2026 05:07:40 GMT | MCP: Your AI Analyst’s New Attack Surface | anotherik | [Read More](https://medium.com/p/52cd0d590b72) |
-| Thu, 14 May 2026 05:01:22 GMT | THE BOY WHO WANTED PEACE MORE THAN REVENGE | Aditya | [Read More](https://medium.com/p/d53c13dad8af) |
-| Thu, 14 May 2026 04:41:43 GMT | RiskwareSupplyChain: A Freemium Software Supply Chain Risk Intelligence Tool | grepStrength | [Read More](https://medium.com/p/f6990b811bc8) |
-| Thu, 14 May 2026 04:34:40 GMT | Did You Know Sarbajira Software? Everything You Need to Know About the Growing Technology Company | Sarbajira Software | [Read More](https://medium.com/p/fef59bc3197c) |
-| Thu, 14 May 2026 04:16:32 GMT | CISSP As An Art Domain 1 is Live | Dave Krunal (Dave On Cyber) | [Read More](https://medium.com/p/28c9a5b5cda8) |
-| Thu, 14 May 2026 04:16:10 GMT | A Developer’s Guide to Surviving Package Registry and CI Supply Chain Breaches | Divyanshu Ranjan Srivastava | [Read More](https://medium.com/p/fd748106c21b) |
-| Thu, 14 May 2026 04:13:47 GMT | Something Is Being Built Quietly | Snooptsz | [Read More](https://medium.com/p/e653061cf833) |
-| Thu, 14 May 2026 04:05:28 GMT | Market Forecast: Cloud Security Gateway Software | Umangp | [Read More](https://medium.com/p/fa7b71682e64) |
-| Thu, 14 May 2026 03:58:09 GMT | 7 Retail Analytics Decisions That Impact Revenue Most | Kyanon Digital Blog | [Read More](https://medium.com/p/62090a1487f9) |
-| Thu, 14 May 2026 03:56:48 GMT | Enterprise Digital Commerce Transformation in Singapore | Kyanon Digital Blog | [Read More](https://medium.com/p/56e57df20e5f) |
-| Thu, 14 May 2026 03:46:03 GMT | Your AI Guardrails Are Not Security Controls. Here’s the Proof. | Andre Boyle | [Read More](https://medium.com/p/cc3ebde13577) |
-| Thu, 14 May 2026 03:43:56 GMT | Add Auth to Your Shopify Plus Storefront | Auth Thoughts Editors | [Read More](https://medium.com/p/07558728a4c7) |
-| Thu, 14 May 2026 03:23:43 GMT | Week 20 - The Week Hackers Used AI, and Proved Your Suppliers Are Your Weakest Link | Arian Cheng | [Read More](https://medium.com/p/7ca1b4d3cbfc) |
-| Thu, 14 May 2026 03:21:13 GMT | TryHackMe “VulnNet: Active” Writeup - Redis Misconfiguration to SYSTEM | matteo-iacovantuono | [Read More](https://medium.com/p/d92766f1ac38) |
-| Thu, 14 May 2026 03:15:16 GMT | Being an IT student, I don’t have much skill to show, and it is my final year, so yeah, it’s… | Hemantchilwal | [Read More](https://medium.com/p/ece3442d021b) |
-| Thu, 14 May 2026 03:02:51 GMT | Stop Leaking Secrets Into ChatGPT: Free Browser Extension for Safer AI Prompts | Aleksei Aleinikov | [Read More](https://medium.com/p/41cb8c837a09) |
-| Thu, 14 May 2026 02:56:39 GMT | No Password. No MFA Prompt. Just a Stolen Cookie: A Hands-On AiTM Phishing Walkthrough with Evilginx | Dion Alexander | [Read More](https://medium.com/p/1a01644db7d4) |
-| Thu, 14 May 2026 02:46:26 GMT | Why Your New MCP Server Just Failed the Enterprise Security Audit (And How to Fix It) | Leandro Calado | [Read More](https://medium.com/p/26d27b099190) |
-| Thu, 14 May 2026 02:21:00 GMT | Exploiting Samba RCE (CVE-2017–7494) - Hackviser Labs Walkthrough | Manohar T H | [Read More](https://medium.com/p/0f009a47b1a8) |
-| Thu, 14 May 2026 02:13:34 GMT | Objective Minds, Subjective Kids: Re-Engineering Parenthood When Logic is Your Primary Language | Rob D | [Read More](https://medium.com/p/b7767016fbbb) |
-| Thu, 14 May 2026 01:58:07 GMT | Exploiting LLM APIs with Excessive Agency - PortSwigger | Kate D Terracore | [Read More](https://medium.com/p/9b2bb3010732) |
-| Thu, 14 May 2026 01:35:44 GMT | Visibility and Control: THREATRADAR’s Dashboards and data Retention | Salma El Fekih | [Read More](https://medium.com/p/b0cd4dea9238) |
-| Thu, 14 May 2026 01:35:40 GMT | From Vercel Typosquatting to an Obfuscated macOS Malware Loader | Ashish Bogati | [Read More](https://medium.com/p/0949c7305a5a) |
-| Thu, 14 May 2026 01:15:16 GMT | Active — HTB Writeup | William Shively | [Read More](https://medium.com/p/ca13a3b92aa1) |
