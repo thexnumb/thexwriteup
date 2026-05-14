@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 May 2026 20:38:40 GMT | What Information uMobix Can Show from Snapchat? | Ahmad | [Read More](https://medium.com/p/377a8bff28ae) |
+| Thu, 14 May 2026 20:35:07 GMT | Remote Process Write Primitive via APC Routines | S12 - 0x12Dark Development | [Read More](https://medium.com/p/82c2598c6419) |
+| Thu, 14 May 2026 20:34:08 GMT | SOC Analyst İçin Sysmon Rehberi: Kurulum, Konfigürasyon ve İlk Event Analizi | Ahmet Badem | [Read More](https://medium.com/p/a8499d575c0c) |
+| Thu, 14 May 2026 20:30:15 GMT | BARADAI Ransomware: “Hayalet Yazılım”ı Parçalarına Ayırıyoruz | CASSANDRA | [Read More](https://medium.com/p/0c04bb008f73) |
+| Thu, 14 May 2026 20:23:08 GMT | BARADAI Ransomware: “Hayalet Yazılım”ı Parçalarına Ayırıyoruz | Deniz | [Read More](https://medium.com/p/25031f236c71) |
+| Thu, 14 May 2026 20:21:15 GMT | Bir Casino, Balık Tankı Yüzünden Soyuldu | canndalcii | [Read More](https://medium.com/p/86c5f046a5bf) |
+| Thu, 14 May 2026 20:01:29 GMT | Cisco Catalyst SD-WAN Controller Authentication Bypass Vulnerability — CVE-2026–20182 | Pornthep Kongkiattisak | [Read More](https://medium.com/p/e62a7065c1d3) |
+| Thu, 14 May 2026 19:58:45 GMT | The AI client security control plane | Morgan Wigge | [Read More](https://medium.com/p/dd193dedc636) |
+| Thu, 14 May 2026 19:57:52 GMT | Beyond the Digital Wall: Why Firewalls are Actually Border Security Systems | HackTheCyber | [Read More](https://medium.com/p/1d1f64baac4d) |
+| Thu, 14 May 2026 19:56:00 GMT | #44 — Top question I’m hearing in DevOps interviews: “How would you design a CI/CD pipeline that… | Arun Malve | [Read More](https://medium.com/p/040738179569) |
+| Thu, 14 May 2026 19:36:16 GMT | PowerShell for Penetration Testers | Mohamed Eid | [Read More](https://medium.com/p/6477bda5ddaf) |
+| Thu, 14 May 2026 19:35:22 GMT | Open Source Security Platform for IT Infrastructure: Centralizing Threat Detection, Logs and SSO | Antonio | [Read More](https://medium.com/p/c08d1b412f37) |
+| Thu, 14 May 2026 19:34:55 GMT | From Building Websites to Building Security: My Experience Creating Encryptify | Maleeha Aman | [Read More](https://medium.com/p/8f1f36d8be78) |
+| Thu, 14 May 2026 19:34:49 GMT | Why Mythos spells the end of Europe’s cybersecurity illusions | Enrique Dans | [Read More](https://medium.com/p/fecb1db0d97a) |
 | Thu, 14 May 2026 19:12:13 GMT | Create a Mass Assignment Lab With Me | ShadowForge | [Read More](https://medium.com/p/30bcc5d30b0f) |
 | Thu, 14 May 2026 19:12:01 GMT | Day 1: I Finally Started. Ethical Hacking, Linux, and a Terminal That Judged Me Silently. | Adarshraj | [Read More](https://medium.com/p/007c72ab468b) |
+| Thu, 14 May 2026 19:10:59 GMT | Building CryptoViz — An Interactive AES Encryption Visualizer | Muhammad Rajab | [Read More](https://medium.com/p/5e574ee4a140) |
 | Thu, 14 May 2026 19:04:27 GMT | I Connected Claude AI to My Kali Linux — Here’s the Exact Setup That Actually Works | Rafi Riswan | [Read More](https://medium.com/p/fca25714b263) |
 | Thu, 14 May 2026 18:38:10 GMT | TeraBox Downloader Telegram Bot Reddit (2026) Complete Guide to Trending Download Tools | Merriumkareem | [Read More](https://medium.com/p/35e2e2757a59) |
 | Thu, 14 May 2026 18:37:30 GMT | OpenAI’s Daybreak shows how the AI race is quietly turning into a cybersecurity war | Akash Pandey | [Read More](https://medium.com/p/b6bc11fc7b81) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 May 2026 14:46:00 GMT | [FORECAST] Iran Cyber Is Active. The Evidence Bar Is Harder. | Wes Young | [Read More](https://medium.com/p/d76a1dc411e0) |
 | Thu, 14 May 2026 14:36:35 GMT | Your LinkedIn Profile Is an Attack Surface | Travis Ray Caverhill | [Read More](https://medium.com/p/22921f3e9a69) |
 | Thu, 14 May 2026 14:35:36 GMT | Stop Reviewing Code Like It’s 2020: I Built a Multi-Agent AI Code Reviewer | Fatai Ayeloja | [Read More](https://medium.com/p/00966ca3f2e0) |
-| Thu, 14 May 2026 14:34:16 GMT | Cybersecurity Must Become Predictive | Scottcmcmahan | [Read More](https://medium.com/p/890b29560176) |
-| Thu, 14 May 2026 14:28:02 GMT | Remote Code Execution through DLL Hijacking | Ghost | [Read More](https://medium.com/p/3fa06d23c6a9) |
-| Thu, 14 May 2026 14:26:29 GMT | *$$$$ How I Turned a ‘Low Severity’ Reflected XSS into Full Admin Account Takeover | Ashar Mahmood | [Read More](https://medium.com/p/42ff5ab31230) |
-| Thu, 14 May 2026 14:24:01 GMT | Stop Memorizing Cheatsheets: The 0–100 Active Directory Playbook for CRTP | Abhramaitra | [Read More](https://medium.com/p/569f33a718b0) |
-| Thu, 14 May 2026 14:21:14 GMT | Here’s What Everyone Needs to Know About AI Cybersecurity | Story of Hina | [Read More](https://medium.com/p/a163f088a719) |
-| Thu, 14 May 2026 14:15:33 GMT | How Misconfigured S3 Buckets and IDOR Exposed Premium Books | 0xMo7areb | [Read More](https://medium.com/p/ff176ecdddb7) |
-| Thu, 14 May 2026 14:11:51 GMT | Hackers Don’t Need to Break In. The Door Is Already Open | Vamsikandukuru | [Read More](https://medium.com/p/9a0db2b27c38) |
-| Thu, 14 May 2026 14:01:01 GMT | How to Block Dangerous Terraform Deploys Automatically Using OPA (Policy-as-Code Guide) | AbdulRahman Mostafa | [Read More](https://medium.com/p/1647c2728510) |
-| Thu, 14 May 2026 13:59:48 GMT | Claude Used by Hackers Against A Mexican Water Utility | Dominick Salvatore | [Read More](https://medium.com/p/fb660997874f) |
-| Thu, 14 May 2026 13:51:00 GMT | The Production Cost Crisis Nobody Talks About Enough | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/df592455df6f) |
-| Thu, 14 May 2026 13:49:24 GMT | How Stripe and GitHub Secure Webhooks Without Sending Secrets | Rishika | [Read More](https://medium.com/p/011482488fd3) |
-| Thu, 14 May 2026 13:22:52 GMT | How Hackers Are Weaponizing JPEGs to Hijack Your PC | Learn With Hatty | [Read More](https://medium.com/p/88ee50003bcb) |
-| Thu, 14 May 2026 13:20:05 GMT | Strategic Cost Optimisation in the AI Era: Why CIOs Must Rethink Technology Investments | ONE ECM | [Read More](https://medium.com/p/a1b1632ea3e9) |
-| Thu, 14 May 2026 13:15:47 GMT | Going Legit: Backdooring a Career in Cybersecurity | Jarred White | [Read More](https://medium.com/p/577cb34f71d5) |
-| Thu, 14 May 2026 13:08:57 GMT | The Stranger Who Taught Me I Was Wrong | Leonard Tillerman | [Read More](https://medium.com/p/85bdb9bc8561) |
