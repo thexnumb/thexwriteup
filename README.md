@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 14 May 2026 22:09:57 GMT | Unmasking the Insider Threat: A Practical Guide for Beginners with a Technical Edge | Rpp | [Read More](https://medium.com/p/afcf57f8e10d) |
+| Thu, 14 May 2026 22:03:57 GMT | Telnet: Still Not Dead, Still Full of Surprises | suicidal_teddy | [Read More](https://medium.com/p/a367eaa37154) |
+| Thu, 14 May 2026 22:01:01 GMT | PEN-210 and OSWP 2026 Review | 0x5ea3o1f | [Read More](https://medium.com/p/453ee387781d) |
+| Thu, 14 May 2026 21:46:14 GMT | How I Started Falling in Love With Tech | Goldalashi | [Read More](https://medium.com/p/f77e0ea661c0) |
+| Thu, 14 May 2026 21:45:06 GMT | Building a Global Community Around Insider Threat Defense | Vishal Thakur | [Read More](https://medium.com/p/eb61d006a6d5) |
+| Thu, 14 May 2026 21:42:52 GMT | How I Made an AI Agent Write Its Own Backdoor (and execute it) | RkVb | [Read More](https://medium.com/p/45c423ff49ef) |
+| Thu, 14 May 2026 21:41:00 GMT | OSCP Dailies: THM — Roasted — Day 2 | MichaelLearns_ | [Read More](https://medium.com/p/8a0b83ce7f3b) |
+| Thu, 14 May 2026 21:31:00 GMT | The Claude Mythos: When AI Learns to Think Beyond the Box | Lalit Tech Savvy | [Read More](https://medium.com/p/20e32a40ddf9) |
+| Thu, 14 May 2026 21:27:57 GMT | The Death Of Vulnerability | R. | [Read More](https://medium.com/p/bab226dc6303) |
+| Thu, 14 May 2026 21:16:17 GMT | How the Internet Actually Works: DNS, HTTP, and Everything In Between | REXSY | [Read More](https://medium.com/p/15fe8865e678) |
+| Thu, 14 May 2026 21:15:19 GMT | Building a Production-Grade URL Shortener: A Senior DevOps Engineer’s Playbook | Habeebbabasulaiman | [Read More](https://medium.com/p/8883f69d0ec4) |
+| Thu, 14 May 2026 21:13:33 GMT | Savunmayı Yapay Zeka Yapsın mı? | Este Eren | [Read More](https://medium.com/p/16fa0f020678) |
+| Thu, 14 May 2026 21:09:04 GMT | Red Teaming vs. IT Auditing: Offense vs. Compliance | Adebukola | [Read More](https://medium.com/p/f49f1e9146dd) |
+| Thu, 14 May 2026 21:01:22 GMT | Why Your Firewall Will Not Save You | Omer Akin | [Read More](https://medium.com/p/6793b9253eba) |
+| Thu, 14 May 2026 20:58:27 GMT | The $1.6 Trillion Silence:
+Why Gulf Construction
+Has an Information Crisis — 
+and How Agentic AI… | Faheem Ahmed | [Read More](https://medium.com/p/4734cd10e444) |
+| Thu, 14 May 2026 20:55:38 GMT | Wordfence Intelligence Weekly WordPress Vulnerability Report (May 4, 2026 to May 10, 2026) | Wordfence | [Read More](https://medium.com/p/898cb5ad8f40) |
+| Thu, 14 May 2026 20:46:04 GMT | Sensitive Information Disclosure via WordPress REST API — Emails Exposed as Usernames | Hamza | [Read More](https://medium.com/p/704fee9ba5e9) |
+| Thu, 14 May 2026 20:45:56 GMT | Why Virus Protection Alone Is Rarely Enough — and Why Knowledge Is the Key | Cordula Boeck | [Read More](https://medium.com/p/051b60a2fa05) |
 | Thu, 14 May 2026 20:38:40 GMT | What Information uMobix Can Show from Snapchat? | Ahmad | [Read More](https://medium.com/p/377a8bff28ae) |
 | Thu, 14 May 2026 20:35:07 GMT | Remote Process Write Primitive via APC Routines | S12 - 0x12Dark Development | [Read More](https://medium.com/p/82c2598c6419) |
 | Thu, 14 May 2026 20:34:08 GMT | SOC Analyst İçin Sysmon Rehberi: Kurulum, Konfigürasyon ve İlk Event Analizi | Ahmet Badem | [Read More](https://medium.com/p/a8499d575c0c) |
@@ -94,21 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 14 May 2026 15:11:00 GMT | The Infrastructure Treadmill. A Story of Poor Leadership. | Nuno Roberto | [Read More](https://medium.com/p/2a0abf0d895a) |
 | Thu, 14 May 2026 15:08:54 GMT | [Writeup] Chaining IDOR to Full Account Takeover (ATO) via Email Manipulation in a Passwordless… | Ziadabdo | [Read More](https://medium.com/p/9941ded6b796) |
 | Thu, 14 May 2026 15:07:34 GMT | The Most Dangerous Weapon in Modern Warfare Isn’t Nuclear | Ben Gar | [Read More](https://medium.com/p/c9fffba25b48) |
-| Thu, 14 May 2026 15:06:48 GMT | Is AI Making You Worse at Your Job? | Husseinfagbenle | [Read More](https://medium.com/p/7e02c7211d68) |
-| Thu, 14 May 2026 15:06:18 GMT | When AI Becomes the Doctor, the Guardian, and the Threat: Reflections on Dario Amodei’s Machines of… | Pranav B. Pawar | [Read More](https://medium.com/p/206aaf5fb940) |
-| Thu, 14 May 2026 15:03:01 GMT | Güven Ağı (Web of Trust) | Gülşah Demiryürek | [Read More](https://medium.com/p/145326eb2432) |
-| Thu, 14 May 2026 15:02:28 GMT | LogHawk: Building a Lightweight Linux Security Monitoring Tool | Tammy Diprima | [Read More](https://medium.com/p/d143fce129ec) |
-| Thu, 14 May 2026 15:01:01 GMT | Sam Curry Turned a License Plate Into a Car Key | James Kuhman | [Read More](https://medium.com/p/b4d7a2e281d9) |
-| Thu, 14 May 2026 15:00:00 GMT | Metamorphosis 27/58: Book II ‘Bridge’— Prompt | Barrett Nash | [Read More](https://medium.com/p/d2a27abf2860) |
-| Thu, 14 May 2026 14:59:40 GMT | From a Risk-Based SOC to a Threat-Informed SOC | SIMKRA | [Read More](https://medium.com/p/c2a6b89901e9) |
-| Thu, 14 May 2026 14:59:18 GMT | Consensys Diligence and Pacific Meta Partner to Secure Japan’s Institutional Blockchain | Irene Basaglia | [Read More](https://medium.com/p/61857e01bfff) |
-| Thu, 14 May 2026 14:58:59 GMT | Inside ShinyHunters’ 2026 Extortion Wave: Leak Sites, SaaS Abuse, and the Double Canvas Breach | Aenosh Rajora | [Read More](https://medium.com/p/f2d9f584029b) |
-| Thu, 14 May 2026 14:54:50 GMT | How I Investigated a Suspicious Interview Assessment and Uncovered a Supply Chain Attack | Stanley Okonkwo | [Read More](https://medium.com/p/b55d3f7ca20c) |
-| Thu, 14 May 2026 14:53:48 GMT | Why Privacy Matters for USDT on Blockchain | D4U | [Read More](https://medium.com/p/54cca4244b80) |
-| Thu, 14 May 2026 14:53:28 GMT | Installing Claude Code in GitHub/Bitbucket for Automated Security Reviews Before Publishing | New2026 | [Read More](https://medium.com/p/88877242c91e) |
-| Thu, 14 May 2026 14:50:11 GMT | Implementando um cliente REST API moderno e leve | Ader Oliver | [Read More](https://medium.com/p/030ef1b21118) |
-| Thu, 14 May 2026 14:49:15 GMT | Why AI Security Matters More Than Ever | Aimoneyproofficial | [Read More](https://medium.com/p/82162d4ade5d) |
-| Thu, 14 May 2026 14:46:35 GMT | XSS Nedir ve Neden Hâlâ Tehlikeli? - Bir Siber Güvenlik Öğrencisinin Notları | Yusufbarut | [Read More](https://medium.com/p/0c9a89b3ad14) |
-| Thu, 14 May 2026 14:46:00 GMT | [FORECAST] Iran Cyber Is Active. The Evidence Bar Is Harder. | Wes Young | [Read More](https://medium.com/p/d76a1dc411e0) |
-| Thu, 14 May 2026 14:36:35 GMT | Your LinkedIn Profile Is an Attack Surface | Travis Ray Caverhill | [Read More](https://medium.com/p/22921f3e9a69) |
-| Thu, 14 May 2026 14:35:36 GMT | Stop Reviewing Code Like It’s 2020: I Built a Multi-Agent AI Code Reviewer | Fatai Ayeloja | [Read More](https://medium.com/p/00966ca3f2e0) |
