@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 May 2026 23:23:22 GMT | [TryHackMe: Summit LAB] | Amir nader | [Read More](https://medium.com/p/73791e9d4447) |
+| Fri, 15 May 2026 23:01:08 GMT | AI coding assistants are building the same app 10 million times | Aditya Agarwal | [Read More](https://medium.com/p/2a79be2af306) |
+| Fri, 15 May 2026 22:51:53 GMT | The End of Human-Speed Cybersecurity | gabriel lawrence | [Read More](https://medium.com/p/c4510e9b1ab2) |
+| Fri, 15 May 2026 22:38:31 GMT | XSS Discovery: How Hackers Actually Find Cross-Site Scripting Vulnerabilities | Mert Baykal | [Read More](https://medium.com/p/48a2577ecf6e) |
+| Fri, 15 May 2026 22:31:00 GMT | When Telling an LLM What to Look At Means It Looks at Nothing Else: The System Prompt Is the Attack… | Ronlitvak | [Read More](https://medium.com/p/16dc4a008570) |
+| Fri, 15 May 2026 22:28:40 GMT | Jira Knows the Filename. It Has No Idea What Is Inside the File. | Nik Surmanidze | [Read More](https://medium.com/p/2056b11a0c39) |
+| Fri, 15 May 2026 22:24:50 GMT | The Compliance Trap: What Companies Miss When Using AI Code Generation Tools | Samriddhi | [Read More](https://medium.com/p/34ac10889af2) |
+| Fri, 15 May 2026 22:10:06 GMT | Security Hardening GitHub Workflows at Scale | Jordan Ritter | [Read More](https://medium.com/p/d291a33774e1) |
+| Fri, 15 May 2026 22:03:57 GMT | Five for Friday: May 15, 2026 | Sherpa Intelligence | [Read More](https://medium.com/p/962b665c97fd) |
 | Fri, 15 May 2026 21:44:05 GMT | XXE (XML External Entity) Injection | some guy | [Read More](https://medium.com/p/c0f87176bcb5) |
 | Fri, 15 May 2026 21:43:31 GMT | You Don’t Have a Security Problem — You Have a Visibility Problem | JSOC IT BLOG | [Read More](https://medium.com/p/6365afe0a36b) |
 | Fri, 15 May 2026 21:41:33 GMT | Trending Articles in IT Chronicles This Month | Susan Brearley | [Read More](https://medium.com/p/296cdfcc70d0) |
@@ -104,12 +113,3 @@ The Art of Never Trusting a Single Wall | Fidan Aslanova | [Read More](https://m
 | Fri, 15 May 2026 14:56:50 GMT | Cybersecurity News Review — Week 20 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/73ec46b0241b) |
 | Fri, 15 May 2026 14:55:17 GMT | A Confusing Website Makes a Good Business Look Hard to Work With | Ben Treder | [Read More](https://medium.com/p/17415e6b1254) |
 | Fri, 15 May 2026 14:47:48 GMT | I Used to Ignore “Boring” Vulnerabilities… Until One Paid More Than a Critical | Arfa | [Read More](https://medium.com/p/95b095bcbec2) |
-| Fri, 15 May 2026 14:47:17 GMT | Laporan Praktikum Struktur Data : Graph | Cahyoadi | [Read More](https://medium.com/p/72f434f4abc3) |
-| Fri, 15 May 2026 14:44:58 GMT | Dentro de los proveedores de Internet: acerca de MPLS y L3VPN | Tomás Hadi Acosta Aguilera | [Read More](https://medium.com/p/47b4fe3b4633) |
-| Fri, 15 May 2026 14:43:43 GMT | Microsoft Just Beat Anthropic’s Most Hyped Mythos, With 100 Smaller Ones | Vishal Rajput | [Read More](https://medium.com/p/4edc5a4c804b) |
-| Fri, 15 May 2026 14:37:40 GMT | I Built My Own Config Format for Node.js That Separates Server and Client Secrets | Kanishq09 | [Read More](https://medium.com/p/613943b819f0) |
-| Fri, 15 May 2026 14:29:03 GMT | The MCP package looked clean. The installed tree did not. | Oleg Grishanovich | [Read More](https://medium.com/p/1ce388a1044a) |
-| Fri, 15 May 2026 14:28:46 GMT | Why Most IT Problems Are Actually Coordination Problems | Din Tanovic | [Read More](https://medium.com/p/7204ce865736) |
-| Fri, 15 May 2026 14:25:50 GMT | The Invisible Pivot..How Beijing downgraded Iran from strategic ally to bargaining chip | Tameralhelaly Author | [Read More](https://medium.com/p/5bb78b9ea391) |
-| Fri, 15 May 2026 14:24:57 GMT | Introducing GreyNod Labs | GreyNod Labs | [Read More](https://medium.com/p/c3b539897d1d) |
-| Fri, 15 May 2026 14:22:32 GMT | Stop Playing Russian Roulette with Your TVL: Architecting a Zero-Trust EVM Airlock for Autonomous… | lokii | [Read More](https://medium.com/p/357c00679f4b) |
