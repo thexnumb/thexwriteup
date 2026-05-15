@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 May 2026 20:32:31 GMT | Tic-Tac-Toe | cece21xxx | [Read More](https://medium.com/p/ab8fb80f36c0) |
+| Fri, 15 May 2026 20:28:49 GMT | When your neighbor on the quantum cloud can tell you’re working | Berend Watchus | [Read More](https://medium.com/p/c1e3d32d5a9f) |
+| Fri, 15 May 2026 20:28:08 GMT | Bug Bounty in 2026 Isn’t About Hacking Harder It’s About Thinking in Systems | R.H Rizvi | [Read More](https://medium.com/p/63e3bb683478) |
+| Fri, 15 May 2026 20:26:00 GMT | Secrets Sprawl Is a Platform Tax | Practical IT | [Read More](https://medium.com/p/a2ffc207fd44) |
+| Fri, 15 May 2026 20:14:36 GMT | Beyond CVSS: What Good Policy Tuning Actually Looks Like in Cloud Security | Oluwakemi Oshunkeye | [Read More](https://medium.com/p/7b724fdf3ae0) |
+| Fri, 15 May 2026 20:14:21 GMT | Understanding CVE, CVSS, and CWE in Modern Cybersecurity | us3rgnv | [Read More](https://medium.com/p/a856ecd700e4) |
+| Fri, 15 May 2026 20:03:06 GMT | Developers Get Fired. Become a Plumber. | Pamela Hardy | [Read More](https://medium.com/p/3cd1605abd48) |
+| Fri, 15 May 2026 19:57:37 GMT | Defense in Depth: Why One Lock Is Never Enough | Rahima Hatamova | [Read More](https://medium.com/p/ca9df3f67703) |
+| Fri, 15 May 2026 19:50:37 GMT | Architecture Does Not Evolve. It Breaks. | Mohammed Brückner | [Read More](https://medium.com/p/7eba6a8fcb29) |
+| Fri, 15 May 2026 19:48:53 GMT | # The Layered Fortress: Why Defense in Depth is the Bedrock of Modern Cybersecurity | Cavadd | [Read More](https://medium.com/p/59ac4a5cc51f) |
+| Fri, 15 May 2026 19:43:53 GMT | The Groups Behind Modern Cybercrime | Internet Exposed | [Read More](https://medium.com/p/43830591ee76) |
+| Fri, 15 May 2026 19:35:11 GMT | Reverse Engineering a Windows CrackMe: Anti-Debugging, XOR Decoding, and Recovering the Password | Pratyush Mohanty | [Read More](https://medium.com/p/ffc7f948552c) |
+| Fri, 15 May 2026 19:33:29 GMT | Open Redirect: The underestimated vulnerability that turns your trusted relationships into traps | ATTER Koffi Kallern | [Read More](https://medium.com/p/215d70d69d42) |
+| Fri, 15 May 2026 19:33:22 GMT | The Governed Skill.md for Agentic AI | Valdez Ladd | [Read More](https://medium.com/p/913006a7966e) |
+| Fri, 15 May 2026 19:28:45 GMT | How Can Construction Security Guards in London Prevent Site Theft? | Dynamic security solution ltd | [Read More](https://medium.com/p/879e47135124) |
+| Fri, 15 May 2026 19:25:23 GMT | My ambitions. | Unnamedd | [Read More](https://medium.com/p/c43f62e875c5) |
+| Fri, 15 May 2026 19:23:39 GMT | How Industrial-Scale AI is Rewriting the Cyber Conflict Playbook | SOCFortress | [Read More](https://medium.com/p/7084a983869c) |
+| Fri, 15 May 2026 19:21:00 GMT | How a Single JavaScript File Bypassed a $1.5B Multi-Sig: Anatomy of the Bybit Hack | rdin777 | [Read More](https://medium.com/p/490653dbcb73) |
+| Fri, 15 May 2026 19:20:23 GMT | The Silent Exit: How to Safely Disengage from a Romance Scammer in 2026 | Michael Muinov | [Read More](https://medium.com/p/d2b8a3fa6a24) |
+| Fri, 15 May 2026 19:14:13 GMT | Claude Mythos: Why AI-Powered Vulnerability Discovery Changes the Game | ProdigyLand | [Read More](https://medium.com/p/68a913ec32d9) |
 | Fri, 15 May 2026 18:55:05 GMT | Hacking AI APIs: A Bug Bounty Hunter’s Complete Guide to LLM Vulnerabilities (2026) | BugHunter’s Journal | [Read More](https://medium.com/p/d01a34b40573) |
 | Fri, 15 May 2026 18:44:54 GMT | What the TanStack Supply Chain Attack Means for Engineering Teams and How I Checked Our Environment | Matt Majewski | [Read More](https://medium.com/p/0512a0418529) |
 | Fri, 15 May 2026 18:34:39 GMT | What I Learned About Windows Authentication Logs, Failed Logins, and SOC Analysis | Sanchitgupta | [Read More](https://medium.com/p/e033de1dd40d) |
@@ -34,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 May 2026 17:36:42 GMT | Hack Smarter: Martini | Ryan Yager | [Read More](https://medium.com/p/ede1f78136c9) |
 | Fri, 15 May 2026 17:32:25 GMT | When Billionaires Board Air Force One | Michael Derek Roberts | [Read More](https://medium.com/p/034dbcb68ea1) |
 | Fri, 15 May 2026 17:27:34 GMT | Mass Government Website Defacement Networks | Pradeep J. | [Read More](https://medium.com/p/feaed4d5e1da) |
+| Fri, 15 May 2026 17:21:27 GMT | Oversharing di Media Sosial: Kebiasaan Sepele yang Bisa Mengancam Keamanan Digital | Cybermoslemmuttaqin | [Read More](https://medium.com/p/28406649f879) |
 | Fri, 15 May 2026 17:18:48 GMT | TruthTrace: Securing Digital Evidence with Cryptography & Forensics | Zainab Noor | [Read More](https://medium.com/p/a4596fbd4ece) |
 | Fri, 15 May 2026 17:07:45 GMT | The Security Spending Shift | Farooq Ganai | [Read More](https://medium.com/p/16d1ff1a7602) |
 | Fri, 15 May 2026 17:05:39 GMT | A Pentester’s Journey to 2nd Place at DEF CON Azure IR Training | Tiger3080 | [Read More](https://medium.com/p/a350427b31cb) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 May 2026 13:32:59 GMT | I Mistyped a URL and a Hacker Set Up Camp in My Browser | Eileenhope | [Read More](https://medium.com/p/bcf748bc62e2) |
 | Fri, 15 May 2026 13:31:58 GMT | Mezz: A Wifi Sandbox for Your IoT Devices, in Two curl Commands | Temuri Takalandze | [Read More](https://medium.com/p/502834ab2122) |
 | Fri, 15 May 2026 13:31:09 GMT | 7 Cybersecurity Habits Every Senior Engineer Practices (But Never Talks About) | The Techie Indian | [Read More](https://medium.com/p/fc513e82ce51) |
-| Fri, 15 May 2026 13:31:00 GMT | $900 IDOR: Unauthorized Access to Form Attachments via Direct API | Abhi Sharma | [Read More](https://medium.com/p/2eb6fed81030) |
-| Fri, 15 May 2026 13:24:11 GMT | How cyrillic letters can be used for advanced phishing | Mika Schmidt | [Read More](https://medium.com/p/3e1d929bbeda) |
-| Fri, 15 May 2026 13:13:58 GMT | Stop Trusting Your LLM’s Markdown: Prompt Injection Is the New XSS | Rasel Hasan | [Read More](https://medium.com/p/ecfaa4481780) |
-| Fri, 15 May 2026 13:12:08 GMT | GCP IAM Is Simpler Than You Think — Until It Isn’t | Navanita Devi | [Read More](https://medium.com/p/3c5eb0e7cfca) |
-| Fri, 15 May 2026 13:10:12 GMT | My Experience with PIPA: Practical IoT Penetration Associate | omar ehab | [Read More](https://medium.com/p/59ddce380a5d) |
-| Fri, 15 May 2026 13:09:49 GMT | ⚡ Recon → Exploit Pipeline — How I Turn Raw Recon Into Real Findings | ghostyjoe | [Read More](https://medium.com/p/b416615bc4e6) |
-| Fri, 15 May 2026 12:48:09 GMT | When .. Costs You Everything: A Path Traversal in Gemini CLI's Skill Installer | Farhad Sajid Barbhuiya | [Read More](https://medium.com/p/eda5c9d81774) |
-| Fri, 15 May 2026 12:42:50 GMT | The Hidden Risk in Emergency Evacuation Plans Nobody Talks About | LogBook360 | [Read More](https://medium.com/p/343ec2d51373) |
-| Fri, 15 May 2026 12:42:34 GMT | 3 Key Takeaways on Why Cybersecurity Product Management Matters More Than Ever | Suzanne Alipourian-Frascogna | [Read More](https://medium.com/p/45b6a509596c) |
-| Fri, 15 May 2026 12:41:00 GMT | The AI Gold Rush Is Quietly Creating a Massive Burnout Crisis | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/93552d0babf8) |
-| Fri, 15 May 2026 12:37:51 GMT | I Watched an AI Hack a Home Network in Under 10 Minutes | Jazz Cyber Shield | [Read More](https://medium.com/p/4f5241020cd7) |
-| Fri, 15 May 2026 12:32:08 GMT | The Brutal Truth About Bug Bounty in India (My First $150 Story) | Aman Kumar (ak) | [Read More](https://medium.com/p/7bbdb974b71f) |
-| Fri, 15 May 2026 12:24:11 GMT | Restoring Digital Integrity: Protecting Your Business with Cylentric Systems | Cylentrix.systems | [Read More](https://medium.com/p/1fbae9f662f5) |
-| Fri, 15 May 2026 12:18:59 GMT | Cross-Account Switch Role Identity in AWS | Rakshith Jakkani | [Read More](https://medium.com/p/72cc149ae652) |
-| Fri, 15 May 2026 12:18:45 GMT | The Trojan PR: Achieving Code Execution in GitHub Actions via Pipeline Poisoning | Hacker MD | [Read More](https://medium.com/p/a3494bde3f70) |
-| Fri, 15 May 2026 12:17:33 GMT | AI Security: The Growing Cybersecurity Challenge in 2026 | Digital Defense | [Read More](https://medium.com/p/b39617655072) |
-| Fri, 15 May 2026 12:17:26 GMT | How Internal Application Paths Were Exposed Without Login | Shravanigolait | [Read More](https://medium.com/p/9035bd352c92) |
-| Fri, 15 May 2026 12:14:09 GMT | Penetration Testing Training Guide for Cyber Security Careers | Application Security Master | [Read More](https://medium.com/p/e362700e98d8) |
-| Fri, 15 May 2026 12:13:43 GMT | Shai-Hulud Worm Source Code Released: A New Wake-Up Call for Cyber Defenders | Jas | [Read More](https://medium.com/p/04bccfa246b7) |
-| Fri, 15 May 2026 12:06:15 GMT | Broken Access Control in SourceCodester Online Boat Reservation System 1.0 | Hemant Raj Bhati | [Read More](https://medium.com/p/4ed0380d2222) |
-| Fri, 15 May 2026 11:57:41 GMT | Server Clustering: A Smarter Way to Keep Applications Online | HostNOC | [Read More](https://medium.com/p/a439ab2f66dd) |
