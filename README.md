@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 May 2026 00:45:26 GMT | “What are deep questions that I can ask my boyfriend?” | Ronna Lou | [Read More](https://medium.com/p/d27e3374f757) |
+| Fri, 15 May 2026 00:40:57 GMT | Juneteenth: Unlawfully Arrested, Profiled, and Stripped of My Rights in Houston | Mr. Thurman Robinson, M.S., CFO | [Read More](https://medium.com/p/2984faf3b520) |
+| Fri, 15 May 2026 00:15:39 GMT | Understanding App Defense Alliance Certification for Product Security | Lamya A. | [Read More](https://medium.com/p/0577871f1601) |
+| Fri, 15 May 2026 00:13:00 GMT | An AI Deleted Everything and Confessed. The Real Problem Is What It Confessed To. | MohamedAbdelmenem | [Read More](https://medium.com/p/2e161c62ab06) |
+| Fri, 15 May 2026 00:08:42 GMT | AI Agents Are the New Insider Threat: Why Cybersecurity Must Change in 2026 | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/6e9cf888e275) |
+| Fri, 15 May 2026 00:03:01 GMT | Cassie Kozyrkov Called It ‘Boardroom to Bizarre’ I Forensically Decoded Every One of Anthropic’s 8… | The Forensic Archive | [Read More](https://medium.com/p/8b7374247a43) |
+| Thu, 14 May 2026 23:50:31 GMT | Setting up Cisco IOU L2 on GNS3: Image Import & License Fix | ADHAM AABIDI | [Read More](https://medium.com/p/e169d41a287c) |
+| Thu, 14 May 2026 23:47:11 GMT | The Bug Investigation Workflow That Changed How I Think About Debugging | Sonu Yadav | [Read More](https://medium.com/p/9ebda94be5fd) |
+| Thu, 14 May 2026 23:41:25 GMT | The npm Supply Chain Attack That Hit TanStack — And the 4-Step Fix That Protects You | Code Coup | [Read More](https://medium.com/p/8ed9f65977c9) |
 | Thu, 14 May 2026 23:16:52 GMT | When AI Hacked the Unhackable: Is the “Macs Don’t Get Hacked” Myth Finally Dead? | Mahdi Reviews AI | [Read More](https://medium.com/p/96344f656c2c) |
 | Thu, 14 May 2026 23:05:09 GMT | I Opened Terminal on My Mac for the First Time. My Coworker Thought I Was Hacking the Pentagon. | Seema Sabir | [Read More](https://medium.com/p/92f1b446b740) |
 | Thu, 14 May 2026 23:04:08 GMT | Write Up — Soupedecode | Állan Rocha | [Read More](https://medium.com/p/00d3de22a72b) |
@@ -106,12 +115,3 @@ and How Agentic AI… | Faheem Ahmed | [Read More](https://medium.com/p/4734cd10
 | Thu, 14 May 2026 16:51:43 GMT | Fragnesia — The next severe linux vulnerability following CopyFail | Mika Schmidt | [Read More](https://medium.com/p/41fd34f4e853) |
 | Thu, 14 May 2026 16:48:59 GMT | The Hidden Cost of Being the ‘Strong One’ in Your Friend Group | Naveena | [Read More](https://medium.com/p/8f821ca54ae6) |
 | Thu, 14 May 2026 16:40:13 GMT | “Unpatched known vulnerabilities are the open invitations for the attackers!”☠️ | cybern1nja8 | [Read More](https://medium.com/p/4dcb8c3c5e60) |
-| Thu, 14 May 2026 16:31:04 GMT | From Passwords to Zero Trust: Modern Authentication & Authorization Explained for Real Systems | Ankit Kumar Srivastava | [Read More](https://medium.com/p/68fcbc1c58ec) |
-| Thu, 14 May 2026 16:21:22 GMT | How a Simple Search Parameter Exposed a Potential XSS Vulnerability | Mu | [Read More](https://medium.com/p/90c9e6efdf68) |
-| Thu, 14 May 2026 16:18:48 GMT | Top CS2 Cheats in 2026: My Honest Opinion After Reading Mark Hertz’s Article | Aurelivoines | [Read More](https://medium.com/p/a08a0987dd1a) |
-| Thu, 14 May 2026 16:18:22 GMT | Zero Trust Is Just a Buzzword — Until Your Network Gets Breached | Norahaiden | [Read More](https://medium.com/p/67a7146adc5b) |
-| Thu, 14 May 2026 16:15:21 GMT | Prepping for the Vulnpocalypse | David Seidman | [Read More](https://medium.com/p/8e300353a9e3) |
-| Thu, 14 May 2026 16:14:11 GMT | Write Up — Basic Pentesting | Állan Rocha | [Read More](https://medium.com/p/d2b60d9baf59) |
-| Thu, 14 May 2026 15:55:59 GMT | Chaining Bugs: From Unauthenticated PII Disclosure to Mass Account Takeover in a Major E-Commerce… | Alareqi | [Read More](https://medium.com/p/819f88dbcfa0) |
-| Thu, 14 May 2026 15:55:27 GMT | Next.js Middleware Authentication Bypass Through Client-Controlled Internal Header | Cyb3rV0lt | [Read More](https://medium.com/p/eaba7e755259) |
-| Thu, 14 May 2026 15:51:08 GMT | How to install kali linux in VMware workstation | Uchiha Itachi | [Read More](https://medium.com/p/eb60d52d463f) |
