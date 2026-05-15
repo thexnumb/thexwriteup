@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 15 May 2026 21:44:05 GMT | XXE (XML External Entity) Injection | some guy | [Read More](https://medium.com/p/c0f87176bcb5) |
+| Fri, 15 May 2026 21:43:31 GMT | You Don’t Have a Security Problem — You Have a Visibility Problem | JSOC IT BLOG | [Read More](https://medium.com/p/6365afe0a36b) |
+| Fri, 15 May 2026 21:41:33 GMT | Trending Articles in IT Chronicles This Month | Susan Brearley | [Read More](https://medium.com/p/296cdfcc70d0) |
+| Fri, 15 May 2026 21:38:28 GMT | Why Developers Bypass Your Security Guardrails — And Why It’s Not Their Fault | Oluwakemi Oshunkeye | [Read More](https://medium.com/p/f437ab1d98b1) |
+| Fri, 15 May 2026 21:27:50 GMT | Microsoft Sentinel: Introduction | Dev Genj | [Read More](https://medium.com/p/122a518b9680) |
+| Fri, 15 May 2026 21:09:28 GMT | Control the Information — Control the People | Corina Pantea | [Read More](https://medium.com/p/aa4884b736c5) |
+| Fri, 15 May 2026 20:48:48 GMT | Russia’s Secret Hacker University Is More Real Than Most People Think | george kassab | [Read More](https://medium.com/p/040822c19490) |
+| Fri, 15 May 2026 20:47:21 GMT | Security is not a cost center. It’s a revenue engine. Here’s the proof. | Rafat Yazdani | [Read More](https://medium.com/p/fcd524e37b60) |
+| Fri, 15 May 2026 20:45:19 GMT | TeraBox Downloader Extension (2026) Complete Guide for Faster Cloud Downloads | Merriumkareem | [Read More](https://medium.com/p/bc8a5c9bf498) |
+| Fri, 15 May 2026 20:43:51 GMT | The Cosmic Exception: When the Universe Divides by Zero | Utkuhanakar | [Read More](https://medium.com/p/756318219caa) |
+| Fri, 15 May 2026 20:41:03 GMT | Defense in Depth:
+The Art of Never Trusting a Single Wall | Fidan Aslanova | [Read More](https://medium.com/p/921ccbed3185) |
+| Fri, 15 May 2026 20:39:18 GMT | Year of the Fox — TryHackMe Walkthrough | Wildan Aditya | [Read More](https://medium.com/p/6375667cd1ee) |
 | Fri, 15 May 2026 20:32:31 GMT | Tic-Tac-Toe | cece21xxx | [Read More](https://medium.com/p/ab8fb80f36c0) |
 | Fri, 15 May 2026 20:28:49 GMT | When your neighbor on the quantum cloud can tell you’re working | Berend Watchus | [Read More](https://medium.com/p/c1e3d32d5a9f) |
 | Fri, 15 May 2026 20:28:08 GMT | Bug Bounty in 2026 Isn’t About Hacking Harder It’s About Thinking in Systems | R.H Rizvi | [Read More](https://medium.com/p/63e3bb683478) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 May 2026 14:25:50 GMT | The Invisible Pivot..How Beijing downgraded Iran from strategic ally to bargaining chip | Tameralhelaly Author | [Read More](https://medium.com/p/5bb78b9ea391) |
 | Fri, 15 May 2026 14:24:57 GMT | Introducing GreyNod Labs | GreyNod Labs | [Read More](https://medium.com/p/c3b539897d1d) |
 | Fri, 15 May 2026 14:22:32 GMT | Stop Playing Russian Roulette with Your TVL: Architecting a Zero-Trust EVM Airlock for Autonomous… | lokii | [Read More](https://medium.com/p/357c00679f4b) |
-| Fri, 15 May 2026 14:15:45 GMT | Kerberoasting Attack — Simple Overview & Practical Walkthrough | Basithmohammedali | [Read More](https://medium.com/p/c1b16dc12d16) |
-| Fri, 15 May 2026 14:15:06 GMT | Why Professional Security Guards in Doha and Qatar Are Prepared Before the Shift Starts | Trust Force Security and Guarding  Doha Qatar | [Read More](https://medium.com/p/25e5925cbcd5) |
-| Fri, 15 May 2026 14:14:48 GMT | 2026 Will Be the Year of AI Agents, Not Chatbots | Lisa Murphy | [Read More](https://medium.com/p/3816862a3de2) |
-| Fri, 15 May 2026 14:01:00 GMT | Blue Team Labs Online — Phishing Analysis | Zeliha Zengin | [Read More](https://medium.com/p/2dff1c2c5182) |
-| Fri, 15 May 2026 13:53:32 GMT | Why “We Passed VAPT” Doesn’t Mean You’re Secure | Novashield | [Read More](https://medium.com/p/e037ca4b26eb) |
-| Fri, 15 May 2026 13:52:22 GMT | How to Connect Burp Suite to Claude AI on Mac Using MCP | Pramod | [Read More](https://medium.com/p/30f250e3969f) |
-| Fri, 15 May 2026 13:46:06 GMT | Fake Drugs Online: Why Counterfeit Pharmaceuticals Are Growing | Tor BBB | [Read More](https://medium.com/p/2415cc2d9e80) |
-| Fri, 15 May 2026 13:38:01 GMT | Identity-Based Attacks and Incident Response: What Security Teams Must Know | NetWitness | [Read More](https://medium.com/p/f037c064ea17) |
-| Fri, 15 May 2026 13:34:32 GMT | Why Most Test Cases Don’t Catch Real Bugs | thatqagirl | [Read More](https://medium.com/p/f93ce6d361b0) |
-| Fri, 15 May 2026 13:32:59 GMT | I Mistyped a URL and a Hacker Set Up Camp in My Browser | Eileenhope | [Read More](https://medium.com/p/bcf748bc62e2) |
-| Fri, 15 May 2026 13:31:58 GMT | Mezz: A Wifi Sandbox for Your IoT Devices, in Two curl Commands | Temuri Takalandze | [Read More](https://medium.com/p/502834ab2122) |
-| Fri, 15 May 2026 13:31:09 GMT | 7 Cybersecurity Habits Every Senior Engineer Practices (But Never Talks About) | The Techie Indian | [Read More](https://medium.com/p/fc513e82ce51) |
