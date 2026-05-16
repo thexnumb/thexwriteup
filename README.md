@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 May 2026 15:58:20 GMT | Why Microsoft Won’t Remove “Do Not Require Kerberos Pre-authentication” | Gaurang Jethva | [Read More](https://medium.com/p/0fcbf9dc1c8e) |
+| Sat, 16 May 2026 15:53:35 GMT | Zero Trust Is Not a Product — It Is an Architecture | Suvankar Chakraborty | [Read More](https://medium.com/p/638dbca79424) |
+| Sat, 16 May 2026 15:46:32 GMT | The Crucial Role of Salt in Password Hashing | Hasan Al Mamun | [Read More](https://medium.com/p/23d9168bc3c3) |
+| Sat, 16 May 2026 15:38:55 GMT | Frida Deep Dive: Hook, Bypass & Patch Android Apps at Runtime (2025) | Akifkhan | [Read More](https://medium.com/p/00224916ac46) |
+| Sat, 16 May 2026 15:27:32 GMT | The Hidden Risk of Public Charging: Understanding Juice Jacking | The Emotional  (⁠•⁠‿⁠•⁠) | [Read More](https://medium.com/p/13d1230efe5f) |
+| Sat, 16 May 2026 15:24:43 GMT | AI security is about to become one of the most valuable skills in tech. | Brijesh Dubey | [Read More](https://medium.com/p/e19bf524a7a7) |
+| Sat, 16 May 2026 15:21:27 GMT | Vulnerability Assessment with Nessus: What I Found, Fixed, and Learnt | Damilola Kolade | [Read More](https://medium.com/p/967d3ed203b9) |
+| Sat, 16 May 2026 15:20:16 GMT | Most Cybersecurity Jobs Are Already Losing the AI Battle — Are You on the Wrong Side? | Akhil Sharma | [Read More](https://medium.com/p/95ac4b8794f4) |
+| Sat, 16 May 2026 15:18:52 GMT | Gemini Spark Just Leaked and It Looks Far More Agentic Than Chat | Mehmet Özel | [Read More](https://medium.com/p/60efd4886a89) |
+| Sat, 16 May 2026 15:16:30 GMT | The Engineer at Your Desk Isn’t Your Employee Anymore | Abhishek | [Read More](https://medium.com/p/604e4779efc4) |
+| Sat, 16 May 2026 15:16:08 GMT | Splunk SIEM Deployment: Step-by-Step Guide to Forwarding Windows 10 Logs to an Ubuntu Server | Fethi Ocalan | [Read More](https://medium.com/p/d03ff2e1cfcf) |
+| Sat, 16 May 2026 15:15:30 GMT | The Feeling of “Of Course” | seaphylla | [Read More](https://medium.com/p/386f6310ee92) |
+| Sat, 16 May 2026 15:12:45 GMT | Encryptify — Reinventing Password Security with AI-Powered Intelligence | Rameesha Sheraz | [Read More](https://medium.com/p/6503a6b32b89) |
+| Sat, 16 May 2026 14:39:46 GMT | Threat Modeling: The Security Review Your Team Is Probably Skipping | Shalki Wenushika | [Read More](https://medium.com/p/e18c2d3aeba1) |
+| Sat, 16 May 2026 14:39:06 GMT | Mr. Robot Hands-on: Command & Control, Persistence, Lateral Movement, and Data Exfiltration | Allen Ace | [Read More](https://medium.com/p/725b09a478d1) |
 | Sat, 16 May 2026 14:28:27 GMT | Free AI Pentesting Tools You Shouldn’t Miss | A.C.HARIHARAN | [Read More](https://medium.com/p/e46f0789f36f) |
 | Sat, 16 May 2026 14:22:54 GMT | TryHackMe - Intro to AD Breaching - WriteUp | Axoloth | [Read More](https://medium.com/p/c3283b3aa92b) |
 | Sat, 16 May 2026 14:13:12 GMT | How does subnetting impact IPv4 performance? | IPv4 Trade Hub | [Read More](https://medium.com/p/e0bb34a6a7b9) |
@@ -98,18 +113,3 @@ In today’s digital age, almost… | Salmayorita | [Read More](https://medium.c
 | Sat, 16 May 2026 08:38:41 GMT | TryHackMe Write-up:Corp Website(2026) | 0xOGH | [Read More](https://medium.com/p/f982155fe2f1) |
 | Sat, 16 May 2026 08:26:32 GMT | OWASP Application Security Risk 10:2025 A08 Software or Data Integrity Failures | Tiago Silva | [Read More](https://medium.com/p/00841301f143) |
 | Sat, 16 May 2026 08:21:42 GMT | Security Services Birmingham | Ptpsecurity | [Read More](https://medium.com/p/06dbb2980ea1) |
-| Sat, 16 May 2026 08:20:41 GMT | ITIL in Action: Ticket Types, Categories, and Status Explained for Better IT Support | official_santhoshkumar amirthalingam | [Read More](https://medium.com/p/99c758597167) |
-| Sat, 16 May 2026 08:13:57 GMT | Reflections on UI/UX Prototyping, Pitching Architecture, and Network Defense. | Nambalirwa Eleinah | [Read More](https://medium.com/p/e438fe2d535f) |
-| Sat, 16 May 2026 08:10:02 GMT | Login Sistemində Təhlükəsizlik: Auth Modulunda Görülən AppSec Tədbirlərinin bir hissəsi | Kanan Kazimov | [Read More](https://medium.com/p/8aabcc41b646) |
-| Sat, 16 May 2026 08:04:24 GMT | When Logic Fails: Moving from Traditional Security to AI/ML Threat Landscapes | Daksh Dhamija | [Read More](https://medium.com/p/32f5b8d8ffcb) |
-| Sat, 16 May 2026 07:52:10 GMT | Information disclosure on debug page | Mohammad Sunny Khan | [Read More](https://medium.com/p/371cb1ca890c) |
-| Sat, 16 May 2026 07:48:32 GMT | HTB Web Attacks — Skills Assessment Writeup | Hassan Elsayed | [Read More](https://medium.com/p/7d009a83582c) |
-| Sat, 16 May 2026 07:47:35 GMT | Best Wireless Camera for Home Security in India 2026 | secureye | [Read More](https://medium.com/p/811b864f6bcc) |
-| Sat, 16 May 2026 07:46:14 GMT | From School Failure to Ethical Hacker | Z B S | [Read More](https://medium.com/p/601193a8cf6d) |
-| Sat, 16 May 2026 07:37:40 GMT | Remote-Brokered Back Channel HITL: A Secretless Authorization Foundation for AI Agents | hiroki aizu | [Read More](https://medium.com/p/2e08b52f2319) |
-| Sat, 16 May 2026 07:35:49 GMT | Top Features to Look for in Security Safes Dubai | Buddyuae | [Read More](https://medium.com/p/849ab6b8ade1) |
-| Sat, 16 May 2026 07:32:41 GMT | The Cost of Quantum Resistance | Keir Finlow-Bates | [Read More](https://medium.com/p/48827bdd8757) |
-| Sat, 16 May 2026 07:26:47 GMT | Patching your home lab with Ansible | Inf0Junki3 | [Read More](https://medium.com/p/b4bdf5ddd3f0) |
-| Sat, 16 May 2026 07:20:01 GMT | How to Send Secret Messages Online Without Any Account or App — A Complete Guide | Roshani Gusain | [Read More](https://medium.com/p/8c4e22b74fec) |
-| Sat, 16 May 2026 07:19:35 GMT | Cash Transit Services: Secure Cash Management for Modern Businesses | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/1df2cf7a8575) |
-| Sat, 16 May 2026 07:12:55 GMT | Severity in CVE | Askerovsahil | [Read More](https://medium.com/p/ee9ac35bf172) |
