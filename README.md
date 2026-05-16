@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 May 2026 13:19:43 GMT | Demystifying Defense in Depth: Why One Firewall Is Never Enough | askeladd | [Read More](https://medium.com/p/213e37bd78a0) |
+| Sat, 16 May 2026 13:18:44 GMT | How CRYSTALS-Kyber Uses Noisy Math to Defeat Quantum Computers | ShreehariMenon | [Read More](https://medium.com/p/255a2cf1666e) |
+| Sat, 16 May 2026 13:14:10 GMT | Why Manual DeFi Is Breaking And Why Vaults Like Concrete Are Becoming Essential | Heysamforyou | [Read More](https://medium.com/p/5354822d2691) |
+| Sat, 16 May 2026 13:12:16 GMT | cyber kill chain | Nsbjamsia | [Read More](https://medium.com/p/71bc5071b884) |
+| Sat, 16 May 2026 13:10:00 GMT | The Bug That Almost Wasn’t: How a “Dead End” Led to 500+ Leaked Customer Records | Priyansh | [Read More](https://medium.com/p/18db26e53705) |
+| Sat, 16 May 2026 13:02:08 GMT | TryHackMe Walkthrough - Command Injection | SecIntellect | [Read More](https://medium.com/p/f2bab5aa4d1d) |
+| Sat, 16 May 2026 13:01:50 GMT | Bug Bounty Economics in Web3 | Zoe Braiterman | [Read More](https://medium.com/p/8d74a0ceab63) |
+| Sat, 16 May 2026 12:58:59 GMT | Why Concrete Vaults Matter: The Shift From Manual DeFi to Coordinated Onchain Capital | Thecryptoholic | [Read More](https://medium.com/p/9ac131c1e61c) |
+| Sat, 16 May 2026 12:55:07 GMT | The Power of Minimalism in Security: Implementing the Principle of Least Privilege | Umid Nagiyev | [Read More](https://medium.com/p/b43ad111eeea) |
+| Sat, 16 May 2026 12:53:22 GMT | The Ultimate Flagship Battle: Which One Fits Your Lifestyle? | Keepita - Mobile Data Backup | [Read More](https://medium.com/p/dd0531c4d6f0) |
+| Sat, 16 May 2026 12:49:01 GMT | Building the Digital Fortress: Why Defense in Depth is the Bedrock of Cybersecurity | Umid Nagiyev | [Read More](https://medium.com/p/3ea0d59226dd) |
+| Sat, 16 May 2026 12:48:01 GMT | comnetac.exe: Dissecting a Multi-Stage .NET Dropper Delivering njRAT 0.7d | Dark Jester | [Read More](https://medium.com/p/8310a40b46d3) |
+| Sat, 16 May 2026 12:46:33 GMT | PentestDiary: a small tool for keeping pentest notes and network map in one place | Filip Nikolic | [Read More](https://medium.com/p/c7235e9a3e58) |
+| Sat, 16 May 2026 12:39:08 GMT | Why Zero Trust Is Becoming Essential for Social Networks — And How AI‑Based Identity Verification… | Laurent Devraud | [Read More](https://medium.com/p/e111e4a49704) |
+| Sat, 16 May 2026 12:27:01 GMT | My Cybersecurity Journey Begins !! | SecIntellect | [Read More](https://medium.com/p/e2d9ce05cfa7) |
+| Sat, 16 May 2026 12:13:49 GMT | Why Phishing Is a Business Risk, Not Just a Fake Email | Asadbek | [Read More](https://medium.com/p/4d9869291502) |
+| Sat, 16 May 2026 12:08:07 GMT | AI Will Not Replace IT Jobs — But It Has Made Them Much Harder to Get | Aathif Mohammed | [Read More](https://medium.com/p/39b7028be818) |
+| Sat, 16 May 2026 12:07:23 GMT | Cybersecurity for Beginners: How to Stay Safe in the Digital World
+In today’s digital age, almost… | Salmayorita | [Read More](https://medium.com/p/26cab276c424) |
 | Sat, 16 May 2026 11:46:19 GMT | Best Reseller Hosting for Agencies (2026 Comparison Guide) | Janet Watson | [Read More](https://medium.com/p/4884492fcab3) |
 | Sat, 16 May 2026 11:44:00 GMT | SIEM vs. SOAR: Choosing the Right Security Automation for Your Organisation | Nguessie Fabiola | [Read More](https://medium.com/p/b82a03a78f70) |
 | Sat, 16 May 2026 11:42:52 GMT | Difference Between TCP and UDP: Which Protocol Is Faster and More Reliable? | Shalu | [Read More](https://medium.com/p/82ae4e98da5f) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 May 2026 05:55:18 GMT | 7 Contract Workforce HRMS Tools in India for Managing Temporary and Gig Employees 2026 | Aditi Sharma | [Read More](https://medium.com/p/bcc65d3eb37a) |
 | Sat, 16 May 2026 05:53:19 GMT | Fast K9 Security — Professional Security & K9 Protection Services in London | Fast k9 Security | [Read More](https://medium.com/p/9d1f918cc6ee) |
 | Sat, 16 May 2026 05:50:41 GMT | Anti-Virtualization Threat Actor Digital Forensic Investigation (HTB) Operation Blackout 2025… | Christopher Ryan | [Read More](https://medium.com/p/716e06dec292) |
-| Sat, 16 May 2026 05:48:57 GMT | Kioptrix — 2 | Philip James | [Read More](https://medium.com/p/598871b8364e) |
-| Sat, 16 May 2026 05:33:43 GMT | The Men Who Studied Talent Like Forbidden Literature | Otto Plane | [Read More](https://medium.com/p/c6b04c21c986) |
-| Sat, 16 May 2026 05:33:30 GMT | The Human Ledger: Stories from the Dark Web’s Economy of Desperation and Hope | Mohit | [Read More](https://medium.com/p/c5098d3123f6) |
-| Sat, 16 May 2026 05:32:28 GMT | Kioptrix — 1 | Philip James | [Read More](https://medium.com/p/7fb3e81e98e5) |
-| Sat, 16 May 2026 05:18:01 GMT | Why Businesses Need Certified Ethical Hackers in 2026 | Neonihal Com | [Read More](https://medium.com/p/4ee333125e41) |
-| Sat, 16 May 2026 05:17:27 GMT | I Found a Low-Severity Bug… Until I Looked Deeper | Fateyaly | [Read More](https://medium.com/p/6e3e97d11a90) |
-| Sat, 16 May 2026 05:01:37 GMT | AitM Attack | Yarmuhammadmangi | [Read More](https://medium.com/p/6c3774ad72b7) |
-| Sat, 16 May 2026 04:56:27 GMT | The “Stateless UDP” Lie: How Hackers Starve Your DNS Resolvers | JM00NJ | [Read More](https://medium.com/p/3b593704f23d) |
-| Sat, 16 May 2026 04:54:50 GMT | Finally, only memories remain — the loving work we did in the past with so much effort, the… | sithila waduge | [Read More](https://medium.com/p/3322e36531d3) |
-| Sat, 16 May 2026 04:50:31 GMT | My DEF CON 2026 Training Experience in Singapore | Aji | [Read More](https://medium.com/p/27df9b780894) |
-| Sat, 16 May 2026 04:45:04 GMT | The 65k Port Limit is a Lie: How Hackers Actually Starve Your TCP Stack | JM00NJ | [Read More](https://medium.com/p/8e2199b1e044) |
-| Sat, 16 May 2026 04:41:55 GMT | Why I Chose Medium for SQL & AI Writing | Zulqi Tech | [Read More](https://medium.com/p/8ef64cbd4fdf) |
-| Sat, 16 May 2026 04:39:25 GMT | Freelancing in HACKING: Earn Money with This Roadmap (Read Now) | Shahzaib | [Read More](https://medium.com/p/511549154dae) |
-| Sat, 16 May 2026 04:34:20 GMT | Learning Cybersecurity Through a Home Lab | Timothychaconjr | [Read More](https://medium.com/p/4c44a830b227) |
-| Sat, 16 May 2026 04:31:01 GMT | How Can a JPEG Hack Me? — The Hidden Danger Behind Weaponized Image Files | Cybersphere Official | [Read More](https://medium.com/p/0c634a42e4a1) |
-| Sat, 16 May 2026 04:22:22 GMT | Hunting a “Ghost” Process: How I Tracked Down a Linux Cryptominer That Disappeared Whenever I… | Rizqi Mulki | [Read More](https://medium.com/p/7aef228c19fa) |
-| Sat, 16 May 2026 04:19:03 GMT | KNOW MORE ABOUT KALI LINUX | Muhammed Irfan | [Read More](https://medium.com/p/7760ae8a8f4d) |
-| Sat, 16 May 2026 04:09:14 GMT | CVE-2026-44578 Next.js SSRF Vulnerability | Nisal Renuja Palliyaguru | [Read More](https://medium.com/p/21580e22168a) |
