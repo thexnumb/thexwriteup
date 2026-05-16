@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 May 2026 17:07:51 GMT | Cyber Heist Investigation - Bank CTF Breakdown | Pentester Club | [Read More](https://medium.com/p/27249fc6734e) |
+| Sat, 16 May 2026 17:05:01 GMT | Crack The Hash Level 2 — THM | Fadybasem - ( SilentN0va ) | [Read More](https://medium.com/p/66ad5611e265) |
+| Sat, 16 May 2026 17:02:09 GMT | Crack the hash — THM | Fadybasem - ( SilentN0va ) | [Read More](https://medium.com/p/590b65f12040) |
+| Sat, 16 May 2026 16:54:23 GMT | Broken Authentication: How Attackers Gain Unauthorized Access to Your Application. | Sana Jalil | [Read More](https://medium.com/p/88f7e72439db) |
+| Sat, 16 May 2026 16:51:52 GMT | The future of artificial intelligence is increasingly being determined by infrastructure — not just… | Neuralcoretech | [Read More](https://medium.com/p/ca5abc55f440) |
+| Sat, 16 May 2026 16:47:58 GMT | Least Privilege:
+Give Nothing Extra,
+Regret Nothing Later | Fidan Aslanova | [Read More](https://medium.com/p/b6fe8026ada1) |
+| Sat, 16 May 2026 16:47:52 GMT | Digging Up the Dead: Disk Forensics & Git Object Archaeology (PicoCTF Walkthrough) | SAFAL GAUTAM | [Read More](https://medium.com/p/465fcfdefd07) |
+| Sat, 16 May 2026 16:44:12 GMT | Топ-5 читов для Dota 2 в 2026 году: Моё мнение после статьи Марка Херца | Aurelivoines | [Read More](https://medium.com/p/b3b7df2dc674) |
+| Sat, 16 May 2026 16:41:19 GMT | AI Regulation Isn’t a Legal Problem. It’s an Organizational Design Problem. | Toby Rao | [Read More](https://medium.com/p/952e598e1042) |
+| Sat, 16 May 2026 16:36:41 GMT | Топ читов для CS2 в 2026 году: Моё честное мнение после статьи Марка Херца | Aurelivoines | [Read More](https://medium.com/p/406a8ff6ae1b) |
+| Sat, 16 May 2026 16:34:42 GMT | I am happy to share that I have successfully completed my Diploma in Cyber Security. | Shivam Shukla | [Read More](https://medium.com/p/d14f79c21f40) |
+| Sat, 16 May 2026 16:32:27 GMT | Build Your Future with Vidyexd | Vidyexd | [Read More](https://medium.com/p/79e08fcc09b2) |
+| Sat, 16 May 2026 16:29:42 GMT | Build Your Future with Vidyexd | Vidyexd | [Read More](https://medium.com/p/622f2b21a263) |
+| Sat, 16 May 2026 16:28:47 GMT | The npm Prepare Hook Ran Before the Developer Read a Single Line of Code. | Ilias Armenakis | [Read More](https://medium.com/p/0b239e8c4fff) |
+| Sat, 16 May 2026 16:11:38 GMT | What is Broken Authentication? API2:2023 Explained for Beginners | Abrar Bin Habib | [Read More](https://medium.com/p/0b8e6e7da6b3) |
+| Sat, 16 May 2026 16:05:33 GMT | Malware Through the Lens of Governance | Musa Yusuf Magoban | [Read More](https://medium.com/p/e8ea31d20b80) |
 | Sat, 16 May 2026 15:58:20 GMT | Why Microsoft Won’t Remove “Do Not Require Kerberos Pre-authentication” | Gaurang Jethva | [Read More](https://medium.com/p/0fcbf9dc1c8e) |
 | Sat, 16 May 2026 15:53:35 GMT | Zero Trust Is Not a Product — It Is an Architecture | Suvankar Chakraborty | [Read More](https://medium.com/p/638dbca79424) |
+| Sat, 16 May 2026 15:49:45 GMT | The Greatest Economic Opportunity of the 21st Century | Benjamin Echor | [Read More](https://medium.com/p/f0914cf7c5e2) |
 | Sat, 16 May 2026 15:46:32 GMT | The Crucial Role of Salt in Password Hashing | Hasan Al Mamun | [Read More](https://medium.com/p/23d9168bc3c3) |
 | Sat, 16 May 2026 15:38:55 GMT | Frida Deep Dive: Hook, Bypass & Patch Android Apps at Runtime (2025) | Akifkhan | [Read More](https://medium.com/p/00224916ac46) |
 | Sat, 16 May 2026 15:27:32 GMT | The Hidden Risk of Public Charging: Understanding Juice Jacking | The Emotional  (⁠•⁠‿⁠•⁠) | [Read More](https://medium.com/p/13d1230efe5f) |
@@ -96,20 +115,3 @@ In today’s digital age, almost… | Salmayorita | [Read More](https://medium.c
 | Sat, 16 May 2026 10:12:13 GMT | The Most Valuable Person in the AI Era Isn’t the Generalist. It’s the Specialist Who Got Curious. | Jaymar Lagrimas | [Read More](https://medium.com/p/f2ce850f856d) |
 | Sat, 16 May 2026 10:04:04 GMT | The Reach of the Proxies: Al-Saadi and the New Era of Global Terror | Golda Mizrahi | [Read More](https://medium.com/p/54bdd05c6fd6) |
 | Sat, 16 May 2026 10:04:04 GMT | Ethical Hacking Course in Calicut | Dotcomsubhan | [Read More](https://medium.com/p/4eb196b5c305) |
-| Sat, 16 May 2026 10:02:36 GMT | Enhancing Security Without Friction: A Guide to Adaptive Authentication with WSO2 | Zachary Stephen | [Read More](https://medium.com/p/c38fcd828340) |
-| Sat, 16 May 2026 09:55:59 GMT | Is Spatial Computing the Death of the Screen? | FactoPolicy - Tech Insights & Solutions | [Read More](https://medium.com/p/faba0de64655) |
-| Sat, 16 May 2026 09:53:26 GMT | The Ghost in the RAM: How “Copy Fail” Breaks Linux Container Isolation | Cyber Summaries | [Read More](https://medium.com/p/402cbd46318f) |
-| Sat, 16 May 2026 09:45:14 GMT | What Is OTR Chat and Why Should You Care in 2026 | VendlyPrivacyLabs | [Read More](https://medium.com/p/c54548876e64) |
-| Sat, 16 May 2026 09:36:57 GMT | OverTheWire Bandit Walkthrough — Level 4 → 5 - 30-Day Cybersecurity Learning Journey (Day 5) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/bbe0c9ef1d40) |
-| Sat, 16 May 2026 09:35:42 GMT | They Stole Your Bank Password Six Months Ago. You Just Don’t Know It Yet. | Theblackbucks | [Read More](https://medium.com/p/0ec416027241) |
-| Sat, 16 May 2026 09:35:21 GMT | The first successful ping in my Cyber Lab felt better than running an exploit. | Amjad Munir | [Read More](https://medium.com/p/e3c04b398b7d) |
-| Sat, 16 May 2026 09:30:05 GMT | Why Gaming Is More Than Just Entertainment | Brian Joshua Elimu | [Read More](https://medium.com/p/d90a66ae74f5) |
-| Sat, 16 May 2026 09:27:31 GMT | We Connected the World — But Lost Attention | Sam Writes Security | [Read More](https://medium.com/p/4e7e8ef9c621) |
-| Sat, 16 May 2026 09:15:10 GMT | The Man Who Helped Create AI… Then Started Ringing the Alarm Bells | Seema Tripathi | [Read More](https://medium.com/p/1b9cafc1da02) |
-| Sat, 16 May 2026 08:54:04 GMT | Helium Just Rescued My Browser Experience | Adam Fisher / fisher king (@therightstuff) | [Read More](https://medium.com/p/1bf0b1712670) |
-| Sat, 16 May 2026 08:53:12 GMT | WSO2 Identity Server: How Modern Apps Handle Login and Security | prinshiga chandran | [Read More](https://medium.com/p/abd9fed33b3f) |
-| Sat, 16 May 2026 08:53:09 GMT | Remote Work Ready: How to Set Up a Secure Business Network | easyIT - Managed IT Services Melbourne | [Read More](https://medium.com/p/bbef002da604) |
-| Sat, 16 May 2026 08:47:27 GMT | Canto 3: The Invisible Chain | Tino | [Read More](https://medium.com/p/ffe62e8726e3) |
-| Sat, 16 May 2026 08:38:41 GMT | TryHackMe Write-up:Corp Website(2026) | 0xOGH | [Read More](https://medium.com/p/f982155fe2f1) |
-| Sat, 16 May 2026 08:26:32 GMT | OWASP Application Security Risk 10:2025 A08 Software or Data Integrity Failures | Tiago Silva | [Read More](https://medium.com/p/00841301f143) |
-| Sat, 16 May 2026 08:21:42 GMT | Security Services Birmingham | Ptpsecurity | [Read More](https://medium.com/p/06dbb2980ea1) |
