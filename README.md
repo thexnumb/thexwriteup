@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 May 2026 23:21:33 GMT | From Theory to Practice: Why Cybersecurity Training Must Include Simulations | Hannah Adam | [Read More](https://medium.com/p/8cab24f37c3b) |
+| Sat, 16 May 2026 22:59:26 GMT | The Unexpected Gift of Caring | Habil Lokadjaja CACP, CFP | [Read More](https://medium.com/p/8f083dcbceeb) |
+| Sat, 16 May 2026 22:52:25 GMT | The Trojan Skill | Arsalan Pardesi | [Read More](https://medium.com/p/1e87ab6bc93f) |
+| Sat, 16 May 2026 22:48:35 GMT | Web Fuzzing | Mert Baykal | [Read More](https://medium.com/p/c86968b36377) |
+| Sat, 16 May 2026 22:46:08 GMT | Kakar Security Edition 2 | Wali Khan Kakar | [Read More](https://medium.com/p/d858d8a75522) |
+| Sat, 16 May 2026 22:41:17 GMT | Kakar Security Edition 1 | Wali Khan Kakar | [Read More](https://medium.com/p/08306c621cb8) |
+| Sat, 16 May 2026 22:41:09 GMT | Fast16 & Furious | setec astronomy | [Read More](https://medium.com/p/17ef30961ff8) |
+| Sat, 16 May 2026 22:40:31 GMT | FunboxEasyEnum - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/8c4ac72afc87) |
+| Sat, 16 May 2026 22:22:59 GMT | Cloud Networking 101: What It Is | Aryan Vij | [Read More](https://medium.com/p/d0c14ff0413b) |
+| Sat, 16 May 2026 22:21:04 GMT | Phishing — Cross-Site Scripting | Mert Baykal | [Read More](https://medium.com/p/4b62d6d7d730) |
+| Sat, 16 May 2026 22:20:10 GMT | The Malware Crew Quietly Stealing Browser Passwords in 2026 | Pop123 | [Read More](https://medium.com/p/6f825e325c64) |
 | Sat, 16 May 2026 22:09:18 GMT | Divurion Hackers Destroyed My Life in 90 Days | Marcus Patron | [Read More](https://medium.com/p/9b0ce885f840) |
 | Sat, 16 May 2026 22:09:12 GMT | STOP/Djvu Ransomware Analizi: Anti-Debugging Tuzaklarını Aşmak, Ağ Trafiğini İfşa Etmek ve… | Kerem Işık | [Read More](https://medium.com/p/cc6e8ac9f5f5) |
 | Sat, 16 May 2026 21:40:51 GMT | Defending Your Wallet Against AI-Powered Phishing Scams | ShielfForge - Web3 Wallet Security News | [Read More](https://medium.com/p/8cff27298acf) |
@@ -105,14 +116,3 @@ Regret Nothing Later | Fidan Aslanova | [Read More](https://medium.com/p/b6fe802
 | Sat, 16 May 2026 15:15:30 GMT | The Feeling of “Of Course” | seaphylla | [Read More](https://medium.com/p/386f6310ee92) |
 | Sat, 16 May 2026 15:12:45 GMT | Encryptify — Reinventing Password Security with AI-Powered Intelligence | Rameesha Sheraz | [Read More](https://medium.com/p/6503a6b32b89) |
 | Sat, 16 May 2026 14:39:46 GMT | Threat Modeling: The Security Review Your Team Is Probably Skipping | Shalki Wenushika | [Read More](https://medium.com/p/e18c2d3aeba1) |
-| Sat, 16 May 2026 14:39:06 GMT | Mr. Robot Hands-on: Command & Control, Persistence, Lateral Movement, and Data Exfiltration | Allen Ace | [Read More](https://medium.com/p/725b09a478d1) |
-| Sat, 16 May 2026 14:28:27 GMT | Free AI Pentesting Tools You Shouldn’t Miss | A.C.HARIHARAN | [Read More](https://medium.com/p/e46f0789f36f) |
-| Sat, 16 May 2026 14:22:54 GMT | TryHackMe - Intro to AD Breaching - WriteUp | Axoloth | [Read More](https://medium.com/p/c3283b3aa92b) |
-| Sat, 16 May 2026 14:13:12 GMT | How does subnetting impact IPv4 performance? | IPv4 Trade Hub | [Read More](https://medium.com/p/e0bb34a6a7b9) |
-| Sat, 16 May 2026 14:11:28 GMT | You need more than just the Android Sandbox for android app. Here’s why | AshuOnline Forall | [Read More](https://medium.com/p/ca61c8916f06) |
-| Sat, 16 May 2026 14:04:45 GMT | Synthesizing the Principles-Building Your Cohesive Security Blueprint | askeladd | [Read More](https://medium.com/p/2b351606a807) |
-| Sat, 16 May 2026 14:01:04 GMT | Threat Hunting for Privilege Escalation -LetsDefend | 0verRida | [Read More](https://medium.com/p/ab7f6abc3ede) |
-| Sat, 16 May 2026 13:59:51 GMT | I’ll Catch a Grenade for You — Dirty Frag Telemetry Walkthrough | Vadvol | [Read More](https://medium.com/p/0e460242f194) |
-| Sat, 16 May 2026 13:59:29 GMT | I’ll Catch a Grenade for You — Detecting Dirty Frag | Vadvol | [Read More](https://medium.com/p/2c1d96371dde) |
-| Sat, 16 May 2026 13:58:35 GMT | Security Through Obscurity-A Clever Tactic, But a Terrible Strategy | askeladd | [Read More](https://medium.com/p/5e1585977bdd) |
-| Sat, 16 May 2026 13:56:03 GMT | American Lending Center Data Breach Impacts 123,000 Individuals: What Financial Institutions Must… | Jas | [Read More](https://medium.com/p/8f38e844b04f) |
