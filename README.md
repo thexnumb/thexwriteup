@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 May 2026 10:31:00 GMT | $100 Million. The Most Advanced AI Model Ever Built. Just Marketing Hype. | Can Artuc | [Read More](https://medium.com/p/643f826f22b6) |
+| Sat, 16 May 2026 10:30:53 GMT | Medium Article (English) | Kemalkarakaplan | [Read More](https://medium.com/p/6be91999b217) |
+| Sat, 16 May 2026 10:12:34 GMT | Your Second Brain Is Someone Else’s Database | Divin George | [Read More](https://medium.com/p/c06aac40c07d) |
+| Sat, 16 May 2026 10:12:13 GMT | The Most Valuable Person in the AI Era Isn’t the Generalist. It’s the Specialist Who Got Curious. | Jaymar Lagrimas | [Read More](https://medium.com/p/f2ce850f856d) |
+| Sat, 16 May 2026 10:04:04 GMT | The Reach of the Proxies: Al-Saadi and the New Era of Global Terror | Golda Mizrahi | [Read More](https://medium.com/p/54bdd05c6fd6) |
+| Sat, 16 May 2026 10:04:04 GMT | Ethical Hacking Course in Calicut | Dotcomsubhan | [Read More](https://medium.com/p/4eb196b5c305) |
+| Sat, 16 May 2026 10:02:36 GMT | Enhancing Security Without Friction: A Guide to Adaptive Authentication with WSO2 | Zachary Stephen | [Read More](https://medium.com/p/c38fcd828340) |
+| Sat, 16 May 2026 09:55:59 GMT | Is Spatial Computing the Death of the Screen? | FactoPolicy - Tech Insights & Solutions | [Read More](https://medium.com/p/faba0de64655) |
+| Sat, 16 May 2026 09:53:26 GMT | The Ghost in the RAM: How “Copy Fail” Breaks Linux Container Isolation | Cyber Summaries | [Read More](https://medium.com/p/402cbd46318f) |
+| Sat, 16 May 2026 09:45:14 GMT | What Is OTR Chat and Why Should You Care in 2026 | VendlyPrivacyLabs | [Read More](https://medium.com/p/c54548876e64) |
+| Sat, 16 May 2026 09:36:57 GMT | OverTheWire Bandit Walkthrough — Level 4 → 5 - 30-Day Cybersecurity Learning Journey (Day 5) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/bbe0c9ef1d40) |
+| Sat, 16 May 2026 09:35:42 GMT | They Stole Your Bank Password Six Months Ago. You Just Don’t Know It Yet. | Theblackbucks | [Read More](https://medium.com/p/0ec416027241) |
+| Sat, 16 May 2026 09:35:21 GMT | The first successful ping in my Cyber Lab felt better than running an exploit. | Amjad Munir | [Read More](https://medium.com/p/e3c04b398b7d) |
+| Sat, 16 May 2026 09:30:05 GMT | Why Gaming Is More Than Just Entertainment | Brian Joshua Elimu | [Read More](https://medium.com/p/d90a66ae74f5) |
+| Sat, 16 May 2026 09:27:31 GMT | We Connected the World — But Lost Attention | Sam Writes Security | [Read More](https://medium.com/p/4e7e8ef9c621) |
+| Sat, 16 May 2026 09:15:10 GMT | The Man Who Helped Create AI… Then Started Ringing the Alarm Bells | Seema Tripathi | [Read More](https://medium.com/p/1b9cafc1da02) |
 | Sat, 16 May 2026 08:54:04 GMT | Helium Just Rescued My Browser Experience | Adam Fisher / fisher king (@therightstuff) | [Read More](https://medium.com/p/1bf0b1712670) |
 | Sat, 16 May 2026 08:53:12 GMT | WSO2 Identity Server: How Modern Apps Handle Login and Security | prinshiga chandran | [Read More](https://medium.com/p/abd9fed33b3f) |
 | Sat, 16 May 2026 08:53:09 GMT | Remote Work Ready: How to Set Up a Secure Business Network | easyIT - Managed IT Services Melbourne | [Read More](https://medium.com/p/bbef002da604) |
@@ -96,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 May 2026 23:01:08 GMT | AI coding assistants are building the same app 10 million times | Aditya Agarwal | [Read More](https://medium.com/p/2a79be2af306) |
 | Fri, 15 May 2026 22:51:53 GMT | The End of Human-Speed Cybersecurity | gabriel lawrence | [Read More](https://medium.com/p/c4510e9b1ab2) |
 | Fri, 15 May 2026 22:38:31 GMT | XSS Discovery: How Hackers Actually Find Cross-Site Scripting Vulnerabilities | Mert Baykal | [Read More](https://medium.com/p/48a2577ecf6e) |
-| Fri, 15 May 2026 22:31:00 GMT | When Telling an LLM What to Look At Means It Looks at Nothing Else: The System Prompt Is the Attack… | Ronlitvak | [Read More](https://medium.com/p/16dc4a008570) |
-| Fri, 15 May 2026 22:28:40 GMT | Jira Knows the Filename. It Has No Idea What Is Inside the File. | Nik Surmanidze | [Read More](https://medium.com/p/2056b11a0c39) |
-| Fri, 15 May 2026 22:24:50 GMT | The Compliance Trap: What Companies Miss When Using AI Code Generation Tools | Samriddhi | [Read More](https://medium.com/p/34ac10889af2) |
-| Fri, 15 May 2026 22:10:06 GMT | Security Hardening GitHub Workflows at Scale | Jordan Ritter | [Read More](https://medium.com/p/d291a33774e1) |
-| Fri, 15 May 2026 22:03:57 GMT | Five for Friday: May 15, 2026 | Sherpa Intelligence | [Read More](https://medium.com/p/962b665c97fd) |
-| Fri, 15 May 2026 21:44:05 GMT | XXE (XML External Entity) Injection | some guy | [Read More](https://medium.com/p/c0f87176bcb5) |
-| Fri, 15 May 2026 21:43:31 GMT | You Don’t Have a Security Problem — You Have a Visibility Problem | JSOC IT BLOG | [Read More](https://medium.com/p/6365afe0a36b) |
-| Fri, 15 May 2026 21:41:33 GMT | Trending Articles in IT Chronicles This Month | Susan Brearley | [Read More](https://medium.com/p/296cdfcc70d0) |
-| Fri, 15 May 2026 21:38:28 GMT | Why Developers Bypass Your Security Guardrails — And Why It’s Not Their Fault | Oluwakemi Oshunkeye | [Read More](https://medium.com/p/f437ab1d98b1) |
-| Fri, 15 May 2026 21:27:50 GMT | Microsoft Sentinel: Introduction | Dev Genj | [Read More](https://medium.com/p/122a518b9680) |
-| Fri, 15 May 2026 21:09:28 GMT | Control the Information — Control the People | Corina Pantea | [Read More](https://medium.com/p/aa4884b736c5) |
-| Fri, 15 May 2026 20:48:48 GMT | Russia’s Secret Hacker University Is More Real Than Most People Think | george kassab | [Read More](https://medium.com/p/040822c19490) |
-| Fri, 15 May 2026 20:47:21 GMT | Security is not a cost center. It’s a revenue engine. Here’s the proof. | Rafat Yazdani | [Read More](https://medium.com/p/fcd524e37b60) |
-| Fri, 15 May 2026 20:45:19 GMT | TeraBox Downloader Extension (2026) Complete Guide for Faster Cloud Downloads | Merriumkareem | [Read More](https://medium.com/p/bc8a5c9bf498) |
-| Fri, 15 May 2026 20:43:51 GMT | The Cosmic Exception: When the Universe Divides by Zero | Utkuhanakar | [Read More](https://medium.com/p/756318219caa) |
-| Fri, 15 May 2026 20:41:03 GMT | Defense in Depth:
-The Art of Never Trusting a Single Wall | Fidan Aslanova | [Read More](https://medium.com/p/921ccbed3185) |
