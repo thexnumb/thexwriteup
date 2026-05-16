@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 May 2026 11:46:19 GMT | Best Reseller Hosting for Agencies (2026 Comparison Guide) | Janet Watson | [Read More](https://medium.com/p/4884492fcab3) |
+| Sat, 16 May 2026 11:44:00 GMT | SIEM vs. SOAR: Choosing the Right Security Automation for Your Organisation | Nguessie Fabiola | [Read More](https://medium.com/p/b82a03a78f70) |
+| Sat, 16 May 2026 11:42:52 GMT | Difference Between TCP and UDP: Which Protocol Is Faster and More Reliable? | Shalu | [Read More](https://medium.com/p/82ae4e98da5f) |
+| Sat, 16 May 2026 11:40:58 GMT | BlackOctopus PhaaS: From a Phishing Email to Claude Sonnet | Dark Jester | [Read More](https://medium.com/p/346a59482dd8) |
+| Sat, 16 May 2026 11:39:36 GMT | How I Passed the CODESPECT Audit in Record Time (And What I Wish I Knew Before Starting) | SKYFOR | [Read More](https://medium.com/p/3ce5362b52b5) |
+| Sat, 16 May 2026 11:37:07 GMT | Malware Removal 2026 — Complete Website Security & Protection Guide | Muhammad Shihabur Rahman | [Read More](https://medium.com/p/6253cf852f0b) |
+| Sat, 16 May 2026 11:36:41 GMT | My Linux kernel patch got merged by Andrew Morton. | Kartik Nair | [Read More](https://medium.com/p/0de1f0c56a2b) |
+| Sat, 16 May 2026 11:31:52 GMT | What future for the Quad? | Democracy Asia | [Read More](https://medium.com/p/6ed78c928287) |
+| Sat, 16 May 2026 11:29:06 GMT | IS THIS THE END OF CYBERSECURITY? | Akintibubo Timilehin | [Read More](https://medium.com/p/0b874fef9000) |
+| Sat, 16 May 2026 11:26:43 GMT | Study MS in Information Technology in Germany | Overseasanigdha | [Read More](https://medium.com/p/761501c5c31f) |
+| Sat, 16 May 2026 11:20:12 GMT | The 5% Deficit: Defending the Last Frontier of Web3 and Hardware Security | 周伟 | [Read More](https://medium.com/p/9521e5c5eab4) |
+| Sat, 16 May 2026 11:19:05 GMT | Redragon M908 — Pusat V8 MMO Oyuncu Mouse Linux’ta Neden Bazen Mouse Değil Klavye Gibi Davranıyor? | Ali Gündoğar | [Read More](https://medium.com/p/ff96d4da3139) |
+| Sat, 16 May 2026 11:18:25 GMT | The Day One Config Change Took Down an Entire Organisation’s VPN | Anon | [Read More](https://medium.com/p/c66d4b00892f) |
+| Sat, 16 May 2026 11:16:25 GMT | Guardrails, Not Roadblocks: How to Partner Safely with Agentic AI Assistants | Rai Miralles Febrer | [Read More](https://medium.com/p/4d01e9864225) |
+| Sat, 16 May 2026 11:16:21 GMT | OWASP Top 10 Explained for Beginners (Simple Guide) | Shalu | [Read More](https://medium.com/p/1b9693e91550) |
+| Sat, 16 May 2026 11:16:17 GMT | How to Choose Predictive Analytics Consulting Services In 2026 | Davin Convay | [Read More](https://medium.com/p/931d07b84424) |
+| Sat, 16 May 2026 11:10:03 GMT | How AI Just Changed the macOS Security Game Forever | Learn With Hatty | [Read More](https://medium.com/p/531e4e7545e2) |
+| Sat, 16 May 2026 11:01:40 GMT | The Ghost in the Glass: The True Human Cost of Staying Hidden | Mohit | [Read More](https://medium.com/p/472ba2d55c39) |
+| Sat, 16 May 2026 10:51:00 GMT | Modern Cybersecurity Architecture: What is Layered Security | Omer Akin | [Read More](https://medium.com/p/44edf687dcc1) |
+| Sat, 16 May 2026 10:45:36 GMT | Fonte Primária Flavia Ferronato, Du Cavendish, Marcos Bellizia e Marcio Furtado — Política —… | Marcos Bellizia | [Read More](https://medium.com/p/ab95ee9d8dd7) |
+| Sat, 16 May 2026 10:38:09 GMT | Centurion Payment Services | Mnm | [Read More](https://medium.com/p/cfd8aedb9208) |
+| Sat, 16 May 2026 10:32:36 GMT | Plugged In, Left Open — How I Found 951 Exposed EV Charging Stations Worldwide Using Modat Magnify | hacker_might | [Read More](https://medium.com/p/3190a736033a) |
 | Sat, 16 May 2026 10:31:00 GMT | $100 Million. The Most Advanced AI Model Ever Built. Just Marketing Hype. | Can Artuc | [Read More](https://medium.com/p/643f826f22b6) |
 | Sat, 16 May 2026 10:30:53 GMT | Medium Article (English) | Kemalkarakaplan | [Read More](https://medium.com/p/6be91999b217) |
 | Sat, 16 May 2026 10:12:34 GMT | Your Second Brain Is Someone Else’s Database | Divin George | [Read More](https://medium.com/p/c06aac40c07d) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 16 May 2026 04:22:22 GMT | Hunting a “Ghost” Process: How I Tracked Down a Linux Cryptominer That Disappeared Whenever I… | Rizqi Mulki | [Read More](https://medium.com/p/7aef228c19fa) |
 | Sat, 16 May 2026 04:19:03 GMT | KNOW MORE ABOUT KALI LINUX | Muhammed Irfan | [Read More](https://medium.com/p/7760ae8a8f4d) |
 | Sat, 16 May 2026 04:09:14 GMT | CVE-2026-44578 Next.js SSRF Vulnerability | Nisal Renuja Palliyaguru | [Read More](https://medium.com/p/21580e22168a) |
-| Sat, 16 May 2026 04:00:49 GMT | How I Found a Hidden Cryptominer the Antivirus Completely Missed: Full Forensic Breakdown | hackthacker | [Read More](https://medium.com/p/7497daf7dcc7) |
-| Sat, 16 May 2026 03:36:56 GMT | This Isn’t Just a Launch — It’s a Gaming Revolution: Infinix GT 50 Pro x PUBG Mobile Takes the… | Sr | [Read More](https://medium.com/p/0a030d13ad99) |
-| Sat, 16 May 2026 03:19:26 GMT | he Rise of Always-On Infrastructure: How Geopolitics, Blockchain, and Quantum Security Are… | CCL Montante | [Read More](https://medium.com/p/ebb9453dd091) |
-| Sat, 16 May 2026 02:53:30 GMT | From Failed Computer Science Major to Cybersecurity Hiring Manager: The Path That Worked | Jbird | [Read More](https://medium.com/p/2388c797842e) |
-| Sat, 16 May 2026 02:00:42 GMT | The Foxconn Ransomware Attack: A Wake-Up Call for Global Supply Chain Security | Caleb DeBari | [Read More](https://medium.com/p/14261806cb43) |
-| Sat, 16 May 2026 01:39:14 GMT | The New LLM risk : Skills | Eklavya Tyagi | [Read More](https://medium.com/p/42336bbe4bc4) |
-| Sat, 16 May 2026 01:25:03 GMT | HSC RTV CTF — JS Gatekeeper(Web — 150 pts) | Life of a Pentester | [Read More](https://medium.com/p/5c9c3603fd68) |
-| Sat, 16 May 2026 01:20:17 GMT | OpenAI Omni Moderation: How to Filter Text & Images for Free | Greek Ai | [Read More](https://medium.com/p/466ea3d0ecd9) |
-| Sat, 16 May 2026 01:17:53 GMT | The Real Game Behind Trump’s Beijing Summit | Tomino Himuka | [Read More](https://medium.com/p/7b18c7f09f80) |
-| Sat, 16 May 2026 01:10:11 GMT | LLM Security: Understanding AI as an Attack Surface — A TryHackMe Writeup | Gajanan Tayde | [Read More](https://medium.com/p/2b03828c29b3) |
-| Sat, 16 May 2026 01:07:58 GMT | Search_path: PostgreSQL’s Quality-of-Life Feature | Will Barillon | [Read More](https://medium.com/p/de3ff5055a17) |
-| Sat, 16 May 2026 01:02:50 GMT | Forensics CTF writeups — Securinets isetZaghouan x isetRades | Slender-man | [Read More](https://medium.com/p/ef804fe68261) |
-| Sat, 16 May 2026 01:01:00 GMT | Shadow AI Is the Breach Your DLP Tool Will Never Catch | Divyanshu Saini | [Read More](https://medium.com/p/be37e831cde7) |
-| Sat, 16 May 2026 00:54:48 GMT | I Got HyperLink Injection and Breaking a Cryptography Signed OpenRedirect Because One Simple… | d0natel00 | [Read More](https://medium.com/p/eccda9ca5fc3) |
-| Sat, 16 May 2026 00:40:11 GMT | Why Should You Use a Concrete Vault? | Ifsal | [Read More](https://medium.com/p/c83901c53f75) |
-| Sat, 16 May 2026 00:09:02 GMT | El Bug Bounty está sentenciado | Miguel Segovia Gil | [Read More](https://medium.com/p/095338772b87) |
-| Sat, 16 May 2026 00:07:56 GMT | China, Data Centers, AI, Oh my! | Toby Dillon | [Read More](https://medium.com/p/f200ecc9e053) |
-| Sat, 16 May 2026 00:07:51 GMT | Reproducing IF-GUIDE: A Proactive Approach to Detoxifying LLMs | Kasra Ahmadi | [Read More](https://medium.com/p/f38dd94ba994) |
-| Fri, 15 May 2026 23:23:22 GMT | [TryHackMe: Summit LAB] | Amir nader | [Read More](https://medium.com/p/73791e9d4447) |
-| Fri, 15 May 2026 23:01:08 GMT | AI coding assistants are building the same app 10 million times | Aditya Agarwal | [Read More](https://medium.com/p/2a79be2af306) |
-| Fri, 15 May 2026 22:51:53 GMT | The End of Human-Speed Cybersecurity | gabriel lawrence | [Read More](https://medium.com/p/c4510e9b1ab2) |
-| Fri, 15 May 2026 22:38:31 GMT | XSS Discovery: How Hackers Actually Find Cross-Site Scripting Vulnerabilities | Mert Baykal | [Read More](https://medium.com/p/48a2577ecf6e) |
