@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 May 2026 01:10:11 GMT | LLM Security: Understanding AI as an Attack Surface — A TryHackMe Writeup | Gajanan Tayde | [Read More](https://medium.com/p/2b03828c29b3) |
+| Sat, 16 May 2026 01:07:58 GMT | Search_path: PostgreSQL’s Quality-of-Life Feature | Will Barillon | [Read More](https://medium.com/p/de3ff5055a17) |
+| Sat, 16 May 2026 01:02:50 GMT | Forensics CTF writeups — Securinets isetZaghouan x isetRades | Slender-man | [Read More](https://medium.com/p/ef804fe68261) |
+| Sat, 16 May 2026 01:01:00 GMT | Shadow AI Is the Breach Your DLP Tool Will Never Catch | Divyanshu Saini | [Read More](https://medium.com/p/be37e831cde7) |
+| Sat, 16 May 2026 00:54:48 GMT | I Got HyperLink Injection and Breaking a Cryptography Signed OpenRedirect Because One Simple… | d0natel00 | [Read More](https://medium.com/p/eccda9ca5fc3) |
+| Sat, 16 May 2026 00:40:11 GMT | Why Should You Use a Concrete Vault? | Ifsal | [Read More](https://medium.com/p/c83901c53f75) |
+| Sat, 16 May 2026 00:09:02 GMT | El Bug Bounty está sentenciado | Miguel Segovia Gil | [Read More](https://medium.com/p/095338772b87) |
+| Sat, 16 May 2026 00:07:56 GMT | China, Data Centers, AI, Oh my! | Toby Dillon | [Read More](https://medium.com/p/f200ecc9e053) |
+| Sat, 16 May 2026 00:07:51 GMT | Reproducing IF-GUIDE: A Proactive Approach to Detoxifying LLMs | Kasra Ahmadi | [Read More](https://medium.com/p/f38dd94ba994) |
 | Fri, 15 May 2026 23:23:22 GMT | [TryHackMe: Summit LAB] | Amir nader | [Read More](https://medium.com/p/73791e9d4447) |
 | Fri, 15 May 2026 23:01:08 GMT | AI coding assistants are building the same app 10 million times | Aditya Agarwal | [Read More](https://medium.com/p/2a79be2af306) |
 | Fri, 15 May 2026 22:51:53 GMT | The End of Human-Speed Cybersecurity | gabriel lawrence | [Read More](https://medium.com/p/c4510e9b1ab2) |
@@ -104,12 +113,3 @@ The Art of Never Trusting a Single Wall | Fidan Aslanova | [Read More](https://m
 | Fri, 15 May 2026 15:26:15 GMT | The Illusion of Safety: When a Site Looks Secure but Isn’t | Lucas Barett | [Read More](https://medium.com/p/413a5ccd2846) |
 | Fri, 15 May 2026 15:19:44 GMT | CISSP Chapter 2 — Part 3: The Most Expensive Attack Path Often Starts With a Conversation. | Atakan ATAK | [Read More](https://medium.com/p/89b3f4584da6) |
 | Fri, 15 May 2026 15:19:17 GMT | The Specificity Trap | Noa Cloud | [Read More](https://medium.com/p/322eaac6dc33) |
-| Fri, 15 May 2026 15:09:47 GMT | Top Azure Security Features You Should Be Using Right Now | IT_Engineer | [Read More](https://medium.com/p/9d68dc0ad020) |
-| Fri, 15 May 2026 15:04:32 GMT | The Deepfake Problem No One Can Ignore | Aimoneyproofficial | [Read More](https://medium.com/p/1526f655dc3f) |
-| Fri, 15 May 2026 15:03:40 GMT | HexDex and the French Cyber Panic: How One Hacker Exposed a Nation’s Digital Weakness | Eleanor Veylark | [Read More](https://medium.com/p/04cb270a31f6) |
-| Fri, 15 May 2026 15:03:25 GMT | Automating Vulnerability Scanning with AI & Burp Suite’s API | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/c3b4fcbce47e) |
-| Fri, 15 May 2026 15:01:54 GMT | ShinyHunters: The Group That Changed Cloud Breaches | Athul jos | [Read More](https://medium.com/p/28e3218d6d20) |
-| Fri, 15 May 2026 15:01:01 GMT | GitHub CODEOWNERS Is Still the Gate AI Code Hits | James Kuhman | [Read More](https://medium.com/p/396cdf047f02) |
-| Fri, 15 May 2026 14:56:50 GMT | Cybersecurity News Review — Week 20 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/73ec46b0241b) |
-| Fri, 15 May 2026 14:55:17 GMT | A Confusing Website Makes a Good Business Look Hard to Work With | Ben Treder | [Read More](https://medium.com/p/17415e6b1254) |
-| Fri, 15 May 2026 14:47:48 GMT | I Used to Ignore “Boring” Vulnerabilities… Until One Paid More Than a Critical | Arfa | [Read More](https://medium.com/p/95b095bcbec2) |
