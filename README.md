@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 May 2026 04:45:04 GMT | The 65k Port Limit is a Lie: How Hackers Actually Starve Your TCP Stack | JM00NJ | [Read More](https://medium.com/p/8e2199b1e044) |
+| Sat, 16 May 2026 04:41:55 GMT | Why I Chose Medium for SQL & AI Writing | Zulqi Tech | [Read More](https://medium.com/p/8ef64cbd4fdf) |
+| Sat, 16 May 2026 04:39:25 GMT | Freelancing in HACKING: Earn Money with This Roadmap (Read Now) | Shahzaib | [Read More](https://medium.com/p/511549154dae) |
+| Sat, 16 May 2026 04:34:20 GMT | Learning Cybersecurity Through a Home Lab | Timothychaconjr | [Read More](https://medium.com/p/4c44a830b227) |
+| Sat, 16 May 2026 04:31:01 GMT | How Can a JPEG Hack Me? — The Hidden Danger Behind Weaponized Image Files | Cybersphere Official | [Read More](https://medium.com/p/0c634a42e4a1) |
+| Sat, 16 May 2026 04:22:22 GMT | Hunting a “Ghost” Process: How I Tracked Down a Linux Cryptominer That Disappeared Whenever I… | Rizqi Mulki | [Read More](https://medium.com/p/7aef228c19fa) |
+| Sat, 16 May 2026 04:19:03 GMT | KNOW MORE ABOUT KALI LINUX | Muhammed Irfan | [Read More](https://medium.com/p/7760ae8a8f4d) |
+| Sat, 16 May 2026 04:09:14 GMT | CVE-2026-44578 Next.js SSRF Vulnerability | Nisal Renuja Palliyaguru | [Read More](https://medium.com/p/21580e22168a) |
+| Sat, 16 May 2026 04:00:49 GMT | How I Found a Hidden Cryptominer the Antivirus Completely Missed: Full Forensic Breakdown | hackthacker | [Read More](https://medium.com/p/7497daf7dcc7) |
+| Sat, 16 May 2026 03:36:56 GMT | This Isn’t Just a Launch — It’s a Gaming Revolution: Infinix GT 50 Pro x PUBG Mobile Takes the… | Sr | [Read More](https://medium.com/p/0a030d13ad99) |
+| Sat, 16 May 2026 03:19:26 GMT | he Rise of Always-On Infrastructure: How Geopolitics, Blockchain, and Quantum Security Are… | CCL Montante | [Read More](https://medium.com/p/ebb9453dd091) |
+| Sat, 16 May 2026 02:53:30 GMT | From Failed Computer Science Major to Cybersecurity Hiring Manager: The Path That Worked | Jbird | [Read More](https://medium.com/p/2388c797842e) |
+| Sat, 16 May 2026 02:00:42 GMT | The Foxconn Ransomware Attack: A Wake-Up Call for Global Supply Chain Security | Caleb DeBari | [Read More](https://medium.com/p/14261806cb43) |
+| Sat, 16 May 2026 01:39:14 GMT | The New LLM risk : Skills | Eklavya Tyagi | [Read More](https://medium.com/p/42336bbe4bc4) |
+| Sat, 16 May 2026 01:25:03 GMT | HSC RTV CTF — JS Gatekeeper(Web — 150 pts) | Life of a Pentester | [Read More](https://medium.com/p/5c9c3603fd68) |
+| Sat, 16 May 2026 01:20:17 GMT | OpenAI Omni Moderation: How to Filter Text & Images for Free | Greek Ai | [Read More](https://medium.com/p/466ea3d0ecd9) |
+| Sat, 16 May 2026 01:17:53 GMT | The Real Game Behind Trump’s Beijing Summit | Tomino Himuka | [Read More](https://medium.com/p/7b18c7f09f80) |
 | Sat, 16 May 2026 01:10:11 GMT | LLM Security: Understanding AI as an Attack Surface — A TryHackMe Writeup | Gajanan Tayde | [Read More](https://medium.com/p/2b03828c29b3) |
 | Sat, 16 May 2026 01:07:58 GMT | Search_path: PostgreSQL’s Quality-of-Life Feature | Will Barillon | [Read More](https://medium.com/p/de3ff5055a17) |
 | Sat, 16 May 2026 01:02:50 GMT | Forensics CTF writeups — Securinets isetZaghouan x isetRades | Slender-man | [Read More](https://medium.com/p/ef804fe68261) |
@@ -96,20 +113,3 @@ The Art of Never Trusting a Single Wall | Fidan Aslanova | [Read More](https://m
 | Fri, 15 May 2026 16:47:07 GMT | 7 Funding Opportunities for Startup Founders - May 15, 2026 | Founders Village | [Read More](https://medium.com/p/a64ef93d3746) |
 | Fri, 15 May 2026 16:44:26 GMT | USA Tech News 2026: The AI Race Is Growing Fast | Ethan Tech Daily | [Read More](https://medium.com/p/70b4163cb956) |
 | Fri, 15 May 2026 16:44:06 GMT | SSL Validation Mistakes: The Hidden Security Gap Behind HTTPS | Abdulshakoor | [Read More](https://medium.com/p/f344662d3660) |
-| Fri, 15 May 2026 16:43:09 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / HIRE A HACKER WHO CAN HELP YOU IN RECOVERY YOUR STOLEN FUNDS | Milabenjamin | [Read More](https://medium.com/p/95e8f6227218) |
-| Fri, 15 May 2026 16:32:18 GMT | Your AI Coding Assistant Has a Security Problem. The Fix Isn’t a Plugin. | ActiveState | [Read More](https://medium.com/p/c81b1fb11aa2) |
-| Fri, 15 May 2026 16:27:39 GMT | Anthropic Just Dropped the Most Dangerous AI Model Ever — And You Can’t Have It | Akhil Sharma | [Read More](https://medium.com/p/d9cb56f20e4e) |
-| Fri, 15 May 2026 16:19:08 GMT | Data Breaches Explained Simply: What They Are, How They Happen, and How to Protect Yourself | Manula Udyoga | [Read More](https://medium.com/p/1d27d2e36f30) |
-| Fri, 15 May 2026 16:06:21 GMT | Designing a Secure & Highly Available AWS VPC Architecture | Josh Farah | [Read More](https://medium.com/p/0081de986d87) |
-| Fri, 15 May 2026 16:03:15 GMT | Secure by Design: Building Cybersecurity Into Technology From the Beginning | Mirrasul Ismayilov | [Read More](https://medium.com/p/470864dbfebf) |
-| Fri, 15 May 2026 15:53:56 GMT | Walkthrough: Remediating Vulnerabilities Found with OpenVAS and Nessus Scanners | Daryl Brooks | [Read More](https://medium.com/p/98ed518fdced) |
-| Fri, 15 May 2026 15:53:43 GMT | ​Why Ethical Hacking Matters Today | The Emotional  (⁠•⁠‿⁠•⁠) | [Read More](https://medium.com/p/e8ee111a929e) |
-| Fri, 15 May 2026 15:51:02 GMT | Separation of Duties: Strengthening Cybersecurity Through Shared Responsibility | Mirrasul Ismayilov | [Read More](https://medium.com/p/21e3ed2fe980) |
-| Fri, 15 May 2026 15:46:07 GMT | Cylab Challenge (PicoCTF) Old session | Suyash Gargote | [Read More](https://medium.com/p/7815b956aa38) |
-| Fri, 15 May 2026 15:39:44 GMT | Real systems are not built on assumptions that everything will work. | NanoChain | [Read More](https://medium.com/p/90e40f8d97e2) |
-| Fri, 15 May 2026 15:38:00 GMT | Contract Manager : quelles compétences et comment les acquérir ? | Abrennis | [Read More](https://medium.com/p/faf4b410a921) |
-| Fri, 15 May 2026 15:32:27 GMT | How to Protect against Supply Chain Attacks like the one that happened to TanStack | Poorshad Shaddel | [Read More](https://medium.com/p/3361a8b9f0de) |
-| Fri, 15 May 2026 15:31:23 GMT | Why Agent Security Is Not Just an Identity Problem | Hammad Abbasi | [Read More](https://medium.com/p/7b446b84a1c9) |
-| Fri, 15 May 2026 15:26:15 GMT | The Illusion of Safety: When a Site Looks Secure but Isn’t | Lucas Barett | [Read More](https://medium.com/p/413a5ccd2846) |
-| Fri, 15 May 2026 15:19:44 GMT | CISSP Chapter 2 — Part 3: The Most Expensive Attack Path Often Starts With a Conversation. | Atakan ATAK | [Read More](https://medium.com/p/89b3f4584da6) |
-| Fri, 15 May 2026 15:19:17 GMT | The Specificity Trap | Noa Cloud | [Read More](https://medium.com/p/322eaac6dc33) |
