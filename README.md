@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 May 2026 21:13:33 GMT | MCP Architecture & Security: What You Need to Know | Muaaz | [Read More](https://medium.com/p/64926f865bd8) |
+| Sat, 16 May 2026 21:02:46 GMT | “Man Up” Is Slowly Destroying Boys | Amanda Diachi | [Read More](https://medium.com/p/1f63e330daf2) |
+| Sat, 16 May 2026 20:59:32 GMT | Morse Code: The Hidden Language That Sparked My Curiosity and Made Me Feel Unique | Hemanth Mouli.ch | [Read More](https://medium.com/p/6e7472efa29d) |
+| Sat, 16 May 2026 20:57:18 GMT | Chaining ACL Abuse, Shadow Credentials, and AD CS ESC16 Into Domain Compromise | Md Fahim Al Shihab | [Read More](https://medium.com/p/dd90fdbbb4b1) |
+| Sat, 16 May 2026 20:48:40 GMT | Strategy is Such a Lonely Word | Carol Smaldino | [Read More](https://medium.com/p/658b52170af8) |
+| Sat, 16 May 2026 20:47:19 GMT | My Journey Into Bug Bounty & Security Research Begins | imarvisec | [Read More](https://medium.com/p/691c9f1239d4) |
+| Sat, 16 May 2026 20:44:39 GMT | My software want a real computer not a sandbox | _ayman_ | [Read More](https://medium.com/p/37f371400db9) |
+| Sat, 16 May 2026 20:32:31 GMT | CVE-2026-42197: Stored XSS via User Profile → Admin Session Hijacking in RELATE LMS | Ruslan Amrahov | [Read More](https://medium.com/p/5652c152bd40) |
+| Sat, 16 May 2026 20:12:02 GMT | How Small Websites Get Hacked (Real Examples) | Mubashir | [Read More](https://medium.com/p/3ee79d478c42) |
+| Sat, 16 May 2026 20:11:00 GMT | The Scariest API Attacks Are Boring: Anatomy of API Abuse | Tugan Atila | [Read More](https://medium.com/p/9cb2d8361505) |
+| Sat, 16 May 2026 20:01:00 GMT | Building Scalable Automation Systems for Modern Financial Platforms | Winifred Sunday | [Read More](https://medium.com/p/cb9ed3d76c85) |
+| Sat, 16 May 2026 19:51:46 GMT | The AI Security Gap Most Teams Don’t Know They Have | Pushkar Mandot | [Read More](https://medium.com/p/084ab56a6eba) |
 | Sat, 16 May 2026 19:44:57 GMT | How I Built a Cybersecurity Playground on a Weak Laptop | Samuel Damon | [Read More](https://medium.com/p/76776978fd5b) |
 | Sat, 16 May 2026 19:28:15 GMT | The Invisible Fingerprints That Get Your Scraper Blocked | Dimitri DO BAIRRO | [Read More](https://medium.com/p/a8b95272c255) |
 | Sat, 16 May 2026 19:26:30 GMT | How I Bypassed SaaS Subscription Limits and Generated Unlimited API Keys. | OWL | [Read More](https://medium.com/p/ac52eab4b243) |
@@ -104,15 +116,3 @@ Regret Nothing Later | Fidan Aslanova | [Read More](https://medium.com/p/b6fe802
 | Sat, 16 May 2026 13:52:27 GMT | TryHackMe Input Manipulation & Prompt Injection Room Walkthrough | Aniket Tegginamath | [Read More](https://medium.com/p/d9ce0a0b5c07) |
 | Sat, 16 May 2026 13:51:41 GMT | Bite Me — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/f4cd581af9dd) |
 | Sat, 16 May 2026 13:45:36 GMT | Hacking AI: HackMerlin | Mritunjay Kumar | [Read More](https://medium.com/p/d778ceccfa3d) |
-| Sat, 16 May 2026 13:42:34 GMT | How I spent a Saturday doing something a normal person would call unnecessary | Srimoneyshankar Ajith | [Read More](https://medium.com/p/6c59c118b532) |
-| Sat, 16 May 2026 13:42:02 GMT | The Security Patch That only Fixed Half the Problem | Katriel Moses | [Read More](https://medium.com/p/79ac0b1b7722) |
-| Sat, 16 May 2026 13:35:20 GMT | Checkmate TryHackMe WriteUp | Ali | [Read More](https://medium.com/p/928611743e1d) |
-| Sat, 16 May 2026 13:28:19 GMT | Cross-Site Scripting (XSS) Explained: A Simple Guide | Mahdi | [Read More](https://medium.com/p/393d96191c8d) |
-| Sat, 16 May 2026 13:28:04 GMT | Social Engineering Attacks and Human Vectors | Mahdi | [Read More](https://medium.com/p/276493187693) |
-| Sat, 16 May 2026 13:26:44 GMT | *Karma’s Bride* # By Ugochukwu Excel # | Ugochukwu Excel | [Read More](https://medium.com/p/fd33b76fa1f2) |
-| Sat, 16 May 2026 13:19:43 GMT | Demystifying Defense in Depth: Why One Firewall Is Never Enough | askeladd | [Read More](https://medium.com/p/213e37bd78a0) |
-| Sat, 16 May 2026 13:18:44 GMT | How CRYSTALS-Kyber Uses Noisy Math to Defeat Quantum Computers | ShreehariMenon | [Read More](https://medium.com/p/255a2cf1666e) |
-| Sat, 16 May 2026 13:14:10 GMT | Why Manual DeFi Is Breaking And Why Vaults Like Concrete Are Becoming Essential | Heysamforyou | [Read More](https://medium.com/p/5354822d2691) |
-| Sat, 16 May 2026 13:12:16 GMT | cyber kill chain | Nsbjamsia | [Read More](https://medium.com/p/71bc5071b884) |
-| Sat, 16 May 2026 13:10:33 GMT | 【ファームウェア監査】Python/Cハイブリッド環境におけるメモリ境界不整合（OOB）の特定と、ベンダーが降伏するまでの11ステップ | 周伟 | [Read More](https://medium.com/p/b8b3fc5dca31) |
-| Sat, 16 May 2026 13:10:00 GMT | The Bug That Almost Wasn’t: How a “Dead End” Led to 500+ Leaked Customer Records | Priyansh | [Read More](https://medium.com/p/18db26e53705) |
