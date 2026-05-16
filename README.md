@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 May 2026 08:54:04 GMT | Helium Just Rescued My Browser Experience | Adam Fisher / fisher king (@therightstuff) | [Read More](https://medium.com/p/1bf0b1712670) |
+| Sat, 16 May 2026 08:53:12 GMT | WSO2 Identity Server: How Modern Apps Handle Login and Security | prinshiga chandran | [Read More](https://medium.com/p/abd9fed33b3f) |
+| Sat, 16 May 2026 08:53:09 GMT | Remote Work Ready: How to Set Up a Secure Business Network | easyIT - Managed IT Services Melbourne | [Read More](https://medium.com/p/bbef002da604) |
+| Sat, 16 May 2026 08:47:27 GMT | Canto 3: The Invisible Chain | Tino | [Read More](https://medium.com/p/ffe62e8726e3) |
+| Sat, 16 May 2026 08:38:41 GMT | TryHackMe Write-up:Corp Website(2026) | 0xOGH | [Read More](https://medium.com/p/f982155fe2f1) |
+| Sat, 16 May 2026 08:26:32 GMT | OWASP Application Security Risk 10:2025 A08 Software or Data Integrity Failures | Tiago Silva | [Read More](https://medium.com/p/00841301f143) |
+| Sat, 16 May 2026 08:21:42 GMT | Security Services Birmingham | Ptpsecurity | [Read More](https://medium.com/p/06dbb2980ea1) |
+| Sat, 16 May 2026 08:20:41 GMT | ITIL in Action: Ticket Types, Categories, and Status Explained for Better IT Support | official_santhoshkumar amirthalingam | [Read More](https://medium.com/p/99c758597167) |
+| Sat, 16 May 2026 08:13:57 GMT | Reflections on UI/UX Prototyping, Pitching Architecture, and Network Defense. | Nambalirwa Eleinah | [Read More](https://medium.com/p/e438fe2d535f) |
+| Sat, 16 May 2026 08:10:02 GMT | Login Sistemində Təhlükəsizlik: Auth Modulunda Görülən AppSec Tədbirlərinin bir hissəsi | Kanan Kazimov | [Read More](https://medium.com/p/8aabcc41b646) |
+| Sat, 16 May 2026 08:04:24 GMT | When Logic Fails: Moving from Traditional Security to AI/ML Threat Landscapes | Daksh Dhamija | [Read More](https://medium.com/p/32f5b8d8ffcb) |
+| Sat, 16 May 2026 07:52:10 GMT | Information disclosure on debug page | Mohammad Sunny Khan | [Read More](https://medium.com/p/371cb1ca890c) |
+| Sat, 16 May 2026 07:48:32 GMT | HTB Web Attacks — Skills Assessment Writeup | Hassan Elsayed | [Read More](https://medium.com/p/7d009a83582c) |
+| Sat, 16 May 2026 07:47:35 GMT | Best Wireless Camera for Home Security in India 2026 | secureye | [Read More](https://medium.com/p/811b864f6bcc) |
+| Sat, 16 May 2026 07:46:14 GMT | From School Failure to Ethical Hacker | Z B S | [Read More](https://medium.com/p/601193a8cf6d) |
+| Sat, 16 May 2026 07:37:40 GMT | Remote-Brokered Back Channel HITL: A Secretless Authorization Foundation for AI Agents | hiroki aizu | [Read More](https://medium.com/p/2e08b52f2319) |
+| Sat, 16 May 2026 07:35:49 GMT | Top Features to Look for in Security Safes Dubai | Buddyuae | [Read More](https://medium.com/p/849ab6b8ade1) |
+| Sat, 16 May 2026 07:32:41 GMT | The Cost of Quantum Resistance | Keir Finlow-Bates | [Read More](https://medium.com/p/48827bdd8757) |
+| Sat, 16 May 2026 07:26:47 GMT | Patching your home lab with Ansible | Inf0Junki3 | [Read More](https://medium.com/p/b4bdf5ddd3f0) |
+| Sat, 16 May 2026 07:20:01 GMT | How to Send Secret Messages Online Without Any Account or App — A Complete Guide | Roshani Gusain | [Read More](https://medium.com/p/8c4e22b74fec) |
+| Sat, 16 May 2026 07:19:35 GMT | Cash Transit Services: Secure Cash Management for Modern Businesses | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/1df2cf7a8575) |
+| Sat, 16 May 2026 07:12:55 GMT | Severity in CVE | Askerovsahil | [Read More](https://medium.com/p/ee9ac35bf172) |
+| Sat, 16 May 2026 07:11:19 GMT | Even Hackers Are Sick of AI Slop — And That Tells Us Something Important | Ahsan | [Read More](https://medium.com/p/224a7c446d41) |
 | Sat, 16 May 2026 07:10:44 GMT | CVE Purpose | Askerovsahil | [Read More](https://medium.com/p/8865bc5bbad8) |
 | Sat, 16 May 2026 07:09:42 GMT | Agent Constitution: Policy Enforcement and PII Protection for AI Agents | Neelopphersyed | [Read More](https://medium.com/p/28d25fa46d4e) |
 | Sat, 16 May 2026 06:51:09 GMT | SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing (EventID: 316) | Tamerlan Shabanov | [Read More](https://medium.com/p/8d83bfd4400a) |
@@ -90,26 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 15 May 2026 20:43:51 GMT | The Cosmic Exception: When the Universe Divides by Zero | Utkuhanakar | [Read More](https://medium.com/p/756318219caa) |
 | Fri, 15 May 2026 20:41:03 GMT | Defense in Depth:
 The Art of Never Trusting a Single Wall | Fidan Aslanova | [Read More](https://medium.com/p/921ccbed3185) |
-| Fri, 15 May 2026 20:39:18 GMT | Year of the Fox — TryHackMe Walkthrough | Wildan Aditya | [Read More](https://medium.com/p/6375667cd1ee) |
-| Fri, 15 May 2026 20:32:31 GMT | Tic-Tac-Toe | cece21xxx | [Read More](https://medium.com/p/ab8fb80f36c0) |
-| Fri, 15 May 2026 20:28:49 GMT | When your neighbor on the quantum cloud can tell you’re working | Berend Watchus | [Read More](https://medium.com/p/c1e3d32d5a9f) |
-| Fri, 15 May 2026 20:28:08 GMT | Bug Bounty in 2026 Isn’t About Hacking Harder It’s About Thinking in Systems | R.H Rizvi | [Read More](https://medium.com/p/63e3bb683478) |
-| Fri, 15 May 2026 20:26:00 GMT | Secrets Sprawl Is a Platform Tax | Practical IT | [Read More](https://medium.com/p/a2ffc207fd44) |
-| Fri, 15 May 2026 20:14:36 GMT | Beyond CVSS: What Good Policy Tuning Actually Looks Like in Cloud Security | Oluwakemi Oshunkeye | [Read More](https://medium.com/p/7b724fdf3ae0) |
-| Fri, 15 May 2026 20:14:21 GMT | Understanding CVE, CVSS, and CWE in Modern Cybersecurity | us3rgnv | [Read More](https://medium.com/p/a856ecd700e4) |
-| Fri, 15 May 2026 20:03:06 GMT | Developers Get Fired. Become a Plumber. | Pamela Hardy | [Read More](https://medium.com/p/3cd1605abd48) |
-| Fri, 15 May 2026 19:57:37 GMT | Defense in Depth: Why One Lock Is Never Enough | Rahima Hatamova | [Read More](https://medium.com/p/ca9df3f67703) |
-| Fri, 15 May 2026 19:50:37 GMT | Architecture Does Not Evolve. It Breaks. | Mohammed Brückner | [Read More](https://medium.com/p/7eba6a8fcb29) |
-| Fri, 15 May 2026 19:48:53 GMT | # The Layered Fortress: Why Defense in Depth is the Bedrock of Modern Cybersecurity | Cavadd | [Read More](https://medium.com/p/59ac4a5cc51f) |
-| Fri, 15 May 2026 19:43:53 GMT | The Groups Behind Modern Cybercrime | Internet Exposed | [Read More](https://medium.com/p/43830591ee76) |
-| Fri, 15 May 2026 19:35:11 GMT | Reverse Engineering a Windows CrackMe: Anti-Debugging, XOR Decoding, and Recovering the Password | Pratyush Mohanty | [Read More](https://medium.com/p/ffc7f948552c) |
-| Fri, 15 May 2026 19:33:29 GMT | Open Redirect: The underestimated vulnerability that turns your trusted relationships into traps | ATTER Koffi Kallern | [Read More](https://medium.com/p/215d70d69d42) |
-| Fri, 15 May 2026 19:33:22 GMT | The Governed Skill.md for Agentic AI | Valdez Ladd | [Read More](https://medium.com/p/913006a7966e) |
-| Fri, 15 May 2026 19:28:45 GMT | How Can Construction Security Guards in London Prevent Site Theft? | Dynamic security solution ltd | [Read More](https://medium.com/p/879e47135124) |
-| Fri, 15 May 2026 19:25:23 GMT | My ambitions. | Unnamedd | [Read More](https://medium.com/p/c43f62e875c5) |
-| Fri, 15 May 2026 19:23:39 GMT | How Industrial-Scale AI is Rewriting the Cyber Conflict Playbook | SOCFortress | [Read More](https://medium.com/p/7084a983869c) |
-| Fri, 15 May 2026 19:21:00 GMT | How a Single JavaScript File Bypassed a $1.5B Multi-Sig: Anatomy of the Bybit Hack | rdin777 | [Read More](https://medium.com/p/490653dbcb73) |
-| Fri, 15 May 2026 19:20:23 GMT | The Silent Exit: How to Safely Disengage from a Romance Scammer in 2026 | Michael Muinov | [Read More](https://medium.com/p/d2b8a3fa6a24) |
-| Fri, 15 May 2026 19:14:13 GMT | Claude Mythos: Why AI-Powered Vulnerability Discovery Changes the Game | ProdigyLand | [Read More](https://medium.com/p/68a913ec32d9) |
-| Fri, 15 May 2026 18:55:05 GMT | Hacking AI APIs: A Bug Bounty Hunter’s Complete Guide to LLM Vulnerabilities (2026) | BugHunter’s Journal | [Read More](https://medium.com/p/d01a34b40573) |
-| Fri, 15 May 2026 18:44:54 GMT | What the TanStack Supply Chain Attack Means for Engineering Teams and How I Checked Our Environment | Matt Majewski | [Read More](https://medium.com/p/0512a0418529) |
