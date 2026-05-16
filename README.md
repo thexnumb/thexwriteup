@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 May 2026 19:44:57 GMT | How I Built a Cybersecurity Playground on a Weak Laptop | Samuel Damon | [Read More](https://medium.com/p/76776978fd5b) |
+| Sat, 16 May 2026 19:28:15 GMT | The Invisible Fingerprints That Get Your Scraper Blocked | Dimitri DO BAIRRO | [Read More](https://medium.com/p/a8b95272c255) |
+| Sat, 16 May 2026 19:26:30 GMT | How I Bypassed SaaS Subscription Limits and Generated Unlimited API Keys. | OWL | [Read More](https://medium.com/p/ac52eab4b243) |
+| Sat, 16 May 2026 19:22:44 GMT | MCP Tool Responses in Claude Skills: Reasoning Quality, Cost, and Secure Credential Delivery | Noor Syed | [Read More](https://medium.com/p/200741e2830f) |
+| Sat, 16 May 2026 19:16:52 GMT | The Mythos Exploitation: How Anthropic’s Unreleased AI Bypassed macOS Security | An Nguyen | [Read More](https://medium.com/p/4283f35e27ea) |
+| Sat, 16 May 2026 19:12:06 GMT | Snapped Phish-ing Line | Melbertibabao | [Read More](https://medium.com/p/7c1825e4bc00) |
+| Sat, 16 May 2026 19:10:26 GMT | UTM Appliances Explained: Every Question a Non-Technical Founder Actually Asks | CacheGuard Technologies | [Read More](https://medium.com/p/704d2f0ec8fa) |
+| Sat, 16 May 2026 19:00:01 GMT | BBSCute - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/6b2209895cb6) |
+| Sat, 16 May 2026 18:57:49 GMT | Someone Just Walked Through 225,000 Enterprise Firewalls. | Jazz Cyber Shield | [Read More](https://medium.com/p/ae3c816bc2d0) |
+| Sat, 16 May 2026 18:57:07 GMT | Why Is Hotel Security Officer a Vital Investment for Your Business? | Dynamic security solution ltd | [Read More](https://medium.com/p/154487bd0f78) |
+| Sat, 16 May 2026 18:49:37 GMT | Synthesizing Security Concepts: Building a Cohesive Cybersecurity Strategy | Mirrasul Ismayilov | [Read More](https://medium.com/p/c09b8f05d463) |
+| Sat, 16 May 2026 18:42:32 GMT | Security Through Obscurity: Does Hiding Information Really Improve Cybersecurity? | Mirrasul Ismayilov | [Read More](https://medium.com/p/9de1540193c7) |
+| Sat, 16 May 2026 18:38:12 GMT | Classic domain impersonation of AI services: Be careful of all seedance api web search results | Nina | [Read More](https://medium.com/p/5c3e4f5a0f96) |
+| Sat, 16 May 2026 18:37:44 GMT | The Taiwan Shadow and the Billion-Dollar Scramble for the Americas | Raquel Castro | [Read More](https://medium.com/p/1c53740adff0) |
+| Sat, 16 May 2026 18:29:55 GMT | PwnTillDawn — From Command Injection to Full Root Compromise on ZeroShell | Cybernerddd | [Read More](https://medium.com/p/ea7448fbd5a8) |
+| Sat, 16 May 2026 18:27:58 GMT | What Is Anthropic’s Claude Mythos Preview — And How Does It Work? | Saurabh S. Shaligram | [Read More](https://medium.com/p/fb208ad2ff18) |
+| Sat, 16 May 2026 18:26:59 GMT | Windows Registry Forensics: A Practical Guide to Common Artifacts | Honeyknows | [Read More](https://medium.com/p/0f75f42c0860) |
 | Sat, 16 May 2026 18:26:53 GMT | Finding Origin IPs Behind Cloudflare: Infrastructure Exposure Validation Methodology | Aryanakbarjoyia | [Read More](https://medium.com/p/905bb649b113) |
+| Sat, 16 May 2026 18:25:48 GMT | Best Security Camera Installation Services in Colorado Springs - R&N Technical | R&N Technical | [Read More](https://medium.com/p/deb5c13e8941) |
 | Sat, 16 May 2026 18:24:22 GMT | Breaking Free From the AI Cloud: Unleashing the Power of Local Servers on Your Laptop or Smartphone. | Garythatcher | [Read More](https://medium.com/p/dae6ba39cd9d) |
 | Sat, 16 May 2026 18:22:14 GMT | Chinese Cyber Scam Networks and Their Weaponization of the Domain Name System Against Elderly… | Rick Lane | [Read More](https://medium.com/p/d44a66559961) |
 | Sat, 16 May 2026 18:16:06 GMT | Your VMs are not as safe as you think | Chandramouli Baskaran | [Read More](https://medium.com/p/ccf6cfbc78e0) |
@@ -98,22 +116,3 @@ Regret Nothing Later | Fidan Aslanova | [Read More](https://medium.com/p/b6fe802
 | Sat, 16 May 2026 13:12:16 GMT | cyber kill chain | Nsbjamsia | [Read More](https://medium.com/p/71bc5071b884) |
 | Sat, 16 May 2026 13:10:33 GMT | 【ファームウェア監査】Python/Cハイブリッド環境におけるメモリ境界不整合（OOB）の特定と、ベンダーが降伏するまでの11ステップ | 周伟 | [Read More](https://medium.com/p/b8b3fc5dca31) |
 | Sat, 16 May 2026 13:10:00 GMT | The Bug That Almost Wasn’t: How a “Dead End” Led to 500+ Leaked Customer Records | Priyansh | [Read More](https://medium.com/p/18db26e53705) |
-| Sat, 16 May 2026 13:02:08 GMT | TryHackMe Walkthrough - Command Injection | SecIntellect | [Read More](https://medium.com/p/f2bab5aa4d1d) |
-| Sat, 16 May 2026 13:01:50 GMT | Bug Bounty Economics in Web3 | Zoe Braiterman | [Read More](https://medium.com/p/8d74a0ceab63) |
-| Sat, 16 May 2026 12:58:59 GMT | Why Concrete Vaults Matter: The Shift From Manual DeFi to Coordinated Onchain Capital | Thecryptoholic | [Read More](https://medium.com/p/9ac131c1e61c) |
-| Sat, 16 May 2026 12:55:07 GMT | The Power of Minimalism in Security: Implementing the Principle of Least Privilege | Umid Nagiyev | [Read More](https://medium.com/p/b43ad111eeea) |
-| Sat, 16 May 2026 12:53:22 GMT | The Ultimate Flagship Battle: Which One Fits Your Lifestyle? | Keepita - Mobile Data Backup | [Read More](https://medium.com/p/dd0531c4d6f0) |
-| Sat, 16 May 2026 12:49:01 GMT | Building the Digital Fortress: Why Defense in Depth is the Bedrock of Cybersecurity | Umid Nagiyev | [Read More](https://medium.com/p/3ea0d59226dd) |
-| Sat, 16 May 2026 12:48:01 GMT | comnetac.exe: Dissecting a Multi-Stage .NET Dropper Delivering njRAT 0.7d | Dark Jester | [Read More](https://medium.com/p/8310a40b46d3) |
-| Sat, 16 May 2026 12:46:33 GMT | PentestDiary: a small tool for keeping pentest notes and network map in one place | Filip Nikolic | [Read More](https://medium.com/p/c7235e9a3e58) |
-| Sat, 16 May 2026 12:39:08 GMT | Why Zero Trust Is Becoming Essential for Social Networks — And How AI‑Based Identity Verification… | Laurent Devraud | [Read More](https://medium.com/p/e111e4a49704) |
-| Sat, 16 May 2026 12:27:01 GMT | My Cybersecurity Journey Begins !! | SecIntellect | [Read More](https://medium.com/p/e2d9ce05cfa7) |
-| Sat, 16 May 2026 12:13:49 GMT | Why Phishing Is a Business Risk, Not Just a Fake Email | Asadbek | [Read More](https://medium.com/p/4d9869291502) |
-| Sat, 16 May 2026 12:08:07 GMT | AI Will Not Replace IT Jobs — But It Has Made Them Much Harder to Get | Aathif Mohammed | [Read More](https://medium.com/p/39b7028be818) |
-| Sat, 16 May 2026 12:07:23 GMT | Cybersecurity for Beginners: How to Stay Safe in the Digital World
-In today’s digital age, almost… | Salmayorita | [Read More](https://medium.com/p/26cab276c424) |
-| Sat, 16 May 2026 11:46:19 GMT | Best Reseller Hosting for Agencies (2026 Comparison Guide) | Janet Watson | [Read More](https://medium.com/p/4884492fcab3) |
-| Sat, 16 May 2026 11:44:00 GMT | SIEM vs. SOAR: Choosing the Right Security Automation for Your Organisation | Nguessie Fabiola | [Read More](https://medium.com/p/b82a03a78f70) |
-| Sat, 16 May 2026 11:42:52 GMT | Difference Between TCP and UDP: Which Protocol Is Faster and More Reliable? | Shalu | [Read More](https://medium.com/p/82ae4e98da5f) |
-| Sat, 16 May 2026 11:40:58 GMT | BlackOctopus PhaaS: From a Phishing Email to Claude Sonnet | Dark Jester | [Read More](https://medium.com/p/346a59482dd8) |
-| Sat, 16 May 2026 11:39:36 GMT | How I Passed the CODESPECT Audit in Record Time (And What I Wish I Knew Before Starting) | SKYFOR | [Read More](https://medium.com/p/3ce5362b52b5) |
