@@ -12,10 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 May 2026 14:28:27 GMT | Free AI Pentesting Tools You Shouldn’t Miss | A.C.HARIHARAN | [Read More](https://medium.com/p/e46f0789f36f) |
+| Sat, 16 May 2026 14:22:54 GMT | TryHackMe - Intro to AD Breaching - WriteUp | Axoloth | [Read More](https://medium.com/p/c3283b3aa92b) |
+| Sat, 16 May 2026 14:13:12 GMT | How does subnetting impact IPv4 performance? | IPv4 Trade Hub | [Read More](https://medium.com/p/e0bb34a6a7b9) |
+| Sat, 16 May 2026 14:11:28 GMT | You need more than just the Android Sandbox for android app. Here’s why | AshuOnline Forall | [Read More](https://medium.com/p/ca61c8916f06) |
+| Sat, 16 May 2026 14:04:45 GMT | Synthesizing the Principles-Building Your Cohesive Security Blueprint | askeladd | [Read More](https://medium.com/p/2b351606a807) |
+| Sat, 16 May 2026 14:01:04 GMT | Threat Hunting for Privilege Escalation -LetsDefend | 0verRida | [Read More](https://medium.com/p/ab7f6abc3ede) |
+| Sat, 16 May 2026 13:59:51 GMT | I’ll Catch a Grenade for You — Dirty Frag Telemetry Walkthrough | Vadvol | [Read More](https://medium.com/p/0e460242f194) |
+| Sat, 16 May 2026 13:59:29 GMT | I’ll Catch a Grenade for You — Detecting Dirty Frag | Vadvol | [Read More](https://medium.com/p/2c1d96371dde) |
+| Sat, 16 May 2026 13:58:35 GMT | Security Through Obscurity-A Clever Tactic, But a Terrible Strategy | askeladd | [Read More](https://medium.com/p/5e1585977bdd) |
+| Sat, 16 May 2026 13:56:03 GMT | American Lending Center Data Breach Impacts 123,000 Individuals: What Financial Institutions Must… | Jas | [Read More](https://medium.com/p/8f38e844b04f) |
+| Sat, 16 May 2026 13:54:47 GMT | What If He Feels Like Home but Leaves Like the Others? | yaa_ | [Read More](https://medium.com/p/501000d253ae) |
+| Sat, 16 May 2026 13:53:38 GMT | Gait Recognition: The Next Frontier in Biometric Security using AI | D09r | [Read More](https://medium.com/p/fcece956722e) |
+| Sat, 16 May 2026 13:52:27 GMT | TryHackMe Input Manipulation & Prompt Injection Room Walkthrough | Aniket Tegginamath | [Read More](https://medium.com/p/d9ce0a0b5c07) |
+| Sat, 16 May 2026 13:51:41 GMT | Bite Me — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/f4cd581af9dd) |
+| Sat, 16 May 2026 13:45:36 GMT | Hacking AI: HackMerlin | Mritunjay Kumar | [Read More](https://medium.com/p/d778ceccfa3d) |
+| Sat, 16 May 2026 13:42:34 GMT | How I spent a Saturday doing something a normal person would call unnecessary | Srimoneyshankar Ajith | [Read More](https://medium.com/p/6c59c118b532) |
+| Sat, 16 May 2026 13:42:02 GMT | The Security Patch That only Fixed Half the Problem | Katriel Moses | [Read More](https://medium.com/p/79ac0b1b7722) |
+| Sat, 16 May 2026 13:35:20 GMT | Checkmate TryHackMe WriteUp | Ali | [Read More](https://medium.com/p/928611743e1d) |
+| Sat, 16 May 2026 13:28:19 GMT | Cross-Site Scripting (XSS) Explained: A Simple Guide | Mahdi | [Read More](https://medium.com/p/393d96191c8d) |
+| Sat, 16 May 2026 13:28:04 GMT | Social Engineering Attacks and Human Vectors | Mahdi | [Read More](https://medium.com/p/276493187693) |
+| Sat, 16 May 2026 13:26:44 GMT | *Karma’s Bride* # By Ugochukwu Excel # | Ugochukwu Excel | [Read More](https://medium.com/p/fd33b76fa1f2) |
 | Sat, 16 May 2026 13:19:43 GMT | Demystifying Defense in Depth: Why One Firewall Is Never Enough | askeladd | [Read More](https://medium.com/p/213e37bd78a0) |
 | Sat, 16 May 2026 13:18:44 GMT | How CRYSTALS-Kyber Uses Noisy Math to Defeat Quantum Computers | ShreehariMenon | [Read More](https://medium.com/p/255a2cf1666e) |
 | Sat, 16 May 2026 13:14:10 GMT | Why Manual DeFi Is Breaking And Why Vaults Like Concrete Are Becoming Essential | Heysamforyou | [Read More](https://medium.com/p/5354822d2691) |
 | Sat, 16 May 2026 13:12:16 GMT | cyber kill chain | Nsbjamsia | [Read More](https://medium.com/p/71bc5071b884) |
+| Sat, 16 May 2026 13:10:33 GMT | 【ファームウェア監査】Python/Cハイブリッド環境におけるメモリ境界不整合（OOB）の特定と、ベンダーが降伏するまでの11ステップ | 周伟 | [Read More](https://medium.com/p/b8b3fc5dca31) |
 | Sat, 16 May 2026 13:10:00 GMT | The Bug That Almost Wasn’t: How a “Dead End” Led to 500+ Leaked Customer Records | Priyansh | [Read More](https://medium.com/p/18db26e53705) |
 | Sat, 16 May 2026 13:02:08 GMT | TryHackMe Walkthrough - Command Injection | SecIntellect | [Read More](https://medium.com/p/f2bab5aa4d1d) |
 | Sat, 16 May 2026 13:01:50 GMT | Bug Bounty Economics in Web3 | Zoe Braiterman | [Read More](https://medium.com/p/8d74a0ceab63) |
@@ -91,25 +113,3 @@ In today’s digital age, almost… | Salmayorita | [Read More](https://medium.c
 | Sat, 16 May 2026 07:20:01 GMT | How to Send Secret Messages Online Without Any Account or App — A Complete Guide | Roshani Gusain | [Read More](https://medium.com/p/8c4e22b74fec) |
 | Sat, 16 May 2026 07:19:35 GMT | Cash Transit Services: Secure Cash Management for Modern Businesses | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/1df2cf7a8575) |
 | Sat, 16 May 2026 07:12:55 GMT | Severity in CVE | Askerovsahil | [Read More](https://medium.com/p/ee9ac35bf172) |
-| Sat, 16 May 2026 07:11:19 GMT | Even Hackers Are Sick of AI Slop — And That Tells Us Something Important | Ahsan | [Read More](https://medium.com/p/224a7c446d41) |
-| Sat, 16 May 2026 07:10:44 GMT | CVE Purpose | Askerovsahil | [Read More](https://medium.com/p/8865bc5bbad8) |
-| Sat, 16 May 2026 07:09:42 GMT | Agent Constitution: Policy Enforcement and PII Protection for AI Agents | Neelopphersyed | [Read More](https://medium.com/p/28d25fa46d4e) |
-| Sat, 16 May 2026 06:51:09 GMT | SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing (EventID: 316) | Tamerlan Shabanov | [Read More](https://medium.com/p/8d83bfd4400a) |
-| Sat, 16 May 2026 06:38:59 GMT | Building CorpGuard & AuthLab: An Interactive Cybersecurity Learning Platform | Sanialbhatti | [Read More](https://medium.com/p/c8d38ba4d431) |
-| Sat, 16 May 2026 06:35:32 GMT | Building CorpGuard & AuthLab | F | [Read More](https://medium.com/p/982c983c0041) |
-| Sat, 16 May 2026 06:30:19 GMT | Mastering Access Control Systems: Top Strategies to Protect Your Organization’s Data | Tvmoffensobacklink | [Read More](https://medium.com/p/49144eab6ad5) |
-| Sat, 16 May 2026 06:29:56 GMT | Why Every SME in India Needs Cyber Security Protection | Adviacent.in | [Read More](https://medium.com/p/df8a3fbf75c8) |
-| Sat, 16 May 2026 06:28:50 GMT | Windsor Security Guard Company Providing Customized Protection & Peace of Mind | Grdsnscrt | [Read More](https://medium.com/p/9eef0b44e778) |
-| Sat, 16 May 2026 06:23:30 GMT | CorpGuard & AuthLab: An Interactive Cybersecurity Learning Ecosystem | Shahmeer Haider | [Read More](https://medium.com/p/402ae32646d6) |
-| Sat, 16 May 2026 06:18:54 GMT | What Are 5 Important Careers in Cyber Security? | SecuRetain | [Read More](https://medium.com/p/9e5fdeeb0ceb) |
-| Sat, 16 May 2026 06:18:51 GMT | CipherVault: Building a Secure Encrypted File Storage Portal from Scratch | Muhammad Rafay Tahir | [Read More](https://medium.com/p/4f79abd53cf3) |
-| Sat, 16 May 2026 06:16:46 GMT | Why Tech Support Scams Are Still Fooling Thousands of People in 2026 | shiwangi | [Read More](https://medium.com/p/a64570847da8) |
-| Sat, 16 May 2026 06:07:37 GMT | Project ENDIVE | Keir Finlow-Bates | [Read More](https://medium.com/p/78b0859404d5) |
-| Sat, 16 May 2026 06:05:16 GMT | Escalating Self-Stored XSS to Complete Admin ATO | Ahmad Mugh33ra | [Read More](https://medium.com/p/7a7c98b324fe) |
-| Sat, 16 May 2026 06:03:35 GMT | Unlocking the Linux Kernel: Real-Time Observability with eBPF | Sourav Kumar | [Read More](https://medium.com/p/c710b71fcffc) |
-| Sat, 16 May 2026 06:00:46 GMT | Building a Simple FTP Server in Windows for Security Monitoring Practice | Ashwanth D | [Read More](https://medium.com/p/505f0bb61264) |
-| Sat, 16 May 2026 05:56:59 GMT | How Cyber Criminals Trick People Using Social Media | Asiyamaryam | [Read More](https://medium.com/p/bcf45e3e5cf8) |
-| Sat, 16 May 2026 05:56:44 GMT | Cybersecurity Is No Longer an IT Problem — It’s a Business Survival Problem | Aprasak | [Read More](https://medium.com/p/99208ae6d896) |
-| Sat, 16 May 2026 05:55:18 GMT | 7 Contract Workforce HRMS Tools in India for Managing Temporary and Gig Employees 2026 | Aditi Sharma | [Read More](https://medium.com/p/bcc65d3eb37a) |
-| Sat, 16 May 2026 05:53:19 GMT | Fast K9 Security — Professional Security & K9 Protection Services in London | Fast k9 Security | [Read More](https://medium.com/p/9d1f918cc6ee) |
-| Sat, 16 May 2026 05:50:41 GMT | Anti-Virtualization Threat Actor Digital Forensic Investigation (HTB) Operation Blackout 2025… | Christopher Ryan | [Read More](https://medium.com/p/716e06dec292) |
