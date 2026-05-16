@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 May 2026 22:09:18 GMT | Divurion Hackers Destroyed My Life in 90 Days | Marcus Patron | [Read More](https://medium.com/p/9b0ce885f840) |
+| Sat, 16 May 2026 22:09:12 GMT | STOP/Djvu Ransomware Analizi: Anti-Debugging Tuzaklarını Aşmak, Ağ Trafiğini İfşa Etmek ve… | Kerem Işık | [Read More](https://medium.com/p/cc6e8ac9f5f5) |
+| Sat, 16 May 2026 21:40:51 GMT | Defending Your Wallet Against AI-Powered Phishing Scams | ShielfForge - Web3 Wallet Security News | [Read More](https://medium.com/p/8cff27298acf) |
+| Sat, 16 May 2026 21:29:35 GMT | AI Social Engineering: When Cyber Attacks Start Targeting Human Trust | Temidayo Salami | [Read More](https://medium.com/p/26b92cef0715) |
 | Sat, 16 May 2026 21:13:33 GMT | MCP Architecture & Security: What You Need to Know | Muaaz | [Read More](https://medium.com/p/64926f865bd8) |
 | Sat, 16 May 2026 21:02:46 GMT | “Man Up” Is Slowly Destroying Boys | Amanda Diachi | [Read More](https://medium.com/p/1f63e330daf2) |
 | Sat, 16 May 2026 20:59:32 GMT | Morse Code: The Hidden Language That Sparked My Curiosity and Made Me Feel Unique | Hemanth Mouli.ch | [Read More](https://medium.com/p/6e7472efa29d) |
@@ -69,6 +73,7 @@ Need to Stop Telling Ourselves | Fidan Aslanova | [Read More](https://medium.com
 | Sat, 16 May 2026 17:11:28 GMT | Cybersecurity, AI, and the Future of Human Trust | Kongkham Singh | [Read More](https://medium.com/p/699b9f983031) |
 | Sat, 16 May 2026 17:07:51 GMT | Cyber Heist Investigation - Bank CTF Breakdown | Pentester Club | [Read More](https://medium.com/p/27249fc6734e) |
 | Sat, 16 May 2026 17:05:01 GMT | Crack The Hash Level 2 — THM | Fadybasem - ( SilentN0va ) | [Read More](https://medium.com/p/66ad5611e265) |
+| Sat, 16 May 2026 17:02:21 GMT | O futuro do trabalho não é menos humano. | Everton Moreira | [Read More](https://medium.com/p/0605245da5cf) |
 | Sat, 16 May 2026 17:02:09 GMT | Crack the hash — THM | Fadybasem - ( SilentN0va ) | [Read More](https://medium.com/p/590b65f12040) |
 | Sat, 16 May 2026 16:54:23 GMT | Broken Authentication: How Attackers Gain Unauthorized Access to Your Application. | Sana Jalil | [Read More](https://medium.com/p/88f7e72439db) |
 | Sat, 16 May 2026 16:51:52 GMT | The future of artificial intelligence is increasingly being determined by infrastructure — not just… | Neuralcoretech | [Read More](https://medium.com/p/ca5abc55f440) |
@@ -111,8 +116,3 @@ Regret Nothing Later | Fidan Aslanova | [Read More](https://medium.com/p/b6fe802
 | Sat, 16 May 2026 13:59:29 GMT | I’ll Catch a Grenade for You — Detecting Dirty Frag | Vadvol | [Read More](https://medium.com/p/2c1d96371dde) |
 | Sat, 16 May 2026 13:58:35 GMT | Security Through Obscurity-A Clever Tactic, But a Terrible Strategy | askeladd | [Read More](https://medium.com/p/5e1585977bdd) |
 | Sat, 16 May 2026 13:56:03 GMT | American Lending Center Data Breach Impacts 123,000 Individuals: What Financial Institutions Must… | Jas | [Read More](https://medium.com/p/8f38e844b04f) |
-| Sat, 16 May 2026 13:54:47 GMT | What If He Feels Like Home but Leaves Like the Others? | yaa_ | [Read More](https://medium.com/p/501000d253ae) |
-| Sat, 16 May 2026 13:53:38 GMT | Gait Recognition: The Next Frontier in Biometric Security using AI | D09r | [Read More](https://medium.com/p/fcece956722e) |
-| Sat, 16 May 2026 13:52:27 GMT | TryHackMe Input Manipulation & Prompt Injection Room Walkthrough | Aniket Tegginamath | [Read More](https://medium.com/p/d9ce0a0b5c07) |
-| Sat, 16 May 2026 13:51:41 GMT | Bite Me — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/f4cd581af9dd) |
-| Sat, 16 May 2026 13:45:36 GMT | Hacking AI: HackMerlin | Mritunjay Kumar | [Read More](https://medium.com/p/d778ceccfa3d) |
