@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 16 May 2026 18:26:53 GMT | Finding Origin IPs Behind Cloudflare: Infrastructure Exposure Validation Methodology | Aryanakbarjoyia | [Read More](https://medium.com/p/905bb649b113) |
+| Sat, 16 May 2026 18:24:22 GMT | Breaking Free From the AI Cloud: Unleashing the Power of Local Servers on Your Laptop or Smartphone. | Garythatcher | [Read More](https://medium.com/p/dae6ba39cd9d) |
+| Sat, 16 May 2026 18:22:14 GMT | Chinese Cyber Scam Networks and Their Weaponization of the Domain Name System Against Elderly… | Rick Lane | [Read More](https://medium.com/p/d44a66559961) |
+| Sat, 16 May 2026 18:16:06 GMT | Your VMs are not as safe as you think | Chandramouli Baskaran | [Read More](https://medium.com/p/ccf6cfbc78e0) |
+| Sat, 16 May 2026 18:07:01 GMT | Security Through Obscurity:
+The Comforting Lie We
+Need to Stop Telling Ourselves | Fidan Aslanova | [Read More](https://medium.com/p/047c7316b27d) |
+| Sat, 16 May 2026 18:02:31 GMT | Ephemeral URLs: How Time-Limited Links Actually Work | Monali Chauhan | [Read More](https://medium.com/p/45044d4bd661) |
+| Sat, 16 May 2026 18:01:01 GMT | Host & Network Penetration Testing: Exploitation CTF 1 | R1punjay_Singh | [Read More](https://medium.com/p/dd39ddd02b91) |
+| Sat, 16 May 2026 18:01:01 GMT | CrowdStrike’s Friday — The 78 Minutes That Broke the World’s Windows | Anto Semeraro | [Read More](https://medium.com/p/c900fb935759) |
+| Sat, 16 May 2026 18:00:59 GMT | When graphql is present, race condition isn’t the only way to exceed plan limits | CANITEY | [Read More](https://medium.com/p/6d70584eaf0c) |
+| Sat, 16 May 2026 17:56:11 GMT | MCP Server Security Best Practices to Prevent Risk | Auth Thoughts Editors | [Read More](https://medium.com/p/3193ec4d75bf) |
+| Sat, 16 May 2026 17:55:55 GMT | Linux Has Been Hacked! (But I’m Not Worried) | Michael Swengel | [Read More](https://medium.com/p/95b8976e42c4) |
+| Sat, 16 May 2026 17:52:37 GMT | E-Discovery topics relevant for Cybersecurity Professionals | Alejandra Pacheco | [Read More](https://medium.com/p/b17348ab3012) |
+| Sat, 16 May 2026 17:46:14 GMT | IFC to send investment mission to Nigeria after Tinubu’s meeting in Rwanda presidency. | Thymmyjosh | [Read More](https://medium.com/p/c42a2be950fb) |
+| Sat, 16 May 2026 17:44:44 GMT | Is TheFatRat worth learning in Android Pentesting? | Sazed369 | [Read More](https://medium.com/p/0b1bd7fc9e6b) |
+| Sat, 16 May 2026 17:44:02 GMT | The UAE’s OPEC Exit and India’s Strategic Oil Bet: Why Abu Dhabi storing crude in India is not just… | Alan Shore | [Read More](https://medium.com/p/17b4a23e1eac) |
+| Sat, 16 May 2026 17:38:54 GMT | CTF Solution: Exploiting WordPress Royal Elementor to Root Gridloy | Osman Erdem | [Read More](https://medium.com/p/319db6e67816) |
+| Sat, 16 May 2026 17:33:20 GMT | CVE-2026–20182: A CVSS 10.0 Cisco SD-WAN Bug, Found by Reading the Last Patch | Ali Mansoor | [Read More](https://medium.com/p/f136e9ca7db5) |
+| Sat, 16 May 2026 17:32:54 GMT | How to Scale a Local AI System Where You Upload Documents? | Ali Elmalı | [Read More](https://medium.com/p/40128df16927) |
+| Sat, 16 May 2026 17:31:00 GMT | Episode 7: Breaking Systems to Make Them Safer | Echoes of growth | [Read More](https://medium.com/p/a2e0f41d9f48) |
+| Sat, 16 May 2026 17:30:13 GMT | How I Passed OSCP While Managing a Full-Time Job — Lessons, Mistakes, and the Reality Nobody Talks… | Md. Imran Chowdhury | [Read More](https://medium.com/p/77a412bf2d64) |
+| Sat, 16 May 2026 17:18:35 GMT | From Zero to Jr. Penetration Tester — FULL COURSE ( FREE SERIES STARTS NOW ) | Md. Imran Chowdhury | [Read More](https://medium.com/p/25a7b2393389) |
+| Sat, 16 May 2026 17:15:57 GMT | ShieldForge Now Scans 95 Chains: Bitcoin-DeFi, CEX-Userbase Tier-B Sweep | ShielfForge - Web3 Wallet Security News | [Read More](https://medium.com/p/f32edf08319c) |
+| Sat, 16 May 2026 17:11:28 GMT | Cybersecurity, AI, and the Future of Human Trust | Kongkham Singh | [Read More](https://medium.com/p/699b9f983031) |
 | Sat, 16 May 2026 17:07:51 GMT | Cyber Heist Investigation - Bank CTF Breakdown | Pentester Club | [Read More](https://medium.com/p/27249fc6734e) |
 | Sat, 16 May 2026 17:05:01 GMT | Crack The Hash Level 2 — THM | Fadybasem - ( SilentN0va ) | [Read More](https://medium.com/p/66ad5611e265) |
 | Sat, 16 May 2026 17:02:09 GMT | Crack the hash — THM | Fadybasem - ( SilentN0va ) | [Read More](https://medium.com/p/590b65f12040) |
@@ -92,26 +117,3 @@ In today’s digital age, almost… | Salmayorita | [Read More](https://medium.c
 | Sat, 16 May 2026 11:42:52 GMT | Difference Between TCP and UDP: Which Protocol Is Faster and More Reliable? | Shalu | [Read More](https://medium.com/p/82ae4e98da5f) |
 | Sat, 16 May 2026 11:40:58 GMT | BlackOctopus PhaaS: From a Phishing Email to Claude Sonnet | Dark Jester | [Read More](https://medium.com/p/346a59482dd8) |
 | Sat, 16 May 2026 11:39:36 GMT | How I Passed the CODESPECT Audit in Record Time (And What I Wish I Knew Before Starting) | SKYFOR | [Read More](https://medium.com/p/3ce5362b52b5) |
-| Sat, 16 May 2026 11:37:07 GMT | Malware Removal 2026 — Complete Website Security & Protection Guide | Muhammad Shihabur Rahman | [Read More](https://medium.com/p/6253cf852f0b) |
-| Sat, 16 May 2026 11:36:41 GMT | My Linux kernel patch got merged by Andrew Morton. | Kartik Nair | [Read More](https://medium.com/p/0de1f0c56a2b) |
-| Sat, 16 May 2026 11:31:52 GMT | What future for the Quad? | Democracy Asia | [Read More](https://medium.com/p/6ed78c928287) |
-| Sat, 16 May 2026 11:29:06 GMT | IS THIS THE END OF CYBERSECURITY? | Akintibubo Timilehin | [Read More](https://medium.com/p/0b874fef9000) |
-| Sat, 16 May 2026 11:26:43 GMT | Study MS in Information Technology in Germany | Overseasanigdha | [Read More](https://medium.com/p/761501c5c31f) |
-| Sat, 16 May 2026 11:20:12 GMT | The 5% Deficit: Defending the Last Frontier of Web3 and Hardware Security | 周伟 | [Read More](https://medium.com/p/9521e5c5eab4) |
-| Sat, 16 May 2026 11:19:05 GMT | Redragon M908 — Pusat V8 MMO Oyuncu Mouse Linux’ta Neden Bazen Mouse Değil Klavye Gibi Davranıyor? | Ali Gündoğar | [Read More](https://medium.com/p/ff96d4da3139) |
-| Sat, 16 May 2026 11:18:25 GMT | The Day One Config Change Took Down an Entire Organisation’s VPN | Anon | [Read More](https://medium.com/p/c66d4b00892f) |
-| Sat, 16 May 2026 11:16:25 GMT | Guardrails, Not Roadblocks: How to Partner Safely with Agentic AI Assistants | Rai Miralles Febrer | [Read More](https://medium.com/p/4d01e9864225) |
-| Sat, 16 May 2026 11:16:21 GMT | OWASP Top 10 Explained for Beginners (Simple Guide) | Shalu | [Read More](https://medium.com/p/1b9693e91550) |
-| Sat, 16 May 2026 11:16:17 GMT | How to Choose Predictive Analytics Consulting Services In 2026 | Davin Convay | [Read More](https://medium.com/p/931d07b84424) |
-| Sat, 16 May 2026 11:10:03 GMT | How AI Just Changed the macOS Security Game Forever | Learn With Hatty | [Read More](https://medium.com/p/531e4e7545e2) |
-| Sat, 16 May 2026 11:01:40 GMT | The Ghost in the Glass: The True Human Cost of Staying Hidden | Mohit | [Read More](https://medium.com/p/472ba2d55c39) |
-| Sat, 16 May 2026 10:51:00 GMT | Modern Cybersecurity Architecture: What is Layered Security | Omer Akin | [Read More](https://medium.com/p/44edf687dcc1) |
-| Sat, 16 May 2026 10:45:36 GMT | Fonte Primária Flavia Ferronato, Du Cavendish, Marcos Bellizia e Marcio Furtado — Política —… | Marcos Bellizia | [Read More](https://medium.com/p/ab95ee9d8dd7) |
-| Sat, 16 May 2026 10:38:09 GMT | Centurion Payment Services | Mnm | [Read More](https://medium.com/p/cfd8aedb9208) |
-| Sat, 16 May 2026 10:32:36 GMT | Plugged In, Left Open — How I Found 951 Exposed EV Charging Stations Worldwide Using Modat Magnify | hacker_might | [Read More](https://medium.com/p/3190a736033a) |
-| Sat, 16 May 2026 10:31:00 GMT | $100 Million. The Most Advanced AI Model Ever Built. Just Marketing Hype. | Can Artuc | [Read More](https://medium.com/p/643f826f22b6) |
-| Sat, 16 May 2026 10:30:53 GMT | Medium Article (English) | Kemalkarakaplan | [Read More](https://medium.com/p/6be91999b217) |
-| Sat, 16 May 2026 10:12:34 GMT | Your Second Brain Is Someone Else’s Database | Divin George | [Read More](https://medium.com/p/c06aac40c07d) |
-| Sat, 16 May 2026 10:12:13 GMT | The Most Valuable Person in the AI Era Isn’t the Generalist. It’s the Specialist Who Got Curious. | Jaymar Lagrimas | [Read More](https://medium.com/p/f2ce850f856d) |
-| Sat, 16 May 2026 10:04:04 GMT | The Reach of the Proxies: Al-Saadi and the New Era of Global Terror | Golda Mizrahi | [Read More](https://medium.com/p/54bdd05c6fd6) |
-| Sat, 16 May 2026 10:04:04 GMT | Ethical Hacking Course in Calicut | Dotcomsubhan | [Read More](https://medium.com/p/4eb196b5c305) |
