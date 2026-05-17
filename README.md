@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 14:00:40 GMT | Write-Up CTF #3 — LFI + PHP Null Byte Injection | ikoo | [Read More](https://medium.com/p/9f405d7d3b8e) |
+| Sun, 17 May 2026 13:59:32 GMT | Anonymous — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/a574fd6577ad) |
+| Sun, 17 May 2026 13:55:49 GMT | HackTheBox Writeup-Soulmate | moko55 | [Read More](https://medium.com/p/53a7261c719e) |
+| Sun, 17 May 2026 13:51:53 GMT | HackTheBox Writeup-Expressway | moko55 | [Read More](https://medium.com/p/ae848fcf709e) |
+| Sun, 17 May 2026 13:49:30 GMT | Cracking the RootMe CTF on TryHackMe | Abhinav | [Read More](https://medium.com/p/96645f471f48) |
+| Sun, 17 May 2026 13:44:42 GMT | Outsourcing Trust: “this .exe is safe to run” | Aayush Agrawal | [Read More](https://medium.com/p/464e3547c2d3) |
+| Sun, 17 May 2026 13:41:09 GMT | Guarded Agency: The Mission Command Model for AI-Era Defense | Michael Thiessmeier | [Read More](https://medium.com/p/525bf8fd5ffc) |
+| Sun, 17 May 2026 13:29:53 GMT | Will Customers Trust AI More Than Human Support? | Roshini Kennenor | [Read More](https://medium.com/p/57f2b13dbecc) |
+| Sun, 17 May 2026 13:27:24 GMT | Hosted VPN vs Self-Hosted VPN: Which One Should You Choose? | Sureshksidkidu | [Read More](https://medium.com/p/f31a5e3ba4c1) |
+| Sun, 17 May 2026 13:19:38 GMT | Your SLSA Provenance Is Lying to You | Heinan Cabouly | [Read More](https://medium.com/p/e64dfbb60507) |
+| Sun, 17 May 2026 13:08:39 GMT | Hollywood Has a Voice Problem. SAG-AFTRA Cannot Fix It Alone. | Eliot Cohen Bacrie | [Read More](https://medium.com/p/329b36ff9971) |
+| Sun, 17 May 2026 13:07:40 GMT | Başlangıç İçin 10 Linux Komutu | Selma Caliskan | [Read More](https://medium.com/p/56c0b11d86ae) |
+| Sun, 17 May 2026 13:01:19 GMT | YellowKey: The BitLocker Bypass That Needs Only a USB Stick and One Held Key | Afi0pchik | [Read More](https://medium.com/p/b6549fbef924) |
+| Sun, 17 May 2026 13:00:54 GMT | Fragnesia (CVE-2026–46300): Why Your Dirty Frag Patch Left You Exposed | Afi0pchik | [Read More](https://medium.com/p/7d86f7ea093f) |
+| Sun, 17 May 2026 12:59:14 GMT | Compliance Theater: Why Passing an Audit Does Not Mean You Are Secure | Travis Ray Caverhill | [Read More](https://medium.com/p/d8ce5a3198d2) |
+| Sun, 17 May 2026 12:57:24 GMT | Terror Labels, Enemy, the State and Indonesian Cases | Eryan Dwiki | [Read More](https://medium.com/p/902ca6ff676b) |
+| Sun, 17 May 2026 12:56:59 GMT | I Bypassed AppArmor Without Disabling It — Using eBPF | Azizcan Dastan | [Read More](https://medium.com/p/a12061a72369) |
 | Sun, 17 May 2026 12:08:49 GMT | Kerberoasting Explained: From Ticket Request to Cracking Service Account Passwords | Mazen Elsayed | [Read More](https://medium.com/p/f2cc14a23b2c) |
 | Sun, 17 May 2026 12:03:55 GMT | Remote Code Execution (RCE) from a Secure Code Review Perspective | Aryah | [Read More](https://medium.com/p/55b560cdde47) |
 | Sun, 17 May 2026 12:01:00 GMT | Can Artificial Intelligence Replace Cybersecurity Jobs Completely? | Karanam Shrivasta | [Read More](https://medium.com/p/6003c85a6a50) |
@@ -96,20 +113,3 @@ What Every Engineer Should Know | Sandun Amarathunga | [Read More](https://mediu
 | Sun, 17 May 2026 05:18:54 GMT | Android SSL Pinning Bypass: Every Technique Ranked in 2025 | Akifkhan | [Read More](https://medium.com/p/6b14acfb09b7) |
 | Sun, 17 May 2026 05:03:49 GMT | How to Pentest Any AI Agent: A Security Engineer’s Playbook | Jitendar Singh | [Read More](https://medium.com/p/2b50ee495907) |
 | Sun, 17 May 2026 04:58:04 GMT | Basic Pentesting in a Virtual Lab Environment | azhrscsptr | [Read More](https://medium.com/p/9c89b8ab5e23) |
-| Sun, 17 May 2026 04:57:18 GMT | Dead Weight | Data Noir | [Read More](https://medium.com/p/ecfb90c7185d) |
-| Sun, 17 May 2026 04:54:18 GMT | Allow All | Data Noir | [Read More](https://medium.com/p/3f4961b29963) |
-| Sun, 17 May 2026 04:46:20 GMT | OpenAI Got Hit by a Six-Minute npm Attack. npm Wasn’t the Real Problem. | Kusireddy | [Read More](https://medium.com/p/36b2bb408d7a) |
-| Sun, 17 May 2026 04:38:43 GMT | ⏳ Mistakes That Waste Time — The Habits That Keep Hunters Stuck | ghostyjoe | [Read More](https://medium.com/p/92792edda773) |
-| Sun, 17 May 2026 04:07:42 GMT | How Your I Phone Sees in the Dark From IR Lasers to Vector Databases: Engineering Biometrics at… | Sachith Lakshitha | [Read More](https://medium.com/p/6d8a8693471b) |
-| Sun, 17 May 2026 04:07:17 GMT | You Are Never Browsing Alone | 404 | [Read More](https://medium.com/p/5478b0632555) |
-| Sun, 17 May 2026 04:02:08 GMT | AI agents aren’t microservices | Arpit Nigam (Maverick) | [Read More](https://medium.com/p/da58b8fb8be7) |
-| Sun, 17 May 2026 03:59:47 GMT | Personal and Corporate Security in an Agentic World | Keith MacKay | [Read More](https://medium.com/p/19ec5842acd5) |
-| Sun, 17 May 2026 03:34:37 GMT | Hackthebox Oopsie Walkthrough | Aayatullah Adeyemi | [Read More](https://medium.com/p/e20ca0709c51) |
-| Sun, 17 May 2026 03:31:00 GMT | I Got a Sextortion Email — So I Traced It Back to Korea | Robert Hogan | [Read More](https://medium.com/p/0fa9d1d51482) |
-| Sun, 17 May 2026 03:23:05 GMT | Wireless Networking | Udai Senevirathne | [Read More](https://medium.com/p/e6408396d210) |
-| Sun, 17 May 2026 03:19:10 GMT | This AI Tool Found Bugs in My Repo I Didn’t Know Existed | Sonu Yadav | [Read More](https://medium.com/p/41a63d07f089) |
-| Sun, 17 May 2026 03:16:50 GMT | Alleged Exposure of Afghan Government-Linked Infrastructure Through Open-Indexed Server | Jzzzz1qw | [Read More](https://medium.com/p/13f8f9ba5506) |
-| Sun, 17 May 2026 03:00:31 GMT | The CAT-WAY Experiment: How Japanese Slang Hacked LinkedIn’s Algorithm | Taro  Yamada | [Read More](https://medium.com/p/1d25e9ad67bb) |
-| Sun, 17 May 2026 02:58:58 GMT | The Advanced Wireshark Guide (4.6.5) aka Episode 2 | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/a998fd9105fe) |
-| Sun, 17 May 2026 02:56:26 GMT | API Authentication: Part III. JWT Tokens | Eugene Zimin | [Read More](https://medium.com/p/f511d5dfb43a) |
-| Sun, 17 May 2026 02:56:19 GMT | The 3 Bug Hunting Habits That Made Me Go From $0 to $5k (And None of Them Are “Run a Scanner”) | Decline | [Read More](https://medium.com/p/ef4a36067fec) |
