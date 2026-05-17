@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 09:36:30 GMT | Channel and Partner Marketing in SaaS: How Partnerships Drive Scalable Growth | Sahil Gadroo | [Read More](https://medium.com/p/02c6c0893790) |
+| Sun, 17 May 2026 09:32:33 GMT | 4 Secure Coding Habits Every Java Developer Needs Before Their Next Deploy | Rajalaxmi | [Read More](https://medium.com/p/3e2e90bd3dc0) |
+| Sun, 17 May 2026 09:29:37 GMT | Why Cybercriminals Love Senior Online Banking (And How to Protect Your Wealth) | bramantyo | [Read More](https://medium.com/p/c615b9760b9f) |
+| Sun, 17 May 2026 09:24:31 GMT | Kalkulator BMI.... | Zurichsabil | [Read More](https://medium.com/p/53d66cae9d51) |
+| Sun, 17 May 2026 09:20:09 GMT | Tools for Web Applications Stress Testing (Load & Performance Validation) | Adam Pentester | [Read More](https://medium.com/p/b0e1f7503cd9) |
+| Sun, 17 May 2026 09:18:14 GMT | The Future of Technology | Aarav Rawat | [Read More](https://medium.com/p/fb779b92afa7) |
+| Sun, 17 May 2026 09:14:22 GMT | How a Random Number Generator in Mullvad Can Fingerprint You Online | Thomas Lumesberger | [Read More](https://medium.com/p/bc10e23c67c9) |
+| Sun, 17 May 2026 09:08:50 GMT | ShinyHunters Telegram Attribution Claims: Analysis of Timeline Inversion, Identity Reconstruction… | Jzzzz1qw | [Read More](https://medium.com/p/4bcaf3cfa72b) |
+| Sun, 17 May 2026 09:08:49 GMT | The Randomness Illusion: Why Your Java App’s Random Numbers Might Be Completely Predictable | Jawad Zaarour | [Read More](https://medium.com/p/df6917222550) |
+| Sun, 17 May 2026 09:00:32 GMT | Managing Transitive Dependencies and CVE Fixes in Enterprise Software | Vivek Pemawat | [Read More](https://medium.com/p/39d3561050c2) |
+| Sun, 17 May 2026 08:55:31 GMT | How a Simple Self XSS Became Stored XSS | Parth Narula | [Read More](https://medium.com/p/307d30281a66) |
+| Sun, 17 May 2026 08:50:01 GMT | Phone Paranoia & Data Protection-Easy Steps | Liz Lucy Robillard | [Read More](https://medium.com/p/8ad97be3c1d4) |
+| Sun, 17 May 2026 08:44:36 GMT | Why AAA Cybersecurity Is Becoming Non-Negotiable for Smart Inverters in the Modern Grid | Ramandeep Bagri | [Read More](https://medium.com/p/9292903d7f16) |
+| Sun, 17 May 2026 08:43:56 GMT | OSINT Briefing: Hacker News and Cybersecurity — May 17, 2026 | Gianluca Galimberti | [Read More](https://medium.com/p/c1979614fbb9) |
+| Sun, 17 May 2026 08:43:53 GMT | Investigating a Phishing URL Alert — SOC141: Phishing URL Detected - LetsDefend SOC Walkthrough | Ajaydevsv | [Read More](https://medium.com/p/b7a68d48cd45) |
+| Sun, 17 May 2026 08:40:44 GMT | Business Logic Zafiyetler | Burkay Elbir | [Read More](https://medium.com/p/4abe392fe1d2) |
+| Sun, 17 May 2026 08:37:36 GMT | How to Wipe Yourself From the Internet Using AI: The Complete 2025 Guide (ChatGPT & Claude) | Kalpi Prasad - Founder of Renown Lending | [Read More](https://medium.com/p/72321fcf425b) |
+| Sun, 17 May 2026 08:32:42 GMT | The Next Important Crypto Infrastructure May Come From a Different Direction | Yuni | [Read More](https://medium.com/p/261398df76de) |
+| Sun, 17 May 2026 08:30:53 GMT | 3 Ways to Build Stronger Information Security in Cybersecurity | Abosede Ogunlade | [Read More](https://medium.com/p/2d345799800c) |
+| Sun, 17 May 2026 08:24:24 GMT | Missing Authorization in SourceCodester Ship/Ferry Ticket Reservation System Leads to Unauthorized… | Hemant Raj Bhati | [Read More](https://medium.com/p/7783134d6596) |
+| Sun, 17 May 2026 08:19:33 GMT | How CAPTCHA Secretly Detects Bots Before You Click Anything | Novruz Bahramov | [Read More](https://medium.com/p/65569bd48b71) |
+| Sun, 17 May 2026 08:13:51 GMT | OWASP Application Security Risk 10:2025 A09 Security Logging & Alerting Failures | Tiago Silva | [Read More](https://medium.com/p/8a17fb3c87ba) |
 | Sun, 17 May 2026 07:51:58 GMT | How I Investigated a Lumma Stealer Attack Disguised as a Windows 11 Update | DeadHack | [Read More](https://medium.com/p/b1fe876f9c14) |
 | Sun, 17 May 2026 07:46:14 GMT | Red Teaming Beyond the Keyboard— | KrypT0n-Z | [Read More](https://medium.com/p/cd4e69755519) |
 | Sun, 17 May 2026 07:34:32 GMT | Building an Open-Source DeFi Security RAG for AI-Assisted Web3 Audits | Chen Xu, Ph.D, CFA | [Read More](https://medium.com/p/fd5acf6ddf34) |
@@ -92,25 +114,3 @@ Boundary Between Help Desk and… | Zedikiah Choo | [Read More](https://medium.c
 | Sat, 16 May 2026 21:40:51 GMT | Defending Your Wallet Against AI-Powered Phishing Scams | ShielfForge - Web3 Wallet Security News | [Read More](https://medium.com/p/8cff27298acf) |
 | Sat, 16 May 2026 21:29:35 GMT | AI Social Engineering: When Cyber Attacks Start Targeting Human Trust | Temidayo Salami | [Read More](https://medium.com/p/26b92cef0715) |
 | Sat, 16 May 2026 21:13:33 GMT | MCP Architecture & Security: What You Need to Know | Muaaz | [Read More](https://medium.com/p/64926f865bd8) |
-| Sat, 16 May 2026 21:02:46 GMT | “Man Up” Is Slowly Destroying Boys | Amanda Diachi | [Read More](https://medium.com/p/1f63e330daf2) |
-| Sat, 16 May 2026 20:59:32 GMT | Morse Code: The Hidden Language That Sparked My Curiosity and Made Me Feel Unique | Hemanth Mouli.ch | [Read More](https://medium.com/p/6e7472efa29d) |
-| Sat, 16 May 2026 20:57:18 GMT | Chaining ACL Abuse, Shadow Credentials, and AD CS ESC16 Into Domain Compromise | Md Fahim Al Shihab | [Read More](https://medium.com/p/dd90fdbbb4b1) |
-| Sat, 16 May 2026 20:48:40 GMT | Strategy is Such a Lonely Word | Carol Smaldino | [Read More](https://medium.com/p/658b52170af8) |
-| Sat, 16 May 2026 20:47:19 GMT | My Journey Into Bug Bounty & Security Research Begins | imarvisec | [Read More](https://medium.com/p/691c9f1239d4) |
-| Sat, 16 May 2026 20:44:39 GMT | My software want a real computer not a sandbox | _ayman_ | [Read More](https://medium.com/p/37f371400db9) |
-| Sat, 16 May 2026 20:32:31 GMT | CVE-2026-42197: Stored XSS via User Profile → Admin Session Hijacking in RELATE LMS | Ruslan Amrahov | [Read More](https://medium.com/p/5652c152bd40) |
-| Sat, 16 May 2026 20:12:02 GMT | How Small Websites Get Hacked (Real Examples) | Mubashir | [Read More](https://medium.com/p/3ee79d478c42) |
-| Sat, 16 May 2026 20:11:00 GMT | The Scariest API Attacks Are Boring: Anatomy of API Abuse | Tugan Atila | [Read More](https://medium.com/p/9cb2d8361505) |
-| Sat, 16 May 2026 20:01:00 GMT | Building Scalable Automation Systems for Modern Financial Platforms | Winifred Sunday | [Read More](https://medium.com/p/cb9ed3d76c85) |
-| Sat, 16 May 2026 19:51:46 GMT | The AI Security Gap Most Teams Don’t Know They Have | Pushkar Mandot | [Read More](https://medium.com/p/084ab56a6eba) |
-| Sat, 16 May 2026 19:44:57 GMT | How I Built a Cybersecurity Playground on a Weak Laptop | Samuel Damon | [Read More](https://medium.com/p/76776978fd5b) |
-| Sat, 16 May 2026 19:28:15 GMT | The Invisible Fingerprints That Get Your Scraper Blocked | Dimitri DO BAIRRO | [Read More](https://medium.com/p/a8b95272c255) |
-| Sat, 16 May 2026 19:26:30 GMT | How I Bypassed SaaS Subscription Limits and Generated Unlimited API Keys. | OWL | [Read More](https://medium.com/p/ac52eab4b243) |
-| Sat, 16 May 2026 19:22:44 GMT | MCP Tool Responses in Claude Skills: Reasoning Quality, Cost, and Secure Credential Delivery | Noor Syed | [Read More](https://medium.com/p/200741e2830f) |
-| Sat, 16 May 2026 19:16:52 GMT | The Mythos Exploitation: How Anthropic’s Unreleased AI Bypassed macOS Security | An Nguyen | [Read More](https://medium.com/p/4283f35e27ea) |
-| Sat, 16 May 2026 19:12:06 GMT | Snapped Phish-ing Line | Melbertibabao | [Read More](https://medium.com/p/7c1825e4bc00) |
-| Sat, 16 May 2026 19:10:26 GMT | UTM Appliances Explained: Every Question a Non-Technical Founder Actually Asks | CacheGuard Technologies | [Read More](https://medium.com/p/704d2f0ec8fa) |
-| Sat, 16 May 2026 19:00:01 GMT | BBSCute - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/6b2209895cb6) |
-| Sat, 16 May 2026 18:57:49 GMT | Someone Just Walked Through 225,000 Enterprise Firewalls. | Jazz Cyber Shield | [Read More](https://medium.com/p/ae3c816bc2d0) |
-| Sat, 16 May 2026 18:57:07 GMT | Why Is Hotel Security Officer a Vital Investment for Your Business? | Dynamic security solution ltd | [Read More](https://medium.com/p/154487bd0f78) |
-| Sat, 16 May 2026 18:49:37 GMT | Synthesizing Security Concepts: Building a Cohesive Cybersecurity Strategy | Mirrasul Ismayilov | [Read More](https://medium.com/p/c09b8f05d463) |
