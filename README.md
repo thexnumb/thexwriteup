@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 01:15:48 GMT | Why You Can’t Just fork() in managed languages: The Journey to a Secure C# Code Grader | Gerald | [Read More](https://medium.com/p/32eaa8b5e39b) |
+| Sun, 17 May 2026 01:06:13 GMT | Why Concrete Vaults Are Becoming the Backbone of Modern DeFi | Irfanmendo | [Read More](https://medium.com/p/9deb4ccff5bb) |
+| Sun, 17 May 2026 00:39:06 GMT | The Mac Maintenance Minefield: How to Spot a “Safe” App Without Getting Scammed | CleanDiskGo | [Read More](https://medium.com/p/79e1938ba247) |
+| Sun, 17 May 2026 00:27:02 GMT | OpenAI Breach: TanStack Supply Chain Attack | SOCFortress | [Read More](https://medium.com/p/c53a7cc9d8d9) |
+| Sun, 17 May 2026 00:18:26 GMT | IDOR Vulnerabilities in Delivery Platform Affecting 5.4M+ Drivers | Abdul Haq Khokhar | [Read More](https://medium.com/p/ca4c8790493b) |
+| Sun, 17 May 2026 00:17:53 GMT | Top 5 M365 Misconfigurations I’ve Seen in Enterprise Environments | Eusebio@IT-SEC | [Read More](https://medium.com/p/19fdae532d19) |
+| Sun, 17 May 2026 00:09:41 GMT | The Time I Built an Anti-Bot Gate and Cloudflare Treated It Like a Bot | hide | [Read More](https://medium.com/p/6677e56806d6) |
+| Sun, 17 May 2026 00:08:40 GMT | Tired of AI Limits? How to Run Your Own Local AI Server (No Subscription Required). | Garythatcher | [Read More](https://medium.com/p/c9cc9c53e1a2) |
+| Sun, 17 May 2026 00:02:39 GMT | Advancing Cloud-Native Cybersecurity and Intelligent IoT Infrastructure for Telecommunications | Mr Sureshs | [Read More](https://medium.com/p/30eb077f303f) |
+| Sat, 16 May 2026 23:56:39 GMT | WebLogic to Containerization: Modernizing Enterprise Applications for the Cloud Era | Mr Sureshs | [Read More](https://medium.com/p/282e7498008d) |
+| Sat, 16 May 2026 23:35:21 GMT | The Anatomy of Job Creep:
+How Modern IT Exploitation Consumed the
+Boundary Between Help Desk and… | Zedikiah Choo | [Read More](https://medium.com/p/f46d6a53feca) |
+| Sat, 16 May 2026 23:33:36 GMT | MartiniAD  - Hack Smarter Labs Walkthrough | WireHawk Security | [Read More](https://medium.com/p/28e084629ddf) |
+| Sat, 16 May 2026 23:31:18 GMT | Building Realistic Cybersecurity Scenarios for Training and Assessment | Hannah Adam | [Read More](https://medium.com/p/49b5bfc19613) |
+| Sat, 16 May 2026 23:29:00 GMT | GDPR Compliant Web Hosting in the UK: What Every Website Owner Must Know in 2026 | Hostlic Webhosting Ltd | [Read More](https://medium.com/p/d51c0e71c213) |
 | Sat, 16 May 2026 23:21:33 GMT | From Theory to Practice: Why Cybersecurity Training Must Include Simulations | Hannah Adam | [Read More](https://medium.com/p/8cab24f37c3b) |
 | Sat, 16 May 2026 22:59:26 GMT | The Unexpected Gift of Caring | Habil Lokadjaja CACP, CFP | [Read More](https://medium.com/p/8f083dcbceeb) |
 | Sat, 16 May 2026 22:52:25 GMT | The Trojan Skill | Arsalan Pardesi | [Read More](https://medium.com/p/1e87ab6bc93f) |
@@ -102,17 +118,3 @@ Regret Nothing Later | Fidan Aslanova | [Read More](https://medium.com/p/b6fe802
 | Sat, 16 May 2026 16:11:38 GMT | What is Broken Authentication? API2:2023 Explained for Beginners | Abrar Bin Habib | [Read More](https://medium.com/p/0b8e6e7da6b3) |
 | Sat, 16 May 2026 16:05:33 GMT | Malware Through the Lens of Governance | Musa Yusuf Magoban | [Read More](https://medium.com/p/e8ea31d20b80) |
 | Sat, 16 May 2026 15:58:20 GMT | Why Microsoft Won’t Remove “Do Not Require Kerberos Pre-authentication” | Gaurang Jethva | [Read More](https://medium.com/p/0fcbf9dc1c8e) |
-| Sat, 16 May 2026 15:53:35 GMT | Zero Trust Is Not a Product — It Is an Architecture | Suvankar Chakraborty | [Read More](https://medium.com/p/638dbca79424) |
-| Sat, 16 May 2026 15:49:45 GMT | The Greatest Economic Opportunity of the 21st Century | Benjamin Echor | [Read More](https://medium.com/p/f0914cf7c5e2) |
-| Sat, 16 May 2026 15:46:32 GMT | The Crucial Role of Salt in Password Hashing | Hasan Al Mamun | [Read More](https://medium.com/p/23d9168bc3c3) |
-| Sat, 16 May 2026 15:38:55 GMT | Frida Deep Dive: Hook, Bypass & Patch Android Apps at Runtime (2025) | Akifkhan | [Read More](https://medium.com/p/00224916ac46) |
-| Sat, 16 May 2026 15:27:32 GMT | The Hidden Risk of Public Charging: Understanding Juice Jacking | The Emotional  (⁠•⁠‿⁠•⁠) | [Read More](https://medium.com/p/13d1230efe5f) |
-| Sat, 16 May 2026 15:24:43 GMT | AI security is about to become one of the most valuable skills in tech. | Brijesh Dubey | [Read More](https://medium.com/p/e19bf524a7a7) |
-| Sat, 16 May 2026 15:21:27 GMT | Vulnerability Assessment with Nessus: What I Found, Fixed, and Learnt | Damilola Kolade | [Read More](https://medium.com/p/967d3ed203b9) |
-| Sat, 16 May 2026 15:20:16 GMT | Most Cybersecurity Jobs Are Already Losing the AI Battle — Are You on the Wrong Side? | Akhil Sharma | [Read More](https://medium.com/p/95ac4b8794f4) |
-| Sat, 16 May 2026 15:18:52 GMT | Gemini Spark Just Leaked and It Looks Far More Agentic Than Chat | Mehmet Özel | [Read More](https://medium.com/p/60efd4886a89) |
-| Sat, 16 May 2026 15:16:30 GMT | The Engineer at Your Desk Isn’t Your Employee Anymore | Abhishek | [Read More](https://medium.com/p/604e4779efc4) |
-| Sat, 16 May 2026 15:16:08 GMT | Splunk SIEM Deployment: Step-by-Step Guide to Forwarding Windows 10 Logs to an Ubuntu Server | Fethi Ocalan | [Read More](https://medium.com/p/d03ff2e1cfcf) |
-| Sat, 16 May 2026 15:15:30 GMT | The Feeling of “Of Course” | seaphylla | [Read More](https://medium.com/p/386f6310ee92) |
-| Sat, 16 May 2026 15:12:45 GMT | Encryptify — Reinventing Password Security with AI-Powered Intelligence | Rameesha Sheraz | [Read More](https://medium.com/p/6503a6b32b89) |
-| Sat, 16 May 2026 14:39:46 GMT | Threat Modeling: The Security Review Your Team Is Probably Skipping | Shalki Wenushika | [Read More](https://medium.com/p/e18c2d3aeba1) |
