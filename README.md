@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 21:40:25 GMT | AI vs. Human Vulnerability Researchers: The Anthropic Contradiction | Tajamull Hussain | [Read More](https://medium.com/p/6405f3e18d70) |
+| Sun, 17 May 2026 21:34:57 GMT | Gadget Hunting in Practice | Marduk I Am | [Read More](https://medium.com/p/a7f8b08e7d53) |
+| Sun, 17 May 2026 21:23:03 GMT | EX-PHANTOMC2 SECURITY ASSESSMENT AND VALIDATION FRAMEWORK | Extix | [Read More](https://medium.com/p/156dd13537ac) |
+| Sun, 17 May 2026 21:21:39 GMT | Exploring Web Security Through OverTheWire Natas | Mustufasohail | [Read More](https://medium.com/p/878ad5cf6e69) |
+| Sun, 17 May 2026 21:06:55 GMT | Chaining SMB Enumeration, Credential Exposure, and SeBackupPrivilege Into Domain Compromise | Md Fahim Al Shihab | [Read More](https://medium.com/p/c0d7bc0c9b02) |
+| Sun, 17 May 2026 21:04:30 GMT | Beyond Oil: The Rise of the Soft Power Superpower | Ava Martin | [Read More](https://medium.com/p/cb4d0441d237) |
+| Sun, 17 May 2026 21:00:18 GMT | Reversal — HTB Coding Challenge Writeup | KezoSec | [Read More](https://medium.com/p/38b572ffa98d) |
 | Sun, 17 May 2026 20:34:08 GMT | Why Social Media Consistency Matters for Brands | Ayshathsehla | [Read More](https://medium.com/p/af70c95b96b2) |
 | Sun, 17 May 2026 20:32:32 GMT | What’s the difference between IDS and IPS? | Rizki Nabila Pramilia | [Read More](https://medium.com/p/4be5a113900b) |
 | Sun, 17 May 2026 20:31:31 GMT | Why Online Learning is the Future of Higher Education in the USA? | Florida Coastal University | [Read More](https://medium.com/p/73f228bfb33c) |
@@ -105,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 May 2026 12:01:00 GMT | What I’ve been reading (and listening to) week ending 17 May 2026 | Jason Yip | [Read More](https://medium.com/p/677863f24825) |
 | Sun, 17 May 2026 12:00:28 GMT | Building a Secure Kubernetes Platform with Terraform and Kyverno | Ennebet Mohammed | [Read More](https://medium.com/p/247d271df3ea) |
 | Sun, 17 May 2026 11:59:00 GMT | The Vulnerability Scanning Model That Stopped Working at Scale | Rathsara | [Read More](https://medium.com/p/6e95c92e2682) |
-| Sun, 17 May 2026 11:54:55 GMT | Building an Audio Deepfake Detector with ASVspoof and PyTorch | Elif Abanoz | [Read More](https://medium.com/p/00c795ebb04e) |
-| Sun, 17 May 2026 11:54:54 GMT | Gemma 4 vs Gemini: Ang Dalawang Mukha ng AI ng Google sa 2026 | Cezar | [Read More](https://medium.com/p/7f39e0caf41a) |
-| Sun, 17 May 2026 11:48:03 GMT | Patching Oracle RAC GI + RDBMS From 19.19.0.0 to 19.22.0.0 | Adnaan Ahmed Khan | [Read More](https://medium.com/p/77e69ddae1b6) |
-| Sun, 17 May 2026 11:46:18 GMT | Sıfır Tıklama (Zero-Click) Dehşeti: Pegasus | canndalcii | [Read More](https://medium.com/p/a6c591188dc1) |
-| Sun, 17 May 2026 11:44:27 GMT | Post-Quantum Cryptography:
-What Every Engineer Should Know | Sandun Amarathunga | [Read More](https://medium.com/p/881f1f7f72ac) |
-| Sun, 17 May 2026 11:41:28 GMT | Why the CAIO and CISO Are the New Power Couple of AI Governance | Elobeid | [Read More](https://medium.com/p/d1f688228770) |
-| Sun, 17 May 2026 11:41:08 GMT | HTB ‘Blue’ Write-up | Zeyad Mahmoud | [Read More](https://medium.com/p/5efde616a6ac) |
