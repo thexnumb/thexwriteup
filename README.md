@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 12:08:49 GMT | Kerberoasting Explained: From Ticket Request to Cracking Service Account Passwords | Mazen Elsayed | [Read More](https://medium.com/p/f2cc14a23b2c) |
+| Sun, 17 May 2026 12:03:55 GMT | Remote Code Execution (RCE) from a Secure Code Review Perspective | Aryah | [Read More](https://medium.com/p/55b560cdde47) |
+| Sun, 17 May 2026 12:01:00 GMT | Can Artificial Intelligence Replace Cybersecurity Jobs Completely? | Karanam Shrivasta | [Read More](https://medium.com/p/6003c85a6a50) |
+| Sun, 17 May 2026 12:01:00 GMT | What I’ve been reading (and listening to) week ending 17 May 2026 | Jason Yip | [Read More](https://medium.com/p/677863f24825) |
+| Sun, 17 May 2026 12:00:28 GMT | Building a Secure Kubernetes Platform with Terraform and Kyverno | Ennebet Mohammed | [Read More](https://medium.com/p/247d271df3ea) |
+| Sun, 17 May 2026 11:59:00 GMT | The Vulnerability Scanning Model That Stopped Working at Scale | Rathsara | [Read More](https://medium.com/p/6e95c92e2682) |
+| Sun, 17 May 2026 11:54:55 GMT | Building an Audio Deepfake Detector with ASVspoof and PyTorch | Elif Abanoz | [Read More](https://medium.com/p/00c795ebb04e) |
+| Sun, 17 May 2026 11:54:54 GMT | Gemma 4 vs Gemini: Ang Dalawang Mukha ng AI ng Google sa 2026 | Cezar | [Read More](https://medium.com/p/7f39e0caf41a) |
+| Sun, 17 May 2026 11:48:03 GMT | Patching Oracle RAC GI + RDBMS From 19.19.0.0 to 19.22.0.0 | Adnaan Ahmed Khan | [Read More](https://medium.com/p/77e69ddae1b6) |
+| Sun, 17 May 2026 11:46:18 GMT | Sıfır Tıklama (Zero-Click) Dehşeti: Pegasus | canndalcii | [Read More](https://medium.com/p/a6c591188dc1) |
+| Sun, 17 May 2026 11:44:27 GMT | Post-Quantum Cryptography:
+What Every Engineer Should Know | Sandun Amarathunga | [Read More](https://medium.com/p/881f1f7f72ac) |
+| Sun, 17 May 2026 11:41:28 GMT | Why the CAIO and CISO Are the New Power Couple of AI Governance | Elobeid | [Read More](https://medium.com/p/d1f688228770) |
+| Sun, 17 May 2026 11:41:08 GMT | HTB ‘Blue’ Write-up | Zeyad Mahmoud | [Read More](https://medium.com/p/5efde616a6ac) |
+| Sun, 17 May 2026 11:39:28 GMT | How AI Will Reshape Offensive Cyber Security (And Why Hackers Should Pay Attention) | Yua Mikanana | [Read More](https://medium.com/p/15dd5912db7c) |
+| Sun, 17 May 2026 11:37:58 GMT | Kioptrix — 4 | Philip James | [Read More](https://medium.com/p/2a2428bcd5d9) |
+| Sun, 17 May 2026 11:34:51 GMT | Açık Kaynağın Kırılgan Temeli: xz-utils Arka Kapısı | canndalcii | [Read More](https://medium.com/p/ce8f84e4e616) |
+| Sun, 17 May 2026 11:26:37 GMT | California’s revised CCPA rules took effect on January 1, 2026, and they expose a gap that most… | Oran F | [Read More](https://medium.com/p/e4e9b642db65) |
+| Sun, 17 May 2026 11:25:40 GMT | Detecting Secrets, SAST Issues, and Vulnerabilities in CI/CD Pipelines | sourav | [Read More](https://medium.com/p/b68e7b60336d) |
+| Sun, 17 May 2026 11:21:07 GMT | Router vs Switch: What’s the Difference? (Simple Beginner’s Guide) | Shalu | [Read More](https://medium.com/p/e77b2c4a4def) |
+| Sun, 17 May 2026 11:14:48 GMT | HackTheBox — Conversor walkthrough | Osec | [Read More](https://medium.com/p/78c4a0305b31) |
+| Sun, 17 May 2026 11:09:46 GMT | Grafana GitHub Token Breach: Why Source Code Theft Is Becoming a Modern Extortion Weapon | Germano Costi | [Read More](https://medium.com/p/a087ad72a820) |
 | Sun, 17 May 2026 11:01:00 GMT | AI Will Create the Next Era of Cyber Resilience Work | Sherilyn Burris | [Read More](https://medium.com/p/858f8d64cd37) |
 | Sun, 17 May 2026 10:58:20 GMT | Deconstructing ClickFix: How Attacker TDS Exploits AWS WAF and Injects Silent NetSupport RATs | SpearPanic | [Read More](https://medium.com/p/b03161978eaa) |
 | Sun, 17 May 2026 10:54:11 GMT | President Donald Trump departed Beijing without any immediate sign that the US and China have… | Ethan Tech Daily | [Read More](https://medium.com/p/fe197ef4a93c) |
@@ -91,26 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 May 2026 02:58:58 GMT | The Advanced Wireshark Guide (4.6.5) aka Episode 2 | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/a998fd9105fe) |
 | Sun, 17 May 2026 02:56:26 GMT | API Authentication: Part III. JWT Tokens | Eugene Zimin | [Read More](https://medium.com/p/f511d5dfb43a) |
 | Sun, 17 May 2026 02:56:19 GMT | The 3 Bug Hunting Habits That Made Me Go From $0 to $5k (And None of Them Are “Run a Scanner”) | Decline | [Read More](https://medium.com/p/ef4a36067fec) |
-| Sun, 17 May 2026 02:31:00 GMT | Secure Coding in Practice: The 10 Mistakes That Cause 90% of Web Vulnerabilities | Parth Patel | [Read More](https://medium.com/p/e138c7162eeb) |
-| Sun, 17 May 2026 02:28:06 GMT | HSC RTV CTF — Sweet Dreams(Web — 225 pts) | Life of a Pentester | [Read More](https://medium.com/p/9b374256ed6b) |
-| Sun, 17 May 2026 02:25:05 GMT | HSC RTV CTF — BucketWorks (Web — 200 pts) | Life of a Pentester | [Read More](https://medium.com/p/1fcadd128db6) |
-| Sun, 17 May 2026 01:51:17 GMT | I celebrate the Courageous | DudeistJon | [Read More](https://medium.com/p/d11cf73dd81b) |
-| Sun, 17 May 2026 01:15:48 GMT | Why You Can’t Just fork() in managed languages: The Journey to a Secure C# Code Grader | Gerald | [Read More](https://medium.com/p/32eaa8b5e39b) |
-| Sun, 17 May 2026 01:06:13 GMT | Why Concrete Vaults Are Becoming the Backbone of Modern DeFi | Irfanmendo | [Read More](https://medium.com/p/9deb4ccff5bb) |
-| Sun, 17 May 2026 00:39:06 GMT | The Mac Maintenance Minefield: How to Spot a “Safe” App Without Getting Scammed | CleanDiskGo | [Read More](https://medium.com/p/79e1938ba247) |
-| Sun, 17 May 2026 00:27:02 GMT | OpenAI Breach: TanStack Supply Chain Attack | SOCFortress | [Read More](https://medium.com/p/c53a7cc9d8d9) |
-| Sun, 17 May 2026 00:18:26 GMT | IDOR Vulnerabilities in Delivery Platform Affecting 5.4M+ Drivers | Abdul Haq Khokhar | [Read More](https://medium.com/p/ca4c8790493b) |
-| Sun, 17 May 2026 00:17:53 GMT | Top 5 M365 Misconfigurations I’ve Seen in Enterprise Environments | Eusebio@IT-SEC | [Read More](https://medium.com/p/19fdae532d19) |
-| Sun, 17 May 2026 00:09:41 GMT | The Time I Built an Anti-Bot Gate and Cloudflare Treated It Like a Bot | hide | [Read More](https://medium.com/p/6677e56806d6) |
-| Sun, 17 May 2026 00:08:40 GMT | Tired of AI Limits? How to Run Your Own Local AI Server (No Subscription Required). | Garythatcher | [Read More](https://medium.com/p/c9cc9c53e1a2) |
-| Sun, 17 May 2026 00:02:39 GMT | Advancing Cloud-Native Cybersecurity and Intelligent IoT Infrastructure for Telecommunications | Mr Sureshs | [Read More](https://medium.com/p/30eb077f303f) |
-| Sat, 16 May 2026 23:56:39 GMT | WebLogic to Containerization: Modernizing Enterprise Applications for the Cloud Era | Mr Sureshs | [Read More](https://medium.com/p/282e7498008d) |
-| Sat, 16 May 2026 23:35:21 GMT | The Anatomy of Job Creep:
-How Modern IT Exploitation Consumed the
-Boundary Between Help Desk and… | Zedikiah Choo | [Read More](https://medium.com/p/f46d6a53feca) |
-| Sat, 16 May 2026 23:33:36 GMT | MartiniAD  - Hack Smarter Labs Walkthrough | WireHawk Security | [Read More](https://medium.com/p/28e084629ddf) |
-| Sat, 16 May 2026 23:31:18 GMT | Building Realistic Cybersecurity Scenarios for Training and Assessment | Hannah Adam | [Read More](https://medium.com/p/49b5bfc19613) |
-| Sat, 16 May 2026 23:29:00 GMT | GDPR Compliant Web Hosting in the UK: What Every Website Owner Must Know in 2026 | Hostlic Webhosting Ltd | [Read More](https://medium.com/p/d51c0e71c213) |
-| Sat, 16 May 2026 23:21:33 GMT | From Theory to Practice: Why Cybersecurity Training Must Include Simulations | Hannah Adam | [Read More](https://medium.com/p/8cab24f37c3b) |
-| Sat, 16 May 2026 22:59:26 GMT | The Unexpected Gift of Caring | Habil Lokadjaja CACP, CFP | [Read More](https://medium.com/p/8f083dcbceeb) |
-| Sat, 16 May 2026 22:52:25 GMT | The Trojan Skill | Arsalan Pardesi | [Read More](https://medium.com/p/1e87ab6bc93f) |
