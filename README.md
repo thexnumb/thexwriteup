@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 17:51:29 GMT | Топ скинченджеров для CS2 в 2026 году: Моё честное мнение после статьи Марка Херца | Aurelivoines | [Read More](https://medium.com/p/e82bbd389fe3) |
+| Sun, 17 May 2026 17:45:02 GMT | This Is How Every Cyber Attack Actually Starts! | Shahzaib | [Read More](https://medium.com/p/2092832c11fd) |
+| Sun, 17 May 2026 17:42:57 GMT | Strengthening Cybersecurity in a Data-Driven World | Hiedberg Insights | [Read More](https://medium.com/p/abce0e5158e6) |
+| Sun, 17 May 2026 17:41:31 GMT | Day 3: Protocols, DNS, and How the Web Actually Talks. | Adarshraj | [Read More](https://medium.com/p/33111ec877f0) |
+| Sun, 17 May 2026 17:33:38 GMT | Satoshi’s Wallet Wisdom: Staying Safe in a Quantum-Threatened Bitcoin World | Arun Sharma | [Read More](https://medium.com/p/fd74e6ac67b1) |
+| Sun, 17 May 2026 17:33:06 GMT | The Week the Toolchain Became the Kill Chain | The Digital First Responder | [Read More](https://medium.com/p/3cd17456dbcc) |
+| Sun, 17 May 2026 17:31:44 GMT | Nervous OS: Uganda’s Bold Leap Into the Future of Sovereign Computing | Muscle Grea | [Read More](https://medium.com/p/6759885166e4) |
+| Sun, 17 May 2026 17:29:29 GMT | WHAT IS COMPUTER AND HACKING ? | MK ZERO DAY | [Read More](https://medium.com/p/02355048540b) |
+| Sun, 17 May 2026 17:27:29 GMT | Kubernetes User Namespaces: A Major Security Upgrade — But Not the Final Answer | aman kohli | [Read More](https://medium.com/p/91b0bb922e73) |
+| Sun, 17 May 2026 17:13:16 GMT | After all …… it’s just an NPM install !!!! | Shreyash | [Read More](https://medium.com/p/55f82546b8fb) |
+| Sun, 17 May 2026 17:13:12 GMT | Why Layoffs Are Hitting Global IT Right Now — And What Comes Next | Pranav B. Pawar | [Read More](https://medium.com/p/70f1dbe3c1bb) |
+| Sun, 17 May 2026 17:10:59 GMT | eBPF: Hello World Or: how I learned to run code in the kernel without crying | digant patel | [Read More](https://medium.com/p/6e2dda7b0228) |
+| Sun, 17 May 2026 16:56:15 GMT | 4.8 Million Cybersecurity Jobs Exist. So Why Does Your Application Keep Getting Ghosted? | v0id | [Read More](https://medium.com/p/f6a23d35542b) |
+| Sun, 17 May 2026 16:54:26 GMT | What is BOPLA? API3:2023 Broken Object Property Level Authorization Explained for Beginners | Abrar Bin Habib | [Read More](https://medium.com/p/eb0303609046) |
 | Sun, 17 May 2026 16:47:47 GMT | They Fixed the Thing You Didn’t Know Was Broken | Ajay Kumar Bakkashetti | [Read More](https://medium.com/p/0de414999c78) |
 | Sun, 17 May 2026 16:42:56 GMT | What Is The Quantum Computer Threat to Bitcoin? | VTECH | [Read More](https://medium.com/p/fdbf14b29eb1) |
 | Sun, 17 May 2026 16:41:11 GMT | Is MovieBox Pro Safe to UseIs MovieBox Pro Safe to Use on Android and iPhone? | CineStream Insights | [Read More](https://medium.com/p/3b8966391af2) |
@@ -99,17 +113,3 @@ What Every Engineer Should Know | Sandun Amarathunga | [Read More](https://mediu
 | Sun, 17 May 2026 09:14:22 GMT | How a Random Number Generator in Mullvad Can Fingerprint You Online | Thomas Lumesberger | [Read More](https://medium.com/p/bc10e23c67c9) |
 | Sun, 17 May 2026 09:08:50 GMT | ShinyHunters Telegram Attribution Claims: Analysis of Timeline Inversion, Identity Reconstruction… | Jzzzz1qw | [Read More](https://medium.com/p/4bcaf3cfa72b) |
 | Sun, 17 May 2026 09:08:49 GMT | The Randomness Illusion: Why Your Java App’s Random Numbers Might Be Completely Predictable | Jawad Zaarour | [Read More](https://medium.com/p/df6917222550) |
-| Sun, 17 May 2026 09:00:32 GMT | Managing Transitive Dependencies and CVE Fixes in Enterprise Software | Vivek Pemawat | [Read More](https://medium.com/p/39d3561050c2) |
-| Sun, 17 May 2026 08:55:31 GMT | How a Simple Self XSS Became Stored XSS | Parth Narula | [Read More](https://medium.com/p/307d30281a66) |
-| Sun, 17 May 2026 08:50:01 GMT | Phone Paranoia & Data Protection-Easy Steps | Liz Lucy Robillard | [Read More](https://medium.com/p/8ad97be3c1d4) |
-| Sun, 17 May 2026 08:44:36 GMT | Why AAA Cybersecurity Is Becoming Non-Negotiable for Smart Inverters in the Modern Grid | Ramandeep Bagri | [Read More](https://medium.com/p/9292903d7f16) |
-| Sun, 17 May 2026 08:43:56 GMT | OSINT Briefing: Hacker News and Cybersecurity — May 17, 2026 | Gianluca Galimberti | [Read More](https://medium.com/p/c1979614fbb9) |
-| Sun, 17 May 2026 08:43:53 GMT | Investigating a Phishing URL Alert — SOC141: Phishing URL Detected - LetsDefend SOC Walkthrough | Ajaydevsv | [Read More](https://medium.com/p/b7a68d48cd45) |
-| Sun, 17 May 2026 08:40:44 GMT | Business Logic Zafiyetler | Burkay Elbir | [Read More](https://medium.com/p/4abe392fe1d2) |
-| Sun, 17 May 2026 08:37:36 GMT | How to Wipe Yourself From the Internet Using AI: The Complete 2025 Guide (ChatGPT & Claude) | Kalpi Prasad - Founder of Renown Lending | [Read More](https://medium.com/p/72321fcf425b) |
-| Sun, 17 May 2026 08:32:42 GMT | The Next Important Crypto Infrastructure May Come From a Different Direction | Yuni | [Read More](https://medium.com/p/261398df76de) |
-| Sun, 17 May 2026 08:30:53 GMT | 3 Ways to Build Stronger Information Security in Cybersecurity | Abosede Ogunlade | [Read More](https://medium.com/p/2d345799800c) |
-| Sun, 17 May 2026 08:24:24 GMT | Missing Authorization in SourceCodester Ship/Ferry Ticket Reservation System Leads to Unauthorized… | Hemant Raj Bhati | [Read More](https://medium.com/p/7783134d6596) |
-| Sun, 17 May 2026 08:19:33 GMT | How CAPTCHA Secretly Detects Bots Before You Click Anything | Novruz Bahramov | [Read More](https://medium.com/p/65569bd48b71) |
-| Sun, 17 May 2026 08:13:51 GMT | OWASP Application Security Risk 10:2025 A09 Security Logging & Alerting Failures | Tiago Silva | [Read More](https://medium.com/p/8a17fb3c87ba) |
-| Sun, 17 May 2026 07:51:58 GMT | How I Investigated a Lumma Stealer Attack Disguised as a Windows 11 Update | DeadHack | [Read More](https://medium.com/p/b1fe876f9c14) |
