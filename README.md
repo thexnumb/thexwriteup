@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 05:03:49 GMT | How to Pentest Any AI Agent: A Security Engineer’s Playbook | Jitendar Singh | [Read More](https://medium.com/p/2b50ee495907) |
+| Sun, 17 May 2026 04:58:04 GMT | Basic Pentesting in a Virtual Lab Environment | azhrscsptr | [Read More](https://medium.com/p/9c89b8ab5e23) |
+| Sun, 17 May 2026 04:57:18 GMT | Dead Weight | Data Noir | [Read More](https://medium.com/p/ecfb90c7185d) |
+| Sun, 17 May 2026 04:54:18 GMT | Allow All | Data Noir | [Read More](https://medium.com/p/3f4961b29963) |
+| Sun, 17 May 2026 04:46:20 GMT | OpenAI Got Hit by a Six-Minute npm Attack. npm Wasn’t the Real Problem. | Kusireddy | [Read More](https://medium.com/p/36b2bb408d7a) |
+| Sun, 17 May 2026 04:38:43 GMT | ⏳ Mistakes That Waste Time — The Habits That Keep Hunters Stuck | ghostyjoe | [Read More](https://medium.com/p/92792edda773) |
+| Sun, 17 May 2026 04:07:42 GMT | How Your I Phone Sees in the Dark From IR Lasers to Vector Databases: Engineering Biometrics at… | Sachith Lakshitha | [Read More](https://medium.com/p/6d8a8693471b) |
+| Sun, 17 May 2026 04:07:17 GMT | You Are Never Browsing Alone | 404 | [Read More](https://medium.com/p/5478b0632555) |
+| Sun, 17 May 2026 04:02:08 GMT | AI agents aren’t microservices | Arpit Nigam (Maverick) | [Read More](https://medium.com/p/da58b8fb8be7) |
+| Sun, 17 May 2026 03:59:47 GMT | Personal and Corporate Security in an Agentic World | Keith MacKay | [Read More](https://medium.com/p/19ec5842acd5) |
+| Sun, 17 May 2026 03:34:37 GMT | Hackthebox Oopsie Walkthrough | Aayatullah Adeyemi | [Read More](https://medium.com/p/e20ca0709c51) |
+| Sun, 17 May 2026 03:31:00 GMT | I Got a Sextortion Email — So I Traced It Back to Korea | Robert Hogan | [Read More](https://medium.com/p/0fa9d1d51482) |
+| Sun, 17 May 2026 03:23:05 GMT | Wireless Networking | Udai Senevirathne | [Read More](https://medium.com/p/e6408396d210) |
+| Sun, 17 May 2026 03:19:10 GMT | This AI Tool Found Bugs in My Repo I Didn’t Know Existed | Sonu Yadav | [Read More](https://medium.com/p/41a63d07f089) |
+| Sun, 17 May 2026 03:16:50 GMT | Alleged Exposure of Afghan Government-Linked Infrastructure Through Open-Indexed Server | Jzzzz1qw | [Read More](https://medium.com/p/13f8f9ba5506) |
+| Sun, 17 May 2026 03:00:31 GMT | The CAT-WAY Experiment: How Japanese Slang Hacked LinkedIn’s Algorithm | Taro  Yamada | [Read More](https://medium.com/p/1d25e9ad67bb) |
+| Sun, 17 May 2026 02:58:58 GMT | The Advanced Wireshark Guide (4.6.5) aka Episode 2 | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/a998fd9105fe) |
+| Sun, 17 May 2026 02:56:26 GMT | API Authentication: Part III. JWT Tokens | Eugene Zimin | [Read More](https://medium.com/p/f511d5dfb43a) |
+| Sun, 17 May 2026 02:56:19 GMT | The 3 Bug Hunting Habits That Made Me Go From $0 to $5k (And None of Them Are “Run a Scanner”) | Decline | [Read More](https://medium.com/p/ef4a36067fec) |
+| Sun, 17 May 2026 02:31:00 GMT | Secure Coding in Practice: The 10 Mistakes That Cause 90% of Web Vulnerabilities | Parth Patel | [Read More](https://medium.com/p/e138c7162eeb) |
+| Sun, 17 May 2026 02:28:06 GMT | HSC RTV CTF — Sweet Dreams(Web — 225 pts) | Life of a Pentester | [Read More](https://medium.com/p/9b374256ed6b) |
+| Sun, 17 May 2026 02:25:05 GMT | HSC RTV CTF — BucketWorks (Web — 200 pts) | Life of a Pentester | [Read More](https://medium.com/p/1fcadd128db6) |
+| Sun, 17 May 2026 01:51:17 GMT | I celebrate the Courageous | DudeistJon | [Read More](https://medium.com/p/d11cf73dd81b) |
 | Sun, 17 May 2026 01:15:48 GMT | Why You Can’t Just fork() in managed languages: The Journey to a Secure C# Code Grader | Gerald | [Read More](https://medium.com/p/32eaa8b5e39b) |
 | Sun, 17 May 2026 01:06:13 GMT | Why Concrete Vaults Are Becoming the Backbone of Modern DeFi | Irfanmendo | [Read More](https://medium.com/p/9deb4ccff5bb) |
 | Sun, 17 May 2026 00:39:06 GMT | The Mac Maintenance Minefield: How to Spot a “Safe” App Without Getting Scammed | CleanDiskGo | [Read More](https://medium.com/p/79e1938ba247) |
@@ -93,28 +116,3 @@ Need to Stop Telling Ourselves | Fidan Aslanova | [Read More](https://medium.com
 | Sat, 16 May 2026 17:38:54 GMT | CTF Solution: Exploiting WordPress Royal Elementor to Root Gridloy | Osman Erdem | [Read More](https://medium.com/p/319db6e67816) |
 | Sat, 16 May 2026 17:33:20 GMT | CVE-2026–20182: A CVSS 10.0 Cisco SD-WAN Bug, Found by Reading the Last Patch | Ali Mansoor | [Read More](https://medium.com/p/f136e9ca7db5) |
 | Sat, 16 May 2026 17:32:54 GMT | How to Scale a Local AI System Where You Upload Documents? | Ali Elmalı | [Read More](https://medium.com/p/40128df16927) |
-| Sat, 16 May 2026 17:31:00 GMT | Episode 7: Breaking Systems to Make Them Safer | Echoes of growth | [Read More](https://medium.com/p/a2e0f41d9f48) |
-| Sat, 16 May 2026 17:30:13 GMT | How I Passed OSCP While Managing a Full-Time Job — Lessons, Mistakes, and the Reality Nobody Talks… | Md. Imran Chowdhury | [Read More](https://medium.com/p/77a412bf2d64) |
-| Sat, 16 May 2026 17:18:35 GMT | From Zero to Jr. Penetration Tester — FULL COURSE ( FREE SERIES STARTS NOW ) | Md. Imran Chowdhury | [Read More](https://medium.com/p/25a7b2393389) |
-| Sat, 16 May 2026 17:15:57 GMT | ShieldForge Now Scans 95 Chains: Bitcoin-DeFi, CEX-Userbase Tier-B Sweep | ShielfForge - Web3 Wallet Security News | [Read More](https://medium.com/p/f32edf08319c) |
-| Sat, 16 May 2026 17:11:28 GMT | Cybersecurity, AI, and the Future of Human Trust | Kongkham Singh | [Read More](https://medium.com/p/699b9f983031) |
-| Sat, 16 May 2026 17:07:51 GMT | Cyber Heist Investigation - Bank CTF Breakdown | Pentester Club | [Read More](https://medium.com/p/27249fc6734e) |
-| Sat, 16 May 2026 17:05:01 GMT | Crack The Hash Level 2 — THM | Fadybasem - ( SilentN0va ) | [Read More](https://medium.com/p/66ad5611e265) |
-| Sat, 16 May 2026 17:02:21 GMT | O futuro do trabalho não é menos humano. | Everton Moreira | [Read More](https://medium.com/p/0605245da5cf) |
-| Sat, 16 May 2026 17:02:09 GMT | Crack the hash — THM | Fadybasem - ( SilentN0va ) | [Read More](https://medium.com/p/590b65f12040) |
-| Sat, 16 May 2026 16:54:23 GMT | Broken Authentication: How Attackers Gain Unauthorized Access to Your Application. | Sana Jalil | [Read More](https://medium.com/p/88f7e72439db) |
-| Sat, 16 May 2026 16:51:52 GMT | The future of artificial intelligence is increasingly being determined by infrastructure — not just… | Neuralcoretech | [Read More](https://medium.com/p/ca5abc55f440) |
-| Sat, 16 May 2026 16:47:58 GMT | Least Privilege:
-Give Nothing Extra,
-Regret Nothing Later | Fidan Aslanova | [Read More](https://medium.com/p/b6fe8026ada1) |
-| Sat, 16 May 2026 16:47:52 GMT | Digging Up the Dead: Disk Forensics & Git Object Archaeology (PicoCTF Walkthrough) | SAFAL GAUTAM | [Read More](https://medium.com/p/465fcfdefd07) |
-| Sat, 16 May 2026 16:44:12 GMT | Топ-5 читов для Dota 2 в 2026 году: Моё мнение после статьи Марка Херца | Aurelivoines | [Read More](https://medium.com/p/b3b7df2dc674) |
-| Sat, 16 May 2026 16:41:19 GMT | AI Regulation Isn’t a Legal Problem. It’s an Organizational Design Problem. | Toby Rao | [Read More](https://medium.com/p/952e598e1042) |
-| Sat, 16 May 2026 16:36:41 GMT | Топ читов для CS2 в 2026 году: Моё честное мнение после статьи Марка Херца | Aurelivoines | [Read More](https://medium.com/p/406a8ff6ae1b) |
-| Sat, 16 May 2026 16:34:42 GMT | I am happy to share that I have successfully completed my Diploma in Cyber Security. | Shivam Shukla | [Read More](https://medium.com/p/d14f79c21f40) |
-| Sat, 16 May 2026 16:32:27 GMT | Build Your Future with Vidyexd | Vidyexd | [Read More](https://medium.com/p/79e08fcc09b2) |
-| Sat, 16 May 2026 16:29:42 GMT | Build Your Future with Vidyexd | Vidyexd | [Read More](https://medium.com/p/622f2b21a263) |
-| Sat, 16 May 2026 16:28:47 GMT | The npm Prepare Hook Ran Before the Developer Read a Single Line of Code. | Ilias Armenakis | [Read More](https://medium.com/p/0b239e8c4fff) |
-| Sat, 16 May 2026 16:11:38 GMT | What is Broken Authentication? API2:2023 Explained for Beginners | Abrar Bin Habib | [Read More](https://medium.com/p/0b8e6e7da6b3) |
-| Sat, 16 May 2026 16:05:33 GMT | Malware Through the Lens of Governance | Musa Yusuf Magoban | [Read More](https://medium.com/p/e8ea31d20b80) |
-| Sat, 16 May 2026 15:58:20 GMT | Why Microsoft Won’t Remove “Do Not Require Kerberos Pre-authentication” | Gaurang Jethva | [Read More](https://medium.com/p/0fcbf9dc1c8e) |
