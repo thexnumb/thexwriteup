@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 19:43:14 GMT | Business Logic Vulnerability Leading to Negative Cart Values and Massive Price Manipulation | 0xKemzx | [Read More](https://medium.com/p/af301021be3f) |
+| Sun, 17 May 2026 19:34:53 GMT | Mission: Impossible — The greatest authorization failure lessons | Rajanikanth Arcot | [Read More](https://medium.com/p/0b9f0d08ecd1) |
+| Sun, 17 May 2026 19:33:10 GMT | Hunting CVEs in WordPress Plugins using Claude + Semgrep | Muhan Luo | [Read More](https://medium.com/p/1f0c82453356) |
+| Sun, 17 May 2026 19:27:36 GMT | Social Engineering Adventures of a Pentester - BSides Birmingham 2026 | Meera Tamboli | [Read More](https://medium.com/p/4e9f827919a2) |
+| Sun, 17 May 2026 19:23:54 GMT | Why Network Security Is the Backbone of Every Digital Operation | Siddhesh Ghatage | [Read More](https://medium.com/p/7258baaca3d6) |
+| Sun, 17 May 2026 19:22:14 GMT | Imposter Syndrome: Non-Tech Women in Cyber Security - BSides Birmingham 2026 | Meera Tamboli | [Read More](https://medium.com/p/58dc861aeab1) |
+| Sun, 17 May 2026 19:21:59 GMT | You Just Spent 20 Minutes on a Video Call With a Thief | NorthPeak Technologies | [Read More](https://medium.com/p/a8b4accaeac4) |
+| Sun, 17 May 2026 19:21:05 GMT | Detecting EDR Inline Hooks in ntdll.dll | S12 - 0x12Dark Development | [Read More](https://medium.com/p/18df079d76d4) |
+| Sun, 17 May 2026 19:21:00 GMT | Hijacking Phantom Shares: How a Cross-Contract Reentrancy in Panoptic Leads to Infinite Supply… | rdin777 | [Read More](https://medium.com/p/e08e9a0bbb66) |
+| Sun, 17 May 2026 19:16:33 GMT | NGINX Rift CVE-2026–42945 Is Now Being Exploited — An 18-Year-Old Flaw in the World’s Most Deployed… | Sai kiran | [Read More](https://medium.com/p/5005b5534721) |
+| Sun, 17 May 2026 19:14:49 GMT | Recently I used Ai to remove my digital footprint from internet | Memionic | [Read More](https://medium.com/p/aca234784881) |
+| Sun, 17 May 2026 19:12:03 GMT | Frontend Engineers: Your CI Trusted Your Pipeline and 42 Packages Shipped Malware | Ahmad Fiaz | [Read More](https://medium.com/p/2acda40c83dc) |
+| Sun, 17 May 2026 19:11:00 GMT | The OAuth Integration Debt: Why Your Social Login Is a CSRF Risk | Pau Dang | [Read More](https://medium.com/p/c2008099c05e) |
+| Sun, 17 May 2026 19:06:55 GMT | Configuring MFA, Email Verification & MFA Authentication: Where Identity Trust Is Actually… | Yusuf Isiaq | [Read More](https://medium.com/p/e691a53b688f) |
+| Sun, 17 May 2026 19:06:53 GMT | P0lyn0m1c0n: Building Smarter Target-Aware Wordlists for Password Attacks | Jorge Bustos | [Read More](https://medium.com/p/37cdcd77dede) |
+| Sun, 17 May 2026 18:53:05 GMT | The Network Becomes the Computer: The Internet, the Browser, and the First Wave of Web-Based… | Srinivas Krovvidi | [Read More](https://medium.com/p/ce42c57f93e7) |
+| Sun, 17 May 2026 18:43:38 GMT | Weak Registration Implementation: Why HTTP Verification Links Are a Security Risk | Nagarjunht | [Read More](https://medium.com/p/71e874b01e28) |
+| Sun, 17 May 2026 18:31:12 GMT | #Introduction to the Penetration Tester Path | ankamcharanteja | [Read More](https://medium.com/p/3b1e51dfb9fd) |
+| Sun, 17 May 2026 17:56:00 GMT | From Beginner to Defender: A Practical Cybersecurity Certification Roadmap | IPSpecialist | [Read More](https://medium.com/p/bc524eb3a8ba) |
 | Sun, 17 May 2026 17:51:29 GMT | Топ скинченджеров для CS2 в 2026 году: Моё честное мнение после статьи Марка Херца | Aurelivoines | [Read More](https://medium.com/p/e82bbd389fe3) |
 | Sun, 17 May 2026 17:45:02 GMT | This Is How Every Cyber Attack Actually Starts! | Shahzaib | [Read More](https://medium.com/p/2092832c11fd) |
 | Sun, 17 May 2026 17:42:57 GMT | Strengthening Cybersecurity in a Data-Driven World | Hiedberg Insights | [Read More](https://medium.com/p/abce0e5158e6) |
@@ -94,22 +113,3 @@ What Every Engineer Should Know | Sandun Amarathunga | [Read More](https://mediu
 | Sun, 17 May 2026 11:01:00 GMT | AI Will Create the Next Era of Cyber Resilience Work | Sherilyn Burris | [Read More](https://medium.com/p/858f8d64cd37) |
 | Sun, 17 May 2026 10:58:20 GMT | Deconstructing ClickFix: How Attacker TDS Exploits AWS WAF and Injects Silent NetSupport RATs | SpearPanic | [Read More](https://medium.com/p/b03161978eaa) |
 | Sun, 17 May 2026 10:54:11 GMT | President Donald Trump departed Beijing without any immediate sign that the US and China have… | Ethan Tech Daily | [Read More](https://medium.com/p/fe197ef4a93c) |
-| Sun, 17 May 2026 10:52:52 GMT | The Missing Layer 4 | Arpit Nigam (Maverick) | [Read More](https://medium.com/p/15a1249fe19f) |
-| Sun, 17 May 2026 10:48:29 GMT | SOC Analyst İçin Kritik Sysmon Event ID’leri ve Olay Analizi Rehberi | Ahmet Badem | [Read More](https://medium.com/p/a5c21d67ab6f) |
-| Sun, 17 May 2026 10:43:24 GMT | Claw Chain: The OpenClaw Vulnerabilities That Show Why AI Agents Are Becoming a New Security… | Germano Costi | [Read More](https://medium.com/p/8778e5e2dc1c) |
-| Sun, 17 May 2026 10:30:42 GMT | Telegram без контролю: як шахрайство, діпфейки та анонімні канали стали новою загрозою для… | Imatsiborska | [Read More](https://medium.com/p/020307061453) |
-| Sun, 17 May 2026 10:17:51 GMT | # Critical Payment Credential Exposure in ISP JavaScript Bundle | Pankaj | [Read More](https://medium.com/p/71bcbdbfc267) |
-| Sun, 17 May 2026 10:14:01 GMT | “Did Your Atoms Just Switch Universes? The Wild Physics Behind Death, Multiverse & You” | Seema Tripathi | [Read More](https://medium.com/p/a3c212349221) |
-| Sun, 17 May 2026 10:05:26 GMT | NordVPN vs ExpressVPN in 2026: Which is Honestly Better? | Nikhil Eswara Sagar | [Read More](https://medium.com/p/ccff4b7f4e67) |
-| Sun, 17 May 2026 10:01:01 GMT | How to Get Into IT With ZERO Experience in ONE Month | Victoria Coker | [Read More](https://medium.com/p/84c2e6843be5) |
-| Sun, 17 May 2026 09:57:07 GMT | The Terraform CLAUDE.md That Catches Security Issues Before Your CI Does | Prateek Jain | [Read More](https://medium.com/p/2fad26942c42) |
-| Sun, 17 May 2026 09:56:13 GMT | When your AI agent gets hacked: a real incident response blueprint | comatrix | [Read More](https://medium.com/p/325cf43df940) |
-| Sun, 17 May 2026 09:36:30 GMT | Channel and Partner Marketing in SaaS: How Partnerships Drive Scalable Growth | Sahil Gadroo | [Read More](https://medium.com/p/02c6c0893790) |
-| Sun, 17 May 2026 09:32:33 GMT | 4 Secure Coding Habits Every Java Developer Needs Before Their Next Deploy | Rajalaxmi | [Read More](https://medium.com/p/3e2e90bd3dc0) |
-| Sun, 17 May 2026 09:29:37 GMT | Why Cybercriminals Love Senior Online Banking (And How to Protect Your Wealth) | bramantyo | [Read More](https://medium.com/p/c615b9760b9f) |
-| Sun, 17 May 2026 09:24:31 GMT | Kalkulator BMI.... | Zurichsabil | [Read More](https://medium.com/p/53d66cae9d51) |
-| Sun, 17 May 2026 09:20:09 GMT | Tools for Web Applications Stress Testing (Load & Performance Validation) | Adam Pentester | [Read More](https://medium.com/p/b0e1f7503cd9) |
-| Sun, 17 May 2026 09:18:14 GMT | The Future of Technology | Aarav Rawat | [Read More](https://medium.com/p/fb779b92afa7) |
-| Sun, 17 May 2026 09:14:22 GMT | How a Random Number Generator in Mullvad Can Fingerprint You Online | Thomas Lumesberger | [Read More](https://medium.com/p/bc10e23c67c9) |
-| Sun, 17 May 2026 09:08:50 GMT | ShinyHunters Telegram Attribution Claims: Analysis of Timeline Inversion, Identity Reconstruction… | Jzzzz1qw | [Read More](https://medium.com/p/4bcaf3cfa72b) |
-| Sun, 17 May 2026 09:08:49 GMT | The Randomness Illusion: Why Your Java App’s Random Numbers Might Be Completely Predictable | Jawad Zaarour | [Read More](https://medium.com/p/df6917222550) |
