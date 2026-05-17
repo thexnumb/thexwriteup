@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 07:51:58 GMT | How I Investigated a Lumma Stealer Attack Disguised as a Windows 11 Update | DeadHack | [Read More](https://medium.com/p/b1fe876f9c14) |
+| Sun, 17 May 2026 07:46:14 GMT | Red Teaming Beyond the Keyboard— | KrypT0n-Z | [Read More](https://medium.com/p/cd4e69755519) |
+| Sun, 17 May 2026 07:34:32 GMT | Building an Open-Source DeFi Security RAG for AI-Assisted Web3 Audits | Chen Xu, Ph.D, CFA | [Read More](https://medium.com/p/fd5acf6ddf34) |
+| Sun, 17 May 2026 07:28:41 GMT | The Vulnerability That Looked Harmless…But Wasn’t | Fateyaly | [Read More](https://medium.com/p/c1c0f3e4b12e) |
+| Sun, 17 May 2026 07:25:01 GMT | The Internet Is Entering Its Darkest Era | Lawrence Toppo | [Read More](https://medium.com/p/354a97b18836) |
+| Sun, 17 May 2026 07:21:21 GMT | Next.js Security Advisory (May 2026) | anamika awasthi | [Read More](https://medium.com/p/b5a9add27c0f) |
+| Sun, 17 May 2026 07:17:40 GMT | The Hidden Risks Behind “Easy Money” Internet Sharing | Digital Risk Notes | [Read More](https://medium.com/p/ed743594245d) |
+| Sun, 17 May 2026 07:17:13 GMT | Learn Artificial Intelligence and Machine Learning for Beginners | cyber security Updates | [Read More](https://medium.com/p/abf50e99fbd1) |
+| Sun, 17 May 2026 07:13:39 GMT | Securing LLM Model Endpoints: Giải pháp Auth cho KServe + Knative Serving | Linh Ha | [Read More](https://medium.com/p/c8cd8c469eda) |
+| Sun, 17 May 2026 07:12:39 GMT | Part II of IcedID (Bokbot) Investigation Using Network Traffic Logs and IOC Infrastructure Reuse… | kbxsrc | [Read More](https://medium.com/p/bf98e923ac71) |
+| Sun, 17 May 2026 07:09:25 GMT | The OSCP Review | Strikoder | [Read More](https://medium.com/p/47f9f6efb25e) |
+| Sun, 17 May 2026 07:08:38 GMT | Escape HTB Writeup | MOHD IRFAN | [Read More](https://medium.com/p/abb1855e05ff) |
+| Sun, 17 May 2026 06:59:43 GMT | The AI Security Crisis Nobody Is Ready For | Data Mind | [Read More](https://medium.com/p/44ef95164b18) |
+| Sun, 17 May 2026 06:58:54 GMT | By Ali Hamza - Cybersecurity Student - Written from real confusion, real curiosity, and a lot of… | Ali Hamza | [Read More](https://medium.com/p/9aaf3298825d) |
+| Sun, 17 May 2026 06:58:14 GMT | Common Ports Every Cybersecurity Beginner Should Know | Ravindra Dagale | [Read More](https://medium.com/p/9b93bbd073a8) |
+| Sun, 17 May 2026 06:57:47 GMT | Why a Cheap Ride in Prague Could Cost You Millions: The Hidden Danger of Illegal Chauffeur Services | PRAGUE APEX Private Chauffeur | [Read More](https://medium.com/p/5da745ab0f08) |
+| Sun, 17 May 2026 06:53:08 GMT | Detecting Coordinated Fraud: From Shared Attributes to Interactive Graphs | Bartosz Szafran | [Read More](https://medium.com/p/6e4f1822dc06) |
+| Sun, 17 May 2026 06:45:37 GMT | Is NordVPN Worth It in 2026? A Honest Review for Beginners | Nikhil Eswara Sagar | [Read More](https://medium.com/p/cb3476b26230) |
+| Sun, 17 May 2026 06:44:24 GMT | Mastering the Phishing Intrusion Chain: From Psychology to Threat Hunting | uchihaitachi | [Read More](https://medium.com/p/0457c44a2fab) |
+| Sun, 17 May 2026 06:01:00 GMT | Java Observability + Alfresco Production Monitoring Guide | Shikha Nirankari | [Read More](https://medium.com/p/c53688081fb2) |
+| Sun, 17 May 2026 05:56:53 GMT | The Words We Don’t Write | Ashok V.A | [Read More](https://medium.com/p/2249fbfbe540) |
+| Sun, 17 May 2026 05:47:16 GMT | How Hackers Scan a Target Before They Attack | Rahul Sharan | [Read More](https://medium.com/p/293c4b61ea70) |
+| Sun, 17 May 2026 05:46:36 GMT | Your DNS Client Is Lying to You — And It Could Cost You the Network | Yuvraj Singh | [Read More](https://medium.com/p/27030f38bb01) |
+| Sun, 17 May 2026 05:39:29 GMT | Kioptrix — 3 | Philip James | [Read More](https://medium.com/p/83b3cf387e18) |
+| Sun, 17 May 2026 05:18:54 GMT | Android SSL Pinning Bypass: Every Technique Ranked in 2025 | Akifkhan | [Read More](https://medium.com/p/6b14acfb09b7) |
 | Sun, 17 May 2026 05:03:49 GMT | How to Pentest Any AI Agent: A Security Engineer’s Playbook | Jitendar Singh | [Read More](https://medium.com/p/2b50ee495907) |
 | Sun, 17 May 2026 04:58:04 GMT | Basic Pentesting in a Virtual Lab Environment | azhrscsptr | [Read More](https://medium.com/p/9c89b8ab5e23) |
 | Sun, 17 May 2026 04:57:18 GMT | Dead Weight | Data Noir | [Read More](https://medium.com/p/ecfb90c7185d) |
@@ -89,30 +114,3 @@ Boundary Between Help Desk and… | Zedikiah Choo | [Read More](https://medium.c
 | Sat, 16 May 2026 18:57:49 GMT | Someone Just Walked Through 225,000 Enterprise Firewalls. | Jazz Cyber Shield | [Read More](https://medium.com/p/ae3c816bc2d0) |
 | Sat, 16 May 2026 18:57:07 GMT | Why Is Hotel Security Officer a Vital Investment for Your Business? | Dynamic security solution ltd | [Read More](https://medium.com/p/154487bd0f78) |
 | Sat, 16 May 2026 18:49:37 GMT | Synthesizing Security Concepts: Building a Cohesive Cybersecurity Strategy | Mirrasul Ismayilov | [Read More](https://medium.com/p/c09b8f05d463) |
-| Sat, 16 May 2026 18:42:32 GMT | Security Through Obscurity: Does Hiding Information Really Improve Cybersecurity? | Mirrasul Ismayilov | [Read More](https://medium.com/p/9de1540193c7) |
-| Sat, 16 May 2026 18:38:12 GMT | Classic domain impersonation of AI services: Be careful of all seedance api web search results | Nina | [Read More](https://medium.com/p/5c3e4f5a0f96) |
-| Sat, 16 May 2026 18:37:44 GMT | The Taiwan Shadow and the Billion-Dollar Scramble for the Americas | Raquel Castro | [Read More](https://medium.com/p/1c53740adff0) |
-| Sat, 16 May 2026 18:29:55 GMT | PwnTillDawn — From Command Injection to Full Root Compromise on ZeroShell | Cybernerddd | [Read More](https://medium.com/p/ea7448fbd5a8) |
-| Sat, 16 May 2026 18:27:58 GMT | What Is Anthropic’s Claude Mythos Preview — And How Does It Work? | Saurabh S. Shaligram | [Read More](https://medium.com/p/fb208ad2ff18) |
-| Sat, 16 May 2026 18:26:59 GMT | Windows Registry Forensics: A Practical Guide to Common Artifacts | Honeyknows | [Read More](https://medium.com/p/0f75f42c0860) |
-| Sat, 16 May 2026 18:26:53 GMT | Finding Origin IPs Behind Cloudflare: Infrastructure Exposure Validation Methodology | Aryanakbarjoyia | [Read More](https://medium.com/p/905bb649b113) |
-| Sat, 16 May 2026 18:25:48 GMT | Best Security Camera Installation Services in Colorado Springs - R&N Technical | R&N Technical | [Read More](https://medium.com/p/deb5c13e8941) |
-| Sat, 16 May 2026 18:24:22 GMT | Breaking Free From the AI Cloud: Unleashing the Power of Local Servers on Your Laptop or Smartphone. | Garythatcher | [Read More](https://medium.com/p/dae6ba39cd9d) |
-| Sat, 16 May 2026 18:22:14 GMT | Chinese Cyber Scam Networks and Their Weaponization of the Domain Name System Against Elderly… | Rick Lane | [Read More](https://medium.com/p/d44a66559961) |
-| Sat, 16 May 2026 18:16:06 GMT | Your VMs are not as safe as you think | Chandramouli Baskaran | [Read More](https://medium.com/p/ccf6cfbc78e0) |
-| Sat, 16 May 2026 18:07:01 GMT | Security Through Obscurity:
-The Comforting Lie We
-Need to Stop Telling Ourselves | Fidan Aslanova | [Read More](https://medium.com/p/047c7316b27d) |
-| Sat, 16 May 2026 18:02:31 GMT | Ephemeral URLs: How Time-Limited Links Actually Work | Monali Chauhan | [Read More](https://medium.com/p/45044d4bd661) |
-| Sat, 16 May 2026 18:01:01 GMT | Host & Network Penetration Testing: Exploitation CTF 1 | R1punjay_Singh | [Read More](https://medium.com/p/dd39ddd02b91) |
-| Sat, 16 May 2026 18:01:01 GMT | CrowdStrike’s Friday — The 78 Minutes That Broke the World’s Windows | Anto Semeraro | [Read More](https://medium.com/p/c900fb935759) |
-| Sat, 16 May 2026 18:00:59 GMT | When graphql is present, race condition isn’t the only way to exceed plan limits | CANITEY | [Read More](https://medium.com/p/6d70584eaf0c) |
-| Sat, 16 May 2026 17:56:11 GMT | MCP Server Security Best Practices to Prevent Risk | Auth Thoughts Editors | [Read More](https://medium.com/p/3193ec4d75bf) |
-| Sat, 16 May 2026 17:55:55 GMT | Linux Has Been Hacked! (But I’m Not Worried) | Michael Swengel | [Read More](https://medium.com/p/95b8976e42c4) |
-| Sat, 16 May 2026 17:52:37 GMT | E-Discovery topics relevant for Cybersecurity Professionals | Alejandra Pacheco | [Read More](https://medium.com/p/b17348ab3012) |
-| Sat, 16 May 2026 17:46:14 GMT | IFC to send investment mission to Nigeria after Tinubu’s meeting in Rwanda presidency. | Thymmyjosh | [Read More](https://medium.com/p/c42a2be950fb) |
-| Sat, 16 May 2026 17:44:44 GMT | Is TheFatRat worth learning in Android Pentesting? | Sazed369 | [Read More](https://medium.com/p/0b1bd7fc9e6b) |
-| Sat, 16 May 2026 17:44:02 GMT | The UAE’s OPEC Exit and India’s Strategic Oil Bet: Why Abu Dhabi storing crude in India is not just… | Alan Shore | [Read More](https://medium.com/p/17b4a23e1eac) |
-| Sat, 16 May 2026 17:38:54 GMT | CTF Solution: Exploiting WordPress Royal Elementor to Root Gridloy | Osman Erdem | [Read More](https://medium.com/p/319db6e67816) |
-| Sat, 16 May 2026 17:33:20 GMT | CVE-2026–20182: A CVSS 10.0 Cisco SD-WAN Bug, Found by Reading the Last Patch | Ali Mansoor | [Read More](https://medium.com/p/f136e9ca7db5) |
-| Sat, 16 May 2026 17:32:54 GMT | How to Scale a Local AI System Where You Upload Documents? | Ali Elmalı | [Read More](https://medium.com/p/40128df16927) |
