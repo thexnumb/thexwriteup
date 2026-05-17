@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 22:51:27 GMT | العقول المحصنة والمنصات الآمنة: رؤية استراتيجية في التعليم والأمن السيبراني
+​بقلم: الأستاذ محمد حسن… | الأستاذ محمد حسن المساري | [Read More](https://medium.com/p/ad3d777a87ad) |
+| Sun, 17 May 2026 22:34:22 GMT | Can AI Stop Sneaky 2FA? | CyberGuy | [Read More](https://medium.com/p/6d62135a9151) |
+| Sun, 17 May 2026 22:29:23 GMT | Astronaut - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/6bb8787df04a) |
+| Sun, 17 May 2026 22:23:06 GMT | AS-REP Roasting Explained: Abusing Kerberos Pre-Authentication in Active Directory | Mazen Elsayed | [Read More](https://medium.com/p/8bc0d30031ec) |
+| Sun, 17 May 2026 22:14:40 GMT | Your antivirus can’t stop what’s coming. | Dr. Nachaat Mohamed | [Read More](https://medium.com/p/0fd8bbe2e90e) |
+| Sun, 17 May 2026 22:06:41 GMT | The underdog is going to win this one. Update on “Learning Platforms” on my Medium account. | The Husky Hacker | [Read More](https://medium.com/p/2613a913ba27) |
 | Sun, 17 May 2026 21:40:25 GMT | AI vs. Human Vulnerability Researchers: The Anthropic Contradiction | Tajamull Hussain | [Read More](https://medium.com/p/6405f3e18d70) |
 | Sun, 17 May 2026 21:34:57 GMT | Gadget Hunting in Practice | Marduk I Am | [Read More](https://medium.com/p/a7f8b08e7d53) |
 | Sun, 17 May 2026 21:23:03 GMT | EX-PHANTOMC2 SECURITY ASSESSMENT AND VALIDATION FRAMEWORK | Extix | [Read More](https://medium.com/p/156dd13537ac) |
@@ -106,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 May 2026 12:59:14 GMT | Compliance Theater: Why Passing an Audit Does Not Mean You Are Secure | Travis Ray Caverhill | [Read More](https://medium.com/p/d8ce5a3198d2) |
 | Sun, 17 May 2026 12:57:24 GMT | Terror Labels, Enemy, the State and Indonesian Cases | Eryan Dwiki | [Read More](https://medium.com/p/902ca6ff676b) |
 | Sun, 17 May 2026 12:56:59 GMT | I Bypassed AppArmor Without Disabling It — Using eBPF | Azizcan Dastan | [Read More](https://medium.com/p/a12061a72369) |
-| Sun, 17 May 2026 12:08:49 GMT | Kerberoasting Explained: From Ticket Request to Cracking Service Account Passwords | Mazen Elsayed | [Read More](https://medium.com/p/f2cc14a23b2c) |
-| Sun, 17 May 2026 12:03:55 GMT | Remote Code Execution (RCE) from a Secure Code Review Perspective | Aryah | [Read More](https://medium.com/p/55b560cdde47) |
-| Sun, 17 May 2026 12:01:00 GMT | Can Artificial Intelligence Replace Cybersecurity Jobs Completely? | Karanam Shrivasta | [Read More](https://medium.com/p/6003c85a6a50) |
-| Sun, 17 May 2026 12:01:00 GMT | What I’ve been reading (and listening to) week ending 17 May 2026 | Jason Yip | [Read More](https://medium.com/p/677863f24825) |
-| Sun, 17 May 2026 12:00:28 GMT | Building a Secure Kubernetes Platform with Terraform and Kyverno | Ennebet Mohammed | [Read More](https://medium.com/p/247d271df3ea) |
-| Sun, 17 May 2026 11:59:00 GMT | The Vulnerability Scanning Model That Stopped Working at Scale | Rathsara | [Read More](https://medium.com/p/6e95c92e2682) |
