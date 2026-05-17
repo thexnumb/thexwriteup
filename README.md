@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 11:01:00 GMT | AI Will Create the Next Era of Cyber Resilience Work | Sherilyn Burris | [Read More](https://medium.com/p/858f8d64cd37) |
+| Sun, 17 May 2026 10:58:20 GMT | Deconstructing ClickFix: How Attacker TDS Exploits AWS WAF and Injects Silent NetSupport RATs | SpearPanic | [Read More](https://medium.com/p/b03161978eaa) |
+| Sun, 17 May 2026 10:54:11 GMT | President Donald Trump departed Beijing without any immediate sign that the US and China have… | Ethan Tech Daily | [Read More](https://medium.com/p/fe197ef4a93c) |
+| Sun, 17 May 2026 10:52:52 GMT | The Missing Layer 4 | Arpit Nigam (Maverick) | [Read More](https://medium.com/p/15a1249fe19f) |
+| Sun, 17 May 2026 10:48:29 GMT | SOC Analyst İçin Kritik Sysmon Event ID’leri ve Olay Analizi Rehberi | Ahmet Badem | [Read More](https://medium.com/p/a5c21d67ab6f) |
+| Sun, 17 May 2026 10:43:24 GMT | Claw Chain: The OpenClaw Vulnerabilities That Show Why AI Agents Are Becoming a New Security… | Germano Costi | [Read More](https://medium.com/p/8778e5e2dc1c) |
+| Sun, 17 May 2026 10:30:42 GMT | Telegram без контролю: як шахрайство, діпфейки та анонімні канали стали новою загрозою для… | Imatsiborska | [Read More](https://medium.com/p/020307061453) |
+| Sun, 17 May 2026 10:17:51 GMT | # Critical Payment Credential Exposure in ISP JavaScript Bundle | Pankaj | [Read More](https://medium.com/p/71bcbdbfc267) |
+| Sun, 17 May 2026 10:14:01 GMT | “Did Your Atoms Just Switch Universes? The Wild Physics Behind Death, Multiverse & You” | Seema Tripathi | [Read More](https://medium.com/p/a3c212349221) |
+| Sun, 17 May 2026 10:05:26 GMT | NordVPN vs ExpressVPN in 2026: Which is Honestly Better? | Nikhil Eswara Sagar | [Read More](https://medium.com/p/ccff4b7f4e67) |
+| Sun, 17 May 2026 10:01:01 GMT | How to Get Into IT With ZERO Experience in ONE Month | Victoria Coker | [Read More](https://medium.com/p/84c2e6843be5) |
+| Sun, 17 May 2026 09:57:07 GMT | The Terraform CLAUDE.md That Catches Security Issues Before Your CI Does | Prateek Jain | [Read More](https://medium.com/p/2fad26942c42) |
+| Sun, 17 May 2026 09:56:13 GMT | When your AI agent gets hacked: a real incident response blueprint | comatrix | [Read More](https://medium.com/p/325cf43df940) |
 | Sun, 17 May 2026 09:36:30 GMT | Channel and Partner Marketing in SaaS: How Partnerships Drive Scalable Growth | Sahil Gadroo | [Read More](https://medium.com/p/02c6c0893790) |
 | Sun, 17 May 2026 09:32:33 GMT | 4 Secure Coding Habits Every Java Developer Needs Before Their Next Deploy | Rajalaxmi | [Read More](https://medium.com/p/3e2e90bd3dc0) |
 | Sun, 17 May 2026 09:29:37 GMT | Why Cybercriminals Love Senior Online Banking (And How to Protect Your Wealth) | bramantyo | [Read More](https://medium.com/p/c615b9760b9f) |
@@ -101,16 +114,3 @@ Boundary Between Help Desk and… | Zedikiah Choo | [Read More](https://medium.c
 | Sat, 16 May 2026 23:21:33 GMT | From Theory to Practice: Why Cybersecurity Training Must Include Simulations | Hannah Adam | [Read More](https://medium.com/p/8cab24f37c3b) |
 | Sat, 16 May 2026 22:59:26 GMT | The Unexpected Gift of Caring | Habil Lokadjaja CACP, CFP | [Read More](https://medium.com/p/8f083dcbceeb) |
 | Sat, 16 May 2026 22:52:25 GMT | The Trojan Skill | Arsalan Pardesi | [Read More](https://medium.com/p/1e87ab6bc93f) |
-| Sat, 16 May 2026 22:48:35 GMT | Web Fuzzing | Mert Baykal | [Read More](https://medium.com/p/c86968b36377) |
-| Sat, 16 May 2026 22:46:08 GMT | Kakar Security Edition 2 | Wali Khan Kakar | [Read More](https://medium.com/p/d858d8a75522) |
-| Sat, 16 May 2026 22:41:17 GMT | Kakar Security Edition 1 | Wali Khan Kakar | [Read More](https://medium.com/p/08306c621cb8) |
-| Sat, 16 May 2026 22:41:09 GMT | Fast16 & Furious | setec astronomy | [Read More](https://medium.com/p/17ef30961ff8) |
-| Sat, 16 May 2026 22:40:31 GMT | FunboxEasyEnum - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/8c4ac72afc87) |
-| Sat, 16 May 2026 22:22:59 GMT | Cloud Networking 101: What It Is | Aryan Vij | [Read More](https://medium.com/p/d0c14ff0413b) |
-| Sat, 16 May 2026 22:21:04 GMT | Phishing — Cross-Site Scripting | Mert Baykal | [Read More](https://medium.com/p/4b62d6d7d730) |
-| Sat, 16 May 2026 22:20:10 GMT | The Malware Crew Quietly Stealing Browser Passwords in 2026 | Pop123 | [Read More](https://medium.com/p/6f825e325c64) |
-| Sat, 16 May 2026 22:09:18 GMT | Divurion Hackers Destroyed My Life in 90 Days | Marcus Patron | [Read More](https://medium.com/p/9b0ce885f840) |
-| Sat, 16 May 2026 22:09:12 GMT | STOP/Djvu Ransomware Analizi: Anti-Debugging Tuzaklarını Aşmak, Ağ Trafiğini İfşa Etmek ve… | Kerem Işık | [Read More](https://medium.com/p/cc6e8ac9f5f5) |
-| Sat, 16 May 2026 21:40:51 GMT | Defending Your Wallet Against AI-Powered Phishing Scams | ShielfForge - Web3 Wallet Security News | [Read More](https://medium.com/p/8cff27298acf) |
-| Sat, 16 May 2026 21:29:35 GMT | AI Social Engineering: When Cyber Attacks Start Targeting Human Trust | Temidayo Salami | [Read More](https://medium.com/p/26b92cef0715) |
-| Sat, 16 May 2026 21:13:33 GMT | MCP Architecture & Security: What You Need to Know | Muaaz | [Read More](https://medium.com/p/64926f865bd8) |
