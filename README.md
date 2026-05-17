@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 15:33:14 GMT | OverTheWire Bandit Walkthrough — Level 5 → 6 - 30-Day Cybersecurity Learning Journey (Day 6) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/e8c07811e123) |
+| Sun, 17 May 2026 15:26:16 GMT | CVE List | garibatt | [Read More](https://medium.com/p/79197e455090) |
+| Sun, 17 May 2026 15:23:41 GMT | CVE Severity and Security Prioritization | garibatt | [Read More](https://medium.com/p/b907334cf48d) |
+| Sun, 17 May 2026 15:19:43 GMT | Your Digital Footprint Is Bigger Than You Think | Sam Writes Security | [Read More](https://medium.com/p/51ecf2561d0a) |
+| Sun, 17 May 2026 15:17:03 GMT | The Hidden Risks of Chrome Manga Translators: Adware, Bans, and Better Alternatives | Peter Anderson | [Read More](https://medium.com/p/82f1abc59d77) |
+| Sun, 17 May 2026 15:16:03 GMT | Learning SQL Injection: My First 3 PortSwigger Labs Walkthrough | Umair Khan | [Read More](https://medium.com/p/6f238e3404ff) |
+| Sun, 17 May 2026 15:13:33 GMT | Wallet Security Is the Foundation of Every Crypto Experience | Ethlas Pro | [Read More](https://medium.com/p/392ff285bc83) |
+| Sun, 17 May 2026 15:08:38 GMT | Vulnhub Writeup: DC-2 | Nyx_Layer | [Read More](https://medium.com/p/bfb9dea7b327) |
+| Sun, 17 May 2026 15:07:34 GMT | How Companies Get Hacked: 10 Common Ways Cyber Attacks Happen | Manula Udyoga | [Read More](https://medium.com/p/89d9d56c512a) |
+| Sun, 17 May 2026 14:55:38 GMT | Azure Architecture: What Every Incident Responder Must Understand Before Touching a Case | Dean | [Read More](https://medium.com/p/615a2325a1b5) |
+| Sun, 17 May 2026 14:51:00 GMT | What happens when I ask for help? | Sarah Perspectives | [Read More](https://medium.com/p/e3623a93f1fd) |
+| Sun, 17 May 2026 14:45:45 GMT | Meet Chepe. Now on Linux | DuckWrites | [Read More](https://medium.com/p/aa305ce08782) |
 | Sun, 17 May 2026 14:00:40 GMT | Write-Up CTF #3 — LFI + PHP Null Byte Injection | ikoo | [Read More](https://medium.com/p/9f405d7d3b8e) |
 | Sun, 17 May 2026 13:59:32 GMT | Anonymous — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/a574fd6577ad) |
 | Sun, 17 May 2026 13:55:49 GMT | HackTheBox Writeup-Soulmate | moko55 | [Read More](https://medium.com/p/53a7261c719e) |
@@ -101,15 +113,3 @@ What Every Engineer Should Know | Sandun Amarathunga | [Read More](https://mediu
 | Sun, 17 May 2026 06:59:43 GMT | The AI Security Crisis Nobody Is Ready For | Data Mind | [Read More](https://medium.com/p/44ef95164b18) |
 | Sun, 17 May 2026 06:58:54 GMT | By Ali Hamza - Cybersecurity Student - Written from real confusion, real curiosity, and a lot of… | Ali Hamza | [Read More](https://medium.com/p/9aaf3298825d) |
 | Sun, 17 May 2026 06:58:14 GMT | Common Ports Every Cybersecurity Beginner Should Know | Ravindra Dagale | [Read More](https://medium.com/p/9b93bbd073a8) |
-| Sun, 17 May 2026 06:57:47 GMT | Why a Cheap Ride in Prague Could Cost You Millions: The Hidden Danger of Illegal Chauffeur Services | PRAGUE APEX Private Chauffeur | [Read More](https://medium.com/p/5da745ab0f08) |
-| Sun, 17 May 2026 06:53:08 GMT | Detecting Coordinated Fraud: From Shared Attributes to Interactive Graphs | Bartosz Szafran | [Read More](https://medium.com/p/6e4f1822dc06) |
-| Sun, 17 May 2026 06:45:37 GMT | Is NordVPN Worth It in 2026? A Honest Review for Beginners | Nikhil Eswara Sagar | [Read More](https://medium.com/p/cb3476b26230) |
-| Sun, 17 May 2026 06:44:24 GMT | Mastering the Phishing Intrusion Chain: From Psychology to Threat Hunting | uchihaitachi | [Read More](https://medium.com/p/0457c44a2fab) |
-| Sun, 17 May 2026 06:01:00 GMT | Java Observability + Alfresco Production Monitoring Guide | Shikha Nirankari | [Read More](https://medium.com/p/c53688081fb2) |
-| Sun, 17 May 2026 05:56:53 GMT | The Words We Don’t Write | Ashok V.A | [Read More](https://medium.com/p/2249fbfbe540) |
-| Sun, 17 May 2026 05:47:16 GMT | How Hackers Scan a Target Before They Attack | Rahul Sharan | [Read More](https://medium.com/p/293c4b61ea70) |
-| Sun, 17 May 2026 05:46:36 GMT | Your DNS Client Is Lying to You — And It Could Cost You the Network | Yuvraj Singh | [Read More](https://medium.com/p/27030f38bb01) |
-| Sun, 17 May 2026 05:39:29 GMT | Kioptrix — 3 | Philip James | [Read More](https://medium.com/p/83b3cf387e18) |
-| Sun, 17 May 2026 05:18:54 GMT | Android SSL Pinning Bypass: Every Technique Ranked in 2025 | Akifkhan | [Read More](https://medium.com/p/6b14acfb09b7) |
-| Sun, 17 May 2026 05:03:49 GMT | How to Pentest Any AI Agent: A Security Engineer’s Playbook | Jitendar Singh | [Read More](https://medium.com/p/2b50ee495907) |
-| Sun, 17 May 2026 04:58:04 GMT | Basic Pentesting in a Virtual Lab Environment | azhrscsptr | [Read More](https://medium.com/p/9c89b8ab5e23) |
