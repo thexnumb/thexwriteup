@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 20:34:08 GMT | Why Social Media Consistency Matters for Brands | Ayshathsehla | [Read More](https://medium.com/p/af70c95b96b2) |
+| Sun, 17 May 2026 20:32:32 GMT | What’s the difference between IDS and IPS? | Rizki Nabila Pramilia | [Read More](https://medium.com/p/4be5a113900b) |
+| Sun, 17 May 2026 20:31:31 GMT | Why Online Learning is the Future of Higher Education in the USA? | Florida Coastal University | [Read More](https://medium.com/p/73f228bfb33c) |
+| Sun, 17 May 2026 20:30:11 GMT | How I Passed the CompTIA Security+ (SY0–701) on My First Try: My Journey and Resources | 0x1F9 | [Read More](https://medium.com/p/ec55523312b8) |
+| Sun, 17 May 2026 20:27:47 GMT | Nmap Series: Nmap Live Host Discovery — Part 1. | Oluwakamiye Adeyemo | [Read More](https://medium.com/p/5bab2c45f5de) |
+| Sun, 17 May 2026 20:18:57 GMT | ️ Understanding SOC Logs: Windows, Linux, Firewall, DNS & Authentication Logs in Cyber Security… | Zoningxtr | [Read More](https://medium.com/p/2da5ec6183b6) |
+| Sun, 17 May 2026 20:15:18 GMT | OWASP Top 10: IAAA Failures | Petersmuditha | [Read More](https://medium.com/p/e38bd43350b0) |
+| Sun, 17 May 2026 20:08:06 GMT | Proving Grounds Practice: DVR4 Walkthrough | George Kassab | [Read More](https://medium.com/p/957ab9628e77) |
+| Sun, 17 May 2026 20:04:49 GMT | Introduction to Information Security | Arundi Indumini | [Read More](https://medium.com/p/3dc936cf2dce) |
+| Sun, 17 May 2026 19:56:10 GMT | OAuth 2.0 Explained in Simple Terms | Rajnish Dixit | [Read More](https://medium.com/p/a9bf048756ad) |
+| Sun, 17 May 2026 19:46:34 GMT | ️Birth of the SOC: SIEM, Threat Detection & Incident Response Inside a Cyber Security Operations… | Zoningxtr | [Read More](https://medium.com/p/d7810f90837a) |
 | Sun, 17 May 2026 19:43:14 GMT | Business Logic Vulnerability Leading to Negative Cart Values and Massive Price Manipulation | 0xKemzx | [Read More](https://medium.com/p/af301021be3f) |
 | Sun, 17 May 2026 19:34:53 GMT | Mission: Impossible — The greatest authorization failure lessons | Rajanikanth Arcot | [Read More](https://medium.com/p/0b9f0d08ecd1) |
 | Sun, 17 May 2026 19:33:10 GMT | Hunting CVEs in WordPress Plugins using Claude + Semgrep | Muhan Luo | [Read More](https://medium.com/p/1f0c82453356) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 What Every Engineer Should Know | Sandun Amarathunga | [Read More](https://medium.com/p/881f1f7f72ac) |
 | Sun, 17 May 2026 11:41:28 GMT | Why the CAIO and CISO Are the New Power Couple of AI Governance | Elobeid | [Read More](https://medium.com/p/d1f688228770) |
 | Sun, 17 May 2026 11:41:08 GMT | HTB ‘Blue’ Write-up | Zeyad Mahmoud | [Read More](https://medium.com/p/5efde616a6ac) |
-| Sun, 17 May 2026 11:39:28 GMT | How AI Will Reshape Offensive Cyber Security (And Why Hackers Should Pay Attention) | Yua Mikanana | [Read More](https://medium.com/p/15dd5912db7c) |
-| Sun, 17 May 2026 11:37:58 GMT | Kioptrix — 4 | Philip James | [Read More](https://medium.com/p/2a2428bcd5d9) |
-| Sun, 17 May 2026 11:34:51 GMT | Açık Kaynağın Kırılgan Temeli: xz-utils Arka Kapısı | canndalcii | [Read More](https://medium.com/p/ce8f84e4e616) |
-| Sun, 17 May 2026 11:26:37 GMT | California’s revised CCPA rules took effect on January 1, 2026, and they expose a gap that most… | Oran F | [Read More](https://medium.com/p/e4e9b642db65) |
-| Sun, 17 May 2026 11:25:40 GMT | Detecting Secrets, SAST Issues, and Vulnerabilities in CI/CD Pipelines | sourav | [Read More](https://medium.com/p/b68e7b60336d) |
-| Sun, 17 May 2026 11:21:07 GMT | Router vs Switch: What’s the Difference? (Simple Beginner’s Guide) | Shalu | [Read More](https://medium.com/p/e77b2c4a4def) |
-| Sun, 17 May 2026 11:14:48 GMT | HackTheBox — Conversor walkthrough | Osec | [Read More](https://medium.com/p/78c4a0305b31) |
-| Sun, 17 May 2026 11:09:46 GMT | Grafana GitHub Token Breach: Why Source Code Theft Is Becoming a Modern Extortion Weapon | Germano Costi | [Read More](https://medium.com/p/a087ad72a820) |
-| Sun, 17 May 2026 11:01:00 GMT | AI Will Create the Next Era of Cyber Resilience Work | Sherilyn Burris | [Read More](https://medium.com/p/858f8d64cd37) |
-| Sun, 17 May 2026 10:58:20 GMT | Deconstructing ClickFix: How Attacker TDS Exploits AWS WAF and Injects Silent NetSupport RATs | SpearPanic | [Read More](https://medium.com/p/b03161978eaa) |
-| Sun, 17 May 2026 10:54:11 GMT | President Donald Trump departed Beijing without any immediate sign that the US and China have… | Ethan Tech Daily | [Read More](https://medium.com/p/fe197ef4a93c) |
