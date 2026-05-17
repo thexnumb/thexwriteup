@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 16:47:47 GMT | They Fixed the Thing You Didn’t Know Was Broken | Ajay Kumar Bakkashetti | [Read More](https://medium.com/p/0de414999c78) |
+| Sun, 17 May 2026 16:42:56 GMT | What Is The Quantum Computer Threat to Bitcoin? | VTECH | [Read More](https://medium.com/p/fdbf14b29eb1) |
+| Sun, 17 May 2026 16:41:11 GMT | Is MovieBox Pro Safe to UseIs MovieBox Pro Safe to Use on Android and iPhone? | CineStream Insights | [Read More](https://medium.com/p/3b8966391af2) |
+| Sun, 17 May 2026 16:27:30 GMT | The Ghostwriters in the Machine: A Technical Autopsy of Outsourced Chat Platforms | AKUMAAYORI | [Read More](https://medium.com/p/442a6e6c6a82) |
+| Sun, 17 May 2026 16:25:29 GMT | INFORMATION GATHERING | BlueTeamMal | [Read More](https://medium.com/p/c2c872b3044c) |
+| Sun, 17 May 2026 16:21:13 GMT | Hunting Lazarus, Part VII: The Server That Was Not Just FTP | Red Asgard | [Read More](https://medium.com/p/b81705c0b9a4) |
+| Sun, 17 May 2026 16:19:00 GMT | An npm worm compromised 170 packages in six minutes — including OpenAI’s laptops | Jerome | [Read More](https://medium.com/p/4f8dc3e62ef7) |
+| Sun, 17 May 2026 16:17:18 GMT | AI doesn’t replace humans. It reveals what was never human work. | Cyril Simonnet | [Read More](https://medium.com/p/877c13f8ca13) |
+| Sun, 17 May 2026 16:03:34 GMT | OCI Cloud Guard — Real-Time Threat Detection and Automated Remediation for Enterprise Workloads | Tokishi | [Read More](https://medium.com/p/80a98e9b08f6) |
+| Sun, 17 May 2026 16:03:21 GMT | MCP Servers: What They Are and Why Cybersecurity Engineers Should Care | Josiah McCarthy | [Read More](https://medium.com/p/ad0d03a8d3a6) |
+| Sun, 17 May 2026 16:00:13 GMT | The $293 million KelpDAO hack is a wake-up call for DeFi’s complexity problem | Crypto Buying Tips | [Read More](https://medium.com/p/54941e21e112) |
+| Sun, 17 May 2026 15:55:18 GMT | Sora AI + Socraticode AI - Future of Cybersecurity Testing | Pentester Club | [Read More](https://medium.com/p/dd10f952caed) |
+| Sun, 17 May 2026 15:50:44 GMT | Web Cache Poisoning | UnStoppable | [Read More](https://medium.com/p/05fb506639f4) |
+| Sun, 17 May 2026 15:36:33 GMT | How to Bypass DeepSeek Restrictions — Full Tutorial | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/ccf04d8922b2) |
 | Sun, 17 May 2026 15:33:14 GMT | OverTheWire Bandit Walkthrough — Level 5 → 6 - 30-Day Cybersecurity Learning Journey (Day 6) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/e8c07811e123) |
 | Sun, 17 May 2026 15:26:16 GMT | CVE List | garibatt | [Read More](https://medium.com/p/79197e455090) |
 | Sun, 17 May 2026 15:23:41 GMT | CVE Severity and Security Prioritization | garibatt | [Read More](https://medium.com/p/b907334cf48d) |
@@ -99,17 +113,3 @@ What Every Engineer Should Know | Sandun Amarathunga | [Read More](https://mediu
 | Sun, 17 May 2026 08:19:33 GMT | How CAPTCHA Secretly Detects Bots Before You Click Anything | Novruz Bahramov | [Read More](https://medium.com/p/65569bd48b71) |
 | Sun, 17 May 2026 08:13:51 GMT | OWASP Application Security Risk 10:2025 A09 Security Logging & Alerting Failures | Tiago Silva | [Read More](https://medium.com/p/8a17fb3c87ba) |
 | Sun, 17 May 2026 07:51:58 GMT | How I Investigated a Lumma Stealer Attack Disguised as a Windows 11 Update | DeadHack | [Read More](https://medium.com/p/b1fe876f9c14) |
-| Sun, 17 May 2026 07:46:14 GMT | Red Teaming Beyond the Keyboard— | KrypT0n-Z | [Read More](https://medium.com/p/cd4e69755519) |
-| Sun, 17 May 2026 07:34:32 GMT | Building an Open-Source DeFi Security RAG for AI-Assisted Web3 Audits | Chen Xu, Ph.D, CFA | [Read More](https://medium.com/p/fd5acf6ddf34) |
-| Sun, 17 May 2026 07:28:41 GMT | The Vulnerability That Looked Harmless…But Wasn’t | Fateyaly | [Read More](https://medium.com/p/c1c0f3e4b12e) |
-| Sun, 17 May 2026 07:25:01 GMT | The Internet Is Entering Its Darkest Era | Lawrence Toppo | [Read More](https://medium.com/p/354a97b18836) |
-| Sun, 17 May 2026 07:21:21 GMT | Next.js Security Advisory (May 2026) | anamika awasthi | [Read More](https://medium.com/p/b5a9add27c0f) |
-| Sun, 17 May 2026 07:17:40 GMT | The Hidden Risks Behind “Easy Money” Internet Sharing | Digital Risk Notes | [Read More](https://medium.com/p/ed743594245d) |
-| Sun, 17 May 2026 07:17:13 GMT | Learn Artificial Intelligence and Machine Learning for Beginners | cyber security Updates | [Read More](https://medium.com/p/abf50e99fbd1) |
-| Sun, 17 May 2026 07:13:39 GMT | Securing LLM Model Endpoints: Giải pháp Auth cho KServe + Knative Serving | Linh Ha | [Read More](https://medium.com/p/c8cd8c469eda) |
-| Sun, 17 May 2026 07:12:39 GMT | Part II of IcedID (Bokbot) Investigation Using Network Traffic Logs and IOC Infrastructure Reuse… | kbxsrc | [Read More](https://medium.com/p/bf98e923ac71) |
-| Sun, 17 May 2026 07:09:25 GMT | The OSCP Review | Strikoder | [Read More](https://medium.com/p/47f9f6efb25e) |
-| Sun, 17 May 2026 07:08:38 GMT | Escape HTB Writeup | MOHD IRFAN | [Read More](https://medium.com/p/abb1855e05ff) |
-| Sun, 17 May 2026 06:59:43 GMT | The AI Security Crisis Nobody Is Ready For | Data Mind | [Read More](https://medium.com/p/44ef95164b18) |
-| Sun, 17 May 2026 06:58:54 GMT | By Ali Hamza - Cybersecurity Student - Written from real confusion, real curiosity, and a lot of… | Ali Hamza | [Read More](https://medium.com/p/9aaf3298825d) |
-| Sun, 17 May 2026 06:58:14 GMT | Common Ports Every Cybersecurity Beginner Should Know | Ravindra Dagale | [Read More](https://medium.com/p/9b93bbd073a8) |
