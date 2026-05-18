@@ -12,9 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 May 2026 22:51:30 GMT | What if I have no talent? | Evgenia Evoy | [Read More](https://medium.com/p/fe4814c06d5d) |
+| Mon, 18 May 2026 22:47:15 GMT | AWS KMS Security: Deep Dive — Part 2 | Rick Yang | [Read More](https://medium.com/p/3530cc6c38b0) |
+| Mon, 18 May 2026 22:45:36 GMT | Day 30 — Building Your Linux Hacking Workflow (Final Day) | Cybersecplayground | [Read More](https://medium.com/p/3fa52eb2a45d) |
+| Mon, 18 May 2026 22:44:28 GMT | You Can’t Report What You Don’t See: CIRCIA and the Rise of Continuous Threat Monitoring | Matt Black | [Read More](https://medium.com/p/e24a3e21523b) |
+| Mon, 18 May 2026 22:41:30 GMT | Grafana refused to pay. The leaked GitHub token cost them everything. | Jerome | [Read More](https://medium.com/p/f56d8c4cd683) |
+| Mon, 18 May 2026 22:41:12 GMT | Hugging Face’s #1 trending repo last week was a password stealer | Jerome | [Read More](https://medium.com/p/b261733bff8c) |
+| Mon, 18 May 2026 22:35:43 GMT | I Asked ChatGPT to Build an App in 2023. Here’s What Claude Code Did With the Same Prompt in 2026. | James Curtis | [Read More](https://medium.com/p/fec12281eff8) |
+| Mon, 18 May 2026 22:32:36 GMT | WRONG ADDRESS | Richard Chukwuka | [Read More](https://medium.com/p/24b6c57dca61) |
+| Mon, 18 May 2026 22:32:04 GMT | AD with Impacket: | lukewago | [Read More](https://medium.com/p/707485c42fa0) |
+| Mon, 18 May 2026 22:20:46 GMT | Tips Memilih Pintu Akses Game Online Terpercaya yang Bebas Hambatan | BATMAN88 | [Read More](https://medium.com/p/e4e1261ad136) |
+| Mon, 18 May 2026 22:14:12 GMT | The Complete Guide to CCTV Surveillance Cameras | Mohamed Saad | [Read More](https://medium.com/p/d19eea7492b4) |
+| Mon, 18 May 2026 22:07:24 GMT | Back to the Labs ~ Quick Update Before the Real Content Drops | b4dk4rm4sec | [Read More](https://medium.com/p/653e19b87405) |
+| Mon, 18 May 2026 22:06:53 GMT | Account Takeover via OTP Bypass Through Response Manipulation — A Real-World Bug Finding | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/d79cf9ff8ca5) |
+| Mon, 18 May 2026 22:02:51 GMT | Pwning “DJANGO” on PwnTillDawn: From Anonymous FTP to Full System Compromise | Cybernerddd | [Read More](https://medium.com/p/0a48ccde7031) |
+| Mon, 18 May 2026 21:44:42 GMT | Vitalik Buterin: AI Formal Verification Will Supercharge Ethereum Security | Likari | [Read More](https://medium.com/p/569c6f2e644e) |
 | Mon, 18 May 2026 21:38:00 GMT | Peter G. Neumann, 1932–2026: The Long Memory of Computing | Brian Haman, PhD | [Read More](https://medium.com/p/43b4c2be996e) |
 | Mon, 18 May 2026 21:30:18 GMT | The Regex Said Safe. The Parser Disagreed, NASA Earth Science Platform had a Critical Vulnerability | Dewank Pant | [Read More](https://medium.com/p/d79245e81086) |
 | Mon, 18 May 2026 21:26:16 GMT | How to Detect Lateral Movement with Elastic SIEM: SOC Analyst Hands-On Lab - Hunt Forward Lab #006 | Hunt Forward | [Read More](https://medium.com/p/4d5f054d8d5b) |
+| Mon, 18 May 2026 21:04:28 GMT | AI Hacking for Beginners: A Five-Article Series | Moez Ben-Azzouz | [Read More](https://medium.com/p/e4df5ecc7d63) |
 | Mon, 18 May 2026 21:01:09 GMT | 200,000 WordPress Sites at Risk from Critical Authentication Bypass Vulnerability in Burst… | Wordfence | [Read More](https://medium.com/p/985ad57725b5) |
 | Mon, 18 May 2026 20:58:10 GMT | Nmap Series: Nmap Basic Port Scans — Part 2. | Oluwakamiye Adeyemo | [Read More](https://medium.com/p/778b93193f83) |
 | Mon, 18 May 2026 20:56:26 GMT | Close Protection Security | Dynamic security solution ltd | [Read More](https://medium.com/p/e7db0e977813) |
@@ -97,19 +113,3 @@ This is my honest account of something… | Asad Ansari | [Read More](https://me
 | Mon, 18 May 2026 15:26:56 GMT | The Illusion of the Login Screen: How WannaCry Proved Passwords Can’t Save Your Network | Zeyad Mahmoud | [Read More](https://medium.com/p/9c01858d687e) |
 | Mon, 18 May 2026 15:26:00 GMT | Introducing 9-Factor Authentication | Alex Baia | [Read More](https://medium.com/p/609d0b19a04f) |
 | Mon, 18 May 2026 15:06:49 GMT | How I Could Delete Any Account via a Critical IDOR/BOLA Flaw and get $$$ | knox99 | [Read More](https://medium.com/p/2540428556fd) |
-| Mon, 18 May 2026 15:03:00 GMT | PortSwigger Lab: SQL Injection #1 — Querying the Database Type and Version on Oracle (Bahasa… | Azhar Aufa | [Read More](https://medium.com/p/fd10f8b014c4) |
-| Mon, 18 May 2026 15:02:38 GMT | AI is not magic. It’s infrastructure discipline. | Remi Ramcharan | [Read More](https://medium.com/p/b90485b2e0ce) |
-| Mon, 18 May 2026 14:50:42 GMT | Should You Take Security+ 701 Now or Wait for 801? | Mike McNelis | [Read More](https://medium.com/p/99d9ddbe037d) |
-| Mon, 18 May 2026 14:46:04 GMT | How I hacked the reports database of a Mid‑Cap Industrial Stock while my flatmate grinded Valo | Issan | [Read More](https://medium.com/p/5e17f0064449) |
-| Mon, 18 May 2026 14:41:49 GMT | Struktur Data: Graph | Azka | [Read More](https://medium.com/p/1667728edbca) |
-| Mon, 18 May 2026 14:39:12 GMT | MiniPlasma: Another Windows Zero-Day, Because Apparently SYSTEM Access Needed a Loyalty Program | Travis Ray Caverhill | [Read More](https://medium.com/p/46d636bf3f0c) |
-| Mon, 18 May 2026 14:37:14 GMT | File Inclusion - Tryhackme - Challenge Part | Efe D | [Read More](https://medium.com/p/5d4148e9fdcf) |
-| Mon, 18 May 2026 14:34:09 GMT | What Happened to FireEye, the Company That Saw the Future and Lost the Market | David SEHYEON Baek | [Read More](https://medium.com/p/e053b825f7a6) |
-| Mon, 18 May 2026 14:31:06 GMT | Cloud Security Basics: Protecting Your Data in the Cloud ☁️ | Manula Udyoga | [Read More](https://medium.com/p/10d09f2080e0) |
-| Mon, 18 May 2026 14:21:00 GMT | Blue Team Labs Online Phishing Analysis II | Zeliha Zengin | [Read More](https://medium.com/p/bd4b72d29523) |
-| Mon, 18 May 2026 14:20:57 GMT | Malicious npm Packages Steal SSH Keys, API Tokens, and CI/CD Secrets in Expanding Supply Chain… | Inforsecpro | [Read More](https://medium.com/p/2f859db48759) |
-| Mon, 18 May 2026 14:16:01 GMT | About Me: How Technology Quietly Became Part of My Everyday Life | James Mokaya | [Read More](https://medium.com/p/bb26f86a2178) |
-| Mon, 18 May 2026 14:15:49 GMT | Why Unified SOC Platforms Are the Future of Cybersecurity Operations | Helxoncyber | [Read More](https://medium.com/p/feaa15fe0955) |
-| Mon, 18 May 2026 14:01:23 GMT | CISSP Chapter 2 — Part 4: Awareness Is Not a Slide Deck. It Is a Security Culture in Motion. | Atakan ATAK | [Read More](https://medium.com/p/4a0b6e946d3a) |
-| Mon, 18 May 2026 13:58:56 GMT | Desires HTB Web Challenge | Youssef Mohammed | [Read More](https://medium.com/p/9aa07a4a224a) |
-| Mon, 18 May 2026 13:58:34 GMT | I love unmade beds. | Preesha | [Read More](https://medium.com/p/f7258698fe08) |
