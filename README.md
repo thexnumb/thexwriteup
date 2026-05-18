@@ -12,6 +12,42 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 May 2026 04:45:28 GMT | MITM Attack | Yarmuhammadmangi | [Read More](https://medium.com/p/edf7b4364c9d) |
+| Mon, 18 May 2026 04:42:44 GMT | The Recovery Path Is the Security Control You Forgot to Audit | Wesley Wei | [Read More](https://medium.com/p/9726cca6aa57) |
+| Mon, 18 May 2026 04:36:48 GMT | NGINX Is Being Actively Exploited Right Now — Here’s What You Need to Know | Yuvraj Singh | [Read More](https://medium.com/p/62ff7c6ad073) |
+| Mon, 18 May 2026 04:35:16 GMT | How I Fixed Intermittent Blank Print Failures in a Node.js Thermal Printing Bridge | Premodsuraweera | [Read More](https://medium.com/p/e5788b4c8496) |
+| Mon, 18 May 2026 04:28:15 GMT | UAV Forensics: Digital Evidence in the Sky | Ziya Gokalp | [Read More](https://medium.com/p/5dca2828ff25) |
+| Mon, 18 May 2026 04:23:41 GMT | Network Revision — part 4 | ExploitHunter | [Read More](https://medium.com/p/536269d8b7f5) |
+| Mon, 18 May 2026 04:21:08 GMT | Network Revision — part 3 | ExploitHunter | [Read More](https://medium.com/p/c2dd59f5c40a) |
+| Mon, 18 May 2026 04:20:51 GMT | The Future of CPE: From Connectivity to Edge Intelligence | Marta Adam | [Read More](https://medium.com/p/14e88af72f7c) |
+| Mon, 18 May 2026 04:16:10 GMT | The Trojan Horse: Ancient Deception, Modern Malware, and Timeless Security Lessons | Geeky Vartika | [Read More](https://medium.com/p/ff4fe2f50cfe) |
+| Mon, 18 May 2026 04:14:32 GMT | Debugging an Android Native Crash in Uber H3: The Missing libm.so Story | Jesus Cabrera Reveles | [Read More](https://medium.com/p/19080ad45510) |
+| Mon, 18 May 2026 04:05:11 GMT | Why SIEM Alerts Fail: The Gap Between Detection Logic and Real SOC Triage | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/c03c23bf54ca) |
+| Mon, 18 May 2026 03:53:34 GMT | Evidence Loops, Not Bigger Prompts: The Next Edge in AI Vulnerability Research | FengNing_Architect | [Read More](https://medium.com/p/69e6d7419e08) |
+| Mon, 18 May 2026 03:52:42 GMT | 5 Critical Signs Your Perth Business Network Has a Hidden Malware Infection | Sia Mianji | [Read More](https://medium.com/p/20340924b7ce) |
+| Mon, 18 May 2026 03:52:32 GMT | The Network Tax Nobody Talks About in Fraud Detection | Steven Lopez | [Read More](https://medium.com/p/88a0f81ccb6c) |
+| Mon, 18 May 2026 03:35:44 GMT | Creating Content in 3 Languages: The Unique Challenge of Malaysian Game YouTubers | GuideSEE | [Read More](https://medium.com/p/b365567bd1f9) |
+| Mon, 18 May 2026 03:01:55 GMT | Software Testing Training: Your Complete Guide to Launching a Successful QA Career | KOMAL PAL | [Read More](https://medium.com/p/baff0f97ebc8) |
+| Mon, 18 May 2026 03:01:49 GMT | Microsoft Reveals Prompt Injection‑Based RCE in AI Agents. | Alice Hsu | [Read More](https://medium.com/p/c634c08445c3) |
+| Mon, 18 May 2026 02:51:58 GMT | What an OCR-defensible HIPAA Security Risk Analysis actually looks at in 2026 — for hospitals that… | Joegellatly | [Read More](https://medium.com/p/784e54812c5d) |
+| Mon, 18 May 2026 02:51:32 GMT | White-Label vs IT Staff Augmentation in Singapore | Kyanon Digital Blog | [Read More](https://medium.com/p/4fc48d0dfb3c) |
+| Mon, 18 May 2026 02:51:00 GMT | ⚙️ 01. — Reflected XSS into HTML context with nothing encoded | The4v1 | [Read More](https://medium.com/p/796b35d2e5d6) |
+| Mon, 18 May 2026 02:41:00 GMT | ️‍♂️ BLIND XSS ( BXSS ) | The4v1 | [Read More](https://medium.com/p/7cc73c84d08e) |
+| Mon, 18 May 2026 02:40:47 GMT | Hey Everyone, | T M Hall | [Read More](https://medium.com/p/c15a4cd07df2) |
+| Mon, 18 May 2026 02:31:53 GMT | TryHackMe — TakeOver Challenge Writeup | Mahmoudaltawel | [Read More](https://medium.com/p/e74183a44fc0) |
+| Mon, 18 May 2026 02:31:00 GMT | XSS — Cross-Site Scripting | The4v1 | [Read More](https://medium.com/p/94e974e368b1) |
+| Mon, 18 May 2026 02:04:56 GMT | Weekly Threat Intelligence Report 11 May 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/9d70a08ce7e1) |
+| Mon, 18 May 2026 01:53:52 GMT | PortSwigger Lab: CORS Vulnerability with Trusted Insecure Protocols | Fahd Mohamed | [Read More](https://medium.com/p/c0d38a44509f) |
+| Mon, 18 May 2026 01:25:18 GMT | The Legal Void Around Autonomous AI: Who Pays When Your Agent Fails? | Lokesh Talagatla | [Read More](https://medium.com/p/8de35100b6e5) |
+| Mon, 18 May 2026 01:21:00 GMT | Uncomfortable Truths of
+Vulnerability Management in 2026 | Supriya Supekar | [Read More](https://medium.com/p/a7c27401c0a6) |
+| Mon, 18 May 2026 01:06:35 GMT | HTB Squashed — Walkthrough | Bianca | [Read More](https://medium.com/p/a51d15031d88) |
+| Mon, 18 May 2026 01:04:22 GMT | MCP Part 3: The Security Stuff Nobody Explains Clearly | Zarana Solanki | [Read More](https://medium.com/p/48b9339bfe09) |
+| Mon, 18 May 2026 01:01:01 GMT | The 44-Day Problem: How AI Collapsed the Time-to-Exploit Window | Divyanshu Saini | [Read More](https://medium.com/p/ce6957a56291) |
+| Mon, 18 May 2026 00:30:51 GMT | I Stopped Trying To Learn Everything In Cybersecurity | Satyam Pathania | [Read More](https://medium.com/p/fa57bd6289b5) |
+| Mon, 18 May 2026 00:17:45 GMT | How to Prevent CSRF Attacks in PHP | Steve Sohcot | [Read More](https://medium.com/p/2cd4b33fad0e) |
+| Mon, 18 May 2026 00:10:39 GMT | AI Is Breaking Cybersecurity | Raviteja Mureboina | [Read More](https://medium.com/p/ae205e7034bf) |
+| Mon, 18 May 2026 00:04:46 GMT | GOOGLE DORK İLE BİLGİYİ HIZLI VE DOĞRU BULMA | Yunus Emre Pak | [Read More](https://medium.com/p/895e682b8689) |
 | Sun, 17 May 2026 23:54:53 GMT | Flu - Proving Grounds - Walkthrough - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/a5b2c75b11b6) |
 | Sun, 17 May 2026 23:33:02 GMT | AI Is The Most Dangerous Thing We Built — And We Have No Idea How To Secure It” | 0x88CK | [Read More](https://medium.com/p/61f06e9d7d9a) |
 | Sun, 17 May 2026 23:00:41 GMT | One Vulnerability, Two Reports, Double the Reward $$$$ | Kyrillos nady | [Read More](https://medium.com/p/0a1a173b058c) |
@@ -78,38 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 May 2026 16:41:11 GMT | Is MovieBox Pro Safe to UseIs MovieBox Pro Safe to Use on Android and iPhone? | CineStream Insights | [Read More](https://medium.com/p/3b8966391af2) |
 | Sun, 17 May 2026 16:27:30 GMT | The Ghostwriters in the Machine: A Technical Autopsy of Outsourced Chat Platforms | AKUMAAYORI | [Read More](https://medium.com/p/442a6e6c6a82) |
 | Sun, 17 May 2026 16:25:29 GMT | INFORMATION GATHERING | BlueTeamMal | [Read More](https://medium.com/p/c2c872b3044c) |
-| Sun, 17 May 2026 16:21:13 GMT | Hunting Lazarus, Part VII: The Server That Was Not Just FTP | Red Asgard | [Read More](https://medium.com/p/b81705c0b9a4) |
-| Sun, 17 May 2026 16:19:00 GMT | An npm worm compromised 170 packages in six minutes — including OpenAI’s laptops | Jerome | [Read More](https://medium.com/p/4f8dc3e62ef7) |
-| Sun, 17 May 2026 16:17:18 GMT | AI doesn’t replace humans. It reveals what was never human work. | Cyril Simonnet | [Read More](https://medium.com/p/877c13f8ca13) |
-| Sun, 17 May 2026 16:03:34 GMT | OCI Cloud Guard — Real-Time Threat Detection and Automated Remediation for Enterprise Workloads | Tokishi | [Read More](https://medium.com/p/80a98e9b08f6) |
-| Sun, 17 May 2026 16:03:21 GMT | MCP Servers: What They Are and Why Cybersecurity Engineers Should Care | Josiah McCarthy | [Read More](https://medium.com/p/ad0d03a8d3a6) |
-| Sun, 17 May 2026 16:00:13 GMT | The $293 million KelpDAO hack is a wake-up call for DeFi’s complexity problem | Crypto Buying Tips | [Read More](https://medium.com/p/54941e21e112) |
-| Sun, 17 May 2026 15:55:18 GMT | Sora AI + Socraticode AI - Future of Cybersecurity Testing | Pentester Club | [Read More](https://medium.com/p/dd10f952caed) |
-| Sun, 17 May 2026 15:50:44 GMT | Web Cache Poisoning | UnStoppable | [Read More](https://medium.com/p/05fb506639f4) |
-| Sun, 17 May 2026 15:36:33 GMT | How to Bypass DeepSeek Restrictions — Full Tutorial | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/ccf04d8922b2) |
-| Sun, 17 May 2026 15:33:14 GMT | OverTheWire Bandit Walkthrough — Level 5 → 6 - 30-Day Cybersecurity Learning Journey (Day 6) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/e8c07811e123) |
-| Sun, 17 May 2026 15:26:16 GMT | CVE List | garibatt | [Read More](https://medium.com/p/79197e455090) |
-| Sun, 17 May 2026 15:23:41 GMT | CVE Severity and Security Prioritization | garibatt | [Read More](https://medium.com/p/b907334cf48d) |
-| Sun, 17 May 2026 15:19:43 GMT | Your Digital Footprint Is Bigger Than You Think | Sam Writes Security | [Read More](https://medium.com/p/51ecf2561d0a) |
-| Sun, 17 May 2026 15:17:03 GMT | The Hidden Risks of Chrome Manga Translators: Adware, Bans, and Better Alternatives | Peter Anderson | [Read More](https://medium.com/p/82f1abc59d77) |
-| Sun, 17 May 2026 15:16:03 GMT | Learning SQL Injection: My First 3 PortSwigger Labs Walkthrough | Umair Khan | [Read More](https://medium.com/p/6f238e3404ff) |
-| Sun, 17 May 2026 15:13:33 GMT | Wallet Security Is the Foundation of Every Crypto Experience | Ethlas Pro | [Read More](https://medium.com/p/392ff285bc83) |
-| Sun, 17 May 2026 15:08:38 GMT | Vulnhub Writeup: DC-2 | Nyx_Layer | [Read More](https://medium.com/p/bfb9dea7b327) |
-| Sun, 17 May 2026 15:07:34 GMT | How Companies Get Hacked: 10 Common Ways Cyber Attacks Happen | Manula Udyoga | [Read More](https://medium.com/p/89d9d56c512a) |
-| Sun, 17 May 2026 14:55:38 GMT | Azure Architecture: What Every Incident Responder Must Understand Before Touching a Case | Dean | [Read More](https://medium.com/p/615a2325a1b5) |
-| Sun, 17 May 2026 14:51:00 GMT | What happens when I ask for help? | Sarah Perspectives | [Read More](https://medium.com/p/e3623a93f1fd) |
-| Sun, 17 May 2026 14:45:45 GMT | Meet Chepe. Now on Linux | DuckWrites | [Read More](https://medium.com/p/aa305ce08782) |
-| Sun, 17 May 2026 14:00:40 GMT | Write-Up CTF #3 — LFI + PHP Null Byte Injection | ikoo | [Read More](https://medium.com/p/9f405d7d3b8e) |
-| Sun, 17 May 2026 13:59:32 GMT | Anonymous — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/a574fd6577ad) |
-| Sun, 17 May 2026 13:55:49 GMT | HackTheBox Writeup-Soulmate | moko55 | [Read More](https://medium.com/p/53a7261c719e) |
-| Sun, 17 May 2026 13:51:53 GMT | HackTheBox Writeup-Expressway | moko55 | [Read More](https://medium.com/p/ae848fcf709e) |
-| Sun, 17 May 2026 13:49:30 GMT | Cracking the RootMe CTF on TryHackMe | Abhinav | [Read More](https://medium.com/p/96645f471f48) |
-| Sun, 17 May 2026 13:44:42 GMT | Outsourcing Trust: “this .exe is safe to run” | Aayush Agrawal | [Read More](https://medium.com/p/464e3547c2d3) |
-| Sun, 17 May 2026 13:41:09 GMT | Guarded Agency: The Mission Command Model for AI-Era Defense | Michael Thiessmeier | [Read More](https://medium.com/p/525bf8fd5ffc) |
-| Sun, 17 May 2026 13:29:53 GMT | Will Customers Trust AI More Than Human Support? | Roshini Kennenor | [Read More](https://medium.com/p/57f2b13dbecc) |
-| Sun, 17 May 2026 13:27:24 GMT | Hosted VPN vs Self-Hosted VPN: Which One Should You Choose? | Sureshksidkidu | [Read More](https://medium.com/p/f31a5e3ba4c1) |
-| Sun, 17 May 2026 13:19:38 GMT | Your SLSA Provenance Is Lying to You | Heinan Cabouly | [Read More](https://medium.com/p/e64dfbb60507) |
-| Sun, 17 May 2026 13:08:39 GMT | Hollywood Has a Voice Problem. SAG-AFTRA Cannot Fix It Alone. | Eliot Cohen Bacrie | [Read More](https://medium.com/p/329b36ff9971) |
-| Sun, 17 May 2026 13:07:40 GMT | Başlangıç İçin 10 Linux Komutu | Selma Caliskan | [Read More](https://medium.com/p/56c0b11d86ae) |
-| Sun, 17 May 2026 13:01:19 GMT | YellowKey: The BitLocker Bypass That Needs Only a USB Stick and One Held Key | Afi0pchik | [Read More](https://medium.com/p/b6549fbef924) |
-| Sun, 17 May 2026 13:00:54 GMT | Fragnesia (CVE-2026–46300): Why Your Dirty Frag Patch Left You Exposed | Afi0pchik | [Read More](https://medium.com/p/7d86f7ea093f) |
