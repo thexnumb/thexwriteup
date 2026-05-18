@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 17 May 2026 23:54:53 GMT | Flu - Proving Grounds - Walkthrough - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/a5b2c75b11b6) |
+| Sun, 17 May 2026 23:33:02 GMT | AI Is The Most Dangerous Thing We Built — And We Have No Idea How To Secure It” | 0x88CK | [Read More](https://medium.com/p/61f06e9d7d9a) |
+| Sun, 17 May 2026 23:00:41 GMT | One Vulnerability, Two Reports, Double the Reward $$$$ | Kyrillos nady | [Read More](https://medium.com/p/0a1a173b058c) |
 | Sun, 17 May 2026 22:51:27 GMT | العقول المحصنة والمنصات الآمنة: رؤية استراتيجية في التعليم والأمن السيبراني
 ​بقلم: الأستاذ محمد حسن… | الأستاذ محمد حسن المساري | [Read More](https://medium.com/p/ad3d777a87ad) |
 | Sun, 17 May 2026 22:34:22 GMT | Can AI Stop Sneaky 2FA? | CyberGuy | [Read More](https://medium.com/p/6d62135a9151) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 17 May 2026 13:07:40 GMT | Başlangıç İçin 10 Linux Komutu | Selma Caliskan | [Read More](https://medium.com/p/56c0b11d86ae) |
 | Sun, 17 May 2026 13:01:19 GMT | YellowKey: The BitLocker Bypass That Needs Only a USB Stick and One Held Key | Afi0pchik | [Read More](https://medium.com/p/b6549fbef924) |
 | Sun, 17 May 2026 13:00:54 GMT | Fragnesia (CVE-2026–46300): Why Your Dirty Frag Patch Left You Exposed | Afi0pchik | [Read More](https://medium.com/p/7d86f7ea093f) |
-| Sun, 17 May 2026 12:59:14 GMT | Compliance Theater: Why Passing an Audit Does Not Mean You Are Secure | Travis Ray Caverhill | [Read More](https://medium.com/p/d8ce5a3198d2) |
-| Sun, 17 May 2026 12:57:24 GMT | Terror Labels, Enemy, the State and Indonesian Cases | Eryan Dwiki | [Read More](https://medium.com/p/902ca6ff676b) |
-| Sun, 17 May 2026 12:56:59 GMT | I Bypassed AppArmor Without Disabling It — Using eBPF | Azizcan Dastan | [Read More](https://medium.com/p/a12061a72369) |
