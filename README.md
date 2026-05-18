@@ -12,6 +12,47 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 May 2026 16:25:17 GMT | I Switched 3 Client Networks to Managed Firewalls. Here’s What Changed | Norahaiden | [Read More](https://medium.com/p/bd102cc34627) |
+| Mon, 18 May 2026 16:19:11 GMT | Identity Attack: Suspicious Login Activity | Dr. Shashi Karhail | [Read More](https://medium.com/p/0f4753bbc6a5) |
+| Mon, 18 May 2026 16:16:00 GMT | The AI Guardrails Just Snapped (And Nobody Noticed) | A D | [Read More](https://medium.com/p/80a7ee72f9a6) |
+| Mon, 18 May 2026 16:12:05 GMT | Work Smarter with AI: How Artificial Intelligence is Transforming Modern Businesses - Powered by… | S Hassanabbas | [Read More](https://medium.com/p/ddcfed781a1d) |
+| Mon, 18 May 2026 16:10:35 GMT | JWT vs Session Cookies vs PASETO: I Pen-Tested All Three. One Fell in 12 Minutes. | Ramesh Kannan s | [Read More](https://medium.com/p/2be0f70e03e0) |
+| Mon, 18 May 2026 16:03:19 GMT | GamingServer — TryHackMe | 0xReconDev | [Read More](https://medium.com/p/637b028103b2) |
+| Mon, 18 May 2026 15:57:30 GMT | The Seed Phrase Problem No One in Crypto Wants to Talk About | Coinseal | [Read More](https://medium.com/p/833dd565514a) |
+| Mon, 18 May 2026 15:53:11 GMT | I Found a Mac App Piracy Loophole — And Reported It to Apple
+This is my honest account of something… | Asad Ansari | [Read More](https://medium.com/p/0f17a7cbe30b) |
+| Mon, 18 May 2026 15:51:19 GMT | Unmasking Amadey: When Static Analysis Fails, Dynamic Extraction Prevails | Svetoslav | [Read More](https://medium.com/p/0a201da0b6b8) |
+| Mon, 18 May 2026 15:47:01 GMT | A Night in My Life with Hermes Agent. Or, What Can Possibly Go Wrong? | Alex Nikitin | [Read More](https://medium.com/p/20b720cda7ed) |
+| Mon, 18 May 2026 15:46:30 GMT | Hunting AI Hackers: Detecting LLM Prompt Injection Attacks via Log Analysis | Abdelhalim_husein | [Read More](https://medium.com/p/97b4102b3cf6) |
+| Mon, 18 May 2026 15:46:03 GMT | 1 Million WordPress Sites at Risk: Critical Avada Builder Vulnerabilities Expose Websites to Data… | Jas | [Read More](https://medium.com/p/e3b0e80fd2b4) |
+| Mon, 18 May 2026 15:43:23 GMT | What Happens to Your Business in the 4 Hours After a Firewall Fails | Emma Thomas | [Read More](https://medium.com/p/3a940072050a) |
+| Mon, 18 May 2026 15:42:22 GMT | NSE in Practice: HTTP Recon Deep Dive | Roshan Rajbanshi | [Read More](https://medium.com/p/35b69a6482a9) |
+| Mon, 18 May 2026 15:41:27 GMT | Stored Cross-Site Scripting (Stored XSS) in Username Field Leads to Arbitrary JavaScript Execution | Hemant Raj Bhati | [Read More](https://medium.com/p/cd377841da30) |
+| Mon, 18 May 2026 15:30:13 GMT | What CompTIA SecAI+ Doesn’t Teach You (And Why That’s Still OK) | Mike McNelis | [Read More](https://medium.com/p/6aa9f06a9ba9) |
+| Mon, 18 May 2026 15:28:02 GMT | Insecure Direct Object Reference (IDOR) in User Management Allows Unauthorized Access and… | Hemant Raj Bhati | [Read More](https://medium.com/p/61fdeb9773a1) |
+| Mon, 18 May 2026 15:26:56 GMT | The Illusion of the Login Screen: How WannaCry Proved Passwords Can’t Save Your Network | Zeyad Mahmoud | [Read More](https://medium.com/p/9c01858d687e) |
+| Mon, 18 May 2026 15:06:49 GMT | How I Could Delete Any Account via a Critical IDOR/BOLA Flaw and get $$$ | knox99 | [Read More](https://medium.com/p/2540428556fd) |
+| Mon, 18 May 2026 15:03:00 GMT | PortSwigger Lab: SQL Injection #1 — Querying the Database Type and Version on Oracle (Bahasa… | Azhar Aufa | [Read More](https://medium.com/p/fd10f8b014c4) |
+| Mon, 18 May 2026 14:46:04 GMT | How I hacked the reports database of a Mid‑Cap Industrial Stock while my flatmate grinded Valo | Issan | [Read More](https://medium.com/p/5e17f0064449) |
+| Mon, 18 May 2026 14:41:49 GMT | Struktur Data: Graph | Azka | [Read More](https://medium.com/p/1667728edbca) |
+| Mon, 18 May 2026 14:39:12 GMT | MiniPlasma: Another Windows Zero-Day, Because Apparently SYSTEM Access Needed a Loyalty Program | Travis Ray Caverhill | [Read More](https://medium.com/p/46d636bf3f0c) |
+| Mon, 18 May 2026 14:37:14 GMT | File Inclusion - Tryhackme - Challenge Part | Efe D | [Read More](https://medium.com/p/5d4148e9fdcf) |
+| Mon, 18 May 2026 14:34:09 GMT | What Happened to FireEye, the Company That Saw the Future and Lost the Market | David SEHYEON Baek | [Read More](https://medium.com/p/e053b825f7a6) |
+| Mon, 18 May 2026 14:31:06 GMT | Cloud Security Basics: Protecting Your Data in the Cloud ☁️ | Manula Udyoga | [Read More](https://medium.com/p/10d09f2080e0) |
+| Mon, 18 May 2026 14:21:00 GMT | Blue Team Labs Online Phishing Analysis II | Zeliha Zengin | [Read More](https://medium.com/p/bd4b72d29523) |
+| Mon, 18 May 2026 14:20:57 GMT | Malicious npm Packages Steal SSH Keys, API Tokens, and CI/CD Secrets in Expanding Supply Chain… | Inforsecpro | [Read More](https://medium.com/p/2f859db48759) |
+| Mon, 18 May 2026 14:16:01 GMT | About Me: How Technology Quietly Became Part of My Everyday Life | James Mokaya | [Read More](https://medium.com/p/bb26f86a2178) |
+| Mon, 18 May 2026 14:15:49 GMT | Why Unified SOC Platforms Are the Future of Cybersecurity Operations | Helxoncyber | [Read More](https://medium.com/p/feaa15fe0955) |
+| Mon, 18 May 2026 14:01:23 GMT | CISSP Chapter 2 — Part 4: Awareness Is Not a Slide Deck. It Is a Security Culture in Motion. | Atakan ATAK | [Read More](https://medium.com/p/4a0b6e946d3a) |
+| Mon, 18 May 2026 13:58:56 GMT | Desires HTB Web Challenge | Youssef Mohammed | [Read More](https://medium.com/p/9aa07a4a224a) |
+| Mon, 18 May 2026 13:50:14 GMT | One Header Away From Disaster: Exploiting CORS Misconfigurations in the Wild | 0xAbhiSec | [Read More](https://medium.com/p/bd4001cf8940) |
+| Mon, 18 May 2026 13:49:19 GMT | H-1B RFEs for IT Roles: How TheDegreePeople.com Helps Build Strong Responses | Sheila Danzig | [Read More](https://medium.com/p/20f71c7b8ee5) |
+| Mon, 18 May 2026 13:41:58 GMT | ReconX Automation - Save Hours on Bug Bounty Recon | Pentester Club | [Read More](https://medium.com/p/5bde55aef0fb) |
+| Mon, 18 May 2026 13:12:49 GMT | Tomcat Takeover Lab — Cyberdefenders | Yrddry | [Read More](https://medium.com/p/7a843eb42844) |
+| Mon, 18 May 2026 13:05:18 GMT | Subdomain Takeover | PewPew | [Read More](https://medium.com/p/f5fb333ad515) |
+| Mon, 18 May 2026 12:55:10 GMT | Fiber Optics in Emerging Markets: Deployment, Regulation, and Technical Infrastructure Development… | Thoko Miya | [Read More](https://medium.com/p/f57fb5b36ec6) |
+| Mon, 18 May 2026 12:42:51 GMT | Speed-Running Public APIs: Where Your Scraper Actually Loses the Race | Dimitri DO BAIRRO | [Read More](https://medium.com/p/b525be9ded2c) |
+| Mon, 18 May 2026 12:36:03 GMT | Voice Bot Companies in India | Ashutosh Mallik | [Read More](https://medium.com/p/b6774c07c454) |
 | Mon, 18 May 2026 12:20:29 GMT | Why Traditional Security Fails — and How NDR Fixes It | NetWitness | [Read More](https://medium.com/p/fa4009e0588b) |
 | Mon, 18 May 2026 12:19:50 GMT | When Should a CTO Hire a vCISO? | Himanshu Sharma | [Read More](https://medium.com/p/0556c633fd21) |
 | Mon, 18 May 2026 12:16:42 GMT | The Mathematics of Privacy — How VPNs Secretly Build an Invisible Fortress Around Your Internet… | Devansh Patel | [Read More](https://medium.com/p/c51bd62b4ad4) |
@@ -72,43 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 May 2026 08:13:48 GMT | Why Every Business Needs a Vulnerability Scanning Service in 2026 | Mecca Care | [Read More](https://medium.com/p/4d9c3e543235) |
 | Mon, 18 May 2026 08:08:12 GMT | Best VPN for Turkey 2026: What Actually Works (And Why Most Don’t) | VeiloraVPN | [Read More](https://medium.com/p/b71b3c34b7f8) |
 | Mon, 18 May 2026 08:08:09 GMT | 5 Tools AI yang Mengubah Cara Kerja Profesional IT di Indonesia Tahun 2026 | EduCyberTech | [Read More](https://medium.com/p/edae15c9d8d0) |
-| Mon, 18 May 2026 08:07:45 GMT | How Ghost Bits Cast Attack To Bypass Web Application Firewall | COFFSec | [Read More](https://medium.com/p/3c8550bbab34) |
-| Mon, 18 May 2026 08:06:50 GMT | Implementasi Subquery pada SQL | Azka | [Read More](https://medium.com/p/2519c3614cac) |
-| Mon, 18 May 2026 08:03:34 GMT | I Passed the OSCP on My First Attempt - My Study Plan | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/fb69970ee4b1) |
-| Mon, 18 May 2026 08:01:10 GMT | Ethereum Deep Dive Part 1: Accounts & Transactions | Hacker MD | [Read More](https://medium.com/p/276fa55c1f30) |
-| Mon, 18 May 2026 07:56:00 GMT | Your Phone Knows More About You Than You Think | mrwhite18 | [Read More](https://medium.com/p/1ed6d3db9f22) |
-| Mon, 18 May 2026 07:52:51 GMT | Money & System | Snisar S | [Read More](https://medium.com/p/b88fa5abe923) |
-| Mon, 18 May 2026 07:48:32 GMT | VAPT vs Penetration Testing — What’s the Real Difference? | Adviacent.in | [Read More](https://medium.com/p/8839677536b1) |
-| Mon, 18 May 2026 07:39:54 GMT | QR Code Phishing (Quishing): The Hidden Cyber Threat Hiding in Plain Sight | Nyanga Piethras | [Read More](https://medium.com/p/b7916720a65a) |
-| Mon, 18 May 2026 07:36:32 GMT | How Much Does It Cost to Install a Security Camera? | R&N Technical | [Read More](https://medium.com/p/5bb716a4c256) |
-| Mon, 18 May 2026 07:26:31 GMT | Write-Up: BugForge Weekly Challenge — FurHire with Broken Authentication via Predictable Refresh… | Athiwat Tiprasaharn | [Read More](https://medium.com/p/2cf8d2b97b55) |
-| Mon, 18 May 2026 07:25:46 GMT | How Modern Businesses Are Rethinking Physical Security | Security Force | [Read More](https://medium.com/p/84b72df64a22) |
-| Mon, 18 May 2026 07:21:44 GMT | Apartment Safety Strategies for Modern Renters | Security Force | [Read More](https://medium.com/p/bb8b5afd988b) |
-| Mon, 18 May 2026 07:18:13 GMT | Ethical Hacking vs Illegal Hacking dalam Perspektif UU ITE: Di Mana Garis Batasnya? | Daiva Paundra Gevano | [Read More](https://medium.com/p/5a3742b7db65) |
-| Mon, 18 May 2026 07:17:47 GMT | AndroGoat: The Complete Android Pentesting Walkthrough — From Traffic Interception to Binary… | Basithmohammedali | [Read More](https://medium.com/p/3cc1e1866040) |
-| Mon, 18 May 2026 07:13:24 GMT | Why Businesses Choose Judah Code Technologies — Leading Software Company in Trichy | Jeni Jeni | [Read More](https://medium.com/p/368091355712) |
-| Mon, 18 May 2026 07:10:50 GMT | Top IT Companies in Nagpur: Career, Business & Global Opportunities | techcareerinsights | [Read More](https://medium.com/p/57379af90808) |
-| Mon, 18 May 2026 07:05:50 GMT | Part 4: The Final Frontier — Governance, Evals, and Human-in-the-Loop | Durgadas Kamath | [Read More](https://medium.com/p/60d555d16815) |
-| Mon, 18 May 2026 07:04:29 GMT | The Contagious Interview: A Sophisticated Hacking Vector Reshaping Web3 Recruitment Risks | Officer's Notes | [Read More](https://medium.com/p/89a860216f4d) |
-| Mon, 18 May 2026 07:01:05 GMT | InterLink Migration Vote Begins - Active Bounty Season 3 | Phhorkratnak | [Read More](https://medium.com/p/1562a5f4c749) |
-| Mon, 18 May 2026 06:58:27 GMT | Three Druids Walk Into a Bar | Calamedes | [Read More](https://medium.com/p/a64e60e0ca2e) |
-| Mon, 18 May 2026 06:53:06 GMT | How USA Businesses Can Save Costs With Cyber Security Services in Pune | Cylentrix.systems | [Read More](https://medium.com/p/78541fd67853) |
-| Mon, 18 May 2026 06:52:29 GMT | Children of The Digital Age | Febriani | [Read More](https://medium.com/p/7b519b28cd1b) |
-| Mon, 18 May 2026 06:49:24 GMT | The Pratfall Effect And The Beautiful Clumsiness Of Being Human | arrayata ೀ✧.* | [Read More](https://medium.com/p/0e0c249e9352) |
-| Mon, 18 May 2026 06:47:06 GMT | The Button I Could Never Press | Ilaha | [Read More](https://medium.com/p/fafa42155d59) |
-| Mon, 18 May 2026 06:46:56 GMT | Construction Security Service in Smithfield NC - Complete Guide 2026 | Guardiex | [Read More](https://medium.com/p/4e1ec9fe6033) |
-| Mon, 18 May 2026 06:45:09 GMT | Environmental Compliance Services: Ensuring Sustainable and Legally Compliant Business Operations | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/a4fadbaf3cbc) |
-| Mon, 18 May 2026 06:35:27 GMT | Cybersecurity Testing Services: Why Enterprise Security Can No Longer Be an Afterthought - Tritusa | Tritusa | [Read More](https://medium.com/p/f4ad8e9c470e) |
-| Mon, 18 May 2026 06:33:42 GMT | Why SOC 2 Budgets Miss Hidden Work | Digital Duffer | [Read More](https://medium.com/p/ad92e2934a85) |
-| Mon, 18 May 2026 06:32:10 GMT | The Hidden Costs of SOC 2 Audits You Need to Know | Digital Duffer | [Read More](https://medium.com/p/288527f20433) |
-| Mon, 18 May 2026 06:23:56 GMT | Judah Code Technology: Driving Innovation Through Smart Software Development | Jeni Jeni | [Read More](https://medium.com/p/617b03b6a7c8) |
-| Mon, 18 May 2026 06:16:00 GMT | Email Protection (Part 2/3): DKIM — The Digital Signature That Ensures No One Tampered With Your… | Meni Tasa ( IT & CyberSecurity) | [Read More](https://medium.com/p/a4b7e165ec3e) |
-| Mon, 18 May 2026 06:15:01 GMT | Security Firms Birmingham | Ptpsecurity | [Read More](https://medium.com/p/638534060aff) |
-| Mon, 18 May 2026 06:13:42 GMT | Windows 11 Pro in 2026: Finally Growing Up | Pritesh Kumar | [Read More](https://medium.com/p/3928b44f49e6) |
-| Mon, 18 May 2026 06:00:29 GMT | CYBERRAKSHAK TECHNOLOGIES PVT. LTD. | Cyberrakshaktechnologies | [Read More](https://medium.com/p/ae291f5989e0) |
-| Mon, 18 May 2026 05:49:57 GMT | Concierge Services in Vancouver for High-Rise Communities | Grit Security | [Read More](https://medium.com/p/27a9d5cb3fe4) |
-| Mon, 18 May 2026 05:49:42 GMT | What Are the Types of Attacks Against Web Servers? | Vpshosting | [Read More](https://medium.com/p/643d96596d72) |
-| Mon, 18 May 2026 05:49:28 GMT | Children Tamper With | efinda | [Read More](https://medium.com/p/c9eee1c0903f) |
-| Mon, 18 May 2026 05:45:03 GMT | Cracking SMB Wide Open: Brute-Force with Metasploit on TryHackMe | Kyrillos Kamal | [Read More](https://medium.com/p/f71258db3be8) |
-| Mon, 18 May 2026 05:41:27 GMT | Block Domains Locally without and Public DNS. | err0rgod | [Read More](https://medium.com/p/bf5faec91cfb) |
-| Mon, 18 May 2026 05:30:01 GMT | Understanding cloud resource manager in Google cloud platform(GCP) | unica 02 | [Read More](https://medium.com/p/13aa32ecf829) |
