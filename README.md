@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 May 2026 20:09:02 GMT | CyberDefenders — PoisonedCredentials Lab | Efe Özel | [Read More](https://medium.com/p/170318aafa7e) |
+| Mon, 18 May 2026 20:05:08 GMT | Don’t Give AI Root Access. Give It Guardrails. | Karine | [Read More](https://medium.com/p/3ae25de1808f) |
+| Mon, 18 May 2026 20:05:03 GMT | Strategies for Securing DCA Bots: Protecting Your Automated Trades | ShielfForge - Web3 Wallet Security News | [Read More](https://medium.com/p/2b6eac7d4f3f) |
+| Mon, 18 May 2026 19:57:04 GMT | How Attackers Exploit Price Feeds: Advanced Oracle Manipulation Tactics | ShielfForge - Web3 Wallet Security News | [Read More](https://medium.com/p/bf5c034fdcd7) |
+| Mon, 18 May 2026 19:57:02 GMT | TryHackMe: 0Day — CTF Write-Up | Burak | [Read More](https://medium.com/p/c5faea2e3b98) |
+| Mon, 18 May 2026 19:50:49 GMT | Getting Started With Implementing the NIST Cybersecurity Framework 2.0 as a Belizean Small Business | Daphne Stewart | [Read More](https://medium.com/p/6b968e178a5c) |
+| Mon, 18 May 2026 19:48:11 GMT | An AI-Enhanced Workflow for Signature Evasion Testing | Tom O'Neill | [Read More](https://medium.com/p/796859350b58) |
+| Mon, 18 May 2026 19:32:17 GMT | What a Music Festival Can Teach Us About Cybersecurity | HackTheCyber | [Read More](https://medium.com/p/8e1edfbfde23) |
+| Mon, 18 May 2026 19:26:00 GMT | How to Secure Your Website Like a Pro | Mubashir | [Read More](https://medium.com/p/77cb26a7153f) |
+| Mon, 18 May 2026 19:08:25 GMT | Securing EKS Using DevSecOps Principles | Puja Maheshvari | [Read More](https://medium.com/p/5a28892a7e24) |
+| Mon, 18 May 2026 19:07:40 GMT | Portable storage remains essential for businesses managing secure files, backups, and shared data… | Opal Lock by Fidelity Height | [Read More](https://medium.com/p/6d33269f99eb) |
+| Mon, 18 May 2026 19:06:29 GMT | Making Authorization a Compile Error | Dan Guisinger | [Read More](https://medium.com/p/ae6a32d0c7c7) |
+| Mon, 18 May 2026 18:57:39 GMT | AI is Making Average Attackers More Dangerous | Jagan Raj Raviraja | [Read More](https://medium.com/p/42cffc744edc) |
+| Mon, 18 May 2026 18:56:10 GMT | How to Hire Professional Event Crew in London — A Complete Guide | waeventservices.co.uk/ | [Read More](https://medium.com/p/da14d8a172f7) |
+| Mon, 18 May 2026 18:52:34 GMT | The Day AI Changed the Security Perimeter | Little_Sun4lower | [Read More](https://medium.com/p/2d6b623b5006) |
+| Mon, 18 May 2026 18:32:58 GMT | Banditry: The Pains Inflicted | Oluwanifemi O. | [Read More](https://medium.com/p/1178cee379a4) |
+| Mon, 18 May 2026 18:17:50 GMT | Building an Agentic SOC Workflow: Automating Brute Force Triage with Splunk, n8n, and ChatGPT | Immanuel Samuel | [Read More](https://medium.com/p/a0f172598d62) |
+| Mon, 18 May 2026 18:17:18 GMT | TryHackMe — W1seGuy CTF Writeup | Aryan Vij | [Read More](https://medium.com/p/d0016a6979ca) |
 | Mon, 18 May 2026 18:11:52 GMT | Separation of Powers Is a Security Pattern | Viktor Kessler | [Read More](https://medium.com/p/63ef4422eb0b) |
 | Mon, 18 May 2026 18:07:32 GMT | SYMFONOS: 1 | İlteriş Kaan Pehlivan | [Read More](https://medium.com/p/886cfb29d7cf) |
 | Mon, 18 May 2026 18:01:58 GMT | Zero Trust Security in 2026: Why “Never Trust, Always Verify” Matters More Than Ever | Caleb DeBari | [Read More](https://medium.com/p/86f42f624041) |
@@ -36,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 May 2026 17:08:18 GMT | You Shall Not Pass — Allow/Deny Policies for MCP Tools Are Now in Heimdall | Enmanuel Magallanes Pinargote | [Read More](https://medium.com/p/4f304a6557cc) |
 | Mon, 18 May 2026 16:55:32 GMT | The Weaponization of Agentic AI and the Need for Governed Execution | Oscar Antonangelo | [Read More](https://medium.com/p/0246d91fe89a) |
 | Mon, 18 May 2026 16:52:24 GMT | SQL Injection in Numeric Parameter(int) without common special characters | Ahmed Abdelbaset | [Read More](https://medium.com/p/ae31e15ea3e3) |
+| Mon, 18 May 2026 16:50:24 GMT | สอบ OSCP+ ในปี 2026 | Peeradon Phaewthaisong | [Read More](https://medium.com/p/6e2a7dddb582) |
 | Mon, 18 May 2026 16:42:32 GMT | ️‍♂️ Hidden Endpoints Hunting Using HTML Comments — Easy Win for Bug Hunters | Akshaykp | [Read More](https://medium.com/p/3905aea0afd1) |
 | Mon, 18 May 2026 16:38:10 GMT | Why I Stopped Making My User Entity Implement UserDetails Directly in Spring Security | Raushan Kumar | [Read More](https://medium.com/p/35247bf7565e) |
 | Mon, 18 May 2026 16:32:54 GMT | When APIs Don’t Play by the Rules — Multiple Authorization Bypasses in a SaaS Platform | Sagar Kirola | [Read More](https://medium.com/p/dc06a242f6a6) |
@@ -94,22 +113,3 @@ This is my honest account of something… | Asad Ansari | [Read More](https://me
 | Mon, 18 May 2026 12:19:50 GMT | When Should a CTO Hire a vCISO? | Himanshu Sharma | [Read More](https://medium.com/p/0556c633fd21) |
 | Mon, 18 May 2026 12:16:42 GMT | The Mathematics of Privacy — How VPNs Secretly Build an Invisible Fortress Around Your Internet… | Devansh Patel | [Read More](https://medium.com/p/c51bd62b4ad4) |
 | Mon, 18 May 2026 12:15:44 GMT | [GitHub] Personal Access Token(PAT) 발급하기 | Seungjin Lee | [Read More](https://medium.com/p/1295641bf0e7) |
-| Mon, 18 May 2026 12:15:33 GMT | When defence spending, sanctions enforcement, and AI governance move in the same week, it’s not a… | Carver Publisher | [Read More](https://medium.com/p/6857d7bb7d27) |
-| Mon, 18 May 2026 12:15:17 GMT | The 1.1-Second Hijack: Why npm install is Now a Liability. | Haniakhan | [Read More](https://medium.com/p/78fab96b084c) |
-| Mon, 18 May 2026 12:15:02 GMT | The Black Box AI Shrug — Part 2: From Opaque Confidence Scores to Verifiable Evidence Chains | HarkX | [Read More](https://medium.com/p/12e165b50187) |
-| Mon, 18 May 2026 12:12:55 GMT | DMARC Enforcement Gap: Q1 2026 Data | Jack Zagorski | [Read More](https://medium.com/p/db1588931305) |
-| Mon, 18 May 2026 12:11:50 GMT | Why Zero Trust Is Changing the Traditional Perimeter Security | Muhammad Adenowo | [Read More](https://medium.com/p/eb003f927d70) |
-| Mon, 18 May 2026 12:07:53 GMT | Best Proxy Providers for Businesses and Developers | Patricia Morales | [Read More](https://medium.com/p/037cd278197f) |
-| Mon, 18 May 2026 12:06:46 GMT | SOC as a Service: A Smarter Approach to Cybersecurity | Digital Defense | [Read More](https://medium.com/p/23120a5145a7) |
-| Mon, 18 May 2026 12:05:01 GMT | Owning It, Part 2: The Costanza Effect | Dr. Sonny Saggar | [Read More](https://medium.com/p/0df49cb9996b) |
-| Mon, 18 May 2026 12:03:12 GMT | Can You Be Hacked in Just 5 Minutes? - NareshIT | Naresh I Technologies | [Read More](https://medium.com/p/f0a072ecba37) |
-| Mon, 18 May 2026 12:01:00 GMT | Common School Visitor Management Mistakes on Long Island | NCDCommunication | [Read More](https://medium.com/p/d3c616e906a3) |
-| Mon, 18 May 2026 11:54:21 GMT | CVE-2007–2447: Exploiting Samba to Gain Root Shell on Metasploitable 2 | Ume-Habiba | [Read More](https://medium.com/p/b35fe955a1c9) |
-| Mon, 18 May 2026 11:53:34 GMT | A Clear and Practical Guide to Cyber Security Consulting for SMEs | Advanta Advisory | [Read More](https://medium.com/p/1d986b584809) |
-| Mon, 18 May 2026 11:44:43 GMT | OWASP Top 10 2021 #7 — Identification and Authentication Failures | Kanishkakhandelwal | [Read More](https://medium.com/p/98af3ccae861) |
-| Mon, 18 May 2026 11:37:17 GMT | Cyber Security Course in Ahmedabad: Build Future Skills for a Successful Career | IDSL Academy - IT Training Institute in Ahmedabad | [Read More](https://medium.com/p/1246e9dd3855) |
-| Mon, 18 May 2026 11:29:27 GMT | Police, Rotary Must Partner for Sustainable Security — IGP at Rotary DISCON 2026 | PHFreshnews | [Read More](https://medium.com/p/eb3fc48a2243) |
-| Mon, 18 May 2026 11:27:35 GMT | Cybersecurity career paths for those of you who already have at least a basic understanding of… | Brayy | [Read More](https://medium.com/p/1d17dbba65d0) |
-| Mon, 18 May 2026 11:16:33 GMT | SQL & NoSQL Injection in APIs — The Vulnerability That Still Puts YOUR Data at Risk | Sana Jalil | [Read More](https://medium.com/p/98ed14eebd23) |
-| Mon, 18 May 2026 11:02:27 GMT | Building MCP Servers with FastMCP: 7 Mistakes Worth Avoiding | Vitaly Sem | [Read More](https://medium.com/p/07f81f693250) |
-| Mon, 18 May 2026 11:01:00 GMT | Understanding CWE-209: Generation of Error Message Containing Sensitive Information | Walter Moar | [Read More](https://medium.com/p/495f2edeee8b) |
