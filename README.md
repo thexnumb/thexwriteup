@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 18 May 2026 21:38:00 GMT | Peter G. Neumann, 1932–2026: The Long Memory of Computing | Brian Haman, PhD | [Read More](https://medium.com/p/43b4c2be996e) |
+| Mon, 18 May 2026 21:30:18 GMT | The Regex Said Safe. The Parser Disagreed, NASA Earth Science Platform had a Critical Vulnerability | Dewank Pant | [Read More](https://medium.com/p/d79245e81086) |
+| Mon, 18 May 2026 21:26:16 GMT | How to Detect Lateral Movement with Elastic SIEM: SOC Analyst Hands-On Lab - Hunt Forward Lab #006 | Hunt Forward | [Read More](https://medium.com/p/4d5f054d8d5b) |
+| Mon, 18 May 2026 21:01:09 GMT | 200,000 WordPress Sites at Risk from Critical Authentication Bypass Vulnerability in Burst… | Wordfence | [Read More](https://medium.com/p/985ad57725b5) |
+| Mon, 18 May 2026 20:58:10 GMT | Nmap Series: Nmap Basic Port Scans — Part 2. | Oluwakamiye Adeyemo | [Read More](https://medium.com/p/778b93193f83) |
+| Mon, 18 May 2026 20:56:26 GMT | Close Protection Security | Dynamic security solution ltd | [Read More](https://medium.com/p/e7db0e977813) |
+| Mon, 18 May 2026 20:53:40 GMT | Tournament Security Guard Services California - All Star Security Services | Matthew | [Read More](https://medium.com/p/097f36a0da46) |
+| Mon, 18 May 2026 20:51:06 GMT | The Internet Has a Trust Problem. AI Just Made It Unsolvable, Unless We Act Now. | Sandra Cai | [Read More](https://medium.com/p/169d3570e954) |
+| Mon, 18 May 2026 20:44:21 GMT | Lab 01–01: Basic Static Analysis and Triage | Salim Fouaissi | [Read More](https://medium.com/p/4db898bf22c1) |
+| Mon, 18 May 2026 20:41:23 GMT | ️SOC”Security Operation Center”— First Malware Incident | Zoningxtr | [Read More](https://medium.com/p/e04fefcf3ef1) |
+| Mon, 18 May 2026 20:41:00 GMT | ️ SOC “Security Operation Center”-SIEM Correlation Rules | Zoningxtr | [Read More](https://medium.com/p/b8ba73caf889) |
+| Mon, 18 May 2026 20:35:41 GMT | Discover Hidden Endpoints with a Simple Bookmarklet | Pushkar Padhye | [Read More](https://medium.com/p/3add583152c8) |
+| Mon, 18 May 2026 20:28:38 GMT | Reviewing TanStack Supply Chain Attack with Synk on NPM. | Steven Rescigno | [Read More](https://medium.com/p/27879500cd82) |
+| Mon, 18 May 2026 20:23:25 GMT | CI Fortify: Securing Critical Infrastructure Through Offline Resilience | SOCFortress | [Read More](https://medium.com/p/e8c5e8bc7a1f) |
 | Mon, 18 May 2026 20:09:02 GMT | CyberDefenders — PoisonedCredentials Lab | Efe Özel | [Read More](https://medium.com/p/170318aafa7e) |
 | Mon, 18 May 2026 20:05:08 GMT | Don’t Give AI Root Access. Give It Guardrails. | Karine | [Read More](https://medium.com/p/3ae25de1808f) |
 | Mon, 18 May 2026 20:05:03 GMT | Strategies for Securing DCA Bots: Protecting Your Automated Trades | ShielfForge - Web3 Wallet Security News | [Read More](https://medium.com/p/2b6eac7d4f3f) |
@@ -99,17 +113,3 @@ This is my honest account of something… | Asad Ansari | [Read More](https://me
 | Mon, 18 May 2026 14:01:23 GMT | CISSP Chapter 2 — Part 4: Awareness Is Not a Slide Deck. It Is a Security Culture in Motion. | Atakan ATAK | [Read More](https://medium.com/p/4a0b6e946d3a) |
 | Mon, 18 May 2026 13:58:56 GMT | Desires HTB Web Challenge | Youssef Mohammed | [Read More](https://medium.com/p/9aa07a4a224a) |
 | Mon, 18 May 2026 13:58:34 GMT | I love unmade beds. | Preesha | [Read More](https://medium.com/p/f7258698fe08) |
-| Mon, 18 May 2026 13:50:14 GMT | One Header Away From Disaster: Exploiting CORS Misconfigurations in the Wild | 0xAbhiSec | [Read More](https://medium.com/p/bd4001cf8940) |
-| Mon, 18 May 2026 13:49:19 GMT | H-1B RFEs for IT Roles: How TheDegreePeople.com Helps Build Strong Responses | Sheila Danzig | [Read More](https://medium.com/p/20f71c7b8ee5) |
-| Mon, 18 May 2026 13:41:58 GMT | ReconX Automation - Save Hours on Bug Bounty Recon | Pentester Club | [Read More](https://medium.com/p/5bde55aef0fb) |
-| Mon, 18 May 2026 13:31:06 GMT | My GCP Service Accounts Had Too Much Power. Here’s How I Fixed It. | Aleksei Aleinikov | [Read More](https://medium.com/p/ab3e223d2594) |
-| Mon, 18 May 2026 13:12:49 GMT | Tomcat Takeover Lab — Cyberdefenders | Yrddry | [Read More](https://medium.com/p/7a843eb42844) |
-| Mon, 18 May 2026 13:05:18 GMT | Subdomain Takeover | PewPew | [Read More](https://medium.com/p/f5fb333ad515) |
-| Mon, 18 May 2026 12:55:10 GMT | Fiber Optics in Emerging Markets: Deployment, Regulation, and Technical Infrastructure Development… | Thoko Miya | [Read More](https://medium.com/p/f57fb5b36ec6) |
-| Mon, 18 May 2026 12:46:00 GMT | What LLM Observatory Is Today and What It Would Take to Run It in Production | Manjunath Hanmantgad | [Read More](https://medium.com/p/12551277c52b) |
-| Mon, 18 May 2026 12:42:51 GMT | Speed-Running Public APIs: Where Your Scraper Actually Loses the Race | Dimitri DO BAIRRO | [Read More](https://medium.com/p/b525be9ded2c) |
-| Mon, 18 May 2026 12:36:03 GMT | Voice Bot Companies in India | Ashutosh Mallik | [Read More](https://medium.com/p/b6774c07c454) |
-| Mon, 18 May 2026 12:20:29 GMT | Why Traditional Security Fails — and How NDR Fixes It | NetWitness | [Read More](https://medium.com/p/fa4009e0588b) |
-| Mon, 18 May 2026 12:19:50 GMT | When Should a CTO Hire a vCISO? | Himanshu Sharma | [Read More](https://medium.com/p/0556c633fd21) |
-| Mon, 18 May 2026 12:16:42 GMT | The Mathematics of Privacy — How VPNs Secretly Build an Invisible Fortress Around Your Internet… | Devansh Patel | [Read More](https://medium.com/p/c51bd62b4ad4) |
-| Mon, 18 May 2026 12:15:44 GMT | [GitHub] Personal Access Token(PAT) 발급하기 | Seungjin Lee | [Read More](https://medium.com/p/1295641bf0e7) |
