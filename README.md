@@ -12,13 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 May 2026 22:35:24 GMT | Why Your Security Strategy Works in Theory but Fails in Reality | JSOC IT BLOG | [Read More](https://medium.com/p/e72c09658c56) |
+| Tue, 19 May 2026 22:31:40 GMT | Cisco Open-Sources Agentic AI Security Specification | Valentin Podkamennyi | [Read More](https://medium.com/p/fa68e726be69) |
+| Tue, 19 May 2026 22:29:21 GMT | Nmap Series: Nmap Advanced Port Scans — Part 3. | Oluwakamiye Adeyemo | [Read More](https://medium.com/p/dd167fc2d566) |
+| Tue, 19 May 2026 22:16:44 GMT | The Silent Cloud Security Crisis: Why Non-Human Identities(NHI) Are Today’s Biggest Blind Spot | Kamal Shah | [Read More](https://medium.com/p/29b1cdb2f8e1) |
+| Tue, 19 May 2026 22:00:44 GMT | TryHackMe SOC Level 1 — Alert Reporting, Escalation & Communication Walkthrough | Kareeb Sadab | [Read More](https://medium.com/p/f296bd9d837e) |
 | Tue, 19 May 2026 21:52:26 GMT | Is there a resurgence of Jihadism in Nigeria? | David Adejumo | [Read More](https://medium.com/p/0c769dbba23c) |
+| Tue, 19 May 2026 21:50:56 GMT | Lab: Information disclosure on debug page | Songül Kızılay Özügürler | [Read More](https://medium.com/p/ef0712c57dd7) |
 | Tue, 19 May 2026 21:41:18 GMT | World Password Day: 5 Password Managers That Help Keep Your Digital Life Secure | MacSources | [Read More](https://medium.com/p/a79b9364680b) |
 | Tue, 19 May 2026 21:32:34 GMT | Mythic C2 Server ile AS-REP Roasting Attack ve Splunk ile Detection | ozan bozkurt | [Read More](https://medium.com/p/5c46bccf3e3f) |
 | Tue, 19 May 2026 21:31:43 GMT | Information disclosure in error messages | Songül Kızılay Özügürler | [Read More](https://medium.com/p/8ff9b77d825f) |
 | Tue, 19 May 2026 21:22:21 GMT | NYPD & Mamdani Office Mum on When They’ll Remove Increased Police Presence Placed Due to Iran War | Alysha V. Scarlett | [Read More](https://medium.com/p/a362acac38aa) |
 | Tue, 19 May 2026 21:18:46 GMT | the observer | ⋆. ˚࿔ yamika ˚⋆ | [Read More](https://medium.com/p/30e663f911ce) |
 | Tue, 19 May 2026 21:15:05 GMT | Vibe Coding is Over! Here’s What Comes Next. | Priyanshu Sahu | [Read More](https://medium.com/p/f718fd438e83) |
+| Tue, 19 May 2026 21:11:00 GMT | ️ Gestión Estratégica de KPIs, KRIs y SLAs en Seguridad️ | Michel Alan López | [Read More](https://medium.com/p/e437438da04b) |
 | Tue, 19 May 2026 21:09:40 GMT | The Internet Feels Lonely Again — Here’s Why Random Chat Platforms Like PairUp.chat | Tweak | [Read More](https://medium.com/p/3831cbcdbea6) |
 | Tue, 19 May 2026 21:08:19 GMT | Stop Committing Secrets: How to Bulletproof Your Repositories with Gitleaks and Global Git Hooks | πολύτροπος ἀνήρ | [Read More](https://medium.com/p/bfb5e4ebddc8) |
 | Tue, 19 May 2026 20:56:09 GMT | hope and vulnerability | Jai Varun | [Read More](https://medium.com/p/8321aa3792d9) |
@@ -106,10 +113,3 @@ M̴̦͌E̷͉͋R̶̖͂T̵͉̒ ̵̻̀K̴̛͕A̷͉̓R̷̙̐Ä̸̫Ḱ̷̫A̷̧͆Ş�
 | Tue, 19 May 2026 14:59:33 GMT | AI vulnerability scanning needs an attacker story | Frank | [Read More](https://medium.com/p/136cc79ba74a) |
 | Tue, 19 May 2026 14:46:00 GMT | When the Room Gets Too Big to Trust | Wes Young | [Read More](https://medium.com/p/3c77a68a775f) |
 | Tue, 19 May 2026 14:21:27 GMT | Most authentication systems built quickly by vibe coding don’t fail because of missing features. | Ayman | [Read More](https://medium.com/p/b3927b7e9f1c) |
-| Tue, 19 May 2026 14:18:12 GMT | The Forward Deployed Engineer Fallacy: When Management Fails, Rebrand the Engineer | Namir Sagheenanajar | [Read More](https://medium.com/p/e032298339d6) |
-| Tue, 19 May 2026 14:16:00 GMT | I Got Called Into a Meeting Because ‘I’m the Hacker’ — Here’s What Happened | Vijay Kumar Gupta | [Read More](https://medium.com/p/245d3160f4b6) |
-| Tue, 19 May 2026 14:13:53 GMT | Guildford to Box Hill | 阿柿 | [Read More](https://medium.com/p/0d1e547cad37) |
-| Tue, 19 May 2026 14:11:32 GMT | CU CTF- Ping Writeup | 0XTurbo | [Read More](https://medium.com/p/b810ba08946f) |
-| Tue, 19 May 2026 14:11:29 GMT | Get Paid to Break AI Products: A Practical Guide to Hunting on Genbounty | Genbounty Blog | [Read More](https://medium.com/p/f0c603f8ad49) |
-| Tue, 19 May 2026 14:07:14 GMT | Launch an AI Bug Bounty Program Before Your Users Find the Jailbreak | Genbounty Blog | [Read More](https://medium.com/p/4f23bc83acc0) |
-| Tue, 19 May 2026 14:07:14 GMT | How a $285 Camera Saved a Warehouse $200,000 in Theft | Emma Thomas | [Read More](https://medium.com/p/c159f79546f7) |
