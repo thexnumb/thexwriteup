@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 May 2026 21:52:26 GMT | Is there a resurgence of Jihadism in Nigeria? | David Adejumo | [Read More](https://medium.com/p/0c769dbba23c) |
+| Tue, 19 May 2026 21:41:18 GMT | World Password Day: 5 Password Managers That Help Keep Your Digital Life Secure | MacSources | [Read More](https://medium.com/p/a79b9364680b) |
+| Tue, 19 May 2026 21:32:34 GMT | Mythic C2 Server ile AS-REP Roasting Attack ve Splunk ile Detection | ozan bozkurt | [Read More](https://medium.com/p/5c46bccf3e3f) |
+| Tue, 19 May 2026 21:31:43 GMT | Information disclosure in error messages | Songül Kızılay Özügürler | [Read More](https://medium.com/p/8ff9b77d825f) |
+| Tue, 19 May 2026 21:22:21 GMT | NYPD & Mamdani Office Mum on When They’ll Remove Increased Police Presence Placed Due to Iran War | Alysha V. Scarlett | [Read More](https://medium.com/p/a362acac38aa) |
+| Tue, 19 May 2026 21:18:46 GMT | the observer | ⋆. ˚࿔ yamika ˚⋆ | [Read More](https://medium.com/p/30e663f911ce) |
+| Tue, 19 May 2026 21:15:05 GMT | Vibe Coding is Over! Here’s What Comes Next. | Priyanshu Sahu | [Read More](https://medium.com/p/f718fd438e83) |
+| Tue, 19 May 2026 21:09:40 GMT | The Internet Feels Lonely Again — Here’s Why Random Chat Platforms Like PairUp.chat | Tweak | [Read More](https://medium.com/p/3831cbcdbea6) |
+| Tue, 19 May 2026 21:08:19 GMT | Stop Committing Secrets: How to Bulletproof Your Repositories with Gitleaks and Global Git Hooks | πολύτροπος ἀνήρ | [Read More](https://medium.com/p/bfb5e4ebddc8) |
+| Tue, 19 May 2026 20:56:09 GMT | hope and vulnerability | Jai Varun | [Read More](https://medium.com/p/8321aa3792d9) |
+| Tue, 19 May 2026 20:54:34 GMT | Deauthentication + Evil Twin + Captive Portal Attack: Wi-Fi Hücum Zəncirinin Təhlili və Müdafiə… | Kanan Kazimov | [Read More](https://medium.com/p/b3e07a7afc53) |
+| Tue, 19 May 2026 20:47:25 GMT | The Quiet Cybersecurity Problem in DD Waiver Software | Dana Kiser | [Read More](https://medium.com/p/2c6420788b4b) |
+| Tue, 19 May 2026 20:46:47 GMT | The Camera in Your House: Notes from the Last Day of Free Speech | RVwv.B | [Read More](https://medium.com/p/16234a467e58) |
+| Tue, 19 May 2026 20:43:40 GMT | Hypnos-Q1: Open-Weight 4B LLM With Real Quantum Hardware in the Forward Pass | Misha | [Read More](https://medium.com/p/ec9e9422dbf0) |
+| Tue, 19 May 2026 20:17:53 GMT | Remote Process Read Primitive via NtCreateThreadEx Exit Code | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8370c54ed648) |
+| Tue, 19 May 2026 20:15:51 GMT | Hire a Hacker Pro: Comprehensive Authorized Cybersecurity and Digital Protection Services Summary | Marcus Patron | [Read More](https://medium.com/p/d490336ae7a6) |
+| Tue, 19 May 2026 20:11:58 GMT | SVET State of the World Report for May 18, 2026. | SVET | [Read More](https://medium.com/p/b3e9eaacbb3c) |
 | Tue, 19 May 2026 19:50:22 GMT | Add Guardrails to LLM Apps with IA-QA Shield (PII, Toxicity, Hallucination) | Jean-Christophe Jamet | [Read More](https://medium.com/p/cbf122aa81a7) |
 | Tue, 19 May 2026 19:47:51 GMT | CVE-2026–47092:RCE in a Tool Used by Thousands of Claude Code Developers | Katriel Moses | [Read More](https://medium.com/p/77858ee0dc3c) |
 | Tue, 19 May 2026 19:46:54 GMT | MacOS security has taken a HIT | BAlves | [Read More](https://medium.com/p/ae4c33d3d30b) |
@@ -96,20 +113,3 @@ M̴̦͌E̷͉͋R̶̖͂T̵͉̒ ̵̻̀K̴̛͕A̷͉̓R̷̙̐Ä̸̫Ḱ̷̫A̷̧͆Ş�
 | Tue, 19 May 2026 14:11:29 GMT | Get Paid to Break AI Products: A Practical Guide to Hunting on Genbounty | Genbounty Blog | [Read More](https://medium.com/p/f0c603f8ad49) |
 | Tue, 19 May 2026 14:07:14 GMT | Launch an AI Bug Bounty Program Before Your Users Find the Jailbreak | Genbounty Blog | [Read More](https://medium.com/p/4f23bc83acc0) |
 | Tue, 19 May 2026 14:07:14 GMT | How a $285 Camera Saved a Warehouse $200,000 in Theft | Emma Thomas | [Read More](https://medium.com/p/c159f79546f7) |
-| Tue, 19 May 2026 14:05:49 GMT | AI agents are not users. Stop giving them human-shaped permissions. | Thomas De Vos | [Read More](https://medium.com/p/a8aa35a252ce) |
-| Tue, 19 May 2026 14:02:46 GMT | Pickle Rick CTF | Rormsbee | [Read More](https://medium.com/p/306304c07566) |
-| Tue, 19 May 2026 14:00:25 GMT | Passing the AD-RTS (AD Red Team Specialist) from CyberWarfare Labs | The Husky Hacker | [Read More](https://medium.com/p/4b31ac3f4e88) |
-| Tue, 19 May 2026 13:57:31 GMT | Security Company Near Me | Ptpsecurity | [Read More](https://medium.com/p/c024966fb031) |
-| Tue, 19 May 2026 13:52:50 GMT | The Battlefield of Truth: Defining Narrative Control in LATAM Cyber-Crisis | ADanielHill | [Read More](https://medium.com/p/6887bdca7db4) |
-| Tue, 19 May 2026 13:52:16 GMT | PoE Switches Explained: Why Your Access Points Keep Dropping | Norahaiden | [Read More](https://medium.com/p/c87b97f38e55) |
-| Tue, 19 May 2026 13:50:28 GMT | Why Digital Defence Matters More Than Ever | Uzairpatel | [Read More](https://medium.com/p/c36fba6e92d8) |
-| Tue, 19 May 2026 13:35:01 GMT | Local Privilege Escalation in Pardus Linux: How Three Bugs Chain Into a Full Root Shell -… | NullSecurityX | [Read More](https://medium.com/p/b082b2ec5666) |
-| Tue, 19 May 2026 13:21:54 GMT | Unauthenticated API Access & Internal Data Exposure. | Ahmed | [Read More](https://medium.com/p/5dd458309ec9) |
-| Tue, 19 May 2026 13:21:00 GMT | Your Message Ringtone | JustMe | [Read More](https://medium.com/p/a85731c16c3e) |
-| Tue, 19 May 2026 13:19:03 GMT | AI-Driven Pentesting: How to Deploy PentAGI on Kali Linux | MrGood | [Read More](https://medium.com/p/76fb838bc683) |
-| Tue, 19 May 2026 13:16:47 GMT | New VoidStealer Malware Bypasses Chrome App-Bound Encryption to Steal Sessions and Credentials | Inforsecpro | [Read More](https://medium.com/p/b1502fe07262) |
-| Tue, 19 May 2026 13:15:43 GMT | Overwhelmed by Info | Alex Zuniga | [Read More](https://medium.com/p/49fb7d94edcd) |
-| Tue, 19 May 2026 13:12:21 GMT | I Followed a Simple Lead…And It Turned Into a Full Compromise | Fateyaly | [Read More](https://medium.com/p/920478ece3d7) |
-| Tue, 19 May 2026 13:12:17 GMT | There’s an Invisible Credit Card Skimmer Hiding in 40,000 Websites Right Now | Jazz Cyber Shield | [Read More](https://medium.com/p/8ddf56ba4a81) |
-| Tue, 19 May 2026 13:11:00 GMT | Hackers Use AI Better Than You | Musunuru Sharmila | [Read More](https://medium.com/p/4439c158660f) |
-| Tue, 19 May 2026 13:08:47 GMT | DevSecOps Is No Longer Optional | Nitin Gupta | [Read More](https://medium.com/p/a61edf44d212) |
