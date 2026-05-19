@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 May 2026 19:50:22 GMT | Add Guardrails to LLM Apps with IA-QA Shield (PII, Toxicity, Hallucination) | Jean-Christophe Jamet | [Read More](https://medium.com/p/cbf122aa81a7) |
+| Tue, 19 May 2026 19:47:51 GMT | CVE-2026–47092:RCE in a Tool Used by Thousands of Claude Code Developers | Katriel Moses | [Read More](https://medium.com/p/77858ee0dc3c) |
+| Tue, 19 May 2026 19:46:54 GMT | MacOS security has taken a HIT | BAlves | [Read More](https://medium.com/p/ae4c33d3d30b) |
+| Tue, 19 May 2026 19:46:27 GMT | Linux Capture The Flag Bandit Level 14 | Red | [Read More](https://medium.com/p/b648283142ed) |
+| Tue, 19 May 2026 19:44:36 GMT | TO MY YET-UNKNOWN | Jasmine N.J Mhando | [Read More](https://medium.com/p/17c3fad3a715) |
+| Tue, 19 May 2026 19:43:10 GMT | The Architecture of Trust | HackTheCyber | [Read More](https://medium.com/p/c1bd40b86ca4) |
+| Tue, 19 May 2026 19:40:34 GMT | The GRC Professional of the Future: Why Context Beats Frameworks | Taimur Ijlal | [Read More](https://medium.com/p/09299443280f) |
+| Tue, 19 May 2026 19:39:09 GMT | Why I Started Building a SOC Lab at Home. | Hamdi Anas K | [Read More](https://medium.com/p/a1b7e47bdf3b) |
+| Tue, 19 May 2026 19:27:01 GMT | Session Recording Is Not Least Privilege | Samuli Siltanen | [Read More](https://medium.com/p/f497fe390984) |
+| Tue, 19 May 2026 19:23:43 GMT | Zero Trust Ain’t Zero Trust if Everyone Still Has God Mode | Tia B | [Read More](https://medium.com/p/89bc3e55e1dc) |
+| Tue, 19 May 2026 19:23:02 GMT | An AI Agent Deleted a Live Production Database in Seconds. | Mike McNelis | [Read More](https://medium.com/p/f69def4a243e) |
+| Tue, 19 May 2026 19:22:47 GMT | Week 8: How to Stay Anonymous on the Internet Using Linux | Nishant kumar | [Read More](https://medium.com/p/bb00b81d1970) |
+| Tue, 19 May 2026 19:21:31 GMT | Loved Right In the Wrong Places | Sinmiloluwa Omole | [Read More](https://medium.com/p/0e6baaf9a713) |
+| Tue, 19 May 2026 19:19:22 GMT | AI Models & Data | Rormsbee | [Read More](https://medium.com/p/ad901db69d7a) |
+| Tue, 19 May 2026 19:09:18 GMT | Linux Kernel Management in the Age of AI Bug Hunting | SOCFortress | [Read More](https://medium.com/p/810a9fe3499f) |
+| Tue, 19 May 2026 19:05:21 GMT | The Art of Remembering: Loud Love, Quiet Spaces | Deadpoet | [Read More](https://medium.com/p/1488a6b103fd) |
+| Tue, 19 May 2026 19:01:23 GMT | 20 JavaScript Recon Tricks to Find Hidden APIs, Secrets, Admin Routes, and Bug Bounty Targets | BugHunter’s Journal | [Read More](https://medium.com/p/8a8d0eee64a5) |
+| Tue, 19 May 2026 19:01:12 GMT | Building a Python Security Automation Lab for SOC and Cloud Security Workflows | Sanya Sachdeva | [Read More](https://medium.com/p/4d00f8375614) |
+| Tue, 19 May 2026 18:58:10 GMT | The Ultimate Smart Home Security Device: Who Should You Let Inside? Blink VideoDoorbell Vs. | Shop with peace of mind | [Read More](https://medium.com/p/8d8a8f96b035) |
+| Tue, 19 May 2026 18:41:00 GMT | NetExec Is the Pentesting Tool Your Team Should Already Be Using | Mark Puckett | [Read More](https://medium.com/p/5c378f11becb) |
+| Tue, 19 May 2026 18:29:05 GMT | أول ثغرة في 3 أيام فقط- تخلّص من عقدة أول ثغرة | Firstbugpath | [Read More](https://medium.com/p/b3a915ab76c9) |
+| Tue, 19 May 2026 18:23:55 GMT | تخلّص من عقدة اكتشاف أول ثغرة.هل لسه مجبتش أول ثغرة؟‎ !!! | Firstbugpath | [Read More](https://medium.com/p/dafc31d4d528) |
+| Tue, 19 May 2026 18:22:33 GMT | When Love Draws Close | Inward Unveiling | [Read More](https://medium.com/p/dd512ee92d96) |
 | Tue, 19 May 2026 18:18:12 GMT | 165 Enterprise Breaches. Zero Exploits. One Governance Failure. | Kush Patel | [Read More](https://medium.com/p/141e5da5626e) |
 | Tue, 19 May 2026 18:11:38 GMT | OWASP Top 10 for .NET Developers - Part 2: Preventing Cryptographic Failures | Surya Raj Ghimire | [Read More](https://medium.com/p/953b84455d87) |
 | Tue, 19 May 2026 18:06:29 GMT | TOC2 ctf - TryHackMe  walkthrough | Uday | [Read More](https://medium.com/p/3ba1e9afb466) |
@@ -90,26 +113,3 @@ M̴̦͌E̷͉͋R̶̖͂T̵͉̒ ̵̻̀K̴̛͕A̷͉̓R̷̙̐Ä̸̫Ḱ̷̫A̷̧͆Ş�
 | Tue, 19 May 2026 13:12:17 GMT | There’s an Invisible Credit Card Skimmer Hiding in 40,000 Websites Right Now | Jazz Cyber Shield | [Read More](https://medium.com/p/8ddf56ba4a81) |
 | Tue, 19 May 2026 13:11:00 GMT | Hackers Use AI Better Than You | Musunuru Sharmila | [Read More](https://medium.com/p/4439c158660f) |
 | Tue, 19 May 2026 13:08:47 GMT | DevSecOps Is No Longer Optional | Nitin Gupta | [Read More](https://medium.com/p/a61edf44d212) |
-| Tue, 19 May 2026 13:08:47 GMT | Understanding 30mg Aderall XR Risks and Long-Term Concerns | Tor BBB | [Read More](https://medium.com/p/78a36afc1c81) |
-| Tue, 19 May 2026 13:02:38 GMT | The Link Between Business Growth and Information Technology | Евгений Зиновьев | [Read More](https://medium.com/p/e9ca0ae332f3) |
-| Tue, 19 May 2026 12:56:00 GMT | To stress or not to stress … during a cyber hack | LottaCvUF | [Read More](https://medium.com/p/2bff320aa57b) |
-| Tue, 19 May 2026 12:52:03 GMT | Canto 5: The Sundered Payload | Tino | [Read More](https://medium.com/p/a88e108e9947) |
-| Tue, 19 May 2026 12:36:15 GMT | Back to Basics: In Cybersecurity (Security Controls). | LEVI | [Read More](https://medium.com/p/892f8d366fd5) |
-| Tue, 19 May 2026 12:28:56 GMT | New WordPress Plugin Vulnerability Raises Risk of Unauthorized Website Access | Suresh | [Read More](https://medium.com/p/d5e088ff63ad) |
-| Tue, 19 May 2026 12:21:41 GMT | What Brisbane Businesses Need Now According to IT Infrastructure | Elevate | [Read More](https://medium.com/p/c9cd11c76a49) |
-| Tue, 19 May 2026 12:13:42 GMT | JWT vs Session Authentication: The Complete Developer Decision Guide (2026) | Tarxemo | [Read More](https://medium.com/p/2b9a8f7e7913) |
-| Tue, 19 May 2026 12:13:20 GMT | XCSSET: The Malware That Hides Inside Your Xcode Projects | Khurramawan | [Read More](https://medium.com/p/8ad0dc3325f5) |
-| Tue, 19 May 2026 12:13:10 GMT | Anthem — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/3534e9d42e88) |
-| Tue, 19 May 2026 12:07:15 GMT | TRS4R3N Spectre Eye | Serhan Kırca | [Read More](https://medium.com/p/b6ceb907dd7c) |
-| Tue, 19 May 2026 12:07:09 GMT | Top 5 Phishing-Driven Social Engineering Attacks on Companies in 2026 | ANY.RUN | [Read More](https://medium.com/p/a13a69d6b130) |
-| Tue, 19 May 2026 12:06:54 GMT | Why Ripple’s Transaction Speed Makes Blockchain Viable for Curbing Nigeria’s Financial Crimes | Lyon Israel Taiwo | [Read More](https://medium.com/p/e246b934c959) |
-| Tue, 19 May 2026 12:06:19 GMT | Stop Reading Regulations, Start Fixing Them: Why I Built an AI Cybersecurity Platform for SMEs | Stanley Ng | [Read More](https://medium.com/p/adc3b58ba698) |
-| Tue, 19 May 2026 12:03:41 GMT | Hunt Lab | Jon Haas | [Read More](https://medium.com/p/18ff95f6a0e5) |
-| Tue, 19 May 2026 12:02:50 GMT | The Art of Footprinting: How Hackers Gather Information Before an Attack | GraySentinel- Cyber Defence Lab | [Read More](https://medium.com/p/c47927eb07d4) |
-| Tue, 19 May 2026 12:02:06 GMT | How Did Mandiant Outgrow FireEye? | David SEHYEON Baek | [Read More](https://medium.com/p/190536182ca6) |
-| Tue, 19 May 2026 12:00:02 GMT | When AI Finds the Shortcut: Reward Hacking from 1994 to 2025 | Josh Gracie | [Read More](https://medium.com/p/9f6357393769) |
-| Tue, 19 May 2026 11:58:56 GMT | The Loki effect: data poisoning as trickster politics in the age of the tech harvest | Kem-Laurin Lubin, Ph.D | [Read More](https://medium.com/p/7352dde5b093) |
-| Tue, 19 May 2026 11:52:24 GMT | I Deleted a File on Windows and Then Traced Every Byte of What Actually Happened | Saqlain Naqvi | [Read More](https://medium.com/p/bfd2363e08a7) |
-| Tue, 19 May 2026 11:49:32 GMT | There’s a Wall of Shame for Vibecoded Apps. Don’t End Up On It. | FLACKO | [Read More](https://medium.com/p/945d4fe27839) |
-| Tue, 19 May 2026 11:23:57 GMT | Choosing Your Entry-Level Security Path: Security+ vs CEH vs SOC Analyst | Aditya | [Read More](https://medium.com/p/2dbd2047c31d) |
-| Tue, 19 May 2026 11:10:20 GMT | Fileless Malware Attacks: 2026 Detection Guide For Defenders | Tvmoffensobacklink | [Read More](https://medium.com/p/e2a1be218c93) |
