@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 19 May 2026 01:23:50 GMT | How Cybersecurity Threats Can Affect Business Computers | TRS Wireless | [Read More](https://medium.com/p/0d707ce4f47e) |
+| Tue, 19 May 2026 01:19:36 GMT | Tuesday Morning Threat Report: May 19, 2026 | Mark Maguire | [Read More](https://medium.com/p/c20ccd6d73fb) |
+| Tue, 19 May 2026 00:54:49 GMT | Your AI Coding Assistant Is a New Identity. Treat It Like One. | Sleet Labs | [Read More](https://medium.com/p/3a88e46effc8) |
+| Tue, 19 May 2026 00:22:29 GMT | Proton Mail Inbox Zero | Martino J | [Read More](https://medium.com/p/4cd1e1e28a26) |
+| Tue, 19 May 2026 00:05:50 GMT | Platform Engineering in Practice: Hardening Backstage with SRE Watchdogs, Zero-Touch RBAC, and SSRF… | Ultimomoicano | [Read More](https://medium.com/p/f5671ff8b69f) |
+| Tue, 19 May 2026 00:01:02 GMT | Guía de Race Conditions: Tipos, Explotación y Mitigación en APIs | JPablo13 | [Read More](https://medium.com/p/2012d12192c7) |
+| Mon, 18 May 2026 23:59:12 GMT | What Building an IDS/IPS System Taught Me About Real-World AI Systems | Edanur Fırat | [Read More](https://medium.com/p/92c6f9b79ba6) |
+| Mon, 18 May 2026 23:46:47 GMT | Cloud Misconfiguration at Scale: Why It’s America’s Most Underrated Cybersecurity Threat — a… | Oleksandr Sanin | [Read More](https://medium.com/p/d52c48e3fadd) |
+| Mon, 18 May 2026 23:32:24 GMT | PortSwigger Lab #1 — Username Enumeration via Different Responses | b4dk4rm4sec | [Read More](https://medium.com/p/360040edbf30) |
+| Mon, 18 May 2026 23:30:43 GMT | Risk-Based Alerting from Scratch, Part 2: Making It Great | Ryan Cayamanda | [Read More](https://medium.com/p/1b2b1c3d7e4c) |
+| Mon, 18 May 2026 23:22:28 GMT | The Bad AI or an Insider Threat in Your VSCode | Edward K. Law | [Read More](https://medium.com/p/ee795137d0ff) |
 | Mon, 18 May 2026 22:51:30 GMT | What if I have no talent? | Evgenia Evoy | [Read More](https://medium.com/p/fe4814c06d5d) |
 | Mon, 18 May 2026 22:47:15 GMT | AWS KMS Security: Deep Dive — Part 2 | Rick Yang | [Read More](https://medium.com/p/3530cc6c38b0) |
 | Mon, 18 May 2026 22:45:36 GMT | Day 30 — Building Your Linux Hacking Workflow (Final Day) | Cybersecplayground | [Read More](https://medium.com/p/3fa52eb2a45d) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 18 May 2026 15:53:11 GMT | I Found a Mac App Piracy Loophole — And Reported It to Apple
 This is my honest account of something… | Asad Ansari | [Read More](https://medium.com/p/0f17a7cbe30b) |
 | Mon, 18 May 2026 15:51:19 GMT | Unmasking Amadey: When Static Analysis Fails, Dynamic Extraction Prevails | Svetoslav | [Read More](https://medium.com/p/0a201da0b6b8) |
-| Mon, 18 May 2026 15:47:01 GMT | A Night in My Life with Hermes Agent. Or, What Can Possibly Go Wrong? | Alex Nikitin | [Read More](https://medium.com/p/20b720cda7ed) |
-| Mon, 18 May 2026 15:46:30 GMT | Hunting AI Hackers: Detecting LLM Prompt Injection Attacks via Log Analysis | Abdelhalim_husein | [Read More](https://medium.com/p/97b4102b3cf6) |
-| Mon, 18 May 2026 15:46:03 GMT | 1 Million WordPress Sites at Risk: Critical Avada Builder Vulnerabilities Expose Websites to Data… | Jas | [Read More](https://medium.com/p/e3b0e80fd2b4) |
-| Mon, 18 May 2026 15:43:23 GMT | What Happens to Your Business in the 4 Hours After a Firewall Fails | Emma Thomas | [Read More](https://medium.com/p/3a940072050a) |
-| Mon, 18 May 2026 15:42:22 GMT | NSE in Practice: HTTP Recon Deep Dive | Roshan Rajbanshi | [Read More](https://medium.com/p/35b69a6482a9) |
-| Mon, 18 May 2026 15:41:27 GMT | Stored Cross-Site Scripting (Stored XSS) in Username Field Leads to Arbitrary JavaScript Execution | Hemant Raj Bhati | [Read More](https://medium.com/p/cd377841da30) |
-| Mon, 18 May 2026 15:30:13 GMT | What CompTIA SecAI+ Doesn’t Teach You (And Why That’s Still OK) | Mike McNelis | [Read More](https://medium.com/p/6aa9f06a9ba9) |
-| Mon, 18 May 2026 15:28:02 GMT | Insecure Direct Object Reference (IDOR) in User Management Allows Unauthorized Access and… | Hemant Raj Bhati | [Read More](https://medium.com/p/61fdeb9773a1) |
-| Mon, 18 May 2026 15:26:56 GMT | The Illusion of the Login Screen: How WannaCry Proved Passwords Can’t Save Your Network | Zeyad Mahmoud | [Read More](https://medium.com/p/9c01858d687e) |
-| Mon, 18 May 2026 15:26:00 GMT | Introducing 9-Factor Authentication | Alex Baia | [Read More](https://medium.com/p/609d0b19a04f) |
-| Mon, 18 May 2026 15:06:49 GMT | How I Could Delete Any Account via a Critical IDOR/BOLA Flaw and get $$$ | knox99 | [Read More](https://medium.com/p/2540428556fd) |
