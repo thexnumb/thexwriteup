@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 May 2026 20:53:53 GMT | The Night I Caught My Mac Talking to China | Ramil Mastiyev | [Read More](https://medium.com/p/f60a915ea9eb) |
+| Wed, 20 May 2026 20:52:54 GMT | Eagle Vision Security Unveils Intelligent Damage Reporting (iDR)™ Solution For Proactive Fleet… | Eaglevisionyards | [Read More](https://medium.com/p/320508ff9e59) |
+| Wed, 20 May 2026 20:47:25 GMT | FINDING INFORMATION QUICKLY AND ACCURATELY WITH GOOGLE DORK | Yunus Emre Pak | [Read More](https://medium.com/p/f9f02f6f06d0) |
+| Wed, 20 May 2026 20:41:07 GMT | How Robust Are Audio Deepfake Detectors Against FGSM and PGD? | Elif Abanoz | [Read More](https://medium.com/p/2ea003d10a5a) |
+| Wed, 20 May 2026 20:39:57 GMT | AI security cameras for retail theft prevention in San Antonio Texas | TrueProtection | [Read More](https://medium.com/p/e747e72bc05b) |
+| Wed, 20 May 2026 20:31:09 GMT | I Broke Into a GraphQL API Using a File Nobody Reads ️‍♂️ | Hazemoraby | [Read More](https://medium.com/p/72cc3601f4a2) |
+| Wed, 20 May 2026 20:20:17 GMT | Scammers Send Real PayPal Invoices to Steal Your Money - Scam Detective | Ken | [Read More](https://medium.com/p/1b215d4e48bb) |
+| Wed, 20 May 2026 20:11:01 GMT | The Hidden Security Risks of LLMs Nobody Talked About Until Now | Little_Sun4lower | [Read More](https://medium.com/p/cdc1650319af) |
+| Wed, 20 May 2026 20:09:48 GMT | Frontier Cybersecurity AI Just Walked Away From Token Pricing — Here’s Why It Matters | Alva Cardona | [Read More](https://medium.com/p/b1f14e30ad40) |
+| Wed, 20 May 2026 20:03:42 GMT | ​Project ARBuzzer: Technical Foundations, Operational Purpose, and Strategic Objectives | RiddickABSent | [Read More](https://medium.com/p/519583e96d6f) |
+| Wed, 20 May 2026 20:03:22 GMT | CISA Under Fire Following Major GovCloud Credential Leak | SOCFortress | [Read More](https://medium.com/p/f3873e324773) |
+| Wed, 20 May 2026 20:01:59 GMT | Why I Built SecureVPN: An Open-Source VPN in Go | Lahcen | [Read More](https://medium.com/p/5500536fc443) |
+| Wed, 20 May 2026 20:01:01 GMT | From YAML to Runtime: A Practical Guide to Kubernetes Security | Ravi Rajput | [Read More](https://medium.com/p/d78a713c310d) |
+| Wed, 20 May 2026 19:59:32 GMT | One Request, Two Parameters, Zero Validation | Yousef A. Menshawy | [Read More](https://medium.com/p/2092a17e7824) |
+| Wed, 20 May 2026 19:49:21 GMT | Authentication, Federation & Software Architecture | #hope | [Read More](https://medium.com/p/9152cdd0d54b) |
+| Wed, 20 May 2026 19:45:33 GMT | How dare she?? | Cristals world | [Read More](https://medium.com/p/ab759f651b3c) |
+| Wed, 20 May 2026 19:35:04 GMT | PortSwigger Lab: SQL Injection #2 — querying the database type and version on MySQL and Microsoft… | Azhar Aufa | [Read More](https://medium.com/p/ead274f967b5) |
+| Wed, 20 May 2026 19:29:51 GMT | I am a Gentleman /Mig’s Story | Cansu | [Read More](https://medium.com/p/0b8618d0f08d) |
+| Wed, 20 May 2026 19:28:07 GMT | Forget NAS for Hyper-V Backup | Bill | [Read More](https://medium.com/p/225111767fa4) |
+| Wed, 20 May 2026 19:26:00 GMT | Veneno — DockerLabs Writeup - LFI to Root | D4nYeD | [Read More](https://medium.com/p/5dccd174804a) |
+| Wed, 20 May 2026 19:21:51 GMT | Cloning Windows Server Disks vs. RAID | Bill | [Read More](https://medium.com/p/f609a1962888) |
+| Wed, 20 May 2026 19:15:27 GMT | Hyper-V on Windows 11 as Production Server: It’s Perfect | Joe Miller | [Read More](https://medium.com/p/3f965318eb96) |
+| Wed, 20 May 2026 19:04:22 GMT | VMware Workstation as Production Server: It Works Well! | Joe Miller | [Read More](https://medium.com/p/a4b9d23c55f4) |
+| Wed, 20 May 2026 19:02:49 GMT | 344 Companies Just Got Phished on a Real Microsoft Login Page | S6 Tech | [Read More](https://medium.com/p/e334d3963e26) |
 | Wed, 20 May 2026 18:37:13 GMT | Salesforce Admins: Why Passkeys Should Be Your 2026 MFA Default | Gossé Gorissen | [Read More](https://medium.com/p/6364780087f4) |
 | Wed, 20 May 2026 18:25:06 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/ecf4e47a1f20) |
 | Wed, 20 May 2026 18:24:18 GMT | Green Checkmarks, Dead Detection | 404SecurityNotFound | [Read More](https://medium.com/p/bcf05eb6c532) |
@@ -89,27 +113,3 @@ Network Analysis — Web Shell | Zeliha Zengin | [Read More](https://medium.com/
 | Wed, 20 May 2026 13:33:16 GMT | If Only Heaven AcceptVisitors | eli. | [Read More](https://medium.com/p/53fd37ff87c7) |
 | Wed, 20 May 2026 13:31:01 GMT | Russian Hackers Stole Your Microsoft Office Password Without Hacking You. | Jazz Cyber Shield | [Read More](https://medium.com/p/8feccbaad46c) |
 | Wed, 20 May 2026 13:20:45 GMT | The future should know you — without owning you | Cognielo | [Read More](https://medium.com/p/0d2d47fcca97) |
-| Wed, 20 May 2026 13:15:40 GMT | Secure Coding Standards (The Theoretical Framework) | Farouq Khankan | [Read More](https://medium.com/p/ab89c65fbc5f) |
-| Wed, 20 May 2026 13:09:57 GMT | The Weirdest Bugs Ever Found During Testing | Testlum | [Read More](https://medium.com/p/d4d699252c0c) |
-| Wed, 20 May 2026 13:09:33 GMT | Malware That Gave Me a Mini Heart Attack — And Accidentally Became My First Real Incident Response | Muhammad Bilal | [Read More](https://medium.com/p/7355d059b96b) |
-| Wed, 20 May 2026 13:06:47 GMT | PyExp — Fernet-Encrypted MySQL Creds + Python exec() to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/87659e87d65c) |
-| Wed, 20 May 2026 13:05:06 GMT | How to Install Subfinder in Kali linux & WSL | h4ckerstark1 | [Read More](https://medium.com/p/f49104907b8e) |
-| Wed, 20 May 2026 13:02:41 GMT | Federated Security Analytics | Apto Solutions | [Read More](https://medium.com/p/7f98bd5b1ea9) |
-| Wed, 20 May 2026 13:00:48 GMT | What Are the Top 10 Cyber Attacks Everyone Should Know About? | SecuRetain | [Read More](https://medium.com/p/4f154c723df8) |
-| Wed, 20 May 2026 12:58:33 GMT | Get API Key from Google AI Studio | Abirami Sukumaran | [Read More](https://medium.com/p/b2d2059a171d) |
-| Wed, 20 May 2026 12:56:35 GMT | GitHub Got Hacked. The Next Breach Might Be Yours. | Mari | [Read More](https://medium.com/p/46b94b3ae9b3) |
-| Wed, 20 May 2026 12:56:22 GMT | Yet Another GitHub Incident | John Philip | [Read More](https://medium.com/p/c34c5d804574) |
-| Wed, 20 May 2026 12:40:14 GMT | I Built a Keylogger to Learn How to Stop Hackers | ZarxhNebula | [Read More](https://medium.com/p/91ad8c8adb8e) |
-| Wed, 20 May 2026 12:31:24 GMT | GITHUB LEAK: YOUR CODE @ RISK! | Rakesh Krishnan | [Read More](https://medium.com/p/61a6bfce255a) |
-| Wed, 20 May 2026 12:31:02 GMT | NEX0S A1 Core Architecture & System | Fadybasem - ( SilentN0va ) | [Read More](https://medium.com/p/4977ca3ddca9) |
-| Wed, 20 May 2026 12:31:00 GMT | Two Microsoft Zero-Days This Week One Actively Exploited With No Patch, One Works on Fully Updated… | Sai kiran | [Read More](https://medium.com/p/85f76eba3b30) |
-| Wed, 20 May 2026 12:30:09 GMT | Disk Analysis & Autopsy — THM Walkthrough | r3d | [Read More](https://medium.com/p/348f7741bbb1) |
-| Wed, 20 May 2026 12:28:23 GMT | How Public Firebase Keys Became Gemini Tokens (And What It Cost Three Companies) | Matias Coca | [Read More](https://medium.com/p/72d848f56344) |
-| Wed, 20 May 2026 12:27:46 GMT | What is Error Disclosure? API Security Explained for Beginners | Abrar Bin Habib | [Read More](https://medium.com/p/e5bc01e378bc) |
-| Wed, 20 May 2026 12:26:00 GMT | The Dashboard Is Green. The System Is Broken. | Chris Perkins | [Read More](https://medium.com/p/42894bb20f98) |
-| Wed, 20 May 2026 12:17:25 GMT | How Blockchain Technology is Creating New Career Opportunities | 2iResourcing | [Read More](https://medium.com/p/856e6e6fbdae) |
-| Wed, 20 May 2026 12:14:43 GMT | Human Error in Cybersecurity | webbist AB | [Read More](https://medium.com/p/26b0fc84e933) |
-| Wed, 20 May 2026 12:13:49 GMT | Building an Open-Source OT Remote Access Platform | Sulaiman Alhasawi | [Read More](https://medium.com/p/33312c571045) |
-| Wed, 20 May 2026 12:11:49 GMT | Building a Production-Ready DevSecOps Pipeline: Automating Security from Code to Container | Paul Ayegbusi | [Read More](https://medium.com/p/e73b930e422a) |
-| Wed, 20 May 2026 12:10:04 GMT | Security guards in Vancouver provide a variety of services to protect businesses, residential… | Imperial Security | [Read More](https://medium.com/p/abb07115861e) |
-| Wed, 20 May 2026 12:09:47 GMT | OWASP Top 10 2021 #8 — Software and Data Integrity Failures ⚠️ | Kanishkakhandelwal | [Read More](https://medium.com/p/fb1e72e89f49) |
