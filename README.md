@@ -12,6 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 May 2026 18:37:13 GMT | Salesforce Admins: Why Passkeys Should Be Your 2026 MFA Default | Gossé Gorissen | [Read More](https://medium.com/p/6364780087f4) |
+| Wed, 20 May 2026 18:25:06 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/ecf4e47a1f20) |
+| Wed, 20 May 2026 18:24:18 GMT | Green Checkmarks, Dead Detection | 404SecurityNotFound | [Read More](https://medium.com/p/bcf05eb6c532) |
+| Wed, 20 May 2026 18:13:53 GMT | You Have 4 Certifications and Zero Job Offers. A Big 4 Hiring Manager Told Me Exactly Why. | v0id | [Read More](https://medium.com/p/123acef21c38) |
+| Wed, 20 May 2026 18:13:31 GMT | Password Reset Tokens in URLs: A Small Mistake That Can Lead to Account Takeover | Abdulshakoor | [Read More](https://medium.com/p/cf18a94418cf) |
+| Wed, 20 May 2026 18:10:18 GMT | Copy-Fail: Anatomy of a Memory Corruption Vulnerability | Vedic_error | [Read More](https://medium.com/p/621a6a43141b) |
+| Wed, 20 May 2026 18:09:19 GMT | We Stopped Rotating IAM Keys Manually — Here’s the AWS Framework We Built | Pankaj Gupta | [Read More](https://medium.com/p/19f5215d6013) |
+| Wed, 20 May 2026 18:06:16 GMT | Basic Pentesting — CTF Tryhackme | 0xReconDev | [Read More](https://medium.com/p/944fa40a11cd) |
+| Wed, 20 May 2026 18:01:01 GMT | Why Every SOC Analyst Needs to Learn Azure Sentinel in 2026 (Even If You Love Your Current SIEM) | SHENOBIE | [Read More](https://medium.com/p/d8f985c6705e) |
+| Wed, 20 May 2026 17:55:07 GMT | The Bug I Slept On: How a 404 Error Led to My First-Ever Bug Bounty (A Massive Internal Data Leak) | Hamzabohra | [Read More](https://medium.com/p/c2c3807bad3b) |
+| Wed, 20 May 2026 17:53:57 GMT | Day 6: Website Footprinting — Reading a Target’s Web Presence Like an Open Book | Adarsh Vardhan | [Read More](https://medium.com/p/01f871c42297) |
+| Wed, 20 May 2026 17:52:32 GMT | C​y​bersecuri⁠ty:​‍ The In‌vis‍ible Shi‌‌eld of Modern Soc‍iety | Biqilla Bql | [Read More](https://medium.com/p/ecc58488b55b) |
+| Wed, 20 May 2026 17:48:15 GMT | Privilege Escalation via Invite Request Manipulation — $150 Bug Bounty | 0xSonic | [Read More](https://medium.com/p/0d9d4999966f) |
+| Wed, 20 May 2026 17:41:28 GMT | CHILL HACK WALKTHROUGH - TRYHACKME | ANWAR1 | [Read More](https://medium.com/p/64d6a876a460) |
+| Wed, 20 May 2026 17:36:24 GMT | Buying Chargers? Here is What You’re Doing Wrong and How to Fix It | Arham | [Read More](https://medium.com/p/e1b160d665a6) |
+| Wed, 20 May 2026 17:35:58 GMT | Cybersecurity Must Prepare for AI Driven Hardware Exploitation | Matthew.Rosenquist | [Read More](https://medium.com/p/4e3f288fecf5) |
+| Wed, 20 May 2026 17:27:56 GMT | 暗號、金鑰與安全：現代加密的故事 | 思維舞步 MindSteps | [Read More](https://medium.com/p/1fcd6386416e) |
+| Wed, 20 May 2026 17:26:58 GMT | Recon Isn’t Just Technical — It’s Psychological | Iski | [Read More](https://medium.com/p/0bc51a58487b) |
+| Wed, 20 May 2026 17:20:15 GMT | Every year, cybersecurity predictions warn about “AI-powered attacks.” | Neuralcoretech | [Read More](https://medium.com/p/aa71d1a517e1) |
+| Wed, 20 May 2026 17:15:46 GMT | Multiple Vulnerabilities in Taiko AG1000–01A SMS Alert Gateway | ForgetMeN0t | [Read More](https://medium.com/p/82095b1d633e) |
+| Wed, 20 May 2026 17:08:04 GMT | A Petition to the United Nations | DB Shalom | [Read More](https://medium.com/p/6dc29c66d345) |
+| Wed, 20 May 2026 17:01:02 GMT | 7 Retail Security Blind Spots That Quietly Increase Loss | Lucas Barett | [Read More](https://medium.com/p/1a42282cb957) |
+| Wed, 20 May 2026 16:58:56 GMT | Why IDCA Data Center Training and Certification | International Data Center Authority | [Read More](https://medium.com/p/606d07c129cf) |
+| Wed, 20 May 2026 16:52:40 GMT | I Didn’t Overshare | Amna IK | [Read More](https://medium.com/p/542f2fa8a5a9) |
+| Wed, 20 May 2026 16:41:42 GMT | How a Throwaway Email Walked Me Into Someone Else’s Tenant — Unauthorized PII Information Access | Thamotharan Vajramani | [Read More](https://medium.com/p/b2530aa16827) |
+| Wed, 20 May 2026 16:37:16 GMT | I’m Coming | Amna IK | [Read More](https://medium.com/p/81b39fb710d6) |
+| Wed, 20 May 2026 16:32:41 GMT | GitHub Got Hacked. Here’s What Actually Happened — and What Every Developer Should Do Now | MayhemCode | [Read More](https://medium.com/p/61ef90859eed) |
+| Wed, 20 May 2026 16:31:00 GMT | Tryhackme Tomcat Walkthough Writeup | MainEkHacker | [Read More](https://medium.com/p/1e6a6959baae) |
 | Wed, 20 May 2026 16:18:09 GMT | I Found a Hidden Backend Action That Normal Users Should Never Reach | hackersatty | [Read More](https://medium.com/p/6f97d4c51e7b) |
 | Wed, 20 May 2026 16:17:46 GMT | Threat Brief and Data Analysis: GitHub Internal Repository Compromise | BeGoodToAll | [Read More](https://medium.com/p/c59d48b6b55c) |
 | Wed, 20 May 2026 16:17:42 GMT | When a Single “No” Became the Most Consequential Word in Geopolitics | Victor Babaniyi | [Read More](https://medium.com/p/99a93a3e27c6) |
@@ -85,31 +113,3 @@ Network Analysis — Web Shell | Zeliha Zengin | [Read More](https://medium.com/
 | Wed, 20 May 2026 12:11:49 GMT | Building a Production-Ready DevSecOps Pipeline: Automating Security from Code to Container | Paul Ayegbusi | [Read More](https://medium.com/p/e73b930e422a) |
 | Wed, 20 May 2026 12:10:04 GMT | Security guards in Vancouver provide a variety of services to protect businesses, residential… | Imperial Security | [Read More](https://medium.com/p/abb07115861e) |
 | Wed, 20 May 2026 12:09:47 GMT | OWASP Top 10 2021 #8 — Software and Data Integrity Failures ⚠️ | Kanishkakhandelwal | [Read More](https://medium.com/p/fb1e72e89f49) |
-| Wed, 20 May 2026 12:02:02 GMT | Zero Trust Security: Why We Must Assume the Enemy Is Already Inside | Denise Sophy | [Read More](https://medium.com/p/68e36679dcbd) |
-| Wed, 20 May 2026 12:01:39 GMT | I Lost My USDT to a Crypto Scam — Here’s What Every Victim Should Know | Chrisharley | [Read More](https://medium.com/p/256a64435f5a) |
-| Wed, 20 May 2026 11:52:48 GMT | How I Chained Three Small Bugs to Cancel Anyone’s Car Booking | Atharv Chawan | [Read More](https://medium.com/p/38afe794bd40) |
-| Wed, 20 May 2026 11:50:18 GMT | Penetration Testing Services: The Smartest Way to Protect Your Business from Modern Cyber Threats | SmartCLOUD Australia | [Read More](https://medium.com/p/4b930290ee96) |
-| Wed, 20 May 2026 11:40:51 GMT | Lab: Basic SSRF against the local server - SSRF #lab1 | PRiTi.EX | [Read More](https://medium.com/p/80a128f122ac) |
-| Wed, 20 May 2026 11:31:00 GMT | The SSH Login Was Successful. That Was the Problem. | Faruk Ahmed | [Read More](https://medium.com/p/30c8e3ee4095) |
-| Wed, 20 May 2026 11:28:22 GMT | Why Every Cybersecurity Professional Must Understand MITRE ATT&CK? | Gokambhoomini | [Read More](https://medium.com/p/fb33fed8e57c) |
-| Wed, 20 May 2026 11:26:53 GMT | The Most Expensive Minute in Cybersecurity Is the One Before You Decide | Yuksel | [Read More](https://medium.com/p/c75fff6a028c) |
-| Wed, 20 May 2026 11:26:37 GMT | Recovering stack-initialised constants from stripped binaries | Keiran Smith | [Read More](https://medium.com/p/758ff1c9a971) |
-| Wed, 20 May 2026 11:18:33 GMT | Me Before Digiss vs Me Now in Digiss: How My Cybersecurity Learning Journey Is Evolving | Marvin Unumadu | [Read More](https://medium.com/p/98a4f94b0aaf) |
-| Wed, 20 May 2026 11:16:43 GMT | OpenVPN vs WireGuard: Which Protocol Is Better for Modern VPN Apps? | Fyrewaypvt | [Read More](https://medium.com/p/4db09e52945d) |
-| Wed, 20 May 2026 11:11:39 GMT | 5 Mistakes That Cost Me My First 2 Years in Cybersecurity | Aman Kumar (ak) | [Read More](https://medium.com/p/893702fb2cd1) |
-| Wed, 20 May 2026 11:09:04 GMT | The Anatomy of a Modern Disaster Recovery Plan: Is Your Infrastructure Truly Resilient? | Cloud Box Technologies | [Read More](https://medium.com/p/71d5adcf78b9) |
-| Wed, 20 May 2026 11:06:00 GMT | Four tiers of compliance claims hide behind the same phrase. | Digital Samba | [Read More](https://medium.com/p/20ffb7d8eb24) |
-| Wed, 20 May 2026 11:05:08 GMT | STIX & TAXII: The Backbone of Modern Cyber Threat Intelligence Sharing | Kalp Prajapati | [Read More](https://medium.com/p/4964018d607d) |
-| Wed, 20 May 2026 10:58:01 GMT | Restrict egress traffic via FQDN in GCP | Rahul Gorai | [Read More](https://medium.com/p/7c30c8550654) |
-| Wed, 20 May 2026 10:54:46 GMT | Beyond the Degree: Unlocking Opportunities After Completing Your BTech in IT | Baishali Koley It | [Read More](https://medium.com/p/3fba400e9036) |
-| Wed, 20 May 2026 10:53:21 GMT | Pen Testing Finds Weaknesses. Red Teams Become the Threat. | Tammy Diprima | [Read More](https://medium.com/p/b27c3a39a121) |
-| Wed, 20 May 2026 10:52:57 GMT | The Hidden Ways Websites Track You Without You Ever Knowing | Abdulmuiz | [Read More](https://medium.com/p/27c90679bf36) |
-| Wed, 20 May 2026 10:50:42 GMT | ISO 27001 Control Mapping with NIST CSF | Prashant Thinks | [Read More](https://medium.com/p/58d12c44f570) |
-| Wed, 20 May 2026 10:47:21 GMT | What Is a Reverse Proxy and How Does It Work? | BHProxy | [Read More](https://medium.com/p/763576558b68) |
-| Wed, 20 May 2026 10:44:49 GMT | Cloud PCI DSS Certification: Securing Payments in the Era of Scalable Cloud Infrastructure | Christine Soliman | [Read More](https://medium.com/p/db8a55f7971a) |
-| Wed, 20 May 2026 10:44:12 GMT | “We Thought It Was Just a Normal Email.” | THARSAN S | [Read More](https://medium.com/p/4cae0e64cb62) |
-| Wed, 20 May 2026 10:41:57 GMT | A Constant Turmoil | Harini Shanmugam | [Read More](https://medium.com/p/c2078187514c) |
-| Wed, 20 May 2026 10:39:09 GMT | Can You Comply with Three Different Regulations in Banking at the Same Time? | Consulting4sec | [Read More](https://medium.com/p/1d1bbab7bc7f) |
-| Wed, 20 May 2026 10:37:21 GMT | Hunting Linux Persistence Mechanisms with Bash | raj3shp | [Read More](https://medium.com/p/885c1f050af4) |
-| Wed, 20 May 2026 10:23:39 GMT | The war exposed the Gulf’s vulnerabilities; the ceasefire is exposing its divisions | commonspace.eu | [Read More](https://medium.com/p/f3145471faac) |
-| Wed, 20 May 2026 10:21:27 GMT | Chapter 3 Review Questions - Change Management & Its Impact on Security (Security+ SY0–701 Domain… | Azhariqbal | [Read More](https://medium.com/p/fe9424dfd3a8) |
