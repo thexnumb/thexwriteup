@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 May 2026 22:25:36 GMT | The 2026 World Cup will be the biggest counter-drone exercise in sports history — and 3D printing… | pippo pipposky | [Read More](https://medium.com/p/9f0f533e9e76) |
+| Wed, 20 May 2026 22:17:54 GMT | Why Your AI Agents Shouldn’t Hold the Keys to the Kingdom | Joakim Sundberg | [Read More](https://medium.com/p/cc5c469fd83a) |
+| Wed, 20 May 2026 22:10:42 GMT | The future of protection is no longer passive. | Sentrickapp.com | [Read More](https://medium.com/p/9c71d4f458c1) |
+| Wed, 20 May 2026 22:09:59 GMT | I Found a Way to Access Company Data Without Logging In | Abdullahbinzarshaid | [Read More](https://medium.com/p/5ca470fd35d5) |
+| Wed, 20 May 2026 22:02:06 GMT | CU CTF — Free-FLag -Challenge Write-Up | 0XTurbo | [Read More](https://medium.com/p/5b5ca2e13c6c) |
+| Wed, 20 May 2026 21:56:51 GMT | The Cold War of Algorithms | Gabicalacerda | [Read More](https://medium.com/p/066f61ce8a2e) |
+| Wed, 20 May 2026 21:51:21 GMT | How to Map Out Your Digital Footprint Before Attackers Do in 2026 | Azutech | [Read More](https://medium.com/p/96db044248f9) |
+| Wed, 20 May 2026 21:44:15 GMT | Automated vs. Manual Penetration Testing: What’s the Real Difference? | Bugstrix | [Read More](https://medium.com/p/44d8a097355d) |
+| Wed, 20 May 2026 21:41:23 GMT | The Most Dangerous Kind of Information | Tipsmeter | [Read More](https://medium.com/p/0a1bd5b35f26) |
+| Wed, 20 May 2026 21:39:04 GMT | Claude Shannon | Gustavo J. Alessandri | [Read More](https://medium.com/p/3010b7d0f775) |
+| Wed, 20 May 2026 21:32:32 GMT | The Security Debt Nobody Is Measuring: AI-Generated Code Is Entering Production Faster Than… | Soumyarup Gh | [Read More](https://medium.com/p/5c45c3ee7665) |
+| Wed, 20 May 2026 21:01:37 GMT | CyberDefenders — PsExec Hunt Lab | Efe Özel | [Read More](https://medium.com/p/9f74a879b2eb) |
+| Wed, 20 May 2026 20:57:15 GMT | TryHackMe Prompt Engineering Challenge | MistressOfTheDarkweb | [Read More](https://medium.com/p/609afb377c81) |
 | Wed, 20 May 2026 20:53:53 GMT | The Night I Caught My Mac Talking to China | Ramil Mastiyev | [Read More](https://medium.com/p/f60a915ea9eb) |
 | Wed, 20 May 2026 20:52:54 GMT | Eagle Vision Security Unveils Intelligent Damage Reporting (iDR)™ Solution For Proactive Fleet… | Eaglevisionyards | [Read More](https://medium.com/p/320508ff9e59) |
 | Wed, 20 May 2026 20:47:25 GMT | FINDING INFORMATION QUICKLY AND ACCURATELY WITH GOOGLE DORK | Yunus Emre Pak | [Read More](https://medium.com/p/f9f02f6f06d0) |
@@ -99,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 May 2026 14:58:11 GMT | Here is one underrated part of medical training: learning how to survive bad software. | Amine Korchi MD | [Read More](https://medium.com/p/4b77e2ede89e) |
 | Wed, 20 May 2026 14:48:53 GMT | Every Website Leaves Footprints Here is How I Followed Them | Vamsikandukuru | [Read More](https://medium.com/p/8c07ffd154aa) |
 | Wed, 20 May 2026 14:36:37 GMT | Race Condition (TOCTOU) in Review API — Bypassing Business Logic with a Single Packet Attack | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/797070c88d6c) |
-| Wed, 20 May 2026 14:36:17 GMT | How Insecurities Can Build Confidence | Pucay Reads | [Read More](https://medium.com/p/c493b998c73e) |
-| Wed, 20 May 2026 14:26:33 GMT | Your Agent Doesn’t Need an API Key | Douglas Borthwick | [Read More](https://medium.com/p/54fb347f15e5) |
-| Wed, 20 May 2026 14:24:04 GMT | How to Find Secrets in Js Files for Bug Bounty “Beginner Friendly” | Omar Mohamed | [Read More](https://medium.com/p/a66fdd4b7ea5) |
-| Wed, 20 May 2026 14:16:00 GMT | Blue Team Labs Online (BTLO)-
-Network Analysis — Web Shell | Zeliha Zengin | [Read More](https://medium.com/p/b81811ef8b38) |
-| Wed, 20 May 2026 14:15:12 GMT | TryHackMe — Biohazard - Full Write-Up | Shikhali Jamalzade | [Read More](https://medium.com/p/2ef70b2b486d) |
-| Wed, 20 May 2026 14:11:00 GMT | Cloudflare Is Not Enough: The Security Gaps That Still Sit Behind the WAF | Stanley A. | [Read More](https://medium.com/p/6afb0bdaf79c) |
-| Wed, 20 May 2026 14:07:21 GMT | Ethical Hacking vs Cybersecurity: Which Career Is Better in 2026? | Hachion | [Read More](https://medium.com/p/587a2694c019) |
-| Wed, 20 May 2026 14:01:02 GMT | Silent Semantic Drift -- Inter-Agent Series # 3 | Ming Chiu | [Read More](https://medium.com/p/87da4c616d5f) |
-| Wed, 20 May 2026 14:01:02 GMT | Divine Intimacy is Scary | Laura at lauramadsen.ca of Inner Constellations | [Read More](https://medium.com/p/2a32d5dd125f) |
-| Wed, 20 May 2026 14:00:26 GMT | Best Ceiling Light With Motion Sensor for Modern Homes | Criminology Expert | [Read More](https://medium.com/p/b6ad0d68a6e0) |
-| Wed, 20 May 2026 13:33:16 GMT | If Only Heaven AcceptVisitors | eli. | [Read More](https://medium.com/p/53fd37ff87c7) |
-| Wed, 20 May 2026 13:31:01 GMT | Russian Hackers Stole Your Microsoft Office Password Without Hacking You. | Jazz Cyber Shield | [Read More](https://medium.com/p/8feccbaad46c) |
-| Wed, 20 May 2026 13:20:45 GMT | The future should know you — without owning you | Cognielo | [Read More](https://medium.com/p/0d2d47fcca97) |
