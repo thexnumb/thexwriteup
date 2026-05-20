@@ -12,6 +12,39 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 May 2026 06:00:20 GMT | Your AI Just Got Tricked by an Email And It Wasn’t Even a Hack | Rachana Gupta | [Read More](https://medium.com/p/e830fe426754) |
+| Wed, 20 May 2026 05:50:15 GMT | Why PCI PIN Still Matters More Than Many Payment Teams Realise | QRC Assurance And Solutions | [Read More](https://medium.com/p/0b858cc7d686) |
+| Wed, 20 May 2026 05:45:45 GMT | What security UX designers get wrong about Privacy by Design | H. G. Taylor | [Read More](https://medium.com/p/cd4350461b59) |
+| Wed, 20 May 2026 05:41:22 GMT | A Deepfake CFO Stole $25 Million on a Zoom Call. Here's Why Your Company Could Be Next. | Ashutosh Singhal | [Read More](https://medium.com/p/d63641f79082) |
+| Wed, 20 May 2026 05:39:37 GMT | You Clicked Accept. | Firuz Alimov | [Read More](https://medium.com/p/4e563a0d42ec) |
+| Wed, 20 May 2026 05:37:51 GMT | How Modern Scam Call Centers Operate — Inside The Scam Industry (Part 1) | ghostyjoe | [Read More](https://medium.com/p/c9487135a037) |
+| Wed, 20 May 2026 05:35:55 GMT | The Growing Demand for Cybersecurity Talent (And Why It’s Hard to Fill in 2026) | Shooltech De | [Read More](https://medium.com/p/9daa307a52c7) |
+| Wed, 20 May 2026 05:27:29 GMT | How I Bypassed OTP Verification on Quick Heal — Account Takeover Without Valid OTP [RESOLVED] | PradyumnTiwareNexus | [Read More](https://medium.com/p/c7a56177191d) |
+| Wed, 20 May 2026 05:27:04 GMT | Strengthening AWS IAM, Security & Identity with Keycloak | Anmol Middha | [Read More](https://medium.com/p/d2c308900323) |
+| Wed, 20 May 2026 05:26:01 GMT | Why Businesses Struggle to See Technology Risk Until Downtime Happens | Exutory Solutions Insights | [Read More](https://medium.com/p/4691ea345558) |
+| Wed, 20 May 2026 05:24:44 GMT | Active Directory Basics | ExploitHunter | [Read More](https://medium.com/p/5a99af7f888a) |
+| Wed, 20 May 2026 05:23:42 GMT | 2026 Mid-Year AI Report: What Changed, What Didn’t, and What’s Coming Next? | Hazel | [Read More](https://medium.com/p/b3645dd954c6) |
+| Wed, 20 May 2026 05:22:23 GMT | Evolution of Cloud | ExploitHunter | [Read More](https://medium.com/p/b95a50b5d153) |
+| Wed, 20 May 2026 05:22:13 GMT | The Tool Is the Door | Michael Kraft | [Read More](https://medium.com/p/ffdf1da7e055) |
+| Wed, 20 May 2026 05:22:08 GMT | Early this morning, after the Fajr prayer, I decided to go for a short walk around my area. | Adebayo Muhammad | [Read More](https://medium.com/p/05b2df044c76) |
+| Wed, 20 May 2026 05:14:27 GMT | [CopyFail and DirtyFrag] — Privilege Escalation on Ubuntu | Bash Overflow | [Read More](https://medium.com/p/dd30970fe48f) |
+| Wed, 20 May 2026 05:07:47 GMT | Mastering Modern Web Development Tools | Bemmygail | [Read More](https://medium.com/p/70ef49e7b2ce) |
+| Wed, 20 May 2026 05:02:28 GMT | Connecting Burp Suite with GitHub Copilot via MCP Server | Albert | [Read More](https://medium.com/p/c2f2d4cefeb7) |
+| Wed, 20 May 2026 04:50:16 GMT | Ethical Hacking Skills for Strong Cybersecurity Foundations | Adhiraj Kasabe | [Read More](https://medium.com/p/b87e68f1137e) |
+| Wed, 20 May 2026 04:48:04 GMT | CISA’s GitHub leak: when the agency that polices security failed to police itself | Christophe Mazzola | [Read More](https://medium.com/p/2534e610ac76) |
+| Wed, 20 May 2026 04:35:43 GMT | Sleeping While America Burns: Brutal Cartoon Depicts Kash Patel as FBI Collapses | Manny Otiko | [Read More](https://medium.com/p/153f6fa2a453) |
+| Wed, 20 May 2026 04:31:00 GMT | Solidity Basics Part 1: Language Fundamentals | Hacker MD | [Read More](https://medium.com/p/2e0bc5902e6e) |
+| Wed, 20 May 2026 04:26:17 GMT | Just launched TechWithJuned — a platform to learn tech the right way. | Juned Silavat | [Read More](https://medium.com/p/18069eb0b96d) |
+| Wed, 20 May 2026 04:10:42 GMT | Cyber Security Services: Securing the Digital World & Protecting What Matters Most | Walstartechnology | [Read More](https://medium.com/p/ee7282c39de8) |
+| Wed, 20 May 2026 04:07:18 GMT | ️ Understanding Phishing Attack-SOC”Security Operation Center” | Zoningxtr | [Read More](https://medium.com/p/ec312b80812b) |
+| Wed, 20 May 2026 03:59:32 GMT | AI Security Newsletter — April 2026 | Tal Eliyahu | [Read More](https://medium.com/p/1d6466d2bd95) |
+| Wed, 20 May 2026 03:50:21 GMT | Why Financial Brands Digital Infrastructure Is Critical for Success | Mandanakkalakshmipriya | [Read More](https://medium.com/p/ecd79317990c) |
+| Wed, 20 May 2026 03:50:17 GMT | Google SecOps Has a Fundamental Problem. Nobody Talks About It. | GromeroSec | [Read More](https://medium.com/p/a3dc2d3b9eda) |
+| Wed, 20 May 2026 03:14:45 GMT | Wireshark Lab 3 — From Port Scan to Reverse Shell: A Complete Tomcat Attack Chain | Juan Manuel Yepes | [Read More](https://medium.com/p/3a9d0bb158d3) |
+| Wed, 20 May 2026 03:08:57 GMT | I Used One Service Account for All Vertex AI Workloads. That Was a Mistake. | Aleksei Aleinikov | [Read More](https://medium.com/p/12221c89989b) |
+| Wed, 20 May 2026 02:30:55 GMT | Stack Smasher — Buffer Overflow Walkthrough en Español | h4rveyx | [Read More](https://medium.com/p/0e29c8be1622) |
+| Wed, 20 May 2026 02:19:33 GMT | I learned how to pitch a demo. Here’s how you can too | Tiffany Jachja | [Read More](https://medium.com/p/15b7301f61bd) |
+| Wed, 20 May 2026 02:13:00 GMT | Weekly Threat Intelligence Report 18 May 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/1431f2aa23df) |
 | Wed, 20 May 2026 01:14:17 GMT | Stop Casting Spells at AI | Anthony Johnson | [Read More](https://medium.com/p/0953f92f1517) |
 | Wed, 20 May 2026 01:12:49 GMT | Guarding the AI Revolution: Inside AI-Guardian 1.7 and 1.8 | Dominique Vernier | [Read More](https://medium.com/p/3d9c4a6255ba) |
 | Wed, 20 May 2026 01:11:55 GMT | SSRF NEDİR, NASIL ÇALIŞIR? | YavuzSO | [Read More](https://medium.com/p/4561038d9b56) |
@@ -29,6 +62,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 May 2026 00:05:59 GMT | Port Scanner | Tinny | [Read More](https://medium.com/p/62291bb54030) |
 | Wed, 20 May 2026 00:01:01 GMT | Guide to Race Conditions: Types, Exploitation, and Mitigation in APIs | JPablo13 | [Read More](https://medium.com/p/4bd6743f88fe) |
 | Tue, 19 May 2026 23:45:55 GMT | Unmasking the Phishing Signature Attack: How Unlimited Approvals Are Hidden | ShielfForge - Web3 Wallet Security News | [Read More](https://medium.com/p/1840b87e2d9f) |
+| Tue, 19 May 2026 23:37:58 GMT | CTF de Entrada — Tarponise 2026 | Lmventura | [Read More](https://medium.com/p/b1bd89d947f8) |
 | Tue, 19 May 2026 23:29:41 GMT | Breaking OAuth Trust: An Analysis of CVE-2026–45430 in Backdrop CMS | swordmein | [Read More](https://medium.com/p/67192dd3d9ab) |
 | Tue, 19 May 2026 23:28:44 GMT | Owning It, Part 3: Escape from the Barytronic Matrix | Dr. Sonny Saggar | [Read More](https://medium.com/p/2764d21edbfa) |
 | Tue, 19 May 2026 23:05:49 GMT | GOOGLE AI FORENSIC PROOF: r/PromptEngineering ATTACK POST EXPOSED AS SEO MANIPULATION & YEAR-LONG… | Zahaviel Bernstein | [Read More](https://medium.com/p/1132da34d288) |
@@ -78,37 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 19 May 2026 18:41:00 GMT | NetExec Is the Pentesting Tool Your Team Should Already Be Using | Mark Puckett | [Read More](https://medium.com/p/5c378f11becb) |
 | Tue, 19 May 2026 18:29:05 GMT | أول ثغرة في 3 أيام فقط- تخلّص من عقدة أول ثغرة | Firstbugpath | [Read More](https://medium.com/p/b3a915ab76c9) |
 | Tue, 19 May 2026 18:23:55 GMT | تخلّص من عقدة اكتشاف أول ثغرة.هل لسه مجبتش أول ثغرة؟‎ !!! | Firstbugpath | [Read More](https://medium.com/p/dafc31d4d528) |
-| Tue, 19 May 2026 18:22:33 GMT | When Love Draws Close | Inward Unveiling | [Read More](https://medium.com/p/dd512ee92d96) |
-| Tue, 19 May 2026 18:18:12 GMT | 165 Enterprise Breaches. Zero Exploits. One Governance Failure. | Kush Patel | [Read More](https://medium.com/p/141e5da5626e) |
-| Tue, 19 May 2026 18:11:38 GMT | OWASP Top 10 for .NET Developers - Part 2: Preventing Cryptographic Failures | Surya Raj Ghimire | [Read More](https://medium.com/p/953b84455d87) |
-| Tue, 19 May 2026 18:06:29 GMT | TOC2 ctf - TryHackMe  walkthrough | Uday | [Read More](https://medium.com/p/3ba1e9afb466) |
-| Tue, 19 May 2026 18:04:04 GMT | Abusing ACLs, GenericWrite, and DCSync in Active Directory — HTB Administrator | Md Fahim Al Shihab | [Read More](https://medium.com/p/6d97bfaf50af) |
-| Tue, 19 May 2026 18:01:47 GMT | Troubleshooting a 24/7 Dash Cam Setup in a Jeep JKU | FloGood | [Read More](https://medium.com/p/e4fc2d0645fc) |
-| Tue, 19 May 2026 17:58:45 GMT | Red Hat and NVIDIA AI Are Transforming DevSecOps Security | DevOps Inside | [Read More](https://medium.com/p/05d6484dabb8) |
-| Tue, 19 May 2026 17:55:35 GMT | Inside the World’s Largest Cloud: A Deep Dive on Mark Russinovich’s Azure Infrastructure Summit… | Dave R - Microsoft Azure & AI MVP☁️ | [Read More](https://medium.com/p/ffddbfcf4b91) |
-| Tue, 19 May 2026 17:55:09 GMT | The Complete Guide to Cybersecurity Software Solutions for Small Businesses in 2026 | Boisttechsolutions | [Read More](https://medium.com/p/4d80d3d468f2) |
-| Tue, 19 May 2026 17:54:41 GMT | Burp Suite Araç Mimarisi | İbrahim Yiğit Çetin | [Read More](https://medium.com/p/0a4815fe95fc) |
-| Tue, 19 May 2026 17:49:01 GMT | 2026: An AI Odyssey — Cypheron Walkthrough | Metehan Uluocak | [Read More](https://medium.com/p/4fb1e1ce2ffb) |
-| Tue, 19 May 2026 17:48:13 GMT | The Biometric Illusion: Why You Don’t Own Your Face Anymore | Evan S. | [Read More](https://medium.com/p/646569f08350) |
-| Tue, 19 May 2026 17:45:40 GMT | PicoCTF Writeup: Undo (Easy) | vulnhunter | [Read More](https://medium.com/p/ce666dde7a34) |
-| Tue, 19 May 2026 17:44:55 GMT | Day 5: Footprinting & Reconnaissance -How Attackers Know Everything Before They Touch Anything | Adarshraj | [Read More](https://medium.com/p/9e8607960d37) |
-| Tue, 19 May 2026 17:32:56 GMT | Pentest Copilot - AI-Powered Ethical Hacking Assistant | Pentester Club | [Read More](https://medium.com/p/413a8d4b2fcc) |
-| Tue, 19 May 2026 17:32:03 GMT | Concierge Security Services | Dynamic security solution ltd | [Read More](https://medium.com/p/9e2b786383eb) |
-| Tue, 19 May 2026 17:27:48 GMT | How to Set Up a High-Performance Web Server on a 4GB or 8GB VPS with cPanel and LiteSpeed… | hackthacker | [Read More](https://medium.com/p/b9153f890190) |
-| Tue, 19 May 2026 17:21:33 GMT | I built a password auditor in Python and learned more than I expected | darksh71 | [Read More](https://medium.com/p/1ecd7cc6f631) |
-| Tue, 19 May 2026 17:15:42 GMT | The COMFORT Horror | Thechano Kikon | [Read More](https://medium.com/p/543074eab22d) |
-| Tue, 19 May 2026 17:14:31 GMT | Breaking WPA3: When “Impossible” Meets “Impractical” | Tanmay Bhattacharjee | [Read More](https://medium.com/p/125e3a6fa5f4) |
-| Tue, 19 May 2026 17:06:46 GMT | “The Top Benefits of Using a Password Manager to Secure Your Digital Life” | Zakria Khan | [Read More](https://medium.com/p/2de21ea41492) |
-| Tue, 19 May 2026 17:02:26 GMT | Bug Bounty Bootcamp #37: SSRF in PDFs, Screenshots, and Bypassing Localhost Filters | Aman Sharma | [Read More](https://medium.com/p/0607d263333f) |
-| Tue, 19 May 2026 17:02:13 GMT | ChaCha20: Everything You Need To Know | Joe Miller | [Read More](https://medium.com/p/c9b221ad069a) |
-| Tue, 19 May 2026 16:57:07 GMT | Inside Europe’s Fight Against Transnational Espionage | Ava Martin | [Read More](https://medium.com/p/116dc89d568c) |
-| Tue, 19 May 2026 16:55:59 GMT | Reward Hacking: How Reinforcement Learning Incentivizes AI | Geoffrey Bott | [Read More](https://medium.com/p/89c59064656b) |
-| Tue, 19 May 2026 16:53:22 GMT | Why You Don’t Need or Want a NAS | Joe Miller | [Read More](https://medium.com/p/87f85d63e18c) |
-| Tue, 19 May 2026 16:44:11 GMT | Let’s Encrypt Explained for Dummies | Bill | [Read More](https://medium.com/p/10b1a2bea648) |
-| Tue, 19 May 2026 16:37:47 GMT | How ZIP Compression Works | Bill | [Read More](https://medium.com/p/071228609268) |
-| Tue, 19 May 2026 16:36:32 GMT | Privilege Escalation Isn’t a Vulnerability. It’s an Architecture Failure. | Vatsal Sharma | [Read More](https://medium.com/p/03a5b5172e92) |
-| Tue, 19 May 2026 16:33:00 GMT | My Journey Into Cloud, Security, DevOps, and System Design | Adanmalik | [Read More](https://medium.com/p/1471c1a2eb91) |
-| Tue, 19 May 2026 16:30:03 GMT | How I Bypassed 2FA by Mutating My Profile Phone Number in Graphql Request | Mohamed Elmorsy | [Read More](https://medium.com/p/b8d23efa0a95) |
-| Tue, 19 May 2026 16:25:44 GMT | What is CORS? Cross Origin Resource Sharing Explained for Beginners | Abrar Bin Habib | [Read More](https://medium.com/p/85b335e025c0) |
-| Tue, 19 May 2026 16:16:41 GMT | ️ Remote Access Trojan (RAT) in 2026: How Hackers Take Control of Your System ‍ | Manula Udyoga | [Read More](https://medium.com/p/a02429f486f4) |
-| Tue, 19 May 2026 16:14:11 GMT | 4.6 Million Stolen Credit Cards Released for Free: A Wake-Up Call for Businesses Worldwide | Jas | [Read More](https://medium.com/p/693f53e42776) |
