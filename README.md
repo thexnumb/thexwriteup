@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 May 2026 21:45:01 GMT | TryHackMe Forward Walkthrough: Full Active Directory Compromise | Aniket Tegginamath | [Read More](https://medium.com/p/9c4c6810ddf1) |
+| Thu, 21 May 2026 21:28:36 GMT | Best Security Camera Placement Tips for Homeowners | AlexBryn | [Read More](https://medium.com/p/e1ebbe593ba7) |
+| Thu, 21 May 2026 21:26:28 GMT | Is Your Phone Data Actually Safe? US Telecom Giants Just Did Something Big in 2026 | Henry | [Read More](https://medium.com/p/0d7a787e2e78) |
+| Thu, 21 May 2026 21:17:26 GMT | DATA PRIVACY Isn’t Just a Tech Issue. For the NEXT GENERATION, It’s a SAFETY Crisis. | Aki Pancic | [Read More](https://medium.com/p/a6aa94a41470) |
+| Thu, 21 May 2026 21:16:07 GMT | Part 2: The Power of “No” — Mastering the Principle of Least Privilege (PoLP) | Zahra Alizada | [Read More](https://medium.com/p/70f54e7a88b9) |
+| Thu, 21 May 2026 21:01:52 GMT | The New Blind Spot in AI Security: Agent-to-Agent Traffic, MCP Servers, and Shadow AI | Andre Boyle | [Read More](https://medium.com/p/5850b6ba033f) |
+| Thu, 21 May 2026 21:01:08 GMT | How I Secured My Home Wi-Fi Network As A Cybersecurity Student (Beginner-Friendly Guide)~Cyber n’ U | Madhurjabhattacharjee | [Read More](https://medium.com/p/a78e74dba535) |
+| Thu, 21 May 2026 20:49:39 GMT | In an ever-changing world, make change count for everyone. | Bruce Baker Outlaw Radio 1960 | [Read More](https://medium.com/p/63cd136cca56) |
+| Thu, 21 May 2026 20:43:27 GMT | Global Cyber with Data Privacy: A Simulation Write-Up | Tarunika Kapoor | [Read More](https://medium.com/p/25c72b477990) |
+| Thu, 21 May 2026 20:36:41 GMT | State of the World: May 21, 2026 | SVET | [Read More](https://medium.com/p/e229aa924469) |
+| Thu, 21 May 2026 20:36:26 GMT | How I Found a Bug That Let Me Change My Account Email to Any Email Address Without Owning It | OWL | [Read More](https://medium.com/p/6e4a6d797330) |
+| Thu, 21 May 2026 20:33:29 GMT | Beyond the Perimeter: Why Defense in Depth is the Modern Security Bedrock | Zahra Alizada | [Read More](https://medium.com/p/5d36e0dc7b96) |
+| Thu, 21 May 2026 20:20:27 GMT | Abusing Cross-Forest Trusts with Kerberoasting in Active Directory | Md Fahim Al Shihab | [Read More](https://medium.com/p/4da9c332d3e5) |
 | Thu, 21 May 2026 20:05:42 GMT | أغرب حاجة في مجال الباونتي إنك ممكن تتعلم 6 شهور…
  ومع ذلك متلاقيش ولا ثغرة واحدة. | Firstbugpath | [Read More](https://medium.com/p/f4e3dfe7a5b1) |
 | Thu, 21 May 2026 20:01:44 GMT | Information Gathering & Reconnaissance | Kevin | [Read More](https://medium.com/p/ad0fff6855e9) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 May 2026 12:44:32 GMT | CanYouCrackMeBaby2 -Crackmes Writeup | CHANDRA KANT BAURI | [Read More](https://medium.com/p/662ae459e21c) |
 | Thu, 21 May 2026 12:43:47 GMT | OWASP Top 10 #9 — Security Logging and Monitoring Failures | Kanishkakhandelwal | [Read More](https://medium.com/p/230a587321d3) |
 | Thu, 21 May 2026 12:39:23 GMT | Why More SaaS Companies Are Pursuing SOC 2 Audits Earlier Than Ever | Decrypt Compliance | [Read More](https://medium.com/p/79c89072e447) |
-| Thu, 21 May 2026 12:38:45 GMT | The CISO Role Is Being Rewritten in Real Time | Garima Chawla | [Read More](https://medium.com/p/05b4693453f6) |
-| Thu, 21 May 2026 12:31:00 GMT | How a Real SOC Analyst Investigates a Phishing Attack: From Macro Execution to Persistence LIVE | Manubhav Sharma | [Read More](https://medium.com/p/a73486a5afe8) |
-| Thu, 21 May 2026 12:16:00 GMT | Get ready to question everything you see online | Michal Mann | [Read More](https://medium.com/p/98e1e4dccd69) |
-| Thu, 21 May 2026 11:52:53 GMT | Stop Asking If AI Will Replace Your Cybersecurity Job. Ask This Instead. | Rachana Gupta | [Read More](https://medium.com/p/4255e9473531) |
-| Thu, 21 May 2026 11:49:14 GMT | Complete Guide to Diploma in Linux System Administration Courses in Delhi | cyber security Updates | [Read More](https://medium.com/p/c722d42c6f0b) |
-| Thu, 21 May 2026 11:46:04 GMT | Why OpenBSD 7.9 Should Be on Your Radar in 2026 | Techrefreshing | [Read More](https://medium.com/p/28cbbf1417cc) |
-| Thu, 21 May 2026 11:42:01 GMT | VAPT Saves Businesses from Hidden Cyber Risks | QualysecEurope | [Read More](https://medium.com/p/990ef370d537) |
-| Thu, 21 May 2026 11:39:07 GMT | Why the Location of Your Server Dictates Your European Success | Leo Servers | [Read More](https://medium.com/p/4229d48c8469) |
-| Thu, 21 May 2026 11:36:17 GMT | Cybersecurity for Beginners 2026 Guide by Securium Academy | Securium Academy | [Read More](https://medium.com/p/3d2ac9f56d05) |
-| Thu, 21 May 2026 11:35:34 GMT | Lab: Basic SSRF against another back-end system - SSRF #lab2 | PRiTi.EX | [Read More](https://medium.com/p/5e48c2e875eb) |
-| Thu, 21 May 2026 11:35:22 GMT | The Fragile Edge: Why the Convergence of IoT and Blockchain is a Security Nightmare | Dr Sanjeev Kumar Mandal | [Read More](https://medium.com/p/2b81652b9e30) |
-| Thu, 21 May 2026 11:34:01 GMT | The ISO 27001 Truth Nobody Tells SMBs. Until Now. | Aivoratechlabs | [Read More](https://medium.com/p/3dbf8c478be2) |
-| Thu, 21 May 2026 11:31:00 GMT | The Cron Job Looked Legitimate Until We Read It Carefully | Faruk Ahmed | [Read More](https://medium.com/p/3eb1fbb87953) |
