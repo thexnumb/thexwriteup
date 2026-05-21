@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 May 2026 22:33:37 GMT | Pentesterlar neden Cache bilmeli? | Zeki Kayaalp | [Read More](https://medium.com/p/33bcde08ed4c) |
+| Thu, 21 May 2026 22:27:42 GMT | amazon.com: Unusual activity — limited access. (Location: near IP address 176.92.44.5) | Bob Malin | [Read More](https://medium.com/p/895e3d99fb54) |
+| Thu, 21 May 2026 22:20:45 GMT | Cybersecurity Graduate Speaker Calls on Graduates to Lead Through Action, Not Title | Berkeley I School | [Read More](https://medium.com/p/cbc21ad0c8e8) |
+| Thu, 21 May 2026 22:19:15 GMT | API & Service-to-Service Authentication: Servisler Arası Güvenli İletişim | Mehmet Demirel | [Read More](https://medium.com/p/2543d2303c17) |
+| Thu, 21 May 2026 22:06:34 GMT | Understanding MISP: A Powerful Platform for Cyber Threat Intelligence | cyberhan | [Read More](https://medium.com/p/0a96b8fa8fb9) |
+| Thu, 21 May 2026 22:06:33 GMT | Sultan Ali Aslam — A Rising Name in Cyber Security and Ethical Hacking | Ytsultanali | [Read More](https://medium.com/p/80e8f92c9ad5) |
+| Thu, 21 May 2026 22:02:39 GMT | Primitive Process Injection: APC Tandem | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1dcec8515c86) |
+| Thu, 21 May 2026 21:58:43 GMT | The Quantum Inflection Point: Industrial Policy, Equity Stakes, and the Cybersecurity Implications… | CCD-IS | [Read More](https://medium.com/p/0b4f893a4ae6) |
 | Thu, 21 May 2026 21:45:01 GMT | TryHackMe Forward Walkthrough: Full Active Directory Compromise | Aniket Tegginamath | [Read More](https://medium.com/p/9c4c6810ddf1) |
 | Thu, 21 May 2026 21:28:36 GMT | Best Security Camera Placement Tips for Homeowners | AlexBryn | [Read More](https://medium.com/p/e1ebbe593ba7) |
 | Thu, 21 May 2026 21:26:28 GMT | Is Your Phone Data Actually Safe? US Telecom Giants Just Did Something Big in 2026 | Henry | [Read More](https://medium.com/p/0d7a787e2e78) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 May 2026 13:28:06 GMT | Threat Advisory: The Campaign Triad | Macs-Hit | [Read More](https://medium.com/p/f97fabb5b55f) |
 | Thu, 21 May 2026 13:26:26 GMT | The Sun Is Leaking: How Thousands of Smart Solar Devices Are Exposed to the Open Internet | hacker_might | [Read More](https://medium.com/p/a666398d6700) |
 | Thu, 21 May 2026 13:22:35 GMT | JavaScript Kodlarında Gizlənən $1,250: İlk Bug Bounty Hekayəm | Tuncay Abulfatzada | [Read More](https://medium.com/p/2caf0a3eb647) |
-| Thu, 21 May 2026 13:10:17 GMT | Can Art Still Create Intimacy in an Emotionally Avoidant World? | FAAVIDEL (Faezeh Ghavidel) | [Read More](https://medium.com/p/7bef6e3142b3) |
-| Thu, 21 May 2026 13:03:04 GMT | Who Put a Bomb at the Bottom of Big Creek Lake? | Learn With Hatty | [Read More](https://medium.com/p/f9548f972416) |
-| Thu, 21 May 2026 13:01:03 GMT | Secrets Sprawl: A Field Guide to Everywhere Your Keys Actually Live | Cameron Bardin (MDVKG) | [Read More](https://medium.com/p/07ecaf242625) |
-| Thu, 21 May 2026 12:57:50 GMT | 8 Attendance-Centric HRMS Software in India for Field-Based Companies 2026 | Aditi Sharma | [Read More](https://medium.com/p/3ac686ac32a7) |
-| Thu, 21 May 2026 12:46:14 GMT | An Audit on Apple’s Closed-Sourced DifferentialPrivacy.framework | Maldonado Richard | [Read More](https://medium.com/p/0f1b658da698) |
-| Thu, 21 May 2026 12:44:32 GMT | CanYouCrackMeBaby2 -Crackmes Writeup | CHANDRA KANT BAURI | [Read More](https://medium.com/p/662ae459e21c) |
-| Thu, 21 May 2026 12:43:47 GMT | OWASP Top 10 #9 — Security Logging and Monitoring Failures | Kanishkakhandelwal | [Read More](https://medium.com/p/230a587321d3) |
-| Thu, 21 May 2026 12:39:23 GMT | Why More SaaS Companies Are Pursuing SOC 2 Audits Earlier Than Ever | Decrypt Compliance | [Read More](https://medium.com/p/79c89072e447) |
