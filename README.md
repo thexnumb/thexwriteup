@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 May 2026 04:43:05 GMT | BIOHAZARD WALKTHROUGH - TRYHACKME | ANWAR1 | [Read More](https://medium.com/p/074d6bcddfc3) |
+| Thu, 21 May 2026 04:34:49 GMT | Git Autocompletion not Working on MacOS | Alexander Tyutin | [Read More](https://medium.com/p/536da574591b) |
+| Thu, 21 May 2026 04:29:41 GMT | Seamless Settlements: Profiting from CoinAnk’s OKX Onchain OS Integration | Web3Dof | [Read More](https://medium.com/p/7e980e204be0) |
+| Thu, 21 May 2026 04:29:07 GMT | Behind the Suit and Smile: The Emotional Roller Coaster of Enterprise Sales | Ganesh Murugesan | [Read More](https://medium.com/p/970b3e27e2d9) |
+| Thu, 21 May 2026 04:28:45 GMT | Current Working Onion Links 2026 — Verified Dark Web Directories & Search Engines | onion links | [Read More](https://medium.com/p/6f119db5f933) |
+| Thu, 21 May 2026 04:21:26 GMT | Vietnam IT Salary Guide 2026 & Tech Talent Trends | Jasmine Grande | [Read More](https://medium.com/p/aeb8c6d5fef6) |
+| Thu, 21 May 2026 04:16:07 GMT | Secure identity verification builds trust and prevents digital fraud. | Abhishek Sinha | [Read More](https://medium.com/p/b29a4c132310) |
+| Thu, 21 May 2026 04:10:23 GMT | GitHub Confirmed This Data Breach | Rohan Rao | [Read More](https://medium.com/p/3768d0ef7347) |
+| Thu, 21 May 2026 04:01:00 GMT | The MCP Supply Chain Is on Fire — and Anthropic Says That’s by Design | Rashid Mahmood | [Read More](https://medium.com/p/1745d612cea3) |
+| Thu, 21 May 2026 03:50:20 GMT | Google I/O 2026 had nothing to say and said it badly ahead of Apple’s WWDC | Sr | [Read More](https://medium.com/p/75b5e82f3535) |
+| Thu, 21 May 2026 03:44:34 GMT | ShinyHunters Identity Dispute: Analysis of Telegram Statements Published on May 21, 2026 | Jzzzz1qw | [Read More](https://medium.com/p/91c85b9fa0ff) |
+| Thu, 21 May 2026 03:36:04 GMT | Silver Fox’s Fangs: ValleyRAT’s Kernel RootKit and the RustSL Phishing Wave Hitting India | dannyDUD | [Read More](https://medium.com/p/a42de81a0359) |
+| Thu, 21 May 2026 03:07:00 GMT | Linux Capture The Flag Bandit Level 15 | Red | [Read More](https://medium.com/p/8e5d9ef03f3d) |
+| Thu, 21 May 2026 03:02:07 GMT | The AI Flood That’s Killing Bug Bounty — And the Hidden Reason Nobody Is Talking About
+By Adil Ali | Adil Alee | [Read More](https://medium.com/p/c7c111f4a7f3) |
+| Thu, 21 May 2026 02:58:01 GMT | HTB Web Attacks - Skill Assessment | ZeroByte | [Read More](https://medium.com/p/ee63a19058c9) |
+| Thu, 21 May 2026 02:49:34 GMT | How I Hunt Broken Access Control | Kakashi | [Read More](https://medium.com/p/11b1cd517d53) |
+| Thu, 21 May 2026 02:44:05 GMT | Why My WebRTC File Sharing App Worked on the Same Device But Failed on Other Devices — And How I… | Eldrex Delos Reyes Bula | [Read More](https://medium.com/p/8835bfb015ba) |
+| Thu, 21 May 2026 02:26:00 GMT | What Happens After You Enable GitHub Advanced Security (GHAS) | Sridhar | [Read More](https://medium.com/p/b4010cbc0197) |
+| Thu, 21 May 2026 02:18:58 GMT | The Invisible War: Why Cybersecurity Matters More Than Ever | Sandani Jayawardhana | [Read More](https://medium.com/p/08c25249c664) |
+| Thu, 21 May 2026 02:06:21 GMT | Aaj ek aur serious cybersecurity issue samne aayi hai: OpenClaw skills ke through malicious RATs… | Muhammad Hamza | [Read More](https://medium.com/p/4272f262e215) |
+| Thu, 21 May 2026 01:32:51 GMT | AWS Load Balancers Explained: ALB vs NLB vs GWLB vs CLB | Jawahar Rajaram | [Read More](https://medium.com/p/5241f4b29be0) |
+| Thu, 21 May 2026 00:39:12 GMT | From Org Switcher to Org Takeover: An IDOR Story | xploiterr | [Read More](https://medium.com/p/e8f8a5652cb9) |
+| Thu, 21 May 2026 00:37:32 GMT | The Security Industry Is Losing. | 0x88CK | [Read More](https://medium.com/p/e0c952c591ac) |
+| Thu, 21 May 2026 00:31:00 GMT | How a Simple URL Parameter Exposed Hidden Database Records | Anoop Ambrose | [Read More](https://medium.com/p/34bdbafbd753) |
+| Thu, 21 May 2026 00:26:38 GMT | Wrong Shelf: A Paper That Does Not Belong in cs.CR | Berend Watchus | [Read More](https://medium.com/p/048c9a068b71) |
+| Thu, 21 May 2026 00:10:57 GMT | The cybersecurity landscape . | Afzal | [Read More](https://medium.com/p/be4beb8d03bb) |
 | Wed, 20 May 2026 23:15:52 GMT | The Biggest Cybersecurity Story of 2026? TeamPCP Claims Massive GitHub Breach | Mahdi Reviews AI | [Read More](https://medium.com/p/aebcc26a1c99) |
 | Wed, 20 May 2026 23:07:31 GMT | Nmap Series: Nmap Post Port Scans — Part 4. | Oluwakamiye Adeyemo | [Read More](https://medium.com/p/80ec0c3879ab) |
 | Wed, 20 May 2026 23:01:01 GMT | What Mythos Class Models Mean Specifically For Data Pipeline Security | Satyam Sahu | [Read More](https://medium.com/p/702b49bc7bb2) |
@@ -86,29 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 May 2026 16:17:42 GMT | When a Single “No” Became the Most Consequential Word in Geopolitics | Victor Babaniyi | [Read More](https://medium.com/p/99a93a3e27c6) |
 | Wed, 20 May 2026 16:15:01 GMT | Anthropic Quietly Fixes Claude Code Sandbox Bypass: A Wake-Up Call for AI Security | Jas | [Read More](https://medium.com/p/638d74fe1645) |
 | Wed, 20 May 2026 16:13:27 GMT | Stored XSS via Markdown URL Attribute Injection — How I Earned a €450 Bug Bounty | AnGrY | [Read More](https://medium.com/p/48c40ae644ef) |
-| Wed, 20 May 2026 16:05:55 GMT | HackTheBox Getting Started — Knowledge Check WriteUp | th3V0!D | [Read More](https://medium.com/p/ab7289fa85f3) |
-| Wed, 20 May 2026 16:02:22 GMT | GitHub Got Breached — and the Attacker Walked In Through a VS Code Extension | Ali Mansoor | [Read More](https://medium.com/p/7d410b7e88a6) |
-| Wed, 20 May 2026 16:01:54 GMT | Bandit Level 2 → Level 3Walkthrough — Over The Wire | Pranavaggarwal | [Read More](https://medium.com/p/6c5330997e28) |
-| Wed, 20 May 2026 16:01:51 GMT | Arquitetura de Redes (OSI e TCP/IP) | Leandro Wesley | [Read More](https://medium.com/p/3ac3985c17bd) |
-| Wed, 20 May 2026 16:01:00 GMT | Introducing CrossBar Crypto Hardware wallet | CrossBar | [Read More](https://medium.com/p/a00ee6897353) |
-| Wed, 20 May 2026 16:00:38 GMT | Critical SQL Injection in OpenDocMan ajax_udf.php via Dynamic Table Name Handling | DARN | [Read More](https://medium.com/p/d4b3d0673340) |
-| Wed, 20 May 2026 15:59:38 GMT | ⚙️ 02. — Stored XSS into HTML context with nothing encoded | The4v1 | [Read More](https://medium.com/p/9de9f029cd03) |
-| Wed, 20 May 2026 15:56:59 GMT | Even wings feel heavy sometimes. | Vivienne | [Read More](https://medium.com/p/b7f72ad92622) |
-| Wed, 20 May 2026 15:54:40 GMT | Cybersecurity Threats, Vulnerabilities, and Countermeasures | Safdar Shakoor | [Read More](https://medium.com/p/4a270d4c5252) |
-| Wed, 20 May 2026 15:53:52 GMT | Bypassing Network Boundaries: Achieving Blind SSRF to Cloud Instance Compromise via Webhook… | Azzam | [Read More](https://medium.com/p/bbe2fccd64e5) |
-| Wed, 20 May 2026 15:49:09 GMT | From Vulnerable to Hardened: A Complete Nessus Vulnerability Assessment of a Linux Web Server | Famous Areguamen | [Read More](https://medium.com/p/5993fc03bea4) |
-| Wed, 20 May 2026 15:48:01 GMT | Kiro + Claude Opus 4.7  Best AI Combo for Penetration Testing | Pentester Club | [Read More](https://medium.com/p/97c5c21a1308) |
-| Wed, 20 May 2026 15:46:07 GMT | Pill Bugs (Roly-Polies) in the Garden | Katya Ratneva | [Read More](https://medium.com/p/95fc33b8b301) |
-| Wed, 20 May 2026 15:43:27 GMT | NTLM Hash Dumping | Efe Özel | [Read More](https://medium.com/p/c3047c2db86b) |
-| Wed, 20 May 2026 15:43:06 GMT | File Path Traversal Walkthrough | Rormsbee | [Read More](https://medium.com/p/27084e16f628) |
-| Wed, 20 May 2026 15:41:00 GMT | Why Cybersecurity Experts Are More Important Than Ever in 2026 | Xwtempsolutions | [Read More](https://medium.com/p/0adb9fdac807) |
-| Wed, 20 May 2026 15:35:18 GMT | Secure Agents: Control Policies in the Harness | Evangelos Pappas | [Read More](https://medium.com/p/623c47aea578) |
-| Wed, 20 May 2026 15:27:48 GMT | “Bug Bounty Bootcamp #38: SSRF Chaining — Bypassing Domain Whitelists with Open Redirects and PDF… | Aman Sharma | [Read More](https://medium.com/p/8c344246a1c7) |
-| Wed, 20 May 2026 15:26:34 GMT | From Agriculture to Security: Industries That Benefit from Drone Technology | Beat Drone | [Read More](https://medium.com/p/1aabda520a92) |
-| Wed, 20 May 2026 15:24:22 GMT | Network Security | Udai Senevirathne | [Read More](https://medium.com/p/7de76cedfb34) |
-| Wed, 20 May 2026 15:23:08 GMT | Call In the AI SWAT Team | Gary Angel | [Read More](https://medium.com/p/18f384ccc98c) |
-| Wed, 20 May 2026 15:21:00 GMT | AI Threat Modelling Is No Longer Optional, It’s the New Security Perimeter | Little_Sun4lower | [Read More](https://medium.com/p/7a4daa36e9bd) |
-| Wed, 20 May 2026 15:17:30 GMT | Armed vs. Unarmed Security Guards in Conroe, TX: Which Type of Security Does Your Property Need? | ADORA Private Security | [Read More](https://medium.com/p/85e05d5a5fe0) |
-| Wed, 20 May 2026 15:13:34 GMT | Why HTTPS Isn’t Just a Padlock — It’s Your Last Line of Defense | EMTIAZ AHMED | [Read More](https://medium.com/p/f468e66ca2cb) |
-| Wed, 20 May 2026 15:06:00 GMT | The Great AI Security Lie: Why You Cannot Patch a Guess | Trinitite | [Read More](https://medium.com/p/8866a56b54eb) |
-| Wed, 20 May 2026 15:01:03 GMT | Breaking AI Platforms: How an SSRF in Open WebUI Enabled Internal Network Access (CVE-2026–45401) | Chinmohan Nayak | [Read More](https://medium.com/p/dbffc30295fc) |
