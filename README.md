@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 20 May 2026 23:15:52 GMT | The Biggest Cybersecurity Story of 2026? TeamPCP Claims Massive GitHub Breach | Mahdi Reviews AI | [Read More](https://medium.com/p/aebcc26a1c99) |
+| Wed, 20 May 2026 23:07:31 GMT | Nmap Series: Nmap Post Port Scans — Part 4. | Oluwakamiye Adeyemo | [Read More](https://medium.com/p/80ec0c3879ab) |
+| Wed, 20 May 2026 23:01:01 GMT | What Mythos Class Models Mean Specifically For Data Pipeline Security | Satyam Sahu | [Read More](https://medium.com/p/702b49bc7bb2) |
+| Wed, 20 May 2026 22:34:54 GMT | The Sea Encroaching at Our Doorstep: Understanding the Root Causes of Bali’s Coastal Erosion Crisis… | oka agastya | [Read More](https://medium.com/p/05d7eb692647) |
 | Wed, 20 May 2026 22:25:36 GMT | The 2026 World Cup will be the biggest counter-drone exercise in sports history — and 3D printing… | pippo pipposky | [Read More](https://medium.com/p/9f0f533e9e76) |
 | Wed, 20 May 2026 22:17:54 GMT | Why Your AI Agents Shouldn’t Hold the Keys to the Kingdom | Joakim Sundberg | [Read More](https://medium.com/p/cc5c469fd83a) |
 | Wed, 20 May 2026 22:10:42 GMT | The future of protection is no longer passive. | Sentrickapp.com | [Read More](https://medium.com/p/9c71d4f458c1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 20 May 2026 15:13:34 GMT | Why HTTPS Isn’t Just a Padlock — It’s Your Last Line of Defense | EMTIAZ AHMED | [Read More](https://medium.com/p/f468e66ca2cb) |
 | Wed, 20 May 2026 15:06:00 GMT | The Great AI Security Lie: Why You Cannot Patch a Guess | Trinitite | [Read More](https://medium.com/p/8866a56b54eb) |
 | Wed, 20 May 2026 15:01:03 GMT | Breaking AI Platforms: How an SSRF in Open WebUI Enabled Internal Network Access (CVE-2026–45401) | Chinmohan Nayak | [Read More](https://medium.com/p/dbffc30295fc) |
-| Wed, 20 May 2026 15:01:02 GMT | Anyone Can Bypass Your Linux Password — If You Haven’t Secured Your Bootloader | Haseeb Ali | [Read More](https://medium.com/p/0342f52777ac) |
-| Wed, 20 May 2026 14:58:11 GMT | Here is one underrated part of medical training: learning how to survive bad software. | Amine Korchi MD | [Read More](https://medium.com/p/4b77e2ede89e) |
-| Wed, 20 May 2026 14:48:53 GMT | Every Website Leaves Footprints Here is How I Followed Them | Vamsikandukuru | [Read More](https://medium.com/p/8c07ffd154aa) |
-| Wed, 20 May 2026 14:36:37 GMT | Race Condition (TOCTOU) in Review API — Bypassing Business Logic with a Single Packet Attack | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/797070c88d6c) |
