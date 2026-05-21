@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 21 May 2026 20:05:42 GMT | أغرب حاجة في مجال الباونتي إنك ممكن تتعلم 6 شهور…
+ ومع ذلك متلاقيش ولا ثغرة واحدة. | Firstbugpath | [Read More](https://medium.com/p/f4e3dfe7a5b1) |
+| Thu, 21 May 2026 20:01:44 GMT | Information Gathering & Reconnaissance | Kevin | [Read More](https://medium.com/p/ad0fff6855e9) |
+| Thu, 21 May 2026 20:01:03 GMT | Introduction: Why Zero Trust Is No Longer Optional | Kenn Anderson, Jr. | [Read More](https://medium.com/p/aec60a833dd6) |
+| Thu, 21 May 2026 19:42:03 GMT | Corporate Security Service | Dynamic security solution ltd | [Read More](https://medium.com/p/1dade5241cfa) |
+| Thu, 21 May 2026 19:37:30 GMT | The Governance Deficit: Frontier AI, Competitive Logic, and the Limits of Voluntary Oversight | CCD-IS | [Read More](https://medium.com/p/2f4e1b036a7b) |
+| Thu, 21 May 2026 19:27:11 GMT | Mastering Web Security: Avoiding the OWASP Top 10 in Modern Applications | Ushani Saubhagya | [Read More](https://medium.com/p/28687cb97582) |
+| Thu, 21 May 2026 19:22:43 GMT | OverTheWire Bandit Walkthrough — Level 9 → 10 - 30-Day Cybersecurity Learning Journey (Day 10) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/65ff081783ed) |
+| Thu, 21 May 2026 19:16:30 GMT | Blockchain Meets Zero Trust : A Practical Framework for Securing FinTech Against Insider Threats… | Hana Kim | [Read More](https://medium.com/p/3086a36871fa) |
+| Thu, 21 May 2026 19:09:12 GMT | LDM Global Helps Businesses Respond Faster to Cyber Security Breaches | Ldmglobal | [Read More](https://medium.com/p/bc9911357b8d) |
+| Thu, 21 May 2026 19:05:36 GMT | Agentic AI Security: Cutting Through the Hype (And Free Resources to Actually Learn It) | Rachana Gupta | [Read More](https://medium.com/p/29d1edd460d2) |
+| Thu, 21 May 2026 18:50:26 GMT | Why Microsoft Defender is Essential for Modern Cybersecurity | IT_Engineer | [Read More](https://medium.com/p/5d26f72539be) |
+| Thu, 21 May 2026 18:49:38 GMT | Claude Opus 4.7 + HackerOne - AI for Bug Bounty Workflows | Pentester Club | [Read More](https://medium.com/p/63f8be936363) |
+| Thu, 21 May 2026 18:42:16 GMT | OneLake Security Deep Dive | Alipouw | [Read More](https://medium.com/p/8cb2c0195524) |
+| Thu, 21 May 2026 18:37:37 GMT | Server Information Leak: What Your Headers Are Telling Attackers | Abrar Bin Habib | [Read More](https://medium.com/p/47af60502756) |
+| Thu, 21 May 2026 18:31:00 GMT | AWS IAM Misconfiguration Lab: Detection & Remediation Walkthrough | Om Fulsundar | [Read More](https://medium.com/p/e4414ce849d3) |
+| Thu, 21 May 2026 18:25:03 GMT | A Dive Into the Cyber Kill Chain — New Updated Jr Pentester Path Room | Pop123 | [Read More](https://medium.com/p/1002043591e9) |
+| Thu, 21 May 2026 18:06:15 GMT | Solving Room “Guided Pentest: Web” (TryHackMe) | rad0v | [Read More](https://medium.com/p/c916de38e0ce) |
 | Thu, 21 May 2026 17:58:05 GMT | SSH for Beginners: Connect to Remote Servers Using VS Code | THE OSINT GUY | [Read More](https://medium.com/p/a09b87056340) |
 | Thu, 21 May 2026 17:47:46 GMT | The Dark Side of “Knowing Your Worth” | Brianna Jacobs | [Read More](https://medium.com/p/1b6c36c48270) |
 | Thu, 21 May 2026 17:45:02 GMT | ssh-keysign-pwn: The Linux Kernel Bug That Hands Over Your SSH Keys in a Race Against Death | Ali Mansoor | [Read More](https://medium.com/p/3a6db3a73f9e) |
@@ -95,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 May 2026 11:35:22 GMT | The Fragile Edge: Why the Convergence of IoT and Blockchain is a Security Nightmare | Dr Sanjeev Kumar Mandal | [Read More](https://medium.com/p/2b81652b9e30) |
 | Thu, 21 May 2026 11:34:01 GMT | The ISO 27001 Truth Nobody Tells SMBs. Until Now. | Aivoratechlabs | [Read More](https://medium.com/p/3dbf8c478be2) |
 | Thu, 21 May 2026 11:31:00 GMT | The Cron Job Looked Legitimate Until We Read It Carefully | Faruk Ahmed | [Read More](https://medium.com/p/3eb1fbb87953) |
-| Thu, 21 May 2026 11:26:49 GMT | Durable Nonces on Solana: Sign Now, Send Later | Lalit Rajput | [Read More](https://medium.com/p/99753d892342) |
-| Thu, 21 May 2026 11:15:15 GMT | I Went Looking For A Better Model And Found A Different Problem | Shravya Taluka | [Read More](https://medium.com/p/78e87fe695e6) |
-| Thu, 21 May 2026 11:09:29 GMT | Cheap Reseller Hosting Best Plans Under £15month | Janet Watson | [Read More](https://medium.com/p/ba842bebe17b) |
-| Thu, 21 May 2026 11:08:30 GMT | The Hidden Cybersecurity Risk of AI Tools in 2026 | Jagruti | [Read More](https://medium.com/p/276631eb4baa) |
-| Thu, 21 May 2026 11:01:01 GMT | Writeup for CyLab/picoCTF challenge “SQLiLite” | Walter Moar | [Read More](https://medium.com/p/a95b057cdf45) |
-| Thu, 21 May 2026 10:46:18 GMT | Critical Claude Code Sandbox Vulnerability Enables Network Escape and Arbitrary File Write Attacks | Inforsecpro | [Read More](https://medium.com/p/2186222829d4) |
-| Thu, 21 May 2026 10:44:42 GMT | Cybersecurity Basics Every Business Should Know | Sanjiv Cherian | [Read More](https://medium.com/p/6dc25522d83f) |
-| Thu, 21 May 2026 10:39:41 GMT | I Found 20,971 AI Servers Wide Open on the Internet. Here’s What Was Inside. | Iamkoppad | [Read More](https://medium.com/p/7af0633fc972) |
-| Thu, 21 May 2026 10:31:35 GMT | Custom Web Application Development Services for Healthcare | Technovisers | [Read More](https://medium.com/p/2e9ee3840b15) |
-| Thu, 21 May 2026 10:22:54 GMT | Best Reseller Hosting for Agencies (2026 Comparison Guide) | Ann Taylor | [Read More](https://medium.com/p/d9ccb4f255d5) |
-| Thu, 21 May 2026 10:19:54 GMT | The Rise of Cybersecurity Threats in Everyday Life | Atrayee Mondal | [Read More](https://medium.com/p/14b8818e43ee) |
-| Thu, 21 May 2026 10:09:12 GMT | How XR is Solving Real Problems in Manufacturing and Automotive Industries | Krupagohil | [Read More](https://medium.com/p/06ebe2dedd62) |
-| Thu, 21 May 2026 10:05:04 GMT | Two Weeks With a Security Copilot as a Sidekick: Field Notes From a Home Lab | Predrag | [Read More](https://medium.com/p/d4d3a819846d) |
-| Thu, 21 May 2026 09:53:06 GMT | Why Ethical Hackers Choose Securium Academy for OSCP Training in Mumbai | Securium Academy | [Read More](https://medium.com/p/24fc7a958349) |
-| Thu, 21 May 2026 09:51:07 GMT | BBA Information Technology with Research: Why It Matters in 2026 | SICSR Pune | [Read More](https://medium.com/p/832a891be2fd) |
-| Thu, 21 May 2026 09:43:50 GMT | Safety is relational, not technical | Giulia Balestra | [Read More](https://medium.com/p/9bc504e1f46f) |
-| Thu, 21 May 2026 09:33:09 GMT | How Industrial Automation Solutions Are Transforming Modern Industries | Asteamtechno | [Read More](https://medium.com/p/943cc4f9f6c8) |
