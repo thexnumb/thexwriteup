@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 May 2026 11:58:58 GMT | From Root to Burp: A Comprehensive Guide to Bypassing Protectt.ai | Infallible | [Read More](https://medium.com/p/a9e2cd3d806d) |
+| Fri, 22 May 2026 11:53:10 GMT | Most People Don’t Get “Hacked.” | Sudarshanyadav | [Read More](https://medium.com/p/27e66cd931ec) |
+| Fri, 22 May 2026 11:51:28 GMT | Building an SDR Lab at Home Taught Me More Than Online Courses Ever Did | Michael Preston | [Read More](https://medium.com/p/9d83cb81aa63) |
+| Fri, 22 May 2026 11:51:07 GMT | Tersine Mühendislik Rehberi: Android Emulator Kullanarak L3 CDM Dump İşlemi | Berke Gülaçar | [Read More](https://medium.com/p/fba8289f7127) |
+| Fri, 22 May 2026 11:31:00 GMT | The Linux Server Was “Fine.” I Still Took It Offline. | Faruk Ahmed | [Read More](https://medium.com/p/bd6492731817) |
+| Fri, 22 May 2026 11:19:56 GMT | Local AI vs Cloud-Based AI: Why Running Intelligence Locally Matters | Bervice | [Read More](https://medium.com/p/dcac3f3845bb) |
+| Fri, 22 May 2026 11:13:54 GMT | Bypass Me Writeup picoCTF2026 | Frank karani | [Read More](https://medium.com/p/76fdef9ac742) |
+| Fri, 22 May 2026 11:08:57 GMT | Lenovo Driver Vulnerability Allows Attackers to Terminate EDR Processes and Disable Endpoint… | Inforsecpro | [Read More](https://medium.com/p/8d401e27d2aa) |
+| Fri, 22 May 2026 11:08:31 GMT | Common Cyber Security Mistakes SMEs Make (And How to Avoid Them) | Adviacent.in | [Read More](https://medium.com/p/bb7c7b21c7de) |
+| Fri, 22 May 2026 11:06:59 GMT | Why Cybersecurity Professionals Don’t Run Away From Problems | Swarup Mahato | [Read More](https://medium.com/p/0fcb527d8c77) |
+| Fri, 22 May 2026 11:02:18 GMT | The First Hour: Decision Latency and the Architecture of Allied Resilience | Michael Thiessmeier | [Read More](https://medium.com/p/da118a3e5635) |
+| Fri, 22 May 2026 11:01:01 GMT | #Lab 2 — High-Level Logic Vulnerability — PortSwigger Web Security Academy | Thewatchdog13 | [Read More](https://medium.com/p/d5f1372a594f) |
+| Fri, 22 May 2026 10:52:59 GMT | How Performance Marketing Helps Brands Scale Faster with Airfluence Media | Anjali Chaudhary | [Read More](https://medium.com/p/84287da3e341) |
+| Fri, 22 May 2026 10:52:29 GMT | Cybersecurity is not just about coding — it’s about protecting the digital world. | Swarup Mahato | [Read More](https://medium.com/p/ab9f0dc1d75f) |
+| Fri, 22 May 2026 10:34:55 GMT | How I Found Someone’s Entire Online Identity Using Just a Username (Free OSINT Method) | whatsmynameapp | [Read More](https://medium.com/p/c2b059950c34) |
+| Fri, 22 May 2026 10:27:53 GMT | I Built a Free AI-Powered Pentest Lab to Prepare for CEH Practical | Amirhasan Cyb | [Read More](https://medium.com/p/806d63051a24) |
+| Fri, 22 May 2026 10:18:38 GMT | The Art and Science of Note-Taking | Jonathan Beckett | [Read More](https://medium.com/p/754415fc7775) |
+| Fri, 22 May 2026 10:13:05 GMT | The Real Cost of Building Your Own VPN Infrastructure | Fyrewaypvt | [Read More](https://medium.com/p/a3825c858c5e) |
+| Fri, 22 May 2026 10:10:25 GMT | Third year of President Bola Ahmed Tinubu: a balanced scorecard? | Rasheed Adegoke | [Read More](https://medium.com/p/bbfcf0bc3f63) |
+| Fri, 22 May 2026 10:05:59 GMT | How to Pentest an LLM Infrastructure Before the Attackers Do | Motasem Hamdan | [Read More](https://medium.com/p/ec1886fef74c) |
+| Fri, 22 May 2026 09:58:41 GMT | Found but a small recong | Somsop | [Read More](https://medium.com/p/0c734afa2d5b) |
+| Fri, 22 May 2026 09:41:01 GMT | Building a Career Abroad: Romain’s Engineering Internship in Japan | Sound & Vision Technologies Inc. 【Care Cube】 | [Read More](https://medium.com/p/294f779ed405) |
+| Fri, 22 May 2026 09:32:51 GMT | Shadow in the Index: Escalating Elasticsearch SSRF to Full System Compromise | Demon | [Read More](https://medium.com/p/87d6a6763775) |
+| Fri, 22 May 2026 09:32:43 GMT | Hire N8N Experts — Smart Automation Solutions | n8ndevelopers | [Read More](https://medium.com/p/9a6f149567c5) |
+| Fri, 22 May 2026 09:31:00 GMT | Reading the Prompt You Did Not Send: Detection at the Inference Boundary | Evangelos Pappas | [Read More](https://medium.com/p/28092075061f) |
 | Fri, 22 May 2026 09:15:58 GMT | Healthcare Cybersecurity Trends in 2026: Building Resilient Digital Health Ecosystems | Zylen Solutions | [Read More](https://medium.com/p/2d6760c5ab20) |
 | Fri, 22 May 2026 09:15:03 GMT | DockerLabs Writeup — Bashpariencias (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/6b3fba1590bd) |
 | Fri, 22 May 2026 09:12:54 GMT | Did I Say Too Much!? | Shivani Dubey | [Read More](https://medium.com/p/213a72713375) |
@@ -88,28 +113,3 @@ In today’s digital world, many people are searching for… | Vemavarapunithin 
 | Fri, 22 May 2026 01:10:38 GMT | HackTheBox: Nibbles Write-up (Walkthrough) | ankamcharanteja | [Read More](https://medium.com/p/f816ee8e55d9) |
 | Fri, 22 May 2026 00:58:43 GMT | Project K2 Is Microsoft’s Plan to Fix Windows but It Doesn’t Even Begin to Solve the REAL Problems | Michael Swengel | [Read More](https://medium.com/p/6d774960d8fd) |
 | Fri, 22 May 2026 00:55:56 GMT | Why Password Hashing Is Still Broken in Production: A Technical Audit | Arnav | [Read More](https://medium.com/p/6ce883f586fc) |
-| Fri, 22 May 2026 00:55:40 GMT | Tenable Nessus Vulnerability Management Test Scan (GCP) | Justaworker | [Read More](https://medium.com/p/1055b90fe697) |
-| Fri, 22 May 2026 00:33:59 GMT | XSS Testing Checklist: 12 Important Test Cases Every Security Tester Should Know | Yamini Yadav_369 | [Read More](https://medium.com/p/7dad5d82f91c) |
-| Fri, 22 May 2026 00:33:01 GMT | The Beautiful Engineering of Malice: Dissecting OutPipe Infostealer | Abhang Mandwale | [Read More](https://medium.com/p/f89816f98b62) |
-| Fri, 22 May 2026 00:32:56 GMT | SQL Injection Testing Checklist: 10 Important Test Cases Every Security Tester Should Know | Yamini Yadav_369 | [Read More](https://medium.com/p/8844b1e20a78) |
-| Fri, 22 May 2026 00:31:10 GMT | Detecting Brute Force Attacks with Python: From Log Parsing to Real-Time Alerts | Rinto Priambodo | [Read More](https://medium.com/p/95c889700cb3) |
-| Fri, 22 May 2026 00:29:57 GMT | It Took One AI Model One Week to Reverse the Most Hands-Off Tech Policy in the World | Macplanet | [Read More](https://medium.com/p/791dd1b02d65) |
-| Fri, 22 May 2026 00:29:33 GMT | Inclusiveness — LFI to RCE via FTP Upload + SUID PATH Hijack - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/76681bec6d3b) |
-| Fri, 22 May 2026 00:20:17 GMT | Conventions Security Guard Services California - All Star Security Services | Matthew | [Read More](https://medium.com/p/f4b513ade7cf) |
-| Fri, 22 May 2026 00:00:52 GMT | Flipper One Is an Open Linux Cyberdeck, Not a Flipper Zero Sequel | 0xGosu | [Read More](https://medium.com/p/65826454a2a3) |
-| Thu, 21 May 2026 23:51:00 GMT | I was tired of Flameshot. So i built a Burp Suite extension | Juan Felipe Osorio Z | [Read More](https://medium.com/p/0bf29d8ac356) |
-| Thu, 21 May 2026 22:33:37 GMT | Pentesterlar neden Cache bilmeli? | Zeki Kayaalp | [Read More](https://medium.com/p/33bcde08ed4c) |
-| Thu, 21 May 2026 22:27:42 GMT | amazon.com: Unusual activity — limited access. (Location: near IP address 176.92.44.5) | Bob Malin | [Read More](https://medium.com/p/895e3d99fb54) |
-| Thu, 21 May 2026 22:20:45 GMT | Cybersecurity Graduate Speaker Calls on Graduates to Lead Through Action, Not Title | Berkeley I School | [Read More](https://medium.com/p/cbc21ad0c8e8) |
-| Thu, 21 May 2026 22:19:15 GMT | API & Service-to-Service Authentication: Servisler Arası Güvenli İletişim | Mehmet Demirel | [Read More](https://medium.com/p/2543d2303c17) |
-| Thu, 21 May 2026 22:06:34 GMT | Understanding MISP: A Powerful Platform for Cyber Threat Intelligence | cyberhan | [Read More](https://medium.com/p/0a96b8fa8fb9) |
-| Thu, 21 May 2026 22:06:33 GMT | Sultan Ali Aslam — A Rising Name in Cyber Security and Ethical Hacking | Ytsultanali | [Read More](https://medium.com/p/80e8f92c9ad5) |
-| Thu, 21 May 2026 22:02:39 GMT | Primitive Process Injection: APC Tandem | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1dcec8515c86) |
-| Thu, 21 May 2026 21:58:43 GMT | The Quantum Inflection Point: Industrial Policy, Equity Stakes, and the Cybersecurity Implications… | CCD-IS | [Read More](https://medium.com/p/0b4f893a4ae6) |
-| Thu, 21 May 2026 21:45:01 GMT | TryHackMe Forward Walkthrough: Full Active Directory Compromise | Aniket Tegginamath | [Read More](https://medium.com/p/9c4c6810ddf1) |
-| Thu, 21 May 2026 21:28:36 GMT | Best Security Camera Placement Tips for Homeowners | AlexBryn | [Read More](https://medium.com/p/e1ebbe593ba7) |
-| Thu, 21 May 2026 21:26:28 GMT | Is Your Phone Data Actually Safe? US Telecom Giants Just Did Something Big in 2026 | Henry | [Read More](https://medium.com/p/0d7a787e2e78) |
-| Thu, 21 May 2026 21:17:26 GMT | DATA PRIVACY Isn’t Just a Tech Issue. For the NEXT GENERATION, It’s a SAFETY Crisis. | Aki Pancic | [Read More](https://medium.com/p/a6aa94a41470) |
-| Thu, 21 May 2026 21:16:07 GMT | Part 2: The Power of “No” — Mastering the Principle of Least Privilege (PoLP) | Zahra Alizada | [Read More](https://medium.com/p/70f54e7a88b9) |
-| Thu, 21 May 2026 21:01:52 GMT | The New Blind Spot in AI Security: Agent-to-Agent Traffic, MCP Servers, and Shadow AI | Andre Boyle | [Read More](https://medium.com/p/5850b6ba033f) |
-| Thu, 21 May 2026 21:01:08 GMT | How I Secured My Home Wi-Fi Network As A Cybersecurity Student (Beginner-Friendly Guide)~Cyber n’ U | Madhurjabhattacharjee | [Read More](https://medium.com/p/a78e74dba535) |
