@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 May 2026 20:53:34 GMT | Five Attacks in One Month: The Fake Recruiter Campaign Targeting Blockchain Developers | Blake Findell | [Read More](https://medium.com/p/734340d45ec1) |
+| Fri, 22 May 2026 20:41:13 GMT | Unshackling AI: Building the Ultimate Local Hacker Copilot | Burak | [Read More](https://medium.com/p/b76ad706d45f) |
+| Fri, 22 May 2026 20:40:34 GMT | Burning Infrastructure: The 48-Hour Lifecycle of a Live TDS Campaign | SpearPanic | [Read More](https://medium.com/p/62af3329bd45) |
+| Fri, 22 May 2026 20:32:52 GMT | The Dangerous Gap Between Detection and Response | JSOC IT BLOG | [Read More](https://medium.com/p/854d4644b269) |
+| Fri, 22 May 2026 20:31:00 GMT | Eavesdropper: TryHackMe Walkthrough | Death Esther | [Read More](https://medium.com/p/6ecbad54f607) |
+| Fri, 22 May 2026 20:30:04 GMT | Authentication vs Authorization — The Most Confused Concepts in Cybersecurity | flossninja | [Read More](https://medium.com/p/b09d7547d15c) |
+| Fri, 22 May 2026 20:29:09 GMT | Your AI Is Showing — Data & Model Poisoning | Devanshi Patel | [Read More](https://medium.com/p/039c0034ae53) |
+| Fri, 22 May 2026 20:25:49 GMT | TryHackMe: Billing CTF - MagnusBilling RCE + Fail2ban PrivEsc | Evan John Mathew | [Read More](https://medium.com/p/ad13e02be55e) |
+| Fri, 22 May 2026 20:22:31 GMT | When the Watchdog Leaks: The CISA Credential Exposure and the Institutional Crisis It Reveals | CCD-IS | [Read More](https://medium.com/p/c41cae480238) |
+| Fri, 22 May 2026 20:21:32 GMT | The Harmonic Network Manifesto
+​Ether over Pipes. | Dennislamterin | [Read More](https://medium.com/p/1ad63e81ea9d) |
+| Fri, 22 May 2026 20:13:37 GMT | From the Duplicate Wall to Mainnet Reality: Why I Stopped Auditing Codebases and Built an… | Ogezi Emmanuel Sunday | [Read More](https://medium.com/p/b02520872d68) |
+| Fri, 22 May 2026 20:03:50 GMT | What is Identity and Access Management (IAM)? | flossninja | [Read More](https://medium.com/p/19fc6817437f) |
 | Fri, 22 May 2026 19:41:00 GMT | Stop Treating Key Vault Like a Secret Junk Drawer | Practical IT | [Read More](https://medium.com/p/8caf8123a95f) |
 | Fri, 22 May 2026 19:40:28 GMT | Linux for Beginners: Understanding the Basics of Linux Operating Systems | Mohd Kaif | [Read More](https://medium.com/p/fe087001037c) |
 | Fri, 22 May 2026 19:29:39 GMT | When You Are the Password | HackTheCyber | [Read More](https://medium.com/p/5f2dc77375b3) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 May 2026 13:14:37 GMT | CVE-2026–34474: ZTE H298A / H108N Credential Leak via ETHCheat | Monx Research | [Read More](https://medium.com/p/5bdc2a2b4a45) |
 | Fri, 22 May 2026 13:12:06 GMT | CVE-2021–35036: Super-Admin Password Leak Affecting Zyxel CPE/ONT/LTE Fleet | Monx Research | [Read More](https://medium.com/p/6549d72d0f3d) |
 | Fri, 22 May 2026 13:02:11 GMT | The Illusion of Effort | Preciousukom | [Read More](https://medium.com/p/e309cade1acc) |
-| Fri, 22 May 2026 13:01:01 GMT | The KQL Query That Caught 260 Brute Force Attempts in Microsoft Sentinel | Ronak Mishra | [Read More](https://medium.com/p/b305b68afb69) |
-| Fri, 22 May 2026 12:59:54 GMT | Lab: Blind SSRF with out-of-band detection - SSRF #lab3 | PRiTi.EX | [Read More](https://medium.com/p/d1b44228914d) |
-| Fri, 22 May 2026 12:58:27 GMT | Cloud AppSec Lab — Building, Breaking, and Understanding the Gap Between Web Apps and AWS Cloud… | c_K £lvin | [Read More](https://medium.com/p/17581ca900df) |
-| Fri, 22 May 2026 12:58:18 GMT | The Machine That Mints Millionaires | Hura Khan   ADS BDS | [Read More](https://medium.com/p/f1cecba18e81) |
-| Fri, 22 May 2026 12:49:35 GMT | The Cybersecurity Roadmap Every Small Business Owner Should Know | Rachana Gupta | [Read More](https://medium.com/p/6e44be523e38) |
-| Fri, 22 May 2026 12:49:18 GMT | Can You Still Trust a Human Voice in the AI Era? | Sandeep Sengupta | [Read More](https://medium.com/p/141ac72584b4) |
-| Fri, 22 May 2026 12:46:18 GMT | CISSP Chapter 3 — Part 1 Continuity Is Not Recovery It Is Operational Resilience Under Pressure. | Atakan ATAK | [Read More](https://medium.com/p/1453fe022e4c) |
-| Fri, 22 May 2026 12:40:44 GMT | The Next Standard for AI-Powered Software: Security-Operable by Design | Oscar Antonangelo | [Read More](https://medium.com/p/147f9bd31e4d) |
-| Fri, 22 May 2026 12:40:27 GMT | Navigating Trust Wallet in India: Legal Status, Taxes, and Best Security Practices | Megan-DigitalNewsBreak | [Read More](https://medium.com/p/4271598d4b68) |
-| Fri, 22 May 2026 12:32:27 GMT | SSRF in APIs: How a Single URL Parameter Can Expose Internal Systems | Sana Jalil | [Read More](https://medium.com/p/63128bff63a4) |
-| Fri, 22 May 2026 12:01:19 GMT | How to create a NVD Scraper within your Obsidian-Vault | 0xLuk3 | [Read More](https://medium.com/p/65ab3b8b17ee) |
-| Fri, 22 May 2026 11:58:58 GMT | From Root to Burp: A Comprehensive Guide to Bypassing Protectt.ai | Infallible | [Read More](https://medium.com/p/a9e2cd3d806d) |
