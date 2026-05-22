@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 May 2026 01:24:22 GMT | From a Simple Profile Endpoint to a 100k+ User IDOR on HackerRank | Hangga Aji Sayekti | [Read More](https://medium.com/p/6f9b6e6fe746) |
+| Fri, 22 May 2026 01:21:59 GMT | HackTheBox: GettingStarted Write-up (Walkthrough) | ankamcharanteja | [Read More](https://medium.com/p/f6c2caf00280) |
+| Fri, 22 May 2026 01:12:33 GMT | Tech Risk Management: The Standards Never Changed. Everything Else Did. | Ece Korkmaz | [Read More](https://medium.com/p/c62fb2c0cb55) |
+| Fri, 22 May 2026 01:10:38 GMT | HackTheBox: Nibbles Write-up (Walkthrough) | ankamcharanteja | [Read More](https://medium.com/p/f816ee8e55d9) |
+| Fri, 22 May 2026 00:58:43 GMT | Project K2 Is Microsoft’s Plan to Fix Windows but It Doesn’t Even Begin to Solve the REAL Problems | Michael Swengel | [Read More](https://medium.com/p/6d774960d8fd) |
+| Fri, 22 May 2026 00:55:56 GMT | Why Password Hashing Is Still Broken in Production: A Technical Audit | Arnav | [Read More](https://medium.com/p/6ce883f586fc) |
+| Fri, 22 May 2026 00:55:40 GMT | Tenable Nessus Vulnerability Management Test Scan (GCP) | Justaworker | [Read More](https://medium.com/p/1055b90fe697) |
+| Fri, 22 May 2026 00:33:59 GMT | XSS Testing Checklist: 12 Important Test Cases Every Security Tester Should Know | Yamini Yadav_369 | [Read More](https://medium.com/p/7dad5d82f91c) |
+| Fri, 22 May 2026 00:33:01 GMT | The Beautiful Engineering of Malice: Dissecting OutPipe Infostealer | Abhang Mandwale | [Read More](https://medium.com/p/f89816f98b62) |
+| Fri, 22 May 2026 00:32:56 GMT | SQL Injection Testing Checklist: 10 Important Test Cases Every Security Tester Should Know | Yamini Yadav_369 | [Read More](https://medium.com/p/8844b1e20a78) |
+| Fri, 22 May 2026 00:31:10 GMT | Detecting Brute Force Attacks with Python: From Log Parsing to Real-Time Alerts | Rinto Priambodo | [Read More](https://medium.com/p/95c889700cb3) |
+| Fri, 22 May 2026 00:29:57 GMT | It Took One AI Model One Week to Reverse the Most Hands-Off Tech Policy in the World | Macplanet | [Read More](https://medium.com/p/791dd1b02d65) |
+| Fri, 22 May 2026 00:29:33 GMT | Inclusiveness — LFI to RCE via FTP Upload + SUID PATH Hijack - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/76681bec6d3b) |
+| Fri, 22 May 2026 00:20:17 GMT | Conventions Security Guard Services California - All Star Security Services | Matthew | [Read More](https://medium.com/p/f4b513ade7cf) |
+| Thu, 21 May 2026 23:51:00 GMT | I was tired of Flameshot. So i built a Burp Suite extension | Juan Felipe Osorio Z | [Read More](https://medium.com/p/0bf29d8ac356) |
 | Thu, 21 May 2026 22:33:37 GMT | Pentesterlar neden Cache bilmeli? | Zeki Kayaalp | [Read More](https://medium.com/p/33bcde08ed4c) |
 | Thu, 21 May 2026 22:27:42 GMT | amazon.com: Unusual activity — limited access. (Location: near IP address 176.92.44.5) | Bob Malin | [Read More](https://medium.com/p/895e3d99fb54) |
 | Thu, 21 May 2026 22:20:45 GMT | Cybersecurity Graduate Speaker Calls on Graduates to Lead Through Action, Not Title | Berkeley I School | [Read More](https://medium.com/p/cbc21ad0c8e8) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 21 May 2026 14:35:57 GMT | The Real Firewall Decision Happens in the Audit Room, Not the Architecture Review | Erick Mancz | [Read More](https://medium.com/p/20f1b6636b28) |
 | Thu, 21 May 2026 14:32:36 GMT | The Crypto Industry Has a Trust Problem And It’s Not Going Away | Sara Taylor | [Read More](https://medium.com/p/b42da44891d1) |
 | Thu, 21 May 2026 14:31:00 GMT | The GitHub Data Breach Shows Why Developer Platforms Are Becoming Cybersecurity Targets | Thinkchains | [Read More](https://medium.com/p/174a5a94d8e6) |
-| Thu, 21 May 2026 14:27:51 GMT | Digital Infrastructure and Strategic Dependency in the European Union | Brian Neira Fajardo | [Read More](https://medium.com/p/f8330c8642f0) |
-| Thu, 21 May 2026 14:26:55 GMT | Information Gathering | Gajera Prins | [Read More](https://medium.com/p/a6cfd505d979) |
-| Thu, 21 May 2026 14:23:44 GMT | SOC Analyst İçin CrowdStrike Falcon Detection Analizi Rehberi: Arayüz, Alert İnceleme ve İlk Triage | Ahmet Badem | [Read More](https://medium.com/p/f43c769419fb) |
-| Thu, 21 May 2026 14:20:25 GMT | Why AI is racing to build a working model of reality | Eric Nguyen | [Read More](https://medium.com/p/85666fcd3c3f) |
-| Thu, 21 May 2026 14:18:54 GMT | Cybersecurity Complete Guide 2026: Simple Defensive Guide | Amit Chavan | [Read More](https://medium.com/p/e98ff2809826) |
-| Thu, 21 May 2026 14:09:01 GMT | THE ILLUSION OF SECURITY IN NIGERIA | Esther Adisa | [Read More](https://medium.com/p/cff9764681d1) |
-| Thu, 21 May 2026 14:02:34 GMT | The open-source website security scanner that runs entirely on your laptop. | Defense Stack | [Read More](https://medium.com/p/87ac34daa30f) |
-| Thu, 21 May 2026 13:57:26 GMT | I Got Tired of Paying $99/Month for Email OSINT. So I Built the Free Version. | Katriel Moses | [Read More](https://medium.com/p/bba4d0e8824a) |
-| Thu, 21 May 2026 13:48:57 GMT | Bypassing Early-Stage Android Native Integrity Gates Through Runtime Load Interception | Hirad | [Read More](https://medium.com/p/deb3c8cc2072) |
-| Thu, 21 May 2026 13:47:47 GMT | Struktur Data: Hashing | Nabilla Paraswati | [Read More](https://medium.com/p/81bb2ddd20c2) |
-| Thu, 21 May 2026 13:45:52 GMT | Hack Smarter — MartiniAD Walkthrough | Muhammad Usman Faridi | [Read More](https://medium.com/p/a110c3b43252) |
-| Thu, 21 May 2026 13:32:07 GMT | A Multi-Account Service Governance Model to Sustain 98%+ SLA Compliance in Infrastructure Managed… | Vikram Bajaj | [Read More](https://medium.com/p/15e003345b2e) |
-| Thu, 21 May 2026 13:28:06 GMT | Threat Advisory: The Campaign Triad | Macs-Hit | [Read More](https://medium.com/p/f97fabb5b55f) |
-| Thu, 21 May 2026 13:26:26 GMT | The Sun Is Leaking: How Thousands of Smart Solar Devices Are Exposed to the Open Internet | hacker_might | [Read More](https://medium.com/p/a666398d6700) |
-| Thu, 21 May 2026 13:22:35 GMT | JavaScript Kodlarında Gizlənən $1,250: İlk Bug Bounty Hekayəm | Tuncay Abulfatzada | [Read More](https://medium.com/p/2caf0a3eb647) |
