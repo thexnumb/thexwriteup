@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 May 2026 22:32:30 GMT | Galaxy Dash: Accessing Other Users’ Deliveries via IDOR | Dennis Sev7n | [Read More](https://medium.com/p/81647d2e66f0) |
+| Fri, 22 May 2026 22:30:45 GMT | Understanding Nmap at Packet Level — What I Actually Saw in Wireshark | Youseffkamal | [Read More](https://medium.com/p/ca2efdbe2beb) |
+| Fri, 22 May 2026 21:54:02 GMT | A Vibe Coder’s Checklist: 7 Things I Still Have to Decide for the AI | James Curtis | [Read More](https://medium.com/p/f7601c9552c7) |
+| Fri, 22 May 2026 21:42:00 GMT | Secure Manufacturing RAG — From Architecture to Business Value | Kyotolab Ku | [Read More](https://medium.com/p/3cf5bc7f9c8c) |
+| Fri, 22 May 2026 21:24:46 GMT | Compliance is Not a Checklist: What the Digital Finance Moment Demands of Risk Professionals | Quadri Durodola | [Read More](https://medium.com/p/3674d3a7eb58) |
+| Fri, 22 May 2026 21:17:23 GMT | De Verborgen Risico’s van het Online Kopen van Ritalin, Adderall, Tramadol en Steroïden | Chemsuppliersonline.com | [Read More](https://medium.com/p/0a030eef3473) |
+| Fri, 22 May 2026 21:14:01 GMT | From Org Takeover to Pre-Auth Org Takeover: The Bypass | xploiterr | [Read More](https://medium.com/p/03f6a236cc3d) |
+| Fri, 22 May 2026 21:13:45 GMT | Metamorphic Malware in 2026: Why Your EDR Is Already Losing the Arms Race | Perparimimjeku | [Read More](https://medium.com/p/43132612fdb3) |
+| Fri, 22 May 2026 21:10:59 GMT | Recruit TryHackMe walkthrough | Crystalcascade14 | [Read More](https://medium.com/p/c25d39a68e7c) |
+| Fri, 22 May 2026 21:01:00 GMT | The Backend Engineer’s Guide to Broken Object Level Authorization | Hafiq Iqmal | [Read More](https://medium.com/p/5b77bdbb00e0) |
 | Fri, 22 May 2026 20:53:34 GMT | Five Attacks in One Month: The Fake Recruiter Campaign Targeting Blockchain Developers | Blake Findell | [Read More](https://medium.com/p/734340d45ec1) |
 | Fri, 22 May 2026 20:41:13 GMT | Unshackling AI: Building the Ultimate Local Hacker Copilot | Burak | [Read More](https://medium.com/p/b76ad706d45f) |
 | Fri, 22 May 2026 20:40:34 GMT | Burning Infrastructure: The 48-Hour Lifecycle of a Live TDS Campaign | SpearPanic | [Read More](https://medium.com/p/62af3329bd45) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 May 2026 13:49:23 GMT | NGINX Critical Vulnerability: 18-Year-Old Heap Overflow Puts Millions of Servers at Risk | G. Wolpert | [Read More](https://medium.com/p/7a9ea77011e1) |
 | Fri, 22 May 2026 13:47:33 GMT | Execution is not enough, acceptance must be proven. | NanoChain | [Read More](https://medium.com/p/c7451d51407d) |
 | Fri, 22 May 2026 13:46:28 GMT | AIOps: The Silent Revolution Rewiring How Modern IT Actually Works | RSA Tech Group | [Read More](https://medium.com/p/8a79dd5446fd) |
-| Fri, 22 May 2026 13:40:45 GMT | How to Threat Model AI Applications With STRIDE | ToxSec | [Read More](https://medium.com/p/aa9b9f1e20b7) |
-| Fri, 22 May 2026 13:39:38 GMT | Basis Data: Teknik Optimasi Query dalam SQL | Nabilla Paraswati | [Read More](https://medium.com/p/ae9bb1730694) |
-| Fri, 22 May 2026 13:36:47 GMT | Operation Saffron: The Global Takedown of a VPN Trusted by Ransomware Gangs. | eL Njas!™ | [Read More](https://medium.com/p/f23b908ed664) |
-| Fri, 22 May 2026 13:31:00 GMT | $850 Authorization Bypass: Viewer Accessing Automations & Webhook Data via API | Abhi Sharma | [Read More](https://medium.com/p/a697a6c14262) |
-| Fri, 22 May 2026 13:21:18 GMT | The Endless Scrolling : Headed Bowed, Minds Absent | Purple Aura | [Read More](https://medium.com/p/f1cc76ade458) |
-| Fri, 22 May 2026 13:18:42 GMT | Why Modern Crypto Storage is Your Secret Loyalty Weapon | John Galt | [Read More](https://medium.com/p/b96bcd7a5675) |
-| Fri, 22 May 2026 13:16:11 GMT | I Wanted an AI Agent to Do Real Work. Then I Realized I Didn’t Trust It. | Curious Cake | [Read More](https://medium.com/p/7859a286db53) |
-| Fri, 22 May 2026 13:14:37 GMT | CVE-2026–34474: ZTE H298A / H108N Credential Leak via ETHCheat | Monx Research | [Read More](https://medium.com/p/5bdc2a2b4a45) |
-| Fri, 22 May 2026 13:12:06 GMT | CVE-2021–35036: Super-Admin Password Leak Affecting Zyxel CPE/ONT/LTE Fleet | Monx Research | [Read More](https://medium.com/p/6549d72d0f3d) |
-| Fri, 22 May 2026 13:02:11 GMT | The Illusion of Effort | Preciousukom | [Read More](https://medium.com/p/e309cade1acc) |
