@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 May 2026 19:41:00 GMT | Stop Treating Key Vault Like a Secret Junk Drawer | Practical IT | [Read More](https://medium.com/p/8caf8123a95f) |
+| Fri, 22 May 2026 19:40:28 GMT | Linux for Beginners: Understanding the Basics of Linux Operating Systems | Mohd Kaif | [Read More](https://medium.com/p/fe087001037c) |
+| Fri, 22 May 2026 19:29:39 GMT | When You Are the Password | HackTheCyber | [Read More](https://medium.com/p/5f2dc77375b3) |
+| Fri, 22 May 2026 19:25:18 GMT | RETAIL SECURITY GUARD SERVICE | Dynamic security solution ltd | [Read More](https://medium.com/p/eb579a0c2ac5) |
+| Fri, 22 May 2026 19:13:29 GMT | Codes for Linux users | Malikamadkhalil | [Read More](https://medium.com/p/8e8ef189466e) |
+| Fri, 22 May 2026 19:12:39 GMT | Anthropic Built an AI That Finds Zero-Day Vulnerabilities at Scale. Then Decided Not to Release It. | Ruby Nahal | [Read More](https://medium.com/p/190f43bdac71) |
+| Fri, 22 May 2026 19:09:10 GMT | Started learning new skill; Cyber Security | Malikamadkhalil | [Read More](https://medium.com/p/2ff7c1e9aaa6) |
+| Fri, 22 May 2026 19:07:29 GMT | PHASES OF HACKING | Abhiramipoornima | [Read More](https://medium.com/p/109bc31897e4) |
+| Fri, 22 May 2026 19:04:49 GMT | Monitoring Dirty Frag with eBPF in Kubernetes/OpenShift | Leonardo Oste | [Read More](https://medium.com/p/d71711b1e310) |
+| Fri, 22 May 2026 19:01:14 GMT | TryHackMe - ContAInment Room Writeup | nihil7 | [Read More](https://medium.com/p/4a3ca927a12b) |
+| Fri, 22 May 2026 18:57:32 GMT | OverTheWire Bandit Walkthrough — Level 10 → 11 - 30-Day Cybersecurity Learning Journey (Day 11) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/fe16c5ac39ec) |
+| Fri, 22 May 2026 18:55:16 GMT | Critical Cisco Secure Workload Vulnerability | SOCFortress | [Read More](https://medium.com/p/d8b50e67cbbe) |
+| Fri, 22 May 2026 18:42:53 GMT | You Did Everything Right. Your Network Is Still Compromised. | Jazz Cyber Shield | [Read More](https://medium.com/p/a456b3b441a2) |
+| Fri, 22 May 2026 18:39:39 GMT | WebVerse Lab Walkthrough: Voucher Vault | saurav singh | [Read More](https://medium.com/p/9e43ec0361ef) |
+| Fri, 22 May 2026 18:34:06 GMT | Solving “Guided Pentest: Infrastructure” (TryHackMe) | rad0v | [Read More](https://medium.com/p/4666bef4205f) |
+| Fri, 22 May 2026 18:28:47 GMT | Building a Security Log Analyzer with Python: From Raw Logs to Visual Analytics | Muhammed Emir Tohumcu | [Read More](https://medium.com/p/9b28c6593c89) |
+| Fri, 22 May 2026 18:20:22 GMT | AI vs AI: An Open-Source Adaptive Red Teaming Tool for LLM Applications | Purple Security | [Read More](https://medium.com/p/08325a7266a1) |
+| Fri, 22 May 2026 18:10:01 GMT | Why Hope Feels Dangerous — and Why We Still Need It | Rose | [Read More](https://medium.com/p/7630717efec6) |
+| Fri, 22 May 2026 18:01:25 GMT | Building Another Vulnerable Lab — SSRF. | ShadowForge | [Read More](https://medium.com/p/01c27ab92b4e) |
+| Fri, 22 May 2026 17:58:18 GMT | Investigating Windows Defender Defense Evasion and AMSI Bypass in a HackTheBox Sherlock DFIR Case… | Christopher Ryan | [Read More](https://medium.com/p/613d11c2428d) |
 | Fri, 22 May 2026 17:51:38 GMT | The Math Cult That Murdered Over a Fraction | Rubab_Mahi | [Read More](https://medium.com/p/54aa5d30cc4f) |
+| Fri, 22 May 2026 17:48:04 GMT | The Dangerous Truth About Kubernetes Secrets Most Teams Ignore | Jaswinder Kumar | [Read More](https://medium.com/p/0bfb69f77752) |
 | Fri, 22 May 2026 17:37:50 GMT | Essential 2026 Website Security Guide for Suffolk Businesses | Long Island Web Design | [Read More](https://medium.com/p/1339cd528306) |
 | Fri, 22 May 2026 17:37:48 GMT | Cost of Artificial Intelligence | Abhishek Maurya | [Read More](https://medium.com/p/a821164b54be) |
 | Fri, 22 May 2026 17:37:17 GMT | Climate Is Already a Security Problem. I’ve Watched It Happen. | Marika | [Read More](https://medium.com/p/e3ba613af07b) |
@@ -26,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 May 2026 17:11:40 GMT | WhatsApp Says No One Can Read Your Messages. A Federal Agent Spent 10 Months Disagreeing. | The Digital First Responder | [Read More](https://medium.com/p/3f5dd0eb5863) |
 | Fri, 22 May 2026 17:09:32 GMT | Ignoring the Recommended Software Update Could Be Catastrophic | Robert Sosa | [Read More](https://medium.com/p/bdaa749753a0) |
 | Fri, 22 May 2026 16:55:31 GMT | Understanding Penetration Testing and Its Phases | Learn With Hiba | [Read More](https://medium.com/p/d831b6ab913d) |
+| Fri, 22 May 2026 16:49:53 GMT | Bonus New Member WAW4D yang Banyak Dicari Pemain | Max Anderson | [Read More](https://medium.com/p/5ce89129dc28) |
 | Fri, 22 May 2026 16:29:34 GMT | Governing the Rise of AI Agents: Why Enterprises Need Visibility Beyond the LLM Gateway | Shailesh Gogate | [Read More](https://medium.com/p/a5dd9f2d70d6) |
 | Fri, 22 May 2026 16:27:45 GMT | Mass Assignment + JSON Validation Bypass: From Zero Access to Full Admin Takeover | Red-X | [Read More](https://medium.com/p/fc478e5a94be) |
 | Fri, 22 May 2026 16:25:28 GMT | The Hidden Systems Behind Everyday Finance | Aman | [Read More](https://medium.com/p/a665e729106f) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 May 2026 12:32:27 GMT | SSRF in APIs: How a Single URL Parameter Can Expose Internal Systems | Sana Jalil | [Read More](https://medium.com/p/63128bff63a4) |
 | Fri, 22 May 2026 12:01:19 GMT | How to create a NVD Scraper within your Obsidian-Vault | 0xLuk3 | [Read More](https://medium.com/p/65ab3b8b17ee) |
 | Fri, 22 May 2026 11:58:58 GMT | From Root to Burp: A Comprehensive Guide to Bypassing Protectt.ai | Infallible | [Read More](https://medium.com/p/a9e2cd3d806d) |
-| Fri, 22 May 2026 11:53:10 GMT | Most People Don’t Get “Hacked.” | Sudarshanyadav | [Read More](https://medium.com/p/27e66cd931ec) |
-| Fri, 22 May 2026 11:51:28 GMT | Building an SDR Lab at Home Taught Me More Than Online Courses Ever Did | Michael Preston | [Read More](https://medium.com/p/9d83cb81aa63) |
-| Fri, 22 May 2026 11:51:07 GMT | Tersine Mühendislik Rehberi: Android Emulator Kullanarak L3 CDM Dump İşlemi | Berke Gülaçar | [Read More](https://medium.com/p/fba8289f7127) |
-| Fri, 22 May 2026 11:31:00 GMT | The Linux Server Was “Fine.” I Still Took It Offline. | Faruk Ahmed | [Read More](https://medium.com/p/bd6492731817) |
-| Fri, 22 May 2026 11:19:56 GMT | Local AI vs Cloud-Based AI: Why Running Intelligence Locally Matters | Bervice | [Read More](https://medium.com/p/dcac3f3845bb) |
-| Fri, 22 May 2026 11:13:54 GMT | Bypass Me Writeup picoCTF2026 | Frank karani | [Read More](https://medium.com/p/76fdef9ac742) |
-| Fri, 22 May 2026 11:08:57 GMT | Lenovo Driver Vulnerability Allows Attackers to Terminate EDR Processes and Disable Endpoint… | Inforsecpro | [Read More](https://medium.com/p/8d401e27d2aa) |
-| Fri, 22 May 2026 11:08:31 GMT | Common Cyber Security Mistakes SMEs Make (And How to Avoid Them) | Adviacent.in | [Read More](https://medium.com/p/bb7c7b21c7de) |
-| Fri, 22 May 2026 11:06:59 GMT | Why Cybersecurity Professionals Don’t Run Away From Problems | Swarup Mahato | [Read More](https://medium.com/p/0fcb527d8c77) |
-| Fri, 22 May 2026 11:02:18 GMT | The First Hour: Decision Latency and the Architecture of Allied Resilience | Michael Thiessmeier | [Read More](https://medium.com/p/da118a3e5635) |
-| Fri, 22 May 2026 11:01:01 GMT | #Lab 2 — High-Level Logic Vulnerability — PortSwigger Web Security Academy | Thewatchdog13 | [Read More](https://medium.com/p/d5f1372a594f) |
-| Fri, 22 May 2026 10:52:59 GMT | How Performance Marketing Helps Brands Scale Faster with Airfluence Media | Anjali Chaudhary | [Read More](https://medium.com/p/84287da3e341) |
-| Fri, 22 May 2026 10:52:29 GMT | Cybersecurity is not just about coding — it’s about protecting the digital world. | Swarup Mahato | [Read More](https://medium.com/p/ab9f0dc1d75f) |
-| Fri, 22 May 2026 10:34:55 GMT | How I Found Someone’s Entire Online Identity Using Just a Username (Free OSINT Method) | whatsmynameapp | [Read More](https://medium.com/p/c2b059950c34) |
-| Fri, 22 May 2026 10:27:53 GMT | I Built a Free AI-Powered Pentest Lab to Prepare for CEH Practical | Amirhasan Cyb | [Read More](https://medium.com/p/806d63051a24) |
-| Fri, 22 May 2026 10:18:38 GMT | The Art and Science of Note-Taking | Jonathan Beckett | [Read More](https://medium.com/p/754415fc7775) |
-| Fri, 22 May 2026 10:13:05 GMT | The Real Cost of Building Your Own VPN Infrastructure | Fyrewaypvt | [Read More](https://medium.com/p/a3825c858c5e) |
-| Fri, 22 May 2026 10:10:25 GMT | Third year of President Bola Ahmed Tinubu: a balanced scorecard? | Rasheed Adegoke | [Read More](https://medium.com/p/bbfcf0bc3f63) |
-| Fri, 22 May 2026 10:05:59 GMT | How to Pentest an LLM Infrastructure Before the Attackers Do | Motasem Hamdan | [Read More](https://medium.com/p/ec1886fef74c) |
-| Fri, 22 May 2026 09:58:41 GMT | Found but a small recong | Somsop | [Read More](https://medium.com/p/0c734afa2d5b) |
-| Fri, 22 May 2026 09:41:01 GMT | Building a Career Abroad: Romain’s Engineering Internship in Japan | Sound & Vision Technologies Inc. 【Care Cube】 | [Read More](https://medium.com/p/294f779ed405) |
-| Fri, 22 May 2026 09:32:51 GMT | Shadow in the Index: Escalating Elasticsearch SSRF to Full System Compromise | Demon | [Read More](https://medium.com/p/87d6a6763775) |
