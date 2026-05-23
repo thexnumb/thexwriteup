@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 May 2026 11:35:42 GMT | Detection Logic Bugs, Developing Context to Bypass MiniPlasma Rules | Nikolas Bielski | [Read More](https://medium.com/p/903f1d7c68e8) |
+| Sat, 23 May 2026 11:35:36 GMT | We Teach Men to Hide Their Hearts—Then We Wonder Why They Feel Distant. | Noorain Khan | [Read More](https://medium.com/p/c45c0af4febd) |
+| Sat, 23 May 2026 11:35:05 GMT | The Most Dangerous Bug Bounty Habit I Had Was Chasing “Interesting” Targets | Arfa | [Read More](https://medium.com/p/65c9cd6ea37a) |
+| Sat, 23 May 2026 11:33:39 GMT | Solving “Dive Into Pentesting” TryHackMe | rad0v | [Read More](https://medium.com/p/6ec0bd77da0a) |
+| Sat, 23 May 2026 11:30:46 GMT | She Got Dressed for This | Adriane Lorusso | [Read More](https://medium.com/p/0dd021e9fd50) |
+| Sat, 23 May 2026 11:29:32 GMT | How to Install Wazuh, Collect Apache Logs, and Set Up File Integrity Monitoring (FIM) | Sufia TheSecureDev | [Read More](https://medium.com/p/1ff5601e131d) |
+| Sat, 23 May 2026 11:02:54 GMT | Your Engineers’ Phones Are the Gap in Your Security Strategy. Here’s What to Do About It. | ABDUL-AZEEZ AYOBAMI | [Read More](https://medium.com/p/f618051e6173) |
+| Sat, 23 May 2026 10:57:19 GMT | Defense in Depth: The Foundation of Modern Cybersecurity | Ferid Abdullayev | [Read More](https://medium.com/p/ce41e9c2224b) |
+| Sat, 23 May 2026 10:55:13 GMT | Havenlon Series: Execution Control in the Age of AI (6/15) | Havenlon | [Read More](https://medium.com/p/79da22648e38) |
+| Sat, 23 May 2026 10:54:40 GMT | They Didn’t Hack 7-Eleven. They Called Them. | pranav patil | [Read More](https://medium.com/p/70c2384ebc59) |
+| Sat, 23 May 2026 10:54:05 GMT | AndroPseudoProtect — Exploiting | Mohammed Ashraf | [Read More](https://medium.com/p/aae9396e1bba) |
 | Sat, 23 May 2026 10:49:25 GMT | Best Security Agency: How to Choose the Right Security Partner for Your Business | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/9b4199fd4731) |
 | Sat, 23 May 2026 10:43:26 GMT | Best DevOps Course In Delhi — Complete Guide For Beginners In 2026 | Varun Papnai | [Read More](https://medium.com/p/72d2b6ba884f) |
+| Sat, 23 May 2026 10:41:00 GMT | Aging in the Age of Passwords | Troy Breiland | [Read More](https://medium.com/p/ac66260ffc7f) |
 | Sat, 23 May 2026 10:38:49 GMT | Experienced Waterloo Security Professionals Providing 24/7 Safety for Commercial & Residential… | Grdsnscrt | [Read More](https://medium.com/p/dfd5e5b6052f) |
 | Sat, 23 May 2026 10:36:32 GMT | Why False Alerts Increase When AI Surveillance Goes Live | Spotem | [Read More](https://medium.com/p/6eaa612cf0ac) |
 | Sat, 23 May 2026 10:31:03 GMT | Traditional surveillance watches. AI surveillance interprets. | Jay Travler | [Read More](https://medium.com/p/88f4393b81ff) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 May 2026 00:20:26 GMT | Parking Security Guard Services California: Why Your Property Needs Professional Protection in 2026 | Matthew | [Read More](https://medium.com/p/e242065238a0) |
 | Fri, 22 May 2026 23:41:27 GMT | Is SQLI still exist in the wild ? 2 SQLI 0 $ | Ahmedsameh | [Read More](https://medium.com/p/c6efc3371af9) |
 | Fri, 22 May 2026 23:38:24 GMT | The Silo Problem Nobody In Cybersecurity Wants to Admit | Jan | [Read More](https://medium.com/p/0cd0709432a1) |
-| Fri, 22 May 2026 23:34:34 GMT | WRONG ADDRESS | Richard Chukwuka | [Read More](https://medium.com/p/888d319b5be1) |
-| Fri, 22 May 2026 23:32:43 GMT | You’re Approaching a Cybersecurity Career the Wrong Way — Here’s What Actually Works | networkdavit | [Read More](https://medium.com/p/4a968a2fd614) |
-| Fri, 22 May 2026 23:23:53 GMT | 3 Brain-Dead Bugs Making Me Thousands in 2026 | AI Red Team | [Read More](https://medium.com/p/385132100b64) |
-| Fri, 22 May 2026 23:06:00 GMT | OAuth 2.0, PKCE, and DPoP: A Story I Learned Building an MCP Gateway | Ashutosh Pal | [Read More](https://medium.com/p/e2492240a64d) |
-| Fri, 22 May 2026 22:56:07 GMT | LetsDefend SOC168 — Whoami Command Detected in Request Body (Playbook Walkthrough) | KuRo | [Read More](https://medium.com/p/c7fa54b2d489) |
-| Fri, 22 May 2026 22:37:35 GMT | Coming Soon: The Robot Cleaner in Your Home & Your Privacy | Paul E. (TheAIOracle) | [Read More](https://medium.com/p/ab9a204c07d4) |
-| Fri, 22 May 2026 22:33:23 GMT | لا تبداء | Firstbugpath | [Read More](https://medium.com/p/23b346127339) |
-| Fri, 22 May 2026 22:32:30 GMT | Galaxy Dash: Accessing Other Users’ Deliveries via IDOR | Dennis Sev7n | [Read More](https://medium.com/p/81647d2e66f0) |
-| Fri, 22 May 2026 22:30:45 GMT | Understanding Nmap at Packet Level — What I Actually Saw in Wireshark | Youseffkamal | [Read More](https://medium.com/p/ca2efdbe2beb) |
-| Fri, 22 May 2026 21:54:02 GMT | A Vibe Coder’s Checklist: 7 Things I Still Have to Decide for the AI | James Curtis | [Read More](https://medium.com/p/f7601c9552c7) |
-| Fri, 22 May 2026 21:52:09 GMT | Utrata gwarancji na systemy CCTV i SSWiN? | Celfis | [Read More](https://medium.com/p/f640762be7fa) |
-| Fri, 22 May 2026 21:42:00 GMT | Secure Manufacturing RAG — From Architecture to Business Value | Kyotolab Ku | [Read More](https://medium.com/p/3cf5bc7f9c8c) |
