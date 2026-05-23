@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 May 2026 16:52:36 GMT | Dive Into Pentesting — TryHackMe Walkthrough | Mahmoudaltawel | [Read More](https://medium.com/p/353fb93e7aca) |
+| Sat, 23 May 2026 16:51:40 GMT | IP mi? Elimizde yok! | Erengider | [Read More](https://medium.com/p/84b4dce12183) |
+| Sat, 23 May 2026 16:48:01 GMT | Weekly Cyber Threat Bulletin: 22 May 2026 | Marcelle Lee | [Read More](https://medium.com/p/52f7f18ff7ff) |
+| Sat, 23 May 2026 16:46:54 GMT | AI Security Reports — April 2026 | Tal Eliyahu | [Read More](https://medium.com/p/1764561cfd05) |
+| Sat, 23 May 2026 16:42:11 GMT | Authentication Felt Easy… Until I Built “Forgot Password” | venkat | [Read More](https://medium.com/p/456beb041584) |
+| Sat, 23 May 2026 16:40:24 GMT | ITAR Requirements for Employees: How to Build an Enterprise Audit Playbook | Victoria-James | [Read More](https://medium.com/p/28d917b7faac) |
+| Sat, 23 May 2026 16:30:28 GMT | Mythos May Not Be “Too Dangerous.” It May Just Be Too Expensive. | ABV — Applied AI Reviews | [Read More](https://medium.com/p/a6993ae345d6) |
+| Sat, 23 May 2026 16:28:25 GMT | How to Spot a Cyberstalker Before They Escalate: Early Warning Signs and First Steps to Protect... | Amy Lynn | [Read More](https://medium.com/p/1bb1fcaded3c) |
+| Sat, 23 May 2026 16:22:13 GMT | MCP Neural Shield: A Deep Learning Security Proxy for the Model Context Protocol | Vidipt Vashist | [Read More](https://medium.com/p/61a02dfea850) |
+| Sat, 23 May 2026 16:18:02 GMT | The IP Camera That Was Quietly Attacking Other Networks — From Our Office | CacheGuard Technologies | [Read More](https://medium.com/p/6a3e5faa4db8) |
+| Sat, 23 May 2026 16:17:06 GMT | I Tried Every Recommended Way to Block Adult Content on Our Home Network. | CacheGuard Technologies | [Read More](https://medium.com/p/be8fe7c1a01e) |
+| Sat, 23 May 2026 16:14:48 GMT | Batasan Simulasi Phising dalam Penetration Testing di Indonesia | Adeynt | [Read More](https://medium.com/p/46c2c86e461d) |
+| Sat, 23 May 2026 16:09:08 GMT | Why Your WiFi Suddenly Disconnects? | Raviteja Mureboina | [Read More](https://medium.com/p/d8d2804fd3d0) |
+| Sat, 23 May 2026 16:07:58 GMT | A 10-Step Bug Analysis Playbook | jerin john | [Read More](https://medium.com/p/de6fc2297382) |
+| Sat, 23 May 2026 15:45:20 GMT | Defense in Depth: The Foundation of Modern Cybersecurity | Chingiz Salmanov | [Read More](https://medium.com/p/891aa649e179) |
+| Sat, 23 May 2026 15:38:08 GMT | Information Technology Roadmap — aarononit.blogspot.com | Aaron DeJong | [Read More](https://medium.com/p/1bd59cb8997e) |
 | Sat, 23 May 2026 15:30:38 GMT | MonitorsFour Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/5331e44b21ef) |
 | Sat, 23 May 2026 15:21:41 GMT | YALL BIG TECH BROS ARE ABUSING ME AND MY DOGS LIKE G DAMN TERRORIST JUST TO SILENCE ME AND GET AWAY… | May May | [Read More](https://medium.com/p/2f114da6afa4) |
 | Sat, 23 May 2026 15:18:15 GMT | I Audited My Own AI Agent Setup. Here’s What I Found. | Atef Ataya | [Read More](https://medium.com/p/a6acfb4c55fc) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 May 2026 08:54:59 GMT | Linux System Administration: The Complete Field Guide | hackthacker | [Read More](https://medium.com/p/db662c6954ee) |
 | Sat, 23 May 2026 08:54:41 GMT | Chapter 4 Review Questions - Cryptographic Solutions and PKI (Security+ SY0–701 Domain 1) | Azhariqbal | [Read More](https://medium.com/p/796c8e653cd7) |
 | Sat, 23 May 2026 08:54:20 GMT | When Space Begins to See: WiFi, AI, and the New Form of Invisible Surveillance | Angela Bogdanova (DAP) | [Read More](https://medium.com/p/d3fc11cdc715) |
-| Sat, 23 May 2026 08:34:33 GMT | Die Illusion der technologischen Souveränität | TECHWELTEN | [Read More](https://medium.com/p/933038be9e78) |
-| Sat, 23 May 2026 08:31:00 GMT | Apple Will Be the Next Nokia — Or Will It? | apple insides | [Read More](https://medium.com/p/659ffa4f9f1a) |
-| Sat, 23 May 2026 08:28:01 GMT | Email OSINT Pattern | sqwrtick | [Read More](https://medium.com/p/41c61a1ae621) |
-| Sat, 23 May 2026 08:27:45 GMT | Why London is the Ultimate Hub for Your Dedicated Server Infrastructure | Fit Servers | [Read More](https://medium.com/p/96b2bbbce1cd) |
-| Sat, 23 May 2026 08:21:00 GMT | Penetration Testing pada Infrastruktur Critical Information Infrastructure (CII) dan Tinjauan… | Senntz | [Read More](https://medium.com/p/ffc49fcea864) |
-| Sat, 23 May 2026 08:19:26 GMT | The Day I Realized Thoughts Are Just “Thoughts,” I Started Writing | Beyza A. | [Read More](https://medium.com/p/6351410f719e) |
-| Sat, 23 May 2026 08:19:16 GMT | Auth Mastery Part 1: Credential Types curl Handles | Roshan Rajbanshi | [Read More](https://medium.com/p/7b10a5b810d2) |
-| Sat, 23 May 2026 08:18:48 GMT | How Hackers Are Manipulating AI Using Prompt Injection | Through Smriti's Lens | [Read More](https://medium.com/p/7b58e792a88f) |
-| Sat, 23 May 2026 08:17:34 GMT | Finding & Exploiting Exposed Google API Keys for Bug $Bounties | Unknown | [Read More](https://medium.com/p/5ce6685a4927) |
-| Sat, 23 May 2026 08:10:01 GMT | Information Is Becoming the Most Important Force in Human Civilization | Joe Njuki | [Read More](https://medium.com/p/e5805d55a1dc) |
-| Sat, 23 May 2026 08:04:57 GMT | GENTLEMEN RANSOMWARE LEAKS | Rakesh Krishnan | [Read More](https://medium.com/p/374f69ad2e25) |
-| Sat, 23 May 2026 07:51:33 GMT | JetPunk Quiz Hack | Mustufasohail | [Read More](https://medium.com/p/5128ffcc8d57) |
-| Sat, 23 May 2026 07:48:55 GMT | Web Application Basics (Tryhackme room Walkthrough) | SahilAhmed Kamboh | [Read More](https://medium.com/p/c33a0d4e352d) |
-| Sat, 23 May 2026 07:29:24 GMT | Certifications That Actually Matter in Cybersecurity in 2026 | Anita Dangol | [Read More](https://medium.com/p/53ebbbace5b5) |
-| Sat, 23 May 2026 07:25:27 GMT | Amazon web service. | Selina | [Read More](https://medium.com/p/f597c3dfed20) |
-| Sat, 23 May 2026 07:15:22 GMT | Best Summer Internship in Ethical hacking for College Students | cyber security Updates | [Read More](https://medium.com/p/157abe1e8717) |
