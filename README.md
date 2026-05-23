@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 May 2026 21:18:58 GMT | The Two Security Frameworks Every Tech Person Should Actually Understand | Farida Ismail | [Read More](https://medium.com/p/26aa68668c97) |
+| Sat, 23 May 2026 21:17:00 GMT | Not Evil Search Engine 2026 — Why Tor Users Still Use It | onion links | [Read More](https://medium.com/p/b2a51849ca66) |
+| Sat, 23 May 2026 21:15:52 GMT | Kubernetes Security Mistakes That Hackers Love (And How to Fix Them Before They Cost You) | Jaswinder Kumar | [Read More](https://medium.com/p/7146fd19b850) |
+| Sat, 23 May 2026 21:15:32 GMT | The myth that AI is an objective, neutral observer is the biggest risk we face in the boardroom… | Greatsteph | [Read More](https://medium.com/p/1292dfb80d84) |
+| Sat, 23 May 2026 20:21:32 GMT | Web Cache Deception : Comment j’ai volé la clé API d’un utilisateur avec Burp Suite | Gerard lonzi | [Read More](https://medium.com/p/9bede6cf963f) |
+| Sat, 23 May 2026 20:11:24 GMT | Scalable Security Risk Analysis of n8n Connectors/Nodes | Vikrant K | [Read More](https://medium.com/p/1974f84af891) |
+| Sat, 23 May 2026 20:09:27 GMT | GIAC Certified Forensics Examiner (GCFE) Certification as my first GIAC certification | Chicken0248 | [Read More](https://medium.com/p/8f8d8dd8765e) |
 | Sat, 23 May 2026 19:50:12 GMT | Dog Unit Security | Dynamic security solution ltd | [Read More](https://medium.com/p/21d0f79436bf) |
 | Sat, 23 May 2026 19:45:52 GMT | 10 Underrated Google I/O 2026 Announcements That Could Change How We Work | Sandaruwan Shanaka | [Read More](https://medium.com/p/0919d2b7d0e0) |
 | Sat, 23 May 2026 19:44:33 GMT | Your First Android Bug Bounty Report: From Finding to Payout in 2025 | Akifkhan | [Read More](https://medium.com/p/444cb4888bcd) |
@@ -82,6 +89,7 @@ Bir Saldırganın Not Defteri | Buraktekcan | [Read More](https://medium.com/p/4
 | Sat, 23 May 2026 14:18:25 GMT | Fusion Corp — TryHackMe Writeup - Active Directory Exploitation | Ajaykumarkanthi | [Read More](https://medium.com/p/02eeef474f6d) |
 | Sat, 23 May 2026 14:15:19 GMT | Journey to Berlin: experience and review of “Advanced Fuzzing and Crash Analysis” at OffensiveCon… | Cyd Tseng | [Read More](https://medium.com/p/7956af4c1e9e) |
 | Sat, 23 May 2026 14:09:29 GMT | “Open Up or You’re Toxic”: The Dangerous Trend of Forced Vulnerability | Ashbeel Roy | [Read More](https://medium.com/p/e32f479cf9e3) |
+| Sat, 23 May 2026 14:04:58 GMT | Antara Izin dan Pelanggaran: Aspek Hukum dan Etika Social Engineering dalam Penetration Testing | Saa | [Read More](https://medium.com/p/015d007f134b) |
 | Sat, 23 May 2026 14:01:05 GMT | Threat Hunting with Deception Technologies -LetsDefend | 0verRida | [Read More](https://medium.com/p/7ccf118afcec) |
 | Sat, 23 May 2026 13:57:37 GMT | Will AI Replace Cybersecurity? The Truth No One Is Saying | Noman Kei | [Read More](https://medium.com/p/15a5ba1f1e0a) |
 | Sat, 23 May 2026 13:56:59 GMT | Intrusion Prevention System (IPS): Stopping Cyber Attacks Automatically | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/557a04287b2f) |
@@ -106,11 +114,3 @@ Bir Saldırganın Not Defteri | Buraktekcan | [Read More](https://medium.com/p/4
 | Sat, 23 May 2026 12:05:26 GMT | The Digital Fortress - Crafting Impenetrable Passwords in an Age of Cyber Threats | MrKarthikKN | [Read More](https://medium.com/p/a87c5e849123) |
 | Sat, 23 May 2026 12:01:00 GMT | How to Build a Multi-Tenant Data Agent on BigQuery | Leo Lin | [Read More](https://medium.com/p/225fcdcd4dcd) |
 | Sat, 23 May 2026 12:01:00 GMT | The AI-Powered DevOps Revolution: How Automation is Reshaping Infrastructure and Team Dynamics in… | T4itech - DevOps & Platform Engineering Company | [Read More](https://medium.com/p/c1748648e9cb) |
-| Sat, 23 May 2026 12:00:01 GMT | The Problem with Chrome’s Local AI Model Isn’t AI. It’s Change Control | Leon Marks | [Read More](https://medium.com/p/3f13a1aa97cf) |
-| Sat, 23 May 2026 11:56:51 GMT | Why Compliance-Driven Visitor Management Is Becoming Essential for Modern Enterprises? | AI-Powered Visitor Management — LogBook360 | [Read More](https://medium.com/p/84264d5cfcf6) |
-| Sat, 23 May 2026 11:35:42 GMT | Detection Logic Bugs, Developing Context to Bypass MiniPlasma Rules | Nikolas Bielski | [Read More](https://medium.com/p/903f1d7c68e8) |
-| Sat, 23 May 2026 11:35:36 GMT | We Teach Men to Hide Their Hearts—Then We Wonder Why They Feel Distant. | Noorain Khan | [Read More](https://medium.com/p/c45c0af4febd) |
-| Sat, 23 May 2026 11:35:05 GMT | The Most Dangerous Bug Bounty Habit I Had Was Chasing “Interesting” Targets | Arfa | [Read More](https://medium.com/p/65c9cd6ea37a) |
-| Sat, 23 May 2026 11:33:39 GMT | Solving “Dive Into Pentesting” TryHackMe | rad0v | [Read More](https://medium.com/p/6ec0bd77da0a) |
-| Sat, 23 May 2026 11:30:46 GMT | She Got Dressed for This | Adriane Lorusso | [Read More](https://medium.com/p/0dd021e9fd50) |
-| Sat, 23 May 2026 11:29:32 GMT | How to Install Wazuh, Collect Apache Logs, and Set Up File Integrity Monitoring (FIM) | Sufia TheSecureDev | [Read More](https://medium.com/p/1ff5601e131d) |
