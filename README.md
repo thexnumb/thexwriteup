@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 May 2026 04:14:56 GMT | The Security Incident That Changed How I Look at Modern Development | Shiv Ghariwala | [Read More](https://medium.com/p/ea9f7ced3236) |
+| Sat, 23 May 2026 04:13:37 GMT | One OAuth Token. Massive Damage | Heet Karena | [Read More](https://medium.com/p/53e2ed2effcd) |
+| Sat, 23 May 2026 04:10:22 GMT | being vulnerable is exceptionally hard | Acasha Adair | [Read More](https://medium.com/p/49120464008b) |
+| Sat, 23 May 2026 04:03:42 GMT | ☎️ VoIP, SIP & Telecom Basics For Security Researchers — Inside The Scam Industry (Part 4) | ghostyjoe | [Read More](https://medium.com/p/c1b635ee84e0) |
+| Sat, 23 May 2026 04:01:36 GMT | 244,000 AI Developers Downloaded What They Thought Was OpenAI and It Stole Their Crypto Wallets and… | RadientBrain | [Read More](https://medium.com/p/a47e45b5a1a4) |
+| Sat, 23 May 2026 03:59:53 GMT | Cybersecurity Tips for Small Businesses | Vpshosting | [Read More](https://medium.com/p/b64c7f3df284) |
+| Sat, 23 May 2026 03:53:22 GMT | I Built a Complete Password-less Authentication, Authorization Framework— Here’s Why Passwords Are… | Parag Bagade | [Read More](https://medium.com/p/83ce3c46a18a) |
+| Sat, 23 May 2026 03:51:00 GMT | The Hidden Vulnerabilities: Third-Party and Supply Chain Risks in the Philippine Digital Economy | InfoSecDad | [Read More](https://medium.com/p/f98923dfe74c) |
+| Sat, 23 May 2026 03:50:51 GMT | Top Benefits of Hiring Vancouver Concierge Services | Grit Security | [Read More](https://medium.com/p/debc0469b20a) |
+| Sat, 23 May 2026 03:34:05 GMT | The AI Moat Problem in Cybersecurity Products | outofspace | [Read More](https://medium.com/p/edda0f283fce) |
+| Sat, 23 May 2026 03:04:30 GMT | Hackviser: Anchor Scenario- Penetration Testing Write-Up | Mshxxx | [Read More](https://medium.com/p/cbde18e56423) |
+| Sat, 23 May 2026 02:55:19 GMT | Top 5 Mistakes Small Businesses Make With Cybersecurity | Dureshahwar | [Read More](https://medium.com/p/7e86a9ba3645) |
+| Sat, 23 May 2026 02:49:38 GMT | Stop Googling Bash Syntax: The Only 50 Linux Commands You Actually Need to Know | The4byss | [Read More](https://medium.com/p/3c114789d57b) |
+| Sat, 23 May 2026 02:46:36 GMT | What is a Vulnerability Assessment and Why Your Business Needs One | Dureshahwar | [Read More](https://medium.com/p/4bc021a64dfe) |
+| Sat, 23 May 2026 02:14:20 GMT | 70+ AI FLAWS - AI Agent Coding Risks | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/4bf5d67cfab2) |
+| Sat, 23 May 2026 02:05:30 GMT | This is how i defeated 90% of infostealers in 5 minutes - Protecting Yourself | Unleashed.c | [Read More](https://medium.com/p/be459db7ea3b) |
+| Sat, 23 May 2026 02:03:31 GMT | Testing SQL Injection Using Google gemma4:31b-cloud on PortSwigger’s Vulnerable Shop | Bash Overflow | [Read More](https://medium.com/p/ef9dc05dd1aa) |
+| Sat, 23 May 2026 01:48:29 GMT | Passing the Web Red Team Analyst | The Husky Hacker | [Read More](https://medium.com/p/022c744f2457) |
+| Sat, 23 May 2026 01:21:00 GMT | Anxious Attachment Style and Infidelity: Why Men Feel Emotionally Drained and What to Do | Austi Gene | [Read More](https://medium.com/p/f4074f352640) |
+| Sat, 23 May 2026 00:54:59 GMT | The Next Financial Crisis May Be an Information Crisis | Insight Meter | [Read More](https://medium.com/p/e06525f4a5ea) |
+| Sat, 23 May 2026 00:20:26 GMT | Parking Security Guard Services California: Why Your Property Needs Professional Protection in 2026 | Matthew | [Read More](https://medium.com/p/e242065238a0) |
 | Fri, 22 May 2026 23:41:27 GMT | Is SQLI still exist in the wild ? 2 SQLI 0 $ | Ahmedsameh | [Read More](https://medium.com/p/c6efc3371af9) |
 | Fri, 22 May 2026 23:38:24 GMT | The Silo Problem Nobody In Cybersecurity Wants to Admit | Jan | [Read More](https://medium.com/p/0cd0709432a1) |
 | Fri, 22 May 2026 23:34:34 GMT | WRONG ADDRESS | Richard Chukwuka | [Read More](https://medium.com/p/888d319b5be1) |
@@ -92,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 May 2026 15:52:02 GMT | I Thought My Crypto Was Safe” — The Brutal Reality Behind Bitcoin and USDT Scams in 2026 | Chrisharley | [Read More](https://medium.com/p/0610de60d66c) |
 | Fri, 22 May 2026 15:48:51 GMT | Active Directory Overview | ABDUR RAHMAN NAHID | [Read More](https://medium.com/p/9b477caadfb6) |
 | Fri, 22 May 2026 15:46:33 GMT | Rejected but Rewarded — What a GraphQL Misconfiguration Taught Me About Bug Bounty Triage. | kjulius | [Read More](https://medium.com/p/a69a9f42e12c) |
-| Fri, 22 May 2026 15:45:21 GMT | 7 Things Businesses Should Know Before Getting SOC 2 Certification in India | Samuel Thomas | [Read More](https://medium.com/p/b5472ef833c3) |
-| Fri, 22 May 2026 15:41:24 GMT | AttackBench - AI Pentesting Safety — Michael McCord | Michael McCord | [Read More](https://medium.com/p/4697c5a85047) |
-| Fri, 22 May 2026 15:27:19 GMT | How I Chained Mass Assignment + PHP Type Juggling to Take Over Any Account on a Live Platform —… | AnGrY | [Read More](https://medium.com/p/8ad4b193e171) |
-| Fri, 22 May 2026 15:20:40 GMT | Why Businesses Will Need AI Security by 2026 | Digital Defense | [Read More](https://medium.com/p/0049d80250e1) |
-| Fri, 22 May 2026 15:18:36 GMT | XXE’den SSRF’e: Sunucunun Gizli Dünyasına Adım Adım Sızış | inan demir | [Read More](https://medium.com/p/debcf7bb4cf0) |
-| Fri, 22 May 2026 15:17:15 GMT | 2. How Smartwatches Are Changing Fitness and Health Tracking | Jeem javed | [Read More](https://medium.com/p/54fa5a10aaaf) |
-| Fri, 22 May 2026 15:15:02 GMT | Anthropic’s “Claude Mythos” | Amit Jain | [Read More](https://medium.com/p/26823b2c8b6d) |
-| Fri, 22 May 2026 15:13:36 GMT | On NPM Supply Chain Attacks | John Philip | [Read More](https://medium.com/p/cebb85fd0ba1) |
-| Fri, 22 May 2026 15:11:58 GMT | AI — Same Vulnerabilities, Different Conversation | Sergio | [Read More](https://medium.com/p/effa01e7783e) |
-| Fri, 22 May 2026 15:11:57 GMT | Why Single-Layer Cryptography, even AES-256 is Failing in the Era of AI and Quantum Computing | Matt Rodak | [Read More](https://medium.com/p/36f1802fcb8d) |
-| Fri, 22 May 2026 15:11:29 GMT | Bir Red Teamer Gözünden: Fiziksel Brute-Force Saldırısı ve Donanımsal Savunma Analizi | CASSANDRA | [Read More](https://medium.com/p/23c24ddc0126) |
-| Fri, 22 May 2026 15:09:35 GMT | Lab: SSRF with blacklist-based input filter - SSRF #lab4 | PRiTi.EX | [Read More](https://medium.com/p/c47ee46820fd) |
-| Fri, 22 May 2026 14:57:38 GMT | Why Penetration Testing Actually Matters | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/ce068ec8772e) |
-| Fri, 22 May 2026 14:47:41 GMT | When AI Agents Came for Our CTF, I Built a Gate! | Salehalsaheb | [Read More](https://medium.com/p/2562e39c7b49) |
-| Fri, 22 May 2026 14:45:43 GMT | Building an IDA Pro plugin for stack-initialised constant recovery | Keiran Smith | [Read More](https://medium.com/p/964976964e84) |
-| Fri, 22 May 2026 14:43:28 GMT | I Found My First Bug in 3 Hours. Then Nothing for 2 Weeks. Here’s What I Changed. | Decline | [Read More](https://medium.com/p/a9f6c5b20705) |
-| Fri, 22 May 2026 14:42:46 GMT | AI Security Is Changing Fast — These 6 Open-Source Tools Prove It | TechLatest.Net | [Read More](https://medium.com/p/5c5c9081cff7) |
-| Fri, 22 May 2026 14:41:48 GMT | Walkthrought Room Penetration Testing Frameworks | FireWolf | [Read More](https://medium.com/p/b2de46c9b050) |
-| Fri, 22 May 2026 14:36:01 GMT | Why AI Annotation Is Becoming Essential for Modern AI Development | Xwtempsolutions | [Read More](https://medium.com/p/df1e136e8e03) |
-| Fri, 22 May 2026 14:25:38 GMT | Bypassable by design: the architecture problem behind AI governance theatre | Lukman Nuriakhmetov | [Read More](https://medium.com/p/0ef61aae391a) |
-| Fri, 22 May 2026 14:20:42 GMT | I built a free audit tool that checks what no other tool checks | Adam McClarin | [Read More](https://medium.com/p/6062f422d1ad) |
