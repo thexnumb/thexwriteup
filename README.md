@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 May 2026 23:22:28 GMT | Supreme Court Seeks Examination of PIL on India’s Digital Security Risks; Additional Technical… | Nitish Kumar | [Read More](https://medium.com/p/20f308dc3c6d) |
+| Sat, 23 May 2026 23:02:10 GMT | Vulnyx: Cibercamp WriteUp | Eloy Albiach Forner | [Read More](https://medium.com/p/cc2083cfce24) |
+| Sat, 23 May 2026 22:59:19 GMT | Phala Network at muShanghai’s AI Security Day | Soulman | [Read More](https://medium.com/p/faafb649c35c) |
+| Sat, 23 May 2026 22:43:40 GMT | Anthropic's Broken Cyber Verification Program | Andre Boyle | [Read More](https://medium.com/p/c8c630820fd6) |
+| Sat, 23 May 2026 22:26:00 GMT | Beyond the Bit: The Logical Paradigm Shift Demanded by Quantum Computing | Laroweb3 | [Read More](https://medium.com/p/e4cc0651973c) |
+| Sat, 23 May 2026 22:24:26 GMT | HackTheBox Certified Penetration Testing Specialist (HTB CPTS) Guide and Review | Chicken0248 | [Read More](https://medium.com/p/dbb0d30ddb09) |
+| Sat, 23 May 2026 22:19:11 GMT | A Public WhatsApp Web Login at Bhopal Railway Station: A Real-World Cybersecurity Wake-Up Call | SreenadhSurendran | [Read More](https://medium.com/p/e0a3370eb42f) |
 | Sat, 23 May 2026 21:49:08 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / HIRE A HACKER WHO CAN HELP YOU IN RECOVERY YOUR STOLEN FUNDS | Alaricvoss | [Read More](https://medium.com/p/1a79b459945a) |
 | Sat, 23 May 2026 21:46:00 GMT | Shadow AI Anatomy: How Malicious AI Browser Extensions Can Exfiltrate Enterprise Code | Axiom Architect | [Read More](https://medium.com/p/52be5cc45129) |
 | Sat, 23 May 2026 21:42:38 GMT | ShadowGate  - Hack Smarter Labs Walkthrough | WireHawk Security | [Read More](https://medium.com/p/0cfd63281a5a) |
@@ -107,10 +114,3 @@ Bir Saldırganın Not Defteri | Buraktekcan | [Read More](https://medium.com/p/4
 | Sat, 23 May 2026 13:27:32 GMT | Why Businesses in Dubai Are Taking Cyber Security More Seriously Than Ever | Ghost | [Read More](https://medium.com/p/ba3c667a155a) |
 | Sat, 23 May 2026 13:22:09 GMT | WhatsApp’s Two-Factor Authentication Is a Security Illusion | Dev Pasaka | [Read More](https://medium.com/p/8e30f1cd500e) |
 | Sat, 23 May 2026 13:12:13 GMT | How We Hunted a Latin American Spy Group Using MISP A Threat Intelligence Investigation | Fairy_Sleuth❤️‍ | [Read More](https://medium.com/p/13d3d53b6061) |
-| Sat, 23 May 2026 13:01:01 GMT | Why Green Dashboards Don’t Make Me Feel Safe Anymore | Faruk Ahmed | [Read More](https://medium.com/p/352f8ee860d9) |
-| Sat, 23 May 2026 13:00:34 GMT | The Beast : The Astonishing Security System Protecting the U.S. President | Hezal Khan | [Read More](https://medium.com/p/c58177376636) |
-| Sat, 23 May 2026 12:43:23 GMT | How to Use Burp Suite to Detect IDOR Vulnerabilities in Web Applications (Beginner Guide) | Cybervolt | [Read More](https://medium.com/p/92b711be941c) |
-| Sat, 23 May 2026 12:37:09 GMT | SLA: The Backbone of IT Support Efficiency | Allan Banday | [Read More](https://medium.com/p/bec642cc4225) |
-| Sat, 23 May 2026 12:32:21 GMT | Mini Shai-Hulud Malware Remediation Is Reshaping CI/CD Security Operations | Deqteq | [Read More](https://medium.com/p/58c806370053) |
-| Sat, 23 May 2026 12:22:17 GMT | Counterware: Building Anti-AI Firewalls | Andrew Nicholas Ene | [Read More](https://medium.com/p/aacf9cf74872) |
-| Sat, 23 May 2026 12:17:56 GMT | Two Signatures, One Nonce, Zero Secrets: A FROST Crypto Bug Story | TrffnSec | [Read More](https://medium.com/p/fcfecd69fd68) |
