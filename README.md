@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 May 2026 10:49:25 GMT | Best Security Agency: How to Choose the Right Security Partner for Your Business | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/9b4199fd4731) |
+| Sat, 23 May 2026 10:43:26 GMT | Best DevOps Course In Delhi — Complete Guide For Beginners In 2026 | Varun Papnai | [Read More](https://medium.com/p/72d2b6ba884f) |
+| Sat, 23 May 2026 10:38:49 GMT | Experienced Waterloo Security Professionals Providing 24/7 Safety for Commercial & Residential… | Grdsnscrt | [Read More](https://medium.com/p/dfd5e5b6052f) |
+| Sat, 23 May 2026 10:36:32 GMT | Why False Alerts Increase When AI Surveillance Goes Live | Spotem | [Read More](https://medium.com/p/6eaa612cf0ac) |
+| Sat, 23 May 2026 10:31:03 GMT | Traditional surveillance watches. AI surveillance interprets. | Jay Travler | [Read More](https://medium.com/p/88f4393b81ff) |
+| Sat, 23 May 2026 10:23:02 GMT | Digital Marketing Agency in Ahmedabad: Why Businesses Need Top SEO Services & AI Website… | Bhudevitsolution | [Read More](https://medium.com/p/ad9e77da192f) |
+| Sat, 23 May 2026 10:12:04 GMT | Metadata Information Disclosure | Shahd Mk | [Read More](https://medium.com/p/4f7958bb2b4b) |
+| Sat, 23 May 2026 10:08:31 GMT | I Built a System That Catches Hackers While I Sleep, Using 150 Lines of Python | Stephen Odunze | [Read More](https://medium.com/p/a4b8d4d867d1) |
+| Sat, 23 May 2026 10:06:33 GMT | “Again, the zombie process started” | RAKESH KUMAR SHARMA | [Read More](https://medium.com/p/ecdabe34e43c) |
+| Sat, 23 May 2026 10:05:01 GMT | What Makes Cloud Misconfiguration So Dangerous? | Asadbek | [Read More](https://medium.com/p/fbe5fc045f9f) |
+| Sat, 23 May 2026 10:00:11 GMT | I Scanned 10 Popular F-Droid Apps With My Security Scanner — Open Source ≠ Secure | Yehor Mamaiev | [Read More](https://medium.com/p/1178eb62e22c) |
+| Sat, 23 May 2026 09:48:58 GMT | Best Cheap Web Hosting in India (2026 Top Providers) | Mary Thomas | [Read More](https://medium.com/p/c82d66afef83) |
+| Sat, 23 May 2026 09:38:10 GMT | I Built a Corporate Active Directory Lab From Scratch — 5 Machines, 20+ Attack Techniques, Fully… | NullyBlissful | [Read More](https://medium.com/p/af3c705e9138) |
+| Sat, 23 May 2026 09:33:57 GMT | Why “Free” Online PDF Converters are a Privacy Trap (And the Zero-Upload Solution) | Doctijori | [Read More](https://medium.com/p/874fc61128cd) |
+| Sat, 23 May 2026 09:28:41 GMT | How I Found Exposure Data on a Ferrari? | Cyber Kenma | [Read More](https://medium.com/p/d296f7c27910) |
+| Sat, 23 May 2026 09:26:00 GMT | Stored XSS + Arbitrary File Upload = Full Account Takeover on [REDACTED] E-Commerce Platform | Pankaj Kumar Yadav | [Read More](https://medium.com/p/d492388d314d) |
+| Sat, 23 May 2026 09:14:19 GMT | Exploring Networks, Routers, DHCP and Common Ports | Notes_of_CyberLearner | [Read More](https://medium.com/p/2ecf66f16ace) |
+| Sat, 23 May 2026 09:10:56 GMT | Understanding Command Injection through DVWA(Low-Impossible) | Samuel K | [Read More](https://medium.com/p/847699aa1a82) |
 | Sat, 23 May 2026 09:08:33 GMT | Tired of Blurred Results? How to Run a Deep Search Person Check Instantly | Clarity Check AI | [Read More](https://medium.com/p/1a5070f6fab2) |
 | Sat, 23 May 2026 09:05:10 GMT | Operation Desert Hydra — AI-Assisted CTI Pipeline: MuddyWater to Kibana | Andrey Pautov | [Read More](https://medium.com/p/34da7917acf0) |
 | Sat, 23 May 2026 09:04:58 GMT | How Deepfake Cybercrime Threatens Digital Trust and Financial Security | Tvmoffensobacklink | [Read More](https://medium.com/p/4776a866aad4) |
@@ -94,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 May 2026 21:54:02 GMT | A Vibe Coder’s Checklist: 7 Things I Still Have to Decide for the AI | James Curtis | [Read More](https://medium.com/p/f7601c9552c7) |
 | Fri, 22 May 2026 21:52:09 GMT | Utrata gwarancji na systemy CCTV i SSWiN? | Celfis | [Read More](https://medium.com/p/f640762be7fa) |
 | Fri, 22 May 2026 21:42:00 GMT | Secure Manufacturing RAG — From Architecture to Business Value | Kyotolab Ku | [Read More](https://medium.com/p/3cf5bc7f9c8c) |
-| Fri, 22 May 2026 21:24:46 GMT | Compliance is Not a Checklist: What the Digital Finance Moment Demands of Risk Professionals | Quadri Durodola | [Read More](https://medium.com/p/3674d3a7eb58) |
-| Fri, 22 May 2026 21:17:23 GMT | De Verborgen Risico’s van het Online Kopen van Ritalin, Adderall, Tramadol en Steroïden | Chemsuppliersonline.com | [Read More](https://medium.com/p/0a030eef3473) |
-| Fri, 22 May 2026 21:14:01 GMT | From Org Takeover to Pre-Auth Org Takeover: The Bypass | xploiterr | [Read More](https://medium.com/p/03f6a236cc3d) |
-| Fri, 22 May 2026 21:13:45 GMT | Metamorphic Malware in 2026: Why Your EDR Is Already Losing the Arms Race | Perparimimjeku | [Read More](https://medium.com/p/43132612fdb3) |
-| Fri, 22 May 2026 21:10:59 GMT | Recruit TryHackMe walkthrough | Crystalcascade14 | [Read More](https://medium.com/p/c25d39a68e7c) |
-| Fri, 22 May 2026 21:01:00 GMT | The Backend Engineer’s Guide to Broken Object Level Authorization | Hafiq Iqmal | [Read More](https://medium.com/p/5b77bdbb00e0) |
-| Fri, 22 May 2026 20:53:34 GMT | Five Attacks in One Month: The Fake Recruiter Campaign Targeting Blockchain Developers | Blake Findell | [Read More](https://medium.com/p/734340d45ec1) |
-| Fri, 22 May 2026 20:41:13 GMT | Unshackling AI: Building the Ultimate Local Hacker Copilot | Burak | [Read More](https://medium.com/p/b76ad706d45f) |
-| Fri, 22 May 2026 20:40:34 GMT | Burning Infrastructure: The 48-Hour Lifecycle of a Live TDS Campaign | SpearPanic | [Read More](https://medium.com/p/62af3329bd45) |
-| Fri, 22 May 2026 20:32:52 GMT | The Dangerous Gap Between Detection and Response | JSOC IT BLOG | [Read More](https://medium.com/p/854d4644b269) |
-| Fri, 22 May 2026 20:31:00 GMT | Eavesdropper: TryHackMe Walkthrough | Death Esther | [Read More](https://medium.com/p/6ecbad54f607) |
-| Fri, 22 May 2026 20:30:04 GMT | Authentication vs Authorization — The Most Confused Concepts in Cybersecurity | flossninja | [Read More](https://medium.com/p/b09d7547d15c) |
-| Fri, 22 May 2026 20:29:09 GMT | Your AI Is Showing — Data & Model Poisoning | Devanshi Patel | [Read More](https://medium.com/p/039c0034ae53) |
-| Fri, 22 May 2026 20:25:49 GMT | TryHackMe: Billing CTF - MagnusBilling RCE + Fail2ban PrivEsc | Evan John Mathew | [Read More](https://medium.com/p/ad13e02be55e) |
-| Fri, 22 May 2026 20:22:31 GMT | When the Watchdog Leaks: The CISA Credential Exposure and the Institutional Crisis It Reveals | CCD-IS | [Read More](https://medium.com/p/c41cae480238) |
-| Fri, 22 May 2026 20:21:32 GMT | The Harmonic Network Manifesto
-​Ether over Pipes. | Dennislamterin | [Read More](https://medium.com/p/1ad63e81ea9d) |
-| Fri, 22 May 2026 20:13:37 GMT | From the Duplicate Wall to Mainnet Reality: Why I Stopped Auditing Codebases and Built an… | Ogezi Emmanuel Sunday | [Read More](https://medium.com/p/b02520872d68) |
-| Fri, 22 May 2026 20:03:50 GMT | What is Identity and Access Management (IAM)? | flossninja | [Read More](https://medium.com/p/19fc6817437f) |
