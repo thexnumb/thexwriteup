@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 May 2026 21:49:08 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / HIRE A HACKER WHO CAN HELP YOU IN RECOVERY YOUR STOLEN FUNDS | Alaricvoss | [Read More](https://medium.com/p/1a79b459945a) |
+| Sat, 23 May 2026 21:46:00 GMT | Shadow AI Anatomy: How Malicious AI Browser Extensions Can Exfiltrate Enterprise Code | Axiom Architect | [Read More](https://medium.com/p/52be5cc45129) |
+| Sat, 23 May 2026 21:42:38 GMT | ShadowGate  - Hack Smarter Labs Walkthrough | WireHawk Security | [Read More](https://medium.com/p/0cfd63281a5a) |
+| Sat, 23 May 2026 21:36:29 GMT | DCMTK — Vulnerability Report | Faboherrera Fabo | [Read More](https://medium.com/p/201afc687790) |
 | Sat, 23 May 2026 21:18:58 GMT | The Two Security Frameworks Every Tech Person Should Actually Understand | Farida Ismail | [Read More](https://medium.com/p/26aa68668c97) |
 | Sat, 23 May 2026 21:17:00 GMT | Not Evil Search Engine 2026 — Why Tor Users Still Use It | onion links | [Read More](https://medium.com/p/b2a51849ca66) |
 | Sat, 23 May 2026 21:15:52 GMT | Kubernetes Security Mistakes That Hackers Love (And How to Fix Them Before They Cost You) | Jaswinder Kumar | [Read More](https://medium.com/p/7146fd19b850) |
@@ -110,7 +114,3 @@ Bir Saldırganın Not Defteri | Buraktekcan | [Read More](https://medium.com/p/4
 | Sat, 23 May 2026 12:32:21 GMT | Mini Shai-Hulud Malware Remediation Is Reshaping CI/CD Security Operations | Deqteq | [Read More](https://medium.com/p/58c806370053) |
 | Sat, 23 May 2026 12:22:17 GMT | Counterware: Building Anti-AI Firewalls | Andrew Nicholas Ene | [Read More](https://medium.com/p/aacf9cf74872) |
 | Sat, 23 May 2026 12:17:56 GMT | Two Signatures, One Nonce, Zero Secrets: A FROST Crypto Bug Story | TrffnSec | [Read More](https://medium.com/p/fcfecd69fd68) |
-| Sat, 23 May 2026 12:12:56 GMT | The Silent Heist: How the Latest GitHub Vulnerability Shook the Tech World | Ameed H Basal | [Read More](https://medium.com/p/019359dd686c) |
-| Sat, 23 May 2026 12:05:26 GMT | The Digital Fortress - Crafting Impenetrable Passwords in an Age of Cyber Threats | MrKarthikKN | [Read More](https://medium.com/p/a87c5e849123) |
-| Sat, 23 May 2026 12:01:00 GMT | How to Build a Multi-Tenant Data Agent on BigQuery | Leo Lin | [Read More](https://medium.com/p/225fcdcd4dcd) |
-| Sat, 23 May 2026 12:01:00 GMT | The AI-Powered DevOps Revolution: How Automation is Reshaping Infrastructure and Team Dynamics in… | T4itech - DevOps & Platform Engineering Company | [Read More](https://medium.com/p/c1748648e9cb) |
