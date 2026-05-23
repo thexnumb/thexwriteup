@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 May 2026 19:50:12 GMT | Dog Unit Security | Dynamic security solution ltd | [Read More](https://medium.com/p/21d0f79436bf) |
+| Sat, 23 May 2026 19:45:52 GMT | 10 Underrated Google I/O 2026 Announcements That Could Change How We Work | Sandaruwan Shanaka | [Read More](https://medium.com/p/0919d2b7d0e0) |
+| Sat, 23 May 2026 19:44:33 GMT | Your First Android Bug Bounty Report: From Finding to Payout in 2025 | Akifkhan | [Read More](https://medium.com/p/444cb4888bcd) |
+| Sat, 23 May 2026 19:41:00 GMT | Networking Fundamentals: Into to LAN, Walkthrough by Arafat Ashrafi Talha | Arafat Ashrafi Talha | [Read More](https://medium.com/p/9b43b0d28e77) |
+| Sat, 23 May 2026 19:39:47 GMT | The Truth About EZVIZ Cameras After Months of Real Use | Corsario Negro | [Read More](https://medium.com/p/f0d24ee604e9) |
+| Sat, 23 May 2026 19:38:14 GMT | How GA MARS – Digital Trust Lab Combines Digital Forensics and Recovery Networks to Combat Crypto… | GAMARS-Digital Trust Lab | [Read More](https://medium.com/p/e3e2ea62a258) |
+| Sat, 23 May 2026 19:30:12 GMT | I’m Building a SaaS With No Engineering Background — Here’s the Exact Stack I’m Using | Echolynk Company | [Read More](https://medium.com/p/2a3ee39adfdb) |
+| Sat, 23 May 2026 19:28:50 GMT | We Built a Fake Dental Practice to Find Out Where Real Ones Lose Money — Here’s What We Found | Echolynk Company | [Read More](https://medium.com/p/3af5a1a1cddf) |
+| Sat, 23 May 2026 19:18:29 GMT | The FBI Warns Your Wi-Fi Router Might Already Be Hacked | Sheetal Ghurka | [Read More](https://medium.com/p/f018e8b41437) |
+| Sat, 23 May 2026 19:11:00 GMT | Exposing a Critical Uniswap V4 Hook Flaw: Cross-Pool Invariant Manipulation | Hacker MD | [Read More](https://medium.com/p/7063e344ecac) |
+| Sat, 23 May 2026 19:01:00 GMT | Offsec’s “Sorcerer” [Medium] | solitude | [Read More](https://medium.com/p/44036e091a9a) |
+| Sat, 23 May 2026 18:59:06 GMT | How Hybrid Encryption Taught Me What Real Backend Security Looks Like | Manvendra Holkar | [Read More](https://medium.com/p/72fbd27a3c17) |
+| Sat, 23 May 2026 18:56:24 GMT | Business Logic Vulnerabilities — From Price Tampering to Expert-Level Parser Attacks | Nilanjan Chowdhury | [Read More](https://medium.com/p/622b378963c2) |
+| Sat, 23 May 2026 18:55:04 GMT | Neredeyse Herkesin Yaptığı 5 Siber Güvenlik Hatası | Serap Rabia Akarsu | [Read More](https://medium.com/p/2dcf6a6a77be) |
+| Sat, 23 May 2026 18:49:15 GMT | Introducing the SOCFortress WAF Management Platform | SOCFortress | [Read More](https://medium.com/p/6ac41581a9fc) |
 | Sat, 23 May 2026 18:22:49 GMT | ContainMe TryHackMe Walkthrough | Death Esther | [Read More](https://medium.com/p/8740cd4f8166) |
 | Sat, 23 May 2026 18:22:06 GMT | Phishing Is Increasing: Why the Oldest Cyberattack Is Becoming More Dangerous | Karthick Ganapathy | [Read More](https://medium.com/p/7aa668cc77af) |
 | Sat, 23 May 2026 18:20:45 GMT | Day 9: Network Scanning — Moving From Passive Maps to Active Probing | Adarsh Vardhan | [Read More](https://medium.com/p/eabafcf180d6) |
@@ -99,18 +114,3 @@ Bir Saldırganın Not Defteri | Buraktekcan | [Read More](https://medium.com/p/4
 | Sat, 23 May 2026 11:33:39 GMT | Solving “Dive Into Pentesting” TryHackMe | rad0v | [Read More](https://medium.com/p/6ec0bd77da0a) |
 | Sat, 23 May 2026 11:30:46 GMT | She Got Dressed for This | Adriane Lorusso | [Read More](https://medium.com/p/0dd021e9fd50) |
 | Sat, 23 May 2026 11:29:32 GMT | How to Install Wazuh, Collect Apache Logs, and Set Up File Integrity Monitoring (FIM) | Sufia TheSecureDev | [Read More](https://medium.com/p/1ff5601e131d) |
-| Sat, 23 May 2026 11:02:54 GMT | Your Engineers’ Phones Are the Gap in Your Security Strategy. Here’s What to Do About It. | ABDUL-AZEEZ AYOBAMI | [Read More](https://medium.com/p/f618051e6173) |
-| Sat, 23 May 2026 10:57:19 GMT | Defense in Depth: The Foundation of Modern Cybersecurity | Ferid Abdullayev | [Read More](https://medium.com/p/ce41e9c2224b) |
-| Sat, 23 May 2026 10:55:13 GMT | Havenlon Series: Execution Control in the Age of AI (6/15) | Havenlon | [Read More](https://medium.com/p/79da22648e38) |
-| Sat, 23 May 2026 10:54:40 GMT | They Didn’t Hack 7-Eleven. They Called Them. | pranav patil | [Read More](https://medium.com/p/70c2384ebc59) |
-| Sat, 23 May 2026 10:54:05 GMT | AndroPseudoProtect — Exploiting | Mohammed Ashraf | [Read More](https://medium.com/p/aae9396e1bba) |
-| Sat, 23 May 2026 10:49:25 GMT | Best Security Agency: How to Choose the Right Security Partner for Your Business | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/9b4199fd4731) |
-| Sat, 23 May 2026 10:43:26 GMT | Best DevOps Course In Delhi — Complete Guide For Beginners In 2026 | Varun Papnai | [Read More](https://medium.com/p/72d2b6ba884f) |
-| Sat, 23 May 2026 10:41:00 GMT | Aging in the Age of Passwords | Troy Breiland | [Read More](https://medium.com/p/ac66260ffc7f) |
-| Sat, 23 May 2026 10:38:49 GMT | Experienced Waterloo Security Professionals Providing 24/7 Safety for Commercial & Residential… | Grdsnscrt | [Read More](https://medium.com/p/dfd5e5b6052f) |
-| Sat, 23 May 2026 10:36:32 GMT | Why False Alerts Increase When AI Surveillance Goes Live | Spotem | [Read More](https://medium.com/p/6eaa612cf0ac) |
-| Sat, 23 May 2026 10:31:03 GMT | Traditional surveillance watches. AI surveillance interprets. | Jay Travler | [Read More](https://medium.com/p/88f4393b81ff) |
-| Sat, 23 May 2026 10:23:02 GMT | Digital Marketing Agency in Ahmedabad: Why Businesses Need Top SEO Services & AI Website… | Bhudevitsolution | [Read More](https://medium.com/p/ad9e77da192f) |
-| Sat, 23 May 2026 10:12:04 GMT | Metadata Information Disclosure | Shahd Mk | [Read More](https://medium.com/p/4f7958bb2b4b) |
-| Sat, 23 May 2026 10:08:31 GMT | I Built a System That Catches Hackers While I Sleep, Using 150 Lines of Python | Stephen Odunze | [Read More](https://medium.com/p/a4b8d4d867d1) |
-| Sat, 23 May 2026 10:06:33 GMT | “Again, the zombie process started” | RAKESH KUMAR SHARMA | [Read More](https://medium.com/p/ecdabe34e43c) |
