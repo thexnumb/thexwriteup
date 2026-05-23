@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 May 2026 18:22:49 GMT | ContainMe TryHackMe Walkthrough | Death Esther | [Read More](https://medium.com/p/8740cd4f8166) |
+| Sat, 23 May 2026 18:22:06 GMT | Phishing Is Increasing: Why the Oldest Cyberattack Is Becoming More Dangerous | Karthick Ganapathy | [Read More](https://medium.com/p/7aa668cc77af) |
+| Sat, 23 May 2026 18:20:45 GMT | Day 9: Network Scanning — Moving From Passive Maps to Active Probing | Adarsh Vardhan | [Read More](https://medium.com/p/eabafcf180d6) |
+| Sat, 23 May 2026 18:18:43 GMT | Top 5 SD-WAN Security Features Every Business Needs in 2026 | Shailendra Prajapati | [Read More](https://medium.com/p/f0b090a61a9f) |
+| Sat, 23 May 2026 18:18:23 GMT | Defense in Depth: Why Layering Your Security Is No Longer Optional | Rasulkazimov | [Read More](https://medium.com/p/c3ac91935391) |
+| Sat, 23 May 2026 18:12:40 GMT | How Cybercriminals Trick People Online
+Understanding Phishing, Vishing, and Other Common Online… | Louiarmah | [Read More](https://medium.com/p/9ca55b14789e) |
+| Sat, 23 May 2026 17:59:54 GMT | SS7 & GR-GSM Explained - Telecom Security Research | Pentester Club | [Read More](https://medium.com/p/c484ba6cac62) |
+| Sat, 23 May 2026 17:58:54 GMT | Hackers Didn’t Hack Tinder. They Called an Employee and Asked for the Password. | Jazz Cyber Shield | [Read More](https://medium.com/p/4bddef4b80c2) |
+| Sat, 23 May 2026 17:56:51 GMT | XSS: Enjeksiyondan Kör Atağa
+Bir Saldırganın Not Defteri | Buraktekcan | [Read More](https://medium.com/p/461c4ac048e0) |
+| Sat, 23 May 2026 17:48:01 GMT | The Upside of Enshittification | Andrew Jaye | [Read More](https://medium.com/p/b7cf156146b1) |
+| Sat, 23 May 2026 17:46:56 GMT | Hacker101 CTF — Micro-CMS v2 Walkthrough: SQLi, XSS, and Broken Access Control | Mohamed Atef | [Read More](https://medium.com/p/ed76eb78abfd) |
+| Sat, 23 May 2026 17:42:13 GMT | Vibe Mailing - You Think You're Sending Email. You're Actually Pulling the Trigger. | Syed Raiyan | [Read More](https://medium.com/p/e60ac948ed04) |
+| Sat, 23 May 2026 17:19:24 GMT | How I Found a Reflected XSS in Just 2 Minutes | Satyasaiuppala | [Read More](https://medium.com/p/5c0ace0f8603) |
+| Sat, 23 May 2026 17:17:57 GMT | Hacking Into A Server Through SMB Backdoor: A Practical Walkthrough | Red | [Read More](https://medium.com/p/e6210a6a92c3) |
+| Sat, 23 May 2026 17:17:42 GMT | Why My 100% Proof Met a 0% Bounty: The WordPress REST API Trap | Kakashi | [Read More](https://medium.com/p/084ec24d503b) |
+| Sat, 23 May 2026 17:14:11 GMT | Is the World not letting us feel? | MightAsWellWriteAboutIt | [Read More](https://medium.com/p/b3820b39dac3) |
+| Sat, 23 May 2026 17:08:13 GMT | Opinion Piece: Your normal broadcast has been interrupted for this important public safety… | Nige Hughes | [Read More](https://medium.com/p/c60f5d1105df) |
+| Sat, 23 May 2026 17:01:22 GMT | How I Passed the eJPT Exam in 2026 — My Full Experience And What I Think About It. | cyb3rb0y | [Read More](https://medium.com/p/c81431ff7c2e) |
 | Sat, 23 May 2026 16:52:36 GMT | Dive Into Pentesting — TryHackMe Walkthrough | Mahmoudaltawel | [Read More](https://medium.com/p/353fb93e7aca) |
 | Sat, 23 May 2026 16:51:40 GMT | IP mi? Elimizde yok! | Erengider | [Read More](https://medium.com/p/84b4dce12183) |
 | Sat, 23 May 2026 16:48:01 GMT | Weekly Cyber Threat Bulletin: 22 May 2026 | Marcelle Lee | [Read More](https://medium.com/p/52f7f18ff7ff) |
@@ -94,21 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 May 2026 10:12:04 GMT | Metadata Information Disclosure | Shahd Mk | [Read More](https://medium.com/p/4f7958bb2b4b) |
 | Sat, 23 May 2026 10:08:31 GMT | I Built a System That Catches Hackers While I Sleep, Using 150 Lines of Python | Stephen Odunze | [Read More](https://medium.com/p/a4b8d4d867d1) |
 | Sat, 23 May 2026 10:06:33 GMT | “Again, the zombie process started” | RAKESH KUMAR SHARMA | [Read More](https://medium.com/p/ecdabe34e43c) |
-| Sat, 23 May 2026 10:05:01 GMT | What Makes Cloud Misconfiguration So Dangerous? | Asadbek | [Read More](https://medium.com/p/fbe5fc045f9f) |
-| Sat, 23 May 2026 10:00:11 GMT | I Scanned 10 Popular F-Droid Apps With My Security Scanner — Open Source ≠ Secure | Yehor Mamaiev | [Read More](https://medium.com/p/1178eb62e22c) |
-| Sat, 23 May 2026 09:48:58 GMT | Best Cheap Web Hosting in India (2026 Top Providers) | Mary Thomas | [Read More](https://medium.com/p/c82d66afef83) |
-| Sat, 23 May 2026 09:38:10 GMT | I Built a Corporate Active Directory Lab From Scratch — 5 Machines, 20+ Attack Techniques, Fully… | NullyBlissful | [Read More](https://medium.com/p/af3c705e9138) |
-| Sat, 23 May 2026 09:33:57 GMT | Why “Free” Online PDF Converters are a Privacy Trap (And the Zero-Upload Solution) | Doctijori | [Read More](https://medium.com/p/874fc61128cd) |
-| Sat, 23 May 2026 09:28:41 GMT | How I Found Exposure Data on a Ferrari? | Cyber Kenma | [Read More](https://medium.com/p/d296f7c27910) |
-| Sat, 23 May 2026 09:26:00 GMT | Stored XSS + Arbitrary File Upload = Full Account Takeover on [REDACTED] E-Commerce Platform | Pankaj Kumar Yadav | [Read More](https://medium.com/p/d492388d314d) |
-| Sat, 23 May 2026 09:14:19 GMT | Exploring Networks, Routers, DHCP and Common Ports | Notes_of_CyberLearner | [Read More](https://medium.com/p/2ecf66f16ace) |
-| Sat, 23 May 2026 09:10:56 GMT | Understanding Command Injection through DVWA(Low-Impossible) | Samuel K | [Read More](https://medium.com/p/847699aa1a82) |
-| Sat, 23 May 2026 09:08:33 GMT | Tired of Blurred Results? How to Run a Deep Search Person Check Instantly | Clarity Check AI | [Read More](https://medium.com/p/1a5070f6fab2) |
-| Sat, 23 May 2026 09:05:10 GMT | Operation Desert Hydra — AI-Assisted CTI Pipeline: MuddyWater to Kibana | Andrey Pautov | [Read More](https://medium.com/p/34da7917acf0) |
-| Sat, 23 May 2026 09:04:58 GMT | How Deepfake Cybercrime Threatens Digital Trust and Financial Security | Tvmoffensobacklink | [Read More](https://medium.com/p/4776a866aad4) |
-| Sat, 23 May 2026 09:01:43 GMT | We Expect Same-Day Delivery AI Is the Only Reason That’s Possible | Mughira Ahmed | [Read More](https://medium.com/p/4f75e016e2b3) |
-| Sat, 23 May 2026 09:01:01 GMT | #Lab 3 — Inconsistent Security Controls — PortSwigger Web Security Academy | Thewatchdog13 | [Read More](https://medium.com/p/adf2a38bc0ea) |
-| Sat, 23 May 2026 08:58:41 GMT | Free QR Code Generator Online: Create Custom QR Codes in Seconds | amina zafar | [Read More](https://medium.com/p/b143cb10c30b) |
-| Sat, 23 May 2026 08:54:59 GMT | Linux System Administration: The Complete Field Guide | hackthacker | [Read More](https://medium.com/p/db662c6954ee) |
-| Sat, 23 May 2026 08:54:41 GMT | Chapter 4 Review Questions - Cryptographic Solutions and PKI (Security+ SY0–701 Domain 1) | Azhariqbal | [Read More](https://medium.com/p/796c8e653cd7) |
-| Sat, 23 May 2026 08:54:20 GMT | When Space Begins to See: WiFi, AI, and the New Form of Invisible Surveillance | Angela Bogdanova (DAP) | [Read More](https://medium.com/p/d3fc11cdc715) |
