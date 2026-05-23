@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 May 2026 06:56:56 GMT | Hunting for Bugs When the Low-Hanging Fruit is Forbidden: A Deep Dive into Finding Reflected XSS | Priyansh | [Read More](https://medium.com/p/8d52f058ad78) |
+| Sat, 23 May 2026 06:35:21 GMT | Security Company Walsall | Ptpsecurity | [Read More](https://medium.com/p/b990d0d8ba00) |
+| Sat, 23 May 2026 06:27:20 GMT | The “Zombie” Days: What Young-Onset Parkinson’s and Brain Fog Really Feel Like at 30 | Lalit | [Read More](https://medium.com/p/d88046fa6c2b) |
+| Sat, 23 May 2026 06:23:45 GMT | Island Hopping Attack | Yarmuhammadmangi | [Read More](https://medium.com/p/981b7133c3b6) |
+| Sat, 23 May 2026 06:21:00 GMT | Agentic Shadow AI: How to Manage AI in Your Company using Harness | Ana Bildea, PhD | [Read More](https://medium.com/p/718af301a1f1) |
+| Sat, 23 May 2026 06:20:24 GMT | I Implemented Auth0, Supabase Auth, and Clerk (Here’s What I Learned) | Navanath Jadhav | [Read More](https://medium.com/p/3c19f0f7338d) |
+| Sat, 23 May 2026 06:17:40 GMT | How to Protect Your Phone Number When Verifying Online Accounts | Erik Topson | [Read More](https://medium.com/p/3bc3296b6645) |
+| Sat, 23 May 2026 06:13:52 GMT | Too Many CISOs Try to Move Too Fast — and Pay the Price | JC Gaillard | [Read More](https://medium.com/p/77ece8a3deb4) |
+| Sat, 23 May 2026 06:13:35 GMT | Best Cyber Security Course in Delhi | Cyber Defentech | [Read More](https://medium.com/p/beeb0819eeb7) |
+| Sat, 23 May 2026 06:10:25 GMT | From Hardware to AI: Immersive Tech Learning in Action | OKIROR ERASMUS | [Read More](https://medium.com/p/954c54115d3c) |
+| Sat, 23 May 2026 06:10:02 GMT | #  Bir Linkə Klik Etmək Niyə Təhlükəli Ola Bilər? Phishing, Metadata və Gizli Risklər | cybershieldy.com | [Read More](https://medium.com/p/484e89cc3db2) |
+| Sat, 23 May 2026 05:59:02 GMT | Guided Pentest: Web Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/42edec5b66a8) |
+| Sat, 23 May 2026 05:53:07 GMT | Why Cybersecurity Jobs Are Booming & How an Online MCA Can Help You Enter This Field | Brij Bhushan Singh | [Read More](https://medium.com/p/11d43ff9f909) |
+| Sat, 23 May 2026 05:43:38 GMT | The Day GitHub Got Hacked Through a Plugin You Probably Have Installed | RajKanjariya | [Read More](https://medium.com/p/e320ff09bc57) |
+| Sat, 23 May 2026 05:39:30 GMT | AI driven Voice Transformation for CSPs- A service KPI and Risk driven Enterprise approach | Saad Sheikh | [Read More](https://medium.com/p/654d5a3c23bf) |
+| Sat, 23 May 2026 05:29:39 GMT | AI is now finding more bugs than humans. | Stanislav Klevtsov | [Read More](https://medium.com/p/37b7ae1e63d2) |
+| Sat, 23 May 2026 05:13:53 GMT | The $1,000 Mistake | Halohashm | [Read More](https://medium.com/p/d3c1d4d5d2c5) |
+| Sat, 23 May 2026 05:10:51 GMT | What Is SIM Based CCTV Camera? Complete Guide to 4G Security Cameras | Best Price CCTV | [Read More](https://medium.com/p/548f5a908fa8) |
+| Sat, 23 May 2026 05:06:14 GMT | The Boy Nobody Noticed | Halohashm | [Read More](https://medium.com/p/01feb2cb6e2e) |
+| Sat, 23 May 2026 04:49:25 GMT | The Beginner Bug Hunter Mindset Nobody Teaches | Drishti Pandey | [Read More](https://medium.com/p/97f493868340) |
+| Sat, 23 May 2026 04:31:00 GMT | The Cisco Vulnerability That Could Let Attackers Control Entire Network | Cybersphere Official | [Read More](https://medium.com/p/90499ea7bc5c) |
 | Sat, 23 May 2026 04:14:56 GMT | The Security Incident That Changed How I Look at Modern Development | Shiv Ghariwala | [Read More](https://medium.com/p/ea9f7ced3236) |
 | Sat, 23 May 2026 04:13:37 GMT | One OAuth Token. Massive Damage | Heet Karena | [Read More](https://medium.com/p/53e2ed2effcd) |
 | Sat, 23 May 2026 04:10:22 GMT | being vulnerable is exceptionally hard | Acasha Adair | [Read More](https://medium.com/p/49120464008b) |
@@ -92,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 May 2026 17:37:48 GMT | Cost of Artificial Intelligence | Abhishek Maurya | [Read More](https://medium.com/p/a821164b54be) |
 | Fri, 22 May 2026 17:37:17 GMT | Climate Is Already a Security Problem. I’ve Watched It Happen. | Marika | [Read More](https://medium.com/p/e3ba613af07b) |
 | Fri, 22 May 2026 17:36:25 GMT | With or without you around...? | Unwritten Waves | [Read More](https://medium.com/p/5207da56365c) |
-| Fri, 22 May 2026 17:36:00 GMT | Precision matters when you want to close the F$*^(!@ deal! | Anthony Johnson | [Read More](https://medium.com/p/0fbb1bf6616c) |
-| Fri, 22 May 2026 17:34:19 GMT | 10 Malware Sandboxes Every Analyst MUST Know | Diya TK | [Read More](https://medium.com/p/057de660968e) |
-| Fri, 22 May 2026 17:33:07 GMT | Why Gaming Companies Need Identity Verification More Than Ever | Talton Taylor | [Read More](https://medium.com/p/55033a3c1e0c) |
-| Fri, 22 May 2026 17:28:05 GMT | Uygulamalı Mirror Trafik Analizi ve Pcap Verileriyle Tehdit Avcılığı | Merve Guler | [Read More](https://medium.com/p/ff53c3d3a905) |
-| Fri, 22 May 2026 17:20:06 GMT | Even GitHub Got Hit Through a VS Code Extension. How Safe Is Your Own Machine? | Mark Chen | [Read More](https://medium.com/p/13a64a74ae79) |
-| Fri, 22 May 2026 17:16:13 GMT | GemStuffer and BufferZoneCorp: Two Hidden Operations That Quietly Targeted Every Developer’s… | Macs-Hit | [Read More](https://medium.com/p/329b79eb30dd) |
-| Fri, 22 May 2026 17:11:40 GMT | WhatsApp Says No One Can Read Your Messages. A Federal Agent Spent 10 Months Disagreeing. | The Digital First Responder | [Read More](https://medium.com/p/3f5dd0eb5863) |
-| Fri, 22 May 2026 17:09:32 GMT | Ignoring the Recommended Software Update Could Be Catastrophic | Robert Sosa | [Read More](https://medium.com/p/bdaa749753a0) |
-| Fri, 22 May 2026 16:55:31 GMT | Understanding Penetration Testing and Its Phases | Learn With Hiba | [Read More](https://medium.com/p/d831b6ab913d) |
-| Fri, 22 May 2026 16:49:53 GMT | Bonus New Member WAW4D yang Banyak Dicari Pemain | Max Anderson | [Read More](https://medium.com/p/5ce89129dc28) |
-| Fri, 22 May 2026 16:29:34 GMT | Governing the Rise of AI Agents: Why Enterprises Need Visibility Beyond the LLM Gateway | Shailesh Gogate | [Read More](https://medium.com/p/a5dd9f2d70d6) |
-| Fri, 22 May 2026 16:27:45 GMT | Mass Assignment + JSON Validation Bypass: From Zero Access to Full Admin Takeover | Red-X | [Read More](https://medium.com/p/fc478e5a94be) |
-| Fri, 22 May 2026 16:25:28 GMT | The Hidden Systems Behind Everyday Finance | Aman | [Read More](https://medium.com/p/a665e729106f) |
-| Fri, 22 May 2026 16:11:38 GMT | API Pentesting | Rormsbee | [Read More](https://medium.com/p/4ee23f6bf84a) |
-| Fri, 22 May 2026 16:01:10 GMT | Defense in Depth: Building Strong Cybersecurity with Multiple Layers | Ulvu Khalilli | [Read More](https://medium.com/p/f25a7b344636) |
-| Fri, 22 May 2026 15:58:00 GMT | Synthesizing Security Concepts: Building a Cohesive Strategy | Ulvu Khalilli | [Read More](https://medium.com/p/0d30cb6e8087) |
-| Fri, 22 May 2026 15:54:54 GMT | Essential iOS Hardening Steps | Officer's Notes | [Read More](https://medium.com/p/2d608d3fdc2e) |
-| Fri, 22 May 2026 15:53:24 GMT | The Restricted Sessions Cybertalents Web Challenge. | Wainainaalvin | [Read More](https://medium.com/p/b3e2691c05f3) |
-| Fri, 22 May 2026 15:52:02 GMT | I Thought My Crypto Was Safe” — The Brutal Reality Behind Bitcoin and USDT Scams in 2026 | Chrisharley | [Read More](https://medium.com/p/0610de60d66c) |
-| Fri, 22 May 2026 15:48:51 GMT | Active Directory Overview | ABDUR RAHMAN NAHID | [Read More](https://medium.com/p/9b477caadfb6) |
-| Fri, 22 May 2026 15:46:33 GMT | Rejected but Rewarded — What a GraphQL Misconfiguration Taught Me About Bug Bounty Triage. | kjulius | [Read More](https://medium.com/p/a69a9f42e12c) |
