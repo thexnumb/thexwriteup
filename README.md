@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 22 May 2026 23:41:27 GMT | Is SQLI still exist in the wild ? 2 SQLI 0 $ | Ahmedsameh | [Read More](https://medium.com/p/c6efc3371af9) |
+| Fri, 22 May 2026 23:38:24 GMT | The Silo Problem Nobody In Cybersecurity Wants to Admit | Jan | [Read More](https://medium.com/p/0cd0709432a1) |
+| Fri, 22 May 2026 23:34:34 GMT | WRONG ADDRESS | Richard Chukwuka | [Read More](https://medium.com/p/888d319b5be1) |
+| Fri, 22 May 2026 23:32:43 GMT | You’re Approaching a Cybersecurity Career the Wrong Way — Here’s What Actually Works | networkdavit | [Read More](https://medium.com/p/4a968a2fd614) |
+| Fri, 22 May 2026 23:23:53 GMT | 3 Brain-Dead Bugs Making Me Thousands in 2026 | AI Red Team | [Read More](https://medium.com/p/385132100b64) |
+| Fri, 22 May 2026 23:06:00 GMT | OAuth 2.0, PKCE, and DPoP: A Story I Learned Building an MCP Gateway | Ashutosh Pal | [Read More](https://medium.com/p/e2492240a64d) |
+| Fri, 22 May 2026 22:56:07 GMT | LetsDefend SOC168 — Whoami Command Detected in Request Body (Playbook Walkthrough) | KuRo | [Read More](https://medium.com/p/c7fa54b2d489) |
+| Fri, 22 May 2026 22:37:35 GMT | Coming Soon: The Robot Cleaner in Your Home & Your Privacy | Paul E. (TheAIOracle) | [Read More](https://medium.com/p/ab9a204c07d4) |
+| Fri, 22 May 2026 22:33:23 GMT | لا تبداء | Firstbugpath | [Read More](https://medium.com/p/23b346127339) |
 | Fri, 22 May 2026 22:32:30 GMT | Galaxy Dash: Accessing Other Users’ Deliveries via IDOR | Dennis Sev7n | [Read More](https://medium.com/p/81647d2e66f0) |
 | Fri, 22 May 2026 22:30:45 GMT | Understanding Nmap at Packet Level — What I Actually Saw in Wireshark | Youseffkamal | [Read More](https://medium.com/p/ca2efdbe2beb) |
 | Fri, 22 May 2026 21:54:02 GMT | A Vibe Coder’s Checklist: 7 Things I Still Have to Decide for the AI | James Curtis | [Read More](https://medium.com/p/f7601c9552c7) |
+| Fri, 22 May 2026 21:52:09 GMT | Utrata gwarancji na systemy CCTV i SSWiN? | Celfis | [Read More](https://medium.com/p/f640762be7fa) |
 | Fri, 22 May 2026 21:42:00 GMT | Secure Manufacturing RAG — From Architecture to Business Value | Kyotolab Ku | [Read More](https://medium.com/p/3cf5bc7f9c8c) |
 | Fri, 22 May 2026 21:24:46 GMT | Compliance is Not a Checklist: What the Digital Finance Moment Demands of Risk Professionals | Quadri Durodola | [Read More](https://medium.com/p/3674d3a7eb58) |
 | Fri, 22 May 2026 21:17:23 GMT | De Verborgen Risico’s van het Online Kopen van Ritalin, Adderall, Tramadol en Steroïden | Chemsuppliersonline.com | [Read More](https://medium.com/p/0a030eef3473) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 22 May 2026 14:36:01 GMT | Why AI Annotation Is Becoming Essential for Modern AI Development | Xwtempsolutions | [Read More](https://medium.com/p/df1e136e8e03) |
 | Fri, 22 May 2026 14:25:38 GMT | Bypassable by design: the architecture problem behind AI governance theatre | Lukman Nuriakhmetov | [Read More](https://medium.com/p/0ef61aae391a) |
 | Fri, 22 May 2026 14:20:42 GMT | I built a free audit tool that checks what no other tool checks | Adam McClarin | [Read More](https://medium.com/p/6062f422d1ad) |
-| Fri, 22 May 2026 14:19:40 GMT | From Theory to Practice: Building a Security System That Actually Works | Dhanuskiruthick | [Read More](https://medium.com/p/8cd7a7e885f6) |
-| Fri, 22 May 2026 14:17:43 GMT | # Building a Modular Windows Payload System in C++ — Custom Compilation & Runtime Evasion | Entityviolet | [Read More](https://medium.com/p/4edb774f0583) |
-| Fri, 22 May 2026 14:16:00 GMT | AI Startups Have a Security Problem | Ankit Chauhan | [Read More](https://medium.com/p/5ce89e128ff0) |
-| Fri, 22 May 2026 14:11:57 GMT | CVE-2026–1839: How Training AI with Heavy Weights Can Still Lead to Light Security | Mike Czumak | [Read More](https://medium.com/p/bf4e34c9799c) |
-| Fri, 22 May 2026 14:08:46 GMT | Security Headers Are Just the Beginning: Why True Web Security Is a Continuous Journey | Sohail Ahmed | [Read More](https://medium.com/p/998c570eabfd) |
-| Fri, 22 May 2026 13:56:00 GMT | Why Is Hardware-Based Encryption the Ultimate Data Protection? | Opal Lock by Fidelity Height | [Read More](https://medium.com/p/96d97d0fe06c) |
-| Fri, 22 May 2026 13:53:52 GMT | Craft HTB — Full Walkthrough: From RCE to Root via Vault SSH OTP- Silicon Valley | Panda Anonimo | [Read More](https://medium.com/p/987a92663968) |
-| Fri, 22 May 2026 13:49:23 GMT | NGINX Critical Vulnerability: 18-Year-Old Heap Overflow Puts Millions of Servers at Risk | G. Wolpert | [Read More](https://medium.com/p/7a9ea77011e1) |
-| Fri, 22 May 2026 13:47:33 GMT | Execution is not enough, acceptance must be proven. | NanoChain | [Read More](https://medium.com/p/c7451d51407d) |
-| Fri, 22 May 2026 13:46:28 GMT | AIOps: The Silent Revolution Rewiring How Modern IT Actually Works | RSA Tech Group | [Read More](https://medium.com/p/8a79dd5446fd) |
