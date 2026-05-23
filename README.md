@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 May 2026 15:30:38 GMT | MonitorsFour Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/5331e44b21ef) |
+| Sat, 23 May 2026 15:21:41 GMT | YALL BIG TECH BROS ARE ABUSING ME AND MY DOGS LIKE G DAMN TERRORIST JUST TO SILENCE ME AND GET AWAY… | May May | [Read More](https://medium.com/p/2f114da6afa4) |
+| Sat, 23 May 2026 15:18:15 GMT | I Audited My Own AI Agent Setup. Here’s What I Found. | Atef Ataya | [Read More](https://medium.com/p/a6acfb4c55fc) |
+| Sat, 23 May 2026 15:16:15 GMT | ☁️ Common Cloud Security Threats: Misconfigurations & Insider Threats | Manula Udyoga | [Read More](https://medium.com/p/befeed8e2c9c) |
+| Sat, 23 May 2026 15:15:33 GMT | API Authentication: A Very Brief Introduction for Beginners | Abrar Bin Habib | [Read More](https://medium.com/p/2fbac87e1572) |
+| Sat, 23 May 2026 15:10:51 GMT | Microsoft Beat Anthropic and OpenAI Using Their Own Models and the Lesson Is More Uncomfortable… | Bloom | [Read More](https://medium.com/p/4fe865be7be0) |
+| Sat, 23 May 2026 14:59:13 GMT | PicoCTF Web Challenge Writeup: Failure Failure | Yogeshwar Peela | [Read More](https://medium.com/p/265ca72cae07) |
+| Sat, 23 May 2026 14:56:25 GMT | Ethical Hacking pada Sektor Publik: Antara Keamanan Siber dan Batas Hukum | Alfaenf | [Read More](https://medium.com/p/f64291f333e3) |
+| Sat, 23 May 2026 14:55:14 GMT | A LOVE THAT MAKES YOU SOFT | Sudeshna Bastia | [Read More](https://medium.com/p/4c09857b9609) |
+| Sat, 23 May 2026 14:53:06 GMT | Quantum Teleportation Bug | Huzaifah Tahir | [Read More](https://medium.com/p/547a59b0e6a5) |
+| Sat, 23 May 2026 14:47:45 GMT | The Analytical Edge: Can AI Find Better Financial Rewards Than a Human Analyst? | Akoto Tare | [Read More](https://medium.com/p/a85a2b4e4d35) |
+| Sat, 23 May 2026 14:42:00 GMT | The Subdomain Discovery Method That Actually Finds Forgotten Servers (Google Dorks That Still Work) | Decline | [Read More](https://medium.com/p/7611d10ca59c) |
+| Sat, 23 May 2026 14:38:40 GMT | TryHackMe: Operation Endgame | edbert sumicad | [Read More](https://medium.com/p/9f5fb4429c2f) |
+| Sat, 23 May 2026 14:31:50 GMT | When Code Starts Hunting Code: Inside the Rise of AI Hacking Bots and the New Arms Race for the… | Hayanan | [Read More](https://medium.com/p/e77505a98a84) |
+| Sat, 23 May 2026 14:31:00 GMT | Governing A.I. in the Enterprise | Dwaine Woosley | [Read More](https://medium.com/p/87efc7ad021b) |
+| Sat, 23 May 2026 14:26:43 GMT | Authenticated Time-Based Blind SQL Injection in Rukovoditel 3.7.1 (listing_col_width) | DARN | [Read More](https://medium.com/p/15560425ac12) |
+| Sat, 23 May 2026 14:18:25 GMT | Fusion Corp — TryHackMe Writeup - Active Directory Exploitation | Ajaykumarkanthi | [Read More](https://medium.com/p/02eeef474f6d) |
+| Sat, 23 May 2026 14:15:19 GMT | Journey to Berlin: experience and review of “Advanced Fuzzing and Crash Analysis” at OffensiveCon… | Cyd Tseng | [Read More](https://medium.com/p/7956af4c1e9e) |
+| Sat, 23 May 2026 14:09:29 GMT | “Open Up or You’re Toxic”: The Dangerous Trend of Forced Vulnerability | Ashbeel Roy | [Read More](https://medium.com/p/e32f479cf9e3) |
+| Sat, 23 May 2026 14:01:05 GMT | Threat Hunting with Deception Technologies -LetsDefend | 0verRida | [Read More](https://medium.com/p/7ccf118afcec) |
 | Sat, 23 May 2026 13:57:37 GMT | Will AI Replace Cybersecurity? The Truth No One Is Saying | Noman Kei | [Read More](https://medium.com/p/15a5ba1f1e0a) |
 | Sat, 23 May 2026 13:56:59 GMT | Intrusion Prevention System (IPS): Stopping Cyber Attacks Automatically | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/557a04287b2f) |
 | Sat, 23 May 2026 13:49:34 GMT | Authenticated Time-Based Blind SQL Injection in Rukovoditel 3.7.1 | DARN | [Read More](https://medium.com/p/74531548e808) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 May 2026 07:29:24 GMT | Certifications That Actually Matter in Cybersecurity in 2026 | Anita Dangol | [Read More](https://medium.com/p/53ebbbace5b5) |
 | Sat, 23 May 2026 07:25:27 GMT | Amazon web service. | Selina | [Read More](https://medium.com/p/f597c3dfed20) |
 | Sat, 23 May 2026 07:15:22 GMT | Best Summer Internship in Ethical hacking for College Students | cyber security Updates | [Read More](https://medium.com/p/157abe1e8717) |
-| Sat, 23 May 2026 07:12:52 GMT | Why Leisure Operators in Newcastle Are Reviewing Site Security Measures | Wiliam Chris | [Read More](https://medium.com/p/8c3b0cce5e82) |
-| Sat, 23 May 2026 06:56:56 GMT | Hunting for Bugs When the Low-Hanging Fruit is Forbidden: A Deep Dive into Finding Reflected XSS | Priyansh | [Read More](https://medium.com/p/8d52f058ad78) |
-| Sat, 23 May 2026 06:35:21 GMT | Security Company Walsall | Ptpsecurity | [Read More](https://medium.com/p/b990d0d8ba00) |
-| Sat, 23 May 2026 06:27:20 GMT | The “Zombie” Days: What Young-Onset Parkinson’s and Brain Fog Really Feel Like at 30 | Lalit | [Read More](https://medium.com/p/d88046fa6c2b) |
-| Sat, 23 May 2026 06:23:45 GMT | Island Hopping Attack | Yarmuhammadmangi | [Read More](https://medium.com/p/981b7133c3b6) |
-| Sat, 23 May 2026 06:21:00 GMT | Agentic Shadow AI: How to Manage AI in Your Company using Harness | Ana Bildea, PhD | [Read More](https://medium.com/p/718af301a1f1) |
-| Sat, 23 May 2026 06:20:24 GMT | I Implemented Auth0, Supabase Auth, and Clerk (Here’s What I Learned) | Navanath Jadhav | [Read More](https://medium.com/p/3c19f0f7338d) |
-| Sat, 23 May 2026 06:17:40 GMT | How to Protect Your Phone Number When Verifying Online Accounts | Erik Topson | [Read More](https://medium.com/p/3bc3296b6645) |
-| Sat, 23 May 2026 06:13:52 GMT | Too Many CISOs Try to Move Too Fast — and Pay the Price | JC Gaillard | [Read More](https://medium.com/p/77ece8a3deb4) |
-| Sat, 23 May 2026 06:13:35 GMT | Best Cyber Security Course in Delhi | Cyber Defentech | [Read More](https://medium.com/p/beeb0819eeb7) |
-| Sat, 23 May 2026 06:10:25 GMT | From Hardware to AI: Immersive Tech Learning in Action | OKIROR ERASMUS | [Read More](https://medium.com/p/954c54115d3c) |
-| Sat, 23 May 2026 06:10:02 GMT | #  Bir Linkə Klik Etmək Niyə Təhlükəli Ola Bilər? Phishing, Metadata və Gizli Risklər | cybershieldy.com | [Read More](https://medium.com/p/484e89cc3db2) |
-| Sat, 23 May 2026 05:59:02 GMT | Guided Pentest: Web Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/42edec5b66a8) |
-| Sat, 23 May 2026 05:53:07 GMT | Why Cybersecurity Jobs Are Booming & How an Online MCA Can Help You Enter This Field | Brij Bhushan Singh | [Read More](https://medium.com/p/11d43ff9f909) |
-| Sat, 23 May 2026 05:43:38 GMT | The Day GitHub Got Hacked Through a Plugin You Probably Have Installed | RajKanjariya | [Read More](https://medium.com/p/e320ff09bc57) |
-| Sat, 23 May 2026 05:39:30 GMT | AI driven Voice Transformation for CSPs- A service KPI and Risk driven Enterprise approach | Saad Sheikh | [Read More](https://medium.com/p/654d5a3c23bf) |
-| Sat, 23 May 2026 05:29:39 GMT | AI is now finding more bugs than humans. | Stanislav Klevtsov | [Read More](https://medium.com/p/37b7ae1e63d2) |
-| Sat, 23 May 2026 05:13:53 GMT | The $1,000 Mistake | Halohashm | [Read More](https://medium.com/p/d3c1d4d5d2c5) |
-| Sat, 23 May 2026 05:10:51 GMT | What Is SIM Based CCTV Camera? Complete Guide to 4G Security Cameras | Best Price CCTV | [Read More](https://medium.com/p/548f5a908fa8) |
-| Sat, 23 May 2026 05:06:14 GMT | The Boy Nobody Noticed | Halohashm | [Read More](https://medium.com/p/01feb2cb6e2e) |
