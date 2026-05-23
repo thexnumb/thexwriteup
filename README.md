@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 23 May 2026 13:57:37 GMT | Will AI Replace Cybersecurity? The Truth No One Is Saying | Noman Kei | [Read More](https://medium.com/p/15a5ba1f1e0a) |
+| Sat, 23 May 2026 13:56:59 GMT | Intrusion Prevention System (IPS): Stopping Cyber Attacks Automatically | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/557a04287b2f) |
+| Sat, 23 May 2026 13:49:34 GMT | Authenticated Time-Based Blind SQL Injection in Rukovoditel 3.7.1 | DARN | [Read More](https://medium.com/p/74531548e808) |
+| Sat, 23 May 2026 13:49:00 GMT | PicoCTF Web Challenge Writeup: NO FA | Yogeshwar Peela | [Read More](https://medium.com/p/75e36655d412) |
+| Sat, 23 May 2026 13:43:24 GMT | Complete Cybersecurity Guide for 2026: Safer Accounts, Devices, Data, and Habits | Amit Chavan | [Read More](https://medium.com/p/75f1e806522a) |
+| Sat, 23 May 2026 13:41:26 GMT | How I Built a Beginner-Friendly Cybersecurity Learning Brand Through Content and Community | CyberRise Institute | [Read More](https://medium.com/p/63665c524f1c) |
+| Sat, 23 May 2026 13:33:23 GMT | File Upload Vulnerabilities Explained: A Step-by-Step DVWA Security Lab for Beginners | Samuel K | [Read More](https://medium.com/p/82e5e571e482) |
+| Sat, 23 May 2026 13:32:41 GMT | Batasan Hukum Rules of Engagement (RoE) dalam Penetration Testing: Menghindari Jerat UU ITE Bagi… | IZZAT AL HAQ 1 | [Read More](https://medium.com/p/50df56dc28b5) |
+| Sat, 23 May 2026 13:28:01 GMT | What Transmission Channels Secretly Do to Your Documents | Ruslan Mishyn | [Read More](https://medium.com/p/4af8f23acd84) |
+| Sat, 23 May 2026 13:27:32 GMT | Why Businesses in Dubai Are Taking Cyber Security More Seriously Than Ever | Ghost | [Read More](https://medium.com/p/ba3c667a155a) |
+| Sat, 23 May 2026 13:22:09 GMT | WhatsApp’s Two-Factor Authentication Is a Security Illusion | Dev Pasaka | [Read More](https://medium.com/p/8e30f1cd500e) |
+| Sat, 23 May 2026 13:12:13 GMT | How We Hunted a Latin American Spy Group Using MISP A Threat Intelligence Investigation | Fairy_Sleuth❤️‍ | [Read More](https://medium.com/p/13d3d53b6061) |
+| Sat, 23 May 2026 13:01:01 GMT | Why Green Dashboards Don’t Make Me Feel Safe Anymore | Faruk Ahmed | [Read More](https://medium.com/p/352f8ee860d9) |
+| Sat, 23 May 2026 13:00:34 GMT | The Beast : The Astonishing Security System Protecting the U.S. President | Hezal Khan | [Read More](https://medium.com/p/c58177376636) |
+| Sat, 23 May 2026 12:43:23 GMT | How to Use Burp Suite to Detect IDOR Vulnerabilities in Web Applications (Beginner Guide) | Cybervolt | [Read More](https://medium.com/p/92b711be941c) |
+| Sat, 23 May 2026 12:37:09 GMT | SLA: The Backbone of IT Support Efficiency | Allan Banday | [Read More](https://medium.com/p/bec642cc4225) |
+| Sat, 23 May 2026 12:32:21 GMT | Mini Shai-Hulud Malware Remediation Is Reshaping CI/CD Security Operations | Deqteq | [Read More](https://medium.com/p/58c806370053) |
+| Sat, 23 May 2026 12:22:17 GMT | Counterware: Building Anti-AI Firewalls | Andrew Nicholas Ene | [Read More](https://medium.com/p/aacf9cf74872) |
+| Sat, 23 May 2026 12:17:56 GMT | Two Signatures, One Nonce, Zero Secrets: A FROST Crypto Bug Story | TrffnSec | [Read More](https://medium.com/p/fcfecd69fd68) |
+| Sat, 23 May 2026 12:12:56 GMT | The Silent Heist: How the Latest GitHub Vulnerability Shook the Tech World | Ameed H Basal | [Read More](https://medium.com/p/019359dd686c) |
+| Sat, 23 May 2026 12:05:26 GMT | The Digital Fortress - Crafting Impenetrable Passwords in an Age of Cyber Threats | MrKarthikKN | [Read More](https://medium.com/p/a87c5e849123) |
+| Sat, 23 May 2026 12:01:00 GMT | How to Build a Multi-Tenant Data Agent on BigQuery | Leo Lin | [Read More](https://medium.com/p/225fcdcd4dcd) |
+| Sat, 23 May 2026 12:01:00 GMT | The AI-Powered DevOps Revolution: How Automation is Reshaping Infrastructure and Team Dynamics in… | T4itech - DevOps & Platform Engineering Company | [Read More](https://medium.com/p/c1748648e9cb) |
+| Sat, 23 May 2026 12:00:01 GMT | The Problem with Chrome’s Local AI Model Isn’t AI. It’s Change Control | Leon Marks | [Read More](https://medium.com/p/3f13a1aa97cf) |
+| Sat, 23 May 2026 11:56:51 GMT | Why Compliance-Driven Visitor Management Is Becoming Essential for Modern Enterprises? | AI-Powered Visitor Management — LogBook360 | [Read More](https://medium.com/p/84264d5cfcf6) |
 | Sat, 23 May 2026 11:35:42 GMT | Detection Logic Bugs, Developing Context to Bypass MiniPlasma Rules | Nikolas Bielski | [Read More](https://medium.com/p/903f1d7c68e8) |
 | Sat, 23 May 2026 11:35:36 GMT | We Teach Men to Hide Their Hearts—Then We Wonder Why They Feel Distant. | Noorain Khan | [Read More](https://medium.com/p/c45c0af4febd) |
 | Sat, 23 May 2026 11:35:05 GMT | The Most Dangerous Bug Bounty Habit I Had Was Chasing “Interesting” Targets | Arfa | [Read More](https://medium.com/p/65c9cd6ea37a) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 May 2026 05:13:53 GMT | The $1,000 Mistake | Halohashm | [Read More](https://medium.com/p/d3c1d4d5d2c5) |
 | Sat, 23 May 2026 05:10:51 GMT | What Is SIM Based CCTV Camera? Complete Guide to 4G Security Cameras | Best Price CCTV | [Read More](https://medium.com/p/548f5a908fa8) |
 | Sat, 23 May 2026 05:06:14 GMT | The Boy Nobody Noticed | Halohashm | [Read More](https://medium.com/p/01feb2cb6e2e) |
-| Sat, 23 May 2026 04:49:25 GMT | The Beginner Bug Hunter Mindset Nobody Teaches | Drishti Pandey | [Read More](https://medium.com/p/97f493868340) |
-| Sat, 23 May 2026 04:31:00 GMT | The Cisco Vulnerability That Could Let Attackers Control Entire Network | Cybersphere Official | [Read More](https://medium.com/p/90499ea7bc5c) |
-| Sat, 23 May 2026 04:14:56 GMT | The Security Incident That Changed How I Look at Modern Development | Shiv Ghariwala | [Read More](https://medium.com/p/ea9f7ced3236) |
-| Sat, 23 May 2026 04:13:37 GMT | One OAuth Token. Massive Damage | Heet Karena | [Read More](https://medium.com/p/53e2ed2effcd) |
-| Sat, 23 May 2026 04:10:22 GMT | being vulnerable is exceptionally hard | Acasha Adair | [Read More](https://medium.com/p/49120464008b) |
-| Sat, 23 May 2026 04:03:42 GMT | ☎️ VoIP, SIP & Telecom Basics For Security Researchers — Inside The Scam Industry (Part 4) | ghostyjoe | [Read More](https://medium.com/p/c1b635ee84e0) |
-| Sat, 23 May 2026 04:01:36 GMT | 244,000 AI Developers Downloaded What They Thought Was OpenAI and It Stole Their Crypto Wallets and… | RadientBrain | [Read More](https://medium.com/p/a47e45b5a1a4) |
-| Sat, 23 May 2026 03:59:53 GMT | Cybersecurity Tips for Small Businesses | Vpshosting | [Read More](https://medium.com/p/b64c7f3df284) |
-| Sat, 23 May 2026 03:53:22 GMT | I Built a Complete Password-less Authentication, Authorization Framework— Here’s Why Passwords Are… | Parag Bagade | [Read More](https://medium.com/p/83ce3c46a18a) |
-| Sat, 23 May 2026 03:51:00 GMT | The Hidden Vulnerabilities: Third-Party and Supply Chain Risks in the Philippine Digital Economy | InfoSecDad | [Read More](https://medium.com/p/f98923dfe74c) |
-| Sat, 23 May 2026 03:50:51 GMT | Top Benefits of Hiring Vancouver Concierge Services | Grit Security | [Read More](https://medium.com/p/debc0469b20a) |
-| Sat, 23 May 2026 03:34:05 GMT | The AI Moat Problem in Cybersecurity Products | outofspace | [Read More](https://medium.com/p/edda0f283fce) |
-| Sat, 23 May 2026 03:04:30 GMT | Hackviser: Anchor Scenario- Penetration Testing Write-Up | Mshxxx | [Read More](https://medium.com/p/cbde18e56423) |
-| Sat, 23 May 2026 02:55:19 GMT | Top 5 Mistakes Small Businesses Make With Cybersecurity | Dureshahwar | [Read More](https://medium.com/p/7e86a9ba3645) |
-| Sat, 23 May 2026 02:49:38 GMT | Stop Googling Bash Syntax: The Only 50 Linux Commands You Actually Need to Know | The4byss | [Read More](https://medium.com/p/3c114789d57b) |
-| Sat, 23 May 2026 02:46:36 GMT | What is a Vulnerability Assessment and Why Your Business Needs One | Dureshahwar | [Read More](https://medium.com/p/4bc021a64dfe) |
-| Sat, 23 May 2026 02:14:20 GMT | 70+ AI FLAWS - AI Agent Coding Risks | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/4bf5d67cfab2) |
-| Sat, 23 May 2026 02:05:30 GMT | This is how i defeated 90% of infostealers in 5 minutes - Protecting Yourself | Unleashed.c | [Read More](https://medium.com/p/be459db7ea3b) |
-| Sat, 23 May 2026 02:03:31 GMT | Testing SQL Injection Using Google gemma4:31b-cloud on PortSwigger’s Vulnerable Shop | Bash Overflow | [Read More](https://medium.com/p/ef9dc05dd1aa) |
-| Sat, 23 May 2026 01:48:29 GMT | Passing the Web Red Team Analyst | The Husky Hacker | [Read More](https://medium.com/p/022c744f2457) |
-| Sat, 23 May 2026 01:21:00 GMT | Anxious Attachment Style and Infidelity: Why Men Feel Emotionally Drained and What to Do | Austi Gene | [Read More](https://medium.com/p/f4074f352640) |
-| Sat, 23 May 2026 00:54:59 GMT | The Next Financial Crisis May Be an Information Crisis | Insight Meter | [Read More](https://medium.com/p/e06525f4a5ea) |
-| Sat, 23 May 2026 00:20:26 GMT | Parking Security Guard Services California: Why Your Property Needs Professional Protection in 2026 | Matthew | [Read More](https://medium.com/p/e242065238a0) |
-| Fri, 22 May 2026 23:41:27 GMT | Is SQLI still exist in the wild ? 2 SQLI 0 $ | Ahmedsameh | [Read More](https://medium.com/p/c6efc3371af9) |
-| Fri, 22 May 2026 23:38:24 GMT | The Silo Problem Nobody In Cybersecurity Wants to Admit | Jan | [Read More](https://medium.com/p/0cd0709432a1) |
