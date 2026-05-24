@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 May 2026 13:57:28 GMT | The Cognitive Security Verification Framework | David at SenTeGuard | [Read More](https://medium.com/p/db4f2acd5891) |
+| Sun, 24 May 2026 13:50:42 GMT | The Browser Extension That Fixes What dApps Can’t: EIP-7702 Revocation Without a Server | Serge Kartanenkov | [Read More](https://medium.com/p/cfff1dcf6049) |
+| Sun, 24 May 2026 13:44:21 GMT | Breaking Authentication & Authorization Logic: A Real-World Auth Bypass leads to leak CEO-level… | Abhishek Kumar | [Read More](https://medium.com/p/3a3ce8f03dd7) |
+| Sun, 24 May 2026 13:36:43 GMT | HUMINT: The Art of Deception in Human Intelligence Collection | sqwrtick | [Read More](https://medium.com/p/820c66647774) |
+| Sun, 24 May 2026 13:31:46 GMT | I  can't pretend anymore | Preena_NR | [Read More](https://medium.com/p/75e6e56e8372) |
+| Sun, 24 May 2026 13:27:29 GMT | The Funeral of Contextual Empathy | Purnanshi Dalai | [Read More](https://medium.com/p/e1edad2d7ed8) |
+| Sun, 24 May 2026 13:19:18 GMT | 0day Room — TryHackMe CTF Writeup - Shellshock & Kernel Exploit | Arun1x | [Read More](https://medium.com/p/e6e643f3a2b6) |
+| Sun, 24 May 2026 13:09:50 GMT | Designing Secure, Compliant Multi-Agent AI System for Enterprise | Vicky’s Notes | [Read More](https://medium.com/p/4003ec8ade73) |
+| Sun, 24 May 2026 13:01:00 GMT | I Used to Tell People Prompt Engineering Was a Career. I Don’t Anymore. | Michael Murr | [Read More](https://medium.com/p/f2bf5b0b74dc) |
+| Sun, 24 May 2026 12:59:04 GMT | Python: Pentesting Scripts - TryHackMe - practical challenge | Jose Praveen | [Read More](https://medium.com/p/25598d802aa0) |
+| Sun, 24 May 2026 12:51:01 GMT | Stop Returning Database Entities in Spring Boot! | Mgaga Bongani | [Read More](https://medium.com/p/789c2211e142) |
+| Sun, 24 May 2026 12:48:17 GMT | How to secure API credentials in SFMC Engagement scripts? | Filip Bostik | [Read More](https://medium.com/p/1170d31cfd63) |
+| Sun, 24 May 2026 12:45:54 GMT | Shadow AI is More Than a Threat, it’s a Blind Spot in Your Stack | Mannat Kaushal | [Read More](https://medium.com/p/e052a55572a2) |
+| Sun, 24 May 2026 12:35:49 GMT | GEOINT Tools: The Practical Environment of Visual Intelligence | sqwrtick | [Read More](https://medium.com/p/139f767758a9) |
+| Sun, 24 May 2026 12:34:33 GMT | Web Cloaking y URL Filtering: Cómo engañar a los Guardianes de Internet | Hilariosasal | [Read More](https://medium.com/p/19dace01b494) |
+| Sun, 24 May 2026 12:33:55 GMT | Exploiting Metasploitable Part-2 (samba vulnerability) | Suyash Gargote | [Read More](https://medium.com/p/9ad2e94bae45) |
+| Sun, 24 May 2026 12:32:26 GMT | Top 27 Windows APIs for Shellcode Execution Every Red Teamer Must Know | COFFSec | [Read More](https://medium.com/p/095a244de690) |
+| Sun, 24 May 2026 12:29:22 GMT | The AI Didn’t Hack Your Company… It Simply Asked Nicely | Aditya Mangal | [Read More](https://medium.com/p/e5a8a3d3dce0) |
+| Sun, 24 May 2026 12:25:04 GMT | SOC Lab Rehberi Bölüm 6: Wazuh Dashboard ve İlk Agent Kurulumu | Güven Emre Keskin | [Read More](https://medium.com/p/4c032bb9aff1) |
+| Sun, 24 May 2026 12:06:51 GMT | AndroDialer — When a Phone App Lets Anyone Make Calls For It | Mohammed Ashraf | [Read More](https://medium.com/p/36f3ef579d75) |
+| Sun, 24 May 2026 12:04:34 GMT | CVE-2026–34473: Unauthenticated Denial of Service in ZTE Routers Affecting 17+ Models | Monx Research | [Read More](https://medium.com/p/76ab5ec806eb) |
+| Sun, 24 May 2026 12:04:28 GMT | When Try Again Later Still Means You Guessed Right: OLX Account Takeover | Monx Research | [Read More](https://medium.com/p/9ca3cb9dbbb4) |
 | Sun, 24 May 2026 12:01:00 GMT | I Told My Job Interviewer My Wife Had Cancer — Here’s What Happened | DK Kang | [Read More](https://medium.com/p/fe18873af647) |
 | Sun, 24 May 2026 11:53:47 GMT | SQL Injection UNION Attacks: Labs 4–6 
 PortSwigger Walkthrough - Umair Khan | Umair Khan | [Read More](https://medium.com/p/006f7550b31e) |
@@ -91,25 +113,3 @@ PortSwigger Walkthrough - Umair Khan | Umair Khan | [Read More](https://medium.c
 | Sun, 24 May 2026 06:02:25 GMT | Basics of Computer Networking: The Backbone of the Digital World | Siddhesh Ghatage | [Read More](https://medium.com/p/25837ab14f10) |
 | Sun, 24 May 2026 06:01:23 GMT | Walking An Application Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/3a8cb8d2fd1a) |
 | Sun, 24 May 2026 06:01:06 GMT | How Hackers Map Your Entire Network In 15 Minutes - A Step-by-Step Breakdown | rootRS7 | [Read More](https://medium.com/p/c98b909fae71) |
-| Sun, 24 May 2026 05:41:23 GMT | Finding and exploiting an unused API endpoint- PortSwigger | Ericmpta | [Read More](https://medium.com/p/1041b532f284) |
-| Sun, 24 May 2026 04:56:45 GMT | Why Linux Is the Foundation of Cybersecurity Learning | CyberRise Institute | [Read More](https://medium.com/p/1189ba0a0ad1) |
-| Sun, 24 May 2026 04:54:52 GMT | The Extraction Economy, Part 2: The Setup is the Scam. | Steven Gardner | [Read More](https://medium.com/p/cfa86336a348) |
-| Sun, 24 May 2026 04:36:35 GMT | My VPS got hacked ! | Ujval Gupta | [Read More](https://medium.com/p/c1c6450c08be) |
-| Sun, 24 May 2026 04:36:00 GMT | The Surprising Power of Admitting You’re Not Okay | Dan Foster | [Read More](https://medium.com/p/39116979d79f) |
-| Sun, 24 May 2026 04:03:48 GMT | Security Armageddon Is Here | Oleg Kabanov | [Read More](https://medium.com/p/e44141fb3914) |
-| Sun, 24 May 2026 04:02:45 GMT | My Web Scraping Projects | Yong Huang | [Read More](https://medium.com/p/460575b96a14) |
-| Sun, 24 May 2026 03:58:31 GMT | Penetration Testing pada Jaringan WiFi: Keamanan atau Pelanggaran Privasi? | Muhammad Fausta | [Read More](https://medium.com/p/bf0a8de55a39) |
-| Sun, 24 May 2026 03:57:42 GMT | HTB AI Challenge Writeup: Bribery Compliance — Bypassing an AI Agent Without Paying a Single Coin | Masum Kazi | [Read More](https://medium.com/p/0e3d091041a6) |
-| Sun, 24 May 2026 03:32:59 GMT | Project Glasswing: An initial update reads like a warning shot, not a progress report | Predrag | [Read More](https://medium.com/p/77781f6e9871) |
-| Sun, 24 May 2026 03:04:57 GMT | Browser Fingerprinting Is More Dangerous Than Cookies | Memionic | [Read More](https://medium.com/p/f0e0a0960099) |
-| Sun, 24 May 2026 03:02:51 GMT | “The Cockroach Janata Party” — A Satirical Reflection on Power, Corruption, and Constitutional… | Laws in History | [Read More](https://medium.com/p/c8f5d65bb1ad) |
-| Sun, 24 May 2026 03:01:43 GMT | How I Built My First Cross-Platform SIEM Pipeline (And the Mistakes I Made Along the Way) | FloGood | [Read More](https://medium.com/p/91ff21cc845b) |
-| Sun, 24 May 2026 03:01:00 GMT | Getting Started with Splunk — Analyzing VPN Logs with SPL | Juan Manuel Yepes | [Read More](https://medium.com/p/d456495c666b) |
-| Sun, 24 May 2026 02:51:13 GMT | Implementasi Hashing Pada Python | Muhammad Fauza Asfadani | [Read More](https://medium.com/p/a659a38741c7) |
-| Sun, 24 May 2026 02:51:00 GMT | REST (Representational State Transfer) | Gilang | [Read More](https://medium.com/p/0587aecca7b4) |
-| Sun, 24 May 2026 02:45:30 GMT | Deploying and Testing an OpenCanary Honeypot | Nicholas Palumbi | [Read More](https://medium.com/p/fa1393988438) |
-| Sun, 24 May 2026 02:24:35 GMT | Not Smart Enough? How Scam Platforms Devour Our Savings While We Stare at Our Screens | Naser Writes | [Read More](https://medium.com/p/080b948b4c43) |
-| Sun, 24 May 2026 02:19:49 GMT | Not Smart Enough? How Scam Platforms Devour Our Savings While We Stare at Our Screens | Naser Writes | [Read More](https://medium.com/p/6a2e5146fe5c) |
-| Sun, 24 May 2026 02:15:25 GMT | Why Others Need Therapy — But I’m Fine | Nick Holt, LCSW an CBT Therapist in West LA | [Read More](https://medium.com/p/aa0579821ad1) |
-| Sun, 24 May 2026 02:14:58 GMT | Modul Persiapan Sumatif Akhir Semester: Informatika Fase E | Muh. Alif Anhar | [Read More](https://medium.com/p/c649c72257a8) |
-| Sun, 24 May 2026 02:03:00 GMT | Protéger une API NestJS contre les attaques Slowloris : implémentation pas à pas | Ramiro kaffo | [Read More](https://medium.com/p/8c7b79d253b8) |
