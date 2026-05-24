@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 May 2026 18:29:35 GMT | The Axios attack lasted three hours. Here’s what I shipped before the AI-generated next one lands. | Gal Efraty | [Read More](https://medium.com/p/08ba500d092b) |
+| Sun, 24 May 2026 18:26:17 GMT | LLM Security 101: How AI Chatbots Can Be Tricked and How We Stay Safe | Umang | [Read More](https://medium.com/p/ba6374aa7224) |
+| Sun, 24 May 2026 18:22:01 GMT | Beyond Sneaky 2FA: A Fork That Added a Pre-Stage to Block Analysts | Daniel K | [Read More](https://medium.com/p/806647baa393) |
+| Sun, 24 May 2026 18:15:15 GMT | Printer Shares 3 - PicoCTF Challenge Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/a96799c496a7) |
+| Sun, 24 May 2026 18:08:57 GMT | From a Cracked Adobe Installer to a Leaked Directory Identifier — Solving an OSINT Challenge from… | Leroyedison | [Read More](https://medium.com/p/78588d412541) |
+| Sun, 24 May 2026 17:56:42 GMT | DevSecOps Basics (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/0fd249675e0d) |
+| Sun, 24 May 2026 17:55:32 GMT | SpiderFoot Tutorial: OSINT Information Gathering in Kali Linux | Learn With Hiba | [Read More](https://medium.com/p/b1117723a27b) |
+| Sun, 24 May 2026 17:50:08 GMT | Time-Based Blind SQL Injection in a Government Bus Booking Platform — Unauthenticated Access to… | Padmesh | [Read More](https://medium.com/p/4347c51b467d) |
+| Sun, 24 May 2026 17:40:46 GMT | From Da Vinci’s Mirror to Military-Grade Math: The Blueprint of Unbreakable Encryption
+​Have you… | Shannon Schoppema | [Read More](https://medium.com/p/d0f5b50ddaa6) |
+| Sun, 24 May 2026 17:40:09 GMT | ♤The Weight of the Mask♤
+​Whats it like being present, being the center of attraction, attention…. | Baidhau | [Read More](https://medium.com/p/9e86b9b1df22) |
+| Sun, 24 May 2026 17:39:00 GMT | API Rate Limiting in Django Using DRF Throttling and Redis Cooldown | Nikhil Jawalkar | [Read More](https://medium.com/p/0393f672942a) |
+| Sun, 24 May 2026 17:36:46 GMT | Hunting Android Lockscreen Bypasses on Pixel: A Campaign Walkthrough | Farhad Sajid Barbhuiya | [Read More](https://medium.com/p/8601f12f9963) |
+| Sun, 24 May 2026 17:36:41 GMT | I Built a Security Scanner for AI-Generated Code — Then Found Vulnerabilities in My Own Projects | Ayushiskhati | [Read More](https://medium.com/p/82974fc97e43) |
+| Sun, 24 May 2026 17:27:02 GMT | Agentic DevOps — Part 1 | Ketul Patel | [Read More](https://medium.com/p/2a9989c160ce) |
+| Sun, 24 May 2026 17:25:14 GMT | Understanding AI-Native Security (Part 1) | Raman Garg | [Read More](https://medium.com/p/27a51a4a8eef) |
+| Sun, 24 May 2026 17:21:10 GMT | Breaking The Wall: The Well of Love is Within | Cinta Berliana | [Read More](https://medium.com/p/eb70cecdadb7) |
+| Sun, 24 May 2026 17:17:10 GMT | Abusing Child-to-Parent Domain Trusts via ExtraSIDs Attack | Md Fahim Al Shihab | [Read More](https://medium.com/p/7ca45a161bd4) |
+| Sun, 24 May 2026 17:16:51 GMT | You Lost It in Tiny Bits — Here’s How You Get Your Life Back | Louisa Light | [Read More](https://medium.com/p/352b34e17b41) |
+| Sun, 24 May 2026 17:16:28 GMT | A Secret Key in Plain Sight:
+How I Earned My First $200 Finding a Hidden API Leak | Theankitsaini16 | [Read More](https://medium.com/p/97bd6b40dbb0) |
+| Sun, 24 May 2026 17:13:16 GMT | Hacking with Hexstrike MCP and Claude code & OpenCode | Nikhilur | [Read More](https://medium.com/p/5adaf25a3c15) |
 | Sun, 24 May 2026 16:45:04 GMT | Why Sunny Nehra Is Considered the Best Hacker in India? | CyberSecurity Informer | [Read More](https://medium.com/p/f92e3fa90c68) |
 | Sun, 24 May 2026 16:40:40 GMT | Windows System Monitoring: The Skill Most Beginners Ignore Until a System Crashes | Little_Sun4lower | [Read More](https://medium.com/p/7c0dedbdde54) |
 | Sun, 24 May 2026 16:39:43 GMT | Password Reset Links Are Not Normal Links: A React Security Mistake Junior Developers Often Miss | Abdulshakoor | [Read More](https://medium.com/p/c97d0205c9d5) |
@@ -43,6 +66,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 May 2026 14:50:37 GMT | Cybersecurity Trends in 2026: What Businesses Need to Know | Muhammad Tariq | [Read More](https://medium.com/p/6f94c3fb1400) |
 | Sun, 24 May 2026 14:44:30 GMT | Solving “Penetration Testing Frameworks” (TryHackMe) | rad0v | [Read More](https://medium.com/p/099e1730613a) |
 | Sun, 24 May 2026 14:37:44 GMT | Chasing Success at 2 AM | Mondalz | [Read More](https://medium.com/p/8d9b7fac898a) |
+| Sun, 24 May 2026 14:30:28 GMT | Apakah Melakukan Penetration Testing Tanpa Perizinan Boleh Menurut Hukum? | Demas | [Read More](https://medium.com/p/3c559c7e7298) |
 | Sun, 24 May 2026 14:26:03 GMT | Just shipped a major update for ghost0 Assistant — my local AI-powered penetration testing… | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/5e896594bbd0) |
 | Sun, 24 May 2026 14:24:24 GMT | How i found an ATTACK CHAIN and got CVE-2026–42558 | 0xRIXET - Mohammed Al-shehri | [Read More](https://medium.com/p/485e716605da) |
 | Sun, 24 May 2026 14:19:33 GMT | 7 Forgotten Tools That Are Still Extremely Important in Pentesting | networkdavit | [Read More](https://medium.com/p/2803d209a6d2) |
@@ -92,24 +116,3 @@ PortSwigger Walkthrough - Umair Khan | Umair Khan | [Read More](https://medium.c
 | Sun, 24 May 2026 10:53:23 GMT | 95% of AI pilots don’t work — and why that’s bad news, not good | Teymur Alizade | [Read More](https://medium.com/p/db833603fe0f) |
 | Sun, 24 May 2026 10:44:45 GMT | Stage 0.1 — Hardware Fundamentals | Rencberakman | [Read More](https://medium.com/p/a1ee22ce1597) |
 | Sun, 24 May 2026 10:44:38 GMT | LoRaWAN Gateway and Security Solutions in 2026: What Industrial Operators Need to Know | All Tech News | [Read More](https://medium.com/p/44ad895d793c) |
-| Sun, 24 May 2026 10:43:45 GMT | Introducing the Hackmetoo Portal: Where Cybersecurity Meets Practice | Erkan Kavas | [Read More](https://medium.com/p/1a3f1e41cae2) |
-| Sun, 24 May 2026 10:43:45 GMT | Streaming Multi-GB Files Directly to S3 — Without Storing Them on Disk | Shubham Soni | [Read More](https://medium.com/p/d4f44aa02820) |
-| Sun, 24 May 2026 10:38:03 GMT | How to Choose the Right IT and Digital Marketing Company in Ahmedabad for Business Growth | Bhudevitsolution | [Read More](https://medium.com/p/b15733fcc610) |
-| Sun, 24 May 2026 10:31:00 GMT | The Token That Conquered the Internet (And the Problems Nobody Warned You About) | The Fintech Engineer | [Read More](https://medium.com/p/3541efbff27f) |
-| Sun, 24 May 2026 10:22:16 GMT | AI Found Thousands of Zero-Days. Less Than 1% Are Patched. Here’s Why That’s Your Real Problem. | Tapendra Dev | [Read More](https://medium.com/p/31abe857407b) |
-| Sun, 24 May 2026 10:22:10 GMT | IMSI Catcher Tutorial 2026 - SS7 Network Vulnerabilities Explained | Pentester Club | [Read More](https://medium.com/p/fd3991a97682) |
-| Sun, 24 May 2026 10:19:30 GMT | Quantum-Proofing the Handshake: How Amazon Formally Verified ML-KEM at Scale | Rafal Ligmann | [Read More](https://medium.com/p/8239d0e55684) |
-| Sun, 24 May 2026 10:19:13 GMT | Socrates and Alcibiades: on Self-Work, Vulnerability and Responsibility | Burak Dindaroglu | [Read More](https://medium.com/p/951aa2639104) |
-| Sun, 24 May 2026 10:18:56 GMT | Cyberbiosecurity: When Human DNA Becomes a Cybersecurity Target | ychrgui amin | [Read More](https://medium.com/p/98e420fdce31) |
-| Sun, 24 May 2026 10:02:26 GMT | Что такое IPStresser и Stresser в 2026 году: Обзор лучших сервисов — IPStress.ST и Stressify.ST | Alexey Avilov | [Read More](https://medium.com/p/42c3621b052b) |
-| Sun, 24 May 2026 10:01:00 GMT | If I Had To Start Over, This is How I’d Learn Cybersecurity With NO Experience | Victoria Coker | [Read More](https://medium.com/p/2ed80826cd5b) |
-| Sun, 24 May 2026 09:55:37 GMT | TryHackMe Blueprint Machine Walkthrough | Asad Shamna | [Read More](https://medium.com/p/7b0e51b8b955) |
-| Sun, 24 May 2026 09:49:20 GMT | Shai Hulud 2.0: The Digital Plague That Infected the JavaScript Ecosystem | debtik journey | [Read More](https://medium.com/p/f561d19c9d6e) |
-| Sun, 24 May 2026 09:45:26 GMT | Understanding SQL Injection: Identifying Database Type, Enumerating Tables, and Extracting Schema… | Shobhit Gupta | [Read More](https://medium.com/p/ae03dfdf0272) |
-| Sun, 24 May 2026 09:45:12 GMT | The Security System | Aquin Labs | [Read More](https://medium.com/p/e73c835bdb69) |
-| Sun, 24 May 2026 09:39:26 GMT | My Recap from SAP Sapphire 2026 — A Vision to the future enterprise supported by AI agents | Victor Ho | [Read More](https://medium.com/p/a844715ff2b5) |
-| Sun, 24 May 2026 09:35:45 GMT | Raw teenage version of me | The Raw | [Read More](https://medium.com/p/d7189f547ba9) |
-| Sun, 24 May 2026 09:31:00 GMT | A Simple Edit That Paid $800: Tampering Developer Application Information. | xploiterr | [Read More](https://medium.com/p/820e3c2fe7d0) |
-| Sun, 24 May 2026 09:22:20 GMT | CRTO — 2026 Updated Exam Review and Guideline | Phyo WaThone Win | [Read More](https://medium.com/p/9753f05f131c) |
-| Sun, 24 May 2026 09:15:56 GMT | Six Months Ago Kubernetes Retired Ingress NGINX. An 18-Year-Old Bug Just Made That a Crisis. | Heinan Cabouly | [Read More](https://medium.com/p/05ce23640ff4) |
-| Sun, 24 May 2026 09:13:50 GMT | PIV Smart Card | Petersmuditha | [Read More](https://medium.com/p/eddb10494783) |
