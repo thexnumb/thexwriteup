@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 May 2026 19:52:56 GMT | Goodbye JWT? Welcome Branca & PASETO | Abhishek Mor | [Read More](https://medium.com/p/c9aa182c2784) |
+| Sun, 24 May 2026 19:51:12 GMT | Security is a collective responsibility | Josephinemotunrayo | [Read More](https://medium.com/p/d7c21efa607c) |
+| Sun, 24 May 2026 19:44:05 GMT | [CONFIDENCIAL] Pentest em App OutSystems: 7 vulnerabilidades | Lucas Soares | [Read More](https://medium.com/p/c8bc166352d2) |
+| Sun, 24 May 2026 19:36:00 GMT | API Pentesting - TryHackMe - practical challenge | Jose Praveen | [Read More](https://medium.com/p/00fceda3b56b) |
+| Sun, 24 May 2026 19:34:54 GMT | Your Phone Knows More About You Than Your Best Friend Does | Prithika | [Read More](https://medium.com/p/80a1b6b76867) |
+| Sun, 24 May 2026 19:34:40 GMT | From Visibility to Resilience: Why Traditional Cybersecurity Models Fail in OT | Abdul Khadir Mahamed | [Read More](https://medium.com/p/4387cce7d7a6) |
+| Sun, 24 May 2026 19:33:55 GMT | Explanation of Storm-Framework | Zxelzy | [Read More](https://medium.com/p/a18b0129a7a6) |
+| Sun, 24 May 2026 19:31:00 GMT | Why Your Default VPC is a Hacker’s Playground: Designing a Zero-Trust AWS Architecture | Pau Dang | [Read More](https://medium.com/p/7551102193cd) |
+| Sun, 24 May 2026 19:26:59 GMT | Rocks do not speak: about fathers and men | Sarahi L Garcia | [Read More](https://medium.com/p/b9adfa3a716a) |
+| Sun, 24 May 2026 19:21:40 GMT | How Are We Supposed to Use Crypto Now If It Keeps Getting Hacked? | Rabbit | [Read More](https://medium.com/p/78d1ea5069ea) |
+| Sun, 24 May 2026 19:16:57 GMT | Análise de Técnicas de Engenharia Social com o Social-Engineer Toolkit (SET) | Leonardo Ramos | [Read More](https://medium.com/p/1cc2b59f487e) |
+| Sun, 24 May 2026 19:12:54 GMT | LLM Wiki for My Security Research: YouTube, PDFs, Obsidian Graph | Sneh Bavarva | [Read More](https://medium.com/p/3ade1f14f1d2) |
+| Sun, 24 May 2026 19:11:04 GMT | Forests, Domains, Trees and OUs: The AD Hierarchy Every Security Pro Must Understand | Atharva Deshmukh | [Read More](https://medium.com/p/509992f76cf0) |
+| Sun, 24 May 2026 19:07:05 GMT | How a Simple Endpoint Exposed /etc/passwd via Path Traversal | Muhammed Asfan - Cybersecurity Researcher | [Read More](https://medium.com/p/a0982e9de5b5) |
+| Sun, 24 May 2026 19:04:42 GMT | All 7 OSI Layers Explained with Real-World Analogies | Roboticela | [Read More](https://medium.com/p/b191f18775ea) |
+| Sun, 24 May 2026 19:02:29 GMT | Someone Poisoned Laravel’s Most Trusted Packages. 233 Versions. 700 Repos. In 15 Minutes. | Abderahmane Merradou | [Read More](https://medium.com/p/e053d40538be) |
+| Sun, 24 May 2026 18:50:35 GMT | When Security Stops Saying No: How We Made Privacy the Default Without Slowing Anyone Down | Tzofiya Barzilay | [Read More](https://medium.com/p/e1ed09aa7834) |
+| Sun, 24 May 2026 18:49:18 GMT | What Is the OSI Model? The Complete Beginner’s Guide | Roboticela | [Read More](https://medium.com/p/9486b9d19599) |
+| Sun, 24 May 2026 18:46:49 GMT | WingData: HackTheBox Writeup (CVE-2025–47812 & CVE-2025–4517) | Anish | [Read More](https://medium.com/p/3a495ca92e00) |
+| Sun, 24 May 2026 18:40:19 GMT | API Tokens Explained: A Beginner’s Guide to JWT, OAuth, and More | Abrar Bin Habib | [Read More](https://medium.com/p/6ce41942b909) |
+| Sun, 24 May 2026 18:35:58 GMT | From Subdomain Enumeration to an Exposed Internal Configuration Panel | Salma Ashraf | [Read More](https://medium.com/p/3708df761dbc) |
 | Sun, 24 May 2026 18:29:35 GMT | The Axios attack lasted three hours. Here’s what I shipped before the AI-generated next one lands. | Gal Efraty | [Read More](https://medium.com/p/08ba500d092b) |
 | Sun, 24 May 2026 18:26:17 GMT | LLM Security 101: How AI Chatbots Can Be Tricked and How We Stay Safe | Umang | [Read More](https://medium.com/p/ba6374aa7224) |
 | Sun, 24 May 2026 18:22:01 GMT | Beyond Sneaky 2FA: A Fork That Added a Pre-Stage to Block Analysts | Daniel K | [Read More](https://medium.com/p/806647baa393) |
@@ -94,25 +115,3 @@ How I Earned My First $200 Finding a Hidden API Leak | Theankitsaini16 | [Read M
 | Sun, 24 May 2026 12:29:22 GMT | The AI Didn’t Hack Your Company… It Simply Asked Nicely | Aditya Mangal | [Read More](https://medium.com/p/e5a8a3d3dce0) |
 | Sun, 24 May 2026 12:25:04 GMT | SOC Lab Rehberi Bölüm 6: Wazuh Dashboard ve İlk Agent Kurulumu | Güven Emre Keskin | [Read More](https://medium.com/p/4c032bb9aff1) |
 | Sun, 24 May 2026 12:06:51 GMT | AndroDialer — When a Phone App Lets Anyone Make Calls For It | Mohammed Ashraf | [Read More](https://medium.com/p/36f3ef579d75) |
-| Sun, 24 May 2026 12:04:34 GMT | CVE-2026–34473: Unauthenticated Denial of Service in ZTE Routers Affecting 17+ Models | Monx Research | [Read More](https://medium.com/p/76ab5ec806eb) |
-| Sun, 24 May 2026 12:04:28 GMT | When Try Again Later Still Means You Guessed Right: OLX Account Takeover | Monx Research | [Read More](https://medium.com/p/9ca3cb9dbbb4) |
-| Sun, 24 May 2026 12:01:00 GMT | I Told My Job Interviewer My Wife Had Cancer — Here’s What Happened | DK Kang | [Read More](https://medium.com/p/fe18873af647) |
-| Sun, 24 May 2026 11:53:47 GMT | SQL Injection UNION Attacks: Labs 4–6 
-PortSwigger Walkthrough - Umair Khan | Umair Khan | [Read More](https://medium.com/p/006f7550b31e) |
-| Sun, 24 May 2026 11:46:21 GMT | The Hospital Helpdesk Is Dead: Long Live Digital Operations | Aaron Mathis | [Read More](https://medium.com/p/87fa261f97f9) |
-| Sun, 24 May 2026 11:43:24 GMT | MemLabs — Lab 3: The Evil’s Den | Busraugur | [Read More](https://medium.com/p/f5fe6512ec3d) |
-| Sun, 24 May 2026 11:41:56 GMT | Lab: Blind SSRF with Shellshock exploitation - SSRF #lab6 | PRiTi.EX | [Read More](https://medium.com/p/c70e8234339a) |
-| Sun, 24 May 2026 11:39:02 GMT | SEO Poisoning Targets AI Developers: Hunting the Gemini & Claude Infostealer | Varshil Desai | [Read More](https://medium.com/p/99897972299f) |
-| Sun, 24 May 2026 11:37:36 GMT | Supplemental Memory Walkthrough - By JasmineDH | Jasminedh | [Read More](https://medium.com/p/e1a383c614b8) |
-| Sun, 24 May 2026 11:35:23 GMT | Open-Source Model, a faster way to spread malicious software? | Vigneshwar Sivakumar | [Read More](https://medium.com/p/9f37bd9dd2be) |
-| Sun, 24 May 2026 11:31:07 GMT | I Have No Job, No Certs, and a Dream to Hack Things Legally. Here’s My Plan or Plah. | Sonal | [Read More](https://medium.com/p/8842b055bbe2) |
-| Sun, 24 May 2026 11:30:48 GMT | How We FoundVulnerabilities in a Linux Web Server Using Nessus | Fairy_Sleuth❤️‍ | [Read More](https://medium.com/p/dab51b500e90) |
-| Sun, 24 May 2026 11:30:13 GMT | Encrypted Database -CyberTalents Web Challenge | Wainainaalvin | [Read More](https://medium.com/p/5c5100443f17) |
-| Sun, 24 May 2026 11:28:23 GMT | How I Built an Active Directory Lab, Ran Real APT Attacks Against It, and Detected Everything in… | Leon Mata | [Read More](https://medium.com/p/0532ea98aebf) |
-| Sun, 24 May 2026 11:23:43 GMT | i watched a man cry as he read my poem | Sean Corcoran | [Read More](https://medium.com/p/64c247fbd8ba) |
-| Sun, 24 May 2026 11:20:02 GMT | How I Built a Microsoft Sentinel SOC Lab That Caught 200,000 Real Cyberattacks for $6.75 | Leon Mata | [Read More](https://medium.com/p/75db212d7e44) |
-| Sun, 24 May 2026 11:12:11 GMT | You Shipped the Agent. Who’s Testing Whether It Can Delete Production? | Genbounty Blog | [Read More](https://medium.com/p/83baca58e069) |
-| Sun, 24 May 2026 10:59:25 GMT | Update or not, that is the question | Tomáš Repčík | [Read More](https://medium.com/p/885cde247dac) |
-| Sun, 24 May 2026 10:53:23 GMT | 95% of AI pilots don’t work — and why that’s bad news, not good | Teymur Alizade | [Read More](https://medium.com/p/db833603fe0f) |
-| Sun, 24 May 2026 10:44:45 GMT | Stage 0.1 — Hardware Fundamentals | Rencberakman | [Read More](https://medium.com/p/a1ee22ce1597) |
-| Sun, 24 May 2026 10:44:38 GMT | LoRaWAN Gateway and Security Solutions in 2026: What Industrial Operators Need to Know | All Tech News | [Read More](https://medium.com/p/44ad895d793c) |
