@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 May 2026 10:44:45 GMT | Stage 0.1 — Hardware Fundamentals | Rencberakman | [Read More](https://medium.com/p/a1ee22ce1597) |
+| Sun, 24 May 2026 10:44:38 GMT | LoRaWAN Gateway and Security Solutions in 2026: What Industrial Operators Need to Know | All Tech News | [Read More](https://medium.com/p/44ad895d793c) |
+| Sun, 24 May 2026 10:43:45 GMT | Introducing the Hackmetoo Portal: Where Cybersecurity Meets Practice | Erkan Kavas | [Read More](https://medium.com/p/1a3f1e41cae2) |
+| Sun, 24 May 2026 10:43:45 GMT | Streaming Multi-GB Files Directly to S3 — Without Storing Them on Disk | Shubham Soni | [Read More](https://medium.com/p/d4f44aa02820) |
+| Sun, 24 May 2026 10:38:03 GMT | How to Choose the Right IT and Digital Marketing Company in Ahmedabad for Business Growth | Bhudevitsolution | [Read More](https://medium.com/p/b15733fcc610) |
+| Sun, 24 May 2026 10:31:00 GMT | The Token That Conquered the Internet (And the Problems Nobody Warned You About) | The Fintech Engineer | [Read More](https://medium.com/p/3541efbff27f) |
+| Sun, 24 May 2026 10:22:16 GMT | AI Found Thousands of Zero-Days. Less Than 1% Are Patched. Here’s Why That’s Your Real Problem. | Tapendra Dev | [Read More](https://medium.com/p/31abe857407b) |
+| Sun, 24 May 2026 10:22:10 GMT | IMSI Catcher Tutorial 2026 - SS7 Network Vulnerabilities Explained | Pentester Club | [Read More](https://medium.com/p/fd3991a97682) |
+| Sun, 24 May 2026 10:19:30 GMT | Quantum-Proofing the Handshake: How Amazon Formally Verified ML-KEM at Scale | Rafal Ligmann | [Read More](https://medium.com/p/8239d0e55684) |
+| Sun, 24 May 2026 10:19:13 GMT | Socrates and Alcibiades: on Self-Work, Vulnerability and Responsibility | Burak Dindaroglu | [Read More](https://medium.com/p/951aa2639104) |
+| Sun, 24 May 2026 10:18:56 GMT | Cyberbiosecurity: When Human DNA Becomes a Cybersecurity Target | ychrgui amin | [Read More](https://medium.com/p/98e420fdce31) |
+| Sun, 24 May 2026 10:02:26 GMT | Что такое IPStresser и Stresser в 2026 году: Обзор лучших сервисов — IPStress.ST и Stressify.ST | Alexey Avilov | [Read More](https://medium.com/p/42c3621b052b) |
+| Sun, 24 May 2026 10:01:00 GMT | If I Had To Start Over, This is How I’d Learn Cybersecurity With NO Experience | Victoria Coker | [Read More](https://medium.com/p/2ed80826cd5b) |
+| Sun, 24 May 2026 09:55:37 GMT | TryHackMe Blueprint Machine Walkthrough | Asad Shamna | [Read More](https://medium.com/p/7b0e51b8b955) |
+| Sun, 24 May 2026 09:49:20 GMT | Shai Hulud 2.0: The Digital Plague That Infected the JavaScript Ecosystem | debtik journey | [Read More](https://medium.com/p/f561d19c9d6e) |
+| Sun, 24 May 2026 09:45:26 GMT | Understanding SQL Injection: Identifying Database Type, Enumerating Tables, and Extracting Schema… | Shobhit Gupta | [Read More](https://medium.com/p/ae03dfdf0272) |
+| Sun, 24 May 2026 09:45:12 GMT | The Security System | Aquin Labs | [Read More](https://medium.com/p/e73c835bdb69) |
+| Sun, 24 May 2026 09:39:26 GMT | My Recap from SAP Sapphire 2026 — A Vision to the future enterprise supported by AI agents | Victor Ho | [Read More](https://medium.com/p/a844715ff2b5) |
+| Sun, 24 May 2026 09:35:45 GMT | Raw teenage version of me | The Raw | [Read More](https://medium.com/p/d7189f547ba9) |
+| Sun, 24 May 2026 09:31:00 GMT | A Simple Edit That Paid $800: Tampering Developer Application Information. | xploiterr | [Read More](https://medium.com/p/820e3c2fe7d0) |
 | Sun, 24 May 2026 09:22:20 GMT | CRTO — 2026 Updated Exam Review and Guideline | Phyo WaThone Win | [Read More](https://medium.com/p/9753f05f131c) |
 | Sun, 24 May 2026 09:15:56 GMT | Six Months Ago Kubernetes Retired Ingress NGINX. An 18-Year-Old Bug Just Made That a Crisis. | Heinan Cabouly | [Read More](https://medium.com/p/05ce23640ff4) |
 | Sun, 24 May 2026 09:13:50 GMT | PIV Smart Card | Petersmuditha | [Read More](https://medium.com/p/eddb10494783) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 May 2026 21:46:00 GMT | Shadow AI Anatomy: How Malicious AI Browser Extensions Can Exfiltrate Enterprise Code | Axiom Architect | [Read More](https://medium.com/p/52be5cc45129) |
 | Sat, 23 May 2026 21:42:38 GMT | ShadowGate  - Hack Smarter Labs Walkthrough | WireHawk Security | [Read More](https://medium.com/p/0cfd63281a5a) |
 | Sat, 23 May 2026 21:36:29 GMT | DCMTK — Vulnerability Report | Faboherrera Fabo | [Read More](https://medium.com/p/201afc687790) |
-| Sat, 23 May 2026 21:18:58 GMT | The Two Security Frameworks Every Tech Person Should Actually Understand | Farida Ismail | [Read More](https://medium.com/p/26aa68668c97) |
-| Sat, 23 May 2026 21:17:00 GMT | Not Evil Search Engine 2026 — Why Tor Users Still Use It | onion links | [Read More](https://medium.com/p/b2a51849ca66) |
-| Sat, 23 May 2026 21:15:52 GMT | Kubernetes Security Mistakes That Hackers Love (And How to Fix Them Before They Cost You) | Jaswinder Kumar | [Read More](https://medium.com/p/7146fd19b850) |
-| Sat, 23 May 2026 21:15:32 GMT | The myth that AI is an objective, neutral observer is the biggest risk we face in the boardroom… | Greatsteph | [Read More](https://medium.com/p/1292dfb80d84) |
-| Sat, 23 May 2026 20:21:32 GMT | Web Cache Deception : Comment j’ai volé la clé API d’un utilisateur avec Burp Suite | Gerard lonzi | [Read More](https://medium.com/p/9bede6cf963f) |
-| Sat, 23 May 2026 20:11:24 GMT | Scalable Security Risk Analysis of n8n Connectors/Nodes | Vikrant K | [Read More](https://medium.com/p/1974f84af891) |
-| Sat, 23 May 2026 20:09:27 GMT | GIAC Certified Forensics Examiner (GCFE) Certification as my first GIAC certification | Chicken0248 | [Read More](https://medium.com/p/8f8d8dd8765e) |
-| Sat, 23 May 2026 19:50:12 GMT | Dog Unit Security | Dynamic security solution ltd | [Read More](https://medium.com/p/21d0f79436bf) |
-| Sat, 23 May 2026 19:45:52 GMT | 10 Underrated Google I/O 2026 Announcements That Could Change How We Work | Sandaruwan Shanaka | [Read More](https://medium.com/p/0919d2b7d0e0) |
-| Sat, 23 May 2026 19:44:33 GMT | Your First Android Bug Bounty Report: From Finding to Payout in 2025 | Akifkhan | [Read More](https://medium.com/p/444cb4888bcd) |
-| Sat, 23 May 2026 19:41:00 GMT | Networking Fundamentals: Into to LAN, Walkthrough by Arafat Ashrafi Talha | Arafat Ashrafi Talha | [Read More](https://medium.com/p/9b43b0d28e77) |
-| Sat, 23 May 2026 19:39:47 GMT | The Truth About EZVIZ Cameras After Months of Real Use | Corsario Negro | [Read More](https://medium.com/p/f0d24ee604e9) |
-| Sat, 23 May 2026 19:38:14 GMT | How GA MARS – Digital Trust Lab Combines Digital Forensics and Recovery Networks to Combat Crypto… | GAMARS-Digital Trust Lab | [Read More](https://medium.com/p/e3e2ea62a258) |
-| Sat, 23 May 2026 19:30:12 GMT | I’m Building a SaaS With No Engineering Background — Here’s the Exact Stack I’m Using | Echolynk Company | [Read More](https://medium.com/p/2a3ee39adfdb) |
-| Sat, 23 May 2026 19:28:50 GMT | We Built a Fake Dental Practice to Find Out Where Real Ones Lose Money — Here’s What We Found | Echolynk Company | [Read More](https://medium.com/p/3af5a1a1cddf) |
-| Sat, 23 May 2026 19:18:29 GMT | The FBI Warns Your Wi-Fi Router Might Already Be Hacked | Sheetal Ghurka | [Read More](https://medium.com/p/f018e8b41437) |
-| Sat, 23 May 2026 19:11:00 GMT | Exposing a Critical Uniswap V4 Hook Flaw: Cross-Pool Invariant Manipulation | Hacker MD | [Read More](https://medium.com/p/7063e344ecac) |
-| Sat, 23 May 2026 19:01:00 GMT | Offsec’s “Sorcerer” [Medium] | solitude | [Read More](https://medium.com/p/44036e091a9a) |
-| Sat, 23 May 2026 18:59:06 GMT | How Hybrid Encryption Taught Me What Real Backend Security Looks Like | Manvendra Holkar | [Read More](https://medium.com/p/72fbd27a3c17) |
-| Sat, 23 May 2026 18:56:24 GMT | Business Logic Vulnerabilities — From Price Tampering to Expert-Level Parser Attacks | Nilanjan Chowdhury | [Read More](https://medium.com/p/622b378963c2) |
