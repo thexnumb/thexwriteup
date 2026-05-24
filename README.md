@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 May 2026 21:09:36 GMT | Anthropic’s Secret AI Found 10,000 Software Bugs. Only 97 Are Fixed. | Sumitdahiya | [Read More](https://medium.com/p/375848d62f66) |
+| Sun, 24 May 2026 21:06:27 GMT | How I Found a Permanent Account Takeover Through SSO Account Linking Misconfiguration | El Professor Qais | [Read More](https://medium.com/p/3f2df3857f92) |
+| Sun, 24 May 2026 21:01:00 GMT | AI That Turns Scattered Company Info Into Instant Answers | Janet Lam | [Read More](https://medium.com/p/179acb3946bb) |
+| Sun, 24 May 2026 20:59:15 GMT | Defending the Information Mirage: Securing the Model Context Protocol (MCP) in Agentic Autonomous… | saikrishna G.S | [Read More](https://medium.com/p/5b65ec7f0c91) |
+| Sun, 24 May 2026 20:57:01 GMT | Amaterasu - ProvingGrounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/7046c300da60) |
+| Sun, 24 May 2026 20:55:11 GMT | CYBERTALENTS CTF : “This is Sparta” write up. | OwL | [Read More](https://medium.com/p/a006f2e04ff0) |
+| Sun, 24 May 2026 20:42:52 GMT | What If Time Was No Longer Linear? | Virginie GUIGNARD-LEGROS | [Read More](https://medium.com/p/d5517b38cf6d) |
+| Sun, 24 May 2026 20:40:34 GMT | How a $10 USB Drive Defeated a Million-Dollar Firewall | The4byss | [Read More](https://medium.com/p/0068d09e3228) |
+| Sun, 24 May 2026 20:29:47 GMT | The Ultimate MPC Showdown: Why Your Crypto Needs Crossbar’s Physical Security Revolution | Zackmendel | [Read More](https://medium.com/p/047eced94b6d) |
+| Sun, 24 May 2026 20:22:34 GMT | I Built a Home Lab and SIEM From Scratch. Here’s How. | Naana Sarkodie | [Read More](https://medium.com/p/4f45d1a15bee) |
+| Sun, 24 May 2026 20:19:36 GMT | Searching for Malware on your computer | Quisa | [Read More](https://medium.com/p/47a2d2be2a4c) |
+| Sun, 24 May 2026 20:17:28 GMT | ContAInment a Ransomware Threat · AI Security · TryHackMe Walkthrough | Rajesh Sudam | [Read More](https://medium.com/p/b11669562c8f) |
+| Sun, 24 May 2026 20:16:00 GMT | The Complexity Ceiling: Where Microsoft Power Apps Needs to Evolve for Complex Development | Alan Bonnici | [Read More](https://medium.com/p/d8a018306c4b) |
+| Sun, 24 May 2026 20:11:00 GMT | Devoured by Bots: How a Missing Parameter Enabled 100% MEV Leakage in a DeFi Zap Contract | Hacker MD | [Read More](https://medium.com/p/e5f9e835dad2) |
+| Sun, 24 May 2026 20:09:43 GMT | JWT Isn’t Perfect | Abhishek Mor | [Read More](https://medium.com/p/1f289a499d33) |
 | Sun, 24 May 2026 19:52:56 GMT | Goodbye JWT? Welcome Branca & PASETO | Abhishek Mor | [Read More](https://medium.com/p/c9aa182c2784) |
 | Sun, 24 May 2026 19:51:12 GMT | Security is a collective responsibility | Josephinemotunrayo | [Read More](https://medium.com/p/d7c21efa607c) |
 | Sun, 24 May 2026 19:44:05 GMT | [CONFIDENCIAL] Pentest em App OutSystems: 7 vulnerabilidades | Lucas Soares | [Read More](https://medium.com/p/c8bc166352d2) |
@@ -100,18 +115,3 @@ How I Earned My First $200 Finding a Hidden API Leak | Theankitsaini16 | [Read M
 | Sun, 24 May 2026 13:44:21 GMT | Breaking Authentication & Authorization Logic: A Real-World Auth Bypass leads to leak CEO-level… | Abhishek Kumar | [Read More](https://medium.com/p/3a3ce8f03dd7) |
 | Sun, 24 May 2026 13:36:43 GMT | HUMINT: The Art of Deception in Human Intelligence Collection | sqwrtick | [Read More](https://medium.com/p/820c66647774) |
 | Sun, 24 May 2026 13:31:46 GMT | I  can't pretend anymore | Preena_NR | [Read More](https://medium.com/p/75e6e56e8372) |
-| Sun, 24 May 2026 13:27:29 GMT | The Funeral of Contextual Empathy | Purnanshi Dalai | [Read More](https://medium.com/p/e1edad2d7ed8) |
-| Sun, 24 May 2026 13:19:18 GMT | 0day Room — TryHackMe CTF Writeup - Shellshock & Kernel Exploit | Arun1x | [Read More](https://medium.com/p/e6e643f3a2b6) |
-| Sun, 24 May 2026 13:09:50 GMT | Designing Secure, Compliant Multi-Agent AI System for Enterprise | Vicky’s Notes | [Read More](https://medium.com/p/4003ec8ade73) |
-| Sun, 24 May 2026 13:01:00 GMT | I Used to Tell People Prompt Engineering Was a Career. I Don’t Anymore. | Michael Murr | [Read More](https://medium.com/p/f2bf5b0b74dc) |
-| Sun, 24 May 2026 12:59:04 GMT | Python: Pentesting Scripts - TryHackMe - practical challenge | Jose Praveen | [Read More](https://medium.com/p/25598d802aa0) |
-| Sun, 24 May 2026 12:51:01 GMT | Stop Returning Database Entities in Spring Boot! | Mgaga Bongani | [Read More](https://medium.com/p/789c2211e142) |
-| Sun, 24 May 2026 12:48:17 GMT | How to secure API credentials in SFMC Engagement scripts? | Filip Bostik | [Read More](https://medium.com/p/1170d31cfd63) |
-| Sun, 24 May 2026 12:45:54 GMT | Shadow AI is More Than a Threat, it’s a Blind Spot in Your Stack | Mannat Kaushal | [Read More](https://medium.com/p/e052a55572a2) |
-| Sun, 24 May 2026 12:35:49 GMT | GEOINT Tools: The Practical Environment of Visual Intelligence | sqwrtick | [Read More](https://medium.com/p/139f767758a9) |
-| Sun, 24 May 2026 12:34:33 GMT | Web Cloaking y URL Filtering: Cómo engañar a los Guardianes de Internet | Hilariosasal | [Read More](https://medium.com/p/19dace01b494) |
-| Sun, 24 May 2026 12:33:55 GMT | Exploiting Metasploitable Part-2 (samba vulnerability) | Suyash Gargote | [Read More](https://medium.com/p/9ad2e94bae45) |
-| Sun, 24 May 2026 12:32:26 GMT | Top 27 Windows APIs for Shellcode Execution Every Red Teamer Must Know | COFFSec | [Read More](https://medium.com/p/095a244de690) |
-| Sun, 24 May 2026 12:29:22 GMT | The AI Didn’t Hack Your Company… It Simply Asked Nicely | Aditya Mangal | [Read More](https://medium.com/p/e5a8a3d3dce0) |
-| Sun, 24 May 2026 12:25:04 GMT | SOC Lab Rehberi Bölüm 6: Wazuh Dashboard ve İlk Agent Kurulumu | Güven Emre Keskin | [Read More](https://medium.com/p/4c032bb9aff1) |
-| Sun, 24 May 2026 12:06:51 GMT | AndroDialer — When a Phone App Lets Anyone Make Calls For It | Mohammed Ashraf | [Read More](https://medium.com/p/36f3ef579d75) |
