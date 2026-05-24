@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 May 2026 09:22:20 GMT | CRTO — 2026 Updated Exam Review and Guideline | Phyo WaThone Win | [Read More](https://medium.com/p/9753f05f131c) |
+| Sun, 24 May 2026 09:15:56 GMT | Six Months Ago Kubernetes Retired Ingress NGINX. An 18-Year-Old Bug Just Made That a Crisis. | Heinan Cabouly | [Read More](https://medium.com/p/05ce23640ff4) |
+| Sun, 24 May 2026 09:13:50 GMT | PIV Smart Card | Petersmuditha | [Read More](https://medium.com/p/eddb10494783) |
+| Sun, 24 May 2026 08:59:53 GMT | TryHackMe Walkthrough — Task 8 Write-Up (Radare2) | natuser | [Read More](https://medium.com/p/d96b7cdb49c2) |
+| Sun, 24 May 2026 08:58:01 GMT | Understanding RAG (Retrieval-Augmented Generation) — The Beginner’s Gateway to AI Context… | Logic Ladder With Sachin | [Read More](https://medium.com/p/8b8b1387281d) |
+| Sun, 24 May 2026 08:57:17 GMT | The Rise of “Breach Alpha”: How Wall Street Weaponized the Cybersecurity Crisis | CyDhaal | [Read More](https://medium.com/p/70d449e840a8) |
+| Sun, 24 May 2026 08:52:34 GMT | Building LNAudit: A Configuration Scanner for Lightning Infrastructure | Chinonso  Amadi | [Read More](https://medium.com/p/32d181ffc42d) |
+| Sun, 24 May 2026 08:52:24 GMT | Active Directory Explained: What It Is, Why It Exists, and Why Attackers Love It | Atharva Deshmukh | [Read More](https://medium.com/p/84f9b8f9a523) |
+| Sun, 24 May 2026 08:49:40 GMT | Your Key, Your Kingdom | Coopa Assistant | [Read More](https://medium.com/p/0b385a6a9843) |
+| Sun, 24 May 2026 08:38:34 GMT | Nirmala Sitharaman called an emergency meeting because of a Chatbot nobody is allowed to use. | Aryan Raj | [Read More](https://medium.com/p/be83ccba92ef) |
+| Sun, 24 May 2026 08:38:22 GMT | PolinRider Malware Campaign on GitHub | debtik journey | [Read More](https://medium.com/p/044bac1a1174) |
+| Sun, 24 May 2026 08:34:59 GMT | How I Bypassed Open Redirect Validation in a Logout Endpoint | Aryah | [Read More](https://medium.com/p/f23ef323b799) |
+| Sun, 24 May 2026 08:33:36 GMT | Parola vs. Şifre: The Common Tech Mistake You Are Probably Making | Halil Özel | [Read More](https://medium.com/p/ae840421d9ff) |
+| Sun, 24 May 2026 08:25:22 GMT | Why we need truly anonymous chat apps in 2026 (And how I built one) | Rehankumarsahu | [Read More](https://medium.com/p/7535750ec769) |
+| Sun, 24 May 2026 08:23:28 GMT | Dive Into Pentesting — Jr Penetration Tester Path (Part 2) | Parthasarathi M R | [Read More](https://medium.com/p/b051ecffc597) |
+| Sun, 24 May 2026 08:22:20 GMT | What Symantec’s Journey Teaches About Cybersecurity Leadership | David SEHYEON Baek | [Read More](https://medium.com/p/d6273d92a536) |
+| Sun, 24 May 2026 08:14:40 GMT | Diploma in Cyber Security — 1 Year Program | Forensic Academy | [Read More](https://medium.com/p/4946a4974e2d) |
+| Sun, 24 May 2026 08:10:40 GMT | The Role of Privacy Search in Anonymous Browsing | onion links | [Read More](https://medium.com/p/fa988a7ac579) |
+| Sun, 24 May 2026 07:52:31 GMT | Race Condition Leading to Quota Bypass and Unlimited Resource Creation | z3r0-hunter | [Read More](https://medium.com/p/5f39c2d35127) |
+| Sun, 24 May 2026 07:42:06 GMT | AasPass: A lightweight, local-first password vault for developers | Unlikelycreator | [Read More](https://medium.com/p/a3fb7204a937) |
+| Sun, 24 May 2026 07:28:23 GMT | Beyond the Firewall: Simulating a Full Enterprise Kill Chain from Phishing to Honeypot Detection | Amaima | [Read More](https://medium.com/p/81369ef62160) |
 | Sun, 24 May 2026 07:20:46 GMT | The State of AI in Pakistan: Talent, Tooling, and Truth | Hussain Shahbaz Khawaja | [Read More](https://medium.com/p/683cada7ad96) |
 | Sun, 24 May 2026 07:18:32 GMT | Why AI Agents Keep Wiping Databases and Leaking Data | Christian Koch | [Read More](https://medium.com/p/10041982d325) |
 | Sun, 24 May 2026 07:16:50 GMT | Latest Cybersecurity Threats to Watch: Practical Risks for Everyday Users and Small Teams | Amit Chavan | [Read More](https://medium.com/p/60fc000e26d9) |
@@ -91,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 23 May 2026 19:01:00 GMT | Offsec’s “Sorcerer” [Medium] | solitude | [Read More](https://medium.com/p/44036e091a9a) |
 | Sat, 23 May 2026 18:59:06 GMT | How Hybrid Encryption Taught Me What Real Backend Security Looks Like | Manvendra Holkar | [Read More](https://medium.com/p/72fbd27a3c17) |
 | Sat, 23 May 2026 18:56:24 GMT | Business Logic Vulnerabilities — From Price Tampering to Expert-Level Parser Attacks | Nilanjan Chowdhury | [Read More](https://medium.com/p/622b378963c2) |
-| Sat, 23 May 2026 18:55:04 GMT | Neredeyse Herkesin Yaptığı 5 Siber Güvenlik Hatası | Serap Rabia Akarsu | [Read More](https://medium.com/p/2dcf6a6a77be) |
-| Sat, 23 May 2026 18:49:15 GMT | Introducing the SOCFortress WAF Management Platform | SOCFortress | [Read More](https://medium.com/p/6ac41581a9fc) |
-| Sat, 23 May 2026 18:22:49 GMT | ContainMe TryHackMe Walkthrough | Death Esther | [Read More](https://medium.com/p/8740cd4f8166) |
-| Sat, 23 May 2026 18:22:06 GMT | Phishing Is Increasing: Why the Oldest Cyberattack Is Becoming More Dangerous | Karthick Ganapathy | [Read More](https://medium.com/p/7aa668cc77af) |
-| Sat, 23 May 2026 18:20:45 GMT | Day 9: Network Scanning — Moving From Passive Maps to Active Probing | Adarsh Vardhan | [Read More](https://medium.com/p/eabafcf180d6) |
-| Sat, 23 May 2026 18:18:43 GMT | Top 5 SD-WAN Security Features Every Business Needs in 2026 | Shailendra Prajapati | [Read More](https://medium.com/p/f0b090a61a9f) |
-| Sat, 23 May 2026 18:18:23 GMT | Defense in Depth: Why Layering Your Security Is No Longer Optional | Rasulkazimov | [Read More](https://medium.com/p/c3ac91935391) |
-| Sat, 23 May 2026 18:12:40 GMT | How Cybercriminals Trick People Online
-Understanding Phishing, Vishing, and Other Common Online… | Louiarmah | [Read More](https://medium.com/p/9ca55b14789e) |
-| Sat, 23 May 2026 17:59:54 GMT | SS7 & GR-GSM Explained - Telecom Security Research | Pentester Club | [Read More](https://medium.com/p/c484ba6cac62) |
-| Sat, 23 May 2026 17:58:54 GMT | Hackers Didn’t Hack Tinder. They Called an Employee and Asked for the Password. | Jazz Cyber Shield | [Read More](https://medium.com/p/4bddef4b80c2) |
-| Sat, 23 May 2026 17:56:51 GMT | XSS: Enjeksiyondan Kör Atağa
-Bir Saldırganın Not Defteri | Buraktekcan | [Read More](https://medium.com/p/461c4ac048e0) |
-| Sat, 23 May 2026 17:48:01 GMT | The Upside of Enshittification | Andrew Jaye | [Read More](https://medium.com/p/b7cf156146b1) |
-| Sat, 23 May 2026 17:46:56 GMT | Hacker101 CTF — Micro-CMS v2 Walkthrough: SQLi, XSS, and Broken Access Control | Mohamed Atef | [Read More](https://medium.com/p/ed76eb78abfd) |
-| Sat, 23 May 2026 17:42:13 GMT | Vibe Mailing - You Think You're Sending Email. You're Actually Pulling the Trigger. | Syed Raiyan | [Read More](https://medium.com/p/e60ac948ed04) |
-| Sat, 23 May 2026 17:19:24 GMT | How I Found a Reflected XSS in Just 2 Minutes | Satyasaiuppala | [Read More](https://medium.com/p/5c0ace0f8603) |
-| Sat, 23 May 2026 17:17:57 GMT | Hacking Into A Server Through SMB Backdoor: A Practical Walkthrough | Red | [Read More](https://medium.com/p/e6210a6a92c3) |
-| Sat, 23 May 2026 17:17:42 GMT | Why My 100% Proof Met a 0% Bounty: The WordPress REST API Trap | Kakashi | [Read More](https://medium.com/p/084ec24d503b) |
-| Sat, 23 May 2026 17:14:11 GMT | Is the World not letting us feel? | MightAsWellWriteAboutIt | [Read More](https://medium.com/p/b3820b39dac3) |
-| Sat, 23 May 2026 17:08:13 GMT | Opinion Piece: Your normal broadcast has been interrupted for this important public safety… | Nige Hughes | [Read More](https://medium.com/p/c60f5d1105df) |
-| Sat, 23 May 2026 17:01:22 GMT | How I Passed the eJPT Exam in 2026 — My Full Experience And What I Think About It. | cyb3rb0y | [Read More](https://medium.com/p/c81431ff7c2e) |
-| Sat, 23 May 2026 16:52:36 GMT | Dive Into Pentesting — TryHackMe Walkthrough | Mahmoudaltawel | [Read More](https://medium.com/p/353fb93e7aca) |
