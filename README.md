@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 May 2026 03:32:59 GMT | Project Glasswing: An initial update reads like a warning shot, not a progress report | Predrag | [Read More](https://medium.com/p/77781f6e9871) |
+| Sun, 24 May 2026 03:04:57 GMT | Browser Fingerprinting Is More Dangerous Than Cookies | Memionic | [Read More](https://medium.com/p/f0e0a0960099) |
+| Sun, 24 May 2026 03:02:51 GMT | “The Cockroach Janata Party” — A Satirical Reflection on Power, Corruption, and Constitutional… | Laws in History | [Read More](https://medium.com/p/c8f5d65bb1ad) |
+| Sun, 24 May 2026 03:01:43 GMT | How I Built My First Cross-Platform SIEM Pipeline (And the Mistakes I Made Along the Way) | FloGood | [Read More](https://medium.com/p/91ff21cc845b) |
+| Sun, 24 May 2026 03:01:00 GMT | Getting Started with Splunk — Analyzing VPN Logs with SPL | Juan Manuel Yepes | [Read More](https://medium.com/p/d456495c666b) |
+| Sun, 24 May 2026 02:51:00 GMT | REST (Representational State Transfer) | Gilang | [Read More](https://medium.com/p/0587aecca7b4) |
+| Sun, 24 May 2026 02:45:30 GMT | Deploying and Testing an OpenCanary Honeypot | Nicholas Palumbi | [Read More](https://medium.com/p/fa1393988438) |
+| Sun, 24 May 2026 02:24:35 GMT | Not Smart Enough? How Scam Platforms Devour Our Savings While We Stare at Our Screens | Naser Writes | [Read More](https://medium.com/p/080b948b4c43) |
+| Sun, 24 May 2026 02:19:49 GMT | Not Smart Enough? How Scam Platforms Devour Our Savings While We Stare at Our Screens | Naser Writes | [Read More](https://medium.com/p/6a2e5146fe5c) |
+| Sun, 24 May 2026 02:15:25 GMT | Why Others Need Therapy — But I’m Fine | Nick Holt, LCSW an CBT Therapist in West LA | [Read More](https://medium.com/p/aa0579821ad1) |
+| Sun, 24 May 2026 02:14:58 GMT | Modul Persiapan Sumatif Akhir Semester: Informatika Fase E | Muh. Alif Anhar | [Read More](https://medium.com/p/c649c72257a8) |
+| Sun, 24 May 2026 02:03:00 GMT | Protéger une API NestJS contre les attaques Slowloris : implémentation pas à pas | Ramiro kaffo | [Read More](https://medium.com/p/8c7b79d253b8) |
+| Sun, 24 May 2026 02:01:40 GMT | Introducing The Crossbar MPC Wallet | Zackmendel | [Read More](https://medium.com/p/a493e857fe5a) |
+| Sun, 24 May 2026 01:13:13 GMT | The Valley of Double Echoes: How Global Communist Authoritarianism Hacks Nations’ Minds for… | Fabricio Revilla | [Read More](https://medium.com/p/cb06fcb25194) |
+| Sun, 24 May 2026 01:01:00 GMT | The Attack Vectors That Strong Passwords Can’t Stop | Arnav | [Read More](https://medium.com/p/a322890bd8be) |
+| Sun, 24 May 2026 00:57:26 GMT | BUG Framework: The Aggressive Bug Bounty Automation Tool I Built and Use Every Day | cyber security | [Read More](https://medium.com/p/8798742c5077) |
+| Sun, 24 May 2026 00:26:54 GMT | Clueless | Mohamed Awo | [Read More](https://medium.com/p/f58c2d45cb29) |
+| Sun, 24 May 2026 00:18:04 GMT | To be understood is be seen. | sasha lawren | [Read More](https://medium.com/p/8e3506dd8e6b) |
 | Sat, 23 May 2026 23:22:28 GMT | Supreme Court Seeks Examination of PIL on India’s Digital Security Risks; Additional Technical… | Nitish Kumar | [Read More](https://medium.com/p/20f308dc3c6d) |
 | Sat, 23 May 2026 23:02:10 GMT | Vulnyx: Cibercamp WriteUp | Eloy Albiach Forner | [Read More](https://medium.com/p/cc2083cfce24) |
 | Sat, 23 May 2026 22:59:19 GMT | Phala Network at muShanghai’s AI Security Day | Soulman | [Read More](https://medium.com/p/faafb649c35c) |
@@ -87,6 +105,7 @@ Bir Saldırganın Not Defteri | Buraktekcan | [Read More](https://medium.com/p/4
 | Sat, 23 May 2026 15:16:15 GMT | ☁️ Common Cloud Security Threats: Misconfigurations & Insider Threats | Manula Udyoga | [Read More](https://medium.com/p/befeed8e2c9c) |
 | Sat, 23 May 2026 15:15:33 GMT | API Authentication: A Very Brief Introduction for Beginners | Abrar Bin Habib | [Read More](https://medium.com/p/2fbac87e1572) |
 | Sat, 23 May 2026 15:10:51 GMT | Microsoft Beat Anthropic and OpenAI Using Their Own Models and the Lesson Is More Uncomfortable… | Bloom | [Read More](https://medium.com/p/4fe865be7be0) |
+| Sat, 23 May 2026 15:01:00 GMT | Ciberdelincuentes estuvieron 70 días dentro del sistema de salud más grande de Nueva York y robaron… | Tiziano Mass | [Read More](https://medium.com/p/9af173922a2a) |
 | Sat, 23 May 2026 14:59:13 GMT | PicoCTF Web Challenge Writeup: Failure Failure | Yogeshwar Peela | [Read More](https://medium.com/p/265ca72cae07) |
 | Sat, 23 May 2026 14:56:25 GMT | Ethical Hacking pada Sektor Publik: Antara Keamanan Siber dan Batas Hukum | Alfaenf | [Read More](https://medium.com/p/f64291f333e3) |
 | Sat, 23 May 2026 14:55:14 GMT | A LOVE THAT MAKES YOU SOFT | Sudeshna Bastia | [Read More](https://medium.com/p/4c09857b9609) |
@@ -95,22 +114,3 @@ Bir Saldırganın Not Defteri | Buraktekcan | [Read More](https://medium.com/p/4
 | Sat, 23 May 2026 14:42:00 GMT | The Subdomain Discovery Method That Actually Finds Forgotten Servers (Google Dorks That Still Work) | Decline | [Read More](https://medium.com/p/7611d10ca59c) |
 | Sat, 23 May 2026 14:38:40 GMT | TryHackMe: Operation Endgame | edbert sumicad | [Read More](https://medium.com/p/9f5fb4429c2f) |
 | Sat, 23 May 2026 14:31:50 GMT | When Code Starts Hunting Code: Inside the Rise of AI Hacking Bots and the New Arms Race for the… | Hayanan | [Read More](https://medium.com/p/e77505a98a84) |
-| Sat, 23 May 2026 14:31:00 GMT | Governing A.I. in the Enterprise | Dwaine Woosley | [Read More](https://medium.com/p/87efc7ad021b) |
-| Sat, 23 May 2026 14:26:43 GMT | Authenticated Time-Based Blind SQL Injection in Rukovoditel 3.7.1 (listing_col_width) | DARN | [Read More](https://medium.com/p/15560425ac12) |
-| Sat, 23 May 2026 14:18:25 GMT | Fusion Corp — TryHackMe Writeup - Active Directory Exploitation | Ajaykumarkanthi | [Read More](https://medium.com/p/02eeef474f6d) |
-| Sat, 23 May 2026 14:15:19 GMT | Journey to Berlin: experience and review of “Advanced Fuzzing and Crash Analysis” at OffensiveCon… | Cyd Tseng | [Read More](https://medium.com/p/7956af4c1e9e) |
-| Sat, 23 May 2026 14:09:29 GMT | “Open Up or You’re Toxic”: The Dangerous Trend of Forced Vulnerability | Ashbeel Roy | [Read More](https://medium.com/p/e32f479cf9e3) |
-| Sat, 23 May 2026 14:04:58 GMT | Antara Izin dan Pelanggaran: Aspek Hukum dan Etika Social Engineering dalam Penetration Testing | Saa | [Read More](https://medium.com/p/015d007f134b) |
-| Sat, 23 May 2026 14:01:05 GMT | Threat Hunting with Deception Technologies -LetsDefend | 0verRida | [Read More](https://medium.com/p/7ccf118afcec) |
-| Sat, 23 May 2026 13:57:37 GMT | Will AI Replace Cybersecurity? The Truth No One Is Saying | Noman Kei | [Read More](https://medium.com/p/15a5ba1f1e0a) |
-| Sat, 23 May 2026 13:56:59 GMT | Intrusion Prevention System (IPS): Stopping Cyber Attacks Automatically | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/557a04287b2f) |
-| Sat, 23 May 2026 13:49:34 GMT | Authenticated Time-Based Blind SQL Injection in Rukovoditel 3.7.1 | DARN | [Read More](https://medium.com/p/74531548e808) |
-| Sat, 23 May 2026 13:49:00 GMT | PicoCTF Web Challenge Writeup: NO FA | Yogeshwar Peela | [Read More](https://medium.com/p/75e36655d412) |
-| Sat, 23 May 2026 13:43:24 GMT | Complete Cybersecurity Guide for 2026: Safer Accounts, Devices, Data, and Habits | Amit Chavan | [Read More](https://medium.com/p/75f1e806522a) |
-| Sat, 23 May 2026 13:41:26 GMT | How I Built a Beginner-Friendly Cybersecurity Learning Brand Through Content and Community | CyberRise Institute | [Read More](https://medium.com/p/63665c524f1c) |
-| Sat, 23 May 2026 13:33:23 GMT | File Upload Vulnerabilities Explained: A Step-by-Step DVWA Security Lab for Beginners | Samuel K | [Read More](https://medium.com/p/82e5e571e482) |
-| Sat, 23 May 2026 13:32:41 GMT | Batasan Hukum Rules of Engagement (RoE) dalam Penetration Testing: Menghindari Jerat UU ITE Bagi… | IZZAT AL HAQ 1 | [Read More](https://medium.com/p/50df56dc28b5) |
-| Sat, 23 May 2026 13:28:01 GMT | What Transmission Channels Secretly Do to Your Documents | Ruslan Mishyn | [Read More](https://medium.com/p/4af8f23acd84) |
-| Sat, 23 May 2026 13:27:32 GMT | Why Businesses in Dubai Are Taking Cyber Security More Seriously Than Ever | Ghost | [Read More](https://medium.com/p/ba3c667a155a) |
-| Sat, 23 May 2026 13:22:09 GMT | WhatsApp’s Two-Factor Authentication Is a Security Illusion | Dev Pasaka | [Read More](https://medium.com/p/8e30f1cd500e) |
-| Sat, 23 May 2026 13:12:13 GMT | How We Hunted a Latin American Spy Group Using MISP A Threat Intelligence Investigation | Fairy_Sleuth❤️‍ | [Read More](https://medium.com/p/13d3d53b6061) |
