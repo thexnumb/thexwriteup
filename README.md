@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 May 2026 22:19:03 GMT | What are the biggest risks of using autonomous AI agents in enterprises? | Sameera Polapragada | [Read More](https://medium.com/p/450c0a0128ac) |
+| Sun, 24 May 2026 22:09:53 GMT | SecLeaf 2026 Challenge Forense: Forgotten_snapshot | 091! | [Read More](https://medium.com/p/2677fb2a9066) |
+| Sun, 24 May 2026 22:06:00 GMT | Understanding Jamming and Initialization Vector (IV) Abuse in Wireless Security | Raviteja Mureboina | [Read More](https://medium.com/p/e26d7082f9a2) |
+| Sun, 24 May 2026 21:59:27 GMT | How I built a zero-knowledge secret sharing tool | Mark | [Read More](https://medium.com/p/cf503581291e) |
+| Sun, 24 May 2026 21:50:04 GMT | How I Kerberoasted My Way to Domain Admin in 14 Minutes | Horrow | [Read More](https://medium.com/p/58d1cf7b05b1) |
+| Sun, 24 May 2026 21:49:06 GMT | Build Your Own Offline AI Brain: A Complete Guide to Project N.O.M.A.D. | noor fatima | [Read More](https://medium.com/p/5a7312aba5d2) |
+| Sun, 24 May 2026 21:42:16 GMT | Remote PEB Walking: Enumerating Loaded Modules | S12 - 0x12Dark Development | [Read More](https://medium.com/p/bbb84e64f322) |
+| Sun, 24 May 2026 21:41:00 GMT | Secure Screens in Flutter: Blocking Screenshots, Screen Recording, and Spying Eyes | Himanshu Sharma | [Read More](https://medium.com/p/3c2db1ca1432) |
+| Sun, 24 May 2026 21:35:07 GMT | Understanding How ISO 27001 Works | ThatCyberGirl | [Read More](https://medium.com/p/06227cc862e7) |
 | Sun, 24 May 2026 21:09:36 GMT | Anthropic’s Secret AI Found 10,000 Software Bugs. Only 97 Are Fixed. | Sumitdahiya | [Read More](https://medium.com/p/375848d62f66) |
 | Sun, 24 May 2026 21:06:27 GMT | How I Found a Permanent Account Takeover Through SSO Account Linking Misconfiguration | El Professor Qais | [Read More](https://medium.com/p/3f2df3857f92) |
 | Sun, 24 May 2026 21:01:00 GMT | AI That Turns Scattered Company Info Into Instant Answers | Janet Lam | [Read More](https://medium.com/p/179acb3946bb) |
@@ -106,12 +115,3 @@ How I Earned My First $200 Finding a Hidden API Leak | Theankitsaini16 | [Read M
 | Sun, 24 May 2026 14:26:03 GMT | Just shipped a major update for ghost0 Assistant — my local AI-powered penetration testing… | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/5e896594bbd0) |
 | Sun, 24 May 2026 14:24:24 GMT | How i found an ATTACK CHAIN and got CVE-2026–42558 | 0xRIXET - Mohammed Al-shehri | [Read More](https://medium.com/p/485e716605da) |
 | Sun, 24 May 2026 14:19:33 GMT | 7 Forgotten Tools That Are Still Extremely Important in Pentesting | networkdavit | [Read More](https://medium.com/p/2803d209a6d2) |
-| Sun, 24 May 2026 14:19:03 GMT | DroidCave — Stealing Passwords Through an Over-Permissive ContentProvider | Mohammed Ashraf | [Read More](https://medium.com/p/bfe3cf345332) |
-| Sun, 24 May 2026 14:14:48 GMT | How to Keep Your Crypto Safe: A Practical Guide to Digital Asset Security | Laurence Beaufoy | [Read More](https://medium.com/p/81a30f1b7e90) |
-| Sun, 24 May 2026 14:12:07 GMT | Solving “Cyber Kill Chain” (TryHackMe) | rad0v | [Read More](https://medium.com/p/a26d1d5eb6b3) |
-| Sun, 24 May 2026 14:08:27 GMT | Beyond Brute Force: Building LXPEN, a Memory-Assisted NTLM Exploration Engine | Azizcan Dastan | [Read More](https://medium.com/p/e547a300642f) |
-| Sun, 24 May 2026 13:57:28 GMT | The Cognitive Security Verification Framework | David at SenTeGuard | [Read More](https://medium.com/p/db4f2acd5891) |
-| Sun, 24 May 2026 13:50:42 GMT | The Browser Extension That Fixes What dApps Can’t: EIP-7702 Revocation Without a Server | Serge Kartanenkov | [Read More](https://medium.com/p/cfff1dcf6049) |
-| Sun, 24 May 2026 13:44:21 GMT | Breaking Authentication & Authorization Logic: A Real-World Auth Bypass leads to leak CEO-level… | Abhishek Kumar | [Read More](https://medium.com/p/3a3ce8f03dd7) |
-| Sun, 24 May 2026 13:36:43 GMT | HUMINT: The Art of Deception in Human Intelligence Collection | sqwrtick | [Read More](https://medium.com/p/820c66647774) |
-| Sun, 24 May 2026 13:31:46 GMT | I  can't pretend anymore | Preena_NR | [Read More](https://medium.com/p/75e6e56e8372) |
