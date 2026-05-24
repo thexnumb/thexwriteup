@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 May 2026 15:28:34 GMT | TryHackMe: Boogeyman 1 - Write-Up | Ash T | [Read More](https://medium.com/p/7ef135f7cf47) |
+| Sun, 24 May 2026 15:27:50 GMT | Building a Local SOC Lab From Scratch: A Step-by-Step Guide Using Elastic Stack | Hussein 404 | [Read More](https://medium.com/p/727deb125c68) |
+| Sun, 24 May 2026 15:22:52 GMT | Data Extraction | Davenyamongo | [Read More](https://medium.com/p/12bc08f0b49d) |
+| Sun, 24 May 2026 15:19:17 GMT | Batas Legal Penetration Testing dan Bug Bounty: Kapan Ethical Hacking Menjadi Akses Ilegal? | Gilanghappy | [Read More](https://medium.com/p/de765bd42344) |
+| Sun, 24 May 2026 15:16:00 GMT | Identity & Access Management (IAM): Roles, Policies, and MFA | Manula Udyoga | [Read More](https://medium.com/p/684327862b74) |
+| Sun, 24 May 2026 15:15:49 GMT | Introduction to Web Application Security Testing | Z3r0D4y | [Read More](https://medium.com/p/e1282a3a77ab) |
+| Sun, 24 May 2026 15:14:34 GMT | The Art and Science of Coding: Exploring Modern Software Development | Curious | [Read More](https://medium.com/p/27b7cceff367) |
+| Sun, 24 May 2026 15:14:24 GMT | AI-Assisted Cyberattacks Are Accelerating Faster Than Defenders Can Respond | Terynn Hill | [Read More](https://medium.com/p/eaa9e1fd799c) |
+| Sun, 24 May 2026 15:03:53 GMT | Support - TryHackMe - Walkthrough | Sornphut | [Read More](https://medium.com/p/08645b57c392) |
+| Sun, 24 May 2026 15:01:46 GMT | How to Recover an Instagram Account (2026) — The Complete Expert Guide | Alex | [Read More](https://medium.com/p/765d0644e882) |
+| Sun, 24 May 2026 15:01:35 GMT | Zero:Seenig What’s Hidden | Talha Bağcı | [Read More](https://medium.com/p/d45fdbe101e8) |
+| Sun, 24 May 2026 14:59:20 GMT | BYOVD & Process Termination: Understanding The Pattern By Reversing TCVINProcTerm Driver | Sushant M Mane - The Cyber Veda IN | [Read More](https://medium.com/p/5c431d9d578b) |
+| Sun, 24 May 2026 14:55:50 GMT | Types of Computer Networks: A Complete Guide | Siddhesh Ghatage | [Read More](https://medium.com/p/e901ea5196c1) |
+| Sun, 24 May 2026 14:52:17 GMT | Guided Pentest: Web — TryHackMe Answers - by Deepti Gupta | Deepti Gupta | [Read More](https://medium.com/p/1ec54a3c2093) |
+| Sun, 24 May 2026 14:50:37 GMT | Cybersecurity Trends in 2026: What Businesses Need to Know | Muhammad Tariq | [Read More](https://medium.com/p/6f94c3fb1400) |
+| Sun, 24 May 2026 14:44:30 GMT | Solving “Penetration Testing Frameworks” (TryHackMe) | rad0v | [Read More](https://medium.com/p/099e1730613a) |
+| Sun, 24 May 2026 14:37:44 GMT | Chasing Success at 2 AM | Mondalz | [Read More](https://medium.com/p/8d9b7fac898a) |
+| Sun, 24 May 2026 14:26:03 GMT | Just shipped a major update for ghost0 Assistant — my local AI-powered penetration testing… | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/5e896594bbd0) |
+| Sun, 24 May 2026 14:24:24 GMT | How i found an ATTACK CHAIN and got CVE-2026–42558 | 0xRIXET - Mohammed Al-shehri | [Read More](https://medium.com/p/485e716605da) |
+| Sun, 24 May 2026 14:19:33 GMT | 7 Forgotten Tools That Are Still Extremely Important in Pentesting | networkdavit | [Read More](https://medium.com/p/2803d209a6d2) |
+| Sun, 24 May 2026 14:19:03 GMT | DroidCave — Stealing Passwords Through an Over-Permissive ContentProvider | Mohammed Ashraf | [Read More](https://medium.com/p/bfe3cf345332) |
+| Sun, 24 May 2026 14:14:48 GMT | How to Keep Your Crypto Safe: A Practical Guide to Digital Asset Security | Laurence Beaufoy | [Read More](https://medium.com/p/81a30f1b7e90) |
+| Sun, 24 May 2026 14:12:07 GMT | Solving “Cyber Kill Chain” (TryHackMe) | rad0v | [Read More](https://medium.com/p/a26d1d5eb6b3) |
+| Sun, 24 May 2026 14:08:27 GMT | Beyond Brute Force: Building LXPEN, a Memory-Assisted NTLM Exploration Engine | Azizcan Dastan | [Read More](https://medium.com/p/e547a300642f) |
 | Sun, 24 May 2026 13:57:28 GMT | The Cognitive Security Verification Framework | David at SenTeGuard | [Read More](https://medium.com/p/db4f2acd5891) |
 | Sun, 24 May 2026 13:50:42 GMT | The Browser Extension That Fixes What dApps Can’t: EIP-7702 Revocation Without a Server | Serge Kartanenkov | [Read More](https://medium.com/p/cfff1dcf6049) |
 | Sun, 24 May 2026 13:44:21 GMT | Breaking Authentication & Authorization Logic: A Real-World Auth Bypass leads to leak CEO-level… | Abhishek Kumar | [Read More](https://medium.com/p/3a3ce8f03dd7) |
@@ -89,27 +113,3 @@ PortSwigger Walkthrough - Umair Khan | Umair Khan | [Read More](https://medium.c
 | Sun, 24 May 2026 08:23:28 GMT | Dive Into Pentesting — Jr Penetration Tester Path (Part 2) | Parthasarathi M R | [Read More](https://medium.com/p/b051ecffc597) |
 | Sun, 24 May 2026 08:22:20 GMT | What Symantec’s Journey Teaches About Cybersecurity Leadership | David SEHYEON Baek | [Read More](https://medium.com/p/d6273d92a536) |
 | Sun, 24 May 2026 08:14:40 GMT | Diploma in Cyber Security — 1 Year Program | Forensic Academy | [Read More](https://medium.com/p/4946a4974e2d) |
-| Sun, 24 May 2026 08:10:40 GMT | The Role of Privacy Search in Anonymous Browsing | onion links | [Read More](https://medium.com/p/fa988a7ac579) |
-| Sun, 24 May 2026 07:52:31 GMT | Race Condition Leading to Quota Bypass and Unlimited Resource Creation | z3r0-hunter | [Read More](https://medium.com/p/5f39c2d35127) |
-| Sun, 24 May 2026 07:42:06 GMT | AasPass: A lightweight, local-first password vault for developers | Unlikelycreator | [Read More](https://medium.com/p/a3fb7204a937) |
-| Sun, 24 May 2026 07:28:23 GMT | Beyond the Firewall: Simulating a Full Enterprise Kill Chain from Phishing to Honeypot Detection | Amaima | [Read More](https://medium.com/p/81369ef62160) |
-| Sun, 24 May 2026 07:20:46 GMT | The State of AI in Pakistan: Talent, Tooling, and Truth | Hussain Shahbaz Khawaja | [Read More](https://medium.com/p/683cada7ad96) |
-| Sun, 24 May 2026 07:18:32 GMT | Why AI Agents Keep Wiping Databases and Leaking Data | Christian Koch | [Read More](https://medium.com/p/10041982d325) |
-| Sun, 24 May 2026 07:16:50 GMT | Latest Cybersecurity Threats to Watch: Practical Risks for Everyday Users and Small Teams | Amit Chavan | [Read More](https://medium.com/p/60fc000e26d9) |
-| Sun, 24 May 2026 07:07:38 GMT | Exploiting an Exposed Backdoor: From Shell Access to Full Credential Recovery on Metasploitable 2 | Pranav Verma | [Read More](https://medium.com/p/67a5a21af224) |
-| Sun, 24 May 2026 07:07:32 GMT | India’s Unfinished Cyber Governance Investigation | Nitish Kumar | [Read More](https://medium.com/p/48d3580b13cd) |
-| Sun, 24 May 2026 07:07:14 GMT | Vibe Coding Is Fast… But We Rarely Check What We Install | Ananthapadmanabhan | [Read More](https://medium.com/p/8fff861a35dd) |
-| Sun, 24 May 2026 07:07:13 GMT | Dive Into Pentesting — Jr Penetration Tester Path (Part 1) | Parthasarathi M R | [Read More](https://medium.com/p/a7204ea0cc6b) |
-| Sun, 24 May 2026 06:52:21 GMT | ওয়েবসাইটের গোপন ডেটাবেজ চুরি! হ্যাকাররা কীভাবে SQL Injection (SQLi) অ্যাটাক করে? | Nayemhosain | [Read More](https://medium.com/p/dbd6eb8547ea) |
-| Sun, 24 May 2026 06:52:10 GMT | WhatsApp Is End-to-End Encrypted. But Meta Still Knows Everything About You | Deepak Thakur | [Read More](https://medium.com/p/965be3159688) |
-| Sun, 24 May 2026 06:49:44 GMT | What is Darkweb and Deepweb? | Harigotsomeguts | [Read More](https://medium.com/p/dd481a32583f) |
-| Sun, 24 May 2026 06:47:50 GMT | Link Alternatif Resmi TOTOWIN88: Panduan Akses Jaringan Aman dan Anti Blokir | Totowin88 | [Read More](https://medium.com/p/3ad9a9a5e590) |
-| Sun, 24 May 2026 06:47:32 GMT | Best AI Tools for Business in 2026: Transform Your Workflow and Grow Faster | Plexneoai | [Read More](https://medium.com/p/efaff26f3688) |
-| Sun, 24 May 2026 06:45:22 GMT | TryHackMe — Dive Into Pentesting - Full Walkthrough & Answers | PIYUSH KUMAR SAHOO | [Read More](https://medium.com/p/7f0bd194d80e) |
-| Sun, 24 May 2026 06:44:57 GMT | Data Sanitization Layer | IWWOMI | [Read More](https://medium.com/p/a5df6d2b7172) |
-| Sun, 24 May 2026 06:33:05 GMT | The Agent Moved In. Code Is Now the Address. | Hardik Goel | [Read More](https://medium.com/p/db4a3d4da3f4) |
-| Sun, 24 May 2026 06:21:47 GMT | ১ টাকার আইফোন! হ্যাকাররা কীভাবে ওয়েবসাইটের দাম বদলে দেয়? (Price Manipulation Bug) | Nayemhosain | [Read More](https://medium.com/p/a0ab6a48dde6) |
-| Sun, 24 May 2026 06:13:46 GMT | Social Engineering Psychology — Inside The Scam Industry (Part 5) | ghostyjoe | [Read More](https://medium.com/p/bbe39de38be2) |
-| Sun, 24 May 2026 06:02:25 GMT | Basics of Computer Networking: The Backbone of the Digital World | Siddhesh Ghatage | [Read More](https://medium.com/p/25837ab14f10) |
-| Sun, 24 May 2026 06:01:23 GMT | Walking An Application Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/3a8cb8d2fd1a) |
-| Sun, 24 May 2026 06:01:06 GMT | How Hackers Map Your Entire Network In 15 Minutes - A Step-by-Step Breakdown | rootRS7 | [Read More](https://medium.com/p/c98b909fae71) |
