@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 May 2026 16:45:04 GMT | Why Sunny Nehra Is Considered the Best Hacker in India? | CyberSecurity Informer | [Read More](https://medium.com/p/f92e3fa90c68) |
+| Sun, 24 May 2026 16:40:40 GMT | Windows System Monitoring: The Skill Most Beginners Ignore Until a System Crashes | Little_Sun4lower | [Read More](https://medium.com/p/7c0dedbdde54) |
+| Sun, 24 May 2026 16:39:43 GMT | Password Reset Links Are Not Normal Links: A React Security Mistake Junior Developers Often Miss | Abdulshakoor | [Read More](https://medium.com/p/c97d0205c9d5) |
+| Sun, 24 May 2026 16:39:31 GMT | IPv6 (CCNA) — PART 1 | Anurag | [Read More](https://medium.com/p/d800a3eb830e) |
+| Sun, 24 May 2026 16:30:06 GMT | Easy Way To Get Your First Vulnerability | Seafeldeenwael | [Read More](https://medium.com/p/a2adb92c362b) |
+| Sun, 24 May 2026 16:27:50 GMT | SentinelOne Was Watching, So Sable Took the Quiet Path | Daniel Knight | [Read More](https://medium.com/p/67d5d73a5a32) |
+| Sun, 24 May 2026 16:26:04 GMT | I Studied Prompt Injection Attacks on ChatGPT. Then I Built Defenses to Stop Them. | Shreyasri | [Read More](https://medium.com/p/1fa394cb2c5a) |
+| Sun, 24 May 2026 16:05:53 GMT | Before Asking “Are We Vulnerable?”, Bumblebee Helps Answer “Where Do We Look?” | Lakshmi narayana .U | [Read More](https://medium.com/p/d988409b83a5) |
+| Sun, 24 May 2026 15:58:29 GMT | HTB: Timelapse | Nazarov Samir | [Read More](https://medium.com/p/03fef7f17e95) |
+| Sun, 24 May 2026 15:55:40 GMT | Your AI Assistant Has Already Been Hacked — It Just Doesn’t Know It Yet. | Aditya Mangal | [Read More](https://medium.com/p/069fbc1ae0d3) |
+| Sun, 24 May 2026 15:46:52 GMT | Content Discovery Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/e92dfa8fcf40) |
+| Sun, 24 May 2026 15:42:28 GMT | Building Interactive CLI Systems: A Case Study in Python Security Simulations | Louis (Pearl) Eyoung | [Read More](https://medium.com/p/0a95e438a21a) |
+| Sun, 24 May 2026 15:42:18 GMT | Day 10: Enumeration — Pulling Real Data From Open Doors | Adarsh Vardhan | [Read More](https://medium.com/p/57df56afe805) |
+| Sun, 24 May 2026 15:37:18 GMT | Como encontrar vulnerabilidades | FreeDev | [Read More](https://medium.com/p/faedd32b5468) |
 | Sun, 24 May 2026 15:28:34 GMT | TryHackMe: Boogeyman 1 - Write-Up | Ash T | [Read More](https://medium.com/p/7ef135f7cf47) |
 | Sun, 24 May 2026 15:27:50 GMT | Building a Local SOC Lab From Scratch: A Step-by-Step Guide Using Elastic Stack | Hussein 404 | [Read More](https://medium.com/p/727deb125c68) |
 | Sun, 24 May 2026 15:22:52 GMT | Data Extraction | Davenyamongo | [Read More](https://medium.com/p/12bc08f0b49d) |
@@ -99,17 +113,3 @@ PortSwigger Walkthrough - Umair Khan | Umair Khan | [Read More](https://medium.c
 | Sun, 24 May 2026 09:22:20 GMT | CRTO — 2026 Updated Exam Review and Guideline | Phyo WaThone Win | [Read More](https://medium.com/p/9753f05f131c) |
 | Sun, 24 May 2026 09:15:56 GMT | Six Months Ago Kubernetes Retired Ingress NGINX. An 18-Year-Old Bug Just Made That a Crisis. | Heinan Cabouly | [Read More](https://medium.com/p/05ce23640ff4) |
 | Sun, 24 May 2026 09:13:50 GMT | PIV Smart Card | Petersmuditha | [Read More](https://medium.com/p/eddb10494783) |
-| Sun, 24 May 2026 08:59:53 GMT | TryHackMe Walkthrough — Task 8 Write-Up (Radare2) | natuser | [Read More](https://medium.com/p/d96b7cdb49c2) |
-| Sun, 24 May 2026 08:58:01 GMT | Understanding RAG (Retrieval-Augmented Generation) — The Beginner’s Gateway to AI Context… | Logic Ladder With Sachin | [Read More](https://medium.com/p/8b8b1387281d) |
-| Sun, 24 May 2026 08:57:17 GMT | The Rise of “Breach Alpha”: How Wall Street Weaponized the Cybersecurity Crisis | CyDhaal | [Read More](https://medium.com/p/70d449e840a8) |
-| Sun, 24 May 2026 08:52:34 GMT | Building LNAudit: A Configuration Scanner for Lightning Infrastructure | Chinonso  Amadi | [Read More](https://medium.com/p/32d181ffc42d) |
-| Sun, 24 May 2026 08:52:24 GMT | Active Directory Explained: What It Is, Why It Exists, and Why Attackers Love It | Atharva Deshmukh | [Read More](https://medium.com/p/84f9b8f9a523) |
-| Sun, 24 May 2026 08:49:40 GMT | Your Key, Your Kingdom | Coopa Assistant | [Read More](https://medium.com/p/0b385a6a9843) |
-| Sun, 24 May 2026 08:38:34 GMT | Nirmala Sitharaman called an emergency meeting because of a Chatbot nobody is allowed to use. | Aryan Raj | [Read More](https://medium.com/p/be83ccba92ef) |
-| Sun, 24 May 2026 08:38:22 GMT | PolinRider Malware Campaign on GitHub | debtik journey | [Read More](https://medium.com/p/044bac1a1174) |
-| Sun, 24 May 2026 08:34:59 GMT | How I Bypassed Open Redirect Validation in a Logout Endpoint | Aryah | [Read More](https://medium.com/p/f23ef323b799) |
-| Sun, 24 May 2026 08:33:36 GMT | Parola vs. Şifre: The Common Tech Mistake You Are Probably Making | Halil Özel | [Read More](https://medium.com/p/ae840421d9ff) |
-| Sun, 24 May 2026 08:25:22 GMT | Why we need truly anonymous chat apps in 2026 (And how I built one) | Rehankumarsahu | [Read More](https://medium.com/p/7535750ec769) |
-| Sun, 24 May 2026 08:23:28 GMT | Dive Into Pentesting — Jr Penetration Tester Path (Part 2) | Parthasarathi M R | [Read More](https://medium.com/p/b051ecffc597) |
-| Sun, 24 May 2026 08:22:20 GMT | What Symantec’s Journey Teaches About Cybersecurity Leadership | David SEHYEON Baek | [Read More](https://medium.com/p/d6273d92a536) |
-| Sun, 24 May 2026 08:14:40 GMT | Diploma in Cyber Security — 1 Year Program | Forensic Academy | [Read More](https://medium.com/p/4946a4974e2d) |
