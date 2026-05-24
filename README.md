@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 May 2026 12:01:00 GMT | I Told My Job Interviewer My Wife Had Cancer — Here’s What Happened | DK Kang | [Read More](https://medium.com/p/fe18873af647) |
+| Sun, 24 May 2026 11:53:47 GMT | SQL Injection UNION Attacks: Labs 4–6 
+PortSwigger Walkthrough - Umair Khan | Umair Khan | [Read More](https://medium.com/p/006f7550b31e) |
+| Sun, 24 May 2026 11:46:21 GMT | The Hospital Helpdesk Is Dead: Long Live Digital Operations | Aaron Mathis | [Read More](https://medium.com/p/87fa261f97f9) |
+| Sun, 24 May 2026 11:43:24 GMT | MemLabs — Lab 3: The Evil’s Den | Busraugur | [Read More](https://medium.com/p/f5fe6512ec3d) |
+| Sun, 24 May 2026 11:41:56 GMT | Lab: Blind SSRF with Shellshock exploitation - SSRF #lab6 | PRiTi.EX | [Read More](https://medium.com/p/c70e8234339a) |
+| Sun, 24 May 2026 11:39:02 GMT | SEO Poisoning Targets AI Developers: Hunting the Gemini & Claude Infostealer | Varshil Desai | [Read More](https://medium.com/p/99897972299f) |
+| Sun, 24 May 2026 11:37:36 GMT | Supplemental Memory Walkthrough - By JasmineDH | Jasminedh | [Read More](https://medium.com/p/e1a383c614b8) |
+| Sun, 24 May 2026 11:35:23 GMT | Open-Source Model, a faster way to spread malicious software? | Vigneshwar Sivakumar | [Read More](https://medium.com/p/9f37bd9dd2be) |
+| Sun, 24 May 2026 11:31:07 GMT | I Have No Job, No Certs, and a Dream to Hack Things Legally. Here’s My Plan or Plah. | Sonal | [Read More](https://medium.com/p/8842b055bbe2) |
+| Sun, 24 May 2026 11:30:48 GMT | How We FoundVulnerabilities in a Linux Web Server Using Nessus | Fairy_Sleuth❤️‍ | [Read More](https://medium.com/p/dab51b500e90) |
+| Sun, 24 May 2026 11:30:13 GMT | Encrypted Database -CyberTalents Web Challenge | Wainainaalvin | [Read More](https://medium.com/p/5c5100443f17) |
+| Sun, 24 May 2026 11:28:23 GMT | How I Built an Active Directory Lab, Ran Real APT Attacks Against It, and Detected Everything in… | Leon Mata | [Read More](https://medium.com/p/0532ea98aebf) |
+| Sun, 24 May 2026 11:23:43 GMT | i watched a man cry as he read my poem | Sean Corcoran | [Read More](https://medium.com/p/64c247fbd8ba) |
+| Sun, 24 May 2026 11:20:02 GMT | How I Built a Microsoft Sentinel SOC Lab That Caught 200,000 Real Cyberattacks for $6.75 | Leon Mata | [Read More](https://medium.com/p/75db212d7e44) |
+| Sun, 24 May 2026 11:12:11 GMT | You Shipped the Agent. Who’s Testing Whether It Can Delete Production? | Genbounty Blog | [Read More](https://medium.com/p/83baca58e069) |
+| Sun, 24 May 2026 10:59:25 GMT | Update or not, that is the question | Tomáš Repčík | [Read More](https://medium.com/p/885cde247dac) |
+| Sun, 24 May 2026 10:53:23 GMT | 95% of AI pilots don’t work — and why that’s bad news, not good | Teymur Alizade | [Read More](https://medium.com/p/db833603fe0f) |
 | Sun, 24 May 2026 10:44:45 GMT | Stage 0.1 — Hardware Fundamentals | Rencberakman | [Read More](https://medium.com/p/a1ee22ce1597) |
 | Sun, 24 May 2026 10:44:38 GMT | LoRaWAN Gateway and Security Solutions in 2026: What Industrial Operators Need to Know | All Tech News | [Read More](https://medium.com/p/44ad895d793c) |
 | Sun, 24 May 2026 10:43:45 GMT | Introducing the Hackmetoo Portal: Where Cybersecurity Meets Practice | Erkan Kavas | [Read More](https://medium.com/p/1a3f1e41cae2) |
@@ -95,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 24 May 2026 02:15:25 GMT | Why Others Need Therapy — But I’m Fine | Nick Holt, LCSW an CBT Therapist in West LA | [Read More](https://medium.com/p/aa0579821ad1) |
 | Sun, 24 May 2026 02:14:58 GMT | Modul Persiapan Sumatif Akhir Semester: Informatika Fase E | Muh. Alif Anhar | [Read More](https://medium.com/p/c649c72257a8) |
 | Sun, 24 May 2026 02:03:00 GMT | Protéger une API NestJS contre les attaques Slowloris : implémentation pas à pas | Ramiro kaffo | [Read More](https://medium.com/p/8c7b79d253b8) |
-| Sun, 24 May 2026 02:01:40 GMT | Introducing The Crossbar MPC Wallet | Zackmendel | [Read More](https://medium.com/p/a493e857fe5a) |
-| Sun, 24 May 2026 01:13:13 GMT | The Valley of Double Echoes: How Global Communist Authoritarianism Hacks Nations’ Minds for… | Fabricio Revilla | [Read More](https://medium.com/p/cb06fcb25194) |
-| Sun, 24 May 2026 01:01:00 GMT | The Attack Vectors That Strong Passwords Can’t Stop | Arnav | [Read More](https://medium.com/p/a322890bd8be) |
-| Sun, 24 May 2026 00:57:26 GMT | BUG Framework: The Aggressive Bug Bounty Automation Tool I Built and Use Every Day | cyber security | [Read More](https://medium.com/p/8798742c5077) |
-| Sun, 24 May 2026 00:26:54 GMT | Clueless | Mohamed Awo | [Read More](https://medium.com/p/f58c2d45cb29) |
-| Sun, 24 May 2026 00:18:04 GMT | To be understood is be seen. | sasha lawren | [Read More](https://medium.com/p/8e3506dd8e6b) |
-| Sat, 23 May 2026 23:22:28 GMT | Supreme Court Seeks Examination of PIL on India’s Digital Security Risks; Additional Technical… | Nitish Kumar | [Read More](https://medium.com/p/20f308dc3c6d) |
-| Sat, 23 May 2026 23:02:10 GMT | Vulnyx: Cibercamp WriteUp | Eloy Albiach Forner | [Read More](https://medium.com/p/cc2083cfce24) |
-| Sat, 23 May 2026 22:59:19 GMT | Phala Network at muShanghai’s AI Security Day | Soulman | [Read More](https://medium.com/p/faafb649c35c) |
-| Sat, 23 May 2026 22:43:40 GMT | Anthropic's Broken Cyber Verification Program | Andre Boyle | [Read More](https://medium.com/p/c8c630820fd6) |
-| Sat, 23 May 2026 22:26:00 GMT | Beyond the Bit: The Logical Paradigm Shift Demanded by Quantum Computing | Laroweb3 | [Read More](https://medium.com/p/e4cc0651973c) |
-| Sat, 23 May 2026 22:24:26 GMT | HackTheBox Certified Penetration Testing Specialist (HTB CPTS) Guide and Review | Chicken0248 | [Read More](https://medium.com/p/dbb0d30ddb09) |
-| Sat, 23 May 2026 22:19:11 GMT | A Public WhatsApp Web Login at Bhopal Railway Station: A Real-World Cybersecurity Wake-Up Call | SreenadhSurendran | [Read More](https://medium.com/p/e0a3370eb42f) |
-| Sat, 23 May 2026 21:49:08 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / HIRE A HACKER WHO CAN HELP YOU IN RECOVERY YOUR STOLEN FUNDS | Alaricvoss | [Read More](https://medium.com/p/1a79b459945a) |
-| Sat, 23 May 2026 21:46:00 GMT | Shadow AI Anatomy: How Malicious AI Browser Extensions Can Exfiltrate Enterprise Code | Axiom Architect | [Read More](https://medium.com/p/52be5cc45129) |
-| Sat, 23 May 2026 21:42:38 GMT | ShadowGate  - Hack Smarter Labs Walkthrough | WireHawk Security | [Read More](https://medium.com/p/0cfd63281a5a) |
-| Sat, 23 May 2026 21:36:29 GMT | DCMTK — Vulnerability Report | Faboherrera Fabo | [Read More](https://medium.com/p/201afc687790) |
