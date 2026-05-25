@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 May 2026 20:59:48 GMT | The Group Chat That Got Hacked | Bagazin, Dela Cerna, Pelayo | [Read More](https://medium.com/p/3d0295e55483) |
+| Mon, 25 May 2026 20:49:04 GMT | 10 Days of Honeypot Data — 89,000+ Attacks, 1 Botnet Cluster, and a C2 Server | Mehmet Ali Yener | [Read More](https://medium.com/p/b68486fd4c59) |
+| Mon, 25 May 2026 20:38:35 GMT | Microsoft Eases Windows Update Frustrations With New Pause Feature | Nomi | [Read More](https://medium.com/p/eb24c7a6e586) |
+| Mon, 25 May 2026 20:35:20 GMT | How I Passed CompTIA Security+ in 20 Days Without Prior Cybersecurity Experience | Rukhsar Pathan | [Read More](https://medium.com/p/723d24689171) |
+| Mon, 25 May 2026 20:34:57 GMT | Broken Access Control in a Supabase-Backed Store | Nathan Budhu | [Read More](https://medium.com/p/1256694be472) |
+| Mon, 25 May 2026 20:22:15 GMT | Passing the PNPT/PJPT or Ethical Hacking Cert, OSINT/External Pentesting Explained | The Husky Hacker | [Read More](https://medium.com/p/fce4cdda037c) |
+| Mon, 25 May 2026 20:21:46 GMT | A Rule Is Not Yet a Control | Edward Meyman | [Read More](https://medium.com/p/290349cbb959) |
+| Mon, 25 May 2026 20:17:08 GMT | Untangle’s App-Store Model: Genuine Flexibility or Slow Budget Drain? | CacheGuard Technologies | [Read More](https://medium.com/p/f5356d5aa45c) |
+| Mon, 25 May 2026 20:16:47 GMT | Hijack TryHackMe Walkthrough | Death Esther | [Read More](https://medium.com/p/d0459dfabaa7) |
+| Mon, 25 May 2026 20:16:03 GMT | GDPR and NIS2: What European Small Businesses Actually Need to Do for Network Security Compliance | CacheGuard Technologies | [Read More](https://medium.com/p/a94d8cee9536) |
+| Mon, 25 May 2026 20:05:21 GMT | The Cybersecurity Illusion: Why the tech industry left everyday users behind in 2026 | GadNet | [Read More](https://medium.com/p/9c262f22f62a) |
+| Mon, 25 May 2026 20:04:34 GMT | To Catch a Hacker, You Must Think Like One: Offensive vs. Defensive Security | Mohira Zokirova | [Read More](https://medium.com/p/ccb08cd81e84) |
 | Mon, 25 May 2026 19:41:00 GMT | Penetration Testing Frameworks- TryHackMe | Jose Praveen | [Read More](https://medium.com/p/3815afb44952) |
+| Mon, 25 May 2026 19:41:00 GMT | What does it take to be call as DevSecOps? | Hafiq Iqmal | [Read More](https://medium.com/p/f93327b1533b) |
 | Mon, 25 May 2026 19:29:20 GMT | A history of Juniper Networks: from startup to industry leader | NetworkTigers | [Read More](https://medium.com/p/a33068cf6443) |
 | Mon, 25 May 2026 19:21:29 GMT | SOC Fundamentals & Baseline | Magdaline Arianda | [Read More](https://medium.com/p/037532a7686f) |
 | Mon, 25 May 2026 19:20:30 GMT | A history of Cisco Systems, Inc. | NetworkTigers | [Read More](https://medium.com/p/ce94580ff37d) |
@@ -100,16 +113,3 @@ A heist movie… | RootAccess Ai. | [Read More](https://medium.com/p/87bd9d4d13c
 | Mon, 25 May 2026 13:01:01 GMT | I Sent You a JPEG. Now I Own Your Mac. | Anmol Singh Yadav | [Read More](https://medium.com/p/e49c5c27374f) |
 | Mon, 25 May 2026 12:57:09 GMT | Smart Workflow Automation: Hire Skilled N8N Experts to Scale Business Efficiency | n8ndevelopers | [Read More](https://medium.com/p/9267c07ba8ba) |
 | Mon, 25 May 2026 12:51:38 GMT | From Detection to Evasion: My First Windows Defender Bypass Research & MSRC Disclosure | Maccioni Andrea | [Read More](https://medium.com/p/0893e4256870) |
-| Mon, 25 May 2026 12:49:13 GMT | How to Detect Data Exfiltration with Elastic SIEM: SOC Analyst Hands-On Lab - Hunt Forward Lab #007 | Hunt Forward | [Read More](https://medium.com/p/fad0e47867fa) |
-| Mon, 25 May 2026 12:48:13 GMT | Ethical Hacking Course in India — Step-by-Step Career Path | Firewall Zone | [Read More](https://medium.com/p/bf0ed99558bc) |
-| Mon, 25 May 2026 12:43:11 GMT | Broken Rate Limit : From “Non-Issue” to Valid Vulnerability worth $$$ | Bhavishthakral | [Read More](https://medium.com/p/692fdc4fa8e7) |
-| Mon, 25 May 2026 12:41:00 GMT | Public Containers Are Insecure. Now You Can Prove Why. | Rob Gil | [Read More](https://medium.com/p/bcb94f285757) |
-| Mon, 25 May 2026 12:39:08 GMT | On the Shadow AI Epistemic Crisis: Cyberpunk Metaphysics and the Illusion of Tech Governance | Julian Soloninka | [Read More](https://medium.com/p/cc3feeb55dfe) |
-| Mon, 25 May 2026 12:36:49 GMT | Laravel Security Has Changed: Why Every composer update Now Deserves a Second Thought | Talhaoui mouad | [Read More](https://medium.com/p/e0ad30af3430) |
-| Mon, 25 May 2026 12:36:00 GMT | Mastering the Basics of API Security: A Beginner’s Guide | Steosumit | [Read More](https://medium.com/p/a0c4ce90a7cc) |
-| Mon, 25 May 2026 12:34:56 GMT | New Week Vibes from THEMS Security Systems Limited. | Thems Security | [Read More](https://medium.com/p/4df631267808) |
-| Mon, 25 May 2026 12:32:19 GMT | Guided Pentest: Infrastructure - TryHackMe | Ryca | [Read More](https://medium.com/p/5832eab33221) |
-| Mon, 25 May 2026 12:30:06 GMT | Building SafeKit — A Local-First Android Permission Auditor Focused on Privacy | Jayant Navrange | [Read More](https://medium.com/p/0ec9e111f20d) |
-| Mon, 25 May 2026 12:27:56 GMT | Why Small and Medium Businesses Need a Virtual CIO More Than Ever | Century Solutions Group | [Read More](https://medium.com/p/ae6d7ea92ae1) |
-| Mon, 25 May 2026 12:25:28 GMT | Your Complete OverTheWire Bandit Journey | Disaster | [Read More](https://medium.com/p/a4080a5d640e) |
-| Mon, 25 May 2026 12:21:16 GMT | Agentic Defense: The Next Evolution of Security Operations | Demetrio Milea | [Read More](https://medium.com/p/69509b5f6575) |
