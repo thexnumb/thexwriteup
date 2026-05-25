@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 24 May 2026 23:34:31 GMT | THE SYMPHONY OF DEFENSE | Timothy Allen Lee | [Read More](https://medium.com/p/95587eea7648) |
+| Sun, 24 May 2026 23:29:01 GMT | A Tiny RAG Security Test: What Happens When the Knowledge Base Is Poisoned | Acharyafutures | [Read More](https://medium.com/p/780debfa7c1b) |
+| Sun, 24 May 2026 23:13:11 GMT | 2026 Cloud Solutions Report, #3: Security | Chaesang Jung | [Read More](https://medium.com/p/f364eaacf2bc) |
+| Sun, 24 May 2026 23:11:53 GMT | How to Improve Information Security When Using Cloud-Based LLMs: Organizational and Business… | Bervice | [Read More](https://medium.com/p/64f448525b8a) |
+| Sun, 24 May 2026 23:11:06 GMT | I Investigated 100gadgets.ru. Here’s What Doesn’t Add Up | Aristcel | [Read More](https://medium.com/p/c3eff1330ef1) |
+| Sun, 24 May 2026 23:10:05 GMT | Spring Boot Actuator expuesto conduce a Account Takeover (ATO) | Miguel Segovia Gil | [Read More](https://medium.com/p/52b8bb0a2155) |
+| Sun, 24 May 2026 23:06:00 GMT | The Hidden Risk in Every “Free Online PDF Tool” (And What to Use Instead) | Templora | [Read More](https://medium.com/p/c0306326a01f) |
+| Sun, 24 May 2026 22:59:10 GMT | Hacking HTTPBin: Uncovering a Critical Base64 Reflected XSS Vulnerability | INTELEON404 | [Read More](https://medium.com/p/2f5dc1194d0a) |
+| Sun, 24 May 2026 22:51:56 GMT | Dirty Frag: The Linux Vulnerability That Changes How You Should Think About Kubernetes Security | Matías Salinas | [Read More](https://medium.com/p/9607faa290dc) |
+| Sun, 24 May 2026 22:51:29 GMT | How I Used a Race Condition to Get Unlimited Subscriptions from One Voucher on Shahid.net️ | Hamzawy - 0xMo3Gza | [Read More](https://medium.com/p/82bdbbe57f60) |
+| Sun, 24 May 2026 22:43:45 GMT | CyberDefenders — AWSRaid Lab Writeup | JBXSec | [Read More](https://medium.com/p/3bbb516d969f) |
+| Sun, 24 May 2026 22:39:14 GMT | CyberDefenders — LummaStealer — Angry Likho Lab Writeup | JBXSec | [Read More](https://medium.com/p/b7c546e7c00e) |
+| Sun, 24 May 2026 22:35:52 GMT | OpenClaw Is a Loaded Gun Pointed at Everything You Built. Here’s How to Build the Safety. | Jsong | [Read More](https://medium.com/p/bb55df5969bc) |
 | Sun, 24 May 2026 22:19:03 GMT | What are the biggest risks of using autonomous AI agents in enterprises? | Sameera Polapragada | [Read More](https://medium.com/p/450c0a0128ac) |
 | Sun, 24 May 2026 22:09:53 GMT | SecLeaf 2026 Challenge Forense: Forgotten_snapshot | 091! | [Read More](https://medium.com/p/2677fb2a9066) |
 | Sun, 24 May 2026 22:06:00 GMT | Understanding Jamming and Initialization Vector (IV) Abuse in Wireless Security | Raviteja Mureboina | [Read More](https://medium.com/p/e26d7082f9a2) |
@@ -102,16 +115,3 @@ How I Earned My First $200 Finding a Hidden API Leak | Theankitsaini16 | [Read M
 | Sun, 24 May 2026 15:15:49 GMT | Introduction to Web Application Security Testing | Z3r0D4y | [Read More](https://medium.com/p/e1282a3a77ab) |
 | Sun, 24 May 2026 15:14:34 GMT | The Art and Science of Coding: Exploring Modern Software Development | Curious | [Read More](https://medium.com/p/27b7cceff367) |
 | Sun, 24 May 2026 15:14:24 GMT | AI-Assisted Cyberattacks Are Accelerating Faster Than Defenders Can Respond | Terynn Hill | [Read More](https://medium.com/p/eaa9e1fd799c) |
-| Sun, 24 May 2026 15:03:53 GMT | Support - TryHackMe - Walkthrough | Sornphut | [Read More](https://medium.com/p/08645b57c392) |
-| Sun, 24 May 2026 15:01:46 GMT | How to Recover an Instagram Account (2026) — The Complete Expert Guide | Alex | [Read More](https://medium.com/p/765d0644e882) |
-| Sun, 24 May 2026 15:01:35 GMT | Zero:Seenig What’s Hidden | Talha Bağcı | [Read More](https://medium.com/p/d45fdbe101e8) |
-| Sun, 24 May 2026 14:59:20 GMT | BYOVD & Process Termination: Understanding The Pattern By Reversing TCVINProcTerm Driver | Sushant M Mane - The Cyber Veda IN | [Read More](https://medium.com/p/5c431d9d578b) |
-| Sun, 24 May 2026 14:55:50 GMT | Types of Computer Networks: A Complete Guide | Siddhesh Ghatage | [Read More](https://medium.com/p/e901ea5196c1) |
-| Sun, 24 May 2026 14:52:17 GMT | Guided Pentest: Web — TryHackMe Answers - by Deepti Gupta | Deepti Gupta | [Read More](https://medium.com/p/1ec54a3c2093) |
-| Sun, 24 May 2026 14:50:37 GMT | Cybersecurity Trends in 2026: What Businesses Need to Know | Muhammad Tariq | [Read More](https://medium.com/p/6f94c3fb1400) |
-| Sun, 24 May 2026 14:44:30 GMT | Solving “Penetration Testing Frameworks” (TryHackMe) | rad0v | [Read More](https://medium.com/p/099e1730613a) |
-| Sun, 24 May 2026 14:37:44 GMT | Chasing Success at 2 AM | Mondalz | [Read More](https://medium.com/p/8d9b7fac898a) |
-| Sun, 24 May 2026 14:30:28 GMT | Apakah Melakukan Penetration Testing Tanpa Perizinan Boleh Menurut Hukum? | Demas | [Read More](https://medium.com/p/3c559c7e7298) |
-| Sun, 24 May 2026 14:26:03 GMT | Just shipped a major update for ghost0 Assistant — my local AI-powered penetration testing… | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/5e896594bbd0) |
-| Sun, 24 May 2026 14:24:24 GMT | How i found an ATTACK CHAIN and got CVE-2026–42558 | 0xRIXET - Mohammed Al-shehri | [Read More](https://medium.com/p/485e716605da) |
-| Sun, 24 May 2026 14:19:33 GMT | 7 Forgotten Tools That Are Still Extremely Important in Pentesting | networkdavit | [Read More](https://medium.com/p/2803d209a6d2) |
