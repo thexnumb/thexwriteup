@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 May 2026 22:30:05 GMT | Kaizero-Building a Privacy-First File Toolkit That Never Sees Your Files | sai vamsi chunduru | [Read More](https://medium.com/p/13bbb12b2fb2) |
+| Mon, 25 May 2026 22:24:42 GMT | TryHackMe CTF Collection Vol. 1 | OwL | [Read More](https://medium.com/p/4ce455406a5c) |
+| Mon, 25 May 2026 22:16:25 GMT | Beyond the OWASP Top 10: Securing GenAI Apps with Google Cloud Model Armor | Dr Roushanak Rahmat | [Read More](https://medium.com/p/e2893db9b45c) |
+| Mon, 25 May 2026 22:14:00 GMT | HackTheBox — Unit42 Windows Event Log Analysis | Efe Özel | [Read More](https://medium.com/p/1ab4f441267c) |
+| Mon, 25 May 2026 22:01:00 GMT | SEC’s 72-Hour Vendor Clock Tests Client Trust | James Kuhman | [Read More](https://medium.com/p/879f348c3c3d) |
+| Mon, 25 May 2026 21:55:53 GMT | VPN: The Best Tool You’re Using Wrong | CyberNorse | [Read More](https://medium.com/p/dbef46757660) |
+| Mon, 25 May 2026 21:54:56 GMT | Extending Wazuh detection capabilities with clickdetect, Opensearch PPL and Sigma Rules | Vinicius Morais | [Read More](https://medium.com/p/3a52e706cac5) |
+| Mon, 25 May 2026 21:49:05 GMT | The Hidden Danger of Vibe Coding | Fadybasem - ( SilentN0va ) | [Read More](https://medium.com/p/72a91134fc6f) |
+| Mon, 25 May 2026 21:45:27 GMT | What Defenders Read in a Vulnerability Report | Koochanasaipranav | [Read More](https://medium.com/p/cb8562d73e2c) |
+| Mon, 25 May 2026 21:41:31 GMT | Hunters Don’t Email the Prey: A Hypergame Reading of Zhang’s AI Security Publication Gap | Berend Watchus | [Read More](https://medium.com/p/480362b17960) |
+| Mon, 25 May 2026 21:37:32 GMT | Hunters Don’t Email the Prey: A Hypergame Reading of Zhang’s AI Security Publication Gap | Berend Watchus | [Read More](https://medium.com/p/8d8278921fde) |
+| Mon, 25 May 2026 21:33:12 GMT | Exploiting a mass assignment vulnerability | Ericmpta | [Read More](https://medium.com/p/358027677e3e) |
+| Mon, 25 May 2026 21:32:40 GMT | The Bot Has a Badge | Harper Knox | [Read More](https://medium.com/p/2b77b30a6de2) |
+| Mon, 25 May 2026 21:32:25 GMT | Potato - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/57c2cfcdef5e) |
 | Mon, 25 May 2026 20:59:48 GMT | The Group Chat That Got Hacked | Bagazin, Dela Cerna, Pelayo | [Read More](https://medium.com/p/3d0295e55483) |
 | Mon, 25 May 2026 20:49:04 GMT | 10 Days of Honeypot Data — 89,000+ Attacks, 1 Botnet Cluster, and a C2 Server | Mehmet Ali Yener | [Read More](https://medium.com/p/b68486fd4c59) |
 | Mon, 25 May 2026 20:38:35 GMT | Microsoft Eases Windows Update Frustrations With New Pause Feature | Nomi | [Read More](https://medium.com/p/eb24c7a6e586) |
@@ -83,6 +97,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 May 2026 15:36:57 GMT | Splunk 3 Walkthrough — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/feabc4577d21) |
 | Mon, 25 May 2026 15:36:54 GMT | The Great Enterprise Heist: Why Hackers Hate Onions (And Why You Should Love Them)
 A heist movie… | RootAccess Ai. | [Read More](https://medium.com/p/87bd9d4d13cd) |
+| Mon, 25 May 2026 15:36:35 GMT | Laporan Praktikum Struktur Data : Dijkstra | Cahyoadi | [Read More](https://medium.com/p/227835f3816a) |
 | Mon, 25 May 2026 15:36:22 GMT | HTB Global Cyber Skills Benchmark CTF 2026 — Open Wound Forensics Full Solution | CYBER_SPACE | [Read More](https://medium.com/p/d3f250f4d9cf) |
 | Mon, 25 May 2026 15:31:54 GMT | Invisible Exploits: The Rise of AI Supply Chain Attacks | Harsh Tandel | [Read More](https://medium.com/p/41abf13f1d68) |
 | Mon, 25 May 2026 15:31:38 GMT | The 4-Step Checklist to Spot Email Scams: A Stress-Free Guide for Seniors | Alex | [Read More](https://medium.com/p/bddf2eaad8bc) |
@@ -98,18 +113,3 @@ A heist movie… | RootAccess Ai. | [Read More](https://medium.com/p/87bd9d4d13c
 | Mon, 25 May 2026 14:59:10 GMT | Laporan Praktikum Basis Data: Teknik Optimasi Query SQL | Muhammad Fauza Asfadani | [Read More](https://medium.com/p/e12020883e85) |
 | Mon, 25 May 2026 14:56:59 GMT | AI Security Digest - May 18–24, 2026 | Tal Eliyahu | [Read More](https://medium.com/p/b8a184ca46f5) |
 | Mon, 25 May 2026 14:56:08 GMT | Ghana’s NITA Bill 2025: Could It Transform Tech Innovation? But At What Cost? | alexaine | [Read More](https://medium.com/p/6511480bdcb1) |
-| Mon, 25 May 2026 14:53:31 GMT | The Double-Edged Algorithm: AI in Cybersecurity | Athul jos | [Read More](https://medium.com/p/0198c1828f3c) |
-| Mon, 25 May 2026 14:51:06 GMT | PortSwigger Lab #2 — Username Enumeration via Subtly Different Responses | b4dk4rm4sec | [Read More](https://medium.com/p/6771d4cbd1ab) |
-| Mon, 25 May 2026 14:43:33 GMT | Broken Access Control: The Quiet Vulnerability Behind Massive Data Breaches | Dark Node | [Read More](https://medium.com/p/86ab34c2c47d) |
-| Mon, 25 May 2026 14:23:16 GMT | OSCP+ Exam 2026: Strategy, Reporting, Tips , and Lessons | Contact Aryan Here | [Read More](https://medium.com/p/484363f29f6c) |
-| Mon, 25 May 2026 14:19:37 GMT | Look at this, we created this | consolexyz | [Read More](https://medium.com/p/5dfbd6daee21) |
-| Mon, 25 May 2026 14:19:29 GMT | I Reverse-Engineered Ring’s “End-to-End Encryption” — What I Found Should Terrify 40 Million… | suicidal_teddy | [Read More](https://medium.com/p/a634c17560a1) |
-| Mon, 25 May 2026 14:09:02 GMT | Stop Feeding Your Secrets to AI: .cursorignore File Every Developer Needs | Artem Kuchumov | [Read More](https://medium.com/p/7866c11e1712) |
-| Mon, 25 May 2026 14:01:02 GMT | SOC Level 1- Understanding the Role of a Junior Security Analyst and the Blue Team | Aparna Mishra | [Read More](https://medium.com/p/97f82017d8c1) |
-| Mon, 25 May 2026 13:50:32 GMT | Seeing the Invisible in Your Network: Brute-Force Attack Detection | Şevval Aydoğan | [Read More](https://medium.com/p/7b6a5ec2c4d4) |
-| Mon, 25 May 2026 13:31:01 GMT | Model Safety vs. Application Security: The AI Boundary Most Teams Aren’t Building | Bedrettin Cakmak | [Read More](https://medium.com/p/8484f586046a) |
-| Mon, 25 May 2026 13:31:00 GMT | When Did Parenting Become a Democracy? | Gomati Sekhar | [Read More](https://medium.com/p/20ebca17914c) |
-| Mon, 25 May 2026 13:06:41 GMT | The Generosity of Letting Someone Be Right About You | Beyond Borders | [Read More](https://medium.com/p/1766b3f122ad) |
-| Mon, 25 May 2026 13:01:01 GMT | I Sent You a JPEG. Now I Own Your Mac. | Anmol Singh Yadav | [Read More](https://medium.com/p/e49c5c27374f) |
-| Mon, 25 May 2026 12:57:09 GMT | Smart Workflow Automation: Hire Skilled N8N Experts to Scale Business Efficiency | n8ndevelopers | [Read More](https://medium.com/p/9267c07ba8ba) |
-| Mon, 25 May 2026 12:51:38 GMT | From Detection to Evasion: My First Windows Defender Bypass Research & MSRC Disclosure | Maccioni Andrea | [Read More](https://medium.com/p/0893e4256870) |
