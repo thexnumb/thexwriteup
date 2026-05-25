@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 May 2026 19:41:00 GMT | Penetration Testing Frameworks- TryHackMe | Jose Praveen | [Read More](https://medium.com/p/3815afb44952) |
+| Mon, 25 May 2026 19:29:20 GMT | A history of Juniper Networks: from startup to industry leader | NetworkTigers | [Read More](https://medium.com/p/a33068cf6443) |
+| Mon, 25 May 2026 19:21:29 GMT | SOC Fundamentals & Baseline | Magdaline Arianda | [Read More](https://medium.com/p/037532a7686f) |
+| Mon, 25 May 2026 19:20:30 GMT | A history of Cisco Systems, Inc. | NetworkTigers | [Read More](https://medium.com/p/ce94580ff37d) |
+| Mon, 25 May 2026 19:19:46 GMT | Explore how I hunted an entire government’s db from a multi national car dealer’s forgotten… | Issan | [Read More](https://medium.com/p/119d7641ced9) |
+| Mon, 25 May 2026 19:16:09 GMT | Your Medical Records Are for Sale. And Nobody Is Stopping It. | cyber security | [Read More](https://medium.com/p/59b0abe074e3) |
+| Mon, 25 May 2026 19:13:40 GMT | What Is Risk Management in Cyber Security? A Practical Guide for Growing Companies | Vinali Marketing | [Read More](https://medium.com/p/7bb2ff725680) |
+| Mon, 25 May 2026 19:09:49 GMT | The Altruist’s Plight | Muse And Misery | [Read More](https://medium.com/p/6e747a95e338) |
+| Mon, 25 May 2026 19:04:02 GMT | Google DeepMind’s CodeMender | SOCFortress | [Read More](https://medium.com/p/a21257d138c6) |
+| Mon, 25 May 2026 19:03:00 GMT | SOC Analisti Olmak İsteyenler İçin Kapsamlı Rehber: CIA Triad’dan Threat Hunting’e, Splunk ES’ten… | Muhammed Emin Berberoğlu | [Read More](https://medium.com/p/4a0af2f3e09b) |
+| Mon, 25 May 2026 19:00:22 GMT | Android Uygulamalarında IPC ve Bileşen Güvenliği | Aybora Ünveren | [Read More](https://medium.com/p/28b92c5eb98e) |
+| Mon, 25 May 2026 18:59:42 GMT | Defense in Depth: The Bedrock of Modern Cybersecurity | Samilaydin | [Read More](https://medium.com/p/a0aff8bddff7) |
+| Mon, 25 May 2026 18:43:03 GMT | The Planets: Earth Vulnhub CTF Walkthrough | Houston Jones | [Read More](https://medium.com/p/0a26a846dab9) |
+| Mon, 25 May 2026 18:35:54 GMT | Intercepting Docker Application Requests Using Burp Suite on Windows | MD Mehedi Hasan | [Read More](https://medium.com/p/4060a8ff1a4d) |
+| Mon, 25 May 2026 18:35:11 GMT | Holy shit — Drupal just dropped a MAXIMUM severity SQL injection (CVE-2026–9082) | Sukhpinder Singh | [Read More](https://medium.com/p/ddaf7b7fb456) |
+| Mon, 25 May 2026 18:31:43 GMT | The Zero-Trust Agent: Architecting Guardrails | Nixon Kurian | [Read More](https://medium.com/p/cf687ad7ac3a) |
+| Mon, 25 May 2026 18:31:00 GMT | Credentials Leaked in JS: Inspect Element, Then Exfiltrate | xploiterr | [Read More](https://medium.com/p/01c6f1726ad3) |
+| Mon, 25 May 2026 18:25:06 GMT | I Put an XSS Payload as My Contact Name, and a Bank Paid the Price | Barengsinau | [Read More](https://medium.com/p/05504b8c4dfe) |
+| Mon, 25 May 2026 18:23:48 GMT | The Hidden Trail: How Digital Footprints Reveal More Than You Think | Neerav Patel | [Read More](https://medium.com/p/2f7e87b24951) |
+| Mon, 25 May 2026 18:22:05 GMT | Ghost Company, Real Damage: An Investigative Report on Zorvyn FinTech and India’s Fake Hiring… | RewaS | [Read More](https://medium.com/p/f6ef69f5f885) |
+| Mon, 25 May 2026 18:17:00 GMT | The ISO 27001 Governance Chain: Why Controls 5.1 Through 5.4 Stand or Fall Together | Kush Patel | [Read More](https://medium.com/p/04d616cba86e) |
+| Mon, 25 May 2026 17:54:01 GMT | Indoor vs Outdoor Cameras: Which Is Best for Your Home? | AlexBryn | [Read More](https://medium.com/p/b9e5fdc46180) |
+| Mon, 25 May 2026 17:44:46 GMT | When OTPs Lose Their Identity: Breaking an Email Verification Flow | 0xTaki | [Read More](https://medium.com/p/2a0b1a8e77ef) |
 | Mon, 25 May 2026 17:37:05 GMT | Menatap Masa Depan Digital ; | NATALIA CHRISNA HAPSTARI | [Read More](https://medium.com/p/2de9d3c9f089) |
 | Mon, 25 May 2026 17:30:21 GMT | I Don’t Want to Quit — I Just Want This to Feel Worth It Again | Sayali Hatwar | [Read More](https://medium.com/p/87e260fe6e3d) |
 | Mon, 25 May 2026 17:28:10 GMT | Your AI Has Learned Your Biases. Now Try Teaching It to Forget. | Alina Hota | [Read More](https://medium.com/p/2148c18bcd4e) |
@@ -90,27 +113,3 @@ A heist movie… | RootAccess Ai. | [Read More](https://medium.com/p/87bd9d4d13c
 | Mon, 25 May 2026 12:27:56 GMT | Why Small and Medium Businesses Need a Virtual CIO More Than Ever | Century Solutions Group | [Read More](https://medium.com/p/ae6d7ea92ae1) |
 | Mon, 25 May 2026 12:25:28 GMT | Your Complete OverTheWire Bandit Journey | Disaster | [Read More](https://medium.com/p/a4080a5d640e) |
 | Mon, 25 May 2026 12:21:16 GMT | Agentic Defense: The Next Evolution of Security Operations | Demetrio Milea | [Read More](https://medium.com/p/69509b5f6575) |
-| Mon, 25 May 2026 12:16:00 GMT | Beyond the Security Checklist: Why Context Matters More Than Hardware in Manufacturing | Luke Appleby | [Read More](https://medium.com/p/242211af8103) |
-| Mon, 25 May 2026 12:13:57 GMT | Why QA Analysts Are Essential for High-Quality Digital Products | Xwtempsolutions | [Read More](https://medium.com/p/b36b55336945) |
-| Mon, 25 May 2026 12:12:48 GMT | Claude-BugHunter: The Open-Source AI Security Agent That Turns Claude Code Into a Bug Bounty… | TechLatest.Net | [Read More](https://medium.com/p/b480582a6925) |
-| Mon, 25 May 2026 12:08:16 GMT | How I found Misconfigured Server Exposed Git Repository and Internal Assets | JEETPAL | [Read More](https://medium.com/p/071f1f82aa0c) |
-| Mon, 25 May 2026 12:01:58 GMT | this app is very nice app #taskplanet #Real_money_earning | Biswajit Samanta | [Read More](https://medium.com/p/c585525c8fe7) |
-| Mon, 25 May 2026 12:01:01 GMT | What the Fork, the Bicycle, and ChatGPT All Have in Common | James Curtis | [Read More](https://medium.com/p/8449668a61af) |
-| Mon, 25 May 2026 11:58:46 GMT | Information Gathering . | @OlwenyMohammed | [Read More](https://medium.com/p/737df8553d58) |
-| Mon, 25 May 2026 11:57:44 GMT | The AI Firewall: How Engineers Stop Attackers from Brainwashing LLMs | Esvanth | [Read More](https://medium.com/p/bfd921aeca5b) |
-| Mon, 25 May 2026 11:57:04 GMT | Healthcare Data Breaches Continue to Rise as 266,000 Individuals Impacted in Radiology Associates… | Jas | [Read More](https://medium.com/p/7cc75a320806) |
-| Mon, 25 May 2026 11:47:00 GMT | I Watched Money Move Twice From the Same Request. That’s When I Understood Idempotency. | Rgupta | [Read More](https://medium.com/p/600939830a0e) |
-| Mon, 25 May 2026 11:41:07 GMT | Lab: SSRF with whitelist-based input filter - SSRF #lab7 | PRiTi.EX | [Read More](https://medium.com/p/97a086afe26a) |
-| Mon, 25 May 2026 11:40:43 GMT | Accidentally Deleted Files on Your NAS? Don’t Panic — Here’s How to Recover Them Without Risk | Shikha Kumari | [Read More](https://medium.com/p/a61fd69c5eb1) |
-| Mon, 25 May 2026 11:37:02 GMT | Shift left with automated penetration testing: Integrating AWS Security Agent into your CI/CD… | Tim Wang | [Read More](https://medium.com/p/957248d765ec) |
-| Mon, 25 May 2026 11:36:09 GMT | The Curious Case of the Phantom Login Screen: How a Malicious App Hijacked Our Launch Flow | Sashank | [Read More](https://medium.com/p/bccee9c6340b) |
-| Mon, 25 May 2026 11:28:58 GMT | Information Gathering and OSINT | Mohd Kaif | [Read More](https://medium.com/p/aeaf71dd405c) |
-| Mon, 25 May 2026 11:26:56 GMT | Mobile Banking Is Expanding Faster Than Cybersecurity
-Awareness in Developing Countries | Liyu | [Read More](https://medium.com/p/2b6bef341f19) |
-| Mon, 25 May 2026 11:21:22 GMT | How Quantum Computing Is Reshaping Modern Cybersecurity | Tvmoffensobacklink | [Read More](https://medium.com/p/9491a5690ae7) |
-| Mon, 25 May 2026 11:11:50 GMT | The Supply Chain Scare That Has Every Hunter Changing Their Game. | Nitin yadav | [Read More](https://medium.com/p/99befa5aac96) |
-| Mon, 25 May 2026 11:01:00 GMT | Writeup for CyLab/picoCTF challenge “More SQLi” | Walter Moar | [Read More](https://medium.com/p/ac6d17f63ba1) |
-| Mon, 25 May 2026 11:00:23 GMT | 8 Regional HRMS Platforms in India for Tier 2 and Tier 3 Companies 2026 | Aditi Sharma | [Read More](https://medium.com/p/7925df21b37e) |
-| Mon, 25 May 2026 10:51:18 GMT | Menembus Batas Teori ; | nathalia hapstari | [Read More](https://medium.com/p/9cc1ffb51c63) |
-| Mon, 25 May 2026 10:43:47 GMT | [1989] Pre-digital future: the strange brilliance of microfiche technology | Retro Tech Show | [Read More](https://medium.com/p/72ecee32416a) |
-| Mon, 25 May 2026 10:39:19 GMT | Modernising Legacy Code: Challenges and Powerful Techniques — Bounded Autonomy, Deterministic… | Naiyer Abdali | [Read More](https://medium.com/p/1800fb3a090d) |
