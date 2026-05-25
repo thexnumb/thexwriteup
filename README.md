@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 25 May 2026 04:57:09 GMT | The “Noise Filter” Method – How I Stop Wasting Hours on False Positives | Decline | [Read More](https://medium.com/p/9c74b1e53640) |
+| Mon, 25 May 2026 04:53:52 GMT | Investigating an Atlassian Confluence 0-Day Exploitation Attempt — SOC235: CVE-2023–22515 -… | Ajaydevsv | [Read More](https://medium.com/p/0e79c6e382a1) |
+| Mon, 25 May 2026 04:45:57 GMT | Your security team is chasing yesterday’s attacks. Here is how to get ahead of tomorrow’s. | Gruve | [Read More](https://medium.com/p/494916d0b779) |
+| Mon, 25 May 2026 04:42:15 GMT | SEBI’s AI Advisory Is a Wake-Up Call for Financial Cybersecurity | Lakshita Gulliya | [Read More](https://medium.com/p/74178ca88c12) |
+| Mon, 25 May 2026 04:32:31 GMT | Four Tech Paths Where Hiring Hasn’t Slowed Down — And Exactly How to Start Each One | Ayesha Mughal | [Read More](https://medium.com/p/1a07ff19ff3a) |
+| Mon, 25 May 2026 04:32:16 GMT | Prompt Injection Explained: The #1 AI Security Bug, with Live Examples | Umang | [Read More](https://medium.com/p/c7bafb2a8c71) |
+| Mon, 25 May 2026 04:30:26 GMT | Google Integrates CodeMender Into Agent Platform Strategy | Valentin Podkamennyi | [Read More](https://medium.com/p/db3df5dd1c80) |
+| Mon, 25 May 2026 04:21:15 GMT | Shift Left Security: The Development Habit That Saves Teams From 2 AM Incidents | Mohit Salvi | [Read More](https://medium.com/p/35093f049a76) |
+| Mon, 25 May 2026 04:16:03 GMT | I Found 3 Critical Vulnerabilities in an AI-Powered SOC Platform — Full Attack Chain | Shikhali Jamalzade | [Read More](https://medium.com/p/e37a5733002e) |
+| Mon, 25 May 2026 04:10:36 GMT | HunterMarkets Builds Core Digital Finance Infrastructure, Driving Global Asset Flow and Trading… | HunterMarkets | [Read More](https://medium.com/p/662f160f0a86) |
+| Mon, 25 May 2026 04:00:04 GMT | Why Hack Me — Writeup | n3erajan | [Read More](https://medium.com/p/1c3bd218c4bc) |
+| Mon, 25 May 2026 03:55:40 GMT | Understanding Network Services & Server Operating Systems | Shadman Shakib | [Read More](https://medium.com/p/2698f453b1a9) |
+| Mon, 25 May 2026 03:22:06 GMT | My Experience With H&M’s Bug Bounty Program | licohunter | [Read More](https://medium.com/p/7dc4185945e5) |
+| Mon, 25 May 2026 03:11:08 GMT | South Korea’s Cybersecurity Problem: Technology, North Korea, and Digital Warfare | Blake Berisford | [Read More](https://medium.com/p/369b53f50168) |
+| Mon, 25 May 2026 03:06:43 GMT | Bounty Hacker — TryHackMe Writeup - FTP, Hydra & Tar Privesc | Sanihpullat | [Read More](https://medium.com/p/e4c1b04e7bd6) |
+| Mon, 25 May 2026 03:05:21 GMT | Creators Turn Attacks Into Entertainment | hide | [Read More](https://medium.com/p/f504ccf6e328) |
+| Mon, 25 May 2026 02:36:40 GMT | Wireshark 4.6.6 | Manula Udyoga | [Read More](https://medium.com/p/3e8f367d5db1) |
+| Mon, 25 May 2026 01:37:33 GMT | TryHackMe: Prompt Injection Writeup | Tega Akperiojire (cyber_with_tega) | [Read More](https://medium.com/p/3ff914ccfad7) |
+| Mon, 25 May 2026 00:31:00 GMT | Firebase App Check: Stopping Abuse Before It Costs You | Himanshu Sharma | [Read More](https://medium.com/p/dac096fbd64c) |
+| Mon, 25 May 2026 00:15:13 GMT | Rolling Dice on a $60 handheld | Ming | [Read More](https://medium.com/p/08be2780ad64) |
 | Sun, 24 May 2026 23:34:31 GMT | THE SYMPHONY OF DEFENSE | Timothy Allen Lee | [Read More](https://medium.com/p/95587eea7648) |
 | Sun, 24 May 2026 23:29:01 GMT | A Tiny RAG Security Test: What Happens When the Knowledge Base Is Poisoned | Acharyafutures | [Read More](https://medium.com/p/780debfa7c1b) |
 | Sun, 24 May 2026 23:13:11 GMT | 2026 Cloud Solutions Report, #3: Security | Chaesang Jung | [Read More](https://medium.com/p/f364eaacf2bc) |
@@ -95,23 +115,3 @@ How I Earned My First $200 Finding a Hidden API Leak | Theankitsaini16 | [Read M
 | Sun, 24 May 2026 17:13:16 GMT | Hacking with Hexstrike MCP and Claude code & OpenCode | Nikhilur | [Read More](https://medium.com/p/5adaf25a3c15) |
 | Sun, 24 May 2026 16:45:04 GMT | Why Sunny Nehra Is Considered the Best Hacker in India? | CyberSecurity Informer | [Read More](https://medium.com/p/f92e3fa90c68) |
 | Sun, 24 May 2026 16:40:40 GMT | Windows System Monitoring: The Skill Most Beginners Ignore Until a System Crashes | Little_Sun4lower | [Read More](https://medium.com/p/7c0dedbdde54) |
-| Sun, 24 May 2026 16:39:43 GMT | Password Reset Links Are Not Normal Links: A React Security Mistake Junior Developers Often Miss | Abdulshakoor | [Read More](https://medium.com/p/c97d0205c9d5) |
-| Sun, 24 May 2026 16:39:31 GMT | IPv6 (CCNA) — PART 1 | Anurag | [Read More](https://medium.com/p/d800a3eb830e) |
-| Sun, 24 May 2026 16:30:06 GMT | Easy Way To Get Your First Vulnerability | Seafeldeenwael | [Read More](https://medium.com/p/a2adb92c362b) |
-| Sun, 24 May 2026 16:27:50 GMT | SentinelOne Was Watching, So Sable Took the Quiet Path | Daniel Knight | [Read More](https://medium.com/p/67d5d73a5a32) |
-| Sun, 24 May 2026 16:26:04 GMT | I Studied Prompt Injection Attacks on ChatGPT. Then I Built Defenses to Stop Them. | Shreyasri | [Read More](https://medium.com/p/1fa394cb2c5a) |
-| Sun, 24 May 2026 16:05:53 GMT | Before Asking “Are We Vulnerable?”, Bumblebee Helps Answer “Where Do We Look?” | Lakshmi narayana .U | [Read More](https://medium.com/p/d988409b83a5) |
-| Sun, 24 May 2026 15:58:29 GMT | HTB: Timelapse | Nazarov Samir | [Read More](https://medium.com/p/03fef7f17e95) |
-| Sun, 24 May 2026 15:55:40 GMT | Your AI Assistant Has Already Been Hacked — It Just Doesn’t Know It Yet. | Aditya Mangal | [Read More](https://medium.com/p/069fbc1ae0d3) |
-| Sun, 24 May 2026 15:46:52 GMT | Content Discovery Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/e92dfa8fcf40) |
-| Sun, 24 May 2026 15:42:28 GMT | Building Interactive CLI Systems: A Case Study in Python Security Simulations | Louis (Pearl) Eyoung | [Read More](https://medium.com/p/0a95e438a21a) |
-| Sun, 24 May 2026 15:42:18 GMT | Day 10: Enumeration — Pulling Real Data From Open Doors | Adarsh Vardhan | [Read More](https://medium.com/p/57df56afe805) |
-| Sun, 24 May 2026 15:37:18 GMT | Como encontrar vulnerabilidades | FreeDev | [Read More](https://medium.com/p/faedd32b5468) |
-| Sun, 24 May 2026 15:28:34 GMT | TryHackMe: Boogeyman 1 - Write-Up | Ash T | [Read More](https://medium.com/p/7ef135f7cf47) |
-| Sun, 24 May 2026 15:27:50 GMT | Building a Local SOC Lab From Scratch: A Step-by-Step Guide Using Elastic Stack | Hussein 404 | [Read More](https://medium.com/p/727deb125c68) |
-| Sun, 24 May 2026 15:22:52 GMT | Data Extraction | Davenyamongo | [Read More](https://medium.com/p/12bc08f0b49d) |
-| Sun, 24 May 2026 15:19:17 GMT | Batas Legal Penetration Testing dan Bug Bounty: Kapan Ethical Hacking Menjadi Akses Ilegal? | Gilanghappy | [Read More](https://medium.com/p/de765bd42344) |
-| Sun, 24 May 2026 15:16:00 GMT | Identity & Access Management (IAM): Roles, Policies, and MFA | Manula Udyoga | [Read More](https://medium.com/p/684327862b74) |
-| Sun, 24 May 2026 15:15:49 GMT | Introduction to Web Application Security Testing | Z3r0D4y | [Read More](https://medium.com/p/e1282a3a77ab) |
-| Sun, 24 May 2026 15:14:34 GMT | The Art and Science of Coding: Exploring Modern Software Development | Curious | [Read More](https://medium.com/p/27b7cceff367) |
-| Sun, 24 May 2026 15:14:24 GMT | AI-Assisted Cyberattacks Are Accelerating Faster Than Defenders Can Respond | Terynn Hill | [Read More](https://medium.com/p/eaa9e1fd799c) |
