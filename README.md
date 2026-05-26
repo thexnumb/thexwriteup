@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 May 2026 20:52:01 GMT | Your Password Was Probably Stolen Months Ago And Someone Is Already Using It | Pafora Technologies | [Read More](https://medium.com/p/d8897bb4e07b) |
+| Tue, 26 May 2026 20:46:42 GMT | Admin Has the Power — CTF Write-Up | anubis404 | [Read More](https://medium.com/p/1cb285c8a4b9) |
+| Tue, 26 May 2026 20:42:01 GMT | The Silent Failure of Modern Threat Detection Systems | JSOC IT BLOG | [Read More](https://medium.com/p/25fb5245f917) |
+| Tue, 26 May 2026 20:40:37 GMT | Active Directory Attacks — Kerberoasting | Osec | [Read More](https://medium.com/p/249caf3926b8) |
+| Tue, 26 May 2026 20:31:57 GMT | Why Getting a Tech Job Right Now Feels Broken? | Alvison Hunter | [Read More](https://medium.com/p/fbbfb26a1206) |
+| Tue, 26 May 2026 20:22:08 GMT | How Malware Resolves APIs Using Pre-Computed Hashes: No Imports, No Strings | CHANDRA KANT BAURI | [Read More](https://medium.com/p/474be5069c02) |
+| Tue, 26 May 2026 20:21:58 GMT | How Vibe Coding Is Rewiring Geopolitics, Power, and the Web | Learn With Hatty | [Read More](https://medium.com/p/aa18afec1f21) |
+| Tue, 26 May 2026 20:12:48 GMT | Reentrancy Attacks: Why This 2016 Bug Still Drains DeFi in 2026 | Axiom Security Base | [Read More](https://medium.com/p/23dfa64e4519) |
+| Tue, 26 May 2026 20:07:27 GMT | How to expose your on-prem server to the internet without a public IP | Kamran Hashmi | [Read More](https://medium.com/p/fac167502837) |
+| Tue, 26 May 2026 19:56:03 GMT | I Built a Home Firewall Lab to Understand How pfSense Protects a Network — Here’s What I Learned | Dwolf | [Read More](https://medium.com/p/64547f1347dc) |
+| Tue, 26 May 2026 19:53:46 GMT | Stop Opening Port 22: Secure EC2 Access with AWS SSM + SSH | Fedi Bounouh | [Read More](https://medium.com/p/27536c18d8a2) |
+| Tue, 26 May 2026 19:49:01 GMT | I Built an AI SOC Analyst in n8n That Triages Wazuh Alerts For Me — Here’s Every Node, Explained | Neetrox | [Read More](https://medium.com/p/19677be25bd2) |
+| Tue, 26 May 2026 19:44:47 GMT | [ Writed Up ] Hacktrace Rangers - PhishHunt | Arya Utomo | [Read More](https://medium.com/p/84821dbed70f) |
+| Tue, 26 May 2026 19:43:06 GMT | ‘Megalodon’ Attack Swallowed 5,561 GitHub Repositories | SOCFortress | [Read More](https://medium.com/p/92db9361328e) |
+| Tue, 26 May 2026 19:33:54 GMT | The SABSA Framework: Risk-Driven Enterprise Security Architecture | Meravytes | [Read More](https://medium.com/p/21ba2a917dea) |
+| Tue, 26 May 2026 19:01:00 GMT | Securing Openflow Runtimes: A Layered Approach to Deploy, Operate and Monitor | Shantanu Gope | [Read More](https://medium.com/p/71fee07c4a3f) |
+| Tue, 26 May 2026 19:00:19 GMT | Cyber Defense Is Becoming an Agent of War | Zoom In AI | [Read More](https://medium.com/p/75b34b305caa) |
+| Tue, 26 May 2026 18:47:36 GMT | A Small Bug I Almost Ignored — Turned Into $50 Cash + Lifetime Premium | MD Shohanur Rahman | [Read More](https://medium.com/p/f0d5078d87d2) |
+| Tue, 26 May 2026 18:45:16 GMT | Wazuh: CVE-2026–25769 Walkthrough — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/91012b55f96c) |
 | Tue, 26 May 2026 18:35:21 GMT | Security Controls Gap Analysis: How to Find and Fix Your Weak Points | Loginsoft | [Read More](https://medium.com/p/2fe6d4687f75) |
 | Tue, 26 May 2026 18:31:30 GMT | The Air-Gap Paradox: Deploying Zero-Trust AI for Defense and Advanced Research | AI Mind Teams | [Read More](https://medium.com/p/4f54a6f93bc6) |
 | Tue, 26 May 2026 18:31:26 GMT | The Privacy Stack: A Practitioner’s Guide to Secure Computation | Nergiz Yuca | [Read More](https://medium.com/p/acb3376f7e55) |
@@ -94,22 +113,3 @@ Download this link… | Biswajit Samanta | [Read More](https://medium.com/p/d477
 | Tue, 26 May 2026 11:40:05 GMT | Anthropic’s Shoggoth Didn’t Evolve. The Eval Did. | Peter M. | [Read More](https://medium.com/p/d72bfa030e86) |
 | Tue, 26 May 2026 11:34:55 GMT | Get PQC Ready PDQ — Part 2 | Brett Crawley | [Read More](https://medium.com/p/8ef2a68325f5) |
 | Tue, 26 May 2026 11:10:26 GMT | Tech Ecosystem is Shaping the Future of Global Business | Eratec Solution | [Read More](https://medium.com/p/c60e43b94fea) |
-| Tue, 26 May 2026 11:05:31 GMT | Binding Pins & Broken Logic | P3g4su | [Read More](https://medium.com/p/281153e2fcde) |
-| Tue, 26 May 2026 11:02:11 GMT | How I Used Burp Suite to Discover a $6,000 XSS Vulnerability Through Responsible Disclosure | Cybervolt | [Read More](https://medium.com/p/27ff36dc6a9b) |
-| Tue, 26 May 2026 10:56:38 GMT | Understanding AI-Native Security (Part 2) | Raman Garg | [Read More](https://medium.com/p/c1e5e4dfa682) |
-| Tue, 26 May 2026 10:55:23 GMT | The Reason Therapy Works — and the Reason It Doesn’t | Federico Rossi | [Read More](https://medium.com/p/2b133b7f1021) |
-| Tue, 26 May 2026 10:45:38 GMT | Penetration Testing Services: Strengthening Your Business Against Cyber Threats | SmartCLOUD Australia | [Read More](https://medium.com/p/2ec50a37caf1) |
-| Tue, 26 May 2026 10:23:17 GMT | Supply Chain Attacks Just Hit GitHub Itself — Defending Your CI/CD Pipeline Against Extension… | Oleksandr Sanin | [Read More](https://medium.com/p/7e91ec116407) |
-| Tue, 26 May 2026 10:22:20 GMT | I Bypassed a 404 Page With cURL and Earned $2,500 From One Bug | Halohashm | [Read More](https://medium.com/p/c1352a2163a4) |
-| Tue, 26 May 2026 10:16:39 GMT | Red Teaming in Hacking: Simulating Real-World Cyber Attacks -- Ethical Hacking Services | BlackHat | [Read More](https://medium.com/p/72df649de29a) |
-| Tue, 26 May 2026 10:14:07 GMT | Everyday Tech Accessories | Shabya Singh | [Read More](https://medium.com/p/1ff60d9b915e) |
-| Tue, 26 May 2026 10:11:28 GMT | I Scanned an Intentionally Vulnerable Linux Server with Nessus. Here’s What We Found. | Official khaleelajibola | [Read More](https://medium.com/p/e2799fa30da9) |
-| Tue, 26 May 2026 10:10:24 GMT | eJPT v2 : Challenge Lab 34: Year of the Dog CTF | Dhanushkumar R | [Read More](https://medium.com/p/cc8521cec3c1) |
-| Tue, 26 May 2026 10:10:22 GMT | From Contact Us to Critical — How I Earned My First €2,000 in Bug Bounty | Xsora7 | [Read More](https://medium.com/p/a666432ef0fb) |
-| Tue, 26 May 2026 09:56:43 GMT | Why I Chose Bug Bounty Hunting and API Security Research | Sandeep Naysrania | [Read More](https://medium.com/p/ecaa3ed08fdf) |
-| Tue, 26 May 2026 09:46:30 GMT | One Person. Six Zero-Days. Six Weeks. Microsoft Is Bleeding. | Muhammad Shahzad | [Read More](https://medium.com/p/9ad0e5905592) |
-| Tue, 26 May 2026 09:44:01 GMT | Cyber Security Course in BTM Layout Bangalore — Ascent Software Training Institute | Ascent Software Training Institute | [Read More](https://medium.com/p/1fd7c4abb5ef) |
-| Tue, 26 May 2026 09:41:11 GMT | A moonshot for solving the climate crisis | Erik Kvam | [Read More](https://medium.com/p/a64e2776b502) |
-| Tue, 26 May 2026 09:40:20 GMT | 2 Password Reset Mistakes Developers Still Make | Abdulshakoor | [Read More](https://medium.com/p/df25bbef13ec) |
-| Tue, 26 May 2026 09:36:04 GMT | Security Analytics and Automation: A Smart Approach to Cybersecurity | Gauri Kale | [Read More](https://medium.com/p/9347a320e55c) |
-| Tue, 26 May 2026 08:55:07 GMT | AI Found a PostgreSQL Bug Hidden for 20 Years | Ajaymaurya | [Read More](https://medium.com/p/689ce3c63209) |
