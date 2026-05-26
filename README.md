@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 May 2026 04:37:22 GMT | 2026 Telegram DPI Blockade Upgrade: AI Detects MTProto Fingerprint, Free Proxies Are Dead? | tgvpn | [Read More](https://medium.com/p/c9bd1f37c83a) |
+| Tue, 26 May 2026 04:29:35 GMT | Command Line — part 2 | ExploitHunter | [Read More](https://medium.com/p/d8e3655b116a) |
+| Tue, 26 May 2026 04:25:55 GMT | Top IT Industry Tools Every Beginner Should Know | Raveena Samarasingha | [Read More](https://medium.com/p/51b08469ba14) |
+| Tue, 26 May 2026 04:13:53 GMT | How I Built My First API Security Tool as a PAM Engineer Learning Python | Rayirth Jaiswal | [Read More](https://medium.com/p/be15aed56f40) |
+| Tue, 26 May 2026 04:13:14 GMT | I Thought My Website Was Secure… Until One <script> Tag Proved Me Wrong | Mohit Salvi | [Read More](https://medium.com/p/392926709733) |
+| Tue, 26 May 2026 03:59:37 GMT | The Pyramid Is Crumbling: What GCCs and AI Are Doing to India’s IT Giants | Sreedhar K | [Read More](https://medium.com/p/19af8712c316) |
+| Tue, 26 May 2026 03:41:00 GMT | Cilium: A Guide to Zero Trust Networking, Security, and Observability in Kubernetes | Kirshi Yin | [Read More](https://medium.com/p/d557e3e2b52a) |
+| Tue, 26 May 2026 03:34:47 GMT | Mitosis Scales Innovations Nicholas Michael Grossi Axiom Hive XPII DNA 2026 Breakthroughs | Ethics | [Read More](https://medium.com/p/88f02b36247b) |
+| Tue, 26 May 2026 03:12:10 GMT | OSINT Techniques I Use Almost Daily | Paritosh | [Read More](https://medium.com/p/44b4c580b9f9) |
+| Tue, 26 May 2026 03:09:06 GMT | Cyber Security with AI Course in Hyderabad | vineetha gadhe | [Read More](https://medium.com/p/67ef3133df70) |
+| Tue, 26 May 2026 03:05:41 GMT | Why Internet Users Should Stop Using Their Main Email Everywhere | InboxOro | [Read More](https://medium.com/p/d3ec43a6768c) |
+| Tue, 26 May 2026 02:53:16 GMT | Digital Arrest: The Scam That Sounds Fake Until It Happens to Someone You Know | Finance @ASK | [Read More](https://medium.com/p/93a2d34268cb) |
+| Tue, 26 May 2026 02:37:07 GMT | THE GHOST IN THE LOBBY: How Cybercriminals Use Your Face and $5 to Steal Your Entire Company | Austin Malin | [Read More](https://medium.com/p/eea6b57e2aab) |
+| Tue, 26 May 2026 02:13:13 GMT | IT User Support的辛酸 | 思維舞步 MindSteps | [Read More](https://medium.com/p/afa50ce12e2f) |
+| Tue, 26 May 2026 02:05:51 GMT | And just like that, the chaos became the silence | Asmita B | [Read More](https://medium.com/p/c773281a51e1) |
+| Tue, 26 May 2026 01:23:19 GMT | Struktur Data: Hashing | RosifaAulia | [Read More](https://medium.com/p/ec9ba346e34c) |
+| Tue, 26 May 2026 00:49:59 GMT | The Planets: MercuryVulnhub CTF Walkthrough | Houston Jones | [Read More](https://medium.com/p/3884230fe368) |
+| Tue, 26 May 2026 00:23:16 GMT | When “Deleted” Isn’t Deleted: Investigating Context Persistence in ChatGPT Projects | Anikerry | [Read More](https://medium.com/p/8d989460376a) |
+| Tue, 26 May 2026 00:08:49 GMT | The Trick Is Finding Both in the Same Person | Yonkou47 | [Read More](https://medium.com/p/cbe11bce668e) |
+| Tue, 26 May 2026 00:03:31 GMT | ️ Data at Rest: Keeping Rogue Admins Out of Your Data Lake | BDhar | [Read More](https://medium.com/p/16968ca74f7f) |
 | Tue, 26 May 2026 00:01:00 GMT | Understanding Replay Attacks in Cybersecurity | Raviteja Mureboina | [Read More](https://medium.com/p/c82df7c13971) |
 | Mon, 25 May 2026 23:58:52 GMT | AI Agents in CI/CD: Give Them Context, Not Production Authority | Grigor Khachatryan | [Read More](https://medium.com/p/4c3417e04a76) |
 | Mon, 25 May 2026 23:45:43 GMT | Transform Your Mac Desktop With Wallspace Live Wallpapers | Karenlugwig | [Read More](https://medium.com/p/d247deff1a88) |
@@ -92,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 25 May 2026 16:45:31 GMT | CISSP Chapter 3 — Part 2: The BIA Is Where Business Priorities Become Recovery Decisions. | Atakan ATAK | [Read More](https://medium.com/p/d83ba56c8fe3) |
 | Mon, 25 May 2026 16:41:25 GMT | 1/10 Ways to Reduce Hallucinations in LLM Applications: Grounding with RAG | Akashshettyonline | [Read More](https://medium.com/p/051102434e6f) |
 | Mon, 25 May 2026 16:41:15 GMT | What If It’s Not Working? | Kaleigh Dugan | [Read More](https://medium.com/p/a8ce7a2d02e4) |
-| Mon, 25 May 2026 16:34:46 GMT | tryhackme: CheeseCTF حل لاب | Moahmmed | [Read More](https://medium.com/p/e062e22755ec) |
-| Mon, 25 May 2026 16:32:20 GMT | Your Password Was Hashed and Salted. So Why Is It Still in the Breach? | Soumya Mohanty | [Read More](https://medium.com/p/75c6bfa83be0) |
-| Mon, 25 May 2026 16:28:55 GMT | The Day I Learned Never to Beg for Friendship Again | Promise Uche | [Read More](https://medium.com/p/da7664229932) |
-| Mon, 25 May 2026 16:25:22 GMT | Every File You Upload to a “Free” PDF Tool Is Being Read. Here’s What You Don’t Know. | Templora | [Read More](https://medium.com/p/1fdb91bf8dc7) |
-| Mon, 25 May 2026 16:13:37 GMT | What Is NAT and Why Your Home Network Needs It (A Beginner’s Guide) | Shalu | [Read More](https://medium.com/p/919129926075) |
-| Mon, 25 May 2026 16:13:35 GMT | S3 Prefix Isolation & Multi-Tenant Security: A Practical Guide | Rahul Hans | [Read More](https://medium.com/p/5e8a84c42c28) |
-| Mon, 25 May 2026 16:11:52 GMT | Professional Security Services | Armor Consulting | [Read More](https://medium.com/p/ee39dfe783c5) |
-| Mon, 25 May 2026 16:10:56 GMT | Pemrograman Mobile : ListView dan Shared References untuk Pengembangan Aplikasi Mobile | Yasa Wijaya | [Read More](https://medium.com/p/8088cdb15274) |
-| Mon, 25 May 2026 16:06:43 GMT | From Payloads to People: The other half of the job | Dumisani Masimini | [Read More](https://medium.com/p/6305848f58e6) |
-| Mon, 25 May 2026 15:55:39 GMT | Web Server Attacks — II Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/d60e269f803b) |
-| Mon, 25 May 2026 15:48:28 GMT | Are We Slowly Losing the Ability to Think for Ourselves? : Social Media Overloaded | Ravindra Bohra | [Read More](https://medium.com/p/da082dd1a35d) |
-| Mon, 25 May 2026 15:46:18 GMT | ji sz yx pr bp db qo representation could be more weight than word | Suke Kahuna IJ | [Read More](https://medium.com/p/a507e534325c) |
-| Mon, 25 May 2026 15:44:53 GMT | Why is Reception Security Important to Enhance Your Value? | Dynamic security solution ltd | [Read More](https://medium.com/p/e423baf27319) |
-| Mon, 25 May 2026 15:36:57 GMT | Splunk 3 Walkthrough — TryHackMe Lab | Hussein 404 | [Read More](https://medium.com/p/feabc4577d21) |
-| Mon, 25 May 2026 15:36:54 GMT | The Great Enterprise Heist: Why Hackers Hate Onions (And Why You Should Love Them)
-A heist movie… | RootAccess Ai. | [Read More](https://medium.com/p/87bd9d4d13cd) |
-| Mon, 25 May 2026 15:36:35 GMT | Laporan Praktikum Struktur Data : Dijkstra | Cahyoadi | [Read More](https://medium.com/p/227835f3816a) |
-| Mon, 25 May 2026 15:36:22 GMT | HTB Global Cyber Skills Benchmark CTF 2026 — Open Wound Forensics Full Solution | CYBER_SPACE | [Read More](https://medium.com/p/d3f250f4d9cf) |
-| Mon, 25 May 2026 15:31:54 GMT | Invisible Exploits: The Rise of AI Supply Chain Attacks | Harsh Tandel | [Read More](https://medium.com/p/41abf13f1d68) |
-| Mon, 25 May 2026 15:31:38 GMT | The 4-Step Checklist to Spot Email Scams: A Stress-Free Guide for Seniors | Alex | [Read More](https://medium.com/p/bddf2eaad8bc) |
-| Mon, 25 May 2026 15:31:00 GMT | Institutional Failure is Moving Fast | A D | [Read More](https://medium.com/p/c10aab79fd53) |
