@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 May 2026 00:01:00 GMT | Understanding Replay Attacks in Cybersecurity | Raviteja Mureboina | [Read More](https://medium.com/p/c82df7c13971) |
+| Mon, 25 May 2026 23:58:52 GMT | AI Agents in CI/CD: Give Them Context, Not Production Authority | Grigor Khachatryan | [Read More](https://medium.com/p/4c3417e04a76) |
+| Mon, 25 May 2026 23:45:43 GMT | Transform Your Mac Desktop With Wallspace Live Wallpapers | Karenlugwig | [Read More](https://medium.com/p/d247deff1a88) |
+| Mon, 25 May 2026 23:36:00 GMT | You Paid for the Penetration Test. Now Why Are You Arguing With the Report? | Selorm Adjabeng | [Read More](https://medium.com/p/7d14b330764b) |
+| Mon, 25 May 2026 23:24:41 GMT | Learning Networking by Asking Questions Instead of Watching Tutorials | Vinothini Velmurugan | [Read More](https://medium.com/p/fc8f2819e1ae) |
+| Mon, 25 May 2026 23:19:13 GMT | The “Chief Electricity Officer” is back, but the metaphor is still wrong | Jon Stevens-Hall | [Read More](https://medium.com/p/dd2e082bbfec) |
+| Mon, 25 May 2026 23:10:22 GMT | Security+: Module 1 — Security Concepts | Debora S. M. | [Read More](https://medium.com/p/2994606d375e) |
+| Mon, 25 May 2026 23:09:11 GMT | The Gentlemen: A large young ransomware threat | Matt | [Read More](https://medium.com/p/93a953434096) |
+| Mon, 25 May 2026 22:45:32 GMT | How Does VPN Encryption Work? The Real Mechanics | UCN VPN | [Read More](https://medium.com/p/50bf9585a881) |
+| Mon, 25 May 2026 22:43:37 GMT | Support Writeup for Jr.Pentester Path — TryHackMe/THM | NHAsec | [Read More](https://medium.com/p/139e8d4c26a4) |
+| Mon, 25 May 2026 22:40:15 GMT | AI-Powered EDR Is About to Change Cyber Security Forever | Yua Mikanana | [Read More](https://medium.com/p/7ab566eb6b4a) |
 | Mon, 25 May 2026 22:30:05 GMT | Kaizero-Building a Privacy-First File Toolkit That Never Sees Your Files | sai vamsi chunduru | [Read More](https://medium.com/p/13bbb12b2fb2) |
 | Mon, 25 May 2026 22:24:42 GMT | TryHackMe CTF Collection Vol. 1 | OwL | [Read More](https://medium.com/p/4ce455406a5c) |
 | Mon, 25 May 2026 22:16:25 GMT | Beyond the OWASP Top 10: Securing GenAI Apps with Google Cloud Model Armor | Dr Roushanak Rahmat | [Read More](https://medium.com/p/e2893db9b45c) |
@@ -102,14 +113,3 @@ A heist movie… | RootAccess Ai. | [Read More](https://medium.com/p/87bd9d4d13c
 | Mon, 25 May 2026 15:31:54 GMT | Invisible Exploits: The Rise of AI Supply Chain Attacks | Harsh Tandel | [Read More](https://medium.com/p/41abf13f1d68) |
 | Mon, 25 May 2026 15:31:38 GMT | The 4-Step Checklist to Spot Email Scams: A Stress-Free Guide for Seniors | Alex | [Read More](https://medium.com/p/bddf2eaad8bc) |
 | Mon, 25 May 2026 15:31:00 GMT | Institutional Failure is Moving Fast | A D | [Read More](https://medium.com/p/c10aab79fd53) |
-| Mon, 25 May 2026 15:28:53 GMT | How to Navigate the World of Modern Technology With Ease | Edward Foster | [Read More](https://medium.com/p/3308d1e9a58d) |
-| Mon, 25 May 2026 15:27:30 GMT | CVE-2021-21735: How a ZTE ZXHN H168N "Info Leak" Could Expose Admin Access and Wi-Fi Passwords | Monx Research | [Read More](https://medium.com/p/22aac051dad5) |
-| Mon, 25 May 2026 15:27:24 GMT | Mobile App Testing Services India: Why Businesses Need Secure and High-Performance Mobile… | Cordeskfuture | [Read More](https://medium.com/p/d285aa6ef895) |
-| Mon, 25 May 2026 15:27:16 GMT | Cyber Security: Protecting the Digital World | Aman Cse | [Read More](https://medium.com/p/7de103b81ca9) |
-| Mon, 25 May 2026 15:19:02 GMT | Your crypto wallet might be lying to you and you’d never know | Vijay KV | [Read More](https://medium.com/p/6df5c9230f07) |
-| Mon, 25 May 2026 15:14:59 GMT | Nigeria on High Alert-Defending the Festive Period | Know Afrika | [Read More](https://medium.com/p/696cd20d4f4e) |
-| Mon, 25 May 2026 15:07:03 GMT | Cyber Resilience on AWS: Recovery from Ransomware | Shriom Tripathi | [Read More](https://medium.com/p/e8681d246c1c) |
-| Mon, 25 May 2026 15:01:02 GMT | How Hajj Pilgrims Can Stay Safe Online While Traveling Abroad | Rashlok | [Read More](https://medium.com/p/77f4931d6f85) |
-| Mon, 25 May 2026 14:59:10 GMT | Laporan Praktikum Basis Data: Teknik Optimasi Query SQL | Muhammad Fauza Asfadani | [Read More](https://medium.com/p/e12020883e85) |
-| Mon, 25 May 2026 14:56:59 GMT | AI Security Digest - May 18–24, 2026 | Tal Eliyahu | [Read More](https://medium.com/p/b8a184ca46f5) |
-| Mon, 25 May 2026 14:56:08 GMT | Ghana’s NITA Bill 2025: Could It Transform Tech Innovation? But At What Cost? | alexaine | [Read More](https://medium.com/p/6511480bdcb1) |
