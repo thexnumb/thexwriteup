@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 May 2026 23:39:04 GMT | Why 95% of Cloud Breaches Are Preventable — And a Framework to Fix Them | Akshitapoonia | [Read More](https://medium.com/p/f21782b1db67) |
+| Tue, 26 May 2026 23:36:00 GMT | There’s a Feature Hidden Inside Every Photo You’ve Ever Taken That Could Tell a Stranger Where You… | Templora | [Read More](https://medium.com/p/925e49ec334c) |
+| Tue, 26 May 2026 23:27:22 GMT | Share The Idea CTF CyberTalents | Zodiakx | [Read More](https://medium.com/p/f38a3ef246e3) |
+| Tue, 26 May 2026 23:24:37 GMT | Nigeria Is Bleeding! | Adesina Fathia Adedoyin | [Read More](https://medium.com/p/958c9d7b7e46) |
+| Tue, 26 May 2026 23:22:18 GMT | I Automated My Entire Bug Bounty Recon Workflow — Here’s What I Learned | Muhammadadnanthayyil | [Read More](https://medium.com/p/f964595eecfe) |
+| Tue, 26 May 2026 23:07:19 GMT | How to Migrate Off Sophos XGS Without Losing Your Security Posture | CacheGuard Technologies | [Read More](https://medium.com/p/ec2ca058f5be) |
+| Tue, 26 May 2026 23:06:32 GMT | pfSense Is Excellent. It Is Also Not the Right Answer for Every Homelab. | CacheGuard Technologies | [Read More](https://medium.com/p/8b3db93dbb6a) |
+| Tue, 26 May 2026 23:03:39 GMT | The Dual-Helix DNA Projectile System: A New Architecture for Anti-Cheat and Game Physics Subtitle: | ali farahmand movahed | [Read More](https://medium.com/p/b18fdd9c2b75) |
+| Tue, 26 May 2026 23:01:01 GMT | It Wasn’t a Leak — It Was Already Exposed | fmi A. | [Read More](https://medium.com/p/e6a75ef0f537) |
+| Tue, 26 May 2026 22:56:34 GMT | How I Built a Production-Grade Auth API with JWT Rotation, RBAC, and Brute-Force Protection. | Abdulmujeeb Uthman | [Read More](https://medium.com/p/ed13b02ec014) |
+| Tue, 26 May 2026 22:46:00 GMT | The Orbital Vulnerability: Why Space Communications Are the Next Frontier for Cyberdefense | Laroweb3 | [Read More](https://medium.com/p/b4675b6f4b95) |
+| Tue, 26 May 2026 22:42:44 GMT | Kubernetes 1.36 “ハル (Haru)”: The Future of Container Orchestration is Here | Sergei Olshanetski | [Read More](https://medium.com/p/232dbc1592c7) |
+| Tue, 26 May 2026 22:36:00 GMT | Modern Web Stacks- TryHackMe - practical lab | Jose Praveen | [Read More](https://medium.com/p/f8df3a3db677) |
+| Tue, 26 May 2026 22:26:09 GMT | The IDOR I Almost Missed | Xsora7 | [Read More](https://medium.com/p/c6aff6ee72f3) |
 | Tue, 26 May 2026 21:21:14 GMT | How I Stopped Being a Ticket-Closer and Started Thinking Like a Detection Engineer My Walkthrough… | v3nomTech | [Read More](https://medium.com/p/29df8d5f7189) |
 | Tue, 26 May 2026 21:13:45 GMT | Designing an AI-Powered SOC Automation Platform with Splunk and Claude AI — Part 1 | Eren Saylan | [Read More](https://medium.com/p/d75a173a5f2d) |
 | Tue, 26 May 2026 21:12:17 GMT | Guided Pentest: Infrastructure | Brian Grier | [Read More](https://medium.com/p/59172de20094) |
@@ -99,17 +113,3 @@ Download this link… | Biswajit Samanta | [Read More](https://medium.com/p/d477
 | Tue, 26 May 2026 14:32:31 GMT | Metasploit is a Port Scanner? | Teachnolen | [Read More](https://medium.com/p/41d8cb9ad644) |
 | Tue, 26 May 2026 14:20:54 GMT | AI agent를 위한 kubeconfig 설정 | DaGyeong Kim | [Read More](https://medium.com/p/c42726844ee1) |
 | Tue, 26 May 2026 14:14:40 GMT | Why Weak Cloud Permissions Become Dangerous | Asadbek | [Read More](https://medium.com/p/5360d52bd80f) |
-| Tue, 26 May 2026 14:01:02 GMT | Neural Networks Explained Simply: How Machines Learn Like Humans | Soundarya | [Read More](https://medium.com/p/d385a10bfad3) |
-| Tue, 26 May 2026 13:53:00 GMT | Escalation Is Inevitable. Cross-Tier Escalation Is a Design Failure. | The Man Behind The Line | [Read More](https://medium.com/p/cdf22fc17ba5) |
-| Tue, 26 May 2026 13:46:02 GMT | From Misconfigured Virtual Host Routing to Internal Source Code Disclosure | Abdulrahman Ali | [Read More](https://medium.com/p/8ef3e7c86788) |
-| Tue, 26 May 2026 13:44:36 GMT | The Front Door Is Locked, but the Back Door Is Wide Open: Understanding API Supply Chain Attacks | Arulkumaran | [Read More](https://medium.com/p/b63cf1171d6b) |
-| Tue, 26 May 2026 13:36:10 GMT | Your AI Is Showing — Improper Output Handling | Devanshi Patel | [Read More](https://medium.com/p/e60d5f2753aa) |
-| Tue, 26 May 2026 13:18:09 GMT | I Sat Through CEH v13’s AI Modules. Here’s What’s Real and What’s Marketing | Mike McNelis | [Read More](https://medium.com/p/15f3bb25ce17) |
-| Tue, 26 May 2026 13:15:48 GMT | The Zero-Day That Could Hand Attackers the Keys to Millions of Hosting Servers | Panda Anonimo | [Read More](https://medium.com/p/897ef3fa6c71) |
-| Tue, 26 May 2026 13:00:16 GMT | Hacking Authority — How Misconfigured Certificates and Forgotten Ansible Files Lead to Domain Admin | Panda Anonimo | [Read More](https://medium.com/p/3d4c8a9da4f1) |
-| Tue, 26 May 2026 12:54:43 GMT | Review / Warning: CyberWarFare Labs (CRTA) - Broken Payment Infrastructure and Ghosting Indian… | Dsdebojitsingh | [Read More](https://medium.com/p/52c205d4bd56) |
-| Tue, 26 May 2026 12:36:35 GMT | 04/20: Data Encapsulation: How a Message Becomes Bits on the Wire | Roboticela | [Read More](https://medium.com/p/66f9193df285) |
-| Tue, 26 May 2026 12:36:25 GMT | 03/20: OSI Model Simulator: The Interactive Tool You’ve Been Waiting For | Roboticela | [Read More](https://medium.com/p/21d9bb4e7e91) |
-| Tue, 26 May 2026 12:21:18 GMT | The Domino Effect of GitHub Token Exposure | Veshraj Ghimire | [Read More](https://medium.com/p/8af5b632a614) |
-| Tue, 26 May 2026 12:18:32 GMT | OWASP LLM Top 10 — Part 3: What Happens When You Give the Model Power | Derick Johnson | [Read More](https://medium.com/p/fd9fddd17461) |
-| Tue, 26 May 2026 12:17:55 GMT | Start Your Ethical Hacking Journey: First Step: Crafting IP Headers with Scapy Python tool | Shaik afrid | [Read More](https://medium.com/p/71132b5bb72c) |
