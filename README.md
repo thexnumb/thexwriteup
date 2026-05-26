@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 May 2026 21:21:14 GMT | How I Stopped Being a Ticket-Closer and Started Thinking Like a Detection Engineer My Walkthrough… | v3nomTech | [Read More](https://medium.com/p/29df8d5f7189) |
+| Tue, 26 May 2026 21:13:45 GMT | Designing an AI-Powered SOC Automation Platform with Splunk and Claude AI — Part 1 | Eren Saylan | [Read More](https://medium.com/p/d75a173a5f2d) |
+| Tue, 26 May 2026 21:12:17 GMT | Guided Pentest: Infrastructure | Brian Grier | [Read More](https://medium.com/p/59172de20094) |
+| Tue, 26 May 2026 21:03:02 GMT | What is JWT? | #hope | [Read More](https://medium.com/p/927b2a043297) |
+| Tue, 26 May 2026 20:58:34 GMT | Why no one understands AI memory | Tom Girgash | [Read More](https://medium.com/p/5276383a90a8) |
+| Tue, 26 May 2026 20:57:39 GMT | UAC Bypass via ComputerDefaults.exe | S12 - 0x12Dark Development | [Read More](https://medium.com/p/16b3e65f2805) |
 | Tue, 26 May 2026 20:52:01 GMT | Your Password Was Probably Stolen Months Ago And Someone Is Already Using It | Pafora Technologies | [Read More](https://medium.com/p/d8897bb4e07b) |
 | Tue, 26 May 2026 20:46:42 GMT | Admin Has the Power — CTF Write-Up | anubis404 | [Read More](https://medium.com/p/1cb285c8a4b9) |
 | Tue, 26 May 2026 20:42:01 GMT | The Silent Failure of Modern Threat Detection Systems | JSOC IT BLOG | [Read More](https://medium.com/p/25fb5245f917) |
@@ -107,9 +113,3 @@ Download this link… | Biswajit Samanta | [Read More](https://medium.com/p/d477
 | Tue, 26 May 2026 12:21:18 GMT | The Domino Effect of GitHub Token Exposure | Veshraj Ghimire | [Read More](https://medium.com/p/8af5b632a614) |
 | Tue, 26 May 2026 12:18:32 GMT | OWASP LLM Top 10 — Part 3: What Happens When You Give the Model Power | Derick Johnson | [Read More](https://medium.com/p/fd9fddd17461) |
 | Tue, 26 May 2026 12:17:55 GMT | Start Your Ethical Hacking Journey: First Step: Crafting IP Headers with Scapy Python tool | Shaik afrid | [Read More](https://medium.com/p/71132b5bb72c) |
-| Tue, 26 May 2026 12:08:05 GMT | How Broken Authorization and Excessive Data Exposure Led to a CVSS 9.8 Critical Vulnerability | Pankaj Kumar Yadav | [Read More](https://medium.com/p/3c71da32f926) |
-| Tue, 26 May 2026 11:58:01 GMT | SickOs 1.2 VulnHub Writeup | ZeroDay-Security-Services | [Read More](https://medium.com/p/6089957f8069) |
-| Tue, 26 May 2026 11:45:05 GMT | 10 Enterprise Technology Trends That Will Define 2026 | Tarento | [Read More](https://medium.com/p/17c49b61ac5a) |
-| Tue, 26 May 2026 11:40:05 GMT | Anthropic’s Shoggoth Didn’t Evolve. The Eval Did. | Peter M. | [Read More](https://medium.com/p/d72bfa030e86) |
-| Tue, 26 May 2026 11:34:55 GMT | Get PQC Ready PDQ — Part 2 | Brett Crawley | [Read More](https://medium.com/p/8ef2a68325f5) |
-| Tue, 26 May 2026 11:10:26 GMT | Tech Ecosystem is Shaping the Future of Global Business | Eratec Solution | [Read More](https://medium.com/p/c60e43b94fea) |
