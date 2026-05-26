@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 26 May 2026 18:35:21 GMT | Security Controls Gap Analysis: How to Find and Fix Your Weak Points | Loginsoft | [Read More](https://medium.com/p/2fe6d4687f75) |
+| Tue, 26 May 2026 18:31:30 GMT | The Air-Gap Paradox: Deploying Zero-Trust AI for Defense and Advanced Research | AI Mind Teams | [Read More](https://medium.com/p/4f54a6f93bc6) |
+| Tue, 26 May 2026 18:31:26 GMT | The Privacy Stack: A Practitioner’s Guide to Secure Computation | Nergiz Yuca | [Read More](https://medium.com/p/acb3376f7e55) |
+| Tue, 26 May 2026 18:31:01 GMT | Deleting any user’s account from the platform via exposed /admin/manage-user | xploiterr | [Read More](https://medium.com/p/4ac4f0e9f6ee) |
+| Tue, 26 May 2026 18:28:42 GMT | The Privacy Stack: A Practitioner’s Guide to Secure Computation | Nergiz Yuca | [Read More](https://medium.com/p/eb10d01dd539) |
+| Tue, 26 May 2026 18:27:49 GMT | ROT13 Cipher: A Practical Guide with Kotlin | Halil Özel | [Read More](https://medium.com/p/959af75ebd59) |
+| Tue, 26 May 2026 18:24:05 GMT | Beyond the Statistics: The Moral Breakdown of Institutional Child Confinement | ÚLTIMA HORA ESPAÑOL | [Read More](https://medium.com/p/3a08e9ef4389) |
+| Tue, 26 May 2026 18:21:59 GMT | Why Your Brain is the Only Hack-Proof Hardware Left | Y. J. Han | [Read More](https://medium.com/p/2d491a704856) |
+| Tue, 26 May 2026 18:21:57 GMT | The Security Evaluator Was Never Removed. It Just Stopped Mattering. | Doron Chema, PhD | [Read More](https://medium.com/p/d3064b81ba9c) |
+| Tue, 26 May 2026 18:21:25 GMT | Regulating AI at the UK Border | Megancockhill | [Read More](https://medium.com/p/84691bb26a73) |
+| Tue, 26 May 2026 18:20:19 GMT | ZTNA 2.0 Explained: The Future of Cloud-Native Security | Loginsoft | [Read More](https://medium.com/p/766a5d66773e) |
+| Tue, 26 May 2026 18:11:13 GMT | AI and the Evolution of Threat Actor Tradecraft: Multi-Agent Systems in Modern Cyber Attacks | Yusha_kahn | [Read More](https://medium.com/p/99b926505c1e) |
+| Tue, 26 May 2026 18:09:28 GMT | Patch Faster? The Dying Strategy of Vulnerability Management and What to Do About it. | Ean Dudley | [Read More](https://medium.com/p/033c4acd2ed3) |
+| Tue, 26 May 2026 18:05:51 GMT | Data Breach Compliance Automation: A Cloud-Based Tracker on AWS | Rebanta Daadhiich | [Read More](https://medium.com/p/e42ed31b2847) |
+| Tue, 26 May 2026 18:04:38 GMT | Hyper-V vs VirtualBox vs VMware Workstation: Which Should You Use? | melinda parker | [Read More](https://medium.com/p/c14895c9abae) |
+| Tue, 26 May 2026 18:03:31 GMT | Darknet Bible: The Ultimate OpSec Guide | Shahzaib | [Read More](https://medium.com/p/b17526e94a08) |
+| Tue, 26 May 2026 18:01:01 GMT | GitHub RCE (CVE-2026–3854) - Deep Dive & Lessons Learned | Mohamed AboElKheir | [Read More](https://medium.com/p/a4f098049d1f) |
+| Tue, 26 May 2026 17:35:37 GMT | 02: Security Has a Trust Problem | Rashi Jaiswal | [Read More](https://medium.com/p/8064090f1d35) |
+| Tue, 26 May 2026 17:30:21 GMT | The Fake reCAPTCHA That Tried to Sneak Malware Onto My Machine | Vignesh G | [Read More](https://medium.com/p/1cbb7718cf6b) |
+| Tue, 26 May 2026 17:07:55 GMT | Unveiling the Impact of Blockchain Technology on IT Infrastructure and Security | Waveone Solutions | [Read More](https://medium.com/p/dcac00322172) |
+| Tue, 26 May 2026 17:01:02 GMT | Social Engineering 101: How to Defend Against Psychological Cyberattacks | Contact Pecezen | [Read More](https://medium.com/p/616af6a2ec3f) |
+| Tue, 26 May 2026 16:54:47 GMT | How AI Is Manipulated. Here’s How Hackers Break, Poison, and Deceive LLMs | Shivendu(Shivu) | [Read More](https://medium.com/p/803ce1bc2f44) |
+| Tue, 26 May 2026 16:39:30 GMT | The AI Agent Supply Chain Attack Nobody’s Talking About | Brij Purswani | [Read More](https://medium.com/p/01646215f648) |
+| Tue, 26 May 2026 16:36:15 GMT | The Importance of Vulnerability Assessment & Penetration Testing (VAPT) for Modern Businesses | Paddy Shewale | [Read More](https://medium.com/p/bd2b9ae51803) |
+| Tue, 26 May 2026 16:30:45 GMT | OverTheWire Natas: Levels 0–10 Walkthrough | Anurag Yadav | [Read More](https://medium.com/p/e59996d47c83) |
+| Tue, 26 May 2026 16:30:16 GMT | OAuth’s Seatbelt: Why PKCE Exists and Where It Could Go Wrong | Diyaneupane | [Read More](https://medium.com/p/a4c8e90828c3) |
+| Tue, 26 May 2026 16:28:18 GMT | The Day I Stopped Giving Advice and Started Earning Real Money | Sophia on World Affairs | [Read More](https://medium.com/p/463cd9f26295) |
 | Tue, 26 May 2026 16:14:40 GMT | When Your Favorite Burger Becomes a Security Risk: Inside McDonald’s Password Campaign | Adil Sayyed | [Read More](https://medium.com/p/b18bc210ab59) |
 | Tue, 26 May 2026 16:14:08 GMT | 2019 EOS DDOS attack. | Dexaran | [Read More](https://medium.com/p/11e68f59f4c7) |
 | Tue, 26 May 2026 16:12:58 GMT | Portswigger:Server-side vulnerabilities | Kongpob Laohapipatchai | [Read More](https://medium.com/p/5f921642656f) |
@@ -86,31 +113,3 @@ Download this link… | Biswajit Samanta | [Read More](https://medium.com/p/d477
 | Tue, 26 May 2026 09:40:20 GMT | 2 Password Reset Mistakes Developers Still Make | Abdulshakoor | [Read More](https://medium.com/p/df25bbef13ec) |
 | Tue, 26 May 2026 09:36:04 GMT | Security Analytics and Automation: A Smart Approach to Cybersecurity | Gauri Kale | [Read More](https://medium.com/p/9347a320e55c) |
 | Tue, 26 May 2026 08:55:07 GMT | AI Found a PostgreSQL Bug Hidden for 20 Years | Ajaymaurya | [Read More](https://medium.com/p/689ce3c63209) |
-| Tue, 26 May 2026 08:34:00 GMT | Cybersecurity in the Digital Age: Protecting Data and Privacy
-Why Cybersecurity Has Become… | Debanjan Roy | [Read More](https://medium.com/p/9b58f8e3bde1) |
-| Tue, 26 May 2026 08:29:36 GMT | How I Found an Account Takeover Vulnerability in a Large University Portal | Rekhanshrajput | [Read More](https://medium.com/p/58297ba233f7) |
-| Tue, 26 May 2026 08:29:01 GMT | Samsung Galaxy S26 Ultra Review: Price, Full Specs and Everything You Need to Know | Así de fácil es | [Read More](https://medium.com/p/35f6b91c418c) |
-| Tue, 26 May 2026 08:25:13 GMT | ArticFox-C3: The Botnet That Talks in Invisible Ink | suicidal_teddy | [Read More](https://medium.com/p/3945b41eac40) |
-| Tue, 26 May 2026 08:19:42 GMT | Bypassing AI Scanner Defenses to Exfiltrate Sensitive Information — PortSwigger Web Security… | Axel Rengstorf | [Read More](https://medium.com/p/ac61721b97ba) |
-| Tue, 26 May 2026 08:15:40 GMT | DevOps Hackathon 2026: Security Visibility & Risk Management | Leapfrog Technology | [Read More](https://medium.com/p/3d90e4cad00a) |
-| Tue, 26 May 2026 08:13:56 GMT | The Developer’s Guide to Multimodal AI Apps in 2026: Combining Voice, Vision, and Text | Khushi | [Read More](https://medium.com/p/1d8a30fe20e7) |
-| Tue, 26 May 2026 08:12:47 GMT | Why Security+ Is Still the Best Entry Point into Cybersecurity in 2026 | Danaboev Jf | [Read More](https://medium.com/p/db46366fadfa) |
-| Tue, 26 May 2026 08:08:49 GMT | Your Smart Home Is Lying to You — And Your IoT Devices Have No Way to Prove They’re Real | Dhruv Suri | [Read More](https://medium.com/p/44b3cabad35d) |
-| Tue, 26 May 2026 08:05:17 GMT | 10 Things Organisations Should Do Right Now to Protect the Data of Their Data Subjects | Mercy Aronimo | [Read More](https://medium.com/p/d59099beb2ce) |
-| Tue, 26 May 2026 08:04:16 GMT | Medusa Ransomware: The Digital Kidnapper Crippling Hospitals, Schools, and Critical Infrastructure | debtik journey | [Read More](https://medium.com/p/4404e29d370f) |
-| Tue, 26 May 2026 08:01:04 GMT | How Claude Code Helps Backend Developers Build Production-Level Applications Faster | Jane Frances | [Read More](https://medium.com/p/52da7b8147f0) |
-| Tue, 26 May 2026 07:52:04 GMT | Ledger AI crypto security roadmap keeps humans in charge — AI only warns | Maria João | [Read More](https://medium.com/p/e9334e416958) |
-| Tue, 26 May 2026 07:51:03 GMT | Linux Didn’t Need AI To Break Itself | Introspection Down Under | [Read More](https://medium.com/p/6e90ba96d0bd) |
-| Tue, 26 May 2026 07:44:26 GMT | Intigriti Challenge 0526 Write-up: DOM Clobbering to XSS via PixelAnalyticsConfig | Mhqfhvxqbumxepbfvb | [Read More](https://medium.com/p/2d0f5fc1022e) |
-| Tue, 26 May 2026 07:41:37 GMT | Безопасность хранения данных пользотвателей в объектном хранилище | Alexey | [Read More](https://medium.com/p/fd19f19a2a9a) |
-| Tue, 26 May 2026 07:35:04 GMT | Intigriti Challenge 0526 Write-up: DOM Clobbering to XSS via PixelAnalyticsConfig | Mhqfhvxqbumxepbfvb | [Read More](https://medium.com/p/83840cea06c1) |
-| Tue, 26 May 2026 07:32:20 GMT | How Hospitals Can Improve Accountability for Patient Belongings | Sofiamcmahon | [Read More](https://medium.com/p/bf4d97e32632) |
-| Tue, 26 May 2026 07:30:23 GMT | What Are Tamper-Evident Security Bags and How Do They Work? | Sofiamcmahon | [Read More](https://medium.com/p/3dc83c8b7aeb) |
-| Tue, 26 May 2026 07:29:41 GMT | If Your Phone Gets Stolen Today, Is Your SIM Secured? | Irene Ossai Ogbuene | [Read More](https://medium.com/p/f50069588a61) |
-| Tue, 26 May 2026 07:29:25 GMT | AI Is Moving Faster Than Security: Why Data Loss Prevention (DLP) May Become the Most Important… | Sayan Raha | [Read More](https://medium.com/p/ea506ec0f398) |
-| Tue, 26 May 2026 07:26:53 GMT | Two-Factor Authentication Explained: Why One Extra Step Can Stop Many Account Takeovers | Amit Chavan | [Read More](https://medium.com/p/f1c1057866ea) |
-| Tue, 26 May 2026 07:25:32 GMT | Or how I’m building my own cybersecurity ecosystem | A11mut3d | [Read More](https://medium.com/p/a3efcb678497) |
-| Tue, 26 May 2026 07:19:21 GMT | Why Do Societies Feel Increasingly Unstable? | Virginie GUIGNARD-LEGROS | [Read More](https://medium.com/p/1abd8b7b77d4) |
-| Tue, 26 May 2026 07:18:27 GMT | Understanding Network Attacks Through the OSI Model: A CISO’s Complete Defense Guide | 雷峰 | [Read More](https://medium.com/p/1cd5b45a9dd4) |
-| Tue, 26 May 2026 07:01:03 GMT | 8 Docker Commands You Run Every Day — And Why Half of Them Are Wrong | AbdulRahman Mostafa | [Read More](https://medium.com/p/1b73bbe5298f) |
-| Tue, 26 May 2026 07:01:00 GMT | We Are Slowly Losing the Ability to Choose for Ourselves : Loosing Creative Thinking | Ravindra Bohra | [Read More](https://medium.com/p/eca64eb59eaf) |
