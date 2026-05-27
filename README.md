@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 May 2026 03:56:03 GMT | Hidden Authentication Flaws That Lead to Account Takeover — A Pentester’s Guide | 0xAbhiSec | [Read More](https://medium.com/p/fa690646e146) |
+| Wed, 27 May 2026 03:52:37 GMT | Inheriting a Legacy Security Nightmare — And Actually Fixing It | Abhinav Anand | [Read More](https://medium.com/p/a85143194b58) |
+| Wed, 27 May 2026 03:49:50 GMT | Inheriting a Legacy Security Nightmare — And Actually Fixing It | Abhinav Anand | [Read More](https://medium.com/p/6478153a18ed) |
+| Wed, 27 May 2026 03:46:11 GMT | AI security is entering its “Zero Trust” phase. | Neuralcoretech | [Read More](https://medium.com/p/4473f2858733) |
+| Wed, 27 May 2026 03:33:13 GMT | Intro to Detection Engineering (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/6f2fe2de8304) |
+| Wed, 27 May 2026 03:25:20 GMT | The Hidden Risk Behind AI-Built Startups: When “Built in Minutes” Becomes a Liability | Jaita Bhowal | [Read More](https://medium.com/p/1879b72cbe70) |
+| Wed, 27 May 2026 03:14:18 GMT | Before You Replace Your PC in Coogee 2034, Try This Repair Solution | BC-IT Specialists | [Read More](https://medium.com/p/3ead9c62ef1c) |
+| Wed, 27 May 2026 03:12:16 GMT | The Website Maintenance Crisis: Why Millions of Businesses Leave Their Sites Unprotected | SherDore | [Read More](https://medium.com/p/56a3d7b8641d) |
+| Wed, 27 May 2026 03:08:08 GMT | How I Investigated a Real Smishing Campaign Using Kali Linux and Threat Intelligence Tools | Vaishnavy Senthilkumar | [Read More](https://medium.com/p/b21fa08cae9e) |
+| Wed, 27 May 2026 03:01:36 GMT | Reflections on my Cybersecurity Exchange Program at UCM: A Technical and Cultural Journey | Samuel Benicio | [Read More](https://medium.com/p/890343fe5f28) |
+| Wed, 27 May 2026 03:00:03 GMT | BAC + CSRF | Rajveer | [Read More](https://medium.com/p/bceb26145135) |
+| Wed, 27 May 2026 02:59:26 GMT | When Quantum Advantage Becomes a Distraction | Shujaatali Badami | [Read More](https://medium.com/p/b1edfaf53a19) |
+| Wed, 27 May 2026 02:53:41 GMT | How Temporary Email Services Help Keep Your Digital Life Organized | InboxOro | [Read More](https://medium.com/p/b449b65cc12d) |
+| Wed, 27 May 2026 02:39:01 GMT | What was ChatGPT secretly doing on my computer? | Mohammad Kheradmandy | [Read More](https://medium.com/p/ff60208908c3) |
+| Wed, 27 May 2026 01:47:23 GMT | Report: May 20 — May 27, 2026 | CCTT INC. | [Read More](https://medium.com/p/abfd32d03e14) |
+| Wed, 27 May 2026 01:37:59 GMT | How Hackers Exploit Misconfigured CORS — And How to Fix It | Umashankara Kalaiah | [Read More](https://medium.com/p/19aeb5db3b45) |
+| Wed, 27 May 2026 01:27:45 GMT | The File Upload Check That 90% of Hunters Forget (And How I Got $1500 From a JPEG) | Decline | [Read More](https://medium.com/p/008774a1e9b1) |
+| Wed, 27 May 2026 00:26:59 GMT | TryHackMe: Boogeyman 2 - Write-Up | Ash T | [Read More](https://medium.com/p/8c7d96411c43) |
+| Wed, 27 May 2026 00:12:19 GMT | Cybersecurity Is More Human Than You Think | Akshitapoonia | [Read More](https://medium.com/p/2cfe61cabef8) |
+| Wed, 27 May 2026 00:01:01 GMT | Advanced Guide to Exploiting and Mitigating CORS in Bug Bounty Programs | JPablo13 | [Read More](https://medium.com/p/29df758b71b7) |
+| Tue, 26 May 2026 23:57:08 GMT | TryHackMe: Ledger Write-up | edbert sumicad | [Read More](https://medium.com/p/84a0a4f7c0fe) |
+| Tue, 26 May 2026 23:44:37 GMT | Intigriti May 2026 Challenge: XSS via Stored Payload & SCA Shield Bypass | Ryuk0x01 | [Read More](https://medium.com/p/f1533a20b5bd) |
+| Tue, 26 May 2026 23:41:15 GMT | Browser Session Theft And Account Security Risks | Geoffrey Wenger | [Read More](https://medium.com/p/e702cc8fb8b6) |
 | Tue, 26 May 2026 23:39:04 GMT | Why 95% of Cloud Breaches Are Preventable — And a Framework to Fix Them | Akshitapoonia | [Read More](https://medium.com/p/f21782b1db67) |
 | Tue, 26 May 2026 23:36:00 GMT | There’s a Feature Hidden Inside Every Photo You’ve Ever Taken That Could Tell a Stranger Where You… | Templora | [Read More](https://medium.com/p/925e49ec334c) |
 | Tue, 26 May 2026 23:27:22 GMT | Share The Idea CTF CyberTalents | Zodiakx | [Read More](https://medium.com/p/f38a3ef246e3) |
@@ -90,26 +113,3 @@ Download this link… | Biswajit Samanta | [Read More](https://medium.com/p/d477
 | Tue, 26 May 2026 16:01:01 GMT | How Vulnerability can Save your Relationships and Life | Viky Piccioni | [Read More](https://medium.com/p/c2522730028b) |
 | Tue, 26 May 2026 16:01:01 GMT | The Greatest Endpoint Firewall Application Ever Created Is LuLu from the Objective-See Foundation | Raell Dottin | [Read More](https://medium.com/p/d4585bbfdb59) |
 | Tue, 26 May 2026 16:00:11 GMT | Top 10 Best Passwordless Authentication Solutions in 2026 | Xaltius | [Read More](https://medium.com/p/70a901d47609) |
-| Tue, 26 May 2026 15:59:34 GMT | The Only Authentication Best Practices You Need in 2026 | Dhruv | [Read More](https://medium.com/p/50f581e90b79) |
-| Tue, 26 May 2026 15:56:50 GMT | The Future of Cybersecurity Has Changed: What Project Glasswing Means for the World | Onyedikachi Bernard Okoh | [Read More](https://medium.com/p/40dd11d25beb) |
-| Tue, 26 May 2026 15:52:19 GMT | Exploiting vsftpd2.3.4 Backdoor on Metasploitable 2 Complete Walkthrough | Pranav Verma | [Read More](https://medium.com/p/17c5950b3c56) |
-| Tue, 26 May 2026 15:52:14 GMT | Hallucination in Memory — Why Memory Governance Is the Next Hard Problem | Sven Pöche | [Read More](https://medium.com/p/112006fa5a52) |
-| Tue, 26 May 2026 15:41:37 GMT | Whispers from the Fog: Why I Am Finally Trying to Write | Jungho Choi | [Read More](https://medium.com/p/73c84ca32ee9) |
-| Tue, 26 May 2026 15:26:52 GMT | Intigriti May 2026 Challenge — XSS via Stored Payload + SCA Shield Bypass | 0x0meowsec | [Read More](https://medium.com/p/6ab4c1a976c2) |
-| Tue, 26 May 2026 15:25:38 GMT | I Thought Healing Would Be Louder Than This | Chukwumerije Chisom Rejoice | [Read More](https://medium.com/p/e1d092bf91ef) |
-| Tue, 26 May 2026 15:21:29 GMT | File Uploads in Python APIs — From Broken to Bulletproof | Anas Issath | [Read More](https://medium.com/p/42e1e4511033) |
-| Tue, 26 May 2026 15:18:26 GMT | OAuth 2.1, JWT, or Session Cookies: The Rails Decision Table You Wish Existed Three Projects Ago. | Raza Hussain | [Read More](https://medium.com/p/702bd0093042) |
-| Tue, 26 May 2026 15:17:34 GMT | Capability-Driven Agent Access Control with MCP | Ricardo Cataldi | [Read More](https://medium.com/p/4a50e5c2bb47) |
-| Tue, 26 May 2026 14:54:23 GMT | Another Attempt at Accessing My Accounts While I Slept | Esther Ijewere | [Read More](https://medium.com/p/c79a07beadaa) |
-| Tue, 26 May 2026 14:50:24 GMT | eJPT - Post-Exploitation CTF 1 | Francesco Pastore | [Read More](https://medium.com/p/5d7cae79975f) |
-| Tue, 26 May 2026 14:48:23 GMT | TryHackMe: Willow — Write-Up | Burak Kıraç | [Read More](https://medium.com/p/2de3c9388bf1) |
-| Tue, 26 May 2026 14:48:08 GMT | Here’s how Postman Agent Mode hacks for me | Anurag Mewar | [Read More](https://medium.com/p/789cfb419656) |
-| Tue, 26 May 2026 14:44:52 GMT | Bug Bounty Automation Toolkit 2026 Automate Recon & Find Vulnerabilities Faster Advanced Ethical… | R.H Rizvi | [Read More](https://medium.com/p/127d18ae1e53) |
-| Tue, 26 May 2026 14:44:26 GMT | “Bug Bounty Bootcamp #39: PDF SSRF and Blind Exfiltration — When Headless Browsers Become Your Data… | Aman Sharma | [Read More](https://medium.com/p/507d6543d167) |
-| Tue, 26 May 2026 14:39:22 GMT | Cybersecurity The Invisible Shield Protecting Our Digital World | Dbmrworkin24 | [Read More](https://medium.com/p/49289d428563) |
-| Tue, 26 May 2026 14:36:29 GMT | Frida: Hacking and protecting mobile apps | Talsec | [Read More](https://medium.com/p/7b95087bd1f8) |
-| Tue, 26 May 2026 14:35:15 GMT | UBITQUITY, INC and Cidentia Announce Strategic Partnership to Develop Next-Generation Digital… | UBITQUITY, INC | [Read More](https://medium.com/p/d608c97e73f7) |
-| Tue, 26 May 2026 14:33:59 GMT | THM - Operation Coldstart | Francesco Pastore | [Read More](https://medium.com/p/964a934035f6) |
-| Tue, 26 May 2026 14:32:31 GMT | Metasploit is a Port Scanner? | Teachnolen | [Read More](https://medium.com/p/41d8cb9ad644) |
-| Tue, 26 May 2026 14:20:54 GMT | AI agent를 위한 kubeconfig 설정 | DaGyeong Kim | [Read More](https://medium.com/p/c42726844ee1) |
-| Tue, 26 May 2026 14:14:40 GMT | Why Weak Cloud Permissions Become Dangerous | Asadbek | [Read More](https://medium.com/p/5360d52bd80f) |
