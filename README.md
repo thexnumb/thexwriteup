@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 May 2026 22:35:39 GMT | I Ran a Security Audit on My Own AI Product. Here Is What I Found. | Adam McClarin | [Read More](https://medium.com/p/d2c2fad358c6) |
+| Wed, 27 May 2026 22:34:03 GMT | Hackviser Void Scenario Weite-Up | Mshxxx | [Read More](https://medium.com/p/3d732e7662e3) |
+| Wed, 27 May 2026 22:14:40 GMT | Cybersecurity is Data: Collect, Analyze, Interpret | Ryan G. Cox | [Read More](https://medium.com/p/8ffcf3d8ddd6) |
+| Wed, 27 May 2026 22:04:41 GMT | # Injection-Angriffe als universelles Problem interpretierter Systeme | R4In3RZuf4LL | [Read More](https://medium.com/p/e05feef42dbf) |
+| Wed, 27 May 2026 22:03:49 GMT | Day in the Life of a Security Engineer | Ryan G. Cox | [Read More](https://medium.com/p/344adeb0262d) |
+| Wed, 27 May 2026 22:03:41 GMT | DNS Pentesting Guide For Beginners: How Hackers Exploit Port 53 | Rahul Singh Chauhan | [Read More](https://medium.com/p/cc31f70711eb) |
+| Wed, 27 May 2026 22:01:18 GMT | Cache Deception leads To a Critical Issue in a Banking Application | Rahul Singh Chauhan | [Read More](https://medium.com/p/adb3d385218c) |
+| Wed, 27 May 2026 22:00:03 GMT | File Upload Testing Checklist: 15 Important Test Cases + Every Bypass Method You Need to Know | Yamini Yadav_369 | [Read More](https://medium.com/p/dd7603c0087b) |
+| Wed, 27 May 2026 21:58:23 GMT | Your ISP Doesn’t Need DNS to See What You Visit | Shahzaib | [Read More](https://medium.com/p/09443617d2f6) |
+| Wed, 27 May 2026 21:52:55 GMT | “Your Parcel Is Stuck” — The Scam Thousands of Indians Are Falling For | Surya Prakash Singh | [Read More](https://medium.com/p/fd27a4be1c30) |
+| Wed, 27 May 2026 21:10:24 GMT | What exactly is encryption? | Hossein Naseri | [Read More](https://medium.com/p/675a8dec5d39) |
+| Wed, 27 May 2026 21:08:11 GMT | How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files | Aashish Gajadhane | [Read More](https://medium.com/p/5564c6eb34c9) |
+| Wed, 27 May 2026 20:58:20 GMT | Dive Into Pentesting— TryHackMe Writeup | Amr Sebie | [Read More](https://medium.com/p/bf7d40f41626) |
+| Wed, 27 May 2026 20:51:26 GMT | 1.3_DA3M0NS // The System Crash of Empathy | fsocietyhub | [Read More](https://medium.com/p/94049068164a) |
 | Wed, 27 May 2026 20:31:00 GMT | Inside the SC-730 Cybersecurity Business Professional Beta Exam | carlarjenkins | [Read More](https://medium.com/p/b01925b77d6a) |
 | Wed, 27 May 2026 20:11:16 GMT | Every Man Has a Moment Where Her Feeling Becomes His Trial | Cian Whalley | [Read More](https://medium.com/p/a486ff86dcc9) |
 | Wed, 27 May 2026 20:04:36 GMT | SQLMap | AyuXploit | [Read More](https://medium.com/p/6390eae38901) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 May 2026 13:25:27 GMT | OAuth, OIDC, SAML, SSO: The Map You Wish You Had on Day One | Adamczyk Maciej | [Read More](https://medium.com/p/e287dee524a8) |
 | Wed, 27 May 2026 13:10:46 GMT | Modern Web Stacks - TryHackMe | Ryca | [Read More](https://medium.com/p/6f4d72c8d877) |
 | Wed, 27 May 2026 12:54:11 GMT | How Hackers Break Mobile Apps (And How You Can Too) | @umesh | [Read More](https://medium.com/p/4b54cf3f69b4) |
-| Wed, 27 May 2026 12:44:31 GMT | RevEng.AI Secures $15 Million to Strengthen Software Binary Security and Threat Detection | Jas | [Read More](https://medium.com/p/0a5cb9caa1af) |
-| Wed, 27 May 2026 12:41:28 GMT | eJPT: My First Real-World Penetration Testing Experience | CyberFuFu | [Read More](https://medium.com/p/e7ab465e758c) |
-| Wed, 27 May 2026 12:39:50 GMT | Defensive Security | ExploitHunter | [Read More](https://medium.com/p/aa349da2b1d7) |
-| Wed, 27 May 2026 12:24:44 GMT | The Strange New Skill in Software Development | Gunnar Östberg | [Read More](https://medium.com/p/8b693d1d521c) |
-| Wed, 27 May 2026 12:24:05 GMT | The Cybersecurity Certification Trap Nobody Warned Me About | Vinit Rami | [Read More](https://medium.com/p/df0baaad8e28) |
-| Wed, 27 May 2026 12:10:45 GMT | Network Pusulası #2 — Switch Nedir, Tam Olarak Ne Yapar? | Toprak Külekçioğlu | [Read More](https://medium.com/p/d458d2354d79) |
-| Wed, 27 May 2026 12:04:30 GMT | Inside ANY.RUN’s 10-Year Evolution: An Interview with CEO Aleksey Lapshin | ANY.RUN | [Read More](https://medium.com/p/e2bd7d667266) |
-| Wed, 27 May 2026 12:03:16 GMT | What You Should Actually Learn Before Getting Into IT or Cybersecurity | Jbird | [Read More](https://medium.com/p/1b8b82eaebaf) |
-| Wed, 27 May 2026 12:01:01 GMT | You Don’t Have to Choose Between Convenience and Privacy Anymore | Templora | [Read More](https://medium.com/p/7722c8592656) |
-| Wed, 27 May 2026 11:56:41 GMT | Anthropic Security Plugin-Catch Security Issues as Claude Writes Code | Sandeep Gupta | [Read More](https://medium.com/p/c587865e4adf) |
-| Wed, 27 May 2026 11:51:31 GMT | AppSecMaster Beginner Track — Challenge 1: HTTP Methods-1 Walkthrough | 0xKishore | [Read More](https://medium.com/p/4001808cce40) |
-| Wed, 27 May 2026 11:46:35 GMT | Claude Mythos Isn’t Just Another AI Model. It’s a Cybersecurity Inflection Point for Banking. | Raaya | [Read More](https://medium.com/p/d7b18a8386b6) |
-| Wed, 27 May 2026 11:39:06 GMT | Stop Waking the Dragon: Why Perplexity’s ‘Bumblebee’ is the Future of Supply Chain Security | Visnu | [Read More](https://medium.com/p/d3ec5a9eb2d9) |
-| Wed, 27 May 2026 11:37:57 GMT | How Anonymous Browsing Protects Your Online Privacy in 2026 | Jaspreet Kaur | [Read More](https://medium.com/p/6806deb78782) |
