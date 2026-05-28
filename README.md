@@ -12,6 +12,41 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 May 2026 08:37:03 GMT | Why More Non-IT Students Are Choosing Cybersecurity in 2026 | Cozonix | [Read More](https://medium.com/p/a220af7e737a) |
+| Thu, 28 May 2026 08:31:51 GMT | The Anatomy of a Phishing Scam: How Scammers Hack Your Brain (And How to Spot Them) | Tamara Bakosi | [Read More](https://medium.com/p/a237180b08ec) |
+| Thu, 28 May 2026 08:28:11 GMT | Authority Without Architecture: The Enterprise AI Governance Gap | Alberto Zuin | [Read More](https://medium.com/p/67250f198cb4) |
+| Thu, 28 May 2026 08:27:54 GMT | Zero-Day Runtime Isolation for Containers: Rethinking Dependency Trust | Francesco Vitullo | [Read More](https://medium.com/p/fa8ee0333620) |
+| Thu, 28 May 2026 08:26:19 GMT | 2FA Bypass via redirect uri manipulation | Ahmadfaizabdillah | [Read More](https://medium.com/p/a32679272631) |
+| Thu, 28 May 2026 08:21:30 GMT | How Blockchain Technology Enhances Mobile App Security | James Andersonuk | [Read More](https://medium.com/p/8cca907c2d1f) |
+| Thu, 28 May 2026 08:17:32 GMT | Learnifi CRM | Learnifi | [Read More](https://medium.com/p/6620f5aa900b) |
+| Thu, 28 May 2026 08:14:08 GMT | The Perimeter is Dead: Why Identity is the New Control Plane in 2026 | Cyborgenic Assurance Private Limited | [Read More](https://medium.com/p/d495a2940e7b) |
+| Thu, 28 May 2026 08:12:05 GMT | The CMMC Math That Says “Start in Summer” Is Already Too Late | Zvi Melkman | [Read More](https://medium.com/p/df10a508e9f9) |
+| Thu, 28 May 2026 08:11:58 GMT | Broken Authentication Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/194d698138ab) |
+| Thu, 28 May 2026 08:11:27 GMT | How a VS Code Extension Supply Chain Attack Works | Himanshu Gautam | [Read More](https://medium.com/p/d63f2fb91740) |
+| Thu, 28 May 2026 08:08:05 GMT | From code to Kailasa: Remembering Arun Kumar Tiwari and pursuit of work life balance | Mohan K | [Read More](https://medium.com/p/ceb9a55ee0ad) |
+| Thu, 28 May 2026 08:01:02 GMT | CISSP Chapter 3 — Part 3: Continuity Planning Protects More Than Systems. | Atakan ATAK | [Read More](https://medium.com/p/cc30be17b47f) |
+| Thu, 28 May 2026 08:00:35 GMT | Chaining CSRF and XSS to Remote Code Execution in a WordPress Plugin | arian_lord3 | [Read More](https://medium.com/p/bf7dd51351cc) |
+| Thu, 28 May 2026 07:52:43 GMT | Week 9: The OSI Model & TCP/IP — The Foundation Every Ethical Hacker Must Know | Nishant kumar | [Read More](https://medium.com/p/f88c70ecdf75) |
+| Thu, 28 May 2026 07:49:25 GMT | Top Web Security Threats in 2026: OWASP Top 10 | Singhreetika | [Read More](https://medium.com/p/38a20e4c62db) |
+| Thu, 28 May 2026 07:31:15 GMT | Your MFA Did Not Save You. It Helped Them. | Joao Silva | [Read More](https://medium.com/p/e22810f25c71) |
+| Thu, 28 May 2026 07:30:46 GMT | Security Sanctity™: AI + Human-in-the-Loop Cybersecurity | Plugaiworld | [Read More](https://medium.com/p/8fb673a46b87) |
+| Thu, 28 May 2026 06:59:03 GMT | Inside Real Scam Investigations — How Modern Digital Fraud Operations Really Work (Series… | ghostyjoe | [Read More](https://medium.com/p/1dd04600e34b) |
+| Thu, 28 May 2026 06:47:12 GMT | How Banks Use Facial Recognition AI for Secure Digital Identity Verification | TechnoMark Solutions | [Read More](https://medium.com/p/cf9e11af6e0f) |
+| Thu, 28 May 2026 06:38:15 GMT | Common Services Basic Recognition | 4zer7y | [Read More](https://medium.com/p/70cca3a56fd2) |
+| Thu, 28 May 2026 06:27:05 GMT | The Weight of an Unguarded Moment | Ashok V.A | [Read More](https://medium.com/p/be68739b24d0) |
+| Thu, 28 May 2026 06:23:54 GMT | The Benefits of CCTV for Public Safety and Security | Azzaindaa | [Read More](https://medium.com/p/be7259ed3d14) |
+| Thu, 28 May 2026 06:16:00 GMT | Intercepting Network Traffic Through ARP Spoofing | Aastha Thakker | [Read More](https://medium.com/p/6abc0c9167e3) |
+| Thu, 28 May 2026 06:06:51 GMT | Improving User Experience Through Quality Assurance | Wingman Partners | [Read More](https://medium.com/p/4eb02fc48629) |
+| Thu, 28 May 2026 06:06:37 GMT | API Security in 2026: The Complete Developer Guide (Attacks, Fixes, and Real Code) | Tarxemo | [Read More](https://medium.com/p/a9eebeb72d12) |
+| Thu, 28 May 2026 05:56:13 GMT | I Found a Critical Vulnerability — They Paid Me $15,500 | cyber security | [Read More](https://medium.com/p/9976ce313544) |
+| Thu, 28 May 2026 05:49:03 GMT | Cyber Talent in the AI Era | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/e2bdcdde2ca4) |
+| Thu, 28 May 2026 05:48:05 GMT | Cyber Security Course in Noida: Build Practical Skills for a Safer Digital Future | Securium Academy | [Read More](https://medium.com/p/664683c5f336) |
+| Thu, 28 May 2026 05:32:45 GMT | Domain Compromise & Dual RMM Abuse | Shahzeb M | [Read More](https://medium.com/p/6f5d9be9919a) |
+| Thu, 28 May 2026 05:28:10 GMT | I Built a Website in a Weekend. The Hard Part Wasn't the Code. | Noir | [Read More](https://medium.com/p/efbc9a889f8a) |
+| Thu, 28 May 2026 05:26:19 GMT | Is AI Accelerating Civilization Beyond Human Capacities? | Virginie GUIGNARD-LEGROS | [Read More](https://medium.com/p/2ff477773aa2) |
+| Thu, 28 May 2026 05:16:59 GMT | “Hackers Are Like Cockroaches” — A Med Student Accidentally Explained Cybersecurity Perfectly | Sonal | [Read More](https://medium.com/p/dfa34e8f3d92) |
+| Thu, 28 May 2026 04:58:44 GMT | The One GraphQL Query That Finds IDORs in Seconds (And Why Most Hunters Skip It) | Decline | [Read More](https://medium.com/p/92fec75dd8a3) |
+| Thu, 28 May 2026 04:48:26 GMT | Hacking with Raspberry Pico: Data Exfiltration with a Captive Portal | Sebastian | [Read More](https://medium.com/p/6fdb398c8b99) |
 | Thu, 28 May 2026 04:39:29 GMT | IP Addresses and Subnets: The ABCs of Networking | Carmen Chai | [Read More](https://medium.com/p/62663e4bc7a3) |
 | Thu, 28 May 2026 04:31:27 GMT | How a Laravel Development Company Builds Secure Enterprise Applications | Ninascott | [Read More](https://medium.com/p/74b04ca255d7) |
 | Thu, 28 May 2026 04:01:51 GMT | Children’s Day Without the Children | Aremu Hamdalat hamdalat Yetunde | [Read More](https://medium.com/p/12ab3f9c17ad) |
@@ -77,38 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 May 2026 18:43:38 GMT | The Internet, Explained: How Packets, Protocols, and Pipes Power the World’s Largest Machine | Siddhesh Ghatage | [Read More](https://medium.com/p/7f23820bc91d) |
 | Wed, 27 May 2026 18:40:10 GMT | Active Directory Attacks — AS-REP Roasting | Osec | [Read More](https://medium.com/p/1ce436dbc5b6) |
 | Wed, 27 May 2026 18:39:35 GMT | MAXMAP: Your automated recon sidekick. | Issan | [Read More](https://medium.com/p/21f906bf665a) |
-| Wed, 27 May 2026 18:31:00 GMT | 24 Characters to Super Admin | xploiterr | [Read More](https://medium.com/p/a4a9b6417fd4) |
-| Wed, 27 May 2026 18:04:53 GMT | GitHub Breached via VS Code Extension: What Every Developer Needs to Know | Jatin Prasad | [Read More](https://medium.com/p/e2aa9c85e939) |
-| Wed, 27 May 2026 17:53:51 GMT | Passing CompTIA A+ | Zachary Morrison | [Read More](https://medium.com/p/3a963e146f41) |
-| Wed, 27 May 2026 17:53:47 GMT | Instructure and Infrastructure: A Commentary on the Canvas Breach | Hamza Imran | [Read More](https://medium.com/p/80e19bf18020) |
-| Wed, 27 May 2026 17:52:34 GMT | When the Pope and Your Bank Both Say AI Is a Problem, Maybe It Is | Vikas Sharma | [Read More](https://medium.com/p/99e751ebe8cb) |
-| Wed, 27 May 2026 17:48:52 GMT | CVE-2026–42945: Nginx Rift (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/85ac45eee085) |
-| Wed, 27 May 2026 17:38:35 GMT | Week 1 — Day 2: The Names Behind the Machines | MindUnfiltered | [Read More](https://medium.com/p/87cca2a072c9) |
-| Wed, 27 May 2026 17:29:04 GMT | Three IAM Questions That Keep Coming Up (And the Honest Answers) | SimplifyIAM | [Read More](https://medium.com/p/f46ca1b3ab3b) |
-| Wed, 27 May 2026 17:23:01 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/cdbca2736f85) |
-| Wed, 27 May 2026 17:22:55 GMT | Bumblebee: Protection Against Supply Chain Attacks | Minervee | [Read More](https://medium.com/p/993ea50a425e) |
-| Wed, 27 May 2026 17:16:40 GMT | Shift Left on Trust: Embedding SOC 2, ISO 27001 & ISO 42001 into the SDLC-Companies should do | Simplebyrasika | [Read More](https://medium.com/p/057407e364a1) |
-| Wed, 27 May 2026 17:16:25 GMT | Why Python + Cybersecurity Is Becoming One of the Most Powerful Career Combinations | Er.Muruganantham | [Read More](https://medium.com/p/dc3346f648e1) |
-| Wed, 27 May 2026 17:15:34 GMT | Authentication Nedir ? Djangoda Kullanıcı Kimlik Doğrulama Mantığı | Beyza Nur Kahraman | [Read More](https://medium.com/p/579da688c62b) |
-| Wed, 27 May 2026 17:15:03 GMT | La resiliencia y el fuego | Gabriel Sampietro | [Read More](https://medium.com/p/989082e6640c) |
-| Wed, 27 May 2026 17:05:37 GMT | AWS Penetration Testing Part 4: Secrets Manager Enumeration — How Attackers Read Your Secrets | Vimal Raj | [Read More](https://medium.com/p/a0fd01721a67) |
-| Wed, 27 May 2026 17:01:05 GMT | Your GRUB Password Isn’t Enough — Here’s How Attackers Remove It in Minutes | Haseeb Ali | [Read More](https://medium.com/p/1e5d36c76690) |
-| Wed, 27 May 2026 17:01:01 GMT | Building QuantumFeed: Why I Created a Cyber Intelligence Platform Focused on Signal Over Noise | C. Oscar Lawshea | [Read More](https://medium.com/p/0c8f34d1e0d1) |
-| Wed, 27 May 2026 16:49:25 GMT | I Exploited a Race Condition to Add Unlimited Restricted Items - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/e878cb4d9106) |
-| Wed, 27 May 2026 16:42:11 GMT | What Is Vulnerability Scanning and How Does It Protect the Software Supply Chain? | JFrog | [Read More](https://medium.com/p/704a3a83320c) |
-| Wed, 27 May 2026 16:18:39 GMT | Pickle Rick — CTF TryHackMe | 0xReconDev | [Read More](https://medium.com/p/37080c2fcd1d) |
-| Wed, 27 May 2026 16:08:27 GMT | I Found an N+1 Query Problem After Months… And It Was Slowing Everything Down | Jaytech | [Read More](https://medium.com/p/7db22aac7ec5) |
-| Wed, 27 May 2026 15:59:27 GMT | How to Find Prompt Injection Vulnerabilities as a Bug Bounty Hunter (2026 Guide) | Muhammad Haider Tallal | [Read More](https://medium.com/p/c1ed8ec726e7) |
-| Wed, 27 May 2026 15:56:47 GMT | Stopping Front-Running with Commit-Reveal | Roy | [Read More](https://medium.com/p/366d61ce1d6c) |
-| Wed, 27 May 2026 15:50:17 GMT | Why You Fear Being a Burden (Even to People Who Love You) | Prashanthi Anand Rao | [Read More](https://medium.com/p/dfc161629ab6) |
-| Wed, 27 May 2026 15:45:34 GMT | KaliGPT: The Future of AI in Ethical Hacking | Pentester Club | [Read More](https://medium.com/p/fb5fbffa02e5) |
-| Wed, 27 May 2026 15:44:02 GMT | 《數碼暴龍》世界觀與現代資訊安全／網絡生態學對照記 | 思維舞步 MindSteps | [Read More](https://medium.com/p/28165fe95b69) |
-| Wed, 27 May 2026 15:42:00 GMT | Certified. And now what? | Mohammed Brückner | [Read More](https://medium.com/p/85cf919ce56e) |
-| Wed, 27 May 2026 15:30:41 GMT | Microsoft Just Admitted Any Employee Can Hack Your Company’s SharePoint. | Jazz Cyber Shield | [Read More](https://medium.com/p/4e8416b75d1b) |
-| Wed, 27 May 2026 15:27:47 GMT | Lockdown Mode in OpenAI: A Practical Security Layer for the Prompt-Injection Era | Roee Golan | [Read More](https://medium.com/p/81f926317971) |
-| Wed, 27 May 2026 15:16:41 GMT | Beyond Scopes: A Field Guide to OPA (and Where OAuth Hands Off) | Adamczyk Maciej | [Read More](https://medium.com/p/df841d24c442) |
-| Wed, 27 May 2026 15:16:22 GMT | From recon to risk | Myles Corey | [Read More](https://medium.com/p/d220c56fee21) |
-| Wed, 27 May 2026 15:16:01 GMT | SIEM Must Evolve — or Be Replaced | NetWitness | [Read More](https://medium.com/p/e263c96ebd0d) |
-| Wed, 27 May 2026 15:15:01 GMT | Identity Is Not “The New Perimeter.” It Just Took You Too Long to Notice. | Predrag | [Read More](https://medium.com/p/51295c8c1f32) |
-| Wed, 27 May 2026 15:09:18 GMT | I Turned Python Into a Silent Cybersecurity Analyst — And It Started Catching Problems Before I Did | Babar saad | [Read More](https://medium.com/p/a9c92f3788af) |
-| Wed, 27 May 2026 15:08:06 GMT | Deepfake and synthetic identity Threats | Ashwini Puranik | [Read More](https://medium.com/p/d94ec031eb15) |
