@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 28 May 2026 23:18:12 GMT | HTB Snapped (HARD) — Full Walkthrough | Shxdowz | [Read More](https://medium.com/p/3e07a8e8fc72) |
+| Thu, 28 May 2026 23:04:30 GMT | Are Interviews hard as you expect ? | Alisher | [Read More](https://medium.com/p/a2560110691f) |
+| Thu, 28 May 2026 23:00:37 GMT | Your AI Coding Agent Is a Security Hole. Here’s How I Fixed Mine. | Mariekie Coetzee | [Read More](https://medium.com/p/43f62ee04ada) |
+| Thu, 28 May 2026 22:47:20 GMT | HackSmarter: MartiniAD | edbert sumicad | [Read More](https://medium.com/p/2961d2133c6c) |
+| Thu, 28 May 2026 22:34:34 GMT | Outsourcing the Boring Parts of Security to an Agent: A 24/7 WAF Posture Reviewer | Sandeep Baldawa | [Read More](https://medium.com/p/dc99d2aa51a6) |
+| Thu, 28 May 2026 22:33:07 GMT | I Tried to Break Into My Own Machine. My SIEM Caught Me. | Naana Sarkodie | [Read More](https://medium.com/p/81638da83743) |
+| Thu, 28 May 2026 22:21:51 GMT | The VS Code Extension That Robbed GitHub (And Why I Audited Mine at 11pm) | Shovon Saha | [Read More](https://medium.com/p/541e1adbedc7) |
+| Thu, 28 May 2026 22:19:51 GMT | Dark Side Of The M00n(AI): Otonom AI Ajanları ve Görünmez Güvenlik Riskleri | Ata Erdemir | [Read More](https://medium.com/p/34b78f0f00ee) |
+| Thu, 28 May 2026 22:19:41 GMT | Hackers No Longer Need to Be Smart. They Just Need AI. | SecPrompts | [Read More](https://medium.com/p/113b44fc0a5f) |
+| Thu, 28 May 2026 22:19:31 GMT | An Infinite Loop in Samsung’s UltraHDR Stack | kareemhesham | [Read More](https://medium.com/p/59a779a5b21b) |
+| Thu, 28 May 2026 21:56:54 GMT | How to Explain Cybersecurity to Non-Technical Buyers | Ayan Wakil | [Read More](https://medium.com/p/18e2df68ee2a) |
 | Thu, 28 May 2026 21:55:05 GMT | Eventvwr.exe UAC Bypass via mscfile | S12 - 0x12Dark Development | [Read More](https://medium.com/p/5af734d2bef4) |
 | Thu, 28 May 2026 21:33:42 GMT | An Infinite Loop in Samsung’s UltraHDR Stack | kareemhesham | [Read More](https://medium.com/p/9f21fed436b6) |
 | Thu, 28 May 2026 21:28:44 GMT | Cybersecurity Students Are Using AI Wrong! | Kevork Tarakjian | [Read More](https://medium.com/p/60c2cc0396a1) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 May 2026 13:53:20 GMT | Human Factor in Cybersecurity: Why Awareness Matters More Than Ever in 2026 | Zia ul Haq | [Read More](https://medium.com/p/9939436a23a3) |
 | Thu, 28 May 2026 13:51:20 GMT | Update Informasi JENI4D 2026 untuk Pengguna Baru dan Lama | Max Anderson | [Read More](https://medium.com/p/d1c7778f8c6e) |
 | Thu, 28 May 2026 13:47:13 GMT | CVE-2026–42945: Understanding NGINX Rift | Mr. Spider | [Read More](https://medium.com/p/dbb3f921ea3a) |
-| Thu, 28 May 2026 13:40:10 GMT | What ERP and Immunology can teach us about moving on from the Enterprise AI graveyard | Nick Parminter | [Read More](https://medium.com/p/38cd03911f8e) |
-| Thu, 28 May 2026 13:39:34 GMT | Is it safe to use only ORM? | oxcsec | [Read More](https://medium.com/p/a406d22c2f23) |
-| Thu, 28 May 2026 13:35:35 GMT | I Wrote the Bug Bounty Book I Wish Existed When I Started | cyber security | [Read More](https://medium.com/p/86162805a786) |
-| Thu, 28 May 2026 13:32:08 GMT | Why Businesses Need Cybersecurity Solutions in 2026 | CyRx360 Inc. | [Read More](https://medium.com/p/5ba8dbbfae4f) |
-| Thu, 28 May 2026 13:15:13 GMT | Cybersecurity Risk Which Business Faces in 2026 | Sanjay | [Read More](https://medium.com/p/e7f23341997d) |
-| Thu, 28 May 2026 13:09:39 GMT | Security in Crypto: Protecting Your Digital Assets in a Digital Age | Sara Taylor | [Read More](https://medium.com/p/471b85bb7bd5) |
-| Thu, 28 May 2026 13:06:32 GMT | Gitea Vulnerability Highlights Growing Risks in Software Development Platforms | Jas | [Read More](https://medium.com/p/fbc6bef57b63) |
-| Thu, 28 May 2026 13:04:33 GMT | How Websites Know You’re Not Really Chrome: Understanding JA4 Fingerprinting | Mrityunjay Pandey | [Read More](https://medium.com/p/b1bda2e7c652) |
-| Thu, 28 May 2026 13:01:01 GMT | Your API Is Fine. The AI in Front of It Isn’t. | Cameron Bardin (MDVKG) | [Read More](https://medium.com/p/77260d0e6921) |
-| Thu, 28 May 2026 12:51:00 GMT | Why Simpler Document Workflows Create Better Operations | Scanny AI | [Read More](https://medium.com/p/a30253f0a0cc) |
-| Thu, 28 May 2026 12:40:51 GMT | EL protocolo BB84 y el robo que intenta evitar. | pedrojparra | [Read More](https://medium.com/p/5685516fcfcf) |
