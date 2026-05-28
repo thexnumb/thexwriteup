@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 27 May 2026 23:40:50 GMT | SOC Service Providers in India — Strengthening Modern Cybersecurity Operations | Cordeskfuture | [Read More](https://medium.com/p/da975e17599f) |
+| Wed, 27 May 2026 23:25:30 GMT | I Built a Prompt That Turns Any AI Into a Tier-3 SOC Analyst. Here’s How It Works. | SecPrompts | [Read More](https://medium.com/p/94e1421eb44b) |
+| Wed, 27 May 2026 23:02:16 GMT | CVE-2025–54123 Hoverfly ≤1.11.3 Command Injection (RCE) Case Study & Patch Diffing | phantom_hat | [Read More](https://medium.com/p/aacc092f7f3a) |
+| Wed, 27 May 2026 23:01:01 GMT | Guardrails in AI define behaviour, not just prevent risk | DiUS | [Read More](https://medium.com/p/896963b49409) |
+| Wed, 27 May 2026 23:00:27 GMT | TryHackMe — ROAD — WriteUp | Burak Kıraç | [Read More](https://medium.com/p/039adc1ccddd) |
+| Wed, 27 May 2026 22:56:38 GMT | Investigating CVE-2024–49138 Exploitation Detection On LetDefend— SOC Analyst Walkthrough | Sodiq Muftau | [Read More](https://medium.com/p/3b80f9e7e8f6) |
+| Wed, 27 May 2026 22:56:11 GMT | CALDERA for Threat Emulation & Blue Team Detection - TryHackMe Walkthrough | Mohamed-Mahmoud | [Read More](https://medium.com/p/5a4a031db8b3) |
+| Wed, 27 May 2026 22:56:00 GMT | The New Era Glossary: Cutting Through the Tech Buzzwords of 2026 | Laroweb3 | [Read More](https://medium.com/p/89412c5da5cd) |
+| Wed, 27 May 2026 22:53:48 GMT | Welcome to TheITLifeRoot: System Optimization for the High-Stress Tech Worker | The IT Life Root | [Read More](https://medium.com/p/f92742139154) |
+| Wed, 27 May 2026 22:46:33 GMT | 90% Less Tokens? | LongHorizons | [Read More](https://medium.com/p/94d3f530e8c2) |
 | Wed, 27 May 2026 22:35:39 GMT | I Ran a Security Audit on My Own AI Product. Here Is What I Found. | Adam McClarin | [Read More](https://medium.com/p/d2c2fad358c6) |
 | Wed, 27 May 2026 22:34:03 GMT | Hackviser Void Scenario Weite-Up | Mshxxx | [Read More](https://medium.com/p/3d732e7662e3) |
 | Wed, 27 May 2026 22:14:40 GMT | Cybersecurity is Data: Collect, Analyze, Interpret | Ryan G. Cox | [Read More](https://medium.com/p/8ffcf3d8ddd6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 27 May 2026 14:23:55 GMT | Análise: EtherRat, TukTuk C2 e The Gentlemen Ransomware | Dayanne Santos | [Read More](https://medium.com/p/1c7d76790f6b) |
 | Wed, 27 May 2026 14:12:38 GMT | 7 Security Mistakes Every Developer Makes (And How to Fix Them Today) | Dhanush N | [Read More](https://medium.com/p/31422d95f8b0) |
 | Wed, 27 May 2026 14:07:14 GMT | OverTheWire — Bandit Walkthrough (Levels 1–14) | Dwi Putra | [Read More](https://medium.com/p/5067885c143e) |
-| Wed, 27 May 2026 14:03:56 GMT | Cross-Site Request Forgery (CSRF) Assessment | Kevin | [Read More](https://medium.com/p/a834bc70adf7) |
-| Wed, 27 May 2026 14:02:24 GMT | Cross-Site Scripting (XSS) Assessment | Kevin | [Read More](https://medium.com/p/efb614d290ad) |
-| Wed, 27 May 2026 13:56:01 GMT | IRAP for US Vendors: Key Differences from SOC 2 and FedRAMP | Anna K | [Read More](https://medium.com/p/f498ea80e302) |
-| Wed, 27 May 2026 13:55:41 GMT | How I Broke Encrypted Requests by Reading Frontend JavaScript | Amit Pal | [Read More](https://medium.com/p/b016c5b9078d) |
-| Wed, 27 May 2026 13:45:54 GMT | SSO Is Not a Login Feature — It Is the Trust Boundary of Your Platform | Salwan Mohamed | [Read More](https://medium.com/p/a1d0076ffd7a) |
-| Wed, 27 May 2026 13:39:28 GMT | Someone Just Made It Easy to Remove AI Safety Controls. And Put It Online for Free. | Abhishek Datta | [Read More](https://medium.com/p/76db0e1b6c6f) |
-| Wed, 27 May 2026 13:31:00 GMT | The OWASP Top 10 for LLMs Is the Most Important Document AI Engineers Are Ignoring | Arvind Kumar | [Read More](https://medium.com/p/74358f6799d5) |
-| Wed, 27 May 2026 13:25:27 GMT | OAuth, OIDC, SAML, SSO: The Map You Wish You Had on Day One | Adamczyk Maciej | [Read More](https://medium.com/p/e287dee524a8) |
-| Wed, 27 May 2026 13:10:46 GMT | Modern Web Stacks - TryHackMe | Ryca | [Read More](https://medium.com/p/6f4d72c8d877) |
-| Wed, 27 May 2026 12:54:11 GMT | How Hackers Break Mobile Apps (And How You Can Too) | @umesh | [Read More](https://medium.com/p/4b54cf3f69b4) |
