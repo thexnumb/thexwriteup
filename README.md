@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 May 2026 22:02:00 GMT | Unlocking IT Effectiveness: Key Components and Analysis Strategies | Chris Geier | [Read More](https://medium.com/p/bddd6f193215) |
+| Fri, 29 May 2026 22:01:01 GMT | Your 2027 Connected-Car Launch Now Depends on Supplier Origin | James Kuhman | [Read More](https://medium.com/p/4e2cddc7e6af) |
+| Fri, 29 May 2026 21:52:06 GMT | Saying Isn’t Doing: The Critical Architecture Shift from Co-pilot to Autonomous Agent | Ykpaliwal | [Read More](https://medium.com/p/822e1fe5b391) |
+| Fri, 29 May 2026 21:48:54 GMT | TryHackMe Pre-Security Path: A Complete Beginner’s Roadmap — by Sandeep | Sandeep Shrivastava | [Read More](https://medium.com/p/59673e51f8f4) |
+| Fri, 29 May 2026 21:33:51 GMT | Data Classification and Asset Management Under ISO 27001 | Prashant Thinks | [Read More](https://medium.com/p/16aa0965e75d) |
+| Fri, 29 May 2026 21:29:39 GMT | ⚡ Beyond CGPA: Building Skills in the World of Cybersecurity | Mrinal Kumar Chandra | [Read More](https://medium.com/p/97ad06ed1d1f) |
+| Fri, 29 May 2026 21:28:21 GMT | Why Your Vendor Risk Assessment Process is Broken and How ISO 27001 Can Fix It | Ahi&Hacking | [Read More](https://medium.com/p/1ecc477f6519) |
+| Fri, 29 May 2026 21:21:23 GMT | Best Penetration Testing Service Provider for Cybersecurity | Cyber Sapiens | [Read More](https://medium.com/p/7f93f435605e) |
+| Fri, 29 May 2026 21:17:05 GMT | EchoTrace — Level 1 Write-up | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/7a135858503f) |
+| Fri, 29 May 2026 21:16:24 GMT | Reporting a Low-Severity YouTube Logic Issue to Google Taught Me a Lot | Mrinal Kumar Chandra | [Read More](https://medium.com/p/616593c392d4) |
+| Fri, 29 May 2026 21:03:20 GMT | Cybersecurity Is Not Just for Big Companies Anymore | M.L. Ruscscak | [Read More](https://medium.com/p/8c5a7b436fb7) |
+| Fri, 29 May 2026 20:56:38 GMT | From Zero to SYSTEM: Exploiting the FoxKeDriver64.sys Windows Kernel Driver | Haidermustafa | [Read More](https://medium.com/p/2d324e629b4d) |
+| Fri, 29 May 2026 20:55:12 GMT | Cyber Threat Intelligence: The Three Pillars Every SOC Analyst Should Understand | Jorge Ruiz | [Read More](https://medium.com/p/b8c8c60b53b0) |
+| Fri, 29 May 2026 20:53:23 GMT | California Moves First: The Political Architecture of Newsom’s AI Workforce Order | CCD-IS | [Read More](https://medium.com/p/0189cdf7e040) |
+| Fri, 29 May 2026 20:50:36 GMT | How to Securely Connect ADK Agents to Models on Cloud Run | minherz | [Read More](https://medium.com/p/b3b080b5b2c0) |
+| Fri, 29 May 2026 20:38:56 GMT | The ‘Sanga Thalaivan’ You Never See | Noel PS | [Read More](https://medium.com/p/3a353828631e) |
+| Fri, 29 May 2026 20:34:18 GMT | Confessions of a Leadership Hypocrite: Your Internal Microphone Is Lying to You | Elizabeth Mendy | [Read More](https://medium.com/p/16ddff69980c) |
+| Fri, 29 May 2026 20:26:32 GMT | SOC336 - Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) | Arya Utomo | [Read More](https://medium.com/p/9212f0eaf4f9) |
 | Fri, 29 May 2026 20:11:46 GMT | TryHackMe Support CTF Walkthrough: Source Code Analysis & RCE | Naskilabot | [Read More](https://medium.com/p/8bb7d5b80a14) |
 | Fri, 29 May 2026 20:09:27 GMT | Analysing AgentTesla: A Full Infection Chain Walkthrough | Dharanis | [Read More](https://medium.com/p/744959461e63) |
 | Fri, 29 May 2026 20:06:00 GMT | Day 4 — The Linux File System Explained: A Map to the Most Powerful OS on Earth | Rudra Joshi | [Read More](https://medium.com/p/c79b5088f649) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 May 2026 14:01:00 GMT | Two Retailers, One Attack: What Really Decides Who Survives a Breach | Stanley A. | [Read More](https://medium.com/p/1c3c58ef7dbc) |
 | Fri, 29 May 2026 13:50:38 GMT | Modern Web Stacks Walkthrough - TryHackMe | Gowrishankar | [Read More](https://medium.com/p/9f46e416e18e) |
 | Fri, 29 May 2026 13:50:34 GMT | Defence in Depth: Why Layered Security is Your Enterprise’s Best Defence | RootAccess Ai. | [Read More](https://medium.com/p/256b3a1c224d) |
-| Fri, 29 May 2026 13:45:59 GMT | Basic Pentesting Walkthrough: Solving the TryHackMe Lab | Abhinav | [Read More](https://medium.com/p/9eefbecf359f) |
-| Fri, 29 May 2026 13:42:11 GMT | Evil Twin Attack Simulation with D-Link Wi-Fi Adapter | Ammar bin nasir | [Read More](https://medium.com/p/5c265494ea6e) |
-| Fri, 29 May 2026 13:37:32 GMT | HTB: Escape | Nazarov Samir | [Read More](https://medium.com/p/e52b2ecff722) |
-| Fri, 29 May 2026 13:37:23 GMT | Understanding HTTP Authentication and MITM Attacks with Apache and Burp Suite | The0bzervAnt | [Read More](https://medium.com/p/468791bdd7e2) |
-| Fri, 29 May 2026 13:36:27 GMT | AI-Powered Cyber Threats Escalate as GreyVibe Attackers Leverage Artificial Intelligence in… | Jas | [Read More](https://medium.com/p/bd664c7c9112) |
-| Fri, 29 May 2026 13:31:00 GMT | $575 CSRF: Triggering Payment Receipt Emails Without User Consent | Abhi Sharma | [Read More](https://medium.com/p/6014dd5a17b0) |
-| Fri, 29 May 2026 13:28:21 GMT | Mythos, Zero-Days, and the Performance of AI Panic | Leon Marks | [Read More](https://medium.com/p/bcc31c8780cb) |
-| Fri, 29 May 2026 13:24:33 GMT | I Watched a Small Business Owner Cry Over a $340 Monthly Bill He Could Have Avoided. | Jazz Cyber Shield | [Read More](https://medium.com/p/af290bd4018b) |
-| Fri, 29 May 2026 13:22:45 GMT | Securing the Invisible Backbone: How I Built a Classified AI Intelligence Platform for India’s… | Anand Raj | [Read More](https://medium.com/p/2164757b6512) |
-| Fri, 29 May 2026 13:21:46 GMT | Google Employee Charged After Allegedly Using Confidential Data to Make $1.2 | Inforsecpro | [Read More](https://medium.com/p/1094da759847) |
-| Fri, 29 May 2026 13:15:09 GMT | How to install and configure Vigolium for vulnerability scanning | Mealer Mike | [Read More](https://medium.com/p/89c2831ec323) |
-| Fri, 29 May 2026 13:14:28 GMT | Agent 365 - Security Operations in Defender | Mechanics Team | [Read More](https://medium.com/p/6a143d852424) |
-| Fri, 29 May 2026 13:13:51 GMT | Understanding the Dark Web and Its Misconceptions | Ofoegbu Stephen | [Read More](https://medium.com/p/bedb119b937e) |
-| Fri, 29 May 2026 13:06:24 GMT | Why you should listen to your SOC team | Osama Elghazaly | [Read More](https://medium.com/p/c7007133b914) |
-| Fri, 29 May 2026 13:00:25 GMT | I Just Watched the IT Services Industry Concede the Future | Krishna Vardhan Reddy Seshampally | [Read More](https://medium.com/p/a24105919eb5) |
-| Fri, 29 May 2026 12:42:56 GMT | California Lawsuit Against 23andMe Highlights Rising Pressure on Data Privacy and Cybersecurity… | Jas | [Read More](https://medium.com/p/2a117070605e) |
-| Fri, 29 May 2026 12:39:16 GMT | Hacking, Virtual Machines, Linux, and Networking: My First Steps into Cybersecurity | Aysha Saliha | [Read More](https://medium.com/p/0bbe7fd5237b) |
-| Fri, 29 May 2026 12:33:38 GMT | Node-RED: Tools IoT Canggih untuk Membangun Dashboard Monitoring Tanpa Coding | Yusufrafif | [Read More](https://medium.com/p/d731e45e4930) |
