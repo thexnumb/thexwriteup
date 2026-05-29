@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 May 2026 23:31:00 GMT | Uncovering a Recruitment Malware Campaign: LinkedIn, Google Forms & Dropbox Abuse (Part 1) | Sivasankar Das | [Read More](https://medium.com/p/1c9fa8fac935) |
+| Fri, 29 May 2026 23:14:37 GMT | Self-Driving Cars Have a Hardware Security Problem Nobody Wants to Talk About | Imran Valiani | [Read More](https://medium.com/p/968b03a18d1e) |
+| Fri, 29 May 2026 22:58:18 GMT | Why Every Cyber Security Student Must Learn Python
+​As a cyber security student, I quickly realized… | Basheer Al_Waseai | [Read More](https://medium.com/p/6dbb6aebd073) |
+| Fri, 29 May 2026 22:48:39 GMT | Your Laravel App Isn’t the Target Anymore — Your Dependencies Are | Salman | [Read More](https://medium.com/p/1a4c6b7b3482) |
+| Fri, 29 May 2026 22:36:23 GMT | Claw Chain: The AI Agent Vulnerabilities That Turn Autonomous Systems Into Attack Infrastructure… | Cyber-AppSec | [Read More](https://medium.com/p/3fb44b5235d7) |
+| Fri, 29 May 2026 22:28:20 GMT | Some Frontier AI Models Should Never Become Consumer Products | Daniel Buckner | [Read More](https://medium.com/p/44e0064f74bf) |
 | Fri, 29 May 2026 22:02:00 GMT | Unlocking IT Effectiveness: Key Components and Analysis Strategies | Chris Geier | [Read More](https://medium.com/p/bddd6f193215) |
 | Fri, 29 May 2026 22:01:01 GMT | Your 2027 Connected-Car Launch Now Depends on Supplier Origin | James Kuhman | [Read More](https://medium.com/p/4e2cddc7e6af) |
 | Fri, 29 May 2026 21:52:06 GMT | Saying Isn’t Doing: The Critical Architecture Shift from Co-pilot to Autonomous Agent | Ykpaliwal | [Read More](https://medium.com/p/822e1fe5b391) |
@@ -106,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 May 2026 14:28:45 GMT | Build a Successful IT Career with Data Center Training | International Data Center Authority | [Read More](https://medium.com/p/db5733baaa49) |
 | Fri, 29 May 2026 14:21:37 GMT | AI Is Powerful. Human Oversight Is Essential. | Thulasiramsureshkumar | [Read More](https://medium.com/p/a86d03abba13) |
 | Fri, 29 May 2026 14:21:00 GMT | The Crushing Weight of Betrayal: Why True Healing Must Come From Within | Queena Bryan | [Read More](https://medium.com/p/369789d9c0d7) |
-| Fri, 29 May 2026 14:16:44 GMT | GitHub Changed the Locks, But the Hackers Kept the Blueprints | RayRay | [Read More](https://medium.com/p/20ef2b3700d9) |
-| Fri, 29 May 2026 14:09:46 GMT | The Supply‑Chain Wave Hitting Blockchain Developers | Sami Mirqulaja | [Read More](https://medium.com/p/4ed9880bdc33) |
-| Fri, 29 May 2026 14:01:01 GMT | Why Reliable Warehouse Staffing Is Critical for Modern Supply Chains | Xwtempsolutions | [Read More](https://medium.com/p/d33b92414750) |
-| Fri, 29 May 2026 14:01:00 GMT | Two Retailers, One Attack: What Really Decides Who Survives a Breach | Stanley A. | [Read More](https://medium.com/p/1c3c58ef7dbc) |
-| Fri, 29 May 2026 13:50:38 GMT | Modern Web Stacks Walkthrough - TryHackMe | Gowrishankar | [Read More](https://medium.com/p/9f46e416e18e) |
-| Fri, 29 May 2026 13:50:34 GMT | Defence in Depth: Why Layered Security is Your Enterprise’s Best Defence | RootAccess Ai. | [Read More](https://medium.com/p/256b3a1c224d) |
