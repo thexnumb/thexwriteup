@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 May 2026 00:56:23 GMT | he Attack Vectors Nobody Tells You About: Hardening LLM Apps Against Prompt Injection | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6152afa02b71) |
+| Fri, 29 May 2026 00:44:57 GMT | Slayer ⚔️ - Hack Smarter Labs Walkthrough | WireHawk Security | [Read More](https://medium.com/p/a5210ef14ffc) |
+| Fri, 29 May 2026 00:31:46 GMT | "I'm small they won't target me" | Grigorios Avramidis | [Read More](https://medium.com/p/57d4db8486ff) |
+| Fri, 29 May 2026 00:30:35 GMT | 2. Hybrid Signaling Topology: WebSockets Meets AMQP/MQTT | Devmemorydh | [Read More](https://medium.com/p/7ce827d432b2) |
+| Fri, 29 May 2026 00:20:53 GMT | The Most Connected Generation Is the Easiest to Fool | Dereje Berhe,  MSc, CISSP, CIPM, CC | [Read More](https://medium.com/p/45dcbbd0e8d0) |
+| Fri, 29 May 2026 00:20:23 GMT | SS7 INTERCEPT Explained - Open-Source Signal Intelligence Platform | Pentester Club | [Read More](https://medium.com/p/696155ea51e8) |
+| Thu, 28 May 2026 23:46:25 GMT | Your RAG Database Is a Backdoor: Replicating and Defending Against AgentPoison | Cnadgir | [Read More](https://medium.com/p/40589b6d7a10) |
+| Thu, 28 May 2026 23:35:47 GMT | Building My First SOC Lab with Splunk and Sysmon | مجدي عمرو | [Read More](https://medium.com/p/9b16eeaa5b1f) |
+| Thu, 28 May 2026 23:31:00 GMT | Why We Need to Stop Resisting Tears… | DeetyaWrites | [Read More](https://medium.com/p/cb0cfa1a1f4c) |
 | Thu, 28 May 2026 23:18:12 GMT | HTB Snapped (HARD) — Full Walkthrough | Shxdowz | [Read More](https://medium.com/p/3e07a8e8fc72) |
+| Thu, 28 May 2026 23:07:58 GMT | OWASP PwnzzAI shop: 02 Data and Model Poisoning | Dino | [Read More](https://medium.com/p/04f537df847a) |
+| Thu, 28 May 2026 23:07:20 GMT | Continuous inference provenance
+for public sector AI | Steven Lopez | [Read More](https://medium.com/p/711b4fd70d6d) |
 | Thu, 28 May 2026 23:04:30 GMT | Are Interviews hard as you expect ? | Alisher | [Read More](https://medium.com/p/a2560110691f) |
 | Thu, 28 May 2026 23:00:37 GMT | Your AI Coding Agent Is a Security Hole. Here’s How I Fixed Mine. | Mariekie Coetzee | [Read More](https://medium.com/p/43f62ee04ada) |
 | Thu, 28 May 2026 22:47:20 GMT | HackSmarter: MartiniAD | edbert sumicad | [Read More](https://medium.com/p/2961d2133c6c) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 28 May 2026 15:00:08 GMT | I Found Credentials in a Dashboard That Shouldn’t Have Been There — Then It Disappeared | Gaurang Jethva | [Read More](https://medium.com/p/c019eb6c0304) |
 | Thu, 28 May 2026 14:57:58 GMT | Digital Provenance Is Becoming Essential for Security Teams | Scottcmcmahan | [Read More](https://medium.com/p/1a7a4da678c1) |
 | Thu, 28 May 2026 14:55:16 GMT | The Cost of Convenience: Why We Are Trading Depth for Connection | @Philoshe | [Read More](https://medium.com/p/1dbfa208b366) |
-| Thu, 28 May 2026 14:46:00 GMT | [BREACH] The Extension Wasn’t Just an Extension | Wes Young | [Read More](https://medium.com/p/034fdfb713aa) |
-| Thu, 28 May 2026 14:39:30 GMT | Why Anthropic didn’t release Claude Mythos to Public? | Arti Verma | [Read More](https://medium.com/p/6237648c4b06) |
-| Thu, 28 May 2026 14:35:06 GMT | What the DNS-AID announcement settles, and what it does not | Dr. Enrique Somoza, D.Sc. | [Read More](https://medium.com/p/9ffa91587a94) |
-| Thu, 28 May 2026 14:34:23 GMT | Dirty Frag: Universal Linux LPE Through Page Cache Corruption | Rayenhafsawy | [Read More](https://medium.com/p/507e3b85506b) |
-| Thu, 28 May 2026 14:17:18 GMT | Parsing the Spirit of the Payload with AI | vestigia | [Read More](https://medium.com/p/545c658cb566) |
-| Thu, 28 May 2026 14:04:52 GMT | The Scariest Vulnerability Is the One Nobody Scanned | Appdirs | [Read More](https://medium.com/p/182db9ec82c9) |
-| Thu, 28 May 2026 13:54:20 GMT | The UK Just Passed a Law That Will Fine Your Organisation £18 Million. | Srinivas Rao | [Read More](https://medium.com/p/abd0192ede93) |
-| Thu, 28 May 2026 13:54:17 GMT | Your AI Agents Have the Keys to the Kingdom. Who Gave Them Permission? | Gagandeep Singh | [Read More](https://medium.com/p/3b0341de257f) |
-| Thu, 28 May 2026 13:53:20 GMT | Human Factor in Cybersecurity: Why Awareness Matters More Than Ever in 2026 | Zia ul Haq | [Read More](https://medium.com/p/9939436a23a3) |
-| Thu, 28 May 2026 13:51:20 GMT | Update Informasi JENI4D 2026 untuk Pengguna Baru dan Lama | Max Anderson | [Read More](https://medium.com/p/d1c7778f8c6e) |
-| Thu, 28 May 2026 13:47:13 GMT | CVE-2026–42945: Understanding NGINX Rift | Mr. Spider | [Read More](https://medium.com/p/dbb3f921ea3a) |
