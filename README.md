@@ -12,6 +12,40 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 May 2026 20:11:46 GMT | TryHackMe Support CTF Walkthrough: Source Code Analysis & RCE | Naskilabot | [Read More](https://medium.com/p/8bb7d5b80a14) |
+| Fri, 29 May 2026 20:09:27 GMT | Analysing AgentTesla: A Full Infection Chain Walkthrough | Dharanis | [Read More](https://medium.com/p/744959461e63) |
+| Fri, 29 May 2026 20:06:00 GMT | Day 4 — The Linux File System Explained: A Map to the Most Powerful OS on Earth | Rudra Joshi | [Read More](https://medium.com/p/c79b5088f649) |
+| Fri, 29 May 2026 20:05:50 GMT | AWS Security Incident Response: Why This Changes Everything for Cloud Security Operations | Akshitapoonia | [Read More](https://medium.com/p/4157c5d1d01d) |
+| Fri, 29 May 2026 20:04:56 GMT | Day 3: STL in C++, CSRF & HTTP Request Smuggling, and Python Fundamentals | Akshay Archive | [Read More](https://medium.com/p/00dd5336bb18) |
+| Fri, 29 May 2026 19:54:05 GMT | Android Root Detection: What I Learned Building Security SDKs | Kirt Pandey | [Read More](https://medium.com/p/3341560548ef) |
+| Fri, 29 May 2026 19:49:52 GMT | From Executive Support to Cybersecurity: Why My Past Career Still Matters | Chanel Sius | [Read More](https://medium.com/p/f80d0428ce01) |
+| Fri, 29 May 2026 19:37:27 GMT | Microsoft’s Stand on Software Security: A Call for Clarity | Anjli Jain | [Read More](https://medium.com/p/47c54049ade5) |
+| Fri, 29 May 2026 19:34:53 GMT | APIs Meet AI: A Beginner’s Guide to LLMs, NLP, and Why Security Matters | Abrar Bin Habib | [Read More](https://medium.com/p/bc2f4b12d918) |
+| Fri, 29 May 2026 19:31:54 GMT | “The Child Has Been Chosen, Seen The Harm, The Child Is Not The Harm You Project” | Ethics | [Read More](https://medium.com/p/f9c77e7e58e4) |
+| Fri, 29 May 2026 19:22:46 GMT | Post-Quantum Cryptography: The Security Shift the Internet Can’t Ignore | Amit Kumar Thakur | [Read More](https://medium.com/p/afba92e576c2) |
+| Fri, 29 May 2026 19:15:00 GMT | She’s Not Difficult to Love; She’s Difficult to Convince. | Inscribed-Echoes | [Read More](https://medium.com/p/bd644359776e) |
+| Fri, 29 May 2026 19:12:34 GMT | RXSS — My First Official Vulnerability: A Significant Step in My Cybersecurity Journey | t1lt45 | [Read More](https://medium.com/p/5dfe41a23fa3) |
+| Fri, 29 May 2026 19:09:17 GMT | In 1997, Steven Haase collaborated with AIG (American International Group) to introduce the… | Arun Kumar Chandrasekar | [Read More](https://medium.com/p/e9ae8469a643) |
+| Fri, 29 May 2026 19:08:34 GMT | Introducing SOCFortress Compliance: GRC Built for Security Teams | SOCFortress | [Read More](https://medium.com/p/82ed80cba82a) |
+| Fri, 29 May 2026 19:00:39 GMT | Finding my Ikigai through Ethical Hacking and Conquering Imposter Syndrome | The Husky Hacker | [Read More](https://medium.com/p/fd9e17de6bff) |
+| Fri, 29 May 2026 18:59:53 GMT | TryHackMe: Pickle Rick CTF Write-up - Web Exploitation & Privilege Escalation | Ahmed H. Ismael | [Read More](https://medium.com/p/a626af441d01) |
+| Fri, 29 May 2026 18:55:18 GMT | AgentZero: The First AI-Driven Cyberattack Caught in the Wild | Ali Mansoor | [Read More](https://medium.com/p/fb85c585eacc) |
+| Fri, 29 May 2026 18:52:13 GMT | Social Engineering in 2026 : Why People Remain the Weakest Link in Cybersecurity | Fuzail Al Arabia | [Read More](https://medium.com/p/60d771d8a140) |
+| Fri, 29 May 2026 18:46:51 GMT | NahamStore => Recon | ZODiAK | [Read More](https://medium.com/p/dade5242d3b4) |
+| Fri, 29 May 2026 18:38:27 GMT | TryHeartMe — TryHackMe CTF Walkthrough | Atul | [Read More](https://medium.com/p/1e7ec8a1605b) |
+| Fri, 29 May 2026 18:37:12 GMT | SQL Injection Introduction (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/67b90a2b09c8) |
+| Fri, 29 May 2026 18:23:16 GMT | CSRF Account Takeover: Rejected by the Security Team, Rewarded by the Security Director ($$$) | Bhavishthakral | [Read More](https://medium.com/p/d00022676d87) |
+| Fri, 29 May 2026 18:19:35 GMT | OverTheWire Bandit Walkthrough — Level 11 → 12 - 30-Day Cybersecurity Learning Journey (Day 11) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/0de7b26e54c9) |
+| Fri, 29 May 2026 18:19:21 GMT | ObjectId vs UUID v7 in MongoDB: How to Migrate Safely in Production | Kouadiomathias | [Read More](https://medium.com/p/8d5050d4f41d) |
+| Fri, 29 May 2026 18:08:03 GMT | Linux Processes Explained: A Beginner-Friendly Guide to Understanding What’s Running in Linux (With… | Alwinaji | [Read More](https://medium.com/p/55627be1d434) |
+| Fri, 29 May 2026 18:01:00 GMT | Linux Services Explained: The Beginner-Friendly Guide to Understanding What Runs Behind the Scenes… | Alwinaji | [Read More](https://medium.com/p/8185a219b4e5) |
+| Fri, 29 May 2026 18:01:00 GMT | Your Test Suite Is Green. Your Bug Is Already in Production. | Hafiq Iqmal | [Read More](https://medium.com/p/a167e720bbc2) |
+| Fri, 29 May 2026 18:01:00 GMT | Bill’s Steak House (RCE) (WebVerse-pro.com) | 7s26Simon | [Read More](https://medium.com/p/d99c4ad8c50d) |
+| Fri, 29 May 2026 17:52:53 GMT | I didn’t start in cybersecurity because I had a perfect plan. | Lawrencegeoffrey | [Read More](https://medium.com/p/dfa2e73e329c) |
+| Fri, 29 May 2026 17:51:58 GMT | The White-Hat Blueprint: Why Thinking Like an Attacker is Your Best Defense | Abhishupadhayaya | [Read More](https://medium.com/p/fae9c2070c75) |
+| Fri, 29 May 2026 17:46:00 GMT | FortiClient EMS Was Turned Into a Malware Delivery System. | Isaac Privett | [Read More](https://medium.com/p/43388646825a) |
+| Fri, 29 May 2026 17:45:47 GMT | Private Polls? Not Really — Exploiting Access Control and Logic Flaws | Yosefmostef | [Read More](https://medium.com/p/943ff0bb5cc4) |
+| Fri, 29 May 2026 17:39:38 GMT | Four-Way PHP Domino-Fall: Unchecked Input to Full Root Compromise | Xia0checkmate | [Read More](https://medium.com/p/f1b3fa5eacfe) |
 | Fri, 29 May 2026 17:26:02 GMT | Why Your AI Security System Can’t Explain Itself, And Why That’s Dangerous | Omotiafe Aregbeyen | [Read More](https://medium.com/p/7bb8eb2d3655) |
 | Fri, 29 May 2026 17:23:58 GMT | Your App Fetches External Images — Have You Thought About Security? | Tomasz Rebizant | [Read More](https://medium.com/p/d60bb08b7024) |
 | Fri, 29 May 2026 17:22:37 GMT | Cracking SameSite for a $2,000 Web Cache Deception | tinopreter | [Read More](https://medium.com/p/746972278412) |
@@ -78,37 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 May 2026 12:42:56 GMT | California Lawsuit Against 23andMe Highlights Rising Pressure on Data Privacy and Cybersecurity… | Jas | [Read More](https://medium.com/p/2a117070605e) |
 | Fri, 29 May 2026 12:39:16 GMT | Hacking, Virtual Machines, Linux, and Networking: My First Steps into Cybersecurity | Aysha Saliha | [Read More](https://medium.com/p/0bbe7fd5237b) |
 | Fri, 29 May 2026 12:33:38 GMT | Node-RED: Tools IoT Canggih untuk Membangun Dashboard Monitoring Tanpa Coding | Yusufrafif | [Read More](https://medium.com/p/d731e45e4930) |
-| Fri, 29 May 2026 12:31:20 GMT | Why Modern Applications Use JWT Instead of Sessions | Trishan Fernando | [Read More](https://medium.com/p/9369d938ec88) |
-| Fri, 29 May 2026 12:16:20 GMT | Event Security Services for Safe and Secure Gatherings | pro security guard | [Read More](https://medium.com/p/ddd763170cc8) |
-| Fri, 29 May 2026 12:12:01 GMT | Publicized instances reveal a disturbing trend where soldiers or ruling-party loyalists detained… | Hillary Clinton Onyango | [Read More](https://medium.com/p/1cc9449e0d1e) |
-| Fri, 29 May 2026 12:09:14 GMT | Identify Application Vulnerabilities with Security Command Center | Siphiwe | [Read More](https://medium.com/p/25aeea43bd99) |
-| Fri, 29 May 2026 12:01:00 GMT | The Internet Normalized Something That Should Feel Uncomfortable | Templora | [Read More](https://medium.com/p/23708baaca31) |
-| Fri, 29 May 2026 11:49:35 GMT | Understanding Phishing Attacks: How to Protect Your Digital Identity | Sakib Ahmed Sadi | [Read More](https://medium.com/p/951894edeb12) |
-| Fri, 29 May 2026 11:48:04 GMT | Bug Bounty Programs: Crowdsourcing Cybersecurity -- Ethical Hacking | BlackHat | [Read More](https://medium.com/p/5f41cd7b1c76) |
-| Fri, 29 May 2026 11:47:28 GMT | How iOS Apps, Retail Software Solutions, and IoT Technology Are Transforming the Future of Smart… | Garvirediwal | [Read More](https://medium.com/p/63e32318282f) |
-| Fri, 29 May 2026 11:42:14 GMT | Understanding Identity Theft | Mohd Kaif | [Read More](https://medium.com/p/683323091739) |
-| Fri, 29 May 2026 11:40:27 GMT | How I Set Up a Free Oracle Cloud VM and Added It to My Personal Server Stack | August G. Osei | [Read More](https://medium.com/p/ed49876c87be) |
-| Fri, 29 May 2026 11:36:47 GMT | The Evolution of Digital Defense: My Journey as a Cybersecurity Researcher | Sakib Ahmed Sadi | [Read More](https://medium.com/p/6e990e1de52d) |
-| Fri, 29 May 2026 11:32:02 GMT | Agent Governance Toolkit for .NET: | Kavathiyakhushali | [Read More](https://medium.com/p/babedddb8d1f) |
-| Fri, 29 May 2026 11:29:47 GMT | I Built a Local AI Security Agent That Thinks Like an Operational Security Officer | Macaroniwdcheese | [Read More](https://medium.com/p/273df9e2d278) |
-| Fri, 29 May 2026 11:26:24 GMT | Why ISWAP Went From 20 to 92 Attacks in One Year, and What It Actually Means | Oge Samuel Okonkwo | [Read More](https://medium.com/p/e0507b4e1b74) |
-| Fri, 29 May 2026 11:25:05 GMT | The Weird Things Nobody Tells You When You Start Learning QA | Yoshadhi Edirisinghe | [Read More](https://medium.com/p/aa356e760558) |
-| Fri, 29 May 2026 11:22:11 GMT | Organizations focus on fixing vulnerabilities. | Ankita Phad | [Read More](https://medium.com/p/4cd481fa2ff2) |
-| Fri, 29 May 2026 11:05:15 GMT | I Removed SSH From AWS Completely — And My Infrastructure Became More Secure | Davebhargavi | [Read More](https://medium.com/p/fb85b03eb79f) |
-| Fri, 29 May 2026 11:03:55 GMT | Can a Tea Spill Destroy Your Laptop? Expert Tips to Minimise the Damage | Shreya Loyal | [Read More](https://medium.com/p/a524b9060cc6) |
-| Fri, 29 May 2026 10:48:26 GMT | The Live Demo Trap That Forced Me to Master Flutter Web Routing | Muhammadomar | [Read More](https://medium.com/p/11a71e646b46) |
-| Fri, 29 May 2026 10:41:54 GMT | I Got Tired Of Running The Same Recon Commands Every Day — So I Built This | ghostyjoe | [Read More](https://medium.com/p/92583e840c60) |
-| Fri, 29 May 2026 10:30:09 GMT | The Hackers Labs Writeup — La Casa del Jamón (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/18bbd8d24123) |
-| Fri, 29 May 2026 10:27:02 GMT | IPv4 Network and host | IPv4 Trade Hub | [Read More](https://medium.com/p/13b338ff2eae) |
-| Fri, 29 May 2026 10:26:55 GMT | Why I Built a Tool That Exposes Your Browser’s Digital Footprint | Cosmos Kay | [Read More](https://medium.com/p/92ee2d8d7159) |
-| Fri, 29 May 2026 10:18:29 GMT | How We Secured Our Spring Boot REST APIs in Production (Lessons Learned the Hard Way) | Rahul Soni | [Read More](https://medium.com/p/ad338f917d11) |
-| Fri, 29 May 2026 10:15:07 GMT | Can a 35 Year Old Join an Ethical Hacking Course in Delhi and Actually Get Placed? | Varun Papnai | [Read More](https://medium.com/p/454605655d4d) |
-| Fri, 29 May 2026 10:13:44 GMT | The Fake ID Arms Race: How Document Security Keeps Losing Sleep | Kayla Rivers | [Read More](https://medium.com/p/03c2e8fca317) |
-| Fri, 29 May 2026 10:13:16 GMT | Lab #6 — Inconsistent Handling of Exceptional Input — PortSwigger Web Security Academy | Thewatchdog13 | [Read More](https://medium.com/p/74318ab211eb) |
-| Fri, 29 May 2026 10:12:24 GMT | 4 Facts That Explain Why AI Agents Need Their Own Authorization Layer | Abenezergetachew | [Read More](https://medium.com/p/d3ea8cee640f) |
-| Fri, 29 May 2026 10:11:42 GMT | UR账户层的安全性、合规性和信任度 | UR Global CN | [Read More](https://medium.com/p/2aa6355da981) |
-| Fri, 29 May 2026 10:11:00 GMT | VPN Development Service With Multi-Platform Support Recommendations | Sojib Guru | [Read More](https://medium.com/p/699abcf646eb) |
-| Fri, 29 May 2026 10:03:58 GMT | Social Engineering Explained: Why Hackers Attack Humans Before Systems | Shalu | [Read More](https://medium.com/p/55637c6353ba) |
-| Fri, 29 May 2026 10:03:15 GMT | Job Phishing Campaign — Incident Investigation(Impersonating: Naukri.com) | EclipseManic | [Read More](https://medium.com/p/fc29f198ff13) |
-| Fri, 29 May 2026 10:02:48 GMT | ExoArtDataPulse: The Quantum Edition - Series 1, Article 8 of 20 | ExoArtDataPulse | [Read More](https://medium.com/p/c5fcb85abcdc) |
-| Fri, 29 May 2026 09:58:05 GMT | Fast Response Anti-Kidnapping and Crime Escalation System: A Tech-Driven Standard Operations… | Daniel Orjikalu | [Read More](https://medium.com/p/ea67c2d12434) |
