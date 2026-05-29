@@ -12,6 +12,55 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 29 May 2026 17:26:02 GMT | Why Your AI Security System Can’t Explain Itself, And Why That’s Dangerous | Omotiafe Aregbeyen | [Read More](https://medium.com/p/7bb8eb2d3655) |
+| Fri, 29 May 2026 17:23:58 GMT | Your App Fetches External Images — Have You Thought About Security? | Tomasz Rebizant | [Read More](https://medium.com/p/d60bb08b7024) |
+| Fri, 29 May 2026 17:22:37 GMT | Cracking SameSite for a $2,000 Web Cache Deception | tinopreter | [Read More](https://medium.com/p/746972278412) |
+| Fri, 29 May 2026 17:21:44 GMT | Recurrence Is Not Persistence: Why Repeated Signals Can Mislead Data Teams | Meghal Donde | [Read More](https://medium.com/p/76bfc5872f2b) |
+| Fri, 29 May 2026 17:21:03 GMT | AI red teaming 1 | B Komo | [Read More](https://medium.com/p/ea6672012d21) |
+| Fri, 29 May 2026 17:20:14 GMT | ARTOC Course Review | Krrishbhurani | [Read More](https://medium.com/p/b1fa534f7693) |
+| Fri, 29 May 2026 17:17:51 GMT | Beyond the Password: Understanding Cybersecurity in the Modern World | Xaltius | [Read More](https://medium.com/p/996b5d861a5a) |
+| Fri, 29 May 2026 17:08:08 GMT | I Loaded a Keras Model and It Ran My Shell Commands (CVE-2025–1550) | Vincent Sica | [Read More](https://medium.com/p/2910168b7b0e) |
+| Fri, 29 May 2026 17:07:30 GMT | Preventing Server-Side Parameter Pollution: A Practical Guide for Small and Medium-Sized Businesses | Lorent Hasanllari | [Read More](https://medium.com/p/5adad16d4327) |
+| Fri, 29 May 2026 17:06:46 GMT | SAML Username Collision Leading to Full ATO | M0n3m | [Read More](https://medium.com/p/b1f3595e1cc8) |
+| Fri, 29 May 2026 16:56:59 GMT | AI Builders Are Moving Fast. Network Guardian Helps Them Move Safely. | Rishabh Banga | [Read More](https://medium.com/p/c0a7277f7944) |
+| Fri, 29 May 2026 16:44:36 GMT | Cybersecurity News Review — Week 22 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/4e59f33ec594) |
+| Fri, 29 May 2026 16:37:59 GMT | Hacking with Models: Connecting BurpSuite MCP to Claude Code & OpenCode | Nikhil UR | [Read More](https://medium.com/p/5914c7a5e784) |
+| Fri, 29 May 2026 16:37:58 GMT | # **FROST, the Spy in Your SSD: When Your Browser Watches You Without Asking** | Bryan Ouellette | [Read More](https://medium.com/p/c70931e7e2d3) |
+| Fri, 29 May 2026 16:36:00 GMT | Check Your Bot, Dot | Jana Diamond | [Read More](https://medium.com/p/96bd45c070b0) |
+| Fri, 29 May 2026 16:31:00 GMT | GRE Tunneling: Building a Private Tunnel Through a Public Network | Natarajan C K | [Read More](https://medium.com/p/f12069c6df79) |
+| Fri, 29 May 2026 16:18:54 GMT | I Used the Same Password Everywhere. What Could Possibly Go Wrong? | Prarupmanandhar | [Read More](https://medium.com/p/7f791d7b3e85) |
+| Fri, 29 May 2026 16:11:14 GMT | Linux Administration: SSH Remote Connection | Hyunjae | [Read More](https://medium.com/p/6a82eec6ee42) |
+| Fri, 29 May 2026 16:04:39 GMT | I Spent 8 Hours Debugging a Bug Caused by One Line | Jaytech | [Read More](https://medium.com/p/ca87de9e7750) |
+| Fri, 29 May 2026 16:04:27 GMT | HTB — Nibbles Writeup | Asem Shouman | [Read More](https://medium.com/p/62d3ef590de3) |
+| Fri, 29 May 2026 16:02:40 GMT | Gogs Rebase RCE: When Your Self-Hosted Git Server Becomes the Build Pipeline Beachhead | Isaac Privett | [Read More](https://medium.com/p/56b5d77f0957) |
+| Fri, 29 May 2026 15:45:47 GMT | Vigilance as our shared responsibility | Moonlaceglow | [Read More](https://medium.com/p/23bbb18e1623) |
+| Fri, 29 May 2026 15:26:55 GMT | Guided Pentest: Infrastructure (TryHackMe) | labbrattyrat | [Read More](https://medium.com/p/43cc764eaa39) |
+| Fri, 29 May 2026 15:21:44 GMT | Penetration Testing Frameworks — TryHackMe Writeup | Onlyrahimsec | [Read More](https://medium.com/p/37eccce2a68f) |
+| Fri, 29 May 2026 15:19:51 GMT | YellowKey BitLocker Bypass: What It Is and How to Protect Your Windows Device | Emilyharbord | [Read More](https://medium.com/p/445c5c9daf87) |
+| Fri, 29 May 2026 15:11:53 GMT | Blockchain Document Verification Explained | Legal Chain | [Read More](https://medium.com/p/97e29b4413e2) |
+| Fri, 29 May 2026 15:11:11 GMT | Which LLM is the best at finding real vulnerabilities (Part 1)? | Jeremie A <lp1> | [Read More](https://medium.com/p/2c51802cd55b) |
+| Fri, 29 May 2026 15:04:09 GMT | Nuclear War Survival Tips | Officer's Notes | [Read More](https://medium.com/p/a4381d8c1ebd) |
+| Fri, 29 May 2026 14:58:31 GMT | The Definitive Guide to Subdomain Enumeration | cyber security | [Read More](https://medium.com/p/e2c04476ef27) |
+| Fri, 29 May 2026 14:53:04 GMT | Cyber Kill Chain : TryHackMe Writeup | Onlyrahimsec | [Read More](https://medium.com/p/535d5deb6b75) |
+| Fri, 29 May 2026 14:51:00 GMT | When Kindness Starts Feeling Unreal | Rupali | [Read More](https://medium.com/p/d48e822b0dba) |
+| Fri, 29 May 2026 14:50:10 GMT | How to detect cheating husband? | Michael Parks | [Read More](https://medium.com/p/ef5388481630) |
+| Fri, 29 May 2026 14:46:23 GMT | The Growing Importance of Cybersecurity Solutions in a Connected World | CyRx360 Inc. | [Read More](https://medium.com/p/4090ab8f680c) |
+| Fri, 29 May 2026 14:42:26 GMT | Race Conditions — The $15k Bug That Breaks Logic | cyber-ninjaaa | [Read More](https://medium.com/p/bed2f325bc04) |
+| Fri, 29 May 2026 14:41:57 GMT | Why Enterprise AI Investors Are Turning Away from Pure Automation | Thulasiramsureshkumar | [Read More](https://medium.com/p/092ef2140249) |
+| Fri, 29 May 2026 14:41:31 GMT | Architecting Dependency, Automating Displacement: The Token Economy and the Death of Trust | Namir Sagheenanajar | [Read More](https://medium.com/p/a0c205c90385) |
+| Fri, 29 May 2026 14:40:20 GMT | Lab Walkthrough: SQL Injection Vulnerability in Product Category Filter | Ayeshaaghafoor | [Read More](https://medium.com/p/c726901491f5) |
+| Fri, 29 May 2026 14:38:04 GMT | Lab: SQL injection vulnerability allowing login bypass | Ayeshaaghafoor | [Read More](https://medium.com/p/f917ae6b6678) |
+| Fri, 29 May 2026 14:35:13 GMT | Blind SSRF that Leads To Port Scaning And Descover The Infrastracture | Tomahawk | [Read More](https://medium.com/p/1b1f1ef05453) |
+| Fri, 29 May 2026 14:28:45 GMT | Build a Successful IT Career with Data Center Training | International Data Center Authority | [Read More](https://medium.com/p/db5733baaa49) |
+| Fri, 29 May 2026 14:21:37 GMT | AI Is Powerful. Human Oversight Is Essential. | Thulasiramsureshkumar | [Read More](https://medium.com/p/a86d03abba13) |
+| Fri, 29 May 2026 14:21:00 GMT | The Crushing Weight of Betrayal: Why True Healing Must Come From Within | Queena Bryan | [Read More](https://medium.com/p/369789d9c0d7) |
+| Fri, 29 May 2026 14:16:44 GMT | GitHub Changed the Locks, But the Hackers Kept the Blueprints | RayRay | [Read More](https://medium.com/p/20ef2b3700d9) |
+| Fri, 29 May 2026 14:09:46 GMT | The Supply‑Chain Wave Hitting Blockchain Developers | Sami Mirqulaja | [Read More](https://medium.com/p/4ed9880bdc33) |
+| Fri, 29 May 2026 14:01:01 GMT | Why Reliable Warehouse Staffing Is Critical for Modern Supply Chains | Xwtempsolutions | [Read More](https://medium.com/p/d33b92414750) |
+| Fri, 29 May 2026 14:01:00 GMT | Two Retailers, One Attack: What Really Decides Who Survives a Breach | Stanley A. | [Read More](https://medium.com/p/1c3c58ef7dbc) |
+| Fri, 29 May 2026 13:50:38 GMT | Modern Web Stacks Walkthrough - TryHackMe | Gowrishankar | [Read More](https://medium.com/p/9f46e416e18e) |
+| Fri, 29 May 2026 13:50:34 GMT | Defence in Depth: Why Layered Security is Your Enterprise’s Best Defence | RootAccess Ai. | [Read More](https://medium.com/p/256b3a1c224d) |
+| Fri, 29 May 2026 13:45:59 GMT | Basic Pentesting Walkthrough: Solving the TryHackMe Lab | Abhinav | [Read More](https://medium.com/p/9eefbecf359f) |
 | Fri, 29 May 2026 13:42:11 GMT | Evil Twin Attack Simulation with D-Link Wi-Fi Adapter | Ammar bin nasir | [Read More](https://medium.com/p/5c265494ea6e) |
 | Fri, 29 May 2026 13:37:32 GMT | HTB: Escape | Nazarov Samir | [Read More](https://medium.com/p/e52b2ecff722) |
 | Fri, 29 May 2026 13:37:23 GMT | Understanding HTTP Authentication and MITM Attacks with Apache and Burp Suite | The0bzervAnt | [Read More](https://medium.com/p/468791bdd7e2) |
@@ -63,52 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 May 2026 10:03:15 GMT | Job Phishing Campaign — Incident Investigation(Impersonating: Naukri.com) | EclipseManic | [Read More](https://medium.com/p/fc29f198ff13) |
 | Fri, 29 May 2026 10:02:48 GMT | ExoArtDataPulse: The Quantum Edition - Series 1, Article 8 of 20 | ExoArtDataPulse | [Read More](https://medium.com/p/c5fcb85abcdc) |
 | Fri, 29 May 2026 09:58:05 GMT | Fast Response Anti-Kidnapping and Crime Escalation System: A Tech-Driven Standard Operations… | Daniel Orjikalu | [Read More](https://medium.com/p/ea67c2d12434) |
-| Fri, 29 May 2026 09:55:52 GMT | Linux System Administrator Roadmap: From Beginner to Expert | cybersecuritycourse | [Read More](https://medium.com/p/e11bd7698423) |
-| Fri, 29 May 2026 09:49:43 GMT | Why Remote Workers Need a Secure VPN ? | Ethan Carter | [Read More](https://medium.com/p/d4b7f1a39ecf) |
-| Fri, 29 May 2026 09:36:43 GMT | The Israeli Leak Machine: How Netanyahu’s Inner Circle Traded National Security for Political… | M.BROSH | [Read More](https://medium.com/p/5c0b6bbacafe) |
-| Fri, 29 May 2026 09:29:07 GMT | I Attacked My Own Machine with Hydra and Caught It Live in Splunk | NIVED PV | [Read More](https://medium.com/p/60675b55c2fa) |
-| Fri, 29 May 2026 09:25:27 GMT | The Future They’re Building | Erik Blair | [Read More](https://medium.com/p/f72164ebf1eb) |
-| Fri, 29 May 2026 09:19:49 GMT | I Got Hacked. Here’s What I Wish I’d Known Sooner. | synnefo academy | [Read More](https://medium.com/p/18d95843aa8a) |
-| Fri, 29 May 2026 09:19:26 GMT | A $10,000 Bug. One JSON Field. Every Account on the Platform. | LordofHeaven | [Read More](https://medium.com/p/95471e37f752) |
-| Fri, 29 May 2026 09:14:44 GMT | How We Bypassed an Axios Security Patch (CVE-2026–42043): The 16-Million IP Loophole | Sachin Patil | [Read More](https://medium.com/p/6f2dd8968757) |
-| Fri, 29 May 2026 09:14:07 GMT | The Quiet Fear of Letting Yourself Be Happy (In Case It Doesn’t Last) | Avanthica | [Read More](https://medium.com/p/ab6ce8b4f693) |
-| Fri, 29 May 2026 09:06:22 GMT | Sick OS- Writeup | Sarath Chandran R S | [Read More](https://medium.com/p/b04da2f20b96) |
-| Fri, 29 May 2026 08:50:15 GMT | Why Subdomain Takeovers Are Still the Easiest Bounty Money in 2026 | Masood Nfc | [Read More](https://medium.com/p/8a5221c2cdf0) |
-| Fri, 29 May 2026 08:47:50 GMT | What Actually Happens When You Use AI to Hunt Bug Bounties in 2026 | Masood Nfc | [Read More](https://medium.com/p/20ce63d7abce) |
-| Fri, 29 May 2026 08:39:34 GMT | I Was Never Taught How to Be Fully Seen | Nisa Haq | [Read More](https://medium.com/p/753903d17228) |
-| Fri, 29 May 2026 08:38:45 GMT | 20 Web Developer Mistakes That Make a Penetration Tester’s Job Easy | Dhanush N | [Read More](https://medium.com/p/65d2255efd56) |
-| Fri, 29 May 2026 08:33:56 GMT | Why Traditional API Gateways Fail in the Era of Agentic AI | Sankalp Swarup | [Read More](https://medium.com/p/878a52a83926) |
-| Fri, 29 May 2026 08:26:53 GMT | The Tower of Babel in AI: Why I’m using English for the Prompt in LLM? | Ruei-Chi Huang | [Read More](https://medium.com/p/fcbd587b63da) |
-| Fri, 29 May 2026 08:24:18 GMT | How I Independently Compromised Mr. Robot in 2 Hours — Complete Walkthrough | Youseff mohamed kamal | [Read More](https://medium.com/p/4cc12e69a140) |
-| Fri, 29 May 2026 08:23:26 GMT | Incident Response Fundamentals | ExploitHunter | [Read More](https://medium.com/p/6574ee5ad138) |
-| Fri, 29 May 2026 08:16:49 GMT | I Built an Enterprise Home Network SOC Platform — Here’s How | Muhammad zubair | [Read More](https://medium.com/p/0fa551e648ce) |
-| Fri, 29 May 2026 08:15:28 GMT | How Companies HIDE Your Passwords | Dipankar Sethi | [Read More](https://medium.com/p/b5c966e7886a) |
-| Fri, 29 May 2026 08:10:09 GMT | The Prompt-First Approach: Why OpenCode Should Be Your Tool for Any IT Support | Parade | [Read More](https://medium.com/p/0ece4cd4ebf0) |
-| Fri, 29 May 2026 07:57:09 GMT | From Zero to System Root: The Power of Vulnerability Chaining in Web Penetration Testing | Vivek Bhatt | [Read More](https://medium.com/p/1a6f6e8138d1) |
-| Fri, 29 May 2026 07:41:37 GMT | We Have to Use Biased AI | Amy Zhang | [Read More](https://medium.com/p/91ae454a3934) |
-| Fri, 29 May 2026 07:09:33 GMT | Mastering Access Control Systems: Effective Strategies to Secure Organisational Data | Rahna | [Read More](https://medium.com/p/cca670512225) |
-| Fri, 29 May 2026 07:08:29 GMT | Why Cyber Security Skills Are Becoming Important for Students in India. | Cozonix | [Read More](https://medium.com/p/4df366b2ea1a) |
-| Fri, 29 May 2026 07:06:26 GMT | IT Risk Management Solutions: What Businesses Need to Know in 2026 | Gauri Kale | [Read More](https://medium.com/p/aae4960bf9dd) |
-| Fri, 29 May 2026 07:01:03 GMT | Day 5 — Identifying Entry Points in Web Applications | Z3r0D4y | [Read More](https://medium.com/p/d779a883dc20) |
-| Fri, 29 May 2026 06:57:08 GMT | Want Placement? Start with Practical Skills. Join Hackersprey | HackersPrey | [Read More](https://medium.com/p/7ab1168c2bcb) |
-| Fri, 29 May 2026 06:54:35 GMT | 5 Signs Your Business Is Ready for AI | Sarbajira Software | [Read More](https://medium.com/p/ebc41f1c1660) |
-| Fri, 29 May 2026 06:48:49 GMT | Race Conditions Are Simpler Than You Think (Here’s How I Test for Them) | Decline | [Read More](https://medium.com/p/bcd88adcc1da) |
-| Fri, 29 May 2026 06:07:35 GMT | The .env File You Committed to GitHub 6 Months Ago is Still There | The Concurrent Mind | [Read More](https://medium.com/p/439700b70cc5) |
-| Fri, 29 May 2026 06:02:56 GMT | The Quiet Evolution of Fraud in Everyday Life — Joseph Sides | Joseph Sides | [Read More](https://medium.com/p/5a12c9e339f4) |
-| Fri, 29 May 2026 06:02:17 GMT | The AI Security Problem Nobody Is Taking Seriously Enough. | Tarun Jaswani | [Read More](https://medium.com/p/1fd7ea790cc5) |
-| Fri, 29 May 2026 06:01:09 GMT | How inactive accounts become long-term entry points | Sheikh Ayan | [Read More](https://medium.com/p/74490bd5aa54) |
-| Fri, 29 May 2026 06:01:00 GMT | Continuous Improvement in IT Is Mostly a Lie. Here’s What Actually Works. | ADEEL ALI | [Read More](https://medium.com/p/cabf427d2840) |
-| Fri, 29 May 2026 06:00:30 GMT | Less Cloud Dependency More Control | LiNKDOOD | [Read More](https://medium.com/p/a2780b1b5c0d) |
-| Fri, 29 May 2026 05:55:47 GMT | Ransomware Incident Response: What to Do in the First 24 Hours? | NetWitness | [Read More](https://medium.com/p/44184ef2977c) |
-| Fri, 29 May 2026 05:55:26 GMT | The Corix Partners Friday Reading List — May 29, 2026 | JC Gaillard | [Read More](https://medium.com/p/c5af757983e7) |
-| Fri, 29 May 2026 05:51:00 GMT | The day I realised SMEs are drowning in policy debt. | Gaurav Shukla | [Read More](https://medium.com/p/47ebf5cd5c82) |
-| Fri, 29 May 2026 05:48:57 GMT | Setup Azure DevOps Workload Identity Federation using Terraform | Brian Veldman | [Read More](https://medium.com/p/9ad895d37914) |
-| Fri, 29 May 2026 05:42:27 GMT | The North Korean IT workers scam explained | NetworkTigers | [Read More](https://medium.com/p/c63241939359) |
-| Fri, 29 May 2026 05:39:43 GMT | CTI as a Code: Complete Step-by-Step Methodology | Andrey Pautov | [Read More](https://medium.com/p/dda5ef496a46) |
-| Fri, 29 May 2026 05:38:23 GMT | How AI Is Changing the Game in Exploitation and Hacking | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/2544ad99f476) |
-| Fri, 29 May 2026 05:14:17 GMT | Hacking Your Mind: Take Your Career to the Next Level with Evidence-Based Learning Strategies | Andrew Goulette | [Read More](https://medium.com/p/7d275707a5d0) |
-| Fri, 29 May 2026 05:12:37 GMT | How I Found an Exposed CBI Banking Panel | xarvynx | [Read More](https://medium.com/p/5dc359086661) |
-| Fri, 29 May 2026 04:50:56 GMT | Intro | Saurabh suman | [Read More](https://medium.com/p/0f0128dfce35) |
-| Fri, 29 May 2026 04:48:31 GMT | Peak Hill — TryHackMe CTF Writeup - Pickle Deserialization & Python Exploitation | Arun1x | [Read More](https://medium.com/p/ea85e7368de4) |
-| Fri, 29 May 2026 04:46:44 GMT | Ally | eeein | [Read More](https://medium.com/p/680a35656014) |
-| Fri, 29 May 2026 04:40:16 GMT | # Why You Should Stop Uploading Your Private Documents to Free PDF Converters | Vuhomework | [Read More](https://medium.com/p/1ee1813bcba9) |
