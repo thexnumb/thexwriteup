@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 May 2026 03:36:32 GMT | Your .env Files Are a Security Risk. I Built dotlock to Fix That | Ahmad Raza | [Read More](https://medium.com/p/a2e8973d056f) |
+| Sat, 30 May 2026 03:17:52 GMT | The MGA Guide to NIST 2.0: How to Automate Disaster Recovery and Eliminate Underwriting Bottlenecks | Hector | [Read More](https://medium.com/p/6376108d48fa) |
+| Sat, 30 May 2026 02:53:02 GMT | An AI Coding Agent Deleted a Production Database in 9 Seconds. The Community Is Not Blaming the AI. | MohamedAbdelmenem | [Read More](https://medium.com/p/81fbd5df5574) |
+| Sat, 30 May 2026 02:24:56 GMT | The Dumbest Bug I Ever Found (And Why Complexity Is Overrated) | Decline | [Read More](https://medium.com/p/d9e566848151) |
+| Sat, 30 May 2026 02:23:25 GMT | 06/20: Layer 1 — The Physical Layer: Where Data Meets Reality | Roboticela | [Read More](https://medium.com/p/10837ee23fd0) |
+| Sat, 30 May 2026 02:23:15 GMT | 05/20: TCP/IP vs OSI Model: The Ultimate Comparison | Roboticela | [Read More](https://medium.com/p/d23670244f85) |
+| Sat, 30 May 2026 02:22:49 GMT | Three Perspectives, One Breach: A GRFICSv3 Lab Simulation — Part 2 | Redd Francisco | [Read More](https://medium.com/p/e740b8b5d12d) |
+| Sat, 30 May 2026 02:22:32 GMT | AI Is Eating Cybersecurity — OpenAI Sets the Rules, Anthropic Ships the Tools | Kosuke | [Read More](https://medium.com/p/a245359a38b9) |
+| Sat, 30 May 2026 02:00:20 GMT | Iran’s Internet Came Back for 5 Minutes. VPN Signups Exploded by 17,500%. | Kadi | [Read More](https://medium.com/p/961f62f12e19) |
+| Sat, 30 May 2026 01:44:22 GMT | VA Scan ไม่เจอช่องโหว่ เพราะปลอดภัยจริง หรือ Scanner มองไม่เห็น? | SoNaJaa_!! | [Read More](https://medium.com/p/57326355341d) |
+| Sat, 30 May 2026 01:36:51 GMT | PCI DSS 2026 What Businesses Need on Payment Card Security | AartiDecode | [Read More](https://medium.com/p/df65ca7535a3) |
+| Sat, 30 May 2026 01:22:39 GMT | OWASP LLM01 in 2026: I Tested the Top 5 Defenses, 4 Failed | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/bd98d3fa6253) |
+| Sat, 30 May 2026 01:18:43 GMT | I Found a Boring Frontend Key. It Turned Into OAuth Token Forgery. | Nickita Khylkouski | [Read More](https://medium.com/p/b591e8278886) |
+| Sat, 30 May 2026 01:18:25 GMT | I Built a Super Cheap YubiKey Alternative With an RP2040 Board | Umair | [Read More](https://medium.com/p/48334d739f8a) |
+| Sat, 30 May 2026 00:47:27 GMT | JWT Security Testing Methodology: A Complete Guide for Bug Bounty Hunters | Katongo Cyber | [Read More](https://medium.com/p/1b4547c85fa5) |
+| Sat, 30 May 2026 00:07:51 GMT | The I EXCEL National Action Plan for Housing, Food Security and Workforce Development Solutions | Andrew Williams Jr | [Read More](https://medium.com/p/1945c5cda156) |
 | Fri, 29 May 2026 23:31:00 GMT | Uncovering a Recruitment Malware Campaign: LinkedIn, Google Forms & Dropbox Abuse (Part 1) | Sivasankar Das | [Read More](https://medium.com/p/1c9fa8fac935) |
 | Fri, 29 May 2026 23:14:37 GMT | Self-Driving Cars Have a Hardware Security Problem Nobody Wants to Talk About | Imran Valiani | [Read More](https://medium.com/p/968b03a18d1e) |
 | Fri, 29 May 2026 22:58:18 GMT | Why Every Cyber Security Student Must Learn Python
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 May 2026 15:21:44 GMT | Penetration Testing Frameworks — TryHackMe Writeup | Onlyrahimsec | [Read More](https://medium.com/p/37eccce2a68f) |
 | Fri, 29 May 2026 15:19:51 GMT | YellowKey BitLocker Bypass: What It Is and How to Protect Your Windows Device | Emilyharbord | [Read More](https://medium.com/p/445c5c9daf87) |
 | Fri, 29 May 2026 15:11:53 GMT | Blockchain Document Verification Explained | Legal Chain | [Read More](https://medium.com/p/97e29b4413e2) |
-| Fri, 29 May 2026 15:11:11 GMT | Which LLM is the best at finding real vulnerabilities (Part 1)? | Jeremie A <lp1> | [Read More](https://medium.com/p/2c51802cd55b) |
-| Fri, 29 May 2026 15:04:09 GMT | Nuclear War Survival Tips | Officer's Notes | [Read More](https://medium.com/p/a4381d8c1ebd) |
-| Fri, 29 May 2026 14:58:31 GMT | The Definitive Guide to Subdomain Enumeration | cyber security | [Read More](https://medium.com/p/e2c04476ef27) |
-| Fri, 29 May 2026 14:53:04 GMT | Cyber Kill Chain : TryHackMe Writeup | Onlyrahimsec | [Read More](https://medium.com/p/535d5deb6b75) |
-| Fri, 29 May 2026 14:51:00 GMT | When Kindness Starts Feeling Unreal | Rupali | [Read More](https://medium.com/p/d48e822b0dba) |
-| Fri, 29 May 2026 14:50:10 GMT | How to detect cheating husband? | Michael Parks | [Read More](https://medium.com/p/ef5388481630) |
-| Fri, 29 May 2026 14:46:23 GMT | The Growing Importance of Cybersecurity Solutions in a Connected World | CyRx360 Inc. | [Read More](https://medium.com/p/4090ab8f680c) |
-| Fri, 29 May 2026 14:42:26 GMT | Race Conditions — The $15k Bug That Breaks Logic | cyber-ninjaaa | [Read More](https://medium.com/p/bed2f325bc04) |
-| Fri, 29 May 2026 14:41:57 GMT | Why Enterprise AI Investors Are Turning Away from Pure Automation | Thulasiramsureshkumar | [Read More](https://medium.com/p/092ef2140249) |
-| Fri, 29 May 2026 14:41:31 GMT | Architecting Dependency, Automating Displacement: The Token Economy and the Death of Trust | Namir Sagheenanajar | [Read More](https://medium.com/p/a0c205c90385) |
-| Fri, 29 May 2026 14:40:20 GMT | Lab Walkthrough: SQL Injection Vulnerability in Product Category Filter | Ayeshaaghafoor | [Read More](https://medium.com/p/c726901491f5) |
-| Fri, 29 May 2026 14:38:04 GMT | Lab: SQL injection vulnerability allowing login bypass | Ayeshaaghafoor | [Read More](https://medium.com/p/f917ae6b6678) |
-| Fri, 29 May 2026 14:35:13 GMT | Blind SSRF that Leads To Port Scaning And Descover The Infrastracture | Tomahawk | [Read More](https://medium.com/p/1b1f1ef05453) |
-| Fri, 29 May 2026 14:28:45 GMT | Build a Successful IT Career with Data Center Training | International Data Center Authority | [Read More](https://medium.com/p/db5733baaa49) |
-| Fri, 29 May 2026 14:21:37 GMT | AI Is Powerful. Human Oversight Is Essential. | Thulasiramsureshkumar | [Read More](https://medium.com/p/a86d03abba13) |
-| Fri, 29 May 2026 14:21:00 GMT | The Crushing Weight of Betrayal: Why True Healing Must Come From Within | Queena Bryan | [Read More](https://medium.com/p/369789d9c0d7) |
