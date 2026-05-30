@@ -12,11 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 May 2026 18:26:55 GMT | Negative Seven Days | Tim McAllister | [Read More](https://medium.com/p/e5e42fe27990) |
+| Sat, 30 May 2026 18:19:20 GMT | Admin Dashboard Accessible Without Authentication | 3r3n | [Read More](https://medium.com/p/71cfb6867ccd) |
+| Sat, 30 May 2026 18:12:22 GMT | CTI as a Code in Practice: Reactive Investigation — LifeTech Pharma | Andrey Pautov | [Read More](https://medium.com/p/3e6574b7b85f) |
+| Sat, 30 May 2026 18:07:42 GMT | Stop Trusting MCP in Production. The NSA Report Every AI Developer Must Read. | Dhanush N | [Read More](https://medium.com/p/43bb6e7d3a74) |
+| Sat, 30 May 2026 18:06:59 GMT | USB Trust Abuse: HID Injection + Mass Storage Emulation Using GreatFET One | CipherX1802 | [Read More](https://medium.com/p/168ff5abab46) |
+| Sat, 30 May 2026 18:06:00 GMT | OPNsense Kurumsal Yapılarda Ücretli Çözümlerin Yerini Tutabilir mi? | Fatih Yuksektepe | [Read More](https://medium.com/p/9e1e87fb8899) |
+| Sat, 30 May 2026 18:03:34 GMT | I Installed Linux Because Cybersecurity Looked Interesting | Ashna Shirin | [Read More](https://medium.com/p/8e72a7c46af6) |
+| Sat, 30 May 2026 18:01:00 GMT | Deep Dive into Security Hardening on Linux Systems | Linux Guide | [Read More](https://medium.com/p/b16ace285f2d) |
+| Sat, 30 May 2026 17:49:51 GMT | SQL Injection ➡️ Reverse Shell | Shamir Ajmir Khan | [Read More](https://medium.com/p/6c116a9f85cc) |
+| Sat, 30 May 2026 17:49:44 GMT | Penetration Testing Frameworks Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/841b6d6b853f) |
+| Sat, 30 May 2026 17:29:03 GMT | They Called It “AI City Vizag.” Nobody Asked Vizag. | G Karthikeya | [Read More](https://medium.com/p/a902a79049ec) |
+| Sat, 30 May 2026 17:24:56 GMT | I Cloned CBSE’s Broken Exam Portal So You Can Hack It Safely | Yash Rastogi | [Read More](https://medium.com/p/baeff0d95ad9) |
+| Sat, 30 May 2026 17:11:52 GMT | Modern SOC Stack 2026: 50 Open-Source Tools for Detection & Response | Xpert4Cyber | [Read More](https://medium.com/p/1d0f7c5009ed) |
 | Sat, 30 May 2026 17:01:19 GMT | I Exploited Port 21 on My Home Lab (Metasploitable 2): The vsftpd 2.3.4 Backdoor | pasan_Hewavitharana | [Read More](https://medium.com/p/8c7b9018bfdd) |
 | Sat, 30 May 2026 16:57:40 GMT | Critical Thinking in the Age of AI Starts Before the Prompt | Mohamed Soliman | [Read More](https://medium.com/p/469075171fc0) |
 | Sat, 30 May 2026 16:52:24 GMT | BOUNTY HACKER WALKTHROUGH - TRYHACKME | ANWAR1 | [Read More](https://medium.com/p/28f2df83aeae) |
 | Sat, 30 May 2026 16:51:58 GMT | Windows Persistence with Metasploit — Registry, Backdoors & Reboots | Isha Sangpal | [Read More](https://medium.com/p/2620e1fb7bed) |
 | Sat, 30 May 2026 16:41:54 GMT | Carnival Cruise Data Breach: What Happened, Why It Matters, and Cybersecurity Lessons Learned | Manula Udyoga | [Read More](https://medium.com/p/a1f216f6cd4b) |
+| Sat, 30 May 2026 16:32:49 GMT | ⚙️ 系統設計中的 CAP 定理取捨 | 思維舞步 MindSteps | [Read More](https://medium.com/p/030852a422a5) |
 | Sat, 30 May 2026 16:29:38 GMT | I Found a P1 IDOR. They Closed It as Duplicate. The Timeline Tells a Different Story. | $cr1p7 k!ddi3 | [Read More](https://medium.com/p/67c093d495eb) |
 | Sat, 30 May 2026 16:22:48 GMT | Networking in Linux | Abhishek Dubey | [Read More](https://medium.com/p/455d942b7962) |
 | Sat, 30 May 2026 16:19:26 GMT | JWT Security Risks: Common Vulnerabilities and How to Prevent Them | Arulkumaran | [Read More](https://medium.com/p/d66361cb4b25) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 May 2026 10:47:07 GMT | Road — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/8c2595baafa7) |
 | Sat, 30 May 2026 10:40:49 GMT | Shadow AI & AI Cybersecurity Risks: What Every Professional Needs to Know | TechByWilliam | [Read More](https://medium.com/p/e1c2b54ef8a7) |
 | Sat, 30 May 2026 10:40:28 GMT | Write-up TryHackMe Lab Tor for Beginners by Sayed M Qadri | Sayed Muhammad Qadri | [Read More](https://medium.com/p/5275aacce3c1) |
-| Sat, 30 May 2026 10:40:19 GMT | OpenVPN Protocol: How It Works & When to Use It | UCN VPN | [Read More](https://medium.com/p/a4108f340908) |
-| Sat, 30 May 2026 10:32:50 GMT | After the Bullets Stopped: Where the Men of Blackwater Are Now | The Expose | [Read More](https://medium.com/p/e75444e948c0) |
-| Sat, 30 May 2026 10:27:54 GMT | ¿Qué es el fraude de inversión? | Decode Help | [Read More](https://medium.com/p/5b581efb89fd) |
-| Sat, 30 May 2026 10:11:57 GMT | The rise of monthly “once in a decade” attacks, and the one config change that keeps your company… | Arush Bansal | [Read More](https://medium.com/p/3559dc194941) |
-| Sat, 30 May 2026 10:08:54 GMT | Struktur Data: Dijkstra | Nabilla Paraswati | [Read More](https://medium.com/p/17f10c514f6f) |
-| Sat, 30 May 2026 10:08:36 GMT | BAC: Sensitive Information Disclosure via Publicly Accessible Database Backup Files (users.sql)-Disc | Abin | [Read More](https://medium.com/p/ca2cd6d4370f) |
-| Sat, 30 May 2026 10:08:19 GMT | NEWSLETTER: Latest in AI, TikTok, Cybersecurity and “One Support Ticket Took Down 8,800 Schools” | Nitin Garg | [Read More](https://medium.com/p/c747f646bcd6) |
-| Sat, 30 May 2026 09:40:55 GMT | AI Agent Governance and the OWASP Agentic Top 10: Old Security, New Trust Boundary | Shriom Tripathi | [Read More](https://medium.com/p/0d15cb180a48) |
-| Sat, 30 May 2026 09:10:25 GMT | How to Get Your First 10 Clients as a Reseller Hosting Business? | Janet Watson | [Read More](https://medium.com/p/7953636cece2) |
-| Sat, 30 May 2026 09:02:44 GMT | The Mythos of the Machine: Defending Against the Era of Industrialized Bug Hunting | Izaz Haque | [Read More](https://medium.com/p/ab91b3f2c3ac) |
-| Sat, 30 May 2026 08:59:10 GMT | Sketch to Assembly: My first experience with SolidWorks 2025 | Leonewambi | [Read More](https://medium.com/p/dea95585ddfb) |
-| Sat, 30 May 2026 08:54:39 GMT | Your AI Stack Is a Perimeter Architecture. We Already Know How Those End.- Himanshu Vaghela | Himanshu Vaghela | [Read More](https://medium.com/p/2a42783c8583) |
-| Sat, 30 May 2026 08:44:46 GMT | “National Reading Culture” the latest SCAM affecting Nigerians TODAY | The Onyx Effect | [Read More](https://medium.com/p/e496c46b1c9a) |
-| Sat, 30 May 2026 08:42:48 GMT | I Built a Red Team Network Scanner from Scratch — Then Used It to Own a Machine | Shivam Singh | [Read More](https://medium.com/p/5cf6de1aac60) |
