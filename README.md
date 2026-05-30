@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 May 2026 09:10:25 GMT | How to Get Your First 10 Clients as a Reseller Hosting Business? | Janet Watson | [Read More](https://medium.com/p/7953636cece2) |
+| Sat, 30 May 2026 09:02:44 GMT | The Mythos of the Machine: Defending Against the Era of Industrialized Bug Hunting | Izaz Haque | [Read More](https://medium.com/p/ab91b3f2c3ac) |
+| Sat, 30 May 2026 08:59:10 GMT | Sketch to Assembly: My first experience with SolidWorks 2025 | Leonewambi | [Read More](https://medium.com/p/dea95585ddfb) |
+| Sat, 30 May 2026 08:54:39 GMT | Your AI Stack Is a Perimeter Architecture. We Already Know How Those End.- Himanshu Vaghela | Himanshu Vaghela | [Read More](https://medium.com/p/2a42783c8583) |
+| Sat, 30 May 2026 08:44:46 GMT | “National Reading Culture” the latest SCAM affecting Nigerians TODAY | The Onyx Effect | [Read More](https://medium.com/p/e496c46b1c9a) |
+| Sat, 30 May 2026 08:42:48 GMT | I Built a Red Team Network Scanner from Scratch — Then Used It to Own a Machine | Shivam Singh | [Read More](https://medium.com/p/5cf6de1aac60) |
+| Sat, 30 May 2026 08:42:40 GMT | ຈາກທິດສະດີສູ່ການໃຊ້ງານຈິງ: ການຈັດການ Network & Security ສຳລັບ Cloud Server | thong vongsengdeuan | [Read More](https://medium.com/p/fc1e0f41c6d4) |
+| Sat, 30 May 2026 08:38:01 GMT | INTO THE SHADOW | Muhammad Adebayo | [Read More](https://medium.com/p/cc8ed0a4e6d1) |
+| Sat, 30 May 2026 08:30:36 GMT | API Pentesting - TryHackMe | Ryca | [Read More](https://medium.com/p/581fefc58818) |
+| Sat, 30 May 2026 08:30:14 GMT | XSS Introduction - TryHackMe | Ryca | [Read More](https://medium.com/p/90c5400b25ec) |
+| Sat, 30 May 2026 08:29:31 GMT | India’s Coastline: The Frontline We Cannot Afford to Ignore | AnonymousLoner2106 | [Read More](https://medium.com/p/4c5d71afb319) |
+| Sat, 30 May 2026 08:27:10 GMT | Akshay Sharma Travel Agent Fighting Cyber Fraud in the Travel Industry | Travel Revews and Holidays packages | [Read More](https://medium.com/p/524648525547) |
+| Sat, 30 May 2026 08:17:26 GMT | The Death of the Bad Spelling Tell: How AI-Driven Phishing Has Overrun the Underworld | Mohit | [Read More](https://medium.com/p/fad612ac831c) |
+| Sat, 30 May 2026 08:05:09 GMT | Top Information Technology Project Management Tips for SMBs | Marketing Ghonda-Legacy | [Read More](https://medium.com/p/cecea28ee29b) |
+| Sat, 30 May 2026 07:57:31 GMT | Web Vulnerabilities Explained — SQL Injection, XSS and Command Injection on DVWA | NIVED PV | [Read More](https://medium.com/p/ea449d4bbdc4) |
+| Sat, 30 May 2026 07:55:14 GMT | Deathnote Walkthrough - VulnHub (Boot-to-Root) | Fardan Victoria's | [Read More](https://medium.com/p/cbc762d54d33) |
+| Sat, 30 May 2026 07:50:45 GMT | The Future of SOC Operations: What Modern Cybersecurity Teams Are Adopting in 2026 | Xpert4Cyber | [Read More](https://medium.com/p/e39a57fd8848) |
+| Sat, 30 May 2026 07:45:10 GMT | I Found 6 Security Vulnerabilities in a Simple Flask App. Here’s What We Learned | Andrea Rodriguez | [Read More](https://medium.com/p/9f62914879d1) |
+| Sat, 30 May 2026 07:44:36 GMT | CoralSentinel — One Coral SQL Query to Stop Your AI Stack From Being Blocked by CVEs | Sumit S Chawla | [Read More](https://medium.com/p/fbadac3e03a1) |
+| Sat, 30 May 2026 07:41:30 GMT | Kendi Kodum Neden Bir Virüsün Parçası Çıktı? | Türkü Durmuş | [Read More](https://medium.com/p/1c652a064b88) |
+| Sat, 30 May 2026 07:41:05 GMT | Risk Analysis for AI: How to Know What Actually Matters | F Notes | [Read More](https://medium.com/p/4f1b0e76a33c) |
+| Sat, 30 May 2026 07:37:43 GMT | Defense in Depth: The AI Security Controls Playbook | F Notes | [Read More](https://medium.com/p/5f9034244347) |
+| Sat, 30 May 2026 07:24:20 GMT | Crowd Management Services: Ensuring Safety, Order, and Seamless Event Operations | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/00ae29e5b06a) |
+| Sat, 30 May 2026 07:11:25 GMT | The secure Muslim | Dylan Evans | [Read More](https://medium.com/p/31831d7da3e8) |
+| Sat, 30 May 2026 07:09:56 GMT | Your Front Desk Is a HIPAA Violation in Slow Motion | Victoria-James | [Read More](https://medium.com/p/d64ea8efd5e0) |
+| Sat, 30 May 2026 07:06:45 GMT | Architecting a secure Microsoft 365 Copilot rollout with Microsoft Purview | Yash Mudaliar | [Read More](https://medium.com/p/9b7d3d3b1c05) |
+| Sat, 30 May 2026 07:06:15 GMT | Building Active Directory from Scratch - TrevTech | Trev | [Read More](https://medium.com/p/17478cbdc4bd) |
 | Sat, 30 May 2026 06:38:39 GMT | Affordable Ecommerce Website Development Company in Noida — Taksh IT Solution | Aayush TakshaIT | [Read More](https://medium.com/p/b62bab5a81b6) |
 | Sat, 30 May 2026 06:37:26 GMT | Wired vs wireless IP cameras for office | secureye | [Read More](https://medium.com/p/a058e16b8dd8) |
 | Sat, 30 May 2026 06:16:04 GMT | Wazuh Multi-site HA Enterprise Platform | Candra Utama | [Read More](https://medium.com/p/74e612809a4a) |
@@ -86,30 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 May 2026 20:11:46 GMT | TryHackMe Support CTF Walkthrough: Source Code Analysis & RCE | Naskilabot | [Read More](https://medium.com/p/8bb7d5b80a14) |
 | Fri, 29 May 2026 20:09:27 GMT | Analysing AgentTesla: A Full Infection Chain Walkthrough | Dharanis | [Read More](https://medium.com/p/744959461e63) |
 | Fri, 29 May 2026 20:06:00 GMT | Day 4 — The Linux File System Explained: A Map to the Most Powerful OS on Earth | Rudra Joshi | [Read More](https://medium.com/p/c79b5088f649) |
-| Fri, 29 May 2026 20:05:50 GMT | AWS Security Incident Response: Why This Changes Everything for Cloud Security Operations | Akshitapoonia | [Read More](https://medium.com/p/4157c5d1d01d) |
-| Fri, 29 May 2026 20:04:56 GMT | Day 3: STL in C++, CSRF & HTTP Request Smuggling, and Python Fundamentals | Akshay Archive | [Read More](https://medium.com/p/00dd5336bb18) |
-| Fri, 29 May 2026 19:54:05 GMT | Android Root Detection: What I Learned Building Security SDKs | Kirt Pandey | [Read More](https://medium.com/p/3341560548ef) |
-| Fri, 29 May 2026 19:49:52 GMT | From Executive Support to Cybersecurity: Why My Past Career Still Matters | Chanel Sius | [Read More](https://medium.com/p/f80d0428ce01) |
-| Fri, 29 May 2026 19:37:27 GMT | Microsoft’s Stand on Software Security: A Call for Clarity | Anjli Jain | [Read More](https://medium.com/p/47c54049ade5) |
-| Fri, 29 May 2026 19:34:53 GMT | APIs Meet AI: A Beginner’s Guide to LLMs, NLP, and Why Security Matters | Abrar Bin Habib | [Read More](https://medium.com/p/bc2f4b12d918) |
-| Fri, 29 May 2026 19:31:54 GMT | “The Child Has Been Chosen, Seen The Harm, The Child Is Not The Harm You Project” | Ethics | [Read More](https://medium.com/p/f9c77e7e58e4) |
-| Fri, 29 May 2026 19:22:46 GMT | Post-Quantum Cryptography: The Security Shift the Internet Can’t Ignore | Amit Kumar Thakur | [Read More](https://medium.com/p/afba92e576c2) |
-| Fri, 29 May 2026 19:15:00 GMT | She’s Not Difficult to Love; She’s Difficult to Convince. | Inscribed-Echoes | [Read More](https://medium.com/p/bd644359776e) |
-| Fri, 29 May 2026 19:12:34 GMT | RXSS — My First Official Vulnerability: A Significant Step in My Cybersecurity Journey | t1lt45 | [Read More](https://medium.com/p/5dfe41a23fa3) |
-| Fri, 29 May 2026 19:09:17 GMT | In 1997, Steven Haase collaborated with AIG (American International Group) to introduce the… | Arun Kumar Chandrasekar | [Read More](https://medium.com/p/e9ae8469a643) |
-| Fri, 29 May 2026 19:08:34 GMT | Introducing SOCFortress Compliance: GRC Built for Security Teams | SOCFortress | [Read More](https://medium.com/p/82ed80cba82a) |
-| Fri, 29 May 2026 19:00:39 GMT | Finding my Ikigai through Ethical Hacking and Conquering Imposter Syndrome | The Husky Hacker | [Read More](https://medium.com/p/fd9e17de6bff) |
-| Fri, 29 May 2026 18:59:53 GMT | TryHackMe: Pickle Rick CTF Write-up - Web Exploitation & Privilege Escalation | Ahmed H. Ismael | [Read More](https://medium.com/p/a626af441d01) |
-| Fri, 29 May 2026 18:55:18 GMT | AgentZero: The First AI-Driven Cyberattack Caught in the Wild | Ali Mansoor | [Read More](https://medium.com/p/fb85c585eacc) |
-| Fri, 29 May 2026 18:52:13 GMT | Social Engineering in 2026 : Why People Remain the Weakest Link in Cybersecurity | Fuzail Al Arabia | [Read More](https://medium.com/p/60d771d8a140) |
-| Fri, 29 May 2026 18:46:51 GMT | NahamStore => Recon | ZODiAK | [Read More](https://medium.com/p/dade5242d3b4) |
-| Fri, 29 May 2026 18:38:27 GMT | TryHeartMe — TryHackMe CTF Walkthrough | Atul | [Read More](https://medium.com/p/1e7ec8a1605b) |
-| Fri, 29 May 2026 18:37:12 GMT | SQL Injection Introduction (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/67b90a2b09c8) |
-| Fri, 29 May 2026 18:23:16 GMT | CSRF Account Takeover: Rejected by the Security Team, Rewarded by the Security Director ($$$) | Bhavishthakral | [Read More](https://medium.com/p/d00022676d87) |
-| Fri, 29 May 2026 18:19:35 GMT | OverTheWire Bandit Walkthrough — Level 11 → 12 - 30-Day Cybersecurity Learning Journey (Day 11) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/0de7b26e54c9) |
-| Fri, 29 May 2026 18:19:21 GMT | ObjectId vs UUID v7 in MongoDB: How to Migrate Safely in Production | Kouadiomathias | [Read More](https://medium.com/p/8d5050d4f41d) |
-| Fri, 29 May 2026 18:08:03 GMT | Linux Processes Explained: A Beginner-Friendly Guide to Understanding What’s Running in Linux (With… | Alwinaji | [Read More](https://medium.com/p/55627be1d434) |
-| Fri, 29 May 2026 18:01:00 GMT | Linux Services Explained: The Beginner-Friendly Guide to Understanding What Runs Behind the Scenes… | Alwinaji | [Read More](https://medium.com/p/8185a219b4e5) |
-| Fri, 29 May 2026 18:01:00 GMT | Your Test Suite Is Green. Your Bug Is Already in Production. | Hafiq Iqmal | [Read More](https://medium.com/p/a167e720bbc2) |
-| Fri, 29 May 2026 18:01:00 GMT | Bill’s Steak House (RCE) (WebVerse-pro.com) | 7s26Simon | [Read More](https://medium.com/p/d99c4ad8c50d) |
-| Fri, 29 May 2026 17:52:53 GMT | I didn’t start in cybersecurity because I had a perfect plan. | Lawrencegeoffrey | [Read More](https://medium.com/p/dfa2e73e329c) |
