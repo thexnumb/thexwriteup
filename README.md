@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 May 2026 19:50:44 GMT | Reliable IT Support Services in Dubai UAE: Why Every Business Needs a Trusted Technology Partner | Rahulkrishnan | [Read More](https://medium.com/p/84d1acc3fc7f) |
+| Sat, 30 May 2026 19:34:51 GMT | From KYC to KYA: Architectural Frameworks for Autonomous Agent Identity in Regulated Finance | Sayat Kakzhanov | [Read More](https://medium.com/p/49f00d3146ec) |
+| Sat, 30 May 2026 19:32:18 GMT | MANAGING MODERN IDENTITIES IN MICROSOFT ENTRA ID WITH SECURITY COPILOT | Ebenezer Oduro | [Read More](https://medium.com/p/dd66527abe29) |
+| Sat, 30 May 2026 19:32:08 GMT | WHY ARE SO MANY PEOPLE SUDDENLY TALKING ABOUT MYTHOS? | Herceg | [Read More](https://medium.com/p/d067acd99c0a) |
+| Sat, 30 May 2026 19:24:41 GMT | HiveAir CTF HIVE CONSULT | Ibrahim Sheikh | [Read More](https://medium.com/p/1950f9d255d2) |
+| Sat, 30 May 2026 19:24:19 GMT | What Actually Happens When a Company Gets Hacked? | Joys K Mathew | [Read More](https://medium.com/p/2ff4454d0b3a) |
+| Sat, 30 May 2026 19:20:26 GMT | How 100 Lava Lamps Secure 20% of the Internet | Nipun Rajput | [Read More](https://medium.com/p/f5995cd1e2d1) |
+| Sat, 30 May 2026 19:17:59 GMT | Metasploit Fundamentals for Beginners | Mohd Kaif | [Read More](https://medium.com/p/1da419b7bef7) |
+| Sat, 30 May 2026 19:09:31 GMT | That log.Info() Almost Cost Me My Job — Don't Make the Same Mistake | Opalski | [Read More](https://medium.com/p/f0327bc6a166) |
+| Sat, 30 May 2026 19:04:52 GMT | Cybersecurity Guide: 10 Simple Habits That Can Protect Your Digital Life | Thenewsinknetwork | [Read More](https://medium.com/p/d70acc1759d3) |
+| Sat, 30 May 2026 19:01:44 GMT | A Nation Under Siege, A People Divided | Samson Kayode Areo | [Read More](https://medium.com/p/e307fa2f440a) |
+| Sat, 30 May 2026 18:57:26 GMT | Beyond 5G: The Networking Breakthroughs Defining 2026 | Aun Raza | [Read More](https://medium.com/p/9f3f5ddda229) |
+| Sat, 30 May 2026 18:35:47 GMT | Getting command execution/ Rev Shell from Joomla admin panel | Marinovharisan | [Read More](https://medium.com/p/8c7261ce219c) |
+| Sat, 30 May 2026 18:32:43 GMT | How SSL/TLS Certificates work | Yier Lin | [Read More](https://medium.com/p/e5f16b561b16) |
 | Sat, 30 May 2026 18:26:55 GMT | Negative Seven Days | Tim McAllister | [Read More](https://medium.com/p/e5e42fe27990) |
 | Sat, 30 May 2026 18:19:20 GMT | Admin Dashboard Accessible Without Authentication | 3r3n | [Read More](https://medium.com/p/71cfb6867ccd) |
 | Sat, 30 May 2026 18:12:22 GMT | CTI as a Code in Practice: Reactive Investigation — LifeTech Pharma | Andrey Pautov | [Read More](https://medium.com/p/3e6574b7b85f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 May 2026 11:37:51 GMT | Fraude en Fondos de Inversión: Cómo Identificar una Estafa y Qué Hacer si Has Sido Víctima | Decode Help | [Read More](https://medium.com/p/a7bfbb8a1d22) |
 | Sat, 30 May 2026 11:34:08 GMT | Governance, Risk, and Compliance (GRC): The Foundation of Cybersecurity Management | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/4de78deed70b) |
 | Sat, 30 May 2026 11:31:00 GMT | Uncovering a Recruitment Malware Campaign: LinkedIn, Google Forms & Dropbox Abuse (Part 1) | Sivasankar Das | [Read More](https://medium.com/p/ec7bfc8fc2b1) |
-| Sat, 30 May 2026 11:26:26 GMT | Lazy Evaluation in Java: Or, Why Your Debug Logs Were Killing Your Production Service | Jitin Kayyala | [Read More](https://medium.com/p/27a194405ec9) |
-| Sat, 30 May 2026 11:25:17 GMT | WebXterm — Secure remote access and complete PAM solution | Amitesh Singh | [Read More](https://medium.com/p/6a425059b656) |
-| Sat, 30 May 2026 11:25:12 GMT | Cross-Site Scripting (XSS) via Client-Side Filter Bypass | Abhishek Vishwakarma | [Read More](https://medium.com/p/b3e075d81341) |
-| Sat, 30 May 2026 11:17:08 GMT | The Right to Unplug in a Post-Scarcity Information Age | Ritisha | [Read More](https://medium.com/p/7edc64430b24) |
-| Sat, 30 May 2026 11:12:04 GMT | I Thought I Knew Better. Then a Scammer Stole My Paycheck. | Jessi Brooks | [Read More](https://medium.com/p/c24446dcd0e3) |
-| Sat, 30 May 2026 11:11:09 GMT | Empowering Businesses with Advanced IT and Design Solutions | Metal  World | [Read More](https://medium.com/p/aff77005b4be) |
-| Sat, 30 May 2026 11:07:36 GMT | Shadow AI Risks: Why Enterprises Need Better AI Governance | Madre Janus | [Read More](https://medium.com/p/359e5601966d) |
-| Sat, 30 May 2026 11:02:19 GMT | Unlocking Smarter Growth: How AI Is Redefining Modern Business Operations | Kritika | [Read More](https://medium.com/p/9051c286889f) |
-| Sat, 30 May 2026 10:58:04 GMT | A 5G Network AI Leaked Subscriber Data Because I Added One Document to Its Knowledge Base | Angle Gray | [Read More](https://medium.com/p/fe0f1bd73d91) |
-| Sat, 30 May 2026 10:56:58 GMT | By 2026, ISO 27001 isn’t just paperwork-it’s how trusted companies prove they take security… | AartiDecode | [Read More](https://medium.com/p/7364e7e5676e) |
-| Sat, 30 May 2026 10:52:21 GMT | ️ DeepShield: Building an Identity-Guard Meeting Layer Using Google AI | Himanshu Jain | [Read More](https://medium.com/p/dad225eda8cb) |
-| Sat, 30 May 2026 10:47:07 GMT | Road — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/8c2595baafa7) |
-| Sat, 30 May 2026 10:40:49 GMT | Shadow AI & AI Cybersecurity Risks: What Every Professional Needs to Know | TechByWilliam | [Read More](https://medium.com/p/e1c2b54ef8a7) |
-| Sat, 30 May 2026 10:40:28 GMT | Write-up TryHackMe Lab Tor for Beginners by Sayed M Qadri | Sayed Muhammad Qadri | [Read More](https://medium.com/p/5275aacce3c1) |
