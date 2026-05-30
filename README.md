@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 May 2026 12:04:57 GMT | SBOM vs SCA: Understanding the Difference in Software Supply Chain Security | Arun Krishna | [Read More](https://medium.com/p/8bb068a47a88) |
+| Sat, 30 May 2026 12:03:29 GMT | NeuroShield — Adaptive Security Layer for Modern Web Applications | SomnoAI Digital Sleep Lab | [Read More](https://medium.com/p/1e03d285d467) |
+| Sat, 30 May 2026 12:01:00 GMT | AI Can See More Than We Think: The Hidden Privacy Risk Inside Every Selfie | Kaushal Sadhu | [Read More](https://medium.com/p/c0bb1c133cbb) |
+| Sat, 30 May 2026 11:50:20 GMT | Kaspersky Lab and the Cybersecurity Paradox | David SEHYEON Baek | [Read More](https://medium.com/p/0acdd0fb4354) |
+| Sat, 30 May 2026 11:49:37 GMT | Protecting Your Assets: Why Today’s Businesses are Opting for ISO 27001 | Parvathydigitalmarketer | [Read More](https://medium.com/p/80ef7d7d02bf) |
+| Sat, 30 May 2026 11:47:10 GMT | Between Unmet Transparency Obligations and Contradictions in Communication | AKUMAAYORI | [Read More](https://medium.com/p/58af386b01ef) |
+| Sat, 30 May 2026 11:39:13 GMT | What Is DaloyJS? A Contract-First TypeScript Framework for People Who Have Been Burned Before | Devlin Duldulao | [Read More](https://medium.com/p/d74b1ed92ff8) |
+| Sat, 30 May 2026 11:38:24 GMT | Hardware Implants: When Reinstalling OS Won’t Help | Olha Stefanishyna | [Read More](https://medium.com/p/0d8d0fe0acb0) |
+| Sat, 30 May 2026 11:37:51 GMT | Fraude en Fondos de Inversión: Cómo Identificar una Estafa y Qué Hacer si Has Sido Víctima | Decode Help | [Read More](https://medium.com/p/a7bfbb8a1d22) |
+| Sat, 30 May 2026 11:34:08 GMT | Governance, Risk, and Compliance (GRC): The Foundation of Cybersecurity Management | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/4de78deed70b) |
+| Sat, 30 May 2026 11:31:00 GMT | Uncovering a Recruitment Malware Campaign: LinkedIn, Google Forms & Dropbox Abuse (Part 1) | Sivasankar Das | [Read More](https://medium.com/p/ec7bfc8fc2b1) |
+| Sat, 30 May 2026 11:26:26 GMT | Lazy Evaluation in Java: Or, Why Your Debug Logs Were Killing Your Production Service | Jitin Kayyala | [Read More](https://medium.com/p/27a194405ec9) |
+| Sat, 30 May 2026 11:25:17 GMT | WebXterm — Secure remote access and complete PAM solution | Amitesh Singh | [Read More](https://medium.com/p/6a425059b656) |
+| Sat, 30 May 2026 11:25:12 GMT | Cross-Site Scripting (XSS) via Client-Side Filter Bypass | Abhishek Vishwakarma | [Read More](https://medium.com/p/b3e075d81341) |
+| Sat, 30 May 2026 11:17:08 GMT | The Right to Unplug in a Post-Scarcity Information Age | Ritisha | [Read More](https://medium.com/p/7edc64430b24) |
+| Sat, 30 May 2026 11:12:04 GMT | I Thought I Knew Better. Then a Scammer Stole My Paycheck. | Jessi Brooks | [Read More](https://medium.com/p/c24446dcd0e3) |
+| Sat, 30 May 2026 11:11:09 GMT | Empowering Businesses with Advanced IT and Design Solutions | Metal  World | [Read More](https://medium.com/p/aff77005b4be) |
+| Sat, 30 May 2026 11:07:36 GMT | Shadow AI Risks: Why Enterprises Need Better AI Governance | Madre Janus | [Read More](https://medium.com/p/359e5601966d) |
+| Sat, 30 May 2026 11:02:19 GMT | Unlocking Smarter Growth: How AI Is Redefining Modern Business Operations | Kritika | [Read More](https://medium.com/p/9051c286889f) |
+| Sat, 30 May 2026 10:58:04 GMT | A 5G Network AI Leaked Subscriber Data Because I Added One Document to Its Knowledge Base | Angle Gray | [Read More](https://medium.com/p/fe0f1bd73d91) |
+| Sat, 30 May 2026 10:56:58 GMT | By 2026, ISO 27001 isn’t just paperwork-it’s how trusted companies prove they take security… | AartiDecode | [Read More](https://medium.com/p/7364e7e5676e) |
 | Sat, 30 May 2026 10:52:21 GMT | ️ DeepShield: Building an Identity-Guard Meeting Layer Using Google AI | Himanshu Jain | [Read More](https://medium.com/p/dad225eda8cb) |
 | Sat, 30 May 2026 10:47:07 GMT | Road — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/8c2595baafa7) |
 | Sat, 30 May 2026 10:40:49 GMT | Shadow AI & AI Cybersecurity Risks: What Every Professional Needs to Know | TechByWilliam | [Read More](https://medium.com/p/e1c2b54ef8a7) |
@@ -91,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 May 2026 02:22:32 GMT | AI Is Eating Cybersecurity — OpenAI Sets the Rules, Anthropic Ships the Tools | Kosuke | [Read More](https://medium.com/p/a245359a38b9) |
 | Sat, 30 May 2026 02:00:20 GMT | Iran’s Internet Came Back for 5 Minutes. VPN Signups Exploded by 17,500%. | Kadi | [Read More](https://medium.com/p/961f62f12e19) |
 | Sat, 30 May 2026 01:44:22 GMT | VA Scan ไม่เจอช่องโหว่ เพราะปลอดภัยจริง หรือ Scanner มองไม่เห็น? | SoNaJaa_!! | [Read More](https://medium.com/p/57326355341d) |
-| Sat, 30 May 2026 01:36:51 GMT | PCI DSS 2026 What Businesses Need on Payment Card Security | AartiDecode | [Read More](https://medium.com/p/df65ca7535a3) |
-| Sat, 30 May 2026 01:22:39 GMT | OWASP LLM01 in 2026: I Tested the Top 5 Defenses, 4 Failed | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/bd98d3fa6253) |
-| Sat, 30 May 2026 01:18:43 GMT | I Found a Boring Frontend Key. It Turned Into OAuth Token Forgery. | Nickita Khylkouski | [Read More](https://medium.com/p/b591e8278886) |
-| Sat, 30 May 2026 01:18:25 GMT | I Built a Super Cheap YubiKey Alternative With an RP2040 Board | Umair | [Read More](https://medium.com/p/48334d739f8a) |
-| Sat, 30 May 2026 00:47:27 GMT | JWT Security Testing Methodology: A Complete Guide for Bug Bounty Hunters | Katongo Cyber | [Read More](https://medium.com/p/1b4547c85fa5) |
-| Sat, 30 May 2026 00:07:51 GMT | The I EXCEL National Action Plan for Housing, Food Security and Workforce Development Solutions | Andrew Williams Jr | [Read More](https://medium.com/p/1945c5cda156) |
-| Fri, 29 May 2026 23:31:00 GMT | Uncovering a Recruitment Malware Campaign: LinkedIn, Google Forms & Dropbox Abuse (Part 1) | Sivasankar Das | [Read More](https://medium.com/p/1c9fa8fac935) |
-| Fri, 29 May 2026 23:14:37 GMT | Self-Driving Cars Have a Hardware Security Problem Nobody Wants to Talk About | Imran Valiani | [Read More](https://medium.com/p/968b03a18d1e) |
-| Fri, 29 May 2026 22:58:18 GMT | Why Every Cyber Security Student Must Learn Python
-​As a cyber security student, I quickly realized… | Basheer Al_Waseai | [Read More](https://medium.com/p/6dbb6aebd073) |
-| Fri, 29 May 2026 22:48:39 GMT | Your Laravel App Isn’t the Target Anymore — Your Dependencies Are | Salman | [Read More](https://medium.com/p/1a4c6b7b3482) |
-| Fri, 29 May 2026 22:36:23 GMT | Claw Chain: The AI Agent Vulnerabilities That Turn Autonomous Systems Into Attack Infrastructure… | Cyber-AppSec | [Read More](https://medium.com/p/3fb44b5235d7) |
-| Fri, 29 May 2026 22:28:20 GMT | Some Frontier AI Models Should Never Become Consumer Products | Daniel Buckner | [Read More](https://medium.com/p/44e0064f74bf) |
-| Fri, 29 May 2026 22:02:00 GMT | Unlocking IT Effectiveness: Key Components and Analysis Strategies | Chris Geier | [Read More](https://medium.com/p/bddd6f193215) |
-| Fri, 29 May 2026 22:01:01 GMT | Your 2027 Connected-Car Launch Now Depends on Supplier Origin | James Kuhman | [Read More](https://medium.com/p/4e2cddc7e6af) |
-| Fri, 29 May 2026 21:52:06 GMT | Saying Isn’t Doing: The Critical Architecture Shift from Co-pilot to Autonomous Agent | Ykpaliwal | [Read More](https://medium.com/p/822e1fe5b391) |
-| Fri, 29 May 2026 21:48:54 GMT | TryHackMe Pre-Security Path: A Complete Beginner’s Roadmap — by Sandeep | Sandeep Shrivastava | [Read More](https://medium.com/p/59673e51f8f4) |
-| Fri, 29 May 2026 21:33:51 GMT | Data Classification and Asset Management Under ISO 27001 | Prashant Thinks | [Read More](https://medium.com/p/16aa0965e75d) |
-| Fri, 29 May 2026 21:29:39 GMT | ⚡ Beyond CGPA: Building Skills in the World of Cybersecurity | Mrinal Kumar Chandra | [Read More](https://medium.com/p/97ad06ed1d1f) |
-| Fri, 29 May 2026 21:28:21 GMT | Why Your Vendor Risk Assessment Process is Broken and How ISO 27001 Can Fix It | Ahi&Hacking | [Read More](https://medium.com/p/1ecc477f6519) |
-| Fri, 29 May 2026 21:21:23 GMT | Best Penetration Testing Service Provider for Cybersecurity | Cyber Sapiens | [Read More](https://medium.com/p/7f93f435605e) |
-| Fri, 29 May 2026 21:17:05 GMT | EchoTrace — Level 1 Write-up | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/7a135858503f) |
