@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 May 2026 15:39:10 GMT | Cloud Security Compliance: Why It Matters and How Cloud Security Differs from On-Prem Security ☁️ | Manula Udyoga | [Read More](https://medium.com/p/00c3990117a3) |
+| Sat, 30 May 2026 15:32:10 GMT | How Hackers Find Weak Wi-Fi Without Being Some Movie Genius | Ben Treder | [Read More](https://medium.com/p/50992e25b82c) |
+| Sat, 30 May 2026 15:29:20 GMT | How to Choose a Target That Won’t Waste Your Time | Decline | [Read More](https://medium.com/p/1a627a6519de) |
+| Sat, 30 May 2026 15:26:41 GMT | IDOR BugBounty Labs: 5 Realistic Challenges to Master Insecure Direct Object Reference | CyberJson | [Read More](https://medium.com/p/114894ed40de) |
+| Sat, 30 May 2026 15:23:31 GMT | The AI Security Dilemma | Aimoneyproofficial | [Read More](https://medium.com/p/f88bc319def3) |
+| Sat, 30 May 2026 15:21:35 GMT | Why So Many Cybersecurity Certs Feel Useless After You Pass Them | Jbird | [Read More](https://medium.com/p/cabfa8b8d6b3) |
+| Sat, 30 May 2026 15:21:00 GMT | Modern Dating Made Everybody Emotionally Defensive | Abscordida | [Read More](https://medium.com/p/0f6cde1cb92f) |
+| Sat, 30 May 2026 15:05:12 GMT | GhostSecure CTF: A Walkthrough of Manual Asset Analysis and Directory Discovery | Kavitajoshi Kiran | [Read More](https://medium.com/p/d26f14329d34) |
+| Sat, 30 May 2026 15:02:01 GMT | Why Security Feels Different Around AI | Vettan | [Read More](https://medium.com/p/6212420efa23) |
+| Sat, 30 May 2026 15:01:37 GMT | Stop Bookmarking, Start Hunting: Streamlining SOC Workflows with RAIN | D8c | [Read More](https://medium.com/p/93ab3a582e0f) |
+| Sat, 30 May 2026 15:00:02 GMT | Anthropic Just Built the Security Tool Everyone Wanted. It Still Won’t Replace the Market. | Tushar Adhao | [Read More](https://medium.com/p/3b69355d3d1f) |
+| Sat, 30 May 2026 14:59:59 GMT | Panduan Lab Portwigger — SQL Injection (Lab 2) | Dwi Putra | [Read More](https://medium.com/p/76be0f7fddb0) |
+| Sat, 30 May 2026 14:57:01 GMT | Microsoft’s Own Antivirus Just Became the Hacker’s Best Friend. Here’s What’s Being Done About It. | Jazz Cyber Shield | [Read More](https://medium.com/p/0708f65d3581) |
+| Sat, 30 May 2026 14:50:05 GMT | Five Small Fortifications That Make Supply‑Chain Attacks Less Scary | Neel Neelakantan | [Read More](https://medium.com/p/f3cb733823d0) |
+| Sat, 30 May 2026 14:36:52 GMT | Retail Security Service in Vancouver for Loss Prevention | Grit Security | [Read More](https://medium.com/p/0a44f41f05e2) |
+| Sat, 30 May 2026 14:30:39 GMT | CSS Injection in Real Bug Bounty Engagements: A Reproducible Pattern in Custom Profile Features | Youanes safwat | [Read More](https://medium.com/p/80df89377723) |
+| Sat, 30 May 2026 14:21:45 GMT | I Stopped a Cyberattack in 10 Seconds. Here’s the Exact Toolkit I Used. | SecPrompts | [Read More](https://medium.com/p/8bef3f87ab89) |
+| Sat, 30 May 2026 14:18:43 GMT | How I Built an AI‑First, Secure ERP Workflow Agents, an Integration Bridge, and a Dev Loop That… | Lutfi Krasnici | [Read More](https://medium.com/p/83ddc8bcadb1) |
+| Sat, 30 May 2026 14:16:51 GMT | 04: If It’s Everyone’s Problem, It’s No One’s Problem | Rashi Jaiswal | [Read More](https://medium.com/p/59163649eea0) |
 | Sat, 30 May 2026 14:04:06 GMT | File Upload Attacks: Understanding the Basics | 0x4rt1st | [Read More](https://medium.com/p/cb6d3ee3c29b) |
 | Sat, 30 May 2026 14:01:03 GMT | Threat Hunting for DNS Attacks -LetsDefend | 0verRida | [Read More](https://medium.com/p/4ac05234dc3d) |
 | Sat, 30 May 2026 14:00:22 GMT | Trust No One & Verify Everything aka. Authentication & Authorization | Karthik Ram | [Read More](https://medium.com/p/b0130c7f8bce) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 May 2026 07:44:36 GMT | CoralSentinel — One Coral SQL Query to Stop Your AI Stack From Being Blocked by CVEs | Sumit S Chawla | [Read More](https://medium.com/p/fbadac3e03a1) |
 | Sat, 30 May 2026 07:41:30 GMT | Kendi Kodum Neden Bir Virüsün Parçası Çıktı? | Türkü Durmuş | [Read More](https://medium.com/p/1c652a064b88) |
 | Sat, 30 May 2026 07:41:05 GMT | Risk Analysis for AI: How to Know What Actually Matters | F Notes | [Read More](https://medium.com/p/4f1b0e76a33c) |
-| Sat, 30 May 2026 07:37:43 GMT | Defense in Depth: The AI Security Controls Playbook | F Notes | [Read More](https://medium.com/p/5f9034244347) |
-| Sat, 30 May 2026 07:24:20 GMT | Crowd Management Services: Ensuring Safety, Order, and Seamless Event Operations | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/00ae29e5b06a) |
-| Sat, 30 May 2026 07:11:25 GMT | The secure Muslim | Dylan Evans | [Read More](https://medium.com/p/31831d7da3e8) |
-| Sat, 30 May 2026 07:09:56 GMT | Your Front Desk Is a HIPAA Violation in Slow Motion | Victoria-James | [Read More](https://medium.com/p/d64ea8efd5e0) |
-| Sat, 30 May 2026 07:06:45 GMT | Architecting a secure Microsoft 365 Copilot rollout with Microsoft Purview | Yash Mudaliar | [Read More](https://medium.com/p/9b7d3d3b1c05) |
-| Sat, 30 May 2026 07:06:15 GMT | Building Active Directory from Scratch - TrevTech | Trev | [Read More](https://medium.com/p/17478cbdc4bd) |
-| Sat, 30 May 2026 06:38:39 GMT | Affordable Ecommerce Website Development Company in Noida — Taksh IT Solution | Aayush TakshaIT | [Read More](https://medium.com/p/b62bab5a81b6) |
-| Sat, 30 May 2026 06:37:26 GMT | Wired vs wireless IP cameras for office | secureye | [Read More](https://medium.com/p/a058e16b8dd8) |
-| Sat, 30 May 2026 06:16:04 GMT | Wazuh Multi-site HA Enterprise Platform | Candra Utama | [Read More](https://medium.com/p/74e612809a4a) |
-| Sat, 30 May 2026 06:13:29 GMT | Which Comes First — the Chicken or the Egg? | Julius Shin | [Read More](https://medium.com/p/6e89bed4c1d3) |
-| Sat, 30 May 2026 06:11:13 GMT | The Key Roles Security Providers Play in Responsible Business Operations | Wiliam Chris | [Read More](https://medium.com/p/386701ca634d) |
-| Sat, 30 May 2026 06:09:35 GMT | It’s Live: EIP-7702 Revoker Is Now a Public Web Service | Serge Kartanenkov | [Read More](https://medium.com/p/579472f8f034) |
-| Sat, 30 May 2026 06:05:28 GMT | The Bug Bounty Landscape in 2026: What Serious Hunters Need to Know | EMTIAZ AHMED | [Read More](https://medium.com/p/c556953cb100) |
-| Sat, 30 May 2026 05:54:24 GMT | Is Your Smartphone Already Smarter Than You? What AI Knows About You That You Don’t | Infinity Matrix | [Read More](https://medium.com/p/92be21b48e27) |
-| Sat, 30 May 2026 05:51:30 GMT | Dokumentasi Lab TryHackMe: Tor for Beginners | azzam shiddiq | [Read More](https://medium.com/p/0209a20afda5) |
-| Sat, 30 May 2026 05:50:36 GMT | Title: The Architecture of Sovereignty: Why Enterprise Security Demands a Hardware-to-AI Continuum | Abhishek Awalkar | [Read More](https://medium.com/p/74e4919728dd) |
-| Sat, 30 May 2026 05:49:52 GMT | Menjelajahi Anonimitas Jaringan Tor dengan Proxychains di Kali Linux (TryHackMe Walkthrough) | Vavathania | [Read More](https://medium.com/p/4b2a7bf8fd19) |
-| Sat, 30 May 2026 05:46:00 GMT | Aetis — Digital Front Door | M.L. Ruscscak | [Read More](https://medium.com/p/9f5a9f1f9546) |
-| Sat, 30 May 2026 05:46:00 GMT | Security Best Practices for Backend Engineers: What Nobody Teaches You Until You Get Hacked | Ritesh Roushan | [Read More](https://medium.com/p/4badf0f700d1) |
