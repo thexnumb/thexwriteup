@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 May 2026 22:45:28 GMT | ChatGPhish: The Day We Realized AI Could Become the Perfect Phishing Accomplice | Priyanshu Manash | [Read More](https://medium.com/p/d9530e14c97b) |
+| Sat, 30 May 2026 22:39:28 GMT | File Upload Attacks: Bypassing Client-Side Validation | 0x4rt1st | [Read More](https://medium.com/p/40fe32c601dd) |
+| Sat, 30 May 2026 22:37:01 GMT | My First Exploits Accepted on Exploit-DB: From Idea to Publication | Diamorphine | [Read More](https://medium.com/p/3d7f0aa75032) |
+| Sat, 30 May 2026 22:36:00 GMT | A worm shipped to npm with a valid signature, and I rotated tokens till 2am | The Expert Developer | [Read More](https://medium.com/p/4e117c1db043) |
+| Sat, 30 May 2026 22:26:17 GMT | [Updated] 2026 Crypto Scam Warning List: How To Spot And Avoid Fake Platforms By Scambusters. | Scam Busters | [Read More](https://medium.com/p/86b0c4bbf53d) |
+| Sat, 30 May 2026 22:19:44 GMT | C2SI(Google summer of code -2026) : Agentic AI Framework with LangGraph, Multi-turn Dialogue, and… | Vishak Baddur | [Read More](https://medium.com/p/2686a388b80f) |
+| Sat, 30 May 2026 22:12:27 GMT | Mapping the Attack Surface of an AI Chatbot | Abubakarsaffat | [Read More](https://medium.com/p/74e26f869ba1) |
+| Sat, 30 May 2026 22:11:00 GMT | Hidden risk of too many business tools | M.L. Ruscscak | [Read More](https://medium.com/p/deecf3971a67) |
+| Sat, 30 May 2026 21:30:23 GMT | The AI Security Blindspot: Why
+Prompt Injection is the New SQL
+Injection | Rikin K Patel | [Read More](https://medium.com/p/7ea4e34d1aaa) |
 | Sat, 30 May 2026 21:28:43 GMT | /* and 1500 Hours: On the Engineer Who Stopped Caring, and Why That’s on You | Virtually Scott | [Read More](https://medium.com/p/f24bc3c59d46) |
 | Sat, 30 May 2026 21:19:40 GMT | Exhibit A | Echo Grey | [Read More](https://medium.com/p/8bd59d32aad8) |
 | Sat, 30 May 2026 21:10:25 GMT | The Financial Underground: Inside the Payment Infrastructure of Non-Consensual Imagery Sites | Alice, Severe Harms Intelligence | [Read More](https://medium.com/p/384a174187eb) |
@@ -103,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 May 2026 13:37:55 GMT | Turning the Tables on Phishing: MokN Secures $15 Million to Advance Phish-Back Cyber Defense | Jas | [Read More](https://medium.com/p/260336d38e77) |
 | Sat, 30 May 2026 13:37:30 GMT | Supplychain Attacks 2025/2026 — Ein Weckruf den wir nicht ignorieren können | Nick Vidovic | [Read More](https://medium.com/p/1abda6d4500a) |
 | Sat, 30 May 2026 13:32:16 GMT | WriteVo: A New Chapter in Persian Writing | N0aziXss | [Read More](https://medium.com/p/5102f875dc03) |
-| Sat, 30 May 2026 13:28:39 GMT | The One Request That Changed the Entire Engagement | Fateyaly | [Read More](https://medium.com/p/750427b50a63) |
-| Sat, 30 May 2026 13:11:16 GMT | Build Your Own Security Operations Center (SOC) at Home | Pentester Club | [Read More](https://medium.com/p/a29208eebc42) |
-| Sat, 30 May 2026 13:04:27 GMT | Panduan Lab Portwigger - SQL Injection (Lab 1) | Dwi Putra | [Read More](https://medium.com/p/61d390efb7e1) |
-| Sat, 30 May 2026 13:03:48 GMT | DaloyJS Is the Latest Modern Enterprise TypeScript Framework, and It Ships the Security Checklist… | Devlin Duldulao | [Read More](https://medium.com/p/d1e470b82a1a) |
-| Sat, 30 May 2026 13:01:16 GMT | Active Directory Attacks — Pass The Hash | Osec | [Read More](https://medium.com/p/67baa60a7cd0) |
-| Sat, 30 May 2026 12:58:13 GMT | What Are the Key Features of Security Services? | pro security guard | [Read More](https://medium.com/p/40607a37822f) |
-| Sat, 30 May 2026 12:57:09 GMT | IP Terminology Explained: The Networking Concepts Every IT Professional Must Master | Shalu | [Read More](https://medium.com/p/3321598fba55) |
-| Sat, 30 May 2026 12:54:56 GMT | The Hardest Year of My Career Journey | cryptoshant | [Read More](https://medium.com/p/65fd8edd19a3) |
-| Sat, 30 May 2026 12:51:47 GMT | Anonforce TryHackMe Writeup — From Anonymous FTP to Root Access | omar yazen | [Read More](https://medium.com/p/a9c086d752da) |
