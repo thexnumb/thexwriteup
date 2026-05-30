@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 May 2026 14:04:06 GMT | File Upload Attacks: Understanding the Basics | 0x4rt1st | [Read More](https://medium.com/p/cb6d3ee3c29b) |
+| Sat, 30 May 2026 14:01:03 GMT | Threat Hunting for DNS Attacks -LetsDefend | 0verRida | [Read More](https://medium.com/p/4ac05234dc3d) |
+| Sat, 30 May 2026 14:00:22 GMT | Trust No One & Verify Everything aka. Authentication & Authorization | Karthik Ram | [Read More](https://medium.com/p/b0130c7f8bce) |
+| Sat, 30 May 2026 13:56:14 GMT | When Identity Breaks! How a Single Parameter Corrupted an Authentication System | Umanhonlen Gabriel | [Read More](https://medium.com/p/8d41549e1365) |
+| Sat, 30 May 2026 13:50:23 GMT | I Solved a Graduate Pen-Tester CTF From My Phone. Then Someone Called Cap. | Jimitpatel | [Read More](https://medium.com/p/40ecd569b841) |
+| Sat, 30 May 2026 13:42:39 GMT | AuthBy - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/217eb242fe07) |
+| Sat, 30 May 2026 13:41:08 GMT | Series: The Breach Files | Shwet | [Read More](https://medium.com/p/cd8625205536) |
+| Sat, 30 May 2026 13:40:53 GMT | A YouTube Video Scared Me Into Learning SQL Injection. Here’s What I Found Out. | Sahanibhumika | [Read More](https://medium.com/p/f9bb0ee3aa4a) |
+| Sat, 30 May 2026 13:38:05 GMT | الـ CTI مش feed. ده طريقة تفكير | Maged Anas | [Read More](https://medium.com/p/ae4c87b0fcb7) |
+| Sat, 30 May 2026 13:37:55 GMT | Turning the Tables on Phishing: MokN Secures $15 Million to Advance Phish-Back Cyber Defense | Jas | [Read More](https://medium.com/p/260336d38e77) |
+| Sat, 30 May 2026 13:37:30 GMT | Supplychain Attacks 2025/2026 — Ein Weckruf den wir nicht ignorieren können | Nick Vidovic | [Read More](https://medium.com/p/1abda6d4500a) |
+| Sat, 30 May 2026 13:32:16 GMT | WriteVo: A New Chapter in Persian Writing | N0aziXss | [Read More](https://medium.com/p/5102f875dc03) |
+| Sat, 30 May 2026 13:28:39 GMT | The One Request That Changed the Entire Engagement | Fateyaly | [Read More](https://medium.com/p/750427b50a63) |
+| Sat, 30 May 2026 13:11:16 GMT | Build Your Own Security Operations Center (SOC) at Home | Pentester Club | [Read More](https://medium.com/p/a29208eebc42) |
+| Sat, 30 May 2026 13:04:27 GMT | Panduan Lab Portwigger - SQL Injection (Lab 1) | Dwi Putra | [Read More](https://medium.com/p/61d390efb7e1) |
+| Sat, 30 May 2026 13:03:48 GMT | DaloyJS Is the Latest Modern Enterprise TypeScript Framework, and It Ships the Security Checklist… | Devlin Duldulao | [Read More](https://medium.com/p/d1e470b82a1a) |
+| Sat, 30 May 2026 13:01:16 GMT | Active Directory Attacks — Pass The Hash | Osec | [Read More](https://medium.com/p/67baa60a7cd0) |
+| Sat, 30 May 2026 12:58:13 GMT | What Are the Key Features of Security Services? | pro security guard | [Read More](https://medium.com/p/40607a37822f) |
+| Sat, 30 May 2026 12:57:09 GMT | IP Terminology Explained: The Networking Concepts Every IT Professional Must Master | Shalu | [Read More](https://medium.com/p/3321598fba55) |
+| Sat, 30 May 2026 12:54:56 GMT | The Hardest Year of My Career Journey | cryptoshant | [Read More](https://medium.com/p/65fd8edd19a3) |
+| Sat, 30 May 2026 12:51:47 GMT | Anonforce TryHackMe Writeup — From Anonymous FTP to Root Access | omar yazen | [Read More](https://medium.com/p/a9c086d752da) |
+| Sat, 30 May 2026 12:38:15 GMT | AI-Driven Penetration Testing: Building Continuous Security Intelligence Across Enterprise Systems | Deqteq | [Read More](https://medium.com/p/0220d1a99024) |
+| Sat, 30 May 2026 12:26:38 GMT | SOC Analyst Perspektifinden CrowdStrike Falcon RTR: Live Investigation ve Incident Response Rehberi | Ahmet Badem | [Read More](https://medium.com/p/73f77aa6693c) |
+| Sat, 30 May 2026 12:20:47 GMT | Protecting Critical Infrastructure i the Age of AI-Powered Cyber Threats: Why Zero Trust and… | Vincent Chinedu Johnson | [Read More](https://medium.com/p/ee2b8004166a) |
+| Sat, 30 May 2026 12:19:40 GMT | Race condition on add 1 free domain | nocxs | [Read More](https://medium.com/p/bb514deb8cd0) |
+| Sat, 30 May 2026 12:12:38 GMT | What the Telnyx PyPI Incident Taught Me About Supply-Chain Security | Shreesh k | [Read More](https://medium.com/p/c38bcdfd594a) |
+| Sat, 30 May 2026 12:10:22 GMT | What Is the Difference Between CISM and CISA Certification? | Priyadigimarkitoz | [Read More](https://medium.com/p/ac2e3363f480) |
 | Sat, 30 May 2026 12:04:57 GMT | SBOM vs SCA: Understanding the Difference in Software Supply Chain Security | Arun Krishna | [Read More](https://medium.com/p/8bb068a47a88) |
 | Sat, 30 May 2026 12:03:29 GMT | NeuroShield — Adaptive Security Layer for Modern Web Applications | SomnoAI Digital Sleep Lab | [Read More](https://medium.com/p/1e03d285d467) |
 | Sat, 30 May 2026 12:01:00 GMT | AI Can See More Than We Think: The Hidden Privacy Risk Inside Every Selfie | Kaushal Sadhu | [Read More](https://medium.com/p/c0bb1c133cbb) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 May 2026 05:49:52 GMT | Menjelajahi Anonimitas Jaringan Tor dengan Proxychains di Kali Linux (TryHackMe Walkthrough) | Vavathania | [Read More](https://medium.com/p/4b2a7bf8fd19) |
 | Sat, 30 May 2026 05:46:00 GMT | Aetis — Digital Front Door | M.L. Ruscscak | [Read More](https://medium.com/p/9f5a9f1f9546) |
 | Sat, 30 May 2026 05:46:00 GMT | Security Best Practices for Backend Engineers: What Nobody Teaches You Until You Get Hacked | Ritesh Roushan | [Read More](https://medium.com/p/4badf0f700d1) |
-| Sat, 30 May 2026 05:44:47 GMT | Your Employees Are Shipping Software You Can’t See | Saint Zero Day | [Read More](https://medium.com/p/9a01a305d286) |
-| Sat, 30 May 2026 05:37:02 GMT | Digital Forensics Services in Qatar: Protecting Businesses Against Modern Cyber Threats | Q Tech Qatar | [Read More](https://medium.com/p/35606474fa5e) |
-| Sat, 30 May 2026 05:34:15 GMT | HTB Season 10 Underground — Facts [Medium] | somdv3 | [Read More](https://medium.com/p/c88b2be3a46e) |
-| Sat, 30 May 2026 05:28:51 GMT | Kubernetes 是什麼？泳池世界的總管理員 | 思維舞步 MindSteps | [Read More](https://medium.com/p/0182809de883) |
-| Sat, 30 May 2026 05:26:58 GMT | Attacking Crypto Infrastructure: A Technical Breakdown of How Exchanges Get Compromised | Alex Balan | [Read More](https://medium.com/p/185a2b634705) |
-| Sat, 30 May 2026 05:26:57 GMT | The River of Recognition | The FoxMartin | [Read More](https://medium.com/p/f9fc1f6b9efc) |
-| Sat, 30 May 2026 05:13:11 GMT | Understanding SQL Injection: My Hands-On Learning Experience with TryHackMe | Priyanka Behera | [Read More](https://medium.com/p/8a0be47e61a2) |
-| Sat, 30 May 2026 05:10:25 GMT | Your data is one Google search away | Jay Dobariya | [Read More](https://medium.com/p/5822de57f3f1) |
-| Sat, 30 May 2026 05:00:11 GMT | SOC127 - SQL Injection Detected | Arya Utomo | [Read More](https://medium.com/p/2a9b619e6571) |
-| Sat, 30 May 2026 04:42:55 GMT | SQL Injection Introduction — TryHackMe Walkthrough | Tecno Mayur | [Read More](https://medium.com/p/1713668312a7) |
-| Sat, 30 May 2026 04:39:00 GMT | Designing FIPS Compliant Containers | Som Dewan | [Read More](https://medium.com/p/34375305e93f) |
-| Sat, 30 May 2026 04:36:47 GMT | Escaping ‘Tutorial Hell’: The Psychological Shift to Learning in Public | Farrellmuhammad | [Read More](https://medium.com/p/b81ee15832ef) |
-| Sat, 30 May 2026 04:36:45 GMT | Logs Fundamentals | ExploitHunter | [Read More](https://medium.com/p/e77c1037460b) |
-| Sat, 30 May 2026 04:31:01 GMT | Phishing Emails No Longer Look Fake — And That’s The Problem | Cybersphere Official | [Read More](https://medium.com/p/5622361e79d6) |
-| Sat, 30 May 2026 04:28:11 GMT | Frida on iOS: Objective-C Hooking, Swift Interop & Runtime Analysis in 2026 | Akifkhan | [Read More](https://medium.com/p/6da9d61cf5d3) |
-| Sat, 30 May 2026 04:11:50 GMT | SecLeaf Q2 CTF 2026 Writeups | Aashif | [Read More](https://medium.com/p/e44b5326456a) |
-| Sat, 30 May 2026 04:06:58 GMT | Why is test-driven development with agents so helpful for security? | Aron Eidelman | [Read More](https://medium.com/p/841710b90430) |
-| Sat, 30 May 2026 03:36:32 GMT | Your .env Files Are a Security Risk. I Built dotlock to Fix That | Ahmad Raza | [Read More](https://medium.com/p/a2e8973d056f) |
-| Sat, 30 May 2026 03:17:52 GMT | The MGA Guide to NIST 2.0: How to Automate Disaster Recovery and Eliminate Underwriting Bottlenecks | Hector | [Read More](https://medium.com/p/6376108d48fa) |
-| Sat, 30 May 2026 02:53:02 GMT | An AI Coding Agent Deleted a Production Database in 9 Seconds. The Community Is Not Blaming the AI. | MohamedAbdelmenem | [Read More](https://medium.com/p/81fbd5df5574) |
-| Sat, 30 May 2026 02:24:56 GMT | The Dumbest Bug I Ever Found (And Why Complexity Is Overrated) | Decline | [Read More](https://medium.com/p/d9e566848151) |
-| Sat, 30 May 2026 02:23:25 GMT | 06/20: Layer 1 — The Physical Layer: Where Data Meets Reality | Roboticela | [Read More](https://medium.com/p/10837ee23fd0) |
-| Sat, 30 May 2026 02:23:15 GMT | 05/20: TCP/IP vs OSI Model: The Ultimate Comparison | Roboticela | [Read More](https://medium.com/p/d23670244f85) |
-| Sat, 30 May 2026 02:22:49 GMT | Three Perspectives, One Breach: A GRFICSv3 Lab Simulation — Part 2 | Redd Francisco | [Read More](https://medium.com/p/e740b8b5d12d) |
-| Sat, 30 May 2026 02:22:32 GMT | AI Is Eating Cybersecurity — OpenAI Sets the Rules, Anthropic Ships the Tools | Kosuke | [Read More](https://medium.com/p/a245359a38b9) |
-| Sat, 30 May 2026 02:00:20 GMT | Iran’s Internet Came Back for 5 Minutes. VPN Signups Exploded by 17,500%. | Kadi | [Read More](https://medium.com/p/961f62f12e19) |
-| Sat, 30 May 2026 01:44:22 GMT | VA Scan ไม่เจอช่องโหว่ เพราะปลอดภัยจริง หรือ Scanner มองไม่เห็น? | SoNaJaa_!! | [Read More](https://medium.com/p/57326355341d) |
