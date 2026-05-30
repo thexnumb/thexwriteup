@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 May 2026 21:28:43 GMT | /* and 1500 Hours: On the Engineer Who Stopped Caring, and Why That’s on You | Virtually Scott | [Read More](https://medium.com/p/f24bc3c59d46) |
+| Sat, 30 May 2026 21:19:40 GMT | Exhibit A | Echo Grey | [Read More](https://medium.com/p/8bd59d32aad8) |
+| Sat, 30 May 2026 21:10:25 GMT | The Financial Underground: Inside the Payment Infrastructure of Non-Consensual Imagery Sites | Alice, Severe Harms Intelligence | [Read More](https://medium.com/p/384a174187eb) |
+| Sat, 30 May 2026 21:07:23 GMT | Your API keys might be sitting in your JavaScript bundle right now | Habeeb Salami | [Read More](https://medium.com/p/90a96c332a2f) |
+| Sat, 30 May 2026 20:55:28 GMT | Tu navegador te conoce mejor de lo que crees: privacidad en 2026 | Johan Tovar | [Read More](https://medium.com/p/d92d701b391a) |
+| Sat, 30 May 2026 20:52:28 GMT | Red Lines and Embassies-Securing Europe Against Iranian Destabilization | Golda Mizrahi | [Read More](https://medium.com/p/2209680632db) |
+| Sat, 30 May 2026 20:46:00 GMT | If Only You Knew | Sarah | [Read More](https://medium.com/p/5e04d9755f0d) |
+| Sat, 30 May 2026 20:44:01 GMT | Windows 10 End of Support: What Small Businesses Must Do in 2026 | Managed & Secured | [Read More](https://medium.com/p/9767f9eb45ff) |
+| Sat, 30 May 2026 20:32:52 GMT | TrapDoor: The Campaign That Turned AI Coding Assistants Into Attackers | Ali Mansoor | [Read More](https://medium.com/p/160e591b071a) |
+| Sat, 30 May 2026 20:23:20 GMT | I Spent a Week Untangling AWS IAM — Here’s What Actually Clicked | Vamsi Krishna CH | [Read More](https://medium.com/p/8b9ca8570aaf) |
+| Sat, 30 May 2026 20:23:16 GMT | Why I Chose Cybersecurity — And Why It Feels Like a Real-Life Puzzle | Ibtehaj Ali Mirza | [Read More](https://medium.com/p/c47c3c3d2d4f) |
+| Sat, 30 May 2026 20:20:09 GMT | Developer-Friendly DevSecOps: How to Build Security That Developers Actually Use | Puja Maheshvari | [Read More](https://medium.com/p/c77560bdb643) |
+| Sat, 30 May 2026 20:11:55 GMT | How to Reduce False Positives in Security Scanning Pipelines | Puja Maheshvari | [Read More](https://medium.com/p/304f8e685021) |
+| Sat, 30 May 2026 20:10:49 GMT | Agentic Engineering: From AI Tools to an Engineering Discipline | Dave Patten | [Read More](https://medium.com/p/5a13571b608a) |
+| Sat, 30 May 2026 20:09:26 GMT | GOOGLE'S WILLOW CHIP AND THE END OF CLASSICAL PHYSICS: The Quantum Computer That Completed in Five… | Abel | [Read More](https://medium.com/p/3f774c924c45) |
+| Sat, 30 May 2026 20:06:00 GMT | Integrating Kafka with ClickHouse using SSL/SASL: A Technical Retrospective | Mobin Shaterian | [Read More](https://medium.com/p/be9d75864340) |
+| Sat, 30 May 2026 20:04:14 GMT | Bending Control Flow: A Hands-On Walkthrough of Stack Buffer Overflows and Return-to-Function… | Manavasnani | [Read More](https://medium.com/p/1beab3f4c109) |
 | Sat, 30 May 2026 19:50:44 GMT | Reliable IT Support Services in Dubai UAE: Why Every Business Needs a Trusted Technology Partner | Rahulkrishnan | [Read More](https://medium.com/p/84d1acc3fc7f) |
 | Sat, 30 May 2026 19:34:51 GMT | From KYC to KYA: Architectural Frameworks for Autonomous Agent Identity in Regulated Finance | Sayat Kakzhanov | [Read More](https://medium.com/p/49f00d3146ec) |
 | Sat, 30 May 2026 19:32:18 GMT | MANAGING MODERN IDENTITIES IN MICROSOFT ENTRA ID WITH SECURITY COPILOT | Ebenezer Oduro | [Read More](https://medium.com/p/dd66527abe29) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 May 2026 12:57:09 GMT | IP Terminology Explained: The Networking Concepts Every IT Professional Must Master | Shalu | [Read More](https://medium.com/p/3321598fba55) |
 | Sat, 30 May 2026 12:54:56 GMT | The Hardest Year of My Career Journey | cryptoshant | [Read More](https://medium.com/p/65fd8edd19a3) |
 | Sat, 30 May 2026 12:51:47 GMT | Anonforce TryHackMe Writeup — From Anonymous FTP to Root Access | omar yazen | [Read More](https://medium.com/p/a9c086d752da) |
-| Sat, 30 May 2026 12:38:15 GMT | AI-Driven Penetration Testing: Building Continuous Security Intelligence Across Enterprise Systems | Deqteq | [Read More](https://medium.com/p/0220d1a99024) |
-| Sat, 30 May 2026 12:26:38 GMT | SOC Analyst Perspektifinden CrowdStrike Falcon RTR: Live Investigation ve Incident Response Rehberi | Ahmet Badem | [Read More](https://medium.com/p/73f77aa6693c) |
-| Sat, 30 May 2026 12:20:47 GMT | Protecting Critical Infrastructure i the Age of AI-Powered Cyber Threats: Why Zero Trust and… | Vincent Chinedu Johnson | [Read More](https://medium.com/p/ee2b8004166a) |
-| Sat, 30 May 2026 12:19:40 GMT | Race condition on add 1 free domain | nocxs | [Read More](https://medium.com/p/bb514deb8cd0) |
-| Sat, 30 May 2026 12:12:38 GMT | What the Telnyx PyPI Incident Taught Me About Supply-Chain Security | Shreesh k | [Read More](https://medium.com/p/c38bcdfd594a) |
-| Sat, 30 May 2026 12:10:22 GMT | What Is the Difference Between CISM and CISA Certification? | Priyadigimarkitoz | [Read More](https://medium.com/p/ac2e3363f480) |
-| Sat, 30 May 2026 12:04:57 GMT | SBOM vs SCA: Understanding the Difference in Software Supply Chain Security | Arun Krishna | [Read More](https://medium.com/p/8bb068a47a88) |
-| Sat, 30 May 2026 12:03:29 GMT | NeuroShield — Adaptive Security Layer for Modern Web Applications | SomnoAI Digital Sleep Lab | [Read More](https://medium.com/p/1e03d285d467) |
-| Sat, 30 May 2026 12:01:00 GMT | AI Can See More Than We Think: The Hidden Privacy Risk Inside Every Selfie | Kaushal Sadhu | [Read More](https://medium.com/p/c0bb1c133cbb) |
-| Sat, 30 May 2026 11:50:20 GMT | Kaspersky Lab and the Cybersecurity Paradox | David SEHYEON Baek | [Read More](https://medium.com/p/0acdd0fb4354) |
-| Sat, 30 May 2026 11:49:37 GMT | Protecting Your Assets: Why Today’s Businesses are Opting for ISO 27001 | Parvathydigitalmarketer | [Read More](https://medium.com/p/80ef7d7d02bf) |
-| Sat, 30 May 2026 11:47:10 GMT | Between Unmet Transparency Obligations and Contradictions in Communication | AKUMAAYORI | [Read More](https://medium.com/p/58af386b01ef) |
-| Sat, 30 May 2026 11:39:13 GMT | What Is DaloyJS? A Contract-First TypeScript Framework for People Who Have Been Burned Before | Devlin Duldulao | [Read More](https://medium.com/p/d74b1ed92ff8) |
-| Sat, 30 May 2026 11:38:24 GMT | Hardware Implants: When Reinstalling OS Won’t Help | Olha Stefanishyna | [Read More](https://medium.com/p/0d8d0fe0acb0) |
-| Sat, 30 May 2026 11:37:51 GMT | Fraude en Fondos de Inversión: Cómo Identificar una Estafa y Qué Hacer si Has Sido Víctima | Decode Help | [Read More](https://medium.com/p/a7bfbb8a1d22) |
-| Sat, 30 May 2026 11:34:08 GMT | Governance, Risk, and Compliance (GRC): The Foundation of Cybersecurity Management | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/4de78deed70b) |
-| Sat, 30 May 2026 11:31:00 GMT | Uncovering a Recruitment Malware Campaign: LinkedIn, Google Forms & Dropbox Abuse (Part 1) | Sivasankar Das | [Read More](https://medium.com/p/ec7bfc8fc2b1) |
