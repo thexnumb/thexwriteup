@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 May 2026 10:52:21 GMT | ️ DeepShield: Building an Identity-Guard Meeting Layer Using Google AI | Himanshu Jain | [Read More](https://medium.com/p/dad225eda8cb) |
+| Sat, 30 May 2026 10:47:07 GMT | Road — TryHackMe WalkThrough | Rayenhafsawy | [Read More](https://medium.com/p/8c2595baafa7) |
+| Sat, 30 May 2026 10:40:49 GMT | Shadow AI & AI Cybersecurity Risks: What Every Professional Needs to Know | TechByWilliam | [Read More](https://medium.com/p/e1c2b54ef8a7) |
+| Sat, 30 May 2026 10:40:28 GMT | Write-up TryHackMe Lab Tor for Beginners by Sayed M Qadri | Sayed Muhammad Qadri | [Read More](https://medium.com/p/5275aacce3c1) |
+| Sat, 30 May 2026 10:40:19 GMT | OpenVPN Protocol: How It Works & When to Use It | UCN VPN | [Read More](https://medium.com/p/a4108f340908) |
+| Sat, 30 May 2026 10:32:50 GMT | After the Bullets Stopped: Where the Men of Blackwater Are Now | The Expose | [Read More](https://medium.com/p/e75444e948c0) |
+| Sat, 30 May 2026 10:27:54 GMT | ¿Qué es el fraude de inversión? | Decode Help | [Read More](https://medium.com/p/5b581efb89fd) |
+| Sat, 30 May 2026 10:11:57 GMT | The rise of monthly “once in a decade” attacks, and the one config change that keeps your company… | Arush Bansal | [Read More](https://medium.com/p/3559dc194941) |
+| Sat, 30 May 2026 10:08:54 GMT | Struktur Data: Dijkstra | Nabilla Paraswati | [Read More](https://medium.com/p/17f10c514f6f) |
+| Sat, 30 May 2026 10:08:36 GMT | BAC: Sensitive Information Disclosure via Publicly Accessible Database Backup Files (users.sql)-Disc | Abin | [Read More](https://medium.com/p/ca2cd6d4370f) |
+| Sat, 30 May 2026 10:08:19 GMT | NEWSLETTER: Latest in AI, TikTok, Cybersecurity and “One Support Ticket Took Down 8,800 Schools” | Nitin Garg | [Read More](https://medium.com/p/c747f646bcd6) |
+| Sat, 30 May 2026 09:40:55 GMT | AI Agent Governance and the OWASP Agentic Top 10: Old Security, New Trust Boundary | Shriom Tripathi | [Read More](https://medium.com/p/0d15cb180a48) |
 | Sat, 30 May 2026 09:10:25 GMT | How to Get Your First 10 Clients as a Reseller Hosting Business? | Janet Watson | [Read More](https://medium.com/p/7953636cece2) |
 | Sat, 30 May 2026 09:02:44 GMT | The Mythos of the Machine: Defending Against the Era of Industrialized Bug Hunting | Izaz Haque | [Read More](https://medium.com/p/ab91b3f2c3ac) |
 | Sat, 30 May 2026 08:59:10 GMT | Sketch to Assembly: My first experience with SolidWorks 2025 | Leonewambi | [Read More](https://medium.com/p/dea95585ddfb) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 29 May 2026 21:28:21 GMT | Why Your Vendor Risk Assessment Process is Broken and How ISO 27001 Can Fix It | Ahi&Hacking | [Read More](https://medium.com/p/1ecc477f6519) |
 | Fri, 29 May 2026 21:21:23 GMT | Best Penetration Testing Service Provider for Cybersecurity | Cyber Sapiens | [Read More](https://medium.com/p/7f93f435605e) |
 | Fri, 29 May 2026 21:17:05 GMT | EchoTrace — Level 1 Write-up | Seif Eldein Ahmad Mohammad | [Read More](https://medium.com/p/7a135858503f) |
-| Fri, 29 May 2026 21:16:24 GMT | Reporting a Low-Severity YouTube Logic Issue to Google Taught Me a Lot | Mrinal Kumar Chandra | [Read More](https://medium.com/p/616593c392d4) |
-| Fri, 29 May 2026 21:03:20 GMT | Cybersecurity Is Not Just for Big Companies Anymore | M.L. Ruscscak | [Read More](https://medium.com/p/8c5a7b436fb7) |
-| Fri, 29 May 2026 20:56:38 GMT | From Zero to SYSTEM: Exploiting the FoxKeDriver64.sys Windows Kernel Driver | Haidermustafa | [Read More](https://medium.com/p/2d324e629b4d) |
-| Fri, 29 May 2026 20:55:12 GMT | Cyber Threat Intelligence: The Three Pillars Every SOC Analyst Should Understand | Jorge Ruiz | [Read More](https://medium.com/p/b8c8c60b53b0) |
-| Fri, 29 May 2026 20:53:23 GMT | California Moves First: The Political Architecture of Newsom’s AI Workforce Order | CCD-IS | [Read More](https://medium.com/p/0189cdf7e040) |
-| Fri, 29 May 2026 20:50:36 GMT | How to Securely Connect ADK Agents to Models on Cloud Run | minherz | [Read More](https://medium.com/p/b3b080b5b2c0) |
-| Fri, 29 May 2026 20:38:56 GMT | The ‘Sanga Thalaivan’ You Never See | Noel PS | [Read More](https://medium.com/p/3a353828631e) |
-| Fri, 29 May 2026 20:34:18 GMT | Confessions of a Leadership Hypocrite: Your Internal Microphone Is Lying to You | Elizabeth Mendy | [Read More](https://medium.com/p/16ddff69980c) |
-| Fri, 29 May 2026 20:26:32 GMT | SOC336 - Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) | Arya Utomo | [Read More](https://medium.com/p/9212f0eaf4f9) |
-| Fri, 29 May 2026 20:11:46 GMT | TryHackMe Support CTF Walkthrough: Source Code Analysis & RCE | Naskilabot | [Read More](https://medium.com/p/8bb7d5b80a14) |
-| Fri, 29 May 2026 20:09:27 GMT | Analysing AgentTesla: A Full Infection Chain Walkthrough | Dharanis | [Read More](https://medium.com/p/744959461e63) |
-| Fri, 29 May 2026 20:06:00 GMT | Day 4 — The Linux File System Explained: A Map to the Most Powerful OS on Earth | Rudra Joshi | [Read More](https://medium.com/p/c79b5088f649) |
