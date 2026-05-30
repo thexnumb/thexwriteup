@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 30 May 2026 17:01:19 GMT | I Exploited Port 21 on My Home Lab (Metasploitable 2): The vsftpd 2.3.4 Backdoor | pasan_Hewavitharana | [Read More](https://medium.com/p/8c7b9018bfdd) |
+| Sat, 30 May 2026 16:57:40 GMT | Critical Thinking in the Age of AI Starts Before the Prompt | Mohamed Soliman | [Read More](https://medium.com/p/469075171fc0) |
+| Sat, 30 May 2026 16:52:24 GMT | BOUNTY HACKER WALKTHROUGH - TRYHACKME | ANWAR1 | [Read More](https://medium.com/p/28f2df83aeae) |
+| Sat, 30 May 2026 16:51:58 GMT | Windows Persistence with Metasploit — Registry, Backdoors & Reboots | Isha Sangpal | [Read More](https://medium.com/p/2620e1fb7bed) |
+| Sat, 30 May 2026 16:41:54 GMT | Carnival Cruise Data Breach: What Happened, Why It Matters, and Cybersecurity Lessons Learned | Manula Udyoga | [Read More](https://medium.com/p/a1f216f6cd4b) |
+| Sat, 30 May 2026 16:29:38 GMT | I Found a P1 IDOR. They Closed It as Duplicate. The Timeline Tells a Different Story. | $cr1p7 k!ddi3 | [Read More](https://medium.com/p/67c093d495eb) |
+| Sat, 30 May 2026 16:22:48 GMT | Networking in Linux | Abhishek Dubey | [Read More](https://medium.com/p/455d942b7962) |
+| Sat, 30 May 2026 16:19:26 GMT | JWT Security Risks: Common Vulnerabilities and How to Prevent Them | Arulkumaran | [Read More](https://medium.com/p/d66361cb4b25) |
+| Sat, 30 May 2026 16:18:51 GMT | HexScopee | HexScopee | [Read More](https://medium.com/p/0f0913cb0397) |
+| Sat, 30 May 2026 16:16:39 GMT | The Catch-22 of Cross-Chain Bridges: A Deep Dive into a Fund-Locking Flaw in Polkadot’s Snowbridge | Mohamed Tamer | [Read More](https://medium.com/p/21836d0ac00e) |
+| Sat, 30 May 2026 16:10:58 GMT | NGINX Made Simple: The Web Server That Does More Than You Think | Thurunu Mihiranga | [Read More](https://medium.com/p/ca81126cebff) |
+| Sat, 30 May 2026 16:09:40 GMT | Network Detective | Myles Corey | [Read More](https://medium.com/p/4b7a3756566a) |
+| Sat, 30 May 2026 16:07:50 GMT | Still stuck in a 4-year tech degree plan? | Theusamaabdullah | [Read More](https://medium.com/p/454dd834ed98) |
+| Sat, 30 May 2026 16:06:32 GMT | DRP vs Threat Intelligence vs Attack Surface Management: What’s the Difference? | Praveen Dhakad | [Read More](https://medium.com/p/9f5dabbacae2) |
+| Sat, 30 May 2026 15:56:07 GMT | OSI model | Petersmuditha | [Read More](https://medium.com/p/9a5e8b92afe4) |
 | Sat, 30 May 2026 15:39:10 GMT | Cloud Security Compliance: Why It Matters and How Cloud Security Differs from On-Prem Security ☁️ | Manula Udyoga | [Read More](https://medium.com/p/00c3990117a3) |
 | Sat, 30 May 2026 15:32:10 GMT | How Hackers Find Weak Wi-Fi Without Being Some Movie Genius | Ben Treder | [Read More](https://medium.com/p/50992e25b82c) |
 | Sat, 30 May 2026 15:29:20 GMT | How to Choose a Target That Won’t Waste Your Time | Decline | [Read More](https://medium.com/p/1a627a6519de) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 30 May 2026 08:54:39 GMT | Your AI Stack Is a Perimeter Architecture. We Already Know How Those End.- Himanshu Vaghela | Himanshu Vaghela | [Read More](https://medium.com/p/2a42783c8583) |
 | Sat, 30 May 2026 08:44:46 GMT | “National Reading Culture” the latest SCAM affecting Nigerians TODAY | The Onyx Effect | [Read More](https://medium.com/p/e496c46b1c9a) |
 | Sat, 30 May 2026 08:42:48 GMT | I Built a Red Team Network Scanner from Scratch — Then Used It to Own a Machine | Shivam Singh | [Read More](https://medium.com/p/5cf6de1aac60) |
-| Sat, 30 May 2026 08:42:40 GMT | ຈາກທິດສະດີສູ່ການໃຊ້ງານຈິງ: ການຈັດການ Network & Security ສຳລັບ Cloud Server | thong vongsengdeuan | [Read More](https://medium.com/p/fc1e0f41c6d4) |
-| Sat, 30 May 2026 08:38:01 GMT | INTO THE SHADOW | Muhammad Adebayo | [Read More](https://medium.com/p/cc8ed0a4e6d1) |
-| Sat, 30 May 2026 08:30:36 GMT | API Pentesting - TryHackMe | Ryca | [Read More](https://medium.com/p/581fefc58818) |
-| Sat, 30 May 2026 08:30:14 GMT | XSS Introduction - TryHackMe | Ryca | [Read More](https://medium.com/p/90c5400b25ec) |
-| Sat, 30 May 2026 08:29:31 GMT | India’s Coastline: The Frontline We Cannot Afford to Ignore | AnonymousLoner2106 | [Read More](https://medium.com/p/4c5d71afb319) |
-| Sat, 30 May 2026 08:27:10 GMT | Akshay Sharma Travel Agent Fighting Cyber Fraud in the Travel Industry | Travel Revews and Holidays packages | [Read More](https://medium.com/p/524648525547) |
-| Sat, 30 May 2026 08:17:26 GMT | The Death of the Bad Spelling Tell: How AI-Driven Phishing Has Overrun the Underworld | Mohit | [Read More](https://medium.com/p/fad612ac831c) |
-| Sat, 30 May 2026 08:05:09 GMT | Top Information Technology Project Management Tips for SMBs | Marketing Ghonda-Legacy | [Read More](https://medium.com/p/cecea28ee29b) |
-| Sat, 30 May 2026 07:57:31 GMT | Web Vulnerabilities Explained — SQL Injection, XSS and Command Injection on DVWA | NIVED PV | [Read More](https://medium.com/p/ea449d4bbdc4) |
-| Sat, 30 May 2026 07:55:14 GMT | Deathnote Walkthrough - VulnHub (Boot-to-Root) | Fardan Victoria's | [Read More](https://medium.com/p/cbc762d54d33) |
-| Sat, 30 May 2026 07:50:45 GMT | The Future of SOC Operations: What Modern Cybersecurity Teams Are Adopting in 2026 | Xpert4Cyber | [Read More](https://medium.com/p/e39a57fd8848) |
-| Sat, 30 May 2026 07:45:10 GMT | I Found 6 Security Vulnerabilities in a Simple Flask App. Here’s What We Learned | Andrea Rodriguez | [Read More](https://medium.com/p/9f62914879d1) |
-| Sat, 30 May 2026 07:44:36 GMT | CoralSentinel — One Coral SQL Query to Stop Your AI Stack From Being Blocked by CVEs | Sumit S Chawla | [Read More](https://medium.com/p/fbadac3e03a1) |
-| Sat, 30 May 2026 07:41:30 GMT | Kendi Kodum Neden Bir Virüsün Parçası Çıktı? | Türkü Durmuş | [Read More](https://medium.com/p/1c652a064b88) |
-| Sat, 30 May 2026 07:41:05 GMT | Risk Analysis for AI: How to Know What Actually Matters | F Notes | [Read More](https://medium.com/p/4f1b0e76a33c) |
