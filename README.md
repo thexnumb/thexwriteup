@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 May 2026 00:07:21 GMT | 3FA is not really being replaced by passkeys | Adina Pirjol | [Read More](https://medium.com/p/44c0053618ca) |
+| Sun, 31 May 2026 00:01:02 GMT | The reassurance you’ve been given is not the same as a guarantee | Templora | [Read More](https://medium.com/p/85a87f69df42) |
+| Sat, 30 May 2026 23:54:28 GMT | The Hidden Danger Behind Systems: Memory and Type Safety | Aybüke | [Read More](https://medium.com/p/dac56d525919) |
+| Sat, 30 May 2026 23:40:59 GMT | How I Automated Open Redirect Vulnerability Hunting Using a Single Terminal Command | Ali Ayman (sagax) | [Read More](https://medium.com/p/6df641733650) |
+| Sat, 30 May 2026 23:38:20 GMT | Après-climb: the Security + Privacy Weekend Magazine for May 30–31, 2026 | Sherpa Intelligence | [Read More](https://medium.com/p/16a39cd5097b) |
+| Sat, 30 May 2026 23:11:23 GMT | The Signature Your Antivirus Trusts Is for Sale | S6 Tech | [Read More](https://medium.com/p/05f6b62b6186) |
+| Sat, 30 May 2026 23:10:03 GMT | The Evolution of Malware | Progsky | [Read More](https://medium.com/p/fa60c1984c02) |
+| Sat, 30 May 2026 23:07:37 GMT | The Newsroom Protocol: Why Autonomous AI Agents Are a Ticking Time Bomb in B2B Databases | Nikolai Pavlov | [Read More](https://medium.com/p/669ec11ae7d6) |
+| Sat, 30 May 2026 23:01:00 GMT | Why Stronger Rules Don’t Work | fmi A. | [Read More](https://medium.com/p/dc15e79a05b4) |
+| Sat, 30 May 2026 22:58:05 GMT | [Updated] May 2026 Crypto Scam Warning List: How To Spot And Avoid Fake Platforms. | Scam Busters | [Read More](https://medium.com/p/155021a4a50c) |
+| Sat, 30 May 2026 22:55:11 GMT | How Github was hacked | Viacheslav Romanov | [Read More](https://medium.com/p/099ad2dd83ea) |
+| Sat, 30 May 2026 22:46:18 GMT | NIST SP800–160 Technical Security Process | Ch3rryExploit | [Read More](https://medium.com/p/94a374c94e65) |
 | Sat, 30 May 2026 22:45:28 GMT | ChatGPhish: The Day We Realized AI Could Become the Perfect Phishing Accomplice | Priyanshu Manash | [Read More](https://medium.com/p/d9530e14c97b) |
 | Sat, 30 May 2026 22:39:28 GMT | File Upload Attacks: Bypassing Client-Side Validation | 0x4rt1st | [Read More](https://medium.com/p/40fe32c601dd) |
 | Sat, 30 May 2026 22:37:01 GMT | My First Exploits Accepted on Exploit-DB: From Idea to Publication | Diamorphine | [Read More](https://medium.com/p/3d7f0aa75032) |
@@ -102,15 +114,3 @@ Injection | Rikin K Patel | [Read More](https://medium.com/p/7ea4e34d1aaa) |
 | Sat, 30 May 2026 14:21:45 GMT | I Stopped a Cyberattack in 10 Seconds. Here’s the Exact Toolkit I Used. | SecPrompts | [Read More](https://medium.com/p/8bef3f87ab89) |
 | Sat, 30 May 2026 14:18:43 GMT | How I Built an AI‑First, Secure ERP Workflow Agents, an Integration Bridge, and a Dev Loop That… | Lutfi Krasnici | [Read More](https://medium.com/p/83ddc8bcadb1) |
 | Sat, 30 May 2026 14:16:51 GMT | 04: If It’s Everyone’s Problem, It’s No One’s Problem | Rashi Jaiswal | [Read More](https://medium.com/p/59163649eea0) |
-| Sat, 30 May 2026 14:04:06 GMT | File Upload Attacks: Understanding the Basics | 0x4rt1st | [Read More](https://medium.com/p/cb6d3ee3c29b) |
-| Sat, 30 May 2026 14:01:03 GMT | Threat Hunting for DNS Attacks -LetsDefend | 0verRida | [Read More](https://medium.com/p/4ac05234dc3d) |
-| Sat, 30 May 2026 14:00:22 GMT | Trust No One & Verify Everything aka. Authentication & Authorization | Karthik Ram | [Read More](https://medium.com/p/b0130c7f8bce) |
-| Sat, 30 May 2026 13:56:14 GMT | When Identity Breaks! How a Single Parameter Corrupted an Authentication System | Umanhonlen Gabriel | [Read More](https://medium.com/p/8d41549e1365) |
-| Sat, 30 May 2026 13:50:23 GMT | I Solved a Graduate Pen-Tester CTF From My Phone. Then Someone Called Cap. | Jimitpatel | [Read More](https://medium.com/p/40ecd569b841) |
-| Sat, 30 May 2026 13:42:39 GMT | AuthBy - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/217eb242fe07) |
-| Sat, 30 May 2026 13:41:08 GMT | Series: The Breach Files | Shwet | [Read More](https://medium.com/p/cd8625205536) |
-| Sat, 30 May 2026 13:40:53 GMT | A YouTube Video Scared Me Into Learning SQL Injection. Here’s What I Found Out. | Sahanibhumika | [Read More](https://medium.com/p/f9bb0ee3aa4a) |
-| Sat, 30 May 2026 13:38:05 GMT | الـ CTI مش feed. ده طريقة تفكير | Maged Anas | [Read More](https://medium.com/p/ae4c87b0fcb7) |
-| Sat, 30 May 2026 13:37:55 GMT | Turning the Tables on Phishing: MokN Secures $15 Million to Advance Phish-Back Cyber Defense | Jas | [Read More](https://medium.com/p/260336d38e77) |
-| Sat, 30 May 2026 13:37:30 GMT | Supplychain Attacks 2025/2026 — Ein Weckruf den wir nicht ignorieren können | Nick Vidovic | [Read More](https://medium.com/p/1abda6d4500a) |
-| Sat, 30 May 2026 13:32:16 GMT | WriteVo: A New Chapter in Persian Writing | N0aziXss | [Read More](https://medium.com/p/5102f875dc03) |
