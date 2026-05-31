@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 May 2026 12:01:01 GMT | The Invisible Data Trail You’re Leaving Every Time You Share a Document | Templora | [Read More](https://medium.com/p/2a3bbe26838d) |
+| Sun, 31 May 2026 11:55:21 GMT | When Middleware Becomes the Weapon: Chaining File Upload to Server-Side Code Execution | F4R1S | [Read More](https://medium.com/p/872cad7e6eb1) |
+| Sun, 31 May 2026 11:49:56 GMT | Tempest Projesi nedir? Tempest Uyumluluğu ve Sertifikasyonu Nedir? Siber Güvenliğin Gizli Tarihi | Alperen Kılıç | [Read More](https://medium.com/p/f1252d41e3a4) |
+| Sun, 31 May 2026 11:44:03 GMT | Best Institute for Cybersecurity Summer Internship After 12th | cybersecuritycourse | [Read More](https://medium.com/p/9ce7d1b887b6) |
+| Sun, 31 May 2026 11:36:28 GMT | Testing File Upload Vulnerability in web applications!!! | cyb3r_Rs | [Read More](https://medium.com/p/eda24f26659a) |
+| Sun, 31 May 2026 11:31:46 GMT | Part 2 of CloudSek Hiring CTF | Keshav Singh | [Read More](https://medium.com/p/20e59bef0cb2) |
+| Sun, 31 May 2026 11:20:53 GMT | Mythos? Oh, Sure. Haha. | hide | [Read More](https://medium.com/p/dfc931f671f0) |
+| Sun, 31 May 2026 11:18:30 GMT | Building and Testing Authenticated Agentic-Flows with Agent Auth Playground | akindu himan | [Read More](https://medium.com/p/c68d0c3da481) |
+| Sun, 31 May 2026 11:16:00 GMT | You can’t secure what you can’t see | comatrix | [Read More](https://medium.com/p/4628d152e73e) |
+| Sun, 31 May 2026 11:13:37 GMT | CloudSEK Hiring CTF: My Walkthrough of Both Rounds: A late but honest write-up from someone still… | Keshav Singh | [Read More](https://medium.com/p/ad5002d9c239) |
+| Sun, 31 May 2026 11:13:24 GMT | Investigation Breakdown — Part 1 | ghostyjoe | [Read More](https://medium.com/p/7329ea0d9543) |
+| Sun, 31 May 2026 11:10:58 GMT | AI Is Quietly Rewriting Cybersecurity Right Now and Most Companies Are Not Ready | Story of Hina | [Read More](https://medium.com/p/e3e240c3dc56) |
+| Sun, 31 May 2026 11:03:04 GMT | AI Agents Are Taking Over Your Systems — But Who Are They? | akindu himan | [Read More](https://medium.com/p/29117258d2d6) |
+| Sun, 31 May 2026 11:01:00 GMT | OSI Modeli: Ezberlenen 7 Katmandan Daha Fazlası | Aslıhan Zeynep Koç | [Read More](https://medium.com/p/06bb1e42386f) |
+| Sun, 31 May 2026 10:53:35 GMT | Agentic AI for Data protection — Proof of concept: Return on experience | AKLI ILIAS | [Read More](https://medium.com/p/c1eb67b806e4) |
+| Sun, 31 May 2026 10:50:03 GMT | ProFTPD 1.3.5 Remote Code Execution (CVE-2015–3306) - Hackviser Lab Writeup | 0x7ipher | [Read More](https://medium.com/p/4d2e1b19ed81) |
+| Sun, 31 May 2026 10:39:53 GMT | Re-Testing (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/be335af8dcc2) |
+| Sun, 31 May 2026 10:31:48 GMT | Top 15 SOC Tools Every Cybersecurity Professional Should Know in 2026 | Xpert4Cyber | [Read More](https://medium.com/p/0d9e0b776424) |
 | Sun, 31 May 2026 10:27:15 GMT | TryHackMe — Lookback Writeup | Rootseekerx0x | [Read More](https://medium.com/p/cf4139407e38) |
 | Sun, 31 May 2026 10:24:36 GMT | Tek E-Postayla Sızan Veri: AI Agentların Görünmez Saldırı Yüzeyi | Ata Erdemir | [Read More](https://medium.com/p/5c07720ccd2f) |
 | Sun, 31 May 2026 10:24:27 GMT | A Simple Question About WhatsApp Led Me Down a Cybersecurity Rabbit Hole | Disaster | [Read More](https://medium.com/p/97fc8901df22) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 May 2026 00:07:51 GMT | Unpacking the Mess: How I Deal with Hidden Malware Scripts Every Day | Usamajony | [Read More](https://medium.com/p/2a88f5b21cca) |
 | Sun, 31 May 2026 00:07:21 GMT | 3FA is not really being replaced by passkeys | Adina Pirjol | [Read More](https://medium.com/p/44c0053618ca) |
 | Sun, 31 May 2026 00:01:02 GMT | The reassurance you’ve been given is not the same as a guarantee | Templora | [Read More](https://medium.com/p/85a87f69df42) |
-| Sat, 30 May 2026 23:54:28 GMT | The Hidden Danger Behind Systems: Memory and Type Safety | Aybüke | [Read More](https://medium.com/p/dac56d525919) |
-| Sat, 30 May 2026 23:40:59 GMT | How I Automated Open Redirect Vulnerability Hunting Using a Single Terminal Command | Ali Ayman (sagax) | [Read More](https://medium.com/p/6df641733650) |
-| Sat, 30 May 2026 23:38:20 GMT | Après-climb: the Security + Privacy Weekend Magazine for May 30–31, 2026 | Sherpa Intelligence | [Read More](https://medium.com/p/16a39cd5097b) |
-| Sat, 30 May 2026 23:11:23 GMT | The Signature Your Antivirus Trusts Is for Sale | S6 Tech | [Read More](https://medium.com/p/05f6b62b6186) |
-| Sat, 30 May 2026 23:10:03 GMT | The Evolution of Malware | Progsky | [Read More](https://medium.com/p/fa60c1984c02) |
-| Sat, 30 May 2026 23:07:37 GMT | The Newsroom Protocol: Why Autonomous AI Agents Are a Ticking Time Bomb in B2B Databases | Nikolai Pavlov | [Read More](https://medium.com/p/669ec11ae7d6) |
-| Sat, 30 May 2026 23:01:00 GMT | Why Stronger Rules Don’t Work | fmi A. | [Read More](https://medium.com/p/dc15e79a05b4) |
-| Sat, 30 May 2026 22:58:05 GMT | [Updated] May 2026 Crypto Scam Warning List: How To Spot And Avoid Fake Platforms. | Scam Busters | [Read More](https://medium.com/p/155021a4a50c) |
-| Sat, 30 May 2026 22:55:11 GMT | How Github was hacked | Viacheslav Romanov | [Read More](https://medium.com/p/099ad2dd83ea) |
-| Sat, 30 May 2026 22:46:18 GMT | NIST SP800–160 Technical Security Process | Ch3rryExploit | [Read More](https://medium.com/p/94a374c94e65) |
-| Sat, 30 May 2026 22:45:28 GMT | ChatGPhish: The Day We Realized AI Could Become the Perfect Phishing Accomplice | Priyanshu Manash | [Read More](https://medium.com/p/d9530e14c97b) |
-| Sat, 30 May 2026 22:39:28 GMT | File Upload Attacks: Bypassing Client-Side Validation | 0x4rt1st | [Read More](https://medium.com/p/40fe32c601dd) |
-| Sat, 30 May 2026 22:37:01 GMT | My First Exploits Accepted on Exploit-DB: From Idea to Publication | Diamorphine | [Read More](https://medium.com/p/3d7f0aa75032) |
-| Sat, 30 May 2026 22:36:00 GMT | A worm shipped to npm with a valid signature, and I rotated tokens till 2am | The Expert Developer | [Read More](https://medium.com/p/4e117c1db043) |
-| Sat, 30 May 2026 22:26:17 GMT | [Updated] 2026 Crypto Scam Warning List: How To Spot And Avoid Fake Platforms By Scambusters. | Scam Busters | [Read More](https://medium.com/p/86b0c4bbf53d) |
-| Sat, 30 May 2026 22:19:44 GMT | C2SI(Google summer of code -2026) : Agentic AI Framework with LangGraph, Multi-turn Dialogue, and… | Vishak Baddur | [Read More](https://medium.com/p/2686a388b80f) |
-| Sat, 30 May 2026 22:12:27 GMT | Mapping the Attack Surface of an AI Chatbot | Abubakarsaffat | [Read More](https://medium.com/p/74e26f869ba1) |
-| Sat, 30 May 2026 22:11:00 GMT | Hidden risk of too many business tools | M.L. Ruscscak | [Read More](https://medium.com/p/deecf3971a67) |
