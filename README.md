@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 May 2026 16:55:59 GMT | ️ File Integrity Monitoring (FIM): The Security Camera for Your Files | Natarajan C K | [Read More](https://medium.com/p/4940f275ed40) |
+| Sun, 31 May 2026 16:54:45 GMT | File Upload Attacks: Bypassing Blacklist Filters | 0x4rt1st | [Read More](https://medium.com/p/564d6f848a2d) |
+| Sun, 31 May 2026 16:53:17 GMT | Write-Up: BugForge Daily Challenge — Galaxy Dash with Arbitrary File Read via Avatar File Path… | Athiwat Tiprasaharn | [Read More](https://medium.com/p/6008905fba8e) |
+| Sun, 31 May 2026 16:48:24 GMT | One Shot | Adeayo | [Read More](https://medium.com/p/56d41067e617) |
+| Sun, 31 May 2026 16:43:36 GMT | Automating Network Threat Isolation: A Multi-Agent AI Approach | Jaime G.E. | [Read More](https://medium.com/p/ff1faca35d97) |
+| Sun, 31 May 2026 16:37:18 GMT | Why We Trust People Who’ve Seen Us Fall Apart | Ashok V.A | [Read More](https://medium.com/p/1e5f9340cd02) |
+| Sun, 31 May 2026 16:36:33 GMT | Learn to Hack AWS by Hacking AWS. | ShadowForge | [Read More](https://medium.com/p/90be57eb84af) |
+| Sun, 31 May 2026 16:35:54 GMT | AI vs. Cybersecurity: Who’s Actually Winning? | Arden Sovereign | [Read More](https://medium.com/p/c2e900b5c56e) |
+| Sun, 31 May 2026 16:33:49 GMT | TryHackMe GoldenEye Walkthrough: From Enumeration to Root | Dharmendrakumar | [Read More](https://medium.com/p/4f376fb5582a) |
+| Sun, 31 May 2026 16:33:40 GMT | Stage 0.4 — Linux Fundamentals | Rencberakman | [Read More](https://medium.com/p/093ffc96cb50) |
+| Sun, 31 May 2026 16:31:48 GMT | https://taskplanet.chottu.link/HBoJDY | Biswajit Samanta | [Read More](https://medium.com/p/39643f51238c) |
+| Sun, 31 May 2026 16:21:13 GMT | The Hacking Myth vs. The Boring Reality | Arden Sovereign | [Read More](https://medium.com/p/66fbb6a174ee) |
+| Sun, 31 May 2026 16:10:05 GMT | The Bug That Took 6 Months to Fix: My Journey to NASA's Hall of Fame | JUN41D | [Read More](https://medium.com/p/2ff5192cf317) |
+| Sun, 31 May 2026 16:07:43 GMT | Privilege Escalation: How Cybercriminals Steal the Keys to the Kingdom | Mahidul Haque | [Read More](https://medium.com/p/83ac7b02d417) |
+| Sun, 31 May 2026 15:55:31 GMT | The Sociology of My Own Life. | Ghar Ki Choti Beti | [Read More](https://medium.com/p/eb1e67158d8d) |
+| Sun, 31 May 2026 15:51:31 GMT | Come spiare WhatsApp eludendo la crittografia End-to-End | Mario Rossi | [Read More](https://medium.com/p/0ac6f8b62379) |
 | Sun, 31 May 2026 15:48:16 GMT | SSRF with filter bypass via open redirection vulnerability | Cybernerddd | [Read More](https://medium.com/p/89ee253a1a99) |
 | Sun, 31 May 2026 15:39:20 GMT | Why Certifications Still Matter | Keegan Justis | [Read More](https://medium.com/p/0442e4002841) |
 | Sun, 31 May 2026 15:34:58 GMT | Your Firewall Is Lying to You: UFW, Docker, and the Ports You Thought Were Blocked | Mohamed Mowafy | [Read More](https://medium.com/p/7ab24ad7feeb) |
@@ -97,19 +113,3 @@ for Senior Engineers & Architects | umesh kushwaha | [Read More](https://medium.
 | Sun, 31 May 2026 08:46:00 GMT | What Actually Happens When You Send an Email | Cyberhackninja | [Read More](https://medium.com/p/ecfa580b7e07) |
 | Sun, 31 May 2026 08:31:00 GMT | IBM Just Bet $5 Billion on Open-Source Security, and the AI Economy Depends on It | Shahadilh | [Read More](https://medium.com/p/a084e1241548) |
 | Sun, 31 May 2026 08:29:51 GMT | Write-Up: BugForge Daily Challenge — Ottergram with Mass assignment to Privilege Escalation | Athiwat Tiprasaharn | [Read More](https://medium.com/p/9de40bb94782) |
-| Sun, 31 May 2026 08:16:59 GMT | How to Use Post-Quantum Encryption in PGP Today | Daniel Herman | [Read More](https://medium.com/p/7e19514f95fc) |
-| Sun, 31 May 2026 08:14:40 GMT | LLM Red Teaming, AI Security & Vibe Coding Security: How Hackers Exploit AI-Powered Applications | COVBEC | [Read More](https://medium.com/p/635169085c62) |
-| Sun, 31 May 2026 08:07:51 GMT | Security Checklist for your Backend Systems (Part 1) | Joshua Etim | [Read More](https://medium.com/p/74c763d5150f) |
-| Sun, 31 May 2026 07:55:36 GMT | Active Directory Objects: Users, Computers, Groups, and Service Accounts | Atharva Deshmukh | [Read More](https://medium.com/p/753c5f6ac3bc) |
-| Sun, 31 May 2026 07:49:32 GMT | The Alza Data Breach That Never Happened | Patrik Žák | [Read More](https://medium.com/p/8e8a27a4a23e) |
-| Sun, 31 May 2026 07:43:08 GMT | Day 7 — Enumerating Applications on Web Servers | Z3r0D4y | [Read More](https://medium.com/p/0e8faccda064) |
-| Sun, 31 May 2026 07:41:07 GMT | Compromising Active Directory Through Failures in Password Security - HackTheBox Skills Assessment | Delta | [Read More](https://medium.com/p/bc9481d6462d) |
-| Sun, 31 May 2026 07:37:59 GMT | Beyond onlyOwner: Fixing Logic Vulnerabilities in DeFi (A RetoSwap Case Study) | rdin777 | [Read More](https://medium.com/p/50328d9259ef) |
-| Sun, 31 May 2026 07:33:02 GMT | Best Python Libraries & Tools for AI and Cybersecurity in 2026 | TechByWilliam | [Read More](https://medium.com/p/293a7361c82e) |
-| Sun, 31 May 2026 07:32:29 GMT | Cybersecurity Certs Vs Skills — 2026 | Kanwarazlan | [Read More](https://medium.com/p/afd8301debcf) |
-| Sun, 31 May 2026 07:27:21 GMT | Bugforge Daily Challenge - Ottergram | Palat Chet | [Read More](https://medium.com/p/163982904a4a) |
-| Sun, 31 May 2026 07:15:00 GMT | I Found a Bug That Could Silently Flip Anyone’s Content Preferences on a Major Adult Site. | anshh.bohara | [Read More](https://medium.com/p/6fc29e2d2470) |
-| Sun, 31 May 2026 07:14:13 GMT | Completely Stuck? Here’s How I Got Out of a Three-Week Dry Spell | Decline | [Read More](https://medium.com/p/3b5e52b82f89) |
-| Sun, 31 May 2026 07:13:59 GMT | The Cost of the Click: What I Wish I Knew Before I Started Blogging About My Addiction | Blogger's Academy | [Read More](https://medium.com/p/f8736c10708b) |
-| Sun, 31 May 2026 07:12:32 GMT | TryHackMe — Jr Penetration Tester Learning Path | Kamal S | [Read More](https://medium.com/p/df079b558aa1) |
-| Sun, 31 May 2026 06:49:51 GMT | Subdomain Takeover: The Silent Killer of Web Security — Tryhackme Lab Walkthrough | Meheraz hossen siyam | [Read More](https://medium.com/p/bbe3c0da735d) |
