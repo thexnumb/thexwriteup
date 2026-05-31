@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 May 2026 20:07:30 GMT | Why AI will not fully replace Human Pentesters and Red Teamers (It actually works to their favor) | Sazed369 | [Read More](https://medium.com/p/c1b363b708a2) |
+| Sun, 31 May 2026 20:03:32 GMT | Your EC2 Instances Are Probably Exposed Right Now | Tarek CHEIKH | [Read More](https://medium.com/p/50a836eb4731) |
+| Sun, 31 May 2026 19:56:11 GMT | THE_HATE C2: Hiding Command & Control Inside DNS + Image Hosting | Diamorphine | [Read More](https://medium.com/p/efcb3d8fa64b) |
+| Sun, 31 May 2026 19:52:37 GMT | Beyond Antivirus: Using Hardware Signals to Monitor Edge AI Systems | Amol Singh | [Read More](https://medium.com/p/944a031561e7) |
+| Sun, 31 May 2026 19:41:00 GMT | Azure Key Vault Access Troubleshooting Without Guesswork | Practical IT | [Read More](https://medium.com/p/fb0160d12194) |
+| Sun, 31 May 2026 19:39:10 GMT | How I Hacked My Way Through the eMAPT Exam | rihanna0xf | [Read More](https://medium.com/p/a807b03cd4db) |
+| Sun, 31 May 2026 19:34:25 GMT | 5 Cybersecurity Threats That Will Hit Your Organization in 2026 — And the Toolkit That Stops Them | SecPrompts | [Read More](https://medium.com/p/b35f81a2eafe) |
+| Sun, 31 May 2026 19:23:39 GMT | I Escaped a Docker Container Running as Root — Here’s How | Luka Klaric | [Read More](https://medium.com/p/7f352ba3387d) |
+| Sun, 31 May 2026 19:15:29 GMT | Reconstruction of HSR Network Topology Using Statistical Analysis of IEC 61850 GOOSE Message… | Pavel Konovalov | [Read More](https://medium.com/p/dc58a7e53f2c) |
+| Sun, 31 May 2026 19:11:15 GMT | Killing Shadow AI: Architecting Zero-Trust MCP Gateways for the Agentic Data Cloud | abhishek khaparde | [Read More](https://medium.com/p/67b2ccc86977) |
+| Sun, 31 May 2026 19:06:54 GMT | The Homework Script That Accidentally Solved the Quantum Problem | Rebanta Daadhiich | [Read More](https://medium.com/p/e0a2c2c04dc3) |
+| Sun, 31 May 2026 19:06:48 GMT | The World’s Biggest Industry Has a Cybersecurity Problem Nobody is Talking About | Anushka Jain | [Read More](https://medium.com/p/aecd0ff3f2da) |
+| Sun, 31 May 2026 18:51:35 GMT | WAF Bypass Methods | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/0313730e13c0) |
+| Sun, 31 May 2026 18:38:37 GMT | The Art of Letting Someone Know Me | Sincerely, Gelly | [Read More](https://medium.com/p/a61c68691d45) |
 | Sun, 31 May 2026 18:36:29 GMT | OAuth Silent Authentication Abuse in Microsoft Entra ID: The Protocol Mechanics Behind Modern… | Ibrahim | [Read More](https://medium.com/p/7cd2004829df) |
 | Sun, 31 May 2026 18:29:18 GMT | Kernel Shield: Reversing the NSecKrnl (Malops.io) Rootkit Driver | Sushant M Mane - The Cyber Veda IN | [Read More](https://medium.com/p/fb4af6bcb19c) |
 | Sun, 31 May 2026 18:29:17 GMT | The OpenClaw Manifesto: Open-Sourcing AI Security | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ffeabeb34e09) |
@@ -99,17 +113,3 @@ for Senior Engineers & Architects | umesh kushwaha | [Read More](https://medium.
 | Sun, 31 May 2026 11:16:00 GMT | You can’t secure what you can’t see | comatrix | [Read More](https://medium.com/p/4628d152e73e) |
 | Sun, 31 May 2026 11:13:37 GMT | CloudSEK Hiring CTF: My Walkthrough of Both Rounds: A late but honest write-up from someone still… | Keshav Singh | [Read More](https://medium.com/p/ad5002d9c239) |
 | Sun, 31 May 2026 11:13:24 GMT | Investigation Breakdown — Part 1 | ghostyjoe | [Read More](https://medium.com/p/7329ea0d9543) |
-| Sun, 31 May 2026 11:10:58 GMT | AI Is Quietly Rewriting Cybersecurity Right Now and Most Companies Are Not Ready | Story of Hina | [Read More](https://medium.com/p/e3e240c3dc56) |
-| Sun, 31 May 2026 11:03:04 GMT | AI Agents Are Taking Over Your Systems — But Who Are They? | akindu himan | [Read More](https://medium.com/p/29117258d2d6) |
-| Sun, 31 May 2026 11:01:00 GMT | OSI Modeli: Ezberlenen 7 Katmandan Daha Fazlası | Aslıhan Zeynep Koç | [Read More](https://medium.com/p/06bb1e42386f) |
-| Sun, 31 May 2026 10:53:35 GMT | Agentic AI for Data protection — Proof of concept: Return on experience | AKLI ILIAS | [Read More](https://medium.com/p/c1eb67b806e4) |
-| Sun, 31 May 2026 10:50:03 GMT | ProFTPD 1.3.5 Remote Code Execution (CVE-2015–3306) - Hackviser Lab Writeup | 0x7ipher | [Read More](https://medium.com/p/4d2e1b19ed81) |
-| Sun, 31 May 2026 10:39:53 GMT | Re-Testing (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/be335af8dcc2) |
-| Sun, 31 May 2026 10:31:48 GMT | Top 15 SOC Tools Every Cybersecurity Professional Should Know in 2026 | Xpert4Cyber | [Read More](https://medium.com/p/0d9e0b776424) |
-| Sun, 31 May 2026 10:27:15 GMT | TryHackMe — Lookback Writeup | Rootseekerx0x | [Read More](https://medium.com/p/cf4139407e38) |
-| Sun, 31 May 2026 10:24:36 GMT | Tek E-Postayla Sızan Veri: AI Agentların Görünmez Saldırı Yüzeyi | Ata Erdemir | [Read More](https://medium.com/p/5c07720ccd2f) |
-| Sun, 31 May 2026 10:24:27 GMT | A Simple Question About WhatsApp Led Me Down a Cybersecurity Rabbit Hole | Disaster | [Read More](https://medium.com/p/97fc8901df22) |
-| Sun, 31 May 2026 10:22:14 GMT | Balancing Top Academics and Coding: How a 10th-Grade Student in Ethiopia is Building the Future of… | Etsubgezhagne | [Read More](https://medium.com/p/31acd69b6f0c) |
-| Sun, 31 May 2026 10:20:18 GMT | Lab on Ethernet LAN Switching and MAC Address Learning | Zekeriya nurudeen | [Read More](https://medium.com/p/e989e3fd005c) |
-| Sun, 31 May 2026 10:19:54 GMT | Your Phone Has Already Been Compromised — You Just Don’t Know It Yet | Ratnesh Dwivedi | [Read More](https://medium.com/p/3f25a87e5f84) |
-| Sun, 31 May 2026 10:16:20 GMT | Why Digital Payment Security Fails at the Middleware Layer - and How to Fix It | Naveed Akram | [Read More](https://medium.com/p/dae5b58da0ba) |
