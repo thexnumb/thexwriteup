@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 May 2026 04:22:19 GMT | WhatsApp At A Biohacking Conference: Why Is It Popular in The Longevity Crowd | Rick Gregson | [Read More](https://medium.com/p/9862e8418c4e) |
+| Sun, 31 May 2026 04:19:43 GMT | Vigolium: The Open Source Vulnerability Scanner Bringing AI Powered Pentesting | Ashwini Puranik | [Read More](https://medium.com/p/328d3b13c66a) |
+| Sun, 31 May 2026 04:19:01 GMT | When Robots Get Hacked: What I Learned Building an AI to Catch Cyber Threats in Robotic Systems | Joanna Raj | [Read More](https://medium.com/p/4228b34d03a1) |
+| Sun, 31 May 2026 04:18:59 GMT | Cybersecurity Students Should Turn Their Notes Into Assets! | Kevork Tarakjian | [Read More](https://medium.com/p/1c5d2bf6d5de) |
+| Sun, 31 May 2026 04:12:25 GMT | AI Threat Modelling: A Practical Walkthrough of the TryHackMe Room | Gajanan Tayde | [Read More](https://medium.com/p/72d632340400) |
+| Sun, 31 May 2026 04:08:04 GMT | AI Hallucinations: When ChatGPT Confidently Lies to You | Umang | [Read More](https://medium.com/p/e54b44cf5831) |
+| Sun, 31 May 2026 03:39:26 GMT | Pentest Swarm AI Tool With Live Access to Nmap, SQLMap, Burp Suite, and Metasploit: The Ultimate… | Surendra Reddy | [Read More](https://medium.com/p/6ea22d11b0bd) |
+| Sun, 31 May 2026 03:31:02 GMT | TrapDoor Malware Is Targeting Solana, Aptos, and Sui Developers. Your Wallet Is the End Game | Relayshieldadmin | [Read More](https://medium.com/p/a4343023b319) |
+| Sun, 31 May 2026 03:31:00 GMT | Why Vulnerability Management Matters in Modern Cloud Environments | Pankaj Aswal | [Read More](https://medium.com/p/68e174b044ff) |
+| Sun, 31 May 2026 03:27:34 GMT | Red Team Tactics for OT: From Initial Access to the Plant Manager’s Report | urjasec | [Read More](https://medium.com/p/ed1171b29613) |
+| Sun, 31 May 2026 03:25:09 GMT | Machine Speed, Human Speed, and the Gap That Is Breaking Cybersecurity | AmieOnSecurity | [Read More](https://medium.com/p/2400eb9fd1d8) |
+| Sun, 31 May 2026 02:55:29 GMT | Cloud Security Mistakes That Lead to Major Data Breaches | Alaric Nyx | [Read More](https://medium.com/p/619ab508a97f) |
+| Sun, 31 May 2026 02:25:11 GMT | On Vulnerability | Grace Madden | [Read More](https://medium.com/p/18cfc6ee6f78) |
+| Sun, 31 May 2026 02:23:34 GMT | How I built a simple Python vulnerability scanner with native uv.lock | Rodrigo Pp Toledo | [Read More](https://medium.com/p/0f724dda6d22) |
+| Sun, 31 May 2026 02:05:17 GMT | Understanding Cyberterrorism: The Psychology and Technical Reality | Chadi | [Read More](https://medium.com/p/4c1f4c4c78ea) |
+| Sun, 31 May 2026 01:37:02 GMT | Your ISP Knows More About You Than You Think — Here’s What a VPN Actually Hides | UCN VPN | [Read More](https://medium.com/p/eb2be2a185dd) |
+| Sun, 31 May 2026 00:59:11 GMT | I Stopped Trying To Learn Everything In Cybersecurity | Satyam Pathania | [Read More](https://medium.com/p/d07449cee5e6) |
+| Sun, 31 May 2026 00:46:38 GMT | ColdBoxEasy — WordPress Theme Editor RCE via curl and Three Paths to Root via sudo - OffSec PG | Roshan Rajbanshi | [Read More](https://medium.com/p/71bde0374470) |
+| Sun, 31 May 2026 00:42:20 GMT | I Am 17. I Built a Free Security Scanner Because the Industry Left Small Businesses Behind. | Defense Stack | [Read More](https://medium.com/p/54892cf2dc6a) |
+| Sun, 31 May 2026 00:37:45 GMT | EvilBox: One — PHP Web Shell RCE + Writable /etc/passwd to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/86677fd5984a) |
+| Sun, 31 May 2026 00:36:24 GMT | JS Analysis Leads to Information disclosure | Rahul Singh Chauhan | [Read More](https://medium.com/p/49c492728bfe) |
+| Sun, 31 May 2026 00:36:22 GMT | I Typed 000000 as the OTP. The Website Let Me In. | LordofHeaven | [Read More](https://medium.com/p/bc88383479d9) |
+| Sun, 31 May 2026 00:33:02 GMT | I Built a Vulnerable SSH Lab to Learn Real Attack Techniques | Handhika Yanuar Pratama | [Read More](https://medium.com/p/20cdb785ab22) |
+| Sun, 31 May 2026 00:12:00 GMT | The Zero-Trust AI Agent: Why Your LLM Shouldn’t Have a Service Account | Rutvik Pandya | [Read More](https://medium.com/p/522ea3e9c192) |
+| Sun, 31 May 2026 00:07:51 GMT | Unpacking the Mess: How I Deal with Hidden Malware Scripts Every Day | Usamajony | [Read More](https://medium.com/p/2a88f5b21cca) |
 | Sun, 31 May 2026 00:07:21 GMT | 3FA is not really being replaced by passkeys | Adina Pirjol | [Read More](https://medium.com/p/44c0053618ca) |
 | Sun, 31 May 2026 00:01:02 GMT | The reassurance you’ve been given is not the same as a guarantee | Templora | [Read More](https://medium.com/p/85a87f69df42) |
 | Sat, 30 May 2026 23:54:28 GMT | The Hidden Danger Behind Systems: Memory and Type Safety | Aybüke | [Read More](https://medium.com/p/dac56d525919) |
@@ -89,28 +114,3 @@ Injection | Rikin K Patel | [Read More](https://medium.com/p/7ea4e34d1aaa) |
 | Sat, 30 May 2026 16:22:48 GMT | Networking in Linux | Abhishek Dubey | [Read More](https://medium.com/p/455d942b7962) |
 | Sat, 30 May 2026 16:19:26 GMT | JWT Security Risks: Common Vulnerabilities and How to Prevent Them | Arulkumaran | [Read More](https://medium.com/p/d66361cb4b25) |
 | Sat, 30 May 2026 16:18:51 GMT | HexScopee | HexScopee | [Read More](https://medium.com/p/0f0913cb0397) |
-| Sat, 30 May 2026 16:16:39 GMT | The Catch-22 of Cross-Chain Bridges: A Deep Dive into a Fund-Locking Flaw in Polkadot’s Snowbridge | Mohamed Tamer | [Read More](https://medium.com/p/21836d0ac00e) |
-| Sat, 30 May 2026 16:10:58 GMT | NGINX Made Simple: The Web Server That Does More Than You Think | Thurunu Mihiranga | [Read More](https://medium.com/p/ca81126cebff) |
-| Sat, 30 May 2026 16:09:40 GMT | Network Detective | Myles Corey | [Read More](https://medium.com/p/4b7a3756566a) |
-| Sat, 30 May 2026 16:07:50 GMT | Still stuck in a 4-year tech degree plan? | Theusamaabdullah | [Read More](https://medium.com/p/454dd834ed98) |
-| Sat, 30 May 2026 16:06:32 GMT | DRP vs Threat Intelligence vs Attack Surface Management: What’s the Difference? | Praveen Dhakad | [Read More](https://medium.com/p/9f5dabbacae2) |
-| Sat, 30 May 2026 15:56:07 GMT | OSI model | Petersmuditha | [Read More](https://medium.com/p/9a5e8b92afe4) |
-| Sat, 30 May 2026 15:39:10 GMT | Cloud Security Compliance: Why It Matters and How Cloud Security Differs from On-Prem Security ☁️ | Manula Udyoga | [Read More](https://medium.com/p/00c3990117a3) |
-| Sat, 30 May 2026 15:32:10 GMT | How Hackers Find Weak Wi-Fi Without Being Some Movie Genius | Ben Treder | [Read More](https://medium.com/p/50992e25b82c) |
-| Sat, 30 May 2026 15:29:20 GMT | How to Choose a Target That Won’t Waste Your Time | Decline | [Read More](https://medium.com/p/1a627a6519de) |
-| Sat, 30 May 2026 15:26:41 GMT | IDOR BugBounty Labs: 5 Realistic Challenges to Master Insecure Direct Object Reference | CyberJson | [Read More](https://medium.com/p/114894ed40de) |
-| Sat, 30 May 2026 15:23:31 GMT | The AI Security Dilemma | Aimoneyproofficial | [Read More](https://medium.com/p/f88bc319def3) |
-| Sat, 30 May 2026 15:21:35 GMT | Why So Many Cybersecurity Certs Feel Useless After You Pass Them | Jbird | [Read More](https://medium.com/p/cabfa8b8d6b3) |
-| Sat, 30 May 2026 15:21:00 GMT | Modern Dating Made Everybody Emotionally Defensive | Abscordida | [Read More](https://medium.com/p/0f6cde1cb92f) |
-| Sat, 30 May 2026 15:05:12 GMT | GhostSecure CTF: A Walkthrough of Manual Asset Analysis and Directory Discovery | Kavitajoshi Kiran | [Read More](https://medium.com/p/d26f14329d34) |
-| Sat, 30 May 2026 15:02:01 GMT | Why Security Feels Different Around AI | Vettan | [Read More](https://medium.com/p/6212420efa23) |
-| Sat, 30 May 2026 15:01:37 GMT | Stop Bookmarking, Start Hunting: Streamlining SOC Workflows with RAIN | D8c | [Read More](https://medium.com/p/93ab3a582e0f) |
-| Sat, 30 May 2026 15:00:02 GMT | Anthropic Just Built the Security Tool Everyone Wanted. It Still Won’t Replace the Market. | Tushar Adhao | [Read More](https://medium.com/p/3b69355d3d1f) |
-| Sat, 30 May 2026 14:59:59 GMT | Panduan Lab Portwigger — SQL Injection (Lab 2) | Dwi Putra | [Read More](https://medium.com/p/76be0f7fddb0) |
-| Sat, 30 May 2026 14:57:01 GMT | Microsoft’s Own Antivirus Just Became the Hacker’s Best Friend. Here’s What’s Being Done About It. | Jazz Cyber Shield | [Read More](https://medium.com/p/0708f65d3581) |
-| Sat, 30 May 2026 14:50:05 GMT | Five Small Fortifications That Make Supply‑Chain Attacks Less Scary | Neel Neelakantan | [Read More](https://medium.com/p/f3cb733823d0) |
-| Sat, 30 May 2026 14:36:52 GMT | Retail Security Service in Vancouver for Loss Prevention | Grit Security | [Read More](https://medium.com/p/0a44f41f05e2) |
-| Sat, 30 May 2026 14:30:39 GMT | CSS Injection in Real Bug Bounty Engagements: A Reproducible Pattern in Custom Profile Features | Youanes safwat | [Read More](https://medium.com/p/80df89377723) |
-| Sat, 30 May 2026 14:21:45 GMT | I Stopped a Cyberattack in 10 Seconds. Here’s the Exact Toolkit I Used. | SecPrompts | [Read More](https://medium.com/p/8bef3f87ab89) |
-| Sat, 30 May 2026 14:18:43 GMT | How I Built an AI‑First, Secure ERP Workflow Agents, an Integration Bridge, and a Dev Loop That… | Lutfi Krasnici | [Read More](https://medium.com/p/83ddc8bcadb1) |
-| Sat, 30 May 2026 14:16:51 GMT | 04: If It’s Everyone’s Problem, It’s No One’s Problem | Rashi Jaiswal | [Read More](https://medium.com/p/59163649eea0) |
