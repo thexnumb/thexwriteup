@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 May 2026 15:48:16 GMT | SSRF with filter bypass via open redirection vulnerability | Cybernerddd | [Read More](https://medium.com/p/89ee253a1a99) |
+| Sun, 31 May 2026 15:39:20 GMT | Why Certifications Still Matter | Keegan Justis | [Read More](https://medium.com/p/0442e4002841) |
+| Sun, 31 May 2026 15:34:58 GMT | Your Firewall Is Lying to You: UFW, Docker, and the Ports You Thought Were Blocked | Mohamed Mowafy | [Read More](https://medium.com/p/7ab24ad7feeb) |
+| Sun, 31 May 2026 15:34:14 GMT | The Fish Tank Lesson: Every Device Is a Door | Ruben Clarke | [Read More](https://medium.com/p/a699d134eeea) |
+| Sun, 31 May 2026 15:23:42 GMT | Detection Rules That Matter: Writing Bad, Good, and Great Sigma/YARA Rules | seif | [Read More](https://medium.com/p/3c047c4d1ff9) |
+| Sun, 31 May 2026 15:17:39 GMT | What Does an Investment Fraud Law Firm Do? | Decode Help | [Read More](https://medium.com/p/3c5c7f8b2dd7) |
+| Sun, 31 May 2026 15:17:13 GMT | How to Build a Secure MCP Server: The Middle-Tier Gatekeeper Pattern | Akshay K Gupta | [Read More](https://medium.com/p/c5b2a5e17d37) |
+| Sun, 31 May 2026 15:08:45 GMT | You Have 10 Seconds: Can You Spot This Cyber Attack? | Jakkalakshmikoumudi | [Read More](https://medium.com/p/f74791e1a09e) |
+| Sun, 31 May 2026 15:08:33 GMT | Still paying 4 years for tech skills? | Theusamaabdullah | [Read More](https://medium.com/p/3c641eaee36b) |
+| Sun, 31 May 2026 15:08:10 GMT | 為什麼我們創立唄粉智能：讓創作者行銷從一次性合作，變成可累積的品牌資產 | Ruei-Chi Huang | [Read More](https://medium.com/p/b8b47b3aee6b) |
+| Sun, 31 May 2026 15:06:03 GMT | A Critical OAuth Vulnerability in a Data Visualization Platform: One-Click Account Takeover | karincayiyen | [Read More](https://medium.com/p/959199aa4539) |
+| Sun, 31 May 2026 15:02:17 GMT | The Breadcrumbs, Mason! What do they mean?! | Marvin Sewell | [Read More](https://medium.com/p/c190062a9092) |
+| Sun, 31 May 2026 14:56:52 GMT | I Built an App to Stop the Subscription Bleed — One Night, Local AI Only | Bleu I Bombade | [Read More](https://medium.com/p/94754f0a4509) |
+| Sun, 31 May 2026 14:51:10 GMT | Why Did I Completely Disconnect My Development Environment From the Internet? | Emine Ozlem Kaygas | [Read More](https://medium.com/p/2d5c8f224cdd) |
+| Sun, 31 May 2026 14:43:34 GMT | Nightmare-Eclipse Vs Microsoft, Hacker finds 6 Vulnerabilities in OS 11, and Now Almost Seven? | The Husky Hacker | [Read More](https://medium.com/p/94a6f7fe5e0c) |
+| Sun, 31 May 2026 14:34:25 GMT | iPhone 18: What We Know So Far And What Actually Matters | abualyaanart | [Read More](https://medium.com/p/4c79d40acb4a) |
+| Sun, 31 May 2026 14:33:41 GMT | When “We’ll Look Into It” Means “We’ll Upload It to the Website” | cyber security | [Read More](https://medium.com/p/45cab10f1d29) |
+| Sun, 31 May 2026 14:29:38 GMT | How Enterprise Email Security Gateways Detect GoPhish Campaigns | COFFSec | [Read More](https://medium.com/p/b30d2f56022d) |
+| Sun, 31 May 2026 14:22:36 GMT | Unauthorized Role Assignment via Registration using OPTIONS Method | Xer0 | [Read More](https://medium.com/p/0c8e53055203) |
+| Sun, 31 May 2026 14:21:39 GMT | Salesforce MFA Just Got Serious : A Practical Guide to Phishing-Resistant Authentication | Brahim LAISSAOUI | [Read More](https://medium.com/p/aae2573cc5f5) |
 | Sun, 31 May 2026 14:06:12 GMT | I just wanted to download a `.char` file. | Veather | [Read More](https://medium.com/p/27fcd027d9d2) |
 | Sun, 31 May 2026 14:02:05 GMT | #NowIKnowThat: It’s Not Just Us, Technostress Is Real | Let's Learn with Reva | [Read More](https://medium.com/p/a8173a9f81e9) |
 | Sun, 31 May 2026 13:59:40 GMT | IT DOESN'T MAKE SENSE TO TRUST GOD | Martha kolo | [Read More](https://medium.com/p/cdc2a82f0d60) |
@@ -93,23 +113,3 @@ for Senior Engineers & Architects | umesh kushwaha | [Read More](https://medium.
 | Sun, 31 May 2026 07:13:59 GMT | The Cost of the Click: What I Wish I Knew Before I Started Blogging About My Addiction | Blogger's Academy | [Read More](https://medium.com/p/f8736c10708b) |
 | Sun, 31 May 2026 07:12:32 GMT | TryHackMe — Jr Penetration Tester Learning Path | Kamal S | [Read More](https://medium.com/p/df079b558aa1) |
 | Sun, 31 May 2026 06:49:51 GMT | Subdomain Takeover: The Silent Killer of Web Security — Tryhackme Lab Walkthrough | Meheraz hossen siyam | [Read More](https://medium.com/p/bbe3c0da735d) |
-| Sun, 31 May 2026 06:48:25 GMT | Building a Detection Lab for ATT&CK T1190: Monitoring SQLi, XSS, File Uploads, and Brute Force… | Sanjeevkumar | [Read More](https://medium.com/p/ab4d842ea555) |
-| Sun, 31 May 2026 06:36:30 GMT | iOS SSL Pinning Bypass: Every Technique Ranked in 2025 | Akifkhan | [Read More](https://medium.com/p/863e5c49dae9) |
-| Sun, 31 May 2026 06:34:14 GMT | GBBS64 - Free Post Your String | Phong Tran | [Read More](https://medium.com/p/5bef27be06c3) |
-| Sun, 31 May 2026 06:21:07 GMT | VulnOSv2 Walkthrough — Drupalgeddon2 to Root via OverlayFS | Ajaydevsv | [Read More](https://medium.com/p/d0a00aa64129) |
-| Sun, 31 May 2026 06:13:47 GMT | Why Companies Pay People to Hack Their Systems | Flexi Dev Studio | [Read More](https://medium.com/p/21767d6e89d6) |
-| Sun, 31 May 2026 06:00:50 GMT | Linux systemd Explained: The Beginner-Friendly Guide to Understanding Linux’s Brain (With a… | Alwinaji | [Read More](https://medium.com/p/68e792521870) |
-| Sun, 31 May 2026 05:59:52 GMT | Linux Users & Groups Explained: A Beginner-Friendly Guide with a Hands-On Security Lab | Alwinaji | [Read More](https://medium.com/p/e8459d7befeb) |
-| Sun, 31 May 2026 05:47:46 GMT | OAuth delegation for Agents (OBO) | Sourav Kumar | [Read More](https://medium.com/p/1e75616c2033) |
-| Sun, 31 May 2026 05:44:58 GMT | Agentic Security Architecture: What It Means for Building Secure AI/ML Systems - May 2026 | ab1sh3k | [Read More](https://medium.com/p/d24c83ae8c22) |
-| Sun, 31 May 2026 05:23:10 GMT | The Pursuit of Curiosity: Why I’m Choosing to Build and Secure the Future | Rituraj Singh | [Read More](https://medium.com/p/bf17742418d8) |
-| Sun, 31 May 2026 05:20:55 GMT | AI Hacking 101 | Anurag Tiwari | [Read More](https://medium.com/p/eccb9ae65511) |
-| Sun, 31 May 2026 05:01:01 GMT | The Digital Risk Score: How to Measure Your Cyber Exposure | Praveen Dhakad | [Read More](https://medium.com/p/405f5747c0cb) |
-| Sun, 31 May 2026 04:22:19 GMT | WhatsApp At A Biohacking Conference: Why Is It Popular in The Longevity Crowd | Rick Gregson | [Read More](https://medium.com/p/9862e8418c4e) |
-| Sun, 31 May 2026 04:19:43 GMT | Vigolium: The Open Source Vulnerability Scanner Bringing AI Powered Pentesting | Ashwini Puranik | [Read More](https://medium.com/p/328d3b13c66a) |
-| Sun, 31 May 2026 04:19:01 GMT | When Robots Get Hacked: What I Learned Building an AI to Catch Cyber Threats in Robotic Systems | Joanna Raj | [Read More](https://medium.com/p/4228b34d03a1) |
-| Sun, 31 May 2026 04:18:59 GMT | Cybersecurity Students Should Turn Their Notes Into Assets! | Kevork Tarakjian | [Read More](https://medium.com/p/1c5d2bf6d5de) |
-| Sun, 31 May 2026 04:12:25 GMT | AI Threat Modelling: A Practical Walkthrough of the TryHackMe Room | Gajanan Tayde | [Read More](https://medium.com/p/72d632340400) |
-| Sun, 31 May 2026 04:08:04 GMT | AI Hallucinations: When ChatGPT Confidently Lies to You | Umang | [Read More](https://medium.com/p/e54b44cf5831) |
-| Sun, 31 May 2026 03:39:26 GMT | Pentest Swarm AI Tool With Live Access to Nmap, SQLMap, Burp Suite, and Metasploit: The Ultimate… | Surendra Reddy | [Read More](https://medium.com/p/6ea22d11b0bd) |
-| Sun, 31 May 2026 03:31:02 GMT | TrapDoor Malware Is Targeting Solana, Aptos, and Sui Developers. Your Wallet Is the End Game | Relayshieldadmin | [Read More](https://medium.com/p/a4343023b319) |
