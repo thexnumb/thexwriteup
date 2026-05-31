@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 May 2026 21:08:19 GMT | Mitigating Mass Data Poisoning in AI Ecosystems via the Multi-Agent Logical Inconsistency & Energy… | Thanyakorn Roungrodkitjakarn | [Read More](https://medium.com/p/9bf86ff5a81d) |
+| Sun, 31 May 2026 21:01:31 GMT | Claude AI: How Smart Teams Cut AI Costs by 80% Without Sacrificing Quality | Ravindra Annam | [Read More](https://medium.com/p/5c1f54c6cff8) |
+| Sun, 31 May 2026 20:54:45 GMT | Applying Credit Risk Models to Vulnerability Prioritization | David Scovetta | [Read More](https://medium.com/p/3fdc47b3d97f) |
+| Sun, 31 May 2026 20:48:34 GMT | Tracking threat actors through AsyncRAT client emulation | Ryan Murphy | [Read More](https://medium.com/p/d7a616898bdc) |
+| Sun, 31 May 2026 20:45:56 GMT | Videos from “CVE/FIRST VulnCon 2026” Now Available | CVE Program Blog | [Read More](https://medium.com/p/cd0aabd3bc9b) |
+| Sun, 31 May 2026 20:28:39 GMT | Bitskrieg: Nightmare Eclipse Just Recruited Microsoft’s Own BlueHammer Researcher | Ali Mansoor | [Read More](https://medium.com/p/c445685ff69d) |
+| Sun, 31 May 2026 20:21:00 GMT | Your CI/CD Pipeline Is the Attack Surface Now | freerave | [Read More](https://medium.com/p/d77648e7c641) |
+| Sun, 31 May 2026 20:16:15 GMT | Metasploit: The Basics (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/eadb60ae1061) |
+| Sun, 31 May 2026 20:12:06 GMT | The Cortex Search Vulnerability: Preventing Vector Privilege Escalation with Zero-Trust… | abhishek khaparde | [Read More](https://medium.com/p/10cd3da523a2) |
 | Sun, 31 May 2026 20:07:30 GMT | Why AI will not fully replace Human Pentesters and Red Teamers (It actually works to their favor) | Sazed369 | [Read More](https://medium.com/p/c1b363b708a2) |
 | Sun, 31 May 2026 20:03:32 GMT | Your EC2 Instances Are Probably Exposed Right Now | Tarek CHEIKH | [Read More](https://medium.com/p/50a836eb4731) |
 | Sun, 31 May 2026 19:56:11 GMT | THE_HATE C2: Hiding Command & Control Inside DNS + Image Hosting | Diamorphine | [Read More](https://medium.com/p/efcb3d8fa64b) |
@@ -104,12 +113,3 @@ for Senior Engineers & Architects | umesh kushwaha | [Read More](https://medium.
 | Sun, 31 May 2026 12:05:20 GMT | Best Free Secure Password Generator Online 2026 | Бершацкий Владимир | [Read More](https://medium.com/p/d92204116079) |
 | Sun, 31 May 2026 12:01:01 GMT | The Invisible Data Trail You’re Leaving Every Time You Share a Document | Templora | [Read More](https://medium.com/p/2a3bbe26838d) |
 | Sun, 31 May 2026 11:55:21 GMT | When Middleware Becomes the Weapon: Chaining File Upload to Server-Side Code Execution | F4R1S | [Read More](https://medium.com/p/872cad7e6eb1) |
-| Sun, 31 May 2026 11:49:56 GMT | Tempest Projesi nedir? Tempest Uyumluluğu ve Sertifikasyonu Nedir? Siber Güvenliğin Gizli Tarihi | Alperen Kılıç | [Read More](https://medium.com/p/f1252d41e3a4) |
-| Sun, 31 May 2026 11:44:03 GMT | Best Institute for Cybersecurity Summer Internship After 12th | cybersecuritycourse | [Read More](https://medium.com/p/9ce7d1b887b6) |
-| Sun, 31 May 2026 11:36:28 GMT | Testing File Upload Vulnerability in web applications!!! | cyb3r_Rs | [Read More](https://medium.com/p/eda24f26659a) |
-| Sun, 31 May 2026 11:31:46 GMT | Part 2 of CloudSek Hiring CTF | Keshav Singh | [Read More](https://medium.com/p/20e59bef0cb2) |
-| Sun, 31 May 2026 11:20:53 GMT | Mythos? Oh, Sure. Haha. | hide | [Read More](https://medium.com/p/dfc931f671f0) |
-| Sun, 31 May 2026 11:18:30 GMT | Building and Testing Authenticated Agentic-Flows with Agent Auth Playground | akindu himan | [Read More](https://medium.com/p/c68d0c3da481) |
-| Sun, 31 May 2026 11:16:00 GMT | You can’t secure what you can’t see | comatrix | [Read More](https://medium.com/p/4628d152e73e) |
-| Sun, 31 May 2026 11:13:37 GMT | CloudSEK Hiring CTF: My Walkthrough of Both Rounds: A late but honest write-up from someone still… | Keshav Singh | [Read More](https://medium.com/p/ad5002d9c239) |
-| Sun, 31 May 2026 11:13:24 GMT | Investigation Breakdown — Part 1 | ghostyjoe | [Read More](https://medium.com/p/7329ea0d9543) |
