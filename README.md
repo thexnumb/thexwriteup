@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 31 May 2026 14:06:12 GMT | I just wanted to download a `.char` file. | Veather | [Read More](https://medium.com/p/27fcd027d9d2) |
+| Sun, 31 May 2026 14:02:05 GMT | #NowIKnowThat: It’s Not Just Us, Technostress Is Real | Let's Learn with Reva | [Read More](https://medium.com/p/a8173a9f81e9) |
+| Sun, 31 May 2026 13:59:40 GMT | IT DOESN'T MAKE SENSE TO TRUST GOD | Martha kolo | [Read More](https://medium.com/p/cdc2a82f0d60) |
+| Sun, 31 May 2026 13:54:25 GMT | ADA ESA Violation: Unlawfully Arrested, Profiled, and Stripped of My Federal Rights in Houston | Mr. Thurman Robinson, M.S., CFO | [Read More](https://medium.com/p/bad737570ae4) |
+| Sun, 31 May 2026 13:47:38 GMT | Metasploitable 2 — What a Fully Compromised System Actually Looks Like | Parthasarathi M R | [Read More](https://medium.com/p/a3706fc762e9) |
+| Sun, 31 May 2026 13:39:42 GMT | Between Unmet Transparency Obligations and Contradictions in Communication | AKUMAAYORI | [Read More](https://medium.com/p/d73adc86119f) |
+| Sun, 31 May 2026 13:39:22 GMT | LockByte — Argon2id | o7.hunt3r | [Read More](https://medium.com/p/ec4abfd80cc3) |
+| Sun, 31 May 2026 13:36:56 GMT | This Recon Tool Automates Everything  - MAXMAP | Pentester Club | [Read More](https://medium.com/p/41816f4e9ee4) |
+| Sun, 31 May 2026 13:32:51 GMT | The Dark Web Is Not a Haunted House. It’s a Back Alley With Receipts. | Travis Ray Caverhill | [Read More](https://medium.com/p/7a092d32c026) |
+| Sun, 31 May 2026 13:28:24 GMT | Spring Boot Interview Questions
+for Senior Engineers & Architects | umesh kushwaha | [Read More](https://medium.com/p/8e9c567fa4e1) |
+| Sun, 31 May 2026 13:18:55 GMT | CISSP Chapter 3 — Part 4: A Plan Is Only Real When It Is Approved, Understood, and Rehearsed. | Atakan ATAK | [Read More](https://medium.com/p/194a446a3b7d) |
+| Sun, 31 May 2026 13:18:41 GMT | Fake Party Invite Scam: How to Stay Safe Before You Click | Nina | [Read More](https://medium.com/p/f0d5815a9121) |
+| Sun, 31 May 2026 13:18:06 GMT | Network Pusulası #5 — VLAN Hopping: Switch’i Kendi Kuralıyla Kandırmak | Toprak Külekçioğlu | [Read More](https://medium.com/p/a6d5654fd597) |
+| Sun, 31 May 2026 13:07:10 GMT | The Vendor Door: How Third Parties Become the Weakest Link in Healthcare Security | Travis Ray Caverhill | [Read More](https://medium.com/p/0e2415dc2596) |
+| Sun, 31 May 2026 13:00:31 GMT | Splunk Architecture Explained: How Data Travels from Source to Insight | Aditya Kumar | [Read More](https://medium.com/p/20a68b434539) |
+| Sun, 31 May 2026 12:36:00 GMT | Digital Marketing in the AI Era: Why Privacy and Security Matter More | Aynun Nipa | [Read More](https://medium.com/p/e698fe43be88) |
+| Sun, 31 May 2026 12:33:34 GMT | #Gdbreviews: “Plurality” – The Book That Proves Technology Can Still Be Good | Balasubramaniam GD | [Read More](https://medium.com/p/48b0e9a5e578) |
+| Sun, 31 May 2026 12:27:52 GMT | What Happens in the First 60 Seconds After a Hacker Targets You? | pavani | [Read More](https://medium.com/p/82085e59e77c) |
+| Sun, 31 May 2026 12:05:20 GMT | Best Free Secure Password Generator Online 2026 | Бершацкий Владимир | [Read More](https://medium.com/p/d92204116079) |
 | Sun, 31 May 2026 12:01:01 GMT | The Invisible Data Trail You’re Leaving Every Time You Share a Document | Templora | [Read More](https://medium.com/p/2a3bbe26838d) |
 | Sun, 31 May 2026 11:55:21 GMT | When Middleware Becomes the Weapon: Chaining File Upload to Server-Side Code Execution | F4R1S | [Read More](https://medium.com/p/872cad7e6eb1) |
 | Sun, 31 May 2026 11:49:56 GMT | Tempest Projesi nedir? Tempest Uyumluluğu ve Sertifikasyonu Nedir? Siber Güvenliğin Gizli Tarihi | Alperen Kılıç | [Read More](https://medium.com/p/f1252d41e3a4) |
@@ -93,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 May 2026 04:08:04 GMT | AI Hallucinations: When ChatGPT Confidently Lies to You | Umang | [Read More](https://medium.com/p/e54b44cf5831) |
 | Sun, 31 May 2026 03:39:26 GMT | Pentest Swarm AI Tool With Live Access to Nmap, SQLMap, Burp Suite, and Metasploit: The Ultimate… | Surendra Reddy | [Read More](https://medium.com/p/6ea22d11b0bd) |
 | Sun, 31 May 2026 03:31:02 GMT | TrapDoor Malware Is Targeting Solana, Aptos, and Sui Developers. Your Wallet Is the End Game | Relayshieldadmin | [Read More](https://medium.com/p/a4343023b319) |
-| Sun, 31 May 2026 03:31:00 GMT | Why Vulnerability Management Matters in Modern Cloud Environments | Pankaj Aswal | [Read More](https://medium.com/p/68e174b044ff) |
-| Sun, 31 May 2026 03:27:34 GMT | Red Team Tactics for OT: From Initial Access to the Plant Manager’s Report | urjasec | [Read More](https://medium.com/p/ed1171b29613) |
-| Sun, 31 May 2026 03:25:09 GMT | Machine Speed, Human Speed, and the Gap That Is Breaking Cybersecurity | AmieOnSecurity | [Read More](https://medium.com/p/2400eb9fd1d8) |
-| Sun, 31 May 2026 02:55:29 GMT | Cloud Security Mistakes That Lead to Major Data Breaches | Alaric Nyx | [Read More](https://medium.com/p/619ab508a97f) |
-| Sun, 31 May 2026 02:25:11 GMT | On Vulnerability | Grace Madden | [Read More](https://medium.com/p/18cfc6ee6f78) |
-| Sun, 31 May 2026 02:23:34 GMT | How I built a simple Python vulnerability scanner with native uv.lock | Rodrigo Pp Toledo | [Read More](https://medium.com/p/0f724dda6d22) |
-| Sun, 31 May 2026 02:05:17 GMT | Understanding Cyberterrorism: The Psychology and Technical Reality | Chadi | [Read More](https://medium.com/p/4c1f4c4c78ea) |
-| Sun, 31 May 2026 01:37:02 GMT | Your ISP Knows More About You Than You Think — Here’s What a VPN Actually Hides | UCN VPN | [Read More](https://medium.com/p/eb2be2a185dd) |
-| Sun, 31 May 2026 00:59:11 GMT | I Stopped Trying To Learn Everything In Cybersecurity | Satyam Pathania | [Read More](https://medium.com/p/d07449cee5e6) |
-| Sun, 31 May 2026 00:46:38 GMT | ColdBoxEasy — WordPress Theme Editor RCE via curl and Three Paths to Root via sudo - OffSec PG | Roshan Rajbanshi | [Read More](https://medium.com/p/71bde0374470) |
-| Sun, 31 May 2026 00:42:20 GMT | I Am 17. I Built a Free Security Scanner Because the Industry Left Small Businesses Behind. | Defense Stack | [Read More](https://medium.com/p/54892cf2dc6a) |
-| Sun, 31 May 2026 00:37:45 GMT | EvilBox: One — PHP Web Shell RCE + Writable /etc/passwd to Root - OffSec PG Play | Roshan Rajbanshi | [Read More](https://medium.com/p/86677fd5984a) |
-| Sun, 31 May 2026 00:36:24 GMT | JS Analysis Leads to Information disclosure | Rahul Singh Chauhan | [Read More](https://medium.com/p/49c492728bfe) |
-| Sun, 31 May 2026 00:36:22 GMT | I Typed 000000 as the OTP. The Website Let Me In. | LordofHeaven | [Read More](https://medium.com/p/bc88383479d9) |
-| Sun, 31 May 2026 00:33:02 GMT | I Built a Vulnerable SSH Lab to Learn Real Attack Techniques | Handhika Yanuar Pratama | [Read More](https://medium.com/p/20cdb785ab22) |
-| Sun, 31 May 2026 00:12:00 GMT | The Zero-Trust AI Agent: Why Your LLM Shouldn’t Have a Service Account | Rutvik Pandya | [Read More](https://medium.com/p/522ea3e9c192) |
-| Sun, 31 May 2026 00:07:51 GMT | Unpacking the Mess: How I Deal with Hidden Malware Scripts Every Day | Usamajony | [Read More](https://medium.com/p/2a88f5b21cca) |
-| Sun, 31 May 2026 00:07:21 GMT | 3FA is not really being replaced by passkeys | Adina Pirjol | [Read More](https://medium.com/p/44c0053618ca) |
-| Sun, 31 May 2026 00:01:02 GMT | The reassurance you’ve been given is not the same as a guarantee | Templora | [Read More](https://medium.com/p/85a87f69df42) |
