@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Jun 2026 23:27:04 GMT | AWS Outposts Migration Security Considerations: Part 2 | Robert Broeckelmann | [Read More](https://medium.com/p/6cb153f3c863) |
+| Mon, 01 Jun 2026 23:15:59 GMT | I Investigated a Real Phishing Email. Here’s Exactly What I Found. | Sabarish | [Read More](https://medium.com/p/5f1002ea7c89) |
+| Mon, 01 Jun 2026 23:03:13 GMT | Why official-looking scam messages can confuse international students？ | Hanliying (Lilian) Zhu | [Read More](https://medium.com/p/b32e15ec9fc8) |
+| Mon, 01 Jun 2026 22:59:33 GMT | You Don’t Have a DevOps Problem. You Have a Business Problem. | Gabriel Okiri | [Read More](https://medium.com/p/33b26713c4d7) |
+| Mon, 01 Jun 2026 22:53:04 GMT | i | disisnother | [Read More](https://medium.com/p/8b0e65affa15) |
+| Mon, 01 Jun 2026 22:48:30 GMT | What Actually Happens When You Run a Port Scanner?
+(I Built One to Find Out) | Abdulmujeeb Uthman | [Read More](https://medium.com/p/642deea33e28) |
+| Mon, 01 Jun 2026 22:41:28 GMT | From Chaos to Capability — A Critical Assessment | setec astronomy | [Read More](https://medium.com/p/a53921c000a6) |
+| Mon, 01 Jun 2026 22:38:43 GMT | Poisoned Trust in the Fleet Registry: A Walkthrough of REGISTRY-1 and HERALD-1 | Jose A Ruiz Marquez | [Read More](https://medium.com/p/ef74ddf01325) |
+| Mon, 01 Jun 2026 22:28:50 GMT | The Unglamorous Truth About Running a Security Program Solo | Travis Stein | [Read More](https://medium.com/p/f3854b854a08) |
+| Mon, 01 Jun 2026 22:25:44 GMT | How a Broken Face ID and Stolen Device Protection Locked Me Out of My Own iPhone | Joelle Mahfoud | [Read More](https://medium.com/p/462992c5b3b8) |
+| Mon, 01 Jun 2026 22:20:30 GMT | The Blind Spot in Wealth Management: Why Every Family Needs a Personal Risk Management Strategy | Justin Butler | [Read More](https://medium.com/p/3ebf43a7b4c7) |
+| Mon, 01 Jun 2026 22:14:14 GMT | The JBS Hack: Where’s the Beef? | BlastWave | [Read More](https://medium.com/p/3f7ef3207820) |
 | Mon, 01 Jun 2026 22:11:00 GMT | The Open Door Problem: Why Africa’s Digital Market Is Being Unlocked From the Outside. | BenJamin Sylvester | [Read More](https://medium.com/p/47ffdd0c704e) |
 | Mon, 01 Jun 2026 22:03:07 GMT | Fortinet’s Story: The Silicon-to-Cloud Convergent Defense | David SEHYEON Baek | [Read More](https://medium.com/p/09b586ae5a66) |
 | Mon, 01 Jun 2026 21:58:13 GMT | How I Do Recon & To Hunt Bugs My Full Automation Pipeline | cyber security | [Read More](https://medium.com/p/0b069438d12c) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 01 Jun 2026 14:48:31 GMT | Two SQLi vulnerabilities on Reddit in February 2024 | Neemaaf | [Read More](https://medium.com/p/79e204c14f4a) |
 | Mon, 01 Jun 2026 14:46:43 GMT | I Let Python Run My Entire Digital Life for 30 Days — The Results Were Ridiculously Good | Babar saad | [Read More](https://medium.com/p/702e1699fea2) |
 | Mon, 01 Jun 2026 14:31:00 GMT | Shannon, Pentest Swarm AI, and the AI Security Tooling Governance Gap | Bedrettin Cakmak | [Read More](https://medium.com/p/4fb3f77a726e) |
-| Mon, 01 Jun 2026 14:27:46 GMT | I Want to Be a Mom So Bad | Audrey | [Read More](https://medium.com/p/43b47e23575d) |
-| Mon, 01 Jun 2026 14:26:36 GMT | SD-WAN Explained in Plain English — No IT Degree Required | Norahaiden | [Read More](https://medium.com/p/c390159ae543) |
-| Mon, 01 Jun 2026 14:16:14 GMT | Footprinting an Organization | Jesse | [Read More](https://medium.com/p/a9652315f048) |
-| Mon, 01 Jun 2026 14:06:29 GMT | You’re already good at cybersecurity. These resources will make you dangerous with AI. | h@shtalk | [Read More](https://medium.com/p/bbfbad2feef3) |
-| Mon, 01 Jun 2026 14:00:22 GMT | What I Learned From My First TryHackMe Room (Beginner Cybersecurity Journey) | Esha Ashfaq | [Read More](https://medium.com/p/68349f05d21d) |
-| Mon, 01 Jun 2026 13:41:01 GMT | Building the Right Development Team in the Age of Digital Transformation | Xwtempsolutions | [Read More](https://medium.com/p/e4003457229b) |
-| Mon, 01 Jun 2026 13:41:00 GMT | CORS Is Not What Most Developers Think It Is | Aditi | [Read More](https://medium.com/p/7b6670f9d8c7) |
-| Mon, 01 Jun 2026 13:34:49 GMT | The Invisible Device Destroying Your Network Speed (Hint: It’s Your Switch) | Emma Thomas | [Read More](https://medium.com/p/d7a6f58ee12f) |
-| Mon, 01 Jun 2026 13:34:33 GMT | Bug Bounty Bootcamp #41: Remote Command Execution — From Innocent Inputs to Full Server Takeover | Aman Sharma | [Read More](https://medium.com/p/64b39d6e8072) |
-| Mon, 01 Jun 2026 13:26:00 GMT | Why Cybersecurity Already Lost against Business Speed — And What Winners Do Instead | Anthony Johnson | [Read More](https://medium.com/p/d52b2fc33616) |
-| Mon, 01 Jun 2026 13:22:55 GMT | My Thoughts on Intro To IT | Scottjquinn | [Read More](https://medium.com/p/a992f157fbbb) |
-| Mon, 01 Jun 2026 13:15:15 GMT | “Works on My Machine”: How I Reproduce Intermittent Bugs | Higor Mesquita | [Read More](https://medium.com/p/904334750677) |
