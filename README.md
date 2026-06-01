@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 01 Jun 2026 01:23:46 GMT | Prompt injection is structurally unfixable at the model layer. Here’s where the defense actually liv | Igor Ganapolsky | [Read More](https://medium.com/p/d3533c9eb218) |
+| Mon, 01 Jun 2026 01:16:38 GMT | The AI Agent Attack That Unfolds Across 10 Messages — And Why Your Security Tool Misses It | Hannahnine | [Read More](https://medium.com/p/49a8ef55c7a8) |
+| Mon, 01 Jun 2026 00:43:27 GMT | You have been doing API threat modelling wrong — here’s how to fix it using 5 questions | Cyberbali | [Read More](https://medium.com/p/6e1ac235f9e1) |
+| Mon, 01 Jun 2026 00:38:55 GMT | How to get to rank 1 all-time on Tryhackme; my 240 day journey; lessons learnt from 1271 rooms… | CloudRabbit | [Read More](https://medium.com/p/64c61d24317d) |
+| Mon, 01 Jun 2026 00:29:53 GMT | Analysis of DirtyFrag (Vulnerability) | Shubho57 | [Read More](https://medium.com/p/7ea2b9448a03) |
+| Mon, 01 Jun 2026 00:00:11 GMT | หยุดทำร้ายทีม Engineer…ด้วย 3 วิธีจัดการ Bug แบบผิดๆ | "วันละเรื่องสองเรื่อง" (Two Stories a Day) | [Read More](https://medium.com/p/b71c74425d0b) |
+| Sun, 31 May 2026 23:41:37 GMT | AI Inference Isn’t Compute-Bound. It’s Memory-Bound. | Kunle Olutomilayo | [Read More](https://medium.com/p/3f989ea6a95b) |
+| Sun, 31 May 2026 23:19:03 GMT | Another day, another FDE nightmare | Noname | [Read More](https://medium.com/p/8d8577f14b4e) |
+| Sun, 31 May 2026 23:04:20 GMT | I Used Wireshark to Read Someone’s Password Off the Network. Here’s What I Found. | Shumail Moihuddin - Cybersecurity Analyst | [Read More](https://medium.com/p/17c778b01a79) |
+| Sun, 31 May 2026 23:01:35 GMT | Join Team Cyber Talent CTF | ZODiAK | [Read More](https://medium.com/p/03d6b354b797) |
 | Sun, 31 May 2026 22:48:05 GMT | What Nobody Told Me About .env and Frontend Security | Sabita | [Read More](https://medium.com/p/66df17df9927) |
 | Sun, 31 May 2026 22:37:21 GMT | Private Equity and Cybersecurity Growth | David SEHYEON Baek | [Read More](https://medium.com/p/3b99a660468f) |
 | Sun, 31 May 2026 22:37:06 GMT | AllSafe Challenges walkthrough | Modyhisham | [Read More](https://medium.com/p/4098b0ab98bc) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 31 May 2026 15:08:45 GMT | You Have 10 Seconds: Can You Spot This Cyber Attack? | Jakkalakshmikoumudi | [Read More](https://medium.com/p/f74791e1a09e) |
 | Sun, 31 May 2026 15:08:33 GMT | Still paying 4 years for tech skills? | Theusamaabdullah | [Read More](https://medium.com/p/3c641eaee36b) |
 | Sun, 31 May 2026 15:08:10 GMT | 為什麼我們創立唄粉智能：讓創作者行銷從一次性合作，變成可累積的品牌資產 | Ruei-Chi Huang | [Read More](https://medium.com/p/b8b47b3aee6b) |
-| Sun, 31 May 2026 15:06:03 GMT | A Critical OAuth Vulnerability in a Data Visualization Platform: One-Click Account Takeover | karincayiyen | [Read More](https://medium.com/p/959199aa4539) |
-| Sun, 31 May 2026 15:02:17 GMT | The Breadcrumbs, Mason! What do they mean?! | Marvin Sewell | [Read More](https://medium.com/p/c190062a9092) |
-| Sun, 31 May 2026 14:56:52 GMT | I Built an App to Stop the Subscription Bleed — One Night, Local AI Only | Bleu I Bombade | [Read More](https://medium.com/p/94754f0a4509) |
-| Sun, 31 May 2026 14:51:10 GMT | Why Did I Completely Disconnect My Development Environment From the Internet? | Emine Ozlem Kaygas | [Read More](https://medium.com/p/2d5c8f224cdd) |
-| Sun, 31 May 2026 14:43:34 GMT | Nightmare-Eclipse Vs Microsoft, Hacker finds 6 Vulnerabilities in OS 11, and Now Almost Seven? | The Husky Hacker | [Read More](https://medium.com/p/94a6f7fe5e0c) |
-| Sun, 31 May 2026 14:34:25 GMT | iPhone 18: What We Know So Far And What Actually Matters | abualyaanart | [Read More](https://medium.com/p/4c79d40acb4a) |
-| Sun, 31 May 2026 14:33:41 GMT | When “We’ll Look Into It” Means “We’ll Upload It to the Website” | cyber security | [Read More](https://medium.com/p/45cab10f1d29) |
-| Sun, 31 May 2026 14:29:38 GMT | How Enterprise Email Security Gateways Detect GoPhish Campaigns | COFFSec | [Read More](https://medium.com/p/b30d2f56022d) |
-| Sun, 31 May 2026 14:22:36 GMT | Unauthorized Role Assignment via Registration using OPTIONS Method | Xer0 | [Read More](https://medium.com/p/0c8e53055203) |
-| Sun, 31 May 2026 14:21:39 GMT | Salesforce MFA Just Got Serious : A Practical Guide to Phishing-Resistant Authentication | Brahim LAISSAOUI | [Read More](https://medium.com/p/aae2573cc5f5) |
