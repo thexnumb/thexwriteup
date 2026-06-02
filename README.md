@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 02 Jun 2026 22:22:50 GMT | Spy Before You Prompt: Passive Recon for LLM Agents, RAG and the AI Stack | Jonathan (PardaL) | [Read More](https://medium.com/p/3feb2f72aa9b) |
+| Tue, 02 Jun 2026 22:20:04 GMT | Vulnerability Data Enrichment for CVE Records: 259 CNAs on the Enrichment Recognition List for June… | CVE Program Blog | [Read More](https://medium.com/p/0607895261e9) |
+| Tue, 02 Jun 2026 21:51:30 GMT | Certified AppSec Practitioner v2 (CAP) -Minha Experiência e Dicas | Ralph Sonato | [Read More](https://medium.com/p/368058e5e833) |
+| Tue, 02 Jun 2026 21:44:22 GMT | Securing GitHub Actions Pipelines Against Supply Chain Attacks | Vincent Olagbemide | [Read More](https://medium.com/p/3b9e6bf942de) |
+| Tue, 02 Jun 2026 21:35:35 GMT | Based on the provided research documents, here is an in-depth analysis of the psychology… | 346g | [Read More](https://medium.com/p/24ea39e57fb8) |
+| Tue, 02 Jun 2026 21:23:44 GMT | When the System Crashes: Finding Purpose Beyond Productivity | Silas Rowan | [Read More](https://medium.com/p/7617d045de3c) |
+| Tue, 02 Jun 2026 21:21:20 GMT | The Fragmented Reality of Keeping Children Safe Online | Karishma Babu | [Read More](https://medium.com/p/701ced4369f3) |
+| Tue, 02 Jun 2026 21:16:13 GMT | I Turned a Phishing Investigation Into a Full IOC Report. Here’s the Process. | Sabarish | [Read More](https://medium.com/p/c048d028def5) |
+| Tue, 02 Jun 2026 21:04:52 GMT | TryHackMe Boiler CTF Walkthrough: Complete Enumeration, Exploitation & Privilege Escalation Guide | Dharmendrakumar | [Read More](https://medium.com/p/71e1da23d4d2) |
+| Tue, 02 Jun 2026 21:01:01 GMT | Cross-Role PAT Issuance in Snowflake: Scaling Cortex REST API Access for Multi-Tenant Platforms | Navnit Shukla | [Read More](https://medium.com/p/83348e63bf49) |
+| Tue, 02 Jun 2026 20:51:00 GMT | Fixing EC2 Security Issues: A Practical Remediation Guide | Tarek CHEIKH | [Read More](https://medium.com/p/3dade721307c) |
+| Tue, 02 Jun 2026 20:50:39 GMT | Building an EC2 Security Scanner: 46 Checks, 137 Controls, Zero Excuses | Tarek CHEIKH | [Read More](https://medium.com/p/0a118cb649db) |
+| Tue, 02 Jun 2026 20:48:10 GMT | Smartphone Malware and Encryption | Jibriel Jeelani | [Read More](https://medium.com/p/99f4decdd566) |
+| Tue, 02 Jun 2026 20:48:04 GMT | Prototype Pollution in Practice | Marduk I Am | [Read More](https://medium.com/p/437958d27751) |
+| Tue, 02 Jun 2026 20:46:27 GMT | Bring Your Own RWX Region DLL (BYORWXDLL) | S12 - 0x12Dark Development | [Read More](https://medium.com/p/0283951d34e9) |
+| Tue, 02 Jun 2026 20:40:38 GMT | App to find cheating spouse | Michael Parks | [Read More](https://medium.com/p/d34fa781695e) |
+| Tue, 02 Jun 2026 20:26:55 GMT | THE REAL BANDITS ARE NOT IN THE BUSH | Olusegun Ajayi | [Read More](https://medium.com/p/87cfeb62683c) |
 | Tue, 02 Jun 2026 20:22:03 GMT | PortSwigger Academy: Outsmarting Username Enumeration via Account Lockout (Burp Community Edition… | Ayeshaaghafoor | [Read More](https://medium.com/p/defd5aa1235d) |
 | Tue, 02 Jun 2026 20:12:27 GMT | Network Pusulası #7 — STP: Switch’leri Döngüden Kurtaran Protokol ve Root Hijacking Saldırısı | Toprak Külekçioğlu | [Read More](https://medium.com/p/41bc3485a86f) |
 | Tue, 02 Jun 2026 20:09:40 GMT | A Decade in the State File | Nicholas Browdues | [Read More](https://medium.com/p/dc1f1cb08bd1) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Jun 2026 14:16:07 GMT | TryHackMe StuxCTF Walkthrough: From Enumeration to Root Access | Dharmendrakumar | [Read More](https://medium.com/p/9bebb8f7ce04) |
 | Tue, 02 Jun 2026 14:15:17 GMT | Reinforcement Learning Through Energy Landscapes: A Visual, Intuitive Understanding of How… | Suraj Kumar | [Read More](https://medium.com/p/488bed237254) |
 | Tue, 02 Jun 2026 14:10:10 GMT | May 2026 Cyber Attacks, Data Breaches, Ransomware Attacks Landscape | IT_Engineer | [Read More](https://medium.com/p/dba2aa71b410) |
-| Tue, 02 Jun 2026 14:04:51 GMT | INTRODUCTION OF KALI LINUX AND HOW TO INSTALL AND CONFIGURE KALI LINUX: STEP-BY-STEP GUIDE FOR… | A J EthicalHacker | [Read More](https://medium.com/p/a2d0f57885d2) |
-| Tue, 02 Jun 2026 13:58:14 GMT | Understanding Malware | Mohd Kaif | [Read More](https://medium.com/p/9b25806c9ced) |
-| Tue, 02 Jun 2026 13:56:00 GMT | How I Chained a Broken Multi-Tenant Filter and a Missing IDOR Check to Hijack Corporate Admin… | Tanvi Chauhan | [Read More](https://medium.com/p/93b9286016df) |
-| Tue, 02 Jun 2026 13:46:01 GMT | Tools That Automate Remediation of Vulnerable Dependencies Before Deployment | JFrog | [Read More](https://medium.com/p/ead2e479d2fb) |
-| Tue, 02 Jun 2026 13:29:25 GMT | 100 Days to My First Cybersecurity Job in Qatar: A Fresh Graduate’s Journey | Fathimafarhankk | [Read More](https://medium.com/p/a7d19c17b7d1) |
-| Tue, 02 Jun 2026 13:26:27 GMT | How Chaining Two IDORs Led to a Mass Data Harvesting of a Government University | 0xmones | [Read More](https://medium.com/p/e46b48632b70) |
-| Tue, 02 Jun 2026 13:20:33 GMT | 繼承地獄（Inheritance Hell）是什麼？ | 思維舞步 MindSteps | [Read More](https://medium.com/p/96c63770d013) |
-| Tue, 02 Jun 2026 13:18:59 GMT | The Day You Noticed the People Who Raised You Getting Older | laquieren | [Read More](https://medium.com/p/3d0a13aba162) |
-| Tue, 02 Jun 2026 13:06:34 GMT | CVE-2026–8181: Authentication Bypass Vulnerability in the Burst Statistics wordpress plugin | Zardy1x1 | [Read More](https://medium.com/p/4356f237750c) |
-| Tue, 02 Jun 2026 13:05:57 GMT | Catch my cheating wife | Michael Parks | [Read More](https://medium.com/p/c23597eb90b1) |
-| Tue, 02 Jun 2026 13:03:31 GMT | What Is Multi-Factor Authentication (MFA) and Why Every Business Should Use It | Alex Hughes | [Read More](https://medium.com/p/ba4dde76c642) |
-| Tue, 02 Jun 2026 13:01:01 GMT | How Hackers Chain Tools to Attack Targets — The Hidden Reality | Dhruv Kapoor - Aspiring Red Team Operator | [Read More](https://medium.com/p/2bd3fb43f89d) |
-| Tue, 02 Jun 2026 12:48:46 GMT | Day 8 & Day 9 — Reviewing Metadata, Backup Files, and Discovering Hidden Content | Z3r0D4y | [Read More](https://medium.com/p/8a92a214910b) |
-| Tue, 02 Jun 2026 12:43:07 GMT | How Organizations Can Simplify DPDP Compliance in 2026 | Watsonamara | [Read More](https://medium.com/p/396b35dc25bf) |
-| Tue, 02 Jun 2026 12:30:28 GMT | How to Protect Your Social Media Accounts from Being Hacked in 2026 | Suganthi Balaji | [Read More](https://medium.com/p/222d871cb2ba) |
-| Tue, 02 Jun 2026 12:28:23 GMT | Firewalls for self-hosters: What they actually control and where they stop | Thomas Byern's Field Notes | [Read More](https://medium.com/p/0d6ba239e2ce) |
-| Tue, 02 Jun 2026 12:07:19 GMT | Havenlon’s Governance Philosophy: Ownership Should Not Mean Final Execution Authority | Havenlon | [Read More](https://medium.com/p/f764639d32b6) |
