@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Jun 2026 22:55:36 GMT | The Canvas Breach Exposed a Bigger Security Problem Nobody Is Talking About | mePrism Privacy | [Read More](https://medium.com/p/6ac3f81cd8b7) |
+| Wed, 03 Jun 2026 22:54:15 GMT | Best Free File Sharing Sites in 2026 (No Sign Up Required) | Thanh Kiet Nguyen | [Read More](https://medium.com/p/806bf3cfb792) |
+| Wed, 03 Jun 2026 22:46:00 GMT | Home PCs Still Matter | M.L. Ruscscak | [Read More](https://medium.com/p/70e0acf86964) |
+| Wed, 03 Jun 2026 22:43:10 GMT | The Gmail “Zombie Token” Google Refused to Kill | Vivek PS | [Read More](https://medium.com/p/b2f77f262a9d) |
+| Wed, 03 Jun 2026 22:42:41 GMT | How to Ship Production-Ready Apps Before Your AI Runs Out of Tokens | Daren Dozier | [Read More](https://medium.com/p/2afb49970d88) |
+| Wed, 03 Jun 2026 22:12:21 GMT | A Unique Case of One-Click Account Takeover via CSRF Chain | n0body | [Read More](https://medium.com/p/93ad43ceed8b) |
+| Wed, 03 Jun 2026 22:11:45 GMT | The Six Windows Event IDs That Tell You Everything About a Breach | Shumail Moihuddin - Cybersecurity Analyst | [Read More](https://medium.com/p/410f8e894db5) |
+| Wed, 03 Jun 2026 22:06:29 GMT | Asymmetric Threats and the Vulnerability of Modern Energy Grids | Ava Marie Thompson | [Read More](https://medium.com/p/189902fe2d51) |
+| Wed, 03 Jun 2026 21:51:00 GMT | Beyond the Quantum Horizon: Building Cryptographic Resilience in Virginia’s Critical Infrastructure | ADEEL ALI | [Read More](https://medium.com/p/9866dc408c7d) |
+| Wed, 03 Jun 2026 21:49:55 GMT | Construction sites are prime targets for theft and vandalism. | Owl Site Security Servics | [Read More](https://medium.com/p/5139cc5baca1) |
+| Wed, 03 Jun 2026 21:45:59 GMT | When Your Login System Becomes the Attacker: PAM Modules as a Double-Edged Sword | Adolph Gasper | [Read More](https://medium.com/p/d420fec12275) |
+| Wed, 03 Jun 2026 21:18:56 GMT | The $500 Million AI Bill Nobody Threat-Modeled | Pranav Saji | [Read More](https://medium.com/p/67ce082bb797) |
+| Wed, 03 Jun 2026 21:16:58 GMT | How I Pivoted Through a Three-Machine Network on TryHackMe: A Wreath Walkthrough | Soumyadipta Birabar | [Read More](https://medium.com/p/9a32d6a3dc6b) |
+| Wed, 03 Jun 2026 20:54:57 GMT | TryHackMe’s “Operation Promotion” CTF Walkthrough | Omer David | [Read More](https://medium.com/p/c5a5521eab17) |
+| Wed, 03 Jun 2026 20:44:14 GMT | Your Coding Agent Will Run Malware for You — Here’s How Protestware Exploits Autonomous Loops | Zac Smith | [Read More](https://medium.com/p/d6a3bb8923ed) |
+| Wed, 03 Jun 2026 20:43:31 GMT | TryHackMe write-up: Mother’s Secret | Viktor Chalyi | [Read More](https://medium.com/p/c3b711a0670c) |
+| Wed, 03 Jun 2026 20:33:19 GMT | Nobody Steals From a Site That Looks Defended: The Real State of Construction Security in… | Teona | [Read More](https://medium.com/p/36158fc90416) |
 | Wed, 03 Jun 2026 20:24:39 GMT | My First Laravel Deployment: How I Stopped Bots, Fake Users, and Server Abuse Complaints | Arslan Ali | [Read More](https://medium.com/p/5095ce98a5ea) |
 | Wed, 03 Jun 2026 20:18:46 GMT | Building a SOC Lab from Scratch-Log Management with Loggly & NXLog | Clinton Chidera | [Read More](https://medium.com/p/0b136327bf04) |
 | Wed, 03 Jun 2026 20:06:00 GMT | How I cleared Microsoft SC-200 the SOC analyst certification | Manubhav Sharma | [Read More](https://medium.com/p/e2da124c1780) |
@@ -95,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Jun 2026 13:36:17 GMT | Your content can support both long-form and short-form engagement. | Ronald Yaros,  AKA "Dr. Digital" | [Read More](https://medium.com/p/d2a63e9f4147) |
 | Wed, 03 Jun 2026 13:24:00 GMT | Talent Solutions for Your IT Team Bridge the Skills Gap | SGS Consulting | [Read More](https://medium.com/p/f9f4c40ca3e6) |
 | Wed, 03 Jun 2026 13:03:25 GMT | “Bug Bounty Bootcamp #43: Login Page? | Aman Sharma | [Read More](https://medium.com/p/9b1a401051ba) |
-| Wed, 03 Jun 2026 13:02:45 GMT | SQL Injection in Login Forms: Still Killing Auth in 2026 | johnnattakit 0xDD | [Read More](https://medium.com/p/1e465ae2de1a) |
-| Wed, 03 Jun 2026 13:02:31 GMT | 5 Key Insights from Project Glasswing’s Initial Findings | Ai studio | [Read More](https://medium.com/p/d604cb211ceb) |
-| Wed, 03 Jun 2026 12:56:35 GMT | GraphQL Introspection: The Feature That Hands Attackers Your API Blueprint | johnnattakit 0xDD | [Read More](https://medium.com/p/e4516e0cafc9) |
-| Wed, 03 Jun 2026 12:49:40 GMT | 7 Security Tools I Use Constantly, But Rarely Talk About | Fateyaly | [Read More](https://medium.com/p/f98f16a484e0) |
-| Wed, 03 Jun 2026 12:34:23 GMT | I Went Back to KC7 — This Time With a Purpose | Naana Sarkodie | [Read More](https://medium.com/p/f4384ebebc2d) |
-| Wed, 03 Jun 2026 12:06:19 GMT | The Biggest Cybersecurity Risk
-in 2026 Isn’t AI ,
-It’s Human Trust | Vinura_Gunathilaka | [Read More](https://medium.com/p/949e27a8a81c) |
-| Wed, 03 Jun 2026 12:03:38 GMT | Discover API workflows by visualizing request sequences in Burp Suite | ghostcat | [Read More](https://medium.com/p/130275f8b3b5) |
-| Wed, 03 Jun 2026 12:03:35 GMT | How a Subdomain Named “internal” Exposed 29,000 Customer Accounts and $1.34B in Revenue Data | Divakarvasani | [Read More](https://medium.com/p/2ff81a3e4ea0) |
-| Wed, 03 Jun 2026 12:02:47 GMT | PortSwigger Lab: Unprotected admin functionality | Ramkumar | [Read More](https://medium.com/p/6e86053c99b3) |
-| Wed, 03 Jun 2026 12:01:00 GMT | Your Security Awareness Training Is a Map for Attackers | Eldor Zufarov | [Read More](https://medium.com/p/2650d36cd1f2) |
-| Wed, 03 Jun 2026 12:00:58 GMT | Hacker 101 CTF — A little something to get you started | Snappy | [Read More](https://medium.com/p/f2d1cbae450e) |
-| Wed, 03 Jun 2026 11:58:10 GMT | Session Revocation Failure — “Sign Out All Other Web Sessions” Non-Functional | Just_try_shit | [Read More](https://medium.com/p/65b42c0ff9b8) |
-| Wed, 03 Jun 2026 11:55:28 GMT | Ransomware Is No Longer a Distant Threat: What Nepal’s Latest Cybersecurity Warning Reveals About… | Sumit Shrestha | [Read More](https://medium.com/p/992500ec3be2) |
-| Wed, 03 Jun 2026 11:52:38 GMT | Best SEO Services in Ahmedabad for Business Growth and Higher Google Rankings | Bhudevitsolution | [Read More](https://medium.com/p/b41ef5205f70) |
-| Wed, 03 Jun 2026 11:51:55 GMT | What Is Shadow AI? Definition, Risks, Examples, and Best Practices for Businesses | Vicky | [Read More](https://medium.com/p/4a6d3579ce43) |
-| Wed, 03 Jun 2026 11:50:29 GMT | Behind the Job Description: Unpacking the Hidden Malware Framework (Part 2) | Sivasankar Das | [Read More](https://medium.com/p/4f81c1e2329d) |
-| Wed, 03 Jun 2026 11:46:35 GMT | Chaining OAuth2 Dynamic Client Registration to Full Account Takeover — Stealing Access Tokens via… | Divakarvasani | [Read More](https://medium.com/p/cbc16ea5a948) |
