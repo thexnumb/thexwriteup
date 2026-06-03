@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 03 Jun 2026 01:39:26 GMT | The codexui-android Supply Chain Attack Is a Textbook Case for Runtime Application Security | Girish Sivasubramanian | [Read More](https://medium.com/p/8e7acab7c368) |
+| Wed, 03 Jun 2026 01:34:42 GMT | The Year of Outstanding Divine Favour: Nigerian Christianity, Coping Culture, and the Politics of… | Olaolu Olowe | [Read More](https://medium.com/p/b318ff6110a0) |
+| Wed, 03 Jun 2026 01:30:48 GMT | What Are the Most Common Types of Investment Fraud? | Decode Help | [Read More](https://medium.com/p/06afd4b3fcc2) |
+| Wed, 03 Jun 2026 01:26:13 GMT | Nairobi is Cold, the Ugali is Perfect, and Nobody is Talking About Cybersecurity on the… | Jed | [Read More](https://medium.com/p/357601cebd7d) |
+| Wed, 03 Jun 2026 01:20:09 GMT | VulnHub: Mr Robot 1 | Tamimsharif | [Read More](https://medium.com/p/4cce0edc6416) |
+| Wed, 03 Jun 2026 01:19:01 GMT | Operation Promotion — TryHackMe Walkthrough | Gh0ulH4x | [Read More](https://medium.com/p/6a876f004c10) |
+| Wed, 03 Jun 2026 01:15:33 GMT | [RedPanda] Securing Redpanda with SASL and TLS in Docker Compose | Andrian Tri Putra | [Read More](https://medium.com/p/81ce1e797ef1) |
+| Wed, 03 Jun 2026 01:11:41 GMT | Report: May 27 — June 3, 2026 | CCTT INC. | [Read More](https://medium.com/p/0c571626ab5e) |
+| Wed, 03 Jun 2026 01:02:54 GMT | The Ultimate Punchline: When “Security” | J | [Read More](https://medium.com/p/bc869b7956bc) |
+| Wed, 03 Jun 2026 00:49:41 GMT | How to Secure Your Home Wi-Fi Without a Tech Degree | Jesus Daniel Mollineda | [Read More](https://medium.com/p/de78cf2e53b3) |
+| Wed, 03 Jun 2026 00:30:08 GMT | From Exposed API Keys to Account Takeovers | Parth Narula | [Read More](https://medium.com/p/7ac2a73d7113) |
+| Wed, 03 Jun 2026 00:21:00 GMT | The Text I Dreaded to Send — And Why It Mattered | Vanshika Choudhary | [Read More](https://medium.com/p/5ecb19f4643d) |
+| Wed, 03 Jun 2026 00:01:45 GMT | pwning DevHub | pwnedByJT | [Read More](https://medium.com/p/14d1f5eca30e) |
+| Tue, 02 Jun 2026 23:08:35 GMT | Bir Login Sayfası Kaç Farklı Şekilde Hacklenebilir? | Zeki Kayaalp | [Read More](https://medium.com/p/d59af8528f5c) |
+| Tue, 02 Jun 2026 23:01:01 GMT | Why People Always Make the Same Mistake | fmi A. | [Read More](https://medium.com/p/afe20156d744) |
+| Tue, 02 Jun 2026 22:48:08 GMT | The Difference Between AI Adoption and AI Opportunity Assessment | Michaeldhibbert | [Read More](https://medium.com/p/a4d18ad7fc58) |
+| Tue, 02 Jun 2026 22:46:45 GMT | My Account take Over bug | Hatim Lahwaouir | [Read More](https://medium.com/p/a4da5191234f) |
 | Tue, 02 Jun 2026 22:22:50 GMT | Spy Before You Prompt: Passive Recon for LLM Agents, RAG and the AI Stack | Jonathan (PardaL) | [Read More](https://medium.com/p/3feb2f72aa9b) |
 | Tue, 02 Jun 2026 22:20:04 GMT | Vulnerability Data Enrichment for CVE Records: 259 CNAs on the Enrichment Recognition List for June… | CVE Program Blog | [Read More](https://medium.com/p/0607895261e9) |
 | Tue, 02 Jun 2026 21:51:30 GMT | Certified AppSec Practitioner v2 (CAP) -Minha Experiência e Dicas | Ralph Sonato | [Read More](https://medium.com/p/368058e5e833) |
@@ -64,6 +81,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Jun 2026 17:27:38 GMT | OverTheWire Bandit Walkthrough — Level 12 → 13 - 30-Day Cybersecurity Learning Journey (Day 12) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/0f5d47194561) |
 | Tue, 02 Jun 2026 17:12:52 GMT | How to Read an Email Header: A Complete Technical Breakdown | Mohammad Abir Abbas | [Read More](https://medium.com/p/035626a88b24) |
 | Tue, 02 Jun 2026 17:11:02 GMT | Lockdown (THM) Tryhackme Medium Challenge | Lawvye | [Read More](https://medium.com/p/2c9ff572f73b) |
+| Tue, 02 Jun 2026 17:04:14 GMT | TryHackMe — Jr Penetration Tester | Hathical Ecker | [Read More](https://medium.com/p/74e995d5da2d) |
 | Tue, 02 Jun 2026 17:02:47 GMT | Active Directory Attacks — Pass The Ticket | Osec | [Read More](https://medium.com/p/6c3f00abfde1) |
 | Tue, 02 Jun 2026 17:00:37 GMT | I’m a 1st Year CSE Student Learning Cybersecurity — Here’s What No One Told Me. | Saharia Hassan Safin | [Read More](https://medium.com/p/3926d5a39471) |
 | Tue, 02 Jun 2026 16:54:47 GMT | Your AI Agent Just Took an Action. Where Is the Receipt? | Jasonlvolk | [Read More](https://medium.com/p/592f291ae6f8) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 02 Jun 2026 15:36:31 GMT | How we secure service-to-service communication at Plaid | Bwang | [Read More](https://medium.com/p/8f5257c8237c) |
 | Tue, 02 Jun 2026 15:29:44 GMT | Cybersecurity for Small Businesses: The Complete 2026 Guide | Tal Anish - LBM Cyber | [Read More](https://medium.com/p/081c108868ed) |
 | Tue, 02 Jun 2026 15:17:40 GMT | The VPN Your Company Trust is Actively Being Hacked Right Now. | Norahaiden | [Read More](https://medium.com/p/c4d77b1cc798) |
-| Tue, 02 Jun 2026 15:12:43 GMT | Why Dogs Are Obsessed With Bugs (And Should You Worry?) | Tail Wag Wisdom - Money Tips For Dog Parents ⭐️ | [Read More](https://medium.com/p/fc8f0e7ba408) |
-| Tue, 02 Jun 2026 15:07:55 GMT | # I Built 30 Claude Code Skills for Bug Bounty Hunters — Here’s Why You Need Them in Your Claude | ghostcat | [Read More](https://medium.com/p/4a2f08014460) |
-| Tue, 02 Jun 2026 15:04:20 GMT | How to Hide Local/Domain User Account on Windows 10/11 | 0xjamesli | [Read More](https://medium.com/p/f9bcfccda97c) |
-| Tue, 02 Jun 2026 15:01:29 GMT | How Modern SaaS Applications Scale: Why a Single PostgreSQL Database Often Beats Multi-Tenant… | Divine Adeyeye | [Read More](https://medium.com/p/274c9c0d09b6) |
-| Tue, 02 Jun 2026 15:01:02 GMT | Claude Code: A Blueprint for Secure Agentic AI Deployments | Nuno Roberto | [Read More](https://medium.com/p/18f775c35361) |
-| Tue, 02 Jun 2026 14:48:09 GMT | “Bug Bounty Bootcamp #42: JWT Attacks — How a Stolen Token or a Weak Secret Can Grant You Admin… | Aman Sharma | [Read More](https://medium.com/p/095cab895a0b) |
-| Tue, 02 Jun 2026 14:46:00 GMT | When the Trusted Tool Becomes the Secret Path | Wes Young | [Read More](https://medium.com/p/7ab7909717fc) |
-| Tue, 02 Jun 2026 14:45:40 GMT | Web/Mobil Uygulamalarda Business Logic Zafiyetler ve Örnek Bir Uygulama | Mert Erkoç | [Read More](https://medium.com/p/d86cfa4a52c1) |
-| Tue, 02 Jun 2026 14:44:46 GMT | What CTFs Don’t Teach About Cybersecurity | Mahad Aqeel | [Read More](https://medium.com/p/e886f92be359) |
-| Tue, 02 Jun 2026 14:39:12 GMT | The Philippines Cyber Threat Landscape | V | [Read More](https://medium.com/p/de4660b8705d) |
-| Tue, 02 Jun 2026 14:31:01 GMT | Solidity BasicsPart 3: Advanced Patterns | Hacker MD | [Read More](https://medium.com/p/9f9e8a946baa) |
-| Tue, 02 Jun 2026 14:31:01 GMT | The AppSec Instinct You Built Over Years — AI Is Quietly Killing It | Saumya Kasthuri | [Read More](https://medium.com/p/3ea8221aca7b) |
-| Tue, 02 Jun 2026 14:30:15 GMT | Structuring a Google Cloud Armor Policy: A Rule-Ordering Playbook | Mike Hansen | [Read More](https://medium.com/p/a5b9fd53976d) |
-| Tue, 02 Jun 2026 14:26:00 GMT | What Texas IT Leaders Asked Me About the Builder Era | Diana Stepner | [Read More](https://medium.com/p/0e62dd7f29f6) |
-| Tue, 02 Jun 2026 14:23:18 GMT | I Wish I Knew This When I Started in Cybersecurity | Ryan G. Cox | [Read More](https://medium.com/p/0806f8384594) |
-| Tue, 02 Jun 2026 14:16:07 GMT | TryHackMe StuxCTF Walkthrough: From Enumeration to Root Access | Dharmendrakumar | [Read More](https://medium.com/p/9bebb8f7ce04) |
-| Tue, 02 Jun 2026 14:15:17 GMT | Reinforcement Learning Through Energy Landscapes: A Visual, Intuitive Understanding of How… | Suraj Kumar | [Read More](https://medium.com/p/488bed237254) |
-| Tue, 02 Jun 2026 14:10:10 GMT | May 2026 Cyber Attacks, Data Breaches, Ransomware Attacks Landscape | IT_Engineer | [Read More](https://medium.com/p/dba2aa71b410) |
