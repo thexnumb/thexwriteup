@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Jun 2026 02:01:42 GMT | AI / LLM Software Security Series | Robert Broeckelmann | [Read More](https://medium.com/p/f14e6e4fcb7b) |
+| Thu, 04 Jun 2026 01:54:49 GMT | Edge AI in Cybersecurity: Why the Electrical Grid Might Be the Next Battlefield | Thato Maelane | [Read More](https://medium.com/p/ca0d1eb2b503) |
+| Thu, 04 Jun 2026 01:51:52 GMT | Installing Wazuh Server on Ubuntu 26.04 LTS | Fauzan Budi S | [Read More](https://medium.com/p/b129b28da1ba) |
+| Thu, 04 Jun 2026 01:27:54 GMT | Building More Resilient Backend Infrastructures | Snowstack | [Read More](https://medium.com/p/20a7e312bd93) |
+| Thu, 04 Jun 2026 01:24:59 GMT | Should You Still Learn to Code in 2026? | Tim David | [Read More](https://medium.com/p/04ed8b6de623) |
+| Thu, 04 Jun 2026 01:12:52 GMT | Full server takeover ssh leak (dell technologies) by (RECON) | Omar kiwan | [Read More](https://medium.com/p/a7c54ee5e6a6) |
+| Thu, 04 Jun 2026 01:01:01 GMT | Membeli AI Credits Seharga Rp 200.000 Hanya dengan Rp 1 Lewat Kerentanan Business Logic Error | Robi Mohamad subagja | [Read More](https://medium.com/p/eb16c486bfd4) |
+| Thu, 04 Jun 2026 00:58:47 GMT | The Echo of the Neon Trees | Moha | [Read More](https://medium.com/p/05d4a9e4067b) |
+| Thu, 04 Jun 2026 00:06:46 GMT | Understanding Xanax Benefits and Risks in Modern Healthcare | Tor BBB | [Read More](https://medium.com/p/efa29a58f630) |
+| Wed, 03 Jun 2026 23:17:37 GMT | Project #12 — Risk Register — How I Built a Complete Cybersecurity Risk Register | Andrew Williams | [Read More](https://medium.com/p/d865c40db12e) |
+| Wed, 03 Jun 2026 23:15:50 GMT | LoveLetterLocker-CTF Walkthrough | Diptava Dey | [Read More](https://medium.com/p/58e275e2b2f5) |
+| Wed, 03 Jun 2026 23:14:24 GMT | AI Is About to Trigger the Biggest Vulnerability Discovery Explosion in Cyber Security History | Yua Mikanana | [Read More](https://medium.com/p/f34266637cb6) |
 | Wed, 03 Jun 2026 22:55:36 GMT | The Canvas Breach Exposed a Bigger Security Problem Nobody Is Talking About | mePrism Privacy | [Read More](https://medium.com/p/6ac3f81cd8b7) |
 | Wed, 03 Jun 2026 22:54:15 GMT | Best Free File Sharing Sites in 2026 (No Sign Up Required) | Thanh Kiet Nguyen | [Read More](https://medium.com/p/806bf3cfb792) |
 | Wed, 03 Jun 2026 22:46:00 GMT | Home PCs Still Matter | M.L. Ruscscak | [Read More](https://medium.com/p/70e0acf86964) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 03 Jun 2026 14:26:31 GMT | IDOR Leading to Account Takeover via Email Reassignment | Damian Gambacorta | [Read More](https://medium.com/p/96dc6bc1c7da) |
 | Wed, 03 Jun 2026 14:22:40 GMT | Master Cloud Security: 100% Job Guarantee with the Best Multi-Cloud DevSecOps Training Institute in… | RealTech-IT-Academy | [Read More](https://medium.com/p/6093f2740960) |
 | Wed, 03 Jun 2026 14:20:58 GMT | How to Use AI Tools to Ace Your Next Job Interview | Preplink.ai | [Read More](https://medium.com/p/67c0ae8950a0) |
-| Wed, 03 Jun 2026 14:16:59 GMT | Pelican — ZooKeeper Command Injection + gcore Memory Dump | Aashiqoffortune | [Read More](https://medium.com/p/cf8848d6fc8f) |
-| Wed, 03 Jun 2026 14:16:49 GMT | Exploitation on Pen Tester VM | Myles Corey | [Read More](https://medium.com/p/9440f0406197) |
-| Wed, 03 Jun 2026 14:11:00 GMT | From Zero to $8,500: Exploiting a Flawed Reset Token Validation to Bypass MFA and Take Over… | Tanvi Chauhan | [Read More](https://medium.com/p/ee84cf256f88) |
-| Wed, 03 Jun 2026 14:02:24 GMT | Vulnerability Assessment on Pen tester Lab VM | Myles Corey | [Read More](https://medium.com/p/990457fd5932) |
-| Wed, 03 Jun 2026 13:59:47 GMT | Will You Be My Bridesmaid? | The Bridal Dose | [Read More](https://medium.com/p/4d12cb212d73) |
-| Wed, 03 Jun 2026 13:59:23 GMT | Ghostcat-PWN: When an Old Tomcat Vulnerability Opens the org doors | Deepanshu khanna | [Read More](https://medium.com/p/62406effeed0) |
-| Wed, 03 Jun 2026 13:58:34 GMT | Week 10: The Complete Guide to IP Addressing, Subnetting & DNS | Nishant kumar | [Read More](https://medium.com/p/d5be131042f1) |
-| Wed, 03 Jun 2026 13:50:50 GMT | Pengembangan Sistem VocaTIonal: Implementasi Arsitektur MVC, Keamanan Aplikasi Web, dan… | Yasa Wijaya | [Read More](https://medium.com/p/f87f6b7b5829) |
-| Wed, 03 Jun 2026 13:46:05 GMT | File Upload Attacks: Bypassing Type Filters | 0x4rt1st | [Read More](https://medium.com/p/dc601e27f018) |
-| Wed, 03 Jun 2026 13:36:17 GMT | Your content can support both long-form and short-form engagement. | Ronald Yaros,  AKA "Dr. Digital" | [Read More](https://medium.com/p/d2a63e9f4147) |
-| Wed, 03 Jun 2026 13:24:00 GMT | Talent Solutions for Your IT Team Bridge the Skills Gap | SGS Consulting | [Read More](https://medium.com/p/f9f4c40ca3e6) |
-| Wed, 03 Jun 2026 13:03:25 GMT | “Bug Bounty Bootcamp #43: Login Page? | Aman Sharma | [Read More](https://medium.com/p/9b1a401051ba) |
