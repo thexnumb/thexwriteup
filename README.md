@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Jun 2026 21:35:56 GMT | TryHackMe Pickle Rick Complete Walkthrough | Gohilharsh | [Read More](https://medium.com/p/21733c027f7a) |
+| Thu, 04 Jun 2026 21:23:19 GMT | Best Ways To Recover Lost Funds From Crypto and Bitcoin Investment Scam Contact Primatz Guard | Edwardsjosepht | [Read More](https://medium.com/p/e4563177048d) |
+| Thu, 04 Jun 2026 21:21:10 GMT | The Career Upgrade Nobody Wants — but Every Smart Employee and Founder Needs | Felipe Gómez R | [Read More](https://medium.com/p/7447d4ff4a92) |
+| Thu, 04 Jun 2026 21:20:46 GMT | How to setup and secure a burner laptop | Jamie Omarr | [Read More](https://medium.com/p/88119e7bfb7a) |
+| Thu, 04 Jun 2026 20:52:54 GMT | The Best Certifications to Pursue After BTL1 (A SOC Analyst’s Guide to What Comes Next) | Motasem Hamdan | [Read More](https://medium.com/p/c733b1c75d51) |
+| Thu, 04 Jun 2026 20:41:30 GMT | How Attackers Allegedly Exploited Meta AI to Hijack High-Profile Instagram Accounts | The Security Lens | [Read More](https://medium.com/p/563b40ee8ea8) |
+| Thu, 04 Jun 2026 20:36:13 GMT | The Next Question Independent School Boards Are Not Ready For | Kenneth Thomas | [Read More](https://medium.com/p/aa74b152dc9b) |
+| Thu, 04 Jun 2026 20:31:53 GMT | ¿Qué Hacer Si Te Quieren Estafar? | Decode Help | [Read More](https://medium.com/p/92914f60dcc3) |
+| Thu, 04 Jun 2026 20:30:35 GMT | Ayuda para Protegerse Contra Estafas | Decode Help | [Read More](https://medium.com/p/a033c6700910) |
+| Thu, 04 Jun 2026 20:14:45 GMT | Online Dating Safety Tips: How to Protect Yourself in 2026 | FaceSift | [Read More](https://medium.com/p/fd6339ddbdaf) |
+| Thu, 04 Jun 2026 20:08:53 GMT | Target Eliminated: Handala Strikes Senior Mossad Influence Manager in Targeted Car Bombing | The Arab Posts | [Read More](https://medium.com/p/1c4adae28720) |
+| Thu, 04 Jun 2026 20:08:08 GMT | Is Your LLM Into You? | Ohleaveher | [Read More](https://medium.com/p/5c6643d2275c) |
+| Thu, 04 Jun 2026 19:54:25 GMT | 0x12DarkSandbox: Test Your Offensive Payloads | S12 - 0x12Dark Development | [Read More](https://medium.com/p/9625f1184504) |
+| Thu, 04 Jun 2026 19:49:53 GMT | I Know CPCSC Is Coming. What Do I Do, and When? | Younos Nazarian | [Read More](https://medium.com/p/3745736002ce) |
+| Thu, 04 Jun 2026 19:36:55 GMT | What is CSRF and how it affect sessions | HelloBug | [Read More](https://medium.com/p/3bbc70f78532) |
 | Thu, 04 Jun 2026 19:26:51 GMT | Why Data Quality Is the Real Driver of AI Success | Latifahuz-Pilog | [Read More](https://medium.com/p/cb4a1b6ab5b1) |
 | Thu, 04 Jun 2026 19:21:00 GMT | I Ran a Phishing Test on My Own Team. The Number Wasn’t the Point. | Roby Belotti | [Read More](https://medium.com/p/650593c74620) |
 | Thu, 04 Jun 2026 19:17:23 GMT | Remote mortgage operations are here to stay. So are the risks. | William Whiting | [Read More](https://medium.com/p/da12885d9c71) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Jun 2026 13:02:15 GMT | A Senator Wants You to Own HALF of Big AI, and How IG accounts got hacked using Meta AI | Ikechukwu Obi | [Read More](https://medium.com/p/89e3e446f693) |
 | Thu, 04 Jun 2026 12:59:45 GMT | Nigeria’s Expanding Security Crisis: From Local Threats to Widening Regional Instability | Abdulazeez Gunu | [Read More](https://medium.com/p/9ace7e01af75) |
 | Thu, 04 Jun 2026 12:56:52 GMT | Super Timeline Creation with Plaso Heimdall and Log2Timeline | Honeyknows | [Read More](https://medium.com/p/3099c21d286a) |
-| Thu, 04 Jun 2026 12:38:06 GMT | How to Become an Ethical Hacker in 2026 (Complete Beginner Roadmap) | Technovalley Software India Pvt Ltd | [Read More](https://medium.com/p/1cffb20e559f) |
-| Thu, 04 Jun 2026 12:36:38 GMT | How to Prepare Your Dubai Business for a Cybersecurity Audit | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/fbf0bd03fb39) |
-| Thu, 04 Jun 2026 12:36:28 GMT | TryHackMe Ignite Complete Walkthrough | Gohilharsh | [Read More](https://medium.com/p/80d0973e4e6d) |
-| Thu, 04 Jun 2026 12:29:51 GMT | The Rise of Agentic Warfare: Efficiency, Prevention, and Defense in Modern Information Operations | Technovalley Software India Pvt Ltd | [Read More](https://medium.com/p/cae8e78b1c6f) |
-| Thu, 04 Jun 2026 12:29:12 GMT | Spring Security — End to End Complete Flow | Lakshyarawat | [Read More](https://medium.com/p/0dfbf6b8fe17) |
-| Thu, 04 Jun 2026 12:25:20 GMT | Swival 1.0.27 is a big release | Frank | [Read More](https://medium.com/p/05212959fe79) |
-| Thu, 04 Jun 2026 12:15:21 GMT | How I Turned random hunting Into $300 in Bounties | Cyber Prince | [Read More](https://medium.com/p/81a3b38a84a4) |
-| Thu, 04 Jun 2026 12:12:38 GMT | Cyber Risk Reporting to the Board: Metrics That Actually Tell the Story | Finstein.ai | [Read More](https://medium.com/p/6676acbbf9e6) |
-| Thu, 04 Jun 2026 12:09:42 GMT | The Dark Side of Innovation: How Cybercriminals Weaponize Hype with Fake AI Tools | Bitdefenderppc | [Read More](https://medium.com/p/e447ebf4beba) |
-| Thu, 04 Jun 2026 12:07:29 GMT | Race Conditions and Protection Against Them | Seyyed Mohammad Reza Zabetzadeh | [Read More](https://medium.com/p/2c05ecb953ce) |
-| Thu, 04 Jun 2026 12:07:25 GMT | Snoopy — HackTheBox Writeup | Panda Anonimo | [Read More](https://medium.com/p/67da67331fc9) |
-| Thu, 04 Jun 2026 12:04:32 GMT | Is Your Business Continuity Plan Actually a Plan, or Just a Document? | Consulting4sec | [Read More](https://medium.com/p/013fa917aece) |
-| Thu, 04 Jun 2026 12:02:36 GMT | The Tool I Installed for Fun and Ended Up Using Every Day | Fateyaly | [Read More](https://medium.com/p/e6cff07998be) |
-| Thu, 04 Jun 2026 12:01:01 GMT | Determinism Over Degeneracy: Why Model Collapse Will Destroy “AI-First” Cyber Security | Eldor Zufarov | [Read More](https://medium.com/p/cce113809d87) |
-| Thu, 04 Jun 2026 12:01:00 GMT | MCPs: The USB Ports of AI | Sudiksha Acharya | [Read More](https://medium.com/p/4ecc2411f948) |
