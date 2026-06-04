@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 04 Jun 2026 23:05:22 GMT | My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up | Shikhali Jamalzade | [Read More](https://medium.com/p/a82c804ce8e2) |
+| Thu, 04 Jun 2026 23:04:53 GMT | The HTTP/2 Bomb Sat in Plain Sight for a Decade. An AI Just Had to Read the Code. | Kerry Kier | [Read More](https://medium.com/p/788bb7a16104) |
+| Thu, 04 Jun 2026 23:02:15 GMT | “Google ile Giriş Yap” Ne Kadar Güvenli? OAuth ve SSO | Zeki Kayaalp | [Read More](https://medium.com/p/3a4aa5370c86) |
+| Thu, 04 Jun 2026 22:54:52 GMT | Over the past ten years, the number of times I have cried can be counted on one hand—just four… | Akinro Ayodeji | [Read More](https://medium.com/p/2b8281b8c149) |
+| Thu, 04 Jun 2026 22:38:14 GMT | How I Stopped “Just Clicking Around” in Investigations (True Story) | Omar Abdelaziz | [Read More](https://medium.com/p/de05791ffafd) |
+| Thu, 04 Jun 2026 22:35:43 GMT | Master Guide: Solving All PortSwigger CORS Vulnerabilities | Ayeshaaghafoor | [Read More](https://medium.com/p/37e8b912ce6b) |
+| Thu, 04 Jun 2026 22:31:55 GMT | Why Basic Windows Logs Aren’t Enough (And What Sysmon Does About It) | Shumail Moihuddin - Cybersecurity Analyst | [Read More](https://medium.com/p/1e659cb7da69) |
+| Thu, 04 Jun 2026 22:27:44 GMT | I Built a Real SIEM From Scratch. Here’s Exactly How It Works. | Shumail Moihuddin - Cybersecurity Analyst | [Read More](https://medium.com/p/f805b02d21f7) |
+| Thu, 04 Jun 2026 22:25:36 GMT | The OWASP LLM Top 10 — What Every Developer Needs to Know | Kay Adelaja | [Read More](https://medium.com/p/bb75df670a20) |
+| Thu, 04 Jun 2026 22:08:15 GMT | When the Comment Section Becomes Your Stage: The Digital Life of an Anxious Songwriter | Bill Bront | [Read More](https://medium.com/p/98199f74f43d) |
+| Thu, 04 Jun 2026 22:04:29 GMT | Prompt Injection Is the SQL Injection of AI — And Most Systems Are Unprotected | Amogh Ubale | [Read More](https://medium.com/p/f4a423743e4b) |
+| Thu, 04 Jun 2026 21:50:02 GMT | The AI race is clearly getting out of hand | Karl Siaka | [Read More](https://medium.com/p/39db16819e77) |
+| Thu, 04 Jun 2026 21:41:37 GMT | Common Compliance Audit Mistakes and How a Service Can Fix Them | CyRx360 Inc. | [Read More](https://medium.com/p/39d85d4d232d) |
 | Thu, 04 Jun 2026 21:35:56 GMT | TryHackMe Pickle Rick Complete Walkthrough | Gohilharsh | [Read More](https://medium.com/p/21733c027f7a) |
 | Thu, 04 Jun 2026 21:23:19 GMT | Best Ways To Recover Lost Funds From Crypto and Bitcoin Investment Scam Contact Primatz Guard | Edwardsjosepht | [Read More](https://medium.com/p/e4563177048d) |
 | Thu, 04 Jun 2026 21:21:10 GMT | The Career Upgrade Nobody Wants — but Every Smart Employee and Founder Needs | Felipe Gómez R | [Read More](https://medium.com/p/7447d4ff4a92) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 04 Jun 2026 13:50:27 GMT | Security Operations Center | Expadox Lab | [Read More](https://medium.com/p/7b8ed734b4d4) |
 | Thu, 04 Jun 2026 13:47:11 GMT | Colombian Elections and Hacktivism Overview | VECERT | [Read More](https://medium.com/p/392f55d402bc) |
 | Thu, 04 Jun 2026 13:40:48 GMT | I Made it to the HACK IITK 2026 Grand Finale at IIT Kanpur. Here’s What It Actually Felt Like. | Soumyadipta Birabar | [Read More](https://medium.com/p/1f9ff6b8c4a8) |
-| Thu, 04 Jun 2026 13:33:45 GMT | How to Find the Best MSP Companies in USA: A Practical Guide for Business Leaders | DiscoverMSPs | [Read More](https://medium.com/p/b03b475ccfb5) |
-| Thu, 04 Jun 2026 13:31:00 GMT | Hidden $10,000 Crypto Private Key in a Vacation Photo. Here’s How to Do It. | Hoken Tech | [Read More](https://medium.com/p/a742442db29e) |
-| Thu, 04 Jun 2026 13:26:19 GMT | AI-Powered Threat Actors in 2026: Reality vs. Hype | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/9c28aef95300) |
-| Thu, 04 Jun 2026 13:11:01 GMT | Cybersecurity Influence Attacks: Manipulative Tactics | Ron McFarland PhD | [Read More](https://medium.com/p/6da61aa1363b) |
-| Thu, 04 Jun 2026 13:08:29 GMT | The Future of AI in Business Leadership: Why Human Judgment Matters More Than Ever | DigitalConvex Magazine | [Read More](https://medium.com/p/eb9a013c377d) |
-| Thu, 04 Jun 2026 13:08:24 GMT | Blind SQL Injection with Time Delays and Information Retrieval | Katongo Cyber | [Read More](https://medium.com/p/6a0739e2615e) |
-| Thu, 04 Jun 2026 13:08:13 GMT | OutDated - Proving Grounds - Walkthrough | SilentExploit | [Read More](https://medium.com/p/c062fc37ff0b) |
-| Thu, 04 Jun 2026 13:06:14 GMT | OneDrive API Integration Using Microsoft Graph: A Developer Notes Version | Satva Solutions | [Read More](https://medium.com/p/69ea7083b74e) |
-| Thu, 04 Jun 2026 13:06:10 GMT | Understand Your Target Before Touch any Tools | baler3ion | [Read More](https://medium.com/p/88b47ebed01f) |
-| Thu, 04 Jun 2026 13:03:43 GMT | I Hate Feeling Feelings | Mide. | [Read More](https://medium.com/p/328934dc8b96) |
-| Thu, 04 Jun 2026 13:02:15 GMT | A Senator Wants You to Own HALF of Big AI, and How IG accounts got hacked using Meta AI | Ikechukwu Obi | [Read More](https://medium.com/p/89e3e446f693) |
-| Thu, 04 Jun 2026 12:59:45 GMT | Nigeria’s Expanding Security Crisis: From Local Threats to Widening Regional Instability | Abdulazeez Gunu | [Read More](https://medium.com/p/9ace7e01af75) |
-| Thu, 04 Jun 2026 12:56:52 GMT | Super Timeline Creation with Plaso Heimdall and Log2Timeline | Honeyknows | [Read More](https://medium.com/p/3099c21d286a) |
