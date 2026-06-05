@@ -12,7 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Jun 2026 20:14:43 GMT | The 5 Skills Every Cybersecurity Engineer Needs in 2026 (That Universities Still Aren’t Teaching) | Taimur Ijlal | [Read More](https://medium.com/p/b069a55c74ff) |
+| Fri, 05 Jun 2026 20:06:16 GMT | Coming up at Tech Weekend June 2026 - VC Office hours with: Nicole Toussaint, Investor at TenOneTen… | Founders Village | [Read More](https://medium.com/p/36812e545aaa) |
+| Fri, 05 Jun 2026 20:02:44 GMT | "Defending From the Inside: How Linux Taught Me What Security Actually Means" | Paul Adino | [Read More](https://medium.com/p/b783a8f73c68) |
+| Fri, 05 Jun 2026 20:01:00 GMT | Data Poisoning Explained: How Attackers Manipulate AI From the Inside | Rashidat Sikiru | [Read More](https://medium.com/p/cc19df24389c) |
+| Fri, 05 Jun 2026 20:00:35 GMT | TryHackMe RootMe Walkthrough From Initial Recon to Root Access | Aditya Bhatt | [Read More](https://medium.com/p/dc6322dda8aa) |
+| Fri, 05 Jun 2026 19:58:51 GMT | Can i hack into my cheating husband’s phone activities? | Michael Parks | [Read More](https://medium.com/p/74a3f2825b4d) |
+| Fri, 05 Jun 2026 19:57:47 GMT | The One Security Check Most Shopify Apps Get Wrong | MasadAshraf | [Read More](https://medium.com/p/f194f8fe1de6) |
+| Fri, 05 Jun 2026 19:56:34 GMT | Splunk Exploring SPL: A Practical SOC Analyst Walkthrough for Search, Detection, and Threat Hunting | Aditya Bhatt | [Read More](https://medium.com/p/ff138c4c7d51) |
+| Fri, 05 Jun 2026 19:56:02 GMT | HTB File Upload Attacks Skills Assessment Walkthrough | 0x4rt1st | [Read More](https://medium.com/p/faf18de8b221) |
+| Fri, 05 Jun 2026 19:51:46 GMT | Three Little Words | Margaret Cunningham, PhD | [Read More](https://medium.com/p/a2f015bc881b) |
+| Fri, 05 Jun 2026 19:48:37 GMT | Silent Agonies | E.H.Hastings | [Read More](https://medium.com/p/ca2eeccbe380) |
+| Fri, 05 Jun 2026 19:45:33 GMT | Mastering Web Sockets: PortSwigger Academy Walkthrough Guide Community Edition | Ayeshaaghafoor | [Read More](https://medium.com/p/58cb6b331503) |
+| Fri, 05 Jun 2026 19:40:32 GMT | Governance Is No Longer a Compliance Task — It’s a Growth Enabler | Latifah-Pilogian | [Read More](https://medium.com/p/34e04ac0eb79) |
+| Fri, 05 Jun 2026 19:33:25 GMT | Cisco Unified Communications Manager Critical SSRF Security Advisory | SOCFortress | [Read More](https://medium.com/p/f5a92acd6b9e) |
+| Fri, 05 Jun 2026 19:25:09 GMT | How To Add botsv3 Logs To SPLUNK SIEM Without Any Errors | OxMotaw3 | [Read More](https://medium.com/p/2585860557c9) |
+| Fri, 05 Jun 2026 19:21:00 GMT | IA Débil vs. IA Fuerte: El Presente y el Futuro de la Tecnología | Michel Alan López | [Read More](https://medium.com/p/ab65fba69a70) |
+| Fri, 05 Jun 2026 19:20:10 GMT | A Claude Skill Caught a Bug Three Human Reviewers Missed | Cowboysam | [Read More](https://medium.com/p/4a7f17b60515) |
+| Fri, 05 Jun 2026 19:01:39 GMT | How I Connected Kali Linux to TryHackMe Using OpenVPN | Vikas Singh | [Read More](https://medium.com/p/ff9b60e60797) |
+| Fri, 05 Jun 2026 18:57:20 GMT | Building an AI Security Scanner | Youri Antoine | [Read More](https://medium.com/p/804d0cc0aaf3) |
+| Fri, 05 Jun 2026 18:51:00 GMT | What Really Happens After You Report a Bug? | Sweeetha Suresh | [Read More](https://medium.com/p/01b3a1ea67b6) |
+| Fri, 05 Jun 2026 18:40:32 GMT | Event Courier London: On-Time Deliveries in 2026 | waeventservices.co.uk/ | [Read More](https://medium.com/p/61867a35b1a5) |
+| Fri, 05 Jun 2026 18:40:07 GMT | Hardening Two Multi Tenant SaaS APIs | Joshuarg | [Read More](https://medium.com/p/c86bafe11b1b) |
 | Fri, 05 Jun 2026 18:23:29 GMT | Even Itachi’s Sharingan Couldn’t See This Coming — AI Worms & Zero-Days Are the New Genjutsu | Zero Day Cyberian | [Read More](https://medium.com/p/45e82b341253) |
+| Fri, 05 Jun 2026 18:21:28 GMT | OverTheWire Bandit Walkthrough — Level 14 → 15 - 30-Day Cybersecurity Learning Journey (Day 14) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/42d1580be9d2) |
 | Fri, 05 Jun 2026 18:20:04 GMT | CVE-2026-11332: How I found an Argument Injection in Ansible, leading to RCE | Tommaso Bona | [Read More](https://medium.com/p/0050b41b9679) |
 | Fri, 05 Jun 2026 18:14:14 GMT | NSE 3 (FortiGate Operator) : Here’s What I Learned ! | Djihane GUERAICHE | [Read More](https://medium.com/p/3231e1b60af8) |
 | Fri, 05 Jun 2026 18:05:10 GMT | Building My First Home SOC with Microsoft Sentinel and Azure Log Analytics | Tega Avwaghwaruvwe | [Read More](https://medium.com/p/19e51ac264f3) |
@@ -90,26 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Jun 2026 12:20:29 GMT | Trust Under Attack: What FTC Impersonation Scams Reveal About the Future of Fraud | Sue Benner | [Read More](https://medium.com/p/1f78d57b541e) |
 | Fri, 05 Jun 2026 12:16:00 GMT | Why 24/7 Monitoring Is No Longer Optional in Cybersecurity | Cloud4C Services | [Read More](https://medium.com/p/64efa9067dc7) |
 | Fri, 05 Jun 2026 12:12:44 GMT | The Next Cyberattack May Begin With a Polite Request to an AI Chatbot | Jaita Bhowal | [Read More](https://medium.com/p/41b17c636c66) |
-| Fri, 05 Jun 2026 12:09:48 GMT | 10 Nginx Security Best Practices Every Engineer Should Know | Mobeen | [Read More](https://medium.com/p/ac9aba874ce9) |
-| Fri, 05 Jun 2026 11:58:53 GMT | You’re Not Losing Customers Because of Competition. You’re Losing Them Because of Poor Follow-Up. | Deepakdigital | [Read More](https://medium.com/p/56b2ba26fcc1) |
-| Fri, 05 Jun 2026 11:56:39 GMT | Cross Site Scripting Explained: Stop XSS Attacks in Web Apps | Application Security Master | [Read More](https://medium.com/p/50ba2a421800) |
-| Fri, 05 Jun 2026 11:51:20 GMT | Anthropic Open-Sourced an AI Vulnerability Hunter — Here’s What’s Actually Inside | RK | [Read More](https://medium.com/p/c24204164a22) |
-| Fri, 05 Jun 2026 11:38:08 GMT | Introduction to Web Application Penetration Testing | Mohd Kaif | [Read More](https://medium.com/p/a305ca04d3b9) |
-| Fri, 05 Jun 2026 11:24:32 GMT | The Attacker Lives Between Your Tools | Eldor Zufarov | [Read More](https://medium.com/p/a312246f9712) |
-| Fri, 05 Jun 2026 11:22:15 GMT | Silicon Silk Road or Trojan Horse? Why our AI Coding Assistant is a Security Liability | Cyber Scholars Network (CSN) Club,  SCSIT | [Read More](https://medium.com/p/24793dece6a6) |
-| Fri, 05 Jun 2026 11:21:42 GMT | Checkmate - TryHackMe Writeup | Raviraj Kumar | [Read More](https://medium.com/p/d57ef66c1e29) |
-| Fri, 05 Jun 2026 11:15:37 GMT | Security Guard Services in Ghaziabad - Professional Security Solutions - ZSS India | Zedssindia | [Read More](https://medium.com/p/cdefe6113781) |
-| Fri, 05 Jun 2026 11:09:45 GMT | Best Hosting Plans with Free SSL, cPanel & Domain (2026) | Ann Taylor | [Read More](https://medium.com/p/9dc384103a46) |
-| Fri, 05 Jun 2026 11:08:28 GMT | Defensive Security Tooling | ExploitHunter | [Read More](https://medium.com/p/8a344d8e31ee) |
-| Fri, 05 Jun 2026 11:06:00 GMT | THE ARCHITECTURE OF SANCTUARY: WHY A DIGITAL TWIN DEMANDS A NEW KIND OF SECURITY | Louis A. Lubin Jr. | [Read More](https://medium.com/p/463fd03f3a0b) |
-| Fri, 05 Jun 2026 11:05:54 GMT | You installed the VPS. That was the easy part. | Luc Demierre | [Read More](https://medium.com/p/c5177748212d) |
-| Fri, 05 Jun 2026 10:38:48 GMT | How to Host an HTML5 Game Online for Free in 2026 | Rakshita Mishra | [Read More](https://medium.com/p/2c38d925e2de) |
-| Fri, 05 Jun 2026 10:33:46 GMT | Web Authentication Testing Methodology for Bug Bounty & Pentesting | Sridhar K | [Read More](https://medium.com/p/65abb7032c12) |
-| Fri, 05 Jun 2026 10:27:02 GMT | Will the Internet Survive Quantum? | ExoArtDataPulse | [Read More](https://medium.com/p/0f6299c3d44c) |
-| Fri, 05 Jun 2026 10:22:24 GMT | Fake Job Offers Become a Cyber Espionage Weapon: Growing Threats to Government and Defense… | Jas | [Read More](https://medium.com/p/fae6fe79cd49) |
-| Fri, 05 Jun 2026 10:20:03 GMT | The Logistics of a Leak: How Stolen Data Actually Moves in the Underground Market | Mohit | [Read More](https://medium.com/p/e64fd3a8f48f) |
-| Fri, 05 Jun 2026 10:16:48 GMT | I Spoofed a MAC Address and Bypassed a Firewall — Networking Basics Explained | Prashant Raj | [Read More](https://medium.com/p/5b248c01d150) |
-| Fri, 05 Jun 2026 10:15:59 GMT | The Invisible Digital Footprint: How Your Photos Are Giving Away Your Exact Location | The Digital Bodyguard | [Read More](https://medium.com/p/4d438f9c0144) |
-| Fri, 05 Jun 2026 10:12:57 GMT | Strengthening Emergency Response: How Security Guards Support Police, Firefighters, and EMS | Grdsnscrt | [Read More](https://medium.com/p/422b22af00d4) |
-| Fri, 05 Jun 2026 10:09:35 GMT | Forgot Password Functionality Can Be Hacked Easily if Not Correctly Implemented | Ghost | [Read More](https://medium.com/p/45abcec468d5) |
-| Fri, 05 Jun 2026 10:06:36 GMT | Web Server Attacks -II Walkthrough - TryHackMe | Gowrishankar | [Read More](https://medium.com/p/f0077f149204) |
