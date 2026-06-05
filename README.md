@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 05 Jun 2026 21:40:09 GMT | No Alerts Doesn’t Mean No Threats — It Means You’re Blind | JSOC IT BLOG | [Read More](https://medium.com/p/db42dc7afc69) |
+| Fri, 05 Jun 2026 21:39:41 GMT | TryHackMe CyberHeroes Complete Walkthrough | Gohilharsh | [Read More](https://medium.com/p/f7ab652dbad8) |
+| Fri, 05 Jun 2026 21:38:27 GMT | How to Spot a Scam Website in Under 60 Seconds | Masangamike | [Read More](https://medium.com/p/ca18a2fe1926) |
+| Fri, 05 Jun 2026 21:10:50 GMT | Let Me Lay With You | Ruby Ryder | [Read More](https://medium.com/p/122f0e0a3770) |
+| Fri, 05 Jun 2026 21:03:58 GMT | Lay With Me | Ruby Ryder | [Read More](https://medium.com/p/e8a4a41ab2e8) |
+| Fri, 05 Jun 2026 21:01:27 GMT | We just launched Mythos SecOps Platform — a production-grade autonomous security intelligence… | Terrell | [Read More](https://medium.com/p/2f52acb78e60) |
+| Fri, 05 Jun 2026 21:01:00 GMT | TryHackMe Writeup UnIndexed — When the AI Assistant Has Access to Everything | 0xuki | [Read More](https://medium.com/p/4b5429efb6ae) |
+| Fri, 05 Jun 2026 20:51:26 GMT | THE HISTORY OF IP ADDRESSES | Anigbogu Chidubem Great | [Read More](https://medium.com/p/893d11a43f54) |
+| Fri, 05 Jun 2026 20:50:10 GMT | Before You Add an MCP Server to Your IDE, Read the Config Like It Can Execute Code | The AI Guy | [Read More](https://medium.com/p/4334dc3e80b9) |
+| Fri, 05 Jun 2026 20:26:13 GMT | I Replied to Spam Emails for 3 Years. Here’s What Happened. | Sarah Hayes | [Read More](https://medium.com/p/ddd15bb55574) |
+| Fri, 05 Jun 2026 20:23:36 GMT | How Hackers Detect Honeypots Before It’s Too Late | Shahzaib | [Read More](https://medium.com/p/1262ecc73a12) |
+| Fri, 05 Jun 2026 20:16:55 GMT | Home Security Automation: What You Need to Know | AlexBryn | [Read More](https://medium.com/p/471ac5e00603) |
 | Fri, 05 Jun 2026 20:14:43 GMT | The 5 Skills Every Cybersecurity Engineer Needs in 2026 (That Universities Still Aren’t Teaching) | Taimur Ijlal | [Read More](https://medium.com/p/b069a55c74ff) |
 | Fri, 05 Jun 2026 20:06:16 GMT | Coming up at Tech Weekend June 2026 - VC Office hours with: Nicole Toussaint, Investor at TenOneTen… | Founders Village | [Read More](https://medium.com/p/36812e545aaa) |
 | Fri, 05 Jun 2026 20:02:44 GMT | "Defending From the Inside: How Linux Taught Me What Security Actually Means" | Paul Adino | [Read More](https://medium.com/p/b783a8f73c68) |
@@ -27,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Jun 2026 19:40:32 GMT | Governance Is No Longer a Compliance Task — It’s a Growth Enabler | Latifah-Pilogian | [Read More](https://medium.com/p/34e04ac0eb79) |
 | Fri, 05 Jun 2026 19:33:25 GMT | Cisco Unified Communications Manager Critical SSRF Security Advisory | SOCFortress | [Read More](https://medium.com/p/f5a92acd6b9e) |
 | Fri, 05 Jun 2026 19:25:09 GMT | How To Add botsv3 Logs To SPLUNK SIEM Without Any Errors | OxMotaw3 | [Read More](https://medium.com/p/2585860557c9) |
+| Fri, 05 Jun 2026 19:21:57 GMT | SQL Injection | HelloBug | [Read More](https://medium.com/p/3f8020fe27f8) |
 | Fri, 05 Jun 2026 19:21:00 GMT | IA Débil vs. IA Fuerte: El Presente y el Futuro de la Tecnología | Michel Alan López | [Read More](https://medium.com/p/ab65fba69a70) |
 | Fri, 05 Jun 2026 19:20:10 GMT | A Claude Skill Caught a Bug Three Human Reviewers Missed | Cowboysam | [Read More](https://medium.com/p/4a7f17b60515) |
 | Fri, 05 Jun 2026 19:01:39 GMT | How I Connected Kali Linux to TryHackMe Using OpenVPN | Vikas Singh | [Read More](https://medium.com/p/ff9b60e60797) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Jun 2026 13:15:59 GMT | Why Hosting Companies Struggle with L1, L2, and L3 Technical Support | actsupport | [Read More](https://medium.com/p/f1a3d4bbd1c8) |
 | Fri, 05 Jun 2026 13:12:38 GMT | Billing — TryHackMe WriteUp with Flags | Rayenhafsawy | [Read More](https://medium.com/p/30e318b4fa88) |
 | Fri, 05 Jun 2026 13:12:16 GMT | Security for AI: Büyük Dil Modellerine Yönelik Saldırılar | Ömer Erdem Dilek | [Read More](https://medium.com/p/745afe1a9fff) |
-| Fri, 05 Jun 2026 13:08:38 GMT | Hijacking Android’s Location Stack — Without Root | r69shabh | [Read More](https://medium.com/p/c02d3b0af328) |
-| Fri, 05 Jun 2026 13:08:12 GMT | Cybersecurity Solutions in KSA: Why Saudi Businesses Must Align Security with PDPL, SDAIA, and… | Basithseo | [Read More](https://medium.com/p/96544f34cef3) |
-| Fri, 05 Jun 2026 13:05:38 GMT | Beyond Chatbots To Agentic WorkFlows: Deploying Agentic AI in Academic Institutions | Technovalley Software India Pvt Ltd | [Read More](https://medium.com/p/581e2e043443) |
-| Fri, 05 Jun 2026 13:03:48 GMT | Nginx Rift (CVE-2026–42945)-Part2 | rezauditore | [Read More](https://medium.com/p/3d24275f1fa3) |
-| Fri, 05 Jun 2026 12:55:29 GMT | Understanding Digital Marketing Infrastructure: The Role of Verified Environments in Software… | PVA Marketplace | [Read More](https://medium.com/p/5ea5d39e8f71) |
-| Fri, 05 Jun 2026 12:53:09 GMT | How To Replace a Door Knob With a Lock - DIY Home Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/1da05dc8f6d8) |
-| Fri, 05 Jun 2026 12:27:00 GMT | Include THM Writeup | L4ZZ3RJ0D | [Read More](https://medium.com/p/5b37e8423f25) |
-| Fri, 05 Jun 2026 12:26:59 GMT | Vulnerability Management: The biggest challenge in cybersecurity today is not finding… | Ankushbansal | [Read More](https://medium.com/p/74546e342862) |
-| Fri, 05 Jun 2026 12:26:37 GMT | HTML Injection in Outbound Emails: An Overlooked Security Risk | vibhuti bhatt | [Read More](https://medium.com/p/ba5193cbcc5c) |
-| Fri, 05 Jun 2026 12:24:23 GMT | Breach Files #003: SolarWinds 2020 | NullyBlissful | [Read More](https://medium.com/p/b60b5ed056d7) |
-| Fri, 05 Jun 2026 12:20:29 GMT | Trust Under Attack: What FTC Impersonation Scams Reveal About the Future of Fraud | Sue Benner | [Read More](https://medium.com/p/1f78d57b541e) |
-| Fri, 05 Jun 2026 12:16:00 GMT | Why 24/7 Monitoring Is No Longer Optional in Cybersecurity | Cloud4C Services | [Read More](https://medium.com/p/64efa9067dc7) |
-| Fri, 05 Jun 2026 12:12:44 GMT | The Next Cyberattack May Begin With a Polite Request to an AI Chatbot | Jaita Bhowal | [Read More](https://medium.com/p/41b17c636c66) |
