@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Jun 2026 18:32:59 GMT | My Journey to Passing the Certified Red Team Analyst (CRTA) by CyberWarFare Labs: A Comprehensive… | Ahmed H. Ismael | [Read More](https://medium.com/p/e556c14b1f67) |
+| Sat, 06 Jun 2026 18:28:27 GMT | How IDOR & Broken Authorization Lead to Massive Data Breaches | Novashield | [Read More](https://medium.com/p/9e9571c8b289) |
+| Sat, 06 Jun 2026 18:21:36 GMT | But I thought it was safe to open up… | Asmita B | [Read More](https://medium.com/p/3f4b545b34f5) |
+| Sat, 06 Jun 2026 18:16:59 GMT | Security Analyst Agent: Really simplified! | Yash Mudaliar | [Read More](https://medium.com/p/b86390fc2e30) |
+| Sat, 06 Jun 2026 18:10:04 GMT | Facts — A HackTheBox Writeup | 0x77 | [Read More](https://medium.com/p/303a560ddb72) |
+| Sat, 06 Jun 2026 18:09:19 GMT | Hunting Android Lockscreen Bypasses on Pixel: A Campaign Walkthrough — Contd. — III | Farhad Sajid Barbhuiya | [Read More](https://medium.com/p/3977139bb9ba) |
+| Sat, 06 Jun 2026 18:03:48 GMT | Hunting Android Lockscreen Bypasses on Pixel: A Campaign Walkthrough — Contd. — II | Farhad Sajid Barbhuiya | [Read More](https://medium.com/p/26baaf2c37cb) |
+| Sat, 06 Jun 2026 18:01:01 GMT | Nobody Cares About YOUR Stupid Story | Paperlight Stories | [Read More](https://medium.com/p/53f1c0dd95da) |
+| Sat, 06 Jun 2026 17:52:35 GMT | If I Were an Attacker: Thinking About SQL Injection | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/b545b31d32ef) |
+| Sat, 06 Jun 2026 17:51:23 GMT | The Open Source Operating System Taking Over Schools, Hospitals and Governments | Infinity Matrix | [Read More](https://medium.com/p/a59dfb603b65) |
+| Sat, 06 Jun 2026 17:46:55 GMT | Google Tracks 39 Data Points About You Daily — Here Is the Full List | Infinity Matrix | [Read More](https://medium.com/p/487e92d01e16) |
+| Sat, 06 Jun 2026 17:46:29 GMT | Starting out in Cybersecurity and AI as a Business Student - part 2 | Mina C. | [Read More](https://medium.com/p/75760588658d) |
+| Sat, 06 Jun 2026 17:27:06 GMT | The Malware Analyst’s Scalpel: How Debugging Forces Malware to Reveal Its Secrets | Pop123 | [Read More](https://medium.com/p/a5dcfee2b634) |
+| Sat, 06 Jun 2026 17:17:32 GMT | Then Life Dared Me to Stay Visible | Chelsea Leigh Trescott | [Read More](https://medium.com/p/b4cd255edc90) |
 | Sat, 06 Jun 2026 17:12:12 GMT | When Revoking Isn’t Enough: Building a Tool to Outrun the Bot | Serge Kartanenkov | [Read More](https://medium.com/p/bd8b3f07c023) |
 | Sat, 06 Jun 2026 17:03:19 GMT | I Built an Offline Tool That Tears Apart Your Security Policies | Soumyadipta Birabar | [Read More](https://medium.com/p/7c026552643c) |
 | Sat, 06 Jun 2026 16:57:04 GMT | Cryptographic Armor: How Hashing, Salting, and Ciphers Actually Shield Your Data | sufal kc | [Read More](https://medium.com/p/42b8accd5528) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Jun 2026 10:08:50 GMT | Full TCP Port Enumeration: Discovering the Complete Attack Surface | Satishkakani | [Read More](https://medium.com/p/3e2c04e94134) |
 | Sat, 06 Jun 2026 10:05:18 GMT | The Cloud Is Now a War Target: What the AWS Drone Strikes Mean for Every Developer and Business | dparente | [Read More](https://medium.com/p/8998d768aeaa) |
 | Sat, 06 Jun 2026 10:05:04 GMT | Network Pusulası #9 — ARP: IP ile MAC Arasındaki Köprü ve Saldırgan İçin Açık Kapı | Toprak Külekçioğlu | [Read More](https://medium.com/p/b9f111fd1fcc) |
-| Sat, 06 Jun 2026 10:04:07 GMT | Cyber Security Training in Hyderabad - Best Cyber Security Course in Hyderabad | Saikiranversionit | [Read More](https://medium.com/p/c67916a7a27e) |
-| Sat, 06 Jun 2026 10:01:07 GMT | Is Quantum Computing Really Only Targeting Bitcoin? | Crypto Sage | [Read More](https://medium.com/p/4adb38baac89) |
-| Sat, 06 Jun 2026 09:58:37 GMT | Ever Wonder How Your Inbox Detects Fake Emails Before You Do? | 0xMaximux | [Read More](https://medium.com/p/720bb9b3f11c) |
-| Sat, 06 Jun 2026 09:58:06 GMT | No Viral, No Justice: Tech as the Main Character in Indonesia’s Fight Against Corruption | Maziya Qofi | [Read More](https://medium.com/p/f3e809dffbd4) |
-| Sat, 06 Jun 2026 09:56:44 GMT | CSP is a seatbelt, not a force field | 7s26Simon | [Read More](https://medium.com/p/734d20c250cf) |
-| Sat, 06 Jun 2026 09:53:51 GMT | Systemic Automation and the Dehumanization of Digital Justice: A Comparative Study of the Film… | ADanielHill | [Read More](https://medium.com/p/7a7cdf8a4b8f) |
-| Sat, 06 Jun 2026 09:53:02 GMT | 5 Simple Ways to Secure Your Door Without Replacing Your Lock | Criminology Expert | [Read More](https://medium.com/p/e3b9d02739fc) |
-| Sat, 06 Jun 2026 09:51:00 GMT | Global Administrator Accounts, Necessary Evil or Security Risk? | Railsdevabam | [Read More](https://medium.com/p/27e3cd8d7037) |
-| Sat, 06 Jun 2026 09:48:53 GMT | Recruit Walkthrough - TryHackMe | Gowrishankar | [Read More](https://medium.com/p/d19d1f773743) |
-| Sat, 06 Jun 2026 09:43:56 GMT | Understanding Agentic AI Security Risks in Enterprise Environments | Tvmoffensobacklink | [Read More](https://medium.com/p/6e122e704672) |
-| Sat, 06 Jun 2026 09:43:52 GMT | Your Ping Is Broken. | Leonewambi | [Read More](https://medium.com/p/edc172046d3c) |
-| Sat, 06 Jun 2026 09:43:38 GMT | BUILDING MY BUG BOUNTY PIPELINE FROM SCRATCH | Sidharth Sanwariya | [Read More](https://medium.com/p/b0781567f20f) |
-| Sat, 06 Jun 2026 09:42:54 GMT | I Was Removed From the Organization, But My Access Still Worked: Lessons From a Broken Access… | Hangga Aji Sayekti | [Read More](https://medium.com/p/151158d95f7d) |
-| Sat, 06 Jun 2026 09:41:00 GMT | Multi-tenant CASL: the patterns that survive production | Matheus Lúcio | [Read More](https://medium.com/p/872b24976f0a) |
