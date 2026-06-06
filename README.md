@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Jun 2026 19:57:35 GMT | Understanding CISSP Domains: What They Are, Why They Matter, and How They Work in Real Life | Bridget | [Read More](https://medium.com/p/7ca2bd271ed0) |
+| Sat, 06 Jun 2026 19:56:00 GMT | Weaponizing the Weakest Link: How Attackers Exploit Cascading Failures in Microservices (And How to… | Pau Dang | [Read More](https://medium.com/p/31760e5818fd) |
+| Sat, 06 Jun 2026 19:50:32 GMT | I Investigated a $47,000 BEC Attack. Here’s Every Red Flag I Uncovered. | Famous Areguamen | [Read More](https://medium.com/p/e08fe32301f9) |
+| Sat, 06 Jun 2026 19:41:44 GMT | Chasing Content Security Policy (CSP) in NextJS | Roshan Pratap Katel | [Read More](https://medium.com/p/fbafdcb17354) |
+| Sat, 06 Jun 2026 19:37:07 GMT | Cloud Networking 101: What is a VPC? | Aryan Vij | [Read More](https://medium.com/p/c1544121acf7) |
+| Sat, 06 Jun 2026 19:17:56 GMT | The Real State of ISO 27001 in 2026? | AartiDecode | [Read More](https://medium.com/p/1742a74abb7c) |
+| Sat, 06 Jun 2026 19:13:26 GMT | Why .dev and .app Domains Make HTTPS Non-Negotiable (And Why It Matters) | Julian Neagu | [Read More](https://medium.com/p/8bce4aa65860) |
+| Sat, 06 Jun 2026 19:07:03 GMT | Digital Transformation or Risk Transformation? | Haroon Rashid | [Read More](https://medium.com/p/73f91003b654) |
+| Sat, 06 Jun 2026 19:06:36 GMT | Search & Rescue Security Services | Dynamic security solution ltd | [Read More](https://medium.com/p/e9ab3b52b7e9) |
+| Sat, 06 Jun 2026 18:52:22 GMT | Algorithmic Video Surveillance during the Paris Olympic Games | 42 Artificial Intelligence | [Read More](https://medium.com/p/696c70055678) |
+| Sat, 06 Jun 2026 18:51:40 GMT | I Didn’t Hack the App. I Hacked the AI. Web LLM is breached ! | Nilanjan Chowdhury | [Read More](https://medium.com/p/79d7aa57c471) |
+| Sat, 06 Jun 2026 18:49:34 GMT | The Hidden Danger: Corporate AI Data Poisoning in Enterprise Systems | BizTech Pulse Hub | [Read More](https://medium.com/p/2abc78920ac6) |
+| Sat, 06 Jun 2026 18:48:31 GMT | WinNotify/signeddrv.sys — Full Local Privilege Escalation via Arbitrary Kernel Read/Write | Haidermustafa | [Read More](https://medium.com/p/09e0c1ababf3) |
+| Sat, 06 Jun 2026 18:46:53 GMT | Code as a Weapon: Navigating the Ethical Frontier of Military Restriction Licenses | Hidayat Mansuri | [Read More](https://medium.com/p/0057ebf983a3) |
 | Sat, 06 Jun 2026 18:32:59 GMT | My Journey to Passing the Certified Red Team Analyst (CRTA) by CyberWarFare Labs: A Comprehensive… | Ahmed H. Ismael | [Read More](https://medium.com/p/e556c14b1f67) |
 | Sat, 06 Jun 2026 18:28:27 GMT | How IDOR & Broken Authorization Lead to Massive Data Breaches | Novashield | [Read More](https://medium.com/p/9e9571c8b289) |
 | Sat, 06 Jun 2026 18:21:36 GMT | But I thought it was safe to open up… | Asmita B | [Read More](https://medium.com/p/3f4b545b34f5) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Jun 2026 11:12:57 GMT | Deep-Dive Property Node Analysis: 404 Palmetto Way | Steve Avrus | [Read More](https://medium.com/p/da72cba3f740) |
 | Sat, 06 Jun 2026 11:12:00 GMT | Surviving the 72-Hour Countdown: A Deep Dive into DPDP Act Breach Notification Requirements | Nitin Ray | [Read More](https://medium.com/p/444e6c740b63) |
 | Sat, 06 Jun 2026 11:06:05 GMT | HA Joker CTF — TryHackMe Walkthrough | Utsav Thakur | [Read More](https://medium.com/p/d7188f71fca6) |
-| Sat, 06 Jun 2026 11:02:16 GMT | HF2019 Walkthrough - From Enumeration to Root (WordPress SQLi + Credential Reuse) | Ajaydevsv | [Read More](https://medium.com/p/5b7b4f03d081) |
-| Sat, 06 Jun 2026 11:02:06 GMT | The Watcher and The Hidden Circuits | Matthew Horan | [Read More](https://medium.com/p/3d437019bace) |
-| Sat, 06 Jun 2026 11:01:36 GMT | Mr Robot CTF — TryHackMe Walkthrough | Utsav Thakur | [Read More](https://medium.com/p/e1bc67a91927) |
-| Sat, 06 Jun 2026 11:00:42 GMT | Why I Stopped Giving Out My Real Email in 2026 (And What I Do Instead) | TM-Mail.com | [Read More](https://medium.com/p/620f37a3ec77) |
-| Sat, 06 Jun 2026 10:58:21 GMT | 2 Years of P5s, Sleepless Nights, and Finally Making it to a Hall of Fame | Priyansh | [Read More](https://medium.com/p/b43144bdaa48) |
-| Sat, 06 Jun 2026 10:50:51 GMT | How I Found an OTP Authentication Bypass While Hunting for Bugs | Ankitsingh | [Read More](https://medium.com/p/e92fa6c4c9e7) |
-| Sat, 06 Jun 2026 10:46:32 GMT | PoisonedCredentials Lab | Balaji | [Read More](https://medium.com/p/f44cf0d04273) |
-| Sat, 06 Jun 2026 10:26:01 GMT | The AI Loop Closes: How Anthropic is Automating AI Development from Within | Pietro Romano / SecBeret | [Read More](https://medium.com/p/6b1f83dc4e33) |
-| Sat, 06 Jun 2026 10:18:46 GMT | Exploiting EternalBlue on Metasploitable 3 (Windows Server 2008 R2) Using Metasploit | Praveera Arosh | [Read More](https://medium.com/p/d3101858cc0b) |
-| Sat, 06 Jun 2026 10:16:08 GMT | Defense in-Depth: Building an Unbreakable Fortress in the Digital Age | Chiwendu Goodluck for | [Read More](https://medium.com/p/2463cb75a8b3) |
-| Sat, 06 Jun 2026 10:09:21 GMT | Protecting Your Investment: Security Planning for New Business Locations | Grdsnscrt | [Read More](https://medium.com/p/6d8ba3283eb5) |
-| Sat, 06 Jun 2026 10:08:50 GMT | Full TCP Port Enumeration: Discovering the Complete Attack Surface | Satishkakani | [Read More](https://medium.com/p/3e2c04e94134) |
-| Sat, 06 Jun 2026 10:05:18 GMT | The Cloud Is Now a War Target: What the AWS Drone Strikes Mean for Every Developer and Business | dparente | [Read More](https://medium.com/p/8998d768aeaa) |
-| Sat, 06 Jun 2026 10:05:04 GMT | Network Pusulası #9 — ARP: IP ile MAC Arasındaki Köprü ve Saldırgan İçin Açık Kapı | Toprak Külekçioğlu | [Read More](https://medium.com/p/b9f111fd1fcc) |
