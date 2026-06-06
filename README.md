@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Jun 2026 17:12:12 GMT | When Revoking Isn’t Enough: Building a Tool to Outrun the Bot | Serge Kartanenkov | [Read More](https://medium.com/p/bd8b3f07c023) |
+| Sat, 06 Jun 2026 17:03:19 GMT | I Built an Offline Tool That Tears Apart Your Security Policies | Soumyadipta Birabar | [Read More](https://medium.com/p/7c026552643c) |
+| Sat, 06 Jun 2026 16:57:04 GMT | Cryptographic Armor: How Hashing, Salting, and Ciphers Actually Shield Your Data | sufal kc | [Read More](https://medium.com/p/42b8accd5528) |
+| Sat, 06 Jun 2026 16:51:43 GMT | Business Logic Flaw — Users Can Manipulate Their Own Subscription Price via Exposed A/B Testing API | Divakarvasani | [Read More](https://medium.com/p/33d75365778c) |
+| Sat, 06 Jun 2026 16:42:18 GMT | Leaking Production Stripe Promo Codes via Unauthenticated PayloadCMS API — From Information… | Divakarvasani | [Read More](https://medium.com/p/2a5db238bc97) |
+| Sat, 06 Jun 2026 16:35:38 GMT | The Structural Shift from Reactive Scanning to Continuous Threat Exposure Management | BizTech Pulse Hub | [Read More](https://medium.com/p/c4d537b57631) |
+| Sat, 06 Jun 2026 16:30:40 GMT | Congress Just Dropped a 269-Page AI Bill. | v0id | [Read More](https://medium.com/p/33844bc2b2b8) |
+| Sat, 06 Jun 2026 16:27:29 GMT | Why I Finally Built bugbountyscam.com Graveyard for Fake Bug Bounty Programs | afaqain | [Read More](https://medium.com/p/177c1063e35b) |
+| Sat, 06 Jun 2026 16:26:46 GMT | No Big Degree, No Huge Title, No Problem: Foo’s Trust-Based Career Protocol | Just Lim @ CareerBeats | [Read More](https://medium.com/p/2f5591c5ebcf) |
+| Sat, 06 Jun 2026 16:20:06 GMT | Cloud Agent as Attack Infrastructure: When Microsoft Office Agent Becomes a Proxy | Omkar Asgaonkar | [Read More](https://medium.com/p/fd8bb73ddc15) |
+| Sat, 06 Jun 2026 16:17:43 GMT | Tryhackme — Summit | zerbaliy3v | [Read More](https://medium.com/p/50be94eae80d) |
+| Sat, 06 Jun 2026 16:16:40 GMT | CanaryWatch: A deception-based approach to ransomware detection | Some_Security_Guy | [Read More](https://medium.com/p/acfa14005c02) |
+| Sat, 06 Jun 2026 16:15:29 GMT | Complete Guide: Network Reconnaissance and Exploiting MS17–010 with Metasploit Bind TCP Shell | MAB | [Read More](https://medium.com/p/35f2e62d2352) |
+| Sat, 06 Jun 2026 16:03:25 GMT | The Backend Security Guide Every Developer Should Read | Sakshi | [Read More](https://medium.com/p/028bb43d9c8e) |
+| Sat, 06 Jun 2026 15:56:54 GMT | Facts Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/537f2a59dd0a) |
+| Sat, 06 Jun 2026 15:51:39 GMT | Windows Privilege Escalation — TryHackMe Walkthrough | Hussein 404 | [Read More](https://medium.com/p/47fa44a839c7) |
+| Sat, 06 Jun 2026 15:47:21 GMT | How Teams of AI Agents Accelerate Zero-Day Exploitation | Oscar Antonangelo | [Read More](https://medium.com/p/bff14aa2954d) |
 | Sat, 06 Jun 2026 15:40:00 GMT | TryHackMe CTF Challenge: Jr Penetration Tester ‐ Forward (Write‐ups) | Fuad Khan | [Read More](https://medium.com/p/e4618f8c6536) |
 | Sat, 06 Jun 2026 15:36:35 GMT | The Ghost in the Browser: How a Single Line of Code Hands Your User Sessions to Hackers | Sambhab Sahoo | [Read More](https://medium.com/p/83735907b959) |
 | Sat, 06 Jun 2026 15:35:14 GMT | Getting Started in API Penetration Testing | Abrar Bin Habib | [Read More](https://medium.com/p/e068c68a1a65) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Jun 2026 09:43:38 GMT | BUILDING MY BUG BOUNTY PIPELINE FROM SCRATCH | Sidharth Sanwariya | [Read More](https://medium.com/p/b0781567f20f) |
 | Sat, 06 Jun 2026 09:42:54 GMT | I Was Removed From the Organization, But My Access Still Worked: Lessons From a Broken Access… | Hangga Aji Sayekti | [Read More](https://medium.com/p/151158d95f7d) |
 | Sat, 06 Jun 2026 09:41:00 GMT | Multi-tenant CASL: the patterns that survive production | Matheus Lúcio | [Read More](https://medium.com/p/872b24976f0a) |
-| Sat, 06 Jun 2026 09:37:50 GMT | REST API Authentication | Aditi | [Read More](https://medium.com/p/6d58b4f250eb) |
-| Sat, 06 Jun 2026 09:34:42 GMT | I Got an AI Security Certification for Free — Here’s Exactly What You Need to Know | Balaji Melagiri | [Read More](https://medium.com/p/659f4ddb9a80) |
-| Sat, 06 Jun 2026 09:33:41 GMT | I Tested 20 Security Tools So You Don’t Have To | Fateyaly | [Read More](https://medium.com/p/1eac089572a6) |
-| Sat, 06 Jun 2026 09:32:52 GMT | How SOC Analysts Use Wireshark and MaxMind GeoIP to Investigate Suspicious IP Addresses | Xpert4Cyber | [Read More](https://medium.com/p/d6f432d3b87b) |
-| Sat, 06 Jun 2026 09:09:42 GMT | THE FUTURE OF ELECTRONICS | Nidhinigamlko | [Read More](https://medium.com/p/7d9e0bf03f2c) |
-| Sat, 06 Jun 2026 08:42:38 GMT | Case Study: TARmageddon — CVE-2025–62518 and the Supply Chain Nightmare in Rust’s Async TAR… | Ajay Kumar | [Read More](https://medium.com/p/5c30e8561a84) |
-| Sat, 06 Jun 2026 08:30:16 GMT | How to Check If a Website Is Safe in 2026: 7 Fast Checks Before You Click | Safebrowz | [Read More](https://medium.com/p/fb96a3042b69) |
-| Sat, 06 Jun 2026 08:21:36 GMT | Türkiye’de Siber Güvenlik Uzmanı Nasıl Olunur? | YTK ACADEMY | [Read More](https://medium.com/p/0b8dccb42c7e) |
-| Sat, 06 Jun 2026 08:19:52 GMT | VIP Security Services: Professional Protection for High-Profile Individuals | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/29ab82bfb434) |
-| Sat, 06 Jun 2026 08:14:15 GMT | Why Construction Site Security Is Essential for Every Project | Hirasarfraz | [Read More](https://medium.com/p/f6401b40015b) |
-| Sat, 06 Jun 2026 08:06:55 GMT | Make Your Angular + Firebase Application SOC 2 Compliant | Sehban Alam | [Read More](https://medium.com/p/d146ec251e3a) |
-| Sat, 06 Jun 2026 08:01:25 GMT | 1. Shell | Satishkakani | [Read More](https://medium.com/p/be756a6b8745) |
-| Sat, 06 Jun 2026 08:01:03 GMT | Keamanan Siber Berbasis ISO/IEC 27001:2022 — Part 1 dari 5 | Archivum Aeternum | [Read More](https://medium.com/p/a6555d845cd8) |
-| Sat, 06 Jun 2026 07:54:22 GMT | Pragmatism Is a Surprisingly Rare Skill | Jishuzhain | [Read More](https://medium.com/p/3440102a2bb6) |
-| Sat, 06 Jun 2026 07:54:01 GMT | What Makes a Good EDR Product? Reflections from Conversations with Practitioners | Jishuzhain | [Read More](https://medium.com/p/7d0c1f491d4d) |
-| Sat, 06 Jun 2026 07:50:45 GMT | Angular SSR Open Redirect Vulnerabilities Explained (CVE-2026-27738, CVE-2026-33397) | HCN | [Read More](https://medium.com/p/9938214d070a) |
-| Sat, 06 Jun 2026 07:43:53 GMT | Advanced Linux System Administrator Interview Questions and Solutions | cybersecuritycourse | [Read More](https://medium.com/p/9262056b0b5f) |
