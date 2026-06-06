@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Jun 2026 21:20:52 GMT | Nautical Twilight | Sean Fears | [Read More](https://medium.com/p/9bb81c67e05e) |
+| Sat, 06 Jun 2026 21:18:45 GMT | The Digital Panopticon: Deconstructing the Archive Discovery Process | Steve Avrus | [Read More](https://medium.com/p/b25e882835a1) |
+| Sat, 06 Jun 2026 21:04:47 GMT | A $20 Claude subscription can build my application in a day. | Tarun - AI, ML & Agentic Systems | [Read More](https://medium.com/p/ff4e7fc86a6f) |
+| Sat, 06 Jun 2026 21:01:00 GMT | Down to the Wire with 4 Minutes Left: How I Conquered My SC-500 Beta Exam | carlarjenkins | [Read More](https://medium.com/p/3fb62c93310a) |
+| Sat, 06 Jun 2026 20:41:26 GMT | Anthropic Engineers Embedded at NSA for Mythos Cyber Operations | SOCFortress | [Read More](https://medium.com/p/4a73a99cd551) |
+| Sat, 06 Jun 2026 20:37:35 GMT | But There Is No True Escapism | Papered Soul | [Read More](https://medium.com/p/e39ecfc357aa) |
+| Sat, 06 Jun 2026 20:18:44 GMT | Are public AI chatbots safe for corporate use? | Hamnah Muhammadi | [Read More](https://medium.com/p/8b848f522710) |
+| Sat, 06 Jun 2026 20:10:31 GMT | Cloud Post-Mortem #3: The AI That Didn’t Invent Anything — But Weaponized Everything | Alex Joyel Raj I - Cyber Howler | [Read More](https://medium.com/p/13756289f840) |
 | Sat, 06 Jun 2026 19:57:35 GMT | Understanding CISSP Domains: What They Are, Why They Matter, and How They Work in Real Life | Bridget | [Read More](https://medium.com/p/7ca2bd271ed0) |
 | Sat, 06 Jun 2026 19:56:00 GMT | Weaponizing the Weakest Link: How Attackers Exploit Cascading Failures in Microservices (And How to… | Pau Dang | [Read More](https://medium.com/p/31760e5818fd) |
 | Sat, 06 Jun 2026 19:50:32 GMT | I Investigated a $47,000 BEC Attack. Here’s Every Red Flag I Uncovered. | Famous Areguamen | [Read More](https://medium.com/p/e08fe32301f9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Jun 2026 12:17:17 GMT | Zero: SeeingWhat’s Hidden | Talha Bağcı | [Read More](https://medium.com/p/c0958b199b63) |
 | Sat, 06 Jun 2026 11:58:05 GMT | Dive Into Pentesting | Ankit Srivastava | [Read More](https://medium.com/p/92519ea8ee15) |
 | Sat, 06 Jun 2026 11:40:20 GMT | Account Takeover via Unsafe CORS - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/177022130018) |
-| Sat, 06 Jun 2026 11:38:53 GMT | ⚠ Security Alert — Developer Community | Techeve | [Read More](https://medium.com/p/5ff1b3b52c20) |
-| Sat, 06 Jun 2026 11:37:58 GMT | Your Teen’s Phone Is Under Attack: The Surprising New Cyber Tactics Parents Can’t Ignore … | Kevin Kelly | [Read More](https://medium.com/p/2d6fad3f04f0) |
-| Sat, 06 Jun 2026 11:31:14 GMT | Why CCTV Camera Installation is Important for Home and Business Security in Lucknow | Technologyeirs | [Read More](https://medium.com/p/d5bbd27cf008) |
-| Sat, 06 Jun 2026 11:31:00 GMT | How Boards Measure AI Business Value Without Mistaking Motion for Results | Tyson Martin | [Read More](https://medium.com/p/f750d7107900) |
-| Sat, 06 Jun 2026 11:28:43 GMT | Why Rekurd Was Built: The $3.7 Trillion Problem No One Wanted to Solve | Rekurd | [Read More](https://medium.com/p/5e0639cf8d35) |
-| Sat, 06 Jun 2026 11:12:57 GMT | Deep-Dive Property Node Analysis: 404 Palmetto Way | Steve Avrus | [Read More](https://medium.com/p/da72cba3f740) |
-| Sat, 06 Jun 2026 11:12:00 GMT | Surviving the 72-Hour Countdown: A Deep Dive into DPDP Act Breach Notification Requirements | Nitin Ray | [Read More](https://medium.com/p/444e6c740b63) |
-| Sat, 06 Jun 2026 11:06:05 GMT | HA Joker CTF — TryHackMe Walkthrough | Utsav Thakur | [Read More](https://medium.com/p/d7188f71fca6) |
