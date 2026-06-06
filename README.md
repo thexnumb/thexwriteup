@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Jun 2026 15:40:00 GMT | TryHackMe CTF Challenge: Jr Penetration Tester ‐ Forward (Write‐ups) | Fuad Khan | [Read More](https://medium.com/p/e4618f8c6536) |
+| Sat, 06 Jun 2026 15:36:35 GMT | The Ghost in the Browser: How a Single Line of Code Hands Your User Sessions to Hackers | Sambhab Sahoo | [Read More](https://medium.com/p/83735907b959) |
+| Sat, 06 Jun 2026 15:35:14 GMT | Getting Started in API Penetration Testing | Abrar Bin Habib | [Read More](https://medium.com/p/e068c68a1a65) |
+| Sat, 06 Jun 2026 15:32:01 GMT | SOC127 — SQL Injection Detected WalkThrough — LetsDefend. | Rizwann | [Read More](https://medium.com/p/893818023461) |
+| Sat, 06 Jun 2026 15:31:59 GMT | Backdooring the Backdoor | Mufasa | [Read More](https://medium.com/p/a609e989a91a) |
+| Sat, 06 Jun 2026 15:17:21 GMT | AI Isn’t Disrupting Cybersecurity — It’s Exposing the Operating-Layer Gap | Michael Thiessmeier | [Read More](https://medium.com/p/87d9b0c3101b) |
+| Sat, 06 Jun 2026 15:17:14 GMT | Love Anyway | Jeanettegardner | [Read More](https://medium.com/p/082e36325211) |
+| Sat, 06 Jun 2026 15:12:35 GMT | Traffic Analysis Pitfalls (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/2281a699eb15) |
+| Sat, 06 Jun 2026 15:12:03 GMT | How Managed Cyber Security Services Help Small and Mid-Sized Businesses Stay Protected | Fortnexs Shield | [Read More](https://medium.com/p/a2efde96aa76) |
+| Sat, 06 Jun 2026 15:09:40 GMT | Claude Opus 4.8 | Ezekiel Njuguna | [Read More](https://medium.com/p/6cec84a0e1f9) |
+| Sat, 06 Jun 2026 14:54:31 GMT | I Built a Threat Intel Dashboard for $0 | lateralmoves | [Read More](https://medium.com/p/03315af5bc10) |
+| Sat, 06 Jun 2026 14:44:24 GMT | I Tried to Hack My Own Portfolio Website — Here’s What Happened | Saharia Hassan Safin | [Read More](https://medium.com/p/845f18206bd5) |
+| Sat, 06 Jun 2026 14:38:45 GMT | Understanding Cybersecurity Risk: From Identification to Action | Cyber Insights | [Read More](https://medium.com/p/4649a5d9fea3) |
+| Sat, 06 Jun 2026 14:33:25 GMT | Perimeter, DMZ, and Network Segmentation: The Security Layers That Stop Hackers Before They Reach… | Shalu | [Read More](https://medium.com/p/49f9d5c889c0) |
+| Sat, 06 Jun 2026 14:21:12 GMT | Wanting Connection, Fearing It Too | Mellomlinjene | [Read More](https://medium.com/p/99eb2f008af8) |
+| Sat, 06 Jun 2026 14:19:27 GMT | Shift-Left Security for Agentic Development: Automated Code Review That Keeps Pace With AI | Krishna Indukuri | [Read More](https://medium.com/p/aa2236fa8a25) |
 | Sat, 06 Jun 2026 14:14:23 GMT | Hall of Fame Unlocked: Bypass Authentication | Vanshrathore | [Read More](https://medium.com/p/aea20a1e6903) |
+| Sat, 06 Jun 2026 14:11:03 GMT | Securing LLMs in Production: A Practitioner’s Guide to Threats, Defenses, and Data Leak Prevention | programming. | [Read More](https://medium.com/p/9eaf8e2692ec) |
 | Sat, 06 Jun 2026 14:09:56 GMT | Security Without Evidence Is Faith | Eldor Zufarov | [Read More](https://medium.com/p/08e29644fc6a) |
 | Sat, 06 Jun 2026 14:04:36 GMT | Automating C2 Traffic Detection using Python, Zeek and Suricata | Aghaverdi Kalantarli | [Read More](https://medium.com/p/53ea86c93507) |
 | Sat, 06 Jun 2026 14:02:45 GMT | Network Security: Protecting the Backbone of Digital Communication | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/1269a3786b44) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Jun 2026 07:54:01 GMT | What Makes a Good EDR Product? Reflections from Conversations with Practitioners | Jishuzhain | [Read More](https://medium.com/p/7d0c1f491d4d) |
 | Sat, 06 Jun 2026 07:50:45 GMT | Angular SSR Open Redirect Vulnerabilities Explained (CVE-2026-27738, CVE-2026-33397) | HCN | [Read More](https://medium.com/p/9938214d070a) |
 | Sat, 06 Jun 2026 07:43:53 GMT | Advanced Linux System Administrator Interview Questions and Solutions | cybersecuritycourse | [Read More](https://medium.com/p/9262056b0b5f) |
-| Sat, 06 Jun 2026 07:42:07 GMT | Spring Security + JWT — The Complete End-to-End Flow | Lakshyarawat | [Read More](https://medium.com/p/eef936a015c2) |
-| Sat, 06 Jun 2026 07:41:51 GMT | Creating Detection Rules | Huzaifah Tahir | [Read More](https://medium.com/p/6fe8e5940293) |
-| Sat, 06 Jun 2026 07:33:02 GMT | Analysis of CVE-2025–48804 and the BitUnlocker SDI Append Attack Against BitLocker-Protected… | Huzaifah Tahir | [Read More](https://medium.com/p/c02d37709952) |
-| Sat, 06 Jun 2026 07:31:40 GMT | The Best AI Pentest Tool Isn’t the One With the Most Features | Sonali Sood | [Read More](https://medium.com/p/8128f163d4b4) |
-| Sat, 06 Jun 2026 07:30:53 GMT | The Package You Never Chose: How AI Rewired the Software Supply Chain Attack Surface | George Witt | [Read More](https://medium.com/p/e76091f9c48c) |
-| Sat, 06 Jun 2026 07:20:27 GMT | Mythos SecOps Intelligence Platform | Terrell | [Read More](https://medium.com/p/f8f6d696ec8f) |
-| Sat, 06 Jun 2026 07:18:44 GMT | Update: The Ending of My $500 Loss and Web Cache Poisoning Story. | kjulius | [Read More](https://medium.com/p/153603be845a) |
-| Sat, 06 Jun 2026 07:12:32 GMT | PCI DSS Demystified: How Businesses Can Achieve Payment Security Without Losing Agility | Ritika Prajapati | [Read More](https://medium.com/p/884d8bdc3a54) |
-| Sat, 06 Jun 2026 07:07:27 GMT | AI Pentesting Roadmap: Labs, Challenges, Writeups & Research | cryptoshant | [Read More](https://medium.com/p/d9fd57bf29e8) |
-| Sat, 06 Jun 2026 07:06:09 GMT | Cryptographic Experiments No. 1 — Time As Cryptography Itself | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/2da22f1b678a) |
-| Sat, 06 Jun 2026 06:48:10 GMT | Beyond Defacement: Why HTML Injection is Far More Dangerous Than You Think | Sambhab Sahoo | [Read More](https://medium.com/p/71a841fc3fbf) |
-| Sat, 06 Jun 2026 06:44:34 GMT | From Finding Vulnerabilities to Understanding Risk: My 3-Year Evolution in VAPT | Rudra Brahmbhatt | [Read More](https://medium.com/p/084c515f304a) |
-| Sat, 06 Jun 2026 06:41:58 GMT | The Windows Concept Journey — NetBIOS Name (Network Basic Input Output System Name) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3c5bd9a46e4b) |
-| Sat, 06 Jun 2026 06:17:05 GMT | DNS Tunneling — I Thought the Controls Would Catch It. They Did Not. | Yuvan Shankar S | [Read More](https://medium.com/p/60b792c79a39) |
-| Sat, 06 Jun 2026 06:14:40 GMT | Your AI agent is not an employee | Stanislav Klevtsov | [Read More](https://medium.com/p/779a8eb8fd83) |
-| Sat, 06 Jun 2026 06:12:01 GMT | Windows Privilege Escalation via AlwaysInstallElevated — Metasploit & Manual | Isha Sangpal | [Read More](https://medium.com/p/858a24aaf3f2) |
-| Sat, 06 Jun 2026 06:08:50 GMT | Security Firms Birmingham | Ptpsecurity | [Read More](https://medium.com/p/d113c49ed798) |
