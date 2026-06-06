@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Jun 2026 11:58:05 GMT | Dive Into Pentesting | Ankit Srivastava | [Read More](https://medium.com/p/92519ea8ee15) |
+| Sat, 06 Jun 2026 11:40:20 GMT | Account Takeover via Unsafe CORS - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/177022130018) |
+| Sat, 06 Jun 2026 11:38:53 GMT | ⚠ Security Alert — Developer Community | Techeve | [Read More](https://medium.com/p/5ff1b3b52c20) |
+| Sat, 06 Jun 2026 11:37:58 GMT | Your Teen’s Phone Is Under Attack: The Surprising New Cyber Tactics Parents Can’t Ignore … | Kevin Kelly | [Read More](https://medium.com/p/2d6fad3f04f0) |
+| Sat, 06 Jun 2026 11:31:14 GMT | Why CCTV Camera Installation is Important for Home and Business Security in Lucknow | Technologyeirs | [Read More](https://medium.com/p/d5bbd27cf008) |
+| Sat, 06 Jun 2026 11:31:00 GMT | How Boards Measure AI Business Value Without Mistaking Motion for Results | Tyson Martin | [Read More](https://medium.com/p/f750d7107900) |
+| Sat, 06 Jun 2026 11:28:43 GMT | Why Rekurd Was Built: The $3.7 Trillion Problem No One Wanted to Solve | Rekurd | [Read More](https://medium.com/p/5e0639cf8d35) |
+| Sat, 06 Jun 2026 11:12:57 GMT | Deep-Dive Property Node Analysis: 404 Palmetto Way | Steve Avrus | [Read More](https://medium.com/p/da72cba3f740) |
+| Sat, 06 Jun 2026 11:12:00 GMT | Surviving the 72-Hour Countdown: A Deep Dive into DPDP Act Breach Notification Requirements | Nitin Ray | [Read More](https://medium.com/p/444e6c740b63) |
+| Sat, 06 Jun 2026 11:06:05 GMT | HA Joker CTF — TryHackMe Walkthrough | Utsav Thakur | [Read More](https://medium.com/p/d7188f71fca6) |
+| Sat, 06 Jun 2026 11:02:16 GMT | HF2019 Walkthrough - From Enumeration to Root (WordPress SQLi + Credential Reuse) | Ajaydevsv | [Read More](https://medium.com/p/5b7b4f03d081) |
+| Sat, 06 Jun 2026 11:02:06 GMT | The Watcher and The Hidden Circuits | Matthew Horan | [Read More](https://medium.com/p/3d437019bace) |
+| Sat, 06 Jun 2026 11:01:36 GMT | Mr Robot CTF — TryHackMe Walkthrough | Utsav Thakur | [Read More](https://medium.com/p/e1bc67a91927) |
+| Sat, 06 Jun 2026 11:00:42 GMT | Why I Stopped Giving Out My Real Email in 2026 (And What I Do Instead) | TM-Mail.com | [Read More](https://medium.com/p/620f37a3ec77) |
+| Sat, 06 Jun 2026 10:58:21 GMT | 2 Years of P5s, Sleepless Nights, and Finally Making it to a Hall of Fame | Priyansh | [Read More](https://medium.com/p/b43144bdaa48) |
 | Sat, 06 Jun 2026 10:50:51 GMT | How I Found an OTP Authentication Bypass While Hunting for Bugs | Ankitsingh | [Read More](https://medium.com/p/e92fa6c4c9e7) |
+| Sat, 06 Jun 2026 10:46:32 GMT | PoisonedCredentials Lab | Balaji | [Read More](https://medium.com/p/f44cf0d04273) |
 | Sat, 06 Jun 2026 10:26:01 GMT | The AI Loop Closes: How Anthropic is Automating AI Development from Within | Pietro Romano / SecBeret | [Read More](https://medium.com/p/6b1f83dc4e33) |
 | Sat, 06 Jun 2026 10:18:46 GMT | Exploiting EternalBlue on Metasploitable 3 (Windows Server 2008 R2) Using Metasploit | Praveera Arosh | [Read More](https://medium.com/p/d3101858cc0b) |
 | Sat, 06 Jun 2026 10:16:08 GMT | Defense in-Depth: Building an Unbreakable Fortress in the Digital Age | Chiwendu Goodluck for | [Read More](https://medium.com/p/2463cb75a8b3) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Jun 2026 02:40:35 GMT | CSM enumeration: WordPress | 4zer7y | [Read More](https://medium.com/p/8320c2283744) |
 | Sat, 06 Jun 2026 02:38:40 GMT | How To Increase the Maximum File Upload Size in WordPress (Step-by-Step Guide) | 79mplus | [Read More](https://medium.com/p/31bab3374b55) |
 | Sat, 06 Jun 2026 02:31:00 GMT | Breach Files #004: Stuxnet (2010) | NullyBlissful | [Read More](https://medium.com/p/c96a6cb0d885) |
-| Sat, 06 Jun 2026 02:09:38 GMT | On Vulnerability | Jen Xu | [Read More](https://medium.com/p/7792b86d2c70) |
-| Sat, 06 Jun 2026 01:53:01 GMT | Inner-Parser SSRF | sin99xx | [Read More](https://medium.com/p/e940b76514e7) |
-| Sat, 06 Jun 2026 01:12:27 GMT | Careers in Cyber (En Français) | S4m1X | [Read More](https://medium.com/p/17505492a157) |
-| Sat, 06 Jun 2026 01:08:11 GMT | How Concrete × BitGo Is Unlocking the Next Phase of Institutional DeFi | Irfanmendo | [Read More](https://medium.com/p/649d5ef8fe46) |
-| Sat, 06 Jun 2026 01:03:16 GMT | Mastering CSRF: PortSwigger Academy Walkthrough Guide Community Edition From Practitioner LAB 07 | Ayeshaaghafoor | [Read More](https://medium.com/p/c1274cbf2b86) |
-| Sat, 06 Jun 2026 01:02:58 GMT | Machine Learning vs Deep Learning：電腦學習的兩種方式 | 思維舞步 MindSteps | [Read More](https://medium.com/p/9ad642adb177) |
-| Sat, 06 Jun 2026 00:01:01 GMT | PwnTillDawn Library: Exploiting OpenMediaVault (CVE‑2020‑26124) | Cybernerddd | [Read More](https://medium.com/p/a17c5e9a3382) |
-| Fri, 05 Jun 2026 23:58:10 GMT | How I Fixed Several Common VirtualBox Guest Additions Errors Many People Face on Ubuntu VM | Prince Lassey | [Read More](https://medium.com/p/a2ecd7f5a891) |
-| Fri, 05 Jun 2026 23:56:01 GMT | Amazon GuardDuty Now Supports Malware Scanning for S3 Continuous Backups | Yoshiyuki Watanabe | [Read More](https://medium.com/p/870262b35794) |
-| Fri, 05 Jun 2026 23:52:35 GMT | The btoa() Security Trap: Why Your localStorage “Encryption” Is Actually Malware Pattern | Izak T | [Read More](https://medium.com/p/7a49143482e7) |
-| Fri, 05 Jun 2026 23:36:20 GMT | NVIDIA no lo tiene todo: ¿Por qué los gigantes de la tecnología diseñan sus propios chips? | Isak Kaasik | [Read More](https://medium.com/p/f42727a884a1) |
-| Fri, 05 Jun 2026 23:33:44 GMT | Your Database Is the New SSH: What 179 Million Honeypot Events Reveal About May 2026 | Px Mx | [Read More](https://medium.com/p/ad93d22a71b5) |
-| Fri, 05 Jun 2026 23:17:59 GMT | Secure Implementation Of Link Previews In Chat Applications | 23 | [Read More](https://medium.com/p/07ddbd02e6ec) |
-| Fri, 05 Jun 2026 23:14:43 GMT | Serverless Doesn’t Mean Secure: The State of AWS Lambda Security in 2026 | Tarek CHEIKH | [Read More](https://medium.com/p/234161754f90) |
-| Fri, 05 Jun 2026 23:08:03 GMT | The Day a Fake Error Message Cost a Small Business Thousands | Noel | [Read More](https://medium.com/p/ff4b39d9cbbf) |
-| Fri, 05 Jun 2026 23:05:20 GMT | I Tested 7 Security Cameras That Will Never Send You a Monthly Bill | Jano le Roux | [Read More](https://medium.com/p/59d937ff58a2) |
