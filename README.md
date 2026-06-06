@@ -12,6 +12,35 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Jun 2026 10:50:51 GMT | How I Found an OTP Authentication Bypass While Hunting for Bugs | Ankitsingh | [Read More](https://medium.com/p/e92fa6c4c9e7) |
+| Sat, 06 Jun 2026 10:26:01 GMT | The AI Loop Closes: How Anthropic is Automating AI Development from Within | Pietro Romano / SecBeret | [Read More](https://medium.com/p/6b1f83dc4e33) |
+| Sat, 06 Jun 2026 10:18:46 GMT | Exploiting EternalBlue on Metasploitable 3 (Windows Server 2008 R2) Using Metasploit | Praveera Arosh | [Read More](https://medium.com/p/d3101858cc0b) |
+| Sat, 06 Jun 2026 10:16:08 GMT | Defense in-Depth: Building an Unbreakable Fortress in the Digital Age | Chiwendu Goodluck for | [Read More](https://medium.com/p/2463cb75a8b3) |
+| Sat, 06 Jun 2026 10:09:21 GMT | Protecting Your Investment: Security Planning for New Business Locations | Grdsnscrt | [Read More](https://medium.com/p/6d8ba3283eb5) |
+| Sat, 06 Jun 2026 10:08:50 GMT | Full TCP Port Enumeration: Discovering the Complete Attack Surface | Satishkakani | [Read More](https://medium.com/p/3e2c04e94134) |
+| Sat, 06 Jun 2026 10:05:18 GMT | The Cloud Is Now a War Target: What the AWS Drone Strikes Mean for Every Developer and Business | dparente | [Read More](https://medium.com/p/8998d768aeaa) |
+| Sat, 06 Jun 2026 10:05:04 GMT | Network Pusulası #9 — ARP: IP ile MAC Arasındaki Köprü ve Saldırgan İçin Açık Kapı | Toprak Külekçioğlu | [Read More](https://medium.com/p/b9f111fd1fcc) |
+| Sat, 06 Jun 2026 10:04:07 GMT | Cyber Security Training in Hyderabad - Best Cyber Security Course in Hyderabad | Saikiranversionit | [Read More](https://medium.com/p/c67916a7a27e) |
+| Sat, 06 Jun 2026 10:01:07 GMT | Is Quantum Computing Really Only Targeting Bitcoin? | Crypto Sage | [Read More](https://medium.com/p/4adb38baac89) |
+| Sat, 06 Jun 2026 09:58:37 GMT | Ever Wonder How Your Inbox Detects Fake Emails Before You Do? | 0xMaximux | [Read More](https://medium.com/p/720bb9b3f11c) |
+| Sat, 06 Jun 2026 09:58:06 GMT | No Viral, No Justice: Tech as the Main Character in Indonesia’s Fight Against Corruption | Maziya Qofi | [Read More](https://medium.com/p/f3e809dffbd4) |
+| Sat, 06 Jun 2026 09:56:44 GMT | CSP is a seatbelt, not a force field | 7s26Simon | [Read More](https://medium.com/p/734d20c250cf) |
+| Sat, 06 Jun 2026 09:53:51 GMT | Systemic Automation and the Dehumanization of Digital Justice: A Comparative Study of the Film… | ADanielHill | [Read More](https://medium.com/p/7a7cdf8a4b8f) |
+| Sat, 06 Jun 2026 09:53:02 GMT | 5 Simple Ways to Secure Your Door Without Replacing Your Lock | Criminology Expert | [Read More](https://medium.com/p/e3b9d02739fc) |
+| Sat, 06 Jun 2026 09:51:00 GMT | Global Administrator Accounts, Necessary Evil or Security Risk? | Railsdevabam | [Read More](https://medium.com/p/27e3cd8d7037) |
+| Sat, 06 Jun 2026 09:48:53 GMT | Recruit Walkthrough - TryHackMe | Gowrishankar | [Read More](https://medium.com/p/d19d1f773743) |
+| Sat, 06 Jun 2026 09:43:56 GMT | Understanding Agentic AI Security Risks in Enterprise Environments | Tvmoffensobacklink | [Read More](https://medium.com/p/6e122e704672) |
+| Sat, 06 Jun 2026 09:43:52 GMT | Your Ping Is Broken. | Leonewambi | [Read More](https://medium.com/p/edc172046d3c) |
+| Sat, 06 Jun 2026 09:43:38 GMT | BUILDING MY BUG BOUNTY PIPELINE FROM SCRATCH | Sidharth Sanwariya | [Read More](https://medium.com/p/b0781567f20f) |
+| Sat, 06 Jun 2026 09:42:54 GMT | I Was Removed From the Organization, But My Access Still Worked: Lessons From a Broken Access… | Hangga Aji Sayekti | [Read More](https://medium.com/p/151158d95f7d) |
+| Sat, 06 Jun 2026 09:41:00 GMT | Multi-tenant CASL: the patterns that survive production | Matheus Lúcio | [Read More](https://medium.com/p/872b24976f0a) |
+| Sat, 06 Jun 2026 09:37:50 GMT | REST API Authentication | Aditi | [Read More](https://medium.com/p/6d58b4f250eb) |
+| Sat, 06 Jun 2026 09:34:42 GMT | I Got an AI Security Certification for Free — Here’s Exactly What You Need to Know | Balaji Melagiri | [Read More](https://medium.com/p/659f4ddb9a80) |
+| Sat, 06 Jun 2026 09:33:41 GMT | I Tested 20 Security Tools So You Don’t Have To | Fateyaly | [Read More](https://medium.com/p/1eac089572a6) |
+| Sat, 06 Jun 2026 09:32:52 GMT | How SOC Analysts Use Wireshark and MaxMind GeoIP to Investigate Suspicious IP Addresses | Xpert4Cyber | [Read More](https://medium.com/p/d6f432d3b87b) |
+| Sat, 06 Jun 2026 09:09:42 GMT | THE FUTURE OF ELECTRONICS | Nidhinigamlko | [Read More](https://medium.com/p/7d9e0bf03f2c) |
+| Sat, 06 Jun 2026 08:42:38 GMT | Case Study: TARmageddon — CVE-2025–62518 and the Supply Chain Nightmare in Rust’s Async TAR… | Ajay Kumar | [Read More](https://medium.com/p/5c30e8561a84) |
+| Sat, 06 Jun 2026 08:30:16 GMT | How to Check If a Website Is Safe in 2026: 7 Fast Checks Before You Click | Safebrowz | [Read More](https://medium.com/p/fb96a3042b69) |
 | Sat, 06 Jun 2026 08:21:36 GMT | Türkiye’de Siber Güvenlik Uzmanı Nasıl Olunur? | YTK ACADEMY | [Read More](https://medium.com/p/0b8dccb42c7e) |
 | Sat, 06 Jun 2026 08:19:52 GMT | VIP Security Services: Professional Protection for High-Profile Individuals | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/29ab82bfb434) |
 | Sat, 06 Jun 2026 08:14:15 GMT | Why Construction Site Security Is Essential for Every Project | Hirasarfraz | [Read More](https://medium.com/p/f6401b40015b) |
@@ -83,32 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Jun 2026 23:14:43 GMT | Serverless Doesn’t Mean Secure: The State of AWS Lambda Security in 2026 | Tarek CHEIKH | [Read More](https://medium.com/p/234161754f90) |
 | Fri, 05 Jun 2026 23:08:03 GMT | The Day a Fake Error Message Cost a Small Business Thousands | Noel | [Read More](https://medium.com/p/ff4b39d9cbbf) |
 | Fri, 05 Jun 2026 23:05:20 GMT | I Tested 7 Security Cameras That Will Never Send You a Monthly Bill | Jano le Roux | [Read More](https://medium.com/p/59d937ff58a2) |
-| Fri, 05 Jun 2026 23:01:01 GMT | Why Every Growing Business Needs a Reliable Technology Partner | Kenora (Pvt) Ltd | [Read More](https://medium.com/p/8c8484fbbf95) |
-| Fri, 05 Jun 2026 23:00:48 GMT | API Fuzzing for Security Testing: Part 1: Recon, Discovery & Mapping the Attack Surface | Fuzzyy Duck | [Read More](https://medium.com/p/924c458ce621) |
-| Fri, 05 Jun 2026 23:00:34 GMT | Password Reset Flow Testing — The Most Overlooked Account Takeover Vulnerability | Yamini Yadav_369 | [Read More](https://medium.com/p/cac0c1c5369c) |
-| Fri, 05 Jun 2026 23:00:27 GMT | Session Management Testing: How Session Tokens Work, How Hackers Steal Them, and How Security… | Yamini Yadav_369 | [Read More](https://medium.com/p/b5909daa34ac) |
-| Fri, 05 Jun 2026 23:00:08 GMT | I Forgot My ZIP Password… So I Built a Python Cracker | Mr Abdullah | [Read More](https://medium.com/p/5a9df89bd60b) |
-| Fri, 05 Jun 2026 22:59:36 GMT | HackTheBox — Brutus Lab — Unix Auth Log Analysis | Efe Özel | [Read More](https://medium.com/p/4800a8bd149a) |
-| Fri, 05 Jun 2026 22:54:17 GMT | TryHackMe — Boogeyman 3 — Analysis With Splunk | Efe Özel | [Read More](https://medium.com/p/5ad0726c5c72) |
-| Fri, 05 Jun 2026 22:51:54 GMT | Learn Threat Hunting for Free: Hands-On Labs in a Real Elastic SIEM | Hunt Forward | [Read More](https://medium.com/p/46e6b1d21090) |
-| Fri, 05 Jun 2026 22:47:41 GMT | I was Hacked by a Scammer | Elizabeth Woods | [Read More](https://medium.com/p/8ec8499940e5) |
-| Fri, 05 Jun 2026 22:08:15 GMT | HackSmarter Lab — ShareThePain Pentest Report | Joseph Jung | [Read More](https://medium.com/p/fafcad7bf737) |
-| Fri, 05 Jun 2026 21:40:09 GMT | No Alerts Doesn’t Mean No Threats — It Means You’re Blind | JSOC IT BLOG | [Read More](https://medium.com/p/db42dc7afc69) |
-| Fri, 05 Jun 2026 21:39:41 GMT | TryHackMe CyberHeroes Complete Walkthrough | Gohilharsh | [Read More](https://medium.com/p/f7ab652dbad8) |
-| Fri, 05 Jun 2026 21:38:27 GMT | How to Spot a Scam Website in Under 60 Seconds | Masangamike | [Read More](https://medium.com/p/ca18a2fe1926) |
-| Fri, 05 Jun 2026 21:10:50 GMT | Let Me Lay With You | Ruby Ryder | [Read More](https://medium.com/p/122f0e0a3770) |
-| Fri, 05 Jun 2026 21:03:58 GMT | Lay With Me | Ruby Ryder | [Read More](https://medium.com/p/e8a4a41ab2e8) |
-| Fri, 05 Jun 2026 21:01:27 GMT | We just launched Mythos SecOps Platform — a production-grade autonomous security intelligence… | Terrell | [Read More](https://medium.com/p/2f52acb78e60) |
-| Fri, 05 Jun 2026 21:01:00 GMT | TryHackMe Writeup UnIndexed — When the AI Assistant Has Access to Everything | 0xuki | [Read More](https://medium.com/p/4b5429efb6ae) |
-| Fri, 05 Jun 2026 20:51:26 GMT | THE HISTORY OF IP ADDRESSES | Anigbogu Chidubem Great | [Read More](https://medium.com/p/893d11a43f54) |
-| Fri, 05 Jun 2026 20:50:10 GMT | Before You Add an MCP Server to Your IDE, Read the Config Like It Can Execute Code | The AI Guy | [Read More](https://medium.com/p/4334dc3e80b9) |
-| Fri, 05 Jun 2026 20:26:13 GMT | I Replied to Spam Emails for 3 Years. Here’s What Happened. | Sarah Hayes | [Read More](https://medium.com/p/ddd15bb55574) |
-| Fri, 05 Jun 2026 20:23:36 GMT | How Hackers Detect Honeypots Before It’s Too Late | Shahzaib | [Read More](https://medium.com/p/1262ecc73a12) |
-| Fri, 05 Jun 2026 20:16:55 GMT | Home Security Automation: What You Need to Know | AlexBryn | [Read More](https://medium.com/p/471ac5e00603) |
-| Fri, 05 Jun 2026 20:14:43 GMT | The 5 Skills Every Cybersecurity Engineer Needs in 2026 (That Universities Still Aren’t Teaching) | Taimur Ijlal | [Read More](https://medium.com/p/b069a55c74ff) |
-| Fri, 05 Jun 2026 20:06:16 GMT | Coming up at Tech Weekend June 2026 - VC Office hours with: Nicole Toussaint, Investor at TenOneTen… | Founders Village | [Read More](https://medium.com/p/36812e545aaa) |
-| Fri, 05 Jun 2026 20:02:44 GMT | "Defending From the Inside: How Linux Taught Me What Security Actually Means" | Paul Adino | [Read More](https://medium.com/p/b783a8f73c68) |
-| Fri, 05 Jun 2026 20:01:00 GMT | Data Poisoning Explained: How Attackers Manipulate AI From the Inside | Rashidat Sikiru | [Read More](https://medium.com/p/cc19df24389c) |
-| Fri, 05 Jun 2026 20:00:35 GMT | TryHackMe RootMe Walkthrough From Initial Recon to Root Access | Aditya Bhatt | [Read More](https://medium.com/p/dc6322dda8aa) |
-| Fri, 05 Jun 2026 19:58:51 GMT | Can i hack into my cheating husband’s phone activities? | Michael Parks | [Read More](https://medium.com/p/74a3f2825b4d) |
-| Fri, 05 Jun 2026 19:57:47 GMT | The One Security Check Most Shopify Apps Get Wrong | MasadAshraf | [Read More](https://medium.com/p/f194f8fe1de6) |
