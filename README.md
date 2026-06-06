@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Jun 2026 01:12:27 GMT | Careers in Cyber (En Français) | S4m1X | [Read More](https://medium.com/p/17505492a157) |
+| Sat, 06 Jun 2026 01:08:11 GMT | How Concrete × BitGo Is Unlocking the Next Phase of Institutional DeFi | Irfanmendo | [Read More](https://medium.com/p/649d5ef8fe46) |
+| Sat, 06 Jun 2026 01:03:16 GMT | Mastering CSRF: PortSwigger Academy Walkthrough Guide Community Edition From Practitioner LAB 07 | Ayeshaaghafoor | [Read More](https://medium.com/p/c1274cbf2b86) |
+| Sat, 06 Jun 2026 01:02:58 GMT | Machine Learning vs Deep Learning：電腦學習的兩種方式 | 思維舞步 MindSteps | [Read More](https://medium.com/p/9ad642adb177) |
+| Sat, 06 Jun 2026 00:01:01 GMT | PwnTillDawn Library: Exploiting OpenMediaVault (CVE‑2020‑26124) | Cybernerddd | [Read More](https://medium.com/p/a17c5e9a3382) |
+| Fri, 05 Jun 2026 23:58:10 GMT | How I Fixed Several Common VirtualBox Guest Additions Errors Many People Face on Ubuntu VM | Prince Lassey | [Read More](https://medium.com/p/a2ecd7f5a891) |
+| Fri, 05 Jun 2026 23:56:01 GMT | Amazon GuardDuty Now Supports Malware Scanning for S3 Continuous Backups | Yoshiyuki Watanabe | [Read More](https://medium.com/p/870262b35794) |
+| Fri, 05 Jun 2026 23:52:35 GMT | The btoa() Security Trap: Why Your localStorage “Encryption” Is Actually Malware Pattern | Izak T | [Read More](https://medium.com/p/7a49143482e7) |
+| Fri, 05 Jun 2026 23:36:20 GMT | NVIDIA no lo tiene todo: ¿Por qué los gigantes de la tecnología diseñan sus propios chips? | Isak Kaasik | [Read More](https://medium.com/p/f42727a884a1) |
+| Fri, 05 Jun 2026 23:33:44 GMT | Your Database Is the New SSH: What 179 Million Honeypot Events Reveal About May 2026 | Px Mx | [Read More](https://medium.com/p/ad93d22a71b5) |
+| Fri, 05 Jun 2026 23:17:59 GMT | Secure Implementation Of Link Previews In Chat Applications | 23 | [Read More](https://medium.com/p/07ddbd02e6ec) |
+| Fri, 05 Jun 2026 23:14:43 GMT | Serverless Doesn’t Mean Secure: The State of AWS Lambda Security in 2026 | Tarek CHEIKH | [Read More](https://medium.com/p/234161754f90) |
 | Fri, 05 Jun 2026 23:08:03 GMT | The Day a Fake Error Message Cost a Small Business Thousands | Noel | [Read More](https://medium.com/p/ff4b39d9cbbf) |
 | Fri, 05 Jun 2026 23:05:20 GMT | I Tested 7 Security Cameras That Will Never Send You a Monthly Bill | Jano le Roux | [Read More](https://medium.com/p/59d937ff58a2) |
 | Fri, 05 Jun 2026 23:01:01 GMT | Why Every Growing Business Needs a Reliable Technology Partner | Kenora (Pvt) Ltd | [Read More](https://medium.com/p/8c8484fbbf95) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 05 Jun 2026 15:29:36 GMT | THM - Recruit | Francesco Pastore | [Read More](https://medium.com/p/2957644a8f9b) |
 | Fri, 05 Jun 2026 15:23:46 GMT | Women in Tech: The Jaw-Dropping Assumptions | Bits Please | [Read More](https://medium.com/p/19225f254f8f) |
 | Fri, 05 Jun 2026 15:15:58 GMT | OOB OR CUSTOM? | GOHAR | [Read More](https://medium.com/p/98772a30afa8) |
-| Fri, 05 Jun 2026 15:09:38 GMT | Vulnerabilities 101 | Shamir Ajmir Khan | [Read More](https://medium.com/p/b321c04b89a3) |
-| Fri, 05 Jun 2026 15:04:44 GMT | Advanced Evasion Tradecraft: Precision Module Stomping | Tom O'Neill | [Read More](https://medium.com/p/b51feb0978fe) |
-| Fri, 05 Jun 2026 14:54:37 GMT | Why Hotel Security Requires a Different Approach | Lucas Barett | [Read More](https://medium.com/p/47eb445d3242) |
-| Fri, 05 Jun 2026 14:32:42 GMT | Burdened by Being the “Good Girl”: The Academic Success Trap | Lekhanads | [Read More](https://medium.com/p/2cd13fec392e) |
-| Fri, 05 Jun 2026 14:28:43 GMT | How I Ship a CIAM Platform: A Security-First GitLab CI/CD Pipeline | Sai Pavan Puligadda | [Read More](https://medium.com/p/76907752e1aa) |
-| Fri, 05 Jun 2026 14:28:15 GMT | Security Beyond Signatures: Defending Against Living-Off-the-Land Attacks | Marvin Sewell | [Read More](https://medium.com/p/2fe010dd42a1) |
-| Fri, 05 Jun 2026 14:21:00 GMT | How a Broken Cryptographic Key Derivation Allowed Full Tenant Takeover on an Enterprise Identity… | Tanvi Chauhan | [Read More](https://medium.com/p/c903ba4dbb05) |
-| Fri, 05 Jun 2026 14:19:55 GMT | The Map Is Not the Territory — Dep-Aware Agent Between Explorer and Builder | Enmanuel Magallanes Pinargote | [Read More](https://medium.com/p/d9010d847612) |
-| Fri, 05 Jun 2026 14:15:40 GMT | Using .npmrc to achieve remote code execution on npm users | Mohammed Dief | [Read More](https://medium.com/p/6c807fa3058d) |
-| Fri, 05 Jun 2026 14:02:51 GMT | I Lease IPv4 for a Living. Here’s Where IP Whitelisting Quietly Goes Wrong. | Artem Kohanevich | [Read More](https://medium.com/p/1c85ce0587eb) |
-| Fri, 05 Jun 2026 13:56:32 GMT | Sticky Keys Backdoor on Windows 10 — Pre-Auth SYSTEM Access via RDP | Isha Sangpal | [Read More](https://medium.com/p/75aeb9cc5f3e) |
-| Fri, 05 Jun 2026 13:56:00 GMT | The AI Attack Surface in 2026 Is Larger Than Most Defenders Realize | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d647f0ffd9d2) |
