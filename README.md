@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 06 Jun 2026 22:56:26 GMT | A Startup Lost a $3.2 Million Contract Because Nobody Had Ever Checked If Their Servers Were Secure | Ubani Obiajulum Emmanuel | [Read More](https://medium.com/p/3c92413fad7e) |
+| Sat, 06 Jun 2026 22:50:36 GMT | Zero-Knowledge Proofs: Proving Something Without Revealing Anything | Robert Broeckelmann | [Read More](https://medium.com/p/3563eceec66d) |
+| Sat, 06 Jun 2026 22:48:23 GMT | The Patch You Skipped and the Password You Reused Are Both Coming for You | Joao Silva | [Read More](https://medium.com/p/e6f9997c4746) |
+| Sat, 06 Jun 2026 22:42:35 GMT | Kioptrix Level 1 — VulnHub Writeup | Mohamedasimgeris | [Read More](https://medium.com/p/a08238208230) |
+| Sat, 06 Jun 2026 22:41:45 GMT | Windows Authentication Internals: NTLM, Kerberos, Pass-the-Hash, and Pass-the-Ticket | Jackson | [Read More](https://medium.com/p/8657552dd995) |
+| Sat, 06 Jun 2026 22:37:27 GMT | Zero Trust Security: Why “Never Trust, Always Verify” Is the Future of Cyber Defense | Traduinter Vinicius | [Read More](https://medium.com/p/e91365a1d456) |
+| Sat, 06 Jun 2026 22:33:21 GMT | Nigeria Is Bleeding! | Herijay -- Web3 Researcher | [Read More](https://medium.com/p/1f3f45ae068b) |
+| Sat, 06 Jun 2026 22:17:20 GMT | Mastering Clickjacking: Bypassing CSRF Protection via UI Redressing | Ayeshaaghafoor | [Read More](https://medium.com/p/15daffe29bce) |
+| Sat, 06 Jun 2026 21:51:20 GMT | RECOVERY SERVICES FOR VICTIMS OF FOREX AND CRYPTO INVESTMENT SCAMS HIRE FUNDS RECLAIMER COMPANY | Gregraphael | [Read More](https://medium.com/p/27de64d86eaa) |
+| Sat, 06 Jun 2026 21:48:07 GMT | Why Multi-Agent Systems Are Becoming a Product Management Imperative | Sayantan Ghosh | [Read More](https://medium.com/p/1f7438fe18b6) |
+| Sat, 06 Jun 2026 21:42:00 GMT | I wrote 30 Claude Code skills before I understood why most of them never fired | Cowboysam | [Read More](https://medium.com/p/78ee8fe1381c) |
+| Sat, 06 Jun 2026 21:34:09 GMT | Inside lambda-security-scanner: 19 Checks Across Every Function in Your Account | Tarek CHEIKH | [Read More](https://medium.com/p/d0a8c44df110) |
 | Sat, 06 Jun 2026 21:20:52 GMT | Nautical Twilight | Sean Fears | [Read More](https://medium.com/p/9bb81c67e05e) |
 | Sat, 06 Jun 2026 21:18:45 GMT | The Digital Panopticon: Deconstructing the Archive Discovery Process | Steve Avrus | [Read More](https://medium.com/p/b25e882835a1) |
 | Sat, 06 Jun 2026 21:04:47 GMT | A $20 Claude subscription can build my application in a day. | Tarun - AI, ML & Agentic Systems | [Read More](https://medium.com/p/ff4e7fc86a6f) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Jun 2026 13:20:09 GMT | What I Learned Building an AI-Powered AppSec Source Code Review Workflow | Rui Pedro Moreira | [Read More](https://medium.com/p/64ed0900c4e0) |
 | Sat, 06 Jun 2026 13:17:45 GMT | OSIRIS Explained - AI-Powered OSINT & Reconnaissance Platform | Pentester Club | [Read More](https://medium.com/p/b83500241306) |
 | Sat, 06 Jun 2026 13:14:49 GMT | Security is not a Feature. It is the Foundation. | Genevieve Richards | [Read More](https://medium.com/p/66ee108438e1) |
-| Sat, 06 Jun 2026 13:11:00 GMT | Don’t Start Bug Bounty in 2026 | Shaikh Minhaz | [Read More](https://medium.com/p/bc1459faa8a2) |
-| Sat, 06 Jun 2026 13:10:05 GMT | Stop Practicing in Production: Build an Ethical Hacking Lab Instead | Samruddhi Raybhoge | [Read More](https://medium.com/p/57431c7bce7b) |
-| Sat, 06 Jun 2026 13:01:02 GMT | One Laptop. One Connection. Every Website on Your Server — Gone in 60 Seconds. | Jazz Cyber Shield | [Read More](https://medium.com/p/4f52216e1dce) |
-| Sat, 06 Jun 2026 13:01:01 GMT | The Silent Threat in Our Servers: Unpacking CVE-2026–42945 (NGINX Rift) | Achmad Fatoni | [Read More](https://medium.com/p/ed7454450c03) |
-| Sat, 06 Jun 2026 12:41:15 GMT | CORS in Production: Implementation, Debugging, and Security Best Practices | Navidbarsalari | [Read More](https://medium.com/p/b62773cfbd53) |
-| Sat, 06 Jun 2026 12:40:40 GMT | The Weakest Link in the Clean Energy Revolution is a Charger. | Nathan Moraes | [Read More](https://medium.com/p/9fe1b0385016) |
-| Sat, 06 Jun 2026 12:36:00 GMT | Beginner Guide to Bug Bounty: A Complete Roadmap for Beginners | Umernafeesuddin | [Read More](https://medium.com/p/0730c187c42c) |
-| Sat, 06 Jun 2026 12:33:56 GMT | Bots Just Passed Humans Online And Writers Are Defending the Wrong Thing. | BloggingLen | [Read More](https://medium.com/p/86a8573721b4) |
-| Sat, 06 Jun 2026 12:24:55 GMT | Hackers Are Walking Into Offices Pretending to Be IT Staff | Clayton Samuel | [Read More](https://medium.com/p/14dfbcf61f2a) |
-| Sat, 06 Jun 2026 12:17:17 GMT | Zero: SeeingWhat’s Hidden | Talha Bağcı | [Read More](https://medium.com/p/c0958b199b63) |
-| Sat, 06 Jun 2026 11:58:05 GMT | Dive Into Pentesting | Ankit Srivastava | [Read More](https://medium.com/p/92519ea8ee15) |
-| Sat, 06 Jun 2026 11:40:20 GMT | Account Takeover via Unsafe CORS - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/177022130018) |
