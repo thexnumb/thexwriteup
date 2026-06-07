@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Jun 2026 17:12:54 GMT | Beyond the Resume: Why an IT Portfolio is Your Real Ticket In | Imesh Munasinghe | [Read More](https://medium.com/p/7d3450bcf59a) |
+| Sun, 07 Jun 2026 17:01:11 GMT | TryHackMe CTF Writeup: Dead Drop | Fuad Khan | [Read More](https://medium.com/p/2fc29592e572) |
+| Sun, 07 Jun 2026 17:01:01 GMT | Zero-trust React: defending against 2026’s AI-powered phishing attacks | ThankGod Chibugwum Obobo | [Read More](https://medium.com/p/6f36fd29a6b8) |
+| Sun, 07 Jun 2026 16:51:57 GMT | The Ultimate Cybersecurity Roadmap: A Data-Driven Guide to Your First Security Job | Ahmed H. Ismael | [Read More](https://medium.com/p/daad4a46ea2f) |
+| Sun, 07 Jun 2026 16:47:42 GMT | They Stole $81 Million From a Bank. Nobody Was Inside. Nobody Fired a Shot | Syed Muhammad Shah | [Read More](https://medium.com/p/a1a3141242ea) |
+| Sun, 07 Jun 2026 16:47:27 GMT | Defense in Depth for LLMs: An Architect’s Guide to Surviving Prompt Injection | Anand Mahalingam | [Read More](https://medium.com/p/b2ad9907ece9) |
+| Sun, 07 Jun 2026 16:46:16 GMT | METASPOITABLE 2 | Muhammed Irfan | [Read More](https://medium.com/p/0b3c82ca8ece) |
+| Sun, 07 Jun 2026 16:44:54 GMT | Top 5 Vulnerability Scanners in 2026: Beyond CVE Matching and False Positives | Pyshawon | [Read More](https://medium.com/p/9af6055a9e58) |
+| Sun, 07 Jun 2026 16:44:44 GMT | The world of hacking and cyber security codes | Mannohassan | [Read More](https://medium.com/p/53d2c9e005e3) |
+| Sun, 07 Jun 2026 16:43:05 GMT | LPT Penetration Testing Methodology | Aditya Pandey | [Read More](https://medium.com/p/5f1b659bdc91) |
+| Sun, 07 Jun 2026 16:41:24 GMT | Exploiting Metasploitable 2 — vsftpd Backdoor and Samba RCE with Metasploit | NIVED PV | [Read More](https://medium.com/p/1557ba47ba21) |
+| Sun, 07 Jun 2026 16:35:28 GMT | Best OSINT Phone Number Investigation Tools | Nazrul Islam Rana | [Read More](https://medium.com/p/2edfdf3df10b) |
+| Sun, 07 Jun 2026 16:24:56 GMT | I envy people who can speak up easily and express themselves clearly. | rvi | [Read More](https://medium.com/p/f357a964d900) |
+| Sun, 07 Jun 2026 16:13:26 GMT | 5 Essential Linux Commands for Beginners | Cyber Notes | [Read More](https://medium.com/p/4f8d1460b54a) |
+| Sun, 07 Jun 2026 16:13:10 GMT | Your Code Wasn’t Insecure. It Was Just Slow Enough to Hide. | Nanthakumar | [Read More](https://medium.com/p/58b413dc44de) |
+| Sun, 07 Jun 2026 16:10:55 GMT | -  … | Gaurang Shukla | [Read More](https://medium.com/p/92268e796ef6) |
+| Sun, 07 Jun 2026 16:08:10 GMT | 辦公室外的「土裡驚魂」！直擊花園換盆挖出雞母蟲大軍的驚險救援記 | 黃昱捷 Huang Yu-Chieh | [Read More](https://medium.com/p/08410125048b) |
+| Sun, 07 Jun 2026 16:07:53 GMT | The Browser Profile Handoff Problem Most Teams Notice Too Late | Evelinerago | [Read More](https://medium.com/p/3ba84aaf758d) |
+| Sun, 07 Jun 2026 15:40:06 GMT | You Wouldn’t Walk Into Halloween Without a Costume — So Wear One on Public Wi-Fi Too - A 2026 VPN… | Elite Mindset | [Read More](https://medium.com/p/303825b2f46b) |
+| Sun, 07 Jun 2026 15:39:40 GMT | The 12 Deadly Sins of Genealogy | Athena | [Read More](https://medium.com/p/f0b1a2ab0e6e) |
 | Sun, 07 Jun 2026 15:19:18 GMT | The Sovereign Perimeter: Bridging the Chasm Between Physical Operations and Digital Identity | Nikolai Pavlov | [Read More](https://medium.com/p/0c791f0e5775) |
 | Sun, 07 Jun 2026 15:17:56 GMT | Lessons from Real Security Assessments #1: How I Approach a New VAPT Assessment | Brinda S | [Read More](https://medium.com/p/d90a4b694250) |
 | Sun, 07 Jun 2026 15:15:59 GMT | How to Reduce the Cost of Generative AI | Nitin Gupta | [Read More](https://medium.com/p/8c7392e8fa04) |
@@ -95,23 +115,3 @@ Slug… | FaceSift | [Read More](https://medium.com/p/415ca75a9ee0) |
 | Sun, 07 Jun 2026 10:23:41 GMT | Vulnerability Management: The Cybersecurity Process That Could Prevent the Next Major Breach | Shalu | [Read More](https://medium.com/p/67b979ad7102) |
 | Sun, 07 Jun 2026 10:15:49 GMT | How to Build an AI-Powered Log Analyzer for Your SOC Using Python and Scikit-Learn | Motasem Hamdan | [Read More](https://medium.com/p/42aaaedb23e9) |
 | Sun, 07 Jun 2026 10:11:27 GMT | Database Indexing: The Complete Guide | Freezbee | [Read More](https://medium.com/p/620a6b83b63d) |
-| Sun, 07 Jun 2026 10:11:05 GMT | The Biggest Tech Myths People Still Believe | Jakub Jirak | [Read More](https://medium.com/p/2e3d1b5e1018) |
-| Sun, 07 Jun 2026 10:01:02 GMT | BEST 6-Figure Cybersecurity Skills of the Future | Victoria Coker | [Read More](https://medium.com/p/56c72a9c66f1) |
-| Sun, 07 Jun 2026 09:57:29 GMT | Improve your Azure Container Apps Security with Defender for Cloud! | Brian Veldman | [Read More](https://medium.com/p/1e87309294a5) |
-| Sun, 07 Jun 2026 09:44:25 GMT | Part 1: The Dark Side of “Vibe Coding”Why Speed-to-Market is Leaking Your Secrets ? | Nayan chandak | [Read More](https://medium.com/p/f2623fa70958) |
-| Sun, 07 Jun 2026 09:41:00 GMT | Cyber Risk Appetite Questions for Boards That Lead to Action | Tyson Martin | [Read More](https://medium.com/p/a1b310ae99cd) |
-| Sun, 07 Jun 2026 09:39:32 GMT | The Privacy Problem With Cloud AI, and How Offline AI Apps Solve It | Lekhai App | [Read More](https://medium.com/p/a297543c4ba0) |
-| Sun, 07 Jun 2026 09:27:58 GMT | Why Do Fake Onion Mirrors Keep Appearing? | onion links | [Read More](https://medium.com/p/b4b5a7463b9a) |
-| Sun, 07 Jun 2026 09:21:16 GMT | From Chaos to Clarity: How I Built a Centralized SOC Analytics Platform- CyberPulse | Gurleenkaurbali | [Read More](https://medium.com/p/9dc8dfa6068d) |
-| Sun, 07 Jun 2026 09:20:13 GMT | How to Secure AI Systems from Prompt Injection Attacks: A CISO’s Guide to Enterprise Defense | Divyesh Vaishnav | [Read More](https://medium.com/p/63937711bcc9) |
-| Sun, 07 Jun 2026 09:17:13 GMT | Security enhancement in Kubernetes Clusters. | Mallikarjunakukatikonda | [Read More](https://medium.com/p/664f905b9eec) |
-| Sun, 07 Jun 2026 09:16:18 GMT | The night I realized I’d been studying the acronym list backwards | judeh0747 | [Read More](https://medium.com/p/086647db165e) |
-| Sun, 07 Jun 2026 09:08:15 GMT | UUID vs BIGINT: The Real Impact on Your PostgreSQL Queries at 100 Million Rows | Kouadiomathias | [Read More](https://medium.com/p/aec72f48976c) |
-| Sun, 07 Jun 2026 09:08:08 GMT | Designing Highly Available Load Balancing with NGINX and Keepalived: A Production Guide | hackthacker | [Read More](https://medium.com/p/0e99715e105f) |
-| Sun, 07 Jun 2026 09:06:00 GMT | ️ MS Sentinel: Introduction — A Security Analyst’s First Look at Microsoft Sentinel | Mukilan Baskaran | [Read More](https://medium.com/p/1afd9f91685f) |
-| Sun, 07 Jun 2026 09:01:46 GMT | AI-Powered Phishing and Deepfake Attacks: How to Stay Protected in the Age of Intelligent Cyber… | Divyesh Vaishnav | [Read More](https://medium.com/p/82aebbc0cef3) |
-| Sun, 07 Jun 2026 08:47:37 GMT | Tokyo Ghoul — TryHackMe WalkThrough with Flags | Rayenhafsawy | [Read More](https://medium.com/p/45d42989cf3b) |
-| Sun, 07 Jun 2026 08:41:35 GMT | How I Built a Raspberry Pi–Powered RF Monitoring Station for Under $100 | Michael Preston | [Read More](https://medium.com/p/05a7c5c1acd4) |
-| Sun, 07 Jun 2026 08:26:03 GMT | Public methodologies in Penetration Testing: Ethical Hacking | Ramen Kumar Das | [Read More](https://medium.com/p/e026257bec37) |
-| Sun, 07 Jun 2026 08:23:13 GMT | HTTP in Detail- TryHackMe writeup | M D | [Read More](https://medium.com/p/73ecbfb65a30) |
-| Sun, 07 Jun 2026 08:07:12 GMT | Why I Chose Cybersecurity: My Journey Into Defending the Digital World | Gabriel Chukwuebuka Oboko | [Read More](https://medium.com/p/c385e3b6d335) |
