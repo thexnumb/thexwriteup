@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Jun 2026 22:55:39 GMT | The Anatomy of Financial Trust: Why Tokenization Wins Over Plain-Text Card Storage in B2B Fintech | Addie | [Read More](https://medium.com/p/53fa9ef0497d) |
+| Sun, 07 Jun 2026 22:52:23 GMT | “Every Time I Ask Something Personal, You Become a Different Person” | SunriseDaily | [Read More](https://medium.com/p/628c257b18e7) |
+| Sun, 07 Jun 2026 22:47:23 GMT | Why You Can No Longer Believe Your Eyes, Ears, or Inboxes | Learn With Hatty | [Read More](https://medium.com/p/9079bbb6586c) |
+| Sun, 07 Jun 2026 22:38:24 GMT | V2, an Ai Harness’ History of Failure | Aaron L | [Read More](https://medium.com/p/28279a29b2f2) |
+| Sun, 07 Jun 2026 22:22:08 GMT | Sorry For the Lack of a Witty Title | ElkCamo138 | [Read More](https://medium.com/p/5206861379bf) |
+| Sun, 07 Jun 2026 22:16:34 GMT | Axiom Hive XPII Ethical Innovation | Ethics | [Read More](https://medium.com/p/40595a5c9114) |
+| Sun, 07 Jun 2026 22:09:20 GMT | DefenceNet vs Feedzai, Sardine, SHIELD, and F-Secure: The Pre-Click Phishing Protection Layer | Vivek | [Read More](https://medium.com/p/8a3ff5e61d04) |
+| Sun, 07 Jun 2026 22:01:00 GMT | Klarna’s Google Pay Button Turns Checkout Speed Into Credit Risk | James Kuhman | [Read More](https://medium.com/p/8a309033376e) |
 | Sun, 07 Jun 2026 21:36:00 GMT | How to Deploy Local Web Applications on Windows Without Exposing Source Code or Credentials | Zameel Amjed | [Read More](https://medium.com/p/b5d2d76fee92) |
 | Sun, 07 Jun 2026 21:31:00 GMT | Why the World’s Most Powerful Cyber AI is Kept Under Strict Lock and Key | Lalit Tech Savvy | [Read More](https://medium.com/p/93f47c62d6d2) |
 | Sun, 07 Jun 2026 21:23:37 GMT | Update the Security of your Spring Project Right Now ! | Dev Genj | [Read More](https://medium.com/p/18143b897fc4) |
@@ -106,11 +114,3 @@ Their Limits | DhanushKumar | [Read More](https://medium.com/p/1ad453253c5c) |
 | Sun, 07 Jun 2026 14:49:51 GMT | Struktur Data: Greedy | Nabilla Paraswati | [Read More](https://medium.com/p/38fef69d8fd1) |
 | Sun, 07 Jun 2026 14:41:51 GMT | How I Hijacked a CTF Platform with Four Lines of Burp Suite Rules | ReFang | [Read More](https://medium.com/p/c26cb49546a5) |
 | Sun, 07 Jun 2026 14:39:42 GMT | Poisoned Pipelines: Invisible Vulnerabilities Threatening CI/CD Security | Pallavi L. | [Read More](https://medium.com/p/0ae3aead804c) |
-| Sun, 07 Jun 2026 14:39:10 GMT | TryHackMe — Search Skills walkthrough | Kedar | [Read More](https://medium.com/p/55fb55fc0c0f) |
-| Sun, 07 Jun 2026 14:36:01 GMT | The “Later” Button Is the Most Dangerous Thing on Your iPhone | Ahsan | [Read More](https://medium.com/p/cc838d39973c) |
-| Sun, 07 Jun 2026 14:34:38 GMT | Securing the Agentic Transport Layer: Vulnerability Mapping in Model Context Protocol (MCP)… | Sayat Kakzhanov | [Read More](https://medium.com/p/ba3d49c8e2b6) |
-| Sun, 07 Jun 2026 14:32:07 GMT | Data Post 21: Back-end Applications — When There Is No Front-end | Satti Data | [Read More](https://medium.com/p/fe8a4309b82d) |
-| Sun, 07 Jun 2026 14:31:12 GMT | SSRF Explained: Making the Server Your Proxy | 0x4rt1st | [Read More](https://medium.com/p/e549fea6a0e1) |
-| Sun, 07 Jun 2026 14:22:55 GMT | Geisha - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/22dae629d00a) |
-| Sun, 07 Jun 2026 14:12:32 GMT | Reading Cybersecurity Marketing Through an “Anti-Intuition” Lens | Jishuzhain | [Read More](https://medium.com/p/ba8cd3b78c74) |
-| Sun, 07 Jun 2026 14:11:47 GMT | Key Holding Services | Dynamic security solution ltd | [Read More](https://medium.com/p/ecda5e3d8adf) |
