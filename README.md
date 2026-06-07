@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Jun 2026 09:44:25 GMT | Part 1: The Dark Side of “Vibe Coding”Why Speed-to-Market is Leaking Your Secrets ? | Nayan chandak | [Read More](https://medium.com/p/f2623fa70958) |
+| Sun, 07 Jun 2026 09:41:00 GMT | Cyber Risk Appetite Questions for Boards That Lead to Action | Tyson Martin | [Read More](https://medium.com/p/a1b310ae99cd) |
+| Sun, 07 Jun 2026 09:39:32 GMT | The Privacy Problem With Cloud AI, and How Offline AI Apps Solve It | Lekhai App | [Read More](https://medium.com/p/a297543c4ba0) |
+| Sun, 07 Jun 2026 09:27:58 GMT | Why Do Fake Onion Mirrors Keep Appearing? | onion links | [Read More](https://medium.com/p/b4b5a7463b9a) |
+| Sun, 07 Jun 2026 09:21:16 GMT | From Chaos to Clarity: How I Built a Centralized SOC Analytics Platform- CyberPulse | Gurleenkaurbali | [Read More](https://medium.com/p/9dc8dfa6068d) |
+| Sun, 07 Jun 2026 09:20:13 GMT | How to Secure AI Systems from Prompt Injection Attacks: A CISO’s Guide to Enterprise Defense | Divyesh Vaishnav | [Read More](https://medium.com/p/63937711bcc9) |
+| Sun, 07 Jun 2026 09:17:13 GMT | Security enhancement in Kubernetes Clusters. | Mallikarjunakukatikonda | [Read More](https://medium.com/p/664f905b9eec) |
+| Sun, 07 Jun 2026 09:16:18 GMT | The night I realized I’d been studying the acronym list backwards | judeh0747 | [Read More](https://medium.com/p/086647db165e) |
+| Sun, 07 Jun 2026 09:08:15 GMT | UUID vs BIGINT: The Real Impact on Your PostgreSQL Queries at 100 Million Rows | Kouadiomathias | [Read More](https://medium.com/p/aec72f48976c) |
+| Sun, 07 Jun 2026 09:08:08 GMT | Designing Highly Available Load Balancing with NGINX and Keepalived: A Production Guide | hackthacker | [Read More](https://medium.com/p/0e99715e105f) |
+| Sun, 07 Jun 2026 09:06:00 GMT | ️ MS Sentinel: Introduction — A Security Analyst’s First Look at Microsoft Sentinel | Mukilan Baskaran | [Read More](https://medium.com/p/1afd9f91685f) |
+| Sun, 07 Jun 2026 09:01:46 GMT | AI-Powered Phishing and Deepfake Attacks: How to Stay Protected in the Age of Intelligent Cyber… | Divyesh Vaishnav | [Read More](https://medium.com/p/82aebbc0cef3) |
+| Sun, 07 Jun 2026 08:47:37 GMT | Tokyo Ghoul — TryHackMe WalkThrough with Flags | Rayenhafsawy | [Read More](https://medium.com/p/45d42989cf3b) |
+| Sun, 07 Jun 2026 08:41:35 GMT | How I Built a Raspberry Pi–Powered RF Monitoring Station for Under $100 | Michael Preston | [Read More](https://medium.com/p/05a7c5c1acd4) |
+| Sun, 07 Jun 2026 08:26:03 GMT | Public methodologies in Penetration Testing: Ethical Hacking | Ramen Kumar Das | [Read More](https://medium.com/p/e026257bec37) |
+| Sun, 07 Jun 2026 08:23:13 GMT | HTTP in Detail- TryHackMe writeup | M D | [Read More](https://medium.com/p/73ecbfb65a30) |
+| Sun, 07 Jun 2026 08:07:12 GMT | Why I Chose Cybersecurity: My Journey Into Defending the Digital World | Gabriel Chukwuebuka Oboko | [Read More](https://medium.com/p/c385e3b6d335) |
+| Sun, 07 Jun 2026 07:58:23 GMT | I Stopped Thinking Like a Student and Started Thinking Like a Hacker | blessingakaso | [Read More](https://medium.com/p/086202d524ee) |
+| Sun, 07 Jun 2026 07:52:44 GMT | Web Security Academy — Access Control Vulnerabilities (Apprentice Level Labs) | Kamal S | [Read More](https://medium.com/p/5c4036907b94) |
+| Sun, 07 Jun 2026 07:42:32 GMT | Beyond the Future of Quantum Computers with Strucutral Computation | Holographic Gravity | [Read More](https://medium.com/p/a039a84cbfab) |
+| Sun, 07 Jun 2026 07:39:32 GMT | Silicon Mafia | Mohammed Brückner | [Read More](https://medium.com/p/45bc30fa9c36) |
+| Sun, 07 Jun 2026 07:31:43 GMT | Lateral Movement Vs Pivoting (Difference With Practical) | Sahil | [Read More](https://medium.com/p/5692fa2c4d63) |
+| Sun, 07 Jun 2026 07:31:03 GMT | Chinese Espionage Campaign Targets the Czech Republic — Operation Dragon Weave | Patrik Žák | [Read More](https://medium.com/p/36069b676434) |
+| Sun, 07 Jun 2026 06:42:03 GMT | Why Good Hackers Make the Best Protectors: A Simple Look at the CBSE Vulnerability | Lalit Tech Savvy | [Read More](https://medium.com/p/598095f46e1a) |
+| Sun, 07 Jun 2026 06:35:45 GMT | Breach Files #005: Colonial Pipeline (2021) | NullyBlissful | [Read More](https://medium.com/p/0dced26bac6b) |
+| Sun, 07 Jun 2026 06:28:15 GMT | JWT Authentication Tutorials Teach the Easy Part. Here’s Everything Else. | Salahinmushfiq | [Read More](https://medium.com/p/e521a68aaa13) |
 | Sun, 07 Jun 2026 06:11:17 GMT | I Built a Subdomain Enumeration Tool From Scratch in Python — Here’s How It Works | Anuj rawal | [Read More](https://medium.com/p/fb94902a6bde) |
 | Sun, 07 Jun 2026 06:10:53 GMT | ThreatMapper: I Built a Self-Hosted AI Threat Intelligence Platform — Here’s How to Use It | Andrey Pautov | [Read More](https://medium.com/p/0aa7673e6bd8) |
 | Sun, 07 Jun 2026 06:02:05 GMT | Testing Network Infrastructure and Application Platform Configuration | Z3r0D4y | [Read More](https://medium.com/p/15080140e012) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Jun 2026 18:49:34 GMT | The Hidden Danger: Corporate AI Data Poisoning in Enterprise Systems | BizTech Pulse Hub | [Read More](https://medium.com/p/2abc78920ac6) |
 | Sat, 06 Jun 2026 18:48:31 GMT | WinNotify/signeddrv.sys — Full Local Privilege Escalation via Arbitrary Kernel Read/Write | Haidermustafa | [Read More](https://medium.com/p/09e0c1ababf3) |
 | Sat, 06 Jun 2026 18:46:53 GMT | Code as a Weapon: Navigating the Ethical Frontier of Military Restriction Licenses | Hidayat Mansuri | [Read More](https://medium.com/p/0057ebf983a3) |
-| Sat, 06 Jun 2026 18:32:59 GMT | My Journey to Passing the Certified Red Team Analyst (CRTA) by CyberWarFare Labs: A Comprehensive… | Ahmed H. Ismael | [Read More](https://medium.com/p/e556c14b1f67) |
-| Sat, 06 Jun 2026 18:28:27 GMT | How IDOR & Broken Authorization Lead to Massive Data Breaches | Novashield | [Read More](https://medium.com/p/9e9571c8b289) |
-| Sat, 06 Jun 2026 18:21:36 GMT | But I thought it was safe to open up… | Asmita B | [Read More](https://medium.com/p/3f4b545b34f5) |
-| Sat, 06 Jun 2026 18:16:59 GMT | Security Analyst Agent: Really simplified! | Yash Mudaliar | [Read More](https://medium.com/p/b86390fc2e30) |
-| Sat, 06 Jun 2026 18:10:04 GMT | Facts — A HackTheBox Writeup | 0x77 | [Read More](https://medium.com/p/303a560ddb72) |
-| Sat, 06 Jun 2026 18:09:19 GMT | Hunting Android Lockscreen Bypasses on Pixel: A Campaign Walkthrough — Contd. — III | Farhad Sajid Barbhuiya | [Read More](https://medium.com/p/3977139bb9ba) |
-| Sat, 06 Jun 2026 18:03:48 GMT | Hunting Android Lockscreen Bypasses on Pixel: A Campaign Walkthrough — Contd. — II | Farhad Sajid Barbhuiya | [Read More](https://medium.com/p/26baaf2c37cb) |
-| Sat, 06 Jun 2026 18:01:01 GMT | Nobody Cares About YOUR Stupid Story | Paperlight Stories | [Read More](https://medium.com/p/53f1c0dd95da) |
-| Sat, 06 Jun 2026 17:52:35 GMT | If I Were an Attacker: Thinking About SQL Injection | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/b545b31d32ef) |
-| Sat, 06 Jun 2026 17:51:23 GMT | The Open Source Operating System Taking Over Schools, Hospitals and Governments | Infinity Matrix | [Read More](https://medium.com/p/a59dfb603b65) |
-| Sat, 06 Jun 2026 17:46:55 GMT | Google Tracks 39 Data Points About You Daily — Here Is the Full List | Infinity Matrix | [Read More](https://medium.com/p/487e92d01e16) |
-| Sat, 06 Jun 2026 17:46:29 GMT | Starting out in Cybersecurity and AI as a Business Student - part 2 | Mina C. | [Read More](https://medium.com/p/75760588658d) |
-| Sat, 06 Jun 2026 17:27:06 GMT | The Malware Analyst’s Scalpel: How Debugging Forces Malware to Reveal Its Secrets | Pop123 | [Read More](https://medium.com/p/a5dcfee2b634) |
-| Sat, 06 Jun 2026 17:17:32 GMT | Then Life Dared Me to Stay Visible | Chelsea Leigh Trescott | [Read More](https://medium.com/p/b4cd255edc90) |
-| Sat, 06 Jun 2026 17:12:12 GMT | When Revoking Isn’t Enough: Building a Tool to Outrun the Bot | Serge Kartanenkov | [Read More](https://medium.com/p/bd8b3f07c023) |
-| Sat, 06 Jun 2026 17:03:19 GMT | I Built an Offline Tool That Tears Apart Your Security Policies | Soumyadipta Birabar | [Read More](https://medium.com/p/7c026552643c) |
-| Sat, 06 Jun 2026 16:57:04 GMT | Cryptographic Armor: How Hashing, Salting, and Ciphers Actually Shield Your Data | sufal kc | [Read More](https://medium.com/p/42b8accd5528) |
-| Sat, 06 Jun 2026 16:51:43 GMT | Business Logic Flaw — Users Can Manipulate Their Own Subscription Price via Exposed A/B Testing API | Divakarvasani | [Read More](https://medium.com/p/33d75365778c) |
-| Sat, 06 Jun 2026 16:42:18 GMT | Leaking Production Stripe Promo Codes via Unauthenticated PayloadCMS API — From Information… | Divakarvasani | [Read More](https://medium.com/p/2a5db238bc97) |
-| Sat, 06 Jun 2026 16:35:38 GMT | The Structural Shift from Reactive Scanning to Continuous Threat Exposure Management | BizTech Pulse Hub | [Read More](https://medium.com/p/c4d537b57631) |
-| Sat, 06 Jun 2026 16:30:40 GMT | Congress Just Dropped a 269-Page AI Bill. | v0id | [Read More](https://medium.com/p/33844bc2b2b8) |
-| Sat, 06 Jun 2026 16:27:29 GMT | Why I Finally Built bugbountyscam.com Graveyard for Fake Bug Bounty Programs | afaqain | [Read More](https://medium.com/p/177c1063e35b) |
-| Sat, 06 Jun 2026 16:26:46 GMT | No Big Degree, No Huge Title, No Problem: Foo’s Trust-Based Career Protocol | Just Lim @ CareerBeats | [Read More](https://medium.com/p/2f5591c5ebcf) |
-| Sat, 06 Jun 2026 16:20:06 GMT | Cloud Agent as Attack Infrastructure: When Microsoft Office Agent Becomes a Proxy | Omkar Asgaonkar | [Read More](https://medium.com/p/fd8bb73ddc15) |
-| Sat, 06 Jun 2026 16:17:43 GMT | Tryhackme — Summit | zerbaliy3v | [Read More](https://medium.com/p/50be94eae80d) |
-| Sat, 06 Jun 2026 16:16:40 GMT | CanaryWatch: A deception-based approach to ransomware detection | Some_Security_Guy | [Read More](https://medium.com/p/acfa14005c02) |
