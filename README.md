@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Jun 2026 01:31:48 GMT | The Bug That Almost Made Me Quit Cybersecurity — And the Lesson That Changed My Career Forever | Chisom | [Read More](https://medium.com/p/34184d0eb578) |
+| Sun, 07 Jun 2026 01:17:06 GMT | Understanding SSL Pinning: What it is and how to bypass it | Wahba Kamaluddin | [Read More](https://medium.com/p/a0010349e88c) |
+| Sun, 07 Jun 2026 00:58:15 GMT | AI Daily Digest: June 7, 2026 — Anthropic IPO, AI Agent Attacks, GR00T Humanoid | KD Agentic | [Read More](https://medium.com/p/416ea24a4027) |
+| Sun, 07 Jun 2026 00:44:08 GMT | How JWT Authentication Actually Works | err0rgod | [Read More](https://medium.com/p/3ba5177e4fff) |
+| Sun, 07 Jun 2026 00:13:42 GMT | THM — Wonderland — CTF | Abdul Halem | [Read More](https://medium.com/p/49939d7f01b8) |
+| Sun, 07 Jun 2026 00:00:29 GMT | Meta Wired Face Recognition Into Always-On Glasses And Didn’t Tell You | Blackout VPN | [Read More](https://medium.com/p/a433197bfa0a) |
+| Sat, 06 Jun 2026 23:49:29 GMT | Splunk BOTS — Boss Of The Soc v3 Walkthrough Analysis | OxMotaw3 | [Read More](https://medium.com/p/1b23b791f8e0) |
+| Sat, 06 Jun 2026 23:40:35 GMT | What I Actually Look for During a Product Security Review | Sudha | [Read More](https://medium.com/p/742dbe7e261d) |
+| Sat, 06 Jun 2026 23:27:03 GMT | The Biggest AI Security Risk Has Nothing to Do With the Model — It’s Identity | Qamar Nomani | [Read More](https://medium.com/p/3955f6a03010) |
+| Sat, 06 Jun 2026 23:16:00 GMT | SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) — LetsDefend | Rizwann | [Read More](https://medium.com/p/6b622f2633de) |
+| Sat, 06 Jun 2026 23:02:53 GMT | Authentication vs Authorization: Why the Difference Matters | Elizabeth Onyemowo Agbo | [Read More](https://medium.com/p/404e84e8da76) |
+| Sat, 06 Jun 2026 23:01:00 GMT | Why Organizations Prefer Easy Countermeasures | fmi A. | [Read More](https://medium.com/p/1d58df746d68) |
 | Sat, 06 Jun 2026 22:56:26 GMT | A Startup Lost a $3.2 Million Contract Because Nobody Had Ever Checked If Their Servers Were Secure | Ubani Obiajulum Emmanuel | [Read More](https://medium.com/p/3c92413fad7e) |
 | Sat, 06 Jun 2026 22:50:36 GMT | Zero-Knowledge Proofs: Proving Something Without Revealing Anything | Robert Broeckelmann | [Read More](https://medium.com/p/3563eceec66d) |
 | Sat, 06 Jun 2026 22:48:23 GMT | The Patch You Skipped and the Password You Reused Are Both Coming for You | Joao Silva | [Read More](https://medium.com/p/e6f9997c4746) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 06 Jun 2026 14:02:45 GMT | Network Security: Protecting the Backbone of Digital Communication | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/1269a3786b44) |
 | Sat, 06 Jun 2026 14:01:02 GMT | Threat Hunting with Email Security - LetsDefend | 0verRida | [Read More](https://medium.com/p/b4ceb0f077d1) |
 | Sat, 06 Jun 2026 14:01:02 GMT | Understanding the X-Powered-By Header Vulnerability and How to Hide It Using Nginx | TΞRMTRIX | [Read More](https://medium.com/p/bacfb231a8e7) |
-| Sat, 06 Jun 2026 13:54:08 GMT | Two things I wish I knew before entering Cybersecurity | Poornima_Murali | [Read More](https://medium.com/p/93bc27289ad3) |
-| Sat, 06 Jun 2026 13:53:54 GMT | From the Classroom to the Real World: My OJT Journey at DELTECH Parking System and Solutions | Darell Francisco | [Read More](https://medium.com/p/238f1adb0903) |
-| Sat, 06 Jun 2026 13:44:23 GMT | AegisAPI: Securing the APIs Organizations Don’t Even Know They Have | Prathamesh Desai | [Read More](https://medium.com/p/44be16feb043) |
-| Sat, 06 Jun 2026 13:40:31 GMT | Top 7 Cybersecurity Mistakes Students Make (And Why Hackers Love Them) | pavani | [Read More](https://medium.com/p/e3d8213ad7b7) |
-| Sat, 06 Jun 2026 13:37:48 GMT | Off-the-Grid Peace of Mind: Why Solar 4G Surveillance is the Ultimate Guard for Remote Farms? | Secuviewqatar | [Read More](https://medium.com/p/8b1798a78aaf) |
-| Sat, 06 Jun 2026 13:37:40 GMT | How We Traded Privacy for Convenience, and Why AI Might Make it Permanent | Learn With Hatty | [Read More](https://medium.com/p/11386c55670c) |
-| Sat, 06 Jun 2026 13:37:31 GMT | Katz Stealer: Reverse Engineering a Information Stealer | CHANDRA KANT BAURI | [Read More](https://medium.com/p/2e708948e511) |
-| Sat, 06 Jun 2026 13:27:21 GMT | Trusted by the network, owned by nobody, exploited by attackers | NetworkTigers | [Read More](https://medium.com/p/500a46263806) |
-| Sat, 06 Jun 2026 13:20:51 GMT | The “Open House” API: How I Found a Massive IDOR Vulnerability | Alfaz Hossain | [Read More](https://medium.com/p/e5c6da9483d8) |
-| Sat, 06 Jun 2026 13:20:09 GMT | What I Learned Building an AI-Powered AppSec Source Code Review Workflow | Rui Pedro Moreira | [Read More](https://medium.com/p/64ed0900c4e0) |
-| Sat, 06 Jun 2026 13:17:45 GMT | OSIRIS Explained - AI-Powered OSINT & Reconnaissance Platform | Pentester Club | [Read More](https://medium.com/p/b83500241306) |
-| Sat, 06 Jun 2026 13:14:49 GMT | Security is not a Feature. It is the Foundation. | Genevieve Richards | [Read More](https://medium.com/p/66ee108438e1) |
