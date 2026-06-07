@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Jun 2026 21:36:00 GMT | How to Deploy Local Web Applications on Windows Without Exposing Source Code or Credentials | Zameel Amjed | [Read More](https://medium.com/p/b5d2d76fee92) |
+| Sun, 07 Jun 2026 21:31:00 GMT | Why the World’s Most Powerful Cyber AI is Kept Under Strict Lock and Key | Lalit Tech Savvy | [Read More](https://medium.com/p/93f47c62d6d2) |
+| Sun, 07 Jun 2026 21:23:37 GMT | Update the Security of your Spring Project Right Now ! | Dev Genj | [Read More](https://medium.com/p/18143b897fc4) |
+| Sun, 07 Jun 2026 21:19:05 GMT | Back-end Introduction | Kenechukwu | [Read More](https://medium.com/p/cf0724bf5902) |
+| Sun, 07 Jun 2026 21:11:00 GMT | Introducing Laravel Moat: A Security Review for GitHub Maintainers | Hafiq Iqmal | [Read More](https://medium.com/p/d702a1428a03) |
+| Sun, 07 Jun 2026 21:10:40 GMT | The Defenders Are Catching Up | AmieOnSecurity | [Read More](https://medium.com/p/32c2ed9137b3) |
+| Sun, 07 Jun 2026 21:05:42 GMT | Why Crypto Services Don’t Always See Smart Contract Transfers | Rabbit | [Read More](https://medium.com/p/62e5895e0553) |
+| Sun, 07 Jun 2026 21:05:18 GMT | XRisk: Building the Safety Layer I Wanted Agentic AI to Have | Aditya P Dixit | [Read More](https://medium.com/p/3403eee5ac9f) |
+| Sun, 07 Jun 2026 21:02:15 GMT | CTF Writeup: SUID Hunter (Phantom Level 1) | Vivek Kumar | [Read More](https://medium.com/p/f35733340a68) |
+| Sun, 07 Jun 2026 21:00:42 GMT | XML Parsing vs Me (Age 14) | Asher Darden | [Read More](https://medium.com/p/97e5c84c9ede) |
+| Sun, 07 Jun 2026 20:57:19 GMT | Beyond the Resume: How do multi-million dollar companies prove their skills? | Sriram Mahalingam | [Read More](https://medium.com/p/7c700d3feb9a) |
+| Sun, 07 Jun 2026 20:48:27 GMT | Attacking Kerberos: How I Walked Through an Active Directory Domain | Will Giles - Cybersecurity | [Read More](https://medium.com/p/a7b10b492bce) |
+| Sun, 07 Jun 2026 20:38:39 GMT | To Make an AI Agent Safe, OpenAI’s Best Answer Is to Make It Less of an Agent | Nicholas Mboya | [Read More](https://medium.com/p/31e465ce4063) |
+| Sun, 07 Jun 2026 20:25:48 GMT | السلام عليكم ورحمة الله وبركاته | Ahmed A Mohammed | [Read More](https://medium.com/p/1e1b888488ca) |
+| Sun, 07 Jun 2026 20:16:40 GMT | TryHackMe — Investigating with Splunk | Efe Özel | [Read More](https://medium.com/p/7f8b0958449c) |
+| Sun, 07 Jun 2026 20:11:12 GMT | Courage And Inner Power: Why True Inner Power Demands the Terror of Naked Vulnerability | Stable Grace | [Read More](https://medium.com/p/bb34a885b9a7) |
 | Sun, 07 Jun 2026 20:10:15 GMT | 2026: An AI Odyssey — Injectus IX Walkthrough | Metehan Uluocak | [Read More](https://medium.com/p/dfd0b99dfc3e) |
 | Sun, 07 Jun 2026 20:09:49 GMT | LetsDefend SOC114 — Malicious Attachment Analysis | Efe Özel | [Read More](https://medium.com/p/775497082555) |
 | Sun, 07 Jun 2026 20:05:49 GMT | You talked about “Nike shoes” with your friend. | Afaqjutt | [Read More](https://medium.com/p/6255aee72e0d) |
@@ -98,19 +114,3 @@ Their Limits | DhanushKumar | [Read More](https://medium.com/p/1ad453253c5c) |
 | Sun, 07 Jun 2026 14:22:55 GMT | Geisha - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/22dae629d00a) |
 | Sun, 07 Jun 2026 14:12:32 GMT | Reading Cybersecurity Marketing Through an “Anti-Intuition” Lens | Jishuzhain | [Read More](https://medium.com/p/ba8cd3b78c74) |
 | Sun, 07 Jun 2026 14:11:47 GMT | Key Holding Services | Dynamic security solution ltd | [Read More](https://medium.com/p/ecda5e3d8adf) |
-| Sun, 07 Jun 2026 14:10:16 GMT | Support TryHackMe Room Walkthrough | Gowrishankar | [Read More](https://medium.com/p/333977ef248b) |
-| Sun, 07 Jun 2026 14:01:01 GMT | AI-Powered Password Cracking with Hashcat MCP  Explained | Pentester Club | [Read More](https://medium.com/p/c5dd2cb7ad62) |
-| Sun, 07 Jun 2026 13:57:54 GMT | Do you want to confirm your subscription? | Rakshita V | [Read More](https://medium.com/p/047d53738cdb) |
-| Sun, 07 Jun 2026 13:47:46 GMT | RegulAegis AI — Compliance Memory Intelligence Platform | Parthsidhapura | [Read More](https://medium.com/p/88dd6a930f84) |
-| Sun, 07 Jun 2026 13:46:00 GMT | CORS in Production: Implementation, Debugging, and Security Best Practices | Navidbarsalari | [Read More](https://medium.com/p/01ea0389a0a8) |
-| Sun, 07 Jun 2026 13:44:39 GMT | MAL: Malware Introductory walkthrough | Yasin Kantemiz | [Read More](https://medium.com/p/4b435c974177) |
-| Sun, 07 Jun 2026 13:39:40 GMT | The AI Reckoning: Token Prices, Slop, Safety Warnings and the Data Wall the Whole Industry Is… | Sellarix | [Read More](https://medium.com/p/06cc53cd02dd) |
-| Sun, 07 Jun 2026 13:38:57 GMT | Glasswing, and what it means for OT | Stuart | [Read More](https://medium.com/p/2d812de81518) |
-| Sun, 07 Jun 2026 13:37:49 GMT | Day 1 of Revising Networking To Become a SOC Analyst Series. | Sanjaykumar P | [Read More](https://medium.com/p/e69322b7e2de) |
-| Sun, 07 Jun 2026 13:35:51 GMT | OWASP Top 10 for Agentic Applications on Azure: Part 4 — Identity and Privilege Abuse | Karmesh Gupta | [Read More](https://medium.com/p/e24a41c08b81) |
-| Sun, 07 Jun 2026 13:30:54 GMT | The Credential Is Gone. The Access Isn’t | Mohamed Labouardy | [Read More](https://medium.com/p/25006369a391) |
-| Sun, 07 Jun 2026 13:28:20 GMT | How Batman Trained His Mind Without Superpowers — What is Machine Learning? | Vijenex | [Read More](https://medium.com/p/a6e788fce47f) |
-| Sun, 07 Jun 2026 13:21:22 GMT | Flask Security Checklist: 20 Mistakes Every Beginner Makes | Sourabh Bhardwaj | [Read More](https://medium.com/p/026f3b1603a9) |
-| Sun, 07 Jun 2026 13:10:54 GMT | Industrial Espionage and Closed Source: How Jacquard Cards Became the First Software Worth Stealing | The Weaver's Logic | [Read More](https://medium.com/p/25edbc28740f) |
-| Sun, 07 Jun 2026 13:09:30 GMT | TCP/IP: The Four-Layer Model That Actually Runs the Internet | Siddhesh Ghatage | [Read More](https://medium.com/p/87d0d167d0fd) |
-| Sun, 07 Jun 2026 13:06:42 GMT | How I Built a SOC Home Lab From Scratch (pfSense + Splunk + Kali + Windows 10) | Divinefavour Nwachukwu | [Read More](https://medium.com/p/efa330d416c1) |
