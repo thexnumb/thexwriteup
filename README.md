@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Jun 2026 20:10:15 GMT | 2026: An AI Odyssey — Injectus IX Walkthrough | Metehan Uluocak | [Read More](https://medium.com/p/dfd0b99dfc3e) |
+| Sun, 07 Jun 2026 20:09:49 GMT | LetsDefend SOC114 — Malicious Attachment Analysis | Efe Özel | [Read More](https://medium.com/p/775497082555) |
+| Sun, 07 Jun 2026 20:05:49 GMT | You talked about “Nike shoes” with your friend. | Afaqjutt | [Read More](https://medium.com/p/6255aee72e0d) |
+| Sun, 07 Jun 2026 20:01:00 GMT | The Hidden Risks of Deepfakes: Why Seeing Is No Longer Believing | abdulflow | [Read More](https://medium.com/p/edb021af9828) |
+| Sun, 07 Jun 2026 19:56:34 GMT | Going Legit: Because That's Where the Money Is | Jarred White | [Read More](https://medium.com/p/f076b54d9083) |
+| Sun, 07 Jun 2026 19:52:13 GMT | Building a High-Performance Cyber Range with ESXi & Active Directory. | Ibrahim Dia (Kg4real) | [Read More](https://medium.com/p/12afdeabee15) |
+| Sun, 07 Jun 2026 19:49:05 GMT | 5 Security Practices Senior Frontend Engineers Use in React/Next.js | Anshul | [Read More](https://medium.com/p/b72aff328bcc) |
+| Sun, 07 Jun 2026 19:46:00 GMT | How Hackers Can Fool AI Using Just One Pixel…….. | Mohammad Yaseen | [Read More](https://medium.com/p/f89e3e340054) |
+| Sun, 07 Jun 2026 19:39:56 GMT | Why 87% of Organizations Still Run Exploitable Vulnerabilities in Production | Abdelmohaimene TAYEB BEY - BeyTechBrief | [Read More](https://medium.com/p/b5eacf34e2a0) |
+| Sun, 07 Jun 2026 19:30:10 GMT | Dependabot ile Paket Güncelleme Otomasyonu | Yasin ATEŞ | [Read More](https://medium.com/p/8b20db442325) |
+| Sun, 07 Jun 2026 18:58:18 GMT | How Security Analysts Use GlassWire for Threat Hunting and Incident Response? | Xpert4Cyber | [Read More](https://medium.com/p/4a54a934b252) |
+| Sun, 07 Jun 2026 18:55:34 GMT | How We Ran FFmpeg Entirely in Your Browser Using WebAssembly | rsaat labs | [Read More](https://medium.com/p/6c8b37eee199) |
+| Sun, 07 Jun 2026 18:54:18 GMT | # I Spent 6 Hours Hacking Coinbase-Backed Bankr. Here’s Everything I Found. | Van Thong | [Read More](https://medium.com/p/14baf2f9f4b9) |
+| Sun, 07 Jun 2026 18:52:24 GMT | The Hour After | Roky Jegar Erickson | [Read More](https://medium.com/p/d90f6e8d2b7c) |
+| Sun, 07 Jun 2026 18:51:18 GMT | How We Built a Pastebin Where Even We Cannot Read Your Data | rsaat labs | [Read More](https://medium.com/p/02f3ed623895) |
+| Sun, 07 Jun 2026 18:50:43 GMT | Stop Installing MCP Servers Until You Read This. I’m Not Kidding | Yogeshwar Tanwar | [Read More](https://medium.com/p/3eccc910b642) |
+| Sun, 07 Jun 2026 18:50:19 GMT | TryHackMe write-up: Traverse | Viktor Chalyi | [Read More](https://medium.com/p/761f15619ffa) |
 | Sun, 07 Jun 2026 18:38:23 GMT | Visualizing Physical Attack Surface Exposure with Python, WiGLE, and Shodan | Bharath Dibbadahalli Hanumanthappa | [Read More](https://medium.com/p/ec66b51df411) |
 | Sun, 07 Jun 2026 18:34:49 GMT | TJCTF 2026 — find-da-code (Misc) Writeup | Muhammadjilani | [Read More](https://medium.com/p/fdeeb38695e4) |
 | Sun, 07 Jun 2026 18:33:18 GMT | Securing the Autonomous Frontier: The RAAI Runtime Security Model™ for Agentic AI | Ravindra Annam | [Read More](https://medium.com/p/4c241a03289f) |
@@ -97,23 +114,3 @@ Their Limits | DhanushKumar | [Read More](https://medium.com/p/1ad453253c5c) |
 | Sun, 07 Jun 2026 13:10:54 GMT | Industrial Espionage and Closed Source: How Jacquard Cards Became the First Software Worth Stealing | The Weaver's Logic | [Read More](https://medium.com/p/25edbc28740f) |
 | Sun, 07 Jun 2026 13:09:30 GMT | TCP/IP: The Four-Layer Model That Actually Runs the Internet | Siddhesh Ghatage | [Read More](https://medium.com/p/87d0d167d0fd) |
 | Sun, 07 Jun 2026 13:06:42 GMT | How I Built a SOC Home Lab From Scratch (pfSense + Splunk + Kali + Windows 10) | Divinefavour Nwachukwu | [Read More](https://medium.com/p/efa330d416c1) |
-| Sun, 07 Jun 2026 13:06:00 GMT | Arm’s Metis Is the AI Security Agent That Actually Finds Vulnerabilities — Here’s How It Works | RK | [Read More](https://medium.com/p/cceb56c06038) |
-| Sun, 07 Jun 2026 12:56:26 GMT | He Traded Hacking for Hiking. One Leaked Chat Later, I Found Exactly Where. | Stoic_Gang | [Read More](https://medium.com/p/e7c944b13456) |
-| Sun, 07 Jun 2026 12:47:36 GMT | TikTok Account Cyber Attacks: Rising Threats and How to Stay Safe -- Get Help | BlackHat | [Read More](https://medium.com/p/0f45b7ae62a4) |
-| Sun, 07 Jun 2026 12:39:33 GMT | Can i see cheating partner WhatsApp messages? | Michael Parks | [Read More](https://medium.com/p/9faedd1054f6) |
-| Sun, 07 Jun 2026 12:36:39 GMT | Lunizz CTF (THM) Tryhackme Medium Challenge Walkthrough | Lawvye | [Read More](https://medium.com/p/d40163c30337) |
-| Sun, 07 Jun 2026 12:21:36 GMT | Linux Administration: Service Management and Firewall Configuration | Hyunjae | [Read More](https://medium.com/p/5dc4893f5ce9) |
-| Sun, 07 Jun 2026 12:20:45 GMT | My Experience with the CompTIA A+ | Andrew | [Read More](https://medium.com/p/24b17cf0fd88) |
-| Sun, 07 Jun 2026 12:18:44 GMT | Bypass Appdome 2026 (Android) | Farman Ullah Marwat | [Read More](https://medium.com/p/a55df53a52f0) |
-| Sun, 07 Jun 2026 12:14:36 GMT | Understanding Obfuscation: From Code Protection to Security Testing | Gehad Reda | [Read More](https://medium.com/p/dbffaaa54324) |
-| Sun, 07 Jun 2026 12:10:42 GMT | DNS, FTP & SMTP: Real Protocols Through the OSI Model | Roboticela | [Read More](https://medium.com/p/32bf9076409c) |
-| Sun, 07 Jun 2026 12:10:21 GMT | HTTP vs HTTPS: Security Through the OSI Lens | Roboticela | [Read More](https://medium.com/p/9f6c71648f2c) |
-| Sun, 07 Jun 2026 12:05:03 GMT | How I Hacked Any User Account in 5Minutes: A Critical Account Takeover Story | Pankaj Kumar Yadav | [Read More](https://medium.com/p/ab203e774422) |
-| Sun, 07 Jun 2026 12:04:16 GMT | The Trivy Supply Chain Attack and the Visibility Gap | Oran F | [Read More](https://medium.com/p/30ad4aaf6a06) |
-| Sun, 07 Jun 2026 12:01:17 GMT | Published: June 5, 2026
-Read time: ~12 min
-Tags: Privacy, Guide
-Slug… | FaceSift | [Read More](https://medium.com/p/415ca75a9ee0) |
-| Sun, 07 Jun 2026 11:57:44 GMT | Join Kelvn Israelz Today On Pentagon reportedly Grown Increasing Alarmed Over What It Sees As… | Kelvn Israelz | [Read More](https://medium.com/p/c9c4cccf8c11) |
-| Sun, 07 Jun 2026 11:55:53 GMT | JavaScript Prototype Pollution Deep Dive : — Reconnaissance, Exploitation & Bug Bounty Guideline | MD Mehedi Hasan | [Read More](https://medium.com/p/25e0496ade04) |
-| Sun, 07 Jun 2026 11:54:19 GMT | Seven Layers Deep: How the OSI Model Explains Every Network Conversation Ever | Siddhesh Ghatage | [Read More](https://medium.com/p/46e3e657a7a3) |
