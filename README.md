@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 07 Jun 2026 18:38:23 GMT | Visualizing Physical Attack Surface Exposure with Python, WiGLE, and Shodan | Bharath Dibbadahalli Hanumanthappa | [Read More](https://medium.com/p/ec66b51df411) |
+| Sun, 07 Jun 2026 18:34:49 GMT | TJCTF 2026 — find-da-code (Misc) Writeup | Muhammadjilani | [Read More](https://medium.com/p/fdeeb38695e4) |
+| Sun, 07 Jun 2026 18:33:18 GMT | Securing the Autonomous Frontier: The RAAI Runtime Security Model™ for Agentic AI | Ravindra Annam | [Read More](https://medium.com/p/4c241a03289f) |
+| Sun, 07 Jun 2026 18:30:04 GMT | ASThash: A Transformation-Invariant Provenance Engine for Mitigating LLM Model Collapse | Arna Nandi | [Read More](https://medium.com/p/ff38eb2cbae7) |
+| Sun, 07 Jun 2026 18:29:45 GMT | INTEGRATED FORENSIC VULNERABILITY LEDGER | Lazyboii | [Read More](https://medium.com/p/414415961a6e) |
+| Sun, 07 Jun 2026 18:28:30 GMT | CL34RBOXX: The End of Nightmare Eclipse. | Lazyboii | [Read More](https://medium.com/p/fd1eb8c619a9) |
+| Sun, 07 Jun 2026 18:21:40 GMT | Smart URL Detector : Detecting Malicious Websites Using Machine Learning | VANSHIKA PATEL | [Read More](https://medium.com/p/9d1f2339f77c) |
+| Sun, 07 Jun 2026 18:20:06 GMT | You Should Know this About Anthropic’s Mythos and Your So-Called Safe Money in the Banks | Universal_Photon | [Read More](https://medium.com/p/832a1f7cb1b6) |
+| Sun, 07 Jun 2026 18:18:28 GMT | AI Guardrails: The Invisible Security Layer Every AI System Needs | Ashwini Puranik | [Read More](https://medium.com/p/ed22289cfe29) |
+| Sun, 07 Jun 2026 18:18:17 GMT | Building an AI Security Pipeline Agent: The Future of Autonomous DevSecOps | Ashwini Puranik | [Read More](https://medium.com/p/b73fb39286a5) |
+| Sun, 07 Jun 2026 18:17:23 GMT | Hacking with Raspberry Pico: Terminal Text Injection and File Stealing | Sebastian | [Read More](https://medium.com/p/c6a22a9625ab) |
+| Sun, 07 Jun 2026 18:13:08 GMT | Construction Site Security in BC: How to Prevent Theft, Trespassing, and After-Hours Losses | Zentra Protection | [Read More](https://medium.com/p/d501a9aa6d6f) |
+| Sun, 07 Jun 2026 18:09:19 GMT | COMMAND INJECTION | amanseczx | [Read More](https://medium.com/p/613382861f7e) |
+| Sun, 07 Jun 2026 18:08:42 GMT | 0. The Anatomy of a Vulnerability: Why Modern Security is Built on Weak Ground | Hahahüjjü | [Read More](https://medium.com/p/2eeb8ac377ab) |
+| Sun, 07 Jun 2026 18:08:08 GMT | OIDC auth for GitHub in AWS | Amit Gupta | [Read More](https://medium.com/p/9a0a9a201ac5) |
+| Sun, 07 Jun 2026 18:03:56 GMT | Who Let the Bots In?
+Building AI Agents That Know
+Their Limits | DhanushKumar | [Read More](https://medium.com/p/1ad453253c5c) |
+| Sun, 07 Jun 2026 17:58:28 GMT | Why Most Cybersecurity Home Labs Never Lead to Job Offers | Jbird | [Read More](https://medium.com/p/95eb9dbd7020) |
+| Sun, 07 Jun 2026 17:58:01 GMT | OAuth 2.0 Device Authorization Grant (RFC 8628): A Complete Technical Breakdown | Nishchayr | [Read More](https://medium.com/p/6e859ece51dd) |
+| Sun, 07 Jun 2026 17:50:03 GMT | From Self-XSS to Account Takeover: How I Turned a Low-Severity Finding into a Critical… | Kanishkdadhich | [Read More](https://medium.com/p/6cde39fcd412) |
+| Sun, 07 Jun 2026 17:49:29 GMT | Context Engineering Is The New Security Perimeter | Rakeshkhanduja | [Read More](https://medium.com/p/e8f3e3b80ad2) |
+| Sun, 07 Jun 2026 17:43:51 GMT | The Hidden Cost of Auto-Increment IDs: How Your API Might Be Leaking Business Secrets | Srikanth Govindavaram | [Read More](https://medium.com/p/f2cdb414f9f4) |
+| Sun, 07 Jun 2026 17:41:58 GMT | Linux. Part 3: Text Processing — Turning Raw Data into Answers | Ashar Arif | [Read More](https://medium.com/p/a3de6570cdfe) |
+| Sun, 07 Jun 2026 17:18:05 GMT | Linux. Part 2: Exploring Files Like a Linux Detective | Ashar Arif | [Read More](https://medium.com/p/c8ebd47b5246) |
 | Sun, 07 Jun 2026 17:12:54 GMT | Beyond the Resume: Why an IT Portfolio is Your Real Ticket In | Imesh Munasinghe | [Read More](https://medium.com/p/7d3450bcf59a) |
 | Sun, 07 Jun 2026 17:01:11 GMT | TryHackMe CTF Writeup: Dead Drop | Fuad Khan | [Read More](https://medium.com/p/2fc29592e572) |
 | Sun, 07 Jun 2026 17:01:01 GMT | Zero-trust React: defending against 2026’s AI-powered phishing attacks | ThankGod Chibugwum Obobo | [Read More](https://medium.com/p/6f36fd29a6b8) |
@@ -92,26 +117,3 @@ Slug… | FaceSift | [Read More](https://medium.com/p/415ca75a9ee0) |
 | Sun, 07 Jun 2026 11:57:44 GMT | Join Kelvn Israelz Today On Pentagon reportedly Grown Increasing Alarmed Over What It Sees As… | Kelvn Israelz | [Read More](https://medium.com/p/c9c4cccf8c11) |
 | Sun, 07 Jun 2026 11:55:53 GMT | JavaScript Prototype Pollution Deep Dive : — Reconnaissance, Exploitation & Bug Bounty Guideline | MD Mehedi Hasan | [Read More](https://medium.com/p/25e0496ade04) |
 | Sun, 07 Jun 2026 11:54:19 GMT | Seven Layers Deep: How the OSI Model Explains Every Network Conversation Ever | Siddhesh Ghatage | [Read More](https://medium.com/p/46e3e657a7a3) |
-| Sun, 07 Jun 2026 11:38:32 GMT | I Let AI Run My Day for a Week | Vinod | [Read More](https://medium.com/p/98cf69a00441) |
-| Sun, 07 Jun 2026 11:38:24 GMT | Hunting UNC3753-Style Helpdesk Domains Targeting U.S. Law Firms | Costin Raiu | [Read More](https://medium.com/p/7db8df865cb5) |
-| Sun, 07 Jun 2026 11:35:09 GMT | Why Hardcoding Credentials Is a Bad Idea: A Practical Guide to Environment Variables in Python | Kalladi Sreevathsa | [Read More](https://medium.com/p/c85b605bd4ab) |
-| Sun, 07 Jun 2026 11:15:57 GMT | CyberDefenders: Insider Walkthrough | Nishka Bhatt | [Read More](https://medium.com/p/b0778cb4bb1d) |
-| Sun, 07 Jun 2026 11:13:57 GMT | Building an Open Hardware Wallet — Step 1: USB-C Power Input & 3.3V LDO Regulation | Havenlon | [Read More](https://medium.com/p/29fa515e13d3) |
-| Sun, 07 Jun 2026 11:09:32 GMT | Set Up Your First VPN in Linux (WireGuard + OpenVPN) (Part 2) | Alwinaji | [Read More](https://medium.com/p/835e30599e2b) |
-| Sun, 07 Jun 2026 11:08:29 GMT | VPNs in Linux: What They Are and Why You Actually Need One (Part 1) | Alwinaji | [Read More](https://medium.com/p/e291dd9e9842) |
-| Sun, 07 Jun 2026 11:06:16 GMT | The Half-Eaten Pie | Marcio Farias | [Read More](https://medium.com/p/a923fdbffe67) |
-| Sun, 07 Jun 2026 11:06:10 GMT | From Recon to Report: Automating the Boring Parts of Pentesting | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6140023f773b) |
-| Sun, 07 Jun 2026 11:00:13 GMT | Hijacking my own account with prompt injection | KH Tan | [Read More](https://medium.com/p/69886a23d428) |
-| Sun, 07 Jun 2026 10:59:36 GMT | Python Programming summer internship for freshers in India | cybersecuritycourse | [Read More](https://medium.com/p/11b1572abe22) |
-| Sun, 07 Jun 2026 10:53:17 GMT | The CMMC Scope You Can’t Defend Will Cost You the Assessment | Zvi Melkman | [Read More](https://medium.com/p/899bd530a5aa) |
-| Sun, 07 Jun 2026 10:50:11 GMT | Master Guide: Solving All PortSwigger OS Command Injection Vulnerabilities | Ayeshaaghafoor | [Read More](https://medium.com/p/8341a74612f4) |
-| Sun, 07 Jun 2026 10:46:00 GMT | Configure On-Behalf-Of (OBO) user-delegated authentication | Railsdevabam | [Read More](https://medium.com/p/21cda1f52131) |
-| Sun, 07 Jun 2026 10:45:08 GMT | QoreChain and Post-Quantum Cryptography: Building the Security of the Future Today | Fan Qore | [Read More](https://medium.com/p/09cf60faf938) |
-| Sun, 07 Jun 2026 10:43:43 GMT | OSSEC: Security patches for the JSON Pretty component | Lucas Soares | [Read More](https://medium.com/p/6ec844b0a7bf) |
-| Sun, 07 Jun 2026 10:43:16 GMT | The Architecture of Awakening: How a Single Snack Collapsed My Tower of Certainty | Noerlita Leyla Anggraheni | [Read More](https://medium.com/p/d9e9aa8c96ee) |
-| Sun, 07 Jun 2026 10:41:44 GMT | OSSEC: Patches de segurança para o componente JSON Pretty | Lucas Soares | [Read More](https://medium.com/p/3fbde463ac9a) |
-| Sun, 07 Jun 2026 10:34:30 GMT | The Bug That Hid Behind Perfectly Normal Behavior | Fateyaly | [Read More](https://medium.com/p/72fa884fef66) |
-| Sun, 07 Jun 2026 10:33:30 GMT | From Copilot to Culprit: When Your SOC Agent Becomes the Insider | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ade8c6466020) |
-| Sun, 07 Jun 2026 10:23:41 GMT | Vulnerability Management: The Cybersecurity Process That Could Prevent the Next Major Breach | Shalu | [Read More](https://medium.com/p/67b979ad7102) |
-| Sun, 07 Jun 2026 10:15:49 GMT | How to Build an AI-Powered Log Analyzer for Your SOC Using Python and Scikit-Learn | Motasem Hamdan | [Read More](https://medium.com/p/42aaaedb23e9) |
-| Sun, 07 Jun 2026 10:11:27 GMT | Database Indexing: The Complete Guide | Freezbee | [Read More](https://medium.com/p/620a6b83b63d) |
