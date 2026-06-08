@@ -12,6 +12,40 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Jun 2026 18:40:42 GMT | # AI Red-Teaming Techniques: A Practical Starting Point for Security Teams | GTK Cyber LLC | [Read More](https://medium.com/p/2f267dd6f063) |
+| Mon, 08 Jun 2026 18:35:40 GMT | CCTV SUVEILLANCE | Dynamic security solution ltd | [Read More](https://medium.com/p/3fe91b5bcfd2) |
+| Mon, 08 Jun 2026 18:35:19 GMT | learning basic BASH language | Shubham Dhobe | [Read More](https://medium.com/p/be6681ab5a60) |
+| Mon, 08 Jun 2026 18:34:40 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 2 — eJPT (INE) | Suraj Apar | [Read More](https://medium.com/p/9c11f35cbcd6) |
+| Mon, 08 Jun 2026 18:34:32 GMT | Building an Autonomous SOC/SOAR Platform: Integrating Wazuh SIEM with Generative AI and Automated… | Usmannazir | [Read More](https://medium.com/p/0e629ff8d7ea) |
+| Mon, 08 Jun 2026 18:31:00 GMT | Red Teaming MCP Servers: 24 Attack Payloads and the Blueprint for Agentic Defense-in-Depth | JustinLee | [Read More](https://medium.com/p/09e79ed7461c) |
+| Mon, 08 Jun 2026 18:18:22 GMT | AI and Cyber-Defense: The New Era of Autonomous Security Operations in 2026 | AIsofia - Aisofya | [Read More](https://medium.com/p/bdbed981a5ed) |
+| Mon, 08 Jun 2026 18:18:06 GMT | The Advanced URL Enumeration Guide for Recon in 2026 | cyber security | [Read More](https://medium.com/p/6d80ee383e50) |
+| Mon, 08 Jun 2026 18:16:53 GMT | Privacy Isn’t About Secrets — It’s About Inference | Monirhossain | [Read More](https://medium.com/p/948f16d2ecee) |
+| Mon, 08 Jun 2026 18:11:52 GMT | Why Most Cybersecurity Training Produces People Who Can Pass Exams and Fail Incidents? | Sarath G | [Read More](https://medium.com/p/7ca2d3d75020) |
+| Mon, 08 Jun 2026 18:00:22 GMT | How Seven Dimension Resolved My Phishing Email Problem | Seven Dimension GEE Inc. | [Read More](https://medium.com/p/99e3f259b979) |
+| Mon, 08 Jun 2026 17:59:55 GMT | AI Into Every Phase LPT Methodology | Aditya Pandey | [Read More](https://medium.com/p/51a334c95ba0) |
+| Mon, 08 Jun 2026 17:57:55 GMT | Direct Enforcement: Why the West Must Reset Its Deterrence Strategy Against Tehran | Golda Mizrahi | [Read More](https://medium.com/p/f0fb61d5d205) |
+| Mon, 08 Jun 2026 17:54:42 GMT | Fine, and Other Lies I Told By Saying Nothing | Shae | [Read More](https://medium.com/p/d77f8ea24d2c) |
+| Mon, 08 Jun 2026 17:53:18 GMT | When the Industry Writes the Check for a Decision It Never Made | Eric Gallagher | [Read More](https://medium.com/p/89a3822f953b) |
+| Mon, 08 Jun 2026 17:49:46 GMT | How to catch cheating wife texting? | Michael Parks | [Read More](https://medium.com/p/eb3e1328eb0d) |
+| Mon, 08 Jun 2026 17:42:16 GMT | Blog Comment System on Firebase: XSS Protection and $0 Cost | Aribu js | [Read More](https://medium.com/p/4136344bc9b5) |
+| Mon, 08 Jun 2026 17:41:49 GMT | How to Manage Stress in Digital Marketing (Without Losing Productivity) | emma james | [Read More](https://medium.com/p/956e60fd5227) |
+| Mon, 08 Jun 2026 17:36:23 GMT | TRY HACK ME-Guided Pentest : Web | Bageniwigina | [Read More](https://medium.com/p/c27f1e6d4be6) |
+| Mon, 08 Jun 2026 17:34:25 GMT | Diplomacy Without Teeth: Why Tehran Treats Western Leverage as a Bluff | Miguel Morales | [Read More](https://medium.com/p/80ad4dad0bf4) |
+| Mon, 08 Jun 2026 17:33:54 GMT | Prophetess the Praying Mantis | Nature Girl | [Read More](https://medium.com/p/75cc263fc074) |
+| Mon, 08 Jun 2026 17:28:52 GMT | Mythos and Zero Trust: What We Know, and How to Get Prepared | Younos Nazarian | [Read More](https://medium.com/p/55c4a34e2429) |
+| Mon, 08 Jun 2026 17:09:54 GMT | RBAC vs ABAC: Practical Examples in Modern Data Platforms | Jai Singh | [Read More](https://medium.com/p/369692811011) |
+| Mon, 08 Jun 2026 16:55:40 GMT | Git vs GitHub: Understanding the Difference Every Developer Should Know | Hirunipraboda | [Read More](https://medium.com/p/9a06965f4065) |
+| Mon, 08 Jun 2026 16:53:35 GMT | Cost of Installing Security Cameras for a Business in Austin Texas | TrueProtection | [Read More](https://medium.com/p/36aa9bf08696) |
+| Mon, 08 Jun 2026 16:52:43 GMT | All me is a Independent Identity Network IIN | Karl A L Smith | [Read More](https://medium.com/p/3c963e31bc0b) |
+| Mon, 08 Jun 2026 16:38:38 GMT | What Counts as “Done” for a Pentest? | Daniel Knight | [Read More](https://medium.com/p/57413f1decb8) |
+| Mon, 08 Jun 2026 16:35:25 GMT | Optimasi Query SQL | Azka | [Read More](https://medium.com/p/806b4e0ceeb4) |
+| Mon, 08 Jun 2026 16:34:06 GMT | Missed the Last SIA Deadline? Here’s the Refresher Course Manchester Can’t Stop Talking About | courses4u | [Read More](https://medium.com/p/6960bd19185b) |
+| Mon, 08 Jun 2026 16:27:57 GMT | Your App Doesn’t Have Bugs — It Has Untested Realities | Himanshu Singh | [Read More](https://medium.com/p/ed7d72ad27d2) |
+| Mon, 08 Jun 2026 16:20:32 GMT | Laporan Basis Data : Kemanan Basis Data (User Acces) | Cahyoadi | [Read More](https://medium.com/p/06100eb7e339) |
+| Mon, 08 Jun 2026 16:20:31 GMT | BLE Spoofing in 2026: Clone a Device in 30 Seconds | BLE Advertiser | [Read More](https://medium.com/p/f7ddd2fec312) |
+| Mon, 08 Jun 2026 16:20:21 GMT | CVE-2020–2075 Report Backdoor Remote Code Execution in UnrealIRCd Service (CVE-2010–2075) on Port… | Root Hunter X | [Read More](https://medium.com/p/71f223924765) |
+| Mon, 08 Jun 2026 16:14:09 GMT | Is XSS Dead in Modern Web Applications? | Ekansh Choudhary | [Read More](https://medium.com/p/9f9fce58b0f6) |
 | Mon, 08 Jun 2026 16:02:34 GMT | The Rising Challenge of Insecurity in Contemporary Nigeria | Mahmud Sauban Bolaji | [Read More](https://medium.com/p/908699f2ae53) |
 | Mon, 08 Jun 2026 16:02:00 GMT | Master Cyber Security Training in 2026: Your Complete Guide | KOMAL PAL | [Read More](https://medium.com/p/7197c30716e2) |
 | Mon, 08 Jun 2026 16:01:02 GMT | Your Secrets Are Probably Leaking : Follow this to fix it | TheProdSDE | [Read More](https://medium.com/p/19eb33f998aa) |
@@ -78,37 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Jun 2026 11:01:36 GMT | Beyond the Bastion: Building a Zero Trust VPN | Venkata Surya Teja Susarla | [Read More](https://medium.com/p/e77154c76bb5) |
 | Mon, 08 Jun 2026 11:01:01 GMT | Writeup for CyLab/picoCTF challenge “Web Gauntlet” | Walter Moar | [Read More](https://medium.com/p/23f9ac5c8dc7) |
 | Mon, 08 Jun 2026 10:58:53 GMT | How I Found a Mass Assignment Vulnerability Leading to a Premium Plan Bypass (€800 Bounty) | Sangith | [Read More](https://medium.com/p/adb1cfeda02b) |
-| Mon, 08 Jun 2026 10:55:10 GMT | DECODING GRIXBA — A PLAY RANSOMWARE SCANNER | Rakesh Krishnan | [Read More](https://medium.com/p/54342cdd5c88) |
-| Mon, 08 Jun 2026 10:41:13 GMT | From SSTI to Host Root: Compromising a Dockerized Environment in PwnUP CTF 2 | Mert icdem | [Read More](https://medium.com/p/aef4e5e13d3f) |
-| Mon, 08 Jun 2026 10:41:07 GMT | Understanding CORS Misconfiguration and How It Can Be Exploited | Andrew Dehghan | [Read More](https://medium.com/p/b9af677aaf0d) |
-| Mon, 08 Jun 2026 10:33:04 GMT | How a Routine XSS Hunt Led to an Unexpected Database Information Disclosure | Andrew Dehghan | [Read More](https://medium.com/p/ec47f1868277) |
-| Mon, 08 Jun 2026 10:32:21 GMT | Enterprise AI Used to Cost ₹10L/Year. Today the Biggest Problem Isn’t Cost. | Archit Suthar | [Read More](https://medium.com/p/2c0f7fabc769) |
-| Mon, 08 Jun 2026 10:31:22 GMT | Why Infoplus Technologies Is the Global IT Partner Businesses Trust in 2026 | venkata sambasiva rao | [Read More](https://medium.com/p/1d34d8105630) |
-| Mon, 08 Jun 2026 10:25:47 GMT | The Question I Ask Before Testing Any Target | Fateyaly | [Read More](https://medium.com/p/a4acfad8ee9a) |
-| Mon, 08 Jun 2026 10:15:33 GMT | FIFA World Cup Fever Meets Cybercrime: How Attackers Are Exploiting Global Sporting Events | Jas | [Read More](https://medium.com/p/fa5ad85b1e57) |
-| Mon, 08 Jun 2026 10:10:49 GMT | Swagger UI HTML Injection — From “No XSS” to $450 Bounty | Mohamed Adel | [Read More](https://medium.com/p/ee5ca5b2bb64) |
-| Mon, 08 Jun 2026 10:01:04 GMT | PoisonJar: One HTTP Request to Pre-Auth RCE in Nextcloud | Ermenson Sec | [Read More](https://medium.com/p/2a10d26a87cb) |
-| Mon, 08 Jun 2026 10:00:27 GMT | Your Desk Is Messier Than You Think Fix It in 60 Seconds | seo wrapcart | [Read More](https://medium.com/p/f4b72778fa3c) |
-| Mon, 08 Jun 2026 09:59:31 GMT | Your Camera Roll Isn’t Private: Why More iPhone or iPad Users Are Moving Sensitive Files Into… | Nitin Gohel | [Read More](https://medium.com/p/12187e213f73) |
-| Mon, 08 Jun 2026 09:49:45 GMT | Level 2 Writeup: Sudo Games | Vivek Kumar | [Read More](https://medium.com/p/23b9f08faf5b) |
-| Mon, 08 Jun 2026 09:48:18 GMT | How to Freeze and Unfreeze Your Winity Card Instantly for Better Security | Winity Life | [Read More](https://medium.com/p/32ab34fb418c) |
-| Mon, 08 Jun 2026 09:48:02 GMT | XSS WAF Bypass: The Ultimate Deep Dive | MD Mehedi Hasan | [Read More](https://medium.com/p/635ead551c30) |
-| Mon, 08 Jun 2026 09:45:55 GMT | [First Blood] Write-Up: BugForge Weekly Challenge — FurHire with Account Takeover via CSPT2CSRF and… | Athiwat Tiprasaharn | [Read More](https://medium.com/p/fc9238bf3690) |
-| Mon, 08 Jun 2026 09:42:44 GMT | How to Achieve Zero Data Loss During Email Migration? | Neerukuchhal | [Read More](https://medium.com/p/862f004e03db) |
-| Mon, 08 Jun 2026 09:40:04 GMT | Cyber Security training with placement Hyderabad | Mahendervcubesolutions | [Read More](https://medium.com/p/cdcf7cd740e6) |
-| Mon, 08 Jun 2026 09:37:49 GMT | Comprehensive Security Consultancy Services in Saudi Arabia by DSP Consultants | DSP Consultants Services | [Read More](https://medium.com/p/1889121b4133) |
-| Mon, 08 Jun 2026 09:36:17 GMT | Building a Realistic Active Directory Environment with VulnAD | Jai Bhattacharya | [Read More](https://medium.com/p/39f3539869f7) |
-| Mon, 08 Jun 2026 09:33:05 GMT | Why Professional Surveillance Cameras Installation Service Is Essential for Modern Security | Alaman security | [Read More](https://medium.com/p/cdd04886b593) |
-| Mon, 08 Jun 2026 09:25:17 GMT | Why Your Multi-sig Quorum Is the Threat Model Written in Keys | Rachel | [Read More](https://medium.com/p/62a805a79062) |
-| Mon, 08 Jun 2026 09:17:07 GMT | Alert Fatigue Isn’t the Problem. Context Deficiency Is. | Emily Writes | [Read More](https://medium.com/p/8d7139af9212) |
-| Mon, 08 Jun 2026 09:12:15 GMT | 20 open ports. Default passwords everywhere. Full access unlocked. | Samruddhi Raybhoge | [Read More](https://medium.com/p/bce938103489) |
-| Mon, 08 Jun 2026 09:05:11 GMT | I Undressed in Front of Him Every Night for Ten Years — But He Never Saw Me Until I Said This | Lumierae | [Read More](https://medium.com/p/0354e8f4da1e) |
-| Mon, 08 Jun 2026 09:05:05 GMT | JT’s Thoughts on… | JESUTofunmi | [Read More](https://medium.com/p/749254ac8abf) |
-| Mon, 08 Jun 2026 09:04:53 GMT | How I Found an XSS Vulnerability on a Gray-Zone Search Feed (Invect.com) | Psychology Studio | [Read More](https://medium.com/p/1eaf476991f5) |
-| Mon, 08 Jun 2026 08:58:54 GMT | Ultimate Guide to Archive Google Workspace Emails | Abhishek Yadav | [Read More](https://medium.com/p/54832fc1fec8) |
-| Mon, 08 Jun 2026 08:58:23 GMT | In an Industry That Burns People Out, Ascendion Is Doing the Opposite | Ascendion | [Read More](https://medium.com/p/7722cc7f2e96) |
-| Mon, 08 Jun 2026 08:55:46 GMT | Hackers Mapping your Complete Network in Just Some Minutes — The Process Revealed | SAYEM-EH | [Read More](https://medium.com/p/143b9dcaba79) |
-| Mon, 08 Jun 2026 08:50:56 GMT | How to Migrate Microsoft 365 Mailboxes, SharePoint, and OneDrive? | Simran Bhatiya | [Read More](https://medium.com/p/af3d845799f0) |
-| Mon, 08 Jun 2026 08:50:12 GMT | Huggingface’den Api Key Alma İçeriği (2026) | Şevki Dumankaya | [Read More](https://medium.com/p/4147589c6764) |
-| Mon, 08 Jun 2026 08:37:04 GMT | HackTheBox Season 10 — Facts: Writeup | Rohit Sundar | [Read More](https://medium.com/p/37953c33bacd) |
-| Mon, 08 Jun 2026 08:30:05 GMT | AI and Pentesting: The Silent Revolution Redefining the Security Professional | Piiratesrk | [Read More](https://medium.com/p/6a79efda0732) |
