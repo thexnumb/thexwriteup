@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Jun 2026 22:34:55 GMT | Black-Box Auditing is Not a Strategy: Why the Global Majority Needs Open-Weights Access for… | Omonivie Cynthia Jatto | [Read More](https://medium.com/p/b4eb93f194a2) |
+| Mon, 08 Jun 2026 22:33:19 GMT | Google Just Fixed Your Phone. You Probably Won’t Get the Fix for Months. | Ahsan | [Read More](https://medium.com/p/c2caeec66657) |
+| Mon, 08 Jun 2026 22:28:09 GMT | This Week at Hunt Forward — June 08, 2026 | Hunt Forward | [Read More](https://medium.com/p/6481bf3bf3c1) |
+| Mon, 08 Jun 2026 22:14:49 GMT | Unmasking the Machine: Why AI Identity Disclosure is More Fragile Than We Think | Alessandro Pignati | [Read More](https://medium.com/p/8788881ebc14) |
+| Mon, 08 Jun 2026 21:34:30 GMT | The AAA Security Model: Why Authentication, Authorization, and Accounting Still Matter in 2026 | Tyler - Secure Networking and Development | [Read More](https://medium.com/p/043bcf8f9f70) |
+| Mon, 08 Jun 2026 21:34:23 GMT | Broken Access Control leads to delete any user’s comment | Raccoon | [Read More](https://medium.com/p/1908ca07f2a9) |
+| Mon, 08 Jun 2026 21:30:23 GMT | Walkthrough: TryHackMe Recruit | MistressOfTheDarkweb | [Read More](https://medium.com/p/13014b6ea7b3) |
+| Mon, 08 Jun 2026 21:21:40 GMT | LazySysAdmin - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/0f409f174386) |
+| Mon, 08 Jun 2026 21:19:09 GMT | When the Frontend Lies: Simple Business Logic and Access Control Bug | 0xlumi | [Read More](https://medium.com/p/dcdd6d821eb3) |
+| Mon, 08 Jun 2026 21:10:21 GMT | Hammer, un proyecto de ciberseguridad industrial | Paula de Alba Pendás | [Read More](https://medium.com/p/66a28cdc2cd5) |
 | Mon, 08 Jun 2026 21:08:57 GMT | How 24/7/365 SOC Improves Incident Response Times? | CyRx360 Inc. | [Read More](https://medium.com/p/19bb3ef8a599) |
 | Mon, 08 Jun 2026 20:54:58 GMT | AI, Motivation, & the Future of Expertise | Margaret Cunningham, PhD | [Read More](https://medium.com/p/14c8cbadecb2) |
 | Mon, 08 Jun 2026 20:49:33 GMT | My Cybersecurity Journey: 10 Projects to Become a SOC Analyst | Sushant Joshi | [Read More](https://medium.com/p/da7408b238a2) |
@@ -103,13 +113,3 @@ and the Pim Protocol Answer | Alexander Pym Atà Allison | [Read More](https://m
 | Mon, 08 Jun 2026 14:20:07 GMT | Let “Claude Code” Do Your Pentesting! | Mohamed AboElKheir | [Read More](https://medium.com/p/c58bc6987a99) |
 | Mon, 08 Jun 2026 14:03:17 GMT | The Attack Landscape: Why Silence Is the Vulnerability | Maede Torkian | [Read More](https://medium.com/p/f27dabfccb9b) |
 | Mon, 08 Jun 2026 14:01:04 GMT | Why Data Analytics Professionals Are Becoming Essential for Business Growth | Xwtempsolutions | [Read More](https://medium.com/p/2f328234eb83) |
-| Mon, 08 Jun 2026 13:59:23 GMT | The Spy Group Using a Pizza Restaurant’s Name to Receive Secret Commands | Pop123 | [Read More](https://medium.com/p/ff98fa1d09f5) |
-| Mon, 08 Jun 2026 13:59:13 GMT | The 2026 Healthcare Pen Test: What Actually Belongs in Scope | ViitorCloud Technologies | [Read More](https://medium.com/p/da3fdefffb4f) |
-| Mon, 08 Jun 2026 13:55:25 GMT | Building NetSnoop: A Lightweight Python Network Intrusion Detection System | Tharusha Sasanga | [Read More](https://medium.com/p/f97d688585e4) |
-| Mon, 08 Jun 2026 13:54:35 GMT | After CI/CD Passes, Who’s Watching? | Shivam Katare | [Read More](https://medium.com/p/6ef3131563d6) |
-| Mon, 08 Jun 2026 13:54:14 GMT | How Much Security is Too Much? | Howard Poston | [Read More](https://medium.com/p/3e0a318482f5) |
-| Mon, 08 Jun 2026 13:53:28 GMT | The Real Impact of SOC 2 on SaaS Companies in 2026 | AartiDecode | [Read More](https://medium.com/p/f0e9b7c39324) |
-| Mon, 08 Jun 2026 13:52:36 GMT | Why Building a Startup in Africa in 2026 Is the Smartest Bet in Global Entrepreneurship | ISF Forum | [Read More](https://medium.com/p/ceb70275c740) |
-| Mon, 08 Jun 2026 13:49:52 GMT | TryHackMe : Expose Walkthrough | PRiTi.EX | [Read More](https://medium.com/p/52e8715551a8) |
-| Mon, 08 Jun 2026 13:38:40 GMT | How I Fixed WSL 2 Network Timeouts on a Strict Corporate Network | Souvede Inshuti | [Read More](https://medium.com/p/5e356c11ebe5) |
-| Mon, 08 Jun 2026 13:37:32 GMT | Claude + RAPTOR: AI-Powered Offensive & Defensive Security | Pentester Club | [Read More](https://medium.com/p/e9fcb70722da) |
