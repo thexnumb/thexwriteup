@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 08 Jun 2026 00:52:24 GMT | Anthropic Says We Should Pause AI Development. | Stoic Engineer | [Read More](https://medium.com/p/580f3b7b5a7d) |
+| Mon, 08 Jun 2026 00:50:07 GMT | From Attack to Detection: Creating Splunk Detection Rules for Web Attacks in a Home Lab | Mohamed Abdelrahman | [Read More](https://medium.com/p/fda3048eca48) |
+| Mon, 08 Jun 2026 00:48:11 GMT | Agentic AI Threat Hunting | Weesuan Ng | [Read More](https://medium.com/p/88ac46da1e23) |
+| Mon, 08 Jun 2026 00:48:03 GMT | WEB EXPLOITATION CyLab: Hashgate | Yanina Paola Quispe Orellana | [Read More](https://medium.com/p/30114dd3d068) |
+| Mon, 08 Jun 2026 00:44:03 GMT | Beyond Cost Savings: Why Technology Procurement Has Become a Strategic Imperative in the Digital… | Ogochukwu Paragon Etu, Ph.D | [Read More](https://medium.com/p/83b33f6e54c4) |
+| Mon, 08 Jun 2026 00:39:54 GMT | How I cleared the GIAC Web Application Defender (GWEB) Certification | Cybercodeami | [Read More](https://medium.com/p/c2c874c45a70) |
+| Mon, 08 Jun 2026 00:35:28 GMT | The Growing Impact of AI on Cyber Threats | Raviteja Mureboina | [Read More](https://medium.com/p/c7cafa2a1982) |
+| Mon, 08 Jun 2026 00:33:38 GMT | Aurtiz: The Global Music Platform Empowering Independent Artists, Producers, and Listeners | Tamanjongjoseph | [Read More](https://medium.com/p/e92b27d57ce0) |
+| Mon, 08 Jun 2026 00:29:46 GMT | Trust but Verify: Teaching Kids (and Adults) to Navigate an AI‑Generated Internet | Roger Millar | [Read More](https://medium.com/p/c13d83eb634e) |
+| Mon, 08 Jun 2026 00:28:34 GMT | Oxtune: Building the Infrastructure Modern Music Runs On | Tamanjongjoseph | [Read More](https://medium.com/p/37e9020a94bc) |
+| Mon, 08 Jun 2026 00:18:51 GMT | Building a Production-Grade 3-Tier AWS Infrastructure with Terraform and DevSecOps | Nuhu Iskandar | [Read More](https://medium.com/p/0b36822dbadf) |
+| Mon, 08 Jun 2026 00:14:07 GMT | Secure Credentials in Django and FastAPI: Why env.yml Isn’t Enough | Alexander | [Read More](https://medium.com/p/688b1d41e133) |
+| Mon, 08 Jun 2026 00:01:26 GMT | I Wrote About Being a Warrior. Then I Disappeared for Four Years. | Erna Zeelie | [Read More](https://medium.com/p/c4a7faba20fb) |
+| Sun, 07 Jun 2026 23:50:45 GMT | Access control vulnerabilities and privilege escalation | Ayeshaaghafoor | [Read More](https://medium.com/p/973ebfbc134b) |
+| Sun, 07 Jun 2026 23:43:12 GMT | The Day Rust’s Time Utilities Started Stealing Secrets | Ajay Kumar | [Read More](https://medium.com/p/8369e88580e5) |
+| Sun, 07 Jun 2026 23:23:49 GMT | How to Detect C2 Beaconing in Elastic SIEM with ES-QL | Hunt Forward | [Read More](https://medium.com/p/455c262b0d44) |
+| Sun, 07 Jun 2026 23:13:28 GMT | HTB Fluffy — Full Walkthrough: From Low-Priv Creds to Domain Admin via CVE-2025–24071 & Shadow… | Shxdowz | [Read More](https://medium.com/p/b5bb58cc510a) |
 | Sun, 07 Jun 2026 22:55:39 GMT | The Anatomy of Financial Trust: Why Tokenization Wins Over Plain-Text Card Storage in B2B Fintech | Addie | [Read More](https://medium.com/p/53fa9ef0497d) |
 | Sun, 07 Jun 2026 22:52:23 GMT | “Every Time I Ask Something Personal, You Become a Different Person” | SunriseDaily | [Read More](https://medium.com/p/628c257b18e7) |
 | Sun, 07 Jun 2026 22:47:23 GMT | Why You Can No Longer Believe Your Eyes, Ears, or Inboxes | Learn With Hatty | [Read More](https://medium.com/p/9079bbb6586c) |
@@ -97,20 +114,3 @@ Their Limits | DhanushKumar | [Read More](https://medium.com/p/1ad453253c5c) |
 | Sun, 07 Jun 2026 16:08:10 GMT | 辦公室外的「土裡驚魂」！直擊花園換盆挖出雞母蟲大軍的驚險救援記 | 黃昱捷 Huang Yu-Chieh | [Read More](https://medium.com/p/08410125048b) |
 | Sun, 07 Jun 2026 16:07:53 GMT | The Browser Profile Handoff Problem Most Teams Notice Too Late | Evelinerago | [Read More](https://medium.com/p/3ba84aaf758d) |
 | Sun, 07 Jun 2026 15:40:06 GMT | You Wouldn’t Walk Into Halloween Without a Costume — So Wear One on Public Wi-Fi Too - A 2026 VPN… | Elite Mindset | [Read More](https://medium.com/p/303825b2f46b) |
-| Sun, 07 Jun 2026 15:39:40 GMT | The 12 Deadly Sins of Genealogy | Athena | [Read More](https://medium.com/p/f0b1a2ab0e6e) |
-| Sun, 07 Jun 2026 15:19:18 GMT | The Sovereign Perimeter: Bridging the Chasm Between Physical Operations and Digital Identity | Nikolai Pavlov | [Read More](https://medium.com/p/0c791f0e5775) |
-| Sun, 07 Jun 2026 15:17:56 GMT | Lessons from Real Security Assessments #1: How I Approach a New VAPT Assessment | Brinda S | [Read More](https://medium.com/p/d90a4b694250) |
-| Sun, 07 Jun 2026 15:15:59 GMT | How to Reduce the Cost of Generative AI | Nitin Gupta | [Read More](https://medium.com/p/8c7392e8fa04) |
-| Sun, 07 Jun 2026 15:13:32 GMT | JWT — the parts people get wrong | Aman Arora | [Read More](https://medium.com/p/2c62aff5e836) |
-| Sun, 07 Jun 2026 15:13:31 GMT | CPENT Module 01 Notes | Aditya Pandey | [Read More](https://medium.com/p/8fc8b0559d93) |
-| Sun, 07 Jun 2026 15:09:44 GMT | SOC Analyst vs Hackers: The Digital War Behind Every Cyber Attack | Bhoyarlokesh | [Read More](https://medium.com/p/cbad0e0311ce) |
-| Sun, 07 Jun 2026 15:08:36 GMT | ESG Reporting vs Sustainability Reporting: What’s the Real Difference? | Samuel Thomas | [Read More](https://medium.com/p/fbc0060ee69c) |
-| Sun, 07 Jun 2026 15:01:43 GMT | Lab Notes: The Epson and me | Machina Speculatrix | [Read More](https://medium.com/p/956832cb6059) |
-| Sun, 07 Jun 2026 15:01:02 GMT | Crypto | Simasiku Mazunga | [Read More](https://medium.com/p/edc805a8a280) |
-| Sun, 07 Jun 2026 14:59:42 GMT | SessionStorage Is Not as Safe as You Think | LearnWithMasaud | [Read More](https://medium.com/p/c01dbba6988c) |
-| Sun, 07 Jun 2026 14:55:27 GMT | AI Agents Should Not Be Reviewed Like Normal Software [Link inside] | Martin Abramov | [Read More](https://medium.com/p/eda891b99cf3) |
-| Sun, 07 Jun 2026 14:51:30 GMT | Netfox — The macOS app that never loses track of your network | Giovambattista Fazioli | [Read More](https://medium.com/p/e8cf8af19184) |
-| Sun, 07 Jun 2026 14:50:21 GMT | Network Pusulası #10 — Cisco’nun İyi Niyetli İki Hatası: DTP ve VTP | Toprak Külekçioğlu | [Read More](https://medium.com/p/3620a54ad256) |
-| Sun, 07 Jun 2026 14:49:51 GMT | Struktur Data: Greedy | Nabilla Paraswati | [Read More](https://medium.com/p/38fef69d8fd1) |
-| Sun, 07 Jun 2026 14:41:51 GMT | How I Hijacked a CTF Platform with Four Lines of Burp Suite Rules | ReFang | [Read More](https://medium.com/p/c26cb49546a5) |
-| Sun, 07 Jun 2026 14:39:42 GMT | Poisoned Pipelines: Invisible Vulnerabilities Threatening CI/CD Security | Pallavi L. | [Read More](https://medium.com/p/0ae3aead804c) |
