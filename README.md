@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Jun 2026 00:05:17 GMT | O golpe tá aí. Cai quem quer. Será mesmo? | André Alexandre Gaio | [Read More](https://medium.com/p/15080d783a8d) |
+| Tue, 09 Jun 2026 00:00:43 GMT | I was handed a server with no docs and no idea what it was listening on. One command fixed that. | BashSnippets | [Read More](https://medium.com/p/c231998ba546) |
+| Mon, 08 Jun 2026 23:51:51 GMT | How I Found a User That Couldn’t Be Removed From an Organization | Ahmed Mahmoud | [Read More](https://medium.com/p/f8c9acde30bb) |
+| Mon, 08 Jun 2026 23:50:02 GMT | AI Daily Digest: June 9, 2026 — Apple WWDC Siri AI, Anthropic Safety Warning, OpenAI Lockdown | KD Agentic | [Read More](https://medium.com/p/c19e5b319482) |
+| Mon, 08 Jun 2026 23:48:05 GMT | Brilliant Assistant or Security Nightmare? The 6 Hidden Risks of OpenClaw | Budhdi Sharma | [Read More](https://medium.com/p/732c483ffa56) |
+| Mon, 08 Jun 2026 23:42:52 GMT | Security Philosophy in the AI Era: Why the Cat-and-Mouse Game Is Already Dead | hide | [Read More](https://medium.com/p/3eab27a97873) |
+| Mon, 08 Jun 2026 23:31:06 GMT | The Meta AI Support Bot Did Not Get Tricked. It Was Given Too Much Power. | Jonathan94 | [Read More](https://medium.com/p/c60a853148e6) |
+| Mon, 08 Jun 2026 23:27:01 GMT | Your CI/CD Pipeline Might Be Leaking Secrets — Here’s Why | Oluwakemi Oshunkeye | [Read More](https://medium.com/p/27aaf71a989c) |
+| Mon, 08 Jun 2026 23:04:21 GMT | AI-Generated Phishing Is Everywhere. That’s Not the Real Problem. | Yua Mikanana | [Read More](https://medium.com/p/a1f74d55dc40) |
+| Mon, 08 Jun 2026 23:01:01 GMT | Cybersecurity Careers: The People Who Keep The Digital World Running | Kenora (Pvt) Ltd | [Read More](https://medium.com/p/74db43a616c6) |
+| Mon, 08 Jun 2026 23:00:31 GMT | The Weakest Link: Third-Party Vendor Risk in Mortgage Operations | William Whiting | [Read More](https://medium.com/p/f3063a042906) |
+| Mon, 08 Jun 2026 22:57:23 GMT | WinRAR and the Strange Survival of Classic Utility Software | EncycloTech | [Read More](https://medium.com/p/8c418ff936d4) |
 | Mon, 08 Jun 2026 22:34:55 GMT | Black-Box Auditing is Not a Strategy: Why the Global Majority Needs Open-Weights Access for… | Omonivie Cynthia Jatto | [Read More](https://medium.com/p/b4eb93f194a2) |
 | Mon, 08 Jun 2026 22:33:19 GMT | Google Just Fixed Your Phone. You Probably Won’t Get the Fix for Months. | Ahsan | [Read More](https://medium.com/p/c2caeec66657) |
 | Mon, 08 Jun 2026 22:28:09 GMT | This Week at Hunt Forward — June 08, 2026 | Hunt Forward | [Read More](https://medium.com/p/6481bf3bf3c1) |
@@ -25,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Jun 2026 21:08:57 GMT | How 24/7/365 SOC Improves Incident Response Times? | CyRx360 Inc. | [Read More](https://medium.com/p/19bb3ef8a599) |
 | Mon, 08 Jun 2026 20:54:58 GMT | AI, Motivation, & the Future of Expertise | Margaret Cunningham, PhD | [Read More](https://medium.com/p/14c8cbadecb2) |
 | Mon, 08 Jun 2026 20:49:33 GMT | My Cybersecurity Journey: 10 Projects to Become a SOC Analyst | Sushant Joshi | [Read More](https://medium.com/p/da7408b238a2) |
+| Mon, 08 Jun 2026 20:35:20 GMT | Secure AEM APIs with APIGEE: A Pirate’s Guide to the Token Pattern | Francisco Murillo Fallas | [Read More](https://medium.com/p/766c7c471d96) |
 | Mon, 08 Jun 2026 20:29:23 GMT | How i found race conditions leading to premium subscribtion bypass via concurrent user addition | Raccoon | [Read More](https://medium.com/p/55e23758975e) |
 | Mon, 08 Jun 2026 20:26:16 GMT | Crane - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/2077aade03f3) |
 | Mon, 08 Jun 2026 20:25:06 GMT | San Francisco Construction Security Company: Complete Guide to Protecting Your Job Site in 2026 | Liam | [Read More](https://medium.com/p/c9ea9b1f6925) |
@@ -100,16 +113,3 @@ and the Pim Protocol Answer | Alexander Pym Atà Allison | [Read More](https://m
 | Mon, 08 Jun 2026 15:31:00 GMT | AI-Powered Coding Part 3 of 4 | Matt Strusinski | [Read More](https://medium.com/p/4fc657f644dc) |
 | Mon, 08 Jun 2026 15:30:36 GMT | Your Company may or may not have an AI Policy. It Probably isn’t Working Anyway. | Selorm Adjabeng | [Read More](https://medium.com/p/7450bf1f2ec8) |
 | Mon, 08 Jun 2026 15:20:33 GMT | VMware Stored XSS Vulnerabilities Expose Enterprise Systems to JavaScript Injection Attacks | Manula Udyoga | [Read More](https://medium.com/p/a5217971f804) |
-| Mon, 08 Jun 2026 15:11:00 GMT | Blue Team Online (BTLO) — The Report | Zeliha Zengin | [Read More](https://medium.com/p/bd6af1552d8f) |
-| Mon, 08 Jun 2026 15:08:08 GMT | When Your Firewall Isn’t the Problem: Chasing a Ghost Through a Virtualized Network | vad3r | [Read More](https://medium.com/p/a00638673d9b) |
-| Mon, 08 Jun 2026 14:57:19 GMT | The Invisible Shield: How Smart Algorithms Catch Cyber Scammers Before You Do | Yonazahran Yoga Meinendra Rizky | [Read More](https://medium.com/p/6e46e890cc2d) |
-| Mon, 08 Jun 2026 14:56:46 GMT | Peak Hill (THM) Tryhackme Walkthrough Medium Challenge | Lawvye | [Read More](https://medium.com/p/605e346982f7) |
-| Mon, 08 Jun 2026 14:54:11 GMT | Network Segmentation Explained: Why Flat Networks Are a Massive Security Risk | Dhanush N | [Read More](https://medium.com/p/81a2003ddbe7) |
-| Mon, 08 Jun 2026 14:50:12 GMT | Building an Open Hardware Wallet — Step 4: OLED Display & SE05X Secure Element | Havenlon | [Read More](https://medium.com/p/fbd5e4026d19) |
-| Mon, 08 Jun 2026 14:42:46 GMT | Security Services Birmingham | Ptpsecurity | [Read More](https://medium.com/p/5fd79d57f4c8) |
-| Mon, 08 Jun 2026 14:37:40 GMT | Why 95% of Enterprise AI Projects Fail (And Why That Number Isn’t Actually About AI) | Arleen Kaur | [Read More](https://medium.com/p/1a7b7cf4cd8a) |
-| Mon, 08 Jun 2026 14:28:55 GMT | The Digital Chekist: Why the West Was Right to Banish Kaspersky | Alex Kravchenko | [Read More](https://medium.com/p/a22c25ec7f0a) |
-| Mon, 08 Jun 2026 14:26:20 GMT | What Are the Most Effective Residential Security Tips in California? | Teona | [Read More](https://medium.com/p/cd5f2949bd1d) |
-| Mon, 08 Jun 2026 14:20:07 GMT | Let “Claude Code” Do Your Pentesting! | Mohamed AboElKheir | [Read More](https://medium.com/p/c58bc6987a99) |
-| Mon, 08 Jun 2026 14:03:17 GMT | The Attack Landscape: Why Silence Is the Vulnerability | Maede Torkian | [Read More](https://medium.com/p/f27dabfccb9b) |
-| Mon, 08 Jun 2026 14:01:04 GMT | Why Data Analytics Professionals Are Becoming Essential for Business Growth | Xwtempsolutions | [Read More](https://medium.com/p/2f328234eb83) |
