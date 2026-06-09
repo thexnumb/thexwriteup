@@ -12,6 +12,48 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Jun 2026 08:23:48 GMT | Best VPN for Gaming in Turkey 2026: Low Ping, No Throttling, Discord Working | VeiloraVPN | [Read More](https://medium.com/p/4e72820bc59a) |
+| Tue, 09 Jun 2026 08:12:02 GMT | Active Directory Cleanup — Find and Remove Stale Computer Accounts (2026) | Clare Anderson | [Read More](https://medium.com/p/5d34fe180c9b) |
+| Tue, 09 Jun 2026 08:10:21 GMT | Building a Zero-Trust File Sentinel: Real-Time Malware Detection with Python and VirusTotal | Berkay Muhcu | [Read More](https://medium.com/p/e8f882d50637) |
+| Tue, 09 Jun 2026 08:09:44 GMT | ️ SOC Analyst + Splunk ES Online Training | VISWA Online Trainings | [Read More](https://medium.com/p/77838890434e) |
+| Tue, 09 Jun 2026 07:52:42 GMT | VLANs, Firewalls, and DMZs: Core Concepts for Network Security | Ferdi Edogawa | [Read More](https://medium.com/p/499e372b5cef) |
+| Tue, 09 Jun 2026 07:49:44 GMT | Zero Trust Architecture and Its Role in Modern Network Security Solutions | Fortnexs Shield | [Read More](https://medium.com/p/cdc446bc0fdf) |
+| Tue, 09 Jun 2026 07:48:06 GMT | Confused About Your Career? Here’s How the Right Skills Can Shape Your Future!! | Indoreiant | [Read More](https://medium.com/p/9fe2308271de) |
+| Tue, 09 Jun 2026 07:44:31 GMT | Why Your CMMC SSP Probably Won’t Survive a C3PAO Assessment | Zvi Melkman | [Read More](https://medium.com/p/927d3922f203) |
+| Tue, 09 Jun 2026 07:42:50 GMT | Angular Security: Subresource Integrity (SRI) | Wojciech Trawiński | [Read More](https://medium.com/p/23e48c523cc7) |
+| Tue, 09 Jun 2026 07:42:42 GMT | When AI Agents Have Network Access: The Attack Surface Nobody’s Governing Yet | Gaurav Sharma | [Read More](https://medium.com/p/e31dddc7a492) |
+| Tue, 09 Jun 2026 07:41:00 GMT | BBP#3: The Boat Speaker— From Shopping Cart to Account Takeover | Devender Rao | [Read More](https://medium.com/p/fb2923376821) |
+| Tue, 09 Jun 2026 07:36:29 GMT | Why Build a SOC for Financial Institutions When Nobody Else Would | Jesse Tosto | [Read More](https://medium.com/p/cede841615cf) |
+| Tue, 09 Jun 2026 07:36:00 GMT | ประจำวันอังคารที่ 9 มิถุนายน 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/f7b02864f9d1) |
+| Tue, 09 Jun 2026 07:28:44 GMT | Deconstructing an ELF Binary: My First Reverse Engineering Walkthrough — Reversing ELF - TryHackme… | A. AntorCSE404 | [Read More](https://medium.com/p/e85f256f08e7) |
+| Tue, 09 Jun 2026 07:20:21 GMT | 10 Security Testing Methods That Prevent Costly Breaches In Software | Allclonescript | [Read More](https://medium.com/p/61f1194b6404) |
+| Tue, 09 Jun 2026 07:06:16 GMT | Network Topologies Explained: The Complete Visual Guide for Engineers | Dhanush N | [Read More](https://medium.com/p/391498ad4c3e) |
+| Tue, 09 Jun 2026 07:00:48 GMT | Costa Rica Beaches: Which Ones Are Worth the Drive | Charlesadam | [Read More](https://medium.com/p/95d282bf0e85) |
+| Tue, 09 Jun 2026 06:52:01 GMT | How Cyber Attacks Happen | Robert Figgy | [Read More](https://medium.com/p/8a4bd3272f18) |
+| Tue, 09 Jun 2026 06:42:48 GMT | Home Automation in Gurgaon: Transform Your Living Space with Smart Technology | idealsecuritysolution | [Read More](https://medium.com/p/d1a9a96f4475) |
+| Tue, 09 Jun 2026 06:39:48 GMT | Algoritma Greedy | Azka | [Read More](https://medium.com/p/63ab93c4ce32) |
+| Tue, 09 Jun 2026 06:35:46 GMT | From LFI to Database Takeover and the RCE That Almost Was | Elahe | [Read More](https://medium.com/p/38b9176bcb6b) |
+| Tue, 09 Jun 2026 06:29:25 GMT | Starting Here — A Cybersecurity Journal
+Who I am, what I know, and what’s coming next | Lakshya Jain | [Read More](https://medium.com/p/d0955562f375) |
+| Tue, 09 Jun 2026 06:28:30 GMT | Shellshock: The 8-Character Command That Owned the Internet | The Skillpods | [Read More](https://medium.com/p/b3d19deb8bfa) |
+| Tue, 09 Jun 2026 06:20:51 GMT | Security Command Centre Services: The Backbone of Modern Security Operations | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/99d9791cdf25) |
+| Tue, 09 Jun 2026 06:17:37 GMT | Why Passkey Based Authentication is the Future of Login - ModulesStack | Modules Stack | [Read More](https://medium.com/p/0eb60f77fce1) |
+| Tue, 09 Jun 2026 06:11:16 GMT | The 1-Second Timeout Hack: Running Infinite Parallel Workloads Natively on Google Apps Script | Kanshi Tanaike | [Read More](https://medium.com/p/ee82693753ee) |
+| Tue, 09 Jun 2026 06:08:59 GMT | From Template to Shell: Auditing and Securing a Python Server against SSTI | Stavinfernandes | [Read More](https://medium.com/p/86e7cb1d3e6c) |
+| Tue, 09 Jun 2026 06:03:28 GMT | Security Services Birmingham | Ptpsecurity | [Read More](https://medium.com/p/34bbf58b590d) |
+| Tue, 09 Jun 2026 05:54:11 GMT | OSINT in Action: Digital Footprints & Modern Intelligence Landscape | Shrimanth Tripathy | [Read More](https://medium.com/p/c53a199ee4f9) |
+| Tue, 09 Jun 2026 05:52:42 GMT | Shift-Left Testing: What Modern Engineering Teams Are Doing Differently | Amita Sharma | [Read More](https://medium.com/p/237cc8d46410) |
+| Tue, 09 Jun 2026 05:48:19 GMT | Defensive Security Tooling — part 2 | ExploitHunter | [Read More](https://medium.com/p/0c328e5033ba) |
+| Tue, 09 Jun 2026 05:47:28 GMT | Defensive Security Tooling — part 1 | ExploitHunter | [Read More](https://medium.com/p/57fbebd80686) |
+| Tue, 09 Jun 2026 05:47:24 GMT | Security Spec-Driven Development (SSDD)- The next evolution of AppSec in the AI era | Jagan Raj Raviraja | [Read More](https://medium.com/p/32d51a1fb754) |
+| Tue, 09 Jun 2026 05:42:55 GMT | You’re Already Writing Tests. So, Why Are You Afraid of QA? | Muhammad Ur Rehman | [Read More](https://medium.com/p/be4920bbb29e) |
+| Tue, 09 Jun 2026 05:38:57 GMT | I Failed My OSCP Exam 3 Times Before Passing. Here’s What Finally Worked. | CYBER MIND SPACE | [Read More](https://medium.com/p/442e52e562a1) |
+| Tue, 09 Jun 2026 05:21:52 GMT | PR3TACK: A Framework for Preemptive Security Operations | Vishal Thakur | [Read More](https://medium.com/p/31785598e8cb) |
+| Tue, 09 Jun 2026 05:15:36 GMT | SIEM Tools Explained: A Beginner’s Guide to Watching Over Your Network | Jijo Shibu | [Read More](https://medium.com/p/a15f6f1f8066) |
+| Tue, 09 Jun 2026 05:03:53 GMT | Professional Joomla Development Company for Scalable Web Solutions | Softgen | [Read More](https://medium.com/p/ceca51618fcb) |
+| Tue, 09 Jun 2026 05:03:19 GMT | Create Custom Software That Drives Business Growth | Rahu Doom Pvt. Ltd. | [Read More](https://medium.com/p/75d675e14ad6) |
+| Tue, 09 Jun 2026 04:54:35 GMT | Zero-Click IP Leak in a Privacy Search Engine: Indirect Prompt Injection & Silent Patching | DeepCodeX | [Read More](https://medium.com/p/6d68ab7f9b7a) |
+| Tue, 09 Jun 2026 04:48:55 GMT | Discernment in a World of Power and Vulnerability | THE HONED CRONE | [Read More](https://medium.com/p/f99644a2245e) |
 | Tue, 09 Jun 2026 04:45:13 GMT | Complete Guide to Bed Bugs Treatment in Navi Mumbai: Expert Solutions from Alliance Pest Control | Alliancepestcontrolmumbai | [Read More](https://medium.com/p/c78fc3d0dd19) |
 | Tue, 09 Jun 2026 04:31:03 GMT | Mythril + Echidna Dynamic Analysis | Hacker MD | [Read More](https://medium.com/p/253068402263) |
 | Tue, 09 Jun 2026 04:31:03 GMT | Sealed Secrets vs External Secrets Operator — Which Should You Use for Kubernetes Secret Management? | Sai Pavan Puligadda | [Read More](https://medium.com/p/27fb16459e01) |
@@ -72,44 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 08 Jun 2026 20:05:58 GMT | The $7 Billion Bug
 and the Pim Protocol Answer | Alexander Pym Atà Allison | [Read More](https://medium.com/p/8b865b8d38f6) |
 | Mon, 08 Jun 2026 20:01:01 GMT | The Code Is Still Yours: Application-Layer Security for AWS Lambda | Tarek CHEIKH | [Read More](https://medium.com/p/67c1185c2c11) |
-| Mon, 08 Jun 2026 20:00:39 GMT | Cookie Monster Secret Recipe  PicoCTF | Samarth Sehrawat | [Read More](https://medium.com/p/15c2b49b53ce) |
-| Mon, 08 Jun 2026 19:56:38 GMT | How I Forced A/B Experiments on Any User via an Unauthenticated Endpoint (Missing Auth) | httpzuz | [Read More](https://medium.com/p/ea675de83861) |
-| Mon, 08 Jun 2026 19:54:04 GMT | The AI Security Engineer That Never Merges Its Own Code | Marcio Valverde | [Read More](https://medium.com/p/02341c029b8f) |
-| Mon, 08 Jun 2026 19:52:08 GMT | The Invisible Breach: Why Modern Web Frameworks Aren’t Immune to LFI | Disaster | [Read More](https://medium.com/p/0ddd48a040f7) |
-| Mon, 08 Jun 2026 19:47:56 GMT | How to Manage Stress in Digital Marketing (Without Losing Productivity) | emma james | [Read More](https://medium.com/p/9c8e0bb0011b) |
-| Mon, 08 Jun 2026 19:46:42 GMT | Understanding Web Architecture: A Beginner’s Guide for Web Pentester’s | Mohd Kaif | [Read More](https://medium.com/p/07ba107e356a) |
-| Mon, 08 Jun 2026 19:45:25 GMT | AI Models & Data | Brian Grier | [Read More](https://medium.com/p/904fb1b382df) |
-| Mon, 08 Jun 2026 19:41:26 GMT | Comprehensive Offensive Security Command Line Cheat Sheet — Part 1 | Zemed | [Read More](https://medium.com/p/d05145527d9f) |
-| Mon, 08 Jun 2026 19:38:19 GMT | The Cyber Insurance Questions U.S. Business Owners Are Asking - But Often Don’t Know How to Answer. | AI STRATEGY | [Read More](https://medium.com/p/743a59497ace) |
-| Mon, 08 Jun 2026 19:30:38 GMT | What Shodan Reveals About the State of SolarWinds Serv-U Security | SOCFortress | [Read More](https://medium.com/p/2436c4086918) |
-| Mon, 08 Jun 2026 19:27:39 GMT | Secure Code Review Using AI without burning tokens | Nikhil UR | [Read More](https://medium.com/p/50ab04f05a44) |
-| Mon, 08 Jun 2026 19:21:02 GMT | Deepfake Detection: How to Spot an AI-Generated Face (2026) | FaceSift | [Read More](https://medium.com/p/c6cd79c4a5f8) |
-| Mon, 08 Jun 2026 19:06:03 GMT | Building a Data-Driven Business Analytics Engine: An End-to-End Project Using Jira, SQL, Python… | Manorma Gupta | [Read More](https://medium.com/p/f8238fdc79dc) |
-| Mon, 08 Jun 2026 19:00:51 GMT | Day 1: The Death of the Password — Why You Are Using SSH Wrong | Chand Pasha | [Read More](https://medium.com/p/62dcf4c38838) |
-| Mon, 08 Jun 2026 18:55:23 GMT | Tap to Exploit: Analyzing and Manipulating Mastercard Contactless Transactions (Part 2) | Davi Moura | [Read More](https://medium.com/p/05d709f3e766) |
-| Mon, 08 Jun 2026 18:54:21 GMT | Tap to Exploit: Analyzing and Manipulating Mastercard Contactless Transactions (Part 1) | Davi Moura | [Read More](https://medium.com/p/732c124fb7b4) |
-| Mon, 08 Jun 2026 18:51:35 GMT | Tanuki: Admin Account Takeover via Mass Password Update | Dennis Sev7n | [Read More](https://medium.com/p/8fe7cc1ed3e6) |
-| Mon, 08 Jun 2026 18:51:00 GMT | The Fortress I Built to Protect Myself Became My Prison | Vanshika Choudhary | [Read More](https://medium.com/p/bd3d46254092) |
-| Mon, 08 Jun 2026 18:50:53 GMT | # AI Red-Teaming for Beginners: Where to Start and What to Test | GTK Cyber LLC | [Read More](https://medium.com/p/fa8acb12c809) |
-| Mon, 08 Jun 2026 18:49:26 GMT | Top 10 Cybersecurity Books: From Complete Beginner to Advanced Practitioner | BENSEC | [Read More](https://medium.com/p/c186a8c972ed) |
-| Mon, 08 Jun 2026 18:48:27 GMT | Every CVE Unlocks Another One | Shmulik Cohen | [Read More](https://medium.com/p/9758f0fa9b3d) |
-| Mon, 08 Jun 2026 18:40:42 GMT | # AI Red-Teaming Techniques: A Practical Starting Point for Security Teams | GTK Cyber LLC | [Read More](https://medium.com/p/2f267dd6f063) |
-| Mon, 08 Jun 2026 18:35:40 GMT | CCTV SUVEILLANCE | Dynamic security solution ltd | [Read More](https://medium.com/p/3fe91b5bcfd2) |
-| Mon, 08 Jun 2026 18:35:19 GMT | learning basic BASH language | Shubham Dhobe | [Read More](https://medium.com/p/be6681ab5a60) |
-| Mon, 08 Jun 2026 18:34:40 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 2 — eJPT (INE) | Suraj Apar | [Read More](https://medium.com/p/9c11f35cbcd6) |
-| Mon, 08 Jun 2026 18:34:32 GMT | Building an Autonomous SOC/SOAR Platform: Integrating Wazuh SIEM with Generative AI and Automated… | Usmannazir | [Read More](https://medium.com/p/0e629ff8d7ea) |
-| Mon, 08 Jun 2026 18:31:00 GMT | Red Teaming MCP Servers: 24 Attack Payloads and the Blueprint for Agentic Defense-in-Depth | JustinLee | [Read More](https://medium.com/p/09e79ed7461c) |
-| Mon, 08 Jun 2026 18:18:22 GMT | AI and Cyber-Defense: The New Era of Autonomous Security Operations in 2026 | AIsofia - Aisofya | [Read More](https://medium.com/p/bdbed981a5ed) |
-| Mon, 08 Jun 2026 18:18:06 GMT | The Advanced URL Enumeration Guide for Recon in 2026 | cyber security | [Read More](https://medium.com/p/6d80ee383e50) |
-| Mon, 08 Jun 2026 18:16:53 GMT | Privacy Isn’t About Secrets — It’s About Inference | Monirhossain | [Read More](https://medium.com/p/948f16d2ecee) |
-| Mon, 08 Jun 2026 18:11:52 GMT | Why Most Cybersecurity Training Produces People Who Can Pass Exams and Fail Incidents? | Sarath G | [Read More](https://medium.com/p/7ca2d3d75020) |
-| Mon, 08 Jun 2026 18:00:22 GMT | How Seven Dimension Resolved My Phishing Email Problem | Seven Dimension GEE Inc. | [Read More](https://medium.com/p/99e3f259b979) |
-| Mon, 08 Jun 2026 17:59:55 GMT | AI Into Every Phase LPT Methodology | Aditya Pandey | [Read More](https://medium.com/p/51a334c95ba0) |
-| Mon, 08 Jun 2026 17:57:55 GMT | Direct Enforcement: Why the West Must Reset Its Deterrence Strategy Against Tehran | Golda Mizrahi | [Read More](https://medium.com/p/f0fb61d5d205) |
-| Mon, 08 Jun 2026 17:54:42 GMT | Fine, and Other Lies I Told By Saying Nothing | Shae | [Read More](https://medium.com/p/d77f8ea24d2c) |
-| Mon, 08 Jun 2026 17:53:18 GMT | When the Industry Writes the Check for a Decision It Never Made | Eric Gallagher | [Read More](https://medium.com/p/89a3822f953b) |
-| Mon, 08 Jun 2026 17:49:46 GMT | How to catch cheating wife texting? | Michael Parks | [Read More](https://medium.com/p/eb3e1328eb0d) |
-| Mon, 08 Jun 2026 17:42:16 GMT | Blog Comment System on Firebase: XSS Protection and $0 Cost | Aribu js | [Read More](https://medium.com/p/4136344bc9b5) |
-| Mon, 08 Jun 2026 17:41:49 GMT | How to Manage Stress in Digital Marketing (Without Losing Productivity) | emma james | [Read More](https://medium.com/p/956e60fd5227) |
-| Mon, 08 Jun 2026 17:36:23 GMT | TRY HACK ME-Guided Pentest : Web | Bageniwigina | [Read More](https://medium.com/p/c27f1e6d4be6) |
-| Mon, 08 Jun 2026 17:34:25 GMT | Diplomacy Without Teeth: Why Tehran Treats Western Leverage as a Bluff | Miguel Morales | [Read More](https://medium.com/p/80ad4dad0bf4) |
