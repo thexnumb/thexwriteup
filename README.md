@@ -12,7 +12,53 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Jun 2026 15:31:56 GMT | Easy 150$ Bounty: Delete all votes | Musab Sarı | [Read More](https://medium.com/p/d0dc4a4becd5) |
+| Tue, 09 Jun 2026 15:31:05 GMT | The plain-English difference between a Firewall, a VPN, and Antivirus and why Charlotte businesses… | Paradise technologies Inc | [Read More](https://medium.com/p/3984bfd46099) |
+| Tue, 09 Jun 2026 15:31:00 GMT | What Is OpenClaw? The AI Agent That Acts on Its Own | Vovance | [Read More](https://medium.com/p/20b81d3ed9d1) |
+| Tue, 09 Jun 2026 15:26:46 GMT | How One 60-Second Video Replaced a 20-Minute Sales Explanation | Ayan Wakil | [Read More](https://medium.com/p/6aea59b4e594) |
+| Tue, 09 Jun 2026 15:23:39 GMT | Security Operations at Machine Speed: moving from Execution to Judgment | Demetrio Milea | [Read More](https://medium.com/p/479307185106) |
+| Tue, 09 Jun 2026 15:21:44 GMT | How Blue Teams Use Sniffnet for Threat Hunting and Incident Response | Xpert4Cyber | [Read More](https://medium.com/p/277145120204) |
+| Tue, 09 Jun 2026 15:21:07 GMT | TryHackMe Walkthrough: Windows Jump (Writeup) | Fuad Khan | [Read More](https://medium.com/p/3d80c7f25828) |
+| Tue, 09 Jun 2026 15:20:08 GMT | My Journey Into Cybersecurity: From Student to Security Researcher | Arup Halder | [Read More](https://medium.com/p/c683e097e051) |
+| Tue, 09 Jun 2026 14:58:27 GMT | OPEN REDIRCET | amanseczx | [Read More](https://medium.com/p/68270a513ce9) |
+| Tue, 09 Jun 2026 14:56:43 GMT | Building an Enterprise pfSense Environment: From Network Design to Attack Detection Simulation | Dennis Wu | [Read More](https://medium.com/p/aa7e1167a590) |
+| Tue, 09 Jun 2026 14:46:15 GMT | How a Biometric App Lock Was Reduced to a Single Callback $$$ | 4bd0_m4g3d | [Read More](https://medium.com/p/dd85d991978e) |
+| Tue, 09 Jun 2026 14:46:00 GMT | [FORECAST] The Fake Hire Was Never Just an HR Problem | Wes Young | [Read More](https://medium.com/p/b8516b9cc8a3) |
+| Tue, 09 Jun 2026 14:44:12 GMT | Top Certified Cyber Security Training Platforms in the Arab World | Abdulrahman Alharbi | [Read More](https://medium.com/p/8f11c32c55ed) |
+| Tue, 09 Jun 2026 14:39:32 GMT | Three Words That Changed How I Think About Asking for Help. | Positivty.com | [Read More](https://medium.com/p/a9417cd934b0) |
+| Tue, 09 Jun 2026 14:36:54 GMT | Your New AI Employee Can Be Your Biggest Insider Threat | Ángel Cortez | [Read More](https://medium.com/p/47f8e2855f33) |
+| Tue, 09 Jun 2026 14:27:16 GMT | ADCS — ESC4: İzinleri Değiştirdim, Sertifika İstedim, Domain Admin Oldum | !R3M | [Read More](https://medium.com/p/f4f216491c0d) |
+| Tue, 09 Jun 2026 14:21:12 GMT | How to Find Your First Bug Bounty InVulnerability: Step-by-Step Beginner Guide (2026) | SAYEM-EH | [Read More](https://medium.com/p/10c4c1f728a9) |
+| Tue, 09 Jun 2026 14:18:19 GMT | We Watched an LLM Learn to Say No | Destawell | [Read More](https://medium.com/p/bc1c5b955ced) |
+| Tue, 09 Jun 2026 14:09:26 GMT | Security Assessments Are Business Decisions. And Nobody Tells the Technical Team. | Rubab Fatima | [Read More](https://medium.com/p/4404c4ac00e1) |
+| Tue, 09 Jun 2026 14:06:36 GMT | From Leaf to Cup — The Real Story of Tea and Coffee | WordsInWilderness | [Read More](https://medium.com/p/9297d6c337cd) |
+| Tue, 09 Jun 2026 14:05:58 GMT | Active Directory Enumeration & Password Spraying Notes | Muhammad Jubair Hossain | [Read More](https://medium.com/p/1a8a71adfa07) |
+| Tue, 09 Jun 2026 14:05:33 GMT | To Be Naked Is To Be Vulnerable | wordsofdeb | [Read More](https://medium.com/p/5aac112e7ea0) |
+| Tue, 09 Jun 2026 14:01:39 GMT | what happens to friendship in a life that never pauses? | Saze! | [Read More](https://medium.com/p/ab51c24de168) |
+| Tue, 09 Jun 2026 13:58:10 GMT | What Managing Multiple Devices Taught Me About Endpoint Security | Stella Ray | [Read More](https://medium.com/p/66cbd401129d) |
+| Tue, 09 Jun 2026 13:53:53 GMT | Three Bugs, One Takeover: How a Username Hijacked Every Account | Muhammad Uzair | [Read More](https://medium.com/p/88834e1d891b) |
+| Tue, 09 Jun 2026 13:49:13 GMT | Image Steganography Explained: How to Hide Files Inside Images (With Code) | Rishu | [Read More](https://medium.com/p/9a1ba8f23103) |
+| Tue, 09 Jun 2026 13:46:00 GMT | BadHost and the Hidden Threat Surface: How AI Systems Are Being Exploited From the Inside Out | RK | [Read More](https://medium.com/p/8103d492b143) |
+| Tue, 09 Jun 2026 13:45:52 GMT | AI Security: explanation to Exploitation -- Part 1 | JEETPAL | [Read More](https://medium.com/p/4e63637f7fd1) |
+| Tue, 09 Jun 2026 13:42:46 GMT | Old Sessions — Writeup | Devspace | [Read More](https://medium.com/p/1574a2d946cf) |
+| Tue, 09 Jun 2026 13:42:27 GMT | ArcticFox Alpha: US Equity Intraday Monitoring & Event Review | Just | [Read More](https://medium.com/p/43d9c1e507ef) |
+| Tue, 09 Jun 2026 13:42:11 GMT | The Version of You That You’ve Been Avoiding | Latte | [Read More](https://medium.com/p/ce66382fc9fe) |
+| Tue, 09 Jun 2026 13:36:00 GMT | Or Equivalent Experience | Ryan Baker | [Read More](https://medium.com/p/41b6de01a8f2) |
+| Tue, 09 Jun 2026 13:31:00 GMT | The Hidden Cost of AI: Is Your Proprietary Data Safe? | The Raven Stack | [Read More](https://medium.com/p/7b99af8c0725) |
+| Tue, 09 Jun 2026 13:31:00 GMT | I Breached a Server, Contained It, and Cleaned It Up. Here’s What I Learned. | Christopher Ham | [Read More](https://medium.com/p/8879204a9f58) |
+| Tue, 09 Jun 2026 13:26:00 GMT | Smart garage ecosystems offer incredible convenience, allowing you to monitor your home from… | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/27dfea45063a) |
+| Tue, 09 Jun 2026 13:22:48 GMT | Sensitive File Extensions, Backup Files, and Unreferenced Files | Z3r0D4y | [Read More](https://medium.com/p/448964ddc39b) |
+| Tue, 09 Jun 2026 13:19:37 GMT | Kimchi AI Explained - AI-Powered Pentesting Platform | Pentester Club | [Read More](https://medium.com/p/7bb3efed1deb) |
+| Tue, 09 Jun 2026 13:19:36 GMT | Programmable Custody on Ethereum: Beyond Instant Transfers | jB | [Read More](https://medium.com/p/5a2ba4c09bbc) |
+| Tue, 09 Jun 2026 13:17:49 GMT | The High Cost of Distrusting Your Own Team | Namir Sagheenanajar | [Read More](https://medium.com/p/86517323df2c) |
+| Tue, 09 Jun 2026 13:01:03 GMT | I Thought I Was Learning Cybersecurity. I Was Mostly Consuming Content. | Dhruv Kapoor - Aspiring Red Team Operator | [Read More](https://medium.com/p/1b796efd3c1d) |
+| Tue, 09 Jun 2026 12:55:03 GMT | A Practical Introduction to GraphQL Pentesting | Andrew Dehghan | [Read More](https://medium.com/p/ba615bbf3442) |
+| Tue, 09 Jun 2026 12:47:33 GMT | IDOR allows non-group members to add any group to favorites on their Facebook profile | Rohmad Hidayah | [Read More](https://medium.com/p/466f7ab35f27) |
+| Tue, 09 Jun 2026 12:38:58 GMT | Analyzing DNS Exfiltration via Tunneling. | Dangelorichey | [Read More](https://medium.com/p/8909f5593bd1) |
+| Tue, 09 Jun 2026 12:31:47 GMT | Non-group members can be added to projects even though the “Users cannot be added to projects in… | Rohmad Hidayah | [Read More](https://medium.com/p/deeb8ff41fd4) |
+| Tue, 09 Jun 2026 12:26:54 GMT | Demystifying Cyber Defense: A sure-pass CEH Certification Guide for Students in Kerala | Technovalley Software India Pvt Ltd | [Read More](https://medium.com/p/aabadfebde60) |
 | Tue, 09 Jun 2026 11:56:40 GMT | What Is Penetration Testing and How Is It Different From a Vulnerability Scan? | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/7dede7a60bee) |
+| Tue, 09 Jun 2026 11:56:11 GMT | The More I Learned About Security, the Less Certain I Became | Fateyaly | [Read More](https://medium.com/p/2431d35ccf1a) |
 | Tue, 09 Jun 2026 11:55:01 GMT | The Measurement Crisis Hiding Inside the AI Boom | Samir Pandya | [Read More](https://medium.com/p/a276b5184a51) |
 | Tue, 09 Jun 2026 11:42:58 GMT | The new front line of application security | H-X Technologies | [Read More](https://medium.com/p/e4cd3673c6d7) |
 | Tue, 09 Jun 2026 11:39:09 GMT | AI Security Is Broken — And That’s Exactly Why Security by Design Matters | Carine Insights | [Read More](https://medium.com/p/ad2f4da4a99b) |
@@ -66,50 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Jun 2026 07:42:50 GMT | Angular Security: Subresource Integrity (SRI) | Wojciech Trawiński | [Read More](https://medium.com/p/23e48c523cc7) |
 | Tue, 09 Jun 2026 07:42:42 GMT | When AI Agents Have Network Access: The Attack Surface Nobody’s Governing Yet | Gaurav Sharma | [Read More](https://medium.com/p/e31dddc7a492) |
 | Tue, 09 Jun 2026 07:41:00 GMT | BBP#3: The Boat Speaker— From Shopping Cart to Account Takeover | Devender Rao | [Read More](https://medium.com/p/fb2923376821) |
-| Tue, 09 Jun 2026 07:36:29 GMT | Why Build a SOC for Financial Institutions When Nobody Else Would | Jesse Tosto | [Read More](https://medium.com/p/cede841615cf) |
-| Tue, 09 Jun 2026 07:36:00 GMT | ประจำวันอังคารที่ 9 มิถุนายน 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/f7b02864f9d1) |
-| Tue, 09 Jun 2026 07:28:44 GMT | Deconstructing an ELF Binary: My First Reverse Engineering Walkthrough — Reversing ELF - TryHackme… | A. AntorCSE404 | [Read More](https://medium.com/p/e85f256f08e7) |
-| Tue, 09 Jun 2026 07:20:21 GMT | 10 Security Testing Methods That Prevent Costly Breaches In Software | Allclonescript | [Read More](https://medium.com/p/61f1194b6404) |
-| Tue, 09 Jun 2026 07:06:16 GMT | Network Topologies Explained: The Complete Visual Guide for Engineers | Dhanush N | [Read More](https://medium.com/p/391498ad4c3e) |
-| Tue, 09 Jun 2026 07:00:48 GMT | Costa Rica Beaches: Which Ones Are Worth the Drive | Charlesadam | [Read More](https://medium.com/p/95d282bf0e85) |
-| Tue, 09 Jun 2026 06:52:01 GMT | How Cyber Attacks Happen | Robert Figgy | [Read More](https://medium.com/p/8a4bd3272f18) |
-| Tue, 09 Jun 2026 06:42:48 GMT | Home Automation in Gurgaon: Transform Your Living Space with Smart Technology | idealsecuritysolution | [Read More](https://medium.com/p/d1a9a96f4475) |
-| Tue, 09 Jun 2026 06:39:48 GMT | Algoritma Greedy | Azka | [Read More](https://medium.com/p/63ab93c4ce32) |
-| Tue, 09 Jun 2026 06:35:46 GMT | From LFI to Database Takeover and the RCE That Almost Was | Elahe | [Read More](https://medium.com/p/38b9176bcb6b) |
-| Tue, 09 Jun 2026 06:29:25 GMT | Starting Here — A Cybersecurity Journal
-Who I am, what I know, and what’s coming next | Lakshya Jain | [Read More](https://medium.com/p/d0955562f375) |
-| Tue, 09 Jun 2026 06:28:30 GMT | Shellshock: The 8-Character Command That Owned the Internet | The Skillpods | [Read More](https://medium.com/p/b3d19deb8bfa) |
-| Tue, 09 Jun 2026 06:20:51 GMT | Security Command Centre Services: The Backbone of Modern Security Operations | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/99d9791cdf25) |
-| Tue, 09 Jun 2026 06:17:37 GMT | Why Passkey Based Authentication is the Future of Login - ModulesStack | Modules Stack | [Read More](https://medium.com/p/0eb60f77fce1) |
-| Tue, 09 Jun 2026 06:11:16 GMT | The 1-Second Timeout Hack: Running Infinite Parallel Workloads Natively on Google Apps Script | Kanshi Tanaike | [Read More](https://medium.com/p/ee82693753ee) |
-| Tue, 09 Jun 2026 06:08:59 GMT | From Template to Shell: Auditing and Securing a Python Server against SSTI | Stavinfernandes | [Read More](https://medium.com/p/86e7cb1d3e6c) |
-| Tue, 09 Jun 2026 06:03:28 GMT | Security Services Birmingham | Ptpsecurity | [Read More](https://medium.com/p/34bbf58b590d) |
-| Tue, 09 Jun 2026 05:54:11 GMT | OSINT in Action: Digital Footprints & Modern Intelligence Landscape | Shrimanth Tripathy | [Read More](https://medium.com/p/c53a199ee4f9) |
-| Tue, 09 Jun 2026 05:52:42 GMT | Shift-Left Testing: What Modern Engineering Teams Are Doing Differently | Amita Sharma | [Read More](https://medium.com/p/237cc8d46410) |
-| Tue, 09 Jun 2026 05:48:19 GMT | Defensive Security Tooling — part 2 | ExploitHunter | [Read More](https://medium.com/p/0c328e5033ba) |
-| Tue, 09 Jun 2026 05:47:28 GMT | Defensive Security Tooling — part 1 | ExploitHunter | [Read More](https://medium.com/p/57fbebd80686) |
-| Tue, 09 Jun 2026 05:47:24 GMT | Security Spec-Driven Development (SSDD)- The next evolution of AppSec in the AI era | Jagan Raj Raviraja | [Read More](https://medium.com/p/32d51a1fb754) |
-| Tue, 09 Jun 2026 05:42:55 GMT | You’re Already Writing Tests. So, Why Are You Afraid of QA? | Muhammad Ur Rehman | [Read More](https://medium.com/p/be4920bbb29e) |
-| Tue, 09 Jun 2026 05:38:57 GMT | I Failed My OSCP Exam 3 Times Before Passing. Here’s What Finally Worked. | CYBER MIND SPACE | [Read More](https://medium.com/p/442e52e562a1) |
-| Tue, 09 Jun 2026 05:21:52 GMT | PR3TACK: A Framework for Preemptive Security Operations | Vishal Thakur | [Read More](https://medium.com/p/31785598e8cb) |
-| Tue, 09 Jun 2026 05:15:36 GMT | SIEM Tools Explained: A Beginner’s Guide to Watching Over Your Network | Jijo Shibu | [Read More](https://medium.com/p/a15f6f1f8066) |
-| Tue, 09 Jun 2026 05:03:53 GMT | Professional Joomla Development Company for Scalable Web Solutions | Softgen | [Read More](https://medium.com/p/ceca51618fcb) |
-| Tue, 09 Jun 2026 05:03:19 GMT | Create Custom Software That Drives Business Growth | Rahu Doom Pvt. Ltd. | [Read More](https://medium.com/p/75d675e14ad6) |
-| Tue, 09 Jun 2026 04:54:35 GMT | Zero-Click IP Leak in a Privacy Search Engine: Indirect Prompt Injection & Silent Patching | DeepCodeX | [Read More](https://medium.com/p/6d68ab7f9b7a) |
-| Tue, 09 Jun 2026 04:48:55 GMT | Discernment in a World of Power and Vulnerability | THE HONED CRONE | [Read More](https://medium.com/p/f99644a2245e) |
-| Tue, 09 Jun 2026 04:45:13 GMT | Complete Guide to Bed Bugs Treatment in Navi Mumbai: Expert Solutions from Alliance Pest Control | Alliancepestcontrolmumbai | [Read More](https://medium.com/p/c78fc3d0dd19) |
-| Tue, 09 Jun 2026 04:31:03 GMT | Mythril + Echidna Dynamic Analysis | Hacker MD | [Read More](https://medium.com/p/253068402263) |
-| Tue, 09 Jun 2026 04:31:03 GMT | Sealed Secrets vs External Secrets Operator — Which Should You Use for Kubernetes Secret Management? | Sai Pavan Puligadda | [Read More](https://medium.com/p/27fb16459e01) |
-| Tue, 09 Jun 2026 04:31:03 GMT | Common Ports and Protocols Explained: A Beginner’s Guide | 0xJBsec | [Read More](https://medium.com/p/467161eb22cc) |
-| Tue, 09 Jun 2026 04:30:23 GMT | Protect the Digital World with Advanced Security Skills | Cbitssofficial | [Read More](https://medium.com/p/fc924900e3ef) |
-| Tue, 09 Jun 2026 04:27:07 GMT | Beyond the Rules: How AI Agents Are Rewriting the Rules of Financial Security | Xaltius | [Read More](https://medium.com/p/3c144098ea54) |
-| Tue, 09 Jun 2026 04:24:40 GMT | How Professional Cyber Recovery Services Helped Me Regain Access to My Frozen Crypto Assets | Anthony Visser | [Read More](https://medium.com/p/dbdefed26b8d) |
-| Tue, 09 Jun 2026 04:17:47 GMT | What is Program Files (x86)? | Cyber Simplified ⭐ | [Read More](https://medium.com/p/c97bdca12e9c) |
-| Tue, 09 Jun 2026 04:09:49 GMT | Inside the Role of Palo Alto Networks Chief Marketing Officer 2024: How KP Unnikrishnan Shaped… | Sevangeline | [Read More](https://medium.com/p/feb6c48f9762) |
-| Tue, 09 Jun 2026 04:05:48 GMT | From Brute Force to Malware Execution: Investigating a Multi-Stage Cyberattack in Splunk | Cyrus Montero | [Read More](https://medium.com/p/b8af83e062fa) |
-| Tue, 09 Jun 2026 04:03:40 GMT | API Hacking Sounds Scary Until You Realize It’s Just Changing Numbers | Decline | [Read More](https://medium.com/p/4d621ca06a89) |
-| Tue, 09 Jun 2026 04:00:56 GMT | Toward a Procedural Right of Digital Identity Recovery: Due Process Limits on Finalized Platform… | Rabbi Rothschild #ViralRabbi | [Read More](https://medium.com/p/63e7e763381b) |
-| Tue, 09 Jun 2026 03:56:31 GMT | They Are Not Using FraudGPT to Target You Anymore. They Stole Something Much Better. | Aubrey | [Read More](https://medium.com/p/a7d60a8bbce1) |
-| Tue, 09 Jun 2026 03:56:14 GMT | Investigation Breakdown — Part 7 | ghostyjoe | [Read More](https://medium.com/p/aa999a0bd991) |
-| Tue, 09 Jun 2026 03:52:20 GMT | The Origin of Ubuntu: How a South African Entrepreneur Changed Linux Forever | Sam Writes Security | [Read More](https://medium.com/p/c583131fe2c6) |
-| Tue, 09 Jun 2026 03:46:44 GMT | Harness Engineering: The Missing Layer in AI Security Automation | Ronnie | [Read More](https://medium.com/p/ebb089f74e4b) |
