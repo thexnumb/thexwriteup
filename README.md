@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Jun 2026 23:43:19 GMT | The Future of Cybersecurity Is Predictive Not Reactive | Brij Gupta | [Read More](https://medium.com/p/2c3f3e269277) |
+| Tue, 09 Jun 2026 23:28:15 GMT | AI agents constantly bypassing the permissions. | Sai Ram Varma Budharaju | [Read More](https://medium.com/p/efdb1156becc) |
+| Tue, 09 Jun 2026 23:20:19 GMT | Discord data breach effect — You Might Be The Next Victim or Perpetrator | billadib | [Read More](https://medium.com/p/4751052fd88c) |
+| Tue, 09 Jun 2026 23:16:54 GMT | Build in Public, Test in Private - on the Genbounty AI Bug Bounty Platform | Genbounty Blog | [Read More](https://medium.com/p/744e9f73204c) |
+| Tue, 09 Jun 2026 23:01:32 GMT | The Illusion of Asset Inventory: Why Attackers Know More About Your Infrastructure Than You Do | Satyam Pathania | [Read More](https://medium.com/p/32dd7ebb1de8) |
+| Tue, 09 Jun 2026 23:01:01 GMT | Compliance Theater | fmi A. | [Read More](https://medium.com/p/1a1299d5f97d) |
+| Tue, 09 Jun 2026 23:00:15 GMT | Sovereign Agent Memory on Oracle Autonomous Database — Part 2 | Alessandro Moccia | [Read More](https://medium.com/p/893e410d01c4) |
+| Tue, 09 Jun 2026 22:55:57 GMT | I Passed the CISSP at 100 Questions - Here’s Exactly How I Prepared | Citiz3n | [Read More](https://medium.com/p/052da6ab48ce) |
+| Tue, 09 Jun 2026 22:52:55 GMT | How Small Businesses Get Hacked — The 5 Most Common Ways | Ctrl Alt Hacked | [Read More](https://medium.com/p/e4fe82aa3634) |
+| Tue, 09 Jun 2026 22:52:32 GMT | Docker Security in Practice: What I Learned by Building the Same App Five Ways | Paula wakabi | [Read More](https://medium.com/p/af50531b4927) |
+| Tue, 09 Jun 2026 22:48:19 GMT | That Innocent Post You Made Might Not Be So Innocent | ThatCyberGirl | [Read More](https://medium.com/p/a34079946cd4) |
+| Tue, 09 Jun 2026 22:44:33 GMT | Rethinking Zero Trust for the Agentic AI Era | Juan Pablo Castro | [Read More](https://medium.com/p/b8ce66470bfe) |
 | Tue, 09 Jun 2026 21:56:58 GMT | The illusion of privacy | Aleksic Ivan | [Read More](https://medium.com/p/4afa37f77f1f) |
 | Tue, 09 Jun 2026 21:50:14 GMT | PortSwigger Lab Writeup: Exploiting an API Endpoint Using Documentation | Ayeshaaghafoor | [Read More](https://medium.com/p/2d3b8cd3bc7c) |
 | Tue, 09 Jun 2026 21:36:11 GMT | Mythos-Level AI Is Not Just a “Cyber Crisis” | Atsushi Ito | [Read More](https://medium.com/p/237724028893) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Jun 2026 15:31:00 GMT | What Is OpenClaw? The AI Agent That Acts on Its Own | Vovance | [Read More](https://medium.com/p/20b81d3ed9d1) |
 | Tue, 09 Jun 2026 15:27:12 GMT | Protecting 50,000 Users: How ANY.RUN Drives Incident Prevention at UMass Boston | ANY.RUN | [Read More](https://medium.com/p/27168e76ecd9) |
 | Tue, 09 Jun 2026 15:26:46 GMT | How One 60-Second Video Replaced a 20-Minute Sales Explanation | Ayan Wakil | [Read More](https://medium.com/p/6aea59b4e594) |
-| Tue, 09 Jun 2026 15:23:39 GMT | Security Operations at Machine Speed: moving from Execution to Judgment | Demetrio Milea | [Read More](https://medium.com/p/479307185106) |
-| Tue, 09 Jun 2026 15:21:44 GMT | How Blue Teams Use Sniffnet for Threat Hunting and Incident Response | Xpert4Cyber | [Read More](https://medium.com/p/277145120204) |
-| Tue, 09 Jun 2026 15:21:07 GMT | TryHackMe Walkthrough: Windows Jump (Writeup) | Fuad Khan | [Read More](https://medium.com/p/3d80c7f25828) |
-| Tue, 09 Jun 2026 15:20:08 GMT | My Journey Into Cybersecurity: From Student to Security Researcher | Arup Halder | [Read More](https://medium.com/p/c683e097e051) |
-| Tue, 09 Jun 2026 14:58:27 GMT | OPEN REDIRCET | amanseczx | [Read More](https://medium.com/p/68270a513ce9) |
-| Tue, 09 Jun 2026 14:56:43 GMT | Building an Enterprise pfSense Environment: From Network Design to Attack Detection Simulation | Dennis Wu | [Read More](https://medium.com/p/aa7e1167a590) |
-| Tue, 09 Jun 2026 14:46:15 GMT | How a Biometric App Lock Was Reduced to a Single Callback $$$ | 4bd0_m4g3d | [Read More](https://medium.com/p/dd85d991978e) |
-| Tue, 09 Jun 2026 14:46:00 GMT | [FORECAST] The Fake Hire Was Never Just an HR Problem | Wes Young | [Read More](https://medium.com/p/b8516b9cc8a3) |
-| Tue, 09 Jun 2026 14:44:12 GMT | Top Certified Cyber Security Training Platforms in the Arab World | Abdulrahman Alharbi | [Read More](https://medium.com/p/8f11c32c55ed) |
-| Tue, 09 Jun 2026 14:39:32 GMT | Three Words That Changed How I Think About Asking for Help. | Positivty.com | [Read More](https://medium.com/p/a9417cd934b0) |
-| Tue, 09 Jun 2026 14:36:54 GMT | Your New AI Employee Can Be Your Biggest Insider Threat | Ángel Cortez | [Read More](https://medium.com/p/47f8e2855f33) |
-| Tue, 09 Jun 2026 14:27:16 GMT | ADCS — ESC4: İzinleri Değiştirdim, Sertifika İstedim, Domain Admin Oldum | !R3M | [Read More](https://medium.com/p/f4f216491c0d) |
