@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 09 Jun 2026 21:56:58 GMT | The illusion of privacy | Aleksic Ivan | [Read More](https://medium.com/p/4afa37f77f1f) |
+| Tue, 09 Jun 2026 21:50:14 GMT | PortSwigger Lab Writeup: Exploiting an API Endpoint Using Documentation | Ayeshaaghafoor | [Read More](https://medium.com/p/2d3b8cd3bc7c) |
+| Tue, 09 Jun 2026 21:36:11 GMT | Mythos-Level AI Is Not Just a “Cyber Crisis” | Atsushi Ito | [Read More](https://medium.com/p/237724028893) |
+| Tue, 09 Jun 2026 21:35:23 GMT | You’re Not Building a Tool. You’re Building an Organization. Treat it That Way. | Jason Cook | [Read More](https://medium.com/p/ab87b79dbcbc) |
+| Tue, 09 Jun 2026 21:32:54 GMT | The Internet Has a Trust Problem — Runtime Verification of Open Clients Could Fix It | David A Helgeson | [Read More](https://medium.com/p/54730b3ffb25) |
+| Tue, 09 Jun 2026 21:24:49 GMT | ظل المحقق: قضية الصديق والمتاهة
+لم أكن أعرف أن إنقاذ علاقة صديقي سيكون بوابة لدخول متاهة لم أخرج… | Ali Mohammad | [Read More](https://medium.com/p/a1b07cc5d709) |
+| Tue, 09 Jun 2026 21:21:57 GMT | PortSwigger Lab Write-Up: DOM XSS in AngularJS Expression with Angle Brackets and Double Quotes… | Ayeshaaghafoor | [Read More](https://medium.com/p/aa14b3ca2f34) |
+| Tue, 09 Jun 2026 21:21:30 GMT | Productionizing AI Systems Means Treating Prompts Like Untrusted Input | Nektarios Kalogridis | [Read More](https://medium.com/p/a1f2bc97aeb5) |
+| Tue, 09 Jun 2026 21:18:38 GMT | The Worst Cyberattacks of 2026 Reveal a Brutal Truth: AI Just Made Visibility Dangerous | BlastWave | [Read More](https://medium.com/p/60ba83906929) |
+| Tue, 09 Jun 2026 21:10:51 GMT | I Spent 2 Weeks Researching How Bug Bounty Hunters Are Secretly Using Claude Code -Here’s What I… | Grayxploit | [Read More](https://medium.com/p/02190e736cfc) |
+| Tue, 09 Jun 2026 21:03:14 GMT | The Exploit Hiding in Plain Sight | Jasmy Elzha Mathew | [Read More](https://medium.com/p/647589c0bd86) |
+| Tue, 09 Jun 2026 21:02:32 GMT | How stainless-steel mesh catches dangerous airborne embers | Davidson’s Blinds and Shutters | [Read More](https://medium.com/p/1719621151cb) |
+| Tue, 09 Jun 2026 20:58:33 GMT | Word Based Shellcode Encoding | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f0a5ae7d70e0) |
+| Tue, 09 Jun 2026 20:51:36 GMT | İlk CVE’lerim: Traccar’da iki küçük varsayımın peşinden gitmek | Emre Koca | [Read More](https://medium.com/p/57df26c54121) |
+| Tue, 09 Jun 2026 20:47:58 GMT | HOW TO WORK WITH A PRIVATE INVESTIGATOR TO COLLECT EVIDENCE OF YOUR PARTNER’S INFIDELITY | Nathan | [Read More](https://medium.com/p/62efd4087c93) |
+| Tue, 09 Jun 2026 20:40:06 GMT | I was surprised to find that… | ralphbean | [Read More](https://medium.com/p/d97f83b9cbc4) |
+| Tue, 09 Jun 2026 20:32:47 GMT | Your Software Is Already Under Attack | Tymoteusz `Shadyy` Netter | [Read More](https://medium.com/p/da2c17d93b1c) |
 | Tue, 09 Jun 2026 20:18:31 GMT | The complete guide to event security services in London — what to expect & how to plan | waeventservices.co.uk/ | [Read More](https://medium.com/p/2ee51f9b0276) |
 | Tue, 09 Jun 2026 20:16:06 GMT | Anthropic Just Released Its Most Powerful AI Ever, And You Have 12 Days to Use It for Free | Shobhit Agarwal | [Read More](https://medium.com/p/2ac9ee43b352) |
 | Tue, 09 Jun 2026 20:12:04 GMT | Discovering an SQL Injection Vulnerability in a High-Profile Government Web Application | Andrew Dehghan | [Read More](https://medium.com/p/b784e4c65344) |
@@ -95,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 09 Jun 2026 14:39:32 GMT | Three Words That Changed How I Think About Asking for Help. | Positivty.com | [Read More](https://medium.com/p/a9417cd934b0) |
 | Tue, 09 Jun 2026 14:36:54 GMT | Your New AI Employee Can Be Your Biggest Insider Threat | Ángel Cortez | [Read More](https://medium.com/p/47f8e2855f33) |
 | Tue, 09 Jun 2026 14:27:16 GMT | ADCS — ESC4: İzinleri Değiştirdim, Sertifika İstedim, Domain Admin Oldum | !R3M | [Read More](https://medium.com/p/f4f216491c0d) |
-| Tue, 09 Jun 2026 14:21:12 GMT | How to Find Your First Bug Bounty InVulnerability: Step-by-Step Beginner Guide (2026) | SAYEM-EH | [Read More](https://medium.com/p/10c4c1f728a9) |
-| Tue, 09 Jun 2026 14:18:19 GMT | We Watched an LLM Learn to Say No | Destawell | [Read More](https://medium.com/p/bc1c5b955ced) |
-| Tue, 09 Jun 2026 14:09:26 GMT | Security Assessments Are Business Decisions. And Nobody Tells the Technical Team. | Rubab Fatima | [Read More](https://medium.com/p/4404c4ac00e1) |
-| Tue, 09 Jun 2026 14:06:36 GMT | From Leaf to Cup — The Real Story of Tea and Coffee | WordsInWilderness | [Read More](https://medium.com/p/9297d6c337cd) |
-| Tue, 09 Jun 2026 14:05:58 GMT | Active Directory Enumeration & Password Spraying Notes | Muhammad Jubair Hossain | [Read More](https://medium.com/p/1a8a71adfa07) |
-| Tue, 09 Jun 2026 14:05:33 GMT | To Be Naked Is To Be Vulnerable | wordsofdeb | [Read More](https://medium.com/p/5aac112e7ea0) |
-| Tue, 09 Jun 2026 14:01:39 GMT | what happens to friendship in a life that never pauses? | Saze! | [Read More](https://medium.com/p/ab51c24de168) |
-| Tue, 09 Jun 2026 13:58:10 GMT | What Managing Multiple Devices Taught Me About Endpoint Security | Stella Ray | [Read More](https://medium.com/p/66cbd401129d) |
-| Tue, 09 Jun 2026 13:53:53 GMT | Three Bugs, One Takeover: How a Username Hijacked Every Account | Muhammad Uzair | [Read More](https://medium.com/p/88834e1d891b) |
-| Tue, 09 Jun 2026 13:49:13 GMT | Image Steganography Explained: How to Hide Files Inside Images (With Code) | Rishu | [Read More](https://medium.com/p/9a1ba8f23103) |
-| Tue, 09 Jun 2026 13:46:00 GMT | BadHost and the Hidden Threat Surface: How AI Systems Are Being Exploited From the Inside Out | RK | [Read More](https://medium.com/p/8103d492b143) |
-| Tue, 09 Jun 2026 13:45:52 GMT | AI Security: explanation to Exploitation -- Part 1 | JEETPAL | [Read More](https://medium.com/p/4e63637f7fd1) |
-| Tue, 09 Jun 2026 13:42:46 GMT | Old Sessions — Writeup | Devspace | [Read More](https://medium.com/p/1574a2d946cf) |
-| Tue, 09 Jun 2026 13:42:27 GMT | ArcticFox Alpha: US Equity Intraday Monitoring & Event Review | Just | [Read More](https://medium.com/p/43d9c1e507ef) |
-| Tue, 09 Jun 2026 13:42:11 GMT | The Version of You That You’ve Been Avoiding | Latte | [Read More](https://medium.com/p/ce66382fc9fe) |
-| Tue, 09 Jun 2026 13:36:00 GMT | Or Equivalent Experience | Ryan Baker | [Read More](https://medium.com/p/41b6de01a8f2) |
-| Tue, 09 Jun 2026 13:31:00 GMT | The Hidden Cost of AI: Is Your Proprietary Data Safe? | The Raven Stack | [Read More](https://medium.com/p/7b99af8c0725) |
