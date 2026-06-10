@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Jun 2026 23:01:01 GMT | CVEs Explained: The Language of Cybersecurity Vulnerabilities | Sruthi Punugu | [Read More](https://medium.com/p/973ca19ded57) |
+| Wed, 10 Jun 2026 22:55:16 GMT | There Is No Universal Crypto Scam Restitution Fund — Here’s What Actually Exists | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/c67cfb29de89) |
+| Wed, 10 Jun 2026 22:53:23 GMT | Claude Powered Code Review that scales! | Fade into Tech! | [Read More](https://medium.com/p/b77bb72c14a2) |
+| Wed, 10 Jun 2026 22:17:07 GMT | Public credibility starts with technical trust signals | Mirogate | [Read More](https://medium.com/p/cab6251b9d88) |
+| Wed, 10 Jun 2026 22:15:31 GMT | Public forms need abuse controls before they need polish | Mirogate | [Read More](https://medium.com/p/e0290f8f5d1e) |
+| Wed, 10 Jun 2026 22:15:13 GMT | Built a Fintech Azure Security Lab — Every Decision, Every Mistake, Every Fix | Tobi Babalola | [Read More](https://medium.com/p/3fe50405e3fa) |
+| Wed, 10 Jun 2026 22:03:41 GMT | Pickle Rick CTF From cat Blocked to Root Shell (TryHackMe Walkthrough + Detection) | Hammad Khan - SOC & Pentesting | [Read More](https://medium.com/p/885365ed664e) |
+| Wed, 10 Jun 2026 21:48:38 GMT | PASSIVE RECONNAISSANCE REPORT Target Organisation: Microsoft Corporation Open-Source Intelligence… | SALAMI SAMUEL | [Read More](https://medium.com/p/7c92b9eb1198) |
+| Wed, 10 Jun 2026 21:30:22 GMT | Your Cybersecurity Internship Has Two Halves. Most People Only Prepare for One. | Jbird | [Read More](https://medium.com/p/46705bac871b) |
+| Wed, 10 Jun 2026 21:30:16 GMT | AI / LLM Software Security: Part 4 | Robert Broeckelmann | [Read More](https://medium.com/p/cfad03878eb6) |
 | Wed, 10 Jun 2026 21:21:47 GMT | Overview of the Security Audit and Script Operations | Lazyboii | [Read More](https://medium.com/p/6384dafd1da0) |
 | Wed, 10 Jun 2026 21:16:21 GMT | Your Email is Probably on the Dark Web Right Now: An IT Guru’s Guide to the 2026 Data Breaches | Check & Calc AI Security | [Read More](https://medium.com/p/f20b2d97034f) |
 | Wed, 10 Jun 2026 21:09:28 GMT | Will AI Replace Humans? What the Engineering, Economics, and Data Actually Say” | Sage Khan | [Read More](https://medium.com/p/b7d0c53cd55b) |
@@ -95,6 +105,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Jun 2026 14:48:19 GMT | Vibe Coding Has a Security Problem | Ashanvi | [Read More](https://medium.com/p/862efa8f69d7) |
 | Wed, 10 Jun 2026 14:46:00 GMT | Security | FRANK LAZARUS, The Murder Hobbyist | [Read More](https://medium.com/p/e6fc692f1956) |
 | Wed, 10 Jun 2026 14:44:21 GMT | Inside the Mind of a Hacker Team: How Cyber Attacks Actually Work | Dhanush N | [Read More](https://medium.com/p/15153cfcd7bc) |
+| Wed, 10 Jun 2026 14:39:24 GMT | Basis Data: Keamanan Basis Data (Akses Pengguna) | RosifaAulia | [Read More](https://medium.com/p/0e408edfbc63) |
 | Wed, 10 Jun 2026 14:35:52 GMT | The Aura Illusion: Mapping a Fake PDF Converter Ecosystem | Rabbit Knight | [Read More](https://medium.com/p/b61730291506) |
 | Wed, 10 Jun 2026 14:33:31 GMT | From Service Account to SYSTEM: Abusing SeImpersonatePrivilege on Windows | Christopher Arock | [Read More](https://medium.com/p/54a1ff0c3b6b) |
 | Wed, 10 Jun 2026 14:30:21 GMT | Breaking Down 0x41haz: A Step-by-Step TryHackMe Reverse Engineering Write-up | A. AntorCSE404 | [Read More](https://medium.com/p/daf1edce1fb0) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Jun 2026 14:12:33 GMT | The Bio-Neural Firewall: Shifting the Post-Quantum Security Paradigm from Silicon to Organic… | Y. J. Han | [Read More](https://medium.com/p/6d2bc1f438b0) |
 | Wed, 10 Jun 2026 14:06:00 GMT | Why Generative AI Talent Is Becoming a Competitive Advantage for Businesses | Xwtempsolutions | [Read More](https://medium.com/p/fa9464823d53) |
 | Wed, 10 Jun 2026 14:03:55 GMT | Find Every Vulnerability with AI Hacklabs + WSTG | Pentester Club | [Read More](https://medium.com/p/361d7f4737b3) |
-| Wed, 10 Jun 2026 13:55:52 GMT | I Almost Applied. Then I Realized the Recruiter Didn’t Exist. | Brown Fred | [Read More](https://medium.com/p/88cf038fe7f1) |
-| Wed, 10 Jun 2026 13:46:42 GMT | Diplomatic Immunity is Not a License for Transnational Repression | ÚLTIMA HORA ESPAÑOL | [Read More](https://medium.com/p/692eeea3ffe7) |
-| Wed, 10 Jun 2026 13:45:30 GMT | The Death of Root: Why modern java apps no nonger need Sudo | Sriram Mahalingam | [Read More](https://medium.com/p/a6848dc2120a) |
-| Wed, 10 Jun 2026 13:44:52 GMT | Why Broken Object Level Authorization Remains the Biggest Threat to APIs | Daksh Dhamija | [Read More](https://medium.com/p/370d35dbcb29) |
-| Wed, 10 Jun 2026 13:36:41 GMT | 10 Benefits of Hiring Professional Security Guards for Businesses | Dynamic security solution ltd | [Read More](https://medium.com/p/fc0453ac5bdb) |
-| Wed, 10 Jun 2026 13:15:09 GMT | Phishing Analysis Fundamentals: Social Engineering Exercise Write-Up | Adam Izzuddin | [Read More](https://medium.com/p/5206b576ae0f) |
-| Wed, 10 Jun 2026 13:08:49 GMT | Why I Wrote The Confession | Kehinde Margret Makinde {The Eclectic Writer} | [Read More](https://medium.com/p/e9d7a056dd1b) |
-| Wed, 10 Jun 2026 13:02:33 GMT | Week 11:- Ports & Protocols: The Hidden Language of the Internet | Nishant kumar | [Read More](https://medium.com/p/f45dc3c16d45) |
-| Wed, 10 Jun 2026 12:56:57 GMT | Phishing Emails in Action: Social Engineering Exercise Write-Up | Adam Izzuddin | [Read More](https://medium.com/p/b87caed63220) |
-| Wed, 10 Jun 2026 12:56:55 GMT | Microsoft June 2026 Patch Tuesday Update: What's New | WindowsCult | [Read More](https://medium.com/p/0009c25197f0) |
-| Wed, 10 Jun 2026 12:39:38 GMT | Efek Domino Kebocoran Data: Saat AI Menyulap Data Lama Menjadi Teror Spear-Phishing Sempurna | Brian Aryansyah | [Read More](https://medium.com/p/0bb5ec75bf8c) |
