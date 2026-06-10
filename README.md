@@ -12,6 +12,43 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 10 Jun 2026 18:25:03 GMT | Phishing Doesn’t Knock on Your Door Anymore. It Lets Itself In. | Ahsan | [Read More](https://medium.com/p/6a617cc10af7) |
+| Wed, 10 Jun 2026 18:21:32 GMT | The Spy Who Got Scammed: What 7 Million Downloads of a Fake Surveillance App Reveal About Us | Ahsan | [Read More](https://medium.com/p/6dde302fee23) |
+| Wed, 10 Jun 2026 18:19:00 GMT | Zero Trust Security Architecture: The Future of Cybersecurity Networks | Dhruv Joshi | [Read More](https://medium.com/p/ef94ac21c498) |
+| Wed, 10 Jun 2026 18:16:54 GMT | ️‍♂️ Cache Deception: The Silent Bug That Tricks CDNs Into Leaking Private Data | HaNam0n - HANAFEYZ | [Read More](https://medium.com/p/35bdd118c67f) |
+| Wed, 10 Jun 2026 18:16:19 GMT | Anatomy of a False Positive: Investigating “Tescrypt” in Microsoft Defender XDR | Marvin Sewell | [Read More](https://medium.com/p/b31026c2354c) |
+| Wed, 10 Jun 2026 18:15:03 GMT | The Policy Exists. The Enforcement Does Not. | Abby Kearns | [Read More](https://medium.com/p/3706776cdfa5) |
+| Wed, 10 Jun 2026 18:13:16 GMT | The Three Times North Korea (Probably) Tried to Hack My Laptop in 30 Days | RVwv.B | [Read More](https://medium.com/p/b359da177f0d) |
+| Wed, 10 Jun 2026 18:09:24 GMT | Cybercrime Just Had a 1,500% Quarter. We Held a Steering Committee. | Larry Orton | [Read More](https://medium.com/p/6596736e955e) |
+| Wed, 10 Jun 2026 18:06:18 GMT | Como Recuperar Dinero de una Estafa por Telegram | Decode Help | [Read More](https://medium.com/p/8b52162749fa) |
+| Wed, 10 Jun 2026 18:00:50 GMT | Protected Coverage: The Case for Stricter Scrutiny on Tehran’s Diplomatic Outposts | Know Afrika | [Read More](https://medium.com/p/326aa4122095) |
+| Wed, 10 Jun 2026 17:58:48 GMT | Taking off the Training Wheels: Phishing Analysis | Alvaro Gonzalez Bosque | [Read More](https://medium.com/p/2aeef8b4ace6) |
+| Wed, 10 Jun 2026 17:58:25 GMT | An AI Found a 27-Year-Old Hidden Trap in the World’s Most Secure Software — When Everyone failed to… | Swarna Rao | [Read More](https://medium.com/p/89a153d95ba8) |
+| Wed, 10 Jun 2026 17:54:39 GMT | Welcome - HackSmarter - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/24b2b9bb5126) |
+| Wed, 10 Jun 2026 17:53:01 GMT | Ghost Sender: Why Your Email Gateway Isn’t Protecting Exchange Online | Sanaullah Aman Korai | [Read More](https://medium.com/p/671cbe8cb177) |
+| Wed, 10 Jun 2026 17:52:52 GMT | The Biggest Lie in Cybersecurity: “We’re Covered” | JSOC IT BLOG | [Read More](https://medium.com/p/6ab1e99b419e) |
+| Wed, 10 Jun 2026 17:46:00 GMT | Blue Team Labs Online (BTLO) — Malicious PowerShell Analysis | Zeliha Zengin | [Read More](https://medium.com/p/ce8f7bbc2afd) |
+| Wed, 10 Jun 2026 17:44:22 GMT | 10 Malware Analysis Platforms Every Security Professional Should Know | Xpert4Cyber | [Read More](https://medium.com/p/e0cccb939733) |
+| Wed, 10 Jun 2026 17:29:00 GMT | Frontier Models Are Incredible. | Mohammed Brückner | [Read More](https://medium.com/p/454320562bad) |
+| Wed, 10 Jun 2026 17:20:53 GMT | Full-Scale Cyber Attack On a Real AWS Organization (Legally) | opr3vail | [Read More](https://medium.com/p/6a29bae8644c) |
+| Wed, 10 Jun 2026 17:17:55 GMT | The Spy Group Using a “Breakroom Coffee” Slack Channel to Receive Secret Commands | Pop123 | [Read More](https://medium.com/p/d50355dd6b20) |
+| Wed, 10 Jun 2026 17:16:06 GMT | Intercepting iOS App Traffic Without Frida, reFlutter, or OpenVPN | Fatma gamal | [Read More](https://medium.com/p/4cc62a6031ed) |
+| Wed, 10 Jun 2026 17:15:36 GMT | After Years of Selenium, Here’s What Surprised Me About Playwright | Sharon Madihlaba | [Read More](https://medium.com/p/fe517993ce65) |
+| Wed, 10 Jun 2026 17:09:10 GMT | I Spent 30 Days Learning Bug Bounties. Here Is What Nobody Tells You. | Masood Nfc | [Read More](https://medium.com/p/061778ceb0e3) |
+| Wed, 10 Jun 2026 17:08:03 GMT | The Growing Importance of Concierge Security in Modern Residential Communities | Ultraprotectsecurity | [Read More](https://medium.com/p/0de5d991fdc1) |
+| Wed, 10 Jun 2026 17:05:05 GMT | Building a Real Bug Bounty Toolkit on Windows 11 in 2026 | Masood Nfc | [Read More](https://medium.com/p/147a21c703b0) |
+| Wed, 10 Jun 2026 17:02:38 GMT | Cyber security Isn’t a Technology Problem | Md Suzan Babu | [Read More](https://medium.com/p/f262c3b68385) |
+| Wed, 10 Jun 2026 17:01:03 GMT | HashiCorp Vault Deep Dive | TheProdSDE | [Read More](https://medium.com/p/28f2fa00a610) |
+| Wed, 10 Jun 2026 16:57:52 GMT | Advanced Subdomain Enumeration for Bug Bounty Hunters in 2026 | cyber security | [Read More](https://medium.com/p/fc4acc919790) |
+| Wed, 10 Jun 2026 16:57:46 GMT | RoguePlanet: “Nightmare Eclipse” Unleashes New Defender Zero-Day on Patch Tuesday | Ali Mansoor | [Read More](https://medium.com/p/b62d4e022bde) |
+| Wed, 10 Jun 2026 16:25:58 GMT | A New Direction in My Tech Journey | Sherry Fisher | [Read More](https://medium.com/p/c18270f9d515) |
+| Wed, 10 Jun 2026 16:20:02 GMT | Exposing Nearly 2,000 User Records Through a SQL Injection | Amir Dehghan | [Read More](https://medium.com/p/fd8f89e8646a) |
+| Wed, 10 Jun 2026 16:18:08 GMT | The Protective Walls: Living Guarded Due to Trauma | Melissa Alton | [Read More](https://medium.com/p/d9e89a358292) |
+| Wed, 10 Jun 2026 16:11:25 GMT | The complete guide to event crew services in London — what to expect & how to plan | waeventservices.co.uk/ | [Read More](https://medium.com/p/59311da18b6e) |
+| Wed, 10 Jun 2026 16:10:09 GMT | Why Global Cyberattacks Should Scare You | Kaynat Muzaffar | [Read More](https://medium.com/p/1d074266eb77) |
+| Wed, 10 Jun 2026 16:01:29 GMT | We proudly preset you brand new feature on aidyor.app | David Belligoi | [Read More](https://medium.com/p/19302fb375b0) |
+| Wed, 10 Jun 2026 15:50:43 GMT | Miasma Supply Chain Worm Burrows Into 73 Microsoft Repositories | Zero Day Cyberian | [Read More](https://medium.com/p/c3f9b746a69c) |
+| Wed, 10 Jun 2026 15:43:08 GMT | The Digital Nuclear Bomb: Understanding Zip Bombs | Soumodeep Das | [Read More](https://medium.com/p/fff46e1076fe) |
 | Wed, 10 Jun 2026 15:38:37 GMT | From the Classroom to the Doctorate: Why I’m Pursuing a PhD at the Intersection of Multimedia… | Don Rivera Diaz | [Read More](https://medium.com/p/851cd91e79a0) |
 | Wed, 10 Jun 2026 15:38:02 GMT | VPN কীVPN কী এবং কেন বর্তমানে VPN ব্যবহার এত জনপ্রিয়? | Ekramul - Bangla Tech Zone | [Read More](https://medium.com/p/fffd613bf65a) |
 | Wed, 10 Jun 2026 15:33:29 GMT | Guide | Yasin abedini | [Read More](https://medium.com/p/7ca206ddf36f) |
@@ -75,40 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Jun 2026 10:46:39 GMT | EchoDesk App Lab Walkthrough — Breaking Chat Privacy with Predictable IDs and IDOR | Bl00d | [Read More](https://medium.com/p/0d7e06de741c) |
 | Wed, 10 Jun 2026 10:44:51 GMT | Level 3 CTF Writeup: Inheritance | Vivek Kumar | [Read More](https://medium.com/p/b514a4ef5da7) |
 | Wed, 10 Jun 2026 10:41:09 GMT | Building The Discipline to Study Security Every Day | Abraham | [Read More](https://medium.com/p/8a43ad3c46dd) |
-| Wed, 10 Jun 2026 10:39:54 GMT | OmniScanner: Building an AI-Powered Web Vulnerability Scanner in 30 Days | Mkmohmedmoideenjamaludeen | [Read More](https://medium.com/p/70862e9a08a6) |
-| Wed, 10 Jun 2026 10:35:44 GMT | Why Smart Offices Are Replacing Paper Visitor Logs with Visitor Management Software | Khayash | [Read More](https://medium.com/p/33fe5624dfbc) |
-| Wed, 10 Jun 2026 10:30:50 GMT | Why Technology Integration Is Becoming the Biggest Competitive Advantage for Modern Businesses | Allisonkennedy | [Read More](https://medium.com/p/b57c0ad53a6b) |
-| Wed, 10 Jun 2026 10:21:44 GMT | What I Was Afraid to Show Her | Mohammad Rifal | [Read More](https://medium.com/p/d9251ad70950) |
-| Wed, 10 Jun 2026 10:21:08 GMT | What does Security Architect actually do? | TUNA ASLAN | [Read More](https://medium.com/p/3d29512a50e7) |
-| Wed, 10 Jun 2026 10:17:30 GMT | Hospital stay | Crystal Waters | [Read More](https://medium.com/p/f7acaf8dedd5) |
-| Wed, 10 Jun 2026 10:15:14 GMT | How AI Automation Is Changing Jobs and Why AI Diploma Matters | cybersecuritycourse | [Read More](https://medium.com/p/5d06bacdedbc) |
-| Wed, 10 Jun 2026 10:14:54 GMT | The Most Terrifying Crypto Bug of 2026 Wasn’t a Hack. It Was a Broken Assumption. | Yua Mikanana | [Read More](https://medium.com/p/836c90782070) |
-| Wed, 10 Jun 2026 10:14:17 GMT | Hospital Stay | Crystal Waters | [Read More](https://medium.com/p/b799ddd0a0f6) |
-| Wed, 10 Jun 2026 10:13:22 GMT | “That Made Me Smile”, Said MY A.I.! | Judy Haratz Cohen | [Read More](https://medium.com/p/7884730df630) |
-| Wed, 10 Jun 2026 10:07:45 GMT | Internal Active Directory Attack | 0xM0G4D | [Read More](https://medium.com/p/45c98e3b88f7) |
-| Wed, 10 Jun 2026 10:03:22 GMT | My deepest act of love is being vulnerable. | love_kiro | [Read More](https://medium.com/p/761c4c76c721) |
-| Wed, 10 Jun 2026 09:57:51 GMT | Mastering the Shift: Career Resilience Strategies for IT Service Professionals | Manoj | [Read More](https://medium.com/p/315e2d7a91a3) |
-| Wed, 10 Jun 2026 09:56:14 GMT | The Ultimate Windows Security Event ID Cheatsheet for Blue Teams & DFIR | Arafat | [Read More](https://medium.com/p/b89bffd657a6) |
-| Wed, 10 Jun 2026 09:56:00 GMT | They Already Have Your Email -You Just Don’t Know It Yet | mrwhite18 | [Read More](https://medium.com/p/db4a29284cb5) |
-| Wed, 10 Jun 2026 09:52:43 GMT | BTLO — Network Analysis — TeslaCrypt Ransomware | Efe Özel | [Read More](https://medium.com/p/27bf80a272a2) |
-| Wed, 10 Jun 2026 09:47:59 GMT | Why Space Communications Fascinate Security Researchers | Michael Preston | [Read More](https://medium.com/p/c7016b965c30) |
-| Wed, 10 Jun 2026 09:45:12 GMT | Dc-7 Vulnhub Walkthrough | Guptahonda | [Read More](https://medium.com/p/4b38a612329d) |
-| Wed, 10 Jun 2026 09:44:54 GMT | How I Recovered a Password from a Linux Binary Using Ghidra | revs3k | [Read More](https://medium.com/p/625b51561751) |
-| Wed, 10 Jun 2026 09:40:54 GMT | THE RANSOM REPUBLIC | Agbeze Ireke Kalu Onuma, AI-KO | [Read More](https://medium.com/p/3c484c685e75) |
-| Wed, 10 Jun 2026 09:38:10 GMT | Title: | Haseeb Bilal | [Read More](https://medium.com/p/846c3b435281) |
-| Wed, 10 Jun 2026 09:27:29 GMT | The Login From India — and Why I Didn’t Close the Alert | Melike Fazlioglu - SOC Analyst | [Read More](https://medium.com/p/4a4ea5965b0a) |
-| Wed, 10 Jun 2026 09:26:17 GMT | The Best LED Flood Lights Outdoor That Actually Keep Your Home Safe in 2026 | Criminology Expert | [Read More](https://medium.com/p/32e7d1199770) |
-| Wed, 10 Jun 2026 09:17:15 GMT | 去中心化时代的信任危机 | Marcelkhan | [Read More](https://medium.com/p/0d100437258f) |
-| Wed, 10 Jun 2026 09:15:32 GMT | Why Nmap Still Belongs in Every Security Workflow | Fateyaly | [Read More](https://medium.com/p/228371f676ca) |
-| Wed, 10 Jun 2026 09:14:29 GMT | The Benefits of Reliable IT Support Services for Schools, Colleges, and Universities | CSLN GROUP LTD | [Read More](https://medium.com/p/b4173390df25) |
-| Wed, 10 Jun 2026 09:09:45 GMT | From S3 Bucket Discovery to Impact Analysis: A Real Cloud Security Assessment | Silenthacker | [Read More](https://medium.com/p/937fff949e47) |
-| Wed, 10 Jun 2026 09:07:21 GMT | OverTheWire Bandit Walkthrough — Level 15 → 16 - 30-Day Cybersecurity Learning Journey (Day 15) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/aaa7417e0fb9) |
-| Wed, 10 Jun 2026 09:04:52 GMT | Active Directory Attacks — LSASS Credential Dumping | Osec | [Read More](https://medium.com/p/38a3b2bd928e) |
-| Wed, 10 Jun 2026 09:04:43 GMT | Secure vs Unsecure Protocols: FTP vs SFTP, SSL vs TLS, IPsec, DNSSEC, LDAPS, SRTP & S/MIME… | Shalu | [Read More](https://medium.com/p/a014fde11531) |
-| Wed, 10 Jun 2026 09:03:02 GMT | The Hidden Costs of Crypto Trading Platforms in 2026? | AartiDecode | [Read More](https://medium.com/p/2528e05e7942) |
-| Wed, 10 Jun 2026 08:54:54 GMT | How a Seal Program Transforms Logistics Efficiency and Security | Michael | [Read More](https://medium.com/p/1369412e88cd) |
-| Wed, 10 Jun 2026 08:54:47 GMT | Shri Venkateshwara University will host the Cyber Security Internship Program from 11th june. | Pushpendra Malik Venkateshwara Group Meerut | [Read More](https://medium.com/p/b4a5ae066ccf) |
-| Wed, 10 Jun 2026 08:52:51 GMT | Linux Sudo Privilege Escalation: GTFOBins, LD_PRELOAD, Wildcard Injection and More | Isha Sangpal | [Read More](https://medium.com/p/6a99769d0354) |
-| Wed, 10 Jun 2026 08:30:10 GMT | Brahman and Stathine: | Anand Damani | [Read More](https://medium.com/p/92dea99b41af) |
-| Wed, 10 Jun 2026 08:28:20 GMT | Stop Bringing Ants into Your Home: The Simple Mistake I Made with My Cut Flowers | Sushant Trumart | [Read More](https://medium.com/p/f3fffb327793) |
-| Wed, 10 Jun 2026 08:26:04 GMT | Why Secure Coding is the First Line of Defense in Cybersecurity | Sakib Ahmed Sadi | [Read More](https://medium.com/p/95c1c14f867c) |
