@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Jun 2026 23:19:53 GMT | Fantastic - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/1b764de92575) |
+| Thu, 11 Jun 2026 23:13:07 GMT | Your Former Employees Are Probably Still in Your Systems. Here Is Why That Should Concern You. | Seun Ikubukuola | [Read More](https://medium.com/p/224f72fceba5) |
+| Thu, 11 Jun 2026 23:01:02 GMT | Why Procedures Keep Growing | fmi A. | [Read More](https://medium.com/p/96e1fe78363e) |
+| Thu, 11 Jun 2026 23:01:01 GMT | Build Faster Without Building a Hiring Department | Cryptic Brain | [Read More](https://medium.com/p/f09950876f75) |
+| Thu, 11 Jun 2026 22:54:45 GMT | Top Platforms to Earn from Hacking in 2026 | Vipul Sonule | [Read More](https://medium.com/p/fd4fd51ffcb3) |
+| Thu, 11 Jun 2026 22:47:11 GMT | Performing WHOIS Footprinting | Archie | [Read More](https://medium.com/p/c5a49dc0b559) |
+| Thu, 11 Jun 2026 22:38:19 GMT | BEWARE : Google Calendar Phishing isn’t from Norton! | SafeNetting | [Read More](https://medium.com/p/fe10f0034472) |
+| Thu, 11 Jun 2026 22:20:07 GMT | A General’s Abdication: Why Retired General Christopher Musa is Wrong to Pass the Torch of War to… | Epistemus | [Read More](https://medium.com/p/f2dfb1c653cb) |
+| Thu, 11 Jun 2026 22:11:05 GMT | Data Brokers Are Selling Your Inbox: A 3-Second Hack to Protect Your Digital Identity | TM-Mail.com | [Read More](https://medium.com/p/55804fa55ed1) |
+| Thu, 11 Jun 2026 22:09:38 GMT | The Bug Class - What is Page Cache Writes are in Linux (Beginner to Advanced) PART 01 | dulangaruksh4n | [Read More](https://medium.com/p/654d3ef86f9d) |
+| Thu, 11 Jun 2026 22:03:44 GMT | How to Deploy DFIR-IRIS Incident Response Ticketing System in VirtualBox into your Homelab Setup… | Prince Lassey | [Read More](https://medium.com/p/7661b58e2b9a) |
+| Thu, 11 Jun 2026 22:02:33 GMT | Active Directory Attacks — NTDS.dit Extraction | Osec | [Read More](https://medium.com/p/e3d49dec8675) |
+| Thu, 11 Jun 2026 22:00:33 GMT | I Built a JWT Decoder That Finds Vulnerabilities jwt.io | Kouadiomathias | [Read More](https://medium.com/p/ad9c94c2d000) |
+| Thu, 11 Jun 2026 21:54:37 GMT | CVE-2025–0282: How a One-Line Bug in Ivanti’s VPN Let Attackers Walk Through the Front Door | Kalyan Dev | [Read More](https://medium.com/p/50c65e6347fc) |
+| Thu, 11 Jun 2026 21:34:17 GMT | The Evolution of AgentArmor: Building a Zero-Trust Gateway for Agentic AI | Vikrant Waghmode | [Read More](https://medium.com/p/1d427d625d03) |
 | Thu, 11 Jun 2026 21:29:58 GMT | How a Single KQL Query Stopped an Entire EvilTokens Phishing Campaign | Matt Swann | [Read More](https://medium.com/p/9b9dd4e32920) |
 | Thu, 11 Jun 2026 21:25:44 GMT | “We Encrypt With AES-256” Is Not a Security Architecture | Kalyan Dev | [Read More](https://medium.com/p/17ecffc0cd09) |
 | Thu, 11 Jun 2026 21:24:31 GMT | WAF Report Builder: Turning AWS WAF Logs into Actionable Security Reports | Agustin De Mozzi | [Read More](https://medium.com/p/a2667b911b99) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Jun 2026 13:28:21 GMT | The Biggest Mistakes Businesses Make When Choosing a Security Company in Cardiff | Olivia | [Read More](https://medium.com/p/ca761421be93) |
 | Thu, 11 Jun 2026 13:25:08 GMT | The End of NISQ and the X-14 Array: How 2032 Shattered the RSA-2048 Standard | Cassian Sterling | [Read More](https://medium.com/p/025db3012af2) |
 | Thu, 11 Jun 2026 13:20:27 GMT | Enterprise Windows Security Assessment: Exploit Validation, Detection Engineering, and Endpoint… | Abiodun Aransiola | [Read More](https://medium.com/p/601ca1c447cc) |
-| Thu, 11 Jun 2026 13:15:09 GMT | Getting Started with Offensive Security: How Ethical Hackers Find Hidden Flaws #001 | Mr. Rajak | [Read More](https://medium.com/p/79001628dd24) |
-| Thu, 11 Jun 2026 13:08:55 GMT | Top 20 Cybersecurity Talks — May 2026 | Tal Eliyahu | [Read More](https://medium.com/p/e67929243e6f) |
-| Thu, 11 Jun 2026 13:01:37 GMT | Visitor Management System: The Complete Guide to Smarter, Safer Workplaces in 2026 | Krishna T | [Read More](https://medium.com/p/cab092c098ac) |
-| Thu, 11 Jun 2026 13:01:02 GMT | About Vulnerability | Pauline Evanosky: writer, psychic, channel | [Read More](https://medium.com/p/df7e2ef33a66) |
-| Thu, 11 Jun 2026 12:51:25 GMT | No-FA — picoCTF 2026 Writeup | Devspace | [Read More](https://medium.com/p/d729eed9a43e) |
-| Thu, 11 Jun 2026 12:35:06 GMT | Find Schema Differences Between 2 Oracle Databases and Migrate Them with DataPump | M. Samet Gemici | [Read More](https://medium.com/p/f3a3ab083d49) |
-| Thu, 11 Jun 2026 12:22:03 GMT | Writeup: Espresso — HTB : Step by Step Guidance | Bianca's CyberSecurity Insights | [Read More](https://medium.com/p/8a0f6808c194) |
-| Thu, 11 Jun 2026 12:11:41 GMT | Why AI Is Both a Threat and a Gift for Penetration Testers! | 0xAbhiSec | [Read More](https://medium.com/p/8de45191bf5e) |
-| Thu, 11 Jun 2026 12:09:05 GMT | Your Startup Doesn’t Need More Features. It Needs Better Decisions. | QicApp | [Read More](https://medium.com/p/580c5aa2033c) |
-| Thu, 11 Jun 2026 11:47:19 GMT | Busqueda | Uddhav Sethi | [Read More](https://medium.com/p/4bcb03b2aef7) |
-| Thu, 11 Jun 2026 11:43:55 GMT | Extracting IP Addresses from Server Logs with Python Regex: A SOC Analyst’s First Automation Win | Mbahedmund | [Read More](https://medium.com/p/f126175be7c6) |
-| Thu, 11 Jun 2026 11:42:27 GMT | AWS CloudGoat EC2_SSRF Lab Walkthrough: Step-by-Step Manual Configuration and Exploitation | vikash saw | [Read More](https://medium.com/p/d4ae4d2282ad) |
-| Thu, 11 Jun 2026 11:42:12 GMT | Understanding OWASP Top 10 for Beginners | Mohd Kaif | [Read More](https://medium.com/p/923ece7e50b8) |
-| Thu, 11 Jun 2026 11:38:58 GMT | AML for Freelancers and Crypto Entrepreneurs: How to Protect Your Wallets from Account Freeze | DM | [Read More](https://medium.com/p/4b3bd0b4b35e) |
-| Thu, 11 Jun 2026 11:34:48 GMT | AIFL Interview Series: Professor Nuria Lorenzo-Dus | Aston Institute for Forensic Linguistics (AIFL) | [Read More](https://medium.com/p/4a9f3b51f41d) |
