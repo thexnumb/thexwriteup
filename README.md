@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 11 Jun 2026 01:16:54 GMT | Firewalls: The First Line of Defense in Network Security | Raviteja Mureboina | [Read More](https://medium.com/p/6031943db245) |
+| Thu, 11 Jun 2026 01:02:01 GMT | Your Flutter App’s Secrets Are Exposed — And You Might Not Know It | Roh An | [Read More](https://medium.com/p/c720293792e6) |
+| Thu, 11 Jun 2026 01:00:46 GMT | Samba on Port 445: How Public SMB Exposure Becomes a Critical Attack Surface | Criminal IP | [Read More](https://medium.com/p/92cb3832e308) |
+| Thu, 11 Jun 2026 00:56:06 GMT | Walkthrough - Event ID 44 | Thiago Batista | [Read More](https://medium.com/p/247c7bedf18f) |
+| Thu, 11 Jun 2026 00:48:02 GMT | Arasaka - HackSmarter - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/556e1e2ae4af) |
+| Thu, 11 Jun 2026 00:41:43 GMT | Stop Leaking Your Database IDs With One Secret and Three Lines. | Khan Asfi Reza | [Read More](https://medium.com/p/d833e6561dc3) |
+| Thu, 11 Jun 2026 00:23:10 GMT | Python in CTF’s Writeup - Cylabs | flix | [Read More](https://medium.com/p/a4d806536d8e) |
+| Thu, 11 Jun 2026 00:08:15 GMT | The Post-DROP Household Data-Broker Removal Playbook for 2026 | mePrism Privacy | [Read More](https://medium.com/p/d7bae92b8ea7) |
+| Thu, 11 Jun 2026 00:01:01 GMT | Guía Fundamental Sobre Information Disclosure | JPablo13 | [Read More](https://medium.com/p/8e489a8ae3cd) |
+| Wed, 10 Jun 2026 23:48:40 GMT | TryHackMe Jurassic Park Write-up | ACJ | [Read More](https://medium.com/p/5531f609e0f0) |
+| Wed, 10 Jun 2026 23:43:23 GMT | Your Calls Might Not Be as Private as You Think | steve christopher | [Read More](https://medium.com/p/855957cffa9e) |
+| Wed, 10 Jun 2026 23:41:51 GMT | Your Agent Can Follow Every Rule and Still Lose Everything | Udi | [Read More](https://medium.com/p/ddd465537483) |
+| Wed, 10 Jun 2026 23:25:49 GMT | They All Wear Hoodies. But They Are Not the Same. | Idorenyin Bassey | [Read More](https://medium.com/p/688c2c9ea389) |
+| Wed, 10 Jun 2026 23:23:39 GMT | I Found a Critical OAuth Vulnerability in Open edX — Here’s How It Happened | Abdurrahim Jamalzada | [Read More](https://medium.com/p/48b01b2370d9) |
 | Wed, 10 Jun 2026 23:01:01 GMT | CVEs Explained: The Language of Cybersecurity Vulnerabilities | Sruthi Punugu | [Read More](https://medium.com/p/973ca19ded57) |
+| Wed, 10 Jun 2026 23:01:01 GMT | Is Zero Trust enough for Agentic Systems? | DiUS | [Read More](https://medium.com/p/c581e19aa41e) |
 | Wed, 10 Jun 2026 22:55:16 GMT | There Is No Universal Crypto Scam Restitution Fund — Here’s What Actually Exists | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/c67cfb29de89) |
 | Wed, 10 Jun 2026 22:53:23 GMT | Claude Powered Code Review that scales! | Fade into Tech! | [Read More](https://medium.com/p/b77bb72c14a2) |
 | Wed, 10 Jun 2026 22:17:07 GMT | Public credibility starts with technical trust signals | Mirogate | [Read More](https://medium.com/p/cab6251b9d88) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 10 Jun 2026 15:10:40 GMT | Private Investigator Cell Phone Services: What You Need to Know | Campbell Joe | [Read More](https://medium.com/p/e78cafc8573e) |
 | Wed, 10 Jun 2026 15:07:47 GMT | Why Cybersecurity Awareness Training Is Still Failing in 2026 | Champions Speakers | [Read More](https://medium.com/p/59781a1235a2) |
 | Wed, 10 Jun 2026 15:06:31 GMT | The Adversarial PE Analysis Series, Part 1 — Why PE Parsers Break: Introducing the 99 Adversarial… | MalX Labs | [Read More](https://medium.com/p/1769556ab473) |
-| Wed, 10 Jun 2026 14:54:38 GMT | Your IT Help Desk Is Never Going to Call You | S6 Tech | [Read More](https://medium.com/p/42ba5f6e66bb) |
-| Wed, 10 Jun 2026 14:52:34 GMT | The Cost of Waiting | Rosa Diaz-Casal | [Read More](https://medium.com/p/a1b599f46352) |
-| Wed, 10 Jun 2026 14:52:26 GMT | I’ve Photographed Presidents and Strangers. Here’s What They Have in Common. | Becky Yee | [Read More](https://medium.com/p/0ca8bdc3fadb) |
-| Wed, 10 Jun 2026 14:51:01 GMT | What is Phishing and How to Protect Yourself from It in 2026 | Sabah Sraidi | [Read More](https://medium.com/p/73a4a566ab4c) |
-| Wed, 10 Jun 2026 14:48:19 GMT | Vibe Coding Has a Security Problem | Ashanvi | [Read More](https://medium.com/p/862efa8f69d7) |
-| Wed, 10 Jun 2026 14:46:00 GMT | Security | FRANK LAZARUS, The Murder Hobbyist | [Read More](https://medium.com/p/e6fc692f1956) |
-| Wed, 10 Jun 2026 14:44:21 GMT | Inside the Mind of a Hacker Team: How Cyber Attacks Actually Work | Dhanush N | [Read More](https://medium.com/p/15153cfcd7bc) |
-| Wed, 10 Jun 2026 14:39:24 GMT | Basis Data: Keamanan Basis Data (Akses Pengguna) | RosifaAulia | [Read More](https://medium.com/p/0e408edfbc63) |
-| Wed, 10 Jun 2026 14:35:52 GMT | The Aura Illusion: Mapping a Fake PDF Converter Ecosystem | Rabbit Knight | [Read More](https://medium.com/p/b61730291506) |
-| Wed, 10 Jun 2026 14:33:31 GMT | From Service Account to SYSTEM: Abusing SeImpersonatePrivilege on Windows | Christopher Arock | [Read More](https://medium.com/p/54a1ff0c3b6b) |
-| Wed, 10 Jun 2026 14:30:21 GMT | Breaking Down 0x41haz: A Step-by-Step TryHackMe Reverse Engineering Write-up | A. AntorCSE404 | [Read More](https://medium.com/p/daf1edce1fb0) |
-| Wed, 10 Jun 2026 14:24:06 GMT | I Don’t Speak Much in Meetings, But I Still Have Good Ideas | Sharon Madihlaba | [Read More](https://medium.com/p/eae70d1b37ca) |
-| Wed, 10 Jun 2026 14:12:33 GMT | The Bio-Neural Firewall: Shifting the Post-Quantum Security Paradigm from Silicon to Organic… | Y. J. Han | [Read More](https://medium.com/p/6d2bc1f438b0) |
-| Wed, 10 Jun 2026 14:06:00 GMT | Why Generative AI Talent Is Becoming a Competitive Advantage for Businesses | Xwtempsolutions | [Read More](https://medium.com/p/fa9464823d53) |
-| Wed, 10 Jun 2026 14:03:55 GMT | Find Every Vulnerability with AI Hacklabs + WSTG | Pentester Club | [Read More](https://medium.com/p/361d7f4737b3) |
