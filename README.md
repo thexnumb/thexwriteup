@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Jun 2026 01:45:18 GMT | How to Secure Your Browser: Block Adult Content Using DNS over HTTPS ? | Stack Architect | [Read More](https://medium.com/p/113df4c8c67c) |
+| Fri, 12 Jun 2026 01:35:15 GMT | SecLeaf 7-Day CTF Challenge | APT-0 | [Read More](https://medium.com/p/7606c78da193) |
+| Fri, 12 Jun 2026 01:17:48 GMT | Every IT Professional Started Somewhere — Usually Resetting Passwords | Allan Banday | [Read More](https://medium.com/p/e6a9e77a86bf) |
+| Fri, 12 Jun 2026 01:17:38 GMT | Certificate Transparency as a Timeline Source: Reading CT Logs Like a Forensic Notebook | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/340b3ddf8afe) |
+| Fri, 12 Jun 2026 00:44:11 GMT | Innovative Low-Voltage Security Solutions for California | CCTVSS | [Read More](https://medium.com/p/35f706eba4be) |
+| Fri, 12 Jun 2026 00:30:45 GMT | Your Pokémon Go Camera Data Was Actually Used To Train Military Drones | Chris Daily | [Read More](https://medium.com/p/f03c15e9aab0) |
+| Fri, 12 Jun 2026 00:28:46 GMT | Can i hack my husband’s mistress phone number? | Michael Parks | [Read More](https://medium.com/p/5de5c14d14ea) |
+| Fri, 12 Jun 2026 00:11:46 GMT | CIFM v1.3 Through v1.5: Following AI Into the Dark | Professor Kilroy | [Read More](https://medium.com/p/0b2efbbb37ea) |
+| Fri, 12 Jun 2026 00:10:32 GMT | Architectural Deep-Dive & Validation Mechanics | Lazyboii | [Read More](https://medium.com/p/0580fc45e0f8) |
+| Thu, 11 Jun 2026 23:56:00 GMT | 22 Gmail Mistakes That Turn Your Inbox Into a Spam Magnet (And How to Stop Them) | Tattva Tarang | [Read More](https://medium.com/p/9ab0b5070264) |
+| Thu, 11 Jun 2026 23:45:24 GMT | Top modern AI use cases for ontology | anythingGraph | [Read More](https://medium.com/p/2583eca37519) |
+| Thu, 11 Jun 2026 23:34:29 GMT | When Proxy Infrastructure Monitors Itself: An ASOCKS → 100UP Pivot via Exposed Prometheus | Randall Repass | [Read More](https://medium.com/p/484d47df00d6) |
+| Thu, 11 Jun 2026 23:26:52 GMT | #securityshare: Setup your own “Bunker-server” with your own Hardware — Part 1 | Alexoy Vladimirov | [Read More](https://medium.com/p/1de638a92549) |
 | Thu, 11 Jun 2026 23:19:53 GMT | Fantastic - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/1b764de92575) |
 | Thu, 11 Jun 2026 23:13:07 GMT | Your Former Employees Are Probably Still in Your Systems. Here Is Why That Should Concern You. | Seun Ikubukuola | [Read More](https://medium.com/p/224f72fceba5) |
 | Thu, 11 Jun 2026 23:01:02 GMT | Why Procedures Keep Growing | fmi A. | [Read More](https://medium.com/p/96e1fe78363e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 11 Jun 2026 14:43:01 GMT | Why Managed IT Services Are Essential for Growing Businesses in 2026 | SG Network Bytes | [Read More](https://medium.com/p/2faad83c3aa0) |
 | Thu, 11 Jun 2026 14:39:37 GMT | AI Agents Are Changing Cybersecurity From Both Sides | Scottcmcmahan | [Read More](https://medium.com/p/427b44e23e59) |
 | Thu, 11 Jun 2026 14:31:27 GMT | EU and UK Compliance Frameworks Summary (2026) | Simon | [Read More](https://medium.com/p/ebe3fb4dcec6) |
-| Thu, 11 Jun 2026 14:31:01 GMT | How to Infuse Soul Into Your Writing in the Age of AI | Sari Kamila | [Read More](https://medium.com/p/e92a67c803a7) |
-| Thu, 11 Jun 2026 14:16:59 GMT | Mastering OpenDoor: Low-Noise Recon with Redirects, Endpoint Sniffing, and Bounded Crawl (Part 2) | SWEB | [Read More](https://medium.com/p/411b92675d6d) |
-| Thu, 11 Jun 2026 14:04:26 GMT | Six levels, one lesson: LLMs cannot keep a secret | h@shtalk | [Read More](https://medium.com/p/742927383722) |
-| Thu, 11 Jun 2026 14:00:23 GMT | Claude BugHunter AI: The Ultimate AI Tool for Bug Hunting | Pentester Club | [Read More](https://medium.com/p/00a52a828aa8) |
-| Thu, 11 Jun 2026 13:58:34 GMT | Is it a crime? | Shivam | [Read More](https://medium.com/p/017e5b061f26) |
-| Thu, 11 Jun 2026 13:57:35 GMT | GPS Tracking: Smarter Security, Better Control for Modern Businesses. | Safety Custodian Ltd | [Read More](https://medium.com/p/511e1317c634) |
-| Thu, 11 Jun 2026 13:47:30 GMT | Top 10 AI Tools — Billions Of Visitors Per Month | Facts Figs | [Read More](https://medium.com/p/81bacf654eaf) |
-| Thu, 11 Jun 2026 13:40:43 GMT | What Are Web Servers Like Nginx and Apache? (And Why Should You Care?) | Monik kacha | [Read More](https://medium.com/p/3d37a89c9b33) |
-| Thu, 11 Jun 2026 13:35:51 GMT | My First Step into Cybersecurity: Why I Chose Penetration Testing | Ariel404 | [Read More](https://medium.com/p/1af57daa97ac) |
-| Thu, 11 Jun 2026 13:33:26 GMT | Every Nmap Flag Has a Why — Part 1 | Mohan Sai Krishna G M | [Read More](https://medium.com/p/de82c29f301d) |
-| Thu, 11 Jun 2026 13:28:21 GMT | The Biggest Mistakes Businesses Make When Choosing a Security Company in Cardiff | Olivia | [Read More](https://medium.com/p/ca761421be93) |
-| Thu, 11 Jun 2026 13:25:08 GMT | The End of NISQ and the X-14 Array: How 2032 Shattered the RSA-2048 Standard | Cassian Sterling | [Read More](https://medium.com/p/025db3012af2) |
-| Thu, 11 Jun 2026 13:20:27 GMT | Enterprise Windows Security Assessment: Exploit Validation, Detection Engineering, and Endpoint… | Abiodun Aransiola | [Read More](https://medium.com/p/601ca1c447cc) |
