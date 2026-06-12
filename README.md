@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Jun 2026 21:13:27 GMT | AWS AdministratorAccess Attached to Too Many Users | Ananta Cloud | [Read More](https://medium.com/p/cd065c79ec73) |
+| Fri, 12 Jun 2026 21:10:47 GMT | Excessive Kubernetes Cluster Admin Privileges | Ananta Cloud | [Read More](https://medium.com/p/36c966fd274b) |
+| Fri, 12 Jun 2026 21:00:38 GMT | From Code to Context: My Python Development Journey at Synent Technologies | Contact Khushalidesai | [Read More](https://medium.com/p/e3a8f53c5f03) |
+| Fri, 12 Jun 2026 20:58:30 GMT | SSTI: When the Server Runs What You Type | 0x4rt1st | [Read More](https://medium.com/p/233e81c51b33) |
+| Fri, 12 Jun 2026 20:38:56 GMT | Insider Threat and AI — The Leak Path Left Your DLP Behind | Igor Nesterenko | [Read More](https://medium.com/p/af352466497e) |
+| Fri, 12 Jun 2026 20:37:06 GMT | Internal Penetration Testing: A Real-World Guide to SMB Relay Attacks | Muhammad Jubair Hossain | [Read More](https://medium.com/p/c197fba6db74) |
+| Fri, 12 Jun 2026 20:33:27 GMT | Microsoft Defender Blocked the Malware But The Staged Archive Had No Alert | Durga Sai Sri Ramireddy | [Read More](https://medium.com/p/199d81df9a3b) |
+| Fri, 12 Jun 2026 20:30:13 GMT | How I Found My First Bug in Bug Bounty | kingshark | [Read More](https://medium.com/p/58cad28c61b8) |
+| Fri, 12 Jun 2026 20:24:16 GMT | OSINT Challenge: Finding Ice Poseidon | David Akande | [Read More](https://medium.com/p/9a2b593d53b8) |
+| Fri, 12 Jun 2026 20:09:41 GMT | Your Kubernetes Secrets Are Not Actually Secret — And Most Teams Have No Idea | Surbhi | [Read More](https://medium.com/p/bb3c630a05cd) |
+| Fri, 12 Jun 2026 20:04:55 GMT | How To Pass the Burp Suite Certified Practitioner (BSCP) Exam in 2026 | Shawn | [Read More](https://medium.com/p/c7317b5d5775) |
+| Fri, 12 Jun 2026 19:57:21 GMT | JWT Attacks: Algorithm Confusion Vulnerability | Mayank Kumar Prajapati | [Read More](https://medium.com/p/ce4bcfa3854a) |
+| Fri, 12 Jun 2026 19:54:38 GMT | From a Google Image to a Live Device: Building OSINT Signatures with Modat Magnify | hacker_might | [Read More](https://medium.com/p/cf12022bc23e) |
+| Fri, 12 Jun 2026 19:47:00 GMT | A famosa “segurança” do Linux é real? | Kezzitu | [Read More](https://medium.com/p/f405b031119f) |
+| Fri, 12 Jun 2026 19:44:22 GMT | I Built a SOC Home Lab from Scratch Here’s Everything I Learned
+A practical walkthrough of building… | Hammad Khan - SOC & Pentesting | [Read More](https://medium.com/p/8d2d874f15ff) |
+| Fri, 12 Jun 2026 19:44:17 GMT | HTB Abducted lab | UnStoppable | [Read More](https://medium.com/p/181509e9784e) |
 | Fri, 12 Jun 2026 19:09:46 GMT | Microsoft vs. Nightmare Eclipse: The Zero-Day Revenge Cycle | SOCFortress | [Read More](https://medium.com/p/f1928cabb4d8) |
 | Fri, 12 Jun 2026 19:03:56 GMT | Demystifying Web Auth (Part 3) : OIDC, SSO, SAML | Ujjwal Patil | [Read More](https://medium.com/p/7ae88bc4291a) |
 | Fri, 12 Jun 2026 19:03:47 GMT | NVIDIA Just Killed the CPU-First PC. | Ayshah | [Read More](https://medium.com/p/38303ed042f2) |
@@ -97,19 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Jun 2026 13:00:48 GMT | I Will Prove Myself by Falling Apart | F.uzoma | [Read More](https://medium.com/p/25e3f4084fe8) |
 | Fri, 12 Jun 2026 12:59:44 GMT | DC-8 Vulnhub Walkthrough | Guptahonda | [Read More](https://medium.com/p/a3f48b2a774f) |
 | Fri, 12 Jun 2026 12:56:00 GMT | Linux. Part 6: How Hackers See Running Systems | Ashar Arif | [Read More](https://medium.com/p/292c3c7d1d72) |
-| Fri, 12 Jun 2026 12:50:52 GMT | An Open Invitation to Anthropic: Fable 5 Came 10th on RealVuln. Help Us Put Mythos 5 on the Board. | Jost Faganel | [Read More](https://medium.com/p/18a1e33947a1) |
-| Fri, 12 Jun 2026 12:48:21 GMT | Step-by-Step Guide: Securing Spring Boot REST APIs with JWT | Keshav Meena | [Read More](https://medium.com/p/caf6668438d4) |
-| Fri, 12 Jun 2026 12:24:10 GMT | Watcher (THM) Tryhackme Medium Challenge | Lawvye | [Read More](https://medium.com/p/b3080ef0cb16) |
-| Fri, 12 Jun 2026 12:23:06 GMT | Why High-Quality Data Annotation Is the Foundation of Successful AI Projects | Xwtempsolutions | [Read More](https://medium.com/p/af518530b18f) |
-| Fri, 12 Jun 2026 12:21:37 GMT | SQL Injection 1 (APPRENTICE) | Nadia | [Read More](https://medium.com/p/707493f3f513) |
-| Fri, 12 Jun 2026 12:21:14 GMT | The 3 Unspoken Rules That Keep Penetration Testers Out of Prison | Dhanush N | [Read More](https://medium.com/p/dc70e1c0ced7) |
-| Fri, 12 Jun 2026 12:17:45 GMT | Brooklyn Nine-Nine — THM Walkthrough | r3d | [Read More](https://medium.com/p/60ad4db8a73c) |
-| Fri, 12 Jun 2026 12:17:41 GMT | RAG System Hacking: How Poisoning a Vector Database Becomes Persistent XSS at Scale | @AnandPrajapati | [Read More](https://medium.com/p/c131c527b124) |
-| Fri, 12 Jun 2026 12:08:45 GMT | Static Security Guard vs Mobile Patrol: Which One Fits Your Property? | Wiliam Chris | [Read More](https://medium.com/p/a8f84b455cc7) |
-| Fri, 12 Jun 2026 12:05:50 GMT | Why Whitelisting Root CDN Domains Breaks Your Trust Boundary | Alok kumar | [Read More](https://medium.com/p/f1ec9df4d250) |
-| Fri, 12 Jun 2026 12:04:09 GMT | The Print Button That Handed Me Your Account: Stored XSS to Full ATO on a “Secure” Email Platform | Itachix0f | [Read More](https://medium.com/p/dfd410dee02b) |
-| Fri, 12 Jun 2026 12:03:19 GMT | Lab: Information disclosure in version control history | Songül Kızılay Özügürler | [Read More](https://medium.com/p/a4790fbdaad9) |
-| Fri, 12 Jun 2026 12:01:29 GMT | The evolution from traditional IT support to managed security services | Cloud4C Services | [Read More](https://medium.com/p/739f29f4e43b) |
-| Fri, 12 Jun 2026 11:55:27 GMT | The Future of Bitcoin Wallets, Crypto Tax Rules, and BBA Forum Updates 2026 | The British Blockchain Association (The BBA) | [Read More](https://medium.com/p/0e67b33dca26) |
-| Fri, 12 Jun 2026 11:49:01 GMT | GreatXML: Nightmare Eclipse’s Latest BitLocker Bypass Raises New Questions About Disk Encryption… | Ali Mansoor | [Read More](https://medium.com/p/f425ebfe9807) |
-| Fri, 12 Jun 2026 11:48:55 GMT | Why Linux Vulnerabilities Are Increasing in 2026 | Techrefreshing | [Read More](https://medium.com/p/f584d9c32d1e) |
