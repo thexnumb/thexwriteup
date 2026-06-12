@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Jun 2026 22:34:18 GMT | The Question Is Not Whether AI Helped, but What Was Missing | hide | [Read More](https://medium.com/p/8db42aee2c65) |
+| Fri, 12 Jun 2026 22:06:14 GMT | Integrating an AI-Powered Security Orchestration Workflow into Your Homelab Setup with n8n, Splunk… | Prince Lassey | [Read More](https://medium.com/p/ea3cb616d8af) |
+| Fri, 12 Jun 2026 21:57:29 GMT | Bypassing Edge for Business DLP via Graph API | Dhimitri | [Read More](https://medium.com/p/a3d20e12b093) |
+| Fri, 12 Jun 2026 21:51:46 GMT | The Hint is Hidden in Plain Sight So is The Secret | Akshaykumar Kathirvelu | [Read More](https://medium.com/p/0fb20fc76e51) |
+| Fri, 12 Jun 2026 21:45:49 GMT | TryHackMe Walkthrough: Support | MistressOfTheDarkweb | [Read More](https://medium.com/p/9c32cf570ee1) |
+| Fri, 12 Jun 2026 21:30:56 GMT | I Built a SOC Home Lab Using Wazuh SIEM — Here’s Everything I Learned | Pa1cosmic | [Read More](https://medium.com/p/0793702d002b) |
 | Fri, 12 Jun 2026 21:13:27 GMT | AWS AdministratorAccess Attached to Too Many Users | Ananta Cloud | [Read More](https://medium.com/p/cd065c79ec73) |
 | Fri, 12 Jun 2026 21:10:47 GMT | Excessive Kubernetes Cluster Admin Privileges | Ananta Cloud | [Read More](https://medium.com/p/36c966fd274b) |
 | Fri, 12 Jun 2026 21:00:38 GMT | From Code to Context: My Python Development Journey at Synent Technologies | Contact Khushalidesai | [Read More](https://medium.com/p/e3a8f53c5f03) |
@@ -23,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Jun 2026 20:24:16 GMT | OSINT Challenge: Finding Ice Poseidon | David Akande | [Read More](https://medium.com/p/9a2b593d53b8) |
 | Fri, 12 Jun 2026 20:09:41 GMT | Your Kubernetes Secrets Are Not Actually Secret — And Most Teams Have No Idea | Surbhi | [Read More](https://medium.com/p/bb3c630a05cd) |
 | Fri, 12 Jun 2026 20:04:55 GMT | How To Pass the Burp Suite Certified Practitioner (BSCP) Exam in 2026 | Shawn | [Read More](https://medium.com/p/c7317b5d5775) |
+| Fri, 12 Jun 2026 20:01:00 GMT | OWASPがエージェンティックAIのセキュリティ&ガバナンスガイド改定版を公開 (2026年6月13日公開) | Eiji Sasahara (笹原英司), Ph.D., MBA | [Read More](https://medium.com/p/f536b8172b9b) |
 | Fri, 12 Jun 2026 19:57:21 GMT | JWT Attacks: Algorithm Confusion Vulnerability | Mayank Kumar Prajapati | [Read More](https://medium.com/p/ce4bcfa3854a) |
 | Fri, 12 Jun 2026 19:54:38 GMT | From a Google Image to a Live Device: Building OSINT Signatures with Modat Magnify | hacker_might | [Read More](https://medium.com/p/cf12022bc23e) |
 | Fri, 12 Jun 2026 19:47:00 GMT | A famosa “segurança” do Linux é real? | Kezzitu | [Read More](https://medium.com/p/f405b031119f) |
@@ -107,10 +114,3 @@ A practical walkthrough of building… | Hammad Khan - SOC & Pentesting | [Read 
 | Fri, 12 Jun 2026 13:31:00 GMT | $750 Authorization Bypass: Enumerating Calendar Forms via Group Type ID | Abhi Sharma | [Read More](https://medium.com/p/c3c18d3f7230) |
 | Fri, 12 Jun 2026 13:29:22 GMT | InfoSec World 2026 Orlando Exhibition Stand Builder | vcraft studio | [Read More](https://medium.com/p/7d8817f47ea3) |
 | Fri, 12 Jun 2026 13:28:55 GMT | Complete Evidence Base: Security Audit of MAX Messenger | entropy | [Read More](https://medium.com/p/d6fce618a648) |
-| Fri, 12 Jun 2026 13:17:45 GMT | Blind vs Out-of-Band Vulnerabilities: Understanding the Difference Every Security Researcher Should… | HaNam0n - HANAFEYZ | [Read More](https://medium.com/p/72a4bc9866eb) |
-| Fri, 12 Jun 2026 13:11:13 GMT | Meta Internals — Interacting with Hidden Code | Jugertmucoimaj | [Read More](https://medium.com/p/76f131a7962a) |
-| Fri, 12 Jun 2026 13:10:49 GMT | How unverified SaaS signups become phishing infrastructure | Giedrius | [Read More](https://medium.com/p/bd4f3f57da0f) |
-| Fri, 12 Jun 2026 13:10:40 GMT | Ever wondered how 2FA authenticator works? | Gadangi Sainag | [Read More](https://medium.com/p/2a3d6734bfce) |
-| Fri, 12 Jun 2026 13:00:48 GMT | I Will Prove Myself by Falling Apart | F.uzoma | [Read More](https://medium.com/p/25e3f4084fe8) |
-| Fri, 12 Jun 2026 12:59:44 GMT | DC-8 Vulnhub Walkthrough | Guptahonda | [Read More](https://medium.com/p/a3f48b2a774f) |
-| Fri, 12 Jun 2026 12:56:00 GMT | Linux. Part 6: How Hackers See Running Systems | Ashar Arif | [Read More](https://medium.com/p/292c3c7d1d72) |
