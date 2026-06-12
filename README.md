@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 12 Jun 2026 19:09:46 GMT | Microsoft vs. Nightmare Eclipse: The Zero-Day Revenge Cycle | SOCFortress | [Read More](https://medium.com/p/f1928cabb4d8) |
+| Fri, 12 Jun 2026 19:03:56 GMT | Demystifying Web Auth (Part 3) : OIDC, SSO, SAML | Ujjwal Patil | [Read More](https://medium.com/p/7ae88bc4291a) |
+| Fri, 12 Jun 2026 19:03:47 GMT | NVIDIA Just Killed the CPU-First PC. | Ayshah | [Read More](https://medium.com/p/38303ed042f2) |
+| Fri, 12 Jun 2026 19:01:00 GMT | 5 JWT Mistakes That Keep Showing Up in Production CVEs | Hafiq Iqmal | [Read More](https://medium.com/p/8aa8bc532836) |
+| Fri, 12 Jun 2026 18:37:06 GMT | StuxCTF (THM) Tryhackme Medium Challenge | Lawvye | [Read More](https://medium.com/p/b0deb7db8a8a) |
+| Fri, 12 Jun 2026 18:33:15 GMT | Why I Love Shows Like Silo, Severance, and The Expanse | Matt Ray | [Read More](https://medium.com/p/8f433d5b77a8) |
+| Fri, 12 Jun 2026 18:32:12 GMT | The day I counted my API keys and stopped feeling clever | Avijit | [Read More](https://medium.com/p/11c84e527918) |
+| Fri, 12 Jun 2026 18:31:24 GMT | Stop Screenshot Leaks in Your React Native App Before It’s Too Late | AppStitch | [Read More](https://medium.com/p/66cdd488efef) |
+| Fri, 12 Jun 2026 18:27:00 GMT | Reducing Alert Fatigue: A Step-by-Step Guide to Fine-Tuning SIEM False Positives | Majji pradeep kumar | [Read More](https://medium.com/p/8a0f88ae5004) |
+| Fri, 12 Jun 2026 18:26:15 GMT | Windows Recycle Bin Forensics: What Deleted Files Leave Behind | Honeyknows | [Read More](https://medium.com/p/3c3fb381e2c2) |
+| Fri, 12 Jun 2026 18:21:05 GMT | AI Jailbreak: The Cybersecurity Threat Hidden Inside Generative AI | CyberRise Institute | [Read More](https://medium.com/p/c34d10800d4a) |
+| Fri, 12 Jun 2026 18:18:03 GMT | Build a Successful Cybersecurity Career with Expert Job Support | Jobsupportguru | [Read More](https://medium.com/p/269edaea0d02) |
+| Fri, 12 Jun 2026 18:17:08 GMT | ServiceNow Didn’t Get Hacked. It Left the Door Open. | Shreeya_Naik | [Read More](https://medium.com/p/2c88c0c21852) |
+| Fri, 12 Jun 2026 18:16:38 GMT | Securing Your Mac’s Secrets: A Better Way | Mad Machine | [Read More](https://medium.com/p/76ca0fcad00a) |
+| Fri, 12 Jun 2026 18:14:22 GMT | Hey guys, i’m new on medium and this is my first post…. | Najeebparkar | [Read More](https://medium.com/p/2be9412b53a3) |
+| Fri, 12 Jun 2026 18:06:23 GMT | IT Digital Services Explained Key Solutions for Competitive Advantage | 2isolutions Inc. USA | [Read More](https://medium.com/p/3c1d77bc9394) |
+| Fri, 12 Jun 2026 17:55:13 GMT | SSRF Prevention: How You Actually Close This Off | 0x4rt1st | [Read More](https://medium.com/p/3139af0dfc73) |
+| Fri, 12 Jun 2026 17:48:13 GMT | “What if you could understand how top automotive & manufacturing companies manage millions of… | SamIT Technology | [Read More](https://medium.com/p/e92a064e45df) |
+| Fri, 12 Jun 2026 17:35:28 GMT | Building a Strong Cybersecurity Foundation: My Journey Through Linux, Virtualization, Networking… | Asifhussain | [Read More](https://medium.com/p/c3134cd64c73) |
+| Fri, 12 Jun 2026 17:32:17 GMT | The Circuit Nobody Could Find: How Exact-Match Searching Nearly Cost Me the Audit | Kerry Kier | [Read More](https://medium.com/p/7841f36cabd1) |
+| Fri, 12 Jun 2026 17:31:00 GMT | The Fear of Being Seen | Noel Grace | [Read More](https://medium.com/p/96781d2350df) |
 | Fri, 12 Jun 2026 17:15:24 GMT | The Frictionless Pivot: Moving Traditional Brick-and-Mortar to Digital-First (Without the Crash) | Sourodeep | [Read More](https://medium.com/p/35a03a80d6e1) |
 | Fri, 12 Jun 2026 17:11:04 GMT | CloudSecAIOps: Building an Autonomous Cloud Self-Healer with GitOps and AI Agent | Jagadeesh Dharmudu | [Read More](https://medium.com/p/340de70a3db7) |
 | Fri, 12 Jun 2026 17:10:47 GMT | You Have My Soul, Now You Deserve My Body | Manish Shaw | [Read More](https://medium.com/p/798b3c0e58fa) |
@@ -92,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 12 Jun 2026 11:55:27 GMT | The Future of Bitcoin Wallets, Crypto Tax Rules, and BBA Forum Updates 2026 | The British Blockchain Association (The BBA) | [Read More](https://medium.com/p/0e67b33dca26) |
 | Fri, 12 Jun 2026 11:49:01 GMT | GreatXML: Nightmare Eclipse’s Latest BitLocker Bypass Raises New Questions About Disk Encryption… | Ali Mansoor | [Read More](https://medium.com/p/f425ebfe9807) |
 | Fri, 12 Jun 2026 11:48:55 GMT | Why Linux Vulnerabilities Are Increasing in 2026 | Techrefreshing | [Read More](https://medium.com/p/f584d9c32d1e) |
-| Fri, 12 Jun 2026 11:47:50 GMT | A2A ecosystem: Gemini Enterprise Core Assistant as A2A Agent. Part 2. | Olejniczak Lukasz | [Read More](https://medium.com/p/82f58055b018) |
-| Fri, 12 Jun 2026 11:36:28 GMT | Why Your Password Is Already a Liability (And What AuthPoint MFA Does Differently) | Periscope Tech | [Read More](https://medium.com/p/f333834198a5) |
-| Fri, 12 Jun 2026 11:33:42 GMT | MTN APN Settings | Best Tech Secret & Ai Info | [Read More](https://medium.com/p/da5f4fe5b6a7) |
-| Fri, 12 Jun 2026 11:33:22 GMT | Top 5 Tools Every Beginner Bug Hunter Needs | Jelly - SecOps | [Read More](https://medium.com/p/7f0b7024bbb4) |
-| Fri, 12 Jun 2026 11:31:00 GMT | IDOR — The Easiest Critical Bug You’ll Ever Find | Nitin yadav | [Read More](https://medium.com/p/fe324f36ff7c) |
-| Fri, 12 Jun 2026 11:31:00 GMT | The Most Dangerous Linux Admin Is the Confident One | Faruk Ahmed | [Read More](https://medium.com/p/8b4b46fb7b9f) |
-| Fri, 12 Jun 2026 11:30:59 GMT | The Clocktower Anomaly | Ash Noor | [Read More](https://medium.com/p/cf81c1b46dd6) |
-| Fri, 12 Jun 2026 11:15:24 GMT | Ivanti Sentry Exploitation Attempts Highlight the Need for Proactive Vulnerability Management | Jas | [Read More](https://medium.com/p/04ce4c01bd8e) |
-| Fri, 12 Jun 2026 11:04:39 GMT | Why Your Subdomain Takeover Reports Keep Getting Closed as N/A (And How to Fix It). | Omar Mahmoud | [Read More](https://medium.com/p/8eb93f0ab320) |
-| Fri, 12 Jun 2026 11:03:27 GMT | DVAPI Walkthrough: A Complete API Penetration Testing Guide | Parthick | [Read More](https://medium.com/p/0393e72c9552) |
-| Fri, 12 Jun 2026 10:56:44 GMT | TryHackMe IR Preparation Walkthrough - Incident Response Fundamentals | ghosteye | [Read More](https://medium.com/p/a8efbfcba739) |
-| Fri, 12 Jun 2026 10:53:49 GMT | Grab Your Red Hat Certification This Summer While You Still Can | cybersecuritycourse | [Read More](https://medium.com/p/3d8be4b7c8f2) |
-| Fri, 12 Jun 2026 10:48:23 GMT | AI Jailbreak Debates Highlight the Growing Need for Robust AI Security Governance | Jas | [Read More](https://medium.com/p/a4de4270b929) |
-| Fri, 12 Jun 2026 10:44:25 GMT | Malware Analysis: Understanding and Defeating Malicious Software | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/052fcfda0fa2) |
-| Fri, 12 Jun 2026 10:42:13 GMT | OverTheWire Bandit Walkthrough — Level 16 → 17 - 30-Day Cybersecurity Learning Journey (Day 16) | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/462f07cb6666) |
-| Fri, 12 Jun 2026 10:42:00 GMT | LabEx Challenges: LeetCode for Linux | LabEx | [Read More](https://medium.com/p/1e28957defea) |
-| Fri, 12 Jun 2026 10:39:18 GMT | The Security Questions Every Business Leader Should Ask Their IT Team | Sanjiv Cherian | [Read More](https://medium.com/p/b5d3f10d123d) |
-| Fri, 12 Jun 2026 10:34:56 GMT | How Can You Effectively Train to Become a Cybersecurity Professional? | SecuRetain | [Read More](https://medium.com/p/fb7f2b237653) |
-| Fri, 12 Jun 2026 10:32:34 GMT | The Hacker’s Playbook Revealed: Understanding the Diamond Model, Cyber Kill Chain, and MITRE ATT&CK… | Shalu | [Read More](https://medium.com/p/2eb9818eac4c) |
-| Fri, 12 Jun 2026 10:31:54 GMT | Pluck CMS 4.7.13 - CVE-2020–29607 - Remote Code Execution via File Upload | Fadliyanramaditia | [Read More](https://medium.com/p/217cc61757f7) |
-| Fri, 12 Jun 2026 10:31:13 GMT | NanoChain treats sensitive actions like real agreements, not blind transactions. | NanoChain | [Read More](https://medium.com/p/1c56e4dc724a) |
