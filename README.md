@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Jun 2026 12:54:05 GMT | What I Learned Starting Cybersecurity: A Beginner’s Guide to Hacking, VMs, Linux, and Networks. | Vinayapriya | [Read More](https://medium.com/p/879329a63981) |
+| Sat, 13 Jun 2026 12:43:06 GMT | What Is Fable 5? Claude’s Newest Model, Explained and Why the U.S. Banned It | Ai studio | [Read More](https://medium.com/p/a242f5ac43ba) |
+| Sat, 13 Jun 2026 12:39:13 GMT | 0day — TryHackMe WalkThrough with flags | Rayenhafsawy | [Read More](https://medium.com/p/d37776be7b29) |
+| Sat, 13 Jun 2026 12:32:21 GMT | DockerLabs CTF: Countdown Walkthrough — WPvivid RCE & Advanced Hex File Reconstruction | SWALE | [Read More](https://medium.com/p/1b9b081e1ec6) |
+| Sat, 13 Jun 2026 12:31:00 GMT | The Linux Habit That Made Me Rethink Every Security Review | Faruk Ahmed | [Read More](https://medium.com/p/9d652199652d) |
+| Sat, 13 Jun 2026 12:28:30 GMT | Why QR Code Scams Are Exploding in 2026-The Threat Hiding in Plain Sight | Siri | [Read More](https://medium.com/p/643d2b8d5118) |
+| Sat, 13 Jun 2026 12:27:57 GMT | Why More Retailers Are Investing in a Security Company in Cardiff Instead of Relying on CCTV Alone | Olivia | [Read More](https://medium.com/p/7f8154250f9f) |
+| Sat, 13 Jun 2026 12:26:13 GMT | The Art of Pretending You Don’t Need Flowers | Pagesofthejoy | [Read More](https://medium.com/p/e45d6e67ddb5) |
+| Sat, 13 Jun 2026 12:25:58 GMT | Series: The Breach Files | Shwet | [Read More](https://medium.com/p/1b66b03dc063) |
+| Sat, 13 Jun 2026 12:24:43 GMT | The Alert Was Never the Problem | Sonu Goswami - B2B SaaS Positioning Specialist | [Read More](https://medium.com/p/364e2c00a7e1) |
+| Sat, 13 Jun 2026 12:23:16 GMT | OpenAI Profiler inference in Azure Machine learning compute instance | Balamurugan Balakreshnan | [Read More](https://medium.com/p/805975da6775) |
+| Sat, 13 Jun 2026 12:21:58 GMT | Claude Fable 5 lasted three days. Then the US government pulled it. | Rapls | [Read More](https://medium.com/p/72cd39b4f433) |
+| Sat, 13 Jun 2026 12:12:49 GMT | Gatehouse Security vs Remote Access Control: Which One Actually Stops Unauthorised Entry? | Henry Carter | [Read More](https://medium.com/p/223ab44875bc) |
+| Sat, 13 Jun 2026 12:11:52 GMT | SS7 & 5G NR NetOps LLM Copilot - AI-Powered Red Teaming | Pentester Club | [Read More](https://medium.com/p/b7848307f4c6) |
+| Sat, 13 Jun 2026 12:09:36 GMT | The University of Nottingham Data Breach: What We Know So Far | zsaasz | [Read More](https://medium.com/p/8227924dbd3d) |
+| Sat, 13 Jun 2026 11:53:32 GMT | How to Build a Role-Based Access Control (RBAC) System | Ushani Saubhagya | [Read More](https://medium.com/p/2a32df0dcd85) |
+| Sat, 13 Jun 2026 11:36:29 GMT | Linux Administration: User and Group Management | Hyunjae | [Read More](https://medium.com/p/60ce2bbb372b) |
+| Sat, 13 Jun 2026 11:34:59 GMT | AI in Cybersecurity: From Machine Learning to LLMs, Threats, and Defense | Tanish Choudhary | [Read More](https://medium.com/p/27b35499c9ed) |
+| Sat, 13 Jun 2026 11:31:00 GMT | Reflected XSS Made Stupidly Simple | Nitin yadav | [Read More](https://medium.com/p/16cff68672cb) |
+| Sat, 13 Jun 2026 11:22:19 GMT | How do hackers steal cookies? | Elvinlatifli | [Read More](https://medium.com/p/02118c8c3df3) |
+| Sat, 13 Jun 2026 11:16:40 GMT | 1. CVE | Hafidhbakar | [Read More](https://medium.com/p/28189cf39e35) |
 | Sat, 13 Jun 2026 11:12:33 GMT | TryHackMe CTF Challenge: VulnNet: Roasted (Write-up) | Fuad Khan | [Read More](https://medium.com/p/b4fe339dcf0c) |
 | Sat, 13 Jun 2026 11:08:01 GMT | HOW AI IS
 CHANGING
@@ -93,24 +114,3 @@ CYBER SECURITY | Orandhave | [Read More](https://medium.com/p/f5de816bab5d) |
 | Sat, 13 Jun 2026 01:19:22 GMT | 10 Types of Hackers You Should Know | Express Bold | [Read More](https://medium.com/p/f0345b78c686) |
 | Sat, 13 Jun 2026 00:44:09 GMT | Nibbles - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/492853db8ff8) |
 | Sat, 13 Jun 2026 00:34:29 GMT | Implementing Agentic Zero Trust | Manu Cohen-Yashar | [Read More](https://medium.com/p/0f6e38567274) |
-| Sat, 13 Jun 2026 00:33:58 GMT | Exposed Sensitive Logs and SQL Queries Revealing User Data | mrci0x1 | [Read More](https://medium.com/p/0927b973878a) |
-| Sat, 13 Jun 2026 00:30:01 GMT | Research and Writeups | 7s26Simon | [Read More](https://medium.com/p/a34c5703402f) |
-| Sat, 13 Jun 2026 00:24:35 GMT | Everyone Wants to Work in Cybersecurity. Nobody Talks About This Part. | Prarupmanandhar | [Read More](https://medium.com/p/54607fb07c93) |
-| Sat, 13 Jun 2026 00:21:03 GMT | Bootes | ES Strauss | [Read More](https://medium.com/p/c37ecf729a3f) |
-| Sat, 13 Jun 2026 00:14:02 GMT | Are you in pain? aliali681136@gmail.com | Aliali | [Read More](https://medium.com/p/36f802dbe1eb) |
-| Sat, 13 Jun 2026 00:02:16 GMT | The Day NASA Almost Lost a Mars Rover Because of a Priority Inversion Bug | Abhisheyk Gaur | [Read More](https://medium.com/p/b8e379867abe) |
-| Sat, 13 Jun 2026 00:01:01 GMT | Essential Guide to Information Disclosure | JPablo13 | [Read More](https://medium.com/p/5eac7a799f2b) |
-| Fri, 12 Jun 2026 23:59:31 GMT | Fable 5 dropped and I’m suddenly a lot more paranoid about my VS Code extensions | Ishaan Agrawal | [Read More](https://medium.com/p/1ba94bcf33bb) |
-| Fri, 12 Jun 2026 23:44:24 GMT | A Walkthrough On How OSINT Works | ThatCyberGirl | [Read More](https://medium.com/p/11ceb342c3e8) |
-| Fri, 12 Jun 2026 23:22:03 GMT | I Sold Cybersecurity AI for Years. Here’s What Buyers Actually Ask. | Jay Nichols | [Read More](https://medium.com/p/8d657ef3432f) |
-| Fri, 12 Jun 2026 23:18:27 GMT | What is Brie — Bug Capture Tool? | Ion Leu | [Read More](https://medium.com/p/d8a767f4483e) |
-| Fri, 12 Jun 2026 23:09:12 GMT | 3 Ways Cyber-criminals Steal Your Personal Information and How To Protect Yourself | Elitestyletech | [Read More](https://medium.com/p/ed4fec852685) |
-| Fri, 12 Jun 2026 22:57:17 GMT | How do organizations get from data to decisions? | Amir Hossein Bagheri - AHB1998 | [Read More](https://medium.com/p/2e1361fe9e0f) |
-| Fri, 12 Jun 2026 22:34:18 GMT | The Question Is Not Whether AI Helped, but What Was Missing | hide | [Read More](https://medium.com/p/8db42aee2c65) |
-| Fri, 12 Jun 2026 22:06:14 GMT | Integrating an AI-Powered Security Orchestration Workflow into Your Homelab Setup with n8n, Splunk… | Prince Lassey | [Read More](https://medium.com/p/ea3cb616d8af) |
-| Fri, 12 Jun 2026 21:57:29 GMT | Bypassing Edge for Business DLP via Graph API | Dhimitri | [Read More](https://medium.com/p/a3d20e12b093) |
-| Fri, 12 Jun 2026 21:51:46 GMT | The Hint is Hidden in Plain Sight So is The Secret | Akshaykumar Kathirvelu | [Read More](https://medium.com/p/0fb20fc76e51) |
-| Fri, 12 Jun 2026 21:45:49 GMT | TryHackMe Walkthrough: Support | MistressOfTheDarkweb | [Read More](https://medium.com/p/9c32cf570ee1) |
-| Fri, 12 Jun 2026 21:30:56 GMT | I Built a SOC Home Lab Using Wazuh SIEM — Here’s Everything I Learned | Pa1cosmic | [Read More](https://medium.com/p/0793702d002b) |
-| Fri, 12 Jun 2026 21:13:27 GMT | AWS AdministratorAccess Attached to Too Many Users | Ananta Cloud | [Read More](https://medium.com/p/cd065c79ec73) |
-| Fri, 12 Jun 2026 21:10:47 GMT | Excessive Kubernetes Cluster Admin Privileges | Ananta Cloud | [Read More](https://medium.com/p/36c966fd274b) |
