@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Jun 2026 22:45:53 GMT | Sovereignty Moves the Kill Switch. It Doesn’t Fill the Referee Chair. | Pharns | [Read More](https://medium.com/p/24ad2a709b9a) |
+| Sat, 13 Jun 2026 22:03:45 GMT | Can AI Replace Security Guards? The Truth for Alberta Businesses | Attaullah Trdp | [Read More](https://medium.com/p/ac5cb8450673) |
+| Sat, 13 Jun 2026 22:01:00 GMT | Third-Party Code Just Beat Passwords in Google’s Cloud Data | James Kuhman | [Read More](https://medium.com/p/74257c360719) |
+| Sat, 13 Jun 2026 21:51:52 GMT | How I Was Able to Create an Account on Any Third Party Application Using an Acronis-owned Email… | Vineet Singh | [Read More](https://medium.com/p/b0eaafdf55de) |
 | Sat, 13 Jun 2026 21:38:07 GMT | Senario 1: Red Team vs Blue Team: How to Execute a Kerberoasting Attack and Detect It Using Wazuh… | Ibrahim Dia (Kg4real) | [Read More](https://medium.com/p/13185ea39272) |
 | Sat, 13 Jun 2026 21:08:13 GMT | AES-256-GCM secures billions daily. Learn how it works and how nonce reuse breaks security. | Arsh Mishra | [Read More](https://medium.com/p/5508c1578a92) |
 | Sat, 13 Jun 2026 21:07:16 GMT | The Shadow You: When Your Digital Twin Knows You Better Than You Know Yourself | Challaravinder | [Read More](https://medium.com/p/a4e0ae2a755b) |
@@ -109,7 +113,3 @@ The Ultimate Game of Follow-the-Leader: How Rockets Use Space… | Mihika Vashis
 | Sat, 13 Jun 2026 14:00:05 GMT | 10 GitHub repositories so good they shouldn't be free. | ㅤㅤㅤㅤㅤㅤㅤㅤㅤ | [Read More](https://medium.com/p/2ff46761dc6f) |
 | Sat, 13 Jun 2026 13:51:04 GMT | You Would Not Hire Someone and Give Them the Keys to Everything on Day One. | Anirban Biswas | [Read More](https://medium.com/p/70540b410bcd) |
 | Sat, 13 Jun 2026 13:44:58 GMT | Cross-site scripting 1 (APPRENTICE) | Nadia | [Read More](https://medium.com/p/dcb4e5db4518) |
-| Sat, 13 Jun 2026 13:42:39 GMT | Bir Domain’in Arkasında Neler Var? Bash ile Otomatik OSINT | Znurkiraz | [Read More](https://medium.com/p/8be70bcfadf6) |
-| Sat, 13 Jun 2026 13:39:05 GMT | Prosedur, Fungsi, dan Trigger | Azka | [Read More](https://medium.com/p/dfbf09d1fe79) |
-| Sat, 13 Jun 2026 13:28:47 GMT | API Attacks 101: API’ler Neden Kritik Bir Saldırı Yüzeyi? | İlkan Aydoğan | [Read More](https://medium.com/p/4d2471a34787) |
-| Sat, 13 Jun 2026 13:25:52 GMT | Why SMBs Are the New Target: What 25 Years in Cybersecurity Taught Me About the Threats Nobody… | Dan Gericke | [Read More](https://medium.com/p/7feca3826edc) |
