@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Jun 2026 16:47:25 GMT | My First Day as a Penetration Tester Was Nothing Like the YouTube Videos Showed. | CYBER MIND SPACE | [Read More](https://medium.com/p/390ef353c069) |
+| Sat, 13 Jun 2026 16:31:17 GMT | When a Partner Pulls the Plug: What the Fable 5 Ban Tells Europe About Digital Autonomy | Mat Cyb3rF0x Fuchs | [Read More](https://medium.com/p/ee4321c4d001) |
+| Sat, 13 Jun 2026 16:31:00 GMT | 7 Docker Security Best Practices for Production | bektiaw | [Read More](https://medium.com/p/64499519d5da) |
+| Sat, 13 Jun 2026 16:30:45 GMT | Not Every Scar Should Be Shown | Yamanta Raj Niroula | [Read More](https://medium.com/p/25c42be8ed78) |
+| Sat, 13 Jun 2026 16:22:50 GMT | Lessons Learned: Attack Flow, False Positives, and the SGMS Maturity Model | Oğuzhan karadağ | [Read More](https://medium.com/p/3a36dfc04bfa) |
+| Sat, 13 Jun 2026 16:22:36 GMT | Dersler: Attack Flow, False Positive Yönetimi ve SGMS Olgunluk Modeli | Oğuzhan karadağ | [Read More](https://medium.com/p/3e7c3290db01) |
+| Sat, 13 Jun 2026 16:14:51 GMT | Critical Palo Alto PAN-OS Vulnerability Enables Arbitrary Command Execution as Root User… | Surendra Reddy | [Read More](https://medium.com/p/25197038bee2) |
+| Sat, 13 Jun 2026 16:12:42 GMT | Docker: The Startup Project That Accidentally Changed Computing | Sam Writes Security | [Read More](https://medium.com/p/7b4b854054a0) |
+| Sat, 13 Jun 2026 16:12:18 GMT | My Security Analyst Internship Journey at Oasis Infobyte | Harshit Sudan | [Read More](https://medium.com/p/fa4e3c43e132) |
+| Sat, 13 Jun 2026 16:09:37 GMT | Building a Beginner-Friendly Vulnerability Scanner in Python | Tony Kahare | [Read More](https://medium.com/p/a241af3ad595) |
+| Sat, 13 Jun 2026 15:58:54 GMT | The Rise of the Agentic Cyber Platform: Where AI for Cyber Meets Cyber for AI | Subhodeep G | [Read More](https://medium.com/p/f21e3accb8bf) |
+| Sat, 13 Jun 2026 15:52:56 GMT | Vulnversity — TryHackMe Walkthrough | DoctorNeko | [Read More](https://medium.com/p/4a231da4b494) |
+| Sat, 13 Jun 2026 15:49:06 GMT | Linux Privilege Escalation via Writable /etc/passwd | Isha Sangpal | [Read More](https://medium.com/p/13934aa2797f) |
+| Sat, 13 Jun 2026 15:32:43 GMT | Explore High-Puff Disposable Vapes at Top Disposable Vape — 2026 Buyer’s Guide | Hadley Graham | [Read More](https://medium.com/p/b75b1066c26f) |
+| Sat, 13 Jun 2026 15:24:36 GMT | Why Are Privacy Users Looking Beyond Traditional Search? | onion links | [Read More](https://medium.com/p/282c82c91acc) |
+| Sat, 13 Jun 2026 15:23:06 GMT | Bypassing SMB Signing: Escalating Privileges via Cross-Protocol NTLM to LDAP Relaying | 0xHer0 | [Read More](https://medium.com/p/c594f6e25b38) |
+| Sat, 13 Jun 2026 15:18:33 GMT | gdorksAI: Applying Artificial Intelligence to Google Dorks | Brookz | [Read More](https://medium.com/p/98c25ff3d3ba) |
+| Sat, 13 Jun 2026 15:11:11 GMT | How Firewalls Keep Hackers Out | Raviteja Mureboina | [Read More](https://medium.com/p/5372a5e3d283) |
 | Sat, 13 Jun 2026 15:05:02 GMT | SIA LICENSED SECURITY GUARDS IN THE UK. | Dynamic security solution ltd | [Read More](https://medium.com/p/c96db42069dc) |
 | Sat, 13 Jun 2026 15:03:44 GMT | PRIVATE SECTOR LEADS NATIONAL AGRICULTURE RESILIENCE INITIATIVE | World News Today | [Read More](https://medium.com/p/7a9bc0a8564c) |
 | Sat, 13 Jun 2026 14:53:55 GMT | How I Won a $670 Bug Bounty Using Burp AI: From Recon to Responsible Disclosure | Cybervolt | [Read More](https://medium.com/p/1985546adc39) |
@@ -30,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Jun 2026 14:24:29 GMT | Nobody Taught Me Malware Analysis. I Had to Figure It Out the Hard Way. | Nikhi Chavan | [Read More](https://medium.com/p/ef0653b4b72c) |
 | Sat, 13 Jun 2026 14:24:10 GMT | Wgel CTF by Mike the Hacker | Ramkumar | [Read More](https://medium.com/p/11a64963f0b1) |
 | Sat, 13 Jun 2026 14:20:28 GMT | Understanding LSD Effects and Risks: What Current Research Shows | Tor BBB | [Read More](https://medium.com/p/5aa4742fc0f1) |
+| Sat, 13 Jun 2026 14:06:55 GMT | Data-driven Programming：讓數據決定程式邏輯 | 思維舞步 MindSteps | [Read More](https://medium.com/p/34ba40e94c68) |
 | Sat, 13 Jun 2026 14:06:45 GMT | Anthropic Built an AI Too Dangerous to Release Publicly. | Toyez | [Read More](https://medium.com/p/2449d724b2f6) |
 | Sat, 13 Jun 2026 14:04:00 GMT | Zero Trust for Python Security: A Practical Checklist | Maikel Mardjan | [Read More](https://medium.com/p/fab2f50c12c0) |
 | Sat, 13 Jun 2026 14:01:03 GMT | Threat Hunting with WAF - LetsDefend | 0verRida | [Read More](https://medium.com/p/acc9c4cb56a6) |
@@ -95,22 +114,3 @@ CYBER SECURITY | Orandhave | [Read More](https://medium.com/p/f5de816bab5d) |
 | Sat, 13 Jun 2026 08:13:35 GMT | The Complete Guide to Merging PDF Files Online Everything you need to know | Smartpdflab | [Read More](https://medium.com/p/69fcf55ec64a) |
 | Sat, 13 Jun 2026 08:11:27 GMT | Is It Really Worth Paying for a VPN When There Are So Many Free Ones Available? | Ethan Carter | [Read More](https://medium.com/p/cc56f58e3786) |
 | Sat, 13 Jun 2026 08:07:43 GMT | motion activated security cameraThe Best Motion Activated Security Camera for Your Home — A Quick… | Criminology Expert | [Read More](https://medium.com/p/ff25e1688ab3) |
-| Sat, 13 Jun 2026 08:02:22 GMT | Understanding Process Memory and Cross-Process Operations in Windows | Sunilkumar | [Read More](https://medium.com/p/84f3d4708484) |
-| Sat, 13 Jun 2026 07:59:20 GMT | How a BOLA Vulnerability Escalated Into Full Account Takeover | Rafly Ramadhan | [Read More](https://medium.com/p/9eda7f595b82) |
-| Sat, 13 Jun 2026 07:58:59 GMT | The Next Enterprise Security Crisis Isn’t Data Leakage — It’s Decision Leakage | Mao Lin Chang (Pen Name:Yifei Shang) | [Read More](https://medium.com/p/3bc6f1fab41b) |
-| Sat, 13 Jun 2026 07:54:08 GMT | The AI Capacity Storm Is Here | Practical IT | [Read More](https://medium.com/p/aa86656013ea) |
-| Sat, 13 Jun 2026 07:35:38 GMT | The Silent Alarm: Why Great Security Fails Without the Right Message | HackTheCyber | [Read More](https://medium.com/p/5af288a00ab7) |
-| Sat, 13 Jun 2026 07:31:24 GMT | Intro to InfoSec.. | Snappy | [Read More](https://medium.com/p/25ad1136831e) |
-| Sat, 13 Jun 2026 07:31:01 GMT | Amazon Had a 6-Hour Outage in March 2026. | Toyez | [Read More](https://medium.com/p/96fdacee23e2) |
-| Sat, 13 Jun 2026 07:23:21 GMT | Understanding Windows Thread Programming: The Real Execution Engine Behind Every Process | Sunilkumar | [Read More](https://medium.com/p/1e950aaf9bb5) |
-| Sat, 13 Jun 2026 07:10:31 GMT | The AI Agent With the Keys to Your Life | Horst Herb | [Read More](https://medium.com/p/4034f9df1e79) |
-| Sat, 13 Jun 2026 07:01:48 GMT | Finding Acceptance: My Story of Coming to Terms with MRKH Syndrome and a Uterus That Was Never… | Nandanurlianda | [Read More](https://medium.com/p/4e04042955d0) |
-| Sat, 13 Jun 2026 07:01:14 GMT | Meet with PAWN : The AI Assistant Built for Bug Bounty Hunters | Erkan Kavas | [Read More](https://medium.com/p/7bf58c4bf320) |
-| Sat, 13 Jun 2026 06:45:05 GMT | Implementing File Integrity Monitoring (FIM) on a Linux Endpoint Using Wazuh | Vrushalipagar | [Read More](https://medium.com/p/abababafb485) |
-| Sat, 13 Jun 2026 06:40:11 GMT | Security Firms Birmingham | Ptpsecurity | [Read More](https://medium.com/p/c987e9ae9769) |
-| Sat, 13 Jun 2026 06:38:13 GMT | When the Sea Gets Loud, and the System Seems Far | Aman | [Read More](https://medium.com/p/c2fbbf4c4499) |
-| Sat, 13 Jun 2026 06:31:06 GMT | Web Application Security Testing: What We Actually See in Real Security Assessments | Innovations Arm | [Read More](https://medium.com/p/89a2413bf216) |
-| Sat, 13 Jun 2026 06:23:44 GMT | Am I in Love Again? | Lewis Charles | [Read More](https://medium.com/p/510164b68f8b) |
-| Sat, 13 Jun 2026 06:18:11 GMT | Active Directory Lab | Karimsaminur | [Read More](https://medium.com/p/d237e24b1214) |
-| Sat, 13 Jun 2026 06:17:19 GMT | The Dual-Write Problem: The Bug I Kept Shipping Without Knowing Its Name | Mahmoud Yasser | [Read More](https://medium.com/p/2fdada096fdb) |
-| Sat, 13 Jun 2026 06:17:04 GMT | Free Isn’t Harmless: Should You Keep Using Unmaintained Open Source Software? | Intracherche | [Read More](https://medium.com/p/8fb2e6d785be) |
