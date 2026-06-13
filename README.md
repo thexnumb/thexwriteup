@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Jun 2026 21:38:07 GMT | Senario 1: Red Team vs Blue Team: How to Execute a Kerberoasting Attack and Detect It Using Wazuh… | Ibrahim Dia (Kg4real) | [Read More](https://medium.com/p/13185ea39272) |
+| Sat, 13 Jun 2026 21:08:13 GMT | AES-256-GCM secures billions daily. Learn how it works and how nonce reuse breaks security. | Arsh Mishra | [Read More](https://medium.com/p/5508c1578a92) |
+| Sat, 13 Jun 2026 21:07:16 GMT | The Shadow You: When Your Digital Twin Knows You Better Than You Know Yourself | Challaravinder | [Read More](https://medium.com/p/a4e0ae2a755b) |
+| Sat, 13 Jun 2026 21:04:43 GMT | Fancy Bear: Inside the Russian Spy Group That Hacked an Election, a President, and NATO | Pop123 | [Read More](https://medium.com/p/5c115411b6d3) |
+| Sat, 13 Jun 2026 21:01:13 GMT | Why Rotating TSIG Keys (and Passwords) Matters More Than You Think | Henry Obeng Nsiah (Astro) | [Read More](https://medium.com/p/6c59b8733d82) |
+| Sat, 13 Jun 2026 20:46:25 GMT | SOC Narrative: How Small LLMs Explain Insider Threat Detection | Datascientistrip | [Read More](https://medium.com/p/b2b32dcafd8b) |
+| Sat, 13 Jun 2026 20:46:20 GMT | The Role of Security Guards in Staten Island for Luxury Resorts | The Safety Perspective | [Read More](https://medium.com/p/148691248f27) |
+| Sat, 13 Jun 2026 20:46:14 GMT | Google API Key Exposure: Risks, Discovery, and Impact | ATTER Koffi Kallern | [Read More](https://medium.com/p/1bba466315c7) |
+| Sat, 13 Jun 2026 20:44:50 GMT | Your keys, your data: why TG:ON runs locally | Redzwhite | [Read More](https://medium.com/p/eee01e008e48) |
+| Sat, 13 Jun 2026 20:44:38 GMT | Executive Protection Is No Longer a Physical Security Problem | mePrism Privacy | [Read More](https://medium.com/p/514f62b774e2) |
+| Sat, 13 Jun 2026 20:41:55 GMT | Why Data Privacy Matters More in 2026 Than Ever Before | lazy designer | [Read More](https://medium.com/p/3141d37ac9ba) |
+| Sat, 13 Jun 2026 20:35:13 GMT | When news broke about the recent Canvas security incident, much of the discussion focused on a… | mePrism Privacy | [Read More](https://medium.com/p/b04f326915c7) |
+| Sat, 13 Jun 2026 20:33:47 GMT | AAGUIDs and how to identify what type of authenticator a passkey was created with | Espen Steen | [Read More](https://medium.com/p/fc1983a02f06) |
+| Sat, 13 Jun 2026 20:33:24 GMT | Your Encryption Is Already Compromised…You Just Don’t Know It Yet | Nemal Perera, B.Sc. Eng. | [Read More](https://medium.com/p/285570ccf8fb) |
+| Sat, 13 Jun 2026 20:31:30 GMT | I Found a Vulnerability on a Government Web Portal. Here’s What Happened Next… | Sriman kundu | [Read More](https://medium.com/p/6495637d5c8a) |
+| Sat, 13 Jun 2026 20:18:12 GMT | HMAC Internals | Pushpak Jalan | [Read More](https://medium.com/p/7345c79efab3) |
 | Sat, 13 Jun 2026 19:53:40 GMT | How GPS-Guided Missiles Work
 The Ultimate Game of Follow-the-Leader: How Rockets Use Space… | Mihika Vashistha | [Read More](https://medium.com/p/26874e94af9f) |
 | Sat, 13 Jun 2026 19:51:57 GMT | The Illusion of AI Sovereignty: What the Claude Fable 5 "Block" Teaches Us About Vendor Lock-In | Laroweb3 | [Read More](https://medium.com/p/f25cb57be80e) |
@@ -97,19 +113,3 @@ The Ultimate Game of Follow-the-Leader: How Rockets Use Space… | Mihika Vashis
 | Sat, 13 Jun 2026 13:39:05 GMT | Prosedur, Fungsi, dan Trigger | Azka | [Read More](https://medium.com/p/dfbf09d1fe79) |
 | Sat, 13 Jun 2026 13:28:47 GMT | API Attacks 101: API’ler Neden Kritik Bir Saldırı Yüzeyi? | İlkan Aydoğan | [Read More](https://medium.com/p/4d2471a34787) |
 | Sat, 13 Jun 2026 13:25:52 GMT | Why SMBs Are the New Target: What 25 Years in Cybersecurity Taught Me About the Threats Nobody… | Dan Gericke | [Read More](https://medium.com/p/7feca3826edc) |
-| Sat, 13 Jun 2026 13:25:49 GMT | What GDPR Actually Requires From Your Backend (Most Spring Boot Tutorials Skip This) | Yadrs | [Read More](https://medium.com/p/94e977cc548e) |
-| Sat, 13 Jun 2026 12:54:05 GMT | What I Learned Starting Cybersecurity: A Beginner’s Guide to Hacking, VMs, Linux, and Networks. | Vinayapriya | [Read More](https://medium.com/p/879329a63981) |
-| Sat, 13 Jun 2026 12:43:06 GMT | What Is Fable 5? Claude’s Newest Model, Explained and Why the U.S. Banned It | Ai studio | [Read More](https://medium.com/p/a242f5ac43ba) |
-| Sat, 13 Jun 2026 12:39:13 GMT | 0day — TryHackMe WalkThrough with flags | Rayenhafsawy | [Read More](https://medium.com/p/d37776be7b29) |
-| Sat, 13 Jun 2026 12:32:21 GMT | DockerLabs CTF: Countdown Walkthrough — WPvivid RCE & Advanced Hex File Reconstruction | SWALE | [Read More](https://medium.com/p/1b9b081e1ec6) |
-| Sat, 13 Jun 2026 12:31:00 GMT | The Linux Habit That Made Me Rethink Every Security Review | Faruk Ahmed | [Read More](https://medium.com/p/9d652199652d) |
-| Sat, 13 Jun 2026 12:28:30 GMT | Why QR Code Scams Are Exploding in 2026-The Threat Hiding in Plain Sight | Siri | [Read More](https://medium.com/p/643d2b8d5118) |
-| Sat, 13 Jun 2026 12:27:57 GMT | Why More Retailers Are Investing in a Security Company in Cardiff Instead of Relying on CCTV Alone | Olivia | [Read More](https://medium.com/p/7f8154250f9f) |
-| Sat, 13 Jun 2026 12:26:13 GMT | The Art of Pretending You Don’t Need Flowers | Pagesofthejoy | [Read More](https://medium.com/p/e45d6e67ddb5) |
-| Sat, 13 Jun 2026 12:25:58 GMT | Series: The Breach Files | Shwet | [Read More](https://medium.com/p/1b66b03dc063) |
-| Sat, 13 Jun 2026 12:24:43 GMT | The Alert Was Never the Problem | Sonu Goswami - B2B SaaS Positioning Specialist | [Read More](https://medium.com/p/364e2c00a7e1) |
-| Sat, 13 Jun 2026 12:23:16 GMT | OpenAI Profiler inference in Azure Machine learning compute instance | Balamurugan Balakreshnan | [Read More](https://medium.com/p/805975da6775) |
-| Sat, 13 Jun 2026 12:21:58 GMT | Claude Fable 5 lasted three days. Then the US government pulled it. | Rapls | [Read More](https://medium.com/p/72cd39b4f433) |
-| Sat, 13 Jun 2026 12:12:49 GMT | Gatehouse Security vs Remote Access Control: Which One Actually Stops Unauthorised Entry? | Henry Carter | [Read More](https://medium.com/p/223ab44875bc) |
-| Sat, 13 Jun 2026 12:11:52 GMT | SS7 & 5G NR NetOps LLM Copilot - AI-Powered Red Teaming | Pentester Club | [Read More](https://medium.com/p/b7848307f4c6) |
-| Sat, 13 Jun 2026 12:09:36 GMT | The University of Nottingham Data Breach: What We Know So Far | zsaasz | [Read More](https://medium.com/p/8227924dbd3d) |
