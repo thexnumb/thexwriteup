@@ -12,6 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Jun 2026 15:05:02 GMT | SIA LICENSED SECURITY GUARDS IN THE UK. | Dynamic security solution ltd | [Read More](https://medium.com/p/c96db42069dc) |
+| Sat, 13 Jun 2026 15:03:44 GMT | PRIVATE SECTOR LEADS NATIONAL AGRICULTURE RESILIENCE INITIATIVE | World News Today | [Read More](https://medium.com/p/7a9bc0a8564c) |
+| Sat, 13 Jun 2026 14:53:55 GMT | How I Won a $670 Bug Bounty Using Burp AI: From Recon to Responsible Disclosure | Cybervolt | [Read More](https://medium.com/p/1985546adc39) |
+| Sat, 13 Jun 2026 14:52:27 GMT | Easy SSRF from Wayback Machine | Anonymous Traiger | [Read More](https://medium.com/p/4766b0b0ffa3) |
+| Sat, 13 Jun 2026 14:52:07 GMT | Google Dorks AI | Brookz | [Read More](https://medium.com/p/703f4e045096) |
+| Sat, 13 Jun 2026 14:51:49 GMT | Sekurely: Intelligence-Driven Cybersecurity for Modern Businesses | Phill Jones | [Read More](https://medium.com/p/5bc21f3e1a9b) |
+| Sat, 13 Jun 2026 14:48:55 GMT | Useful tools and commands for decoding APK files | Iason Tzortzis | [Read More](https://medium.com/p/bec29a5bbfec) |
+| Sat, 13 Jun 2026 14:46:04 GMT | The VAPT Workflow | Aegon | [Read More](https://medium.com/p/2124ee077698) |
+| Sat, 13 Jun 2026 14:40:22 GMT | SQL Injection Testing Made Simple: 10 Essential Security Checks Every Tester and Developer Should… | pavani | [Read More](https://medium.com/p/c2e1dcf0b9e7) |
+| Sat, 13 Jun 2026 14:38:33 GMT | Топ читов для Deadlock в 2026 году: Моё честное мнение после статьи Марка Херца | Aurelivoines | [Read More](https://medium.com/p/448bc01853a2) |
+| Sat, 13 Jun 2026 14:37:19 GMT | How Nmap Helped Me Discover a $4,000 Vulnerability on an E-Commerce Platform | Cybervolt | [Read More](https://medium.com/p/aaa4c40c4bdc) |
+| Sat, 13 Jun 2026 14:35:42 GMT | Azure Managed Identity with Microsoft Entra ID: How It Actually Works | Compile & Conquer | [Read More](https://medium.com/p/f633164eb785) |
+| Sat, 13 Jun 2026 14:33:48 GMT | Why Uncle Sam Suspended Claude Fable 5 | Lomash Sharma | [Read More](https://medium.com/p/56f3fa7e693d) |
+| Sat, 13 Jun 2026 14:31:00 GMT | Why Deleting Cloud Resources Exposes Your Enterprise | PRASAD BHONDE | [Read More](https://medium.com/p/20a2cb907721) |
+| Sat, 13 Jun 2026 14:25:49 GMT | Bangladesh’s Islamist Resurgence Is Becoming South Asia’s Next Security Crisis | Saurav Dutt | [Read More](https://medium.com/p/ad6d68417fc0) |
+| Sat, 13 Jun 2026 14:24:29 GMT | Nobody Taught Me Malware Analysis. I Had to Figure It Out the Hard Way. | Nikhi Chavan | [Read More](https://medium.com/p/ef0653b4b72c) |
+| Sat, 13 Jun 2026 14:24:10 GMT | Wgel CTF by Mike the Hacker | Ramkumar | [Read More](https://medium.com/p/11a64963f0b1) |
+| Sat, 13 Jun 2026 14:20:28 GMT | Understanding LSD Effects and Risks: What Current Research Shows | Tor BBB | [Read More](https://medium.com/p/5aa4742fc0f1) |
+| Sat, 13 Jun 2026 14:06:45 GMT | Anthropic Built an AI Too Dangerous to Release Publicly. | Toyez | [Read More](https://medium.com/p/2449d724b2f6) |
+| Sat, 13 Jun 2026 14:04:00 GMT | Zero Trust for Python Security: A Practical Checklist | Maikel Mardjan | [Read More](https://medium.com/p/fab2f50c12c0) |
+| Sat, 13 Jun 2026 14:01:03 GMT | Threat Hunting with WAF - LetsDefend | 0verRida | [Read More](https://medium.com/p/acc9c4cb56a6) |
+| Sat, 13 Jun 2026 14:00:31 GMT | Elastic to Wazuh: A Technical Crosswalk of SIEM Components | Tamir Suliman | [Read More](https://medium.com/p/916f773f04a4) |
+| Sat, 13 Jun 2026 14:00:05 GMT | 10 GitHub repositories so good they shouldn't be free. | ㅤㅤㅤㅤㅤㅤㅤㅤㅤ | [Read More](https://medium.com/p/2ff46761dc6f) |
+| Sat, 13 Jun 2026 13:51:04 GMT | You Would Not Hire Someone and Give Them the Keys to Everything on Day One. | Anirban Biswas | [Read More](https://medium.com/p/70540b410bcd) |
+| Sat, 13 Jun 2026 13:44:58 GMT | Cross-site scripting 1 (APPRENTICE) | Nadia | [Read More](https://medium.com/p/dcb4e5db4518) |
+| Sat, 13 Jun 2026 13:42:39 GMT | Bir Domain’in Arkasında Neler Var? Bash ile Otomatik OSINT | Znurkiraz | [Read More](https://medium.com/p/8be70bcfadf6) |
+| Sat, 13 Jun 2026 13:39:05 GMT | Prosedur, Fungsi, dan Trigger | Azka | [Read More](https://medium.com/p/dfbf09d1fe79) |
+| Sat, 13 Jun 2026 13:28:47 GMT | API Attacks 101: API’ler Neden Kritik Bir Saldırı Yüzeyi? | İlkan Aydoğan | [Read More](https://medium.com/p/4d2471a34787) |
+| Sat, 13 Jun 2026 13:25:52 GMT | Why SMBs Are the New Target: What 25 Years in Cybersecurity Taught Me About the Threats Nobody… | Dan Gericke | [Read More](https://medium.com/p/7feca3826edc) |
+| Sat, 13 Jun 2026 13:25:49 GMT | What GDPR Actually Requires From Your Backend (Most Spring Boot Tutorials Skip This) | Yadrs | [Read More](https://medium.com/p/94e977cc548e) |
 | Sat, 13 Jun 2026 12:54:05 GMT | What I Learned Starting Cybersecurity: A Beginner’s Guide to Hacking, VMs, Linux, and Networks. | Vinayapriya | [Read More](https://medium.com/p/879329a63981) |
 | Sat, 13 Jun 2026 12:43:06 GMT | What Is Fable 5? Claude’s Newest Model, Explained and Why the U.S. Banned It | Ai studio | [Read More](https://medium.com/p/a242f5ac43ba) |
 | Sat, 13 Jun 2026 12:39:13 GMT | 0day — TryHackMe WalkThrough with flags | Rayenhafsawy | [Read More](https://medium.com/p/d37776be7b29) |
@@ -84,33 +114,3 @@ CYBER SECURITY | Orandhave | [Read More](https://medium.com/p/f5de816bab5d) |
 | Sat, 13 Jun 2026 06:18:11 GMT | Active Directory Lab | Karimsaminur | [Read More](https://medium.com/p/d237e24b1214) |
 | Sat, 13 Jun 2026 06:17:19 GMT | The Dual-Write Problem: The Bug I Kept Shipping Without Knowing Its Name | Mahmoud Yasser | [Read More](https://medium.com/p/2fdada096fdb) |
 | Sat, 13 Jun 2026 06:17:04 GMT | Free Isn’t Harmless: Should You Keep Using Unmaintained Open Source Software? | Intracherche | [Read More](https://medium.com/p/8fb2e6d785be) |
-| Sat, 13 Jun 2026 06:11:14 GMT | IGNITE — TRYHACKME WRITE UP | Abhinav | [Read More](https://medium.com/p/65bf847020a9) |
-| Sat, 13 Jun 2026 06:08:21 GMT | The Prettiest Session Hijack I Ever Fell For. | Syed Muhammad Ahmad | [Read More](https://medium.com/p/cc9d93994305) |
-| Sat, 13 Jun 2026 05:48:56 GMT | The Postdigital Is Messy — and That Is Fine | Calogero (Kalos) Bonasia | [Read More](https://medium.com/p/e72915ac5427) |
-| Sat, 13 Jun 2026 05:42:29 GMT | TempSafe v2: A Minimal Zero-Knowledge Design for Sharing Secrets | Koshy | [Read More](https://medium.com/p/54c41e0010bb) |
-| Sat, 13 Jun 2026 05:23:43 GMT | Investigation Breakdown — Part10 The Future Of Scam Operations: AI, Deepfakes & Threat… | ghostyjoe | [Read More](https://medium.com/p/90216205e2d0) |
-| Sat, 13 Jun 2026 05:01:56 GMT | Python for Hacking — The Skill That Separates Tool Users From Real Hackers | Muhammad Bilal | [Read More](https://medium.com/p/100824f6d2b4) |
-| Sat, 13 Jun 2026 04:55:37 GMT | Understanding Defensive Security: My First Step into the Blue Team World #002 | Mr. Rajak | [Read More](https://medium.com/p/9b7392ee19d7) |
-| Sat, 13 Jun 2026 04:47:54 GMT | AI / LLM Software Security: Part 5 | Robert Broeckelmann | [Read More](https://medium.com/p/335782011d4a) |
-| Sat, 13 Jun 2026 04:31:03 GMT | Are Passwords Finally Dying? | Cybersphere Official | [Read More](https://medium.com/p/4abe2788051d) |
-| Sat, 13 Jun 2026 04:31:03 GMT | Linux File System Navigation: A Beginner’s Guide | 0xJBsec | [Read More](https://medium.com/p/c3bb0fec0e54) |
-| Sat, 13 Jun 2026 04:24:47 GMT | Toward Correctability in Digital Identity Credentials: A Procedural Right to Username Verification… | Rabbi Rothschild #ViralRabbi | [Read More](https://medium.com/p/a144f0e67e86) |
-| Sat, 13 Jun 2026 04:24:19 GMT | ISO 27001: The Trust-Building Compliance Every Growing Company Should Know | Pragya Kumari | [Read More](https://medium.com/p/f77fd285d6a4) |
-| Sat, 13 Jun 2026 04:23:32 GMT | Your Software Has a Supply Chain — Most Teams Have No Idea How Long | Aditya - Ardent Optimist , Yogi, Technologist | [Read More](https://medium.com/p/f82b2d165022) |
-| Sat, 13 Jun 2026 04:16:00 GMT | The Hidden Danger of Android Bugreports: Why You Should Never Share Them Publicly | hackthacker | [Read More](https://medium.com/p/c44597db4964) |
-| Sat, 13 Jun 2026 04:11:51 GMT | Introduction to Hacking, Virtual Machines, Linux, and Networking: The Foundation of Cyber Security | Devimanoj | [Read More](https://medium.com/p/a247c00c22da) |
-| Sat, 13 Jun 2026 04:10:36 GMT | PII Masking in Go: Why Regex Fails and What Actually Works | Opalski | [Read More](https://medium.com/p/c62122d93c4d) |
-| Sat, 13 Jun 2026 04:10:01 GMT | Detecting Web DDoS — Tryhackme | Joel | [Read More](https://medium.com/p/d00e2d7ce9fe) |
-| Sat, 13 Jun 2026 04:02:22 GMT | CPU Basics for Hackers & Developers: Understanding Memory, Stack, Heap & Registers Like a Pro | Alwinaji | [Read More](https://medium.com/p/a55c614e83c2) |
-| Sat, 13 Jun 2026 04:01:14 GMT | Understanding System Calls in C: How Your Program Talks to the Linux Kernel (With Hands-On Labs) | Alwinaji | [Read More](https://medium.com/p/e9ec9c39d43a) |
-| Sat, 13 Jun 2026 03:52:43 GMT | From Vulnerabilities to Exploitation — Completing the VAPT Lifecycle (Part 2) | Kuldeep Choudhary | [Read More](https://medium.com/p/8cd58c55aada) |
-| Sat, 13 Jun 2026 03:50:07 GMT | The Moment After You Say It | Ashok V.A | [Read More](https://medium.com/p/21b5d110e109) |
-| Sat, 13 Jun 2026 03:44:50 GMT | How I Found a Critical Vulnerability in a Fortune 500 Company — and Got Paid $15,000 for It | EMTIAZ AHMED | [Read More](https://medium.com/p/e30f314765b8) |
-| Sat, 13 Jun 2026 03:32:30 GMT | Did You Click a Phishing Link? Follow This Checklist Now | Ctrl Alt Hacked | [Read More](https://medium.com/p/59d7c08a0eeb) |
-| Sat, 13 Jun 2026 02:56:21 GMT | The Guardian Paradigm: Why Generative AI Needs Deterministic Guardrails | Vyshak Bellur | [Read More](https://medium.com/p/e6054125ec3e) |
-| Sat, 13 Jun 2026 02:42:23 GMT | How a Simple MFA Test Turned Into an Interesting Meta Authentication Research Case | Mohammad Ehab | [Read More](https://medium.com/p/e39a4ef6990f) |
-| Sat, 13 Jun 2026 01:40:11 GMT | Sandboxing Claude Code on macOS with a Second User Account | Brad Milne | [Read More](https://medium.com/p/a16070e1663e) |
-| Sat, 13 Jun 2026 01:20:18 GMT | AI Daily Digest: June 13, 2026 — NVIDIA AgentPerf, Meta AI Crisis, KPMG Hallucinations | KD Agentic | [Read More](https://medium.com/p/d3fa78234562) |
-| Sat, 13 Jun 2026 01:19:22 GMT | 10 Types of Hackers You Should Know | Express Bold | [Read More](https://medium.com/p/f0345b78c686) |
-| Sat, 13 Jun 2026 00:44:09 GMT | Nibbles - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/492853db8ff8) |
-| Sat, 13 Jun 2026 00:34:29 GMT | Implementing Agentic Zero Trust | Manu Cohen-Yashar | [Read More](https://medium.com/p/0f6e38567274) |
