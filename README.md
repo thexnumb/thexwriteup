@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Jun 2026 18:11:19 GMT | Securing APIs in the Cloud: A Complete Guide to API Gateway & OAuth (2026) | Manula Udyoga | [Read More](https://medium.com/p/30923306111d) |
+| Sat, 13 Jun 2026 18:07:56 GMT | Why I Took a GRCP Fundamentals Certification Even Though I Already Had ISC2 CC | Hemanth Mouli.ch | [Read More](https://medium.com/p/8859be8efe7a) |
+| Sat, 13 Jun 2026 18:04:59 GMT | Automated Prompt Fuzzing: How Security Researchers Find Model Leaks at Scale | @AnandPrajapati | [Read More](https://medium.com/p/0e4f8fa0cda6) |
+| Sat, 13 Jun 2026 17:57:48 GMT | Finding an Open Redirect Pattern on a Shopify Storefront: A Bug Bounty Recon Walkthrough | Nrn | [Read More](https://medium.com/p/d65fcd464ad1) |
+| Sat, 13 Jun 2026 17:56:44 GMT | The Agency That Protects America From Hackers Just Got Exposed By Its Own Contractor. | Jazz Cyber Shield | [Read More](https://medium.com/p/7f6ac3356728) |
+| Sat, 13 Jun 2026 17:50:52 GMT | Has Anthropic’s IPO Hype Gone Too Far? | Jan Daniel Semrau | [Read More](https://medium.com/p/1a272df45e81) |
+| Sat, 13 Jun 2026 17:36:20 GMT | The Smart Money Is Buying Refurbished Enterprise Hardware. Here’s Why. | Anwaryp | [Read More](https://medium.com/p/e356e4bf2806) |
+| Sat, 13 Jun 2026 17:31:40 GMT | The Invisible Threat: Securing AI Agents Before They Secure Themselves | Ravindra Annam | [Read More](https://medium.com/p/2eecf62cb7fb) |
+| Sat, 13 Jun 2026 17:27:37 GMT | Cybersecurity Wasn’t What I Expected | Jo Alex | [Read More](https://medium.com/p/2eba09b4fd9e) |
+| Sat, 13 Jun 2026 17:27:20 GMT | Claude Mythos Was Too Powerful to Release. Here’s Why Anthropic Locked It Away. | Sunny Dilipkumar Shah | [Read More](https://medium.com/p/fe01bd655086) |
+| Sat, 13 Jun 2026 17:26:03 GMT | Claude Mythos Finds 10,000 Vulnerabilities. The Real Story Is What Happens Next. | Cyber-AppSec | [Read More](https://medium.com/p/2db80561d723) |
+| Sat, 13 Jun 2026 17:25:10 GMT | The Essential Foundation Rules for Operational SIEM | Vincent Wizley | [Read More](https://medium.com/p/ce2d129dd653) |
+| Sat, 13 Jun 2026 17:21:21 GMT | Blind Extraction of Password Hashes via an Unauthenticated GraphQL Count Oracle | M0n3m | [Read More](https://medium.com/p/505ce835a4c0) |
+| Sat, 13 Jun 2026 17:04:51 GMT | The $500,000 Prompt: How an AI-Driven Hack Penetrated Google’s Core Infrastructure. | eL Njas!™ | [Read More](https://medium.com/p/e335f1b39ddf) |
+| Sat, 13 Jun 2026 17:02:52 GMT | JSON Web Tokens (JWT): Structure, Signing, and Claims | Rsarith | [Read More](https://medium.com/p/183fb66bb79c) |
 | Sat, 13 Jun 2026 16:47:25 GMT | My First Day as a Penetration Tester Was Nothing Like the YouTube Videos Showed. | CYBER MIND SPACE | [Read More](https://medium.com/p/390ef353c069) |
 | Sat, 13 Jun 2026 16:31:17 GMT | When a Partner Pulls the Plug: What the Fable 5 Ban Tells Europe About Digital Autonomy | Mat Cyb3rF0x Fuchs | [Read More](https://medium.com/p/ee4321c4d001) |
 | Sat, 13 Jun 2026 16:31:00 GMT | 7 Docker Security Best Practices for Production | bektiaw | [Read More](https://medium.com/p/64499519d5da) |
@@ -26,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Jun 2026 15:52:56 GMT | Vulnversity — TryHackMe Walkthrough | DoctorNeko | [Read More](https://medium.com/p/4a231da4b494) |
 | Sat, 13 Jun 2026 15:49:06 GMT | Linux Privilege Escalation via Writable /etc/passwd | Isha Sangpal | [Read More](https://medium.com/p/13934aa2797f) |
 | Sat, 13 Jun 2026 15:32:43 GMT | Explore High-Puff Disposable Vapes at Top Disposable Vape — 2026 Buyer’s Guide | Hadley Graham | [Read More](https://medium.com/p/b75b1066c26f) |
+| Sat, 13 Jun 2026 15:28:09 GMT | Cómo detectar sitios gubernamentales comprometidos con Spam SEO usando GobScan | rocurun | [Read More](https://medium.com/p/f8d0b7664e18) |
 | Sat, 13 Jun 2026 15:24:36 GMT | Why Are Privacy Users Looking Beyond Traditional Search? | onion links | [Read More](https://medium.com/p/282c82c91acc) |
 | Sat, 13 Jun 2026 15:23:06 GMT | Bypassing SMB Signing: Escalating Privileges via Cross-Protocol NTLM to LDAP Relaying | 0xHer0 | [Read More](https://medium.com/p/c594f6e25b38) |
 | Sat, 13 Jun 2026 15:18:33 GMT | gdorksAI: Applying Artificial Intelligence to Google Dorks | Brookz | [Read More](https://medium.com/p/98c25ff3d3ba) |
@@ -98,19 +114,3 @@ CYBER SECURITY | Orandhave | [Read More](https://medium.com/p/f5de816bab5d) |
 | Sat, 13 Jun 2026 10:38:00 GMT | The Week AI Stopped Being Just Software | Alok Ranjan Singh | [Read More](https://medium.com/p/4ada2026b346) |
 | Sat, 13 Jun 2026 10:22:56 GMT | AI Based Security Solutions: The Future of Smart Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/ddb981b56682) |
 | Sat, 13 Jun 2026 10:00:50 GMT | HTB — Support - Windows - Easy | Sawsagee | [Read More](https://medium.com/p/5d2b47d1c2f3) |
-| Sat, 13 Jun 2026 09:55:50 GMT | Top Strategic Technology Trends 2026 | Bilal Ashraf | [Read More](https://medium.com/p/03f0db709fe6) |
-| Sat, 13 Jun 2026 09:52:35 GMT | My Friend Told Me I Don’t Want Accountability — And She Was Right | Ruth Nwangoh | [Read More](https://medium.com/p/1261f8e8a872) |
-| Sat, 13 Jun 2026 09:35:30 GMT | Zero Trust Security | Ujjalmandal | [Read More](https://medium.com/p/7c7e6a5ffe96) |
-| Sat, 13 Jun 2026 09:27:33 GMT | How Indian Housing Societies Can Replace Paper Visitor Registers with a Digital System | Jaybodra Itcodeinfotech | [Read More](https://medium.com/p/f1b8d5686791) |
-| Sat, 13 Jun 2026 09:15:48 GMT | Pci Dss Gains Importance In Business Operations | Avika | [Read More](https://medium.com/p/866f0f4e4ea5) |
-| Sat, 13 Jun 2026 09:14:53 GMT | How SQL Injection Lets Attackers Steal Data: A Hands-On Guide to Blind and Error-Based SQLi | TheNotorious | [Read More](https://medium.com/p/549b79e694ec) |
-| Sat, 13 Jun 2026 08:57:28 GMT | How a Public Token Led to Unauthenticated Read and Write Access on an IoT Platform | Ahmad Faraz | [Read More](https://medium.com/p/3c1404dbd34a) |
-| Sat, 13 Jun 2026 08:56:00 GMT | Why Reliability Is Becoming More Valuable Than Velocity | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/9e4f594961c8) |
-| Sat, 13 Jun 2026 08:52:47 GMT | Network Visibility and Threat Detection: A Complete Guide for SOC Teams | Xpert4Cyber | [Read More](https://medium.com/p/6cf049f9f50b) |
-| Sat, 13 Jun 2026 08:51:51 GMT | Securely Managing Sensitive Data with Docker Secrets | Dharmilshiroya | [Read More](https://medium.com/p/957dd0e0647e) |
-| Sat, 13 Jun 2026 08:31:00 GMT | Passport-to-Wallet: The hidden setup trick to unlock Apple’s secure ID instantly. | apple insides | [Read More](https://medium.com/p/7243a8d7d213) |
-| Sat, 13 Jun 2026 08:18:41 GMT | What Is Steganography? How Image Steganography Works (And How to Try It | Rishu | [Read More](https://medium.com/p/1c3c50ffddd9) |
-| Sat, 13 Jun 2026 08:16:54 GMT | Benefits of Learning Cloud Computing: A Smart Career Move for Future IT Professionals | Indoreiant | [Read More](https://medium.com/p/8a4c27cb0fac) |
-| Sat, 13 Jun 2026 08:13:35 GMT | The Complete Guide to Merging PDF Files Online Everything you need to know | Smartpdflab | [Read More](https://medium.com/p/69fcf55ec64a) |
-| Sat, 13 Jun 2026 08:11:27 GMT | Is It Really Worth Paying for a VPN When There Are So Many Free Ones Available? | Ethan Carter | [Read More](https://medium.com/p/cc56f58e3786) |
-| Sat, 13 Jun 2026 08:07:43 GMT | motion activated security cameraThe Best Motion Activated Security Camera for Your Home — A Quick… | Criminology Expert | [Read More](https://medium.com/p/ff25e1688ab3) |
