@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 13 Jun 2026 00:14:02 GMT | Are you in pain? aliali681136@gmail.com | Aliali | [Read More](https://medium.com/p/36f802dbe1eb) |
+| Sat, 13 Jun 2026 00:02:16 GMT | The Day NASA Almost Lost a Mars Rover Because of a Priority Inversion Bug | Abhisheyk Gaur | [Read More](https://medium.com/p/b8e379867abe) |
+| Sat, 13 Jun 2026 00:01:01 GMT | Essential Guide to Information Disclosure | JPablo13 | [Read More](https://medium.com/p/5eac7a799f2b) |
+| Fri, 12 Jun 2026 23:59:31 GMT | Fable 5 dropped and I’m suddenly a lot more paranoid about my VS Code extensions | Ishaan Agrawal | [Read More](https://medium.com/p/1ba94bcf33bb) |
+| Fri, 12 Jun 2026 23:44:24 GMT | A Walkthrough On How OSINT Works | ThatCyberGirl | [Read More](https://medium.com/p/11ceb342c3e8) |
+| Fri, 12 Jun 2026 23:22:03 GMT | I Sold Cybersecurity AI for Years. Here’s What Buyers Actually Ask. | Jay Nichols | [Read More](https://medium.com/p/8d657ef3432f) |
+| Fri, 12 Jun 2026 23:18:27 GMT | What is Brie — Bug Capture Tool? | Ion Leu | [Read More](https://medium.com/p/d8a767f4483e) |
+| Fri, 12 Jun 2026 23:09:12 GMT | 3 Ways Cyber-criminals Steal Your Personal Information and How To Protect Yourself | Elitestyletech | [Read More](https://medium.com/p/ed4fec852685) |
+| Fri, 12 Jun 2026 22:57:17 GMT | How do organizations get from data to decisions? | Amir Hossein Bagheri - AHB1998 | [Read More](https://medium.com/p/2e1361fe9e0f) |
 | Fri, 12 Jun 2026 22:34:18 GMT | The Question Is Not Whether AI Helped, but What Was Missing | hide | [Read More](https://medium.com/p/8db42aee2c65) |
 | Fri, 12 Jun 2026 22:06:14 GMT | Integrating an AI-Powered Security Orchestration Workflow into Your Homelab Setup with n8n, Splunk… | Prince Lassey | [Read More](https://medium.com/p/ea3cb616d8af) |
 | Fri, 12 Jun 2026 21:57:29 GMT | Bypassing Edge for Business DLP via Graph API | Dhimitri | [Read More](https://medium.com/p/a3d20e12b093) |
@@ -105,12 +114,3 @@ A practical walkthrough of building… | Hammad Khan - SOC & Pentesting | [Read 
 | Fri, 12 Jun 2026 14:01:04 GMT | Proactive IT Support: Why does it matter? | Sereno IT Support Ltd | [Read More](https://medium.com/p/976ff302a176) |
 | Fri, 12 Jun 2026 14:01:03 GMT | Cyber Briefing: 2026.06.12 | CyberMaterial | [Read More](https://medium.com/p/9476baea3688) |
 | Fri, 12 Jun 2026 13:59:10 GMT | How I Bypassed UI Restraints to Leak Organization Roles, Members, and Invites (BAC) | OWL | [Read More](https://medium.com/p/9390d994e38f) |
-| Fri, 12 Jun 2026 13:59:02 GMT | Finding Inspiration in the Strangest Places — How a Fictional Startup Founder Helped Inspire a Real… | Timoneil | [Read More](https://medium.com/p/c65686c89eee) |
-| Fri, 12 Jun 2026 13:54:53 GMT | Your Business Isn’t Losing Money to IT Problems — It’s Losing Money to Downtime | Logixer | [Read More](https://medium.com/p/8916e92015b6) |
-| Fri, 12 Jun 2026 13:39:42 GMT | How CTFs Made Me a Better Engineer (And a Roadmap to Your First One) | Bube | [Read More](https://medium.com/p/fffe89c9fb8c) |
-| Fri, 12 Jun 2026 13:37:56 GMT | The AI Wardriving Setup That Mapped 40,000 Networks in 72 Hours (And Vanished Without a Trace) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/9da4f7bf448c) |
-| Fri, 12 Jun 2026 13:35:17 GMT | Anthropic’s Claude in 2026: When Frontier AI Stopped Being Just Software | Grenish Rai | [Read More](https://medium.com/p/0e06ae526cfa) |
-| Fri, 12 Jun 2026 13:32:51 GMT | Boiler CTF THM | Bleak | [Read More](https://medium.com/p/0e65b00b300e) |
-| Fri, 12 Jun 2026 13:31:00 GMT | $750 Authorization Bypass: Enumerating Calendar Forms via Group Type ID | Abhi Sharma | [Read More](https://medium.com/p/c3c18d3f7230) |
-| Fri, 12 Jun 2026 13:29:22 GMT | InfoSec World 2026 Orlando Exhibition Stand Builder | vcraft studio | [Read More](https://medium.com/p/7d8817f47ea3) |
-| Fri, 12 Jun 2026 13:28:55 GMT | Complete Evidence Base: Security Audit of MAX Messenger | entropy | [Read More](https://medium.com/p/d6fce618a648) |
