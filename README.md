@@ -12,6 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Jun 2026 10:13:31 GMT | Putting the OWASP Agentic AI Framework to Work: An Architecture Perspective | Mani Gopalakrishnan | [Read More](https://medium.com/p/fc0df14697fe) |
+| Sun, 14 Jun 2026 10:07:25 GMT | Day 1: Building a Cybersecurity Firm From My Bed | Ana Khulordava | [Read More](https://medium.com/p/40db572fe2d3) |
+| Sun, 14 Jun 2026 10:06:28 GMT | 钱包授权风险完全指南 | Marcelkhan | [Read More](https://medium.com/p/80e4b30802e2) |
+| Sun, 14 Jun 2026 10:05:56 GMT | An AI Copilot for Auditors and CISOs | Igor Gorbenko | [Read More](https://medium.com/p/8514a2540449) |
+| Sun, 14 Jun 2026 10:01:06 GMT | Cyber Roles That Actually Need Business Experience | Victoria Coker | [Read More](https://medium.com/p/a5b7fd21d8fd) |
+| Sun, 14 Jun 2026 09:44:07 GMT | Defending Linux Systems with Iptables Firewall Rules | Kartik Chhabra | [Read More](https://medium.com/p/d62c65c6a9d1) |
+| Sun, 14 Jun 2026 09:43:08 GMT | How a Free Movie App Turned User Data Into Its Biggest Asset (NetMirror) | Ajax | [Read More](https://medium.com/p/74fbfc996945) |
+| Sun, 14 Jun 2026 09:33:27 GMT | The dark side of free web utilities: How to process data without exposing it to third-party servers | Toolsaur | [Read More](https://medium.com/p/686f6b11eb4c) |
+| Sun, 14 Jun 2026 08:58:19 GMT | hiShadows and Shields: The Global Architecture of Cyber Warfare, Hacking Culture, and Modern… | The justice | [Read More](https://medium.com/p/689c54acacf5) |
+| Sun, 14 Jun 2026 08:49:13 GMT | Basis Data: Prosedur, Fungsi, dan Trigger | Nabilla Paraswati | [Read More](https://medium.com/p/48fc29c828cc) |
+| Sun, 14 Jun 2026 08:39:38 GMT | Cloud Honeypot: Tracking Live Global Cyber Attacks with Microsoft Sentinel | Miracle komolafe | [Read More](https://medium.com/p/0182aa472d24) |
+| Sun, 14 Jun 2026 08:38:25 GMT | I Found a Hidden Flag Inside a DNS Record — Here’s How DNS Actually Works | Prashant Raj | [Read More](https://medium.com/p/c3f7ad781aaf) |
+| Sun, 14 Jun 2026 08:21:23 GMT | Your Firewall Won’t Click That Link — Your Employees Might | Davidrossgold | [Read More](https://medium.com/p/6392d07847e9) |
+| Sun, 14 Jun 2026 08:15:33 GMT | Peppermint Ticketing System and Docker Installation/Configuration | Karimsaminur | [Read More](https://medium.com/p/27db0f9759c8) |
+| Sun, 14 Jun 2026 08:15:06 GMT | Zoho’s Nathu La Server Just Changed the AI Hardware Game in India. | Udbhav Writers | [Read More](https://medium.com/p/389630f4b5e5) |
+| Sun, 14 Jun 2026 08:02:01 GMT | From Profile Update to Account Takeover: A Mass Assignment Story | Parth Narula | [Read More](https://medium.com/p/60c6e8de4abc) |
+| Sun, 14 Jun 2026 07:55:41 GMT | Why Small Businesses Are Becoming Prime Targets for Cyber Attacks | Shivam Shukla | [Read More](https://medium.com/p/18f7eb24653f) |
+| Sun, 14 Jun 2026 07:50:52 GMT | Best Wireless Parking Lot Security Cameras in 2026 — Quick Guide | Criminology Expert | [Read More](https://medium.com/p/9fbe04df2611) |
+| Sun, 14 Jun 2026 07:45:50 GMT | Content Security Policy (CSP) Tutorial for Beginners | Anshika Tripathi | [Read More](https://medium.com/p/ad119c35ce27) |
+| Sun, 14 Jun 2026 07:45:08 GMT | We’ve Normalized Losing Our Minds | Vibhuti | [Read More](https://medium.com/p/26a7cf570a5b) |
+| Sun, 14 Jun 2026 07:39:09 GMT | How to Detect Fake Profiles on LinkedIn, Instagram & X (2026) | FaceSift | [Read More](https://medium.com/p/345a07400b78) |
+| Sun, 14 Jun 2026 07:32:30 GMT | Understanding Static and Dynamic Analysis Tools | Tales Lima De Paula | [Read More](https://medium.com/p/c28c4d80eedd) |
+| Sun, 14 Jun 2026 07:29:18 GMT | Lab 15: Clickjacking with a frame buster script | Tkacala | [Read More](https://medium.com/p/d3a31e3919c5) |
+| Sun, 14 Jun 2026 07:15:57 GMT | I Didn’t Come to You to Be Strong. I Came to Fall Apart. | Khushi Garg | [Read More](https://medium.com/p/f627de7b8cf6) |
+| Sun, 14 Jun 2026 07:11:00 GMT | Which Apps to Use with a VPN? Security Guide! | BM Khalid Hasan | [Read More](https://medium.com/p/5cf4e233ca3b) |
+| Sun, 14 Jun 2026 07:09:58 GMT | Understanding Vulnerabilities in Cyber Security | Tales Lima De Paula | [Read More](https://medium.com/p/ed49abe7ed74) |
+| Sun, 14 Jun 2026 06:59:14 GMT | WRITEUP PATH TRAVERSAL : File path traversal, simple case | praditya arga | [Read More](https://medium.com/p/2e1bd44bb769) |
+| Sun, 14 Jun 2026 06:53:31 GMT | Username, Email & Password Enumeration Using FFUF — A Bug Bounty Researcher’s Guide | cyber security | [Read More](https://medium.com/p/98a0600de2e9) |
 | Sun, 14 Jun 2026 06:31:29 GMT | Breaking Lakera’s Gandalf: What 7 Levels Taught Me About LLM Security | vazuk1 | [Read More](https://medium.com/p/04951058ae91) |
 | Sun, 14 Jun 2026 06:16:00 GMT | When AI Becomes a National Security Asset: The Global Fallout from Anthropic’s Fable 5 and Mythos 5… | eL Njas!™ | [Read More](https://medium.com/p/65417a7e8868) |
 | Sun, 14 Jun 2026 06:02:22 GMT | Build Your Own Linux Shell in C (Part 2): Understanding the Shell Architecture Before Writing Logic | Alwinaji | [Read More](https://medium.com/p/32b108768562) |
@@ -85,31 +113,3 @@ The Ultimate Game of Follow-the-Leader: How Rockets Use Space… | Mihika Vashis
 | Sat, 13 Jun 2026 19:44:45 GMT | I Surveyed 300 Students About Phishing. | Mihika Vashistha | [Read More](https://medium.com/p/b284d3031802) |
 | Sat, 13 Jun 2026 19:41:00 GMT | Weaponizing Logs: How Attackers Crash Apps via Synchronous Logging (And How ELK Fixes It) | Pau Dang | [Read More](https://medium.com/p/373d0bb84729) |
 | Sat, 13 Jun 2026 19:38:09 GMT | I Built A Mini SIEM: What It Taught Me | Omotiafe Aregbeyen | [Read More](https://medium.com/p/153c6b2f731d) |
-| Sat, 13 Jun 2026 19:35:50 GMT | From a survivor to you, | Favour Ugbor | [Read More](https://medium.com/p/77d355a61888) |
-| Sat, 13 Jun 2026 19:30:04 GMT | Software as a Controlled Export: The Mythos Directive and the New Architecture of AI Governance | CCD-IS | [Read More](https://medium.com/p/b5b166871bb5) |
-| Sat, 13 Jun 2026 19:28:26 GMT | Mythos 5 Restricted by US Government for Being Too Dangerous | Matthew.Rosenquist | [Read More](https://medium.com/p/96ae50038aa5) |
-| Sat, 13 Jun 2026 19:27:38 GMT | My Cybersecurity Journey — From CSE Student to CTF Player | Khushbu | [Read More](https://medium.com/p/40e34c1a8ea0) |
-| Sat, 13 Jun 2026 19:27:10 GMT | The Anatomy of a Phishing Email — and What Happens After You Click | Pop123 | [Read More](https://medium.com/p/a5a4f2fc4b8d) |
-| Sat, 13 Jun 2026 19:26:36 GMT | Floating | Grace  Haimbili | [Read More](https://medium.com/p/4cbd9543eeda) |
-| Sat, 13 Jun 2026 19:25:14 GMT | The Changing Anatomy of Gauteng Cargo Crime: Why 2026 Belongs to the Daylight Syndicates | Admin | [Read More](https://medium.com/p/5b23dafd6e6b) |
-| Sat, 13 Jun 2026 19:14:14 GMT | Innovative Low-Voltage Security Solutions for California | CCTVSS | [Read More](https://medium.com/p/f05f96821e6c) |
-| Sat, 13 Jun 2026 19:13:08 GMT | The Vault Inside Your Phone: Why Netflix Screenshots Come Back Black | Gayuthdemika | [Read More](https://medium.com/p/8dc9bf72f5ff) |
-| Sat, 13 Jun 2026 19:03:29 GMT | Artists, Impostors and the Rare Ones | Abhinav Jain | [Read More](https://medium.com/p/f9280c242d56) |
-| Sat, 13 Jun 2026 19:01:52 GMT | Building a Web Reconnaissance & Exposure Scanner in Python: From a Simple Crawler to a Security… | Nilanjan Chowdhury | [Read More](https://medium.com/p/3de31daa94dd) |
-| Sat, 13 Jun 2026 18:38:47 GMT | Deepfakes in Cybersecurity: When Seeing Is No Longer Believing | Cyberknight | [Read More](https://medium.com/p/c70f7811db56) |
-| Sat, 13 Jun 2026 18:33:42 GMT | The Day the Government Broke AI: Anthropic’s Fable 5 Ban and the Absurdity of "National Security" | R. D. Mitchell | [Read More](https://medium.com/p/8fefebde7807) |
-| Sat, 13 Jun 2026 18:33:36 GMT | Anthropic’s Fable 5 Is Gone: The US Government, a Jailbreak, and the AI Governance Crisis Nobody… | Ali Mansoor | [Read More](https://medium.com/p/14bd2a975aa5) |
-| Sat, 13 Jun 2026 18:21:50 GMT | ️Cybersecurity Term of the Day: Phishing | Arowolo Seun Samuel | [Read More](https://medium.com/p/baa367e98981) |
-| Sat, 13 Jun 2026 18:11:19 GMT | Securing APIs in the Cloud: A Complete Guide to API Gateway & OAuth (2026) | Manula Udyoga | [Read More](https://medium.com/p/30923306111d) |
-| Sat, 13 Jun 2026 18:07:56 GMT | Why I Took a GRCP Fundamentals Certification Even Though I Already Had ISC2 CC | Hemanth Mouli.ch | [Read More](https://medium.com/p/8859be8efe7a) |
-| Sat, 13 Jun 2026 18:04:59 GMT | Automated Prompt Fuzzing: How Security Researchers Find Model Leaks at Scale | @AnandPrajapati | [Read More](https://medium.com/p/0e4f8fa0cda6) |
-| Sat, 13 Jun 2026 17:57:48 GMT | Finding an Open Redirect Pattern on a Shopify Storefront: A Bug Bounty Recon Walkthrough | Nrn | [Read More](https://medium.com/p/d65fcd464ad1) |
-| Sat, 13 Jun 2026 17:56:44 GMT | The Agency That Protects America From Hackers Just Got Exposed By Its Own Contractor. | Jazz Cyber Shield | [Read More](https://medium.com/p/7f6ac3356728) |
-| Sat, 13 Jun 2026 17:50:52 GMT | Has Anthropic’s IPO Hype Gone Too Far? | Jan Daniel Semrau | [Read More](https://medium.com/p/1a272df45e81) |
-| Sat, 13 Jun 2026 17:36:20 GMT | The Smart Money Is Buying Refurbished Enterprise Hardware. Here’s Why. | Anwaryp | [Read More](https://medium.com/p/e356e4bf2806) |
-| Sat, 13 Jun 2026 17:31:40 GMT | The Invisible Threat: Securing AI Agents Before They Secure Themselves | Ravindra Annam | [Read More](https://medium.com/p/2eecf62cb7fb) |
-| Sat, 13 Jun 2026 17:27:37 GMT | Cybersecurity Wasn’t What I Expected | Jo Alex | [Read More](https://medium.com/p/2eba09b4fd9e) |
-| Sat, 13 Jun 2026 17:27:20 GMT | Claude Mythos Was Too Powerful to Release. Here’s Why Anthropic Locked It Away. | Sunny Dilipkumar Shah | [Read More](https://medium.com/p/fe01bd655086) |
-| Sat, 13 Jun 2026 17:26:03 GMT | Claude Mythos Finds 10,000 Vulnerabilities. The Real Story Is What Happens Next. | Cyber-AppSec | [Read More](https://medium.com/p/2db80561d723) |
-| Sat, 13 Jun 2026 17:25:10 GMT | The Essential Foundation Rules for Operational SIEM | Vincent Wizley | [Read More](https://medium.com/p/ce2d129dd653) |
-| Sat, 13 Jun 2026 17:21:21 GMT | Blind Extraction of Password Hashes via an Unauthenticated GraphQL Count Oracle | M0n3m | [Read More](https://medium.com/p/505ce835a4c0) |
