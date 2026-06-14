@@ -12,7 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Jun 2026 12:18:01 GMT | How I Built ScamShield: An AI-Powered System That Detects Fake Job Recruiters Before You Click… | Souvik Das | [Read More](https://medium.com/p/48342746d760) |
+| Sun, 14 Jun 2026 12:16:00 GMT | AI 時代下，資訊人的下一張王牌是什麼？ | haha1811 | [Read More](https://medium.com/p/1dbd053075b9) |
+| Sun, 14 Jun 2026 12:14:49 GMT | Best Cybersecurity Internship training in India for Students After Class 12th | cybersecuritycourse | [Read More](https://medium.com/p/e4fe1d37791e) |
+| Sun, 14 Jun 2026 12:11:51 GMT | SSTI in Jinja2: From {{7*7}} to Remote Code Execution | Moncef fennan | [Read More](https://medium.com/p/67991704312c) |
+| Sun, 14 Jun 2026 12:09:27 GMT | From Context to Memory: The Next Evolution of AI-Powered AppSec Review | Rui Pedro Moreira | [Read More](https://medium.com/p/39e724a29e14) |
+| Sun, 14 Jun 2026 12:09:22 GMT | How a Simple Google Dork Earned Me My First Bounty from Bugcrowd’s Own Bug Bounty Program | MD Akhlakur Rahman Tanvir | [Read More](https://medium.com/p/685c088495a6) |
+| Sun, 14 Jun 2026 12:06:00 GMT | Your Database Is Lying to You: Why Laravel Checkpoint Is the Security Audit Tool You Didn’t Know… | Hector Canovas | [Read More](https://medium.com/p/6050f7f15c79) |
+| Sun, 14 Jun 2026 12:05:40 GMT | So You Want to Make ₱100K+ a Month in Cybersecurity | Jan | [Read More](https://medium.com/p/6ad8aadda224) |
+| Sun, 14 Jun 2026 12:03:30 GMT | The Difference Between a Vulnerability and an Exploit | Abraham | [Read More](https://medium.com/p/b5fb51822bf7) |
+| Sun, 14 Jun 2026 12:01:00 GMT | What I’ve been reading (and watching) week ending 14 June 2026 | Jason Yip | [Read More](https://medium.com/p/78cf0be34087) |
+| Sun, 14 Jun 2026 11:34:50 GMT | From Context to Memory: The Next Evolution of AI-Powered AppSec Review | Rui Pedro Moreira | [Read More](https://medium.com/p/f274ed67da2a) |
+| Sun, 14 Jun 2026 11:31:50 GMT | Cybersecurity for Developers — Part 2: Modern Application Architecture & Trust Boundaries | Ashwanth Madhav | [Read More](https://medium.com/p/8381a56d6804) |
+| Sun, 14 Jun 2026 11:31:00 GMT | Stored XSS — The Dangerous Cousin | Nitin yadav | [Read More](https://medium.com/p/af346d8ff5c3) |
+| Sun, 14 Jun 2026 11:19:09 GMT | Easy Peasy — TryHackMe | Subrat Keshari Sahu | [Read More](https://medium.com/p/70f2c3052dfd) |
+| Sun, 14 Jun 2026 11:15:40 GMT | Stored XSS via PNG Polyglot Upload and Filename Trust | Raghav Raut | [Read More](https://medium.com/p/552020690f4f) |
+| Sun, 14 Jun 2026 11:08:55 GMT | How to Start a Cybersecurity Risk Assessment: Simple Excel Template for Beginners | Ucarcemre | [Read More](https://medium.com/p/ff2c14184c00) |
+| Sun, 14 Jun 2026 11:07:44 GMT | What the Release and Immediate Suspension of Claude Fable 5 Points To — The End of Entra ID as a… | Yasuhiro Niji | [Read More](https://medium.com/p/504cc71a8a32) |
+| Sun, 14 Jun 2026 11:01:00 GMT | Building a Fortress: Isolating CI/CD Users with Jailkit and Rootless Docker | MOAMEN REZK | [Read More](https://medium.com/p/16f070af1850) |
+| Sun, 14 Jun 2026 11:00:36 GMT | ☁️ Free Cloud Storage List Secure And Private | u2qkyx4fupqn77 | [Read More](https://medium.com/p/3fd4ed5966ed) |
+| Sun, 14 Jun 2026 10:52:46 GMT | Escaping the Front-End: How a Captcha Bypass Attempt Leaked a Google API Secret — bug bounty | madmax | [Read More](https://medium.com/p/67867860bc56) |
+| Sun, 14 Jun 2026 10:32:16 GMT | Linux Administration: File Permissions, Ownership and ACLs | Hyunjae | [Read More](https://medium.com/p/3e7f99ce820f) |
+| Sun, 14 Jun 2026 10:27:22 GMT | Every Breach Starts with an Entry Point: Attack Vectors Everyone Should Know | Your's Nightmare | [Read More](https://medium.com/p/087bad789f84) |
+| Sun, 14 Jun 2026 10:21:23 GMT | Say Goodbye to Big Tech: The Best FREE, End-to-End Encrypted Alternatives to Google Photos &… | u2qkyx4fupqn77 | [Read More](https://medium.com/p/83614475b5ae) |
 | Sun, 14 Jun 2026 10:13:31 GMT | Putting the OWASP Agentic AI Framework to Work: An Architecture Perspective | Mani Gopalakrishnan | [Read More](https://medium.com/p/fc0df14697fe) |
+| Sun, 14 Jun 2026 10:12:07 GMT | Laporan Praktikum Basis Data : Prosedur, Fungsi dan Trigger | Cahyoadi | [Read More](https://medium.com/p/c6b729502b29) |
 | Sun, 14 Jun 2026 10:07:25 GMT | Day 1: Building a Cybersecurity Firm From My Bed | Ana Khulordava | [Read More](https://medium.com/p/40db572fe2d3) |
 | Sun, 14 Jun 2026 10:06:28 GMT | 钱包授权风险完全指南 | Marcelkhan | [Read More](https://medium.com/p/80e4b30802e2) |
 | Sun, 14 Jun 2026 10:05:56 GMT | An AI Copilot for Auditors and CISOs | Igor Gorbenko | [Read More](https://medium.com/p/8514a2540449) |
@@ -88,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 13 Jun 2026 23:04:00 GMT | Your KMP library is only as protected as its weakest target. And the attacker knows it. | Jackson F. de A. M. | [Read More](https://medium.com/p/be5b4711f65a) |
 | Sat, 13 Jun 2026 23:02:09 GMT | Network Evasion + SDR Warfare. AI-Directed. Zero Mercy. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/11accb1400a5) |
 | Sat, 13 Jun 2026 22:45:53 GMT | Sovereignty Moves the Kill Switch. It Doesn’t Fill the Referee Chair. | Pharns | [Read More](https://medium.com/p/24ad2a709b9a) |
-| Sat, 13 Jun 2026 22:03:45 GMT | Can AI Replace Security Guards? The Truth for Alberta Businesses | Attaullah Trdp | [Read More](https://medium.com/p/ac5cb8450673) |
-| Sat, 13 Jun 2026 22:01:00 GMT | Third-Party Code Just Beat Passwords in Google’s Cloud Data | James Kuhman | [Read More](https://medium.com/p/74257c360719) |
-| Sat, 13 Jun 2026 21:51:52 GMT | How I Was Able to Create an Account on Any Third Party Application Using an Acronis-owned Email… | Vineet Singh | [Read More](https://medium.com/p/b0eaafdf55de) |
-| Sat, 13 Jun 2026 21:38:07 GMT | Senario 1: Red Team vs Blue Team: How to Execute a Kerberoasting Attack and Detect It Using Wazuh… | Ibrahim Dia (Kg4real) | [Read More](https://medium.com/p/13185ea39272) |
-| Sat, 13 Jun 2026 21:08:13 GMT | AES-256-GCM secures billions daily. Learn how it works and how nonce reuse breaks security. | Arsh Mishra | [Read More](https://medium.com/p/5508c1578a92) |
-| Sat, 13 Jun 2026 21:07:16 GMT | The Shadow You: When Your Digital Twin Knows You Better Than You Know Yourself | Challaravinder | [Read More](https://medium.com/p/a4e0ae2a755b) |
-| Sat, 13 Jun 2026 21:04:43 GMT | Fancy Bear: Inside the Russian Spy Group That Hacked an Election, a President, and NATO | Pop123 | [Read More](https://medium.com/p/5c115411b6d3) |
-| Sat, 13 Jun 2026 21:01:13 GMT | Why Rotating TSIG Keys (and Passwords) Matters More Than You Think | Henry Obeng Nsiah (Astro) | [Read More](https://medium.com/p/6c59b8733d82) |
-| Sat, 13 Jun 2026 20:46:25 GMT | SOC Narrative: How Small LLMs Explain Insider Threat Detection | Datascientistrip | [Read More](https://medium.com/p/b2b32dcafd8b) |
-| Sat, 13 Jun 2026 20:46:20 GMT | The Role of Security Guards in Staten Island for Luxury Resorts | The Safety Perspective | [Read More](https://medium.com/p/148691248f27) |
-| Sat, 13 Jun 2026 20:46:14 GMT | Google API Key Exposure: Risks, Discovery, and Impact | ATTER Koffi Kallern | [Read More](https://medium.com/p/1bba466315c7) |
-| Sat, 13 Jun 2026 20:44:50 GMT | Your keys, your data: why TG:ON runs locally | Redzwhite | [Read More](https://medium.com/p/eee01e008e48) |
-| Sat, 13 Jun 2026 20:44:38 GMT | Executive Protection Is No Longer a Physical Security Problem | mePrism Privacy | [Read More](https://medium.com/p/514f62b774e2) |
-| Sat, 13 Jun 2026 20:41:55 GMT | Why Data Privacy Matters More in 2026 Than Ever Before | lazy designer | [Read More](https://medium.com/p/3141d37ac9ba) |
-| Sat, 13 Jun 2026 20:35:13 GMT | When news broke about the recent Canvas security incident, much of the discussion focused on a… | mePrism Privacy | [Read More](https://medium.com/p/b04f326915c7) |
-| Sat, 13 Jun 2026 20:33:47 GMT | AAGUIDs and how to identify what type of authenticator a passkey was created with | Espen Steen | [Read More](https://medium.com/p/fc1983a02f06) |
-| Sat, 13 Jun 2026 20:33:24 GMT | Your Encryption Is Already Compromised…You Just Don’t Know It Yet | Nemal Perera, B.Sc. Eng. | [Read More](https://medium.com/p/285570ccf8fb) |
-| Sat, 13 Jun 2026 20:31:30 GMT | I Found a Vulnerability on a Government Web Portal. Here’s What Happened Next… | Sriman kundu | [Read More](https://medium.com/p/6495637d5c8a) |
-| Sat, 13 Jun 2026 20:18:12 GMT | HMAC Internals | Pushpak Jalan | [Read More](https://medium.com/p/7345c79efab3) |
-| Sat, 13 Jun 2026 19:53:40 GMT | How GPS-Guided Missiles Work
-The Ultimate Game of Follow-the-Leader: How Rockets Use Space… | Mihika Vashistha | [Read More](https://medium.com/p/26874e94af9f) |
-| Sat, 13 Jun 2026 19:51:57 GMT | The Illusion of AI Sovereignty: What the Claude Fable 5 "Block" Teaches Us About Vendor Lock-In | Laroweb3 | [Read More](https://medium.com/p/f25cb57be80e) |
-| Sat, 13 Jun 2026 19:44:45 GMT | I Surveyed 300 Students About Phishing. | Mihika Vashistha | [Read More](https://medium.com/p/b284d3031802) |
-| Sat, 13 Jun 2026 19:41:00 GMT | Weaponizing Logs: How Attackers Crash Apps via Synchronous Logging (And How ELK Fixes It) | Pau Dang | [Read More](https://medium.com/p/373d0bb84729) |
-| Sat, 13 Jun 2026 19:38:09 GMT | I Built A Mini SIEM: What It Taught Me | Omotiafe Aregbeyen | [Read More](https://medium.com/p/153c6b2f731d) |
