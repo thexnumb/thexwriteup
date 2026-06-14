@@ -12,6 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Jun 2026 14:32:18 GMT | Tracing the Untraceable: Language Pattern Analysis, IP Attribution, and Decloaking Techniques in… | Brian James Curry | [Read More](https://medium.com/p/27b03df651b4) |
+| Sun, 14 Jun 2026 14:26:21 GMT | Linux Privilege Escalation: The OSCP Methodology That Gets You Root Every Time | Ashish Ghimire | [Read More](https://medium.com/p/86d347a6d4ef) |
+| Sun, 14 Jun 2026 14:25:27 GMT | Data Products on Snowflake: A Manufacturing Playbook | Rishabh sahni | [Read More](https://medium.com/p/925ee4bf6d66) |
+| Sun, 14 Jun 2026 14:22:45 GMT | Research On Packet Sniffing, HTTP and HTTPS Vulnerabilities, and Lack of Password Confirmation | FARAZ A.K | [Read More](https://medium.com/p/cdfef2768038) |
+| Sun, 14 Jun 2026 14:19:24 GMT | How to Fix Image Upload Issues in WordPress Media Library (Step-by-Step Guide) | 79mplus | [Read More](https://medium.com/p/20d9852868d3) |
+| Sun, 14 Jun 2026 14:19:11 GMT | How a Single Permission Misconfiguration Can Lead to Full System Compromise | Harshita Chaplot | [Read More](https://medium.com/p/5b9b055910dd) |
+| Sun, 14 Jun 2026 14:14:47 GMT | Day 19 of Learning AWS: Hosting Static Websites on S3 and URL Redirects | Muhammad Kashif | [Read More](https://medium.com/p/d1cbb20122cc) |
+| Sun, 14 Jun 2026 14:10:12 GMT | Figuring It Out in Public: Why I’m Documenting My Cybersecurity Journey #0 | Uplaksh Tyagi | [Read More](https://medium.com/p/2747c77bd3e2) |
+| Sun, 14 Jun 2026 14:08:14 GMT | Why The US Is Treating AI Like A Nuclear Threat | The Techtonic | [Read More](https://medium.com/p/36e8b7289372) |
+| Sun, 14 Jun 2026 14:02:55 GMT | Bots Behave Alone. Fleets Betray Themselves. | Koshy | [Read More](https://medium.com/p/45276c2430de) |
+| Sun, 14 Jun 2026 13:59:50 GMT | I Lost My IT Job. Here’s Why I’m Not Panicking. | Syed Anees Khan | [Read More](https://medium.com/p/9e92138d5077) |
+| Sun, 14 Jun 2026 13:56:59 GMT | Why Runtime Security Matters in the Age of AI: Lessons from Concordium’s Grey Box Audit | RUQOCrypTO | [Read More](https://medium.com/p/160e92d3757c) |
+| Sun, 14 Jun 2026 13:55:02 GMT | Key takeaways of the “101 Real-World Blockchain Use Cases Handbook — 2026 Edition” released by… | Intellibytes | [Read More](https://medium.com/p/df9d43bf9a55) |
+| Sun, 14 Jun 2026 13:50:48 GMT | Guided Pentest: Web - TryHackMe Walkthrough | Zhongli | [Read More](https://medium.com/p/d99393e2efae) |
+| Sun, 14 Jun 2026 13:49:01 GMT | DontFeedTheAI: The Ultimate AI Platform for Penetration Testing | Pentester Club | [Read More](https://medium.com/p/60a96839cd8c) |
+| Sun, 14 Jun 2026 13:42:38 GMT | 10 Linux Commands That Instantly Make You More Productive | Fateyaly | [Read More](https://medium.com/p/9883e5516a23) |
+| Sun, 14 Jun 2026 13:23:26 GMT | Beyond HTTPS: Securing API Payloads with ECDH + HKDF | Nilay Shah | [Read More](https://medium.com/p/ff6586f71ba0) |
+| Sun, 14 Jun 2026 13:22:47 GMT | Crashing Android’s system_server | Hassan Badran | [Read More](https://medium.com/p/2fa9ca68f0d8) |
+| Sun, 14 Jun 2026 13:21:02 GMT | Subdomain Enumeration: A Core Technique Every Bug Hunter Must Master | MD Mehedi Hasan | [Read More](https://medium.com/p/e80612dd3454) |
+| Sun, 14 Jun 2026 13:10:59 GMT | Research On Host Header injection | FARAZ A.K | [Read More](https://medium.com/p/8767ba3f29d6) |
+| Sun, 14 Jun 2026 13:09:09 GMT | From Traditional Security to Cloud Security, Part 1: AWS IAM Policy Evaluation Explained Like… | Phenomenal | [Read More](https://medium.com/p/bb0d6c1c8008) |
+| Sun, 14 Jun 2026 13:00:40 GMT | DeepSeek Pakai Chip Huawei, Bukti Asia Bisa Mandiri di Era AI Global | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/9b79432b1a0a) |
+| Sun, 14 Jun 2026 12:56:07 GMT | Exploring Unikernels: What I Found Building a Benchmarking Tool | Shreyas Bhagavath Devasya | [Read More](https://medium.com/p/60b24339f5a4) |
+| Sun, 14 Jun 2026 12:51:47 GMT | Scoring Vulnerabilities in 2026: The CVSS 3.1 to 4.0 Migration | Pushkar Nandwalkar | [Read More](https://medium.com/p/bb9b286ed27e) |
+| Sun, 14 Jun 2026 12:45:18 GMT | From Pen-Test to Production: An Autonomous Remediation Pipeline | Saleem Latif | [Read More](https://medium.com/p/80dfa71a09dd) |
+| Sun, 14 Jun 2026 12:36:40 GMT | Debugging a “Simple” Wazuh Dashboard 502: A Journey Through Kubernetes Networking, NetworkPolicies… | RSandy | [Read More](https://medium.com/p/4a7925891752) |
+| Sun, 14 Jun 2026 12:35:39 GMT | My Python Programming Internship Experience at Oasis Infobyte: Learning Through Real-World Projects | Giteshagolatkar Work | [Read More](https://medium.com/p/d9fd53f43765) |
+| Sun, 14 Jun 2026 12:35:36 GMT | My Python Programming Internship Experience at Oasis Infobyte: Learning Through Real-World Projects | Om Dalvi | [Read More](https://medium.com/p/00d93d8cba5f) |
+| Sun, 14 Jun 2026 12:28:20 GMT | AI,Cybersecurity, and the Question We All Ask: Is My Data Safe? | Salonista Cynthia | [Read More](https://medium.com/p/e0f0f40632cd) |
+| Sun, 14 Jun 2026 12:24:24 GMT | TryHackMe Walkthrough — Incident Response: Detection and Analysis (Task 6: Detection Practical and… | Fuad Khan | [Read More](https://medium.com/p/bcb93565a454) |
 | Sun, 14 Jun 2026 12:18:01 GMT | How I Built ScamShield: An AI-Powered System That Detects Fake Job Recruiters Before You Click… | Souvik Das | [Read More](https://medium.com/p/48342746d760) |
 | Sun, 14 Jun 2026 12:16:00 GMT | AI 時代下，資訊人的下一張王牌是什麼？ | haha1811 | [Read More](https://medium.com/p/1dbd053075b9) |
 | Sun, 14 Jun 2026 12:14:49 GMT | Best Cybersecurity Internship training in India for Students After Class 12th | cybersecuritycourse | [Read More](https://medium.com/p/e4fe1d37791e) |
@@ -82,33 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Jun 2026 05:32:33 GMT | What Is Included In Guardz’ for MSPs service? | Doni Brass - Guardz | [Read More](https://medium.com/p/8545731a6f5f) |
 | Sun, 14 Jun 2026 05:29:07 GMT | The end of Nightmare Eclipse. | Lazyboii | [Read More](https://medium.com/p/cf2ecf5eac50) |
 | Sun, 14 Jun 2026 05:21:07 GMT | Bypassing Strict WAFs: Reflected XSS with Event Handlers and Href Attributes Blocked | Ayeshaaghafoor | [Read More](https://medium.com/p/94ff6b212728) |
-| Sun, 14 Jun 2026 05:19:31 GMT | Security Foundations: Passkeys | Vijay | [Read More](https://medium.com/p/169f7366b3d0) |
-| Sun, 14 Jun 2026 05:18:23 GMT | 247ctf COMPARE THE PAIR | Ericmpta | [Read More](https://medium.com/p/f81977a85687) |
-| Sun, 14 Jun 2026 05:16:49 GMT | Secure Debian Laptop Setup: FIDO2 Keys, LUKS2, Btrfs, Snapper, dracut, and GRUB Rollback | anonymous howtos | [Read More](https://medium.com/p/8bde1329c6a0) |
-| Sun, 14 Jun 2026 05:14:02 GMT | The Moment You Know It Is Time to Upgrade Yourself | ZUBAIR AHMED | [Read More](https://medium.com/p/27d94b1bcfa2) |
-| Sun, 14 Jun 2026 05:07:59 GMT | Stop Renting, Start Owning: The Truth About India’s AI Boom | Thejeswar A | [Read More](https://medium.com/p/0eb14090607e) |
-| Sun, 14 Jun 2026 05:01:31 GMT | Anatomy of an Exploit Chain: From Session Forging to RCE (Helium Challenge Batch 3) | DeepCodeX | [Read More](https://medium.com/p/91e23d5bd127) |
-| Sun, 14 Jun 2026 04:54:35 GMT | Understanding Linux File Permissions: Securing Files and Directories | 0xJBsec | [Read More](https://medium.com/p/29d85325819d) |
-| Sun, 14 Jun 2026 04:14:57 GMT | BugHunter Review 2026: AI Bug Bounty Toolkit Powered by Claude (Free and Paid Options) | Surendra Reddy | [Read More](https://medium.com/p/55d5d481b055) |
-| Sun, 14 Jun 2026 04:10:16 GMT | From GitHub to Production: Securing the Software Supply Chain | Puja Maheshvari | [Read More](https://medium.com/p/c39bdd1ed417) |
-| Sun, 14 Jun 2026 03:55:00 GMT | Penetration testing for QA Engineers: Understanding security beyond functional testing | Sudasun Malaviarachchi | [Read More](https://medium.com/p/8527689896b0) |
-| Sun, 14 Jun 2026 03:32:44 GMT | Why Zero-Trust Security Matters for Sweepstakes Gaming Platforms | Suktatowing | [Read More](https://medium.com/p/19dc5fe750fc) |
-| Sun, 14 Jun 2026 02:49:42 GMT | Cybercrime Is Changing Shape: Five Signals Every Risk Leader Should Watch | Balasubramaniam GD | [Read More](https://medium.com/p/b9e9d7237c1a) |
-| Sun, 14 Jun 2026 02:15:32 GMT | Soupedecode 01 (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/0e2d84d75031) |
-| Sun, 14 Jun 2026 02:11:00 GMT | Why Your UIKit Border Colors Break in Dark Mode (And How to Fix It) | Jerry PM | [Read More](https://medium.com/p/a97567dcd373) |
-| Sun, 14 Jun 2026 02:06:49 GMT | The July 2026 Blackout: Why Most Salesforce Admins Are About to Lock Themselves Out of Their Own… | Mani | [Read More](https://medium.com/p/4cdc5620de91) |
-| Sun, 14 Jun 2026 01:58:53 GMT | The Best Bug Is the One You Actually Report | Decline | [Read More](https://medium.com/p/b95bcf289b39) |
-| Sun, 14 Jun 2026 01:43:07 GMT | I Accessed 2,000+ Unsecured Ollama Servers | Victor Condino | [Read More](https://medium.com/p/4e7c5e524325) |
-| Sun, 14 Jun 2026 01:19:19 GMT | What Is Networking? A Beginner-Friendly Introduction to How Devices Communicate | Hassan Bilal Siddiqui | [Read More](https://medium.com/p/4b245f220ead) |
-| Sun, 14 Jun 2026 01:02:49 GMT | Collection of Healthcare Technology/Medtech Industry News and Biomedical Engineering Development —… | Willies Wu | [Read More](https://medium.com/p/f38874bafa8b) |
-| Sun, 14 Jun 2026 01:02:29 GMT | AI Scam Renaissance — How Claude Got My Ghost Website Hacked | Dalichrome | [Read More](https://medium.com/p/21e912ded551) |
-| Sun, 14 Jun 2026 00:53:33 GMT | Collection of Healthcare Technology/Medtech Industry News and Biomedical Engineering Development —… | Willies Wu | [Read More](https://medium.com/p/4914dc9bf68f) |
-| Sun, 14 Jun 2026 00:51:30 GMT | No JS - AlpacaHack | 00xCanelo | [Read More](https://medium.com/p/51d0212e50f4) |
-| Sun, 14 Jun 2026 00:35:25 GMT | A Story Behind CVE-2025-59194 | Faathin | [Read More](https://medium.com/p/e9c01bd68034) |
-| Sun, 14 Jun 2026 00:01:48 GMT | The Owl and the Lantern | Zodiacdirecter | [Read More](https://medium.com/p/60388b1d5649) |
-| Sat, 13 Jun 2026 23:57:10 GMT | API Fortress: The AI-Powered API Security Platform That Protects Your Business Before a Breach… | Fortress Technologies Hub | [Read More](https://medium.com/p/5d222883ea89) |
-| Sat, 13 Jun 2026 23:38:34 GMT | Why “Can Your Team Actually Use It?” Is a Security Metric | Accessible Security | [Read More](https://medium.com/p/a99eaf454662) |
-| Sat, 13 Jun 2026 23:10:14 GMT | Ghost in the Packets. Phantom in the Spectrum. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/bfb153474bd0) |
-| Sat, 13 Jun 2026 23:04:00 GMT | Your KMP library is only as protected as its weakest target. And the attacker knows it. | Jackson F. de A. M. | [Read More](https://medium.com/p/be5b4711f65a) |
-| Sat, 13 Jun 2026 23:02:09 GMT | Network Evasion + SDR Warfare. AI-Directed. Zero Mercy. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/11accb1400a5) |
-| Sat, 13 Jun 2026 22:45:53 GMT | Sovereignty Moves the Kill Switch. It Doesn’t Fill the Referee Chair. | Pharns | [Read More](https://medium.com/p/24ad2a709b9a) |
