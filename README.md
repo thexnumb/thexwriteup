@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Jun 2026 01:43:07 GMT | I Accessed 2,000+ Unsecured Ollama Servers | Victor Condino | [Read More](https://medium.com/p/4e7c5e524325) |
+| Sun, 14 Jun 2026 01:19:19 GMT | What Is Networking? A Beginner-Friendly Introduction to How Devices Communicate | Hassan Bilal Siddiqui | [Read More](https://medium.com/p/4b245f220ead) |
+| Sun, 14 Jun 2026 01:02:49 GMT | Collection of Healthcare Technology/Medtech Industry News and Biomedical Engineering Development —… | Willies Wu | [Read More](https://medium.com/p/f38874bafa8b) |
+| Sun, 14 Jun 2026 01:02:29 GMT | AI Scam Renaissance — How Claude Got My Ghost Website Hacked | Dalichrome | [Read More](https://medium.com/p/21e912ded551) |
+| Sun, 14 Jun 2026 00:53:33 GMT | Collection of Healthcare Technology/Medtech Industry News and Biomedical Engineering Development —… | Willies Wu | [Read More](https://medium.com/p/4914dc9bf68f) |
+| Sun, 14 Jun 2026 00:51:30 GMT | No JS - AlpacaHack | 00xCanelo | [Read More](https://medium.com/p/51d0212e50f4) |
+| Sun, 14 Jun 2026 00:35:25 GMT | A Story Behind CVE-2025-59194 | Faathin | [Read More](https://medium.com/p/e9c01bd68034) |
+| Sun, 14 Jun 2026 00:01:48 GMT | The Owl and the Lantern | Zodiacdirecter | [Read More](https://medium.com/p/60388b1d5649) |
+| Sat, 13 Jun 2026 23:57:10 GMT | API Fortress: The AI-Powered API Security Platform That Protects Your Business Before a Breach… | Fortress Technologies Hub | [Read More](https://medium.com/p/5d222883ea89) |
+| Sat, 13 Jun 2026 23:38:34 GMT | Why “Can Your Team Actually Use It?” Is a Security Metric | Accessible Security | [Read More](https://medium.com/p/a99eaf454662) |
+| Sat, 13 Jun 2026 23:10:14 GMT | Ghost in the Packets. Phantom in the Spectrum. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/bfb153474bd0) |
+| Sat, 13 Jun 2026 23:04:00 GMT | Your KMP library is only as protected as its weakest target. And the attacker knows it. | Jackson F. de A. M. | [Read More](https://medium.com/p/be5b4711f65a) |
+| Sat, 13 Jun 2026 23:02:09 GMT | Network Evasion + SDR Warfare. AI-Directed. Zero Mercy. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/11accb1400a5) |
 | Sat, 13 Jun 2026 22:45:53 GMT | Sovereignty Moves the Kill Switch. It Doesn’t Fill the Referee Chair. | Pharns | [Read More](https://medium.com/p/24ad2a709b9a) |
 | Sat, 13 Jun 2026 22:03:45 GMT | Can AI Replace Security Guards? The Truth for Alberta Businesses | Attaullah Trdp | [Read More](https://medium.com/p/ac5cb8450673) |
 | Sat, 13 Jun 2026 22:01:00 GMT | Third-Party Code Just Beat Passwords in Google’s Cloud Data | James Kuhman | [Read More](https://medium.com/p/74257c360719) |
@@ -100,16 +113,3 @@ The Ultimate Game of Follow-the-Leader: How Rockets Use Space… | Mihika Vashis
 | Sat, 13 Jun 2026 14:37:19 GMT | How Nmap Helped Me Discover a $4,000 Vulnerability on an E-Commerce Platform | Cybervolt | [Read More](https://medium.com/p/aaa4c40c4bdc) |
 | Sat, 13 Jun 2026 14:35:42 GMT | Azure Managed Identity with Microsoft Entra ID: How It Actually Works | Compile & Conquer | [Read More](https://medium.com/p/f633164eb785) |
 | Sat, 13 Jun 2026 14:33:48 GMT | Why Uncle Sam Suspended Claude Fable 5 | Lomash Sharma | [Read More](https://medium.com/p/56f3fa7e693d) |
-| Sat, 13 Jun 2026 14:31:00 GMT | Why Deleting Cloud Resources Exposes Your Enterprise | PRASAD BHONDE | [Read More](https://medium.com/p/20a2cb907721) |
-| Sat, 13 Jun 2026 14:25:49 GMT | Bangladesh’s Islamist Resurgence Is Becoming South Asia’s Next Security Crisis | Saurav Dutt | [Read More](https://medium.com/p/ad6d68417fc0) |
-| Sat, 13 Jun 2026 14:24:29 GMT | Nobody Taught Me Malware Analysis. I Had to Figure It Out the Hard Way. | Nikhi Chavan | [Read More](https://medium.com/p/ef0653b4b72c) |
-| Sat, 13 Jun 2026 14:24:10 GMT | Wgel CTF by Mike the Hacker | Ramkumar | [Read More](https://medium.com/p/11a64963f0b1) |
-| Sat, 13 Jun 2026 14:20:28 GMT | Understanding LSD Effects and Risks: What Current Research Shows | Tor BBB | [Read More](https://medium.com/p/5aa4742fc0f1) |
-| Sat, 13 Jun 2026 14:06:55 GMT | Data-driven Programming：讓數據決定程式邏輯 | 思維舞步 MindSteps | [Read More](https://medium.com/p/34ba40e94c68) |
-| Sat, 13 Jun 2026 14:06:45 GMT | Anthropic Built an AI Too Dangerous to Release Publicly. | Toyez | [Read More](https://medium.com/p/2449d724b2f6) |
-| Sat, 13 Jun 2026 14:04:00 GMT | Zero Trust for Python Security: A Practical Checklist | Maikel Mardjan | [Read More](https://medium.com/p/fab2f50c12c0) |
-| Sat, 13 Jun 2026 14:01:03 GMT | Threat Hunting with WAF - LetsDefend | 0verRida | [Read More](https://medium.com/p/acc9c4cb56a6) |
-| Sat, 13 Jun 2026 14:00:31 GMT | Elastic to Wazuh: A Technical Crosswalk of SIEM Components | Tamir Suliman | [Read More](https://medium.com/p/916f773f04a4) |
-| Sat, 13 Jun 2026 14:00:05 GMT | 10 GitHub repositories so good they shouldn't be free. | ㅤㅤㅤㅤㅤㅤㅤㅤㅤ | [Read More](https://medium.com/p/2ff46761dc6f) |
-| Sat, 13 Jun 2026 13:51:04 GMT | You Would Not Hire Someone and Give Them the Keys to Everything on Day One. | Anirban Biswas | [Read More](https://medium.com/p/70540b410bcd) |
-| Sat, 13 Jun 2026 13:44:58 GMT | Cross-site scripting 1 (APPRENTICE) | Nadia | [Read More](https://medium.com/p/dcb4e5db4518) |
