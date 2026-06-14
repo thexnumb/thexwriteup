@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Jun 2026 21:02:12 GMT | Why Bridges Are a Hacker’s Favorite ATM | Abraham | [Read More](https://medium.com/p/981ed49c564e) |
+| Sun, 14 Jun 2026 21:01:37 GMT | Mapping Active Directory with LDAP and PowerView | Will Giles - Cybersecurity | [Read More](https://medium.com/p/db4959baab9d) |
+| Sun, 14 Jun 2026 21:01:35 GMT | Building a SOC-Style Cybersecurity Homelab | Omer Mohamed | [Read More](https://medium.com/p/60e356846de7) |
+| Sun, 14 Jun 2026 20:57:17 GMT | Hybrid Cloud Security: The Gaps Nobody Talks About Until It’s Too Late | Alan Conlon | [Read More](https://medium.com/p/17165389666d) |
+| Sun, 14 Jun 2026 20:51:09 GMT | Top 10 Cybersecurity & AI Threats Reshaping 2026: What You Must Know Before the Next Attack | Akash PS Cybersecurity Researcher - AAVETech | [Read More](https://medium.com/p/950d5294a01c) |
+| Sun, 14 Jun 2026 20:48:36 GMT | Haftalık Siber Güvenlik Özeti | Dogukan İSPİRLİ | [Read More](https://medium.com/p/e7be93bca29c) |
+| Sun, 14 Jun 2026 20:36:04 GMT | AI is plug-in, not glued-in. | NanoChain | [Read More](https://medium.com/p/f6696539f5c7) |
+| Sun, 14 Jun 2026 20:35:54 GMT | Released Monday. Gone Thursday. | Baker Nanduru | [Read More](https://medium.com/p/deffd510e2e1) |
+| Sun, 14 Jun 2026 20:33:28 GMT | What We Learned Presenting GhostPay Mesh at Web Summit Rio 2026 | Wesley S. Favarin | [Read More](https://medium.com/p/801cf4cdcc1a) |
+| Sun, 14 Jun 2026 20:17:40 GMT | Exploiting VSFTPD 2.3.4 on Metasploitable 2 | Najeebparkar | [Read More](https://medium.com/p/025a2b2aa738) |
+| Sun, 14 Jun 2026 20:06:22 GMT | A beginner-friendly walkthrough of DLL injection using Windows APIs in C | v3x | [Read More](https://medium.com/p/c977acf4fbb7) |
+| Sun, 14 Jun 2026 20:03:40 GMT | Introducing Envfy — A simple and type-safe environment variable validator for Node.js applications | Yasser Fedsi | [Read More](https://medium.com/p/73649053a7fd) |
+| Sun, 14 Jun 2026 19:56:17 GMT | Searchable encryption in Rust: querying PII you can’t decrypt | Sergio Mauircio Robayo Rojas | [Read More](https://medium.com/p/9787cf46706d) |
+| Sun, 14 Jun 2026 19:51:04 GMT | What is Networking? — The First Step in Understanding How Devices Communicate #004 | Mr. Rajak | [Read More](https://medium.com/p/af0466d7c8af) |
+| Sun, 14 Jun 2026 19:40:18 GMT | I Built a Purple Team Home Lab — Attacking and Detecting in the Same Environment | Shyroot | [Read More](https://medium.com/p/41dc4f2f4756) |
 | Sun, 14 Jun 2026 19:39:01 GMT | I Wasted 3 Days Intercepting a Flutter App. Here’s What Actually Works. | Iamarbaz | [Read More](https://medium.com/p/d3e9a4816818) |
 | Sun, 14 Jun 2026 19:36:02 GMT | Best WhatsApp Tracker App for Chat, Call & Recording (2026 Guide) | Mob Monitor | [Read More](https://medium.com/p/e3cfd82ad270) |
 | Sun, 14 Jun 2026 19:30:00 GMT | Living Off Restricted Interfaces: Data Exfiltration via Flipper Zero (and I’m not really a… | Anurag Rawat | [Read More](https://medium.com/p/5c80e6670b9b) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Jun 2026 13:49:01 GMT | DontFeedTheAI: The Ultimate AI Platform for Penetration Testing | Pentester Club | [Read More](https://medium.com/p/60a96839cd8c) |
 | Sun, 14 Jun 2026 13:42:38 GMT | 10 Linux Commands That Instantly Make You More Productive | Fateyaly | [Read More](https://medium.com/p/9883e5516a23) |
 | Sun, 14 Jun 2026 13:23:26 GMT | Beyond HTTPS: Securing API Payloads with ECDH + HKDF | Nilay Shah | [Read More](https://medium.com/p/ff6586f71ba0) |
-| Sun, 14 Jun 2026 13:22:47 GMT | Crashing Android’s system_server | Hassan Badran | [Read More](https://medium.com/p/2fa9ca68f0d8) |
-| Sun, 14 Jun 2026 13:21:02 GMT | Subdomain Enumeration: A Core Technique Every Bug Hunter Must Master | MD Mehedi Hasan | [Read More](https://medium.com/p/e80612dd3454) |
-| Sun, 14 Jun 2026 13:10:59 GMT | Research On Host Header injection | FARAZ A.K | [Read More](https://medium.com/p/8767ba3f29d6) |
-| Sun, 14 Jun 2026 13:09:09 GMT | From Traditional Security to Cloud Security, Part 1: AWS IAM Policy Evaluation Explained Like… | Phenomenal | [Read More](https://medium.com/p/bb0d6c1c8008) |
-| Sun, 14 Jun 2026 13:00:40 GMT | DeepSeek Pakai Chip Huawei, Bukti Asia Bisa Mandiri di Era AI Global | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/9b79432b1a0a) |
-| Sun, 14 Jun 2026 12:56:07 GMT | Exploring Unikernels: What I Found Building a Benchmarking Tool | Shreyas Bhagavath Devasya | [Read More](https://medium.com/p/60b24339f5a4) |
-| Sun, 14 Jun 2026 12:51:47 GMT | Scoring Vulnerabilities in 2026: The CVSS 3.1 to 4.0 Migration | Pushkar Nandwalkar | [Read More](https://medium.com/p/bb9b286ed27e) |
-| Sun, 14 Jun 2026 12:45:18 GMT | From Pen-Test to Production: An Autonomous Remediation Pipeline | Saleem Latif | [Read More](https://medium.com/p/80dfa71a09dd) |
-| Sun, 14 Jun 2026 12:36:40 GMT | Debugging a “Simple” Wazuh Dashboard 502: A Journey Through Kubernetes Networking, NetworkPolicies… | RSandy | [Read More](https://medium.com/p/4a7925891752) |
-| Sun, 14 Jun 2026 12:35:39 GMT | My Python Programming Internship Experience at Oasis Infobyte: Learning Through Real-World Projects | Giteshagolatkar Work | [Read More](https://medium.com/p/d9fd53f43765) |
-| Sun, 14 Jun 2026 12:35:36 GMT | My Python Programming Internship Experience at Oasis Infobyte: Learning Through Real-World Projects | Om Dalvi | [Read More](https://medium.com/p/00d93d8cba5f) |
-| Sun, 14 Jun 2026 12:28:20 GMT | AI,Cybersecurity, and the Question We All Ask: Is My Data Safe? | Salonista Cynthia | [Read More](https://medium.com/p/e0f0f40632cd) |
-| Sun, 14 Jun 2026 12:24:24 GMT | TryHackMe Walkthrough — Incident Response: Detection and Analysis (Task 6: Detection Practical and… | Fuad Khan | [Read More](https://medium.com/p/bcb93565a454) |
-| Sun, 14 Jun 2026 12:18:01 GMT | How I Built ScamShield: An AI-Powered System That Detects Fake Job Recruiters Before You Click… | Souvik Das | [Read More](https://medium.com/p/48342746d760) |
-| Sun, 14 Jun 2026 12:16:00 GMT | AI 時代下，資訊人的下一張王牌是什麼？ | haha1811 | [Read More](https://medium.com/p/1dbd053075b9) |
