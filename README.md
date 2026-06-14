@@ -12,6 +12,40 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Jun 2026 06:31:29 GMT | Breaking Lakera’s Gandalf: What 7 Levels Taught Me About LLM Security | vazuk1 | [Read More](https://medium.com/p/04951058ae91) |
+| Sun, 14 Jun 2026 06:16:00 GMT | When AI Becomes a National Security Asset: The Global Fallout from Anthropic’s Fable 5 and Mythos 5… | eL Njas!™ | [Read More](https://medium.com/p/65417a7e8868) |
+| Sun, 14 Jun 2026 06:02:22 GMT | Build Your Own Linux Shell in C (Part 2): Understanding the Shell Architecture Before Writing Logic | Alwinaji | [Read More](https://medium.com/p/32b108768562) |
+| Sun, 14 Jun 2026 06:00:34 GMT | Developing Secure Authentication Systems with NextAuth.js: Latest Approaches | @rnab | [Read More](https://medium.com/p/de0ec16c67e5) |
+| Sun, 14 Jun 2026 05:59:34 GMT | The Weight of Loneliness | Inara Neva | [Read More](https://medium.com/p/8f4fcb78a0a7) |
+| Sun, 14 Jun 2026 05:58:07 GMT | The Quantum Race: Quantum Computing, Cryptography & Bharat’s Advent | FinSecLogs | [Read More](https://medium.com/p/d342897dadf2) |
+| Sun, 14 Jun 2026 05:57:52 GMT | A China-Linked Group Backdoored Linux Login Itself And Hid Inside It for Nearly a Decade | Sai kiran | [Read More](https://medium.com/p/0aa018391b50) |
+| Sun, 14 Jun 2026 05:56:54 GMT | Age Verification is Not About Safety - It’s About Power | Mail 17 | [Read More](https://medium.com/p/82db1bd19db0) |
+| Sun, 14 Jun 2026 05:55:38 GMT | You Tried to Open Claude Fable 5 Today. It Was Gone. The US Government Shut It Down Last Night. | Aiexpo App | [Read More](https://medium.com/p/25b4c6744cff) |
+| Sun, 14 Jun 2026 05:55:08 GMT | Task Execution Is Not Delivery. | Rubab Fatima | [Read More](https://medium.com/p/8c3c23892ff4) |
+| Sun, 14 Jun 2026 05:42:50 GMT | Ubuntu Server For Bug Bounty Hunting: How To Choose The Right Version, System Requirements, And… | ghostyjoe | [Read More](https://medium.com/p/9ee6a8678c4b) |
+| Sun, 14 Jun 2026 05:42:25 GMT | What Are Managed Services (MS)? | Doni Brass - Guardz | [Read More](https://medium.com/p/7aa050f80b7b) |
+| Sun, 14 Jun 2026 05:40:44 GMT | WEB EXPLOITATION CyLab: Crack the Gate 1 | Yanina | [Read More](https://medium.com/p/6e023c1db72c) |
+| Sun, 14 Jun 2026 05:33:45 GMT | Building a Windows Log Pipeline: Sysmon + Splunk Universal Forwarder + Splunk Enterprise | OxMotaw3 | [Read More](https://medium.com/p/8559460b3446) |
+| Sun, 14 Jun 2026 05:32:49 GMT | What Growing Businesses Often Overlook About Cyber Risk | Sheikh Ayan | [Read More](https://medium.com/p/3ae7916fb290) |
+| Sun, 14 Jun 2026 05:32:33 GMT | What Is Included In Guardz’ for MSPs service? | Doni Brass - Guardz | [Read More](https://medium.com/p/8545731a6f5f) |
+| Sun, 14 Jun 2026 05:29:07 GMT | The end of Nightmare Eclipse. | Lazyboii | [Read More](https://medium.com/p/cf2ecf5eac50) |
+| Sun, 14 Jun 2026 05:21:07 GMT | Bypassing Strict WAFs: Reflected XSS with Event Handlers and Href Attributes Blocked | Ayeshaaghafoor | [Read More](https://medium.com/p/94ff6b212728) |
+| Sun, 14 Jun 2026 05:19:31 GMT | Security Foundations: Passkeys | Vijay | [Read More](https://medium.com/p/169f7366b3d0) |
+| Sun, 14 Jun 2026 05:18:23 GMT | 247ctf COMPARE THE PAIR | Ericmpta | [Read More](https://medium.com/p/f81977a85687) |
+| Sun, 14 Jun 2026 05:16:49 GMT | Secure Debian Laptop Setup: FIDO2 Keys, LUKS2, Btrfs, Snapper, dracut, and GRUB Rollback | anonymous howtos | [Read More](https://medium.com/p/8bde1329c6a0) |
+| Sun, 14 Jun 2026 05:14:02 GMT | The Moment You Know It Is Time to Upgrade Yourself | ZUBAIR AHMED | [Read More](https://medium.com/p/27d94b1bcfa2) |
+| Sun, 14 Jun 2026 05:07:59 GMT | Stop Renting, Start Owning: The Truth About India’s AI Boom | Thejeswar A | [Read More](https://medium.com/p/0eb14090607e) |
+| Sun, 14 Jun 2026 05:01:31 GMT | Anatomy of an Exploit Chain: From Session Forging to RCE (Helium Challenge Batch 3) | DeepCodeX | [Read More](https://medium.com/p/91e23d5bd127) |
+| Sun, 14 Jun 2026 04:54:35 GMT | Understanding Linux File Permissions: Securing Files and Directories | 0xJBsec | [Read More](https://medium.com/p/29d85325819d) |
+| Sun, 14 Jun 2026 04:14:57 GMT | BugHunter Review 2026: AI Bug Bounty Toolkit Powered by Claude (Free and Paid Options) | Surendra Reddy | [Read More](https://medium.com/p/55d5d481b055) |
+| Sun, 14 Jun 2026 04:10:16 GMT | From GitHub to Production: Securing the Software Supply Chain | Puja Maheshvari | [Read More](https://medium.com/p/c39bdd1ed417) |
+| Sun, 14 Jun 2026 03:55:00 GMT | Penetration testing for QA Engineers: Understanding security beyond functional testing | Sudasun Malaviarachchi | [Read More](https://medium.com/p/8527689896b0) |
+| Sun, 14 Jun 2026 03:32:44 GMT | Why Zero-Trust Security Matters for Sweepstakes Gaming Platforms | Suktatowing | [Read More](https://medium.com/p/19dc5fe750fc) |
+| Sun, 14 Jun 2026 02:49:42 GMT | Cybercrime Is Changing Shape: Five Signals Every Risk Leader Should Watch | Balasubramaniam GD | [Read More](https://medium.com/p/b9e9d7237c1a) |
+| Sun, 14 Jun 2026 02:15:32 GMT | Soupedecode 01 (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/0e2d84d75031) |
+| Sun, 14 Jun 2026 02:11:00 GMT | Why Your UIKit Border Colors Break in Dark Mode (And How to Fix It) | Jerry PM | [Read More](https://medium.com/p/a97567dcd373) |
+| Sun, 14 Jun 2026 02:06:49 GMT | The July 2026 Blackout: Why Most Salesforce Admins Are About to Lock Themselves Out of Their Own… | Mani | [Read More](https://medium.com/p/4cdc5620de91) |
+| Sun, 14 Jun 2026 01:58:53 GMT | The Best Bug Is the One You Actually Report | Decline | [Read More](https://medium.com/p/b95bcf289b39) |
 | Sun, 14 Jun 2026 01:43:07 GMT | I Accessed 2,000+ Unsecured Ollama Servers | Victor Condino | [Read More](https://medium.com/p/4e7c5e524325) |
 | Sun, 14 Jun 2026 01:19:19 GMT | What Is Networking? A Beginner-Friendly Introduction to How Devices Communicate | Hassan Bilal Siddiqui | [Read More](https://medium.com/p/4b245f220ead) |
 | Sun, 14 Jun 2026 01:02:49 GMT | Collection of Healthcare Technology/Medtech Industry News and Biomedical Engineering Development —… | Willies Wu | [Read More](https://medium.com/p/f38874bafa8b) |
@@ -79,37 +113,3 @@ The Ultimate Game of Follow-the-Leader: How Rockets Use Space… | Mihika Vashis
 | Sat, 13 Jun 2026 17:26:03 GMT | Claude Mythos Finds 10,000 Vulnerabilities. The Real Story Is What Happens Next. | Cyber-AppSec | [Read More](https://medium.com/p/2db80561d723) |
 | Sat, 13 Jun 2026 17:25:10 GMT | The Essential Foundation Rules for Operational SIEM | Vincent Wizley | [Read More](https://medium.com/p/ce2d129dd653) |
 | Sat, 13 Jun 2026 17:21:21 GMT | Blind Extraction of Password Hashes via an Unauthenticated GraphQL Count Oracle | M0n3m | [Read More](https://medium.com/p/505ce835a4c0) |
-| Sat, 13 Jun 2026 17:04:51 GMT | The $500,000 Prompt: How an AI-Driven Hack Penetrated Google’s Core Infrastructure. | eL Njas!™ | [Read More](https://medium.com/p/e335f1b39ddf) |
-| Sat, 13 Jun 2026 17:02:52 GMT | JSON Web Tokens (JWT): Structure, Signing, and Claims | Rsarith | [Read More](https://medium.com/p/183fb66bb79c) |
-| Sat, 13 Jun 2026 16:47:25 GMT | My First Day as a Penetration Tester Was Nothing Like the YouTube Videos Showed. | CYBER MIND SPACE | [Read More](https://medium.com/p/390ef353c069) |
-| Sat, 13 Jun 2026 16:31:17 GMT | When a Partner Pulls the Plug: What the Fable 5 Ban Tells Europe About Digital Autonomy | Mat Cyb3rF0x Fuchs | [Read More](https://medium.com/p/ee4321c4d001) |
-| Sat, 13 Jun 2026 16:31:00 GMT | 7 Docker Security Best Practices for Production | bektiaw | [Read More](https://medium.com/p/64499519d5da) |
-| Sat, 13 Jun 2026 16:30:45 GMT | Not Every Scar Should Be Shown | Yamanta Raj Niroula | [Read More](https://medium.com/p/25c42be8ed78) |
-| Sat, 13 Jun 2026 16:22:50 GMT | Lessons Learned: Attack Flow, False Positives, and the SGMS Maturity Model | Oğuzhan karadağ | [Read More](https://medium.com/p/3a36dfc04bfa) |
-| Sat, 13 Jun 2026 16:22:36 GMT | Dersler: Attack Flow, False Positive Yönetimi ve SGMS Olgunluk Modeli | Oğuzhan karadağ | [Read More](https://medium.com/p/3e7c3290db01) |
-| Sat, 13 Jun 2026 16:14:51 GMT | Critical Palo Alto PAN-OS Vulnerability Enables Arbitrary Command Execution as Root User… | Surendra Reddy | [Read More](https://medium.com/p/25197038bee2) |
-| Sat, 13 Jun 2026 16:12:42 GMT | Docker: The Startup Project That Accidentally Changed Computing | Sam Writes Security | [Read More](https://medium.com/p/7b4b854054a0) |
-| Sat, 13 Jun 2026 16:12:18 GMT | My Security Analyst Internship Journey at Oasis Infobyte | Harshit Sudan | [Read More](https://medium.com/p/fa4e3c43e132) |
-| Sat, 13 Jun 2026 16:09:37 GMT | Building a Beginner-Friendly Vulnerability Scanner in Python | Tony Kahare | [Read More](https://medium.com/p/a241af3ad595) |
-| Sat, 13 Jun 2026 15:58:54 GMT | The Rise of the Agentic Cyber Platform: Where AI for Cyber Meets Cyber for AI | Subhodeep G | [Read More](https://medium.com/p/f21e3accb8bf) |
-| Sat, 13 Jun 2026 15:52:56 GMT | Vulnversity — TryHackMe Walkthrough | DoctorNeko | [Read More](https://medium.com/p/4a231da4b494) |
-| Sat, 13 Jun 2026 15:49:06 GMT | Linux Privilege Escalation via Writable /etc/passwd | Isha Sangpal | [Read More](https://medium.com/p/13934aa2797f) |
-| Sat, 13 Jun 2026 15:32:43 GMT | Explore High-Puff Disposable Vapes at Top Disposable Vape — 2026 Buyer’s Guide | Hadley Graham | [Read More](https://medium.com/p/b75b1066c26f) |
-| Sat, 13 Jun 2026 15:28:09 GMT | Cómo detectar sitios gubernamentales comprometidos con Spam SEO usando GobScan | rocurun | [Read More](https://medium.com/p/f8d0b7664e18) |
-| Sat, 13 Jun 2026 15:24:36 GMT | Why Are Privacy Users Looking Beyond Traditional Search? | onion links | [Read More](https://medium.com/p/282c82c91acc) |
-| Sat, 13 Jun 2026 15:23:06 GMT | Bypassing SMB Signing: Escalating Privileges via Cross-Protocol NTLM to LDAP Relaying | 0xHer0 | [Read More](https://medium.com/p/c594f6e25b38) |
-| Sat, 13 Jun 2026 15:18:33 GMT | gdorksAI: Applying Artificial Intelligence to Google Dorks | Brookz | [Read More](https://medium.com/p/98c25ff3d3ba) |
-| Sat, 13 Jun 2026 15:11:11 GMT | How Firewalls Keep Hackers Out | Raviteja Mureboina | [Read More](https://medium.com/p/5372a5e3d283) |
-| Sat, 13 Jun 2026 15:05:02 GMT | SIA LICENSED SECURITY GUARDS IN THE UK. | Dynamic security solution ltd | [Read More](https://medium.com/p/c96db42069dc) |
-| Sat, 13 Jun 2026 15:03:44 GMT | PRIVATE SECTOR LEADS NATIONAL AGRICULTURE RESILIENCE INITIATIVE | World News Today | [Read More](https://medium.com/p/7a9bc0a8564c) |
-| Sat, 13 Jun 2026 14:53:55 GMT | How I Won a $670 Bug Bounty Using Burp AI: From Recon to Responsible Disclosure | Cybervolt | [Read More](https://medium.com/p/1985546adc39) |
-| Sat, 13 Jun 2026 14:52:27 GMT | Easy SSRF from Wayback Machine | Anonymous Traiger | [Read More](https://medium.com/p/4766b0b0ffa3) |
-| Sat, 13 Jun 2026 14:52:07 GMT | Google Dorks AI | Brookz | [Read More](https://medium.com/p/703f4e045096) |
-| Sat, 13 Jun 2026 14:51:49 GMT | Sekurely: Intelligence-Driven Cybersecurity for Modern Businesses | Phill Jones | [Read More](https://medium.com/p/5bc21f3e1a9b) |
-| Sat, 13 Jun 2026 14:48:55 GMT | Useful tools and commands for decoding APK files | Iason Tzortzis | [Read More](https://medium.com/p/bec29a5bbfec) |
-| Sat, 13 Jun 2026 14:46:04 GMT | The VAPT Workflow | Aegon | [Read More](https://medium.com/p/2124ee077698) |
-| Sat, 13 Jun 2026 14:40:22 GMT | SQL Injection Testing Made Simple: 10 Essential Security Checks Every Tester and Developer Should… | pavani | [Read More](https://medium.com/p/c2e1dcf0b9e7) |
-| Sat, 13 Jun 2026 14:38:33 GMT | Топ читов для Deadlock в 2026 году: Моё честное мнение после статьи Марка Херца | Aurelivoines | [Read More](https://medium.com/p/448bc01853a2) |
-| Sat, 13 Jun 2026 14:37:19 GMT | How Nmap Helped Me Discover a $4,000 Vulnerability on an E-Commerce Platform | Cybervolt | [Read More](https://medium.com/p/aaa4c40c4bdc) |
-| Sat, 13 Jun 2026 14:35:42 GMT | Azure Managed Identity with Microsoft Entra ID: How It Actually Works | Compile & Conquer | [Read More](https://medium.com/p/f633164eb785) |
-| Sat, 13 Jun 2026 14:33:48 GMT | Why Uncle Sam Suspended Claude Fable 5 | Lomash Sharma | [Read More](https://medium.com/p/56f3fa7e693d) |
