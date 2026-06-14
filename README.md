@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Jun 2026 17:52:47 GMT | TheHackersLabs — NordCrypt Security [WriteUp] | APS88 | [Read More](https://medium.com/p/505876cb1084) |
+| Sun, 14 Jun 2026 17:52:23 GMT | Golden XSS Attack Guide for Modern Pentesting and Bug Bounty Hunting | opr3vail | [Read More](https://medium.com/p/90bb24dda477) |
+| Sun, 14 Jun 2026 17:50:02 GMT | Behind The Breach | Alchemist | [Read More](https://medium.com/p/af85f9999105) |
+| Sun, 14 Jun 2026 17:49:03 GMT | The Hidden Risks Behind AI Models: Data, Training, and Security Explained | Tanish Choudhary | [Read More](https://medium.com/p/e117813029b4) |
+| Sun, 14 Jun 2026 17:44:33 GMT | GPT-4o vs Claude 3.5: Which Model Has a Stronger Security Posture? | @AnandPrajapati | [Read More](https://medium.com/p/41b94b3499fa) |
+| Sun, 14 Jun 2026 17:41:56 GMT | I Quit My Cybersecurity Job After 6 Months. The Brutal Honest Reason. | CYBER MIND SPACE | [Read More](https://medium.com/p/afbfdcbabcad) |
+| Sun, 14 Jun 2026 17:38:27 GMT | Why DPDP Act Compliance Matters for Businesses in a Global Digital Economy | Digital Duffer | [Read More](https://medium.com/p/295b46289b37) |
+| Sun, 14 Jun 2026 17:31:38 GMT | Building a Proxmox Homelab on a Mini PC: From Bare Metal to a Virtualized Lab Environment | Clinton Dsouza | [Read More](https://medium.com/p/6041bdbe542d) |
+| Sun, 14 Jun 2026 17:30:06 GMT | DPDP Compliance: Why Businesses Must Prepare for the Future of Data Privacy | Digital Duffer | [Read More](https://medium.com/p/72429ed7aa7a) |
+| Sun, 14 Jun 2026 17:27:50 GMT | Wazuh Ansible Series Part 2: Integrating Wazuh SAML Authentication with Keycloak | Rio Wiraldhani | [Read More](https://medium.com/p/f4b4fe92257c) |
+| Sun, 14 Jun 2026 17:12:03 GMT | The Silent Knock on the Door: How Active Scanning Became the First Step in a Cyberattack | Shalu | [Read More](https://medium.com/p/99a1fc87f7c5) |
+| Sun, 14 Jun 2026 17:06:24 GMT | Understanding the Basics of the OAuth2.0 Authorization Framework | Sarith Ranathunge | [Read More](https://medium.com/p/ecd0f8662ccf) |
+| Sun, 14 Jun 2026 16:56:42 GMT | Title:Host-Based Traffic Triage Simulating Network Blocks via Linux IPTables & MITRE ATT&CK Mapping | Basitsajidapply | [Read More](https://medium.com/p/82188db32201) |
+| Sun, 14 Jun 2026 16:55:03 GMT | Building Custom Burp Suite Extensions | Cyril Shaji | [Read More](https://medium.com/p/2af04397922e) |
+| Sun, 14 Jun 2026 16:49:39 GMT | Wazuh Ansible Series Part 1: How to Deploy Wazuh with Ansible | Rio Wiraldhani | [Read More](https://medium.com/p/b713f8e49f6b) |
+| Sun, 14 Jun 2026 16:41:52 GMT | MonkeyType Review: Is It the Best Typing Speed Test in 2026? | Elinawilliams | [Read More](https://medium.com/p/0ca732a73c76) |
+| Sun, 14 Jun 2026 16:32:21 GMT | Cloud Incident Response: Steps, Tools & Best Practices (2026 Guide) | Manula Udyoga | [Read More](https://medium.com/p/a446d5aff27b) |
 | Sun, 14 Jun 2026 16:21:47 GMT | Moving Beyond Pseudo-Randomness: Why getrandom() is the System-Level Choice | Emine Ozlem Kaygas | [Read More](https://medium.com/p/b82761b037d1) |
 | Sun, 14 Jun 2026 16:19:24 GMT | Same Wallet, Two Domains: Tracking a Serial Crypto Scam Operator on Bulletproof Infrastructure | Macs-Hit | [Read More](https://medium.com/p/ff122c822c13) |
 | Sun, 14 Jun 2026 16:17:10 GMT | When One Alert Tells You Everything — and Nothing (Detecting v17 Lumma Stealer) | Dean | [Read More](https://medium.com/p/4c25182d1b21) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Jun 2026 10:05:56 GMT | An AI Copilot for Auditors and CISOs | Igor Gorbenko | [Read More](https://medium.com/p/8514a2540449) |
 | Sun, 14 Jun 2026 10:01:06 GMT | Cyber Roles That Actually Need Business Experience | Victoria Coker | [Read More](https://medium.com/p/a5b7fd21d8fd) |
 | Sun, 14 Jun 2026 09:44:07 GMT | Defending Linux Systems with Iptables Firewall Rules | Kartik Chhabra | [Read More](https://medium.com/p/d62c65c6a9d1) |
-| Sun, 14 Jun 2026 09:43:08 GMT | How a Free Movie App Turned User Data Into Its Biggest Asset (NetMirror) | Ajax | [Read More](https://medium.com/p/74fbfc996945) |
-| Sun, 14 Jun 2026 09:33:27 GMT | The dark side of free web utilities: How to process data without exposing it to third-party servers | Toolsaur | [Read More](https://medium.com/p/686f6b11eb4c) |
-| Sun, 14 Jun 2026 08:58:19 GMT | hiShadows and Shields: The Global Architecture of Cyber Warfare, Hacking Culture, and Modern… | The justice | [Read More](https://medium.com/p/689c54acacf5) |
-| Sun, 14 Jun 2026 08:49:13 GMT | Basis Data: Prosedur, Fungsi, dan Trigger | Nabilla Paraswati | [Read More](https://medium.com/p/48fc29c828cc) |
-| Sun, 14 Jun 2026 08:39:38 GMT | Cloud Honeypot: Tracking Live Global Cyber Attacks with Microsoft Sentinel | Miracle komolafe | [Read More](https://medium.com/p/0182aa472d24) |
-| Sun, 14 Jun 2026 08:38:25 GMT | I Found a Hidden Flag Inside a DNS Record — Here’s How DNS Actually Works | Prashant Raj | [Read More](https://medium.com/p/c3f7ad781aaf) |
-| Sun, 14 Jun 2026 08:21:23 GMT | Your Firewall Won’t Click That Link — Your Employees Might | Davidrossgold | [Read More](https://medium.com/p/6392d07847e9) |
-| Sun, 14 Jun 2026 08:15:33 GMT | Peppermint Ticketing System and Docker Installation/Configuration | Karimsaminur | [Read More](https://medium.com/p/27db0f9759c8) |
-| Sun, 14 Jun 2026 08:15:06 GMT | Zoho’s Nathu La Server Just Changed the AI Hardware Game in India. | Udbhav Writers | [Read More](https://medium.com/p/389630f4b5e5) |
-| Sun, 14 Jun 2026 08:02:01 GMT | From Profile Update to Account Takeover: A Mass Assignment Story | Parth Narula | [Read More](https://medium.com/p/60c6e8de4abc) |
-| Sun, 14 Jun 2026 07:55:41 GMT | Why Small Businesses Are Becoming Prime Targets for Cyber Attacks | Shivam Shukla | [Read More](https://medium.com/p/18f7eb24653f) |
-| Sun, 14 Jun 2026 07:50:52 GMT | Best Wireless Parking Lot Security Cameras in 2026 — Quick Guide | Criminology Expert | [Read More](https://medium.com/p/9fbe04df2611) |
-| Sun, 14 Jun 2026 07:45:50 GMT | Content Security Policy (CSP) Tutorial for Beginners | Anshika Tripathi | [Read More](https://medium.com/p/ad119c35ce27) |
-| Sun, 14 Jun 2026 07:45:08 GMT | We’ve Normalized Losing Our Minds | Vibhuti | [Read More](https://medium.com/p/26a7cf570a5b) |
-| Sun, 14 Jun 2026 07:39:09 GMT | How to Detect Fake Profiles on LinkedIn, Instagram & X (2026) | FaceSift | [Read More](https://medium.com/p/345a07400b78) |
-| Sun, 14 Jun 2026 07:32:30 GMT | Understanding Static and Dynamic Analysis Tools | Tales Lima De Paula | [Read More](https://medium.com/p/c28c4d80eedd) |
-| Sun, 14 Jun 2026 07:29:18 GMT | Lab 15: Clickjacking with a frame buster script | Tkacala | [Read More](https://medium.com/p/d3a31e3919c5) |
