@@ -12,7 +12,35 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Jun 2026 19:39:01 GMT | I Wasted 3 Days Intercepting a Flutter App. Here’s What Actually Works. | Iamarbaz | [Read More](https://medium.com/p/d3e9a4816818) |
+| Sun, 14 Jun 2026 19:36:02 GMT | Best WhatsApp Tracker App for Chat, Call & Recording (2026 Guide) | Mob Monitor | [Read More](https://medium.com/p/e3cfd82ad270) |
+| Sun, 14 Jun 2026 19:30:00 GMT | Living Off Restricted Interfaces: Data Exfiltration via Flipper Zero (and I’m not really a… | Anurag Rawat | [Read More](https://medium.com/p/5c80e6670b9b) |
+| Sun, 14 Jun 2026 19:29:05 GMT | Attacktive Directory THM Lab WalkThrough | SUSHANT TELRANDHE | [Read More](https://medium.com/p/0c7b3b02b188) |
+| Sun, 14 Jun 2026 19:26:38 GMT | Bot Folklore: The Polite Ghost | hide | [Read More](https://medium.com/p/edf2a79033d0) |
+| Sun, 14 Jun 2026 19:25:11 GMT | Part 3/3: Exploiting phpinfo() — Turning Information into Compromise | Cybersecplayground | [Read More](https://medium.com/p/7189f815b77a) |
+| Sun, 14 Jun 2026 19:22:20 GMT | HTB Hardware CTF — Access Writeup | Bex01 | [Read More](https://medium.com/p/dec643f9d767) |
+| Sun, 14 Jun 2026 19:20:22 GMT | GitHub to Disable Default npm Install Scripts in Version 12 | SOCFortress | [Read More](https://medium.com/p/3fd61634588d) |
+| Sun, 14 Jun 2026 19:09:01 GMT | They’re Already Inside Your Network. They’ve Been There for 287 Days. | Mary | [Read More](https://medium.com/p/d7484773d7ab) |
+| Sun, 14 Jun 2026 19:08:27 GMT | Easy Bounties With Open Redirects | 0xyz | [Read More](https://medium.com/p/3fa1ab7f5237) |
+| Sun, 14 Jun 2026 19:01:05 GMT | The Atomic Arch AUR Supply-Chain Stealer and eBPF Rootkit (Sonatype-2026–003775) | Justin C. | [Read More](https://medium.com/p/0e9b3dae9708) |
+| Sun, 14 Jun 2026 18:56:48 GMT | Hunting Jigsaw on Swordfish II: Static Malware Analysis with PEStudio | Jayden Williams | [Read More](https://medium.com/p/43d2a0759624) |
+| Sun, 14 Jun 2026 18:56:37 GMT | AutoIt Obfuscator Integration with SciTE | Bartosz Wójcik | [Read More](https://medium.com/p/a60f300c41b0) |
+| Sun, 14 Jun 2026 18:50:46 GMT | Patrols Collect Data | Dynamic security solution ltd | [Read More](https://medium.com/p/da7ef3f001a5) |
+| Sun, 14 Jun 2026 18:47:24 GMT | Weakest Links in Our Security Infrastructure | Gertrude Abagale | [Read More](https://medium.com/p/0c8308f69891) |
+| Sun, 14 Jun 2026 18:33:41 GMT | API Attacks 102: Login Olmak Yetmez, Yetki Kontrolü Şart | İlkan Aydoğan | [Read More](https://medium.com/p/272e21bf0c82) |
+| Sun, 14 Jun 2026 18:33:33 GMT | Everyone Loves Vibe Coding. Nobody Talks About the Backend. | Mohd Azhar | [Read More](https://medium.com/p/ac1c14acb8f1) |
+| Sun, 14 Jun 2026 18:24:39 GMT | Bug Hunter Bug Bounty Toolkit Powered by Claude and Free AI Provider | Future Tech Insights | [Read More](https://medium.com/p/1ef1c9f7c4d4) |
+| Sun, 14 Jun 2026 18:24:17 GMT | Government School Teachers Must Be Evaluated Every Year | Dharmateja Kommu | [Read More](https://medium.com/p/a7630591edea) |
+| Sun, 14 Jun 2026 18:13:52 GMT | Why Privacy Needs a Product Layer, Not More Fragmented Tools | Ciforus | [Read More](https://medium.com/p/3538e4d08720) |
+| Sun, 14 Jun 2026 18:08:08 GMT | OWASP Top 10 for .NET Developers -Part 4: Preventing Insecure Design | Surya Raj Ghimire | [Read More](https://medium.com/p/6361281edbbe) |
+| Sun, 14 Jun 2026 18:06:15 GMT | Proton ecosystem is the key! | HelloBug | [Read More](https://medium.com/p/0a7f7cf04edf) |
+| Sun, 14 Jun 2026 18:02:17 GMT | Bug Hunter’s Freeze!!!!! Loop | amanseczx | [Read More](https://medium.com/p/37406a82d221) |
+| Sun, 14 Jun 2026 18:00:15 GMT | Host & Network Penetration Testing: Network-Based Attacks CTF 1 — eJPT (INE) | Suraj Apar | [Read More](https://medium.com/p/675f149b7c1c) |
+| Sun, 14 Jun 2026 17:57:11 GMT | How to Setup Azure AD B2C for Flutter, Android & Web Apps Step-by-Step Guide (Part 1) | Moeen Haider | [Read More](https://medium.com/p/8655d78ee37f) |
+| Sun, 14 Jun 2026 17:56:36 GMT | I Built a Tool Because I Kept Losing My API Keys — Now Anyone Can Use It | Ashwini Sharma | [Read More](https://medium.com/p/12fc2fbdf035) |
+| Sun, 14 Jun 2026 17:53:56 GMT | I Started Reading About AI Jailbreaks. Then I Discovered Prompt Injection. | Manav Nayak | [Read More](https://medium.com/p/3920553ba3e4) |
 | Sun, 14 Jun 2026 17:52:47 GMT | TheHackersLabs — NordCrypt Security [WriteUp] | APS88 | [Read More](https://medium.com/p/505876cb1084) |
+| Sun, 14 Jun 2026 17:52:41 GMT | FCC’s War on Robocalls Could End Burner Phones(Katululu): The Privacy Debate Reshaping Mobile… | eL Njas!™ | [Read More](https://medium.com/p/899357d7d10e) |
 | Sun, 14 Jun 2026 17:52:23 GMT | Golden XSS Attack Guide for Modern Pentesting and Bug Bounty Hunting | opr3vail | [Read More](https://medium.com/p/90bb24dda477) |
 | Sun, 14 Jun 2026 17:50:02 GMT | Behind The Breach | Alchemist | [Read More](https://medium.com/p/af85f9999105) |
 | Sun, 14 Jun 2026 17:49:03 GMT | The Hidden Risks Behind AI Models: Data, Training, and Security Explained | Tanish Choudhary | [Read More](https://medium.com/p/e117813029b4) |
@@ -84,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Jun 2026 12:24:24 GMT | TryHackMe Walkthrough — Incident Response: Detection and Analysis (Task 6: Detection Practical and… | Fuad Khan | [Read More](https://medium.com/p/bcb93565a454) |
 | Sun, 14 Jun 2026 12:18:01 GMT | How I Built ScamShield: An AI-Powered System That Detects Fake Job Recruiters Before You Click… | Souvik Das | [Read More](https://medium.com/p/48342746d760) |
 | Sun, 14 Jun 2026 12:16:00 GMT | AI 時代下，資訊人的下一張王牌是什麼？ | haha1811 | [Read More](https://medium.com/p/1dbd053075b9) |
-| Sun, 14 Jun 2026 12:14:49 GMT | Best Cybersecurity Internship training in India for Students After Class 12th | cybersecuritycourse | [Read More](https://medium.com/p/e4fe1d37791e) |
-| Sun, 14 Jun 2026 12:11:51 GMT | SSTI in Jinja2: From {{7*7}} to Remote Code Execution | Moncef fennan | [Read More](https://medium.com/p/67991704312c) |
-| Sun, 14 Jun 2026 12:09:27 GMT | From Context to Memory: The Next Evolution of AI-Powered AppSec Review | Rui Pedro Moreira | [Read More](https://medium.com/p/39e724a29e14) |
-| Sun, 14 Jun 2026 12:09:22 GMT | How a Simple Google Dork Earned Me My First Bounty from Bugcrowd’s Own Bug Bounty Program | MD Akhlakur Rahman Tanvir | [Read More](https://medium.com/p/685c088495a6) |
-| Sun, 14 Jun 2026 12:06:00 GMT | Your Database Is Lying to You: Why Laravel Checkpoint Is the Security Audit Tool You Didn’t Know… | Hector Canovas | [Read More](https://medium.com/p/6050f7f15c79) |
-| Sun, 14 Jun 2026 12:05:40 GMT | So You Want to Make ₱100K+ a Month in Cybersecurity | Jan | [Read More](https://medium.com/p/6ad8aadda224) |
-| Sun, 14 Jun 2026 12:03:30 GMT | The Difference Between a Vulnerability and an Exploit | Abraham | [Read More](https://medium.com/p/b5fb51822bf7) |
-| Sun, 14 Jun 2026 12:01:00 GMT | What I’ve been reading (and watching) week ending 14 June 2026 | Jason Yip | [Read More](https://medium.com/p/78cf0be34087) |
-| Sun, 14 Jun 2026 11:34:50 GMT | From Context to Memory: The Next Evolution of AI-Powered AppSec Review | Rui Pedro Moreira | [Read More](https://medium.com/p/f274ed67da2a) |
-| Sun, 14 Jun 2026 11:31:50 GMT | Cybersecurity for Developers — Part 2: Modern Application Architecture & Trust Boundaries | Ashwanth Madhav | [Read More](https://medium.com/p/8381a56d6804) |
-| Sun, 14 Jun 2026 11:31:00 GMT | Stored XSS — The Dangerous Cousin | Nitin yadav | [Read More](https://medium.com/p/af346d8ff5c3) |
-| Sun, 14 Jun 2026 11:19:09 GMT | Easy Peasy — TryHackMe | Subrat Keshari Sahu | [Read More](https://medium.com/p/70f2c3052dfd) |
-| Sun, 14 Jun 2026 11:15:40 GMT | Stored XSS via PNG Polyglot Upload and Filename Trust | Raghav Raut | [Read More](https://medium.com/p/552020690f4f) |
-| Sun, 14 Jun 2026 11:08:55 GMT | How to Start a Cybersecurity Risk Assessment: Simple Excel Template for Beginners | Ucarcemre | [Read More](https://medium.com/p/ff2c14184c00) |
-| Sun, 14 Jun 2026 11:07:44 GMT | What the Release and Immediate Suspension of Claude Fable 5 Points To — The End of Entra ID as a… | Yasuhiro Niji | [Read More](https://medium.com/p/504cc71a8a32) |
-| Sun, 14 Jun 2026 11:01:00 GMT | Building a Fortress: Isolating CI/CD Users with Jailkit and Rootless Docker | MOAMEN REZK | [Read More](https://medium.com/p/16f070af1850) |
-| Sun, 14 Jun 2026 11:00:36 GMT | ☁️ Free Cloud Storage List Secure And Private | u2qkyx4fupqn77 | [Read More](https://medium.com/p/3fd4ed5966ed) |
-| Sun, 14 Jun 2026 10:52:46 GMT | Escaping the Front-End: How a Captcha Bypass Attempt Leaked a Google API Secret — bug bounty | madmax | [Read More](https://medium.com/p/67867860bc56) |
-| Sun, 14 Jun 2026 10:32:16 GMT | Linux Administration: File Permissions, Ownership and ACLs | Hyunjae | [Read More](https://medium.com/p/3e7f99ce820f) |
-| Sun, 14 Jun 2026 10:27:22 GMT | Every Breach Starts with an Entry Point: Attack Vectors Everyone Should Know | Your's Nightmare | [Read More](https://medium.com/p/087bad789f84) |
-| Sun, 14 Jun 2026 10:21:23 GMT | Say Goodbye to Big Tech: The Best FREE, End-to-End Encrypted Alternatives to Google Photos &… | u2qkyx4fupqn77 | [Read More](https://medium.com/p/83614475b5ae) |
-| Sun, 14 Jun 2026 10:13:31 GMT | Putting the OWASP Agentic AI Framework to Work: An Architecture Perspective | Mani Gopalakrishnan | [Read More](https://medium.com/p/fc0df14697fe) |
-| Sun, 14 Jun 2026 10:12:07 GMT | Laporan Praktikum Basis Data : Prosedur, Fungsi dan Trigger | Cahyoadi | [Read More](https://medium.com/p/c6b729502b29) |
-| Sun, 14 Jun 2026 10:07:25 GMT | Day 1: Building a Cybersecurity Firm From My Bed | Ana Khulordava | [Read More](https://medium.com/p/40db572fe2d3) |
-| Sun, 14 Jun 2026 10:06:28 GMT | 钱包授权风险完全指南 | Marcelkhan | [Read More](https://medium.com/p/80e4b30802e2) |
-| Sun, 14 Jun 2026 10:05:56 GMT | An AI Copilot for Auditors and CISOs | Igor Gorbenko | [Read More](https://medium.com/p/8514a2540449) |
-| Sun, 14 Jun 2026 10:01:06 GMT | Cyber Roles That Actually Need Business Experience | Victoria Coker | [Read More](https://medium.com/p/a5b7fd21d8fd) |
-| Sun, 14 Jun 2026 09:44:07 GMT | Defending Linux Systems with Iptables Firewall Rules | Kartik Chhabra | [Read More](https://medium.com/p/d62c65c6a9d1) |
