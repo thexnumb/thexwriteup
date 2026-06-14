@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Jun 2026 22:31:20 GMT | The Best Career Advice I Ever Ignored | Sharon Madihlaba | [Read More](https://medium.com/p/ec75bf57d6b1) |
+| Sun, 14 Jun 2026 22:23:39 GMT | Elite Protection Dogs are a Home Security Upgrade for Upscale Families | Don Simkovich, MA | [Read More](https://medium.com/p/c08c76b10c83) |
+| Sun, 14 Jun 2026 22:12:35 GMT | Inside Social Links CrimeWall: A Hands-On Tour of the Platform | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/4a34d25df6cc) |
+| Sun, 14 Jun 2026 21:56:46 GMT | Your Online Privacy Matters More Than You Think! Here Are Some Reasons Why... | Abba Abdullahi Garba | [Read More](https://medium.com/p/6ed2c4df39c9) |
+| Sun, 14 Jun 2026 21:53:54 GMT | Breaking Access Control: Logic Manipulation & Role Escalation (Part 2) | Yassin Hamada | [Read More](https://medium.com/p/dce5cc44c909) |
+| Sun, 14 Jun 2026 21:51:20 GMT | Information Disclosure in Error Messages — A New Series Begins lab 1 | morgan_hack | [Read More](https://medium.com/p/153a6335b541) |
+| Sun, 14 Jun 2026 21:50:06 GMT | Breaking Access Control:Path Manipulation (Part 1) | Yassin Hamada | [Read More](https://medium.com/p/4028fcc85d41) |
+| Sun, 14 Jun 2026 21:47:28 GMT | 19 Years. One Reversal. | Wayne Larsen | [Read More](https://medium.com/p/0ee9659bc44c) |
+| Sun, 14 Jun 2026 21:46:57 GMT | Eradicating Validation Rule Injection in Maravel-Framework v20.0.0RC38 | marius-ciclistu | [Read More](https://medium.com/p/6b06af06fffb) |
+| Sun, 14 Jun 2026 21:45:21 GMT | Active Directory Certificate Services Exploitation 5–8 | 0xb0z | [Read More](https://medium.com/p/6275c6d66407) |
+| Sun, 14 Jun 2026 21:44:24 GMT | The Lifestyle Didn’t Change. The World Did. | Beyond Monogamy With Crystal Welch | [Read More](https://medium.com/p/8e1a6042272c) |
+| Sun, 14 Jun 2026 21:29:41 GMT | My Walkthrough for Carnage THM | Lourina Emil Fawaz Sadek | [Read More](https://medium.com/p/481438d4a90e) |
+| Sun, 14 Jun 2026 21:24:26 GMT | Linux SUID, SGID, and the Sticky Bit: The Hidden Permissions That Can Get You Hacked | Philip Gyimah | [Read More](https://medium.com/p/3baee499bb0c) |
 | Sun, 14 Jun 2026 21:02:12 GMT | Why Bridges Are a Hacker’s Favorite ATM | Abraham | [Read More](https://medium.com/p/981ed49c564e) |
 | Sun, 14 Jun 2026 21:01:37 GMT | Mapping Active Directory with LDAP and PowerView | Will Giles - Cybersecurity | [Read More](https://medium.com/p/db4959baab9d) |
 | Sun, 14 Jun 2026 21:01:35 GMT | Building a SOC-Style Cybersecurity Homelab | Omer Mohamed | [Read More](https://medium.com/p/60e356846de7) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Jun 2026 14:26:21 GMT | Linux Privilege Escalation: The OSCP Methodology That Gets You Root Every Time | Ashish Ghimire | [Read More](https://medium.com/p/86d347a6d4ef) |
 | Sun, 14 Jun 2026 14:25:27 GMT | Data Products on Snowflake: A Manufacturing Playbook | Rishabh sahni | [Read More](https://medium.com/p/925ee4bf6d66) |
 | Sun, 14 Jun 2026 14:22:45 GMT | Research On Packet Sniffing, HTTP and HTTPS Vulnerabilities, and Lack of Password Confirmation | FARAZ A.K | [Read More](https://medium.com/p/cdfef2768038) |
-| Sun, 14 Jun 2026 14:19:24 GMT | How to Fix Image Upload Issues in WordPress Media Library (Step-by-Step Guide) | 79mplus | [Read More](https://medium.com/p/20d9852868d3) |
-| Sun, 14 Jun 2026 14:19:11 GMT | How a Single Permission Misconfiguration Can Lead to Full System Compromise | Harshita Chaplot | [Read More](https://medium.com/p/5b9b055910dd) |
-| Sun, 14 Jun 2026 14:14:47 GMT | Day 19 of Learning AWS: Hosting Static Websites on S3 and URL Redirects | Muhammad Kashif | [Read More](https://medium.com/p/d1cbb20122cc) |
-| Sun, 14 Jun 2026 14:10:12 GMT | Figuring It Out in Public: Why I’m Documenting My Cybersecurity Journey #0 | Uplaksh Tyagi | [Read More](https://medium.com/p/2747c77bd3e2) |
-| Sun, 14 Jun 2026 14:08:14 GMT | Why The US Is Treating AI Like A Nuclear Threat | The Techtonic | [Read More](https://medium.com/p/36e8b7289372) |
-| Sun, 14 Jun 2026 14:02:55 GMT | Bots Behave Alone. Fleets Betray Themselves. | Koshy | [Read More](https://medium.com/p/45276c2430de) |
-| Sun, 14 Jun 2026 13:59:50 GMT | I Lost My IT Job. Here’s Why I’m Not Panicking. | Syed Anees Khan | [Read More](https://medium.com/p/9e92138d5077) |
-| Sun, 14 Jun 2026 13:56:59 GMT | Why Runtime Security Matters in the Age of AI: Lessons from Concordium’s Grey Box Audit | RUQOCrypTO | [Read More](https://medium.com/p/160e92d3757c) |
-| Sun, 14 Jun 2026 13:55:02 GMT | Key takeaways of the “101 Real-World Blockchain Use Cases Handbook — 2026 Edition” released by… | Intellibytes | [Read More](https://medium.com/p/df9d43bf9a55) |
-| Sun, 14 Jun 2026 13:50:48 GMT | Guided Pentest: Web - TryHackMe Walkthrough | Zhongli | [Read More](https://medium.com/p/d99393e2efae) |
-| Sun, 14 Jun 2026 13:49:01 GMT | DontFeedTheAI: The Ultimate AI Platform for Penetration Testing | Pentester Club | [Read More](https://medium.com/p/60a96839cd8c) |
-| Sun, 14 Jun 2026 13:42:38 GMT | 10 Linux Commands That Instantly Make You More Productive | Fateyaly | [Read More](https://medium.com/p/9883e5516a23) |
-| Sun, 14 Jun 2026 13:23:26 GMT | Beyond HTTPS: Securing API Payloads with ECDH + HKDF | Nilay Shah | [Read More](https://medium.com/p/ff6586f71ba0) |
