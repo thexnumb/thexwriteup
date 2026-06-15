@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 15 Jun 2026 22:52:17 GMT | Clinejection: One Misconfigured GitHub Action Can Compromise Your App (Deep Dive & Lessons Learned) | Mohamed AboElKheir | [Read More](https://medium.com/p/0482b2574b24) |
+| Mon, 15 Jun 2026 22:38:29 GMT | Loly - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/fb11f969948e) |
+| Mon, 15 Jun 2026 22:33:12 GMT | I shipped 35 bugs in my AI chatbot. The scariest one was on the output side. | Rapls | [Read More](https://medium.com/p/9a9f5a5ac763) |
+| Mon, 15 Jun 2026 22:31:00 GMT | Stop Using Service Account Keys: Workload Identity Federation on GCP | Simon Corde | [Read More](https://medium.com/p/a5c49aa99c7d) |
+| Mon, 15 Jun 2026 22:28:21 GMT | How Much Can You Find About Someone With Just a Username or Image? I Built a Tool to Find Out | Jawad Ul Hassan | [Read More](https://medium.com/p/ce35a75158cb) |
+| Mon, 15 Jun 2026 22:15:13 GMT | Building TruthGuard the Smart Way | Fluxiq Labs | [Read More](https://medium.com/p/9158d47dc9e0) |
+| Mon, 15 Jun 2026 22:14:13 GMT | Footprinting Lab — Easy (Walkthrough) | th3V0!D | [Read More](https://medium.com/p/52905a82f00a) |
+| Mon, 15 Jun 2026 22:12:38 GMT | I Will Adopt New AI Tools When They Fit My Work. Fable 5 Was Shut Down Before I Could Test It | Adam McClarin | [Read More](https://medium.com/p/c5c764634283) |
+| Mon, 15 Jun 2026 22:09:39 GMT | When Withdrawals Stop Working: Stories About “Weex” | Ana staples | [Read More](https://medium.com/p/27310bfeb92c) |
+| Mon, 15 Jun 2026 22:02:28 GMT | Wardriving — Pasándolo bien con las redes WiFi del barrio | BeachO | [Read More](https://medium.com/p/f93ea96a87ee) |
+| Mon, 15 Jun 2026 22:00:17 GMT | The Four Reflexes That Separate Real SOC Analysts From People Who Memorized the Definitions | Jbird | [Read More](https://medium.com/p/0f7dddc6b4cc) |
+| Mon, 15 Jun 2026 21:44:23 GMT | Cyber Threat Intelligence: The Digital Evolution of Ancient Foresight | GEOLEXCYBER | [Read More](https://medium.com/p/1b65475cb0bb) |
+| Mon, 15 Jun 2026 21:39:32 GMT | Corporate Security Can’t Detect What They Can’t See: The Pico W Underground | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ab6f267f2b85) |
+| Mon, 15 Jun 2026 21:30:24 GMT | A safer OpenConnect workflow for Cisco AnyConnect VPNs on macOS and Linux | Sorin Ipate | [Read More](https://medium.com/p/50062d66b082) |
+| Mon, 15 Jun 2026 21:25:58 GMT | Building a Hackbot for Bug Bounties — Auth Testing Subagent Setup | Appsec.pt | [Read More](https://medium.com/p/02cc9cb89196) |
 | Mon, 15 Jun 2026 20:47:36 GMT | The Most Expensive Cybersecurity Mistake a Business Can Make | CyberRise Institute | [Read More](https://medium.com/p/1481fd6e4889) |
 | Mon, 15 Jun 2026 20:44:46 GMT | “Good AI” Loses. What We Need Is “AI That Can Win.” | Atsushi Ito | [Read More](https://medium.com/p/be613f71dddd) |
 | Mon, 15 Jun 2026 20:44:27 GMT | I’ve Been Securing Linux the Hard Way — Then I Found bootc | Ralston Gordon | [Read More](https://medium.com/p/604c727eb221) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Jun 2026 14:26:13 GMT | I Thought SOC Analysts Just Watched Alerts. I Was Completely Wrong. | Vyomamshetty | [Read More](https://medium.com/p/a5fb106d2dfe) |
 | Mon, 15 Jun 2026 14:13:37 GMT | Would You Notice If Your Machine Was Compromised? | MouhibMahadbi | [Read More](https://medium.com/p/7d64f7b189c5) |
 | Mon, 15 Jun 2026 14:10:56 GMT | DHCP Explained | Aryan Vij | [Read More](https://medium.com/p/6dd3a6f9aed2) |
-| Mon, 15 Jun 2026 14:08:30 GMT | The Government Hackers Using OneDrive as Their Dead Drop | Pop123 | [Read More](https://medium.com/p/7b5a3db52eff) |
-| Mon, 15 Jun 2026 14:06:00 GMT | Beyond the Hoodie: What Kali Linux Actually Is? | Halil Özel | [Read More](https://medium.com/p/876ab8902ec2) |
-| Mon, 15 Jun 2026 13:56:57 GMT | Lab 17: CORS vulnerability with trusted null origin | Tkacala | [Read More](https://medium.com/p/ef44bb9ce645) |
-| Mon, 15 Jun 2026 13:52:17 GMT | 8 Sneaky Ways Hackers Deliver Malware | Dhanush N | [Read More](https://medium.com/p/7b89f5c18bd7) |
-| Mon, 15 Jun 2026 13:33:45 GMT | TryHackMe : Lookup Writeup | PRiTi.EX | [Read More](https://medium.com/p/18b387a339e8) |
-| Mon, 15 Jun 2026 13:31:01 GMT | The Courage to Drop the Mask: Why we Disconnect, Reconnect & Never Truly Repair. | Elephant Journal | [Read More](https://medium.com/p/f4d9dc493e34) |
-| Mon, 15 Jun 2026 13:29:50 GMT | The Malware Crew Hiding Their Orders Inside a Discord Chat | Pop123 | [Read More](https://medium.com/p/8a46ccc7cced) |
-| Mon, 15 Jun 2026 13:26:42 GMT | Reclaiming Your Digital Life: A Practical Path to Sovereignty | Alan Dunbar | [Read More](https://medium.com/p/9a3a94d88552) |
-| Mon, 15 Jun 2026 13:25:03 GMT | TryHackMe Walkthrough — Response and Recovery (Task 6: Containment Practical and Task 7… | Fuad Khan | [Read More](https://medium.com/p/ad304bd219bb) |
-| Mon, 15 Jun 2026 13:16:33 GMT | Inferno (THM) Medium Challenge Walkthrough | Lawvye | [Read More](https://medium.com/p/0ffe72ee7d42) |
-| Mon, 15 Jun 2026 13:15:24 GMT | PortSwigger Writeup: Detecting NoSQL Injection | Dimas Ramadani | [Read More](https://medium.com/p/9da5e7e49de8) |
-| Mon, 15 Jun 2026 13:14:36 GMT | When “Fix This Code” Becomes a National Security Problem | Mike McNelis | [Read More](https://medium.com/p/737f2448796c) |
-| Mon, 15 Jun 2026 13:12:05 GMT | “Bug Bounty Bootcamp #46: Not Allowed From Your IP?” | Aman Sharma | [Read More](https://medium.com/p/8df1b1f96a30) |
-| Mon, 15 Jun 2026 12:58:37 GMT | How I “Hacked” a Company’s Instagram Account (And Got Rewarded for an Out-of-Scope Bug!) | Vanshrathore | [Read More](https://medium.com/p/a5f6e286cfcf) |
-| Mon, 15 Jun 2026 12:54:08 GMT | 7 Linux Commands That Help You Find Problems Before Users Do | Fateyaly | [Read More](https://medium.com/p/230ccb85f374) |
