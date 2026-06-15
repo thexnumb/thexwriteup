@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 14 Jun 2026 23:59:02 GMT | dControl.exe (Defender Control v2.1) Malicious or a False Positive? | Justin C. | [Read More](https://medium.com/p/83001291500b) |
+| Sun, 14 Jun 2026 23:56:07 GMT | The Hidden Backdoor: Third-Party Data Leakage Risks in Logistics SaaS Platforms | Muhammad Shahzeb Riaz | [Read More](https://medium.com/p/40a9a34f89a2) |
+| Sun, 14 Jun 2026 23:32:55 GMT | OAuth Under the Hood : Understanding Why OAuth Works the Way It Does | Karthikeyan Murugan | [Read More](https://medium.com/p/9df4874b37b3) |
+| Sun, 14 Jun 2026 23:05:31 GMT | Deepfakes Are Free Now. Your Company’s Phone System Is Not. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/cbfd0171a944) |
+| Sun, 14 Jun 2026 23:01:01 GMT | Part 3. OWASP A02 Security Misconfiguration: The Complete Guide to Detection, Exploitation, and… | Intelithics | [Read More](https://medium.com/p/fc8e014993f6) |
+| Sun, 14 Jun 2026 22:37:10 GMT | I Don’t Want to Keep Writing Love as “What If” | Noel H. Hodgson | [Read More](https://medium.com/p/404428ac83b3) |
 | Sun, 14 Jun 2026 22:31:20 GMT | The Best Career Advice I Ever Ignored | Sharon Madihlaba | [Read More](https://medium.com/p/ec75bf57d6b1) |
 | Sun, 14 Jun 2026 22:23:39 GMT | Elite Protection Dogs are a Home Security Upgrade for Upscale Families | Don Simkovich, MA | [Read More](https://medium.com/p/c08c76b10c83) |
 | Sun, 14 Jun 2026 22:12:35 GMT | Inside Social Links CrimeWall: A Hands-On Tour of the Platform | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/4a34d25df6cc) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 14 Jun 2026 15:03:39 GMT | Penetration Testing in Nutshell | Abdelhamid Houari | [Read More](https://medium.com/p/3e9fcc1327bd) |
 | Sun, 14 Jun 2026 14:56:43 GMT | How Attackers Chain XSS and CSRF Across Multiple Applications: Understanding Multistage Web Attacks | Disaster | [Read More](https://medium.com/p/103f72e0d23e) |
 | Sun, 14 Jun 2026 14:55:27 GMT | OWASP Top 10 Labs Series #5 -A05: Security Misconfiguration | Om Fulsundar | [Read More](https://medium.com/p/e13d53c88e79) |
-| Sun, 14 Jun 2026 14:49:55 GMT | Lab 16: CORS vulnerability with basic origin reflection | Tkacala | [Read More](https://medium.com/p/cc640fb46fc9) |
-| Sun, 14 Jun 2026 14:48:18 GMT | FFmpeg got trojan zero day | Kunalchandoa | [Read More](https://medium.com/p/7edbea2143e5) |
-| Sun, 14 Jun 2026 14:32:18 GMT | Tracing the Untraceable: Language Pattern Analysis, IP Attribution, and Decloaking Techniques in… | Brian James Curry | [Read More](https://medium.com/p/27b03df651b4) |
-| Sun, 14 Jun 2026 14:26:21 GMT | Linux Privilege Escalation: The OSCP Methodology That Gets You Root Every Time | Ashish Ghimire | [Read More](https://medium.com/p/86d347a6d4ef) |
-| Sun, 14 Jun 2026 14:25:27 GMT | Data Products on Snowflake: A Manufacturing Playbook | Rishabh sahni | [Read More](https://medium.com/p/925ee4bf6d66) |
-| Sun, 14 Jun 2026 14:22:45 GMT | Research On Packet Sniffing, HTTP and HTTPS Vulnerabilities, and Lack of Password Confirmation | FARAZ A.K | [Read More](https://medium.com/p/cdfef2768038) |
