@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Jun 2026 23:01:01 GMT | The Risks You Don’t See Are Often the Ones That Hurt the Most | Cryptic Brain | [Read More](https://medium.com/p/a0388a72597c) |
+| Tue, 16 Jun 2026 22:50:35 GMT | Binary Analysis: A Taxonomy of License Validation Bypasses | Luis Santiago | [Read More](https://medium.com/p/a02ce5a5664e) |
+| Tue, 16 Jun 2026 22:25:42 GMT | Professional Event Security Services in Bay Area: Keep Every Guest Safe | Uniworth security Editorial | [Read More](https://medium.com/p/fb603f283a90) |
+| Tue, 16 Jun 2026 22:20:46 GMT | I Built an AI Firewall for macOS Using Machine Learning | Praise C. | [Read More](https://medium.com/p/2745ed36bf75) |
+| Tue, 16 Jun 2026 22:06:29 GMT | CyberDefenders — Hammered — Unix Log Analysis | Efe Özel | [Read More](https://medium.com/p/e83146cdbb08) |
+| Tue, 16 Jun 2026 21:50:53 GMT | Footprinting Lab — Medium (Walkthrough) | th3V0!D | [Read More](https://medium.com/p/81c4610e8c7c) |
+| Tue, 16 Jun 2026 21:41:13 GMT | Privacy Is Becoming an Employee Benefit. Here’s Why 2026 Changes Everything. | mePrism Privacy | [Read More](https://medium.com/p/f1cdd71b0b3d) |
+| Tue, 16 Jun 2026 21:37:21 GMT | Passive Reconnaissance: What Attackers Know Before They Even Touch Your Network | Divya | [Read More](https://medium.com/p/e4dbc4fad0e8) |
+| Tue, 16 Jun 2026 21:24:58 GMT | How a New Vishing Extortion Crew Is Weaponizing Personal Data — and Why Privacy Hygiene Is Now a… | mePrism Privacy | [Read More](https://medium.com/p/4993d73ac277) |
 | Tue, 16 Jun 2026 21:10:33 GMT | Active Directory Attacks — PRE2K Attack | Osec | [Read More](https://medium.com/p/279616ecf498) |
 | Tue, 16 Jun 2026 21:07:55 GMT | The Village Within | Madhuri Roy | [Read More](https://medium.com/p/c9a9432aa136) |
 | Tue, 16 Jun 2026 20:56:14 GMT | Hidden in Teams: DragonForce Attackers
@@ -104,14 +113,3 @@ Weaponize Microsoft Teams Relays to Stay Hidden | Ashwini Puranik | [Read More](
 | Tue, 16 Jun 2026 13:49:09 GMT | Automation & core tools soc | Priyanshi | [Read More](https://medium.com/p/52308e1715dd) |
 | Tue, 16 Jun 2026 13:47:57 GMT | TryHackMe Walkthrough — Post-Incident Activity (Task 6: Post-Incident Review Practical) | Fuad Khan | [Read More](https://medium.com/p/42898099e071) |
 | Tue, 16 Jun 2026 13:37:34 GMT | Wazuh Ansible Series Part 4: Managing Wazuh Agent Configuration Profiles with Ansible | Rio Wiraldhani | [Read More](https://medium.com/p/e1aa3283e56f) |
-| Tue, 16 Jun 2026 13:31:59 GMT | Wraith: The Ultimate Bug Bounty Recon CLI | Pentester Club | [Read More](https://medium.com/p/daefc6e620f8) |
-| Tue, 16 Jun 2026 13:27:58 GMT | Why did the court say I’m liable for a phishing scam if I didn’t click the link? | Alex Lim | [Read More](https://medium.com/p/1260e299b5c0) |
-| Tue, 16 Jun 2026 13:22:46 GMT | DC 3.2- Writeup | Sarath Chandran R S | [Read More](https://medium.com/p/f3625c9c1a9f) |
-| Tue, 16 Jun 2026 13:17:06 GMT | # Web LLM Attacks — PortSwigger Labs Writeup
-**Author:** Cyber Kimura 
-**Date:** June 16, 2026… | security@cyberkimura.com | [Read More](https://medium.com/p/aaa6eca5525a) |
-| Tue, 16 Jun 2026 13:11:53 GMT | Analysis CVE-2026–48907 — Joomla JCE | xpl0dec | [Read More](https://medium.com/p/7ffbbac222a9) |
-| Tue, 16 Jun 2026 13:11:38 GMT | Build an IDOR Vulnerability Lab: Why WHERE Clauses Don’t Protect Your API. | ShadowForge | [Read More](https://medium.com/p/e5bd6528c339) |
-| Tue, 16 Jun 2026 13:11:36 GMT | Understanding Web Cache Poisoning via Unkeyed Headers: A PortSwigger Lab Walkthrough | ThatRandomGuy (Likhith Raj V) | [Read More](https://medium.com/p/3b0b9848e89b) |
-| Tue, 16 Jun 2026 13:09:40 GMT | File Delivery 101 for Faster CDN Downloads at Scale | Filestack Insights | [Read More](https://medium.com/p/8216fc447379) |
-| Tue, 16 Jun 2026 13:07:31 GMT | The Death of Initial Access: Why Modern Red Teams Must Think Like Adversary Engineers | Yua Mikanana | [Read More](https://medium.com/p/21e9674d4d86) |
