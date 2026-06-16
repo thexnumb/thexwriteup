@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 16 Jun 2026 02:05:28 GMT | How to Find More Subdomains Than Everyone Else | Masood Nfc | [Read More](https://medium.com/p/6dc35c88db2a) |
+| Tue, 16 Jun 2026 02:01:19 GMT | Havenlon Series: Execution Control in the Age of AI (10/15) Separating Intent From Execution | Havenlon | [Read More](https://medium.com/p/970b4088195c) |
+| Tue, 16 Jun 2026 01:56:00 GMT | Row Level Security (RLS)? A Hotel Key Card for Your Database | YC | [Read More](https://medium.com/p/596ca1022abd) |
+| Tue, 16 Jun 2026 01:54:27 GMT | Tuesday Morning Threat Report: June 16, 2026 | Mark Maguire | [Read More](https://medium.com/p/cd4aacfad599) |
+| Tue, 16 Jun 2026 01:45:10 GMT | Revolutionizing Code Reviews: Building an AI-Powered DevSecOps Bot with Spring Boot and Gemini | Riyan Sugiarto | [Read More](https://medium.com/p/3895f65adb77) |
+| Tue, 16 Jun 2026 01:43:48 GMT | MSRPM Internals: What the AMD APM Actually Means | Matheus Santos | [Read More](https://medium.com/p/d8904595e7b3) |
+| Tue, 16 Jun 2026 01:28:36 GMT | Sprint 12, Week 2: The Triad and the Field Pipeline | Al Dungo | [Read More](https://medium.com/p/613859864a92) |
+| Tue, 16 Jun 2026 01:22:56 GMT | Fable: Generally Available Until 5:21 PM | Phil Stafford | [Read More](https://medium.com/p/c44ad68ff6ec) |
+| Tue, 16 Jun 2026 01:12:16 GMT | A Zero-Day Is Only New to the People Who Did Not Know | Roger Gale | [Read More](https://medium.com/p/57db19112bc1) |
+| Tue, 16 Jun 2026 01:07:58 GMT | Ask Them to Turn Their Head. A Deepfake Can’t. | Liz Ndungu | [Read More](https://medium.com/p/d61e3f3b2913) |
+| Tue, 16 Jun 2026 00:59:35 GMT | The Career Skill Nobody Puts on Their Resume (But Every IT Team Is Quietly Desperate For) | Shaileen Sorenson | [Read More](https://medium.com/p/c298f384c542) |
+| Tue, 16 Jun 2026 00:48:46 GMT | Ninety Minutes | Watson Hartsoe | [Read More](https://medium.com/p/cc27f654aee8) |
+| Tue, 16 Jun 2026 00:33:14 GMT | A Skill Isn’t a Prompt. It’s Documentation. | Lance Cummings PhD | [Read More](https://medium.com/p/b82a4d79a4c4) |
+| Tue, 16 Jun 2026 00:07:45 GMT | The Price of Pride: When Survival Becomes a Business | Ruby | [Read More](https://medium.com/p/c45fdcb6a295) |
+| Tue, 16 Jun 2026 00:04:31 GMT | I Cleared the eWPT — Here’s Everything You Need to Know | Divya | [Read More](https://medium.com/p/4a630382ae4e) |
+| Tue, 16 Jun 2026 00:01:01 GMT | From Prompt Injection to Blocklist Enforcement — A Practical Guide to Azure AI Gateway Content… | Chris Bao | [Read More](https://medium.com/p/ead561a3fcd0) |
+| Mon, 15 Jun 2026 23:51:27 GMT | HTTP vs HTTPS — What Actually Happens When You Visit a Website | Sailee Shingare | [Read More](https://medium.com/p/6d94750461cd) |
+| Mon, 15 Jun 2026 23:50:14 GMT | Kibar Hırsız Kimdi? Bir Graylog RCA Hikayesi | Barbaros | [Read More](https://medium.com/p/e8132e4f82e2) |
+| Mon, 15 Jun 2026 23:20:23 GMT | How to Think About Agent Security | Paul Baclace | [Read More](https://medium.com/p/036a19ff0666) |
 | Mon, 15 Jun 2026 22:52:17 GMT | Clinejection: One Misconfigured GitHub Action Can Compromise Your App (Deep Dive & Lessons Learned) | Mohamed AboElKheir | [Read More](https://medium.com/p/0482b2574b24) |
 | Mon, 15 Jun 2026 22:38:29 GMT | Loly - Proving Grounds - OSCP Preparation | SilentExploit | [Read More](https://medium.com/p/fb11f969948e) |
 | Mon, 15 Jun 2026 22:33:12 GMT | I shipped 35 bugs in my AI chatbot. The scariest one was on the output side. | Rapls | [Read More](https://medium.com/p/9a9f5a5ac763) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 15 Jun 2026 16:34:23 GMT | I Am Fine, and So Are You. | Noorain Khan | [Read More](https://medium.com/p/92dbd3ec4285) |
 | Mon, 15 Jun 2026 16:17:19 GMT | The Mental Ping-Pong of a 30-Year-Old Father | Joseph Garibaldi | [Read More](https://medium.com/p/99fa0b0f6032) |
 | Mon, 15 Jun 2026 16:13:47 GMT | How We Detect Smart Contract Exploits Without Training Data — Using Hyperdimensional Computing on… | Aleksandr | [Read More](https://medium.com/p/e94d5d83e6b8) |
-| Mon, 15 Jun 2026 16:09:47 GMT | How to Spoof Location on iPhone Without Jailbreak - Works for Tinder & Pokémon GO | Sangramsing Kayte | [Read More](https://medium.com/p/3ec6a9751eb8) |
-| Mon, 15 Jun 2026 16:09:33 GMT | How Cisco SD-WAN Works: Control Plane, Data Plane, and Orchestration Explained (Part 1.3) | Mehrdad Mokhtari | [Read More](https://medium.com/p/9128c0020a22) |
-| Mon, 15 Jun 2026 16:04:54 GMT | PRIMARY CONTACT — Firewall | Wafeeq Syed | [Read More](https://medium.com/p/71ff4fefa2a9) |
-| Mon, 15 Jun 2026 16:04:16 GMT | Beginner’s Guide to AI Agent Hacking | Asiagijoseph | [Read More](https://medium.com/p/bbe70332c2c0) |
-| Mon, 15 Jun 2026 16:01:02 GMT | Operating in the World of Ham Radio Technology — Defining the Personal Journey. Part 3. | Masq31 - Benjamin Giordano | [Read More](https://medium.com/p/a37a59943d3a) |
-| Mon, 15 Jun 2026 15:59:16 GMT | Windows PrivEsc: Hunting Stored Credentials | Christopher Arock | [Read More](https://medium.com/p/a24dbc303d8d) |
-| Mon, 15 Jun 2026 15:46:53 GMT | Roller derby and what it taught me about Cybersecurity. | Luke Smith Asada | [Read More](https://medium.com/p/896d4c383729) |
-| Mon, 15 Jun 2026 15:44:23 GMT | Practical guide: how to use Discord as a C2 Server | Cyberknight | [Read More](https://medium.com/p/54d0278422a2) |
-| Mon, 15 Jun 2026 15:42:09 GMT | The Real Problem with Procurement Approval Is Not the Rules — It Is Applying Them Consistently | Manjunath Hanmantgad | [Read More](https://medium.com/p/a43064a67dfa) |
-| Mon, 15 Jun 2026 15:37:37 GMT | Domino CTF | Rahul Dhakate | [Read More](https://medium.com/p/ce6940d6ea56) |
-| Mon, 15 Jun 2026 15:35:34 GMT | TryHackMe: LazyAdmin Walkthrough & Writeup | omar yazen | [Read More](https://medium.com/p/fa34a73e7fbd) |
-| Mon, 15 Jun 2026 15:11:00 GMT | What Is “Dirt” in the TRON Network and How P2P Traders Lose Their Working Capital | DM | [Read More](https://medium.com/p/459be87f0872) |
-| Mon, 15 Jun 2026 15:01:01 GMT | Ağ Dünyasının Görünmez Mimarisini Anlamak: Kritik Protokoller,Hangi Katmanda Ne Çalışır? | Aslıhan Zeynep Koç | [Read More](https://medium.com/p/dd68f04ad407) |
-| Mon, 15 Jun 2026 14:49:19 GMT | Fintech Security Advances Shape Digital Finance Confidence | Prashant Thinks | [Read More](https://medium.com/p/1a07aa85a612) |
-| Mon, 15 Jun 2026 14:31:44 GMT | What Must Be - Must Be | Folakunmi Oluwaseun Ejire | [Read More](https://medium.com/p/251b8a6c79c9) |
-| Mon, 15 Jun 2026 14:27:05 GMT | Governed AI-Assisted Security Workbench | Eroken | [Read More](https://medium.com/p/0ae009f27cc8) |
-| Mon, 15 Jun 2026 14:26:13 GMT | I Thought SOC Analysts Just Watched Alerts. I Was Completely Wrong. | Vyomamshetty | [Read More](https://medium.com/p/a5fb106d2dfe) |
-| Mon, 15 Jun 2026 14:13:37 GMT | Would You Notice If Your Machine Was Compromised? | MouhibMahadbi | [Read More](https://medium.com/p/7d64f7b189c5) |
-| Mon, 15 Jun 2026 14:10:56 GMT | DHCP Explained | Aryan Vij | [Read More](https://medium.com/p/6dd3a6f9aed2) |
