@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Jun 2026 20:59:34 GMT | Why LLMs Need a Firewall: Lessons from McDonald’s Two AI Security Failures | Cahal  Agarwalla | [Read More](https://medium.com/p/6aedf7cd6b12) |
+| Wed, 17 Jun 2026 20:51:02 GMT | Footprinting Lab — Hard (Walkthrough) | th3V0!D | [Read More](https://medium.com/p/348321bfaaef) |
+| Wed, 17 Jun 2026 20:50:58 GMT | VLANs: Why Your Office Network Isn’t Actually One Network | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/d753432b9217) |
+| Wed, 17 Jun 2026 20:47:26 GMT | It’s Not a Configuration Problem. It’s a Geometry Problem. | Gaurav Thanki | [Read More](https://medium.com/p/ed71a1366565) |
+| Wed, 17 Jun 2026 20:27:30 GMT | Part 2: What The Scanners Found (Before I Knew What Mattered) | Jayriniv | [Read More](https://medium.com/p/de6f132303a3) |
+| Wed, 17 Jun 2026 20:17:55 GMT | Digital Steganography: Hiding Secret Data in Plain Text - Ultimate Guide | Areeb | [Read More](https://medium.com/p/8fbf7df447d6) |
+| Wed, 17 Jun 2026 20:13:39 GMT | Understanding Identity and Access Management (IAM) | Onyedikachi Bernard Okoh | [Read More](https://medium.com/p/dec3f14e139a) |
+| Wed, 17 Jun 2026 20:07:21 GMT | The OpenClaw Epidemic — Fake Installers, Poisoned Skills, and a New Frontier for AI Supply Chain… | Justin C. | [Read More](https://medium.com/p/3eb488f3c2fc) |
+| Wed, 17 Jun 2026 20:06:37 GMT | Diffie-Hellman: Establishing Secrets over Insecure Channels | Onyedikachi Bernard Okoh | [Read More](https://medium.com/p/4cd687575a3f) |
+| Wed, 17 Jun 2026 20:02:43 GMT | 7 AI attacks every team should know | Zeeshan Baig | [Read More](https://medium.com/p/17c8584198db) |
+| Wed, 17 Jun 2026 19:56:40 GMT | Mahdi Shamlo - XSS Attacks Are Everywhere: Reflected, Stored, DOM-Based — How to Actually Fix Them… | Mahdi SHamlou | [Read More](https://medium.com/p/731006905779) |
+| Wed, 17 Jun 2026 19:56:04 GMT | The Hacker in Your Building Isn’t Wearing a Hoodie — Your Employee Is | Mary | [Read More](https://medium.com/p/4e8e3766aaeb) |
+| Wed, 17 Jun 2026 19:51:32 GMT | I Read The Policies So You Don’t Have To: Apple (Technology & Software) | Its Not Nicole | [Read More](https://medium.com/p/594e5d19235e) |
+| Wed, 17 Jun 2026 19:49:21 GMT | Protocols and Servers 2 TryHackMe Writeup | Pop123 | [Read More](https://medium.com/p/42c2d01f5c6c) |
+| Wed, 17 Jun 2026 19:46:16 GMT | AI hacking is becoming relevant and dangerous in the world of cyberattacks | HelloBug | [Read More](https://medium.com/p/61f15e856d8a) |
+| Wed, 17 Jun 2026 19:44:52 GMT | Is FliteGrid Worth It? An Honest Review of the $949 Drone-Detection Node (2026) | Mocenti | [Read More](https://medium.com/p/174f93f662e9) |
+| Wed, 17 Jun 2026 19:42:20 GMT | Mahdi Shamlou - Injection Attacks Are Not Dead: SQL, NoSQL, ORM, and Command Injection — How to… | Mahdi SHamlou | [Read More](https://medium.com/p/34374b333b5a) |
+| Wed, 17 Jun 2026 19:40:48 GMT | Why Small Businesses Are Losing Opportunities Due to Outdated Technology | TechMitra.tech | [Read More](https://medium.com/p/91e0597a6869) |
+| Wed, 17 Jun 2026 19:39:02 GMT | The Humanoid Robot on Post: | Paul M Jankowski | [Read More](https://medium.com/p/b316ae90bffe) |
+| Wed, 17 Jun 2026 19:27:34 GMT | How Responder Catches Hashes and PtH Uses Them | Sarah | [Read More](https://medium.com/p/e06a44c59c45) |
+| Wed, 17 Jun 2026 19:22:21 GMT | A Complete Guide to SOC and DFIR Tools for Modern Cyber Investigations | Xpert4Cyber | [Read More](https://medium.com/p/fc2b2d728701) |
+| Wed, 17 Jun 2026 19:02:16 GMT | TryHackMe Lo-Fi Writeup | OWL | [Read More](https://medium.com/p/d34f686e36c8) |
+| Wed, 17 Jun 2026 18:42:54 GMT | How I prevented claude from writing to remote-settings.json | petereonwrites | [Read More](https://medium.com/p/ee70b66e49f1) |
+| Wed, 17 Jun 2026 18:34:00 GMT | SQL Injection:The Vulnerability That Refuses to Retire | Sushmitha Amarnath | [Read More](https://medium.com/p/838cfa0b4223) |
 | Wed, 17 Jun 2026 18:31:00 GMT | Nmap: The Cybersecurity Tool Every Beginner Should Learn | BENSEC | [Read More](https://medium.com/p/8d9d0e40aee3) |
 | Wed, 17 Jun 2026 18:28:32 GMT | I Started Bug Bounty With ₹0 Savings and a ₹15,000 Laptop. Year One Results. | CYBER MIND SPACE | [Read More](https://medium.com/p/c6819ad4e2b7) |
 | Wed, 17 Jun 2026 18:27:42 GMT | Detecting Domain Impersonation in Email: Using Regex + Transport Rules to Stop Polymorphic Phishing… | Marvin Sewell | [Read More](https://medium.com/p/14346d7d757d) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Jun 2026 12:04:47 GMT | My CompTIA A+ Journey | Zyad Atwa | [Read More](https://medium.com/p/273f706cb230) |
 | Wed, 17 Jun 2026 11:58:59 GMT | The Payment Page That Passed Your Last Audit Isn’t the One Running Now | Oran F | [Read More](https://medium.com/p/39b2761240df) |
 | Wed, 17 Jun 2026 11:58:44 GMT | Budget vs Enterprise Servers: Which One You Should Choose and Why? | HostNOC | [Read More](https://medium.com/p/c164673d3386) |
-| Wed, 17 Jun 2026 11:54:51 GMT | The Rise in AI-Driven Cyberattacks, Deepfakes, and Enhanced Phishing Techniques: What You Need to… | Chad Barr | [Read More](https://medium.com/p/d7c557bbfa2a) |
-| Wed, 17 Jun 2026 11:53:36 GMT | Digital Trust Summit Lands in Brussels as Europe Enters AI Implementation Phase | Digital Trust Summit 2026 - Brussels | [Read More](https://medium.com/p/ee5009d9b28a) |
-| Wed, 17 Jun 2026 11:51:55 GMT | It Doesn’t Matter How Fast You Patch. Attackers Are Faster. | Tymoteusz `Shadyy` Netter | [Read More](https://medium.com/p/481777f1cc98) |
-| Wed, 17 Jun 2026 11:51:50 GMT | This Oracle Flaw Unleashed a Wave of Extortion | Tymoteusz `Shadyy` Netter | [Read More](https://medium.com/p/380a7410548a) |
-| Wed, 17 Jun 2026 11:51:21 GMT | Prompt Injection: The Anatomy of an AI Attack Flow (And How to Prevent It) | Stefan Miladinović | [Read More](https://medium.com/p/9a6c124f29d3) |
-| Wed, 17 Jun 2026 11:44:07 GMT | What is CTEM and Why Organizations are Adopting it | Emma Carter | [Read More](https://medium.com/p/3ad306ab06a5) |
-| Wed, 17 Jun 2026 11:43:33 GMT | From Northumberland Street to Eldon Square: Securing Newcastle’s Diverse Retail Landscape | Henry Carter | [Read More](https://medium.com/p/dfbdeac2f61e) |
-| Wed, 17 Jun 2026 11:36:44 GMT | Taiwan, Interpol, and the Democratic Security Blind Spot | European Values Center for Security Policy | [Read More](https://medium.com/p/d55fdce4c5cf) |
-| Wed, 17 Jun 2026 11:34:20 GMT | Beyond Locks and Keys: Smarter Security with Access Control Technology. | Safety Custodian Ltd | [Read More](https://medium.com/p/6ae5688975d4) |
-| Wed, 17 Jun 2026 11:33:20 GMT | A note from the corner of a messy desk | Nature Boy | [Read More](https://medium.com/p/d91c9d397ea4) |
-| Wed, 17 Jun 2026 11:33:12 GMT | When Security Telemetry Becomes Reconnaissance: An Internal Pentester’s Look at AI-Powered… | Joel Yesudas | [Read More](https://medium.com/p/b6ade8b0f88c) |
-| Wed, 17 Jun 2026 11:31:00 GMT | SSRF — Making the Server Do Your Dirty Work | Nitin yadav | [Read More](https://medium.com/p/4731040f1483) |
-| Wed, 17 Jun 2026 11:31:00 GMT | OAuth 2.1 for MCP: The Resource Indicator Trap and How to Avoid It | Vishad Patel | [Read More](https://medium.com/p/34a66cf9f817) |
-| Wed, 17 Jun 2026 11:31:00 GMT | Why I Treat Every Linux Server Like a Crime Scene | Faruk Ahmed | [Read More](https://medium.com/p/7c9db9b302c3) |
-| Wed, 17 Jun 2026 11:30:30 GMT | A walk-through of a High-severity cross-company account-takeover bug in a widely-used open-source… | Santosh Kumar Puppala | [Read More](https://medium.com/p/e7596a411268) |
-| Wed, 17 Jun 2026 11:14:31 GMT | Oracle Delivers Massive Security Update Wave With 245 New Patches Across Enterprise Products | Jas | [Read More](https://medium.com/p/17b0481adb36) |
-| Wed, 17 Jun 2026 11:14:04 GMT | Why Indian Enterprises Are Going Wireless: The Rise of Mesh-Based Access Control | Joven A Rodrigues | [Read More](https://medium.com/p/777cdd93eb23) |
-| Wed, 17 Jun 2026 10:46:00 GMT | I Turned a “What’s Your Name?” Field Into a Malicious Link — My First HTML Injection | Prashant Raj | [Read More](https://medium.com/p/aada50600f95) |
-| Wed, 17 Jun 2026 10:41:08 GMT | The Strategic Importance of Technology Scalability in a Digital-First Era | Allisonkennedy | [Read More](https://medium.com/p/f0457d0dbfc1) |
-| Wed, 17 Jun 2026 10:38:35 GMT | How iGaming Operators Can Launch a Production-Ready Cloud Environment in Under 7 Days | ITGix Ltd. | [Read More](https://medium.com/p/0fe59b6f0851) |
-| Wed, 17 Jun 2026 10:36:21 GMT | Building a Private CI/CD Platform on AWS with Jenkins, Ansible, and Bitbucket | Shbhomsrivastav | [Read More](https://medium.com/p/7fc566f35b96) |
-| Wed, 17 Jun 2026 10:35:55 GMT | 1-Click Account Takeover via Misconfigured WebView | abdelnasser | [Read More](https://medium.com/p/c3096c8173e9) |
-| Wed, 17 Jun 2026 10:35:22 GMT | How Professional Security Guards Reduce Risks at Shopping Centers and Retail Plazas | Grdsnscrt | [Read More](https://medium.com/p/7a3b3e268b90) |
-| Wed, 17 Jun 2026 10:33:17 GMT | The Cybersecurity Mindset: How Hackers Think and How We Defend Against Them | Gabriel Chukwuebuka Oboko | [Read More](https://medium.com/p/5dd08f9f3c81) |
