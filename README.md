@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 17 Jun 2026 22:51:41 GMT | How to Read and Improve Your Cyber Risk Score | Consilien | [Read More](https://medium.com/p/a6b708a113de) |
+| Wed, 17 Jun 2026 22:43:16 GMT | Conti — TryHackMe Walkthrough (Splunk) | Marlon Duarte | [Read More](https://medium.com/p/68a7a8262787) |
+| Wed, 17 Jun 2026 22:40:08 GMT | GemForgeLabs Live | Gilgamesh Gem | [Read More](https://medium.com/p/797fcf198257) |
+| Wed, 17 Jun 2026 22:34:26 GMT | Detecting the nftables Catchall Use-After-Free (CVE-2026–23111) by thinking outside the box | Miggo Engineering | [Read More](https://medium.com/p/2227654d5acf) |
+| Wed, 17 Jun 2026 22:25:23 GMT | bletool v1.1: Improving BLE Notification Analysis | SerialHacker | [Read More](https://medium.com/p/663b2ed485a4) |
+| Wed, 17 Jun 2026 22:13:45 GMT | Anthropic Said This AI Was Too Dangerous. Now It’s in Your Hands. | AJ The Tech Dr | [Read More](https://medium.com/p/336a766e293e) |
+| Wed, 17 Jun 2026 22:05:08 GMT | A Practical Guide to Detection Engineering in CrowdStrike NG-SIEM | Joseph Cornell | [Read More](https://medium.com/p/25931f1a0120) |
+| Wed, 17 Jun 2026 22:04:24 GMT | Building an AI-Powered Honeypot: From Thinking Like an Attacker to Training a Machine to Detect One. | Siddiqt | [Read More](https://medium.com/p/ac1f9d07d8f7) |
+| Wed, 17 Jun 2026 21:53:59 GMT | MetaStealer traffic, new DGAs and analyzing the “tracker” backdoor DGA with AI | Jason Reaves | [Read More](https://medium.com/p/96ea63dc7c01) |
+| Wed, 17 Jun 2026 21:51:00 GMT | VPN Features You Need in 2026: The Ultimate Guide | BM Khalid Hasan | [Read More](https://medium.com/p/e47d6555b4f0) |
+| Wed, 17 Jun 2026 21:38:44 GMT | Payload Fragmentation & Dynamic Assembly for AV Evasion | NØkKh4 | [Read More](https://medium.com/p/fa4d82bc2ef7) |
+| Wed, 17 Jun 2026 21:29:26 GMT | IP Addressing Explained: Public, Private, Static, and Dynamic | Olaniyi Oluwaseyi | [Read More](https://medium.com/p/eba8ca834db3) |
+| Wed, 17 Jun 2026 21:20:41 GMT | Building a Wazuh SIEM Lab From Scratch: Installation, Agents and Log Sources | Funke Akindele | [Read More](https://medium.com/p/d0b400acbc44) |
+| Wed, 17 Jun 2026 21:10:41 GMT | HTTP Request Smuggling Against LLM Proxy Architectures: A Deterministic Security Analysis | Gustavo Okamoto | [Read More](https://medium.com/p/efb3495054e1) |
+| Wed, 17 Jun 2026 21:10:11 GMT | Why Every Enterprise Needs an Attack Surface Mitigation Strategy | Goziechile | [Read More](https://medium.com/p/6abe56dc73a6) |
 | Wed, 17 Jun 2026 20:59:34 GMT | Why LLMs Need a Firewall: Lessons from McDonald’s Two AI Security Failures | Cahal  Agarwalla | [Read More](https://medium.com/p/6aedf7cd6b12) |
 | Wed, 17 Jun 2026 20:51:02 GMT | Footprinting Lab — Hard (Walkthrough) | th3V0!D | [Read More](https://medium.com/p/348321bfaaef) |
 | Wed, 17 Jun 2026 20:50:58 GMT | VLANs: Why Your Office Network Isn’t Actually One Network | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/d753432b9217) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Jun 2026 14:03:12 GMT | Beyond the Hacker Stereotype: My Journey as an Information Security Analyst | lc3rn3tln | [Read More](https://medium.com/p/f690609d55d6) |
 | Wed, 17 Jun 2026 13:38:45 GMT | Hacker101 CTF — Micro-CMS v1 Walkthrough | Ucarcemre | [Read More](https://medium.com/p/175957c9f031) |
 | Wed, 17 Jun 2026 13:25:50 GMT | The Guy Who Freed Fable (Mythos) and Triggered a Ban | Ai studio | [Read More](https://medium.com/p/c916d517ac61) |
-| Wed, 17 Jun 2026 13:09:23 GMT | Cyber Security Hyderabad: Build Your Future in the Growing Cybersecurity Industry | Firewall Zone | [Read More](https://medium.com/p/3ad2b802d946) |
-| Wed, 17 Jun 2026 13:04:55 GMT | Account Takeover via Misconfigured OAuth in Android | abdelnasser | [Read More](https://medium.com/p/cb54af6fd46d) |
-| Wed, 17 Jun 2026 13:01:03 GMT | OWASP Top 10 Explained for Beginners: The 10 Bugs That Cause 90% of Web Hacks | Mohira Zokirova | [Read More](https://medium.com/p/4b7780854fa7) |
-| Wed, 17 Jun 2026 12:55:58 GMT | ISO/IEC 27001 Lead Auditor Certification Training in Munich — Master ISMS Auditing, Risk &… | sprintzeal_training | [Read More](https://medium.com/p/a2375acb709c) |
-| Wed, 17 Jun 2026 12:39:34 GMT | How to Enable WPA3 on Your Router | Zero Day Vlog | [Read More](https://medium.com/p/6a89d4d8b0a1) |
-| Wed, 17 Jun 2026 12:37:31 GMT | Understanding NFS Security Through a Real Lab Assessment (Metasploitable 2) | VISHAL PRAJAPATI | [Read More](https://medium.com/p/1140b4a8bb63) |
-| Wed, 17 Jun 2026 12:27:06 GMT | Faster Triage, Clearer Evidence, Lower Risk: A SOC Guide to Better Alert Handling | ANY.RUN | [Read More](https://medium.com/p/0af830854f21) |
-| Wed, 17 Jun 2026 12:26:02 GMT | What I Found Doing an Ethical Security Assessment of a Startup Tool I Actually Used | T Dhanushit | [Read More](https://medium.com/p/e95e07a9b28f) |
-| Wed, 17 Jun 2026 12:07:41 GMT | Someone Left the Door Open. 141 npm Packages Walked In With a RAT | Theusualcybersecurityguy | [Read More](https://medium.com/p/dc3f0b1c7815) |
-| Wed, 17 Jun 2026 12:06:17 GMT | Shadow AI: The Biggest Security Threat Companies Don’t See | R&B Networks | [Read More](https://medium.com/p/9695f51decc9) |
-| Wed, 17 Jun 2026 12:06:00 GMT | How a Single “Backslash” Smashed Through a Global Retailer’s OAuth Implementation | Tanvi Chauhan | [Read More](https://medium.com/p/9a3ae0c0a53f) |
-| Wed, 17 Jun 2026 12:05:03 GMT | Odessa Stil Loading: a new grouping is rapidly gaining momentum | Bobswallower | [Read More](https://medium.com/p/c5c96551b77f) |
-| Wed, 17 Jun 2026 12:04:47 GMT | My CompTIA A+ Journey | Zyad Atwa | [Read More](https://medium.com/p/273f706cb230) |
-| Wed, 17 Jun 2026 11:58:59 GMT | The Payment Page That Passed Your Last Audit Isn’t the One Running Now | Oran F | [Read More](https://medium.com/p/39b2761240df) |
-| Wed, 17 Jun 2026 11:58:44 GMT | Budget vs Enterprise Servers: Which One You Should Choose and Why? | HostNOC | [Read More](https://medium.com/p/c164673d3386) |
