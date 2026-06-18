@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Jun 2026 23:19:01 GMT | How I Automated Signal Detection With SDR and Machine Learning | Michael Preston | [Read More](https://medium.com/p/4b9140e11acc) |
+| Thu, 18 Jun 2026 23:09:45 GMT | Deepfake Vishing Secrets Revealed | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/9a642a3f70cf) |
+| Thu, 18 Jun 2026 23:05:30 GMT | Why Security Teams Are Switching to EDR? | Raviteja Mureboina | [Read More](https://medium.com/p/9f5502b7102a) |
+| Thu, 18 Jun 2026 23:05:06 GMT | Performing OS Discovery | Archie | [Read More](https://medium.com/p/af12721265cb) |
+| Thu, 18 Jun 2026 22:42:43 GMT | Building Muscle Memory in Cybersecurity: Understanding the Sentences, Missing the Paragraph | Çağlanur ARSLAN | [Read More](https://medium.com/p/d1e97384af42) |
+| Thu, 18 Jun 2026 22:35:13 GMT | Your Staff Aren’t the Problem. The Missing Alternative Is. | D'Arcy Bracken | [Read More](https://medium.com/p/4d5b61bc923d) |
+| Thu, 18 Jun 2026 22:23:10 GMT | Peace is Incomplete: Why True Stability Demands Half the Population | Chloe Ladner | [Read More](https://medium.com/p/b65c057f0c58) |
+| Thu, 18 Jun 2026 22:13:51 GMT | The Hidden Vulnerabilities in AI-Generated Code: A Security Engineer’s Field Guide | Ismail Tasdelen | [Read More](https://medium.com/p/9a13df3cfae0) |
+| Thu, 18 Jun 2026 22:02:36 GMT | Active Directory Attacks — NTLM Relay Attack | Osec | [Read More](https://medium.com/p/a582aeee1635) |
+| Thu, 18 Jun 2026 22:01:01 GMT | Kubernetes Secrets Are Not Secret Management — Vault, ESO, CSI Driver, and Production Security… | TheProdSDE | [Read More](https://medium.com/p/128370946e9a) |
+| Thu, 18 Jun 2026 21:56:49 GMT | TFII — I Built a Threat Intelligence Platform, Kinda? | Sherif Rahim | [Read More](https://medium.com/p/ff272a3a44cd) |
+| Thu, 18 Jun 2026 21:47:15 GMT | Cybersecurity Solutions For Healthcare: Protecting Patient Data in the Digital Age | CyRx360 Inc. | [Read More](https://medium.com/p/26244f3e395c) |
+| Thu, 18 Jun 2026 21:43:52 GMT | Designing an AI-Powered SOC Automation Platform with Splunk and Claude AI — Part 4 | Eren Saylan | [Read More](https://medium.com/p/ecaded2d5d69) |
+| Thu, 18 Jun 2026 21:41:00 GMT | The Invisible Hijack: When Your AI Coding Assistant Turns Against You | Lightning Developer | [Read More](https://medium.com/p/4eb74c7786c5) |
+| Thu, 18 Jun 2026 21:31:00 GMT | Security Pay | Ricardo Figueroa | [Read More](https://medium.com/p/678f582ef946) |
 | Thu, 18 Jun 2026 21:21:32 GMT | Wazuh SIEM Lab Part 3: Attack Simulation and What the Dashboards Showed | Funke Akindele | [Read More](https://medium.com/p/b50652c7ae76) |
 | Thu, 18 Jun 2026 21:19:13 GMT | Trust Is Expensive: Why Businesses Need More Than Contracts | Maxwell Wanjohi | [Read More](https://medium.com/p/7b1bd754a81a) |
 | Thu, 18 Jun 2026 21:01:01 GMT | The Practitioner’s Security Guide to Laravel Sanctum Tokens | Hafiq Iqmal | [Read More](https://medium.com/p/263eadc59942) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Jun 2026 14:33:27 GMT | Who actually owns the digital discourse? | Philo Sophies | [Read More](https://medium.com/p/57371b8555e8) |
 | Thu, 18 Jun 2026 14:28:37 GMT | How Cloud Computing Security Supports Stronger Enterprise Cybersecurity Solutions | Secgenie AI | [Read More](https://medium.com/p/391b80f9e57f) |
 | Thu, 18 Jun 2026 14:26:49 GMT | “Bug Bounty Bootcamp #49: Recon Is Not Stalking” | Aman Sharma | [Read More](https://medium.com/p/2c9126d4781d) |
-| Thu, 18 Jun 2026 14:22:33 GMT | OpenCode AI + Cloudflare + Kimi: The Ultimate Pentesting Automation Stack | Pentester Club | [Read More](https://medium.com/p/186619943966) |
-| Thu, 18 Jun 2026 14:04:36 GMT | Freakquency - BlueHens CTF 2026 | Z3DX | [Read More](https://medium.com/p/7f83a511c407) |
-| Thu, 18 Jun 2026 14:04:04 GMT | A Hybrid Refresh Token System | Moe Dubreuil | [Read More](https://medium.com/p/93cf166ddeed) |
-| Thu, 18 Jun 2026 14:02:02 GMT | Storytime- BlueHens CTF 2026 | Z3DX | [Read More](https://medium.com/p/3aefd5c94a92) |
-| Thu, 18 Jun 2026 14:02:01 GMT | How a Weak VNC Password Led to Full Remote Desktop Access | VISHAL PRAJAPATI | [Read More](https://medium.com/p/79e0773c8bd3) |
-| Thu, 18 Jun 2026 13:52:13 GMT | Why I Chose a Security Validation Service Instead of Another Security Tool | Emily Writes | [Read More](https://medium.com/p/90ca1a9d92cc) |
-| Thu, 18 Jun 2026 13:51:00 GMT | CSRF Attacks: How They Work and How to Stop Them | Tharindu Jayawardhana | [Read More](https://medium.com/p/cb46721b2854) |
-| Thu, 18 Jun 2026 13:44:03 GMT | ExcelMindCyber Alumni Success Story: How I Transitioned into Cybersecurity: My ExcelMindCyber… | Excelmindcyber | [Read More](https://medium.com/p/5cdeb7e9bc27) |
-| Thu, 18 Jun 2026 13:40:10 GMT | Weaponizing Time: An Elite Guide to Race Conditions | Kareem Mohamed (0xY0K4_CL4W ) | [Read More](https://medium.com/p/70bbdf614909) |
-| Thu, 18 Jun 2026 13:37:30 GMT | Username enumeration via subtly different responses | Ericmpta | [Read More](https://medium.com/p/45474b82773a) |
-| Thu, 18 Jun 2026 13:35:12 GMT | 61% of Companies Abandoned Their AI Projects. The Real Reason Isn’t What Deloitte Says. | William Flaiz | [Read More](https://medium.com/p/10938935dcb9) |
-| Thu, 18 Jun 2026 13:21:25 GMT | The Turing Trap: Beyond OSINT to AgInt and the Rise of Synthetic Intelligence Forensics | Sayat Kakzhanov | [Read More](https://medium.com/p/740beca3d34f) |
-| Thu, 18 Jun 2026 13:14:44 GMT | What Liverpool Retail Managers Often Notice When Their Store Starts Running More Smoothly Every Day | Junemcdowell | [Read More](https://medium.com/p/f06fcec75886) |
-| Thu, 18 Jun 2026 13:13:35 GMT | Jacob the Boss (THM) Tryhackme Medium Challenge Walkthrough | Lawvye | [Read More](https://medium.com/p/28708a810745) |
-| Thu, 18 Jun 2026 13:06:25 GMT | HackTheBox “Celestial” Walkthrough | Abdullah Kareem | [Read More](https://medium.com/p/36a8ffcb1908) |
