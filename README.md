@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Jun 2026 21:21:32 GMT | Wazuh SIEM Lab Part 3: Attack Simulation and What the Dashboards Showed | Funke Akindele | [Read More](https://medium.com/p/b50652c7ae76) |
+| Thu, 18 Jun 2026 21:19:13 GMT | Trust Is Expensive: Why Businesses Need More Than Contracts | Maxwell Wanjohi | [Read More](https://medium.com/p/7b1bd754a81a) |
+| Thu, 18 Jun 2026 21:01:01 GMT | The Practitioner’s Security Guide to Laravel Sanctum Tokens | Hafiq Iqmal | [Read More](https://medium.com/p/263eadc59942) |
+| Thu, 18 Jun 2026 21:00:27 GMT | The Pragmatic Edge: Realigning Enterprise IT Infrastructure in the Post-Hype Era | ADEEL ALI | [Read More](https://medium.com/p/b23a1ab78750) |
+| Thu, 18 Jun 2026 20:55:45 GMT | Claude Now Runs Agents on a Schedule. Automate These 5 First. | Automation Labs | [Read More](https://medium.com/p/128d071f2dfa) |
+| Thu, 18 Jun 2026 20:46:26 GMT | Dead Drops on the Blockchain: A Cross-Family Taxonomy of On-Chain C2, with First-Hand Reversal and… | Rhishav Kanjilal | [Read More](https://medium.com/p/e537e11cf8d2) |
+| Thu, 18 Jun 2026 20:46:20 GMT | C/C++ and Rust definitions for Windows API functions and data types | S12 - 0x12Dark Development | [Read More](https://medium.com/p/61577639d494) |
+| Thu, 18 Jun 2026 20:45:52 GMT | AI in Cybersecurity: How Smart Systems Are Changing Digital Defense | Shior Joshua | [Read More](https://medium.com/p/0a685fcf7834) |
+| Thu, 18 Jun 2026 20:45:38 GMT | Part 1:- How Money Laundering Works in Cryptocurrency: Methods, Tools, Techniques, and Detection | Abraham | [Read More](https://medium.com/p/d2c73129df2d) |
+| Thu, 18 Jun 2026 20:25:18 GMT | Why DERMS Cybersecurity Is Emerging as a Critical Grid Reliability Challenge | Olutoye Ransome-Kuti | [Read More](https://medium.com/p/9e922295a4dd) |
+| Thu, 18 Jun 2026 20:23:17 GMT | The Problem with Prevention: When Good Work Makes Itself Invisible | Nik Charlson | [Read More](https://medium.com/p/f5e7a34dc657) |
+| Thu, 18 Jun 2026 20:20:14 GMT | The AI Bug Bounty Gold Rush: Why 2026 Is the Best Time to Start (Before Everyone Else Does) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/030e3050ba8f) |
+| Thu, 18 Jun 2026 20:08:15 GMT | Your Gateway Filter Stops the Honest User and Annoys the Attacker — A Threat-Model Read on AI… | Tim Urista - Senior Cloud Engineer | [Read More](https://medium.com/p/695c22a4ff10) |
+| Thu, 18 Jun 2026 20:01:49 GMT | Understanding the Attack Chain for Ethical Hackers | Areeba qureshi | [Read More](https://medium.com/p/3ae3e3f07b5f) |
+| Thu, 18 Jun 2026 19:55:03 GMT | Debugging PrintNightmare: Why Impacket Fails and How NDR Serialization Saves the Day | sydrx | [Read More](https://medium.com/p/f3a3f95df70d) |
+| Thu, 18 Jun 2026 19:32:58 GMT | Information Gathering — Web Edition (Skill Assessment — Walkthrough) | th3V0!D | [Read More](https://medium.com/p/f68c8624be48) |
+| Thu, 18 Jun 2026 19:31:56 GMT | Workhorse hackers and the cybercrime assembly line | NetworkTigers | [Read More](https://medium.com/p/488336a853de) |
+| Thu, 18 Jun 2026 19:31:07 GMT | IronWorm Explained: How a Rust-Built Malware Turns You Into the Attacker | C.ishan pathirana | [Read More](https://medium.com/p/5054486e885d) |
 | Thu, 18 Jun 2026 19:22:30 GMT | Microsoft is making phishing easier for attackers! | Travis Ray Caverhill | [Read More](https://medium.com/p/0205b4b3d8b1) |
 | Thu, 18 Jun 2026 19:18:18 GMT | What Really Happens When You Type a URL and Hit Enter? | Crazy Tech Bear | [Read More](https://medium.com/p/82e7b016e50f) |
 | Thu, 18 Jun 2026 19:15:52 GMT | Your Business’s Facebook Page Is More Vulnerable Than You Think (And What to Do If You Lose It) | Kevinugeini | [Read More](https://medium.com/p/912df258ef4a) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 18 Jun 2026 13:14:44 GMT | What Liverpool Retail Managers Often Notice When Their Store Starts Running More Smoothly Every Day | Junemcdowell | [Read More](https://medium.com/p/f06fcec75886) |
 | Thu, 18 Jun 2026 13:13:35 GMT | Jacob the Boss (THM) Tryhackme Medium Challenge Walkthrough | Lawvye | [Read More](https://medium.com/p/28708a810745) |
 | Thu, 18 Jun 2026 13:06:25 GMT | HackTheBox “Celestial” Walkthrough | Abdullah Kareem | [Read More](https://medium.com/p/36a8ffcb1908) |
-| Thu, 18 Jun 2026 13:00:13 GMT | Why Some Sheffield Warehouses Run More Efficiently Even During Their Most Demanding Days | Daken | [Read More](https://medium.com/p/daf26684a0c4) |
-| Thu, 18 Jun 2026 12:49:46 GMT | Stop Pasting Your JWTs Into Third-Party Sites | Azam Akram | [Read More](https://medium.com/p/978be55e1b32) |
-| Thu, 18 Jun 2026 12:47:03 GMT | 10 Cybersecurity Measures Every Small Business Should Implement After a Hack | Smart Business Daily | [Read More](https://medium.com/p/e7374533fd28) |
-| Thu, 18 Jun 2026 12:43:31 GMT | Smart Video Door Phone in India: See Who’s There from Anywhere — A Complete Guide | Discreet solution Pvt ltd | [Read More](https://medium.com/p/1959b6f74a15) |
-| Thu, 18 Jun 2026 12:41:39 GMT | A 7-Step Plan to Save Our Students from Systemic Corruption. | beinn.aspirrito | [Read More](https://medium.com/p/03c46a4df5ff) |
-| Thu, 18 Jun 2026 12:40:33 GMT | Going “Extra Mile”. Making an in person drop. | Minahil Naeem | [Read More](https://medium.com/p/827820c47311) |
-| Thu, 18 Jun 2026 12:39:02 GMT | Developer endpoint inventory in 10 minutes: Bumblebee Hive | Oluwatobi Afolabi | [Read More](https://medium.com/p/bc2db8e266d7) |
-| Thu, 18 Jun 2026 12:34:02 GMT | Breaking: US and Iran Move Toward Peace Agreement, Global Markets React | Ethan Tech Daily | [Read More](https://medium.com/p/ea8f0f406f1a) |
-| Thu, 18 Jun 2026 12:30:24 GMT | IP address of vulnerable metasploit IP | Sudip | [Read More](https://medium.com/p/4ef00db318f0) |
-| Thu, 18 Jun 2026 12:30:16 GMT | Firewalls Explained: The Bouncer Your Network Actually Needs | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/b995fb70e44a) |
-| Thu, 18 Jun 2026 12:23:22 GMT | Securing Your Business in 2026: Why Physical Security Still Matters | Henry Carter | [Read More](https://medium.com/p/aae429650744) |
-| Thu, 18 Jun 2026 12:20:32 GMT | How Cloudflare Absorbs Millions Of Attack Requests Every Second? | Aditya Sharma | [Read More](https://medium.com/p/c009df4deb3f) |
-| Thu, 18 Jun 2026 12:18:03 GMT | The Authentication Mistake That Created a Security Hole | LearnWithMasaud | [Read More](https://medium.com/p/9ec525d88545) |
-| Thu, 18 Jun 2026 12:16:39 GMT | The Kill Chain Is Dead. Long Live the Kill Chain. | Mohira Zokirova | [Read More](https://medium.com/p/777aa38a2a1d) |
-| Thu, 18 Jun 2026 12:10:53 GMT | Who actually owns the digital discourse? | Philo Sophies | [Read More](https://medium.com/p/ad0281ea3dc3) |
-| Thu, 18 Jun 2026 12:04:31 GMT | DevSecOps Practices in 2026:  Securing CI/CD Pipelines with Automation | Manula Udyoga | [Read More](https://medium.com/p/bfe4f1cf7c88) |
-| Thu, 18 Jun 2026 12:03:41 GMT | Anthropic Fable 5 Data Retention: What You Agreed To Without Knowing It | Roman Koles | [Read More](https://medium.com/p/9ad566a0483d) |
-| Thu, 18 Jun 2026 12:01:01 GMT | Fortifying Godrick: Hardening a Proxmox Hypervisor (and Surviving the Process) | Vincent Do | [Read More](https://medium.com/p/5dd08eef363f) |
