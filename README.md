@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 18 Jun 2026 00:04:23 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 9) | Raymond Ebonine | [Read More](https://medium.com/p/5e2fc6fc7d82) |
+| Thu, 18 Jun 2026 00:04:05 GMT | Anatomy of a Multi-Layer Jailbreak: Why This Payload Fires | Onurcan Genç | [Read More](https://medium.com/p/2ecb57b0fad9) |
+| Thu, 18 Jun 2026 00:03:53 GMT | I Found a Bug That Looks Harmless But Can Still Get You Paid | Yamini Yadav_369 | [Read More](https://medium.com/p/266eb632e1af) |
+| Wed, 17 Jun 2026 23:59:08 GMT | 2FA Bypass: The Complete Guide to Breaking Two-Factor Authentication (And How to Fix It) | Yamini Yadav_369 | [Read More](https://medium.com/p/db1947865fe9) |
+| Wed, 17 Jun 2026 23:49:12 GMT | Is the Hostile Actor in your Toaster? | Pete Weishaupt | [Read More](https://medium.com/p/e77a433e05be) |
+| Wed, 17 Jun 2026 23:48:35 GMT | 4 Dirty Linux Bugs Expose a Bigger Root Problem | Shahzaib | [Read More](https://medium.com/p/334a9576660a) |
+| Wed, 17 Jun 2026 23:25:00 GMT | Proforce Nigeria: How West Africa’s Pioneer Defence Manufacturer Is Redefining Indigenous Security… | Lite | [Read More](https://medium.com/p/19c43a8a89bd) |
+| Wed, 17 Jun 2026 23:17:33 GMT | The Weirdest Thing About Working With Cybersecurity Startups | Satyam Pathania | [Read More](https://medium.com/p/0305104a635f) |
+| Wed, 17 Jun 2026 23:04:20 GMT | The Hidden Danger in Every Device | Raviteja Mureboina | [Read More](https://medium.com/p/038b7413b29e) |
+| Wed, 17 Jun 2026 22:59:58 GMT | AI Text Scams: 7 Warning Signs That Message Is Trying to Steal Your Money | QuantumCyberAI | [Read More](https://medium.com/p/4e7c85fb9550) |
+| Wed, 17 Jun 2026 22:59:36 GMT | Authenticating a PayPal Notification Is Not the Same as Trusting What It Says (CVE-2026–9189) | Nitish Yaddala | [Read More](https://medium.com/p/9a130bcaa8ac) |
 | Wed, 17 Jun 2026 22:51:41 GMT | How to Read and Improve Your Cyber Risk Score | Consilien | [Read More](https://medium.com/p/a6b708a113de) |
 | Wed, 17 Jun 2026 22:43:16 GMT | Conti — TryHackMe Walkthrough (Splunk) | Marlon Duarte | [Read More](https://medium.com/p/68a7a8262787) |
 | Wed, 17 Jun 2026 22:40:08 GMT | GemForgeLabs Live | Gilgamesh Gem | [Read More](https://medium.com/p/797fcf198257) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 17 Jun 2026 14:56:25 GMT | Wazuh Ansible Series Part 5: Custom Rules for Alert Suppression That Actually Work | Rio Wiraldhani | [Read More](https://medium.com/p/620c6a2e51f3) |
 | Wed, 17 Jun 2026 14:53:38 GMT | The Hidden Attack Surface in Your AI App: OWASP Top 10 for LLMs | Yessine Abdelmaksoud | [Read More](https://medium.com/p/19f9eba65c8d) |
 | Wed, 17 Jun 2026 14:42:11 GMT | Writeup — Accessing private GraphQL posts | praditya arga | [Read More](https://medium.com/p/5953ab1e6227) |
-| Wed, 17 Jun 2026 14:36:00 GMT | The Future of Laravel: What Tech Leads Need to Prepare For | Hector Canovas | [Read More](https://medium.com/p/2cdbed8de242) |
-| Wed, 17 Jun 2026 14:29:40 GMT | Building a Security Harness for an AI-Assisted Dev Workflow | Joshua Hinton | [Read More](https://medium.com/p/dd57921d4d44) |
-| Wed, 17 Jun 2026 14:27:32 GMT | How I Rebuilt My Confidence and Started a Career in Data Science at Sky States | Rebecca Allen | [Read More](https://medium.com/p/ad2dc4741473) |
-| Wed, 17 Jun 2026 14:17:26 GMT | ISO 27001 vs SOC 2: A Beginner’s Guide to Information Security Compliance | Consulting4sec | [Read More](https://medium.com/p/09e82f46d90a) |
-| Wed, 17 Jun 2026 14:13:35 GMT | How Industrial Warehouse Security Services Protect Valuable Business Assets | Ironmanprotection | [Read More](https://medium.com/p/db5dfcd4875b) |
-| Wed, 17 Jun 2026 14:11:48 GMT | Why Disk Monitoring Matters More Than Most People Think | Little_Sun4lower | [Read More](https://medium.com/p/3b497455658d) |
-| Wed, 17 Jun 2026 14:05:52 GMT | Hermes Agent Exposed: What Security Teams Are Missing | Pentester Club | [Read More](https://medium.com/p/f0eed08f9039) |
-| Wed, 17 Jun 2026 14:03:35 GMT | How to Improve Typing Speed from 40 to 100 WPM (Step-by-Step Guide) | Elinawilliams | [Read More](https://medium.com/p/d90b8db7b0ce) |
-| Wed, 17 Jun 2026 14:03:12 GMT | Beyond the Hacker Stereotype: My Journey as an Information Security Analyst | lc3rn3tln | [Read More](https://medium.com/p/f690609d55d6) |
-| Wed, 17 Jun 2026 13:38:45 GMT | Hacker101 CTF — Micro-CMS v1 Walkthrough | Ucarcemre | [Read More](https://medium.com/p/175957c9f031) |
-| Wed, 17 Jun 2026 13:25:50 GMT | The Guy Who Freed Fable (Mythos) and Triggered a Ban | Ai studio | [Read More](https://medium.com/p/c916d517ac61) |
