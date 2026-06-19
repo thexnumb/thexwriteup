@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Jun 2026 22:53:34 GMT | Why Proxy Settings Don’t Work in Flutter Apps | everythingBlackkk | [Read More](https://medium.com/p/8ffe557ecf56) |
+| Fri, 19 Jun 2026 22:52:56 GMT | Cyber Threat Assessment: The 5-Step Framework for Spotting Risk Early | Consilien | [Read More](https://medium.com/p/6fe0064eb345) |
+| Fri, 19 Jun 2026 22:52:28 GMT | Demystifying Vulnerability Assessment: A SOC Analyst’s Perspective | Divya | [Read More](https://medium.com/p/51d92b5f61e9) |
+| Fri, 19 Jun 2026 22:47:46 GMT | How I Found CVE-2026–50131: An Incomplete SSRF Fix in Fedify | Chaitanya Garware | [Read More](https://medium.com/p/6254ea746938) |
+| Fri, 19 Jun 2026 22:32:33 GMT | CCNA Öyrənməyə Başlamaq: Şəbəkə Sahəsinə İlk Addım | Elvin | [Read More](https://medium.com/p/cc7d187b9c9d) |
+| Fri, 19 Jun 2026 22:13:05 GMT | What the Cybersecurity Lab Taught Me | Aeron Dacosta | [Read More](https://medium.com/p/25332f2d3964) |
+| Fri, 19 Jun 2026 21:53:51 GMT | SUBNETTING | Olaniyi Oluwaseyi | [Read More](https://medium.com/p/c7fbcfc1bc46) |
+| Fri, 19 Jun 2026 21:53:09 GMT | Bullet Proof Glass | Spec Shaman | [Read More](https://medium.com/p/ccc115506414) |
+| Fri, 19 Jun 2026 21:37:37 GMT | Beyond Borders: Regional Influence Networks and the Future of Iraqi National Security | Dr. SAIFALDIN Z.  AL-DARRAJI | [Read More](https://medium.com/p/c960aedc2589) |
 | Fri, 19 Jun 2026 21:32:30 GMT | Terms of Engagement: What the Anthropic-Trump Truce Talks Reveal About the Future of AI… | CCD-IS | [Read More](https://medium.com/p/e7d9021b1bfb) |
 | Fri, 19 Jun 2026 21:21:00 GMT | What We Fear Most About Growing Old: A Heartbreaking Reality Everyone Faces | Vera Byron | [Read More](https://medium.com/p/5d20f7c04807) |
 | Fri, 19 Jun 2026 21:20:49 GMT | Healthcare Cybersecurity Services: Protecting Modern Healthcare Systems from Digital Threats | CyRx360 Inc. | [Read More](https://medium.com/p/e0d9514bd452) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Jun 2026 13:32:24 GMT | What Anthropic’s AI Export Ban Reveals About the Future of Global AI | Flip AI Show | [Read More](https://medium.com/p/29d100b4042b) |
 | Fri, 19 Jun 2026 13:30:55 GMT | SOAR ile SIEM Operasyonlarının Otomasyonu: Analistin Operasyonel Yükünü Azaltmak | Yunus Kandaz | [Read More](https://medium.com/p/c0aba0ae686d) |
 | Fri, 19 Jun 2026 13:26:46 GMT | Exploiting an Amazon Fire TV Stick with ADB: A Practical Walkthrough | Satej Ratnaparkhi | [Read More](https://medium.com/p/fb6a0cd0e43b) |
-| Fri, 19 Jun 2026 13:25:55 GMT | How to Secure Your Linux Server The Blue Team Way | cyber-ninjaaa | [Read More](https://medium.com/p/03f89ec1fcb2) |
-| Fri, 19 Jun 2026 13:25:50 GMT | Why Missing Metadata in Your Active Directory is an IAM Security Risk | Aayushbhatt | [Read More](https://medium.com/p/981c477f6299) |
-| Fri, 19 Jun 2026 13:24:28 GMT | OEM vs. Retail: Why That “Cheap” Windows Key Might Be a Future Liability | Kostya Vityuk | [Read More](https://medium.com/p/131f077edd9c) |
-| Fri, 19 Jun 2026 13:21:26 GMT | The Internet Knows More Than You Think: An OSINT Digital Footprint Investigation | Mudit Sharma | [Read More](https://medium.com/p/de1c8194cac2) |
-| Fri, 19 Jun 2026 13:19:15 GMT | Crypto Scams for Beginners: 3 Threats to Recognise Before Opening an Account | G4 GROUP | [Read More](https://medium.com/p/9830fed3d5fd) |
-| Fri, 19 Jun 2026 13:18:35 GMT | My Mother-in-Law’s Need for Love and What It’s Costing Her | Cali | [Read More](https://medium.com/p/32b3db3a8b62) |
-| Fri, 19 Jun 2026 13:10:53 GMT | The Quiet Leak: What Happens When Employees Paste Customer Data Into AI Tools | Nwosu Rosemary | [Read More](https://medium.com/p/4658ddf15cb6) |
-| Fri, 19 Jun 2026 12:53:27 GMT | Become a First Responder — part 1 | ExploitHunter | [Read More](https://medium.com/p/c3ef9d450199) |
-| Fri, 19 Jun 2026 12:49:30 GMT | Phishing Attacks in 2026 Complete Guide to Stay Safe Online | Shivam Shukla | [Read More](https://medium.com/p/6f5e80807f11) |
