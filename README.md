@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Jun 2026 20:16:19 GMT | HackTheBox “CodePartTwo” Walkthrough | Abdullah Kareem | [Read More](https://medium.com/p/4892e5dde68a) |
+| Fri, 19 Jun 2026 20:02:36 GMT | TryHackMe: Support Ops Platform Walkthrough | RABABE AZIL | [Read More](https://medium.com/p/7d95ca7e6ae9) |
+| Fri, 19 Jun 2026 19:54:43 GMT | Abducted — HackTheBox Detailed Walkthrough | Beri Contraster | [Read More](https://medium.com/p/af3807a0b2cd) |
+| Fri, 19 Jun 2026 19:50:05 GMT | The Illusion of Regional Lockout: Project Glasswing and the Fallacy of specific “African Exclusion” | Berend Watchus | [Read More](https://medium.com/p/bab0e6bd7d41) |
+| Fri, 19 Jun 2026 19:49:55 GMT | Top 10 Technology Trends in 2026: AI, Cybersecurity, Cloud Computing, and the Future of Innovation | TechPlus Global | [Read More](https://medium.com/p/5523c11cfa98) |
+| Fri, 19 Jun 2026 19:41:00 GMT | How to Audit and Redesign Enterprise Workflows for Agentic AI: A 2026 Playbook | ARTICLE READER | [Read More](https://medium.com/p/63cef2bd46de) |
+| Fri, 19 Jun 2026 19:38:42 GMT | Cybersecurity Isn’t as Complicated as It Sounds — But Most Beginners Learn the Wrong Things First | Shaileen Sorenson | [Read More](https://medium.com/p/f3a839c95f2c) |
+| Fri, 19 Jun 2026 19:37:10 GMT | Splunk Enterprise Vulnerability Exploit Exposes Risk in Security Monitoring Infrastructure | Inforsecpro | [Read More](https://medium.com/p/c4e30c9fa567) |
+| Fri, 19 Jun 2026 19:35:53 GMT | What is Bug Bounty Hunting and Why Is It So Popular in 2026? | Ddm atiq | [Read More](https://medium.com/p/ced8835e486a) |
+| Fri, 19 Jun 2026 19:34:49 GMT | Active Directory Enumeration & Attacks — Skills Assessment Part I | Bisher Arafat | [Read More](https://medium.com/p/fa34434d4c8c) |
+| Fri, 19 Jun 2026 19:23:42 GMT | ASCTray.exe, Malicious or Benign? | Justin C. | [Read More](https://medium.com/p/c5cb130df30d) |
+| Fri, 19 Jun 2026 19:16:19 GMT | ENISA — SBOM Adoption in 2026: From Security Best Practice to Regulatory Imperative (Part I) | SOCFortress | [Read More](https://medium.com/p/f9ea6003bb67) |
+| Fri, 19 Jun 2026 18:59:43 GMT | SSRF Explained Like You Are Five (For Bug Bounty Beginners) | Masood Nfc | [Read More](https://medium.com/p/85a059f5e436) |
+| Fri, 19 Jun 2026 18:57:18 GMT | AdversaryGraph Usecases | Andrey Pautov | [Read More](https://medium.com/p/820d03c3a7ab) |
+| Fri, 19 Jun 2026 18:56:42 GMT | I Tracked My First 90 Days of Bug Bounty Income. Here Are the Real Numbers. | Masood Nfc | [Read More](https://medium.com/p/5ca40d1586a6) |
 | Fri, 19 Jun 2026 18:44:28 GMT | Firmware Reverse Engineering Deep Dive: How to Read Compiled Code When You Have No Source | Akifkhan | [Read More](https://medium.com/p/f5d1e3dc7eab) |
 | Fri, 19 Jun 2026 18:31:38 GMT | Vulnerability Is Not the Same as Trust | Danielle A. Boddy | [Read More](https://medium.com/p/c10df084ad34) |
 | Fri, 19 Jun 2026 18:31:06 GMT | User-based vs. Service-based Sessions in AEM: A Deep Dive | Jaivyas | [Read More](https://medium.com/p/f3759d23e547) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Jun 2026 12:13:19 GMT | The Delusionship! | Gwen Ares | [Read More](https://medium.com/p/24a0303e41e7) |
 | Fri, 19 Jun 2026 12:11:00 GMT | How a Loose Regex in a File Upload Component Led to a $12,000 Remote Code Execution (RCE) | Tanvi Chauhan | [Read More](https://medium.com/p/843c35e08adb) |
 | Fri, 19 Jun 2026 12:05:42 GMT | CISSP Chapter 5 — Part 1: Classification Is Not Bureaucracy. It Is How Assets Become Defensible. | Atakan ATAK | [Read More](https://medium.com/p/1fc910c8bd15) |
-| Fri, 19 Jun 2026 12:03:15 GMT | CTEM vs Traditional Vulnerability Management | Emma Carter | [Read More](https://medium.com/p/0954415eadb9) |
-| Fri, 19 Jun 2026 11:43:32 GMT | The Hidden AI Bill Nobody Budgeted For: Why AI Technical Debt Is Becoming a Growth Killer in 2026 | Jacelyn Siya | [Read More](https://medium.com/p/1f76a7b8bf11) |
-| Fri, 19 Jun 2026 11:42:53 GMT | Hunting for Module Stomping Targets | Tom O'Neill | [Read More](https://medium.com/p/1e9b8bb09766) |
-| Fri, 19 Jun 2026 11:39:39 GMT | How to Set Up VLESS on iPhone in 2026 | VeiloraVPN | [Read More](https://medium.com/p/9e84d36cfe1e) |
-| Fri, 19 Jun 2026 11:38:50 GMT | The Untold Story Behind Kali Linux | Techrefreshing | [Read More](https://medium.com/p/99fb9b29d300) |
-| Fri, 19 Jun 2026 11:33:27 GMT | Cheap Reseller Hosting Plans That Still Deliver Premium Performance | Janet Watson | [Read More](https://medium.com/p/bd38bf906d5b) |
-| Fri, 19 Jun 2026 11:31:00 GMT | Business Logic Flaws — Bugs No Scanner Can Find | Nitin yadav | [Read More](https://medium.com/p/1372c2584e71) |
-| Fri, 19 Jun 2026 11:30:13 GMT | The Most Surveilled City in the World: Privacy vs Security | R&N Technical | [Read More](https://medium.com/p/8d2120aec7cd) |
-| Fri, 19 Jun 2026 11:30:04 GMT | RootMe CTF-File Upload, Reverse Shell & SUID Python Privilege Escalation (TryHackMe Walkthrough) | Hammad Khan - SOC & Pentesting | [Read More](https://medium.com/p/3f5646e0d97d) |
-| Fri, 19 Jun 2026 11:08:17 GMT | Can a Security Dog in Edinburgh Deter Intruders Better Than CCTV? | Olivia | [Read More](https://medium.com/p/e10efd8b4d75) |
-| Fri, 19 Jun 2026 10:55:33 GMT | Ethical Hacking vs Cyber Security: Which Career Should You Choose in 2026? | Thaneitcourses | [Read More](https://medium.com/p/411aeb2f11d2) |
-| Fri, 19 Jun 2026 10:54:47 GMT | The Hacker News Recognizes ANY.RUN as the Best Security Investigation Platform 2026 | ANY.RUN | [Read More](https://medium.com/p/cba40b5b9982) |
-| Fri, 19 Jun 2026 10:46:44 GMT | OWASP Top 10 2025: Insecure Data Handling | ExploitHunter | [Read More](https://medium.com/p/596cbee6f92f) |
-| Fri, 19 Jun 2026 10:41:20 GMT | My Cybersecurity Learning Journey at TECHRISE (LEARN FACTORY) | Virus Chef | [Read More](https://medium.com/p/0c3a04ee24b0) |
-| Fri, 19 Jun 2026 10:39:14 GMT | ISO 27001 Certification: A Complete Guide to Information Security Management Systems (ISMS) | Praveen URS | [Read More](https://medium.com/p/d64b574a7e7f) |
