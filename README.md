@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 19 Jun 2026 21:32:30 GMT | Terms of Engagement: What the Anthropic-Trump Truce Talks Reveal About the Future of AI… | CCD-IS | [Read More](https://medium.com/p/e7d9021b1bfb) |
+| Fri, 19 Jun 2026 21:21:00 GMT | What We Fear Most About Growing Old: A Heartbreaking Reality Everyone Faces | Vera Byron | [Read More](https://medium.com/p/5d20f7c04807) |
+| Fri, 19 Jun 2026 21:20:49 GMT | Healthcare Cybersecurity Services: Protecting Modern Healthcare Systems from Digital Threats | CyRx360 Inc. | [Read More](https://medium.com/p/e0d9514bd452) |
+| Fri, 19 Jun 2026 21:01:09 GMT | Is OpenClaw Safe? 2026 Security Risks of Local AI Agents and a Hosted Alternative | Rimlauf | [Read More](https://medium.com/p/ca7433ca6680) |
+| Fri, 19 Jun 2026 20:40:53 GMT | Adoption Is Now Foreign Policy | Matt Suheel Mattas | [Read More](https://medium.com/p/7f71c1d296bb) |
+| Fri, 19 Jun 2026 20:39:55 GMT | Suddenly, Everyone Cares About Sovereignty | Christophe Mazzola | [Read More](https://medium.com/p/acc331c0cd3e) |
+| Fri, 19 Jun 2026 20:39:45 GMT | AWS Secrets Manager in .NET: How To Load Your Secrets Straight into IConfiguration | Aref Nozarpour | [Read More](https://medium.com/p/9fcdae4e5802) |
+| Fri, 19 Jun 2026 20:33:29 GMT | The Risk We Are Inviting In: Robot Cleaners In UK Airports | Its Not Nicole | [Read More](https://medium.com/p/daeba5587d0b) |
+| Fri, 19 Jun 2026 20:27:08 GMT | Network Configuration using pfSense | Joseph Ngahu | [Read More](https://medium.com/p/98b114d166fb) |
 | Fri, 19 Jun 2026 20:16:19 GMT | HackTheBox “CodePartTwo” Walkthrough | Abdullah Kareem | [Read More](https://medium.com/p/4892e5dde68a) |
 | Fri, 19 Jun 2026 20:02:36 GMT | TryHackMe: Support Ops Platform Walkthrough | RABABE AZIL | [Read More](https://medium.com/p/7d95ca7e6ae9) |
 | Fri, 19 Jun 2026 19:54:43 GMT | Abducted — HackTheBox Detailed Walkthrough | Beri Contraster | [Read More](https://medium.com/p/af3807a0b2cd) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Jun 2026 13:10:53 GMT | The Quiet Leak: What Happens When Employees Paste Customer Data Into AI Tools | Nwosu Rosemary | [Read More](https://medium.com/p/4658ddf15cb6) |
 | Fri, 19 Jun 2026 12:53:27 GMT | Become a First Responder — part 1 | ExploitHunter | [Read More](https://medium.com/p/c3ef9d450199) |
 | Fri, 19 Jun 2026 12:49:30 GMT | Phishing Attacks in 2026 Complete Guide to Stay Safe Online | Shivam Shukla | [Read More](https://medium.com/p/6f5e80807f11) |
-| Fri, 19 Jun 2026 12:46:42 GMT | Corporate Security Service in Vancouver for Business Growth | Grit Security | [Read More](https://medium.com/p/c0f1fd268143) |
-| Fri, 19 Jun 2026 12:44:25 GMT | Your Antivirus Is Now the Attack Vector: The RoguePlanet Zero-Day Nobody Is Talking About | Nikhi Chavan | [Read More](https://medium.com/p/60e1bc6c5a76) |
-| Fri, 19 Jun 2026 12:38:10 GMT | 7 Critical. 4 High. Zero Credentials. Full AI Chatbot Pentest. | Shikhali Jamalzade | [Read More](https://medium.com/p/22a05b760381) |
-| Fri, 19 Jun 2026 12:31:01 GMT | Cybersecurity for Developers — Part 3: Why Should a Server Trust You? | Ashwanth Madhav | [Read More](https://medium.com/p/3a7d27d17e8a) |
-| Fri, 19 Jun 2026 12:19:43 GMT | What a Cyber Insurance Provider Wishes Every Business Would Do First | Elevate Technology | [Read More](https://medium.com/p/9a5dd982e90d) |
-| Fri, 19 Jun 2026 12:19:12 GMT | S24 Ultra Cover Guide: How to Pick a Case That Actually Lasts | Cosmosjoystore | [Read More](https://medium.com/p/9a57c4b1fa5d) |
-| Fri, 19 Jun 2026 12:13:19 GMT | The Delusionship! | Gwen Ares | [Read More](https://medium.com/p/24a0303e41e7) |
-| Fri, 19 Jun 2026 12:11:00 GMT | How a Loose Regex in a File Upload Component Led to a $12,000 Remote Code Execution (RCE) | Tanvi Chauhan | [Read More](https://medium.com/p/843c35e08adb) |
-| Fri, 19 Jun 2026 12:05:42 GMT | CISSP Chapter 5 — Part 1: Classification Is Not Bureaucracy. It Is How Assets Become Defensible. | Atakan ATAK | [Read More](https://medium.com/p/1fc910c8bd15) |
