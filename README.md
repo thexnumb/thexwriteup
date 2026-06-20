@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Jun 2026 00:00:22 GMT | My New Personal Blog | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/d5d21fbd96ff) |
+| Fri, 19 Jun 2026 23:46:39 GMT | I’m currently going to study CCNA | diyaa jennaoui | [Read More](https://medium.com/p/db0a5b34b4ce) |
+| Fri, 19 Jun 2026 23:38:33 GMT | What If Your LLM AI Started Fixing Its Own Tech Debt (and Cyber Security Problems)? | James Hinton | [Read More](https://medium.com/p/d6a861a7de92) |
+| Fri, 19 Jun 2026 23:26:32 GMT | IPVC — Control Method: Architecture and Technical Specification | Fernando Flores Alvarado | [Read More](https://medium.com/p/99350e44ab6d) |
+| Fri, 19 Jun 2026 23:02:18 GMT | Does your board still ask, “Are we secure?” | André Alexandre Gaio | [Read More](https://medium.com/p/ebbbe0deecf9) |
 | Fri, 19 Jun 2026 22:53:34 GMT | Why Proxy Settings Don’t Work in Flutter Apps | everythingBlackkk | [Read More](https://medium.com/p/8ffe557ecf56) |
 | Fri, 19 Jun 2026 22:52:56 GMT | Cyber Threat Assessment: The 5-Step Framework for Spotting Risk Early | Consilien | [Read More](https://medium.com/p/6fe0064eb345) |
 | Fri, 19 Jun 2026 22:52:28 GMT | Demystifying Vulnerability Assessment: A SOC Analyst’s Perspective | Divya | [Read More](https://medium.com/p/51d92b5f61e9) |
@@ -20,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Jun 2026 22:13:05 GMT | What the Cybersecurity Lab Taught Me | Aeron Dacosta | [Read More](https://medium.com/p/25332f2d3964) |
 | Fri, 19 Jun 2026 21:53:51 GMT | SUBNETTING | Olaniyi Oluwaseyi | [Read More](https://medium.com/p/c7fbcfc1bc46) |
 | Fri, 19 Jun 2026 21:53:09 GMT | Bullet Proof Glass | Spec Shaman | [Read More](https://medium.com/p/ccc115506414) |
+| Fri, 19 Jun 2026 21:46:00 GMT | El gran engaño del ransomware: pagar NO significa recuperar tus archivos | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/848840aa4ff2) |
 | Fri, 19 Jun 2026 21:37:37 GMT | Beyond Borders: Regional Influence Networks and the Future of Iraqi National Security | Dr. SAIFALDIN Z.  AL-DARRAJI | [Read More](https://medium.com/p/c960aedc2589) |
 | Fri, 19 Jun 2026 21:32:30 GMT | Terms of Engagement: What the Anthropic-Trump Truce Talks Reveal About the Future of AI… | CCD-IS | [Read More](https://medium.com/p/e7d9021b1bfb) |
 | Fri, 19 Jun 2026 21:21:00 GMT | What We Fear Most About Growing Old: A Heartbreaking Reality Everyone Faces | Vera Byron | [Read More](https://medium.com/p/5d20f7c04807) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Jun 2026 13:58:19 GMT | I took the C-APIPen exam — here’s everything you need to know | Xaferima | [Read More](https://medium.com/p/08798868edd6) |
 | Fri, 19 Jun 2026 13:56:31 GMT | Fortigate UTM inspection | Jafar Tavana | [Read More](https://medium.com/p/6033ab3f300f) |
 | Fri, 19 Jun 2026 13:51:09 GMT | HTTP Request Smuggling vs HTTP Request Pipelining: Why They’re Often Confused | Amit Pal - amitpxl | [Read More](https://medium.com/p/44ffe6e528eb) |
-| Fri, 19 Jun 2026 13:43:32 GMT | My surveillance cameras can see everything. They just have no idea what they’re looking at. | Ricardo Franco Cantero | [Read More](https://medium.com/p/508bd1ae06c5) |
-| Fri, 19 Jun 2026 13:39:59 GMT | SSH Keys: How to Access Linux Servers Without Typing Passwords Every Time | Mutcherla Jayani | [Read More](https://medium.com/p/0a1828c0a7de) |
-| Fri, 19 Jun 2026 13:32:43 GMT | I Built an Isolated Hacking Lab to Learn Device Fingerprinting — and Learned More From the Mistakes | Bryant Himmage | [Read More](https://medium.com/p/7d0e55e9405e) |
-| Fri, 19 Jun 2026 13:32:24 GMT | What Anthropic’s AI Export Ban Reveals About the Future of Global AI | Flip AI Show | [Read More](https://medium.com/p/29d100b4042b) |
-| Fri, 19 Jun 2026 13:30:55 GMT | SOAR ile SIEM Operasyonlarının Otomasyonu: Analistin Operasyonel Yükünü Azaltmak | Yunus Kandaz | [Read More](https://medium.com/p/c0aba0ae686d) |
-| Fri, 19 Jun 2026 13:26:46 GMT | Exploiting an Amazon Fire TV Stick with ADB: A Practical Walkthrough | Satej Ratnaparkhi | [Read More](https://medium.com/p/fb6a0cd0e43b) |
