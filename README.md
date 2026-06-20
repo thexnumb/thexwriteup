@@ -12,6 +12,39 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Jun 2026 12:49:17 GMT | Why I Built My SOC Portfolio in Public | William - Cybersecurity & SOC Analyst | [Read More](https://medium.com/p/4e0d406d1684) |
+| Sat, 20 Jun 2026 12:42:18 GMT | How Much Can You Really Earn From Bug Bounty? A Realistic Look | Ismail Tasdelen | [Read More](https://medium.com/p/c3f5ac33aa1c) |
+| Sat, 20 Jun 2026 12:35:54 GMT | How a Security Company in Edinburgh Helps Businesses Stay Open When Security Threats Rise | Olivia | [Read More](https://medium.com/p/9be723217f15) |
+| Sat, 20 Jun 2026 12:34:10 GMT | Integrating Brocade Switch with Cisco ISE via TACACS+ or RADIUS | Faustino Simoes | [Read More](https://medium.com/p/025358075b7d) |
+| Sat, 20 Jun 2026 12:31:00 GMT | When AI Hits the Factory Floor: The Hidden Friction of Physical MLOps | ChienLoong | [Read More](https://medium.com/p/03c28d5a7901) |
+| Sat, 20 Jun 2026 12:26:24 GMT | Cheesy Does It — Bugforge Daily Challenge | Khaled Anter | [Read More](https://medium.com/p/23b6b7ece832) |
+| Sat, 20 Jun 2026 12:26:21 GMT | The Hidden Risks of Misconfiguration: HSTS, Cross-Domain Policies, and File Permissions | Z3r0D4y | [Read More](https://medium.com/p/9a64af67d99f) |
+| Sat, 20 Jun 2026 12:22:10 GMT | The unreasonable effectiveness of LLMs for auditing Rust code | Sergey "Shnatsel" Davidoff | [Read More](https://medium.com/p/d4df8bf0afd3) |
+| Sat, 20 Jun 2026 12:16:54 GMT | 100 DAYS AS A STUDENT OF CYBERSECURITY | Virus Chef | [Read More](https://medium.com/p/f122dcae798e) |
+| Sat, 20 Jun 2026 12:16:34 GMT | Killing Me Gently: A Technical Deep Dive into the GentleKiller EDR-Killer Framework | Divine General Mahoraga | [Read More](https://medium.com/p/a16e19a5ce47) |
+| Sat, 20 Jun 2026 12:14:09 GMT | The Memory Management Unit (MMU) Explained: The Hidden Translator Behind Virtual Memory | Alwinaji | [Read More](https://medium.com/p/351bfb7559f4) |
+| Sat, 20 Jun 2026 12:13:29 GMT | Virtual Memory Explained: How Linux Gives Every Program “Fake” RAM | Alwinaji | [Read More](https://medium.com/p/c6eb79f38545) |
+| Sat, 20 Jun 2026 12:12:03 GMT | Wazuh Ansible Series Part 7: Real-Time Malware Blocking with ClamAV On-Access | Rio Wiraldhani | [Read More](https://medium.com/p/58ced7cd61b2) |
+| Sat, 20 Jun 2026 12:10:20 GMT | Linux Administration: Changing Boot Targets and Resetting Root Password | Hyunjae | [Read More](https://medium.com/p/36d69d46d634) |
+| Sat, 20 Jun 2026 12:10:05 GMT | I’m 20 Days Into Building a DevSecOps Pipeline From Scratch — Here’s Everything I’ve Learned So Far | AashishChaudhari | [Read More](https://medium.com/p/01040b1522a1) |
+| Sat, 20 Jun 2026 12:05:35 GMT | At Machine Speed: How AI Has Broken the Cybersecurity Balance | Ramon Invarato | [Read More](https://medium.com/p/6badfcb85d6e) |
+| Sat, 20 Jun 2026 12:02:24 GMT | Webverse-Pro Scooot | 0zex | [Read More](https://medium.com/p/0a60a1a2f15a) |
+| Sat, 20 Jun 2026 12:01:01 GMT | AI-Native DevOps: The Enterprise Transformation from Manual Management to Intelligent Automation | T4itech - DevOps & Platform Engineering Company | [Read More](https://medium.com/p/75fb6a049997) |
+| Sat, 20 Jun 2026 12:01:00 GMT | The Most Important Security Event Never Generated an Alert | Faruk Ahmed | [Read More](https://medium.com/p/2c23226e433e) |
+| Sat, 20 Jun 2026 11:57:16 GMT | How Missing Layered Validation Causes Real Security Incidents in Backend APIs | Mohamed Gebril | [Read More](https://medium.com/p/06275eee929a) |
+| Sat, 20 Jun 2026 11:55:13 GMT | Authenticate at the Edge: Put Any Website Behind OIDC Without Changing Its Code | Mahernaija | [Read More](https://medium.com/p/5d86c70f724a) |
+| Sat, 20 Jun 2026 11:51:51 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 1 — eJPT (INE) | Suraj Apar | [Read More](https://medium.com/p/275817f0b88a) |
+| Sat, 20 Jun 2026 11:50:29 GMT | What is a Vulnerability in Cybersecurity? | Nargiz Naghiyeva | [Read More](https://medium.com/p/8ac993e2cd95) |
+| Sat, 20 Jun 2026 11:43:04 GMT | OWASP Top 10:2025 Explained — The Most Critical Web Application Security Risks Every Beginner… | Dhruvish Rathod | [Read More](https://medium.com/p/f858d93f0ff0) |
+| Sat, 20 Jun 2026 11:31:00 GMT | API Hacking 101 — Where the Money Is in 2026 | Nitin yadav | [Read More](https://medium.com/p/eb03ef331c14) |
+| Sat, 20 Jun 2026 11:25:17 GMT | Everyone Is Automating Bug Bounty Recon in 2026. Almost Nobody Is Finding More Bugs Because of It | R.H Rizvi | [Read More](https://medium.com/p/e1d07d18cb5b) |
+| Sat, 20 Jun 2026 11:14:22 GMT | Exploiting the Event Listener: My Sixth XSS Lab on PortSwigger | Diya | [Read More](https://medium.com/p/8abbc7952fa7) |
+| Sat, 20 Jun 2026 11:13:31 GMT | When a Link Becomes a Weapon: My Fifth XSS Lab on PortSwigger | Diya | [Read More](https://medium.com/p/16e4fc6526e9) |
+| Sat, 20 Jun 2026 11:13:10 GMT | Architecture Maturiy Models. | Mohammed Brückner | [Read More](https://medium.com/p/789e1cbf0199) |
+| Sat, 20 Jun 2026 11:09:50 GMT | Inside Pepe Club: The Growing Marketplace for Stolen Payment Cards and Fullz Records | ThreatWatch360 | [Read More](https://medium.com/p/f1698fe0ae22) |
+| Sat, 20 Jun 2026 11:07:55 GMT | MacSync Stealer: New ClickFix Malware Campaign Targets Apple Users and Crypto Wallets | ThreatWatch360 | [Read More](https://medium.com/p/5613538717ea) |
+| Sat, 20 Jun 2026 11:04:15 GMT | Scanning: The Second Stage of Penetration Testing — Turning Information into Opportunities | Ariel404 | [Read More](https://medium.com/p/a7fb4cf41500) |
+| Sat, 20 Jun 2026 10:48:50 GMT | What I Learned While Hunting for Rogue Wireless Devices in a Corporate Environment | Michael Preston | [Read More](https://medium.com/p/2c4858820a08) |
 | Sat, 20 Jun 2026 10:45:41 GMT | How to Test Web Applications Using Burp Suite: A Practical Login API Security Testing Guide (Spring… | Ahmed Yousef | [Read More](https://medium.com/p/7c1d2bc75856) |
 | Sat, 20 Jun 2026 10:44:58 GMT | What Is Immorpos35.3 Software: A Complete Guide to Modern Business Automation | Pamujulakavitha | [Read More](https://medium.com/p/713a30f18799) |
 | Sat, 20 Jun 2026 10:40:40 GMT | Protecting Your Property: What Every Ontario Owner Should Know About Trespass Laws | Grdsnscrt | [Read More](https://medium.com/p/ddbb0fc63bc5) |
@@ -79,36 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Jun 2026 02:58:14 GMT | 木馬程式 — 隱身的數碼間諜 | 思維舞步 MindSteps | [Read More](https://medium.com/p/ff53c5483ea7) |
 | Sat, 20 Jun 2026 02:42:33 GMT | From “City Generator” to RAT: My First Hands-On Malware Analysis | Vladimir Cuc | [Read More](https://medium.com/p/926296868147) |
 | Sat, 20 Jun 2026 02:38:53 GMT | Roshan Sanyasi: From Village Roots to Building a Future in Information Technology | Rojan Karki | [Read More](https://medium.com/p/f5877da362a6) |
-| Sat, 20 Jun 2026 02:25:32 GMT | How I Built My First Malware Analysis Lab (FLARE VM + REMnux) | Vladimir Cuc | [Read More](https://medium.com/p/ab250df2094a) |
-| Sat, 20 Jun 2026 01:55:51 GMT | My First Bug Found Me (I Wasn’t Even Looking) | Decline | [Read More](https://medium.com/p/1d81633c9c46) |
-| Sat, 20 Jun 2026 01:17:57 GMT | Verify Any File’s Integrity Instantly — MD5, SHA-1, SHA-256, and SHA-512 in Your Browser | Azam Akram | [Read More](https://medium.com/p/c7f5c0b4dfe3) |
-| Sat, 20 Jun 2026 01:05:20 GMT | Leveling Up My Cyber Defenses: Nova Cybersecurity Lab Game | Krystal Adjei | [Read More](https://medium.com/p/8000c21a8f1f) |
-| Sat, 20 Jun 2026 00:57:42 GMT | Corporate Fraud Is Costing Your Business More Than You Think — Here’s What to Do About It | Tony Vain Investigations LLC | [Read More](https://medium.com/p/b7e6fee853b9) |
-| Sat, 20 Jun 2026 00:52:29 GMT | API Fuzzing for Bug Bounty — Part 2b: Injection, Bypasses & Output Exploitation | Fuzzyy Duck | [Read More](https://medium.com/p/facf1052e6d9) |
-| Sat, 20 Jun 2026 00:52:06 GMT | AI Is Now the Front Line of Cybersecurity : and This Paper Explains Why | Mustapha Aitigunaoun | [Read More](https://medium.com/p/a027052bafc9) |
-| Sat, 20 Jun 2026 00:50:32 GMT | The Token That Trusted Too Much | Yamini Yadav_369 | [Read More](https://medium.com/p/9f3c55b2c979) |
-| Sat, 20 Jun 2026 00:49:53 GMT | Kali Linux - Cybersecurity - Text Editing - Operating System - Pen Testing | Aj | [Read More](https://medium.com/p/836dacb359f6) |
-| Sat, 20 Jun 2026 00:49:44 GMT | Burp Suite Scanner Explained — Burp Suite Learning Series #5 | Yamini Yadav_369 | [Read More](https://medium.com/p/90c3f0596f17) |
-| Sat, 20 Jun 2026 00:36:00 GMT | Laravel 12 & PHP 8.4 Security for FinTech (2026) | bugfix666 | [Read More](https://medium.com/p/e0f1c8b17043) |
-| Sat, 20 Jun 2026 00:24:46 GMT | The Ultimate Guide to Amazon Carding Step by Step (Updated) | Cashout helper | [Read More](https://medium.com/p/70498afddc6d) |
-| Sat, 20 Jun 2026 00:19:24 GMT | Microsoft Entra ID: Implementing an Identity Management Solution: Creating Users, Adding Groups &… | Shamar Isaac | [Read More](https://medium.com/p/9066058b276a) |
-| Sat, 20 Jun 2026 00:10:38 GMT | Email Security Is Broken. AI Did It. | Jan | [Read More](https://medium.com/p/80e91461f277) |
-| Sat, 20 Jun 2026 00:00:22 GMT | My New Personal Blog | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/d5d21fbd96ff) |
-| Fri, 19 Jun 2026 23:46:39 GMT | I’m currently going to study CCNA | diyaa jennaoui | [Read More](https://medium.com/p/db0a5b34b4ce) |
-| Fri, 19 Jun 2026 23:38:33 GMT | What If Your LLM AI Started Fixing Its Own Tech Debt (and Cyber Security Problems)? | James Hinton | [Read More](https://medium.com/p/d6a861a7de92) |
-| Fri, 19 Jun 2026 23:26:32 GMT | IPVC — Control Method: Architecture and Technical Specification | Fernando Flores Alvarado | [Read More](https://medium.com/p/99350e44ab6d) |
-| Fri, 19 Jun 2026 23:02:18 GMT | Does your board still ask, “Are we secure?” | André Alexandre Gaio | [Read More](https://medium.com/p/ebbbe0deecf9) |
-| Fri, 19 Jun 2026 22:53:34 GMT | Why Proxy Settings Don’t Work in Flutter Apps | everythingBlackkk | [Read More](https://medium.com/p/8ffe557ecf56) |
-| Fri, 19 Jun 2026 22:52:56 GMT | Cyber Threat Assessment: The 5-Step Framework for Spotting Risk Early | Consilien | [Read More](https://medium.com/p/6fe0064eb345) |
-| Fri, 19 Jun 2026 22:52:28 GMT | Demystifying Vulnerability Assessment: A SOC Analyst’s Perspective | Divya | [Read More](https://medium.com/p/51d92b5f61e9) |
-| Fri, 19 Jun 2026 22:47:46 GMT | How I Found CVE-2026–50131: An Incomplete SSRF Fix in Fedify | Chaitanya Garware | [Read More](https://medium.com/p/6254ea746938) |
-| Fri, 19 Jun 2026 22:32:33 GMT | CCNA Öyrənməyə Başlamaq: Şəbəkə Sahəsinə İlk Addım | Elvin | [Read More](https://medium.com/p/cc7d187b9c9d) |
-| Fri, 19 Jun 2026 22:13:05 GMT | What the Cybersecurity Lab Taught Me | Aeron Dacosta | [Read More](https://medium.com/p/25332f2d3964) |
-| Fri, 19 Jun 2026 21:53:51 GMT | SUBNETTING | Olaniyi Oluwaseyi | [Read More](https://medium.com/p/c7fbcfc1bc46) |
-| Fri, 19 Jun 2026 21:53:09 GMT | Bullet Proof Glass | Spec Shaman | [Read More](https://medium.com/p/ccc115506414) |
-| Fri, 19 Jun 2026 21:46:00 GMT | El gran engaño del ransomware: pagar NO significa recuperar tus archivos | Juan Ricardo Palacio - Ransomware Help | [Read More](https://medium.com/p/848840aa4ff2) |
-| Fri, 19 Jun 2026 21:37:37 GMT | Beyond Borders: Regional Influence Networks and the Future of Iraqi National Security | Dr. SAIFALDIN Z.  AL-DARRAJI | [Read More](https://medium.com/p/c960aedc2589) |
-| Fri, 19 Jun 2026 21:32:30 GMT | Terms of Engagement: What the Anthropic-Trump Truce Talks Reveal About the Future of AI… | CCD-IS | [Read More](https://medium.com/p/e7d9021b1bfb) |
-| Fri, 19 Jun 2026 21:21:00 GMT | What We Fear Most About Growing Old: A Heartbreaking Reality Everyone Faces | Vera Byron | [Read More](https://medium.com/p/5d20f7c04807) |
-| Fri, 19 Jun 2026 21:20:49 GMT | Healthcare Cybersecurity Services: Protecting Modern Healthcare Systems from Digital Threats | CyRx360 Inc. | [Read More](https://medium.com/p/e0d9514bd452) |
-| Fri, 19 Jun 2026 21:01:09 GMT | Is OpenClaw Safe? 2026 Security Risks of Local AI Agents and a Hosted Alternative | Rimlauf | [Read More](https://medium.com/p/ca7433ca6680) |
