@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 20 Jun 2026 10:45:41 GMT | How to Test Web Applications Using Burp Suite: A Practical Login API Security Testing Guide (Spring… | Ahmed Yousef | [Read More](https://medium.com/p/7c1d2bc75856) |
+| Sat, 20 Jun 2026 10:44:58 GMT | What Is Immorpos35.3 Software: A Complete Guide to Modern Business Automation | Pamujulakavitha | [Read More](https://medium.com/p/713a30f18799) |
+| Sat, 20 Jun 2026 10:40:40 GMT | Protecting Your Property: What Every Ontario Owner Should Know About Trespass Laws | Grdsnscrt | [Read More](https://medium.com/p/ddbb0fc63bc5) |
+| Sat, 20 Jun 2026 10:40:32 GMT | Why More Homeowners Are Quietly Switching to Hidden Cameras in 2026 | Criminology Expert | [Read More](https://medium.com/p/ace09bcf4e48) |
+| Sat, 20 Jun 2026 10:32:04 GMT | Why Critical Thinking Is Essential in the Age of Information Overload | Vimal Raj K A | [Read More](https://medium.com/p/c41bbff50693) |
+| Sat, 20 Jun 2026 10:22:51 GMT | Why Smart Liverpool Retail Stores Catch Shop Floor Risks Before They Disrupt Sales | Daken | [Read More](https://medium.com/p/9a2a86617137) |
+| Sat, 20 Jun 2026 10:18:31 GMT | Why Smart York Businesses Use Manned Guarding To Prevent Costly Disruptions Before They Escalate | Junemcdowell | [Read More](https://medium.com/p/5c7daf97327b) |
+| Sat, 20 Jun 2026 10:15:29 GMT | Building My Own VPN Server From Scratch | Zainabqureshi | [Read More](https://medium.com/p/a248a2a2554c) |
+| Sat, 20 Jun 2026 10:05:00 GMT | PortSwigger SQLi Lab 2: | deku | [Read More](https://medium.com/p/37dfa4856d50) |
+| Sat, 20 Jun 2026 10:01:28 GMT | The Ultimate Fix for Antivirus Registration Errors on Windows | Maarit | [Read More](https://medium.com/p/18c6e94b68a6) |
+| Sat, 20 Jun 2026 09:51:57 GMT | VPN Lifetime Subscriptions: A Complete Guide to AdGuard, FastestVPN, OysterVPN, BelkaVPN, and… | Stack Social Deals | [Read More](https://medium.com/p/26f206553add) |
+| Sat, 20 Jun 2026 09:36:49 GMT | OverTheWire Bandit: Level 0 → Level 1 Walkthrough (2026 Guide) | Cyber-30 | [Read More](https://medium.com/p/3ecfbf4b6e9d) |
+| Sat, 20 Jun 2026 09:26:00 GMT | Cross-site request forgery (CSRF) (APPRENTICE) | Nadia | [Read More](https://medium.com/p/451831a07dbf) |
+| Sat, 20 Jun 2026 09:18:42 GMT | Security Checklist for your Backend Systems (Part 2) | Joshua Etim | [Read More](https://medium.com/p/7a177f54c536) |
+| Sat, 20 Jun 2026 09:17:04 GMT | Writeup — Manipulating WebSocket Messages to Exploit Vulnerabilities | praditya arga | [Read More](https://medium.com/p/9b979311eb4a) |
+| Sat, 20 Jun 2026 09:16:22 GMT | Facts season 10 - walkthrough | Ronnie | [Read More](https://medium.com/p/8a1c69c74c8a) |
+| Sat, 20 Jun 2026 09:10:19 GMT | Multi-Factor Authentication (MFA): Why Your Password Is No Longer Enough | Arowolo Seun Samuel | [Read More](https://medium.com/p/8c7b64b7066b) |
+| Sat, 20 Jun 2026 09:04:39 GMT | Authentication Bypass via Information Disclosure in HTTP Headers | Muhammed Asfan - Cybersecurity Researcher | [Read More](https://medium.com/p/f6b2ce283e4c) |
+| Sat, 20 Jun 2026 09:01:02 GMT | eCPPT: Lateral Movement & Pivoting CTF — The “Stop Overthinking It” Run | Cym4g3 | [Read More](https://medium.com/p/74c70f3b9c7b) |
+| Sat, 20 Jun 2026 08:59:42 GMT | I Spent Three Weeks Reverse Engineering a Mobile App’s API — Here’s What It Took | Ali Zaib | [Read More](https://medium.com/p/6c84ab353fd0) |
+| Sat, 20 Jun 2026 08:47:06 GMT | Microsoft SC-900 2026: Security, Compliance, and Identity Fundamentals | Bryan Harris | [Read More](https://medium.com/p/9d6fddc6c601) |
+| Sat, 20 Jun 2026 08:41:36 GMT | Web3 Recon Target Research Kaise Karo | Hacker MD | [Read More](https://medium.com/p/58d692ac4ab0) |
+| Sat, 20 Jun 2026 08:38:23 GMT | Operation Coldstart TryHackMe CTF Walkthrough | C09N1T1V3 | [Read More](https://medium.com/p/7f6290fc1b80) |
+| Sat, 20 Jun 2026 08:22:12 GMT | Kerberos — The Three Headed Dog and How to Kill it? | Mainul Hasan | [Read More](https://medium.com/p/f84af71f76af) |
 | Sat, 20 Jun 2026 08:10:53 GMT | 7 Signs a Linux Server Is About to Have a Bad Day | Fateyaly | [Read More](https://medium.com/p/f35b6f234fc3) |
 | Sat, 20 Jun 2026 08:08:32 GMT | Caught in the Telegram Catch-22: How a Security Flag Protects Hackers, Not Users | Lee Yalkapov | [Read More](https://medium.com/p/234d48eab409) |
 | Sat, 20 Jun 2026 08:05:35 GMT | Testing Oracle Database Connection Security and The Apps using it | Rayhan Tsani | [Read More](https://medium.com/p/76fcefd20ccb) |
@@ -25,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 20 Jun 2026 07:25:20 GMT | Information Disclosure: When a Website Leaks Its Own Secrets (Lab 3) | maharany salsa | [Read More](https://medium.com/p/643ba1c215f8) |
 | Sat, 20 Jun 2026 07:17:42 GMT | Red Team vs VAPT vs Pen Testing - Omnilink Technology | Omnilink Technology | [Read More](https://medium.com/p/16178df38c90) |
 | Sat, 20 Jun 2026 07:17:04 GMT | I Didn’t Trust the Server’s OPTIONS Response And That’s How I Got a Shell | Pranav Verma | [Read More](https://medium.com/p/1da327975185) |
+| Sat, 20 Jun 2026 07:09:12 GMT | Relatório pentest: atacando o acuforum | clara cb | [Read More](https://medium.com/p/cb50e10236ab) |
 | Sat, 20 Jun 2026 07:03:49 GMT | Phishing Attacks in 2026: The Cyber Threat Everyone Should Recognize | Qnayds Insights | [Read More](https://medium.com/p/aff38a88c2ed) |
 | Sat, 20 Jun 2026 06:11:01 GMT | From Zero to Security Researcher: How I Found a Critical IDOR Vulnerability at Swiggy. | Binu B | [Read More](https://medium.com/p/d93236703d27) |
 | Sat, 20 Jun 2026 06:11:00 GMT | The Tool Must Not Think for You | Lefteris Heretakis | [Read More](https://medium.com/p/cd69b5c20063) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 19 Jun 2026 21:21:00 GMT | What We Fear Most About Growing Old: A Heartbreaking Reality Everyone Faces | Vera Byron | [Read More](https://medium.com/p/5d20f7c04807) |
 | Fri, 19 Jun 2026 21:20:49 GMT | Healthcare Cybersecurity Services: Protecting Modern Healthcare Systems from Digital Threats | CyRx360 Inc. | [Read More](https://medium.com/p/e0d9514bd452) |
 | Fri, 19 Jun 2026 21:01:09 GMT | Is OpenClaw Safe? 2026 Security Risks of Local AI Agents and a Hosted Alternative | Rimlauf | [Read More](https://medium.com/p/ca7433ca6680) |
-| Fri, 19 Jun 2026 20:40:53 GMT | Adoption Is Now Foreign Policy | Matt Suheel Mattas | [Read More](https://medium.com/p/7f71c1d296bb) |
-| Fri, 19 Jun 2026 20:39:55 GMT | Suddenly, Everyone Cares About Sovereignty | Christophe Mazzola | [Read More](https://medium.com/p/acc331c0cd3e) |
-| Fri, 19 Jun 2026 20:39:45 GMT | AWS Secrets Manager in .NET: How To Load Your Secrets Straight into IConfiguration | Aref Nozarpour | [Read More](https://medium.com/p/9fcdae4e5802) |
-| Fri, 19 Jun 2026 20:33:29 GMT | The Risk We Are Inviting In: Robot Cleaners In UK Airports | Its Not Nicole | [Read More](https://medium.com/p/daeba5587d0b) |
-| Fri, 19 Jun 2026 20:27:08 GMT | Network Configuration using pfSense | Joseph Ngahu | [Read More](https://medium.com/p/98b114d166fb) |
-| Fri, 19 Jun 2026 20:16:19 GMT | HackTheBox “CodePartTwo” Walkthrough | Abdullah Kareem | [Read More](https://medium.com/p/4892e5dde68a) |
-| Fri, 19 Jun 2026 20:02:36 GMT | TryHackMe: Support Ops Platform Walkthrough | RABABE AZIL | [Read More](https://medium.com/p/7d95ca7e6ae9) |
-| Fri, 19 Jun 2026 19:54:43 GMT | Abducted — HackTheBox Detailed Walkthrough | Beri Contraster | [Read More](https://medium.com/p/af3807a0b2cd) |
-| Fri, 19 Jun 2026 19:50:05 GMT | The Illusion of Regional Lockout: Project Glasswing and the Fallacy of specific “African Exclusion” | Berend Watchus | [Read More](https://medium.com/p/bab0e6bd7d41) |
-| Fri, 19 Jun 2026 19:49:55 GMT | Top 10 Technology Trends in 2026: AI, Cybersecurity, Cloud Computing, and the Future of Innovation | TechPlus Global | [Read More](https://medium.com/p/5523c11cfa98) |
-| Fri, 19 Jun 2026 19:41:00 GMT | How to Audit and Redesign Enterprise Workflows for Agentic AI: A 2026 Playbook | ARTICLE READER | [Read More](https://medium.com/p/63cef2bd46de) |
-| Fri, 19 Jun 2026 19:38:42 GMT | Cybersecurity Isn’t as Complicated as It Sounds — But Most Beginners Learn the Wrong Things First | Shaileen Sorenson | [Read More](https://medium.com/p/f3a839c95f2c) |
-| Fri, 19 Jun 2026 19:37:10 GMT | Splunk Enterprise Vulnerability Exploit Exposes Risk in Security Monitoring Infrastructure | Inforsecpro | [Read More](https://medium.com/p/c4e30c9fa567) |
-| Fri, 19 Jun 2026 19:35:53 GMT | What is Bug Bounty Hunting and Why Is It So Popular in 2026? | Ddm atiq | [Read More](https://medium.com/p/ced8835e486a) |
-| Fri, 19 Jun 2026 19:34:49 GMT | Active Directory Enumeration & Attacks — Skills Assessment Part I | Bisher Arafat | [Read More](https://medium.com/p/fa34434d4c8c) |
-| Fri, 19 Jun 2026 19:23:42 GMT | ASCTray.exe, Malicious or Benign? | Justin C. | [Read More](https://medium.com/p/c5cb130df30d) |
-| Fri, 19 Jun 2026 19:16:19 GMT | ENISA — SBOM Adoption in 2026: From Security Best Practice to Regulatory Imperative (Part I) | SOCFortress | [Read More](https://medium.com/p/f9ea6003bb67) |
-| Fri, 19 Jun 2026 18:59:43 GMT | SSRF Explained Like You Are Five (For Bug Bounty Beginners) | Masood Nfc | [Read More](https://medium.com/p/85a059f5e436) |
-| Fri, 19 Jun 2026 18:57:18 GMT | AdversaryGraph Usecases | Andrey Pautov | [Read More](https://medium.com/p/820d03c3a7ab) |
-| Fri, 19 Jun 2026 18:56:42 GMT | I Tracked My First 90 Days of Bug Bounty Income. Here Are the Real Numbers. | Masood Nfc | [Read More](https://medium.com/p/5ca40d1586a6) |
-| Fri, 19 Jun 2026 18:44:28 GMT | Firmware Reverse Engineering Deep Dive: How to Read Compiled Code When You Have No Source | Akifkhan | [Read More](https://medium.com/p/f5d1e3dc7eab) |
-| Fri, 19 Jun 2026 18:31:38 GMT | Vulnerability Is Not the Same as Trust | Danielle A. Boddy | [Read More](https://medium.com/p/c10df084ad34) |
-| Fri, 19 Jun 2026 18:31:06 GMT | User-based vs. Service-based Sessions in AEM: A Deep Dive | Jaivyas | [Read More](https://medium.com/p/f3759d23e547) |
-| Fri, 19 Jun 2026 18:31:00 GMT | Burp Suite: The Tool Every Bug Hunter and Pentester Eventually Learns | BENSEC | [Read More](https://medium.com/p/9691f952c6dc) |
-| Fri, 19 Jun 2026 18:29:07 GMT | Spec-Driven Development vs. | Majid | [Read More](https://medium.com/p/1a5676f2fe0f) |
